@@ -279,7 +279,7 @@ Annabeth unrolled the paper with shaking hands and held it up to the mist. It wa
 
 The stern woman — someone murmured she was a praetor's aide, or a legacy — stepped forward. "We will try. Hold it to the light."
 
-Annabeth held the drawing into the rainbow shimmer. For a heart-stopping second nothing happened. Then the colors bled at the edges, gold and gray wrapping around the paper, and the copy in Annabeth's hands went pale and thin while something — a shimmer, a ghost of paper — appeared on the other side. The aide caught it, solidifying it with practiced hands, and handed it to Jason, who held it like treasure.
+Annabeth held the drawing toward the rainbow shimmer. For a heart-stopping second nothing happened. Then the colors bled at the edges, gold and gray wrapping around the paper, and the copy in Annabeth's hands went pale and thin while something — a shimmer, a ghost of paper — appeared on the other side. The aide caught it, solidifying it with practiced hands, and handed it to Jason, who held it like treasure.
 
 "I can see it!" Jason breathed. He pointed at each figure. "That's you, that's Lia, that's Percy with stupid hair."
 
@@ -364,7 +364,7 @@ They sat there until the crickets got loud and the tissues were mostly used and 
 
 ---
 
-### Annabeth / Percy
+
 
 The next morning, the drawing table in Cabin One was covered in paper.
 
