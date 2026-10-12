@@ -450,6 +450,107 @@ Percy picked up the rope and went down the scaffold stairs, giving the steward a
 
 ---
 
+When Thalia came down from the scaffold, the repair steward took one look at the sandwich wrapper in her hand and asked whether she'd remembered to eat the rest of her lunch.
+
+"Most of it," she said.
+
+"That wasn't what I asked."
+
+"You and Chiron sound alike."
+
+"I'll take that as a compliment."
+
+He signed her tool return sheet and reminded her that the work crew needed the temporary roof covering checked again after the next rain, not before. Thalia had wanted to volunteer for another shift. Her hand was sore beneath the dressing, and the steward had noticed how often she'd switched the hammer to her other grip.
+
+She did not enjoy being told to stop. She also did not enjoy the knowledge that he was right.
+
+Bea was waiting near the practice yard with the latest emergency drill schedule. She had been one of Thalia's most dependable partners since the storm, partly because she was organized and partly because she didn't mistake anger for competence.
+
+"I need a second opinion," Bea said.
+
+"On what?"
+
+"Whether we should put the younger campers through another full evacuation drill tomorrow. Chiron wants them to practice, but they only just started sleeping properly again."
+
+Thalia examined the schedule. It listed the cabin groups, the assembly points and the names of the counselors who would lead each route. The new footbridge was still waiting for an engineer's sign-off. Several children had asked to avoid the Hall completely.
+
+"We can practice the parts that don't involve the building," she said. "Have the counselors rehearse the counts, and let the youngest group walk the pavilion route in daylight. No horns, no pretending it's an actual emergency."
+
+"What about the upper-bank crossing?"
+
+"Counselors only. Until the footing is checked."
+
+Bea marked the changes. "You realize that's less exciting than your usual plan."
+
+"My usual plan nearly got me electrocuted."
+
+They looked at one another. It was the first time Thalia had said it so plainly.
+
+"I was scared," she added. "I saw the light at the doorway and thought someone was going to get caught. I didn't wait for your signal."
+
+"I know," Bea said. "You also had the door under control until Chiron arrived. Both things can be true."
+
+"I'm beginning to hate that phrase."
+
+"Then use a different one."
+
+Thalia took the pencil and crossed out an unnecessary repeat of the route instructions. She had always believed she was good at emergencies because she'd learned to move before anyone else. Today she had to admit that moving first wasn't always the same as helping. Bea needed someone to design a practice plan children could follow, not someone to prove she'd run faster than the eclipse.
+
+"Can I help with the counselor briefing instead?" she asked.
+
+"That's why I brought you the schedule."
+
+They spent half an hour revising the exercise. Thalia marked places where the line of sight was poor and assigned a senior camper to stand at each turning. Bea asked her to explain the stop procedure to the other counselors. Thalia was about to say she already knew it when she remembered how close she'd come to ignoring Chiron's order.
+
+"Yes," she said. "I'll do it."
+
+Afterward she went to the infirmary to have the dressing checked. Lee Fletcher was tidying a tray of clean instruments when she arrived. He unwrapped her palm, examined the pink skin and told her to avoid sparring until she could grip the practice spear without pain.
+
+"How long?"
+
+"Long enough to heal. I'll check it again in a few days."
+
+"That's not a date."
+
+"It's not a promise either," he said. "The healing isn't going to get faster because I give you a number you like."
+
+Thalia made a face. He ignored it and applied a fresh dressing. She asked whether she could still help with the safety drill.
+
+"If you're supervising from the ground and not handling weapons or charged equipment, yes."
+
+"That's manageable."
+
+"Try it, then. You can be useful without proving how much punishment your hand can tolerate."
+
+She left with the unpleasant knowledge that nearly every adult in camp had been telling her the same thing from a different angle. None of them could fix the fact that she was frightened for Annabeth. They could, however, give her reasons to trust someone else's competence.
+
+At the cabin she found a small pile of neatly folded clothes on her bed and a note that Annabeth had written but not opened. Thalia stopped in the doorway. For a moment she felt anger rise. She hadn't asked anybody to tidy her things, and the little rearrangement made her suspect her sister had been trying to repair their relationship without asking what needed repairing.
+
+She touched the clean shirt. The work was kind. It was also not what she had wanted.
+
+Annabeth came in carrying a stack of library books and noticed her looking.
+
+"I was helping with the inspection," she said immediately. "The windows had to be clear. I folded the things that were on the sill. I shouldn't have moved the rest."
+
+Thalia considered the shirts. In the old days, she would have accepted any attention from her sister without questioning its motive. Now the smallest tasks had become fraught, as if they were evidence that one of them was trying harder than the other.
+
+"Next time ask," she said.
+
+Annabeth nodded. "I will."
+
+"And thanks for doing the window."
+
+The distinction seemed to matter to Annabeth. She set the books down and asked whether Thalia wanted help carrying her repaired armor to the rack.
+
+"I can do that," Thalia said. Then she reconsidered. "You can hold the door. My hand's still clumsy."
+
+Annabeth went to the door without making a speech about progress. They carried the armor together, Thalia holding the heavier piece in her uninjured arm and Annabeth keeping the door clear.
+
+When Thalia returned, she found Bea's revised drill schedule waiting on her desk. It was work she had chosen to do with people who were capable of helping her. The fact did not make the unknown parts of Annabeth's childhood less painful. It did give her something to do tomorrow that wouldn't require running until she couldn't think.
+
+
+---
+
 The canoe lake at four o'clock smelled like sunscreen and warm wood.
 
 Percy sat on the dock with his feet in the water, skipping stones with Nico di Angelo while Bianca — Nico's fourteen-year-old sister, daughter of Hades, dry humor, braids — watched from a striped towel with a book in her lap and corrected Nico's form without looking up.
