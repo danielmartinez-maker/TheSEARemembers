@@ -1304,3 +1304,93 @@ They divided the work before leaving. Nico would continue checking dates and app
 Nobody made a pledge to overthrow Olympus. Nobody claimed to remember a vanished universe. For the first time since Percy had begun asking questions, he had four people willing to test a theory instead of admiring it.
 
 He watched Nico fold the ledger carefully before they went their separate ways. That was worth more than another prophecy.
+
+---
+
+The following morning, Percy went back to the Big House through the front door.
+
+Annabeth came with him, carrying the copied notes and a list of questions they still hadn't answered. Silena walked on Percy's other side. She hadn't insisted on coming, exactly. She'd said someone needed to make sure he returned the page without using a window this time.
+
+Chiron received them in the sitting room.
+
+He looked at the envelope on the table, then at the three campers.
+
+"I had wondered when that would reappear."
+
+Percy held his hands still at his sides.
+
+"I took it from the attic. We were looking at old records. I shouldn't have removed it."
+
+"No," Chiron said. "You shouldn't."
+
+"I can explain why."
+
+"I expect you can. But I would rather hear what you actually found."
+
+Annabeth placed their copies beside the envelope. She explained the different versions and the note marked A, taking care not to claim she knew the author. Chiron listened without speaking. When she finished, he put on a pair of thin gloves and examined the original transcript.
+
+"These are not necessarily different versions of the same utterance," he said. "They may be copies of separate drafts. The archive records will tell us more if we can locate the relevant index."
+
+"Will you look?" Annabeth asked.
+
+"I already have. I will continue."
+
+Percy glanced at Silena. She was watching Chiron, not the paper.
+
+"There's more," Percy said. "A repair at the Hall's northern column. Zoe found a mark, and we want to know who worked on it."
+
+Chiron's expression didn't change.
+
+"That is a reasonable request. One you could have made without borrowing restricted documents."
+
+"Yes, sir."
+
+"Do you understand why the restrictions exist?"
+
+"To keep us out?"
+
+"Partly." Chiron looked at the creased edge of the transcript. "Old papers are easily damaged. A copied line without its source can convince people of almost anything. And the attic contains a person whose rest is not yours to disturb whenever you become curious."
+
+Percy thought of the Oracle's mist hanging above their shoulders. He hadn't touched the chair, but he'd treated the room as though it belonged to anybody who could find a window.
+
+"I'm sorry," he said.
+
+Chiron closed the envelope and wrote a note across its front.
+
+"You will spend two afternoons helping the archivist replace protective sleeves and sort the public records. Both of you. With supervision."
+
+Percy expected Annabeth to protest.
+
+Instead she asked, "Will we be allowed to read them?"
+
+"The public records, yes. That is why they are public."
+
+Silena made a noise that was suspiciously close to a laugh.
+
+"And the repair record?" Percy asked.
+
+"Ask Zoe to bring her copy. We can discuss it with the maintenance team."
+
+Chiron looked at Silena.
+
+"Thank you for accompanying them."
+
+"They wanted to come," she said. "I only made sure they used the door."
+
+Outside, Annabeth waited until they were halfway down the path before she smiled.
+
+"Two afternoons in the archives."
+
+"You're happy about our punishment?"
+
+"I'm thrilled. We get to organize documents, ask questions, and nobody can accuse us of breaking in."
+
+"You're enjoying this too much."
+
+"I've had a difficult week. Let me have it."
+
+Silena walked ahead, leaving Percy and Annabeth enough space to speak quietly. He reached for her hand, and she caught his without looking.
+
+They still had no answer to the question that had brought them here. But the next time they opened an old record, they would know where it belonged and who had been responsible for keeping it.
+
+That felt like a better place to start.
