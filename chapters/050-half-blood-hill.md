@@ -152,6 +152,94 @@ Half-Blood Hill. The pine tree. The place where Thalia Grace had died in the oth
 
 ---
 
+Before the walk to the border, Chiron asked them to empty their bags onto the picnic table behind the Big House.
+
+Percy looked at the pile of supplies and felt betrayed. Silena had spent yesterday packing every sock, sandwich and strip of bandage with the confidence of someone who intended to defeat the entire western United States by organization alone.
+
+"Everything?" he asked.
+
+"Everything you plan to carry," Chiron said.
+
+Thalia dumped a coil of rope onto the boards, followed by a bedroll, a first-aid tin and three packets of crackers. Annabeth lined her supplies up according to size, which Percy recognized as a delaying tactic. Grover produced so many small metal objects that Percy lost count somewhere between the cheese knife and the third emergency can.
+
+"Why are you carrying a horseshoe?" Thalia asked.
+
+"It's lucky."
+
+"You're a satyr."
+
+"That doesn't mean I can't appreciate good craftsmanship."
+
+Chiron held it up, weighed it, and set it in the pile marked *leave behind*. Grover watched it go as though somebody had confiscated a friend.
+
+The inspection wasn't about looking prepared. Chiron made Percy shoulder his bag, run the length of the porch and climb the low retaining wall behind the house without his water powers. When Percy landed, the straps had slipped, and the nectar bottle was pressing unpleasantly into his ribs.
+
+"Reach for your sword," Chiron said.
+
+Percy tried. The bag blocked his elbow.
+
+"Again, after you adjust it."
+
+They worked through the problem. A smaller pack made Riptide easier to reach. A higher strap balanced his weight. Percy moved the nectar to a padded interior pocket and secured his sword where it wouldn't fall when he needed both hands.
+
+Annabeth's turn revealed that her mirror for looking around corners could shatter against her knife sheath. She wrapped it in a spare shirt. Thalia discovered her spear was easy to carry on an open field and nearly impossible to maneuver through a doorway without striking the frame. Grover's enormous bag made him stumble when he tried to turn sharply.
+
+"Do we really need to do this in front of everyone?" Thalia asked after nearly breaking a window.
+
+"Would you prefer to discover the problem while a monster is chasing you?" Chiron replied.
+
+She scowled and tried again, shifting the spear point before she moved.
+
+Percy was surprised by how differently Annabeth took the criticism. She didn't mind being told her packing was flawed. She asked how long they might travel without potable water, and which supplies could be abandoned if they had to run. Her notebook came out, followed by the list of capacities she'd prepared the night before.
+
+"Do not write an answer that depends on a power Percy cannot guarantee," Chiron told her. "A lake may help him. An unfamiliar city might not."
+
+"I know," Annabeth said, and changed a line.
+
+Percy felt the little sting of becoming a variable on somebody else's chart. He also knew why she was doing it. A monster wouldn't wait for them to finish a plan. The difference between being able to use a power and promising it would always be available mattered.
+
+Chiron called them around the table again.
+
+"Three travelers named by the Oracle," he said, indicating Percy, Annabeth and Grover. "One authorized guardian." He turned to Thalia. "I have allowed you to accompany them because the alternative appears to be your leaving without permission. That does not give you authority to overrule every decision they make."
+
+Thalia's jaw tightened. "I heard you yesterday."
+
+"Then repeat it."
+
+"Guardian. Not fourth named quester. I can intervene to protect them. I don't get to decide what the prophecy means."
+
+Grover looked down at the equipment. "What if it means we shouldn't take her at all?"
+
+"Then the Oracle may teach us that our interpretation was wrong," Chiron said. "We cannot eliminate uncertainty by pretending we know exactly what the words require."
+
+Percy watched Thalia absorb that. She wasn't happy. Neither was Grover. Annabeth made a small mark beside her sister's name.
+
+"Can we agree what happens if we disagree in a fight?" Percy asked.
+
+"Before a fight," Annabeth corrected. "That's why we're doing this now."
+
+They settled on a few rules. Grover would report what he sensed without being forced to prove immediately that a smell meant a monster. Annabeth would determine routes when there was time to consult a map. Immediate danger meant the first person who saw it shouted a warning. Thalia would take rear guard when the others were moving. Percy would not turn every problem into a challenge to fight alone merely because he had a sword.
+
+"That last one is strangely specific," Percy said.
+
+"Your sisters supplied it," Chiron replied.
+
+From the grass nearby, Clarisse raised a hand without looking away from the shield she was polishing.
+
+"You're welcome!"
+
+Percy felt his ears heat.
+
+They finished with fewer possessions and a clearer idea of what each person could do. Grover still mourned the horseshoe. Thalia accepted a shorter method of carrying her spear. Annabeth repacked the mirror herself, refusing help with the knot until she'd tried twice.
+
+Percy lifted his pack. It felt lighter, but more importantly he knew where everything was. That was different from merely knowing who had put it there.
+
+They started toward the hill only after Chiron had made each of them run the length of the porch one more time. Nobody fell. Grover made the turn without knocking over the potted plants.
+
+"Now," Chiron said, "you may begin."
+
+---
+
 The walk to the hill was short and felt very long.
 
 They went in a loose line up the dirt path past the cabins, past the arena, past the strawberry fields where the satyrs waved. The grass was wet. The air smelled like pine sap and coming rain.
