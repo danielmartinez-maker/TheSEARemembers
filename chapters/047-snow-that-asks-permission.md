@@ -465,6 +465,115 @@ They sat until their noses were red. It was fluff. It was perfect. Underneath it
 
 Because the watching hadn't stopped. It had gotten worse.
 
+
+---
+
+On the second evening, Percy found out that making a list of rumors was almost as dangerous as listening to them.
+
+Annabeth had borrowed a corner of the Big House library. Her notebook lay open beside a cup of tea she'd forgotten to drink, and four lines of small, precise handwriting filled the top of the page. Thalia stood behind her chair, reading.
+
+Percy pulled up another chair. "You made a list?"
+
+"Not of rumors," Annabeth said. "Of incidents. Chiron asked for things that happened, not things people think happened."
+
+"That's a short list."
+
+"It should be."
+
+He leaned over. The first entry recorded a question asked of a child from Cabin Three during archery practice. The second recorded a satyr overhearing two campers discussing Poseidon. The third was crossed through.
+
+"Why's that one crossed out?"
+
+"Because nobody can tell me who actually heard it," Annabeth said. "Travis says Connor heard it from an Apollo kid, but Connor says he heard it from Travis. That's not evidence."
+
+"That's just the Stolls."
+
+"Exactly."
+
+Thalia tapped the notebook. "This looks official."
+
+"It isn't."
+
+"It will look official if someone finds it."
+
+Annabeth considered that. She closed the cover with one finger marking her place. "Then it stays with me. I'm not making a wall of accusations for people to read."
+
+Percy wished he'd thought of that before imagining all the ways a list could make things worse. He'd come to the library expecting a plan he could follow. Instead he found Annabeth arguing with her sister about the limits of her own plan, which seemed about right.
+
+There was a soft knock at the door. Grover appeared, holding his cap in both hands.
+
+"Am I interrupting?"
+
+"No," Percy said. "Come in."
+
+Grover looked at the notebook and immediately took a step backward.
+
+"I didn't come to report anybody," he said.
+
+"Nobody said you did," Annabeth told him.
+
+"I know. It's just that people think you're collecting names, and a few of them want you to collect theirs. For being loyal to Zeus. And some want you to collect names of kids they don't like. It's turning into a contest."
+
+Thalia swore under her breath.
+
+Percy reached for the notebook, but Annabeth put her hand on it first.
+
+"Tell me who says I'm collecting names."
+
+"Everybody. Sort of. That's the problem."
+
+"Then I have to tell them I'm not." She looked at Thalia. "Before they decide the list proves I'm on one side."
+
+"You're Zeus's daughter," Thalia said. "They'll put you on one whether you want it or not."
+
+"Then they can be wrong."
+
+There was no bravado in the answer. Annabeth looked worn out. Percy knew how much she disliked an unanswered question, and every explanation she might offer camp was another answer she didn't possess herself.
+
+Grover twisted the cap between his fingers.
+
+"Juniper asked whether the Demeter kids should stop tending the plants near Cabin Three," he said. "Not because she thinks Percy did anything. Because she's worried they'll make everything worse if somebody sees them there."
+
+Percy felt an ugly heat crawl up his neck. People were letting a rumor interfere with watering strawberries now. He could stand a few stares; the plants couldn't.
+
+"Tell her not to change her work because of me."
+
+"She said the same thing," Grover replied. "I told her I'd ask you anyway."
+
+"Good," Percy said. "Then neither of you has to stop."
+
+Thalia bent over the table. "Maybe the problem isn't a missing lightning bolt. Maybe the problem is everybody wanting somebody else to look guilty."
+
+"Both can be problems," Annabeth answered. "But only one is in front of us."
+
+She tore the page out of her notebook, carefully, along the binding. Percy reached to stop her before realizing she was folding it into four and putting it in her pocket rather than destroying it.
+
+"What are you doing?"
+
+"Taking the actual incidents to Chiron. The rest stays out of the record."
+
+"You don't have to take it alone," Percy said.
+
+"I wasn't planning to." She looked at Thalia and Grover. "Will you come? And if he asks where we heard something, will you tell him only what you know firsthand?"
+
+Grover nodded at once. Thalia took longer.
+
+"I'll tell him what I know," she said. "But I don't want him telling you to quit asking questions because questions make the gods uncomfortable."
+
+"Neither do I," Annabeth said.
+
+They found Chiron before lights-out. He listened without interrupting, took the folded sheet, and asked exactly the sort of questions Annabeth had prepared for. He did not promise an instant solution. He did promise to speak to the cabin counselors about accusing people without evidence, and to make sure the Demeter cabin could continue its duties without being pulled into a fight.
+
+On the way out, Percy saw Grover smile faintly at the news about the strawberries. The smile didn't solve anything either, but it reminded Percy that camp was full of ordinary jobs worth protecting.
+
+"Good list," he told Annabeth.
+
+"Small list," she corrected.
+
+"Better."
+
+She bumped his shoulder. He took it as agreement.
+
 ---
 
 By the third day, it was open.
