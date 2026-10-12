@@ -470,15 +470,11 @@ Thalia was waiting outside the infirmary when they emerged. She had a rain-soake
 
 Thalia looked at Percy. "Were you there?"
 
-"After it started."
+"I reached the western entrance after she was already trapped," Percy said. "Chiron was there directing the maintenance crew, and I stayed on the dry side of the threshold. He isolated the damaged ward while I kept runoff from crossing the floor."
 
-"And you went inside?"
+Thalia looked at the bandage on his forearm. "You left your own instructor's drill, though. I heard somebody tried to stop you."
 
-"As far as the dry side of the entrance."
-
-"You didn't think to wait for Chiron?"
-
-"He was right there. We worked together."
+"She did. I was wrong to run out without explaining where I was going, and she's made sure I'll be helping repair the practice rack. But I didn't try to handle the electrical discharge myself."
 
 Thalia took a breath through her nose. Percy expected an argument. Instead she turned back to Annabeth.
 
