@@ -318,15 +318,11 @@ Bea grinned, then ran toward the pavilion so quickly she almost lost the helmet 
 
 Percy watched her go.
 
-"You could've told her she did well."
+"You could've told her she did well," Percy said after Bea had gone. "She spent the entire lesson expecting to fail, and the first time she blocked you properly, you sounded as though you were checking a box."
 
-"I did."
+Clarisse inspected the buckle of a practice shield. "I told her she'd earned the right to stop. She knows what that means in this arena."
 
-"You said she did what you asked."
-
-"Same thing."
-
-"Not always."
+"Maybe she does. But it might be worth telling her directly once in a while. She's not going to get worse at fighting because somebody noticed she improved."
 
 Clarisse turned to him, irritated.
 
@@ -354,15 +350,11 @@ He didn't want to use those memories to lecture his sister. He wasn't sure how m
 
 Clarisse stopped.
 
-"That's because her helmet was broken."
+"Her helmet was broken," Clarisse said, a little defensively. "Of course I fixed it. I'm not putting somebody on the training field with equipment that doesn't fit."
 
-"Her confidence was a little broken too."
+"I know. I'm saying she looked more confident after you did. You made it easier for her to concentrate on the spear instead of her helmet falling into her eyes."
 
-"You sound like Chiron."
-
-"Sorry."
-
-"Don't apologize. It's annoying."
+Clarisse considered that, then handed Percy a shield to inspect. "You sound like Chiron when he wants me to change how I teach. He might be onto something occasionally. Don't tell him I said that."
 
 She threw him the last shield. He caught it and checked the straps before adding it to the rack.
 
@@ -384,13 +376,9 @@ Percy looked up.
 
 Clarisse glanced toward the pavilion, where Bea was probably telling her friends how she'd passed the shield test.
 
-"I'll ask her tomorrow whether she remembers the footwork."
+"I'll ask Bea tomorrow whether she remembers the footwork," Clarisse said. "If she does, we can move on to the next set."
 
-"She will."
-
-"You don't know that."
-
-"No. But I think she wants to."
+"She was trying hard enough that I think she will," Percy said, returning a shield to its hook. "And if she doesn't, we know which part to practice again."
 
 Clarisse hung the final shield in its place.
 
@@ -690,25 +678,19 @@ Percy found Clarisse at the lake just before dinner, sitting at the far end of a
 
 He'd been sent to retrieve a coil of rope left by the canoe crew. He wasn't looking for his sister. The coil, however, was at her feet.
 
-"You planning to steal that?" he asked.
+"You planning to take that rope home?" Percy asked, nodding at the coil by Clarisse's feet. "The canoe crew's been looking for it."
 
-"Depends. Is it any good?"
-
-"It's ours."
-
-"Then it's probably terrible."
+Clarisse nudged the coil toward him. "They can have it. The last section's fraying, so tell them not to use it for anything that needs to hold weight. I was about to put it in the repair pile."
 
 She nudged it toward him with one bare foot. Percy picked it up and checked for cuts. Most of the length was sound, but the last yard had begun to fray.
 
-"I'll mark it for repair," he said.
+"I'll mark it for repair when I get back," Percy said, separating the damaged end from the rest.
 
-"Look at you. Learning the rules."
+"You're finally learning how this place runs. It took you long enough to stop assuming a rope would announce when it was worn out."
 
-"I've had an excellent teacher."
+"I learned from somebody who carries a knife everywhere and treats broken equipment as a personal insult. You may have met her."
 
-"Chiron?"
-
-"A terrifying woman with a knife."
+Clarisse rolled her eyes, but she was smiling when she turned back to the water.
 
 Clarisse snorted and drew something out of her jacket pocket.
 
@@ -720,13 +702,11 @@ She held it out.
 
 Percy took it before she decided not to offer.
 
-"What's this for?"
+"What's this for?" Percy asked, turning the little animal carefully so its wings didn't catch on his sleeves.
 
-"Your birthday. Late. Or early. Whichever makes fewer questions."
+Clarisse kept looking across the lake. "Your birthday, if that makes it less awkward. I don't actually know when you were born, and I wasn't planning on asking you to make a speech about it. I had some wood left over and thought you might like it."
 
-"You don't even know when my birthday is."
-
-"Exactly. Efficient system."
+"I do," Percy said. "And for the record, the birthday system needs work, but the panther doesn't."
 
 He turned it in his fingers. The wing feathers were rough along the undersides, but the front of the animal had been polished smooth. A great deal of patient work had gone into something Clarisse was pretending not to care about.
 
@@ -746,15 +726,11 @@ He tucked it into his shirt. "Too late."
 
 She reached for it. He stepped aside. The dock creaked, and she caught his sleeve before he could stumble off the edge.
 
-"Careful, idiot."
+"Watch your feet," Clarisse said, catching his sleeve as the dock shifted beneath him. "Being Poseidon's son won't stop you cracking your head on the edge of a piling. I'd rather not spend dinner explaining to Chiron why you fell in while admiring a wooden cat."
 
-"I'm standing on a dock."
+Percy recovered his balance and looked at her. "I thought we agreed it was a panther. It's even got wings."
 
-"That's the problem with docks. There's water beside them."
-
-"I'm a son of Poseidon."
-
-"That won't stop you cracking your head on a piling."
+"Then try to keep it out of the lake."
 
 She let go. Percy sat a few planks away and put the panther on his knee.
 
@@ -806,15 +782,9 @@ He thought about the wooden panther on his knee. Clarisse had been working on it
 
 "I can't make him better at being your father," Percy said.
 
-"I know."
+"I know I can't fix what's already happened with Dad," Percy said. He settled the carved panther on his knee. "I just want you and Silena to know I'm not going to vanish the moment camp stops being new to me. I like having you both around, even when you make me carry every heavy thing in the cabin."
 
-"But I can be here."
-
-"You're here now."
-
-"Yeah."
-
-"That's a start."
+Clarisse examined him from beneath the loose hair at her forehead. "Then keep doing what you've been doing. Show up for drills, put your gear away, don't make me chase you down every time there's a job. If you manage that for a while, I'll probably believe you."
 
 Percy leaned back on his palms. For a while they listened to the ropes clatter against the canoe racks.
 
@@ -861,15 +831,11 @@ Clarisse pretended not to notice where he'd put it.
 
 Annabeth found Percy at the lake after dinner. He'd gone back to return the repaired section of rope and ended up sitting on the dock longer than he meant to.
 
-"Thalia is looking for you," she said.
+"Thalia is looking for you," Annabeth said as she sat on the dock. "Before you panic, it's about the practice shields. She can't find the ones she signed out this morning, and you're the last person she remembers using the rack."
 
-"That's never good."
+"I put them where Clarisse told me. They're not missing, but I forgot to tell Thalia I moved them. I'll sort it out tomorrow."
 
-"She wants to know whether you moved the practice shields."
-
-"Oh. Then it's fine."
-
-"Percy."
+"Please do. I don't want to spend breakfast refereeing a fight over storage shelves."
 
 "I put them where Clarisse told me. I can show her tomorrow."
 
@@ -999,17 +965,11 @@ They stayed a few more minutes, but not until curfew. Annabeth stood first, and 
 
 At the fork, Annabeth turned toward Cabin One.
 
-"Tell Thalia about the shields tomorrow," she said.
+"Tell Thalia where the shields went tomorrow," Annabeth reminded him at the fork. "And no disappearing into another investigation before you've eaten and finished your duties. If we're doing this together, I want us both awake enough to notice when we've made a bad assumption."
 
-"I will."
+"Fair," Percy said. "Although I reserve the right to complain if you schedule every interesting part of our lives after lunch."
 
-"And don't start another secret investigation before lunch."
-
-"I make no promises about lunch."
-
-"Percy."
-
-"After lunch, then."
+"You complain when I schedule breakfast." She shook her head, but she was smiling as she turned toward Cabin One.
 
 She shook her head, laughing despite herself, and walked back toward her sister. Percy headed for Cabin Three with the carved panther in his pocket, thinking that having people to come home to did not solve the question of what had happened to their past.
 
