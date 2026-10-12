@@ -669,6 +669,159 @@ Afterward they slid down the wall to the floor, both of them breathing hard and 
 
 Afterward the cabin was much too quiet.
 
+
+She remained where she was for another minute, looking at the strip of sunlight that fell across the floorboards.
+
+Rhys was beside her, one arm crooked beneath his head, his expression full of an unguarded satisfaction she suspected she would tease him about later. They'd spent the afternoon with the door closed against the wind, and at some point the whole idea of being bold had stopped requiring any effort. She was still bold. She simply didn't have to demonstrate it every few seconds.
+
+He turned toward her. "What?"
+
+"Nothing."
+
+"You've got the face."
+
+"What face?"
+
+"The one where you're trying to decide whether to insult me."
+
+She considered. "Your floor is terrible."
+
+He looked down at the boards. "It's a floor."
+
+"It has knots."
+
+"Astonishing."
+
+"One of them has been trying to kill my shoulder for twenty minutes."
+
+"Then we should probably move."
+
+"At last, a practical suggestion."
+
+He sat up and offered his hand. She took it, then deliberately pulled him back toward her for a kiss. He laughed against her mouth, surprised enough that she felt a little rush of triumph. She could still catch him off guard. In fact, the more familiar he became, the more she wanted to.
+
+"You're supposed to be helping," he said.
+
+"I am."
+
+"With what?"
+
+"Your attitude."
+
+"Poor progress so far."
+
+She kissed him again before he could elaborate. The room had gone still around them. The sounds from the path beyond the quilted window were ordinary, somebody calling for a missing tool, a bucket being carried across gravel, a door opening and closing farther down the hill. They were not alone in the world. They were only alone with each other, and for this afternoon that was enough.
+
+Thalia shifted onto the soft part of the blanket and rested against him. She had no particular desire to be solemn. She had even less desire to pretend she was untouched by what they'd shared. She looked at him, the way his hair had fallen into his eyes and how pleased he seemed to be that she was looking.
+
+"You were nervous," she said.
+
+"When?"
+
+"When I came in."
+
+"I've told you that before."
+
+"Well, I was wondering if it's getting any better."
+
+He considered. "I think I'm still nervous."
+
+"Really?"
+
+"Yes."
+
+"Why?"
+
+"Because I want things to go well. And because you keep catching me off guard."
+
+"That's not a problem."
+
+"It isn't, unless you make me think I'm failing a test."
+
+She sat up. "Do I?"
+
+"Occasionally."
+
+It was said lightly enough that she could have laughed it off. She didn't. She knew what he meant. She had spent years using competition as a way to get close to people without looking as if she cared whether they wanted her near them. With Rhys the habit persisted even when it no longer served her.
+
+"I'm not grading you," she said.
+
+"Good."
+
+"I like you too much to waste the time."
+
+He looked at her.
+
+She felt her face heat immediately. "Don't."
+
+"I didn't say anything."
+
+"You're about to."
+
+He smiled, a genuine slow smile, and pulled her nearer.
+
+"That is an excellent thing to hear," he said.
+
+"Then don't make me repeat it."
+
+"I'll try to remember."
+
+She rested her forehead against his and laughed at herself. She had said a thing she meant. Nobody had collapsed. The room had not caught fire. Even the stove, which had spent most of the afternoon protesting the temperature, remained mercifully quiet.
+
+He kissed her gently. She could feel the relief in the way he moved closer, not as though she'd finally solved a puzzle for him, but as though they'd both stopped pretending the game was complicated. She liked being liked. She liked liking him, though it was a phrase she would have mocked mercilessly if she'd heard anyone else say it.
+
+"Could I ask you something?" she said.
+
+"Depends."
+
+"Do you ever wish I'd be less difficult?"
+
+He gave it honest thought, which was annoying.
+
+"Sometimes," he said.
+
+She leaned back. "Well. Charming."
+
+"I wish you'd tell me when you're worried instead of taking it out on me. I wish you'd believe me the first time I say something. But I like your sharp edges. I wouldn't have come back to the field every morning if I wanted someone who agreed with everything I said."
+
+Thalia studied him. There was no sentimental performance in the answer. He was telling her exactly what he liked and exactly where she made his life harder. She wasn't used to being offered both at once.
+
+"That's an unusually fair assessment," she admitted.
+
+"I've had time to think."
+
+"Don't make a habit of it."
+
+He laughed, and she leaned back against him.
+
+They stayed close for a while. When she got up, he offered a hand but didn't insist on helping. She found the blanket and shook it out, then wrapped it around both of them as they settled on the cot. It was a more comfortable place than the floor. She was prepared to admit that much.
+
+The cabin felt different with the afternoon light moving along the walls. The first Monday had been all cold wind and a door she almost hadn't opened. Now she knew the slight creak of the cot, the warm corner where the stove's heat gathered, the place on the shelf where Rhys put his glasses when he was trying to avoid losing them. The familiarity didn't diminish her desire to be near him. It made the desire easier to recognize.
+
+Rhys brushed a loose strand of hair behind her ear. She caught his hand, pressed her lips to the inside of his wrist, and saw his composure give way for a moment.
+
+"There," she said.
+
+"There what?"
+
+"You're nervous."
+
+"Thalia."
+
+"Don't worry. I like it."
+
+He looked at her for a second, then drew her into a kiss long enough that she forgot her own cleverness. When she could speak again, she was smiling.
+
+"That was deliberate."
+
+"Very."
+
+"Good."
+
+She wasn't looking for an answer about where this would all lead. Not right now. She wanted the afternoon, and the boy beside her, and the ordinary pleasure of a choice she could keep making as often as she liked. If the future demanded an explanation, it could wait its turn.
+
+
+
 Thalia had claimed the patch of sunlight by the door without considering that a floor could be hard even when the room was warm. Now she was trying to retrieve her sock from beneath the workbench while Rhys hunted for the other half of a shirt button that had disappeared earlier. She found the sock, which was a victory. He found the button, which made him insufferable for nearly a minute.
 
 "You're pleased with yourself," she said.
