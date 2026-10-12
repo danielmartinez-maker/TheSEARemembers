@@ -1,6 +1,6 @@
 ## Chapter 21: Strawberry Fields and Amphitheater Nights
 
-### POV: Percy — Morning, The Strawberry Fields
+
 
 The first thing Percy Jackson learned about strawberry harvest duty was that nobody at Camp Half-Blood woke up cheerful for it.
 
@@ -156,7 +156,7 @@ Percy groaned and Silena laughed, bright as a bell.
 
 ---
 
-### POV: Annabeth — Mid-Morning, Row D
+
 
 Annabeth loved systems. She loved when a plan came together so cleanly you could see it from above like a blueprint.
 
@@ -196,7 +196,7 @@ She picked another berry, perfect and red, and set it gently in the basket. *It'
 
 ---
 
-### POV: Percy — Late Morning, The Great Wheelbarrow Race
+
 
 It started, as most disasters at Camp Half-Blood started, with Clarisse.
 
@@ -300,7 +300,7 @@ She took off. Percy and Annabeth looked at each other, and then they were runnin
 
 ---
 
-### POV: Silena — Lunch, The Shade Tent
+
 
 Silena Beauregard believed, deeply and sincerely, that any problem could be solved with snacks, shade, and good company.
 
@@ -360,7 +360,7 @@ Percy didn't move. The sun was warm. The air smelled like strawberries. Annabeth
 
 ---
 
-### POV: Annabeth — Afternoon, The Finish Line
+
 
 The afternoon blur passed in a haze of red and green and laughter.
 
@@ -402,7 +402,7 @@ Annabeth and Thalia looked at each other, grinned, and chased him.
 
 ---
 
-### POV: Percy — Evening, The Amphitheater
+
 
 If the strawberry fields were the day's work, the amphitheater was its reward.
 
@@ -462,7 +462,7 @@ Grover blushed to the tips of his horns and bleated, "Thanks — thanks, guys �
 
 ---
 
-### POV: Annabeth — Night, Storyteller's Turn
+
 
 After Grover, Chiron took the stage. "We have a special treat. Two of our youngest campers have volunteered —" he glanced at his list, smiling, "— or been volunteered by Thalia Grace — to tell stories tonight. Annabeth Grace, daughter of Zeus, will share a myth. Percy Jackson, son of Poseidon, will follow."
 
@@ -500,7 +500,7 @@ Thalia shoved Percy toward the stage. "Break a leg, Kelp Head!"
 
 ---
 
-### POV: Percy — Night, Atlantis
+
 
 Percy had never performed on this camp's stage in his younger body. He'd been in front of classes for book reports. He'd stood in principal's offices. But he'd never stood in a stone circle under the stars with torches and hundreds of eyes.
 
@@ -518,9 +518,9 @@ He told them about the markets where mermaids sold pearls for jokes, about the p
 
 He stopped, realizing the amphitheater was dead silent, everyone leaning forward.
 
-"My mom told me a story —" Percy said, quieter now, "— my mortal mom, Sally — she used to say Atlantis wasn't destroyed because the people were bad. She said it sank because the gods needed it to be a secret. Because some beautiful things have to hide to survive. And she said one day, when the time is right, it'll rise again. And the tide gardens will fill. And the lighthouse will light."
+"There was a story about the city I liked," Percy said, quieter now. "That it wasn't destroyed because the people were bad. She said it sank because the gods needed it to be a secret. Because some beautiful things have to hide to survive. And she said one day, when the time is right, it'll rise again. And the tide gardens will fill. And the lighthouse will light."
 
-It was Sally's story from his original childhood, one he could carry into this life even while its living Atlantis lay below the water. He looked up at the stars. "I believe her."
+It was Sally's story in the childhood he remembered, but he didn't have to explain its source to an amphitheater full of campers. He could keep that part private while telling them why the story mattered. He looked up at the stars. "I like that version."
 
 The applause started with Annabeth — on her feet, clapping hard — and spread like a wave. Thalia wolf-whistled. Grover stamped his hooves. Clarisse shouted, "NOT BAD, FISH BOY!" which from Clarisse was basically a love poem.
 
@@ -548,7 +548,7 @@ Thalia, with perfect big-sister timing, threw popcorn at both of them. "Stop bei
 
 ---
 
-### POV: Annabeth — Late Night, Under the Stars
+
 
 Music Night ended with everyone onstage — all the performers, all the cabins — singing the camp song badly and loudly, arms around each other, torches guttering low. Ella sang the soup song again as a descant. Grover played. Mr. D conducted with a breadstick. Even Chiron sang, in a deep centaur baritone.
 
@@ -615,8 +615,3 @@ But tonight, with Percy's jacket warm around her shoulders and her friends close
 Not the end of the story. Just the end of a perfect chapter.
 
 She wished on one more falling star — quick and silent, before anyone could tell her not to — and walked home under the wide forgetting sky, while far below, the sea remembered every name.
-
-*End of Chapter 21.*
-
----
-
