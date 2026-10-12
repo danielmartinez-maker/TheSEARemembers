@@ -466,6 +466,166 @@ She did not say that out loud. She would never live it down. But Silena caught h
 
 ---
 
+On Friday afternoon, Clarisse found three younger campers waiting outside Tempest Hall with a note from their instructor. A new sword lesson had been scheduled for the following week, and the instructor wanted volunteers to demonstrate basic defensive footwork without relying on divine abilities.
+
+Clarisse read the note twice. She had been spending the week teaching Percy to use less water, not more, which was a far less impressive accomplishment than anything the camp usually applauded. She could have chosen an older student with stronger arms and a cleaner technique. Instead she asked Percy to come down from the equipment platform.
+
+"Do you want to help with this?"
+
+"How much help?"
+
+"An hour. Maybe two. We need a demonstration that doesn't leave the beginners believing they're supposed to be able to stop a monster by waving their hands."
+
+Percy looked at the note. "I can do that."
+
+"You can try. We practice it first."
+
+He had learned to recognize that distinction in Clarisse's voice. She wasn't insulting him. She was refusing to put a younger camper in the position of having to copy something he couldn't yet perform safely.
+
+They marked a small rectangle on the dry floor. Clarisse took a wooden sword and handed Percy a shield with a padded edge. Silena sat on the steps to check the timing and keep a record of where either fighter slipped.
+
+"The point," Clarisse said, "is not to win. It's to show the first thing a new camper should do when a strike comes from the side."
+
+"Step out of the line and keep the shield between the other person's weapon and your body."
+
+"Good. Demonstrate it."
+
+Percy stepped as she moved. He nearly over-rotated and corrected himself before she could say anything.
+
+"Again," she told him.
+
+They ran it four times. The fifth time she changed the direction of the strike without announcing it. Percy brought the shield up at the wrong angle, caught the padded blow and staggered.
+
+"That's what happens when you memorize the first move and stop watching," Clarisse said.
+
+"It also happens when your sister is being deliberately awful."
+
+"Correct. An opponent won't tell you what she's planning."
+
+Silena made a note. "Can we teach them how to stop when something goes wrong?"
+
+Clarisse turned. "That's what the instructors are for."
+
+"Yes, but if the exercise is supposed to teach beginners, shouldn't they hear the stop command before we ask them to do anything?"
+
+Percy looked at the marks on the floor. He remembered the evacuation drill and how much had changed when a child knew exactly what to do after hearing an alarm.
+
+"She's right," he said. "We should show what happens when someone loses their balance."
+
+Clarisse considered. The idea appealed to her only after she imagined the number of injuries she would avoid explaining to the healer. She called out the stop command, lowered her weapon and walked through the correct response. Percy lowered his shield, checked that they were both standing safely and waited for a restart rather than pretending the exercise continued.
+
+They repeated it until the movement became as familiar as the step itself.
+
+When the younger campers returned with their instructor, Clarisse had prepared a lesson that was almost disappointingly simple. Percy demonstrated the sidestep, the shield position and the stop. One child asked whether he could show the water move he'd used during the Hall incident.
+
+"Not today," he replied.
+
+"Why?"
+
+"Because the lesson is about something you can practice with a wooden shield. The water move depends on a power you might not have, and I still get it wrong when I'm tired."
+
+The boy looked disappointed. Clarisse recognized the feeling. She had spent years wanting a more spectacular answer than the one the instructor had actually given her.
+
+"He did get it wrong," she added. "You should have seen it. It was embarrassing."
+
+Percy gave her a look. The boy laughed.
+
+They practiced the step with partners while Clarisse and the instructor watched. One girl was nervous about lifting the shield because she had hurt her wrist earlier in the week. Silena fetched a lighter practice pad and asked the healer whether the girl was cleared for the exercise. She wasn't, so she observed from the side and helped call the stop command instead.
+
+Clarisse would once have regarded that as an unnecessary accommodation. Now she saw that the girl could still learn where to move without having to hide an injury. The lesson ran more smoothly because nobody was pretending the same approach suited every camper.
+
+Afterward, the instructor asked Clarisse for the revised plan. She had been expecting to hand over the note and let somebody else decide whether it was acceptable. Instead he asked which changes she thought were most useful.
+
+"The stop procedure," she said. "And letting them practice the movement before the attack comes at full speed."
+
+"Good. Can you help train the next group?"
+
+She nearly said yes immediately. Then she remembered the week she'd promised Percy. She had agreed to coach her brother through Sunday, and she didn't want to replace that commitment with a more flattering assignment merely because an instructor had asked.
+
+"After Sunday," she said. "I already have something scheduled."
+
+The instructor accepted that. Clarisse found the answer oddly satisfying. She was useful without being endlessly available, and she had made a promise that didn't need to be abandoned because somebody offered her a more impressive job.
+
+She went back to the equipment platform. Percy was wiping down the shields while Silena checked that the training pads were dry before being stored.
+
+"Your little lesson went well," Percy said.
+
+"Obviously."
+
+"You didn't yell at anybody."
+
+"I yelled at you."
+
+"Not the children."
+
+"One of them asked a sensible question. I can't punish that."
+
+Silena looked up. "You also admitted you changed your plan."
+
+Clarisse bristled. "Do you want me to take back the lighter shield?"
+
+"No. I want to remember the moment so I can use it against you later."
+
+They laughed. Clarisse cleaned the last sword and put the training plan in the instructor's folder. She had wanted Percy to become a better fighter by the end of the week. He was improving. The more surprising result was that she was learning how to teach without proving she could overpower everyone in the room.
+
+That evening, Percy found her on the steps outside Cabin Three with the lesson notes beside her. He sat without asking. She had been staring at the same page long enough to know he would eventually notice.
+
+"Can I ask you something?" he said.
+
+"You usually do."
+
+"Why did you want to spend the whole week training me?"
+
+"Because you need the practice."
+
+"I do. But why so much?"
+
+Clarisse looked toward the path. Silena was returning from the bathhouse with a basket of folded towels. The camp was loud in the comfortable way it became after dinner, with people arguing about whose turn it was to collect the practice equipment and somebody singing off-key near the cabins.
+
+"When you arrived, everybody was excited about your powers," she said. "About what you could do with water and the palace and everything. Half of them were already inventing reasons you'd be the hero in the next emergency."
+
+Percy considered that. "You were one of them."
+
+"I was impressed. That's not the same as thinking you don't need to learn the basics."
+
+"You wanted to make sure I wouldn't get hurt because I thought I knew everything."
+
+"Somebody had to."
+
+Percy turned the practice shield on his lap. "I know the feeling."
+
+She looked at him. His face had become serious enough that she wondered whether she'd said too much. Percy sometimes reacted to ordinary conversations as though they reminded him of something the rest of them couldn't see.
+
+"You can tell me if I'm being too hard on you," she said, the words more difficult than she expected.
+
+He looked up. "I already do."
+
+"You mostly make jokes."
+
+"That's a very sophisticated form of complaining."
+
+"Try using regular words. I'll probably still be annoying, but at least I'll know what you're asking."
+
+He nodded. There was no dramatic promise. Tomorrow she would still wake him before dawn and he would still complain. It mattered that he had been given permission to say when he needed the exercise changed.
+
+Silena arrived with the towels. She handed one to Percy, then gave Clarisse the instructor's signed acknowledgment of the new lesson plan.
+
+"You're teaching the beginner group next week," she said.
+
+"After Sunday," Clarisse corrected.
+
+"That's what it says."
+
+Percy grinned. "Look at you. A famous instructor."
+
+"Say that again and you're carrying the heavy shield tomorrow."
+
+He said it again. She made a note on the training sheet and set it beside his bunk so he would find it at four forty-five the next morning.
+
+
+
+---
+
 Saturday, Percy learned how the other half lived.
 
 He woke before his alarm — 4:40 a.m., dark outside Cabin Three, the sound of the sea through the screen — and for once did not groan. His body hummed, pleasantly sore, used to dawns now. He pulled on trunks and a sweatshirt, grabbed his towel, and met Clarisse and Silena on the path with flashlights.
