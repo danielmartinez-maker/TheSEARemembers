@@ -427,84 +427,141 @@ Percy lowered his sword.
 He couldn't argue with that. It was a good lesson, even if Clarisse would never admit they'd both had something to learn.
 ---
 
-That afternoon, Percy found Silena in the library repairing the binding of an atlas.
+Percy found Silena in the library that afternoon with an atlas spread across three tables and a needle between her teeth.
 
-He had been looking for Clarisse. Silena had noticed him pass the same shelf twice and finally waved him over.
+He had been looking for Clarisse, but Silena noticed him trying to read the spines on the agriculture shelf and beckoned him over. She took the needle from her mouth before speaking.
 
-"Either sit down or stop pretending you're interested in agricultural tariffs," she said.
+"You've passed this shelf twice. Either you've developed a sudden interest in crop rotation, or you're avoiding somebody."
 
-"I was reading the spine."
+"I was hoping Clarisse might be here. She said she'd help me with a shield strap after lunch."
 
-"It's upside down."
+"She's at the arena. Matt asked her to look at some damaged practice gear." Silena held the book cover flat and examined the torn fabric along its spine. "You can hold this while I stitch, if you aren't in a hurry."
 
-Percy sat. Silena threaded a needle through the torn cover and pulled it taut. Her hands were deft, and she kept working while she talked.
+Percy put his bag on the floor and took the weight of the atlas so she could work. The cover was made from stiff board wrapped in cloth. Several pages near the front had come loose and threatened to slide out every time he shifted his hand.
 
-"Clarisse has been in a better mood," Percy said.
+"How old is this thing?"
 
-"She's been arguing with everybody. So, yes."
+"Older than the library's current shelving, which isn't saying much. Chiron says it was donated by an explorer who believed the Mediterranean would be much easier to navigate if every monster had the decency to live where it was drawn on the map."
 
-"What does she do when she's upset?"
+"Didn't work, apparently."
 
-"Why are you asking me instead of her?"
+"Not for the explorer. His second edition is considerably shorter."
 
-"Because she'll pretend she isn't upset and challenge me to a fight."
+Percy laughed. Silena eased the needle through the frayed fabric, pulling the thread slowly until the tear closed another inch.
 
-"Then you'll have your answer."
+"How long have you been doing that?"
 
-Percy watched her tuck the thread through the binding. "I'm trying to understand why she never talks about our father."
+"Repairing the atlas? Since lunch. Repairing books? Since I discovered the library has a budget for new weapons manuals but apparently not for replacing volumes people have spilled soup on."
 
-Silena stopped pulling. A small piece of the cover cracked beneath her thumb.
+"I meant when did you learn?"
 
-"What about him?" she asked.
+"One of the Athena kids showed me. After that I kept practicing. It's mostly patience and the willingness to undo a bad stitch before it becomes six bad stitches."
 
-"He raised me. He doesn't seem to have been around for either of you. I didn't know that when I got here."
+Percy watched the needle emerge on the wrong side of the cover. Silena noticed it immediately, sighed and unpicked the last loop.
 
-"How could you?" She turned the atlas over and examined the damaged corner. "He visits sometimes. Not often. He asks about our training, whether we're behaving, whether Chiron is keeping us safe. He has a talent for asking questions that sound like an inspection."
+"Like that," she added.
 
-"Does Clarisse talk to him?"
+He moved his hand so the spine lay straighter. He wanted to ask about Clarisse, but Silena had already given him a job, and for once he resisted interrupting somebody else's work simply because his question felt important.
 
-"Yes. That's the worst part. She prepares things to show him for weeks. Half the time he arrives in the middle of a crisis and doesn't have a minute to look."
+Silena glanced at him over the atlas.
 
-Percy felt a flash of anger he didn't have an obvious place to put.
+"You can ask. Your face is doing something exhausting."
 
-"You could've told me."
+"Clarisse told me about a tournament. One where Poseidon came to watch her, but he left before the prizes."
 
-"We didn't know you before last month." Silena looked directly at him. "And we weren't planning to greet our little brother by giving him a list of grievances about our father."
+Silena's fingers slowed. She didn't look surprised.
 
-"Fair."
+"She doesn't usually tell people that story."
 
-"Also, don't make this into something you can fix with a speech. Clarisse is still angry even when she laughs with you. So am I."
+"I know. I'm not trying to make her regret it."
 
-He had been halfway toward offering precisely the wrong promise.
+"Then don't spend the afternoon asking everybody else what it meant to her."
 
-"What should I do, then?"
+"I wasn't going to. I just keep thinking about how different things were for us." Percy adjusted his grip as a page slipped loose. "She had to wonder whether he'd turn up. I grew up in his house. I don't remember most of that childhood, but everybody acts as though I should. It's hard to work out what I ought to say to either of you."
 
-"Turn up. When you say you'll train with her, do it. Don't make her work to prove she's worth your time."
+Silena set the needle down. She studied his expression before answering.
 
-"I can do that."
+"Start by not calling one childhood fair and the other unfair as though we can balance them on a scale. Clarisse and I have had a good life at camp, even when we're furious with Dad. You didn't decide where he raised you. We didn't decide where he left us. None of us can repair that with a clever argument."
 
-"You can try. We're all good at making promises when there's no cost yet."
+"I know I can't fix it."
 
-Silena returned to the atlas. Percy noticed she had a repair kit full of scraps and mismatched thread, none of it fancy. She worked with what she could get.
+"You keep looking as though you're planning to try." She picked up a loose sheet, checked its page number and tucked it into place. "I don't want you apologizing for every nice thing he ever did for you. I'd rather you asked us about things we actually care about now."
 
-"Why are you fixing that yourself?" he asked.
+"Like the irrigation plan."
 
-"Because the library won't buy another. And because I like fixing books."
+"Yes. Or Clarisse's carving. Or whether we want to spend our Saturday pulling weeds out of the strawberry beds. Which, incidentally, we do not, but Chiron has informed me that wanting things is not the same as getting them."
 
-"I thought you liked designing things."
+Percy smiled. "I did help with the drainage cut."
 
-"I do. I also like having a page stay attached when I turn it." She looked at him over the atlas. "You can help. Hold this flat."
+"And then you made it worse before making it better, if Clarisse's account is to be believed."
 
-He did. For the next ten minutes they worked together. Once he pulled the thread too tightly and tore the paper, and Silena took the needle out of his hand until he'd stopped apologizing.
+"She told you about that?"
 
-"You are spectacularly bad at this," she said.
+"Percy, your shoes were full of mud and a Hermes camper came through the dining pavilion carrying half a cart wheel. It wasn't difficult to put together."
 
-"So I've been told."
+He let go of the atlas to gesture in his defense. Three loose pages slid across the table. Silena caught two and stared at the third as it drifted to the floor.
 
-"Good. Then you won't be offended when I ask Clarisse to teach you something you're better at."
+"That," she said, "is why you're helping me."
 
-They finished the binding and set the atlas beneath two heavy dictionaries to dry. Percy walked out of the library with a job to do the next morning and no illusion that he'd solved anything.
+"Sorry."
 
+"Pick up the page. Carefully. The ink is older than both of us, and if you tear it I'm going to tell Clarisse you broke something else."
+
+He retrieved it by the edges and passed it back. Silena didn't make him feel foolish for long. She handed him a clean cloth, showed him where to support the spine, and let him try a single stitch.
+
+His first attempt pulled too tightly and puckered the fabric.
+
+She caught his wrist before he could make the next.
+
+"Don't fight the thread. It's not trying to win."
+
+"I have very little experience with things that aren't."
+
+"Then consider this an education."
+
+She unpicked his stitch, laid the material smooth and guided him through the next one without holding his hand. The needle went where it was supposed to. Percy looked absurdly pleased with himself.
+
+"You're good at teaching," he said.
+
+"I'm good at keeping people from destroying my books. There is a difference."
+
+For a while they worked in companionable quiet. Silena asked him which part of camp felt most like home so far, and he described the hollow water channels under Cabin Three and Clarisse's habit of scolding him for leaving things in the wrong place. When he mentioned the rooms in Atlantis he'd learned about from Amphitrite, Silena listened without asking why his descriptions sometimes sounded as though he'd been told them rather than remembering them.
+
+Finally Percy said, "Does it bother you when I talk about him?"
+
+"Our father?"
+
+"Yes."
+
+"Sometimes," she admitted. "It depends what you're saying. I don't mind hearing that he's kind to you. I mind when somebody tells me that means I've misunderstood all the years he wasn't there for us."
+
+"I won't say that."
+
+"I believe you." She passed him another page to hold steady. "And one of these days I'd like to visit Atlantis without spending the entire trip feeling like I have to prove I belong. That isn't something you can promise for him, either."
+
+"No. But if you ever come while I'm there, I'll show you around. Or I'll ask somebody who actually remembers how the palace works to show us both."
+
+"That sounds more realistic." She smiled at him. "I'd like that."
+
+They finished the binding and set the atlas between two heavy dictionaries while the glue dried. Silena wrote the date and the repair method on a card for the library records. Then she took the cloth from Percy's hands and found a strip of pale thread caught on his sleeve.
+
+"You've got half a book following you home."
+
+"Is that a problem?"
+
+"It is when I'm trying to return all of it to the shelf."
+
+She pulled the thread away, packed her repair kit and pointed him toward the door.
+
+"Clarisse should still be at the arena. If she's in a foul mood, remind her she promised to help with your shield strap before she agreed to repair every damaged weapon in camp."
+
+Percy picked up his bag.
+
+"And if she asks what we talked about?"
+
+"Tell her we fixed a book. That's what we did."
+
+He headed out with sore fingers, a lesson in binding he was unlikely to master quickly, and no expectation that one conversation could settle what he and his sisters had inherited from Poseidon.
 ---
 
 Percy found Clarisse at the lake just before dinner, sitting at the far end of a low dock with her boots beside her.
