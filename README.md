@@ -21,5 +21,6 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Chapters 2–6 batch overview](editorial/audits/BATCH-002-006.md)
 - [Chapters 7–26 batch overview](editorial/audits/BATCH-007-026.md): 20 individual chapter reports and revision issues
 - [Chapters 27–66 batch overview](editorial/audits/BATCH-027-066.md): 40 individual source-referenced audits and GitHub revision issues
+- [Chapters 67–193 batch overview](editorial/audits/BATCH-067-193.md): all 127 chapter screenings, exact-duplication results and [priority backlog issue #97](https://github.com/danielmartinez-maker/TheSEARemembers/issues/97)
 
 Audits document proposed fixes. The chapter prose remains unchanged until edits are separately made and reviewed.
