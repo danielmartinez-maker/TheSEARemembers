@@ -2,7 +2,7 @@
 
 Percy knew the gnome place was going to be trouble because Grover would not stop talking about how good the grass smelled.
 
-It was late afternoon on the second day after the river. The quest van they had borrowed from a friendly nymph depot smelled like hot vinyl and old french fries. Thalia drove with both hands tight on the wheel. Annabeth sat up front with the map open on her knees. Percy sat in the back with Grover, watching cornfields roll past the window.
+It was late afternoon on their second day beyond camp. The Mississippi was still ahead of them. The quest van they had borrowed from a friendly nymph depot smelled like hot vinyl and old french fries. Martin, the licensed driver arranged through the nymph depot, kept both hands on the wheel. Annabeth sat up front with the map open on her knees. Percy sat in the back with Grover, watching cornfields roll past the window.
 
 Grover kept lifting his nose and sniffing.
 
@@ -20,7 +20,7 @@ Percy sat up straighter. "Buzzing like the bolt?"
 
 "He said it made his teeth hurt," Annabeth said. "And his radio went to static when he carried it. He put it in his truck and drove it one town over and dropped it at a Hermes Express stop. He said he was glad to get rid of it."
 
-Thalia glanced in the rearview mirror. Her black hair was pulled back and her silver circlet caught the sun.
+Thalia glanced back from the passenger seat. Her black hair was pulled back and her silver circlet caught the sun.
 
 "And he just told you this?" she asked.
 
@@ -36,7 +36,7 @@ Annabeth folded the map. She looked tired around the eyes. She had not slept wel
 
 "Yeah," she said. "But we are careful. A garden place that ships in the middle of the night? That is weird. Real garden stores close at five."
 
-Thalia turned off the highway onto a narrow county road. "Weird is our job."
+Martin turned off the highway onto a narrow county road. "Weird is our job."
 
 The road curved past a bait shop and a closed mini golf course with a giant dinosaur. Then the corn opened up and Percy saw it.
 
@@ -50,7 +50,7 @@ Grover pressed his face to the window. "Oh. Oh no."
 
 "The grass here smells scared," Grover whispered. "Like it wants to be somewhere else."
 
-Thalia slowed the van. "Scared grass. Great. My favorite."
+Martin slowed the van. "Scared grass. Great. My favorite."
 
 Annabeth stared at the rows of statues. Her hand tightened on the map. Percy knew that look. That was her strategy look, the one she got when pieces started to fit and she did not like the picture.
 
@@ -66,7 +66,87 @@ Percy felt cold under his shirt. "You think this is her?"
 
 ---
 
-Thalia parked the van under a maple at the edge of the gravel lot, far from the house.
+The nymph depot had seemed too good to be true, which was the first thing Percy disliked about it.
+
+It was an ordinary-looking service station near a cluster of highway exits. A faded sign advertised vehicle repairs, coffee and local maps, but the woman behind the counter had bark-colored hands and a green ribbon woven through her hair. She had asked to see Chiron's message twice, first in Greek and then with her fingers pressed against the wax seal.
+
+"He's sent children," she'd said.
+
+Thalia, who was sixteen and already angry at being addressed as a child, had folded her arms. "He's sent us. We have a deadline."
+
+"You have a guardian agreement, not a motor-vehicle license."
+
+"That's a detail."
+
+"It's the sort of detail that gets mortals killed if you ignore it."
+
+The nymph had shown them the service log. Her depot occasionally transported stranded demigods to another trusted contact. The van was scheduled to make a supply run, and the authorized driver had been injured in a monster attack the previous week. The van was sitting idle. It had enough fuel to reach the next safe contact but not to carry a family across the country.
+
+Percy had watched Thalia calculate her options. Walking would cost them time they didn't have. The bus connections were unreliable. The nymph was plainly not going to turn keys over without a serious conversation.
+
+"Can you drive us?" Annabeth had asked the nymph.
+
+"I can't leave the station. The dryads depend on the pump's water supply." She had tapped the posted list of contacts. "I can call a licensed mortal who knows about camp. He can take you as far as the county line, where another contact may help. I won't promise you more than that."
+
+The driver had arrived forty minutes later, a gray-haired mechanic named Martin who smelled of coffee and engine oil. He had made them stow their weapons where nobody could accidentally swing them into his face during a turn. Thalia had spent the drive asking questions about the van, from its fuel consumption to the rattling dashboard. Martin answered some and told her to stop distracting him from the road when the traffic was heavy.
+
+At the second safe stop, the arrangement had fallen apart. The next driver was unavailable, and Chiron couldn't be reached immediately. Martin had offered to take them only as far as the next town, where a trucker might know a longer route west. Thalia had listened, then asked if the van could be left with the contact at the next depot while they searched for another ride.
+
+The nymph and Martin had agreed, provided no one unlicensed drove it on public roads. Percy remembered Thalia's expression when she accepted the condition. She had looked like she was swallowing a sword.
+
+And then, in the parking lot of the roadside diner, Grover had found the trucker who'd handled a humming box.
+
+The man had been sitting at the counter with a cup of coffee, rubbing the heel of his hand against his jaw. Grover had noticed the little photograph tucked behind his driver's license when he paid for breakfast. It showed three goats in front of a red barn.
+
+"Those yours?" Grover had asked.
+
+The trucker had looked surprised. "Used to be. Grew up with them. Had to move away."
+
+Grover had pulled out his own picture of Juniper's favorite maple, and the conversation had gone from goats to trees to the miserable music a frightened engine made before it broke down. The trucker liked talking to somebody who listened. Percy had waited at the next booth while Annabeth wrote notes.
+
+When the man mentioned a buzzing shipment, Annabeth's pencil stopped.
+
+"A shipment that made your radio cut out?" she'd asked.
+
+"Yeah. Freaky thing. Couldn't wait to get rid of it."
+
+She hadn't told him why they cared. She'd asked for a date, a pickup address and the name of the transport company. The trucker wasn't sure about the name on the paperwork but remembered the garden-gnome sign because its letters were painted red and green. He also remembered a black car waiting near the overnight drop point.
+
+Grover thanked him for the information without making it sound as though he'd just moved their entire quest forward.
+
+Back outside, Percy had watched Annabeth compare the address with the depot's map. The clue wasn't proof that the box contained Zeus's bolt. It wasn't proof that the black car belonged to the thief. But it was a particular object, a particular route and a witness who'd carried it.
+
+"We could go straight west and hope," Percy had said.
+
+"Or we could check the only lead we have," Annabeth replied.
+
+Martin had been reluctant to detour, but the garden emporium lay close enough to his authorized route that he agreed to drop them at the public road turnoff. Thalia persuaded the nymph to let them carry their supplies to the stop in the van; Martin would retain the keys and park outside the property while they investigated. From there, the children would need another arranged ride, not an open-ended promise to drive themselves.
+
+It was messy, slower and far less glamorous than Thalia's original plan. It also meant they had an adult who could call for help if they did not come back.
+
+As they approached the emporium, Martin eased the van along the county road and asked whether they were sure.
+
+"No," Annabeth answered. "That's why we're looking before we get out."
+
+Percy glanced at his girlfriend's bandaged hand, resting beside the notebook. She had managed the entire conversation without pretending she knew who the black-car driver was or how many people might be involved.
+
+"Do we tell Martin what we're looking for?" Percy asked.
+
+"Only that the place could be dangerous," Thalia said. "He doesn't need to know about the bolt to stay out of trouble."
+
+Martin heard her anyway. He stopped by the side of the road where the garden sign was visible between the trees.
+
+"If you kids don't return in half an hour," he said, "I'm calling the number Chiron gave me. Agreed?"
+
+Thalia nodded, unhappy about needing the safeguard and unwilling to argue with it.
+
+"Agreed."
+
+They moved from the van toward the gravel lot. Percy was grateful the mechanic would be waiting out of sight. For once, a mortal adult on the road didn't have to be somebody they rescued after a disaster. He could be somebody who kept them from disappearing without a trace.
+
+---
+
+Martin pulled the van under a maple at the edge of the gravel lot, far from the house, and waited by the driver's door as the four of them got out.
 
 No other cars were there. The lot was empty except for dust and a wheelbarrow tipped on its side. A wind chime on the porch moved even though Percy did not feel wind.
 
