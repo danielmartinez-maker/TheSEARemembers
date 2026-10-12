@@ -76,7 +76,7 @@ Percy wasn't sure he wanted to get used to it.
 
 ---
 
-After breakfast, Chiron found him. The centaur was in his wheelchair disguise — Mr. D's least convincing form, in Percy's opinion — and he had the same kind eyes and patient demeanor that Percy remembered.
+After breakfast, Chiron found him. The centaur was using his wheelchair disguise, with the same kind eyes and patient demeanor Percy remembered.
 
 "Percy," Chiron said warmly. "I trust you slept well?"
 
@@ -98,7 +98,7 @@ In this timeline, they were common enough to warrant their own building.
 
 "Thanks," Percy said, turning toward him. "I'll check it out."
 
-He spent the rest of the morning exploring. He found the lake — the same lake where he'd fought the Minotaur in the original timeline, where he'd trained with Luke, where he'd learned to swim without thinking. It was smaller here, ringed by trees that leaned toward the water like supplicants.
+He spent the rest of the morning exploring. He found the lake. In the life he remembered, he'd spent long afternoons here learning to swim with the naiads, planning with Annabeth, and watching canoes drift among the reeds. It was smaller here, ringed by trees that leaned toward the water like supplicants.
 
 He found the training grounds, the archery range, and the amphitheater. But there were differences everywhere, small and large, and each one reminded him that this wasn't his world. It looked like his world. It smelled like his world. But underneath the familiar surface, something was fundamentally different.
 
@@ -557,5 +557,3 @@ Clarisse considered him for a moment, then pointed at the hook by his bunk.
 Percy did. Silena was already asleep, and he didn't want to wake her. Outside, the cabin lights were going out one by one.
 
 He still had no explanation for the changed camp or the years he couldn't remember. But tomorrow Clarisse was going to show him a map. He could begin with that.
----
-
