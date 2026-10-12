@@ -530,6 +530,60 @@ Chiron stopped by to bless the meal. Mr. D waved from a distance with his soda, 
 
 The food was a mix — camp stew and fresh bread from the kitchens, plus the last of the Atlantean picnic parcels Amphitrite had saved back. Tyson ate three tarts in one bite and cried a little. Grover ate sea beans until his eyes watered. Silena braided Amphitrite's hair while they ate, her fingers quick and gentle, and Amphitrite let her, eyes half-closed in bliss.
 
+Amphitrite had brought a small shell case with her, but she hadn't opened it until the dishes were cleared. She put it between the bowls and lifted the lid.
+
+Inside lay a traveling *Tessera* board, its grooves painted in dark blue, the pieces so small Clarisse nearly mistook them for candy.
+
+"Is this the game you keep complaining about in your letters?" Silena asked Percy.
+
+"Complaining is a strong word."
+
+"You called it a personal insult designed by the sea."
+
+"That's also accurate."
+
+Amphitrite laughed. "He used to insist on playing until he won."
+
+Percy felt the familiar hesitation at *used to*. He could remember losing to her during the week before camp, but not all the games she was talking about. He picked up one red piece and looked at the channels instead of at her face.
+
+"Want to teach us?" Clarisse asked.
+
+"I can teach the rules," he said. "Winning is a different matter."
+
+Silena moved her plate and waved Annabeth closer. "Sit. I want to see whether an Athena-type brain can beat a sea queen."
+
+"A what-type brain?" Annabeth asked.
+
+"Architect brain. You know what I mean."
+
+Annabeth sat. "I do, and I'm choosing to be offended."
+
+Percy opened the first gate. A thin current moved the red piece toward the center, and Clarisse leaned forward to stop him.
+
+"You can't move two at once."
+
+"I can if the channels join."
+
+"Then that's a ridiculous game."
+
+"Finally, someone understands."
+
+Amphitrite let them argue. She reached over only once to steady the board when Grover bumped it with his elbow. She looked pleased, not puzzled, to watch Percy explain a game he'd been learning again without telling anyone that was what he'd been doing.
+
+Annabeth watched him avoid the gate that had beaten him repeatedly in Atlantis. The small victory mattered to him more than it should have. She didn't mention why.
+
+At the third turn Silena opened a channel that carried all Percy's pieces into Clarisse's corner.
+
+"Oh, that's evil," Percy said.
+
+"Thank you."
+
+Amphitrite smiled into her cup. Percy had not lied when he'd told her camp was making him happy. He had only kept the reason he needed to come here locked safely behind that answer.
+
+The game continued until Chiron arrived to tell them the evening schedule was already behind. Clarisse refused to stop before she had beaten Silena, and Amphitrite agreed to leave the board in Cabin Three. She said Percy could show his sisters the tournament rules another night.
+
+He promised to try.
+
 "Tell us a story," Silena begged. "About the sea. About when Percy was little."
 
 "Oh, I have many," Amphitrite said, eyes gleaming. "Did he ever tell you about the time he tried to ride a sea cucumber and it — "
