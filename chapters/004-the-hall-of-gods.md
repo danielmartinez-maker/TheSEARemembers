@@ -228,6 +228,176 @@ Annabeth smiled — small and conspiratorial. "When?"
 
 ---
 
+Annabeth spent the hours before sunset trying to prove Percy wrong.
+
+It was usually a useful exercise. He made some dramatic assertion, she looked for the facts, and by dinner one of them was irritated and the other had learned something. Sometimes they switched places.
+
+Today's assertion was that the missing prophecy, the Hall and the changed family histories were parts of one plan.
+
+Percy hadn't said it quite that neatly. He'd said he didn't think the coincidences were coincidences. The distinction mattered to him. It mattered to Annabeth too, because she was afraid he might be right.
+
+She brought three camp records to the library's longest table and arranged them by date.
+
+The first was a work schedule from the summer three years earlier. It recorded timber deliveries and permission for extra storage near the forge. The second was a roster of cabin assignments, copied into a clerk's cramped writing. The third was a list of divine visitations posted for parents and counselors.
+
+Nothing on the pages mentioned a stolen prophecy.
+
+Percy arrived with two pencils, a plate of bread and the look he wore when he'd learned something and was trying not to say it until she asked.
+
+"You found the repair record," she said.
+
+"Not exactly. Zoe knows where it is. She'll let us look at it if Chiron agrees."
+
+"Which means we can ask Chiron."
+
+"Tomorrow."
+
+"Why tomorrow?"
+
+"Because tonight we're investigating."
+
+Annabeth put down the pencil.
+
+"That's not an answer."
+
+He sat across from her, took a piece of bread and offered her the plate. She shook her head.
+
+"If we can ask him tomorrow, why break into the Big House tonight?"
+
+"Because Chiron knows we're asking questions. He'll keep us away from anything he doesn't want us to find."
+
+"Or he'll let us look at what we're allowed to see and explain why the rest is restricted."
+
+Percy stopped chewing.
+
+"You think he'll tell us everything?"
+
+"No. I think he deserves the opportunity to tell us something."
+
+Percy glanced at the records. "He did say the authorization files were incomplete."
+
+"Exactly. So why would one more secret trip be useful? If we find a copied prophecy, it won't tell us who changed it, or when, unless we can compare it against something with a known source."
+
+"Then that's what we'll do."
+
+Annabeth had expected an argument. Instead he pulled the work schedule toward himself.
+
+"What's on this one?"
+
+"Deliveries. Staff. A lot of ordinary repairs."
+
+"Anything missing?"
+
+"The first week's receipts. Maybe. They aren't in the library copy."
+
+"Could be filed somewhere else."
+
+"Could be. And that's the problem. We don't know enough to distinguish missing from misplaced."
+
+He picked up the roster.
+
+"These names," he said. "Did they move cabins when they built the Hall?"
+
+"Some did. I checked. But the moves happened after the first stone was delivered, not before."
+
+"Which proves?"
+
+"That whoever built the Hall had the authority to rearrange camp space." She turned the roster around and tapped a name. "It doesn't prove they rearranged anyone's past."
+
+He was quiet.
+
+For a while they worked without talking. Percy made two lists, one for things they knew and another for questions they wanted to ask. He misspelled *authorization* three different ways before Annabeth wrote it across the top of the page for him. He accepted the correction without complaining. That worried her a little.
+
+At the far end of the room, two Athena campers were arguing about the relative strength of different types of joints. Annabeth caught herself listening. The argument was familiar, almost comforting: one of them insisted that the mortise-and-tenon method could be reinforced with bronze plates; the other said the bronze would fail before the wood under salt conditions.
+
+In the life Annabeth remembered, she would have joined the debate. Here she sat with the son of Poseidon, reading a story that seemed to imply her life had been rewritten around an absent father and a sister she couldn't remember growing up with.
+
+"You're doing it again," Percy said.
+
+"Doing what?"
+
+"Looking at something you can't reach."
+
+"That's a strangely poetic observation from you."
+
+"I have my moments."
+
+She looked toward the Athena table. "I miss being one of them."
+
+He followed her gaze, then looked back at her.
+
+"The Athena cabin?"
+
+"Being recognized. Having a place to go when I want to talk about architecture without someone deciding it means I'm avoiding training. Having a godly parent who makes sense with the person I remember."
+
+"Does Zeus make no sense?"
+
+"Sometimes I can feel weather coming before anyone else notices. I can move air badly and break paper very efficiently. That's all new. I don't know what it says about me."
+
+"Maybe nothing."
+
+"It says something. But I don't have to figure that out tonight."
+
+Percy passed her a pencil. She took it, and their hands touched over the table. It wasn't the first time they'd disagreed about something dangerous. It was the first time she'd been afraid their remembered history might make it easier to justify risking someone else's.
+
+"Here are my conditions," she said.
+
+He straightened in his chair.
+
+"We don't touch the Oracle. We don't go past any barrier that feels active. We don't take anything we can't document and return. If we're spotted, we stop running before somebody gets hurt."
+
+"Agreed."
+
+"And we tell Chiron what we found if it shows someone else is in danger."
+
+He looked less certain.
+
+"If it also tells him things about us?"
+
+"Then we work out what can be shared without telling him where our memories came from. I don't want to use a secret as an excuse to let somebody get hurt."
+
+Percy watched her for a few seconds.
+
+"Okay," he said.
+
+She wrote the conditions on the inside cover of her notebook. She didn't expect the list to make sneaking into the Big House a good idea. It made the decision theirs, instead of something driven by fear and the thrill of a mystery.
+
+At dinner, Silena came over with an extra napkin for Percy.
+
+"Your shirt is inside out," she said.
+
+Percy looked down. It was.
+
+"I was distracted."
+
+"I can tell." Silena straightened his collar, then glanced at the records sticking out of Annabeth's bag. "Planning something?"
+
+"Studying," Annabeth said.
+
+Silena smiled in a way that made it clear she hadn't been fooled.
+
+"Try to eat before your next brilliant idea."
+
+Percy waited until she'd gone back to the Poseidon table.
+
+"She knows."
+
+"She knows you forget to eat and can't dress yourself."
+
+"Also true."
+
+Annabeth took another piece of bread. Around them the pavilion was filling with noise. Thalia was laughing at something Clarisse had said. Chiron was helping a younger camper fix a chair leg that had come loose. There were people to lose here.
+
+Annabeth folded her notebook closed.
+
+"If we find nothing tonight," she told Percy, "we don't invent something to make the risk worth it."
+
+He nodded.
+
+She believed he meant it. She wasn't sure either of them would find the rule easy to keep.
+
+---
+
 That night, they crept through the darkness toward the Big House.
 
 The camp was quiet, pine needles soft underfoot and cold starlight prickling the skin. The cabins were dark, the dining pavilion's bonfire had burned down to embers, and the only sound was the distant crash of waves against the shore. Percy moved with the practiced stealth of someone who'd spent years infiltrating enemy territory — which, technically, he had.
