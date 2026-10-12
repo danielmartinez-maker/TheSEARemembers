@@ -20,5 +20,6 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Chapter 1 audit](editorial/audits/chapter-001.md) and [Issue #1](https://github.com/danielmartinez-maker/TheSEARemembers/issues/1)
 - [Chapters 2–6 batch overview](editorial/audits/BATCH-002-006.md)
 - [Chapters 7–26 batch overview](editorial/audits/BATCH-007-026.md): 20 individual chapter reports and revision issues
+- [Chapters 27–66 batch overview](editorial/audits/BATCH-027-066.md): 40 individual source-referenced audits and GitHub revision issues
 
 Audits document proposed fixes. The chapter prose remains unchanged until edits are separately made and reviewed.
