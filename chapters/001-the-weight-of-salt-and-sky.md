@@ -10,7 +10,7 @@ For a moment, he couldn't tell what was wrong.
 
 Then the memories arrived.
 
-Not the memories of this childhood. The *other* one. The one that was his, that had to be his, because he remembered every second of it with the stubborn clarity of waking life.
+Not the memories of this childhood. The *other* one. The one that was his, that had to be his, because too many of its details were still clear to mistake it for a dream.
 
 Sally's apartment. The smell of blue chocolate chip cookies. Yancy Academy. The Mythomagic board game. The Minotaur's breath on his neck, hot and rancid, its claws tangled in his hair. Chiron's kind eyes behind half-moons. Annabeth.
 
@@ -20,7 +20,7 @@ Percy sat up so fast his head spun. He looked down at his hands. They were small
 
 "This isn't..." he started, and his voice cracked on the second syllable. A child's voice. A stranger's voice.
 
-He was in a chamber in Atlantis, twelve years old and remembering seventeen. He remembered Tartarus, the ash, the screams, the way Annabeth's hand had felt in his, like the only solid thing in a collapsing world. He remembered the Giant War, the pages of the prophecy, the taste of ambrosia on his tongue. He remembered New Rome, the university pamphlets, the apartment they'd circled in a real estate listing, the three recommendation letters that stood between him and a normal life.
+He was in a palace beneath the sea, twelve years old and remembering seventeen. He remembered Tartarus, the ash, the screams, the way Annabeth's hand had felt in his, like the only solid thing in a collapsing world. He remembered the Giant War, the pages of the prophecy, the taste of ambrosia on his tongue. He remembered New Rome, the university pamphlets, the apartment they'd circled in a real estate listing, the three recommendation letters that stood between him and a normal life.
 
 He remembered the last quiet evening with Annabeth, university pamphlets spread across their bed as they argued about a secondhand sofa for an apartment they couldn't afford yet. That had been their biggest problem. For once.
 
@@ -44,7 +44,7 @@ The nightmare. Percy didn't know what nightmare she meant, and the not-knowing w
 
 He couldn't. Not yet.
 
-"I'm fine," he said. "Just, weird dream."
+"I'm fine," he said. "Just a weird dream."
 
 Amphitrite crossed the room and sat on the edge of his bed, reaching up to press her palm against his forehead. Her hands were cool and smooth, and the gesture was so achingly maternal that Percy's throat closed.
 
@@ -58,7 +58,7 @@ But this Amphitrite didn't know that. This Poseidon didn't know that. To them, h
 
 "Okay," Percy said slowly. "Yeah. I'm nervous."
 
-Amphitrite smiled, and the smile transformed her face from divine to maternal in a way that made Percy's chest hurt. "You'll be wonderful. Your father has spoken to Chiron personally. And Grover will be there to meet you, he's very excited to finally meet you."
+Amphitrite smiled, and the smile transformed her face from divine to maternal in a way that made Percy's chest hurt. "You'll be fine. Your father has spoken to Chiron. Grover will be there to meet you, and apparently he's already excited about it."
 
 Grover. The name sent a jolt through Percy's system. In his original timeline, Grover had been his best friend for years. His protector. His brother in everything but blood. This Grover, the one who existed in this altered life, had never met him. Wouldn't know him. Would see a strange, sheltered prince from the sea instead of the partner-in-mayhem Percy remembered.
 
@@ -149,7 +149,7 @@ The walk to his chambers was quiet. Amphitrite waited outside his door, concern 
 
 "He's fine," Poseidon said. "He'll be fine."
 
-And then they were gone, leaving Percy alone in the corridor with the weight of his father's secret pressing down on him and the knowledge that he was about to face something he couldn't prepare for.
+After his father left, Percy stayed in the corridor. He couldn't decide whether the warning was meant to protect him or prepare him.
 
 ---
 
@@ -545,7 +545,7 @@ He thought about Sally's apartment. The smell of blue cookies. The small kitchen
 
 They reached the crest of Half-Blood Hill, and the camp spread out below them.
 
-Percy had seen the camp before. He'd seen it in its original configuration, the cabins arranged by godly parent, the dining pavilion, the climbing wall that doubled as a lava fight, the strawberry fields that stretched toward the border. This version was similar but not identical. The cabins were arranged differently, he counted, quickly, and realized the lineup had changed. And there was a structure he didn't recognize, a sort of open-air temple with columns of white marble, positioned near the center of camp.
+Percy had seen the camp before. He'd seen it in its original configuration, the cabins arranged by godly parent, the dining pavilion, the climbing wall that doubled as a lava fight, the strawberry fields that stretched toward the border. This version was similar but not identical. He counted the cabins, and the lineup was wrong. And there was a structure he didn't recognize, a sort of open-air temple with columns of white marble, positioned near the center of camp.
 
 "What's that?" he asked, pointing.
 
@@ -579,13 +579,11 @@ She was here. She was at camp. She was alive and twelve years old and a Zeus kid
 
 "Could we go now?" Percy asked. The effort to sound casual almost hurt.
 
-Grover blinked. "Okay. Sure. She's probably in the cabin, come on."
+Grover blinked. "Okay. Come on, then."
 
-On the way across the green, Grover pointed out the cabins.
+As they crossed the green, Grover pointed out the cabins. Percy catalogued the changes. The cabins curved around the central clearing, familiar in outline but wrong in arrangement. In his original timeline, the order followed the Twelve Olympians in a specific sequence, with the three big three cabins at the center. Here, the arrangement looked almost random, as though someone had shuffled the deck and dealt a new hand.
 
-Once they had descended, Grover led Percy along a broad path between the cabins. Percy catalogued everything he saw. The cabins curved around the central clearing, familiar in outline but wrong in arrangement. In his original timeline, the order followed the Twelve Olympians in a specific sequence, with the three big three cabins at the center. Here, the arrangement looked almost random, as though someone had shuffled the deck and dealt a new hand.
-
-He counted the cabins again, checking the familiar divine insignia. The positions were different. The position of the Poseidon cabin was farther from the center than it should have been, almost at the edge, and the Zeus cabin was prominently placed near the front.
+He checked the familiar divine insignia. Their positions were different. The position of the Poseidon cabin was farther from the center than it should have been, almost at the edge, and the Zeus cabin was prominently placed near the front.
 
 Someone had made decisions here that had never been made in the world he remembered.
 
@@ -657,7 +655,7 @@ She stepped out of the cabin and closed the door behind her. Grover looked like 
 
 The two of them stood outside the Athena cabin, neither sure whether the other remembered. Percy couldn't make himself look away.
 
-"You know me," Annabeth said, watching him. It wasn't a question.
+"You know me," Annabeth said. It wasn't a question.
 
 "Yes," Percy said. "I know you."
 
@@ -707,9 +705,9 @@ Annabeth nodded shakily. Then, with a deliberateness that told him she was holdi
 
 She broke off. Percy wanted to reach for her, to pull her into his arms, but they were standing outside the Athena cabin and anyone could see and they couldn't afford to explain this yet.
 
-"We'll work through it," he said, looking away. "We always do."
+"I'm not leaving," he said. "Not now that I've found you."
 
-Annabeth let out a shaky laugh. "We always do. Gods, I missed you."
+Annabeth let out a shaky laugh. "I missed you too. Gods, Percy."
 
 "I missed you too."
 
@@ -761,9 +759,9 @@ Percy watched her go. Beside him, Annabeth let out a breath.
 
 "I know," Percy said, looking away.
 
-"She thinks you're, I don't know what she thinks. But she doesn't trust you."
+"She doesn't trust you yet. I don't think she trusts sudden changes."
 
-"She has reasons," Percy said. "You said she raised you."
+"You said she raised you," Percy said. "I'd probably be suspicious too."
 
 Percy looked at her. The daughter of Zeus. The sister of Thalia Grace. The girl who should have been Athena's daughter, who should have run away from home at seven and met Percy for the first time at twelve and fallen in love with him over years of shared danger and ordinary moments.
 
@@ -915,7 +913,7 @@ Annabeth looked at him. In the moonlight, her eyes were luminous. "You don't hav
 
 Percy's throat tightened. "Neither do you."
 
-They sat there together, the son of Poseidon and the daughter of Zeus, two displaced people in a world that wasn't quite theirs, and for the first time since they'd arrived in this altered timeline, the loneliness felt survivable.
+They stayed until the sounds from the pavilion faded. Percy knew he should head back before Clarisse locked him out for being late. Neither of them moved.
 
 "We should go back," Annabeth said eventually. "Thalia will worry."
 
@@ -955,6 +953,6 @@ Not anymore. The cabin had four bunks now: his, two clearly used beds, and a spa
 
 Poseidon's daughter. His half-sister, technically, though they'd never met in this timeline.
 
-Percy thought about the web of family he hadn't asked for. Amphitrite and Poseidon. Triton, who'd teased him mercilessly but loved him anyway. And now Clarisse, who shared his father but nothing else.
+Percy thought about the people who expected to be his family. Amphitrite and Poseidon. Triton, who'd teased him mercilessly but loved him anyway. And now Clarisse, who shared his father but nothing else.
 
 It would take time to learn who they were. Percy listened to Clarisse turn over in the next bunk. Somewhere outside a camper laughed, and somebody else told them to be quiet. He closed his eyes. He had promised Annabeth they would talk again tomorrow, and for once the promise involved only walking across the green.
