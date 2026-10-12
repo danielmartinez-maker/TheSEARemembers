@@ -878,6 +878,133 @@ That evening the pavilion served a late meal for the campers who had spent the a
 
 ---
 
+---
+
+Thalia went back to Cabin One to change her bloodstained shirt before joining the late meal. The burn on her palm had been dressed neatly, and Lee had told her to leave it covered. She had agreed, then nearly caught the bandage in her sleeve when she tried to pull off her jacket without asking for help.
+
+"Hold still," Annabeth said from the door.
+
+Thalia turned. Her sister had left the infirmary a few minutes earlier and was carrying a folded clean shirt over one arm.
+
+"I can manage."
+
+"I know. You also have fabric stuck on your bandage."
+
+Annabeth set the shirt down and carefully freed the caught thread. Her fingers had mostly healed from the earlier storm, but Thalia saw her pause before gripping the knot with the weaker hand.
+
+"Use your other hand," she said.
+
+"I am."
+
+The reply was irritated enough that Thalia almost smiled.
+
+When the jacket was off, Annabeth hung it on the hook rather than leaving it crumpled by the bed. She picked up the spare shirt, then hesitated.
+
+"Do you want me to help?"
+
+The question made Thalia uncomfortable for reasons she couldn't name. She had spent years helping Annabeth with things she could almost do for herself: boots, braids, broken toys, nightmares. It felt odd to be the one asked whether she needed help dressing.
+
+"Just pass it here," she said.
+
+Annabeth did. Thalia changed carefully while her sister collected the loose tools they'd left on the desk. There was a gouge in the wood from an earlier argument about maps, and a small chip in the corner of the Parthenon model Annabeth had been repairing. Their cabin looked like the room two girls actually lived in, with enough untidiness to prove neither had spent the day performing for a visitor.
+
+"The healer said I should keep the hand elevated when it starts throbbing," Thalia said, a little defensively.
+
+"I heard."
+
+"I'm not going to train tomorrow."
+
+"Good."
+
+The answer came so quickly that Thalia gave her a look.
+
+"You could at least pretend that was a difficult decision."
+
+"I can if it would help."
+
+Thalia sat on the edge of her bed. "I nearly went straight through the doorway when the line flared."
+
+"I saw."
+
+"I thought there were children still on the path. I didn't look for Bea's signal. I just ran."
+
+Annabeth picked up the fallen strap of Thalia's sword belt and set it on the dresser.
+
+"You got there before the flare reached the walkway," she said.
+
+"I also made it harder for Chiron to manage the situation because he had to call me back."
+
+"Both things happened."
+
+Thalia looked up. Her sister's expression was matter-of-fact, not accusing. Annabeth had always been good at holding a complicated answer without discarding the parts she didn't like. Lately Thalia had mistaken that habit for distance, as though Annabeth were evaluating their family as a problem she might solve.
+
+"I was scared you'd be the one in there," Thalia admitted.
+
+"I know."
+
+"I keep thinking if I can get there first, nothing bad will reach you."
+
+"That's not a plan," Annabeth said, quietly.
+
+Thalia couldn't argue. She thought about Zeus, who could cross the world in an instant but had been absent for ordinary dangers no less real than an eclipse. She had spent years telling herself that being present was what made her different from him. Today she'd nearly turned presence into another way of not listening.
+
+"I'll ask Chiron to make me practice the stop procedure with the younger counselors," she said.
+
+"That's a good idea."
+
+"And when somebody tells me to retreat, I'll try not to hear it as an accusation."
+
+Annabeth considered that. "I won't always say it gently."
+
+"That will be a change."
+
+Her sister laughed. The sound was brief but genuine.
+
+A knock came at the door. Milo stood outside holding the clean copy of the route map he'd taken from the pavilion earlier in the week. He looked alarmed to find both Grace sisters in one place.
+
+"Bea said you might want this," he told Thalia. "The cabins used it today, and everybody got to the Big House. I wrote down where the sign was hard to read."
+
+He handed her the map. Three places had been circled in a child's cramped lettering. Annabeth studied them over Thalia's shoulder.
+
+"That's useful," she said. "We'll fix the arrows tomorrow."
+
+Milo lingered. "Are you hurt?"
+
+"Just my hand," Thalia said. "I'll be fine."
+
+"Did you make the lightning stop?"
+
+"No. Zoe and the ward team stopped the dangerous part. I helped keep it away from the path until they were ready."
+
+Milo nodded slowly, absorbing the distinction. "My counselor said you were very brave."
+
+Thalia nearly told him that bravery wasn't what mattered. Then she remembered how frightened he'd been after the storm and how much he'd wanted an adult to say he had done something correctly.
+
+"Your group followed the signs and got out safely," she said. "That was brave too, and it helped everybody else."
+
+He smiled, then hurried away before the conversation could become an assignment.
+
+Thalia closed the door. Annabeth was still examining the circles he'd drawn.
+
+"He's getting good at those maps," she said.
+
+"Maybe he'll be the camp architect someday."
+
+"He'd have to put up with people who think every bridge is optional."
+
+Thalia smiled. She set the map beside the Parthenon model so they wouldn't forget to give it to Bea. It would still be there tomorrow, when the adrenaline was gone and the work of keeping a camp safe returned to ordinary measurements.
+
+Annabeth handed Thalia her sword belt. "Dinner?"
+
+"In a minute. I need to check whether the dressing's slipping."
+
+Her sister waited while she did. She did not insist on helping and did not leave the room. Thalia found she was glad of both things.
+
+They walked out together toward the late meal. Thalia kept her injured hand close to her side, and Annabeth shortened her stride when the path sloped. Neither commented on it. They had spent too much of the week arguing about who was protecting whom. For tonight, walking beside each other was enough.
+
+
+---
+
 They met by the lake that evening, after Chiron had assured them that the Hall was closed and the fragment from the drain was locked away.
 
 Zoe had not identified its maker. Breaking the mark had interrupted the surge; it had not explained the altered records, the changed families, or their return to twelve.
