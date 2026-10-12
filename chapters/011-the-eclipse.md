@@ -368,6 +368,87 @@ They ran with Chiron and Zoe behind them.
 
 ---
 
+Clarisse didn't see Percy disappear into the Hall. She was too busy trying to keep a line of frightened children moving toward the Big House without letting the leading pair run ahead of everybody else.
+
+The metallic whine had made one of the younger campers drop his marked cord. Clarisse stopped the group long enough to retrieve it, then tied it back around the boy's sleeve with the knot Silena had shown them. If he lost the cord again, she'd have to make sure he remembered the route without it.
+
+"Nobody runs," she said. "We can get there at a walk. Running means we stop counting."
+
+A girl from Hermes cabin pointed toward the Hall. "There's lightning inside."
+
+"I can see that."
+
+"My brother's on the repair crew."
+
+"Then his crew leader knows where he's assigned. We're going to the assembly point, and I'll have someone check the crew log."
+
+The girl wanted to argue, but Clarisse put her hand on the girl's shoulder and walked her back to the group. Panic had a way of making ordinary routes seem impossible. She had been thirteen long enough to know how humiliating it felt when an older camper treated fear as childish. She refused to be gentle in a way that made them feel stupid.
+
+At the bend by the infirmary, they met Silena coming the other way with the revised count. She had been helping a limping camper from Apollo reach the porch and was still carrying an empty water pouch.
+
+"Eleven from your group?" she called.
+
+"Twelve. The Hermes girl was with Bea before the alarm. I picked her up by the steps."
+
+Silena checked the mark beside the girl's name. "Good. Then Bea won't have to look for her. Keep moving. Chiron wants everybody at the Big House."
+
+The path ahead was clear except for a fallen post that had rolled from the lower barrier. Clarisse pushed it aside with another counselor, careful not to let the metal fitting touch the ground where the ward's light was spreading. She couldn't tell whether the post was charged. She could tell that it was blocking the only route that didn't pass the flooded ditch.
+
+"Nobody touches the metal," she told the campers. "Use the dry side."
+
+When the group reached the Big House, the entryway was already crowded. Some children had gone inside; others were clustered on the porch, looking back toward the Hall. The counselors' lists no longer matched the clusters, and Clarisse knew what would happen if everyone began calling names at once.
+
+"Silena," she said. "Can we count by cabin before anybody gets moved again?"
+
+"Already doing it. The Athena kids are on the north side of the porch, Hermes by the steps, Demeter inside the first room. I need you to keep people from walking between the groups."
+
+"That I can do."
+
+Clarisse took the entrance. Her voice carried without the help of a horn. When two older campers tried to slip back down the path toward the Hall to find a friend, she blocked them.
+
+"Chiron has the rescue team," she said. "If you know somebody is missing, tell Silena the name and the last place you saw them."
+
+"We can't just stand here!"
+
+"Then help us count. That's what keeps the rescue team from searching the wrong place."
+
+The taller boy looked at her with open frustration. She could hardly blame him. If Percy had been missing from a list, she would have been tempted to go looking herself. She was already fighting that impulse every time she heard the Hall ring.
+
+She handed him a clipboard. "Check Cabin Nine. If your friend isn't there, write it down. Don't go near the closed path."
+
+He took it reluctantly.
+
+A minute later Milo appeared at the top of the hill with his cabin counselor. He was carrying the clean route map Annabeth had helped him distribute. He held it tightly, though he had already reached the safety of the porch.
+
+"I knew the upper crossing was closed," he told Clarisse. "The map said so."
+
+"Good. Then you did exactly what we needed."
+
+"Is Annabeth coming?"
+
+Clarisse looked toward the Hall. The light around the columns flashed white again, and her stomach tightened.
+
+"She's with Chiron," she said. "We're going to do our part until he brings the team back."
+
+Milo nodded, visibly unsatisfied. She was too.
+
+By the time the third count was complete, every child assigned to the pavilion group had reached the Big House. One forge worker remained at the Hall with Chiron's team, and two counselors were still at the outer barrier. Silena marked their names on a separate adult-duty sheet rather than calling them missing campers.
+
+Clarisse checked the count again. The result was the same. That helped.
+
+She carried the list down to the last safe boundary, stopping where Bea stood with an observation flag. They could hear the ward team calling measurements from inside, and once Clarisse caught a glimpse of Percy's blue shirt near the damaged fountain.
+
+She wanted to shout at him. She wanted to demand why he wasn't at the pavilion where he'd been assigned. But the work inside was already underway, and she would do no good by distracting anyone.
+
+"All campers accounted for," she told Bea. "Make sure Chiron knows."
+
+Bea signaled the result toward the Hall. Clarisse waited for an acknowledgment, then returned to the porch. She had children who needed water and counselors who needed to know which route would reopen after the eclipse. If Percy came back hurt, she could be furious with him then.
+
+For now she was doing the job he hadn't stayed to do. She didn't intend to let him forget that, even if she was grateful when he came home.
+
+
+---
+
 Inside, the air tasted of hot pennies. A ceremonial cloth had fallen from a column and caught over Thalia's shoulder; she shook it free without taking her hand from the frame.
 
 "Back," she said when she saw Annabeth. "I can hold it."
