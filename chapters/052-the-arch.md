@@ -2,13 +2,13 @@
 
 Percy knew St. Louis was close before anyone saw a sign for it, because Grover woke up from a dead sleep in the back of the van and said, "Water. Big water. River water."
 
-It was the third morning after the gnome place. The van smelled like hot rubber and old fries. They had left Uncle Ferdinand and the two half-stone campers with nymph runners outside Indianapolis for the slow hidden roads to camp, and Grover had cried and pretended he had not.
+It was the third morning after the gnome place. The van smelled like hot rubber and old fries. They had transferred Uncle Ferdinand and the other petrified victims into the care of the nymph depot's recovery team, with names and case records for Chiron. Grover had watched the recovery vehicle depart without pretending he was fine.
 
 Now the map was spread across Annabeth's knees again, pencil marks all over Missouri. Her braid was messy. Her camp shirt was still short where she had torn the hem for Percy's bandage. The bandage itself was gone, replaced by a clean wrap Silena would have approved of, but the thin pink line on Percy's forearm was still there, a reminder of bronze nails.
 
 "St. Louis hub," Annabeth said, tapping the circle she had drawn three times. "Sam the driver said black car west. The Hermes Express drop he used routes everything through St. Louis before it goes southwest. If the buzzing box went to LA in a mortal car, it had to cross the Mississippi. And where do you cross with something that makes radios go static?"
 
-"Big shiny bridge where no one looks twice?" Thalia guessed from the driver's seat. Her black hair was pulled back, her silver circlet dull with dust. She had been driving in shifts since dawn and her eyes were tired.
+"Big shiny bridge where no one looks twice?" Thalia guessed from the passenger seat. Her black hair was pulled back, her silver circlet dull with dust. Martin had been driving since dawn; she had been checking their stops and watching the mirrors.
 
 "Gateway depot," Annabeth said. "Under the Arch. The old train station post office. Mortals ship packages, gods ship trouble, same building. Chiron marked it as a maybe safe house. If the bolt passed through, someone there heard it buzz."
 
@@ -26,7 +26,7 @@ Percy had seen pictures in school, but pictures did not prepare him. It rose out
 
 "It looks like a door," Thalia said quietly.
 
-Percy glanced at her in the mirror. Her knuckles were white on the wheel.
+Percy glanced at Thalia. Her hand was clenched around the folded route sheet.
 
 Annabeth was looking at the Arch too, but her face had gone strange. Not admiring. Pale. Her pencil had stopped moving.
 
@@ -38,7 +38,79 @@ She did not answer right away. She stared at that silver curve like it might mov
 
 ---
 
-They parked in the lot by the old courthouse and walked to the park in a tight group, packs on, jackets zipped even though it was warm. The grass under the Arch was bright green and neatly cut. Families spread blankets. Kids chased pigeons. A man sold shaved ice from a cart. The Mississippi glinted beyond the steps, wide and brown and steady, barges moving slow.
+Martin wanted an exact return time before he let them walk away from the van.
+
+He had no interest in climbing the Arch. He had already agreed to take the children as far as the next safe contact, and he was becoming increasingly aware that the road trip contained more detours than his supervisor had authorized.
+
+"An hour," Thalia said.
+
+"An hour from now, or an hour after you get into the building?" Martin asked.
+
+Annabeth consulted the visitor schedule on the sign. The last morning tram had a longer queue than she'd expected. "From now is too short. We need a time to get through security, meet the courier clerk and come down."
+
+Percy looked up. "What courier clerk?"
+
+"The one Chiron's contact said might have the shipping records," Annabeth replied. "That's why we're stopping here, remember? The depot near the Arch handles the transfer numbers. The public records desk has moved to the visitor complex while the freight offices are being renovated."
+
+"So we don't have to go to the top?"
+
+"Not for the documents," Annabeth admitted. "But the person who can confirm the route works part-time as a tour employee. The contact said he might be on the upper gallery today."
+
+Thalia stared at her. "You're telling me now?"
+
+"I only found the note on the back of the route sheet when I checked the latest directions."
+
+Martin folded his arms. "Then you check the public desk first. If your contact isn't there, you return and tell me what changed. You don't climb into a tower because somebody told you the person you need might be at the top."
+
+Thalia was about to object. Percy recognized the angle of her chin, the one that meant an adult had just suggested a limit she wasn't going to like. Then Annabeth interrupted.
+
+"He's right."
+
+They all looked at her.
+
+"Going up is unnecessary if the documents are downstairs. We can see whether the clerk is available before we make the rest of the plan."
+
+Percy felt a wave of relief. Annabeth had just described the memory of watching him fall from a hole high above the Mississippi. He didn't want their first reaction to that warning to be buying tickets for the location of the accident.
+
+They followed the signs to the visitor information center, where a ranger directed them to a small desk near the exhibits. The clerk behind it looked ordinary except for a silver ring with a pair of wings on it. He listened to Chiron's contact name, studied the seal on the folded introduction and shook his head.
+
+"The shipment register is downstairs," he said. "But somebody has already requested a sealed copy of the transfer record you're after."
+
+"Who?" Annabeth asked.
+
+"Couldn't say. The request came through the upper office. The original will be delivered to the gallery later today, unless the manager changes the schedule."
+
+"That doesn't mean the thief is upstairs," Percy said.
+
+"No," the clerk replied. "It means somebody wanted the record moved."
+
+He could provide the public route number, which Annabeth copied in her notebook. He couldn't give them the name of the requester without his supervisor. He offered to ask, but warned it might take hours.
+
+Thalia looked toward the Arch, then at the time.
+
+"If we go up and find the record, we might know where the box went," she said.
+
+"And if you go up and a monster finds you?" Martin asked.
+
+"We have a monster following us either way," she said. "Grover can smell it near the park."
+
+Martin didn't like that answer. Neither did Percy. The trouble was that waiting at the desk might not make the situation safer if someone was actively moving a record to keep them from finding it.
+
+Annabeth closed her notebook.
+
+"We can go up together, but only after the ranger confirms the emergency exits and we agree what happens if the woman I remember shows up. We aren't going to stand in a narrow gallery and argue with her because we want an answer about the box."
+
+Martin insisted they leave the duplicate route number with him. If they didn't return by the agreed time, he would call Chiron's contact and the visitor service, in that order. He didn't offer to fight a monster, and nobody asked him to.
+
+As they stepped away, Percy whispered to Annabeth, "You're sure?"
+
+"No." She was looking up at the curve. "I know what happened to us before. That makes me more afraid, not more certain that it will happen the same way."
+
+Percy took the route number from her so she'd have one hand free. He didn't tell her the river would save him. He didn't know whether it would, and he was tired of making promises based on the life they had already lost.
+
+They headed for the security line with the emergency-stair instructions copied into Annabeth's notebook.
+
+Martin parked in the lot by the old courthouse. They agreed on a time to meet him again and walked to the park in a tight group, packs on, jackets zipped even though it was warm. The grass under the Arch was bright green and neatly cut. Families spread blankets. Kids chased pigeons. A man sold shaved ice from a cart. The Mississippi glinted beyond the steps, wide and brown and steady, barges moving slow.
 
 It should have felt safe. It did not.
 
@@ -122,7 +194,7 @@ Annabeth had her notebook on her knees but she was not writing.
 
 "You are thinking about Atlantis," she said.
 
-Percy nodded. In this life he had woken there first, in coral and blue light, with Triton teaching him to breathe and let the current hold him.
+Percy nodded. Since awakening in this changed life, he had learned the palace routes and practiced with Triton in the water. Those lessons were real, even if the childhood his family remembered was still a story he could not recall first-hand.
 
 "If I fall again," he said quietly, so the speaker in the car would not pick it up, "the river will catch me. Dad will catch me. The sea remembers me, even this river. It runs to the sea."
 
@@ -264,11 +336,11 @@ Percy grabbed Annabeth and Grover and ran toward the river side, toward the step
 
 Another roar shook the Arch. The hole widened. Metal screamed.
 
-And then Percy saw him. A small figure climbing up from below, inside? No— outside? On the curve? It took Percy a second to understand. Someone had gone back in through the south leg maintenance door, darted past the ranger line while everyone watched the sky.
+Percy looked toward the south-leg maintenance door. The rangers were all looking up. For a moment he imagined someone slipping past them, taking the empty stairs while the fire consumed the upper galleries.
 
-Percy. It was Percy he was seeing in his mind, but also real. Because Percy was already moving.
+Then he realized the person in that plan was him. He could go back. He had promised Annabeth he wouldn't do anything stupid, but he could also see her sister trapped at the edge of a hole in the steel. He made the choice anyway.
 
-He did not remember deciding. One second he was holding Annabeth's sleeve on the river steps, the next he was sprinting back toward the Arch base, Riptide uncapped and bronze shining in daylight, shouting over his shoulder.
+He let go of Annabeth's sleeve and sprinted toward the door, Riptide uncapped and bronze shining in daylight, shouting over his shoulder.
 
 "Get mortals back! Get to water! If I fall, stay by river!"
 
