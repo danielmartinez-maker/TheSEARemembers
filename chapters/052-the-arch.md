@@ -1,0 +1,516 @@
+## Chapter 52: The Arch
+
+Percy knew St. Louis was close before anyone saw a sign for it, because Grover woke up from a dead sleep in the back of the van and said, "Water. Big water. River water."
+
+It was the third morning after the gnome place. The van smelled like hot rubber and old fries. They had left Uncle Ferdinand and the two half-stone campers with nymph runners outside Indianapolis for the slow hidden roads to camp, and Grover had cried and pretended he had not.
+
+Now the map was spread across Annabeth's knees again, pencil marks all over Missouri. Her braid was messy. Her camp shirt was still short where she had torn the hem for Percy's bandage. The bandage itself was gone, replaced by a clean wrap Silena would have approved of, but the thin pink line on Percy's forearm was still there, a reminder of bronze nails.
+
+"St. Louis hub," Annabeth said, tapping the circle she had drawn three times. "Sam the driver said black car west. The Hermes Express drop he used routes everything through St. Louis before it goes southwest. If the buzzing box went to LA in a mortal car, it had to cross the Mississippi. And where do you cross with something that makes radios go static?"
+
+"Big shiny bridge where no one looks twice?" Thalia guessed from the driver's seat. Her black hair was pulled back, her silver circlet dull with dust. She had been driving in shifts since dawn and her eyes were tired.
+
+"Gateway depot," Annabeth said. "Under the Arch. The old train station post office. Mortals ship packages, gods ship trouble, same building. Chiron marked it as a maybe safe house. If the bolt passed through, someone there heard it buzz."
+
+Grover sniffed the air coming through the cracked window. His horns poked through his cap. "River getting closer. Muddy. Wide. Fish scared."
+
+Percy felt it too, under his ribs. That tug he always got near big water. It was not like the lake at camp, which felt friendly and known. It was wider, faster, brown-green and rolling, pushing at him from far off.
+
+The highway rose over a last hill of warehouses and billboards, and then there it was.
+
+The Arch.
+
+Percy had seen pictures in school, but pictures did not prepare him. It rose out of the riverfront like a giant silver eyebrow, taller than anything around it, catching the morning sun and throwing it back. Six hundred and thirty feet, Annabeth had told him. Stainless steel. A catenary curve. She had recited the numbers the way other kids recited song lyrics.
+
+"It looks like a handle," Grover said, pressing his nose to the window. "Like the gods left a basket handle and forgot the basket."
+
+"It looks like a door," Thalia said quietly.
+
+Percy glanced at her in the mirror. Her knuckles were white on the wheel.
+
+Annabeth was looking at the Arch too, but her face had gone strange. Not admiring. Pale. Her pencil had stopped moving.
+
+Percy nudged her knee with his. "You okay?"
+
+She did not answer right away. She stared at that silver curve like it might move.
+
+"Deja vu," she said at last, very low, so only Percy could hear. "Bad deja vu."
+
+---
+
+They parked in the lot by the old courthouse and walked to the park in a tight group, packs on, jackets zipped even though it was warm. The grass under the Arch was bright green and neatly cut. Families spread blankets. Kids chased pigeons. A man sold shaved ice from a cart. The Mississippi glinted beyond the steps, wide and brown and steady, barges moving slow.
+
+It should have felt safe. It did not.
+
+Grover kept sneezing. "Dog," he muttered. "Big dog smell. And something else. Old. Scaly. Like the reptile house at the zoo, but mean."
+
+"Stray?" Thalia asked.
+
+"No. Too big. Too hot. Smells like sulfur and wet fur at once."
+
+Annabeth grabbed Percy's wrist. Her fingers were cold.
+
+"Percy," she said. "I need to tell you something before we go up there. And you have to believe me, even if it sounds crazy."
+
+"We live crazy," Percy said. "Try me."
+
+She pulled him a half step behind the others, under the shade of a honey locust tree, while Thalia bought tickets and Grover pretended to read the park sign.
+
+"In the other life," Annabeth said quickly. Her gray eyes darted to the Arch and back. "Before. The first quest. The bolt quest. Us, but not us. Me and you and Grover, no Thalia. We came here. To this Arch. Just like this."
+
+Percy's stomach dropped.
+
+"What happened?" he asked.
+
+"Echidna." Annabeth said the name like it tasted bad. "Mother of Monsters. She finds us at the top. She has a little dog. A chihuahua. Yappy. She calls it Chimera, like a joke, and then it is not a joke anymore. It grows. Lion in front, goat sticking out of the middle, snake for a tail. It breathes fire. It puts a hole in the side of the Arch. And you—"
+
+She stopped. Her grip tightened.
+
+"I what?" Percy whispered.
+
+"You fall," Annabeth said. "You go out the hole. Six hundred feet down to the river. I thought you died. I was twelve and I watched you fall and I could not do anything. Grover and I get down in the elevator and you are just gone. And then later— later you walk out of the river alive, and you do not tell us how for a long time."
+
+Percy looked up at the top of the Arch, tiny windows glinting. His legs felt watery.
+
+"Did I— did I jump?" he asked. "Or—"
+
+"You were protecting us," Annabeth said fiercely. "The Chimera poisoned you and the fire was everywhere and you made it miss us. That is what you do. That is what you always do, Seaweed Brain, and I am telling you now so you do not do it stupid this time. If we see a woman with a small dog up there, we leave. We do not talk. We do not be polite. Promise me."
+
+Percy thought of Medusa and manners and strings pulling his chin up. He nodded fast.
+
+"I promise. Woman, small dog, we go."
+
+"Good." Annabeth let out a breath. She did not let go of his wrist. "And Thalia has to know, but do not scare her about heights. Just tell her to watch for fire. She will hold the line if she has to, I know she will, but I do not want—"
+
+"I know," Percy said.
+
+He did know. Thalia at sixteen was the oldest and the strongest and the one who always went first when she was scared. If something with teeth showed up in a small metal room six hundred feet in the air, she would stand in front. That was what big sisters did. Clarisse had taught him that with her fists and Silena with her bandages.
+
+Thalia came back waving four little tickets. "Tram to the top. Tiny egg cars. Grover, you will hate it. I will hate it. Annabeth will love it and pretend not to. Percy, you get to look at water."
+
+"Thalia," Annabeth said. She glanced at Percy, then spoke fast and quiet. "Other memory. Top. Woman with dog. Chimera. Fire. Hole in wall. Percy falls."
+
+Thalia's face changed. No disbelief. In this life they had learned to trust Annabeth's other memories the way they trusted Grover's nose.
+
+"How sure?" Thalia asked.
+
+"Very," Annabeth said. "I can see the windows. I can smell the dog shampoo."
+
+Thalia looked at the Arch, then at the river, then back at her sister. She tucked the tickets into her pocket.
+
+"We still go up," she said. "If it hunts us, better to meet it where we see it coming than have it follow us to the depot. But we stay together. We note exits. Grover, you keep your pipes ready and your shoes loose for running. Percy, you stay near the windows but not against them. Beth, you stay with me. If dog grows, I take front. Understood?"
+
+"Understood," Grover squeaked.
+
+"Understood," Percy said.
+
+Annabeth nodded, jaw set. "Storm-sea combo if we need it. But fire up there—"
+
+"I know," Thalia said. "Small space. No water to pull except the river way below. We do not use lightning inside a metal tube unless we want to cook ourselves. Spears and knives and running."
+
+She tried to grin. It did not quite work.
+
+"Come on, quest," she said. "Let's go be tourists."
+
+---
+
+The tram was worse than Percy expected.
+
+They split into two egg cars. Thalia took Grover in the first, because Grover was already bleating. Percy rode with Annabeth in the second, knees jammed, watching concrete slide past.
+
+Annabeth had her notebook on her knees but she was not writing.
+
+"You are thinking about Atlantis," she said.
+
+Percy nodded. In this life he had woken there first, in coral and blue light, with Triton teaching him to breathe and let the current hold him.
+
+"If I fall again," he said quietly, so the speaker in the car would not pick it up, "the river will catch me. Dad will catch me. The sea remembers me, even this river. It runs to the sea."
+
+Annabeth's eyes shone. "Do not talk like you plan to fall. Talk like you plan to stay in the car with me and complain about Grover's feet."
+
+Percy smiled and bumped his shoulder against hers. Under the cover of her notebook, her hand found his. Small, warm, steady. They had held hands before, quick squeezes under backpacks or during Fury fights when no one looked. This was longer. This was on purpose.
+
+"I plan to stay," he said. "Promise."
+
+The car jolted. Light spilled in. The doors opened onto a narrow curved hallway with low ceilings and small slit windows. Tourists crowded shoulder to shoulder, pointing at St. Louis on one side and Illinois and the river on the other. The air smelled like metal and sunscreen and old pennies.
+
+Thalia was waiting, face pale but controlled, one hand on Grover's shoulder. Grover's nose twitched furiously.
+
+"Dog," he whispered. "Strong. Close. Shampoo and sulfur."
+
+Annabeth went still beside Percy. She squeezed his hand once, hard, then let go to free her knife hand. Professional. Quest mode.
+
+"Where?" Thalia mouthed.
+
+Grover pointed with his chin toward the far curve, past a group of school kids.
+
+A woman stood by the windows alone.
+
+She was tall and thick, in a flowered dress and a shawl despite the heat, hair piled high. At her feet, on a pink rhinestone leash, sat a tiny rust-colored chihuahua with huge eyes and ears too big for its head. It yapped once, sharp.
+
+The woman smiled straight at them.
+
+"Well," she said. "Four little half-bloods."
+
+The mortals did not turn. Mist slid over their eyes like oil. A ranger kept talking about steel thickness. Kids kept pointing at barges.
+
+Percy, Annabeth, Thalia, and Grover stood frozen in a bubble of quiet around the woman.
+
+Annabeth stepped half in front of Percy without thinking. "Echidna."
+
+"Smart girl," Echidna said. She bent to scoop up the dog, cradling it like a baby. It growled, a sound too deep for its chest. "Daughter of Zeus, younger one. I know your sister too. Thalia Grace, who lived when she should have died. The Fates owe me interest on that one."
+
+Thalia lifted her chin. Her spear was Mist-disguised as a walking stick, but her hand was tight on it. "You can collect from someone else."
+
+"Oh, but monsters must eat," Echidna said pleasantly. "And mothers must feed their children. Is that not right, my little darling? Are you hungry, Chimera?"
+
+She set the dog down.
+
+Percy remembered Annabeth's warning in his bones: we leave, we do not talk, we do not be polite.
+
+He backed a step toward the tram doors. "Thalia—"
+
+"Doors are locked, hero," Echidna said. She did not raise her voice. The dog was swelling. Legs thickening. Back arching. Rust fur darkening to lion gold. "I asked the staff to give us privacy. They are so helpful when I show my true face for half a second."
+
+The chihuahua was now the size of a Labrador. Then a pony. Its front paws split into huge lion claws. From the middle of its back, green and bleating, rose a goat head on a long neck, horns curling, eyes mad. Behind, the tail lengthened, scales rattling, lifting into a diamond-shaped serpent head that hissed and dripped.
+
+Tourists laughed and took pictures of empty windows. A boy said, "Look, a barge!" very loudly, staring straight through the monster.
+
+The Chimera opened its lion mouth. Heat rolled out. The metal wall behind it began to glow faintly.
+
+Grover lifted his pipes with shaking hands. "Hey! Hey, puppy! Nice puppy! Who wants music? Music calms—"
+
+The goat head screamed, a horrible baby-like bleat, and butted the air. The serpent tail struck at Grover's pipes, missing by inches. Grover yelped and dove behind Thalia.
+
+"Go!" Thalia shouted. "Get to the stairs! Get mortals down!"
+
+Annabeth grabbed Percy's sleeve and yanked. "Stairs! Now!"
+
+They ran, bent low under the curve, as the Chimera lunged. Thalia met it head-on.
+
+Percy saw it in pieces as he ran: Thalia planting her feet, spear out, shield up, not looking at lion eyes.
+
+"Hey! Ugly!" Thalia yelled. "Two heads are two too many! Come get a Zeus kid!"
+
+The lion head roared and breathed.
+
+Fire filled the hallway in a sheet.
+
+Heat slammed Percy's back even twenty feet away. Sprinklers burst. Alarms wailed, thin under the Mist. Mortals began to move at last, herded by rangers toward the emergency stairs, coughing, confused, thinking electrical fire.
+
+Percy stumbled on the stairs going down, concrete and metal spiraling tight. His lungs burned. Annabeth was ahead of him, pulling Grover, shouting counts.
+
+"Keep moving! Do not stop! Do not look back! Thalia will hold and follow!"
+
+"She can't hold alone!" Percy coughed. He tried to turn.
+
+Annabeth caught his face with both hands, forcing him to look at her. Smoke streaked her cheeks. Her gray eyes were wild.
+
+"Listen to me! She told us to go! She is buying time! If we go back up we crowd her and we all cook! We get down, we clear air, we make a plan! Promise you told me we leave!"
+
+Percy hated it. Every part of him screamed to run back up, to stand shoulder to shoulder with Thalia the way Clarisse would stand with him, the way Silena would never leave. But Annabeth was right and he knew it. Small space, fire, no water.
+
+He ran down.
+
+The stairs seemed endless. Legs shaking, lungs raw, Grover's hooves clattering, while above them a thud shook the handrail.
+
+---
+
+Percy burst out at the base into sunlight and screaming.
+
+The park had changed. Mortals ran on the grass, pointing up. Rangers shouted into radios. The Arch loomed overhead, silver and perfect except—
+
+There, near the top on the river side, a spot glowed orange. A hole. Jagged metal peeled outward like a tin can. Smoke poured out.
+
+Grover bent double, coughing. "Thalia! She is still up there!"
+
+Annabeth stared up, face white. "She blew it. Chimera blew the wall. Just like— just like before."
+
+Percy did not think. He turned and ran back toward the entrance. A ranger caught his arm.
+
+"Whoa, kid! No re-entry! Emergency!"
+
+"Thalia is up there!" Percy shouted, struggling. "My friend! Let me—"
+
+"Percy!" Annabeth grabbed his other arm, pulling him away from the ranger. Her voice cracked. "Stop! You cannot go back up the stairs! Fire is between!"
+
+"Then what?" Percy yelled. "We just watch?"
+
+As if in answer, a shape appeared in the hole.
+
+Thalia, blackened with soot, hair wild, spear in one hand, backing toward the edge of the hole with Aegis up. Before her, huge and smoking, the Chimera squeezed its lion shoulders through twisted steel, goat head bleating fury, serpent tail lashing. Echidna's voice floated down, impossibly clear, amused.
+
+"Jump, daughter of Zeus. Fly. Your father loves you so much, does he not? Call him. See if he answers."
+
+Thalia did not jump. She thrust with her spear, driving the lion head back a step, then glanced down.
+
+Six hundred thirty feet to concrete and river. Wind tore at her jacket.
+
+Percy knew what she was thinking. Fire behind, air ahead.
+
+"Thalia, no!" Annabeth screamed.
+
+But Thalia had already seen them below. She cupped her mouth.
+
+"GO TO THE RIVER!" she bellowed. "GET CLEAR! I WILL HOLD IT HERE!"
+
+She turned back to the Chimera and slammed her shield forward, sparks flying as lion claws scraped bronze. The goat head breathed a gout of flame that licked the steel.
+
+Percy grabbed Annabeth and Grover and ran toward the river side, toward the steps that led down to the water. His heart hammered against his ribs. His cut from Medusa throbbed like it remembered.
+
+"What is she doing?" Grover panted. "She cannot— there is no stairs there! There is only air!"
+
+"She is giving us time," Annabeth said. Her voice shook. "She is keeping it in the hole so it cannot fly down after us. She—"
+
+Another roar shook the Arch. The hole widened. Metal screamed.
+
+And then Percy saw him. A small figure climbing up from below, inside? No— outside? On the curve? It took Percy a second to understand. Someone had gone back in through the south leg maintenance door, darted past the ranger line while everyone watched the sky.
+
+Percy. It was Percy he was seeing in his mind, but also real. Because Percy was already moving.
+
+He did not remember deciding. One second he was holding Annabeth's sleeve on the river steps, the next he was sprinting back toward the Arch base, Riptide uncapped and bronze shining in daylight, shouting over his shoulder.
+
+"Get mortals back! Get to water! If I fall, stay by river!"
+
+"Percy, no!" Annabeth screamed. "You promised you would stay!"
+
+"I promised I would stay with you!" Percy shouted back. "I am! I will come to the river! Just get there!"
+
+He ducked under a barrier and into the leg. To mortals he was probably invisible. He took the emergency stairs two at a time, following heat and sulfur.
+
+Up. Up. Up.
+
+The air got hotter with every floor. Paint blistered. His eyes watered.
+
+He burst onto the observation deck from the stairwell into chaos.
+
+Smoke lay thick under the low ceiling. The floor was scorched black in a line from the north curve to the hole. Tourists were gone, evacuated down the other leg. Only Thalia remained, back to the hole, spear braced, shield up, blood running from a cut on her forehead into her eyebrow. Her arms shook with exhaustion.
+
+The Chimera filled the hallway, lion mane singed, goat head bleeding from a spear graze, serpent tail coiled to strike. Behind it, half in smoke, Echidna watched with folded arms.
+
+"Another hero," Echidna sighed. "Poseidon's boy. Always late, always wet."
+
+"Thalia!" Percy yelled.
+
+Thalia's head snapped around. Fury and relief crossed her face at once. "You idiot! I said river!"
+
+"I am river adjacent!" Percy said, coming up beside her, sword up. His whole body shook, but Riptide felt steady. "Move over! Two front!"
+
+"Percy Jackson," Echidna said. "Son of the Sea. Do you remember Atlantis, little fish? Cold halls? Coral beds? Your sisters braiding kelp in your hair while your father pretends he can protect you? He could not save your mother. What makes you think he can save you?"
+
+"Shut up," Thalia snarled.
+
+The serpent tail struck.
+
+Percy moved without thinking, the way Tyson had taught him in drills, the way Clarisse had drilled into him with a wooden sword until his arms ached. He cut sideways, bronze meeting scales with a clang that jarred his wrist. The serpent recoiled, hissing, venom dripping and sizzling on metal.
+
+The goat head bleated and breathed fire.
+
+"Down!" Thalia tackled Percy flat as flame passed over their heads and melted a window frame. Glass sagged. Wind screamed through.
+
+Percy coughed, ears ringing. His jacket smoked. Thalia rolled off him, already up on one knee, spear jabbing at lion claws to keep it back from the hole edge.
+
+"We cannot kill it here!" Thalia panted. "Too big! Too hot! It will bring the whole top down!"
+
+"Then we go out!" Percy said. "Through the hole! To the river!"
+
+"That is six hundred feet, Seaweed Brain!"
+
+"I know how far it is!" Percy shouted. Wind tore through the hole, cold after heat. Below, brown water glittered. Far below. So far his stomach flipped. "I did it before! I remember falling and the water caught me! Dad catches me! Atlantis— I know how to fall in water! I know how to ask!"
+
+Thalia stared at him. Soot streaked her face. Blood trickled. Her gray eyes, so like Annabeth's but storm-dark, searched his.
+
+"You sure?" she asked quietly. Amid roar and smoke, it sounded calm. Big sister calm. The same voice Clarisse used before a spar she knew would hurt.
+
+"No," Percy admitted. "But river is better than fire."
+
+The Chimera lunged.
+
+Thalia did not hesitate. She stood, shield high, and met it with a scream that sounded like wind through power lines. Lightning crackled faintly around her spear tip, blue-white, ozone sharp. Not enough to kill, just enough to sting and blind.
+
+"GO!" she yelled. "I WILL HOLD! YOU GO! TELL BETH I HELD!"
+
+Percy wanted to argue. He wanted to stay shoulder to shoulder. But Thalia shoved him hard toward the hole with her shield arm, strong as Clarisse, and Percy stumbled to the jagged edge with nothing under his shoes but air and river.
+
+Echidna laughed. "Fly, little fish! Let's see if your father wants you!"
+
+The goat head turned toward Percy and inhaled.
+
+Percy jumped.
+
+---
+
+Falling was loud.
+
+That was Percy's first thought. Not scared, not brave, just loud. Wind roared past his ears. His jacket flapped. The Arch shrank above him impossibly fast, silver curve tipping. The Chimera's roar faded. Thalia's face, small in the hole, mouth open shouting his name.
+
+Below, the Mississippi rushed up, brown and wide, sun glinting off chop. Barges like toys. Seagulls like dust.
+
+Six hundred thirty feet. Annabeth had told him the number. It took seconds and forever.
+
+Percy reached for what he had learned since returning.
+
+Not a recovered childhood. Recent lessons: Triton holding his hand in the water and saying, breathe, little brother, water is not against you, you are water. Amphitrite showing him how to spread his fingers and ask the current to slow. Silena in the lake at camp, laughing, teaching him to float on his back and trust. Clarisse throwing him in fully clothed and yelling, swim or sink, little brother, and then jumping in after him to make sure he swam.
+
+He spread his arms.
+
+He did not pray in words. He asked the way he had learned to ask rain. River, he thought. Cousin to sea. Catch me.
+
+The river turned.
+
+Percy felt it before he hit, a softening, a lifting. The surface bulged upward in a brown-green pillow. The current slowed under him like hands cupping.
+
+He hit.
+
+It was still hard. Water at that speed was concrete that forgave a little. Air blasted from his lungs. Cold slammed through his clothes. Brown closed over his head, full of mud and light and bubbles.
+
+But he did not break. The river cradled him, then eased him up.
+
+Percy opened his eyes in brown water and breathed.
+
+It worked. It always worked and it always surprised him. Water filled his mouth and nose and went where air should go, and his chest did not burn. His father's gift. Atlantis instinct. The sea remembers, even in a river so far from home.
+
+Current whispered around him, muddy and fast. *Sea son. Run. Swim.*
+
+Percy kicked. His clothes dragged. Riptide was somehow still in his hand, capped back to a pen. He tucked it away.
+
+The river spat him out in the shallows by the steps, coughing brown water onto concrete, shivering violently despite the warm air.
+
+And Annabeth was there.
+
+---
+
+Annabeth reached him first, before the rangers, before Grover, before the Mist could make excuses.
+
+Percy lay on his side on the wet steps, river lapping his sneakers, ears ringing, chest heaving. He heard shouting, alarms, helicopter far off. He tasted mud and copper.
+
+Then small hands grabbed his jacket.
+
+"Percy! Percy!"
+
+He rolled over. Annabeth dropped to her knees beside him, right in the muddy water, not caring about her notebook or her shoes or anyone watching. Her face was white under soot, streaked with tears she was not bothering to wipe. Her braid had half come undone. Her gray eyes were huge.
+
+"You idiot," she sobbed. "You stupid Seaweed Brain, you promised, you promised you would stay—"
+
+"I stayed," Percy croaked. "I stayed alive. That counts."
+
+She hit his shoulder, weak, then grabbed his hand with both of hers and held on tight.
+
+She did not let go. Not when Grover skidded down the steps bleating, "Percy! Percy! You fell! You fell and the water— did the water— are you breathing water— are you okay—". Not when two rangers ran up shouting about restricted areas. Not when mortals stared.
+
+Annabeth held his hand openly, fingers laced, knuckles white, tears running down her face and dripping onto their joined hands.
+
+"I watched you fall," she whispered. "Twice now. Once in memory and once real. Do not— do not do that again without me. Do not make me watch."
+
+Percy squeezed back, hard as he could with numb fingers. His whole body shook with cold and shock. Water streamed from his hair into his eyes.
+
+"I am here," he said. "I am here, Annabeth. River caught me. Dad— Dad helped. I breathed. I am okay."
+
+"You are freezing," she said, already shifting into plan mode through tears. "Grover, blanket. Blanket in my pack. And nectar. Small sip. Thalia— where is Thalia—"
+
+As if her name summoned her, Thalia appeared at the top of the steps, half carried by a ranger who thought she was a lost tourist with a head injury.
+
+She was alive. Soot black, forehead bleeding, jacket sleeve burned away, spear disguised again as a stick, limping badly. But alive. Her eyes found them immediately.
+
+She stopped. She saw Annabeth on her knees in river mud, holding Percy's hand with both hands like she would never let go, crying openly.
+
+Thalia pretended not to see.
+
+She looked very deliberately out at the river, then at Grover, then at the sky, giving them a second of privacy with the exaggerated casualness only an older sister could manage. Then she limped down, wincing, and dropped heavily onto the step above them.
+
+"Well," she said hoarsely. "That was gross."
+
+Percy laughed, a wet bark that hurt his ribs. Annabeth laughed too, choked, not letting go of his hand.
+
+"Thalia!" Grover threw himself at her, hugging her around the middle, nearly knocking her into the water. "You held it! You held and the fire— your eyebrows—"
+
+"My eyebrows are fine," Thalia said, ruffling his curls with a shaky hand. "Singed, but fine. Your pipes are louder than goat screams. Good job running when I said."
+
+"I ran," Grover said proudly, then added in a small voice, "I did not want to."
+
+"I know," Thalia said softly. "Running when I say is brave too. You got Beth down. You got mortals moving. I heard you playing on the stairs. Kept people calm."
+
+She looked past Grover to Percy, lying wet and pale, and to Annabeth, still holding his hand like an anchor. Her expression softened into something fierce and tender.
+
+"Hey, Seaweed Brain," she said. "Nice dive. Ten out of ten. Annabeth gave you an eleven in her head and will never admit it."
+
+"He jumped out of a burning building," Annabeth muttered, wiping her nose on her sleeve. "He gets a zero for safety and an eleven for— for coming back."
+
+Percy smiled up at the sky. It was blue and washed out, the wrong color outside camp, just like Thalia said. It had never looked better.
+
+"Did Chimera follow?" he asked. "Did it fly?"
+
+Thalia shook her head, then winced at the movement. "No. After you jumped, it tried to go after you through the hole, got stuck on bent steel. I hit the goat in the nose with the butt of my spear and it backed off screaming. Echidna called it back. She said—" Thalia's voice darkened. "She said, tell your father the Mother smells war and likes it. Then Mist, smoke, gone. Ranger found me coughing by the stairs with a cut head and a story about fireworks."
+
+"She let you live?" Annabeth asked sharply.
+
+"She let all of us live," Thalia said. "That scares me more. She could have kept pushing. She wanted Percy to fall. She wanted to see if the river would catch him."
+
+Percy shivered. Not just cold. He remembered Echidna's voice: *Let's see if your father wants you.*
+
+"He did," he said quietly. "Catch me. The river— it talked. It said sky child holds beast. It knew about you, Thalia."
+
+Thalia stared at him, then at the river. She touched the water with her fingertips, quick, like it might shock her.
+
+"Tell your dad thanks for me," she said gruffly. "And tell him I still do not like heights."
+
+Grover draped the emergency blanket around Percy's shoulders and Annabeth's at once, wrapping them together without thinking, then blushed and pretended to adjust it.
+
+"Here," he said, handing Percy the little nectar bottle. "Small sip. Chiron said small. You fell from sky. That is big ouch."
+
+Percy sipped. Warmth spread honey-sweet through his chest, chasing cold. Annabeth took the bottle and held it to his lips for a second sip, her hand still shaking.
+
+"Slow," she ordered. "You swallowed half the Mississippi. You will throw up if you chug."
+
+"Yes, ma'am," Percy said meekly, and she huffed a wet laugh.
+
+Above them, the Arch stood silver against blue, smoke thinning. Sirens wailed on the far side. Rangers herded people back. To mortals it would be a gas leak, a small fire, a miracle no one died. To them it was Echidna testing teeth.
+
+Thalia leaned her head back against the concrete, eyes closed. Blood crusted at her hairline. Her burned sleeve smelled acrid.
+
+"I held," she murmured, half to herself. "I held and you got out. That is the job."
+
+"You did more than hold," Annabeth said fiercely. She reached up with her free hand — the other still locked around Percy's — and grabbed her sister's wrist. "You are bleeding and burned and you walked down stairs after fighting a Chimera in the sky. Do not do the modest thing. You were amazing."
+
+Thalia opened one eye. "I was okay."
+
+"You were amazing," Annabeth repeated, stubborn. "Say it."
+
+"I was amazing," Thalia conceded with a crooked smile. "And you got everyone down stairs without panicking and kept count. I heard you counting. And Grover played and ran messages. And Percy—"
+
+"Percy was stupid," Percy offered.
+
+"Percy was brave-stupid," Thalia corrected. "Different category. Clarisse category. The kind where I want to kill you and hug you at once."
+
+Percy thought of Clarisse and Silena back at camp, of red shoelace on his duffel and blue-green cord on his wrist, now soaked with river water. He touched the bracelet. Still there. Still knotted.
+
+"We need to move," Annabeth said, wiping her face and sitting straighter, but not letting go of Percy's hand. "Echidna is gone, but she will tell someone we are here. The depot— we cannot go to the depot now. Too watched."
+
+"No depot," Thalia agreed, forcing herself upright with Grover's help. "We go to ground. Laundromat safe house Chiron marked in the city. Clean up. Iris-message camp. Tell them bolt moved west, Mother active, Arch burned. And tomorrow—"
+
+"West," Percy finished. He sat up slowly, blanket slipping, Annabeth steadying him with a hand on his back. "LA. Dead flowers. Studio. Hades."
+
+Grover shivered. "Underworld. I do not like underworld. Too little grass."
+
+Annabeth squeezed Percy's hand once more, then finally, reluctantly, shifted to help him stand, keeping hold until he was steady on river-wobbly legs, then tucking her shoulder under his arm instead. It was open. Anyone watching could see. She did not care.
+
+Thalia saw. She looked away quickly, busy with her pack straps, humming off-key to give them cover. But Percy caught her small smile in the reflection of a puddle, fierce and proud, the same smile she had worn at Medusa's when she called them partners.
+
+They climbed the steps together, four small figures against silver and brown, wet and burned and shaking.
+
+Behind them the Mississippi rolled on, muddy and steady, carrying secrets to the sea. Above them the Arch curved, scorched and holding.
+
+Percy looked back once. He thought he heard, under sirens and wind, the river whisper: *Sea son lives. Sky daughters hold. Go west.*
+
+He tightened his grip on Annabeth's hand.
+
+"We hold rope for each other," he murmured, remembering the road west after the Fury, after the gnome place, after every time they had almost lost each other.
+
+Annabeth nodded, eyes bright but dry now, steady. "Always."
+
+Thalia, ahead with Grover, pretended not to hear. She just slowed half a step so they could keep up, and kept guard while her sister rested her weight against the boy she loved, and the quest walked on.
+
+---
+
+---
+

@@ -1,0 +1,560 @@
+## Chapter 54: Lotus
+
+The desert tried to kill them with boredom first.
+
+It was the third day driving west after the gnome place, and the van had a rattle under the dashboard that only stopped when Thalia threatened it. The air conditioner blew lukewarm air that smelled like old fries. Outside, Nevada unrolled in white glare, scrub and heat-shimmer that made the road look wet.
+
+Percy slumped in the back with his head on the window, sweating through his shirt. Annabeth sat up front with the map, no longer marking it. Grover lay across the middle seat with a damp washcloth over his face, horns poking through his cap. Thalia drove with both hands tight on the wheel, hair stuck to her neck.
+
+They were filthy and tired past sleep. Since Aunty Em's they had chased a buzzing box from drop to drop, sleeping in the van at rest stops, eating gas station pretzels and warm Gatorade. Every lead was two days old and wrong. A box that size. A man who paid cash. A truck heading west. Annabeth's map was getting crowded with crossed-out towns, and Percy could see her getting quieter each time another one led nowhere.
+
+"You know what we need?" Grover mumbled. "A forest. Cold. Moss. A stream."
+
+"We need a car wash," Thalia said. "We smell like satyr feet."
+
+"Hey," Grover said weakly.
+
+"We need a break," Annabeth said. Her voice was flat in the way that meant she was running numbers she did not like. "We have four days to the solstice. We've been on the road for—"
+
+She stopped.
+
+Percy lifted his head. "For what?"
+
+Annabeth frowned at the mileage log in the corner of the map. "Nine days? Ten? That can't be right."
+
+"It feels like twenty," Thalia said.
+
+"After the gnome place we drove to Barstow, right? Then the truck stop. Then—" Annabeth rubbed her eyes. "I lost a day somewhere."
+
+"We slept at the truck stop twice," Grover said. "I remember because the lady gave me extra pickles twice. Or the same time twice?"
+
+Percy felt a prickle on his neck. He tried to count. Statues. Police. Night driving. The motel with only cold water. It should have added up. It did not quite.
+
+Then the billboard rose out of the heat.
+
+LOTUS HOTEL AND CASINO in looping silver letters. NEXT EXIT. FREE ARCADE. FREE POOL. FREE AIR CONDITIONING. BEST NIGHT'S SLEEP OF YOUR LIFE.
+
+Under that: KIDS STAY FREE. GAMES THAT KNOW YOU.
+
+Grover sat straight up. "Did you see that?"
+
+"I saw it," Thalia said. "Ignoring it."
+
+Half a mile later another one. A pool so blue it hurt. YOU LOOK TIRED, TRAVELERS. COME REST.
+
+Percy's mouth went dry. "How does it know we're travelers?"
+
+"It's marketing," Annabeth said, staring a little too long.
+
+The third was just a giant white lotus, glowing at the edges. YOU'VE EARNED A BREAK. STAY A WHILE.
+
+Thalia gripped the wheel. "No. Last roadside stop almost turned us to stone."
+
+"Nobody is saying stop," Annabeth said. "Keep driving."
+
+They passed the exit. Percy twisted to watch it go. A palm-lined drive led to a low gleaming building flashing gold and white. Fountains. A valet waving. Even from the highway something sweet drifted, flowers and cookies and chlorine.
+
+Then the van banged, shuddered, hissed white smoke, and died. Thalia wrestled it onto the shoulder as dust boiled up. The engine ticked and went silent. Heat pressed in instantly.
+
+Grover laughed a little wildly. "We broke down one exit past paradise."
+
+They got out and stared at the cracked hose and hanging belt.
+
+"We can fix that?" Percy asked.
+
+Annabeth leaned in, hair sticking to her forehead. "Not without parts and tools."
+
+"We have half a bottle of Gatorade and a colander," Grover offered.
+
+Thalia kicked the tire. "Phones?"
+
+All four phones were dead. Black screens. Percy was sure his had been charged at the truck stop.
+
+"All four at once?" Annabeth said quietly. "That's weird."
+
+A white shuttle rolled past on the frontage road, lotus on the side. SHUTTLE TO LOTUS. FREE. COOL INSIDE. It slowed. The driver leaned out, young, perfect teeth, dazed happy eyes.
+
+"You broke down? Come on in. Lotus tows free. Cool lobby. Cold drinks. Mechanic in twenty minutes."
+
+They looked at each other. Sweat ran down Percy's back. No water. No phones. A deadline ticking.
+
+"We go in," Annabeth said. "But we stay together. We don't eat anything. We don't drink anything. We get towed, use their phone, leave. One hour max."
+
+"One hour," Thalia repeated.
+
+"One hour," Grover said, already walking.
+
+Percy fell in beside Annabeth on the hot asphalt. "Feel weird?"
+
+"That sign said games that know you," she murmured. "That's a weird thing to advertise."
+
+"Stick with me, Seaweed Brain?" he offered.
+
+She squeezed his hand briefly, hot palm to hot palm. "Always, Wise Girl's orders. And Percy — if this place feels wrong, we say so out loud. Promise? No toughing it out alone."
+
+"Promise," he said, meaning it. He was already unsettled and they had not even parked.
+
+The shuttle was freezing. Vanilla-flower air blasted from the vents. Chimes played with no melody. White leather seats held little wrapped candies.
+
+Grover picked one up. "What? Just looking." He turned it over. LOTUS MINT. TAKE A BREAK. He sniffed. "It smells like home. Like wild strawberries."
+
+"Don't eat it," Annabeth said. "Put it down."
+
+He did, like it hurt.
+
+Up close the Lotus sprawled low and wide, marble and glass, fountains and vines impossibly green for desert. The entrance breathed cool air. A bellhop waited, smiling vacantly.
+
+"Welcome to Lotus. Stay a while."
+
+The lobby hit like a wave. Cold air. Cookies and flowers. Soft golden light like late afternoon that never ended. No windows, but the ceiling was painted sky with clouds that actually moved. Arcade bleeps echoed. Kids crowded games and a ball pit. Staff in white glided with trays of cookies and pink smoothies.
+
+Percy felt his shoulders drop without permission. After heat and fear and statues, this felt like sinking into a bath. His eyelids went heavy. For a second he just wanted to sit and let someone bring him cold juice and tell him the quest could wait until tomorrow.
+
+Annabeth grabbed his sleeve. "Eyes up. Tow. Phone." Her voice had an edge, but even she blinked slowly, like the light was drugging her.
+
+The clerk beamed. "Checking in?"
+
+"We need a tow," Annabeth said fast. "Van on the highway. And a phone. One hour."
+
+"Of course. Mechanic is on the way. So slow these days. Wait by the pool? Cookie? On the house."
+
+She slid a plate across. Golden cookies with pink petal centers. Chocolate and honey and something green and sweet. Grover whimpered.
+
+"We're good," Annabeth said. "Where's the phone?"
+
+"Phones don't work well here. Thick walls. There's a lobby phone by the arcade. Or relax. We always find our guests."
+
+Thalia had drifted toward the arcade, eyes caught on a tall silver machine with a blue hunting horn.
+
+"Thalia," Annabeth warned.
+
+"What? One hour, right? Let's sit where we can see the door."
+
+It sounded reasonable. They were tired. Their brains were soup. The white chairs by the games looked like clouds. They sat.
+
+A waiter appeared with four pink smoothies with umbrellas and lotus blossoms. "Compliments of the house."
+
+"We didn't order—" Annabeth started.
+
+Grover lifted his glass and inhaled. "Juniper's hair. Clover after rain. I'm just holding it. Not drinking." His fingers curled tight around the cold glass, and Percy saw how much effort it took not to sip. A thin sheen of sweat stood on his forehead despite the air conditioning.
+
+"Don't drink it," Annabeth said, slower now. She pushed hers away but kept glancing back. Her own throat worked. Percy knew she was thinking about how long it had been since real food, real rest, anything that did not taste like dust and worry.
+
+Percy's smelled like salt and his mom's kitchen on a rainy day, tomato soup and blue cookies fresh from the oven, the exact smell of coming home from school soaked and being handed a towel. His throat ached. He pushed it away, but the scent stayed in his nose, making his eyes sting.
+
+Thalia had not touched hers. She stared across the arcade.
+
+The silver machine was dark until she looked. Then it woke. WELCOME BACK, THALIA. PLAYER TWO JOINED.
+
+A boy's voice burst out, crackling and joyful: "Thali? Is that you? No way!"
+
+On screen appeared a dark-haired boy in a purple cloak, grinning. Above his head: JASON.
+
+Thalia went rigid.
+
+---
+
+She knew it was fake. That did not stop her feet.
+
+She stood and walked over before Annabeth could grab her. Her hands shook. She had not seen that face since his last supervised visit from Camp Jupiter; the bright screen made the distance hurt.
+
+On screen Jason laughed and turned in a sunny digital camp. Tents. Temple. Blue sky. Kids waving. Safe.
+
+"Thali! You finally came! Where've you been? One quest! Stay a little!"
+
+Her throat closed. Her real brother was far away at Camp Jupiter. Letters and visits had not undone the years of wondering where he was, or made it easy to let him leave again. She knew this was a machine. She knew he was alive somewhere else. Yet the promise of ordinary days together made her hands shake.
+
+But this sounded like him when they were little, before Juno took him, stealing crackers under the table at their mom's apartment while Beryl pretended not to see. That memory hit harder than any monster in the last ten days, because it was small and warm and hers. She wanted to hear him laugh without a guard watching the clock on a visit.
+
+The game offered another laugh, another afternoon. All she had to do was move the joystick.
+
+"Thalia, don't," Annabeth said.
+
+"It's reading my head. I know. I'm not stupid." Her voice was hoarse.
+
+She sat anyway. The seat was warm. The joystick fit perfectly.
+
+"One game while we wait. One game won't kill me."
+
+Level One: Reunion. Digital Jason ran at her, arms open. Wind and birds played.
+
+Thalia smiled, broken, and pushed forward.
+
+Across the arcade, Grover found the garden through a vine-covered arch. An indoor atrium, humid and green, stream and willows and beds of huge pink lotus nodding on thick stems. Butterflies drifted in air that felt like breathing water. Sap and wet earth smell wrapped around him, so different from highway dust that his knees nearly buckled with relief. After days of concrete and dead grass, his hooves ached to touch something soft and living.
+
+"Oh," he breathed. "You guys have to smell this. This is real green. This is— this is like the woods behind camp after rain."
+
+"Grover, wait—" Annabeth reached, but he was already in the moss, shoes off, hooves sinking deep into impossible softness. He sighed head to toe, shoulders dropping, eyes fluttering shut. The moss was cool against his aching feet. For a moment the quest, the deadline, the fear for Juniper and his friends all went muffled and far away.
+
+A staffer in green drifted over with sugar-dusted pink cubes and fanned lotus root.
+
+"Lotus treats. Fresh. Try one. Everyone loves them."
+
+Grover stared, pupils huge, hands trembling. "I shouldn't. I'm on a quest. I'm—"
+
+"You look hungry, sweetie. One bite and you'll never feel bad again."
+
+Annabeth started toward him, then stopped. A phone rang.
+
+Not a cell. An old brass pay-phone ring from an alcove marked CALL HOME FREE. Inside, a black booth with the door open, ringing and ringing.
+
+Percy's heart slammed. He knew that ring. His mom's landline in Manhattan in the life he remembered, the one she kept because cells gave her headaches, the one on the little table by the kitchen with the chipped blue paint. In that life he had called it a hundred times from camp, fingers shaking, just to hear her pick up and say Percy, baby, you okay?
+
+A woman hummed through the receiver, off-key and sweet, the exact lullaby she hummed while making pancakes. Pancakes and vanilla and rain drifted out of the booth, impossibly strong over arcade noise and cookie smell.
+
+"Percy? Baby? Is that you?"
+
+His feet moved before his brain caught up.
+
+"Percy!" Annabeth snapped. "Stop."
+
+He stopped halfway, breathing hard. "Did you hear that? My mom."
+
+Her face flickered with fear. "Sally died when you were two here. That's your memory of her. Not your mom in a phone booth in Nevada."
+
+"I know. But it sounds like her. Like I could call again—"
+
+The phone rang again. "Percy? Don't you want to talk? Stay a while? Stay and talk to Mom."
+
+He took another step. Annabeth grabbed his wrist hard.
+
+"Don't. Please."
+
+He looked at her. Pale, pupils too big, her own smoothie forgotten. Behind her, Thalia laughed shortly at the game, a sound he had not heard in weeks, bright and broken at once. Grover sat cross-legged with a pink cube halfway to his mouth, staring like it was the most beautiful thing he had ever seen, sugar glittering on his lower lip.
+
+Cold slid down Percy's spine, cutting briefly through the warm syrup in his head. "Something's wrong. This isn't— we're not just tired."
+
+"I know," she whispered. "I can't think. Why can't I think?"
+
+She pressed her temples. The smell curled sweet and heavy. The music had slowed. The ceiling sky was still perfect afternoon. It had been perfect afternoon when they walked in.
+
+How long ago was that?
+
+She checked her silver watch. The hands spun forward, then back, then forward.
+
+She stared. Then looked at the clock over the desk. 3:15. The clock by the pool. 3:15. A kid ran past shouting about beating level twelve, shirt reading LOTUS SUMMER CAMP 1977.
+
+She went very still. "Oh gods. No."
+
+"What?" Percy said. The phone tugged. "Mom? Hold on—"
+
+Annabeth grabbed his face and forced him to look. Gray eyes blazing for one clear second. "What is this place? We've been trapped here before. Chiron's stories too. Odyssey. Island with flowers."
+
+Cotton filled his head. "Lotus... Eaters?"
+
+"Yes. They ate flowers and forgot home and time. This is the Lotus Casino. How long have we been here?"
+
+"Twenty minutes? Thalia just sat down."
+
+Annabeth pointed. Thalia's smoothie was half empty. Percy never saw her drink. Her eyes were fixed where digital Jason showed a golden statue of himself. Score ticked: DAYS TOGETHER: 14. DAYS TOGETHER: 15.
+
+Grover had pink sugar on his lip. He had licked the cube. He swayed, blissful.
+
+Annabeth ran to the desk, Percy stumbling after, the phone ringing behind, his mother's voice sadder now.
+
+"What day is it?" she demanded.
+
+"It's today," the clerk smiled. "Always today at Lotus."
+
+"Date? Year?"
+
+"Time is a suggestion here, sweetie. Cookie?"
+
+Annabeth grabbed newspapers from the rack. Top one faded, date smudged. She dug down. Found a USA Today about a missing plane she remembered from camp. Five years ago.
+
+"Percy," she whispered, shaking. "We have to get them out. Now."
+
+---
+
+Annabeth had always prided herself on remembering.
+
+They remembered escaping the Lotus before. Chiron had also told the older Lotus story on a rainy day in the Big House attic, with younger campers sprawled on cushions and rain rattling windows. He made it sound silly at first, men eating flowers and forgetting wives, until he leaned forward and his voice went low. "Time is the real monster. You walk in for lunch and walk out and your children are old. It doesn't steal memory. It steals urgency. Staying feels reasonable."
+
+She had written in her notebook in capitals: STAYING FEELS REASONABLE. She had underlined it twice.
+
+Now she stood in golden light with syrup thoughts and understood exactly what he meant. Part of her wanted to sit, drink the smoothie, play a nice building game where she could make straight roads and tall towers and nothing died, stop being scared for an hour. Her whole body leaned toward the nearest chair like a plant toward sun.
+
+One hour would not hurt. Would it?
+
+She bit her cheek until she tasted blood. Pain cut through. She clung to it.
+
+Think in steps. Like architecture. Load-bearing walls. One: Thalia. Two: Grover. Three: Percy. Four: door.
+
+She ran to Thalia first, loudest and brightest, therefore closest to lost.
+
+Thalia was on level three. REUNION PICNIC. Digital Jason and Thalia ate sandwiches on a hill at sunset. Text scrolled: HE'S HAPPY HERE. HE'S SAFE HERE. STAY AND KEEP HIM HAPPY.
+
+Real Thalia cried and smiled, hands tight on controls.
+
+"Thalia, look at me."
+
+"One more level. He's showing me the temple. He built it for me. He forgives me."
+
+Annabeth's chest ached. Jason, their little brother, Rome-raised and far away. She knew him through recent visits and what Thalia told her, not the childhood this game pretended to give back. The temple on the screen was a promise neither of them could trust, however badly Thalia wanted another picnic before her brother had to leave.
+
+"This isn't him," Annabeth said gently, then harder. "Jason is at Camp Jupiter. This wears his face to keep you in the chair."
+
+Thalia flinched. "Don't."
+
+"You know it's true. Would Jason want you in a casino while the world ends? A fake picnic forever?"
+
+On screen Jason waved. "Thali, stay! I'm happy! Aren't you happy?"
+
+Thalia sobbed. Score climbed. DAYS TOGETHER: 42.
+
+Annabeth reached past and hit power. The screen died. Music cut. Jason cut mid-laugh.
+
+Thalia screamed and lunged, scrabbling to turn it back. "No! He was there! He was happy!"
+
+Annabeth grabbed her wrists. Thalia was stronger, sparks at her fingertips, lights flickering.
+
+"Hit me if you have to," Annabeth said, holding on, "but you're coming. Our brother is living his own life. This steals yours."
+
+Thalia stared, breathing hard, tears streaming. Then her shoulders collapsed. She covered her face.
+
+"He was smiling," she whispered. "When he visits, there's always somebody waiting to take him back."
+
+"I know." Annabeth put an arm around her shaking shoulders, steering her from the machine, already flickering back to life, calling fainter: Thali? Come back. Don't leave me again.
+
+"Don't listen. Walk with me. Order from your second-in-command."
+
+Thalia stumbled along, still looking back.
+
+Grover was harder in a quieter way.
+
+He sat in the moss half-lidded, cube melting in his hand, sugar on his mouth, a second cube on a napkin in his lap. He had not eaten, not quite, but his face was slack and peaceful in a way Grover's never was. He hummed, petting moss.
+
+"Grover? Hey."
+
+"Mmm. You should try it. Tastes like everything good. Spring on Olympus. Juniper said yes." He lifted the cube. "One bite and the quest stops hurting."
+
+Annabeth knocked it into the stream. Plop. Grover stared, stricken.
+
+"No!" He lunged. Thalia caught him around the waist and hauled him back.
+
+"What do satyrs do?" Annabeth said in his face. "What's your job?"
+
+"Find Pan... protect nature..."
+
+"Can you do that from fake grass in Nevada?"
+
+"This garden is nice. The moss likes me. It told me its name. It's... I forgot."
+
+"Because it's carpet that smells like moss. When did we come in?"
+
+"Lunch? Yesterday?"
+
+"We came twenty minutes ago. Or five days ago. That's the point."
+
+Grover eyed the hovering tray. His hand reached, trembling. "It hurts to say no. Why does it hurt?"
+
+"Because it's poison that feels good. Be brave thirty seconds. Smell real air under fake air."
+
+She scooped dirt from under the moss carpet where concrete showed, held it to his nose. Mineral and dust. He sneezed violently, gasped, eyes clearing.
+
+"Whoa. Okay. My mouth tastes like flowers and I want more and I hate that I want more."
+
+"Hold that hate. Walk."
+
+Thalia slung his arm over her shoulder. He leaned, shaking, spitting pink.
+
+"Two down," Annabeth breathed. Head pounding. Light pulsing like a heartbeat. "Percy?"
+
+Percy stood in the booth, receiver to his ear, tears on his cheeks.
+
+He did not remember the last five steps. One moment Annabeth pulled Grover up, the next ringing filled his skull and his hand was on cold plastic.
+
+"Mom?" he whispered.
+
+"Percy, baby," Sally said, warm and clear. "I've been waiting. Stay? Pancakes. Blue ones. The world can wait. Stay with me."
+
+He closed his eyes and saw her so clearly it hurt to breathe. Small kitchen. Rain on windows. Floury hands, tired perfect smile, blue pancake batter in a bowl. After a year of monsters and prophecy and carrying a weight that kept getting heavier, sitting at that little table and doing nothing was so beautiful his knees went weak. He could almost feel the chair under him, the chipped mug of hot chocolate she always made too sweet.
+
+"Mom, I miss you. I'm trying to come home."
+
+"I know. You're tired. Rest. Lotus will care for you. I'll care for you."
+
+Far away, Annabeth shouted his name. Through glass he saw her running, dragging Thalia and Grover, desperate. The carpet rippled.
+
+"Percy, hang up! That's not her!"
+
+"But it sounds— Mom, is that really you?"
+
+Static, sweet as sugar. "Of course, baby. Don't you trust Mom?"
+
+Real Sally never said that. Real Sally said tell me what you need. Asked and listened. Joked about Poseidon and child support.
+
+Percy opened his eyes. The booth was dusty. The cord frayed. Under vanilla stank cigarettes. The voice looped the same three phrases with different warmth.
+
+His hand shook. He wanted to stay forever. Wanted pancakes.
+
+"You're not her," he whispered. "My mom would tell me to finish my quest."
+
+He hung up. The click cracked. Dial tone wailed, died. Huge empty ache left behind. He gasped, receiver dangling.
+
+Annabeth yanked the door open. "Are you—"
+
+He nodded, speechless, forehead to hers for one second. Clammy to clammy.
+
+"You okay?" she whispered.
+
+"No. Go before I change my mind."
+
+---
+
+Leaving was not walking out. The Lotus noticed.
+
+The moment he hung up, pressure shifted. Music turned minor and insistent. Light dimmed. Staff turned together, smiles fixed, eyes too focused.
+
+"Guests," the clerk called. "Rooms are ready. Mechanic needs another hour. Another day. Stay."
+
+"We're leaving," Annabeth said loudly, for her friends as much as staff. "Thalia, don't look. Grover, mouth-breathe. Percy, hold my hand, don't let go."
+
+Percy laced fingers through hers, cold and tight.
+
+Fifty feet to the revolving doors felt like a mile uphill through honey. Everything called. The carpet seemed to grip their shoes. The air thickened with vanilla until Percy coughed. Kids laughed and shouted for them to stay, to play just one more round, voices bright and oddly empty, like recordings.
+
+Thalia's machine flickered as they passed. "Thali! You promised! You left me once! Don't leave again!" The screen flashed through sunny images impossibly fast, picnic and temple and triumph, all gold and blue.
+
+Thalia choked and stumbled. Grover caught her. "Not him. Real Jason wouldn't guilt you. Come on."
+
+A waiter blocked them with cookies. "One for the road?"
+
+"Move," Thalia snarled, sparks in her hair. He stepped back.
+
+The garden woman held blossoms. "Stay and grow, sweet satyr."
+
+Grover spat pink at her feet. "I grow where I want."
+
+The phone rang again. Percy flinched through their joined hands. "Mom?"
+
+Annabeth squeezed till knuckles hurt. "I'm here. I'm real. Stay with me."
+
+He focused, jaw clenched. They walked.
+
+The doors pushed back like wading water. Sweet air clung to clothes and hair. Legs weighted. Eyelids drooped. A voice in Annabeth's own voice whispered: finish tomorrow. Rest tonight. You deserve one night after everything. No one would blame you. The world can wait one night.
+
+She bit her cheek, tasted blood, shoved with her shoulder, and thought about her dad's house with blueprints on the table, about Camp's climbing wall and lava, about real things with sharp edges. Real was better. Real had to be better.
+
+She bit her cheek, tasted blood, shoved with her shoulder.
+
+Heat slapped them. Real, dry, brutal noon that burned nostrils and made eyes water instantly. Sky bleached white-blue, huge and indifferent, nothing painted about it. Traffic roared on the highway. Dust coated tongues with grit. Percy had never been so glad to be uncomfortable. He sucked hot air in big gulps and let it burn the sweetness out of his lungs.
+
+They staggered onto the porte-cochere gasping, sweating instantly. Behind them doors turned, gold spilling, music leaking.
+
+Thalia sat hard on hot concrete, head between knees. Grover knelt, hands on real dirt by a planter, breathing like surfacing. Percy swayed, still holding Annabeth's hand.
+
+Annabeth looked back. In daylight the building looked stained. Marble streaked. Gold peeling. Fountains green at edges. By the valet: TOW SERVICE, and scrawled beneath: WAIT 3-5 DAYS.
+
+"Our van?" she croaked.
+
+The same young valet blinked slowly. "Row C."
+
+They found it under dust thick enough to write in. Hood closed. A work order fluttered: HOSE ORDERED. BACKORDERED. EST. 2 DAYS. Plus three parking tickets.
+
+Annabeth pulled them with shaking hands. Tuesday. Thursday. Saturday.
+
+"What day did we drive in?" Thalia asked, gray under sunburn.
+
+"Monday? Monday afternoon. I think."
+
+Percy's phone flickered alive at 3 percent. Date popped up. Saturday. 12:47 PM.
+
+Five days. They had been inside five days.
+
+"No," Grover whispered. "We sat down. Smoothies. One game."
+
+"We drank half those," Thalia said hoarsely, staring at her hands. "I don't remember drinking."
+
+Percy felt sick. Annabeth did math on fingers, lips moving, face whitening.
+
+"We had four days when we stopped," she said quietly. "If five passed—" She checked phone, tickets, sun. High and merciless, nothing like eternal afternoon. "We lost five days. Deadline is tomorrow noon."
+
+Silence. Even highway sounded distant.
+
+"So we failed?" Thalia said. "Cookies while the world—"
+
+"No." Annabeth sharp, then softer. "We're out. We're moving. We drive all night."
+
+"We don't have a hose," Percy said.
+
+A tow truck rumbled in, dust kicking. Driver leaned out. "Van in Row C? Got your hose. Supplier took four days. Lucky I remembered."
+
+Annabeth laughed, almost sobbing. Percy pulled her against his side. She trembled into him.
+
+While the mechanic banged in real time, metal clanking honestly, they sat in thin shade drinking hot metallic water the driver gave them. It tasted like warm plastic and pennies. Perfect. Grover drank two bottles straight and poured a third over his head, washing pink sugar from his face, shuddering with relief at real cold shock. Thalia splashed her wrists and neck and sat with eyes closed, breathing deliberately like she was counting heartbeats to prove they were hers.
+
+Thalia stared at the entrance where kids still drifted, laughing. "She's still in there. Part of me. At that machine. Watching him eat a sandwich."
+
+Grover nodded, eyes red. "I still taste it. Want to lick the tray. That's messed up, right?"
+
+"It's designed," Annabeth said, exhausted, notebook open but unwritten. "Not weakness."
+
+Thalia looked at her. "You turned it off. Didn't hesitate."
+
+"I hesitated. I wanted to give you him a minute longer. Tell me about him. The real one."
+
+Thalia swallowed. Then quietly: "He snorted when he laughed. Hated blueberries. Wrote terrible Latin letters from Camp Jupiter because he thought it was funny. Last one said, Thali, don't be stupid, come visit. I didn't. I was busy."
+
+She wiped eyes furiously. "That thing knew all that. Used it."
+
+"It wasn't him," Grover said. "He wouldn't want you stuck."
+
+Thalia nodded shakily, head briefly on his shoulder.
+
+Percy watched Annabeth go quiet, hands around the bottle, blaming herself.
+
+"Hey," he nudged her knee. "You got us out."
+
+"I got us in. I said one hour. I almost drank—" She gestured helplessly. "Chiron told me. I knew. Still almost stayed. I thought about a city-builder where nothing dies."
+
+"You remembered anyway. That's what matters."
+
+"We lost five days, Percy."
+
+"I know. But alive. And when I was in that booth I couldn't think. Wanted to stay forever. Then I heard you yelling. That's what hung up. Not me smart. You."
+
+Her eyes wet and tired. "I was scared you wouldn't."
+
+"I was scared too. Still hear her. Part wants to go back for one minute. Stupid?"
+
+"No," Thalia said quietly. "Human."
+
+"The flowers tell truth about what you miss," Grover said. "Doesn't make them true."
+
+The mechanic slammed the hood. "Good! Don't overheat her. Advice? Don't sleep in Vegas lots. Time gets away."
+
+They stared. He laughed and drove off.
+
+They piled in, van starting first try, AC wheezing. Thalia drove. Grover took back. Percy and Annabeth squeezed middle, shoulders touching, too tired for space.
+
+As Thalia pulled out, the Lotus shrank in mirrors, glowing white and gold. YOU LOOK TIRED. COME BACK SOON.
+
+Percy felt the hook under ribs. He looked away to Annabeth instead. Dusty ponytail, chapped lips, blood where she bit her cheek to stay awake.
+
+"Promise something?" he murmured, low for her, so Thalia and Grover would not hear. "Stay present with me. Even bad. Even when easier to listen to nice voice. Just stay here. Real thing. If I drift, pull me back. If you drift, I'll pull you."
+
+She was quiet. Van rattled. Wind whistled through bad seals. Real, gritty, uncomfortable. Outside, power lines and brown hills slid past, too bright and too plain to be a trick.
+
+Then she linked pinky with his, solemn as Styx, her hand dusty and shaking.
+
+"I promise. No lotus. No fake happy. Just us. Heat and monsters and no sleep. I'll choose the real road with you every time. I'm here. All the way here."
+
+"I promise. No lotus. No fake happy. Just us. Heat and monsters and no sleep. I'll choose the real road with you every time. I'm here. All the way here."
+
+"I'm here too," Percy said. "Even when I'm scared. Even when I want pancakes and sleep and Mom's couch. I don't want a dream where you're smiling. I want you, tired and stubborn and bleeding on your cheek because you bit it to save us."
+
+"I'm here too," Percy said. "Even when I want pancakes."
+
+She laughed wetly, tears spilling, head on his shoulder. He rested cheek on her hair, fake vanilla and real sweat and dust.
+
+Ahead Thalia drove faster, jaw set, eyes on the sun. Behind Grover sniffed wind and whispered, "Real sage. Real dirt. Real highway. Okay. I can do this."
+
+Annabeth laced fingers fully through Percy's and held as the van rattled toward the deadline, awake, aching, together.
+
+Behind them the Lotus shimmered and sang, already forgetting names. They did not forget its.
+
+---
+
+---
+

@@ -1,0 +1,402 @@
+## Chapter 67: Fishing
+
+The dock at Camp Half-Blood creaked in the early morning in a way Percy Jackson had memorized down to the plank.
+
+Third plank from the shore sang a low note when stepped on. Fifth plank clicked. Seventh plank, the one with the nail head shaped like a tiny trident where some Poseidon kid from twenty years ago had gotten bored with a hammer, always stayed cool even in the warmer April sunshine. Percy knew because he was sitting on it barefoot at seven thirty in the morning, toes curled over the edge, a bucket beside him and the whole of Long Island Sound spread out flat and silver in front of him.
+
+Behind him, Annabeth Grace was already arguing with a notebook.
+
+"No, look," she said, pencil tucked behind her ear, hair pulled back in a loose braid that Thalia had done that morning. "If the tide is coming in at oh-seven-hundred the eddy behind the dock pilings should spin counterclockwise. But yesterday it spun clockwise."
+
+Percy grinned without turning around. "Sound's not lying. It's just showing off for you."
+
+Annabeth flopped down beside him, shoulder bumping his. She wore an orange Camp Half-Blood shirt three sizes too big over her Cabin One sweatpants, and her feet were bare too. Her sketchbook was open on her knees to a page half-filled with current diagrams, little arrows curling around rectangles that were supposed to be pilings. In the margin she had drawn a very accurate seagull stealing a bagel.
+
+"You're in a good mood," she observed.
+
+"It's fishing morning," Percy said. "Best morning."
+
+Thalia Grace's voice came booming down the hill before Thalia herself appeared. "If you two lovebirds fell in already, I'm not jumping in after you! The water's freezing!"
+
+She came clattering down the dock in her black leather jacket over pajama pants, her silver hairband crooked. Behind her came Grover Underwood, with a reed pipe in one pocket, a bag of apples in the other, and a look of deep philosophical concern.
+
+"Percy," Grover said solemnly, settling cross-legged at the edge of the dock, his goat legs folding under him, his hooves clicking on wood, "I have to register a formal protest. As empath. As friend. As vegetarian-adjacent."
+
+"You eat cheese enchiladas by the tray," Percy said.
+
+"Vegetarian-adjacent," Grover repeated firmly. "Fish are friends. Fish have feelings. Fish told me once off Montauk that they have cousins in this Sound and I'm supposed to say hi, not eat them."
+
+Thalia dropped down on Percy's other side and stole his bucket to use as a footrest. "You agreed to come, G-man."
+
+"I agreed to observe and provide moral support and make sure nobody drowns," Grover said. "I did not agree to murder."
+
+Percy nudged the second bucket toward him with his foot. It was empty except for a coil of undyed wool string, three smooth stones, and a wax tablet. "Atlantean fishing doesn't murder. You'll see. It's different."
+
+Annabeth looked up, interested. That was the thing Percy loved about her, one of the thousand things. She had been raised by Thalia on the run, then claimed by Zeus and put in Cabin One with its marble floor and its storm-static air and its huge windows that rattled when their father was in a mood, and she had every reason to hate the sea on principle. Sky and sea did not mix. Zeus and Poseidon barely tolerated each other on good days. But Annabeth never dismissed something because of where it came from. She leaned in.
+
+"Tell us again," she said. "No hooks?"
+
+"No hooks," Percy said. "No nets. No spears. In Atlantis, fishing for the table is done by hand. It's considered rude to trick a fish. You have to ask and you have to be still enough to be answered."
+
+Thalia snorted. "That sounds like something Triton would say right before calling us all minnows."
+
+"Triton did say it," Percy admitted. "Last portal session. He spent an hour lecturing me on respectful harvest while Tyson ate an entire kelp salad and nodded at everything. But then he showed me. It's real. You don't chase. You shape the current."
+
+He held up his hand over the water. The morning Sound was glassy, small ripples ticking against the pilings. Percy breathed out slow, reached down with that inner sense he had for water, the one that felt like flexing a muscle behind his ribs, and pulled very gently.
+
+A thin ribbon of water rose between two pilings, clear as glass, turning slowly. It was no thicker than his wrist, turning over and over, a slow wheel.
+
+Annabeth inhaled. Even after more than a year of watching him do impossible things, she still watched like it was the first time. "You're making a holding eddy."
+
+"I'm making a waiting room," Percy said. "Fish like edges. They like where fast water meets slow water because food collects there. Atlanteans don't hunt fish down. They build a nice edge and invite them in. Then—" He flattened his hand, and the ribbon settled. "You wait with your hands in the water. When one comes to check it out, you lift. No grabbing. You lift the water with the fish in it."
+
+Grover stared. "That is the least murdery murder I've ever heard of."
+
+"It's still catching," Thalia said. "Don't let him fool you with pretty currents, G-man. He still plans to eat them."
+
+"Respectful harvest," Percy said, in a perfect imitation of Triton's stuffy older-brother voice. "Negotiate with the element, little tide."
+
+Annabeth laughed and shoved him sideways. Thalia laughed too, louder, and for a second the three of them sat shoulder to shoulder, Percy's sea-green eyes bright, Annabeth's gray eyes bright, Thalia's electric blue eyes bright, all three reflecting the same silver water.
+
+From the top of the hill, a familiar voice bellowed, "JACKSON! ARE YOU LYING ABOUT FISH AGAIN?"
+
+Clarisse La Rue came storming down the beach path with Silena Beauregard half-jogging to keep up. Clarisse wore her camp shirt knotted at the waist, her spear slung across her back even though she had promised Chiron no weapons before breakfast. Silena wore a pale blue shirt and denim shorts, a canvas tote over her shoulder.
+
+Which, Percy thought with a warm surge in his chest that he still wasn't used to, was true now. In this world, Clarisse was not Ares's daughter. Silena was not Aphrodite's daughter. They were his sisters. Daughters of Poseidon, same as him. Clarisse, fierce and broad-shouldered, who had once tried to dunk his head in a toilet in another life and who now ruffled his hair and called him barnacle-brain with actual affection. Silena, kind and sharp and brave, who could talk a cyclops down and then bake cookies for the whole cabin, who had taught Percy how to braid cord for fishing lines and how to say no without apologizing.
+
+"Morning, little brother," Silena called sweetly, dropping her tote on the dock and kissing Percy on the top of the head as she passed. "Morning, Annabeth. Love the braid. Did Thalia do that? It's very—"
+
+"Thalia did it," Annabeth said, touching it self-consciously. "Is it bad?"
+
+"It's enthusiastic," Silena said diplomatically, sitting down and immediately starting to fix it with deft fingers. "There. Now it's perfect."
+
+Clarisse dropped heavily beside Thalia, making the whole dock groan. "Heard you were doing fish magic. We came to win."
+
+"It's not a contest," Percy said.
+
+"It is now," Clarisse said. "La Rue versus Jackson. Traditional sibling beatdown. Silena, you're with me. We're gonna out-fish Pretty Boy and his sky girls."
+
+Thalia sat up straight. "Oh, it's on. Sky girls? Pinecone Face, I will end you."
+
+"Try it, Static," Clarisse shot back fondly. They had been insulting each other all through the winter and it had become a love language.
+
+Grover raised a hoof. "Do I have to be on a team? I feel like being on a team implies complicity."
+
+"You're with us," Annabeth said promptly, patting the dock beside her. "Empath. You can tell where the schools are."
+
+Grover sighed deeply. "I am being used for my gifts. Fine. But I want it on the record that I love every fish personally."
+
+A frantic flapping and a thump announced the arrival of the last member of the party. Ella the harpy landed awkwardly on the far end of the dock, her red-feathered wings folding tight, her talons clicking, her large eyes blinking behind a pair of tiny reading glasses that Annabeth had found for her in the Big House library. She clutched three scrolls, two pencils, and a waterproof field guide to North Atlantic fishes that was already water-stained and beloved.
+
+"Ella is here!" she squawked. "Ella heard fishing! Ella will document! 'Fishes of the eastern Sound, with notes on respectful harvest, by Ella, with help from friends.' Chapter seven. Or chapter one. Ella hasn't decided. Chapters are hard."
+
+"Ella!" Percy lit up. "You made it."
+
+"Ella runs fast when there are fish. Fish are interesting. Fish have Latin names. Latin is good. *Morone saxatilis* is striped bass. *Tautoga onitis* is tautog, also called blackfish. *Pseudopleuronectes americanus* is winter flounder. Ella loves saying *Pseudopleuronectes americanus*." She settled, arranging her scrolls with great care, weighting the corners with smooth stones. "Ella will record species, size, current conditions, and ethical status. Percy says ethical status is important. Ella wrote ETHICAL STATUS in big letters."
+
+Annabeth smiled at her, warm and genuine. "Want to sit by me? You can see my current charts and tell me if I get the eddies wrong."
+
+Ella shuffled over happily, muttering, "Friends are good. Friends share charts. 'The friend who shares charts is the friend who cares.' Ella read that. Or made it up. Either way."
+
+Percy clapped his hands. "Okay. Atlantean fishing lesson one. Everybody put your feet in? No? Just me? Fine. Hands first."
+
+He slipped off the dock edge and into the shallow water beside the pilings, gasping at the cold. The water came up to his waist. He steadied himself against a piling crusted with barnacles and mussels.
+
+"You're insane," Thalia said, but she was already pulling off her socks. "It's April."
+
+"It's the Sound in April," Clarisse said, already wading in on the other side, hissing at the cold but refusing to show it. "Suck it up, Grace."
+
+One by one they followed. Annabeth eased in beside Percy, biting her lip at the cold, her braid slipping over her shoulder. Silena went in graceful as a seal, barely a splash. Thalia went in with a huge splash and a curse in Ancient Greek that made Ella cover her ears and then write it down for linguistic purposes. Grover stayed on the dock, dangling his hooves just above the surface, looking tortured.
+
+"Grover, you gotta get in," Percy said.
+
+"I am empathically in," Grover said. "My spirit is in the water. My hooves are staying dry. Hooves get waterlogged."
+
+"Satyr hooves do not get waterlogged," Annabeth said.
+
+"They get spiritually waterlogged," Grover said.
+
+Percy laughed and held out his hands, palms up, just under the surface. "Okay. Watch. First you find the water that's already moving. Don't force it. Every place has a current, even when it looks still. Under the dock, the tide pushes in and hits the pilings and curls back. Feel for the curl."
+
+Annabeth closed her eyes. Percy watched her face, the way her eyebrows drew together in concentration, the way her mouth relaxed when she stopped thinking and started feeling. She was a daughter of Zeus, sky to her bones, storms in her blood. Water did not come naturally to her. But she was also Annabeth, which meant she learned everything by taking it apart and putting it back together better.
+
+"I feel it," she whispered. "Cold stripe next to warm stripe. Right here."
+
+"Good," Percy said quietly. "That's the edge. Now cup your hands, loose, not tight. Make a little bowl. And think—" He hesitated, trying to translate Triton's Atlantean into English. "Think *stay*. Not to the fish. To the water. Ask the water to stay still around your hands."
+
+Clarisse, on the other side of the dock, was frowning hard at her own hands. "This is stupid. Fish don't come when you ask nicely. Fish come when you—" She lunged, splashing wildly. A small crab shot out from under the dock and pinched her ankle. She yelped. "OW! Crab assault! Silena, kill it!"
+
+Silena, who had her hands cupped perfectly still, did not move except to smile. "Clarisse. Stillness. Remember what Triton said. Hammers rust."
+
+"I will rust you," Clarisse muttered, but she stilled.
+
+Thalia was doing surprisingly well for someone who had spent the last month running patrols and threatening clouds when they rained on her sleeping bag. She stood with her hands in the water, her eyes half-closed, her breathing slow. Archer stillness. Percy had seen her hold a bow drawn for three minutes without shaking.
+
+"I hate this," she announced. "How long do we wait?"
+
+"Until—" Percy began, and then a flash of silver slipped between the pilings, curious, circling the slow eddy he had built.
+
+It was a small striped bass, no longer than Percy's hand, its dark stripes bright against silver. It nosed at Annabeth's cupped hands, tasting the still water there.
+
+Annabeth froze. Her eyes met Percy's, wide and amazed.
+
+"Lift," Percy breathed. "Lift the water, not the fish."
+
+Annabeth lifted very slowly, cradling water in her palms. The little bass rose with it, confused but not frightened, tail flicking once. For a heartbeat it lay in her hands, in a palmful of sea, glinting.
+
+"Ella!" Annabeth whispered. "Quick!"
+
+Ella was already scribbling furiously, leaning so far over the dock edge that Grover had to hold her tail feathers to keep her from tipping in. "'Oh-seven-forty-two hours! *Morone saxatilis*, juvenile, approximately fifteen centimeters! Caught by Annabeth Grace, daughter of Zeus, by hand and current! Ethical status: excellent! Wriggle factor: high!'"
+
+Annabeth lowered her hands and the little bass slipped back into the Sound with a flick and vanished under the dock.
+
+She turned to Percy, dripping and glowing. "Did you see that? Did you— Percy, I did it!"
+
+Percy had never seen her look like that about something from his world. Annabeth built things. Annabeth solved mazes and translated prophecies and drew buildings that would stand for a thousand years. The sea had always been his, not hers. But in that moment she looked like she belonged in it.
+
+"You did it," he said softly. "Told you. Natural."
+
+Thalia wolf-whistled. "Okay, little sister! Sky girl scores first!"
+
+Clarisse splashed furiously. "That was a baby! That doesn't count! Silena, tell them babies don't count!"
+
+Silena's eyes were closed, her face serene. "Shh," she said. "I'm negotiating."
+
+As if on cue, a much larger shape glided out from under the dock — a tautog, dark and broad, easily the length of Silena's forearm, its thick lips pursed. It circled Silena's still hands once, twice, then drifted right into them as if Parking in a garage.
+
+Silena lifted smoothly. Water streamed off her wrists. The tautog flopped once, solid and heavy.
+
+"Oh!" she said, delighted. "Hello, handsome!"
+
+Ella shrieked with joy. "'*Tautoga onitis*! Adult! Approximately thirty-five centimeters! Caught by Silena Beauregard, daughter of Poseidon! Technique: flawless stillness plus kindness! Ella notes that kindness is a technique!'"
+
+Clarisse stared. "How did you— Silena! That's my fish! I mean— good job! But I'm winning next!"
+
+She plunged her hands in with fierce determination. Percy winced. Clarisse fished the way she fought — full commitment, overwhelming force. The water around her churned.
+
+"Clarisse," Percy said, wading a little closer. "Sis. You gotta soften. Think like— think like you're holding a dove. Or a cookie that you don't want to crumble."
+
+"I don't hold doves," Clarisse grumbled, but she tried. Her big hands, scarred from spear drills, gentled. Her breathing slowed. The churn settled.
+
+Percy felt it before he saw it — a shift in the current, a curious nosing. "Hold," he murmured. "Hold right there."
+
+A striped bass, bigger than Annabeth's, slid into Clarisse's hands. She froze, eyes huge.
+
+"Now lift—" Percy began.
+
+Clarisse lifted too fast, with a triumphant yell. Water exploded. The bass flipped, smacked her in the face with its tail, and shot back into the Sound. Clarisse stood dripping, a red mark across her cheek, seaweed on her shoulder.
+
+For a second nobody breathed. Then Thalia burst out laughing, and Silena burst out laughing, and Annabeth bit her lip so hard Percy thought she might bleed trying not to laugh, and Grover fell over sideways on the dock laughing so hard his hooves kicked.
+
+Clarisse wiped seaweed off her face with great dignity. "It counted. Ella, write down that it counted. La Rue, Clarisse, one fish, slapped in face, moral victory."
+
+Ella wrote dutifully, "'Moral victory: Clarisse La Rue. Fish: victorious. Rematch anticipated.'"
+
+---
+
+By nine o'clock the sun had burned off the mist and the dock was crowded with buckets and towels and Ella's growing stack of notes.
+
+Thalia had caught a small flounder by sheer archer patience. She had named the crab that climbed onto her wrist General Shrimp and released him with full military honors. Grover had finally lowered one hand into the water and had immediately burst into tears because he felt how cold the fish were and Percy had to explain that fish liked being cold while Grover apologized to each one individually.
+
+"It's okay," Grover sniffled, patting the water. "I'm sorry your blood is cold. I brought apples. Do fish like apples?"
+
+"No," everyone said together.
+
+Annabeth had caught three more fish, each a little bigger, each released after Ella measured with a piece of string. She was getting better fast, building little current pockets with surprising delicacy. Percy watched her work and felt something tight and proud in his chest. She kept glancing at him for confirmation, and each time he nodded, she smiled like he had handed her a gift.
+
+"You know what you're doing," he told her quietly during a lull, while Clarisse and Thalia were engaged in a splashing war on the far side and Silena was braiding Ella's head feathers into tiny braids that Ella pretended to hate but clearly loved. "You build eddies like you build buildings. Foundation first, then walls."
+
+Annabeth bumped her wet shoulder against his. "You know what you're doing too, Seaweed Brain. You're a good teacher."
+
+Percy shrugged, ears pink. "Triton taught me. I'm just repeating."
+
+"No," Annabeth said. "Triton lectures. You make it make sense."
+
+Silena waded over, her bucket now holding two respectable-sized fish swimming in seawater — a striped bass and a tautog, both destined for the cooking fire, both caught cleanly and quickly with a murmured thank you that Ella had recorded verbatim. "Percy? Can you show me that lift-and-turn thing again? The one where you bring them up without them flipping? Clarisse keeps launching hers."
+
+"Yeah," Percy said, squeezing Annabeth's hand once before letting go. "Like this. Hands together, thumbs touching, make a bowl. When you lift, tilt a little toward the current so the water drains but the fish stays. See?"
+
+He demonstrated with empty hands, slow motion. Silena copied him, graceful. On the second try she lifted a surprised porgy as if serving it tea. Ella applauded with her wings.
+
+"Silena Beauregard! Second keeper! *Stenotomus chrysops*, scup! Ella notes excellent table quality!"
+
+Clarisse hauled herself onto the dock, dripping, to inspect the keepers. "Okay, those are actually decent. My sister the fish whisperer." She punched Silena lightly on the arm, pride all over her face. Then she pointed at Percy. "You. Little brother. Teach me the cookie thing again. I refuse to lose to Zeus girls."
+
+Thalia, floating on her back in the shallows with her hands behind her head, called, "You already lost, Pinecone Face! I caught General Shrimp's entire army!"
+
+"You caught a crab and let it go!" Clarisse shouted back. "That doesn't count for dinner!"
+
+"It counts for honor!"
+
+Ella raised a wing. "Ella proposes categories! Ella loves categories! Categories are like nests! Biggest fish! Smallest fish! Most honorable release! Best technique! Most splashed!"
+
+Grover raised his hand from the dock. "I would like to win Most Splashed Without Trying. I fell in twice while sitting down."
+
+Everyone voted. Biggest fish went to Silena's tautog. Smallest fish went to Annabeth's first baby bass, which she accepted with a bow. Most honorable release went to Thalia for General Shrimp, who Thalia insisted on inviting to lunch. Best technique was a tie between Silena and Annabeth, which made both of them blush and insist the other deserved it. Most splashed went unanimously to Clarisse, who took the seaweed crown Silena made for her and wore it like a laurel.
+
+Percy looked around at his sisters — blood sisters Clarisse and Silena, jostling and laughing in the shallows, and Annabeth's sister Thalia, floating and flicking water at Clarisse with her foot — and at Annabeth beside him, and Grover, and Ella scribbling, and felt the day settle warm in his chest.
+
+In Atlantis, fishing was work. It was tide schedules and quota stones and palace kitchens. Here it was this. Sun on water. Sisters arguing about crabs. Annabeth's wet hand finding his again when she thought no one was looking.
+
+"Okay," he said, standing and hauling the keeper bucket up. Water sloshed. "Lesson two. Cooking what you catch."
+
+---
+
+The cooking fire was an old Council-approved pit on the beach past the volleyball court, ringed with stones that generations of campers had initialed. By ten thirty, with the sun high and the morning chill burned off, the group had migrated there with towels around shoulders, buckets in hands, Ella flying in short hops with scrolls clutched to her chest because she refused to let anyone else carry the data.
+
+Tyson arrived as they were gathering driftwood, bursting up out of the surf with a happy roar, seawater sheeting off his single large eye, his broad shoulders hung with a net bag of mussels and sea lettuce.
+
+"PERCY!" he bellowed, scooping Percy up in a hug that lifted him clean off his feet. "ANNABETH! THALIA! MY SISTERS! GOAT FRIEND! BIRD FRIEND! Tyson heard there is fishing! Tyson brought seasoning!"
+
+He dumped the bag on the sand. Out spilled mussels, a bundle of wild rosemary Grover immediately identified as safe and delicious, three lemons, and a small clay jar stamped with an Atlantean wave mark.
+
+"From the palace kitchens!" Tyson said proudly. "Smoked salt! For respectful harvest celebration!"
+
+Clarisse stared at Tyson, then at Percy. "Our other brother brings seasoning? Usually our brothers bring attitude and wet socks."
+
+"I'm excellent at wet socks," Percy said solemnly. "Ask Annabeth."
+
+Annabeth, who was laying out Ella's field guide to pick the best cooking method for each species, threw a pebble at him without looking up. "Confirmed. Worst socks at camp. Thalia, back me up."
+
+Thalia was trying to start the fire with flint and steel in a way that was producing many sparks and no flame. "Percy's socks could stun a hellhound. Mine are missing. This is my testimony."
+
+Silena knelt beside Thalia and gently took the flint. "Here, love. Shield the wind." In two strikes she had a flame catching in the tinder.
+
+Clarisse watched her sister coax the flame, pride softening her fierce face. "Silena always could make fire. She's good at making things live."
+
+"Okay, fish prep!" Percy announced, clapping to break the quiet. "Who knows how to clean a fish?"
+
+Silence.
+
+Thalia raised her hand. "We cleaned game on the road. But fish are— slimy. And they look at you."
+
+"They do look at you," Grover agreed mournfully, cradling his apple core. "With those eyes. Those sideways eyes that say 'why?'"
+
+Annabeth rolled up her sleeves. "Show me. I'll learn. Then I'll teach Thalia so she stops making that face."
+
+Percy knelt in the sand with Silena's tautog on a flat stone. He worked quickly and cleanly, the way Triton's kitchen steward had taught him in Atlantis — one cut, respect, no waste, thank you murmured under his breath. Ella watched intently, narrating for the record.
+
+"'Percy Jackson, son of Poseidon, demonstrates respectful cleaning! Cut behind gills! Remove entrails in one motion! Rinse in seawater! Ella notes efficiency and reverence! Grover looks away! Grover is looking away now!'"
+
+"I am looking away respectfully!" Grover called from behind his hands.
+
+Annabeth watched every move, then took the scup when Percy offered her the knife. Her hands were steady — architect hands, used to exacto blades and rulers. She made the cut a little shallow the first time, frowned, adjusted, got it clean the second time.
+
+"Good," Percy said quietly, his hand over hers to guide the angle. "Like that. You feel the spine? Follow it."
+
+She did. The fillet came away neat. She looked up at him, triumphant and a little pale. "Okay. I can do this."
+
+"You can do everything," Percy said before he could stop himself, and then went very red when Thalia wolf-whistled and Clarisse made gagging noises and Silena sighed happily.
+
+"Young love," Silena said to Ella. "Write that down. Category: sweetest."
+
+Ella wrote, "'Sweetest: Percy and Annabeth, by unanimous sibling decision. Grover abstains due to fish grief but agrees in principle.'"
+
+Thalia took her turn with a striped bass, road-trip efficiency kicking in once she got past the eyes. Clarisse cleaned hers like she was field-dressing an enemy — fast, thorough, slightly terrifying. Silena was neat and careful, laying the fillets in rows. Tyson shucked mussels with his thick fingers as if they were peas, humming an Atlantean work song deep in his chest. Grover, after much negotiation, agreed to chop lemons and rosemary with a plastic camp knife, provided everyone promised the fish had lived good lives.
+
+"They lived excellent lives," Percy assured him. "Right up until Silena sweet-talked them."
+
+"They were curious," Silena said. "Curiosity is a good way to go. Ella, is curiosity a good way to go?"
+
+Ella considered, head tilted. "'Ella thinks curiosity is the best way to go, except for old age surrounded by books. Ella would like to go surrounded by books. With snacks.'"
+
+They built the cooking setup together — flat stones heated in the fire, fish laid on sea lettuce, mussels tucked into the coals to steam open, fillets sprinkled with Tyson's smoked salt and lemon and rosemary.
+
+Ella presided over the tasting notes. "'Striped bass: sweet, smoky! Tautog: firm with lemon! Scup: delicate! Mussels: Tyson-approved!'"
+
+Grover ate bread and grapes and lemon-roasted sea lettuce and declared himself spiritually sustained. Thalia ate two fillets and declared herself converted. Clarisse ate three and declared herself still champion. Silena ate slowly, feeding bites to Ella.
+
+Percy ate sitting shoulder to shoulder with Annabeth on a driftwood log, passing a plate back and forth. Annabeth kept stealing the crispy edges, which were Percy's favorite, and he kept letting her.
+
+"You did good today," Annabeth said quietly. "Clarisse actually listened to you."
+
+"Silena did the fire," Percy said. "I just did fish."
+
+"You make it easy to listen," Annabeth said. She turned her sketchbook toward him. Between the current diagrams she had started a new page — quick sketches from the morning. Percy with his hands in the water, eyebrows furrowed. Silena lifting her tautog, serene. Clarisse getting slapped by her bass, mouth open in outrage. Grover holding his apple while a minnow investigated. Ella mid-squawk, glasses slipping. Underneath, in Annabeth's neat handwriting: *Atlantean fishing — hands + currents, no hooks. Respectful harvest. Ask, don't chase.*
+
+Percy stared. "Annabeth. That's— can I keep that page?"
+
+"It's your technique," she said. "Your family technique. I just drew it." She hesitated, then added softer, "I like learning your things, Percy. I know— sky and sea. But this morning didn't feel like sky or sea. It just felt like us."
+
+Percy swallowed. His hand found hers behind the log where the others couldn't see. "Yeah. Us."
+
+Thalia, who missed nothing despite appearing to be asleep in the sun with her plate on her stomach, cracked one eye open and smiled to herself and closed it again.
+
+---
+
+The afternoon wound down golden and slow.
+
+The fire burned to embers. Tyson took the buckets to wash them in the surf. Ella fell asleep on her scrolls in the sun, Silena's blanket tucked around her wings. Grover fell asleep beside her with his head on his pack.
+
+Clarisse and Silena headed up to the cabins for afternoon chores, arguing amiably about who had technically won. "Biggest fish wins!" Clarisse insisted. "Most fish wins!" Silena countered. "Annabeth caught four!" "Babies!" "They counted and you know it!" Their voices faded up the hill, sister-sharp and sister-fond.
+
+Thalia stretched, stood, brushed sand off her pajama pants. She looked at Percy and Annabeth still on the log and made a show of checking the sun.
+
+"Well," she said loudly. "I have very important patrol business. Somewhere else. Far away. For at least an hour." She hugged Annabeth hard, quick and fierce. "You did good today, little sister."
+
+Annabeth hugged her back tight. "Stay?"
+
+"Can't. If I stay I'll third-wheel." Thalia winked at Percy. "Walk her back before dinner, Squid. Or I'll zap you."
+
+She jogged up the beach, bow bouncing on her back, whistling off-key. The beach went quiet except for gulls and lapping water and Ella's soft snoring and Grover's sleep-mumbling.
+
+Percy and Annabeth stayed on the log.
+
+For a while they didn't talk. They watched the Sound turn gold, watched a sailboat far out tack toward shore, watched the tide slide in over the sand where they had cleaned fish that morning, washing it clean.
+
+Then Annabeth stood, brushing crumbs off her lap, and held out her hand. "Come on. One more lesson."
+
+Percy took her hand. She led him down to the end of the dock, where the morning had started, where the seventh plank stayed cool. They sat side by side, legs dangling, feet just above the water. Then, at the same moment, both dropped their feet in with a splash.
+
+The cold shot up Percy's ankles, familiar and welcome. Annabeth hissed and laughed and didn't pull away.
+
+They sat with their feet in the water, shoulders touching, hands linked on the dock between them.
+
+"This morning," Annabeth said after a while, swinging her feet slowly, making little ripples that caught the light, "when that first little bass came into my hands— I wasn't thinking about charts. I was just— still. I've never been still like that. Not even when I draw. My brain is always going. But with my hands in the water, listening— it went quiet. In a good way."
+
+Percy nodded. He knew that quiet. It was the sea's gift. "That's what Atlantis feels like when it's right. When Triton isn't lecturing and Dad isn't—" Poseidon was complicated too, deep and distant and suddenly present in the form of two sisters and a palace full of expectations. "When it's just water. It holds you still."
+
+Annabeth leaned her head on his shoulder. Percy tucked a damp strand of hair back, his fingers lingering.
+
+"Thank you for teaching me," she said. "Not just the fishing. The— asking, not chasing. I think I needed that."
+
+Percy turned his hand over in hers, tracing the lines on her palm with his thumb — the callus from her pencil, the small scar from a recent spear drill, the salt drying white on her skin. "You teach me things every day. How to— plan. How to think ahead. How to be brave in the smart way, not just the jump-in way."
+
+Annabeth smiled against his shoulder. "We make a good team, Seaweed Brain."
+
+"Best team," Percy said. "Better than Clarisse and Silena, and don't tell them I said that."
+
+"Oh, I'll tell them," Annabeth said. "For leverage."
+
+They laughed quietly. The dock creaked. Water lapped at the pilings. Under their dangling feet, small silver shapes flickered — minnows come to investigate, nibbling curiously at Annabeth's toes. She squeaked and kicked, splashing both of them, and Percy laughed and splashed back, and for a minute they were just two kids on a dock with wet feet and salt on their skin.
+
+Then they settled again, closer this time. Annabeth's head back on his shoulder. Percy's arm around her waist, careful and sure. Her feet beside his in the water, toes brushing.
+
+Percy looked out at the Sound, at the path of gold the lowering sun laid across it, and felt the tide tug gentle at his ankles like a hand holding on.
+
+He thought about Atlantis, about palace lessons and tridents and older brothers who showed love by staying late. He thought about Camp, about cabins and cookouts and sisters who showed love by insulting each other and sharing seasoning. He thought about Annabeth, sky-born, storm-eyed, who had knelt in seawater that morning and learned his element with open hands.
+
+"Hey," he said softly.
+
+"Hmm?"
+
+"When we— after the next round of drills and patrols. When we get another quiet day. Will you— come to Atlantis with me? Not for politics. Just— to see the gardens. The current gardens. You'd like them. They're like— architecture, but with water."
+
+Annabeth was quiet for a moment, swinging her feet. Then she lifted her head to look at him, gray eyes catching gold.
+
+"Yes," she said simply. "If you'll come to Olympus with me. Not for— Dad stuff. Just to see the temples. I want to show you what I'm learning. The columns. How they hold weight without— how they stand."
+
+Percy grinned. "Deal. You show me sky buildings. I'll show you sea gardens."
+
+"Deal," Annabeth said, and sealed it the way they always did — pinky promise, solemn as an oath on the Styx, both of them trying not to smile and failing.
+
+They sat a while longer, feet in the water, hands linked, watching the light change. Ella snored on in the sand. Grover dreamed of apologetic fish. Up the hill, dinner preparations clanged in the mess hall. Down the beach, Thalia's off-key whistling faded and returned as she remembered she had forgotten her hairband and came back for it and pretended she had never left.
+
+Percy swung his feet, and Annabeth swung hers in time, and the ripples they made spread out and overlapped and smoothed away into the wide silver Sound.
+
+No hooks. Hands and currents. Ask, don't chase.
+
+The sea, that morning, had remembered them. And they, feet in the water together, remembered it back.
+
+---
+

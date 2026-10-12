@@ -1,0 +1,352 @@
+## Chapter 137: Fourteen
+
+Salt had crusted the window frame of Cabin Three overnight, after the birthday party in Atlantis. Today camp would have its own celebration.
+
+Percy woke to it flaking in the early light, white along the sill where the sea air pushed through the screens. August heat already pressed under the blankets. Somewhere beyond the walls, the surf dragged pebbles down the beach and let them rattle back up again. A gull cried once, sharp and far off.
+
+Fourteen.
+
+The number sat in his chest while he stared at the ceiling. The conch shell on the bedside table threw a pink line across the wood. Tyson's banner still hung crooked over the bunk opposite — BLUE PAINT, BIG LETTERS, a little damp at the corners: HAPPY 14 BROTHER!! with three exclamation points and a drawing of a horse that might have been Blackjack and might have been a dog. Tape peeled at one edge. Percy reached out from under the sheet and smoothed it back down.
+
+Down the row, the other bunks stood empty, sheets tucked, pillows dented. Morning duty had pulled the rest of Cabin Three to the canoes before dawn. Only his armor bag waited by the door, buckles glinting. Sunlight caught the bronze edge of Riptide where the pen lay beside his shoes.
+
+Fourteen sounded different than thirteen. His remembered teen years held knives and labyrinths and a sky that had wanted to crush him flat. Fourteen had no prophecy attached. No countdown. Only this: salt on the windowsill, warm sheets, his brother's paint still tacky if he touched it.
+
+In the doorway, the camp bell rang for breakfast.
+
+---
+
+Oatmeal steam curled around the pavilion rafters.
+
+Percy slid onto the Poseidon bench with his plate heaped too high — eggs sliding into toast, bacon stacked crossways, orange juice sloshing over the rim. The marble tabletop held the morning cold despite the air. His sneakers stuck faintly to a patch of spilled nectar underfoot.
+
+Across from him, Annabeth already had her notebook open beside her plate. Pencil tucked behind her ear. Hair pulled back with a leather cord, a few strands escaping to stick to her sunscreened neck. She wore the orange camp shirt with the sleeves cut short, hem frayed where she'd picked at it during strategy meetings.
+
+"Morning, old man," she said.
+
+Percy swallowed a mouthful of egg. "I'm literally younger than you."
+
+"By five weeks and two days." Annabeth flipped a page, crisp. Her pencil left a gray smudge along the edge of her thumb. "I counted. And I haven't stopped counting since yesterday."
+
+"You counted?"
+
+"July twelfth to August eighteenth. It's not advanced math, Seaweed Brain." She slid the notebook around so he could see. In the margin beside a sketch of the canoe lake defenses, she'd written in tiny block letters: ANNABETH — 14 + 38 DAYS. PERCY — 14 + 1. "I've been older than you for over a month. Finally you caught up to the same number."
+
+Tyson ducked under the pavilion eave at the far end, carrying a tray with six peanut-butter sandwiches stacked like bricks and a whole pitcher of milk. His single eye brightened when he spotted Percy. "BROTHER IS FOURTEEN NOW!" His voice boomed off the marble and sent two pigeons scattering from the rafters. "NOW YOU ARE SAME OLD AS ANNABETH!"
+
+Half the pavilion turned. Connor Stoll lifted his juice in a salute from the Hermes table. Katie Gardner waved a spoon. At the Apollo table, someone started a ragged cheer that died when Mr. D looked up from his newspaper.
+
+Annabeth's ears went pink. She tugged the leather cord tighter. "Tyson, volume."
+
+Tyson set the tray down with enormous care and patted Percy's shoulder hard enough to slosh the orange juice. "I made extra. Fourteen needs extra."
+
+"Thanks, big guy." Percy shoved over to make room. The bench scraped stone. "Sit. You already ate?"
+
+"Second breakfast." Tyson squeezed in, wood groaning. Peanut butter stuck to his fingers in thick pale patches. "Fourteen is good. Fourteen means shield wall?"
+
+"Fourteen means I still get pushed into the lake," Percy said.
+
+Across the table, Annabeth speared a strawberry. Juice ran red down the tines. "Thirty-seven days of wisdom you don't have. Use them wisely."
+
+"Oh, ancient one, share your wisdom." Percy leaned his elbows on the cool marble. Bacon grease shone on his wrist. "What great knowledge did you gain at fourteen plus thirty-eight days that I lack at fourteen plus one?"
+
+Annabeth tapped her pencil against her teeth. A faint click, wood on enamel. "I learned not to put bacon on top of eggs because the grease makes everything slide."
+
+"Mine didn't slide."
+
+"Yours is sliding right now." She pointed with the pencil. Sure enough, a whole strip oozed toward the table edge. Percy caught it with his toast just before it fell.
+
+"Damn. Elder wisdom."
+
+"Respect your elders." Her gray eyes flicked up, bright with mischief. Sunlight through the rafters striped her forearms gold and shadow. "For thirty-seven more days I get to be right about everything. House rules."
+
+Tyson laughed around a mouthful, crumbs catching in his beard. "ANNABETH WAS FOURTEEN FIRST. SHE PRACTICED FOR YOU."
+
+Under the table, Annabeth's sneaker nudged Percy's ankle. Light pressure, rubber on rubber. Her smile softened at the corners, less teasing and more something else. Pride, maybe. Relief that they'd both made it to this ordinary morning with oatmeal going gummy in their bowls and no monsters on the horizon.
+
+Percy nudged back. "Thanks for practicing."
+
+"Anytime, Seaweed Brain."
+
+---
+
+Heat rose off the arena sand in visible waves by ten.
+
+Percy tied his shoelaces twice at the edge of the circle. The leather of his wrist guard creaked. Sweat already darkened the neck of his shirt. The air smelled of hot bronze, dust, and the pine resin from the stacked practice spears along the fence.
+
+Clarisse waited in the center with her helmet under her arm. Her boar-spear's butt rested in the sand. A thin white scar ran along her jaw where a dracaena had caught her last summer, pale against her sunburned skin. She wore her chest plate loose, straps hanging, and her camp shirt sleeves rolled to the shoulder.
+
+"Well. Look who finally grew." She circled him once, boots dragging furrows. Her gaze flicked from his shoulders to his shoes. "You put on an inch or you just standing straighter?"
+
+"Both?" Percy stood and rolled his shoulders. The practice shield weighed on his forearm, wicker and leather, dented from a hundred bouts. "Tyson says I'm same old as Annabeth now."
+
+Clarisse snorted. Sand puffed under her heel. "Same old. Sure." She set her helmet on a post. Sweat beaded along her hairline under the red plume mark. "You remember when you showed up? Scrawny little punk with seaweed for brains. I could pick you up with one arm."
+
+"You tried."
+
+"I succeeded once." A grin cracked through. She picked up a practice sword, blunt-edged, and tossed it. Percy caught it by the grip. The leather wrap bit into his palm. "Don't get cocky. Fourteen just means you bleed a little slower."
+
+They squared off. The arena fence rattled in the breeze. Beyond it, the strawberry fields shimmered green, pickers bent double between rows. The salt breeze cut briefly through the dust.
+
+Clarisse came in low, shield high. Wood slammed wood. The shock ran up Percy's elbow into his shoulder. Sand shifted under his sneakers. He pivoted, let her momentum slide past his guard, and tapped her ribs with the flat.
+
+"Footwork," Annabeth called from the fence. She sat on the top rail with her notebook closed on her knee, pencil still behind her ear. Dust coated her sandals. "You're dropping your left shoulder, Percy."
+
+"Backseat driver," Clarisse muttered, and swung again.
+
+Bronze rang. Percy blocked, stepped inside, hooked her spear shaft with his shield rim. For three breaths they strained chest to chest, bronze hot against linen, sweat slicking where his forearm pressed her plate. Her breath came harsh through her teeth. His own pulse hammered in his throat.
+
+Clarisse shoved off and reset. "Not bad, baby."
+
+Percy grinned despite the sweat stinging his eyes. "You can't call me that anymore. I'm fourteen."
+
+"I can call you whatever I want. You're still a baby." She jabbed, fast. He turned it with the shield edge. Splinters flew. "Fourteen-year-old baby. Big difference."
+
+"Silena says fourteen means I'm grown."
+
+"Silena says your hair looks good when it's full of lake water." Clarisse feinted left, then drove her shoulder into his shield. Percy skidded back a full step. Sand burned through his socks. "Don't listen to Silena before noon."
+
+Annabeth laughed from the fence, a clear sound that carried over the clash. A sparrow darted along the top of the armory roof, wings flickering.
+
+Percy found his footing and answered with a quick one-two, sword kissing shield, shield shoving sword. The rhythm settled — strike, block, breathe, shift. Dust rose around their ankles in pale clouds. Each impact jarred up to his teeth.
+
+Clarisse's expression changed mid-exchange. Less show, more assessment. Her eyes narrowed. She tested his left, then his right, then pressed straight down the middle with real weight. Percy held. His calves trembled. The shield strap cut into his forearm. He held.
+
+She broke away, breathing hard, and lowered her spear an inch. "Huh."
+
+"What?"
+
+"Nothing." She wiped her mouth with the back of her wrist. Sweat left a clean streak through the dust on her cheek. "You used to flinch when I pressed. Now you sink. You plant."
+
+Percy shrugged, chest heaving. The practice sword hung heavy in his hand. "Lot of practice getting pressed."
+
+"Yeah." Clarisse studied him a second longer. Something grudging and almost fond crossed her face before she shuttered it. "Don't let it go to your head. Again tomorrow. Bring your helmet. You leave your temple open every third pass."
+
+She turned to rack her spear. Over her shoulder: "And — happy birthday, Jackson. Try not to die before fifteen."
+
+The words landed warm despite the gruffness. Percy wiped sweat from his forehead with his shirt hem. Salt stung his lips. "I'll do my best, Clarisse."
+
+From the fence, Annabeth raised her pencil in salute. Her notebook page fluttered. In the margin, beside drills, she'd drawn a tiny shield with a trident on it.
+
+---
+
+The Aphrodite cabin smelled of cedar and oranges at midday. Silena had borrowed a sewing station from a friend there; her own bunk and worktable were still in Cabin Three.
+
+Light filtered through rose curtains and fell in pink bars across the floorboards. Mirrors lined one wall, edged with shells and dried lavender. Someone's radio played low, a lyre tune tangled with static. A bowl of polished stones sat on the dresser, each one catching light.
+
+Percy perched on a cushioned stool that creaked under his weight. His knees stuck up at awkward angles. The stool's velvet cover shed faint red lint onto his shorts. His damp shirt clung to his back from the arena.
+
+Silena stood behind him with a measuring tape around her neck and pins cushion-strapped to her wrist. Her hair fell in dark waves, held back with a tortoiseshell clip. Powdered blush dusted her cheeks. She wore a white camp shirt knotted at the waist over a blue skirt, and her sandals clicked when she shifted.
+
+"Hold still." She draped the tape across his shoulders. The yellow plastic felt cool through the cotton. "Arms out. Like a starfish. A cute starfish."
+
+"I'm not cute. I'm fourteen." Percy stuck his arms out. The stool wobbled. A pin pricked his collar where she'd marked. "Clarisse says I'm a baby."
+
+"Clarisse calls everyone baby." Silena looped the tape around his chest, frowning at the number. Her breath smelled faintly of mint. "She called me baby when I braided her hair for the capture-the-flag dance. It's affection. With spikes."
+
+Annabeth leaned in the doorway, arms crossed, watching with amusement. Sunlight from the porch lit the dust motes around her. "You're making him a shirt?"
+
+"I'm fixing his good shirt." Silena tugged the hem of Percy's spare draped over the chair. A seam had split under the arm. Blue thread trailed. "He can't go to the campfire tonight with his armpit hanging out. Not for his camp birthday celebration. Standards."
+
+"It's just a campfire."
+
+"It's never just a campfire." Silena threaded a needle with quick fingers. The thread pulled through with a soft hiss. "Sit up. Shoulders back. You slouch like a crab."
+
+Percy straightened. The measuring tape tickled his neck. Lavender from the mirrors tickled his nose and made him want to sneeze.
+
+Silena worked the needle in quick darts. Her bracelet chimed each time her wrist turned. "You have grown. Look at this." She held the shirt against his chest. Fabric strained less than last month. The shoulder seam actually met his shoulder. "Last spring this hung to your knees. Now —" She smoothed the collar flat. Her fingers brushed his collarbone briefly, efficient, sisterly. "Now you look like somebody's older brother."
+
+"Tyson's older brother? That's backwards."
+
+"You're everybody's younger brother who suddenly isn't that young." She pinned the sleeve, tongue caught between her teeth. A bead of sweat slid down her temple. She didn't wipe it; her hands were full of pins. "Hold this. Don't move. Don't breathe much."
+
+Percy held the fabric taut. The cotton smelled of cedar from the cabin chest. Through the window, he could see the canoe lake glittering, paddles flashing.
+
+"You know what fourteen means?" Silena said, not looking up. Needle flashed. "It means the younger kids watch you now. I saw three Demeter kids copying how you wrap your wrist guard yesterday. They did it wrong and cut off circulation, but still."
+
+"Great. I'll teach them wrong better."
+
+"I'm serious." She tied off the thread with a sharp tug and bit it. Her eyes met his in the mirror — dark, direct, kind. "You walk different than last year. Less like you're waiting for someone to tell you to leave."
+
+Percy's throat tightened. The stool's carving dug into the back of his thighs. He glanced at Annabeth. She gave a tiny nod, almost invisible, pencil tapping once against her forearm.
+
+Silena folded the shirt and pressed it into his hands. Warm from her lap. The stitches ran straight and small, blue on blue. "There. Grown-up shirt. Try not to bleed on it before tonight."
+
+"I make no promises."
+
+"Fourteen-year-olds never do." She shooed him off the stool and brushed lint from his shoulders with brisk pats. Powder and orange oil clung to her palms. "Go wash your face. You have arena dust in your eyebrows. Annabeth, make him wear the good sandals. The ones without the lake mud."
+
+Annabeth pushed off the doorframe, smiling. "Yes, ma'am."
+
+Outside, the porch boards burned warm through Percy's socks. The repaired shirt folded over his arm felt light as paper. Grown-up shirt. He ran his thumb along the new seam, tight and even.
+
+---
+
+Pine needles carpeted the hill to the Fleece pine in a thick rust mat.
+
+Percy climbed with Annabeth after lunch, the repaired shirt in a bag over his shoulder, lake mud still on his old sandals despite Silena's orders. Cicadas sawed in the high branches. The air up here tasted of sap and hot stone. Golden Fleece light pulsed faintly through the leaves below, green-gold, sending warm flecks across the grass.
+
+Thalia waited at the base of the pine, practice bow unstrung across her back after an archery drill, quiver half-empty. Her black hair stood up in spikes, damp with sweat. Electricity lifted the fine hairs on her arms — a faint crackle when she moved. She wore her leather jacket tied around her waist despite the heat, sleeves flapping against her legs.
+
+She tossed something as they approached. Percy caught it one-handed. An apple, warm from the sun, skin taut and red. Juice beaded where her thumb had pressed.
+
+"Birthday tribute," Thalia said. "Don't say I never give you anything."
+
+Percy bit in. Crisp snap, tart flood across his tongue. Juice ran down his chin. He wiped it with his wrist. "Best tribute. Better than Tyson's sandwiches? Don't tell him."
+
+"My lips are sealed." Thalia flopped down against the roots. Bark ridged her spine. She patted the ground beside her. Pine needles stuck to her palms. "Sit. Patrol leaders get a break. Zeus's daughter demands shade."
+
+Percy sat. Needles pricked through his shorts. The bark felt rough through his shirt. Annabeth settled a little higher on the slope, notebook in her lap, pencil moving in short strokes — the curve of the hill, the line of the tree.
+
+Thalia studied Percy sideways. Her blue eyes, so like Luke's and yet nothing like them, narrowed. A ladybug landed on her knee. She flicked it off with a fingernail.
+
+"Fourteen, huh?" She bit her own apple. Crunch echoed. "Gods. I remember fourteen."
+
+"You're eighteen. You can stop pretending that makes you ancient."
+
+"Four years of superior wisdom, emotionally ancient." She grinned, teeth white with apple flesh. A bead of juice tracked down her wrist. She licked it off. "But seriously. You look — different. Not just taller."
+
+"Everyone keeps saying that. Clarisse measured me with her eyes. Silena measured me with actual tape."
+
+"They're right." Thalia knocked her knuckles lightly against his knee. Bone on bone through cloth. "Last year you followed Annabeth around like a puppy. No offense."
+
+"Some taken," Percy said. Annabeth didn't look up from her sketch, but her mouth twitched.
+
+"Now you walk next to her." Thalia shrugged. The jacket sleeves slid. "It's a thing. I notice formations. Patrol habit. You used to check her face before you answered. Now you check the tree line first, then her. That's grown."
+
+Percy turned the apple in his hands. Seeds showed where he'd bitten deep. Sap stuck to his fingers. Below, the valley spread — cabins in a horseshoe, forge smoke rising straight, the climbing wall oozing lava in orange threads. Someone shouted from the volleyball court. A conch sounded from the beach.
+
+"Do you miss it?" he asked. "Being — younger? Before everyone expected you to know what to do?"
+
+Thalia went quiet. The cicadas filled the gap. A breeze stirred the pine needles into a dry whisper. Her fingers traced the silver bracelet on her wrist — a plain band, moon-bright.
+
+"Sometimes." Her voice dropped. The crackle around her softened. "Mostly when I see you idiots doing birthday stuff. Cake and stupid banners. Then I remember I can choose things too. A field assignment, maybe a mortal school — all that." She gestured with the apple core toward the camp, toward growing and slouching and outgrowing shirts. "Choosing my own work is the right call for me. Doesn't mean I don't wonder what a year without leading every patrol would feel like."
+
+Annabeth's pencil stopped. She looked up, gray eyes steady. "You'd be terrible at sitting still. You're terrible at it now."
+
+"Hey!" Thalia threw the core. Annabeth caught it laughing and chucked it into the bushes. Leaves rustled.
+
+Thalia leaned back on her elbows. Pine sap stained her jacket hem. "Listen, Kelp Head. Word of advice from your emotionally ancient friend. Fourteen's when people start handing you real weight. Patrols. New kids looking up. Choices that stick. Don't rush to pick it all up at once."
+
+"I'm not."
+
+"Good." She stood and brushed needles from her pants in brisk slaps. Dust rose. "Because you're doing fine. Even if you still chew with your mouth open."
+
+Percy stood too. His knees popped. The apple core lay sweet and sour on his tongue. Thalia punched his shoulder — not light, not cruel. Solid. Respect.
+
+"Happy birthday, Percy." Her grin softened. The electricity around her warmed the air a degree. "Welcome to the same age as the smart kids."
+
+Annabeth closed her notebook with a snap. "Finally. Took him long enough."
+
+---
+
+Dusk poured honey over the canoe lake.
+
+Percy and Annabeth took out a canoe without asking, paddles shipped quiet, life jackets left folded under the dock bench — a minor rule broken in the name of birthday privilege. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
+
+They drifted to the middle and let the paddles rest across their knees. Ripples spread and flattened. The sun hung low over the strawberry fields, orange bleeding into pink. Clouds stacked purple at the edges. The far shore trees stood black-green and still. Somewhere, the dinner conch would sound soon. For now, only water and insect hum and the faint creak of the dock ropes.
+
+Percy trailed his fingers. Lake water ran cool between his knuckles, silk over calluses. His reflection broke and reformed — dark hair damp at the temples, sunburn across his nose, the new line of his jaw that Silena had pointed out with her tape. Fourteen looked back, rippling.
+
+Annabeth sat in the bow facing him, knees drawn up, notebook closed at last. Her sandal strap had come loose. She retied it, fingers quick, then let her own hand drag. Droplets glittered on her wrist. A mosquito whined near her ear. She waved it off without breaking gaze.
+
+"Thirty-seven days," Percy said.
+
+Annabeth smiled. Light caught the gold in her hair. "You're never going to let that go."
+
+"You lorded it over me at breakfast."
+
+"I earned it. A whole month of fourteen before you." She flicked water at him. Drops struck his forearm cold and bright. "I had to figure out the hard stuff alone. How to be fourteen. You get the benefit of my research."
+
+Percy flicked back. Water spotted her shirt dark. She gasped, laughing, and rocked the canoe. Wood groaned. He grabbed the gunwales. Lake water sloshed over his fingers.
+
+"Careful! Birthday boy can't swim?"
+
+"Birthday boy can swim. Birthday boy doesn't want to explain wet good shirt to Silena."
+
+Annabeth steadied, still grinning. The canoe settled. Rings spread. A fish jumped somewhere near the reeds with a soft plop.
+
+Silence fell, comfortable. Paddles dripped. The sun sank another degree. Pink deepened on the water. Percy's damp fingers left prints on the paddle shaft that dried almost instantly in the evening breeze.
+
+"You think we'll remember this?" he asked. "Like — this exact evening? When we're older?"
+
+Annabeth tilted her head. A strand of hair lifted and stuck to her lip. She pulled it free. "Which part? You almost tipping us?"
+
+"The growing-up part. Not the quests." Percy turned his paddle slowly. Varnish shone. "Everyone talks about growing up like it's quests and prophecies. But today was — sparring and shirts and apples. Thalia saying I walk next to you now. Silena saying kids copy my wrist guard." He glanced up. Her face glowed amber at the edges. "Will we remember being fourteen, or just remember remembering it?"
+
+Annabeth tucked her knees tighter. The canoe shifted faintly under her weight. Water knocked the hull, hollow and soft.
+
+"In the old life, I thought Athena remembered everything," she said after a moment. Her voice thinned. She picked at a splinter on the gunwale, nail catching. "Every book, every battle. I wanted my mother to remember little things too. The father who raised me could name the street where I learned to ride a bike. I wanted the wobble to matter as much as the street." She looked up. Gray eyes darkened in the fading light. "I don't want only the facts. I want the wobble kind."
+
+Percy nodded. The hull rocked gently. His sandals squeaked against the wet floorboards.
+
+"I remember being twelve and thinking thirteen would fix everything," he continued. The words came slow, testing. A dragonfly landed on his paddle tip, wings shivering blue. "Like I'd wake up and know how to fight and how to — talk to you without sounding stupid. Then thirteen happened and I still sounded stupid, just in scarier places."
+
+"You never sounded stupid." Annabeth's sandal knocked his, deliberate. Rubber squeaked. "You sounded twelve. Then thirteen. That's different."
+
+"Now I sound fourteen?"
+
+"You sound Percy." She smiled, small and real. No teasing edge. Water lapped. "That's why I keep the notebook, you know. Not just maps. I write down the dumb stuff. What Tyson put on his sandwich. What Clarisse said before she threw her spear. How your hair stuck up after the lake." Her fingers brushed the cover, worn soft at the corners. Pencil marks dented the back. "So when we're older, I don't just remember that we grew up. I remember how."
+
+Percy's chest tightened. Not heroic-tight. Just full. The lake air cooled the sweat on his neck. He reached across and tapped the notebook. Canvas cover rough under his fingertip.
+
+"Write this, then. Percy turned fourteen and didn't tip the canoe. Annabeth only tipped it a little."
+
+Annabeth laughed, bright. She flipped open to a blank page. Pencil scratched. Graphite shone wet with lake mist. She wrote in her neat block print, tongue caught just like Silena's had been. When she finished, she held it up: TODAY PERCY = 14 + 1. STILL AFLOAT.
+
+"Hey. I'm more than afloat. Clarisse said I plant now."
+
+"I know." Annabeth set the notebook down carefully, away from the puddle forming under his heel. Her hand lingered on his knee a second — warm through the cloth, steady. Then she pulled back and trailed fingers again in the water. Ripples caught fire from the sunset. "I watched. You didn't flinch."
+
+"You always watch."
+
+"Someone has to correct your left shoulder."
+
+Their laughter faded into the insect hum. The sun touched the hilltop. Long shadows stretched from the pines. The Golden Fleece glowed brighter as daylight thinned, a green pulse like a slow heartbeat. Camp lights flickered on one by one — cabin windows warm yellow, forge orange, the campfire pit flaring as someone fed it kindling for tonight.
+
+Percy shipped his paddle and let the canoe drift. Water ticked against wood. His shoulders ached pleasantly from Clarisse's press. His chest still held the cool line where Silena's tape had rested. His tongue still held apple tart. His ankle still held the ghost pressure where Annabeth had nudged him at breakfast.
+
+Fourteen, he decided without saying it aloud, wasn't a height or a number. Thirty-seven days didn't matter except as a joke to trade over oatmeal. Fourteen was this: a repaired seam that actually fit, a shield that didn't waver, an older friend's punch that meant respect, a friend's notebook keeping the wobble.
+
+Annabeth watched the sky go violet. Stars pricked through first at the east. Her profile sharpened — nose, lashes, the set of her mouth. She didn't fidget. She rarely fidgeted anymore when she was thinking, only when she was pretending not to.
+
+"Percy?" She didn't turn. Her voice rode low over the water.
+
+"Yeah?"
+
+"Thanks for catching up." A smile threaded through. Her hand found the gunwale near his, not holding, just close. Knuckles almost brushing. Sun-warmed wood under both. "It's better growing at the same speed."
+
+Water lapped. The canoe turned slowly, bringing the campfire glow into view. Smoke rose straight, smelling of pine and sugar from the coming marshmallows. Voices carried faintly across the lake — Tyson's boom, Clarisse's bark, Silena's laugh.
+
+Tyson's laugh rolled across the water, huge and unmistakable even at this distance. A second voice — Silena's, bright — rose to answer it. Someone clapped a rhythm for the fire songs. The smell of sugar and pine smoke reached them in thin threads.
+
+Annabeth drew her knees up higher and rested her chin on them. The leather cord at her neck had loosened. The little bead she always wore — a gray owl, chipped at one wing — caught the last light. "Do you remember twelve, in the old life?" she asked suddenly.
+
+"Twelve?"
+
+"When we were twelve. You'd just arrived. I tried to teach you sword forms behind the cabins and you kept holding the blade backwards."
+
+Percy grinned. Water dripped from his fingers back into the lake with soft ticks. "You threw a rock at my head."
+
+"I threw a rock near your head. Motivation." Her eyes crinkled. The breeze lifted the frayed hem of her shirt and set it fluttering against her wrist. "I remember thinking you wouldn't last a week. You cried during the orientation film. Don't deny it. The hellhound part."
+
+"I didn't cry. My eyes leaked from bravery." Percy shifted. The canoe floorboards pressed hard against his heels. A puddle soaked through his sock, cold and gritty with sand. "I remember you knew every cabin and every god and every rule. You recited the whole welcome speech along with Chiron under your breath. I thought you were about forty."
+
+"I was trying to be forty. Somebody had to know what to do." Annabeth picked at the loose thread on her shorts, winding it around her fingertip until the tip blushed red, then letting it unwind. "Now we're actually almost grown and I know less than I did then. Funny."
+
+"You're still the person who knows what to do."
+
+"Not always." She glanced at him, direct. Droplets clung to her forearm like seed pearls. "At Mount Tam, when you took the sky — I didn't know what to do. I stood there with blood on my face and I couldn't think of a single plan. All my lists went blank. I just kept thinking, don't die, don't die, don't die. That's not Athena. That's just — me."
+
+The canoe rocked. A cold seep worked through the hull seam near Percy's heel. The dragonflies had gone. Bats flicked overhead now, quick black stitches against violet.
+
+Percy rested his hand beside hers, close enough that lake-cold fingertips brushed sun-warm skin. The wood vibrated faintly with the distant drums starting up for the fire.
+
+"Same speed," he agreed.
+
+Behind them, the sun slipped under. Light flared once across the water, gold to rose to ash. Their twin wakes trailed back toward the dock, widening, overlapping, impossible to tell apart after a few yards.
+
+---
+
+---
+

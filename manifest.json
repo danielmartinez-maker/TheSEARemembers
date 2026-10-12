@@ -1,0 +1,1184 @@
+{
+  "title": "The Sea Remembers, the Sky Forgets",
+  "source_filename": "TheSeaRemembers_Full.md",
+  "source_sha256": "1c9e4a3cbc85ca2f40c2b3444e113521439bf47acbbf89e687d1e6a63f828667",
+  "source_bytes": 7455205,
+  "chapter_count": 193,
+  "bonus_count": 2,
+  "ordered_parts": [
+    "frontmatter.md",
+    "chapters/001-the-weight-of-salt-and-sky.md",
+    "chapters/002-the-girl-with-lightning-in-her-veins.md",
+    "chapters/003-what-the-storm-remembers.md",
+    "chapters/004-the-hall-of-gods.md",
+    "chapters/005-clarisse.md",
+    "chapters/006-the-sister.md",
+    "chapters/007-the-tempest.md",
+    "chapters/008-the-gathering-storm.md",
+    "chapters/009-the-oracle.md",
+    "chapters/010-the-daughter-of-hecate.md",
+    "chapters/011-the-eclipse.md",
+    "chapters/012-what-remains.md",
+    "chapters/013-the-father-who-changes-faces.md",
+    "chapters/014-letters-from-under-the-sea.md",
+    "chapters/015-beryl-s-letters.md",
+    "chapters/016-capture-the-flag.md",
+    "chapters/017-lake-day.md",
+    "chapters/018-the-forge.md",
+    "chapters/019-the-brother-across-the-country.md",
+    "chapters/020-cake-and-lightning.md",
+    "chapters/021-strawberry-fields-and-amphitheater-nights.md",
+    "chapters/022-storm-training.md",
+    "chapters/023-sally-s-blue.md",
+    "chapters/024-the-climbing-wall.md",
+    "chapters/025-night-watches.md",
+    "chapters/026-the-roof.md",
+    "chapters/027-the-library.md",
+    "chapters/028-sparring.md",
+    "chapters/029-rainy-day.md",
+    "chapters/030-amphitrite-visits.md",
+    "chapters/031-the-promise.md",
+    "chapters/032-triton-visits.md",
+    "chapters/033-architecture.md",
+    "chapters/034-mythomagic-tournament.md",
+    "chapters/035-the-letter.md",
+    "chapters/036-five-months.md",
+    "chapters/037-sisters.md",
+    "chapters/038-brothers-and-sisters.md",
+    "chapters/039-annabeth-s-project.md",
+    "chapters/040-winter.md",
+    "chapters/041-ordinary.md",
+    "chapters/042-slow-dance.md",
+    "chapters/043-the-unsigned-note.md",
+    "chapters/044-the-boy-with-graph-paper.md",
+    "chapters/045-grover-s-crush.md",
+    "chapters/046-stargazing.md",
+    "chapters/047-snow-that-asks-permission.md",
+    "chapters/048-accused.md",
+    "chapters/049-the-quest.md",
+    "chapters/050-half-blood-hill.md",
+    "chapters/051-medusa-s-place.md",
+    "chapters/052-the-arch.md",
+    "chapters/053-river.md",
+    "chapters/054-lotus.md",
+    "chapters/055-underworld-gates.md",
+    "chapters/056-hades.md",
+    "chapters/057-ares.md",
+    "chapters/058-olympus.md",
+    "chapters/059-homecoming.md",
+    "chapters/060-summer-s-end.md",
+    "chapters/061-fall.md",
+    "chapters/062-snow-day.md",
+    "chapters/063-spring-cleaning.md",
+    "chapters/064-the-dance-spring.md",
+    "chapters/065-triton-s-lesson.md",
+    "chapters/066-jason-s-letter.md",
+    "chapters/067-fishing.md",
+    "chapters/068-the-storm-small.md",
+    "chapters/069-silena-s-song.md",
+    "chapters/070-clarisse-s-poems.md",
+    "chapters/071-anniversary.md",
+    "chapters/072-new-kids.md",
+    "chapters/073-the-play.md",
+    "chapters/074-tyson-s-visit.md",
+    "chapters/075-zoe-s-story.md",
+    "chapters/076-the-promise-ii.md",
+    "chapters/077-beach-day-atlantis-style.md",
+    "chapters/078-nico-s-birthday.md",
+    "chapters/079-elena-s-tale.md",
+    "chapters/080-the-second-dance.md",
+    "chapters/081-home.md",
+    "chapters/082-letters-may.md",
+    "chapters/083-spring-break-visit.md",
+    "chapters/084-spring-resolutions.md",
+    "chapters/085-spring.md",
+    "chapters/086-the-summons-to-atlantis.md",
+    "chapters/087-a-kiss-we-choose.md",
+    "chapters/088-spear-song-sea.md",
+    "chapters/089-belated-valentines-camp-style.md",
+    "chapters/090-storm-and-sea.md",
+    "chapters/091-tide-pools.md",
+    "chapters/092-jealousy-ii.md",
+    "chapters/093-movie-night.md",
+    "chapters/094-sick-day.md",
+    "chapters/095-annabeth-sick.md",
+    "chapters/096-training-together.md",
+    "chapters/097-the-map.md",
+    "chapters/098-fathers-day-gods.md",
+    "chapters/099-mothers.md",
+    "chapters/100-the-thousandth-campfire.md",
+    "chapters/101-a-name-for-it.md",
+    "chapters/102-not-a-competition.md",
+    "chapters/103-the-things-we-remember.md",
+    "chapters/104-a-day-that-was-theirs.md",
+    "chapters/105-the-place-at-the-table.md",
+    "chapters/106-the-visit-that-wasn-t-a-test.md",
+    "chapters/107-the-words-we-choose.md",
+    "chapters/108-three-things-we-keep.md",
+    "chapters/109-no-borrowed-promises.md",
+    "chapters/110-the-promise-we-make-now.md",
+    "chapters/111-the-date-committee.md",
+    "chapters/112-her-turn-to-worry.md",
+    "chapters/113-little-brother.md",
+    "chapters/114-the-space-between.md",
+    "chapters/115-the-old-photograph.md",
+    "chapters/116-cabin-three-rules.md",
+    "chapters/117-a-day-apart.md",
+    "chapters/118-a-message-from-amphitrite.md",
+    "chapters/119-sisters-errand.md",
+    "chapters/120-a-letter-from-the-sea.md",
+    "chapters/121-the-cabin-three-pact.md",
+    "chapters/122-the-lake-stands-up.md",
+    "chapters/123-the-garden-under-the-sea.md",
+    "chapters/124-after-the-reef.md",
+    "chapters/125-the-invitation-accepted.md",
+    "chapters/126-the-palace-below.md",
+    "chapters/127-guest-and-beloved.md",
+    "chapters/128-the-sky-in-the-sea.md",
+    "chapters/129-the-way-back.md",
+    "chapters/130-the-family-photo.md",
+    "chapters/131-cabin-three-at-night.md",
+    "chapters/132-a-month-beneath-the-sea.md",
+    "chapters/133-annabeth-s-birthday.md",
+    "chapters/134-the-secret-passage.md",
+    "chapters/135-the-garden.md",
+    "chapters/136-percy-s-birthday.md",
+    "chapters/137-fourteen.md",
+    "chapters/138-the-mural-finished.md",
+    "chapters/139-storm-season.md",
+    "chapters/140-last-one-in.md",
+    "chapters/141-the-canoe-race.md",
+    "chapters/142-night-swim.md",
+    "chapters/143-the-dock-repair.md",
+    "chapters/144-rain-on-the-lake.md",
+    "chapters/145-the-lake-keeps-what-it-takes.md",
+    "chapters/146-the-long-way-back.md",
+    "chapters/147-the-things-we-train-for.md",
+    "chapters/148-the-map-of-small-things.md",
+    "chapters/149-the-argument.md",
+    "chapters/150-what-keeps.md",
+    "chapters/151-two-currents.md",
+    "chapters/152-a-full-day-of-sky.md",
+    "chapters/153-what-the-sea-owes.md",
+    "chapters/154-the-heron.md",
+    "chapters/155-thirty-nine-marks.md",
+    "chapters/156-what-the-hands-know.md",
+    "chapters/157-what-we-set-out-before.md",
+    "chapters/158-what-brothers-bring.md",
+    "chapters/159-the-middle-of-the-visit.md",
+    "chapters/160-what-the-note-said.md",
+    "chapters/161-edges-that-hold.md",
+    "chapters/162-the-day-with-nowhere-to-be.md",
+    "chapters/163-honey-on-the-hands.md",
+    "chapters/164-the-fire-kept-her-place.md",
+    "chapters/165-the-morning-after.md",
+    "chapters/166-the-braid-and-the-blue-rag.md",
+    "chapters/167-what-sharpens-together.md",
+    "chapters/168-wool-steam-and-paper.md",
+    "chapters/169-the-conspiracy-of-the-afternoon.md",
+    "chapters/170-what-the-envelope-holds.md",
+    "chapters/171-loud-off-key-and-ours.md",
+    "chapters/172-the-last-warm-night.md",
+    "chapters/173-the-long-way-up-the-hill.md",
+    "chapters/174-everything-the-rain-brings-in.md",
+    "chapters/175-salt-and-steam.md",
+    "chapters/176-the-storm-quilt.md",
+    "chapters/177-the-one-who-came-back.md",
+    "chapters/178-the-blank-under-the-ridge.md",
+    "chapters/179-sunday-at-eight.md",
+    "chapters/180-everything-out-of-the-trunks.md",
+    "chapters/181-whoever-wants-to-come.md",
+    "chapters/182-the-first-hot-bread.md",
+    "chapters/183-the-sack-on-the-hook.md",
+    "chapters/184-friday-and-the-porch.md",
+    "chapters/185-apples-in-the-cold.md",
+    "chapters/186-the-first-real-words.md",
+    "chapters/187-silver-on-the-rings.md",
+    "chapters/188-the-second-tuesday.md",
+    "chapters/189-after-the-frost.md",
+    "chapters/190-thursday-twice.md",
+    "chapters/191-two-hands-of-work.md",
+    "chapters/192-against-the-windows.md",
+    "chapters/193-the-heel.md",
+    "bonus/00-heading.md",
+    "bonus/the-long-winter.md",
+    "bonus/the-sunday-afternoon.md"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Weight of Salt and Sky",
+      "path": "chapters/001-the-weight-of-salt-and-sky.md"
+    },
+    {
+      "number": 2,
+      "title": "The Girl With Lightning in Her Veins",
+      "path": "chapters/002-the-girl-with-lightning-in-her-veins.md"
+    },
+    {
+      "number": 3,
+      "title": "What the Storm Remembers",
+      "path": "chapters/003-what-the-storm-remembers.md"
+    },
+    {
+      "number": 4,
+      "title": "The Hall of Gods",
+      "path": "chapters/004-the-hall-of-gods.md"
+    },
+    {
+      "number": 5,
+      "title": "Clarisse",
+      "path": "chapters/005-clarisse.md"
+    },
+    {
+      "number": 6,
+      "title": "The Sister",
+      "path": "chapters/006-the-sister.md"
+    },
+    {
+      "number": 7,
+      "title": "The Tempest",
+      "path": "chapters/007-the-tempest.md"
+    },
+    {
+      "number": 8,
+      "title": "The Gathering Storm",
+      "path": "chapters/008-the-gathering-storm.md"
+    },
+    {
+      "number": 9,
+      "title": "The Oracle",
+      "path": "chapters/009-the-oracle.md"
+    },
+    {
+      "number": 10,
+      "title": "The Daughter of Hecate",
+      "path": "chapters/010-the-daughter-of-hecate.md"
+    },
+    {
+      "number": 11,
+      "title": "The Eclipse",
+      "path": "chapters/011-the-eclipse.md"
+    },
+    {
+      "number": 12,
+      "title": "What Remains",
+      "path": "chapters/012-what-remains.md"
+    },
+    {
+      "number": 13,
+      "title": "The Father Who Changes Faces",
+      "path": "chapters/013-the-father-who-changes-faces.md"
+    },
+    {
+      "number": 14,
+      "title": "Letters From Under the Sea",
+      "path": "chapters/014-letters-from-under-the-sea.md"
+    },
+    {
+      "number": 15,
+      "title": "Beryl's Letters",
+      "path": "chapters/015-beryl-s-letters.md"
+    },
+    {
+      "number": 16,
+      "title": "Capture the Flag",
+      "path": "chapters/016-capture-the-flag.md"
+    },
+    {
+      "number": 17,
+      "title": "Lake Day",
+      "path": "chapters/017-lake-day.md"
+    },
+    {
+      "number": 18,
+      "title": "The Forge",
+      "path": "chapters/018-the-forge.md"
+    },
+    {
+      "number": 19,
+      "title": "The Brother Across the Country",
+      "path": "chapters/019-the-brother-across-the-country.md"
+    },
+    {
+      "number": 20,
+      "title": "Cake and Lightning",
+      "path": "chapters/020-cake-and-lightning.md"
+    },
+    {
+      "number": 21,
+      "title": "Strawberry Fields and Amphitheater Nights",
+      "path": "chapters/021-strawberry-fields-and-amphitheater-nights.md"
+    },
+    {
+      "number": 22,
+      "title": "Storm Training",
+      "path": "chapters/022-storm-training.md"
+    },
+    {
+      "number": 23,
+      "title": "Sally's Blue",
+      "path": "chapters/023-sally-s-blue.md"
+    },
+    {
+      "number": 24,
+      "title": "The Climbing Wall",
+      "path": "chapters/024-the-climbing-wall.md"
+    },
+    {
+      "number": 25,
+      "title": "Night Watches",
+      "path": "chapters/025-night-watches.md"
+    },
+    {
+      "number": 26,
+      "title": "The Roof",
+      "path": "chapters/026-the-roof.md"
+    },
+    {
+      "number": 27,
+      "title": "The Library",
+      "path": "chapters/027-the-library.md"
+    },
+    {
+      "number": 28,
+      "title": "Sparring",
+      "path": "chapters/028-sparring.md"
+    },
+    {
+      "number": 29,
+      "title": "Rainy Day",
+      "path": "chapters/029-rainy-day.md"
+    },
+    {
+      "number": 30,
+      "title": "Amphitrite Visits",
+      "path": "chapters/030-amphitrite-visits.md"
+    },
+    {
+      "number": 31,
+      "title": "The Promise",
+      "path": "chapters/031-the-promise.md"
+    },
+    {
+      "number": 32,
+      "title": "Triton Visits",
+      "path": "chapters/032-triton-visits.md"
+    },
+    {
+      "number": 33,
+      "title": "Architecture",
+      "path": "chapters/033-architecture.md"
+    },
+    {
+      "number": 34,
+      "title": "Mythomagic Tournament",
+      "path": "chapters/034-mythomagic-tournament.md"
+    },
+    {
+      "number": 35,
+      "title": "The Letter",
+      "path": "chapters/035-the-letter.md"
+    },
+    {
+      "number": 36,
+      "title": "Five Months",
+      "path": "chapters/036-five-months.md"
+    },
+    {
+      "number": 37,
+      "title": "Sisters",
+      "path": "chapters/037-sisters.md"
+    },
+    {
+      "number": 38,
+      "title": "Brothers and Sisters",
+      "path": "chapters/038-brothers-and-sisters.md"
+    },
+    {
+      "number": 39,
+      "title": "Annabeth's Project",
+      "path": "chapters/039-annabeth-s-project.md"
+    },
+    {
+      "number": 40,
+      "title": "Winter",
+      "path": "chapters/040-winter.md"
+    },
+    {
+      "number": 41,
+      "title": "Ordinary",
+      "path": "chapters/041-ordinary.md"
+    },
+    {
+      "number": 42,
+      "title": "Slow Dance",
+      "path": "chapters/042-slow-dance.md"
+    },
+    {
+      "number": 43,
+      "title": "The Unsigned Note",
+      "path": "chapters/043-the-unsigned-note.md"
+    },
+    {
+      "number": 44,
+      "title": "The Boy With Graph Paper",
+      "path": "chapters/044-the-boy-with-graph-paper.md"
+    },
+    {
+      "number": 45,
+      "title": "Grover's Crush",
+      "path": "chapters/045-grover-s-crush.md"
+    },
+    {
+      "number": 46,
+      "title": "Stargazing",
+      "path": "chapters/046-stargazing.md"
+    },
+    {
+      "number": 47,
+      "title": "Snow That Asks Permission",
+      "path": "chapters/047-snow-that-asks-permission.md"
+    },
+    {
+      "number": 48,
+      "title": "Accused",
+      "path": "chapters/048-accused.md"
+    },
+    {
+      "number": 49,
+      "title": "The Quest",
+      "path": "chapters/049-the-quest.md"
+    },
+    {
+      "number": 50,
+      "title": "Half-Blood Hill",
+      "path": "chapters/050-half-blood-hill.md"
+    },
+    {
+      "number": 51,
+      "title": "Medusa's Place",
+      "path": "chapters/051-medusa-s-place.md"
+    },
+    {
+      "number": 52,
+      "title": "The Arch",
+      "path": "chapters/052-the-arch.md"
+    },
+    {
+      "number": 53,
+      "title": "River",
+      "path": "chapters/053-river.md"
+    },
+    {
+      "number": 54,
+      "title": "Lotus",
+      "path": "chapters/054-lotus.md"
+    },
+    {
+      "number": 55,
+      "title": "Underworld Gates",
+      "path": "chapters/055-underworld-gates.md"
+    },
+    {
+      "number": 56,
+      "title": "Hades",
+      "path": "chapters/056-hades.md"
+    },
+    {
+      "number": 57,
+      "title": "Ares",
+      "path": "chapters/057-ares.md"
+    },
+    {
+      "number": 58,
+      "title": "Olympus",
+      "path": "chapters/058-olympus.md"
+    },
+    {
+      "number": 59,
+      "title": "Homecoming",
+      "path": "chapters/059-homecoming.md"
+    },
+    {
+      "number": 60,
+      "title": "Summer's End",
+      "path": "chapters/060-summer-s-end.md"
+    },
+    {
+      "number": 61,
+      "title": "Fall",
+      "path": "chapters/061-fall.md"
+    },
+    {
+      "number": 62,
+      "title": "Snow Day",
+      "path": "chapters/062-snow-day.md"
+    },
+    {
+      "number": 63,
+      "title": "Spring Cleaning",
+      "path": "chapters/063-spring-cleaning.md"
+    },
+    {
+      "number": 64,
+      "title": "The Dance (Spring)",
+      "path": "chapters/064-the-dance-spring.md"
+    },
+    {
+      "number": 65,
+      "title": "Triton's Lesson",
+      "path": "chapters/065-triton-s-lesson.md"
+    },
+    {
+      "number": 66,
+      "title": "Jason's Letter",
+      "path": "chapters/066-jason-s-letter.md"
+    },
+    {
+      "number": 67,
+      "title": "Fishing",
+      "path": "chapters/067-fishing.md"
+    },
+    {
+      "number": 68,
+      "title": "The Storm (Small)",
+      "path": "chapters/068-the-storm-small.md"
+    },
+    {
+      "number": 69,
+      "title": "Silena's Song",
+      "path": "chapters/069-silena-s-song.md"
+    },
+    {
+      "number": 70,
+      "title": "Clarisse's Poems",
+      "path": "chapters/070-clarisse-s-poems.md"
+    },
+    {
+      "number": 71,
+      "title": "Anniversary",
+      "path": "chapters/071-anniversary.md"
+    },
+    {
+      "number": 72,
+      "title": "New Kids",
+      "path": "chapters/072-new-kids.md"
+    },
+    {
+      "number": 73,
+      "title": "The Play",
+      "path": "chapters/073-the-play.md"
+    },
+    {
+      "number": 74,
+      "title": "Tyson's Visit",
+      "path": "chapters/074-tyson-s-visit.md"
+    },
+    {
+      "number": 75,
+      "title": "Zoe's Story",
+      "path": "chapters/075-zoe-s-story.md"
+    },
+    {
+      "number": 76,
+      "title": "The Promise (II)",
+      "path": "chapters/076-the-promise-ii.md"
+    },
+    {
+      "number": 77,
+      "title": "Beach Day (Atlantis Style)",
+      "path": "chapters/077-beach-day-atlantis-style.md"
+    },
+    {
+      "number": 78,
+      "title": "Nico's Birthday",
+      "path": "chapters/078-nico-s-birthday.md"
+    },
+    {
+      "number": 79,
+      "title": "Elena's Tale",
+      "path": "chapters/079-elena-s-tale.md"
+    },
+    {
+      "number": 80,
+      "title": "The Second Dance",
+      "path": "chapters/080-the-second-dance.md"
+    },
+    {
+      "number": 81,
+      "title": "Home",
+      "path": "chapters/081-home.md"
+    },
+    {
+      "number": 82,
+      "title": "Letters (May)",
+      "path": "chapters/082-letters-may.md"
+    },
+    {
+      "number": 83,
+      "title": "Spring-Break Visit",
+      "path": "chapters/083-spring-break-visit.md"
+    },
+    {
+      "number": 84,
+      "title": "Spring Resolutions",
+      "path": "chapters/084-spring-resolutions.md"
+    },
+    {
+      "number": 85,
+      "title": "Spring",
+      "path": "chapters/085-spring.md"
+    },
+    {
+      "number": 86,
+      "title": "The Summons to Atlantis",
+      "path": "chapters/086-the-summons-to-atlantis.md"
+    },
+    {
+      "number": 87,
+      "title": "A Kiss We Choose",
+      "path": "chapters/087-a-kiss-we-choose.md"
+    },
+    {
+      "number": 88,
+      "title": "Spear, Song, Sea",
+      "path": "chapters/088-spear-song-sea.md"
+    },
+    {
+      "number": 89,
+      "title": "Belated Valentines (Camp-Style)",
+      "path": "chapters/089-belated-valentines-camp-style.md"
+    },
+    {
+      "number": 90,
+      "title": "Storm and Sea",
+      "path": "chapters/090-storm-and-sea.md"
+    },
+    {
+      "number": 91,
+      "title": "Tide Pools",
+      "path": "chapters/091-tide-pools.md"
+    },
+    {
+      "number": 92,
+      "title": "Jealousy II",
+      "path": "chapters/092-jealousy-ii.md"
+    },
+    {
+      "number": 93,
+      "title": "Movie Night",
+      "path": "chapters/093-movie-night.md"
+    },
+    {
+      "number": 94,
+      "title": "Sick Day",
+      "path": "chapters/094-sick-day.md"
+    },
+    {
+      "number": 95,
+      "title": "Annabeth Sick",
+      "path": "chapters/095-annabeth-sick.md"
+    },
+    {
+      "number": 96,
+      "title": "Training Together",
+      "path": "chapters/096-training-together.md"
+    },
+    {
+      "number": 97,
+      "title": "The Map",
+      "path": "chapters/097-the-map.md"
+    },
+    {
+      "number": 98,
+      "title": "Fathers' Day (Gods)",
+      "path": "chapters/098-fathers-day-gods.md"
+    },
+    {
+      "number": 99,
+      "title": "Mothers",
+      "path": "chapters/099-mothers.md"
+    },
+    {
+      "number": 100,
+      "title": "The Thousandth Campfire",
+      "path": "chapters/100-the-thousandth-campfire.md"
+    },
+    {
+      "number": 101,
+      "title": "A Name for It",
+      "path": "chapters/101-a-name-for-it.md"
+    },
+    {
+      "number": 102,
+      "title": "Not a Competition",
+      "path": "chapters/102-not-a-competition.md"
+    },
+    {
+      "number": 103,
+      "title": "The Things We Remember",
+      "path": "chapters/103-the-things-we-remember.md"
+    },
+    {
+      "number": 104,
+      "title": "A Day That Was Theirs",
+      "path": "chapters/104-a-day-that-was-theirs.md"
+    },
+    {
+      "number": 105,
+      "title": "The Place at the Table",
+      "path": "chapters/105-the-place-at-the-table.md"
+    },
+    {
+      "number": 106,
+      "title": "The Visit That Wasn't a Test",
+      "path": "chapters/106-the-visit-that-wasn-t-a-test.md"
+    },
+    {
+      "number": 107,
+      "title": "The Words We Choose",
+      "path": "chapters/107-the-words-we-choose.md"
+    },
+    {
+      "number": 108,
+      "title": "Three Things We Keep",
+      "path": "chapters/108-three-things-we-keep.md"
+    },
+    {
+      "number": 109,
+      "title": "No Borrowed Promises",
+      "path": "chapters/109-no-borrowed-promises.md"
+    },
+    {
+      "number": 110,
+      "title": "The Promise We Make Now",
+      "path": "chapters/110-the-promise-we-make-now.md"
+    },
+    {
+      "number": 111,
+      "title": "The Date Committee",
+      "path": "chapters/111-the-date-committee.md"
+    },
+    {
+      "number": 112,
+      "title": "Her Turn to Worry",
+      "path": "chapters/112-her-turn-to-worry.md"
+    },
+    {
+      "number": 113,
+      "title": "Little Brother",
+      "path": "chapters/113-little-brother.md"
+    },
+    {
+      "number": 114,
+      "title": "The Space Between",
+      "path": "chapters/114-the-space-between.md"
+    },
+    {
+      "number": 115,
+      "title": "The Old Photograph",
+      "path": "chapters/115-the-old-photograph.md"
+    },
+    {
+      "number": 116,
+      "title": "Cabin Three Rules",
+      "path": "chapters/116-cabin-three-rules.md"
+    },
+    {
+      "number": 117,
+      "title": "A Day Apart",
+      "path": "chapters/117-a-day-apart.md"
+    },
+    {
+      "number": 118,
+      "title": "A Message from Amphitrite",
+      "path": "chapters/118-a-message-from-amphitrite.md"
+    },
+    {
+      "number": 119,
+      "title": "Sisters' Errand",
+      "path": "chapters/119-sisters-errand.md"
+    },
+    {
+      "number": 120,
+      "title": "A Letter from the Sea",
+      "path": "chapters/120-a-letter-from-the-sea.md"
+    },
+    {
+      "number": 121,
+      "title": "The Cabin Three Pact",
+      "path": "chapters/121-the-cabin-three-pact.md"
+    },
+    {
+      "number": 122,
+      "title": "The Lake Stands Up",
+      "path": "chapters/122-the-lake-stands-up.md"
+    },
+    {
+      "number": 123,
+      "title": "The Garden Under the Sea",
+      "path": "chapters/123-the-garden-under-the-sea.md"
+    },
+    {
+      "number": 124,
+      "title": "After the Reef",
+      "path": "chapters/124-after-the-reef.md"
+    },
+    {
+      "number": 125,
+      "title": "The Invitation Accepted",
+      "path": "chapters/125-the-invitation-accepted.md"
+    },
+    {
+      "number": 126,
+      "title": "The Palace Below",
+      "path": "chapters/126-the-palace-below.md"
+    },
+    {
+      "number": 127,
+      "title": "Guest and Beloved",
+      "path": "chapters/127-guest-and-beloved.md"
+    },
+    {
+      "number": 128,
+      "title": "The Sky in the Sea",
+      "path": "chapters/128-the-sky-in-the-sea.md"
+    },
+    {
+      "number": 129,
+      "title": "The Way Back",
+      "path": "chapters/129-the-way-back.md"
+    },
+    {
+      "number": 130,
+      "title": "The Family Photo",
+      "path": "chapters/130-the-family-photo.md"
+    },
+    {
+      "number": 131,
+      "title": "Cabin Three at Night",
+      "path": "chapters/131-cabin-three-at-night.md"
+    },
+    {
+      "number": 132,
+      "title": "A Month Beneath the Sea",
+      "path": "chapters/132-a-month-beneath-the-sea.md"
+    },
+    {
+      "number": 133,
+      "title": "Annabeth's Birthday",
+      "path": "chapters/133-annabeth-s-birthday.md"
+    },
+    {
+      "number": 134,
+      "title": "The Secret Passage",
+      "path": "chapters/134-the-secret-passage.md"
+    },
+    {
+      "number": 135,
+      "title": "The Garden",
+      "path": "chapters/135-the-garden.md"
+    },
+    {
+      "number": 136,
+      "title": "Percy's Birthday",
+      "path": "chapters/136-percy-s-birthday.md"
+    },
+    {
+      "number": 137,
+      "title": "Fourteen",
+      "path": "chapters/137-fourteen.md"
+    },
+    {
+      "number": 138,
+      "title": "The Mural Finished",
+      "path": "chapters/138-the-mural-finished.md"
+    },
+    {
+      "number": 139,
+      "title": "Storm Season",
+      "path": "chapters/139-storm-season.md"
+    },
+    {
+      "number": 140,
+      "title": "Last One In",
+      "path": "chapters/140-last-one-in.md"
+    },
+    {
+      "number": 141,
+      "title": "The Canoe Race",
+      "path": "chapters/141-the-canoe-race.md"
+    },
+    {
+      "number": 142,
+      "title": "Night Swim",
+      "path": "chapters/142-night-swim.md"
+    },
+    {
+      "number": 143,
+      "title": "The Dock Repair",
+      "path": "chapters/143-the-dock-repair.md"
+    },
+    {
+      "number": 144,
+      "title": "Rain on the Lake",
+      "path": "chapters/144-rain-on-the-lake.md"
+    },
+    {
+      "number": 145,
+      "title": "The Lake Keeps What It Takes",
+      "path": "chapters/145-the-lake-keeps-what-it-takes.md"
+    },
+    {
+      "number": 146,
+      "title": "The Long Way Back",
+      "path": "chapters/146-the-long-way-back.md"
+    },
+    {
+      "number": 147,
+      "title": "The Things We Train For",
+      "path": "chapters/147-the-things-we-train-for.md"
+    },
+    {
+      "number": 148,
+      "title": "The Map of Small Things",
+      "path": "chapters/148-the-map-of-small-things.md"
+    },
+    {
+      "number": 149,
+      "title": "The Argument",
+      "path": "chapters/149-the-argument.md"
+    },
+    {
+      "number": 150,
+      "title": "What Keeps",
+      "path": "chapters/150-what-keeps.md"
+    },
+    {
+      "number": 151,
+      "title": "Two Currents",
+      "path": "chapters/151-two-currents.md"
+    },
+    {
+      "number": 152,
+      "title": "A Full Day of Sky",
+      "path": "chapters/152-a-full-day-of-sky.md"
+    },
+    {
+      "number": 153,
+      "title": "What the Sea Owes",
+      "path": "chapters/153-what-the-sea-owes.md"
+    },
+    {
+      "number": 154,
+      "title": "The Heron",
+      "path": "chapters/154-the-heron.md"
+    },
+    {
+      "number": 155,
+      "title": "Thirty-Nine Marks",
+      "path": "chapters/155-thirty-nine-marks.md"
+    },
+    {
+      "number": 156,
+      "title": "What the Hands Know",
+      "path": "chapters/156-what-the-hands-know.md"
+    },
+    {
+      "number": 157,
+      "title": "What We Set Out Before",
+      "path": "chapters/157-what-we-set-out-before.md"
+    },
+    {
+      "number": 158,
+      "title": "What Brothers Bring",
+      "path": "chapters/158-what-brothers-bring.md"
+    },
+    {
+      "number": 159,
+      "title": "The Middle of the Visit",
+      "path": "chapters/159-the-middle-of-the-visit.md"
+    },
+    {
+      "number": 160,
+      "title": "What the Note Said",
+      "path": "chapters/160-what-the-note-said.md"
+    },
+    {
+      "number": 161,
+      "title": "Edges That Hold",
+      "path": "chapters/161-edges-that-hold.md"
+    },
+    {
+      "number": 162,
+      "title": "The Day With Nowhere To Be",
+      "path": "chapters/162-the-day-with-nowhere-to-be.md"
+    },
+    {
+      "number": 163,
+      "title": "Honey on the Hands",
+      "path": "chapters/163-honey-on-the-hands.md"
+    },
+    {
+      "number": 164,
+      "title": "The Fire Kept Her Place",
+      "path": "chapters/164-the-fire-kept-her-place.md"
+    },
+    {
+      "number": 165,
+      "title": "The Morning After",
+      "path": "chapters/165-the-morning-after.md"
+    },
+    {
+      "number": 166,
+      "title": "The Braid and the Blue Rag",
+      "path": "chapters/166-the-braid-and-the-blue-rag.md"
+    },
+    {
+      "number": 167,
+      "title": "What Sharpens Together",
+      "path": "chapters/167-what-sharpens-together.md"
+    },
+    {
+      "number": 168,
+      "title": "Wool, Steam, and Paper",
+      "path": "chapters/168-wool-steam-and-paper.md"
+    },
+    {
+      "number": 169,
+      "title": "The Conspiracy of the Afternoon",
+      "path": "chapters/169-the-conspiracy-of-the-afternoon.md"
+    },
+    {
+      "number": 170,
+      "title": "What the Envelope Holds",
+      "path": "chapters/170-what-the-envelope-holds.md"
+    },
+    {
+      "number": 171,
+      "title": "Loud, Off-Key, and Ours",
+      "path": "chapters/171-loud-off-key-and-ours.md"
+    },
+    {
+      "number": 172,
+      "title": "The Last Warm Night",
+      "path": "chapters/172-the-last-warm-night.md"
+    },
+    {
+      "number": 173,
+      "title": "The Long Way Up the Hill",
+      "path": "chapters/173-the-long-way-up-the-hill.md"
+    },
+    {
+      "number": 174,
+      "title": "Everything the Rain Brings In",
+      "path": "chapters/174-everything-the-rain-brings-in.md"
+    },
+    {
+      "number": 175,
+      "title": "Salt and Steam",
+      "path": "chapters/175-salt-and-steam.md"
+    },
+    {
+      "number": 176,
+      "title": "The Storm Quilt",
+      "path": "chapters/176-the-storm-quilt.md"
+    },
+    {
+      "number": 177,
+      "title": "The One Who Came Back",
+      "path": "chapters/177-the-one-who-came-back.md"
+    },
+    {
+      "number": 178,
+      "title": "The Blank Under the Ridge",
+      "path": "chapters/178-the-blank-under-the-ridge.md"
+    },
+    {
+      "number": 179,
+      "title": "Sunday at Eight",
+      "path": "chapters/179-sunday-at-eight.md"
+    },
+    {
+      "number": 180,
+      "title": "Everything Out of the Trunks",
+      "path": "chapters/180-everything-out-of-the-trunks.md"
+    },
+    {
+      "number": 181,
+      "title": "Whoever Wants to Come",
+      "path": "chapters/181-whoever-wants-to-come.md"
+    },
+    {
+      "number": 182,
+      "title": "The First Hot Bread",
+      "path": "chapters/182-the-first-hot-bread.md"
+    },
+    {
+      "number": 183,
+      "title": "The Sack on the Hook",
+      "path": "chapters/183-the-sack-on-the-hook.md"
+    },
+    {
+      "number": 184,
+      "title": "Friday, and the Porch",
+      "path": "chapters/184-friday-and-the-porch.md"
+    },
+    {
+      "number": 185,
+      "title": "Apples in the Cold",
+      "path": "chapters/185-apples-in-the-cold.md"
+    },
+    {
+      "number": 186,
+      "title": "The First Real Words",
+      "path": "chapters/186-the-first-real-words.md"
+    },
+    {
+      "number": 187,
+      "title": "Silver on the Rings",
+      "path": "chapters/187-silver-on-the-rings.md"
+    },
+    {
+      "number": 188,
+      "title": "The Second Tuesday",
+      "path": "chapters/188-the-second-tuesday.md"
+    },
+    {
+      "number": 189,
+      "title": "After the Frost",
+      "path": "chapters/189-after-the-frost.md"
+    },
+    {
+      "number": 190,
+      "title": "Thursday, Twice",
+      "path": "chapters/190-thursday-twice.md"
+    },
+    {
+      "number": 191,
+      "title": "Two Hands of Work",
+      "path": "chapters/191-two-hands-of-work.md"
+    },
+    {
+      "number": 192,
+      "title": "Against the Windows",
+      "path": "chapters/192-against-the-windows.md"
+    },
+    {
+      "number": 193,
+      "title": "The Heel",
+      "path": "chapters/193-the-heel.md"
+    }
+  ],
+  "bonus_interludes": [
+    {
+      "title": "The Long Winter",
+      "path": "bonus/the-long-winter.md"
+    },
+    {
+      "title": "The Sunday Afternoon",
+      "path": "bonus/the-sunday-afternoon.md"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+## Chapter 61: Fall
+
+The last bus left Camp Half-Blood on the second Saturday in September, and Percy stood on Half-Blood Hill and watched it go.
+
+He had watched the summer buses arrive in June with a tight, hopeful feeling in his chest, like he was waiting for a wave to pick him up. Watching them leave was different. It was quieter. No one cried this time the way they had at the end of August in other years Percy had heard about. Summer kids just hugged each other hard around the shoulders, promised to text, promised to Iris-message, shoved extra ambrosia squares and spare drachmas into each other's backpacks, and climbed on. The wheels hissed. The hilltop pine rustled overhead, green and sharp in the early fall light. The boundary charms glinted among its branches, keeping the barrier humming.
+
+Percy lifted a hand when Luke waved from the back window. Luke was going home to try another semester of mortal high school in Connecticut, his scar pulling when he grinned. The Stoll brothers pressed their faces to the glass and mouthed something that was probably rude. Katie Gardner from Demeter cried a little after all and pretended she had allergies. Even the Ares kids looked subdued, their red duffels piled high.
+
+Then the bus turned onto the farm road and was gone behind the maples, and the hill was suddenly very empty.
+
+Percy counted the quiet in his head. Only the wind. A crow scolding from the Fleece branch. Far below, the lake glittering.
+
+"It always feels like this," a voice said beside him. "Like someone let the air out."
+
+Annabeth stood there with her backpack half-unzipped and a rolled-up blueprint tube sticking out of it. Her blond hair was pulled back in a low ponytail, flyaways lifting in the wind. She was thirteen now, same as him, her birthday having passed in July with strawberry cake in the dining pavilion and Thalia calling at exactly midnight to sing off-key. She nudged his shoe with hers.
+
+"Year-rounders get the hill to ourselves, though," she said.
+
+Percy bumped her shoe back. "Silver lining, Wise Girl."
+
+Behind them, Chiron clopped up the hill, his white stallion body gleaming where the sun caught it. He carried a clipboard that looked far too mortal for a centaur.
+
+"Well," Chiron said, smiling at the two of them. "Shall we see who we have left?"
+
+---
+
+The year-rounder list was short enough to fit on one page of Chiron's legal pad, and Mr. D read it aloud that night in the dining pavilion like he was announcing the end of the world.
+
+The pavilion felt enormous with only three tables pushed together. Summer had needed twenty. Now the wind moved straight through the marble columns and lifted the edges of the tablecloths. The braziers were lit early. The dryads had already started turning the garlands from summer green to russet and gold.
+
+"Percy Jackson," Mr. D said, squinting at the list over his sunglasses. "Annabeth Grace. Grover Underwood, whenever he deigns to return from satyr business. Connor and Travis Stoll, unfortunately, because their mother insists summer school counts less if they stay home. Austin and Kayla from Apollo. Pollux from Dionysus, because Castor is spending the fall with his mother and I am to pretend I do not care. A handful of Hephaestus kids on rotation. And sundry others who will regret staying when it gets cold."
+
+Pollux raised his hand. "My brother says hi."
+
+"I told you to pretend I do not care," Mr. D said.
+
+Percy sat shoulder to shoulder with Annabeth on the bench, their knees knocking under the table. The dining pavilion had never felt small before. Now every laugh echoed a little.
+
+Chiron took over gently. "Most of you have schooling arrangements. The Stolls will Zoom mortal school from Cabin Eleven. Apollo cabin will do homeschool packets. Percy —"
+
+Percy straightened. "Atlantis," he said, because they had gone over it three times already and he still could not quite believe it was allowed. "Mornings in Atlantis for school with the palace tutors, afternoons and weekends here. Unless storms close the — the current. Then full days here."
+
+It sounded strange to say out loud. Atlantis school. As if he, Percy Jackson, who had once gotten a C minus in math and been proud of it, now took Ancient Greek from a Nereid who was three thousand years old and algebra from a Triton who wrote all his equations in seawater that hung in the air.
+
+Annabeth had been there for the meeting where Poseidon offered it. She had sat very still with her hands folded and then asked eleven questions about curriculum alignment and library access.
+
+"And Annabeth," Chiron continued, eyes warm, "will continue her mortal correspondence courses and her architectural study with Daedalus— with our resident architect's notes, and assist with camp design projects through the fall. Both of you will bunk here as usual. Cabin Three and Cabin One."
+
+Cabin One. Zeus's cabin. It still gave Percy a small jolt to think of Annabeth there, under that white marble with the lightning bolts, instead of the gray Athena cabin that had been her home in their remembered life. Annabeth belonged there now, though. She had put her books in perfect rows on the shelf. She had pinned Thalia's bus ticket stubs to the corkboard. She had built a tiny model of the camp in balsa wood on the windowsill.
+
+After dinner, they walked back together in the blue dusk past the cabins going dark one by one. Most were shuttered. Only a few windows glowed.
+
+"It'll be weird without Clarisse snoring through the wall," Percy said.
+
+Annabeth stopped at the fork where the path split to Zeus's cabin. The sky was going purple. The first stars were out.
+
+"Atlantis in the morning?" she asked.
+
+"Yeah. Tide portal at seven. Tyson says if I'm late again he's telling Amphitrite."
+
+Annabeth smiled. Tyson had become Percy's self-appointed alarm clock and bodyguard in Atlantis.
+
+"Don't be late," she said. "Bring back those notes on currents. I want to check my bridge math."
+
+"Yes, ma'am."
+
+"Goodnight, Seaweed Brain."
+
+"Goodnight, Wise Girl."
+
+She went up the path to Cabin One, her blueprint tube over her shoulder like a sword. Percy watched until her light came on, warm yellow in the window, and then he went into his own cabin, his sisters' bunks neatly made while they were away and listened to the fountain and felt, for the first time since June, entirely unstuck in time.
+
+---
+
+Fall at camp had a different schedule, and Percy learned it the way he learned tides — by getting it wrong and then feeling it in his body.
+
+Mornings in Atlantis were blue-green and muffled and bright all at once. The tide portal deposited him in a rush of cool pressure behind the palace schoolroom, and he would stumble out sneezing salt while Tyson caught him by the backpack.
+
+"Percy! You made it! You are not late! I did not have to tell!"
+
+"Thanks for the vote of confidence, big guy."
+
+Atlantis school was not like mortal school. There were only nine students at coral desks under a hundred feet of water. When Percy got a math problem right, the water around his desk warmed. When he got one wrong, a tiny crab pinched his ankle.
+
+His Greek tutor, Lady Thetis, made him read Homer out loud until his accent stopped sounding like a Bronx pigeon.
+
+"Again," she would say, tapping his tablet with a pearlescent nail. "Feel the meter. It is a wave. Hex-a-me-ter. Six feet. Like swimming."
+
+Percy hated it and loved it. He wrote Annabeth letters during lunch — actual letters on waterproof kelp-paper that Tyson folded into boats and sent up the current to camp — because Iris-messages from underwater came out wavy.
+
+*Dear Annabeth, today I learned the word for undertow is also the word for homesick, sort of. Thetis says I have good instincts and terrible participles. Tyson ate my eraser. See you at 3. — P*
+
+Afternoons at camp were gold and rust and woodsmoke.
+
+He would portal back at three, hair still damp, backpack smelling of salt, and find Annabeth waiting on the dock or in the Big House or halfway up the climbing wall, yelling down corrections to the Hephaestus kids reinforcing it for winter.
+
+They did homework together every day at four o'clock. It became a rule without anyone making it a rule.
+
+The Big House attic study had a round window that looked over the strawberry fields. Someone — probably Chiron, probably a hundred years ago — had dragged two mismatched armchairs up there and a low table scarred with initials. Annabeth claimed the chair with the better light. Percy claimed the footstool because it was closer to her chair.
+
+Annabeth did mortal school math two grades ahead and Latin and architecture. Percy did Atlantis packets and mortal English to stay on track. They worked in companionable silence, pencils scratching, pages turning, rain ticking against the round window when it rained, which in October was often.
+
+"You are doing that wrong," Annabeth said on the third day, without looking up.
+
+Percy stared at his algebra. "Which part? Be specific. There's a lot of wrong it could be."
+
+She leaned over, her ponytail brushing his arm, and pointed with her pencil. Her nail had graphite under it. "You dropped the negative here. Distribute first. Like this."
+
+She wrote three neat lines in his margin. Her handwriting was small and fierce and perfectly straight.
+
+Percy copied her steps and got the right answer and felt absurdly proud. "You're a good teacher."
+
+"I know," Annabeth said, but she blushed to the tips of her ears.
+
+"You'd be a good architect too," Percy said. "You already are. That bridge model you made — the one for the creek? Chiron said the Hephaestus kids are actually going to build it in spring."
+
+Annabeth ducked her head. Praise still landed hard on her, Percy had learned. Thalia could tell her she was brilliant and Annabeth would glow for a day. Zeus could tell her she was brilliant and Annabeth would spend a week picking the compliment apart for traps.
+
+From Percy, she just listened, her pencil gone still.
+
+"Thanks," she said quietly. "You're a good swimmer. I mean — teacher. Swimming teacher."
+
+Percy grinned. "I am an excellent floater. Top of my class in floating."
+
+She laughed, and the attic felt warmer than the brazier could account for.
+
+Annabeth taught Percy how to outline an essay. Percy taught Annabeth how to read the lake and how to hold her breath without panicking.
+
+"You breathe out first," he told her on the dock one gray afternoon, both of them sitting with their feet in the freezing water and towels around their shoulders. "Most people try to gulp air. You have to empty out first. Then in slow. Then — just wait. I'll count."
+
+Annabeth emptied, breathed in, and slipped under. Percy counted on his fingers where she could see through the clear water. Twenty seconds. Forty. At fifty-three she surfaced, gasping and triumphant, lake drops on her eyelashes.
+
+"Fifty-three!" she said. "Last week I only did thirty!"
+
+"See? Natural daughter of the sea," Percy said, and then stopped, horrified. "I mean — you know. Honorary. Because — me. Because I taught you."
+
+Annabeth wrung out her ponytail, smiling crookedly. "Honorary daughter of the sea. I'll put that on my college applications."
+
+Her teeth chattered. Percy draped his dry towel over her shoulders on top of her damp one without thinking. His hand lingered half a second too long on her shoulder. He pulled it back fast.
+
+Annabeth looked at him. She did not look away.
+
+"Thanks," she said.
+
+"Anytime."
+
+The lake lapped at the pilings. A leaf, bright red, landed on the dock between their hands and neither of them moved it.
+
+---
+
+Clarisse's first letter arrived on a Tuesday in late September, forwarded in a manila envelope from Camp to her house and back to Camp again because the harpies got confused.
+
+Percy knew her handwriting instantly — all caps, pressing so hard the pen nearly tore the paper.
+
+*PERCY —*
+
+*HOME IS WEIRD. Mom keeps making me pancakes shaped like anchors. My stepdad keeps crying when I lift the couch to vacuum under it. Tell Silena her hair stuff is still in my bathroom and my stepsister keeps wearing it and I am going to kill her (kidding) (mostly).*
+
+*Is Cabin Three clean? Did you water my cactus? The little angry one? If it died I will know and I will end you.*
+
+*Are you eating? You looked skinny in August. Tell that Zeus girl to make you eat protein. She looks like she meal-preps.*
+
+*Write back, barnacle. And don't do anything stupid without me there to punch you for it.*
+
+*— CLARISSE*
+
+*P.S. Dad says to tell Poseidon the tide clock he sent is running fast. Also Dad says hi and to wear a jacket.*
+
+Percy read it three times on the dock and laughed.
+
+Annabeth read it over his shoulder and snorted at the meal-preps line. "She's not wrong. You ate three cookies for lunch yesterday."
+
+"They were oatmeal. That's basically protein."
+
+"That's not how protein works."
+
+Percy wrote back that night in Cabin Three with the fountain burbling and the cactus — the little angry one, spiny and alive — sitting in the window.
+
+*Dear Clarisse, Cabin Three is clean. Your cactus is alive and angrier than ever. I watered it exactly once a week like you said and flinched every time. I am eating protein (Annabeth is making me). The lake is cold. The Stolls are still annoying. I miss having you to hide behind when Amphitrite quizzes me on table manners. Come back soon? — Percy*
+
+*P.S. I am wearing a jacket. Tell your dad thanks for the tide clock and tell your mom thanks for raising someone who writes letters in all caps so I can hear her voice.*
+
+He folded in a pressed red maple leaf before he sealed it.
+
+Silena's postcard came a week later, smelling faintly of coconut. A picture of a beach that was not Camp, with loopy writing: *Miss my sea brothers! Be good! Eat sunscreen (don't actually eat it lol)! Tell Annabeth I love her braid idea! — S*
+
+Percy tacked it to the Cabin Three wall next to Clarisse's letter. His siblings, even paper ones, made the empty cabin feel less empty.
+
+Annabeth's family fall was harder.
+
+Zeus called on the first Friday of October. Not Iris-message. Called. The Big House phone rang — an old rotary that only rang for gods — and Chiron came to find Annabeth in the attic with a grave face.
+
+Percy went with her to the office and waited outside the door with his ear pressed shamelessly to the wood.
+
+The voice on the other end was male and booming and wrong, like thunder forced through a small speaker. Then, halfway through, it shifted — lower, smoother — and Percy heard Annabeth say, "Yes, sir," very small, and "No, sir, Thalia's school doesn't allow — yes, sir," and then silence.
+
+When she came out, her face was white.
+
+"He wore two different faces," she said. "He started as the general. Then he changed to the professor. Mid-sentence. He never wears the same face twice when he's upset."
+
+Percy took her hand. It was ice cold. He did not ask what Zeus said. He just held on until her fingers warmed up.
+
+"He asked about my grades," Annabeth said finally. "He asked if I was — if I was behaving. If Thalia was visiting too much and distracting me." She laughed, a short unhappy sound. "As if Thalia distracts me. Thalia reminds me how to breathe."
+
+Percy squeezed her hand harder. "You behave terribly. It's one of your best qualities."
+
+Annabeth huffed, but her shoulders dropped an inch. "Thanks."
+
+"He's wrong, you know," Percy said. "About — whatever he implied. You're the most focused person I know."
+
+Annabeth looked at their joined hands. Then she leaned her head against his shoulder, just for a second.
+
+"Don't tell Thalia he called," she whispered. "She'll worry."
+
+"I won't," Percy promised. "But you can tell her if you want. She'd want to know."
+
+Annabeth nodded into his shoulder. Then she straightened, wiped her eyes hard with her sleeve, and said, "Come on. We have Latin. I refuse to let Zeus ruin participles for me."
+
+---
+
+Thalia visited on the second weekend in October, and the whole camp tilted toward her like sunflowers.
+
+She arrived on the Friday bus in a black leather jacket two sizes too big, with her spiky black hair damp from city rain and a duffel that said WESTOVER HALL in peeling letters.
+
+Annabeth saw her from the Big House porch and screamed. It was a seven-year-old sound, high and joyous, and she launched herself down the steps. Thalia dropped her duffel and caught her around the waist and spun her.
+
+Percy hung back, grinning so wide his face hurt.
+
+"Seaweed Brain!" Thalia shouted. "Get over here!"
+
+"I do not snore!" Percy protested, submitting to a one-armed hug. Thalia smelled like rain and cinnamon gum.
+
+"You do," Annabeth and Thalia said in unison, then looked at each other and burst out laughing at the sister-harmony of it.
+
+Dinner that night was a feast for three. The Demeter kids had left squash and apples. Pollux smuggled out extra bread from the kitchen. They sat at the edge of the dining pavilion with their feet dangling and ate by brazier light while Thalia told school stories.
+
+"My roommate thinks I'm in a gang," Thalia said, stealing Annabeth's apple slice. "Because of the knife. I told her it's for protection and she thinks I mean, like, the Bronx. I let her think it. It's easier than, no, my dad is Zeus and my sister shoots lightning from her hands."
+
+Annabeth glowed. Percy watched her glow — younger, looser with Thalia. Thalia kept tugging Annabeth's ponytail and fixing her collar without seeming to know she did it.
+
+"How's Dad?" Thalia asked quietly later, when the bread was gone and the brazier burned low. The teasing had drained out of her voice.
+
+Annabeth's glow dimmed. Percy felt her knee press harder against his under the table.
+
+"He called," Annabeth said. "Last week. Two faces."
+
+Thalia closed her eyes. Static crackled. "Of course he did. Did he — what did he say?"
+
+"Grades. Behavior. Whether you — whether you distract me."
+
+Thalia snorted. "I do distract you. I'm very distracting. I'm the most distracting sister in the world. Tell him I said that."
+
+Annabeth smiled weakly. Thalia pulled her in sideways, and Annabeth tucked her head under Thalia's chin.
+
+"He's just — he's volatile in the fall," Thalia murmured into Annabeth's hair, for Annabeth alone, but Percy heard. "Storm season. He gets restless. It's not you."
+
+"I know," Annabeth whispered. But she did not sound like she knew.
+
+Percy stared at the coals. He thought about Poseidon in Atlantis asking about his math test and meaning it, and how unfair it was that Annabeth had to translate her father's faces like weather.
+
+Thalia caught his eye over Annabeth's head. Something passed between them — gratitude, worry, alliance. *I've got her,* Thalia mouthed. *We've got her,* Percy mouthed back.
+
+Thalia slept in Cabin One that weekend. Percy lay awake in Cabin Three listening to the fountain and felt happy and lonely in equal measure.
+
+---
+
+Saturday was for studying, because Annabeth decreed it and even Thalia obeyed Annabeth's decrees when her voice went into architect mode.
+
+They took over the Big House attic. Thalia sprawled on the floor with her mortal school chemistry, groaning loudly every time she had to balance an equation. Annabeth sat in her usual chair with her bridge calculations spread around her like a nest. Percy sat on his footstool with Atlantis Greek, mouthing hexameter under his breath until Thalia threw a pillow at him.
+
+"Say dactylic hexameter one more time and I will electrocute you," Thalia said.
+
+"That's not — you can't just —" Percy began.
+
+"I can. I'm the daughter of Zeus. It's in the job description."
+
+Annabeth did not look up from her graph paper. "Thalia, your ionic equation is unbalanced. You have two chlorines on the left and one on the right."
+
+Thalia stared at her paper. "I hate you."
+
+"No, you don't."
+
+"No, I don't," Thalia agreed, fixing it. "You're the only reason I'm passing."
+
+Percy watched them and felt his chest go warm. This was what he missed in Atlantis. Attic dust and rain on the round window and sisters bickering and Annabeth's pencil tapping when she thought.
+
+It rained after lunch, a steady October rain that turned the paths to mud.
+
+"The lake in the rain," Percy said, standing at the attic window. "It's the best. Everything goes quiet. The fish come up. You can see the whole camp reflected if you stand on the north dock."
+
+Annabeth came to stand beside him. Her shoulder brushed his. "Show me?"
+
+Thalia looked up from her chemistry. "In the rain? You two are insane. It's forty degrees."
+
+"You can stay here and balance ions," Annabeth said sweetly.
+
+Thalia flopped back on the floor. "Fine. Go be romantic in the rain. I'll be here being academically superior."
+
+Percy and Annabeth both went red to the ears. "It's not — we're just —" Percy stammered.
+
+"Walking," Annabeth finished firmly. "We're just walking."
+
+"Mm-hm," Thalia said, pulling her textbook over her face. "Walking. Sure. Take a jacket, Annie. Take two. Percy, if she sneezes once I will kill you."
+
+They took three jackets between them and Annabeth's Yankees cap, and they walked down to the lake in the rain holding the jackets over their heads and laughing when it did not work at all.
+
+---
+
+The north dock was empty. The lake stretched flat and silver, the far shore blurred. The hills were red through the mist.
+
+Percy sat at the end with his legs hanging over. Annabeth sat beside him, shoulders touching. For a while they just watched the rain hit the lake. Percy felt the creek feeding in, the deep cold pocket, the rain as a million tiny disturbances.
+
+Annabeth was quiet in the way she got when she was thinking hard about something that was not math.
+
+"What did Clarisse say in her second letter?" she asked finally. "You didn't tell me."
+
+Percy pulled the folded paper from his jacket pocket. It was damp at the edges. He had read it four times already.
+
+*PERCY — Dad took me to the desert to see the storms. He says you can see Zeus's weather from Arizona if you know where to look. I thought about your girlfriend. Tell her the lightning over the mesas looked like her when she's mad. That's a compliment. Don't tell her I said that.*
+
+*Mom says to tell you to sleep enough. I sleep fine. I dream about the camp. I dream about the sword arena. Is that weird? I miss it even though I complained every day.*
+
+*Silena says hi. She called me. She's doing mortal school too and hates the uniforms. She says to tell you she left you cookies in the Amphitrite freezer with your name on them in Greek so Tyson won't eat them (he will still eat them).*
+
+*Write soon. — C*
+
+Percy handed it over. Annabeth read it, rain spotting the ink, and smiled at the girlfriend line.
+
+"She put me in the family weather report," Annabeth said.
+
+"Yeah," Percy said. His heart hammered against his ribs like a war drum. "That means she expects us to keep each other fed. A sacred responsibility."
+
+Annabeth folded the letter carefully along its creases. Rain dripped off her cap brim. "Do you think we can keep making time for this? With school and the palace and everything?"
+
+Percy had rehearsed an answer in Atlantis. Every version sounded too big for thirteen.
+
+But sitting here with Annabeth's shoulder against his, it felt small and warm and obvious, like a stone he had carried so long he forgot it was there.
+
+"I want this in the winter too," Percy said. His voice shook. He forced himself to keep looking at her. "Not just when camp makes it easy. I love you. You know that. But I like doing homework with you, and sitting here, and being thirteen together. I don't want school schedules to take all that away. Thalia says you should say true things out loud before they get heavy. So I'm saying it."
+
+The rain hissed on the lake. A fish jumped somewhere out in the gray.
+
+Annabeth stared at him. Her cheeks went pink, then red, then pink again. She opened her mouth. Closed it. Opened it again.
+
+"I want that too," she whispered. "Openly. This summer mattered. When you held my hand in the Underworld elevator and didn't let go even when Grover stepped on your foot — I knew we could keep choosing each other here. We'd done it before. We could do it again."
+
+Percy remembered. Blisters and all. Her hand in his.
+
+"Even algebra?" he said stupidly.
+
+"Even algebra," Annabeth said, and laughed a watery laugh. "You're an idiot, Seaweed Brain. Of course really. You're my — you're my favorite person to study with. You're my favorite person to — to do everything with."
+
+They sat there, red-faced and rain-soaked and grinning like fools.
+
+Percy held out his hand, palm up, on the wet wood between them. An offering. A question.
+
+Annabeth looked at his hand for a long moment. Then she placed her hand in his, fingers cold and wet and trembling, and laced their fingers together.
+
+It was not dramatic. No lightning. No wave. Just two thirteen-year-olds holding hands on a dock in the rain, swinging their feet over the cold lake, shoulders pressed together under a useless jacket.
+
+But Percy felt the lake settle around them, and he felt Annabeth's pulse quick against his palm, steady as meter — a wave, six feet, strong.
+
+"I told Silena," Annabeth said softly after a while, watching their joined hands like she could not quite believe them. "In August. How happy I was with you. She just smiled and said, duh. She braided my hair and said Clarisse would pretend to be mad but she'd be happy."
+
+Percy swung their hands gently. "Clarisse will kill me."
+
+"No," Annabeth said. "She'll kill you and then she'll be happy. There's a difference."
+
+They laughed, and the mist shifted, and the far shore came clear for a second — red maples reflected perfectly in the silver water.
+
+Percy bumped his forehead lightly against Annabeth's temple, the way he had seen Thalia do to her a hundred times. Sweet and clumsy. Annabeth bumped back, her cap knocking his forehead.
+
+"Ow," they said together, and laughed harder.
+
+---
+
+Up on the Big House porch, out of sight behind the rain and the lattice, Thalia stood with her chemistry book forgotten under her arm and her hand pressed hard over her mouth.
+
+She had come down to yell at them for taking all the jackets. Then she heard Percy's voice carry across the water — *I want this in the winter too* — and her little sister answer, *I want that too,* and something in her chest cracked wide open.
+
+Thalia knew they were together. She had watched all summer while they learned how openly they wanted to show it here.
+
+But hearing Annabeth say it out loud in that small brave voice undid her completely.
+
+Her eyes burned. Her throat closed. Static lifted the hairs on her arms.
+
+*Oh, Annie,* she thought. *Oh, baby.*
+
+She thought of teaching Annabeth to read maps in motel rooms. Of carrying her when her shoes gave out. Of bringing her to camp and trusting Chiron to share the watch, hoping it would be enough.
+
+And now Annabeth sat on a dock holding a boy's hand, saying true things out loud, exactly the way Thalia taught her. Safe. Happy. Thirteen and brave.
+
+Thalia cried silently behind the honeysuckle, hand over her mouth. She pretended fiercely she was not crying. The rain could take the blame.
+
+When Percy bumped his forehead against Annabeth's temple, Thalia had to bite her knuckle.
+
+She backed away before they saw her. She sat on the attic floor with her back against Annabeth's chair until her breathing steadied.
+
+She would never tell them she overheard.
+
+When they came back, soaked and glowing and trying very hard to act normal, Thalia was sprawled on the floor with her textbook over her face, pretending to nap.
+
+"We're back," Annabeth announced too loudly.
+
+"Did you drown?" Thalia mumbled from under the book. "You look drowned."
+
+"It was nice," Percy said, wringing out his sleeve into the trash can. His ears were scarlet. Their hands were no longer holding, but they stood close enough that their sleeves touched.
+
+Thalia lowered the book just enough to peer at them over the top. Annabeth's cheeks were pink. Percy's hair dripped. They both looked like they might burst.
+
+Thalia felt her eyes burn again and shoved the feeling down hard.
+
+"Good," she said gruffly. "Rain is good for geniuses. Hydrates the brain. Annie, your ions are still unbalanced. Seaweed Brain, your participles still suck."
+
+They settled back into studying, damp and happy. Thalia watched as Annabeth leaned over to fix Percy's algebra, their knuckles brushing. Neither moved away.
+
+Thalia turned a page very loudly and stared hard at her chemistry until the blurriness cleared.
+
+*Good,* she thought fiercely. *Good. Be thirteen. Be sweet. Be safe. I'll stand in front of anything that tries to take this from you.*
+
+---
+
+Thalia left on Sunday evening. They walked her to the highway in the orange sunset. Annabeth carried Thalia's duffel. Percy carried the sandwiches Pollux packed.
+
+At the bus stop, Thalia hugged Annabeth so hard she lifted her off the ground.
+
+"Study hard," Thalia murmured into her sister's hair. "Eat protein. Sleep. Call me if he — if anyone — you call me for anything, you hear me? Anything too heavy to carry alone."
+
+"I will," Annabeth whispered, face buried in Thalia's jacket. "I love you."
+
+"I love you more. Don't argue, I'll win."
+
+Thalia turned to Percy. For a second Percy thought she would shake his hand or punch his shoulder. Instead she pulled him into a fierce, brief hug that smelled like cinnamon gum.
+
+"Take care of her," Thalia said low, for him alone. "Not — not like she's breakable. Like she's — you know."
+
+"I know," Percy said. His throat tight. "Side by side. I promise."
+
+Thalia held him at arm's length and studied his face. Her eyes were red-rimmed. Percy pretended not to notice. Thalia pretended not to pretend.
+
+"You're a good kid, Jackson," she said roughly. "Don't get a big head."
+
+The bus hissed to a stop. Thalia climbed on, took the window seat, pressed her palm to the glass. Annabeth pressed her palm to the outside. They held it there until the bus pulled away.
+
+Annabeth did not cry until the taillights vanished. Then she cried silently, and Percy held her hand — openly — and did not say don't cry. He just held on.
+
+"She pretends she wasn't crying yesterday," Annabeth said finally, wiping her face. "When we came back from the lake. Her eyes were all red. She pretended she was napping."
+
+Percy blinked. "You knew she followed us?"
+
+"No," Annabeth said. "But I know Thalia. She cries and pretends it's rain or allergies or Underworld heat. She stood up to Hades for me and said she sweated from her eyes." She laughed wetly. "She heard us, didn't she?"
+
+"Probably," Percy admitted. "She's not subtle."
+
+Annabeth leaned her head against his shoulder on the dark road. "I'm glad. I want her to know. I want — I want everyone who loves me to know how happy I am with you. Openly."
+
+Percy's heart did the war-drum thing again. He bumped his forehead gently against her temple, careful of the cap.
+
+"Me too," he said. "Openly."
+
+They walked back to camp hand in hand in the dark, leaves crunching, breath fogging. The barrier hummed as they passed the hilltop pine. The Fleece glowed faint gold.
+
+---
+
+November came cold and bright. Percy broke ice with his paddle checking depth markers for Annabeth's spring bridge. Annabeth charted the freeze line and argued with Hephaestus kids about load bearings.
+
+Clarisse's third letter arrived with a bag of homemade caramel corn that was mostly eaten by the Stolls in transit.
+
+*PERCY — Mom sent this. She says you need fattening up. Don't tell Annabeth I said this but she looked good in August. Strong. Like someone who could hold a shield wall. Tell her I said that so she knows I respect her and fear her a little.*
+
+*Dad fixed the tide clock. He says Poseidon owes him twenty bucks. Tell Poseidon that. Actually don't. I like living.*
+
+*I miss the arena. I miss Silena stealing my socks. I miss you being annoying in the next cabin. Winter is weird without war games. I run drills with the dog. The dog is terrible at phalanx.*
+
+*Be good. Or be careful. Pick one. — C*
+
+Percy read the strong line aloud to Annabeth in the attic, and Annabeth went scarlet and threw a pillow at him and then kept the letter folded in her architecture notebook for a week.
+
+He wrote back by the fire in Cabin Three, cactus on the sill, Silena's postcard curling at the edges.
+
+*Dear Clarisse, I told her. She kept the letter. She says to tell you she could hold a shield wall with you anytime. The caramel corn was great (I got three pieces). The lake is freezing. Annabeth says hi and to eat protein. I say hi and to teach your dog phalanx. Come home for winter solstice? Cabin Three misses you. I miss you. — Percy*
+
+He added a pressed oak leaf, brown and perfect, and sealed it.
+
+On the last day of fall, the day before December, Percy and Annabeth studied in the attic until the light went blue through the round window. Outside, the first snow hovered, uncertain, over the strawberry fields. Inside, the radiator clanked. Annabeth's bridge model sat finished on the table, balsa wood and glue and perfect angles. Percy's Greek reader lay open to a passage he could actually read now, slowly, feeling the meter like a wave.
+
+Annabeth reached over without looking up from her notes and took his hand on the table between them. Openly. Easily. Like breathing out before breathing in.
+
+Percy laced their fingers and kept reading, his heart steady.
+
+Below them, camp settled into winter quiet — shutters latched, braziers lit, year-rounders gathering for dinner in the too-big pavilion. Above the hill, the pine stood green against the gray sky. Far below the sea, Atlantis glowed blue-green, waiting for morning school. Somewhere in Arizona, Clarisse drilled a terrible dog in phalanx. Somewhere in a mortal school, Thalia chewed cinnamon gum and pretended not to worry.
+
+Here, in the attic, two thirteen-year-olds held hands over homework while rain turned to snow on the glass.
+
+It was not a quest. No helm. No bolt. No god waiting with fire.
+
+It was fall. Quiet and sweet and theirs.
+
+And it was enough.
+
+---
+

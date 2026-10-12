@@ -1,0 +1,653 @@
+## Chapter 12: What Remains
+
+Percy woke to the sound of hammers.
+
+Not war-hammers. Not monster-hammers. Just regular, mortal-sounding construction hammers, thudding somewhere up the hill in a steady rhythm, punctuated by someone shouting, "No, to the left — your other left!"
+
+He lay in his bunk for a minute with his pillow over his face, trying to decide if he was awake enough to care.
+
+The Poseidon cabin smelled like salt and cedar and low tide. Morning light came through the seashell-inlaid windows in pale green strips. From the bunk above him, Grover snored with his mouth open, one hoof sticking out from under the blanket and twitching in his sleep.
+
+Five days after the eclipse.
+
+Percy counted them without meaning to. Five days since the sky had gone black at noon and Thalia had stood in the center of the Hall of the Gods with a bleeding palm and lightning trembling between her hands. Five days since Annabeth had screamed her sister's name so loud her voice broke. Five days since they'd all almost lost something none of them had words for yet.
+
+And now: hammers. Breakfast. Tuesday.
+
+"Percy?" Grover mumbled from above, not waking up. "If that's breakfast, tell it I'm asleep."
+
+"It's hammers," Percy said.
+
+Grover made a sad goat noise and rolled over. "Tell the hammers I'm asleep."
+
+Percy grinned despite himself and sat up. His ribs still ached if he breathed too deep — a souvenir from where a chunk of falling marble had clipped him during the ritual backlash. Lee Fletcher from Apollo had checked him three times and declared him "annoyingly resilient for a fish kid," which Percy chose to take as a compliment.
+
+He pulled on his camp shirt and shorts, shoved his feet into sneakers, and stepped outside into air that smelled like pine sap and fresh sawdust.
+
+Camp Half-Blood in the morning after near-disaster looked almost normal. Almost. The strawberry fields were green and heavy. The pegasi were circling. Someone was laughing down by the forges. But if you looked up the hill, you could see it: the Hall of the Gods with one whole corner caved in, scaffolding wrapped around it like a splint, a blue tarp flapping over the gap where the roof used to be.
+
+Mr. D had called it "structural redecorating." Chiron had called it "a reminder." The campers just called it The Hole.
+
+Percy headed for the dining pavilion with his hands in his pockets, taking the long way around the cabins so he wouldn't have to walk past it just yet.
+
+He wasn't the first one there. He was never the first one there.
+
+Clarisse was already at the Poseidon table, elbows on the wood, hair still damp from what had to have been a 5 a.m. swim. She had a plate of eggs and toast in front of her and was systematically cutting the toast into exact triangles.
+
+Silena sat next to her, cross-legged on the bench, reading a book propped against the juice pitcher. *The Odyssey*, in Greek, with about a hundred little paper tabs sticking out of it. She glanced up when Percy approached and smiled — a real one, tired around the edges but real.
+
+"Morning, baby brother," she said.
+
+"Morning," Percy said, sliding in across from them. "You're up early."
+
+"Someone," Clarisse said pointedly, without looking up from her toast geometry, "was snoring like a drowning minotaur and woke up the whole cabin."
+
+"That was Grover," Percy protested. "He's sleeping over because his cabin smells like paint."
+
+"That was *you*," Clarisse said. "Grover snores in B-flat. You snore in C."
+
+Percy stared at her. "You can tell the difference?"
+
+"I live with you," she said, like it was obvious. Then she pushed two toast triangles onto his plate without asking.
+
+It was such a small thing. Percy looked at the toast for a second longer than he needed to.
+
+"Thanks."
+
+Clarisse shrugged and shoved a whole triangle into her mouth.
+
+Breakfast at Camp Half-Blood had rules. You scraped part of your meal into the braziers for the gods. You sat with your cabin. You didn't throw stuff unless it was Friday or someone really deserved it.
+
+What nobody told you was what to do when the rules felt weird. When you sat down and automatically scraped off a bit of egg for Poseidon and your hand hesitated because last week you'd actually *seen* your dad standing in a ruined hall looking older than you'd ever seen him, and you weren't sure if eggs were enough.
+
+Percy scraped the eggs in anyway. Clarisse did too. Silena whispered something under her breath when she did it — not the formal prayer, just, "Hi, Dad. Hope the palace isn't too mad at us."
+
+That made Percy's chest hurt in a good way.
+
+"How's the arm?" Silena asked him, nodding at where he'd been wrapped up last week.
+
+"Fine," Percy said. "Lee says I'm cleared for swimming if I don't do anything stupid."
+
+"So no swimming," Clarisse said.
+
+"Hey!"
+
+Across the pavilion, the Zeus table was conspicuously quiet. Thalia sat alone at one end, hunched over a bowl of oatmeal she wasn't eating, hair pulled back in a messy braid, a gray streak in it that hadn't been there two weeks ago. She stared at the tabletop like it had personally offended her.
+
+Three seats down, Annabeth sat with a book open face-down over her plate and a pencil behind her ear, sneaking glances at her sister every twelve seconds. Percy knew because he'd counted.
+
+"Subtle," Silena murmured, following his gaze.
+
+"She's worried," Percy said.
+
+"Everyone's worried," Clarisse said. She said it gruffly, but she was watching Thalia too, with the particular expression Clarisse got when she wanted to punch a problem and knew she couldn't. "She hasn't sparred in four days. Jason says she just runs the lava wall over and over until she gets dizzy."
+
+"She's grieving," Silena said softly.
+
+Percy looked at her. "Did she tell you that?"
+
+"No," Silena admitted. "But I know what it looks like."
+
+Before Percy could ask what she meant, a small blur shot between the tables and skidded to a stop at their bench.
+
+Nico di Angelo, son of Hades, menace of the juice station, stood there with two cups of orange juice and a very serious expression.
+
+"Percy," he announced, "you have to choose. You can't have both."
+
+"Wha— those are both for me?" Percy said.
+
+"No," Nico said patiently, like Percy was simple. "One's apple. One's orange. You have to choose which one I stole correctly."
+
+Silena covered her mouth. Clarisse said, "Nico, did you steal juice again?"
+
+"I borrowed with intent to share," Nico said. He thrust both cups at Percy. "Choose."
+
+Percy, who had once held up the sky in another life and now could not pass a juice-based loyalty test administered by a younger camper, chose the left cup.
+
+Nico beamed. "Correct! You get the orange. I get the apple." He handed over the orange, kept the apple for himself, and climbed uninvited onto the bench next to Silena, swinging his legs. "Thalia looks sad," he added matter-of-factly, slurping.
+
+The table went quiet for a beat.
+
+"Yeah," Percy said. "She's going through a lot."
+
+Nico nodded sagely. "When Bianca's sad, I give her my skull button. The one with the googly eyes. Then she's less sad." He fished in his jacket pocket and pulled out a plastic skeleton keychain missing one arm. "Should I give this to Thalia?"
+
+Silena's eyes went soft. "That's really kind, Nico. Maybe hold onto it for now, but — yeah. Maybe later today."
+
+"Okay," Nico said. He looked at Percy. "Can you skip rocks later? Bianca says you're the best at it and she's usually right about everything."
+
+"Sure," Percy said. "Canoe lake after lunch?"
+
+"Deal." Nico slid off the bench and ran full-tilt toward the Hades table, nearly colliding with Ella, who sidestepped him with the grace of someone used to dodging small brothers.
+
+Ella — the harpy, red feathers ruffled from sleep — carried her plate over to the Poseidon table, glad to leave the lifeguard chair where she usually ate while reading.
+
+"Is this seat cursed?" she asked, pointing to the spot next to Percy.
+
+"Only on Tuesdays," Percy said, and she sat.
+
+"Good, it's Tuesday," Ella said, satisfied, and stole his toast triangle.
+
+It was stupid. It was completely stupid and normal and Percy felt his shoulders drop half an inch for the first time in five days.
+
+Then Annabeth stood up from the Zeus table, picked up her untouched plate, and walked over to Thalia's end. She hovered for a moment, said something Percy couldn't hear. Thalia shook her head without looking up. Annabeth's mouth tightened. She set something down next to Thalia's bowl — Percy thought it looked like a folded piece of paper — and walked away fast, toward the pavilion steps.
+
+Thalia didn't touch the paper.
+
+Percy watched Annabeth disappear down the hill toward the cabins, and felt that familiar tug behind his sternum, like a fishing line going taut.
+
+"Go," Silena said quietly.
+
+"What?"
+
+"Go after her, seaweed brain," Clarisse said, rolling her eyes. "You're making the sad face. It's distracting."
+
+"I'm not making—"
+
+"You are," Ella confirmed, mouth full of toast. "It's your face."
+
+Percy stood, grabbed an apple for the road, and pointed at Clarisse. "You're mean when you're worried."
+
+"I'm mean always," Clarisse said. "It's called consistency."
+
+He left them laughing and went after Annabeth.
+
+---
+
+Annabeth Grace had a system for when her brain wouldn't shut up.
+
+Lists. She made lists.
+
+She sat on the floor of the Zeus cabin with a notebook open on her knees and wrote:
+
+*Things Broken (Hall of the Gods):*
+- *East colonnade — 4 columns cracked, 2 collapsed*
+- *Roof — hole ~15 ft across*
+- *Floor mosaics — water damage + scorch marks*
+- *Zeus statue's lightning bolt — snapped in half (ironic?)*
+
+*Things Broken (Other):*
+- *Thalia won't talk to me*
+- *Thalia won't eat*
+- *Thalia —*
+
+She stopped, pencil hovering, then scratched out the last line so hard the paper tore.
+
+The Zeus cabin was too big. That was the problem. It was built for a god who liked space and drama, all high ceilings and tall windows and blue-and-gold banners, and right now it housed exactly two girls who were barely speaking to each other.
+
+Thalia's side was a disaster — armor half-polished on the bed, spear leaning against the wall, discarded running shoes, a pile of clean laundry she'd never put away, and on her nightstand, the folded paper Annabeth had left at breakfast, still folded.
+
+Annabeth's side was painfully neat. Bed made with hospital corners. Books stacked by size. Her dagger collection oiled and aligned. A model of the Parthenon Thalia said she'd built from popsicle sticks last summer sitting on the windowsill, one column newly glued back on after it shook off during the eclipse.
+
+She hated how neat it was. It felt like an accusation.
+
+The door banged open.
+
+"Okay, cabin inspection in twenty," Jason Grace announced, carrying Zoe's clipboard and looking extremely serious for a ten-year-old on a supervised visit. Camp Jupiter had approved three days with his sisters; Zoe was making sure he helped without climbing the scaffolding. Behind him, Zoe Nightshade slipped in, dark hair braided back, Hecate cabin jacket tied around her waist. "Chiron says if we pass, we get moved up the repair rotation and — whoa."
+
+He stopped, taking in the room. "What happened in here? A cyclops sneezed?"
+
+"Thalia's side," Annabeth said quickly. "I was just— I'm cleaning."
+
+Zoe raised an eyebrow and set down the bucket of cleaning supplies she'd brought. "We volunteered to help," she said. "Moral support and bleach."
+
+"I don't need—" Annabeth started, then caught herself. Thalia's words from last night echoed: *You don't get to manage me, Annabeth.* She swallowed. "Thanks. That would be... good."
+
+Jason gave her a sympathetic look and started on the tall windows, while Zoe flopped down cross-legged next to Annabeth and peered at her list.
+
+"'Things Broken,'" Zoe read. "Cheerful."
+
+"It's practical," Annabeth muttered.
+
+"It's avoidance with bullet points," Zoe said. She bumped Annabeth's shoulder. "Hey. How are *you* doing? With the whole... missing-childhood thing?"
+
+Annabeth stared at her notebook. How was she doing?
+
+She remembered being seven and being found by Thalia and Luke, Thalia giving her half a granola bar and telling her monsters couldn't get her if she stayed close. That was her original life. Here, Thalia had described tucking her little sister into a too-big bed, braiding her hair too tight, reading stories about Atalanta.
+
+Annabeth could picture the story. She could not remember living it. The distance between those two things hurt most when Thalia expected her to smile at a familiar detail.
+
+"It's loud," she admitted quietly. "In my head. Like reaching for a station that isn't there. The Athena stuff — the strategies, Mother—" She stopped. Athena wasn't her mother here. Saying it out loud still felt like betrayal in both directions. "I keep reaching for memories that don't fit. I almost called Chiron *teacher* yesterday like... like I used to. And then I felt guilty because Thalia raised me *here*, she—"
+
+She glanced toward Thalia's bunk.
+
+"She doesn't want me around her right now," she finished, smaller.
+
+Zoe was quiet for a moment, wringing out a sponge. "You know what my mom told me after the ritual? Hecate. She showed up in my dreams, all smoke and keys. She said the ward was contained, but that didn't make its source safe. She told me not to mistake a repaired seal for an explanation."
+
+"Knotted," Annabeth repeated.
+
+"Yeah. Like you and Thalia trying to talk across a missing stretch of rope. You can still hold the ends. It just takes care." Zoe shrugged. "My mom's cryptic like that. She also told me to eat more garlic, so grain of salt."
+
+Annabeth huffed a laugh despite herself. "Thanks, Zee."
+
+"Anytime, owl brain." Zoe stood and tossed her a rag. "Now come on. Let's clean your sister's armor before Jason has an aneurysm about inspection."
+
+They worked. Jason dusted banners he couldn't reach without standing on a chair and nearly falling. Zoe sang a Hecate cleaning hymn under her breath that made the sponges work twice as fast — cheating, Annabeth noted with professional admiration. Annabeth scrubbed Thalia's breastplate until she could see her own frowning face in it, refolded the laundry pile, lined up the running shoes.
+
+She picked up the folded paper from the nightstand — the note she'd left at breakfast — and hesitated. She'd written: *Walked the wall with you 3 times this week. You're faster. — A.* It was stupid. An olive branch made of lava-wall stats.
+
+She refolded it and put it back, smoothing the crease.
+
+The door opened again, and Thalia stood there.
+
+Everyone froze. Jason with a duster in his hand like a white flag. Zoe mid-sponge. Annabeth kneeling by Thalia's bed with a stack of folded shirts in her arms like contraband.
+
+Thalia looked from face to face, her expression unreadable. Her eyes were red-rimmed. Annabeth wondered if she'd slept at all, or just run the course until dawn again.
+
+"...Hey," Thalia said.
+
+"Hey," Annabeth said too fast. "We were just— inspection, and your side was— I didn't move anything important, I just—"
+
+Thalia held up a hand. She crossed to her nightstand, picked up the folded note, and looked at it for a long moment. Then she tucked it into her jacket pocket without opening it.
+
+"Thanks," she said, low. To all of them, to none of them. She grabbed her spear from the wall. "I'll be at the wall if Chiron asks."
+
+And she left.
+
+The door clicked shut.
+
+Jason let out a breath. "Well. That was—"
+
+"Progress," Zoe said firmly. "She kept the note. She said thanks."
+
+Annabeth sat down slowly on Thalia's bed, the folded shirts still in her lap. She stared at the spot where her sister had stood.
+
+"She kept it," she whispered.
+
+Zoe sat beside her and leaned her head against Annabeth's shoulder. "See? Knotted, not cut."
+
+Annabeth leaned back, just slightly, and let herself believe it for exactly ten seconds before getting up to finish cleaning.
+
+---
+
+Thalia Grace volunteered for roof duty because it was high up and nobody would talk to her up there.
+
+That was the whole reason. Chiron had posted the repair rotations that morning — teams for debris, teams for mosaic sorting, teams for scaffolding — and Thalia had scanned the list, found the job with the fewest names and the most height, and signed her name so hard the pen tore the paper.
+
+Now she sat on the edge of the Hall of the Gods roof, legs dangling over a fifteen-foot hole, hammer in her lap, trying not to think.
+
+It wasn't working.
+
+Below her, Camp Half-Blood buzzed. She could hear Beckendorf shouting measurements. The Demeter kids hauling buckets of tesserae for the floor. Pollux from Dionysus trying to charm a naiad into helping with water damage and failing spectacularly. Normal sounds. Good sounds. Sounds that meant the camp was still here, still standing, despite the ward that had almost torn it apart.
+
+*Almost lost her,* whispered the thought Thalia kept trying to outrun.
+
+Thalia closed her eyes.
+
+She remembered Annabeth small enough to sleep against her shoulder in a cramped apartment with wards on the windows. Teaching her to throw a punch. Getting the call that their dad — Zeus, terrifying, distant Zeus — wanted them at camp after all. Those years were hers. They weren't Annabeth's anymore, at least not as memories.
+
+During the eclipse she'd seen her sister staggering toward the damaged seal and thought every ordinary precaution had failed. For a moment she'd wanted to drag Annabeth out, regardless of what Chiron or Annabeth said. She had stayed instead, held the current steady, listened when Annabeth told her to stop.
+
+They had saved the hall from worse damage. Her hands still shook when she thought about how close it had been.
+
+Chiron said the sealed ward needed daily inspection. The Oracle had offered no useful explanation. Her father hadn't spoken to her in five days, which for Zeus was either indifference or mercy and she couldn't tell which.
+
+And Annabeth —
+
+Thalia's grip tightened on the hammer.
+
+Annabeth with a missing childhood, looking at her like she was both sister and stranger. Annabeth leaving notes. Annabeth cleaning her armor. Annabeth trying so hard it made Thalia's chest ache because *she* was the older sister, she was supposed to be the one who knew what to do, and she didn't know anything anymore except that every time Annabeth looked sad, Thalia felt like she'd failed the one sister sitting right in front of her.
+
+"You're going to rust that hammer with your thoughts."
+
+Thalia startled. Percy Jackson hauled himself up onto the roof beside her, breathing hard, a coil of rope over one shoulder and lake water drying in his hair.
+
+"How did you get up here?" she demanded. "This is restricted."
+
+"I climbed," Percy said, like that explained anything. He sat down a careful three feet away and let his legs dangle too. "Silena said you skipped lunch. I brought—" He dug in his pocket and produced a slightly squashed peanut butter sandwich in wax paper. "It's a little warm. Sorry. Pocket sandwich."
+
+Thalia stared at it. "You climbed a scaffolded ruin to bring me a pocket sandwich."
+
+"Yeah," Percy said. "I also brought Grover, but he got halfway up, looked down, screamed, and is now lying under a tree eating tin cans to recover."
+
+Despite everything, Thalia felt the corner of her mouth twitch. "Poor Grover."
+
+"He'll live. He said to tell you the tree roots say hi, which I think means he's delirious." Percy set the sandwich on the tarp between them. No pressure. Just there. "You don't have to eat it. It's just... lunch is better than no lunch. That's like, science. Annabeth told me."
+
+At Annabeth's name, Thalia's walls slammed back up. "Percy—"
+
+"I'm not here to lecture," he said quickly. "Promise. No pep talks. I suck at them. Clarisse says my pep talks sound like I'm drowning."
+
+Thalia snorted before she could stop herself.
+
+They sat in silence for a while. The wind tugged at the tarp. Below, someone dropped a bucket and swore in Ancient Greek. The pine tree on Half-Blood Hill — *her* tree, the other her — was visible from here, dark green against the sky. Thalia tried not to look at it and looked anyway.
+
+"Do you miss her?" Percy asked quietly. "Sally?"
+
+The question blindsided her. Thalia turned to stare at him.
+
+Percy shrugged, picking at a loose thread on his shorts. "You said... after the ward failed, when we were all in the infirmary. You said you missed the way things used to be with Annabeth. And I keep thinking — I remember my mom. My other mom. Sally. She died when I was two here, but I remember seventeen years with her. Blue pancakes. Terrible singing. And sometimes I miss her so much I can't breathe, and then I feel guilty because Amphitrite's been— she's been trying, you know? And Dad—" He stopped, swallowed. "Anyway. I wondered if it was like that for you. Missing someone you're also... still with? Or something?"
+
+Thalia looked back out at the hills. Her throat felt tight.
+
+"Yeah," she said, after a long moment. Her voice came out rough. "Something like that. I miss Luke."
+
+Percy didn't flinch. Everyone else did, when she said that name. Luke, whose future betrayal Percy remembered, was currently helping Beckendorf at the forge with grease on his nose and no idea what Percy feared.
+
+"I miss how easy it was to trust him," Thalia clarified. "Before you told me what happened where you came from. He was there when we needed help. He's still here. And now I keep looking at him for something he hasn't done." She broke off. "I don't know how to be fair about it."
+
+"It's not messed up," Percy said. "It's just... knotted."
+
+Thalia blinked. "What?"
+
+"Zoe said that. Connections knotted, not cut." Percy smiled crookedly. "I liked it. Made me feel less crazy."
+
+Thalia picked up the pocket sandwich. She unwrapped it, took a bite. Peanut butter stuck to the roof of her mouth. It was warm and too much peanut butter and not enough jelly and it was the best thing she'd eaten in days.
+
+"Thank Grover for me," she said thickly. "And Silena."
+
+"Will do." Percy stood, brushing off his shorts. He hesitated, then added, "Annabeth left you a note because she doesn't know what to say. Not because she thinks you're fragile. She thinks you're... you know. Thalia."
+
+Thalia looked up at him. This kid — twelve, Atlantean-raised, remembering seventeen years of another life, carrying grief for a mother most of this camp never met — standing on a broken roof with rope on his shoulder and total sincerity on his face.
+
+"Tell her I kept it," Thalia said.
+
+Percy's whole face lit up. "Yeah?"
+
+"Yeah." Thalia took another bite. "Now get off my roof before you fall and I have to explain it to Chiron."
+
+Percy saluted, climbed backward down the scaffolding shouting, "I'M BEING SAFE!" the whole way, and Thalia watched him go, sandwich in hand, and felt something in her chest loosen by exactly one degree.
+
+---
+
+The canoe lake at four o'clock smelled like sunscreen and warm wood.
+
+Percy sat on the dock with his feet in the water, skipping stones with Nico di Angelo while Bianca — Nico's fourteen-year-old sister, daughter of Hades, dry humor, braids — watched from a striped towel with a book in her lap and corrected Nico's form without looking up.
+
+"Elbow in, Neeks."
+
+"Elbow in," Nico muttered, and sidearmed a stone that skipped four times before sinking. He pumped his fist. "Four! Did you see that? Percy, did you see—"
+
+"I saw," Percy laughed. "Nice. Okay, my turn. Watch the wrist."
+
+He flicked, and the stone skipped six, seven, eight times, each skip sending a little pulse through the water that he felt in his teeth — the lake recognizing him, saying hello in its own language.
+
+Showing off, a little. Sue him. The kid was eight.
+
+"Eight!" Nico breathed. "Teach me that wrist thing again."
+
+"Later. Gotta rest the arm. Doctor's orders." Percy lay back on the dock, hands behind his head, and squinted at the sky. No eclipse. Just blue, with high thin clouds. A pegasus drew a lazy circle overhead.
+
+Bianca marked her page and sat up. "How's Thalia?"
+
+Percy turned his head. "She ate the sandwich."
+
+Bianca smiled. "Good. Annabeth?"
+
+"Cleaning everything in sight," Percy said. "You know Annabeth. If she can't fix it, she organizes it."
+
+"And you?" Bianca asked.
+
+Percy considered. The water lapped at his ankles. Somewhere across the lake, the Apollo cabin was having a screaming race in canoes and losing to the Aphrodite kids, who were somehow rowing in perfect sync while doing each other's hair.
+
+"I don't know," he said honestly. "Better than last week. Weird about... everything. I dreamed about Atlantis last night. The palace. My room with the whalebone ceiling. Amphitrite standing in the doorway, waiting for me to recognize a room she knew I'd grown up in." He paused. "Then I woke up and for a second I didn't know which bed I was in."
+
+Bianca nodded like that made complete sense. "Nico still cries for our mother sometimes. Our real mother. Maria. She died before we came here. You said that happened where you came from, too. Hades keeps her picture in his study and won't talk about it." She glanced at her brother, who was now trying to teach a frog to skip stones. "Grief is weird when the person is gone in every version."
+
+"Yeah," Percy said quietly.
+
+Ella came jogging down the hill then, red crest bouncing, waving something white over her head. Grover trotted behind her, still pale from his scaffolding adventure, clutching a tin can like an emotional support animal.
+
+"Percy! Percy, emergency!" Ella shouted.
+
+Percy sat bolt upright. "What? What happened?"
+
+Ella skidded to a stop at the end of the dock, breathless, and thrust the white thing at him. It was a pillowcase. With musical notes drawn on it in marker.
+
+"Ella," Percy said slowly, "is this a pillowcase?"
+
+"It's a *flag*," Ella corrected. "For capture the flag. Friday. Clarisse said Poseidon cabin needs a new flag because ours got burned last game and you're the only one who can get the waterproof ink from the Stolls and I volunteered you to go negotiate and Grover's coming for moral support and— breathe, Ella, breathe—"
+
+Grover patted her back. "She ran all the way from the cabins."
+
+"I can see that," Percy said, grinning. He took the pillowcase-flag. "Okay. Stolls. Negotiation. I'm on it."
+
+"Thank the gods," Ella said, flopping onto the dock. "Clarisse is scary when she's patriotic."
+
+Nico abandoned his frog and ran over. "Can I be on your team Friday? Bianca says I'm too small but I'm sneaky!"
+
+"You're extremely sneaky," Percy agreed solemnly. "I'll talk to Clarisse."
+
+"Yes!" Nico punched the air, then paused. "Can Thalia play? She looks like she needs to hit something with a foam sword."
+
+Percy looked at Bianca, who raised her eyebrows. He thought about Thalia on the roof, alone with a hammer and a sandwich.
+
+"I think she'd like that," he said. "I'll ask her."
+
+"And Annabeth?" Ella added, quieter. "She's good at plans. She made me a luck chart last week. With colors."
+
+Percy smiled, folding the flag. "I'll ask her too."
+
+Bianca stood, brushing sand off her legs. "Come on, Neeks. Let's let Percy go bribe the Stolls. And you owe me a rematch in Mythomagic."
+
+"I don't owe you anything! I won last time!"
+
+"You cheated. Your Hydra had eleven heads."
+
+"It was a *special* Hydra!"
+
+They headed up the hill bickering, Grover and Ella trailing behind debating the best bribe snacks for Travis and Connor Stoll (Ella: "Sugar-free gummies." Grover: "Nothing sugar-free has ever worked as a bribe in the history of anyone."), and Percy stayed on the dock just a minute longer, feet in the water, feeling the lake hum around his ankles.
+
+Five days ago the sky went black. Today the water was warm and Nico wanted him on his capture-the-flag team.
+
+Both things were true. He was learning to hold them at the same time.
+
+---
+
+The camp laundry room was a stone hut behind the cabins that smelled like steam and lavender and always, faintly, like singed centaur hair from the Incident of Last August that nobody talked about.
+
+Annabeth liked it there because nobody else did. The machines were ancient — half Hephaestus-modified washers that rattled, half big stone basins for hand-washing armor padding — and the folding tables were always warm from the dryers. It was quiet. It was orderly. Socks went with socks.
+
+She was elbow-deep in Thalia's running socks (why did her sister own eleven single socks and zero pairs?) when the door creaked open and Clarisse came in with a laundry bag over one shoulder and a small wooden... bird? in her hand.
+
+They stared at each other.
+
+"Hey," Clarisse said.
+
+"Hey," Annabeth said.
+
+Clarisse dropped her bag on the next table. "Poseidon cabin laundry. Silena says if I don't wash my own stuff she'll embroider my underwear. She would, too. She did it to Percy. It says *Property of Fish Boy* now."
+
+Annabeth laughed before she could stop herself. "That's amazing."
+
+"Right?" Clarisse started sorting, all business. Then, without looking up: "How's your sister?"
+
+Annabeth's hands stilled in the soapy water. "She ate today. A sandwich. On the roof."
+
+"Percy's pocket sandwich?" Clarisse said. "Classic move. He gave me one once when I had the flu and was too stubborn to go to the infirmary. It had sand in it. I ate it anyway."
+
+Annabeth smiled down at the socks. "He told her I... that I left the note because I don't know what to say."
+
+"True, isn't it?" Clarisse said bluntly.
+
+"Yeah," Annabeth admitted. "I keep trying to write her a letter. Like a real one. But every draft sounds wrong. *Dear Thalia, sorry you nearly died* — no. *Dear Thalia, sorry I don't remember our childhood* — worse." She wrung out a sock so hard it squeaked. "Here, she's my sister who raised me, and I can't remember it. In my memories, she's my friend who nearly died protecting me. Either way I owe her everything and I don't know how to—"
+
+"Stop," Clarisse said.
+
+Annabeth blinked. "What?"
+
+"Stop trying to make it even." Clarisse sat on the folding table, swinging her feet. The wooden bird was still in her hand — Annabeth could see now it was a little owl, half-carved, with one wing roughed out and the other still blocky. "Silena told me once — when we found out we were sisters, I tried to, like, earn it. Be a good sister. Share stuff. Braid hair. All that crap. And Silena said, *We're not keeping score, Clarisse. We're just keeping each other.*"
+
+Annabeth stared. "That's... really wise."
+
+"Silena's smart. She reads." Clarisse turned the owl over in her hands, self-conscious. "I'm making this for... it's stupid. For Thalia. For when— Zoe said owls are her— your thing. And Thalia likes... I dunno. Birds that look angry. Owls look angry. So."
+
+It was, Annabeth realized with a sudden tightness in her throat, the most thoughtful thing she'd heard all week.
+
+"She'll love it," Annabeth said honestly. "Can I— when it's done, can I give it to her with you?"
+
+Clarisse shrugged, ears pink. "Whatever. If you want." She hopped off the table. "And hey. For what it's worth. My brother likes you. He's been moping like a kicked hippocamp for five days because you and Thalia are sad. So fix it already. For his sake. He's annoying when he mopes."
+
+Annabeth felt her face go warm. "He's not moping."
+
+"He skipped rocks with extra splashes today," Clarisse said ominously. "That's moping."
+
+She hauled her laundry bag toward the washers, then paused. "Annabeth."
+
+"Yeah?"
+
+"You're a good sister. You don't have to remember every year to care about her now." Clarisse shoved her clothes in and slammed the lid. "Okay. Feelings done. I'm leaving before this gets weird."
+
+She left, wooden owl tucked carefully into her pocket.
+
+Annabeth stood alone among the steam and the warm tables, holding a wet sock, and laughed — a real laugh that turned wet halfway through. She wiped her eyes with her wrist and went back to folding.
+
+That evening, she tried the letter again. She sat on the Zeus cabin steps with the sunset turning the strawberry fields gold and wrote, not a draft, just the thing:
+
+*Thalia —*
+
+*You kept my stupid lava-wall note. So I'm writing a longer stupid note.*
+
+*You told me about singing off-key in our kitchen while the mac and cheese burned. I remember you protecting me on the road in my old life. I wish I could hand you all the years you remember. I can listen when you tell me about them.*
+
+*I'm not trying to manage you. I'm just scared. You almost disappeared last week and I couldn't stand the thought of losing you.*
+
+*Clarisse is carving you an angry owl. Percy is lobbying for you to play capture the flag so you can hit things. Silena saved you a book. Nico wants to give you a skeleton keychain with one arm.*
+
+*We all suck at saying it normal. So: come sit with us at dinner sometime? Not the Zeus table. Ours. The weird combined table we're making on Fridays now. No speeches. Just food.*
+
+*— A.*
+
+She folded it twice and left it on Thalia's pillow. No bullet points. No list.
+
+---
+
+Dinner was the hardest part of the day.
+
+Thalia had managed breakfast alone (barely), lunch on a roof (acceptable), and an afternoon of hammering that left her hands blistered and her head quieter. But dinner meant the whole camp in one pavilion, all the tables full, all the noise and laughter and normalcy pressing in, and her father being toasted with wine poured into a brazier while she stared at her plate.
+
+She almost didn't go. She stood outside the pavilion behind a column for a full minute, spear in hand like she was going to battle instead of meatloaf, watching everyone file in.
+
+Then someone tapped her elbow.
+
+Nico di Angelo stood there in his too-big aviator jacket, holding up the one-armed skeleton keychain with immense ceremony.
+
+"It's for you," he said. "For when you're sad. It works on Bianca. Mostly. Once she cried harder because she said the skeleton reminded her of Dad's temple, but that was a different kind of sad."
+
+Thalia stared down at him. This tiny son of Hades with dirt on his cheek and absolute sincerity in his eyes.
+
+She crouched down so they were eye-level. "Thank you," she said, and her voice only cracked a little. "That's... that's really cool, Nico. One-armed skeleton. He's a veteran."
+
+"He lost it in battle," Nico confirmed. "Against my pillow."
+
+Thalia took the keychain and clipped it to her belt. "He'll protect me."
+
+Nico beamed like the sun coming out. "Really?"
+
+"Really." She stood. "Hey — walk in with me?"
+
+Nico slipped his hand into hers without hesitation, and they walked into the dining pavilion together.
+
+The noise hit like a wave. Thalia guided Nico to the Hades table, ruffled Bianca's hair when Bianca mouthed *thank you* over Nico's head, and then turned to face the long walk to the Zeus table alone.
+
+Except Annabeth was standing at the bottom of the steps, twisting her hands.
+
+"Hi," Annabeth said.
+
+"Hi," Thalia said.
+
+"I left you— did you get—"
+
+"Yeah," Thalia said. "I got it."
+
+A pause. Around them, campers scraped offerings into the fire. Someone laughed. The Apollo table burst into a badly harmonized song about meatloaf.
+
+Annabeth blurted, "You don't have to sit with us. I just meant if you want. No pressure. Clarisse said— I mean—"
+
+"Annabeth." Thalia sighed. She was so tired. Not sleepy-tired — soul-tired, the kind that sat behind her eyes and made everything heavy. But looking at her sister — her little sister, however unfamiliar their shared years had become — twisting her hands and talking too fast because she cared too much, Thalia felt that one-degree loosening from the roof widen, just a fraction.
+
+"I'm not good company right now," Thalia said honestly.
+
+"Okay," Annabeth said. "You don't have to be good company. You just have to be... there. Even if you're quiet. Even if you don't eat. Just... there."
+
+Thalia looked at the Zeus table, empty and echoing. Then at the weird combined table Annabeth meant — the Poseidon table, where Clarisse was arm-wrestling Percy and losing (cheating, probably), where Silena waved at her with a book in her hand, where Ella had saved two seats, where Grover was already asleep in his mashed potatoes, where Zoe had pulled up an extra bench, where Bianca and Nico were migrating over with their plates like it was the most natural thing in the world.
+
+Percy looked up, saw her, and grinned so wide it was ridiculous. He held up a plate. *Saved you a spot,* he mouthed.
+
+Thalia's eyes burned. She blamed the brazier smoke.
+
+"Just dinner?" she asked Annabeth.
+
+"Just dinner," Annabeth promised. "No speeches. No lists. I didn't even bring a notebook."
+
+"Liar. There's a pencil behind your ear."
+
+Annabeth touched it, surprised, and laughed. "Emergency pencil."
+
+Thalia walked with her sister to the loud, crowded, cobbled-together table and sat down. Clarisse immediately shoved a roll at her. "Eat. You look like a ghost."
+
+"Thanks," Thalia said dryly, but she took the roll.
+
+Silena slid a book across the table — *The Odyssey*, bristling with tabs. "Page forty," she said softly. "The part about coming home. I thought... whenever you're ready."
+
+Thalia rested her hand on the cover. "Thanks, Silena."
+
+Ella poured her juice. Grover woke up long enough to say, "Thalia! Roots say hi!" before face-planting again. Zoe kicked Percy under the table when he tried to steal Thalia's dessert. Nico, from three seats down, pointed proudly at the keychain on her belt and announced to anyone listening, "That's mine! I gave it! She's protected now!"
+
+And Annabeth — Annabeth just sat beside her, shoulder to shoulder, not talking, not fixing, just there. Present. Knotted-tight.
+
+Halfway through dinner, Chiron clopped to the center of the pavilion and raised a glass.
+
+"Five days ago," he said, his voice carrying, "this camp was shaken. Literally." A ripple of laughter. "The Hall of the Gods still needs work. Our hearts still need work. But look around."
+
+Thalia looked. At Clarisse slipping extra meat to Silena's plate when she thought no one saw. At Percy teaching Nico to fold a napkin into a boat. At Zoe showing Ella a new word in her notebook. At Bianca leaning her head on her little brother's shoulder. At Annabeth, watching it all with bright eyes and an emergency pencil.
+
+"We remain," Chiron said simply. "Not unchanged. Not unscarred. But together. To what remains — and to what we rebuild."
+
+"To what remains!" the camp echoed, raising cups.
+
+Thalia raised hers with the rest. The juice was too sweet. The bench was too hard. Her little sister's shoulder was warm against hers.
+
+After dinner, as the sky went violet and the torches were lit, the cobbled-together table lingered. Nobody wanted to be the first to leave. Percy pulled out the pillowcase flag and made everyone sign it in waterproof marker — Clarisse signed huge across the middle, Silena drew a tiny trident, Ella drew a feather, Nico drew a skull, Bianca wrote *Hades table was here*, Zoe drew a crescent moon, Grover drooled on it slightly, Annabeth drew a perfect little owl, and Thalia, after a moment's hesitation, signed her name right next to her sister's, with a lightning bolt through the T.
+
+"Friday," Percy announced, holding up the flag. "Poseidon plus friends versus everyone. We're going to destroy them."
+
+"We're going to get destroyed," Clarisse corrected. "But with spirit."
+
+Everyone laughed. Thalia found herself laughing too — rusty, surprised, real.
+
+Later, walking back to the Zeus cabin under a sky full of early stars, Annabeth beside her swinging their joined hands just slightly, Thalia stopped at the top of the hill and looked back. The camp glowed below — windows warm, forge fire flickering, the dark outline of the Hall with its tarp flapping, scaffolding silver in the moonlight. Broken and standing. Both.
+
+"What are you thinking?" Annabeth asked quietly.
+
+Thalia thought about the childhood only she could remember. A rescue she could still barely talk about. A sandwich on a roof. An angry wooden owl still being carved. A one-armed skeleton on her belt. A flag covered in signatures.
+
+"That it's a lot," she admitted. "All of it. I don't know who I'm supposed to be yet. The sister who— the friend who—" She stopped, breathed. "I don't know."
+
+Annabeth squeezed her hand. "You don't have to know tonight."
+
+"No speeches?" Thalia said, raising an eyebrow.
+
+"No speeches," Annabeth promised. "Just... tomorrow we clean the armory. And Friday you get to hit Percy with a foam sword. And Silena's waiting on page forty."
+
+Thalia huffed. "Page forty, huh?"
+
+"She tabbed it and everything."
+
+They stood there a moment longer, the wind cool off the Sound, the pine tree on the hill rustling — not accusing, just there, just a tree.
+
+Thalia reached into her jacket pocket and pulled out the first note, the lava-wall one, now soft from being unfolded and refolded. She held it up.
+
+"Three times this week," she said. "You're slow."
+
+Annabeth grinned, eyes shining. "I'm pacing myself."
+
+"Excuses." Thalia tucked the note back away — both notes now, kept together — and started walking again, sister's hand in hers. "Race you to the cabin?"
+
+"Thalia, your knee—"
+
+"Race you, Annabeth."
+
+They ran — Thalia laughing, Annabeth protesting and then laughing too, both of them breathless and alive under a sky that had not fallen after all.
+
+What remained was this: a broken hall being rebuilt one stone at a time. A table that kept getting bigger. A flag with a drool spot. An unfinished owl. Two notes in a jacket pocket. A keychain veteran standing guard.
+
+Not unchanged. Not unscarred.
+
+But together.
+
+And for tonight, that was enough to start from.
+
+---
+
