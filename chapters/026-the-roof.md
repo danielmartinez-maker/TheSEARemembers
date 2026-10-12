@@ -193,6 +193,90 @@ Then a voice from below said, very clearly: "If you two lovebirds throw a blanke
 ---
 
 
+Earlier that evening, Thalia had gone to the Big House to ask about the cabin roof. The railing around its upper platform had been inspected two months earlier, but the weather since the eclipse had loosened one of the old fittings. She knew about the problem because she'd found the wobble while checking a window with the steward.
+
+"The roof is not an observation deck," Chiron told her.
+
+"I know. I also know Annabeth likes going up there."
+
+"Then perhaps you should tell her to use the approved balcony."
+
+"The balcony has a view of the practice yard. The roof faces the Sound."
+
+Chiron looked at Thalia over the edge of his report. She could almost see him deciding whether this was a request for permission or a confession.
+
+"Why are you asking now?"
+
+"Because I don't want her going up the wrong way when she's upset. She might do it anyway. I'd rather know what part of the roof is actually safe."
+
+He asked the steward to bring the inspection sheet. The old platform on the rear side of Cabin One had a low rail and a section of decking that was meant for access to the gutters, not for children sitting out under the stars. The load-bearing part was sound. The railing was not. A repair request had already been filed.
+
+"Until the fitting is replaced," Chiron said, "nobody should sit against that rail. And the external ladder should be closed after working hours."
+
+Thalia took the report. "If the repair's done tomorrow, could we use it with permission?"
+
+"For a short, supervised period, yes. But I'd rather you treat the balcony as the ordinary place to spend an evening. Rooftops are not improved by secrecy."
+
+Thalia thanked him, then went to find the repair steward. He agreed to test the fitting the following afternoon, provided the weather stayed clear. She offered to help carry tools. He declined the offer because he had already assigned another camper and didn't need an extra pair of hands on the narrow stairs.
+
+She disliked being told she was unnecessary. She went to dinner anyway.
+
+At the pavilion, Annabeth sat opposite Percy and kept looking toward the Sound. They had been trying to find time alone all week, and Thalia could understand why her sister might feel there were too many people listening whenever they spoke. She didn't intend to forbid them ordinary privacy. She intended to make sure the place they chose for it wouldn't be the one Chiron had just warned her about.
+
+After dinner, she found Annabeth in Cabin One, putting a notebook into her jacket.
+
+"Going somewhere?" Thalia asked.
+
+"Just outside."
+
+"With Percy?"
+
+Annabeth looked up. "Maybe."
+
+Thalia could have interrogated her. She had spent enough time doing that since the Oracle incident to recognize the moment before a conversation became an argument about whether Annabeth was mature enough to be trusted.
+
+"The upper platform needs a rail repair," she said. "Chiron's having it checked tomorrow. If you want somewhere quiet, you can use the balcony. I won't follow you out there and ask what you're talking about."
+
+Annabeth considered the offer. "I thought the roof was fine."
+
+"The decking is fine. The rail isn't."
+
+"Thank you for telling me."
+
+Thalia nodded. She had given her sister the information she needed and left the choice with her. That was supposed to be enough. It remained difficult to trust that someone she loved would actually choose the safe thing without Thalia standing over her.
+
+Annabeth went to the window and checked the latch. The habit was familiar enough to make Thalia's chest tighten.
+
+"You don't have to sneak out," Thalia said. "If you're staying within camp and Chiron hasn't posted a curfew restriction, tell me and go. I don't want us to spend another week arguing because I find your empty bed and assume the worst."
+
+Annabeth turned back. "I know why you worry."
+
+"Then help me know where you are."
+
+"All right."
+
+Thalia went to fetch a blanket for the balcony. She could feel how much easier it would be to issue an order, close the door and tell Annabeth the discussion was over. She had spent years protecting a younger sister through circumstances neither of them controlled. The present required a different skill: letting her sister make choices with the information she'd been given.
+
+When Thalia returned, Annabeth was at the desk writing a note.
+
+"What's that?" she asked.
+
+"For you. It says where I'm going and when I'll be back."
+
+Thalia read the page. It named the balcony and the approximate time. It didn't mention Percy, but Thalia knew who her sister wanted to meet and didn't need a written account of their relationship.
+
+"Thanks," she said.
+
+Annabeth looked surprised. "That's it?"
+
+"That's it."
+
+Thalia sat on her bed and began mending a loose strap. She listened to Annabeth gather the blanket, then watched her leave by the main door. It was almost insultingly ordinary. She hoped they could get used to it.
+
+
+
+---
+
 Thalia Grace had known Annabeth was sneaking out approximately ninety seconds after Annabeth started sneaking out.
 
 It wasn't hard. Thalia was a light sleeper on a good night, and a daughter of Zeus during storm season was never a good sleeper. The air got staticky before thunder. Her teeth buzzed. She woke up for every shift in pressure. So when Annabeth's bunk creaked and the window latch clicked and small sneakers whispered across the marble, Thalia cracked one eye open and smiled into her pillow.
