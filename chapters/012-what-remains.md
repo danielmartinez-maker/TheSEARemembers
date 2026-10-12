@@ -80,7 +80,7 @@ Three seats down, Annabeth sat with a book open face-down over her plate and a p
 
 "She's worried," Percy said.
 
-"Everyone's worried," Clarisse said. She said it gruffly, but she was watching Thalia too, with the particular expression Clarisse got when she wanted to punch a problem and knew she couldn't. "She hasn't sparred in four days. Jason says she just runs the lava wall over and over until she gets dizzy."
+"Everyone's worried," Clarisse said. She said it gruffly, but she was watching Thalia too, with the particular expression Clarisse got when she wanted to punch a problem and knew she couldn't. "She hasn't sparred in four days. Nico says she just runs the lava wall over and over until she gets dizzy."
 
 "She's grieving," Silena said softly.
 
@@ -183,7 +183,7 @@ She hated how neat it was. It felt like an accusation.
 
 The door banged open.
 
-"Okay, cabin inspection in twenty," Jason Grace announced, carrying Zoe's clipboard and looking extremely serious for a ten-year-old on a supervised visit. Camp Jupiter had approved three days with his sisters; Zoe was making sure he helped without climbing the scaffolding. Behind him, Zoe Nightshade slipped in, dark hair braided back, Hecate cabin jacket tied around her waist. "Chiron says if we pass, we get moved up the repair rotation and — whoa."
+"Okay, cabin inspection in twenty," Nico di Angelo announced, carrying Zoe's clipboard and looking intensely serious for an eight-year-old who had volunteered to help the Hecate cabin with safety inspections. Behind him, Zoe Nightshade slipped in, dark hair braided back, Hecate cabin jacket tied around her waist. "Chiron says if we pass, we get moved up the repair rotation and — whoa."
 
 He stopped, taking in the room. "What happened in here? A cyclops sneezed?"
 
@@ -193,7 +193,7 @@ Zoe raised an eyebrow and set down the bucket of cleaning supplies she'd brought
 
 "I don't need—" Annabeth started, then caught herself. Thalia's words from last night echoed: *You don't get to manage me, Annabeth.* She swallowed. "Thanks. That would be... good."
 
-Jason gave her a sympathetic look and started on the tall windows, while Zoe flopped down cross-legged next to Annabeth and peered at her list.
+Nico gave her a sympathetic look and started on the tall windows, while Zoe flopped down cross-legged next to Annabeth and peered at her list.
 
 "'Things Broken,'" Zoe read. "Cheerful."
 
@@ -221,9 +221,9 @@ Zoe was quiet for a moment, wringing out a sponge. "You know what my mom told me
 
 Annabeth huffed a laugh despite herself. "Thanks, Zee."
 
-"Anytime, owl brain." Zoe stood and tossed her a rag. "Now come on. Let's clean your sister's armor before Jason has an aneurysm about inspection."
+"Anytime, owl brain." Zoe stood and tossed her a rag. "Now come on. Let's clean your sister's armor before Nico reorganizes the whole inspection schedule."
 
-They worked. Jason dusted banners he couldn't reach without standing on a chair and nearly falling. Zoe sang a Hecate cleaning hymn under her breath that made the sponges work twice as fast — cheating, Annabeth noted with professional admiration. Annabeth scrubbed Thalia's breastplate until she could see her own frowning face in it, refolded the laundry pile, lined up the running shoes.
+They worked. Nico dusted banners he couldn't reach without standing on a chair and nearly falling. Zoe sang a Hecate cleaning hymn under her breath that made the sponges work twice as fast — cheating, Annabeth noted with professional admiration. Annabeth scrubbed Thalia's breastplate until she could see her own frowning face in it, refolded the laundry pile, lined up the running shoes.
 
 She picked up the folded paper from the nightstand — the note she'd left at breakfast — and hesitated. She'd written: *Walked the wall with you 3 times this week. You're faster. — A.* It was stupid. An olive branch made of lava-wall stats.
 
@@ -231,7 +231,7 @@ She refolded it and put it back, smoothing the crease.
 
 The door opened again, and Thalia stood there.
 
-Everyone froze. Jason with a duster in his hand like a white flag. Zoe mid-sponge. Annabeth kneeling by Thalia's bed with a stack of folded shirts in her arms like contraband.
+Everyone froze. Nico with a duster in his hand like a white flag. Zoe mid-sponge. Annabeth kneeling by Thalia's bed with a stack of folded shirts in her arms like contraband.
 
 Thalia looked from face to face, her expression unreadable. Her eyes were red-rimmed. Annabeth wondered if she'd slept at all, or just run the course until dawn again.
 
@@ -247,7 +247,7 @@ And she left.
 
 The door clicked shut.
 
-Jason let out a breath. "Well. That was—"
+Nico let out a breath. "Well. That was—"
 
 "Progress," Zoe said firmly. "She kept the note. She said thanks."
 
@@ -339,7 +339,7 @@ Thalia picked up the pocket sandwich. She unwrapped it, took a bite. Peanut butt
 
 "Will do." Percy stood, brushing off his shorts. He hesitated, then added, "Annabeth left you a note because she doesn't know what to say. Not because she thinks you're fragile. She thinks you're... you know. Thalia."
 
-Thalia looked up at him. This kid — twelve, Atlantean-raised, remembering seventeen years of another life, carrying grief for a mother most of this camp never met — standing on a broken roof with rope on his shoulder and total sincerity on his face.
+Thalia looked up at him. Percy stood on a broken roof with a coil of rope on his shoulder, looking entirely too earnest. He had told Annabeth enough for her to understand that he carried memories Thalia couldn't share. That was not the same as knowing the boy standing in front of her.
 
 "Tell her I kept it," Thalia said.
 
@@ -648,6 +648,3 @@ Not unchanged. Not unscarred.
 But together.
 
 And for tonight, that was enough to start from.
-
----
-
