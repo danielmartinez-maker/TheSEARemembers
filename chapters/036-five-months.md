@@ -1,6 +1,6 @@
 ## Chapter 36: Five Months
 
-*Five months before the first bolt quest in the life they remembered: that was where they thought their return had placed them.*
+*Five months had passed since Percy and Annabeth woke in the changed history. The first bolt quest still belonged to a future that might never arrive on schedule.*
 
 ---
 
@@ -12,7 +12,7 @@ Today the conch didn't blow right away.
 
 He lay there and stared at the ceiling. The cabin smelled like cedar and brine and the lemon soap he used to scrub his sword-calluses. His blanket was kicked down around his knees. A pair of socks — one blue, one gray — hung over the foot of the guest bunk Tyson had used on his forge visit, now empty again. Sunlight came in blue-green through the shell curtains Annabeth had helped him hang recently, after she'd declared his windows "a defensive liability and also depressing."
 
-Five months before a quest. That had been their first estimate, drawn from the life they remembered, not a promise written on this camp's calendar. Percy traced the blanket seam with one finger. He and Annabeth had returned twelve; Thalia was sixteen, and their families had already changed before either of them opened their eyes here.
+Five months of mornings at this camp. They had arrived before the first bolt quest in the life they remembered, but that didn't mean they knew how much time remained before any similar event here. Percy traced the blanket seam with one finger. He and Annabeth had returned in twelve-year-old bodies, and their families had already changed before either of them opened their eyes here. Thalia had been sixteen when they arrived; Percy could no longer rely on the old ages as a calendar.
 
 In the original life, the summer solstice had meant a deadline. A stolen bolt. A war about to start. Here, that solstice was still ahead. They could prepare for what they remembered without assuming every clue would arrive on its old date.
 
@@ -32,7 +32,7 @@ The morning was gold and green and impossibly normal. Mist sat low over the stra
 
 Percy breathed in. Salt. Strawberries. Bacon from the pavilion.
 
-"No war today," he said quietly, testing the words. They felt strange and huge and ordinary all at once. "Just breakfast."
+"No war before breakfast," he told himself. It was a narrower promise, but one he stood a chance of keeping.
 
 Skip splashed behind him like applause.
 
@@ -42,7 +42,7 @@ He grabbed his towel and his battered copy of *The Sea Wolf* that Tyson had sent
 
 Annabeth Grace knew the exact date without looking at the calendar.
 
-She knew it the way she knew the number of steps from Cabin Six to the dining pavilion (one hundred forty-two, one hundred thirty-nine if she cut behind the forge), the way she had learned which floorboard in Cabin One, her present Zeus cabin, creaked loudest at 2 a.m., the way she knew Percy's tells when he was trying not to worry her (left thumb tapping his thigh, jokes getting faster).
+She knew it the way she knew the number of steps from Cabin One to the dining pavilion (one hundred forty-two, one hundred thirty-nine if she cut behind the forge), the way she had learned which floorboard in Cabin One, her present Zeus cabin, creaked loudest at 2 a.m., the way she knew Percy's tells when he was trying not to worry her (left thumb tapping his thigh, jokes getting faster).
 
 She still marked their return on the calendar. It was an anchor for what she and Percy could remember themselves, beside all the older family dates other people had to explain. Each new square meant a day they had actually lived here.
 
