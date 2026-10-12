@@ -841,7 +841,35 @@ She came from patrol with mud up one boot and a loose thread hanging from her ja
 
 "Excellent. A conspiracy with paperwork."
 
-He showed her the drawing.
+He showed her the drawing. He also brought the new public status sheet Zoe had posted, with the finished inspections listed beside the ones still waiting. He wanted Thalia to see that the questions about the mark were being investigated by several people, not just by two children who remembered a different history.
+
+Thalia scanned the list and pointed to a blank beside the exterior drainage hatch.
+
+"Why hasn't anyone inspected this?"
+
+"The repair crew needs the ward team to check the hatch before opening it. They're worried it could be connected to the live protections."
+
+"Then it's not a missing job. It's a job waiting on a safety decision."
+
+"That's what Zoe said."
+
+"She sounds sensible."
+
+"She also keeps telling me to stop guessing who did it."
+
+"She sounds very sensible."
+
+Percy let her enjoy that. He'd brought the page partly because he wanted an argument he could win, and partly because he wanted someone who knew Zeus's habits to tell him whether a divine father's neglect could explain anything about the marks. Thalia was allowed to be angry with her father without turning into his investigator. He knew that, but he needed to remember it while she was in front of him, rather than afterward when Annabeth was asking why he'd been suspicious.
+
+"The other reason I came," he said, "is that the team needs someone to check the upper path during the eclipse. Clarisse can handle the lower route. You've already trained most of the counselors, and Bea said they'd listen to you."
+
+"That's different from asking me to solve your mystery."
+
+"I know."
+
+"Good. Give me the route map."
+
+She took it without a speech. Percy hadn't earned automatic forgiveness, but Thalia was willing to work with him on a task that required her judgment.
 
 Thalia stopped joking when he explained the mark beneath the Oracle's chair.
 
