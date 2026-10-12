@@ -890,4 +890,4 @@ Percy laughed. He tucked the notebook beneath his arm and promised to write when
 
 As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his sisters, lost a practice match and learned how a borrowed cloak was returned. Those were new memories they could share without requiring the old ones to come back.
 
-Triton waved once from the shallows before diving. Percy watched until the water settled, then went to breakfast with his notebook in hand.
+Triton waved once from the shallows before diving. Percy watched until the water settled, then went to breakfast with his new notebook in hand. He intended to write in it before his first lesson of the morning.
