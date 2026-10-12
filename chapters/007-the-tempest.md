@@ -136,9 +136,7 @@ Behind the treeline, the repaired columns of the Hall gleamed in the last light.
 
 There was still time to finish the ordinary work before the weather changed.
 ---
-## Chapter 7: The Tempest
-
-The storm arrived three days later. It had been clear when Percy went into Tempest Hall for morning practice. By the time he finished his first set of trident drills, rain was hammering the high windows.
+The storm arrived the next morning, three days after Thalia's evacuation drill. It had been clear when Percy went into Tempest Hall for morning practice. By the time he finished his first set of trident drills, rain was hammering the high windows.
 
 Percy put down the weapon. The instructor had stopped the training clock and was telling campers to get away from the pool. There was enough static in the room to raise the hair on his arms.
 
@@ -291,90 +289,6 @@ She looked up. "You don't know that."
 "That too." He helped her to her feet. "Come on. Let's get somebody to look at your hands."
 
 ---
-
-They went to the infirmary first. The healer checked Annabeth's pulse, examined her fingers, and made her describe exactly where she'd been standing. Percy had a shallow burn on his forearm, no worse than a scrape, but the healer covered it anyway.
-
-Chiron spoke to them privately before he let them leave.
-
-"Until we understand the ward, nobody practices storm work inside the Hall," he said.
-
-Annabeth sat very straight. "I wasn't practicing. I went there because I saw a camper on the path and the column started making noise."
-
-"I believe you," Chiron said. "That is why I want to know what the ward was doing before you touched it."
-
-"Will Olympus have to be told?"
-
-"I'll report the damaged fixture. That's a matter of camp safety. Your training is a separate matter, and I won't discuss it with a council until I understand what happened."
-
-Annabeth stared at him. "You can't guarantee that someone won't ask."
-
-"No," he said. "I can't."
-
-It was a worse answer than reassurance, but it was honest. Percy found himself liking it.
-
-Thalia was waiting outside the infirmary when they emerged. She had a rain-soaked jacket and a training spear in her hand. Whatever she'd intended to say, the sight of the bandage on Annabeth's fingers stopped her.
-
-"How bad?" she asked.
-
-"No permanent injury," Annabeth said. "The ward caught my charge, and Chiron interrupted it."
-
-"Your charge?"
-
-"I tried to pull away. It got worse."
-
-Thalia looked at Percy. "Were you there?"
-
-"After it started."
-
-"And you went inside?"
-
-"As far as the dry side of the entrance."
-
-"You didn't think to wait for Chiron?"
-
-"He was right there. We worked together."
-
-Thalia took a breath through her nose. Percy expected an argument. Instead she turned back to Annabeth.
-
-"You should have told me you were practicing on your own," she said.
-
-"I wasn't practicing in the Hall. I've been working on the small stuff, outside, with Percy."
-
-"That's what I mean."
-
-"I didn't tell you because I didn't want another conversation about whether I'm allowed to make decisions without you."
-
-Thalia's jaw tightened. "That isn't what this is about."
-
-"It is part of what it's about."
-
-Percy looked at the infirmary door. "I could go."
-
-"Please," Annabeth said.
-
-He hesitated. Thalia looked as though she wanted to object, but Annabeth hadn't asked her. Percy left them alone and sat on the steps where he could hear nothing but the rainfall off the roof.
-
-When Annabeth came out ten minutes later, she was carrying a folded dry jacket.
-
-"How'd it go?" he asked.
-
-"We disagreed."
-
-"That narrows it down."
-
-"She thinks I should practice with her. I think she's right about some of it." Annabeth looked back toward the infirmary. "I just hate that she won't ask before she decides for me."
-
-Percy nodded. He wanted to put his arm around her, but she was still looking at the door.
-
-"You can talk to her again tomorrow," he said.
-
-"I probably will." Annabeth gave him a tired half-smile. "You're not going to tell me she meant well, are you?"
-
-"I like living."
-
-She laughed once, then held out her hand. He took it with his unbandaged one, and they walked toward the cabins.
-
----
 The first warning reached Thalia while she was checking the practice field.
 
 Rain was coming down hard enough that the youngest campers had already abandoned their archery lesson. Someone had left the target cloths spread across a bench, and she was trying to keep the canvas from blowing into the muddy path when the horn sounded.
@@ -522,6 +436,90 @@ At the infirmary door Annabeth reached toward her with one trembling hand.
 Thalia looked at the fingers, at the little red marks across the knuckles, and managed to answer without shouting.
 
 "Let's get you checked before we decide that."
+---
+
+They went to the infirmary first. The healer checked Annabeth's pulse, examined her fingers, and made her describe exactly where she'd been standing. Percy had a shallow burn on his forearm, no worse than a scrape, but the healer covered it anyway.
+
+Chiron spoke to them privately before he let them leave.
+
+"Until we understand the ward, nobody practices storm work inside the Hall," he said.
+
+Annabeth sat very straight. "I wasn't practicing. I went there because I saw a camper on the path and the column started making noise."
+
+"I believe you," Chiron said. "That is why I want to know what the ward was doing before you touched it."
+
+"Will Olympus have to be told?"
+
+"I'll report the damaged fixture. That's a matter of camp safety. Your training is a separate matter, and I won't discuss it with a council until I understand what happened."
+
+Annabeth stared at him. "You can't guarantee that someone won't ask."
+
+"No," he said. "I can't."
+
+It was a worse answer than reassurance, but it was honest. Percy found himself liking it.
+
+Thalia was waiting outside the infirmary when they emerged. She had a rain-soaked jacket and a training spear in her hand. Whatever she'd intended to say, the sight of the bandage on Annabeth's fingers stopped her.
+
+"How bad?" she asked.
+
+"No permanent injury," Annabeth said. "The ward caught my charge, and Chiron interrupted it."
+
+"Your charge?"
+
+"I tried to pull away. It got worse."
+
+Thalia looked at Percy. "Were you there?"
+
+"After it started."
+
+"And you went inside?"
+
+"As far as the dry side of the entrance."
+
+"You didn't think to wait for Chiron?"
+
+"He was right there. We worked together."
+
+Thalia took a breath through her nose. Percy expected an argument. Instead she turned back to Annabeth.
+
+"You should have told me you were practicing on your own," she said.
+
+"I wasn't practicing in the Hall. I've been working on the small stuff, outside, with Percy."
+
+"That's what I mean."
+
+"I didn't tell you because I didn't want another conversation about whether I'm allowed to make decisions without you."
+
+Thalia's jaw tightened. "That isn't what this is about."
+
+"It is part of what it's about."
+
+Percy looked at the infirmary door. "I could go."
+
+"Please," Annabeth said.
+
+He hesitated. Thalia looked as though she wanted to object, but Annabeth hadn't asked her. Percy left them alone and sat on the steps where he could hear nothing but the rainfall off the roof.
+
+When Annabeth came out ten minutes later, she was carrying a folded dry jacket.
+
+"How'd it go?" he asked.
+
+"We disagreed."
+
+"That narrows it down."
+
+"She thinks I should practice with her. I think she's right about some of it." Annabeth looked back toward the infirmary. "I just hate that she won't ask before she decides for me."
+
+Percy nodded. He wanted to put his arm around her, but she was still looking at the door.
+
+"You can talk to her again tomorrow," he said.
+
+"I probably will." Annabeth gave him a tired half-smile. "You're not going to tell me she meant well, are you?"
+
+"I like living."
+
+She laughed once, then held out her hand. He took it with his unbandaged one, and they walked toward the cabins.
+
 ---
 
 At breakfast the next morning, Chiron addressed the camp before anyone could turn the incident into a story of divine punishment.
