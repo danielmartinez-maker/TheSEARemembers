@@ -1,6 +1,80 @@
 ## Chapter 10: The Daughter of Hecate
 
-Zoe Nightshade had missed breakfast. Percy had noticed the empty place at the Hecate table before he noticed his own cold porridge.
+Zoe Nightshade had been awake since before first light, looking for the ledger someone had moved from the Hecate cabin without signing the borrowing sheet.
+
+She found it beneath a stack of old field guides in the library's east alcove. The book was bound in cracked green cloth, and its corners were soft from being carried in damp bags by campers who had been told not to get it wet. The name on the inside cover belonged to an assistant who had worked on the Hall's original foundations. Someone had crossed it out and written a newer name beneath, with a date that made Zoe suspicious enough to fetch another volume for comparison.
+
+The handwriting matched. That was interesting, and not nearly enough.
+
+She took both books to the long table under the window and copied the dates into a clean notebook. Three years ago, the Hall's custodians had logged an inspection after a minor ward surge. The report included a sketch of a mark under the northern column. In the margin, a later hand had written *repair complete*. No signature followed. The same mark, or something close to it, appeared in an older drawing associated with the Big House attic. Neither entry identified the person who had installed the bronze.
+
+Zoe knew what Percy would do when he saw the drawings. He'd ask whether they proved a connection. He'd look for a person to blame, and she'd have to remind him that a matching symbol was not a signature. She was tired of being the person who repeated that distinction. It was still her job to make it.
+
+A knock came against the library's inner door. Nico stood there holding a folder with the same careful grip he used for his most valuable Mythomagic cards.
+
+"Chiron said you'd want these."
+
+"What are they?"
+
+"Photocopies of the maintenance transfer sheets. I found the requests, but not the completed returns."
+
+Zoe took them. "Did you check the catalog?"
+
+"I checked three times. The archivist said if I check a fourth time she'll make me file the entire old correspondence series."
+
+"She knows you would enjoy that."
+
+Nico considered the accusation. "Probably."
+
+He set the folder beside the ledger. Zoe moved her mug out of the way and made space for him to sit.
+
+"The seal's drawing is only evidence that somebody recorded the design," she said. "If we want to learn who installed it, we need an actual work order or the testimony of someone who was there. If we want to know what it does now, we need an inspection we can repeat safely."
+
+Nico opened the first folder. "Do you think the eclipse will make it worse?"
+
+"I think the notation from the last eclipse is worth taking seriously. That doesn't mean the same thing will happen."
+
+"That's what Chiron said."
+
+"Then he and I agree on one thing."
+
+Nico glanced at the chalk circle she'd drawn on a scrap of black paper. "Could you test the pattern without going near the Hall?"
+
+"A simplified pattern, perhaps. Not the actual ward. I don't know what it's connected to, and anything that holds pressure may have been designed to react when it's copied."
+
+His eyes widened. "It can tell when you draw it?"
+
+"Some can. So we won't draw a complete working version. I want to compare the geometry with diagrams that are known to be inactive."
+
+Nico leaned closer. He had a surprisingly good eye for differences in handwriting and proportion, although he still tended to think every unfinished task could be solved by keeping a better list.
+
+"Then I'll find the older notebooks."
+
+"You can find them with the archivist present," Zoe said. "You've already been warned twice about borrowing the restricted ledgers."
+
+"Technically I was warned once and asked a pointed question the second time."
+
+"You're not making a persuasive case."
+
+He grinned and went. Zoe watched him leave with the photocopies folded beneath one arm, then turned back to the table.
+
+The Hecate cabin had always been full of people who could make a small room feel large. One girl could darken a lamp without touching it. A boy named Tomas could make a reflected image appear half a second later than it should. Zoe's own talent lay in recognizing when someone had built a spell out of ordinary pieces and hidden the joins under ornament. It was useful for repairs and much less impressive at demonstrations, where everyone wanted to see a door open into nowhere.
+
+She had once hated that difference. Her mother was a goddess of crossroads and magic. Surely Zoe ought to have been able to do something that made younger campers gasp. Instead she could spend half an afternoon studying a cracked stone and tell everyone the repair had been done in the wrong order.
+
+After the storm she was grateful for the talent, even when it left her with more questions than answers.
+
+At the far end of the table, an unopened letter lay beneath her field notebook. It was from an older cousin who'd offered to let her spend the winter outside camp. Zoe had been planning to answer before the Hall disaster. She wanted to go. She also had a responsibility to the younger Hecate campers who trusted her explanations, and now Chiron was asking for her expertise almost every day. She didn't know whether she could leave until the ward was secure.
+
+The thought irritated her, partly because she'd always been quick to tell Percy and Annabeth that they didn't have to carry every problem alone.
+
+She unfolded the letter and began an answer. She was halfway through the first paragraph when she heard Percy's footsteps outside. He moved like a boy trying to reach an answer before somebody shut a door, and she guessed he was carrying the same copied mark he'd shown Chiron.
+
+Zoe set the letter aside. She would finish it after lunch, even if nobody stopped asking questions before then. She refused to spend another season being useful enough that she forgot she'd meant to have a life beyond the library.
+
+---
+
+Percy had noticed Zoe's empty place at the Hecate table before he had noticed his own cold porridge.
 
 Now he sat opposite her in the library, with the mark from the Oracle's chair drawn between them.
 
@@ -124,7 +198,7 @@ Percy sat down and told her what Zoe had shown him.
 
 At the mention of the eclipse, her toes stopped moving.
 
-"Three days."
+"Two days."
 
 "A possible surge. That's all we know."
 
