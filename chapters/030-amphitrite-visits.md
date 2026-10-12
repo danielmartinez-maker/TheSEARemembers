@@ -666,4 +666,8 @@ As they trudged up the hill together, Annabeth leaned her head against his shoul
 
 "You are," Clarisse said from behind him, ruffling his hair hard enough to hurt. "Don't forget it, Barnacle Breath."
 
-"I won't," Percy promised, and meant it, all the way up the hill and into the glowing cabin and into dreams of clear water and family dinners that tasted like honey and salt.
+"I won't," Percy said.
+
+At the steps of Cabin Three he stopped to hang the shell bag Amphitrite had left for his laundry. Clarisse tested the new cloak for warmth and accused him of getting the better present. Silena was already planning where to put the *Tessera* board.
+
+Percy left Amphitrite's blanket folded on his bunk until he had washed the sand out of his hair. When he came back, it was still there. He put it over the bed and wrote the first line of a letter to her, about the game and the visit, leaving the other life out of it.
