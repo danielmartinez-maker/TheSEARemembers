@@ -490,6 +490,12 @@ They walked up the hill together, five abreast where the path allowed: Clarisse 
 
 Annabeth laughed, tilted her face to the evening sky — blue fading to gold, first stars pricking through, clouds piled like marble blocks on the horizon — and felt the two halves of herself settle, builder and storm, craft and power, memory and present, into something that held.
 
-Like a good joint. Heated, joined, cooled. Stronger together than apart.
+Annabeth wiped the last smudge of soot from the bronze owl's wing. Percy held it out at arm's length, checking whether the little joint moved when the wind caught it.
 
-Behind them, the forge glowed on, orange and steady, making and mending for the whole camp. Ahead, dinner waited. The little bronze owl rode in Percy's hands, wings spread, ready for any weather.
+"It does," he said.
+
+"Of course it does."
+
+He tipped the bird toward her. Its wings opened a fraction, then settled back into place.
+
+She wanted to make three changes to the design before anyone saw it again. Percy wanted dinner. She let him win that argument because she was hungry too, and they walked back with the owl packed safely in his hands.
