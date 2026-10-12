@@ -272,6 +272,119 @@ Percy felt his own eyes burn. He stood and hugged both his sisters at once, arms
 
 "Damn right," Clarisse said, and kissed the top of his head hard. "Don't die, Kelp Head. I will kill you."
 
+
+---
+
+The question of Thalia being a guardian lasted longer than her victory had made it seem.
+
+Chiron called the four travelers back to the map after Clarisse and Silena went outside for air. The ping-pong table was covered with roads in blue ink, folded schedules, and three empty circles he had drawn on a sheet of paper to represent the named questers.
+
+Thalia pointed at the circles. "You could draw a fourth."
+
+"That would not change the Oracle's words," Chiron said.
+
+"I know. I'm saying it would make your diagram accurate."
+
+Grover was staring at the map with an expression Percy recognized from whenever their satyr friend smelled a monster and could not decide which direction it was coming from.
+
+"Could I say something?" he asked.
+
+Everybody turned. Grover fidgeted with the reed pipes tucked into his belt.
+
+"If the Oracle says three, and we take four, isn't that exactly the sort of thing we tell campers not to do when we teach them old quest stories?"
+
+Thalia's face reddened. "I'm not planning to steal anybody's place."
+
+"I know. But if a fight happens, and you win it for us, then maybe we're not the three who did what the prophecy said."
+
+Annabeth leaned forward.
+
+"And if she doesn't help when one of us is about to die, we're being ridiculous about the wording."
+
+"Also true," Grover said faintly. "I was hoping there'd be an easier answer."
+
+Chiron set down the pen. Percy had noticed that adults sometimes looked delighted when a child found a problem, as though finding the problem were the same as fixing it. Chiron didn't. He looked tired.
+
+"There is no rule saying a fourth companion immediately cancels a quest," he said. "There is also no guarantee that the Oracle's number will have the meaning we first assign it. A guardian may travel near a party without taking charge of the tasks named for that party. But once danger comes, all of you will have to decide what your obligations require."
+
+"So you can't give us instructions that make it safe," Percy said.
+
+"I can give you sensible precautions. I can't promise you a safe interpretation of a prophecy."
+
+Thalia glanced at her sister. "Fine. Precautions. Start with the obvious: I'm not letting anyone separate Annabeth from the group in a fight."
+
+"Good," Chiron said. "But do not interpret every difference of opinion as a reason to take command of her."
+
+Thalia looked as though he'd accused her of something appalling.
+
+"She's twelve."
+
+"So is Percy," Annabeth said. "Nobody keeps saying his age every time he picks up a weapon."
+
+"Believe me," Percy muttered, "Clarisse does."
+
+Annabeth didn't look away from Thalia.
+
+"I want you with us," she said. "I really do. But I need you to be my sister, not a second commander who can overrule me whenever you're frightened."
+
+Thalia swallowed.
+
+"I'm frightened all the time about you," she answered, very quietly.
+
+Percy felt a little ashamed of how often he'd heard that sentence without noticing what it cost her to say it.
+
+Annabeth reached over the map and turned the pencil between her fingers.
+
+"Then if you think I'm doing something stupid, say so. I'll listen. Don't decide that because you're older you get the last vote."
+
+Thalia considered. "What if it's a monster coming at you with a sword?"
+
+"Then hit it. I'm not asking you to schedule an argument while it swings."
+
+Grover made a helpless little noise, half laughter, half relief.
+
+Percy thought they were finally agreeing on something, but Chiron held up a hand.
+
+"The protections Zeus withdrew yesterday matter," he said. "There will be no eagle escort assigned to you, and you should not count on the court's aid if weather turns dangerous. That includes you, Thalia. Your own talents are yours to train and govern; they are not a substitute for an escort the god has explicitly refused."
+
+Thalia nodded once. Percy knew she hated hearing her father's sanction turned into a practical travel constraint, but it was one. Chiron wasn't inventing it.
+
+"We'll use roads with places to shelter," Annabeth said. She looked at Percy. "Can you handle water if we get stuck without a storm escort?"
+
+"Sometimes. Depends how much there is."
+
+"Good. That's what I'll write. Sometimes."
+
+"That's not very reassuring," Grover said.
+
+"Would you rather have me promise it always works?"
+
+"No. Please don't."
+
+Chiron marked the map at several public rest stops but didn't hand it over yet.
+
+"Tomorrow morning you will receive the formal route guidance and the drachmas available to the camp. Tonight your job is to pack for what you can carry, not what you wish you could carry. A bag too heavy to run with can turn a small problem into a fatal one."
+
+Grover immediately began to look guilty about his backpack.
+
+"And you," Chiron said to him, "must decide when the wild is giving you information and when fear is merely making every noise seem dangerous."
+
+Grover nodded. "I'm not always good at telling."
+
+"That is precisely why you should tell the others what you sense without declaring certainty."
+
+Percy watched them. Thalia was angry, Annabeth was thinking, and Grover looked as if he had been assigned a final exam on a subject nobody had taught him. None of them seemed especially like the heroes of a prophecy. That made the meeting feel more useful.
+
+He placed his finger between the three drawn circles.
+
+"I don't want to spend the whole trip counting whether we're three or four," he said. "I want to know who needs help and who's able to give it. If the prophecy has a problem with that, I guess we'll find out."
+
+Chiron looked at him for a long time. Then he folded the paper with the circles and put it away.
+
+"That," he said, "may be the most responsible answer available to us."
+
+Thalia gave Percy a look that was half gratitude and half irritation. He suspected she wasn't done arguing about command. Neither was Annabeth. But they could leave camp with the disagreement spoken aloud rather than buried beneath everyone's attempts to sound brave.
+
 ---
 
 Chiron dismissed them to prepare. Departure at dawn — not today, tomorrow, to allow packing, blessings, and messages to Olympus. One day to get ready for the road west.
