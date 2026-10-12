@@ -290,6 +290,25 @@ Nico tapped the ledger. "The Hall custodian might have those notes."
 
 She gave him a flat look. "You are enjoying this far too much."
 
+
+They took their questions to the Hall office. The custodian was unavailable, but the assistant promised to forward their request and showed them which catalog numbers referred to the original construction survey. It was a small success. The assistant also explained that the older transcripts were being checked for water damage and that access would be restricted until the work was finished.
+
+Percy wrote down the dates.
+
+When they left, Annabeth was walking faster than he was.
+
+"You're upset," he said.
+
+"I'm frustrated. There are answers in those files, and every person we ask has another reason why we can't see them."
+
+"Some of those reasons are good. The archive isn't a puzzle box somebody left for us to solve. There are people trying to keep it from falling apart."
+
+"I know. I hate that I know. But I still don't like waiting."
+
+He didn't tell her to be patient. She'd heard more than enough of that word since the fever, and he wasn't going to turn it into an argument about whether she had a right to want answers.
+
+They walked back toward the cabins with an appointment request, two new names and a list of catalog entries. Percy counted those as real progress. Annabeth looked at the Hall's sealed doors as though she was measuring the distance between the information they needed and the time somebody would finally let them touch it.
+---
 While Nico copied the last catalog number, a sound came from the yard outside: a sharp metallic clatter followed by several voices speaking at once. Percy went to the doorway. One of the replacement racks had toppled against the fence, scattering practice shields into the dirt. A boy from the Hermes cabin was standing with both hands raised, as though the rack might accuse him personally.
 
 Nobody was hurt. Percy established that before he went to help lift the frame.
@@ -464,23 +483,6 @@ Silena handed him a final sheet. "Take this to the workshop. It's the list of to
 
 "You were useful," she said. "There's a difference."
 
-They took their questions to the Hall office. The custodian was unavailable, but the assistant promised to forward their request and showed them which catalog numbers referred to the original construction survey. It was a small success. The assistant also explained that the older transcripts were being checked for water damage and that access would be restricted until the work was finished.
-
-Percy wrote down the dates.
-
-When they left, Annabeth was walking faster than he was.
-
-"You're upset," he said.
-
-"I'm frustrated. There are answers in those files, and every person we ask has another reason why we can't see them."
-
-"Some of those reasons are good. The archive isn't a puzzle box somebody left for us to solve. There are people trying to keep it from falling apart."
-
-"I know. I hate that I know. But I still don't like waiting."
-
-He didn't tell her to be patient. She'd heard more than enough of that word since the fever, and he wasn't going to turn it into an argument about whether she had a right to want answers.
-
-They walked back toward the cabins with an appointment request, two new names and a list of catalog entries. Percy counted those as real progress. Annabeth looked at the Hall's sealed doors as though she was measuring the distance between the information they needed and the time somebody would finally let them touch it.
 ---
 Annabeth was sitting on the floor of Cabin One when Thalia came back from the evening patrol.
 
