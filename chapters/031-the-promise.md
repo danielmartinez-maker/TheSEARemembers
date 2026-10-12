@@ -508,7 +508,4 @@ Not today. Not tomorrow. But someday, they'd have keys to their own front doors 
 
 The sun rose higher. Ella sighed in her sleep. Grover started softly playing — a morning song, bright and simple. Silena hummed along. Thalia closed her eyes and tipped her face to the light. Clarisse stood, stretched, and offered Thalia a hand up. Annabeth leaned her head on Percy's shoulder.
 
-And the sea remembered, and the sky — for once — did not forget, but held them all in blue and gold.
-
----
-
+Percy looked around the table once more, at the people who had made promises he could ask them to keep. Then he reached for the last piece of bread before Clarisse could take it.
