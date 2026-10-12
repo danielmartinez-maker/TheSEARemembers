@@ -521,6 +521,115 @@ Grover stood slowly, still dazed, still holding the leaf that had wrapped Junipe
 
 "Okay," he said. "Let's practice."
 
+
+---
+
+They had barely made it past the strawberry fields when Grover stopped walking.
+
+Percy had been explaining why a song with a donkey noise in it was memorable, if not necessarily romantic. Annabeth was arguing that memorable was not the quality they were aiming for. Ella, who had been riding on Percy's shoulder, was conducting an imaginary orchestra with a twig.
+
+Grover stared toward the irrigation ditch.
+
+"That's wrong," he said.
+
+Percy followed his gaze. The little channel ran beside the north rows, where the berry plants were thickest. One of the wooden sluice boards had slipped out of its groove. Water was flowing over the bank, cutting a pale trail through the earth toward a stand of young maples. The nearest strawberry plants drooped under the mud.
+
+"It's a leak," Percy said.
+
+"I know what a leak looks like." Grover set his pipes carefully in the grass. "That's the channel I cleared yesterday. It wasn't doing that at noon."
+
+Annabeth crouched by the first broken board. "The retaining peg's come loose. Someone could put it back."
+
+Grover's face tightened. "Someone was supposed to check it before dinner."
+
+"You?" Percy asked.
+
+"Me." Grover rubbed a hand over his horns. "Chiron gave me the north rows this week. I got distracted."
+
+Percy looked toward the creek where they were supposed to practice. He wanted to say it was no big deal. It wasn't a monster, or an army, or even a particularly impressive flood. He could call the water back into its channel in a second.
+
+But the mud was already moving toward the maples, and Grover was staring at it with the same dreadful concentration he'd given the undelivered note.
+
+"We can fix it," Percy said.
+
+"I can fix it," Grover answered. He sounded tired, not angry. "You can help if you want."
+
+Annabeth found the missing peg half buried in the bank. Its head had split. She held it up. "This won't last another hour."
+
+Grover examined it, then took a small knife from his belt and cut a fallen branch from the ground. It was already dry, the bark loose. He shaved it into a wedge with swift, practiced strokes.
+
+Percy had seen Grover trip over his own hooves in an empty hallway. He'd also watched him guide injured campers through woods nobody else could navigate. It was easy to remember the first version of him when Grover was embarrassed. Percy sometimes forgot about the second.
+
+"What do you need me to do?" Percy asked.
+
+"Keep the channel slow while I put the board back. Slow, not dry. The lower rows still need water."
+
+Percy crouched at the edge and put one hand over the ditch. The current eased. He didn't pull the water away. Grover had been exact about that, and he had a reason. The soil downstream was cracked in places. Those plants were thirsty.
+
+Annabeth held the board at the proper angle. Grover tapped his wedge into the groove with the heel of his knife. Once it seated, he packed the gap with clay and a handful of pebbles, then built a shallow ridge to keep the next surge from spilling onto the maples.
+
+"That'll hold until I can get another board," he said.
+
+Percy let the flow resume. Water pressed against the wood. The wedge stayed in place. The channel curled around the last corner toward the berries.
+
+It wasn't finished, though. Grover walked the length of the affected row, checking the roots of every plant that had been washed bare. Some he covered with fresh soil. Two he carefully lifted and replanted on higher ground. At the far end he found a young strawberry vine trapped under a broken slat and freed it.
+
+By the time he returned, the knees of his jeans were wet and the sky had turned orange over the Sound.
+
+"You're missing practice," Annabeth said.
+
+"I know." He bent to pick up his pipes. "But those plants wouldn't have waited until morning."
+
+"Juniper would understand," Percy said.
+
+Grover looked at him.
+
+Percy heard how it had sounded. He'd managed to make Grover's work into another part of impressing Juniper, another move in their ridiculous plan. He tried again.
+
+"No. That's not what I meant. I mean, you would've done that if you'd never met her."
+
+Grover studied the muddy bank. "Yeah. I would."
+
+The wind picked up, and the leaves of the young maples rubbed together above them. It was a thin, ordinary sound. Ella lifted her head and listened with great seriousness.
+
+"Trees are satisfied," she announced.
+
+"I don't speak maple," Grover said.
+
+"Not with those ears," Ella agreed, which wasn't fair to him at all.
+
+He laughed. Percy was relieved to hear it.
+
+They followed the creek uphill. Annabeth carried the spare board they'd found beside the ditch, because she wanted to measure it against the broken one tomorrow. Percy carried Ella's twig, which had been promoted from conductor's baton to a weapon against imaginary owls. Grover carried his own pipes.
+
+Near the practice rock he slowed again.
+
+"Can I ask something without all of you making it a thing?" he said.
+
+"Probably not," Percy said. "But you can ask."
+
+"If Juniper doesn't like the song, do I still have to play it for her?"
+
+Annabeth stopped. "No. Why would you?"
+
+"Because everybody worked on it. And I said I would. And she was nice about the note." Grover shifted the pipes against his palm. "I don't want her to think she owes me a reaction just because I practiced."
+
+Percy sat on the grass. "Then you play it because you want to share it. You don't play it for an answer."
+
+Grover looked from him to Annabeth, making sure there wasn't a second rule he'd missed.
+
+"You can stop halfway through," Annabeth added. "You can play something else. Or talk. The point isn't to make the plan work."
+
+"The point is to see her," Grover said.
+
+"Yeah."
+
+He put the pipes to his mouth and played a few tentative notes. The last note still sounded like an unhappy donkey, but the beginning made the leaves beside the stream shiver.
+
+Percy leaned back on his elbows and listened. He no longer felt in charge of Operation Help Grover.
+
+That seemed to be an improvement.
+
 ---
 
 They practiced until the fireflies came out.
