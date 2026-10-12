@@ -200,6 +200,102 @@ They were supposed to remain at the pavilion.
 
 The plan had been clear: Zoe and Chiron would inspect the ward from outside the Hall, and the children would stay out of reach.
 
+By the second count, the pavilion was considerably less orderly than it had been when the campers first sat down. Several younger children had traded places to sit beside friends from other cabins, a decision that made sense to them and made the counselors' lists useless. Silena moved between the rows with a clipboard, asking children to return to their assigned groups without treating the mistakes as acts of rebellion.
+
+Percy helped find Milo, who had squeezed behind a bench to retrieve a fallen snack bag. The boy looked up from under the table with an expression of exaggerated guilt.
+
+"I didn't mean to move," he said.
+
+"I know. Come out before Clarisse counts the table as one of her missing campers."
+
+Milo crawled back into view and brushed dust from his knees.
+
+"Is the sky supposed to look green?"
+
+Percy looked out past the roofline. The ordinary bright blue had begun to flatten, and the shadows cast by the pavilion's columns had grown unexpectedly sharp. He remembered another eclipse from a school trip in his first childhood, when Sally had made him use proper viewing glasses and he'd complained because he wanted to see what everyone was talking about. He had not known then how long he would remember her standing beside him, holding the cardboard frames against her own face.
+
+"Different light can make colors look strange," he said. "We still don't stare at the sun. Chiron's showing everyone the safe way to watch."
+
+Milo looked uncertain. "What if the sun doesn't come back?"
+
+"Then Mr. D will be extremely annoyed about having to serve dinner in the dark."
+
+The boy smiled, though Percy suspected the joke was more useful to him than an explanation of orbital mechanics would have been.
+
+Silena arrived beside them. "Milo, Cabin Eleven is at the third bench. I need you there so we know where you are."
+
+He went without protest. Percy watched him count the benches under his breath, then stop beside the right counselor.
+
+"We should have practiced the group count once more," Silena said.
+
+"We've practiced it every day this week."
+
+"I know. I keep thinking about the child we almost missed during the storm."
+
+Percy looked at her. She had been dealing with camp supply requests since dawn, and the worry had left dark shadows under her eyes. He wanted to say something reassuring. Instead he pointed to the clipboard.
+
+"What can I do?"
+
+"Walk the end of the pavilion. If any counselor has an uncertain count, bring them to me before the next check. Don't improvise a new route."
+
+He obeyed. He found two campers who had been counted twice and a girl whose counselor thought she'd gone to the infirmary. She was sitting by the kitchen steps, helping a harpy gather napkins that had blown into the grass. Percy brought her back and corrected the form with the counselor.
+
+The work took a few minutes and mattered more than he'd expected. Every child accounted for was one less person someone would have to search for if the Hall became dangerous.
+
+At the Athena table, Nico had brought a stack of Mythomagic cards and was using them to distract a nervous pair of campers from the changing light. He was explaining why one creature's attack rating ought to be higher when the shadow fell across its miniature.
+
+"That's not how eclipses work," Percy said.
+
+"It's how my tournament rules work."
+
+"That's a separate and more powerful law of nature."
+
+Nico nodded as though Percy had finally grasped something obvious. The younger children laughed, and Percy left them arguing about who should get the next turn.
+
+Across the aisle, Annabeth was copying the final route changes onto a board. She looked up when he passed.
+
+"Any missing?"
+
+"Not anymore. Silena has the list. The north row had an extra camper counted twice."
+
+"Good. The upper-bank bridge is closed for the moment. Bea wants everyone on the pavilion route if they have to move."
+
+"I heard."
+
+Annabeth lowered her voice. "Chiron said the ward team is outside the Hall. Zoe has the observation board, and Mara's carrying the isolation frame. If something happens, we wait for their instructions."
+
+"That's the plan."
+
+"And if I tell you to stay put, don't decide you're helping by getting closer."
+
+Percy looked toward the Hall. "The same goes for you."
+
+She considered that, then nodded. The agreement lacked the grandeur of the promises they'd made in other lives. It would be harder to keep precisely because it depended on what they did in the next hour, not what they believed themselves capable of surviving.
+
+Thalia came down the pavilion steps and checked the last row of cabin identifiers. She paused beside Annabeth and straightened the cord on her jacket.
+
+"Everyone accounted for?" she asked.
+
+"Silena's verifying the final count," Percy said.
+
+"Good." Thalia looked at her sister. "And you?"
+
+"At the pavilion. Where I was assigned."
+
+Thalia seemed to want to say more. Annabeth waited, eyes on the board. In the end her sister touched the corner of the map and pointed to a correction Annabeth had made that morning.
+
+"That's the right crossing," Thalia said. "Bea checked it."
+
+"I know. She signed here."
+
+Their exchange was nothing like the fights they'd had about the Oracle, but Percy could hear the effort both were making not to turn a practical question into an argument. Thalia checked the cord one last time and returned to the steps.
+
+The light dimmed further. A hush moved across the campers, then broke into excited questions. Chiron asked everyone to remain seated while the viewing glasses were passed along. Mr. D complained that he had never seen a generation so determined to injure its eyesight on a perfectly ordinary astronomical schedule.
+
+Percy was about to sit beside Clarisse when the first sign of trouble came. The vibration was slight enough that he thought someone had kicked the bench. Then the metal spoon beside his bowl began to tremble. He put a hand against the table and felt a rhythm beneath the wood that did not match anyone's footsteps.
+
+He caught Annabeth's eye across the pavilion. She had felt it too. She did not rise. She closed the notebook, set it under her arm and turned toward Chiron.
+
 Then a sound came from the far end of camp.
 
 Not thunder. A high metallic note, sustained until the bowls on the table began to tremble.
