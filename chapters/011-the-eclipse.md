@@ -1053,4 +1053,8 @@ She smiled.
 
 They stayed until Thalia called them to eat. Then Annabeth took his hand and pulled him up, careful of his sore wrist. The unknown part of their lives was still unknown. When they reached the others, Clarisse handed Percy one sandwich and informed him that he'd earned exactly half of her forgiveness for missing his assigned place during the evacuation. He offered to carry the empty food basket back to the pavilion. She gave him the heavier one instead.
 
-Silena made room for Annabeth beside Thalia. Annabeth took the place, shoulder touching her sister's, and nobody made a speech about it. There were five of them eating late on the shore. The Hall would still need repairs in the morning.
+Silena made room for Annabeth beside Thalia. Annabeth took the place, shoulder touching her sister's, and nobody made a speech about it. There were five of them eating late on the shore. The Hall would still need repairs in the morning. The route board outside the pavilion would need corrections, Silena's used supplies would need replenishing, and Chiron would expect the ward team to explain every piece of metal it had removed from the floor. Nothing about the eclipse had given them permission to stop asking ordinary questions carefully.
+
+Percy looked at the people sharing the late meal and remembered the moment he'd left his assigned place. Clarisse had been right to be angry. Silena had been right to expect him to keep a promise he could actually keep. He could spend the next week making arguments about why he'd needed to be inside the Hall, or he could show up for the next drill and do the work he'd been given. The second choice wouldn't settle the first, but it would mean his sisters didn't have to guess what to expect from him.
+
+When Annabeth asked whether he was listening, he nodded and passed her the bread.
