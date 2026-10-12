@@ -1,310 +1,227 @@
 ## Chapter 7: The Tempest
 
-The storm arrived three days later, on a morning that began deceptively fair.
+The storm arrived three days later. It had been clear when Percy went into Tempest Hall for morning practice. By the time he finished his first set of trident drills, rain was hammering the high windows.
 
-First a distant grumble — bass and rolling, thunder traversing vacant heavens, felt more in the sternum than heard. Then wind rising, lashing the lakeside trees into frenzy, pine needles streaming sideways, and clouds massing northward, black-bellied with rain, their undersides bruised green. The naiads vanished from the lake. Birds went silent all at once, as though a hand had closed over them.
+Percy put down the weapon. The instructor had stopped the training clock and was telling campers to get away from the pool. There was enough static in the room to raise the hair on his arms.
 
-Percy was working the trident in Tempest Hall when impact came — one of the weighted trainers balanced for younger campers — and at the inaugural lightning-split, every hair down his forearms lifted.
+A boy near the doors pointed outside. "The Hall's doing something."
 
-Unnatural, this tempest.
+Percy looked.
 
-He sensed it the way he sensed current, the way his father's signature resonated through water — a tug behind the navel, briny and insistent. This storm bore authorship. A source. And proximity. The hairs on his neck agreed before his mind caught up, and his mouth went dry with the particular dread he had learned to trust in two lifetimes of war.
+A thin blue line was running along the white stone of the Hall of the Gods, following a pattern cut into the columns. The damage from the drakon incursion had been covered with canvas, but the covering was lifting in the wind. The lightning wasn't coming down from the clouds. At least, it wasn't coming down only from them. Some of the charge appeared to be moving between the exposed bronze fixtures.
 
-He abandoned the weapon, steel clanging, and sprinted outside.
+"Stay here," the instructor told them.
 
-Camp churned. Campers dove for shelter, sandals slapping wet stone, counselors bellowed orders that shredded in the wind, and gusts nearly unfooted him. A laundry line snapped and bedsheets bellied past like ghosts. Lightning branded the climbing wall, scorch smoking amid downpour, sulfur stinging, while the lake heaved, breakers mauling the shoreline with a fury no mere wind explained, flinging driftwood and foam across the path.
+Percy didn't. He went out into the rain with the sound of a second warning following him.
 
-Rain stinging his eyes, Percy forced toward camp's heart. No rationale — only traction, instinct, certainty that consequence concentrated there.
+Near the Hall, Chiron was directing campers away from the path. A section of the fence had fallen across the entrance. Annabeth stood inside the open colonnade with one hand braced against a column. Percy saw sparks running over the metal ornamentation beside her fingers.
 
-He located Annabeth at the Hall of the Gods.
+She was trying to pull away. The charge came with her.
 
-Centered on the mosaic floor she stood, arms slack, chin upturned, lightning waltzing across her skin. Not striking — *waltzing*. Incandescent arcs tracing veins, bone, facial planes, eyes open yet flooded, gray drowned in blinding white.
+"Annabeth!" he called.
 
-"Annabeth!" Percy roared into the gale.
+She heard him but couldn't turn. "Don't come closer!"
 
-No response. No sign of hearing.
+Percy stopped at the edge of the mosaic. The fountain was leaking beside the western wall, water running over the tiles toward a drain half blocked with fallen leaves. The stone beneath Annabeth was dry. He intended to keep it that way.
 
-The discharge swelled. Sheets of it poured from her now, lancing columns, flooring, naked air, sound a ceaseless rolling that set his molars aching. Ozone scorched his nostrils.
+"What happened?" he asked.
 
-He charged. Thought surrendered to motion, the identical impulse that had hurled him toward Tartarus, that had wedged him between Kronos and the world, that had chosen battle where battle was hopeless. Gravel bit through his sandals. Wind tore the breath from his lungs.
+"I was trying to get everyone out. There was a noise in the column, and I touched it. Then it wouldn't stop."
 
-He seized her hand, skin hot as a struck match.
+A flare ran through the bronze and struck the far pillar. Percy flinched. Behind him, Chiron ordered the younger campers back toward the pavilion.
 
-Lightning struck like a freight train, white behind his eyes, every filling in his teeth singing.
+"Don't touch the floor near her," Chiron called.
 
-Pain flashed up his arm. He stumbled, refusing to pull her farther into the charge. Water from the broken fountain spread around their shoes; he pushed it away from their feet and toward the open drain. He could make a path for the runoff. He could not safely carry lightning through his own body. Annabeth had to hear him before another strike landed.
+"I wasn't planning on it!"
 
-"Annabeth," he said again, steadier, rain hammering his shoulders. "Annabeth, return. You're safe. I'm present."
+Percy pulled the fountain water toward the drain. The first attempt spilled across his shoes; he jerked it back before it could spread over the central tiles. He could work with water, not lightning. That distinction had never felt particularly comforting until this moment.
 
-Her focus fluttered. White receded, gray resurfacing, blinking bewilderment.
+"Annabeth, look at the bronze fixture above your hand," he said. "It's carrying the charge. Can you make it go there instead of through you?"
 
-"Percy? What — what's occurring?"
+"I don't know!"
 
-"You're raising a tempest. Sizable. You must release it."
+"Then don't try a big move. Look at the little one you practiced with the leaf. One change at a time."
 
-"Can't — I lack method—"
+She shook her head, teeth clenched. A thin white line ran along the ornamentation.
 
-"Start small. Breathe with me. Stop feeding the next strike."
+"You're asking me to control it while it's happening," she said.
 
-"I don't know choosing *that*!"
+"I'm asking you to stop pulling against it. It's following you because you're keeping contact."
 
-He loosened his grip enough for her to move. "Look at the drain. I'm moving the water there. Can you turn the charge toward that path, away from the columns? One piece at a time."
+"Percy, I'm not touching it anymore!"
 
-Annabeth squeezed her eyes shut, rain beading on her lashes. Features strained, jaw trembling with effort, and briefly the brilliance heightened — whiter, hotter, more savage, the columns throwing double shadows. Then, gradually, ebb began, the light guttering like a candle pinched between fingers.
+He looked again. She was right. Her fingers hovered an inch from the column. There was enough charge between them to keep her in place.
 
-Thunder thinned to a distant grumble. Wind slackened, banners drooping. Deluge eased to drizzle, to mist, to stillness, the sudden quiet ringing in Percy's ears. Drips ticked from shattered eaves onto cracked mosaic, each drop hissing faintly where stone still held heat.
+Chiron approached from the opposite side, moving deliberately. "The ward is drawing on your powers," he said. "It's a feedback loop. We need to interrupt the circuit."
 
-Annabeth buckled. Percy caught her, easing her onto mosaic, and she shook — leaf-like tremors, skin chilled despite lightning's afterglow.
+Percy had never heard Chiron sound so uncertain about a training problem. He watched the fountain's runoff collect in the drain. If they got the line of water across the western threshold without letting it reach her feet, the Hall's excess charge might have a safer route out. It also might not.
 
-"Unintended," she whispered, breath hitching, fingers spasming in his. "I was only — anger, and it just — erupted. One moment I was thinking about the prophecy, about Thalia doubting us, and the next the sky answered like it had been waiting for permission."
+"Can I move the water outside the entrance?" Percy asked.
 
-"You're intact. That's the ledger. Breathing. Present. The rest is commentary."
+"Keep it away from her," Chiron said. "I'll take responsibility for the ward."
 
-"All witnessed. All saw me — what if comprehension follows? What if they deduce—"
+He raised his bow and struck a bronze coupling with an arrow. The metal rang. Annabeth cried out and dropped to one knee, but the line of light above her flickered.
 
-"They'll accept accident. Divine misfire. Young bloods misgovern powers — universal knowledge."
+Percy pulled the water along the outside gutter. It rushed past the broken coupling and down the drain. The next flare followed the wet stone instead of branching into the central mosaic.
 
-Even speaking, Percy doubted, rainwater trickling from his hair onto the mosaic. Campers had observed from doorways and ditches. Counselors had observed. And somewhere, someone empowered and informed — someone with a vested interest in Big Three anomalies — would classify the event accurately, filing it away like a specimen pin.
+"Now," Chiron said.
 
-A Zeus daughter, unpracticed and unbound, channeling sufficient force to flatten a city block. The tiles still smoked faintly underfoot.
+Annabeth stepped backward. Her knees gave way as soon as she cleared the column. Percy caught her by the shoulders on the dry side of the entrance and helped her sit.
 
-Terrifying. And precisely the profile sought by anyone hunting the altered prophecy's subjects. Percy felt the thought settle like grit in his shoes.
+The storm didn't vanish. Rain continued against the roof, and the sky was still a dirty gray. But the sharp blue light in the Hall went out.
+
+"Is everyone all right?" Annabeth asked.
+
+Percy looked at the scorch marks on the columns. "We're going to find out."
+
+Chiron was already calling for the camp healers. The instructor from Tempest Hall appeared beside them, breathing hard, and gave Percy the kind of look he usually received after breaking a rule he had definitely heard.
+
+"You left your drill," she said.
+
+"I know."
+
+"We will discuss that later."
+
+"I figured." Percy kept his attention on Annabeth, who was staring at her own hands. No sparks came from them now. That didn't mean she could stop worrying.
+
+He wanted to tell her that everything was fine. It wasn't. The damaged ward had reacted to her, and nobody yet knew whether the damage or her powers had started the problem. Chiron would need to investigate the Hall. Annabeth would need to learn what she could do without the building turning an experiment into an accident. Percy would be spending the next week explaining why he had run toward an electrical discharge in wet sandals.
+
+"You didn't cause all of this by yourself," he said.
+
+She looked up. "You don't know that."
+
+"No. But I know a broken ward when I see one."
+
+"You saw a broken fountain."
+
+"That too." He helped her to her feet. "Come on. Let's get somebody to look at your hands."
 
 ---
 
-They smuggled Annabeth to the Zeus cabin unseen, skirting the laundry lines and cutting behind the tool shed where the mud sucked at their shoes. Thalia was absent — likely lingering at the pavilion amid storm cleanup, sleeves rolled, directing debris crews — granting them solitude. The cabin smelled of cedar and ozone and Thalia's leather polish.
+They went to the infirmary first. The healer checked Annabeth's pulse, examined her fingers, and made her describe exactly where she'd been standing. Percy had a shallow burn on his forearm, no worse than a scrape, but the healer covered it anyway.
 
-Percy settled Annabeth on her bunk and tucked a blanket around her shoulders, wool scratchy, rain-drumming faded. Tremors persisted, complexion pallid, eyes wide and terrified.
+Chiron spoke to them privately before he let them leave.
 
-"Governance impossible," she said, teeth nearly chattering. "The power. Excessive. Like cupping the ocean."
+"Until we understand the ward, nobody practices storm work inside the Hall," he said.
 
-"Mastery arrives. Training only needed."
+Annabeth sat very straight. "I wasn't practicing. I went there because I saw a camper on the path and the column started making noise."
 
-"Training demands time absent. Percy, should recurrence strike before the wrong audience—"
+"I believe you," Chiron said. "That is why I want to know what the ward was doing before you touched it."
 
-"We'll devise. We'll locate aid. Chiron, perhaps. Or—"
+"Will Olympus have to be told?"
 
-"Or whom? Olympus? The same powers already skittish over Big Three offspring. Display my capacity and they'll—"
+"I'll report the damaged fixture. That's a matter of camp safety. Your training is a separate matter, and I won't discuss it with a council until I understand what happened."
 
-She halted. Percy watched comprehension strike — mirror of his own revelation in the Hall.
+Annabeth stared at him. "You can't guarantee that someone won't ask."
 
-"They'll hunt me," she finished quietly, blanket knotted in her fists. "Classify me hazard."
+"No," he said. "I can't."
 
-"Not under caution. Not if we author the account."
+It was a worse answer than reassurance, but it was honest. Percy found himself liking it.
 
-"Method?"
+Thalia was waiting outside the infirmary when they emerged. She had a rain-soaked jacket and a training spear in her hand. Whatever she'd intended to say, the sight of the bandage on Annabeth's fingers stopped her.
 
-"We portray apprenticeship. The tempest as mishap — raw manifestation standard in young demigods. Normalize the framing."
+"How bad?" she asked.
 
-"Nothing normal occurred. You observed. That exceeded normal."
+"No permanent injury," Annabeth said. "The ward caught my charge, and Chiron interrupted it."
 
-"No. But it's explicable. And explicable remains controllable."
+"Your charge?"
 
-Annabeth studied him, damp hair plastered to her cheek, a scratch beading on her temple where debris had grazed. "Remarkable composure for the freshly electrocuted. Most boys would be crying or bragging."
+"I tried to pull away. It got worse."
 
-"I got lucky, and my arm still feels like it belongs to somebody else. We're telling Chiron before we try anything like that again." He attempted a grin that came out lopsided. "Crying might improve my dignified image."
+Thalia looked at Percy. "Were you there?"
 
-"Physics disputes."
+"After it started."
 
-"Approximately."
+"And you went inside?"
 
-Laughter escaped — fragile, unsteady, wet — and she leaned into him, forehead finding the hollow of his collarbone. His arm circled her, blanket scratching them both, and long they stayed, registering the rain's taper beyond walls to sporadic ticks, the gutters gurgling, someone laughing too loudly outside from sheer relief.
+"As far as the dry side of the entrance."
 
-"Percy," Annabeth said eventually, voice thinned. "Fear owns me."
+"You didn't think to wait for Chiron?"
 
-"Acknowledged."
+"He was right there. We worked together."
 
-"Not just the power. What it means. I remember being Athena's daughter. You know that girl. This body can do something I don't understand, and I'm scared it will hurt someone."
+Thalia took a breath through her nose. Percy expected an argument. Instead she turned back to Annabeth.
 
-"Identity persists. Power doesn't annul it."
+"You should have told me you were practicing on your own," she said.
 
-"Mustn't it? Your Annabeth was intellect. Strategy. Victory through cognition, not fists. This iteration — this edition — is armament. A storm pending."
+"I wasn't practicing in the Hall. I've been working on the small stuff, outside, with Percy."
 
-"You've always been both. Intellect *and* force. Tactics *and* might. That alloy constitutes *you*."
+"That's what I mean."
 
-A pause, her breathing uneven. "Genuine conviction?"
+"I didn't tell you because I didn't want another conversation about whether I'm allowed to make decisions without you."
 
-"Yes."
+Thalia's jaw tightened. "That isn't what this is about."
 
-"Even when I can't remember the childhood Thalia talks about?"
+"It is part of what it's about."
 
-"Even then. You remember us. So do I. We don't have to solve your whole history to know that."
+Percy looked at the infirmary door. "I could go."
 
-Annabeth's breath snagged. She turned, eyes glistening.
+"Please," Annabeth said.
 
-"I keep wishing I knew how to be her sister without disappointing her."
+He hesitated. Thalia looked as though she wanted to object, but Annabeth hadn't asked her. Percy left them alone and sat on the steps where he could hear nothing but the rainfall off the roof.
 
-"You can tell her what you need. She might surprise you."
+When Annabeth came out ten minutes later, she was carrying a folded dry jacket.
 
-She kissed him, brief as a moth's touch.
+"How'd it go?" he asked.
 
-Gentle and tentative, salt-and-rain flavored, damp blanket rough against his wrist, and Percy's heart pounded hard enough surely she sensed it through his soaked shirt. Separating, Annabeth flushed crimson to her ears, and she resembled herself more than at any point since their arrival in this timeline — the quick, clever girl with plans stacked behind her eyes.
+"We disagreed."
 
-"That was—" she began, fingertips lingering at his sleeve.
+"That narrows it down."
 
-"Yeah," Percy said, pulse loud in his ears.
+"She thinks I should practice with her. I think she's right about some of it." Annabeth looked back toward the infirmary. "I just hate that she won't ask before she decides for me."
 
-Charged, fragile, terrifying quiet filled between them.
+Percy nodded. He wanted to put his arm around her, but she was still looking at the door.
 
-"We should probably—" Annabeth started, glancing at the door, fingers twisting the blanket's fringe. "Talk about what that meant. Establish boundaries. Be responsible demigods and all."
+"You can talk to her again tomorrow," he said.
 
-"Yeah," Percy agreed, making no move whatsoever toward responsibility. "Probably. Eventually. After we catch our breath."
+"I probably will." Annabeth gave him a tired half-smile. "You're not going to tell me she meant well, are you?"
 
-Neither shifted.
+"I like living."
 
-Then hinges protested, and Thalia entered.
-
-She halted mid-threshold, absorbing tableau — Annabeth and Percy close on the bunk, blanket draped, atmosphere dense with something unnameable.
-
-"What," she said levelly, rain beading on her jacket, "transpires here?"
-
-"Nothing," Annabeth answered, overrapid.
-
-"Appearance contradicts."
-
-"Merely conversing."
-
-"Perpetually *merely conversing*." Thalia's gaze sharpened, drips pattering to floorboards. "What withholds?"
-
-A glance exchanged. Then Annabeth said, "An episode occurred. A surge. Percy intervened."
-
-Suspicion yielded to alarm. "Episode of what order?"
-
-"A tempest. I raised a tempest. Governance failed."
-
-Thalia stilled utterly. "A tempest."
-
-"Yeah."
-
-"Magnitude?"
-
-"Adequate."
-
-Thalia crossed and perched on the bunk's edge, color draining, the mattress dipping under her. "Annabeth, that's — grave. Irregular even by Zeus standards. The last kid who sparked like that got a personal escort to Olympus. Chiron requires notification. You need—"
-
-"Impossible. Should Olympus gauge my capacity, they'll—"
-
-"They'll what? Assist? Instruct?"
-
-"They'll dread me. And divine dread breeds peril."
-
-A lengthy quiet, wind worrying the shutters, a loose hinge chiming. Then: "Fine. Fine. We'll solve." Her jaw worked, throat moving as she swallowed fear. "But indefinite secrecy fails. Eventually observation occurs. And at that juncture, readiness is mandatory. Drills. Signals. An exit story."
-
-"Agreed," Percy said.
-
-Thalia faced him — genuinely faced him, hostility absent for the first time. Rain ticked against the shutters. "You steadied her. When she lost hold. You steadied her."
-
-"Of course."
-
-"Motive?"
-
-"Because she's—" Percy checked himself, blanket's weave rough under his palm. "Because she matters. And because ungovernable power is a dialect I speak."
-
-Thalia appraised him. Then, slowly, nodded. "Okay. Okay, Jackson. Perhaps my assessment erred."
-
-"Perhaps," Percy said, throat tight.
-
-"But should you wound her—"
-
-"Never."
-
-Their gazes locked, rain ticking against glass. Then she stood, joints popping, rolling stiffness from her shoulders. "Fetching dinner — toast and soup, nothing ambitious. You two remain. Rest. Remainder later. And drink water, both of you; you look like shipwreck survivors."
-
-She exited. The latch clicked, restoring solitude.
-
-"That was—" Annabeth started.
-
-"Yeah," Percy said.
-
-"She commences trust."
-
-"Maybe."
-
-"Fortunate. We'll require her."
-
-"Known."
-
-Together they sat in the hush, tempest spent, blanket slipping unnoticed to the floor, and the world seemed marginally less hostile than minutes prior. Her breathing evened against his side. His pulse finally dropped below battle rhythm.
-
-But only marginally. Beyond the walls, cleanup crews already hammered, and the scorched climbing wall smoked on.
+She laughed once, then held out her hand. He took it with his unbandaged one, and they walked toward the cabins.
 
 ---
 
-Morning brought Chiron's camp-wide summons, conch echoing off the hills before breakfast fires were lit.
+At breakfast the next morning, Chiron addressed the camp before anyone could turn the incident into a story of divine punishment.
 
-The pavilion overflowed — campers, counselors, satyrs and nymphs comprising Camp Half-Blood's household, everyone damp-haired and sharp-eyed from poor sleep. Tension thickened the air, porridge steaming untouched, customary breakfast uproar supplanted by brittle hush. Benches scraped. Cutlery stilled. A harpy dropped a plate with a clatter that made half the room flinch.
+"Yesterday's storm damaged a protective ward at the Hall of the Gods," he said. "The Hall is closed until the work is inspected. Anyone who was near the site should report burns, dizziness, or lingering discomfort to the healers."
 
-Chiron occupied the front, centaur majesty unconcealed, features solemn. Alongside, Mr. D appeared soberer than Percy had ever recorded.
+Nobody asked why a Zeus child had been seen under the columns. At least, nobody asked aloud.
 
-"Campers," Chiron began, voice traversing effortlessly. "I convene us because candor is required. Yesterday, a tempest of uncommon violence visited. Many observed. Some feared. Be assured: containment holds."
+"Camp training will continue under supervision," Chiron added. "A ward malfunction is not a reason to blame someone who happened to be standing beside it."
 
-Percy's abdomen knotted. Beside him Annabeth stiffened, knuckles whitening on the bench.
+Thalia sat with Annabeth at the Zeus table, both of them facing the front. Percy could see that Annabeth was relieved the announcement didn't name her. He could also see that she hadn't stopped turning the small bandage around her finger.
 
-"The tempest," Chiron continued, tail flicking, "resulted from raw divine manifestation. One camper — a Zeus child — suffered an energy surge as yet ungoverned. Among young demigods, especially powerfully sired, this is not unprecedented. It reminds us, however, that diligence in training and generosity toward fellows are imperative."
+The rest of the announcement was less reassuring. More monsters had been seen along the border. Patrols were doubled. Chiron asked campers to stay in their cabins after curfew unless assigned to a watch.
 
-He surveyed the assembly. "The camper is secure. Guidance and instruction proceed. And I solicit kindness and comprehension, not dread or suspicion."
+Afterward Percy caught up with Annabeth near the lake.
 
-Percy exhaled slowly, bench hard beneath him, porridge congealing forgotten. Chiron was scripting Annabeth cover. An account near enough truth for credence, distant enough for shield. Clever, kindly, and terrifyingly fragile — one pointed question could puncture it.
+"The master bolt," she said before he could speak. "What if it goes missing again?"
 
-But Chiron persisted.
+"It did before," Percy said. "That doesn't mean it has to happen on the same day, or at all."
 
-"Further business," he said, gravity deepening. "Across recent months, border monster traffic has amplified. Monsters gravitate to power nexuses perpetually. But the *character* has transformed. They refrain from assault. They... await."
+"But if it does, we'll recognize the pattern."
 
-A ripple traversed the crowd, whispers threading.
+"Maybe. We have to make sure we're not seeing patterns just because we expect them." Percy held up his bandaged arm. "I ran toward a thunderstorm yesterday. I'd prefer not to do that every time something reminds us of a quest."
 
-"Their object remains unknown. But precautions proceed. Patrols augmented. Borders fortified. And Olympus stands consulted."
+Annabeth glanced at the Hall beyond the trees. "I don't want to give up investigating."
 
-Mr. D interjected, acerbic and clipped. "Translation from his customary circumlocution: something approaches. Sizable. Readiness is nonnegotiable."
+"I'm not asking you to. Chiron said the ward was damaged. Zoe has the repair records. That's something we can check without guessing who rewrote our lives."
 
-The ripple swelled. Percy marked Clarisse trading glances with Silena, grim-mouthed. Marked Thalia's jaw hardening, hand seeking spearhaft by reflex. Marked Annabeth paling, fingers gouging table edge.
+"All right." She slipped her notebook out of her jacket. "Then let's start with what we know."
 
-"No panic," Chiron asserted firmly, hoof striking stone. "Preparation. Which, with divine aid and camper courage, continues. That concludes."
-
-Dismissal scattered campers in muttering clusters, sandals scuffing. Percy caught Annabeth's eye and tipped toward the lake. She nodded, braid swinging.
-
-They convened dockside, planks sun-warmed and still slick from the night, water slapping the pilings in small, restless tongues. Gulls squabbled over a washed-up fish. The climbing wall stood charred on the hill behind them, a black scar visible even at distance.
-
-"Monsters waiting," Annabeth said without preamble, arms wrapped against breeze, bare feet curled against the dock's cool boards. "That's the prophecy's phrase. 'In blood and fire, the truth is found.' Something will summon them — something loud enough to carry across the Mist."
-
-"The master bolt," Percy said. "Inevitably. In the original timeline, Zeus's stolen bolt catalyzed cascade. War, treachery, everything downstream."
-
-"But authorship here? Timing? Unknowns."
-
-"No. But vigilance is available. Observation. Readiness."
-
-Annabeth nodded, hair stirring. "Agreed. But Percy — should the bolt vanish, and we alone grasp significance, action becomes compulsory. And action advertises forbidden knowledge."
-
-"Aware."
-
-"Preparedness for that?"
-
-Percy contemplated, squinting across glittering water. The eventual fork — original timeline restored, or present one defended — ached like a pulled muscle. Either path demanded losses he refused to inventory at noon on a dock with Annabeth beside him.
-
-"No," he said honestly, gull crying overhead. "But choice may be illusory."
+They sat on the dock and drew two columns across the page. One for observations, another for guesses. Annabeth had insisted on it. Percy thought it was a good idea, particularly because most of his guesses were wrong before noon.
 
 ---
 
-That night sleep eluded Percy. Supine, ceiling indistinct, wool blanket kicked to his knees, he tracked Clarisse's soft snores opposite and Silena's restless turning in the bunk below hers. The cabin smelled of damp socks and bronze polish. Somewhere a shutter knocked a slow rhythm.
+That night Percy found a folded packing list in the bottom of his trunk. Amphitrite had written it in a neat hand, with two pairs of sandals circled and three ceremonial cloaks decisively crossed out.
 
-Cognition raced through accumulation. Tempest. Annabeth's capacity — the white-hot arcs still ghosting his vision. Chiron's fiction, deftly spun. Border sentinels massing in the tree-dark. The sensation of convergence toward an unseen instant, like a wave drawing back before breaking.
+He set it on his pillow, smiling despite the long day. She expected letters about friends and sword practice, not reports about a ruined ward or the questions he and Annabeth were asking.
 
-And beneath all, Poseidon's letter, folded in his pocket, edges worn, awaiting rereading.
+His father's warning about old sacred places returned to him. Poseidon had spoken of strange disturbances, not vanished time, and Percy still had no reason to assume the two were connected. He wanted a connection anyway. It would have made the mystery smaller.
 
-He extracted it, paper soft as cloth from handling. Memorized lines returned, ink slightly blurred where rain had kissed it once.
+Across the cabin Clarisse was snoring softly. Silena turned a page with the lamp screened beneath her blanket. Percy folded the list again and set it in his trunk.
 
-*Find me, Percy. I am waiting. I am always waiting.*
+Tomorrow he'd have to help repair the broken practice rack at Tempest Hall, because the instructor hadn't forgotten he'd abandoned his drill. He was twelve years old, and that was an obligation he could keep.
 
-His father's location unknown. Methodology unknown. Certainty sole: paternal waiting, somewhere abyssal where light thinned to rumor, temporal reserves depleting like air in a diving bell.
-
-And agency utterly absent.
-
-He stowed the letter and sealed his eyes toward slumber, listening to the cabin settle around him.
-
-And far off, thunder muttered.
-
-The storm had not concluded.
-
-It had merely commenced.
-
----
-
+He lay down and tried to sleep while the rain eased outside.
