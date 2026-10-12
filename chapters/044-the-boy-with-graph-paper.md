@@ -382,13 +382,16 @@ Percy laughed. Annabeth squeezed his hand. They named constellations until they 
 
 The night deepened. The blanket slipped. Percy fixed it around both of them. Their shoulders stayed touching. Their hands stayed linked.
 
-Whatever came next — quests, storms, growing up again, remembering the old life and learning this one — Percy thought he would keep this: a hill, a blanket, a girl who loved buildings explaining the sky to him like it was something they could build together.
+Before they went back to their cabins, Annabeth told Percy that Theo wanted help carrying the model into the library after breakfast. The frame was too broad for one person, and she had already promised to check the measurements. Percy was free to help or not.
 
-He was happy here.
+"I'll come," he said. "I can carry the heavy end. Theo can explain what it's supposed to do."
 
-The wind moved through the pine. A shooting star cut across, brief and white-gold, and Annabeth squeezed his hand tighter.
+"You don't have to prove anything."
 
-Percy closed his eyes and kept it — all of it — exactly where it belonged.
+"I know. I'm volunteering because I want to see whether his design actually works. And because I've spent all day acting strange to somebody who hasn't done anything to me."
 
----
+Annabeth squeezed his hand. "He'll probably appreciate the help."
 
+They stood, folded the blanket and checked they hadn't left anything on the grass. Percy still felt embarrassed when he thought about the questions he'd asked Theo in the library. That would probably happen again when they met in the morning. He couldn't control his first reaction to jealousy, but he could decide not to turn the next conversation into a test for someone else.
+
+At the turn toward Cabin One, Annabeth leaned up and kissed his cheek. He watched her walk home, then took the folded blanket to Cabin Three. Tomorrow there would be a bridge model to move, a younger camper to treat fairly, and a few measurements he genuinely wanted to argue about.
