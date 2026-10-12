@@ -641,10 +641,14 @@ Annabeth grinned, eyes shining. "I'm pacing myself."
 
 They ran — Thalia laughing, Annabeth protesting and then laughing too, both of them breathless and alive under a sky that had not fallen after all.
 
-What remained was this: a broken hall being rebuilt one stone at a time. A table that kept getting bigger. A flag with a drool spot. An unfinished owl. Two notes in a jacket pocket. A keychain veteran standing guard.
+At the bend near the cabins, Thalia slowed. Her injured knee had been protesting since the first step. Annabeth noticed and shortened her stride without a word.
 
-Not unchanged. Not unscarred.
+"You're doing that thing," Thalia said.
 
-But together.
+"What thing?"
 
-And for tonight, that was enough to start from.
+"Walking slowly so I won't notice I'm walking slowly."
+
+"I have no idea what you're talking about."
+
+Thalia didn't argue. She had Annabeth's note folded inside her jacket, and the stairs to Cabin One were just ahead. She let Annabeth take her arm for the last few steps.
