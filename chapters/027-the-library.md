@@ -494,7 +494,4 @@ At dinner, the story only grew. Grover reenacted his battle with the dust ghost,
 
 Thalia threatened to launch every single one of them into the lake. She said it with Annabeth tucked under one arm and Percy stealing cookies off her plate and Silena fixing her braid, and nobody believed her for a second.
 
-Percy kept Maya's journal beside his plate and showed Annabeth every fish doodle. Annabeth kept the porch photo copy Chiron made for her propped against her cup, and every so often she glanced at it — six-year-old Thalia grinning, little Clarisse scowling, two-year-old herself clutching a cookie like a scepter — and smiled like someone adding a new favorite page to a beloved book.
-
----
-
+Percy kept Maya's journal beside his plate and showed Annabeth every fish doodle. Annabeth kept the porch photo copy Chiron made for her propped against her cup, and every so often she glanced at it — twelve-year-old Thalia grinning, nine-year-old Clarisse scowling, eight-year-old herself clutching a cookie like a scepter — and smiled like someone adding a new favorite page to a beloved book.
