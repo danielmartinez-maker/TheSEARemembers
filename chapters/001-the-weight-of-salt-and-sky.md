@@ -40,7 +40,7 @@ The door opened.
 
 The nightmare. Percy didn't know what nightmare she meant, and the not-knowing was a cold stone in his stomach.
 
-"I..." he started, and stopped. How could he tell the woman who believed she'd raised him that he remembered another mother instead? That the woman who raised you in this timeline was real and loved and present, but that somewhere else, in some other version of his life, a mortal woman named Sally Jackson had made him blue cookies, lied to monsters to protect him, and raised him in Manhattan? He remembered her alive, waiting for him to come home. This woman knew a childhood he could not find in his head.
+"I..." he started, and stopped. He remembered Sally Jackson making blue cookies in their Manhattan kitchen, lying to monsters to protect him, and waiting for him to come home. Amphitrite remembered a different childhood for him, one he couldn't reach. He couldn't explain either memory without exposing the other.
 
 He couldn't tell her. She knew the boy who had lived here for twelve years. Whether she believed him or not, the truth could cost him his chance to reach camp.
 
@@ -163,7 +163,7 @@ Triton's grin faded. "Have you?" he asked, and his voice had changed, lower, mor
 
 "I know what I know," Percy said, cutting him off. It came out harder than he intended. Triton looked at him for a long moment, then tossed Percy a practice blade and made him start the drill again.
 
-Percy spent extra time with Amphitrite, memorizing her face in case, in case of what? He didn't know. In case this was temporary. In case something went wrong. In case the timeline changed again. They played *Tessera*, a strategy game Amphitrite expected him to know. He concealed his ignorance behind jokes and lost six games before he began to understand the currents.
+Percy spent extra time with Amphitrite. She found reasons to visit the training court or ask him to sit with her in the afternoons, and he didn't mind. They played *Tessera*, a strategy game she expected him to know. He concealed his ignorance behind jokes and lost six games before he began to understand the currents.
 
 He packed bags he wouldn't need, practiced being twelve years old, and tried not to think about Annabeth with a desperation that bordered on panic.
 
