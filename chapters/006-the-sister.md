@@ -348,5 +348,3 @@ He reached for her hand, and she let him take it. They sat quietly for another m
 "Exactly. Let her be wrong about one thing at a time."
 
 They climbed down together.
----
-
