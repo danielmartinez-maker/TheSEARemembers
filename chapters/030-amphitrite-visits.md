@@ -120,7 +120,7 @@ Clarisse stepped forward before Silena could push her. She stood straight, chin 
 
 Amphitrite's expression changed. Percy felt it — the slight tightening of her arm around him, the way her smile went softer and more careful.
 
-He remembered, suddenly, with a lurch: Clarisse and Silena weren't just his cabinmates. They were Poseidon's daughters by mortal women. Which made Amphitrite their stepmother too. In the old stories, that never ended well. Hera and Heracles. All those terrible stepmother tales the bards loved.
+It struck Percy again how unfair his upbringing had been to Clarisse and Silena. They weren't only his cabinmates. They were Poseidon's daughters by mortal women, and they had not grown up receiving what he had. Which made Amphitrite their stepmother too. In the old stories, that never ended well. Hera and Heracles. All those terrible stepmother tales the bards loved.
 
 Amphitrite stepped forward and took both girls' hands.
 
@@ -142,7 +142,7 @@ She turned then, and her gaze landed on Annabeth, who was standing very straight
 
 ---
 
-Amphitrite had been a queen for three thousand years. She could read a court in a glance — who was angry, who was lying, who needed a kind word and who needed a sharp one.
+Amphitrite had been a queen for three thousand years. She could read a court in a glance — who was angry, who might be hiding embarrassment, who needed a kind word and who needed a sharp one.
 
 She could read a twelve-year-old girl in half a glance.
 
@@ -428,7 +428,7 @@ He nodded, hard. *Yeah. Really happy.*
 
 Percy laughed, bubbles bursting from his nose. He threw his arms around her, and she held him, rocking gently while minnows darted around them like confetti.
 
-She signed that she had taught him bubble pictures at seven — dolphins, ships, faces. He could not remember the lessons, but the movement felt familiar. Now, without thinking, he blew a small, perfect bubble and shaped it: a woman with a crown, holding hands with a small boy.
+She signed that she had taught him bubble pictures when he was seven. Percy knew only what she was telling him, but he tried to copy the movement by watching her hands. When the first bubble collapsed, she demonstrated again without making him explain why he needed the lesson. Now, without thinking, he blew a small, perfect bubble and shaped it: a woman with a crown, holding hands with a small boy.
 
 Amphitrite stared. Then she pressed her hand to her mouth, eyes bright.
 
@@ -613,6 +613,3 @@ As they trudged up the hill together, Annabeth leaned her head against his shoul
 "You are," Clarisse said from behind him, ruffling his hair hard enough to hurt. "Don't forget it, Barnacle Breath."
 
 "I won't," Percy promised, and meant it, all the way up the hill and into the glowing cabin and into dreams of clear water and family dinners that tasted like honey and salt.
-
----
-
