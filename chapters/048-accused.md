@@ -734,7 +734,139 @@ Silena stood and wrapped an arm around Annabeth, who leaned in. Percy stood last
 
 They stood there, five across the dock, while Tyson splashed happily and the lake reflected them wobbling and true.
 
-Later, when Chiron called Percy to the Big House to dictate a message to Atlantis — respectful, careful, tribute due and silence not intended — Percy went with dry mouth and came back with heavier shoulders.
+Later, when Chiron called Percy to the Big House to dictate a message to Atlantis, he didn't summon any of the others.
+
+Percy found him in the study with a sheet of blank parchment laid across the desk. The windows stood open to the summer air. Beyond them somebody had resumed target practice, but each impact sounded oddly distant, as though camp were trying not to disturb the Big House.
+
+Chiron was reading a list of ships that had made port at Atlantis in the previous month.
+
+"Where did you get that?" Percy asked.
+
+"From a commercial harbor register. Trade information is less private than palace information, and less likely to start a diplomatic dispute when we consult it."
+
+Percy stared at the neat columns. "You think Zeus's missing messengers went on one of those ships?"
+
+"I don't know what happened to the messengers. That's why I'm looking for information I can verify."
+
+Percy sat down. The armchair was made for adults and left his feet dangling above the floor.
+
+"Zeus said Dad wasn't paying tribute," he said. "What does that mean, exactly? Money? Fish? His share of whatever the gods are supposed to send Olympus?"
+
+"Tribute can mean several things. It is partly ceremonial. It is also a sign of acknowledging the authority of the throne. Your father may dispute the amount or the form without intending war."
+
+"But you don't know."
+
+"Not fully."
+
+Percy wished Chiron would stop giving him honest answers that ended there. An invented certainty would have been easier to work with. He knew enough from the life he remembered to recognize some patterns, but those patterns had been assembled around other relationships and other histories. He was not willing to wager Clarisse's and Silena's safety on a guess dressed up as experience.
+
+"What do you want me to say?"
+
+Chiron set aside the register.
+
+"Tell Poseidon what his brother said. Accurately. Ask that he acknowledge receipt, because silence could be interpreted as refusal. I will write the formal portion for Olympus."
+
+"Why me?"
+
+"Because Zeus addressed the warning to you, and because your father is more likely to hear an honest account from his son than a rumor transmitted through the court."
+
+Percy thought of his father's letters, of the way Poseidon answered questions about the tides more readily than questions about politics. At twelve he was still young enough that the gods could call him a child when they wanted him silent and an envoy when they needed him to carry a warning.
+
+"That's a lot to put on me."
+
+"Yes," Chiron said. "It is."
+
+There was no soothing qualification. Percy appreciated that more than he would have expected.
+
+They composed the message together. Percy wanted to begin with how frightened Annabeth had looked, but Chiron suggested first establishing the date and the words of Zeus's demand. Percy insisted the message say that Zeus had ordered his daughters to report private conversations, and that the girls had refused.
+
+"Will that make Zeus angrier?" he asked.
+
+"It may."
+
+"Then should we leave it out?"
+
+"It happened," Chiron said. "Poseidon must understand why his children feel threatened. I won't ask you to omit the part that explains their fear."
+
+Percy wrote that sentence twice, the first version so illegible Chiron had to ask him to read it aloud. He described Clarisse's challenge, Silena's invitation to dinner, Thalia's refusal and Annabeth's decision to stand beside them. He left out the part where his knees nearly buckled. That wasn't a diplomatic fact.
+
+When they reached the question of Atlantis's preparations, Chiron stopped his pen.
+
+"Zeus claimed the sea roads are opening again. Have you been told what that refers to?"
+
+"Not exactly. Triton mentioned repairs. Dad's letters had things about flooded kitchens and messenger routes."
+
+"Those might be related. They might not."
+
+Percy rubbed his forehead. "I don't want to tell Dad what he should be building. I don't even know what the roads are."
+
+"Then ask. A careful question is more useful than a confident error."
+
+Percy took a fresh sheet. He wrote to Poseidon in the plainer voice he used in family letters: *Are the old sea routes being repaired? If so, please tell Chiron what you can. Zeus thinks they are meant for war. We didn't tell him that because we don't know.*
+
+He paused, pencil in hand, and added: *Please don't be angry with Clarisse or Silena for speaking. They were standing up for us.*
+
+Chiron read the letter when Percy showed it to him. He corrected the spelling of a single word and left the rest alone.
+
+The formal message was harder. It required titles and assurances and phrases Percy had to read twice to understand. Chiron explained the difference between acknowledging a grievance and admitting it was justified. They could say they had heard Zeus's demands without agreeing that Poseidon had broken an obligation. They could promise to deliver a message without promising an answer Poseidon hadn't given.
+
+"Why is it so complicated?" Percy asked after the third draft.
+
+"Because each word is likely to be repeated to someone who was not present. And that person may have a reason to hear it differently."
+
+Percy leaned back. It sounded disturbingly like Annabeth's explanation of the old star chart. You had to know where someone was standing before you knew what direction their marks meant.
+
+They sent the messages from the veranda where the late sunlight caught the water in a shallow fountain basin. Chiron invoked a rainbow, dictated the official passage, then gave Percy room to speak his private letter. The colors moved over the water until the image on the other side steadied. An Atlantean court attendant accepted the message, confirmed it would be taken to the proper chamber, and did not pretend Poseidon was waiting just out of sight.
+
+Percy had hoped for his father's face. He had hoped to hear something reassuring, perhaps one of Poseidon's bad jokes. Instead he got a seal of receipt and a polite promise that the king would be informed.
+
+"Will he answer tonight?" Percy asked when the connection closed.
+
+"I cannot promise that," Chiron said.
+
+Percy pressed his palms to the stone rim of the fountain. The water felt cold and familiar beneath his fingers. He could have raised it into the air if he wanted; a dozen droplets were already trembling where his hand touched. That was power, small and easy, and it couldn't force the message to arrive sooner.
+
+Chiron waited until the surface settled.
+
+"I also need to speak to you about something else. Today you challenged Zeus in front of the whole camp."
+
+"I know."
+
+"You were trying to defend your family."
+
+"I was."
+
+"You corrected his count of Poseidon's children. That was true, and perhaps necessary." Chiron set down the rolled copy of the letter. "But being correct will not always protect you from a god's anger."
+
+Percy thought of Clarisse standing with her spear and Silena with her hands empty. "If I hadn't said anything, he still would have accused us."
+
+"Possibly. We cannot test the other outcome now." Chiron looked at him. "I'm not asking you to apologize for loving them. I'm asking you to consider what protects them after the moment of defiance has passed."
+
+Percy looked toward the camp roofs. He could see the corner of Cabin Three beyond the trees, and he knew his sisters would be waiting for news. The anger that had carried him through the confrontation was gone. In its place was a complicated worry about what his father might say, what Zeus might do next, and what a twelve-year-old could actually promise to prevent.
+
+"Maybe I should have let you speak first," Percy admitted.
+
+"Maybe," Chiron said. "Next time, look for me before stepping forward. If there is time, let the adult who is responsible attempt the difficult conversation."
+
+"And if there isn't?"
+
+"Then you'll make the best choice you can, and we'll deal with the results together."
+
+Percy couldn't tell whether that was a warning or comfort. It sounded like both.
+
+As he stood to leave, Chiron checked the final copy of the formal message.
+
+"One more thing. Silena's invitation to fish stew was included in the official record."
+
+Percy stared. "That was a real invitation?"
+
+"Your sister appears to have meant it."
+
+"Zeus coming to our cabin for dinner sounds like a terrible idea."
+
+"Quite possibly," Chiron said. "But extending an invitation is not the same as believing it will be accepted."
+
+Percy went back down the hill with a dry mouth and heavier shoulders. There was no answer from his father yet. At least the question was on its way.
 
 "Dad answered?" Silena asked, waiting on the porch steps with Clarisse.
 
