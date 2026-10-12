@@ -6,13 +6,13 @@
 
 ## Scope, authority, and confidence
 
-At the user's direction, this audit treats the GitHub snapshot above as the authority. No local copy was consulted. The bible's source hierarchy in [§1.1–1.2](../../FIC_CONTEXT.md#L18) still records an earlier decision that placed the local working copies above GitHub. The user's newer instruction supersedes that recorded preference; this is a documentation lag to correct when the bible is next updated.
+At the user's direction, this audit treats the GitHub snapshot above as the authority. The deprecated manuscript file on the user's computer was not used. One reviewer used a temporary clone created directly from the pinned GitHub commit. The bible's source hierarchy in [§1.1–1.2](../../FIC_CONTEXT.md#L18) still records an earlier decision that placed local working copies above GitHub. The user's newer instruction supersedes that recorded preference; this is a documentation lag to correct when the bible is next updated.
 
 The snapshot contains 193 numbered chapters, two narrative bonus interludes, and a heading-only bonus file. The 193 chapter bodies total 1,306,616 whitespace-separated words; the two narrative bonuses total 4,228. All 193 chapter titles match the current index.
 
 I ran a full 300-word sliding-window comparison at every word offset, comparing windows both within files and across all chapter and bonus files. It covered 1,252,050 windows. It found one repeated-passage cluster, in Chapter 191. Headings and scene-divider lines were excluded, consistent with the bible's count rules. The specific length counts below use the same body-only whitespace method.
 
-This is a corpus-wide mechanical and continuity-risk audit with focused scene checks and carry-forward of the committed Chapter 1–6 audits. It is **not** a line-by-line literary reread of the full 1.3-million-word manuscript. The bible's softer requirements—voice, scene purpose, and a distinct warm/Percabeth/sibling beat in every chapter—still need chapter-context review; keyword checks alone cannot certify them.
+This is a whole-corpus mechanical and continuity-risk audit, supplemented by selective scene-context reviews across Chapters 1–193 and both narrative bonuses. It is not a line-by-line literary reread of the full 1.3-million-word manuscript: several ranges received candidate scans and targeted passage review, while many individual chapters remain unreviewed scene by scene. The coverage section below names those limits. In particular, the per-chapter warmth, Percabeth, sibling, voice, and scene-purpose requirements cannot be certified by keyword scans.
 
 ## Findings
 
@@ -31,6 +31,39 @@ The current Chapter 1–6 source blobs match the versions cited by the existing 
 - Individual findings: [Chapter 2](chapter-002.md), [Chapter 3](chapter-003.md), [Chapter 4](chapter-004.md), [Chapter 5](chapter-005.md), and [Chapter 6](chapter-006.md). These also document scene resets, implausibly accessible mystery evidence, and dialogue/continuity issues.
 
 The source hashes for Chapters 1–6 at the reviewed commit are the same as those cited by the audits. No story prose was changed in this audit.
+
+### P1 — Chapters 4, 149, and 151 give erased-life knowledge to other characters
+
+In [Chapter 4](../../chapters/004-the-hall-of-gods.md#L364), Nico says he knows who changed the timeline, then says he remembers the camp and world before the changes ([line 370](../../chapters/004-the-hall-of-gods.md#L370)). This directly conflicts with the rule that only Percy and Annabeth retain the erased future and with the rule that the architect remains unknown ([§2.1](../../FIC_CONTEXT.md#L54), [§10](../../FIC_CONTEXT.md#L272)).
+
+The late story repeats a harder version of the memory breach. In [Chapter 149](../../chapters/149-the-argument.md#L517), Thalia recounts being a tree and a Hunter; [Chapter 151](../../chapters/151-two-currents.md#L344) has Thalia describe returning after those events, and line 376 repeats the claim. The altered-history Thalia did not become a tree or join the Hunters ([§3.2](../../FIC_CONTEXT.md#L96)). Chapter 149 also implies Clarisse knows the erased-history account. Reframe both scenes without giving Thalia or Clarisse autobiographical memory or inventing a memory exception.
+
+### P1 — The age and calendar ledger contradicts itself
+
+- [Chapter 20](../../chapters/020-cake-and-lightning.md#L15) celebrates Thalia turning sixteen; later [Chapter 28](../../chapters/028-sparring.md#L147) calls her fifteen.
+- During the same Zeus visit, [Chapter 48](../../chapters/048-accused.md#L39) calls Thalia sixteen, then [line 153](../../chapters/048-accused.md#L153) says “Fifteen and twelve.”
+- [Chapter 61](../../chapters/061-fall.md#L391) calls Annabeth thirteen; the later Snow Day chapter calls her twelve at [Chapter 62, line 97](../../chapters/062-snow-day.md#L97), while [Chapter 65, line 433](../../chapters/065-triton-s-lesson.md#L433) again says thirteen.
+- Chapter 5 says Clarisse and Silena arrived at camp at five and have been there seven years ([line 143](../../chapters/005-clarisse.md#L143)). That does not fit the bible's opening ages of thirteen and fourteen or the ages stated later in the opening block. Confirm the intended arrival ages and elapsed years before changing the line.
+
+These conflict with the bible's age and elapsed-time ledger requirement ([§6](../../FIC_CONTEXT.md#L174)). The first three have straightforward likely repairs, but check the master timeline before editing.
+
+### P1 — The storm and Rhys dates do not line up
+
+[Chapter 176](../../chapters/176-the-storm-quilt.md#L5) places the storm on Wednesday; [Chapter 177](../../chapters/177-the-one-who-came-back.md#L491) says Luke's Tuesday postmark was the night of that storm. Unless the story intends two separate storms, the weekday is inconsistent.
+
+[Chapter 175](../../chapters/175-salt-and-steam.md#L317) dates its scene October 2 and says Rhys will return Friday ([line 455](../../chapters/175-salt-and-steam.md#L455)); [Chapter 177](../../chapters/177-the-one-who-came-back.md#L37) confirms his Friday return. [“The Long Winter”](../../bonus/the-long-winter.md#L3) is Monday, October 23, yet says Rhys has been back six weeks ([line 33](../../bonus/the-long-winter.md#L33)). On this sequence the Friday return is in early October, about seventeen days before October 23, not six weeks.
+
+The same interlude is followed by [“The Sunday Afternoon”](../../bonus/the-sunday-afternoon.md#L3), dated Sunday, November 1. November 1 is nine days after Monday, October 23, so it would fall on Wednesday, not Sunday. Align the dates/weekday labels or signal a year change.
+
+### P1 — Chapter 193 restarts the same Sunday and resets the heel-care sequence
+
+[Chapter 193](../../chapters/193-the-heel.md#L466) reaches a nighttime dock scene and says Percy walks once more before bed at line 499. It then starts another dusk scene at line 507, returns to the Silena conversation at lines 550–566, says “The rest of the Sunday” at line 569, and begins evening again at line 581. These are repeated/reordered fragments of the same day, not a continuous Sunday sequence. Reorder and keep one version of each event.
+
+The medical handoff also resets. Chapter 193 has Chiron examine Thalia's three-week heel injury and prescribe rest, ice, a wrap, a splint, and left-footed shooting for a week ([lines 255–279](../../chapters/193-the-heel.md#L255)). The later-in-order Long Winter interlude has Rhys say he will make her see someone, and Thalia says she will let somebody look at it ([lines 69–77](../../bonus/the-long-winter.md#L69)), implying that the examination has not happened. The Sunday/October 23 cues make this read as the same injury episode; if a later recheck is intended, identify it as one. Both issues conflict with the bible's date, elapsed-time, and injury-continuity rules ([§6](../../FIC_CONTEXT.md#L174)).
+
+### P2 — Chapter 7 does not develop a warm centerpiece
+
+I read [Chapter 7](../../chapters/007-the-tempest.md) in full. Its storm, power crisis, medical fallout, and threat briefing occupy the chapter; the only meal is a promise to fetch “toast and soup” at [line 211](../../chapters/007-the-tempest.md#L211), with no meal or warm routine developed on-page. The brief Percabeth kiss and Thalia–Annabeth care are present, but the chapter misses the warm centerpiece mini-arc required by [§5.1](../../FIC_CONTEXT.md#L146). Develop the promised recovery meal or another shared routine into a short scene with an emotional consequence.
 
 ### P2 — Chapter 21 contains nine prohibited POV labels
 
@@ -73,8 +106,19 @@ I checked the relevant current GitHub passages in Chapters 20–21. Annabeth and
 
 The three bonus-directory files include two narrative interludes and a heading-only index. The interludes were included in the duplicate scan. No additional 300-word duplicate cluster appeared in them or in other chapters.
 
-## Remaining open review
+## Review coverage and remaining checks
 
-Keep the bible's high-context checks open until they receive scene-by-scene review: whether only Percy and Annabeth retain the erased-life memories; whether Thalia is ever made the rewrite architect or gains full future memories; whether Annabeth's Zeus parentage and remembered bond remain stable; whether PCS parentage/cabins and Sally's remembered-life history stay correct; and whether ages, dates, injuries, powers, and visitor logistics carry coherently across transitions. The bible itself lists these as audit items in [§10](../../FIC_CONTEXT.md#L272).
+The corpus-wide counts, title/index comparison, and 300-word sliding-window duplicate scan cover all 193 chapters and both narrative bonuses. Scene-context review was selective:
 
-The story source remains unchanged. Recommended next edits are the Chapter 191 duplicate, Chapter 21 labels, Chapter 193 refrain/style pass, and the short-chapter expansions or documented exceptions.
+| Range | Scene-context work | Remaining gap |
+|---|---|---|
+| Chapters 1–6 | Carried forward and source-hash checked against the committed chapter audits; direct spot checks in Chapters 2, 4, 5, and 6. | Not reread end to end in this pass. |
+| Chapters 7–70 | Full reads of Chapters 7 and 70; targeted passages across Chapters 17–21, 25, 28, 40, 48, 61–65, 67, and 69–71; candidate scans across the range. | Most chapters were not reviewed scene by scene; no complete age/date ledger or per-chapter emphasis checklist. |
+| Chapters 71–135 | Full or near-full reads of Chapters 101–107 and 109–114; Chapter 108 partial; selected scenes in Chapters 71–83, 115, 118–119, and 132–136; candidate scans across the rest. | Chapters 84–100 and 120–131 were search-only; other chapters received selected passages, not full-scene review. |
+| Chapters 136–193 and bonuses | Full Chapter 136 and both bonus interludes; selected scene-context reads in Chapters 135, 141, 144–145, 149, 151, 175–177, 181, 190, 192, and 193; candidate scans across late files. | Chapters 137–174, 178–189, and 191 were not read end to end; Chapter 192 was only partly reviewed. |
+
+The strongest open canon candidate is Percy's specific age-nine Atlantis recollection: [Chapter 175](../../chapters/175-salt-and-steam.md#L41) gives him the corridor outside his mother's rooms and [line 517](../../chapters/175-salt-and-steam.md#L517) a particular loved one awake behind a wall; [Chapter 181](../../chapters/181-whoever-wants-to-come.md#L543) returns to the corridor and a voice calling him to dinner, and [Chapter 190](../../chapters/190-thursday-twice.md#L189) explicitly labels the corridor Percy's memory. The bible permits bounded sensory associations but bars reliable, private altered-childhood events ([§2.1](../../FIC_CONTEXT.md#L66)). The concrete details appear to cross that boundary; generalize them unless the bible already permits this source.
+
+Other unresolved checks include the promised shrine inscription handoff from [Chapter 70](../../chapters/070-clarisse-s-poems.md#L495) into Chapter 71; the memory-trap wording in Chapter 76 ([lines 255–307](../../chapters/076-the-promise-ii.md#L255)); whether the short Atlantis visit proposed in Chapter 132 is the visit in Chapter 136 ([Chapter 132, line 535](../../chapters/132-a-month-beneath-the-sea.md#L535)); the elapsed-time cue between Chapters 135 and 136; the repeated reassurance pattern in Chapters 101–114; and Chapter 7's power-scale/voice concerns. The Long Winter verbal cue (“say yes,” followed by Thalia not saying yes) reads as active nonverbal reciprocation, not a confirmed consent violation, but the wording is less unambiguous than the bible asks ([§5.4](../../FIC_CONTEXT.md#L162)).
+
+This report records a whole-corpus mechanical audit plus focused, scene-aware findings; it does not certify every scene or every chapter-level requirement. The story prose was not changed. Recommended next edits are the Chapter 193 chronology/injury repair, the Ch. 149/151 memory repair, the age/date corrections, the Chapter 191 duplicate, the Chapter 21 POV labels, and the Chapter 193 refrain/style pass.
