@@ -2,9 +2,9 @@
 
 Locks were suggestions; guards were a more serious problem. Percy and Annabeth had spent years learning the difference, although neither of them liked how much of that practice still fitted into twelve-year-old hands.
 
-They chose midnight.
+Chiron refused their request to question the Oracle under supervision, saying he could not risk disturbing an active ward until the Hall's damage was understood. Annabeth spent the afternoon arguing with Percy about whether that made another nighttime visit necessary. They went at midnight anyway, agreeing to leave the chair untouched and to abandon the attempt if the ward behaved unpredictably.
 
-Camp lay dark, cabins shuttered, the dining pavilion cold. The surf broke faintly beyond the trees. Annabeth carried her notebook beneath her jacket, with the two versions of the prophecy copied on facing pages. Percy kept checking the windows of the Big House. A discovery made under a shaded lamp could look less convincing in daylight, especially when explaining why they had been in a forbidden attic.
+Camp lay dark, cabins shuttered, the dining pavilion cold. The surf broke faintly beyond the trees. Annabeth carried her notebook beneath her jacket, the known versions of the prophecy copied on facing pages. She had removed the pages comparing their remembered lives and left those under a loose board in Cabin One. Percy kept checking the windows of the Big House. A discovery made under a shaded lamp could look less convincing in daylight, especially when explaining why they had been in a forbidden attic.
 
 The side window still stood ajar. He braced the frame while she climbed through, then followed, scraping his palm on old paint.
 
@@ -32,7 +32,7 @@ Then green vapor slipped between the Oracle's teeth.
 
 ---
 
-It spread across the floor, stopping against a strip of bronze nailed beneath the chair. Percy had noticed the strip on earlier visits without understanding why it looked newer than the wood around it.
+The green mist spread across the floor until it reached a strip of bronze nailed beneath the chair. Then it stopped, as though the metal had become a wall. Percy had noticed the strip on earlier visits without understanding why it looked newer than the wood around it.
 
 Now a pattern burned along its surface: three hooked strokes meeting at a circle.
 
@@ -129,9 +129,9 @@ They left. Chiron locked the door behind them.
 
 Annabeth waited until the steps had faded before letting her breath out.
 
-"We tell him," she whispered.
+"We tell him about the mark," she whispered.
 
-Percy nodded. Their secret had stopped being a good reason to keep the notebook hidden.
+Percy nodded. They could show Chiron the copied inscriptions without explaining how they remembered a different childhood. It was a distinction he suspected Chiron would notice, but it remained theirs to make.
 
 ---
 
@@ -145,7 +145,7 @@ They went out through the window, down the ivy, and into the trees above the lak
 
 She nodded. "The records disagree over three years. That doesn't tell us when our childhoods changed, or whether the same person made all the changes."
 
-He had been putting one hand behind every wrong thing they found. It had felt tidier that way. He disliked how quickly a tidy explanation could become a person to blame.
+Percy had been trying to put one culprit behind every wrong thing they found. It had felt tidier that way. He disliked how quickly a tidy explanation could become a person to blame.
 
 "Who benefits?" he asked.
 
@@ -227,7 +227,7 @@ She laughed softly. They walked back toward their separate cabins, stopping wher
 
 ---
 
-Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold.
+Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold. Percy had slept for three hours, and Chiron's first response to the copied symbols had been a request to see Zoe's maintenance ledger. He had not asked them how they knew the transcript was disputed. Percy still wished they had a better answer prepared.
 
 She looked up when Percy entered.
 
