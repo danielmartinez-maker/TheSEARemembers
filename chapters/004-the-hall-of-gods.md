@@ -490,6 +490,186 @@ The storm was coming.
 
 ---
 
+By breakfast, Percy had managed to forget three things.
+
+The first was the paper he'd taken from the attic. He had hidden it under a loose board in his trunk before sleeping, and woke convinced for several awful seconds that someone had removed it. When he found it where he'd put it, the relief made him angrier at himself than the fright had.
+
+The second was his assigned water check. Silena performed it without comment and left a damp rag folded on his pillow, which was worse than being shouted at.
+
+The third was a promise to Clarisse.
+
+She reminded him by dropping a rolled map beside his plate.
+
+"You asked about the lake," she said.
+
+"I did."
+
+"You wanted to know about the springs."
+
+"Right."
+
+"Then eat faster."
+
+He looked at the map. Someone had drawn the canoe lake with a surprisingly steady hand. Thin blue lines ran into its northern edge and out through a ditch near the strawberry fields. A row of numbered notes followed the shore. The paper had been repaired in two places with careful strips of tape.
+
+"Silena made this?"
+
+"Mostly. I helped with the measurements."
+
+"Is that your handwriting?"
+
+"Yes."
+
+"Better than mine."
+
+"Not difficult. Come on."
+
+They took the path past the fields while the other campers went to lessons. Clarisse carried a walking stick and a coil of twine. Percy had a notebook, a pencil and enough curiosity to make the morning feel less like a chore.
+
+The first spring emerged from beneath a flat stone under a cluster of willow roots. It made barely enough noise to distinguish itself from the leaves. Clarisse pushed the branches aside and pointed.
+
+"See the cut in the soil? Water travels under the roots, comes out here, and goes into the lake."
+
+Percy crouched beside it. The water was clear and cold. He could feel it moving, but there was nothing about the current that required a divine explanation.
+
+"How did you find this?"
+
+"Walked the whole shore. Silena had a project to get clean water to the beds without digging through the cabins."
+
+"That's a lot of walking."
+
+"That's how maps work."
+
+He looked at the paper again. "What's number six?"
+
+"The old overflow. We filled it after it undermined the path."
+
+"Like the laundry drainage cut."
+
+Clarisse looked sharply at him.
+
+"Exactly like the laundry drainage cut. Which is why you'll be helping Matt fix that tomorrow."
+
+Percy groaned.
+
+"Consequences," she said, sounding pleased.
+
+They worked their way around the shore. Clarisse made him identify each inflow before she pointed it out. Once he mistook a puddle from last night's rain for the spring on the map. She laughed so hard he threatened to push her in.
+
+"You can try," she said. "I swim better than you think."
+
+He didn't try.
+
+At the western bank they found the old overflow under a low arch of stone. The water moved faster there. Percy knelt and studied the mortar, noticing that the outer stones were paler than the ones nearer the lake.
+
+"Different repairs," he said.
+
+"Good eye."
+
+"When?"
+
+Clarisse opened the map and searched for a penciled note in the margin.
+
+"Silena wrote this last year. The stones were already there. Chiron had the old opening narrowed after a flood, but I don't know when."
+
+"Could it have been three years ago?"
+
+"Could have been ten. Why?"
+
+Percy glanced toward the Hall of the Gods, just visible above the trees.
+
+"No reason I can prove."
+
+"That's an annoying way to answer."
+
+"It's the only one I've got."
+
+Clarisse stared at him for a second, then drew a small check beside the overflow on the map.
+
+"Then go ask somebody who knows. You know, like a person, with a mouth. It's allowed."
+
+"You sound like Chiron."
+
+"Take that back."
+
+He grinned.
+
+They crossed to the lake's southern edge, where Silena had laid out a little board with pegs marking the direction of the irrigation channels. Somebody had vandalized it by drawing a fish wearing a crown. Percy suspected the Hermes cabin. Clarisse examined the fish and snorted.
+
+"Looks like you."
+
+"It's more handsome."
+
+"That's not saying much."
+
+She pushed the peg board toward him.
+
+"Help me reset the markers. A camper moved them during a game and the water crew keeps following the wrong path."
+
+Percy put his notebook away. The pegs were small enough that his fingers worked more surely than they did with a sword, and the map made sense once he stopped trying to connect it to the altered history. They sorted the markers into shallow channels, retied one broken string and cleared pine needles from the southern ditch.
+
+The work took longer than he'd expected. It gave him time to notice that Clarisse was methodical when nobody was watching her fight. She checked each distance against the scale twice. When one of the knots slipped, she cut it off and made a fresh one rather than pretending it would hold.
+
+"Do you actually like this?" he asked.
+
+"Fixing drainage?"
+
+"Getting all the numbers right."
+
+"I like being able to tell when somebody's wrong."
+
+He laughed. She didn't, at first. Then she did.
+
+When the markers were in place, Percy sat back on his heels.
+
+"Silena really built all this?"
+
+"She drew it. A bunch of us helped dig it. The naiads approved the route, and Chiron made us redo half the measurements because we were off by a foot."
+
+"Sounds terrible."
+
+"It was." Clarisse folded the map. "Also useful."
+
+Percy looked down at the water. He had been so quick to assume a strange current meant Poseidon had done something to the lake. Here was a water system made from surveying, stubbornness and children who had been willing to carry stones. It deserved to be understood on its own terms.
+
+He wanted to say something about that. Clarisse was already standing.
+
+"Come on. You'll be late."
+
+"For what?"
+
+"Chiron sent a messenger. Wants you at the Big House."
+
+Percy's stomach dropped.
+
+Clarisse watched him.
+
+"Should I ask why you look like you just swallowed a sea urchin?"
+
+"No."
+
+"All right."
+
+She didn't move.
+
+Percy looked up.
+
+"What?"
+
+"Nothing." She adjusted the map under her arm. "Just remember what I said. If you don't know how something works, ask before you start pulling at it."
+
+"About the lake?"
+
+"About everything."
+
+She headed toward the cabins. Percy followed more slowly. He had a map full of practical answers, a stolen document in his trunk and no idea which one Chiron wanted to discuss.
+
+The Hall was bright above the trees. It still looked out of place. But now Percy knew at least one thing about camp that had changed without anybody rewriting history.
+
+Somebody had dug a ditch and built a useful thing. The work was on a map, and there were people he could ask about it.
+
+---
+
 The next day, Percy was summoned to Chiron's office.
 
 He found the centaur in his wheelchair form, but his expression was grave. Beside him, Mr. D stood with his arms crossed, looking even more irritated than usual.
