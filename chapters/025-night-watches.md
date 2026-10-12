@@ -587,6 +587,136 @@ On the walk back, Silena held Grover's hand the whole way, swinging it.
 ---
 
 
+The patrol list had one missing signature.
+
+Silena noticed it while taking the empty thermoses to the Big House after their fifth watch. The form had been left on the porch beneath the lantern, where counselors signed when they returned from the border. Every patrol's name was there except the last pair from the eastern path.
+
+She put down the thermoses and checked the times. The names belonged to a Demeter camper and an older boy from Hermes, both experienced enough not to forget something as routine as reporting in. The log showed them leaving at eleven, with a scheduled return at two. It was now twenty minutes past two.
+
+Grover stood beside her, shivering in a borrowed jacket.
+
+"Maybe they signed a different page."
+
+"Then we check. We don't assume it."
+
+Silena knocked on the study door. Chiron was working inside with the latest reports about the restless border, and he came at once when she explained. He did not seem alarmed, but he asked a second counselor to check the infirmary while he took the lantern and examined the posted routes.
+
+"Do you know where they were assigned?" he asked.
+
+"East fence, between the ash tree and the old stone wall."
+
+"Good. Stay on the porch. I will have their leader check the path."
+
+Grover made a small unhappy sound.
+
+"I can listen from here," he offered. "If they're in the woods and frightened, I might hear something."
+
+Chiron considered. "You can stay with Silena. Do not leave the porch without telling me."
+
+The centaur moved into the trees. Silena wanted to go with him. She had packed an entire emergency bag for the week of night watches and was standing within reach of it. She also knew the exact reason Chiron had told them to remain. The patrol route already had people responsible for searching it, and one more child in the dark would complicate the headcount rather than help.
+
+Grover closed his eyes. He could hear the insects in the strawberry fields and a dryad moving through the oak nearby. Beyond those sounds was something unfamiliar: a regular scraping followed by an impatient voice. It was too faint to make out the words, but it seemed to be coming from the path below the herb garden.
+
+"I hear somebody," he said.
+
+"Where?"
+
+"East of the lower shed. The voice sounds annoyed, not frightened."
+
+Silena took the observation down rather than treating it as proof their missing campers were safe. She noted the direction, the time and the sound, then asked the counselor on duty to send it to Chiron.
+
+Ten minutes later the Demeter girl arrived with her arm around the Hermes boy. They were wet, muddy and arguing.
+
+"He stepped into the ditch," she said, before anyone asked.
+
+"The ground wasn't where the map said it was."
+
+"The map showed the path, not the shape of every puddle."
+
+Chiron returned behind them. The boy had twisted his ankle, and they had stopped to secure it before coming back. Neither had been in danger from a monster. They had simply taken longer than the form anticipated and failed to notify anyone that the route had changed.
+
+Silena was relieved. She was also angry in the peculiar way she became angry when a preventable problem created unnecessary fear for half a dozen people.
+
+"Did you try the signal whistle?" she asked.
+
+"The reed fell out," the Hermes boy admitted.
+
+"The backup?"
+
+"It was in the pack. I couldn't reach it from where I was sitting."
+
+Chiron asked the pair to visit the infirmary and said they would discuss the route equipment in the morning. He thanked Grover for listening and Silena for keeping the account precise.
+
+On the walk back to Cabin Three, Silena carried the thermoses without making a joke. Grover walked beside her until they reached the pavilion.
+
+"I think I was useful," he said.
+
+"You were."
+
+"But I couldn't tell whether they were hurt. I just heard a voice."
+
+"That's what useful information sounds like sometimes. You didn't invent the rest."
+
+He considered the answer. He'd spent years wanting to become a Searcher, imagining himself identifying a divine presence from the faintest movement in the trees. Tonight he'd helped because he knew the limits of what he heard and was willing to say so.
+
+Silena stopped at Cabin Three.
+
+"I should have packed two whistles," she said.
+
+"You already packed three."
+
+"One broke. The other was where nobody could reach it. What matters is whether the person who needs it can use it."
+
+Grover nodded. "Then tomorrow we can ask Chiron to make people wear the backup outside their packs."
+
+"Exactly."
+
+The cabin lights were out when Silena went inside. She placed the clean equipment on the stores shelf, left the muddy thermoses by the washing basin and wrote a short note about the signal failure for the morning meeting. Then she went to sleep.
+
+---
+
+The next morning's equipment review was not glamorous. Chiron lined up the whistles, lanterns and route cards on a table and asked the patrol leaders to explain what they'd actually carried. Some remembered perfectly. Others described what they were supposed to have packed and had to be reminded that the question was about the night before.
+
+Clarisse took the revised checklist and tested it against a practice scenario. She asked Nico to sit on a bench with one ankle tucked underneath him and demonstrate whether he could reach the whistle from each of the prescribed locations.
+
+He took the instruction very seriously.
+
+"Here," he said, pointing to the cord around his neck. "I can reach it with either hand."
+
+"And if the cord catches on something?"
+
+He moved it to the front of his jacket. "There."
+
+"Good. If you lose the first whistle?"
+
+He lifted the spare from the outer pocket. Clarisse nodded.
+
+"That's what we need. Not a form claiming somebody carried two whistles while both are at the bottom of the same bag."
+
+The Hermes boy who had twisted his ankle was sitting nearby with his foot supported. He looked embarrassed by the whole exercise, especially when the instructor asked him to describe where he'd been standing when he lost his balance.
+
+"It was a bad step," he said.
+
+"It was," Chiron replied. "The trail also needs a new marker. We inspect the cause without making the injured person a spectacle."
+
+The boy looked relieved. Percy was glad to hear the distinction. He had spent the week listening for danger at the border and had begun to expect every incident to become evidence of a larger threat. Sometimes a bad step was a bad step, and the right answer was a better marker.
+
+Annabeth examined the route cards and noticed that the eastern path had been mapped from the top of the ridge rather than from the lower junction. The difference meant the ditch could be mistaken for a shortcut.
+
+"Can we redraw it from the junction?" she asked. "A person with a sore ankle isn't going to take the high route just to match our diagram."
+
+Chiron agreed. She worked with Bea to mark the lower path, while Percy and Clarisse checked the physical markers against the new drawing. Grover followed them, listening for the water running through the ditch so the map would distinguish the stream from the path in darkness.
+
+When the corrections were finished, everyone practiced reporting a delayed patrol without leaving their assigned position. It was slow enough to feel unnecessary. Percy remembered how easily he'd broken his own assignment during the eclipse and completed the drill without complaint.
+
+The younger campers made fun of how much paperwork it required. Clarisse told them paperwork was less painful than a sprained ankle. She had enough experience with both to sound convincing.
+
+By lunch, the team had repaired two markers, moved a whistle to a safer location on every patrol uniform and established a clear escalation time when someone was late. None of the changes made the border less dangerous by itself. They made the people watching it easier to find and harder to forget.
+
+
+
+---
+
 Night six was supposed to be their night off — the schedule rotated so no one pulled seven straight — but neither Percy nor Annabeth could sleep.
 
 Percy found Annabeth on the Big House porch at 11 p.m., blanket around her shoulders, notebook in her lap, staring at the dark.
