@@ -152,6 +152,62 @@ A thin blue line was running along the white stone of the Hall of the Gods, foll
 
 Percy didn't. He went out into the rain with the sound of a second warning following him.
 
+The steps had become slippery in the few minutes since he'd last looked outside. He nearly lost his footing at the bottom, caught the railing and forced himself to slow. The instructor had not told him to stay inside because she liked giving orders. The blue light moving between the Hall's columns meant the damaged ward was doing something unpredictable, and there were enough puddles on the path to make Percy painfully aware of how little he understood about electricity.
+
+He stopped beneath the eaves and looked for the nearest safe approach.
+
+Most of the campers from the western practice yard were moving toward the pavilion in a loose line. A counselor was calling instructions over the rain, directing people away from the damaged colonnade. Behind them, two younger boys were still trying to pull a supply cart out of the mud. One kept turning toward the Hall to see what the blue flashes meant.
+
+"Leave the cart," Percy called. "Chiron will need the path clear, and you can come back for the tools when somebody says it's safe."
+
+The boys hesitated. One of them pointed at the canvas bundles on the cart.
+
+"Those are the replacement coverings. The wind's going to take them."
+
+"Then let the wind have them for now. There are plenty of people who know how to make canvas. Not quite as many who know how to replace a twelve-year-old."
+
+That persuaded the smaller boy. He grabbed his friend's sleeve and pulled him toward the pavilion. Percy watched until they reached the steps. Then he headed for the line of trees that bordered the western side of the Hall, keeping out of the flooded track where the cart had been abandoned.
+
+He could see Chiron now. The centaur was standing beside a temporary barrier with the ends of his bow wrapped in dry cloth. He'd sent one healer toward the assembly point and another counselor to keep campers out of the Hall. The canvas over the damaged wall was lifting and falling in the wind, and every time it slapped the stone the lights beneath it seemed to jump.
+
+"Percy," Chiron called. "You were supposed to remain in Tempest Hall."
+
+"I saw Annabeth coming this way before practice," Percy answered. "She was helping Zoe look at the repair diagrams. Is she out?"
+
+Chiron looked sharply toward the colonnade. "She was with the maintenance team. The workers have withdrawn. I haven't seen her come through the western doors."
+
+Percy tried not to imagine why. The rain was blowing into his eyes, and the water in the gutters was moving far faster than the drainage system could carry it away. He could feel the pressure of it against the paving stones, a disorderly network of streams that wanted to join into one broad sheet.
+
+"Can you send someone to check the southern exit?" he asked.
+
+"I have." Chiron looked toward the main entrance. "Do not touch the bronze. Do not approach anybody who seems to be caught in the ward until I tell you how to move safely."
+
+"I'm not going to grab a lightning bolt."
+
+"This isn't a joke."
+
+Percy nodded. He knew the difference. He'd made the joke because the alternative was standing still while the building flashed around him and remembering a hundred times he'd arrived at a fight just too late.
+
+He went around the outside of the cordon with Chiron, staying on the drier path beneath the western wall. The storm had not stopped anyone from shouting; it had only made it much harder to tell who was shouting from where. Two Hephaestus campers were arguing about whether the repair cable could be isolated from the main ward. A satyr with a bandage on his ear was trying to clear fallen branches from the gate.
+
+Then Percy saw Annabeth through the opening.
+
+She had one hand against the marble column and the other stretched away from it, fingers spread. A younger camper was already running out past the eastern doorway, presumably the person she'd been helping. Annabeth wasn't following.
+
+The line of blue light along the bronze was getting brighter.
+
+"Chiron," Percy said, and pointed.
+
+They moved toward the edge of the mosaic together. Percy didn't go past the line of dry stone. He was close enough to see Annabeth's face now, close enough to know she was frightened and angry in the particular way she became when she couldn't make her body obey a decision.
+
+He heard the ward crackle. It sounded nothing like ordinary thunder.
+
+If he had been older, he might have tried to pull the entire fountain out of the ground or flood the stone until the charge stopped. He was twelve. He had only recently learned that moving water without knowing its route could make a disaster worse.
+
+So he looked at the drains first. The western gutter was full, and a narrow line of runoff had begun crossing the threshold toward the place where Annabeth stood.
+
+He could do something about that. He couldn't make the lightning safe, but he could make sure the wet floor didn't create one more route toward her.
+
 Near the Hall, Chiron was directing campers away from the path. A section of the fence had fallen across the entrance. Annabeth stood inside the open colonnade with one hand braced against a column. Percy saw sparks running over the metal ornamentation beside her fingers.
 
 She was trying to pull away. The charge came with her.
@@ -192,15 +248,15 @@ He looked again. She was right. Her fingers hovered an inch from the column. The
 
 Chiron approached from the opposite side, moving deliberately. "The ward is drawing on your powers," he said. "It's a feedback loop. We need to interrupt the circuit."
 
-Percy had never heard Chiron sound so uncertain about a training problem. He watched the fountain's runoff collect in the drain. If they got the line of water across the western threshold without letting it reach her feet, the Hall's excess charge might have a safer route out. It also might not.
+Percy had never heard Chiron sound so uncertain about a training problem. He watched the fountain's runoff collect in the drain. If the runoff crossed the threshold, it would put another hazard between Annabeth and the exit. He had no reason to believe the water would draw the lightning away safely. The best he could do was keep it from spreading.
 
-"Can I move the water outside the entrance?" Percy asked.
+"Can I pull the runoff back into the outside gutter?" he asked. "The drain's blocked and it's starting to cross the floor toward her."
 
-"Keep it away from her," Chiron said. "I'll take responsibility for the ward."
+"Do that, and keep your hands and feet away from the wet stone," Chiron said. "I'll isolate the damaged coupling. Don't try to control the discharge yourself."
 
-He raised his bow and struck a bronze coupling with an arrow. The metal rang. Annabeth cried out and dropped to one knee, but the line of light above her flickered.
+Percy drew the water back, holding it inside the shallow gutter until it ran over a clear grate. It took more effort than it should have. The storm kept supplying another inch of rainwater as fast as he moved it.
 
-Percy pulled the water along the outside gutter. It rushed past the broken coupling and down the drain. The next flare followed the wet stone instead of branching into the central mosaic.
+Chiron gave the maintenance crew a warning, waited for the all-clear and struck a damaged bronze coupling with an enchanted arrow. The fitting separated from the main strip with a crack of metal. The lights along the columns sputtered and collapsed toward the protected fittings at the far end of the colonnade. The workers had been preparing that isolation since the first alarm.
 
 "Now," Chiron said.
 
