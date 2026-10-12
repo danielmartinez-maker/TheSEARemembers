@@ -503,6 +503,177 @@ Rhys Calder's cabin had a stove with a real chimney and eight cots and one windo
 
 She came in. She sat. It was easier than deciding to.
 
+
+She had been prepared for him to tease her about the coat. Percy was smaller, and the sleeves swallowed half her hands; a person would have to be blind not to notice. Rhys looked at it, then at her face, and kept his opinion to himself.
+
+"Say it," she told him.
+
+"What?"
+
+"Whatever you're thinking."
+
+"That you look cold."
+
+"That's all?"
+
+"Do you want the complete list?"
+
+She raised an eyebrow. He seemed to consider the risk.
+
+"I thought you might come by. I was trying not to get my hopes up. I had a terrible afternoon trying to repair a bow that belongs in a museum. And I think you came here for something other than an archery lesson."
+
+She stood a little straighter. "You make a lot of assumptions."
+
+"Which one was wrong?"
+
+She could have challenged the first, or the last, or all of them. None was actually wrong. The coat had kept her warm on the walk; it did nothing for the heat moving into her face.
+
+"The bow probably does belong in a museum," she said.
+
+He laughed, not too loudly. "That's one way to answer."
+
+He crossed the room and came to stand in front of her. He was close enough that she could see the nick in the button at his collar. She had never before noticed how difficult it was to look someone in the eye while also knowing exactly how much she wanted to kiss them.
+
+"You don't have to perform an interrogation," he said.
+
+"I wasn't."
+
+"You were considering one."
+
+"It's a habit."
+
+"I've noticed."
+
+She watched him take the coat from her shoulders. He did it without the practiced flourish some men put into being gallant, just a small helpful motion when she lifted her arms. Her borrowed sleeves slid down over her wrists. He hung the coat beside his own, which seemed intimate out of proportion to the action. Two coats together. Two people who had chosen the same room. She glanced away before he could catch her studying the hook.
+
+The cabin was warmer than it had appeared from outside. She was conscious of the shift in temperature as she stood there, of the way the cold she'd carried in was leaving her clothes. He had a rolled cuff on one wrist, and there was a strip of dark thread caught beneath his thumb. It made her want to take his hand, which would have been a simpler thing than almost anything she'd faced all week. Simplicity was apparently a problem.
+
+"You're thinking again," he said.
+
+"Don't you ever get tired of pointing that out?"
+
+"Frequently."
+
+"Then why keep doing it?"
+
+"Because you look like you're about to run."
+
+She hadn't realized it was so obvious.
+
+"I'm not."
+
+"Good."
+
+The answer was too easy. He stepped back to give her room, and she found herself irritated that he hadn't remained closer.
+
+"Come here," she said.
+
+He stopped.
+
+"Closer," she added.
+
+He obeyed, with the tiniest smile. The obedience wasn't the point. The point was that she could ask him. She had walked in prepared to be daring and discovered that courage might consist of three ordinary words delivered without making a joke of them.
+
+She put one hand flat against his shirt. She could feel his heart beneath her palm, steady but quicker than it had looked from across the cabin.
+
+"You're nervous," she said.
+
+"Very."
+
+"You don't look it."
+
+"I've had practice."
+
+"Being nervous?"
+
+"Looking as if I'm not."
+
+She laughed once, quietly. He rested a hand against the side of her face. The gesture was slow enough that she could have moved away at any point. She didn't. She liked his fingers resting near her cheek. She liked how he was looking at her as if she were not a task to complete or an injury to manage, only a person who had arrived at his door and said she wanted him closer.
+
+She could feel the first kiss before it happened, in the way he shifted toward her and then paused. They were close enough that she could have settled the matter with an inch of movement.
+
+Instead she asked, "Are you always going to wait for me to do everything?"
+
+"Not if you tell me you don't want me to."
+
+"That sounds suspiciously like another question."
+
+"It's an answer."
+
+She held his gaze. "Then don't make me do everything."
+
+He smiled and touched his forehead lightly to hers. For several seconds they stayed there, neither quite moving. It was almost unbearable. She could hear the stove settling on the other side of the room and an owl outside somewhere near the cedar brake. She had never cared less about the habits of owls.
+
+Then he brushed his lips against the corner of her mouth, just once, and waited.
+
+She closed the remaining distance.
+
+The kiss was brief, but it left her startled by how much she'd wanted it. His hand remained at her cheek. She kept hers against his chest, fingers catching in the fabric. When they separated she was looking at him much too closely, watching the way he drew breath, unable to decide whether to laugh or kiss him again.
+
+"That was a terrible start," she said.
+
+"Oh?"
+
+"Very cautious."
+
+"I've been warned you're dangerous."
+
+"By whom?"
+
+"Everyone."
+
+She grinned. "They were right."
+
+He laughed, and the sound made the room feel smaller in a way she liked.
+
+A gust pressed against the shutter. She started a little, annoyed with herself, and Rhys glanced toward the window.
+
+"Wind," he said.
+
+"I know."
+
+"We're safe inside."
+
+"I wasn't frightened."
+
+"Didn't say you were."
+
+She let go of his shirt to prove she was perfectly composed. Then she took his hand because letting go had been an even worse idea. He looked down at their fingers, surprised enough that she felt a small thrill of victory.
+
+"Is this all right?" she asked.
+
+"Yes."
+
+"Good."
+
+The truth was that she wanted several things at once, and she was struggling with the notion that she could choose them in any order. She wanted to be kissed. She wanted him to listen to her talk and not try to turn every sentence into a lesson. She wanted to know how he looked when he was less certain of himself. She wanted to sit by the stove until the cold left her feet. None of those desires canceled the others.
+
+He glanced toward the kettle. "Can I offer you something to drink?"
+
+"Are you trying to distract me?"
+
+"Only from the fact that I have been standing in the same place for five minutes."
+
+"You're not complaining."
+
+"Not even slightly."
+
+She released his hand, slowly, and moved toward the chair. He picked up the folded cushion from the cot and placed it behind her back, then looked at her with the faintest suggestion of challenge.
+
+"Better?"
+
+"Acceptable."
+
+"High praise."
+
+"Don't get used to it."
+
+He sat opposite. The small distance between them felt newly alive. She was aware of his eyes meeting hers across the mugs, of the fact that he could come closer whenever she asked, of the knowledge that she might be bold and awkward and still welcome here.
+
+When he gave her the warm drink she let her fingers brush his for a moment longer than necessary. He noticed. She could tell. It was the first time that evening she genuinely wanted him to notice, and the pleasure of that kept her smiling into the mug long after she'd put it down.
+
+
+
 He had the small stove going and a mug of something that steamed, and he gave her the chair with the cushion on it and sat himself on the edge of the cot, and they talked about nothing for twenty minutes the way people do when they are circling. The winter cabin assignments. The forge's new bellows. Whether the Tempest Hall counted as swimming season — rule five, they agreed, meant it counted. The letter his mother had sent with four dollars in it and a note that said *do not lose the four dollars.* The slate by the door with the laundry instructions and the camper gossip written over it in three different hands, and the top line, in a square careful hand she did not recognize, said *ETERNITY. THAT'S ALL.* He caught her looking at it.
 
 "I wrote that," he said. "I was seventeen and stupid and I meant it."
