@@ -416,8 +416,10 @@ Annabeth was quiet, and Percy thought she might be crying again, but when she lo
 
 Annabeth laughed, and the sound carried across the water, bright and young and hopeful. Above them, the sky deepened to violet. Somewhere across the country, under the same sky but different stars, a ten-year-old boy with a gap-toothed smile had a drawing of three kids and a lake and strawberries everywhere, learning the names Lia and Beff by heart.
 
-It wasn't enough. It would never be enough until the distance closed.
+Annabeth watched Thalia write **LIA** in large letters beneath the drawing, in case Jason had forgotten the nickname by the next call. Then she wrote **BEFF** beside it, deliberately misspelled.
 
-But for now, it was a start.
+"You're really keeping that?" Percy asked.
 
-And the sea remembered, even when the sky forgot — and tonight, both were watching over two camps, and a brother across the country who was loved by people he was still learning to know.
+"Obviously."
+
+They left the picture drying on the desk overnight. In the morning Chiron would help them find out whether another copy could reach the Roman camp without a rainbow.
