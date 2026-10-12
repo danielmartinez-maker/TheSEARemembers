@@ -842,3 +842,25 @@ He considered. "Maybe I should do that more often."
 
 They walked together until the paths separated. Annabeth went to Cabin One to change before lunch; Percy went to wash the glue and sawdust from his hands. The next time someone brought Annabeth a building plan, he might still feel a sting of jealousy. He hoped he'd remember the unfinished roof, the useful questions and the new boy who had wanted to make his mother proud.
 
+---
+
+Theo stayed behind after lunch to put a label on the model. The steward had told him that anything left in the library needed a name and a date. Otherwise it might be mistaken for an old project and moved into storage.
+
+He wrote *Hermes offering, in progress* on a small card, then hesitated before adding his own name. The model still needed paint and a working door. Part of him wanted to wait until the whole thing looked impressive. He thought about what Annabeth had told him: a useful building had to be able to survive ordinary weather and ordinary mistakes, not only look good on the day it was finished.
+
+He wrote his name.
+
+The other campers had helped. Annabeth had shown him how to change the proportions without destroying his idea, Beckendorf had explained the hinges, and Percy had suggested the removable notch that finally let the roof sit level. Theo had made the first drawings. He had also been the one to cut the cardboard too thin and glue the joint that was supposed to move. All of that belonged to the project.
+
+He opened his letter paper. He wanted to tell his mother something about camp that wasn't a monster or a god's name. He wrote about the temple and the message shelf. He described the way they'd measured the steps, tested the roof, and changed the support after it failed. He didn't claim to have built it alone.
+
+When he came to the part about Percy, he paused. Yesterday the son of Poseidon had seemed to dislike him without explanation. Today Percy had spent almost an hour holding the model steady and admitting he'd behaved badly. Theo appreciated the apology because he hadn't been looking for an argument in the first place.
+
+He added a line about making new friends who liked solving problems, even when the problems were only cardboard and glue.
+
+Outside the window, Percy and Annabeth were walking separately toward their afternoon assignments, still arguing across the path about whether the sundial needed to be on the roof. Theo smiled. He would ask them to look at his revised drawing when it was ready. Not before.
+
+He folded the letter, wrote the address carefully and took it to the mail steward. The graph paper went back into its envelope, ready for the next set of measurements. He had arrived at camp hoping to be noticed by a father he barely knew. He now had a model he understood and people he could ask when he didn't understand the next part. That seemed a decent beginning.
+
+
+
