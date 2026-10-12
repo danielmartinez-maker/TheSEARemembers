@@ -69,7 +69,7 @@ In [“The Long Winter”](../../bonus/the-long-winter.md#L53), Rhys says, “If
 
 ## Checks that did not reproduce the noted Chapter 20–21 family/cabin problem
 
-I checked the relevant current GitHub passages in Chapters 20–21. Annabeth and Thalia are described as sisters sharing the Zeus cabin, and Clarisse identifies Poseidon as her father ([Chapter 20, lines 119–123 and 319–351](../../chapters/020-cake-and-lightning.md#L319)). I did not find that specific sibling/cabin conflict in those passages. This closes only that bounded check; it does not replace the bible's broader all-chapter family audit.
+I checked the relevant current GitHub passages in Chapters 20–21. Annabeth and Thalia are described as sisters sharing the Zeus cabin, and Clarisse identifies Poseidon as her father ([Chapter 20 lines 119–123](../../chapters/020-cake-and-lightning.md#L119) and [319–351](../../chapters/020-cake-and-lightning.md#L319)). I did not find that specific sibling/cabin conflict in those passages. This closes only that bounded check; it does not replace the bible's broader all-chapter family audit.
 
 The three bonus-directory files include two narrative interludes and a heading-only index. The interludes were included in the duplicate scan. No additional 300-word duplicate cluster appeared in them or in other chapters.
 
