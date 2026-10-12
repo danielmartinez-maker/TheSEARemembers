@@ -763,6 +763,166 @@ Thalia stared into the fire. "He wants us to choose."
 
 Percy felt Annabeth's hand creep across the cushion toward him. He took it without looking, lacing their fingers under the edge of the blanket Silena had draped over their laps. Her hand was cold. His was sweaty. They held on anyway.
 
+
+Silena leaned forward, careful not to spill the blanket off her knees.
+
+"May I tell you something that happened today?"
+
+Chiron looked relieved to have been offered a question he could answer without speaking for the entire council of gods.
+
+"Please."
+
+She handed him the requisition slip from the armory. The paper was creased, its bottom edge stained with something Percy suspected was one of the older cabin's training oils.
+
+"Three shields need straps before morning practice. The clerk says Cabin Three needs special authorization. There isn't a camp rule for that, or at least he couldn't find one."
+
+Chiron read the slip. His expression changed gradually. By the time he finished, the tiredness remained but the kindness had become something harder.
+
+"Did he refuse the supplies because you are a child of Poseidon?"
+
+"He didn't say so in exactly those words."
+
+"He mentioned Atlantis twice," Clarisse said. "And said the materials had to be accounted for in case any of them left camp."
+
+Chiron put the paper on the table with deliberate care.
+
+"He should have asked for your counselor's signature, just as he asks every cabin to provide one for certain supplies. The requirement doesn't change depending on a camper's parentage. I'll authorize the straps and speak to him tonight."
+
+"He's not a villain," Silena said quickly. "He was nervous. I don't want to get him punished over three pieces of leather."
+
+"You haven't asked me to punish him," Chiron said. "You've asked me to apply the same rule to everyone. That is not a small thing."
+
+Clarisse shifted in her seat. "It feels small when everyone keeps calling us dangerous."
+
+"Then we must address both things," Chiron replied. "The supplies tonight. The accusations separately."
+
+Thalia leaned forward so abruptly that the fire shifted in the draft of her movement.
+
+"How? Do you put a notice on the door saying Zeus's children and Poseidon's children are still allowed to use the same dining hall?"
+
+"Perhaps that would help," Chiron said, without smiling. "If so, I will write it."
+
+Thalia stopped. She had been expecting a lecture, Percy thought, and it was difficult to know what to do with a person who took the practical part of your sarcasm seriously.
+
+Annabeth pulled a folded page from her pocket.
+
+"I already gave you some incidents," she said. "There have been more. We're not taking statements for you. People started acting as though I was choosing which names belonged on a list."
+
+"I heard," Chiron said.
+
+She looked startled. "Who told you?"
+
+"Several people, Annabeth. They believe the absence of a public answer creates a duty to invent one."
+
+"That's a terrible duty," she muttered.
+
+"Yes."
+
+Percy watched her relax by perhaps an inch. A teacher admitting that the adults didn't have the answer was a strange kind of relief. Chiron might be three thousand years old, but nobody in that room was pretending he could see into the missing bolt's hiding place.
+
+Annabeth unfolded another scrap, this one covered in block letters.
+
+"I drafted a statement," she said. "You don't have to use it. I just thought if counselors all said the same thing, people might stop treating rumors as orders."
+
+Silena smiled. Percy could tell she was trying not to look too proud of Annabeth.
+
+"Read it," Chiron said.
+
+Annabeth did, more slowly than she usually read her own work. She had written that no camper had been publicly charged; that counselors should not deny ordinary access to training, meals, or supplies on the basis of divine parentage; that accounts of harassment should go directly to camp staff, with names and dates where possible; and that interfering with another cabin's duties would remain a camp disciplinary matter. There was nothing on the page about Zeus being right or Poseidon being innocent.
+
+When she finished, the silence was long enough that Percy wondered whether she'd gone too far.
+
+"Take out the sentence about no camper being charged," Chiron said at last.
+
+Annabeth's pencil was out before he finished.
+
+"Because somebody has?" she asked.
+
+"Because it invites the question of whether a private charge exists, and I cannot tell every camper what happened at a divine council. Say instead that no disciplinary action against a camper has been authorized on this matter. That is something I can verify."
+
+Annabeth wrote the correction. "That's narrower."
+
+"Sometimes precision is kinder than reassurance."
+
+Thalia made a harsh noise. "You mean it gives people fewer ways to prove you're lying."
+
+Chiron looked at her directly.
+
+"I mean I don't intend to lie to children, Thalia. Not even when a lie might comfort them for one evening."
+
+For a moment Thalia seemed ready to argue that a lie could not possibly comfort her. Then she caught Annabeth watching her and sat back.
+
+Percy wished he could say the same thing about his own secrets. He was protecting memories nobody here could explain, and he did not want to imagine what would happen if Chiron asked him where his certainty about Zeus's bolt came from. It wasn't the same as a lie, exactly. It also wasn't the whole truth.
+
+Silena tilted her head toward the revised draft.
+
+"If the counselors read it, they'll have to agree to follow it."
+
+"Yes," Chiron said. "I will call them together at breakfast. For tonight I'll tell the armory and infirmary staff directly."
+
+"Will you tell the harpies?" Percy asked.
+
+All five other people looked at him.
+
+"What?"
+
+"One of them told Grover the other day that she didn't want to carry extra supplies to our table, because somebody might say she was on our side. Grover didn't mention it earlier because she still brought the supplies. But if we're writing rules about the armory, shouldn't the kitchens count?"
+
+Chiron closed his eyes briefly.
+
+"Yes, Percy. The kitchens count."
+
+He added a note beside Annabeth's page.
+
+The conversation shifted. Silena spoke about how quickly the younger children noticed when a camp worker treated their table differently. Clarisse argued that requiring names for every report might silence campers afraid of retaliation. Chiron agreed to accept reports without names while keeping separate the question of what action could fairly be taken on an anonymous claim. Annabeth asked how to prevent the report system from becoming a way to punish personal enemies. They argued about that one, properly, long enough for the logs in the hearth to settle and crack.
+
+Percy followed most of it. He didn't agree with everything Chiron proposed. A quiet conversation in the Big House couldn't make the gods behave, and a rule didn't stop a person from finding a new way to be cruel. But the discussion moved away from asking five children to bear a war they hadn't started, and toward asking adults to do their jobs.
+
+Then Thalia spoke.
+
+"What about us?" she said.
+
+Chiron lifted his head. "I thought we were discussing the treatment of all campers."
+
+"We were." Her voice tightened. "But I mean us. If Zeus demands that I prove I'm loyal to him by doing something against Percy or his family, what are you going to do?"
+
+The fire made a little snapping sound. Percy looked at Annabeth. She was very still.
+
+"Has Zeus demanded that?" Chiron asked.
+
+"Not yet. You said he wants to feel secure. You said he might ask people to choose. I'm asking what you do if he asks me."
+
+Percy hadn't understood until then how much Thalia had been carrying all week. He'd been thinking about the suspicion aimed at Cabin Three, the gossip, the looks at dinner. Thalia was being asked to defend a father she couldn't reliably speak to, while knowing his anger could land on the people she loved most.
+
+"I won't do it," she said. "Whatever it is. I'm telling you now."
+
+"You don't know what he would ask," Chiron replied.
+
+"If it's about hurting them, I know enough."
+
+Her hand had moved to the arm of Annabeth's seat, not quite touching her sister's shoulder. Annabeth put her own hand over it.
+
+"Then you won't be alone," Annabeth said.
+
+"No," Thalia answered, eyes on Chiron. "But I'm the one he can punish for saying no."
+
+Percy felt sick. He thought of the changing faces of Zeus in stories Annabeth and Thalia had told him, and how easily the god made the girls wait for some sign that he had heard them. He didn't know what Zeus would do. He was afraid of finding out.
+
+Chiron's answer came slowly.
+
+"I cannot give you an absolute guarantee against your father's anger. That would be a promise beyond my power." He leaned forward. "I can tell you that if such an order comes through camp, I will not require you to carry it out alone, and I will not conceal it from the other people whose safety depends on it."
+
+"That's not much," Thalia said.
+
+"It is what I can pledge."
+
+Thalia looked as though she wanted to reject the words for being too little. Then she glanced at her sister. Annabeth wasn't asking her to make peace with their father, only to stay for the rest of the meeting.
+
+"Fine," she said finally. "But write that down too."
+
+Annabeth did. Percy watched the pencil move, and thought how strange it was to see a promise to a god's daughter recorded on the same page as a replacement-shield requisition. Maybe that was what a real camp was: divine politics at the table, children who needed shields tomorrow, and adults who were supposed to know the difference between them.
+
+
 Chiron kept talking, about staying together, about not rising to taunts, about reporting bullying, about the solstice. Percy tried to listen, but most of his attention was on Annabeth's hand in his, small and cold. She was scared. He could feel it in the tremor she tried to hide. He was scared too. The old, seventeen-year-old fear — of war, of quests, of losing people — sitting inside a twelve-year-old body that wanted to cry.
 
 He squeezed her hand. She squeezed back. Twice. Their signal. I'm here. I'm here.
