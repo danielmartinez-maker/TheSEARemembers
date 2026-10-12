@@ -1,61 +1,196 @@
 ## Chapter 8: The Gathering Storm
 
-Percy and Annabeth stopped meeting at the lake every night after Chiron tightened curfew. That didn't stop the investigation. It made Annabeth change its schedule.
+Percy discovered that the fastest way to lose an argument with Silena was to insist that he was capable of doing two things at once.
 
-They started with a notebook at breakfast, a stack of old camp maps borrowed from the Athena cabin, and a rule neither of them particularly liked: every theory had to be separated from an observation.
+"You can carry the letters or you can carry the toolbox," she told him. "If you drop the bag in the creek, the post doesn't get to tell Amphitrite that you meant well."
 
-"You made this rule," Percy said, looking at the page.
+"The creek is about a foot deep."
 
-"Because you decided the canoe lake was connected to Atlantis when you felt a current."
+"Then your mother's going to get a letter that smells like a foot-deep creek. Which do you think she'll like better?"
 
-"It felt different."
+Percy looked at the canvas mailbag she'd placed on the bench. His sealed letter to Amphitrite was inside, along with several others that needed to go out with the satyr messenger before noon. The letter had occupied most of the previous evening, and he'd spent enough time thinking about it that even the possibility of its getting wet made him uneasy.
 
-"So we write 'felt different,' not 'Poseidon linked it to the ocean.'"
+He handed the toolbox to Clarisse.
 
-"Fine." He looked at the list. "What about Clarisse and Silena being my sisters? That's fairly observable."
+"Fine. You win."
 
-"Extremely." Annabeth wrote the names beside two sketched cabin symbols.
+"I didn't realize we were competing," Silena said, counting the envelopes a second time.
 
-She recorded things they alone remembered from their previous life in one part of the notebook, and facts they could verify in this life in another. Clarisse had belonged to Ares in the first history Percy remembered; here she was Poseidon's daughter. Silena had belonged to Aphrodite; here she was his sister too. Thalia was not a pine tree or a Hunter but Annabeth's older sister, and Annabeth had grown up in Cabin One with a different parentage.
+"We weren't," Clarisse told him. "You invented that part."
 
-Annabeth drew a line under *memories*. "We can't show this page to Nico."
+It had been two days since the storm damaged the Hall's already vulnerable ward. The paths around the building were still cordoned off. Chiron had tightened curfew, assigned extra border patrols and warned campers against guessing which god might be responsible for the trouble. Percy understood the warning. He also knew that a rule against speculation was not going to stop the speculation.
 
-"Or Clarisse."
+He helped Silena take the mailbag to the messenger's collection point. On the way they passed two Hephaestus campers carrying fresh wooden panels toward the Hall. A third camper stood by the path, making a list of everyone going in and out of the work zone. She was taking the job seriously enough that a senior counselor had to explain why his name was missing from the roster.
 
-"Not until we decide what we want them to know." She turned to a clean sheet. "This page we can show. The Hall was built three years ago. The camp rules changed. We found different copies of the prophecy. Those are things other people can check."
+Silena watched the exchange with approval.
 
-Percy watched her pencil move. They were twelve again, writing homework in an untidy notebook, except the homework concerned divine politics and their missing lives. Some things were easier to bear when broken into small tasks.
+"At least somebody's recording who goes into the building now."
 
-Annabeth made two maps. The first came from Percy describing the camp he remembered. The second came from the plans Chiron had agreed to lend them. The differences included cabin placements, added defenses, and the new Hall. Where the maps disagreed, she wrote questions in the margins rather than answers.
+"You don't think they did before?"
 
-"The Oracle," she said. "We haven't checked every old transcript in the attic. We found the note, but we didn't check the date of the copy Chiron made before the theft."
+"I think they did sometimes. Then people stopped thinking it mattered because they knew one another. That's the problem with a place where everybody knows which drawer the keys are in. Eventually nobody remembers who last opened it."
 
-"You want to go back up there."
+Percy thought of the attic window in the Big House, which had been left loose long enough that he and Annabeth already knew how to use it. He looked away before Silena could notice the expression.
 
-"I want to compare copies, and I want to know why the Oracle hasn't spoken for weeks."
+"You found anything new about the delivery signature?" he asked.
 
-"Chiron told us not to go into the archives alone."
+"Not yet. The stores keeper remembers the crate because it was heavier than the invoice said it ought to be. That's something we can check. He doesn't remember the person who signed for it, and I'm not going to make up an answer because Nico wants the ledger finished."
 
-"He told us he was investigating the records. We need to ask again before we do something stupid."
+"Have you told Chiron?"
 
-Percy raised an eyebrow.
+"Of course. He asked for the original invoice to be sealed while we compare the copies. It's still in the stores office, and this time somebody's actually signed the borrowing register."
 
-"Yes," she said. "I know what I just said."
+She paused at the messenger's desk and deposited the mailbag. Percy watched the satyr open it, count the envelopes and place Amphitrite's letter in a separate pouch for sea delivery. The sight gave him an odd mixture of relief and dread.
 
-They made a plan that was, on paper, much better than breaking in. The trouble was that the answer they received from the Big House that afternoon was no: Chiron was busy with border patrols, and the attic remained restricted.
+"She'll write back," Silena said.
 
-Annabeth crossed out *ask politely* and tapped her pencil against the page.
+"I know."
 
-"We tried," she said.
+"You look as though you're not sure you want that."
 
-"Technically."
+He thought about the childhood the letter had mentioned without describing. He hadn't lied, exactly. He had chosen what he could tell.
 
-"Are you coming?"
+"I want to hear from her," he said. "I'm just not always sure I know what to say when she writes about things from before camp."
 
-Percy looked toward the Hall. The damaged columns were wrapped in canvas; two Hephaestus campers were arguing about the proper size of a replacement bracket. He didn't like the idea of a fourth nighttime visit. He liked even less the idea of leaving Annabeth to make one by herself.
+Silena looked at him for a moment. "Then ask her about the things you want to know. You don't have to pretend you remember every detail before you're allowed to talk to her."
 
-"We go together," he said. "And this time we leave the records where we find them."
+Percy nodded. He'd been given that advice before. It still hadn't become easier to follow.
 
+At breakfast, Annabeth claimed the end of the Poseidon table for their notebook. She had kept the bandage on two fingers, which made her pencil grip awkward, and had arranged a small stack of loose pages beside her bowl. Percy brought two plates and sat opposite her.
+
+"You know Chiron's going to put you back on an early bedtime if he finds out you skipped breakfast to make another chart."
+
+"I didn't skip breakfast. I'm eating right now."
+
+"That's an empty bowl."
+
+"I had an apple before you got here."
+
+"That's the same defense you used yesterday, and Thalia ate the apple."
+
+Annabeth looked at the plate he pushed toward her. "You brought bread?"
+
+"And eggs. I have been informed that they're good for keeping a person alive."
+
+She took the plate and began eating, though she kept one hand on the notebook so the morning breeze wouldn't lift the pages.
+
+They had agreed to keep two sets of notes. The first contained what they remembered from their erased life: the wars they had survived, the families they had known, the version of camp where Annabeth was Athena's daughter and Clarisse belonged to Ares. The second contained things anybody in this camp could check, such as the Hall's construction dates, the purchase orders, the damaged wards and the conflicting prophecy records.
+
+They could not afford to mix the two.
+
+"The problem isn't that we're getting nowhere," Annabeth said, using the side of her thumb to turn a page. "It's that we're asking different questions without realizing it. We keep acting as though proving the Hall had a bad installation would prove why our lives changed. It wouldn't."
+
+"Agreed. We could have a badly installed ward and somebody rewriting time. Camp could be unlucky enough to get both."
+
+"And the Oracle's silence might be another separate problem."
+
+Percy looked toward the Big House. "Or they might be connected."
+
+"Exactly. But if we're going to test the connection, we need a reason other than both things frightening us."
+
+He leaned over the notebook. She had drawn three boxes and connected them with dotted lines.
+
+*Hall maintenance.*
+
+*Prophecy transcripts.*
+
+*Oracle silence.*
+
+Under the first she'd written *physical evidence and witnesses*. Under the second, *dated copies, origin uncertain*. Under the third, *Chiron confirms no new prophecy for three weeks*.
+
+"Where do our memories go?" Percy asked.
+
+"On the other page. We know those memories exist, Percy. We don't have to prove them to each other. But Nico can't inspect what we remember. If we ask him for help, we have to give him something he can actually examine."
+
+He looked at the margin. There she'd written a question about the cabin layout, then crossed it out and written *not independent proof*.
+
+She had been doing that more often. A detail from their old lives would occur to her, and she would reach for the easy explanation before remembering that the camp around them held a very different set of records. Percy knew why it frustrated her. She had spent years solving problems by comparing what she knew against what the world told her. Now even that comparison required an argument about which world had been real.
+
+"You're going to wear a hole through the paper," he said, pointing to the place where she'd been pressing her pencil.
+
+"I've noticed."
+
+"Want me to write for a while?"
+
+She hesitated, looking at the bandages, then handed him the pencil.
+
+He wrote *check original dated copies* beneath the prophecy box.
+
+Annabeth nodded approvingly. "Good. And we need to ask about the Oracle without making it sound as though we've decided somebody gagged her. Chiron knows she's been silent, but he hasn't said why."
+
+"Do you think he'll let us speak with her?"
+
+"I think he'll tell us that he's still investigating the records and the ward damage. But I want to ask properly before we do anything else."
+
+Percy lifted an eyebrow. "You mean before we do something he tells us not to do."
+
+"Preferably before we even decide whether we're going to do that," she replied, reaching for her bread. "I'm trying to improve my methods."
+
+"You could start by asking your boyfriend whether he's finished his own repairs before volunteering him for a burglary."
+
+"I haven't volunteered you for anything."
+
+"Yet."
+
+Annabeth smiled faintly. It had been an exhausting week, and he was glad she still found him funny.
+
+They took the notebook to the Athena cabin to compare two public maps. The older one showed a path that the Hall's builders had rerouted three years earlier. Annabeth pointed out where the new foundation had overlapped the previous supply road. Percy marked the difference in pencil, then asked why there were so many crossed-out measurements along the southern edge.
+
+"The ground was probably unstable," she said. "Or the survey team changed the design. There's a note here about drainage work, and this area gets water from the hill after heavy rain."
+
+"So yesterday's flooding wasn't exactly a surprise."
+
+"No, but the amount was worse than the plans expected. That's something the repair crew can use, even if it has nothing to do with the prophecy."
+
+He could see the distinction she was making. The mystery was not the only reason to ask a good question. Sometimes a drainage map mattered because somebody might slip in a flooded entrance during the next storm.
+
+At midday they took their public notes to the Big House and requested an appointment. The secretary at the front desk was a harried satyr with a stack of forms taller than his horns.
+
+"Lord Chiron is handling the border patrol reports," he said. "If you have information about the Hall, leave it with the maintenance team. If it's about the Oracle, put your request in writing."
+
+Annabeth produced a page from her satchel.
+
+The satyr examined it. "You've already written it."
+
+"I had a feeling you might ask."
+
+"I can send it upstairs. That doesn't mean he'll say yes."
+
+"We understand," Percy said.
+
+They waited on the porch while the satyr carried the request away. Annabeth ran her thumb over the edge of the notebook, catching herself when it pressed against a healing burn. Percy wanted to tell her to stop, but he'd heard enough people telling her what to do with her hands this week. He shifted closer so she could rest the book on his knee instead.
+
+Chiron returned their request that afternoon with a handwritten note: the attic remained restricted because its protections were under review, and no one was permitted to question the Oracle until he and Mr. D determined that it was safe. He would consider a supervised meeting when the inspection was complete.
+
+That was a refusal, but not an unreasonable one.
+
+Annabeth read the note twice.
+
+"How long is the inspection going to take?"
+
+"It doesn't say."
+
+"He should at least tell us what he's checking. We're the ones who found the conflicting copies."
+
+"Maybe the next step is to ask for the dates and stop trying to go into the attic," Percy said.
+
+She looked at him sharply. "I don't want to stop. Something is wrong with the Oracle, and if we wait for everybody to finish repairing every bracket in camp, we could be waiting until the next disaster."
+
+"That's possible," he said. "But there are people who can help us without climbing through a window. Nico knows how to trace the records. Zoe knows the Hall's ward marks. Thalia can ask about Olympus's purchase orders. We could spend one day listening to what they find."
+
+Annabeth looked away toward the Hall. The new canvas was tied down tightly, and a worker on a ladder was measuring the distance between two mounting points.
+
+"You want to wait," she said.
+
+"I want us to have a reason to break the rules that isn't just being frightened somebody will get there first. I've broken plenty of them. I don't want to do it automatically because we're worried."
+
+She turned back, a little surprised by his answer.
+
+"I hate that you're making sense," she said.
+
+"It's upsetting me too."
+
+They agreed to ask the others what they knew before making another decision. For once, the notebook went back into Annabeth's bag without a new midnight plan written in the margin.
 ---
 
 
