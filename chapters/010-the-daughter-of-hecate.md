@@ -355,6 +355,108 @@ Annabeth folded the diagram along its old crease.
 
 ---
 
+That afternoon, Annabeth met the evacuation team at the lower path with two copied maps and a headache she refused to acknowledge.
+
+Bea had set three wooden stakes along the edge of the drainage ditch. Clarisse stood beside the first with a measuring rope, while a pair of Hephaestus campers worked on a portable footbridge made from salvaged practice-yard planks. Thalia was checking the western route with a group of counselors and had left instructions that nobody was to cross the ditch until the bridge had been tested.
+
+Annabeth arrived in time to hear one of the builders announce that the bridge was finished.
+
+"It isn't," she said.
+
+The boy turned. "We tightened every bolt."
+
+"That's not the same as testing it under weight."
+
+"We stood on it."
+
+"One of you stood in the middle for three seconds. What happens when eight frightened campers cross at once and the board underneath them is wet?"
+
+He looked irritated, which Annabeth understood. She hated having someone correct work she had spent hours on. That didn't make the question less useful.
+
+Bea intervened. "We're here to test it. Nobody's saying the bridge is bad. We just need to know what it can carry."
+
+They ran a trial with sacks of sand instead of children. Clarisse and the builders carried the first four across; Annabeth timed the crossing and checked whether the rails moved. When they added a fifth sack, one of the posts shifted a little in the mud. It would have been easy to miss if Annabeth hadn't been measuring against a stake they'd fixed in the ground.
+
+"Stop," she said.
+
+The builders halted. Bea checked the distance. The bridge itself hadn't broken, but the support on the far bank had begun to settle.
+
+"That will be worse if there's more rain," Annabeth said.
+
+"We can put another plank under the foot," suggested one of the builders.
+
+"Or shift the bridge upstream where the ground's firmer," Bea replied.
+
+Clarisse looked toward the Hall. "Moving it adds another turn. If the campers come around the west side they'll lose sight of the pavilion. That's where people went wrong during the storm."
+
+Annabeth unfolded her second map. The original plan had shown a narrower footpath behind the archery shed. She had dismissed it because it was too steep for a large group, but it might work if they used it for a smaller group and kept the bridge for the remaining campers.
+
+"Could we divide them by cabin?" she asked. "Not so everybody has to make the same crossing at once. A leader takes the youngest by the gentler route. Everyone else uses the upper bank."
+
+"That only works if each counselor knows which route their cabin has," Clarisse said.
+
+"We can put the assignments on the board before the eclipse. And we can practice once with the counselors, not the younger campers."
+
+Bea ran a hand down the length of the railing. "We'd need an extra pair of people at the bend."
+
+"I can take that," Clarisse said. "If you make the route clear enough I don't have to argue with anyone about it."
+
+Annabeth wrote the change down and looked at the little bridge. She still wanted it repaired rather than discarded. The builders had put real work into it, and they'd be needed elsewhere if the Ward team demanded additional barriers.
+
+"Can you reinforce the footing and test again tomorrow morning?" she asked.
+
+"Yes," said the boy she'd corrected. After a moment he added, "You could have said the bank was soft instead of making it sound like we were idiots."
+
+Annabeth felt heat rise in her face. "You're right. I was worried somebody would rush across it before we finished checking. I didn't mean to dismiss your work."
+
+He shrugged, not entirely appeased, and started taking measurements. She was glad he hadn't pretended the apology resolved the irritation. He would be the one working on the bridge after everyone else went to dinner.
+
+The rest of the trial took almost an hour. Annabeth marked timings for each route, listed where the signs could be confusing and crossed out the assumption that every child would be able to run the same distance. She asked Bea to time the route at walking speed, and they discovered the gentler path took longer than the drawing suggested.
+
+At the last turn, Percy arrived with the revised supply list from Silena. He had a bundle of marked straps over one shoulder and the expression he wore when somebody had given him a task and told him not to improvise.
+
+"You have a map emergency?" he asked.
+
+"We have a bridge that needs another footing."
+
+"I brought straps."
+
+"Excellent. You can assist the engineers without making a suggestion about water."
+
+"I was going to suggest we carry the ditch away."
+
+Clarisse took the straps from him. "You can carry sand. That might actually help."
+
+Percy went with her without arguing. Annabeth watched him move toward the builders and noticed that he wasn't reaching to steady himself on every post he passed. His forearm was healing, and he had been careful about using it for heavier work. The change relieved her, though she didn't say so.
+
+Thalia returned when the last trial ended. She stood beside Annabeth and looked at the two maps spread across a wooden crate.
+
+"You changed the assignments."
+
+"We found a weak bank. I don't want everybody using the same bridge."
+
+Thalia checked the annotated timings. "Good. I'll tell the counselors. Have you told Chiron?"
+
+"Not yet. Bea is taking him the revised plan."
+
+"Then we're finished here."
+
+Annabeth looked toward the work crew. "They still need a hand reinforcing the bank."
+
+"They do. You need supper."
+
+"I'm not a child."
+
+"You're twelve. So are some of the people testing that bridge. Everyone needs supper."
+
+Annabeth could have argued. Instead she folded the map and let her sister carry one end of the measuring rope back toward the pavilion. They were supposed to test routes because an eclipse might make the Hall dangerous. It occurred to her that a plan was only useful if the people who made it had enough judgment left to follow it.
+
+Over dinner she rewrote the assignments in larger handwriting so the younger counselors could read them without squinting. Thalia ate beside her, offering observations about the steeper path and correcting one direction Annabeth had marked from memory rather than measurement. The corrections did not feel like an accusation. They felt like work they were doing together.
+
+By the time the plates were cleared, Annabeth had an updated map she trusted and a list of questions for Chiron that no longer began with the Oracle. The questions about the Oracle were still there. She put them in a separate notebook before returning to Cabin One.
+
+---
+
 Sleep would not come that night.
 
 Clarisse breathed roughly from her bunk across Cabin Three. Silena had turned her lamp low, leaving a warm square on the blanket tucked around her knees. She looked up when Percy reached for his shoes.
