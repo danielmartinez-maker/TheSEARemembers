@@ -33,7 +33,7 @@
 
 ### 007-5 · Moderate
 
-**Source:** [L314](../../chapters/007-the-tempest.md#L314). **Finding:** The source ends around line 309; the chapter's own final three-paragraph prophetic repetition adds little after a clear Chiron warning.
+**Source:** [L287–307](../../chapters/007-the-tempest.md#L287-L307). **Finding:** After the established border warning, the concluding letter and successive storm declarations repeat foreboding without clarifying the letter's origin or giving Percy a new decision.
 
 **Repair:** Keep one strong closing turn and record the mystery letter separately.
 
