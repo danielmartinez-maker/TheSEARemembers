@@ -6,9 +6,9 @@
 
 ## Verified length status on the first 36 chapters
 
-- Passing the length gate: **8 / 36** (001–008).
-- Still short: **28 / 36** (009–036).
-- Remaining body words to reach 10k for the short chapters in this verified range: **96,277**.
+- Passing the length gate: **13 / 36** (001–013).
+- Still short: **23 / 36** (014–036).
+- Remaining body words to reach 10k for the short chapters in this verified range: **65,910**.
 - **Chapters 037–193 are not recounted in this tracker yet**. The manuscript's older reader-edition word counts are not reliable substitutes for current branch counts. Run `python scripts/audit_chapter_length.py --json editorial/latest-length-report.json` in a checkout to obtain the exact current all-chapter status; this will currently exit nonzero because many chapters are short.
 
 | Chapter | Verified body words | Length status |
@@ -21,12 +21,12 @@
 | 006 | 10,639 | Length pass |
 | 007 | 10,385 | Length pass |
 | 008 | 10,650 | Length pass |
-| 009 | 1,743 | 8,257 short |
-| 010 | 2,154 | 7,846 short |
-| 011 | 2,348 | 7,652 short |
-| 012 | 7,149 | 2,851 short |
-| 013 | 6,257 | 3,743 short |
-| 014 | 8,182 | 1,818 short |
+| 009 | 10,109 | Length pass |
+| 010 | 10,087 | Length pass |
+| 011 | 10,049 | Length pass |
+| 012 | 10,035 | Length pass |
+| 013 | 10,056 | Length pass |
+| 014 | 8,200 | 1,800 short (recounted as adjacent chapter) |
 | 015 | 6,543 | 3,457 short |
 | 016 | 8,944 | 1,056 short |
 | 017 | 6,168 | 3,832 short |
@@ -53,18 +53,18 @@
 ## What is and isn't done
 
 - Chapter 001's revised branch text already exceeded 10k.
-- Chapters 002–008 were expanded and line-edited with **new story scenes**, attention to dialogue rhythm, distinct character agency, scene causality, and the established Percabeth, Grace-sister and Poseidon-sibling relationships. See dedicated handoffs and `editorial/prose-dialogue-acceptance.md`.
-- Chapters 009–193 **have not been expanded to the 10k floor** on this branch. No quality or length certification is being claimed for them.
-- Before the Chapter 008 revision, an all-offset 300-word cross-chapter check of Chapters 001–012 reported 86,857 windows and no exact overlaps. After the latest Chapter 008 revision, a new all-offset check specifically across Chapters 007–009 examined **21,881 windows, zero cross-chapter matches**. A fresh entire-manuscript check is still required.
+- Chapters 002–013 were expanded and line-edited with **new story scenes**, attention to dialogue rhythm, distinct character agency, scene causality, and the established Percabeth, Grace-sister and Poseidon-sibling relationships. See dedicated handoffs and `editorial/prose-dialogue-acceptance.md`.
+- Chapters 014–193 **have not been expanded to the 10k floor** on this branch. No quality or length certification is being claimed for them.
+- After the Chapter 009–013 revisions, an exhaustive at-every-offset rolling-hash check with exact candidate verification scanned **140,164 consecutive 300-word windows** across current Chapters **001–014** and found **zero exact cross-chapter matches**. This is not a semantic originality review or a full 193-chapter certification. Chapter 014 was also recounted as an adjacent handoff chapter; Chapters 015–036 retain their previous tracker counts.
 
 ## Editorial release gate
 
 For each chapter: read preceding final scene and following opening; map POV, ages, date, powers, props, injuries, secrets and promises; draft scenes with a concrete objective, opposition, choice and lasting consequence; preserve the existing character-specific voice; review for exposition loops and formulaic resolutions; count body words; run 300-word verbatim overlap check; update a dedicated continuity handoff; and review actual diff.
 
-Prioritize **009–011**, then **012–036**, then perform an exact length inventory and ordered review for **037–193**. Expansion should not resolve the unknown time-rewrite architect, rewrite the memory rules, or disclose Percy's prior life to Amphitrite without explicit author instruction.
+Prioritize **014–018**, then **019–036**, then perform an exact length inventory and ordered review for **037–193**. Expansion should not resolve the unknown time-rewrite architect, rewrite the memory rules, or disclose Percy's prior life to Amphitrite without explicit author instruction.
 
 **Not merged:** This branch is an editing proposal; the parent 36-chapter branch remains unchanged.
 
-## Editorial status as of 2026-10-12
+## Editorial status as of 2026-10-12 (after Chapters 009–013)
 
-The opening eight chapters pass **the length gate only**. The new text has received targeted dialogue and prose revision, including removal of many clipped, alternating one-line exchanges. Chapter 008 now includes a camp supply accountability sequence, a public safety meeting giving Annabeth an independent role after the storm, and a line edit of the attic transcript discussion to avoid unwarranted certainty about the unknown architect, while preserving Thalia's continuing anxiety. The scene/developmental and line/dialogue acceptance review remains open. This is **not** a claim that all six edited chapters have passed a complete independent developmental or copyediting read. Long-form style consistency for Chapters 006–193 remains pending.
+The opening thirteen chapters pass **the length gate only**. Chapters 009–013 have completed a 10k expansion pass with targeted developmental, canon and dialogue revisions. Chapter 009 gives the illicit Oracle visits specific consequences; Chapter 010 establishes Zoe's independent ward evidence and training limits; Chapter 011 replaces an unsafe water-as-electrical-route sequence with a contained ward intervention and evacuation accountability; Chapter 012 repairs the prior chapter's structural and injury continuity; Chapter 013 preserves Zeus's volatility and refusal to provide reliable paternal support. Dedicated chapter handoffs 009–013 document remaining dependencies. **These are mechanical length passes and targeted editing passes, not independent line/copyedit or full developmental approval.** Verify the canonical working copies before using this branch as sole source of truth; full 193-chapter semantic-reuse checks and reader-edition build remain pending.
