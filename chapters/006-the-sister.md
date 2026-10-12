@@ -234,69 +234,145 @@ Outside, Annabeth put her notebook away and offered Thalia the last apple from h
 
 It wasn't a solution. It was, at least, something they had done together.
 ---
-Thalia found Percy in Tempest Hall after lunch. He was swimming laps with a determined rhythm, but every few lengths he stopped to catch his breath. She watched him grip the pool's edge and haul himself out.
+Thalia found Percy in Tempest Hall after lunch, finishing a training session with an instructor who looked glad to be rid of him.
 
-"Grace," he said. "Did I do something?"
+He was swimming laps along the outer wall of the practice pool. The water in the middle was moving against him, pushed through narrow channels by machinery the Hephaestus cabin maintained. Every few lengths Percy stopped to catch his breath, and when the instructor called an end to the session, he gripped the side of the pool for a moment before climbing out.
 
-"You tell me."
+Thalia had seen the boy fight. Whatever he remembered about the sea from Atlantis, his new body didn't always follow his orders. That was the first reassuring thing she'd noticed about him.
 
-"That's ominous."
+He glanced up, saw her waiting, and accepted a towel from the instructor.
 
-"Good. I'm working on it." She waited while he grabbed a towel. "Walk with me."
+"Am I in trouble for moving the practice shields? Because I've already promised Annabeth I'd put them back where you wanted them."
 
-Outside, the training yard was crowded enough to make a private conversation impossible. She led him beyond the woodpile, where the trees hid them from the nearest practice ring.
+"That isn't why I'm here."
 
-"What are you doing with Annabeth?" she asked.
+"Then I'm going to assume it's worse."
 
-Percy didn't pretend he hadn't understood. "Spending time with her. Reading, mostly. Sometimes we talk."
+She didn't appreciate the attempt at humor. She appreciated even less that it was close to the sort of thing Luke used to say when she was about to lose her temper.
 
-"She won't talk to me about half the things she tells you."
+"Walk with me," she said.
 
-"That's her decision."
+He followed her out through the side doors. The training yard was crowded with campers and work crews, so she led him toward the woodpile where the pines muffled the noise. She could see the Hall's white columns beyond the trees.
 
-"You met three weeks ago."
+Percy stopped beneath a low branch and pulled on a dry camp shirt.
 
-"I know."
+"What do you want to know?"
 
-"Then you should understand why that looks strange from where I'm standing."
+Thalia had spent the morning collecting facts. She had planned to ask questions the way Nico asked them, with dates and carefully chosen words. Standing beside Percy, she discovered that none of her prepared questions was the one she wanted answered.
 
-He leaned back against a pine, then straightened when she glared at him. "I do understand. I'm not trying to make things harder for her."
+"Why does Annabeth tell you things she won't tell me?"
 
-"And yet she disappears after dinner. She's awake at odd hours. She forgets things we've done together. Half the time she acts like she's afraid I'll notice."
+He looked at her for several seconds. He was twelve, the same age as her sister, and there was nothing about his small wet hands or the way he had to push his hair out of his eyes that made him look dangerous. That didn't mean he couldn't hurt her.
 
-That was the part Thalia hadn't intended to say. She'd meant to ask about Percy. Instead she'd described a problem she couldn't fix.
+"I can't answer that for her," he said. "I know she's having a hard time remembering some things. I'm not trying to make that worse."
 
-Percy looked at her for a moment. "Have you asked Annabeth what she wants you to do?"
+"Then tell me what you're talking about when you spend hours together. She comes back from the library looking like she's been awake for days, and half the time she can't tell me whether she's eaten. I've spent three weeks asking whether she's sick again. She looks at me as though she can't understand why I'd be worried."
 
-"Of course I have."
+Percy shifted the folded towel beneath his arm.
 
-"What did she say?"
+"We talk about the Hall, mostly. About records and the things Chiron wants us to stop speculating about. Sometimes we talk about other things. She doesn't have to tell me every thought she has, and I don't tell her every thought I have. I don't think that's unusual."
 
-"Space." Thalia hated the word. "And patience. As though I haven't spent twelve years being patient with her."
+"It is when you barely knew each other a month ago."
 
-"That doesn't mean you can decide when she's finished needing it."
+He didn't argue. That was irritating in itself.
 
-Thalia's hands curled at her sides. He was a stranger, twelve, newly arrived from a palace. She had changed Annabeth's bandages and stayed awake when their mother disappeared for days. He didn't get to teach her what being a sister meant.
+"Look," he said, "I understand why the timing bothers you. I'm not expecting you to be happy about it. But I can't explain something Annabeth has asked me not to explain. It wouldn't be fair to her, and it probably wouldn't answer the questions you actually have."
 
-"I don't trust you," she said.
+Thalia looked at the towel. He kept twisting one end around his hand until she wanted to take it away.
 
-"You don't have to."
+"You know what questions I have?"
 
-"I don't believe that."
+"I think you're worried that whatever happened during her illness hasn't stopped happening. I think every time she forgets something, you feel like you're losing another part of her."
 
-"Then watch what I do. Not just what you think I might do."
+Thalia took a step toward him. "Don't tell me how I feel about my sister."
 
-She hadn't expected that answer. It irritated her more than a denial would have.
+"Then tell me what I got wrong."
 
-"If you hurt her, I'll know," she said.
+The answer stopped her. It was a reasonable request, and she hated having to consider it.
 
-Percy's smile disappeared. "If I hurt her, she can tell me herself. And you can tell me too. I won't get in the way of you two talking."
+"What you got wrong is thinking this is some new problem you can explain because she's talked to you a few times. I was there when she was little enough to hide behind my legs. I was there when our mother disappeared for days and she pretended she wasn't hungry because she didn't want me to worry. I was there during the fever. I know when she's trying to make herself smaller so somebody else won't be frightened."
 
-Thalia considered pressing him about the missing records, the odd attention he and Annabeth paid to the Hall, and why they both seemed to anticipate questions before anyone asked them. But the conversation had already gone wrong in a way she recognized. She was trying to make Percy responsible for fears he hadn't caused.
+Percy's expression had changed. He wasn't smiling anymore.
 
-"Fine," she said, though it wasn't. "We're done for now."
+"You're right," he said. "I don't know those things. I wouldn't pretend I did."
 
-She left before he could say anything that made her feel worse.
+"Then why does she go to you?"
+
+He ran a hand through his damp hair, searching for an answer.
+
+"Maybe because I don't know those things. Maybe it's easier to talk to somebody who doesn't expect her to remember every story about being six." He paused. "That doesn't mean she'd rather have me as family."
+
+Thalia felt the words as a blow, not because they were cruel but because they were almost the thought she'd spent weeks refusing to finish.
+
+"You're making a lot of guesses for somebody who says he doesn't know."
+
+"That's fair. I'm sorry." Percy looked toward the Hall. "What I can tell you is that Annabeth hasn't stopped wanting you around. I heard her asking Chiron whether she could work with you today. She didn't ask him to keep you away."
+
+"I was there. I know she wanted to help with the drawings."
+
+"Then believe the part you saw. You don't have to trust me for that."
+
+The argument had nowhere easy to go. Thalia had been hoping to catch Percy in a contradiction. He kept giving her answers that left Annabeth in charge of her own choices.
+
+"I don't trust you yet," she said.
+
+"All right. I'm not asking you to."
+
+"I don't like that she sneaks around with you."
+
+"Neither do I. The sneaking part, I mean. We made a bad decision with the attic, and Chiron made that pretty clear. I don't want Annabeth to get hurt because I decide I know better than everybody else."
+
+Thalia looked sharply at him. "You took things from the attic together?"
+
+He stared back. She could see the instant he realized he'd said more than he'd meant to.
+
+"Chiron knows," he said. "We returned them. He gave us archive work for taking them without permission."
+
+"Why didn't you tell me?"
+
+"Because I wasn't sure what Annabeth had told you. And because I wasn't particularly proud of it."
+
+Thalia took a slow breath. There were apparently two separate reasons to be furious now, and she was in danger of confusing them.
+
+"Fine. I'll ask Chiron about that later. But if you keep pulling her into things where she might get hurt, I will make sure you answer for it."
+
+"If I hurt her, she can tell me. You can tell me too. I'm not going to pretend being her boyfriend means I never get anything wrong."
+
+Thalia looked at him, startled less by the word than by his willingness to use it. Their closeness had been obvious for weeks; she had nonetheless managed not to call it a relationship because giving it a name made it harder to dismiss as a temporary infatuation.
+
+"Boyfriend," she repeated.
+
+Percy looked embarrassed, though not apologetic.
+
+"Yeah. She is my girlfriend."
+
+"You're both twelve."
+
+"I know how old I am."
+
+"So does she, apparently. You've each become very good at reminding me."
+
+Thalia folded her arms. "I'm going to speak to Annabeth about that. Not because I think she needs permission to like someone, but because I have a right to know whether she's safe when she goes somewhere with you."
+
+"I'd rather you spoke to her than had another argument with me about what she ought to want."
+
+There it was again: a boundary she couldn't force him to cross without making herself look unreasonable.
+
+She left before she said something worse. At the edge of the path, she turned back.
+
+"Percy."
+
+He looked up.
+
+"If you ever ask Annabeth to choose between telling the truth to you and telling the truth to me, I want you to understand which choice I'll expect her to make."
+
+He considered that with an expression that was suddenly very old for his face.
+
+"I won't ask her to choose between us," he said. "But neither of us can make her tell somebody what she's not ready to say."
+
+Thalia walked away with more questions than she'd brought. She hadn't caught him in a lie. She had learned that he was much more important to Annabeth than she'd wanted to admit, and that he could be stubborn without raising his voice.
+
+It wasn't enough to make her trust him. It was enough to make her wish she'd asked a better first question.
 ---
 
 That night sleep refused Thalia.
