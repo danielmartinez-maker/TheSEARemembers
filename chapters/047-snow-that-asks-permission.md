@@ -606,6 +606,131 @@ After dinner, a note arrived for Percy, Thalia, Annabeth, Clarisse, and Silena. 
 
 Come to the Big House at eight. We need to talk. — C.
 
+
+---
+
+The invitation arrived before the arguments were finished.
+
+Percy had barely reached Cabin Three when he found Clarisse standing by the door with a practice spear in one hand and a folded note in the other. Silena had set a basket of clean bandages on the bunk nearest the window. She was counting them a second time, although Percy couldn't see why anybody needed to count bandages at all.
+
+"Eight o'clock," Clarisse said, holding out the note. "Chiron wants us, the Grace girls, and nobody else."
+
+"I heard."
+
+"Did you hear what someone said to Silena at the supply room?"
+
+Silena didn't turn from the basket. "Clarisse."
+
+"What?" Clarisse demanded. "He should know."
+
+Percy looked between them. "What happened?"
+
+"The armory clerk wouldn't sign out replacement straps for the shields," Silena answered. She folded a strip of linen in half, creasing it harder than necessary. "He said equipment from Cabin Three needs extra authorization until Olympus sorts things out."
+
+"Which means," Clarisse said, "that someone thinks we're going to steal camp property and send it to Atlantis."
+
+"It means somebody is frightened," Silena said.
+
+"Frightened people can still be idiots."
+
+Percy took the folded note. It said only what they'd already been told: Big House, eight, Chiron's handwriting. He wanted to believe a conversation would fix this. He also wanted to believe Clarisse could be trusted not to challenge an armory clerk to single combat.
+
+"What did you do?" he asked her.
+
+"I asked him to write it down."
+
+Percy blinked. "You did?"
+
+"Yes, I did. I'm not as stupid as you think."
+
+"I didn't say you were."
+
+"You made the face."
+
+Silena finally looked up. "She actually handled it well. She asked what rule required extra authorization. He couldn't give her one, so he told us to come back tomorrow."
+
+"That's not handling it well," Clarisse said. "That's leaving without the straps."
+
+"That's not hitting him with a spear," Silena replied. "Given the options, I think it was excellent."
+
+Percy set the note on his bunk and sat down. The cabin had never seemed so full of things that belonged to people with names. Silena's ribbons were hanging from a hook beside Clarisse's training jacket. A chipped cup from Atlantis stood on the shelf. His own shoes had left wet prints across the floorboards. He had lived here long enough that the room no longer felt borrowed. Now other campers were treating ordinary replacement straps as political contraband.
+
+"Can you tell Chiron?" he asked Silena.
+
+"I intend to. But I don't want him to turn it into a conversation about what Percy Jackson's family may or may not have done. I need those straps because three younger campers are supposed to train with repaired shields tomorrow."
+
+"Bring him the requisition," Percy said.
+
+Silena reached into the basket and produced the small paper slip immediately.
+
+Clarisse stared at her. "You brought it home?"
+
+"I knew he'd ask for details."
+
+For the first time all afternoon, Percy smiled. "You're scarier than both of us."
+
+"No," Silena said, returning to the bandages. "I'm more organized. There's a difference."
+
+Outside the window someone shouted across the green. Another voice answered, and Percy couldn't tell whether it was friendly. He stood, restless, and reached for the door.
+
+"Where are you going?" Clarisse asked.
+
+"To make sure Annabeth knows about the meeting."
+
+"She knows. Thalia already came by."
+
+"I can still check on her."
+
+Silena's expression softened, but she didn't make fun of him. "Come back before eight. And take your coat."
+
+Percy took his coat.
+
+He found the Grace sisters near the arena. Thalia was packing away training weapons with the abrupt movements of someone who would rather still be using them. Annabeth was kneeling beside an open equipment chest, writing down missing pieces.
+
+"Everybody is suddenly keeping records," Percy said.
+
+Annabeth didn't look up. "Good. Maybe we'll stop relying on whoever talks the loudest."
+
+Thalia slammed the chest lid.
+
+"Or maybe we could just talk to Zeus," she said.
+
+Percy watched Annabeth's pencil stop.
+
+"You could ask him to stop accusing Poseidon," Annabeth said. "Then what? He says he didn't accuse anybody? He says the accusation is justified? He decides that you asked because you believe he was wrong?"
+
+"Are you saying I should leave him alone?"
+
+"I'm saying you can't make him listen by starting a fight you can't finish."
+
+Thalia turned away. Her shoulders went rigid beneath her jacket. Percy saw Annabeth realize, a second too late, how much the words had sounded like a command.
+
+"I don't mean never," she said.
+
+"Yeah, Beth. I heard you."
+
+Percy set a loose practice sword back into the chest. He wasn't sure he wanted to stand between two daughters of Zeus in the middle of an argument about their father. The last time he'd tried to make Thalia less angry, she had explained in extremely specific terms why he was part of the problem.
+
+"Silena couldn't get supplies," he said.
+
+That got Thalia's attention. "Because of the bolt?"
+
+"Nobody's said that out loud. But yes."
+
+Annabeth put down her pencil. "Then we should bring it tonight. Something Chiron can actually resolve."
+
+"He can't resolve Zeus," Thalia said.
+
+"No. He can resolve a stupid camp rule somebody invented this morning."
+
+Thalia looked at her for a long moment. Then she lifted the lid again and held it while Annabeth put away the last training blade.
+
+"I'm going to ask him about the bigger problem too," she said.
+
+"I know," Annabeth answered.
+
+Percy helped close the chest. None of them had changed their minds, exactly. But by the time they left the arena they had three things to bring to the meeting: an armory slip, Annabeth's notes, and Thalia's question. For a problem too large to name, it was better than walking in with nothing.
+
 ---
 
 The Big House living room was warm and smelled like tea and old books. A fire crackled. Chiron sat in his wheelchair by the hearth, his blanket over his knees, his expression kind and tired. Mr. D was conspicuously absent, which told Percy how serious this was.
