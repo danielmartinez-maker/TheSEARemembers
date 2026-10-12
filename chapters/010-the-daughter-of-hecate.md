@@ -24,7 +24,7 @@ Percy leaned back. Every time he thought they had reached an answer, somebody pu
 
 "You don't think it matters?"
 
-"I think it matters enough to be accurate." Zoe turned a page. "Hecate is my mother. That lets me recognize some kinds of spellwork. It does not let me read the life someone erased, or tell you who touched a floor I've never seen opened."
+"I think it matters enough to be accurate." Zoe turned a page. "Hecate is my mother. That lets me recognize some kinds of spellwork. It does not let me read an erased memory, much less identify someone from an inscription I haven't seen in person."
 
 He nodded.
 
@@ -48,7 +48,7 @@ He thought of Annabeth sitting on the dusty attic floor, her hand shaking over t
 
 "There's an eclipse."
 
-"Three days away." Zoe drew a line beneath a date in the ledger. "The last unexplained surge recorded here also happened during an eclipse. Different year, same notation afterward."
+"Two days away." Zoe drew a line beneath a date in the ledger. "The last unexplained surge recorded here also happened during an eclipse. Different year, same notation afterward."
 
 "So it happens again."
 
@@ -66,11 +66,11 @@ He had treated their certainty as evidence of someone else's careful plan. But a
 
 "Add a ward? Yes. Some of us."
 
-"Change a childhood."
+"Change someone's memories?"
 
 Zoe's expression changed.
 
-"I don't know."
+"I've seen enchantments that hide an afternoon," she said. "Not anything that replaces years of a person's life."
 
 "You must have theories."
 
@@ -78,11 +78,11 @@ Zoe's expression changed.
 
 He looked at his hands, still faintly sore from the storm.
 
-"The other history had worse things in it," he said. "People died."
+"There are people here who would suffer if we changed anything back," he said. "Children who didn't write a prophecy or ask the gods to put wards under the Hall."
 
-"You told me."
+"Including you," Zoe said. 
 
-"Some of them are alive here."
+"Including me."
 
 She waited.
 
@@ -220,7 +220,7 @@ He sat beside her and explained the mark, the ledger, the eclipse. Clarisse list
 
 He gave her a tired look.
 
-"Whoever changed this gave me a brother," she said. "And Silena another person to nag. That doesn't mean we asked them to."
+"You turned up last month and now you're my brother," she said. "That doesn't make me a clue in somebody's prophecy. And it doesn't mean Silena and I were waiting around for you to solve our lives."
 
 "I didn't say—"
 
@@ -314,7 +314,7 @@ Thalia looked away from the drawing.
 
 He nodded.
 
-"He's cold. He's careless. Sometimes he's kind enough to make me forget why I was angry." Her voice became quieter. "But I won't decide he stole my sister's life because the thought fits a bad day."
+"He's cold. He's careless. Sometimes he's kind enough to make me forget why I was angry." Her voice became quieter. "But I won't decide he caused whatever's happening to Annabeth just because I'm angry with him."
 
 "Neither will I."
 
@@ -342,13 +342,21 @@ He settled beside her. She leaned her shoulder against his.
 
 "What did you tell her?"
 
-"You. Camp. Wars I hope we can prevent. Not her kitchen. I can tell her that much without pretending I understand the rest."
+"Some things that don't fit the childhood she remembers. That I remember you before you arrived. That there were wars. She looked at me as if I had spoken a different language."
+
+"Did she believe you?"
+
+"She believed I was frightened. She also asked whether this was another nightmare after the fever." Annabeth rubbed a thumb over the edge of her notebook. "I told her I didn't know how to prove it. I don't."
+
+"What did she say?"
+
+"That she'd rather hear something difficult than spend another month guessing. Then she asked whether I still wanted her to braid my hair tomorrow."
 
 He watched her fingers pick at a rough shingle.
 
 "How did she take it?"
 
-"Asked if I still wanted her to braid my hair tomorrow." A small smile moved across her mouth. "As if that were the hardest question."
+A small smile moved across her mouth. "As if that were the hardest question."
 
 "Maybe it was."
 
