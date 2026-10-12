@@ -604,7 +604,89 @@ Chiron came by after offerings. He rested a hand briefly on Percy's shoulder, on
 
 "Yes, sir," they chorused.
 
-After breakfast, duties dissolved. No one wanted to drill. The arena stood empty. Instead kids clustered, rehashing. Did you see Grace say no? Did you see Jackson correct him? Did you see Clarisse call Zeus inaccurate to his face?
+
+After breakfast, the day's schedule still existed on paper, but training had become a problem.
+
+In the arena, two of the younger Ares campers refused to spar with children from Cabin One. Nobody said Zeus had ordered it. They said it would be disrespectful to his daughters, given what had happened, and that perhaps the sky children ought to be allowed a day to recover.
+
+Thalia heard the explanation and nearly threw her spear through a target.
+
+"That's not respect," she told the campers. "That's making me something you have to tiptoe around."
+
+One of the younger boys looked close to tears. Percy couldn't blame him for being frightened. He'd been frightened himself when Zeus walked across the green. The difference was that the boy was afraid of doing the wrong thing in front of Thalia, and Thalia was afraid he would begin to see her only as her father's daughter.
+
+Clarisse stepped between them.
+
+"You're all being ridiculous," she said. "Pairs. Wooden weapons. Nobody uses powers. Nobody talks about the weather."
+
+"Easy for you," Thalia muttered.
+
+"No, it isn't."
+
+They stared at each other. Percy watched Clarisse's grip tighten, then loosen on her spear. Their argument could have become the entertainment every camper in the arena was hoping for.
+
+Silena arrived carrying the replacement shield straps she'd finally been able to collect, along with a clipboard of duty assignments.
+
+"Chiron wants drills suspended until after lunch," she said. "Safety decision. Not political. Before you argue, there are three broken shield grips, six bent practice buckles and a bench that's about to collapse."
+
+"You've just invented a different way to make us miserable," Percy said.
+
+"Yes," Silena answered. "Much safer misery."
+
+They worked in groups, which would have been ordinary except for the way everybody watched the groups form. Percy saw people counting how many Zeus campers stood beside Poseidon campers. The counting made him want to arrange the groups deliberately, just to prove they were not divided.
+
+Annabeth caught his eye. She was holding a list of damaged equipment.
+
+"Don't do that," she said quietly.
+
+"Do what?"
+
+"Turn the work crews into a demonstration. Give people jobs they can actually do."
+
+Percy looked down at the tools. A loose buckle didn't care whose parent had claimed which section of the sky.
+
+So they divided the work by skill. Clarisse and an Ares camper checked the shield grips. Silena repaired the torn straps beside two children from Demeter who knew how to stitch thick canvas. Annabeth supervised measurements for the bench, getting annoyed whenever Percy reached for a saw before she finished speaking. Thalia worked with an Apollo camper to replace a broken hinge on the equipment chest.
+
+For a while, it worked.
+
+Then a boy at the far end of the bench asked whether the new repairs would be inspected for Atlantean weapons. He said it loudly enough to be heard by everyone, and Percy could feel the people nearest him waiting for a reaction.
+
+Clarisse rose from her chair.
+
+Percy stood too, but Annabeth spoke first.
+
+"These are camp tools," she said. "If you think there's a problem with the inventory, Chiron can check it. Until then, finish your side of the bench."
+
+The boy glanced at Thalia as if looking for Zeus's permission.
+
+Thalia set down the screwdriver.
+
+"She wasn't asking me," she said. "She was telling you how to finish the work."
+
+His ears went red. He bent over the screws and didn't speak again.
+
+It wasn't a neat victory. Percy could still hear whispers from other tables, and an argument had broken out near the weapons racks about whose cabin had been first to claim the repaired shields. But the bench held when three campers sat on it together, and the shield straps passed Clarisse's pull test. The younger campers would have equipment for practice tomorrow.
+
+At the end of the work period, Chiron came to inspect the results. He ran one hand along the repaired bench, then examined the armory slips.
+
+"Your counselor was right to ask for written authorization," he told Silena.
+
+"I know," she replied.
+
+"And you were right not to stop when the clerk tried to change the standard."
+
+Silena looked pleased for about half a second. Then she handed him the last broken buckle.
+
+"That one still needs replacing."
+
+Chiron laughed wearily. "I see that."
+
+He turned to the rest of the campers. "You may spend the afternoon on your regular duties. You need not pretend nothing happened this morning. But I will not have this camp use the gods' quarrel as an excuse to abandon work that keeps younger campers safe."
+
+The groups dispersed. Some people were friendlier than before. Some weren't. Percy had never liked admitting a plan couldn't solve everything. Still, the arena was safer when they left it than it had been when they arrived.
+
+The five of them met again later near the lake, because nobody wanted another argument about who was allowed to stand beside whom.
+
 
 Cabin Three and Cabin One ended up by the lake, because water calmed Percy and sky calmed Thalia and Annabeth liked to be where she could see both.
 
