@@ -218,6 +218,108 @@ Locks were suggestions; guards were a more serious problem. Percy and Annabeth h
 
 Camp lay dark, cabins shuttered, the dining pavilion cold. The surf broke faintly beyond the trees. Annabeth carried her notebook beneath her jacket, the known versions of the prophecy copied on facing pages. She had removed the pages comparing their remembered lives and left those under a loose board in Cabin One. Percy kept checking the windows of the Big House. A discovery made under a shaded lamp could look less convincing in daylight, especially when explaining why they had been in a forbidden attic.
 
+Before they reached the Big House, they had to cross the stretch of open ground between the cabins and the green. Someone had replaced the lantern on the path after the storm, and its light fell across a new sign announcing that the attic and the Hall were closed to all campers pending review. Beneath the notice Chiron had added the date and his signature. It would have been easier to ignore the rule if it were an old, forgotten thing nobody expected them to read.
+
+Annabeth studied the sign as though its exact wording might offer a technical exception.
+
+"It says access is restricted," she whispered. "It doesn't say the entire house is restricted."
+
+"You're not going to find a loophole that makes climbing through a window less like climbing through a window."
+
+"I wasn't proposing one. I was reading."
+
+"That is your most dangerous hobby."
+
+She did not smile. Percy stopped teasing and moved to the shadow of the nearest oak. From there they could see the corner of the porch and the path that ran down toward the infirmary. The camp had changed its patrol routes after the storm. That, too, was a sensible measure that made the decision to sneak around them feel worse.
+
+The first pair passed six minutes after the conch. Two senior campers walked the path with covered lanterns and a clipboard. One paused to inspect the hinges on the storehouse gate, then wrote something down. Percy waited until their footsteps faded.
+
+"Who are they?" he asked.
+
+"Hermes and Apollo, I think. It doesn't matter."
+
+"It matters if we have to explain ourselves."
+
+"If we have to explain ourselves, we're not going to pretend we were out for a walk."
+
+He touched the sealed note inside his jacket. She had insisted on keeping it with them rather than leaving it on an empty bunk. Percy still thought a note was more useful if someone could find it before a search became necessary, but leaving it in public might expose their secret for no reason. They had argued about that at dinner, quiet enough that Silena had mistaken it for a dispute over a homework assignment. In the end he'd compromised by writing the route and date on the outside of the envelope. It was an imperfect plan. Everything about tonight was.
+
+Another patrol passed behind the cabins, closer than either expected. Percy moved back without thinking, letting the darkness between the trees cover them. Annabeth followed, but her heel caught a root. He caught her sleeve before she went down.
+
+"Thanks," she murmured.
+
+"Your hand?"
+
+"Fine. Stop checking every time I move."
+
+He let go. The response was sharp enough to sting, but he understood why she'd said it. Every time someone saw the bandage on her fingers they asked whether she could still hold a pencil, lift a cup, draw a bow, climb stairs. She had been the person who figured out how to keep them alive in Tartarus. Her new body needed rest and her powers needed training. Neither fact made her patience inexhaustible.
+
+When the next patrol had moved beyond the kitchens, they crossed the green at a low run. Percy's breath came faster than he wanted. It frustrated him that his body still had to catch up to intentions formed when he was seventeen. He had to stop beneath the side window to listen for movement inside.
+
+"You're breathing like you ran from the border," Annabeth whispered.
+
+"I blame the architecture. Too much distance between places."
+
+"You ran too fast."
+
+"I also blame the architecture for that."
+
+She handed him the shaded lamp. Her face was pale in its small circle of light, and for a moment he wanted to call the entire thing off. Instead he asked whether she could still climb.
+
+"I can," she said. "And before you ask, if my hand starts hurting I'll tell you. I'm not interested in falling out of a second-story window to win an argument."
+
+He nodded. That was the best answer he was going to get.
+
+A cart stood beneath the eaves, loaded with old library boxes destined for the temporary archive. The day crew had stacked the boxes by category and tied a list to the top one. Annabeth glanced at the list, then surprised Percy by stepping away from the wall to look.
+
+"Is that our catalog series?" she asked.
+
+"Which one?"
+
+"The patrol reports. The crate labels begin with the same letters."
+
+He joined her. Each box had been sealed with a strip of cloth under twine and stamped with a transfer number. The fifth held materials from the years they had been investigating. It was marked *Inspection pending*. Not an invitation. Not a confession. Just a box waiting to be checked by people who had more authority than they did.
+
+"Do you want to open it?" Percy asked.
+
+"No. If the seals are broken they'll know somebody interfered, and we'll lose the only record we can trace properly."
+
+"Glad to hear we're developing standards."
+
+"Don't be smug. We are still trespassing."
+
+She copied the crate number in the public notebook, not the private one. Percy held the lamp while she wrote. It was strange how easily a few scratched letters could feel like progress. He knew the boxes might contain nothing more than ordinary patrol receipts. Annabeth apparently knew that too.
+
+Then a light appeared behind the window.
+
+They froze. A figure moved through the downstairs hallway, carrying a lantern low at one side. It stopped near the storage room. Percy thought he recognized the shape of Chiron's shoulders, then realized he was drawing conclusions from a shadow thrown across a curtain. The figure bent over something. A drawer opened. After a moment the lantern moved away toward the front of the house.
+
+Annabeth caught Percy's sleeve.
+
+"Was that him?"
+
+"I don't know."
+
+"If it was, he's awake."
+
+"Possibly. That makes this an even worse idea than it already was."
+
+She looked at the glass above them. "We can leave."
+
+He expected her to argue after the words. She didn't. Percy considered the old copy they'd found, the dates that didn't match, the silence around the Oracle, and the fact that they were no closer to knowing whether anyone had placed that bronze strip deliberately. He could almost hear Chiron saying that curiosity did not make a dangerous ward safe.
+
+"If we go in, we use the route we planned," he said. "We don't look in other rooms. We don't take anything. And if you see that black smoke again, I don't care whether it says your name. We leave."
+
+Annabeth gave him a look. "It hasn't said my name."
+
+"Consider this planning for contingencies."
+
+She examined the dark upper window. "All right."
+
+There was no heroic feeling in the agreement. Percy steadied the lamp and tested the cart wheel to make sure it would not roll if they used it as a step. He disliked how quickly ordinary objects became part of an operation he'd have condemned if one of the younger campers proposed it. Before he boosted Annabeth up, he looked once more toward the lantern that had disappeared inside the house.
+
+He hoped Chiron was already asleep. He also hoped Chiron would be able to help them if anything went wrong. Those wishes belonged together whether Percy liked it or not.
+
 The side window still stood ajar. He braced the frame while she climbed through, then followed, scraping his palm on old paint.
 
 Below, the ground floor smelled of straw, leather, and Mr. D's spilled soda. They picked their way around the boards that complained and eased up the narrow stair.
