@@ -90,6 +90,99 @@ Silena smiled. "Not at first. You should get to start it yourself. I will bring 
 
 "Go brush your teeth," she said. "And take a jacket for her. She forgets hers."
 
+
+---
+
+Percy made it as far as the cabin door before turning around.
+
+Silena was putting away the spare blankets. Clarisse had taken up a whetstone and was working on the edge of her spear with the steady, irritating patience she only seemed to possess around weapons.
+
+"Where's the old star chart?" Percy asked.
+
+Silena glanced up. "Which old star chart?"
+
+"The one Dad sent when we were little. The one with the blue edges."
+
+Clarisse stopped sharpening. "Why?"
+
+"Because I want to check the Diver against something that isn't you two disagreeing about where his rope goes."
+
+Silena laughed. "We don't disagree about the rope. We disagree about the person holding it."
+
+"That's a pretty big difference," Percy said.
+
+"It is to the person underwater," Clarisse answered.
+
+The chart turned out to be in the chest beneath the porthole, wrapped in a length of faded linen. Its paper had softened at the folds. Along the edges somebody had drawn little fish with open mouths, each beside a direction or a number. Percy recognized the style from the things Silena kept in her sketchbook, but he couldn't identify whose hand had actually made them.
+
+He unfolded it on the floor. It was much less straightforward than he remembered hearing the stories. The names circled clusters of stars, but lines ran from one cluster to another in ways Greek star charts didn't. Some of the labels were written sideways, following the arc of a current. Near one corner a smear of blue ink obscured the last word of a title.
+
+"That's the part that was in your room in Atlantis," Silena said, pointing.
+
+Percy waited for an image to surface. A lamp, perhaps, or the shape of a wall. He could imagine a room under the sea very easily. He'd visited Atlantis since coming to camp, and he knew what its buildings looked like. Imagining was not the same as remembering.
+
+"I don't actually know that," he said.
+
+Clarisse looked down at him. She had learned, over these months, that there were places in their childhoods Percy couldn't meet her. Sometimes she became impatient about it. Sometimes she became careful. He couldn't predict which version would appear.
+
+"I know," she said. "I'm telling you."
+
+He smoothed the chart and tried to find the Diver. The figure lay between several familiar Greek patterns, but when Percy turned the paper toward the window, the labels seemed to run backward.
+
+"How are you supposed to read this?"
+
+"At sea," Clarisse said. "You don't start from the bottom like a classroom diagram. You start with where you are."
+
+"I am in our cabin."
+
+"Then you're going to need an unusually large boat."
+
+Silena knelt beside them, pulled the chart toward the lamp, and showed Percy the little ring of marks around the border. The marks were bearings, not decorations. She rotated the page until one arrow pointed toward the Sound.
+
+"Look at the Whale Road now."
+
+The seven stars ran diagonally across the page, the same way Silena had described the route in her song. Percy traced them with a finger.
+
+"Oh."
+
+"Exactly." Silena pushed a pencil into his hand. "Take notes. Not on that chart."
+
+Percy found the back of an old inventory sheet. He drew the seven points and labeled the rests in the song. Then he attempted the Diver. Clarisse corrected his first two lines and let the third mistake stand long enough for him to discover it himself.
+
+"That's not a rope," he said. "I've drawn a second arm."
+
+"Finally," she said.
+
+He redrew the line. For a moment the scratch of the pencil and the lap of water under the cabin floor were the only sounds.
+
+Percy had been looking forward to impressing Annabeth. That wasn't the same as being able to tell a story accurately. She would know the Greek stars, and if he made something up without meaning to, she would trust him until the sky itself proved him wrong.
+
+"Would it be stupid to take this with me?" he asked, holding up the inventory sheet.
+
+Clarisse shrugged. "Stupider to pretend you know something you don't."
+
+Silena gave him a different sheet, one without a list of broken training shields on the back. "You can take your notes. The chart stays here."
+
+"Because it's old?"
+
+"Because it's ours," Silena said. Her tone was matter-of-fact, not possessive. "And if you take it onto the hill, the dew will eat it."
+
+Percy folded his new sketch, slipped it into his jacket pocket and put the original away. The chest closed with a soft, familiar thud. He could imagine another version of himself sitting over that chart years ago with his sisters. But that version wasn't a scene he could call back whenever he wanted. It existed in the stories his family chose to tell him, and in the marks other hands had left on paper.
+
+At the door, Clarisse called after him.
+
+"Don't put the Lighthouse next to the Shield Rack. They're nowhere near each other."
+
+"That's what the sketch is for," Percy said.
+
+"Then look at it."
+
+Silena followed him out far enough to straighten the collar of his jacket. "You don't have to get every word right. Tell her where you learned it. That's part of the story too."
+
+Percy tucked the sketch deeper into his pocket. For the first time all evening, he wasn't worried about whether Annabeth would be impressed.
+
+He was worried about dropping the paper.
+
 ---
 
 The hill past the cabins was a wide rise, flat on top, with a view of the Sound. At night it was empty and quiet.
@@ -340,7 +433,7 @@ Percy smiled so wide his face hurt. Annabeth reached over under the blanket and 
 
 Thalia arrived late, the way Thalia always arrived, like weather.
 
-They heard her boots first, then saw her silhouette against the cabin lights, tall for twelve, black hair cut choppy, jacket with the pins on it. Thalia Grace, daughter of Zeus, Annabeth's older sister. She moved like static felt, all sharp edges and tired eyes. She stopped at the bottom of the hill and looked up at the blankets and the thermos and the two kids lying side by side staring up.
+They heard her boots first, then saw her silhouette against the cabin lights, sixteen, taller than most campers her age, with choppy black hair and a jacket full of pins. Thalia Grace, daughter of Zeus, Annabeth's older sister. She moved like static felt, all sharp edges and tired eyes. She stopped at the bottom of the hill and looked up at the blankets and the thermos and the two kids lying side by side staring up.
 
 "Am I interrupting?" she asked. Her voice was rough, joking to cover something else.
 
