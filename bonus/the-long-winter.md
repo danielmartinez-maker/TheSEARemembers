@@ -1188,6 +1188,229 @@ She kissed him again. When the kettle began to rattle, neither of them reached f
 
 She shoved his shoulder lightly. He caught her hand, kissed her knuckles, and went to pour the tea.
 
+There was a particular satisfaction in making him forget an argument halfway through.
+
+She'd discovered it when they were discussing the glove. She was discovering it again now, when Rhys returned with the mugs and found her sitting on the cot looking so deliberately unimpressed that he put them down before asking what he'd done wrong.
+
+"Nothing," she said.
+
+"That's your nothing face?"
+
+"You've been watching me."
+
+"Hard not to."
+
+She tilted her head toward the empty space beside her. He took the invitation, then immediately spoiled his advantage by sitting an unnecessarily respectful distance away.
+
+"What's that?" she asked.
+
+"A seat."
+
+"Very funny."
+
+"I thought I was in trouble."
+
+"You might be."
+
+"For what?"
+
+She could have given him a dozen reasons. None would have explained what she actually wanted, and she was tired of making him solve a puzzle she already knew the answer to. So she reached for his hand, pulled him closer, and kissed him until the kettle and the rain and the folded towels were distant things she had no interest in discussing.
+
+Rhys kissed her back with the kind of attention that could make her lose track of the room. She caught his collar between two fingers. He had changed out of his damp shirt after the hall, and the clean cotton was still warm from the stove. His hair brushed her cheek when he leaned toward her. When she smiled against his mouth he smiled too, and the resulting kiss was an untidy one.
+
+"What?" he asked.
+
+"You still smell like the pool."
+
+"I washed."
+
+"Not well."
+
+"That is a devastating accusation."
+
+She drew him nearer. "I'll survive."
+
+He was laughing when he kissed her again, but the laughter faded. There were moments with him when she felt the full force of wanting something without having to disguise it as a challenge. She'd come here because she wanted to see him, because she wanted his hands in hers and his mouth against hers, because a day spent doing what Chiron told her had been dull and painful and she was tired of being watched for signs that she was failing.
+
+Rhys stopped and looked at her. "You went quiet."
+
+"I'm capable of it."
+
+"I know."
+
+"Don't sound so pleased."
+
+"I'm trying to work out whether the silence is good."
+
+She breathed out and rested her forehead against his. "It's good."
+
+"All right."
+
+"You could sound more convinced."
+
+"You just told me."
+
+"Fine."
+
+She kissed the corner of his mouth. He turned his head and caught the next kiss properly. For the first time since she'd left the hall, her shoulders relaxed.
+
+The lamp threw a small gold circle across the quilt. Outside the cabin, a gust shook the shutter and made the door creak against its latch. The ordinary sounds seemed far away while she sat with him, her hand at the back of his neck and his arm around her. It was strange to be able to ask for closeness and receive it without anybody trying to turn the exchange into a bargain.
+
+Then her ankle slipped off the cushion.
+
+She hissed and pulled away.
+
+Rhys's hand left her waist at once. "You all right?"
+
+"Yes. I forgot how feet work."
+
+"Do you want to move?"
+
+"Eventually. I'm considering a long-term grudge against gravity."
+
+He reached for the pillow. She let him put it beneath her heel, then settled into the corner where the cot met the wall. The adjustment took all of thirty seconds, but she was ashamed of how quickly the pleasure of the moment had become irritation with herself.
+
+"Don't," she said when she caught him looking at her.
+
+"Don't what?"
+
+"Decide I can't handle being here."
+
+His expression sharpened. "I wasn't deciding anything."
+
+"You saw me wince."
+
+"Yes. It hurt. I understand the concept."
+
+"Then stop looking as if you're going to send me to bed."
+
+"I was about to ask whether you wanted to lean against me again."
+
+Thalia stared at him.
+
+"That's an option," he added.
+
+She wanted to be furious. It would have been less embarrassing if he'd actually been patronizing her. Instead he had seen her stumble and offered the exact thing she wanted.
+
+"You're impossible," she said.
+
+"I'm getting that impression."
+
+She moved closer. He slipped his arm around her, and she rested against him. Their joined hands lay on the quilt near her knee. She studied the marks on his fingers from the string and the faint stain of blue thread beneath one nail.
+
+"I'm doing it again," she said.
+
+"What?"
+
+"Treating you like somebody who's about to tell me what I'm allowed to do."
+
+"Sometimes I will tell you you're doing something foolish."
+
+"I know."
+
+"I'd prefer you didn't get angry before I have the chance."
+
+That made her laugh, reluctantly. "No promises."
+
+"I thought not."
+
+She looked up at him. There was a seriousness in his face that had been obscured during the kisses, and she found she wanted to understand it.
+
+"What happens if I say I don't want to leave yet?" she asked.
+
+"Then you don't leave yet."
+
+"You've got work tomorrow."
+
+"At seven."
+
+"You need sleep."
+
+"Eventually."
+
+"Those are terrible answers."
+
+"They're the answers I've got."
+
+She traced the seam of his cuff. "I don't want you assuming I'm coming over every time I have a bad day."
+
+"I don't."
+
+"Or that I'm going to be easy to live with."
+
+"I have noticed the evidence against that."
+
+She gave him a pointed look.
+
+"Thalia," he said, more quietly, "I like being here with you. I don't need a guarantee that every evening will go well."
+
+"What if I turn up and I'm in a terrible mood?"
+
+"I might be in one too."
+
+"What a charming pair."
+
+"We can be miserable at opposite ends of the room."
+
+She laughed, and he leaned in to kiss her. She met him halfway. Their mouths parted; she caught him again. The second kiss was slow enough that she felt herself making a choice rather than reacting to his. She could end it. She could ask for more. She could stay where she was with no plan beyond wanting to remain.
+
+"Better?" he asked.
+
+"Considerably."
+
+"Glad to be of service."
+
+"Don't ruin it."
+
+He rested his face beside hers. She liked the warmth of his cheek, the slight scrape when he turned his head, the way he never seemed embarrassed by the fact that he liked to touch her. She had never been embarrassed by wanting. She was embarrassed by being seen wanting, which was a different thing, and she was learning that he had no particular interest in exposing her for it.
+
+"Can I tell you a terrible secret?" he asked.
+
+"You've got an alarming number of those."
+
+"I kept thinking about last night."
+
+She looked at him sideways. "During training?"
+
+"Not during the part with the arrows."
+
+"How conscientious."
+
+"During the time between."
+
+"Calder, there was hardly any time between."
+
+"I know."
+
+She grinned. "You are a disgrace to your cabin."
+
+"I've been told."
+
+She caught his face between her hands and kissed him again. He went still for a fraction of a second, then leaned into her with an eagerness he had stopped trying to hide. She liked that, too. The ability to surprise him remained a small, delightful advantage. This time she used it simply because she could.
+
+Eventually they drew apart and sat breathing quietly, foreheads resting together.
+
+"You're going to be very annoying tomorrow," she said.
+
+"I don't see why I'd wait."
+
+"Exactly."
+
+She could hear voices crossing the path beyond the shutter. Someone knocked on the neighboring cabin and called for a misplaced quiver. Rhys made no move to see who it was. He was entirely occupied with the girl beside him, and for once she didn't have the impulse to make a joke about the attention.
+
+"I should go soon," she said.
+
+"All right."
+
+She waited for him to bargain. He didn't.
+
+"But not yet."
+
+His smile returned. "All right."
+
+She took his hand, settled the aching foot comfortably, and stayed. They didn't have to pretend that stopping one kind of intimacy meant withdrawing from the other. That distinction turned out to be worth learning.
+
+
 The rest of the evening was quieter. They drank from mismatched mugs and talked about nothing of consequence until the conversation found its way, as it inevitably would, to the question Thalia had been avoiding: whether she wanted this to happen again in a way that could be spoken aloud.
 
 "I don't want an appointment," she said.
