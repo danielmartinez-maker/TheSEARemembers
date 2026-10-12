@@ -681,8 +681,6 @@ She laughed softly. They walked back toward their separate cabins, stopping wher
 
 ---
 
----
-
 Thalia woke when the Cabin One door settled against its frame.
 
 It wasn't the sound that frightened her. Annabeth had been taught to close a door quietly years ago, at least according to the memories that belonged to Thalia. The problem was that she had learned to distinguish every noise her sister made when trying not to wake her. A shoe placed carefully on the floor. A breath held near the bedside. The scrape of a notebook pushed beneath the mattress.
