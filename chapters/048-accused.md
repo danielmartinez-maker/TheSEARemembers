@@ -734,6 +734,139 @@ Silena stood and wrapped an arm around Annabeth, who leaned in. Percy stood last
 
 They stood there, five across the dock, while Tyson splashed happily and the lake reflected them wobbling and true.
 
+
+---
+
+The others went to fetch their shoes. Percy stayed on the dock with the Grace sisters, watching Tyson make lazy circles in the shallows.
+
+Thalia was holding her silver bracelet between two fingers. She had been doing that since Zeus left, twisting it until the small metal clasp scraped against her skin.
+
+"Does it still work?" Percy asked.
+
+"What?"
+
+"The bracelet."
+
+"It's a bracelet, Jackson. It's doing a very good job of being round."
+
+Annabeth looked up sharply. "He means the storm aid."
+
+Thalia dropped her hand.
+
+"I don't know," she said. "Zeus said no sky-gifts, no eagle escort, no storm aid. That's not the same as taking away everything we can do."
+
+"Can you still use lightning?" Percy asked.
+
+Thalia gave him a tired, offended look. "I don't feel like demonstrating."
+
+"That's not what I meant."
+
+"I know."
+
+They were quiet for a while. An ordinary gust stirred the water and pushed a scrap of leaf against the dock. Percy was relieved to see the lake move normally again. He had been afraid the strange stillness from Zeus's arrival would follow them into the evening.
+
+Annabeth opened her notebook, then closed it without writing. Percy hadn't seen her do that before.
+
+"I want a list," she said.
+
+Thalia groaned. "Of course you do."
+
+"Not of gifts. Of things we were counting on. If there's no escort and no help from Olympus, we need to know what we can still do on our own."
+
+"Why? Chiron hasn't asked us to do anything."
+
+"Because Dad threatened to make us regret today. I would rather find out now than discover during an emergency."
+
+Thalia's face hardened. "You think I haven't thought of that?"
+
+"I didn't say that."
+
+"Then stop talking like I'm too stupid to notice when he takes something away."
+
+Percy looked out at Tyson. His brother was busy trying to persuade a small fish to move out of his way. He was too far to hear, and Percy was grateful. He wasn't sure he should be hearing this either.
+
+Annabeth kept her voice level.
+
+"You're the one who said no first. I'm not taking that away from you. But if we don't know what changed, we can't prepare."
+
+Thalia stood. The boards rocked under her boots.
+
+"I stood there because I didn't want him turning you into his spy," she said. "And now you're making a schedule for living without him. Like you can draw a box around the part where he's our father."
+
+Annabeth flinched.
+
+Percy felt as though the wind had gone out of him. He understood both of them, which was unhelpful. Annabeth was building a plan because plans were what she could hold when the world became unreliable. Thalia heard that plan as an announcement that the little sister she'd raised had already stopped hoping their father might show up for them.
+
+"I don't think she's drawing a box around him," Percy said.
+
+Thalia turned on him. "You don't have to defend her every time she talks."
+
+"You're right. I don't."
+
+The answer surprised all three of them. Percy hadn't meant to say it that calmly.
+
+Annabeth looked at him. He didn't reach for her hand. This wasn't something he could settle with a gesture.
+
+Thalia took a breath, then another. She sat down on the far end of the dock and rubbed the heel of her hand over her eyes.
+
+"When he came last winter," she said, "he had silver hair and looked about fifty. Before that he looked like a young man with brown eyes. I kept thinking if he came back with the same face, maybe this time it would mean he wanted us to know him. And I hate that I still thought that today."
+
+Percy listened. It explained something he had seen during the confrontation, how Thalia had frozen before her father asked the first question.
+
+Annabeth moved closer to her sister, but not so close that Thalia had to turn toward her.
+
+"I wasn't making a list of reasons to stop wanting him," she said. "I was making a list of what he can actually take."
+
+"There's a difference?"
+
+"There has to be."
+
+Thalia looked down at her bracelet. "He can take the escorts. He can refuse to answer prayers. He can stop showing up."
+
+Annabeth waited.
+
+"He can't make me listen at the cabin door when Percy gets a letter from Poseidon," Thalia finished.
+
+"That's one," Annabeth said.
+
+Thalia almost smiled. "You're still doing the list."
+
+"Only in my head."
+
+"Terrifying."
+
+Percy let the two of them talk without jumping in. They worked through practical matters, not all of them solvable: whether the old signal system at Cabin One depended on a divine messenger, who at camp could guide a party through a storm without asking Zeus for help, whether an eagle escort had ever been promised or had merely been a possibility the older campers liked to count on. Annabeth distinguished things they knew they had lost from things they had never actually possessed. Thalia was the one who remembered which requests their father had ignored.
+
+By the time they were done, the notebook remained closed. That seemed to matter to Thalia.
+
+"Will you tell Chiron?" Percy asked.
+
+"Some of it," Thalia said. "Not the part about his face. That's ours."
+
+Annabeth nodded.
+
+Percy thought of Clarisse's Shield Rack story, the way she had wanted it to stay in the family. He understood. Some facts were useful to put in a report. Others belonged to the people who had lived through them.
+
+"Okay," he said. "I'll keep out of that part."
+
+Thalia studied him, then reached over and tugged the collar of his jacket straight.
+
+"You're already in most of our problems, Seaweed Brain," she told him.
+
+"That's true."
+
+"Try not to become one of the problems on purpose."
+
+"I'll do my best."
+
+She stood and offered her hand to Annabeth. The younger sister took it, and they walked off the dock together to meet Clarisse and Silena, who were arguing over where someone had left a pair of sandals.
+
+Percy stayed a moment longer. The lake moved against the boards in little, ordinary waves. Nothing had been forgiven, not by Zeus and not entirely between his daughters. But there were questions they could ask without turning them into tests, and work they could do without pretending they weren't hurt.
+
+He got up when Tyson called that he had found the sandals in the boathouse. They were Percy's, naturally.
+
+---
+
 Later, when Chiron called Percy to the Big House to dictate a message to Atlantis, he didn't summon any of the others.
 
 Percy found him in the study with a sheet of blank parchment laid across the desk. The windows stood open to the summer air. Beyond them somebody had resumed target practice, but each impact sounded oddly distant, as though camp were trying not to disturb the Big House.
