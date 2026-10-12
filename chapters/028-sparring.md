@@ -622,6 +622,24 @@ Percy grinned. "Look at you. A famous instructor."
 
 He said it again. She made a note on the training sheet and set it beside his bunk so he would find it at four forty-five the next morning.
 
+Silena checked the sheet after Clarisse left. She crossed out the entry for full-contact sparring and wrote *light shield work* beside it.
+
+"Hey," Percy protested. "I was looking forward to being hit with the giant practice sword."
+
+"That's why I'm changing it. You were unsteady after the second drill today. Your forearm's healing, but you don't get to turn soreness into a secret contest with Clarisse."
+
+He read the altered schedule. "Does she know?"
+
+"She asked me to check it when she thought you weren't listening."
+
+Percy looked toward his sister's bunk, where the freshly cleaned spear was already hanging on its hook. Clarisse would probably deny having made the request if he asked. He decided not to make her.
+
+"Fine," he said. "But when I can handle the heavy shield, I want another attempt."
+
+"Then you can tell Lee and get the clearance before trying," Silena said.
+
+He nodded, returned the practice equipment to its shelf and set his alarm. Tomorrow he would show up to train, whether the lesson was spectacular or not.
+
 
 
 ---
