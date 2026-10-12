@@ -746,6 +746,139 @@ Their voices faded. The hill went quiet again, just crickets and wind and the fa
 
 Percy and Annabeth were alone.
 
+
+Annabeth lay still until the last sound of Thalia's boots had disappeared.
+
+Percy had seen her go quiet before. It usually meant she was working through something too complicated to say aloud, or something she wasn't ready to trust anyone else with. He could generally tell the difference. Tonight he wasn't sure.
+
+She unfolded their star chart and looked at the space around Cassiopeia.
+
+"Thalia says the chair is empty," she said.
+
+"That's what she told us."
+
+"And the girl ran off it."
+
+"Yep."
+
+Annabeth made a tiny mark below the crooked W, then stopped. She was holding the pencil with such care that it looked uncomfortable.
+
+"She remembers Mom being there. On a roof. Actually there."
+
+Percy didn't answer. The sounds around them had changed while Thalia was talking. There were fewer crickets now and a distant voice calling curfew near the archery field. The night wasn't going to last forever.
+
+"I remember Athena," Annabeth said at last. "I remember what she said to me in the old life. I remember what it was like not to be the daughter she wanted. I don't remember being Beryl Grace's little girl, not the way Thalia remembers being her daughter." She turned the pencil once between her fingers. "I know the stories Thalia tells me are real to her. I just don't know where to put them."
+
+Percy looked down at the map. Three sets of markings filled one corner. Greek names, Atlantean bearings, little notes about who had told which story. There were blank spaces everywhere, and he'd stopped pretending he knew how to fill them.
+
+He tried a joke. "There's room on the back."
+
+Annabeth gave him a brief look. Not angry, exactly. More like he had spoken at the wrong moment during a movie.
+
+"Percy."
+
+"Sorry."
+
+She folded her knees under the blanket. "I didn't ask you to fix it."
+
+"I know."
+
+"You always think if you find the right thing to say, I'll feel better."
+
+That stung because it was unfair, and also because it wasn't entirely unfair. Percy started to protest. Then he remembered his own irritation whenever someone in Cabin Three tried to tell him which memory of Sally was supposed to hurt less.
+
+"I don't know the right thing," he said instead.
+
+Annabeth turned toward him. There was no triumph in her face, only tiredness.
+
+"Neither do I."
+
+For a little while they watched the stars. Percy didn't move his hand toward hers. He knew she could reach for it if she wanted to, and she knew where it was.
+
+After a few minutes Annabeth said, "The strange part is that I want to believe her."
+
+"Thalia?"
+
+"Beryl. I want to believe she looked at the sky with Thalia and meant everything she said about running off the chair. I know she's capable of saying something beautiful and not being there the next morning." Annabeth glanced down at the page. "I don't want to make Thalia defend her. That's what everybody always makes Thalia do."
+
+Percy thought of the way Thalia had spoken about the apartment roof. She hadn't defended Beryl. She had described one night she'd remembered clearly, including the parts that made the memory less perfect. Percy could see why Annabeth wanted that night to belong to her too.
+
+"Maybe ask Thalia to draw it with you," he suggested. "The line of stars. You could draw what she remembers, and leave space for whatever you find out."
+
+Annabeth thought about it.
+
+"Not Beryl?"
+
+"You can ask her too, if you want. But Thalia's the one who was on the roof."
+
+It seemed a simple distinction when he said it. Percy knew from experience it might not feel simple by morning.
+
+Annabeth turned the chart over. On the back, near an old fold, she wrote *Thalia's roof in Los Angeles*. She left a gap, then put *Beryl's story, as Thalia remembers it*. Beneath that she drew the chair and a short trail of dots running off one edge.
+
+"That's not how the real sky looks," Percy said.
+
+"It's not supposed to be. It's how she remembers showing it to me just now."
+
+She stopped with the pencil hovering above the last dot.
+
+"I could show her tomorrow. Let her say if I got it wrong."
+
+"She'll say you put the chair in the wrong place."
+
+"I probably did."
+
+"Then she'll fix it and complain that your lines are too neat."
+
+Annabeth smiled without looking up. "She complains about my lines being too neat?"
+
+"She complains about your whole personality being too neat."
+
+"Rude."
+
+"Your sister's an expert."
+
+Annabeth turned the paper back over and drew a small question mark beside the Girl Who Ran. Percy noticed she didn't erase the mark. She was leaving it there on purpose.
+
+He rested on his elbows and looked toward the Sound. It was strange how much of his life now depended on what other people could tell him. Clarisse remembered him as a child in Atlantis, and Silena remembered tiny things, arguments over sweets and clothes and whether a bedroom door should be left open at night. Their memories could be precise in ways he had no access to. He was learning to treat them as gifts without pretending they had always been his.
+
+He still remembered Sally's apartment. He could draw the window in the kitchen, even the dent in the radiator. None of that had stopped being his, either. It made the world untidy. Annabeth had always hated a badly kept plan, but maybe they could live with a page that refused to have a single legend.
+
+"Did you think about your mom just now?" Annabeth asked.
+
+"Which one?"
+
+She lifted her head. The question was sharp, but not cruel.
+
+He stared at the water beyond the hill.
+
+"Sally," he said. "The old kitchen. She used to let me tell her stories I made up about the buildings across the street. I told her one was a palace and one was a prison. She listened to both versions even though the palace and the prison were the same building."
+
+"That sounds like her."
+
+"It was." He swallowed. "I don't know whether I ever stood with Amphitrite and looked at stars from an Atlantean window. Silena says I did. I'm not going to tell her she's wrong. But I can't see it when I close my eyes the way I can see that kitchen."
+
+Annabeth was silent. Then she put the pencil down and took his hand.
+
+Neither of them called the problem solved. The sky didn't rearrange itself to make their families easier to understand, and the question marks stayed on the paper.
+
+After a while Percy said, "You know what I can tell you without checking a chart?"
+
+"What's that?"
+
+"There's still one I haven't shown you."
+
+Annabeth turned toward him with a suspicious look. "If it's another whale, you're going to have to draw me a better whale."
+
+"No whale. Promise."
+
+"Another heroic sacrifice?"
+
+"Not exactly."
+
+She leaned back on the blanket, the chart resting safely between them. The look on her face changed as her curiosity won out over everything else.
+
+"All right," she said. "Where is it?"
+
 ---
 
 Percy stared up so long his eyes watered.
