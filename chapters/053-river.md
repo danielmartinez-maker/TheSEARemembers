@@ -446,12 +446,6 @@ They left the marker as they'd found it.
 
 ---
 
-The motel was a miracle.
-
-It was the kind of place Annabeth usually vetoed on principle — flickering neon star, ice machine humming like a dying cyclops, pool covered with a tarp — but the woman at the desk took one look at four limping teenagers with backpacks and black eyes and said, "Honey, you want the ground-floor room by the vending machines? Quietest. And there's a first-aid kit under the sink you can borrow," and offered a quieter ground-floor room after Martin confirmed he was their accompanying driver and arranged to stay next door. She charged the modest listed rate, then added clean towels because they plainly needed them.
-
-Room 7 smelled like bleach and old carpet and heaven.
-
 Martin had insisted they stop at a clinic before looking for a room.
 
 Thalia had objected for fifteen minutes. Then she'd stood up from the riverside steps too quickly, gone pale, and grabbed the railing. The argument ended on its own.
@@ -498,57 +492,15 @@ Percy had heard those words from Clarisse, but the ordinary seriousness in Marti
 
 Thalia looked as though she wanted to protest, but she only nodded. He could see how exhausted she was now that she wasn't standing in front of a monster.
 
-Inside the room, Annabeth insisted on checking the first-aid kit the motel had offered. Grover sorted supplies by who needed them while Percy carried the wet packs into the bathroom. He washed the river mud out of his socks and hung them over the edge of the tub, then realized there was no good place to put four backpacks where everybody could reach them during the night.
+---
 
-"Door side," Thalia called from the bed. "Not against the window."
+The motel was a miracle.
 
-"Why?"
+It was the kind of place Annabeth usually vetoed on principle — flickering neon star, ice machine humming like a dying cyclops, pool covered with a tarp — but the woman at the desk took one look at four limping teenagers with backpacks and black eyes and said, "Honey, you want the ground-floor room by the vending machines? Quietest. And there's a first-aid kit under the sink you can borrow," and offered a quieter ground-floor room after Martin confirmed he was their accompanying driver and arranged to stay next door. She charged the modest listed rate, then added clean towels because they plainly needed them.
 
-"Because if we have to leave, somebody will trip on a bag, and it will probably be Grover."
+Room 7 smelled like bleach and old carpet and heaven.
 
-"Probably," Grover agreed from the floor.
 
-Percy moved the bags. He was beginning to suspect he could spend the whole quest learning how to put objects in places where nobody would fall over them.
-
-Annabeth opened her notebook. "We need to do one more thing before eating."
-
-All three others groaned.
-
-"Not a strategy meeting," she said. "A check. What hurts? What has changed since this morning? And what do we need the others to watch tonight?"
-
-Thalia stared at her. "You are my younger sister. I am supposed to be the one asking questions like that."
-
-"That's not how questions work."
-
-Percy tried not to smile. Grover failed entirely.
-
-They went around the room. Grover described his rubbed hooves and the ache in his shoulders from the pack. Thalia admitted to the headache and fatigue, then agreed to report any worsening symptoms rather than simply sleeping through them. Percy mentioned his sore shoulder, scrapes and how badly his knees hurt from the stairs. Annabeth acknowledged the sting in her palm and the exhaustion she'd been trying to conceal while helping everyone else.
-
-Nobody made a speech about being strong. They told each other where the bandages were, what symptoms they should take seriously and what they could do if somebody woke in pain.
-
-"That's it," Annabeth said, closing the notebook.
-
-Thalia stared at her. "That was a strategy meeting."
-
-"It was a five-minute check."
-
-"You wrote it in a notebook."
-
-"I write breakfast orders in a notebook."
-
-Percy thought of the injury they'd almost ignored after the Fury. He wished they'd had a five-minute check earlier. He wouldn't admit that to Thalia, who seemed to consider every new procedure a threat to her authority.
-
-Grover was already opening a packet of crackers.
-
-"Can we eat now?"
-
-"Yes," Annabeth said.
-
-"Excellent. Because if you ask me how I feel while I'm hungry, the answer is going to get worse every minute."
-
-Thalia laughed, then winced and held her jaw. She looked annoyed with the injury for interrupting her one decent laugh that evening. Percy shifted the pillow behind her without making a fuss. This time she let him.
-
-Only when everybody had eaten something and the wet gear was out of the doorway did the room begin to feel like a place where they might actually sleep.
 
 Thalia kicked the door shut behind them, threw her bag on the nearest bed, and face-planted onto the mattress with her boots still on.
 
@@ -607,6 +559,58 @@ Annabeth felt their stares. "What?"
 Annabeth narrowed her eyes, but she was too tired to interrogate. She handed Percy two ibuprofen and a paper cup of water from the bathroom tap.
 
 "Drink. Then eat something real. What do we have left?"
+
+Once the injuries were covered, Grover sorted the remaining supplies by who might need them overnight while Percy carried the wet packs into the bathroom. He washed the river mud out of his socks and hung them over the edge of the tub, then realized there was no good place to put four backpacks where everybody could reach them during the night.
+
+"Door side," Thalia called from the bed. "Not against the window."
+
+"Why?"
+
+"Because if we have to leave, somebody will trip on a bag, and it will probably be Grover."
+
+"Probably," Grover agreed from the floor.
+
+Percy moved the bags. He was beginning to suspect he could spend the whole quest learning how to put objects in places where nobody would fall over them.
+
+Annabeth opened her notebook. "We need to do one more thing before eating."
+
+All three others groaned.
+
+"Not a strategy meeting," she said. "A check. What hurts? What has changed since this morning? And what do we need the others to watch tonight?"
+
+Thalia stared at her. "You are my younger sister. I am supposed to be the one asking questions like that."
+
+"That's not how questions work."
+
+Percy tried not to smile. Grover failed entirely.
+
+They went around the room. Grover described his rubbed hooves and the ache in his shoulders from the pack. Thalia admitted to the headache and fatigue, then agreed to report any worsening symptoms rather than simply sleeping through them. Percy mentioned his sore shoulder, scrapes and how badly his knees hurt from the stairs. Annabeth acknowledged the sting in her palm and the exhaustion she'd been trying to conceal while helping everyone else.
+
+Nobody made a speech about being strong. They told each other where the bandages were, what symptoms they should take seriously and what they could do if somebody woke in pain.
+
+"That's it," Annabeth said, closing the notebook.
+
+Thalia stared at her. "That was a strategy meeting."
+
+"It was a five-minute check."
+
+"You wrote it in a notebook."
+
+"I write breakfast orders in a notebook."
+
+Percy thought of the injury they'd almost ignored after the Fury. He wished they'd had a five-minute check earlier. He wouldn't admit that to Thalia, who seemed to consider every new procedure a threat to her authority.
+
+Grover was already opening a packet of crackers.
+
+"Can we eat now?"
+
+"Yes," Annabeth said.
+
+"Excellent. Because if you ask me how I feel while I'm hungry, the answer is going to get worse every minute."
+
+Thalia laughed, then winced and held her jaw. She looked annoyed with the injury for interrupting her one decent laugh that evening. Percy shifted the pillow behind her without making a fuss. This time she let him.
+
+With the equipment put away and the questions answered, everyone was finally ready to eat something substantial.
 
 Inventory, motel-floor picnic style: half a bag of cheese puffs (Percy), a gas-station beef jerky stick of questionable origin (Thalia), three granola bars (Annabeth, emergency stash), a slightly squashed box of Nerds (Grover), and two warm Cokes from the vending machine because the cold ones were sold out.
 
