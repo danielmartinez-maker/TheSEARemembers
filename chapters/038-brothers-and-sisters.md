@@ -1,6 +1,5 @@
 ## Chapter 38: Brothers and Sisters
 
-### Percy
 
 Percy knew something was happening the second he walked into the dining pavilion and saw Chiron smiling like he'd planned something.
 
@@ -102,7 +101,6 @@ She dragged him toward the lake, laughing, and Percy, still learning how to live
 
 ---
 
-### Clarisse
 
 Clarisse La Rue did not do sentimental.
 
@@ -224,7 +222,6 @@ Maybe — *maybe* — sentimental wasn't the worst thing.
 
 ---
 
-### Silena
 
 Silena Beauregard had three great loves in life: her siblings in Cabin Three, beautiful things, and food.
 
@@ -324,7 +321,6 @@ Beautiful things didn't have to be perfect. They just had to be shared.
 
 ---
 
-### Thalia
 
 Thalia Grace had been the eldest sibling for as long as she could remember.
 
@@ -432,7 +428,6 @@ Maybe sometimes it just meant making sure everyone had a seat by the fire.
 
 ---
 
-### Annabeth
 
 Annabeth Grace liked schedules. She liked plans, and lists, and knowing what came next.
 
@@ -492,7 +487,6 @@ Tonight was for family.
 
 ---
 
-### Triton
 
 Triton, heir of Atlantis, commander of the Pelagic Guard, eldest son of Poseidon, had attended councils that decided the fate of oceans.
 
@@ -575,8 +569,3 @@ Triton laughed, loud and bright, and threw his head back so the sound rolled acr
 "She would."
 
 They ran, two sons of Poseidon, one ancient and one twelve, racing the moonlight back home — surrounded on all sides by family and friends.
-
-*End.*
-
----
-
