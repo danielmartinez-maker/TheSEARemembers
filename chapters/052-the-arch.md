@@ -656,6 +656,94 @@ Thalia opened one eye. "I was okay."
 
 Percy thought of Clarisse and Silena back at camp, of red shoelace on his duffel and blue-green cord on his wrist, now soaked with river water. He touched the bracelet. Still there. Still knotted.
 
+The ranger at the steps did not let them leave immediately.
+
+"You four were inside," she said, studying the soot on their clothes. "We need to know whether anybody is still up there."
+
+Annabeth answered before Percy could decide what the Mist would allow the woman to hear. She reported the visitors they'd helped in the stairwell, the missing count and the staff members she'd seen directing people toward the north exit. She gave the ranger the time of their descent as closely as she could recall it.
+
+The woman listened, wrote in a notebook and radioed the count. She had seen a number of people with smoke inhalation and was insisting they be checked by emergency workers before going anywhere else.
+
+"Your friend's head is bleeding," she said, pointing at Thalia.
+
+"It's a cut," Thalia answered.
+
+"It may be. You need someone to look at it."
+
+Thalia opened her mouth to argue. Percy was prepared for the inevitable speech about daughters of Zeus recovering faster than ordinary people. Then Annabeth put her hand on Thalia's wrist.
+
+"She's right," Annabeth said.
+
+"Beth, we have to get away before that thing comes back."
+
+"We can't outrun a head injury. And Percy just fell six hundred feet into a river."
+
+"Not all of it was falling," Percy muttered.
+
+Nobody laughed.
+
+The ranger was already leading them toward a first-aid station set up on the grass. Percy let himself be guided. He wanted to go somewhere safe, but the idea that they could hurry away from the Arch and make the injuries disappear was too tempting, even for him.
+
+Martin arrived from the parking lot while a paramedic was checking Thalia's responses. He took one look at Percy wrapped in an emergency blanket and swore under his breath.
+
+"I told you to come down if the situation changed."
+
+"It changed pretty quickly," Thalia said.
+
+He looked at her forehead. "So I see."
+
+The paramedic asked Thalia whether she'd blacked out, felt dizzy or become nauseated. She said no to the first question and hesitated over the second. Percy could see Annabeth listening carefully. Thalia had walked down the stairs on her own, but she was moving more slowly now, and she winced when a siren sounded nearby.
+
+The paramedic told her not to exert herself and recommended further medical evaluation for the head injury. Martin agreed immediately. Thalia looked furious, though Percy thought most of the fury was at being hurt in front of her sister.
+
+Percy's fall made less sense to the medics than it did to him. He could explain that water had broken the impact and that he was conscious and able to breathe, but he could not offer the details that would make the story medically plausible. They still assessed him for injuries and told him which signs required urgent care. Percy listened, realizing that his father protecting him from one impact didn't grant immunity from bruises, shock or every consequence of the fall.
+
+Grover remained near the first-aid tent, recording where the emergency supplies had been placed and trying to keep his pipes out of sight. When one of the medics offered him water, he thanked her so sincerely she smiled despite the noise.
+
+Annabeth finished answering the ranger's questions and came back to Percy.
+
+"I'm still mad at you," she said.
+
+"I noticed."
+
+"That doesn't mean I don't want you sitting here while somebody checks whether you're hurt."
+
+He looked down at his wet shoes. "I thought I was going to lose Thalia."
+
+"So did I."
+
+"I couldn't just watch."
+
+"I know. But you promised me you wouldn't go back up there."
+
+"I broke it."
+
+She waited. Percy looked at her, expecting an argument about whether the promise had been reasonable in the first place.
+
+"Yes," she said. "You did."
+
+He felt the words more sharply than he had expected. He had told her he would stay out of that exact situation because she'd lived through it once. He had seen her frightened and heard her tell him how it felt to watch him fall. Then he'd gone back anyway.
+
+"I don't know what I should have done," he admitted.
+
+"Neither do I. I don't think there was an easy option. I still need you to tell me when you're changing the plan. And I need you to hear me when I say the plan matters."
+
+Percy rubbed his thumb over the damp bracelet Silena had made. "I heard. I didn't do it."
+
+Annabeth sat beside him. She didn't take his hand immediately. Percy gave her the room to decide.
+
+When she finally reached for him, it wasn't a signal that everything had been forgiven. It was a way of staying beside him while they figured out what the next day had to look like.
+
+Martin returned with the medical recommendations and a plan to contact Chiron. They would find a safe place to rest in St. Louis, confirm whether the courier record had been lost in the emergency, and reconsider the road to Los Angeles once everybody had been assessed.
+
+"Nobody is driving west tonight on two hours of sleep after a fire and a head injury," he said.
+
+Thalia looked like she wanted to argue. Then she saw Annabeth watching her.
+
+"Fine," she said. "Tonight we rest. Tomorrow we plan."
+
+It wasn't victory. It was simply an adult imposing the sort of limit the gods seldom bothered to impose, and four exhausted travelers accepting it because the alternative had become absurd.
+
 "We need to move," Annabeth said, wiping her face and sitting straighter, but not letting go of Percy's hand. "Echidna is gone, but she will tell someone we are here. The depot— we cannot go to the depot now. Too watched."
 
 "No depot," Thalia agreed, forcing herself upright with Grover's help. "We go to ground. Laundromat safe house Chiron marked in the city. Clean up. Iris-message camp. Tell them bolt moved west, Mother active, Arch burned. And tomorrow—"
