@@ -725,3 +725,151 @@ But the bench beneath her was solid. Annabeth's shoulder pressed against hers wh
 Thalia looked at her sister — her brilliant, brave, finally-honest sister — and thought: *He doesn't get to keep us waiting anymore. We'll grow without him if we have to.*
 
 Thalia put the unfamiliar drachma beside her plate instead of back in its box. She would have to decide what to do with it later. Annabeth nudged the dessert dish toward her, and Thalia took the last strawberry. Zeus had already left. Dinner still needed eating.
+
+---
+
+Annabeth waited until the cabin was quiet before opening the box with the silver pendant.
+
+It lay on its bed of white cotton exactly as it had at lunch, the owl's wings folded around a small lightning bolt. The design was careful. Whoever made it had taken time with the feathers and the curve of the beak. Annabeth liked it. She also didn't know what it meant to accept a gift from someone who had spent the afternoon telling her she was welcome to be clever only when her cleverness agreed with him.
+
+Thalia came in carrying her sword belt and the letters they had written for Jason. She set the envelopes on her desk and noticed the open box.
+
+"You're going to wear it?"
+
+"I don't know."
+
+"He's going to love that."
+
+Annabeth looked up. "I didn't ask him to give me anything."
+
+"I know."
+
+"Then don't act as though I'm choosing him if I like a necklace."
+
+Thalia stopped by the foot of her bed. The irritation in her face was familiar, but Annabeth could tell she was listening. It had taken them too long to learn how to have this argument without making it a referendum on who loved the other more.
+
+"You're right," Thalia said. "I shouldn't have said it that way."
+
+Annabeth looked down at the pendant again. "You can hate your coin if you want. I won't tell you what it should mean."
+
+"I don't hate it." Thalia unfastened her belt with her uninjured hand. "I hate that he remembers I liked collecting things when I was six but doesn't know whether the letters I sent Jason have arrived."
+
+"That's a reasonable thing to hate."
+
+"Stop sounding like Chiron."
+
+"I've had a difficult day. My options are limited."
+
+Thalia laughed, then sat on her bed. She examined the drachma, turning it over with her thumb. The pine tree had been stamped into the metal with unusual detail, and the lightning on the other side was familiar enough that every child of Zeus would recognize it.
+
+"Does it bother you that he wears a new face?" Annabeth asked.
+
+"Every time."
+
+"How do you know it's him before he speaks?"
+
+"The sky. The way the air changes. And sometimes the way he walks into a room and assumes everybody's been waiting to entertain him."
+
+Annabeth considered the description. She had watched him change his expression during lunch so quickly that the kindly professor's face had seemed like a costume rather than a person. She could recognize the pattern Thalia described, even without remembering the visits her sister had lived through.
+
+"I thought if I said everything clearly, he'd understand," she admitted.
+
+"He did understand some of it."
+
+"Then why did he get angry when I asked him to send a message?"
+
+"Because that would mean you expected him to keep track of the promise after he left."
+
+Annabeth tried to defend the request in her mind and found she didn't need to. It had been a small, practical question. Zeus had made it dangerous. She couldn't fix that by choosing better words.
+
+"He said he'd inquire about Jason's letters," she said.
+
+"He did."
+
+"Should we believe him?"
+
+"We can check whether he follows through. I won't plan my life around it."
+
+The answer was less comforting than Annabeth wanted. It was also more useful than Thalia pretending their father was about to change because he'd brought gifts and accepted a few questions.
+
+She closed the pendant box.
+
+"Can I ask you something without you deciding you need to rescue me?"
+
+Thalia leaned back against the headboard. "That depends on the question."
+
+"When he started getting angry, I wanted to make him like me again. I wasn't even thinking about whether he was being fair to you. I just wanted the shouting to stop."
+
+"That's not the same as wanting me to lose."
+
+"I know. But it felt like it."
+
+Thalia was quiet for a while. Annabeth expected advice or a story about the years she couldn't remember. Instead her sister asked, "Do you want me to tell you what I was thinking?"
+
+"Yes."
+
+"I was angry that he kept treating you like the easy daughter. And then I was scared because I could see you starting to get afraid of him. I thought if I could make him angry at me instead, you'd be safe."
+
+"You can't do that forever."
+
+"I know."
+
+"Do you?"
+
+Thalia gave her a sharp look. Annabeth held it. She was tired of being instructed to grow independent while everyone else arranged themselves around her so she wouldn't have to experience discomfort.
+
+"Fine," Thalia said. "Maybe I don't always act like I know. But I'm trying. Today I didn't leave the room when he looked at you like that. I wanted to. I stayed because you asked for your own answer."
+
+Annabeth nodded. Her father's departure had left them with the same problem in a different form: how to protect one another without making decisions the other hadn't agreed to.
+
+"I want you to keep telling me when he's frightening," she said. "Not wait until it gets so bad you can't stand to hear his name."
+
+"I could say the same to you."
+
+"Then say it."
+
+Thalia looked at her. "Tell me when you're frightened of him, Beth. I won't always know what to do, and I might still be furious. But I don't want you thinking you're responsible for keeping the weather pleasant."
+
+Annabeth blinked hard and looked down at the box.
+
+"All right," she said.
+
+Thalia stood and went to the little mirror on the wall. She tried to pull her hair into a braid one-handed, caught a knot near the nape of her neck and muttered a word Annabeth wasn't allowed to use during lessons.
+
+"Do you want help?" Annabeth asked.
+
+Thalia hesitated. "Yes. The bandage makes it hard."
+
+Annabeth took the brush and stood behind her. She began to separate the strands the way Thalia had shown her, although her hands felt awkward with the injured fingers and the habit she'd inherited from another life wasn't quite the same. She had to stop twice to keep the loose hair from slipping free.
+
+"You used to be better at that," Thalia said, gently enough that it wasn't an accusation.
+
+"I know. You'll have to teach me again."
+
+"I can do that."
+
+Annabeth watched her sister's reflection. Thalia looked tired, older than sixteen in some ways and startlingly young in others. Annabeth wondered whether there was a version of the world in which she'd never needed to learn how to braid a frightened little girl's hair. She didn't know. The woman in their mirror was not a different person merely because she carried memories Annabeth didn't.
+
+When the braid was finished, Thalia examined it and adjusted the tie.
+
+"It's crooked."
+
+"Then fix it yourself."
+
+"With what hand?"
+
+Annabeth laughed and retied the end. She left it imperfect because her fingers had begun to ache, and Thalia didn't complain.
+
+Before going to bed, Annabeth took the pendant from the box and hung it on the hook beside her books instead of wearing it. Thalia put the drachma in her coin tin. Neither threw the gifts away, and neither made a show of keeping them.
+
+The letters to Jason remained on the desk, ready for Chiron in the morning. Annabeth checked that the envelopes were dry and the ink legible, then turned out her lamp. She wanted her father to come back. She also wanted to be able to ask him something ordinary without having to prepare an entire defense first. Nothing that had happened at lunch gave her reason to believe both wishes would be granted.
+
+From the next bed, Thalia asked whether she'd locked the cabin door.
+
+"Yes."
+
+"Good."
+
+They went to sleep knowing that Zeus could appear in any face he liked. Tomorrow, when they woke, there would still be paper to deliver and work at camp that didn't require his permission.
+
+
