@@ -2,7 +2,7 @@
 
 chapter: 003
 status: revised; length gate passed; wider manuscript semantic QA pending
-body_word_count: 10179
+body_word_count: 10335
 opening_location: Cabin One and dining pavilion
 ending_location: Cabin Three
 relative_time: several days after Chapter 002; exact calendar unresolved
