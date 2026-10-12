@@ -18,6 +18,48 @@ Annabeth Grace knew every Greek constellation. Of course she did. She was twelve
 
 He wanted, just once, to be the one who knew the names first.
 
+That afternoon, Percy had almost abandoned the idea in favor of helping Grover.
+
+The board at the north irrigation ditch needed replacing. Grover had wedged it back into place the previous evening, just before the practice that ended with his song for Juniper. The temporary repair had survived the night, but it was beginning to bow beneath the current. Percy found him and Annabeth there after lunch with a new board, a saw and a measuring string.
+
+"She said she could measure," Grover explained, as though Percy might suspect him of recruiting Annabeth under false pretenses. "I didn't ask her to cut anything."
+
+"I can cut a board," Annabeth said.
+
+"Not when I'm holding it," Grover replied.
+
+Percy laughed and took the far end of the wood. Annabeth measured the groove, marked the new piece and stepped aside while Grover sawed it to fit. The first cut was too narrow. Rather than trying to force it, Grover shaved the edge again until it seated cleanly.
+
+Percy slowed the water. Annabeth checked the angle. Grover drove in the peg and released the little dam of mud he'd built the night before. The channel ran smoothly along the strawberry rows.
+
+Juniper appeared near the young maples, carrying a basket of fallen twigs. She waved to the three of them and asked whether the roots would be all right. Grover showed her where the bank had washed out and what he'd changed. She inspected the soil herself, then said she'd check it tomorrow after the next watering.
+
+There were no flowers and no announcement. Percy stood back with Annabeth while Grover and Juniper discussed how much moisture the maples could take, and for once he didn't feel any need to contribute a clever remark. His friend had been doing this work long before he wrote anybody a letter.
+
+As they carried the tools back, Grover fell into step beside Percy.
+
+"Thanks for yesterday," he said.
+
+"The song was yours," Percy answered.
+
+"I meant the part where you got people to leave."
+
+Percy looked at him. Grover was grinning, tired and muddy, with the sort of happiness that didn't need a whole camp to witness it.
+
+"You're welcome," Percy said.
+
+Grover tipped his head toward Annabeth, who was walking ahead with the measuring string. "You've got plans tonight?"
+
+"Maybe."
+
+"Then don't make me listen to them. I've retired from organizing other people's love lives."
+
+"You never organized mine."
+
+"Exactly," Grover said, with some satisfaction. "I was very good at it."
+
+Percy went back to the cabin smiling. He still intended to show Annabeth the sky, but he'd learned something useful from the afternoon. A good plan left enough room for the other person to have one too.
+
 So after dinner he went back to Cabin Three and pulled the spare blankets off the top of the closet.
 
 Cabin Three smelled like salt and clean laundry in the evening. Clarisse's bunk was made tight. Silena's bunk had three pillows and a book face down on them. His own bunk was a mess.
