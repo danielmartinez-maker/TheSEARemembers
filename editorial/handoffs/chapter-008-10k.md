@@ -3,7 +3,7 @@
 chapter: 008
 title: The Gathering Storm
 status: expanded; 10,000-word length passed; independent developmental/copyediting approval pending
-body_word_count: 10293
+body_word_count: 10650
 working_branch: rewrite/chapters-10k-quality-pass
 opening_location: Cabin Three mail errands, then camp breakfast and Hall documentation work
 ending_location: lake dock after curfew discussion, following evening
@@ -45,10 +45,10 @@ next_chapter_dependencies:
   - The Hall remains closed, parts origins and ward authorship are unresolved, and the Oracle remains silent except for whatever happens next
   - Annabeth's burned fingers and Percy's forearm remain recently injured; don't erase immediately without care or elapsed time
 open_review:
-  - Independent chapter-long developmental and line/copyedit read not yet certified
+  - Targeted dialogue line edit completed for attic section; independent full-chapter developmental and copyediting read not yet certified
   - Chapter 008 vs 009 midnight sequence and secrecy boundaries should be checked as a continuous handoff
   - Full 193-chapter verbatim duplicate audit and current canonical-copy reconciliation remain open
 mechanical_checks:
-  - Counted body words excluding chapter headings and scene dividers: 10293
-  - 300-word exact cross-chapter windows checked across chapters 007–009: 21523; zero matches
+  - Counted body words excluding chapter headings and scene dividers: 10650
+  - 300-word exact cross-chapter windows checked across chapters 007–009: 21881; zero matches
   - One chapter heading; eight scenes; no Unicode replacement glyph
