@@ -6,7 +6,7 @@ One minute they were standing in its shadow with their ears still ringing from g
 
 Percy felt it in his knees first. Adrenaline had carried him up all six hundred and thirty feet and back down again. Now that it was gone, his legs remembered every stair in the Gateway Arch, every jolt of the tram, every second he'd spent trying not to die that day. His backpack dug into his shoulders. His shirt stuck to his back. His shoes squelched.
 
-Behind him, Annabeth was limping slightly on her left ankle. She was trying not to show it. Thalia had a split lip and a bruise blooming dark along her jaw where a telkhine's elbow had caught her. Grover kept stopping to pull a pebble out of his shoe, except he wasn't wearing shoes, exactly, and the pebbles were stuck in the soft fake feet he'd pulled over his hooves, and every time he stopped he sighed like the world was ending.
+Behind him, Annabeth moved carefully, still exhausted from guiding civilians down the Arch stairs, her previously burned palm protected beneath a clean dressing. Thalia had a bandaged cut along her forehead and a burned sleeve from the Chimera's fire. Martin and the emergency workers had told her to be evaluated further for a possible head injury and to avoid exertion. Grover kept stopping to pull a pebble out of his shoe, except he wasn't wearing shoes, exactly, and the pebbles were stuck in the soft fake feet he'd pulled over his hooves, and every time he stopped he sighed like the world was ending.
 
 None of them talked much on the walk to the riverfront.
 
@@ -104,6 +104,74 @@ Percy picked it up, turned it over in his palm, and put it in his pocket for Ann
 
 ---
 
+By the time Percy reached the public path, he realized he should not have gone down the riprap slope alone.
+
+He could still feel the exhaustion from the fall. His feet slid on the wet stone, and his shoulder protested when he pushed himself upright. The river had spoken to him in a way he hadn't expected, but he wasn't going to claim it had cured everything. The cut on his knuckle was healing; the headache and the bruised shoulder were still there.
+
+Annabeth had waited at the top. Her expression changed when she saw how hard he was leaning on the railing.
+
+"You said you'd stay by the wall," she said.
+
+"I did. Most of the time."
+
+"Percy."
+
+"I know."
+
+She didn't give him another speech. She shifted her backpack off one shoulder and offered her free hand so he could step up to the path. He took it without pretending he didn't need the help.
+
+"Did the river tell you anything?" she asked.
+
+"Some things. About Atlantis. And my dad."
+
+"Did it tell you we found the bolt?"
+
+"No." He smiled weakly. "I forgot to ask."
+
+"Good. Because I wouldn't trust a river that pretended to know everything."
+
+Percy looked back. The Mississippi was immense and busy with its own business. Barges went by without acknowledging him. There was no reason to expect that every current shared the same knowledge, or that a voice in the water was free of the limitations other spirits had.
+
+"It said dreams can carry old stories," he told her. "Not the lost years of my childhood. It didn't tell me exactly which dreams were which."
+
+Annabeth considered that. "That's more useful than a dream that claims it's a memory."
+
+He watched her place the thought in its proper category. She had been doing that since the start of the quest, and he sometimes resented her for it. Part of him wanted to believe water could explain the entire missing history if he found the right current to ask.
+
+"I don't want to go home and interrogate everybody," he said.
+
+"Then don't. You can ask a few questions and let them choose what to tell you."
+
+"What if it's something they don't want to discuss?"
+
+"Then maybe you don't get the answer immediately."
+
+Percy made a face. "That's awful."
+
+"That's families."
+
+He laughed, though his head still hurt. Then he remembered Sally, and the laughter quieted.
+
+"The river said things about Atlantis that sounded older than anything I remember," he said. "I don't want Amphitrite thinking I suddenly remember years with her that I don't."
+
+"Then you don't have to pretend that you do," Annabeth said. "You can love somebody without copying the memories they have of you."
+
+Percy looked at her. She was speaking about Amphitrite, but he knew she was thinking about Thalia and the childhood Beryl's daughters shared in this timeline. They both had people who knew versions of their lives they couldn't enter.
+
+The white shell was still in his pocket. He turned it once in his palm, checking its edge for cracks, then offered it to her.
+
+"Found this by the water."
+
+"An apology present?"
+
+"No. You'd get a much bigger shell if I were apologizing for everything."
+
+She took it anyway. For a moment they stood beside the river in the ordinary noise of the city. Then Annabeth tucked the shell into her pocket and asked him to help carry the extra water bottle because her hand was hurting again.
+
+He did. It felt like a better way to say he was listening.
+
+---
+
 Thalia found the steps first.
 
 They were concrete, wide and damp, leading down toward the water but stopping short before the mud took over. Good enough to sit on. She dropped her bag, dropped herself, stretched her long legs out and tipped her head back with a groan.
@@ -116,7 +184,7 @@ They were concrete, wide and damp, leading down toward the water but stopping sh
 
 "You need a shower," Grover shot back without heat.
 
-Annabeth lowered herself more carefully onto the step above them. Her ankle throbbed. She'd twisted it on the Arch stairs when a pigeon — a normal, mortal pigeon, which was somehow more insulting — had flown straight at her face and she'd dodged into a railing. Percy had caught her elbow. She'd said she was fine. She was not fine, but she was functional, which in their line of work was basically the same thing.
+Annabeth sat carefully on the step above them. Her hand still ached from the Fury encounter, and exhaustion had made her movements clumsy. Percy had watched her count strangers in the Arch staircase while smoke filled the space around them. He didn't mistake her tiredness for weakness.
 
 She pulled her knees up, wrapped her arms around them, and watched Percy down by the water. His shoulders were hunched. His hand was in the river. The set of his jaw told her he was listening.
 
@@ -142,7 +210,7 @@ Annabeth looked up, surprised and a little wary. Thalia didn't do vulnerable oft
 
 "Yeah. Of course."
 
-Thalia fiddled with the silver bracelet on her wrist, the one with the owl charm Annabeth had given her two winters ago. She never took it off.
+Thalia fiddled with the silver bracelet on her wrist, the one with the owl charm Annabeth had given her. Percy had seen it so often he recognized it at a distance. She never took it off.
 
 "Are you scared?" Thalia asked. "Right now. On this quest."
 
@@ -152,7 +220,7 @@ Thalia huffed a laugh. "Good. Me too. I thought maybe it was just me getting sof
 
 "You're not soft. You're the least soft person I know."
 
-"Tell my split lip that." Thalia touched her jaw and winced. "It's just... after the Arch. When that thing came through the floor and Percy yelled for us to run and I just — I froze. For like half a second. I was thinking about Jason."
+"Tell my split lip that." Thalia touched her jaw and winced. "It's just... after the Arch. When the Chimera filled the gallery and I saw the smoke spreading and I just — I froze. For like half a second. I was thinking about Jason."
 
 Annabeth's chest tightened. "You haven't heard from him?"
 
@@ -160,7 +228,7 @@ Annabeth's chest tightened. "You haven't heard from him?"
 
 Annabeth reached over without thinking and put her hand over Thalia's. Thalia turned hers palm-up and squeezed hard.
 
-"I'm scared all the time too," Annabeth said softly. "I'm scared I'm going to miss something. Some clue. Some trap. Like if I were smarter, faster, better, nobody would get hurt. Today on the stairs, when that telkhine grabbed Grover, I knew what it was going to do half a second before it did it, and I still wasn't fast enough. Percy had to — " She swallowed. "I'm scared one day I'm going to be half a second too slow and it's going to be Percy."
+"I'm scared all the time too," Annabeth said softly. "I'm scared I'm going to miss something. Some clue. Some trap. Like if I were smarter, faster, better, nobody would get hurt. Today when Percy went back up the stairs, I could see what he was going to do and I still couldn't stop him. I was too slow, and he had to — " She swallowed. "I'm scared one day I'm going to be half a second too slow and it's going to be Percy."
 
 Thalia nodded slowly. "Yeah. That's the one for me too. Not me dying. Them dying. You guys." She glanced at Grover, who was pretending to be asleep but had one ear — one human ear — tilted toward them. "I kept people at a distance because I thought if I didn't love anyone else, I couldn't lose anyone else. Stupid, right?"
 
@@ -256,9 +324,9 @@ Highlighted in yellow marker was a single stanza in the middle:
 
 *Ella says:*
 
-*When the river bends and the arch falls behind,*
+*When the road bends and the dark is behind,*
 *Let the salt boy listen and the wise girl bind.*
-*Three peanuts, four hearts, one tin in the mud —*
+*Four names, one tin, one letter in the mud —*
 *The goat finds the way where the wild things bud.*
 *Rest. The water is kind tonight.*
 
@@ -294,7 +362,7 @@ They all clinked crumbs.
 
 The motel was a miracle.
 
-It was the kind of place Annabeth usually vetoed on principle — flickering neon star, ice machine humming like a dying cyclops, pool covered with a tarp — but the woman at the desk took one look at four limping teenagers with backpacks and black eyes and said, "Honey, you want the ground-floor room by the vending machines? Quietest. And there's a first-aid kit under the sink you can borrow," and charged them half price because "you look like you've been through it."
+It was the kind of place Annabeth usually vetoed on principle — flickering neon star, ice machine humming like a dying cyclops, pool covered with a tarp — but the woman at the desk took one look at four limping teenagers with backpacks and black eyes and said, "Honey, you want the ground-floor room by the vending machines? Quietest. And there's a first-aid kit under the sink you can borrow," and offered a quieter ground-floor room after Martin confirmed he was their accompanying driver and arranged to stay next door. She charged the modest listed rate, then added clean towels because they plainly needed them.
 
 Room 7 smelled like bleach and old carpet and heaven.
 
