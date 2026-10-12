@@ -470,17 +470,13 @@ Percy hesitated. Then he folded the paper and slipped it into his pocket. "We'll
 
 They left the way they'd come — through the window, down the side of the house, back into the darkness. They didn't speak until they were safely away from the Big House, hidden in the trees near the lake.
 
-"This changes everything," Annabeth said, checking the path behind them.
+"We have two different transcripts and no idea who copied either one," Annabeth said when they reached the trees. She was already opening her notebook, then stopped when she saw the folded original in Percy's hand. "I want to believe this tells us why we're here. I really do. But we can't let that make us careless."
 
-"I know."
+Percy looked down at the page. "It mentions a prince of the sea. That's hard to ignore when everyone keeps calling me one."
 
-"Someone's been rewriting fate. And we're part of it."
+"It could be you. It could be somebody else. Crossed-out words don't prove an actual prophecy changed." She closed her notebook. "If anybody discovers we took this, we'll have to explain why, and I want us to be able to tell the truth about what we found."
 
-"I know."
-
-"Percy, we have to be careful. If they realize we know—"
-
-"I know."
+He tucked it away, no longer pleased with himself for having brought it out of the attic. "Then we make a copy, keep the original safe and work out where it belongs. I should've listened when you said we needed a better plan."
 
 They stood in the darkness, the stolen prophecy burning a hole in Percy's pocket, and the night felt suddenly much colder.
 
@@ -500,29 +496,17 @@ The third was a promise to Clarisse.
 
 She reminded him by dropping a rolled map beside his plate.
 
-"You asked about the lake," she said.
+"You kept asking where the lake's water comes from, so I brought Silena's old map," Clarisse said, spreading it over the table and weighting the corners with cups. "If you're still interested, we can walk the shore before your next lesson. But you'll need to finish breakfast now, because I have a patrol meeting afterward."
 
-"I did."
+Percy put down his fork to examine the blue channels. "I'm interested. I just didn't expect you to have the whole route worked out."
 
-"You wanted to know about the springs."
-
-"Right."
-
-"Then eat faster."
+"Silena spent weeks surveying it. You'll understand more when you stop treating every current you feel as a private message from the sea."
 
 He looked at the map. Someone had drawn the canoe lake with a surprisingly steady hand. Thin blue lines ran into its northern edge and out through a ditch near the strawberry fields. A row of numbered notes followed the shore. The paper had been repaired in two places with careful strips of tape.
 
-"Silena made this?"
+Percy traced a penciled mark beside the northern edge. "These notes are yours, aren't they? I didn't realize you'd helped Silena with the surveying."
 
-"Mostly. I helped with the measurements."
-
-"Is that your handwriting?"
-
-"Yes."
-
-"Better than mine."
-
-"Not difficult. Come on."
+"She drew the first version, and I did most of the measuring when we walked the bank. The numbers have been checked twice, which is more than I can say for the spelling on your last training report." Clarisse folded the map once he'd seen the first route. "Come on. You can ask about the rest while we walk."
 
 They took the path past the fields while the other campers went to lessons. Clarisse carried a walking stick and a coil of twine. Percy had a notebook, a pencil and enough curiosity to make the morning feel less like a chore.
 
@@ -833,25 +817,13 @@ Annabeth set her shoes by the door.
 
 Thalia kept her eyes on the joint she'd been fixing. The glue brush lay very straight beside the frame. That was never a good sign.
 
-"Did you go somewhere?" she asked.
+"Where have you been?" Thalia asked at last, setting down the brush. "I checked the pavilion after dinner, then the training yard. Nobody had seen you since the evening horn."
 
-"Yes."
+"I was still at camp, looking at records with Percy. I lost track of how late it was, and by the time I noticed, I knew you'd be angry."
 
-"Somewhere at camp?"
+"I'm angry because you left me guessing whether you were hurt." Thalia glanced at her sister's muddy shoes. "And you're telling me just enough to stop the questions, which makes it difficult to believe this was as harmless as you're suggesting."
 
-"Yes."
-
-"Was it dangerous?"
-
-Annabeth hesitated.
-
-Thalia set down the brush.
-
-"That pause was longer than I wanted."
-
-"I wasn't fighting monsters."
-
-"That's a remarkably low standard."
+"I didn't fight any monsters or get injured," Annabeth said, knowing that wasn't the whole answer. "I should have told you I was going to be out. I wasn't trying to make you search half the camp for me."
 
 Annabeth crossed the room and stood near the table. She could still feel the cool pressure of the Big House's new ward at the back of her neck, and the cramped note with its lone initial was folded under a book in Percy's cabin. She wanted to tell Thalia about the copied prophecies, or at least about the Hall's missing records. She couldn't do that without opening a larger conversation about why those records meant so much to her.
 
