@@ -836,6 +836,139 @@ She turned away from the window. "Just that I'm staying."
 He came over and offered his hand, and she took it. For the rest of the night the cabin remained their private place, with the heater ticking and the lamp turned low. There would be time in the morning for bows, plans, sore feet and everything that still needed fixing. Tonight she wanted him, and when he kissed her she didn't look toward the door.
 
 
+For a while they stood close to the window, where the glass had turned black enough to reflect them. Thalia could see the absurd length of the shirt he'd lent her and the loose fall of her hair over one shoulder. Behind her, Rhys had one hand at her waist, giving her room to turn or move away if she chose.
+
+"You're staring at us," he said.
+
+"I'm evaluating the situation."
+
+"How's it looking?"
+
+"You're badly dressed."
+
+"I'm wearing my clothes."
+
+"Exactly."
+
+He laughed, and she turned against him. She hadn't expected the steady pleasure of being able to reach for someone without first manufacturing a reason. She was used to arguments, competitions and instructions. With Rhys, desire could simply be desire, and she was still finding out what to do with that fact.
+
+"You're warm," she said.
+
+"I have a stove."
+
+"I meant you."
+
+He looked pleased. "Oh."
+
+"Don't do that."
+
+"What?"
+
+"Look as if I've paid you a compliment."
+
+"You did."
+
+She kissed him to avoid admitting it. The kiss began gently, then acquired the sort of urgency that made both of them forget what they'd been about to say. When she stepped back, his hands remained open at his sides. He waited for her to close the distance again, and she did, catching his collar and pulling him down.
+
+"Again," she said.
+
+He smiled against her mouth. "That's the first sensible instruction you've given me all week."
+
+She punished the comment with another kiss.
+
+The light from the lamp fell across his cheek and caught the slight unevenness in his smile. She had spent years treating attention as something to be monitored. Now she wanted his eyes on her, wanted to know that she could unsettle him just as thoroughly as he unsettled her. When she pressed her palm against his chest, she felt his heart going faster than his calm expression suggested.
+
+"You're not as composed as you look," she said.
+
+"Neither are you."
+
+"Mine is a carefully cultivated illusion."
+
+"Mine's mostly luck."
+
+She laughed. He brushed his lips against her forehead, then her cheek, and she caught his face between both hands before he could turn the gesture into teasing. The next kiss was slower. The kind that had nowhere urgent to go. Her shoulders gradually stopped holding themselves so stiffly, and he seemed to notice without congratulating her for it.
+
+At last the cold reached them from the glass. Rhys took her hand and drew her toward the cot, where a blanket lay folded along the foot. Thalia sat first, placing the injured heel where it wouldn't take her weight. He settled beside her. They were close enough that their knees touched.
+
+"Are we going to talk about tomorrow?" he asked.
+
+"Do we have to?"
+
+"Not if you don't want to."
+
+"Then no."
+
+"All right."
+
+She shifted toward him and rested her head briefly on his shoulder. He placed his arm around her without ceremony. She could tell he was resisting the temptation to ask why she had gone quiet again. He was learning that silence didn't always need to be solved.
+
+After a moment she lifted her head. "I want this to be the same tomorrow."
+
+He considered. "It won't be exactly the same."
+
+"Unhelpful."
+
+"We'll be outside. There'll be people to teach. You'll be furious at somebody for moving a target."
+
+"I will be furious at you."
+
+"Probably."
+
+"But I don't want you acting as if today didn't happen."
+
+"I won't."
+
+She studied his face for a trace of insincerity. There wasn't one. That was inconvenient. It left her with nothing to fight.
+
+"Good," she said.
+
+He touched a loose strand of hair beside her temple. "Will you?"
+
+"Will I what?"
+
+"Act as if it didn't happen?"
+
+She looked at him for several seconds, long enough that his expression became uncertain. He was capable of asking difficult questions without sounding demanding, but she could see the question mattered to him.
+
+"No," she said. "Not if I can help it."
+
+"You don't have to tell everybody."
+
+"I know."
+
+"And you don't have to pretend I’m a stranger."
+
+"Nobody would believe it. You've spent six weeks ruining my archery lessons."
+
+He laughed. She drew closer and kissed him again, lingering this time because it pleased her to see how quickly his expression changed when she did. It was flattering to want someone and discover he wanted her just as plainly, without either of them needing to describe it to an audience.
+
+They stayed that way as the light dwindled. Sometimes they talked. Sometimes she interrupted him to kiss him. Once he reached for the blanket and she caught his wrist, only to realize he was trying to keep her bad foot warm. She let him, then offered him the dignified privilege of not mentioning it.
+
+Later, she changed into the spare shirt he had left by the cot. He turned away while she did, although she told him he was being absurdly formal about a person who had spent the afternoon kissing him. He answered that she could call him absurd if she liked. She did, several times, before settling beneath the quilt and drawing him closer.
+
+The room was familiar in a new way now. Not because she had memorized every object, but because she knew she could say what she wanted there without somebody treating the admission as weakness. She could reach for him without an excuse. She could ask him to wait. She could change her mind and he would change with her.
+
+Their closeness made the night pass without ceremony. The lamp burned low. She kept his hand in hers and allowed herself the rare pleasure of staying exactly where she wished to be.
+
+At some point, when she had stopped paying attention to the clock, Rhys shifted to put another piece of wood on the fire. She caught his sleeve.
+
+"Wait."
+
+"The stove needs feeding."
+
+"In a minute."
+
+He looked at her, then smiled. "You keep telling me that."
+
+"And you keep listening."
+
+"Somebody has to."
+
+She pulled him down beside her and kissed him once more. The wood could wait. So could the morning. For this small part of the night, she wanted to be greedy with time, and she could see from the way he smiled that he was happy to let her.
+
+
+
+
 ---
 
 She woke at four the way she always did, and this time she did get up, because it was still dark and he was warm and the cabin was warm and there was a quilt over both of them and his arm was across her waist and his breath was even and she lay there for a moment in the dark and listened to him breathe and the stove tick and the frost come down on the window, and the heel still hurt a little but it was getting better and she was going to let it get better and she was going to shoot left-footed for another week and she was going to be right at the hall Tuesday and he was going to be there and she was going to catch him looking and she was not going to care.
