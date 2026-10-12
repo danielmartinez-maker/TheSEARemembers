@@ -160,6 +160,94 @@ Percy stared at the Parthenon cutaway until the lines blurred.
 
 ---
 
+Annabeth remained in the library after Percy left with his book cart. Theo's temple drawing covered the middle of the table. The more closely she looked, the clearer it became that he was trying to build something too large to move and too fragile to leave outside.
+
+"How wide is the model supposed to be?" she asked.
+
+"Three feet, if the wood is cut properly."
+
+"And where are you keeping it while you build? The hill isn't sheltered, and you can't carry the entire base through the cabin doorway."
+
+Theo considered the question. He had packed his diagrams with care, but he'd been imagining the finished temple rather than the ordinary steps needed to make it.
+
+"I could build it in two pieces."
+
+"Yes. How do you join them without making the columns go out of alignment?"
+
+He drew two dowels at opposite corners. Annabeth studied the idea, asked him to measure the thickness of the platform and pointed out that the opening for the pins couldn't be too close to the edge. He erased the first sketch and made another.
+
+"That's better," she said.
+
+Theo smiled, pleased in a way that had nothing to do with her being impressive. He was pleased because the design was beginning to work. Annabeth remembered how rarely she'd found someone willing to discuss plans at that level when she was seven and trying to explain why a wall should be moved. She was glad she could do it for somebody else.
+
+"What made you choose a temple?" she asked.
+
+"My mom works in an architecture office. She talks about entrances as though they're the most important part of any building. I wanted to make something where Hermes kids could leave messages, because everybody's always coming and going. The temple seemed like a good place to put one."
+
+Annabeth looked at the drawing again. The columns were the most decorative part. The message shelf was small and tucked beside the door.
+
+"Then perhaps the important part is the shelf," she said. "You could design that first and let the rest of the temple support it."
+
+Theo looked surprised. Then he started measuring the shelf's depth.
+
+They spent the remaining library period making a cardboard version of the entrance. The first attempt bent when Theo placed a small stone on the roof to test it. He looked embarrassed and reached for the glue.
+
+"Don't cover the weak point yet," Annabeth said. "Find out why it bent."
+
+He examined the frame and realized he'd put the support behind the opening rather than beneath it. They changed the position of the cardboard strip and tested it again. This time it held.
+
+"You're good at teaching," Theo said.
+
+"I'm good at asking questions about buildings."
+
+"That seems like teaching."
+
+Annabeth considered it. She hadn't intended to become his instructor. She had a full schedule and her own projects, including designs Chiron had already asked her to revise. But she could make time for a younger camper's work if the boundaries were clear.
+
+"I can check your dimensions tomorrow," she said. "The model is yours. You should ask Beckendorf about the hinges, because he knows the tools better than I do."
+
+Theo wrote down the name. When he was packing his references, he looked toward the shelf Percy had left so abruptly.
+
+"Did I do something wrong with Percy?"
+
+"I don't think so."
+
+"He seemed upset."
+
+Annabeth didn't want to turn Percy's private feelings into Theo's responsibility. She also didn't want to lie and pretend she'd noticed nothing.
+
+"Percy's had an odd day," she said. "You don't need to change your project because of it. If he wants to talk, he can explain himself."
+
+Theo nodded. "I like him. He seems nice."
+
+"He is."
+
+After Theo left, Annabeth gathered the cardboard scraps and returned the borrowed tools. Percy had spent most of the morning holding a ruler while he pretended to be interested in a problem he could have solved himself. She knew him well enough to recognize jealousy, but she didn't want to be required to choose between her own friends and a relationship that had survived far more serious tests.
+
+Thalia was waiting near the practice yard when Annabeth stepped outside.
+
+"Your new friend?" she asked.
+
+"His name's Theo. He's building a model for the Hermes cabin."
+
+"Percy looked as though he wanted to confiscate the graph paper."
+
+"I noticed."
+
+"Want me to talk to him?"
+
+"No. He can talk to me himself."
+
+Thalia looked at her for a moment, then nodded. She had been learning to ask before interfering, and Annabeth appreciated it more than she could say without turning the conversation into a lecture.
+
+They walked toward Cabin One while Annabeth explained the design. Thalia asked whether the message shelf would be weatherproof and whether the camp was prepared to allow another small shrine on the hill. They were sensible questions, and Annabeth added them to the list Theo would need to answer.
+
+By the time they reached the cabin, she had a clearer idea for his model and no answer to the problem of Percy feeling left out. The second would require a conversation between the two people involved. She could wait for that rather than making a new camper carry the blame.
+
+
+
+---
+
 Clarisse found him at the arena after lunch beating up a dummy with a sword.
 
 It was raining again, light and sideways, drumming on the open roof beams. The sand was damp and packed. The air smelled like wet leather and oil. Percy had his sleeves pushed up and his hair stuck to his forehead. He was working through the form Thalia had taught him — cut, turn, block — but he was going too fast, sloppy, letting his shoulders do the work.
