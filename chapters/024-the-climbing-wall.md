@@ -175,6 +175,116 @@ Annabeth cleared her throat and stood up, tucking the tablet under her arm. "Com
 ---
 
 
+Annabeth reached the wall inspection area before anyone else in her climbing group. Chiron had allowed competitors to examine the safety markers from the ground, but not to climb or touch the moving sections before the demonstration. She intended to use every minute.
+
+The climbing wall had changed since she remembered first seeing it. The structure was familiar enough to make her muscles anticipate the heat, but this version contained a newer set of safety rails and a mechanical stop mechanism installed after several younger campers had reported difficulty hearing the horn from the upper platforms.
+
+She walked the perimeter with her notebook, checking the numbered stations on the diagram. Zoe was helping the instructor mark the inspection points and had tied a short piece of orange cloth to the secondary stop cord.
+
+"Why is that lower than the other one?" Annabeth asked.
+
+"So the instructor on the ground can reach it without stepping into the fall zone," Zoe replied.
+
+"Has it been tested with someone above the second vent?"
+
+"With weighted equipment, not an actual camper. The upper teams rehearsed the descent yesterday."
+
+Annabeth made a note. "Then the demonstration needs to show how the lower group hears the stop command. There are two places where the rock blocks the sound."
+
+Zoe followed her pencil. "That would make it harder for the people nearest the lava vent."
+
+"Exactly."
+
+They took the question to the instructor. Instead of dismissing Annabeth as nervous, he sent a pair of senior campers to stand at the two points and asked Zoe to call the stop. The first call reached both. The second, when the vent machinery was running at demonstration speed, barely reached the upper left position.
+
+"Add a visual signal," Annabeth suggested. "Something that moves when the stop cord is pulled. If the horn gets lost in the machinery, the climber should still know to freeze."
+
+The instructor looked at the gear on the wall. A small flag could be fitted above the stop cord without interfering with the climbing holds. He asked the Hephaestus worker beside him whether it could be installed before the event began.
+
+"Twenty minutes," the worker said. "If we have the right fitting."
+
+"I'll get one," Annabeth offered.
+
+"Not you," Chiron said from behind her. "You've already inspected the route and identified the problem. Let the repair crew do the fitting. You can help check the signal once they've installed it."
+
+She was about to object, then remembered how many times she'd felt responsible for the entire Hall repair because she'd recognized a dangerous mark. Being the person who found a problem did not mean she had to be the person with the tools.
+
+"All right," she said.
+
+Thalia came to join her while the work crew measured the new bracket. She had been stretching by the lower practice rails and had heard enough of the discussion to know Annabeth had delayed the climb.
+
+"Did you find a reason to cancel the whole event?" she asked.
+
+"No. I found a place where the stop signal might not be visible."
+
+"Good. I want to climb, not be trapped up there because everybody assumes loud people can always be heard."
+
+Annabeth smiled. "I thought you'd complain about waiting."
+
+"I'm complaining about waiting. I'm also agreeing with you."
+
+They stood together near the inspection line. Thalia watched the worker fit the small flag above the cord, then helped test it from the lower ground position. Annabeth stood at the first blind corner with her notebook. When Zoe signaled, the flag dropped visibly enough that she could mark the position without raising her head.
+
+"Good," she called.
+
+They repeated it twice at different machinery speeds, then recorded the result for Chiron. Thalia looked pleased.
+
+"Now can I climb?"
+
+"Now you can listen to the safety briefing," Annabeth replied.
+
+"You're worse than the instructor."
+
+"Thank you."
+
+When the group assembled, Clarisse was trying to convince Percy that taking the easy first route would make him look weak. Percy was insisting that knowing which route he could actually finish was the entire point of training.
+
+"You're only saying that because you hate the moving holds," Clarisse said.
+
+"I hate the part where I fall because somebody pretends a mechanical wall is a moral test."
+
+Clarisse gave him a look, then conceded he could take whichever route Chiron assigned. Annabeth was relieved. She had watched him treat the water around the lake as an extension of himself and sometimes forget that not every place with moisture in it belonged to his control.
+
+Silena arrived with the check-in forms. She had assigned each competitor a number and a partner responsible for confirming that they'd returned to the ground. Annabeth signed beside her name, then noticed Percy looking at her route.
+
+"Are you on the north face?" he asked.
+
+"Yes. The route with the offset hold near the second vent."
+
+"That one's ugly."
+
+"That's why I chose it."
+
+Thalia rolled her eyes. "She means the problem is interesting, so now she's compelled to solve it in public."
+
+"That's approximately correct."
+
+Percy grinned. He had a choice to make about his own route. He could try to match hers, which would be impressive if he managed it, or accept the one he'd practiced. She hoped he'd choose on the basis of what he'd learned rather than on the basis of who might be watching.
+
+"What are you climbing?" she asked.
+
+"The west face. Clarisse says it's a coward's path."
+
+"It isn't. It has fewer crossing holds, but the timing is less forgiving near the upper platform."
+
+"See? That's helpful. You can insult my choices after you've measured them."
+
+Thalia snorted. "The west face has a good view of the flag station. You can watch the entire race from there if you don't fall off."
+
+Percy made a face. Annabeth liked the way they could tease without requiring anyone to pretend that a difficult event was easy. They had all been dealing with danger serious enough to make the smallest precaution feel like a judgment. Here they could practice and compete within a structure someone had taken the time to check.
+
+When Silena finished the roster, the instructor asked Annabeth to explain the visual stop signal to the climbers. She did it briefly, pointing out the two blind positions and what each person should do if the flag dropped. She did not mention that the idea had been hers.
+
+Thalia stood beside her and made the entire group demonstrate lowering their hands away from moving holds on command. Several campers complained that the motion was awkward.
+
+"Then practice it," Thalia said. "Nobody wants to watch you fall because your pride got tangled in the machinery."
+
+Annabeth stepped off the platform with her. The climb hadn't begun, but she had already learned something she hadn't expected: Thalia could accept a safety correction without treating it as an attack, and Annabeth could bring a useful observation to the people responsible without taking their tools away. Both would matter after the horn blew.
+
+
+
+---
+
 "Testing, testing! Hi, everyone! Can you hear me?"
 
 Silena Beauregard's voice boomed across Half-Blood Hill, amplified by the brass trumpet and Silena's sheer delight, because everything Silena said sounded like it sparkled.
