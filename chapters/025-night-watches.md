@@ -907,3 +907,19 @@ When Chiron dismissed the watch, Clarisse claimed the last pancake and announced
 Grover was already asleep with his forehead on the table. Silena covered his face with a napkin to keep the flies away. Thalia slid her untouched fruit across to Annabeth and asked when the next watch list would go up.
 
 Percy stood carefully. His legs had gone stiff during the night. He had completed a week of looking for something dangerous and found nothing he could prove. Tomorrow, after sleeping, he could examine the notes with Annabeth. Today he went back to Cabin Three with his sisters.
+
+The patrol record still needed a final signature. Percy stopped at the porch to confirm that the equipment they'd borrowed had been returned and the repaired path was marked closed until Chiron received the next inspection. Silena showed him the signed form, then pointed to one line he had missed: who would take the updated map to the morning crew.
+
+"That's us," she said. "We volunteered yesterday."
+
+He had forgotten. He was tired, and the prospect of another errand before breakfast sounded terrible. But somebody had to make sure the next team wasn't relying on an old route.
+
+"I'll do it," he said.
+
+"Not alone. I signed both our names. We can carry it after we sleep."
+
+Clarisse looked between them. "I'll bring the spare whistles. The ones we moved out of the packs."
+
+Percy smiled. They'd spent a week watching dark woods for something dangerous and had come home with a collection of small jobs. That was not failure. It was what a successful night watch produced when nobody was hurt: a clear report, equipment ready for the next group and enough trust that the people coming after them could follow the same procedure.
+
+He went into the cabin, set his alarm for the map delivery and fell asleep before Silena finished putting away the lantern.
