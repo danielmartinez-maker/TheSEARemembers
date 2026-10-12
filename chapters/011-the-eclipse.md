@@ -874,10 +874,6 @@ On the way, he passed the revised route board. A notice had been added beneath t
 
 That evening the pavilion served a late meal for the campers who had spent the afternoon waiting at the Big House. Percy helped carry the bread baskets and made sure the younger children received dinner before the exhausted counselors took their own places. He wanted to sit with Annabeth at the lake, but he could wait until the supplies had been put away. It wasn't a grand sacrifice. It was one of the things he'd promised Silena when he moved into Cabin Three: he'd try to be a brother people could depend on, not only a person who arrived when a disaster required a sword.
 
-
-
----
-
 ---
 
 Thalia went back to Cabin One to change her bloodstained shirt before joining the late meal. The burn on her palm had been dressed neatly, and Lee had told her to leave it covered. She had agreed, then nearly caught the bandage in her sleeve when she tried to pull off her jacket without asking for help.
