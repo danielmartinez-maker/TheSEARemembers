@@ -675,6 +675,149 @@ Ella stared at the blue tie. She cradled it to her chest. "Ella will guard with 
 
 She hugged him, wings beating, and Percy hugged back hard. Over her shoulder he saw the other harpies turn away to give them privacy, one of them wiping her beak on her wing.
 
+
+---
+
+Percy was on his way back from the lake when he saw a crowd outside the Big House.
+
+It was a small crowd, at least compared with the one that had gathered around him after the quest announcement. Four campers stood near the back steps. One of them held a notebook. Another was talking fast, asking whether a prophecy could be requested for personal questions.
+
+Rachel sat on the low wall beside the porch with a sketchbook balanced across her knees. A half-finished drawing of a kitchen window filled the page. She was wearing ordinary clothes now, paint on her fingers and the shoulder of her shirt, and her hair was held back with a band that had slipped crookedly above one ear.
+
+"No," she said.
+
+The notebook boy kept smiling. "But you said the Oracle spoke through you. Couldn't you just ask it one more question?"
+
+"No."
+
+"Just a little one. Whether I'll get claimed before next summer."
+
+Rachel closed the sketchbook.
+
+Percy had come looking for the answer to a different question. He wanted to ask whether a thief wearing somebody else's face meant an actual disguise, the Mist, or a god taking a body that didn't belong to him. He hadn't even decided whether the question was fair. Looking at Rachel's face, he found he no longer wanted to ask it in front of other people.
+
+"Hey," he said, stepping between the campers and the porch. "Chiron wants everybody to finish their duties."
+
+The notebook boy frowned. "We're not doing anything."
+
+"You're asking her to work after she told you she's done."
+
+"You're going on the quest. Easy for you to say."
+
+The words landed harder than Percy expected. It was true that Percy had been given an answer, or something he could pretend was an answer, while the other boy had been waiting for a claiming sign nobody could promise him. Percy knew what it was like to need a parent to recognize you. He also knew that need did not make Rachel responsible for solving it.
+
+"I'm not telling you not to worry," Percy said. "I'm saying she already said no."
+
+The boy looked at Rachel. She met his eyes without smiling.
+
+"I don't know when you'll be claimed," she told him. "I'm sorry. I don't know."
+
+He put the notebook away. His friends followed him down the path, talking more quietly now.
+
+Rachel watched them go, then looked at Percy.
+
+"Are you here to ask a question too?"
+
+"Sort of."
+
+She raised her eyebrows.
+
+"I was," he admitted. "I wanted to know if the line about the thief was literal."
+
+Rachel opened the sketchbook again, but she didn't start drawing.
+
+"I can tell you what I heard."
+
+"I know what you said. Annabeth wrote it down."
+
+"Then you know as much as I do."
+
+Percy sat on the opposite end of the wall. The stone was warm from the afternoon sun. A few bees moved through the flowers near the porch steps, ordinary bees that didn't seem interested in prophecies.
+
+"Do you remember saying it?" he asked.
+
+"Most of it. It's like waking up in the middle of a sentence you weren't planning to speak. I remember the words and the green light. I don't remember deciding on the words." She looked annoyed by her own explanation. "That probably doesn't help."
+
+"It does. It means you're not keeping the rest from us."
+
+Rachel laughed. "I have been accused of many things today. Keeping the rest of the prophecy from the people who have to live through it is one of the more creative ones."
+
+Percy looked toward the attic window. It was closed now, just a round pane among the Big House's ordinary windows.
+
+"Do you think Chiron can stop them bothering you?"
+
+"He asked them to leave me alone until dinner. That lasted maybe forty minutes."
+
+"I can tell him they're back."
+
+"I can tell him myself," she replied.
+
+Percy considered that. She was right. He had made the mistake of assuming help meant speaking for someone else because he happened to be standing closer to the trouble.
+
+"Sorry."
+
+Rachel gave him a dry look. "You seem to be having a day."
+
+"Everybody is."
+
+"Not everybody is going west tomorrow."
+
+He couldn't argue with that. The little group of campers had been worried about being claimed, and Rachel had been worried about being treated like a door to other people's answers. Percy was worried about a weapon powerful enough to start a war. None of the problems made the others disappear.
+
+She returned to the drawing. Percy saw that it wasn't a grand picture of the future, just an ordinary room with a sink, a chipped mug and light coming through a window. The perspective was slightly odd. She erased one corner, drew it again, and seemed happier.
+
+"Is that your house?" Percy asked.
+
+"No. The Big House kitchen. I needed to draw something that actually stays where I put it."
+
+"That sounds nice."
+
+"It is." Rachel hesitated, then added, "I don't regret being the Oracle. I just don't like people thinking every sentence out of my mouth has to become theirs to interpret."
+
+Percy thought of how everybody in the attic had sat as though Rachel no longer existed apart from the prophecy. He'd done it too. She'd nearly fallen off her stool and all he'd been able to think about were the lines in his head.
+
+"I should've asked if you were okay," he said.
+
+"You did, eventually. So did Grover. Silena gave me two juice boxes and told Chiron I needed an actual lunch, not just toast. I suspect she'll be in charge of feeding Olympus by next year."
+
+Percy smiled. "She'd do a better job than whoever is doing it now."
+
+Rachel set down her pencil. "Can I ask you something? Not as the Oracle."
+
+"Sure."
+
+"When you heard the prophecy, did you feel like the road was already decided?"
+
+He looked at the path leading away from the Big House. Through the trees he could see a patch of open ground, then the roofs of the cabins. Beyond the border were roads to places he remembered, places he thought he knew. But this world wasn't following his memory in straight lines. It was barely following the road signs it had set for itself.
+
+"For a minute," he said. "Then we started arguing about whether Thalia can come. That made it feel less decided."
+
+"Good," Rachel said.
+
+"Why good?"
+
+"Because I don't want to feel responsible for telling you how to do every part of it. I said the words. You all still have to make decisions."
+
+Percy nodded. He could live with that distinction better than he could live with the idea that Rachel held an answer she was refusing to share.
+
+The kitchen door opened. Chiron wheeled onto the porch with an empty tea cup on his knee.
+
+"Rachel, there you are. Were there visitors again?"
+
+"Yes," Rachel said, before Percy could answer. "I told them no. Can we put up a notice? Not a dramatic one. Just no questions after the Oracle speaks, unless I ask for them."
+
+"That seems reasonable," Chiron said. "Would you like to write it?"
+
+"Yes. I want it in my own handwriting."
+
+Chiron nodded. Percy watched her tear a clean page from the back of her sketchbook and write the notice herself. He offered to hold the tape while she put it on the porch railing, and this time he waited for her to ask.
+
+When it was done, the sign looked small against the Big House's broad front. It said Rachel was resting and would answer ordinary questions at ordinary times. It did not promise another prophecy.
+
+Percy started down the path. He still had a question about the thief, and probably a dozen more by the time he reached the border tomorrow. Rachel hadn't answered it for him.
+
+She had reminded him that the answer wasn't hers to invent.
+
 ---
 
 Zoe found him after dark by the Hecate cabin torchlight.
