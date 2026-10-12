@@ -452,6 +452,104 @@ It was the kind of place Annabeth usually vetoed on principle — flickering neo
 
 Room 7 smelled like bleach and old carpet and heaven.
 
+Martin had insisted they stop at a clinic before looking for a room.
+
+Thalia had objected for fifteen minutes. Then she'd stood up from the riverside steps too quickly, gone pale, and grabbed the railing. The argument ended on its own.
+
+Percy sat with Grover in the waiting area while a clinician asked Thalia what had happened. Annabeth stayed with her sister, holding the piece of paper that listed the emergency workers' findings from the Arch. The clinician wanted to know whether Thalia had lost consciousness, whether her headache was getting worse and whether she could remember what happened before and after the blow.
+
+"No, no, and yes," Thalia answered, then corrected herself. "The headache isn't getting worse. It's still there. I'm tired."
+
+The clinician didn't laugh when Thalia tried to make a joke about gods and metal buildings. She checked the cut, explained what symptoms should prompt urgent care and gave instructions to rest and avoid further head impacts while recovering. She didn't tell them a child with a recent head injury ought to lead another fight before breakfast.
+
+Percy thought that was a fairly reasonable medical opinion.
+
+When they left, Thalia was wearing a clean dressing at her hairline and holding the discharge instructions in her hand as though they personally offended her.
+
+"Don't start," she warned Percy.
+
+"I wasn't going to say anything."
+
+"You're making the face."
+
+"What face?"
+
+"The one that means you're about to say I should have let Chiron send an adult."
+
+Percy laughed. "I wasn't. I was thinking you should stop trying to be the adult every time the others get tired."
+
+She looked away.
+
+That one had landed harder than he meant it to. He could hear Annabeth's shoes behind them, quick and light, and knew she'd caught the end of the exchange.
+
+"She doesn't know how to stop," Annabeth said. It was not a criticism exactly. "When we were little, if Thalia went to sleep first, she worried she'd miss something."
+
+"Beth."
+
+"I know. It's not fair to talk about you like you aren't here." Annabeth took the discharge sheet from her sister and folded it. "But it's still true."
+
+Thalia had nothing to say to that. She accepted the folded paper and put it inside her jacket instead of throwing it away.
+
+Martin walked with them to the motel. He checked that the room had a working lock and that his own was close enough for them to get help if anyone became ill during the night. He arranged to stay in the adjoining room, not because he wanted to supervise every conversation, but because he'd agreed to be the licensed driver and the contact responsible for the road arrangement.
+
+"I'll be at the desk at seven," he told them. "If anybody needs something overnight, knock. If there's an emergency, don't waste time being polite."
+
+Percy had heard those words from Clarisse, but the ordinary seriousness in Martin's voice made them feel different. He wasn't trying to sound like a hero. He was doing the thing he'd promised when the nymph depot asked him to transport four younger travelers.
+
+Thalia looked as though she wanted to protest, but she only nodded. He could see how exhausted she was now that she wasn't standing in front of a monster.
+
+Inside the room, Annabeth insisted on checking the first-aid kit the motel had offered. Grover sorted supplies by who needed them while Percy carried the wet packs into the bathroom. He washed the river mud out of his socks and hung them over the edge of the tub, then realized there was no good place to put four backpacks where everybody could reach them during the night.
+
+"Door side," Thalia called from the bed. "Not against the window."
+
+"Why?"
+
+"Because if we have to leave, somebody will trip on a bag, and it will probably be Grover."
+
+"Probably," Grover agreed from the floor.
+
+Percy moved the bags. He was beginning to suspect he could spend the whole quest learning how to put objects in places where nobody would fall over them.
+
+Annabeth opened her notebook. "We need to do one more thing before eating."
+
+All three others groaned.
+
+"Not a strategy meeting," she said. "A check. What hurts? What has changed since this morning? And what do we need the others to watch tonight?"
+
+Thalia stared at her. "You are my younger sister. I am supposed to be the one asking questions like that."
+
+"That's not how questions work."
+
+Percy tried not to smile. Grover failed entirely.
+
+They went around the room. Grover described his rubbed hooves and the ache in his shoulders from the pack. Thalia admitted to the headache and fatigue, then agreed to report any worsening symptoms rather than simply sleeping through them. Percy mentioned his sore shoulder, scrapes and how badly his knees hurt from the stairs. Annabeth acknowledged the sting in her palm and the exhaustion she'd been trying to conceal while helping everyone else.
+
+Nobody made a speech about being strong. They told each other where the bandages were, what symptoms they should take seriously and what they could do if somebody woke in pain.
+
+"That's it," Annabeth said, closing the notebook.
+
+Thalia stared at her. "That was a strategy meeting."
+
+"It was a five-minute check."
+
+"You wrote it in a notebook."
+
+"I write breakfast orders in a notebook."
+
+Percy thought of the injury they'd almost ignored after the Fury. He wished they'd had a five-minute check earlier. He wouldn't admit that to Thalia, who seemed to consider every new procedure a threat to her authority.
+
+Grover was already opening a packet of crackers.
+
+"Can we eat now?"
+
+"Yes," Annabeth said.
+
+"Excellent. Because if you ask me how I feel while I'm hungry, the answer is going to get worse every minute."
+
+Thalia laughed, then winced and held her jaw. She looked annoyed with the injury for interrupting her one decent laugh that evening. Percy shifted the pillow behind her without making a fuss. This time she let him.
+
+Only when everybody had eaten something and the wet gear was out of the doorway did the room begin to feel like a place where they might actually sleep.
+
 Thalia kicked the door shut behind them, threw her bag on the nearest bed, and face-planted onto the mattress with her boots still on.
 
 "Bed," she groaned into the comforter. "Bed is my god now. I worship bed."
