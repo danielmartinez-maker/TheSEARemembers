@@ -6,7 +6,7 @@ That was wrong, and it bothered him for a full minute before he could name why. 
 
 He lay in his bunk in Cabin Three and listened to them and felt homesick in a way that sat right behind his teeth.
 
-It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite — not Sally, and wasn't that a whole confusing ache all on its own — had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. Tuesdays at Camp Half-Blood meant Capture the Flag drills at nine and archery with the Apollo kids at eleven and, if the rumor Grover had whispered at dinner last night was true, mail call from underwater.
+It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. He remembered that last morning clearly; the years before it remained someone else's stories. Tuesdays at Camp Half-Blood meant Capture the Flag drills at nine and archery with the Apollo kids at eleven and, if the rumor Grover had whispered at dinner last night was true, mail call from underwater.
 
 Percy sat up. The cabin was quiet. The other Poseidon bunks were empty except for yesterday's abandoned towel mountain and a single sock that had somehow ended up on the ceiling beam. Sun stripes came through the shells set into the walls. The whole cabin smelled like salt and cedar and the lemon soap Silena insisted they all use because, and Percy quoted from memory, "just because we are children of the sea god does not mean we have to smell like low tide."
 
@@ -24,7 +24,7 @@ He ate one honey cake standing up and saved the other in his pocket for later, p
 
 *Perseus — J. will open a channel at 08:00 by the lake. Be prompt. — Chiron*
 
-J. Jason? Juno? Percy squinted. Probably the rainbow lady. Iris. Right. Iris-messages.
+J. Juniper? Percy squinted. Chiron's handwriting was dreadful, and he had no idea who had volunteered to organize the message.
 
 His heart kicked up fast.
 
@@ -38,13 +38,13 @@ He ran.
 
 ---
 
-The lake was glassy and gold at that hour. Mist sat low over the water. The canoes were pulled up and dripping. At the edge of the dock, Chiron in his wheelchair form was guiding Jason Grace through how to toss a drachma correctly. Their younger brother was back for a second approved short visit; Chiron had arranged his escort from Camp Jupiter and promised to supervise the call.
+The lake was glassy and gold at that hour. Mist sat low over the water. The canoes were pulled up and dripping. At the edge of the dock, Chiron in his wheelchair form was guiding Nico di Angelo through how to toss a drachma correctly. Nico had volunteered to help with the Iris-message after Zoe told him the old records included an account of a deep-sea channel.
 
 "No, my boy," Chiron was saying patiently. "You do not skip it like a stone. You offer it. With respect."
 
-"I am offering it with respect," Jason said, holding a gold coin like it might bite him. "Respectfully skipping."
+"I am offering it with respect," Nico said, holding a gold coin like it might bite him. "Respectfully skipping."
 
-Annabeth sat cross-legged on the dock with a notebook, her blonde hair in a messy braid, her gray eyes tracking everything. Thalia sat next to her, knees up, black hair spiky with sleep, a leather jacket over her pajamas against the morning chill. They were both watching Jason fail at Iris-messaging with the particular delight of sisters enjoying a rare chance to torment their younger brother.
+Annabeth sat cross-legged on the dock with a notebook, her blonde hair in a messy braid, her gray eyes tracking everything. Thalia sat next to her, knees up, black hair spiky with sleep, a leather jacket over her pajamas against the morning chill. They were both watching Nico fail at Iris-messaging, amused in spite of how nervous Percy was.
 
 Grover was there too, half-asleep against a piling, his reed pipes tucked into his shirt pocket. Ella the harpy perched on the lifeguard chair with a book, muttering synonyms under her breath. Zoe, daughter of Hecate, stood a little apart with her arms crossed, pretending she wasn't interested.
 
@@ -60,7 +60,7 @@ Percy dropped down between them. On his left, Clarisse elbowed him hard in greet
 
 Chiron smiled. "Amphitrite is queen of the sea for a reason, Percy. If anyone can hold a rainbow steady under the sea, it's her."
 
-Jason finally managed to toss his drachma without concussing anyone. "O Iris, goddess of the rainbow, accept my offering," he recited. The coin flashed gold and vanished. The mist over the lake shimmered, caught light, and stretched into a faint rainbow, wavering at the edges.
+Nico finally managed to toss his drachma without concussing anyone. "O Iris, goddess of the rainbow, accept my offering," he recited. The coin flashed gold and vanished. The mist over the lake shimmered, caught light, and stretched into a faint rainbow, wavering at the edges.
 
 Nothing happened for three heartbeats.
 
@@ -118,7 +118,7 @@ Then a tall shape ducked into frame behind Amphitrite and slung an arm around he
 
 "He says you cry at turtle hatchings," Clarisse said bluntly.
 
-The dock went silent. Silena covered her mouth. Jason whispered, "Oh, she's dead."
+The dock went silent. Silena covered her mouth. Nico whispered, "He's going to regret that."
 
 Triton stared. Then he barked a laugh. "I like her. Keep her. Mom, can we keep the short angry one?"
 
@@ -156,7 +156,7 @@ The kitchen went quieter. Percy felt Clarisse and Silena go still on either side
 
 Poseidon stepped into view.
 
-He was not what camp expected, Percy could tell by the way Jason straightened and Zoe uncrossed her arms. He wasn't huge and bellowing and trident-waving. He was tired. His beard was neatly trimmed, his deep blue robe was salt-stained at the hem, his eyes were Percy's eyes — sea-green, ancient, sad around the edges. He put a hand on Amphitrite's shoulder and nodded at the rainbow.
+He was not what camp expected, Percy could tell by the way Nico straightened and Zoe uncrossed her arms. He wasn't huge and bellowing and trident-waving. He was tired. His beard was neatly trimmed, his deep blue robe was salt-stained at the hem, his eyes were Percy's eyes — sea-green, ancient, sad around the edges. He put a hand on Amphitrite's shoulder and nodded at the rainbow.
 
 "Perseus."
 
@@ -226,7 +226,7 @@ Chiron cleared his throat gently. "Percy, when the courier arrives, do come find
 
 "Thanks, Chiron."
 
-The group broke up slowly. Jason tried to Iris-message his own mom and got a confused pizza shop in Ohio. Ella flapped down to ask Annabeth what "conchomancy" meant and whether it had an antonym. Zoe lingered just long enough to say to Percy, very quietly, "Your mother holds a deep-sea Iris channel for four minutes. That is not a small magic," before walking off.
+The group broke up slowly. Nico tried to Iris-message the library's supply officer and reached a confused pizza shop in Ohio. Ella flapped down to ask Annabeth what "conchomancy" meant and whether it had an antonym. Zoe lingered just long enough to say to Percy, very quietly, "Your mother holds a deep-sea Iris channel for four minutes. That is not a small magic," before walking off.
 
 But Clarisse and Silena didn't move. They stayed flanking Percy on the dock, watching the mist burn off the lake.
 
@@ -482,7 +482,7 @@ Percy, who had nearly set fire to palace kitchen curtains during his short stay 
 
 "Invite everyone," Silena said grandly. "It's culture."
 
-So at seven o'clock, the camp kitchen — usually the domain of harried dryad cooks and the Demeter kids on dish duty — was invaded by: Percy, Clarisse, Silena, Annabeth, Thalia, Grover, Ella (who had brought her own apron that said KISS THE HARPY), Zoe (who claimed she was only there to supervise but had tied her hair back), and Jason (who had been invited because Thalia said he looked hungry).
+So at seven o'clock, the camp kitchen — usually the domain of harried dryad cooks and the Demeter kids on dish duty — was invaded by: Percy, Clarisse, Silena, Annabeth, Thalia, Grover, Ella (who had brought her own apron that said KISS THE HARPY), Zoe (who claimed she was only there to supervise but had tied her hair back), and Nico (who had been invited because Thalia said he looked hungry).
 
 "Okay," Percy said, standing on a stool to address his troops, Triton's manual in one hand, a wooden spoon in the other. "Dumpling soup. Step one: broth. In Atlantis we use deep-current broth with glow-kelp and crab. Here we have —" He peered into the pantry. "Chicken stock and seaweed snacks. That'll work."
 
@@ -492,7 +492,7 @@ Annabeth, sleeves rolled up, already chopping scallions with terrifying precisio
 
 What followed was chaos of the finest kind.
 
-Grover tried to grate ginger and got it in his eye and had to be led to the sink by Ella, who recited antidotes while patting his head. Thalia attempted to knead dough and ended up with it stuck to her jacket, her hair, and Jason's eyebrow. Jason, trying to help, misread "fold gently" as "punch repeatedly" and was banned from dough duty by Annabeth. Zoe, to everyone's shock, turned out to be excellent at pleating dumplings — "Hecate's daughters learn nimble fingers," she said primly, producing a perfect crescent while Clarisse's looked like a deflated football.
+Grover tried to grate ginger and got it in his eye and had to be led to the sink by Ella, who recited antidotes while patting his head. Thalia attempted to knead dough and ended up with it stuck to her jacket, her hair, and Nico's eyebrow. Jason, trying to help, misread "fold gently" as "punch repeatedly" and was banned from dough duty by Annabeth. Zoe, to everyone's shock, turned out to be excellent at pleating dumplings — "Hecate's daughters learn nimble fingers," she said primly, producing a perfect crescent while Clarisse's looked like a deflated football.
 
 "Yours looks like it's been in a fight," Percy told Clarisse.
 
@@ -502,7 +502,7 @@ Silena floated between stations, tasting broth, adjusting salt, tying back hair,
 
 "It's supposed to do that," Percy insisted, though his ears were red. "It's — it's the lightning. Sea-plum jam dumplings, blue broth — it's festive."
 
-Annabeth leaned against the counter next to him, flour on her cheek, watching Silena show Thalia how to pleat properly, watching Clarisse threaten Jason with a ladle for stealing a dumpling, watching Grover and Ella dance around the sink to the radio.
+Annabeth leaned against the counter next to him, flour on her cheek, watching Silena show Thalia how to pleat properly, watching Clarisse threaten Nico with a ladle for stealing a dumpling, watching Grover and Ella dance around the sink to the radio.
 
 "You okay?" she asked quietly, bumping his shoulder.
 
@@ -526,7 +526,7 @@ Percy didn't know what to say to that. So he did what Silena had done for him on
 
 "My mom says soup fixes most things," Percy said. "Triton says soup fixes hunger and everything else needs a sword. They're both kind of right."
 
-Annabeth laughed, real this time. "Come on. Let's finish before Clarisse kills Jason."
+Annabeth laughed, real this time. "Come on. Let's finish before Clarisse kills Nico."
 
 The soup, when it was finally served in chipped camp bowls at the big kitchen table, was blue, lumpy, too salty, slightly fizzy, and — as Grover declared through a mouthful — "amazing!"
 
@@ -536,7 +536,7 @@ Thalia slurped loudly. "Honestly? It's weird as hell. I love it. Give me more fi
 
 Clarisse held up her bowl. "To Percy. And his weird glowing soup. And his mom's jam. And Triton, who is handsome and correct."
 
-"To Triton!" Jason echoed, mouth full.
+"To Triton!" Nico echoed, mouth full.
 
 "To Amphitrite," Zoe said quietly. "Queen who holds rainbows steady."
 
@@ -643,6 +643,3 @@ Percy climbed into his bunk, pulled the blue blanket up to his chin, and smiled 
 Silena didn't understand, but she wrote it down anyway: *He carried water. Percy smiled. Goodnight.*
 
 Outside, the gulls had finally gone quiet. The sea hummed far below, steady through the rock. And in Cabin Three, three children of Poseidon slept under one roof, bracelets glinting in the dark — blue and green and gold — while the tide kept watch.
-
----
-
