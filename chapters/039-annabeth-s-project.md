@@ -4,7 +4,6 @@ The shrine was finished just after lunch, though nobody could agree on exactly w
 
 ---
 
-### Percy — Morning
 
 Percy woke up knowing what day it was before he even opened his eyes.
 
@@ -66,7 +65,6 @@ Across the table Thalia was watching them with an expression that was trying ver
 
 ---
 
-### Annabeth — Late Morning
 
 Annabeth had built things before.
 
@@ -126,7 +124,6 @@ They sat there while the light moved a fraction of an inch across the altar, and
 
 ---
 
-### Thalia — Noon
 
 Thalia was nervous, which annoyed her.
 
@@ -186,7 +183,6 @@ Then Percy stepped forward.
 
 ---
 
-### Percy — The Shell
 
 Percy had been carrying the shell for a week.
 
@@ -218,9 +214,8 @@ Thalia went next, striding forward like she was going into battle, which for Tha
 
 ---
 
-### Thalia — The Spark
 
-Thalia hated talking about feelings in front of people. The Hunt had taught her to keep things short. Artemis didn't go in for long speeches.
+Thalia hated talking about feelings in front of people. The years she'd spent defending Annabeth had taught her to keep important words short.
 
 So she didn't make a speech. She just held up the little vial, where the spark snapped and glowed.
 
@@ -242,7 +237,6 @@ Clarisse stepped forward next, and Thalia was genuinely curious, because Clariss
 
 ---
 
-### Clarisse — The Panther
 
 Clarisse La Rue did not cry at dedications. Clarisse La Rue did not cry at funerals, at movies, at anything. This was a known fact, like Ares liked war and the Stolls liked stealing.
 
@@ -278,7 +272,6 @@ Silena went next, unfolding her paper with shaking hands.
 
 ---
 
-### Silena — The Poem
 
 Silena Beauregard believed in love the way Annabeth believed in architecture: completely, structurally, down to the foundation.
 
@@ -322,7 +315,6 @@ Grover stepped forward next, twisting his cap in his hands.
 
 ---
 
-### Grover — The Reed
 
 Grover Underwood had been talking to the hollow for weeks.
 
@@ -366,7 +358,6 @@ Ella fluttered forward next before anyone called on her, clutching something wra
 
 ---
 
-### Ella — The Snack
 
 Ella the harpy did not understand ceremonies the way demigods did, but she understood important nests.
 
@@ -394,7 +385,6 @@ Nico stepped forward next, so quietly most of them didn't notice until he was al
 
 ---
 
-### Nico — The Flower
 
 Nico di Angelo hated being looked at.
 
@@ -428,15 +418,12 @@ Zoe was last. She walked forward with measured steps, spine straight, chin high.
 
 ---
 
-### Zoe — The Knot
 
-Zoe Nightshade had lived for thousands of years, and she had seen shrines rise and fall.
-
-She had seen marble temples to Artemis crumble to dust. She had seen roadside altars of stacked stones outlast palaces. She knew what lasted was not gold or size but care. Attention. The daily small devotions.
+Zoe Nightshade had spent enough time cataloging old ritual sites to know that the size of an offering said very little about the care behind it. Some inscriptions survived for centuries because someone returned to clean them. Others disappeared because no one checked the stone after the first winter. What lasted was not necessarily what looked impressive on the day it was built.
 
 She had watched this girl — this Annabeth, daughter of Zeus in this telling, brilliant and stubborn and tender-hearted — measure and remeasure, refuse to cut corners, weep over a crooked tile and then reset it by hand. Zoe had watched this boy — Percy, son of Poseidon — carry beams without complaint, hold ladders, bring lemonade, love without performance.
 
-It reminded her of the Hunt at its best. Sisterhood. Purpose without cruelty.
+It reminded her of the best work done in the Hecate cabin: one person learning a difficult skill and another making sure she had the tools to finish it.
 
 What she brought was a knot-charm, braided from three cords: one blue-gray wool from her own old cloak, one sea-green thread Percy had given her from a frayed camp shirt, one golden cord Annabeth had used to tie up her blueprints.
 
@@ -446,7 +433,7 @@ It was a lover's knot, technically, but also a friendship knot, a sister knot. A
 
 She laid it in a circle around the other offerings, encompassing them all.
 
-"In the Hunt," Zoe said, her voice clear and accented, carrying easily in the quiet hollow, "we left markers for sisters who fell. A bead. An arrowhead. So the next party would know: she was here. She mattered." She looked at Annabeth. "This is better. This is not for the fallen only. This is for the living who choose to stay and build. That is rarer. That is braver."
+"When we restore a damaged ward," Zoe said, "we mark who repaired it and who checked the work. It matters that somebody was here, and that the next person can see what she did." She looked at Annabeth. "You've made a place people want to look after. That's a good reason to build anything."
 
 Annabeth was crying hard now, shoulders shaking, Percy's arm around her holding her upright.
 
@@ -460,7 +447,6 @@ Annabeth stood in the center of them all, turning slowly to look at each face, a
 
 ---
 
-### Annabeth — Dedication
 
 Annabeth tried to speak and couldn't.
 
@@ -504,7 +490,6 @@ Nobody spoke for a long time. They just stood there together in the quiet, warm 
 
 ---
 
-### Percy — After
 
 They stayed for hours.
 
@@ -537,8 +522,3 @@ Annabeth's breathing deepened. Percy stayed awake a little longer, keeping watch
 Quiet. Warm. No monsters. Just this.
 
 Percy closed his eyes, hand in Annabeth's hand, and let the hollow hold them all.
-
-*End of Chapter 39.*
-
----
-
