@@ -236,7 +236,7 @@ Thalia let her have that one. Annabeth took back the ruler and started down the 
 
 By six, when Thalia borrowed Percy's coat and stepped out of Cabin Three, the injury had become something she was actually going to do something about. It remained a poor explanation for why she was walking toward Rhys Calder's light. She had no better explanation ready.
 
-Somebody knew about the heel. Somebody had said it out loud on Sunday at the fire ring, without meaning to — no ceremony, just the sentence landing in the middle of the afternoon like a stone into still water. *You're favoring it.* And Thalia had spent the whole of the rest of Sunday and the whole of Monday being very busy and very fast about it, and at six in the evening she had finished being busy, and had put on the coat that was not hers, and had discovered where her feet were taking her, which was north, up past the cold sword arena, to the camper's cabin at the end of the path where a light was still on.
+Someone had known about the heel since Sunday. Percy had said it aloud at the fire ring, with no ceremony or accusation, and Thalia had spent the next day discovering how much she disliked being observed when she couldn't do anything about the observation. Now the north path ended at Rhys's cabin, with lamplight caught in the quilted window. She could still turn around. She had promised Annabeth an examination tomorrow; she had promised Rhys nothing. That, she was beginning to suspect, was why coming here mattered.
 
 She stood outside the door for a long moment. The cold came up the hill off the lake and moved the pines. She could see the light through the quilted window, and the shape of him moving around inside, and she thought about turning around. She thought about it seriously, the way a person thinks about a thing they are afraid of, and she stood in the cold and weighed it — the going-back, the going-on — and the going-on won, the way it always did, because she was Thalia Grace and she had never once in her life walked away from a door she had decided to walk through.
 
@@ -286,7 +286,7 @@ He broke it by degrees, the way the good ones do — half an inch, foreheads tou
 
 Thalia looked at him. This boy who had gone away and come back broad. Who corrected her stance on a cold field until her arms remembered it. Who had been careful for six weeks like a man, and who was now standing in front of her with his heart going as plainly as hers was.
 
-She did not say yes. She took his hand off her waist and put it flat on the front of her shirt, over her heart, and held it there, and looked at him, and stepped in until there was no space left between them, and kissed him again — hard this time, open-mouthed, her hand fisted in the front of his shirt — and he got it, the way he always got it, and his arms came around her and he kissed her back, and that was the whole of the answer, and it was enough.
+"Yes," she said, with more certainty than she'd expected. She took his hand off her waist and put it flat on the front of her shirt, over her heart, and held it there, and looked at him, and stepped in until there was no space left between them, and kissed him again — hard this time, open-mouthed, her hand fisted in the front of his shirt — and he got it, the way he always got it, and his arms came around her and he kissed her back, and he understood that she was choosing him, not surrendering the choice.
 
 ---
 
@@ -317,8 +317,6 @@ Outside, the north wind had the whole hill, and the path home was gravel under h
 ETERNITY. THAT'S ALL, said the slate, over the laundry instructions.
 
 She was grinning all the way up the hill, and nobody saw her do it, which made it worse.
-
----
 
 ---
 
