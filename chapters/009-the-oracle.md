@@ -254,6 +254,3 @@ Her eyes lifted to his. "No."
 He felt heat climb his face. "Sorry."
 
 "Keep the question. Lose the certainty." She opened the book nearest her and pushed it across the table. "Sit. I can show you what I know. It is less than either of us would like."
-
----
-
