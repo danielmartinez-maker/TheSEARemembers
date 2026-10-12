@@ -101,6 +101,114 @@ She didn't give it to Annabeth after lunch.
 
 ---
 
+Chiron found Thalia in the armory before she had decided whether to go to lunch. He didn't ask why the door was shut. The workshop steward had already mentioned that someone had taken the spare-shield room out of use for an hour, and Chiron's expression suggested he knew exactly who was responsible.
+
+"Are you free for a moment?" he asked.
+
+"Depends what you need me for."
+
+"A question, perhaps. We received a letter from your mother this morning."
+
+Thalia felt the envelope against her chest as though it had suddenly grown hot.
+
+"I know."
+
+"Then the mail reached you."
+
+"It did."
+
+Chiron waited. He had the irritating ability to make silence feel like an invitation without turning it into an interrogation. Thalia had spent years resenting and depending on it in equal measure.
+
+"I'm not trying to keep it from Annabeth forever," she said.
+
+"I haven't accused you of doing so."
+
+"I just need to know what to say."
+
+"Then perhaps you should decide what you know, and what you're afraid might happen."
+
+Thalia leaned against the shield rack. It was a sensible distinction, which made her want to throw something.
+
+"Mom says she's thirty-eight days sober. She has a job. She wants pictures. She asks if we're safe. She asks about Jason, like he might be living in the next cabin over and all we have to do is look."
+
+"Those are the things she wrote."
+
+"She also wants to drive us to the ocean and buy us bracelets. She still doesn't have a car. And the last time she tried to take us somewhere without telling anyone, I spent a night outside a motel trying to find a telephone."
+
+Chiron glanced toward the empty doorway. "You're allowed to be frightened by the offer."
+
+"Annabeth will hear *ocean* and *bracelets* and want to believe the good parts."
+
+"She might. She may also have questions you've never heard her ask."
+
+"She doesn't remember half the things that would make her afraid."
+
+Chiron let the words settle. Thalia knew she had made the problem sound simple. Her sister remembered a childhood Thalia couldn't share, and was missing a childhood Thalia had lived through. That made Annabeth more vulnerable to some stories and less vulnerable to others. It did not mean she had become too young to read a letter addressed to her.
+
+"Is there anything in the letter that puts either of you in immediate danger?" Chiron asked.
+
+"Not from the letter itself."
+
+"Then I can help you think about what safe contact might look like without deciding for you how to feel about your mother."
+
+"What if Annabeth asks to visit?"
+
+"Then we discuss it. A parent being sober for a little over a month is encouraging. It is not the same as establishing a reliable home or a safe travel arrangement. You and your sister will not be sent away because an envelope arrived."
+
+Thalia looked up sharply. "You promise?"
+
+"I promise that I will not treat the letter as sufficient reason to change your guardianship or remove you from camp. Any visit would require a separate conversation, consent and practical safeguards."
+
+She had expected a kinder but vaguer answer. She found the specifics unexpectedly relieving.
+
+"Would you tell her that?" she asked.
+
+"I can, if she wants me there. But I would rather you didn't need me as proof that your worries are reasonable."
+
+Thalia thought of the sisters' letters to Jason, still waiting for a route to Camp Jupiter. She had asked Chiron for help without expecting him to speak for her. She ought to be able to offer Annabeth the same choice.
+
+"I can tell her after lunch," she said.
+
+"Would you like me to check on either of you afterward?"
+
+"Maybe. Not right away."
+
+"All right."
+
+He turned toward the door. She stopped him.
+
+"Chiron. Does thirty-eight days mean she's going to be okay?"
+
+He looked at her with a sorrow she wished he'd concealed.
+
+"It means she has made it through thirty-eight days," he said. "That is real progress. I can't promise what happens next."
+
+Thalia nodded. She had expected that answer. The hope still stung.
+
+After he left, she unfolded the letter and read it again. The line about Jason was still difficult. The mention of matching bracelets still made her remember a day in a department store when Beryl had been sober enough to laugh at Annabeth for choosing the ugliest pair. Both memories belonged to the woman who'd written the letter. Neither canceled the night outside the motel.
+
+She took a clean sheet of paper and wrote a response in the margin of an old drill plan, because it was the first paper she could find:
+
+*Mom, I got your letter. I'm glad you're safe and working. Chiron says the mail route is open, but I don't know whether we can visit. Annabeth should decide whether she wants to write.*
+
+She stopped. She didn't want to write on behalf of a sister she hadn't even told.
+
+She crossed out the last sentence and began again.
+
+*I want to answer you. I need some time. Please write to camp rather than asking anybody to take us away without speaking to Chiron first.*
+
+That was true. It was also more direct than anything she'd sent her mother before. She folded it and put it in the same jacket pocket as the unopened original envelope. She might send it. She might rewrite it. At least she had decided what she wanted rather than only what she wanted to prevent.
+
+Outside the armory, the afternoon bell sounded. Thalia went out toward the pavilion. Annabeth was sitting with her books beside the Zeus table, a penciled diagram spread over her plate. Thalia watched her for a moment and nearly went over.
+
+Then she saw Percy speaking to Clarisse, remembered the promise she'd made to Chiron and decided she couldn't hand over the letter with an audience listening. She would wait until they could talk alone.
+
+The delay had a reason. It did not become harmless because the reason was understandable.
+
+
+
+---
+
 Annabeth knew something was wrong because Thalia lied about the oatmeal cookies.
 
 It was small. That was how Annabeth knew — Thalia Grace did not do small lies well. Big lies, life-or-death lies, monster-behind-you-run lies? Flawless. Small lies? Terrible.
