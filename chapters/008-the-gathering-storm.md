@@ -832,6 +832,172 @@ Percy started fastening the bracket. "Did Silena tell you to say that?"
 
 ---
 
+The meeting in the dining pavilion was supposed to last fifteen minutes. Annabeth knew because Thalia had written *fifteen minutes* at the top of the notice in letters large enough to see from the doorway.
+
+By the time Annabeth arrived, eleven younger campers were sitting at the breakfast tables. Another three hovered near the entrance, debating whether they were prepared to attend a meeting held within sight of the damaged Hall. Bea stood near the chalkboard with a stack of blank cards. Clarisse had borrowed a low crate from stores so everyone could see the broken bracket from the practice-yard rack.
+
+"This is a briefing," Thalia told Annabeth. "Not a demonstration of anyone's powers."
+
+"I wasn't planning to throw lightning at breakfast."
+
+"I know. I'm saying it where the others can hear." Thalia lowered her voice. "Chiron asked us to answer questions. I don't want you feeling as though you have to stand up there and defend yourself."
+
+"Then don't make me stand up there. Let me help answer what they actually ask."
+
+Thalia regarded her. She was dressed for patrol and still had her sword at her hip. Annabeth almost asked whether her sister ever got a morning that didn't begin with somebody else's problem. She didn't. Thalia would hear the question as criticism of work she had chosen.
+
+"All right," Thalia said. "Bea's leading. We stop if it turns into people shouting about who's to blame."
+
+"An excellent rule for the entire camp."
+
+"Don't start."
+
+Bea asked the campers to write down what they wanted to know. Not their names, just the questions. Some used the cards, while others spoke aloud. One boy wanted to know whether he could reach archery practice without passing the Hall. A girl asked why the repair crew wore heavy gloves when the weather was clear. Someone at the back asked whether a broken ward could let monsters through, which brought a brief, unhappy silence.
+
+Thalia wrote three headings on the board: *What we saw*, *What we know*, and *What needs checking*.
+
+Annabeth watched her hesitate over the last one. Her sister disliked uncertainty where safety was concerned. But she wrote it anyway.
+
+"Can we put the answers somewhere people will be able to read them later?" Annabeth asked.
+
+"If they're correct," Bea said.
+
+"Date them. The repair team can change the notice when it learns something new. That's better than leaving an old answer up as though it stays true forever."
+
+Thalia added a date to the board.
+
+Milo sat in the second row, feet not quite reaching the ground. He had been the missing camper during the evacuation drill and had spent part of the storm trapped near the archery shed. Annabeth remembered helping guide him and two others away from the flooded entrance. Today he wore a sweater despite the warmth.
+
+"What if somebody goes to the wrong place again?" he asked. "I didn't know the Hall was closed until I got there."
+
+"That's on us," Thalia said. "We changed the assembly point and didn't get the new signs up everywhere. The notices will include a map, and counselors will check the routes before practice."
+
+Annabeth drew the lower path on the board. She marked where the runoff had collected, then drew an alternative around the upper bank. She stopped short of labeling it safe.
+
+"Bea, can the maintenance crew check the slope before we put this up? I haven't walked it since the rain."
+
+"Of course. I'll ask this afternoon."
+
+Milo looked at Annabeth's hand.
+
+"Does it still hurt?"
+
+"The burn? When I hold the chalk too tightly. The healer says it's mending."
+
+"Did you get it because you were making lightning?"
+
+She heard the question beneath the question. Several campers had watched her arrive with expressions that made their guesses clear. Annabeth had spent the morning preparing an explanation of the difference between a failing ward and a demigod's powers. It suddenly seemed more important to answer the child who had been there.
+
+"I was at the Hall when the protection started failing," she said. "I was trying to help people get out. I got burned when the damaged ward reacted. My powers can affect electricity, but that doesn't mean I know everything about them yet. The repair team is still investigating. I can't give you their conclusion before they have one."
+
+Milo twisted his sweater hem. "So it could happen again?"
+
+"There's a reason the Hall is closed. Nobody should go inside until the inspections are finished. That isn't because you did anything wrong, or because the building is angry at you. It's because the crew found a problem and needs to make sure it's fixed."
+
+A girl in front raised her hand. "My brother said you set the ward off. Because of Zeus."
+
+Thalia stiffened beside Annabeth. Ordinarily Annabeth might have answered too quickly, especially with her sister ready to fight for her. Instead she set down the chalk. Her fingers had started to ache.
+
+"Your brother wasn't with me," she said. "I don't know what he heard. I didn't enter the Hall to practice lightning. I went because somebody needed help. If the inspection shows I made a mistake, I want to know what it was so I don't repeat it. But none of us should invent an answer before the evidence is in."
+
+The girl looked uncertain whether that was a reply she could take home. Bea handed her another card for the questions the repair team still needed to address.
+
+Someone asked how to tell a damaged ward from a harmless one. Clarisse took that opportunity to lift the broken bracket from the crate.
+
+"This isn't magic," she said, displaying the split wood where a screw had pulled free. "It's part of a rack that nearly fell on somebody. People kept leaning shields on it because the rack had always been there. Nobody looked closely enough until the wood gave out. A ward can fail for reasons you won't be able to see, but the rule is the same. If something looks wrong, keep clear and tell the person responsible. Don't touch it to find out what happens."
+
+"Especially if somebody tells you it's cursed," Percy said from the doorway.
+
+Annabeth turned. He was carrying repaired practice shields and had apparently stopped when he heard the discussion. Clarisse pointed him toward an empty bench.
+
+"You have a job," she informed him.
+
+"I'm doing it. The instructor approved the rack."
+
+"Then you can help Bea put up the map afterward."
+
+He accepted this with an exaggerated expression of misery. Several younger campers laughed, and the room became a little less tense.
+
+Thalia resumed the briefing. "If you report a problem, you're not getting someone in trouble. And if a counselor says we're still checking, it means we don't have the answer. It doesn't mean there's a secret list of people you're supposed to be afraid of."
+
+She glanced toward Annabeth, then back to the campers.
+
+"If somebody dares you to touch a closed ward to prove you're brave, you get an adult. You don't have to win an argument to stay safe."
+
+"Even if the person telling us is older?" asked a boy near the back.
+
+"Especially then," Clarisse said. "Older campers can be idiots. I have extensive evidence."
+
+The meeting lasted forty minutes. By the end they had a draft map, an ordered pile of questions for maintenance, and three changes to the emergency notices. Bea gave Milo the task of carrying the revised route instructions to his cabin counselor. He accepted the paper and left with two other children, arguing about whether the longer path would make them late to archery.
+
+When the pavilion emptied, Thalia sat on a bench and rubbed her eyes.
+
+"I said fifteen minutes."
+
+"You did," Annabeth said. "They wanted to talk."
+
+"I know. I just wasn't expecting so many sensible questions."
+
+"They're frightened, not stupid."
+
+"I didn't say they were."
+
+"No, you didn't." Annabeth picked up the chalk again and erased the unfinished sketch.
+
+Thalia watched her work. "You handled that better than I would have. I'd have found whoever started the rumor and made them wish they'd kept quiet."
+
+"You still might."
+
+"I might," Thalia admitted. "But Milo left with the map instead of sitting here staring at the Hall. I think that's better for him."
+
+Annabeth stacked the remaining cards. "I wish I could tell you why the Oracle matters so much."
+
+Her sister looked at her but didn't press for the reason.
+
+"Even if you find what you need, it might not be the answer you want," Thalia said. "Chiron has to think about everyone who sleeps in these cabins. If he keeps the attic closed, you have to account for that."
+
+"I do think about them."
+
+"I know. It's part of why I worry. You'll take responsibility for the entire camp and then be furious when somebody tells you there are things you can't do alone."
+
+Annabeth folded a corner of the rough map, noticed it, and smoothed it flat.
+
+"I'm not going alone."
+
+Thalia's gaze moved to Percy, who was helping Bea straighten the noticeboard. Her expression suggested that she knew very well who counted as *not alone*.
+
+"That wasn't what I meant."
+
+"I know."
+
+Neither sister made the other finish the argument. That was new enough to be a relief and difficult enough that Annabeth refused to call it a solution.
+
+Percy came back for the clean copy of the map. Annabeth held one edge while he kept the paper flat and Bea fetched pins. He noticed her flexing her sore fingers and took over the side she was holding without announcing it.
+
+"Silena told me about the girl by the rack," Annabeth said.
+
+"She asked whether you caused the storm. I told her what the repair crew knows. I didn't try to tell her what you thought."
+
+"Thank you. Everybody seems to expect I can either stop every storm or make the next one. I can barely make a spark go where I intend."
+
+"We could put that on the noticeboard."
+
+"Under the heading *Please stop asking me to do the weather*?"
+
+"Exactly. Your father can take the complaints."
+
+"He's more likely to send a thunderbolt than an apology."
+
+"Then we'd better charge admission."
+
+Annabeth laughed, then looked toward the Big House beyond the pavilion roof. She was relieved that Milo had been willing to ask a question, and glad Thalia had let her answer without stepping between them. Neither feeling settled the matter of the Oracle. The forbidden attic still sat there, full of documents they could not inspect in daylight.
+
+Bea returned with the pins. Together they posted the revised route and left a space beneath it for the maintenance team's approval. Annabeth copied the catalog numbers from the morning into her public notebook and made a separate list of what the children still deserved to know.
+
+When Percy left for the final rack inspection, she remained a little longer to help Bea sort the cards. Several were badly spelled. None was frivolous. Whatever answers the Oracle held, those questions were real, and somebody had to take them seriously without pretending to know more than they did.
+
+---
+
 At dusk, Annabeth found Percy on the dock reviewing their notes. The night before, the Oracle's mist had gathered around the chair without producing a new prophecy. They had found a dated copy in Chiron's handwriting, not an explanation.
 
 "I spoke to him," she said.
