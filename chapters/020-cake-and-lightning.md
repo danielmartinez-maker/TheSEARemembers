@@ -238,7 +238,7 @@ They regrouped. They melted butter correctly. They mixed batter. It actually sta
 
 "Now the blue part!" Percy said.
 
-This was important. Everyone at camp had heard Percy talk about Sally and blue food. In his remembered original childhood she had started it when he was little — blue pancakes, blue waffles, blue birthday cake — because Gabe had once said blue food didn't exist and Sally had taken that personally. Here, where she had died when he was two, Percy kept the tradition by always asking for extra blueberry syrup. It was a mom thing he could carry across the missing years. And Thalia had rarely had a birthday their own mother could make easy. He wanted this one to be easy.
+This was important. Percy had been trying to explain why he wanted blue food without explaining memories that did not belong to the twelve years everyone else knew. In his remembered original childhood she had started it when he was little — blue pancakes, blue waffles, blue birthday cake — because Gabe had once said blue food didn't exist and Sally had taken that personally. Here, where Sally had died when he was two, he couldn't honestly claim to have grown up eating that way. He could make blue food now, and keep the more complicated explanation between himself and Annabeth. It was a mom thing he could carry across the missing years. And Thalia had rarely had a birthday their own mother could make easy. He wanted this one to be easy.
 
 So the cake had to be blue. Bluer than the Aegean. Blue like Sally would make.
 
@@ -518,7 +518,7 @@ Percy, Grover, and Ella stood at attention in the kitchen corner. The practice c
 
 They began. Carefully this time. Reverently. Percy cracked eggs over a separate bowl so shell could be fished out easily — a trick he remembered Sally using, backed up by Amphitrite's advice during his Iris-call home last week, when he'd tried to casually ask about cake without saying *birthday surprise.*
 
-Amphitrite had known instantly, of course. The queen who had raised him here knew his evasions.
+Amphitrite had guessed it was for a party. Percy let her believe that was all he was worrying about. Nothing he'd said to her hinted at his lost years or the life with Sally he remembered.
 
 *Blue cake, little tide?* Amphitrite had said, laughing with a warmth Percy was learning to trust. *For Thalia? That's sweet. Remember — a little dye goes a long way, and add the blueberries last so they don't turn it gray. And Percy? Tell her I said happy birthday. Anyone who looks out for my boy gets blue cake for life.*
 
@@ -789,8 +789,3 @@ A pause. Crickets outside. The pine on the hill rustling in the night wind.
 "Love you too, pinecone."
 
 And under a sky full of stars, with cake and lightning and people who showed up, two sisters fell asleep — safe, celebrated, home.
-
-*End of Chapter 20.*
-
----
-
