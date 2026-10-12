@@ -402,7 +402,7 @@ Thalia, watching her hesitate, nudged her. "What?"
 
 Thalia was quiet for a moment, turning a bronze offcut over in her fingers. The forge roared around them. Someone laughed — Clarisse, at something Jake said. Water hissed.
 
-"Annabeth," Thalia said at last. "You remember being seventeen, right? You told me about it. You remember who you were."
+"Annabeth," Thalia said at last. "You told me there are years you remember that I don't. You remember what it was like to build before all this changed for you."
 
 "Yeah."
 
@@ -493,6 +493,3 @@ Annabeth laughed, tilted her face to the evening sky — blue fading to gold, fi
 Like a good joint. Heated, joined, cooled. Stronger together than apart.
 
 Behind them, the forge glowed on, orange and steady, making and mending for the whole camp. Ahead, dinner waited. The little bronze owl rode in Percy's hands, wings spread, ready for any weather.
-
----
-
