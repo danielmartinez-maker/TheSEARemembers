@@ -534,19 +534,28 @@ Almost.
 
 ---
 
-That night, Percy couldn't sleep. He lay in his bunk in the Poseidon cabin, staring at the ceiling, listening to Clarisse's soft snoring from across the room, and thought about everything that had happened since he arrived.
+That night Percy came back to Cabin Three with a question he meant to ask Clarisse. He waited until she'd put away her practice gear.
 
-He'd met his sister. He'd sparred with Thalia. He'd explored the camp and found the Tempest Hall and walked the border with Clarisse and sat by the lake with Annabeth. He'd pieced together the shape of this altered timeline — the changes, the inconsistencies, the sense that something fundamental had been shifted.
+"Does the lake ever feel strange to you?" he asked.
 
-But he hadn't learned anything that actually mattered. He hadn't found out who was responsible. He hadn't made any progress toward stopping whatever was coming.
+She looked up from a pile of wet towels. "Define strange."
 
-He was only... existing. In a world that wasn't quite his. Surrounded by people who didn't know him, except for one.
+"Like there's something moving underneath it. A current that shouldn't be there."
 
-Tomorrow, he'd do better. Tomorrow, he'd start making real progress.
+"It's a lake, Jackson. It has currents."
 
-Tonight, he only tried to sleep.
+"I know. But this one..." He stopped. He didn't know how to explain the sensation without claiming to know more than he did.
 
-And somewhere in the distance, thunder rolled, low through bone and dock-wood, air gone metallic and cold — low and patient and waiting.
+Clarisse considered him for a moment, then pointed at the hook by his bunk.
 
+"Tomorrow morning, before training," she said. "I'll show you where the springs enter. Silena drew a map last summer for an irrigation project. Maybe that'll answer your question."
+
+"You'd do that?"
+
+"If it gets you to stop asking the lake directly, yes." She threw him a towel. "Hang that up before it starts growing things."
+
+Percy did. Silena was already asleep, and he didn't want to wake her. Outside, the cabin lights were going out one by one.
+
+He still had no explanation for the changed camp or the years he couldn't remember. But tomorrow Clarisse was going to show him a map. He could begin with that.
 ---
 
