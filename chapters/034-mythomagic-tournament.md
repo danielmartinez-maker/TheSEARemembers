@@ -712,6 +712,12 @@ The players shook hands and took their seats. Nico settled with Bianca near the 
 
 Nico marked the first line of a fresh page. The tournament had become more interesting now that he wasn't trying to win it. He could see the choices both players made without needing them to prove that his own deck had been the best.
 
+During the first shuffle, Bianca handed him a clean scoring sheet. Nico hesitated before writing Percy and Annabeth's names. He had wanted somebody to record his own game with the same care, not merely announce that he'd lost. It occurred to him that he could do that for the next opponent who sat at a table after him.
+
+He wrote down each player's starting life total and marked the turn order. When the first card was placed, he recorded the actual move rather than his guess about what was coming next. It was difficult. He kept wanting to explain why someone was about to make a mistake. Bianca tapped the paper and reminded him that the record was supposed to tell them what happened, not what he'd hoped would happen.
+
+By the third turn he had found a rhythm. If either finalist wanted to argue about the result, there would be a record anyone could check. Nico liked the thought of being useful in a way that didn't require winning. He still wanted to win next time.
+
 
 
 ---
