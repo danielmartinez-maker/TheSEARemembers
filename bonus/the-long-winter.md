@@ -238,6 +238,235 @@ By six, when Thalia borrowed Percy's coat and stepped out of Cabin Three, the in
 
 Someone had known about the heel since Sunday. Percy had said it aloud at the fire ring, with no ceremony or accusation, and Thalia had spent the next day discovering how much she disliked being observed when she couldn't do anything about the observation. Now the north path ended at Rhys's cabin, with lamplight caught in the quilted window. She could still turn around. She had promised Annabeth an examination tomorrow; she had promised Rhys nothing. That, she was beginning to suspect, was why coming here mattered.
 
+There was a particular humiliation in realizing she had been flirting with him for almost six weeks and had somehow managed to convince herself she was conducting a professional rivalry.
+
+She'd first noticed the problem when he corrected her elbow.
+
+It had been a Thursday with rain threatening, one of the afternoons that made the archery field smell of turned earth. She was halfway through a round, shooting well enough to be angry that she wasn't shooting better, when Rhys walked behind the line with a clipboard tucked beneath his arm and paused at her station.
+
+"You're compensating," he'd said.
+
+"I know."
+
+"Then why are you doing it?"
+
+"Because if I stop, the arrow lands in the wrong county."
+
+He hadn't laughed. That was the first thing that caught her attention. Most of the boys who tried to advise Thalia laughed before she was finished talking, whether she was funny or not, as if anything other than agreement might result in a spear through the chest.
+
+Rhys had stepped back behind the safety line. "Do you want me to show you?"
+
+Thalia had looked him over, from his muddy boots to the ridiculous clipboard, and decided he was probably an irritating person.
+
+"Go ahead."
+
+He'd picked up a spare bow, set his feet, and deliberately reproduced her mistake. The arrow had landed left. Then he'd adjusted his stance and shot again, correcting without a speech. He passed the bow back to her.
+
+"That's the difference. Your shoulder's doing the work your feet should be doing."
+
+"My feet are doing plenty."
+
+"That's what worries me."
+
+She had expected him to stay and watch. Instead he went to help a camper whose string had slipped. The next time Thalia shot, her arrow struck where she'd intended. She hated that. More precisely, she hated how much she wanted to call him back and show him.
+
+By the end of the afternoon she had invented a reason to walk past his bench.
+
+"Your feet are too narrow," she said.
+
+Rhys looked down at his boots. "Excuse me?"
+
+"When you shoot. You're making yourself less stable than you need to be."
+
+He glanced at the empty practice line. "I didn't shoot while you were watching."
+
+"Yes, you did."
+
+"When?"
+
+"Before lunch. Near the second target."
+
+He paused, and there was something briefly, annoyingly delighted in his face. "You've been keeping track of me."
+
+"I have eyes."
+
+"Apparently very thorough ones."
+
+"Are you going to fix your stance?"
+
+"Probably. Show me what you mean."
+
+She'd demonstrated, expecting an argument. He'd stepped into the corrected position, considered the change, and nodded. There had been none of the wounded pride she might have enjoyed sparring with. He had asked a second question, an intelligent one about the angle of his back foot, and for the next ten minutes they had talked about shooting without either trying to prove the other incompetent.
+
+It was the kind of conversation Thalia had been missing without realizing it. Competence didn't have to be a struggle for rank. A person could take her seriously without making her responsible for their feelings about it.
+
+That should have been enough to make him interesting.
+
+It wasn't the whole problem.
+
+The next week he caught a falling target frame with one hand while she braced the other end. Someone had installed the hinge backward, and the frame had started folding down toward the youngest campers. Thalia had been first to see it. Rhys was first to move. They managed to stop it between them, then spent an hour taking the whole thing apart while the instructor explained to Chiron that the hinge had been perfectly sound that morning.
+
+Rhys worked close beside her without hovering. His shoulders strained beneath an old grey shirt when they lifted the heavy crosspiece back into position. She noticed that, and then noticed herself noticing it, which was irritating.
+
+"Hold this," she'd said, passing him a bolt.
+
+"Yes, captain."
+
+"Don't call me captain."
+
+"Would you prefer 'your majesty'?"
+
+"I would prefer you stop talking."
+
+He'd grinned. "I'll put that on the list."
+
+She had spent the following hour being considerably sharper with him than the crooked hinge deserved. At the end he wiped the grease from his hands and offered her his clean rag, which was a small courtesy she disliked for the unreasonable reason that she wanted him to do it again.
+
+The first time they'd been alone without an excuse had happened by accident. The field lights had gone out while they were sorting equipment, and a late shower had trapped them beneath the narrow shelter by the tool shed. The rain made a sheet between them and the path.
+
+"Well," he said. "We're stuck."
+
+"It's rain. Not a siege."
+
+"You're welcome to test it."
+
+She stayed where she was.
+
+He leaned against the post with his arms folded. Outside the shelter, drops bounced off the top of the water barrel. The rain made it possible to be silent without inviting interrogation.
+
+"How old were you when you started?" he asked.
+
+"Started what?"
+
+"Archery."
+
+"Young."
+
+"Useful level of detail."
+
+"I was a child. There was a bow. Eventually somebody decided I shouldn't be allowed to shoot toward the cabins."
+
+"Seems reasonable."
+
+"I disagreed at the time."
+
+He laughed. It was different from the laugh he used on the field, softer and a little surprised. Thalia turned toward him before she could help herself.
+
+"What?"
+
+"Nothing."
+
+"You laughed."
+
+"You were describing yourself at six. I was imagining the camp safety report."
+
+"Seven," she said.
+
+"Even worse."
+
+"And it was one incident."
+
+"An important distinction."
+
+She could have told him about the night she had taught Annabeth to brace a toy bow, about how the smaller girl had insisted on holding the string all by herself and nearly fallen backward. She could have told him about the things she had learned too young, before anyone had made them into organized camp lessons. Instead she stood beside him and watched the rain.
+
+He didn't pry.
+
+Another minute passed.
+
+"You left for a while," she said.
+
+Rhys nodded. "I did."
+
+"Why come back?"
+
+"Because there are people here I like."
+
+"Very diplomatic."
+
+"And because the winters are short on competent instructors."
+
+"Also diplomatic."
+
+"And because I missed it."
+
+"What part?"
+
+He glanced toward the dark range. "Getting to be good at something without pretending it solves everything else."
+
+She had looked at him then, really looked, and found no performance to argue with. He was nineteen. He had a life outside the valley, a mother he wrote to, responsibilities he had gone home to shoulder and would shoulder again. He had chosen to come back and wasn't pretending the choice had made his life simple.
+
+There were things she might have wanted to ask. None of them felt suitable for the shelter or the rain.
+
+When the shower eased he pushed away from the post.
+
+"I'd better get the targets covered."
+
+"Before the next siege?"
+
+"Exactly."
+
+She followed him out and helped, and for several days afterward was profoundly irritating to everyone who asked why she had stayed late at the range.
+
+The humiliating part was that nobody had asked.
+
+After that came the little things. A cup of cider left on the bench when the evening sessions ran long. A joke about her insistence on counting every arrow in a quiver even when the number was written on the case. A walk back from the field in which they argued for twenty minutes about which of them had made a worse first impression.
+
+"You told me my feet were wrong," he said.
+
+"They were wrong."
+
+"Your entire opening statement."
+
+"I like to be efficient."
+
+"And here I thought you were desperate to talk to me."
+
+She had stopped in the middle of the path.
+
+Rhys had stopped too. The smile disappeared when he saw her face.
+
+"That was a joke," he said. "Too much?"
+
+She might have punished him for asking. She might have made the rest of the walk unpleasant because she was embarrassed, which was sometimes her preferred method of managing embarrassment.
+
+Instead she said, "Not entirely."
+
+"Not entirely what?"
+
+"Wrong."
+
+He looked at her for a second. She could hear the loose lantern hook tapping against its bracket above them. Then he smiled, slowly enough that she had time to wish she hadn't spoken and to be glad she had.
+
+"Good," he said.
+
+That was all. He didn't make a move, didn't claim an invitation, and didn't turn her confession into a victory. He walked the rest of the way with her, close enough that their coats sometimes brushed, and said good night at the fork.
+
+The night after that, she dreamed of kissing him.
+
+She woke furious with herself, which did not improve the situation. Neither did seeing him that morning at the range, lifting a hand in greeting as if the world hadn't rearranged itself overnight.
+
+She began taking the longer path to breakfast. It wasn't remotely convenient. Twice she encountered him on it anyway.
+
+One afternoon he'd said, "You know you can just come over if you want something."
+
+"What makes you think I want something?"
+
+"Because you've been standing at the far end of the range glaring at the back of my head for ten minutes."
+
+"I've been checking your form."
+
+"With your bow unstrung?"
+
+She'd looked at the bow in her hand, discovered he was right, and turned to leave.
+
+He hadn't called after her.
+
+It was the restraint she couldn't stop thinking about. When she wanted to be difficult, he was perfectly willing to let her be difficult. But he wasn't interested in pulling the answer out of her. He would take what she chose to say and leave the rest alone.
+
+And tonight, finally, she'd made a choice.
+
+
 At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
 
 She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
