@@ -506,6 +506,46 @@ Current whispered around him, muddy and fast. *Sea son. Run. Swim.*
 
 Percy kicked. His clothes dragged. Riptide was somehow still in his hand, capped back to a pen. He tucked it away.
 
+The current did not simply carry Percy toward the bank.
+
+At first it pulled him downstream, toward a barge moving against the traffic of smaller boats. He could hear the engine through the water, a low mechanical beat that made his ribs ache. He tried to change direction and discovered his arms weren't cooperating. The fall had emptied him. His body was alive, but every muscle wanted to stop moving.
+
+He had always loved the idea that water would recognize him anywhere. There was comfort in imagining an entire river as a friend. But the Mississippi had other work. It carried silt, branches, boats and the weight of half a continent's rain. It could support him without becoming obedient in every detail.
+
+Percy looked at the barge's dark underside and forced himself to pay attention.
+
+He didn't need to lift the whole river. He needed enough water around his body to move sideways. He could feel a slower current near the stone wall, where the river turned back on itself. Instead of fighting the middle channel, he followed that change in pressure.
+
+The first attempt sent him spinning. His shoulder struck something floating and solid, perhaps a branch. Pain shot down his arm. He lost his sense of direction and swallowed water before remembering that his breathing didn't need to work like a mortal's while he was submerged.
+
+He waited until the panic passed.
+
+He was not seven-year-old Percy in a swimming lesson, though Silena would have recognized the way he talked to himself. He was twelve and had spent months learning the boundaries of gifts he hadn't chosen. He remembered surviving this fall before, in another version of the world, but it wasn't a guarantee written into the riverbed. If he hit the barge or a retaining wall with enough force, Poseidon's favor might not be enough.
+
+*Look. Choose. Move.*
+
+It was the sort of instruction Annabeth would have given him, except she'd have added a complaint about how long he'd taken to understand it.
+
+Percy let the water turn him onto his side. He pushed with the current instead of straight against it, angled away from the barge, and followed the slower band toward the river steps. A piece of wood slipped past his head. He caught it for a second, used it to orient himself, and let go before the current dragged it downward.
+
+Then he saw light breaking into little shards above him and realized he was nearer the surface.
+
+He rose too quickly. Air hit his face in a gasp, and a wave slapped into his mouth. A passing boat sent a wake across his path. He went under again. This time he didn't fight. He waited for the wake to pass, then surfaced beside a patch of calm water sheltered by the steps.
+
+Somebody was shouting from shore.
+
+Percy couldn't make out the words. He saw orange emergency jackets and the shape of a girl moving among them. Annabeth. He knew her even from a distance, from the way she planted her feet before she pointed.
+
+He raised one arm.
+
+It was a mistake. The effort tipped him backward, and his shoulder cramped. Percy stopped waving and concentrated on reaching the shallow current.
+
+The river pushed him one last time, hard enough that his knees struck the submerged step. He grasped the edge and pulled himself up, coughing mud and water. His lungs worked normally again, and the sudden cold was terrible. The sun on his back didn't seem to help.
+
+He had made it. That did not make the fall safe.
+
+Percy was still struggling to stand when he heard Annabeth run down the steps. There would be time for her to be furious. He could see already that she was, and he couldn't blame her.
+
 The river spat him out in the shallows by the steps, coughing brown water onto concrete, shivering violently despite the warm air.
 
 And Annabeth was there.
