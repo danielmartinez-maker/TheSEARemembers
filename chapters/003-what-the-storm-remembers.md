@@ -518,19 +518,22 @@ Percy retrieved it with a finger's movement and placed it beside her shoe. Annab
 
 ---
 
-That night, Percy lay in his bunk and thought about everything that was happening. Clarisse was his sister, fierce and tired and secretly lonely. Annabeth was displaced, grieving a life she couldn't prove had existed, and her power was a weapon she hadn't learned to wield. The timeline was altered, the old records were incomplete, and somewhere, gods were making plans that no one could see.
+That night Percy tried to make sense of what he'd learned about the camp's new buildings. Chiron had said the council authorized them, but the paperwork was incomplete. That wasn't a conspiracy by itself. It was a question with an answer somebody might know.
 
-He was twelve years old in a world that wasn't his, carrying memories only Annabeth shared, and he was trying to protect people who didn't know they needed protecting.
+He pulled a clean page from the back of his notebook. At the top he wrote *Hall of the Gods*. Below it he added the year it had been built, the missing authorizations, and Zoe's name. He hadn't spoken to her yet.
 
- he didn't know if he was doing enough. He didn't know if he was doing anything right.
+Across the room Clarisse was trying to get comfortable on a mattress that squeaked every time she moved.
 
-But he knew that he wasn't going to stop. He knew that he was going to fight — not because he was brave, but because he was stubborn. Because the people he loved needed him. Because Annabeth was going to figure this out, and he was going to help her, and together they were going to find a way through.
+"If you keep writing, I'll make you sleep in the library," she muttered.
 
-Even if the way through was impossible.
+"That'd be convenient. Then I could study all night."
 
-Especially then.
+"Exactly why you need to stop."
 
-And somewhere in the distance, thunder rolled, low through bone and dock-wood, air gone metallic and cold — patient and persistent and waiting for the storm that was coming.
+Percy closed the notebook. Clarisse was right about his sleep, although he had no intention of telling her so. He set the page where he'd find it in the morning and switched off the lamp.
 
+In Cabin One Annabeth would be trying to sleep too. They had agreed to investigate together, but he could not do it for her. He'd ask whether she wanted to visit the Hall after breakfast.
+
+He lay back. The walls of Cabin Three carried their steady underwater rhythm, and eventually he let it replace the list of questions in his head.
 ---
 
