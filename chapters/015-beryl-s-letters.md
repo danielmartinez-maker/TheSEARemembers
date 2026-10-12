@@ -591,8 +591,6 @@ Annabeth fell asleep first, cardigan pulled tight, broth stain and all. Thalia s
 
 Tomorrow they would write back. Tomorrow they would tell Chiron, find Jason's address, skip stones while searching for words. Tomorrow Thalia would buy stain remover from the camp store and apologize properly to the sweater.
 
-Tonight, she just tucked the sleeping bag tighter around her sister, kept hold of her hand, and kept watch — not as a shield, but as a sister. Which, she was learning, was stronger anyway.
+Tonight, she tucked the sleeping bag tighter around Annabeth's shoulders and left Beryl's letter on the crate between their beds. If their mother wrote again, they would decide what to do when they had an actual envelope to open.
 
-*All my love forever and ever and one day more,* Beryl had written.
-
-Thalia looked at Annabeth's sleeping face, smudged with peanut butter, moonlight on her eyelashes, and thought: *Yeah, Mom. Us too. Us too.*
+Thalia had spent years anticipating the worst call or the worst knock on the door. She could not stop herself from listening for one. But she didn't have to wake Annabeth to listen with her. She put down the letter, turned off the lamp, and tried to sleep.
