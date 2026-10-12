@@ -883,6 +883,3 @@ But tonight, cozy and golden, she let him have the win. She let herself lean aga
 Champion or not, she'd already won the best prize: people who stayed for juice boxes after losing.
 
 Even if one of them shuffled eleven times.
-
----
-
