@@ -114,6 +114,126 @@ Annabeth waited another second, as though she might ask something else. Then she
 
 Thalia washed the mug slowly. She was beginning to understand that a person could do everything she'd always done to keep somebody safe and still fail to make them feel known.
 ---
+Chiron had converted the western side of the Hall into a workshop. Canvas screens kept younger campers away from the damaged colonnade, and a line of tables held broken bronze fittings, measured drawings and stone fragments in numbered trays. A pair of Hephaestus campers were working on a bracket in a vise.
+
+Thalia arrived before Annabeth. She wanted Chiron to see her as someone who had come to inspect the repairs, not as an older sister assigned to keep a twelve-year-old away from sharp things.
+
+Nico sat at the first table with his ledger open. He had copied a purchase order into one column and a maintenance entry into another, using colored threads to connect names he believed referred to the same people.
+
+"You're making this look like a murder investigation," Thalia said.
+
+"It would be a lot easier if the paperwork agreed with itself." Nico held out the ledger without ceremony. "The replacement bracket was ordered by Zeus's steward before anybody recorded damage to the original. Either the work was done later than the report says, or the report isn't describing this bracket."
+
+"That signature isn't my father's," Thalia said.
+
+"I know. It belongs to the steward who handles his official orders."
+
+"Then why does everybody keep calling it Zeus's signature?"
+
+"Because they don't want to explain the difference." Nico paused. "You do know how he signs his personal letters, don't you?"
+
+Thalia thought of an expensive sheet of paper sent to Cabin One at the start of summer. Zeus had written three paragraphs on responsibility, expectations and the value of representing their family well. He'd asked whether she and Annabeth were training properly. He hadn't asked what either of them wanted for their birthday.
+
+"When he writes to us, he tends to make it obvious that it's him," she said. "He puts the titles at the top, a personal seal at the bottom, and usually several sentences about what we ought to do next. But the steward could imitate that if he wanted."
+
+Nico made a note. "So we can't use the formatting alone."
+
+"Don't sound so pleased about another thing you don't know."
+
+"I'm pleased when I can rule out an easy mistake."
+
+She almost told him that some people preferred answers. Instead she pulled a chair beside his and asked him to go through the dates.
+
+The drawing showed an old bracket with four holes and a replacement with six. The newer piece could be fixed over damaged stone without drilling out the entire original setting. In the margins somebody had written that the surrounding marble had shifted after a cold winter.
+
+"That's ordinary maintenance," Thalia said.
+
+"Probably. Except the order is dated earlier than the inspection."
+
+"Then find the worker."
+
+"I'm trying."
+
+They had worked through half the entries when Chiron emerged from behind the canvas. He had plaster dust on one sleeve and a wooden molding tucked beneath his arm.
+
+"Thalia. I see you've joined the records team."
+
+"I asked yesterday. You sent me to drills."
+
+"Because the younger campers needed someone who had dealt with a drakon before. They were frightened, and you could teach them what to do if the alarm sounded again."
+
+She hadn't considered that explanation. She didn't particularly like that it was sensible.
+
+"I want to help here, too," she said.
+
+Chiron looked at the bruise still visible above her collar. "You can compare the fittings with their maintenance records. No heavy lifting, and no crossing the active ward line until the installers have cleared it."
+
+"I'm not going to break anything."
+
+"Your assurance would carry more weight if your last inspection hadn't involved trying to lift a cracked paving slab by yourself."
+
+"That was one time."
+
+"It was yesterday."
+
+Nico bent his head over the ledger, hiding a smile. Thalia took the drawings and moved to the next bench.
+
+Annabeth arrived shortly afterward with a straightedge, a notebook and several sheets of clean paper. She hadn't brought Percy. Thalia noticed and immediately resented the fact that she'd noticed.
+
+"Chiron said I could compare the old plans," Annabeth explained. "Where should I start?"
+
+"With the holes," Thalia said, pointing to the bracket. "They don't line up on the two drawings, and somebody signed for the replacement before the original was supposed to be damaged."
+
+Annabeth leaned over the table. For several minutes she said nothing, measuring distances and drawing a smaller diagram beside the first. She turned the paper around twice, then asked Nico for the dimensions of the stone block.
+
+"If the newer bracket covered the original holes, it might hide the crack beneath," she said. "Is that what the replacement was designed to do?"
+
+A Hephaestus camper looked over. "Partly. We needed a larger base plate after the marble started shifting. The six-hole version spreads the load farther from the edge."
+
+"Then it isn't automatically suspicious," Annabeth said.
+
+"No," Nico agreed.
+
+Thalia watched the two of them discuss measurements. Annabeth was younger and smaller than the version of herself Thalia remembered from last summer, a girl who'd once gotten angry because the camp architects wouldn't let her redesign an entire porch. The strange illness seemed to have given her more precision and less patience. It was familiar enough to hurt.
+
+"Can we see where the bracket came from?" Annabeth asked.
+
+Chiron took them to the safety line. The removed bracket had left a pale outline on a northern column, with tiny fragments of broken stone collected beneath the lowest hole. Annabeth crouched to sketch the cracks.
+
+Thalia reached automatically for her collar when she leaned near the loose rubble. Annabeth flinched and looked up.
+
+"I'm not crossing the line."
+
+"I saw the edge moving."
+
+"That was the worker's boot. I'm not going to pull the column down by looking at it."
+
+Thalia lowered her hand. The instinct to grab Annabeth before she fell had survived every argument they'd had and had brought her no closer to knowing what was wrong.
+
+"Sorry," she said, meaning it without enjoying the admission. "Finish the drawing."
+
+Annabeth did. She had to sharpen her pencil twice, and on the second attempt Thalia held the paper steady so the breeze couldn't lift it.
+
+They spent the rest of the morning comparing bracket after bracket. One showed ordinary wear. Another had scratches consistent with a tool slipping during installation. A third had a crack that might have been widened by the drakon. None of it gave Thalia the name of someone who wanted the Hall damaged.
+
+When the midday horn sounded, she was tired of making notes and less certain than when she'd arrived. Nico appeared content with that outcome.
+
+"We know which parts were replaced and which work orders need checking," he said, arranging the pages in a neat stack. "That's more than we knew yesterday."
+
+"It doesn't tell us whether somebody made an opening for a monster."
+
+"It tells us where to look if they did. We can ask the installers why the drawings changed instead of accusing whoever paid the bill."
+
+Thalia looked at the steward's seal again. Her father had enough reasons to be absent without her inventing a new one, and she wasn't going to let his name protect him from questions either.
+
+"Then I want to be there when you ask," she said.
+
+Chiron agreed to arrange a supervised interview. It was the first thing that morning Thalia felt she could take home and use.
+
+Outside, Annabeth put her notebook away and offered Thalia the last apple from her bag. Thalia took it, aware that she had spent several hours with her sister without asking why she trusted Percy more than her own family.
+
+It wasn't a solution. It was, at least, something they had done together.
+---
 Thalia found Percy in Tempest Hall after lunch. He was swimming laps with a determined rhythm, but every few lengths he stopped to catch his breath. She watched him grip the pool's edge and haul himself out.
 
 "Grace," he said. "Did I do something?"
