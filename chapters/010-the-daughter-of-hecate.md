@@ -383,6 +383,106 @@ She sealed the page before anyone came looking for her. Then she brought the con
 
 ---
 
+Before supper Zoe found a notice pinned outside the Hecate cabin.
+
+It had been written in hurried block letters: *ASK THE WITCHES WHO PUT THE MARK IN THE HALL.*
+
+Someone had drawn the three hooked strokes beneath the words. It was a poor drawing, the hooks facing the wrong direction, but it had attracted a group of younger campers who were debating whether the entire Hecate cabin should be kept away from the Hall.
+
+Zoe took the paper down. She did not tear it up. She folded it and put it in her pocket, then asked who had written it.
+
+Nobody answered.
+
+Tomas was sitting on the steps of the cabin. He was younger than Zoe by several years, with hair he kept pushing out of his eyes whenever he was nervous. He could delay the movement in a mirror for half a second, a trick that delighted him and annoyed everyone whose reflection he practiced on without warning.
+
+"Did you see who put it up?" Zoe asked.
+
+"I saw two boys near the noticeboard before training."
+
+"Which boys?"
+
+"I don't know their names. They went toward the arena."
+
+She sat beside him. He was trying to mend a tear in his cloak and had stabbed the needle through the wrong side of the fabric.
+
+"Give me that," she said, then corrected herself. "Would you like help?"
+
+He handed it over with a grateful expression.
+
+"They think we did it because the sign's magic," he said.
+
+"Somebody thinks we did it. That isn't the same as everyone."
+
+"The other campers keep asking whether I know how to bind an Oracle."
+
+"Do you?"
+
+"No."
+
+"Then that's a short answer you can give them."
+
+He didn't look convinced. Zoe pulled the stitch back through and showed him where the thread needed to go.
+
+"I know you want to make them stop," she said. "I do too. But if you start proving things you don't know anything about, they'll decide you've been hiding answers instead."
+
+"What if they don't believe me?"
+
+"Then you tell a counselor. You don't have to win the argument by yourself."
+
+Tomas looked toward the ruined Hall. "Did our mother do it?"
+
+Zoe stopped stitching. She had asked a similar question herself, though not aloud. Hecate had the skill to make complicated wards and the secrecy to attract suspicion. Neither made her guilty of a particular act. Zoe didn't know how to explain a divine mother who could help and choose not to without making the boy feel abandoned.
+
+"I haven't seen evidence that she did," she said. "I wouldn't tell you she was innocent just because she's ours. And I won't tell you she caused it because she's the goddess most people think about when they see a difficult spell."
+
+"What did she tell you?"
+
+"To be careful. And to eat garlic, apparently."
+
+Tomas considered that. "Maybe she meant the garlic would protect us."
+
+"Maybe she meant I look tired."
+
+He smiled reluctantly. Zoe finished the seam and returned the cloak. The stitch wasn't beautiful, but it would hold through the next training session.
+
+Together they went to Chiron with the notice. Zoe showed him the drawing and described what the younger campers had said. He was angry about the accusation but careful not to announce who he thought had made it. He took the paper as part of the incident record and promised to remind counselors that questions about the Hall's wards belonged in the supervised inquiry.
+
+"I'd also like the maintenance team to post what it knows," Zoe said. "Not a detailed diagram of an active ward. Just a list of what has been checked and what remains unverified."
+
+"You've been discussing that with Miss Grace."
+
+"Yes. And I think it would reduce the guessing. People keep treating the silence as proof there's a scandal."
+
+Chiron looked at the signed control sheet she'd brought from the forge. "You want the camp to know what you have not yet proved."
+
+"I do. If we make uncertainty sound like a forbidden secret, someone will invent an answer."
+
+He considered it, then wrote a note to the steward authorizing a dated public status board. It would not include restricted records or unsafe technical details, but it would be enough to distinguish a test that had been completed from an allegation that was circulating at dinner.
+
+Zoe carried the authorization to the pavilion herself. Bea helped her draw three columns on the board: *Checked*, *Not yet checked*, and *Access restrictions*. They put the date at the top and made the handwriting large enough for anyone on the steps to read.
+
+Tomas hung the notice beside the route maps. He stood back and examined it.
+
+"Are they going to believe this?"
+
+"Some will. Some won't. We keep it accurate anyway."
+
+He nodded. After a moment he asked whether Zoe was going to leave camp for the winter. She was surprised he'd heard about her cousin's invitation.
+
+"I'm thinking about it," she said.
+
+"You'd come back, though?"
+
+"Of course. I'd tell you when. I wouldn't disappear without saying anything."
+
+Tomas seemed to find that answer more useful than the new status board. Zoe wondered how many assurances adults made without realizing a child had heard them as a promise. She had been doing it herself for years, sometimes because she meant to protect someone from worry and sometimes because she was afraid of being honest about what she wanted.
+
+She stayed until the notice was secure. Then she sent a copy of the status categories to the maintenance team so it would have to answer in the same terms. She had not solved the binding or found the person who had installed the bronze strip. But she had made it harder for a frightened camp to mistake her younger siblings for suspects simply because their mother's domain was magic.
+
+That was worth the walk back to the library in the dark.
+
+---
+
 Lake water slapped the dock posts. Annabeth sat at the end with bare feet skimming the surface and her notebook open on her knees.
 
 "Chiron?" Percy asked.
