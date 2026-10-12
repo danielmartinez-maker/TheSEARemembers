@@ -875,3 +875,65 @@ Annabeth came in with two envelopes from the arts room. They were blank, in case
 "Not yet." Thalia set them in her desk drawer. "We'll see what happens."
 
 Annabeth nodded and went to find her book. Thalia closed the drawer, leaving room for her sister to ask about it again.
+
+---
+
+On Friday morning, Annabeth found Thalia at the mail board before breakfast.
+
+The outgoing notice hadn't changed since the previous afternoon. The Roman request was still listed as pending, and the mortal satchel had departed on schedule. Neither status said anything about what their mother or brother thought of the letters. That was the hardest part for Annabeth. She could measure whether a document had left camp. She couldn't calculate whether the person who received it would be happy.
+
+"How long are you going to stand here?" she asked.
+
+Thalia looked over her shoulder. "Not long. I wanted to see whether the Roman intermediary acknowledged the packet."
+
+"He hasn't."
+
+"I can see that."
+
+Annabeth leaned against the porch rail. Chiron had been clear that the reply could take time and that nobody should use an Iris-message to pressure the Roman camp into sending a faster answer. The boundary was reasonable, even when it was frustrating.
+
+"We could go to breakfast," she suggested.
+
+"In a minute."
+
+Annabeth knew her sister well enough to recognize the tone. Thalia wasn't waiting for a particular piece of information. She was waiting because standing at the board made the uncertainty feel like something she was actively managing.
+
+"Would it help if I checked later?" Annabeth asked.
+
+Thalia considered. "You have architecture lessons."
+
+"After lunch. I can stop by once in the afternoon."
+
+"Then I'll check in the morning."
+
+They agreed on it. It was a small arrangement, not an attempt to divide their worry into equal portions. It meant both of them could leave the board for a few hours without imagining the other had forgotten about Jason.
+
+On the way to the pavilion, they passed the Hermes cabin. A younger camper was sitting on the steps, trying to address a letter to a mortal relative. The child had written the surname correctly but left out the street number.
+
+Annabeth stopped to ask whether she wanted help. The girl held out the envelope.
+
+"I don't know the number. I thought maybe the post office would know."
+
+"It probably won't," Annabeth said. "But we can ask the counselor who registered your address when you arrived. You don't need to guess."
+
+They walked her to the cabin office. The counselor checked the verified contact record, filled in the street number and made a copy of the address for the girl's notebook. The child looked relieved.
+
+"Will it get there now?" she asked.
+
+"It has a better chance," Thalia replied. "That's the part we can help with."
+
+Annabeth heard the words and glanced at her. They had spent an entire afternoon writing letters because both wanted to do something about missing family. Helping another camper solve an ordinary mailing problem didn't make their own uncertainty disappear. It reminded them that a letter was a way of reaching someone, not a guarantee that the person would answer in the way they'd hoped.
+
+At breakfast, Percy asked whether they'd checked the board.
+
+"Once," Annabeth said.
+
+"Just once?"
+
+"Thalia's in charge of mornings. I'm doing afternoons."
+
+Percy looked between them, then wisely decided not to make a joke about their schedule. He passed the bread instead.
+
+Thalia took a piece and ate it. She was still thinking about Jason. She was also hungry, had a sparring session at ten, and had promised Bea she'd help review the next day's route. Nothing about writing to her family absolved her of those ordinary plans. She was glad the letter had been sent. She was going to have to learn to keep living while she waited.
+
+
