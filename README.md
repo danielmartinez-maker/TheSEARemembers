@@ -10,3 +10,7 @@
 - [Manifest and integrity checks](manifest.json)
 
 Edit chapters independently using pull requests or direct commits. This is an unofficial, noncommercial fan work set in Rick Riordan's Percy Jackson universe.
+
+## Canon and editing
+
+- [FIC_CONTEXT.md](FIC_CONTEXT.md): governing story bible, author decisions, continuity requirements, and chapter handoff template.
