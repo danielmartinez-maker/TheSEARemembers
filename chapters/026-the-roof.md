@@ -1,6 +1,5 @@
 ## Chapter 26: The Roof
 
-### Annabeth — After Lights-Out
 
 Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk.
 
@@ -94,7 +93,6 @@ Tonight, with Percy's shoulder warm under her cheek and his cold fingers finally
 
 ---
 
-### Percy — The Roof, Talking Low
 
 Percy had been on roofs before. In his remembered childhood there was Sally's apartment building in Manhattan, where she hung laundry and grew basil in tin cans and told him stories about his dad while the traffic roared below. There was Yancy Academy's gym, once, on a dare, for about forty seconds before a teacher caught him. Recently there was the reef-dome of the palace, which wasn't a roof exactly but felt like one — coral arching overhead while light filtered down blue and green.
 
@@ -194,7 +192,6 @@ Then a voice from below said, very clearly: "If you two lovebirds throw a blanke
 
 ---
 
-### Thalia — Ground Level, Armed with Cocoa
 
 Thalia Grace had known Annabeth was sneaking out approximately ninety seconds after Annabeth started sneaking out.
 
@@ -322,7 +319,6 @@ Percy considered this. "I like that theory. The gods are too proud to arrange a 
 
 ---
 
-### Annabeth — Midnight, Three Blankets
 
 Annabeth had always thought of understanding as a blueprint thing — lines meeting at right angles, load-bearing walls, everything labeled.
 
@@ -356,7 +352,7 @@ Percy went pink with pleasure and tried to hide it by drinking cocoa. Annabeth r
 
 "The thing is," Annabeth said, wiping her eyes, "I feel disloyal. When I'm happy that Zeus is my dad here — sometimes loud and proud and embarrassing — I feel like I'm betraying her. Athena. Like I'm saying she wasn't enough. But she *was*. She was everything. She taught me to think. To build. To see the world as something I could fix." She looked up at the sky. "And then I feel disloyal the other way. When I miss her, when I draw owls in the margins and reach for books on weaving, I feel like I'm telling Dad he's just a replacement. But he's not. He's my dad. Both of them are — were — real."
 
-Thalia was quiet for a moment. Then she said, "You know what I think? I think hearts are bigger than cabins. You don't have to pick one parent and delete the other. You're Annabeth. You're smart because Athena taught you to be, and you're brave because Zeus dares you to be, and you're *you* because you remember Sally giving Percy extra pancakes, and you help him make them here so he can share them with you."
+Thalia was quiet for a moment. Then she said, "You know what I think? I think hearts are bigger than cabins. You don't have to pick one parent and delete the other. You're Annabeth. You're smart because Athena taught you to be, and you've learned to be brave even when Zeus makes it harder, and you're *you* because you remember Sally giving Percy extra pancakes, and you help him make them here so he can share them with you."
 
 Percy blinked. "Wait, how did I get in this philosophy?"
 
@@ -410,7 +406,6 @@ None of them said their wishes aloud. Some things you keep under the tile with t
 
 ---
 
-### Percy — Almost Morning, The Way Down
 
 They stayed until the sky paled in the east, until the stars thinned and the sea turned from silver to grey-blue and the first birds started in the woods.
 
@@ -457,8 +452,3 @@ Above him the sky was forgetting the stars, washing them out one by one. Below h
 Percy walked home under the wide brightening sky, his feet cold, his chest warm, carrying two cities and two homes and one roof inside him, and for once the doubling didn't ache.
 
 It just felt like having more sky to hold.
-
-*End of Chapter 26.*
-
----
-
