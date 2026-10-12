@@ -150,6 +150,99 @@ Percy looked at his sisters. His throat felt dry.
 
 "I think so," he said. "And if I'm right, we're about to have a really bad winter."
 
+
+---
+
+Percy caught Chiron before the centaur could leave the pavilion.
+
+He had to move quickly. The breakfast crowd was already splitting into little groups, each group talking faster than the last, and two Hermes kids had set off toward the cabins as though somebody had announced a race. Percy saw Grover trying to get their attention and failing.
+
+"Chiron?" he called.
+
+Annabeth was right behind him, with Thalia on her other side. None of the three had agreed to come together. Percy suspected they had all simply arrived at the same thought.
+
+Chiron paused by the pavilion steps. He looked at the three of them, then over their heads at the campers streaming out into the snow.
+
+"If you're asking whether I can tell you the missing object's name, the answer is no."
+
+"We haven't asked that yet," Annabeth said.
+
+"You were about to."
+
+"I was going to ask how you plan to stop the entire camp from accusing whoever they don't like."
+
+Chiron looked at her for a moment. Thalia turned toward Annabeth with visible surprise, then gave a small, approving nod.
+
+"That is a fair question," he said. "For now, nobody is to be accused publicly. The council has given us no evidence of wrongdoing by any camper. I will make that clear at evening announcements."
+
+"By evening," Thalia said, "the Stolls will have named three thieves and a getaway chariot."
+
+"Then I will make it clear before afternoon activities as well."
+
+Percy watched Chiron's hands. One held the edge of his blanket and the other rested on the wheel of his chair. He wasn't fidgeting, exactly, but the fabric had gathered so tightly in his fingers that the knuckles stood out.
+
+"Do you believe somebody here stole something?" Percy asked.
+
+"I have not said that."
+
+"That's not an answer."
+
+"No, Percy," Chiron said, more sharply than Percy expected. He glanced toward the cabins and lowered his voice. "I do not have enough information to form an honest answer. If I begin guessing, I become another source of rumors. The difference is that campers tend to believe my guesses."
+
+Percy wanted to argue. He knew the old shape of this story well enough to be frightened by what might follow, but the people and relationships around him were different now. If he told Chiron that Zeus's bolt was missing because he remembered a quest from another life, he would have to explain why this memory should be trusted in a world already proving it could change.
+
+Annabeth stepped closer. "Can we say that? The part about evidence?"
+
+"You may say you spoke to me, and that I have seen no evidence naming anyone at camp."
+
+"Not that no evidence exists," Annabeth said.
+
+"Correct. Those are two different claims."
+
+Thalia folded her arms. "And what are we supposed to do when someone says being a child of Poseidon is evidence?"
+
+Chiron's eyes moved to Percy. For a second he looked terribly old.
+
+"Bring me the words, the time and the person who said them. I will handle what can be handled through camp discipline."
+
+"That's an administrative answer," Thalia said.
+
+"It is the answer I can act on."
+
+Percy knew Thalia wanted more. He could feel it in the way the cold air around her seemed to tighten. If Zeus had brought this trouble to her sister's home, she would prefer to be able to find him, stand in front of him and demand that he stop. But Chiron couldn't arrange a conversation with Zeus the way he arranged sword practice.
+
+"What happens to the people who get blamed while you write down names?" Percy asked.
+
+Chiron was quiet for a moment.
+
+"I hope their friends stand beside them," he said. "And I hope their friends know the difference between defending someone and starting another fight."
+
+A snowflake landed on Thalia's hair and vanished. She looked away.
+
+Percy thought about Clarisse, who would take the second option before breakfast if somebody gave her half an excuse.
+
+"Okay," he said. "No fights."
+
+Thalia snorted.
+
+"I said no fights," Percy repeated, looking at her. "I didn't say I wasn't angry."
+
+"Good distinction," Annabeth said.
+
+Chiron reached the bottom step. "You three have training in half an hour. Attend it. Routine is not a cure for uncertainty, but abandoning every ordinary obligation will not improve matters."
+
+He rolled toward the Big House. Percy stayed on the steps, watching campers cross the field in the snow. Annabeth was already writing on the back of her breakfast schedule.
+
+"What are you doing?" he asked.
+
+"Dates. Things people say. If Chiron wants facts, I'd rather have them before somebody decides a rumor counts as one."
+
+Thalia read over her shoulder. "You realize that makes you the most dangerous person in camp with a pencil."
+
+"Only to people who don't check their sources."
+
+Percy wished the remark could have made him laugh. It almost did.
+
 ---
 
 By lunch, the rumors had grown teeth.
