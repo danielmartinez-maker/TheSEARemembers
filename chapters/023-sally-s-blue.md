@@ -400,10 +400,8 @@ Below them, Clarisse's voice rose: "SILENA, IF YOU PUT A BOW ON MY COOKIE I WILL
 
 Percy laughed, blue tongue and all. Annabeth laughed too, leaning her head briefly against his shoulder — quick, fierce, gone before anyone could tease.
 
-The sea remembered. The sky forgot. But kitchens — kitchens held on.
+Percy saved one blue cookie in a paper bag, though he didn't know who it was for. Sally would have told him to eat it while it was still warm.
 
-Percy held up his last cookie to the sunset. Still blue.
+"Mom," he whispered, holding the last crumb on his thumb. "We did it."
 
-"Mom," he whispered, "we did it."
-
-He could picture her in that Manhattan kitchen as clearly as ever: blue walls, chipped blue mug, Sally Jackson humming off-key and adding an extra capful of vanilla to a quiet batch. She wasn't there in this life. But the taste lingered, and the friends laughing below him had learned her recipe, and he could carry that home into the next warm afternoon.
+Below, Clarisse was trying to convince Grover that the slightly burned batch should count as a separate flavor. Silena was writing down the measurements so they could try again. Percy folded the bag carefully and went downstairs before someone ate the cookie he'd saved.
