@@ -534,6 +534,86 @@ Both things were true. He was learning to hold them at the same time.
 
 ---
 
+Silena found the pillowcase flag on Cabin Three's spare table, beneath a pile of training schedules and three cups that Percy had promised to wash. Someone had written *FRIDAY* across the top in pencil. Below it, the fabric was blank.
+
+Clarisse came in carrying her newly repaired shield and dropped it beside the table.
+
+"What's that?"
+
+"Percy's latest attempt to involve everybody in capture the flag," Silena said. "Ella found a pillowcase. He thinks if we write enough names on it, people will join our team."
+
+"People can join our team without writing on our flag."
+
+"That's what I said. I don't think he heard the difference."
+
+Clarisse inspected the fabric. "It needs a real design, at least. A white pillowcase is an invitation for the other team to say we surrendered before the game started."
+
+Silena took out a packet of waterproof ink she'd meant to use for a separate project. She'd been saving it to paint a small travel journal for her winter visit to a friend. Now the camp seemed to need something every time she opened the drawer.
+
+"I could paint it," she said, and disliked how quickly she'd offered.
+
+Clarisse looked at her. "You wanted to use that ink for your book."
+
+"I can buy more eventually."
+
+"That's not what I asked."
+
+Silena put down the packet. There was a time when Clarisse would have accepted the offer as a matter of course, taken the best supplies and returned them when they'd been damaged. She had been learning, slowly, to notice when Silena said yes before deciding whether she wanted to.
+
+"You're right," Silena said. "I don't want to spend the ink. I can sketch a design, and Percy can find another way to mark it."
+
+"Good."
+
+They spread the fabric across the table and began discussing the shape. Clarisse wanted a trident large enough to recognize from the far bank. Silena wanted a design that represented the other campers Percy had been inviting, so it wouldn't look like everyone had simply been absorbed into Cabin Three. Neither liked the other's first suggestion.
+
+A trident with a small circle of symbols would be too complicated to see at a distance. A plain blue wave would be impossible to distinguish from every other Poseidon banner. The idea that finally pleased both was to put the trident in the center and leave the surrounding edge blank until the team decided what it wanted to add.
+
+"That gives them something to choose," Silena said.
+
+"It also means we don't have to explain a dozen pictures nobody can see."
+
+"Very much in the spirit of artistic collaboration."
+
+"I have strong feelings about practical art."
+
+Percy arrived while they were measuring the border. He looked at the fabric, then at Silena's untouched ink.
+
+"Didn't you say you were going to paint the journal?"
+
+"I am. We're only making a pattern for the flag. The team can choose the rest."
+
+He hesitated. "I thought you liked designing things for camp."
+
+"I do. I also like making things for myself."
+
+"Fair."
+
+He took the cheap blue fabric paint Clarisse had retrieved from the craft cupboard and tested it on a scrap. The first mark ran badly because he'd used too much water. Silena showed him how to blot the brush and use the stencil she'd cut from stiff paper. He followed the directions rather than treating the mistake as something he had to fix by magic.
+
+When the trident was dry, it looked a little crooked. Clarisse declared that the crookedness made it harder for the other teams to recognize their strategy, which Silena suspected was an attempt to spare Percy's pride.
+
+They hung the fabric near the window to finish drying. The cabin now smelled faintly of paint rather than salt and damp armor, and the table was covered with scraps they'd have to clear before dinner.
+
+Silena returned her good ink to the drawer. She was proud of the design, but she was more pleased that she hadn't given up the materials she'd wanted for her own work. She took out the unfinished journal and laid it beside the window, where the light was best.
+
+"What are you writing?" Percy asked.
+
+"Notes about my winter visit. I still want to go."
+
+"I didn't know you were planning one."
+
+"I've been telling you for two weeks."
+
+He looked embarrassed. "I might have been distracted."
+
+"You might."
+
+She told him the friend's name, the route she hoped to take and the permission she still needed from Chiron. Percy listened this time. Clarisse interrupted to ask whether the trip would involve a dangerous amount of shopping, and Silena threatened to leave her behind at the first store. The exchange dissolved into a familiar argument about who packed too much on a journey.
+
+When Percy left for the lake again, Silena had the flag drying, the journal open and a practical list of what she needed to arrange before winter. There would still be work tomorrow. For the first time that week, not all of it belonged to the Hall.
+
+---
+
 The camp laundry room was a stone hut behind the cabins that smelled like steam and lavender and always, faintly, like singed centaur hair from the Incident of Last August that nobody talked about.
 
 Annabeth liked it there because nobody else did. The machines were ancient — half Hephaestus-modified washers that rattled, half big stone basins for hand-washing armor padding — and the folding tables were always warm from the dryers. It was quiet. It was orderly. Socks went with socks.
