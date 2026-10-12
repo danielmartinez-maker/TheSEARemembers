@@ -6,7 +6,7 @@ Not the surface truth — the warrior's mask she wore for the world, all sharp e
 
 The patrol trail smelled of pine pitch and crushed thyme. Below them Camp murmured — distant bronze on bronze from the arena, a conch call from the beach, smoke from the forges threading sideways in the breeze. Percy had walked this route a dozen times, but that afternoon the light lingered longer on the ridgeline, gilding the strawberry fields, and Clarisse's knife made a steady shhk-shhk against the grain.
 
-Underneath the armor, Clarisse was terrified.
+Underneath the armor, Clarisse had reasons to be afraid.
 
 Not of monsters. Not of dying. Of being forgotten.
 
@@ -56,9 +56,9 @@ Clarisse studied him — that frank, searching stare she used when deciding whet
 
 "Yeah."
 
-"And she doesn't remember. Doesn't know you. Doesn't—"
+"And she seems different lately. Quieter. You notice it too, right? Because I don't know what to do with it."
 
-"She'll get there. Or she won't. I'm staying regardless."
+"I know. She and I have been talking. But I'm not going to put words in her mouth."
 
 Another stretched silence. Then: "That's stupid."
 
@@ -102,7 +102,7 @@ By next morning, something in Clarisse had eased.
 
 Nothing overt — at breakfast she still ate alone, still drilled harder than anyone on the field, still snapped at anyone who crowded her. Yet beneath the steel ran a new current. Her shoulders rode lower. The corners of her eyes had softened.
 
-The same Clarisse. No longer hauling everything solo.
+The same Clarisse. Perhaps slightly more willing to let him stand beside her.
 
 Percy caught it because he looked for it. In his original life he had witnessed enough fractured people mending to recognize the early signs.
 
@@ -110,79 +110,83 @@ Neither mentioned the patrol. No need. A shift had occurred, acknowledged on bot
 
 ---
 
-That afternoon Percy tracked Silena to the library, following the faint tang of lemon oil and old vellum down the narrow stair. Afternoon light fell in dusty bars between the stacks, and somewhere a page turned with a soft whisk.
+That afternoon, Percy found Silena in the library repairing the binding of an atlas.
 
-Petite where her sister stood solid — softer across the board, in voice and posture and the careful way she cradled books. She puzzled through a Latin passage, lips shaping the syllables, oblivious until he spoke.
+He had been looking for Clarisse. Silena had noticed him pass the same shelf twice and finally waved him over.
 
-"Hi."
+"Either sit down or stop pretending you're interested in agricultural tariffs," she said.
 
-She jumped. Almost fumbled the volume. The recovery came quick, though not quick enough to mask the flare of alarm.
+"I was reading the spine."
 
-"Sorry," Percy said, hanging back. "Didn't intend to creep up."
+"It's upside down."
 
-"No, it's — I'm unused to quiet approaches. Silena and I bunk together, only she's all motion and clatter. Alone, I forget anyone else exists."
+Percy sat. Silena threaded a needle through the torn cover and pulled it taut. Her hands were deft, and she kept working while she talked.
 
-He slid into the opposite chair. Oak and old paper wrapped around them. "Got a minute?"
+"Clarisse has been in a better mood," Percy said.
 
-"Regarding?"
+"She's been arguing with everybody. So, yes."
 
-"Your sister."
+"What does she do when she's upset?"
 
-Her shoulders squared — guarded, defensive. "Is this a thing? Did you two quarrel? Because I refuse to referee—"
+"Why are you asking me instead of her?"
 
-"No quarrel. We're... aligned, actually. Only I'm concerned about her. And nobody reads her better than you."
+"Because she'll pretend she isn't upset and challenge me to a fight."
 
-A long appraisal. Then she shut the book. "Everybody worries over her. She's formidable enough that people forget she's permitted fear."
+"Then you'll have your answer."
 
-"What frightens her?"
+Percy watched her tuck the thread through the binding. "I'm trying to understand why she never talks about our father."
 
-"You can't guess?"
+Silena stopped pulling. A small piece of the cover cracked beneath her thumb.
 
-Percy shook his head.
+"What about him?" she asked.
 
-A pause stretched, dust motes drifting through a shaft of window light. "Erasure. Not by us — by him. By Poseidon." She spun a tarnished silver ring around her finger. "Clarisse and I landed at camp at five. Seven years now. Across all that, Poseidon has stopped by precisely three times. Once when Clarisse turned seven, once when I was six, and once last year for maybe ten minutes."
+"He raised me. He doesn't seem to have been around for either of you. I didn't know that when I got here."
 
-The laugh she produced held zero warmth.
+"How could you?" She turned the atlas over and examined the damaged corner. "He visits sometimes. Not often. He asks about our training, whether we're behaving, whether Chiron is keeping us safe. He has a talent for asking questions that sound like an inspection."
 
-"Skipped dinner. Asked nothing about training. Nothing about how we fared. He surveyed us like — I don't know — a project under review. Then departed."
+"Does Clarisse talk to him?"
 
-"That's awful."
+"Yes. That's the worst part. She prepares things to show him for weeks. Half the time he arrives in the middle of a crisis and doesn't have a minute to look."
 
-"It's customary. Always the expectation." Her tone stayed level, though maintaining it visibly taxed her. "Our mother — mortal, absent but living, working herself ragged in New York. She lacks goddess leverage. She cannot compel Poseidon's attention. And Poseidon withholds it."
+Percy felt a flash of anger he didn't have an obvious place to put.
 
-Percy pictured the Poseidon of his timeline — the palace raised from the seafloor, the swimming lessons, the embrace at the dock. A father anchored and warm.
+"You could've told me."
 
-This Poseidon sounded like a different creature entirely.
+"We didn't know you before last month." Silena looked directly at him. "And we weren't planning to greet our little brother by giving him a list of grievances about our father."
 
-"How does Clarisse endure it?" he asked.
+"Fair."
 
-"She doesn't endure. She survives. Distinct operations." Silena met his gaze directly. "She drills until her legs buckle. Then she lies awake calculating whether anyone would mark her absence. Then dawn comes and she repeats the cycle. Daily. For years."
+"Also, don't make this into something you can fix with a speech. Clarisse is still angry even when she laughs with you. So am I."
 
-"That would hollow anyone."
+He had been halfway toward offering precisely the wrong promise.
 
-"That *is* Clarisse."
+"What should I do, then?"
 
-The image lodged under Percy's ribs — a thirteen-year-old drilling to collapse, staring at cabin rafters and tallying who might notice her gone, rising to repeat it all.
+"Turn up. When you say you'll train with her, do it. Don't make her work to prove she's worth your time."
 
-"I never grasped—"
+"I can do that."
 
-"Few would. She advertises nothing. Exhibits nothing. Merely... shoulders it." Silena's features gentled. "Until perhaps you. Whatever transpired on that patrol, she returned altered. Buoyant, almost. Still formidable, but less as though a sideways glance might shatter her."
+"You can try. We're all good at making promises when there's no cost yet."
 
-"She started admitting me. That covers it."
+Silena returned to the atlas. Percy noticed she had a repair kit full of scraps and mismatched thread, none of it fancy. She worked with what she could get.
 
-"That covers everything." Rising, she stacked her books. Late sun gilded the table edge. "Don't wound her, Percy. She carries sufficient wounds. And appealing for help isn't a skill she owns. But if somebody simply... appeared. Remained. Kept appearing."
+"Why are you fixing that yourself?" he asked.
 
-"I'll keep appearing."
+"Because the library won't buy another. And because I like fixing books."
 
-One crisp nod, and she departed.
+"I thought you liked designing things."
 
-Alone among the stacks, Percy dwelled on the girl who drilled past collapse, the girl who whittled panthers in hiding, the family fractured in places no poultice could reach. Dust floated in the window light where Silena had sat, and her abandoned chair still held a faint warmth. He ran a thumb along the table's scarred edge and listened to the library settle — timber creaking, a shutter tapping — while the image refused to loosen.
+"I do. I also like having a page stay attached when I turn it." She looked at him over the atlas. "You can help. Hold this flat."
 
-And he considered his own father — the one in this timeline who had raised a palace and taught him the currents and kissed his forehead dockside. The unfairness of it sat bitter on his tongue, metallic as blood.
+He did. For the next ten minutes they worked together. Once he pulled the thread too tightly and tore the paper, and Silena took the needle out of his hand until he'd stopped apologizing.
 
-What had Poseidon ever built for Clarisse?
+"You are spectacularly bad at this," she said.
 
-For anyone, really?
+"So I've been told."
+
+"Good. Then you won't be offended when I ask Clarisse to teach you something you're better at."
+
+They finished the binding and set the atlas beneath two heavy dictionaries to dry. Percy walked out of the library with a job to do the next morning and no illusion that he'd solved anything.
 
 ---
 
@@ -286,71 +290,53 @@ They remained in the dark, two children mourning parents mislaid across timeline
 
 ---
 
-Clarisse intercepted Percy pre-breakfast the next morning, cheeks flushed from running, a half-laced greave flapping.
+Clarisse intercepted Percy before breakfast the next morning, one greave unfastened and her sword hanging loose at her side.
 
-"Come," she said. "Now. Urgent."
+"Come on," she said.
 
-"Report?"
+"Where?"
 
-"Nico. Hades' son. He signaled overnight. Trouble." Already striding, forcing Percy to hustle alongside. "The borders. An incursion overnight. A creature. Something barred by the threshold that crossed anyway."
+"Hall. Nico found something. Chiron's there."
 
-"Classification?"
+They ran uphill. A few campers were already gathered outside the Hall of the Gods. A post had been knocked out of the border fence, and a streak of dark residue ran from the broken earth to the Hall's eastern entrance. Two columns were scored along their lower edges. The roof stood. Through the doors Percy could see workers setting canvas over a damaged section of mosaic.
 
-"Undetermined. Nico's digging — suspects linkage. Something tied to whoever rewrote the timeline. Something admitted deliberately."
+Chiron was questioning a pair of guards.
 
-They sprinted. Past cabins with shutters banging, past the forge coughing awake, up the hill where dew silvered the grass and sucked at their soles. Older campers clustered there, counselors, Chiron himself in full centaur form, breath fogging. The morning hung gray and chilled, the air reeking of rain and something else. Something spoiled — coppery, scorched, wrong in the back of the throat.
+"A drakon crossed the boundary," he said when he saw them. "Not the one we fought last week. Smaller, but fast. We drove it away. It reached the colonnade before it vanished into the trees."
 
-Nico lingered at the treeline, complexion bloodless, jaw set. Flanking him stood Thalia, spear grounded, features severe. And Annabeth, evidently roused mid-sleep, hair still mussed.
+"What was it after?" Annabeth asked.
 
-"Status?" Percy asked, breath pluming.
+"We don't know," Chiron said. "The west store room was forced open, and some building records were scattered. Until we've counted them, I won't say anything is missing."
 
-"A drakon breached three hours past," Chiron said. "Sizable. Beyond any catalogued. It made directly for the Hall of the Gods."
+Nico knelt beside a bronze fixture wrenched from the wall. He had been comparing the screws with a drawing in his ledger.
 
-"Intercepted?"
+"This was loosened before the creature hit it," he said. "Look at the threading."
 
-"Negative. It penetrated the Hall, and upon our entry..." Chiron hesitated, ancient eyes troubled. "Vanished. As though never manifest. Yet the Hall lies demolished. Ruined. As though some interior event defies accounting."
+Clarisse crouched. "Maybe the workers were repairing it."
 
-Percy surveyed the remnants — columns snapped, roof caved, mosaic flooring fractured and strewn, Olympian images shattered into tesserae.
+"Maybe," Nico agreed. "But it was supposed to hold a ward. If it was already loose, the drakon didn't have to break much to get inside."
 
-"The prophecy," Annabeth said, voice thin. "Stored there. The records. All our findings."
+Percy thought of the old prophecy pages and the signed note. He wanted the scattered papers to amount to a single answer. Nico was being more careful than that.
 
-"Yeah." Percy's gut twisted. "All of it — gone."
+"Whoever altered the Hall's rules had authority to do it," Nico said. "I've got a name on a purchase order."
 
-Nico advanced. "Worse news exists."
+"Whose?" Silena asked.
 
-"What outranks—"
+"Zeus's. Or rather, his steward's. He authorized the new fixtures. I can't tell whether the repair happened afterward with his knowledge."
 
-"The beast wasn't stray. It was dispatched. By someone targeting those records expressly. Someone aware of our inquiry. Someone applying brakes."
+Thalia stood a few steps away, spear in hand. "Say what you mean."
 
-The clearing hushed. Ruin ringed them, campers gathered, crows muttering in the pines, and the collective sense of escalation beyond steering settled cold across Percy's shoulders like a wet cloak.
+Nico looked up. "I mean we shouldn't pretend a signature on an order proves someone sent a monster. It tells us who paid for the work. That's all."
 
-"Who?" Clarisse demanded, voice cracking on the single syllable. "Who dispatched it? Who rewrote the timeline?"
+"Good," Thalia said. "Then we won't be inventing accusations before breakfast."
 
-Nico surveyed her. Then the assembly. Then the wreckage.
+She was angry anyway. Percy could see it in the way she held her spear, but he couldn't tell whether the anger was at the implications or at being forced to hear them in front of an audience.
 
-"I know," he said quietly, dead leaves crunching under his boots as he shifted. "Have known a while. Lacked confirmation. After this — I believe I hold it."
+Chiron ordered the Hall closed until the wards could be checked. The younger campers were sent back to the pavilion. Clarisse volunteered to help remove broken stones; Silena offered to catalogue damaged records. Percy and Annabeth stayed long enough to copy the serial number from the fixture and the name on the repair sheet.
 
-"Name them, Nico." Annabeth stepped forward, pebbles grinding. "Tell us."
+By the time they were allowed to leave, the Hall still stood, and they had a handful of questions, no proof of who had altered their history, and work assignments before lunch.
 
-He inhaled. Regarded Annabeth with those ancient, over-aged eyes.
-
-"Your father," Nico said. "Zeus revised the prophecy. Zeus erected the Hall of the Gods. Zeus rewrote the strictures on Big Three offspring. And he continues. Right now."
-
-Utter silence answered.
-
-Then Thalia moved.
-
-Wordless. Unhesitating. She brushed past the assembly, past Chiron, past everyone, striding toward the Athena cabin.
-
-"Thalia—" Annabeth began.
-
-But Thalia had already dissolved among the trunks, gait rigid with someone whose foundational belief had just cracked.
-
-And Percy stood amid divine rubble, tracking her retreat, thinking: this is the fracture when trust breaks. This is the landscape when the guardian turns out to be the manipulator, when every map drawn from childhood proves counterfeit.
-
-He thought: this is how a war kindles — not with declarations but with a sister walking alone into trees.
-
-And the storm had at last arrived.
+Thalia passed them without speaking. Annabeth watched her go, then followed her toward Cabin One. Percy let her. Some conversations weren't improved by having him there.
 
 ---
 
