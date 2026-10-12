@@ -342,7 +342,7 @@ Zoe told them of Hecate at the search for Persephone, the only god who heard the
 
 Outside, the rain eased for a moment, then redoubled, drumming hard. Inside, warm and torch-lit by the cabin's braziers, the girls curled closer, ambrosia forgotten. Bianca rested her head on Zoe's shoulder without asking, and Zoe — who did not allow such familiarity, usually — let her stay, resting her cheek briefly against dark hair.
 
-Two thousand years, and still the best magic was a dry room and a story while the sky fell.
+After a long day of miserable weather, Zoe wanted something ordinary: a dry room, people willing to listen, and a story that didn't have to explain the world.
 
 ---
 
