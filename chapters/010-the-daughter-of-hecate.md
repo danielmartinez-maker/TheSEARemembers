@@ -625,6 +625,112 @@ He laughed despite himself. She bumped his shoulder on the walk back, then took 
 
 ---
 
+Back in Cabin Three, Percy found Silena sitting cross-legged on the floor beside a box of supplies she hadn't had time to sort. Several small bundles of cord lay next to her, each marked with the location where it was supposed to be used during the eclipse.
+
+"I thought you were going to sleep," she said when he came in.
+
+"I was. I ran into Clarisse."
+
+"I know. She came for her boot."
+
+Clarisse was already at her bunk, cleaning grit from the edge of her greave. She didn't look up when Percy crossed the room.
+
+"Did you tell him to stop treating everyone as a suspect?" Silena asked her.
+
+"I made the point."
+
+"Did he listen?"
+
+"He says he did."
+
+Percy stopped by his bed. "Am I allowed to hear the evaluation?"
+
+"Not yet," Clarisse said. "We're collecting observations."
+
+He sat on the floor beside Silena. The supply box held colored scraps of cloth, small bells, and a stack of waterproof labels. He picked up a red strip and examined the mark stitched into one corner.
+
+"What's all this?"
+
+"Patrol identifiers. The counselors asked for a way to tell who belongs on which route if people have to move in low light. The old strips all look the same once they're muddy."
+
+"Can't they just use the cabin colors?"
+
+"Some of those are too similar at a distance. And a few of the youngest campers can't remember which group they're supposed to follow when they're frightened."
+
+Percy sorted the strips by shape rather than color. Silena watched him turn a square over in his hands.
+
+"That's what I was thinking," she said. "One knot for the upper bank, two for the pavilion path. The teams can check by touch if the lanterns go out."
+
+"Would the knot catch on a fence?"
+
+"Only if we leave the loose end too long. Can you trim those?"
+
+He fetched the little shears. Clarisse moved her gear aside to make room for the three of them. They sat in a loose triangle on the floor, working through the pile while the sound of the cabin's water channels ran under the tiles.
+
+Percy had spent so much of the day thinking about the eclipse that he'd forgotten the ordinary pleasure of having a job someone else had already broken into manageable pieces. Silena assigned him to cut the cords to length. Clarisse tied the knots hard enough to survive a panicked grip. Silena checked the labels and wrote a number on each bundle so the counselors wouldn't have to guess which package belonged where.
+
+"Do you miss Atlantis?" Clarisse asked after a while.
+
+Percy looked up. "Sometimes."
+
+"I was asking about the parts you can actually tell us about, not whatever secret royal things you keep looking guilty about."
+
+He considered the kitchen Amphitrite had shown him after his arrival. He couldn't remember living there as a small child, but he remembered her at the table, impatiently explaining which foods were his favorites as if a few missed details were ordinary pre-camp nerves. He remembered how his stomach tightened whenever she mentioned Sally and then softened when she put an extra piece of bread on his plate.
+
+"I miss the way Amphitrite plans meals," he said. "She puts everybody's work schedule on a board near the pantry. The kitchen knows when Triton will be home late and when the council's going to run long. It sounds boring until you realize nobody has to wonder whether they'll be forgotten at dinner."
+
+Silena paused over a label. "She does that?"
+
+"Yes. She keeps a separate column for unexpected guests. Apparently my father is terrible at remembering to warn anyone when he invites somebody."
+
+Clarisse snorted. "I believe that part."
+
+"She says the point isn't having a perfect plan. It's making sure somebody notices when the plan changes." Percy pulled a strip through the shears. "I thought it was fussing until I got here and saw how people manage to lose track of a single box of bandages."
+
+Silena considered this for a moment.
+
+"That sounds like something we could borrow," she said. "Not the royal kitchen. The board."
+
+"We have a chore chart," Clarisse pointed out.
+
+"A chore chart tells people who's doing things. I want a place to show what everyone's expecting and when it'll change. If somebody borrows all the emergency lanterns for training, the patrol team should know before the next storm."
+
+Percy shifted closer to help arrange the tags. "We could test it with the eclipse routes. Put the counselor names and locations where the whole cabin can see them."
+
+"That would work."
+
+Clarisse looked over the pile. "As long as someone updates it. Half the boards in camp are covered with notices nobody takes down."
+
+"Then updating is part of the job," Silena said. "Not something we hope somebody else remembers."
+
+By the time they finished, the box contained enough marked strips for every counselor on the first shift. Percy had to redo several knots after Clarisse pulled them apart with a single tug, but the second batch held. Silena wrote a delivery schedule on the back of a rejected inventory form and assigned the three of them different stops.
+
+Percy looked at the rows of names. He still had to speak with Thalia the following afternoon, and the thought made him uneasy. Talking about Zeus was hard enough when Annabeth wasn't involved. He would rather stay in the cabin making straps all night.
+
+Silena noticed the delay as he folded the last bundle.
+
+"You're not being asked to solve the entire prophecy before breakfast," she said.
+
+"No one would be foolish enough to ask that."
+
+"You keep acting as though they have."
+
+Clarisse set down her greave. "Come sleep. Tomorrow you're going to need enough sense left to listen when someone tells you you're wrong."
+
+Percy put the tags in the box. He didn't tell them everything. He couldn't. But for once the silence between them wasn't filled by questions he was avoiding. It was filled by the fact that he knew exactly which bundles would be carried out in the morning and who would be there beside him to check them.
+
+The next day began with the ordinary inconvenience of making the new system work. A counselor arrived early and requested a different route because two campers in her group had trouble with steep paths. Silena didn't argue. She checked the map, called Bea to confirm the alternate crossing and changed the labels before the marked strips went out.
+
+Clarisse delivered the bundles herself so nobody could claim they hadn't received them. Percy followed with the reserve set and watched the counselors test the knots without looking. One of the younger girls identified the upper-bank route correctly, then asked why her own strip had a different texture.
+
+"That's a good question," Silena said. "We used a softer cord for the youngest campers. It won't scratch their wrists if they grab it too tightly."
+
+The girl examined it, satisfied. Percy remembered the earlier rumors about Annabeth and wondered whether there was something reassuring in being able to touch a plan before you were asked to trust it.
+
+When their deliveries were done, he carried the empty box back to Cabin Three and went looking for Thalia.
+
+---
+
 Talking with Thalia took until the following afternoon.
 
 She came from patrol with mud up one boot and a loose thread hanging from her jacket cuff. Percy found her by the spear racks and asked for five minutes.
