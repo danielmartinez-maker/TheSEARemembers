@@ -429,6 +429,3 @@ On the Zeus porch after lights-out, Thalia sat knees up watching clouds gather o
 Sharing the carrying was not so bad, she decided. Just a little. For potato owls and temple doodles and good luck todays.
 
 Thunder rumbled distant. Thalia counted silently as Annabeth taught them both — *1-2-3-4-5* — and smiled into dark when she lost count past twenty, because some things were worth staying awake for.
-
----
-
