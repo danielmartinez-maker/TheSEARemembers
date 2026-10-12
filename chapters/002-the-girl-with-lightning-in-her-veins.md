@@ -2,7 +2,7 @@
 
 Percy woke to the sound of the ocean.
 
-Not the actual ocean — he was in the Poseidon cabin, which was as far from the beach as you could get without leaving camp property entirely. But the cabin itself hummed with a low, rhythmic pulse that might as well have been waves. The walls were carved from pale blue-green stone, cool and slick as wet glass under the palm that breathed, and the floor was smooth, polished shell that was cool under his bare feet, smooth as river glass with gritty salt catching between his toes.
+Not the actual ocean. He was in Cabin Three, well inland, but water ran through channels beneath the floor. He sat up and put a hand to the blue-green wall. Something moved there with a steady rhythm. He hadn't noticed it the night before; he'd been too tired.
 
 In the original timeline, the Poseidon cabin had been empty for years before he arrived. Just him, one bunk, and the faint smell of salt. This version was different. There were four bunks now — two on each side of the narrow room — and the one across from his was already occupied.
 
@@ -12,7 +12,7 @@ Percy had known, intellectually, that Clarisse was a Poseidon kid in this timeli
 
 She was thirteen in this timeline — a year older than him, though she carried herself with the authority of someone much larger. Her hair was pulled back in a severe ponytail, and she was wearing a camp necklace with more beads than Percy had ever seen on someone so young. She was doing one-armed push-ups on the floor, her muscles flexing with an ease that spoke of years of training.
 
-Salt air sharp in her lungs, she noticed him watching and stopped mid-push-up, rising to her feet in a single fluid motion.
+Clarisse caught him watching, completed the push-up, and rose.
 
 "You snore," she said.
 
@@ -64,13 +64,13 @@ He didn't know what to do with that.
 
 "Anyway," Silena said, with the air of someone changing the subject, "have you met Annabeth yet? Thalia's sister?"
 
-"I've," Percy said, and couldn't keep the warmth out of his voice.
+"I have," Percy said, and couldn't keep the warmth out of his voice.
 
 "Good for you. She's nice once you get past the... everything." Silena shrugged. "Thalia's protective. You'll want to stay on her good side."
 
 "I'm not sure I've a good side with her," Percy admitted. "She looked at me like I was a monster she needed to put down."
 
-"That's just Thalia," Clarisse said, shifting his weight against the cold. "She looks at everyone like that. You get used to it."
+"That's just Thalia," Clarisse said, turning toward him. "She looks at everyone like that. You get used to it."
 
 Percy wasn't sure he wanted to get used to it.
 
@@ -84,9 +84,9 @@ After breakfast, Chiron found him. The centaur was in his wheelchair disguise �
 
 "Good. I'd like to speak with you about your schedule. You'll be training with the other campers, of course, but given your... unique upbringing, we'll need to assess your abilities." Chiron paused. "Poseidon mentioned you've had extensive combat training."
 
-"I've," Percy said, which was true in a way Chiron couldn't possibly understand.
+"I have," Percy said, which was true in a way Chiron couldn't possibly understand.
 
-"Excellent. We'll start with basic drills and see where you stand. In the meantime, feel free to explore the camp. And if you've any questions—"
+"Excellent. We'll start with basic drills and see where you stand. In the meantime, feel free to explore the camp. And if you have any questions—"
 
 "Actually," Percy interrupted, "I do have a question. What's that building near the forge?"
 
@@ -96,11 +96,11 @@ Percy felt a flicker of surprise. A training facility for sea demigods — in th
 
 In this timeline, they were common enough to warrant their own building.
 
-"Thanks," Percy said, shifting his weight against the cold. "I'll check it out."
+"Thanks," Percy said, turning toward him. "I'll check it out."
 
 He spent the rest of the morning exploring. He found the lake — the same lake where he'd fought the Minotaur in the original timeline, where he'd trained with Luke, where he'd learned to swim without thinking. It was smaller here, ringed by trees that leaned toward the water like supplicants.
 
-Salt air sharp in his lungs, he found the same training grounds, the same archery range, the same amphitheater. But there were differences everywhere, small and large, and each one reminded him that this wasn't his world. It looked like his world. It smelled like his world. But underneath the familiar surface, something was fundamentally different.
+He found the training grounds, the archery range, and the amphitheater. But there were differences everywhere, small and large, and each one reminded him that this wasn't his world. It looked like his world. It smelled like his world. But underneath the familiar surface, something was fundamentally different.
 
 He found the Athena cabin again, but this time he didn't stop. He walked past it, toward the Zeus cabin, and tried to catch a glimpse of Annabeth through the windows. He didn't see her, but he saw Thalia — sitting on the porch with a book, her dark hair spilling over her shoulders, her expression intense and focused.
 
@@ -132,7 +132,7 @@ The kid stared at him. "How did you—"
 
 "Good job," Matt said, sounding surprised. "Jackson, you've done this before."
 
-"A little," Percy said, shifting his weight against the cold.
+"A little," Percy said, turning toward him.
 
 "A little? That was advanced technique. Where'd you learn that?"
 
@@ -146,7 +146,7 @@ Matt looked like he wanted to ask more questions, but a commotion at the edge of
 
 "Grace!" Matt called out. "You here to spar?"
 
-"Always," Thalia said, shifting his weight against the cold. She tossed the sword from hand to hand, her movements fluid and practiced. "Who's up for a challenge?"
+"Always," Thalia said, turning toward him. She tossed the sword from hand to hand, her movements fluid and practiced. "Who's up for a challenge?"
 
 Several campers volunteered. Thalia dispatched them one after another with terrifying efficiency, her technique a blend of formal training and street-fighting practicality that Percy recognized instinctively. She fought like someone who'd been doing this her whole life — because she had, in this timeline.
 
@@ -162,17 +162,27 @@ It wasn't a request. Percy picked up a practice sword from the rack and faced he
 
 Thalia attacked first — a fast, aggressive combination that would have flattened most twelve-year-olds. Percy blocked, parried, and gave ground, letting her advance while he studied her rhythm.
 
-She was good. Excellent. But she fought with the confidence of someone who'd never faced anything she couldn't handle, and that made her predictable.
+Thalia was good, and her reach was an advantage his remembered technique couldn't cancel. Percy caught one of her swings, but his smaller arm struggled to hold the block. She pressed, and he retreated until a loose stone caught his heel.
 
-He waited until she overextended on a lunge, then sidestepped and tapped her ribs with the flat of his blade.
+He knew how to recover. His body didn't quite do it in time.
 
-The training ground went silent.
+They lunged together. Percy clipped her ribs with the flat of his sword just as her practice blade struck his shoulder.
 
-Thalia stared down at the spot where he'd touched her, then back up at him. Her expression was a mixture of surprise, indignation, and something that might have been respect.
+"Double hit," Matt called.
 
-"Not bad," she said. "For a sea prince."
+A couple of campers laughed. Thalia looked from her ribs to his shoulder.
 
-"Thanks," Percy said, shifting his weight against the cold. "For a Zeus kid, that was good work."
+"That was irritating," she said.
+
+"I noticed."
+
+"Your footwork's better than your balance."
+
+"Your defense had a hole in it."
+
+"And you almost fell down trying to use it."
+
+Percy grinned despite himself. Thalia put her sword away, not quite smiling but no longer looking at him as though she'd come to settle a score.
 
 Thalia studied him for a long moment, then handed her sword to a nearby camper and walked away. The crowd dispersed, murmuring, and Percy exhaled slowly.
 
@@ -272,19 +282,17 @@ He got up and dressed. Clarisse finished her push-ups and looked at him.
 
 "You look like you're going to war," she said.
 
-"Maybe I'm."
+"Maybe," Percy said.
 
-"With who?"
+Clarisse picked up the shirt he'd put on backward and tossed him the spare from his trunk.
 
-"With whoever changed my life."
+"Try winning the war against laundry first. Chiron's expecting us in the practice yard."
 
-Clarisse studied him for a single heartbeat. Then she said, "Be careful, Jackson. Whatever you're involved in — it's bigger than you think. And I don't want to lose my brother after just finding him."
+"You could've started with that."
 
-Percy smiled. "I'll be careful."
+"I could've. You coming?"
 
-But even as he said it, he knew it was a lie. Because careful wasn't going to fix this. Careful wasn't going to save anyone. Careful was only another word for afraid.
-
-And Percy Jackson was done being afraid.
+Percy changed shirts and followed her. She hadn't asked what he meant by war. He hadn't offered anything that might turn into an explanation of the life he remembered.
 
 ---
 
@@ -298,9 +306,9 @@ Someone had fortified this camp. Someone had anticipated threats and prepared fo
 
 Percy walked to the lake and sat on the dock, letting his feet dangle into the water. Even here — even in this version — the lake had a quality that was different from the original. The water was clearer. Cleaner. Like someone had been actively maintaining it, filtering it, keeping it pure.
 
-He trailed his fingers through the surface and felt something. A vibration. A pulse. Like the lake was connected to something larger — something that extended beyond the camp's borders, out into the deeper waters of Long Island Sound.
+He trailed his fingers through the surface and felt a faint vibration. The lake was freshwater, and it shouldn't have reminded him of the ocean. He tested the water again, unsure whether the sensation belonged to an old camp ward, a current, or something he was imagining.
 
-Someone had linked this place to the ocean. To Poseidon's domain.
+He couldn't name a source. That was worth remembering, not announcing.
 
 He withdrew his hand sharply. That was new. In the original timeline, the lake was only a lake — nice for swimming, dangerous for demigods without supervision, but not connected to any divine power source. Here, it was connected. Here, the sea god had touched his domain and claimed a piece of it for his children.
 
@@ -310,7 +318,7 @@ She was his sister. In this timeline, they were both Poseidon's children, both s
 
 Percy wondered if she knew. If she'd noticed that something about the lake felt different, that the water moved in ways that respond to emotion, that the camp had been fundamentally reshaped around the needs of children of the Big Three.
 
-Probably not. She was thirteen. She was probably too busy surviving to notice the architecture of her displacement.
+Probably not. She was thirteen. She might know more about the lake than he did. He'd ask when he could do it without sounding like an investigator.
 
 But Percy noticed. And Percy remembered. And that meant he had to pay attention to things nobody else was paying attention to.
 
@@ -332,7 +340,7 @@ Someone had put enormous care into this place. Someone had wanted Poseidon's chi
 
 He reached out and touched the dummy's face, and the water around his fingers swirled — responding to his presence, responding to his power.
 
-This was his father's gift to him. His father, who in his original timeline had barely acknowledged him, who had left him to be claimed and raised by a mortal woman who didn't know what she was dealing with. Here, in this timeline, Poseidon had built his son a palace. Had raised him himself. Had made him a prince.
+It was impressive, and Percy wondered whether Clarisse felt the same way about what their father had built. His father, who in his original timeline had barely acknowledged him, who had left him to be claimed and raised by a mortal woman who didn't know what she was dealing with. Here, in this timeline, Poseidon had built his son a palace. Had raised him himself. Had made him a prince.
 
 And Percy didn't know which version of his father he preferred.
 
