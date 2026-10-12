@@ -718,10 +718,12 @@ Ella landed on the table, scattering napkins. "Ella declares this game a draw! A
 
 She dropped an entire dessert pizza slice onto Percy's plate and one onto Annabeth's, beaming.
 
-And as the sun set over the canoe lake, painting the water gold and pink, both teams ate together on the pavilion steps — Zeus and Poseidon mixed like it was the most natural thing in the world — while Thalia pretended not to watch, Clarisse pretended not to smile, Grover narrated the eating like it was overtime, and two twelve-year-olds with seventeen-year-old hearts sat knee-to-knee in a crowd of friends, hiding everything and sharing everything all at once.
+At sunset Grover announced the final score a third time, adding enough commentary that Clarisse threw a roll at him. He caught it, took a bite, and declared himself the real winner.
 
-It was a draw.
+Percy sat beside Annabeth on the pavilion steps. Their knees touched. On the other side of the table Silena was already debating a rematch, and Thalia was arguing that the rule about taking prisoners needed to be rewritten.
 
-It felt like winning.
+Annabeth leaned closer. "We should've won."
 
----
+"Which team?"
+
+"Exactly."
