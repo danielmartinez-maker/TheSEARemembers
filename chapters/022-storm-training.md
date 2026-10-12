@@ -813,3 +813,23 @@ From the next bunk Thalia muttered, "Four in. Hold. Six out."
 "Good. Then go back to sleep."
 
 Annabeth pulled the blanket up and followed her own breathing until it slowed.
+
+The notebook lay on the small table between their beds. She could have opened it again and tried to decide whether the lantern proved her powers were finally under control. Instead she left it closed. One successful exercise told her she'd learned one thing. It didn't entitle her to skip the work that would make that thing repeatable.
+
+Thalia stirred in the next bunk. "You still awake?"
+
+"A little."
+
+"Don't start practicing in here."
+
+"I'm not going to."
+
+"Good. Because if you set my blanket on fire, you're doing laundry for a month."
+
+Annabeth smiled into the dark. "Your blanket's not made of anything that burns easily."
+
+"That's the sort of answer that worries me."
+
+They lay quietly. Annabeth thought about how often Thalia had put her own fear aside to teach her, and how difficult it had been for her sister to accept Chiron's correction at noon. They had both made mistakes today. Neither had to pretend otherwise to be pleased with the result.
+
+In the morning she would take the training notes to Chiron and ask whether the shorter session could be approved. If he said no, she'd listen to the reasons before proposing another time. Tonight she didn't need to prove she could do anything at all.
