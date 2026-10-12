@@ -6,18 +6,18 @@
 
 ## Verified length status on the first 36 chapters
 
-- Passing the length gate: **3 / 36** (001, 002, 003).
-- Still short: **33 / 36** (004–036).
-- Remaining body words to reach 10k for the short chapters in this verified range: **132,258**.
+- Passing the length gate: **5 / 36** (001–005).
+- Still short: **31 / 36** (006–036).
+- Remaining body words to reach 10k for the short chapters in this verified range: **119,399**.
 - **Chapters 037–193 are not recounted in this tracker yet**. The manuscript's older reader-edition word counts are not reliable substitutes for current branch counts. Run `python scripts/audit_chapter_length.py --json editorial/latest-length-report.json` in a checkout to obtain the exact current all-chapter status; this will currently exit nonzero because many chapters are short.
 
 | Chapter | Verified body words | Length status |
 | --- | ---: | --- |
 | 001 | 11,077 | Length pass |
-| 002 | 10,634 | Length pass |
-| 003 | 10,179 | Length pass |
-| 004 | 4,028 | 5,972 short |
-| 005 | 3,113 | 6,887 short |
+| 002 | 10,834 | Length pass |
+| 003 | 10,335 | Length pass |
+| 004 | 10,928 | Length pass |
+| 005 | 10,391 | Length pass |
 | 006 | 2,928 | 7,072 short |
 | 007 | 2,063 | 7,937 short |
 | 008 | 1,887 | 8,113 short |
@@ -53,14 +53,18 @@
 ## What is and isn't done
 
 - Chapter 001's revised branch text already exceeded 10k.
-- Chapters 002 and 003 were expanded with **new story scenes** on this branch, preserving the established Percabeth bond and the Thalia/Annabeth/PCS family structure. See dedicated handoffs.
-- Chapters 004–193 **have not been expanded to the 10k floor** on this branch. No quality or length certification is being claimed for them.
-- The all-offset, exact 300-word cross-chapter duplicate check has been run on current Chapters 001–012. No matches were found. **Not a full-manuscript originality or semantic-duplication certification.**
+- Chapters 002–005 were expanded and line-edited with **new story scenes**, attention to dialogue rhythm, distinct character agency, scene causality, and the established Percabeth, Grace-sister and Poseidon-sibling relationships. See dedicated handoffs and `editorial/prose-dialogue-acceptance.md`.
+- Chapters 006–193 **have not been expanded to the 10k floor** on this branch. No quality or length certification is being claimed for them.
+- The all-offset, exact 300-word cross-chapter duplicate check was rerun on current Chapters 001–012 after edits to Chapters 002–005. No matches were found. **Not a full-manuscript originality or semantic-duplication certification.**
 
 ## Editorial release gate
 
 For each chapter: read preceding final scene and following opening; map POV, ages, date, powers, props, injuries, secrets and promises; draft scenes with a concrete objective, opposition, choice and lasting consequence; preserve the existing character-specific voice; review for exposition loops and formulaic resolutions; count body words; run 300-word verbatim overlap check; update a dedicated continuity handoff; and review actual diff.
 
-Prioritize **004–011**, then **012–036**, then perform an exact length inventory and ordered review for **037–193**. Expansion should not resolve the unknown time-rewrite architect, rewrite the memory rules, or disclose Percy's prior life to Amphitrite without explicit author instruction.
+Prioritize **006–011**, then **012–036**, then perform an exact length inventory and ordered review for **037–193**. Expansion should not resolve the unknown time-rewrite architect, rewrite the memory rules, or disclose Percy's prior life to Amphitrite without explicit author instruction.
 
 **Not merged:** This branch is an editing proposal; the parent 36-chapter branch remains unchanged.
+
+## Editorial status as of 2026-10-12
+
+The opening five chapters pass **the length gate only**. The new text has received targeted dialogue and prose revision, including removal of many clipped, alternating one-line exchanges. This is **not** a claim that all four edited chapters have passed a complete independent developmental or copyediting read. Long-form style consistency for Chapters 006–193 remains pending.
