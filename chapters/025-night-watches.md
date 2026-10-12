@@ -923,3 +923,7 @@ Clarisse looked between them. "I'll bring the spare whistles. The ones we moved 
 Percy smiled. They'd spent a week watching dark woods for something dangerous and had come home with a collection of small jobs. That was not failure. It was what a successful night watch produced when nobody was hurt: a clear report, equipment ready for the next group and enough trust that the people coming after them could follow the same procedure.
 
 He went into the cabin, set his alarm for the map delivery and fell asleep before Silena finished putting away the lantern.
+
+By morning, the new patrol team would have its routes, whistles and records. Percy couldn't control whether monsters moved near the border in the following week. He could control whether the next group had to repeat mistakes his own group had already made. It was an ordinary responsibility, and he had learned to value it more than the thrill of imagining a threat he might be able to defeat.
+
+Silena checked the lantern oil one last time, then closed the cabinet. Outside, the path was quiet.
