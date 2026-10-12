@@ -447,8 +447,12 @@ Annabeth walked Percy halfway to the Poseidon cabin, both of them yawning, shoul
 
 Percy watched her climb through the window — Thalia's hand reaching out to haul her in at the last second — and then turned toward his cabin where Clarisse and Silena were asleep, toward the fountain and the seashells and the bunk that smelled like salt.
 
-Above him the sky was forgetting the stars, washing them out one by one. Below him the sea kept breathing, remembering every name, every city, every tide garden and bakery and pancake morning.
+Percy stood on the last step of Cabin One and checked that the ladder was still where they'd hidden it. Thalia had promised to put it away before anyone noticed, although she hadn't said which of them would have to explain the scratched paint.
 
-Percy walked home under the wide brightening sky, his feet cold, his chest warm, carrying two cities and two homes and one roof inside him, and for once the doubling didn't ache.
+"Breakfast later?" Annabeth asked from the doorway.
 
-It just felt like having more sky to hold.
+"If you're awake."
+
+"I'll be awake."
+
+He took the gravel path toward Cabin Three, carrying her spare blanket under one arm. He would have to return it before Thalia added it to the list of things Percy borrowed without asking.
