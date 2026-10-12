@@ -272,6 +272,35 @@ He opened the notebook and, under number five, wrote: *5. Likes things.*
 
 Then, after a second, he added: *(Nico says this counts)*
 
+Grover reread the list. It looked different now that Nico had seen it. Until this morning, the search had felt like a private daydream he ought to keep in his notebook, something too enormous for a satyr who got frightened by loud noises. Nico hadn't laughed. He had made Grover explain what a Searcher actually did, then treated the answer as practical rather than ridiculous.
+
+Grover tore a blank page from the back of the notebook and wrote a question for Chiron: *What do I need to learn before I can go searching?*
+
+He could already imagine the reply. More training. More time outside camp. Lessons in how to recognize old trails and distinguish divine signs from ordinary animal tracks. Maybe a test he would fail the first time. He was frightened by the idea, which was another reason to ask while he could still change the plan.
+
+A dryad watching from the edge of the shade noticed his open notebook.
+
+"Are you writing songs?" she asked.
+
+"Not exactly."
+
+"Good. You keep practicing the same tune, and the reeds are getting bored."
+
+Grover looked at his unfinished pipe. "They are?"
+
+"That's what they say. Try listening to them before you decide what they'll want to hear."
+
+He turned toward the shore. The reeds bent in different directions even though the breeze came from one side. A small cluster shifted when a naiad moved below the surface. Another moved because something had crawled through the roots. Those were ordinary causes, each worth noticing. A Searcher who treated every unusual motion as a message from Pan would waste years chasing his own hopes.
+
+"How would I tell the difference?" he asked.
+
+"Practice."
+
+The dryad went back to her tree. Grover wrote *ask questions before assuming* beneath his list. Then he tried playing a softer phrase on the reed pipe, following the movement of the grass rather than forcing a rhythm he'd memorized. The sound was imperfect. It fitted the lake better than his usual tune.
+
+He thought Nico had been right about one thing: caring about living things was a good reason to become a Searcher. It wasn't training, and it wasn't proof he would find Pan. He could begin by taking good care of the shore he knew while learning the skills he'd need to go farther.
+
+
 "Hey, Grover!" Ella called from the picnic blankets, waving frantically. "Grover, come help! The naiads are robbing me again!"
 
 Grover capped his pen. "Duty calls," he said, and Nico grinned and chased after him, and for a little while the future could wait until after lunch.
