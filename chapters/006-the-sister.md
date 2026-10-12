@@ -882,44 +882,92 @@ Thalia looked at him sharply. The boy had no idea how difficult that was for her
 
 She walked away still angry, but no longer sure the anger belonged to Percy.
 ---
-That night, Percy found Annabeth sitting on the Zeus cabin roof, her shoes beside her and a notebook balanced against one knee. A few lit windows showed between the cabins.
+Percy found Annabeth sitting on the low roof of Cabin One just before evening curfew. She was close enough to the window that she could climb back inside without setting foot on the steps. Her shoes were beside her and her notebook lay open across her knees.
 
-"Did you and Thalia talk?" he asked.
+"You realize the whole point of a roof is that you're supposed to stay underneath it," he said, testing the ladder she'd left against the wall.
 
-"Twice. Once without shouting."
+Annabeth looked over the edge. "I'm inspecting the shutter Thalia and I repaired. We didn't have a chance to test it properly before the weather changed."
 
-"Progress."
+"You're sitting on the opposite side of the roof."
 
-"Not as much as you think." Annabeth made room for him. "She can't understand why I trust you with things I haven't told her."
+"That's where the best light is. Come up or go away, but don't stand there telling me where I'm allowed to sit. Thalia already has that covered."
 
-"You don't have to tell her just to prove you love her."
+Percy climbed carefully. The shingles were rough beneath his hands, and the roof sloped more steeply than it looked from the path. He sat a little distance from her, mindful that if he knocked her notebook off the edge she'd make him retrieve every page before she spoke to him again.
 
-"I know." She rubbed a thumb over a smudge of pencil on the page. "I also know I'm hurting her. Both things can be true."
+"How was the drill?" he asked.
 
-He sat down beside her. "She asked about Zeus today. The Hall and Nico's report."
+"Better than I expected. Thalia made me help plan the evacuation routes, which was actually useful. We found a place where a group of fourteen campers would've gotten stuck if somebody fell. Clarisse helped us test the backup through the orchard."
 
-"What did you say?"
+"Did Thalia like your suggestions?"
 
-"That we don't have proof he did anything to the prophecy. Because we don't."
+"She didn't throw the slate at me, so I'd call that progress."
 
-"Good."
+He smiled. Annabeth closed the notebook and rested it beneath one palm.
 
-"She didn't like hearing it."
+"We talked about the memory gaps, too. Properly, for once. I told her how strange it feels when she tells me about a childhood I can't remember. She was trying so hard not to look hurt that I nearly stopped talking."
 
-"She doesn't like anybody talking about him." Annabeth closed the notebook. "Half the time I don't either."
+"Did you?"
 
-Percy looked toward Cabin Three. There was a lamp in the window, and he suspected Clarisse was waiting to make sure he returned before curfew.
+"No. She needed to hear it, and I was tired of pretending I'd remember the next story if I tried hard enough."
 
-"I don't want you and Thalia to spend all this time fighting because I turned up," he said.
+Percy looked out across the cabins. He could see the light in Cabin Three, where Silena was probably rearranging the duty rota yet again. His sisters had known him for only a few weeks; they didn't ask why he could describe monsters he'd supposedly never met, but he sometimes caught them noticing how much he understood and how much of his own palace childhood he couldn't recall.
 
-"You didn't cause this." Annabeth nudged his arm. "You gave me someone I could explain myself to. The rest is still my responsibility."
+"I keep doing the same thing with Amphitrite," he admitted. "When she writes about something we did when I was little, I answer around it. I tell her what I've been doing at camp and hope she doesn't ask whether I remember the day she's talking about."
 
-He reached for her hand, and she let him take it. They sat quietly for another minute before she stood.
+"Have you thought about telling her your memories are strange, without explaining why?"
 
-"Come on," she said. "If I stay up here, she'll count it as another thing you talked me into."
+"I have. But she's already worried about me being here. I don't want her to think the distance has made me forget her."
 
-"You're the one who made me climb up."
+Annabeth nodded. She knew the difference between concealing a fact to protect somebody and concealing it because admitting the truth might change the relationship. They had been doing a little of both.
 
-"Exactly. Let her be wrong about one thing at a time."
+"Thalia asked me whether I actually wanted to be with you," she said.
 
-They climbed down together.
+Percy looked at her. "And?"
+
+"I told her the truth. That I like being with you because you make me laugh, and because I can say a thing without first deciding whether I remember it from the correct childhood. I think she was surprised that I had such an ordinary answer."
+
+"That's almost insulting. I was hoping you said I had magnificent hair."
+
+"Your hair was not mentioned."
+
+"Unfair. That should've been a central part of my defense."
+
+Annabeth smiled, then put her hand over his. Percy turned his palm and held hers properly, careful of the notebook balanced on her knees.
+
+"I don't want you to feel like you have to choose between me and Thalia," he said. "I've seen what she does when she thinks you're in trouble, and I know she was there for years I can't give you back."
+
+"She's angry about being excluded. Some of that anger is reasonable. Some of it isn't." Annabeth squeezed his fingers. "I'm not going to apologize for loving you, Percy. And I'm not going to pretend I have the same memories she does just because she needs me to. I can care about both of you without agreeing to everything either of you wants."
+
+He thought about that for a minute.
+
+"Have I been asking you to do things you don't want?"
+
+"Sometimes you decide we'll go after a mystery before I finish telling you why it's a bad idea. But I usually tell you when I think you're wrong, and you usually listen eventually."
+
+"Eventually sounds generous."
+
+"It is. I'm being nice to you."
+
+He laughed, then looked down at the ladder. "We should get off this roof before Thalia finds us and adds a new rule to the cabin."
+
+Annabeth kept his hand for another moment.
+
+"She's already told me she doesn't like it when I disappear without saying where I'm going. So I left her a note this time. It says I'm checking the shutters and will be back before curfew."
+
+"Did you mention me?"
+
+"Yes. In perfectly legible handwriting."
+
+"That's considerate. I'd hate to be an undocumented presence."
+
+She put the notebook under her arm and stood. Percy went down the ladder first and steadied it while Annabeth climbed after him. At the bottom, the window on the side of Cabin One opened. Thalia looked out, took in the ladder, and frowned.
+
+"Next time you inspect the roof, use a safety line," she said. "I don't have the patience to explain to Chiron why two supposedly intelligent campers fell off our cabin."
+
+Annabeth looked at Percy. He could tell she was trying not to smile.
+
+"We'll use one," she promised.
+
+Thalia closed the window without another word.
+
+Percy carried the ladder back to its hook. Annabeth went inside after giving his hand one last squeeze. The three of them still disagreed about plenty of things, but at least tonight nobody had needed to win the argument before they could go to bed.
