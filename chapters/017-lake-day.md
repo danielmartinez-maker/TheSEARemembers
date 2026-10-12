@@ -1,8 +1,7 @@
 ## Chapter 17: Lake Day
 
-### PERCY
 
-The lake didn't smell right.
+The canoe lake smelled of mud, cut grass, and sunscreen. Percy stepped onto the dock, surprised by how little it reminded him of salt water.
 
 That was Percy's first thought when his bare feet hit the warm planks of the dock, and he immediately felt guilty for thinking it, because everyone else was cheering like the canoe lake was the best thing that had ever happened.
 
@@ -96,7 +95,6 @@ Percy grinned back before he could stop himself, and quickly turned it into a co
 
 ---
 
-### GROVER
 
 Grover Underwood had decided, by 10:47 that morning, that the canoe lake was the best place in the entire world to think about his future.
 
@@ -160,7 +158,6 @@ Grover capped his pen. "Duty calls," he said, and Nico grinned and chased after 
 
 ---
 
-### ELLA
 
 Ella's picnic was, by any objective standard, perfect.
 
@@ -235,7 +232,6 @@ She opened her book to read aloud while everyone chewed, and when she got to the
 
 ---
 
-### CLARISSE
 
 Clarisse La Rue had been dreading this day for a week.
 
@@ -309,7 +305,6 @@ Clarisse rolled over and dunked him. He came up sputtering and dunked her back, 
 
 ---
 
-### ANNABETH & THALIA
 
 Annabeth had been awake since dawn with a knot between her shoulder blades that wouldn't loosen.
 
@@ -375,7 +370,6 @@ And for the first time in weeks — in years, in lifetimes — the knot between 
 
 ---
 
-### PERCY & ANNABETH — UNDER THE DOCK
 
 It was Zoe who made it possible, without knowing.
 
@@ -460,8 +454,3 @@ Percy dug his paddle in and splashed Clarisse on purpose. She splashed him back.
 Best day ever.
 
 ---
-
-*End of Chapter 17*
-
----
-
