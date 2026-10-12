@@ -566,6 +566,42 @@ Thalia folded the old letter carefully and tucked it back into the shoebox — n
 
 Annabeth picked up the two sealed envelopes — one to Jason, fat with pages and Grover's leaf, one to Beryl, even fatter — and held them like treasure.
 
+"Before we go," Thalia said, "I want one thing clear."
+
+Annabeth lowered the envelopes. Silena stopped arranging the pens.
+
+"We're writing because we want to," Thalia said. "Not because Mom did thirty-eight days and that means everything's different. If she writes back and she's doing badly again, we don't have to drop everything."
+
+Nobody answered immediately. They had spent the afternoon laughing at Beryl's old letter, and Thalia felt as if she had insulted the person who'd written it.
+
+Percy started to speak, then looked at Annabeth and stayed quiet. That was probably the most useful thing he could have done.
+
+"I know," Annabeth said. "I want her to get better. I don't want to have to check on her every morning."
+
+"I used to check every morning," Thalia said. "Even after we left. I'd hear a bottle roll across a floor and think I'd missed something."
+
+Annabeth leaned against the table. "I can't remember those mornings. I believe you when you tell me about them."
+
+Thalia looked at the envelope in her sister's hands. She hadn't asked to be believed. Not out loud. But there were worse things than hearing it anyway.
+
+"We can still send this," Annabeth said. "And if there's a next letter, we can decide then whether to answer it. Together, or separately. However you want."
+
+"Separately is allowed?" Thalia asked.
+
+"Obviously. You're not allowed to edit my spelling if we're writing separately."
+
+"I have never edited your spelling."
+
+"You crossed out 'definately' on my shopping list."
+
+"That word deserved it."
+
+Silena laughed and turned back to the envelopes. Clarisse picked up the pile of unused stationery without making a comment. Thalia could see that she was trying, very hard, not to look tender about any of this.
+
+Thalia put the old shoebox away. It would be under her bunk when she returned. The letters inside would still contain the years she had spent holding the household together when their mother could not. A funny story didn't remove them.
+
+She could send a new letter anyway.
+
 "Mail room?" she said.
 
 "Mail room," Thalia agreed.
