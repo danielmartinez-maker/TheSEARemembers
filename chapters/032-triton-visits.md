@@ -18,7 +18,7 @@ Percy blinked. “I don’t — what map?”
 
 Triton stared at him. Then the water column collapsed sideways and deposited him neatly on the dock, completely dry from the knees up and soaked from the knees down, which seemed to offend him personally.
 
-He was Percy's brother. His actual older half-brother, and Clarisse and Silena's too. Son of Poseidon and Amphitrite, heir of Atlantis, commander of something with a very long title Percy kept forgetting. Triton had known him for years; Percy had only the recent palace visit to put beside those years. The hippocamp lesson when he was seven, the hurricane off Montauk, the nickname surface barnacle — Triton had supplied those stories. Percy knew the brother telling them better than he knew the boy inside them.
+He was Percy's brother. His actual older half-brother, and Clarisse and Silena's too. Son of Poseidon and Amphitrite, heir of Atlantis, commander of something with a very long title Percy kept forgetting. Triton had known the boy he believed Percy to be for years. Percy had only his recent weeks in Atlantis and the stories Triton shared with him to account for those years. The hippocamp lesson when he was seven, the hurricane off Montauk, the nickname surface barnacle — Triton had supplied those stories. Percy knew the brother telling them better than he knew the boy inside them.
 
 He looked the same. Twenty-ish to look at, though the adult god had commanded patrols long before Percy was born. Tall. Built like a swimmer who also wrestles sharks for fun. Same nose as Percy, which was weird to see on someone else's face. Same grin that meant trouble.
 
