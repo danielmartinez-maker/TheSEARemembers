@@ -375,6 +375,154 @@ Percy nodded. He wanted to put his arm around her, but she was still looking at 
 She laughed once, then held out her hand. He took it with his unbandaged one, and they walked toward the cabins.
 
 ---
+The first warning reached Thalia while she was checking the practice field.
+
+Rain was coming down hard enough that the youngest campers had already abandoned their archery lesson. Someone had left the target cloths spread across a bench, and she was trying to keep the canvas from blowing into the muddy path when the horn sounded.
+
+One long note from the Hall.
+
+Movement, not contact. That was what it meant on the border. Inside camp, at a damaged building, the exact meaning could be different. Thalia stood still for a breath, listening.
+
+A second horn followed. Then three short blasts.
+
+Retreat.
+
+She dropped the canvas, grabbed her spear and ran toward the western side of the arena. The younger campers were milling near the path, several calling to friends they couldn't see through the rain. Someone shouted that lightning had struck the Hall. Someone else said a monster was coming. The second claim spread faster than the first because it was the sort of danger the children had been taught to expect.
+
+"Eyes here," Thalia called. "There isn't a confirmed monster. The Hall's ward is malfunctioning. We're moving away from it until Chiron gives us another instruction."
+
+Bea, the Hermes girl who'd helped lead the evacuation drill, came out from beneath the pavilion with her helmet crooked and a younger camper holding her sleeve.
+
+"Do we use the orchard route?" she asked.
+
+Thalia felt a rush of relief that had nothing to do with her own safety.
+
+"Yes. The main path is flooded, and the lower bridge will be slippery. Take the orchard route we marked yesterday. Keep everybody together. Clarisse will meet you at the fence."
+
+Bea nodded and turned back to the others. She repeated the instruction in a carrying voice, more calmly than Thalia would have managed at ten.
+
+The group began moving. Thalia walked alongside the youngest camper, whose boots kept sinking into the mud. The girl was trying not to cry. Every few steps she looked over her shoulder toward the Hall, where blue light flashed beneath the lifted canvas.
+
+"Is it going to explode?" she asked.
+
+"I don't know exactly what's happening, and I won't pretend I do. But Chiron has the repair crew with him, and we're not going to stand close enough to find out the hard way."
+
+The girl frowned at her.
+
+"That's not comforting."
+
+"I know. I'm working on a better version."
+
+The answer made Bea laugh briefly. The smaller girl did not, but she gripped Bea's sleeve a little less tightly.
+
+At the orchard fence, the two pins that Annabeth had marked on their map were still in place. The bent one had been replaced, just as the repair team had promised. Clarisse was already there with two older campers, moving the narrow panel aside and clearing a path through the wet grass.
+
+"Thalia, take the group to the pavilion. I'll make sure nobody's stuck on the main path."
+
+"The Hall's lighting up. I want to check where Annabeth is."
+
+Clarisse looked at her. "You can do that after these kids are inside. I need somebody who knows the route to get them there without another accident."
+
+Thalia's first instinct was to argue. Annabeth had been scheduled to work near the Hall that morning. She might still be there. There was no reason Clarisse should be allowed to run toward danger while Thalia was sent away from it.
+
+Then the youngest camper slipped in the mud and nearly pulled Bea down with her.
+
+Thalia caught the girl by the back of her jacket.
+
+"All right," she said to Clarisse. "I'll take them. Check the Hall as soon as you can, and tell me if you see Annabeth coming out."
+
+Clarisse nodded. She didn't waste time congratulating Thalia for making the sensible choice.
+
+They reached the pavilion as the rain intensified. Thalia counted fourteen campers, then counted again because she didn't trust the first result. Bea checked the names against the practice roster while the younger children collected blankets from the storage bench.
+
+One name was missing.
+
+"Where's Milo?" Bea asked.
+
+Thalia looked at the list. Milo had been in the archery group, a boy who liked to stand at the back because he was convinced his arrows flew better when nobody watched him.
+
+"Was he with us at the first horn?"
+
+Bea thought back. "I saw him near the bow rack. He might've gone to get his quiver."
+
+Thalia was already moving. She left Bea in charge of the head count and sent an older camper to tell Clarisse where she was going. No more running off without making sure somebody knew her route. She could obey that rule herself.
+
+Milo was under the roof of the archery shed, clutching a quiver against his chest. He had tied its strap around the bench leg to stop it blowing away and now couldn't undo the knot with his shaking hands.
+
+Thalia crouched beside him and cut the strap free with her knife.
+
+"The quiver can be repaired. You should've gone with the others."
+
+He stared at her. "I thought if I left it, the arrows would be ruined."
+
+"I get it. But you can't help anybody with good arrows if you get hurt trying to save them. Come on. Bea's counting everybody at the pavilion."
+
+He ran beside her, close enough that she could see him looking toward the Hall with every flash. She kept her spear low and her hand near his shoulder without grabbing him.
+
+At the pavilion the count finally came out right. Thalia took the roster from Bea and drew a line through the missing-name note. Then she looked uphill.
+
+A streak of blue light moved between the Hall's columns. It was too even and too low to be an ordinary strike from the clouds.
+
+The sight made her palms prickle.
+
+She knew the feeling of calling lightning. She knew the instant before a current gathered under her skin, the dangerous pleasure of believing she could direct it. The Hall's charge felt different, structured into a pattern that didn't answer her presence. It was moving through bronze and stone whether she wanted it to or not.
+
+She could not solve this by throwing a bigger bolt at it. She knew enough about broken wards to understand that much.
+
+Clarisse appeared at the edge of the pavilion, soaked through.
+
+"Chiron's at the colonnade. The maintenance crew's isolating a coupling. There's somebody caught near the northern column."
+
+Thalia's breath stopped.
+
+"Annabeth?"
+
+"That's what the messenger said. Percy reached the western entrance with Chiron, and the healers are on their way."
+
+Thalia was moving before Clarisse had finished.
+
+"Wait," Clarisse said, catching her arm. "The path is still blocked. You'll have to go around the west side, and Chiron told everybody to keep away from the wet stone."
+
+"I heard you."
+
+"Then act like it. Don't make him manage a second rescue because you sprinted into the hazard."
+
+Thalia yanked her arm free, then stopped. Clarisse was right, and they both knew it. The fact did not make it easier to stand there.
+
+"Can you keep the group here?" she asked.
+
+"Yes. Go by the dry route. I'll send word if anything changes."
+
+Thalia took the longer path around the sheds, where the rain ran toward the creek instead of the Hall. She reached the western fence in time to see the blue line flicker and vanish. The storm kept beating against the canvas, but the lights beneath it went out.
+
+For a moment nobody moved. Then Chiron shouted to the healers, and Percy emerged near the entrance with Annabeth leaning heavily against him.
+
+Thalia's knees went weak.
+
+She forced herself to walk, not run. The ground was still wet, and she wouldn't give the healers another person to carry.
+
+Annabeth was pale and conscious. Her hands shook. Percy had a red mark along one forearm and looked as though he'd forgotten to breathe.
+
+Thalia could have demanded an explanation from either of them. Instead she turned to the nearest healer.
+
+"Which way are you taking her?"
+
+"The infirmary. Chiron wants her checked for burns and lingering charge."
+
+"Then I'll come with you."
+
+The healer nodded. Thalia walked beside the stretcher, close enough to speak to Annabeth if she needed anything, far enough out of the way that the people trained to help could do their work.
+
+She had spent the morning getting children out of the path of a broken ward. She'd done it well. She was glad, somewhere she didn't have room to feel yet.
+
+At the infirmary door Annabeth reached toward her with one trembling hand.
+
+"I'm all right," she said.
+
+Thalia looked at the fingers, at the little red marks across the knuckles, and managed to answer without shouting.
+
+"Let's get you checked before we decide that."
+---
 
 At breakfast the next morning, Chiron addressed the camp before anyone could turn the incident into a story of divine punishment.
 
