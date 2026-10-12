@@ -172,9 +172,9 @@ She set her notebook carefully inside her shoe, rolled her jeans to her knees, a
 
 They floated side by side under the dock's shadow, holding the pilings, kicking lazily. Dragonflies stitched the air above them. A canoe full of Apollo kids drifted past, singing badly. Someone on the far shore was playing a reed pipe, thin and sweet.
 
-"Do you remember what you said after we got here?" Annabeth asked suddenly. "When I was trying to match every new detail to the old camp and Grover was helping me with that upside-down map and you said—"
+"Do you remember what you said after we got here?" Annabeth asked suddenly. "When I was trying to match every new detail to the old camp and we were standing at the lake after the first dinner and you said—"
 
-"'At least we're lost together,'" Percy supplied. He smiled at the memory. "You said, 'We're not lost, we're on a scenic route to destiny,' and Thalia told us destiny still meant getting to lunch on time."
+"'At least we're lost together,'" Percy supplied. He smiled at the memory. "You said, 'We're not lost, we're on a scenic route to destiny,' and We both said we'd look at the facts before blaming anybody."
 
 Annabeth laughed, water rippling around her shoulders. "I was so sure. I had it all planned. We'd get to camp, we'd train, and then — then the bolt would go missing or somebody would accuse somebody and we'd get a prophecy and go. I had a packing list. I had a *packing list*, Percy."
 
@@ -390,11 +390,8 @@ No accusation from Olympus reached them that night. No oracle cried out. No war 
 
 There was only camp, and dinner, and each other — seven kids at the end of a table, laughing, full and safe and together, with all the time in the world stretched gold before them.
 
-Hopeful, Percy thought, was not the absence of storms. Hopeful was knowing who would hold your shield wall when the rain came.
+Percy wanted to believe they could keep building this life without having to sacrifice the one they remembered. He didn't know how. But he knew whom to ask for help.
 
 And his wall was here. His family was here.
 
 Whatever came, they would face it as family.
-
----
-
