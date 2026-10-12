@@ -240,6 +240,78 @@ Annabeth grabbed his wrist hard.
 
 ---
 
+The first thing Annabeth did was ask Grover not to touch another statue.
+
+He turned toward her. His hand still hovered inches from Uncle Ferdinand's arm.
+
+"He's my uncle."
+
+"I know." She crouched beside the base, careful to keep her eyes below the stone figure's neck. "But we don't know whether the stone is part of him now, or a shell around him. If it's alive, we could hurt him trying to move it."
+
+Grover withdrew his hand reluctantly. "I can hear something. It's faint, but it sounds like him."
+
+"Then we treat him like someone who might be alive," Thalia said.
+
+Percy had never heard his friends sound so restrained in front of a monster's garden. He wanted to smash every pedestal and drag the statues into the road, but Uncle Ferdinand's fingers were caught in a gesture that looked painfully human. Breaking the stone could mean breaking the person.
+
+They searched along the bases without raising their eyes. Annabeth read labels aloud, but several were obviously lies. A stone hiker with a backpack was listed as a royal gardener. A figure in a security vest had been called an ancient soldier. Grover recognized three satyrs in the rows, not all from his own family. Percy tried to memorize their positions and found there were too many.
+
+"She sells them," he said.
+
+"Or stores them until somebody offers money," Annabeth answered.
+
+"Either way, it's wrong."
+
+"Yes." Annabeth put a finger over a small symbol on the hiker's pedestal. "And this is a date. Yesterday. Somebody got caught here yesterday."
+
+Thalia stepped back from the row and looked toward the shed, keeping her gaze on its low windows. The door had been pulled shut with a chain, but the earth beneath the threshold was disturbed. Percy noticed a pair of fresh tire marks crossing the gravel to it. The tread pattern was too wide for a garden cart.
+
+"There may be people who aren't fully turned," Thalia said.
+
+"Then we need to get them out first," Grover answered immediately.
+
+A part of Percy wanted to argue they should find the bolt before it moved again. But the clue had already been shipped west. A half-petrified camper didn't have time to wait for them to finish a courier investigation.
+
+"What do you want me to do?" he asked.
+
+Grover took a breath. He didn't look at Percy when he answered; his eyes stayed on the shed.
+
+"I can find the people who are alive. I can hear breathing through the walls and the plants know where they need water. I don't know how to fight Medusa."
+
+"You shouldn't have to," Percy said.
+
+Thalia shook her head. "We all need a way to leave. We can't count on the monster letting us walk back to the van. The moment she sees we're not customers, she'll go for the entrance."
+
+They planned from the end rather than the beginning. The van was the nearest safe shelter; Martin had agreed not to enter the grounds and to keep the engine ready if there was trouble. Grover would scout along the shed wall and call them if he found anyone. Thalia would remain near the open gravel, where a spear could move without catching on statues. Annabeth would keep the mirrored hubcap within reach and direct movement by voice. Percy would guard the retreat while avoiding the temptation to stare at Medusa even through her veil.
+
+"You're always making me the person who waits," he said.
+
+"Not waits," Annabeth replied. "Keeps the route open. That's different."
+
+"Are you sure?"
+
+"You're the strongest of us if we need water. You're also the only one who keeps running toward people when somebody shouts that they're hurt. We need you where you can see the others without having to chase the first noise."
+
+Percy couldn't tell whether she'd complimented him or diagnosed a serious character flaw. Possibly both.
+
+They practiced the signals quietly. One word meant somebody needed help. Two meant retreat. A hand against a shoulder meant freeze and keep eyes down. Grover suggested making the retreat signal a musical phrase, but Annabeth pointed out a satyr tune might draw attention before they were ready.
+
+"What if she calls us by name?" Percy asked.
+
+"Then we still follow the plan," Thalia said. "If it's important enough to break the plan, we tell each other why."
+
+Grover cast another glance toward Uncle Ferdinand.
+
+"I'll come back," he said, barely audible. "Even if I have to come with Chiron and half the camp."
+
+Percy believed him. It wasn't the sort of promise Grover made when he was trying to look brave. It sounded like a decision he'd already made and would regret only if he failed to keep it.
+
+The porch screen creaked.
+
+All four turned their faces downward together.
+
+---
+
 The woman came down the porch steps. Percy stared at her shoes.
 
 Dark sensible shoes. Long skirt. The hem moved strangely, like something under it was shifting.
