@@ -76,7 +76,7 @@ Zoe set the letter aside. She would finish it after lunch, even if nobody stoppe
 
 Percy had noticed Zoe's empty place at the Hecate table before he had noticed his own cold porridge.
 
-Now he sat opposite her in the library, with the mark from the Oracle's chair drawn between them.
+Now he sat opposite her in the library, with the mark from the Oracle's chair drawn between them. Chiron had approved the meeting as supervised research, with Zoe responsible for the documents they used. That was the condition attached to Percy's week-long loss of unsupervised archive privileges.
 
 The room smelled of old vellum and rain through an open window. Zoe's folio lay open to a diagram of the Hall of the Gods, its columns reduced to circles and its mosaics to careful squares. A chipped mug stood outside the drawing's edge. She had moved it there when he leaned over the table.
 
