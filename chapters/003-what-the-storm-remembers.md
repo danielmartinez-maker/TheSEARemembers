@@ -576,7 +576,7 @@ Annabeth was quiet for a long time. "I'm managing," she said. "I try to respond 
 
 "It's not that bad—"
 
-"It's that bad. Because some days I'm not sure she's wrong." Annabeth's voice cracked. "Some days I don't know who I'm anymore. I remember being Athena's daughter, but this body remembers being Zeus's daughter, and both of them feel real, and I can't — I can't tell which one is me."
+"It's that bad. Because some days I'm not sure she's wrong." Annabeth's voice cracked. "Some days I don't know who I'm anymore. I remember being Athena's daughter, but my hands answer to Zeus now, and both facts feel real, and I can't — I can't tell which one is me."
 
 Percy stopped walking. Turned to face her. Took her hands.
 
@@ -1274,11 +1274,11 @@ She crouched to pick it up. Her hands shook. She had commanded soldiers and calc
 
 "Thalia's been training at this for years."
 
-"Thalia would ask what I'm doing out here, and why I can't remember learning the basics with her."
+"Thalia already knows I've started supervised lessons with her. I'm worried she'll think I don't trust her if she finds out how much I still practice on my own."
 
-"Then we practice the basics until you have something you can show her without panicking."
+"Then tell her," Percy said. "You don't have to explain everything to let her know what you're working on."
 
-Annabeth looked at him sharply. "Or until I decide to ask her for help. That's my decision, Percy."
+Annabeth looked at him sharply. "I'll decide when and how to ask her, Percy. That's still my decision."
 
 "Fair." He raised both hands. "For what it's worth, I'm terrible at the leaf part."
 
