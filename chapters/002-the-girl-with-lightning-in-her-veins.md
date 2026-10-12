@@ -482,19 +482,15 @@ Annabeth put her book down.
 
 Thalia was standing on a chair with a coil of cord around one wrist. She had the expression of someone who'd already rehearsed an explanation and wasn't pleased to need it.
 
-"The window leaks."
+"The latch rattles every time the wind comes off the hill," Thalia said, gesturing to the window with the cord around her wrist. "If it fails in a proper storm, we'll spend the night holding it shut. I thought I'd fix it before that happens."
 
-"It didn't leak when it rained yesterday."
+Annabeth studied the frame. "It didn't leak in yesterday's rain, and you've moved half the furniture to get at it. Are you sure the problem isn't just the fitting?"
 
-"Then yesterday it was keeping a secret."
+"That's what I'm checking. There aren't any proper shutters on these windows, so when the catch fails we have nothing to keep the wind out."
 
-"Thalia."
+"You could've said that instead of tearing the cabin apart."
 
-"I'm checking the storm shutters."
-
-"There aren't any storm shutters."
-
-"Which is part of the problem."
+"And miss the chance to hear your opinion on the table? Never."
 
 Thalia stepped off the chair. A little smear of dust ran down her cheek. She'd been working for long enough to collect a row of tools on the windowsill: pliers, a bent nail, a chisel that looked borrowed from the forge. Annabeth had seen this version of the Zeus cabin only since waking up with her memories in the wrong life. It was large and formal and cold in the way public buildings sometimes were. Thalia had clearly spent years making it less so.
 
@@ -538,17 +534,11 @@ Annabeth moved the table under the window and tested its legs. It was broad enou
 
 Thalia studied it for almost a minute.
 
-"You're making a drawing of a table," she said.
+"You're drawing instructions for how to use a table," Thalia observed, watching Annabeth mark its warped leg.
 
-"Yes."
+"I'm showing you where the weight needs to go. If you lean over that side, it'll tip while you're working on the shutter, and then we'll have a table to repair as well."
 
-"To help us use the table."
-
-"Also yes."
-
-"You know what most people do when they need to use a table?"
-
-"Use a table that doesn't wobble."
+Thalia looked at the shortened leg, then reluctantly moved the stool into place. "Fine. But if you start drawing diagrams for every piece of furniture in here, we'll run out of paper."
 
 Thalia handed her the pliers.
 
@@ -632,23 +622,13 @@ Thalia put down the screwdriver.
 
 Her sister's expression changed in a way Annabeth couldn't bear to misread. It was not anger, exactly. It was the calculation of somebody deciding how fast they could get help without alarming the person who needed it.
 
-"Did you tell Chiron?"
+"Have you told Chiron about the sparks?" Thalia asked, lowering her voice.
 
-"No."
+Annabeth shook her head. "I wanted to work out what was triggering them before I worried him. Percy knows I've been having trouble, though. He was there when it first happened."
 
-"Did you tell me?"
+"So you let him know and not me." Thalia set the screwdriver down carefully. "I wish you'd said something earlier. I don't need you to understand a power before you tell me it might hurt you."
 
-"I'm telling you now."
-
-"You were going to tell me because I caught you."
-
-Annabeth looked at the spark-singed edge of her thumbnail.
-
-"I was trying to work out what it was first."
-
-"With Percy?"
-
-"He knows."
+Annabeth studied the mark on her thumbnail. "Every time something about me changes, you look as though you're waiting for another disaster. I was trying not to give you one more thing to worry about."
 
 Thalia stepped away from the workbench. The fact that she didn't immediately demand Percy come explain himself was almost more alarming.
 
