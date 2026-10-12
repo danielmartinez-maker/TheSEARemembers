@@ -1,6 +1,5 @@
 ## Chapter 37: Sisters
 
-**Thalia**
 
 Thalia Grace woke up to a blonde head on her stomach and an elbow in her ribs.
 
@@ -70,7 +69,6 @@ Annabeth already had the scissors in her hand. She'd hidden them behind her back
 
 ---
 
-**Annabeth**
 
 Breakfast heist went perfectly, which is to say it went terribly and they got away with it anyway.
 
@@ -120,7 +118,6 @@ Thalia stood and offered her hand, pulling Annabeth up with exaggerated effort. 
 
 ---
 
-**Thalia**
 
 Haircuts in the Zeus cabin bathroom were a terrible idea, which is why they were perfect.
 
@@ -198,7 +195,6 @@ Thalia turned, still caped in the towel, black and blue hair falling sharp aroun
 
 ---
 
-**Annabeth**
 
 The borrowed-clothes fight started the way all great wars start: over a jacket.
 
@@ -280,7 +276,6 @@ Thalia looked at her, owl shirt and eyeliner and fresh haircut, and said, "Come 
 
 ---
 
-**Thalia**
 
 Sparring was Thalia's love language, even if she'd never say it out loud.
 
@@ -354,7 +349,6 @@ Annabeth smiled, then yawned hugely. "Phase Five?"
 
 ---
 
-**Annabeth**
 
 Thalia's trunk was a museum.
 
@@ -436,7 +430,6 @@ Thalia bumped her shoulder. "That's what sisters are for. Keeping the stuff you 
 
 ---
 
-**Thalia**
 
 Dinner was picnic-style on the Zeus cabin roof.
 
@@ -591,6 +584,3 @@ She didn't solve any of it. She just tucked the blanket around Annabeth's should
 Annabeth, half-asleep, mumbled back: "Love you more. Sister law."
 
 Thalia smiled, closed her eyes, and slept.
-
----
-
