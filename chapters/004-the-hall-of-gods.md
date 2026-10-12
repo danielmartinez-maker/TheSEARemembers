@@ -20,15 +20,173 @@ Zoe glanced around, then lowered her voice. "Like the fact that three years ago,
 
 Percy's blood ran cold. "A prophecy?"
 
-"A big one. The kind that makes the gods nervous. I don't know what it said — but I know it changed things. After that night, the Hall of the Gods went up. The rules about big three kids shifted. And the gods started visiting more often." She met his eyes. "Something happened here, Percy. Something big. And I don't think it's over."
+"A big one. The kind that makes the gods nervous. I don't know what it said. But the building approvals, new cabin rules and increased divine visits all appear in records from roughly the same period. People argue about which happened first." She met his eyes. "Something happened here, Percy. Something big. And I don't think it's over."
 
-She walked away, leaving Percy standing in the shadow of the Hall of the Gods, his mind racing.
+Percy took two steps after her.
 
-A stolen prophecy. Changes to the camp's divine infrastructure. Rules rewritten. It all pointed to someone with power — not just mortal power, but divine power. Someone who could manipulate the boundaries between gods and mortals.
+"Wait. How do you know a prophecy was taken?"
 
-Someone who had been at this camp three years ago.
+Zoe stopped, but her expression changed at the question. The smile she had worn while introducing herself slipped away.
+
+"Why?"
+
+"Because if somebody actually stole one, there should be an incident report. Or a replacement record. Or somebody who saw the thief. You said nobody was caught."
+
+"You're asking the right question, at least."
+
+"That's not an answer."
+
+"No." She looked toward the Hall. "Come inside."
+
+The interior was cooler than the steps, and so clean Percy could smell the polish on the benches. Sunlight fell through the upper windows in twelve narrow bars, crossing the enormous mosaic on the floor. Two campers were carrying a brass lamp from one side of the room to the other. They looked at Zoe and then quickly away.
+
+"Did they see something?" Percy asked.
+
+"They're on maintenance duty."
+
+"That wasn't what I asked."
+
+"You'll discover I find people who repeat my words less interesting than people who examine them."
+
+She led him around the edge of the mosaic, avoiding the central image of Zeus. Up close, Percy could see lines scratched into the stone at the joins between tiles. They formed circles around the standing places for twelve Olympians. The marks looked decorative until a camper rolled a lamp stand across one.
+
+Zoe caught the stand before its foot crossed the line.
+
+"Use the outer path," she told him.
+
+The camper muttered an apology. The boy beside him hurried to lift the other end, and together they carried the lamp around the room.
+
+"Why?" Percy asked when they'd gone.
+
+"Because it weighs too much. The tile joints weren't designed for equipment carts."
+
+"That's all?"
+
+"That's a good enough reason to protect the floor." Zoe crouched near the join. "There may be others, but I won't pretend I have one."
+
+She ran a finger an inch above the stone without touching it. A faint prickle passed along Percy's arms. Not a wave. Not the deep pressure of sea magic. Something dry and humming, almost like standing under a power line.
+
+"Did you feel that?" she asked.
+
+"Yes."
+
+"What did it feel like?"
+
+"Static. Or a ward."
+
+"Those are different answers."
+
+"I haven't ruled either out."
+
+She smiled briefly. "Better."
+
+Zoe gestured toward the base of a northern column. Between the polished sections lay one narrow patch of rougher stone. The mortar around it was newer, and a little brass pin had been driven beside the seam.
+
+"My cabin maintains some of the protections here," she said. "Not the building itself. Hecate's children check whether old enchantments are interfering with new ones. I came across this repair when we were replacing a lamp."
+
+"Who made it?"
+
+"A mason. I found his name in the work record. It wasn't in the original construction list."
+
+"Why not?"
+
+"Because the repair came later. That's why it's called a repair."
+
+He gave her a look. She didn't apologize.
+
+"That's what we actually know," Zoe continued. "The Hall is about three years old. A repair came later. There was a reported theft at the Big House in the same period as the first approvals. The paperwork is incomplete. People have spent three years telling one another that these things must have one cause."
+
+"And you?"
+
+"I think somebody should look at the dates before deciding."
+
+Percy crouched beside the column. A tool had scratched three small hooked strokes into the brass pin. They might be a maker's mark or a way of telling one pin from another. He drew them in the dirt with his finger, then realized the floor was too clean for dirt and stopped.
+
+Zoe produced a scrap of paper and a short pencil.
+
+"Try again."
+
+He copied the marks.
+
+"Now you have a question you can actually ask somebody," she said.
+
+"Does the pin do something?"
+
+"Possibly. Or it's the mason's shorthand for north side, third fixture. I haven't asked him yet."
+
+"You could've led with that."
+
+"If I'd led with a brass pin you'd have gone back to breakfast."
+
+"Fair."
+
+Zoe straightened and looked across the room. The camp had been loud outside; inside the Hall, every footstep echoed and then seemed to disappear. Percy wondered how often campers came here for worship and how often they came because they had been ordered to polish the mosaic.
+
+"Why do you care about a missing report?" he asked.
+
+"Because Chiron said the theft happened, but wouldn't tell me which record was taken." She folded her arms. "He didn't tell me because I'm a child of Hecate, and the usual assumption is that if something magical disappears I must either have stolen it or be desperate to find it."
+
+"That's unfair."
+
+"It's lazy. Unfair requires somebody to have thought about it." She pointed at the patch. "I like repairs. Repairs make people show what a thing was supposed to do. A polished surface can hide a surprising amount."
+
+He liked that answer more than her earlier one about a camp that wasn't what it seemed. It made sense for a girl who spent her afternoons cataloguing lamps.
+
+"What did Chiron actually say about the prophecy?"
+
+"That something was removed from the attic, and that discussion of it wasn't useful. I don't know whether it was an original utterance or a copied transcription. People called it a prophecy because the attic is where the Oracle keeps records."
+
+"And how did the gods get involved?"
+
+"After the new building approvals, divine visitors came more often. That part's on the public schedules. Whether it happened because of the theft or the other way around is anybody's guess."
+
+Percy looked at the scratched pin again.
+
+"Would you let me see the records?"
+
+"Not alone. The Hecate cabin has rules."
+
+"That's becoming a popular answer today."
+
+"Most rules are popular until people have to follow them."
+
+She folded his drawing and passed it back, carefully keeping her own fingers off the marks.
+
+"Ask Chiron about the northern column. Ask who signed off on the additional lamps. If you learn something useful, show me. Don't come back claiming a scratched pin proves your family was cursed."
+
+Percy looked up quickly.
+
+"Why would I claim that?"
+
+"I don't know. You had an expression."
+
+"What expression?"
+
+"The one people get when they've found three interesting facts and invented an entire explanation before lunch."
+
+That was alarmingly close to what he had done since waking in Atlantis.
+
+He stood, brushed dust from his knees, and slipped the drawing into his pocket. They passed the lamp carriers on the way out. One of the boys lifted a hand in greeting; Zoe asked whether they'd secured the third stand, and the boy hurried to check.
+
+At the doorway she paused.
+
+"For the record, I didn't tell you all this because I trust you."
+
+"That's encouraging."
+
+"I told you because you asked for evidence when most people ask for rumors. If you keep asking the same way, we might get somewhere."
+
+"What if I find something you don't like?"
+
+"Then I'll ask where you found it."
+
+She stepped outside. Percy followed her to the foot of the stairs, where she headed toward the library, leaving him with a drawing, a name he still needed to obtain from the repair ledger, and an uncomfortable awareness of how quickly he had decided that a missing record explained his entire life.
 
 He needed to find Annabeth.
+
+The theft, the building approvals and the new rules might be related. Or they might not. Zoe had given him a smaller task than a divine conspiracy: find a date, find a signature, and work out why a column had been repaired.
+
+He could start there.
 
 ---
 
