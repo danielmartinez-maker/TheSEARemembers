@@ -341,6 +341,3 @@ Chiron ordered the Hall closed until the wards could be checked. The younger cam
 By the time they were allowed to leave, the Hall still stood, and they had a handful of questions, no proof of who had altered their history, and work assignments before lunch.
 
 Thalia passed them without speaking. Annabeth watched her go, then followed her toward Cabin One. Percy let her. Some conversations weren't improved by having him there.
-
----
-
