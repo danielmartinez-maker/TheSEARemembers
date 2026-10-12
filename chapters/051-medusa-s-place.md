@@ -638,6 +638,92 @@ Thalia winked at Percy over Annabeth's head. It was quick and conspiratorial, li
 
 ---
 
+The greatest problem after Medusa was gone was what to do with people who couldn't tell the questers what they needed.
+
+Grover wanted to carry every statue. He'd memorized which bases contained satyrs and was moving along the rows calling their names. Percy followed with the notebook, trying to keep a record before Grover's determination turned into a rescue plan nobody could execute.
+
+"There's no way all of these fit in the van," Annabeth said.
+
+Grover didn't turn. "We could make two trips."
+
+"Two trips would take more time than we have."
+
+"Then three."
+
+Thalia stopped him near the fountain, hands open and no spear between them.
+
+"Look at me, Grover."
+
+He kept his eyes on the statue.
+
+"Grover."
+
+"I can hear my uncle. He's here. I can't leave him."
+
+"We're not leaving him. We're deciding how to move him without hurting him."
+
+That finally made Grover look at her. His eyes were bright with anger and fear.
+
+"You're talking like Annabeth."
+
+"I'm trying," Thalia said. "She's been right about the hard parts so far."
+
+Percy put the notebook on the hood. He'd sketched the property: the house, the shed, the fountain, the gravel lot and the rows where they had found people. Annabeth added numbers along each row, then a mark beside the truck driver's hiding place.
+
+"We can send this to Chiron," she said. "An actual record of where people are, with names when Grover recognizes them."
+
+"Will that bring help?" Grover asked.
+
+"It will make it possible for help to find them. That's what I can promise."
+
+Martin appeared at the edge of the lot with a phone in his hand. He'd heard the screaming and wanted to know whether he should contact his supervisor. His expression changed when he saw the statues, although the Mist was plainly trying to turn them into garden ornaments in his mind.
+
+"I don't know what happened here," he said. "But your friend is bleeding, and that driver's in trouble. I'm not leaving without arranging help."
+
+He called the number Chiron had provided, reported the dangerous location, injured travelers and people requiring transport. He didn't report a gorgon turning to dust. Percy was grateful; he doubted a mortal dispatcher would find that detail useful.
+
+The nymph at the depot answered. She knew how to reach camp staff and promised to send a team to the address, but couldn't guarantee when it would arrive. She warned them not to move heavy stone figures without bracing them against tipping.
+
+Martin listened, then looked toward Uncle Ferdinand.
+
+"Can that one stand in the back without crushing somebody?"
+
+"No," Annabeth answered. "We'll have to pad him and secure him."
+
+The van's seats could be repositioned. Martin showed them how to release the rear row, leaving a flat area. He had straps in the emergency compartment and blankets under the seats. Percy had never imagined a nymph depot would care about securing cargo, but the woman on the phone sounded almost offended when he asked.
+
+"Demigods think getting something into a vehicle is the same as transporting it safely," she said.
+
+Grover helped move the seats. He followed Martin's instructions carefully, checking each strap twice and speaking to Uncle Ferdinand as they padded the stone shoulders and head. They laid him on his side instead of trying to belt him upright. They wedged the base so he couldn't roll if the van stopped.
+
+The two smaller figures they could safely move went beside him. Annabeth insisted on documenting their positions before anyone lifted them. Percy wrote descriptions on scraps of paper and tied them to the packing blankets rather than to the stone itself.
+
+By the time the load was secured, they had used nearly every blanket they carried. Grover stood beside his uncle, exhausted.
+
+"What about the others?"
+
+"We've recorded them," Annabeth said. "The people coming from camp need those records."
+
+"That's not the same as getting them out."
+
+"No," she said. "It isn't."
+
+Percy watched Grover accept the answer without pretending to be comforted. He went back to the nearest statue and placed a small leaf on its pedestal.
+
+"Uncle Ferdinand is first," he said at last. "That doesn't mean he's the only one."
+
+"I know," Percy said.
+
+"Promise you won't forget the rest."
+
+Percy thought about the vague promises he'd made at the start of the quest, the ones that had felt beautiful because he hadn't understood their cost. This one was different. They had a map, a contact and names for some people in the rows.
+
+"I'll keep the list," he said. "And we'll send it to Chiron. That's something we can actually do."
+
+Grover nodded, took the notebook and walked toward the shed where the freed truck driver was waiting.
+
+---
+
 The truck driver sat behind the van with a water bottle hugged to his chest. His name was Sam. His legs were gray to the knee and stiff, but Grover had wrapped them in wet towels and he could wiggle his toes.
 
 "I do not remember much," Sam said. "Lady paid cash. Nice lady with a scarf, even in heat. Said do not open the box. Said take it to the Hermes Express drop by the highway. Said a black car would pick it up."
