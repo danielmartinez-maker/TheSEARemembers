@@ -768,5 +768,121 @@ Tomorrow would come with ferries and cities and more monsters. Tomorrow they wou
 
 Tonight there was soup and a bench and rain, and that was enough.
 
+The depot's fluorescent lights hummed long after the last ticket window closed.
+
+Thalia was convinced somebody should stay awake. The problem was that everybody was convinced it ought to be them. Grover volunteered first, then fell asleep halfway through explaining why satyrs had superior nighttime senses. Percy offered to take the opening watch. Annabeth looked at him for a long moment before asking how much sleep he'd had in the previous two nights.
+
+"Enough," he said.
+
+"That's not a number."
+
+"Lots of enough."
+
+Thalia pointed to the far bench. "Go sit. I want ten minutes to figure out our next move without you trying to be a hero."
+
+Percy sat because he didn't trust his knees to make a decent argument. Annabeth took the seat beside him, but she left enough room to spread the route map between them.
+
+"Can I ask something?" she said.
+
+"Sure."
+
+"Are you upset that I got hurt?"
+
+Percy looked at her wrapped hand. "I don't think that's a question."
+
+"It's a different question from whether you think the burn was my fault."
+
+He was quiet.
+
+"Yeah," he said finally. "I'm upset. When I saw the lightning follow the ditch back toward me, for a second I thought one of us was going to die because we made a stupid mistake. Then you burned your hand and tried to pretend it didn't hurt so Thalia wouldn't make us stop. I'm upset at the whole situation."
+
+"I wasn't pretending it didn't hurt."
+
+"You kept saying it was fine."
+
+"I know."
+
+Percy picked at the edge of his sleeve. His sisters had trained him to recognize when someone was refusing help because they didn't want to become an inconvenience. Annabeth did that more than she liked to admit. She wasn't doing it to be difficult. She had been waiting a long time for someone to trust her to make her own decisions, and needing help sometimes felt like an argument against her.
+
+"It would be worse if you hid it tomorrow," he said.
+
+Annabeth thought about that. "I don't want you or Thalia keeping me away from the quest."
+
+"Then don't give us a reason to guess how badly you're hurt."
+
+She unfolded the map and found their next connection. Her writing hand moved more slowly than usual. Percy could tell it hurt, even though the burn was on the other hand, because keeping the map flat required two hands and she couldn't comfortably use both.
+
+"Can you hold that corner?" she asked.
+
+Percy did.
+
+They made a separate list of supplies they actually consumed that day: clean water, bandages, a little food, one Iris message and several bus fares. The drachmas left in Chiron's pouch looked embarrassingly few compared with the distance they still had to cover. Annabeth drew a line under the total.
+
+"We'll need a better way to move across the country," she said.
+
+"Bus by bus?"
+
+"Not if we spend every night arguing with a counter clerk. We need a route with fewer transfers and a place to stay when we get delayed."
+
+"Or a vehicle," Percy suggested.
+
+She considered it without enthusiasm. "None of us has a license."
+
+"Thalia knows how to drive."
+
+"Knowing and being legally allowed aren't the same thing."
+
+Percy grinned. "You're saying we can't just steal a car."
+
+"I'm saying stealing a car is both wrong and an excellent way to get arrested before we find the bolt."
+
+They went through the alternatives. Chiron's contacts might provide a lift when they reached the next safe house. A mortal transport company might offer a long-distance ride they could afford. A vehicle could be arranged if an adult with authorization was willing to be responsible for it. Percy liked that last option least because it required admitting they could not simply decide to drive across America.
+
+The thought was still better than pretending transportation would appear because the prophecy needed it.
+
+They wrote down questions for the next Iris message. Who could legally arrange a vehicle? Was there a safe contact near the next transfer? What could Chiron verify about the route? Thalia came over when she saw the list.
+
+"You are both supposed to be resting," she said.
+
+"We're sitting down," Percy argued.
+
+"That's not the same thing."
+
+Annabeth showed her the questions. Thalia scanned them, then looked at Percy with a strange mix of amusement and fatigue.
+
+"Good questions," she said. "I don't have answers yet."
+
+"Me neither."
+
+"Then we can sleep before we make any decisions."
+
+She took the first watch. Percy wanted to protest, but Thalia pointed to the bandaged hand beside him.
+
+"If you two want me to stop treating you like children, start making the sensible choice when you're tired."
+
+Percy lay down with his jacket folded under his head and watched the depot ceiling. The rain rattled against the awning. He remembered the way the cabins had looked from the hill that morning, small roofs and the bright path leading to their door. The trip already felt longer than a day.
+
+Annabeth settled beside him, her own bag as a pillow.
+
+"Percy?" she whispered.
+
+"Yeah?"
+
+"Next time I say I need a minute, believe me the first time."
+
+He turned toward her. "I did."
+
+"You looked terrified."
+
+"I can be terrified and believe you."
+
+She smiled in the pale light. "Fair."
+
+He listened while her breathing grew slower. Thalia's boots moved once, then stopped near the doors. Grover snored softly with his pack clutched against his chest.
+
+The first day hadn't proved they knew how to survive every challenge the road would give them. They had found one dangerous mistake and several ordinary problems, and they had managed not to leave anyone behind. It was enough to sleep on.
+
+In the morning they would find out how to get farther west. Tonight Percy was glad the nearest problem was a bench that wasn't quite long enough for his legs.
+
 ---
 
