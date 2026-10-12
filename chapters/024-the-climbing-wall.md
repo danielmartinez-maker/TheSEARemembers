@@ -807,6 +807,12 @@ Beside him, Annabeth floated too.
 
 And for once, Thalia, watching from the dock with Clarisse, was dripping wet and grinning. She let the moment be.
 
-No teasing. No storm. Just: *Huh. Look at them.*
+Thalia watched Percy and Annabeth float until Clarisse splashed her from behind. She caught her friend by the wrist, lost her footing on the wet boards, and pulled them both into the lake.
 
-She laughed it off, shook her head, and jumped back in.
+Percy rolled over to see what the noise was. Annabeth, still floating, didn't even open her eyes.
+
+"Don't help them," she said.
+
+"I wasn't going to."
+
+"Good."
