@@ -733,6 +733,184 @@ Clarisse shifted on the bench. "All right. We share notes. We don't break into a
 
 Silena held out her hand for the copy of the prophecy. Annabeth hesitated, then passed it over.
 
+The discussion might have ended there if Nico hadn't looked at Percy's pocket.
+
+"Where's the first sheet?" he asked.
+
+Percy touched the folded edge through his shirt.
+
+"Why?"
+
+"Because you've been showing us copies. I want to know where the original went."
+
+"It's safe."
+
+"That's a location for a sandwich. Not a document."
+
+Clarisse leaned back on the bench.
+
+"Oh, this is going to be good."
+
+Annabeth opened her mouth, then closed it. Percy knew that expression. She'd tried to tell him taking the page had been a mistake even while they were doing it. He had made it easier for her to agree by promising they'd return it as soon as they could.
+
+He pulled out the folded transcript.
+
+Silena's face changed as soon as she saw the creases.
+
+"You carried that around in your pocket?"
+
+"I wasn't going to leave it on the dock."
+
+"Those are not the only two options."
+
+He looked down at the paper. There were faint smudges near the center where he'd unfolded it too many times. He hadn't noticed them until Silena pointed.
+
+"I kept it dry."
+
+"That's not the same as keeping it undamaged."
+
+Nico took the paper carefully by its edges and laid it on the stone bench.
+
+"Do you know what it is?"
+
+"A transcript," Percy said.
+
+"Maybe. Do you know whether it's the only one?"
+
+"No."
+
+"Do you know who wrote it?"
+
+"No."
+
+"Then all you've got is ink on paper with a date somebody wrote at the top. If we want to compare versions, we need to know who made each copy and when."
+
+Percy thought of Annabeth's notebook, with observations carefully separated from theories. He was beginning to find that the second category was much more interesting than the first and much less useful on its own.
+
+"The words are different," Annabeth said. "That is still an observation."
+
+"Yes," Nico agreed. "But 'the prophecy changed' isn't. A later scribe might have copied a different recitation. Somebody might have proposed an interpretation. One of these could be a draft and the other a final transcription. We don't have the complete record."
+
+Clarisse gave a snort.
+
+"You have managed to make an ancient prophecy sound like a homework assignment."
+
+"That's what good records usually are."
+
+Silena took off her jacket and spread it across the stone to keep the papers from touching the damp bench.
+
+"Does anyone else know you've taken these?"
+
+"Mr. D knows we've been asking questions," Percy admitted.
+
+"That's not what she asked," Clarisse said.
+
+Percy hesitated.
+
+"Chiron probably knows about the first trip."
+
+"Probably?" Silena repeated.
+
+"Nobody caught us."
+
+Clarisse folded her arms. "I caught you."
+
+"Right. Apart from you."
+
+"There's a difference between nobody caught you and nobody stopped you," she said. "I was waiting to find out what you were after. Don't mistake that for me approving of it."
+
+Annabeth put her notebook on the jacket beside the transcript.
+
+"All right," she said. "We've established it was a bad decision. What's our next one?"
+
+Silena looked at her. "The next decision is whether you're going to return what you took."
+
+"Yes," Annabeth said.
+
+Percy looked up.
+
+"Tonight?"
+
+"In the morning. With Chiron there. We can say we borrowed a transcription without permission and are returning it."
+
+"He'll ask why."
+
+"Then we say we were looking into the Hall's history. That's true."
+
+"And the note about the prince's thread?"
+
+Annabeth paused.
+
+"That one we show him a copy of first. If it's a planted forgery, he needs to know someone put it in the attic."
+
+Percy didn't like the thought of Chiron locking everything away. On the other hand, the letter was only evidence if somebody could distinguish it from a story two anxious children wanted to believe.
+
+Nico reached into his coat and produced a small paper envelope.
+
+"Use this for the original, at least until you return it. Hold it by the edges. Don't try to flatten it with a book; the ink might transfer."
+
+"Why do you know all this?"
+
+"My sister likes old manuscripts. She makes me help label them." Nico looked down at the page again. "It's not magic. Mostly it's being careful."
+
+Clarisse leaned forward.
+
+"Here's my problem. You two are taking risks that land on everybody around you. Chiron has to deal with the mess if Mr. D gets angry. Your cabin has to explain where you went. And you were planning to do this again without telling anybody."
+
+"We already went again," Percy said.
+
+Clarisse stared at him.
+
+"I know," she said. "That was the point."
+
+Silena rubbed the heel of her hand across her eyes. She looked much older than fourteen for one moment, and Percy hated that he'd put that expression there.
+
+"I understand you want answers," she said. "I would too. But when you disappear from the cabin, we don't know whether you're in danger or just being difficult. That's different for us than it is for you."
+
+"I didn't mean to make you worry."
+
+"Meaning to isn't the part that matters."
+
+He looked at her, then at Clarisse.
+
+"What do you want me to do?"
+
+"Start by telling somebody you're going somewhere," Clarisse said.
+
+"Someone who won't immediately tell you not to go," Percy added.
+
+Clarisse's expression became deeply unimpressed.
+
+"Try telling somebody early enough that they can come up with a better idea."
+
+Annabeth nudged Percy's ankle with hers. He didn't need the correction, but he appreciated that she wasn't joining in to make him feel foolish.
+
+"She's right," he said.
+
+"Obviously," Clarisse replied.
+
+Nico slid the sealed envelope back toward Percy.
+
+"Can we agree on one thing? No one here knows who wrote the note or why. If we find a name, we check it. We don't accuse a god, a camper or somebody's father because a stranger signed a letter A."
+
+Percy nodded.
+
+Silena looked at Annabeth.
+
+"And nobody tells a story about time being rewritten just because they found a piece of paper that mentions a thread."
+
+Annabeth's hand closed on her notebook. It was a small movement. Silena noticed, but didn't press.
+
+"We agree," Annabeth said.
+
+It was not agreement about what had happened to the two of them. It was agreement about what they could prove to the others. Percy could live with the distinction.
+
+For the first time that evening, he found himself listening to the camp around them. A door closed near the cabins. Someone called for a younger camper to come inside. The ordinary sounds made the amphitheater feel less like a secret council and more like five people who would still have chores in the morning.
+
+Clarisse was the first to move.
+
+"So," she said, "are we actually making a plan? Or is Nico going to explain envelopes until sunrise?"
+
 They divided the work before leaving. Nico would continue checking dates and approvals; Silena would ask the campers who had helped move the cabins; Clarisse would look into the hall's construction crews. Percy and Annabeth would compare what they had seen in the attic against those accounts.
 
 Nobody made a pledge to overthrow Olympus. Nobody claimed to remember a vanished universe. For the first time since Percy had begun asking questions, he had four people willing to test a theory instead of admiring it.
