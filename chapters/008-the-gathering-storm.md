@@ -192,6 +192,122 @@ She turned back, a little surprised by his answer.
 
 They agreed to ask the others what they knew before making another decision. For once, the notebook went back into Annabeth's bag without a new midnight plan written in the margin.
 ---
+Nico had taken over one end of the Hall workshop without asking anyone's permission.
+
+There were three ledgers spread across the table when Percy and Annabeth arrived, each opened to a different year. Beside them lay a folder of copied receipts and a narrow wooden case holding the damaged fitting from the storm. The fitting was sealed beneath a glass lid. Nico had written a note on the case: *Not to be handled until the ward team finishes testing.*
+
+Percy read it aloud. "You sound like Silena."
+
+"Silena made me write it. Somebody tried to pick the thing up with his bare hands yesterday."
+
+"Was it you?"
+
+"It was a counselor who ought to know better."
+
+Nico moved his notebook out of the way so Annabeth could sit. She had brought the public section of their investigation, with her more personal notes left in Cabin One. That distinction mattered more to Percy now that he'd watched how seriously Nico treated the provenance of even a damaged invoice.
+
+"We asked Chiron for an interview with the Oracle," she said. "He won't let us go into the attic until the ward inspections are finished. Have you found anything about the old transcripts that could justify an earlier review?"
+
+Nico opened the oldest ledger.
+
+"Not a reason to go in without permission. But I did find something odd about the way the transcripts are stored. They used to be copied for the camp archives as soon as Chiron approved them. After the Hall was built, the records show a second copy being sent to the Hall's custodian."
+
+"Why?" Percy asked.
+
+"Probably for the official displays. The Hall has an exhibit on the history of prophecy. A custodian would need source copies to check the inscriptions."
+
+Annabeth leaned forward. "Who signed the transfer?"
+
+"That's the odd part. The first two years have signatures from a known assistant. The last one has the custodian's seal but no name on the receipt."
+
+"Does that mean the copy was stolen?"
+
+"It means the receipt is incomplete. I'd like to ask the custodian before I make the story bigger."
+
+Percy looked down at the year. It matched the period when the prophecy records had begun disagreeing.
+
+"Could we compare the Hall's display copy with the original in the Big House?"
+
+"Only if Chiron allows it. Right now the Hall copy is in conservation because the mosaic room got flooded. The original is still with the archivist." Nico hesitated. "I did ask to see the earlier catalog. Chiron said I could check the public index but not the restricted transcripts."
+
+Annabeth made a note.
+
+"Then the public index should tell us whether there's a dated copy earlier than the one we found."
+
+"Maybe. But a catalog entry doesn't always describe what's actually in the folder. I used to think it did." Nico looked rather offended by his own discovery. "Apparently archivists make mistakes like everyone else."
+
+Zoe arrived carrying a rolled diagram, which she laid over the end of the table without disturbing Nico's ledgers. She was younger than Thalia but had the weary expression of somebody who'd been answering the same questions for two days.
+
+"I heard somebody wanted to compare the ward marks," she said.
+
+Annabeth opened her notebook to the drawing she'd made after the storm.
+
+"We saw these marks near the northern column. Are they from Hecate's protections?"
+
+"Some of them. That one isn't." Zoe pointed to three hooked strokes meeting at a circle. "The Hall borrowed a common motif from older boundary inscriptions. It means containment in several different magical traditions. You can't identify the caster from it."
+
+"Could the same symbol be used in the attic?" Percy asked.
+
+Zoe thought for a moment.
+
+"Possibly. The Oracle has protective inscriptions of her own, and the Big House is older than the Hall. You'd have to compare an actual inscription, not just a sketch, before you could say the marks were the same."
+
+Nico looked up. "We have old survey drawings from before the Hall was built. We could check whether the motif was copied into the new design."
+
+"Those surveys weren't complete," Zoe warned. "The builders changed several sections during construction. I can tell you what the motif was meant to do in the plan, but I can't promise the finished building matches it."
+
+Annabeth nodded. "That's still useful. We can compare what the design intended with what the repair team found."
+
+Percy watched them work through the drawings. Annabeth asked about line thickness and orientation. Zoe answered with a careful explanation of how protective inscriptions could look similar without being magically identical. Nico kept interrupting to ask where every measurement had been recorded and whether they could cite the actual page.
+
+It was the sort of conversation Percy normally enjoyed only when he could be somewhere else. Today he listened. They were showing him how to build an answer from things another person could verify.
+
+At the end of an hour, Nico had drawn a smaller diagram of the records chain. Zoe had identified three common ward patterns that might be mistaken for one another, and Annabeth had produced a list of questions she wanted to put to the archivist.
+
+None of it told them who had rewritten their lives.
+
+"It doesn't mean we wasted the morning," Annabeth said, as though Percy had complained.
+
+"I didn't say that."
+
+"You looked like you were going to."
+
+"I was thinking that if the Hall borrowed its symbols from the Big House, the old protection could be the useful starting point. Not because it's suspicious. Because it's older."
+
+Zoe glanced at him with new interest.
+
+"That's actually a reasonable observation."
+
+"Thank you. I'll remember this day."
+
+She ignored the joke. "If you want to learn why a symbol was copied, check the architect's design notes. But don't assume the person who copied it knew how the original enchantment worked. People have been decorating sacred buildings with symbols they no longer understand for centuries."
+
+Nico tapped the ledger. "The Hall custodian might have those notes."
+
+"Then I'll ask," Annabeth said.
+
+"You'll ask politely, right?" Percy said.
+
+She gave him a flat look. "You are enjoying this far too much."
+
+They took their questions to the Hall office. The custodian was unavailable, but the assistant promised to forward their request and showed them which catalog numbers referred to the original construction survey. It was a small success. The assistant also explained that the older transcripts were being checked for water damage and that access would be restricted until the work was finished.
+
+Percy wrote down the dates.
+
+When they left, Annabeth was walking faster than he was.
+
+"You're upset," he said.
+
+"I'm frustrated. There are answers in those files, and every person we ask has another reason why we can't see them."
+
+"Some of those reasons are good. The archive isn't a puzzle box somebody left for us to solve. There are people trying to keep it from falling apart."
+
+"I know. I hate that I know. But I still don't like waiting."
+
+He didn't tell her to be patient. She'd heard more than enough of that word since the fever, and he wasn't going to turn it into an argument about whether she had a right to want answers.
+
+They walked back toward the cabins with an appointment request, two new names and a list of catalog entries. Percy counted those as real progress. Annabeth looked at the Hall's sealed doors as though she was measuring the distance between the information they needed and the time somebody would finally let them touch it.
+---
 
 
 Past midnight, they climbed for the attic again.
