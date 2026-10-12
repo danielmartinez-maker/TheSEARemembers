@@ -17,7 +17,7 @@
 | 002 | 10,834 | Length pass |
 | 003 | 10,335 | Length pass |
 | 004 | 10,928 | Length pass |
-| 005 | 10,391 | Length pass |
+| 005 | 10,966 | Length pass |
 | 006 | 2,928 | 7,072 short |
 | 007 | 2,063 | 7,937 short |
 | 008 | 1,887 | 8,113 short |
@@ -55,7 +55,7 @@
 - Chapter 001's revised branch text already exceeded 10k.
 - Chapters 002–005 were expanded and line-edited with **new story scenes**, attention to dialogue rhythm, distinct character agency, scene causality, and the established Percabeth, Grace-sister and Poseidon-sibling relationships. See dedicated handoffs and `editorial/prose-dialogue-acceptance.md`.
 - Chapters 006–193 **have not been expanded to the 10k floor** on this branch. No quality or length certification is being claimed for them.
-- The all-offset, exact 300-word cross-chapter duplicate check was rerun on current Chapters 001–012 after edits to Chapters 002–005. No matches were found. **Not a full-manuscript originality or semantic-duplication certification.**
+- The exact all-offset 300-word cross-chapter duplicate check was rerun on current Chapters 001–012 after the latest dialogue revisions: **70,824 windows, zero cross-chapter matches**. No matches were found. **Not a full-manuscript originality or semantic-duplication certification.**
 
 ## Editorial release gate
 
