@@ -612,6 +612,14 @@ Annabeth looked back once at the amphitheater, pale stone under starlight, the d
 
 But tonight, with Percy's jacket warm around her shoulders and her friends close and the stars wheeling overhead, Annabeth thought Ella had it exactly right.
 
-Not the end of the story. Just the end of a perfect chapter.
+Annabeth returned Percy's jacket before they reached the cabins.
 
-She wished on one more falling star — quick and silent, before anyone could tell her not to — and walked home under the wide forgetting sky, while far below, the sea remembered every name.
+"Keep it," he said.
+
+"It smells like strawberries."
+
+"That's what we did all day."
+
+"I know. You can wash it."
+
+He took the jacket. She made it to the Zeus cabin steps before she turned around and saw him still holding it over one arm. He waved. She waved back and went inside to find Thalia asking who had volunteered them for next week's harvest duty.
