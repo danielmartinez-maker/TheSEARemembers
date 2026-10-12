@@ -564,75 +564,101 @@ Thalia turned onto her side. The repaired window catch held in the wind, and the
 
 It was still their cabin. For now she could bear the difference.
 ---
-By morning Thalia had decided she owed Annabeth an actual question, not another warning.
+Thalia found Annabeth in the Athena cabin before breakfast, sitting at a desk that someone had lent her for the morning. Four books lay open in front of her. One was a treatise on old Greek foundations; another had diagrams of Roman building techniques. The other two seemed to be ordinary camp maintenance logs.
 
-She found her at the borrowed desk in the Athena cabin with four books open and an apple turning brown beside her elbow.
+An apple sat untouched beside her notebook, turning brown along the cut edge.
 
-"When did you eat breakfast?" Thalia asked.
+"You know they'll kick you out of here if you leave food on the drawings," Thalia said.
 
-Annabeth looked up. "That sounds like a trap."
+Annabeth looked up. Her hair was coming out of its braid, and she'd left a gray fingerprint across the side of her neck.
 
-"It's not. I'm asking because I'm going to eat the rest of that apple if you don't want it."
+"I wasn't eating over them. I put it there to remind myself to have breakfast."
 
-"Have it."
+"That's a system with obvious flaws. How long have you been here?"
 
-Thalia took a bite, then leaned against the doorframe. "I spoke to Percy yesterday."
+"Since the Athena counselor opened the library. I've been trying to work out how old the northern Hall foundation is."
 
-Annabeth's pen stopped.
+Thalia sat on the edge of the adjoining table. She took the apple, examined the cut side and bit into the unbruised half.
 
-"You already know," Thalia said.
+"Since you've already decided not to eat it, I assume you won't mind if I do."
 
-"He told me. He was upset."
+"Go ahead. I was starting to think it had become part of the experiment."
 
-"So was I."
+The easy answer encouraged Thalia more than she wanted to admit.
 
-Annabeth closed the book nearest her. "What did you ask him?"
+She watched Annabeth compare two drawings. One showed the current foundation stones. The other was a much older plan, with fewer columns and a different path leading toward the cabins.
 
-"What he was doing with you."
+"Is this why you've spent so much time in the library?" she asked.
 
-"You could have asked me."
+"Part of it. The Hall is supposed to be three years old, but some of the older plans refer to structures that weren't there when the work started. I don't know whether they reused an existing site or copied a plan that had already been drafted."
 
-"I did. You said nothing was wrong."
+"Chiron told us the building history was incomplete."
 
-"Something is wrong," Annabeth said. "I just don't know how to tell you about it yet."
+"He did. I'm trying to figure out which part is actually missing and which part was never written down."
 
-There it was again: a locked door inside the person Thalia knew best.
+Thalia nodded toward the older map. "You can ask Zoe whether Hecate's cabin has the old construction notes. Chiron said she'd be at the Hall tomorrow."
 
-"You can tell Percy."
+"I will." Annabeth paused. "I know you think I'm being secretive again. This isn't a secret. You can look at the measurements. I'm just not ready to explain every reason I'm asking these questions."
 
-"Yes."
+Thalia felt a little ashamed. She had been about to ask whether Percy had given her the second plan, although she knew the answer would not help.
 
-Thalia wanted to ask why. Instead she looked at the notes. Architectural sketches, dates, two versions of a camp layout. One was familiar. The other had cabins arranged in an order she didn't recognize.
+"I did want to ask you something else," she said. "About our conversation last night."
 
-"Is this why you've been spending time in the library?" she asked.
+Annabeth shut the nearest book carefully. "All right."
 
-"Part of it. Some old plans don't agree with the records about the Hall."
+"When I talked about the tea, you seemed to think I was disappointed you didn't remember it. I wasn't trying to make you feel bad. I just thought it might help you remember something familiar."
 
-"Chiron knows the plans are incomplete."
+"I know. Sometimes it does. Sometimes it makes me feel as though everybody has a better memory of my life than I do."
 
-"I know. I want to understand why." Annabeth pulled the notebook closer. "I'm not asking Percy to take care of me. I'm asking him to help with something I can't work out alone."
+"Do you want me to stop telling stories?"
 
-"And you can't do that with me?"
+"No." Annabeth looked frustrated that the question kept returning. "I want to hear them. I just wish you wouldn't wait for me to tell you the ending. When I can't, you get that look on your face and then both of us pretend it wasn't a test."
 
-"Not yet." Annabeth's answer wasn't cruel. It hurt all the same. "Please don't make me choose between having your help and having a private thought."
+Thalia remembered all the little quizzes she'd invented since Annabeth's illness. She'd asked what color their first blanket at camp had been, what song Luke used to sing when it rained, which diner they'd visited on the way east. They had sounded like harmless questions. She'd been searching for evidence that her sister was still the child she knew.
 
-Thalia stared at her. Twelve years of deciding which door to lock, what food to save, and when to lie to adults had taught her to move toward trouble, not away from it. But Annabeth had asked for something she wasn't sure she could give.
+"I can stop doing that," she said. "No more surprise tests."
 
-"If this puts you in danger, I want to know," she said.
+"You don't have to stop asking me things, Thalia. You just need to tell me when something matters to you. If you say you miss a memory, I can understand that. When you pretend it's a joke and then look disappointed, I don't know what I'm supposed to do."
 
-"I will tell you what I can. I can't promise to tell you everything before I understand it myself."
+Thalia took the final bite of the apple and turned the core in her hand. The simplest answer had been sitting in front of her for weeks. She didn't enjoy admitting it.
 
-Thalia looked at the open books. "Then tell me the practical part. Are you going into the Hall? Are you meeting somebody? Is Percy asking you to do something you don't want?"
+"I miss our old routine," she said. "You'd finish my stories before I'd told them properly, and half the time you'd correct details I didn't even remember getting wrong. Now I can't tell whether the problem is your memory or whether you don't want to talk about any of it."
 
-"No. No. And no."
+"It's the memory. Mostly. Sometimes I don't want to talk because I know I'll get the facts wrong."
 
-"All right." She set down the apple core. "Then I'm going to breakfast. And you're coming to training today. You've missed two sessions."
+Thalia nodded. She couldn't make those memories return. She could at least stop making their absence another thing Annabeth had to manage.
 
-"One. Yesterday was optional."
+"Have you spoken to Chiron about it?" she asked.
 
-"It wasn't optional for your footwork." 
+"About the memory gaps, yes. He says we should keep a record of what comes back and what doesn't. I don't want to turn every morning into an examination."
 
-Annabeth rolled her eyes, but the expression was familiar enough to make Thalia glad she'd come. Neither of them apologized. They still hadn't resolved the argument. Thalia decided to live with that until dinner.
+"Then we won't. But if there's something practical I can do, I'd like to know."
+
+Annabeth thought for a while.
+
+"Would you help me label these drawings? Some of the old names for the paths don't match what people call them now. You've been at camp longer than I can remember in this life, and you'd know which ones changed."
+
+Thalia looked at the spread of papers. For once Annabeth wasn't asking for patience in the abstract. She was asking for a task with a clear beginning and end.
+
+"Give me the pencil. The eastern path was called the old orchard road before Chiron moved the supply sheds. And that mark isn't a shrine. It's the pump house they demolished when we got the new filters."
+
+Annabeth moved the notebook toward her. She asked for dates, and Thalia gave the ones she knew. When she wasn't certain, they left a blank. That proved harder than Thalia expected; she hated leaving anything unfinished where her sister might need an answer.
+
+After half an hour they had corrected three labels and identified two that needed somebody older to confirm. Annabeth was about to go on when the breakfast horn sounded for the second time.
+
+Thalia closed the notebook.
+
+"We should eat. Your beautiful experiment has been trying to turn an apple into dust for an hour."
+
+Annabeth looked toward the doorway. "I wanted to finish the map."
+
+"It'll still be here after breakfast. And you have training. You've missed enough sessions that Matt asked whether I'd started hiding you under the floorboards."
+
+"Yesterday's session was optional."
+
+"It wasn't optional for your footwork."
+
+Annabeth rolled her eyes, but she packed her bag and followed Thalia out. Neither sister pretended the previous night had been resolved. It was easier to walk together when they had finished a small piece of work that belonged to both of them.
 ---
 Thalia waited near the training ground until Percy's bout was over. She hadn't meant to seek him out again, but the question about the Hall stayed with her. So did Nico's report about Zeus's steward signing the orders for new wards.
 
