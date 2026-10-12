@@ -128,9 +128,9 @@ Annabeth smiled and kept working. The next box was all Polaroids, the colors gon
 
 "What? What?" Percy abandoned his crate and came running, trailing dust.
 
-It was a series of three photos. Thalia, maybe five or six, wearing nothing but a towel cape tied around her neck and rain boots, brandishing a stick at an off-camera enemy. In the second, the towel cape had slipped, and she was tangled in it, furious. In the third, baby Annabeth in just a diaper was copying her, wearing a washcloth cape and rain boots, both of them shrieking with laughter.
+It was a series of three old camp photos. Thalia looked about twelve, wearing a towel cape over her training clothes and holding a wooden sword at an off-camera enemy. In the second, the cape had slipped and she'd become tangled in it. In the third, Annabeth, about eight, was copying her with a washcloth tied at her shoulders while nine-year-old Clarisse pretended to fall backward from the attack. All three of them were laughing.
 
-On the back, in a different hand — young and loopy — *Super Thalia and Super Annabeth save Olympus (bath time).*
+On the back, in Chiron's rounded handwriting: *Super Thalia and Super Annabeth save Olympus. Rain-day costume contest. Cabin prizes.*
 
 Percy lost it. He laughed so hard he had to sit down on a crate. "Super Thalia! Oh man, she can never live this down."
 
@@ -164,7 +164,7 @@ Annabeth hesitated, then slid over the Super Thalia photos.
 
 Silena stared for one second. Then she made a sound like a teakettle boiling over. "No. No way. Is that—"
 
-"Thalia, age six, Bath Time Avenger," Percy announced.
+"Thalia, age twelve, Terror of Laundry Day," Percy announced.
 
 "We're dead," Annabeth said. "When she finds out we saw these, we're dead."
 
@@ -200,7 +200,7 @@ Then her ears turned bright red. All the way to the tips.
 
 "You do?" Annabeth asked quietly.
 
-"Yeah." Thalia's thumb brushed the edge of the photo. "Mom was... not good that summer. She'd left us with Chiron for a week while she went off with some guy. I was mad at the whole world. And you—" She nodded at toddler Annabeth. "You cried for two days straight. Wouldn't eat. Then Clarisse stole your cookie, and you took her wooden sword and bonked her on the head with it, and we all laughed so hard we couldn't breathe. Chiron took this right after. Said Annabeth and I looked like sisters and Clarisse looked like trouble."
+"Yeah." Thalia's thumb brushed the edge of the photo. "It rained for three days straight that summer. Mom had sent another letter she couldn't follow through on, and I was mad at everybody. You were eight. You wanted a costume contest because the games were canceled." She glanced at Clarisse in the picture. "Clarisse tried to steal your prize cookie, so you took her wooden sword and pretended to arrest her. Chiron took this right after. He said Annabeth and I looked like a patrol team and Clarisse looked like trouble."
 
 Annabeth swallowed. "Even then?"
 
@@ -222,7 +222,7 @@ Thalia shrugged, but her red ears gave her away. "I tried. Someone had to keep t
 
 "I will end you," Thalia said without heat, but she was smiling now, tucking the porch photo into her jacket pocket. "I'm keeping this one. For the record. And the cape ones go—"
 
-"Into the archive, properly labeled," Annabeth said firmly. "Thalia, Grace, age six, playing superhero with sister. With a note that says you were very brave and your cape was very red."
+"Into the archive, properly labeled," Annabeth said firmly. "Grace sisters, ages twelve and eight, plus Clarisse, age nine. Rainy-day costume contest. And a note that says you were very brave and your cape was very red."
 
 Thalia stared at her, then laughed — a real, startled laugh. "Fine. But if any copies show up on the dining pavilion wall, I'm blaming Percy."
 
@@ -232,7 +232,7 @@ Thalia stared at her, then laughed — a real, startled laugh. "Fine. But if any
 
 Grover snorted in his sleep, startling himself awake. "Wha—? I'm awake! I was sorting! I sorted... in my dreams." He sat up, blanket sliding off, scroll stuck to his cheek. "Did someone say tea?"
 
-Everyone laughed, and Silena handed him a mug. The rain pattered on. The lamp glowed. Ella carefully wrote on a fresh index card in neat pencil: *Box 7 — Thalia & Annabeth & Clarisse, little. Loved.*
+Everyone laughed, and Silena handed him a mug. The rain pattered on. The lamp glowed. Ella carefully wrote on a fresh index card in neat pencil: *Box 7 — Thalia, Annabeth and Clarisse, rainy-day game, Chiron's photo.*
 
 ---
 
