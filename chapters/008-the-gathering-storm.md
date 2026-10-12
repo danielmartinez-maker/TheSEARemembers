@@ -1,60 +1,63 @@
 ## Chapter 8: The Gathering Storm
 
-Night after night, preparation blurred into investigation.
+Percy and Annabeth stopped meeting at the lake every night after Chiron tightened curfew. That didn't stop the investigation. It made Annabeth change its schedule.
 
-By unspoken agreement, Percy and Annabeth made the lake their headquarters. After curfew they spread out what they remembered of the first timeline against what this one showed them, logging each mismatch in Annabeth's notebook until the pages filled with two columns: changed and unchanged.
+They started with a notebook at breakfast, a stack of old camp maps borrowed from the Athena cabin, and a rule neither of them particularly liked: every theory had to be separated from an observation.
 
-The changed column ran long:
+"You made this rule," Percy said, looking at the page.
 
-- Clarisse was Poseidon's daughter, not Ares's.
-- Silena was Poseidon's daughter, not Aphrodite's.
-- Thalia had never become a pine tree. She'd never joined the Hunters.
-- Annabeth was Zeus's daughter, not Athena's.
-- Nico di Angelo was at camp, alive and eight years old.
-- The Hall of the Gods existed.
-- The Tempest Hall existed.
-- The camp's layout was different.
-- The rules about big three kids had changed.
-- The gods visited more frequently.
-- Monsters were gathering on the borders.
+"Because you decided the canoe lake was connected to Atlantis when you felt a current."
 
-The unchanged column ran shorter, but it steadied them:
+"It felt different."
 
-- Camp Half-Blood still existed.
-- Chiron still ran it.
-- Mr. D still hated his job.
-- The cabins were still organized by divine parent.
-- The strawberry fields still grew.
-- The lake was still there.
-- The climbing wall still doubled as a lava fight.
+"So we write 'felt different,' not 'Poseidon linked it to the ocean.'"
 
-Then came the third category, the one that unsettled them most: events that had happened in both timelines with the serial numbers filed off. The drakon attack, for example. Both worlds had seen one — only here Thalia had killed it, not a son of Ares, and the ground, the season, the aftermath had all shifted around that fact.
+"Fine." He looked at the list. "What about Clarisse and Silena being my sisters? That's fairly observable."
 
-Annabeth tapped her pen against the page. "Like someone copied the composition and swapped every color."
+"Extremely." Annabeth wrote the names beside two sketched cabin symbols.
 
-Dividing the work helped. Percy tracked people — who was on the roster, whose file had conflicting dates, and which families the current records named. Annabeth tracked places and rules, sketching two camp maps side by side until her fingers smudged with graphite. Mosquitoes found them most nights. The lake threw back moonlight and the distant murmur of the naiads, and sometimes Clarisse's late drills echoed off the water, reminding them how thin their margin was.
+She recorded things they alone remembered from their previous life in one part of the notebook, and facts they could verify in this life in another. Clarisse had belonged to Ares in the first history Percy remembered; here she was Poseidon's daughter. Silena had belonged to Aphrodite; here she was his sister too. Thalia was not a pine tree or a Hunter but Annabeth's older sister, and Annabeth had grown up in Cabin One with a different parentage.
 
-"We need the original prophecy," she said another night, lake water lapping at the dock posts. "The stolen one. If we recover the wording before it was altered, we might learn who rewrote it."
+Annabeth drew a line under *memories*. "We can't show this page to Nico."
 
-"We already tried. That transcript was altered when we found it."
+"Or Clarisse."
 
-"Other records might exist. Chiron keeps copies. If someone changed the transcript we found, an older page might still be filed in the attic."
+"Not until we decide what we want them to know." She turned to a clean sheet. "This page we can show. The Hall was built three years ago. The camp rules changed. We found different copies of the prophecy. Those are things other people can check."
 
-Percy pulled his jacket tighter. "You want to go back up there."
+Percy watched her pencil move. They were twelve again, writing homework in an untidy notebook, except the homework concerned divine politics and their missing lives. Some things were easier to bear when broken into small tasks.
 
-"I want to read what we missed."
+Annabeth made two maps. The first came from Percy describing the camp he remembered. The second came from the plans Chiron had agreed to lend them. The differences included cabin placements, added defenses, and the new Hall. Where the maps disagreed, she wrote questions in the margins rather than answers.
 
-He frowned. "Meaning what?"
+"The Oracle," she said. "We haven't checked every old transcript in the attic. We found the note, but we didn't check the date of the copy Chiron made before the theft."
 
-"Indexes. Dated copies. Notes in the margins." She brushed pine needles off the dock. "My lightning can scorch a page. It can't tell me what used to be written on it."
+"You want to go back up there."
 
-"That sounds like a good way to get burned."
+"I want to compare copies, and I want to know why the Oracle hasn't spoken for weeks."
 
-"Name one thing we've done this week that isn't."
+"Chiron told us not to go into the archives alone."
 
-He had no answer for that.
+"He told us he was investigating the records. We need to ask again before we do something stupid."
+
+Percy raised an eyebrow.
+
+"Yes," she said. "I know what I just said."
+
+They made a plan that was, on paper, much better than breaking in. The trouble was that the answer they received from the Big House that afternoon was no: Chiron was busy with border patrols, and the attic remained restricted.
+
+Annabeth crossed out *ask politely* and tapped her pencil against the page.
+
+"We tried," she said.
+
+"Technically."
+
+"Are you coming?"
+
+Percy looked toward the Hall. The damaged columns were wrapped in canvas; two Hephaestus campers were arguing about the proper size of a replacement bracket. He didn't like the idea of a fourth nighttime visit. He liked even less the idea of leaving Annabeth to make one by herself.
+
+"We go together," he said. "And this time we leave the records where we find them."
 
 ---
+
 
 Past midnight, they climbed for the attic again.
 
@@ -127,11 +130,11 @@ The voices thinned. The door shut. Darkness resettled, smelling of dust and lemo
 
 Percy counted his own heartbeats to five hundred before he moved.
 
-"Silent," Annabeth murmured. "No new prophecies because she *can't* issue them."
+"Silent," Annabeth murmured. "No new prophecies. We don't know whether she can't or won't."
 
 "Or won't. Maybe she knows something she can't afford to say aloud."
 
-"Either way it threads together. Stolen wording, rewritten history, monsters stacking at the borders — one hand pulling all three strings."
+"There might be a connection between the records, the silent Oracle, and the monsters at the border. But we still don't know if one cause explains all three."
 
 "And we're sitting in the middle of the web."
 
@@ -157,99 +160,81 @@ Far off, thunder worked its way along the hills.
 
 Rain was gathering.
 
----
-
-By morning the sky had cleared, and Clarisse found Percy at the Tempest Hall.
-
-She was cutting laps, each stroke churning the lane to foam. Chlorine burned the air. When she spotted him she hauled herself onto the coping, water sheeting off her shoulders onto the concrete.
-
-"What do you want, prince?"
-
-"A conversation."
-
-"About?"
-
-"Who could rewrite a timeline."
-
-Curiosity edged out irritation on her face. "That's a good way to get buried."
-
-"Asking anyway."
-
-She studied him, droplets tracking down her jaw, then jerked her chin toward the door. "Not here. The walls repeat everything."
-
-Out past the training grounds, where pine shade swallowed camp noise and needles hushed their steps, she halted with arms crossed. A jay scolded from high branches. The salt-tang of the nearby forge drifted through, cut with pine resin.
-
-"Who can rewrite time?" She repeated it flatly. "That's not a demigod question. That's an Olympian one."
-
-"Gods don't remodel without a motive. Motives usually have a mortal address. Someone asked. Someone paid."
-
-"You think this started with one of us?"
-
-"I think one of us helped turn the key. Pawn or partner, somebody mortal set it moving."
-
-Clarisse chewed the inside of her cheek. "One person knows prophecies the way you know water. Has the gods' ear."
-
-"Name them."
-
-"Zoe Nightshade. Daughter of Hecate. Longest tenure at camp. She can lecture on fate mechanics in her sleep." Clarisse lowered her voice. "And since the changes started, she's gone sideways. Secretive. Hovering around you big-three types. Living in the Hall of the Gods."
-
-"Sideways how?"
-
-"Closed doors. Cancelled lessons." A beat. "She's the one who fed you the stolen-prophecy story, isn't she?"
-
-Percy's gut tightened. "Yeah."
-
-"Then consider: maybe she wanted you looking. Maybe you're her bloodhound."
-
-"Or maybe she's throwing us rope."
-
-"Maybe." Clarisse's mouth thinned. "Only be careful, Percy. What Zoe shows isn't all Zoe is. If she's tangled in this, she's more dangerous than she looks."
-
-He nodded. "Thanks."
-
-"Don't." She was already turning back toward the noise of the hall. "I'd rather be wrong with you breathing than right with you in the infirmary."
-
-She left him among the pines with that to sort through.
-
-Zoe Nightshade. Daughter of Hecate. Informant, warning bell — what else? Helper, obstacle, or something with teeth?
-
-He needed an answer.
-
-He needed it before the sky broke open.
 
 ---
 
-At dusk he found Annabeth at the lake, skipping stones that sank after one hop. Her notebook lay closed beside her, its elastic band holding back pages that fluttered in the evening breeze. She looked up with the preoccupied squint she got when a design refused to resolve.
+By morning, Clarisse found Percy helping replace a weapon rack at Tempest Hall. She waited until the instructor walked away before speaking.
 
-"Chiron talked," she said before he sat down. "After I ambushed him outside the armory. He admitted the silence lines up with the theft. Someone shut her up three years ago, right when the prophecy vanished."
+"You smell like attic dust," she said.
 
-"Did he give a name?"
+"Good morning to you too."
 
-"No. He looked like he wanted to hand me something too heavy to carry alone."
+"Chiron doubled curfew. Somebody's been leaving footprints under the Big House windows anyway."
 
-"So he knows and can't say it."
+Percy set down the bracket. "You watching the windows?"
 
-"Chiron, who's trained heroes since before Rome had sewers, who buries kids every decade and keeps going — he knows, and his mouth is wired shut."
+"Somebody has to. Nico's watching the records. Silena's finding out who got paid to fix the Hall. I'm watching our idiot little brother so he doesn't get himself expelled before he's learned where the clean towels go."
 
-Percy toed a pebble into the shallows. "So what's the move?"
+"I haven't been expelled."
 
-"We break it. We go back, we wake her, we ask what she's choking on."
+"That is not an achievement yet."
 
-"That paints a target on us."
+He turned the bracket over in his hands. He wanted to tell her why the prophecy mattered so much. If he did, he'd have to explain the memories he and Annabeth had already agreed to keep between themselves. Clarisse had been his sister for three weeks. Her concern was genuine. It wasn't a reason to hand her something that could frighten her for the rest of her life.
 
-"I know. It's still our best door, maybe our only one."
+"What do you know about Zoe?" he asked instead.
 
-She was right. The Oracle remained the single source they hadn't fully pressed. If they coaxed her into speech, the rest might untangle.
+Clarisse frowned. "Why?"
 
-The risk sat beside that logic, large and unblinking: whoever had gagged her was still within these borders. Asking questions would echo.
+"She was the first person who told me about the missing prophecy."
 
-"Okay." He met her eyes. "Tomorrow night, then."
+"She knows the Hall's wards better than most counselors. Hecate kids study that kind of thing. She's spent a lot of time around the Hall since it opened, and she's been quiet since the break-in."
 
-"Tomorrow night."
+"You think she's responsible?"
 
-They sat while the sun dropped and bled orange across the chop. Far out, heat lightning flickered without sound.
+"I think she has a reason to care. That isn't the same thing." Clarisse took the bracket from him and held it against the post. "Hold that steady."
 
-The weather was nearly upon them.
+Percy obeyed.
+
+"If you're going to ask questions about her, ask Nico what he's found," she added. "And maybe ask Zoe herself. You're good at guessing motives from somebody's face. Doesn't mean you're right."
+
+Percy started fastening the bracket. "Did Silena tell you to say that?"
+
+"She said I should use fewer threats."
+
+"Did it work?"
+
+"I'm trying." Clarisse took the wrench back before he could strip the bolt. "Now get out of the way."
 
 ---
 
+At dusk, Annabeth found Percy on the dock reviewing their notes. The night before, the Oracle's mist had gathered around the chair without producing a new prophecy. They had found a dated copy in Chiron's handwriting, not an explanation.
+
+"I spoke to him," she said.
+
+"To Chiron?"
+
+"He confirmed the Oracle has been silent for three weeks. He wouldn't say whether he thinks that's connected to the stolen prophecy from three years ago."
+
+"That's not quite the same as knowing someone's stopped her from speaking."
+
+"I know. I hate it." Annabeth sat beside him. "We have two things now: an older copy and a pattern of silence. Both matter. Neither tells us the rest."
+
+Percy closed the notebook. "So what now?"
+
+"We try asking her directly, with Chiron there if we can persuade him. If that fails, we'll decide whether going back at night is worth it."
+
+"That sounds suspiciously sensible."
+
+"You make me sound ill."
+
+He nudged her shoe with his. "I like you sensible. I also like you when you're sure everyone else is wrong."
+
+"That's most of the time."
+
+"I noticed."
+
+She leaned her shoulder against his, just for a moment. Then she stood and took the notebook.
+
+"Come on. Curfew. We can get arrested tomorrow."
+
+They made it back before the horn. Percy counted that as an achievement.
