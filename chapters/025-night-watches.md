@@ -926,4 +926,4 @@ He went into the cabin, set his alarm for the map delivery and fell asleep befor
 
 By morning, the new patrol team would have its routes, whistles and records. Percy couldn't control whether monsters moved near the border in the following week. He could control whether the next group had to repeat mistakes his own group had already made. It was an ordinary responsibility, and he had learned to value it more than the thrill of imagining a threat he might be able to defeat.
 
-Silena checked the lantern oil one last time, then closed the cabinet. Outside, the path was finally quiet.
+Silena checked the lantern oil one last time, then closed the cabinet. Outside, the familiar path was finally quiet.
