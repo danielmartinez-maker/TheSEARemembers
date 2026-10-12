@@ -1,6 +1,5 @@
 ## Chapter 19: The Brother Across the Country
 
-### Thalia
 
 Thalia Grace woke up knowing something was going to happen.
 
@@ -86,7 +85,6 @@ He moved on to announcements about chariot maintenance and archery rotations, bu
 
 ---
 
-### Annabeth
 
 Annabeth had a set of memories and a set of stories about little brothers, and they did not fit together, and today they were grinding against each other like tectonic plates.
 
@@ -166,7 +164,6 @@ Practice ended and she went to find Percy, because when her head got too loud, P
 
 ---
 
-### Percy
 
 Percy found Annabeth by the lake, doing what she always did when she was thinking too much — throwing pebbles and muttering about architecture.
 
@@ -312,7 +309,6 @@ Silence.
 
 ---
 
-### Thalia
 
 Thalia walked out of the Big House and kept walking until the night air could hold her.
 
@@ -406,7 +402,7 @@ Later, when the picture was done and propped up to dry, Annabeth walked down to 
 
 "Do you think he'll remember next time?" Annabeth asked quietly. "Not the old stuff. Just — us from last night. Do you think ten-year-olds remember Iris-messages?"
 
-"I remember everything important from when I was seven," Percy said. "I remember Sally making blue cookies when I was sad in my original childhood. I remember the exact smell of the ocean at Montauk. I remember deciding I hated olives." He grinned. "He'll remember. How could he forget Percy-with-stupid-hair?"
+"I remember things from when I was seven," Percy said. "I remember Sally making blue cookies when I was sad in my original childhood. I remember the exact smell of the ocean at Montauk. I remember deciding I hated olives." He grinned. "He'll remember. How could he forget Percy-with-stupid-hair?"
 
 Annabeth smiled, leaning against him. "Thank you for being there. For both of us."
 
@@ -424,9 +420,4 @@ It wasn't enough. It would never be enough until the distance closed.
 
 But for now, it was a start.
 
-And the sea remembered, even when the sky forgot — and tonight, both were watching over two camps, and a brother across the country who was loved on both coasts.
-
-*End of Chapter 19*
-
----
-
+And the sea remembered, even when the sky forgot — and tonight, both were watching over two camps, and a brother across the country who was loved by people he was still learning to know.
