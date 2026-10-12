@@ -772,6 +772,112 @@ They did not try to remember it together. Thalia stayed until the healer told he
 
 ---
 
+By late afternoon, Percy had been cleared to leave the infirmary with instructions to avoid strenuous training until the shakiness in his arms settled. He came down the porch steps to find Clarisse waiting with the evacuation count on her lap.
+
+Silena had already gone back to stores. There were dressings to inventory and lanterns to return, and her work had been interrupted twice by people who assumed that because the immediate danger was over, every borrowed item could simply be dropped wherever it was convenient.
+
+"Sit," Clarisse said.
+
+Percy sat on the step beside her.
+
+"Are you going to yell?"
+
+"Not yet. I'm deciding what to yell about."
+
+"That sounds promising."
+
+She placed the clipboard between them. The final count contained the names of every camper who had reached the Big House safely. Below the last line was a separate list of counselors and staff who had remained on duty near the Hall.
+
+"That's your group," Clarisse said, pointing to a checked entry. "You were supposed to help Silena count them before we moved anyone."
+
+"I know."
+
+"Then why were you inside the building?"
+
+"Thalia went toward the door, and it looked like she was going to get hurt. Chiron called us over when the ward started drawing in pressure. I thought I could help keep the water off the floor."
+
+"You did help with the water. That's not the question."
+
+Percy looked at her. He had been waiting for somebody to say that his contribution justified the decision. Clarisse refused to give him the easy version.
+
+"Did anyone check whether Silena still had enough people to move the pavilion group when you left?" she asked.
+
+"I didn't."
+
+"Did you tell your counselor where you were going?"
+
+"No. I told you I'd stay with Chiron."
+
+"Which is not where you were assigned."
+
+He turned the pencil over in his hands. "You're right."
+
+"I know I'm right. I had twelve children on the path, one fallen post and a little girl who thought her brother was still in the building. I didn't have time to count you missing as well. Silena had to do your part of the headcount while she was already managing two other groups."
+
+Percy thought of Silena with the clipboard, correcting his invented quantities when he was too tired to think. He had promised her that morning to remain at the pavilion. She would have trusted him to be there until somebody officially changed his assignment.
+
+"I need to apologize to her."
+
+"You do. And you need to help with the next drill, not by coming up with a clever new plan but by doing the exact job you're given."
+
+He could accept that. It was easier than facing the fact that his choice had put work onto people who were already frightened.
+
+Clarisse watched him for a moment. "You know I wasn't asking you to ignore Annabeth if she was hurt."
+
+"I know."
+
+"I was asking you to tell somebody before you disappeared. If she'd been the one who went into the Hall without telling you, you would have been furious."
+
+He could imagine it so clearly that the reply took a while.
+
+"Yes," he said.
+
+"Good. Then don't make the rest of us live by rules that only apply when you're the one waiting."
+
+She stood and offered him her hand. The gesture surprised him. He took it and let her pull him up, though his legs didn't need much help. There was no sudden forgiveness in the movement, just a sister who had finished making her point and still expected him at dinner.
+
+"Silena's at stores," Clarisse said. "Go tell her."
+
+Percy found her sitting beside the shelf of medical supplies, reconciling the opened packets against the invoices she'd signed in the morning. She looked up when he entered and put down her pencil before he began speaking.
+
+"I'm sorry I left the pavilion without telling you," he said. "You had to finish the group count because I wasn't where you needed me."
+
+"I did."
+
+"Clarisse showed me."
+
+"She was very worried."
+
+"She disguised it with threats."
+
+"She's efficient that way."
+
+Silena turned back to the ledger. Percy waited. He understood she might not feel like reassuring him simply because he'd apologized.
+
+"If you want to help," she said after a moment, "I need those used supply bags sorted. Anything contaminated stays sealed. Anything unopened gets returned to stock. Then we can see what we need for tomorrow."
+
+He went to work. It was a dull task, but he was glad she had given him something concrete. She explained how to distinguish a used packet from one whose seal had merely been damaged, and he made a separate pile for items the healers would have to approve before reuse.
+
+After a while she said, "I'm not angry you wanted to protect Annabeth. I know how much she matters to you."
+
+"I promised I'd stay."
+
+"You did. When you couldn't keep the promise, somebody needed to know."
+
+He looked at her. "I will next time."
+
+"Good. We'll see."
+
+They sorted the last bag together. Silena didn't offer him immediate absolution, and Percy didn't ask for it. He finished the inventory, signed his name beside the returned items and carried the filled water pouches back to the infirmary.
+
+On the way, he passed the revised route board. A notice had been added beneath the assignments: *Changes in duty position require confirmation from the supervising counselor.* It was a rule he'd helped make necessary. He read it all the way through before going on.
+
+That evening the pavilion served a late meal for the campers who had spent the afternoon waiting at the Big House. Percy helped carry the bread baskets and made sure the younger children received dinner before the exhausted counselors took their own places. He wanted to sit with Annabeth at the lake, but he could wait until the supplies had been put away. It wasn't a grand sacrifice. It was one of the things he'd promised Silena when he moved into Cabin Three: he'd try to be a brother people could depend on, not only a person who arrived when a disaster required a sword.
+
+
+
+---
+
 They met by the lake that evening, after Chiron had assured them that the Hall was closed and the fragment from the drain was locked away.
 
 Zoe had not identified its maker. Breaking the mark had interrupted the surge; it had not explained the altered records, the changed families, or their return to twelve.
