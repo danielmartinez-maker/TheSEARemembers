@@ -1,6 +1,5 @@
 ## Chapter 24: The Climbing Wall
 
-### PERCY — Morning of Lava Day
 
 Percy Jackson woke up knowing two things.
 
@@ -86,7 +85,6 @@ And now they were on opposite teams on lava day, with the whole camp watching.
 
 ---
 
-### ANNABETH — Strategy and Static
 
 Annabeth Grace loved plans the way Percy loved water.
 
@@ -176,7 +174,6 @@ Annabeth cleared her throat and stood up, tucking the tablet under her arm. "Com
 
 ---
 
-### SILENA & ZOE — Live From the Top
 
 "Testing, testing! Hi, everyone! Can you hear me?"
 
@@ -240,7 +237,6 @@ He blew the whistle.
 
 ---
 
-### GROVER — Hooves and Heart Attacks
 
 Grover Underwood had decided, approximately four seconds into the climb, that he hated the climbing wall.
 
@@ -290,7 +286,6 @@ Percy moved.
 
 ---
 
-### THALIA — Showtime
 
 Thalia Grace lived for this stuff.
 
@@ -372,7 +367,6 @@ Thalia filed that away. For later. For maximum teasing.
 
 ---
 
-### CLARISSE — Trash Talk Titan
 
 Clarisse La Rue had three great loves in life: her spear, her little half-brother Percy (though she'd deny it if asked), and talking trash so epic it made grown monsters cry.
 
@@ -452,7 +446,6 @@ Grover stared. "You are both nerds. You're just nerds about different things. Yo
 
 ---
 
-### PERCY — Water Sense
 
 Halfway up, the wall stopped being a wall and started being a puzzle made of heat and noise.
 
@@ -508,7 +501,6 @@ She knew he'd known.
 
 ---
 
-### ANNABETH — She Knows That He Knows
 
 Annabeth Grace prided herself on not being surprised.
 
@@ -594,7 +586,6 @@ Thalia burst out laughing so hard she almost fell off. "OH MY GODS! YOU EVEN YEL
 
 ---
 
-### SILENA & ZOE — The Final Stretch
 
 "Okay, folks, we're in the final minute!" Silena announced, leaning so far over the platform rail that Zoe had to grab the back of her shirt. "Team Red is in the lead thanks to Clarisse's absolutely feral final push, but Team Blue is closing fast! Percy is climbing like he's part fish, part spider monkey!"
 
@@ -652,7 +643,6 @@ Until he looked up and saw Annabeth walking toward him.
 
 ---
 
-### PERCY & ANNABETH — The Knowing
 
 The crowd was still cheering, but it sounded far away.
 
@@ -724,7 +714,6 @@ Silena's voice floated down from the tower: "Group hug! Group hug! Zoe, they're 
 
 ---
 
-### EVERYONE — The Lake
 
 There is only one cure for lava-wall sweat, melted sneakers, singed hair, and a race you want to argue about for hours.
 
@@ -816,11 +805,8 @@ Percy closed his eyes and floated.
 
 Beside him, Annabeth floated too.
 
-And for once, Thalia — watching from the dock with Clarisse, both of them dripping and grinning — let the moment be.
+And for once, Thalia, watching from the dock with Clarisse, was dripping wet and grinning. She let the moment be.
 
 No teasing. No storm. Just: *Huh. Look at them.*
 
 She laughed it off, shook her head, and jumped back in.
-
----
-
