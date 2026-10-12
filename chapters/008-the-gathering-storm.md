@@ -308,6 +308,204 @@ He didn't tell her to be patient. She'd heard more than enough of that word sinc
 
 They walked back toward the cabins with an appointment request, two new names and a list of catalog entries. Percy counted those as real progress. Annabeth looked at the Hall's sealed doors as though she was measuring the distance between the information they needed and the time somebody would finally let them touch it.
 ---
+Annabeth was sitting on the floor of Cabin One when Thalia came back from the evening patrol.
+
+She had spread three large sheets of paper beside the bed so she could compare the Hall's new layout with the older survey without bending her injured fingers around a pencil for too long. Her hand was getting better. The healer had removed one bandage that morning and told her to leave the other until the skin stopped pulling when she closed her fist.
+
+Thalia closed the door behind her and stepped carefully around the papers.
+
+"Did I miss the part where our cabin became the records office?"
+
+"You're welcome to reclaim the floor if you can help me move the drawings without folding them."
+
+Thalia set her spear on its hooks and crouched beside the nearest page.
+
+"Is this the map we worked on the other day?"
+
+"Some of it. Nico found a public index showing how the prophecy records were copied after the Hall opened. The original was supposed to stay in the Big House, but there was also a display copy sent to the new custodian. I want to check which drawings belong to the original construction and which were added later."
+
+Thalia traced the edge of one diagram with a finger, careful not to smear the pencil.
+
+"Why do you need that for the Oracle?"
+
+"Because some of the ward marks appear in both places. Zoe says they're common motifs. I want to know whether the Hall borrowed the pattern from the Big House or whether both buildings are using a much older design."
+
+"That sounds like something she'd know."
+
+"She knows what the motifs mean in the plans. She doesn't know who installed every piece or whether the drawings match what's there now."
+
+Thalia sat back against the bedframe.
+
+"You're doing the thing where you list all the missing information until somebody offers to help you get it."
+
+Annabeth looked up.
+
+"I wasn't trying to make you volunteer."
+
+"I know. I'm telling you I can hear how frustrated you are without pretending I can solve it."
+
+Annabeth smoothed the edge of a page. The reply was a little different from the ones she'd grown accustomed to hearing from Thalia, and she didn't quite know what to do with it.
+
+"I asked Chiron for supervised access to the attic," she said. "He said no until the inspections are finished. That could be days."
+
+"Have you asked for a specific appointment instead of a general permission?"
+
+"Yes. The secretary said he'd forward it."
+
+"Then let me talk to Chiron tomorrow. I won't ask him to open the attic just because we want to look around. But maybe he'll let us inspect one catalog entry at a time with the archivist there."
+
+Annabeth felt a small, irrational surge of annoyance. Percy had suggested nearly the same thing that afternoon. She knew it was sensible, and she hated how easily other people could say it when they weren't carrying memories of a future that nobody else could remember.
+
+"You make it sound like I haven't tried," she said.
+
+"I don't think that. I think you get so focused on the thing you're missing that you stop counting everything you've learned while you were looking."
+
+Annabeth nearly laughed. It was a strange thing to hear from Thalia, who had spent years deciding that anything she couldn't control was a threat. She wondered whether the ward accident had frightened her sister enough to make her more cautious or whether the evacuation drill had taught them both something about acting on information rather than fear.
+
+"Did Clarisse put you up to that?" Annabeth asked.
+
+"Clarisse thinks I should use fewer speeches and more practice drills. She may have a point."
+
+"She usually does, when she's talking about practical things."
+
+Thalia pointed to the copy of an older camp plan. "I still don't understand where that one came from."
+
+Annabeth looked down. It was the same drawing she'd been unable to explain in the previous chapter. She had brought it out again because she needed to compare it with the public survey, but she hadn't thought about what Thalia might ask.
+
+"I know," she said. "I'm sorry. I didn't mean to put it where you'd see it and then refuse to answer questions."
+
+"Then why is it here?"
+
+"Because I trust you not to take my notebook apart looking for answers I can't give you. I can't do this work if I'm always afraid you might come into the cabin and read everything while I'm out."
+
+Thalia's face tightened.
+
+"Have I ever done that?"
+
+"No. You haven't. I'm telling you I appreciate it."
+
+Annabeth had chosen the words carefully. She wasn't going to hand Thalia a lie about the old map. She also wasn't going to pretend there were no consequences to keeping it.
+
+Her sister looked at the drawing again.
+
+"You keep saying this is about more than the Hall. I believe you. But I don't want to find out what it is because some monster makes you tell me while you're hurt."
+
+"Neither do I."
+
+"Then promise me you won't go into the attic alone."
+
+Annabeth's first instinct was to say yes and let Thalia think the matter settled. She looked at the page in her lap instead.
+
+"I can promise not to go alone. I can't promise I won't ever need to go back."
+
+Thalia noticed the difference immediately.
+
+"Annabeth."
+
+"I said I'd ask for permission first. I did. I asked for an appointment. I'm still asking other people for records they can share. But I won't promise that if everything keeps getting delayed, I'll stop caring about the Oracle."
+
+"That's not what I asked."
+
+"You're asking me to promise something I don't know I can keep."
+
+Thalia stood. For a moment Annabeth thought they were about to have another argument ending with a slammed door. Instead her sister walked over to the window and checked that the latch was secure.
+
+"I wish you'd talk to me before you make the decision," Thalia said at last. "Even if you think I'll disagree. I don't want the first thing I hear about another trip to be Chiron telling me you've been caught."
+
+Annabeth didn't know how to give her everything she wanted without promising a future she might not be able to deliver.
+
+"I'll try," she said.
+
+Thalia looked over her shoulder. "That sounded carefully worded."
+
+"It was."
+
+"I'll take it for tonight."
+
+She came back to the floor and helped Annabeth stack the drawings in order. The pages were too large for the little desk, so Thalia found a piece of spare cardboard and slid it beneath the stack. Annabeth wrote the catalog numbers on the top sheet while her sister held it steady.
+
+"Does your hand still hurt?" Thalia asked.
+
+"Only when I grip the pencil too tightly."
+
+"Then stop doing that for the rest of the evening."
+
+Annabeth looked at her.
+
+"You can say that without starting a war," Thalia added. "I'm not taking the pencil away."
+
+"I was about to say I agree with you."
+
+Thalia appeared genuinely surprised.
+
+"Well. That's a pleasant change."
+
+They put the drawings away. Annabeth left the public catalog on the desk and the private notes beneath her mattress. Thalia did not ask what was in the second notebook. She was learning to let the question sit there without making Annabeth answer it every time she came home.
+
+After dinner, Annabeth found Percy near the practice yard, working on the last of the repairs his instructor had assigned. He had a screwdriver in one hand and was trying to steady a board with his knee while a younger camper held the other end.
+
+"You're doing that the difficult way," she said.
+
+"That's because I'm trying to finish before somebody changes the instructions again."
+
+The younger camper laughed and held the plank straighter. Percy tightened the screw, checked that the rack didn't wobble and passed the screwdriver back to its owner.
+
+He followed Annabeth away from the tools.
+
+"You look as though you've been talking to Thalia."
+
+"I have. She offered to ask Chiron for a supervised look at the records tomorrow."
+
+"That sounds good."
+
+"It is." Annabeth hesitated. "I also told her I couldn't promise never to go into the attic again."
+
+Percy stopped beside the fence.
+
+"Are you thinking about going tonight?"
+
+"I don't know. I want to check the earlier transcript before the catalog is moved into conservation. The archive index says the original should still be in the attic, and I think there's a chance the dated copy Chiron made is filed with the older patrol records."
+
+"That's a reason to ask for the record tomorrow, not necessarily to climb through a window tonight."
+
+"I know. But I keep thinking about Chiron saying the Oracle's been silent for three weeks. What if something happens before we get permission?"
+
+Percy put both hands on the fence rail. The bandage on his forearm had been reduced to a small dressing, but he could still see the red mark beneath it. He'd been very sure of what he was doing when he ran toward the Hall, and he'd discovered that certainty wasn't the same thing as a safe plan.
+
+"If we go back," he said, "we leave the Oracle alone. We look only for the earlier copy, and if anything feels wrong, we get out. No touching wards, no experimenting with the chair. I don't want to repeat what happened in the storm."
+
+Annabeth nodded. "Agreed."
+
+"And we should leave somebody a note about where we're going. Not the whole story. Just enough that if we don't come back, somebody knows where to look."
+
+"Thalia would come after us the moment she found it."
+
+"Then maybe that's a reason to think harder about whether we're doing something sensible."
+
+She studied him. He wasn't refusing to help her, but he wasn't willing to let the decision happen just because she was frightened. That made her both irritated and grateful.
+
+"Can we at least look at the public catalog once more before curfew?" she asked. "If the entry isn't there, we'll have to wait."
+
+"That's a plan I can agree to."
+
+They went to the Athena cabin. The catalog entry was there, but its description was incomplete: a bundle of patrol reports filed near the year of the stolen prophecy, with Chiron's private notes listed separately. The bundle was due to be moved into protected storage the following morning. The date caught Annabeth's attention.
+
+"That's the only place the earlier margin copy could have survived," she said.
+
+"Or it could be a bundle of ordinary reports."
+
+"Yes. But after tomorrow, we might not be able to compare it with the other copy without another formal request."
+
+Percy read the catalog entry twice, trying to decide whether the time pressure was real or simply the result of a storage procedure. In the end he agreed to one limited trip, not because the rules had stopped mattering, but because he knew Annabeth would keep looking until she found a way to answer the question.
+
+They made the plan carefully. They would go after the midnight patrol passed, take a shaded lamp, copy only what they found and leave the originals in place. Percy would watch the corridor while Annabeth checked the indexed bundle. If they heard anyone coming, they would leave through the window instead of hiding among sacred objects and hoping nobody noticed them.
+
+They wrote a note with the time and location and sealed it in a plain envelope addressed to Chiron. Percy kept it inside his jacket. If they got caught, he wanted to be able to hand it over and say exactly what they'd been doing.
+
+The plan did not make the trip right.
+
+It made them accountable for the decision, at least to each other.
+---
 
 
 Past midnight, they climbed for the attic again.
