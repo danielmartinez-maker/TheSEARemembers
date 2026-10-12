@@ -41,15 +41,15 @@ Percy looked at the buoy bobbing about a hundred yards out. For him, that was �
 
 Annabeth was sitting at the end of the dock with Thalia, legs dangling over the edge, already watching. She raised one eyebrow. *Be careful*, that eyebrow said.
 
-Right. Hold back. Big rule for today. Chiron had pulled him aside that morning while Percy was pulling on his swim trunks. "Percy, a word. I know what Atlantean children can do in water. Today, I need you to be —" Chiron had searched for the word, "— approximately as talented as a reasonably athletic twelve-year-old from Ohio."
+Right. Hold back. Big rule for today. Chiron had pulled him aside that morning while Percy was pulling on his swim trunks. "Percy, a word. I know what Atlantean children can do in water. Today, I need you to be —" Chiron had searched for the word, "— careful not to use divine propulsion against the other swimmers. Let the race be about your own strokes."
 
-"I can do Ohio," Percy had said solemnly.
+"I can swim without calling the current," Percy had said.
 
-"Twelve-year-old from Ohio who took *one* summer of swim lessons," Chiron clarified.
+"If you don't know the technique, ask for instruction instead of using magic to disguise the difference," Chiron clarified.
 
-"Got it. Mediocre Ohio."
+"Got it. No magical shortcuts."
 
-"Please lose at least once today, Percy. Graciously."
+"Win if you can, lose if you don't. But race honestly. The other campers deserve that."
 
 So Percy stepped up to the edge of the dock, toed the splintery wood, and tried to remember everything he'd ever seen about how surface kids started races. They crouched? They dove? In Atlantis you just tipped forward and let go.
 
@@ -61,35 +61,35 @@ So Percy stepped up to the edge of the dock, toed the splintery wood, and tried 
 
 Percy dove.
 
-And immediately knew he'd messed up, because his body wanted to do the Atlantean arrow — arms pinned, spine straight, no splash — and he had to force himself at the last second to do a messy human belly-flop that stung his whole front and sent water up his nose.
+And immediately knew he'd messed up, because his body wanted to do the Atlantean arrow — arms pinned, spine straight, no splash — and he tried to adjust into a surface dive at the last second and managed a messy belly-flop that stung his whole front and sent water up his nose.
 
 Laughter erupted on the dock. Clarisse cackling loudest. "NICE FORM, SQUID!"
 
-Zoe was already three strokes ahead, doing a clean freestyle that ate up the distance. Percy scrambled after her, forcing himself to kick from the knees like he'd seen in swim class, forcing himself to *breathe* every three strokes even though his lungs could have gone another ten minutes easy.
+Zoe was already three strokes ahead, doing a clean freestyle that ate up the distance. Percy scrambled after her, trying to kick the way he'd seen surface swimmers do, remembering to *breathe* every three strokes even though his lungs could have gone another ten minutes easy.
 
 It was weirdly hard. Like trying to write with his wrong hand on purpose.
 
-He let Zoe stay half a body ahead all the way out. At the buoy she slapped it and turned, droplets flying, grinning fierce. Percy slapped it a second later, made his turn wide and sloppy on purpose, and then on the way back he let his control slip just a little — just enough to feel the water answer him, just enough to glide.
+Zoe stayed half a body ahead all the way out. She used the surface stroke far more efficiently than he did. At the buoy she slapped it and turned, droplets flying, grinning fierce. Percy slapped it a second later and made his turn too wide. On the way back he felt the familiar temptation to let the current carry him, then made himself finish with ordinary strokes.
 
-He remembered at the last second and slowed, letting Zoe touch the dock ladder first by a full two seconds.
+He managed a faster final length, but Zoe touched the dock ladder first by a full two seconds.
 
 The dock exploded.
 
 "ZOE! ZOE! ZOE!"
 
-Zoe hauled herself up, panting, and stared at him as he clung to the ladder. "You let me win."
+Zoe hauled herself up, panting, and stared at him as he clung to the ladder. "You could have used the current."
 
 "What?" Percy sputtered, lake water dripping off his nose. "No way. You're fast. That turn was — you're really fast."
 
-"You hesitated at the buoy," Zoe said, eyes narrow. Not angry, just sharp. Huntress sharp. "You slowed down."
+"You hesitated at the buoy," Zoe said, eyes narrow. Not angry, just sharp. "You were about to use a different stroke."
 
-"I got water up my nose," Percy said, which was true, and tapped the side of his nose for effect. "Ohio swim lessons. Only one summer."
+"I nearly used my power," Percy admitted. "Then I remembered the rules. You turned faster than I did."
 
 Zoe stared at him for another beat, then laughed and held out a hand to haul him up. "Fine. Rematch after lunch. No excuses."
 
 "You're on," Percy said, and when his feet hit the dock he glanced toward Annabeth.
 
-She was laughing into her hand, shoulders shaking. Thalia was grinning. And Annabeth mouthed, very clearly, *Ohio.*
+She was laughing into her hand, shoulders shaking. Thalia was grinning. And Annabeth mouthed, very clearly, *No shortcuts.*
 
 Percy grinned back before he could stop himself, and quickly turned it into a cough.
 
@@ -112,7 +112,7 @@ Underneath he'd written:
 
 He tapped his pencil against number five.
 
-The thing was, everyone at Camp Half-Blood had a thing they were supposed to want. Clarisse wanted to be a warrior — obviously, she already was. Silena wanted to run the infirmary and the arts cabin and basically everything involving making people feel better. Zoe wanted to hunt with — well, Zoe got quiet when people asked, but it was something about stars and sisters and the wild. Nico wanted to learn every myth ever written and then correct people about them. Ella wanted to memorize the whole library and then add snacks to it.
+The thing was, everyone at Camp Half-Blood had a thing they were supposed to want. Clarisse wanted to be a warrior — obviously, she already was. Silena wanted to run the infirmary and the arts cabin and basically everything involving making people feel better. Zoe wanted to study warding with her mother's cabin and spend enough time away from camp to learn which old rituals still worked. She went quiet when people asked where she'd go first. Nico wanted to learn every myth ever written and then correct people about them. Ella wanted to memorize the whole library and then add snacks to it.
 
 And Annabeth — Annabeth wanted to build things that lasted. You could see it in the way she looked at buildings, like she was seeing the bones underneath. Thalia wanted — Grover wasn't sure, actually. Thalia wanted to protect Annabeth so badly it came off her like heat, and maybe that *was* the want.
 
@@ -124,7 +124,7 @@ Percy had been quiet for a long time. Then: "Do you think you'd hear him?"
 
 "I think I have to try," Grover had said.
 
-Now, sitting by the lake with dragonflies landing on his horns — he'd glamoured them down to nubs, but insects always knew — Grover watched Percy lose a second race on purpose (to a kid from the Hermes cabin who swam like a windmill, arms everywhere) and felt that tug in his chest again. That *try* feeling.
+Now, sitting by the lake with dragonflies landing on his horns — he'd glamoured them down to nubs, but insects always knew — Grover watched Percy lose a second race while trying to match the fast surface strokes of a Hermes camper who swam like a windmill, arms everywhere and felt that tug in his chest again. That *try* feeling.
 
 "Hey."
 
@@ -423,9 +423,9 @@ They both froze, then laughed silently, brushing sand off each other.
 
 "Yeah?"
 
-"Thanks for losing today. I know it was hard. I saw you at the buoy — you wanted to *go*."
+"Thanks for racing without the current. I know it was hard. I saw you at the buoy — you wanted to *go*."
 
-Percy looked down at their joined hands under the surface, her pale fingers laced with his. The water around them hummed faintly, happy to hold them. "It's okay. I get to be fast at home. Here —" He shrugged. "Here I'd rather be the guy who does terrible cannonballs and gets dunked by his sister. That's — that's a good guy to be."
+Percy looked down at their joined hands under the surface, her pale fingers laced with his. The water around them hummed faintly, happy to hold them. "I still wanted to win. Zoe turned better than I did, and that's something I can actually practice. I don't have to make the whole lake do the work just because I'm Poseidon's son."
 
 Annabeth's expression did something complicated and tender. "You're both guys," she said. "But today I like this one best. The Ohio one."
 
