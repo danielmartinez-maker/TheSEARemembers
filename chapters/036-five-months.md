@@ -392,6 +392,14 @@ There was only camp, and dinner, and each other — seven kids at the end of a t
 
 Percy wanted to believe they could keep building this life without having to sacrifice the one they remembered. He didn't know how. But he knew whom to ask for help.
 
-And his wall was here. His family was here.
+Annabeth had left a list on the corner of the table: the ward inspection, the old prophecy copies, and a note to ask Chiron about the coming solstice. Percy folded it and put it in his pocket.
 
-Whatever came, they would face it as family.
+Clarisse noticed. "You working tomorrow?"
+
+"After breakfast."
+
+"Good. You're on dock duty first."
+
+He looked at Annabeth, hoping for support. She took the last roll instead.
+
+The plates needed clearing, and Silena had already put a stack into his hands. He carried them toward the kitchens. The list could wait until the dishes were done.
