@@ -762,7 +762,138 @@ Silena counted the last packet and put the inventory into her bag. "I'll need so
 He signed. It didn't make him innocent of anything. It gave him a small obligation that would still exist after he had faced Chiron, and he was beginning to understand how much those ordinary obligations kept a camp together when nobody had an answer to the biggest problem.
 
 
-Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold. Percy had slept for three hours, and Chiron's first response to the copied symbols had been a request to see Zoe's maintenance ledger. He had not asked them how they knew the transcript was disputed. Percy still wished they had a better answer prepared.
+Percy and Annabeth reached Chiron's office after breakfast carrying their copied notes in separate folders. Percy had the envelope he'd written before the break-in. He had considered leaving it in Cabin Three because the date on the outside would make it impossible to pretend the night had gone differently. He brought it anyway.
+
+Chiron was seated at his desk, sorting repair orders by the color of the stamps. A stack of older records had been set aside beneath a clean cloth. He looked at their folders before he looked at their faces.
+
+"I assume this is not merely a request for additional archive access."
+
+"No, sir," Percy said.
+
+Annabeth placed her notes on the desk. "We went to the attic last night. We tried to speak to the Oracle."
+
+Chiron set down his pen. "You did what?"
+
+"We didn't touch the chair," Percy said. "Or the bronze strip."
+
+"That is not the beginning of an answer."
+
+Percy showed him the sealed envelope. "We planned where we'd go and what we'd touch, and we wrote it down before we left. I thought you should have the account."
+
+Chiron read the outside, then the note within. His expression did not soften.
+
+"You understood there was a danger to the entire camp," he said. "You had been told the area was restricted. You prepared an account of how you intended to break that restriction and then did it anyway. Do you believe that makes your decision safer?"
+
+"No," Percy answered. He had already tried to justify the plan to himself in five different ways. None seemed likely to survive a minute in front of Chiron.
+
+"Then why bring the note?"
+
+"So we can't claim it happened by accident."
+
+Chiron put it beside the other papers. "At least that is honest."
+
+Annabeth drew the mark they'd seen under the chair, reproducing the three hooked strokes and their position on the bronze. She explained that the mist stopped at the strip and that a black thread of smoke had risen toward the copied prophecy. Percy described the smell and the way the bronze rattled, then repeated only the words the Oracle herself had spoken. Chiron asked each of them where they'd stood and how close they'd come to the chair. He made them mark their positions on a drawing of the attic.
+
+He did not interrupt when they told him what they'd overheard from the landing. That was somehow worse.
+
+"We know you and Mr. D are investigating the mark," Annabeth said. "We didn't mean to listen to a private conversation. We were hiding because we thought we'd get caught."
+
+"You were hiding because you knew you had already done something you had been forbidden to do," Chiron replied. "Do not make that part sound accidental."
+
+"You're right," she said, after a moment.
+
+He studied the copied symbol. "The Oracle has not produced a new prophecy in three weeks. That much is not secret. It is also true that we suspect an interference with the protections around her chair. You may not repeat the details of what you heard to other campers until we have established whether the information would endanger anyone."
+
+"Can we tell Zoe?" Percy asked.
+
+"Yes. I will ask her to examine the relevant maintenance records. She is familiar with the older warding methods and has already been working with the Hall inspection team."
+
+Annabeth looked relieved, though not entirely satisfied. "Do you know whether the older transcript is authentic?"
+
+"I know the handwriting resembles a set of notes taken during an earlier patrol meeting," Chiron said. "I cannot tell you whether that copy represents the original spoken prophecy. The official record was made through several hands. Some were careful. Others were not."
+
+"Did you write the one we found?"
+
+"Possibly. I will check the archival index and compare the actual pages. A memory of writing a note is not a proper substitute for looking at the document."
+
+Percy watched Annabeth restrain a question. Chiron caught it anyway.
+
+"No, Miss Grace. You cannot accompany me into the attic. Nor can you assist in opening a ward until Zoe and I determine where its connections lead."
+
+"What about the eclipse?" she asked. "You told us it might affect the Hall's protections. If the strip is connected to that floor, wouldn't you rather know before the shadow reaches camp?"
+
+"That is exactly why we need an inspection team, not an unauthorized test."
+
+He stood and moved toward the window. From there the Hall's northern colonnade was visible beyond the trees, partly hidden by scaffolding. He looked older than Percy remembered from his first life. Perhaps that was only the effect of a week spent dealing with frightened children and a building no one had fully understood before they started using it.
+
+"There will be consequences for entering the attic," Chiron said. "You will both lose unsupervised library access for a week. Any archive research will be conducted with an assigned counselor. You will continue your safety-mapping work, and you will file a separate, factual report of what you observed last night. That report is not punishment. It is evidence, and I need you to treat it as such."
+
+Percy swallowed an objection. The library restriction would hurt Annabeth much more than it would hurt him, and the unfairness of that made him want to protest. Then he remembered they had agreed not to touch the ward but had still entered a place Chiron believed could be dangerous. Consequences that acknowledged their choice rather than their intentions were reasonable.
+
+"Understood," he said.
+
+Annabeth asked, "Can Nico still bring us public records if he's working with the archivist?"
+
+"Provided the archivist approves their release, yes. You may read them at a supervised table. I am not forbidding you to think."
+
+She lowered her gaze. "Thank you."
+
+Chiron sighed. The sound held less anger than fatigue.
+
+"I have known children who mistook courage for permission," he said. "A surprising number of them were very intelligent. Most wanted to protect someone. I am not asking you to stop caring about this. I am asking you to let the people responsible for camp know what danger they are dealing with before you run toward it."
+
+Percy remembered the Hall door and the white light spreading across the floor. He remembered how much he had wanted to help and how quickly Chiron had been forced to compensate for a decision Percy had made without enough information.
+
+"I'll write the report," he said.
+
+"So will I," Annabeth said.
+
+They left Chiron with the notes and two new obligations. Percy had expected the centaur to be angry, and he had been. He had also been precise enough about what needed doing that Percy could see the difference between being punished and being excluded. They weren't the same thing, although neither felt pleasant.
+
+Outside, Annabeth leaned against the porch rail.
+
+"A week," she said.
+
+"At least he didn't ban us from asking questions."
+
+"One week of supervising somebody every time I want to look at a book."
+
+"I can probably ask Clarisse to supervise."
+
+"That would be worse."
+
+Percy considered it. "She'd make you organize the shelf labels."
+
+"She'd correct them."
+
+"Then argue with the librarian about which labels were better."
+
+Annabeth made a reluctant sound that might have been a laugh. She collected herself quickly.
+
+"He asked about the strip. He hadn't seen the mark exactly as we drew it, or he would have asked different questions. Zoe might know where the other copy comes from."
+
+"We can find her."
+
+"Before you do, promise me something."
+
+He waited.
+
+"If you hear somebody say the Oracle is bound, don't turn that into a story where Thalia's father must have done it. We don't know whether the binding has anything to do with the changed history."
+
+"I know."
+
+"I need you to act as if you know."
+
+That was harder. Percy looked at the Hall and imagined the accounts his own father would be asked to give when the Olympians became involved. Poseidon had changed the shape of Percy's life simply by being more present in it, yet Percy knew the god could not understand what he'd taken from him in the process. He did not want that contradiction to become an accusation against every person who cared for him here.
+
+"I will," he said.
+
+Annabeth took the copy of their notes from his hand, folded the page to hide the private margin, and pointed toward the library. "Then go ask Zoe what she knows. I'll finish the report and bring the documents Chiron requested."
+
+He watched her head back into the Big House. Her step was quick, and she held her injured hand close to her jacket to keep it from catching on the notebook. Percy knew she hadn't forgiven the week-long restriction. She was going to comply with it anyway. For the moment, that was as much discipline as either of them could honestly claim.
+
+
+Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold. Percy had slept for three hours, and Chiron had already copied their observations and asked for Zoe's maintenance ledger. He had questioned them closely about the transcript, and Percy still wished he'd had a better answer for why they'd entered the attic after Chiron had forbidden it. Percy still wished they had a better answer prepared.
 
 She looked up when Percy entered.
 
