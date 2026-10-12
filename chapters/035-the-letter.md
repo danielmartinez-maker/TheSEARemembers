@@ -950,6 +950,6 @@ Annabeth wrote the status in their shared correspondence notebook, carefully sep
 
 She agreed. Thalia watched her sister put the notebook away. They had learned something useful without getting the answer they wanted.
 
-By the time they left the pavilion, both had appointments they were supposed to keep. Annabeth went to her model-building lesson; Thalia went to the practice yard. The two letters could travel without requiring the girls to follow them in their minds every minute.
+By the time they left the pavilion, both had appointments they were supposed to keep. Annabeth went to her model-building lesson; Thalia went to the practice yard. The two letters could travel without requiring the girls to follow them in their minds every minute. Neither had forgotten her family. Both had done what they could for that day.
 
 
