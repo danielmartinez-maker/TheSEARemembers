@@ -76,6 +76,206 @@ Percy wasn't sure he wanted to get used to it.
 
 ---
 
+Before he could escape the pavilion, Silena caught the back of his shirt.
+
+"You're on the rota," she said.
+
+"What rota?"
+
+"The cabin rota." She turned a piece of slate toward him. Three columns of names ran beneath a drawing of a shell. CLARISSE had been written beside equipment checks. SILENA had linen and stores. PERCY had three empty boxes and, below them, an impressively large question mark.
+
+"Am I supposed to guess?"
+
+"I was waiting to see whether you could read."
+
+"I can read."
+
+"Wonderful. We'll start there." She tapped the first box. "Morning water check. Second, dry your gear after training. Third, clean your half of the cabin before inspections on Friday."
+
+"How much of the cabin is my half?"
+
+"That depends on how much you spill."
+
+Clarisse was three benches away arguing with Matt about spear grips. Silena had waited until Percy was alone. He couldn't tell whether that was considerate or tactical.
+
+"Don't you have naiads doing some of that?" he asked, then wished the question back into his mouth.
+
+Silena's eyebrows went up.
+
+He'd been trying to ask about the water channels beneath their floor. In Atlantis a dozen small things happened around a person before breakfast, and he had learned that some of them were automatic. But the question sounded exactly like something a prince would ask about a servant.
+
+"At camp?" Silena said.
+
+"No. I meant—"
+
+"I know what you meant." She rubbed out the question mark on the slate with her thumb. "At camp the people who make the mess are generally expected to deal with it. In my experience the naiads have better things to do than collect our socks."
+
+"Fair."
+
+"It's not a punishment, Percy. It's three jobs. You'll be all right."
+
+He nodded. The expression on her face eased, but she didn't move away. There was another question waiting.
+
+"You really don't know the cabin routines?"
+
+"I've only been here a day."
+
+"That's not what I asked."
+
+He looked at the slate. The name PERCY had been written in a hand so careful that it seemed out of place among the scratched-out chore assignments. Silena had left room for him before he arrived. For however many summers she'd been at camp, she had been expecting a younger brother she'd never met.
+
+"Things were different at home," he said.
+
+"Different how?"
+
+"Different enough that I'm going to get most of this wrong before I get it right."
+
+She considered that, then held the slate out to him.
+
+"Good answer. Let's start with something you can actually break."
+
+
+
+The first thing Percy broke was not a thing.
+
+He broke a rule he hadn't known existed.
+
+Behind Cabin Three, Silena showed him where the channel water returned beneath a stone grate. The little troughs ran through the floor to keep the cabin cool, then curved around a basin where any grit could settle before the water moved on. A brass lever opened the drain for cleaning. It looked simple enough.
+
+"Close the intake first," Silena said. "Otherwise you'll get a—"
+
+Percy pulled the lever.
+
+A sheet of water struck him in the chest.
+
+He sat down hard in the gravel. Silena grabbed the intake valve with both hands and twisted. The flow stopped abruptly, leaving his hair dripping into his eyes.
+
+"—very wet prince," she finished.
+
+For a moment she looked genuinely worried. Then Percy spat out a mouthful of water, and she started laughing.
+
+"You were supposed to wait."
+
+"I gathered that."
+
+"Are you hurt?"
+
+"Only where I landed."
+
+She offered a hand. He took it, and she hauled him upright with more strength than her slender arms suggested.
+
+He could have stopped the surge. The water had answered his skin the instant it struck him, a familiar pressure collecting behind his eyes. There had been time to lift a palm and bend it aside. Instead he'd been too surprised to remember that what he could do with the sea didn't automatically make him good at cleaning a drain.
+
+Silena knelt and took the grate off. A fistful of pine needles and two bits of broken pottery had wedged themselves beneath it.
+
+"That's the problem. Give me the little hook from that box."
+
+He passed it over, pleased that he could manage a task without starting another flood.
+
+She worked the debris loose. A pale green thread was tangled through the needles. She pinched it between two fingernails.
+
+"That's from the new filter cloth. It shouldn't be here."
+
+"Does it matter?"
+
+"It means the cloth's fraying." She laid the thread on a flat stone. "Someone replaced it last week. I helped carry the rolls from the stores."
+
+"Bad material?"
+
+"Could be. Or somebody stretched it too tight."
+
+"Or water doesn't like being filtered."
+
+"Percy."
+
+"Sorry. I was attempting a theory."
+
+"Try a theory that starts with checking the stitching."
+
+He crouched beside her. When she held out the scrap, he examined it. The green had almost the same shade as the palace curtains he thought he ought to remember. He knew those curtains existed because Amphitrite had told him to leave them alone when he was younger. He couldn't remember touching them. What he did know, from the few days he'd spent trying to make a life in Atlantis, was how difficult it was to distinguish what he'd seen for himself from what people assumed he knew.
+
+The thread was real. He could hold it. That was a relief.
+
+"You're looking at it like it's going to answer a riddle," Silena said.
+
+"Maybe it will."
+
+"Then you'd better put it in your pocket. Chiron charges extra for mysteries left in the drains."
+
+Percy did.
+
+She showed him how to seat the grate and test the lever with the intake only half-open. The first time he got the order wrong. The second time, the basin emptied without baptizing either of them.
+
+"See?" she said. "Competent by lunchtime."
+
+"That's an optimistic definition."
+
+"It's camp. We work with what we have."
+
+From the arena came the flat clash of bronze and somebody shouting for a healer. Silena cocked her head but didn't rush toward it. A moment later the shouting turned into laughter. She returned to packing away her tools.
+
+"Can I ask something?" Percy said.
+
+"You're going to regardless."
+
+"When did you start looking after all this?"
+
+"The drains? Last summer. The stores before that." She pushed a stubborn latch shut with the heel of her palm. "I helped plan a watering system for the strawberry beds. Someone has to make sure the summer campers don't use all the fresh water trying to drown one another."
+
+"Why you?"
+
+"Because I like making things that work. Clarisse likes things that win. We overlap occasionally." She glanced at him. "That surprises you."
+
+"Not the winning part."
+
+"People hear Poseidon's name and assume we spend all day throwing waves at each other. I can do that. I'd just rather have clean sheets and strawberries that don't die."
+
+He tried to picture the Silena from the life he remembered in this place: overseeing stores, laying out pipe routes, getting annoyed about a thread caught in a grate. That Silena had had a gift for noticing what people needed, too. But this girl was alive, fourteen, and had been making her own decisions long before he turned up. The memories he carried weren't instructions for how to treat her.
+
+"You can put me on the stores job if you need help," he offered.
+
+"That is a terrible offer to make on your second morning. I might actually take it."
+
+"I'll survive."
+
+"Not if you touch another lever without asking."
+
+He looked down at his dripping shoes. "Noted."
+
+Silena retrieved the green thread from him and folded it into a piece of paper, recording the date beside it. Percy watched her write the note. She hadn't dismissed the problem. She hadn't decided the damaged cloth proved some sinister plot. She had made a record and planned to check the next filter.
+
+"You should tell Annabeth about this," he said.
+
+"Why?"
+
+"She likes fixing systems."
+
+"Then I probably will." Silena slid the note into her pocket. "But first you should change. Chiron's going to be looking for you, and I'm not explaining why our new camper resembles a drowned mop."
+
+"What would you tell him?"
+
+"The truth. He failed the first water check and passed the second."
+
+Percy groaned.
+
+She nudged his shoulder as they headed back toward the cabins.
+
+"For what it's worth," she said, "I prefer a brother who makes an honest mistake over one who pretends he knows everything."
+
+He wanted to tell her how large a relief that was. He settled for walking beside her, squishing noisily in his shoes.
+
+At the cabin door she stopped.
+
+"One thing. Don't let Clarisse hear about the lever."
+
+"Why not?"
+
+Silena's smile was entirely unhelpful.
+
+"She'll find a name for you and it'll last until we're thirty."
+
+---
+
 After breakfast, Chiron found him. The centaur was using his wheelchair disguise, with the same kind eyes and patient demeanor Percy remembered.
 
 "Percy," Chiron said warmly. "I trust you slept well?"
