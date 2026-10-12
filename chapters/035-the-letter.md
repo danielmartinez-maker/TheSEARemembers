@@ -18,7 +18,7 @@ Annabeth had stared at her the way only a twelve-year-old sister who thinks she'
 
 "You didn't mention him."
 
-"Because the letter was to Mom, not to Jason."
+"Because I'd barely figured out how to write to Mom, and I didn't want to get his hopes up about a visit before we could arrange one."
 
 Annabeth had thrown the paper airplane at her head. It had stuck, nose-first, in Thalia's hair.
 
@@ -544,7 +544,7 @@ They laughed until they cried, until their sides ached, until the old, sad lette
 
 Thalia held the letter to her chest and leaned back against the bench, breathing hard, smiling so wide her cheeks hurt.
 
-"It didn't make me cry," she said wonderingly. "I mean, I cried, but I laughed too. For the first time. It was sad, but it was also... funny. She was funny. Even when she was sad, she was funny."
+"I didn't only cry," she said wonderingly. "I mean, I cried, but I laughed too. For the first time. It was sad, but it was also... funny. She was funny. Even when she was sad, she was funny."
 
 "She's still funny," Annabeth said, crawling back onto the bench and resting her head on Thalia's shoulder again. "Her last letter had that part about the pigeon that stole her paintbrush."
 
@@ -552,7 +552,7 @@ Thalia held the letter to her chest and leaned back against the bench, breathing
 
 "In the rain," Annabeth added.
 
-"Iconic," Silena declared. "Beryl Grace is iconic."
+"Iconic," Silena declared. "Beryl Grace has an excellent sense of humor when she wants to use it."
 
 Thalia folded the old letter carefully and tucked it back into the shoebox — not at the bottom, this time, but on top, like it didn't have to hide anymore.
 
@@ -653,6 +653,3 @@ Annabeth took it. "Coming, brave girl."
 They walked back to lunch side by side, lighter, unhurried, sisters who had finally written back.
 
 And for the first time in three weeks, Thalia didn't count the letters in the box. She didn't need to. The box felt lighter, their replies were flying, and the people she loved knew — in ink, on paper, sealed with lavender and glitter — that she loved them back.
-
----
-
