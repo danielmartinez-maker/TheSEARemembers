@@ -298,7 +298,7 @@ He turned toward the shore. The reeds bent in different directions even though t
 
 The dryad went back to her tree. Grover wrote *ask questions before assuming* beneath his list. Then he tried playing a softer phrase on the reed pipe, following the movement of the grass rather than forcing a rhythm he'd memorized. The sound was imperfect. It fitted the lake better than his usual tune.
 
-He thought Nico had been right about one thing: caring about living things was a good reason to become a Searcher. It wasn't training, and it wasn't proof he would find Pan. He could begin by taking good care of the shore he knew while learning the skills he'd need to go farther.
+He thought Nico had been right about one thing: caring about living things was a good reason to become a Searcher. He would ask Chiron about the requirements before making any grand promises to himself or his friends. It wasn't training, and it wasn't proof he would find Pan. He could begin by taking good care of the shore he knew while learning the skills he'd need to go farther.
 
 
 "Hey, Grover!" Ella called from the picnic blankets, waving frantically. "Grover, come help! The naiads are robbing me again!"
