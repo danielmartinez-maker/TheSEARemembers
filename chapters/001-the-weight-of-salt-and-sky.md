@@ -40,9 +40,9 @@ The door opened.
 
 The nightmare. Percy didn't know what nightmare she meant, and the not-knowing was a cold stone in his stomach.
 
-"I..." he started, and stopped. How did you tell your mother that you remembered a different mother? That the woman who raised you in this timeline was real and loved and present, but that somewhere else, in some other version of his life, a mortal woman named Sally Jackson had made him blue cookies, lied to monsters to protect him, and raised him in Manhattan? He remembered her alive, waiting for him to come home. This woman knew a childhood he could not find in his head.
+"I..." he started, and stopped. How could he tell the woman who believed she'd raised him that he remembered another mother instead? That the woman who raised you in this timeline was real and loved and present, but that somewhere else, in some other version of his life, a mortal woman named Sally Jackson had made him blue cookies, lied to monsters to protect him, and raised him in Manhattan? He remembered her alive, waiting for him to come home. This woman knew a childhood he could not find in his head.
 
-He couldn't. Not yet.
+He couldn't tell her. She knew the boy who had lived here for twelve years. Whether she believed him or not, the truth could cost him his chance to reach camp.
 
 "I'm fine," he said. "Just a weird dream."
 
@@ -163,7 +163,7 @@ Triton's grin faded. "Have you?" he asked, and his voice had changed, lower, mor
 
 "I know what I know," Percy said, cutting him off. It came out harder than he intended. Triton looked at him for a long moment, then tossed Percy a practice blade and made him start the drill again.
 
-Percy spent extra time with Amphitrite, memorizing her face in case, in case of what? He didn't know. In case this was temporary. In case something went wrong. In case the timeline changed again. She began teaching him *Tessera*, a board game played with coral pieces and shifting currents. He was terrible at it, and she kept inviting him to try again.
+Percy spent extra time with Amphitrite, memorizing her face in case, in case of what? He didn't know. In case this was temporary. In case something went wrong. In case the timeline changed again. They played *Tessera*, a strategy game Amphitrite expected him to know. He concealed his ignorance behind jokes and lost six games before he began to understand the currents.
 
 He packed bags he wouldn't need, practiced being twelve years old, and tried not to think about Annabeth with a desperation that bordered on panic.
 
@@ -173,211 +173,387 @@ He couldn't know. He couldn't reach her. He could only go to camp and hope.
 
 ---
 
-A few days before his departure, Amphitrite found him in the garden of anemones where the current was warmest. She had a scroll open across her knees. At the sight of him, she rolled it shut and waited.
+A few days before his departure, Percy found Amphitrite in the anemone garden with three scrolls, a cup of tea, and an argument in progress with a crab.
 
-"Trouble sleeping?" she asked.
+The crab had claimed one corner of her writing table and was refusing to surrender it. Amphitrite nudged it with the end of a stylus. It raised both claws.
 
-"No. Just thinking."
+"That isn't your property," she informed it.
 
-She patted the coral bench beside her, and he sat. The water was slightly warmer here, heated by vents far below, and Percy could feel it against his skin like a gentle hand.
+The crab disagreed.
 
-"You were thinking about Sally," she said.
+"Want me to get a guard?" Percy asked.
 
-He looked at her sharply. She said it without accusation or curiosity, just fact, the way she'd say the water was warm or the current was slow.
+"He's smaller than my thumb."
 
-"How did you..."
+"That's how they get you. You underestimate them, and then suddenly you've lost a kingdom."
 
-"You kept looking at her picture in your father's study." Amphitrite's eyes, deep blue, older than they looked, met his. "Sally was your mother, Percy. You can ask about her. Loving her does not hurt me."
+Amphitrite gave him the look she usually reserved for Triton. "Are you going to help?"
 
-Percy's chest tightened. "I remember her raising me. An apartment in Manhattan. School. Montauk in the summer. Years of it. I know how strange that sounds."
+"I think he's winning."
 
-Amphitrite stayed quiet for a moment. "That isn't the childhood I know. But I believe you remember it."
+"Percy."
 
-"But in this timeline, Poseidon took me here. And you raised me."
+He scooped up the crab. It caught the cuff of his sleeve and refused to release him until he'd carried it to a rock at the edge of the garden. When he came back, Amphitrite had moved the scrolls away from the tea.
 
-"Not I alone. Poseidon was there, more than you might think. He plays with you, Percy. He teaches you. He's your father in every way that matters." She paused. "But you're right. It wasn't always me."
+"He's going to tell all his friends," Percy warned.
 
-Percy looked at his hands. "What happened to Sally? In this timeline?"
+"I'll reinforce the borders."
 
-"She was mortal. She and Poseidon had a brief affair, a season, maybe less. She was a remarkable woman, Percy. Brave. Stubborn. The kind of person who punched a god when he behaved badly and didn't apologize for it." Amphitrite smiled, and the expression was complicated, fond and sad and something else. "She knew what she was getting into. She knew Poseidon couldn't stay, that the Olympian world was dangerous, that any child of theirs would be a target. And she chose him anyway."
+He sat beside her. The current was warm here, and clusters of purple anemones opened and closed against the stone. One of the scrolls bore his name. Another had the insignia of Camp Half-Blood.
 
-"What happened?"
+"Is that the list of things I'm not allowed to do on the surface?"
 
-"She lived by the sea for a while. Your father keeps the pictures she took there. She raised you for your first two years, and then she became ill and died." Amphitrite watched his face. "You were so young. We have talked about it before, but you can ask again whenever you need."
+"No. That would require a much longer scroll."
 
-Percy's throat was tight. "She was alive when I went to sleep. In the life I remember."
+"What about things I am allowed to do?"
 
-Amphitrite's hand found his, cool, gentle. "I don't know how those memories came to you. I can only tell you what happened here. She died when you were two. Your father brought you home to us."
+"Eat. Sleep. Listen to Chiron. Write to me."
 
-He wanted to argue. Sally had protected him every day without making it sound heroic. The promise of getting home to her had helped keep him moving through wars and through Tartarus. He had never had to carry her death like this.
+"Only four?"
 
-But Amphitrite was telling him a loss everyone else had lived with for ten years. For him it had happened in the space between waking and this conversation.
+"We can negotiate a fifth when you demonstrate good judgment."
 
-"So she just... died," Percy said quietly.
+She returned to her writing. Percy watched the stylus move across the parchment, trying to read the Atlantean script. He could recognize a few symbols, although the words wouldn't settle into meaning. Another problem he couldn't admit to having.
 
-"She lived," Amphitrite corrected gently. "For two years, she lived, and she loved you, and then she rested. And Poseidon brought you here, and I raised you, and we became your family. Both families are real, Percy. Both are true. You don't have to choose."
+His mind went back to the portrait in Poseidon's study.
 
-He wanted to argue with that. He wanted to say that you couldn't have two mothers, that grief didn't work that way, that the ache in his chest for Sally was real and didn't care what timeline he was in.
+Amphitrite had seen him looking at it the previous morning. A dark-haired woman stood on a beach in an ordinary white shirt, wind pushing hair across her face. He'd known it was Sally even before finding the small inscription beneath the frame. She was younger than the woman he remembered, but her smile had been exactly right.
 
-But Amphitrite was looking at him with such understanding, such patience, and he was twelve years old and tired and so desperately lonely in a world that looked almost right but wasn't.
+"Can I ask you something about my mom?"
 
-"Can I ask you something?" he said.
+Amphitrite put down the stylus. "Which one?"
 
-"Anything."
+It was an ordinary question to her. Percy hadn't been prepared for it.
 
-"Did you know I would wake up remembering something different?"
+"Sally."
 
-Amphitrite was quiet for a heartbeat. "No. I knew you as the child I raised. I did not know about these memories until you told me."
+She nodded toward the empty space on the bench. He was already sitting there, but he moved closer. "What would you like to know?"
 
-"Then how..."
+He nearly said, *Is she really dead?* The words pressed against his teeth. He'd seen her alive so recently that asking would sound less like curiosity and more like an accusation.
 
-"I don't know." She reached up and brushed a strand of wet hair from his forehead. "I don't know how any of this works. But I know you're my son. And I know that whatever brought you here, whatever you're supposed to do, you won't be doing it alone."
+"I saw her picture in Dad's study," he said. "What was she like?"
 
-Percy leaned into her touch. It wasn't Sally. It wasn't the same. But it was love, real and present, and after a moment he let himself accept it.
+Amphitrite considered that. "Very direct. She once told your father his palace looked as though every sea creature in the Atlantic had been allowed to decorate a different room."
 
-"Thank you," he said.
+"She wasn't wrong."
 
-"Thank me when you come home." She smiled, and it was warm and real. "Now go. You've missed enough of your preparation lessons."
+"She was standing in the room with the enormous shell throne. He had spent a year commissioning it."
 
-She shooed him off with a gentle current, and Percy swam back toward the palace feeling, for the first time since he woke up, something that almost resembled hope.
+Percy laughed. He could picture Sally saying it. He could picture Poseidon's expression, too.
 
-Not much. Not enough.
+"Did you know her well?"
 
-But something.
+"Not as well as I might have liked. We spoke a handful of times. She didn't trust gods much, even when she liked them. That was probably sensible."
 
-On their fourth afternoon of *Tessera*, Percy realized that the shell board was less a diversion than an elaborate method of humiliating people who thought they understood currents.
+"Did she like you?"
 
-He moved a red coral piece three squares. A hidden channel caught it and swept it directly into a painted whirlpool.
+"She asked whether I intended to treat you kindly." Amphitrite's eyes went to the moving anemones. "I said yes. She told me that wasn't the same as promising."
 
-Amphitrite reached over to rescue the piece. "Again?"
+Percy stared at her.
 
-"You're cheating."
+"What did you say?"
 
-"I'm sitting here."
+"I promised."
 
-"You're doing it with your face."
+It would have been easier if Amphitrite had said something cruel or possessive. Percy had been prepared to resent her. Instead she was sitting beside him worrying about a camp packing list, and he had no memory of the years in which she had apparently kept that promise.
 
-"Would you like to play a different game?"
+"What happened to her?" he asked.
 
-"No. I want to figure out this one."
+Her answer came without hesitation. "She was ill. Your father arranged for healers, but by the time he knew how serious it was, there was little they could do. You were two when she died."
 
-She reset the piece, but didn't move hers. "Then look at the channels before you touch anything."
+Two.
 
-The board was a circle crossed by nine thin grooves. Players opened tiny gates along the rim, changing the direction of water and moving pieces into new positions. It looked simple. Percy was on his seventh loss, although Amphitrite claimed the game he'd abandoned at breakfast did not count.
+Percy knew that was how this world's history must work. Hearing the number from someone who had been there was different. The woman who had helped him survive elementary school, Yancy, Gabe, and the first terrifying months of camp had been gone for a decade here.
 
-His next move gave him the center. He was about to celebrate when Amphitrite opened the gate behind his pieces. Three of them drifted straight into her territory.
+He forced his breathing to stay even.
 
-"That," he said, "should be illegal."
+"Did she know?"
 
-"Make a law."
+"That she was dying? Near the end, yes."
 
-"I'm a prince. I could."
+"Did she get to say goodbye?"
 
-She laughed, which was a nice change from the worried attention he'd been getting all week.
+Amphitrite glanced at him, more attentive now. "Your father was with her. He brought you to see her as often as the healers thought safe. Sally made him promise not to hide you from the mortal world forever."
 
-Percy watched the board. He couldn't remember learning the game. A boy who had grown up here was apparently supposed to know it by heart. Sometimes his fingers moved toward a gate before he had chosen it. He couldn't tell whether that was instinct, habit, or the game itself suggesting the obvious move.
+Percy looked at the Camp Half-Blood seal on the scroll. Perhaps that promise explained more than his parents had told him.
 
-Annabeth would have loved it. She'd have worked out the rules in minutes, then spent hours finding ways to win with the worst possible opening position. Percy could almost hear her telling him why a move was stupid while she made the same move herself just to prove a point.
+"Does he still have things of hers?"
 
-"Percy?"
+"Some photographs. A box of letters. I believe there's a scarf she used to wear, though your father may have moved it."
 
-"Sorry." He looked up. "What?"
+"Could I see them sometime?"
 
-"I asked whether you wanted another round."
+"Of course. You never need my permission to ask about Sally."
 
-"Yeah."
+The simple answer nearly undid him. He was twelve here. He was supposed to be a boy asking questions about a mother he'd barely known, not someone who could recall her hands and her voice and the smell of her kitchen better than he could remember the room where he'd woken that morning.
 
-Amphitrite started putting the pieces back. "You used to demand three more games every time you lost."
+Amphitrite closed one of the scrolls.
 
-"Used to?"
+"Did the picture upset you?" she asked.
 
-"When you were six. I sometimes had to tell the servants to put the board away."
+Percy picked at a loose thread on his sleeve. "A little."
 
-"What was I like at six?"
+"Because you're leaving?"
 
-Her hands stopped over the red pieces.
+He could use that. "I guess. I'll be older than she ever got to see me."
 
-"Stubborn," she said eventually. "Very sure of yourself. You once told Triton that he only won because he was older."
+"Yes," Amphitrite said.
 
-"Was I right?"
+She didn't try to make it better. After a moment she turned the half-written packing list toward him.
 
-"He cheated with the current."
+"Your father suggested you should bring three ceremonial cloaks."
 
-Percy grinned. "I knew it."
+"Three?"
 
-"You didn't, actually. You apologized when I explained you were wrong."
+"He claims you'll need them for official occasions."
 
-He tried to picture the scene. There was nothing. He had a clear idea of what Triton looked like when he was being insufferable, but he couldn't remember arguing with him across this board. The past everyone else carried was full of little details like that. They were precisely the details that made it hard to fake knowing his own life.
+"At camp?"
 
-"Keep going," he said.
+"I said the same thing."
 
-"With the game?"
+"What did he say?"
 
-"With the stories."
+"That Chiron might invite you to dinner."
 
-Amphitrite put down the pieces.
+Percy looked down at the list. "I'm going to be the only kid there whose luggage needs its own chariot."
 
-"Do they help?"
+"Not if I have anything to say about it."
 
-He considered lying. "I like hearing them."
+He leaned over the scroll and crossed out *ceremonial cloaks*. Amphitrite took the stylus away before he could cross out *spare sandals*, which apparently was not negotiable.
 
-"That isn't what I asked."
+They spent the next twenty minutes arguing over what counted as essential. Percy managed to eliminate two belts, a decorative sword, and something called a formal sea mantle. Amphitrite insisted on a dry change of clothes and a written address for Chiron, even though Percy pointed out that a satyr would be escorting him.
 
-"No," he said. "They don't help me remember."
+When she started writing again, Percy watched her hand. It was an ordinary hand, holding an ordinary stylus. She trusted him enough to argue about luggage instead of asking where his strange questions had come from.
 
-There was a pause. Water slid through the grooves, bringing two unclaimed pieces together.
+He had lied by omission through most of the conversation. He knew he would keep doing it. He didn't enjoy that, but he could not risk telling her that the twelve years she remembered raising him were missing from his mind.
 
-"When you first told me about Sally," she said, "I thought you were describing a dream that had frightened you. Then you spoke about school. About friends. You were angry when I asked which stories were real."
+"Amphitrite?" he said.
+
+"Hm?"
+
+"Thanks for telling me about her."
+
+She looked up. "You don't have to thank me."
 
 "I know."
 
-"I don't think it was a dream anymore."
+"Good. Then take the other scroll to your father before he orders a fourth cloak."
 
-Percy watched her carefully.
+Percy took the scroll and left before she could add anything to it.
 
-"I don't know what it was," she continued. "But you believe it, and I can see what it costs you when we assume you remember being here."
+---
 
-"Sometimes I know where to go without thinking. But if you ask me what I did there when I was seven, I can't tell you. I don't know."
+On their fourth afternoon of *Tessera*, Percy discovered that the game was an efficient way to expose everything he didn't know about being the son Amphitrite remembered.
 
-"And in the life you remember?"
+The board was a circle of polished shell, crossed by nine narrow channels. Water ran through them in small, controlled currents. Coral pieces moved when players opened the sluices along the rim. Percy had assumed the object was to reach the opposite bank.
 
-"I remember Mom. Growing up with her. I remember camp. Annabeth." He stopped, afraid he had said too much.
+His latest piece drifted into a painted whirlpool and disappeared.
 
-Amphitrite looked down at the game, giving him an opportunity to collect himself.
+Amphitrite looked up from her side of the table. "That was ambitious."
 
-"I think you should tell your father," she said.
+"That was sabotage."
 
-"Not before camp. Please."
+"By whom?"
 
-"He'll have questions."
+"The board."
 
-"And he'll try to answer them by keeping me here."
+"Shall I summon it to explain itself?"
 
-"He may."
+"Only if I'm allowed to question it."
 
-"I need to go."
+She retrieved his piece from the shallow pool under the board. Percy saw the move he'd missed a second too late. A gate on the far side had been open from the start. When he touched the nearest one, it had redirected his own current against him.
 
-She didn't ask him why. Percy was relieved, though he suspected the silence meant she had several guesses of her own.
+He was supposed to know this game. He knew that because a servant had greeted them by asking whether the prince planned to take his revenge for last year's tournament. Percy had laughed, said something vague about revenge being a family tradition, and waited for the servant to leave.
 
-"I won't bring your memories before the court," she said. "But I can't promise to conceal that you're struggling if your father asks."
+Amphitrite assumed he was rusty. Percy had encouraged the assumption.
 
-"Fair."
+"You used to accuse Triton of cheating whenever he beat you," she said.
 
-She made a final move. His remaining red pieces drifted away.
+"Sounds like me."
 
-"Eight," he said.
+"It was mostly because he cheated."
 
-"Eight what?"
+"Also sounds like him."
 
-"Games you've won."
+"Try the left sluice."
 
-"Seven. We agreed breakfast didn't count."
+"Isn't telling me what to do cheating?"
 
-"We agreed nothing."
+"I'm trying to prevent you from losing before the tea arrives."
 
-"Then you'd better win the next one."
+"Maybe I'm lulling you into a false sense of security."
 
-Percy reached for the gates. Whatever else he had forgotten, he was beginning to understand the board.
+"Your strategy is working beautifully."
+
+He opened the left gate and brought two red pieces into the center. Amphitrite waited until he'd finished congratulating himself before moving one blue piece to block them both.
+
+Percy stared at the board.
+
+"Do you do that to everybody?"
+
+"Only opponents who announce their plans."
+
+He sat back. Annabeth would have enjoyed this. She would have spent the first ten minutes learning how the channels interacted, then quietly dismantled anyone who treated the board like an ordinary strategy game. Percy imagined her leaning across the table, hair falling out of its ponytail, telling him he was opening the wrong gate. He could almost hear the impatience.
+
+He reached for the opposite sluice.
+
+"Don't," Amphitrite said.
+
+Percy stopped. "What?"
+
+"That one feeds the outside channel."
+
+"I knew that."
+
+"I believe you."
+
+"You don't."
+
+"No."
+
+She folded her hands and waited for him to decide.
+
+Percy closed his eyes for a second. His fingers wanted to make a move he couldn't explain. He let his hand rest on the edge of the board instead. It would have been easy to take every mistake as proof he'd lost something important. But this was a game, and he could afford to lose a game.
+
+He opened the central sluice. The red pieces moved together, cutting off Amphitrite's approach to the middle.
+
+Her eyebrows rose. "There you are."
+
+He smiled, though he didn't know whether she meant a clever move or the return of a boy he'd never been.
+
+"See? I was being nice to you."
+
+"Seven consecutive losses. Very generous."
+
+"Six. The breakfast game didn't count."
+
+"Because you left before the end?"
+
+"Because the board attacked me."
+
+For a while they played without talking. Amphitrite was quicker than he was. She saw connections before he knew they were possible and had no objection to exploiting them. He began studying her hands rather than the pieces, looking for the tell that came before she changed a current.
+
+Then he caught it: she pressed her thumb against her second finger when she wanted him to open a channel. Twice he'd obliged. The third time he held back.
+
+"You keep doing that," he said.
+
+"Doing what?"
+
+"Your hand. You want me to move here."
+
+He tapped the board.
+
+Amphitrite looked genuinely pleased. "You've finally started watching your opponent."
+
+"You're smiling. Does that mean I win?"
+
+"It means you might survive another three moves."
+
+He got through five.
+
+When the game ended, Amphitrite set the pieces in their tray and reached for her tea. "You're distracted this week."
+
+Percy picked up a stray red piece. "You just watched me almost win."
+
+"Almost isn't a new development."
+
+"Harsh."
+
+"I mean it. Yesterday at practice you were late. You barely touched breakfast this morning. And you've been looking toward the surface every chance you get."
+
+He didn't answer. His attention had been divided between learning the palace well enough to pass for its prince and trying not to imagine a world where Annabeth no longer existed. Amphitrite saw a boy nervous about his first trip away from home.
+
+"Is this about camp?" she asked.
+
+"Mostly."
+
+"Because you're afraid of leaving?"
+
+"No." It was the wrong answer. Too quick.
+
+Amphitrite set down her cup. "Percy, being excited doesn't mean you have to be cheerful about every part of it."
+
+"I know."
+
+"Then what is it?"
+
+He had rehearsed a dozen lies in his room. None worked with her sitting across from him, watching him with the casual certainty of someone who had packed his clothes and told him to wash his hands for years.
+
+"I'm worried I'll get there and everyone will already know what they're doing," he said.
+
+That much was close enough to the truth.
+
+"They'll know camp," she said. "You know other things."
+
+"Not the important ones."
+
+"Such as?"
+
+"Where to sit. Who to avoid. Whether Chiron actually expects me to wear a cloak to dinner."
+
+"He doesn't."
+
+"How do you know?"
+
+"Because I've met Chiron."
+
+"Then you should tell Dad."
+
+"I have. Repeatedly."
+
+Percy set down the piece. He could talk like this. He could let her worry about school and clothing and homesickness. The rest needed to stay in his head.
+
+Amphitrite reached for the board again. "You asked to go for years. If you've changed your mind, we'll make other arrangements."
+
+"No."
+
+"Percy."
+
+"No, I want to go." He stopped himself from saying *I have to*. That would be worse. "I'm just tired of everyone treating it like I might break."
+
+She watched him for a moment. "Your father remembers every danger he has ever failed to prevent. Sometimes he mistakes remembering them for being able to stop the next one."
+
+Percy recognized that about Poseidon. He also recognized it in himself, which wasn't particularly comforting.
+
+"And you?" he asked.
+
+"I know I won't stop worrying. That doesn't mean I get to keep you in the palace."
+
+"You could try."
+
+"I could." Her mouth tilted. "You'd be impossible to live with."
+
+"I'm impossible already."
+
+"Yes, but you have your good days."
+
+He laughed. The sound surprised him.
+
+She pushed the red pieces across to his side of the board.
+
+"Another game," she said.
+
+"You're having too much fun."
+
+"Probably."
+
+Percy took the pieces. If he could learn the board, perhaps he could learn enough of everything else to avoid giving himself away. He didn't mistake the two problems for being equal. Still, he had managed five moves this time, and he knew where the sixth had gone wrong.
+
+"One condition," he said.
+
+Amphitrite lifted an eyebrow.
+
+"If I win, I get to remove the third pair of sandals from the packing list."
+
+"Two pairs, Percy."
+
+"One."
+
+"Two, and I won't mention the dress cloak."
+
+"Deal."
+
+They set the board between them again. Amphitrite opened the first sluice without looking down. Percy made himself study the current before touching his pieces.
 
 ---
 
