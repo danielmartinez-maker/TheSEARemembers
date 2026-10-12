@@ -556,6 +556,136 @@ Percy picked up his bag.
 He headed out with sore fingers, a lesson in binding he was unlikely to master quickly, and no expectation that one conversation could settle what he and his sisters had inherited from Poseidon.
 ---
 
+
+Silena's afternoon project involved a shovel, a broken measuring stick and three people who disagreed about where the water was supposed to go.
+
+Percy learned this when she intercepted him outside the library and asked whether he wanted to see the irrigation system working properly. By then he'd already made a mess of the atlas, and he thought the least he could do was carry something that couldn't be torn with one careless hand.
+
+The strawberry beds lay in neat rows below the ridge, protected by low windbreaks. Between the rows ran narrow channels lined with gravel. The stream feeding them was meant to pass through a screened box before dividing toward the plots. Instead, most of the water was finding its way into a muddy depression beside the fourth row.
+
+Silena crouched next to the screen, testing the wooden frame. A daughter of Demeter named Mara stood nearby with her arms folded, watching a smaller camper try to clear the accumulated water with a bucket.
+
+"I don't want to take another set of measurements if we're going to ignore them," Mara said. "The western plants are already too wet. You can't fix that by digging one more ditch."
+
+"I'm not asking you to dig another ditch," Silena replied. She lifted the frame out and set it on a cloth. "I'm asking you to wait until I understand why water is escaping from the box. If the joints are open, changing the slope won't help."
+
+Mara glanced at Percy, apparently wondering whether his arrival was meant to settle the argument.
+
+"Is he here because he's Poseidon's son?"
+
+"He's here because he offered to carry tools," Silena said. "He's also the only person who knows where I put the spare bracket, because I told him before breakfast. Percy, would you get it from the bag?"
+
+He took the bag off his shoulder and found the bracket beneath a folded diagram. The metal was cold and unremarkable, the sort of thing he would have ignored before spending several mornings learning what went wrong when someone treated a water system like an extension of their own power.
+
+Silena held the bracket against the inside of the frame. It didn't fit. She changed the angle, inspected the old screw holes and tried again.
+
+"This frame was replaced last week. The person who cut it used the old measurements, but the channel has shifted since summer." She turned it over and pointed to a strip of cloth sewn across the bottom. "And the filter material's been stretched until the stitching started to tear."
+
+Percy recognized the pale green thread. "That's the same stuff we found in the cabin drain."
+
+"Probably from the same roll. I was hoping it was just one badly made section."
+
+Mara knelt to inspect the fabric, irritation giving way to interest. "Could we use the old screen until we get a new piece?"
+
+"If it's still in the stores. I thought Chiron had sent it for repairs." Silena checked the drawing. "This system doesn't need a new design. It needs the right parts."
+
+The smaller camper, who had been carrying buckets from the flooded row, put his bucket down.
+
+"Can I stop now? I've moved the water into the ditch twice and it keeps coming back."
+
+"Yes," Silena said. "You should've stopped when it stopped helping. Thank you for trying. Go get dry socks before dinner."
+
+The boy left with an expression of enormous relief. Percy watched him go, then moved the bucket out of the walking path.
+
+Mara's attention had returned to the plants. She ran a finger beneath a leaf and showed Silena a row of tiny brown marks.
+
+"These are already showing stress. If the roots sit in water all night, we could lose the row."
+
+"Then we'll block this branch until morning and let the excess drain away," Silena said. "But first I want to see whether the leak is happening at the screen or downstream. Otherwise we could be cutting off water to the healthy beds for no reason."
+
+She handed Percy the measuring stick. Half the painted markings had worn off.
+
+"Can you hold this upright in the channel while I check the flow?"
+
+He placed it against the gravel, bracing his foot away from the edge. Water moved around the wood, barely reaching his ankle. The channel had enough current to make him aware of it even without looking. He could have shifted the stream with a thought, but Silena had asked him to hold a stick, and he suspected that was because she actually needed a reliable reference point.
+
+After a few minutes Mara called out a reading from the other end of the bed. Silena wrote it down, compared it against her old notebook and frowned.
+
+"The flow is slower here than it was last month, but the water level is higher at the entrance. Something's obstructing the first bend."
+
+"Should I check it?" Percy asked.
+
+"With your eyes and the rake. Not by making a wave."
+
+He gave her a wounded look. "One drainage accident and nobody trusts me around water anymore."
+
+"Three, if you count the laundry cart and the time you flooded the basin during cabin inspection."
+
+"Those were related incidents."
+
+"They all involved you touching water before you knew where it was going. That's the common feature."
+
+Mara laughed. She was beginning to look less annoyed, which Percy took as a sign that the work had found a direction.
+
+He followed the channel upstream. Beneath a flat stone near the edge, a clump of roots had trapped a bundle of straw and leaves. He pulled the debris free with the rake and watched the water drop slightly. Silena checked the measurement again and nodded.
+
+"That helps. It's not the whole problem, but at least we've identified something we can fix without rebuilding the system."
+
+By the time they finished taking readings, the sun had moved low enough that long shadows crossed the fields. The mud on Percy's shoes had dried in a crust. Silena had three pages of notes and one new plan that Mara seemed willing to support: block the damaged branch for the night, check the surviving filter cloth in the stores and reopen it after the repair team had tested the flow.
+
+Mara gathered her notebook and tools. Before leaving, she looked at Silena.
+
+"I'm sorry I said you'd ignored the measurements. I didn't realize the frame had been replaced. I just didn't want to lose the plants."
+
+"I know. Next time, show me the leaves first. I might still disagree about the cause, but I need that information."
+
+Mara nodded, then headed toward the greenhouse with a much lighter step.
+
+Percy stayed behind to help stack the old fittings. Silena was cleaning the edge of the screen, removing mud from a joint with the corner of her cloth. She worked carefully even though the broken frame was going to be replaced.
+
+"You seem to spend a lot of time repairing other people's mistakes," he said.
+
+"Somebody repaired mine last summer. I set one of the channels too steep and washed a week's worth of soil into the low beds. Mara helped me rebuild it." Silena wrung out the cloth. "I was furious with her for noticing, because I was already embarrassed. Then she spent an entire afternoon moving gravel with me."
+
+"She didn't hold it over your head?"
+
+"She teased me about it for a month, which was deserved. Then we had a new channel that worked. That's generally how good work goes. Somebody catches the mistake and somebody fixes it."
+
+Percy considered the little screen in her hands. He'd spent years in the life he remembered trying to keep people alive, with immediate consequences when something went wrong. Here the stakes were a row of strawberries and the patience of people who had to use the system afterward. It seemed less dramatic. It also meant Silena could be proud of a solution that lasted beyond one heroic afternoon.
+
+"Do you like doing this more than training?" he asked.
+
+"Usually. I like training well enough, but I don't want my entire life to be measured by how many people I can beat in a fight." She set the cleaned frame on its side. "Dad knows Clarisse is good with a spear. I don't think he knows what I do with the rest of my day, and I got tired of waiting for him to ask."
+
+"Could you send him the drawings from today?"
+
+"I could. I might, eventually. But I'm not going to spend tonight trying to make the work look impressive enough for someone who wasn't here to see it."
+
+She said it without much anger. That was almost harder for Percy to hear than if she'd raised her voice.
+
+"Would you mind showing me how to finish the measurements tomorrow?" he asked.
+
+Silena looked up, evidently trying to decide whether he was asking because he meant it.
+
+"You already spent an afternoon holding a stick in a ditch. You're under no obligation to come back."
+
+"I know. I'd like to understand the part you drew before anyone started digging. The maps make more sense when I can see what they're for."
+
+That seemed to satisfy her. She rolled the diagram around a cardboard tube and tucked it into her bag.
+
+"Then come before lunch. We'll go through the north channel while there's enough light to read the old markings. Bring shoes you don't care about."
+
+"My shoes have given up caring."
+
+"I noticed."
+
+As they left the field, Silena gave the closed branch one final inspection. Percy carried the screen and a bag of wet cloth back toward the stores. He felt tired in a pleasant, ordinary way. He had done nothing spectacular with his powers all afternoon, and nobody had needed him to.
+
+The camp bell rang as they reached the path. Silena headed toward the pavilion to speak with the kitchens about the water schedule. Percy volunteered to return the remaining tools, which was how he ended up walking toward the canoe dock with a coil of rope that had no business being left outside.
+
+He could see Clarisse sitting at the far end before he reached the shore.
+---
+
 Percy found Clarisse at the lake just before dinner, sitting at the far end of a low dock with her boots beside her.
 
 He'd been sent to retrieve a coil of rope left by the canoe crew. He wasn't looking for his sister. The coil, however, was at her feet.
