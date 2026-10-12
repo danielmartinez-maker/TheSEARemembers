@@ -103,6 +103,89 @@ He looked at Annabeth. She looked back. Her gray eyes were huge, but her mouth h
 
 Chiron's voice came from below. "Children? What did she say?"
 
+
+---
+
+They were halfway down the attic stairs when Annabeth stopped.
+
+Percy nearly ran into her. Grover was behind him, still helping Rachel with her blanket, and Thalia had taken the lead to make sure the steps were clear. The air had begun to smell like ordinary dust again, but the words from the Oracle stayed sharp in Percy's ears.
+
+"What is it?" he asked.
+
+Annabeth turned her notebook over so that the page was hidden against her chest.
+
+"I want to check what she said about the owl."
+
+Percy stared at her. "Right now?"
+
+"Before everybody starts telling us what it means."
+
+Thalia called from the landing. "Beth, Chiron's waiting."
+
+"One minute."
+
+Something in her voice made Thalia pause. Percy expected a protest, but his girlfriend's sister kept moving, taking Grover and Rachel down the final flight. Clarisse waited a few steps below with Silena, apparently guarding the space without having been asked to.
+
+The moment they were alone, Annabeth unfolded the notebook.
+
+"Sea-born, storm-born, wild hoof-worn. That's Percy, me, and Grover if Chiron agrees. But the end is *owl and trident*. I'm Zeus's daughter here, Percy."
+
+"I know."
+
+"An owl isn't his symbol."
+
+Percy remembered a life in which Annabeth's gray eyes had been proof she was Athena's child. He remembered her wearing an old Yankees cap, studying blueprints, arguing with gods who expected gratitude simply because they had bothered to speak. He remembered the owl on an offering he had once helped her make. Those memories were real to him. They were not proof that the present gods had preserved the same relationships.
+
+"Maybe the prophecy is talking about our other life," he whispered.
+
+Annabeth looked toward the open stairwell. Voices carried from below, Chiron asking for a clear account of Rachel's words, Thalia asking him to wait until everybody was safely down.
+
+"Maybe," she said. "But the Oracle didn't say Athena's daughter. She said owl."
+
+"Could mean you. Could mean somebody else."
+
+"I know. I don't want us to decide it's about me just because it used to be."
+
+Percy felt a cold pinch of fear. In the world they remembered, prophecies had managed to be both accurate and misleading. Sometimes the trouble came from knowing too much and assuming the rest would follow.
+
+"Then we don't decide," he said.
+
+Annabeth examined the page again. She had written the six lines exactly as Rachel spoke them, then underlined the last one. Beside *owl* she put a question mark.
+
+"There's also the thief with somebody else's face," she said.
+
+"Lots of monsters can pretend to be people."
+
+"And gods."
+
+"And mortals with the Mist."
+
+"And people we think we know," Annabeth said.
+
+Percy watched her write three possibilities, leaving space below them. She wasn't listing suspects. She was preventing them from settling on one too soon.
+
+He thought of the stolen bolt from the quest he remembered. The old sequence of events had taught him not to trust the obvious explanation. But the words about stone and a false face were new, and he had no reason to believe his memories supplied the missing answer.
+
+"I don't think we should tell Chiron what we remember about the old bolt," he said.
+
+"Not as if it happened this time," Annabeth agreed. "If we tell him a theory, it should have evidence from this life."
+
+Below them, Chiron called their names.
+
+Annabeth folded the page closed.
+
+"This isn't us forgetting," she said. "It's us checking."
+
+Percy nodded. He took her hand for the last few steps, not to lead her and not to be led, just because the stairs were steep and they were both shaken.
+
+When they reached the landing, Thalia looked at their joined hands and the closed notebook but didn't ask. She was already arguing with Clarisse about whether Rachel should be allowed to walk down unaided.
+
+Rachel, wrapped in her blanket, rolled her eyes.
+
+"I can walk," she said. "I have legs. Also, I would really like toast."
+
+Percy stepped aside so she could pass. For once, nobody tried to turn her into a voice that existed only to tell other people what they should do.
+
 ---
 
 They told him downstairs around the ping-pong table, which had been cleared of paddles and covered with a map of the United States instead.
@@ -201,7 +284,7 @@ Percy could not walk ten feet without someone stopping him.
 
 At the dining pavilion, the Poseidon table was mobbed. Younger kids he barely knew pressed ambrosia squares and drachmas and lucky shells into his hands. A nine-year-old Demeter girl gave him a seed packet. "For emergencies," she whispered. "Plant it and run."
 
-Tyson, Percy's Cyclops half-brother, arrived on a visit from the undersea forges with a waterproof satchel he had stitched himself from old sailcloth, seams crooked but strong, and presented it with both hands. "For quest," Tyson said proudly. "Waterproof. I tested in lake. Peanut butter sandwich survived."
+Tyson, Percy's Cyclops half-brother, still visiting from the undersea forges, arrived with a waterproof satchel he had stitched himself from old sailcloth, seams crooked but strong, and presented it with both hands. "For quest," Tyson said proudly. "Waterproof. I tested in lake. Peanut butter sandwich survived."
 
 Percy hugged him. "Best satchel ever."
 
@@ -389,9 +472,9 @@ Curfew came. Camp slept, or pretended to.
 
 In Cabin Three the lamp burned late. Silena finished the last sandwich label and tied the food bag shut with blue thread in a bow. Clarisse set her spear by the door, ready for morning drills she would lead alone. Percy lay in his bunk with Zoe's charm on its cord around his neck, Tyson's satchel packed by his feet, Ella's blue tie memorized around a harpy wrist by the lake, his sisters breathing on either side.
 
-Across camp in Cabin One — the Zeus cabin, tall and white and humming faintly — Annabeth lay awake tracing the Diver in the air above her bunk, lamp for rope, dim stars for hope held from a boat. Thalia snored softly in the next bunk, one hand dangling down to hold Annabeth's fingers while she slept, guardian even unconscious.
+Across camp, Cabin One's tall white roof was barely visible through Percy's porthole. He imagined Annabeth awake over a last check of the map and Thalia lecturing her about sleep, but he couldn't know. He would see them both at breakfast.
 
-On the hill the mist gathered. In the attic the trapdoor stayed shut. To the west, past the border, past the highway, past stone and desert and chained lightning, something waited without a face.
+On the hill, mist drifted over the border. Percy wondered whether the attic trapdoor was closed again, and whether the thing waiting in the west wore a face he had already seen.
 
 But that was tomorrow.
 
