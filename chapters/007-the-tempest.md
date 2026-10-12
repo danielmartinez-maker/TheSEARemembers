@@ -683,6 +683,108 @@ Annabeth glanced at the Hall beyond the trees. "I don't want to give up investig
 They sat on the dock and drew two columns across the page. One for observations, another for guesses. Annabeth had insisted on it. Percy thought it was a good idea, particularly because most of his guesses were wrong before noon.
 
 ---
+By noon, the workshop behind the forge was crowded with people trying to give yesterday's accident a name.
+
+Nico had brought his ledger. Zoe had brought two diagrams of the Hall's wards, each annotated in handwriting so small that Percy had to lean close to read it. Silena brought the delivery records from the stores, and a Hephaestus camper named Maraeus had the damaged bronze coupling laid on a cloth at the far end of the table.
+
+Annabeth arrived with Thalia. Her fingers were bandaged, and she carried a small notebook rather than the stack of plans she'd been using all week. Chiron had given them permission to attend the explanation, provided nobody touched the metal.
+
+Percy had no intention of touching it. After yesterday, he felt he'd had enough experience with the Hall's fittings to last a lifetime.
+
+"Before anyone starts accusing a god," Zoe said, looking at the group, "I want you to know that the coupling did what it was designed to do once the emergency release was activated. The problem was everything that happened before the release."
+
+"What does that mean?" Percy asked.
+
+"It means this piece was connected to more than one ward circuit. Normally, when a section becomes overloaded, the protective system should isolate that section before the excess power travels into the next one. Yesterday it didn't. The charge was able to move between several columns before Chiron's arrow separated the damaged fitting."
+
+Thalia leaned toward the diagrams. "Is that because somebody installed the wrong bracket?"
+
+"Not necessarily." Maraeus turned the coupling over using a pair of dry tools. "The bracket holds a fitting in place. It doesn't decide how the enchantment behaves. If the stone shifts or a connection comes loose, though, the ward can behave unpredictably."
+
+Annabeth frowned. "Could the drakon have damaged the part last week and left it looking intact?"
+
+"Yes. We're checking the entire run for hairline cracks, not just the places where the bronze broke outright." Maraeus tapped a small mark on the drawing. "But there's another possibility. The protective sequence was built to work with the original fittings. If somebody replaced a section without updating the ward pattern, the system might have continued operating while one safety function no longer worked."
+
+Nico made a note so quickly his pencil scratched a hole in the page.
+
+"So the replacement could be legitimate and the failure could still be connected to the work," he said.
+
+"Exactly. That's why we're comparing records rather than deciding the newest person to touch the building must be a saboteur."
+
+Percy was beginning to suspect that every adult involved in this investigation had been required to practice the same sentence before breakfast. He kept the thought to himself. They had earned the right to say it.
+
+Silena opened her delivery book.
+
+"The stores received new couplings a few weeks before the last round of repairs. But the order is divided into two shipments. One was delivered to the forge, and the other went directly to the maintenance team. The second delivery was signed for by an employee I haven't been able to identify."
+
+"Could it have been the same worker Nico found on the old record?" Annabeth asked.
+
+"We don't know. The signature is abbreviated, and I haven't found a copy in the other logs." Silena looked at Thalia. "Before you ask, the invoice came through Zeus's steward's office. That tells us who authorized the payment. It doesn't tell us who carried the box."
+
+"I know," Thalia said. "I'm trying very hard not to ask the question in a way that makes everybody repeat that."
+
+Zoe hid a smile behind her paper.
+
+Annabeth reached for the diagram, then stopped when she noticed her bandaged fingers. Percy moved it closer without touching the metal on the table. She gave him a brief, grateful look.
+
+"If the ward was built to respond to children of Zeus, would it recognize me as a source?" she asked.
+
+Maraeus considered his answer.
+
+"It could. Some protective enchantments draw from the energy available around them. That doesn't make you responsible for the malfunction. It means your presence might have made a damaged system behave differently from the way it did during the earlier inspections."
+
+"Then why didn't it happen to Thalia?" Percy asked.
+
+"Perhaps because she wasn't standing beside the active connection at that moment. Perhaps because her control is different. There are too many variables to know."
+
+Thalia looked from the diagram to Annabeth.
+
+"I told Chiron I didn't recognize the pattern when I approached the Hall. Does that help?"
+
+"It does," Zoe said. "It suggests you weren't unconsciously creating the whole thing. We'd still need proper tests before we could be certain how the enchantment responded to either of you."
+
+Annabeth sat back. She had been carrying the question of whether she'd caused the accident since the previous morning. Percy could see that a qualified explanation did not relieve her completely. It did give her something other than guilt to work with.
+
+Nico tapped the work order.
+
+"Who supervised the second installation?"
+
+"That's what we're trying to establish," Silena said. "The team changed at the start of the season, and two people who worked here then have since gone back to their families. Chiron's asked them for statements. Until they answer, the record stops with the abbreviated signature."
+
+Thalia crossed her arms.
+
+"So our next step isn't hunting down a mysterious A. It's finding out who delivered a box of couplings and who installed the replacement."
+
+"Among other things," Zoe said. "The note you found in the attic still needs a provenance check. There is no reason yet to assume its author was involved with the Hall's maintenance."
+
+"Nor the missing prophecy," Nico added.
+
+Percy looked at the page where Nico had written the dates. He wanted the pieces to form a picture. He wanted to know why Annabeth had woken in a life she didn't remember, why his sisters were Poseidon's daughters, and why the Hall's construction records seemed to gather rumors around them. The damaged coupling was real. It was tempting to make it carry all those answers.
+
+It wasn't built to.
+
+Silena closed the delivery book.
+
+"I'm meeting the stores keeper after lunch to see whether he remembers the missing signature. Annabeth, if your hands are still sore, I can copy the remaining measurements for you. We won't lose a day because you can't hold a pencil comfortably."
+
+"I can dictate them," Annabeth replied. "And I'd like to hear what the stores keeper says, if he doesn't mind."
+
+"Then come with me. He's usually much less suspicious when somebody asks him about missing invoices instead of telling him he's part of a conspiracy."
+
+Thalia looked at Percy.
+
+"You've got the broken practice rack to repair, don't you?"
+
+He sighed. "My instructor has become extraordinarily attached to the idea that I should finish the tasks she assigns."
+
+"Good. It'll give you something to do with your hands other than run toward lightning."
+
+It was the sort of comment that might have started another argument a week earlier. Percy had earned it. He picked up his toolbox and left the meeting with the others' plans written down in his notebook.
+
+Outside the forge the sky remained gray. The Hall was still behind canvas, and Chiron had not reopened the paths around it. The work they needed to do would take longer than an afternoon, but at least each person now knew which question belonged to them.
+
+Percy headed for Tempest Hall to fix the rack. He could leave the couplings alone for a few hours.
+---
 
 That night Percy found a folded packing list in the bottom of his trunk. Amphitrite had written it in a neat hand, with two pairs of sandals circled and three ceremonial cloaks decisively crossed out.
 
