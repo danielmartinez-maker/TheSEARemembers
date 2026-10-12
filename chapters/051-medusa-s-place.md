@@ -888,6 +888,42 @@ Percy didn't try to turn the silence into another comforting story. He sat besid
 
 "Hold on, Uncle," he whispered. "Just hold on."
 
+Before they left the transfer site, Annabeth asked Martin where he intended to stop for the night.
+
+He unfolded an old road atlas across the hood. Several of its pages had been marked by previous travelers. One note warned about an unreliable bridge in heavy rain. Another identified a twenty-four-hour diner with a manager who knew how to turn away questions about unusually armed children without attracting police attention.
+
+"We can reach the area west of here before it's too late," Martin said. "I won't drive exhausted. If we need to sleep, we sleep."
+
+Thalia frowned at the distance. "The solstice isn't getting any farther away."
+
+"Neither is a crash," Martin answered.
+
+That ended the argument. Percy had expected Thalia to be furious, but she studied the atlas and asked where the safer overnight stop would be.
+
+Grover was holding the transfer receipt. He turned it over several times, reading the name of the recovery worker as though repetition could make him easier to find.
+
+"Can I give a copy to Juniper?" he asked.
+
+"Later," Percy said. "When we can send our messages together."
+
+Grover nodded, then tucked the receipt beside the note he'd written for her at the bus station.
+
+Annabeth drew their proposed route on a clean sheet. She didn't claim the garden emporium had proved who stole the bolt. She wrote down what they knew: a humming box, a witness, a courier drop, a black car and a westbound direction. Beside *studio*, she placed a question mark rather than Hades's name.
+
+"We should keep looking for confirmation," she said. "If we're wrong about where the box went, at least we won't have lied to ourselves about knowing."
+
+Percy thought of the way Medusa had called them children who remembered stories incorrectly. She'd been right about one thing: they had expected a mirror to be a weapon against the very person who lived with that reflection every day. They'd survived because they changed tactics, not because an old story happened to unfold exactly as they'd predicted.
+
+He looked at Annabeth's fresh page and felt grateful for the question marks.
+
+"Keep that copy on top," he said. "I want to know what we're assuming the next time someone tells us we're almost there."
+
+Annabeth folded it once, carefully. "Deal."
+
+Martin closed the atlas. He gave Thalia the passenger seat so she could watch the signs, then waited until every seat belt clicked before starting the engine.
+
+Percy looked out the window. Behind them, a team would arrive to record the people still trapped among the garden statues. Ahead of them, the ordinary road was filling with evening traffic. He couldn't see the bolt, but he could tell where the next stop was. That was something.
+
 Martin checked the mirrors, took the wheel and started the van. Thalia rode behind him, with Annabeth beside her and the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
 
 Percy sat in back with Grover, keeping a hand on his friend's sleeve when the road became rough.
