@@ -208,7 +208,7 @@ They reached the shallow bend — their assigned post — and dropped into the f
 
 "Guard duty with cookies is better than guard duty without cookies," Silena said firmly, pressing one into his hand. "Amphitrite told us to look after you. Hydration and cookies count."
 
-Percy took the cookie. It was impossible to argue with Silena when she invoked instructions from a queen. Amphitrite hadn't raised his sisters; Silena had found a way to turn yesterday's friendly advice into authority anyway.
+Percy took the cookie. It was impossible to argue with Silena when she invoked instructions from a queen. Amphitrite hadn't raised his sisters, and Percy appreciated that Silena could take a kind remark from his mother without pretending it settled the harder questions about Poseidon.
 
 They crouched in the ferns, munching. Across the creek, Zoe's eyes flicked to them. She sniffed disdainfully.
 
@@ -360,7 +360,7 @@ She couldn't say any of it. So she said, "West approach. Past the amphitheater. 
 
 Thalia studied her for a long moment, then nodded slowly. "Okay. Do it. And Annabeth — " She gripped Annabeth's shoulder, fierce and warm. "Be careful. Clarisse fights dirty. If you get caught, don't be a hero. Let us come get you."
 
-It was such a big-sister thing to say that Annabeth's throat closed up. Thalia — this Thalia, sixteen and alive and sparking with life, who in Annabeth's original timeline had spent years as a tree — looking at her like she mattered.
+It was such a big-sister thing to say that Annabeth's throat closed up. Thalia, alive and sparking with life, who in Annabeth's original timeline had spent years as a tree — looking at her like she mattered.
 
 "Okay," Annabeth managed.
 
@@ -674,7 +674,7 @@ Silena flopped down on Percy's other side, muddy and radiant. "You owe me a cook
 
 Percy's hand flew to his hair — to the thin strip of gray fabric braided behind his ear, cut from the hem of Annabeth's old camp shirt. He'd worn it since Annabeth gave it to him at camp. He thought nobody had noticed.
 
-Silena winked. "Sisters notice everything, little brother. Don't worry. Your secret's safe with me. Mostly. Until I need blackmail."
+Silena winked. "Sisters notice everything, little brother. Don't worry. Your very obvious crush is safe with me. Mostly. Until I need blackmail."
 
 Clarisse dropped onto the steps with them, plate in hand, and ruffled Percy's wet hair hard enough to nearly knock him over. "Good game, squirt," she said gruffly. "You held the creek like a real Poseidon. Dad'd be proud."
 
@@ -725,6 +725,3 @@ It was a draw.
 It felt like winning.
 
 ---
-
----
-
