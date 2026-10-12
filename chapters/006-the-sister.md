@@ -374,99 +374,195 @@ Thalia walked away with more questions than she'd brought. She hadn't caught him
 
 It wasn't enough to make her trust him. It was enough to make her wish she'd asked a better first question.
 ---
+By the time Thalia got back to Cabin One, Annabeth was sorting a pile of old papers at the desk.
 
-That night sleep refused Thalia.
+The lamp gave the room a warm patch of light that couldn't reach the dark corners. Beside it sat the honey mug Thalia had washed that morning, filled again. Annabeth had put a second cup next to it.
 
-She lay rigid, ceiling swimming overhead, tracking Annabeth's even breaths from the opposite bunk. The mattress ticked with every restless shift. A spider worked a corner of the rafters, patient as grief. Her sister — her *little* sister, the child she'd reared and shielded and loved with an intensity that sometimes alarmed her — harbored secrets. And Thalia lacked a protocol. She catalogued the sounds the way she used to catalog Beryl's footsteps: the bunk rope creaking, Annabeth's soft exhale catching every fourth breath, the owls trading calls beyond the walls.
+"That one's yours," she said without looking up. "Silena gave me some mint after dinner. I thought you'd want something warm when you got back."
 
-Memory unspooled: the Beryl years — bottles clinking in the sink at 2 a.m., volatility, Thalia memorizing prodromes of domestic weather. Ensuring Annabeth ate peanut butter straight from the jar when money ran thin. Ensuring locks held. Cobbling together a semblance of childhood from chaos and coupons and library air-conditioning in August.
+Thalia set her jacket on the chair. The gesture was familiar and not familiar at once. She could remember Annabeth bringing her tea after bad patrols, although until recently she'd usually accompanied it with a dozen questions about what had happened. Now she seemed to be trying to give Thalia the cup without letting it become a conversation.
 
-Camp Half-Blood had promised sanctuary. A venue for girlhood instead of survival. Yet Thalia had never retired the guardianship. Never ceased scanning, shielding, fretting.
+"Thanks," she said.
 
-And now Annabeth receded.
+Annabeth kept sorting. The papers were public copies of the Hall records, all stamped with Chiron's permission. Thalia recognized the drawing they'd made that morning.
 
-Not bodily. There she lay, respirations steady in the dark, as across countless nights. But some axis had tilted, and Thalia could no longer bridge the interval.
+"I spoke to Percy," she said.
 
-She rose. Air. Necessity.
+Annabeth's hand stopped halfway to a folder.
 
-The cabin slept in darkness. She dressed hastily, denim cold against skin, and slipped into night. Camp lay hushed, cabins black, sole illumination the pavilion's dying embers and a bone-white moon.
+"About the Hall?"
 
-Feet unguided, she drifted lakeside, dockward, toward the planks where she'd retrieved Annabeth innumerable times.
+"About you. And him."
 
-And there Annabeth waited.
+Annabeth sighed, not loudly, but enough that Thalia could hear how tired she was.
 
-Not solitary.
+"Thalia, I've told you where I go and when I'll be back. If you want to know something about me, could you try asking me before you corner Percy at training?"
 
-Percy flanked her. Hunched close, murmuring, they started at Thalia's emergence — twin expressions of guilt, of capture. The dock creaked under Thalia's step. Moonlight silvered the black water between the pilings, and mosquitoes stitched the lamplight from the far shore.
+"I tried asking you. You kept saying everything was fine when it obviously wasn't. Do you have any idea how that sounds to somebody who's spent years knowing when you're frightened?"
 
-"Thalia," Annabeth said, taut. "Why are you here?"
+"I know it frightens you," Annabeth said. "I don't always know how to answer without making things worse."
 
-"Counter-inquiry stands."
+"Then don't give me an answer just to get rid of me."
 
-"Couldn't sleep. Sought thinking space."
+Annabeth put down the folder. She sat back, visibly deciding not to hide behind the paperwork.
 
-"With escort?"
+"All right. Ask me what you want to know."
 
-"Merely conversing."
+Thalia hadn't expected the offer. Every question she'd prepared sounded awful now that she had permission to ask it.
 
-Thalia's jaw clenched, pine resin sharp on the breeze. "Perpetually *merely conversing*. Every night. Daily. Joint disappearances, whispers, glances freighted with shared secrets—"
+"Do you actually want to spend time with him?" she asked. "Not because he understands some mysterious thing better than I do, or because he asked you to help with the Hall. Do you like being with Percy?"
 
-"Because a secret exists," Annabeth said evenly. "One I'm not yet free to disclose."
+Annabeth looked at her in astonishment.
 
-"Withhold on what grounds?"
+"Of course I do. I like him a lot. He's funny, and he listens to me argue through a problem even when I'm being impossible. Sometimes he notices when I'm exhausted before I notice it myself. You can dislike that I spend so much time with him, but it isn't something he's making me do."
 
-"Ownership isn't mine. And credulity would fail you."
+"He's your boyfriend," Thalia said.
 
-"Test me."
+Annabeth flushed a little. Thalia was pleased to discover that her sister could still look embarrassed about an ordinary human thing.
 
-Annabeth glanced toward Percy. His fractional headshake — *withhold* — answered, and she pivoted back.
+"Yes," Annabeth said. "Is that the problem?"
 
-"Forgive me," she said. "I recognize the strain. Your worry. But I require your faith."
+"It's one of the things you didn't tell me. I had to hear it from him."
 
-"Faith in you persists. In *him*, none."
+"I thought it was obvious. Half the camp's been teasing us about it."
 
-"You scarcely know him."
+"Obvious isn't the same as having you tell me. I'd like to be somebody you talk to when something makes you happy."
 
-"Sufficiently. He materialized from void and suddenly you transform. You forget. You evade. You eye me as a stranger."
+Annabeth looked away. The last sentence had come out more vulnerable than Thalia intended, and she was tempted to cover it with a joke. She didn't.
 
-The accusation hung, barbed and aching, the lake lapping hollow against the dock barrels. Something guttered in Annabeth's eyes — guilt, grief — and Thalia nearly retracted. Her anger faltered against the sight of her sister's bitten lip, the childhood tell that always preceded tears.
+"I am happy with him," Annabeth said quietly. "It doesn't mean I don't love you. I know you've been worried since I was sick, and I know I keep making it harder. But Percy isn't the reason I've been different. I can't explain the whole reason yet. I'm trying to understand it myself."
 
-She held firm. Truth licensed bluntness.
+"You're allowed to change," Thalia said. "What I can't stand is being the last person to realize you're changing."
 
-"Stranger is false," Annabeth said quietly, fingers worrying the dock's splintered edge. "Sister is permanent. I'll always be that. Yet I'm also... someone unintroduced. Someone requiring assembly. Grant patience while I assemble."
+Annabeth reached for the tea, found it had gone cold and put it down.
 
-Thalia's throat constricted. "Three weeks of patience expended."
+"Some of it happened too fast for me, too."
 
-"Noted. And regretted. But I petition more."
+Thalia sat opposite her. For once she made no attempt to look at the notebook.
 
-"Quantum?"
+"Will you tell me one thing that's been difficult? Something I could actually help with?"
 
-"Indeterminate."
+Annabeth considered. "When you tell stories about us as kids, I sometimes can't picture them. It's like hearing about someone who looks like me and has my name, but I don't remember being there. I don't know whether that means the fever damaged something, or whether I'm just having a difficult time finding the memories. Every time you expect me to laugh at a story I can't remember, I feel as though I've disappointed you."
 
-Across weathered boards they regarded each other, separation measured in inches and eternities. A fish jumped somewhere out in the dark with a hollow plop. Percy kept silence, hands clasped to keep them still, and Thalia battled an urge to shake explanations from him — to demand restoration, to rewind her sister to factory settings, to march them both back to the cabin and bar the door against whatever waited outside it.
+Thalia stared at the cup in her hands.
 
-She abstained. Because Annabeth's eyes carried an ache Thalia recognized intimately. The burden of cherishing someone beyond rescue.
+She had noticed the gaps. She'd even started keeping a little mental list, trying to find a pattern she could take to Chiron. Hearing Annabeth admit the problem out loud made her relieved and miserable in equal measure.
 
-"Fine," Thalia said eventually, voice frayed. "Fine. Take the interval. But Annabeth — whatever this involvement entails, my station holds. I'm your sister. Perpetual protector. Against him. Against even yourself."
+"You could have told me that," she said.
 
-"Understood," Annabeth whispered. "Understood."
+"I was scared you'd think I didn't care about our childhood."
 
-Thalia departed, vision swimming with unshed tears, gravel crunching too loud under her sandals. At her back Annabeth emitted a small, strangled sound — grief or relief or alloy — followed by Percy's low murmur of comfort, the cadence of someone practiced at talking people down from ledges.
+"Annabeth, I was there. I know you cared."
 
-Thalia quickened pace, widening the gap, and night absorbed her entire.
+"But I wasn't, in the way you mean. I don't have the memories that prove it to me." Annabeth rubbed the back of her hand, where a faint electrical burn had healed. "When you talk about our mother or the places we lived, it feels as if I'm pretending to belong in my own family."
 
+Thalia set down her mug. She wanted to correct the phrase, tell Annabeth she couldn't possibly be pretending. But that would answer a question Annabeth hadn't asked, and it wouldn't give back a single lost afternoon.
+
+"Then I'll stop testing you on things you don't remember," she said. "I keep telling the stories because they matter to me. I didn't realize it felt like an exam."
+
+"Don't stop telling them. Just don't make me finish the punchline."
+
+Thalia smiled despite herself.
+
+"That's going to be difficult. You were always good at the punchlines."
+
+"Then you can enjoy them twice."
+
+It was almost an ordinary conversation. Thalia felt herself relaxing enough to drink the tea.
+
+Then Annabeth moved the folder aside and exposed a page covered in notes about the Hall. Beside it she'd drawn two versions of the camp layout. One was the current arrangement. The other placed the cabins differently, in a pattern Thalia had never seen.
+
+"What's that?" she asked.
+
+"An old plan I'm comparing with the current one."
+
+"An old plan from where?"
+
+Annabeth hesitated.
+
+It was such a small hesitation, but Thalia had learned to recognize it. The conversation had reached the edge of whatever Annabeth wasn't willing to tell her.
+
+"Please," Thalia said. "We just had ten minutes of actually talking. Don't send me away now."
+
+"I'm not sending you away. I'm asking you to trust that I can't explain the source of that drawing tonight."
+
+Thalia glanced at the page. Percy had been asking about the changed cabin placements from the day he arrived. She didn't want to suspect that her sister was lying. She did suspect there was more here than a lost architectural sketch.
+
+"Do you trust him with the source?"
+
+"Yes."
+
+"Then why not me?"
+
+Annabeth's mouth tightened.
+
+"Because it isn't only my secret. I can't decide what Percy tells people about his family or about what he remembers. And even if I could, I'm not sure you'd believe us. We're trying to find facts other people can check before we tell a story that might hurt them."
+
+Thalia didn't know what could be so unlikely that Annabeth thought it would be kinder to leave her guessing. She thought of Beryl insisting that everything was fine when the electricity had been cut off for the third time. She thought of the way adults used the word *trust* when they wanted two children to stop asking questions.
+
+"I hate hearing that word used as a reason not to answer me," she said.
+
+"I know. But I'm not asking you to ignore what you see. I just can't give you a complete explanation yet."
+
+Thalia pushed back from the table.
+
+"If you're keeping something from me because you're frightened, I want to help. If you're keeping it because Percy asked you to, that's different."
+
+"He's not making me do this," Annabeth said, her voice sharpening. "Please stop turning every choice I make into something he must have decided for me."
+
+Thalia stood. She didn't trust herself to stay seated and argue without becoming unfair.
+
+"I'll talk to you in the morning," she said.
+
+Annabeth looked exhausted. "I'd like that. We can talk without the papers if you want."
+
+Thalia took her jacket. She didn't leave because she wanted to punish Annabeth, or because she thought the conversation was finished. She left because she could hear herself getting closer to saying something that could not be taken back.
+
+Outside, the wind had turned cold. The Hall was visible above the trees with lanterns burning beside its damaged wall. Thalia walked toward the canoe shed and listened to the ropes knock against the poles.
+
+She didn't know what was wrong with her sister. She knew more about how the uncertainty felt to Annabeth than she had an hour earlier, and that made it harder to turn her fear into anger at Percy.
+
+It did not make it impossible.
 ---
+Thalia came back to the cabin after the last watch bell.
 
-Back in the bunk, ceilingward, Thalia wept.
+Annabeth was asleep, or pretending to be. Her notebook had been closed and placed beneath the lamp, and the two mugs were washed and set upside down on a cloth. Thalia hung her jacket, checked the latch, and sat on her own bunk without turning on the light.
 
-Silently, per childhood training — noiseless, motionless, tears merely tracking sideways into hair and pillow. The wool blanket scratched her chin. She bit the inside of her cheek until copper bloomed, the old trick for staying soundless when Beryl raged in the next room.
+She remembered a motel outside Richmond. Beryl had left them for a weekend with enough money for one proper meal and directions to a grocery store that wasn't there anymore. Thalia had counted the coins five times, bought bread and peanut butter, and told Annabeth that eating the same thing for three days was an exciting experiment.
 
-A lifetime invested in Annabeth's defense. Birthday candles shielded from drafts. Splinters tweezed out by flashlight. Lies told to social workers with a steady smile. And now Annabeth required no defense. Or worse — required defense against an invisible, unbladeable, incomprehensible adversary. Thalia's spear leaned useless in the corner, moonlight striping its shaft.
+Annabeth had believed her. Or had been kind enough to pretend.
 
-She hated that she couldn't solve this by standing between Annabeth and something with teeth.
+Thalia could still hear her asking whether the bread would last until their mother came back. She had wanted to say yes with such conviction that she almost convinced herself.
 
-And she despised it with a physical nausea.
+Now she couldn't even tell her sister that the drawings on the desk were safe to keep, because she didn't know where they'd come from. She could protect Annabeth against monsters. She had no idea how to protect somebody against an absence inside their own memory.
 
+She lay down but didn't sleep. At some point she heard Annabeth shift in the other bed.
+
+"Thalia?"
+
+"Yeah."
+
+"Did you come back because you were worried about me?"
+
+"Mostly because I live here."
+
+Annabeth made the soft noise she made when she knew a joke was bad but appreciated it anyway.
+
+"I meant the conversation."
+
+Thalia stared into the dark. She could choose a comforting lie. Annabeth might even believe it, and they could both pretend the evening hadn't hurt.
+
+"I came back because I don't want every argument to end with one of us walking out," she said. "I still want to know what's going on. I'm still angry that you won't tell me. But I don't want you to think that means I don't want you here."
+
+"I don't," Annabeth whispered. "I just don't know how to fix the part that's hurting you."
+
+"Then stop trying to fix it tonight. Go to sleep."
+
+For a while she heard nothing. Then the mattress creaked and Annabeth settled.
+
+Thalia turned onto her side. The repaired window catch held in the wind, and the room stayed dark. She had no revelation, no promise that her sister would wake with her memories restored, and no reason to believe tomorrow would be easy.
+
+It was still their cabin. For now she could bear the difference.
 ---
 By morning Thalia had decided she owed Annabeth an actual question, not another warning.
 
