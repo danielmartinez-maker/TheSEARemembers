@@ -642,4 +642,10 @@ Percy climbed into his bunk, pulled the blue blanket up to his chin, and smiled 
 
 Silena didn't understand, but she wrote it down anyway: *He carried water. Percy smiled. Goodnight.*
 
-Outside, the gulls had finally gone quiet. The sea hummed far below, steady through the rock. And in Cabin Three, three children of Poseidon slept under one roof, bracelets glinting in the dark — blue and green and gold — while the tide kept watch.
+Outside, the gulls had finally gone quiet. Percy lay awake a little longer while Silena finished her journal entry. Clarisse turned over in the next bunk and demanded that he stop smiling in the dark because she could somehow hear it.
+
+"Not possible," Percy whispered.
+
+"Then stop making it possible."
+
+He turned toward the wall. He was still smiling when he fell asleep.
