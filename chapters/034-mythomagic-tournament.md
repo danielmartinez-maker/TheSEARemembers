@@ -878,8 +878,12 @@ Grover raised his juice box. "To the champion! To the runner-up! To the ten-year
 
 Annabeth looked at Percy — fish boy, dark horse, keeper of their memories — and thought: next tournament, she was running three Zeuses and a side deck just for him. Next time, no smiles. Next time, war.
 
-But tonight, cozy and golden, she let him have the win. She let herself lean against her sister and watch the sky forget to be stormy, and the sea remember to be calm.
+Annabeth turned to Percy and pointed at his deck.
 
-Champion or not, she'd already won the best prize: people who stayed for juice boxes after losing.
+"Eleven shuffles," she said. "Next time Chiron imposes a limit."
 
-Even if one of them shuffled eleven times.
+"Since when are you in charge of that?"
+
+"Since now."
+
+Thalia laughed and offered Annabeth the last juice box. Percy started to protest, then noticed his own deck still needed sorting. Annabeth borrowed two cards to demonstrate the move that would have beaten him, and they were arguing about it long after the tournament table was cleared.
