@@ -24,7 +24,7 @@ Percy sat up so fast his head spun. His hands, he looked down at his hands, were
 
 he was in his chambers in the palace of Atlantis, and he was twelve years old, and he remembered being seventeen. He remembered Tartarus, the ash, the screams, the way Annabeth's hand had felt in his, like the only solid thing in a collapsing world. He remembered the Giant War, the pages of the prophecy, the taste of ambrosia on his tongue. He remembered New Rome, the university pamphlets, the apartment they'd circled in a real estate listing, the three recommendation letters that stood between him and a normal life.
 
-He remembered going to sleep in that life. In their bed. With Annabeth's hair tickling his nose and her breath steady against his collarbone and the ordinary, perfect silence of a world where nothing needed saving for once.
+He remembered the last quiet evening with Annabeth, university pamphlets spread across their bed as they argued about a secondhand sofa for an apartment they couldn't afford yet. That had been their biggest problem. For once.
 
 And now he was here.
 
@@ -90,7 +90,7 @@ Percy crossed the room. Poseidon engulfed him in a hug that smelled like salt an
 
 "Dad, we've talked about it..."
 
-"I know. I know." Poseidon rubbed the back of his neck. "It's just, Amphitrite worries. I worry. You've never been to the surface. Never been around mortals your own age. If anything happened to you..."
+"I know. I know." Poseidon rubbed the back of his neck. "It's just that Amphitrite worries. I worry. You've never been to the surface. Never been around mortals your own age. If anything happened to you..."
 
 "Nothing's going to happen to me," Percy said, and the words came out more confidently than he felt, because in his original timeline, he had faced down gods and Titans and the literal underworld, and the idea of Camp Half-Blood being *dangerous* was almost funny.
 
@@ -246,6 +246,140 @@ She shooed him off with a gentle current, and Percy swam back toward the palace 
 Not much. Not enough.
 
 But something.
+
+At their fourth *Tessera* game, Percy realized that the shell board was less a diversion than an elaborate method of humiliating people who thought they understood currents.
+
+He moved a red coral piece three squares. A hidden channel caught it and swept it directly into a painted whirlpool.
+
+Amphitrite reached over to rescue the piece. "Again?"
+
+"You're cheating."
+
+"I'm sitting here."
+
+"You're doing it with your face."
+
+"Would you like to play a different game?"
+
+"No. I want to figure out this one."
+
+She reset the piece, but didn't move hers. "Then look at the channels before you touch anything."
+
+The board was a circle crossed by nine thin grooves. Players opened tiny gates along the rim, changing the direction of water and moving pieces into new positions. It looked simple. Percy was on his seventh loss, although Amphitrite claimed the game he'd abandoned at breakfast did not count.
+
+His next move gave him the center. He was about to celebrate when Amphitrite opened the gate behind his pieces. Three of them drifted straight into her territory.
+
+"That," he said, "should be illegal."
+
+"Make a law."
+
+"I'm a prince. I could."
+
+She laughed, which was a nice change from the worried attention he'd been getting all week.
+
+Percy watched the board. He couldn't remember learning the game. A boy who had grown up here was apparently supposed to know it by heart. Sometimes his fingers moved toward a gate before he had chosen it. He couldn't tell whether that was instinct, habit, or the game itself suggesting the obvious move.
+
+Annabeth would have loved it. She'd have worked out the rules in minutes, then spent hours finding ways to win with the worst possible opening position. Percy could almost hear her telling him why a move was stupid while she made the same move herself just to prove a point.
+
+"Percy?"
+
+"Sorry." He looked up. "What?"
+
+"I asked whether you wanted another round."
+
+"Yeah."
+
+Amphitrite started putting the pieces back. "You used to demand three more games every time you lost."
+
+"Used to?"
+
+"When you were six. I sometimes had to tell the servants to put the board away."
+
+"What was I like at six?"
+
+Her hands stopped over the red pieces.
+
+"Stubborn," she said eventually. "Very sure of yourself. You once told Triton that he only won because he was older."
+
+"Was I right?"
+
+"He cheated with the current."
+
+Percy grinned. "I knew it."
+
+"You didn't, actually. You apologized when I explained you were wrong."
+
+He tried to picture the scene. There was nothing. He had a clear idea of what Triton looked like when he was being insufferable, but he couldn't remember arguing with him across this board. The past everyone else carried was full of little details like that. They were precisely the details that made it hard to fake knowing his own life.
+
+"Keep going," he said.
+
+"With the game?"
+
+"With the stories."
+
+Amphitrite put down the pieces.
+
+"Do they help?"
+
+He considered lying. "I like hearing them."
+
+"That isn't what I asked."
+
+"No," he said. "They don't help me remember."
+
+There was a pause. Water slid through the grooves, bringing two unclaimed pieces together.
+
+"When you first told me about Sally," she said, "I thought you were describing a dream that had frightened you. Then you spoke about school. About friends. You were angry when I asked which stories were real."
+
+"I know."
+
+"I don't think it was a dream anymore."
+
+Percy watched her carefully.
+
+"I don't know what it was," she continued. "But you believe it, and I can see what it costs you when we assume you remember being here."
+
+"Sometimes I know where to go without thinking. But if you ask me what I did there when I was seven, I can't tell you. I don't know."
+
+"And in the life you remember?"
+
+"I remember Mom. Growing up with her. I remember camp. Annabeth." He stopped, afraid he had said too much.
+
+Amphitrite looked down at the game, giving him an opportunity to collect himself.
+
+"I think you should tell your father," she said.
+
+"Not before camp. Please."
+
+"He'll have questions."
+
+"And he'll try to answer them by keeping me here."
+
+"He may."
+
+"I need to go."
+
+She didn't ask him why. Percy was relieved, though he suspected the silence meant she had several guesses of her own.
+
+"I won't bring your memories before the court," she said. "But I can't promise to conceal that you're struggling if your father asks."
+
+"Fair."
+
+She made a final move. His remaining red pieces drifted away.
+
+"Eight," he said.
+
+"Eight what?"
+
+"Games you've won."
+
+"Seven. We agreed breakfast didn't count."
+
+"We agreed nothing."
+
+"Then you'd better win the next one."
+
+Percy reached for the gates. Whatever else he had forgotten, he was beginning to understand the board.
 
 ---
 
@@ -429,6 +563,28 @@ Thalia. Percy's heart rate spiked. In his original timeline, Thalia had become a
 
 "Thalia's a camper?" he asked, trying to keep his voice casual.
 
+"Yeah! She's amazing. Best fighter at camp, probably. She's got a younger sister in the same cabin, Annabeth. Cute kid. Bit of a handful, from what I hear."
+
+Annabeth.
+
+Percy stopped walking. The name was a detonation in his chest, a pulse of heat that started in his core and radiated outward until his fingertips tingled.
+
+*Annabeth.*
+
+She was here. She was at camp. She was alive and twelve years old and a Zeus kid, and Percy, who had been trying so hard to hold himself together, to be twelve years old, to be the sheltered prince from Atlantis, felt his composure crack down the middle.
+
+"Whoa," Grover said, turning. "You okay? You look kind of pale."
+
+"I'm fine," Percy said, looking away. "I just, can I meet her? Annabeth?"
+
+"I mean, sure, I guess? She's probably using the Athena cabin's library table again. She lives with Thalia in Cabin One. I can introduce you after you check in with Chiron..."
+
+"Could we go now?" Percy asked. The effort to sound casual almost hurt.
+
+Grover blinked. "Okay. Sure. She's probably in the cabin, come on."
+
+On the way across the green, Grover pointed out the cabins.
+
 Once they had descended, Grover led Percy along a broad path between the cabins. Percy catalogued everything he saw. The cabins curved around the central clearing, familiar in outline but wrong in arrangement. In his original timeline, the order followed the Twelve Olympians in a specific sequence, with the three big three cabins at the center. Here, the arrangement looked almost random, as though someone had shuffled the deck and dealt a new hand.
 
 He counted the cabins again, checking the familiar divine insignia. The positions were different. The position of the Poseidon cabin was farther from the center than it should have been, almost at the edge, and the Zeus cabin was prominently placed near the front.
@@ -460,26 +616,6 @@ Percy smiled despite himself. That sounded exactly like something his Grover wou
 Percy wasn't sure what "the others" meant, but he filed it away. Another piece of the puzzle. Another difference between this timeline and his own.
 
 They walked on, and the camp grew larger around them, and Percy tried to memorize every detail while pretending he wasn't terrified.
-
-"Yeah! She's amazing. Best fighter at camp, probably. She's got a younger sister in the same cabin, Annabeth. Cute kid. Bit of a handful, from what I hear."
-
-Annabeth.
-
-Percy stopped walking. The name was a detonation in his chest, a pulse of heat that started in his core and radiated outward until his fingertips tingled.
-
-*Annabeth.*
-
-She was here. She was at camp. She was alive and twelve years old and a Zeus kid, and Percy, who had been trying so hard to hold himself together, to be twelve years old, to be the sheltered prince from Atlantis, felt his composure crack down the middle.
-
-"Whoa," Grover said, turning. "You okay? You look kind of pale."
-
-"I'm fine," Percy said, looking away. "I just, can I meet her? Annabeth?"
-
-"I mean, sure, I guess? She's probably using the Athena cabin's library table again. She lives with Thalia in Cabin One. I can introduce you after you check in with Chiron..."
-
-"Could we go now?" Percy asked. The effort to sound casual almost hurt.
-
-Grover blinked. "Okay. Sure. She's probably in the cabin, come on."
 
 Grover changed course toward the Athena cabin, and Percy's heart hammered. Every step brought him closer to her, to Annabeth, to the girl he'd loved for years, to the person who might be the only other person in this altered world who remembered the life they'd shared.
 
@@ -557,13 +693,13 @@ Annabeth wiped her eyes with the back of her hand. "How did this happen?"
 
 "Are there others? Do you think anyone else..."
 
-"I don't know." Percy ran a hand through his hair. "I don't know anything except that you're here and I'm here and we remember."
+"I don't know." Percy ran a hand through his hair. "I don't know enough to promise answers. I know you're here. That's something."
 
 Annabeth nodded shakily. Then, with a deliberateness that told him she was holding herself together by force of will, she straightened her spine and squared her shoulders. The gesture was so quintessentially Annabeth, the daughter of wisdom who had commanded armies and faced down gods and never, ever backed down, that Percy's chest ached.
 
 "Okay," she said. "Okay. We need to be careful. If anyone finds out..."
 
-"No one's going to find out."
+"We should decide who needs to know."
 
 "Percy, my sister is *very* observant. And she's already noticed that I've been acting strange."
 
@@ -617,7 +753,7 @@ Percy watched her go. Beside him, Annabeth let out a breath.
 
 "She thinks you're, I don't know what she thinks. But she doesn't trust you."
 
-"She doesn't trust anyone," Annabeth said. "That's kind of her thing."
+"She has reasons," Annabeth said. "That's kind of her thing."
 
 Percy looked at her. The daughter of Zeus. The sister of Thalia Grace. The girl who should have been Athena's daughter, who should have run away from home at seven and met Percy for the first time at twelve and fallen in love with him over years of shared danger and ordinary moments.
 
@@ -655,7 +791,7 @@ Annabeth looked at their joined hands. Her expression was unreadable. Then, slow
 
 "So am I."
 
-They stood there, hands clasped, two children who weren't children holding onto the only solid thing in an uncertain world.
+They stood there holding hands, silent while campers passed on the path.
 
 Annabeth looked at him, and for one bare heartbeat, the mask slipped. She was twelve years old and displaced and grieving a life she couldn't prove had existed, and she was so tired of pretending.
 
@@ -684,6 +820,36 @@ Percy was careful. "Sometimes you meet someone and there's just a... recognition
 Percy gave him the least suspicious shrug he could manage. Grover didn't press. For now, Percy was grateful.
 
 They headed toward the dining pavilion.
+
+
+
+Grover remembered they were supposed to see Chiron just as the other campers began heading toward dinner. Percy followed him to the Big House, where the centaur was speaking to a camper with a bandaged wrist.
+
+"Percy Jackson," Chiron said when they approached. "Welcome."
+
+Percy knew that voice from lectures, arguments, and a dozen battlefields. He kept himself from answering like an old friend.
+
+"Thank you, sir."
+
+Chiron raised an eyebrow at Grover. "I expected you earlier."
+
+"Percy wanted to see the Athena cabin," Grover said. "And then Annabeth was there, and Thalia showed up, and..."
+
+"My fault," Percy interrupted. "I asked him to take me."
+
+"I see." Chiron looked at him a moment longer than was comfortable. "Your father says you've already trained with a sword."
+
+"Some."
+
+"We can see where you stand tomorrow. For now, get settled. Your sisters are expecting you."
+
+Grover coughed into his hand, concealing a laugh badly.
+
+"And Percy," Chiron added. "If there's anything you want to discuss privately, I can make time."
+
+Percy wondered what Poseidon had told him. "Thank you."
+
+He meant it, though he wasn't ready to test the offer.
 
 ---
 
@@ -743,7 +909,7 @@ Annabeth looked at him. In the moonlight, her eyes were luminous. "You don't hav
 
 Percy's throat tightened. "Neither do you."
 
-They sat there together, the son of Poseidon and the daughter of Zeus, two displaced souls in a world that wasn't quite theirs, and for the first time since they'd arrived in this altered timeline, the loneliness felt survivable.
+They sat there together, the son of Poseidon and the daughter of Zeus, two displaced people in a world that wasn't quite theirs, and for the first time since they'd arrived in this altered timeline, the loneliness felt survivable.
 
 "We should go back," Annabeth said eventually. "Thalia will worry."
 
