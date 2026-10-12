@@ -1,29 +1,118 @@
 ## Chapter 6: The Sister
 
-Thalia Grace was nobody's fool, and never had been.
+Thalia had been awake for most of the night, which was why she knew exactly how much noise a person could make while trying to leave a cabin unnoticed.
 
-Sharp, in fact — among the keenest observers at Camp Half-Blood, a talent honed less by divine endowment than long necessity. Childhood had schooled her in interpreting Beryl Grace: the barometric shifts from charm to violence, the telltale pressure drop before a maternal storm broke.
+Annabeth wasn't particularly good at it. She stopped to find her other shoe beneath the bed, nearly knocked a book off the shelf, and spent an absurd amount of time easing the latch up so it wouldn't click. The latch clicked anyway.
 
-Those same instruments she trained on her sister, sleeplessly, relentlessly, even when it cost her rest.
+Thalia kept her eyes shut. She heard her sister freeze in the doorway, wait, and finally slip out.
 
-And Annabeth was concealing something.
+Only then did she sit up.
 
-Three weeks back it began — the "illness" that behaved like no illness. One morning Annabeth woke altered. Quieter. More shuttered. She blanked on things she should have retained — a joke Thalia had delivered at breakfast, a pact forged the prior week, the title of a game they'd played since Annabeth was six. Occasionally she regarded Thalia as though a stranger occupied a beloved face. The infirmary had smelled of willow bark and sweat, and Thalia had sat three nights on a stool that left red lines across her thighs, holding a cold cloth to her sister's forehead while Annabeth muttered names Thalia didn't recognize in her sleep.
+The repaired shutter rattled softly in the wind. Two weeks ago she would have gone after Annabeth without thinking, and she wasn't entirely sure why she stayed put now. Perhaps it was the conversation they'd had after the first forbidden trip to the Big House. Annabeth had promised to tell her where she was going. She hadn't promised to stop going.
 
-Initially Thalia blamed trauma. The fever had raged — delirium, visions, the entire camp braced. Perhaps something essential had shifted. Perhaps Annabeth merely required convalescence. Thalia had told herself to grant space, to keep the cabin stocked with honey tea and clean socks, to wait the way she had waited out Beryl's worst seasons.
+On the desk, a folded note stood against the lamp.
 
-But convalescence wasn't the pattern. *Concealment* was. The averted eyes. The journal snapped shut. The way Annabeth's hand drifted to her pocket, guarding something, whenever Percy entered a room.
+*With Percy at the pavilion. We'll be back before morning lessons. I couldn't sleep.*
 
-And now Percy complicated everything.
+It wasn't much. Thalia read it twice.
 
-Across the dining pavilion Thalia tracked them — Annabeth and Percy hunched together at the Poseidon table, voices low, foreheads nearly touching. No tentative circling of new acquaintances marked their movements. Instead the fluency of years. Private jokes. Shorthand. A bond that demanded seasons to forge. The pavilion clattered around them — trays, laughter, the bronze brazier coughing rosemary smoke — yet the two sat in a pocket of stillness, Percy's thumb tapping some private rhythm on the tabletop that made Annabeth smile despite herself.
+Annabeth's handwriting had always been small and compact, letters pressed so closely together that their mother once accused her of hiding entire conversations between the lines. The handwriting on the note was familiar. It was the same hand that filled the margins of their old camp books with diagrams and arguments. The note did not explain the sudden gaps in her sister's memory. It did at least mean Thalia wasn't being left to guess where to look.
 
-Percy had been at camp for roughly three weeks. Thalia counted each one like stitches.
+She put the paper back and went to the window.
 
-Thalia's molars ground. Distrust coiled — not jealousy, she insisted inwardly, tasting copper from a bitten cheek. Stewardship. Annabeth was twelve, exposed, sleeping with a nightlight she pretended not to need, and this boy — what, exactly? A stranger? A manipulator? Worse?
+The camp's eastern path was closed again. Lanterns hung at the edge of the training field and canvas covered the damaged side of the Hall of the Gods. A smaller drakon had reached the colonnade yesterday, forcing its way through a place that should have been protected by several overlapping wards. Chiron insisted that no one yet knew whether the loose fixture Nico found was a cause or a consequence of the breach. Thalia agreed with him in principle. In practice she was sick of watching the adults stand around damage and tell everyone not to draw conclusions.
 
-Answers eluded her. She intended to obtain them.
+She could have offered to help inspect the Hall. She had already offered. Chiron had put her on morning drills with the younger campers instead.
 
+The insult wasn't the assignment itself. Training children mattered. Thalia knew what happened to children who couldn't defend themselves. The insult was being treated as though she couldn't learn anything useful from a repair order because her father's name appeared on it.
+
+She turned away from the window and began putting away the practice equipment she'd left by the door. Her spear went on its usual hooks. Her gloves, still stiff from yesterday's rain, went over the back of a chair. A chipped mug sat beside Annabeth's bed, empty except for a spoon and a line of honey at the bottom.
+
+There had always been a mug there.
+
+When Annabeth was six, she'd insisted that honey made the tea stronger, although she had meant sweeter. Thalia had corrected her every time, until the day their mother came home furious and Annabeth crawled into Thalia's bed without asking for anything at all. After that, Thalia made the tea however her sister wanted it. The argument hadn't seemed worth having.
+
+Now Annabeth sometimes looked at the mug as though it belonged to another child.
+
+The change had begun after the fever. Chiron called it a difficult recovery. A few campers had privately called it a curse until Thalia threatened to make them explain exactly what they meant. Annabeth had woken up knowing how to read texts she'd struggled with the week before but unable to finish stories they had told each other since childhood. She had begun spending more time with Percy, whose own arrival came so close to the illness that even Thalia knew the coincidence didn't prove anything. She also knew she would have distrusted it less if Percy had been anybody other than Poseidon's young prince, a boy who seemed to have a complicated opinion about every god he hadn't met.
+
+She had spent sixteen years noticing things people hoped she wouldn't notice. Beryl's slurred words when she answered the telephone. The moment a pleasant dinner was about to become something neither child could stop. A landlord's impatience at the door. An adult who asked too many questions about whether two girls were traveling alone.
+
+The habit didn't disappear because the camp had a border and a centaur to keep watch.
+
+In the morning, Annabeth returned with damp shoes and a slice of bread folded inside a napkin. She stopped when she saw Thalia already dressed.
+
+"I left you a note," she said.
+
+"I read it. Thanks."
+
+Annabeth looked taken aback. "You're not going to ask where I went after the pavilion?"
+
+"Did you go somewhere else?"
+
+"No. We sat at the east end of the benches because there was a light on in the Big House and Percy thought somebody might want to know if we were keeping watch."
+
+Thalia picked up the empty mug. "That's possibly the worst reason I've ever heard for sitting outside at night."
+
+"It wasn't our reason. We just couldn't sleep."
+
+That, Thalia believed. Her sister had dark circles under her eyes and a pencil mark on her jaw that she had apparently missed while washing her face.
+
+"You've got charcoal on your cheek," Thalia said. "Or graphite. I can't tell with you anymore."
+
+Annabeth rubbed the wrong side.
+
+"Other cheek. There."
+
+Annabeth managed to make the smudge worse. Thalia wet the corner of a cloth and held it out rather than reaching for her face herself. For a moment Annabeth stared at the cloth. Then she took it and cleaned the mark.
+
+It was a small thing. Thalia had expected to feel proud of herself for allowing the space. Instead she felt tired.
+
+"Chiron wants the older cabin leaders at the Hall before lunch," she said. "They're checking the ward brackets. I'm going to see whether he's changed his mind about letting me look at the orders."
+
+Annabeth stopped folding the napkin.
+
+"Can I come?"
+
+"Why?"
+
+"Because I'm good with diagrams, and because I was there when Nico found the fixture. I can help compare what he drew with the repair record."
+
+Thalia wanted to say no. Annabeth had already spent too much time investigating dangerous things and too little time sleeping. But the offer was ordinary enough that it deserved an ordinary answer.
+
+"Ask Chiron. If he says it's safe, you can help. Just don't turn this into another excuse to crawl around the attic."
+
+Annabeth's mouth twitched. "I was planning to use a door."
+
+"That would be a refreshing change."
+
+The conversation might have ended there. Then Annabeth hesitated, studying the spoon Thalia had put beside the washing basin.
+
+"Did I use to drink honey tea every night?" she asked.
+
+Thalia held still.
+
+"You used to ask for it when you couldn't sleep. You'd tell me you weren't scared, you only wanted to make sure I wasn't scared either."
+
+Annabeth smiled, but it wasn't a smile of recognition.
+
+"That's kind of sweet."
+
+"It was a nuisance. I had to wash the mug every morning."
+
+"Then why did you do it?"
+
+"Because you were six."
+
+The answer came out sharper than Thalia intended. Annabeth lowered her eyes to the napkin. Thalia thought about apologizing and couldn't find a way to do it without making the whole conversation about how much she missed a child who was still standing in front of her.
+
+She took the mug to the basin instead.
+
+"I'll see you at the Hall," she said.
+
+Annabeth waited another second, as though she might ask something else. Then she picked up her bag and left for breakfast.
+
+Thalia washed the mug slowly. She was beginning to understand that a person could do everything she'd always done to keep somebody safe and still fail to make them feel known.
 ---
 Thalia found Percy in Tempest Hall after lunch. He was swimming laps with a determined rhythm, but every few lengths he stopped to catch his breath. She watched him grip the pool's edge and haul himself out.
 
