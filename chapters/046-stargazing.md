@@ -314,11 +314,11 @@ Because he'd wanted to lie beside his girlfriend and show her beautiful things. 
 
 He looked out toward the dark Sound. "That seems unfair to my entire family."
 
-Annabeth nudged him with her elbow. "The bell tower. Its outline is easy to see."
+Annabeth nudged him with her elbow. "The Big House roofline. It's easy to pick out against the sky."
 
-They sat back to back for a few minutes with the sketch between them, taking turns measuring the angle of the tower against the stars and arguing about whether an apparent gap was real or a cloud. They didn't have a proper instrument. Annabeth used her ruler and held a string taut between two points on the page while Percy steadied it.
+They sat back to back for a few minutes with the sketch between them, taking turns measuring the angle of the roofline against the stars and arguing about whether an apparent gap was real or a cloud. They didn't have a proper instrument. Annabeth used her ruler and held a string taut between two points on the page while Percy steadied it.
 
-When a breeze lifted the paper, he trapped it beneath the cocoa thermos Silena had promised to bring later. Then he realized the thermos wasn't there yet and used a rock instead.
+When a breeze lifted the paper, he pinned it beneath a small rock. Silena had promised chocolate later, but the thermos wasn't there yet.
 
 "You're doing it wrong," Annabeth informed him.
 
@@ -524,7 +524,105 @@ Annabeth was looking up at the four stars. Percy could see her finding the shape
 
 Percy felt a tightness in his throat. He had heard his dad tell that one once, late, voice low through the fountain water. Poseidon had sounded proud and sad at the same time.
 
-Clarisse cleared her throat and poured herself the second half cup, proving Silena right. "Anyway. Patrol continues. No monsters. Only you two being gross with blankets."
+
+Percy took the folded page out of his pocket.
+
+"Can you show us where the Shield Rack goes?"
+
+Clarisse looked offended. "I just showed you."
+
+"On the paper. I want to put it with the other ones."
+
+"Why?"
+
+He pointed toward the Big House lights. "Annabeth and I were talking about a map. Two maps, actually. Greek names and Atlantean names. Maybe something for the library, if we can make it accurate."
+
+Clarisse's expression closed.
+
+"Don't," she said.
+
+Percy lowered the pencil. He'd expected her to make fun of him. The flatness of her answer unsettled him more.
+
+"Why not?"
+
+"Because it's not a library story."
+
+Annabeth watched the two of them. She didn't interrupt.
+
+"It's a story about a guard," Percy said. "I thought you liked it."
+
+"I do." Clarisse gripped the handle of the green mug. "That's why I don't want it pinned to a board for every Apollo kid to argue about."
+
+"Nobody's going to argue."
+
+"Have you met the Apollo cabin? They argue about how to tune a lyre. They'll argue about the number of stars in a square."
+
+Percy almost laughed. Clarisse wasn't joking, though. She was looking past him at the map and its neat little headings.
+
+Silena collected things. Songs, small paintings, pieces of broken jewelry she believed might be useful. Clarisse did not collect much at all. She kept her spear in the same place and packed for patrol before anybody asked her. Percy had thought the stories were simply another kind of thing his sisters shared. He hadn't considered that one of them might want to keep certain things to herself.
+
+"I wasn't going to give away your story," he said.
+
+"You asked where it goes on the paper. You didn't ask whether you could put it there."
+
+Annabeth set down her mug. "She's right."
+
+Percy turned toward her. "I thought you wanted to make a chart."
+
+"I do. That doesn't mean every story we hear goes on it." Annabeth reached for the page, but she didn't take it from Percy. "We could just mark where the stars are and leave the story with the person who told it."
+
+Clarisse stared at her. "You'd do that?"
+
+"Sure. I don't want somebody taking my plans to the Hephaestus cabin and changing all the measurements. I think I can understand somebody not wanting her story changed."
+
+Clarisse stood with her mouth slightly open, clearly annoyed to find herself agreeing with anything that sounded like an architecture comparison.
+
+"The story isn't mine," she said at last. "Dad told it. There were people before him who told it too."
+
+"But it matters to you," Annabeth answered.
+
+Clarisse glanced at the sky again. "I don't like the part where people turn the guard into a hero who wanted to die. That's not what Dad said. She wanted to go home. She stayed because the kids needed a way out."
+
+Percy hadn't known that part. Clarisse had left it out of her first telling.
+
+"Did Dad say what happened to the kids?"
+
+"Some got out. That's all he told me."
+
+"Then we shouldn't make up the rest."
+
+Clarisse looked sharply at him. "Exactly."
+
+The wind lifted a corner of the blankets. Annabeth trapped it with her heel and went back to the chart.
+
+"Can I put the star pattern on here, without the story?" she asked Clarisse.
+
+Clarisse considered the question for so long Percy began to wonder if they would be sitting on the hill until dawn.
+
+"Yes," she said finally. "Just the shape. And if anybody asks, you can tell them to talk to me."
+
+Percy could practically hear the Apollo cabin losing interest. Clarisse offering to answer questions was not the same as Clarisse offering to be patient about them.
+
+He drew the four outer stars as points and placed one small dot in the middle, no weapon, no guard, no picture to tell somebody else what to imagine. Beneath it he wrote, *Ask Clarisse.*
+
+She inspected it. "Your square is crooked."
+
+"All my squares are crooked."
+
+"I noticed."
+
+Annabeth smiled and corrected one corner, then stopped herself before making the shape perfect. Observations, she had said earlier. Not decorations.
+
+Percy folded the page and put it away.
+
+"Thanks for telling us," he said to his sister.
+
+"Don't get sentimental," Clarisse told him. "I still have patrol."
+
+She took another mouthful of chocolate. It was the second half cup Silena had predicted, and none of them pointed that out.
+
+
+Clarisse cleared her throat and set the empty mug beside the thermos. "Anyway. Patrol continues. No monsters. Only you two being gross with blankets."
 
 "We are not being gross," Percy said. "We are being astronomical."
 
@@ -572,7 +670,7 @@ Percy handed her the chipped blue mug without a word and poured the last of the 
 
 They lay back, three in a row now. Thalia smelled like pine and cold air and the faint ozone that always clung to Zeus kids after they trained. Percy could feel Annabeth relax beside him in a different way now that her sister was there, like a plant leaning toward sun.
 
-"Your brother told good ones?" Thalia asked Annabeth, jerking her chin at Percy.
+"Percy told good ones?" Thalia asked Annabeth, jerking her chin at Percy.
 
 "He told great ones," Annabeth said. "The Diver. The Net Mender. The Shell Bearer. The Shield Rack and the Lighthouse."
 
