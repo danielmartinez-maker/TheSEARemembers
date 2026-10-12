@@ -102,7 +102,81 @@ He sat up. Outside, counselors called campers toward breakfast. The ordinary sou
 
 Chiron had answered that question the evening before. He was apparently going to answer it again.
 
-Percy dressed and followed his sisters out.
+Percy dressed and found the two of them inspecting a wooden board propped against the cabin wall. Silena had copied the route assignments from the pavilion onto it and marked the time of each counselor's next check-in. Clarisse was holding a piece of chalk with an expression that made it clear she disliked having to explain to the board what she intended to do.
+
+"What's wrong?" Percy asked.
+
+"Nothing yet," Silena replied. "Clarisse has decided she can be in three places at once."
+
+"I can get from the west crossing to the pavilion faster than anybody else," Clarisse said.
+
+"That doesn't mean you can supervise both at the same time."
+
+"I only need to check the bridge at the beginning."
+
+"And if something happens while you're away?"
+
+Clarisse looked at the assignment sheet. There were not enough senior campers for every route to have a familiar face at both ends. Percy understood the problem. They had built a plan around the idea that everyone would reach the pavilion before the eclipse. If anyone was delayed, the last person on the path might be on their own.
+
+"I can take the western turn," he offered.
+
+Silena shook her head. "You're assigned to the pavilion group. The counselors asked you to help account for the younger swimmers because you know who can handle the water crossings."
+
+"I can still be useful over there."
+
+"That's not the point. The point is that we can't build a route around you and then move you every time a problem appears."
+
+Clarisse set down the chalk. She didn't look pleased, but she didn't argue.
+
+"Fine," she said. "I'll stay at the west crossing. Bea can take the upper path. Percy stays at the pavilion, and the younger campers can be counted before they move."
+
+Silena wrote the changes on the board, then made each of them read the assignment aloud. Percy tried to joke about being tested on a schedule, but she ignored him.
+
+"I want us to know where to find one another if the light changes," she said. "If the Hall starts making noise, we don't go chasing whoever isn't in sight. We report the missing person to Chiron."
+
+Clarisse looked at Percy. "And if you decide to be helpful by running into the building, I will personally make your chores so bad you'll miss the infirmary."
+
+Percy thought of the Hall door in the storm. He had run toward it because Annabeth was inside. He would probably run toward her again if he believed she was hurt. He could promise not to treat his power as a solution to everything. He couldn't honestly promise that fear would never outrun his judgment.
+
+"I'll follow the plan," he said.
+
+Silena took a second look at his face. "That's what I need to hear."
+
+She put the chalk down and checked the spare dressings in her bag. Percy watched her sort them into two pockets so she could find a clean one without taking everything out. It reminded him of Amphitrite checking his departure bag before camp, asking whether he'd packed the things he actually needed rather than the things that made him feel prepared.
+
+"Are you scared?" he asked her.
+
+Silena looked up from the bag. "Yes."
+
+She said it so plainly that Percy was momentarily surprised.
+
+"I know how to do the supply part," she continued. "I know how to get people to the infirmary and make sure the counselors have what they need. I don't know whether the Hall is going to hold through the eclipse."
+
+"Neither do I."
+
+"Then it's better we do the part we can plan."
+
+Clarisse buckled her sword belt and moved toward the door. "I don't care if the Hall does nothing. I'm not spending all morning answering questions about whether the sun's going to fall out of the sky."
+
+"You can tell them not to look at it directly," Silena said. "That's one useful answer."
+
+"They've heard it."
+
+"They'll ask again."
+
+Percy looked from one sister to the other. There were moments when he recognized them almost instinctively as family and moments when he could feel the gap where his memories of their shared childhood ought to be. Today they seemed entirely themselves, impatient and frightened, working at the same problem with different tools. It would have been easier to think of the altered world as a spell if it didn't contain so many people making choices he hadn't expected.
+
+Clarisse handed him the last marked route cord.
+
+"Keep this where we can see it," she said. "You aren't getting out of the assigned route just because you can move water."
+
+"I wasn't planning to."
+
+"Good. Then we've already improved on the last emergency."
+
+She opened the door. Outside, the other cabins were waking. The three of them stepped into the cold morning and went toward the pavilion, each carrying the supplies they'd agreed to bring.
+
+
 
 Annabeth waited by the Zeus cabin with her jacket buttoned and her notebook tucked beneath one arm. Thalia was checking the knot on the cord used to close the path to the Hall.
 
