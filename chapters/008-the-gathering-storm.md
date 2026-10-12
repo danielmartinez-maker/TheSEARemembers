@@ -308,8 +308,10 @@ When they left, Annabeth was walking faster than he was.
 He didn't tell her to be patient. She'd heard more than enough of that word since the fever, and he wasn't going to turn it into an argument about whether she had a right to want answers.
 
 They walked back toward the cabins with an appointment request, two new names and a list of catalog entries. Percy counted those as real progress. Annabeth looked at the Hall's sealed doors as though she was measuring the distance between the information they needed and the time somebody would finally let them touch it.
+
 ---
-While Nico copied the last catalog number, a sound came from the yard outside: a sharp metallic clatter followed by several voices speaking at once. Percy went to the doorway. One of the replacement racks had toppled against the fence, scattering practice shields into the dirt. A boy from the Hermes cabin was standing with both hands raised, as though the rack might accuse him personally.
+
+Percy and Annabeth hadn't made it far along the cabin path when a sharp metallic clatter sounded behind them, followed by several voices speaking at once. Annabeth stayed with their copied notes while Percy turned back through the repair-yard gate. One of the replacement racks had toppled against the fence, scattering practice shields into the dirt. A boy from the Hermes cabin was standing with both hands raised, as though the rack might accuse him personally.
 
 Nobody was hurt. Percy established that before he went to help lift the frame.
 
@@ -483,7 +485,9 @@ Silena handed him a final sheet. "Take this to the workshop. It's the list of to
 
 "You were useful," she said. "There's a difference."
 
+
 ---
+
 Annabeth was sitting on the floor of Cabin One when Thalia came back from the evening patrol.
 
 She had spread three large sheets of paper beside the bed so she could compare the Hall's new layout with the older survey without bending her injured fingers around a pencil for too long. Her hand was getting better. The healer had removed one bandage that morning and told her to leave the other until the skin stopped pulling when she closed her fist.
