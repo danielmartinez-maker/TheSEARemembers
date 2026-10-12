@@ -410,6 +410,3 @@ They divided the work before leaving. Nico would continue checking dates and app
 Nobody made a pledge to overthrow Olympus. Nobody claimed to remember a vanished universe. For the first time since Percy had begun asking questions, he had four people willing to test a theory instead of admiring it.
 
 He watched Nico fold the ledger carefully before they went their separate ways. That was worth more than another prophecy.
-
----
-
