@@ -23,4 +23,4 @@ next_chapter:
   - Mara's external isolated frame and Chiron's stop procedure may be used only under expert supervision, never via Percy conducting electricity through water
   - Percy's and Annabeth's prior memories remain their own; Zoe suspects unusual gaps but has no old-timeline autobiographical memories
 editorial_review: targeted developmental/line work completed during expansion; independent full-chapter approval pending
-qa: actual body count 10087; single heading; valid UTF-8; final full-neighbor repetition scan pending update after latest one-line continuity edit
+qa: actual body count 10087; single heading; valid UTF-8; all-offset exact 300-word cross-chapter scan completed for current Chapters 001–014 (140,164 windows, zero matches)
