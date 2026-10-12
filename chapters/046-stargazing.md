@@ -265,6 +265,131 @@ They found the Whale Road next, seven stars in a long line. Atlanteans saw it wh
 
 Percy sang it, low and off key. Short hop, long pull, rest and hold. Annabeth joined in, and the crickets kept time.
 
+
+---
+
+Annabeth let the last note fade, then sat up so quickly the blanket slid into Percy's lap.
+
+"Wait. Show me your sketch."
+
+Percy blinked. "What sketch?"
+
+"The one sticking out of your pocket. You've been checking it every time I ask a question."
+
+He looked down. A corner of the inventory paper had been visible all along. So much for having a mysterious command of the stars.
+
+"It's a reference," he said.
+
+"That's what a sketch is."
+
+"I didn't draw it very well."
+
+"I'll decide that."
+
+He passed it over. Annabeth held it close to her face, examining the bearings at the margin and the uneven dots where Percy had tried to copy the Whale Road. Her hair fell forward, hiding one side of her expression.
+
+"Some of these lines go in different directions," she said.
+
+"I copied them from a sea chart. You have to turn it toward where you're standing. Clarisse explained it."
+
+"She was right." Annabeth twisted the page until one corner pointed toward the Sound. "See? Your north arrow was drawn from the coast, not from the top of the page. It's a navigational chart."
+
+"Silena said the songs were for sailors."
+
+"She probably meant actual routes, not just stories sailors told each other." Annabeth tapped the second star in the Whale Road. "If you start here at this time of year, you can follow the rising pattern to estimate direction before dawn. At least you could, if the observations were accurate."
+
+Percy stared at her. "You got all that from a crooked piece of paper?"
+
+"Not all of it. I'm guessing about the direction. We could check."
+
+"Right now?"
+
+"Why not?"
+
+Because he'd wanted to lie beside his girlfriend and show her beautiful things. That was one reason. Another was that Annabeth looked happier figuring out a difficult problem than she did when someone simply told her the right answer, and Percy would never be very good at denying her the chance.
+
+"Okay," he said. "What do we need?"
+
+"A fixed point. Something that won't move."
+
+He looked out toward the dark Sound. "That seems unfair to my entire family."
+
+Annabeth nudged him with her elbow. "The bell tower. Its outline is easy to see."
+
+They sat back to back for a few minutes with the sketch between them, taking turns measuring the angle of the tower against the stars and arguing about whether an apparent gap was real or a cloud. They didn't have a proper instrument. Annabeth used her ruler and held a string taut between two points on the page while Percy steadied it.
+
+When a breeze lifted the paper, he trapped it beneath the cocoa thermos Silena had promised to bring later. Then he realized the thermos wasn't there yet and used a rock instead.
+
+"You're doing it wrong," Annabeth informed him.
+
+"I'm keeping the chart from flying into Connecticut."
+
+"I meant the angle."
+
+He checked. He was, in fact, doing that wrong as well.
+
+After fifteen minutes, their observations didn't match the sketch. Percy felt a little foolish. The Whale Road was supposed to make him sound as though he understood a whole second tradition. Instead he had brought an uneven copy of somebody else's notes and couldn't figure out which way to turn it.
+
+Annabeth saw his face.
+
+"This is normal," she said.
+
+"Getting it wrong?"
+
+"Finding out your map doesn't match your view. The important part is figuring out why."
+
+"Maybe I copied the wrong stars."
+
+"Maybe. Or maybe somebody drew the chart from a different latitude. Atlantis isn't on Long Island."
+
+Percy considered that. The old palace wasn't even above water, which made the idea of an ordinary sky overhead rather complicated. Maybe the chart had been carried from one port to another. Maybe the fish drawn along its edges were not decoration but signs of some older route. There were questions to ask Silena, and perhaps Triton, if Triton could be persuaded to answer a conch message without making Percy listen to twenty minutes of royal gossip first.
+
+"I don't want to teach you something fake," he said.
+
+Annabeth turned the page over and drew a small circle in the empty space.
+
+"Then don't. Tell me what your sisters said. Tell me what you aren't sure of. We can still look at the stars."
+
+"You're not disappointed?"
+
+"Percy, I like that you brought me a problem with stars in it. That's practically a gift."
+
+He laughed, but the knot in his stomach loosened.
+
+Annabeth drew two columns, Greek and Atlantean, then crossed them both out.
+
+"Not columns," she decided. "Too easy to make it look like translations. They aren't the same stories with different names."
+
+"What then?"
+
+"Layers. Here's what you see from camp. Here's what the chart shows from wherever it was drawn. And here's what Silena remembers her father saying about the figures."
+
+"That's three layers."
+
+"I can count."
+
+Percy stretched a hand toward the page. "Shouldn't there be one for Clarisse?"
+
+Annabeth made room and passed him the pencil.
+
+He added a little note beside the Diver: *Clarisse says someone holds the rope. Ask who.* Then he thought of the lost pearl in the story and added another: *Silena says the Diver comes back.*
+
+Annabeth smiled at his writing, not because it was neat, which it wasn't, but because the questions remained questions. She wrote a date and the name of the hill at the top.
+
+"Now it tells us where we were," she said.
+
+Percy leaned closer to see the finished page. Two kids on a hill with a pencil and some blankets couldn't settle whose map was correct. But they could record what they had seen and who had taught them to see it.
+
+"Can we keep it?" he asked.
+
+"Of course. We'll make a cleaner copy tomorrow."
+
+"Not too clean," Percy said. "Leave my crooked star."
+
+Annabeth tapped that star once with the pencil.
+
+"That one stays."
+
 ---
 
 The hot chocolate arrived in a thermos with three mugs tied together by a strip of cloth.
