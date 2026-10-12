@@ -352,6 +352,92 @@ From across the pavilion, Clarisse caught his eye and mimed a sword thrust. He g
 
 ---
 
+Triton had taken up a position at the edge of the beginner water-safety class with his arms folded behind his back. The instructor had given him a visitor's badge that looked ridiculously small on the ceremonial cloak he'd insisted on wearing, and Percy had spent the first ten minutes pretending not to notice.
+
+The group was practicing communication in shallow water. One camper acted as the swimmer in difficulty, while the others learned to signal for help and use a long reach pole rather than jumping into the water without assessing the situation. Triton had expected to see exercises about commanding currents and manipulating pressure. He found the equipment primitive.
+
+He also found the students paying close attention.
+
+A girl from Demeter cabin hesitated before entering the water. She said she'd had a frightening experience at the lake when she was younger and didn't like not being able to see the bottom. The instructor asked whether she wanted to observe the first drill instead. She nodded and took the role of signal caller from the shore.
+
+Triton was surprised. In the palace training rooms, a pupil's fear was usually discussed afterward, in private, as a weakness to be overcome through more practice. This instructor had changed the lesson without treating the child as a disappointment.
+
+Percy was paired with a Hermes camper who could swim well but became anxious whenever the water touched his face. Triton watched his brother explain where the shallow step began and how to use the edge for support.
+
+"You can ask me to stop," Percy said. "The exercise isn't worth swallowing half the lake because you're embarrassed."
+
+The boy nodded. They practiced reaching for the pole, and Percy let him choose the pace. It took two attempts before the boy could hold the pole without grabbing Percy's arm.
+
+"Good," Percy said. "Now try it while I stay on the other side of the marker."
+
+Triton found himself leaning forward. Percy could have drawn the pole through the water with a flick of his hand. He could have made the current hold the boy up. He did neither. He stayed where the instructor had placed him and let the camper complete the motion.
+
+When the exercise ended, Triton approached the instructor.
+
+"Why does my brother not demonstrate his own abilities?"
+
+"Because we are teaching the other children how to respond when those abilities aren't available. Percy knows how to move water. Today's lesson is about making safe decisions without relying on him."
+
+"That seems to leave a great deal of his skill unused."
+
+"It does. He practices those skills in a different session. Do you believe every lesson should show everything a child can do?"
+
+Triton considered the question. He had once trained Percy at the palace with the assumption that a prince would be asked to command others under pressure. The preparation had been useful. It had also made almost every exercise a test of how much responsibility the younger boy could carry.
+
+"No," Triton said. "I suppose not."
+
+The instructor turned toward the next pair. "You're welcome to stay and observe. If you want to demonstrate a technique after class, ask Percy first. We aren't turning his practice into an exhibition because a guest has arrived."
+
+Triton returned to the observation bench. He knew Percy would have resented being ordered to perform in front of his sisters. He had almost done exactly that out of pride.
+
+The last drill required the students to identify when someone needed a healer rather than another swimming lesson. The instructor described several situations: a tired swimmer, a child with a cut foot, a camper shivering uncontrollably after leaving the lake. Percy answered when asked and let others try the remaining questions. The correct response was often to stop training and get help.
+
+Triton could understand the value of that. Atlantis had healers, rescue teams and patrol procedures. He had simply assumed the surface methods would be inferior before examining them.
+
+After class, Percy came over, towel around his shoulders.
+
+"How'd I do?" he asked.
+
+"You were patient."
+
+"That's not usually the first thing people say about me."
+
+"It is something I should have praised sooner." Triton looked toward the instructor. "You could have solved half those problems by moving the water. You chose to let the others learn."
+
+"Because they'll have to know what to do when I'm not here."
+
+Triton thought about the first time Percy had been allowed to swim through the deeper reef passages alone. He'd been proud of the boy, but also relieved that no one would have to accompany him anymore. He hadn't thought of teaching as something that should end with the student no longer needing the person who helped him.
+
+"Is that how you feel about your sisters?" he asked.
+
+Percy looked surprised. "They're my sisters. I want them to be able to do things without me. I also like being around them."
+
+"At the palace, we've been preparing you to take responsibilities that are difficult to share."
+
+"I know. But I'm twelve. Chiron keeps reminding me that I can learn things without being responsible for every possible emergency."
+
+Triton glanced toward the other campers. Several were returning poles to the equipment shed. Clarisse had come to help with the count and was arguing with the Hermes boy about where the last pole belonged.
+
+"Your sister is efficient."
+
+"She's a menace."
+
+"Both can be true."
+
+Percy grinned. "You've been talking to Silena."
+
+"She has opinions about everything."
+
+"She does. She's usually right when she's holding a checklist."
+
+Triton returned his visitor badge to the instructor and helped carry the poles to storage. He did it without announcing that an heir to Atlantis was performing manual labor. The children barely noticed. That was oddly pleasant.
+
+Later, when Clarisse challenged him to spar, he accepted partly because he wanted to learn how she fought and partly because he'd begun to understand that she was testing whether he'd take her seriously as Percy's sister. The training match could be about skill rather than rank, if he was willing to let it.
+
+
+
+---
+
 Thalia Grace found Triton on the climbing wall at three o’clock, scowling up at the lava.
 
 “It’s fake lava,” she said, falling into step beside him. She had her bow slung across her back, her punk-rock aura dialed up to eleven, and a new rip in her jeans from that morning’s capture-the-flag planning session. “Well. Fake-ish. It still burns.”
