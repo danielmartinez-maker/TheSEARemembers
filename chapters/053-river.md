@@ -288,7 +288,7 @@ Grover unfolded the first letter with shaking hands.
 
 *Camp's fine. Don't worry. Well, fine-ish. The strawberry fields got flooded last week because the naiads got in a fight with the water pump. Again. Our visiting brother (Tyson — hi, Tyson, if Ella reads this out loud) cried and then fixed the pump by hitting it. It works now. Don't ask.*
 
-*We got your last Iris-message. Barely. Rainbow was all staticky. We heard ARCH and MONSTER and then you cut out. Typical. Next time try a better rainbow. Or don't almost die on a national monument. Your choice.*
+*We got your last Iris-message. Barely. Rainbow was all staticky. We heard FURY and FIRST DAY and then you cut out. Typical. Next time try a better rainbow. Or don't almost die before reaching the first real city. Your choice.*
 
 *Clarisse.*
 
@@ -332,7 +332,7 @@ Highlighted in yellow marker was a single stanza in the middle:
 
 They were silent.
 
-"Ella," Annabeth whispered. "She's... she's remembering things again. Prophecy fragments."
+"Ella," Annabeth whispered. "She's borrowed half a library's worth of language again. I wonder where that verse comes from."
 
 "Three peanuts," Grover said, holding up the crackers. "Four hearts. That's us."
 
@@ -357,6 +357,92 @@ They ate sitting on the steps, shoulder to shoulder, legs touching. The crackers
 "To snacks," Grover said, "appearing exactly when needed."
 
 They all clinked crumbs.
+
+---
+
+They nearly left the tin behind.
+
+Grover had folded the letters into his backpack, but Annabeth wanted to inspect the lid before they moved on. She was frowning at the faded trident painted on the side, and Percy could tell she'd found a problem.
+
+"What is it?" he asked.
+
+"This is supposed to be an underground courier network," she said. "Somebody had to know we'd reach this spot. Connor's clever, but he doesn't predict which stone a satyr will stop to sniff."
+
+"Satyrs know the drop sites," Grover replied. "I don't think the letters were left for today. I think they were put here after Chiron told the network we were traveling west."
+
+Annabeth turned the can. Inside the lid, hidden beneath a layer of old adhesive, was a small sequence of scratches. Grover counted them and smiled.
+
+"Station three. The contact route from New York toward the Mississippi. It's not a date. It's a location."
+
+Percy looked at the notes. "So somebody left supplies ahead of us."
+
+"Yes," Grover said. "And someone else might have found them first."
+
+Thalia had been listening. She took the can, checked the rim and the ground around the log, then handed it back.
+
+"Did anybody tamper with it?"
+
+"I don't smell a monster," Grover said. "I smell rain, coffee, Silena's glue and somebody's old boots. That's not proof nobody touched it."
+
+"Good answer," Thalia said.
+
+Percy laughed. "You've learned to be suspicious without being miserable. That's an achievement."
+
+Grover looked down at the letter. "I can be miserable if you want. My uncle's a statue."
+
+The joking stopped.
+
+Percy knew he had been careless. Grover wasn't just a messenger who happened to find a can full of snacks. He was carrying a number for the recovery team, a promise to return and a letter he hoped could reach Juniper. Each new piece of mail reminded him how much was happening at camp without him.
+
+"Sorry," Percy said.
+
+Grover nodded. He wasn't angry, but he wasn't ready to be cheered up either.
+
+Annabeth turned the first letter over. She read the line about their last Iris message again.
+
+"They heard about the Fury," she said. "Not the Arch. This was written earlier. So none of these letters can tell us what Chiron already knows about today."
+
+"That's what the next report is for," Thalia answered.
+
+Percy looked toward the river. He wanted to tell his sisters he'd survived the Chimera, but he was not ready to imagine how Clarisse would respond to the part where he'd returned to a burning observation deck after promising Annabeth he wouldn't.
+
+"Maybe let me write that one myself," he said.
+
+"You should," Thalia answered. "And you should tell the truth."
+
+He made a face. "I knew there was a trap in this conversation."
+
+Annabeth pulled out her notebook. "We can do a factual version, then a family letter. They need different details."
+
+Percy watched her separate the pages. She was careful with the wording of everything that might be transmitted to Olympus or passed to a camp authority. In a family letter, he could admit how frightened he'd been. In a formal report, he needed to state the location, the monster they encountered, the damage, and the action they'd taken to get people out. One version wasn't more honest than the other. They served different readers.
+
+Grover slid the tin can into the bottom of his bag.
+
+"I'm going to ask Chiron whether the people at the depot have heard anything about Ferdinand," he said. "Not every day. Just when we make contact."
+
+Percy nodded. "And we can tell him the exact garden location again. The recovery team still has people to find."
+
+Thalia sat on the step beside Grover, keeping enough distance not to crowd him.
+
+"Have you eaten?" she asked.
+
+He looked offended. "I always eat."
+
+"That wasn't the question."
+
+He checked his bag and discovered he'd given away most of the crackers while offering them to the others.
+
+"Fine," he admitted. "I could eat another."
+
+Thalia gave him the last unopened packet from her coat pocket. No speech, no instructions. Grover accepted it and began breaking it into small pieces, saving some for later.
+
+Percy wondered whether they would ever return to ordinary camp life, where a broken vending machine could be the whole afternoon's problem. They probably would. For now he was learning that the road had its own ordinary tasks: check a message's date, make sure it reached the right person, feed the friend who couldn't stop thinking about his uncle.
+
+Annabeth copied the courier mark into the notebook and placed the empty can back under the log for another traveler to use. Grover patted the spot down with his hoof, making it look undisturbed.
+
+"Somebody else might need a letter," he said.
+
+They left the marker as they'd found it.
 
 ---
 
@@ -402,7 +488,7 @@ Grover held up his hooves mournfully. They were raw where the fake feet had rubb
 
 Percy scooted forward. His knuckles were scraped, his left cheek had a shallow scratch from flying concrete dust at the Arch, and his shoulders were sunburned pink under his T-shirt.
 
-Annabeth cleaned his knuckles one by one. Her touch was efficient, practiced — three years of camp infirmary duty — but her thumb lingered a second longer on his palm.
+Annabeth cleaned his knuckles one by one. Her touch was efficient, from the first-aid practice she'd managed to fit into her camp training, but her thumb lingered a second longer on his palm.
 
 "Does this hurt?" she asked.
 
