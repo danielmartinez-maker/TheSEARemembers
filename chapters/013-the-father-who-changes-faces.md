@@ -617,6 +617,93 @@ They sat a while longer, finishing the strawberries, trading small stories to fi
 
 "You're both idiots," Thalia declared, but she was smiling — really smiling — for the first time since the sky stopped that morning. She pocketed the drachma. She'd keep it. Not because it was enough. Because it was proof she'd asked for more.
 
+Thalia did not want to spend the rest of the afternoon talking about Zeus. She also didn't want to return to Cabin One and find his gifts on their beds, waiting to be interpreted. The only useful thing he'd said all day concerned Jason, and she intended to see whether it could become something more than another assurance that her brother was being cared for.
+
+She found Chiron on the porch with a stack of messages he'd set aside during lunch.
+
+"Can you help us send a letter to Camp Jupiter?" she asked.
+
+Chiron looked up. "I can help you prepare one. Delivery is another matter."
+
+"Because the camps aren't supposed to correspond."
+
+"Because the route is unusual, and any messenger needs authorization from the people who manage it. I cannot promise a letter will reach Jason directly."
+
+"What can you promise?"
+
+"I can make an inquiry through the channels I know. I will tell you if it is refused."
+
+Thalia appreciated the honesty more than she wanted to. An easy promise might have been comforting for an hour, but she'd heard enough of those from her father to last a lifetime.
+
+"Do you need to ask Zeus first?"
+
+"I need to account for the authorities responsible for the route. Zeus may have an interest in the arrangement, but you may write to your brother without asking him to approve your feelings."
+
+The words made Thalia go still. She hadn't realized how much she needed a grown-up to say that. Her father had made a question about letters sound like disobedience. Chiron was treating it as something she had a right to want, even if the logistics were uncertain.
+
+"Could we give you the letter tomorrow?" she asked.
+
+"Of course. Write what you would want Jason to know. Not what you think will persuade someone to carry the paper."
+
+Thalia thanked him and went back toward Cabin One. She found Annabeth on the steps with the pendant still in its box. Percy was with her, eating an apple as though he hadn't spent the afternoon arguing with a king of the gods.
+
+"Chiron said he'd inquire about sending Jason a letter," Thalia told her sister.
+
+Annabeth looked up. "Did he say it would get there?"
+
+"No. He said he'd let us know if the route was refused."
+
+"That's something."
+
+"It is."
+
+Percy stood to leave them to it. Thalia stopped him.
+
+"Could you get paper from Cabin Three? The thick kind you used for Amphitrite's letter."
+
+"I can. Why?"
+
+"Because I'd like to write without the ink soaking through. Jason deserves better than a note that looks like it went through a rainstorm."
+
+Percy nodded and went. Thalia saw that he had stopped trying to make an awkward afternoon sound like an amusing one. It was a relief.
+
+Inside the cabin, Annabeth cleared a space on the desk. They worked separately at first. Thalia wrote an introduction explaining where she was and asking whether her earlier letters had arrived. She wanted to describe the eclipse and their father's visit, then found she didn't know how much Jason would have been told. She crossed out a sentence about Zeus's temper because she didn't want a stranger at the Roman camp reading it before her brother did.
+
+Annabeth sat beside her, thinking.
+
+"I don't remember the day he left," she said after a while.
+
+"I know."
+
+"I remember having a younger brother in the way I know it from the records and from you. I don't have a memory of him that I can describe as if I'd been there."
+
+"You don't need to invent one."
+
+"What if he expects me to remember?"
+
+"Then we tell him the truth we can tell. You want to hear from him. You want to know how he's doing."
+
+Annabeth wrote that down. She added a question about whether he still liked building things, because Thalia had described a boy who could take apart a broken clock and put it together with half the screws missing. She did not pretend she remembered watching him.
+
+Thalia read over the sentence. "He used to steal the springs."
+
+"Why?"
+
+"He said clocks were trying to tell him what to do."
+
+Annabeth smiled. "That sounds like a family trait."
+
+They finished their letters without making promises about when they would see him. Thalia folded hers and set it beneath a paperweight. She had not solved the problem of a father who refused to share information about his own son. But she had chosen a way of reaching toward her brother that did not depend entirely on asking Zeus to be kinder next time.
+
+Percy returned with clean paper and two envelopes. When he saw the letters were already written, he offered to address them rather than ask the sisters to start again. Thalia let him do it, then checked the spelling of the Roman camp's name against Chiron's official form.
+
+"Do you think he'll read them?" Annabeth asked.
+
+"I don't know," Thalia said. "I want him to have the chance."
+
+She put the finished envelopes in her jacket pocket, where she could deliver them to Chiron in the morning. It was the first promise made that afternoon whose next step belonged to her.
+
+
 Later, when the light went amber and Chiron's bell rang for dinner, they walked back down the hill together. Clarisse was waiting by the cabins, arms crossed, scowl firmly in place — Poseidon's daughter, Percy's half-sister, thirteen and furious at the world on principle.
 
 "Took you long enough," she barked. "Silena saved you seats and Luke's telling stories and if you don't hurry there won't be any chicken left. Where were you?"
