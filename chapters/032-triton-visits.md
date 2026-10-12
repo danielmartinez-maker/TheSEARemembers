@@ -594,4 +594,14 @@ On the sand, dripping and shivering and laughing, Triton pulled Percy into a rou
 
 Then he let go, picked up his terrible borrowed sandals, shook the sand out of Percy’s sneakers like a valet, and walked with him up the beach toward the warm lights of Cabin 3 — a prince of the deep, far from home, with soda in his past and paperwork in his future, whistling very badly the surface song about bringing the tide in.
 
-Behind them, the Sound settled. Flat and glassy no more. Just water, lapping softly, keeping their secret.
+At the edge of the path Triton stopped to pull a piece of seaweed off Percy's sleeve. Percy tried to do the same for his brother's armor and found three more pieces tucked under a strap.
+
+"You're not presenting yourself to Chiron like that," he said.
+
+"I'm a prince."
+
+"You have a crab in your shoulder guard."
+
+Triton looked down. The crab raised a claw.
+
+They carried it back to the shore before going up to Cabin Three.
