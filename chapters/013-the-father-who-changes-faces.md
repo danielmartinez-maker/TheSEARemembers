@@ -466,4 +466,8 @@ Annabeth caught her eye and smiled, small and real, and mouthed, *Okay?*
 
 Thalia bumped her shoulder. *Okay.*
 
-And for that evening, at least, it was true.
+Thalia put the unfamiliar drachma beside her plate instead of back in its box. She would have to decide what to do with it later.
+
+"Okay?" Annabeth mouthed.
+
+Thalia nodded and nudged the dessert dish between them. Zeus had already left. Dinner still needed eating.
