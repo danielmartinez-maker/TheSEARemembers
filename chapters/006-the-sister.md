@@ -660,6 +660,174 @@ Annabeth looked toward the doorway. "I wanted to finish the map."
 
 Annabeth rolled her eyes, but she packed her bag and followed Thalia out. Neither sister pretended the previous night had been resolved. It was easier to walk together when they had finished a small piece of work that belonged to both of them.
 ---
+Training began with a horn that nobody was expecting.
+
+Thalia had told the younger campers they were practicing an emergency movement drill. She had not told them when. That was the whole point: if they only knew how to run to a safe position when a counselor gave a five-minute warning, the next drakon would find them standing in the middle of the path arguing about which direction to go.
+
+She blew one long note from the hill overlooking the arena.
+
+A dozen campers looked up. Several reached for weapons; two ran in opposite directions. The youngest, a girl with a shield nearly as large as she was, stayed where she stood and waited for somebody to tell her what the horn meant.
+
+Thalia counted three seconds before Clarisse's voice cut across the field.
+
+"Movement, not contact. Don't start fighting shadows. Everybody with the practice group, follow the marked route to the lower pavilion."
+
+The younger campers began moving. Thalia watched from the hill as they formed something that almost resembled a line. Bea, the Hermes camper Clarisse had been teaching, took one look at the narrow path and moved to the front. She did not notice that she was leaving the smallest camper behind.
+
+Thalia came down the slope, cutting across the line before they reached the woods.
+
+"Hold. Everybody back to the marker."
+
+A collective groan rose from the group.
+
+"That was the first attempt," she told them. "A useful one, because at least now we know which mistakes we're going to make if something actually comes through the wards. Bea, you were quick. What happened to the people behind you?"
+
+Bea's face reddened beneath her borrowed helmet. "I thought we were supposed to reach the pavilion as fast as we could."
+
+"You're supposed to reach it as a group. If the people at the back get caught because the fast ones sprint ahead, we haven't evacuated anyone safely. That's just a race."
+
+Clarisse stood beside the practice rack, arms folded. She had the patient look of somebody waiting for Thalia to finish giving a lecture so she could get back to weapons.
+
+"Go again?" she asked.
+
+"After everybody knows the route."
+
+Annabeth was waiting near the path with a small slate and the map they'd worked on that morning. She had volunteered to help mark places where campers would be forced into single file. Thalia had almost refused, then remembered their conversation in the Athena cabin and asked Chiron whether mapping counted as an acceptable noncombat duty.
+
+It did.
+
+Annabeth had been delighted enough that Thalia was embarrassed she'd nearly taken it away from her.
+
+Now Annabeth pointed to the narrow stretch beneath the overhanging willow.
+
+"They can't all fit through there at once. If someone falls, the people behind will pile up. We should take the wider route around the old pump house."
+
+"That takes longer," Clarisse said.
+
+"Thirty seconds if they're running properly. More than that if they're dragging somebody out of the ditch."
+
+Thalia looked at the two paths. The narrow one was shorter, but a loaded cart would barely fit between the trees. She had walked it a hundred times and never thought of it as a place where a group could become trapped.
+
+"She's right," she said. "We'll use the wide route."
+
+Clarisse inclined her head. It wasn't agreement about everything, but it was agreement about the path.
+
+They went through the route on foot, pointing out where the group should stop if anybody needed help. Thalia asked Bea to walk beside the smallest camper and make sure she could see the signal marker at each turn. Bea looked as though she was about to protest that she could run much faster than this. Then she adjusted her shield and slowed to match the younger girl's stride.
+
+At the pavilion they stopped for water. Several campers were breathing hard even though they had barely covered the length of the arena. Thalia made a note to suggest shorter, more frequent drills rather than pretending every child could run as long as she could at sixteen.
+
+Clarisse handed her a cup.
+
+"You could've warned them before the horn," she said.
+
+"Then it wouldn't have tested their reactions."
+
+"Sure. But half of them are still convinced a drakon is hiding in the woods."
+
+Thalia looked at the nearest camper. He was gripping a practice spear with both hands, eyes fixed on the trees.
+
+She hadn't intended to frighten him. She'd been thinking about the previous attack, the way the warning had come late, and how close Annabeth had been to the creature's mouth. Some part of her believed that if she could train everybody hard enough, none of it would happen again.
+
+"I told them it was a drill," she said.
+
+"After they panicked."
+
+Thalia took the criticism badly. Mostly because Clarisse wasn't wrong.
+
+She walked over to the boy with the spear and crouched until she could see his face.
+
+"That was a practice signal," she said. "There isn't a monster approaching. If there had been, we would have sent you farther from the boundary and the counselors would be armed. You did the right thing by waiting for instructions, but next time I want you to check which horn you heard before you start preparing to fight. Can you tell me the difference between movement and contact?"
+
+The boy looked uncertain. Then he repeated the signals, stumbling on one of them but getting the rest right.
+
+"Good. We're going to do another round in a few minutes, and you'll know exactly why the horn is sounding this time."
+
+He nodded and loosened his grip.
+
+When she got back to the water barrel, Clarisse was examining the drill map with Annabeth. The two of them had begun discussing what would happen if the wide path was blocked by a fallen tree.
+
+"It would force everyone toward the lower bridge," Clarisse said. "Which is worse if the creek is high."
+
+"Then we need a second option that doesn't use either path," Annabeth replied. "Maybe through the orchard. The fence comes down if we remove two pins."
+
+Thalia leaned over the map. "Would there be enough room to move the younger campers without trampling the plants?"
+
+"Probably not without damaging the beds," Annabeth admitted. "But if there's a monster, the strawberries can survive being stepped on. Campers might not."
+
+Silena would have had something to say about the strawberries, but Thalia suspected she'd agree with the priority.
+
+They walked the orchard route together before approving it. The fence did come apart, though one of the pins was bent and required Clarisse to pull it out with a pair of pliers. Annabeth marked the obstruction and added a note that it should be replaced before anybody relied on it during an evacuation.
+
+The little job gave Thalia time to notice how Annabeth and Clarisse worked together. Clarisse asked whether the plan would hold under real conditions. Annabeth showed her the measurements instead of pretending the question was a personal attack. When Annabeth suggested a route that would put the youngest children near the creek, Clarisse explained why she didn't trust it. They disagreed, changed the drawing and moved on.
+
+Thalia had spent so long worrying about the secrets Annabeth was keeping that she'd almost forgotten what her sister looked like when she was doing something well.
+
+"How do you want to run the next attempt?" she asked Annabeth.
+
+Annabeth glanced up, surprised.
+
+"Start with the group where they are and have Bea lead them through the wider path. Then block it with a marker and make them take the orchard route. That way we'll find out whether they understand the backup plan instead of just memorizing the first one."
+
+"Good. You can explain the route before we start. I'll handle the horn."
+
+Annabeth took the slate and addressed the group. She was precise, perhaps too precise for the ten-year-olds who mostly wanted to know when lunch would happen. Thalia watched her realize she was losing them and simplify her instructions without being prompted.
+
+"You see the red ribbon? That's the place you stop if the path is blocked. You don't decide the next route by yourselves. The person leading the group checks the backup on the map, and everybody stays together. We're going to practice it once slowly, then once at a run."
+
+Bea raised her hand.
+
+"Can I lead again? I know I went too fast, but I think I can do it properly this time."
+
+Annabeth looked toward Thalia. Thalia almost said that Bea should wait until she was older. Instead she asked Clarisse whether the girl was ready.
+
+"She's ready to try," Clarisse said. "I'll walk behind them and make sure nobody gets left."
+
+The exercise worked better the second time. Bea checked the campers behind her, and when they reached the blocked path, she took a few seconds to read the map rather than assuming she knew the route. A younger boy tripped on a root near the orchard fence, but Bea stopped, waited for Clarisse to help him and didn't restart the line until he was walking steadily.
+
+Thalia was proud enough to feel a little ridiculous. She hadn't taught them anything about fighting during the drill. She had taught them not to leave one another behind.
+
+When the group finally reached the pavilion, Clarisse gave Bea a brief nod and told her she'd led them well. The girl stood a little straighter, as though the helmet had finally begun to fit.
+
+Thalia glanced at Annabeth.
+
+"You were right about the path. I would've sent them under the willow if you'd let me."
+
+"It wasn't a bad route for two people," Annabeth said. "It was bad for fourteen. We had to test it to know the difference."
+
+"You say that as though you think I enjoy changing plans."
+
+"I think you enjoy plans working. You're just less enthusiastic about the part where somebody tells you they won't."
+
+Thalia laughed. She hadn't expected to, and it felt good.
+
+For a moment she wanted to tell Annabeth that working together had reminded her of being younger, before the fever, before the books began filling with drawings of a camp she didn't recognize. She decided not to. It wasn't fair to turn every good moment into evidence in a case Annabeth hadn't agreed to argue.
+
+Instead she asked whether her sister wanted to help with the next lesson.
+
+"I have an archive appointment after lunch," Annabeth said. "Chiron wants me to finish labeling the public records we borrowed. I can come back afterward."
+
+Thalia nodded. "I'll see you there if we're not finished."
+
+Annabeth looked at her with something close to relief. She gathered the slate and went to return it to the supply bench.
+
+Clarisse stood beside Thalia, watching her go.
+
+"She's good at that," Clarisse said.
+
+"She always liked maps."
+
+"I meant explaining them to the little ones. Half the cabin listens better when she talks than when I do."
+
+Thalia didn't answer right away. She could have told Clarisse what she'd noticed about Annabeth's memory since the illness. She could have asked whether Percy had mentioned anything strange. She was tired of turning every conversation about her sister into an interrogation.
+
+"Then maybe we should ask her to help more often," she said.
+
+Clarisse gave her a brief, measuring look, then returned to the arena with the practice shields.
+
+Thalia remained by the pavilion until the rest of the campers had collected their equipment. The map was still on the table, held flat by a stone. It showed two routes with arrows and one blocked path crossed out in red. It did not show whether Annabeth would remember being here a month from now or whether Thalia would be allowed to understand the drawings in the other notebook.
+
+It showed enough for the next drill.
+---
 Thalia waited near the training ground until Percy's bout was over. She hadn't meant to seek him out again, but the question about the Hall stayed with her. So did Nico's report about Zeus's steward signing the orders for new wards.
 
 "Jackson," she called.
