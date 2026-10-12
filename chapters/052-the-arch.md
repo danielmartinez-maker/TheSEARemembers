@@ -288,6 +288,66 @@ The stairs seemed endless. Legs shaking, lungs raw, Grover's hooves clattering, 
 
 ---
 
+Halfway down the emergency stairs, they found the problem with moving an entire room of tourists through a passage designed for a smaller number of people.
+
+A ranger stood near a landing, trying to get a group of visitors past a child who had dropped her shoe. Her father was kneeling to retrieve it while people behind him pushed forward, frightened by the alarms and the heat above them. The child's crying grew louder with every person who brushed against her.
+
+"Keep moving," the ranger called. "Please, keep moving."
+
+Percy stopped. Grover almost collided with him.
+
+"We can't just push past her," Percy said.
+
+"We aren't going to," Annabeth replied. She crouched and spoke to the little girl without touching her. "Can you stand on one foot for a moment? Your dad can get the shoe while we make room."
+
+The girl nodded, crying too hard to answer.
+
+Percy shifted to the outer edge of the stair and held the handrail so nobody could shove through the narrow space. Grover stayed behind him, using his pipes not to charm the whole crowd but to play a low rhythm that people could follow as they stepped down. It gave the ranger something to call over the alarms.
+
+"One at a time," Grover said, his voice shaking. "Follow the tune. Slow feet on the turns."
+
+It sounded ridiculous. It worked.
+
+The father recovered the shoe, and the child limped past with her hand in his. Annabeth told the ranger there were more people above and that a larger creature was near the observation deck, though she knew the Mist would turn that into smoke or machinery trouble in the man's memory.
+
+"How many people?" he asked.
+
+Annabeth glanced toward the stairwell. "I counted seventeen visitors in our section. Six came past us. There should be eleven more, plus staff."
+
+The ranger repeated the number into his radio.
+
+Percy had barely noticed the other people when Echidna transformed the dog. He had seen the monster and his friends. Annabeth had been counting strangers. He didn't know how she managed to do both.
+
+They moved downward again, helping the last visitors past a landing where the emergency lights flickered. A woman was coughing badly and had to stop between flights. Percy wanted to run back for Thalia. He could hear the Chimera above them, the sound arriving through metal as a series of deep impacts. Every blow felt like another promise he was breaking.
+
+"Percy, we can't leave her," Annabeth said, meaning the coughing woman.
+
+"I know."
+
+He wanted to shout that he also couldn't leave Thalia. Annabeth already knew that. She had been watching her sister fight, and she was making herself finish the thing Thalia had asked her to do.
+
+They helped the ranger guide the woman down another flight. Grover took her empty water bottle and filled it at a maintenance fountain after asking whether it was safe to drink. Percy kept a hand under the woman's arm while she took a breath.
+
+When they finally reached the ground, the ranger checked the count again. He had thirteen of the seventeen visitors in his section. Four were still unaccounted for, though some may have been guided to the other exit.
+
+"You're not going back up," he told the children.
+
+Annabeth did not argue. "We know."
+
+Percy looked at her. She had said it as though she meant it, and he wanted to mean it too. He had promised not to repeat the jump he'd survived in the old life. He could hear Thalia holding the monster above them. One part of him believed that if he was fast enough, strong enough, reckless enough, he could save everybody himself.
+
+Then the radio crackled with news that another ranger had found three visitors on a separate stair, and somebody reported a staff member heading down with a burned arm. Annabeth leaned toward the speaker, listening for Thalia's name.
+
+A family ran past them into the sunlight. The girl with the missing shoe was holding her father's hand. Percy watched her go, then looked at Annabeth. Both of them had soot on their clothes and eyes that burned from smoke.
+
+"How many left?" he asked.
+
+"Maybe one visitor. Maybe none. The counts might overlap." She looked toward the river. "We're getting clear. That's what Thalia told us."
+
+Percy followed, hating every step. He had just learned that he could do something useful by staying with people who weren't his family. He was going to have to decide whether that lesson mattered as much when his family was the one in danger.
+
+---
+
 Percy burst out at the base into sunlight and screaming.
 
 The park had changed. Mortals ran on the grass, pointing up. Rangers shouted into radios. The Arch loomed overhead, silver and perfect except—
