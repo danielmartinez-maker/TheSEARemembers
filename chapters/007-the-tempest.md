@@ -521,6 +521,136 @@ Percy nodded. He wanted to put his arm around her, but she was still looking at 
 She laughed once, then held out her hand. He took it with his unbandaged one, and they walked toward the cabins.
 
 ---
+Annabeth's hands began shaking again when she tried to untie her shoes.
+
+She had made it from the infirmary to the Zeus cabin without help, insisting to the healer that her legs were fine. They were fine. She'd walked the whole distance, even managed the slippery steps without falling. But sitting on the edge of her bed and asking her fingers to undo a wet knot was apparently too much.
+
+Thalia stopped in the doorway with a pile of dry towels.
+
+"Want me to do it?"
+
+Annabeth almost said no. The word was already on her tongue, ready to come out before she thought about what she'd actually been asked. She looked down at the laces and saw how white her knuckles had become.
+
+"Yes. Please. I can't get hold of the knot."
+
+Thalia set the towels on the bed, knelt and loosened the first shoe. She did not comment on the shaking. Annabeth was grateful for that, though the silence made it hard to know whether her sister was furious or simply tired.
+
+The cabin was dim, with only one lamp burning near the door. The repaired shutter held against the rain. Annabeth watched it rattle once and settle. She'd never expected to feel grateful for a crooked piece of bronze, but it was nice to see something they'd fixed behave exactly as intended.
+
+"Chiron says the ward drew on your power," Thalia said as she untied the other shoe.
+
+"That's what he thinks. I don't know whether the ward started it or I made it worse when I touched the column."
+
+"Did you touch it because you wanted to test something?"
+
+Annabeth looked up sharply.
+
+"No. There was a camper on the eastern path who couldn't get past the loose fence. I went to help her. The column started making noise while I was moving toward the other exit, and I put my hand on it because I thought it might be falling."
+
+"Then that is what you did," Thalia said. "You don't have to turn it into an experiment just because you're frightened of having made a mistake."
+
+Annabeth stared at her. She had expected another lecture about practicing without her sister. Instead Thalia was treating the account as something to establish before deciding what it meant.
+
+"I still should've kept my hand away from the bronze."
+
+"Yes. And the ward shouldn't have been active while the maintenance crew was working beside it. Both can be true."
+
+Thalia pulled off the wet shoe and set it on a cloth. Annabeth watched her carefully arrange the laces so the knots wouldn't tighten as they dried.
+
+"Percy helped," Annabeth said.
+
+"I saw him come out with you. He was burned."
+
+"Not badly. He kept the water off the floor and did what Chiron told him."
+
+"He also ran out of Tempest Hall after his instructor ordered everyone to stay inside. I can be grateful he helped you and think that was reckless."
+
+Annabeth looked down. "I know. He agrees with you about the reckless part, actually. He was complaining that his instructor has already assigned him another repair shift."
+
+"Good. He should complain while he fixes it."
+
+Thalia set the shoes aside and passed her a towel.
+
+"Can you dry your hair without pulling at your fingers?"
+
+"I think so."
+
+"Then do that. I need to check the lamp and close the outer shutters before the wind picks up again."
+
+Annabeth stood in front of the little mirror and tried to rub the rain from her hair. The first few movements hurt, but the pain was mild enough that she could manage. She watched Thalia move around the cabin, checking the fittings they'd repaired and lifting anything metal away from the open window.
+
+"Do you think we should leave the lamps off?" Annabeth asked.
+
+"Probably one at a time. Chiron said there's no reason to think the charge is still following you, but I don't want loose wire or damp fittings near your bed until the healers have finished their checks."
+
+"That's reasonable."
+
+"Try not to sound surprised."
+
+Annabeth smiled in spite of herself.
+
+They changed into dry clothes without talking much. The silence was different from the arguments they'd had all week. Thalia didn't ask for a promise that Annabeth would never go near the Hall again. Annabeth didn't insist she was ready to control a ward she'd never been taught to use. Both of them had seen what happened when the equipment reacted to somebody it wasn't designed to accommodate.
+
+Thalia was folding the wet towels when Annabeth spoke again.
+
+"I didn't mean to frighten you."
+
+"I know. I was frightened anyway."
+
+"I could feel it pulling at me. Like the first lesson with Chiron, except somebody had taken the little vane and connected it to a whole building. I tried to make it stop, and every time I did, it seemed to pull harder."
+
+Thalia sat on her own bunk, listening without interrupting.
+
+"When you told me to start with smaller exercises, I thought you were being overprotective," Annabeth went on. "I still think you're too controlling sometimes. But today I could tell that I didn't know where the limits were. I didn't like finding that out with the whole camp watching."
+
+"Nobody liked watching it," Thalia said. "Especially me."
+
+Annabeth rubbed the edge of the bandage on her finger.
+
+"Can you teach me how to recognize when a storm current isn't mine? I don't want to spend every lesson terrified that anything I touch might decide to use me."
+
+"I can help with the basics. Chiron needs to be there for anything near a ward, and I want the healer to clear your hands before we try again. But yes. I can teach you what I know about feeling a current before it becomes dangerous."
+
+"Without turning it into a test of whether I remember being six?"
+
+Thalia's mouth tightened.
+
+"Without that."
+
+Annabeth considered the answer. She did not mistake it for an agreement about everything. Thalia was still angry that Percy had been part of the accident, and Annabeth was still unwilling to hand over every private conversation. But the promise was about something they could actually do together.
+
+Outside, a gust pushed against the shutter. It held.
+
+Thalia went to the window and looked toward the Hall. Annabeth watched her, then moved beside her, leaving enough room that they could both see out without touching the glass.
+
+The building was dark except for the work lights outside. The blue line had vanished. A crew was securing the damaged canvas again, staying well away from the ruined coupling.
+
+"Can I ask you something?" Annabeth said.
+
+"Go on."
+
+"When you looked at the Hall today, did the lightning feel like yours?"
+
+"No. The storm around it did, a little. The pattern inside the stone didn't. It had a shape I didn't recognize."
+
+Annabeth nodded. That was information she could write down without making it into a theory.
+
+"Will you tell Chiron?"
+
+"I already did. He said Zoe and the workshop were going to examine the protections once they could isolate the remaining lines."
+
+Annabeth looked at her sister. "You asked them about it?"
+
+"Somebody has to."
+
+She hadn't said *because you're my sister*. She didn't need to.
+
+The rain eased for a few minutes, enough that they could hear the distant clatter of the work crew moving equipment into the sheds. Annabeth fetched her notebook and made a few careful notes with her uninjured hand while Thalia finished hanging the wet towels.
+
+When the dinner horn sounded, they went to the pavilion together. Annabeth let Thalia carry the notebook, not because she couldn't do it herself, but because Thalia had dry hands and hers were still sore.
+
+It was a small concession. This time it belonged to Annabeth to make.
+---
 
 At breakfast the next morning, Chiron addressed the camp before anyone could turn the incident into a story of divine punishment.
 
