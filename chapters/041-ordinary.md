@@ -453,8 +453,3 @@ Whatever came next — quests, wars, growing up, growing apart and back together
 The wind moved through the pine. The Fleece shimmered. A shooting star cut across the sky, brief and white-gold, and Annabeth squeezed his hand.
 
 Percy closed his eyes and kept it — all of it — exactly where it belonged.
-
-*END OF THE CAMP ARC*
-
----
-
