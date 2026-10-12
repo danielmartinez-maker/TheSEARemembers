@@ -4,7 +4,7 @@ The shoebox had lived under Thalia's bunk for three weeks.
 
 She knew exactly how many letters were inside without opening it because she counted them every night before lights-out, like some other kids counted drachmas or arrowheads or the cracks in the cabin ceiling. Seven. Seven letters from Beryl, all in the same slanted, looping handwriting that got messier toward the bottom of the page, like her mom ran out of patience with neatness before she ran out of things to say.
 
-Thalia hadn't answered a single one.
+Thalia hadn't answered any of these seven new letters. They had sent an earlier reply when Beryl first contacted the camp, but that hadn't made the next letters easier.
 
 It wasn't that she didn't want to. She'd started eleven drafts. Annabeth had found three of them crumpled behind the Zeus cabin's trash can and one folded into a paper airplane that Thalia swore she didn't make but absolutely did during a boring orientation lecture on proper harpy deterrents.
 
@@ -681,6 +681,108 @@ She could send a new letter anyway.
 "Mail room?" she said.
 
 "Mail room," Thalia agreed.
+
+---
+
+Before they could seal the letters, Silena took a closer look at the envelopes. She had spent enough afternoons helping with camp correspondence to know that a letter could be beautifully written and still end up in the wrong collection because somebody had assumed the postmaster would recognize the destination.
+
+"Which one is going to the mortal address?" she asked.
+
+Thalia indicated the cream envelope. "Mom."
+
+"And the Roman route?"
+
+"The heavier one. Chiron gave us a routing slip."
+
+Silena spread the papers across an empty table. The request to contact Jason had two signatures, one from each sister. Chiron's acknowledgment was clipped to the back. That meant the letter could be submitted for consideration by the intermediary, not that a Roman courier had agreed to carry it.
+
+"Then we're not going to tell Jason we'll see him next week," Silena said, reading the draft.
+
+Annabeth looked up sharply. "We didn't."
+
+"You wrote *soon*."
+
+"That's not a date."
+
+"To a ten-year-old waiting for news from his sisters, it might sound like one."
+
+Annabeth looked at the page. She had meant soon as a promise that she would keep trying. She hadn't thought about how a younger child might understand it when there were adults between them and every piece of communication.
+
+"What should I write instead?"
+
+"Something true. That you want to visit when the camps approve it, and that you'll keep writing whether or not the visit happens quickly."
+
+Thalia watched her sister erase the word. Annabeth was usually the person reminding everyone to distinguish a wish from a schedule. It was comforting, in a strange way, to see that she could miss the distinction when the wish mattered enough.
+
+They changed the sentence. It now said that they hoped to see Jason when an authorized visit could be arranged, and would write again regardless of the answer. Thalia added a line about the map he had shown them during the Iris-message, asking whether he'd changed the western aqueduct route since the last drawing.
+
+"That's the part he'll answer," Annabeth said.
+
+"He likes correcting things."
+
+"So do you."
+
+Thalia smiled. She could imagine Jason at a desk in a Roman barracks, writing a careful answer with a ruler beside his paper. She didn't know whether that was the room he actually used. She was learning not to turn every guess into a memory.
+
+Clarisse came back from fetching more envelopes and saw the two girls rewriting the last paragraph.
+
+"I thought we were finished," she said.
+
+"We are," Thalia answered. "We just made one part more accurate."
+
+"That sounds like something Chiron would say."
+
+"It was Silena."
+
+"Same disease."
+
+Silena took the joke without looking up. She had spotted another problem. The Beryl envelope contained a page written by both sisters, but Annabeth had added a personal note she didn't necessarily want anyone else to see.
+
+"Do you want that included with the joint letter?" Silena asked her quietly.
+
+Annabeth hesitated. She wanted to tell her mother about a book she'd finished and the way she'd been rebuilding the Parthenon model. She didn't want Thalia to feel obliged to approve every line. Months earlier they'd agreed they could each write personal replies. Today's gathering had become so communal that she'd almost forgotten the boundary.
+
+"Could I send it separately?" she asked.
+
+"Of course."
+
+Thalia looked up. "I thought we were doing one letter."
+
+"We are. I also have something I'd like to send myself."
+
+The older girl's face tightened, then relaxed. It wasn't an easy habit to lose, expecting a younger sister to tell her everything before letting it go into the world. She had made the same mistake when Beryl's first letter arrived.
+
+"All right," she said. "I'm not reading it."
+
+Annabeth smiled. "Thank you."
+
+Silena wrote the address on a second envelope and checked it with the camp's verified record. She could hear Clarisse and Percy arguing about whether the sticker for Jason's letter should be a lightning bolt or an eagle. It was a ridiculous argument, exactly the sort of thing the afternoon was supposed to make possible. But it didn't erase the more difficult decision the sisters were making: to send words they couldn't control once they left camp.
+
+Grover brought the final mailing rules from the post office. He had written them on a card so nobody would have to memorize the difference between the satchel for mortal addresses and the request packet for Roman correspondence.
+
+"Which one gets a stamp?" Percy asked.
+
+"Both, but the Roman request needs Chiron's seal. It doesn't go through the same post office. I checked."
+
+"Good," Silena said. "We should make a copy of what we send, then keep it somewhere the sisters choose, not in the public cabin file."
+
+Thalia was wary. "Why a copy?"
+
+"In case a letter gets lost or returned. You can decide whether to resend it without having to write every sentence from scratch."
+
+Annabeth thought that was sensible. Thalia was less convinced. She disliked the idea of keeping the words in a box where she would read them over and over while she waited for an answer.
+
+"Then I'll keep mine sealed," Thalia said. "If it comes back, I'll decide whether to look at it again."
+
+They made the copies. Annabeth put hers in a labeled folder. Thalia folded hers into an envelope and wrote *only open if the original is returned* on the front. Silena did not try to persuade them to use the same system.
+
+At the mail room, Marge checked the address on each envelope and explained which dispatch would carry it. The mortal letter was ready for that afternoon. The Roman request would be forwarded to Chiron's contact, and it might be days or weeks before they knew whether the channel had accepted it.
+
+Thalia listened to the explanation twice. When Marge stamped the receipt, the sound startled her more than it should have. She had wanted to write for so long that actually sending something felt like giving away control of it.
+
+She took the receipt. Annabeth held the copied address list, careful not to smudge the ink. They had made the decisions they could make. The answer, if there was one, would belong to someone else.
+
+
 
 ---
 
