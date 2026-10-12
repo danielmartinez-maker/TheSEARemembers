@@ -264,7 +264,7 @@ She knew the exact pitch of laugh that made her father soften. She knew how to p
 
 Her hand was already half-raised. Her mouth was already shaping *Dad, please, she doesn't mean it, she's grieving, you know about Mom, about Jason—*
 
-Jason. Their younger brother, raised far away at Camp Jupiter. His recent visit had ended; distance still turned every farewell into a worry. Thalia missed him fiercely, but missing him was not the same as losing him.
+Jason. Their younger brother was far away at Camp Jupiter. Thalia had not seen him since he was taken when he was small. Some days she could tell herself he was safe; on others, distance felt like a question nobody was answering.
 
 *Be agreeable,* the rules whispered. *Be good. Don't make it worse.*
 
