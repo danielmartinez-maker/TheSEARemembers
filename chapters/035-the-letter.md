@@ -936,4 +936,20 @@ Percy looked between them, then wisely decided not to make a joke about their sc
 
 Thalia took a piece and ate it. She was still thinking about Jason. She was also hungry, had a sparring session at ten, and had promised Bea she'd help review the next day's route. Nothing about writing to her family absolved her of those ordinary plans. She was glad the letter had been sent. She was going to have to learn to keep living while she waited.
 
+After the meal, Chiron met them beside the pavilion with a brief update. The mortal satchel had reached the regional sorting office. The Roman intermediary had acknowledged receiving the delivery request, but not accepted the personal letter yet.
+
+"That isn't a refusal," he said. "It's simply where the matter stands."
+
+Thalia was tempted to ask him whether he could make the process move faster. She didn't. He had already explained which people were responsible and what he could reasonably do. Pushing him would not change the Roman camp's response.
+
+Annabeth wrote the status in their shared correspondence notebook, carefully separating *request received* from *letter delivered*. The distinction seemed pedantic until she imagined having to explain to Jason months later why they'd told him a letter was on the way when it had never left the intermediary's desk.
+
+"Can we send another one while we wait?" she asked.
+
+"You may draft one," Chiron replied. "I suggest waiting to learn whether this route works before submitting several packets to the same channel."
+
+She agreed. Thalia watched her sister put the notebook away. They had learned something useful without getting the answer they wanted.
+
+By the time they left the pavilion, both had appointments they were supposed to keep. Annabeth went to her model-building lesson; Thalia went to the practice yard. The two letters could travel without requiring the girls to follow them in their minds every minute.
+
 
