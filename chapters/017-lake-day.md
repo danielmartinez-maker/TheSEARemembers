@@ -353,6 +353,120 @@ She opened her book to read aloud while everyone chewed, and when she got to the
 ---
 
 
+The picnic ended with Ella discovering three missing spoons, two wet napkins and a cake wrapper caught beneath the reeds. She could have declared the naiads responsible for all of it. The spoons were probably theirs. The wrapper had been blown toward the lake when somebody opened the cookie tin, and the napkins belonged to whoever had forgotten to secure the picnic basket.
+
+Grover saw the rubbish and put down his reed pipe.
+
+"We need to clean the shore before the next group arrives."
+
+"That's what I'm doing," Ella replied, with the expression of someone who disliked having the obvious announced.
+
+"I know. I mean the part beneath the reeds too."
+
+He stepped into the shallows and began gathering the paper that had caught against a half-submerged branch. The naiads surfaced, watching him with varying degrees of suspicion.
+
+"Are you taking our treasures?" one asked.
+
+"Only the rubbish. The spoons are yours unless the camp kitchens ask for them back."
+
+"Shiny spoons."
+
+"I can see why you like them."
+
+He took a damp napkin from the water and looked at the pale streak where the dye was washing out. The lake itself didn't need a lecture about protecting nature. It needed campers to stop leaving things behind.
+
+A naiad with lily pads in her hair swam closer.
+
+"You brought too much food," she said.
+
+"We brought enough for our group. You took most of it."
+
+"Food is good for guests."
+
+"Guests usually ask first."
+
+She considered the distinction. "Then next time ask us to come."
+
+Grover looked at Ella. Ella looked back, still clutching the spiral shell she'd received in exchange for an oatmeal cookie.
+
+"I could do that," Ella said. "But next time we divide the food before the picnic begins. You get a plate. We get a plate. Nobody steals the plate belonging to the other group."
+
+The naiad frowned. "What if the plate floats away?"
+
+"We'll find a heavier one."
+
+Grover smiled. Ella loved agreements that could be turned into lists. He suspected the naiads would enjoy an agreement more if they could help make it.
+
+"What would you bring?" he asked them.
+
+"Water flowers," said one.
+
+"Pebbles," said another.
+
+"Fish," suggested a third.
+
+Ella looked alarmed. "Alive fish?"
+
+"Very fresh fish."
+
+"We'll put that under discussion."
+
+They established a small cleanup team before the conversation could become an argument about menu planning. Nico carried the dry rubbish bag, Percy lifted a fallen branch out of the shallow water and Grover checked the narrow bank where the reeds hid the worst of the litter. The naiads returned the spoons, although one kept a particularly shiny one that Ella decided she'd already traded for the shell.
+
+The work would have been quick if it hadn't exposed a problem beyond the picnic. A small section of shoreline had begun to erode where campers repeatedly dragged canoes through the reeds instead of using the marked launch. The earth had been trampled until the roots were exposed.
+
+"That's new," Grover said.
+
+Percy looked at the bank. "The water has been high after the last rain. It might have washed some of the soil away."
+
+"Some. But look at the scuff marks."
+
+Nico crouched beside him. "They're from the canoe bottoms."
+
+The three of them traced the path back to the dock. A worn gap in the railing made it easier to drag a boat straight down the bank rather than carry it to the launch platform. Nobody had intended to damage anything. The shortcut was convenient, so people kept using it.
+
+Grover wrote down the location in his notebook. He had spent the morning trying to decide whether being a Searcher required him to be brave in some spectacular way. This was an ordinary problem, but it was exactly the sort of damage he wanted to notice before it became irreversible.
+
+"Should we fix it?" Nico asked.
+
+"Not by ourselves. We should tell the canoe instructor and the dryads who look after the bank. The roots might need protecting, and I don't want to move anything that holds the earth together."
+
+Percy nodded. "I'll show Chiron where the route changed. We can help carry the canoes along the proper path until it's repaired."
+
+They went to find the instructor. He listened, inspected the bank and agreed to close the gap in the railing before the next lake day. The dryad responsible for the nearby willow asked the campers to leave the exposed roots alone until she could coax the soil back around them.
+
+Grover offered to help mark a safer walking route. She accepted, with the condition that he wouldn't tie anything to her branches without asking.
+
+"Agreed," he said.
+
+Nico drew a small map with the proper launch marked in blue. The new sign went beside the canoe rack, where the campers actually made the choice about which path to take. Ella added a note reminding everyone to carry their rubbish away, and the naiads insisted she draw a cookie beside the instruction.
+
+"That's not relevant," Ella protested.
+
+"It's an incentive."
+
+"Fine. One cookie."
+
+By the time the signs were finished, the next swimmers were gathering for the afternoon games. They read the notices without needing an instructor to explain them. A Hermes boy who'd been about to drag his canoe toward the reeds turned and carried it to the launch instead.
+
+Grover watched him go. It wasn't a grand achievement. No monster had been driven off. No lost god had answered his pipes. The lake's bank would take time to recover, and the sign would probably need replacing after the next storm. But he knew which small piece of the wild he'd helped protect today.
+
+He opened his notebook to the list of reasons he wanted to become a Searcher. Beneath Nico's suggestion that he liked things, he added another:
+
+*Notices when something needs taking care of, and does something about it.*
+
+Ella leaned over to read. "That's an excellent reason."
+
+"Do you think Chiron will agree?"
+
+"Chiron likes evidence," she said. "You have a new sign and an erosion report. Evidence!"
+
+Grover smiled and closed the notebook. He would ask the centaur about the Searcher's requirements later. Right now Clarisse was gathering campers for cannonball practice, and somebody needed to make sure the littlest swimmers weren't pushed off the end of the dock by a crowd of older children.
+
+
+
+---
+
 Clarisse La Rue had been dreading this day for a week.
 
 Not because she didn't like lake days — she did, in the abstract, the way you like birthday parties for other people — but because she'd watched Percy at the beach yesterday during free swim and realized with a sinking feeling that her little brother had no idea how to *play*.
