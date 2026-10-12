@@ -1,5 +1,93 @@
 ## Chapter 11: The Eclipse
 
+The first person to knock on Zoe's door that morning was Tomas. He was carrying a clean shirt and a stack of observation cards, and his hair stood up at the crown in a way that suggested he'd been awake longer than he admitted.
+
+"I did the numbers," he said.
+
+"Which numbers?"
+
+"Who watches which route. Nico said somebody had written two people into the same place and nobody into the west crossing."
+
+Zoe took the cards. She had checked the assignments the previous afternoon, but a late request from the infirmary had changed the list. The west crossing was indeed unassigned. She could have found the mistake in another hour of paperwork. She was grateful Tomas had noticed before the eclipse began.
+
+"Well caught," she said. "Did you tell Bea?"
+
+"She was asleep."
+
+"People are allowed to sleep, Tomas."
+
+"So I came here."
+
+Zoe sent him to get breakfast before she would discuss the cards further. He argued that he wasn't hungry, then ate the piece of bread she'd placed beside her notebook while continuing to object. She hadn't expected to spend the morning chasing children into ordinary routines when the Hall might behave unpredictably. That made it exactly the sort of morning she should have expected.
+
+Mara arrived with the forge checklist and a small wooden box containing the sealed test strips. They had no intention of using the strips on the live ward. They were included because the team wanted an intact record of which independent control tests had been completed before any intervention.
+
+"Chiron asked us to check the emergency stop procedure aloud," Mara said.
+
+"We've done it."
+
+"Then we can do it once more."
+
+Zoe stood and joined her by the table. Mara read the steps: isolate the site, establish a clear escape route, keep water off exposed conductive surfaces, inspect from outside, and never disengage a live coupling without checking where its load might go. Zoe repeated each step and pointed out where the procedure depended on information they did not yet have.
+
+"That last part worries me," she said.
+
+"Me too. The frame can take the kind of surge we tested. If the Hall's ward is doing something else, we pull back. We don't pretend a training result is a guarantee."
+
+"Good."
+
+Mara looked toward the window. Camp was waking. Sunlight fell across the pavilion roof and the repaired noticeboard where the public status sheet hung next to the routes Annabeth had marked.
+
+"I heard the custodian tried to get Chiron to open the exhibit wing for the eclipse," Mara said.
+
+"He didn't."
+
+"No. He wanted visitors to see the celestial event reflected in the Hall's dome."
+
+"Then he needs a different plan for his visitors."
+
+Mara laughed, but the sound was strained. They had spent the week making sensible choices in anticipation of a danger they still could not define. Zoe understood the temptation to turn the whole preparation into something dramatic enough to justify the work.
+
+The more worrying possibility was that nothing would happen, and people would decide the precautions had been foolish. Some might be tempted to stop following them before the inspection ended.
+
+Zoe checked the observation board once more. The circle at the center of the Hall's motif resembled the boundary mark she'd demonstrated on the copper training strip. That resemblance didn't prove the inscriptions behaved alike. She had repeated this statement so many times that it had become an argument with herself. Every time she caught herself imagining a neat mechanism linking the Hall to the attic, she wrote down what evidence would be needed to support it.
+
+She closed the ledger when the conch sounded.
+
+Tomas was still sitting near the door with half his bread in his hand. He watched her buckle the case.
+
+"Are you going into the Hall?" he asked.
+
+"Only if Chiron decides the site can be approached safely. You're staying with the Hecate cabin group at the pavilion. If the route changes, you follow the counselor with the marked cord."
+
+"I know."
+
+"Then tell me which cord."
+
+"Two knots for the pavilion path. One for the upper bank. We don't cross the closed fence just because someone says they saw a light inside."
+
+"Good."
+
+He hesitated. "If you're late coming back, do we wait?"
+
+"No. You go to the assembly point with your counselor. If you need to find me, the adults have the route log."
+
+Zoe watched him take in the instruction. It meant she would not necessarily be the person he could run to if he was scared, and that knowledge made her sad. It was also the only way she could help Chiron work on a ward without making her younger cabin mates responsible for protecting her.
+
+"Can you bring my cloak back if I leave it with the observation crew?" she asked.
+
+"Yes."
+
+"Then you've got a job. A small one. Nothing near the Hall."
+
+Tomas took the folded cloak and looked satisfied to be trusted with it.
+
+Outside, the sky was bright and ordinary. Zoe walked to the western path where Mara's team was assembling the grounding frame. The two of them inspected the casing for cracks, checked that the insulated handles were intact and moved the frame away from a patch of wet grass. Their preparation was deliberate and unglamorous. That was the point.
+
+Only when the equipment had been signed back into the observation log did Zoe permit herself to look toward the Hall and wonder whether any of their efforts would be enough.
+
+---
+
 Eclipse morning arrived clear and cold.
 
 Percy woke before the conch. Clarisse had already pulled on her boots; Silena stood beside the door with a bundle of clean towels and the expression she wore when someone was about to make a preventable mess.
