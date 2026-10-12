@@ -492,7 +492,7 @@ Annabeth, sleeves rolled up, already chopping scallions with terrifying precisio
 
 What followed was chaos of the finest kind.
 
-Grover tried to grate ginger and got it in his eye and had to be led to the sink by Ella, who recited antidotes while patting his head. Thalia attempted to knead dough and ended up with it stuck to her jacket, her hair, and Nico's eyebrow. Jason, trying to help, misread "fold gently" as "punch repeatedly" and was banned from dough duty by Annabeth. Zoe, to everyone's shock, turned out to be excellent at pleating dumplings — "Hecate's daughters learn nimble fingers," she said primly, producing a perfect crescent while Clarisse's looked like a deflated football.
+Grover tried to grate ginger and got it in his eye and had to be led to the sink by Ella, who recited antidotes while patting his head. Thalia attempted to knead dough and ended up with it stuck to her jacket, her hair, and Nico's eyebrow. Nico, trying to help, misread "fold gently" as "punch repeatedly" and was banned from dough duty by Annabeth. Zoe, to everyone's shock, turned out to be excellent at pleating dumplings — "Hecate's daughters learn nimble fingers," she said primly, producing a perfect crescent while Clarisse's looked like a deflated football.
 
 "Yours looks like it's been in a fight," Percy told Clarisse.
 
@@ -546,7 +546,7 @@ Clarisse held up her bowl. "To Percy. And his weird glowing soup. And his mom's 
 
 They ate until the pot was empty. Ella collected everyone's favorite words for the soup ("effervescent!" "briny!" "brothy!" "blue!") and wrote them on a napkin for her lexicon. Grover played a soft tune on his pipes while they cleaned, and even Thalia hummed along, her arm around Annabeth's shoulders, both of them flour-dusted and laughing.
 
-Percy washed dishes next to Clarisse, who elbowed him every time he tried to hand her a wet plate, and across the sink Silena dried and stacked, and for a minute Percy closed his eyes and listened — water running, sisters bickering, friends laughing, Annabeth explaining to Jason why you don't put metal in a microwave while Thalia pretended not to listen — and it sounded, just for a second, like the palace kitchen at home. Loud and warm and full.
+Percy washed dishes next to Clarisse, who elbowed him every time he tried to hand her a wet plate, and across the sink Silena dried and stacked, and for a minute Percy closed his eyes and listened — water running, sisters bickering, friends laughing, Annabeth explaining to Nico why you don't put metal in a microwave while Thalia pretended not to listen — and it sounded, just for a second, like the palace kitchen at home. Loud and warm and full.
 
 He opened his eyes to find Clarisse watching him.
 
