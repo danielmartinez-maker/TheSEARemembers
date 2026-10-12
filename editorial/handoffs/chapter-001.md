@@ -22,11 +22,12 @@
 - Review Chapter 002 opening for Clarisse/Silena chronology and physical sleeping arrangement. Do not silently edit Chapter 002 to fit a new Chapter 001 fact.
 
 ## Checks actually completed
-- Chapter 001 body word count: **11,126** whitespace-delimited words, excluding heading/dividers.
+- Chapter 001 body word count: **11,077** whitespace-delimited words, excluding heading/dividers.
 - Reordered Percy/Grover hill arrival, reunion, dinner, and cabin; removed duplicated emergence and secondary ending.
 - Rewrote the garden/Sally discussion and Tessera interaction so Amphitrite does not learn Percy's secret. Kept a maternal relationship while Percy uses plausible explanations and conceals his memory gap.
-- Exact 300-word contiguous window check against Chapters 002/003: pending rerun on the latest Chapter 001 revision (earlier draft passed).
+- Exact sliding 300-word contiguous window check against Chapters 002 and 003 rerun on the latest Chapter 001 revision: **no exact overlap**.
 - Checked one surface arrival, chronological reunion before dinner, no em dashes, chapter heading and closing-scene structure.
+- Checked Percy/Amphitrite dialogue in revised garden and Tessera scenes for explicit disclosure of prior-life memories or missing altered-childhood memories: **none**. Amphitrite continues to understand him as anxious about camp.
 - **Not yet run:** repository-wide 193-chapter duplication audit, assembled manuscript build, or user-working-copy reconciliation.
 
 **Next scene:** Chapter 002, next morning, Percy waking in Cabin Three, facing Clarisse and meeting Silena at breakfast.
