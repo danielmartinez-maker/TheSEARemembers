@@ -413,6 +413,95 @@ Percy caught Annabeth's eye over Thalia's arm. She smiled tiredly. He mouthed, y
 
 He nodded. Later. They would need later.
 
+
+---
+
+Grover found Percy at the edge of the strawberry fields with a list of questions he'd written on a scrap of bark.
+
+Percy had been trying to count the gifts stuffed into his jacket pockets. He had two drachmas, a lucky shell, three pieces of ambrosia somebody had slipped him without an explanation and a small packet of seeds. Silena was going to make him take most of it out again when she checked his bag.
+
+"Why bark?" Percy asked.
+
+"I ran out of paper," Grover said. "And this was already on the ground."
+
+The list was scratched deeply enough that Percy could read it. It contained *water*, *food*, *train*, *monster smell*, *money*, and *Juniper?* The last word had been underlined twice.
+
+"Does Juniper need to come?" Percy asked.
+
+Grover looked horrified. "No. She needs to know I'm not going to disappear without saying goodbye. I told her I would tell her when I was leaving camp. That was supposed to mean something."
+
+"Then tell her. Now."
+
+"I did tell her. She wants to know whether I'll be able to write."
+
+Percy hadn't thought that far ahead. He'd imagined heading west and returning with the bolt, all the difficult days compressed into a single adventure. From the look of Grover's list, their actual problems would begin much sooner.
+
+"Can we send messages from the road?" he asked.
+
+"Sometimes Iris messages work. Sometimes the connection is lousy. Sometimes you don't have a drachma, or water, or time." Grover tapped the first word on the bark. "I want to know what happens when we can't."
+
+Annabeth arrived carrying two empty water flasks and a roll of string. Thalia followed with a small tin of sewing supplies she'd taken from Cabin One.
+
+"I heard the word messages," Annabeth said.
+
+"Grover wants a way to tell Juniper he's alive," Percy explained.
+
+"Not every hour," Grover said quickly. "Just when I can. I don't want her sitting by her tree thinking I've forgotten."
+
+Annabeth set down the flasks. "Then we should decide how often we'll try. And what counts as a missed message."
+
+Thalia frowned. "If we promise every night, we'll end up taking risks just to keep the promise."
+
+"Exactly," Grover said, relieved. "I don't want that either."
+
+They sat in the shade at the edge of the rows. Annabeth drew three columns on the back of an old practice schedule: what they could carry, what they could ask Chiron to provide, and what they simply couldn't guarantee. Percy pointed out that Chiron's map and drachmas were due in the morning. They could plan questions, not pretend to have the supplies already.
+
+Grover explained what satyrs could sense on the road: plants under stress, disturbed soil, the smell of monsters when the wind was favorable. He admitted the smell of traffic and hot asphalt made those senses harder to use. He didn't always know whether a strange odor meant danger or merely a mechanic working late in a roadside garage.
+
+Percy had assumed Grover would be their early-warning system. Listening to him now, Percy realized he'd been treating his friend's ability as if it were a machine that could be switched on and trusted without a second thought.
+
+"So if you say something smells wrong, we stop and look," Percy said. "But we don't assume you know what it is."
+
+"And if I say I don't know, you don't argue me into saying I do."
+
+"Agreed."
+
+Thalia picked up the bark list. "What's this about train?"
+
+"If we have to take public transport, I need to know where I can hide my hooves," Grover said.
+
+"Your jeans are fine," Percy said.
+
+"Until somebody asks me to take my shoes off, or we get dragged into a station with metal detectors and I'm carrying pipes and three knives."
+
+"You're carrying three knives?" Annabeth asked.
+
+"One is a plant knife. One is a cheese knife. One is for cutting rope."
+
+Thalia sighed. "We'll check what actually belongs in the bag."
+
+Percy glanced at her. "Same goes for your spear."
+
+"My spear is completely reasonable."
+
+"It is longer than Grover."
+
+"That is an argument in its favor."
+
+They argued about the spear until Annabeth made them write it on the list for Chiron to review. None of them knew how the Mist would behave around a security checkpoint. A plan based on everybody seeing what they wanted to see wasn't much of a plan.
+
+Finally Grover took the bark back. He crossed out the question mark beside Juniper and wrote *when safe*. Beneath it he added *tell her before we go*.
+
+"That's enough," he said.
+
+Percy thought so too. They couldn't know where the thief was, whether a message could reach Atlantis, or whether Zeus would punish his daughters more severely tomorrow. But they could agree not to sacrifice a companion's safety to a promise of a postcard.
+
+As they separated for packing, Annabeth handed Percy one of the flasks.
+
+"Fill this before tomorrow," she said. "Actual water, not the sea. Grover needs to drink it too."
+
+Percy nodded and carried it to the cabin, where Silena was already waiting with a growing mountain of sandwiches.
+
 ---
 
 Silena packed like war was coming and lunch was the weapon.
