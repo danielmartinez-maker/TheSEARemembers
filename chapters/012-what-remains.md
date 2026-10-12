@@ -932,3 +932,21 @@ At the bend near the cabins, Thalia slowed. Her injured knee had been protesting
 "I have no idea what you're talking about."
 
 Thalia didn't argue. She had Annabeth's note folded inside her jacket, and the stairs to Cabin One were just ahead. She let Annabeth take her arm for the last few steps.
+
+Inside the cabin, the new emergency drill schedule was still on Thalia's desk. Annabeth looked at it while her sister took off her boots.
+
+"You changed the youngest campers' route," she said.
+
+"Bea and I did. No mock alarms tomorrow. We want them to remember the meeting points, not the noise."
+
+"That's better."
+
+Thalia examined her. "You can help review the map if you want. Not because you've been keeping track of me. Because you noticed the drainage problem before the last drill, and I'd like you to check our corrections."
+
+Annabeth turned the page around. She didn't seem sure whether to smile.
+
+"I'll do it in the morning," she said. "You should sleep."
+
+"So should you."
+
+They left the map on the desk between their beds. Thalia was still angry about things she couldn't explain and Annabeth still remembered a childhood her sister couldn't share. Tomorrow's work would not change that. It would give them a decision to make together without asking either of them to pretend the missing years were gone.
