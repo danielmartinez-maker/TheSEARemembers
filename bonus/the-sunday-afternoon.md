@@ -1,6 +1,6 @@
 ## Bonus Interlude: The Sunday Afternoon
 
-Sunday, the first of November, and the cold had broken for exactly one day.
+Sunday, the fifth of November, and the cold had broken for exactly one day.
 
 The sun came down off the ridge and made the frost on the grass go silver, and the lake lay flat and bright under a sky that had decided, for once, to be kind, and the whole camp had the loosened feel of a place that had been holding its breath through October and was finally allowed to let it out.
 
@@ -9,6 +9,200 @@ Thalia Grace came up the west path in the middle of the afternoon with her hands
 She had not told him she was coming. She had not told anybody. She had gotten up at seven the way she always did, and she had gone to the shooting line at eight the way she always did, and she had shot left-footed the way Chiron had told her to, and she had been worse at it, the way Chiron had said she would be, and she had not cared, because Rhys had been at the line with his bow unstrung and his hands in his pockets and his eyes on her, and she had caught him looking three times, and each time he had not looked away, which was the whole of the conversation.
 
 At noon she had gone to the Big House and let Chiron look at the heel, and he had pressed it and she had not flinched, which was its own kind of flinching, and he had said, "Better. Another week left-footed and you'll be right," and she had said, "I'll be right at the hall Tuesday," and he had said, "You'll be right at the hall Tuesday and you'll be better by the winter," and that had been the whole of that conversation too.
+
+The week between those two visits had been longer than she expected. Not because she was miserable, which was how Percy had put it when he found her pacing in the rain on Thursday and then immediately claimed he had meant the weather. She simply had a new thing she wanted, and being required to go about her ordinary work while wanting it was an unfamiliar kind of inconvenience.
+
+On Tuesday, the first time she wore the support wrap to the Tempest Hall, it caught under the edge of a bench and nearly sent her into Percy's stack of folded towels.
+
+"Don't you dare," she said as he opened his mouth.
+
+"I hadn't decided what I was going to say."
+
+"You were going to say something about flying."
+
+"I was thinking about the towels."
+
+"You've never thought about towels in your life."
+
+"I've had a complicated relationship with towels since Atlantis."
+
+Annabeth, who had been measuring the distance between two lines of floor marks, looked up just long enough to say, "If you knock over those towels, you're folding them again. Both of you."
+
+That had been the end of it. Thalia spent most of the evening on the near side of the pool, where the spectators sat, giving advice to campers who had come expecting to watch rather than participate. Rhys stayed for the whole session, but he did not sit beside her. He took three younger campers through the safety markers, listened when Clarisse challenged a rule, and stopped one of the Apollo boys from treating the shallow end as a competition.
+
+She found herself noticing all sorts of things about him she had failed to notice at the archery range. He could be patient with a nervous child and thoroughly impatient with somebody showing off. He remembered everyone's name but lost his own pencil four times. When the swimmers left, he helped Silena haul a heavy crate out of a passage rather than wait for somebody to ask. When he came over to say goodbye, his attention stayed on Thalia's face despite the noise behind them.
+
+"You have an opinion," he said.
+
+"I have several. Your cousin can't follow a line on the floor."
+
+"He follows it. He thinks the rules are wrong."
+
+"He's going to break his head."
+
+"I told him that."
+
+"What did he say?"
+
+"He asked whether I'd broken mine."
+
+Thalia snorted. "Fair."
+
+Rhys looked down at the wrap for no longer than an instant. "How was the foot?"
+
+"Still attached."
+
+"That's a start."
+
+"Don't sound so impressed."
+
+"I was impressed by the part where you helped somebody else shoot without insisting you should be shooting."
+
+She could have taken that as a compliment. Instead she heard a report on her behavior, delivered in a voice gentle enough to be difficult to fight.
+
+"Is everyone going to keep a ledger on me?"
+
+He stopped smiling. "No. I'm not your keeper, Thalia."
+
+"Good."
+
+"And if you want me to stop asking, tell me that."
+
+There it was: an answer that left the choice with her rather than doing the work of making it. She was still annoyed when he went back to collecting equipment. She was also aware that she had been unfair to him.
+
+On Wednesday she sought him out at the target shed and said so. It took roughly fifteen seconds, which felt excessive.
+
+He accepted the apology. Then he asked whether she would help him rebuild the smallest beginner's bow before the next lesson, and she accepted in turn. Neither of them attempted to make the exchange ceremonial. They spent the next hour arguing over the straightness of the replacement limb, with a ruler between them and a small pile of rejected shavings beside the bench.
+
+It was a much better afternoon than Tuesday had been.
+
+---
+
+Thursday brought rain and a letter.
+
+The letter was from Beryl, folded into a narrow envelope that had gone soft at one corner. Thalia recognized the handwriting before she looked at the name. She waited until after lunch to open it, then sat at the end of the Cabin One table while Annabeth fitted numbered slips of paper into a small tin box.
+
+Beryl said the diner had asked her to cover extra mornings. She said she was trying to do better. She said she missed her girls. Between two sentences about coffee and bus schedules, she had written that she hoped Annabeth was listening to her big sister.
+
+Thalia read that sentence three times.
+
+Annabeth didn't ask what the letter said. She had learned not to do that. She kept arranging the slips by number, pressing the curled corners flat with the pad of her thumb.
+
+"She says the diner gave her more shifts," Thalia said.
+
+"That's good."
+
+"Maybe."
+
+Annabeth looked up. "Do you want me to read the rest?"
+
+"You can if you want."
+
+"I want to know what she said. That isn't the same thing as wanting to answer."
+
+Thalia passed her the page.
+
+Her sister read slowly. By the time she got to the end, her expression had changed so little that another person might have missed it. Thalia knew the difference between concentration and the kind of composure Annabeth used when she was trying not to give somebody else the satisfaction of seeing her upset.
+
+"She still thinks I do everything you tell me," Annabeth said.
+
+"She always liked that version."
+
+"Did you?"
+
+Thalia considered lying. "Sometimes. Especially when the alternative involved you climbing onto something tall."
+
+Annabeth put the letter on the table. "I listen when you're right. I just don't want to have to pretend you're right first."
+
+They were quiet a while. Outside, water ran down the glass and gathered on the sill where the old frame never quite shut properly.
+
+"I don't want to be her," Thalia said.
+
+"You aren't."
+
+"That's not something you can settle with one sentence."
+
+"I wasn't trying to settle it. I was answering."
+
+Thalia watched her put the letter back into its envelope. The family they had arrived in was full of agreements that neither sister had ever made, habits that belonged to years Annabeth could not completely remember, and expectations that Thalia had carried long enough to mistake for herself. Even on good afternoons, they bumped against all of it.
+
+"There's somebody I've been spending time with," Thalia said.
+
+Annabeth looked at her over the envelope. "Rhys?"
+
+"You knew?"
+
+"I have eyes."
+
+"Your eyes could mind their own business."
+
+"They do. Mostly."
+
+"Mostly?"
+
+"Do you want me to ask questions, or do you want me to keep pretending I don't know?"
+
+Thalia had expected teasing. She wasn't sure what to do with the offer of privacy.
+
+"Keep pretending for now," she said. "I might change my mind."
+
+"Fine."
+
+Annabeth slid the envelope back across the table. She did not ask for a name, a promise, or a detailed explanation of the last Monday night. Instead she opened the tin box again and began counting the slips, and Thalia sat with her until the rain eased enough that they could go to supper without getting soaked.
+
+On Friday the sky cleared. Thalia and Annabeth went down to the work shed with their boots muddy and argued about drainage channels for forty minutes. It was a useful argument. Thalia had spent half her life trying to make sure her sister survived. Annabeth had spent a good part of this one trying to make sure that surviving did not become the whole definition of being alive. They could talk about drainage because the other conversation had stopped being an emergency.
+
+---
+
+By Saturday, the hall schedule had acquired six new names. Three were Apollo campers, two belonged to children who had never been in the water after dark, and the sixth was Clarisse, written in such heavy pencil that it left an indentation through the paper.
+
+Thalia found Rhys checking the new list outside the pavilion.
+
+"You're recruiting," she said.
+
+"Trying to. Winter gets long."
+
+"People can entertain themselves."
+
+"Some can. I've seen what happens when the younger ones spend a week arguing about whose bunk is warmer."
+
+She leaned against the post beside him. "You've been doing this longer than I thought."
+
+"Coming back for winter? A few seasons. Organizing things? Only when someone else is tired of doing it."
+
+"Why?"
+
+"My mother works shifts. I was the oldest kid home. If I wanted something to happen, I usually had to put the chairs out myself."
+
+It was the first time he had offered a piece of his life outside camp without using it to make a point about hers. Thalia turned her head to look at him.
+
+"You don't always look like somebody who's had to put chairs out."
+
+"That's because I am very good at putting them out."
+
+"What happens when winter's over?"
+
+"I'll go back to help her for a while. I haven't decided what comes next."
+
+She did not ask whether that decision included her. The question would have been too easy to turn into a trap for both of them. Instead she took the paper, looked at the empty volunteer slots, and wrote her name beside the next beginners' session.
+
+"You could have asked," Rhys said.
+
+"You were going to."
+
+"I was considering it."
+
+"And I saved you the trouble."
+
+He folded the list and tucked it under his arm. "The first sunny afternoon all week is tomorrow. Are you planning to use it?"
+
+"I haven't decided."
+
+"Very mysterious."
+
+"I have an image to protect."
+
+He laughed and went inside to collect the chairs. She watched him for a moment and then followed, because he was right about one thing: somebody had to put them out.
 
 And now it was the middle of the afternoon and the sun was on her back and she was going to the camper's cabin at the end of the path, and she was not going to knock.
 
@@ -44,19 +238,106 @@ Afterward they slid down the wall to the floor, both of them breathing hard and 
 
 "I don't care and I'm going to do it again." She turned and put her hand flat on his chest and pushed him down onto the floor and straddled him and looked down at him with the sun on her back and her hair coming loose and her shirt open and her jeans around her knees, and she said, "My turn," and he put his hands at her hips and said, "Your turn," and she took him in her hand and guided him to her and sank down onto him and they both groaned, and she rode him slow and deep on the floor of the cabin in the middle of the afternoon with the sun on her back and the stove ticking and the whole camp outside doing its afternoon, and she felt the second orgasm building and building and when it hit she came with her head back and her hands on his chest and his name in her mouth and the sun on her face, and he followed with his hands tight on her hips and his head back against the floor and a groan that came from somewhere deep.
 
-Afterward they lay on the floor in the sun, both of them shaking, and he put his arm under her head and she put her leg over his and they breathed, and the sun moved across the floor and the stove ticked and the cabin went quiet and warm and close, and she said, "Your heel," and he said, "Your heel," and she said, "My heel's getting better. Chiron says another week," and he said, "Chiron says another week and you'll be right at the hall Tuesday," and she said, "I'll be right at the hall Tuesday and you'll be there," and he said, "I'll be there and I'll be looking at you and you'll be catching me and we'll both pretend we're not," and she said, "We'll both pretend we're not and we'll both know we are," and that was the whole of the conversation, which was the kind of conversation they had been having since the first time.
+Afterward the cabin was much too quiet.
+
+Thalia had claimed the patch of sunlight by the door without considering that a floor could be hard even when the room was warm. Now she was trying to retrieve her sock from beneath the workbench while Rhys hunted for the other half of a shirt button that had disappeared earlier. She found the sock, which was a victory. He found the button, which made him insufferable for nearly a minute.
+
+"You're pleased with yourself," she said.
+
+"I found a useful object."
+
+"You're going to put that on your list of accomplishments."
+
+"I might. It's been a difficult week."
+
+He pulled the spare blanket down from the cot and settled beside her. The quiet was no longer the charged, expectant kind that had filled the cabin when she'd walked in. From the other side of the wall came the ordinary noise of a camper carrying a bucket, a door opening, and someone calling for a missing scarf.
+
+Thalia watched Rhys stitch the button back into place. He was surprisingly bad at it.
+
+"You're making a knot," she said.
+
+"I'm aware."
+
+"You've got the thread going through the same hole four times."
+
+"That's called reinforcement."
+
+"That's called a problem."
+
+He gave her the needle. She took it and fixed the knot in three quick movements before she realized she'd been baited into doing the work. He looked extremely satisfied.
+
+"That's cheating."
+
+"That's delegation."
+
+She tossed his shirt at him.
+
+For a while they sat there, sharing the last of the cider from an enamel cup. He told her that his mother had written again about the shifts she couldn't cover and that he'd promised to go home for a stretch when the winter work eased. He wasn't asking for permission. Thalia liked that less than she should have; she was discovering that wanting him around could make her unreasonable.
+
+"How long?" she asked.
+
+"Don't know yet. A few weeks, maybe. I'll tell you when I know."
+
+"You could have mentioned it before."
+
+"I just did."
+
+"Before today."
+
+He studied the rim of the cup. "I didn't want our second proper afternoon together to turn into a conversation about leaving."
+
+"Then you should have told me the first time."
+
+"The first time I was a little distracted."
+
+She almost smiled. "Terrible excuse."
+
+"I know."
+
+Thalia pulled the blanket across her knees. The feeling underneath the irritation was familiar: the possibility that a person could matter and still have a life that did not take place where she could see it. She had been managing versions of that problem since she was a child. It was one of the things that had made her so fierce about Annabeth, and one of the things Annabeth had begun to resist.
+
+"I'm not asking you to stay," she said.
+
+"I wasn't assuming you would."
+
+"Good. But I don't like finding out afterward."
+
+"That's fair."
+
+He handed her the cup. She took it. Neither of them rushed to tidy the conversation. He had a mother to help; she had a younger sister to stop managing like a military operation; and the warmth between them did not abolish either responsibility.
+
+"About those beginners," she said eventually.
+
+"What about them?"
+
+"If you leave, somebody will have to take the Thursday group."
+
+"I thought you'd tell me I had made myself indispensable."
+
+"You have. To my ability to blame you when they miss the target."
+
+"Very comforting."
+
+"I can take Thursday," she said. "If the heel behaves. But the girl with the red scarf needs someone to check her elbow before she sets the string. You corrected her too late yesterday."
+
+Rhys gave her a look. "You really were watching."
+
+"Always."
+
+He set the cup aside and reached for her hand. She let him have it, and when he kissed her she didn't turn it into a competition. The sun moved off the boards while they sat together and argued about who would get the last apple.
+
 
 ---
 
 She woke at four the way she always did, and this time she did get up, because it was still dark and he was warm and the cabin was warm and there was a quilt over both of them and his arm was across her waist and his breath was even and she lay there for a moment in the dark and listened to him breathe and the stove tick and the frost come down on the window, and the heel still hurt a little but it was getting better and she was going to let it get better and she was going to shoot left-footed for another week and she was going to be right at the hall Tuesday and he was going to be there and she was going to catch him looking and she was not going to care.
 
-At half past four she slid out from under his arm with the care of a thief and dressed in the dark, buckles quiet, and stopped at the chalk slate by the door and wrote three words over the laundry instructions, and got out into the cold before he could wake up.
+At half past four she slid out from under his arm with the care of a thief and dressed in the dark, buckles quiet, and stopped at the chalk slate by the door and added a line beneath the laundry instructions, and got out into the cold before he could wake up.
 
 Outside, the north wind had the whole hill, and the path home was gravel under her boots, nine amber lanterns and the tenth, and her breath going up white into the dark, and the sun was coming.
 
-ETERNITY. THAT'S ALL, said the slate, over the laundry instructions.
+DON'T MOVE THE TARGETS FOR ME, said the new line on the slate. Beneath it, in smaller letters, she had written: UNLESS THE NOVICES ARE TERRIBLE.
 
-She was grinning all the way up the hill, and nobody saw her do it, which made it worse.
+She was grinning when she reached the fork in the path. The next time Annabeth asked whether she wanted to talk, Thalia thought she might actually say yes.
 
 ---
 
