@@ -204,6 +204,14 @@ He folded the list and tucked it under his arm. "The first sunny afternoon all w
 
 He laughed and went inside to collect the chairs. She watched him for a moment and then followed, because he was right about one thing: somebody had to put them out.
 
+She had tried to keep her mind on anything except the last time she had been alone with him, and the effort had made her disagreeable all morning.
+
+There were details she hadn't meant to remember so clearly. Not the heroic ones people would tell around a campfire. The way he'd asked her to move a pile of bowstrings because she'd put her elbow on them without thinking. The little sound of recognition when she'd laughed at something he said instead of finding an argument. How different it had felt to stand beside him without a target between them, with neither a score nor an audience to tell her what she was supposed to do next.
+
+The nights in between had made her miss his company in a way she did not particularly enjoy admitting. She liked the impatient, ordinary desire to see him again. She didn't like how easily it could make her read a perfectly innocent look across a shooting line as a private invitation.
+
+Now she was acting on one deliberately. She didn't intend to spend the afternoon talking about a target shed. She didn't intend to explain away her visit as concern for her heel. She wanted to be alone with him, to kiss him until they both forgot to make jokes, and then to find out whether they were capable of sharing a quiet hour without inventing another excuse.
+
 And now it was the middle of the afternoon and the sun was on her back and she was going to the camper's cabin at the end of the path, and she was not going to knock.
 
 She opened the door and went in and shut it behind her and stood on the mat with the sun coming through the quilted window and the stove ticking and the cabin bright in a way it never was at night, and she looked at him.
@@ -325,6 +333,86 @@ Rhys gave her a look. "You really were watching."
 "Always."
 
 He set the cup aside and reached for her hand. She let him have it, and when he kissed her she didn't turn it into a competition. The sun moved off the boards while they sat together and argued about who would get the last apple.
+
+The apple turned out to be sour.
+
+Rhys cut it in half anyway, inspected both pieces and handed her the larger one.
+
+"An obvious attempt to improve my opinion of you," she said.
+
+"It's working, though."
+
+"Moderately."
+
+They ate on the cot with the blanket over their feet. At some point the church bell in the village beyond the camp sounded four. A few minutes later a group of younger campers ran along the path arguing about whose turn it was to light the lanterns at dusk. The day was moving along without consulting Thalia, as days tended to do, and she found that she didn't mind.
+
+Rhys shifted to get up. She caught his wrist.
+
+"Where are you going?"
+
+"To put more wood in the stove."
+
+"Give it a minute."
+
+He looked at the stove, then at her. "It will still need wood in a minute."
+
+"Then it can wait one minute."
+
+He sat back down, close enough that their shoulders touched. She hadn't meant to make a point. She wanted him near. It was more embarrassing to say that plainly than to argue about a hundred targets.
+
+Rhys pressed a kiss to her temple. She turned toward him, and the second kiss lasted longer.
+
+"I was wondering when you were going to stop talking about that apple," he said.
+
+"You kept answering me."
+
+"I can be polite."
+
+"Since when?"
+
+He grinned, and she drew him closer by the front of his shirt. The most unsettling thing about their growing familiarity was how quickly it had ceased to feel like something she had to win. She knew the slight crookedness of his smile when he was about to tease her, the way he held still to hear an answer, and which remarks genuinely annoyed him. He knew when she was trying to turn embarrassment into aggression. They still got it wrong. She expected they always would.
+
+"Can you stay?" he asked after a while.
+
+"Until when?"
+
+"I'd like you here tonight."
+
+She had been planning to. She had even packed a clean shirt into the bottom of her coat so she wouldn't have to go back to Cabin One before morning. But she was reluctant to surrender that information now that he was looking pleased.
+
+"Is the cider part of the offer?"
+
+"We've drunk it."
+
+"Poor planning."
+
+"There's tea."
+
+"That might save you."
+
+He took her face between his hands and kissed her once, warmly, without hurrying. She was still holding his wrist, and she let the kiss end instead of making a contest out of who could prolong it. It was a small thing. She noticed it anyway.
+
+Later, she helped him put the wood in the stove, though she insisted on doing it badly so he couldn't start treating her as a second cabin assistant. He had a spare shirt he offered her for the evening. It was clean and soft and belonged unmistakably to him; she put it on, examined its excessive length, and announced that it was criminally badly fitted. Rhys said it looked better on her. For once she had no clever answer.
+
+They spent the last of the daylight close together, mostly talking, sometimes forgetting what they had been saying. What Thalia liked about it wasn't only the desire, although there was plenty of that. It was the discovery that wanting him did not require her to become a different person when she reached for him. She could still be impatient. She could still laugh in his face when he told a terrible joke. She could say she needed a minute and take one. He could do the same, and neither of them had to treat it as a verdict on the other.
+
+At supper they ate the remainder of a loaf, cheese from his small cupboard, and the second apple, which proved even worse than the first. Rhys complained about his mother teaching him to cook and then refusing to believe he'd learned anything. Thalia told him about the time she had tried to make breakfast for Annabeth with a pan so badly warped it tipped the eggs straight onto the floor. He laughed hard enough that she took the last good piece of cheese as compensation.
+
+When the lamps along the west path lit up, she went to the window and looked down at the hill. Annabeth would have finished her evening notes by now. Clarisse would be counting her cabin. Somewhere down near the water Percy was probably pretending not to notice how closely his sisters kept track of him. None of them needed Thalia to be present every hour to go on being themselves.
+
+"You look like you're deciding something," Rhys said.
+
+"I usually am."
+
+"Anything I should know?"
+
+She turned away from the window. "Just that I'm staying."
+
+"You told me that already."
+
+"I know. I wanted to say it again."
+
+He came over and offered his hand, and she took it. For the rest of the night the cabin remained their private place, with the heater ticking and the lamp turned low. There would be time in the morning for bows, plans, sore feet and everything that still needed fixing. Tonight she wanted him, and when he kissed her she didn't look toward the door.
 
 
 ---
