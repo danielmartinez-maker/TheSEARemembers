@@ -14,6 +14,91 @@ Percy stared up. "Zeus? Here? Now?"
 
 Tyson nodded. He held out Percy's shoes, which Percy had left by Cabin Three. "Miss Silena says dress right. Miss Clarisse says bring your knife."
 
+
+---
+
+Percy sat on the edge of the dock to put on his shoes.
+
+It should not have been difficult. He had tied shoelaces every morning for years, in both lives. But his hands were cold, and the first knot came apart when he pulled it. He stared at the loose ends, angry with them for being such a small problem when a much larger one was on its way.
+
+Tyson waited at the foot of the dock. He was carrying the satchel he used at the forges, its canvas blackened at the corners and its strap repaired with a length of red cord. He had not brought any weapons. Percy knew because he could usually hear the collection of odd metal things his brother considered useful knocking together inside the bag.
+
+"You heard from the palace?" Percy asked.
+
+Tyson shook his head. "Heard from little bronze helper. Helper heard from wind."
+
+"That's a terrible chain of evidence."
+
+"Wind was frightened," Tyson said seriously.
+
+Percy looked out across the Sound. The clouds had not moved. Even the gulls were absent. He had always loved mornings when the water held perfectly still, but this was not calm. This was a person holding his breath, waiting for someone to decide whether he could let it out.
+
+"Does Poseidon know?"
+
+"Maybe." Tyson crouched, looking at the failed knot. "You want me to tie?"
+
+"No, I've got it."
+
+Percy tried again. This time the loops stayed. Tyson nodded as though he had just watched Percy repair an important piece of machinery.
+
+"You have to go back to the forges today?" Percy asked.
+
+"I told master I might be late." Tyson touched the patched satchel. "Had to bring word. You are brother."
+
+Percy felt his throat tighten. The visit had been meant to last another two days. Tyson was staying in the guest cabin, enjoying the chance to meet people who didn't have to shout through water to speak to him. He had spent most of yesterday fixing a bent hinge on the dining pavilion door. Now the ordinary pleasures of his visit had been interrupted by the same divine argument that was interrupting everything else.
+
+"Sorry," Percy said.
+
+Tyson looked puzzled. "For what?"
+
+"For your trip getting ruined."
+
+"Trip is not ruined. I am here." He sat down on the boards beside Percy. They creaked under his weight. "Also, hinge is fixed."
+
+"That's true."
+
+"Door will still work when sky father leaves."
+
+Percy wanted that to be the answer to everything. Fix a hinge, keep the door working, and trust that anybody who wanted to come home could find their way in.
+
+He glanced at Tyson's hands, huge and scarred from the forge. "You know if he starts saying something about Cyclopes, I won't let him talk to you like that."
+
+Tyson studied the motionless water.
+
+"He is king," he said.
+
+"I know."
+
+"King can speak. Brother can also speak."
+
+Percy nodded. He was sure Tyson meant the words simply. That was the remarkable thing about him. He saw no reason to make a complicated problem sound clever.
+
+"Will you stand with us?"
+
+Tyson looked toward the cabin rows, where a conch began to sound. "Chiron asked visitors to wait away from green. Too many people."
+
+Percy hadn't known that. He started to protest, then remembered how many campers there would be and how easily the gathering could become dangerous.
+
+"Do you want to stand by the dock instead?"
+
+"I want to watch door," Tyson said. "If people get scared, they need to get inside."
+
+Percy pictured children running toward a building whose hinge Tyson had repaired only yesterday. It was a better plan than Percy's first impulse, which had been to stay beside his brother and dare Zeus to object.
+
+"Okay," he said. "I wish I could be in two places."
+
+"Nobody has two feet in two places," Tyson answered.
+
+Percy looked down at his shoes, both tied now, and laughed despite the pressure in his chest.
+
+"I think that's the worst thing anybody has ever said to make me feel better."
+
+Tyson smiled. "Worked."
+
+At the path leading uphill, Percy turned back. Tyson was already checking the hinge on the small boathouse door, testing it twice with his shoulder before looking for a way to brace it if the wind rose.
+
+Percy climbed toward camp. He hadn't asked Tyson to protect him, but his brother had found something useful to protect, and for the moment that was enough.
+
 ---
 
 By the time Percy got back up the hill, Camp Half-Blood had turned itself inside out trying to look neat.
@@ -150,7 +235,7 @@ Then he turned away from them, dismissing them with the turn, and looked at the 
 
 Percy's heart dropped straight through his shoes.
 
-Thalia stepped forward with Annabeth half a step behind her, the way she always did, older sister first. Fifteen and twelve. Both in camp orange, both with their father's eyes. The wind lifted Thalia's tied hair. Annabeth's hands were clenched at her sides.
+Thalia stepped forward with Annabeth half a step behind her, the way she always did, older sister first. Sixteen and twelve. Both in camp orange, both with their father's eyes. The wind lifted Thalia's tied hair. Annabeth's hands were clenched at her sides.
 
 "Father," Thalia said. She did not bow. Annabeth did not either.
 
