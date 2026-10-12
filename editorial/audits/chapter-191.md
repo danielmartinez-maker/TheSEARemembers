@@ -24,6 +24,12 @@ Practical work should produce a completed repair and a character cost; repeated 
 - **Confirmed length gap:** 9,982 body words is below the stated 10,000-word per-chapter floor for the Chapter 140+ drafting stretch. Expand only with earned, substantive development.
 - **Continuity names:** Tyson ([L125](../../chapters/191-two-hands-of-work.md#L125)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
 
+## Confirmed critical assembly error: repeated Silena scene
+
+The Silena bread-basket encounter appears at [lines 391–413](../../chapters/191-two-hands-of-work.md#L391-L413) and is reproduced at [lines 417–439](../../chapters/191-two-hands-of-work.md#L417-L439). The exact-token rolling scan identified **308 consecutive repeated whitespace-delimited words** across these two occurrences, including the soup discussion, step and door dialogue, and the closing physical staging.
+
+**Repair:** Preserve the first complete version. Remove or deliberately rewrite the later occurrence as a coherent scene, verifying the transition into the handwashing sequence at [line 443](../../chapters/191-two-hands-of-work.md#L443). Do not perform global paragraph deletion. Recount the chapter afterward; it was already close to the 10,000-word floor before repair.
+
 ## Canon boundaries and follow-through
 
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
