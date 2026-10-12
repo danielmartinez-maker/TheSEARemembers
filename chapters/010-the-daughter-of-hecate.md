@@ -803,6 +803,110 @@ He nodded.
 
 ---
 
+Annabeth spent the late afternoon at the infirmary because Chiron had asked the healer to check her injured fingers before the eclipse. She did not appreciate the timing, but she appreciated even less the possibility of somebody using her healing burn as proof she couldn't help with anything.
+
+Lee Fletcher unwrapped the last dressing and examined the skin along her knuckles. The burn had mostly closed. Her hand was stiff, particularly when she held a pencil for too long, and the ache returned when she tried to use her powers.
+
+"You can keep doing ordinary work," he said. "No deliberate electrical discharge until the tenderness is gone. And if you feel numbness, tingling or a new sharp pain, you stop."
+
+"I'm not planning to throw lightning around."
+
+"Good. That will be an easy instruction to follow."
+
+Annabeth gave him the kind of look that had made older campers abandon arguments since she was seven. He did not abandon this one.
+
+"I'm serious," Lee said. "You've been very fortunate. If you want to help with the ward team, you can help by drawing accurate routes and staying somewhere we can find you."
+
+"Everybody keeps acting as though I'm the hazard."
+
+"You're recovering from an injury. That does not make you the hazard. It means we don't add a new one."
+
+The distinction was sensible. Annabeth hated having to hear it for the third time in a week.
+
+Outside the infirmary, she found Zoe carrying a wooden case filled with training strips from the forge annex. Annabeth had helped her locate several of the old ward patterns and was curious about what the tests had shown.
+
+"Did the copper react the way you expected?" she asked.
+
+"Most of it. The closed pattern held back a bead of water. The broken pattern redirected it, which means we have no justification for assuming the marks in the Hall and attic are identical spells."
+
+"What about the third strip?"
+
+"Blank. It did exactly what it was supposed to."
+
+"Very reliable."
+
+"Extremely."
+
+Zoe studied Annabeth's unwrapped hand. "Are you cleared for training?"
+
+"Ordinary work. No deliberate sparks."
+
+"Then you can help me check the observation cards. That doesn't involve any magic at all."
+
+They walked to the small practice area behind the pavilion. Zoe had drawn chalk lines on the ground and posted cards showing which direction a simulated surge might take if a protective mark redirected it. The exercise was intended for ward observers, not for people trying to cast spells. Annabeth was more interested in the decision points than in the chalk itself.
+
+"Suppose this side becomes active first," Zoe said, touching the northern line with her foot. "Where does the observer go?"
+
+"Back along the marked route."
+
+"And if the west exit is blocked?"
+
+"Signal the second observer. Don't try to cross the active line."
+
+Zoe nodded. "You'd be surprised how many people say they'd simply find another way around. They forget that a line exists because we don't know what's safe beyond it."
+
+Annabeth moved a card to the western boundary and considered a different scenario.
+
+"What if somebody falls behind the barrier?"
+
+"Call the rescue team. Do not cross the line alone."
+
+"But if we have water on one side and air pressure on the other, there might be a way to redirect enough of it—"
+
+"Annabeth."
+
+She stopped. The word had been quiet, but there was no mistaking the warning.
+
+"I'm describing a possibility."
+
+"Then describe the conditions under which you would be qualified to attempt it. What would you need to know about the current, the ward and the person inside? Who would call a stop if your power reacted unpredictably?"
+
+Annabeth looked at the chalk line. She could have proposed a scheme that used Percy's water control and Thalia's lightning. In a different life she had helped improvise under worse pressure. But that knowledge did not give her younger body the strength or control to reproduce the same feats now, and it certainly didn't make a conductive channel safe.
+
+"I don't know enough," she said.
+
+"Neither do I. That's why we're practicing the decision before there's somebody on the other side of the barrier."
+
+They ran the exercise twice more. The second time, Zoe moved the cards without warning. Annabeth's first response was to take a shortcut across the center of the chalk circle. She stopped herself before stepping over it, recognized the mistake and chose the longer route. Zoe made her write down why she'd changed course.
+
+"You're not judging whether I'm brave," Annabeth said, annoyed.
+
+"I'm judging whether you can follow the stop instruction when doing so feels wrong."
+
+"That's a miserable skill."
+
+"It's one most people need more practice with."
+
+Annabeth copied the observation sequence onto a card for Bea, using her uninjured hand when the other began to ache. She had hoped for a chance to demonstrate that she was ready to do more than stand behind a barrier. Instead she had learned where she was still likely to make a dangerous decision. It was useful information, even if she wished it weren't.
+
+When Zoe put away the strips, she offered Annabeth a piece of chalk.
+
+"For the routes you corrected today. Your map's clearer than the one we had this morning."
+
+"I thought you were going to tell me I made another mistake."
+
+"Both things can be true. The map is good. You're not ready to take charge of an active discharge."
+
+Annabeth took the chalk. "You're very irritating."
+
+"I've heard."
+
+She walked back toward Cabin One with the card in her pocket. Thalia wasn't home yet. Annabeth put the chalk beside her notebook and copied the healer's restrictions onto the inside cover, where she would see them before the next training session. It felt childish to write down instructions she had already heard. It also made it harder to pretend afterward that she hadn't known them.
+
+By evening she wanted air. She asked permission to go onto the roof until the conch, took the shorter staircase rather than climbing the outside wall, and brought the public copy of the route map in case she needed something to occupy her hands.
+
+---
+
 That night Annabeth waited on the Zeus cabin roof. She had permission to be there until the evening conch, a detail she supplied before Percy could ask.
 
 The shingles held the day's warmth. Below, cabin windows shone in small amber squares. Silena and Clarisse were arguing across the path about whose turn it was to fetch clean towels.
