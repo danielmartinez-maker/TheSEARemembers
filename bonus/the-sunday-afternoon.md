@@ -150,6 +150,222 @@ Thalia had expected teasing. She wasn't sure what to do with the offer of privac
 
 Annabeth slid the envelope back across the table. She did not ask for a name, a promise, or a detailed explanation of the last Monday night. Instead she opened the tin box again and began counting the slips, and Thalia sat with her until the rain eased enough that they could go to supper without getting soaked.
 
+Thursday evening, the rain was still running down the window of Rhys's cabin when Thalia appeared at his door.
+
+She had said she might come. He had said he'd be free after six. Neither of them had clarified the part that followed, which meant she had spent the last quarter hour deciding whether she was late to an appointment that wasn't an appointment.
+
+He opened the door before she could work out whether knocking would make the whole business feel ridiculous.
+
+"You look soaked."
+
+"Your powers of observation are improving."
+
+"Come inside."
+
+"You could have said that first."
+
+He stepped aside. She crossed the threshold and took off her coat, sending a fan of rainwater onto the mat. The cabin smelled of tea and wool drying near the stove. He had swept the floor. She noticed that he had also moved a wooden chair nearer the fire and put an extra cup on the table.
+
+"You prepared," she said.
+
+"I boiled water."
+
+"You moved furniture."
+
+"An elaborate courtship ritual."
+
+"Should I be impressed?"
+
+"It depends on what you were expecting."
+
+She caught the edge of his smile and felt something inside her ease. The trouble with the letter from Beryl wasn't that it had ruined the day. It had made the day feel borrowed, like the smallest pleasant thing might come with some distant adult standing outside to announce that she'd misunderstood it. She didn't want to bring that feeling into this room. She also didn't know how to leave it outside.
+
+Rhys took the wet coat from her hand. "Tea?"
+
+"Not yet."
+
+He looked at her. "All right."
+
+She crossed the small space between them and kissed him. She had thought about it on the walk uphill; she had decided to do it before she arrived, and the decision was enough to make her feel brave until the moment their mouths met and bravery stopped having anything to do with it. He put the coat down over the back of the chair without breaking away. Her hands found his shoulders. He was warm beneath the work shirt, and she was suddenly furious that she had wasted fifteen minutes on the path wondering whether he wanted her here.
+
+He drew back just enough to speak. "Long day?"
+
+"Terrible."
+
+"Do you want to talk about it?"
+
+"No."
+
+"Do you want me to stop asking questions?"
+
+She considered. "Just the boring ones."
+
+He smiled, and she kissed him again before he could enjoy the joke. The rain kept falling behind the window. It could rain for a week. She had no particular objection to staying where she was.
+
+She'd always considered herself a practical person. Her practicality generally involved lifting heavy objects, knowing where to stand in a fight and recognizing when somebody was bluffing. It had not prepared her for the sheer nuisance of discovering that a person could occupy her thoughts while she was doing something completely unrelated. Rhys had managed it with very little effort.
+
+He touched the damp ends of her hair. "You're freezing."
+
+"I'm not."
+
+"Your hands are cold."
+
+"They're usually cold."
+
+"These are ambitious."
+
+"Calder, if you keep talking about the weather, I will go home."
+
+He caught her hands between his and rubbed warmth into them. "Then I'll have to be interesting."
+
+She watched him work his thumbs over her fingers and felt the ridiculous urge to say something soft. Instead she lifted their joined hands and kissed the inside of his wrist. His expression changed immediately. It wasn't his practiced smile from the range or the grin he used when he'd won an argument. She liked the surprise in it.
+
+"Interesting enough?" she asked.
+
+"That was unfair."
+
+"Good."
+
+He drew her closer. His mouth met hers with enough certainty that she forgot the coat dripping on the chair, forgot that the tea would get cold, forgot she had spent the afternoon angry at the handwriting in a letter. Then he pulled back and waited, because she had made a small involuntary sound when her heel shifted.
+
+"Foot?"
+
+"A little."
+
+"We can sit."
+
+"I was doing something."
+
+"I noticed."
+
+She looked toward the narrow cot and back at him. "Sitting doesn't sound like a terrible idea."
+
+He didn't give her time to reconsider. They moved together, laughing at the awkwardness of the chair between them, until the blanket caught beneath Thalia's knee and sent them both into a tangle of wool and elbows. He managed to catch the cup before it fell off the bedside shelf. She laughed harder than the near disaster deserved.
+
+"Very impressive," she said.
+
+"I'm usually more graceful."
+
+"Liar."
+
+"Occasionally."
+
+He set the cup aside, and she moved close again. This time she took care with her bad foot, arranging herself comfortably instead of treating pain as an insult to be conquered. He accepted the adjustment without commentary. That was becoming one of the things she wanted most from him, even when she was still learning how to ask.
+
+The laughter quieted. They kissed until neither seemed interested in testing the other's wit, then settled beneath the blanket as the rain thickened against the glass. She wasn't sure when she'd begun to feel at ease here. Perhaps when he'd stopped trying to guess what she wanted and learned to let her tell him. Perhaps when she'd stopped preparing to take every touch as a claim.
+
+The evening drew in around them. When the lamp needed turning down, Rhys reached for it, and she stopped him with a hand against his cheek.
+
+"Leave it for a moment," she said.
+
+He did. She wanted to see his face. In the soft light he looked younger, almost shy, the careful confidence of the instructor replaced by something much less defended. She kissed him again. This time she wasn't hurrying.
+
+They had an entire room, a closed door and the strange luxury of not having to prove themselves to anybody. She chose to stay close, and he chose it with her.
+
+Much later, when the rain had eased and the room had become quiet, he asked whether she'd like a fresh cup of tea.
+
+"Are you trying to send me away?" she asked from beneath the blanket.
+
+"I'm trying to prevent you from dying of cold."
+
+"I'm doing very well."
+
+"You're wearing my socks."
+
+"They were available."
+
+"Yes, mysteriously."
+
+She stretched one foot toward the stove, leaving the injured one supported by the pillow, and examined the enormous striped sock with distaste.
+
+"These are appalling."
+
+"My mother made them."
+
+"Then they're extremely good socks."
+
+He laughed. "I'll tell her you said so."
+
+"You will do no such thing."
+
+He got up to refill the kettle, and she watched him cross the room. There was something distinctly satisfying about the sight of him going about a ridiculous household task when they'd spent so much of the evening wrapped up in each other. He was not less desirable with a kettle in his hand. Quite the opposite, which was an inconvenient piece of information about herself.
+
+"Stop looking at me like that," he said, not turning around.
+
+"Like what?"
+
+"Like you're considering another bad decision."
+
+She smiled into the blanket. "Can't imagine where you'd get that idea."
+
+He brought two cups over and sat beside her. She shifted enough to give him room without losing the warmth he'd left behind.
+
+"Can I ask about your day now?" he said.
+
+"You can."
+
+"Will you answer?"
+
+"Possibly."
+
+She considered telling him about the letter. She could have said her mother's name and invited him into a story that was still difficult even when she knew every part of it. He would have listened. But the story belonged to her, and tonight she didn't want to hand it over simply because they were becoming close.
+
+"Annabeth was difficult," she said instead.
+
+"That sounds like a family talent."
+
+"She's getting too good at reading me."
+
+"Terrifying."
+
+"She thinks she knows what's good for me."
+
+"And does she?"
+
+"Sometimes. Which is worse."
+
+Rhys rested his hand beside hers rather than over it. When she took it, he smiled into his cup.
+
+"Does she know about us?"
+
+"She knows I'm spending time with you."
+
+"Is that a problem?"
+
+"Not for her."
+
+"And you?"
+
+Thalia looked around the cabin. His spare shirt hung over a chair. The blue mended glove lay near the tools. Her wet coat was drying by the stove, unmistakable proof that she'd chosen this place over an evening alone. She wanted him. She liked being with him. She liked that there was no answer he could demand she hadn't already chosen to give.
+
+"I haven't decided how much of this I want everybody to know," she said.
+
+"Then we don't announce anything."
+
+"You're being suspiciously reasonable."
+
+"Only when I've been properly motivated."
+
+She leaned over to kiss him and tasted the strong tea he had insisted on making. He put the cup down very carefully before returning the kiss.
+
+By the time she left, the rain had stopped. Her coat was mostly dry, and she had borrowed the striped socks with the explicit promise that she would return them. She doubted she would keep that particular promise. Rhys walked her to the threshold and rested one hand on the doorframe.
+
+"Sunday?" he asked.
+
+"Maybe."
+
+"You've got a fierce commitment to uncertainty."
+
+"I'm full of surprises."
+
+"Good ones, sometimes."
+
+She stepped up to kiss him once more. "Don't get ahead of yourself."
+
+He smiled as she turned away. It was only halfway down the path that she realized she had spent the evening wanting to be there without once pretending the reason was a broken piece of equipment. That was progress. She would never say so aloud.
+
+---
+
 On Friday the sky cleared. Thalia and Annabeth went down to the work shed with their boots muddy and argued about drainage channels for forty minutes. It was a useful argument. Thalia had spent half her life trying to make sure her sister survived. Annabeth had spent a good part of this one trying to make sure that surviving did not become the whole definition of being alive. They could talk about drainage because the other conversation had stopped being an emergency.
 
 ---
