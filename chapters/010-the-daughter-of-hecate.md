@@ -386,7 +386,7 @@ Thalia's mouth twitched.
 
 "Apparently."
 
-Percy walked back to Cabin Three with the diagram in his pocket. Three days had become one. The danger still had no name, but the people helping him did.
+Percy walked back to Cabin Three with the diagram in his pocket. Two days had become one. The danger still had no name, but the people helping him did.
 
 ---
 
