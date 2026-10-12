@@ -763,6 +763,126 @@ Annabeth changed into pajamas in the bathroom, came out brushing her teeth, and 
 
 ---
 
+The fire extinguisher had been returned to the bathhouse, but the cabin still smelled faintly of overheated noodles. Silena stood in the doorway with the inventory sheet, examining a scorch mark on the inside of the kettle lid. She didn't look particularly amused.
+
+"Are we going to have to file an incident report?" Thalia asked.
+
+"Chiron said you should," Silena answered. "It doesn't need to be dramatic. He wants to know which appliance you used, what went wrong and whether anybody was hurt."
+
+"No one was hurt."
+
+"Then you can write that. It's an important part of the report."
+
+Clarisse, who had volunteered to carry the kettle outside to cool, returned with a rag and deposited it on the floor.
+
+"I'd say this is a perfect demonstration of why the cabins aren't allowed to cook," she said.
+
+"You ate three of the noodles," Annabeth replied.
+
+"I have a strong commitment to evaluating accidents."
+
+Percy was gathering the empty packets and broken crackers for the rubbish bin. He glanced at the letters Thalia and Annabeth had placed under the clean paperweight and did not ask what was inside.
+
+"Can I help with the report?" he asked.
+
+"It wasn't your accident," Thalia said.
+
+"True. I did arrive and help stop it from becoming worse. Silena's always telling me to write down what we know rather than what would make a better story."
+
+Silena raised her eyebrows. "You remember that?"
+
+"Sometimes."
+
+Thalia found a blank form in the back of a training ledger. The most difficult part was describing the incident without making it sound like a spectacular explosion. The truth was less exciting. The kettle had been overloaded with food that wasn't meant to be heated in it. The contents foamed, the lid came loose and the steam had sent Annabeth scrambling for the window while Thalia tried to unplug it. Clarisse had arrived with the extinguisher but hadn't needed to use it.
+
+"So no actual fire," Silena noted.
+
+"Just spectacularly poor judgment," Thalia said.
+
+"That's a useful category."
+
+They went through the form together. Thalia found herself impatient with every question about procedure. She had spent most of her childhood preparing food wherever she could find heat, and being told that she'd ignored a safety rule made her defensive. Then she looked at Annabeth, whose hands had only recently healed from the ward burn, and remembered that the girl had been the one standing closest to the steam.
+
+"I'm sorry," she said.
+
+Annabeth blinked. "For what?"
+
+"I wasn't paying attention. I wanted to make you dinner so badly that I forgot the kettle was for water, not the entire meal."
+
+Annabeth considered the admission. She had been angry enough about her mother's letter to turn the evening into another argument. When the kettle started boiling over, she had laughed instead. Both feelings were still there.
+
+"I was helping you," she said. "I should have noticed too."
+
+"You're twelve," Thalia replied. "I'm supposed to be older and wiser."
+
+"Older, certainly."
+
+Clarisse coughed to disguise a laugh. Thalia glared at her and then at Percy, who looked far too pleased with himself.
+
+Silena signed the form as a witness and handed it to Thalia. "Next time, use the kitchens. You can ask the staff for permission. They're usually happy to let you make something small if you clean the space afterward."
+
+"Even at night?"
+
+"Not after curfew. But dinner doesn't have to be midnight to count as a peace offering."
+
+Thalia looked toward the letters. Peace offering. That was exactly what she had wanted the noodles to be: something she could give Annabeth that would make the afternoon stop hurting. She understood now that a shared meal couldn't serve as an apology unless they could also talk about why they had been angry.
+
+"I'll file this tomorrow," she said.
+
+"Tonight," Silena corrected. "The steward is still on duty. If you leave it until morning, you'll forget the details."
+
+"You're relentless."
+
+"That is how I get things done."
+
+Clarisse took the used cloth out to the laundry bin. Percy finished cleaning and left with her, promising to keep his opinions about cooking confined to other people's kitchens. Annabeth thanked Silena for helping, then went to put the letters away.
+
+Thalia stood by the window while Silena checked that the kettle had been disconnected. She suddenly felt embarrassed by how many people had been pulled into the problem. Her mother's letter belonged to her and Annabeth. The fire in their cabin had become everybody else's work.
+
+"I didn't mean for today to become your problem too," Thalia said.
+
+Silena checked the cord. "You don't have to handle everything alone to prove you're capable. But when you do something that affects other people, you have to let them help repair it."
+
+"That sounds like something Chiron says."
+
+"He taught me most of it."
+
+Thalia nodded. She'd spent years being the one who noticed problems first and responded before anyone could stop her. It was a habit that had kept Annabeth safe. It had also made it difficult to admit that ordinary people could step in without taking away her place in her sister's life.
+
+"How's Percy?" she asked, partly to change the subject.
+
+"Happy about the call from Atlantis. Confused about a few things. He seems to have decided to write his mother a longer letter than usual."
+
+"That's good."
+
+"It is. I'm not asking him to tell me everything that's bothering him. I'm trying to make sure he has somewhere to put the thoughts he can share."
+
+Thalia looked at her. That was close to what she'd been attempting with Annabeth, though her own method tended to involve protective orders and the occasional shouting match.
+
+"I could try that," she said.
+
+Silena smiled. "You already are. You just have to let her decide how much of the letter she wants to read."
+
+Thalia looked toward her sister, who was folding the paper on the bed. "She wants to write back."
+
+"Then help her post it."
+
+Silena put the signed incident sheet beside the door and left them alone. Thalia waited until she heard the footsteps move away before approaching Annabeth.
+
+"Chiron's getting the report tomorrow," she said.
+
+"Good."
+
+"After breakfast, we can ask the mail steward to check both addresses. I won't read your letter."
+
+Annabeth looked up. "And I won't read yours."
+
+They put the envelopes side by side and closed the drawer. Their mother might send another letter in a week or a month. There might be more promises and more arguments. For now, the sisters had two pieces of paper they'd written themselves, and a small household accident they were responsible for cleaning up. Thalia found it easier to think about the next morning than the next year.
+
+
+
+---
+
 The roof of the Zeus cabin was technically forbidden. It was also, Thalia had discovered at age thirteen, accessible via the trellis beside the back column if you didn't mind splinters and if you bribed the dryads with honey cakes, which she did regularly.
 
 Annabeth climbed up after her, less gracefully, in socks and the reclaimed — broth-stained — gray cardigan. Thalia had left it folded on her pillow with a note: *Sorry I stole you. You look better in you. — T.*
