@@ -754,6 +754,78 @@ They dozed on the porch swing, shoulder to shoulder, blanket slipping, until Arg
 ---
 
 
+The evening before the final watch, Annabeth found the eastern-route correction waiting for her approval. She had made the drawing herself and expected it to match the latest measurements. Instead a note in Bea's handwriting said that the path had shifted again when a repair crew moved the drainage stones.
+
+Annabeth went to the workshop to ask whether the change was temporary. Beckendorf was sorting fittings into three trays and looked up when she came in.
+
+"It'll stay that way until the spring repairs," he said. "We found an old drain underneath the walkway. If we cover it again before it's inspected, it'll flood the same place next time."
+
+"Then the map needs a new date."
+
+"It does."
+
+Annabeth was irritated that nobody had told her sooner. She had spent half the morning helping Chiron revise a route that was already out of date by supper. When she said so, Beckendorf gave her a tired look.
+
+"I should have put the notice on the board," he agreed. "But I was carrying the old stones out of the ditch, and Chiron told me to leave the path closed until someone finished checking it. We didn't tell anybody it was safe."
+
+Annabeth considered that. She had treated the missing update as proof people weren't taking her work seriously. The repair crew had made sure the route was closed before it changed the stones. They had not endangered anyone by failing to tell her a measurement the instant it changed.
+
+"I'm sorry," she said. "I assumed you'd reopened it."
+
+"That's why we put the barriers up."
+
+She looked toward the table where the updated site measurements lay.
+
+"Could I copy them now?"
+
+"Yes. And put the time next to the date, in case we move something else tomorrow."
+
+She did. The revised page had enough room for a small change log beneath the route, something she'd begun to appreciate after the Oracle investigation. A map could be correct when it was drawn and misleading a day later if nobody recorded what had changed.
+
+She took it to Chiron. He thanked her for checking and asked her to bring it to the final watch briefing so the patrol team knew which parts of the border had been inspected recently and which had not.
+
+"Will we go there tonight?" she asked.
+
+"No. The final watch is in the valley, well away from the closed path."
+
+"Then why do we need the map?"
+
+"Because you are learning to report what happened, not only where you intend to stand. The next patrol will need to know which routes changed while you were watching."
+
+Annabeth nodded. She had wanted the work she'd done to matter beyond a single practice night. It was satisfying to see that it could, even when its result was only a correction on someone else's clipboard.
+
+At dinner, Percy sat across from her and noticed the ink on her fingers.
+
+"Another map?"
+
+"The same map, properly updated."
+
+"What's wrong with the old one?"
+
+"The world failed to remain as I'd drawn it."
+
+He smiled. "Very inconsiderate of it."
+
+She passed him the page. He checked the new marks and pointed to the closed junction.
+
+"Then we won't go anywhere near it."
+
+"Good."
+
+He handed it back. There was a moment when she wanted to tell him how annoyed she'd been with the repair crew, then how embarrassed she'd felt when she realized the barrier had stayed closed. She didn't need the story to make herself look clever. She told him both parts.
+
+Percy listened, then said, "I did the same thing during the storm when I thought I knew which way the water should go. Turns out it had opinions."
+
+"Water generally does."
+
+"So do engineers."
+
+She looked at the drawing again and wrote the last correction neatly, with Beckendorf's measurement credited beside it. That was the version she would carry to the final watch.
+
+
+
+---
+
 The last night, Chiron changed the plan.
 
 "One final watch," he said at dinner. "All six together. One fire. The center of the valley, where you can see all three borders. A quiet night to close the week."
