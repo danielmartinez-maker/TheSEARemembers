@@ -1,117 +1,193 @@
 ## Chapter 5: Clarisse
 
-Three weeks after arriving at Camp Half-Blood, Percy went on border patrol with Clarisse and discovered what she did with her hands when she wasn't holding a sword.
+A few weeks after Percy arrived at camp, Clarisse took him on border patrol and made him carry the supply bag.
 
-Not the surface truth — the warrior's mask she wore for the world, all sharp edges and refusal to flinch. Something deeper. Something she handed him on border patrol, perched on a sun-warmed rock and shaving curls off a wooden panther while October light slid across the sky.
+"Why do I get everything heavy?"
 
-The patrol trail smelled of pine pitch and crushed thyme. Below them Camp murmured — distant bronze on bronze from the arena, a conch call from the beach, smoke from the forges threading sideways in the breeze. Percy had walked this route a dozen times, but that afternoon the light lingered longer on the ridgeline, gilding the strawberry fields, and Clarisse's knife made a steady shhk-shhk against the grain.
+"Because I carried it last time."
 
-Clarisse was carving the panther for Silena, although she wouldn't admit it until Percy guessed.
+"I wasn't on patrol last time."
 
-Not of monsters. Not of dying. Of being forgotten.
+"Exactly. You've got catching up to do."
 
-"I was seven," she said, eyes fixed on the carving. Wood shavings dusted her boots. "That's when it hit me. Two years at camp, and Poseidon hadn't come by once. Not once. And the other kids — the ones with parents who bothered to show up — they got letters. Visits. Little proofs somebody out there was keeping score."
+The trail climbed past the strawberry fields into the pines. The ground was stiff with cold, and at the first observation post Clarisse made him repeat the horn signals until he stopped confusing movement with contact. She checked the western approach, listened for an answering call, and sat on a flat rock.
 
-She lifted the panther. The wings stood half-formed, rough along the edges. She rotated it slowly between her palms.
+Then she took out a block of wood and a folding knife.
 
-"Me? Nothing. No letters. No visits. And the other Big Three kids — they had families. Parents who fought with them and bragged on them and actually turned up to things. Even when it was messy, even when it drove them crazy, at least they *had* somebody." Her jaw worked. "I had Camp, and Silena, and myself. I kept telling myself that ought to be enough."
+"What's that?" Percy asked.
 
-Her gaze flicked to Percy. Guarded. Unreadable.
+"A piece of wood."
 
-"Seven. That's when I started training like my life depended on it. Because if I got strong enough to survive, maybe I'd get strong enough for *them* to look twice. To actually *want* me. Stupid, I know — I figured if I turned into the best fighter at camp, the one who kept everybody breathing, then maybe—"
+"You've got a gift for explanation."
 
-Her voice cut out. Cicadas filled the gap. A pine needle spiraled down onto the rock between them.
+"Thank you."
 
-"Maybe what?" Percy asked softly.
+He watched her shape one pointed ear, then another. What he had taken for a lump began to resemble a crouching animal.
 
-"Maybe they'd say my name." The crack in her voice was hairline-thin. "Maybe one day they'd point and say: *that's my daughter. That's Clarisse. She's worth something.*"
+"A cat?"
 
-Percy's throat closed. Salt and sawdust hung in the air, and the knife had gone still in her hands. He pictured Sally — blue cookies cooling on the counter, that cramped apartment with its chipped paint, the way she had gone to war for him every single day without fanfare. Then he tried to picture growing up in that same apartment and still wondering whether his parents remembered his birthday, whether his name carried any weight beyond the roll call at breakfast.
+"Panther."
 
-"That isn't why you fight now," he said.
+"With wings?"
 
-"And you'd know that how?"
+"You got a problem with that?"
 
-"Because I've been watching. On the field, in the mess line, everywhere. Getting noticed stopped being the point a long time ago. Now it's about keeping your people alive."
+"No. Flying cats are underrepresented in mythology."
 
-A long quiet settled. Wind moved through the pines. Somewhere downhill, a naiad laughed.
+Clarisse glanced up. "You're not as funny as you think."
 
-"Annabeth," Clarisse said at last.
+"You should hear the jokes I don't tell."
 
-"Yeah."
+"Please don't make me."
 
-"I fight for her. Always have. She's the only person who's ever looked at me and seen *me* — not a useful blade, not a weapon to point, just me. Like existing is sufficient."
+She turned the wood and cut toward herself. The blade took off a fine curl. Percy sat at the other end of the rock, leaving space between them.
 
-Beside the trail, a beetle worked its way over bark. Percy tracked it while he thought of Clarisse checking Silena's bunk at night. The panthers she whittled in secret and named for her sister. The solitary load she hauled because she'd concluded that solitude kept Silena safest.
+"Silena said you carve."
 
-"Then we're the same," he said. "She's my person too. Different reasons. Same gravity."
+"Silena talks."
 
-Clarisse studied him — that frank, searching stare she used when deciding whether someone was feeding her a line.
+"She said I should learn something from you that doesn't involve getting hit with a spear."
 
-"You love her," she said.
+"Can't think of anything."
 
-"Yeah."
+"Teach me that."
 
-"Not only protect. Love."
+She looked at the knife and then at him.
 
-"Yeah."
+"Ever used one?"
 
-"And she seems different lately. Quieter. You notice it too, right? Because I don't know what to do with it."
+"Yes."
 
-"I know. She and I have been talking. But I'm not going to put words in her mouth."
+"For carving, Jackson. Not fighting."
 
-Another stretched silence. Then: "That's stupid."
+"Then no."
 
-"Probably."
+Clarisse gave him a smaller piece of wood and showed him how to cut with the grain. His first attempt gouged a chunk out of the side. She clicked her tongue and took his wrist, turning it so that the edge pointed safely away from his other hand.
 
-"You'll get hurt."
+"Less force. You're not stabbing the tree."
 
-"Also probably."
+"This is why I use swords."
 
-"And you'll do it anyway."
+"This is why you need practice."
 
-"That's the stupid part."
+For ten minutes they worked without saying much. Percy kept one eye on the trail and made several terrible cuts. Clarisse's panther acquired a second wing. Hers looked as though it might fly off the rock; his resembled a potato that had survived an accident.
 
-Laughter burst out of her — genuine, startled free. "You're an idiot, Jackson."
+"Who taught you?" he asked.
 
-"Heard that before."
+"An older camper."
 
-Still, she kept smiling, and the smile remade her face. Through a crack in the warrior's mask Percy glimpsed the girl beneath. Scared. Lonely. Hungry to be seen. Pine sap and sawdust scented the air between them.
+"Not Poseidon?"
 
-Thirteen, maybe — young enough that she shouldn't have been responsible for keeping an entire cabin safe. Too young for the load, too practiced at burying the soft parts under competence, because the alternative hurt too much to face head-on.
+Clarisse stopped carving.
 
-"Clarisse," he said. "You're not invisible. I see you. Annabeth sees you. Whatever's bearing down on us — you have people now. People who won't forget."
+Percy heard how the question sounded. He had become used to people telling him that Poseidon had taught him to swim, fight and read old currents in Atlantis. He knew those things secondhand, from a childhood he couldn't remember. His sisters had not grown up in that household.
 
-She glanced toward the treeline, blinking fast. "Don't pledge what you can't deliver, Jackson."
+"No," she said. "Not Dad."
 
-"Then I won't promise forever," he said. "I'll promise I'll be here for drills tomorrow. If I don't show up, you can come drag me out of bed."
+He waited. She turned the panther over, shaving a rough spot on its back.
 
-Clarisse turned the panther over in her hand. "That's not much of a promise."
+"He came to a tournament once," she said. "I got to the final round. I'd been practicing for weeks."
 
-"It's one I can keep."
+"Did he see it?"
 
-Quiet again, pine needles ticking against rock. Then she rose, slid the unfinished panther into her belt, and extended her hand.
+"The last few minutes. Had to leave before the prizes." She flicked a shaving off her thumb. "I won."
 
-"Partners, then," she said. "In this. Whatever this turns out to be."
+"Did he congratulate you?"
 
-Percy clasped her forearm. "Partners." Her grip was warm and firm as a sword oath, sawdust gritty between their palms.
+"Chiron did."
 
-"Don't make me regret it. I don't hand out second chances — ask anyone at this camp."
+Percy stared at his wooden potato.
 
-"Wouldn't dream of it, partner. Not ever, I swear."
+"That's rough."
 
+"It was a tournament. I got a medal."
+
+"That's not what I meant."
+
+"I know."
+
+A horn sounded once from the west. Both of them stood. Clarisse shut the knife and took position behind the rock. Percy checked the tree line and kept the signal horn ready. A few seconds later he saw three deer moving between the trunks.
+
+"Animals, west of the lower trail," he said.
+
+"Good. Don't signal back unless they cross our post."
+
+They watched until the deer disappeared. Clarisse didn't relax until the path was clear.
+
+"Silena writes him letters," she said, returning to the rock. "Sometimes she sends plans for things she's designed. He asks if Chiron approved them, as though that's all she wants to hear."
+
+Percy remembered Silena crouched beside the cabin drain, labeling a thread from the damaged filter cloth and planning how to repair it properly. He could imagine how much time she'd spent on a drawing before putting it in an envelope.
+
+"Has she told him she wants more than that?"
+
+"She's fourteen. He ought to ask."
+
+Percy almost defended Poseidon. There were so many ways he could have tried: a god had duties, a palace to govern, a hundred children scattered across the world. None of those explanations accounted for why a father could learn his son's favorite meal and overlook his daughter's best work.
+
+"You're right," Percy said.
+
+Clarisse looked at him as though she'd expected a fight.
+
+"Obviously."
+
+They sat without talking for a while. Percy got his knife stuck in the wood again. Clarisse tugged it free, made a clean cut and handed it back.
+
+"Don't go telling him you heard any of this."
+
+"I won't."
+
+"And don't start feeling sorry for me."
+
+"I don't."
+
+"You look like it."
+
+"I'm trying to understand."
+
+"Then keep showing up. You promised you'd come to drills, remember?"
+
+"I remember."
+
+"Don't turn it into one of those big promises people make because the conversation got uncomfortable. Just be there."
+
+Percy put the little block back in his pocket. He could do that.
+
+"Same time tomorrow," he said.
+
+"You're still going to be bad at it."
+
+"Then you'll have something to complain about."
+
+"I already do."
+
+She rose, brushing sawdust from her trousers, and held out the supply bag. He took it before she could ask twice.
+
+They started down the trail. A little way from the post, Clarisse passed him the patrol horn as well.
+
+"Why do I get that too?"
+
+"Because you knew when not to blow it."
+
+He couldn't tell whether that was praise. With Clarisse, it probably was.
 ---
 
-By next morning, something in Clarisse had eased.
+At breakfast the next morning, Clarisse acted much as she always did. She claimed the largest portion of eggs, told Percy his spear was in the wrong rack and corrected his grip twice during morning drills.
 
-Nothing overt — at breakfast she still ate alone, still drilled harder than anyone on the field, still snapped at anyone who crowded her. Yet beneath the steel ran a new current. Her shoulders rode lower. The corners of her eyes had softened.
+But she had left a place for him at the end of the bench.
 
-The same Clarisse. Perhaps slightly more willing to let him stand beside her.
+He sat down before she could change her mind. Silena looked from one of them to the other and wisely said nothing.
 
-Percy caught it because he looked for it. In his original life he had witnessed enough fractured people mending to recognize the early signs.
+One conversation hadn't fixed years of disappointment. Percy hadn't expected it to. Clarisse still made him repeat the last drill after everyone else had finished, and he showed up for the extra round instead of looking for an excuse.
 
-Neither mentioned the patrol. No need. A shift had occurred, acknowledged on both sides without words, and that sufficed. At sword practice Percy watched her correct a younger camper's grip instead of barking, her palm light on the kid's wrist, and the gesture — small, unremarkable to anyone else — landed like a signal flare.
+When they were done she tossed him the supply bag.
 
+"Same time tomorrow."
+
+"I'll bring my wooden potato."
+
+"Keep that thing away from my good knife."
+
+He carried the bag back to Cabin Three.
 ---
 
 That afternoon, Percy found Silena in the library repairing the binding of an atlas.
