@@ -788,4 +788,8 @@ A pause. Crickets outside. The pine on the hill rustling in the night wind.
 
 "Love you too, pinecone."
 
-And under a sky full of stars, with cake and lightning and people who showed up, two sisters fell asleep — safe, celebrated, home.
+Thalia waited until Annabeth's breathing grew steady. Then she touched the pendant on her chest and turned it over, feeling the little uneven mark where the wire had been joined.
+
+"Love you too," she said again, too quietly for her sister to hear.
+
+In the morning Annabeth would insist on inspecting the clasp. Thalia decided to let her.
