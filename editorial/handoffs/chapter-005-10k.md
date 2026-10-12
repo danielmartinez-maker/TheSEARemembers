@@ -2,7 +2,7 @@
 
 chapter: 005
 status: revised; length pass; developmental/line read incomplete
-body_word_count: 10391
+body_word_count: 10966
 relative_time: a few weeks after Percy's arrival, continuing into a new drakon/ward incident
 opening_location: eastern border patrol with Clarisse
 ending_location: damaged but standing Hall of the Gods, then cabins
