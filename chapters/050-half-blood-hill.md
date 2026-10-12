@@ -406,9 +406,9 @@ Water rose in a shimmering arc, ditch water brown and puddle water clear mixing 
 
 Percy threw the water at the Fury as Thalia ducked low and Grover's music peaked.
 
-Annabeth threw the lightning into the water.
+Annabeth hurled a burst of lightning toward the airborne Fury just as Percy swept the water forward, but neither had checked whether the wet ground still connected back to their feet.
 
-Light ran through water like fire through oil. The wave hit the Fury square in the chest. She screamed and convulsed midair. Smoke poured off her.
+Light leapt across the streaming water. A stray branch of the discharge snapped against the ditch, alarmingly close to Percy's boots. The wave caught the Fury square in the chest. She screamed and convulsed midair. Smoke poured off her.
 
 Thalia did not hesitate. She drove her spear up through the stunned Fury's wing joint, using the shaft as a lever, and slammed her sideways into an oak trunk with a crack that shook leaves down in a rain.
 
@@ -489,6 +489,98 @@ Thalia said nothing. She just slowed her pace half a step so she walked beside G
 Grover blinked, then nodded solemnly and mimed zipping his mouth shut, which made Thalia snort and ruffle his curls.
 
 Secret kept.
+
+---
+
+They didn't get far before Annabeth stumbled.
+
+Percy had been watching the tree line. He heard her shoe scrape behind him and turned in time to see her put a hand against the guardrail. The cloth Thalia had tied around her palm had darkened in one place.
+
+"Don't say you're fine," he told her.
+
+"I was going to say I needed a minute."
+
+"That's allowed."
+
+Thalia came back at once. Her first instinct was to ask where the next threat was. Then she saw Annabeth's hand and stopped looking beyond the shoulder of the road.
+
+"We need clean water," she said.
+
+"We have some," Grover answered. He pulled the flask out of its side pocket, handed it over, and seemed almost relieved to have an ordinary job.
+
+Thalia didn't unwrap the dressing until they were behind an embankment and out of sight of passing traffic. The burn was small, but the skin around it was red and sensitive. Annabeth hissed when the first trickle touched her palm.
+
+"How bad?" Percy asked.
+
+"Not deep," Thalia said. "And not something we keep testing with lightning." She looked up. "You heard me?"
+
+Annabeth nodded, eyes fixed on the cloth.
+
+Percy looked back toward the trees where the Fury had fallen. They were already several hundred yards away. He could still remember how the electricity had followed the water he'd thrown. It had worked for a moment, but the ribbon had been between him and the monster. It had been connected to the moisture around his hands.
+
+"That could have come back toward me," he said.
+
+Thalia looked at him sharply. "It could have."
+
+Annabeth's face changed. She had been staring at the bandage, and now she looked directly at Percy.
+
+"I didn't check where you were grounded."
+
+"Neither did I."
+
+"We shouldn't do it again," she said.
+
+"Not that way," Percy agreed.
+
+Thalia finished covering the burn with a clean dressing. She didn't praise their combination. She didn't tell them it had been brilliant because it had worked. The problem with a lucky mistake, Percy thought, was how quickly you could turn it into a plan.
+
+"We use each other's strengths," Thalia said, "but that doesn't mean combining them blindly. Electricity doesn't care if the person touching the water is somebody you love."
+
+Annabeth swallowed and looked at Percy again.
+
+"I'm sorry."
+
+"You were trying to stop her."
+
+"That doesn't make it safe."
+
+He crouched beside her until they were level. "Then next time we talk before we throw lightning around. Preferably a long time before."
+
+She gave him a weak smile. "I can add a safety diagram."
+
+"Several. Color-coded. Something Grover can use when he lectures us."
+
+Grover raised one hand. "I would prefer never to be close enough to lightning to lecture anybody about it."
+
+"Reasonable," Thalia said.
+
+They rested while the ache in Annabeth's hand settled. Percy used the time to check the ditch. The Fury's spell had left the water smelling faintly of smoke, and he was unwilling to take any of it for their flasks. They had enough clean water for the next walk, but not enough to waste.
+
+Grover crouched near the base of a pine and listened to the woods. Percy watched him press two fingers into the soil and hold still. A minute passed. Then another.
+
+"Nothing moving toward us," Grover reported. "The animals are coming back. That's usually good."
+
+"Usually?" Thalia asked.
+
+"Better than them running."
+
+Thalia accepted that distinction.
+
+The four of them made a record before they left. It was Annabeth's idea, although Percy held the notebook while she wrote with her unhurt hand. She listed where the Fury attacked, what Grover sensed, what Thalia saw, how the monster moved and why the improvised lightning strike had been risky. Annabeth didn't name the power combination after either of them. She wrote *unsafe unless separated from any conductive route to companions* and drew an ugly circle around it.
+
+"That's very unromantic," Percy said.
+
+"Good."
+
+He passed her the pencil. "Put a second circle."
+
+She did.
+
+By the time they reached the gas station, Grover's knees had stopped shaking, and Thalia no longer looked as though every passing shadow was the second Fury. Annabeth's bandage stayed clean. Percy was relieved by that simple fact more than by anything impressive they'd accomplished in the fight.
+
+He'd wanted their first day on the road to prove they were capable of facing the west. Instead it had taught them how little room there was for mistakes.
+
+The lesson was worth keeping.
 
 ---
 
