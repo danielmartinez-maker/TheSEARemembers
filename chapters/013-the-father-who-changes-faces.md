@@ -52,7 +52,7 @@ Thalia's throat went tight. Because that was the thing nobody else at camp under
 
 There was one girl beside her now. Her sister. Thalia wanted to protect her without making every unfamiliar moment another test.
 
-Their father had been absent through all the years Thalia remembered. That was enough to be angry about.
+Their father had been absent through most of the years Thalia remembered. His visits were brief, unpredictable, and never enough to make the years between them disappear. She didn't need another reason to be angry.
 
 "He's wearing a new face," Thalia said. "He always does. Don't let it throw you."
 
@@ -164,7 +164,7 @@ Then thunder rolled, low and deliberate, from a clear sky — and the front door
 
 Percy had met Zeus more than once in the life he remembered.
 
-Amphitrite had also told him about a meeting when he was five, hidden behind a coral pillar while the gods argued over a treaty. Zeus had glanced toward him and asked Poseidon, "You collect strays now, brother?" She had taken Percy out before the argument got worse. Percy knew her anger when she told it; he did not remember the room.
+Amphitrite had once told him a story about a meeting when the boy she'd raised was five, hiding behind a coral pillar while the gods argued over a treaty. He couldn't remember it himself. Zeus had glanced toward him and asked Poseidon, "You collect strays now, brother?" She had taken Percy out before the argument got worse. Percy knew her anger when she told it; he did not remember the room.
 
 He did remember standing on Olympus after the Titan War, telling Zeus to his face that the gods had to do better. He remembered lightning crawling up his arms. He remembered not flinching.
 
@@ -414,7 +414,7 @@ Annabeth reached over and took her hand. No deflection. No performance. Just fin
 
 Thalia squeezed back so hard it must have hurt. Annabeth didn't pull away.
 
-Percy was quiet for a moment. Then he said, "When I miss my mom — my other mom, Sally — I tell Grover. Or I write it down. Amphitrite found one of the letters once. I thought she'd be mad. She just... folded it up and said I could leave it in the coral garden, so the sea could carry it." He smiled, crooked. "It sounds dumb."
+Percy was quiet for a moment. Then he said, "When I miss my mom — my other mom, Sally — I tell Grover. Or I write it down. Amphitrite saw me looking at Sally's photograph once. I thought she'd be upset. She told me I could leave it in the coral garden, so the sea could carry it." He smiled, crooked. "It sounds dumb."
 
 "It doesn't sound dumb," Thalia said gruffly.
 
@@ -467,6 +467,3 @@ Annabeth caught her eye and smiled, small and real, and mouthed, *Okay?*
 Thalia bumped her shoulder. *Okay.*
 
 And for that evening, at least, it was true.
-
----
-
