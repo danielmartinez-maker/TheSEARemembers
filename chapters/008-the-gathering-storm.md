@@ -717,27 +717,29 @@ Annabeth copied them into her notebook before she read them aloud:
 *One throne shaken, one sister bound,*
 *In darkness and fear, the truth is found.*
 
-Annabeth set the page back under its clip. Her hand shook slightly as she underlined the differences in her notebook.
+Annabeth set the page back under its clip and compared her transcription with the version in the other half of her notebook. Her pencil hovered above the words before she wrote anything.
 
-"An earlier version," she whispered. "'One throne' and 'one sister' — not 'three thrones' and 'two sisters.'"
+"'One throne' and 'one sister,'" she whispered. "The later copy says three and two. But this page wasn't written by the Oracle. It's Chiron's handwriting, attached to a patrol report. We still need to know where he got the lines."
 
-"So somebody upsized it."
+Percy bent closer to the page without touching it. "Maybe somebody copied a number wrong."
 
-"Or this is a bad copy." She swallowed. "We need to know which. What if someone is *building* toward the altered wording?"
+"Two numbers, in the same passage? Possible. There are also different versions of the second line in the display notes, remember. I want to know how many times the prophecy passed between people before somebody put it on a wall."
 
-Cold spread from his sternum outward. "You mean they might be answering a prophecy."
+"Do you think the change was deliberate?"
 
-"Might. A date and four lines aren't proof of who changed our lives."
+"I think I want to inspect the originals before I decide that." Annabeth made a small mark beside the date. "If we're right about somebody changing the transcript, it tells us the records were tampered with. It doesn't tell us what happened to our lives or who did it."
 
-"Who does that?"
+He hated how unsatisfying that sounded. The two of them had returned to a world where they belonged to different families, and here he was examining a discrepancy in archival handwriting. Annabeth had survived Tartarus with him; he knew exactly how stubbornly she could follow a problem when every available answer was dangerous. But she had learned to distrust the answer that felt most personally significant.
 
-"Someone who profits when it happens."
+"That line about sisters," he said. "It's hard not to think about Thalia and you."
 
-They stared at each other while dust sifted through the mist around them.
+"I know. That's why we have to be careful. People might have written those lines before I was even born. Or the version we're looking at might not be the earliest one. I won't turn my sister into part of somebody's plan because a piece of paper gives us a convenient number."
 
-Percy exhaled. "Then we decode the altered version. 'Three thrones shaken, two sisters bound.' Which thrones? Which sisters?"
+Percy held the lamp steady while she finished copying the date, the title of the patrol report and the fold marks where the page had been clipped. Even if they never got near the Oracle, an archivist might be able to trace the report's origin.
 
-"No idea." Annabeth pushed upright, wincing. "But I doubt we'll have to wait long to be introduced."
+"All right," he said quietly. "Let's get the details right before we get frightened of what they might mean."
+
+"I'm already frightened," Annabeth replied. "I can still write things down properly."
 
 Floorboards creaked below — footsteps, voices. Both of them went rigid.
 
@@ -749,7 +751,7 @@ He hauled Annabeth upright and towed her behind a tower of sheet-draped furnitur
 
 "Oracles are theatrical." Mr. D sounded sharp, irritated, a glass clinking. "They sulk. They return. They spout riddles. It's the job description."
 
-"This isn't temperament. Her last prophecy — the stolen one — broke every pattern in her record. Now silence." A pause, hooves shifting on boards. "That's not drama. That's a gag."
+"This isn't temperament. Her last prophecy — the stolen one — broke every pattern in her record. Now silence." A pause, hooves shifting on boards. "That is not how the Oracle usually behaves. I cannot rule out interference."
 
 "Placed by whom?"
 
@@ -759,15 +761,19 @@ The voices thinned. The door shut. Darkness resettled, smelling of dust and lemo
 
 Percy counted his own heartbeats to five hundred before he moved.
 
-"Silent," Annabeth murmured. "No new prophecies. We don't know whether she can't or won't."
+"Three weeks," Annabeth murmured. "Chiron sounds more worried than he was willing to admit when we asked."
 
-"Or won't. Maybe she knows something she can't afford to say aloud."
+"He thinks someone might have interfered with her. That isn't the same thing as knowing how, or even whether she could speak if she wanted to."
 
-"There might be a connection between the records, the silent Oracle, and the monsters at the border. But we still don't know if one cause explains all three."
+Annabeth closed the notebook on the copied report. "If the records and the silence are connected, we need something that shows the connection. A shared symbol, a date, a witness. The monsters at the border might be part of it or might be a completely separate problem."
 
-"And we're sitting in the middle of the web."
+Percy looked back toward the attic window, checking that the adults had really gone. "There's also a chance we just made the worst possible choice of hiding place."
 
-"Yes."
+"You did insist on the window."
+
+"I insisted on a way out. There's a difference."
+
+She didn't smile. After a moment he stopped trying to make her. They both understood that getting caught here could cost them access to the records they needed and the trust they'd only just started earning.
 
 They exited the way they entered — window, ivy, damp grass — and held their silence until the Big House windows had shrunk behind pines and the lake air replaced attic dust in their lungs.
 
