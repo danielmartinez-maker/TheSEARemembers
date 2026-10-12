@@ -216,6 +216,136 @@ By dusk, they had agreed on a route, a limit, and the possibility that they migh
 
 Locks were suggestions; guards were a more serious problem. Percy and Annabeth had spent years learning the difference, although neither of them liked how much of that practice still fitted into twelve-year-old hands. They went at midnight anyway, agreeing once more to leave the chair untouched and to abandon the attempt if the ward behaved unpredictably.
 
+---
+
+In Cabin One, Annabeth spread a blanket across the floor and tried to lay out two versions of the Hall's floor plan without letting their corners overlap.
+
+Thalia sat on the opposite side of the blanket, removing knots from an old coil of climbing cord. She had brought it home from the wall because half the newer ropes had been borrowed for repairs and she wasn't willing to trust the next morning's lesson to somebody else's hurried inspection.
+
+"Why the blanket?" she asked.
+
+"The floor has a loose nail. It catches the edge of the paper."
+
+"That one? I told the cabin steward about it."
+
+"He said he was going to fix it after the Hall inspections."
+
+Thalia snorted. "Of course he did. The whole camp is going to spend the next month living with every problem nobody noticed before the storm."
+
+Annabeth flattened a corner of the older plan with a book. She had been trying to calculate where the new drainage channel connected to the old foundation. It was a question the repair crew could answer if she managed to give them a legible drawing. She didn't need her memories of an entirely different camp to do it.
+
+"Can you hand me the ruler?"
+
+Thalia found it beneath a sweater and passed it over. Annabeth tried to grip it with her injured fingers, winced and shifted to her other hand. Her sister noticed and reached for the notebook.
+
+"I can hold the paper."
+
+"I've got it."
+
+"Then I can hold the ruler."
+
+Annabeth looked up. It was easy to argue because Thalia had offered the help, and harder because she hadn't tried to take anything away. She let the ruler go. Thalia held it along the scale while Annabeth marked the measurements.
+
+They worked for several minutes without talking. Thalia made a series of knots in the cord, tugging each tight and loosening it again. The work was familiar enough that her hands barely seemed to need her attention.
+
+"You always hated fractions," she said eventually.
+
+"I still hate badly written ones."
+
+"You used to make me count the steps between the kitchen and the front door. Then you'd tell me I'd got the distance wrong because I was taller."
+
+Annabeth tried to picture it. She could imagine a kitchen, a narrow hallway and a child making measurements, but the space did not attach itself to any memory she actually possessed. Thalia's account was plausible; that was part of what made it painful.
+
+"What did you do?" Annabeth asked.
+
+"I made you walk it again in my boots."
+
+Annabeth laughed, surprised. "That can't have helped."
+
+"It didn't. You fell over twice. Then you refused to take the boots off because you said the numbers would only be consistent if you wore them until supper."
+
+"That does sound like me."
+
+"It was." Thalia looped the cord around her thumb. "You were seven. We argued all afternoon. I had to explain to Chiron why your ankles were bruised, and you told him I'd interfered with your experiment."
+
+Annabeth smiled because the story was funny. It was also her sister's, not hers. Thalia told it with the ease of someone who could step into that afternoon whenever she wanted. Annabeth could only borrow the picture.
+
+"Was I right about the distance?"
+
+"Not even close."
+
+"Then I had a flawed method."
+
+"You were seven."
+
+"People can have flawed methods at seven."
+
+Thalia shook her head, amused. Then she looked at Annabeth more carefully.
+
+"You don't remember any of that, do you?"
+
+The humor stayed in the room for a moment before it thinned.
+
+"No," Annabeth said. "I wish I did."
+
+Thalia turned the cord over. She had known the answer before asking. Annabeth could see that.
+
+"I keep bringing up things you don't remember," Thalia said. "I tell myself if I find the right story you'll laugh the way you used to, and it'll feel normal."
+
+"I laughed just now."
+
+"You laughed because it was funny. That's not the same thing."
+
+Annabeth put her pencil down. She had a dozen possible responses, most of them technically true and none useful. She could tell Thalia about Luke finding her in the woods with a knife and a stolen jacket, and how that Thalia had given her a place to belong. Her sister might recognize some part of it, or she might be frightened by a story that didn't match any year of the life she'd lived.
+
+"I can't give you your memories back from my side," Annabeth said at last. "I know you were there. I know those things happened to you. I just can't pretend they happened to me the way you remember."
+
+"Are you asking me to stop talking about them?"
+
+"No. I want you to keep telling me. Sometimes I can picture it afterward. Sometimes I can't. But it matters that you remember."
+
+Thalia stared at the cord. She was silent long enough that Annabeth considered adding something. Then her sister said, "If you want me to stop for a day, you can tell me. I'd rather know than find out afterward I've been making you miserable."
+
+"Okay."
+
+"And if you want to ask about something I know, you can ask without doing that thing where you act as though you're interviewing a witness."
+
+Annabeth looked at the notebooks beside her. "That might take practice."
+
+"It will."
+
+They went back to the map. Thalia pointed to a missing measurement at the northern entrance and admitted she had taken a shortcut through the closed path the previous morning to check the drainage line. Annabeth stared at her.
+
+"You went through a restricted area?"
+
+"Outside the barrier, not inside the Hall."
+
+"That's not what the sign says."
+
+Thalia stopped knotting. For a moment they both looked at one another, and Annabeth saw how much easier it was for her sister to justify a rule broken in the name of safety than a rule broken in the name of knowledge.
+
+"You could have asked maintenance for the measurement," Annabeth said.
+
+"I did. They couldn't tell me until the afternoon, and the route was being used that morning."
+
+"So you decided to check."
+
+"From outside the barrier. With Bea standing nearby. And I told Chiron afterward."
+
+Annabeth considered that carefully. She had been preparing to enter the Big House after midnight without telling anyone. Thalia had made her own risky judgment but had shared it with someone who could help. It wasn't the same thing, which annoyed Annabeth more than if it had been.
+
+"Thanks for telling me," she said.
+
+Thalia resumed the knot. "I'd like you to do the same."
+
+Annabeth glanced at the secret notebook beneath the blanket. She had planned where to go and what to copy. There was still time to tell her sister that she was thinking about returning to the Oracle. The honest words formed in her mind and stayed there.
+
+Instead she asked whether Thalia could keep holding the ruler.
+
+Thalia did. They finished the map, labeled the measurements they couldn't confirm, and took it together to the noticeboard before curfew. Annabeth was glad they'd managed to work without fighting. She was ashamed of how much of the evening she'd spent deciding what not to say. Both feelings went with her when she returned to Cabin One, folded the private notes and waited for the house to go quiet.
+
+---
+
 Camp lay dark, cabins shuttered, the dining pavilion cold. The surf broke faintly beyond the trees. Annabeth carried her notebook beneath her jacket, the known versions of the prophecy copied on facing pages. She had removed the pages comparing their remembered lives and left those under a loose board in Cabin One. Percy kept checking the windows of the Big House. A discovery made under a shaded lamp could look less convincing in daylight, especially when explaining why they had been in a forbidden attic.
 
 Before they reached the Big House, they had to cross the stretch of open ground between the cabins and the green. Someone had replaced the lantern on the path after the storm, and its light fell across a new sign announcing that the attic and the Hall were closed to all campers pending review. Beneath the notice Chiron had added the date and his signature. It would have been easier to ignore the rule if it were an old, forgotten thing nobody expected them to read.
