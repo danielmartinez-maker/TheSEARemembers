@@ -40,7 +40,7 @@ Annabeth didn't answer. Thalia took that as confirmation.
 
 The truth was that Annabeth had woken in her own younger body and discovered that her history had been rewritten. She was still herself. She simply had no idea how to be the girl everyone remembered.
 
-"I'll think about it," Annabeth said, shifting her weight against the cold.
+"I'll think about it," Annabeth said, folding her arms.
 
 Thalia looked like she wanted to press, but a commotion at the entrance to the dining pavilion drew everyone's attention. A satyr stumbled through the doors, his goat legs trembling, his face pale and sweaty.
 
@@ -118,7 +118,7 @@ Annabeth slipped away. She needed to be alone.
 
 She found herself at the canoe lake, sitting on the same dock where she'd met Percy the night before. The water was calm, glass-warm on top with a cold undertow, reflecting the midday sun in broken shards of light. Pine and strawberries scented the wind.
 
-Salt air sharp in her lungs, she was shaking. Adrenaline crash, she told herself. Normal aftermath of a fight. Except it wasn't just adrenaline. It was the realization of how easily she'd slipped into her old self — the Tartarus-trained warrior, the general, the girl who'd commanded armies. For a breath, she'd forgotten to be twelve years old. She'd forgotten to be helpless.
+ she was shaking. Adrenaline crash, she told herself. Normal aftermath of a fight. Except it wasn't just adrenaline. It was the realization of how easily she'd slipped into her old self — the Tartarus-trained warrior, the general, the girl who'd commanded armies. For a breath, she'd forgotten to be twelve years old. She'd forgotten to be helpless.
 
 And Thalia had seen.
 
@@ -154,7 +154,7 @@ Annabeth looked at him. In the sunlight, his eyes were the same green she rememb
 
 "You're not a fraud. You're Annabeth. That doesn't change just because your circumstances do."
 
-"Doesn't it? The Annabeth Grace who grew up here — she had a childhood with Thalia. She learned to fight from her. She has twelve years of memories that I don't have. In what way am I the same person?"
+"Doesn't it? The Annabeth Grace who grew up here — she had a childhood with Thalia. She learned to fight from her. She has twelve years of memories that I don't have. Does that make me a stranger to her?"
 
 Percy didn't have an answer for that. They sat in silence, watching the water, and the distance between them felt both vast and infinitesimal.
 
@@ -166,13 +166,13 @@ Percy didn't have an answer for that. They sat in silence, watching the water, a
 
 His expression shifted — a flicker of pain so raw it made her chest ache. "Every day."
 
-"Even though you've Amphitrite now?"
+"Even though you have Amphitrite now?"
 
-"Even though. They're different kinds of love. Amphitrite is real and present and wonderful. But Sally is... she's the reason I know what a mother's love feels like. She gave me that template. And I can't just stop missing her because I've someone else who fills the role."
+"Even though. They're different kinds of love. Amphitrite is real and present and wonderful. But Sally is... she's the reason I know what a mother's love feels like. She gave me that template. And I can't just stop missing her because I have someone else who cares for me."
 
 Annabeth nodded. "That's what I'm afraid of. That I'm going to hurt Thalia by not being able to love her the way she deserves."
 
-"You can't force it," Percy said, shifting his weight against the cold. "But you can choose to try. That's all any of us can do."
+"You can't force it," Percy said, taking a breath. "But you can choose to try. That's all any of us can do."
 
 Annabeth leaned against him, just slightly. He put his arm around her shoulders, and they sat like that for a long time, two displaced souls finding comfort in the only person who understood.
 
@@ -182,7 +182,7 @@ That night, Annabeth couldn't sleep.
 
 She lay in her bunk, staring at the ceiling, listening to Thalia's steady breathing from across the room. The nightmare was still with her — fragments of Tartarus, the feeling of Percy's hand slipping from hers, the smell of sulfur and despair.
 
-Salt air sharp in her lungs, she got up. She needed air.
+ she got up. She needed air.
 
 The cabin was dark and quiet. She dressed quickly and slipped out into the night. The camp was still, the cabins dark, the only light coming from the dining pavilion's dying bonfire and the moon overhead.
 
@@ -236,55 +236,59 @@ Or a promise.
 
 ---
 
-The next morning, Annabeth made a decision. She'd been hiding long enough. The drakon fight had proven that she couldn't maintain the pretense of being a normal twelve-year-old — her instincts were too sharp, her reflexes too fast, her knowledge too extensive. She needed to start building a cover story that could account for the gaps.
+The next morning, Annabeth went to Chiron's office with an ordinary question she hoped he could answer: how much storm training did a daughter of Zeus usually receive at twelve?
 
-She started with the simplest explanation: natural talent.
+Chiron listened while she described the strange pressure she'd felt just before the drakon appeared. He set his quill down when she admitted the feeling had frightened her.
 
-"Chiron," she said, finding the centaur in his office, "I need to talk to you about my training."
+"You did the right thing by reporting it," he said.
 
-Chiron looked up from his papers, his ancient eyes sharp and knowing. "Indeed. I've been expecting this conversation."
+"I didn't do anything with it. Thalia did the fighting."
 
-"Then you know why I'm here."
+"Your sister's control took years. You're beginning from a different place. We can arrange supervised exercises."
 
-"I know that you're handling your powers better than most. I know that yesterday's drakon encounter could have ended very differently if you'd reacted a half-second slower." He set down his quill. "But I also know that you're not here about training."
+Annabeth had practiced the question for half an hour. The sensible answer should have relieved her. Instead she found herself studying the papers on his desk.
 
-Annabeth's stomach tightened. "What do you mean?"
+"You changed the training schedule when the Hall was built," she said. "Didn't you?"
 
-"I mean that you're displaced. That something has happened to you that you can't explain, and you're trying to build a framework that makes sense of it." Chiron's voice was gentle. "I've seen this before. Not exactly this, but something similar. Children who've been changed by forces beyond their understanding, who've had to adapt to a world that shifted under their feet."
+Chiron followed her gaze. "The gods authorized additional facilities. There were new requirements for children of the Big Three."
 
-Percy knocked at the open door. Annabeth had asked him to meet her after breakfast, and she was relieved to see him now. He stopped beside her. "Can I join you?"
+"Who asked for them?"
 
-"I suspect I do." Chiron's gaze moved between them, and something flickered in his expression — recognition, maybe, or memory. "And I suspect you're not here for training at all. You're here for information."
+"A council decision. Your father was among those who approved it."
 
-The directness was startling. Annabeth's spine stiffened. "What information?"
+"That's not what I asked."
 
-"About the timeline. About what's changed. About who changed it." Chiron leaned back in his wheelchair. "You've been asking careful questions, Percy. Very careful. But I've been teaching demigods for a very long time, and I know what careful questions are for."
+"No," he said, watching her. "It isn't."
 
-The silence stretched. Annabeth curled her hands into fists at her sides. Percy looked down and moved a little closer.
+Percy appeared at the door. Annabeth had asked him to meet her afterward, not interrupt, but Chiron beckoned him in.
 
-"What do you know?" she asked.
+"I gather you have questions about the new buildings as well," the centaur said.
 
-Chiron was quiet briefly. Then he said, "I know that three years ago, something happened at this camp. Something that changed the rules. Something that the gods don't want to talk about."
+Percy stopped beside Annabeth. "They weren't here before?"
 
-"A prophecy?" Percy asked, watching Chiron.
+"Before you arrived? Of course they were. But the Hall is relatively new, and the archives surrounding its construction aren't complete."
 
-Chiron's expression didn't change, but something in his eyes did. "Some records are incomplete."
+Annabeth kept her hands on her knees. "Records missing from Chiron's own camp? That's odd."
 
-"You mentioned old records when I asked about the new cabins," Percy said. "Are some missing?"
+"It is. I have been attempting to reconstruct the approval process for some time."
 
-"And you've been trying to understand why the camp changed."
+"Because someone took them?" Percy asked.
 
-"Yes."
+"Because I don't know where they went," Chiron corrected. "I won't accuse anyone without evidence. Three years ago, the council became much more interested in this camp. The building work followed. That is what I can tell you."
 
-Chiron was silent for a long time. Then he said, "I can't help you. I don't know who did it. I've spent three years trying to find out, and I haven't succeeded. But I can tell you this: the building work at this camp was sanctioned. Approved by the gods. That establishes who paid for the new cabins. It doesn't establish who changed your lives."
+Annabeth wanted to ask whether he knew anything about her memories. She did not. Chiron was an experienced teacher, not a person who could read the history she kept in her head.
 
-Percy's stomach turned. "A plan for what?"
+"What do you want us to do?" she asked.
 
-"I don't know. But whatever it's, it's still happening. The signs are there — the increased divine interest, the changes to the rules about big three kids, the way the gods have been watching this place more closely." Chiron's voice dropped. "Something is coming. And the gods are preparing for it."
+"Learn to use the abilities you have. Leave the investigation of stolen records to me. And if your powers frighten you, tell someone before they hurt you or a camper standing nearby."
 
-"How do you know it's coming?"
+Percy made a small noise. "You know we're going to ask more questions."
 
-"Because I've been a teacher for a very long time. And I've never seen this much divine attention focused on one place." He looked at them both, and his ancient eyes held something that might have been fear. "Whatever's coming, it's big. And it's coming soon."
+"I assumed as much," Chiron said. "I also assumed you might try asking them in daylight."
+
+Annabeth took that as a warning and an invitation. She thanked him for his time. Outside, Percy waited until the office door had closed before asking whether she had learned anything.
+
+She had. The construction was real and documented. The records were incomplete. Neither fact proved anyone had rewritten a childhood, and Chiron hadn't been told that they remembered different ones.
 
 ---
 
@@ -354,7 +358,7 @@ Annabeth caught him watching and shrugged without explanation. "Private time," s
 
 He let it go. He had his own private hours — the nights when the ceiling pressed down, the hours when the faces of people he'd failed in his original life flickered past his closed eyes. Those hours weren't something he wanted to share, and he understood why she wanted space for hers.
 
-But two nights later, he followed her.
+Two nights later, he found her in the strawberry field while looking for a quiet place to think. He nearly turned around, but she saw him first.
 
 She didn't go to the lake. She went to the strawberry field — the far corner, past the amphitheater, where the rows grew wilder and the light was softer. She knelt between two rows and started picking berries, working with the focused efficiency of someone who'd been doing this alone for years.
 
@@ -362,7 +366,7 @@ Percy hung back, giving her space, but after a moment she spoke without turning.
 
 "I know you're there."
 
-"Sorry. I didn't mean to eavesdrop."
+"Sorry. Didn't know you were here."
 
 "You're not eavesdropping. You're lurking. There's a difference." She turned, and her face was pale in the fading light. "Does Thalia know?"
 
@@ -376,7 +380,7 @@ Percy said nothing. He had no idea what else to do.
 
 She looked at him, and her expression was raw. "So when you tell me you're awake because you can't sleep, I understand. Because I've been there too. And because right now, you're the person who remembers being there with me, who knows why I can be so afraid of losing you that you can't let go of it, even for a few hours."
 
-Percy felt something crack open in his chest. This girl — this impossible, brilliant, broken girl — understood. She understood him in a way that no one else could, because she was carrying the same weight.
+Percy felt something crack open in his chest. This girl — this impossible, brilliant, broken girl — understood. She understood him in a way that no one else could, because she was carrying the same fear.
 
 "Yeah," he said. "That's exactly it."
 
@@ -466,35 +470,51 @@ And Percy was grateful for that. Because understanding, in the end, was what the
 
 ---
 
-The first time Annabeth deliberately tried to move air in front of Percy was on a Tuesday afternoon, during their first weeks of adjusting to camp.
+A few afternoons later, Annabeth attempted a controlled exercise near the lake, with Percy standing well clear of the path.
 
-They were walking back from the lake, talking about the differences between this timeline and the one they remembered, when a gust of wind knocked a branch down onto the path ahead of them. Not a big branch. a dead limb, brittle and dry, falling from no obvious cause.
+She held a dry leaf in her palm. Chiron had advised starting with movement, not lightning, and she had spent the better part of an hour trying to push a current of air across the skin of her wrist.
 
-But Annabeth reacted.
+"Nothing," she said.
 
-She raised her hand, and the branch stopped mid-fall — frozen, held, suspended by nothing visible. Then, slowly, deliberately, she moved her fingers, and the branch turned in the air, rotating gently, and then set down on the path without a sound.
+"You're moving your hand," Percy offered.
 
-Percy stopped walking.
+"Brilliant observation."
 
-Annabeth lowered her hand. The branch sat on the path, and she looked at it with an expression of dawning horror.
+"Trying to be useful."
 
-"That wasn't — I didn't mean to—"
+The leaf lifted a fraction. Annabeth went rigid. The air dropped away again, and the leaf settled where it had been.
 
-"I know."
+She tried to repeat it. This time a gust struck from the wrong direction, blowing grit into Percy's eyes and scattering the leaf into the grass.
 
-"How did that happen?"
+"Sorry!"
 
-"I don't know. But..." Percy trailed off, watching her face. She looked shaken. Genuinely shaken. Not the controlled fear of a girl hiding her abilities, but the raw surprise of someone discovering something she hadn't expected.
+"I'm fine." Percy rubbed his face. "I think your leaf got away."
 
-"Are you okay?" he asked.
+"That's not funny."
 
-"I don't know. That was — Percy, that shouldn't have happened. Since coming back, nothing like that has happened before. I've been able to feel the power, but I've never — I never actually *used* it."
+"It wasn't supposed to be."
 
-"Maybe you didn't need to. Maybe it only comes out when you're not thinking about it."
+She crouched to pick it up. Her hands shook. She had commanded soldiers and calculated impossible odds in a different life; controlling one inch of air was apparently a new skill with its own humiliations.
 
-"Or maybe it's escalating." She wrapped her arms around herself. "Percy, in my original life, I knew what my training could do. How far I could reach. Where I could land. I didn't have this storm power. But this — this is raw. Unfiltered. Like a fire that's just starting and doesn't know how big it's going to get."
+"I thought having Zeus for a father would make it easier," she admitted.
 
-Percy didn't have an answer for that. He just took her hand, and they walked the rest of the way back to the cabins in silence.
+"Thalia's been training at this for years."
+
+"Thalia would ask what I'm doing out here, and why I can't remember learning the basics with her."
+
+"Then we practice the basics until you have something you can show her without panicking."
+
+Annabeth looked at him sharply. "Or until I decide to ask her for help. That's my decision, Percy."
+
+"Fair." He raised both hands. "For what it's worth, I'm terrible at the leaf part."
+
+She almost smiled. "You're terrible at plenty of things."
+
+"There she is."
+
+They spent another twenty minutes moving the leaf a few inches at a time. By the end she could direct it toward a stone twice in a row. The third attempt sent it into the water.
+
+Percy retrieved it with a finger's movement and placed it beside her shoe. Annabeth gave him a dirty look, then put the leaf in her notebook. A small, damp piece of evidence that she'd improved.
 
 ---
 
@@ -502,7 +522,7 @@ That night, Percy lay in his bunk and thought about everything that was happenin
 
 He was twelve years old in a world that wasn't his, carrying memories only Annabeth shared, and he was trying to protect people who didn't know they needed protecting.
 
-Salt air sharp in his lungs, he didn't know if he was doing enough. He didn't know if he was doing anything right.
+ he didn't know if he was doing enough. He didn't know if he was doing anything right.
 
 But he knew that he wasn't going to stop. He knew that he was going to fight — not because he was brave, but because he was stubborn. Because the people he loved needed him. Because Annabeth was going to figure this out, and he was going to help her, and together they were going to find a way through.
 
