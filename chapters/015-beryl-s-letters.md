@@ -205,7 +205,7 @@ Annabeth's throat closed. "Wow."
 
 "No, it's fine." Annabeth folded the envelope with shaking hands and shoved it into her own pocket. "You did. You're right. You did. So congratulations. You get to keep doing it forever, I guess."
 
-She turned and walked fast toward the Zeus cabin, blinking hard. She would not cry on the path. Athena girls didn't cry on paths. Zeus girls — well, she was still figuring out what Zeus girls did.
+She turned and walked fast toward the Zeus cabin, blinking hard. She wouldn't cry on the path. Not because daughters of Athena or Zeus had rules about tears, but because she wanted to finish the conversation before she let herself fall apart.
 
 Behind her, Thalia didn't follow.
 
@@ -543,7 +543,7 @@ Annabeth nodded slowly. "I want to tell her about camp. Not everything. Just —
 
 They sat with that. The stars were painfully bright. Annabeth could name the constellations from her old studies. Static lifted her hair, but she could not tell whether her father was watching or the cabin wards were settling. She hoped he would read the report Chiron sent.
 
-"Thalia?" Annabeth said. "When I told you Beryl died in the life I remember — did that make this worse?"
+"Thalia?" Annabeth said. "When I told you I remember a different life where Beryl wasn't around anymore, did that make the letter worse?"
 
 Thalia exhaled. "It scared me. I'm already afraid of the phone ringing with bad news. Hearing it happened somewhere you remember doesn't tell us what happens here." She rubbed the letter's crease. "I have wanted her to stay away. I haven't wanted her dead. Sometimes I feel guilty as if they're the same thing."
 
@@ -596,6 +596,3 @@ Tonight, she just tucked the sleeping bag tighter around her sister, kept hold o
 *All my love forever and ever and one day more,* Beryl had written.
 
 Thalia looked at Annabeth's sleeping face, smudged with peanut butter, moonlight on her eyelashes, and thought: *Yeah, Mom. Us too. Us too.*
-
----
-
