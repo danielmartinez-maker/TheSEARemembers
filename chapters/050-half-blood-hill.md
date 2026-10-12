@@ -768,6 +768,44 @@ Tomorrow would come with ferries and cities and more monsters. Tomorrow they wou
 
 Tonight there was soup and a bench and rain, and that was enough.
 
+Before Thalia took the first watch, Grover woke just long enough to ask whether he could send Juniper a message.
+
+Percy glanced at the dark ticket windows. "Right now?"
+
+"I told her I'd try when it was safe. And it is safe. Mostly."
+
+Annabeth checked the remaining drachmas. "We only have a few. I don't want to spend one every time we reach a station."
+
+"I know," Grover said. "I'm not asking you to."
+
+He rummaged through his bag and drew out a folded square of paper. On it he'd written a brief note saying they had left camp, encountered trouble, and were all alive. He had not included their exact location, the Fury's warning, or anything about the stolen bolt.
+
+"I thought I could leave this with a satyr messenger when we find one," he said. "Or send it through Chiron with our next official report."
+
+Annabeth read it and passed it back. "That's a better plan. We could keep short notes like that for everybody at home and send them together when we have a secure contact."
+
+Grover looked pleased. "Then I haven't broken my promise."
+
+"No," Percy said. "You promised to write when you could. You wrote."
+
+Thalia watched the exchange from her seat by the doors. "And if you don't hear back?"
+
+"I'll worry," Grover said. "I can't make Juniper answer. Maybe she's busy. She has an entire maple to take care of."
+
+"Good," Thalia replied. "Remember that part."
+
+Percy thought of Silena waiting at camp with her stack of repaired gear, and Clarisse pretending the border patrols weren't exhausting. He wanted to tell them every detail of the day. He also wanted them to have an evening that wasn't interrupted by his fear.
+
+He borrowed the pencil and added his own note on the back: *We made it through the first day. Annabeth hurt her hand, but it's being cared for. We changed our travel plan and we're together. The snacks were excellent.*
+
+He could hear Silena asking for more information and Clarisse demanding to know why he hadn't killed the Fury sooner. The thought made him smile.
+
+Grover folded both messages into the safe pocket of his bag.
+
+"To send when we can," he said.
+
+Percy nodded. That was a promise they could keep without gambling the next one.
+
 The depot's fluorescent lights hummed long after the last ticket window closed.
 
 Thalia was convinced somebody should stay awake. The problem was that everybody was convinced it ought to be them. Grover volunteered first, then fell asleep halfway through explaining why satyrs had superior nighttime senses. Percy offered to take the opening watch. Annabeth looked at him for a long moment before asking how much sleep he'd had in the previous two nights.
