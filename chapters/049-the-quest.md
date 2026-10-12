@@ -544,6 +544,103 @@ Percy nodded, throat tight. "I will."
 
 Clarisse stood and pulled him into a headlock and rubbed his hair until he yelped. "Best little brother," she muttered into his hair, so low only he heard. "Come back with all your limbs."
 
+
+---
+
+There was another problem with leaving that nobody had mentioned while they were packing.
+
+Percy found it when he went to put his repaired practice shield back in the armory. The storage racks were half empty. Someone had drawn up a list of cabins responsible for each border watch, and every slot under Cabin Three had been crossed through and written again.
+
+"That's my patrol tomorrow," he said, pointing at one line.
+
+Clarisse was standing over the list with the older camper who managed the equipment room. She looked at where Percy pointed.
+
+"Not anymore. You're going west."
+
+"I know. But who's replacing me?"
+
+"An Ares camper who actually knows how to be quiet in the woods."
+
+"That's harsh."
+
+"It's a compliment to the Ares camper."
+
+Silena entered with a spool of spare stitching cord and a stack of bandages. She had told Percy she was going to ask the infirmary for the missing pieces of his kit. Apparently she'd taken the opportunity to collect supplies for half the camp.
+
+"Is he arguing about the patrol?" she asked.
+
+"He is."
+
+"I wasn't arguing," Percy said. "I wanted to know."
+
+"Then come look at the schedule," she replied.
+
+She spread a clean sheet over the workbench. Percy was startled to see how much of the ordinary camp week depended on tasks he'd never thought to ask about. There were deliveries to the forge, boat inspections, rotations at the infirmary and a half-dozen jobs that amounted to repairing things other campers broke. Cabin Three appeared on almost every page.
+
+"I did the boat inspections," Percy said. "I thought they just sort of happened."
+
+"Things rarely just happen," Silena answered.
+
+Clarisse snorted. "He's learning."
+
+Percy studied the schedule. He had spent the whole day letting other people promise to protect him. Here was a different problem: the work they'd been doing together would continue after he left. The camp could lose people to a quest without losing the jobs that kept everybody else alive.
+
+"Who's doing the boats?" he asked.
+
+"Tyson offered to help until his visit ends," Silena said. "And two campers from Hephaestus know how to check the rigging. We'll do it with them tomorrow and make sure somebody else can take over when Tyson returns to the forges."
+
+"The border watch?"
+
+"Mostly Clarisse and the other counselors," Silena said. "No heroics. Actual rotations, so people sleep."
+
+Clarisse scowled. "I sleep."
+
+"You pretend to."
+
+"I close my eyes occasionally."
+
+"That's not the same thing."
+
+Percy didn't step between them. It was an old argument, one he'd heard in different forms since arriving at camp. What interested him now was how matter-of-fact they sounded about the work. The prospect of war had frightened them, but neither had answered it by waiting for a god to tell them what to do.
+
+The older camper at the equipment desk handed Percy a pencil.
+
+"If you know which ropes are fraying on the canoes, write them down," he said. "I've been asking for two weeks."
+
+Percy looked at him. "I told the dock supervisor."
+
+"He didn't tell me."
+
+"Then that's not a Percy problem."
+
+"It will be a camper problem when one breaks."
+
+Percy took the pencil. He wrote down the canoe numbers and described which lines he thought needed replacing. He couldn't remember the part numbers. The older camper said that was fine; he'd rather have a description than another confident guess.
+
+Clarisse checked the entries, then drew a small star beside two of them.
+
+"These first," she said. "They're the ones the younger campers use."
+
+By the time they were finished, the sun had moved halfway down the window, and the great pile of gifts in Percy's pockets had begun to seem less important. This was the life he was leaving for a few weeks: not a collection of people frozen in place until a hero came back, but a camp full of small repairs, grumpy counselors, and people who had to make decisions without him.
+
+Silena rolled up the work sheet.
+
+"Now," she said, "go say goodbye to Ella. She has been waiting by the lake and getting angrier with every page of the book she tries to read."
+
+Percy looked at the boat schedule one last time. He would worry about the campers he was leaving behind. But he didn't need to make them promises they hadn't asked for. They had work to do, and they were doing it.
+
+Clarisse caught him at the door.
+
+"Before you start feeling guilty about being the one who goes," she said, "remember nobody made you volunteer for the prophecy."
+
+"Chiron sort of did."
+
+"Chiron gave you a choice. You made it. We made ours." She pushed his shoulder, not hard. "Don't insult us by acting like staying is the easy job."
+
+Percy nodded. He understood what she meant, although he didn't like all of it. Staying meant watching the west road empty every morning and not knowing what was happening on it. Silena and Clarisse would do that while keeping the camp standing.
+
+He hugged them both, quickly enough that Clarisse didn't have time to complain, and went to find Ella.
+
 ---
 
 Ella cried.
