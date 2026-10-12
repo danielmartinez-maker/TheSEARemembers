@@ -76,6 +76,96 @@ Thalia stared at the frozen sky. "Yeah," she said. "Just lunch."
 
 ---
 
+Before lunch, Thalia went to Chiron's office with a question she hadn't managed to ask him during the week of repairs.
+
+"Does my father know what happened during the eclipse?"
+
+Chiron looked up from a stack of reports. He was sorting the statements of the ward team, and the top page still carried the measurements Annabeth had taken at the northern column.
+
+"I sent a summary to Olympus," he said. "Whether Lord Zeus has read it is something only he can tell you."
+
+"He wouldn't have come if it weren't important."
+
+"I wouldn't assume that. Sometimes his decisions surprise even those of us who've known him a long time."
+
+Thalia stood beside the desk. She had taken the dressing off her palm that morning, and the skin still pulled when she made a fist. She was supposed to avoid sparring for another two days. The restriction made her feel absurdly young, which was one of the reasons she didn't want to spend an afternoon being assessed by her father.
+
+"I want to ask him about Jason," she said.
+
+Chiron set down his pen. "Have you prepared what you want to know?"
+
+"Where he is. Whether he's doing well. Whether the messages I've sent are even reaching him."
+
+"Those are reasonable questions."
+
+"Then why does everybody keep acting as though I shouldn't ask them?"
+
+"Because you know how your father reacts when he believes he's being challenged."
+
+Thalia hated the calm with which he said it. Chiron wasn't defending Zeus. He was naming the problem she'd spent years trying to convince people to acknowledge.
+
+"That's his problem," she said.
+
+"It is. It becomes ours when he makes the room unsafe for you or your sister."
+
+She sat on the chair across from him. "Can we leave if he gets angry?"
+
+"You can leave at any time. I will make sure the door stays open. If he chooses to follow you, I will intervene as far as my position permits."
+
+"As far as it permits."
+
+"I won't promise you power I don't have, Thalia."
+
+The answer was honest, and she resented it anyway. She wanted one person who could say that the king of the gods would behave like a father for a single hour and mean it.
+
+Chiron opened the report. "I can have another counselor nearby. Mr. D is required to attend, so you won't be alone with your father. You may also ask that Percy be excused if the conversation becomes private."
+
+"He can stay. I already told him what I wanted him to do."
+
+"And what was that?"
+
+"Not make jokes to distract Dad. Not rescue us before we ask. If he starts getting dangerous, he can get Annabeth out."
+
+"Make sure Annabeth knows you've agreed to that. She deserves to decide whether she wants someone else directing her."
+
+Thalia closed her eyes briefly. There was no easier person to be wrong in front of than the one she'd been raising since she was eight, and no harder person to admit it to.
+
+"I'll tell her," she said.
+
+Chiron reached for the next report. "There is another thing. You have nothing to prove about the eclipse. You were injured, and the repair team performed the intervention under supervision. Your father may try to make your participation a question of obedience. You don't need to accept that framing."
+
+Thalia stared at him. "You sound like you expect him to do exactly that."
+
+"I expect him to be himself."
+
+That, unfortunately, was what she expected too.
+
+She went back outside and found Annabeth working on an ordinary geometry exercise at a picnic table. The workbook was covered with calculations and a drawing of a bridge that was not part of the assigned question.
+
+"Chiron says we can leave lunch whenever we want," Thalia said.
+
+Annabeth looked up. "Are you planning to?"
+
+"If he starts yelling, yes."
+
+"Then I'll go with you."
+
+"You don't have to leave because I do."
+
+"I know. I can decide."
+
+Thalia leaned on the table, careful of her hand. "I want to ask about Jason. He might make it sound like I'm being ungrateful for whatever news he gives us. You don't have to take my side if you don't know whether the answer's true."
+
+Annabeth looked at the bridge she'd drawn. "If he actually tells us where Jason is, I want to hear it. I don't want to pretend the answer's enough if it isn't."
+
+That was closer to what Thalia needed than a promise of loyalty. She watched her sister erase a line that was too long for the scale.
+
+"All right," she said. "We ask. We listen. And if it becomes too much, we leave."
+
+Annabeth nodded, then returned to the geometry. Thalia stayed another minute, looking at the clean way her sister constructed an argument out of measurements. Zeus would arrive in another face and try to decide which qualities in them belonged to him. He could not change the fact that Annabeth had learned some of her best habits from people who had shown up when he hadn't.
+
+---
+
 Annabeth had a system for fathers.
 
 It wasn't something she talked about, but it existed, neat and numbered in the back of her notebook between a diagram for a collapsible ladder and a list of books she wanted to steal from the Big House library:
