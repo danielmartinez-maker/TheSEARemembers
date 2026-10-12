@@ -672,3 +672,53 @@ Chiron received Thalia's written account of the rooftop access before dinner. Sh
 
 That night, Thalia and Annabeth sat on the cabin steps. Percy brought three paper cups of cocoa from the pavilion. It wasn't as private or dramatic as the previous night, but they could still hear the Sound and see the last light on the cabins. Thalia didn't need a dangerous height to recognize how much she liked their company.
 
+The following morning, Hal examined Annabeth's bench plan and asked three questions that sent her back to the drawing table. The first was about how the bench would be fixed so it couldn't slide during high winds. The second was whether the wood would rot if rain blew in through the balcony opening. The third was where they intended to store the bench when the cabin needed cleaning.
+
+Annabeth had answers to the first two. She hadn't thought about the third.
+
+"We could make it light enough to carry," she said.
+
+"Light enough isn't a storage location."
+
+Thalia, who had come to watch the review, pointed to the empty recess beside the storage cupboard. The space was narrow, but a folding seat could fit there if the legs were designed to lock properly.
+
+"That's better," Hal said. "Now we need to check whether the locking mechanism will hold."
+
+Annabeth drew a second joint on the margin of the plan. She had wanted to finish the bench quickly. Every additional requirement seemed to move the project another day away. But she remembered the loose slat above the trellis and recognized the same temptation to accept a drawing because it looked plausible.
+
+"Can I build a small prototype first?"
+
+"Yes. Bring it here before you make the full-sized version."
+
+Thalia helped her choose offcuts that matched the intended wood. They spent an hour cutting a basic joint and testing it with a weight supplied by the workshop. It held when the load was centered. It shifted when they put the weight near one edge.
+
+"Then we need another brace," Annabeth said.
+
+"Or a different hinge," Thalia suggested.
+
+They tried both on the prototype. The second hinge moved smoothly but left the seat with an awkward gap. The additional brace was less elegant and more stable. Annabeth chose it.
+
+When Percy arrived after lunch, he found them sitting on the ground beside an unfinished wooden rectangle.
+
+"Is that the bench?"
+
+"That's the part that keeps the bench from falling apart," Annabeth replied.
+
+"Good part to start with."
+
+He examined the brace and asked whether they needed help carrying the larger boards from the storehouse. Hal said they could have them once the plan was approved. Percy accepted the delay without suggesting he could move everything himself.
+
+Annabeth marked the final change on the drawing. She couldn't claim she'd built the balcony she'd imagined the night before. She had something better for the moment: a prototype that failed visibly, a correction she could test, and two people who were interested in the project because they wanted to use it with her.
+
+Chiron signed the work order later that afternoon. The balcony could be used once the railing inspection was complete, and the bench could be installed after Hal approved the full-size joints. Annabeth wrote both conditions at the top of the plan before taking it back to Cabin One.
+
+Thalia read them and smiled.
+
+"You're going to put that paper next to your bed, aren't you?"
+
+"Probably."
+
+"Good. Then you won't be able to pretend you forgot."
+
+Annabeth put the plan on the desk where she would see it in the morning. She still wanted nights with Percy under the stars. She had stopped assuming the only way to have them was to choose the highest place nobody had given her permission to use.
+
