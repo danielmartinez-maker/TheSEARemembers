@@ -637,6 +637,245 @@ She thought about the walk down the hill, the empty loft, Annabeth's notebook by
 
 He lay back against the pillow, satisfied with that, and she settled beside him. After a while she found his hand again. He didn't comment. They argued quietly about which of them had been worse at the north range that morning, then stopped talking altogether. The silence belonged to them, which felt stranger, and rather better, than she had imagined.
 
+
+The silence lasted until the stove made a noise like a spoon dropped into a bucket.
+
+Thalia opened one eye.
+
+"Is it supposed to do that?"
+
+"Yes."
+
+"You said that too quickly."
+
+"It's the damper."
+
+"You sound as if you've rehearsed this answer for every person who comes here."
+
+"I have. People keep asking whether I'm going to burn the cabin down."
+
+"Are you?"
+
+"Not tonight."
+
+She rolled toward him with a skeptical expression. He took her hand and set it against his chest, where his heartbeat was slowing. Something about that quiet, perfectly ordinary rhythm persuaded her to stop watching the stove. She moved closer, and he shifted the pillow so she could rest against his shoulder without twisting her sore foot.
+
+There was no grand declaration. He had merely noticed that she was uncomfortable and moved the pillow. She was beginning to discover how much attention could fit inside a gesture no larger than that.
+
+"Tell me something," she said.
+
+"Something specific?"
+
+"Something you wouldn't tell everybody."
+
+"How much privacy are we talking?"
+
+"Enough that you won't be putting it on the laundry slate."
+
+He thought for a while. She expected a joke. Instead he said, "I was nervous when you came in."
+
+"You weren't acting nervous."
+
+"I was trying very hard not to act nervous."
+
+"You've faced monsters."
+
+"Monsters aren't usually interested in whether I say something stupid."
+
+She raised herself on an elbow. "You say stupid things all the time."
+
+"True. You've made an inventory."
+
+"A long one."
+
+"Then you understand the risk."
+
+She kissed him, briefly, and he was still smiling when she drew back. She liked that she could interrupt him. She liked that he could make her laugh without forcing her to surrender whatever argument they'd been having.
+
+"But why nervous?" she asked.
+
+He met her eyes. "Because I wanted you here. And because I couldn't tell whether you wanted to be here or just wanted to win something."
+
+That one landed.
+
+"I don't turn everything into a competition."
+
+"At the range you do."
+
+"The range is a competition."
+
+"Sometimes. But you were trying to beat me at carrying a crate last week."
+
+"You were slow."
+
+"Thalia."
+
+She sat back. His tone wasn't sharp; it was simply his. She resented the accuracy of the observation more than she resented him for making it.
+
+"I didn't know what to do with this," she admitted. "With you. The part where I wanted to see you for no good reason."
+
+"Seems like a good reason."
+
+"You would say that."
+
+"I would."
+
+She drew a line down the seam of the blanket with one finger. "Most of my life, wanting something for myself has been an interruption. Annabeth needed things. Somebody needed something fixed. There was always a reason I ought to be somewhere else."
+
+He listened, but the expression on his face changed. She recognized it from the range: he was considering her words rather than preparing to comfort her.
+
+"I don't want to be one more job on the list," he said.
+
+"You're not."
+
+"I could become one. If you start thinking you're responsible for whether I'm happy."
+
+"You sound as if you're warning me."
+
+"I am. A little."
+
+She studied him. This was not the eager agreement she'd come to expect when people were trying to get closer to her. He was setting a boundary before she'd asked about one. It was irritating and unexpectedly attractive.
+
+"You think I'd take you on as a project?"
+
+"I think you're very good at treating a feeling like a problem to solve. I do it too. It's how I was raised."
+
+"Your mother?"
+
+"Sometimes. Sometimes me. A lot of fixing things before anybody asked whether they wanted them fixed."
+
+She could picture him there, younger, dragging chairs around for someone else's event, repairing hinges, making himself useful. It was easier to imagine than it would have been a month ago. She had watched him enough to know the habits. She hadn't known what they cost him.
+
+"So what do we do instead?" she asked.
+
+"We ask."
+
+She made a face. "That's painfully reasonable."
+
+"And sometimes we get it wrong."
+
+"That sounds like a terrible system."
+
+"Do you have a better one?"
+
+She considered. Then she shifted closer and put her palm against his jaw.
+
+"I want to kiss you again," she said.
+
+His eyes dropped to her mouth. "Well, you've certainly improved my system."
+
+He kissed her before she could produce a properly cutting reply. There was nothing tentative in it this time. He knew she wanted him, and she knew that he did; all the uncertainty of the evening had been reduced to two people trying not to grin into the same kiss. She moved her hand into his hair. When he drew back, she caught the front of his shirt and kept him near.
+
+"Still nervous?" she asked.
+
+"More than I'm admitting."
+
+"Good."
+
+"Is that a threat?"
+
+"An observation."
+
+He laughed against her cheek, and the sound brought her closer again. Their kisses lost their careful rhythm, then found another one. She had expected it to be easy to stop thinking when she was this near him. It was not. She noticed everything: the way he waited for her to choose the next kiss, the roughness of his fingertips from the bowstrings, the little hesitation before she reached for him and the complete absence of shame once she did.
+
+At some point she leaned back to look at him. Her heel was beginning to complain.
+
+He noticed. Of course he noticed.
+
+"Don't."
+
+"I haven't said anything."
+
+"You have the expression."
+
+"What expression?"
+
+"The one where you're about to tell me to sit properly."
+
+"I was about to ask whether you wanted the pillow under your ankle."
+
+That was worse than if he'd ordered her to do it. She looked at the pillow, then at him.
+
+"Fine."
+
+He arranged it beneath her ankle without making a production of the injury. She sat back with a disgusted sigh.
+
+"I was having a perfectly good evening before the foot became a committee."
+
+"I've never met a committee with such a hostile chair."
+
+"Give me time."
+
+He moved the mug she'd nearly knocked over and settled beside her. The moment might have been spoiled if either of them had insisted on pretending she wasn't in pain. Instead the interruption changed their pace. He traced the back of her hand with his thumb. She slid her fingers between his.
+
+"There's something else," she said.
+
+He waited.
+
+"If I come back here, I don't want it to be because I've been assigned to make you feel wanted. And I don't want you turning every evening into a test of whether I can admit I need you."
+
+"I don't think you need me."
+
+"Oh, thank you."
+
+"I think you like me."
+
+"At the moment."
+
+"I like you too. Quite inconveniently."
+
+She smiled despite herself. "You're making a mistake, Calder."
+
+"Several."
+
+"What's the biggest?"
+
+He touched her cheek. "Thinking about tomorrow when you're still here."
+
+She didn't answer. It was one of the few things anyone had said to her lately that required no rebuttal.
+
+He asked whether she wanted tea. She said no. They shared a little water instead and sat with the blanket over their knees while the stove burned lower. When she began to get cold, she told him. When he shifted to make room, she pulled him back and told him not so far. The requests were clumsy, almost comically ordinary, and they pleased her more than any performance of perfect understanding could have done.
+
+They kissed again, slower this time. She liked the difference. She liked being able to change the pace without explaining it, and she liked that he checked her face afterward rather than assuming one good moment meant permission for everything that followed. The night remained theirs, full of things they could ask for and things they might still decline. When she finally settled against him, the whole room smelled of warm wood and extinguished lamplight.
+
+"Another secret," she murmured.
+
+"I thought we'd exhausted my supply."
+
+"One more."
+
+He considered. "I kept looking at the north path tonight."
+
+She raised her head. "You knew I'd come?"
+
+"No. That's why I kept looking."
+
+Something in her chest tightened, but not unpleasantly. She couldn't remember the last time somebody had admitted to hoping she'd arrive without making her feel guilty for the hours she hadn't been there.
+
+"I nearly went home," she said.
+
+"I know."
+
+"No, you don't."
+
+"I know you could have. I'm glad you didn't."
+
+She looked at the darkened window. The decision was still hers, made and remade in every small thing she chose to say. She wanted to keep the strange freedom of that. She wanted him, too, even after the first fierce excitement of the evening had changed into something quieter.
+
+"So am I," she said.
+
+Rhys drew the blanket over her shoulder. There was a long pause, filled only by the occasional click of the stove and the wind coming through the pines. Then he said, "For the record, you were the first person I looked for at the range today."
+
+"You were the first person I criticized."
+
+"Romantic."
+
+"I'm giving you everything I've got."
+
+He caught her smiling before she could hide it. She kissed him to stop the commentary, and this time the kiss felt less like crossing a threshold than finding out how comfortable she might become on the other side of it.
+
+
+
 ---
 
 She woke at four the way she always did, and for once in her life she did not get up.
