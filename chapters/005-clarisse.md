@@ -1,12 +1,12 @@
 ## Chapter 5: Clarisse
 
-Three weeks at Camp Half-Blood passed before Percy grasped the truth about Clarisse.
+Three weeks after arriving at Camp Half-Blood, Percy went on border patrol with Clarisse and discovered what she did with her hands when she wasn't holding a sword.
 
 Not the surface truth — the warrior's mask she wore for the world, all sharp edges and refusal to flinch. Something deeper. Something she handed him on border patrol, perched on a sun-warmed rock and shaving curls off a wooden panther while October light slid across the sky.
 
 The patrol trail smelled of pine pitch and crushed thyme. Below them Camp murmured — distant bronze on bronze from the arena, a conch call from the beach, smoke from the forges threading sideways in the breeze. Percy had walked this route a dozen times, but that afternoon the light lingered longer on the ridgeline, gilding the strawberry fields, and Clarisse's knife made a steady shhk-shhk against the grain.
 
-Underneath the armor, Clarisse had reasons to be afraid.
+Clarisse was carving the panther for Silena, although she wouldn't admit it until Percy guessed.
 
 Not of monsters. Not of dying. Of being forgotten.
 
@@ -78,13 +78,17 @@ Laughter burst out of her — genuine, startled free. "You're an idiot, Jackson.
 
 Still, she kept smiling, and the smile remade her face. Through a crack in the warrior's mask Percy glimpsed the girl beneath. Scared. Lonely. Hungry to be seen. Pine sap and sawdust scented the air between them.
 
-Thirteen, maybe — the same age he had been when he first stumbled into camp in his original life. Too young for the load, too practiced at burying the soft parts under competence, because the alternative hurt too much to face head-on.
+Thirteen, maybe — young enough that she shouldn't have been responsible for keeping an entire cabin safe. Too young for the load, too practiced at burying the soft parts under competence, because the alternative hurt too much to face head-on.
 
 "Clarisse," he said. "You're not invisible. I see you. Annabeth sees you. Whatever's bearing down on us — you have people now. People who won't forget."
 
 She glanced toward the treeline, blinking fast. "Don't pledge what you can't deliver, Jackson."
 
-"Already broke one pledge, remember?" He tapped his sternum. "I shouldn't even be here. Twelve years old with seventeen-year-old memories, dropped into a world that isn't mine. I can't predict what's next either. But I'm not walking away from the people I love without a fight. You're one of them. So yes. I can hold to that one."
+"Then I won't promise forever," he said. "I'll promise I'll be here for drills tomorrow. If I don't show up, you can come drag me out of bed."
+
+Clarisse turned the panther over in her hand. "That's not much of a promise."
+
+"It's one I can keep."
 
 Quiet again, pine needles ticking against rock. Then she rose, slid the unfinished panther into her belt, and extended her hand.
 
