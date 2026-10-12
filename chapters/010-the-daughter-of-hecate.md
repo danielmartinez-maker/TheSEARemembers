@@ -128,6 +128,111 @@ He thought of Annabeth sitting on the dusty attic floor, her hand shaking over t
 
 "It may. We prepare because it may, not because we've solved the person behind it."
 
+Zoe laid three tracing sheets on top of the maintenance plan. She had marked the northern column on each but used different colors for the routes that ran beneath the Hall.
+
+"What am I looking for?" Percy asked.
+
+"Tell me what changes between the first and the third sheet."
+
+He leaned forward. The first showed a drain leading outside the western wall. The second had a narrower channel branching toward the center. On the third, a protective inscription sat over the junction, drawn with the hooked strokes he'd seen in the attic.
+
+"The drain is still there," he said, "but somebody built over the place where the channels meet."
+
+"That's what the drawings suggest. We need to know whether the work was actually done that way." Zoe put her finger against the center of the sheet. "If the new ward was installed above an existing one, the later layer might interfere with a function the builders didn't understand. It might be an error. It might be deliberate. The failure still has to be repaired."
+
+She asked him to take the top page away. He did, exposing the older survey.
+
+"Now find the safest access to the original channel, without entering the Hall."
+
+Percy traced the boundary of the building with his eyes. The western side had a narrow run of stone between the foundation and the hill. He knew it flooded during heavy rain because he'd helped keep the water off the lower path. There was a maintenance hatch near the wall, but the note beside it was partly obscured by a stain.
+
+"Here," he said. "If the hatch still opens, the crew can inspect the drain from the outside."
+
+"Good. What would you want them to check before they open it?"
+
+"Whether the water's moving, whether anything inside is carrying a charge, and whether the hatch itself is part of the protection."
+
+Zoe nodded. "That's what I told Chiron."
+
+"You already told him?"
+
+"This morning. I wanted to know whether you'd arrive at the same question without me giving you the answer."
+
+Percy sat back. "You could have just asked if I was paying attention."
+
+"I did. You gave me three answers."
+
+She smiled briefly, and he found himself smiling back. Zoe had been so careful with the frightening parts of the investigation that he'd begun to forget she enjoyed a problem even when it wasn't dangerous.
+
+A Hephaestus camper named Mara came through the library doors carrying a wooden sample box. Zoe waved her over and made room at the table. Mara put down three bolts, each tagged with a date and the name of the workshop that had inspected it.
+
+"These aren't from the Hall," she said before Percy could ask. "They're unused stock from the same order. The smithy checked them for cracks and heat damage. They're ordinary bronze fittings."
+
+Zoe examined the tags. "And the bolts removed from the Hall?"
+
+"Still under Chiron's seal. Nobody's letting me cut them open until the protection team is certain they won't react."
+
+Percy asked, "Why would an ordinary bolt react?"
+
+"It might not," Mara replied. "But it's been holding a piece of a magical structure together for three years. I can't promise the metal is ordinary anymore because the paperwork says it started that way."
+
+Zoe pointed at her. "That is the correct answer."
+
+Mara looked at Percy. "She made me repeat it twice before she let me take the samples out of storage."
+
+"Only because you kept saying 'probably safe,'" Zoe said.
+
+"I was describing a range of possibilities."
+
+"You were hoping you'd be allowed to hurry."
+
+Mara chose not to dispute that. She handed Zoe a list of the inspection team's requirements: dry tools, a grounding frame provided by the forge, protective screens around the access hatch, and a clear route to the infirmary in case someone was hurt.
+
+Percy read the list. "This is what happens when you let people who know what they're doing make the plan."
+
+"You sound disappointed," Mara said.
+
+"I'm mostly impressed they can get everybody to agree on the same list."
+
+"They haven't," Zoe said. "The Hall custodian still thinks we're overreacting. He wants the exhibit reopened before the festival preparations."
+
+"Which festival?" Percy asked.
+
+"The one his budget depends on," Mara said. "Every year the Hall hosts visiting patrons. If it stays closed, he has to explain why his repairs haven't worked."
+
+Percy considered the unsigned transfer receipt Nico had shown them. There were good reasons to want the Hall open that had nothing to do with secret prophecies. Embarrassment, money, habit, pride. None of those made a person innocent or guilty. They did make the investigation more complicated than accusing somebody whose handwriting looked strange.
+
+Zoe asked Mara whether the custodian had authorized the new fittings three years ago.
+
+"That's the problem," Mara answered. "He signed a receipt acknowledging delivery, but the installation record has a different seal. Nobody knows who actually supervised the work."
+
+"Can you find the workers?" Percy asked.
+
+"Some have left camp. One's in New York. Another was a temporary hire who gave a name the stores keeper doesn't recognize. We're checking. Until then, we don't put a suspect's face on a missing signature."
+
+Mara took back the sample box. She had to return the bolts before noon, and the labels were too important to leave in a room full of curious campers. Zoe promised to send Chiron their revised sketch of the drainage junction.
+
+When Mara left, Percy looked at the three sheets again. The drawings were ordinary enough that he could imagine bringing them to a mortal building inspector. The danger lay in the gap between what they knew about the structure and what the structure might do when the eclipse changed the conditions around it.
+
+"Is there anything we can actually help with?" he asked.
+
+"Two things. First, make sure the route maps at the pavilion still match the locations of the barriers. Second, stop passing around conclusions that aren't supported by the measurements."
+
+"The first is easy."
+
+"The second isn't impossible."
+
+He thought about the expression on Thalia's face when he'd looked at her as though she were hiding something. Zoe had not named her. She hadn't needed to.
+
+"I'll try," he said.
+
+"That isn't a result."
+
+"It's the only promise I can give before I've done the work."
+
+She accepted it. He spent the next half hour helping her label the diagrams, then copied the maintenance hatch location onto a public map for the repair crew. It wasn't glamorous work. It would matter if somebody needed to get a person out of the Hall without stepping across the central floor.
+
+
 ---
 
 Percy studied the drawing.
