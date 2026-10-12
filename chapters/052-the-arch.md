@@ -186,6 +186,94 @@ She tried to grin. It did not quite work.
 
 ---
 
+In the security line, Annabeth discovered that being prepared was different from feeling prepared.
+
+She had copied the emergency stair locations into her notebook. She knew the tram ride would take only a few minutes. The visitors ahead of them were discussing the view, not the possibility of being trapped in the top of the Arch with a monster that breathed fire. None of that stopped her fingers from tightening around the edges of her ticket.
+
+Percy noticed because he'd been watching her hand instead of the security guard.
+
+"Do you want to go back?" he asked quietly.
+
+"Not without the record. The courier clerk might still be up there."
+
+"That's not what I asked."
+
+She looked at him. The bright gray of her eyes was the same as it had been in the older life, when she'd known every line of the Parthenon and fought him about whether they should trust strangers. But this time her father was Zeus and her sister was standing alive a few feet ahead. It changed the stakes of old memories Percy had assumed would never change.
+
+"I want to leave," Annabeth said. "And I want to know whether the box went west. Those aren't the same thing."
+
+"We could ask Martin to help us get the record later."
+
+"By the time somebody sorts that out, the solstice might be here."
+
+Percy nodded. He didn't tell her it would work out because they'd survived the Arch once before. The story she remembered hadn't included Thalia or a courier record. Knowing the old ending didn't make him qualified to predict this one.
+
+Thalia returned from speaking to a ranger near the checkpoint.
+
+"Both stairways open. Tour guide says the two tram groups will be separated until we're at the gallery. Emergency alarm means everybody goes down the nearest staircase, no waiting for a friend in the other car."
+
+Grover swallowed. "I'm not very good at not waiting."
+
+"Neither am I," Thalia said. "That's why we're deciding before we hear an alarm."
+
+Annabeth took a pen from her bag and put a small mark on the back of each ticket: an arrow for the staircase they'd use if the others were blocked. It was a minor precaution, almost silly, but Percy understood her need to make the choice while they were still on ordinary ground.
+
+"Can we keep all four of us in one tram?" Percy asked the attendant.
+
+"Not safely," the attendant said. "Each capsule has a limited number of seats. You'll have to split up."
+
+Thalia weighed the options. Annabeth started to say that she and Percy could travel together, then stopped.
+
+"I'd rather you be with Grover," she said to her sister. "If he panics, you know how to calm him."
+
+"I can handle my own panic," Grover said, with dignity.
+
+Thalia smiled. "I know. I'll help anyway."
+
+Percy looked at Annabeth. They would be together for the ride, but what mattered more was whether each pair could reach the stairs when the doors opened. He watched her put the ticket back in her pocket. Her hands were still trembling a little.
+
+"You're allowed to be scared," he said.
+
+"So are you."
+
+"Oh, I am."
+
+"Good. I'd be worried if you weren't."
+
+They passed the checkpoint. The guard glanced at Grover's bag, asked him to show the contents and frowned at the metal colander. Grover told him it was an emergency cooking utensil, which was at least one of its theoretical uses. The guard allowed it after making sure there was nothing sharp attached to the strap. Thalia's spear appeared to the mortal eye as a walking stick and the Mist held, although Percy could tell from her expression that she disliked depending on it.
+
+They reached the waiting area and found a map on the wall showing the layout of the upper observation gallery. Annabeth counted the windows and marked the location of the stairs. Thalia traced the narrowest parts of the curve with one finger, then stopped at the section where Annabeth remembered the Chimera breaking through.
+
+"If it's there," Thalia said, "we go back down. We're not here to prove we're stronger."
+
+"Right," Percy answered.
+
+Thalia looked at him. "I mean it."
+
+"So do I."
+
+"You don't always."
+
+That stung. Percy wanted to point out how many times he'd saved somebody by ignoring an instruction to run. He also remembered how often the people he loved had been left paying for that choice after the fight ended.
+
+"You're right," he said finally. "I don't always."
+
+Thalia seemed surprised he hadn't argued. She folded the map again.
+
+"Then listen to Annabeth. She has a good reason to hate this place."
+
+Annabeth looked away, embarrassed by the public reference to a memory only she and Percy had experienced. Thalia didn't apologize for taking it seriously. She had no recollection of dying beneath the pine tree either, but she'd learned that her sister's impossible memories could hurt as badly as ordinary ones.
+
+The doors to the tram opened.
+
+Percy saw the little egg-shaped compartment waiting in the shaft and felt his stomach drop. He could still turn back. They all could. The courier clue was uncertain, and the warning in Annabeth's eyes was real.
+
+He stepped inside only after checking that she was coming by choice. She gave him a small nod and followed, the emergency ticket folded tightly in her palm.
+
+Their plan might fail. It was not a prophecy. It was something the four of them had decided together.
+
+---
+
 The tram was worse than Percy expected.
 
 They split into two egg cars. Thalia took Grover in the first, because Grover was already bleating. Percy rode with Annabeth in the second, knees jammed, watching concrete slide past.
