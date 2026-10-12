@@ -290,6 +290,180 @@ Nico tapped the ledger. "The Hall custodian might have those notes."
 
 She gave him a flat look. "You are enjoying this far too much."
 
+While Nico copied the last catalog number, a sound came from the yard outside: a sharp metallic clatter followed by several voices speaking at once. Percy went to the doorway. One of the replacement racks had toppled against the fence, scattering practice shields into the dirt. A boy from the Hermes cabin was standing with both hands raised, as though the rack might accuse him personally.
+
+Nobody was hurt. Percy established that before he went to help lift the frame.
+
+A younger girl was collecting the shields. She kept looking at the closed doors of Tempest Hall.
+
+"Don't put them back against that wall," she told him.
+
+"The rack wasn't attached to the wall," Percy said. "That seems to be the problem."
+
+"That's where the lightning came through."
+
+"The lightning didn't come through the practice-yard wall."
+
+"My brother said the Hall's cursed. He said anybody who goes near the north side gets marked."
+
+Percy set the frame down. The brackets had been fastened through rotten timber, and one screw had pulled out with a damp curl of wood still caught in its threads. That explained the fallen rack much better than a curse. He showed her the screw.
+
+"See? This is what happens when someone puts a heavy rack on a board that needed replacing last year."
+
+She studied it without appearing convinced. "So it's safe?"
+
+"Not until we fix it."
+
+The answer seemed to surprise her. Percy understood why. She had probably been getting a mixture of assurances that everything was fine and warnings that she ought to stay away from half the camp. Neither told her what the adults were actually doing.
+
+He asked the Hermes boy to find someone from the repair crew. The boy hurried off. The girl remained beside him, turning a loose strap over in her hands.
+
+"Was Annabeth the reason the storm got so bad?" she asked.
+
+Percy went still for an instant. "Why would you think that?"
+
+"Somebody said she was making lightning inside. I heard she burned the doors."
+
+"She was helping another camper. The ward was already damaged, and the repair team hasn't finished working out what happened."
+
+"She's Zeus's daughter, though."
+
+"She is."
+
+The girl waited, expecting a more satisfying answer. Percy could have told her what Annabeth had done during storms in another lifetime, how many people she'd rescued and how often she'd walked into danger without asking whether she could manage it. None of that belonged to this girl's understanding of her camp. It would only turn one rumor into a different one.
+
+"Being Zeus's daughter doesn't mean every lightning strike is hers," he said. "And if you hear someone blaming a person before the inspection's done, you can ask where they got their facts."
+
+The girl gave the damaged screw another look.
+
+"Can I help fix this?"
+
+"If the instructor agrees. We need another bracket, and you'd be useful holding the board steady."
+
+When the repair camper arrived, he found them sitting beside a tidy stack of shields with the failed screws laid out on a scrap of cloth. Percy explained what they'd seen. The camper checked the back of the rack and confirmed that the wood had split well before the storm.
+
+"We'll move the racks to the dry shed until we replace the uprights," he said. "Could you carry those?"
+
+The younger girl took two shields and marched toward the shed before anyone could stop her.
+
+Percy followed with the rest, thinking about how fast fear had crossed the camp. A rumor about Annabeth had taken less time to reach a child than the repair team's account of the damaged ward. He wished the second could catch up with the first.
+
+Silena was waiting at the stores desk when he came back. She had a bundle of notices in one hand and an expression that suggested he was about to be assigned more work.
+
+"You're supposed to bring the revised tool list," she said.
+
+"Nobody gave me a revised tool list."
+
+"I know. That was the problem I was about to tell you about. The requests are coming in faster than anyone can check what's already been issued."
+
+She spread the notices on the counter. Each came from a different cabin. Someone needed spare lantern oil for patrol. The archery team wanted new targets after the flood. The dining pavilion had requested heavy cloth for the tables near the leaking roof. All of them were reasonable demands. Taken together, they were more than the stores could supply that afternoon.
+
+"I thought Chiron had put you on the Hall orders," Percy said.
+
+"He's asked me to keep track of them. That doesn't mean camp stops needing everything else." She slid a page toward him. "Look at the quantities. Half these people are guessing because they haven't checked what they already own."
+
+"Maybe you should tell them."
+
+"I have. Three times. Then two counselors told me their requests were special, and a third asked whether I could simply do the inventory for him."
+
+"Could you?"
+
+Silena stared at him until he realized how badly he'd phrased the question.
+
+"I mean, you probably could. I wasn't saying you should."
+
+"Thank you for the distinction."
+
+She sat on the stool behind the counter and took off the pencil she'd tucked into her hair. There was a smear of graphite behind one ear. For once, she looked less interested in making the situation pleasant than in making somebody else understand how much work was hidden in a well-stocked room.
+
+"I like knowing how stores works," she said. "It's useful, and when I make a mistake I can usually find it before someone goes without something important. But every time people see that I'm good at it, they give me another person's job. Yesterday one of the senior campers asked me to put his equipment away because I 'always know where everything goes.' I spent an hour finding space for gear he could have carried himself."
+
+Percy considered the requests. "Could we put the quantities on the noticeboard? What we have, what we don't, and who's responsible for checking their cabin before asking for more?"
+
+"That would help. But I don't want it to turn into a public argument about who's taking too much. The cabins already think the Hall repairs are stealing their supplies."
+
+"What if we give everybody a form to return with a count instead of posting their orders? You can publish what stores can issue, and the counselors have to do the checking."
+
+Silena turned the idea over. "You're volunteering to help with the count?"
+
+"For as long as you need me. Except I have a rack to finish."
+
+"An hour," she decided. "We'll make the forms. You can distribute them while I'm at the delivery inspection. But I want the counselors' signatures on the requests before they come back. They need to own what they ask for."
+
+They went to work. Percy ruled columns on spare paper while Silena dictated the categories. The task was dull in the way that made a little concentration matter. A misplaced number could send the wrong kind of rope to a patrol or leave a cabin waiting for blankets it had already been issued. He wrote slowly, making sure the cramped lines could be read.
+
+Clarisse arrived carrying the damaged rack brackets. She looked at the forms and then at Percy.
+
+"How many punishments do you have now?"
+
+"Just the one. Apparently repairing things is a transferable skill."
+
+"You were supposed to finish the rack before dinner."
+
+"I will. I'm helping Silena make sure nobody takes every spare screw in camp first."
+
+Clarisse glanced at the notices, then took the form meant for Cabin Three. "We used two rolls of binding tape this week, and the spare buckles are almost gone. I'll count the rest."
+
+"You actually read the form," Silena said.
+
+"I can read."
+
+"Some of the other counselors seem to think that's optional."
+
+Clarisse's mouth twitched. She studied a request from the Ares cabin, with a quantity circled three times in red.
+
+"They want how many practice spearheads?"
+
+"Twice what stores has," Silena said. "I sent it back."
+
+"Good. They'll keep breaking them if you keep replacing them." Clarisse set down the bracket. "I can ask their counselor what happened to the last shipment. He might tell me something honest if he knows I'm going to check the yard."
+
+Silena looked doubtful. "Ask him without turning it into a challenge."
+
+"You're taking away all the enjoyable parts of my afternoon."
+
+"Yes."
+
+Clarisse collected the list and went. Percy watched her go, struck again by how differently his sisters dealt with the same problem. Silena made a system that would survive a bad mood. Clarisse went to the place where the bad decision had happened and made sure someone answered for it. Either one could make a day harder when she got impatient. They also needed each other.
+
+By the time the forms were finished, there were fewer complaints at the counter and a neat pile of signed requests ready for the next supply run. Percy delivered the copies to the cabins, stopping to explain to the girl from the practice yard why the repair team wanted the shield racks moved.
+
+When he returned, Silena was closing a ledger.
+
+"Your letter went out this morning," she said without looking up. "The sea pouch was sealed before the messenger left."
+
+"I saw."
+
+"Good. I thought you'd ask me to check a fourth time."
+
+Percy leaned against the counter. "I might still ask tomorrow."
+
+"Then I'll tell you the same thing."
+
+He smiled. She didn't smile back immediately.
+
+"Percy, you don't have to fix every frightened person's opinion of Annabeth on your own," she said. "I heard what happened by the rack. I can make sure the counselors know the repair team's actual finding."
+
+"I wasn't trying to start a fight."
+
+"I know. But one of the reasons people listen to you is that you'll talk to them like they're worth answering. Don't lose that by arguing with every rumor you hear."
+
+He looked toward the path where the younger campers had disappeared. "I hate that they're scared of her."
+
+"Then help us give them something reliable to be less frightened of. And let Annabeth answer for herself when she wants to."
+
+Percy nodded. He wanted to tell Annabeth about the girl, but not as a problem he'd already solved for her. He could ask whether she wanted to speak to the younger campers during the next safety demonstration. She might say no. That would be her decision.
+
+Silena handed him a final sheet. "Take this to the workshop. It's the list of tools that actually came back from the Hall."
+
+"One more errand?"
+
+"Consider it the price of having volunteered so enthusiastically."
+
+"I was tricked."
+
+"You were useful," she said. "There's a difference."
+
 They took their questions to the Hall office. The custodian was unavailable, but the assistant promised to forward their request and showed them which catalog numbers referred to the original construction survey. It was a small success. The assistant also explained that the older transcripts were being checked for water damage and that access would be restricted until the work was finished.
 
 Percy wrote down the dates.
