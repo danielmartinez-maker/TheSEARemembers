@@ -543,6 +543,144 @@ Annabeth eyed her. "Thalia. The Zeus cabin does not have a kitchen."
 
 ---
 
+Annabeth had read Beryl's letter once, and then twice more after Thalia admitted she'd kept it through lunch. Each reading left her feeling differently. The first time she was angry at the delay. The second time she wanted to find the blue sobriety chip their mother mentioned, as though looking at it would make the thirty-eight days more reliable. The third time she noticed how much of the letter was about promises Beryl couldn't yet keep.
+
+"I want to answer," she said.
+
+Thalia was sitting on her bed with the envelope in her lap. "You can."
+
+"That wasn't permission I was asking for."
+
+"I know. I just don't know how to help."
+
+Annabeth took the paper from the nightstand. There were things she could write honestly. Camp was safe. She was reading books. She had friends. She was getting better at building models and worse at pretending not to be interested in other people's architectural problems. But Beryl had written about a childhood Annabeth couldn't remember, and the idea of replying as though everything were normal made her palms sweat.
+
+"Will she think I'm lying if I say I don't remember the bracelets?" she asked.
+
+"She might think she has to remind you."
+
+"That's not the same thing."
+
+"No."
+
+Thalia rubbed a hand over the envelope. She had been doing that all evening, folding it, smoothing the fold and turning it over without opening it again. Annabeth wondered if she was frightened of the contents or the mere fact that a new letter might come tomorrow.
+
+"I don't want to tell her I remember things I don't," Annabeth said. "And I don't want to make her feel as if she never existed to me."
+
+"She existed. She still does. You're not responsible for making every page of her memories match yours."
+
+Annabeth looked at her sister. She wanted to believe Thalia could say that about their own childhood as well. Sometimes Thalia did, and sometimes she looked at Annabeth as though she had been robbed of something. Neither reaction was easy to live with.
+
+"Can I write that I'm glad she has a job?" Annabeth asked.
+
+"Yes."
+
+"And that she should keep sending letters here, not make plans for visits until Chiron says it's safe?"
+
+Thalia nodded. "That's exactly what I was thinking."
+
+"You can tell her that too."
+
+"I've tried writing it twice. It keeps coming out sounding like I'm accusing her."
+
+"Maybe you are."
+
+Thalia put down the envelope. "Maybe I have reasons."
+
+"You do. I'm not saying you shouldn't. But if the only way she ever hears from us is after you manage to write a letter without sounding angry, she may never hear from us at all."
+
+The words were sharper than Annabeth intended. Thalia drew breath to answer, then stopped.
+
+"You're right about the delay," she said finally. "I'm not ready to tell her everything. I can write that much."
+
+Annabeth fetched two clean sheets from her desk. Thalia usually preferred to use whatever paper was nearest, even if it had a drill schedule on the back, but Annabeth wanted a reply that didn't look like an afterthought. She placed one sheet on each side of the desk and returned to her chair.
+
+For a while only the scratch of their pencils filled the room. Thalia crossed out half her opening sentence and began again. Annabeth made a little sketch of the cabin beside her name, then realized Beryl might not understand why it was built to look like a temple. She labeled the beds and the table instead.
+
+Thalia glanced at it. "You drew my side with all the clothes on the floor."
+
+"That was accurate before we cleaned."
+
+"You could make it flattering."
+
+"I could label the laundry basket as a permanent art installation."
+
+"That's more accurate."
+
+Annabeth grinned, then looked back at the letter. She had begun by writing *Dear Mom* and stared at the words for several minutes. It was an honest way to address the woman who'd written to her. She didn't need it to imply that she remembered every year of the woman's life.
+
+*I'm glad you sent the letter,* she wrote. *I'm glad you're okay right now. I would like more letters. It helps when you tell us ordinary things, like what you did at work or what you ate for dinner. I'm trying to learn more about our family. Sometimes I don't remember things the way Thalia does, but I do want to hear them.*
+
+She read the paragraph to Thalia, expecting concern.
+
+"That's good," her sister said.
+
+"Too strange?"
+
+"It's strange because it's true. That's not a problem."
+
+Annabeth continued. She wrote about the Parthenon model on her windowsill, the repairs they'd helped make after the eclipse and a book she thought Beryl might enjoy. She didn't mention the Oracle, the hidden ward or the memory of being Athena's daughter. The latter would require a conversation she wasn't prepared to have even with the person sleeping in the next bed.
+
+Thalia took longer. When she finally pushed her sheet across, Annabeth read it only because Thalia asked her to.
+
+*I was scared when I got your letter. I want you to keep doing the things that help you stay sober. I'm glad you have work and someone you can talk to. We are safe at camp. Please don't promise us a visit until it has been arranged with Chiron. I know that sounds strict, but I need to know what is happening before anyone comes for us.*
+
+Annabeth looked up. "It's not strict."
+
+"It sounds like I'm setting rules for Mom."
+
+"You are. You were setting rules for both of us when we were little. You didn't get to choose that."
+
+Thalia looked at the words for a long moment.
+
+"That's what makes me angry," she said.
+
+Annabeth didn't offer an argument. She had no memory of the worst nights Thalia described, but she had begun to understand that her sister's protectiveness was not only a habit. It came from being the one person who had to decide what to do when nobody else could be counted on.
+
+"Then keep the sentence," Annabeth said.
+
+They signed their pages separately. Annabeth suggested sending both in the same envelope to save postage, but Thalia wanted each letter to be its own choice. They agreed to ask the steward whether the mail could carry two envelopes to one address without opening either.
+
+"What if she replies to only one?" Annabeth asked.
+
+"Then we decide what to do when it happens."
+
+"I don't want you reading mine first."
+
+Thalia flinched, then nodded. "All right."
+
+"And I won't read yours."
+
+"Good."
+
+The rule was simple enough to feel almost formal. Both knew that Beryl might write another letter full of careless promises and affectionate memories that turned painful as soon as they tried to compare them. A rule about envelopes wouldn't solve that. But it gave Annabeth a way to have a relationship with her mother without requiring Thalia to conduct every conversation on her behalf.
+
+Thalia put the letters in separate envelopes. She left the address blank for the steward to verify in the morning. When the cabin settled, Annabeth realized she was hungry. She had eaten little at dinner, too angry to notice. The smell of someone making popcorn in the next cabin drifted through the open window.
+
+"Can we find something to eat?" she asked.
+
+Thalia looked at the empty shelf above their desk. "We have noodles, I think."
+
+"We don't have a kitchen."
+
+"We have hot water."
+
+"That's not a complete cooking plan."
+
+Thalia stood up with a determination Annabeth recognized. It was the expression her sister wore when she wanted to make the immediate problem small enough to defeat.
+
+"Then it's a good thing I'm excellent at improvising."
+
+"You are not excellent at cooking."
+
+"How quickly you turn on your own family."
+
+Annabeth followed her to the small storage box, still worried about the letters but relieved they no longer had to decide everything before midnight.
+
+
+
+---
+
 The cooking disaster took exactly eleven minutes.
 
 It started reasonably: Thalia produced an electric kettle, two packets of instant ramen, and a bag of marshmallows she'd stolen from the Hermes cabin. Annabeth contributed the oatmeal cookies from behind the blankets and a jar of peanut butter.
