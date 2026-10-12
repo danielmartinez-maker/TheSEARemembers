@@ -420,6 +420,211 @@ He folded the list and tucked it under his arm. "The first sunny afternoon all w
 
 He laughed and went inside to collect the chairs. She watched him for a moment and then followed, because he was right about one thing: somebody had to put them out.
 
+
+By Saturday evening the sky had cleared completely. The temperature had fallen with it, and the windows of the north cabin were beginning to frost along the edges when Thalia reached the porch.
+
+Rhys was outside carrying a bucket of ashes toward the fire pit. He spotted her from halfway down the path.
+
+"You're back."
+
+"I'm allowed to walk along a public road."
+
+"Is that what this is?"
+
+"The north road is public to campers."
+
+"Very legalistic."
+
+She watched him empty the ashes, then return with the bucket. Her heel was better than it had been, and she'd stopped needing to plan each step. She still resented the wrap. It made her feel as though her own body had joined the list of people who enjoyed telling her what to do.
+
+Rhys set the bucket beside the door. "Want to come in?"
+
+She wanted that very much. She had spent a significant portion of the day trying not to picture this room: the narrow cot, the spare blanket, the workbench he always left cluttered no matter how often he cleared it. The picture arrived anyway, especially during the moments when her attention was supposed to be elsewhere.
+
+"Maybe," she said.
+
+He raised an eyebrow. "You're getting very committed to that word."
+
+"I like a versatile answer."
+
+"Does it mean yes?"
+
+"Not always."
+
+"Then I'll wait."
+
+He leaned against the doorframe. She moved close enough to stand beside him, shoulder to shoulder, facing the black path down toward the lake. For a while neither spoke. The cold made the tips of her ears sting. Rhys had left his shirt collar open despite the temperature, which was a foolish choice that distracted her more than she'd have liked.
+
+"I have a question," he said.
+
+"You're full of them."
+
+"Do you actually enjoy making me guess?"
+
+Thalia stared into the dark. She could easily make a joke. This time she was too interested in the answer he might give if she didn't.
+
+"Sometimes," she said. "Sometimes I'm waiting to see if you'll decide you want me here badly enough to say it."
+
+"I've said it."
+
+"Once."
+
+"More than once."
+
+"I might have missed a few."
+
+He turned to face her. "I want you here, Thalia. Not because you need a reason to visit. Not because I need help with a bow. I like it when you come around, even if you're only stopping by to insult my coffee."
+
+"Your coffee deserves it."
+
+"Absolutely."
+
+"Then why ask the question?"
+
+"Because if you don't want to come in, I don't want you thinking you have to. And if you do, I'd rather you tell me than spend an hour making both of us guess."
+
+She looked at him. There it was again, that irritating clarity of his. Her sister could be equally direct, but Annabeth's directness had an entirely different edge. Rhys spoke as though the answer genuinely belonged to her. It made her want to say things she usually kept to herself.
+
+"I like being here," she said.
+
+"Good."
+
+"And I like knowing you want me."
+
+"Also good."
+
+"And I don't know what I'm doing half the time."
+
+"That makes two of us."
+
+She turned toward him. "You don't act like it."
+
+"Should I start?"
+
+"Maybe. For variety."
+
+He stepped closer and paused. She put a hand against his chest, feeling the warmth through his shirt. His heart was beating quickly enough that she knew he'd been telling the truth.
+
+"I can hear you thinking," he said.
+
+"Then you're in trouble."
+
+"Probably."
+
+She drew him down to kiss her. They were on the porch, in a place where anybody turning off the north path might see them. For a moment she felt the old instinct to check whether anyone was watching. She ignored it, but she was not entirely comfortable with the ignoring. She didn't want a performance. She wanted him.
+
+Rhys seemed to understand the difference. He kissed her slowly, one hand resting near her waist, and when she drew back he didn't pull her close again to prove a point.
+
+"Inside?" he asked.
+
+She looked at the dark path. "For a little while."
+
+He opened the door. The cabin was warmer than the porch, and she was relieved to be able to take off her coat. He hung it beside his, then went to turn up the lamp.
+
+"Leave it," she said.
+
+He stopped. "Too bright?"
+
+"Not bright enough."
+
+He turned the wick until the room filled with a warmer light. She watched him do it and recognized that she had another answer for the question she hadn't been brave enough to ask earlier. She wanted him to look at her. She wanted to see him looking, and she wanted the choice to be hers.
+
+He came back toward her. She caught the front of his shirt before he could say anything. Their kiss began with a smile and became serious before either of them had the chance to make another joke. When he drew back she followed, annoyed at the small distance.
+
+"You're impatient," he said.
+
+"You've only just noticed?"
+
+"No. I'm starting to enjoy it."
+
+She kissed him again, and this time she took her time. She hadn't known how much she'd like learning the expressions he made when he was trying not to laugh, or the way his confidence could give way to something unexpectedly tentative when he asked for an answer and actually waited for it.
+
+They settled on the cot with a blanket over their knees. He placed the second pillow by her injured foot before she had to ask. For once she didn't make a comment about it. She sat facing him, their knees touching, and watched the little gold circle of lamplight on the sleeve of his shirt.
+
+"Is this awkward?" she asked.
+
+"Which part?"
+
+"The part where I'm sitting here trying to think of something interesting to say."
+
+"I'm finding it fascinating."
+
+"You're impossible."
+
+"Sometimes we could just sit here."
+
+"That sounds dangerously domestic."
+
+"Don't tell anyone."
+
+She laughed and leaned into him. He put an arm around her, and the ease of it surprised her. She'd been so focused on the moments when they kissed that she'd forgotten what it might feel like to simply stay. To talk about nothing for a while. To lean on someone because she wanted to.
+
+He rested his cheek against her hair. "You're quiet."
+
+"I'm thinking."
+
+"Should I be worried?"
+
+"Not yet."
+
+They sat together as the stove cooled. After a while he asked if she wanted more tea. She shook her head. He brushed a strand of hair back from her face, and she turned toward him and kissed him again. The kiss made her forget what she'd been about to say, which was either a sign of disaster or a genuine improvement in her evening.
+
+When she pulled away, he looked as if he wanted to ask another question. She forestalled it.
+
+"I like this," she said.
+
+He smiled. "I was going to say the same thing."
+
+"Don't get used to agreeing with me."
+
+"I'll make a special effort."
+
+She traced the line of his jaw with her thumb. He was not a prize she'd won by being difficult, and she was not a problem for him to solve by being patient. They were two people who had made a choice and were still discovering how to live with it. The fact that they wanted each other made the learning rather more enjoyable.
+
+At nine, Thalia checked the clock and groaned.
+
+"What's wrong?"
+
+"I told Annabeth I'd be back before she went to sleep."
+
+"Did you tell her where you were going?"
+
+"No."
+
+"Will she be angry?"
+
+"Probably not. She'll be unbearably reasonable, which is worse."
+
+Rhys rose to fetch her coat. She caught his hand before he could reach the hook.
+
+"Tomorrow," she said.
+
+"What about it?"
+
+She thought about the forecast, the brief window of sunlight, the work she could leave for another day. There was no reason she couldn't choose an afternoon for herself.
+
+"I might come by."
+
+He smiled but didn't press. "I'd like that."
+
+"I know."
+
+"Would you like me to pretend to be surprised?"
+
+"At least make an effort."
+
+She stood and pulled on the coat. He opened the door, and the cold air came in around their feet. She turned and kissed him once, then again because the first kiss had been unnecessarily short.
+
+"Good night, Calder."
+
+"Good night, Grace."
+
+She went down the path slowly, taking care on the frosty gravel. The lamps beyond the cedar brake were burning. She could feel the warmth of his hands long after she'd left the porch, and by the time she reached the fork she had made up her mind about Sunday.
+
+She was going to surprise him.
+
+
+
 She had tried to keep her mind on anything except the last time she had been alone with him, and the effort had made her disagreeable all morning.
 
 There were details she hadn't meant to remember so clearly. Not the heroic ones people would tell around a campfire. The way he'd asked her to move a pile of bowstrings because she'd put her elbow on them without thinking. The little sound of recognition when she'd laughed at something he said instead of finding an argument. How different it had felt to stand beside him without a target between them, with neither a score nor an audience to tell her what she was supposed to do next.
