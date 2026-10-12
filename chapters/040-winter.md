@@ -1,6 +1,5 @@
 ## Chapter 40: Winter
 
-### Part 1 - Annabeth: The Cold Comes Sideways
 
 Annabeth Grace woke up cold.
 
@@ -108,7 +107,6 @@ When she opened her eyes, Thalia was smirking at her.
 
 ---
 
-### Part 2 - Percy: Hot Chocolate Wars, Day One
 
 The dining pavilion had never been this loud at breakfast.
 
@@ -214,7 +212,6 @@ Percy looked around his tiny, too-cold cabin — at Grover in his blanket nest, 
 
 ---
 
-### Part 3 - Silena: Decorations and Read-Aloud
 
 Silena Beauregard believed, deeply and sincerely, that no emergency was so great it could not be improved by decorations.
 
@@ -314,7 +311,6 @@ Outside, the strange glittering snow fell on, but in here, with paper flakes and
 
 ---
 
-### Part 4 - Clarisse: The Scarf of Doom
 
 Clarisse La Rue was going to kill this scarf.
 
@@ -394,7 +390,6 @@ For once, no one needed her to be tough. Just to be a sister, making something l
 
 ---
 
-### Part 5 - Annabeth and Thalia: Bunk Talk
 
 By nightfall, the cold had teeth.
 
@@ -494,7 +489,6 @@ Annabeth slept.
 
 ---
 
-### Part 6 - Percy, Grover, and Ella: Stargazing
 
 Percy couldn't sleep.
 
@@ -560,7 +554,6 @@ Percy smiled, pulled the blanket tighter around his friends, and leaned back to 
 
 ---
 
-### Part 7 - Morning: Khione's Joke and the Golden Mug
 
 They woke to screaming.
 
@@ -625,6 +618,3 @@ But that night, winter was just winter. Not a battlefield, not a prophecy, not a
 Just snow, and cocoa, and friends sharing blankets against the cold.
 
 Just home.
-
----
-
