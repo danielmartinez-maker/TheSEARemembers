@@ -660,6 +660,80 @@ She stood, and for a moment he thought she'd walk away. Instead she helped Annab
 
 ---
 
+Zoe stayed at the Hall while the others were escorted toward the infirmary. She wanted to see the exposed coupling before anybody covered it with a cloth and began calling it solved.
+
+Mara knelt beside the portable frame, checking the contacts through a sealed inspection window. The copper strips inside were discolored, but the casing had held. When she looked up, her face was paler than Zoe had ever seen it.
+
+"We got lucky," Mara said.
+
+"We prepared."
+
+"Both. The readings from the training model were close enough to tell us when to stop. They weren't close enough to predict every pulse."
+
+Zoe accepted the correction. They had spent two days telling other campers not to mistake a similar symbol for an identical mechanism. She had nearly done the same thing with the grounding frame because she wanted the afternoon to have a clean result.
+
+She took an empty evidence envelope from her case and held it open while Mara lifted the loosened retaining pin with a pair of insulated tongs. They marked where it had been found and the order in which the fitting had been removed. Chiron had insisted on a chain of custody before anyone began investigating authorship, a practice Zoe understood better now that she could see how easily a cracked piece of metal might become the object of an argument.
+
+"Don't put the black residue in the same envelope," she said.
+
+Mara glanced at the dark stain on the floor. "We don't know what it is."
+
+"Exactly. It could be from the ward, from the floor, or from the tool. Keep it separate until somebody tests it."
+
+They took three samples, photographed the exposed stone with a borrowed Iris-message plate and sketched the positions of the remaining copper fasteners. Each object received a location and a name. There was no satisfying moment when the broken fitting announced which hand had installed it.
+
+The Hall custodian arrived while they were checking the floor. He was an older satyr wearing a formal waistcoat that had been hastily buttoned and a look of injured dignity.
+
+"Has the danger passed?" he asked.
+
+"The active surge has stopped," Zoe said.
+
+"Then can we reopen the western exhibit wing tomorrow? The visitors need somewhere to assemble, and I've had to refund two groups already."
+
+"No," Mara said. "The ward wasn't the only thing damaged. The mosaic has lifted around the column, and we haven't checked the structure beneath it."
+
+"But the roof is standing."
+
+"Yes," Zoe said, "and we'd like it to continue doing so."
+
+The custodian looked displeased. "I've kept this building open for years. We had inspections every season."
+
+Zoe held up the maintenance ledger. "Then those inspections will help us. We need the names of the teams who worked under the northern column and the dates they changed the drainage connections."
+
+"All of that is in the official records."
+
+"Some of the receipts don't have matching installation entries. We need the details before anyone can certify the floor."
+
+He looked at her with an expression she recognized. It was the look adults sometimes gave a child who had stated something technically correct but inconvenient. It made her want to become more cutting than she needed to be.
+
+Instead she handed him the list of missing documents. "If you can get these to the archivist today, we'll have a better chance of understanding what failed. The sooner we know, the sooner somebody qualified can decide whether the building is safe."
+
+The custodian took the list. "I'll speak to Chiron."
+
+"Please do."
+
+When he'd gone, Mara looked at her.
+
+"You were patient."
+
+"Only just."
+
+"That's probably enough."
+
+Zoe finished sealing the envelopes. Chiron returned with the infirmary report and asked her to summarize what remained open. She told him the current had stopped, the isolated component had been recovered without disturbing the surrounding fittings, and the origin of the mark was still unknown. She warned him that the test did not establish a link to the Oracle's bronze strip.
+
+"Good," Chiron said. "And the Hall?"
+
+"Closed until the engineers and ward specialists complete their inspections. We should examine the other junctions before deciding this was an isolated failure."
+
+He signed the evidence log and handed it back. Zoe found that she was shaking a little now that the urgency had passed. She sat down on the safe side of the outer barrier and let Mara finish the tool count. There was no shame in needing a few minutes to collect herself. She had been frightened, and she had made decisions while frightened. Now she had a record of what those decisions had accomplished and what they hadn't.
+
+She thought of Tomas waiting at the pavilion with her cloak. He would want to know whether the dangerous thing had been defeated. She would tell him the part that was true: the surge had ended, and they were still checking the building. Then she would ask whether he'd delivered the cloak as promised.
+
+Small obligations survived the eclipse too.
+
+---
+
 Chiron made them visit the infirmary before he let them discuss the floor.
 
 Thalia's palm needed dressing. Percy had a shallow burn beside his wrist and muscles that shook whenever he reached for something. Annabeth complained of a headache, then stopped complaining when the healer told her that counting the symptoms aloud was useful.
