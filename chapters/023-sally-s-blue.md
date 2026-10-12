@@ -1,6 +1,5 @@
 ## Chapter 23: Sally's Blue
 
-### Percy — The Recipe That Isn't Written Down
 
 Percy didn't remember deciding to do it.
 
@@ -26,11 +25,11 @@ Percy stared at the counter. Someone — probably the harpies who did dishes —
 
 His heart was beating too fast. It was just cookies. It shouldn't have felt like standing at the edge of the canoe lake before a Capture the Flag match.
 
-"It's not a normal recipe," he said. His voice sounded too loud in the tile kitchen. "My mom — Sally — she did everything blue in my original childhood. Blue pancakes. Blue eggs on my birthday. Blue candy. She said Gabe didn't get to tell her blue food didn't exist, so she made it on purpose."
+"It's not a normal recipe," he said. His voice sounded too loud in the tiled kitchen. "My mom was Sally. She died when I was little. I've been trying to make blue cookies the way I think she'd have liked them." He looked at Annabeth for half a second. They both knew there was more he couldn't say to this crowd.
 
 "Why blue?" Tyson asked, swinging his legs where he sat on the counter. He was too big for the counter, really, but nobody was going to tell him that.
 
-Percy shrugged, hands in his hoodie pocket. "When I was little, I asked her. Gabe had been mouthing off, saying blue food wasn't real and she shouldn't bother. So she decided everything special would be blue. To prove him wrong."
+Percy shrugged, hands in his hoodie pocket. "Some people think blue food looks weird," Percy said. "I like the idea of making it anyway. It seemed like something she would have done."
 
 Silena pressed a hand to her chest. "I love her. I've never met her and I love her."
 
@@ -46,7 +45,6 @@ Talking about her still caught him by surprise. He had told them about Sally for
 
 ---
 
-### Annabeth — Measurements Like Architecture
 
 Annabeth Grace believed in blueprints.
 
@@ -128,7 +126,6 @@ Annabeth didn't write that down. She just memorized the way he smiled when he sa
 
 ---
 
-### Silena — The Vanilla Trick and Other Secrets
 
 Silena Beauregard knew a lot about mothers.
 
@@ -160,7 +157,6 @@ Those twelve minutes were the longest twelve minutes of Silena's life, because C
 
 ---
 
-### Clarisse — How to Burn Water (Almost)
 
 Clarisse La Rue did not burn things on purpose.
 
@@ -238,11 +234,10 @@ And just like that, the war ended before it started.
 
 ---
 
-### Thalia — Dough Thief Confessions
 
 Thalia Grace had stolen many things in her sixteen years of life.
 
-She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). She'd stolen Zeus's master bolt — okay, no, she hadn't, but she'd been *accused* in absentia, which should count for street cred.
+She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). Someone had once accused her of stealing something she had never even seen, an accusation she was still irritated by. It did not count as theft, however impressive she found her survival of the argument.
 
 She had never stolen cookie dough quite so blatantly, quite so often, in front of quite so many witnesses, as she did that afternoon.
 
@@ -282,7 +277,6 @@ The kitchen erupted.
 
 ---
 
-### Grover — Official Taste Test
 
 Grover Underwood took his duties seriously.
 
@@ -362,7 +356,6 @@ Clarisse let out a wet laugh. "Damn right."
 
 ---
 
-### Percy — Blue Tongues
 
 By sunset, they'd made nine dozen.
 
@@ -414,6 +407,3 @@ Percy held up his last cookie to the sunset. Still blue.
 "Mom," he whispered, "we did it."
 
 He could picture her in that Manhattan kitchen as clearly as ever: blue walls, chipped blue mug, Sally Jackson humming off-key and adding an extra capful of vanilla to a quiet batch. She wasn't there in this life. But the taste lingered, and the friends laughing below him had learned her recipe, and he could carry that home into the next warm afternoon.
-
----
-
