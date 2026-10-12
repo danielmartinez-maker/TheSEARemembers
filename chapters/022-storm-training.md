@@ -695,7 +695,7 @@ They went to the pavilion. The day's success felt more manageable when Annabeth 
 
 Dinner was chaos, as usual.
 
-Annabeth sat with Cabin One, fielding questions from Milo about sparks ("Can you teach me? Can you? Please?") and fending off Connor Stoll's request to charge his Game Boy ("Absolutely not, you'll melt it and then you'll cry"). Percy sat three tables over with his half-siblings, catching her eye over his meatloaf and mouthing *storm lord* while pointing at his hair, making her snort milk through her nose.
+Annabeth sat with Cabin One, fielding questions from Jason about sparks ("Can you teach me? Can you? Please?") and fending off Connor Stoll's request to charge his Game Boy ("Absolutely not, you'll melt it and then you'll cry"). Percy sat three tables over with his half-siblings, catching her eye over his meatloaf and mouthing *storm lord* while pointing at his hair, making her snort milk through her nose.
 
 Thalia watched it all with a full plate she barely touched. Pride and something tender ached behind her ribs.
 
