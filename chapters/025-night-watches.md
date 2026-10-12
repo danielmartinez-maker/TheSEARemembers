@@ -64,7 +64,6 @@ And so began the week of night watches.
 
 ---
 
-### Night One — Percy
 
 The border at night was a different country.
 
@@ -106,7 +105,7 @@ Percy sat down on the cold stone beside the fire basket and pulled his watch clo
 
 "Yeah," he said. "The day we visited recently, it was... a lot. Everything was supposed to be familiar."
 
-He thought about how to describe it. He'd tried to explain it to Amphitrite in a letter and had crossed out three drafts. How do you describe a palace made of living coral and pearl that breathes with the tide, when your family thinks you should know every corner? How do you describe Triton carefully leaving room for a brother who doesn't remember their old lessons? How do you describe Amphitrite being kind in a familiar way that still surprises you, setting out your favorite snacks because she knows what you've forgotten? How do you describe his dad turning up late to dinner, dripping wet from a storm council, and grinning when he saw Percy like the whole ocean lit up?
+He thought about how to describe it. He'd started a letter to Amphitrite about the visit, then crossed out three versions that sounded as though he were describing her own palace to a stranger. He couldn't let her see the missing memories behind the awkwardness. How do you describe a palace made of living coral and pearl that breathes with the tide, when your family thinks you should know every corner? How do you describe Triton carefully leaving room for a brother who doesn't remember their old lessons? How do you describe Amphitrite being kind in a familiar way that still surprises you, setting out your favorite snacks because she knows what you've forgotten? How do you describe his dad turning up late to dinner, dripping wet from a storm council, and grinning when he saw Percy like the whole ocean lit up?
 
 "It's big," he said lamely. "Like, stupid big. You swim down a canyon and there's lights everywhere, and whales carrying mail, and mermen arguing about property lines. And the palace— it's warm, even though it's deep. There's this garden where my dad grows these glowing anemones. He showed me. He was really proud of them. Like, 'Percy, look, this one's new, I crossbred it myself.'"
 
@@ -132,7 +131,7 @@ Thalia was quiet for a moment, turning her stick in the coals. "Do you... like h
 
 Percy thought about it. The ache that had sat behind his ribs since he'd left Atlantis, like homesickness for a place he'd supposedly lived for years but was only beginning to know. The way his dad had hugged him goodbye at the thermocline, hard enough to crack ribs, and whispered, *You always have a home in the sea, Percy. Never doubt that.*
 
-"Yeah," he said softly. "I do. It's weird. I remember growing up just me and Sally, you know? And that was enough. It was everything. But here they all know this whole... other ocean of people. Who know my dad in a way I don't yet. Who fight and tease and send me weird shell necklaces with notes like 'do not eat this, love, Nerissa.' She's one of the palace nereids. Triton says she's been putting instructions on my presents forever. It's messy. But I like knowing they're there. When I'm near the water, I feel less... solo."
+"Yeah," he said softly. "I do. It's weird. I remember a different kind of home with Sally. I told you some of it, I know. She was enough. She was everything to me in that life. But here they all know this whole... other ocean of people. Who know my dad in a way I don't yet. Who fight and tease and send me weird shell necklaces with notes like 'do not eat this, love, Nerissa.' She's one of the palace nereids. Triton says she's been putting instructions on my presents forever. It's messy. But I like knowing they're there. When I'm near the water, I feel less... solo."
 
 "Less solo," Thalia repeated. "I like that."
 
@@ -186,7 +185,6 @@ On the walk back to the cabins, Percy and Thalia split a granola bar Percy had s
 
 ---
 
-### Night One — Annabeth
 
 Annabeth Grace liked being prepared. She had prepared for night patrol the way she prepared for everything: checklist, diagram, contingency plan.
 
@@ -300,7 +298,6 @@ Annabeth felt her throat go tight. "Same. For you."
 
 ---
 
-### Night Two — Silena
 
 Silena Beauregard had packed for night patrol like it was a picnic that happened to involve potential monsters.
 
@@ -380,7 +377,6 @@ Lee took a photo with a disposable camera. "Blackmail," he whispered.
 
 ---
 
-### Night Three — Thalia
 
 Thalia Grace had a secret: she loved night watch.
 
@@ -466,7 +462,6 @@ Percy laughed, and the fear melted out of his shoulders. "Deal. Princess Sockhat
 
 ---
 
-### Night Four — Clarisse
 
 Clarisse La Rue had decided Annabeth Grace was not as annoying as she'd previously categorized.
 
@@ -532,7 +527,6 @@ They finished the patrol in comfortable silence, and when the relief came, Clari
 
 ---
 
-### Night Five — Grover
 
 Grover Underwood had discovered he was good at night watch.
 
@@ -592,7 +586,6 @@ On the walk back, Silena held Grover's hand the whole way, swinging it.
 
 ---
 
-### Night Six — Percy and Annabeth (Off-Duty, Mostly)
 
 Night six was supposed to be their night off — the schedule rotated so no one pulled seven straight — but neither Percy nor Annabeth could sleep.
 
@@ -630,7 +623,6 @@ They dozed on the porch swing, shoulder to shoulder, blanket slipping, until Arg
 
 ---
 
-### Night Seven — All Six
 
 The last night, Chiron changed the plan.
 
@@ -713,8 +705,3 @@ As the sun rose fully over Camp Half-Blood, gilding the cabins and the strawberr
 It was enough. It was everything.
 
 ---
-
-*End of Chapter 25*
-
----
-
