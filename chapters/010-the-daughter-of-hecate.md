@@ -289,6 +289,100 @@ He stood, then hesitated.
 
 ---
 
+Zoe carried her drawings to the old forge annex after the lunch bell. It was the smallest workroom that had a proper stone floor, a sand bucket and enough ventilation to make Chiron comfortable with a supervised demonstration. He'd agreed to let her use it on the condition that the test would be entirely separate from the Hall's live wards.
+
+"Separate," he'd repeated, while examining her proposal. "No salvaged metal. No piece taken from the Oracle's chair. Nothing that could establish a sympathetic link to either installation."
+
+"I've written that down," Zoe had told him.
+
+"Write it twice."
+
+She had.
+
+Mara met her at the annex with a wooden tray of ordinary copper strips and a canvas roll of tools. She was about two years older than Zoe and had the kind of patience that came from years spent explaining why a furnace could not be asked to work faster because somebody was in a hurry.
+
+"Everything's clean," Mara said. "No hall metal. No inscriptions other than the ones you supplied for the control test."
+
+Zoe checked the tags anyway. Three strips had been cut from the same piece of copper, then polished and cleaned. One carried a simple closed boundary symbol; another had the same pattern with its outer line broken. The third was blank. Each had been prepared using a harmless training sequence Zoe knew well enough to undo under Chiron's supervision.
+
+She had spent the previous week staring at drawings of an object she could not safely touch. It felt almost indulgent to work with something whose origin she could verify.
+
+"What's the question?" Mara asked, laying out the tools.
+
+"If we see a hooked mark on the Hall and another beneath the Oracle's chair, are we justified in thinking they do the same thing?"
+
+"Probably not."
+
+"Exactly. So I want to show the inspection team how different two marks can behave when they're drawn from the same pattern."
+
+She began with the control strip. The little boundary charm made a line of flour stand on its edge. A bead of water rolled toward it and stopped, not because Zoe was commanding the water, but because the strip carried a minor repulsion spell. There was no strain. She could feel the enchantment settle and remain quiet.
+
+Mara watched the bead. "So it stops matter."
+
+"Only this kind of matter, at this distance. If you throw something heavy enough, it passes right over. Watch."
+
+She set a small stone against the boundary. It crossed. The water bead remained behind.
+
+"That's useful," Mara said. "You can see the limit."
+
+"Now the broken line."
+
+Zoe replaced the strip. The bead crossed the flour, but its path curved slightly before it stopped. The charm had not failed completely. It directed a tiny amount of pressure sideways. The difference was small enough that a casual observer might have described both marks as *containment*. It was precisely the kind of casual description Zoe was trying to get the maintenance team to avoid.
+
+She wrote the results down, including the fact that a heavier object had not been affected by either strip. A design that contained one thing might freely permit another. If the Hall's inscription had been repurposed from an older protection, a person interpreting the image alone might be badly wrong about what it held.
+
+Chiron arrived while she was putting the strips away. He examined the control sheet and asked her to repeat the second test with the stone instead of the bead. The stone crossed the boundary again. He nodded, then gestured toward the diagrams on the table.
+
+"What can you conclude?"
+
+"That these training marks have different effects despite looking similar. It doesn't tell us what either live mark does."
+
+"Good."
+
+"What I want to test next is the completed drain layout. Not an active inscription. The physical path of the water."
+
+"That is a matter for the engineers and the repair crew. If they approve it, you may observe."
+
+Zoe accepted the limit, although her first instinct was to argue. She was tired of waiting for somebody else to sign off on measurements she felt capable of taking herself. She also remembered what had happened when Percy had treated the attic as a problem he could investigate without an adult. Being right about the existence of a danger had not made the visit harmless.
+
+Mara put a lid over the copper tray. "I'd like a second person to watch the outlet. If the water goes where the plan says it should, the next thing we need is a way to prevent a surge reaching the evacuation path."
+
+Zoe turned to Chiron. "Could we put another barrier outside the western wall before the eclipse? One that isn't connected to the existing ward?"
+
+"I will discuss it with the repair team," he said. "You will need to demonstrate that the barrier cannot feed charge back into the Hall."
+
+"Then we should make the prototype away from the site and bring only the approved pieces."
+
+He smiled faintly. "You have just described the process I have been asking everyone to follow."
+
+"It's easier to describe from inside a workshop."
+
+"It's easier to obey once you understand why it exists," Chiron said.
+
+When he left, Zoe stared at the blank strip. She had expected the test to produce a clear revelation about the mark under the Hall. Instead it had established why she should be skeptical of any claim based only on a copied design. That was useful, but it would not impress campers who wanted her to wave a hand and fix the Oracle.
+
+Mara noticed her expression.
+
+"You look disappointed."
+
+"I wanted the control to tell me more."
+
+"It told us something about the method. That's a result."
+
+"You're starting to sound like me."
+
+"I'm trying to keep you from spending the next two days doing everybody else's work." Mara picked up the tray. "Did you answer your cousin?"
+
+Zoe glanced at the letter tucked into her satchel. "Not yet."
+
+"Then do that before dinner. Chiron has a dozen people who can carry a barrier. Your cousin only has one person she's written to."
+
+The comment was inconvenient, which made it effective. Zoe washed the copper dust from her hands and went back to the library to finish the letter. She wrote that she was needed at camp for the eclipse preparations but would send an answer about the winter visit after the inspection. It was a small act of refusing to disappear into her own usefulness.
+
+She sealed the page before anyone came looking for her. Then she brought the control results to Chiron, marking clearly what the test demonstrated and what remained unknown.
+
+---
+
 Lake water slapped the dock posts. Annabeth sat at the end with bare feet skimming the surface and her notebook open on her knees.
 
 "Chiron?" Percy asked.
