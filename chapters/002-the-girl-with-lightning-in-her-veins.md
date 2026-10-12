@@ -470,6 +470,302 @@ Neither of them mentioned it.
 
 ---
 
+By the time Annabeth got back to Cabin One, Thalia had rearranged the furniture.
+
+Not all of it. Just enough for Annabeth to notice immediately and Thalia to claim she hadn't done anything.
+
+The low table had been moved away from the window. Two stools sat on opposite sides of the cabin, neither quite where they'd been that morning. A blanket had been folded on the floor beside Annabeth's bunk, covering what appeared to be a box of loose screws.
+
+Annabeth put her book down.
+
+"Did the table offend you?"
+
+Thalia was standing on a chair with a coil of cord around one wrist. She had the expression of someone who'd already rehearsed an explanation and wasn't pleased to need it.
+
+"The window leaks."
+
+"It didn't leak when it rained yesterday."
+
+"Then yesterday it was keeping a secret."
+
+"Thalia."
+
+"I'm checking the storm shutters."
+
+"There aren't any storm shutters."
+
+"Which is part of the problem."
+
+Thalia stepped off the chair. A little smear of dust ran down her cheek. She'd been working for long enough to collect a row of tools on the windowsill: pliers, a bent nail, a chisel that looked borrowed from the forge. Annabeth had seen this version of the Zeus cabin only since waking up with her memories in the wrong life. It was large and formal and cold in the way public buildings sometimes were. Thalia had clearly spent years making it less so.
+
+There were mismatched blankets on the bunks. A cracked ceramic bowl held hair ties. Every hook had a purpose. By the door hung a narrow shelf with the sort of compartments people made when they had too many small objects and nowhere trustworthy to put them.
+
+Annabeth recognized the method. She didn't recognize the history.
+
+"Can I help?" she asked.
+
+"With a chisel? No."
+
+"I know how to use a chisel."
+
+"Since when?"
+
+There it was. An ordinary question with no safe answer.
+
+"I've read about it," Annabeth said.
+
+Thalia climbed back onto the chair.
+
+"Reading about not cutting your fingers off is not the same as keeping them."
+
+Annabeth took off her shoes. She lined them beside the bunk, then stopped. The laces had been tied with a quick-release hitch, not the knot she would have used. She couldn't remember tying them that way. She might have done it automatically; a body could hold habits its mind didn't explain. She still hated not knowing which.
+
+"You can't stand on a chair with one leg shorter than the others," she said.
+
+"I can. I've been doing it for twenty minutes."
+
+"That doesn't make it safe."
+
+Thalia looked down. Annabeth looked back.
+
+A beat passed.
+
+"Fine." Thalia jumped to the floor. "What would you do, then?"
+
+It wasn't capitulation. It was a challenge.
+
+Annabeth moved the table under the window and tested its legs. It was broad enough to stand on, but the edge had warped and would tip if Thalia put all her weight on one side. They could use it as a workbench if they braced it with a stool. She explained that, using the paper cover of her book to sketch a small diagram.
+
+Thalia studied it for almost a minute.
+
+"You're making a drawing of a table," she said.
+
+"Yes."
+
+"To help us use the table."
+
+"Also yes."
+
+"You know what most people do when they need to use a table?"
+
+"Use a table that doesn't wobble."
+
+Thalia handed her the pliers.
+
+"Keep your fingers out of the hinge."
+
+They worked until the windowsill was cleared and the heavy shutter panel lay flat on the bench. The bronze fitting at its corner had worn loose. Annabeth sorted the screws by size, chose two that hadn't lost their threads, and held the panel steady while Thalia adjusted the catch.
+
+Thalia was better at repairing things than Annabeth had expected. Her hands moved without fuss, and she never had to ask where the tools were. She knew which pressure would straighten a crooked fitting and which would snap it.
+
+"Who taught you?" Annabeth asked.
+
+"Who taught me what?"
+
+"This. Making repairs."
+
+Thalia didn't look up. "Trial and error. Luke showed me some things. And Mom used to make me fix whatever I broke."
+
+Annabeth remembered Beryl Grace in fragments that weren't hers. She knew the name, the face from photographs, the outline Thalia had given her. She remembered her own mother from the previous life, Athena present in flashes of pride or distance but never in a kitchen with a broken shutter.
+
+"Was I any good at helping?" she asked.
+
+Thalia's screwdriver stopped.
+
+"You were good at handing me the wrong things and telling me what I should do with them."
+
+"Sounds plausible."
+
+"You once took apart the lock on this door because you thought you could make it work from both sides."
+
+"Did I?"
+
+"Had to sleep with a chair under the handle for two nights."
+
+Annabeth could imagine doing that. It didn't give her the sound of Thalia laughing at it, or the smell of the room, or the feeling of being six and certain she'd invented something brilliant. Thalia spoke with the surety of a person remembering a life they had shared. Annabeth could only borrow the outline.
+
+"Do we still have the lock?" she asked.
+
+Thalia held up the old brass housing. "In the box by your feet. You wouldn't let me throw it out."
+
+"I wouldn't now, either."
+
+"Yeah." Thalia tightened another screw. "That part hasn't changed."
+
+She said it too casually.
+
+Annabeth slid the spare screws back into a tin. She had spent her evening with Percy discussing people who might be erased if they tried to repair history. The conversation had felt necessary, even when it frightened her. Now she stood in a room full of traces of herself and understood that it wasn't an abstract problem to Thalia.
+
+It was the matter of a younger sister who used to know where the screws were.
+
+A flash lit the window.
+
+Annabeth flinched. Thalia caught the shutter before it fell.
+
+"Easy."
+
+"Was that lightning?"
+
+"Distant." Thalia moved the fitting into place. "Come hold this."
+
+Annabeth stepped forward, but static stung the back of her hand before she touched the metal. She pulled away.
+
+Thalia noticed.
+
+"Show me."
+
+"It was nothing."
+
+"Annabeth."
+
+Annabeth lifted her hand. A pale spark crossed between her fingers. She tried to make it happen again and managed only a hot, unpleasant tingle in her wrist.
+
+Thalia put down the screwdriver.
+
+"Has that been happening often?"
+
+"Not often."
+
+"That's not an answer."
+
+"Since yesterday. Maybe before. I don't know."
+
+Her sister's expression changed in a way Annabeth couldn't bear to misread. It was not anger, exactly. It was the calculation of somebody deciding how fast they could get help without alarming the person who needed it.
+
+"Did you tell Chiron?"
+
+"No."
+
+"Did you tell me?"
+
+"I'm telling you now."
+
+"You were going to tell me because I caught you."
+
+Annabeth looked at the spark-singed edge of her thumbnail.
+
+"I was trying to work out what it was first."
+
+"With Percy?"
+
+"He knows."
+
+Thalia stepped away from the workbench. The fact that she didn't immediately demand Percy come explain himself was almost more alarming.
+
+"You're both acting like everything's a puzzle you can solve by hiding in corners," she said. "Some things are just dangerous. Electricity doesn't care if you're clever."
+
+"I know that."
+
+"Then act like it."
+
+The words stung because they were reasonable. Annabeth had faced monsters, led quests and survived places where electricity was the least of her problems. None of that meant she understood what being Zeus's daughter was doing to her twelve-year-old body.
+
+"Will you teach me?" she asked.
+
+Thalia looked taken aback.
+
+"That isn't the answer I expected."
+
+"What did you expect?"
+
+"You telling me you read the entire library on lightning and I should get out of your way."
+
+"I might do that tomorrow."
+
+"Of course you might."
+
+Annabeth held her ground. "I don't want to hurt someone because I guessed wrong. You know this. I don't. Teach me."
+
+Thalia picked up the screwdriver and laid it well away from the window.
+
+"Tomorrow morning. We start outside, no metal, and with Chiron close enough to intervene. No practicing in the cabin on your own."
+
+"Okay."
+
+"And if your hands start doing that tonight, you wake me."
+
+"Okay."
+
+"Even if I'm asleep."
+
+"I understand how waking somebody works."
+
+Thalia huffed a laugh, but it faded when she looked at Annabeth's hand again.
+
+"You used to be scared of thunderstorms," she said.
+
+Annabeth had no answer. In the life she remembered, she had been afraid of spiders and losing people and the dark places under the earth. Thunderstorms had been something she could measure. She did not know whether another little girl had climbed into Thalia's bunk when the weather broke.
+
+"I can't remember that," she said.
+
+"I know."
+
+"I don't want you to stop telling me."
+
+Thalia sat on the end of her bunk. There were days when she looked sixteen, and days when the way she carried herself made Annabeth think of adults who'd been tired for years. Right now she looked both.
+
+"You always insisted you weren't scared," she said. "You'd say you were only checking that I wasn't scared."
+
+Annabeth came over and sat at the other end. The mattress sank between them.
+
+"Did it work?"
+
+"Sometimes." Thalia tugged the blanket into her lap. "Sometimes I pretended."
+
+Annabeth smiled, then felt the familiar ache of not knowing what she had missed. She couldn't ask Thalia to stop remembering. That was no better than asking her to stop loving the sister she'd raised.
+
+"Can you tell me another one?" Annabeth asked.
+
+"Another what?"
+
+"Something stupid I did."
+
+Thalia watched her for a moment, making sure she meant it.
+
+"You tried to adopt a raccoon."
+
+"I did not."
+
+"You named him Senator."
+
+Annabeth burst out laughing.
+
+Thalia grinned in spite of herself. "You put him in my dresser. He ate the cuffs off my only decent shirt."
+
+"That sounds like a problem with your dresser."
+
+"It became a problem with my shirt."
+
+"Did I get to keep him?"
+
+"Absolutely not."
+
+"Authoritarian household."
+
+"You can tell Senator about your civil liberties when he comes back to pay for the shirt."
+
+The wind pressed against the repaired shutter. It held.
+
+Thalia noticed first. She reached over and rapped the new catch twice with her knuckle, satisfied. Then she got up to put away the tools.
+
+Annabeth stayed on the bunk and watched her sister move around the cabin. She would need to tell Percy about the sparks tomorrow. She would need to learn what her new powers could and couldn't do, and she would have to make room for a history that had happened without her remembering it.
+
+But tonight she could do one thing that belonged to this life.
+
+She picked up the tin of spare screws and sorted them into the compartments Thalia had labeled.
+
+"Those two go in the bottom drawer," Thalia said without turning around.
+
+"I know."
+
+"You don't. You just guessed."
+
+"Good guess, though."
+
+Thalia let her have it.
+
+---
+
 The next morning, Percy woke to the sound of Clarisse doing push-ups. He lay in his bunk for half a breath, staring at the ceiling, and tried to piece together what he was going to do.
 
 He knew he needed to investigate the changes to the timeline. He knew he needed to find out who was responsible and why. But he also knew that every time he got close to the truth, someone got hurt. Thalia. Annabeth. Clarisse. Even himself.
