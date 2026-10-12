@@ -785,15 +785,208 @@ Outside the forge the sky remained gray. The Hall was still behind canvas, and C
 
 Percy headed for Tempest Hall to fix the rack. He could leave the couplings alone for a few hours.
 ---
+That night, Percy found the packing list Amphitrite had tucked into his trunk before he left Atlantis.
 
-That night Percy found a folded packing list in the bottom of his trunk. Amphitrite had written it in a neat hand, with two pairs of sandals circled and three ceremonial cloaks decisively crossed out.
+It had been folded between two clean camp shirts, one of which he still hadn't worn because the sleeves were too long. Amphitrite's handwriting filled the page in even blue lines. Two pairs of sandals were circled, and three ceremonial cloaks had been crossed out so emphatically that Percy could see the indentation on the back of the paper.
 
-He set it on his pillow, smiling despite the long day. She expected letters about friends and sword practice, not reports about a ruined ward or the questions he and Annabeth were asking.
+At the bottom she'd added a note.
 
-His father's warning about old sacred places returned to him. Poseidon had spoken of strange disturbances, not vanished time, and Percy still had no reason to assume the two were connected. He wanted a connection anyway. It would have made the mystery smaller.
+*You won't need the blue one unless somebody invents an occasion for it. I hope they don't. Write when you have a quiet evening, and don't forget to eat something that wasn't pulled directly from the sea.*
 
-Across the cabin Clarisse was snoring softly. Silena turned a page with the lamp screened beneath her blanket. Percy folded the list again and set it in his trunk.
+Percy set the list on his pillow.
 
-Tomorrow he'd have to help repair the broken practice rack at Tempest Hall, because the instructor hadn't forgotten he'd abandoned his drill. He was twelve years old, and that was an obligation he could keep.
+He had managed a lot of things in the past few weeks. He could tell the difference between the cabin's water intake and its drain without getting soaked. He knew which route led to the lower training field when the main path was closed. He had learned to hang his practice weapons before Clarisse threatened to hang him up with them. He had even spent an afternoon helping replace the broken rack in Tempest Hall, a punishment that turned out to be more useful than he wanted to admit.
 
-He lay down and tried to sleep while the rain eased outside.
+He still didn't know how to write home.
+
+There was a sheet of paper on his desk with half a letter already written, most of it crossed out. Every time he tried to answer one of Amphitrite's questions about his childhood, he imagined Sally's kitchen. He could remember his mother showing him how to stir batter without spilling it, the blue candy she'd sometimes bought him when money was short, and the particular way she'd laughed when he told a joke so bad it barely qualified as one.
+
+Amphitrite had raised him in this life. He knew that because she'd told him stories about it, and because the palace staff had treated him like a boy who'd lived among them for years. None of those stories gave him the memories the woman writing this packing list assumed he had.
+
+He could tell her he was settling into camp. That was true.
+
+He could tell her his sisters had been kind to him. That was true too, although Clarisse would probably object to being described that way.
+
+He couldn't tell her he remembered a different mother alive in another history. He wasn't ready for what that would do to a woman who'd loved him since he was two.
+
+Across the cabin Clarisse was repairing the straps on her greaves. Silena was sitting cross-legged on her bunk with a delivery book balanced on her knees. There were less than ten minutes before lights-out, and neither sister seemed interested in spending them talking to Percy.
+
+He made himself start writing anyway.
+
+*Dear Amphitrite,*
+
+*I meant to write earlier, but camp has been busy. We had a storm yesterday and the Hall of the Gods is being inspected because some of its protective fittings stopped working. Nobody was seriously hurt. I'm all right, and Chiron has made the rules about staying out of the repair areas very clear.*
+
+He read the paragraph. It sounded like something a counselor would write to parents who had already heard a rumor.
+
+He crossed out *Nobody was seriously hurt*. Annabeth's burns had been small, but her hands were still shaking when he saw her at dinner. That wasn't nothing. His own arm itched beneath the bandage when he bent it.
+
+"What are you doing?" Clarisse asked from across the room.
+
+"Writing home."
+
+She looked up. "With that expression? You look like you're negotiating a treaty."
+
+"Maybe I am. It's an important diplomatic relationship."
+
+"Try telling her you haven't lost any fingers. Parents like hearing that sort of thing."
+
+Silena glanced over her book. "Our father would probably ask which fingers and whether losing them affected training."
+
+"That's not very reassuring," Percy said.
+
+"I wasn't trying to reassure you." Silena marked a number in the margin. "Amphitrite has written to me before. She's perfectly capable of asking whether you're healthy without turning it into an assessment."
+
+Percy looked at her.
+
+"She writes to you?"
+
+"Occasionally. Usually when she's sending supplies through Atlantis or asking whether Clarisse and I need anything. She sent a box of dried fruit at the start of summer that was far better than anything the kitchens normally get."
+
+"She did?" Clarisse said, still working on her greave.
+
+"You ate half of it."
+
+"I thought that was from Chiron."
+
+Silena shook her head. "You never read the cards."
+
+"I read the ones that matter."
+
+"That one said *For Clarisse and Silena*. I'd say it mattered."
+
+Clarisse's ears turned slightly pink. She went back to fixing the strap without answering.
+
+Percy thought about Amphitrite choosing a gift for two girls her husband hadn't raised at home. He couldn't tell whether it was an attempt to make up for Poseidon's absences or simply something kind she'd done because she knew them. He was beginning to understand that not everything needed an explanation before he could appreciate it.
+
+"She asked whether I was making friends," he said. "I don't know how to make this letter sound as though I'm enjoying myself without making the last few days sound like a disaster."
+
+Silena closed her book.
+
+"Tell her about the people you spend time with. You can mention a difficult day without describing every frightening thing that happened. If she wants the official account of the ward, Chiron will give it to her. She asked for a letter from you."
+
+"That's sensible."
+
+"I usually am."
+
+Clarisse lifted the repaired greave and tested the leather. It held.
+
+"Tell her you learned to fix equipment. That way she'll know you haven't spent the whole month swimming around in your own little palace."
+
+"I haven't been swimming around in a palace at all."
+
+"You know what I mean."
+
+He turned back to the page and tried again.
+
+*I've been learning how things work at camp. Silena showed me the irrigation channels, and I helped her check a filter that wasn't fitting properly. Clarisse has been teaching me to carve, although my first attempt looked more like a vegetable than an animal. She also says I'm improving at sword practice, which may be the nicest thing she has ever said to me.*
+
+"That's libel," Clarisse called from her bunk.
+
+Percy looked up. "You're reading over my shoulder?"
+
+"I can hear you whispering to yourself. And I never said you were improving."
+
+"You said I was less terrible."
+
+"That is not a compliment. It's a measurement."
+
+Silena laughed. Percy left the sentence in the letter.
+
+He wrote about Annabeth next. It was easier and harder at the same time. He could say she was clever and liked maps. Amphitrite probably already knew that from the brief introduction Percy had given her before leaving home. He wanted to describe the way Annabeth had helped find a safe route during Thalia's evacuation drill, and how she'd managed to make the younger campers listen without frightening them. He didn't want to write about the moment he'd found her trapped against a column with lightning moving between her fingers. He could still see it when he closed his eyes.
+
+*Annabeth is doing well,* he began, then stopped.
+
+That wasn't exactly true either.
+
+He looked at Clarisse. She had finished repairing the greave and was now oiling its fastening.
+
+"Have you ever written a letter and realized you don't know how to say the important part?"
+
+She considered the question instead of making a joke.
+
+"Yes. I wrote to Dad after my first tournament. I spent an hour deciding whether to tell him I'd won or ask why he'd left early." She rubbed the oil into the leather. "I told him I'd won. Never asked the other question."
+
+"Do you wish you had?"
+
+"Sometimes. But I was ten, and I didn't know how to ask without sounding like I wanted something he didn't want to give."
+
+Percy waited. The room was quiet apart from the little sound of Silena turning a page.
+
+"Amphitrite isn't Poseidon," Clarisse added. "If there's something you want to tell her, she might actually read it the way you mean it."
+
+Percy looked down at his letter. He still couldn't tell her about Sally. He could tell her something he hadn't said to anyone outside camp.
+
+*I missed home more than I expected. Not because camp has been bad. I like it here, and I'm beginning to know people properly. But sometimes I remember a place and then can't explain why I miss it. I think it will take a while before all of this feels normal. I'm all right, and I'm learning.*
+
+He read the paragraph again. The words weren't perfect. They were true enough to send.
+
+Silena stood and brought him a clean envelope from the stores box.
+
+"Use this. The one you have is covered in ink."
+
+He accepted it. "Thanks."
+
+"You're welcome. The mail goes out tomorrow, so put it where you won't forget it."
+
+Percy looked at the pile of things beside his bed. His desk was less tidy than either sister wanted to tolerate.
+
+"That narrows the options."
+
+"Put it under your water cup," Silena suggested. "You never forget the cup."
+
+"Because Clarisse tells me to wash it every morning."
+
+"Then the system is working."
+
+Clarisse carried her gear to the rack and paused at his desk.
+
+"Can I see what you wrote about me?"
+
+"No. It's private correspondence."
+
+"That means you've exaggerated the carving."
+
+"Possibly."
+
+She considered taking the paper anyway. Percy could see it in the way her hand hovered near the desk. Then she left it alone and went back to her bunk. The choice made him smile.
+
+He finished the letter with a few concrete details about camp: the taste of the pavilion's strawberry bread, the frogs that kept appearing near the cabin drains, and his plans to visit Atlantis when the next safe leave was arranged. He promised to write again without claiming a date he couldn't keep. He signed his name, folded the page and sealed it.
+
+The envelope lay under his water cup where Silena had told him to put it.
+
+He still had another obligation.
+
+His instructor had asked for a written account of why he'd left Tempest Hall during the storm. He took a second sheet of paper and began with the parts that embarrassed him: he had disobeyed a clear order, tried to help with a hazard he didn't fully understand, and been fortunate that Chiron had been there to supervise the ward isolation. He also wrote about the boys struggling with the cart and the flooded path near the Hall entrance. Those were practical details the next emergency plan ought to include.
+
+By the time he finished, Silena had turned off her reading lamp. Clarisse was lying in bed with one arm over her eyes.
+
+Percy gathered the papers carefully. One would go to Amphitrite. The other would go to Chiron. They weren't the same sort of truth, but both deserved to be written clearly.
+
+He changed into his sleeping clothes and checked that the bandage on his forearm was still clean. It was itchy and inconvenient, which seemed an appropriate price for the afternoon he'd spent ignoring an instructor.
+
+Silena spoke from the dark.
+
+"Percy?"
+
+"Yeah?"
+
+"If you're going to stay awake thinking about what happened, try not to do it alone. We're in the next bunks. You can wake one of us."
+
+He sat on the edge of the bed, surprised by the offer. "I don't want to wake you for every stupid thing I can't stop thinking about."
+
+"Then use your judgment. It's getting better."
+
+Across the room Clarisse stirred.
+
+"And if he wakes me because he's forgotten where the clean towels are, I'm making him do laundry for a week."
+
+Percy laughed softly. "I'll make sure it's a more interesting emergency."
+
+"Don't you dare," Silena said, and this time she sounded entirely serious.
+
+He lay down. The water channels beneath Cabin Three carried their familiar sound under the floor, but above it he could hear the rain beginning to ease. The Hall still had damaged wards, the camp still needed more patrols, and nobody could promise that another storm wouldn't arrive.
+
+Tomorrow he'd have to help with the repairs and deliver two letters.
+
+For tonight, the cabin was quiet, and the people who lived in it knew where he was.
