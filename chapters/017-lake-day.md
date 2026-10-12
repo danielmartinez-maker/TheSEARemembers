@@ -447,10 +447,10 @@ Percy laughed and waded out to the canoe and climbed in, rocking it wildly while
 
 As they pushed off, paddle dripping, the sun low and gold over the pines, Percy looked across the water at the other canoe — Annabeth in the back, Thalia in front, Zoe heckling them both — and Annabeth caught his eye and smiled, sand still stuck to her cheek, shell bracelet from their Olympus city tied around her wrist.
 
- lake day. No villains. No quest. Just sunburn and stolen cheese and a sand palace with a balcony for his sister-in-all-but-blood and a girl who held his hand in the dark under the dock.
+Percy looked at the scattered sandals on the dock and the sandy little city the others had built on the shore. Someone would have to clean everything up before dinner.
 
-Percy dug his paddle in and splashed Clarisse on purpose. She splashed him back. The canoe tipped. Everyone yelled.
+He dipped his paddle and splashed Clarisse. She returned the favor with interest. The canoe tipped, Grover yelled, and Annabeth reached for the side in time to save the bag of dry towels but not Percy's shoes.
 
-Best day ever.
+"That counts as your fault," she told him.
 
----
+He surfaced with a mouthful of lake water and decided not to contest it.
