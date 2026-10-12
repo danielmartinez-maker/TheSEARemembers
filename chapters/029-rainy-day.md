@@ -286,7 +286,7 @@ And it was.
 
 ---
 
-Zoe Nightshade had survived two thousand years of winters, wars, and extremely annoying heroes. She could survive three days of rain.
+Zoe Nightshade had survived fifteen years of winters, several camp monster alerts, and extremely annoying heroes. She could survive three days of rain.
 
 What she could not survive, she decided on the afternoon of day two, was six bored Hunter-apart campers plus Bianca di Angelo asking "Are we there yet?" about the end of the storm every eleven minutes.
 
@@ -494,7 +494,4 @@ Annabeth leaned her head on Percy's shoulder. He leaned his head on top of hers,
 
 Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. They ignored her for one more minute. Just one more.
 
-The sea remembered. The sky forgot. And two twelve-year-olds sat in a doorway, dry and warm, letting the rain fall.
-
----
-
+Percy moved his hand nearer to Annabeth's. She took it without looking away from the rain. For another minute they listened to Thalia deal cards inside, comfortable enough not to answer her yet.
