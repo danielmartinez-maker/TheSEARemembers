@@ -204,7 +204,7 @@ Amphitrite went straight to that photo first.
 
 "Triton sent me the copy last week," Percy said, hovering beside her. "An old one. I wish I could tell her about today. About you. And that the blue cookies worked with your recipe tweak."
 
-"I wish we could tell her that her son is thriving." Amphitrite touched the photo with one fingertip, tenderly. She had never met Sally Jackson in person, but before Sally died they had exchanged a few brief letters through Triton as a discreet courier, about tides and a little boy's health and what frightened him. Now Percy described the kitchen from the other life, a home Amphitrite had never known. She listened because Sally mattered to him, and because raising him had never made that love disappear. "I'm glad you have this picture."
+"I wish we could tell her that her son is thriving." Amphitrite touched the photo with one fingertip, tenderly. She had never met Sally Jackson in person, but Poseidon had shown her a few letters Sally wrote about the sea and the little boy she was raising. Percy asked about the photograph and the few things Sally had left behind. He kept the Manhattan kitchen he remembered to himself. Amphitrite answered what she could, never suspecting he was measuring her answers against a different childhood. "I'm glad you have this picture."
 
 Then she turned to the bunk and clapped her hands. "Right. This will not do."
 
