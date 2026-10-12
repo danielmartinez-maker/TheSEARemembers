@@ -996,7 +996,7 @@ Percy came back for the clean copy of the map. Annabeth held one edge while he k
 
 Annabeth laughed, then looked toward the Big House beyond the pavilion roof. She was relieved that Milo had been willing to ask a question, and glad Thalia had let her answer without stepping between them. Neither feeling settled the matter of the Oracle. The forbidden attic still sat there, full of documents they could not inspect in daylight.
 
-Bea returned with the pins. Together they posted the revised route and left a space beneath it for the maintenance team's approval. Annabeth copied the catalog numbers from the morning into her public notebook and made a separate list of what the children still deserved to know.
+Bea returned with the pins. Together they posted the revised route and left a space beneath it for the maintenance team's approval. Annabeth copied the catalog numbers from the previous day into her public notebook and made a separate list of what the children still deserved to know.
 
 When Percy left for the final rack inspection, she remained a little longer to help Bea sort the cards. Several were badly spelled. None was frivolous. Whatever answers the Oracle held, those questions were real, and somebody had to take them seriously without pretending to know more than they did.
 
