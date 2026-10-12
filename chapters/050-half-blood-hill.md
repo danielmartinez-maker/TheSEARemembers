@@ -638,6 +638,108 @@ The quest had begun.
 
 ---
 
+At the bus counter, their first route plan fell apart.
+
+It wasn't because of a monster. The clerk looked at the map Chiron had given them, slid it back through the window and informed Thalia that the connection to the ferry had been suspended for roadwork three weeks earlier.
+
+"Do you have a newer schedule?" Annabeth asked.
+
+The clerk pointed to a board behind her.
+
+They stood in front of it while a tired woman with two children waited for them to move. Percy would have preferred another Fury. He understood what to do when something attacked him; he had no idea what to do with a bus schedule that contained an entire column of canceled routes.
+
+"We can go by rail," Annabeth said, tracing an alternative. "We'll have to change at a station on the other side of the city."
+
+"That costs more," Thalia answered.
+
+"Not if we buy the day pass."
+
+"The day pass starts tomorrow."
+
+Grover looked between them. "Can we take a bus for part of it and walk the rest?"
+
+"Walking takes time," Annabeth said.
+
+"Time we might have," Grover replied. "We don't have an eagle escort. We don't have an unlimited travel budget. We do have feet."
+
+Percy stared at him. "You sound practical."
+
+"I'm a satyr," Grover said. "We're extremely practical when we're not distracted by shiny things."
+
+Thalia's gaze slid toward his collection of cans.
+
+"Or horseshoes," Percy added.
+
+"That's unkind."
+
+They moved aside so the woman could buy her tickets. When she came back past them, she paused.
+
+"You going to New York?" she asked.
+
+Thalia hesitated. Chiron had told them to be careful about telling mortals more than they needed to know. But the woman had heard their entire argument, and their destination was already printed across the top of the board.
+
+"Eventually," Thalia answered.
+
+"Take the local to the terminal, then the coach. It's slower, but they won't charge you twice for the transfer." She shifted the smaller child higher on her hip. "You kids should eat before you get on. The coach station's food is terrible."
+
+Annabeth checked the route. The prices worked. The travel time was longer than the ideal schedule but shorter than Grover's walk.
+
+"Thank you," she said.
+
+Percy watched the woman go, surprised by the ordinary kindness of a stranger who didn't know anything about gods or prophecies. The Mist hadn't made her blind to four tired children studying a timetable.
+
+Thalia asked the clerk whether their original tickets could be exchanged for the local and coach. The clerk frowned, checked the fare codes and agreed, returning only a few coins in change. Thalia counted it twice before handing it to Annabeth to record. Percy took charge of the water and tickets. Grover stood watch near the windows, trying to distinguish exhaust from anything stranger.
+
+"Do we send Chiron a message?" Percy asked.
+
+"Not every time a timetable changes," Annabeth said. "We'd run out of drachmas before we reached the first real city."
+
+"We had a monster attack."
+
+"That one is worth reporting."
+
+They found a quiet corner and used a shallow cup of clean water to place a brief Iris message. It took several tries before the image steadied. Chiron appeared surrounded by papers. He didn't sound surprised that their first day had included trouble, but became attentive when Annabeth described the near miss with the electrical discharge.
+
+"Do not repeat that method," he said.
+
+"We won't," Percy answered.
+
+"Tell me where you are and whether anyone needs treatment."
+
+They gave the station name and described the burn. Chiron had Annabeth explain what it felt like to move her fingers. His instructions were practical: keep the dressing clean, avoid further electrical use until the injury was assessed, and seek ordinary medical attention if the burn or pain worsened. He did not offer a miraculous cure through a rainbow.
+
+"Should we come back?" Percy asked.
+
+Chiron looked at them through the shimmering water.
+
+"Not merely because the first day frightened you. That is information you should use. If one of you cannot travel safely, you must reconsider the plan. At present I hear that you have shelter and transportation available. Take the rest you need."
+
+Grover nodded so earnestly his curls bounced.
+
+"Rest. Definitely."
+
+"How's camp?" Percy asked before the connection faded.
+
+"Busy. Your sisters have reorganized three border patrol shifts and argued about a canoe's damaged rigging. I believe Silena won the argument."
+
+"She usually does," Percy said.
+
+"That is becoming apparent. I'll send word to Atlantis when there is news worth sending. Until then, keep your observations separate from your guesses."
+
+The rainbow dissolved. Thalia poured out the little remaining water and wiped the cup.
+
+The station was not romantic. The fluorescent lights made everyone look sick, and the benches were bolted to the floor. Percy knew a story about a quest ought to be full of sword fights and narrow escapes. So far it was full of his girlfriend's bandaged hand, arguments about tickets, and a satyr who had been right about walking.
+
+Annabeth tapped the cheaper route one last time.
+
+"We can still make the connection. We just need to move."
+
+The local bus arrived ten minutes later. Percy offered Grover the window seat and took the aisle beside him. Thalia sat across from them, where she could watch both doors. Annabeth leaned her head against Percy's shoulder, her wrapped hand resting on top of her bag.
+
+Percy watched rows of shops move past the window. The road outside camp didn't look like the road he remembered. That was good. It meant he was paying attention to the one beneath his feet.
+
+---
+
 The motel was not a motel yet — just a bus depot with a bench and a vending machine — but Thalia said motel because there was a vacancy sign blinking pink across the street, and that counted as a plan.
 
 "We sleep at the depot tonight," she decided, already in leader mode, spear across her knees. "Bus to the ferry at dawn. Annabeth, you take first watch with me. Percy, you and Grover sleep. We rotate."
