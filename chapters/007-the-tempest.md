@@ -1,5 +1,143 @@
 ## Chapter 7: The Tempest
 
+The night before the storm, the sky was clear enough that Silena refused to let anybody use the weather as an excuse for missing the work roster.
+
+Percy arrived at the stores with a toolbox, his repaired practice shield and a letter from Amphitrite that he had not quite decided how to answer. Silena was already there, counting brass fittings into small cloth bags. A stack of unused filter fabric stood beside the door, tied in rolls with green twine.
+
+"You're early," she said without looking up.
+
+"Don't sound disappointed. I've spent the whole morning proving that I'm capable of carrying a toolbox without using it to destroy anything."
+
+"That's excellent. Put it beside the bench, not on the clean cloth. We're sending that to the irrigation crew and I'd rather not have to explain why there are grease stains on the replacement filter."
+
+Percy moved the toolbox.
+
+The last few days had been filled with ordinary obligations made awkward by the repairs to the Hall. Chiron needed every older camper who knew how to hold a tool or carry a message. Clarisse was organizing the eastern patrol schedule. Silena had taken charge of matching delivered parts against orders, which involved arguing with three counselors who all believed their particular task deserved the entire stockroom.
+
+"What are these for?" Percy asked, examining the little bags.
+
+"Replacement grounding fittings for the Hall. Or at least that's what the work order calls them. The Hephaestus cabin wants to compare them with the damaged ones before installing anything."
+
+"Are you allowed to inspect those? I thought Chiron was keeping the ward work restricted."
+
+"I can count boxes. It's less magical than people seem to think." She checked a tally mark against the invoice. "I'm not connecting anything to the wards. I am making sure the workshop gets twelve brackets instead of nine and doesn't have to send us back into the rain because the delivery was wrong."
+
+He helped sort the fittings by size. Some were smooth, with cleanly drilled holes. Others had numbers stamped along the underside. The bags were labeled for different columns, and he noticed that the eastern section needed more replacements than the west.
+
+"Was that where the drakon came through?"
+
+"Close. The damage is worst there, but some brackets were already marked for replacement before the attack." Silena looked at him. "I know what you're thinking. Please don't turn a list of spare parts into a confession."
+
+"I wasn't."
+
+"You were making the face."
+
+"Apparently everybody knows the face."
+
+"Mostly because you don't hide it." She handed him a pencil. "Write the sizes here. Leave the supplier column blank if we can't read the stamp. I'm not guessing because somebody forgot to put the label where it belongs."
+
+Percy copied the measurements. His writing looked like a badly built fence beside Silena's orderly letters, but she could read it. For once that was enough.
+
+Thalia entered with a coil of weatherproof cord and a folded map under her arm. She stopped when she saw Percy.
+
+"You again."
+
+"Nice to see you too."
+
+"Don't encourage him," Silena said. "He's been useful for nearly half an hour and I'd hate to ruin it."
+
+Thalia put the cord on the bench. "Chiron asked for this in case the canvas needs securing before the next rain. It's a temporary measure, not a ward repair. He's also changed the evening patrol route. Nobody goes near the Hall's eastern colonnade until the replacement fittings have been inspected."
+
+"Annabeth knows?" Percy asked.
+
+"I gave her the updated map. She's helping Zoe compare the old measurements with the new ones, and Chiron knows where they are. You don't need to organize another expedition."
+
+Percy raised both hands in surrender. "I wasn't planning one."
+
+Thalia glanced at the toolbox.
+
+"That's almost more suspicious."
+
+She opened the map, laid it beside Silena's invoice and pointed to the temporary fence on the western path. A storm forecast had come in from a satyr posted near the coast, and the crew wanted to be sure the canvas covering the broken columns wouldn't tear loose and injure anybody.
+
+"Can we move the stores deliveries through this route?" she asked.
+
+Silena traced it with a finger. "Not with the large cart. The turn is too tight. You'd have to take the longer road around the orchard, and the ground near the irrigation beds is still soft."
+
+"Then use handcarts."
+
+"That's what I was going to suggest. But the work team will need more people, and the kitchen staff have already borrowed half the available crew for the winter stores."
+
+Thalia nodded, considering. Percy had seen her argue with people who questioned her decisions. He was surprised by how quickly she accepted a logistical problem when it came from Silena.
+
+"I can spare two from the patrol after morning inspection," Thalia said. "Not before. The eastern markers need checking first."
+
+"That's enough. If the rain comes earlier, we'll postpone the heavy delivery."
+
+"Chiron won't like postponing the repairs."
+
+"He'll like somebody being hurt by a loaded cart even less."
+
+Percy thought of the laundry cart he'd helped rescue a week ago. He had no desire to repeat that experiment in the shadow of an electrically charged Hall.
+
+Silena returned to counting. Thalia lingered beside the map, looking at the columns drawn in pencil.
+
+"Do you think my father knows about these replacements?" she asked.
+
+"His steward's office authorized the equipment," Silena replied. "That's all the invoice proves. If you want to know whether Zeus personally ordered them, you'd have to ask the office."
+
+"I've asked for a meeting. Chiron said we should start with the steward."
+
+"That's sensible."
+
+Thalia looked irritated to hear her own plan described that way.
+
+Percy put down the pencil. "We'd probably get further asking who installed the brackets than asking why Olympus bought them."
+
+"We're doing both," Thalia said. "Nico's checking the records. I'm asking about the steward. Annabeth and Zoe are looking at the plans. Nobody needs you deciding which part matters most."
+
+"I wasn't deciding. I was trying to help."
+
+"Then keep writing the measurements. You're getting grease on the invoice."
+
+He looked down. She was right.
+
+The four of them worked in the stores for another hour. Thalia tested the cord, Silena checked the equipment list and Percy bundled the smaller fittings into the labeled bags. By the end the bench was clear and every missing item had been written in a separate column. The Hall still needed a proper inspection, but nobody would be unable to finish a repair because someone had miscounted the bolts.
+
+On the way out, Silena caught Percy's sleeve.
+
+"Have you written home yet?"
+
+"Not finished."
+
+"Amphitrite asked if you were settling in?"
+
+"She asked about my training, my friends, and whether I needed anything sent from Atlantis. There was a paragraph about a room she wants kept ready for me when I visit. I'm trying to answer without sounding ungrateful or pretending I remember every detail she mentioned."
+
+Silena looked at him for a moment.
+
+"Then tell her the part you do know. You like the people here. You're learning things. You'll tell her if you need something. A letter isn't a memory test, Percy."
+
+He wanted to thank her for saying it that way. Instead he tucked the unfinished page into his pocket so it wouldn't get damp.
+
+Thalia was waiting near the path, rolling up the map.
+
+"Chiron wants an extra pair of hands at the western fence tomorrow. Can you manage that without disappearing into an archive?"
+
+"Depends. Are there any prophecies nailed to the fence?"
+
+"If there are, leave them where you find them."
+
+Silena shook her head. "I'm putting that in the cabin rules."
+
+Percy followed them toward dinner, pleased in spite of himself that he could be part of an argument about tools and schedules without anyone mentioning his title.
+
+Behind the treeline, the repaired columns of the Hall gleamed in the last light. The canvas covering the damaged section lifted once in a breeze and settled. No thunder sounded. The sky remained clear.
+
+There was still time to finish the ordinary work before the weather changed.
+---
+## Chapter 7: The Tempest
+
 The storm arrived three days later. It had been clear when Percy went into Tempest Hall for morning practice. By the time he finished his first set of trident drills, rain was hammering the high windows.
 
 Percy put down the weapon. The instructor had stopped the training clock and was telling campers to get away from the pool. There was enough static in the room to raise the hair on his arms.
