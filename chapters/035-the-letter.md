@@ -688,4 +688,12 @@ Annabeth took it. "Coming, brave girl."
 
 They walked back to lunch side by side, lighter, unhurried, sisters who had finally written back.
 
-And for the first time in three weeks, Thalia didn't count the letters in the box. She didn't need to. The box felt lighter, their replies were flying, and the people she loved knew — in ink, on paper, sealed with lavender and glitter — that she loved them back.
+Thalia put the shoebox back under her bunk when they returned from lunch. The oldest letter was on top. She could still remember every line, and she knew writing back did not guarantee her mother would keep writing.
+
+Annabeth came in with two envelopes from the arts room. They were blank, in case anyone wanted another try later.
+
+"Put them in the box?" she asked.
+
+"Not yet." Thalia set them in her desk drawer. "We'll see what happens."
+
+Annabeth nodded and went to find her book. Thalia closed the drawer, leaving room for her sister to ask about it again.
