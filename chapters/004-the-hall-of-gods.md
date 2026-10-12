@@ -635,6 +635,214 @@ And somewhere above them, the storm gathered — patient and dark and inevitable
 
 ---
 
+Annabeth made it to Cabin One without waking the harpies.
+
+That was the extent of her success.
+
+Thalia was sitting at the little table beside the repaired shutter, a lamp burning on her left and the broken portrait frame spread in pieces before her. She had a pot of glue open, two weights made from smooth stones, and a cup of tea that had gone cold.
+
+"Evening," Annabeth said.
+
+"Morning, technically."
+
+Annabeth set her shoes by the door.
+
+"I know what time it is."
+
+"I was beginning to wonder."
+
+Thalia kept her eyes on the joint she'd been fixing. The glue brush lay very straight beside the frame. That was never a good sign.
+
+"Did you go somewhere?" she asked.
+
+"Yes."
+
+"Somewhere at camp?"
+
+"Yes."
+
+"Was it dangerous?"
+
+Annabeth hesitated.
+
+Thalia set down the brush.
+
+"That pause was longer than I wanted."
+
+"I wasn't fighting monsters."
+
+"That's a remarkably low standard."
+
+Annabeth crossed the room and stood near the table. She could still feel the cool pressure of the Big House's new ward at the back of her neck, and the cramped note with its lone initial was folded under a book in Percy's cabin. She wanted to tell Thalia about the copied prophecies, or at least about the Hall's missing records. She couldn't do that without opening a larger conversation about why those records meant so much to her.
+
+"I was looking at some documents," she said.
+
+"At this hour?"
+
+"They were difficult to access in the day."
+
+Thalia laughed once. She did not sound amused.
+
+"Annabeth, you can't keep doing this."
+
+"Doing what?"
+
+"Leaving without telling me. Coming back with half an answer ready. Acting like I'm unreasonable because I want to know where my sister is."
+
+Annabeth looked at the window. Thalia had repaired the catch after their argument about lightning; it sat squarely against the frame now. The portrait remained unfinished because both of them had kept finding reasons not to work on it together.
+
+"I don't think you're unreasonable," she said.
+
+"You never say it, but you look at me like I am."
+
+"Sometimes I think you're wrong."
+
+"About what?"
+
+"About being entitled to every thought I have."
+
+Thalia sat back. For a second Annabeth thought she might start shouting. Instead she took off her jacket and folded it over the chair.
+
+"You're right," she said.
+
+Annabeth blinked.
+
+"That isn't what I expected."
+
+"You're entitled to your own thoughts. I know that. But you're twelve."
+
+"So are half the other kids at camp."
+
+"And I worry about them too. Chiron worries. Their counselors worry. That isn't proof we think you're stupid."
+
+"Sometimes it feels like it is."
+
+Thalia rubbed the center of her forehead.
+
+"When you were eight you climbed onto the roof because you wanted to see the sunrise from higher up. You didn't tell me because you thought I'd say no."
+
+"Would you have?"
+
+"Probably. There was ice on the tiles."
+
+"Did you find me?"
+
+"I saw your footprints. Nearly had a heart attack." Thalia looked at her. "That was four years ago. I still remember exactly what it felt like when I looked out and saw the roof empty."
+
+Annabeth didn't remember the roof. She knew it mattered to Thalia, because Thalia's hands had begun to shake on the chair arms while she told the story.
+
+"I can't promise I'll never go somewhere you don't approve of," Annabeth said.
+
+"I didn't ask you to."
+
+"You usually do."
+
+"Well, tonight I'm not." Thalia took a breath. "I want to know whether you expect to come back. Where I'd start looking if something happened. That's it."
+
+Annabeth looked at the glue pot and the broken frame. She couldn't tell Thalia she had years of memories that included running across New York after monsters, and years more in places where nobody could have found her. The instinct to keep her movements secret had saved her before. It also meant Thalia spent every night imagining a disaster she might not be able to prevent.
+
+"Next time I'll tell you where I'll be," Annabeth said. "And when I'll be back."
+
+"Thank you."
+
+"But I'm not telling you every conversation I'm having."
+
+"I don't want every conversation. I couldn't survive them."
+
+"Fair."
+
+Thalia's mouth twitched.
+
+They stood on opposite sides of the table for a moment, neither willing to end the conversation simply because they'd found something they could agree on.
+
+Annabeth reached for the damaged portrait.
+
+"How's this going?"
+
+"Badly." Thalia lifted the corner joint. "The frame was cracked before it fell. The glue won't hold if I try to put it back without bracing it."
+
+"We could splint the joint with thin wood."
+
+"We'd have to cut the splint to fit."
+
+"Then let's cut it."
+
+"At this hour?"
+
+Annabeth glanced at the lamp.
+
+"You've apparently been repairing it since midnight."
+
+"I was waiting for you."
+
+"You could've waited in bed."
+
+Thalia gave her a look.
+
+"You know what I mean."
+
+Annabeth sat. The glue smelled faintly of vinegar, and the frame was rough against her fingertips where the finish had worn away. They worked on the corner for half an hour without speaking much. Thalia held the pieces in alignment while Annabeth measured the gap and trimmed a narrow strip of wood from a broken pencil box. She made the strip too wide on the first attempt and had to shave it down.
+
+"Not bad," Thalia said.
+
+"That sounded like a compliment."
+
+"Don't get used to it."
+
+When they pressed the splint into place, the corner held long enough for Thalia to set the weights on top. Neither tried lifting the frame again. That would have been too soon.
+
+Annabeth washed the glue from her hands.
+
+"I did learn something tonight," she said.
+
+Thalia looked up.
+
+"About the Hall. About some older papers. It's not a full answer, but I'm trying to figure it out."
+
+"Is Percy helping?"
+
+"Yes."
+
+"I assumed he was."
+
+"You're not going to ask what we found?"
+
+"I might tomorrow." Thalia rubbed at the bruised place beneath her ribs and immediately stopped when she saw Annabeth notice. "Right now I'm more interested in you getting some sleep."
+
+Annabeth stood, ready to argue, and discovered she didn't particularly want to. Her eyes were sore from reading the copied prophecy in poor light. She had been clever enough to notice several versions of it, not clever enough to rest before she began making mistakes.
+
+"Tomorrow," she agreed.
+
+She changed into dry clothes and climbed into her bunk. Thalia blew out the lamp, leaving the portrait frame weighted on the table. It would have to stay there until the glue set.
+
+In the darkness, Annabeth heard her sister settle under the blankets.
+
+"Thalia?"
+
+"Mm?"
+
+"If I tell you I need to go somewhere, will you sometimes say yes?"
+
+A long pause.
+
+"Sometimes," Thalia said. "And sometimes I'll come with you."
+
+Annabeth thought about what Percy would say if Thalia Grace turned up at the Big House with them. He'd probably try to make a joke and then get them all thrown out.
+
+She smiled into her pillow.
+
+"That might be useful."
+
+"I heard that."
+
+"You were supposed to."
+
+The cabin went quiet. There were no sudden memories of an erased childhood waiting for Annabeth in the dark, and no promise that Thalia would stop worrying tomorrow. But the repaired shutter held against the wind, and the portrait frame lay between them with its glue drying.
+
+Annabeth had told her sister something true. For tonight, it was enough to let them sleep.
+
+---
+
 The next morning, Clarisse found Percy at the training grounds.
 
 "You've been busy," she said, sitting on the bench beside him. "Nighttime excursions. Stolen records. Very adventurous of you."
