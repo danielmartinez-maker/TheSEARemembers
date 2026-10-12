@@ -190,6 +190,243 @@ When they were done she tossed him the supply bag.
 He carried the bag back to Cabin Three.
 ---
 
+Clarisse's extra drill was supposed to take twenty minutes.
+
+Percy knew this because she'd written twenty minutes on the practice schedule, underlined it, and told him he would not be allowed to complain if he arrived late. After an hour, they were still in the arena, and she had stopped keeping track of him entirely.
+
+Instead she was watching a small Hermes camper try to buckle a practice shield onto her arm.
+
+"Wrong side," Clarisse said.
+
+The girl changed hands. The shield dropped to the sand.
+
+"That's not what I meant."
+
+"You said wrong side."
+
+"I meant turn the strap over."
+
+The girl glared at the shield. She could not have been much more than ten. Her helmet had a dent over one ear and kept sliding over her eyebrows.
+
+Percy looked at Clarisse. "You could just show her."
+
+"I've shown her twice."
+
+"Then show her a different way."
+
+Clarisse's eyes narrowed.
+
+"Is this where you tell me all about teaching?"
+
+"No. This is where I volunteer to be the idiot in the demonstration."
+
+The girl looked up with interest.
+
+Clarisse considered him for a long moment, then tossed him another shield.
+
+"Fine. Strap it on wrong."
+
+"Won't be difficult."
+
+He put the loop around his wrist so the shield hung below his elbow. The leather bit awkwardly into the skin. He raised the shield and tried to block a slow thrust from Clarisse's blunt spear. The shield swung sideways, leaving his chest exposed. Clarisse tapped him in the ribs.
+
+"Dead," she said.
+
+"Lovely morning."
+
+She walked over and turned the strap.
+
+"Your forearm should carry the load. Your hand keeps the edge steady. When it's hanging from your wrist, the whole thing becomes a door with a broken hinge."
+
+Percy tried again. This time the shield stayed in line, although Clarisse's strike was hard enough to rattle his arm.
+
+"Better?"
+
+"Better than being dead."
+
+Clarisse turned to the girl. "Your turn."
+
+The girl managed the buckle, lifted the shield and held it so high she could barely see over the rim.
+
+"Don't hide behind it," Percy said. "Watch the spear."
+
+Clarisse sent him a warning look, then stepped back to give the girl more room.
+
+"Again," she said.
+
+They practiced until the girl's arms trembled. She started making the same mistake every third attempt, lifting the shield too early and losing her view of the spear. Percy could see her concentration fraying. Clarisse could see it too, but she kept asking for another repetition.
+
+"She's tired," Percy said.
+
+"That doesn't stop a monster."
+
+"It does stop her learning the next bit."
+
+The girl scowled. "I can do another."
+
+"Great," Percy said. "But can you do a better one?"
+
+That gave her pause.
+
+Clarisse lowered her spear. The arena was almost empty now. The sun had crossed the roof of the forge and was making the sand bright enough to hurt their eyes.
+
+"Water," Clarisse said.
+
+The girl sat down so fast her shield knocked against her helmet. Percy fetched a cup from the barrel. When he came back, Clarisse was examining the practice shield for a worn fastening.
+
+"What's your name?" Percy asked the girl.
+
+"Bea."
+
+"Is this your first year?"
+
+"Second. First year they wouldn't let me train with the older kids."
+
+"That explains why your helmet thinks you're smaller."
+
+"It's borrowed."
+
+"From a person with a much smaller head."
+
+Bea smiled despite herself. Clarisse pulled the helmet off and tightened the inner strap by two holes.
+
+"There," she said. "Now it'll stay put."
+
+Bea put it back on and gave a short, experimental nod.
+
+"It doesn't hit my nose anymore."
+
+"Fantastic," Percy said. "We've saved your nose."
+
+Clarisse handed back the shield and pointed to the far end of the arena.
+
+"Two minutes. Then you do one clean block and go get lunch."
+
+"One?"
+
+"One correct one."
+
+Bea drank, stood and positioned herself opposite Clarisse. The first thrust was slow. The shield turned at the wrong angle, and Clarisse stopped before making contact.
+
+"Again."
+
+Bea reset. She watched the tip of the spear, raised the shield only when it moved, and caught the blow on the bronze rim. Her feet stayed planted.
+
+Clarisse gave a curt nod.
+
+"That's it. Go eat."
+
+Bea lingered, uncertain whether a single successful block could count as a real lesson.
+
+"Did I pass?"
+
+"You did what I asked. Tomorrow we do two."
+
+Bea grinned, then ran toward the pavilion so quickly she almost lost the helmet again.
+
+Percy watched her go.
+
+"You could've told her she did well."
+
+"I did."
+
+"You said she did what you asked."
+
+"Same thing."
+
+"Not always."
+
+Clarisse turned to him, irritated.
+
+"Is that what you think you've figured out today? That I'm mean?"
+
+"No. I think you want her to be able to defend herself. You kept her out here because you're worried she won't."
+
+"She's a Hermes kid. They get cornered on patrol too."
+
+"Exactly." He started stacking the spare shields. "You're teaching her as if she's facing a monster this afternoon. She needed a chance to learn without being scared of you."
+
+Clarisse picked up the next shield, inspected the strap and set it in the repair pile.
+
+"She's scared of the spear."
+
+"She can be scared of both."
+
+"Then she'd better learn to deal with both."
+
+Percy did not answer immediately. In another life, he'd been pushed through dangerous lessons because the world refused to wait for him to grow older. Some of that training had saved him. Some had made him think he deserved every injury that followed.
+
+He didn't want to use those memories to lecture his sister. He wasn't sure how much of them belonged in this conversation.
+
+"You made a better teacher when you fixed her helmet," he said.
+
+Clarisse stopped.
+
+"That's because her helmet was broken."
+
+"Her confidence was a little broken too."
+
+"You sound like Chiron."
+
+"Sorry."
+
+"Don't apologize. It's annoying."
+
+She threw him the last shield. He caught it and checked the straps before adding it to the rack.
+
+For a few minutes they cleaned up together without speaking. The arena was empty, and the late morning sun had begun to warm the wooden practice dummies.
+
+"I used to hate it when instructors yelled at me," Clarisse said suddenly.
+
+Percy looked up.
+
+"Then why do you do it?"
+
+"Because I hate it when people don't listen." She rubbed the worn leather of a shield strap between two fingers. "And sometimes they don't listen until I raise my voice."
+
+"Sometimes," Percy agreed.
+
+"I didn't say always."
+
+"No."
+
+Clarisse glanced toward the pavilion, where Bea was probably telling her friends how she'd passed the shield test.
+
+"I'll ask her tomorrow whether she remembers the footwork."
+
+"She will."
+
+"You don't know that."
+
+"No. But I think she wants to."
+
+Clarisse hung the final shield in its place.
+
+"Now your turn."
+
+Percy stared. "We just finished."
+
+"Bea did."
+
+"That's cruel."
+
+"That's training. Pick up your sword."
+
+He groaned, but he picked it up.
+
+She made him practice the same block three times, each against a different angle of attack. He got the first wrong, the second almost right and the third well enough that she didn't correct him.
+
+"Good," she said.
+
+Percy lowered his sword.
+
+"You could've said that earlier."
+
+"You hadn't done it earlier."
+
+He couldn't argue with that. It was a good lesson, even if Clarisse would never admit they'd both had something to learn.
+---
+
 That afternoon, Percy found Silena in the library repairing the binding of an atlas.
 
 He had been looking for Clarisse. Silena had noticed him pass the same shelf twice and finally waved him over.
