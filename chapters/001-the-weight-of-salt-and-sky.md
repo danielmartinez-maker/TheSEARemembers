@@ -243,19 +243,23 @@ Percy laughed. He could picture Sally saying it. He could picture Poseidon's exp
 
 "Did you know her well?"
 
-"Not as well as I might have liked. We spoke a handful of times. She didn't trust gods much, even when she liked them. That was probably sensible."
+"Not personally. Your father spoke about her often, especially toward the end. She had a way of refusing to be impressed by a title. I think that was one of the things he liked about her."
 
 "Did she like you?"
 
-"She asked whether I intended to treat you kindly." Amphitrite's eyes went to the moving anemones. "I said yes. She told me that wasn't the same as promising."
+"We never had the chance to find out."
 
-Percy stared at her.
+Percy looked at the anemones. He had expected a rivalry, or at least the sort of silence that meant he shouldn't bring Sally up again. He wasn't sure what to do with a woman who answered his questions without trying to make his birth mother smaller.
 
-"What did you say?"
+"Was it weird? When Dad brought me here?"
 
-"I promised."
+"For everyone," Amphitrite said. "There were decisions I had to make about your place in this family. Your father didn't make those decisions for me."
 
-It would have been easier if Amphitrite had said something cruel or possessive. Percy had been prepared to resent her. Instead she was sitting beside him worrying about a camp packing list, and he had no memory of the years in which she had apparently kept that promise.
+"And you stayed?"
+
+"I did."
+
+He wanted to ask what she had felt when she'd first seen him. He didn't want an answer he would then have to pretend to remember. So he picked up the scroll again and looked at the unfinished list.
 
 "What happened to her?" he asked.
 
