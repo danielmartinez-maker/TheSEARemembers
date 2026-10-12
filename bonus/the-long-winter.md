@@ -508,3 +508,274 @@ From farther up the hill, Annabeth came out of the construction shed carrying a 
 
 Thalia appreciated that. Later she would tell her so, badly and over supper, while Annabeth pretended she wasn't pleased. For now she took the book from Rhys, corrected Milo's score with a firm pencil stroke, and started instructing the next group.
 
+---
+
+The Tempest Hall was full of noise when Thalia arrived on Tuesday evening.
+
+A row of lanterns lit the passage outside. From inside came the slap of water against tiled steps, the screech of a bench being dragged across the floor, and Percy's voice attempting to make itself heard over several campers who were determined to interpret the posted rules creatively. Thalia could tell he was enjoying himself from the volume of his complaints.
+
+Rhys was waiting at the second entrance, with two folded towels under his arm.
+
+"You're late," he said.
+
+"I was considering skipping."
+
+"Then I'd be standing here with two towels and no one to annoy."
+
+"You'd manage. You have other talents."
+
+"I do, but this is my favorite tonight."
+
+He offered her a towel. She took it because the air down here had the damp cold of a cellar. There was a bench free at the near end, close to the dry route out. He hadn't put her in a corner where she couldn't see the pool, or somewhere conspicuous where everyone would know the seat had been reserved. The thoughtfulness annoyed her in the way kindness sometimes did when she'd spent too much of the day expecting to fight for something.
+
+She sat, stretched the injured leg until it felt comfortable, and looked across the room. Annabeth was instructing Percy to move a marker back six inches. Percy was arguing that the marker was symbolic. Annabeth told him that water didn't understand symbolism and neither, apparently, did he.
+
+Rhys followed her gaze. "They always like that?"
+
+"They're worse when they agree."
+
+"They seem happy."
+
+"They are."
+
+He glanced at her. She wasn't sure whether he had heard the change in her voice. She could have explained that Percy and Annabeth had an ease with each other that felt older than either of them was supposed to be. She could have said that sometimes watching her sister be wholly herself with somebody else made Thalia proud and uneasy in equal measure. But it was not her secret to explain, and even if it had been, she wasn't ready to explain the parts of her own childhood that made letting go so difficult.
+
+Instead she nudged his boot with hers.
+
+"You're staring."
+
+"You're doing the same thing."
+
+"I'm allowed. She's my sister."
+
+"I was staring at you."
+
+She went still, then looked away before her expression gave her up. Rhys was watching the water again when she glanced back. He did that sometimes: said the thing that left her without an easy answer, then allowed her the dignity of not having to find one immediately.
+
+The session began. A daughter of Demeter lost her footing on the first submerged step and recovered before anyone could reach her. Percy called out a congratulation as though she'd completed a quest. Clarisse, supervising from the far rail, gave him a look that should have extinguished him. It didn't.
+
+Thalia stayed for forty minutes. She helped a younger camper work out why the room seemed louder on the wet side of the divider, then caught herself enjoying the child's bright-eyed account of the echo. She hadn't expected much from sitting still. She certainly hadn't expected to be useful while doing it.
+
+Rhys spent most of the time on the far side of the pool with the novices. Each time he looked toward her, she recognized that he was trying to ask whether she was comfortable without doing it in front of an audience. She answered once with a raised eyebrow and once with an obscene gesture too low for the children to see. The second answer made him laugh so hard that the camper beside him demanded to know what he'd missed.
+
+At half past eight, the last of the beginners left and the room began to empty. Percy was winding up a long explanation about the proper way to dry a rope. Annabeth listened with the exhausted affection of someone who had already corrected the same mistake three times. Thalia rose carefully from the bench.
+
+"Chiron told you not to stand too long," Rhys said when he returned.
+
+"I just stood up."
+
+"I meant earlier."
+
+"I didn't."
+
+"I know. You listened."
+
+"If you compliment me for sitting down, I'm leaving."
+
+"Noted."
+
+He shouldered the towels. She could see that the right one had been folded into a remarkably precise square. The left looked as though he'd wrestled it into submission.
+
+"Which did you fold?"
+
+He inspected them. "I don't want to answer that."
+
+"Excellent. You can still surprise me."
+
+They left by the dry corridor, where the sound of the pool dropped away behind the door. It was colder outside than it had been at sunset. The ground had developed a crust at the edges of the path, and Thalia had to watch where she placed her boots. Rhys offered an arm at the steep section. She considered being irritated, then took it and let him steady her over the two uneven steps.
+
+"Not going to argue?" he asked.
+
+"I might save it for something worthwhile."
+
+"I'll keep a list."
+
+"Don't. Clarisse has enough lists for the entire state."
+
+They walked a little farther. At the fork, one path led up toward Cabin One and the other ran past the north arena to the Apollo cabin. Thalia stopped where the gravel had been packed smooth by the carts.
+
+"Come with me?" Rhys asked.
+
+She heard the invitation for what it was. No invented errand, no need to demonstrate that she was the sort of person who could walk alone after dark.
+
+"For how long?"
+
+"As long as you want. You're tired. I'm not pretending otherwise."
+
+"I'm tired of everybody measuring my heel."
+
+"Then we won't discuss your heel."
+
+"What will we discuss?"
+
+He considered. "Your terrifying opinions about the novice targets."
+
+"They're not terrifying. They're correct."
+
+"I knew we'd find something."
+
+She went with him.
+
+---
+
+The cabin was unoccupied when they reached it. Rhys checked the slate by the door, put the two towels away, and stirred the coals until a small flame caught. Thalia stood by the bench watching him move around the room. Yesterday she had crossed its threshold on purpose for the first time. Tonight the room still felt particular, still held the memory of what they'd chosen, but it no longer made her feel as though she were entering a contest that required a brave face.
+
+Rhys put the poker down. "Tea?"
+
+"You're turning into an old man."
+
+"You're welcome to make it yourself."
+
+"I'd rather watch you ruin it."
+
+He filled the kettle. She moved toward the workbench and picked up a length of blue thread that had been left beside a small leather case. A half-mended glove lay under it.
+
+"Is this yours?"
+
+"My mother's."
+
+"Your mother sent you a glove?"
+
+"She sent me two. I managed to tear one during the trip. I promised to fix it."
+
+"You're bad at sewing."
+
+"She'll know that, too."
+
+He looked over her shoulder while she examined the seam. The cut ran across the palm, shallow but awkward to mend. The thread would be visible even if he matched the stitches properly.
+
+"Let me," she said.
+
+"You don't have to."
+
+"I know. If I were required to, I would refuse."
+
+He handed her the needle. She sat on the edge of the cot, where the lamp was stronger, and repaired the glove with firm little stitches. It was not complicated. Her hands knew the work from years of making too little cloth serve too many purposes.
+
+Rhys sat beside her, close enough to watch but careful not to jostle her arm. She liked his attention on her fingers, though she would rather have swallowed a coin than admit it.
+
+"My mother used to tell me not to waste time on people who could fix something themselves," he said.
+
+"Good advice."
+
+"She wasn't always right."
+
+Thalia glanced at him. "Because she thought people shouldn't help?"
+
+"Because sometimes fixing a thing together is the point."
+
+"That's dangerously sentimental, Calder."
+
+"Could be. Don't tell anyone."
+
+She finished the last stitch, bit off the thread, and held the glove out. He examined it, his thumb brushing the seam, and looked genuinely impressed.
+
+"I did know you were good at that," he said.
+
+"Clearly."
+
+"No. I mean I knew you could do it. I didn't know you'd do it for me."
+
+That was worse than a compliment. It was accurate.
+
+She set the glove aside. "There's a difference between helping someone and being put in charge of them."
+
+"Yes."
+
+"Don't make me your glove person."
+
+He laughed. "I solemnly swear I won't."
+
+She turned to face him properly. The lamplight left a pale line along his cheek. She had been aware of wanting to kiss him through the entire conversation, and she was tired of pretending that the feeling had to be disguised as something else.
+
+"Can I?" she asked.
+
+He looked surprised only for a moment. "Please."
+
+The kiss was easy at first, then less so, because neither of them had stopped wanting the other since yesterday. He moved his hand to her cheek. She caught his wrist and held it there, not to prevent him from touching her but to keep him close while she took her time. He smiled against her mouth when she paused.
+
+"What?" she said.
+
+"Nothing. You asked."
+
+"Should I not?"
+
+"No. I liked it."
+
+"Don't get used to good manners."
+
+"I wouldn't dream of it."
+
+She kissed him again. When the kettle began to rattle, neither of them reached for it immediately. Rhys was the first to laugh, which was unfair because she'd just decided she was going to be the one who broke the silence.
+
+"That will boil dry," he said.
+
+"Then go save your kettle."
+
+"You're very demanding."
+
+"Only when I'm here."
+
+"That's not what I've heard."
+
+She shoved his shoulder lightly. He caught her hand, kissed her knuckles, and went to pour the tea.
+
+The rest of the evening was quieter. They drank from mismatched mugs and talked about nothing of consequence until the conversation found its way, as it inevitably would, to the question Thalia had been avoiding: whether she wanted this to happen again in a way that could be spoken aloud.
+
+"I don't want an appointment," she said.
+
+"Neither do I."
+
+"I don't want you waiting for me every night, wondering if I'm coming."
+
+"I wouldn't."
+
+"You're going to say that now."
+
+"I'm saying it because it's true."
+
+She set down her mug. "And I don't want to be one more job you have to organize around the winter list."
+
+Rhys leaned back against the bedframe and rubbed at a thumbprint of blue thread stuck to his sleeve. "You're not a job. But I do like knowing when I might see you. That isn't the same thing as putting you on a roster."
+
+She knew he was right. That did not make the distinction comfortable.
+
+"I could come by Thursday," she said. "If you're free."
+
+"I should be. I have work until six."
+
+"Then I won't interrupt it."
+
+"Thalia, you can interrupt me sometimes."
+
+"How generous."
+
+"I'll try not to put that on a plaque."
+
+She smiled despite herself. "Thursday, then."
+
+"Thursday."
+
+He came to sit beside her, not as a reward for reaching an agreement but because they were alone and both wanted him there. She rested her head briefly against his shoulder, an intimacy that seemed to surprise her more than any of the kissing had.
+
+When she stood to leave, he didn't ask her to stay. She had said she was going home, and he took her at her word. He walked her as far as the porch. Outside, the cold made her eyes water. She drew the borrowed coat closer.
+
+"You're still wearing Percy's coat," he said.
+
+"He's not getting it back until spring."
+
+"Does he know that?"
+
+"He suspects."
+
+Rhys kissed her once on the threshold. There was nothing dramatic about it, and that was its own kind of danger. She could imagine doing it a hundred times, each one different enough to matter.
+
+"Thursday," he said.
+
+"Don't be late."
+
+"It's my cabin."
+
+"Then you have no excuse."
+
+She stepped down into the dark. Behind her he closed the door against the cold. She was halfway past the first lantern before she realized that for nearly an hour she hadn't thought about whether she was walking correctly. The heel began to ache again as soon as she noticed. She swore at it, then continued up the path with the kind of private smile she hoped nobody would see.
