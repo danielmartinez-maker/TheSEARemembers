@@ -540,6 +540,166 @@ Clarisse rolled over and dunked him. He came up sputtering and dunked her back, 
 ---
 
 
+Clarisse wanted a rematch in chicken fights. Percy wanted to sit on a towel and stop getting water up his nose. Silena wanted them both to stop shouting long enough for the younger swimmers to have their turn at the dock.
+
+"You're done," she announced, placing a folded towel in Percy's hands. "You've been in the water for two hours."
+
+"That's not a long time for me," he protested.
+
+"It's a long time to spend being knocked over by your sister. You can play again after the younger group finishes."
+
+Clarisse looked wounded. "I was providing instruction."
+
+"You were trying to throw him into the deepest section of the lake."
+
+"That is a form of instruction."
+
+Percy sat on the edge of the dock. His skin was warm from the sun, but his side still stung where he'd hit the water badly during the cannonball contest. It wasn't a serious injury. It was an unfamiliar kind of soreness, one he'd never expected to associate with swimming.
+
+Silena sat beside him and offered him an orange slice.
+
+"You had fun," she said.
+
+"I did. Except for the part where Grover fell on my head."
+
+"He was frightened."
+
+"He announced that he was a pacifist steed and abandoned me."
+
+"That was also funny."
+
+Percy took the orange slice. He glanced toward Clarisse, who was teaching a younger Hermes camper how to tuck her knees without throwing herself forward too early. Clarisse could be unexpectedly patient when somebody asked for help directly. Percy wished she'd remember to be that patient when he was the one getting something wrong.
+
+"She keeps telling me I used to be good at those games in Atlantis," he said.
+
+Silena looked toward their sister. "You were good at some of them."
+
+"I don't remember."
+
+"I know."
+
+He hesitated. It would have been easy to use the memory gaps as a reason to stop playing games whose rules belonged to his altered childhood. But Clarisse had watched him grow up beneath the sea, and the games were part of how she remembered being his sister. He didn't want to tell her those memories were worthless simply because he couldn't recover them.
+
+"Does it make you feel strange?" he asked Silena. "When I don't know what you're talking about?"
+
+"Sometimes."
+
+She had answered without trying to make him feel better. Percy looked at her.
+
+"I remember you being little," she continued. "I remember teaching you to tie the ribbons on your practice armor because you kept getting the knot wrong. Then you arrived at camp and didn't recognize the ribbon when I showed it to you. It made me feel as if I'd been carrying a photograph that nobody else could see."
+
+"I'm sorry."
+
+"I know. You didn't choose it."
+
+He looked down at the towel. "I don't want you to feel as though you have to make me remember by telling the same story again."
+
+"Then tell me when you don't want to hear it. I can miss something without making you fix it."
+
+Percy considered. His memories of Sally and a different childhood weren't fading, but every day he spent with Clarisse and Silena made the altered life less abstract. He couldn't tell them that without telling them what he remembered in the first place. He could still ask for different kinds of closeness.
+
+"Could you teach me something you actually liked doing with me?" he asked. "Not a test to see whether I remember it. Just something we can play now."
+
+Silena smiled. "Clarisse taught you a game with pebbles and shells. You'd make little targets in the sand and try to knock them down by flicking the shells. She always pretended she wasn't letting you have a second try."
+
+"That sounds like her."
+
+"You can ask her whether she wants another match."
+
+Percy thought about it, then stood. Clarisse was finishing the knee-tuck lesson. The younger camper went back toward the shallows with her counselor, leaving Clarisse standing beside a bucket of towels.
+
+"Can I ask you something?" Percy said.
+
+"Depends what it is."
+
+"Silena says you taught me a game with shells when I was little."
+
+Clarisse's face changed. The shift was so brief that he might have missed it if he hadn't been watching.
+
+"Yeah. You were terrible at it."
+
+"Would you show me how?"
+
+She looked toward Silena, who was making a conspicuous effort not to appear involved in the conversation.
+
+"You don't remember it?"
+
+"No. I'd like to learn."
+
+Clarisse set down the bucket. "Fine. But we use the dry sand. I am not digging pieces out of the lake if you throw them too far."
+
+They gathered smooth shells from a clean patch of shore. Clarisse scratched three small circles in the sand and set a flat pebble in the center of each. The rules were simple: flick the shell from a marked line, knock the pebble out of its circle and score one point. They started at the nearest line and moved back after every successful round.
+
+Percy's first shot barely reached the target.
+
+Clarisse groaned. "You are doing that with your wrist. Don't. Keep your finger straight until the end."
+
+He tried again. The shell spun wide.
+
+"Better," she said.
+
+"It missed."
+
+"It missed in a way that means you listened."
+
+He grinned. He had expected her to be impatient. Instead she knelt beside him and showed the movement again, this time letting him watch from the side. The third shell struck the pebble and moved it half an inch.
+
+"That counts," he said.
+
+"It does not."
+
+"It touched."
+
+"The rule is out of the circle."
+
+"Your game has oppressive standards."
+
+"That's why it's good."
+
+They played for half an hour. Percy improved enough to make the middle line consistently, though Clarisse won every round. He could have called the water below the sand to shift the pebbles. The thought made him laugh because the game would become meaningless if he did. He wanted to beat her honestly.
+
+At the last target Clarisse placed the pebble farther away, beyond the normal line.
+
+"Final shot," she said. "If you hit it, I give you the last orange slice."
+
+"That's not fair."
+
+"It is precisely fair. The terms are clear."
+
+Percy flicked his shell. It skimmed over the sand, struck the pebble and sent it tumbling out of the circle. He shouted loud enough to make nearby campers turn.
+
+Clarisse stared at the target. Then she retrieved the pebble, inspected it and declared that the shell had touched the edge before dislodging it.
+
+"That still counts," Percy protested.
+
+"It counts. I was checking."
+
+She gave him the orange slice. He ate it triumphantly while she erased the circles with her foot.
+
+"Did we really play this when I was little?" he asked.
+
+"All the time," she said. "You used to demand a rematch whenever I won."
+
+"I haven't changed much."
+
+"You've changed plenty. You're still annoying in the same way."
+
+He laughed. Clarisse pulled him into a quick, rough hug that smelled like sunscreen and damp towel. It lasted just long enough for him to return it. Then she shoved him toward the picnic blanket and told him to stop looking sentimental.
+
+Silena had been watching. When Percy sat beside her, she didn't ask whether he remembered the old games now. She handed him a fresh towel and pointed out that his feet were full of sand.
+
+"You're going to track that into the cabin," she said.
+
+"Then I'll wash them."
+
+"Good. I've spent the morning doing enough laundry for all of us."
+
+Percy looked back at the little circles Clarisse had erased. The game hadn't restored a single missing childhood memory. It had given him one more real thing to share with his sisters in the present. He wanted to keep it, even if Clarisse would never admit she was pleased.
+
+
+
+---
+
 Annabeth had been awake since dawn with a knot between her shoulder blades that wouldn't loosen.
 
 It wasn't a bad knot. Not danger, not prophecy, not the cold finger-trail she'd learned to recognize in the life she remembered when something was coming. Just — noise. Too many people, too many expectations, too much *remembering*. She remembered being seventeen and planning sieges and holding a knife to survive, and she remembered being seven and running away and Thalia's hand around hers so tight it hurt. And now she was twelve in a swimsuit with zinc on her nose, sitting next to a sister who was alive here and had lost years as a pine tree in the history Annabeth remembered, and she didn't know what to do with her hands.
