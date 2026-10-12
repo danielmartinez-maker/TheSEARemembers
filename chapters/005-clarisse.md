@@ -270,104 +270,334 @@ They finished the binding and set the atlas beneath two heavy dictionaries to dr
 
 ---
 
-That evening Percy spotted Clarisse at the lake — not their cove, Annabeth's, though near enough to make out her silhouette on the dock. Feet trailing in the water, hands busy. Whittling, by the rhythm of her shoulders.
+Percy found Clarisse at the lake just before dinner, sitting at the far end of a low dock with her boots beside her.
 
-He held off. Settling onto a nearby boulder, granite still radiating daylight, he watched the sun bleed out and granted her privacy, reflecting on how trust accrues. Gradually. In increments. By returning, again and again, until the other person credits the intent.
+He'd been sent to retrieve a coil of rope left by the canoe crew. He wasn't looking for his sister. The coil, however, was at her feet.
 
-Eventually Clarisse rose. Crossed over. Dropped onto the boulder beside him uninvited.
+"You planning to steal that?" he asked.
 
-"Thought you were seeing your girlfriend," she said.
+"Depends. Is it any good?"
 
-"Already am. She's right over there."
+"It's ours."
 
-Clarisse snorted. "Naturally." She brandished her handiwork — the earlier panther, now complete. Wings unfurled. Eyes keen. Beautiful. "Crafted this for you. Assign no significance."
+"Then it's probably terrible."
 
-"Wouldn't dream of it."
+She nudged it toward him with one bare foot. Percy picked it up and checked for cuts. Most of the length was sound, but the last yard had begun to fray.
 
-"Good." She pressed it into his palm, wood still warm from her grip. "Even exchange. You listened. I manufactured an object."
+"I'll mark it for repair," he said.
 
-He rotated the panther. Wing feathers etched in fine lines snagged the final sunlight. The expression managed ferocity without cruelty. Knowing eyes.
+"Look at you. Learning the rules."
 
-"Clarisse, this is exceptional."
+"I've had an excellent teacher."
 
-"Obviously." Pleasure leaked through the flat delivery. "Silena insists I occupy my hands beyond training. *Art*, she labels it. As though carving qualifies as art rather than — I don't know — a thinking aid."
+"Chiron?"
 
-"It qualifies."
+"A terrifying woman with a knife."
 
-"Perhaps." A beat, water lapping the pilings. "Percy. May I pose something?"
+Clarisse snorted and drew something out of her jacket pocket.
 
-"Always."
+It was the panther she'd been working on at the border post. Finished now, or nearly so. The wings were carved in overlapping rows of feathers, and the paws were too large for the body. The face had a crooked expression that made it look permanently annoyed.
 
-"Do you ever doubt the reality? Like, fundamentally? Whether we're awake or dreaming? Or snared in something? Occasionally it plays like a narrative. As though some author scripted us and we're merely hitting marks."
+She held it out.
 
-Percy weighed the odd question. Then again, odd defined his circumstances.
+"Here."
 
-"At times," he admitted, thumb tracing the panther's wing. "At times I sense the role. As though someone assigned my identity and I'm simply... complying."
+Percy took it before she decided not to offer.
 
-"Precisely." Her stare stayed on the darkening water, where the first stars pricked reflection. "Yet the inverse strikes too. Occasionally I'm so *present* the rest evaporates. Fear evaporates. Only being remains."
+"What's this for?"
 
-"That's the worthwhile passage."
+"Your birthday. Late. Or early. Whichever makes fewer questions."
 
-"Yeah." A small, private smile. "It is."
+"You don't even know when my birthday is."
 
-Side by side they remained while orange bled to violet to black, while constellations pricked through, while the world simplified for a little while into water and stone and breath. Midges stitched the air above the shallows. A fish rose with a soft plop, rings widening across reflected Cassiopeia, and Clarisse's shoulder rested a fraction closer than camaraderie strictly required — the unconscious lean of someone relearning proximity.
+"Exactly. Efficient system."
 
+He turned it in his fingers. The wing feathers were rough along the undersides, but the front of the animal had been polished smooth. A great deal of patient work had gone into something Clarisse was pretending not to care about.
+
+"Thanks," he said.
+
+"Don't make a thing of it."
+
+"I wasn't going to."
+
+"You were looking at it like you were about to make a thing of it."
+
+"I was looking at its face. It looks like you."
+
+"Give it back."
+
+He tucked it into his shirt. "Too late."
+
+She reached for it. He stepped aside. The dock creaked, and she caught his sleeve before he could stumble off the edge.
+
+"Careful, idiot."
+
+"I'm standing on a dock."
+
+"That's the problem with docks. There's water beside them."
+
+"I'm a son of Poseidon."
+
+"That won't stop you cracking your head on a piling."
+
+She let go. Percy sat a few planks away and put the panther on his knee.
+
+"Silena says you make these when you're thinking."
+
+"Silena also says we should sort the supply cupboard by color. She has opinions."
+
+"Her system works."
+
+"It works because I carry the heavy things."
+
+"She'd say it works because she knows where the heavy things go."
+
+Clarisse gave him a sideways look.
+
+"She's been making you do chores again?"
+
+"I volunteered."
+
+"Then you've been at camp long enough to make bad decisions."
+
+They watched a pair of naiads argue with a camper who was trying to push a canoe off its cradle without checking the rope. Clarisse called out the correct knot before the boy could get himself tangled. He waved in thanks and tried again.
+
+Percy glanced at her.
+
+"You teach everybody like that?"
+
+"Only the ones who might break something."
+
+"That's everybody."
+
+"Yes."
+
+She tucked her hands into her jacket sleeves. The breeze off the lake had turned colder.
+
+"I'm still angry with Dad," she said.
+
+Percy hadn't asked. The admission caught him off guard.
+
+"Okay."
+
+"And I don't want you deciding it would be better if we all sat together and sorted out our feelings."
+
+"I wasn't planning a family meeting."
+
+"Good. It would be awful."
+
+He thought about the wooden panther on his knee. Clarisse had been working on it while they discussed Poseidon at the border, and she'd finished it without saying another word about what she'd told him.
+
+"I can't make him better at being your father," Percy said.
+
+"I know."
+
+"But I can be here."
+
+"You're here now."
+
+"Yeah."
+
+"That's a start."
+
+Percy leaned back on his palms. For a while they listened to the ropes clatter against the canoe racks.
+
+"Have you shown Silena that panther?" she asked.
+
+"Not yet."
+
+"Don't."
+
+"Why?"
+
+"She'll ask where hers is."
+
+He looked at the winged creature.
+
+"Does she have one?"
+
+"Three." Clarisse considered that. "Four, if she's kept the one I made when I was nine."
+
+"Then this is an exclusive edition."
+
+"Don't let it go to your head."
+
+The dinner horn sounded. Clarisse put on her boots. Percy tucked the rope under one arm and the panther safely into a pocket where its wings wouldn't catch.
+
+As they started back, Clarisse noticed he'd left his jacket unzipped.
+
+"You're going to freeze."
+
+"Yes, Mother."
+
+She shoved him, not hard enough to knock him off the path.
+
+"Don't call me that."
+
+"Yes, terrifying woman with a knife."
+
+"Better."
+
+They reached the cabin before the second horn. Percy set the damaged rope beside the supply chest and found a spot for the panther on the shelf over his bunk.
+
+Clarisse pretended not to notice where he'd put it.
 ---
 
-Later that night Annabeth tracked Percy to the lakeshore, her sandals whispering through damp grass.
+Annabeth found Percy at the lake after dinner. He'd gone back to return the repaired section of rope and ended up sitting on the dock longer than he meant to.
 
-"You've been orbiting Clarisse a lot," she observed, folding down beside him. Reeds whispered. Mud sucked softly at the bank.
+"Thalia is looking for you," she said.
 
-"Problem?"
+"That's never good."
 
-"Uncertain. Perhaps." Knees drawn up, chin resting there. "She's your sister, Percy. And sharing you doesn't come naturally."
+"She wants to know whether you moved the practice shields."
 
-A bullfrog called. Percy let the quiet gather before answering. "Annabeth, she possesses you. Always will. I'm not displacing that."
+"Oh. Then it's fine."
 
-"Awareness doesn't dissolve complication. Everything tangles."
+"Percy."
 
-"Biography of our lives."
+"I put them where Clarisse told me. I can show her tomorrow."
 
-That earned a laugh. "Yeah."
+Annabeth sat beside him, pulling her jacket tight. She'd brought a notebook but didn't open it.
 
-They lingered, and after a while Annabeth tipped against his shoulder. His arm settled around her. Overhead the stars multiplied.
+"You've been spending a lot of time with Clarisse."
 
-"I unearthed something today," Annabeth said. "Concerning Thalia. Concerning... our father."
+"She's teaching me how not to get killed by routine camp maintenance."
 
-"Regarding?"
+"Useful skill."
 
-"He visited. Last week. First appearance in months." A hesitation. "He presented differently. Altered from prior. Altered visage, altered hair, altered entirety. Like encountering a stranger."
+"Underrated."
 
-"Zeus never repeats a face," Percy said. "Standard for him."
+Annabeth smiled, but it didn't last. Percy waited. He had learned that she sometimes needed a minute to decide whether a thing was worth saying, and that trying to hurry her usually meant they argued about the wrong part of it.
 
-"Understood. But how does one anchor a daughter to a father who arrives wearing a new countenance each visit?"
+"Thalia thinks you're getting into something with the Hall records again," she said.
 
-Peculiar, Percy mused — envying a steadiness he himself had never owned in his original life: Poseidon here, consistent, recognizable.
+"She's not entirely wrong."
 
-"Mine doesn't shape-shift," he said. "Poseidon. Identical each arrival. Lately I wonder whether consistency guarantees superiority. At least yours materializes. Changed or not. At least he comes."
+"I know. That's what bothers me."
 
-Annabeth fell silent. Lake water licked stone.
+Percy turned toward her.
 
-"You drew a decent father," she murmured.
+"You want to stop?"
 
-"One father, two histories," Percy said. "Poseidon here knows how I take my tea. In the life I remember, I waited years just to meet him. I can't decide whether being closer makes his mistakes hurt more."
+"No. I want to stop acting like we have to figure everything out before breakfast. Nico has a ledger. Zoe knows the repair system. Silena knows people who worked on the water channels. We're not alone in it anymore."
 
-Annabeth knew the waiting he meant. She heard the gravel in his tone and left the question room to stand.
+"You're right."
 
-"You miss her," she said. "Sally."
+"I wish you'd stop saying that when I haven't finished."
 
-"Daily."
+"Sorry."
 
-"I miss my mother too. Not Beryl — Athena." A pause, breath misting faintly. "In my original timeline, she embodied everything. She credited me. Perceived me, genuinely perceived me, before I comprehended myself. Then she withdrew, and I lost her, and ever since I've labored to grow into the person she envisioned."
+She rested the notebook on her knees.
 
-"Heavy inheritance."
+"I spent some time with Thalia today. She told me our father visited last week."
 
-"Identity, I think." She angled to face him. "Does the missing ever lighten?"
+Percy took a moment to understand the pronoun. Zeus. Of course.
 
-"No. You merely strengthen the muscles that bear it."
+"Did you see him?"
 
-They remained in the dark, two children mourning parents mislaid across timelines, and the hush between them approached closer to peace than anything since their arrival. Crickets sawed in the reeds. The dock ropes creaked. Annabeth's hair smelled faintly of woodsmoke from the pavilion fire, and Percy memorized the moment the way he memorized charts — shoreline, star positions, the exact pressure of her shoulder — in case darker days required it.
+"No. I must have been at training. She said he looked completely different from his last visit. New face, new voice, different hair. Like meeting someone and being told they're the same person you spoke to a month earlier."
 
+"That sounds like him."
+
+"To you, maybe. I don't remember growing up with him. Thalia does. And now she has to describe how he behaved as though I should remember it too."
+
+Percy looked at the water.
+
+"What did he say?"
+
+"That he'd try to come again soon." Annabeth picked at the edge of her notebook. "Thalia doesn't believe him."
+
+"Do you?"
+
+"I don't know him well enough in this life to have an opinion. That's the problem."
+
+He had no answer. There was a version of Poseidon in his memory who had sometimes been too distant to reach, and there was the father whose household he'd woken up in. Neither made Zeus easier to understand.
+
+"I miss Athena," Annabeth said.
+
+It wasn't a grand declaration. She said it quietly, looking at her closed notebook.
+
+"Even when we were fighting, I knew what she expected from me. Here I can't tell whether Zeus cares how I train or whether he'd recognize me if I walked past him."
+
+Percy nudged her knee with his.
+
+"I think he'd recognize you."
+
+"That isn't based on any evidence."
+
+"No. You're right."
+
+She gave him a look.
+
+"Don't start."
+
+He smiled, then grew serious.
+
+"I miss Sally, too. Every time I write home and Amphitrite asks something about when I was little, I remember a different kitchen. I don't know what to tell her without making her worry."
+
+"Are you going to tell her?"
+
+"No. Not about the other life."
+
+Annabeth nodded. They'd agreed on that, and it still felt like a difficult choice.
+
+Percy drew the wooden panther from his pocket and showed her.
+
+"Clarisse made this."
+
+Annabeth took it gently.
+
+"The wings are good."
+
+"She said it was a birthday present."
+
+"When's your birthday?"
+
+"Not according to her system, apparently."
+
+Annabeth ran her thumb over the uneven paws.
+
+"She must have worked on this for hours."
+
+"She did." Percy watched her expression. "What?"
+
+"Nothing."
+
+"That is a very specific nothing."
+
+"Thalia used to make things for me. She tells me about them, and I can't remember getting them." Annabeth handed back the panther. "It's strange being jealous of a little carved animal. At least you can remember the day Clarisse gave it to you."
+
+Percy slipped his hand into hers.
+
+"You can still make new things with Thalia."
+
+"We're fixing the portrait frame."
+
+"How's that going?"
+
+"Slowly. Which is apparently better than my plan to finish it in one night."
+
+He laughed.
+
+They stayed a few more minutes, but not until curfew. Annabeth stood first, and he followed. The camp lights shone between the trees. Percy could hear Clarisse complaining to someone near Cabin Three.
+
+At the fork, Annabeth turned toward Cabin One.
+
+"Tell Thalia about the shields tomorrow," she said.
+
+"I will."
+
+"And don't start another secret investigation before lunch."
+
+"I make no promises about lunch."
+
+"Percy."
+
+"After lunch, then."
+
+She shook her head, laughing despite herself, and walked back toward her sister. Percy headed for Cabin Three with the carved panther in his pocket, thinking that having people to come home to did not solve the question of what had happened to their past.
+
+It did give him a reason not to rush the answer.
 ---
 
 Clarisse intercepted Percy before breakfast the next morning, one greave unfastened and her sword hanging loose at her side.
