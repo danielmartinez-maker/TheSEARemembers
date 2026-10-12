@@ -306,11 +306,118 @@ Five pairs of eyes stared at him.
 
 "Oh gods," Grover said. "I have to give it to her."
 
+
+---
+
+An hour before dinner, Percy discovered that being part of a committee came with a problem. The committee thought the note belonged to the committee.
+
+Silena had borrowed Annabeth's final copy to check the fold. Thalia had made a suggestion about the opening. Clarisse had announced that any romantic letter beginning with *Dear Juniper* ought to end with something better than *Sincerely*. Ella wanted a drawing of a strawberry in the corner. None of them had noticed that Grover had stopped speaking.
+
+Percy noticed because he had been sitting beside Grover long enough to feel the nervous tapping of his hoof through the bench.
+
+They were under the pavilion roof, the evening light making copper strips across the tables. Annabeth had gone to get another sheet of papyrus from the Big House. Silena was explaining the difference between a letter and a card. It would have been useful advice for somebody else.
+
+"Can I see it?" Grover asked.
+
+Silena gave him the papyrus. "Of course. I only changed the folds. Look, it opens like this, and the message is still the first thing she'll see."
+
+Grover unfolded it. His lips moved over the words. Percy could tell exactly when he got to the last line, because his ears stopped twitching.
+
+"That's not what I wrote."
+
+"Well, we cleaned it up," Silena said. "You wanted help."
+
+Grover traced the last sentence with a finger. "I said I liked listening when she hums while she works. This says she makes the whole forest sing."
+
+"That's prettier," Silena said, then looked at him properly. "Isn't it?"
+
+"No." His voice was so quiet Percy nearly missed it. "It's not even true. The forest sings without her. That's one of the things I like about her. She listens before she starts."
+
+Nobody said anything for a moment.
+
+Percy took a breath. He could have rescued the conversation with a joke, something about Silena's poetry threatening the local wildlife. He almost did. Then he thought about what he'd told Grover that morning, that he didn't have to become somebody else for Juniper to like him. Apparently that advice also applied to the people helping him.
+
+"Give him his first draft back," Percy said.
+
+Clarisse frowned. "You can't give somebody a first draft. It's a first draft."
+
+"He's giving somebody a letter," Percy said. "Not turning in an essay."
+
+Thalia's eyebrows went up. "You're taking this seriously."
+
+"It's his."
+
+That ended the argument, or at least the loud part. Silena reached into her satchel and found the sheet they had started with. It was creased, and the corner had a muddy thumbprint where Grover had caught it when Annabeth dropped the wax tablet. His letters leaned uphill. One word had been crossed out four times.
+
+Grover held the two versions side by side.
+
+"Mine's embarrassing," he said.
+
+"Mine was worse," Percy told him.
+
+"When did you write a love letter?" Clarisse asked immediately.
+
+"Never. That's how bad it was."
+
+She stared at him, deciding whether to be annoyed. Percy didn't wait. He slid the cleaner papyrus toward Grover.
+
+"You can make a new copy in your handwriting. Keep the part you actually meant. Annabeth will help if you can't spell something, but you get to pick the words."
+
+Grover looked at Silena first. Her expression had changed. She was staring at her own neat folds with the embarrassed concentration she usually reserved for a seam she'd stitched backward.
+
+"I got carried away," she said. "Sorry, Grover."
+
+"I liked the fold," Grover admitted. "It's the singing forest part I don't want."
+
+Silena nodded. "Then don't use it. I'll show you how to fold your version."
+
+Thalia leaned back and pushed one boot against the bench. "For the record, I didn't touch the middle."
+
+"You wanted him to sound mysterious," Clarisse said.
+
+"I wanted him to stop apologizing in every sentence."
+
+"That's because he's Grover," Percy said. "His favorite words are sorry and please and where did my lunch go."
+
+Grover snorted. It wasn't much, but it was the first noise he'd made in several minutes that hadn't sounded like a hoof caught in a door.
+
+Annabeth returned carrying two fresh sheets and a stylus, took one look at their faces, and set everything down.
+
+"What did I miss?"
+
+"Grover's decided to use his own words," Percy told her.
+
+"Good," she said, with a quick nod that made it clear she thought this should have been obvious from the beginning. "What do you want checked?"
+
+"Spelling," Grover said. "Just the spelling."
+
+They spent the next twenty minutes at a quieter table. Percy kept the others occupied by asking Clarisse how she would respond to a declaration of love delivered during spear practice. Her answer involved making sure the admirer wasn't holding the spear. Silena taught Ella how to fold a square of scrap papyrus into a little pouch. Thalia went to collect the tools she had abandoned at the arena.
+
+Annabeth sat beside Grover rather than across from him. She pointed out two misspelled words, asked whether he meant the old bramble or the new one, and handed his stylus back without making the choice for him.
+
+Percy watched Grover write the last line himself.
+
+He paused a long time over the space beneath it. Then he added a postscript.
+
+*You don't have to write back fast. The letter can wait.*
+
+It was not something any of the rest of them would have suggested. Percy thought it was the best line on the page.
+
+Grover folded it the way Silena showed him, badly at first. Silena didn't reach over to fix it. She waited until he asked where the corner went, then demonstrated on a piece of scrap.
+
+When he finished, the note was slightly crooked and completely his.
+
+"Now," Grover said, swallowing hard, "I just have to give it to her."
+
+"Yep," Percy said.
+
+The others were tactful enough not to cheer.
+
 ---
 
 Giving the note to Juniper turned out to be harder than writing it.
 
-Grover carried the folded note — Annabeth had copied it neatly onto real papyrus, because wax tablets were not romantic, according to Silena — in his pocket all through sword practice, dinner prep, and capture-the-flag strategy meeting. He kept patting his pocket to make sure it was still there. By dinner, the papyrus was soft and a little damp from nervous hoof-sweat. Annabeth made him copy it over again on a fresh sheet.
+Grover carried the folded note, written out again in his own uneven hand and folded with Silena's help, in his pocket all through sword practice, dinner prep, and capture-the-flag strategy meeting. He kept patting his pocket to make sure it was still there. By dinner, the papyrus was soft and a little damp from nervous hoof-sweat. Annabeth made him copy it over again on a fresh sheet.
 
 "You can do it after dinner," Percy coached, walking with Grover to the pavilion. "Just walk up, say hey Juniper, I wrote this for you, hand it over, and walk away if you need to. You don't have to wait while she reads it."
 
