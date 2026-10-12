@@ -986,6 +986,240 @@ Maybe they all could.
 
 ---
 
+Annabeth didn't let go of Thalia's hand until they reached the empty archery shed.
+
+It was one of the few places at camp where nobody went during the middle of the day. The targets were stacked against the back wall, straw showing through old canvas. The door had swollen in its frame and needed an extra push to close.
+
+Thalia stood with her back to it.
+
+"He's not hurt," Annabeth said.
+
+"I know."
+
+"You shouted at him in front of half the camp."
+
+"He broke our things."
+
+"He broke a portrait that was already cracked. Accidentally, from what he said."
+
+"You're taking his side."
+
+"I'm telling you what I saw."
+
+Thalia's jaw tightened. The bruise under her shirt was still bothering her; Annabeth had seen the way she'd held herself during breakfast. That didn't excuse the shouting. It did explain why her sister looked one remark away from coming apart.
+
+"Did you see him put it back?" Annabeth asked.
+
+"What?"
+
+"The portrait. Did he try to put it back when it fell?"
+
+"He picked up the pieces."
+
+"Then he wasn't trying to hide what happened."
+
+"You're very sure about a boy you don't know."
+
+Annabeth nearly answered that evidence mattered more than whether she knew somebody. She caught herself. Thalia had spent a great deal of her life being told that she was unreasonable when she was trying to protect something. A lecture about logic would sound suspiciously like another dismissal.
+
+"Why does the portrait matter so much?" she asked instead.
+
+Thalia laughed without humor.
+
+"It's the portrait of our father. In our cabin. I don't know, Annabeth. Maybe because that's where portraits go."
+
+"But you hate that portrait."
+
+Thalia stared at her.
+
+Annabeth had seen it above the small shelf in Cabin One, framed in dark wood, one corner chipped. A severe-looking man in formal robes sat against a marble sky. He had gray hair, a square jaw and eyes the painter had made too bright. The painting looked more like the idea of Zeus than any actual person.
+
+The first time Annabeth saw it, Thalia had told her their father used to appear with that face. The next time he'd come to camp, he hadn't looked anything like the painting.
+
+"You know I hate it?" Thalia asked.
+
+"You said so."
+
+"Last month?"
+
+"Earlier."
+
+Thalia's expression closed. Annabeth had become skilled at recognizing the exact instant a question shifted from an ordinary conversation into a test of missing memory.
+
+"I don't remember when," Annabeth said.
+
+"Fine."
+
+"It's not fine."
+
+"Then what do you want me to say?"
+
+Annabeth looked at the rows of arrow shafts on the wall. She could count the ones missing their fletching without turning her head. She couldn't count the times Thalia had looked after her in the childhood she didn't remember. Every conversation seemed to require her to choose between pretending to know and making Thalia hurt.
+
+"I want you to tell me why you keep it," she said.
+
+Thalia folded her arms and sat on an overturned crate. The wood protested under her weight.
+
+"Because you wanted it," she said.
+
+"I did?"
+
+"When we first got here. You were little. You kept asking what Dad looked like, and nobody could give you the same answer twice. Chiron found that portrait in storage and said it was as good a likeness as any."
+
+Annabeth imagined a child begging for a picture of her father. In the life she remembered, Athena had been a goddess who arrived rarely and somehow expected her children to understand the absence. It was a familiar hurt wearing different names.
+
+"Did it help?" she asked.
+
+"At first." Thalia rubbed her palms against her jeans. "You used to tell him about your day. The painting. When you got a new bead or learned a new Greek word, you'd stand under it and talk."
+
+Annabeth's stomach twisted.
+
+"That sounds embarrassing."
+
+"You were six."
+
+"Still."
+
+"It was embarrassing," Thalia admitted. "You'd tell him when I was mean to you, too. I used to threaten to turn the thing around."
+
+"Did you?"
+
+"Once. You cried for an hour. Luke made me turn it back."
+
+That was a memory neither girl could share now. Thalia had lived it. Annabeth heard it as though she were listening to somebody describe an old photograph.
+
+"And he never came?" Annabeth asked.
+
+Thalia looked up sharply.
+
+"Sometimes. Never when you asked. He'd come in a different face and tell us we should have known it was him, then leave before we could ask where he'd been." She kicked at a splinter on the floor. "You stopped talking to the painting a couple of years ago."
+
+"So you kept it for me."
+
+"I kept it because it's ours." Thalia pushed back her hair. "We got to decide what went on our wall. Not him. Not the council. Us. That stupid portrait belonged to the cabin when we barely had anything else that did."
+
+Annabeth looked at her sister and finally understood why the boy dropping the frame had made her so furious. It was not because their father had been honored. It was because someone had accidentally damaged an object that proved the girls had been here together.
+
+The realization didn't make the boy guilty.
+
+"He's still owed an apology," she said.
+
+Thalia gave her an incredulous look.
+
+"You're going to start that again?"
+
+"Yes."
+
+"He was careless."
+
+"Then tell him to be careful. Don't accuse him of lying when you don't know."
+
+Thalia stood too quickly, hissed as her bruised side caught, then pretended it hadn't happened. Annabeth felt her own temper rise.
+
+"You can't turn every mistake into an attack," Annabeth said.
+
+"And you can't act like being right makes it all right to tell me what to do."
+
+"I'm not telling you what to do. I'm telling you you scared him."
+
+"I've scared worse things than a camper who knocks over furniture."
+
+"He's not a drakon."
+
+Thalia went still.
+
+Annabeth wished she hadn't said it like that. The memory of the drakon on the hill was fresh for both of them, and Thalia had been carrying the bruise from it while everybody else congratulated her. But the words were true. Annabeth wasn't going to take them back simply because her sister didn't like them.
+
+"No," Thalia said at last. "He's not."
+
+They stood in the silence that followed. The boards creaked in the wind.
+
+"I didn't want you to get hurt," Annabeth said.
+
+"At the hill?"
+
+"At the hill. Today. Any of it."
+
+Thalia rubbed a hand over her face.
+
+"I keep looking around and thinking something else is going to change."
+
+"Something already has."
+
+"Yeah." Thalia dropped her hand. "And I don't know whether I can stand finding out what it is."
+
+Annabeth didn't know what to say. She could admit that she remembered a different life. She could tell Thalia that the portrait belonged to a girl who had really existed, but whose years together with her sister remained inaccessible to her. That was not a secret she could reveal carelessly, least of all when Thalia was angry and tired.
+
+"You're allowed to be worried," she said. "But when you yell at people because you're worried, they're still people."
+
+"I know."
+
+"I mean it."
+
+"I know, Annabeth."
+
+Thalia walked to the shed door and put her hand on the latch. For a moment Annabeth thought she was leaving without another word.
+
+Instead she asked, "You think I should go find him?"
+
+"Yes."
+
+"With you?"
+
+Annabeth was tempted to say yes. She'd been fixing conversations all day and could probably manage another. But Thalia needed to make this one without being led through it.
+
+"You know what to say."
+
+"Apparently not."
+
+"Start with 'I shouldn't have shouted.' Don't follow it with a speech about how the portrait is important."
+
+"That's the part I'm going to struggle with."
+
+Annabeth smiled despite herself.
+
+"Then make it short."
+
+Thalia eased the door open. Daylight fell across the stacked targets. She hesitated, then looked back.
+
+"Will you help me repair the frame afterward?"
+
+Annabeth thought about the ruined corner, the loose joint and the peeling paint. Repairs were something she could do, not just something she could pretend to remember.
+
+"Yes. But if we need new wood, we ask the forge for it. We don't steal it off the archery shed."
+
+"That happened once."
+
+"Did it?"
+
+Thalia grimaced.
+
+"That was a trap."
+
+"It was a question."
+
+"Sometimes they're the same thing with you."
+
+She went to find the boy.
+
+Annabeth stayed long enough to straighten the targets against the wall. As she lifted one, a sliver of old wood lodged in her finger. She set the target down and pulled the splinter free. The sharp little pain was almost welcome. A problem with a size and a cause and an obvious solution.
+
+By the time she got outside, Thalia had caught up with the boy near the pavilion. He looked wary. Thalia's shoulders were stiff.
+
+Annabeth couldn't hear the words from where she stood, but she saw Thalia stop talking and let the boy answer. He pointed toward the cabin, explaining something with his hands. Thalia listened. Then she nodded once.
+
+It wasn't a perfect apology. Annabeth was too far away to know whether it was a good one. But the boy's expression had changed by the time they parted.
+
+She walked down the slope to the cabin. The damaged portrait lay against the wall, the corner still separated from the frame. Annabeth set a folded cloth beneath the painted surface and began sorting the loose nails.
+
+She would repair the frame with Thalia later.
+
+She would not pretend that doing so gave her back the afternoon when six-year-old Annabeth had spoken to a picture and sixteen-year-old Thalia remembered her voice. But she could make sure the portrait stayed on the wall, if that was what both of them wanted.
+
+The next time Thalia came into the room, she would have a place to begin.
+
+---
+
 Later that day, Percy asked Clarisse about the portrait.
 
 "The one in the Zeus cabin? That old painting of Zeus?" Clarisse snorted. "Yeah. Some kid knocked it over when we were redecorating. It was already damaged, but Thalia acts like nothing matters more to her than that cabin's history."
