@@ -533,6 +533,3 @@ Annabeth tilted her head up to look at him. Her gray eyes caught the firelight. 
 Percy smiled back. He squeezed her hand once, gently.
 
 They sat like that through three more songs, not dancing, just listening, hands linked, shoulders touching, while the stars came out one by one overhead and the music played on.
-
----
-
