@@ -96,6 +96,126 @@ Percy grinned back before he could stop himself, and quickly turned it into a co
 ---
 
 
+After the race, Zoe came back to the dock with a strip of cloth and asked Percy whether he wanted to know why she'd beaten him.
+
+"I thought you said you were going to celebrate first."
+
+"I celebrated. You heard the shouting."
+
+"Hard to miss."
+
+She pointed at the shallow part of the shore, where the sand dropped away in a gentle slope. There was space to practice without disturbing the campers who were still waiting for their turn at the buoy.
+
+"Your turn is inefficient," she said. "You follow the curve around the marker as though you expect the water to move you. That's fine when you can make it do what you want. It's slower when you're relying on your arms and legs."
+
+Percy looked at her. "I'm going to regret asking this, aren't I?"
+
+"Almost certainly."
+
+They walked into the shallows. Zoe demonstrated a tight turn with one hand brushing the edge of the buoy. Percy tried it and got his foot tangled in the rope.
+
+"That's not how the rope works," Zoe observed.
+
+"I was testing its integrity."
+
+"Wonderful. Test it from the other side."
+
+She showed him again, breaking the motion into pieces. Percy practiced the push from the wall of shallow sand, the rotation of his shoulders and the way his feet needed to follow. He was accustomed to feeling a whole body of water respond to his intent. Learning to use ordinary strokes without the shortcut required him to notice muscles he'd barely bothered with during Atlantean lessons.
+
+He tried the movement again. The second attempt was better. The third was too fast and sent him sideways.
+
+Zoe laughed.
+
+"You're not naturally terrible at this," she said. "You're just used to succeeding differently."
+
+He considered the insult and found he couldn't argue with it. The difference mattered. He had held back his power because Chiron had required it, but he'd assumed the rest of the race would be easy. Zoe had beaten him because she'd spent more time practicing the technique they were actually using.
+
+"Can we try the buoy again?" he asked.
+
+"We can. But I'm not racing you until you've learned to turn without grabbing the rope."
+
+"Harsh."
+
+"Accurate."
+
+They practiced for ten minutes. Nico arrived halfway through, carrying two cups of water from the picnic blankets.
+
+"Are you training for another race?"
+
+"Zoe's teaching me how to stop embarrassing myself," Percy said.
+
+"That sounds like a long lesson."
+
+Zoe grinned. "He's improving."
+
+Nico set the cups on a dry plank. He watched Percy repeat the turn, then announced that the movement looked a little like dodging an opponent in Mythomagic.
+
+"Your feet have to be on the correct side before you make the next move," he said.
+
+Percy stared at him. "That's actually a useful comparison."
+
+"Of course it is."
+
+Nico looked pleased. He had been practicing his own swimming that morning with a counselor nearby, but his attention kept drifting to the races. Percy remembered that the boy had been spending so much time learning about the gods that he sometimes forgot he was allowed to be bad at an ordinary game.
+
+"Want to practice with us?" Percy asked.
+
+Nico hesitated. "I'm not very fast."
+
+"Neither am I, apparently."
+
+"You're faster than everybody if you cheat."
+
+"Then today is a good day to learn how to win without that."
+
+They moved the buoy closer to the shallows and took turns practicing the route. Nico's first turn was awkward. Percy's second was clumsy in a different way. Zoe corrected each of them without pretending the mistakes were the same. By the time they finished, Nico could reach the shallow marker and return without losing the direction of the stroke. Percy could make the turn without touching the rope.
+
+It wasn't a dramatic demonstration. That was what made it satisfying.
+
+Zoe checked the time on the small waterproof clock hanging from the dock. She still had an obligation to help with the canoe rotation later that afternoon.
+
+"That's enough for now," she said.
+
+"Rematch?" Percy asked.
+
+"After lunch, if we both want one."
+
+"Deal."
+
+Nico looked up at her. "Can I race too?"
+
+"Yes. Different starting point, and we'll mark it so the distance is fair for your age group."
+
+He didn't like being given a shorter course. Percy could see the objection forming on his face.
+
+"That doesn't mean the race doesn't count," Percy told him. "It means you're competing over a distance you've actually practiced. I wouldn't expect you to race me across the Sound."
+
+Nico considered. "Could I someday?"
+
+"If you train."
+
+"Then I'm doing that."
+
+Zoe shook her head and went to help with the next group. Percy sat with Nico at the edge of the dock and dried his hair with a towel. The boy began asking about how swimming worked in Atlantis. Percy described what he'd been taught since arriving in the palace: how to feel a current without trying to force it, how instructors separated safety drills from races and why his half-brother was so strict about practice in unfamiliar water. He didn't pretend to remember every lesson from his altered childhood.
+
+Nico listened seriously.
+
+"Do you miss it?" he asked.
+
+"Sometimes. The ocean, the people, the way nobody looks twice if you want to swim for hours."
+
+"You can still swim here."
+
+"I know. I'm learning how."
+
+Nico handed him the second cup of water. It was an absurd thing to bring a son of Poseidon, but Percy drank it anyway. They watched the next race begin and argued about whether the swimmer on the outside had chosen the better route around the buoy.
+
+By the time lunch was called, Percy had lost a race honestly, learned a practical skill from Zoe and taught Nico enough that the boy wanted to practice again tomorrow. He no longer felt the need to pretend his unfamiliarity with surface swimming was a joke. It was simply something he could improve.
+
+
+
+---
+
 Grover Underwood had decided, by 10:47 that morning, that the canoe lake was the best place in the entire world to think about his future.
 
 He was sitting in the shade of a big pine with his hooves tucked under him — he'd told the new kids his sneakers were "orthopedic" and nobody questioned it after the first week — with a half-finished reed pipe in his lap and his notebook open to a page that said at the top in careful block letters:
