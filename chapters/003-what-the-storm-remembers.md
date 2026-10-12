@@ -738,17 +738,11 @@ Annabeth wished Thalia had said something easier to dismiss.
 
 Chiron took an interest in his notes. The distance between them and the practice area was small, but he was leaving the decision to the girls.
 
-"I'm angry that I don't know how," Annabeth said.
+"I'm angry because you make it look easy," Annabeth admitted. "I know you've been practicing for years, and I know I can't learn all of it in one afternoon. But I hate standing here waiting for my hands to do something when I used to know exactly how to make myself useful."
 
-"Then say that."
+Thalia's answer came out sharper than she intended. "Then be angry about learning. Don't act like I'm showing off every time I try to help you. I want you to get better at this, Annabeth. I don't need to win a competition against my own sister."
 
-"I just did."
-
-"You said I was showing off."
-
-"I didn't say that."
-
-"Well, you made it sound like I was."
+"I know." Annabeth looked away from the glass case. "I wasn't being fair to you."
 
 Annabeth's chest tightened. She could have ended the conversation by apologizing and asking Thalia to demonstrate. That was probably the sensible option. But all morning she'd been forced to accept that her memories of training did not give her the control she wanted, and that frightened her more than she wanted to admit in front of anyone.
 
@@ -838,17 +832,11 @@ The prickle vanished.
 
 Chiron stood, not alarmed but attentive.
 
-"What changed?"
+Chiron waited until Annabeth's breathing steadied before asking her to describe the moments before the paper tore.
 
-"I tried to make it move faster."
+"It finally moved, and I got excited," she said. "I tried to make the air go faster. I could feel the pressure building but kept pushing because I didn't want it to stop. Then it all happened at once. I couldn't tell the difference between a small adjustment and sending the whole thing sideways."
 
-"Why?"
-
-"Because it was working."
-
-"And what happened?"
-
-"I lost control."
+"That gives us something useful to practice," Chiron said. "Recognizing when the pressure starts changing, rather than only noticing when you've already passed your limit."
 
 Thalia lifted the lid and rescued the torn paper square. She held it up by one corner, considering the damage.
 
