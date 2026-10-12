@@ -1,64 +1,70 @@
-# Bonus interludes: 100,000-word expansion architecture
+# Bonus interludes: adult intimacy centered expansion plan
 
 **Branch:** `rewrite/chapters-10k-quality-pass`  
 **Scope:** `bonus/the-long-winter.md` and `bonus/the-sunday-afternoon.md` only.  
-**Author instruction:** A minimum of **100,000 narrative body words per interlude**, not 100,000 combined. These are effectively two companion novels, despite the retained "interlude" titles.  
-**State:** Initial narrative expansion underway. Neither interlude passes the new length floor. No manuscript-wide QA certification is implied.
+**Length requirement:** A minimum of **100,000 narrative body words in each interlude**, independently verified. Not 100,000 words combined.  
+**Editorial priority, amended by author:** These two interludes are **primarily about Thalia Grace and Rhys Calder's sexual relationship**. They should not turn into general camp-life novels, winter construction stories, or ensemble interludes with occasional romance. Adult desire and intimacy are the driving through-lines. Other characters and camp events enter only when they sharpen a specific private choice, change the couple's expectations, or provide meaningful contrast. Treat physical intimacy as an ongoing adult relationship, with distinct emotional stakes rather than repetitive set pieces.
 
-## Source continuity and editorial guardrails
+## Primary creative direction
 
-- Both files follow Chapter 193, *The Heel*. The closing Sunday concerns Percy's report that Thalia's heel requires attention, the cold-weather readiness list, and the Tuesday Tempest Hall. Avoid repeating the chapter's concluding assurances and inventory-style sentences.
-- **Chronology:** Monday, October 23, followed by Tuesday, October 24, implies the later Sunday is **November 5**, not November 1. The text has been corrected accordingly; the year is deliberately unspecified. The second story's four-a.m. departure occurs the following Monday.
-- **Ages:** Thalia is eighteen, Rhys nineteen, Annabeth and Percy fourteen at the late-arc working baseline. Adult romantic content concerns Thalia/Rhys only; Percy/Annabeth remain age-appropriately nonsexual.
-- **Parentage:** Thalia and Annabeth are biological daughters of Zeus and Beryl. Percy, Clarisse, and Silena are Poseidon's children. No new siblings, sudden memory transfer, changed divine parentage, or new identity for the time-rewrite architect.
-- **Knowledge:** Only Percy and Annabeth retain the earlier history. Thalia may observe their unusual behavior but cannot learn or recall that future without a new author decision. Amphitrite must remain unaware of Percy's displacement.
-- **Rhys:** Apollo's son, winter returnee, nineteen. He is skilled but not all-knowing; independent family duties and disagreement with Thalia must persist. His prospective visit home to support his mother, introduced in the Sunday draft, is a new continuity commitment. Its exact duration and next appearance must be fixed before drafting the return.
-- **Heel:** The injury has a plausible recovery arc. Chiron assesses it after the first Monday visit; changes to technique and training last across several weeks. Do not magically heal or reset it.
-- **POV and voice:** Third-person limited with Thalia as the principal viewpoint. Separately anchored Annabeth/Rhys sections are possible only where required and separated by scene breaks. Allow stubbornness, dry wit, awkward care, practical competence, and disagreements that persist beyond a kiss.
-- **Pacing:** No mechanical multiplication of identical intimacy, morning departures, repeated slate declarations, or repeated assurances. Every added scene must change responsibility, knowledge, trust, skill, a plan, or the relationship. The two novellas should not recount the same dates and moments in two long, near-identical variants.
+The heart of both books is private adult intimacy: attraction, anticipation, confidence, self-consciousness, affection, sexual compatibility, disagreements about privacy and disclosure, the difficulty of saying precisely what each person wants, and the different ways they feel after being together. Build scenes through mutual choice, physical closeness, specific observations, teasing, mistakes, and candid dialogue. Repeated encounters should show the relationship changing, not recycle identical promises, power dynamics, descriptions or reactions.
 
-## The Long Winter: 10 movements, 100,000 body words
+**On-page handling:** Write mature and sensually charged scenes without graphic anatomy or detailed descriptions of sexual acts. Where sex occurs, convey the choice and emotional character of the encounter, and then carry the immediate consequences into the following scene. Do not abruptly abandon the relationship for camp chores after every private moment. Do not replace adult desire with speeches about healthy communication.
 
-| Movement | Approximate dates | Target body words | Story work |
-|---|---|---:|---|
-| 1. A heel and a deadline | Sun Oct 22–Tue Oct 24 | 10,000 | Chapter 193 handoff; injury denial; Thalia and Annabeth's disagreement; Cabin Three's winter work; first adult private encounter; Chiron's examination; Tuesday archery adjustment |
-| 2. The cost of being dependable | Oct 24–25 | 10,000 | Thalia can no longer do every job. Another camper makes a mistake with a tool while imitating her. She must choose whether to teach rather than take over |
-| 3. The shed with the wrong slope | Oct 25–26 | 10,000 | Annabeth identifies runoff risks in the target-shed plan. The sisters dispute authority, then test two remedies. Keep it a specific engineering problem rather than a metaphor-only fight |
-| 4. The voluntary roster | Oct 26–27 | 10,000 | Rhys and Thalia co-supervise beginners. They disagree over when to intervene. Rhys's competence is real but imperfect. A frightened novice forces a policy change |
-| 5. The winter census | Oct 27–28 | 10,000 | Clarisse balances arrivals, supplies, bunks and supervision. Silena refuses to be the default person who fixes everything. Thalia learns to ask for help without assigning an unpaid keeper |
-| 6. The evening that didn't go to plan | Oct 28–29 | 10,000 | A private date is interrupted by a concrete, non-catastrophic camp problem. Their responses reveal differing priorities. No guaranteed reconciliation before night ends |
-| 7. What the letter asked | Oct 29–30 | 10,000 | Beryl's partial progress complicates the sisters' boundary-setting. Zeus remains absent and unpredictable, not conveniently redeemed. Thalia's impulse to speak for Annabeth is tested |
-| 8. The frozen path | Oct 30–Nov 1 | 10,000 | Frost exposes weaknesses in the lantern and path system. Percy, Clarisse, Silena and Thalia work together with distinct roles. A misjudgment by Thalia prolongs the repair |
-| 9. Being seen | Nov 1–3 | 10,000 | Thalia and Rhys discuss privacy versus secrecy, public expectations, and a future with separate obligations. A disagreement survives an otherwise affectionate day |
-| 10. The room each keeps | Nov 3–4 | 10,000 | Training returns in bounded form; Annabeth makes a decision without Thalia's permission; Rhys discloses an upcoming responsibility at home. The ending hands off directly to Nov 5 without erasing uncertainty |
+**Suggested narrative balance:** Roughly 70 percent of scene time should be Thalia and Rhys together, alone or seeking privacy, including intimate anticipation and aftermath; roughly 20 percent should be separate internal developments that immediately affect their intimacy; at most 10 percent should be independent camp logistics or supporting-cast scenes. This is an editorial allocation, **not** permission to pad scenes merely to hit a ratio. The actual prose must determine whether each scene earns its length.
 
-**Total target: 100,000.** Each movement is a planning allocation, not a completed scene or word-count credit. The current original/expanded scenes belong in movements 1 and 2 unless a later developmental edit relocates them.
+**Character distinction:** Thalia remains guarded, competitive, impatient with being monitored, capable of tenderness without becoming uniformly gentle. Rhys is self-possessed in his craft but can be nervous, presumptuous, defensive or wrong in private; he has a home and obligations beyond Thalia. Their adult relationship should be mutual. Neither should be reduced to a generic lover whose only purpose is to admire the other.
 
-## The Sunday Afternoon: 10 movements, 100,000 body words
+## Locked context and continuity
 
-| Movement | Approximate dates | Target body words | Story work |
-|---|---|---:|---|
-| 1. Daylight | Oct 24–Mon Nov 6, selective flashbacks | 10,000 | The week of altered training, hall work, mother letter, and growing trust; the Sunday visit in daylight; a practical post-visit conversation rather than replaying Monday |
-| 2. Public names, private choices | Nov 6–10 | 10,000 | Thalia decides what to disclose to Annabeth, and what to keep for herself. Percy notices the change but does not become a matchmaker. Rhys's obligations grow specific |
-| 3. The beginners' line | Nov 10–16 | 10,000 | Thalia co-leads a new training group. One student's mistake prompts an uncomfortable review of Thalia's teaching, not just the student's performance |
-| 4. Dinner in the wrong cabin | Nov 16–22 | 10,000 | A shared meal puts the adult relationship in a family setting. Silena's independent plans and Clarisse's management needs prevent the scene becoming a parade of supportive reactions |
-| 5. Leaving is not abandonment | Late Nov | 10,000 | Rhys prepares to help his mother. They negotiate contact, distance and what cannot be promised. Use a real departure with travel details, not a magically convenient absence |
-| 6. The week without him | Early Dec | 10,000 | Thalia has her own winter problems, friendships and leadership failures. Her sister asserts a different approach to their shared household |
-| 7. Weather that does real damage | Dec | 10,000 | A bounded storm disrupts paths, repair work and schedules. Weather is a material constraint, not divine revelation or an excuse for repeated rescues |
-| 8. A visitor with no script | Winter, date to confirm | 10,000 | Rhys's return is negotiated rather than inevitable; ordinary missed expectations matter. Thalia can admit anger without becoming cruel or instantly forgiving |
-| 9. The room beyond the range | Winter, date to confirm | 10,000 | The adults compare futures outside camp. Rhys must have a decision he would make even if Thalia were absent. Thalia defines one ambition beyond guardianship |
-| 10. Something that lasts by choice | End of winter, date to confirm | 10,000 | A earned adult commitment emerges from many tested choices. Annabeth/Thalia and the wider camp relationships retain separate arcs. End with material follow-through rather than another all-purpose declaration |
+- Both stories follow Chapter 193, *The Heel*, with Thalia at **18**, Rhys at **19**, and younger Percy/Annabeth at **14** in the late-arc working baseline. Sexual intimacy concerns the **two adults only**; younger characters must not enter adult intimacy scenes.
+- *The Long Winter* opens Monday **October 23**. *The Sunday Afternoon* opens Sunday **November 5**, nine days later in the existing sequence. The weekday/date pairing is deliberate. If the calendar's year becomes explicit, recheck it.
+- Thalia's heel is injured before the first encounter. Its treatment and recovery influence mobility and private decisions, but it should not consume an entire romance book as a medical subplot. Chiron's evaluation and training restriction remain consequences.
+- Rhys is an Apollo son who returned for winter. Thalia is a daughter of Zeus and Beryl Grace, biological sister to Annabeth and Jason. Percy, Clarisse, Silena are Poseidon's children.
+- Only Percy and Annabeth remember the erased future. Thalia does not. Amphitrite does not learn Percy's displacement. Do not revise the time-rewrite mystery or parentage to create romantic stakes.
+- The Sunday draft mentions Rhys helping his mother away from camp. Preserve this only if the later narrative earns it, with real communication and consequences. Avoid a contrived separation to supply filler.
+- The two books must be **complementary, not redundant**: first discovery and the terms of early intimacy versus the evolution of a continuing physical and romantic relationship. Repeated events should be referenced briefly, not narrated again in full.
 
-**Total target: 100,000.** Avoid long recap overlap with *The Long Winter*; sections 1–2 can reference dates already developed there without telling the same sequence twice.
+## The Long Winter: ten movements at 10,000 words each
 
-## Per-movement scene acceptance
+| Movement | Private adult intimacy focus | Distinct development and consequence |
+|---|---|---|
+| 1. The door | Thalia chooses to visit; apprehension, attraction, an explicit mutual decision | Preserve her agency and the first night's significance; the heel is a real limitation, not a lecture |
+| 2. Staying | What it is like to remain together after anticipation has become reality | Awkward small talk, humor, silence, and first unguarded admissions |
+| 3. Tomorrow's face | How they behave in public after a private change | Desire for privacy conflicts with Thalia's dislike of appearing ashamed |
+| 4. Not always a contest | They discover habits from training that do not work as intimacy | A misread signal leads to a specific conversation and a changed choice |
+| 5. Things he didn't ask | Thalia's difficulty speaking about what she wants or doesn't want | Rhys must listen rather than interpret every refusal as a challenge |
+| 6. The room after midnight | Another private evening is emotionally different from the first | Vulnerability arises from the situation, not a replay of physical novelty |
+| 7. The wrong joke | Humor lands badly when one of them feels exposed | An argument continues beyond their room and requires a concrete repair |
+| 8. Letting herself be wanted | Thalia examines how protection, autonomy and desire coexist | The Grace sisters remain meaningful background, without taking over the narrative |
+| 9. Leaving the door unlocked | Trust is tested by a practical expectation one partner did not know the other had | Privacy and availability receive workable, imperfect boundaries |
+| 10. The next invitation | Thalia actively proposes their next private afternoon | The endpoint feeds the Sunday interlude, without restaging the first night |
 
-For a 10k movement, plan 5–8 distinct scenes, not 25 versions of the same dialogue. Each scene records: **date, Thalia's concrete want, resistance, meaningful choice, consequence, and downstream obligation**. At the end of each 10k movement, save the actual body count and a dated handoff before drafting the next. A scene that cannot name a consequence should be cut or combined.
+**Total target:** 100,000 body words. Focus on variation within intimacy: not ten copies of a first encounter, and not an unrelated ten-part camp-work epic.
 
-Run two separate quality passes: (1) developmental continuity and action causality, then (2) line and dialogue audit. Compare each new segment against all previous movement text for repeated jokes, stock adjectives, near-identical departure scenes, and reliance on intimacy to skip conflict resolution.
+## The Sunday Afternoon: ten movements at 10,000 words each
 
-## Verification status and release gates
+| Movement | Private adult intimacy focus | Distinct development and consequence |
+|---|---|---|
+| 1. Daylight | Thalia chooses a daylight visit without manufacturing an excuse | Their existing familiarity alters the tone from first-night uncertainty |
+| 2. After the door closes | A long private afternoon, with ordinary interruptions, playful honesty and desire | They learn that they can ask for things without turning each request into a dare |
+| 3. The hours they stole | The emotional aftermath lasts beyond one encounter | Rest, talk, practical care and different interpretations of what happened |
+| 4. Being known | Physical familiarity collides with Thalia's desire to retain privacy | Rhys does not treat access to her body as access to every part of her past |
+| 5. The look across the field | Public contact acquires private significance without exhibitionism | Resentment or jealousy is addressed without a love triangle |
+| 6. The invitation refused | One wants intimacy when the other has a different need | A declined invitation is accepted; the relationship does not break or become a moral lesson |
+| 7. At their own pace | They establish rituals and preferences that actually belong to them | A private expectation is renegotiated after a meaningful mistake |
+| 8. The distance between cabins | Outside obligations reduce their time together | Longing does not become possessiveness or automatic abandonment |
+| 9. What they can promise | Desire and future uncertainty coexist | Thalia and Rhys make specific commitments that can be kept or broken |
+| 10. Another Sunday | A final private gathering echoes the opening in a changed register | Close on a chosen, continuing adult bond rather than an all-purpose declaration |
 
-This plan is **not** a manuscript. Its 200,000-word target is an allocation, not a completed-count claim.
+**Total target:** 100,000 body words. Do not import lengthy work rosters, drainage-project subplots, or multi-chapter character studies of side characters just to reach the count.
 
-Before acceptance, record actual body counts excluding headings and divider lines; verify both files are at least 100,000 body words individually; scan every exact 300-word sliding window against every chapter and interlude; check UTF-8, dates, character ages and POV at every transition; review the Chapter 193 handoff and any future canon changes; rebuild the reader edition from the approved branch. Do not treat a local/interlude-only duplicate scan as complete manuscript uniqueness. Do not merge until length and editorial gates have passed.
+## Prose and acceptance
+
+Third-person limited, principally Thalia. Make dialogue personal, irregular and specific. Avoid identical rhythms across encounters, hyperbolic metaphors, repetitive claims that everything is perfect, repeated slate-message conclusions, and rushed arguments resolved by physical attention alone. Close physical scenes with a meaningful choice or consequence so that readers learn something beyond the existence of attraction.
+
+For every drafted 10,000-word movement, verify **actual narrative body count** excluding headings, metadata and scene dividers; log dates, ages, locations, props and promises; run developmental and line/dialogue passes; inspect neighboring scenes for repetition. A full release still requires both interludes to exceed 100,000 body words individually, with a cross-manuscript 300-word sliding-window exact-duplicate audit, UTF-8 validation, adjacent continuity review and a verified reader-edition build.
+
+## Current status
+
+The preexisting interludes and the preliminary October 12 expansions have **not** satisfied the 100k minimum. The original expansion pass drifted toward family chores, injury training and winter logistics. This amendment supersedes that distribution. Retain only background material that directly changes the private adult relationship; edit, shorten or relocate detours during the next manuscript-level pass. Do not claim completion from the outline or from partial revisions.
