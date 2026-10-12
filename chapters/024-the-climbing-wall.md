@@ -289,9 +289,9 @@ Annabeth stepped off the platform with her. The climb hadn't begun, but she had 
 
 Silena Beauregard's voice boomed across Half-Blood Hill, amplified by the brass trumpet and Silena's sheer delight, because everything Silena said sounded like it sparkled.
 
-She was perched on the announcer's platform at the top of the climbing wall with Zoe Nightshade, Hecate's daughter, who brought the severe posture of a former Hunter to everything, including games. Zoe sat beside Silena with her arms crossed, bow across her knees, silver circlet glinting, looking like she'd rather be anywhere else.
+She was perched on the announcer's platform at the top of the climbing wall with Zoe Nightshade, Hecate's daughter, who brought the severe posture of a meticulous ward inspector to everything, including games. Zoe sat beside Silena with her arms crossed, bow across her knees, silver circlet glinting, looking like she'd rather be anywhere else.
 
-"Thou can hear me, daughter of Poseidon," Zoe said dryly. "The entire mountain can hear thee. The gods on Olympus can hear thee. Please stop shouting directly into the trumpet."
+"I can hear you, daughter of Poseidon," Zoe said dryly. "The entire mountain can hear you. Please stop shouting directly into the trumpet."
 
 "Sorry!" Silena said, quieter, then immediately loud again because she was excited. "Hi! Welcome to Camp Half-Blood's monthly Climbing Wall Extravaganza! I'm Silena!"
 
@@ -315,7 +315,7 @@ Ella waved frantically from the base of the wall. She was small even for a harpy
 
 "She's adorable," Silena cooed into the trumpet. "Look at her little glasses!"
 
-"She has memorized the maintenance logs," Zoe said, with genuine respect. "A wise warrior knows the battlefield. Thou hast my approval, harpy."
+"She has memorized the maintenance logs," Zoe said, with genuine respect. "A careful competitor studies the course. I approve."
 
 "And on the east face, in red headbands — Annabeth Grace, Thalia Grace, and Clarisse La Rue!"
 
@@ -327,7 +327,7 @@ The cheer was deafening. Zeus cabin (Thalia and Annabeth) thundered, Ares cabin 
 
 "What? I'm just saying what everyone's thinking!"
 
-"Thou art thinking it loudly into a magically amplified trumpet."
+"You are thinking it loudly into a magically amplified trumpet."
 
 "Okay, okay! Chiron, take it away!"
 
@@ -820,7 +820,7 @@ Silena's voice floated down from the tower: "Group hug! Group hug! Zoe, they're 
 
 "She's crying!" Silena announced. "Everyone, Zoe's crying! History!"
 
-"I will end thee."
+"I will confiscate your microphone."
 
 ---
 
