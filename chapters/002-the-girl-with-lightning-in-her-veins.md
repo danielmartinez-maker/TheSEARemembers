@@ -806,7 +806,7 @@ He trailed his fingers through the surface and felt a faint vibration. The lake 
 
 He couldn't name a source. That was worth remembering, not announcing.
 
-He withdrew his hand sharply. That was new. In the original timeline, the lake was only a lake — nice for swimming, dangerous for demigods without supervision, but not connected to any divine power source. Here, it was connected. Here, the sea god had touched his domain and claimed a piece of it for his children.
+He withdrew his hand sharply. That was new. In the life he remembered, he'd never stopped to test the lake this way. That made the sensation interesting, not proof of what had caused it. He would need someone who knew the lake's springs and its camp wards before he could claim anything more.
 
 Percy looked toward the Poseidon cabin and thought about Clarisse — about the fierce, guarded girl who slept in the bunk across from his, who fought like fury and looked at the world like it owed her something.
 
@@ -842,15 +842,191 @@ And Percy didn't know which version of his father he preferred.
 
 He tested the weapons next, picking up a trident and feeling its balance. It was perfectly weighted for someone his size — twelve years old, Atlantean-built, slightly webbed fingers. Someone had designed these weapons specifically for him. Or for someone like him.
 
-The realization settled into his bones like cold water. His father had been preparing for this. Had been building this place, crafting these weapons, shaping the camp around the needs of a child of Poseidon. Had been waiting for Percy to arrive.
+The realization settled into his bones like cold water. Someone had prepared carefully for children of Poseidon to train here. That was evident in the workmanship. Whether the planning had anything to do with Percy personally was a question he had no way to answer.
 
 But the question was: why? What did Poseidon know that Percy didn't? What was he preparing his son for?
 
 Percy set down the trident and left the Tempest Hall. The answers weren't here. They were somewhere else, and he'd have to find them.
 
-But the facility itself told him something important. His father wanted him ready. His father expected war.
+The facility told him one thing he could trust: the children training here had resources the camp had not possessed in the life he remembered. He needed to learn who had approved them, and when.
 
-And that meant the stakes were higher than Percy had thought.
+---
+
+He didn't make it all the way back to the cabins.
+
+Halfway down the path from Tempest Hall, something hit the ground behind the forge with a crash that made Percy turn before he could think. A moment later there was a shout.
+
+"Leave it! Get away from the edge!"
+
+Clarisse's voice.
+
+Percy ran toward it.
+
+A wooden cart had tipped at the end of the laundry path. Most of its contents lay on the dirt: empty pails, a coil of rope, and a crate of small practice shields. One of the cart's wheels hung over the bank of the narrow drainage cut. A Hermes boy in a camp shirt stood beside it, holding the handle as though he could keep the entire thing upright by refusing to let go.
+
+The channel below was only a few feet wide, but recent rain had hollowed out the soil beneath the lip. Mud slid steadily from the bank into the running water.
+
+Clarisse had one arm around the boy's waist.
+
+"Let it go," she said.
+
+"If it falls Chiron will make me replace it."
+
+"If you fall he'll make me explain to your mother why you thought a cart was worth your neck."
+
+The boy let go. Clarisse hauled him backward. The cart dropped another inch, then caught on a root.
+
+Percy came to a stop beside them.
+
+"What's happened?"
+
+"What does it look like?" Clarisse snapped. Then she took in the boy's pale face and lowered her voice. "He tried to turn too close to the edge. Go get Matt. We're moving it before it takes the path with it."
+
+Percy looked at the cart. He could pull the water down for a few seconds, maybe even firm up the soil enough to give them time. The thought came instinctively. In the body he remembered, a current like this would have been an inconvenience. Here, though, even the pond-size surge he'd felt by the lake had been harder to judge than he liked.
+
+"I could keep the water off the bank," he said.
+
+Clarisse looked at the channel. "For how long?"
+
+"I don't know."
+
+"Then don't."
+
+"I can try."
+
+"That's exactly why I said don't."
+
+The cart shifted. A little shower of dirt pattered into the ditch.
+
+"Matt," Clarisse repeated. "Now."
+
+He didn't go.
+
+He could already hear the water under the cart, pressing at soil that was too soft to hold. He extended a hand, intending only to slow it.
+
+The channel flattened abruptly.
+
+For one hopeful instant nothing moved at all. Then water piled against the upstream bend and began to rise. The pressure pushed sideways into the bank, not down. A crack appeared in the mud beside the cart's rear wheel.
+
+Clarisse grabbed Percy's wrist and pulled his hand away.
+
+The piled water spilled forward. A brown wave broke against the opposite bank, sending a spray of dirt across their shoes.
+
+"What was your plan?" she demanded.
+
+He stared at the widening crack. "Slow it down."
+
+"By stopping it?"
+
+"It wasn't supposed to stop all of it."
+
+"Then you didn't know what you were doing."
+
+"No," Percy said.
+
+Clarisse looked surprised that he had admitted it.
+
+She shoved the rope into his hands.
+
+"Good. Now we have a plan we do know how to do."
+
+Matt came running from the yard before Percy could reach the corner. Clarisse had already started giving instructions. She sent the Hermes boy to warn anyone using the path, directed Matt to secure the front axle with a line, and made Percy back away far enough to see both wheels.
+
+He could have protested. It was the easy assignment. It was also the one she'd given him after watching him make the bank less stable.
+
+"Tell me if the rear wheel moves," she said.
+
+Percy watched. The cart creaked. Matt looped the rope around a pine trunk and pulled until the front axle turned. Clarisse braced the nearer wheel with a fallen branch.
+
+"Quarter turn," Percy called.
+
+"Good. Keep calling."
+
+The rope drew tight. The cart lifted a finger's width off the edge.
+
+"Half a turn."
+
+"Is the root holding?" Matt asked.
+
+"Yes. Wait. No."
+
+The root split with a sound like a stick snapped between two hands.
+
+"Back!" Percy shouted.
+
+Clarisse stepped clear as the rear corner dropped. The rope caught the front end before the cart could go after it. Shields spilled into the ditch and knocked against the stones, but nobody went with them.
+
+For several seconds the three of them stood breathing hard.
+
+Then Matt started laughing.
+
+"It's going to be a lovely explanation for Chiron."
+
+"It'll be a short one," Clarisse said. "We were idiots near a drainage cut. Next time we won't be."
+
+She checked the Hermes boy for injuries. He had a scrape on one elbow and mud up to his knees. Percy wanted to say he could fix the water now, but Clarisse had a firm hold of the rope and was giving Matt instructions for making the cart safe. His help was no longer needed in the channel.
+
+So he went after the shields.
+
+He lay on his stomach well away from the broken edge and used the branch to drag each one into reach. The water was cold. The shields were heavier than they looked, especially once wet. By the time he'd retrieved the last one, his arms had started to shake.
+
+"That's enough," Clarisse said.
+
+"One more."
+
+"Percy. Enough."
+
+He looked up. She was standing behind him with the crate.
+
+"Give it here."
+
+He passed her the shield and pushed himself to his feet. Mud had worked into the knees of his trousers, and something sharp had scratched his palm.
+
+Clarisse looked at his hand, then at the water running past the broken bank.
+
+"I wasn't trying to embarrass you," she said.
+
+"Could've fooled me."
+
+"If you want to learn how much water you can move, fine. Do it with an instructor and a clear place to stand. Not while somebody's holding a cart over a ditch."
+
+He had been told variations of that rule by people who were dead in the life he remembered. He'd ignored it often enough to know it wasn't an insult.
+
+"You're right," he said.
+
+"I know."
+
+"Do you ever get tired of being right?"
+
+"Hasn't happened yet."
+
+The Hermes boy, now recovered enough to complain about the lost cart, said he was never taking the laundry route again.
+
+"You'll take it tomorrow," Clarisse told him. "On foot. With the wheels repaired. And you'll show me exactly where the edge gave way so we can mark it."
+
+"Why me?"
+
+"You know where it was. That's useful."
+
+The boy looked as startled as Percy had felt when Silena handed him the cabin rota.
+
+After they'd moved the cart onto solid ground, Clarisse took the rope from Matt and started coiling it with an efficiency Percy envied. He reached to help. She pointed at the shields instead.
+
+"Wipe the mud off. All of them."
+
+"Even the ones I didn't drop?"
+
+"You volunteered to be helpful."
+
+Percy looked at the pile. There were fourteen.
+
+"That's how you're going to get me, isn't it? Chores until I surrender."
+
+"Welcome to camp, little brother."
+
+She said the last two words without thinking. Percy knew because she looked away immediately afterward.
+
+He didn't draw attention to them. He picked up the first shield, carried it to the water barrel beside the path, and started scrubbing.
 
 ---
 
