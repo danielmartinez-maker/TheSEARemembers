@@ -3,7 +3,7 @@
 chapter: 008
 title: The Gathering Storm
 status: expanded; 10,000-word length passed; independent developmental/copyediting approval pending
-body_word_count: 10292
+body_word_count: 10293
 working_branch: rewrite/chapters-10k-quality-pass
 opening_location: Cabin Three mail errands, then camp breakfast and Hall documentation work
 ending_location: lake dock after curfew discussion, following evening
@@ -49,6 +49,6 @@ open_review:
   - Chapter 008 vs 009 midnight sequence and secrecy boundaries should be checked as a continuous handoff
   - Full 193-chapter verbatim duplicate audit and current canonical-copy reconciliation remain open
 mechanical_checks:
-  - Counted body words excluding chapter headings and scene dividers: 10292
+  - Counted body words excluding chapter headings and scene dividers: 10293
   - 300-word exact cross-chapter windows checked across chapters 007–009: 21523; zero matches
   - One chapter heading; eight scenes; no Unicode replacement glyph
