@@ -555,3 +555,182 @@ Annabeth squeezed his hand. "He'll probably appreciate the help."
 They stood, folded the blanket and checked they hadn't left anything on the grass. Percy still felt embarrassed when he thought about the questions he'd asked Theo in the library. That would probably happen again when they met in the morning. He couldn't control his first reaction to jealousy, but he could decide not to turn the next conversation into a test for someone else.
 
 At the turn toward Cabin One, Annabeth leaned up and kissed his cheek. He watched her walk home, then took the folded blanket to Cabin Three. Tomorrow there would be a bridge model to move, a younger camper to treat fairly, and a few measurements he genuinely wanted to argue about.
+
+---
+
+The next morning, Theo was already at the library when Percy arrived. He had a cardboard frame laid across two chairs and a worried expression that got worse when he saw the room's narrow doorway.
+
+"I thought we could carry it as one piece," Theo said. "I think I was wrong."
+
+Percy examined the base. The cardboard had been reinforced with thin wooden strips, and the roof was balanced across four columns that looked sturdier than the first sketch. The model wasn't finished, but it was large enough to make turning a corner awkward.
+
+"We could take the top off," Percy suggested.
+
+"It's glued."
+
+"Then maybe don't take the top off."
+
+Annabeth joined them with a measuring tape and two short dowels. She had been in the forge asking Beckendorf about the hinges and looked pleased that the three of them had reached the same conclusion before she began offering advice.
+
+"The base can separate here," she said, pointing to a joint in the model. "But only if the dowels come free without twisting the whole structure."
+
+Theo rubbed his forehead. "I glued one of them in yesterday."
+
+Percy looked at him. "Why?"
+
+"Because it kept moving."
+
+"That sounds like the opposite of making it removable."
+
+"Yes, I know that now."
+
+They stood in silence for a moment, each looking at the joint. Percy was tempted to laugh. Instead he asked whether they could test how much force the glue would take before it broke. Beckendorf had recommended a type of adhesive that held well under pressure but could be softened with warm water if the wood had been sealed.
+
+"Was the wood sealed?" Percy asked.
+
+Theo nodded. "I used the varnish the craft instructor gave me."
+
+"Then let's ask the instructor before trying anything. I don't want to melt a model somebody spent days making."
+
+Annabeth looked at Percy with an expression he recognized. Approval, a little surprise and an invitation to keep thinking rather than act immediately.
+
+They went to the crafts shed together. The instructor examined the joint, checked the adhesive label and suggested warming it gradually while supporting the roof. Percy offered to control the water. The instructor refused.
+
+"Your power isn't the right tool for every problem," she told him. "We need a measured temperature and a way to stop if the glue begins to affect the surrounding wood. Use the heated cloth on the workbench."
+
+Percy accepted the correction. It would have been easy to make the repair spectacular. He had already spent a day feeling ridiculous because another boy had graph paper. He didn't want to spend a second day making Theo's project about what Percy could do.
+
+They set up the workbench, checked the temperature of the cloth and held the frame steady while the instructor softened the glue. It took longer than they hoped. Theo was visibly impatient, and Percy could understand why. The model was his. He was the one who would have to start again if anything broke.
+
+"How long have you been making this?" Percy asked.
+
+"Since the day after I got here. Before that I drew it in the bus. My mom used to let me trace the buildings she was working on when she had to stay late at the office."
+
+"Does she know you're making it?"
+
+"Not yet. I wanted to send her a picture when I finished."
+
+Percy thought of the letters he had been sending to Amphitrite. He remembered how much he wanted her to see the ordinary parts of camp without requiring him to explain the memories he didn't possess.
+
+"Then we should make sure she gets a decent picture," he said. "Silena has a camera. She can show you how to photograph something small without making it look crooked."
+
+Theo brightened. "Really?"
+
+"Probably. You can ask her. She may put you to work sorting supplies first."
+
+"That sounds fair."
+
+They returned to the joint. The glue had begun to soften, and the instructor showed Theo how to apply gentle pressure without twisting the columns. When the pieces finally separated, he exhaled so hard Percy thought he might laugh.
+
+"We did it."
+
+"Now you need a way to stop that happening again when you carry it," Annabeth said.
+
+They tested the dowels without adhesive. The joint held if the base stayed level, but the roof shifted when Percy lifted one end. Theo frowned, then saw the problem before either of the others spoke.
+
+"The support belongs under the center, not on the edge."
+
+He went to fetch a strip of wood. Percy waited, holding the frame level, while Annabeth checked the measurements. The work was slow enough that Percy stopped thinking about how close Theo was sitting beside her. He began thinking about how a temple model could support its weight without needing somebody to hold it every time it moved.
+
+When Theo returned, Percy asked permission to suggest something.
+
+"What?"
+
+"What if the support has a little notch? Then you can seat the roof in the same position each time without fixing the dowel permanently."
+
+Theo considered it. Annabeth drew the idea in the margin of his plan, making it clear whose suggestion it was.
+
+"That could work," Theo said. "Let's test it on scrap first."
+
+Percy grinned. He liked that answer. It sounded like Annabeth.
+
+They made a small trial joint from offcuts and tested it with a stack of books. The first notch was too shallow. The second held. Theo copied the dimensions into his notebook while Percy put away the tools they'd borrowed.
+
+Near lunch, Silena came to the door looking for Percy. She stopped when she saw the three of them standing around a much improved model.
+
+"Is this the famous graph paper?" she asked.
+
+"Most of it's under the model now," Percy said.
+
+Theo looked uncertain whether she was making fun of him. Silena noticed immediately.
+
+"I hear you've been working on a temple for the Hermes cabin," she said. "Percy told me your mom works in architecture. Would she like a photograph when it's done?"
+
+Theo nodded enthusiastically.
+
+"Then come find me before you send anything. I can help you take a decent one, and you should make sure you have her address written correctly. Camp mail gets strange sometimes."
+
+Percy watched her speak to Theo. She treated him like a new camper with a project, not an intruder in somebody else's relationship. He was embarrassed by how long it had taken him to manage the same thing.
+
+Silena moved on. Theo returned to packing the model, and Percy realized he still owed him an apology.
+
+"Hey," he said.
+
+Theo looked up. "Yeah?"
+
+"I was weird yesterday. In the library. You didn't do anything wrong. I was feeling left out and acted like the ruler was an enemy weapon."
+
+Theo blinked. Then, to Percy's relief, he laughed.
+
+"I thought maybe I'd broken a camp rule about asking Annabeth for help."
+
+"No. You can ask her about buildings. She's the person who knows the answer."
+
+"I know she's your girlfriend."
+
+"I know you know. That's part of why I was being stupid."
+
+Theo examined the model for a moment. "I wasn't trying to get between you. I just really wanted someone to tell me whether the roof would fall down."
+
+"It almost did," Percy said.
+
+"Exactly."
+
+They both laughed. Theo didn't make a speech about forgiveness or pretend the whole incident was fun. He accepted the apology and went back to working, which was what Percy had hoped for.
+
+Annabeth came back from checking the materials list and found the two boys testing the roof with a bag of sand.
+
+"Did I miss anything?"
+
+"Percy's been helping," Theo said. "He figured out the notch."
+
+"Not the final version," Percy replied. "Theo worked out where it needed to be."
+
+Annabeth smiled. "Then perhaps the model is ready to move."
+
+They carried it to the library in two pieces. Theo guided the front through the doorway, Percy held the wider base and Annabeth walked beside them, checking the corners. Twice they had to stop and turn. Nobody blamed anyone. They got the model onto the table without scraping the columns.
+
+Theo set the roof in place and gave it a gentle push. It moved less than before.
+
+"It's not finished," he said.
+
+"No," Annabeth agreed. "But now you know how to finish it."
+
+He folded his graph paper and placed it beside the model. He would still have to paint the columns, fit the door and decide whether the sundial belonged on the roof or on the ground. But the structure would survive being moved. That was more useful than having a perfect sketch.
+
+Percy looked toward the window, where the late morning sun had begun to cross the table. The shadow of the unfinished columns fell across the graph paper in thin lines. He noticed that one shadow was longer than the others because the model was tilted slightly toward the glass.
+
+"Your sundial's going to be wrong if you leave it there," he said.
+
+Theo looked at the angle. "Right. We'll measure it on the hill."
+
+"Then let me know when. I can help carry the base again."
+
+Annabeth glanced at him. He hadn't asked whether she was going to be there. He assumed she could decide for herself.
+
+They put away the equipment. Theo returned to the Hermes table for lunch with a list of tasks he actually understood. Percy went with Annabeth toward the pavilion, feeling hungry and tired in the pleasant way he sometimes felt after repairing something without damaging it first.
+
+"Was that all right?" he asked her.
+
+"What?"
+
+"Me helping."
+
+"Yes. You asked him what he needed and listened when he answered."
+
+He considered. "Maybe I should do that more often."
+
+"Probably."
+
+They walked together until the paths separated. Annabeth went to Cabin One to change before lunch; Percy went to wash the glue and sawdust from his hands. The next time someone brought Annabeth a building plan, he might still feel a sting of jealousy. He hoped he'd remember the unfinished roof, the useful questions and the new boy who had wanted to make his mother proud.
+
