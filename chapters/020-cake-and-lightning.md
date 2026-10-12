@@ -944,6 +944,58 @@ Thalia Grace, sixteen and finally celebrated, daughter of Zeus, sister of Annabe
 
 ---
 
+By the time the cake was served, Thalia had stopped wondering when the embarrassing speech would arrive. There had been a few toasts, mostly jokes, and Clarisse had declared that the entire camp owed Thalia an apology for allowing her to get to sixteen without an adequate supply of sparring partners. Percy hadn't stood up to deliver the words she'd heard him rehearsing in the kitchen. Instead he handed her the plate with the largest slice and let her decide whether she wanted to make a wish.
+
+She didn't. She was too hungry.
+
+At the edge of the bonfire circle, Tomas from the Hecate cabin was hovering with an empty cup. The younger boy had joined the celebration late and seemed unsure whether it was a private party he hadn't been invited to attend. Thalia recognized the look from a time when she'd had to decide whether it was safe to accept food from strangers.
+
+"Come here," she called.
+
+He approached, looking at the cake.
+
+"Did you get any?"
+
+"No. I thought it was only for the people helping with the party."
+
+"Then we need a better system." She handed him a slice and pointed toward the drinks. "Silena made enough for everybody. If she didn't, she'll make someone else solve it."
+
+Tomas laughed and went to join the other campers. Thalia watched him settle beside Nico without anyone asking why he was there.
+
+Clarisse sat down beside her, carrying a paper plate full of what appeared to be frosting without cake.
+
+"You're sharing your birthday food with the whole camp," she said.
+
+"It's better than keeping a table of leftovers until somebody notices they're spoiled."
+
+"I was going to eat the leftovers."
+
+"Then get more now."
+
+Clarisse did. Thalia smiled and took another bite of cake.
+
+It was strange to spend a day receiving things without having to calculate what everybody expected in return. Percy had given her his joke about threatening to drown him. Annabeth had given her a carving with one uneven branch that Thalia already liked. Silena had made a cake whose blue frosting stained nearly everybody's hands, and Clarisse had put a ridiculous amount of effort into a small wooden present.
+
+Thalia wanted to keep all of it. She also wanted tomorrow to be an ordinary day, when she could wake up and complain about training rather than have the whole camp watch to see whether she was happy.
+
+She told Clarisse as much.
+
+"Then tomorrow I'll make you do extra laps," Clarisse said.
+
+"Perfect."
+
+"Nobody gets special treatment because they were born."
+
+"That sounds like a birthday promise I can trust."
+
+They stayed by the fire until the younger campers were called back to their cabins. Thalia helped carry plates to the kitchen. Silena tried to stop her because it was her birthday, and Thalia told her that being celebrated had not made her unable to pick up a basket.
+
+They washed the frosting from the serving knives, left the decorations for the morning crew and went back to the bonfire for the final song. Nothing about the evening had made the last sixteen years simple. Thalia had been allowed to enjoy the people who showed up anyway.
+
+
+
+---
+
 Long after the lanterns burned low, after Mr. D had left and Chiron had banked the fire, after Ella had sung her ninth and final song to thunderous applause and Grover had fallen asleep with his head on a log, Annabeth and Thalia and Percy walked back to the cabins together.
 
 Percy carried the leftover cake like it was treasure. Thalia wore her pendant. Annabeth carried the photo Silena had taken — the five of them in soapy water, grinning — now signed by everyone in silver marker.
