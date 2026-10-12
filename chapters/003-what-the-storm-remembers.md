@@ -352,6 +352,296 @@ And they walked on, together, into the mystery of a timeline that hadn't been bu
 
 ---
 
+Annabeth spent the afternoon learning how little a promise and a good idea had in common.
+
+The practice ground Chiron chose was not the arena. It was a strip of bare earth behind the stables, away from the weapons racks and the creek, with a low stone wall on one side and an open patch of sky overhead. He had brought a weather vane, a small wooden stand and a box of paper squares.
+
+Thalia arrived carrying a length of copper wire.
+
+Chiron looked at it.
+
+"No," he said.
+
+"I was only going to use it as a marker."
+
+"Your sister is not learning to throw lightning through a wire."
+
+"That wasn't the plan."
+
+"The fact you have to explain it makes me less comfortable."
+
+Thalia tucked the wire into her back pocket. Annabeth pretended not to smile.
+
+Their first lesson had been meant for the morning of the drakon attack. Thalia had offered it after the damaged shutter, after Annabeth admitted the sparks in her hands. Then a monster came across the hill, Annabeth almost got herself killed, and the rest of the day had disappeared into an infirmary, reports and a lecture from three different counselors.
+
+They were trying again.
+
+"Before we begin," Chiron said, "I want to know what you're trying to accomplish."
+
+"Control," Annabeth answered.
+
+"Of what?"
+
+"The electricity. The air, I suppose. The pressure changes."
+
+"That's three things. Choose one."
+
+She looked at the weather vane. Its little arrow twitched in a weak breeze.
+
+"Move it."
+
+Thalia set the paper box down. "It's windy already. How will you know you did it?"
+
+"I could record its angle before and after."
+
+"And how would you know the wind didn't change?"
+
+Annabeth hated how pleased she was to hear a good objection.
+
+"Put it inside something transparent," she said. "A lantern with the glass removed from one side. That would keep most of the wind out but give the air somewhere to go."
+
+Chiron nodded, although he hadn't brought a lantern.
+
+Thalia went to the stable door and returned with an empty glass-sided case used for keeping grooming brushes dry. It was cracked along one edge. She placed the vane inside, leaving a gap under the lid. Annabeth examined the setup and moved the stand until she was satisfied it wasn't touching the glass.
+
+"Now can I try?"
+
+"You can," Chiron said. "After you take off the metal bracelets."
+
+Annabeth looked at her wrists. She had forgotten the little bronze clasp Thalia had fixed for her last winter, or rather had forgotten that she'd been wearing it since waking up in the changed life. She removed it and held it out.
+
+Thalia took it.
+
+"You always forget that one."
+
+Annabeth swallowed. "Apparently."
+
+Chiron sat down on a low bench outside the marked practice area. He had his bow nearby, but nothing in his manner suggested he expected to need it.
+
+"Start with breathing. Not deep breathing for its own sake. Notice how your chest moves. When you feel an impulse to reach for the power, tell us where the feeling begins."
+
+Annabeth planted her feet. She'd been given battle orders by gods who expected her to know what to do before they said it. Being told to report what happened inside her own body was unexpectedly harder.
+
+"Shoulders," she said at last.
+
+"Good."
+
+"Hands, too."
+
+"Do you feel heat?"
+
+"A little."
+
+"Then do nothing with it yet."
+
+Thalia leaned against the stone wall, arms folded. Her face was still bruised where the drakon had struck her. She had dismissed it that morning as a minor hit. Annabeth had caught her wincing when she bent to tie her boots.
+
+Annabeth looked back at the vane.
+
+She tried to make the arrow move.
+
+Nothing happened.
+
+She tried again, remembering the way the air had changed around Thalia's spear. The sensation was familiar enough to frighten her. There was an opening in her mind she hadn't known existed when she was Athena's daughter, something that responded to a thought before the thought became a command.
+
+The glass fogged at one corner.
+
+"Stop," Chiron said.
+
+Annabeth let go of whatever she had reached for.
+
+"That wasn't wind," Thalia said.
+
+"No. Condensation," Annabeth answered. "I changed the temperature."
+
+"You may have changed the temperature," Chiron corrected. "Or your hands were warmer near the glass. We shouldn't jump to conclusions."
+
+She stepped back. Her hands had been six inches away, not touching anything. Chiron was right that the observation alone didn't establish the cause. She resented him for being right.
+
+"Again?" she asked.
+
+"After a rest."
+
+"I'm not tired."
+
+"You told me your hands were getting warm. That is information. A pause lets us find out what it means."
+
+Thalia removed the case and set it on the bench. The little arrow settled crookedly on its axle. Annabeth looked away before she could glare at it.
+
+"I could move the thing," Thalia said.
+
+"Yes, you could," Annabeth snapped.
+
+Thalia straightened.
+
+"That's not what I meant."
+
+"Then what did you mean?"
+
+"If I show you how I pull air around my hand, it might help. That's all."
+
+"I know you can do it. Everyone knows you can do it."
+
+"And nobody knows you can yet. Is that what you're angry about?"
+
+Annabeth wished Thalia had said something easier to dismiss.
+
+Chiron took an interest in his notes. The distance between them and the practice area was small, but he was leaving the decision to the girls.
+
+"I'm angry that I don't know how," Annabeth said.
+
+"Then say that."
+
+"I just did."
+
+"You said I was showing off."
+
+"I didn't say that."
+
+"Well, you made it sound like I was."
+
+Annabeth's chest tightened. She could have ended the conversation by apologizing and asking Thalia to demonstrate. That was probably the sensible option. But all morning she'd been forced to accept that her memories of training did not give her the control she wanted, and that frightened her more than she wanted to admit in front of anyone.
+
+"I know what to do when something attacks me," she said. "Or I used to. Now I can't even move a piece of paper."
+
+Thalia's anger faded into concentration.
+
+"You're comparing two different skills."
+
+"I know."
+
+"You don't act like you know."
+
+Chiron cleared his throat.
+
+"Annabeth, I would like you to observe while Thalia demonstrates, but your sister will keep the exercise to a mild movement of air. No electrical discharge."
+
+Thalia held up her empty hands, making a show of compliance. Then she stood beside the little case and closed her eyes.
+
+The arrow moved perhaps a quarter turn.
+
+It wasn't dramatic. Annabeth expected a crack of thunder or a gust that lifted leaves. Instead Thalia made a small gesture with two fingers and the vane responded, slowly enough that Annabeth could see it beginning to move.
+
+Thalia stopped.
+
+"That's it," she said.
+
+"Do it again."
+
+"Not until you tell me what you saw."
+
+Annabeth watched her.
+
+"Your left hand was open. You weren't looking at it. You breathed out before it started moving."
+
+"Good."
+
+"And you weren't drawing the air at the vane. You were moving it past the vane, so the arrow followed."
+
+Thalia's expression changed. She looked at Chiron.
+
+"That's right."
+
+"She notices," Chiron said mildly.
+
+"I've noticed."
+
+"No," Annabeth said. "You usually tell me what to copy before you let me look."
+
+Thalia rolled her eyes, but there was no malice in it.
+
+"Fine. Your turn. Tell me what you're going to do."
+
+"Move the air past it, not straight at it."
+
+"And what are you going to do when you feel your hands heating up?"
+
+"Stop."
+
+"Even if you think you can finish?"
+
+Annabeth didn't answer quickly enough.
+
+"Annabeth."
+
+"Stop," she said.
+
+They reset the stand and stepped away. Annabeth breathed out. Instead of imagining a blast of wind, she tried to picture the space just beside the vane, a narrow corridor through which air could pass.
+
+For several seconds nothing happened. Her fingers began to prickle. She started to tense her shoulders, noticed herself doing it, and relaxed them again.
+
+The arrow shifted a fraction.
+
+She thought she might have imagined it.
+
+"Did you see—"
+
+"Keep looking," Thalia said.
+
+The arrow shifted again.
+
+Annabeth felt an instant of triumph so sharp that she reached for more. The air in the box swirled hard, knocking the vane sideways. Its paper fin tore loose and stuck against the glass.
+
+Annabeth pulled her hands back.
+
+The prickle vanished.
+
+Chiron stood, not alarmed but attentive.
+
+"What changed?"
+
+"I tried to make it move faster."
+
+"Why?"
+
+"Because it was working."
+
+"And what happened?"
+
+"I lost control."
+
+Thalia lifted the lid and rescued the torn paper square. She held it up by one corner, considering the damage.
+
+"That's better than last night's shutter," she said.
+
+Annabeth blinked. "Better?"
+
+"Yesterday you didn't know you were doing anything. Today you made something move on purpose and stopped when it went wrong." Thalia looked at the paper. "I mean, the thing's dead. But the thing was a piece of paper."
+
+Annabeth wanted to laugh. She did, once, then had to sit down because her hands were shaking.
+
+Thalia brought over her water bottle and sat beside her on the wall. She didn't touch Annabeth's hands or ask whether the shaking meant anything terrible.
+
+"You should've seen me when I started," she said after a while. "I blew the lid off a kettle. There was soup everywhere."
+
+"Was anyone hurt?"
+
+"Only my pride. And Luke's patience."
+
+"Did you ever fix the kettle?"
+
+"Eventually. We ate soup out of a pot for a month."
+
+Annabeth looked at the torn square of paper. She could keep it and tell herself she had failed, or she could remember that the vane had moved twice before it broke.
+
+"I'm going to write down what I did," she said.
+
+Thalia handed back the bronze bracelet she'd taken from her wrist.
+
+"That's my sister."
+
+The words were casual. They caught Annabeth somewhere unprotected.
+
+She tucked the bracelet into her pocket instead of putting it back on. She wanted to remember to take it off before the next lesson without having to be reminded.
+
+When Chiron called an end to practice, Annabeth helped Thalia pack the glass case and paper box. She tried to lift the stand alone, discovered that its base was heavier than it looked, and held one end while Thalia took the other.
+
+They carried it together.
+
+Neither of them made anything of that.
+
+---
+
 That evening, Percy found Annabeth's evening routine interesting — she disappeared every night at sunset and returned after an hour, smelling faintly of lake water and mint.
 
 Annabeth caught him watching and shrugged without explanation. "Private time," she said. "Everyone needs it."
