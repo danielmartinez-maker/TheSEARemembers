@@ -782,7 +782,7 @@ Thalia went still. Then she reached up and tucked the blanket around his stone l
 
 Annabeth turned away fast and pretended to check Percy's bandage. Her ears were pink. Percy pretended not to notice because he knew she would hate being noticed, but his chest felt big.
 
-They loaded three statues across the back seats, padded with gnome boxes and blankets. Uncle Ferdinand rode like a king, seatbelted upright, colander now perched on his head because Grover insisted it would keep him safe.
+They secured three stone figures in the reconfigured rear section, padded with blankets and restrained using Martin's cargo straps. Grover placed his colander beside Uncle Ferdinand's face because he insisted the familiar object would make him feel safer.
 
 "He looks good," Grover said, stepping back. "Distinguished."
 
@@ -804,13 +804,93 @@ Percy heard her and felt sad and proud at once. This was She Who Draws Lines, he
 
 The sun touched the corn. Long shadows stretched across the gravel.
 
-Sam flagged down a second trucker on the highway with his hazards. The freed campers piled in with notes for Camp Half-Blood. Grover hugged his uncle's stone hand through the van window.
+The plan for leaving required another argument, this time with Martin.
+
+"You can't keep these figures in the back all the way to Los Angeles," he told them. "I don't know what they are, exactly, and I won't pretend I do. But if they're people, that makes this a medical transport problem. I'm not qualified to decide whether they can spend three days lying on a padded van floor."
+
+"Then where do they go?" Grover asked.
+
+Martin pointed toward the highway. "Back to the depot. The manager has a recovery team coming. We meet them at the next supervised stop, transfer the people in their care, and make sure somebody signs for them."
+
+"That means going east," Thalia said.
+
+"It means driving to a safe place before turning west," Martin replied. "A detour. Not the end of your quest."
+
+Percy looked at the stone figures. Uncle Ferdinand's face was fixed in a frightened expression. If any of them could hear what was happening, they had heard a great many people promise to take them away and then argue over the best way to do it.
+
+"Will Chiron know where they are?" he asked.
+
+"Yes. I'll make sure the depot sends the transfer record to him. You can send your map and your notes with it."
+
+Grover ran a hand over the padded base. "Can I go with Uncle Ferdinand?"
+
+Nobody answered immediately.
+
+"You can ride beside him to the transfer point," Martin said. "After that, his care needs somebody who understands what the stone means. You have a different job."
+
+Grover swallowed. "I don't like leaving him."
+
+"I wouldn't like it either."
+
+The answer surprised Percy. Martin wasn't offering a cheerful speech about how everything was sure to turn out. He was making a practical promise and leaving the pain of separation alone.
+
+Annabeth examined the route and made a notation beside their next safe stop. The detour would cost fuel and time, but it would keep the statues off the road to Hades and allow the four questers to continue with the information they'd found.
+
+"What about the two injured campers?" she asked.
+
+Sam sat on the low step of the van, flexing his hands, his legs still stiff. He had listened to the plan without speaking.
+
+"I can go with them," he said. "I'm not getting back into a freight truck tonight. I'm not even sure I can walk all the way to the restroom."
+
+Martin nodded. "I'll ask the depot to arrange proper medical care and notify the camp."
+
+Percy had thought rescue meant pulling somebody out of a bad place. He was learning that rescue continued after the fighting stopped. Sam and the campers would need people who could help with the stone spreading through their limbs. Uncle Ferdinand needed a specialist. The figures still in the garden needed a search team and someone to identify them. Finding the bolt did not erase any of those obligations.
+
+"Can we take photographs?" Annabeth asked.
+
+Martin gave her an old disposable camera from his glove box. He explained how many frames were left and warned that the light would be poor near the shed. She photographed the numbered statue rows, the broken glasses and the shipping-label scraps that remained behind the counter. Percy wrote labels in the notebook and made sure the photograph numbers matched.
+
+Thalia searched the office without touching the papers with her bare hands. She found a carbon copy of a shipment receipt and an empty box sleeve with a courier number. Neither named the thief. The address on the receipt was a drop point, not a destination.
+
+"This is still a real clue," Annabeth said.
+
+"But not proof that Hades did it," Percy answered.
+
+Thalia looked up from the receipt. "You think it could be a trap?"
+
+"I think we just walked into a trap because somebody wanted us to follow a humming box. We should be careful about assuming the next place is the answer."
+
+Nobody disagreed. Grover was busy cleaning dust from the straps around Uncle Ferdinand, but Percy could see him listening.
+
+Martin sent the recovery call. He told the person on the other end exactly what he knew and refused to provide descriptions of injuries he hadn't examined himself. When he hung up, he looked at the four of them.
+
+"Now we're going to drive to the rendezvous and let the people who handle this sort of thing take over. You can argue about the westbound route after that. Are we clear?"
+
+"Very clear," Thalia said, in a tone that suggested she disliked the instructions but approved of the decision.
+
+At the transfer site, the recovery crew arrived in a larger vehicle with proper supports for the stone figures. They checked each number against Annabeth's map, recorded the names Grover could provide and asked Percy to keep the original notebook in case something got lost. The nymph depot received a copy.
+
+Grover helped transfer Uncle Ferdinand with both hands on the padded base. When the straps were secured in the new vehicle, he stayed beside the door for a minute longer.
+
+"I'll be back," he whispered. "Not after the quest because it's convenient. As soon as I can."
+
+One of the recovery workers gave him the destination contact, the name of the person responsible for the case and a number Chiron could use to ask about progress. Grover wrote it on the back of his bark list.
+
+Only when the recovery van had departed did the questers turn west again. The seats behind them were empty except for folded blankets and their bags. Grover watched the taillights disappear before sitting down.
+
+"Do you want to talk about it?" Percy asked.
+
+"No," Grover said. "Not yet."
+
+"Okay."
+
+Percy didn't try to turn the silence into another comforting story. He sat beside his friend as Martin started the engine. The road ahead wasn't any shorter, but at least the people they'd found weren't being taken farther from the help they needed.
 
 "Hold on, Uncle," he whispered. "Just hold on."
 
 Martin checked the mirrors, took the wheel and started the van. Thalia rode behind him, with Annabeth beside her and the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
 
-Percy sat in back with Grover, keeping a hand on Uncle Ferdinand so he would not tip.
+Percy sat in back with Grover, keeping a hand on his friend's sleeve when the road became rough.
 
 As they pulled out, Percy looked back at the Emporium. The sign squeaked in the wind. The rows of stone faces stared at nothing. Medusa's empty pedestal stood by the porch, dust scattered over the gravel.
 
@@ -842,7 +922,7 @@ Thalia turned from the second row and mouthed, tragic bandage romance, with a gr
 
 Percy stuck his tongue out at her. Thalia laughed out loud, surprised, and Annabeth turned to ask what was funny, and Grover started playing a soft song on his pipes for his uncle, low and sweet, for the road west.
 
-The van rattled onto the highway, heading into the sunset, carrying three stone passengers, one bandaged hero, two sisters, and a satyr who would not stop talking to his uncle about grass.
+The van rattled onto the highway, heading into the sunset with the stone passengers safely transferred into specialist care, one bandaged hero, two Grace sisters and a satyr who had kept every detail of his uncle's case in a notebook.
 
 Behind them, the gnome rows stood empty in the dusk. The wind chime rang once, then still.
 
@@ -850,7 +930,7 @@ Ahead, the sky went orange and pink, and the road ran straight west toward LA, t
 
 Percy watched the sun go down and thought of the Diver holding his lamp because someone held the rope. He thought of Annabeth tackling him into dirt because she held his wrist and would not let go.
 
-He tightened his hand on the tarp so Uncle Ferdinand would not slide, and he stayed awake to watch the road, because that was what partners did.
+He held the written transfer record in his lap and stayed awake to watch the road, because that was one part of keeping a promise.
 
 They held the rope for each other.
 
