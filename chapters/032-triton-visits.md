@@ -853,3 +853,41 @@ At the edge of the path Triton stopped to pull a piece of seaweed off Percy's sl
 Triton looked down. The crab raised a claw.
 
 They carried it back to the shore before going up to Cabin Three.
+
+By breakfast, Triton had packed the travel cloak and prepared a short account of his visit for Amphitrite. Percy found him at the lake, inspecting the seal on the messenger pouch.
+
+"Is that about me?" he asked.
+
+"In part. Your mother asked how you were managing."
+
+Percy looked at the folded report. At court, he had learned that adults could talk about him in considerable detail without asking whether the description matched how he felt. He didn't want to be ungrateful for his brother's concern. He also didn't want his visit turned into a list of deficiencies.
+
+"Could you tell her I like the training?" he asked. "Even when I complain about it."
+
+"I have. And that Clarisse and Silena take their responsibilities seriously."
+
+"They do."
+
+Triton hesitated. "I also mentioned that you don't always recall the routines we used to practice together. I didn't ask her to arrange more tests. I thought she should know we spoke about it."
+
+Percy nodded slowly. He remembered the swim they'd taken under the stars and how easy it had felt when Triton stopped asking him to describe a childhood he couldn't see.
+
+"Thanks," he said. "I like hearing the stories. Sometimes I want them to be stories, not questions."
+
+"I understand. Better than I did when I arrived."
+
+Triton sealed the pouch. He gave Percy a small waterproof notebook, plain enough that it could have come from any camp supply store.
+
+"For your own observations," he said. "You can decide which ones you send home."
+
+Percy opened it. The pages were empty.
+
+"I thought you'd give me another manual."
+
+"I considered it. Then Silena told me you have enough things people expect you to study."
+
+Percy laughed. He tucked the notebook beneath his arm and promised to write when he'd filled a few pages. Triton didn't ask him to report on a fixed schedule. They agreed to send letters through the palace courier whenever the route allowed it.
+
+As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his sisters, lost a practice match and learned how a borrowed cloak was returned. Those were new memories they could share without requiring the old ones to come back.
+
+Triton waved once from the shallows before diving. Percy watched until the water settled, then went to breakfast with his notebook in hand.
