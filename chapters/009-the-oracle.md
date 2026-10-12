@@ -464,7 +464,17 @@ A soft click. She caught the latch before it snapped back.
 
 Attic air rolled out: damp wool, candle wax, copper. The mist gathered thickest around the old chair. The mummified Oracle sat where Percy remembered her, with her mouth open and her hands resting on her knees.
 
-He thought of Rachel, the living Oracle they had known years later. Whatever had happened to this history, he had no reason to expect her here now.
+He thought of Rachel, the living Oracle they had known years later. Whatever had happened to this history, he had no reason to expect her here now. He remembered how uncomfortable it had been when adults treated her as an answer machine rather than a person, especially when the answer frightened them. He was in danger of doing the same thing to the silent woman in the chair.
+
+Annabeth studied the bronze strip from a distance. The mark was not engraved in the surrounding wood. It had been fixed on top of it, with nails of a different color than the old fittings. Percy had seen enough repair work over the last week to recognize an installation someone had changed. That did not tell him who had changed it or when.
+
+"We ask whether she can speak," he whispered. "Then whether she recognizes the record. If she doesn't respond, we leave. No pushing until she gives us the answer we want."
+
+Annabeth looked at him. "I wasn't going to interrogate her."
+
+"I know. I just want us both to remember."
+
+She took a breath and closed the notebook to the copied prophecy. Percy held the lamp lower so the light no longer fell directly across the Oracle's face. He was conscious that they had entered a restricted room on the assumption that the person within might need help. He didn't want their own fear to become another kind of restraint.
 
 Annabeth stopped several feet from the chair.
 
