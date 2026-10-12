@@ -2,7 +2,7 @@
 
 Annabeth Grace woke up with a building in her head.
 
-It wasn't the first time. She often woke with lines and angles buzzing behind her eyes like bees trapped under glass, floor plans unfolding themselves while she was still half-asleep, staircases that went nowhere and then, suddenly, somewhere. Usually they faded by breakfast. This one didn't.
+She had done this for years in the life she remembered. Here, in Cabin One, she still woke with unfinished plans turning over in her head before she was entirely awake, staircases that went nowhere and then, suddenly, somewhere. Usually they faded by breakfast. This one didn't.
 
 She sat up in her bunk in Cabin One — Zeus's cabin, all high windows and storm-gray blankets and that faint smell of ozone that never quite left, even on sunny days — and grabbed her sketchbook off the nightstand before the image could dissolve.
 
@@ -447,6 +447,3 @@ Annabeth raised her pencil high.
 The foundation was laid.
 
 And it was only the beginning.
-
----
-
