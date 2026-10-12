@@ -1032,6 +1032,3 @@ In the dark, Percy stared at the ceiling where seashells caught faint starlight 
 He fell asleep with his hand curled like it was still holding someone's, and the sea moved under the floorboards, steady as sisters breathing in the dark.
 
 ---
-
----
-
