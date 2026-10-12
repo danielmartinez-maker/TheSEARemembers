@@ -482,25 +482,49 @@ The cap turned invisible on contact, but it covered the snakes. Medusa shrieked 
 
 "Now!" Annabeth yelled. "Thalia! The hubcap! Show her herself!"
 
-Thalia scrambled up, grabbed the hubcap with both hands, and held it right in front of Medusa's covered face. She yanked the Yankees cap away fast and ducked.
+Thalia scrambled up with the hubcap in one hand and her spear in the other. She positioned the polished metal so she could track Medusa without meeting the gorgon's eyes.
 
-Percy stared at the dirt. He heard a gasp.
+"Look at yourself!" she shouted.
 
-A horrible scraping sound. Then silence.
+Medusa laughed. She glanced at the warped reflection and remained very much alive.
 
-Then a thud, heavy and stone.
+"Did you really believe my own face would harm me?" she asked. "You children remember the shields but not what Perseus actually did with one."
 
-Grover's pipes stopped.
+Percy felt cold. They had made the wrong assumption. Looking into a reflection was safer for them, but it was not a weapon by itself.
 
-"Is it—" Percy whispered, eyes shut tight. "Can I—"
+Annabeth caught the cap as Medusa lunged at Thalia. Invisible for an instant beneath the Yankees cap, she darted along the side of the gnome rows and shoved the polished metal toward Percy. He saw Medusa in it: a pale face below the snakes, glaring at the place where Annabeth had been.
 
-"Wait," Annabeth said. Her hand was on his good arm, holding tight. "Wait. Thalia, talk."
+"Percy, the reflection!" Annabeth shouted. "Watch that, not her!"
 
-Thalia's voice came, shaky and alive. "She looked. She looked at herself in the hubcap. She is— she is stone. All the way. Even the snakes. They look like little stone worms. It is gross."
+Grover played a hard, urgent sequence on his pipes. Dry stems pushed through the gravel around Medusa's ankles. The stems could not hold her for long, but they delayed her just as Thalia moved behind a fountain and forced the gorgon to turn.
 
-Percy opened one eye. Dirt. Annabeth's shoe.
+Percy kept his eyes on the hubcap. Its surface was warped, making distances difficult to judge. He had to place his feet by feel and listen to Annabeth calling directions. The monster's reflection moved toward him. He stepped to the left, felt air rush past his shoulder and brought Riptide up in a single clean strike.
 
-He opened the other. Annabeth crouched over him, her face white, her hands already tearing a strip from the bottom of her camp T-shirt.
+There was a scream. Then a rush of dust and a sound like glass shattering in the distance. Percy heard bronze ring against stone as Riptide hit an empty pedestal.
+
+"Down!" Thalia shouted.
+
+Percy dropped behind the fountain and waited. A long moment passed.
+
+"It's over," Annabeth said. Her voice was shaking. "The monster is gone. It's dust."
+
+Percy opened his eyes slowly, beginning with the ground. The gravel was scorched where Medusa had stood. Her dark glasses lay broken beneath the fountain. The statues remained, unchanged and terribly still.
+
+Grover lowered his pipes. He looked first at the empty space where the gorgon had been and then at the satyr figures behind it.
+
+"Uncle Ferdinand?" he called softly.
+
+There was no answer. The monster's defeat hadn't restored anyone.
+
+Percy moved to Annabeth and almost fell when a line of pain tore across his arm. Medusa's nails had cut him before her final lunge. Blood had begun to soak the sleeve.
+
+Annabeth grabbed his good arm. "You're hurt."
+
+"Not badly."
+
+"Sit down before you make that decision for everybody," she said.
+
+Percy sat. Annabeth crouched over him, her face white, already tearing a strip from the bottom of her camp shirt.
 
 "Let me see," she said.
 
@@ -510,7 +534,7 @@ It was not a deep cut. That was what Annabeth kept saying, over and over, like s
 
 "It is not deep. It is not deep. You are okay."
 
-They sat behind the van in the shade of the maple. Thalia stood guard with the hubcap, watching the stone Medusa to make sure she stayed stone. Grover was with the freed people, giving them water and talking fast to keep them calm.
+They sat behind the van in the shade of the maple. Thalia stood guard with the hubcap, watching the silent statue rows in case any other creature had been sheltering there. Grover was with the freed people, giving them water and talking fast to keep them calm.
 
 Percy sat on the bumper. Annabeth knelt in front of him.
 
@@ -564,7 +588,7 @@ Annabeth's cheeks went pink. She looked down at the bandage and smoothed it once
 
 Annabeth nodded. She glanced toward her sister.
 
-Thalia stood by the stone Medusa, spear out now, keeping the freed truck driver behind her. The driver was a big mortal man with stone dust on his legs up to the knees. He kept blinking like he could not believe he could move his toes again.
+Thalia stood by the fountain where Medusa had fallen, spear out now, keeping the freed truck driver behind her. The driver was a big mortal man with stone dust on his legs up to the knees. He kept blinking like he could not believe he could move his toes again.
 
 Thalia caught them looking. She raised an eyebrow.
 
@@ -678,11 +702,11 @@ They loaded three statues across the back seats, padded with gnome boxes and bla
 
 "He looks like a traffic cone," Thalia said. But she adjusted the colander so it sat straight.
 
-Percy walked the rows one last time with Annabeth, covering Medusa's stone face with a burlap sack and turning her toward the wall so even her stone eyes faced nothing.
+Percy walked the rows one last time with Annabeth, covering the broken glasses beneath the fountain with a burlap sack so nobody would disturb evidence of what had happened.
 
-"Should we smash her?" Percy asked quietly. He did not want to. Smashing felt wrong, even for a monster. It felt like something the old heroes would do and brag about, and he did not want to brag.
+"Should we break the other statues open?" Percy asked quietly. He hated leaving them here after the monster was gone.
 
-Annabeth shook her head. "No. Chiron says stone holds memory. We leave her for the gods to judge. We take her victims to people who can help. That is better than smashing."
+Annabeth shook her head. "Not when we don't know whether the stone is holding them alive. Chiron needs to examine them first. If we smash the shell and it's part of them, we could kill someone we're trying to save."
 
 Percy nodded. That sounded right. Mending, not fighting. Silena would like that.
 
@@ -698,11 +722,11 @@ Sam flagged down a second trucker on the highway with his hazards. The freed cam
 
 "Hold on, Uncle," he whispered. "Just hold on."
 
-Thalia started the van. Annabeth rode shotgun with the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
+Martin checked the mirrors, took the wheel and started the van. Thalia rode behind him, with Annabeth beside her and the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
 
 Percy sat in back with Grover, keeping a hand on Uncle Ferdinand so he would not tip.
 
-As they pulled out, Percy looked back at the Emporium. The sign squeaked in the wind. The rows of stone faces stared at nothing. The sack-covered Medusa stood by the porch, stone snakes frozen mid hiss.
+As they pulled out, Percy looked back at the Emporium. The sign squeaked in the wind. The rows of stone faces stared at nothing. Medusa's empty pedestal stood by the porch, dust scattered over the gravel.
 
 He thought about what Medusa had said. About being used and thrown away. He did not feel sorry for her, exactly. She had chosen to hurt people. But he understood why Annabeth had not smashed her. Some stories did not need more breaking.
 
@@ -714,7 +738,7 @@ Percy smiled. "She will love him. Especially if he likes music."
 
 "He snores like pipes," Grover said. "That counts."
 
-Up front, Thalia glanced at Annabeth's notebook.
+Up front, Thalia glanced at Annabeth's notebook from the second row.
 
 "West," Thalia said. "Of course it is west. Everything stinks and goes west. LA. Dead flowers. Studio. That is Hades. That is the Underworld."
 
@@ -728,7 +752,7 @@ Percy touched his bandaged arm. It throbbed dully under the cloth.
 
 "West," Annabeth agreed. She held his gaze a second longer, then turned forward, pencil tapping.
 
-Thalia caught Percy's eye in the mirror and mouthed, tragic bandage romance, with a grin.
+Thalia turned from the second row and mouthed, tragic bandage romance, with a grin.
 
 Percy stuck his tongue out at her. Thalia laughed out loud, surprised, and Annabeth turned to ask what was funny, and Grover started playing a soft song on his pipes for his uncle, low and sweet, for the road west.
 
