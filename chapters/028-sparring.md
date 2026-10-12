@@ -668,4 +668,12 @@ Clarisse pretended to think. "Same time next week. But you're teaching Tide-Brea
 
 "No holding back," Clarisse said, and held out her fist.
 
-He bumped it, and they walked into the steam and noise and sugar-smell of breakfast together — sea siblings, storm sisters, and Silena with the muffin tin held high like a trophy — while the sun came up over Camp Half-Blood and the sea glittered beyond the dunes, keeping time with their breathing: in, out, in, out, like a tide that finally knew where home was.
+He bumped it, and they headed for breakfast.
+
+Silena insisted Clarisse carry the muffin tin because it was hot. Clarisse complained that she'd spent a week fighting with practice swords only to be promoted to pastry delivery. Percy took one muffin before they reached the pavilion.
+
+"No holding back?" Clarisse asked him again.
+
+"Except for the food. You're not getting this one."
+
+She tried to snatch it anyway. Silena made them both go back and wash their hands.
