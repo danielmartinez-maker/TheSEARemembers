@@ -535,5 +535,3 @@ Percy closed the notebook. Clarisse was right about his sleep, although he had n
 In Cabin One Annabeth would be trying to sleep too. They had agreed to investigate together, but he could not do it for her. He'd ask whether she wanted to visit the Hall after breakfast.
 
 He lay back. The walls of Cabin Three carried their steady underwater rhythm, and eventually he let it replace the list of questions in his head.
----
-
