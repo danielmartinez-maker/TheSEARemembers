@@ -444,6 +444,14 @@ Annabeth raised her pencil high.
 
 "To us," she said quietly, but they heard her, and they cheered, and the sound rang across the hill and into the sky, where clouds gathered white and harmless, and the sun shone down on three olive trees and a circle of stones and a group of kids who, for once, had somewhere that was exactly theirs.
 
-The foundation was laid.
+Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them.
 
-And it was only the beginning.
+Thalia appeared with the work schedule under one arm.
+
+"You're coming to dinner," she said.
+
+"I need five more minutes."
+
+"You said that twenty minutes ago."
+
+Annabeth looked at the chalk lines. There was much more to build. She put down the pencil and followed her sister down the hill, making Thalia promise to help carry the measuring rods back in the morning.
