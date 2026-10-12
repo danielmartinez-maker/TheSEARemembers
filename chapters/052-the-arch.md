@@ -856,7 +856,7 @@ She studied him for a moment. "You sound like Chiron."
 
 He glanced toward the smoky curve above them. The gods could make even public architecture into a battleground, then leave mortal workers to count the injured. He wished he could fix that larger problem. For now the only useful thing he could do was give an accurate account, listen when the adults told him to sit down, and let the rescuers finish their work without another demigod getting in their way.
 
-He sat beside Annabeth until Thalia returned from the medical tent.
+He sat beside Annabeth until Thalia returned from the medical tent. He kept his hands wrapped around the paper cup of water the paramedic had given him, although he was no longer thirsty. Both of them needed a few minutes in which nobody expected a brave decision.
 
 "We need to move," Annabeth said, wiping her face and sitting straighter, but not letting go of Percy's hand. "Echidna is gone, but she will tell someone we are here. The depot— we cannot go to the depot now. Too watched."
 
@@ -885,6 +885,3 @@ Annabeth nodded, eyes bright but dry now, steady. "Always."
 Thalia, ahead with Grover, pretended not to hear. She just slowed half a step so they could keep up, and kept guard while her sister rested her weight against the boy she loved, and the quest walked on.
 
 ---
-
----
-
