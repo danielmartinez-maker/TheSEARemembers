@@ -541,6 +541,227 @@ She laughed softly. They walked back toward their separate cabins, stopping wher
 
 ---
 
+---
+
+Thalia woke when the Cabin One door settled against its frame.
+
+It wasn't the sound that frightened her. Annabeth had been taught to close a door quietly years ago, at least according to the memories that belonged to Thalia. The problem was that she had learned to distinguish every noise her sister made when trying not to wake her. A shoe placed carefully on the floor. A breath held near the bedside. The scrape of a notebook pushed beneath the mattress.
+
+Thalia lay on her side facing the wall and listened.
+
+Annabeth came to the bed by the window. She stood there longer than necessary. Eventually the mattress gave a small sigh and the sheets rustled. No lamp was lit. The cabin held its ordinary smell of cedar, dust, and rain-soaked training clothes left too long by the door.
+
+Thalia wanted to ask where she'd been. She wanted to point out that she had offered help and been given a promise to speak before another visit. She knew she'd get a careful answer, probably one that didn't qualify as a lie. She could start a fight in the middle of the night and make them both miserable, or she could wait until morning and give her sister the opportunity to come to her.
+
+She didn't know which decision would hurt less.
+
+Annabeth shifted again. The small click of a pencil case being closed told Thalia she was writing something before trying to sleep. That, at least, was familiar. The new part was how quickly the knowledge made her angry.
+
+When Annabeth had been younger, she'd come into Thalia's bed after a nightmare, no matter how determined she had sounded that afternoon about being too old. Thalia had learned to move over without making a fuss. Now her sister was twelve, older in some mysterious ways, and so careful about what she could say that she couldn't even admit she'd been afraid. She seemed to have decided Thalia could carry her worry more easily if she didn't know the details.
+
+Thalia kept her eyes shut until the room quieted.
+
+At dawn she found a folded piece of paper on the floor beside Annabeth's shoes. It was a copy of one of the emergency maps they'd posted near the Hall, with corrections marked in small, familiar handwriting. On the back Annabeth had written a list of questions for the archivist. Thalia picked it up to move it out of the path of her boots and noticed that her sister had crossed out the word *tonight*.
+
+There was no reason to assume what that meant. She assumed anyway.
+
+She left the map on Annabeth's desk and went to the training field before breakfast. Bea was there counting coils of rope. Clarisse was testing the grip on a replacement shield. Both looked up when Thalia arrived, and both knew her well enough not to ask why she'd brought her sword to a rope inspection.
+
+"We need the assembly route checked again," Thalia said.
+
+Bea showed her the list. "I did it at first light. The upper-bank path is still muddy. We're keeping the younger campers on the pavilion route until maintenance signs it off."
+
+"Good."
+
+Clarisse turned the shield over. "You going to inspect every path in camp?"
+
+"Only the ones that have people on them."
+
+"Then you've got your work cut out for you."
+
+Thalia pulled a rope taut between two posts and tested the knot. "I'm fine."
+
+"I didn't ask," Clarisse said.
+
+Thalia tightened the line more than necessary. Clarisse let her do it, then stepped close enough to look at the frayed fibers.
+
+"That's going to snap if somebody leans into it," she said. "Undo it and start again."
+
+"I'm aware."
+
+"Then do it properly."
+
+Thalia stared at her. She had been afraid of monsters before. She had been afraid of Zeus. She knew what it was to count supplies because running short could mean a younger child's life. But there was something humiliating about a frayed rope being the one thing she could solve while everything she wanted to ask Annabeth remained out of reach.
+
+She loosened the knot.
+
+"Annabeth was out last night," she said, quietly enough that Bea wouldn't hear from the far post.
+
+Clarisse kept her eyes on the rope. "Was Percy with her?"
+
+"That's my guess."
+
+"I'll ask him."
+
+"Don't threaten him."
+
+"Wasn't planning to."
+
+Thalia let go of the rope. "I offered to go with her to Chiron. I thought if she let me help with the records, she wouldn't need to do something dangerous. Apparently that wasn't the point."
+
+"Maybe she needed the thing Chiron wouldn't give her," Clarisse said. "That doesn't make it right. It also doesn't mean she doesn't need you."
+
+Thalia hated that she had to work to believe this. She knew Clarisse wasn't offering an excuse. She was naming two facts that could exist at once.
+
+"Can you leave Percy to me?" Clarisse asked. "You've got your own sister to talk to. If we all stand around them like a tribunal, neither is going to say anything useful."
+
+Thalia nodded. She was grateful for the help and resentful that Clarisse seemed more certain what to do. Both feelings disappeared when the rope snapped against her glove and brought her attention back to the work.
+
+By breakfast, the new path markers were ready for installation and Thalia had decided she would ask Annabeth about the night without beginning with an accusation. She wanted the truth, not a confession obtained because Annabeth was too tired to argue.
+
+Annabeth came down the steps with dark circles beneath her eyes and an untouched piece of toast in one hand. She stopped when she saw her sister by the signboard.
+
+"You're up early," she said.
+
+"So are you."
+
+"I couldn't sleep."
+
+"I noticed."
+
+The words landed badly. Annabeth's face closed, almost imperceptibly.
+
+"Did you need something?" she asked.
+
+Thalia glanced at the other campers filing past and pointed toward an empty bench beside the equipment shed.
+
+"Five minutes. No audience."
+
+Annabeth sat, still holding the toast. Thalia didn't sit right away. The impulse to pace was strong, and she resisted it partly because she had spent years telling Annabeth not to treat every difficult conversation like a race she had to win.
+
+"Did you go to the Big House?" she asked.
+
+Annabeth looked at her toast. "Yes."
+
+"With Percy?"
+
+"Yes."
+
+"Did you get what you were looking for?"
+
+"We heard something. I want to talk to Chiron before I tell anyone else what we think it means."
+
+Thalia could have demanded the details. She could have pointed out that this was exactly the half-answer she'd feared. Instead she asked, "Were you hurt?"
+
+"No. We didn't touch the chair or any wards. My hands are fine."
+
+"That's not what I asked." Thalia sat beside her. "I don't just mean the burns."
+
+Annabeth took a breath. "I was frightened. The Oracle answered us, and I don't know how much of what she said to trust."
+
+The admission made Thalia feel suddenly older, not because she was better equipped to hear it but because it was the first time in days her sister had given her something she hadn't already solved in private.
+
+"You don't have to tell me all of it here," Thalia said. "But when you decide to go somewhere dangerous, I need you to be honest that you're going. You can't keep asking me to treat you like an adult and then hide the parts of your decisions you think I'll dislike."
+
+Annabeth's jaw tightened. "You would have stopped us."
+
+"I would have tried."
+
+"Exactly."
+
+Thalia waited. She wanted her sister to hear the words that came next instead of reacting to the first argument.
+
+"And then we would have had to deal with each other," she said. "Maybe I would have been unreasonable. Maybe you would have been. But we wouldn't be standing here pretending it was an accident that I know you were gone."
+
+Annabeth tore the toast in half and stared at the pieces. "I'm sorry I didn't tell you."
+
+"Thank you."
+
+"I'm not saying I wouldn't go again."
+
+"I know you aren't."
+
+The bench was cold beneath them. For a while they watched the younger campers pass the new signs and argue over who was late to sword practice. Annabeth ate one piece of toast. Thalia resisted the urge to comment, then failed.
+
+"You're going to need more than that."
+
+Annabeth gave her a sidelong look. "I had eggs."
+
+"When?"
+
+"Yesterday."
+
+"That doesn't count."
+
+"It was a large serving."
+
+Thalia shook her head and stood. "Come to breakfast. You can explain what happened to Chiron on a full stomach."
+
+She offered her hand. Annabeth looked at it, then took it, careful of the fingers that had recently been burned. Thalia knew the gesture did not resolve everything they'd said. She also knew she would have to earn the chance to ask again, and Annabeth would have to decide whether she was ready to answer.
+
+They went toward the dining pavilion together.
+
+---
+
+Percy was already at the pavilion when Silena handed him the inventory slip he'd forgotten to sign. She did not know what had happened in the attic. He could tell she knew he'd hardly slept.
+
+"You wrote your name in the quantity column," she said, showing him the paper.
+
+"I may have been estimating my value."
+
+"Then you would have written a smaller number."
+
+He corrected the form while she counted sealed packets of bandages for the infirmary. Her practical concentration was one of the things he liked most about living in Cabin Three. It also meant he couldn't get away with standing uselessly beside a table and looking worried.
+
+"There's a rumor Chiron is moving everything from the attic," Silena said.
+
+"He's transferring some archive crates. Annabeth copied the labels."
+
+"Then ask him where they'll be stored. Half the trouble with old camp records is that nobody knows which key opens which cupboard."
+
+Percy set down the pencil. "You make it sound like paperwork can solve everything."
+
+"It solves the things that paperwork caused. If you want a god to solve the rest, I wouldn't trust him to bring the right file."
+
+He laughed, then saw Clarisse coming up the steps. She had dirt on her boots and a look that meant she was going to ask a question he'd rather not answer.
+
+"Did you go with Annabeth last night?" Clarisse asked without sitting.
+
+Percy glanced at Silena, who continued counting packets. She had decided to allow the conversation to happen without pretending she wasn't listening.
+
+"Yes."
+
+"Was it worth it?"
+
+"Probably not in the way you're asking."
+
+"Try answering me in the way I'm asking, then."
+
+Percy told her they'd seen the Oracle react to a bronze strip, that they'd heard Chiron and Mr. D discussing a possible binding, and that both he and Annabeth had come back safely. He did not repeat the words of the prophecy where other campers could overhear. Clarisse listened without making a face, which he found considerably more frightening than if she'd shouted.
+
+"You were there again when the camp was on restricted access," she said.
+
+"Yes."
+
+"You're going to tell Chiron."
+
+"We're taking him our copies after breakfast."
+
+Clarisse leaned on the table. "Good. If he gives you chores, I am not doing your share."
+
+"Fair."
+
+"And if he forbids you to help with the repair site, find something else useful to do. Sitting around inventing theories won't make the Hall safer."
+
+Silena counted the last packet and put the inventory into her bag. "I'll need someone to deliver these after breakfast. The infirmary's short on a size we use for burns, and they asked for another box."
+
+"I can," Percy said.
+
+"Sign here first."
+
+He signed. It didn't make him innocent of anything. It gave him a small obligation that would still exist after he had faced Chiron, and he was beginning to understand how much those ordinary obligations kept a camp together when nobody had an answer to the biggest problem.
+
+
 Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold. Percy had slept for three hours, and Chiron's first response to the copied symbols had been a request to see Zoe's maintenance ledger. He had not asked them how they knew the transcript was disputed. Percy still wished they had a better answer prepared.
 
 She looked up when Percy entered.
