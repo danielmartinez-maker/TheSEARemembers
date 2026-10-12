@@ -66,7 +66,13 @@ Chiron sent the campers toward the Big House under their counselors. Clarisse to
 
 "I'll stay with Chiron."
 
-"Do that."
+Clarisse looked at him, then toward Silena, who was guiding three younger campers past a fallen post. "You hear that, Silena? If I have to come looking for him, he's carrying all the sandbags afterward."
+
+"I'll write it on the chore board," Silena called back.
+
+Percy raised his hands. "I'm standing right here."
+
+"Then stay there," Clarisse said, and ran to help move the fallen post. 
 
 He joined Annabeth at the foot of the pavilion steps. Zoe was explaining something to Chiron, her words nearly lost beneath the metallic whine.
 
@@ -278,7 +284,7 @@ Her face closed a little.
 
 He set the other towels down.
 
-"That because you had something you lost in the history I remember, you might have wanted to change it."
+"That you might have wanted something different badly enough to ask a god to change things. You don't remember the same history I do. I let that turn into an accusation in my head."
 
 Annabeth went still beside her.
 
@@ -286,13 +292,17 @@ Thalia looked at him for a long time.
 
 "I don't know the life you're talking about," she said. "I know my sister. I know I want her safe. Those are the things I can answer for."
 
-"I know. I'm sorry I made them evidence against you."
+"I was wrong to treat your fear for Annabeth as proof against you," he said.
 
-She lowered her eyes to the towel.
-
-"Don't do it again."
+Thalia folded the towel carefully over her burned palm. "You don't have to like me, Jackson. But don't tell yourself you know my reasons better than I do."
 
 "I won't."
+
+"You don't get to decide that once and expect me to trust you forever."
+
+Percy nodded. "Fair."
+
+She stood, and for a moment he thought she'd walk away. Instead she helped Annabeth up, keeping her uninjured arm around her sister's shoulders. Percy followed them to the infirmary. They had fought on the same side today. That didn't erase the conversation.
 
 ---
 
@@ -316,13 +326,21 @@ Clarisse stood at the doorway and counted.
 
 Annabeth leaned against Thalia while the dressing was finished. She looked exhausted and unmistakably herself. There was no return of a missing romance, no new childhood suddenly waiting behind her eyes.
 
-When Thalia asked whether she remembered a similar storm when they were small, Annabeth shook her head.
+When Thalia asked whether she remembered a similar storm from when they were small, Annabeth shook her head.
 
-"You can tell me later."
+"I don't," Annabeth said. "I know that's hard to hear."
 
-Thalia looked down at her.
+Thalia looked down at the fresh dressing on her palm. "It is."
 
-"Later," she agreed.
+Silena pretended to be occupied with arranging the water cups. Clarisse stayed at the doorway.
+
+"If you ever want me to tell you about it again," Thalia said, "I will. You used to ask for the story."
+
+"Maybe tomorrow," Annabeth said.
+
+"Tomorrow's fine."
+
+They did not try to remember it together. Thalia stayed until the healer told her she could leave, and Annabeth waited for her.
 
 ---
 
@@ -372,7 +390,9 @@ The lake smelled of damp reeds and cooling pine. A fish rose near the pilings, l
 
 She smiled.
 
-They stayed until Thalia called them to eat. Then Annabeth took his hand and pulled him up, careful of his sore wrist. The unknown part of their lives was still unknown. For tonight, there were five places on the shore, and someone had saved them two sandwiches.
+They stayed until Thalia called them to eat. Then Annabeth took his hand and pulled him up, careful of his sore wrist. The unknown part of their lives was still unknown. When they reached the others, Clarisse handed Percy one sandwich and informed him that he'd earned exactly half of her forgiveness for missing his assigned place during the evacuation. He offered to carry the empty food basket back to the pavilion. She gave him the heavier one instead.
+
+Silena made room for Annabeth beside Thalia. Annabeth took the place, shoulder touching her sister's, and nobody made a speech about it. There were five of them eating late on the shore. The Hall would still need repairs in the morning.
 
 ---
 
