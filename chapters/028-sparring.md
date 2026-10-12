@@ -146,7 +146,7 @@ The doors banged open, letting in cold air and sunrise. Two figures stood silhou
 
 "Are you sea kids done being loud at dawn?" Thalia Grace called. She was fifteen, with black choppy hair and electric-blue eyes and a leather jacket over her practice clothes even indoors. Behind her, smaller and bright-eyed with a notebook already in hand, was Annabeth.
 
-Annabeth Grace, twelve, daughter of Zeus, Percy's girlfriend of three weeks, and the only person at camp who took notes on sparring like it was a math test.
+Annabeth Grace, twelve, daughter of Zeus, Percy's girlfriend in a life she alone remembered alongside him, even if their campmates had known them together for only weeks, and the only person at camp who took notes on sparring like it was a math test.
 
 "You're early," Annabeth said to Percy, coming to sit by his towel. She kissed his cheek quickly — she did that now, quick and casual like she'd always done it — and stole half his muffin. "You smell like chlorine and salt."
 
@@ -166,7 +166,7 @@ Percy looked at Clarisse, who was wringing out her bun and pretending not to lis
 
 "It was good," he said. "Hard. Good-hard."
 
-Annabeth squeezed his hand. She knew about Atlantis, about the fear. They had talked about it on the Zeus cabin roof with blankets around their shoulders. She did not say anything now, just nodded and smiled in a way that said she was proud.
+Annabeth squeezed his hand. She knew about Atlantis and the childhood he could not personally remember, the way he knew about her fear of failing Thalia. They had talked about it on the Zeus cabin roof with blankets around their shoulders. She did not say anything now, just nodded and smiled in a way that said she was proud.
 
 "Tomorrow we do swords in the water," Clarisse announced. "Bring your knife, Chase. You and Thalia can use the shallow steps if you want."
 
@@ -669,6 +669,3 @@ Clarisse pretended to think. "Same time next week. But you're teaching Tide-Brea
 "No holding back," Clarisse said, and held out her fist.
 
 He bumped it, and they walked into the steam and noise and sugar-smell of breakfast together — sea siblings, storm sisters, and Silena with the muffin tin held high like a trophy — while the sun came up over Camp Half-Blood and the sea glittered beyond the dunes, keeping time with their breathing: in, out, in, out, like a tide that finally knew where home was.
-
----
-
