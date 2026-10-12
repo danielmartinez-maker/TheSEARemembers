@@ -154,6 +154,105 @@ He left them laughing and went after Annabeth.
 
 ---
 
+Percy caught up with Annabeth at the turn toward Cabin One. She stood beside the noticeboard with the apple she'd taken from breakfast in one hand and the folded paper Thalia hadn't opened in the other.
+
+"I thought you left that at the table," he said.
+
+"I picked it up again when she wouldn't take it."
+
+"Did she say why?"
+
+"She didn't say anything."
+
+He looked down the path. Thalia had remained at the Zeus table after Annabeth left. She hadn't thrown the note away or read it. Percy knew enough about her to recognize how easily either choice could be treated as proof of something it wasn't.
+
+"Maybe she didn't want to talk in front of everybody."
+
+"Maybe." Annabeth turned the note over. "I hoped if I wrote down exactly what I'd noticed she'd understand that I was paying attention. She hasn't wanted to train with me since the eclipse. She doesn't like it when I ask whether her hand's better."
+
+"Neither do you."
+
+"That's different."
+
+He waited. Annabeth examined the fold she'd made in the paper.
+
+"All right," she said. "It isn't different. Not in the way that counts."
+
+She started toward the cabin, and he followed until the steps.
+
+"Are you going to ask her about the note?" he said.
+
+"Not yet. She needs space."
+
+"Do you?"
+
+Annabeth stopped with one foot on the step. Her first answer seemed likely to be something about being busy. Percy had known her long enough to see it forming.
+
+"I need somebody to stop asking me to fix a problem I can't fix in a morning," she said at last. "Thalia won't tell me what she wants, and every time I try to get close I remind her of something I don't remember."
+
+"Then you can leave it alone for a while."
+
+"I don't want to leave her alone."
+
+"Those aren't always the same thing."
+
+She looked at him sharply, then let the anger go. It wasn't his job to make her feel better about a conclusion she already understood.
+
+"I'm going to clean the cabin," she said.
+
+He glanced toward the door. "Both sides?"
+
+"There's an inspection this afternoon. They need the windows clear enough to check the frames after the eclipse."
+
+"Then do the inspection work. If you start organizing Thalia's things because you want her to see you're trying, you might end up having a different argument."
+
+Annabeth's face went still. "You think I'm doing that?"
+
+"I think you like having a problem you can solve with a list. I like having a problem I can solve with water. Neither of us is especially sensible about stopping when the problem belongs to somebody else."
+
+She looked down at the note. He couldn't tell whether she'd heard the advice or was composing a response that would make him regret offering it.
+
+"That's irritatingly fair," she said.
+
+"I try to be irritating on principle."
+
+She smiled faintly. They stood for a moment, not touching, listening to the training calls from the arena.
+
+"I remember a time when I'd have been able to tell you exactly how to fight a monster but not whether I could ask for something ordinary from you," Annabeth said.
+
+"Like?"
+
+"Like a morning when we don't have to discuss how everything is broken."
+
+Percy touched her hand gently. "That sounds good."
+
+"I still have to clean."
+
+"Then we can have the ordinary morning after."
+
+She took the apple from him and pressed it back into his palm.
+
+"Eat it," she said. "You left breakfast because of me."
+
+"I left breakfast because Clarisse gave me orders."
+
+"Your siblings have excellent management skills."
+
+He bit into the apple. She kissed his cheek and went into the cabin to handle the inspection work. Percy watched the door close, conscious that the argument she'd have with Thalia might not be improved by his advice. He had offered it. She would make her own choice.
+
+At the repair roster, Chiron had assigned him to light supply delivery while his forearm recovered. Beckendorf was measuring timber for the scaffold, trying to find a piece that hadn't warped during the rain.
+
+"You're on the lower run," Beckendorf said. "Carry the labels and small fittings. Leave the heavy boards for the forge team."
+
+"I can carry more than labels."
+
+"I'm sure you can. Doesn't mean I need you to."
+
+Percy took the packet. He could spend the morning proving he was strong enough to lift a plank, or do the task that would let someone else finish the repair. He went to the stores desk and began checking the labels against the list.
+
+
+---
+
 Annabeth Grace had a system for when her brain wouldn't shut up.
 
 Lists. She made lists.
