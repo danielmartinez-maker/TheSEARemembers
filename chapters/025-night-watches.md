@@ -700,8 +700,8 @@ Annabeth leaned against Thalia, lighthouse and ship, sisters and soldiers, and w
 
 Thalia wrapped an arm around her. "Boringest week ever. Best week ever."
 
-As the sun rose fully over Camp Half-Blood, gilding the cabins and the strawberry fields and the far-off gleam of the boundary pine, six night-watchers finished breakfast, shoulder to shoulder, tired but closer — and for once, no alarms, no quests, no battles. Just dawn, and food, and each other.
+When Chiron dismissed the watch, Clarisse claimed the last pancake and announced that anybody still awake in an hour would be assigned more patrol duty.
 
-It was enough. It was everything.
+Grover was already asleep with his forehead on the table. Silena covered his face with a napkin to keep the flies away. Thalia slid her untouched fruit across to Annabeth and asked when the next watch list would go up.
 
----
+Percy stood carefully. His legs had gone stiff during the night. He had completed a week of looking for something dangerous and found nothing he could prove. Tomorrow, after sleeping, he could examine the notes with Annabeth. Today he went back to Cabin Three with his sisters.
