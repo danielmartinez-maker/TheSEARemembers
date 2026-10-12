@@ -924,7 +924,7 @@ Martin closed the atlas. He gave Thalia the passenger seat so she could watch th
 
 Percy looked out the window. Behind them, a team would arrive to record the people still trapped among the garden statues. Ahead of them, the ordinary road was filling with evening traffic. He couldn't see the bolt, but he could tell where the next stop was. That was something.
 
-Martin checked the mirrors, took the wheel and started the van. Thalia rode behind him, with Annabeth beside her and the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
+Martin checked both mirrors and asked Thalia to watch for the next turnoff. They would need a clear route through unfamiliar roads before the night traffic became difficult to follow. Thalia rode behind him, with Annabeth beside her and the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
 
 Percy sat in back with Grover, keeping a hand on his friend's sleeve when the road became rough.
 
