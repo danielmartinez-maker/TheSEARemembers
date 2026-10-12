@@ -576,8 +576,12 @@ He walked to Cabin Three with salt air in his lungs and lightning still tingling
 
 Across the green, in Cabin One, Annabeth set the lantern on her nightstand and watched its flame — her flame, coaxed from clear air — burn down slow. Thalia, in the next bunk, pretended to be asleep but whispered, "Proud of you, Sparky," into the dark. Jason mumbled something about lightning in his sleep. Annabeth smiled and blew out the lantern and fell asleep to the smell of rain that wasn't there.
 
-On Half-Blood Hill, the grass where she'd grounded out stayed faintly warm until morning, and the crickets sang, and the stars turned overhead, patient as a teacher, steady as breath.
+Annabeth woke once in the night and saw the lantern sitting where she'd left it, unlit and ordinary. She could light it again tomorrow if Chiron approved.
 
-Four in. Hold. Six out.
+From the next bunk Thalia muttered, "Four in. Hold. Six out."
 
-The sky remembered. The girl was learning. And for one clear night, that was enough.
+"I wasn't doing anything," Annabeth whispered.
+
+"Good. Then go back to sleep."
+
+Annabeth pulled the blanket up and followed her own breathing until it slowed.
