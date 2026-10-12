@@ -10,7 +10,7 @@ The Poseidon cabin smelled like salt and cedar and low tide. Morning light came 
 
 Five days after the eclipse.
 
-Percy counted them without meaning to. Five days since the sky had gone black at noon and Thalia had stood in the center of the Hall of the Gods with a bleeding palm and lightning trembling between her hands. Five days since Annabeth had screamed her sister's name so loud her voice broke. Five days since they'd all almost lost something none of them had words for yet.
+Percy counted them without meaning to. Five days since the sky had darkened at noon and Thalia had braced herself at the Hall's doorway with a burned palm and a spear she could barely hold steady. Five days since Annabeth had been forced to watch her sister refuse to step back until Chiron called the retreat. Five days since they'd all almost lost something none of them had words for yet.
 
 And now: hammers. Breakfast. Tuesday.
 
@@ -20,13 +20,13 @@ And now: hammers. Breakfast. Tuesday.
 
 Grover made a sad goat noise and rolled over. "Tell the hammers I'm asleep."
 
-Percy grinned despite himself and sat up. His ribs still ached if he breathed too deep — a souvenir from where a chunk of falling marble had clipped him during the ritual backlash. Lee Fletcher from Apollo had checked him three times and declared him "annoyingly resilient for a fish kid," which Percy chose to take as a compliment.
+Percy grinned despite himself and sat up. His forearm still ached if he carried something heavy, and the muscles he'd strained holding back the flooded channel had not quite forgiven him. Lee Fletcher from Apollo had cleared him for gentle swimming but warned him against lifting practice racks until the ache settled.
 
 He pulled on his camp shirt and shorts, shoved his feet into sneakers, and stepped outside into air that smelled like pine sap and fresh sawdust.
 
-Camp Half-Blood in the morning after near-disaster looked almost normal. Almost. The strawberry fields were green and heavy. The pegasi were circling. Someone was laughing down by the forges. But if you looked up the hill, you could see it: the Hall of the Gods with one whole corner caved in, scaffolding wrapped around it like a splint, a blue tarp flapping over the gap where the roof used to be.
+Camp Half-Blood in the morning after near-disaster looked almost normal. Almost. The strawberry fields were green and heavy. The pegasi were circling. Someone was laughing down by the forges. But if you looked up the hill, you could see it: the Hall of the Gods behind new scaffolding, its northern mosaic fenced off and a blue tarp protecting the cracked outer cornice from rain.
 
-Mr. D had called it "structural redecorating." Chiron had called it "a reminder." The campers just called it The Hole.
+Mr. D had called it "structural redecorating." Chiron had called it "a reminder." The campers called the exposed section of mosaic The Hole, although Chiron had asked them repeatedly not to make a hazard sound like an attraction.
 
 Percy headed for the dining pavilion with his hands in his pockets, taking the long way around the cabins so he wouldn't have to walk past it just yet.
 
@@ -58,7 +58,7 @@ Clarisse shrugged and shoved a whole triangle into her mouth.
 
 Breakfast at Camp Half-Blood had rules. You scraped part of your meal into the braziers for the gods. You sat with your cabin. You didn't throw stuff unless it was Friday or someone really deserved it.
 
-What nobody told you was what to do when the rules felt weird. When you sat down and automatically scraped off a bit of egg for Poseidon and your hand hesitated because last week you'd actually *seen* your dad standing in a ruined hall looking older than you'd ever seen him, and you weren't sure if eggs were enough.
+What nobody told you was what to do when the rules felt weird. When you sat down and automatically scraped off a bit of egg for Poseidon and your hand hesitated because the last week had been a reminder of how much trouble an Olympian building could bring into a camp, and you weren't sure if an egg offering was the right way to ask Poseidon to keep his children safe.
 
 Percy scraped the eggs in anyway. Clarisse did too. Silena whispered something under her breath when she did it — not the formal prayer, just, "Hi, Dad. Hope the palace isn't too mad at us."
 
@@ -72,7 +72,7 @@ That made Percy's chest hurt in a good way.
 
 "Hey!"
 
-Across the pavilion, the Zeus table was conspicuously quiet. Thalia sat alone at one end, hunched over a bowl of oatmeal she wasn't eating, hair pulled back in a messy braid, a gray streak in it that hadn't been there two weeks ago. She stared at the tabletop like it had personally offended her.
+Across the pavilion, the Zeus table was conspicuously quiet. Thalia sat alone at one end, hunched over a bowl of oatmeal she wasn't eating, hair pulled back in a messy braid, loose strands escaping the braid she'd made in a hurry. She stared at the tabletop like it had personally offended her.
 
 Three seats down, Annabeth sat with a book open face-down over her plate and a pencil behind her ear, sneaking glances at her sister every twelve seconds. Percy knew because he'd counted.
 
@@ -161,10 +161,10 @@ Lists. She made lists.
 She sat on the floor of the Zeus cabin with a notebook open on her knees and wrote:
 
 *Things Broken (Hall of the Gods):*
-- *East colonnade — 4 columns cracked, 2 collapsed*
-- *Roof — hole ~15 ft across*
+- *Northern colonnade — two cracked joints under inspection*
+- *Outer cornice — cracked plaster and unsecured roof tiles*
 - *Floor mosaics — water damage + scorch marks*
-- *Zeus statue's lightning bolt — snapped in half (ironic?)*
+- *Display fixtures — two fallen panels; removal authorized pending survey*
 
 *Things Broken (Other):*
 - *Thalia won't talk to me*
@@ -261,11 +261,11 @@ Annabeth leaned back, just slightly, and let herself believe it for exactly ten 
 
 ---
 
-Thalia Grace volunteered for roof duty because it was high up and nobody would talk to her up there.
+Thalia Grace volunteered for the upper-scaffold repair crew because it was high enough to hear herself think and the crew was small.
 
 That was the whole reason. Chiron had posted the repair rotations that morning — teams for debris, teams for mosaic sorting, teams for scaffolding — and Thalia had scanned the list, found the job with the fewest names and the most height, and signed her name so hard the pen tore the paper.
 
-Now she sat on the edge of the Hall of the Gods roof, legs dangling over a fifteen-foot hole, hammer in her lap, trying not to think.
+Now she sat on the secured upper scaffold platform beside the Hall, one boot planted against its inner rail and a hammer resting across her knees, trying not to think.
 
 It wasn't working.
 
@@ -291,11 +291,11 @@ Annabeth with a missing childhood, looking at her like she was both sister and s
 
 "You're going to rust that hammer with your thoughts."
 
-Thalia startled. Percy Jackson hauled himself up onto the roof beside her, breathing hard, a coil of rope over one shoulder and lake water drying in his hair.
+Thalia startled. Percy Jackson reached the platform by the scaffold stairs, carrying a coil of rope over one shoulder and a small wrapped sandwich in his free hand. A repair steward watched him from the landing.
 
 "How did you get up here?" she demanded. "This is restricted."
 
-"I climbed," Percy said, like that explained anything. He sat down a careful three feet away and let his legs dangle too. "Silena said you skipped lunch. I brought—" He dug in his pocket and produced a slightly squashed peanut butter sandwich in wax paper. "It's a little warm. Sorry. Pocket sandwich."
+"The steward let me up for a minute," Percy said. "He made me use the stairs. Very strict about the stairs." He sat down a careful three feet away, well inside the safety rail. "Silena said you skipped lunch. I brought—" He dug in his pocket and produced a slightly squashed peanut butter sandwich in wax paper. "It's a little warm. Sorry. Pocket sandwich."
 
 Thalia stared at it. "You climbed a scaffolded ruin to bring me a pocket sandwich."
 
@@ -339,15 +339,15 @@ Thalia picked up the pocket sandwich. She unwrapped it, took a bite. Peanut butt
 
 "Will do." Percy stood, brushing off his shorts. He hesitated, then added, "Annabeth left you a note because she doesn't know what to say. Not because she thinks you're fragile. She thinks you're... you know. Thalia."
 
-Thalia looked up at him. Percy stood on a broken roof with a coil of rope on his shoulder, looking entirely too earnest. He had told Annabeth enough for her to understand that he carried memories Thalia couldn't share. That was not the same as knowing the boy standing in front of her.
+Thalia looked up at him. Percy stood on the scaffold platform with a coil of rope on his shoulder, looking entirely too earnest. He had told Annabeth enough for her to understand that he carried memories Thalia couldn't share. That was not the same as knowing the boy standing in front of her.
 
 "Tell her I kept it," Thalia said.
 
 Percy's whole face lit up. "Yeah?"
 
-"Yeah." Thalia took another bite. "Now get off my roof before you fall and I have to explain it to Chiron."
+"Yeah." Thalia took another bite. "Now get off this platform before the steward remembers he said you could stay for one minute."
 
-Percy saluted, climbed backward down the scaffolding shouting, "I'M BEING SAFE!" the whole way, and Thalia watched him go, sandwich in hand, and felt something in her chest loosen by exactly one degree.
+Percy picked up the rope and went down the scaffold stairs, giving the steward a brief wave as he passed. Thalia finished the sandwich before returning to the loose fastening she'd been assigned to replace.
 
 ---
 
@@ -453,7 +453,7 @@ Annabeth laughed before she could stop herself. "That's amazing."
 
 "Right?" Clarisse started sorting, all business. Then, without looking up: "How's your sister?"
 
-Annabeth's hands stilled in the soapy water. "She ate today. A sandwich. On the roof."
+Annabeth's hands stilled in the soapy water. "She ate today. A sandwich on the upper scaffold, after the steward let Percy bring it up."
 
 "Percy's pocket sandwich?" Clarisse said. "Classic move. He gave me one once when I had the flu and was too stubborn to go to the infirmary. It had sand in it. I ate it anyway."
 
@@ -515,7 +515,7 @@ She folded it twice and left it on Thalia's pillow. No bullet points. No list.
 
 Dinner was the hardest part of the day.
 
-Thalia had managed breakfast alone (barely), lunch on a roof (acceptable), and an afternoon of hammering that left her hands blistered and her head quieter. But dinner meant the whole camp in one pavilion, all the tables full, all the noise and laughter and normalcy pressing in, and her father being toasted with wine poured into a brazier while she stared at her plate.
+Thalia had managed breakfast alone (barely), lunch on the scaffold (acceptable), and an afternoon of hammering that left her hands blistered and her head quieter. But dinner meant the whole camp in one pavilion, all the tables full, all the noise and laughter and normalcy pressing in, and her father being toasted with wine poured into a brazier while she stared at her plate.
 
 She almost didn't go. She stood outside the pavilion behind a column for a full minute, spear in hand like she was going to battle instead of meatloaf, watching everyone file in.
 
