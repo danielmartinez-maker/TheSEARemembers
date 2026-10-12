@@ -34,6 +34,78 @@ Clarisse finally looked up, followed his gaze, and her grin spread slow and terr
 
 ---
 
+Theo had been at camp for four days and was still trying to understand which rules were written down and which ones everybody had apparently learned before he arrived.
+
+The rule about not going near the border without a counselor was written on three different notices. The rule about avoiding Clarisse when she was carrying a practice spear was not written anywhere. The Stoll brothers told him that the daughter of Zeus who read at breakfast could answer any question about buildings, but neglected to mention that her older sister would inspect anyone who asked for help as though deciding whether to allow them through a gate.
+
+Theo didn't mind the inspection. Thalia had asked what his project was, looked at the drawings and said, "At least you've made a plan that doesn't begin with stealing something." He took that as encouragement.
+
+After breakfast he went back to the Hermes cabin for his references. He had packed the folded sheets in a waterproof envelope because the graph paper was nearly the last thing his mother had given him before he left Queens. She worked in an architecture office, mostly answering calls and keeping project files organized. She loved buildings in a way Theo hadn't understood when he was younger. She could stand in front of an ordinary apartment block and explain why the stairs were placed there, how the windows caught afternoon sun and what the builder had sacrificed to keep the roof from leaking.
+
+Theo had watched her come home with her shoes wet from a construction visit and spread the drawings across their kitchen table. She couldn't design the whole building herself. She still knew more about its problems than half the people who spoke loudest in the meetings, and she'd shown him how a design could be improved by asking a simple question at the right time.
+
+He wanted to make a little temple for Hermes because he was trying to belong somewhere. He also wanted to show his mother that something she had taught him could survive in this strange place where gods sometimes appeared at the dinner table and swords were stored beside the laundry.
+
+The model he had drawn was too ambitious. He knew that. It had a portico, a working door and a sundial whose shadow was supposed to move across an inscription at noon. He hadn't worked out whether the architrave would hold or how to mount the door without splitting the wood. The Stolls had suggested covering the whole thing in glue and hoping for the best.
+
+He had preferred to ask Annabeth.
+
+When she saw his diagrams at breakfast, she didn't laugh. She took the roll and examined the first sheet, then asked whether he wanted advice about the proportions or the construction method. Theo had not realized those were different questions. He said both and watched her smile.
+
+Now he stood outside the library with his papers, trying to decide whether he'd been too eager. He didn't want her to feel she was responsible for doing his project. He wanted someone who knew the subject to tell him where to start.
+
+A smaller Hermes camper named Lila was sitting on the library steps, sorting a box of donated pencils. She looked up as he passed.
+
+"You're the new kid with the temple," she said.
+
+"That's me."
+
+"Are you making it for a god or for a school assignment?"
+
+"For an offering. Hermes is my father."
+
+"Everybody in our cabin already knows that."
+
+"I thought maybe he should know I can build something."
+
+Lila considered. "He probably knows. But a model would be nice."
+
+Theo smiled. She held out a pencil whose eraser had come loose, then changed her mind and gave him one in better condition.
+
+"You'll want this," she said. "If you're asking Annabeth, she's going to make you redraw the whole thing."
+
+"Probably."
+
+"Good luck."
+
+He thanked her and went inside. The library tables had been cleared for the morning study period. He chose one near the window, unrolled his diagrams and put the best pencil beside the ruler. He wanted the work to look as though he'd taken it seriously, but not as though he'd spent the morning pretending it was already finished.
+
+Annabeth arrived with three books and asked to see the measurements. She pointed out that he'd drawn the front steps so steeply that nobody shorter than an adult would be able to use them comfortably. Theo had measured the proportions from a photograph and forgotten the scale.
+
+"Then I need to change it," he said.
+
+"Yes. And the door should open outward if this is going to stand on the hill. Otherwise the hinges will catch when the frame expands in damp weather."
+
+He drew a new arrow beside the doorway. Her corrections were exact and practical. She didn't say the design was good merely because he'd brought it to her, which meant he could trust the praise she did give.
+
+After twenty minutes he had a revised plan and a list of materials. Annabeth suggested asking Beckendorf about the hinge, because the forge had spare pieces too small for weapons but useful for models.
+
+Theo looked toward the workbench. "Do you think he'd help?"
+
+"Ask him. Tell him what you've tried and where you need advice."
+
+He was relieved. The project still belonged to him. Annabeth had not taken the pencil and redrawn every line herself.
+
+That was when Percy's cart struck the shelf hard enough to make the scroll cases rattle. Theo looked up and saw the son of Poseidon standing at the end of the table with a very determined expression that didn't match the friendly greeting that followed.
+
+Theo knew Percy by reputation. The camp talked about his time in Atlantis, his family and the difficult water training exercises he was beginning to master. Theo had not yet been brave enough to ask him about any of it. He hoped they could work together. He didn't understand why Percy kept looking at the ruler as though it had personally insulted him.
+
+When Annabeth invited Percy to join them, Theo was pleased. He would have another person to help carry the model when it was built, and perhaps somebody who could test whether the little water feature he'd considered adding was practical. He decided not to ask about it until he'd fixed the doorway. One problem at a time was already proving quite enough.
+
+
+
+---
+
 The library at ten smelled like lemon oil and old paper and rain drying out of the stone.
 
 Percy was supposed to be shelving scrolls for Chiron as punishment for flooding the arena bathrooms last week, which had not been his fault except in the sense that water followed him when he got excited. He had a cart full of returns and a list in Ancient Greek that he could actually read now, which still felt like a magic trick. Sun came down through the high windows in tall bars. Dust floated in them. Outside, the gravel paths were steaming where the sun hit.
