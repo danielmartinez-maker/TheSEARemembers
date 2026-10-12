@@ -2,7 +2,7 @@
 
 chapter: 002
 status: revised; length gate passed; wider manuscript semantic QA pending
-body_word_count: 10634
+body_word_count: 10834
 opening_location: Cabin Three, Camp Half-Blood
 ending_location: Cabin Three
 relative_time: approximately two days after Percy's arrival (exact calendar date unsettled in the early arc)
