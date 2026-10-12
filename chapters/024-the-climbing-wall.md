@@ -825,6 +825,130 @@ Silena's voice floated down from the tower: "Group hug! Group hug! Zoe, they're 
 ---
 
 
+After the climb, Percy sat outside the equipment shed trying to decide whether his left shoe had been ruined by lava or by the bucket of cooling water he'd stepped into when he jumped from the last platform.
+
+Clarisse found him examining the sole.
+
+"You managed not to fall," she said. "That's a victory in itself."
+
+"I thought you were going to make fun of the route I chose."
+
+"I am. But the way you kept the timing through the second vent was decent."
+
+"High praise."
+
+"Don't expect it twice."
+
+She took the shoe and turned it over. The rubber had softened at the toe, but the sole hadn't separated. She handed it back with the advice to stop wearing it until the material cooled. Percy obeyed, more because he didn't want Silena to discover he'd been walking around in damaged shoes than because he was convinced Clarisse was right.
+
+Across the yard, Annabeth had been reviewing the official times with Zoe. Several racers had reached the top close together, and the scoring sheet showed a difference that was smaller than the time it took the horn to sound. Annabeth wanted to know whether the judges had used the same reference for all the routes.
+
+Percy recognized the intensity in her face. She wasn't contesting the result simply because it hadn't gone exactly as she'd planned. She had noticed something about the measurement and couldn't bear to let it remain unresolved.
+
+"Do we have to stay until she finishes?" Clarisse asked.
+
+"You can go."
+
+"I'm waiting for you."
+
+"Then yes."
+
+Clarisse sat beside him, leaned back against the shed wall and looked at the sky. The sound of the remaining campers dismantling the temporary ropes carried through the yard. It was ordinary post-game noise, surprisingly pleasant after the heat of the wall.
+
+Annabeth came over with a corrected score sheet.
+
+"Turns out the west route timing started on the horn," she said, "but the north route started when the first hold moved. There's about a second's difference."
+
+"Does that change who won?" Percy asked.
+
+"No. It changes the margin. Chiron said they'll use the same start signal next time."
+
+Clarisse looked at her. "You were worried about the result being unfair."
+
+"I was worried about the measurement being wrong."
+
+"That's a distinction you make when you don't like the result."
+
+Annabeth stopped. She considered the paper, then folded it along the marked crease.
+
+"Maybe both things are true," she said. "I wanted to know I'd done the best I could. If the timing was wrong, I couldn't tell."
+
+Percy understood. His own decision to take the west route had been partly practical and partly a reaction to how much he wanted to impress her. He hadn't wanted to admit either motive in front of Clarisse.
+
+"For what it's worth, you did the second vent better than anyone I saw," he told her. "I didn't think to count the hold movement until you told me."
+
+Annabeth looked at him. "You moved a second before me."
+
+"I was guessing."
+
+"No. You recognized the pattern."
+
+"From watching your trial run."
+
+She smiled, then looked away. They both knew how much of their timing came from years of fighting beside each other in a history nobody else remembered. But they'd also practiced as twelve-year-olds, made new mistakes and learned from people who'd never known them before. The combination was difficult to explain without making it sound like an unfair advantage.
+
+Thalia joined them, carrying a bundle of safety ropes for the stores. She stopped when she saw the score sheet.
+
+"You're still arguing about a second?"
+
+"We corrected the clock," Annabeth said.
+
+"Good. Then stop treating it like a verdict on whether you're allowed to be good at things."
+
+Annabeth bristled. Percy watched the familiar argument assemble itself between the sisters. Thalia wanted Annabeth to stop holding herself to impossible standards; Annabeth wanted Thalia to recognize that precision was not a personal injury. Both could make the other feel smaller by insisting their own interpretation was the kinder one.
+
+"She found an actual discrepancy," Percy said.
+
+Thalia looked at him. "I know. I'm not saying she imagined it."
+
+"Then let her finish explaining it."
+
+Annabeth turned toward him. The intervention was unnecessary, and the fact that he had made it on her behalf felt different from the way he usually helped her.
+
+"I can explain it," she said.
+
+Percy stopped. He had meant to defend her, not speak for her. He took a breath.
+
+"You're right. Sorry."
+
+Thalia watched them both. After a moment she put down the rope.
+
+"Show me the difference, then," she told Annabeth. "If the judges measured the start differently, I want the times fixed for everyone. That includes me."
+
+Annabeth unfolded the sheet. She explained the two signals and how the correction changed the ranking of two lower finishers without affecting the winner. Thalia listened, asked one question about the upper platform and nodded when the explanation matched what she'd seen.
+
+"That's useful," she said. "We should ask Chiron to put the revised times on the board before dinner. The younger campers have been bragging about their positions all afternoon."
+
+Annabeth looked relieved. "I already gave him a copy."
+
+"Good. Then you've done it."
+
+She went to return the ropes. Percy watched her leave, wondering whether she'd deliberately ended the conversation before it could turn into another argument. The possibility was not flattering to anyone.
+
+Annabeth sat beside him. "You were trying to help."
+
+"I know. I was also talking over you."
+
+"You do that sometimes."
+
+"So do you."
+
+"Often," she admitted.
+
+He held out the damaged shoe. "Want to help me decide if it's a loss?"
+
+Annabeth inspected the sole with grave attention and pronounced it unfit for future climbing-wall sessions. She recommended that he buy another pair before the rematch. Clarisse, who had been pretending not to listen, offered to make him earn the money by helping clean the Pegasus stables.
+
+"That's extortion," Percy protested.
+
+"That's a job."
+
+They argued about the difference all the way to the lake.
+
+
+
+---
+
 There is only one cure for lava-wall sweat, melted sneakers, singed hair, and a race you want to argue about for hours.
 
 The lake.
