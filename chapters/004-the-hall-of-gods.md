@@ -56,7 +56,7 @@ Annabeth's expression went statue-still. "No."
 
 They stared at each other while cold lamplight pooled on the table, the mystery pressing around them like deep water.
 
-"We need to talk to Chiron," Annabeth said, shifting his weight against the cold. "Carefully. We can't just ask him about a stolen prophecy — that would raise too many questions."
+"We need to talk to Chiron," Annabeth said, checking the path behind them. "Carefully. We can't just ask him about a stolen prophecy — that would raise too many questions."
 
 "Agreed. But there might be another way. The attic of the Big House — if the prophecy was taken, there might be records. Notes. Something."
 
@@ -132,7 +132,7 @@ Percy's stomach turned. "Who would have that kind of power?"
 
 They stared at each other in the darkness, the altered prophecy hanging between them like a blade.
 
-"We need to take this," Annabeth said, shifting his weight against the cold.
+"We need to take this," Annabeth said, checking the path behind them.
 
 "If we take it, they'll know someone was here."
 
@@ -142,7 +142,7 @@ Percy hesitated. Then he folded the paper and slipped it into his pocket. "We'll
 
 They left the way they'd come — through the window, down the side of the house, back into the darkness. They didn't speak until they were safely away from the Big House, hidden in the trees near the lake.
 
-"This changes everything," Annabeth said, shifting his weight against the cold.
+"This changes everything," Annabeth said, checking the path behind them.
 
 "I know."
 
@@ -229,7 +229,7 @@ She showed him. The second version was different from both the original and the 
 *Two thrones shaken, one sister bound,*
 *In light and shadow, the truth is found.*
 
-"Three versions," Percy said, shifting his weight against the cold. "Three different prophecies?"
+"Three versions," Percy said, checking the path behind them. "Three different prophecies?"
 
 "Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "Whoever altered the original didn't destroy it. They layered over it. And underneath, the older versions are still there."
 
@@ -265,7 +265,7 @@ They moved through the shadows, following Annabeth's map, and twenty minutes lat
 
 "Records," Annabeth said, already moving. "Prophecy transcripts. Look for anything dated three years ago or earlier."
 
-Percy searched the desk, the shelves, the boxes stacked in the corners. He found old journals, training logs, camp rosters. He found a collection of poetry that made him smile — it was Clarisse's, he realized. She wrote poems. She was secretly a poet.
+Percy searched the desk, the shelves, the boxes stacked in the corners. He found old journals, training logs, camp rosters. He found a folder of campers' writing exercises, including poems signed in handwriting he didn't recognize.
 
 But nothing about prophecies. Nothing dated three years ago.
 
@@ -285,19 +285,19 @@ A piece of parchment, tucked between two old journals. It was covered in handwri
 
 The words hung in the air like smoke.
 
-"Someone made the changes," Percy said, shifting his weight against the cold. "They documented it. They—" He looked at the note again. "A. That's a signature."
+"Someone wanted a reader to believe the changes were intentional," Percy said. "And signed it with a single letter."
 
-"One letter." Annabeth's voice was barely above a whisper. "It's not enough to identify anyone."
+"One letter," Annabeth said. "It might be an initial. Or whoever wrote it wanted us to think it was."
 
 "It's enough to know we're on the right track."
 
-"Percy, this changes things. Whoever did this — they were deliberate. They had a plan. And they signed their name." She folded the note carefully. "We're taking this too. Everything we find, we're taking."
+"Percy, it gives us something to investigate. It isn't proof of who did anything." She folded the note carefully. "We're taking this too. Everything we find, we're taking."
 
 They left the attic the way they'd come, slipping through the vent and dropping into the shadows. They didn't speak until they were back at the lake, their prize secured.
 
-"A," Percy said, shifting his weight against the cold. "Someone whose name starts with A altered the timeline, built the Hall of the Gods, and documented the whole process."
+"A," Percy said. "A single letter and a claim about changing the prince's thread. What does that even mean?"
 
-"Someone with access to divine power. Someone who understood prophecies. Someone patient enough to work in secret for years." Annabeth's eyes were fierce. "We're going to find them, Percy. And we're going to stop them."
+"Someone who knows the prophecy, or wants us to believe they do. We can't assume the rest." Annabeth's eyes were fierce. "We're going to find them, Percy. And we're going to stop them."
 
 "Together."
 
@@ -341,71 +341,75 @@ Percy had never been less alone in his life.
 
 ---
 
-The midnight meeting in the amphitheater was small and tense and revelatory.
+The midnight meeting in the amphitheater brought five campers together: Percy, Annabeth, Clarisse, Silena, and Nico di Angelo, who sat on the third bench with a ledger balanced on his knees.
 
-Five people, as Clarisse had said. Percy and Annabeth. Clarisse and Silena. And a boy Percy hadn't met before — Nico, the young son of Hades, who sat in the shadows like he was afraid of being seen.
+Nico was younger than Percy remembered, and much less interested in being introduced.
 
-"You're the new one," Nico said, without looking at Percy. "Poseidon's kid. The one who grew up in Atlantis."
+"I know you went into the attic," Nico said. "Twice."
 
-"That's me."
+Percy glanced at Clarisse.
 
-"I've heard about you. Everyone has." Nico's voice was flat, emotionless. "The prince. The sheltered kid. The one who beat Thalia in a sparring match on his first day."
+"Don't look at me," she said. "You left footprints in the flour the kitchen staff put down for rats."
 
-"That was luck."
+"I was going to clean those up."
 
-"It wasn't. Don't be humble. It's boring." Nico looked up, and his eyes were ancient in a child's face. "I know what you and the Athena girl have been doing. The attic visits. The stolen records. The note with the signature."
+"Sure you were."
 
-Percy's blood ran cold. "How do you know about that?"
+Silena sat beside Nico. "We're not here to fight about footprints. Tell them what you've found."
 
-"Because I've been doing the same thing. For longer than you have. For longer than any of us have." Nico stood, and for a breath his posture shifted — older, harder, carrying the weight of someone who'd seen too much. "I've been investigating the changes to this camp for three years. I've been trying to uncover who altered the prophecy and why. And I've almost found out."
+Nico opened the ledger to a page marked with scraps of ribbon. "Three years ago the Hall was approved. New training schedules, new wards, new cabin rules. Campers complained about all of it. That's how I know the dates."
 
-"Almost?"
+"And the stolen prophecy?" Annabeth asked.
 
-"I know who changed the timeline. I just can't prove it yet." His eyes swept across the group. "And I'm not sure I want to."
+"Same season. But the theft and the construction aren't necessarily the same event. People started saying they were connected because no one would explain either one."
 
-The silence that followed was absolute.
+Percy had wanted Nico to arrive with a name and a confession. Instead he was getting the first useful qualification anyone had offered.
 
-"How old are you?" Annabeth asked. "Really?"
+Nico pointed at a list of expenditures. "The council allocated stone, bronze, and labor before anyone announced the Hall. Somebody planned it for months. The question is who submitted the original request. That page is missing."
 
-"Does it matter? What matters is that I've been here longer than any of you. I remember what this camp was before the changes. I remember the world before the changes." Nico's voice cracked, just slightly. "And I know it's coming back. The thing that was changed three years ago — it's going to come back. And when it does..."
+"So we have missing paperwork," Clarisse said.
 
-He didn't finish the sentence. He didn't need to.
+"We have an unusual number of missing records. That's not proof of magic, but it's worth asking why."
 
-Percy felt the press of it — the impossibility of it, the danger of it, the sheer terrifying scope of what Nico was describing. Someone had changed the timeline. Someone was still changing it. And somehow, in three years of quiet, careful investigation, this boy had gotten closer to the truth than anyone else.
+"What about the handwriting?" Annabeth slid a copy of the note toward him.
 
-"Who did it?" Clarisse demanded. "Who changed the timeline?"
+Nico studied it without touching the page. "I don't recognize the letter. It might be a signature. It might be an initial for a project. It could even be a forgery someone wanted you to find."
 
-Nico looked at her. Then at Silena. Then at Annabeth. Then at Percy.
+Percy frowned. "You think someone planted it?"
 
-"Someone we all trust," he said. "Someone with reason to want the changes. Someone who thought they were saving us."
+"I think I'd like to know why a document about a prophecy was sitting in an attic where two children could steal it through a vent."
 
-"Who?"
+Silena turned to Percy. "You two think something's been changed beyond buildings. Don't you?"
 
-But Nico shook his head. "Not yet. Not until I'm sure. Because if I'm wrong — if I accuse an innocent person — everything falls apart. The investigation, the conspiracy, all of it. And whoever really did it will know we're close."
+He looked at Annabeth. They had discussed what they might tell other campers. Neither had agreed to explain a remembered childhood no one else could verify.
 
-"Then what do we do?"
+"We have reasons to think the records don't tell the whole story," Annabeth said.
 
-"We keep digging. We compare notes. We work together instead of separately. And when I've proof — when I can show everyone what I found — we confront them together."
+"Then tell us which records," Silena replied. "Not whatever you aren't ready to say. Just give us something we can check."
 
-He looked at Percy with those ancient eyes. "You're the prince. Poseidon's son. You've access and authority that none of us have. Use it. Carefully. But use it."
+Annabeth brought out her notebook and pointed to the dates. She didn't say where her other version of the camp came from.
 
-"Why should we trust you?" Silena asked. "You've been alone on this for three years. Why would you trust us with what you know?"
+Nico copied the dates onto a clean page. "I remember the camp before the new building. Not another world. This one, before they moved the cabins and put all those white columns in the center. We can compare what actually happened here with what the council claims happened."
 
-Nico was quiet for a heartbeat. Then he said, "Because I'm tired. I'm still a kid, and I've been carrying this alone for three years, and I'm tired. And I think — I hope — that together we can do what I couldn't do alone."
+"Why are you doing this?" Percy asked.
 
-He looked at Annabeth. At Percy. At Clarisse and Silena.
+Nico closed the ledger. "Because my sister asked a question about the new rules and nobody would answer her. Then she stopped asking. I don't like it when adults decide children don't deserve an explanation."
 
-"I think we might actually be able to stop this."
+Clarisse shifted on the bench. "All right. We share notes. We don't break into a building without telling the rest of us what we're looking for."
 
-The amphitheater was silent. Five kids, sitting in the moonlight, shouldering the press of a conspiracy and a mystery and the fading hope that they might be able to fix what had been broken.
+"That sounds aimed at me," Percy said.
 
-"Together, then," Percy said, shifting his weight against the cold.
+"It is."
 
-"Together," they echoed.
+"Fair."
 
-And somewhere in the darkness, the storm gathered — patient and dark and inevitable.
+Silena held out her hand for the copy of the prophecy. Annabeth hesitated, then passed it over.
 
-And they waited for it to break.
+They divided the work before leaving. Nico would continue checking dates and approvals; Silena would ask the campers who had helped move the cabins; Clarisse would look into the hall's construction crews. Percy and Annabeth would compare what they had seen in the attic against those accounts.
+
+Nobody made a pledge to overthrow Olympus. Nobody claimed to remember a vanished universe. For the first time since Percy had begun asking questions, he had four people willing to test a theory instead of admiring it.
+
+He watched Nico fold the ledger carefully before they went their separate ways. That was worth more than another prophecy.
 
 ---
 
