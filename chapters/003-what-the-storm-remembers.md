@@ -178,6 +178,256 @@ Annabeth leaned against him, just slightly. He put his arm around her shoulders,
 
 ---
 
+Thalia hated being told to sit still.
+
+The infirmary had been constructed by people who enjoyed telling demigods to sit still. Its benches were too high, its windows wouldn't open far enough, and the healer assigned to check her ribs had a voice that suggested she'd been practicing disappointment for years.
+
+"Deep breath," the healer said.
+
+Thalia breathed in. Something near her side pulled sharply.
+
+"Again."
+
+"That was deep."
+
+"That was about half a breath. Again."
+
+Thalia gave her a look and obeyed. The healer listened, pressed two fingers below the ribs and nodded.
+
+"Bruised. I don't feel a break. No sparring for forty-eight hours. If the pain worsens, come back."
+
+"I'm on border rotation."
+
+"Not for the next two days."
+
+"That's not how rotation works."
+
+"Then camp has the perfect opportunity to discover how it works without you."
+
+Silena, who had volunteered to bring supplies from the stores, made a small choking sound from the doorway. She was trying not to laugh. Thalia could tell because she was looking at the ceiling with unusual concentration.
+
+"Don't," Thalia warned.
+
+"I didn't say anything."
+
+"You were about to."
+
+"I was about to say the bandages go in the left cupboard."
+
+The healer took the bandages from Silena.
+
+"Thank you. Thalia, the instructions stand."
+
+Thalia put her shirt back on slowly enough that neither woman could accuse her of arguing. The bruise was already turning dark along her left side. She could keep people from seeing it if she adjusted her jacket. The problem would be pulling the jacket on without wincing.
+
+Outside, the camp had returned to its ordinary business with indecent speed. The armory was open. A group of Apollo kids were practicing scales beside the pavilion. Somewhere beyond the trees a pegasus made a noise like a rusty hinge.
+
+The drakon had dissolved to dust on the hill. The only obvious remains were a dark patch of scorched grass and a length of broken fencing.
+
+Thalia would have preferred evidence that required less imagination.
+
+Chiron was waiting at the Big House with a clipboard.
+
+"I need your incident account," he said.
+
+"I killed it."
+
+"That is the conclusion. I'd prefer the sequence of events."
+
+"Ask the satyr who spotted it."
+
+"I have. I would also like yours."
+
+Thalia lowered herself into the porch chair without thanking him for putting it there.
+
+She described the alarm, the campers behind the hill, the first strike, the tail that caught her in the ribs, and the moment Annabeth ran forward with a practice sword. Chiron made notes without interrupting.
+
+"I hadn't cleared the children from the footpath," she said. "That's on me."
+
+"How long had you been at the hill?"
+
+"Under a minute."
+
+"Did you sound an evacuation horn?"
+
+"No time."
+
+"Did you send anyone to do it?"
+
+"Yes. One of the Hermes boys. Red hair. He had a horn."
+
+Chiron found something on his page.
+
+"He did. That matches his account."
+
+"Then why do you keep asking?"
+
+"Because none of us sees an entire fight."
+
+She looked toward the hill.
+
+"I saw enough."
+
+"Enough to stop the drakon. Not enough to know why it came as far as the camp's inner path."
+
+Thalia's hand tightened on the chair arm.
+
+"The wards were supposed to hold."
+
+"They may have held for some time and then failed at one point. They may have functioned exactly as designed against an unusually persistent monster. We have not finished examining them."
+
+"You say that every time."
+
+"Because every time someone wants an answer before we have one."
+
+Thalia looked at the fresh mark Chiron had drawn on the map. It sat near the eastern approach, not far from the lookout point where she'd tested Percy the previous afternoon. She had told him there were no monsters within a mile.
+
+She had believed it.
+
+"Does this mean I misread the border?" she asked.
+
+"I don't know. What did you sense yesterday?"
+
+"Nothing. Normal static. The sort you get before rain."
+
+"Did it rain?"
+
+"A little. Not much."
+
+Chiron wrote that down.
+
+She disliked him for writing it down. She disliked him more for making the question sound reasonable.
+
+"Don't put Annabeth on border duty," she said.
+
+"I had no intention of doing so."
+
+"Not until she's had training. Not until—"
+
+"Thalia."
+
+She stopped.
+
+"Your sister did not cause the drakon to appear. She was in danger because the creature reached the camp. You are allowed to be frightened by that without making it her responsibility."
+
+Thalia looked away.
+
+It was easy for Chiron to say. He had never spent a winter checking motel locks with a little girl sleeping behind him, never counted change at a bus station and tried to decide whether food or transport would get them farther from danger. He had watched them grow up at camp, though. He had been there for the birthdays when their father sent storms instead of presents. He knew more than she liked to admit.
+
+"She fought with a practice sword," Thalia said.
+
+"Yes."
+
+"She saw me go down and she came straight at it. Didn't even wait to see if I'd get up."
+
+"Would you have waited?"
+
+"That's different."
+
+"How?"
+
+"I'm sixteen."
+
+Chiron's mouth moved slightly. He didn't quite smile.
+
+"That is a difference. I was asking about the choice."
+
+Thalia had no satisfactory answer.
+
+When Annabeth had been little, she used to hide behind Thalia during thunderstorms and then insist she was protecting Thalia from them. Thalia remembered a motel outside Richmond where the window shook so hard they'd stuffed a towel against the latch. Annabeth had fallen asleep clutching the edge of Thalia's shirt.
+
+She was twelve now. She had run toward a drakon. She had stared at Thalia afterward as though afraid of something neither of them could name.
+
+Thalia missed the version of her sister whose fear made sense to her. The thought was unfair and ugly, and she couldn't argue it away by reminding herself that Annabeth was still right there.
+
+"I yelled at her," she said.
+
+"She was in danger."
+
+"I yelled after it was over."
+
+"She knows you were frightened."
+
+"That's not the same as apologizing."
+
+"No."
+
+Silena emerged from the house carrying an empty supplies basket.
+
+"Are you done being questioned?" she asked Thalia.
+
+"Depends. Are you about to start?"
+
+"I was going to ask whether you've eaten."
+
+"That counts as questioning."
+
+"Then guilty."
+
+Chiron stood. The interview was over. He told Thalia to rest and said he would arrange a closer inspection of the eastern ward line before the next evening patrol. Nothing in his tone promised a revelation.
+
+Thalia waited until he had gone inside.
+
+"Have you seen Annabeth?" she asked.
+
+Silena nodded toward the lake. "With Percy. She looked as though she needed a minute."
+
+Thalia almost got up.
+
+Silena set the basket on the porch and sat in the other chair.
+
+"Give her one."
+
+"She's been missing dinner and sleeping badly and now she nearly gets eaten."
+
+"She also went to Chiron about her nightmares, didn't she?"
+
+"She said she'd think about it."
+
+"Then perhaps ask her again. Not as a commander. As her sister."
+
+Thalia rubbed at the scuff on her boot with her thumb. Silena had been at camp long enough to know when Thalia wanted advice least, which was usually when she needed it most.
+
+"Everyone thinks they know how to handle her now," Thalia said.
+
+"Not everyone. I hardly know her. But I know what it's like when people decide being worried about you gives them the right to decide everything."
+
+Silena's voice didn't change. She was holding the basket handle against her knees and looking out toward the fields. Thalia remembered, belatedly, who Silena's father was and how rarely she saw him.
+
+"You mean Poseidon?"
+
+"I mean people." Silena glanced at her. "Sometimes Poseidon."
+
+Thalia let out a breath. "I didn't ask him to send me a sister."
+
+"No. But she didn't ask to have you responsible for everything either."
+
+For once Thalia didn't argue.
+
+Silena stood.
+
+"I'm going back to the stores. If you want dinner, I'll save you a plate. If you want to be miserable on the porch until dark, I will still save you a plate."
+
+"That's a terrible incentive."
+
+"You're welcome."
+
+After Silena left, Thalia sat with the incident form balanced on one knee. She could take it inside and rewrite the whole thing, correcting every mistake she'd made before the drakon reached them. The page wouldn't change what happened.
+
+She signed it instead.
+
+On the final line, Chiron had left space for an observation. Thalia thought about the feeling at the eastern border yesterday, about the normal static she hadn't questioned, and wrote: *Check whether the warning came late, or whether I read it wrong.*
+
+She went looking for her sister before the dinner horn, moving slowly because of her ribs and because she was trying, for once, not to arrive ready for a fight.
+
+Annabeth was no longer at the lake.
+
+That was all right. Thalia could ask her where she'd been when they got back to the cabin. It would be a question, not an accusation.
+
+She hoped she could remember the difference.
+
+---
+
 That night, Annabeth couldn't sleep.
 
 She lay in her bunk, staring at the ceiling, listening to Thalia's steady breathing from across the room. The nightmare was still with her — fragments of Tartarus, the feeling of Percy's hand slipping from hers, the smell of sulfur and despair.
