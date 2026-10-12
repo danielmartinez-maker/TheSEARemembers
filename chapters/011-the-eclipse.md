@@ -132,101 +132,116 @@ Chiron braced the doors open while Zoe crouched beside the marked column. She he
 
 "Added over the drain," she said. "A second ward covering the first."
 
-"Can you break it?" Chiron asked.
+"Can you interrupt it?" Chiron asked.
 
-"I can interrupt this part. I need the charge out of it first."
+"Only if we first isolate the active coupling," Zoe said. She turned toward the doorway. "Mara's portable grounding frame is outside. We tested the frame on an independent training mark. We haven't tested it on this."
 
-Annabeth looked at Percy. He knew that look. He had followed it into worse places, and sometimes persuaded it to choose a better route.
+"Then we proceed as though it may fail," Chiron said.
 
-"Say the plan," he told her.
+Annabeth looked at the diagram in her hands. Percy knew that look. She had found a weakness in the plan and was working out whether there was enough time to explain it.
 
-"Water through the open drain. Not across the center. Thalia releases toward it in short bursts. I help steer the edge, if I can."
+"Say what you're thinking," he told her.
 
-"If you can't?"
+"The drain is flooded, and the western floor is covered with runoff. If anyone tries to use that water as a discharge path, the charge could spread unpredictably. Percy can move the water *away* from the exposed coupling. The electrical team needs a dry working area and a separate tested route to the grounding frame."
 
-"I stop."
+Percy nodded. "I can clear the puddles. I can't promise where lightning goes."
 
-Thalia's breath came in hard pulls.
+"Neither can I," Annabeth said. She flexed her bandaged hand. "The healer hasn't cleared me for electrical work. I'll watch the boundary and call the stop if the mark spreads."
 
-"You haven't done this together."
+Thalia was still braced against the frame, trying to keep the flare inside the Hall. Her breath came in hard pulls.
 
-"We haven't," Annabeth said. "That's why we're saying what we'll do before we do it."
+"You haven't done this together," Chiron said.
 
-Chiron nodded once.
+"No," Annabeth replied. "We haven't. So we stay with what each of us can do safely and let Zoe direct the ward work."
 
-"Small bursts. I call the stop."
+"Good," Chiron said. "No improvising with electrical discharge. Move the campers back another boundary. Mara brings the frame to the outside threshold. I call the stop."
 
 ---
 
-Percy knelt near the broken fountain. Water had pooled along the western wall, reflecting an eclipse-dark sky through the open door.
+Percy knelt beside the broken fountain, careful not to cross the line where the floor had begun to shine. Water had collected along the western wall, spreading toward the mosaic in a thin sheet. If it reached the exposed metal, anybody standing in the room could be caught by an uncontrolled discharge.
 
-He drew it into a narrow stream.
+He could do something about the water. He did not intend to ask it to carry lightning.
 
-The stream slid beside the tiles rather than over them. Its first turn faltered when his hand shook; he took a breath and tried again, remembering the channels he had practised in Tempest Hall.
+"How much space?" he called to Zoe.
 
-"There," Annabeth said.
+"Clear the western channel and the doorway. Keep the center untouched."
 
-Zoe eased a loose tile away from the drain with the tip of a bronze tool.
+He drew the puddle back from the bright line, gathering it against the basin of the old fountain. The movement was slower than he'd expected; some of the water had mixed with grit and fragments of tile, and the floor sloped the wrong way. He resisted the urge to pull harder. A sudden surge might send water across the very surface he was trying to dry.
 
-Cold air breathed through the gap.
+Annabeth crouched behind Chiron with the inspection diagram on a board. She followed the luminous line from the northern column to the doorway, marking where it had changed since their first observation.
 
-Thalia turned her spear toward it.
+"The third hook is brightening," she warned. "If it reaches the threshold, the grounding frame will be too close to the active edge."
 
-"Ready?"
+Mara and another forge worker brought the frame to the outside path. Its bronze contacts were fixed within an insulated stone casing, carried on a sled so nobody had to grab the live metal. Zoe went to them, checked the connections without touching the active ward, and asked for the team to confirm the nearest escape route.
 
-Percy nodded.
+Percy held the water in the basin. His arms ached, but the western path remained dry.
 
-The first release struck too hard. Water burst against the wall, and pain flashed through Thalia's grip.
+Thalia's spear shook. The light she'd been keeping from the doorway had begun to climb the inside of the frame. She was no longer deflecting a single flare. The Hall's hidden ward was feeding pressure into the same point again and again.
 
-"Stop," Chiron said.
+"I can't hold this much longer," she said.
 
-They stopped. The room still rang. It mattered that they had stopped anyway.
+"Then tell us when you need to release," Chiron answered. "You do not have to wait until you fall."
 
-Annabeth crouched beside Percy.
+"I need to release now."
 
-"Less water," she said. "A thinner path. I was trying to push the whole edge at once."
+"Then back three paces. Let the screen take the next flare."
 
-"So was I."
+She obeyed, though it cost her. The first flare struck the protective screen Zoe had placed against the inside of the wall. It rang like an enormous bell and threw a spray of sparks harmlessly into the enclosed portion of the ward. The grounding frame outside shuddered but did not move.
 
-They reset. Thalia shook out her hand, jaw clenched.
+"Stop," Chiron called.
 
-"Second try," she said.
+They stopped. Percy let the water settle into the fountain basin without trying to force it farther. Zoe studied the movement of the mark, counting the seconds between pulses. Annabeth checked her drawing against the live boundary.
 
-"Smaller," Annabeth reminded her.
+"It's still drawing pressure toward the north column," she said. "The screen is holding at the threshold, but the mark itself hasn't changed."
 
-This time the charge snapped toward the drain in one short flare. The white line around the column dimmed.
+"Then we have a moment to choose," Zoe replied.
 
-Zoe scraped through the first hooked stroke.
+She looked at the control notes she'd prepared, then at the fresh readings Mara held up through the doorway. The old western drainage connection was separate from the ward coupling. The safe repair procedure called for isolating the coupling before releasing the pressure it contained. They had not been able to make that separation during the storm.
 
-The black thread rose from the cut.
+"Chiron, the secondary contact has settled within the test range," Zoe said. "I can disengage the exposed fitting with the insulated tool. If the pressure rises, we stop and retreat."
+
+Chiron checked Mara's signal and nodded.
+
+Zoe moved to the edge of the northern mosaic. She kept one hand on the long insulated handle of the tool, the other free to drop it if the current jumped. Percy held the western floor dry, doing nothing with the charge itself. Annabeth watched the line's progress and counted aloud whenever its edge shifted.
+
+Zoe eased the tip beneath the first hooked stroke. The metal resisted. She adjusted her angle and released a narrow retaining pin.
+
+A black thread rose from the seam, moving against the direction of the light.
 
 It reached toward Annabeth.
 
-Thalia moved her spear between them, taking a sharp shock that drove her shoulder into the wall.
+"Back," she said, already retreating. She did not try to meet it with lightning.
 
-Annabeth caught her elbow.
+Thalia moved as though she meant to interpose herself, then stopped when Chiron shouted. She raised her spear but remained behind the screen.
 
-"Don't put yourself in front of everything!"
+The thread struck the edge of Zoe's containment lantern and curled along its inner surface. It did not enter the room. Zoe kept her grip steady while Mara checked the grounding frame from outside.
 
-"Then help me move it."
+"Hold," Zoe said. "The ward is transferring. Don't touch anything."
 
-There was no time to decide which of them had sounded more frightened.
+Annabeth's injured fingers tightened on the board. Percy could see the effort it took her not to reach for power she could not yet control. She pointed instead.
 
-They faced the gap together.
+"The circle has a break at the eastern edge. That's the part that wasn't on the original survey."
 
-Percy held the stream steady while Annabeth fed a narrow pulse into its edge. Thalia released the pressure she had been carrying a piece at a time, each burst short enough for Chiron to call out between them.
+Zoe examined it without moving the tool. "Chiron, I can lift this coupling away from the active line. I cannot tell you what else was attached to it before today."
 
-Zoe cut the second stroke.
+"Do only what the inspection permits."
 
-The ringing broke into separate notes.
+She worked the tool beneath the loose metal. The second retaining pin gave with a brittle click. Pressure escaped into the isolated frame in a series of short pulses, each one quieter than the last. The bright line around the northern column dimmed. When the third pulse passed, the black thread folded in on itself and vanished into the seam.
 
-Outside, someone shouted that the sun was returning.
+"Clear," Mara called from outside. "The frame is stable."
 
-Inside, the last stroke split beneath Zoe's tool. The water rushed into the drain, taking a final scatter of blue sparks with it.
+"Do not touch the floor," Chiron replied. "Wait for a second reading."
 
-Percy lost the shape of the stream and sat back hard.
+They waited. Percy could hear water settling against the fountain's basin and the rough sound of Thalia trying to get her breath back. Annabeth's hand was shaking, but she held the map where Zoe could read it.
 
-Nothing replaced it.
+A second reading came. Then a third. The luminous edge retreated toward the exposed stone beneath the column.
+
+Only when Zoe had confirmed the line was no longer active did Chiron allow anyone to move beyond the outer threshold.
+
+Percy let the water drain slowly into the clear western channel, far from the isolated ward. The effort left him dizzy, and he sat down before his legs made the decision for him. Thalia lowered her spear, took one step toward her sister and nearly stumbled. Annabeth went to her, keeping both of them outside the damaged mosaic.
+
+They had interrupted the surge. They had not learned who had installed the coupling, what the black thread had been meant to restrain, or why the Oracle had been silent. The object on the floor was now evidence, not an answer.
+
 
 ---
 
