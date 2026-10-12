@@ -398,6 +398,114 @@ They sat there while the lake settled. The clouds thinned. Sun came through in p
 
 ---
 
+Silena found Percy at the lake after Annabeth had returned to Cabin One. He was picking up a handful of flat stones as though deciding whether to throw them all into the water at once.
+
+"How'd it go?" she asked.
+
+"Fine."
+
+"That sounds unconvincing."
+
+"It went fine. We talked. She wasn't upset with me."
+
+Silena sat on the dock beside him. She had heard about the morning from Clarisse, and she'd been laughing at Percy's expression for most of the afternoon. Now that he was sitting there alone, she was less certain it had been kind.
+
+"I owe you an apology," she said.
+
+Percy glanced at her. "For what?"
+
+"I laughed when you went to the forge. You looked embarrassed, and I made it worse because Clarisse had already turned it into a joke."
+
+"You both do that."
+
+"I know. It's not always wrong to tease you. But I should have asked whether you wanted to talk about it before I started laughing."
+
+Percy looked at his stones. She waited.
+
+"I know I was being ridiculous," he said. "I didn't like that Theo had done something wrong in my head before he'd even spoken to me. But when Clarisse shouted about it in the arena, I felt like I couldn't ask anybody a serious question afterward without them turning it into the same joke."
+
+Silena nodded. She hadn't been there for the shouting, and she was not going to defend it by claiming Clarisse meant well. Her older sister could be thoughtless when she was trying to make someone laugh.
+
+"Then I can tell her," she said.
+
+"I can tell her."
+
+"Good. You should."
+
+Percy picked up a stone and tossed it. It skipped three times before sinking.
+
+"Annabeth told me she likes helping Theo," he said. "She doesn't want to stop just because I felt strange about it."
+
+"That's reasonable."
+
+"I know. I don't want her to stop."
+
+Silena smiled. "Then you're already doing better than you were at breakfast."
+
+He looked sideways at her. "You're not going to call me Lord Jealousy?"
+
+"Not unless you tell me the joke is funny to you too."
+
+He thought about that. "It might be funny next week."
+
+"Then I'll ask next week."
+
+They sat for a moment, watching a pair of naiads collect water lilies near the shore. Percy had been so preoccupied with his embarrassment that he'd forgotten Silena had spent the morning repairing a broken clasp. She was holding the finished piece in her lap, turning it over with her thumb.
+
+"Did you fix it?" he asked.
+
+"Most of it. I need another fitting from the forge."
+
+"Want me to ask Beckendorf when I go back?"
+
+"No, thank you. I already told him I'd handle it."
+
+Percy nodded. It was another thing he'd been learning: not every offer of help was wanted, and refusing an offer wasn't a rejection of the person who made it.
+
+Silena stood, smoothing her skirt.
+
+"Dinner soon. Clarisse will be looking for you."
+
+"To make another joke."
+
+"Maybe. But you can tell her to stop."
+
+Percy looked at the lake one last time, then followed his sister toward the cabins. He had decided to speak with Theo the next day. He could apologize for the way he'd acted without revealing anything about his previous memories or asking Annabeth to explain his feelings for him.
+
+Near the forge path, Clarisse intercepted them carrying a bundle of training straps.
+
+"Hey, jealous boy," she called.
+
+Percy stopped. Silena did too, but she didn't speak for him.
+
+"Can you not call me that?" Percy asked. "I know you thought it was funny. I didn't like everybody in the arena hearing it."
+
+Clarisse looked surprised. Her first instinct was evidently to make another joke. He saw it in the lift of her eyebrow.
+
+"All right," she said after a moment. "I won't shout it in public."
+
+"Or in private for a while."
+
+She hesitated, then nodded. "Fine."
+
+Percy appreciated that she didn't immediately demand he admit she'd been helpful. The advice she had given him had been useful. The public teasing hadn't been. He was allowed to say both.
+
+"Thanks for the sparring," he said.
+
+"You're welcome. Your footwork was terrible."
+
+"I know."
+
+"Come train tomorrow."
+
+He grinned. "I'll try."
+
+They walked to dinner together, Clarisse talking about the new practice straps and Silena reminding her to return the borrowed equipment. Nobody mentioned Theo. Percy felt the topic becoming something he could think about instead of merely react to. He was still embarrassed. He was less afraid of being seen embarrassed by people who cared about him.
+
+
+
+---
+
 Thalia found him before dinner on the path to the cabins, which was exactly as bad as Annabeth had promised.
 
 Thalia Grace, daughter of Zeus, sixteen and tall and electric even standing still, with her black hair streaked and her silver bracelet clinking, fell into step beside him without asking. She had a spear over one shoulder and mud on her boots. She smelled like rain and ozone.
@@ -420,7 +528,7 @@ Percy tripped over a root. "She — that's private — Clarisse —"
 
 Percy braced himself.
 
-Thalia pointed her spear at him, not threatening, just emphatic. "Hurt her and I kill you," she said. "That's rule one. I don't care if you're Poseidon's kid and I'm outnumbered by fish people. I will end you. Slowly. With lightning. Understood?"
+Thalia pointed her spear at him, not threatening, just emphatic. "If you treat her badly, I'll have something to say about it," she told him. "And she'll have something to say first. You listen to her. Understood?"
 
 "Understood," Percy said quickly.
 
@@ -442,7 +550,7 @@ Percy laughed, surprised. "Clarisse said I looked like someone peed in my fish t
 
 They started walking again. The cabins came into view, smoke starting from chimneys, lights flickering on. Thalia slung her arm around his shoulders for three steps, big-sister style, then shoved him away.
 
-"And if you ever make her cry, I take it back and I kill you twice."
+"And if you ever think you can avoid a hard conversation by being charming, expect me to remind you of this one."
 
 "Noted."
 
