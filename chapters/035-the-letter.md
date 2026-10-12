@@ -332,7 +332,7 @@ Thalia picked up her pen. Put it down. Picked it up again.
 
 "So don't start with news," Grover suggested. "Start with something true. Like, what's the first thing you think when you read her letters?"
 
-Thalia looked down at Beryl's letter. The paper was soft at the creases. There was a coffee ring on the corner and a smudge that might have been mascara or paint. Beryl was a painter — famous, mercurial, brilliant — and her letters always smelled faintly of turpentine, even after weeks in a shoebox.
+Thalia looked down at Beryl's letter. The paper was soft at the creases. There was a coffee ring on the corner and a smudge that might have been mascara or paint. Beryl painted whenever she could find work, and her letters often smelled faintly of turpentine, even after weeks in a shoebox. Thalia could never tell from the paint on an envelope whether Beryl was doing better or simply trying to sound as if she were.
 
 "The first thing I think," Thalia said slowly, "is that I can hear her voice. Like, I read it and she's right there. Saying 'my brave girls' in that dumb dramatic way she does."
 
