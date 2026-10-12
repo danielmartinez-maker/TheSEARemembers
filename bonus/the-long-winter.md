@@ -238,6 +238,24 @@ By six, when Thalia borrowed Percy's coat and stepped out of Cabin Three, the in
 
 Someone had known about the heel since Sunday. Percy had said it aloud at the fire ring, with no ceremony or accusation, and Thalia had spent the next day discovering how much she disliked being observed when she couldn't do anything about the observation. Now the north path ended at Rhys's cabin, with lamplight caught in the quilted window. She could still turn around. She had promised Annabeth an examination tomorrow; she had promised Rhys nothing. That, she was beginning to suspect, was why coming here mattered.
 
+At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
+
+She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
+
+Tonight she had no excuse left. The heel was hurting, but Chiron could deal with the heel. What brought her up this hill was the memory of Rhys leaning against the equipment shed with his sleeves pushed up, waiting until she'd finished speaking before answering. She had been thinking about his hands, his mouth, and the fact that he never tried to seize a moment that hadn't been offered. At the range they were both perfectly capable of being difficult. Alone, she suspected he might be dangerous in an altogether different way.
+
+That last thought made her stop hard enough to jar her bad foot.
+
+"Idiot," she muttered, though it wasn't clear which of them she meant.
+
+She had wanted people before. Wanting Rhys felt less familiar because she didn't have to turn it into an argument. If she went to him, it would be because she chose to. He could still say no. They could both change their minds. That ought to have made walking up the steps simple. Instead she spent an unreasonable amount of time examining the porch railing as though it might contain instructions.
+
+She wasn't frightened of him. That was worth being exact about. She was frightened of the possibility that she might enjoy being wanted without first proving she'd earned it.
+
+Then she heard him laugh at something through the door, a brief private laugh, followed by the scrape of a chair. She knew that laugh. She wanted to hear it closer.
+
+She climbed the last step.
+
 She stood outside the door for a long moment. The cold came up the hill off the lake and moved the pines. She could see the light through the quilted window, and the shape of him moving around inside, and she thought about turning around. She thought about it seriously, the way a person thinks about a thing they are afraid of, and she stood in the cold and weighed it — the going-back, the going-on — and the going-on won, the way it always did, because she was Thalia Grace and she had never once in her life walked away from a door she had decided to walk through.
 
 She did not knock. She had decided, somewhere on the path, that she was not going to knock. She opened the door and went in and shut it behind her and stood on the mat with the cold still in her coat and her breath going up and her heart going like a thing that had been let out of a room it had been kept in too long.
@@ -299,6 +317,96 @@ His cot had a camp mattress and a real blanket that had been washed that week, a
 She rode him slow at first, then faster, and he met her, and the cot creaked against the floorboards, and there was nothing gentle in it at all. It was wet and blunt and desperate and perfect, her hands flat on his chest, his hands on her hips, the slap of skin and their voices in the warm dark of the cabin. She felt the orgasm building from the soles of her feet, the current running up through her, and when it hit she came with his name in her mouth, her back arching off him, her nails in his chest, and he followed a moment later with his hands tight on her hips, three hard jolts and a groan so deep she felt it in her chest.
 
 Afterward she collapsed onto him, both of them shaking, and he held her with his arms around her back and his face in her hair, and they lay like that for a long time, not talking, just breathing, and then he said, "Your heel," and she said, "I know," and he said, "I've got a splint," and she said, "I don't need a splint," and he said, "I'm going to make you see somebody about it," and she said, "Fine," and they lay in the dark and listened to the stove tick and the frost come down on the window, and it was warm, and it was enough, and it was the first time.
+
+She had expected that wanting someone would be the difficult part. It turned out that there was a different difficulty in being there afterward with no immediate reason to leave.
+
+Rhys had pushed the blanket up around her shoulders, and she was examining the small cut on his knuckle because looking directly at him made her feel as though he'd notice every thought she hadn't finished having. The cut was nearly healed. She studied it anyway.
+
+"You keep doing that," he said.
+
+"Doing what?"
+
+"Finding something on me that needs fixing."
+
+"It's a cut. You're an Apollo kid. You could heal it."
+
+"It's a scratch. I could also let it heal like everybody else."
+
+"Shocking disregard for your gifts."
+
+He shifted closer, and she did not pretend she hadn't noticed. Their elbows met beneath the blanket. She liked the simple physical fact of him beside her more than she'd been prepared to admit. He could be irritating without effort; so could she. There was relief in discovering that neither quality vanished when the door was closed.
+
+"Can I say something without you making fun of me?" he asked.
+
+"Unlikely, but you can try."
+
+"I liked tonight."
+
+That was so plain that it caught her off guard. She had been expecting an invitation, perhaps a joke she could meet with a sharper one. Instead he had made a statement that required nothing except an answer.
+
+"Good," she said.
+
+"That's all?"
+
+"Are you going to demand a written review?"
+
+"No. I'd just like to know whether you liked it too."
+
+She lowered her eyes to their hands. It would have been easy to kiss him and avoid the question. She did want to kiss him. That was part of the trouble.
+
+"Yes," she said. "I liked tonight. Quite a lot, actually."
+
+"All right."
+
+"Don't get smug."
+
+"You're a little late."
+
+She nudged him with her shoulder. He smiled and caught her hand. After a moment he released it again, not because he had to but because it was still hers to offer. She thought about that more than she expected. With most people, closeness seemed to come attached to a list of duties. She had to protect Annabeth, keep the younger campers in line, prove to Clarisse that she wasn't taking anybody's place. Rhys had wanted her there, and his wanting hadn't come with an assignment.
+
+"What does this make us?" she asked.
+
+He considered the question. "Two people who had a good night?"
+
+"Calder."
+
+"I know what you mean. I don't want to invent a grand answer just because we did something important to us."
+
+"It was important?"
+
+"To me. You can tell me if I'm misreading that."
+
+"You aren't."
+
+"Then let's start there."
+
+She could work with that. It was better than having an entire relationship declared on her behalf because they had spent one night together. She had tried to be very certain about what she wanted when she arrived. She was less certain about what she wanted next month, and for once uncertainty did not feel like an order to act.
+
+"Tomorrow," she said, "I'm seeing Chiron."
+
+"I know."
+
+"Annabeth knows. Which is unbearable."
+
+"She'll be pleased."
+
+"She'll pretend not to be, and it will somehow be worse."
+
+He laughed again. She reached up and touched his cheek, stopping him before the laugh was finished. This time she kissed him slowly, because she could, because there was no audience to surprise and no reason to win.
+
+When they drew apart, he said, "Are you staying until morning?"
+
+"I usually wake at four."
+
+"That wasn't the question."
+
+"I know."
+
+She thought about the walk down the hill, the empty loft, Annabeth's notebook by her pillow, the explanations she did not owe anybody and the ones she might eventually choose to give. Then she looked around the small cabin. The stove had settled to a red line beneath its grate. His bow lay in pieces by the workbench. A single sock had fallen behind the cot. It was not an enchanted palace or a promise that he would never leave. It was a room where she wanted to remain.
+
+"I'm staying," she said.
+
+He lay back against the pillow, satisfied with that, and she settled beside him. After a while she found his hand again. He didn't comment. They argued quietly about which of them had been worse at the north range that morning, then stopped talking altogether. The silence belonged to them, which felt stranger, and rather better, than she had imagined.
 
 ---
 
