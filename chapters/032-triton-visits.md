@@ -595,6 +595,3 @@ On the sand, dripping and shivering and laughing, Triton pulled Percy into a rou
 Then he let go, picked up his terrible borrowed sandals, shook the sand out of Percy’s sneakers like a valet, and walked with him up the beach toward the warm lights of Cabin 3 — a prince of the deep, far from home, with soda in his past and paperwork in his future, whistling very badly the surface song about bringing the tide in.
 
 Behind them, the Sound settled. Flat and glassy no more. Just water, lapping softly, keeping their secret.
-
----
-
