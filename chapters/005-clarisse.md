@@ -1016,6 +1016,207 @@ She shook her head, laughing despite herself, and walked back toward her sister.
 It did give him a reason not to rush the answer.
 ---
 
+When Percy returned to Cabin Three that night, there was a hand-drawn schedule pinned to the inside of the door.
+
+It had five columns, more rows than anybody could reasonably need, and several corrections in two different kinds of ink. Silena's handwriting was neat enough to belong in a textbook. Clarisse's additions were larger and pressed so firmly into the paper that Percy could feel the grooves through the back.
+
+He read the headings: patrol, repairs, meals, training, stores.
+
+His name appeared in three places at once.
+
+"Am I supposed to be in the arena and on the eastern fence at the same time?" he asked.
+
+Clarisse was kneeling beside her trunk, checking the straps on her greaves. Silena had a bundle of folded work cloths on her bunk. Neither looked pleased to see the schedule.
+
+"That's what I've been explaining," Silena said. "I can't send him to inspect the channel at noon if you've promised Matt he'll cover the afternoon patrol. And he can't do two jobs while Chiron has him in lessons."
+
+"The patrol needs a third person," Clarisse answered without looking up. "The regular guard is out sick, and Matt doesn't want anybody walking the eastern approach alone until the ward inspection's finished."
+
+"Then write the request down and wait for Chiron to assign somebody. You don't get to put Percy's name wherever there's a hole."
+
+Percy set his bag down. "Can I see which one of you is winning before you make me part of this?"
+
+Silena pointed at the schedule.
+
+"Neither of us, apparently. That's the problem. I thought we agreed you'd help me check the repaired filter tomorrow, and Clarisse volunteered you for a patrol at the same hour without asking."
+
+"I thought the filter was fixed," Clarisse said.
+
+"The leak is controlled. That's not the same as knowing the replacement will work. Mara spent half an afternoon moving seedlings to keep them out of the flooded row, and I don't want her doing it again because we didn't test the channel."
+
+Clarisse began to wind a strap around her hand. Percy had seen her do that when she was angry enough to need a task. He also knew Silena wasn't going to drop the subject simply because her sister was becoming difficult.
+
+"Why can't you take somebody else?" Clarisse asked. "There are a dozen campers who know the water beds better than Percy."
+
+"Because he was there today. He helped us take the measurements, and I said I'd show him how we check the slope before opening the branch. If I change the arrangement every time somebody else wants a helper, I might as well stop making one."
+
+Percy looked from one sister to the other.
+
+"I should probably mention I only have two arms and one head. I could be wrong, but I'm fairly sure Chiron expects the head to turn up for lessons in the morning."
+
+"Your head is usually the least useful part of you during sword practice," Clarisse muttered.
+
+Silena didn't laugh.
+
+"This isn't about whether Percy can take a joke. It's about you offering up his afternoon without checking with him or me. You've done it before."
+
+Clarisse pulled the strap too tight. The leather creaked.
+
+"Fine. I should've asked. But the wards aren't working properly, and a monster got past our defenses last week. I'd rather have him on patrol than digging holes when something else comes through."
+
+A few days ago Percy might have offered to handle both tasks, reasoning that an older version of himself had done far more difficult things with much less sleep. He had already discovered that a twelve-year-old body was not impressed by his memories. Even if he could stay awake, dividing his attention between two jobs that mattered to other people would not make either job better.
+
+"Who's running the patrol?" he asked.
+
+"Matt and me. If Chiron approves the extra rotation. I said I could bring you because you've been learning the horn signals."
+
+"Could I go later, after the water check?"
+
+"Not unless the schedule changes."
+
+"Then that's the decision we need to ask Chiron to make. I told Silena I'd help, and she's already planned the job around that. I'm not going to pretend I can cancel whenever something more exciting turns up."
+
+Clarisse looked at him. He couldn't tell whether she was pleased with the answer or offended by it.
+
+"The patrol isn't exciting," she said.
+
+"I know. I've carried the bag."
+
+"Then you know why somebody has to go."
+
+"I do. But you said showing up when I promise is what matters. I promised Silena first."
+
+Clarisse put the greave aside. She didn't apologize. She got up, went to the schedule and crossed his name out of the patrol column so hard that the pencil point broke.
+
+"There. If Matt complains, I'll tell him your sister has you measuring puddles."
+
+Silena's head snapped up.
+
+"You can be angry with me without insulting the work."
+
+"That's not what I meant."
+
+"Then say what you meant. I don't expect you to love the fields, but every camper eats from them, and you know how much it takes to keep them growing."
+
+Clarisse looked at the broken pencil point on the floor. Percy recognized the moment when anger stopped being useful and someone had to decide whether to keep going anyway.
+
+"I know," she said. "I helped dig the channels, remember?"
+
+"I remember. It's one of the reasons I'm surprised you keep talking as though fixing them is a waste of time."
+
+Clarisse leaned back against the doorframe. The argument had taken some of the fight out of her, though Percy doubted she would admit it.
+
+"I get nervous when people aren't on the border," she said. "I know the patrols won't catch everything. But after the drakon, Chiron asked us to watch the eastern path again, and I want enough people there that nobody has to go looking for help alone."
+
+Silena folded the last cloth, smoothing the edges.
+
+"I understand. I want the patrol covered too. I just don't want all the other jobs to become optional because somebody calls them less dangerous."
+
+Percy was beginning to see that neither sister wanted to lose the argument because losing felt like admitting the other one's work mattered more. The truth was less convenient. Both of them had been keeping this cabin and several parts of camp working long before he arrived.
+
+He stepped toward the schedule, careful not to take the pencil from Clarisse's hand.
+
+"What if we check with Chiron after breakfast? I can ask whether somebody with more patrol experience is available. If he needs me on the border, I'll go. But I want him to know I'm supposed to help test the channel first, so he can decide what actually needs covering."
+
+Silena considered the suggestion. "I can move the test to the morning if Mara can come. We need decent light to read the markings anyway. I'd rather not have to ask everybody to change plans twice."
+
+Clarisse glanced at her.
+
+"I can ask Matt to wait until Chiron confirms the rota. I shouldn't have put a name on it before he did."
+
+It was about as much agreement as Percy expected to get. The schedule still looked like a battlefield, but its next version might at least be one the three of them could follow.
+
+Silena took it down from the door and laid it flat on her desk. She retrieved a fresh piece of paper and began copying the assignments she knew were correct, leaving the disputed patrol slot blank.
+
+"Since we're already rearranging the week," she said, "the cabin inspection is still Friday. Which means the pile of training gear at the foot of Percy's bunk needs to find a home before it develops one of its own."
+
+Percy looked toward his bunk. The pile was smaller than yesterday. He was fairly certain that counted as progress.
+
+"I was going to clean it."
+
+"You said that this morning," Clarisse observed.
+
+"I was going to clean it twice."
+
+"Then you're doing very well at the going-to part."
+
+He went to fetch his equipment. They worked around one another in the small cabin, Clarisse checking straps, Silena redrawing the rota and Percy sorting wet leather from dry. No one announced that the argument had been settled. Every so often one of them asked for a hook, a pencil or a place to put something. It was easier than discussing the disagreement again.
+
+When Percy reached his practice shield, he found the outer strap had come loose where Clarisse had warned him it would.
+
+"Could somebody tell me whether this is fixable?" he asked.
+
+Clarisse came over and examined the fastening. "It's fixable. The buckle isn't damaged, but the leather has stretched. If you keep tightening it the way you have been, the next thing that'll break is your wrist."
+
+She showed him how to remove the old knot and rethread the strap. He held the shield steady while she worked. A few days earlier she would have taken it away and repaired it herself. Tonight she made him complete the final loop, then tested it by pulling hard against the buckle.
+
+"Better. You can use it tomorrow, provided you don't do anything stupid."
+
+"No promises about the stupid part. It's one of my stronger skills."
+
+"At least you're aware of it."
+
+Silena looked up from the desk.
+
+"If you're both finished performing, I'd like someone to check whether we still have enough bandages for the patrol kit. Chiron used half the last box after the drakon."
+
+Clarisse opened the supply cupboard. Percy crouched beside her to count the rolls, trying not to let the loose panther carving in his pocket knock against the shelves.
+
+He set it on the desk for safekeeping.
+
+Silena noticed immediately.
+
+"Where did you get that?"
+
+"Clarisse made it."
+
+"She did?" Silena picked it up and examined the wings. "It's beautiful. You've finally figured out how to carve the feathers without splitting the grain."
+
+Clarisse's ears turned red.
+
+"It took me three tries."
+
+"I know. You left the first two failures under your bunk."
+
+"They weren't failures. They were practice pieces."
+
+"Of course they were." Silena placed the panther carefully beside Percy's notebook. "Are you making one for me?"
+
+Clarisse looked as though she had been waiting for this question since the day she started carving.
+
+"You've got four."
+
+"Three and a half. The old one lost a wing when the shelf fell."
+
+"That was because you put too many books on it."
+
+"The books were perfectly reasonable. Your shelf was poorly attached."
+
+Percy watched them with interest. They disagreed about shelves and carvings in exactly the same way they disagreed about patrols and irrigation. The argument was familiar to both of them, which meant neither needed to explain all of it to him.
+
+"You could ask her to make you a new shelf," he suggested.
+
+Silena turned to him with an expression of appalled delight.
+
+"I was going to ask you, actually. You offered to help with the stores, remember?"
+
+Percy stared at the ceiling.
+
+"That's what I get for trying to help."
+
+Clarisse had already returned to the cupboard, but he could see her smiling.
+
+They finished counting bandages before lights-out. When the final lamp was turned down, the new schedule was back on the door with Percy's morning water check written in one column and an empty slot beside the afternoon patrol.
+
+It wasn't a perfect plan. It would do until they spoke to Chiron.
+
+Percy got into bed with aching hands and sawdust still caught in the cuff of his shirt. Across the room Silena put away her ink, and Clarisse set her newly repaired greave beside her trunk where she wouldn't trip over it in the dark.
+
+He remembered her instruction from their patrol: show up when you say you will.
+
+Tomorrow he would. The sisters had already given him more than enough chances to practice.
+---
+
 Clarisse intercepted Percy before breakfast the next morning, one greave unfastened and her sword hanging loose at her side.
 
 "Come on," she said.
