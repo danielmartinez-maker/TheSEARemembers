@@ -18,94 +18,76 @@ And now Percy complicated everything.
 
 Across the dining pavilion Thalia tracked them — Annabeth and Percy hunched together at the Poseidon table, voices low, foreheads nearly touching. No tentative circling of new acquaintances marked their movements. Instead the fluency of years. Private jokes. Shorthand. A bond that demanded seasons to forge. The pavilion clattered around them — trays, laughter, the bronze brazier coughing rosemary smoke — yet the two sat in a pocket of stillness, Percy's thumb tapping some private rhythm on the tabletop that made Annabeth smile despite herself.
 
-They had known each other twenty-one days. Thalia counted each one like stitches.
+Percy had been at camp for roughly three weeks. Thalia counted each one like stitches.
 
 Thalia's molars ground. Distrust coiled — not jealousy, she insisted inwardly, tasting copper from a bitten cheek. Stewardship. Annabeth was twelve, exposed, sleeping with a nightlight she pretended not to need, and this boy — what, exactly? A stranger? A manipulator? Worse?
 
 Answers eluded her. She intended to obtain them.
 
 ---
+Thalia found Percy in Tempest Hall after lunch. He was swimming laps with a determined rhythm, but every few lengths he stopped to catch his breath. She watched him grip the pool's edge and haul himself out.
 
-She cornered Percy at Tempest Hall that afternoon, rehearsing the speech all through lunch until her gyro went cold.
+"Grace," he said. "Did I do something?"
 
-The structure impressed despite familiarity — vaulted space, a pool programmable to any sea state, racks bristling with tridents and nets and implements Thalia couldn't name. Mid-pool Percy carved laps with an economy that whispered long discipline.
+"You tell me."
 
-From the coping Thalia observed. Fast — beyond any twelve-year-old standard she'd catalogued. Stroke clean, breathing metered, wall-turns executed with near-mechanical exactness.
+"That's ominous."
 
-Not merely coached. *Forged*.
+"Good. I'm working on it." She waited while he grabbed a towel. "Walk with me."
 
-Percy completed the length and hauled himself dripping onto the deck. Spotting Thalia, he froze — surprise flashing, then shuttered.
+Outside, the training yard was crowded enough to make a private conversation impossible. She led him beyond the woodpile, where the trees hid them from the nearest practice ring.
 
-"Grace," he said, shaking water from his hair. Chlorine and salt stung the air. "Need something?"
+"What are you doing with Annabeth?" she asked.
 
-"We need to talk."
+Percy didn't pretend he hadn't understood. "Spending time with her. Reading, mostly. Sometimes we talk."
 
-"Okay."
+"She won't talk to me about half the things she tells you."
 
-"Privately. Not here."
+"That's her decision."
 
-They withdrew to the wood's edge, where trunks screened them and camp clamor thinned to birdsong. Thalia planted herself, arms folded, chin high.
+"You met three weeks ago."
 
-"What are you doing with my sister?"
+"I know."
 
-Percy blinked, droplets scattering. "In what sense?"
+"Then you should understand why that looks strange from where I'm standing."
 
-"Don't play obtuse. Three weeks acquainted, and she behaves as though you've shared years. She trusts you. Confides. Looks to you like you're the sole translator of her interior." Thalia's tone edged. "That velocity isn't natural. So I'll repeat: what are you doing?"
+He leaned back against a pine, then straightened when she glared at him. "I do understand. I'm not trying to make things harder for her."
 
-"Nothing underhand. We simply — recognize each other."
+"And yet she disappears after dinner. She's awake at odd hours. She forgets things we've done together. Half the time she acts like she's afraid I'll notice."
 
-"Explain the recognition."
+That was the part Thalia hadn't intended to say. She'd meant to ask about Percy. Instead she'd described a problem she couldn't fix.
 
-"Both displaced. Both haunted by memories that refuse alignment. Both conscious of wearing skins tailored for someone else."
+Percy looked at her for a moment. "Have you asked Annabeth what she wants you to do?"
 
-Thalia's eyes slitted. "Meaning?"
+"Of course I have."
 
-Visible calculation crossed his features — truth weighed against safety, candor against hazard.
+"What did she say?"
 
-"Meaning," he said with care, "Annabeth and I overlap more than appearances suggest. And we're attempting to map that overlap."
+"Space." Thalia hated the word. "And patience. As though I haven't spent twelve years being patient with her."
 
-"Evasion. Not explanation."
+"That doesn't mean you can decide when she's finished needing it."
 
-"The sole explanation currently available."
+Thalia's hands curled at her sides. He was a stranger, twelve, newly arrived from a palace. She had changed Annabeth's bandages and stayed awake when their mother disappeared for days. He didn't get to teach her what being a sister meant.
 
-Thalia held his stare. He returned it unflinching, and inside his gaze she detected a stratum no twelve-year-old should own. Depth. History. Attrition. It unsettled her more than any bluster — this calm, drowned look, like pond water over a deep drop. Her fingers found the bark of a nearby pine, rough and sticky with sap, grounding herself.
+"I don't trust you," she said.
 
-"Dishonesty," she said. "Partial, perhaps. But present."
+"You don't have to."
 
-"I'm not—"
+"I don't believe that."
 
-"Don't." The crack in her voice embarrassed her. "Don't dissemble. I've parented Annabeth since she was six. I detect her evasions. And I detect evasions practiced *around* her. So final inquiry: what are you doing with my sister?"
+"Then watch what I do. Not just what you think I might do."
 
-A long hush. Leaves rattled overhead.
+She hadn't expected that answer. It irritated her more than a denial would have.
 
-"Attempting her protection." Percy's voice dropped. "Identical mission to yours."
+"If you hurt her, I'll know," she said.
 
-"Against what?"
+Percy's smile disappeared. "If I hurt her, she can tell me herself. And you can tell me too. I won't get in the way of you two talking."
 
-"Against whoever rewrote our lives. Whoever recast us into shapes we never chose. Whatever approaches."
+Thalia considered pressing him about the missing records, the odd attention he and Annabeth paid to the Hall, and why they both seemed to anticipate questions before anyone asked them. But the conversation had already gone wrong in a way she recognized. She was trying to make Percy responsible for fears he hadn't caused.
 
-Ice threaded Thalia's veins. "Define 'rewrote our lives.'"
+"Fine," she said, though it wasn't. "We're done for now."
 
-"I—" He arrested himself, head shaking, water still beading at his temples. "Articulation isn't possible. Not yet. But I ask your confidence. Annabeth asks it."
-
-"Withheld."
-
-"Acknowledged. But will you credit *her*?"
-
-Thalia examined him — earnestness bright in his eyes, desperation braced in his stance, the bearing of someone shouldering a load long outgrown.
-
-"Uncertain," she admitted. "But understand surveillance. Should you wound her—"
-
-"No intervention required. I'll have already vanished."
-
-A slow nod. "Fine. But Percy — whatever you and Annabeth have entered, its dimensions exceed your estimate. Olympus grows skittish. The Hermes kids whisper about closed roads. Monsters mass beyond the pines. Something advances, and preparedness eludes you, however brave the face you wear."
-
-"Eludes you equally."
-
-"Perhaps. Yet I've rehearsed lifelong — winters reading Beryl's weather, summers drilling spear forms till my palms bled. What have you rehearsed?"
-
-To that, Percy offered no reply, only the drip of pool water from his sleeve onto leaf litter.
-
+She left before he could say anything that made her feel worse.
 ---
 
 That night sleep refused Thalia.
@@ -196,193 +178,175 @@ Silently, per childhood training — noiseless, motionless, tears merely trackin
 
 A lifetime invested in Annabeth's defense. Birthday candles shielded from drafts. Splinters tweezed out by flashlight. Lies told to social workers with a steady smile. And now Annabeth required no defense. Or worse — required defense against an invisible, unbladeable, incomprehensible adversary. Thalia's spear leaned useless in the corner, moonlight striping its shaft.
 
-Helplessness had never worn so absolute a face.
+She hated that she couldn't solve this by standing between Annabeth and something with teeth.
 
 And she despised it with a physical nausea.
 
 ---
+By morning Thalia had decided she owed Annabeth an actual question, not another warning.
 
-Morning located Annabeth at a borrowed research table within the Athena cabin, morning light striping the floorboards and catching dust in slow spirals. The smell of parchment and cedar shavings hung thick. A half-eaten apple browned on the windowsill.
+She found her at the borrowed desk in the Athena cabin with four books open and an apple turning brown beside her elbow.
 
-"Occupation?" Thalia asked from the doorway, sunlight striping the floor.
+"When did you eat breakfast?" Thalia asked.
 
-Annabeth started. "Research."
+Annabeth looked up. "That sounds like a trap."
 
-"Subject?"
+"It's not. I'm asking because I'm going to eat the rest of that apple if you don't want it."
 
-"Timeline. Alterations. Candidate architects."
+"Have it."
 
-Cold fingered Thalia's spine. Dust swam in the light. "Motive?"
+Thalia took a bite, then leaned against the doorframe. "I spoke to Percy yesterday."
 
-"Because someone revised our lives, and I intend identification." Annabeth rose, shutting the volume with a soft thump. "And because Percy and I uncovered something. Proof of long-term manipulation. Years of it."
+Annabeth's pen stopped.
 
-"Manipulation of what?"
+"You already know," Thalia said.
 
-"Us. Camp. Regulations. Entirety." Annabeth's eyes burned. "And I believe identification nears."
+"He told me. He was upset."
 
-Thalia craved elaboration. Craved totality. Yet instinct intervened — interior, cautionary, whispering unreadiness.
+"So was I."
 
-Not yet.
+Annabeth closed the book nearest her. "What did you ask him?"
 
-"Exercise caution," she substituted. "Whatever you pursue — hazard potential runs high."
+"What he was doing with you."
 
-"Aware. Hence Percy."
+"You could have asked me."
 
-"Percy." Thalia's jaw re-tightened. "You vest him with confidence exceeding mine."
+"I did. You said nothing was wrong."
 
-"With *this*, yes. This narrow matter." Annabeth's voice gentled, hand brushing Thalia's sleeve. "You I trust with everything else. Everything of consequence. And Thalia — you outweigh the world."
+"Something is wrong," Annabeth said. "I just don't know how to tell you about it yet."
 
-Thalia's throat knotted. Retorts crowded: twelve years of attendance, of load-bearing, of trust earned through relentless presence.
+There it was again: a locked door inside the person Thalia knew best.
 
-She swallowed them. Because some chamber of her conceded Annabeth's distinction. This was novel. Unmappable to Thalia's chart.
-
-"Object of search?" she asked quietly.
-
-"Verity. Why the timeline diverted. Who authored it. Desired outcome." Annabeth hesitated, spine of the book digging into her palm. "I suspect linkage to the prophecy. The stolen one."
-
-"Stolen?"
-
-"Three years past, someone breached the Big House attic and extracted a prophecy. Everything subsequent — the Hall of the Gods, the regulation revisions, all of it — dates from that night's disappearance."
-
-A prolonged quiet, pages rustling elsewhere in the cabin. Then: "Discoveries?"
-
-"Proximity. The attic retains records, evidence. We've examined them covertly."
-
-"Percy's infiltrated the Big House?"
+"You can tell Percy."
 
 "Yes."
 
-"With your assistance?"
+Thalia wanted to ask why. Instead she looked at the notes. Architectural sketches, dates, two versions of a camp layout. One was familiar. The other had cabins arranged in an order she didn't recognize.
 
-"Yes."
+"Is this why you've been spending time in the library?" she asked.
 
-"Despite my explicit distrust?"
+"Part of it. Some old plans don't agree with the records about the Hall."
 
-"Percy," Annabeth said deliberately, "stands alone in comprehending my actual experience. The sole fluent speaker of my condition. Presently, comprehension outweighs shielding. Because the approaching thing won't yield to shields."
+"Chiron knows the plans are incomplete."
 
-Thalia yearned to contest. To assert omnipotent guardianship. To declare that neither Percy nor prophecy nor rewritten time would expropriate her role. The words crowded her throat — *I braided your hair when you had nightmares, I taught you the constellations from a fire escape, I chose you every day* — a whole liturgy of sisterhood demanding utterance.
+"I know. I want to understand why." Annabeth pulled the notebook closer. "I'm not asking Percy to take care of me. I'm asking him to help with something I can't work out alone."
 
-She held silence. Because another part acknowledged Annabeth's accuracy. Certain phenomena defied interception. And obstructing Annabeth from a necessary truth might constitute the gravest peril.
+"And you can't do that with me?"
 
-"Caution," Thalia repeated. "Swear it."
+"Not yet." Annabeth's answer wasn't cruel. It hurt all the same. "Please don't make me choose between having your help and having a private thought."
 
-"Sworn."
+Thalia stared at her. Twelve years of deciding which door to lock, what food to save, and when to lie to adults had taught her to move toward trouble, not away from it. But Annabeth had asked for something she wasn't sure she could give.
 
-"And should aid become necessary—"
+"If this puts you in danger, I want to know," she said.
 
-"Your location is known."
+"I will tell you what I can. I can't promise to tell you everything before I understand it myself."
 
-Thalia exited. Paused in morning brilliance, inhaling strawberry-sweet air laced with uncertainty, grass still wet against her boots. Somewhere a hammer rang from the forges. A dryad argued with a naiad over irrigation. Ordinary Camp sounds, suddenly unbearably precious.
+Thalia looked at the open books. "Then tell me the practical part. Are you going into the Hall? Are you meeting somebody? Is Percy asking you to do something you don't want?"
 
-And she thought: she's slipping. Not toward Percy. Not toward anyone. Toward magnitude. Toward a truth invisible and unblockable. The way Annabeth used to outgrow shoes overnight — one morning the fit simply failed, and no amount of love could stretch the leather.
+"No. No. And no."
 
-And interception methods fail me. Prayer, perhaps, remained, though Olympus had gone deaf.
+"All right." She set down the apple core. "Then I'm going to breakfast. And you're coming to training today. You've missed two sessions."
 
+"One. Yesterday was optional."
+
+"It wasn't optional for your footwork." 
+
+Annabeth rolled her eyes, but the expression was familiar enough to make Thalia glad she'd come. Neither of them apologized. They still hadn't resolved the argument. Thalia decided to live with that until dinner.
 ---
+Thalia waited near the training ground until Percy's bout was over. She hadn't meant to seek him out again, but the question about the Hall stayed with her. So did Nico's report about Zeus's steward signing the orders for new wards.
 
-Afternoon found Percy drilling on the training grounds, dust hanging gold in the slanted light. He fenced a younger camper, that same machined economy evident. Excessive velocity. Excessive exactness. The profile of a veteran compressed into months. Straw dummies sweated stuffing from split seams. The racket of wood on wood echoed off the armory wall.
+"Jackson," she called.
 
-Thalia awaited the bout's close. Then advanced.
+Percy put down his practice sword. "Are we having yesterday's conversation again?"
 
-"Full disclosure," she said. "No fractions. No riddles."
+"A different one. About the Hall."
 
-Percy dismissed his partner and squared to her, sweat cutting through dust on his neck. "Agreed."
+He glanced toward the other campers. She led him to the water barrel at the edge of the field, far enough away to speak without drawing an audience.
 
-"You know the timeline's author."
+"Nico says my father's people signed the equipment order," she said.
 
-No shift in expression, but ocular betrayal.
+"That's what the paperwork shows."
 
-"Basis?" he asked.
+"And he thinks Zeus made the rest happen."
 
-"Your phrasing — 'whoever changed our lives.' Your withholding. My sister estranged, trailing an unfamiliar boy, both performing apocalypse." Thalia closed distance, gravel crunching. "You know. Identity?"
+"I don't know what Nico thinks. He showed us a name on a receipt. That isn't proof your father sent the drakon, and it sure isn't proof he did anything else."
 
-A lengthy pause, distant clash of practice blades.
+Thalia was taken aback. She had rehearsed an accusation, not an answer with qualifications.
 
-"Certainty absent," he said. "But a hypothesis exists. And... it wounds."
+"You don't think he did it?"
 
-"Deliver regardless."
+"I think he might know more about the Hall than Chiron does. I think that's worth asking. I don't know what he knew about the prophecy, and I don't know who wrote that note."
 
-"Delivery may injure."
+"You think my father would lie about it."
 
-"Endurance is my specialty."
+Percy paused. "I think gods lie. Mine does too. That doesn't tell us which god did what."
 
-Percy regarded her — the ferocious protectiveness braced in shoulders, fatigue shadowing eyes, devotion calcified into rampart.
+It was the first thing he'd said that sounded like somebody who understood that loving a parent and distrusting him could happen in the same afternoon.
 
-"Your father," he said low. "Zeus. I suspect his authorship."
+"Don't use Annabeth to get at him," Thalia said.
 
-Impact landed bodily. Thalia blanched, flushed, blanched.
+"I'm not going through her to get to Zeus."
 
-"That's not — you can't simply—"
+"People always do," Thalia replied before she could stop herself.
 
-"Understand the appearance. But evidential threads converge. Prophecy edits. Camp restructuring. Chronology. All vectors indicate—"
+Percy waited.
 
-"My father wouldn't—"
+Thalia could hear children shouting on the far side of the training ground. She had spoken to too many adults who said they only wanted a word with their father and somehow found themselves questioning the children instead.
 
-"Repeated precedent exists. You know his temperament. Volatility. Capriciousness. The instrumental view of you and Annabeth over the filial." Percy's tone stayed gentle, inexorable. "What if the revisions weren't stochastic? What if they executed design? *His* design?"
+"Annabeth is doing this because she wants answers," Percy said. "And she gets to decide how involved she is. If you want to know why, ask her. She isn't a messenger for either of us."
 
-Thalia trembled, fists clenching. "Cease."
+"I did ask her."
 
-"Acknowledging difficulty. But—"
+"Then I hope you listened."
 
-"Cease, I said." Voice fracturing. "My father embodies plenty. Frigidity. Egocentrism. Wrath. But not — never — this magnitude. He wouldn't rewrite existence. Wouldn't—"
+Thalia looked at him sharply. The boy had no idea how difficult that was for her. Or maybe he did, and that was why he had stopped trying to persuade her.
 
-"Thalia—"
+"I'll ask about the Hall myself," she said.
 
-"He wouldn't reconstruct the cosmos to injure his daughters. Whatever my father is — distant, wrathful, careless with us — he loves in his fashion. I have to believe the thunder that rocked my cradle meant shelter, not strategy."
+"Good." Percy picked up his practice sword. "Chiron can show you the repair order."
 
-The declaration reverberated. And Percy perceived in her countenance something resembling entrenched resolve. Certainty under active fortification.
-
-"Comprehended," he said quietly. "Difficult tidings. But—"
-
-"Negative." She retreated a step. "No receptivity. No belief. And no imposed doubt—"
-
-"Thalia—"
-
-"Departure required."
-
-She withdrew. Briskly. As though velocity could outpace verity. Gravel sprayed under her heels. A passing camper flattened against the fence to let her storm past.
-
-Percy tracked her until the trees closed, thinking: thus commences the overload. Thus falsehoods grow too ponderous for young shoulders. Thus households fracture along invisible seams — not with shouting, but with a sister's retreating back.
-
-He reclaimed the practice blade, its grip slick with sweat, and drilled until deltoids burned and cognition hushed. Repetition steadied him: advance, parry, riposte. The body knew what the mind could not settle.
-
-Because alternatives were absent. Except persistence. Except resistance. Except seeking passage through.
-
-Even when the protected refused rescue.
-
+She walked away still angry, but no longer sure the anger belonged to Percy.
 ---
+That night, Percy found Annabeth sitting on the Zeus cabin roof, her shoes beside her and a notebook balanced against one knee. A few lit windows showed between the cabins.
 
-That night Percy joined Annabeth atop the Zeus cabin. Knees hugged, starward gaze. The shingles still exhaled daytime heat, tarry and warm, and the whole of Camp spread below — window squares amber, brazier sparks lifting, the lake a black mirror seamed with moonlight.
+"Did you and Thalia talk?" he asked.
 
-"Hey," he said, hauling himself beside her. Shingles rough under palms. "Mind company, or is this a solo brood?"
+"Twice. Once without shouting."
 
-"Hey."
+"Progress."
 
-"Condition?"
+"Not as much as you think." Annabeth made room for him. "She can't understand why I trust you with things I haven't told her."
 
-"Candidly? Wretched. My sister confronted me over the inquiry. She's frightened — I saw it in the set of her shoulders. And remedy escapes me. Every reassurance I own sounds counterfeit in my own mouth."
+"You don't have to tell her just to prove you love her."
 
-"Remedy isn't assigned. Presence suffices."
+"I know." She rubbed a thumb over a smudge of pencil on the page. "I also know I'm hurting her. Both things can be true."
 
-"Sufficiency doubted?"
+He sat down beside her. "She asked about Zeus today. The Hall and Nico's report."
 
-"Mandatory. Sole resource any of us commands."
+"What did you say?"
 
-Annabeth leaned her temple against his shoulder, cedar and night air mingling. "Your father? Course of action?"
+"That we don't have proof he did anything to the prophecy. Because we don't."
 
-"Unresolved. The letter directs discovery. Yet discovery's wisdom grows questionable."
+"Good."
 
-"Should authorship lie elsewhere?"
+"She didn't like hearing it."
 
-"Then that, too, emerges. But attempt is compulsory."
+"She doesn't like anybody talking about him." Annabeth closed the notebook. "Half the time I don't either."
 
-Above, they kept vigil in shared quiet, constellations wheeling, the Milky Way spilling like salt. A night bird stitched the dark. Percy's knee pressed to hers, anchor-warm, and neither reached to break the contact.
+Percy looked toward Cabin Three. There was a lamp in the window, and he suspected Clarisse was waiting to make sure he returned before curfew.
 
-Distantly, thunder muttered — low, reproachful, a god clearing his throat.
+"I don't want you and Thalia to spend all this time fighting because I turned up," he said.
 
-The storm gathered, pressure dropping perceptibly, the air acquiring that green copper taste.
+"You didn't cause this." Annabeth nudged his arm. "You gave me someone I could explain myself to. The rest is still my responsibility."
 
-And their remaining time bled away, grain by grain, while below them the cabins winked out one by one.
+He reached for her hand, and she let him take it. They sat quietly for another minute before she stood.
 
+"Come on," she said. "If I stay up here, she'll count it as another thing you talked me into."
+
+"You're the one who made me climb up."
+
+"Exactly. Let her be wrong about one thing at a time."
+
+They climbed down together.
 ---
 
