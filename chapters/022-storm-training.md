@@ -1,6 +1,5 @@
 ## Chapter 22: Storm Training
 
-### Annabeth — Morning on Half-Blood Hill
 
 Annabeth Grace woke up before the conch horn.
 
@@ -36,7 +35,7 @@ Annabeth sat. The grass soaked through her shorts immediately. "Charming. Is thi
 
 Annabeth pulled her knees up. Below them, camp was waking. Tiny figures moving between cabins. Smoke starting from the forge. Someone laughing too loud by the showers. Normal sounds. Safe sounds.
 
-"I'm nervous," she admitted quietly. It was easier to say to Thalia than to anyone else. Thalia listened. Really listened. She couldn't remember the life Annabeth had lost, but she knew what Annabeth had told her — Athena's daughter, the one with plans inside plans — and she knew the sister beside her now. "What if I can't do it? What if I'm just... bad at this? I've been trying for weeks and all I do is make the lights flicker and shock Percy when he holds my hand."
+"I'm nervous," she admitted quietly. It was easier to say to Thalia than to anyone else. Thalia listened. Really listened. She couldn't remember the other life Annabeth had described, but she knew what Annabeth had told her — Athena's daughter, the one with plans inside plans — and she knew the sister beside her now. "What if I can't do it? What if I'm just... bad at this? I've been trying for weeks and all I do is make the lights flicker and shock Percy when he holds my hand."
 
 "Percy likes getting shocked by you," Thalia said. "He told me. He said it was like holding a firefly."
 
@@ -98,7 +97,6 @@ Annabeth snorted and shoved her. They dissolved into giggles as the sun climbed 
 
 ---
 
-### Thalia — How to Teach the Sky
 
 Thalia Grace was a terrible teacher about almost everything.
 
@@ -196,7 +194,6 @@ As if summoned by his name — and Thalia was starting to suspect the sea kid ha
 
 ---
 
-### Percy — Snack Support and Static
 
 Percy Jackson had learned many important things in the years he remembered and the weeks since he arrived in this twelve-year-old body: how to breathe underwater, how to swordfight with a pen, how to cook blue pancakes with smaller hands in the camp kitchen, and how to tell from fifty yards away when his girlfriend was getting frustrated with herself.
 
@@ -270,7 +267,7 @@ Thalia nodded, satisfied. "See? Boring Percy is useful Percy."
 
 "Hey!"
 
-They kept going. Percy kept talking — about Sally's blue cookies in the childhood he remembered, about Mrs. O'Leary the hellhound who'd tried to eat a canoe last week, about his half-sister Clarisse teaching him to throw a javelin backwards by accident. Annabeth kept sparking, longer each time. Five seconds. Seven. The air smelled like rain even though the sky was cloudless.
+They kept going. Percy kept talking — about the blue-cookie recipe he and Annabeth had been trying to get right, about the old story of a hellhound who'd once tried to eat a canoe, about his half-sister Clarisse teaching him to throw a javelin backwards by accident. Annabeth kept sparking, longer each time. Five seconds. Seven. The air smelled like rain even though the sky was cloudless.
 
 Then Grover showed up.
 
@@ -382,7 +379,6 @@ Annabeth nodded slowly. "Longer out than in."
 
 ---
 
-### Annabeth — Afternoon Sparks
 
 By mid-afternoon, the practice yard smelled like thunderstorms and blue muffins.
 
@@ -468,7 +464,6 @@ Annabeth hugged the pinecone to her chest and laughed until her braids sparked.
 
 ---
 
-### Thalia — Dusk Talk
 
 Dinner was chaos, as usual.
 
@@ -534,7 +529,6 @@ No monsters. No prophecies. No battles. Just warmth.
 
 ---
 
-### Percy — Lantern Light
 
 Percy carried the lantern down the hill.
 
@@ -587,8 +581,3 @@ On Half-Blood Hill, the grass where she'd grounded out stayed faintly warm until
 Four in. Hold. Six out.
 
 The sky remembered. The girl was learning. And for one clear night, that was enough.
-
-*End of Chapter 22*
-
----
-
