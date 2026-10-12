@@ -768,7 +768,7 @@ Thalia let her have it.
 
 The next morning, Percy woke to the sound of Clarisse doing push-ups. He lay in his bunk for half a breath, staring at the ceiling, and tried to piece together what he was going to do.
 
-He knew he needed to investigate the changes to the timeline. He knew he needed to find out who was responsible and why. But he also knew that every time he got close to the truth, someone got hurt. Thalia. Annabeth. Clarisse. Even himself.
+He knew he needed to investigate the changes to the timeline. He wanted to find out who had changed their history and why. But wanting an answer wasn't the same as having evidence, and his first two days had already supplied plenty of bad guesses. He still hadn't earned the right to decide what should happen to this life.
 
 And he was only twelve years old. In this body, in this timeline, he was just a kid. He didn't have the strength or the stamina or the experience of his seventeen-year-old self. He was working with a twelve-year-old body and memories through seventeen, and the disconnect was exhausting.
 
