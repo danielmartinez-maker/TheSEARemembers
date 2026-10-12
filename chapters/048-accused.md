@@ -267,6 +267,101 @@ Mr. D opened his mouth, closed it.
 
 All eyes on the Grace sisters.
 
+
+Percy waited for Thalia to answer. She didn't. Neither did Annabeth.
+
+Zeus descended another step.
+
+The man on the porch looked different now. Percy couldn't have said exactly when it happened. The gray at the temples had faded; the short beard had become longer and dark. His face seemed narrower, his hands younger. Only the eyes stayed the same, two hard points of gray beneath the clouds.
+
+Percy looked toward Chiron. The centaur had seen the change and appeared determined not to react. Thalia was another matter. She had gone so still that the loose hair around her face didn't seem to move when the rest of the campers' clothes stirred in the returning wind.
+
+Zeus noticed where Percy was looking.
+
+"What troubles you, daughter?" he asked Thalia.
+
+"Nothing," she answered.
+
+"Then look at me when I speak."
+
+Thalia did. Percy could see the effort it took.
+
+"Tell me," Zeus said, "whether the boy of the sea has carried messages from his father's palace."
+
+Percy's first instinct was to answer for her. His father had sent messages. Everybody knew that. Silena was always showing the others scraps of notes tucked in boxes of shell buttons. But the question wasn't really about letters. It was about whether Thalia would stand in front of all of camp and begin reporting on Percy as though he were a prisoner.
+
+"He gets mail," Thalia said.
+
+"That wasn't what I asked."
+
+"Then ask a question that has an answer you can use."
+
+Thunder cracked, close enough that Percy felt it beneath his shoes. A few of the younger campers crouched. Chiron lifted a hand, urging them to stay calm.
+
+Annabeth moved closer to her sister. She didn't speak. For once Percy was grateful; whatever Thalia was going to say, she ought to be allowed to say it herself.
+
+Zeus's suit darkened from charcoal to nearly black. The seams of it flickered as though a fire burned behind the cloth.
+
+"I recall a daughter who understood duty," he said. "One who didn't answer a question with another question."
+
+Thalia's throat moved.
+
+"You remember the version of me you liked," she said.
+
+Percy saw Annabeth's face change. It wasn't surprise. It was recognition, painful and immediate, of a conversation she had probably heard before.
+
+"Take care how you speak," Zeus warned.
+
+Thalia looked at him steadily now. "You asked why I'm not answering. I don't know which answer you want, because every time you visit, you come as somebody else. Last time you had a different face and asked whether Annabeth was doing well in her lessons. Before that you asked why she hadn't written. You can look like anyone you want. But it's still you asking us to earn your attention."
+
+Percy wanted to reach for her. He couldn't get to her without crossing the open space. Beside him Clarisse pressed her spear into the grass as though anchoring herself against the storm.
+
+Zeus studied his elder daughter. Percy couldn't tell whether he was angry at the truth of her words or simply at the fact that she had said them in front of witnesses.
+
+"You confuse love with indulgence," Zeus said at last.
+
+"No," Thalia answered. "I know what indulgence is. You give us things when you want us to stop asking where you've been."
+
+Annabeth's hands flew to her mouth. She lowered them again before anyone else could notice.
+
+Zeus looked at her.
+
+"And you? Do you share this grievance?"
+
+Percy was almost certain he knew what Annabeth would do. Her instinct was to frame everything carefully enough that nobody could claim to have misunderstood it. He watched her struggle between answering her father and protecting Thalia from another punishment.
+
+"I have questions about why you came," she said. "You didn't ask to see us. You came to question Percy in front of the camp."
+
+"Perhaps I came for both."
+
+"Then you could have asked us separately."
+
+Zeus's expression sharpened. Percy expected another flash of lightning. Instead the god smiled, briefly, without warmth.
+
+"Would you have answered separately?"
+
+Annabeth swallowed. "I would have listened. I still won't spy on my friends."
+
+The distinction cost her. Percy could hear it. She wanted her father's visits to mean something besides punishment; she wanted to be able to talk to him as a daughter rather than a subject. Zeus was making those two things feel incompatible.
+
+Thalia put a hand behind Annabeth's back, just for a second.
+
+"Father," she said, "you don't need a spy to know what's happening at camp. Chiron keeps records. Ask him for something he can actually verify."
+
+Zeus turned his head toward the centaur. Chiron remained bowed, but his voice was clear.
+
+"I can report the camp's formal activities, my lord. I cannot certify private suspicions I have not investigated."
+
+"Very loyal," Zeus said.
+
+"I hope so."
+
+Percy held his breath. For a heartbeat the entire green seemed balanced on Chiron's next word. Then Zeus looked away from him and back at his daughters.
+
+"Your answer, Thalia."
+
+It was no longer a question about a messenger. It was a choice, and Percy hated that Zeus had found a way to make it look like a test of love.
+
 Thalia spoke first. Her voice was rough.
 
 "No."
