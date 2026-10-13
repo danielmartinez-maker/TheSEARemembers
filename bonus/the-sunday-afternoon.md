@@ -9884,3 +9884,237 @@ Tomorrow she would run her program. He would rehearse. At supper they might have
 The guitar string held.
 
 ---
+
+## Sunday, March 24: Before the Road
+
+The Sunday before Rhys left was sunny.
+
+Thalia thought that was an unnecessary act of kindness on the part of the weather. It would have been easier to dislike the day if it had arrived with rain, mud and a wind that made everyone regret leaving their cabin. Instead there was a pale blue sky, a clean stretch of light across the meadow and enough warmth to make the first buds visible on the lower branches.
+
+She had spent the morning reviewing the advanced program's final winter report. It was finished, approved and ready for the spring instructors. She could have taken the afternoon off without neglecting anything. She had made certain of that.
+
+At noon she left Cabin One carrying a small parcel, a book and the photograph case Rhys had made for her. Annabeth was sitting on the porch with a drawing across her knees.
+
+"Where are you going?"
+
+"North."
+
+"I could have guessed."
+
+Thalia stopped.
+
+Her sister looked up, smiling. There was no malice in it. She had known about Rhys for months, had watched Thalia learn how to be happy without turning happiness into another duty, and had decided to be quietly pleased about the result.
+
+"Are you going to miss him?" Annabeth asked.
+
+"Yes."
+
+"Are you going to be unbearable?"
+
+"Probably."
+
+Annabeth laughed. "Good. At least you've planned ahead."
+
+Thalia leaned over and straightened the edge of her sister's drawing where the wind had caught it.
+
+"Don't stay out here all afternoon," she said. "The light's changing."
+
+"I know."
+
+"Then move before the measurements become useless."
+
+Annabeth looked at her with supreme patience.
+
+"Go see Rhys."
+
+Thalia smiled and went.
+
+***
+
+He was waiting on the porch.
+
+She hadn't told him the exact time she'd arrive. She had merely said she wanted the afternoon, and he had apparently decided that meant looking down the path every few minutes until she appeared.
+
+"You've been watching for me," she said.
+
+He smiled. "Perhaps."
+
+"Very undignified."
+
+"I've learned from you."
+
+She came up the steps. He took her parcel, put it safely on the bench and drew her close. She kissed him, smiling at the familiar pleasure of finding him eager to see her. They had spent months learning each other's habits, and she could still feel the small thrill of being welcomed without question.
+
+When they separated, he looked at the objects she'd brought.
+
+"What's in the parcel?"
+
+"An item of great importance."
+
+"Should I be afraid?"
+
+"Yes."
+
+She carried it inside and set it on the table. He followed, closing the door against the wind. The cabin looked different now that spring was approaching. The window was open a little at the top, and the stove had been allowed to burn low. The workbench held his packed guitar case, a stack of music and the travel papers for the tour. It was unmistakably a room preparing for departure.
+
+Thalia didn't look away.
+
+She unwrapped the parcel. Inside was a pair of dark wool socks, newly made, with a narrow blue stripe around the cuff.
+
+Rhys stared at them.
+
+"You made these?"
+
+"No. I commissioned them from someone with more patience than I possess."
+
+"Why?"
+
+"Because your original striped socks were appalling."
+
+He laughed.
+
+"And these aren't?"
+
+"These are respectable."
+
+He took them and examined the neat knitting.
+
+"They're lovely."
+
+"Don't be dramatic."
+
+He put them down and kissed her. She answered eagerly, caught his collar and kept him close long enough that he began laughing softly against her mouth.
+
+"You knew I'd like them."
+
+"I had a suspicion."
+
+"Thank you."
+
+She smiled. He had asked for nothing grand; she had brought something practical that would travel with him, a small reminder of the hours they had spent arguing about the old pair.
+
+She took the photograph case from her bag and opened it. The two photographs lay inside, protected by the soft lining. One showed them laughing in the orchard. The other caught Rhys kissing her cheek. She had brought them because she wanted to look at them together once more before he left.
+
+He sat beside her on the cot.
+
+"That first one is terrible," he said.
+
+"Accurate."
+
+"You're shoving me."
+
+"You deserved it."
+
+He smiled and touched the edge of the second picture.
+
+"I like this one."
+
+"So do I."
+
+She looked at the captured moment, the surprise on her face and the visible pleasure in his. It was not an image of people who had solved anything about the future. It was an image of two people who wanted each other and had been happy for the space of one afternoon.
+
+She put the case away.
+
+"There's one more thing," she said.
+
+He looked at her, amused.
+
+"Another gift?"
+
+"No."
+
+She took his hand.
+
+"I don't want the next week to become a countdown. We both know you're leaving. We know what we can promise and what we can't. I want to enjoy the time we have."
+
+He nodded. "So do I."
+
+She looked at him. He wasn't waiting for a speech. He was looking at her with the familiar warmth that had drawn her to his cabin on the first Monday, months ago.
+
+She kissed him.
+
+It began softly, then deepened when he drew her closer. She felt the pleasant certainty of his answering eagerness, the warmth of his hand at her waist and the way he smiled when she caught his face between her fingers. They were alone, with no urgent work and no need to account for the afternoon to anyone else. She liked the quiet of that. She liked being able to reach for him without turning the wanting into something she had to justify.
+
+His hand moved to the back of her neck. She leaned into the touch, letting herself enjoy the familiar rhythm of their kisses. The window was open enough to carry in the scent of thawing grass. Light fell across the floorboards, the same bright square that had surprised her on the first Sunday she came here in daylight.
+
+She remembered the younger version of herself who had stood at this door determined to be bold, uncertain whether wanting a man made her less independent. She wished, briefly, that she could tell that younger self how unimportant the question would become. She had wanted him. She still did. She had also built her own program, learned to trust Annabeth's judgment and discovered ambitions that belonged to her alone.
+
+She didn't need to choose between those things.
+
+Rhys drew back, watching her face.
+
+"What?"
+
+"Nothing."
+
+He smiled. "You're doing the thinking thing."
+
+"An unfortunate habit."
+
+She caught his shirt and kissed him again.
+
+The afternoon moved around them, warm and unhurried. They let it remain private. The lamp was unnecessary in the daylight, and for once the stove was quiet. They stayed close until the brightness shifted toward the window, then let the rest of the day unfold without planning every minute.
+
+***
+
+At supper they ate the last of the bread Thalia had brought and a pot of soup Rhys had made that morning.
+
+He told her the tour's first performance was still scheduled for the second week of April. The musicians would gather earlier for rehearsals, and he would be traveling with two people he'd worked with at the audition. He was nervous about the opening night. She could hear it beneath his description of the schedule.
+
+"You're going to be good," she said.
+
+"You haven't heard the new arrangement."
+
+"I've heard enough."
+
+"That's a very questionable standard."
+
+She smiled. "Then send me the music."
+
+He nodded. "I will."
+
+She told him about the assistant instructor who had begun running parts of the advanced program without supervision, and the student who had finally learned to correct his own mistakes rather than arguing with the target. Rhys listened with real interest, asking questions that made her explain the parts she was proud of instead of merely listing the results.
+
+They talked until the soup was cold.
+
+Later he took out the guitar and played the familiar melody they'd worked on through the winter. Thalia listened from the cot, smiling when he reached the pause and let it remain a pause.
+
+When he finished, she went to sit beside him.
+
+"You finally learned how to play that," she said.
+
+"I had an excellent teacher."
+
+"Don't give me all the credit."
+
+"Only some."
+
+She leaned into him, resting her head against his shoulder. He put the guitar aside and drew the blanket around them.
+
+For a long while neither spoke.
+
+There would be letters again. There would be missed evenings and perhaps a visit in the middle of the tour if their schedules allowed it. There would be arguments about music, target distances, and who had failed to write when they'd promised to. It would not be easy all the time.
+
+Thalia found that she could imagine wanting it anyway.
+
+"Rhys."
+
+"Hm?"
+
+"I'll miss you."
+
+He turned toward her. "I'll miss you too."
+
+She kissed him, slow and warm, pleased by the familiar touch and by the fact that they could say something plain without demanding a grand answer.
+
+He drew her closer.
+
+Outside the window, the evening had begun. The north path would be dark soon, the lanterns lighting one by one along the hill. But she was not walking home yet. She had come for an afternoon, and she had chosen to stay for the evening as well.
+
+The room was warm. The tour papers remained on the workbench. The socks she'd brought him were folded beside the photographs.
+
+Nothing had to be settled tonight.
+
+She smiled against his shoulder, content to let the darkness come when it would.
+
+---
