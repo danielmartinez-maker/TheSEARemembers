@@ -822,4 +822,4 @@ They went to lunch arguing about whose project would be finished first. Beckendo
 
 Later, Percy found a copy of the safety checklist on his bed. Clarisse had brought it from the forge and marked the steps he was most likely to skip when excited. He wanted to protest that he had followed every instruction, then remembered the moment he'd asked whether water could be used to cool the metal before learning what alloy they were working with.
 
-He folded the list into his notebook. Next time he visited the forge, he would ask what the material needed before offering to help. Annabeth would probably have three new ideas by then, and Clarisse would still want to make a sharper weapon. He looked forward to both possibilities.
+He folded the list into his notebook. Next time he visited the forge, he would ask what the material needed before offering to help. Annabeth would probably have three new ideas by then, and Clarisse would still want to make a sharper weapon. He looked forward to both possibilities, including the mistakes they would certainly make and correct.
