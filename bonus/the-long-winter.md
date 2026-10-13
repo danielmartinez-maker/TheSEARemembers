@@ -2231,3 +2231,247 @@ She turned at the corner of the shed. "Don't get clever."
 He was still smiling as she left. She kept the private warmth of the conversation all the way up the hill, and she did not pretend she had gone to the range to inspect a bow rack.
 
 ---
+
+The decision not to go to Rhys's cabin survived precisely until supper.
+
+Thalia sat through half a bowl of lentils, listened to Clarisse explain that somebody had put the new lantern wicks in the wrong drawer, and tried not to look toward the north path every time a person crossed the pavilion. She told herself she was entitled to a night alone. She had had plenty of them before this week; she had always managed to fill the hours. She could read, check the boot wrap, go to bed and wake tomorrow without making a production of liking someone.
+
+Then Annabeth said, "Would you please stop moving your spoon?"
+
+Thalia looked down. She'd been pushing the lentils in a slow circle for several minutes.
+
+"Eat," Annabeth added. "Or go do whatever you're thinking about."
+
+"I wasn't thinking about anything."
+
+"Then you've been conducting a fascinating experiment on soup."
+
+Thalia ate three decisive spoonfuls. It proved nothing. By the time the plates were cleared, she had made up her mind that she wanted to see Rhys, and once she'd admitted it, there was no pleasure in sitting around pretending otherwise.
+
+She walked north without the borrowed coat this time. The cold was sharper than she had expected, and she was halfway up the path when she considered going back for it. That would have been sensible. She kept walking.
+
+There was light in the cabin window. She stepped onto the porch and knocked.
+
+The sound surprised her. On Monday she'd made a point of entering without asking, as though making a dramatic entrance might resolve all the questions she'd been carrying. Now she had an ordinary reason to knock: he might not want company. He might be working, or tired, or in the middle of a letter to his mother. She didn't want to assume the right to interrupt merely because they'd kissed.
+
+She knocked a second time.
+
+Nobody answered.
+
+The door wasn't locked. She could have opened it and waited by the stove. She had done that before, and it wouldn't have been dangerous or particularly scandalous. But the thought stopped her: she was about to turn a possibility into a claim. She had decided she wanted him; that did not oblige him to be waiting.
+
+She sat on the porch step instead.
+
+After ten minutes the cold had worked into her hands. She regretted not bringing the coat with a force out of proportion to the problem. She could go home. Rhys might be another hour. The idea of admitting she'd come all this way for nothing was irritating enough that she stayed another five minutes.
+
+A figure came up the path carrying a paper bag and a rolled cloth.
+
+"Thalia?"
+
+Rhys stopped beneath the porch lamp. He looked genuinely surprised.
+
+"I didn't know you were coming."
+
+"I didn't either until about twenty minutes ago."
+
+He took in her bare hands and the thin shirt under her jacket. "You look frozen."
+
+"I'm entirely capable of being frozen."
+
+"That's very impressive."
+
+He came up the steps and put the paper bag down. His expression was warm, but she could see him thinking.
+
+"Did you try the door?" he asked.
+
+"I knocked."
+
+"Twice?"
+
+"Yes."
+
+"Why didn't you go in?"
+
+She considered the question. "Because you weren't here."
+
+"That's the usual reason to go inside and wait."
+
+"Not when you're not expecting me."
+
+He looked at her for a moment, then smiled.
+
+"I like that you thought about it."
+
+"Don't praise me for basic manners."
+
+"I'm not. I'm saying it matters."
+
+He opened the door and stood aside. She went in first, glad of the heat, and found the cabin unchanged since the last time she'd left it. A bow lay on the bench. The blue thread had been wound neatly onto a spool. The slate by the door carried the laundry instructions under two lines of camp gossip, both written in different hands.
+
+Rhys put the paper bag on the table.
+
+"What is that?" she asked.
+
+"Dinner."
+
+"You already ate?"
+
+"No. I was at the kitchen. They had extra bread and some stew that won't survive another day."
+
+"I ate."
+
+"That's tragic. You'll have to watch."
+
+He found a bowl and spoon. She remained by the stove until the feeling returned to her fingers, then took the chair opposite him. He ate with the unembarrassed appetite of someone who had spent the day carrying equipment. It was unexpectedly nice to watch. She was used to his careful concentration over a bow or his attention when she spoke. Here he was simply hungry, spilling a little stew onto the table and cursing his own carelessness.
+
+"Is that how you're going to eat when I'm here?" she asked.
+
+"It's how I usually eat when someone isn't inspecting me."
+
+"An appalling standard."
+
+"You can file a complaint."
+
+She reached across and wiped the spill with the edge of a cloth. He caught her hand gently.
+
+"Leave it," he said. "I'll clean up when I'm finished."
+
+"I was helping."
+
+"I know."
+
+She looked at him. There was no criticism in his voice, but she had come into the room and immediately started fixing something that wasn't her responsibility.
+
+"You do that a lot," he said.
+
+"Stop me?"
+
+"Turn into an instructor when nobody asked you."
+
+She withdrew her hand. "I can stop."
+
+"I wasn't asking you to stop being useful. I was asking you to be here."
+
+That was an answer she couldn't immediately fight. She settled back in the chair. He finished his stew, washed the bowl himself, and came to sit beside her.
+
+"Better?" he asked.
+
+"Marginally."
+
+He smiled. "Good."
+
+They sat in silence. She was aware that she had arrived without a plan and that he hadn't asked for one. It was a relief. She'd thought she needed a reason to come, and she'd spent fifteen minutes in the cold making sure she wasn't intruding. Now she was here, and nobody was treating the visit as an obligation.
+
+Rhys touched her hand. "Can I ask you something?"
+
+"You're going to anyway."
+
+"Do you want a night like Monday, or do you just want to sit with me?"
+
+She stared at him. The question was plain enough, yet she felt embarrassed by how much she appreciated being asked.
+
+"I don't know," she said.
+
+"That's allowed."
+
+"I'm not usually undecided."
+
+"You've been undecided about almost everything this week."
+
+"That's a vicious accusation."
+
+"It's a factual one."
+
+She gave him a sharp look, but he was smiling. She took his hand and moved closer, enough that their knees touched.
+
+"I wanted to see you," she said. "I didn't think much beyond that."
+
+"Then we can start there."
+
+She kissed him. Not to end the conversation, but because the conversation had reached a place where there was nothing left to negotiate before she could do it. He kissed her back, one hand warm against her shoulder, and she felt the frustration of the day dissolve without needing to explain each piece of it.
+
+When she drew away, she stayed close.
+
+"Is this all right?" she asked.
+
+"Very."
+
+"Good."
+
+He smiled. The smile bothered her in the nicest possible way.
+
+"You know what?" she said.
+
+"What?"
+
+"I don't think I have to win every conversation with you."
+
+"That will be a relief to the entire camp."
+
+"Don't push it."
+
+He laughed, and she leaned in to kiss him again.
+
+For a while they were quiet. The room had its own rhythm: the stove settling, the occasional creak of the boards, the thin sound of rain beginning against the window. She liked that they could be together without a declared purpose. She could rest against him and still feel like herself. She could speak, or not, without having the silence interpreted as trouble.
+
+Then Rhys said, "I have to tell you something."
+
+Thalia stiffened.
+
+"It's not terrible," he added.
+
+"Then don't introduce it that way."
+
+He glanced toward the workbench. "My mother wrote this morning. She needs me to look over a few things at home before winter is over."
+
+The words took a moment to settle. She knew he had a life outside camp. She knew he had left before and would leave again. Knowing didn't prevent the first small, unreasonable sting.
+
+"When?"
+
+"I don't know yet. Nothing immediate."
+
+"Then why tell me now?"
+
+"Because you were sitting on my porch waiting for me, and I thought you deserved to know there's a part of my life that might take me away for a while."
+
+She looked at him. It would have been easy to turn the conversation into an argument about whether he had a right to leave. She didn't want to do that. He did have a right. So did she.
+
+"I don't want to make you choose between this and your family," she said.
+
+"I wouldn't ask you to."
+
+"And I don't want you making decisions for me because you think I'll react badly."
+
+He nodded. "I won't."
+
+"You have to tell me when you know."
+
+"I will."
+
+She studied his face for a moment and found that she believed him. Not because he'd said it beautifully, but because he had been willing to say the awkward thing before it became urgent.
+
+"Fine," she said.
+
+"Fine?"
+
+"Fine. Now kiss me again."
+
+He smiled, relieved and still a little wary. "You sure?"
+
+"Very."
+
+He did, and the kiss was not an answer to the question of whether he would leave. It was only the answer to what she wanted from him right now. They had both said what needed saying. The future could remain unfinished without spoiling the present.
+
+She stayed until the lamp burned low. At the door he found the spare scarf and wrapped it around her neck, ignoring her claim that she wasn't cold. She accepted it after a brief argument, mostly because she'd arrived without a scarf and knew perfectly well that she was cold.
+
+"Bring it back," he said.
+
+"Maybe."
+
+"You're going to run out of reasons to visit if you keep stealing my clothes."
+
+She smiled. "I'll invent new ones."
+
+He looked pleased by that. She kissed him once more and went down the path, the scarf warm against her face, already thinking of how she would tell him that his stew had looked terrible and that she'd liked his company anyway.
+
+---
