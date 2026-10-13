@@ -3222,3 +3222,183 @@ She looked at him. He was standing in the cold with the camera bag over one shou
 They continued up the path, hands linked, without bothering to decide whether the photograph had been a perfect success. It was theirs. That mattered more.
 
 ---
+
+Friday was supposed to be an ordinary evening.
+
+Thalia had insisted on it. She had told Rhys not to plan anything, not to cook an elaborate dinner or organize an outing, not to turn the remaining nights into a ceremony. She wanted to be with him without having to think about how many days were left before he went home.
+
+It was a good idea in theory.
+
+In practice, she spent the entire afternoon counting time.
+
+At five she was at the north path, walking slowly because the ground had frozen again. At a quarter past she reached his porch and stood there for a moment, collecting herself. She had been here often enough that the door no longer felt like a threshold she needed courage to cross. That was precisely why the thought of a few weeks apart hurt.
+
+She knocked.
+
+Rhys opened the door with flour on his sleeve.
+
+She stared. "What did I say about elaborate plans?"
+
+He looked down at the flour, then back at her. "I was making bread."
+
+"That sounds suspiciously like a plan."
+
+"I was hungry."
+
+"Convenient excuse."
+
+He laughed and stepped aside. The room smelled of baking, warm wood and the faint bite of something sweet in the air. The workbench was covered with a clean cloth, and two loaves rested near the stove. He had also put a jar of cider on the table and brought the extra blanket down from the shelf.
+
+"You prepared," she said.
+
+"I cleaned."
+
+"That's more alarming."
+
+"Would you like me to put everything back?"
+
+She shook her head and smiled despite herself. "No."
+
+He closed the door behind her. For a moment they stood looking at each other, both aware that this evening mattered more than either wanted to admit.
+
+Thalia moved first.
+
+She crossed the small distance between them, put her hands against his chest, and kissed him. He responded immediately, one arm around her waist and the other hand resting at the back of her neck. The kiss lasted long enough that she forgot the remark she'd been preparing about his flour-stained shirt.
+
+When they drew apart he was smiling.
+
+"Hello," he said.
+
+"Hello."
+
+"You could have said that first."
+
+"I considered it."
+
+He laughed. She drew him closer again, enjoying how readily he came, how familiar his warmth had become. There was no need to negotiate whether they were allowed to want each other. They had already done that work. The question now was what they wanted to do with the time they had.
+
+Rhys caught her hand.
+
+"Do you want to eat?"
+
+"Eventually."
+
+"That's not a useful answer."
+
+"It's the one I've got."
+
+He looked at the loaves, then at her. "The bread can wait."
+
+"At last, a sensible man."
+
+She kissed him again. The small room felt warm and private, with the stove ticking and the wind moving through the pines outside. She could feel his fingers rest against her wrist, the way he paused to make sure she was still comfortable, the smile that returned each time she looked at him. It was more intense for being familiar. She knew his habits now, and he knew hers, and the knowledge made it easier to be direct rather than cautious.
+
+They settled on the cot with the blanket over their knees. She leaned against him, and he held her close, neither speaking for a while. The evening had begun with anticipation, but the quiet afterward was just as pleasing. She could spend an hour like this and not feel that she'd failed to make the most of it.
+
+"Do you think we're being ridiculous?" she asked.
+
+"About what?"
+
+"Acting as if a few weeks apart is the end of the world."
+
+He considered. "I think we're going to miss each other."
+
+"That's not the same thing."
+
+"No. But it doesn't feel trivial."
+
+She rested her head against his shoulder. "I hate how much I want you here."
+
+He looked down at her. "I want to be here."
+
+"I know."
+
+"And I want to go home and help my mother."
+
+"I know that too."
+
+He kissed the top of her head. She turned and met his mouth, letting the kiss linger. She had wanted this evening for herself, but she didn't want to turn his departure into proof that he cared less. She wanted him to be able to leave without either of them having to apologize for the desire to stay.
+
+After a while, they got up to eat. The bread was good, warm and slightly uneven, and Thalia told him it was terrible just to watch his expression.
+
+"Liar," he said.
+
+"Prove it."
+
+He offered her another slice. She took it immediately.
+
+"Convincing evidence," he said.
+
+They ate sitting across from each other at the cleared table. Rhys told her that the travel arrangements were mostly settled. The camp would send the small supply van toward the station on Sunday, and he could ride along rather than arrange a separate trip. He had written to his mother with the details. He still didn't know the exact date of his return.
+
+Thalia listened, then nodded.
+
+"Good," she said.
+
+"You don't have to say it's good if it isn't."
+
+"It's good that you know how you're getting there. I don't have to enjoy the reason."
+
+He smiled faintly. "Fair."
+
+She reached across the table and took his hand. The gesture felt more intimate than she'd expected, perhaps because it belonged to a conversation neither of them could avoid.
+
+"Will you take the photograph?" she asked.
+
+"Yes."
+
+"And the music?"
+
+"Some of it."
+
+"Take the rest too."
+
+"Are you assigning me homework?"
+
+"I'm protecting your mother from the terrible arrangement you were going to send her."
+
+He laughed. She liked the sound more than she could say.
+
+After dinner they cleared the dishes together. Rhys put the remaining bread away, and Thalia folded the cloth from the workbench. Their movements had become comfortable in the small space, no longer a series of polite negotiations about who should do what. He could brush past her without making the touch an event. She could catch his hand and hold it for a moment simply because she wanted to.
+
+When the room was tidy, she stopped him by the table.
+
+"I want to stay tonight," she said.
+
+He looked at her. "I'm glad."
+
+"But I don't want tomorrow to be a countdown."
+
+"Then it won't be."
+
+"And I don't want us making promises because we're afraid of leaving."
+
+"We won't."
+
+She studied his face. He looked as serious as she felt, and she was suddenly tired of seriousness.
+
+"Good," she said. "Now come here."
+
+He laughed, then kissed her.
+
+The rest of the night was theirs. They had time to be affectionate, to enjoy the anticipation they had built all week, and to settle into quiet when they wanted quiet. There was no performance and no obligation to make the evening unforgettable. The desire between them was real enough without a script, and the intimacy mattered because both of them kept choosing it.
+
+Later, beneath the quilt, Rhys traced a small circle on the back of her hand.
+
+"You were right," he murmured.
+
+"About what?"
+
+"The bread."
+
+She looked up. "It was terrible?"
+
+"No. It was good. You were right that we didn't need anything elaborate."
+
+She smiled. "I usually am."
+
+"I've noticed."
+
+She kissed him one last time before the lamp went out. She knew Sunday was coming. For tonight, she was content not to meet it ahead of time.
+
+---
