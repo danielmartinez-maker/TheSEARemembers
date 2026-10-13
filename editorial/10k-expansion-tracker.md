@@ -8,11 +8,13 @@
 
 **31 / 31 Chapters 014–044 meet the 10,000-body-word minimum**, each freshly fetched and recounted on this branch. The "first 36 chapters" table farther below records an earlier baseline and is **superseded** for Chapters 014–036. Do not use its old figures to plan subsequent work.
 
-The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,014; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,039**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
+The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,014; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,052**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
 
-Check: **126,339 overlapping 300-word windows** across those final 13 chapters, with zero exact cross-chapter matching sequences, plus single heading and UTF-8 replacement-character checks. This was **not** a full 31-chapter repeat check, a semantic similarity review, a CI run, or a final editorial signoff. Chapters exactly at 10,000 words have no deletion margin.
+Check: **126,352 overlapping 300-word windows** across those final 13 chapters, with zero exact cross-chapter matching sequences, plus single heading and UTF-8 replacement-character checks. This was **not** a full 31-chapter repeat check, a semantic similarity review, a CI run, or a final editorial signoff. Chapters exactly at 10,000 words have no deletion margin.
 
 Full counts, canon corrections and the Chapter 044 continuity handoff: [Chapters 014–044 final 13 editorial handoff](handoffs/ch014-044-final-13-length-qa-2026-10-12.md).
+
+**Follow-up:** Chapter 036 now has **10,085 words** after removing an unapproved disclosure of Percy and Annabeth's erased history to Thalia. Chapter 043 now has **10,052 words** after a related correction to its Thalia/Silena dialogue. Rechecked a 300-word exact-repeat scan across the 13 targeted chapters **and Chapter 036**: **136,138 windows**, zero exact cross-chapter repeats (13-only subset: 126,352).
 
 ## Historical baseline length status on the first 36 chapters (superseded)
 
