@@ -908,7 +908,23 @@ That evening Annabeth returned to the attic with mud on her boots and new figure
 
 They spent the next hour doing ordinary homework. The bridge would still be there in spring.
 
-On the last day of fall, the day before December, Percy and Annabeth studied in the attic until the light went blue through the round window. Outside, the first snow hovered, uncertain, over the strawberry fields. Inside, the radiator clanked. Annabeth's bridge model sat finished on the table, balsa wood and glue and perfect angles. Percy's Greek reader lay open to a passage he could actually read now, slowly, feeling the meter like a wave.
+On the way to dinner, they stopped by the workshop to return the measuring cord. Milo had left the failed brace on the counter beside a sheet explaining where the load had gone wrong. A younger camper was studying it and trying to copy the joint with scraps of wood.
+
+"Can I use this for my winter project?" the camper asked Annabeth.
+
+"Yes," she said. "But read the part about the supports first."
+
+The camper pointed to the notes. "I did. I'm going to test two versions."
+
+Annabeth looked surprised, then pleased. She watched him mark the next piece, and for once she didn't try to correct his drawing before he'd finished it.
+
+Percy tugged her sleeve toward dinner. "Come on. You can't supervise everybody's homework."
+
+"I know."
+
+She looked back once more. The failed model was still useful to somebody.
+
+On the last day of fall, the day before December, Percy and Annabeth studied in the attic until the light went blue through the round window. Outside, the first snow hovered, uncertain, over the strawberry fields. Inside, the radiator clanked. Annabeth's revised bridge model sat on the table, newly assembled from balsa wood and glue, its supports shifted upstream on the plan. It had not yet passed another load test. Percy's Greek reader lay open to a passage he could actually read now, slowly, feeling the meter like a wave.
 
 Annabeth reached over without looking up from her notes and took his hand on the table between them. Openly. Easily. Like breathing out before breathing in.
 
