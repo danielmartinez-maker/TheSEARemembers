@@ -242,7 +242,7 @@ Annabeth closed her notebook with a snap. "Finally. Took him long enough."
 
 Dusk poured honey over the canoe lake.
 
-Percy and Annabeth took out a canoe without asking, paddles shipped quiet, life jackets left folded under the dock bench — a minor rule broken in the name of birthday privilege. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
+Percy and Annabeth signed out a canoe from the evening dock watch, checked their paddles and fitted their life jackets before they pushed off. Birthday or not, the lake rules still applied. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
 
 They drifted to the middle and let the paddles rest across their knees. Ripples spread and flattened. The sun hung low over the strawberry fields, orange bleeding into pink. Clouds stacked purple at the edges. The far shore trees stood black-green and still. Somewhere, the dinner conch would sound soon. For now, only water and insect hum and the faint creak of the dock ropes.
 
