@@ -140,6 +140,104 @@ Family reshuffled. Not lost.
 
 ---
 
+Beckendorf had prepared three workstations by the time the group arrived. Each had a different set of tools, and each belonged to a project with a different level of risk.
+
+He asked them to stand behind the marked line while he explained the plan. Percy and Clarisse were assigned to learn basic metal shaping with supervision; Silena could work at the cooler finishing bench; Annabeth had a small architectural model to assemble under the eye of a trained forge worker.
+
+Thalia was the only one who objected.
+
+"I thought we were all making things together."
+
+"You can," Beckendorf said. "But that doesn't mean everyone handles the same equipment at the same time. Your sister's model uses a torch. The others don't need to stand over her shoulder while she's doing it."
+
+Thalia looked at Annabeth. Her younger sister had spent days drawing a design and had been excited to show it to the group. Thalia wanted to be part of that. She didn't want to be told that helping required standing somewhere else.
+
+"Can I work on the non-heated pieces?" she asked.
+
+"Yes. I have files and cold stock for you. We'll set up your station beside hers once the hot work is finished."
+
+That was a reasonable compromise. Thalia accepted it grudgingly.
+
+Beckendorf began with a safety briefing. The forge was not a place where enthusiasm or magical parentage excused anybody from checking the tools. Metal stayed hot after it stopped glowing. A quenching tank could throw steam into someone's face if the piece was submerged carelessly. The tongs used on steel were not the same as the ones intended for delicate bronze fittings.
+
+Percy raised a hand. "Can I use my water to help cool things?"
+
+"Only when I authorize it," Beckendorf said. "A controlled flow can be useful, but cooling a heated part too quickly can make it crack. We decide based on the material and what we want it to do afterward."
+
+"That sounds less fun."
+
+"It's much less fun than breaking a piece you spent three hours making."
+
+Clarisse looked at Percy with satisfaction. "Somebody finally said it."
+
+Percy grinned and put his hands in his pockets.
+
+Annabeth was examining the brass clamps on the first workstation. She had seen similar tools in the life she remembered, although the forge at this camp had equipment she hadn't used before. She recognized the temptation to pretend she could handle all of it because she understood the principle.
+
+"Which joints do you want me to practice first?" she asked.
+
+Beckendorf gave her two pieces of scrap and a diagram of a simple right-angle connection. "These. If you can make the joint hold under a basic test, we'll move to your model."
+
+She looked at the scrap, then at her own rolled plan. The work was more elementary than she'd hoped.
+
+"All right," she said.
+
+She worked carefully. The first connection looked straight but failed when Beckendorf applied pressure. Annabeth was frustrated because she thought the neat line proved she'd placed the material correctly. He showed her the gap beneath the visible surface.
+
+"Pretty doesn't mean joined," he said.
+
+She examined the failure, then tried again with a slower application. The second joint was less elegant. It held.
+
+Thalia watched from the next station. "So the ugly one works."
+
+"Yes," Annabeth said, without looking up. "Unfortunately."
+
+"Then you'll have to build something ugly and reliable."
+
+Annabeth gave her a look. Thalia smiled.
+
+They spent the next hour practicing on scrap. Clarisse learned how to heat a small bar without losing control of the tongs. Percy practiced using the quench tank with ordinary measured water, under Beckendorf's direction. Silena found that finishing a piece required far more patience than she expected; the file had to move in the same direction, and a small mistake could leave a visible scratch.
+
+At one point she stopped and examined the metal.
+
+"I think I've ruined it."
+
+Beckendorf came to look. "You've made a scratch. You can remove it, but you'll have to take down the surrounding surface so the finish remains even."
+
+"That's a lot of work for one mark."
+
+"That's why we test on scrap."
+
+She nodded and began again. The work was frustrating in a different way from the social tasks she usually enjoyed. It did not become easier because she was charming or quick to notice what another person needed. Her hands had to learn something, and the metal didn't care whether she was in a good mood.
+
+When the bell sounded for a short break, the group left its tools in the assigned trays. Beckendorf checked the quench tank, recorded which pieces were hot and sent them outside with instructions to drink water and eat something before returning.
+
+Thalia stopped beside Annabeth, who was carrying the failed joint in a small metal tray.
+
+"Keeping that?"
+
+"Yes. I want to remember why it didn't work."
+
+"Very sentimental."
+
+"It's evidence."
+
+Thalia looked at the crooked joint, then at the carefully straight one that had failed. She could see why Annabeth wanted both. The difference between a good-looking solution and one that held under strain was something they'd been learning outside the forge too.
+
+"Can I help with the model when we come back?" she asked.
+
+"Yes. But let me do the heated joints. I want to learn them."
+
+Thalia nodded. The agreement pleased her more than she expected. She could help her sister without needing to be the person who did the dangerous part.
+
+They went to the picnic table under the shade with the others. Percy handed out water bottles and Clarisse complained that making a spearhead involved an unreasonable amount of not hitting things. Silena was still inspecting the scratch on her practice piece as though the metal had insulted her personally.
+
+Beckendorf watched from the forge door. He had been worried the group would arrive wanting to make magical weapons and leave impatient when the work turned out to be ordinary and difficult. They were impatient. They also seemed willing to return.
+
+
+
+---
+
 Annabeth loved the forge the way some people loved libraries.
 
 Which sounded insane, she knew, because it was loud and hot and smelled like sulfur and sweat, and the floor was gritty with scale and the air shimmered over the forges. But it was also a place where things were made on purpose. Where you started with a drawing and ended with an object that hadn't existed before. Where measurements mattered and patience mattered and if you did it right, the thing held.
