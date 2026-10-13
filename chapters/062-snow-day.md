@@ -546,7 +546,7 @@ Percy and Annabeth looked at each other, faces inches apart, both flushed and br
 
 They sat up together and pelted their sisters simultaneously. Both sisters screeched.
 
-The battle raged for the full twenty minutes. Alliances shifted. The Stolls defected to both sides for snacks. Tyson got hit three times and marched proudly to the cider bench to tell Ella a joke about Cyclopes that took five minutes and made her write three pages. Silena took out both Zeus kids with two perfect throws and then got taken out by Thalia in a diving slide that drew applause.
+The battle raged for the full twenty minutes. Alliances shifted. The Stolls defected to both sides for snacks. Tyson got hit three times and marched proudly to the cider bench to tell Ella a joke about Cyclopes that took five minutes and made her write three pages. Silena took out both borrowed Hermes campers with two perfect throws and then got taken out by Thalia in a diving slide that drew applause.
 
 In the end, it was Clarisse and Percy versus Thalia and Annabeth, all four of them snowy and panting and down to fists full of slush.
 
@@ -1183,6 +1183,30 @@ They walked back toward the lights together, leaving two sets of footprints side
 Snow still sifted down, soft and slow. The camp glowed gold at the edges. Somewhere up the hill, Thalia laughed. Somewhere by the lake, Clarisse shouted. Somewhere in between, Grover played a hesitant reed pipe tune while Ella recited jokes to the stars.
 
 Percy swung their joined hands once, and Annabeth swung back.
+
+Percy was halfway to the cabins when he realized he'd left his blue hat by the little owl.
+
+"Go on," he told Annabeth. "I'll catch up."
+
+She looked at the sky. "The light's going. Don't trip over the frozen path."
+
+"That's only happened twice."
+
+"Three times."
+
+He retraced his steps along the snowmen. The camp looked different now that the games were over. The drifts had been pushed aside, exposing the dark gravel beneath them. The roof over Cabin Ten was no longer carrying the dangerous weight from morning. The serviceberry by the north fence stood wrapped and protected. Tiny points of light glowed from the windows of the year-round cabins.
+
+He found the hat beneath the owl's left wing, where he'd taken it off to adjust the beak.
+
+The owl had started to soften in the fading daylight. One black pebble eye had slipped down the side of its face. Percy lifted it back into place, then stopped. He couldn't make a snow sculpture last any more than he could make a summer stay. He could keep the pebble, perhaps, once the owl melted. He could tell Annabeth the story afterward.
+
+He decided to leave it where it was for the night.
+
+When he reached Cabin Three, Clarisse had hung the wet gloves near the stove and Silena had put Tyson's giant empty wool cap over a chair to dry. There was a little puddle beneath the door. Nobody had bothered to make the cabin neat yet.
+
+Percy liked the mess. It had been made by people who were here, who would wake tomorrow and complain about whose boots were in the way. He found a place for his hat beside the others, changed into dry socks, and went to dinner.
+
+Annabeth had saved him a seat.
 
 Snow day, with family. Sea and sky. Together.
 
