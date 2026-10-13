@@ -62,6 +62,122 @@ Percy knew that was true. He had seen the sketches with PUNCH TABLE — KEEP AWA
 
 ---
 
+The Big House was already full of people who had opinions about furniture.
+
+Annabeth was on the floor with a tape measure, trying to show Travis why the punch table couldn't stay directly beside the doorway. Travis kept moving it back because the table was heavy and he'd already carried it across the room twice.
+
+"People will stop here as soon as they come in," Annabeth said. "Then nobody behind them can get through."
+
+"Then people should keep walking," Travis answered.
+
+"Have you ever watched people enter a room with free cookies?"
+
+Travis considered that. "All right. Fine. Move it."
+
+He put his shoulder against the table. Percy took the other end without being asked, and they pushed it toward the side wall. Annabeth watched the feet, pointed out the crooked leg and made them stop before the wood scraped the floor.
+
+The actual problem was the room's shape. It had been built for meetings, not dancing. Two doors opened inward. One wall held the old fireplace, and the other had windows that needed to remain accessible. The Hephaestus kids had offered to set up a small raised platform for the musicians, but the platform would narrow the path between the chairs and the exit.
+
+"We don't need a raised stage," Annabeth said.
+
+Austin from Apollo looked wounded. "We're performing."
+
+"You can perform from the floor. People will still hear you."
+
+"But the audience needs to see the band."
+
+"Then use fewer chairs in front. Or put the musicians near the far wall."
+
+He looked over the diagram. "We'd have to move the speakers."
+
+"Yes."
+
+Percy watched the argument. He knew Annabeth didn't care about winning it for the sake of being in charge. She had spent winter sketching the bridge because people needed to cross a muddy creek safely. Here the problem was a room full of children who would arrive at the same time, spill punch and move unpredictably. It was a small building problem and therefore exactly the kind she liked.
+
+The discussion grew louder when the dryads arrived with vines.
+
+"We can't fasten them to that beam," a dryad told Annabeth. "The wood is too dry. We can hang them along the window frames."
+
+"Not across the window latches."
+
+"Then lower, near the wall."
+
+"People will catch their clothes."
+
+The dryad sighed. "Do you want flowers or not?"
+
+"Yes," Annabeth said. "I want flowers that don't make anyone fall."
+
+Percy was beginning to suspect the dance might be canceled by sheer exhaustion.
+
+Chiron arrived and examined the new layout. He asked how the musicians would reach the door if they needed to leave during the dance. Annabeth pointed to the clear path she'd marked. Then he asked whether children in chairs or anyone with an injured leg would have space to move around the room without crossing the dancing area.
+
+She looked down at the drawing.
+
+"I made the path wide enough," she said.
+
+"Have you tested it?"
+
+"Not yet."
+
+"Then let's test it."
+
+They borrowed a wheelchair from the infirmary and rolled it along the proposed route without anyone seated in it. The corner by the fireplace was too tight. Annabeth measured again, moving the nearest chairs and the punch table farther from the turn. The second attempt worked.
+
+"Good," Chiron said.
+
+Annabeth smiled for perhaps half a second. Then she noticed the cookie table had become the new obstruction.
+
+"Oh, come on."
+
+Percy laughed so loudly Travis looked offended.
+
+"Do you think this is funny?" Annabeth asked.
+
+"Only a little."
+
+"Then come help with the cookies."
+
+They finally reached an arrangement that allowed room to dance, room to sit and a way out that didn't require moving three tables. The musicians accepted a floor-level performance area with good sightlines. The dryads kept their vines near the ceiling, safely away from lamps and handles. Mr. D claimed the punch table would be his responsibility because he'd heard the Stolls planned to use it for a practical joke.
+
+As the others began carrying the furniture into position, Annabeth rolled up the layout.
+
+"I might not have time to do my hair on Saturday," she said, mostly to herself.
+
+Percy looked at her. "Silena said she'd help you."
+
+"That doesn't mean I can arrive late to my own planning job."
+
+"Maybe you don't have to be here for every chair."
+
+She glanced toward the band and the tables. Her instinct was plainly to say she did.
+
+"You can assign somebody to check the layout at the end," Percy suggested. "Milo knows how to measure. Chiron can check the exits."
+
+Annabeth thought about it.
+
+"Then Milo will need the drawing."
+
+"Give it to him."
+
+She did. He asked two questions about the window clearance, wrote the answers directly on the plan and went to find a pencil sharpener. Annabeth stood watching him go, surprised at how difficult it was to hand over something she'd planned.
+
+Percy took her empty measuring tape and coiled it.
+
+"You know the dance is supposed to be fun for you too," he said.
+
+"I know. I just don't want everybody tripping."
+
+"You've made that very clear."
+
+She laughed. "All right. I'll stop before the entire camp starts hiding the furniture from me."
+
+They left the Big House with one job actually finished. Percy was still worried about asking her formally. He also knew exactly why he wanted to go with her: even when she made ordinary arrangements complicated, she cared about people having a good time rather than merely being told one had been arranged for them.
+
+He'd better not spend three more days rehearsing a speech about that.
+
+---
+
 At lunch the pavilion curtains were tied back to let the breeze through. Little jars of wildflowers sat on the tables.
 
 Percy kept glancing at the Zeus table where Annabeth sat with Thalia. Annabeth's blond hair was in a lopsided braid Thalia had done. She wore a light blue sweater Silena had lent her and talked with her hands, drawing rectangles in the air. Thalia stole grapes off her plate. They looked like sisters, which they were, same stubborn chin and narrowed gray-blue eyes when thinking.
