@@ -1472,6 +1472,64 @@ He grinned. "When?"
 
 Annabeth laughed. Percy groaned and began arguing about how the last point should have counted.
 
+When the argument about the point finally died down, Percy took the scoring sheet from the desk and unfolded it.
+
+"Actually, there's something I meant to ask you," he said.
+
+Clarisse looked suspiciously at the paper. "This isn't an appeal."
+
+"No. The Hermes boy who fell wants another attempt at the rescue-carry station. He asked whether he could practice with the Apollo campers before the next assessment."
+
+"Did you tell him yes?"
+
+"I told him I'd ask you. You're still in charge of the criteria."
+
+Clarisse examined the page. The boy had improved during the session, but his first score was low. He'd made an unsafe choice, and she'd been right to mark it down. That didn't mean the score had to become a permanent verdict on whether he could learn.
+
+"Tell him he can practice," she said. "I'll schedule a second assessment when there's enough room to do it safely."
+
+Percy nodded. "Do you want me to supervise?"
+
+"Chiron needs to approve it. But if he does, yes."
+
+He smiled. She raised a finger before he could turn the invitation into a celebration.
+
+"You'll need another helper, and you will stop the exercise at the first safety problem. Not the second."
+
+"I know."
+
+"Then write the plan down."
+
+He took her pencil and began making notes. Clarisse watched him leave room for the second helper's name, the equipment list and Chiron's approval. The sheet no longer depended on her being in the arena every moment to explain what it meant. She was relieved and mildly offended by the improvement.
+
+Silena checked the time and started putting the last brushes into a jar.
+
+"I have a fitting at the garden room tomorrow," she said. "The painted sign's staying where it is, but Katie wants a smaller label for the winter herbs."
+
+"You're still painting that?" Percy asked.
+
+"If she decides she wants it, yes. If I have time."
+
+Clarisse looked up. "You're not on my training roster tomorrow."
+
+"I know. I was telling you because you asked earlier."
+
+"Good." She hesitated. "If you need the small hammer, take it. Just bring it back before I start the next assessment."
+
+Silena smiled. "I can do that."
+
+Annabeth reached for her book near the door. "I have a drawing appointment with Chiron. Percy, are you coming to the library afterward?"
+
+"As long as Clarisse doesn't assign me a surprise tournament."
+
+"No surprise tournament," Clarisse said. "For once."
+
+Percy looked delighted. "I'd like to get that in writing."
+
+"Don't push it."
+
+He folded the scoring sheet and put it somewhere safe. Annabeth waited for him at the door while he checked whether the practice spear had been returned to the rack, and Clarisse let him finish instead of taking the job from his hands. He'd learned where it belonged. She'd taught him.
+
 Silena went back to her brushes. Clarisse sat on the edge of her bunk and listened to them bicker. She had a training sheet to finish tomorrow, a sister's painting to admire and a little brother who was getting harder to beat.
 
 Those were good problems to have.
