@@ -562,23 +562,42 @@ In four days it would be in a canvas sack on a hook at the end of the road, and 
 
 And Annabeth Grace sat at a fire she had helped lay, under a quilt that belonged to the person next to her, with her sister's terrible functional braid in her hair, and understood, precisely and completely, that she had had a day. Not a Saturday at the beach, not a birthday, not a quest. A Sunday in September with nothing in it: breakfast, hard boiled by a person who cannot cook; a ladder into a dusty loft; three braids and three truths; a page and a drawing and a slot in a box; bread on a dock; her sister lying to her about a heron; a fire going out.
 
-She was going to keep it. She had already decided how, which was the part she would never explain to anybody: she was going to draw the fire ring with the five of them at it, and pin it in the corner of the map where the present ran out, and write the date on it, and that would be the thing that made it real.
+Annabeth reached for the pencil she had tucked into the spine of her field book, then stopped with it halfway out. She had been about to make the fire ring into another finished drawing before the last log had even burned through.
 
-"Hey," Percy said, from under the same blanket.
+"What's wrong?" Percy asked.
 
-"Mm."
+"Nothing. I was about to sketch everyone without asking."
 
-"You're filing something."
+"You're allowed to draw people."
 
-"I'm filing everything," Annabeth said. "It's Sunday. It's what I do."
+"Thalia hates the way I draw her hair."
 
-"Then file this," he said. "It was a good day. Say it out loud or it doesn't go in."
+"Thalia hates her hair on principle."
 
-Annabeth looked at the fire, and at her sister arguing, and at the tin, and at the stars coming out over the far shore, and said, out loud, in a voice that only the person next to her could hear:
+Across the fire, Thalia looked up as if she had heard her name in the crackle. Her braid had begun escaping at the temples, and she was arguing with Clarisse about whether they could safely leave the wood until morning.
 
-"It was a good day."
+Annabeth called over, "Can I draw this?"
 
-"Logged," Percy said, and the fire ate the last of the wood, and in two miles, on a granite shelf, in the dark, the blue rag went northeast in a southwest wind, the way it had every hour since the fourteenth, whether or not anybody up there was looking, whether or not anybody down here knew it was there.
+Thalia paused. "My terrible braid?"
+
+"The whole fire."
+
+"You can draw the fire. My face needs written permission."
+
+"Denied in advance," Clarisse put in.
+
+Annabeth opened the book and made a quick drawing of the ring, the two chairs, and the lopsided woodpile. She left the people as small unfinished figures, not because she couldn't draw them, but because they were still moving. Percy leaned over to see it.
+
+"You missed the tin."
+
+She looked down. The tin was beside her knee, catching a small red reflection from the fire. She added it and wrote its position in the margin, then closed the book.
+
+"Finished?" Percy asked.
+
+"Not entirely."
+
+"Good."
+
+She was tempted to argue. Instead she tucked the book away and took his hand under the blanket. Above the last coals Thalia reached over, still pretending to argue with Clarisse, and rescued a log that had shifted toward the grass. There would be enough to draw tomorrow. Annabeth watched the actual fire until it was safe to leave.
 
 ---
-
