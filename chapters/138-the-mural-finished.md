@@ -509,6 +509,92 @@ Clarisse volunteered for the unglamorous job of standing near the barrier during
 
 Silena added a note to the maintenance record: check the plaster after the next heavy rain; replace the temporary supports only when Myra approved it. A finished painting could still be damaged by a careless celebration.
 
+When the barriers were stable again, Percy assumed the next part would be simple: let the groups through, take photographs, and find something warm to eat.
+
+Instead a camper came up the slope with his ankle in a rigid brace and told Chiron he couldn't manage the stairs. He had hurt himself in the arena two days earlier. He wasn't seriously injured, but Will had forbidden him to put weight on the foot without support, and the newly repaired passage wasn't safe for crutches on wet stone.
+
+"I'll be fine," he said, eyeing the entrance.
+
+"Not on those steps," Will replied.
+
+"I've waited for this for weeks."
+
+"I know."
+
+The argument had the tight, tired quality of two people who cared about different things and were both right. Myra couldn't make the painted wall move. Chiron couldn't promise the new staircase would hold a different load from the one they'd tested. And the boy had helped carry sandbags during restoration, before he twisted his ankle; excluding him from the unveiling felt like punishing him for an accident.
+
+Percy looked at Silena. She looked back, already thinking.
+
+"We have the photographs," she said.
+
+"A photograph isn't the painting," the camper answered.
+
+"No. It isn't. But I have scale prints of each part and a picture of the whole wall. You can see them up here while the stairs heal."
+
+"Everybody else gets to see the real thing."
+
+Silena didn't soften her answer into a lie. "Yes. Today they do. You should be allowed to be angry about that."
+
+The boy turned his face away. Percy didn't offer to carry him down. The proposal rose and died before he spoke it: even if Percy could hold his weight, the narrow corner and temporary barrier would still put them both too close to the mural. He had learned that rescue could sometimes mean not attempting a dangerous shortcut.
+
+Annabeth came up with her notebook. "Could we use the flat part of the forecourt for a display? The copies are good enough to show how the mural is laid out."
+
+"We'd need somewhere dry," Silena said.
+
+They found a spare room under the awning and set up two tables. Myra gave permission to move the copies but not the fragile conservation tests, which stayed locked below. Clarisse carried the large print board. Percy helped stretch a cord above it so nothing touched the paper. Annabeth taped a hand-drawn section of the corridor beside each photograph, showing exactly where its subject appeared on the original wall.
+
+The injured camper approached on crutches. He looked doubtful until he reached the photograph of the child on the steps.
+
+"That part was under the plaster?" he asked.
+
+"Most of it," Myra told him. "The original linework survived, but the outer edge had to be stabilized."
+
+He leaned closer. "You can still see the untied shoe."
+
+"You can," Silena said.
+
+"Why did you take so many pictures of one shoe?"
+
+"Because I didn't know whether the whole section would survive cleaning. I wanted a record, even if we lost it."
+
+The boy kept looking. He didn't say the substitute was the same as seeing the real painting. He asked for another close-up, and Silena brought it.
+
+An Athena girl who couldn't get into the passage before her lesson arrived at the outside table next. Then two younger campers who were frightened of the low ceiling and didn't want to enter the corridor. Nobody had planned for them as a group. They came because the print board stood in the open air and didn't require them to justify why they weren't taking the official tour.
+
+Myra watched from the doorway.
+
+"Perhaps this shouldn't be temporary," she said.
+
+Annabeth looked up. "A copy?"
+
+"An explanation. The painting can't withstand everyone standing in front of it every hour. It may be better if we offer another way to see what is there."
+
+Silena's face brightened. "A proper exhibition."
+
+"With clear labels," Myra said.
+
+"And credit for the people who did the work."
+
+"And permission for the photographs of living campers."
+
+"I have those marked already."
+
+The conservator's mouth turned at one corner. "Then you're ahead of me."
+
+Percy watched the injured camper compare an original photograph with a later restoration image. The difference was visible in the faint line where new, reversible material met the old pigment. A person who couldn't stand inside the narrow passage could still ask why one section had been treated and another left alone. It wasn't everything. It was more than a consolation prize.
+
+By the time the next tour entered, the outside room had its own small audience. Clarisse had moved a bench into the dry section for the camper on crutches. She didn't make a speech about inclusion. She simply carried the bench and then asked him which photograph he wanted to see first.
+
+He pointed to the trident. She explained the tide crest with more patience than Percy had ever heard her use on the arena floor.
+
+"That doesn't mean Poseidon always keeps everybody safe," she told him. "It means somebody believed he should."
+
+The boy looked up at her. "You like that?"
+
+"Yeah." She glanced toward the mural entrance. "It's a better promise than claiming nothing bad ever happens."
+
+Percy looked from his sister to Silena's careful prints and Annabeth's imperfect diagrams. Some of the day's work had happened beneath the earth, where the old painting held its color. Some was happening out here, where they were finding ways to let people encounter it without breaking the thing they wanted to share.
+
 Groups cycled through until noon, ten at a time, rain easing to mist. Someone brought hot chocolate from the dining pavilion in a steel urn that scalded everyone's fingers in the best way. The corridor smelled of cocoa and lime and wet wool. Clarisse ended up explaining tide crest four more times, each recitation smoother, hands gentler in the air. By the third, she added, unprompted, "Sideways breath hits the edge, so look straight," and Percy caught her small, fierce nod when a little Athena kid obeyed instantly.
 
 Between groups, details surfaced like fish. A Stoll brother spotted a second untied shoe-string on the dining hall steps — the painter had a habit. An Apollo girl swore the gold border chimed faintly when the bulbs warmed, which Myra allowed might be timber ticking but didn't dismiss outright. Two Hephaestus boys measured Thalia's static with a borrowed voltmeter and declared the bolt "mildly opinionated," earning a rare snort from Thalia herself. Nico got cornered by three Demeter kids demanding to know if Hades wore black because he was sad; Nico thought, then said, "Because stars show better," which satisfied them completely. Bianca let a first-year hold the empty clay cup like a chalice and whispered, "Careful, star-holder," until the girl glowed brighter than mica.
