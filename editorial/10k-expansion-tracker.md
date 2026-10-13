@@ -4,6 +4,16 @@
 **Working source:** `rewrite/chapters-10k-quality-pass` branched from `edit/chapters-001-036-unified` on 2026-10-12.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
+## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
+
+**22 / 40 chapters** in this range have at least **10,000 body words**, as of the targeted revisions through commit `b278fc6615e9cc4193dc4c36709e08a95fa5ed9b`. **Every chapter 140–160 (21/21)** meets the mechanical minimum, as does **121 (10,632)**. The **18 remaining short chapters are 122–139**, collectively **94,887 words short** of their individual floors. Do not call the full range finished.
+
+Revised passing counts beyond the existing baseline: **140 10,163; 141 10,030; 142 10,087; 143 10,136; 146 10,089; 147 10,143; 148 10,293; 149 10,387; 157 10,134; 158 10,149; 159 10,133**. Chapter 151, already over 10k, was canon-corrected to **10,823**. Chapters 122–123 were also corrected for inaccessible altered-childhood memory and saltwater versus freshwater geography, but remain short.
+
+Chapters 147, 149 and 151 required additional memory-boundary repairs: Clarisse and Thalia cannot remember the erased Ares/Hunter/tree events, and only Percy and Annabeth remember the former timeline. No universal manuscript clearance should be inferred.
+
+Source-specific prose changes, chapter-by-chapter counts, QA limits and open acceptance gates: [full 121–160 inventory](audits/ch121-160-inventory-2026-10-12.md) and [continuity handoff](handoffs/ch121-160-2026-10-12.md). These chapters pass **word count only**, not independent full-chapter literary or cross-range 300-word QA. Continue in order at **122**.
+
 ## Chapters 014–044 current 10k-length verification (2026-10-12)
 
 **31 / 31 Chapters 014–044 meet the 10,000-body-word minimum**, each freshly fetched and recounted on this branch. The "first 36 chapters" table farther below records an earlier baseline and is **superseded** for Chapters 014–036. Do not use its old figures to plan subsequent work.
