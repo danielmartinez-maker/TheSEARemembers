@@ -869,3 +869,127 @@ She carried the letter to the library and showed it to Grover. He admired the st
 Grover accepted the limit. It was not a flaw in the gift. It was the design that suited her, and Silena had listened long enough to find it.
 
 ---
+
+---
+
+Three days later, Percy discovered how badly a promise could be misunderstood.
+
+He was on the way to the lake when he saw Annabeth leaving the Big House with a rolled map and a little stack of books. She had told him that she wanted to inspect the older plans for the camp's retaining wall. He'd offered to come with her, but he'd forgotten until the next afternoon. Now she was on the way to the site with Beckendorf and two of the older campers, without him.
+
+"You're going without me?" he asked.
+
+Annabeth stopped. She looked puzzled.
+
+"Yes. We're inspecting the wall."
+
+"I thought we agreed to make plans together."
+
+She stared at him for a moment. Then she glanced toward Beckendorf, who was waiting by the lower path with the measuring equipment. The last thing she wanted was to argue about their relationship while people stood around listening.
+
+"Can we talk for a minute?" she asked.
+
+They stepped to the side of the porch.
+
+"When we said no solo plans," she began, "we were talking about doing dangerous things in secret. We weren't saying I had to bring you to every meeting."
+
+Percy felt his face warm. He knew that was true. It was also true that he'd looked forward to working on the wall with her and felt foolish discovering she'd gone ahead without waiting.
+
+"I wanted to come."
+
+"You could have told me you were free. I asked you yesterday."
+
+"I forgot."
+
+"Then why are you angry with me?"
+
+"I'm not angry."
+
+She waited.
+
+"Fine," he said. "A little. I thought it was going to be our thing."
+
+"It's my inspection. Chiron asked me to write the report."
+
+That hurt, though he couldn't explain why. He had spent weeks helping with her architectural projects and had begun treating them as proof that they were a team. He liked the work. He liked being useful to her. He'd forgotten that her projects belonged to her whether or not he carried the boards.
+
+"I know it's yours," he said.
+
+"Do you?"
+
+She didn't sound unkind. She sounded concerned.
+
+Percy looked toward the lake. He could hear younger campers shouting near the dock, and he was supposed to be meeting Clarisse for an equipment check in ten minutes. Annabeth had made her own commitment. Neither of them was doing anything secret.
+
+"I think I wanted you to need me," he admitted.
+
+Annabeth put down the books.
+
+"I do need you, Percy. But not to do everything I do. You're good at things I'm terrible at, and you have sisters and friends who want to see you without me standing beside you every time."
+
+"I know."
+
+"Then let me go do this. I'll tell you what we found afterward if you're interested."
+
+He smiled reluctantly. "I'm interested."
+
+"Good. And I want to hear about your dock inspection. Clarisse told me the new tie-off points are terrible."
+
+"They are. Somebody put them exactly where the ropes are supposed to move."
+
+"Then perhaps your work is also important."
+
+She stepped closer and kissed his cheek. It wasn't a consolation prize. It was the kind of small affection they'd been comfortable offering each other for years, even if their present bodies made them more self-conscious about doing it in public.
+
+"See you at dinner?" she asked.
+
+"Yes."
+
+She picked up the books and went to join the inspection group. Percy watched her leave, embarrassed but relieved. He had made a little problem into an argument about promises, and she had corrected him without pretending his feelings didn't exist.
+
+At the lake, Clarisse took one look at his face and said, "What happened?"
+
+"Nothing."
+
+"That's a terrible answer."
+
+He took the equipment checklist from her. She had a different way of recognizing evasions than Annabeth, and he was too tired to invent one she wouldn't see through.
+
+"I forgot Annabeth had a project this afternoon," he admitted. "Then I acted as if she was leaving me out on purpose."
+
+Clarisse considered. "Were you on the schedule?"
+
+"No."
+
+"Then you weren't left out. You forgot."
+
+"Thank you for the compassion."
+
+"You're welcome. Now help me inspect these tie-offs. I want to know whether the ropes can move without scraping the dock."
+
+They spent the next hour checking the marked points. Percy found a fitting that had been installed too close to a sharp corner. Clarisse made him record the defect and bring it to the maintenance team rather than pulling the hardware loose himself. He resented that too, for about three minutes, and then noticed how much more useful the report would be to the person actually responsible for fixing it.
+
+At dinner, Annabeth arrived with dust on her knees and an excited expression that made Percy smile before she said a word.
+
+"We found an old drainage route behind the retaining wall," she said. "It explains why the ground keeps getting wet after storms. Beckendorf thinks the original plan was altered without updating the drawing."
+
+"Can you repair it?"
+
+"Not without another survey. But the first step is figuring out what happened."
+
+He told her about the tie-off fitting. She asked the same question Clarisse had asked: whether he'd put it in the report. He showed her the copy.
+
+She grinned. "Look at us. Two wonderfully boring people doing paperwork."
+
+"Speak for yourself. My paperwork involves boats."
+
+They ate together. Percy didn't need to apologize again. Annabeth didn't need to pretend she'd wished he had been at the inspection. They had both done useful work and had more to tell each other because of it.
+
+That night she showed him the apartment plan one more time. The little note at the top still said *FIRST DRAFT*. Percy added a second note beside the doorway: *Room to come and go.*
+
+Annabeth looked at it, then left it there.
+
+"I like that," she said.
+
+"So do I."
+
+They put the paper away. Their promise had changed slightly over the week. It no longer meant always acting together or never disappointing each other. It meant telling the truth when something mattered, asking before taking over and making enough space that neither person had to become smaller to stay beside the other.
