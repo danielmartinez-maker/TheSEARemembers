@@ -854,6 +854,12 @@ Thalia smiled in the dark. "Then we will, when we can get the letter to him."
 
 Annabeth closed her eyes. She didn't know when the message would travel or what Jason would say when he read it. For once, she had written something to him without pretending that the distance between them was temporary or easy.
 
+Thalia remained awake a little longer. She was thinking of Jason sitting at a different table beneath different banners, surrounded by children whose names she didn't know. He might have brothers and sisters there in a sense she couldn't understand from the outside. He might have friends who knew the sound of his laugh better than she did. She wanted to know them too, even if that meant learning that part of his life had continued without her.
+
+She reached for the photograph on the nightstand, the one where Jason stood with a spoon in his hand and a look of fierce concentration. Then she put it back. The boy who answered their Iris-message was older than that now. When they wrote him, she wanted to ask what he liked doing this year, rather than spend the whole letter telling him about what he'd been at two.
+
+Across the cabin, Annabeth slept with one hand beneath her pillow and her hair cut shorter than it had been that morning. Thalia was struck by the similarity. She had needed to learn the present versions of both her siblings without asking either to stay the child she remembered.
+
 ---
 
 Triton, heir of Atlantis, commander of the Pelagic Guard, eldest son of Poseidon, had attended councils that decided the fate of oceans.
