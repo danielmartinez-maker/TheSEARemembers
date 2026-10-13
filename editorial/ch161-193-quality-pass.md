@@ -43,11 +43,11 @@ The initial inventory identified only three chapters below 10,000: 162 (9,513; 4
 | 188 | The Second Tuesday | 10,800 | Targeted scene/ending revision; independent editorial review pending |
 | 189 | After the Frost | 10,423 | Targeted scene/ending revision; independent editorial review pending |
 | 190 | Thursday, Twice | 11,489 | Targeted scene/ending revision; independent editorial review pending |
-| 191 | Two Hands of Work | 10,419 | Structural and scene revision; independent editorial review pending |
+| 191 | Two Hands of Work | 10,629 | Structural and scene revision; independent editorial review pending |
 | 192 | Against the Windows | 13,082 | Targeted scene/ending revision; independent editorial review pending |
 | 193 | The Heel | 11,607 | Structural and scene revision; independent editorial review pending |
 
-**Total in range after edits:** 362,206 body words.
+**Total in range after edits:** 362,416 body words.
 **Length pass:** 33 / 33. **Below minimum:** 0. **Lowest current chapter count:** 10,182.
 
 ## First pass: structural prose revisions committed
@@ -60,9 +60,9 @@ Commit: `93969f9615427b97884d95f8d4e0c721c42d4901`.
 
 ### 191: Two Hands of Work
 
-**Revised 9,982 → 10,419 body words.** The original repeatedly reproduced the same Silena conversation, multiple dinner arrivals, and copied week-ending prose. Removed the redundant end scenes; rewrote the extra encounter as a safety test of the newly installed stone step; added a specific maintenance follow-up; made the Friday dinner discussion accountable to the upcoming pine clearance, remaining awning, and safe barrier inspection. The next chapter's Saturday pine work is preserved, and the existing Percy/Annabeth walk-home scene remains as the ending. A fresh developmental read is still required to catch any shorter repeated beats left in earlier scenes.
+**Revised 9,982 → 10,629 body words after a second repair.** The original repeatedly reproduced the same Silena conversation, multiple dinner arrivals, and copied week-ending prose. Removed the redundant end scenes; rewrote the extra encounter as a safety test of the newly installed stone step; added a specific maintenance follow-up; made the Friday dinner discussion accountable to the upcoming pine clearance, remaining awning, and safe barrier inspection. The next chapter's Saturday pine work is preserved, and the existing Percy/Annabeth walk-home scene remains as the ending. A second review detected three copied transitions and a Friday conversation that prematurely foretold Thalia's Sunday heel decision. Scenes 7–9 were rewritten with distinct Clarisse, Thalia and Silena objectives; the route toward dinner and the stone-step inspection was then repaired. Thalia still has not agreed to seek treatment in Chapter 191. An independent full-chapter review remains pending.
 
-Commit: `9b437044155f1fb06bca9529a86c6909d5355ea2`.
+Commits: `9b437044155f1fb06bca9529a86c6909d5355ea2`, `5cde8b170ed13e96be74ed4c5351750ef775b3c0`, `a385cd9cf62ba3888c0abdacf60e6afa34132ef1`.
 
 ### 193: The Heel
 
@@ -91,9 +91,9 @@ Commits: `4a8b8ea2fcf4255c09f03e5d164a996b7bb786a7`, `e453f79f7c536dc3084163a699
 
 **Integrity and continuity:** The prior Chapter 166 blue-rag evidence is still present in the chapter's earlier scenes. The Chapter 183 mail count was rechecked after a continuity discrepancy was found in its first closing revision and corrected in commit `0c6a988e6020a3b3fe6a530195c0f8ec7fea53fa`. The new Chapter 192 closing is consistent with the already-revised Sunday Chapter 193: the butt is moved, but the bent fence still needs work. Percy and Annabeth are not biological siblings; Thalia and Annabeth are, and Thalia's heel has no instant cure.
 
-### Verification after all 30 edits
+### Verification after all 30 edits and the Chapter 191 follow-up
 
-- Fetched and recounted **all 33 current files in the 161–193 range** from GitHub. All pass the floor; the revised tally is **362,206** body words, with a minimum of **10,182** in an individual chapter.
+- Fetched and recounted **all 33 current files in the 161–193 range** from GitHub, then recounted 191 after its follow-up repair. All pass the floor; the revised tally is **362,416** body words, with a minimum of **10,182** in an individual chapter.
 - Scanned every offset for **exact 100-word windows** within each chapter and between chapters in each of four adjacent test blocks: **161–169, 170–177, 178–185, 186–193**. Each block returned **zero exact matching passages**. This does **not** test matches across different blocks. The earlier historical ten-chapter 100/300-word sample is retained below as a previous test, not substituted for a new all-range uniqueness certificate.
 - Checked select handoffs where closing-scene content could have changed canon: 161–165 (Tyson), 166/176 (blue rag/ridge), 174–179 (heel), 181–183 (hall and mail), 189–190 (Beckendorf), 191–193 (pine/fence and injury).
 - **Not executed:** the repository's Python audit locally, full 33-chapter 300-word cross-block scan, full semantic duplicate scan, complete line edit of every chapter, compiled manuscript/PDF QA, or comparison against separate canonical working-directory sources. Do not label any of these as passed.
@@ -117,7 +117,7 @@ Commits: `4a8b8ea2fcf4255c09f03e5d164a996b7bb786a7`, `e453f79f7c536dc3084163a699
 ## Highest-priority editorial follow-ups
 
 1. **193** merits an independent beginning-to-end line edit. Its older first half still contains formulaic dialogue echoes and repeated weather/lantern images, despite the rebuilt second half. Check the age-appropriate relationship boundaries and Chiron's clinical directions against established healer scenes.
-2. **191** still needs a complete developmental scan for repetition **before** the replaced ending scenes, including the stone step, Silena's visits, and the unfinished pine/fence handoff.
+2. **191** received an additional repair of triplicate transitions and the premature heel-resolution dialogue. It still needs a complete independent beginning-to-end developmental and line edit, particularly around the repaired step and the handoff to the pine job.
 3. **161, 163–190, 192** have each received a targeted closing-scene revision and a length pass; all still need independent beginning-to-end developmental/line review. Their **earlier scenes** may still rely heavily on lantern inventories, watery metaphors, and repetitive day/week summaries. No automated synonym replacement should stand in for scene-level repair.
 4. Relatively short chapters, especially **175 (10,182)**, **176 (10,195)**, **174 (10,212)** and **177 (10,230)**, need another recount after any substantial deletion or line edit.
 5. Audit seasonal movement from late September into October, the Thursday mail/hall procedures, Zeus/Grace household boundaries, Thalia's three-week heel history, Silena/Beckendorf progression, and the meaning of the continuing ridge anomalies. **Do not infer that Kronos or Thalia is the timeline architect.**
