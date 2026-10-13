@@ -58,6 +58,139 @@ Thalia gave a skeptical huff, but Annabeth's humor stayed with her while they pa
 
 ---
 
+An hour before sunrise, Thalia found Beryl's last letter beneath a stack of Annabeth's drawings.
+
+She hadn't lost it. She'd put it there on purpose, because the handwriting made her both grateful and angry. Their mother had written about Jason's latest schoolwork, a kitchen window that needed replacing, and a passing remark Zeus had made about seeing the girls soon. No date. No plan. No acknowledgement that *soon* could mean tomorrow or next winter.
+
+Thalia had read that sentence five times. Now she unfolded the page again, sitting at the table in Cabin One while Annabeth packed a waterproof case.
+
+"You look like you're about to cross-examine the stationery," Annabeth said.
+
+"Letter from Mom."
+
+"I know. You read it after dinner."
+
+"I missed something."
+
+"Did you?"
+
+Thalia put the page down. "Our father told her he might visit. He didn't tell us directly until yesterday."
+
+"He doesn't usually."
+
+"That doesn't make it good."
+
+Annabeth threaded a cord through the case's fastening, tested it, and sat opposite her sister. At fourteen she could be infuriatingly composed about some things and painfully hopeful about others. Thalia remembered her at seven, with scraped knees and a habit of taking apart anything that looked too complicated for a child to understand. She remembered fixing the damage and telling herself that being the older sister meant catching every mistake before anyone got hurt.
+
+"What are you expecting him to do?" Annabeth asked.
+
+"Appear. Make a grand speech. Tell us he's pleased. Then tell us we're doing something wrong."
+
+"He might not."
+
+"He might do all four before breakfast."
+
+Annabeth gave a reluctant smile. "That's possible."
+
+Thalia folded the letter in half. "I don't like him using the visit to Percy as a reason to turn up near us without asking."
+
+"He said he'd respect our plans."
+
+"Yes."
+
+"Do you believe him?"
+
+Thalia could have said no. It would have been easy and partly true. She didn't trust Zeus to remain consistent merely because he had been briefly considerate during a message. But Annabeth had asked for an honest answer, not the one Thalia normally used to make a conversation end.
+
+"I believe he intended it when he said it. I don't know whether he'll still intend it when he's standing in front of us."
+
+Annabeth looked at the waterproof case. "Then we'll decide based on what he actually does."
+
+"You're very calm."
+
+"I'm not calm. I know you can't make him predictable by worrying harder."
+
+That was irritating. It was also something Thalia had spent years trying to teach herself.
+
+She folded their mother's letter again and put it inside the drawer where they kept family correspondence. It didn't belong in the packet for the sea visit. Annabeth didn't need to carry every unfinished family conversation into an underwater palace.
+
+"What are you taking?" Thalia asked.
+
+"A notebook, two pencils, a sealed compass, the route card from the last visit, and a second case for anything the archivist lets me copy."
+
+"One notebook?"
+
+"I have another in my bag."
+
+"Naturally."
+
+Annabeth held up a small metal disk, no bigger than a coin. It was the mysterious birthday gift Zeus had sent, whose silver face sometimes became a bird and sometimes a compass. The Hephaestus cabin hadn't identified the enchantment. She'd kept it on a shelf since the party, apparently waiting for a reason to ask about it.
+
+"Are you bringing that?" Thalia asked.
+
+"Yes. Not to rely on it. I want to ask the observatory technician whether the silver responds to a magnetic field or an enchantment. I won't activate it in the water."
+
+"Good."
+
+"You're not going to take it away?"
+
+"I wasn't planning to."
+
+Annabeth smiled, surprised, and put the disk in a padded pocket.
+
+Thalia felt a little ashamed that her sister was grateful for such an ordinary courtesy. Over the years she had become skilled at anticipating danger. She'd also become skilled at making Annabeth feel watched. It was possible to be good at one without being good at the other.
+
+Outside, the last watch bell sounded near the cabins. Camp was just beginning to wake. Thalia went to the porch with Annabeth and looked toward the hills, where the eastern sky was pale.
+
+A younger camper from Apollo cabin came by carrying a lantern. She stopped when she saw the waterproof cases.
+
+"Are you going on an expedition?"
+
+"A visit," Annabeth said.
+
+"Underwater?"
+
+"Yes."
+
+"Are you scared?"
+
+"Some," Annabeth admitted.
+
+The girl looked startled. "But you're a daughter of Zeus."
+
+"Being a daughter of Zeus doesn't make me unable to be scared."
+
+Thalia watched the girl absorb the idea. She'd grown up at camp with older children who boasted about powers they barely understood. It was easy for a younger camper to think godly parentage meant you never had to stop and check a risk.
+
+"How do you go underwater safely?" the girl asked.
+
+"With an escort and a working charm," Annabeth answered. "And we stop if anything changes."
+
+"Could you just use lightning to make a bubble?"
+
+"No," Thalia said immediately. "Lightning and seawater are a very bad combination. We won't experiment with that."
+
+The girl looked disappointed. Thalia didn't soften the answer. Some facts were too important to turn into encouragement.
+
+They helped her carry the lantern to the Big House, then continued toward the saltwater shore by the upper path. Percy was already waiting with his sisters and Triton, talking about which route the escorts had cleared. Clarisse glanced at Thalia's face and seemed to notice she hadn't slept enough.
+
+"You ready?" Clarisse asked.
+
+"More or less."
+
+"That's an honest answer."
+
+"Don't sound surprised."
+
+Clarisse gave a short laugh. She was not an easy friend, and Thalia liked that she rarely pretended to be one. The two of them had disagreed at the camp docks and the training arena often enough that politeness wasn't the point. Clarisse trusted a person who spoke plainly about what they would and wouldn't do.
+
+Annabeth took Thalia's hand briefly, then went to compare notes with Percy about the return route. Thalia stayed by the shore, looking at the saltwater where the first of the palace escorts had appeared. She could feel a small charge building beneath her skin, a sign of nerves rather than any deliberate use of power. She made herself relax her fingers and let it fade.
+
+A visit was a visit. A father might still become a problem. None of that required Thalia to begin the morning prepared for a fight before anyone had said hello.
+
+
+---
+
 Just after sunrise Zeus met them at the shore wearing another unfamiliar face, broad-shouldered, gray threading his hair, gold catching in his eyes. Rain on hot stone flavored the air, ozone sharp beneath pine, and the sand still held the night's cool under their shoes. Wet pebbles glinted like scattered coins where the last wave had withdrawn.
 
 "You have the charms?" he asked.
