@@ -771,3 +771,149 @@ Percy saved one blue cookie in a paper bag, though he didn't know who it was for
 "Mom," he whispered, holding the last crumb on his thumb. "We did it."
 
 Below, Clarisse was trying to convince Grover that the slightly burned batch should count as a separate flavor. Silena was writing down the measurements so they could try again. Percy folded the bag carefully and went downstairs before someone ate the cookie he'd saved.
+
+---
+
+The next morning, Percy took the paper bag out of his trunk.
+
+The cookie inside had gone soft. It was still blue and smelled faintly of chocolate, but the crisp edge he'd loved the night before was gone. He turned it over in the bag and wondered what he had expected. He couldn't preserve a cookie forever simply because it reminded him of Sally.
+
+Silena found him sitting on the bunk with it.
+
+"Are you saving that for someone?" she asked.
+
+"I thought I was. I don't know who."
+
+She sat beside him. The bag looked absurdly small in his hands. He had spent the previous afternoon giving blue cookies to half the camp and was now staring at one as though it held something nobody else had tasted.
+
+"Do you want me to leave?" she asked.
+
+"No. I just don't know what to do with it."
+
+"You could eat it. Or put it in the bin. Or keep it for another day until you decide."
+
+"It'll get worse."
+
+"Yes."
+
+He looked down. Silena didn't tell him to be grateful he'd had the afternoon or that Sally would want him to be happy. She knew better than to speak for a woman she'd never met, especially when Percy had memories the rest of the family couldn't share.
+
+"I thought if I could make them exactly right, I'd be able to remember her voice better," he admitted.
+
+"Did it work?"
+
+"Some of it. I remembered her telling me to clean the counter after I spilled flour. I remembered her laughing when she got blue dye on her fingers."
+
+"That sounds good."
+
+"It was. But today I can't remember how she said my name when she was annoyed. I know she had a particular voice for it. I can hear the shape of it without the sound."
+
+Silena looked at the bag. She had seen him grieve over the gap between the childhood he remembered and the one she'd shared with him under the sea. Until yesterday, she hadn't understood how a small, ordinary recipe could sharpen the loss instead of soothing it.
+
+"You're allowed to keep trying to remember," she said. "You don't have to make the memory exact enough to prove it happened."
+
+"I know she was real."
+
+"I know you do."
+
+He looked at her. "Do you believe me?"
+
+"About Sally? Yes. I believe you remember her. I also know that the little brother I grew up with lost his mother when he was two, and those years are real to me. I don't know how to make both accounts fit together."
+
+Percy nodded. They had avoided saying that part aloud during the baking. He appreciated that Silena was willing to say it now.
+
+"Does it bother you when I talk about her?" he asked.
+
+"Sometimes it hurts that I can't remember what you do. And sometimes I worry that if I tell you a story about the palace, you'll hear it as a demand to forget her."
+
+He looked down again. "I don't."
+
+"I know. But I worry."
+
+They sat together without trying to answer the impossible question of why history had changed. The smell of salt from Cabin Three's walls mixed with the faint sweetness from the paper bag. It wasn't the kitchen in Sally's apartment, and it was home anyway.
+
+"Amphitrite wrote last week," Percy said after a moment. "She asked what we were doing at camp. I haven't answered that part."
+
+"You could tell her about the cookies."
+
+"Would that hurt her?"
+
+Silena considered. Amphitrite knew Percy had arrived with memories that didn't match his life in Atlantis. She had made room for his uncertainty when she visited and tried not to question him about it constantly. Silena could not know how the queen would feel about an account of another mother.
+
+"She might have feelings about it," Silena said. "But the fact that you loved Sally doesn't mean you're doing something wrong by loving Amphitrite too. You can decide how much you want to explain."
+
+Percy thought about the letter. He wanted Amphitrite to know he'd enjoyed the day with his sisters. He wasn't ready to describe Sally's kitchen in detail, or ask his family in Atlantis to understand what it felt like to remember a woman they knew had died before he could remember her.
+
+"I can say we made blue cookies because of a recipe I remembered," he said. "Then tell her about Clarisse nearly burning the first batch."
+
+"She'll find that funny."
+
+"Clarisse won't."
+
+"Then I won't quote you."
+
+He smiled. He could send that much without pretending the rest was simple.
+
+Clarisse came into the cabin with two mugs and stopped when she saw the bag.
+
+"Did you leave me one?"
+
+"This is the last."
+
+"You ate the others?"
+
+"Most of them went to camp."
+
+Clarisse looked offended. "You saved the last one and didn't give it to me?"
+
+Percy waited for her to turn the exchange into a wrestling match. Instead she saw his face and sat on the opposite bunk.
+
+"Is it a Sally thing?" she asked.
+
+"Kind of."
+
+She nodded. "Then keep it."
+
+"It's stale."
+
+"So? You don't have to eat it."
+
+Silena looked at her. "That's what we've been discussing."
+
+"Then I'm late to the conversation."
+
+Clarisse set one mug beside Percy and took a careful sip from the other. She'd made hot chocolate, badly, with more powder than water. Percy tasted it and nearly choked.
+
+"How much chocolate did you use?"
+
+"A normal amount."
+
+"That isn't a normal amount."
+
+"You're welcome."
+
+He laughed, then looked down at the blue cookie. He wanted to keep something from the day. The cookie itself would crumble. There was the recipe notebook and the photograph Silena had taken, and the people who had been in the kitchen would be there for another attempt.
+
+"Would you two make them with me again?" he asked.
+
+"When?" Clarisse said.
+
+"I don't know. On a day when we have time."
+
+Silena smiled. "Yes. We can book the kitchen and ask Mara before we start."
+
+Clarisse groaned. "You're making this sound like work."
+
+"It is work," Silena replied. "Also fun."
+
+Percy took the cookie out of the bag and broke it in three pieces. He gave one to each sister. They ate it with the terrible hot chocolate, commenting on how soft the chocolate had become and whether the blue had faded overnight.
+
+"It needs to be fresh," Clarisse declared.
+
+"It does," Percy agreed.
+
+He put the empty bag in the rubbish and went to fetch his notebook. He wrote down that the last cookie had been shared in Cabin Three with his sisters, and that Clarisse made hot chocolate too strong. He didn't write that Sally would have approved, because he couldn't ask her. He wrote what had actually happened.
+
+Silena helped him put the photograph in a clean sleeve. Clarisse drew a tiny cartoon of an oven with smoke coming out of it beside the recipe. Percy added a blue smudge from the last bit of coloring still on his finger.
+
+When they were finished, he closed the notebook and set it on his shelf beside the letters from Atlantis. Both belonged there. He didn't have to decide which one counted as his real family before breakfast.
