@@ -2209,6 +2209,200 @@ Thalia appreciated that. Later she would tell her so, badly and over supper, whi
 
 ---
 
+Tuesday afternoon was when Thalia discovered the inconvenience of remembering someone else's hands during a public meeting.
+
+She was sitting beside Chiron at the long table in the Big House, reviewing the winter instructor rotation. There were eight names on the page, four target ranges and three different weather plans. Under ordinary circumstances she would have been interested enough to argue about them all.
+
+Instead she kept remembering Rhys in his cabin the night before, the unfamiliar ease of being touched without having to be useful first, and how he'd laughed when the button on his shirt refused to cooperate with either of them.
+
+The memory was not appropriate material for a staffing meeting.
+
+She went back to the schedule.
+
+Chiron looked toward her. "The west range is still available Wednesday morning."
+
+"Not if the ground freezes tonight."
+
+"The forecast is uncertain."
+
+"The ground doesn't care about forecasts."
+
+One of the older instructors laughed. Thalia barely noticed. She was reviewing the equipment allocation now, trying to make herself stay in the room. Her heel was uncomfortable beneath the table; she'd tucked the injured foot behind the chair and was becoming stiff in the other leg from compensating.
+
+Across from her, Rhys was making notes.
+
+He had arrived late after a lesson and taken the last empty chair. He had not looked at her any differently from the other instructors. For the first fifteen minutes she had been grateful. Then she had been annoyed by how easily he seemed able to do it.
+
+He looked up as Chiron read the next item.
+
+"I can take the beginning group on Wednesday," Rhys said. "If we move them to the sheltered line, the weather won't matter."
+
+"We'll need another adult supervising," Chiron replied.
+
+"I can do it," Thalia said.
+
+Rhys looked at her.
+
+Chiron consulted the schedule. "You have the afternoon class."
+
+"That doesn't prevent me from teaching in the morning."
+
+"It does if you're supposed to rest the heel."
+
+She felt every eye at the table move toward her.
+
+"I'm not incapable of standing."
+
+"No one said you were," Chiron replied, with the patience of a man who had heard this argument in fifteen different centuries.
+
+Thalia looked at the schedule again. She knew she was being unreasonable. She had already spent the morning on her feet longer than she should have, and taking an extra class would leave her limping by supper. That would be stupid, especially when she had been told the injury was finally improving.
+
+She disliked having the facts arranged so neatly against her.
+
+"I'll take the morning," another instructor said. "Thalia can cover the afternoon. The sheltered line doesn't need three people."
+
+Rhys nodded. "That works."
+
+He didn't look at her again.
+
+She hated that too.
+
+When the meeting ended, Thalia gathered her papers and went toward the back door. She was halfway down the corridor when Rhys called her name.
+
+She turned.
+
+He stood a few paces away, notebook under one arm.
+
+"Are you angry with me?"
+
+"Why would I be?"
+
+"That sounded like the beginning of an answer."
+
+She looked at him. There was no audience in the corridor, but the door to Chiron's office remained open, and footsteps sounded from the hall. She didn't want a private argument in a place where the walls carried every word.
+
+"Come outside," she said.
+
+They crossed to the side porch, where the afternoon sun had warmed the rail enough to make it comfortable to lean against. Below them the meadow sloped toward the lake, pale grass bent by the wind. Rhys set the notebook on the porch bench and waited.
+
+Thalia folded her arms.
+
+"I don't want you treating me differently at work."
+
+"I wasn't."
+
+"I know."
+
+"Then what's wrong?"
+
+She looked toward the lake. The honest answer was embarrassing: she wanted him to notice her in the meeting without behaving as if he had a special claim on her. She wanted him to respect her expertise and also remember that he'd kissed her only a few hours earlier. The two desires were compatible in theory. She was still working out how to live with both.
+
+"I don't like being the injured person everybody has to protect," she said.
+
+"Chiron was doing his job."
+
+"I know that too."
+
+Rhys considered. "Would you have volunteered for the extra class if I hadn't been there?"
+
+She turned sharply.
+
+"Yes."
+
+"Then why are we arguing?"
+
+She opened her mouth, then closed it. His question was annoyingly precise.
+
+Because she had hoped he'd take her side. Because she'd wanted him to see her as capable even while she was struggling to convince Chiron of the same thing. Because the previous night had made her feel powerful and vulnerable at once, and she was still expecting the world to choose one feeling and erase the other.
+
+"You're very irritating," she said.
+
+"I've been told."
+
+She gave him a warning look.
+
+He smiled faintly. "I didn't agree with you because I thought the other instructor had a better plan."
+
+"She did."
+
+"Then we're not arguing about the schedule."
+
+She stared at him. He was right, and she was beginning to find that being right did not always make him attractive. Sometimes it made her want to push him off the porch.
+
+He saw the expression and moved a careful step back.
+
+Thalia laughed despite herself.
+
+"Don't look so pleased. I'm still angry."
+
+"Then be angry."
+
+"You're not going to apologize?"
+
+"For what?"
+
+She thought about it. There was no answer she could give without making the argument more absurd.
+
+"No," she admitted. "I suppose not."
+
+He leaned against the opposite rail. They stood in silence while a breeze carried the smell of damp earth from the lake. She let herself feel the embarrassment without rushing to cover it with another attack.
+
+Then she said, "I was thinking about last night."
+
+Rhys turned toward her.
+
+"In the meeting?" he asked.
+
+"Briefly."
+
+He looked as though he was trying very hard not to smile.
+
+"That seems difficult."
+
+"It was."
+
+A quiet laugh escaped him. She wanted to be furious. Instead she was relieved that he'd understood without making the confession into a spectacle.
+
+"What were you thinking?" he asked.
+
+She looked at him. The question was entirely too dangerous to answer in the corridor outside Chiron's office. She crossed the space between them and straightened the collar of his shirt, which was folded under at one side.
+
+"Nothing that belongs in the minutes."
+
+He smiled. She felt it before he moved, the anticipation that had become familiar since Monday night. She kept her hands on his collar and kissed him.
+
+The kiss was brief, because the side porch had a door leading back into the Big House and anyone could have used it. But it had all the warmth she'd been trying to conceal at the table, and the ease of his response made her feel less foolish.
+
+When she drew back, he was smiling.
+
+"Better?"
+
+"Considerably."
+
+He caught her hand and pressed it once before letting go.
+
+"Go rest the heel," he said.
+
+She narrowed her eyes. "You had to ruin it."
+
+"I've learned from the best."
+
+She left him on the porch and went to Cabin One, where she took off the boot, adjusted the wrap and spent twenty minutes doing exactly what Chiron had told her to do. She did not enjoy admitting he had been right.
+
+Then she went to the range, sat on the equipment bench and watched the last class finish. The injured leg ached less. The world had not ended because she'd missed one session.
+
+Rhys saw her from the sheltered line. He raised a hand in greeting, then went back to correcting a student's stance.
+
+This time she was glad he had.
+
+She could be wanted and still be left to manage her own work. She could want a man and still disagree with him. Neither discovery felt especially romantic when expressed aloud, but the sight of him teaching beneath the pale afternoon sun made her wish the meeting were over and supper could begin.
+
+She stayed on the bench until the final student had put away a bow.
+
+Then she stood and went to help carry the targets, careful of her heel and entirely pleased that the afternoon had given her something new to think about.
+
+---
+
 The Tempest Hall was full of noise when Thalia arrived on Tuesday evening.
 
 A row of lanterns lit the passage outside. From inside came the slap of water against tiled steps, the screech of a bench being dragged across the floor, and Percy's voice attempting to make itself heard over several campers who were determined to interpret the posted rules creatively. Thalia could tell he was enjoying himself from the volume of his complaints.
