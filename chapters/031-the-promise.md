@@ -993,3 +993,27 @@ Annabeth looked at it, then left it there.
 "So do I."
 
 They put the paper away. Their promise had changed slightly over the week. It no longer meant always acting together or never disappointing each other. It meant telling the truth when something mattered, asking before taking over and making enough space that neither person had to become smaller to stay beside the other.
+
+Annabeth made one more change before closing the notebook. She wrote two dates on the facing page: the next inspection of the retaining wall and the next scheduled check of the dock fittings. She put her own initials beside the first and Percy's beside the second.
+
+"You don't have to keep a schedule for my work," Percy said.
+
+"I'm not managing it. I'm remembering when to ask how it went."
+
+"Fair."
+
+He looked at the dates. Both were later in the week. By then she might discover another problem with the wall, and he might learn that the dock fitting needed a different kind of repair. Neither of those outcomes would be a reason to accuse the other of breaking a promise.
+
+"Can I write something too?" he asked.
+
+Annabeth handed him the pencil.
+
+He wrote *Friday dinner* beneath the inspection dates. She raised an eyebrow.
+
+"That's not an appointment with Chiron."
+
+"No. That's why I want to remember it."
+
+She laughed and put a small square around the words. They would still have drills, cabin chores, letters, repairs and whatever unexpected thing the next week brought. It was worth making time for a meal they chose themselves.
+
+Percy returned the pencil and went to his cabin before curfew. Annabeth placed the notebook on her desk, ready for the next morning.
