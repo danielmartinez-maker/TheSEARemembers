@@ -6969,190 +6969,6 @@ She stayed the night, and the invitation remained folded inside the book on her 
 
 ---
 
-## February 16: The Offer Had Terms
-
-Rhys came back from the second audition carrying a contract.
-
-He hadn't signed it. That was the first thing he told Thalia when she met him near the road gate, and the speed of the announcement made her laugh despite the nerves she'd been carrying all afternoon.
-
-"You look guilty," she said.
-
-"I thought I should begin with the most important fact."
-
-"Have you robbed a bank?"
-
-"No."
-
-"Then I'm unlikely to be furious."
-
-He handed her the folded papers. They stood beneath the gate lantern while she read them, the afternoon wind catching the loose edge and trying to turn the pages before she was ready.
-
-The ensemble wanted him for six weeks beginning in April. The work involved rehearsals, performances and travel between several towns. The payment was modest but real, enough to cover expenses and leave something over. He would not be able to return to camp between performances except perhaps for a brief visit. They wanted an answer within ten days.
-
-Thalia reached the end and looked up.
-
-"They want you."
-
-"Yes."
-
-"That's good."
-
-"It is."
-
-He watched her. She could see the worry in his face, the way he had chosen to bring the offer to her before allowing himself to enjoy it.
-
-She handed the papers back.
-
-"What do you want?"
-
-He took a breath.
-
-"I want to do it."
-
-She nodded. The answer hurt, but only because she wanted him near. It was also the answer she had hoped he would give. He had worked hard for the invitation, and she had heard the music that brought him there.
-
-"Then you should," she said.
-
-He looked relieved for half a second, then uncertain again.
-
-"And us?"
-
-Thalia looked toward the road. The van had already gone, leaving them alone in the cold. She considered the question carefully.
-
-"We've been apart before."
-
-"Not for six weeks."
-
-"No."
-
-"And you'll have the advanced program."
-
-"Yes."
-
-He folded the contract and put it inside his coat.
-
-"I don't want you pretending this is easy," he said.
-
-"I'm not."
-
-"I also don't want to come back and find you've spent six weeks being angry because I went."
-
-Thalia looked at him sharply.
-
-"Then don't make me responsible for being happy every day you're gone."
-
-He considered, then nodded. "Fair."
-
-She moved closer. She had been thinking about him all day, imagining him in the audition room with his guitar and the difficult opening he'd practiced until his fingers hurt. She wanted him to know she was proud of him without having to make the feeling into a speech.
-
-She took his hand.
-
-"I'm pleased for you," she said.
-
-He looked at her. "Really?"
-
-"Yes. I'm also going to miss you. Those are both true."
-
-His smile was immediate and unmistakable.
-
-She kissed him.
-
-The kiss was not a solution to the logistics ahead. It was simply the pleasure of finding each other again after a day that had mattered to him. He held her close, and she felt the warmth of him beneath the cold coat. When they drew apart, he was still smiling.
-
-"Come home?" he asked.
-
-She nodded.
-
-***
-
-At the cabin they spread the contract across the table.
-
-Thalia wanted to know where the rehearsals would take place, how much time he would actually spend traveling and whether the payment covered the costs the group expected him to incur. She read every line, making notes in the margin where something was unclear. Rhys watched with growing amusement.
-
-"I thought you said it was my decision."
-
-"It is. I want you to make it with good information."
-
-"An important distinction."
-
-"Don't get clever."
-
-He leaned back and let her read.
-
-The terms were reasonably fair. The group would cover lodging and most travel, and the payment was enough to make the project worthwhile. There were still questions about the exact schedule and one clause that left too much discretion with the organizers. She marked it, then handed him the paper.
-
-"Ask them to clarify that."
-
-"I was going to."
-
-"Good."
-
-He looked at her. "You're enjoying this."
-
-"I like contracts that don't try to trick people."
-
-"And you like telling me what to do."
-
-"Obviously."
-
-He laughed, then folded the papers away.
-
-They ate supper slowly. Thalia told him about the advanced program's first successful week, the students who had surprised her and the mistakes she still needed to correct. He listened with real attention, asking questions that showed he understood the work without treating it as a lesser version of his own opportunity.
-
-At one point she put down her fork.
-
-"What if I wanted to visit you?"
-
-He looked up.
-
-"On tour?"
-
-"Yes."
-
-"I'd like that."
-
-"I'm not saying I will. The program may not allow it."
-
-"I know."
-
-"But if there were a weekend when you were close enough, we could arrange something."
-
-He nodded. "We could."
-
-She considered. That was all they could decide now. She had a program to run, he had a tour to accept, and neither knew exactly how the schedules would fit together. It was a problem with actual constraints, not a test of whether their affection was sufficiently grand.
-
-She found that oddly comforting.
-
-After dinner she put the dishes aside and came to sit beside him. He had been quiet for several minutes, looking down at the contract as though it might change if he stared long enough.
-
-"Rhys."
-
-He looked up.
-
-"You should be happy."
-
-"I am."
-
-"Then stop acting as if you've done something wrong."
-
-He smiled faintly. "I don't want to hurt you."
-
-"You'll hurt me if you lie. You won't hurt me by wanting to do work you're good at."
-
-He looked at her for a long moment.
-
-"All right," he said.
-
-She touched his face and kissed him. This time she let the kiss become the answer to the immediate question: did they still want each other, even with distance ahead? His hand moved to her waist, and the eagerness of his response made her smile. They had months of shared history now, nights spent together, letters written in absence, disagreements they had survived. She trusted the wanting, not because it guaranteed the future but because it remained freely chosen.
-
-The lamp burned lower. The contract stayed folded on the table while they spent the evening close together, talking when they wanted to and allowing silence when they didn't. They had ten days to answer the ensemble. Tonight they didn't need to decide anything more.
-
-Before she slept, Thalia looked toward the papers one last time.
-
-Six weeks was a long time. She would miss him. She was also pleased that a person she loved had been offered something he had earned. She had never expected the two feelings to fit so comfortably beside each other.
-
----
-
 ## February 10: An Answer He Hadn't Asked Her to Give
 
 The letter arrived on a Saturday, folded beneath the edge of a practice schedule and addressed to Rhys in an unfamiliar hand.
@@ -7412,200 +7228,6 @@ At last she raised her head and kissed him once more.
 He smiled against her mouth. "Thank you."
 
 This time she let the words be enough.
-
----
-
-## February 20: The Woman Who Fixed the Shelves
-
-Rhys's mother opened the door before they knocked.
-
-She was smaller than Thalia had imagined, with dark hair pulled back from her face and the same patient expression Rhys wore when somebody was explaining a mistake he had already noticed. She looked from her son to Thalia, then to the small bag in Rhys's hand.
-
-"You brought bread."
-
-"You asked."
-
-"I asked whether you were eating properly."
-
-"That's a different question."
-
-His mother ignored him and turned to Thalia.
-
-"You must be Thalia."
-
-"Yes, ma'am."
-
-The word escaped before Thalia could stop it. She had not called anyone ma'am in years without sarcasm.
-
-The woman smiled. "That's more formal than necessary. Come in."
-
-The house was warm and full of small signs of work done carefully. A table stood near the front window; the kitchen shelves had indeed been replaced, and the new ones looked perfectly sensible. There were books piled beneath a chair and a repaired lamp with a cord that had been wound neatly along its base. None of the furniture appeared particularly dangerous.
-
-Thalia was disappointed.
-
-Rhys's mother caught her examining the shelves.
-
-"He told you about those."
-
-"He told me you made him replace all of them."
-
-"Only the ones that were falling down."
-
-"He made it sound like a personal campaign."
-
-"He likes being dramatic."
-
-Thalia smiled before she could help herself.
-
-They sat at the kitchen table. Rhys put the bread down and offered to make tea. His mother waved him away and filled the kettle herself. Thalia watched the familiar argument unfold with amusement. He wanted to be useful. She wanted to demonstrate that he could visit without treating the kitchen as a construction site. It was a disagreement Thalia recognized in several forms from her own life.
-
-While Rhys fetched cups, his mother looked at her.
-
-"How's the heel?"
-
-Thalia blinked.
-
-"He told you about that too."
-
-"He said you were trying to do too much before it was healed."
-
-"An exaggerated account."
-
-"Is it?"
-
-Thalia considered. "Not entirely."
-
-The woman smiled. She didn't ask more. She simply poured the tea and passed it across the table.
-
-They talked about camp for a while. Rhys's mother wanted to know how the winter program worked, whether the cabins had enough heat and what kind of lessons Thalia taught. The questions were specific, not intrusive. She seemed genuinely interested in how the place functioned rather than in any mythical reputation attached to Thalia's name.
-
-That made it easier.
-
-Thalia described her advanced program, explaining the balance between teaching technique and forcing students to make decisions of their own. His mother listened carefully, asked how they prevented dangerous mistakes and smiled when Thalia explained the test with weighted bags instead of arrows.
-
-"That's clever," she said.
-
-"Rhys was responsible for the barrier idea," Thalia admitted.
-
-His mother looked at him. "You had a good idea?"
-
-"Occasionally."
-
-"A rare event."
-
-Thalia laughed.
-
-Rhys looked betrayed. "You're both enjoying this."
-
-"Very much," his mother said.
-
-They ate bread and soup together. Rhys told a story about the audition and the offer that had followed. His mother listened without interrupting, then asked what he planned to do.
-
-"I think I'm going to accept," he said.
-
-Thalia looked at him. He hadn't said it quite so plainly before. They had talked about the terms, the schedule and the practical problems. Now he was saying the decision itself.
-
-His mother nodded.
-
-"Then you should."
-
-"You aren't worried about me traveling?"
-
-"I'll always worry about you traveling. That doesn't mean you shouldn't go."
-
-Rhys glanced at Thalia. She recognized the look: a mixture of surprise and relief, as though he'd been expecting the same argument in two different rooms and had instead received the same sensible answer.
-
-After the meal his mother took Thalia into the kitchen to show her the repaired shelves. Rhys remained at the table gathering the cups.
-
-The woman leaned against the counter.
-
-"He's happier when he talks about you," she said.
-
-Thalia went still.
-
-"I don't mean you have to do anything about that," his mother added. "I just thought you might like to know."
-
-Thalia looked down at the new shelves. The workmanship was sound, the edges carefully sanded, the brackets firmly fixed.
-
-"I like him," she said.
-
-"Good."
-
-"And I don't always know what I'm doing."
-
-His mother laughed softly. "Neither does he."
-
-Thalia looked up. The woman's smile was kind, but not indulgent. She had raised a son who could take care of other people and still had to learn how to let them take care of themselves. Thalia recognized that lesson more intimately than she wanted to admit.
-
-"You don't have to explain yourself to me," the woman said. "He's nineteen. You're eighteen. You can make your own choices."
-
-Thalia nodded, grateful for the lack of interrogation.
-
-They returned to the table. Rhys had finished cleaning the dishes and was attempting to fix a loose hinge on the cupboard door. His mother stood in the doorway and folded her arms.
-
-"Leave that alone."
-
-"It's loose."
-
-"It has been loose for years."
-
-"That's not a defense."
-
-Thalia caught his expression, the same concentration she'd seen at the range and in his cabin. She moved beside him and looked at the hinge.
-
-"Your screw's too short," she said.
-
-"Thank you."
-
-"You're welcome."
-
-His mother groaned. "Now there are two of you."
-
-They laughed and left the hinge alone.
-
-***
-
-On the ride back to camp, Thalia leaned against Rhys's shoulder and watched the last of the town lights fall behind them.
-
-"She likes you," he said.
-
-"I know."
-
-"You're very confident."
-
-"She insulted your cooking. That establishes common ground."
-
-He laughed.
-
-Thalia considered. She had expected to feel examined, perhaps judged against an image he had created through his letters. Instead she had met a woman who was practical, affectionate and perfectly willing to disagree with her son. Thalia had been allowed to arrive as herself, without having to perform some more suitable version.
-
-"She's good," she said.
-
-Rhys looked over. "She is."
-
-"Don't tell her I said so."
-
-"I'll write it in my next letter."
-
-"Traitor."
-
-He took her hand. She let their fingers settle together and smiled into the dark.
-
-At the north cabin they put away their coats and the remaining bread. Rhys turned toward her, looking pleased in that private way she had come to know.
-
-"Thank you for coming," he said.
-
-"I wanted to."
-
-"I know."
-
-She touched his face and kissed him. The kiss was warm and lingering, carrying the relief of a day that had gone well and the familiar desire to be close when nobody else needed them. He drew her nearer, and she leaned into him without hesitation.
-
-Later, sitting together beneath the blanket, Thalia told him which questions she'd expected his mother to ask and which ones she was glad she'd been spared. He laughed at some of her imagined interrogations and took others seriously. Neither tried to turn the visit into a promise of anything grand.
-
-It had been tea, bread, a few honest conversations and a cupboard with a loose hinge. She liked that.
-
-When she finally slept, the house they'd visited seemed less like a separate world Rhys disappeared into and more like a place she might return to, on a day when both of them wanted to go.
 
 ---
 
@@ -7899,6 +7521,190 @@ Outside, the snow began falling again. The new box sat on the workbench with his
 
 ---
 
+## February 16: The Offer Had Terms
+
+Rhys came back from the second audition carrying a contract.
+
+He hadn't signed it. That was the first thing he told Thalia when she met him near the road gate, and the speed of the announcement made her laugh despite the nerves she'd been carrying all afternoon.
+
+"You look guilty," she said.
+
+"I thought I should begin with the most important fact."
+
+"Have you robbed a bank?"
+
+"No."
+
+"Then I'm unlikely to be furious."
+
+He handed her the folded papers. They stood beneath the gate lantern while she read them, the afternoon wind catching the loose edge and trying to turn the pages before she was ready.
+
+The ensemble wanted him for six weeks beginning in April. The work involved rehearsals, performances and travel between several towns. The payment was modest but real, enough to cover expenses and leave something over. He would not be able to return to camp between performances except perhaps for a brief visit. They wanted an answer within ten days.
+
+Thalia reached the end and looked up.
+
+"They want you."
+
+"Yes."
+
+"That's good."
+
+"It is."
+
+He watched her. She could see the worry in his face, the way he had chosen to bring the offer to her before allowing himself to enjoy it.
+
+She handed the papers back.
+
+"What do you want?"
+
+He took a breath.
+
+"I want to do it."
+
+She nodded. The answer hurt, but only because she wanted him near. It was also the answer she had hoped he would give. He had worked hard for the invitation, and she had heard the music that brought him there.
+
+"Then you should," she said.
+
+He looked relieved for half a second, then uncertain again.
+
+"And us?"
+
+Thalia looked toward the road. The van had already gone, leaving them alone in the cold. She considered the question carefully.
+
+"We've been apart before."
+
+"Not for six weeks."
+
+"No."
+
+"And you'll have the advanced program."
+
+"Yes."
+
+He folded the contract and put it inside his coat.
+
+"I don't want you pretending this is easy," he said.
+
+"I'm not."
+
+"I also don't want to come back and find you've spent six weeks being angry because I went."
+
+Thalia looked at him sharply.
+
+"Then don't make me responsible for being happy every day you're gone."
+
+He considered, then nodded. "Fair."
+
+She moved closer. She had been thinking about him all day, imagining him in the audition room with his guitar and the difficult opening he'd practiced until his fingers hurt. She wanted him to know she was proud of him without having to make the feeling into a speech.
+
+She took his hand.
+
+"I'm pleased for you," she said.
+
+He looked at her. "Really?"
+
+"Yes. I'm also going to miss you. Those are both true."
+
+His smile was immediate and unmistakable.
+
+She kissed him.
+
+The kiss was not a solution to the logistics ahead. It was simply the pleasure of finding each other again after a day that had mattered to him. He held her close, and she felt the warmth of him beneath the cold coat. When they drew apart, he was still smiling.
+
+"Come home?" he asked.
+
+She nodded.
+
+***
+
+At the cabin they spread the contract across the table.
+
+Thalia wanted to know where the rehearsals would take place, how much time he would actually spend traveling and whether the payment covered the costs the group expected him to incur. She read every line, making notes in the margin where something was unclear. Rhys watched with growing amusement.
+
+"I thought you said it was my decision."
+
+"It is. I want you to make it with good information."
+
+"An important distinction."
+
+"Don't get clever."
+
+He leaned back and let her read.
+
+The terms were reasonably fair. The group would cover lodging and most travel, and the payment was enough to make the project worthwhile. There were still questions about the exact schedule and one clause that left too much discretion with the organizers. She marked it, then handed him the paper.
+
+"Ask them to clarify that."
+
+"I was going to."
+
+"Good."
+
+He looked at her. "You're enjoying this."
+
+"I like contracts that don't try to trick people."
+
+"And you like telling me what to do."
+
+"Obviously."
+
+He laughed, then folded the papers away.
+
+They ate supper slowly. Thalia told him about the advanced program's first successful week, the students who had surprised her and the mistakes she still needed to correct. He listened with real attention, asking questions that showed he understood the work without treating it as a lesser version of his own opportunity.
+
+At one point she put down her fork.
+
+"What if I wanted to visit you?"
+
+He looked up.
+
+"On tour?"
+
+"Yes."
+
+"I'd like that."
+
+"I'm not saying I will. The program may not allow it."
+
+"I know."
+
+"But if there were a weekend when you were close enough, we could arrange something."
+
+He nodded. "We could."
+
+She considered. That was all they could decide now. She had a program to run, he had a tour to accept, and neither knew exactly how the schedules would fit together. It was a problem with actual constraints, not a test of whether their affection was sufficiently grand.
+
+She found that oddly comforting.
+
+After dinner she put the dishes aside and came to sit beside him. He had been quiet for several minutes, looking down at the contract as though it might change if he stared long enough.
+
+"Rhys."
+
+He looked up.
+
+"You should be happy."
+
+"I am."
+
+"Then stop acting as if you've done something wrong."
+
+He smiled faintly. "I don't want to hurt you."
+
+"You'll hurt me if you lie. You won't hurt me by wanting to do work you're good at."
+
+He looked at her for a long moment.
+
+"All right," he said.
+
+She touched his face and kissed him. This time she let the kiss become the answer to the immediate question: did they still want each other, even with distance ahead? His hand moved to her waist, and the eagerness of his response made her smile. They had months of shared history now, nights spent together, letters written in absence, disagreements they had survived. She trusted the wanting, not because it guaranteed the future but because it remained freely chosen.
+
+The lamp burned lower. The contract stayed folded on the table while they spent the evening close together, talking when they wanted to and allowing silence when they didn't. They had ten days to answer the ensemble. Tonight they didn't need to decide anything more.
+
+Before she slept, Thalia looked toward the papers one last time.
+
+Six weeks was a long time. She would miss him. She was also pleased that a person she loved had been offered something he had earned. She had never expected the two feelings to fit so comfortably beside each other.
+
+---
+
 ## February 18: The Sound of Not Playing
 
 By Sunday, Rhys had made the sore hand everybody else's problem.
@@ -8141,6 +7947,200 @@ He did, still smiling.
 
 ---
 
+## February 20: The Woman Who Fixed the Shelves
+
+Rhys's mother opened the door before they knocked.
+
+She was smaller than Thalia had imagined, with dark hair pulled back from her face and the same patient expression Rhys wore when somebody was explaining a mistake he had already noticed. She looked from her son to Thalia, then to the small bag in Rhys's hand.
+
+"You brought bread."
+
+"You asked."
+
+"I asked whether you were eating properly."
+
+"That's a different question."
+
+His mother ignored him and turned to Thalia.
+
+"You must be Thalia."
+
+"Yes, ma'am."
+
+The word escaped before Thalia could stop it. She had not called anyone ma'am in years without sarcasm.
+
+The woman smiled. "That's more formal than necessary. Come in."
+
+The house was warm and full of small signs of work done carefully. A table stood near the front window; the kitchen shelves had indeed been replaced, and the new ones looked perfectly sensible. There were books piled beneath a chair and a repaired lamp with a cord that had been wound neatly along its base. None of the furniture appeared particularly dangerous.
+
+Thalia was disappointed.
+
+Rhys's mother caught her examining the shelves.
+
+"He told you about those."
+
+"He told me you made him replace all of them."
+
+"Only the ones that were falling down."
+
+"He made it sound like a personal campaign."
+
+"He likes being dramatic."
+
+Thalia smiled before she could help herself.
+
+They sat at the kitchen table. Rhys put the bread down and offered to make tea. His mother waved him away and filled the kettle herself. Thalia watched the familiar argument unfold with amusement. He wanted to be useful. She wanted to demonstrate that he could visit without treating the kitchen as a construction site. It was a disagreement Thalia recognized in several forms from her own life.
+
+While Rhys fetched cups, his mother looked at her.
+
+"How's the heel?"
+
+Thalia blinked.
+
+"He told you about that too."
+
+"He said you were trying to do too much before it was healed."
+
+"An exaggerated account."
+
+"Is it?"
+
+Thalia considered. "Not entirely."
+
+The woman smiled. She didn't ask more. She simply poured the tea and passed it across the table.
+
+They talked about camp for a while. Rhys's mother wanted to know how the winter program worked, whether the cabins had enough heat and what kind of lessons Thalia taught. The questions were specific, not intrusive. She seemed genuinely interested in how the place functioned rather than in any mythical reputation attached to Thalia's name.
+
+That made it easier.
+
+Thalia described her advanced program, explaining the balance between teaching technique and forcing students to make decisions of their own. His mother listened carefully, asked how they prevented dangerous mistakes and smiled when Thalia explained the test with weighted bags instead of arrows.
+
+"That's clever," she said.
+
+"Rhys was responsible for the barrier idea," Thalia admitted.
+
+His mother looked at him. "You had a good idea?"
+
+"Occasionally."
+
+"A rare event."
+
+Thalia laughed.
+
+Rhys looked betrayed. "You're both enjoying this."
+
+"Very much," his mother said.
+
+They ate bread and soup together. Rhys told a story about the audition and the offer that had followed. His mother listened without interrupting, then asked what he planned to do.
+
+"I think I'm going to accept," he said.
+
+Thalia looked at him. He hadn't said it quite so plainly before. They had talked about the terms, the schedule and the practical problems. Now he was saying the decision itself.
+
+His mother nodded.
+
+"Then you should."
+
+"You aren't worried about me traveling?"
+
+"I'll always worry about you traveling. That doesn't mean you shouldn't go."
+
+Rhys glanced at Thalia. She recognized the look: a mixture of surprise and relief, as though he'd been expecting the same argument in two different rooms and had instead received the same sensible answer.
+
+After the meal his mother took Thalia into the kitchen to show her the repaired shelves. Rhys remained at the table gathering the cups.
+
+The woman leaned against the counter.
+
+"He's happier when he talks about you," she said.
+
+Thalia went still.
+
+"I don't mean you have to do anything about that," his mother added. "I just thought you might like to know."
+
+Thalia looked down at the new shelves. The workmanship was sound, the edges carefully sanded, the brackets firmly fixed.
+
+"I like him," she said.
+
+"Good."
+
+"And I don't always know what I'm doing."
+
+His mother laughed softly. "Neither does he."
+
+Thalia looked up. The woman's smile was kind, but not indulgent. She had raised a son who could take care of other people and still had to learn how to let them take care of themselves. Thalia recognized that lesson more intimately than she wanted to admit.
+
+"You don't have to explain yourself to me," the woman said. "He's nineteen. You're eighteen. You can make your own choices."
+
+Thalia nodded, grateful for the lack of interrogation.
+
+They returned to the table. Rhys had finished cleaning the dishes and was attempting to fix a loose hinge on the cupboard door. His mother stood in the doorway and folded her arms.
+
+"Leave that alone."
+
+"It's loose."
+
+"It has been loose for years."
+
+"That's not a defense."
+
+Thalia caught his expression, the same concentration she'd seen at the range and in his cabin. She moved beside him and looked at the hinge.
+
+"Your screw's too short," she said.
+
+"Thank you."
+
+"You're welcome."
+
+His mother groaned. "Now there are two of you."
+
+They laughed and left the hinge alone.
+
+***
+
+On the ride back to camp, Thalia leaned against Rhys's shoulder and watched the last of the town lights fall behind them.
+
+"She likes you," he said.
+
+"I know."
+
+"You're very confident."
+
+"She insulted your cooking. That establishes common ground."
+
+He laughed.
+
+Thalia considered. She had expected to feel examined, perhaps judged against an image he had created through his letters. Instead she had met a woman who was practical, affectionate and perfectly willing to disagree with her son. Thalia had been allowed to arrive as herself, without having to perform some more suitable version.
+
+"She's good," she said.
+
+Rhys looked over. "She is."
+
+"Don't tell her I said so."
+
+"I'll write it in my next letter."
+
+"Traitor."
+
+He took her hand. She let their fingers settle together and smiled into the dark.
+
+At the north cabin they put away their coats and the remaining bread. Rhys turned toward her, looking pleased in that private way she had come to know.
+
+"Thank you for coming," he said.
+
+"I wanted to."
+
+"I know."
+
+She touched his face and kissed him. The kiss was warm and lingering, carrying the relief of a day that had gone well and the familiar desire to be close when nobody else needed them. He drew her nearer, and she leaned into him without hesitation.
+
+Later, sitting together beneath the blanket, Thalia told him which questions she'd expected his mother to ask and which ones she was glad she'd been spared. He laughed at some of her imagined interrogations and took others seriously. Neither tried to turn the visit into a promise of anything grand.
+
+It had been tea, bread, a few honest conversations and a cupboard with a loose hinge. She liked that.
+
+When she finally slept, the house they'd visited seemed less like a separate world Rhys disappeared into and more like a place she might return to, on a day when both of them wanted to go.
+
+---
+
 ## February 22: When the Ice Broke
 
 The thaw began beneath the footbridge.
@@ -8357,7 +8357,7 @@ The room remained untidy. The pencil was still missing. Neither of them cared.
 
 ---
 
-## February 22: The Conversation They Didn't Have
+## February 23: The Conversation They Didn't Have
 
 Thalia knew she wanted him the moment she saw him standing in the doorway.
 
