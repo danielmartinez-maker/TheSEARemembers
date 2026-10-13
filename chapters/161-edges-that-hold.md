@@ -462,17 +462,32 @@ Tomorrow would come. Wednesday, date-day, whatever Silena's management decided. 
 
 But today — honey bread warm through cloth, whistle on a cord, tag in waterproof ink, potatoes labeled HELD TWICE, one true thing each with ears under yesterday and two true things with eyes open today, apples and iced tea and a white rock centered like an egg, a ferry waved off with whole arms and a picnic chosen on purpose with whole hearts — today had been rich in days. Today they had held grief lightly in the morning and chosen love deliberately in the afternoon, and the two halves rhymed like ripples from one stone.
 
-That was the purpose. That was what stayed. Tyson gone as promised, with promises to return. The couple closer, date complete, reply delivered and filed. Edges that held, drying that happened anyway.
+The cabin door opened before Percy had decided whether he wanted to go inside. Silena stood with a dry towel over one shoulder and her sleeves pushed up, surveying the two of them with a look that made Percy straighten instinctively.
 
-Percy felt Annabeth's hand tighten in his as the cabin door opened and Silena's voice came down the path — warm, perceptive, entirely herself: "Quilt inspection! If there's no sand, there was no relaxing!"
+"You're late for the quilt inspection," she said. "There's sand in the hems. I can tell from here."
 
-He looked at his girlfriend — fourteen, precise, planning, graphite washed off and lake instead, borrowed shirt long returned, reply in her pocket, stars coming out over her shoulders — and grinned, wry and easy and entirely in it, no counting, all the way in.
+"That seems like a strange thing to be disappointed about," Annabeth said.
 
-"Ready?" he asked.
+"It's the point of taking the quilt to a beach."
 
-"Ready," Annabeth said. "Boyfriend checked. Tools checked. Place kept."
+Percy handed it over. Silena shook it once, and a small spray of grit scattered onto the path. She looked satisfied. Then she held up the corner where Tyson's repair thread still showed, a thick blue line against the older fabric.
 
-They walked into the light together, belonging like a map freshly inked and a cleat that didn't wobble — held twice, chosen once, kept.
+"He finished that before he left," she said. "I saw him working after you went to bed."
+
+Percy touched the uneven stitches. He had spent the day thinking about the ferry leaving, and had missed the evidence of Tyson staying until the last possible minute. The towel was suddenly more difficult to give up than it ought to have been.
+
+"Don't wash that corner too hard," he said.
+
+Silena raised her eyebrows. "I wasn't going to put it through a forge."
+
+Annabeth's hand found his. She didn't explain him to his sister or claim to understand what Tyson had meant. She just waited while Percy took one more look at the thread.
+
+Inside the cabin Clarisse had left a scrap of paper on the table: WEDNESDAY: CHECK CLEATS BEFORE ANYONE TAKES OUT A BOAT. Under it somebody had drawn an enormous foot. Tyson's handwriting filled half the page.
+
+"That is a very large foot," Annabeth said.
+
+"It was a very large repair," Percy answered.
+
+He set the note beside the folded towel, where it would still be there at breakfast. Wednesday had a job on it now, and Percy had a reason to get up and do it.
 
 ---
-
