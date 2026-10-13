@@ -9426,3 +9426,175 @@ The calendar had a possible weekend marked in pencil.
 It was enough for tonight.
 
 ---
+
+## March 12: The Empty Seat
+
+The advanced program's first public demonstration went well.
+
+Thalia had spent weeks designing the course, training the assistant instructors and persuading everyone involved that the students would learn more from explaining their decisions than from being told which target to hit. The morning finally arrived with clear skies and a range full of nervous young archers.
+
+She was pleased with the result.
+
+The students managed their own safety briefing, inspected the lanes and identified two deliberate errors before anyone handled a live bow. They then completed the shooting course without incident. The final group made a mistake with the wind marker, corrected it, and explained the correction clearly enough that Chiron nodded with approval.
+
+Thalia stood near the fence watching them, feeling a private satisfaction she had not expected to be so strong. The program was hers. The work had succeeded because she'd made decisions, accepted criticism and kept changing the parts that did not work.
+
+When the demonstration ended, she looked toward the benches.
+
+Rhys wasn't there.
+
+She had told him about the event. He'd said he wanted to come. She knew he had rehearsals, but the final schedule had seemed to leave enough time. She searched the crowd once, then stopped, annoyed with herself for doing it when she ought to be congratulating her students.
+
+The rest of the morning passed in a blur of reports, equipment checks and well-earned praise. She answered the questions Chiron asked and gave her assistant a list of what had gone particularly well. She smiled when the students celebrated their success.
+
+Then she went home and discovered she was angry.
+
+Rhys came to Cabin One after supper.
+
+He was carrying a small parcel and wearing the expression he used when he knew he had disappointed someone.
+
+"Thalia."
+
+She stood in the doorway.
+
+"You missed it."
+
+"I know."
+
+"Did you forget?"
+
+"No. The rehearsal ran long, and by the time I could leave, the demonstration was almost over."
+
+She looked at him. He had offered a reason, not an excuse, but the distinction didn't make the empty seat less painful.
+
+"You could have sent word."
+
+"You're right."
+
+She was silent.
+
+He looked down at the parcel.
+
+"I brought something."
+
+"I don't want a gift."
+
+"I know."
+
+He put it on the porch rail and stepped back.
+
+"I wanted to come," he said. "I thought I could finish the rehearsal and still make it. When that stopped being possible, I should have told you. I'm sorry."
+
+Thalia looked at him.
+
+She wanted to believe him, and she did. She was still angry. She could feel how much she'd wanted him in the audience, how much the sight of him smiling from the bench would have mattered even if she never acknowledged it aloud.
+
+"It was important to me," she said.
+
+"I know."
+
+"You said you'd be there."
+
+"I did."
+
+She waited for him to add another explanation. He didn't.
+
+At last she stepped outside and closed the door behind her.
+
+"The program went well," she said.
+
+He smiled, relieved by the subject but not yet by the conversation.
+
+"Tell me."
+
+She considered telling him nothing, withholding the details because he'd missed the chance to see them himself. It would be a childish punishment. She had no interest in becoming that kind of partner.
+
+"The students caught both deliberate safety errors," she said. "The assistant ran the first briefing without help. Chiron approved the next stage."
+
+Rhys's smile widened.
+
+"That's excellent."
+
+"It is."
+
+He reached toward her, then stopped when he saw her expression.
+
+She looked at his hand. She wanted to take it. She wasn't ready to be kissed yet, and that was different from wanting him gone.
+
+"Walk with me," she said.
+
+They took the lower path around the meadow. The sky was darkening, and the first lanterns had been lit along the fence. Thalia told him more about the demonstration, including the mistakes the students had caught and the questions they'd asked afterward. Rhys listened. He offered no attempt to turn the conversation into an explanation of his absence.
+
+At the far end of the path she stopped.
+
+"I'm still disappointed," she said.
+
+"I know."
+
+"Don't promise to make it up to me with a dinner."
+
+"I wasn't going to."
+
+"Good."
+
+He waited.
+
+She looked at him. "Next time something changes, tell me."
+
+"I will."
+
+She believed him. It would take time for the disappointment to fade, and she was glad he hadn't tried to hurry it along.
+
+She reached for his hand.
+
+He took it, his fingers warm against hers.
+
+"Come back with me?" he asked.
+
+She looked toward the north path.
+
+"Not tonight."
+
+He nodded. "All right."
+
+She kissed his cheek, then stepped away before the tenderness became a way to avoid the harder part. They could be close again tomorrow. Tonight she wanted to go home, put her notes away and enjoy the success she'd earned without waiting for anyone else to approve it.
+
+Rhys watched her go.
+
+***
+
+The next morning he left a note at her door.
+
+*I looked at your students' results. Chiron showed me the report. You built something good. I'm sorry I missed seeing it. I'm proud of you.*
+
+There was no gift attached.
+
+Thalia read the note twice, folded it and put it beside her program outline. She felt the last of the sharp anger ease, though she knew the disappointment would remain a memory they'd both have to carry.
+
+That evening she went to his cabin.
+
+He was at the workbench when she arrived. He looked up, uncertain for one moment, then smiled when she crossed the room and took his hand.
+
+"Hello," she said.
+
+"Hello."
+
+She kissed him. He responded immediately, drawing her close without trying to turn the kiss into a declaration that everything had been forgotten. She liked that. They had told the truth, accepted a little distance and come back to each other when they were ready.
+
+When they drew apart, she was smiling.
+
+"Your note was good," she said.
+
+He looked relieved.
+
+"Thank you."
+
+"Don't expect me to frame it."
+
+"I wouldn't dare."
+
+She kissed him again.
+
+Outside the cabin, spring was beginning to loosen the last of the frost. Inside, the evening could finally be theirs.
+
+---
