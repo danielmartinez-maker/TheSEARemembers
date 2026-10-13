@@ -314,6 +314,110 @@ He saluted with the spear and nearly took out a dummy. Thalia laughed all the wa
 
 ---
 
+When Percy left the arena, Thalia stayed behind to put away the practice swords.
+
+She'd spent the morning making jokes about his footwork, and he had taken them in the spirit she'd intended. It was easy to be generous when she was winning a friendly training match against someone she liked. It was harder when she saw one of the younger campers watching from the edge of the arena, visibly wishing he could join.
+
+The boy was from Hermes cabin. Thalia recognized him by face but not by name. He was holding a wooden sword and doing the same four movements over and over, never quite reaching the correct position.
+
+"Do you want somebody to check that?" she asked.
+
+He froze. "Sorry. I was trying not to get in the way."
+
+"You're not in the way."
+
+He looked at the sword. "I know the names of the positions. I just keep doing them wrong."
+
+"Then show me."
+
+His first movement was too fast. He raised the sword before shifting his weight, which left his back foot behind him and made the blade wobble. Thalia almost said, *Stop being afraid of it.* The words rose automatically, sharp and impatient.
+
+She remembered Zeus shouting at her during a visit, asking why she wasn't stronger after months of training. He had changed his appearance and his standards from one meeting to the next, leaving her trying to guess what would earn his approval. She hated how quickly her own voice could approach that tone when somebody did something badly in front of her.
+
+She swallowed the comment.
+
+"What's your name?" she asked.
+
+"Julian."
+
+"Julian, would you like me to show you where your feet should go?"
+
+He nodded.
+
+She put down her own sword and demonstrated the movement slowly. Then she asked him to copy only the footwork without holding a weapon. His first attempt was awkward, but she could see the moment he began understanding where the weight needed to move.
+
+"Better," she said.
+
+He looked up, hopeful. "Really?"
+
+"Yes. You moved your back foot before you lifted the blade. That's the part that was missing."
+
+They practiced the footwork five times. Thalia didn't speed up the exercise until he could complete the motion without stumbling. When he picked up the wooden sword again, the blade moved more smoothly.
+
+"Do it once more," she said.
+
+He did. Then he grinned as though he'd won a tournament.
+
+"Can I try it with somebody attacking?" he asked.
+
+"Not without your instructor. This is enough for now."
+
+He looked disappointed but accepted it. She gave him the name of the technique and told him which training group was practicing it later in the week.
+
+As he went to return the sword, Clarisse appeared from the weapons rack.
+
+"You were patient," she observed.
+
+"Don't sound so shocked."
+
+"I've seen you teach before."
+
+"Then you know I'm excellent at it."
+
+"You're excellent at showing people what you can do. Teaching them how to do something else takes more work."
+
+Thalia looked at her. Clarisse wasn't trying to insult her. She was making a distinction Thalia had been reluctant to accept.
+
+"Did I get it right this time?" she asked.
+
+"Mostly. You looked as though you were going to shout, then didn't."
+
+"I thought of a better instruction."
+
+"Good."
+
+They carried the last practice swords inside. Clarisse mentioned that Julian's instructor had been trying to help him find his balance for weeks. He was clever and careful, but every time he made a mistake in front of older students he rushed the next attempt and made it worse.
+
+Thalia thought of the way Zeus's criticism had made her reach for more lightning instead of learning to stop. She didn't want Julian to associate her with the same fear.
+
+"Can I help with his lesson next week?" she asked.
+
+Clarisse glanced at her. "You can ask. Don't promise him before the instructor agrees."
+
+"I know."
+
+They finished shelving the swords. Thalia checked the rack, then left for lunch with the satisfying ache of a morning spent training. She hadn't had to make a child feel small to demonstrate that she was good at something. She wondered why that had taken her so long to learn.
+
+At the pavilion, Annabeth was drawing the edge of a roof in her notebook. Thalia sat beside her and stole a piece of bread.
+
+"How was training?" Annabeth asked.
+
+"Fine. I helped a younger camper."
+
+"Did you make him cry?"
+
+"No."
+
+"Congratulations."
+
+"You're unbearable."
+
+Annabeth smiled and handed her the rest of the bread. Thalia ate it while listening to her describe a problem with the roof angle. This was another lesson in patience: letting a person explain something she understood better than Thalia did and asking a question instead of trying to win the conversation.
+
+She looked forward to doing it again, even if she would never tell Annabeth that.
+
+---
+
 Micah was already waiting at the shallow dock when Percy arrived.
 
 He had put on his flotation vest backward. The instructor was standing a few steps away, watching him try to fasten a strap that didn't reach the buckle.
