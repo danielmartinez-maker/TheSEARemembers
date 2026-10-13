@@ -686,6 +686,28 @@ Percy glanced at the boy from the Underworld waving toward the fire, the girl ke
 
 Grover went to find Juniper. Percy stayed at the edge of the steps a moment longer. Then he walked down to join his own family.
 
+At the bottom of the steps, Clarisse was waiting with a paper cup of lemonade.
+
+"You've been gone for ages," she said.
+
+"About twenty minutes."
+
+"Still."
+
+She handed him the drink and pointed toward an open place beside Silena. Neither sister had saved him the best seat. They had saved one with enough space for his sore ribs and an easy route out if he became tired.
+
+Percy sat, trying not to look too pleased by the thoughtfulness.
+
+"You're not going to tell me the quest made you mature, are you?" Clarisse asked.
+
+"No."
+
+"Good. Because you've already managed to lose your shoes."
+
+Percy looked down. He was barefoot. His shoes were exactly where he'd left them outside the infirmary.
+
+Silena shook her head and passed him a blanket for the cooler evening. Percy accepted it, then watched the fire begin without volunteering to recount another monster fight.
+
 ---
 
 By sunset the whole camp migrated to the amphitheater for the campfire.
