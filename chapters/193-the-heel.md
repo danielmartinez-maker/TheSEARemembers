@@ -180,21 +180,49 @@ Annabeth ate a cake standing up on the step, the way Silena had said she would, 
 
 "What about the heel."
 
-"Thalia's heel. She's been favoring it since the survey and she's not been saying anything about it and this morning at the shooting line she favored it again and I watched her do it and she saw me watching and she looked away." Annabeth set the plate down on the step and looked at him with the face she wore when she was right and knew it and was going to say it anyway. "Somebody has to say it. Somebody who's not her."
+"Thalia's heel. She's been favoring it since the survey and she's not been saying anything about it and this morning at the shooting line she favored it again and I watched her do it and she saw me watching and she looked away." Annabeth set the plate down on the step and looked at him with the face she wore when she was right and knew it and was going to say it anyway. "Somebody has to ask her," Annabeth said, "and I don't know how to do it without sounding like I'm ordering her around."
 
-"Somebody who's not her."
+"You've tried?"
 
-"Somebody who's not her and who she can't deflect. She deflects me. She deflects Clarisse. She deflects Chiron. She deflects Rhys, and that's a whole thing we're not going to talk about." Annabeth picked up the plate and stood up and brushed the crumbs off her coat. "You're going to say it."
+"Three times. She says her boot's wrong, or that she can shoot perfectly well if I stop watching her feet, or that she has to get to the survey." Annabeth picked a crumb from the edge of the pan. "The worst part is I know how it sounds when I keep asking. I'm the one she raised. She thinks I want to repay her by telling her what to do."
 
-"I'm going to say it."
+"That's not what you want."
 
-"You're going to say it because you saw her favoring it on the step yesterday, and you're worried about her, but she still gets to make the decision, and you're going to say it today, and you're going to say it at the shooting line, and you're going to say it in front of Rhys if you have to, and you're going to say it until she agrees to get it looked at."
+"No. I want her to stop pretending she's not in pain because somebody might need her to run uphill."
 
-Percy looked at her. She looked back. The morning was cold and bright and the lake was grey at the edges and the tenth lantern had burned out on its hook and left a ring of frost on the wood where the heat had been.
+Percy looked toward the archery field, where the first few targets were just visible beyond the pines. "I could talk to her."
 
-"She's not going to agree to get it looked at."
+Annabeth studied him. "You could. I don't want you volunteering to fight my sister for me, though."
 
-"She's going to agree to get it looked at because you're going to say it in front of Rhys and she's going to be so busy being annoyed about Rhys that she'll agree to anything." Annabeth picked up the pan and held it out to him. "Take this back down the hill. Tell Silena the cakes were good. Tell Clarisse the list is down to two things. If you see her before practice, ask her privately whether she'll let Chiron look at the foot. She deserves to be asked."
+"I'm not volunteering for a fight."
+
+"Percy."
+
+"Fine. I'm not planning a fight."
+
+She gave him the look she reserved for statements that had been technically accurate and completely unconvincing.
+
+"Ask her when you can actually talk," she said. "Not while everybody's watching. I should have asked you properly instead of complaining about it over breakfast."
+
+"She'll tell me it's none of my business."
+
+"She may be right. You can still say you're worried."
+
+"And then?"
+
+"And then she decides. We don't get to make the decision for her. If she refuses, we talk to Chiron about what the training line needs to know for safety, without turning her foot into camp gossip."
+
+Percy took that in. It was less satisfying than marching down the hill and making something happen. It was also more likely to end with Thalia still willing to look either of them in the face.
+
+Annabeth passed him the pan. "Silena gets her pan back. And tell her the cakes were good."
+
+"That part I can definitely manage."
+
+She stood, pulling her coat close around her. The morning air had become brisk enough to sting. Percy hesitated.
+
+"You know I'll probably say something stupid."
+
+"I know you well enough to allow for it." She kissed his cheek. "Try not to say it at full volume."
 
 "It's not even nine."
 
