@@ -74,6 +74,40 @@ The river was quiet. Traffic hummed on the bridge behind them. A barge horn moan
 
 *There were children of the sea in Atlantis when it fell,* the river said gently. *Not you, salt-born. Not your sisters. Old grief travels a long way through water. Dreams can carry its echoes, but an echo is not a childhood you have forgotten. Do not mistake the story for your own years.*
 
+Percy had another question, one he had kept from nearly everyone except Annabeth.
+
+"Do you know why some people remember things other people don't?"
+
+The river moved around his fingers. He could feel a change in the current, but he couldn't tell whether it was an answer or merely the wake of a passing boat.
+
+*People carry different stories,* the spirit said at last. *A river may receive two accounts of a storm and know that both witnesses were frightened. That does not tell me which account is complete.*
+
+"That's not what I meant."
+
+*Then ask what you mean.*
+
+Percy opened his mouth. He wanted to ask who had changed his world, who had taken Sally from one childhood and placed her death in another, who had given him sisters he loved without the memories of growing up beside them. But to ask all of that was to hand the river a secret he didn't know it could keep. He had no reason to believe a spirit of the Mississippi knew more about time than the people living beside it.
+
+"Can water remember things that never happened?" he asked instead.
+
+The current cooled.
+
+*Water carries what touches it, salt-born. I can tell you about floods, boats and the stones beneath this city. I can tell you what stories others have poured into me. I cannot promise that every story is true, or that a dream is a witness.*
+
+Percy watched a barge travel downstream. It seemed enormous from this close, carrying containers with painted numbers on their sides.
+
+"So you can't tell me why my life feels wrong sometimes."
+
+*I can listen,* the spirit said. *I can tell you when you ask a question outside what I know. That is different from having the answer.*
+
+He hadn't expected the river to say that. Gods liked sounding as though they had answers for everything, especially when nobody could prove they were wrong. The spirit didn't seem particularly embarrassed by its limits.
+
+Percy traced a circle in the water and felt it dissolve.
+
+"Okay. That's fair."
+
+The spirit returned to the story of the sunken city. Percy listened, and this time he didn't try to turn every detail into a lost memory.
+
 "Is that why — " Percy stopped. He didn't know how to ask. Is that why the city in the dreams feels different from the home they tell me about? Is that why sometimes when I'm underwater I hear bells? Is that why Dad looks at me like I'm a ghost?
 
 *Yes,* said the Mississippi, simply.
@@ -98,7 +132,7 @@ Percy pulled his hand out. His fingers were wrinkled, but the bone-deep ache in 
 
 The river, being a river, said nothing. But a small wave patted the rock beside him, leaving a smooth white shell.
 
-There are no white shells in the Mississippi.
+It was a pale freshwater shell, polished by the current until it looked almost like something the sea might have washed ashore.
 
 Percy picked it up, turned it over in his palm, and put it in his pocket for Annabeth.
 
