@@ -530,11 +530,36 @@ The screen door opened behind him and Clarisse came out in her coat over her nig
 
 "It's been a good month." She let go of the rail and went to the door and stopped in it, and said, without turning round, "There's cider in the jug and it'll be eight by Wednesday if anybody at this table has an opinion about fruit, and if you're out here for another five minutes you're the one who relights the top lamp in the morning, because I'm not doing it in the frost." And then the door shut, and the latch went over, and the tenth lantern's hook by it stood empty because the lantern was in for the night, which was, Percy thought, exactly the right way round.
 
-He stood another minute, because the night had one more thing in him and he had nowhere to be.
+Percy stayed on the porch until his fingers began to hurt from the cold. Down near the beach a quilt hung between two poles, waiting to dry properly after the evening's gathering. The wind had moved it so that one edge was catching on the iron.
 
-Down at the bottom of the hill the beach sat in the dark with a quilt on two iron poles and sixteen bits of brass going quiet and cold in the frost, and the reeds went on clicking at the ice, and above the whole of it the sky went on forgetting everything it had ever been told, one star at a time, all the way down to the ridge.
+He looked toward the door. Clarisse had already warned him about the top lantern. Going down to fix a piece of cloth might earn him the morning's work, too. But the quilt would tear if it kept catching, and there was no chance he could forget it by daylight.
 
-He went in, and bolted the door, and left the lamp burning low over a table where nine people had eaten and a girl had come in an hour ago still smiling, and the frost went on coming down over the pump and the pine and the torn awning and the closed lake, quietly, without asking anybody's permission, the way a Sunday ends.
+He took the short way down the path, freed the fabric, and tied the loose end farther from the pole. It took less than five minutes. He didn't go near the water, which had already gone dark and cold, and he checked that the knot would release easily when someone came for the quilt in the morning.
+
+Coming back he met a Hermes camper on the steps, carrying an empty basket and rubbing his hands together.
+
+"Anything need taking up?" the boy asked.
+
+"No. Just make sure that basket doesn't roll down the hill."
+
+"That's not my plan."
+
+"Good plan."
+
+Percy waited until he'd passed, then returned to the porch. Clarisse had left the inner lamp burning at the table. The door was closed but not bolted, because she'd heard him go out and expected him back.
+
+"You're late," she said when he entered.
+
+"Five minutes."
+
+"Five minutes and a wet cuff. What happened?"
+
+"The quilt was catching on the iron."
+
+She checked his sleeve, then the clock. "You can look at it in the morning."
+
+"Already fixed."
+
+She seemed to consider an argument. Then she handed him the last mug of cider and went back to her list. Percy took it gratefully, sat near the stove, and let his hands warm around the cup. He had nothing to prove by staying outside longer.
 
 ---
-
