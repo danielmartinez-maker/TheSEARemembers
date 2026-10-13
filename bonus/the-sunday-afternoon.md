@@ -2750,3 +2750,193 @@ She felt a sudden rush of happiness, followed by the old instinct to make a joke
 He was grinning. She grinned back. The letter to his mother was still on the table, and the decision to leave had not changed. But something between them had become clearer, not because they'd conquered the future, but because they'd finally named the present.
 
 ---
+
+Tuesday evening, Thalia found three slips of paper waiting on Rhys's table.
+
+"What's this?" she asked.
+
+"A very bad idea."
+
+"At least you're honest."
+
+He had written a question on each slip and folded them into neat squares. The table had been cleared, the lamp turned down, and two cups of cider sat near the stove. He looked pleased with himself, which made her immediately suspicious.
+
+"Explain."
+
+"We spend a lot of time trying not to say what we're thinking."
+
+"You spend a lot of time making observations that are perfectly obvious."
+
+"And you spend a lot of time insisting they aren't."
+
+She folded her arms. "Where are you going with this?"
+
+"Three questions. We take turns. If you don't want to answer, you don't have to. No points, no winner."
+
+"That sounds suspiciously unlike a game."
+
+"It's an experiment."
+
+"I hate experiments."
+
+"You love experiments."
+
+"Only when I design them."
+
+He held out one of the slips. She took it, unfolded it, and read the first question aloud.
+
+"'What is something you want that you have not asked for?'"
+
+She looked up. "You're trying to get me to do your work for you."
+
+"Then ask me first."
+
+She considered, then handed him the paper.
+
+"What is something you want that you haven't asked for?"
+
+He looked toward the window. "I want a picture of us where you're not shoving me."
+
+She laughed. "That was a perfect photograph."
+
+"It was a very accurate photograph."
+
+"Same thing."
+
+"But I'd like another one. Not necessarily today. Just one where we're both looking at the camera."
+
+She thought about the photograph he'd kept in his notebook. The dispute over it had been real, and she didn't want to pretend it hadn't mattered. But the idea of choosing another image together no longer made her uncomfortable.
+
+"We can do that," she said. "After you come back."
+
+He smiled. "I'd like that."
+
+"Now your turn."
+
+He gestured toward the same slip. "You haven't answered."
+
+She took a breath. The question was harder than it appeared. She wanted many things from him, some easy to say and others more difficult because saying them would reveal how much she cared.
+
+"I want you to ask me to stay sometimes," she said.
+
+He looked surprised. "I do."
+
+"You ask if I want to stay. That's different."
+
+He considered. "You want me to tell you that I want you here."
+
+"Yes."
+
+"All right."
+
+"And I still want to be able to say no."
+
+"Of course."
+
+The straightforward acceptance left her oddly exposed. She had imagined having to defend the request, to explain why being wanted mattered without making it sound like an obligation. He simply understood.
+
+He moved closer, stopping in front of her.
+
+"I want you to stay tonight," he said.
+
+She looked at him. There was an entirely unreasonable pleasure in hearing the words so plainly.
+
+"That's better," she said.
+
+He kissed her. The kiss was gentle, but she could feel the anticipation that had been gathering between them since she arrived. She slipped one hand behind his neck and held him close for a moment longer than she needed to. When they drew apart, both were smiling.
+
+"Second question," he said.
+
+She groaned. "You have prepared too much."
+
+"Humor me."
+
+She unfolded the next slip.
+
+"'What is something you are afraid I might misunderstand?'"
+
+She looked at him. "You are enjoying this."
+
+"A little."
+
+"Then you answer first again."
+
+He thought for a while. "I'm afraid you'll think going home means I'm choosing not to be with you."
+
+The answer was so honest that she stopped smiling. He had been worrying about the same thing she had, only from the opposite side.
+
+"I don't think that," she said.
+
+"I know. But I don't want it to become a story we tell ourselves when we're apart."
+
+She reached for his hand. "Then we won't."
+
+"Good."
+
+She considered her own answer. "I'm afraid you'll think I'm embarrassed by us because I don't want everyone knowing the details."
+
+He shook his head. "I don't think that."
+
+"I know. But I still worry."
+
+"Then we can talk about it again when it comes up."
+
+She looked at him, satisfied. It was not a perfect solution. It was a way to keep the subject from becoming a weapon.
+
+"Third question," she said.
+
+Rhys handed her the last slip. She unfolded it.
+
+"'What should we do before I leave?'"
+
+She stared at him. "That's not a question. That's a plan disguised as one."
+
+He looked delighted. "You've discovered my scheme."
+
+She considered the possibilities. They could spend every night together, trying to compress the next few weeks into six days. They could arrange elaborate dates that would leave them exhausted and irritable. They could pretend the departure wasn't coming. None seemed particularly appealing.
+
+"I want one evening with no plans," she said.
+
+He nodded. "All right."
+
+"And one afternoon outside the cabin. Something ordinary."
+
+"Also possible."
+
+"And I want to be the one who chooses when we say goodbye."
+
+He looked at her. "What do you mean?"
+
+"I don't want people crowding around us at the station. I don't want a performance. I want to say goodbye to you properly, in a way that belongs to us."
+
+He considered. "Then we'll find a quiet place before I leave."
+
+She nodded. It was exactly what she'd been trying to say without admitting how much the departure frightened her.
+
+Rhys gathered the slips and set them aside. They had answered the questions, and the experiment was finished.
+
+"What now?" he asked.
+
+She looked at him. He was nineteen, standing in front of her with a slightly anxious smile, waiting to see whether she would choose to stay. She wanted him. She wanted the intimacy of his company, the pleasure of his mouth against hers, and the comfort of not having to invent a reason for either.
+
+"I thought you asked me to stay," she said.
+
+"I did."
+
+"Then stop standing across the room."
+
+He laughed and came to her. She took his face between her hands and kissed him, letting the evening move into a quieter rhythm. The questions had not solved the problem of the approaching separation. They had made it easier to stop thinking about the problem long enough to enjoy being together.
+
+Later, when the lamp was low and the cider had gone cold, she found the slips of paper beside the table and folded them into her coat pocket.
+
+"Are you stealing my experiment?" he asked.
+
+"Evidence."
+
+"Of what?"
+
+"That you occasionally have good ideas."
+
+He smiled. She kissed his cheek, then settled beside him again. The night was still young, and for once she had no interest in counting the hours left before morning.
+
+---
