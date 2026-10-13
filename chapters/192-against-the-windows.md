@@ -516,9 +516,28 @@ In the cabin at ten past six, with the four beds breathing and the stove ticking
 
 PINE — SAWN AND STACKED UNDER THE BRAKE. FENCE FREE. BUTT LENGTH ON THE FENCE — MORNING. SLEDGE. FOUR ARMS.
 
-She looked at it, and then, because there was room in the margin and because she was alone, she wrote under that, smaller: WORKMANSHIP — CLARISSE.
+Clarisse read the line again: the pine was sawed and stacked, but the heavy butt length remained across the sprung fence. That last piece was too wet to move by hand, and the ground beneath it was soft enough to swallow a lever block. She wrote SLEDGE under the morning entry and drew a square round FOUR ARMS so nobody could mistake it for an invitation to work alone.
 
-And she left the greenhouse bank and the torn awning exactly where they were, and put the pencil back behind her ear, and went to the door to look down at the hill, where the nine lamps were going up one at a time along the west path and the tenth was still dark on its hook by her own porch, waiting for whoever got sent to it last.
+The greenhouse bank and the torn awning were still on the list. Both would need attention before another storm. She disliked how much there was left, but the list had to describe the work rather than the afternoon she'd wanted to have.
+
+Silena came down from the sleeping end of the cabin carrying a blanket that needed mending. She saw the paper in Clarisse's hands.
+
+"You're not planning to drag the pine out tonight."
+
+"It's six thirty."
+
+"That's not an answer."
+
+"No. I am not going to drag the pine out tonight."
+
+"Good. The west path's marked?"
+
+"Rope across the break, warning on both sides. Nobody goes through until we move the butt and inspect the fence."
+
+Silena set the blanket on the mending chair. "Then that's tomorrow's problem."
+
+Clarisse nodded. She kept the entry visible on the table instead of tucking it into her pocket, where she might be tempted to pretend it didn't exist. Percy would see it at breakfast, and Beckendorf had already agreed to bring the sledge if the ground stayed firm enough.
+
+She went to the porch and checked the tenth lantern's hook. It was empty for the moment. The lamp could be lit after the evening meal, when someone was actually using the path. Beyond the cedar brake the barrier rope was barely visible in the falling light, exactly where it needed to be. Clarisse closed the door before the room lost its warmth.
 
 ---
-
