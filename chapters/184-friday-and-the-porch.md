@@ -476,7 +476,18 @@ Annabeth did not say anything for a moment, which was the correct thing to do an
 
 "The mug's a good leaf," Annabeth said, from the top step, in the flat warm voice that had been hers since about June, and Thalia Grace, who had been told all her life that she was Zeus's daughter and had spent this whole year finding out that she was somebody's older sister, put her hands in her coat and went inside and checked the window latch, and the stove, and the lamp, and did not stand at the window afterward for any longer than it takes to look at a hill and be sure of it.
 
-Below her, on a step at the bottom of the path, two people and a blanket went on not going in. Nine lamps burned between her and them and a tenth burned over their heads, and the frost came up the low ground at the edges at the rate it had all week, and somewhere past the boathouse turn and the brake and the curve the whole camp lay down under a sky that had more stars in it than anybody in it had names for, and the week — the wet one and the ridge one and the survey one and the mail one, all four of them carried up a hill and put on a wall and written down in three different kinds of handwriting — went on turning, slowly, the way a heavy thing turns, toward Saturday.
+Thalia checked the window latch, which had worked loose in the colder weather, and leaned against the sill while it caught. From there she could see Annabeth and Percy sitting on the step below, their blanket pulled up against the frost. The sight irritated her for reasons that had nothing to do with curfew.
+
+She could go down and order them inside. She could open the window and announce how cold it was, as if neither of them had noticed. Or she could let Annabeth decide when to come home.
+
+She chose the third option, which made her feel less accomplished than she'd hoped.
+
+A minute later Annabeth looked up. Thalia resisted the urge to duck away. Her sister raised one hand, still tucked halfway inside the blanket. Thalia answered with two fingers against the glass, then let the curtain fall.
+
+At the table she found the mug Annabeth had been talking about, the little leaf on the side barely visible in lamplight. It had a chipped handle. She turned it to see whether the crack reached the rim, and discovered that it didn't. There was no reason to throw it out.
+
+Thalia washed the cup and put it on the shelf where Annabeth would find it tomorrow. Then she wrote CHECK WINDOW LATCH in the margin of the work slate, because even a door she could shut herself wasn't a door she ought to trust all winter without repair.
+
+Outside, the younger two stayed another few minutes. Thalia did not count them. She sat on the edge of her bunk and loosened her boot, waiting for the ache in her heel to settle before she tried to stand again.
 
 ---
-
