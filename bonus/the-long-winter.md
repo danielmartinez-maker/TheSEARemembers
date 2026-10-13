@@ -3591,6 +3591,124 @@ He looked pleased by that. She kissed him once more and went down the path, the 
 
 ---
 
+### The Letter He Didn't Finish
+
+After Thalia left, Rhys discovered that he had forgotten to eat.
+
+The pot was still on the stove. It contained a small portion of stew, now cold enough to have settled into a discouraging shape. He looked at it for a moment, considered whether he wanted to warm it and decided that the effort would be more trouble than the food deserved.
+
+He ate bread standing at the workbench instead.
+
+The cabin was quiet. Thalia had been there for most of the evening, and the room seemed to retain the rhythm of her presence even after she closed the door. A scarf lay across the chair. One of her gloves had been left near the stove. There was a folded piece of paper beside the music, marked with corrections she had made while he played.
+
+He picked up the glove.
+
+It was small enough to fit entirely in his palm, made for someone who worked outdoors and disliked replacing a thing merely because it had begun to show wear. There was a neat repair across one finger. He could picture her making it, frowning at the thread because it refused to pass through the leather exactly where she wanted it.
+
+He smiled.
+
+Then he put the glove on the shelf.
+
+He could bring it to her in the morning. There was no reason to walk back up the hill now or to use a forgotten object as an excuse for another late-night visit. He was trying to learn the difference between wanting to see her and assuming every desire needed to be satisfied immediately.
+
+It was going to take practice.
+
+He took out the unfinished letter to his mother.
+
+The first page contained an account of the winter range, a complaint about the weather and two sentences about how he was making progress on the arrangement she wanted. He had then begun describing the camp's newest advanced instructors and stopped at Thalia's name.
+
+He hadn't known what to write next.
+
+A month earlier he might have said that Thalia was difficult, talented and apparently convinced that every target distance in camp had been chosen by a fool. All true. Now those descriptions seemed insufficient.
+
+He liked her.
+
+That was too simple, and at the same time more revealing than he wanted to be in a letter his mother would probably read twice before asking questions.
+
+He looked at the page and began again.
+
+*There's someone I want you to know about,* he wrote.
+
+He stopped.
+
+His mother would see the sentence and immediately ask why he had chosen such a dramatic introduction. She disliked unnecessary suspense, especially in letters. He crossed it out.
+
+*I've been spending time with Thalia Grace. She's one of the instructors here. We don't always agree about the range, but I like her company.*
+
+He looked at the second sentence.
+
+The disagreement was not the most important part. He had made it sound like a professional association with an unfortunate tendency to become loud. He tried another line.
+
+*She makes me laugh. She is excellent at her work, and she is learning to let other people help her even when she'd rather carry everything herself.*
+
+That was better.
+
+He considered adding more. He could describe the way she looked at him when she arrived at his door, the private smile that seemed entirely unlike her expression on the shooting line, the fact that he'd begun expecting to hear her voice at the end of the day and was surprised when it wasn't there.
+
+Those details were not his alone to share.
+
+He wrote instead:
+
+*I'm glad she's here.*
+
+He read the paragraph once more. It would raise questions. He knew it would. But it was true, and it did not require him to reveal anything Thalia had chosen to keep private.
+
+He folded the letter and placed it on the table.
+
+Outside, the wind struck the shutter. Rhys went to check the latch, found it secure and stood for a moment looking down the path through the glass.
+
+The lanterns had been lit earlier. He could see the next one below the rise and a faint light farther away near Cabin One. Somewhere beyond them Thalia would be getting ready for bed, perhaps still annoyed with him for something he hadn't noticed during supper. He hoped she was warm. He hoped her heel was comfortable. He hoped the argument she'd had with her sister had settled without requiring either of them to apologize for things that were not their fault.
+
+He did not know.
+
+That was an uncomfortable part of liking somebody. He couldn't know everything that happened to her once she left his door.
+
+He could care without knowing.
+
+He turned away from the window and went back to the workbench.
+
+The music still had a missing line. He'd been trying to fill it for days, writing increasingly complicated transitions in the hope that one would solve the problem. Thalia had suggested leaving the space alone. He'd resisted because it sounded too easy.
+
+He played the passage softly, letting the note fade instead of rushing to replace it.
+
+It sounded better.
+
+He tried it again.
+
+He smiled, annoyed that she had been right. Then he wrote the rest into the score and put the guitar aside.
+
+At eleven he went to bed.
+
+The cabin was no longer empty in the way it had been a week earlier. He had his work, his mother's letters and the ordinary responsibilities that waited in the morning. He also had someone he wanted to see. He didn't need to make a decision about the rest of his life before he could enjoy that fact.
+
+He slept.
+
+The next morning, he found the glove where he'd left it and brought it to the range. Thalia was standing near the sheltered line, explaining something to a new instructor. When she saw him, her face changed just enough to make him smile.
+
+He held up the glove.
+
+"You forgot something."
+
+She glanced at it.
+
+"Apparently."
+
+He handed it over.
+
+She slipped it on, then looked up at him.
+
+"Thank you."
+
+"You're welcome."
+
+There was no private conversation. They were at work. Two students were waiting by the equipment rack, and someone needed to check the targets before the first round began.
+
+Rhys went to do it.
+
+He liked knowing she'd be there when he turned back.
+
+---
+
 Thursday began with the kind of bright cold that made every metal surface painful to touch.
 
 Thalia had Rhys's scarf tucked under her coat. She hadn't decided whether to return it. Wearing it on the way to breakfast felt faintly ridiculous; leaving it behind had felt worse. In the end she wound it once around her throat and let the loose end disappear beneath the collar. It was plain dark wool, and anyone looking at her would have seen nothing worth remarking on.
