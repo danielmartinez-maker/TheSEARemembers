@@ -652,6 +652,134 @@ Annabeth raised her pencil high.
 
 "To us," she said quietly, but they heard her, and they cheered, and the sound rang across the hill and into the sky, where clouds gathered white and harmless, and the sun shone down on three olive trees and a circle of stones and a group of kids who, for once, had somewhere that was exactly theirs.
 
+The first real mistake happened before anybody began laying the mosaic.
+
+Beckendorf arrived from the forge with a stack of cut cedar lengths for the roof supports. They had been measured from the approved sketch and prepared the day before. He laid them out on the grass and asked Annabeth to check the labels against the work order.
+
+She looked at the first piece, then the second. The lengths didn't match the revised plan.
+
+"These are too long," she said.
+
+He frowned. "They match the order."
+
+"The previous order."
+
+They laid the drawings beside each other. Annabeth had moved the pillars inward after the root survey and reduced the span of the roof. She had updated the drawing, but she'd forgotten to send the revision to the forge before the timber was cut.
+
+"I'm sorry," she said.
+
+Beckendorf examined the ends of the wood. The lengths weren't ruined, but trimming them would require additional time and a new set of checks. He had other work that afternoon and could not simply abandon it because the architect had sent the wrong measurements.
+
+"Can you reuse them?" Percy asked.
+
+"Possibly," Beckendorf said. "But not without checking the bearing surfaces again. The roof has to hold up in bad weather, not only on a nice Saturday."
+
+Annabeth felt herself becoming defensive. She wanted to point out that her revision had improved the design and that the old measurements were an understandable mistake. Neither statement changed the fact that somebody had spent an hour cutting wood she couldn't yet use.
+
+"I should have given you the new drawing," she said. "I'll help correct the order."
+
+"Good. Then I'll come back after lunch and we'll decide whether we can trim these or save them for another project."
+
+Clarisse was standing nearby, holding a basket of tools. She looked disappointed. The roof supports were supposed to be the next task, and her shift ended before lunch.
+
+"Can we work on something else?" she asked.
+
+Annabeth checked the schedule. The mosaic tiles had already been sorted, but the floor needed a dry fitting before mortar could be mixed. That work did not depend on the roof.
+
+"We can test the central pattern," she said. "No adhesive yet. Just lay the tiles out and make sure the curves fit."
+
+Clarisse accepted the change with a shrug. Nico and Silena joined them on the ground, setting the small pieces on a cloth over the prepared bed. Annabeth showed them where the owl and wave patterns would meet, then stepped back and let them experiment with the arrangement.
+
+The first attempt produced a gap along the outer ring large enough to trap a shoe heel. Clarisse pointed it out.
+
+"That can't stay."
+
+"I know."
+
+"Then why don't we make the outer pieces wider?"
+
+"Because they're reclaimed tile. We don't have wider ones in the same color."
+
+Silena suggested a narrow line of darker pieces between the patterns. It would change the design slightly but allow the outside edge to remain smooth. Annabeth looked at the drawing, then the actual tiles. On paper the mosaic had been perfect. On the ground it needed to accommodate the material they had.
+
+"Try it," she said.
+
+Nico selected the darkest pieces and fitted them together, leaving enough space for mortar. The pattern became more interesting. The owl and waves no longer collided at a single point; they were separated by a thin band of shadow.
+
+"That's better," he said.
+
+Annabeth agreed. She'd been worried that every compromise would dilute her vision. Some were improving it in ways she hadn't anticipated.
+
+At lunch, Beckendorf returned with the revised timber measurements. He confirmed that the longer lengths could be shortened safely, but some of the offcuts would be too narrow for load-bearing work. He proposed using them later as trim pieces or for a storage shelf.
+
+"That means we won't finish the roof today," Annabeth said.
+
+"No. We can prepare the joints and make sure everything fits before we raise it."
+
+She looked at the half-completed structure. The unfinished appearance embarrassed her even though the project had never been scheduled to be complete in a day. Friends were working in small groups, talking quietly as they carried stones and swept soil away from the paths. Nobody was waiting for her to declare the building perfect before they enjoyed helping.
+
+"Then we'll prepare the joints," she said.
+
+The afternoon work went slowly. Beckendorf showed Percy and Clarisse how to mark the cuts, then left the actual saw work to the trained staff. Annabeth checked each measurement twice. Nico finished the dry fitting and took a photograph so the pattern could be recreated after the tiles were lifted to prepare the mortar bed. Grover inspected the tree roots and said the stored timber had been moved far enough away to satisfy the dryad.
+
+At three, the clouds thickened. The supervising instructor stopped work while there was still time to move the tools under cover.
+
+"We could finish the last two joints," Annabeth offered.
+
+"Not if the rain starts before we can protect the timber."
+
+"There's only about twenty minutes of work left."
+
+"Then there will be twenty minutes of work tomorrow."
+
+She swallowed the argument. Two weeks earlier she'd written a schedule with no room for delays. Now she knew exactly which job could wait, where the materials belonged and how to leave the site safe for other campers to pass.
+
+They covered the timber, marked the incomplete section with a rope barrier and carried the tools to the shed. Annabeth checked the list to make sure nobody had left a bucket in the path. When the first drops fell, the workers were already on the way to the pavilion.
+
+Percy caught up with her.
+
+"Are you disappointed?"
+
+"Very."
+
+"Why?"
+
+"Because I wanted to see it standing."
+
+"You will."
+
+"That's not much comfort."
+
+He considered. "Would you rather it stood for an hour and then fell down?"
+
+"No."
+
+"Then you're doing the slower thing for a reason."
+
+She glanced at him. He had spent most of the day carrying materials and asking whether he could help with the parts he understood. He wasn't trying to tell her disappointment was silly. He was reminding her that the purpose of building something wasn't the moment they could call it finished.
+
+"I'm sorry about the wood," she said.
+
+"You already told Beckendorf."
+
+"I wanted to tell you too. You brought the old order to the forge for me."
+
+"I did, because it was the one you gave me. We both missed the revision number."
+
+Annabeth looked at him. "You don't have to share the mistake."
+
+"I know. But next time I can check which drawing I'm carrying."
+
+They walked under the shelter of the dining pavilion as the rain began to fall in earnest. Clarisse was already there, telling Silena that the mosaic would have looked better if they'd made the shadow band twice as thick. Nico argued that it would cover the owl's wing. They had been working on Annabeth's project all day, and they were still arguing about the design because it mattered to them too.
+
+Annabeth spread the revised drawing on a dry table, carefully weighting its corners with empty cups.
+
+"All right," she said. "Let's look at the border one more time before tomorrow."
+
+They gathered around her. Outside, rain pattered against the roof. The half-built shrine was covered and safe. Their next day's work had a plan that accounted for what had actually happened, not what she'd expected that morning.
+
+---
+
 Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them.
 
 Thalia appeared with the work schedule under one arm.
