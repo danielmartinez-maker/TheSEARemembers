@@ -588,7 +588,7 @@ Thalia closed her fist around it. "Thank you."
 
 Thalia's throat worked. "I will not."
 
-Nico suddenly darted forward and stopped in front of Percy, staring up at him.
+Nico, having returned from the adjoining room with Bianca, suddenly darted forward and stopped in front of Percy, staring up at him.
 
 "You really shielded her from hellfire?" he asked.
 
@@ -599,6 +599,90 @@ Nico considered this, then held out his too-big sword, hilt first. "For luck," h
 Percy touched the hilt with two fingers. It was ice cold and hummed faintly, like a distant choir. "Thanks, Nico."
 
 Nico beamed and ran back to his sister.
+
+Percy was almost to the end of the carpet when he remembered the paper against his chest.
+
+"Lord Hades," he said.
+
+Thalia stopped. Annabeth looked back, saw him holding the folded petition, and turned with him.
+
+Hades did not look pleased.
+
+"You have another request?"
+
+"Yes. Not about the bolt." Percy held up the paper Charon had stamped. "This was filed downstairs. It's about Sally Jackson."
+
+The name changed the room. Percy couldn't explain how. The courtiers remained still, and the braziers burned exactly as they had a moment earlier. But Hades stopped tapping his ring against the throne, and his gaze became more attentive.
+
+"A welfare petition," he said. "You know I cannot return your mother to life."
+
+"I know."
+
+"Do you?"
+
+Percy thought of the voice in the Lotus phone, the woman who had sounded like Sally calling from an apartment that no longer existed in this version of New York. He had nearly stayed there to hear her say the same few phrases again. It would have been easy to tell Hades he wanted only a simple report. It would also have been a lie.
+
+"I want her back," he answered. "But I know wanting it doesn't give me the right to take her from here. I just need to know whether she's all right. Whether she has peace."
+
+Hades held out one hand. The stamped paper moved from Percy's fingers to the god's without a gust of air or a flash of light. Percy watched it cross the room and felt the peculiar emptiness of no longer holding something he'd carried so carefully.
+
+Hades read.
+
+"Sally Jackson," he said. "New York. Mortal. Died when her son was two."
+
+Percy nodded.
+
+The facts were dry and brief. He had expected the words to hurt more than they did. Instead they left him feeling oddly steady. Those were the facts of the life this world recorded. They didn't cancel the memories of another Sally, alive through the years Percy remembered.
+
+"I have the entry," Hades said. He touched the page. A narrow line of silver writing appeared beneath the stamp, too small for Percy to read from the carpet.
+
+"What does it say?" he asked.
+
+"That she has passed judgment and is in the Fields assigned to her. She is not under punishment. No claim for transfer is pending. That is what my records show."
+
+Percy exhaled. It was less than he had hoped for and more than he had expected when he entered the building.
+
+"Can I see her?"
+
+"No."
+
+The answer was immediate. Percy looked up.
+
+"Why?"
+
+"Because you came here on a quest concerning stolen divine weapons, not under an approved visitation order. Because the Fields are not a place where living children wander among their dead relatives at will. And because seeing her would not change the rules of her life or yours."
+
+Percy wanted to argue. He wanted Hades to understand that Sally had once lived to watch him grow older, that he remembered her hand on his shoulder and how she made blue pancakes even when she was tired. But none of those memories belonged in a welfare petition, and explaining them would force secrets into the open before he and Annabeth understood who could safely hear.
+
+He kept quiet.
+
+Annabeth moved beside him, close enough that he could feel her sleeve brush his hand. She didn't offer to speak for him.
+
+"May I keep the written response?" Percy asked after a while.
+
+Hades returned the page. The silver line remained, with a seal beneath it.
+
+"You may take that to the upper world. Do not treat it as permission to summon her."
+
+"I won't."
+
+Percy folded the document once, careful not to crease the seal. His hands were shaking. He didn't try to hide it.
+
+Hades looked toward the empty place where Bianca and Nico had stood earlier.
+
+"The living speak of death as though it were a door they can open whenever they miss somebody," he said. "It is not kind to the dead to make them answer every grief the living carry."
+
+Percy couldn't tell whether the god was speaking about Sally or about his own fear of losing the two children in his care. Perhaps both.
+
+"Thank you for checking," Percy said.
+
+"Do not thank me for a rule I enforce for every soul."
+
+Percy nearly smiled. Hades hadn't made the process easy, but he had given a response that wasn't built out of false comfort. It was something Percy could show Annabeth, and later perhaps speak about carefully with the people who knew Sally's history in this world.
+
+He turned toward the doors. There was still a bolt to find and a deadline he couldn't stop. This part of the quest had given him information he had needed, but it hadn't finished his grief. He supposed grief didn't have a filing deadline.
+
+Annabeth took his free hand as they walked. This time Percy accepted it without trying to make a joke.
 
 Hades raised his hand. The bronze door swung open behind them, showing the red-veined path and the hot wind.
 
