@@ -726,7 +726,7 @@ Annabeth took out a clean sleeve from the supply box and offered it.
 
 "For the courier packet," she said.
 
-Thalia accepted it. Across the pavilion, Percy returned to sorting the repair tools. He didn't ask what was inside the private envelope. Jason would tell them if he wanted to.
+Thalia accepted it. Across the pavilion, Percy returned to sorting the repair tools. He didn't ask what was inside the private envelope. Jason would tell them if he wanted to. There were enough other stories in the room to hear without asking for the one he had kept private.
 
 It was that kind of day. Dusty and tender. Everyone finding the kid they used to be under the bunk.
 
