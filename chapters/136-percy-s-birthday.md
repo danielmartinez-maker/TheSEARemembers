@@ -808,6 +808,58 @@ They sat a while, watching silver fish flicker through lily stems, saying nothin
 
 ---
 
+Thalia found them at the edge of the lily pool when the last light had slipped past the roof. She had been looking for Annabeth, she said, but her eyes went first to the little wooden box beside Percy.
+
+"What's that?"
+
+"A current gauge from Poseidon."
+
+Thalia studied it. "Your father actually understands gifts."
+
+"Sometimes."
+
+She glanced toward the palace doors. "Is he still here?"
+
+"He had to leave."
+
+"Did he tell you?"
+
+"He did. Not as early as he should have, but he told us himself."
+
+Thalia nodded. She had her own history of receiving promises from a father who wore different faces and came without warning. Percy didn't need to recount the entire conversation to make the difference clear.
+
+Annabeth held the star chart in its case. "We were just about to come back."
+
+"You have time," Thalia said. "I'm not collecting her like a late parcel."
+
+"Are you sure?" Annabeth asked.
+
+"Don't push it."
+
+She grinned and walked toward the banquet, leaving them by the water for another few minutes.
+
+Percy sat beside Annabeth with his birthday gifts stacked carefully away from the pool's edge. He felt rich in things: Clarisse's boat, Silena's song, Tyson's coral sword, Triton's ride and the chart Annabeth had drawn. He had been loved without all those people having to agree about what the day meant. He was also sad that Poseidon had missed part of it.
+
+"You don't have to stop being disappointed because the party was good," Annabeth said, reading his face.
+
+"I know."
+
+"Do you?"
+
+He considered. "I'm getting there."
+
+She touched the case that held his chart. "You can bring this back to camp. We can hang it somewhere you see it every morning."
+
+"Above my bunk?"
+
+"Wherever you want."
+
+"It's our sky," he said, low enough for only her.
+
+"The one we remember," she replied. "And a reminder that we still get new days underneath it."
+
+He leaned his shoulder against hers. There was no need to explain anything to the palace. The light from the lilies flickered across their hands, joined for a while before they went back inside.
+
 By the time they returned from the shore, Percy had remembered a birthday promise he'd made to Tyson and forgotten to keep. He had said they would visit the equipment shed to see the new hinges Tyson had designed for the visitors' bunk, and the afternoon was almost gone.
 
 "We can do it tomorrow," Percy offered.
