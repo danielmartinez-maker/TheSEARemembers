@@ -414,7 +414,15 @@ At the pavilion, Annabeth was drawing the edge of a roof in her notebook. Thalia
 
 Annabeth smiled and handed her the rest of the bread. Thalia ate it while listening to her describe a problem with the roof angle. This was another lesson in patience: letting a person explain something she understood better than Thalia did and asking a question instead of trying to win the conversation.
 
-She looked forward to doing it again, even if she would never tell Annabeth that.
+She looked forward to doing it again, even if she would never tell Annabeth that. When lunch ended, she found Julian beside the entrance to the arena, already practicing the steps on the flat stones where he could see his own feet. He stopped when he noticed her, expecting another correction. Thalia lifted a hand.
+
+"Not too long. Your instructor's giving you a full lesson tomorrow."
+
+"I know. I just wanted to remember."
+
+"Then write down the part you keep forgetting. It worked for Annabeth when she learned the storm-control exercise."
+
+Julian nodded. He took a stub of pencil from his pocket and made a small note on a folded card. Thalia watched him put it away, then continued toward her own patrol assignment. She couldn't promise every beginner would improve at her pace. She could make her instructions clear enough that a boy like Julian knew what to practice after she left.
 
 ---
 
