@@ -28,7 +28,7 @@ He bowed to her, a little deeper than the greeting called for. “Silena. Claris
 
 His gaze rested on his sisters last, but his greeting had given each of them the same space. Percy noticed. He also noticed Clarisse notice it.
 
-“I’m here to prepare you for Atlantis,” Triton said. “Your departure is confirmed for the end of the week. Mother has sent the passage details to Chiron. Father will meet you at the palace.”
+“I’m here to prepare you for Atlantis,” Triton said. “Mother has suggested the end of the week for the palace visit, if you're ready. She sent the possible passage details to Chiron. Father will meet you there if you choose to come.”
 
 “You’re here to teach us how to bow,” Clarisse said.
 
@@ -116,7 +116,7 @@ Triton raised a hand. “We are beginning with the greeting.”
 
 “No. A performance is what Percy does when he tells people he beat me at current-racing.”
 
-“I did beat you,” Percy said. “The hippocampus was on my side.”
+“You told me I beat you,” Percy said. “The hippocampus was on my side.”
 
 “That is not what ‘race’ means.”
 
@@ -420,7 +420,7 @@ Annabeth looked up. “I appreciate that.”
 
 “I will.”
 
-Percy tilted his head at the map. “The room changed since I was little. They added the shell wall after the eastern arch flooded.”
+Percy tilted his head at the map. “Triton told me they added the shell wall after the eastern arch flooded. That must be the part you showed me in your sketch.”
 
 Annabeth looked at him. “The hall flooded?”
 
@@ -628,7 +628,7 @@ Clarisse pointed at him. “I like that one.”
 
 “Of course you do,” Triton said.
 
-Percy looked down at the table. It was strange how many details returned as soon as he let them: the shape of the benches, the open space where the servants would move, a blue glass bowl in the center. He could almost hear the palace again, the soft rush of water through its channels, and the low hum of the city outside.
+Percy looked down at the table. He could picture the benches and the open space where servants might pass, because Triton had sketched them and talked him through the hall. The blue glass bowl in the center came from one of Amphitrite's descriptions, not a memory of seeing it himself. The rush of water through palace channels was easy to imagine, but he could not claim he remembered the old room. He still wanted to see it with his own eyes.
 
 “You’re worried,” Silena said quietly.
 
