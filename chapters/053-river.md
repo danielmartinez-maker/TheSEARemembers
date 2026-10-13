@@ -724,6 +724,120 @@ Percy watched the rainbow fade. The simple distinction settled oddly in him. He 
 
 He folded the corrected report and put it in Martin's outgoing envelope. Then he sat down beside Annabeth and let the question of Olympus remain unsolved for the night.
 
+Thalia was halfway through repacking the first-aid tin when a folded photograph slipped out of the side pocket of her jacket.
+
+Percy saw it fall. He bent to pick it up and stopped when he recognized the boy in the picture. Jason Grace stood in front of a Roman training field, looking uncomfortable in ceremonial armor. A taller camper had apparently told him to stand straight for the camera. Jason was grinning anyway.
+
+Thalia took the photograph before Percy could say anything.
+
+"Don't."
+
+"I wasn't going to ask."
+
+"Good."
+
+She sat on the edge of the bed and held the picture by one corner. Percy knew better than to ask when it had been taken. The changed timeline had given Thalia years of memories of Jason that Percy and Annabeth could only learn from other people. Thalia had talked about supervised visits with her brother, letters, and the odd loneliness of having a sibling raised in a different camp with a different set of rules.
+
+"Do you hear from him often?" Percy asked after a while.
+
+"No. Not lately." Thalia looked down at the photograph. "He's busy. The legion keeps him busy, and the last time we spoke he had a competition or an inspection or something I couldn't understand. Roman stuff."
+
+"Maybe he's fine."
+
+"He probably is."
+
+Percy sat on the floor beside his own bag. He didn't want to tell her not to worry. It would be like telling Clarisse not to think about him while he was gone.
+
+"I keep remembering the old stories," Thalia said quietly. "Not the other life. The stuff Beryl told us, before we understood how much she'd make up to sound good. She'd say siblings look after each other no matter how far apart they are."
+
+"She wasn't wrong about that."
+
+"She wasn't around enough to do it herself."
+
+Percy didn't answer. Annabeth was in the bathroom rinsing the last of the river mud out of her socks, and Percy was glad Thalia could say something about their mother without worrying how her sister would hear it.
+
+Thalia traced the edge of the picture with her thumb.
+
+"Jason sends these instead of telling me when he's scared. A picture after a ceremony. A letter about the weather. Sometimes he writes about what the legion's building, and I can tell he wants me to ask what else is going on. But if I ask directly, he says he's fine."
+
+Percy looked at her. "Sounds like somebody I know."
+
+"Don't."
+
+"Wasn't going to."
+
+She smiled despite herself. Then the smile faded.
+
+"Yesterday, when Zeus took away the sky-gifts, I thought about Jason. I didn't ask whether the same punishment applied to him. Maybe it doesn't. Maybe he's not involved. But I keep wanting to send him a message asking him to stay out of trouble, and I don't know how to make that sound like anything except another order from his big sister."
+
+"You could tell him what happened," Percy suggested.
+
+"And if somebody at Camp Jupiter intercepts it?"
+
+"Then you tell him a smaller part. That you're on a trip. That you hope he's okay."
+
+Thalia considered the photograph. "I don't want to make him responsible for my fear."
+
+"Then don't. He can be responsible for answering when he wants to answer."
+
+She shot Percy a look. "You've been spending too much time with Annabeth."
+
+"I have excellent taste in company."
+
+"Debatable."
+
+They sat in silence. Percy could hear the air conditioner clicking near the window and Grover opening a packet of crackers on the other side of the room. Thalia slid the photograph back into her jacket pocket.
+
+"Can I ask something stupid?" she said.
+
+"Sure."
+
+"Do you think he remembers me when we're not writing?"
+
+Percy stared at her.
+
+"You're asking whether your little brother thinks about you?"
+
+"He's got a whole life I don't see," Thalia said. "Sometimes it's easy to feel like a visitor in it."
+
+He thought about Triton and Tyson, the different parts of Poseidon's family that existed outside Camp Half-Blood. He had no idea what those brothers did every day. That didn't make them less his brothers. It only made the gaps harder to fill with anything except imagination.
+
+"Yes," Percy answered. "I do."
+
+Thalia watched him carefully. "That's not a prophecy."
+
+"No. It's a guess."
+
+"A pretty confident guess."
+
+"Because I think about my sisters when I'm not in the same room. And Jason has you, which is probably as exhausting as having Clarisse."
+
+She laughed, then stopped when her forehead ached.
+
+"Careful," Percy said.
+
+"I know."
+
+Thalia laid the photograph flat inside her notebook and began to write. Percy didn't read over her shoulder. He could hear the pencil moving, slow at first, then faster.
+
+When she finished, she showed him only the final two lines.
+
+*I'm on the road with Annabeth and some friends. We're all alive, and I wanted to tell you that I miss you. Write when you can.*
+
+"Good?" she asked.
+
+"Very."
+
+"No speeches about family?"
+
+"None required."
+
+She folded the note and put it with the outgoing messages. They couldn't guarantee it would reach the Roman camp safely, so Thalia marked it for Chiron to route through the trusted contacts he actually had. Percy appreciated that she hadn't asked him to invent a faster way.
+
+He looked at the photograph once more as she slipped it away. Jason's smile was awkward and unmistakably real.
+
+Thalia was still afraid. Nothing they had said had removed that. But she had found something better to send than an order.
+
 After they'd eaten, Grover curled up on the floor with his wrapped hooves on a pillow and his head on Percy's backpack and fell asleep mid-sentence about clover. ("Tell Juniper the Missouri grass is—") Thalia took the shower first, came out in sweats with her hair dripping, claimed the bed by the window, and was snoring softly within minutes, one hand curled around her new bracelet.
 
 That left Percy and Annabeth on the other bed, backs against the headboard, legs stretched out, sharing the last granola bar.
