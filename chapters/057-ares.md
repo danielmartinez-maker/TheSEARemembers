@@ -366,6 +366,90 @@ Then he was gone. The pressure lifted. Gulls cried again. Far off on the pier so
 
 The sword stayed behind in the surf, hissing as waves washed over it. Hovering three feet above the glass crater, spinning slowly, humming with barely leashed storm, was the Master Bolt.
 
+Nobody moved toward the bolt.
+
+It hung above the disturbed sand in a slow rotation, almost beautiful from a distance. Percy could feel the pressure of it in his teeth, the way he'd felt Zeus arrive at camp. That did not make it any less dangerous. The longer they stood, the more the light seemed to draw the attention of the people near the pier.
+
+"We can't leave it here," Thalia said.
+
+"We can't grab it," Annabeth answered.
+
+Grover backed away another step. "I would prefer not to become ash."
+
+Percy capped Riptide and looked around. The canvas rifle case had split open when it struck the ground. The inner lining was blackened but not entirely destroyed. He thought about picking it up, then remembered how the case had sheltered the weapon while Ares carried it. There might be a reason the war god had used that particular material.
+
+"Can we use the case?" he asked.
+
+Annabeth crouched near the torn fabric. She kept her burned hand away from the glowing weapon and examined the straps.
+
+"The lining's insulated with something," she said. "I don't recognize it. We shouldn't assume the damaged case still protects us."
+
+She checked her bag for the pair of thick gloves Silena had packed. They were ordinary leather, useful against rope burns and rough stone. No one could tell whether they would help against Zeus's master bolt.
+
+"We need instructions," Annabeth said. "A divine weapon isn't a souvenir. We need somebody authorized to handle it."
+
+Thalia looked toward Ares's motorcycle. The war god was gone, but the bike remained near the water. It had begun sinking into the wet sand as the tide moved in. The wheels and engine were still warm, and the seat was close enough to the bolt that the metal seemed to vibrate.
+
+"Can we contact Olympus?" Thalia asked.
+
+"Through the same court that's nearly gone to war over this?" Percy answered. "Maybe. But which god do we trust not to send somebody else to take it?"
+
+Silence.
+
+Grover lifted his pipes. "We can ask Chiron. He'll know which adult to call."
+
+Percy felt embarrassed that none of the three demigods had suggested the simplest option first.
+
+They went back above the surf and found a shallow depression where a remnant of the tide reflected enough light for an Iris message. Percy gave Grover one of the few remaining drachmas, and the satyr made the call while Annabeth kept watch on the hovering bolt.
+
+The connection flickered. At first they saw Chiron's empty desk. Then the centaur appeared, looking tired and impatient.
+
+"Please tell me you are safe," he said.
+
+"We're alive," Grover answered. "And we found the bolt."
+
+Chiron went very still. "Show me."
+
+Annabeth moved the rainbow's viewing angle just enough for him to see the weapon from a distance. The white-blue light caught in the water and turned the colors almost completely silver.
+
+"Do not touch it with bare hands," Chiron said at once.
+
+"We weren't going to," Percy lied.
+
+Chiron gave him a look.
+
+"Don't attempt to channel its power. No water, no lightning, no experiment in whether your father's protection makes you immune to your uncle's weapon. I will contact the Olympian court and arrange for an authorized courier or a sealed vessel suitable for safe transport. Until then, keep bystanders clear and avoid moving it."
+
+"But the solstice is tomorrow," Thalia said.
+
+"I know the date."
+
+"We can't wait three days for a messenger."
+
+"We are not going to improvise the movement of the master bolt in the middle of a public beach. Give me a location, the facts you observed and the condition of your party."
+
+Annabeth supplied the first two with the careful precision Percy had come to rely on. Grover added that Ares had left the bolt behind when the case broke open. Percy admitted that they'd challenged the war god and that he was hurt, though he found himself reluctant to describe how badly his ribs ached.
+
+Chiron looked directly at him.
+
+"Have your injuries assessed before you make another journey. The weapon is a matter for the gods now that it is located. The welfare of four children remains my responsibility."
+
+Percy wanted to point out the gods had put the problem in four children's hands in the first place. He didn't. Chiron sounded as though he knew that better than anyone.
+
+The centaur asked them to move no closer. He would call back through a trusted contact and confirm when a courier was actually on the way.
+
+Grover dismissed the rainbow only after repeating the rendezvous point twice.
+
+"One problem at a time," he said.
+
+Annabeth looked toward the bright bolt, still turning above the beach.
+
+"That's a very large problem."
+
+"Then it can wait five minutes while we make sure nobody bleeds to death," Grover answered.
+
+Percy laughed, winced and sat down. He couldn't remember the last time Grover had sounded that much like the person in charge.
+
 Percy lowered Riptide. His arm gave out. The sword tip dropped into sand.
 
 For three full breaths none of them moved.
