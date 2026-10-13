@@ -570,6 +570,26 @@ Percy laughed, sudden and wet. "That's exactly it. Same trip."
 
 "Same trip," Tyson confirmed, pleased. "You understand fastest."
 
+He took his hand off Percy's shoulder and bent toward the dock boards. A brass washer had worked halfway out of the fastening beside his foot. Tyson pressed it with one thick finger, then shook his head.
+
+"Tomorrow morning I must ask Chiron for a wrench," he said. "This one turns when feet cross it. The dock is good, but good things still need checking."
+
+Percy crouched beside him. The washer moved under his thumb too. Yesterday he might have offered to fetch a wrench immediately, to prove he could make the visit safer and better and somehow last longer. The light was nearly gone. He could barely see the edge of the bolt.
+
+"We'll tell Chiron before breakfast," he said. "Nobody should try to tighten that in the dark."
+
+Tyson nodded, satisfied. "And Olive must not use this part of the dock until it is fixed. She runs and jumps. That is what ten-year-olds do when happy."
+
+"She'll get a warning."
+
+"With pictures," Tyson said. "She likes pictures."
+
+Percy took the pencil stub from his pocket and made a small X on the dry board well away from the fixing. It would be easy to point out in daylight without persuading anyone that his little mark was a repair. Tyson examined the X, then added a second one beneath it, careful and round.
+
+"Two marks," he said. "So we both remember."
+
+Percy smiled. It was good to have something to do together tomorrow that was neither a celebration nor a goodbye.
+
 Down the dock Clarisse was coiling rope, coral sword strapped across her back — she hadn't taken it off since the gift. Silena sat on the planks with her feet in the water, stitching the hippocamp toggle onto the blanket. Annabeth and Thalia stood at the dock's root, Thalia's arm around Annabeth's shoulders, laughing at something low and private.
 
 Family, Percy thought. Not the people who decided to stay. The people who kept deciding it. He kept that in his pocket with the other staying things.
