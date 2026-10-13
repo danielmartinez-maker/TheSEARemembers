@@ -348,6 +348,55 @@ Thalia looked around the cabin. His spare shirt hung over a chair. The blue mend
 
 She leaned over to kiss him and tasted the strong tea he had insisted on making. He put the cup down very carefully before returning the kiss.
 
+Before she went, Rhys stopped her at the door with the striped socks in his hand.
+
+"You forgot these."
+
+"I didn't forget them."
+
+"They're still on your feet."
+
+"Then the system is working."
+
+"Thalia."
+
+She looked up at him, trying not to smile. He had a faint crease between his eyebrows that appeared whenever he was concentrating, whether on an arrowhead or on figuring out what to say to her.
+
+"They're yours," he said.
+
+"I know."
+
+"Do you want to keep them?"
+
+She was unreasonably pleased by the question. He could have told her to take them; he could have made a joke and turned the moment into one more example of how he knew what she wanted. Instead he was waiting.
+
+"Yes," she said. "For a while."
+
+"Then keep them."
+
+She stepped closer and kissed him, slowly enough that neither of them could mistake it for a reward given in passing. When she drew back, he was still looking at her.
+
+"Are you always going to be this difficult to leave?" she asked.
+
+"Only when you keep giving me good reasons to ask you to stay."
+
+"That's a very dangerous answer."
+
+"I've made peace with it."
+
+Thalia touched the open collar of his shirt, straightening it without thinking. He glanced down at her hand and then back at her face.
+
+"I want to see you again," she said.
+
+"You will."
+
+"That's not quite what I meant."
+
+His smile gentled. "I want that too."
+
+She nodded once, satisfied. The straightforward answer felt better than any elaborate promise. She gave him one last kiss, slipped her boots over the borrowed socks, and took her coat from the hook. He watched her, not trying to slow her down. She liked that almost as much as she liked being asked to stay.
+
+
 By the time she left, the rain had stopped. Her coat was mostly dry, and she had borrowed the striped socks with the explicit promise that she would return them. She doubted she would keep that particular promise. Rhys walked her to the threshold and rested one hand on the doorframe.
 
 "Sunday?" he asked.
