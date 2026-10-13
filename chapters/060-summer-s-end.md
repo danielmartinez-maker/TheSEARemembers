@@ -706,6 +706,98 @@ Percy thought of Tyson, of Triton awkwardly trying to braid seaweed into Percy's
 
 "Promise," they all said, and the stars burned steady overhead, indifferent and kind.
 
+Chiron interrupted the night before anybody could start booking a trip to California.
+
+He had been standing near the trading table, holding the latest reply from Reyna in a brown envelope. When Thalia saw the Roman seal, she stood so abruptly that her chair fell backward. Annabeth caught the chair and set it upright.
+
+"Is it about Jason?" Thalia asked.
+
+"It's about a possible visit," Chiron said. "I'd like to discuss it with you and Annabeth privately."
+
+Thalia glanced at the friends still spread across the blankets. She had been talking about the visit all evening, loudly enough that half the camp probably knew she intended to bring peanut butter-free cookies. Privacy hadn't occurred to her until Chiron said the word.
+
+"All right."
+
+Percy stayed on the blanket with Grover while the sisters walked toward the Big House. He could see Thalia's silhouette in the porch light, arms folded. Annabeth stood beside her with the notebook she always seemed to have.
+
+Grover picked at a loose thread on his blanket.
+
+"Do you think Reyna invited all of us?"
+
+"I hope she invited the people who need to go," Percy said.
+
+Grover looked at him. "That's a very strange answer."
+
+"I've spent the whole week promising things on behalf of people who haven't been asked. I'm trying to stop."
+
+Grover considered that. "You still promised to call me on Sundays."
+
+"You were there."
+
+"True."
+
+Percy watched the porch until the girls came back. Thalia was carrying the envelope. She looked less excited than she had earlier, but not disappointed exactly. Annabeth kept glancing at her, waiting.
+
+"Well?" Percy asked.
+
+Thalia sat down.
+
+"Reyna said Jason's doing fine," she replied. "She said we can request a visit during fall break. She didn't say it's approved. There's a travel agreement to work out between Camp Jupiter and Chiron, and Jason has to be told and given the chance to say when he's free."
+
+"That's fair," Silena said.
+
+"Obviously it's fair," Thalia snapped. Then she looked down. "Sorry. I just wanted to know I could see him."
+
+Percy understood. It had been easy to picture a glorious reunion when the details were no larger than a campfire promise. It was harder to be told that the other person had a timetable and a life not built around your arrival.
+
+Annabeth sat beside her sister.
+
+"She also said he wrote a letter," she told the others. "It's supposed to come through the regular courier because he wanted it to be a real letter, not a message somebody could interrupt."
+
+Thalia looked at the envelope again. "I didn't know he cared which way a letter came."
+
+"He does," Annabeth answered. "Maybe he wants to tell us something that takes more than one minute."
+
+Clarisse leaned forward. "Then you should wait for it before deciding what the entire camp is doing over fall break."
+
+Thalia made a face. "Are you going to spend the whole evening being reasonable?"
+
+"I've been reasonable all summer. Nobody appreciates it."
+
+Silena laughed. The Stolls began an argument in the background about whether Roman mail could be sent by Pegasus, and Chiron called from the porch that it could not, at least not without several written permissions and a conversation about airspace.
+
+Percy felt Annabeth's hand brush his. She didn't reach for it immediately.
+
+"I wanted you to come," she said. "I still do. But I think the first visit should be about them. Jason and Thalia, and me if he wants me there. I don't want to arrive with six friends and turn his afternoon into a camp event."
+
+"Then you won't," Percy said.
+
+"You don't mind?"
+
+"I'll mind missing you. That's different."
+
+She took his hand.
+
+Grover looked relieved. "Good. Because if all of us went, I'd have to ask the Council for time off before I'd even started the new job."
+
+Thalia rubbed her forehead. The laughter around the blankets had settled. She looked toward the sky, then back at the envelope.
+
+"Fine. I'll write to Reyna and say thank you. I'll tell Jason he can pick the day and that Annabeth and I want to see him. No surprise visits, no entire Greek delegation."
+
+"Can you manage that?" Clarisse asked.
+
+"Don't test me."
+
+Percy watched her take out the notebook and write the opening line. She was so determined to seem older than Annabeth that sometimes she forgot she could ask her younger sister how to say a difficult thing. Tonight she slid the page toward Annabeth for a second opinion.
+
+Annabeth read it, corrected a single word and pushed it back.
+
+"Good," she said.
+
+Thalia looked at the revision and smiled.
+
+The campfire plan had become smaller. Percy thought it might also have become a plan Jason could say yes to.
+
 ---
 
 The next two days blurred into heat and hurry. Thursday's capture the flag ended with Clarisse hiding the flag in a hollow log while Silena charmed the guards, and Friday was canoes and cabins and a last sword lesson.
