@@ -1241,6 +1241,169 @@ Later, when Annabeth asked whether the shutters were finally safe, Thalia said t
 The following Monday, after two days of trying not to think about that porch, Thalia would walk to Rhys's cabin in the dark and stop waiting for an excuse.
 
 
+The Sunday before she first went to his cabin, Thalia spent the morning proving something to nobody in particular.
+
+Her heel had been aching since the previous week. It was not a dramatic injury. She could walk, stand and shoot, provided she paid attention to where she put her weight. She had therefore decided that the sensible solution was to stop paying attention to it entirely.
+
+By nine she had completed a practice round, corrected two younger campers and carried a box of arrowheads from the storage shed to the range. None of the work had required her to run. She was pleased with the distinction. It made her feel as though she was following Chiron's general advice without actually admitting she needed any.
+
+At the fire ring after lunch, Percy noticed the limp.
+
+"You're favoring it," he said.
+
+The words landed in the middle of a conversation about the winter schedule. He hadn't raised his voice or accused her of anything. He had simply observed what he could see.
+
+Thalia looked at him.
+
+"Favoring what?"
+
+"Your foot."
+
+"I'm standing."
+
+"Yes. On one side."
+
+Clarisse glanced at her, then looked away. Silena was busy dividing a loaf of bread. Annabeth had gone very still beside the fire, which was worse than any lecture she might have given.
+
+"I'm fine," Thalia said.
+
+Percy lifted both hands in surrender. "All right."
+
+He believed her about as much as she believed the answer herself. That was the irritating part.
+
+The conversation moved on, but Thalia could feel everyone's attention returning to her whenever she shifted on the uneven ground. She kept her face composed and her weight off the sore heel, which made the problem more obvious rather than less.
+
+Eventually she announced that she needed to check the north path and left.
+
+She did not go to the north path.
+
+She went to the equipment shed and sat on the low bench behind it, where nobody would ask questions. The heel had begun to throb in earnest. She loosened the boot, rubbed the back of her ankle and considered the humiliating fact that Percy had been right.
+
+She was not alone for long.
+
+Rhys appeared at the corner of the shed carrying a canvas case. He stopped when he saw her.
+
+"Sorry. Didn't know you were here."
+
+"Clearly."
+
+He looked at the open boot, then at her face. She was already preparing the defense: that she'd only stopped to adjust the laces, that the work was finished, that he had no reason to look at her as though she needed supervision.
+
+He didn't ask.
+
+Instead he set the case on the other end of the bench and began checking a broken fastening.
+
+Thalia watched him work for a while.
+
+"You could say something," she said.
+
+He looked up. "About what?"
+
+"My foot."
+
+He glanced down. "You've had a difficult week with it."
+
+"That's not an answer."
+
+"It's the observation I've got."
+
+She studied him. He wasn't pretending not to see the injury. He simply wasn't treating it as permission to take charge.
+
+"You think I should see Chiron."
+
+"Yes."
+
+"Everyone does."
+
+"That doesn't make everyone wrong."
+
+She stared at him. There it was: the honesty she liked and resented, delivered without an attempt to soften it into flattery.
+
+"You're very irritating."
+
+"I've been told."
+
+He returned to the fastening. She could have left. She remained because the quiet was pleasant and because she wanted him there, even when he refused to agree that she was invincible.
+
+After a while she asked, "Would you have said something at the fire ring?"
+
+"No."
+
+"Why?"
+
+"Percy had already said it."
+
+"That isn't why."
+
+Rhys considered. "Because it wasn't my place to make the whole conversation about your foot."
+
+She looked at him.
+
+"You're allowed to ask whether I'm all right."
+
+"I know."
+
+"Then why didn't you?"
+
+"Because you would have said you were fine, and we'd both know the conversation hadn't gone anywhere."
+
+That made her laugh, unexpectedly.
+
+"You're getting very good at this."
+
+"At what?"
+
+"Making it difficult to argue."
+
+He smiled faintly. She looked down at her boot. The heel still hurt, and she could no longer pretend she didn't know what the answer ought to be.
+
+"I'll see Chiron," she said.
+
+"Good."
+
+"Don't sound victorious."
+
+"I'm relieved."
+
+The word caught her attention. He had been worried, then. He had simply chosen not to make the worry her responsibility.
+
+She looked at him. He was still working on the fastening, his head bent, his hair falling across his forehead. She felt the now-familiar urge to reach out and brush it aside. She did not.
+
+"Would you be relieved if I stopped shooting for a week?" she asked.
+
+"If that's what Chiron recommends."
+
+"And if I refuse?"
+
+"I'll think you're being foolish."
+
+"You already think that."
+
+"Sometimes."
+
+She smiled. It was ridiculous how much she liked being able to speak to him this way, with no performance of perfect understanding and no fear that disagreement would send him away.
+
+They sat together until the afternoon began to fade. He finished the fastening, and she pulled on her boot more carefully than she'd taken it off. He offered a hand when she stood. She took it, and the warmth of his fingers caught her by surprise.
+
+He didn't release her immediately.
+
+Thalia looked up.
+
+For a moment the shed seemed very quiet. He was standing close enough that she could see the small scrape beneath his jaw, and the look in his eyes was the same one she'd seen on the porch the day before. She could have stepped closer. She wanted to.
+
+Instead she squeezed his fingers once and let go.
+
+"Good night," she said.
+
+"Good night, Thalia."
+
+She walked away, aware of the pain in her heel and the equally inconvenient warmth that had settled somewhere behind her ribs. She was tired of almost kissing him. She was tired of finding reasons to stand beside him and then pretending the reasons were all practical. But she wasn't ready to go to his cabin tonight, not with the injury hurting and Percy already watching every movement.
+
+Tomorrow, she told herself, she would be busy. Tomorrow she would have enough work that she could stop thinking about the way Rhys had held her hand.
+
+She lasted until breakfast before finding herself looking toward the north path again.
+
+
 At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
 
 She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
