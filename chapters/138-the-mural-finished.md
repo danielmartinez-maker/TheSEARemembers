@@ -319,6 +319,24 @@ Annabeth folded the corrected diagram and handed a copy to Myra. The painting ha
 
 ---
 
+Before Chiron opened the corridor to the next group, Silena asked the conservator whether the mural was actually finished.
+
+"The painting is," Myra said. "The work around it isn't."
+
+She showed Silena the edge of a repair patch, where fresh plaster still needed to cure before anyone could attach the permanent barrier. For the unveiling they'd used padded timber supports, set far enough from the surface to keep visitors from brushing the pigment. A young camper had already leaned against one to see the upper figures.
+
+"Could you move the barrier back?" Silena asked.
+
+"If we move it any farther, people won't see the lower details."
+
+"Then we need a better way to show those details."
+
+Annabeth, overhearing, unfolded one of her sketches. She proposed mounting a small reproduction outside the narrow entrance, where visitors could study the design without crowding the original. Myra considered it and agreed to test a copy, with clear labeling so no one mistook the drawing for the artifact.
+
+Clarisse volunteered for the unglamorous job of standing near the barrier during the remaining tours. Percy started to tell her it wasn't necessary, then stopped. She had chosen to do it, and she was quite good at reminding enthusiastic campers to keep their hands behind the rail.
+
+Silena added a note to the maintenance record: check the plaster after the next heavy rain; replace the temporary supports only when Myra approved it. A finished painting could still be damaged by a careless celebration.
+
 Groups cycled through until noon, ten at a time, rain easing to mist. Someone brought hot chocolate from the dining pavilion in a steel urn that scalded everyone's fingers in the best way. The corridor smelled of cocoa and lime and wet wool. Clarisse ended up explaining tide crest four more times, each recitation smoother, hands gentler in the air. By the third, she added, unprompted, "Sideways breath hits the edge, so look straight," and Percy caught her small, fierce nod when a little Athena kid obeyed instantly.
 
 Between groups, details surfaced like fish. A Stoll brother spotted a second untied shoe-string on the dining hall steps — the painter had a habit. An Apollo girl swore the gold border chimed faintly when the bulbs warmed, which Myra allowed might be timber ticking but didn't dismiss outright. Two Hephaestus boys measured Thalia's static with a borrowed voltmeter and declared the bolt "mildly opinionated," earning a rare snort from Thalia herself. Nico got cornered by three Demeter kids demanding to know if Hades wore black because he was sad; Nico thought, then said, "Because stars show better," which satisfied them completely. Bianca let a first-year hold the empty clay cup like a chalice and whispered, "Careful, star-holder," until the girl glowed brighter than mica.
