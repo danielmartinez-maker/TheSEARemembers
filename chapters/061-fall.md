@@ -72,6 +72,104 @@ She went up the path to Cabin One, her blueprint tube over her shoulder like a s
 
 ---
 
+The first thing the year-rounders discovered was that empty cabins still needed maintenance.
+
+It happened on Sunday morning, when the wind ripped a loose shutter from Cabin Ten and sent it skidding across the path toward the armory. Nobody was hurt. That didn't stop the crash from bringing Chiron out of the Big House with his morning tea still in one hand.
+
+"How long has that hinge been loose?" he asked.
+
+The younger Hephaestus camper inspecting the damage gave a helpless shrug.
+
+"Since summer, I think. Someone put it on the repair board."
+
+"Then why wasn't it repaired?"
+
+"We had the boundary work and the training shields and the forge chimney. It kept getting moved down the list."
+
+Percy looked at the shutter. One hinge had pulled free from the wood. The other was twisted out of shape. A patch of damp showed where rain had worked under the sill for weeks. It looked like a small problem that had become a larger one because everyone assumed it could wait.
+
+"Can we help?" he asked.
+
+The Hephaestus camper looked him up and down. "Can you hold a ladder?"
+
+"I'm exceptionally good at that."
+
+Annabeth, who had brought a measuring tape from Cabin One, sighed. "You've never held a ladder for me without trying to climb it."
+
+"Today is different."
+
+They borrowed tools from the workshop and spread everything on the grass. The camper, a boy called Milo, examined the hinge and said the brass pin was still usable but the mounting holes had worn out. Annabeth suggested moving the hinges farther apart. Milo disagreed: the top of the frame needed reinforcement or the same thing would happen when the winter winds arrived.
+
+Percy was prepared to let them argue until somebody called lunch. Then he noticed the lower edge of the shutter had been rubbing against the sill. Its wood was dark and swollen.
+
+"You could fix the hinge," he said, "and still have a shutter that won't close."
+
+Milo looked at the edge. "He's right."
+
+Annabeth crouched beside Percy. She ran a finger over the rough grain and frowned.
+
+"We should measure the clearance before cutting anything."
+
+"Are we rebuilding the whole building?" Percy asked.
+
+"No. We're fixing the reason it broke."
+
+They worked for two hours. Milo reinforced the frame while Percy held the boards in place. Annabeth marked the new hinge position and checked that the shutter would close without catching. A pair of Demeter campers arrived to ask whether they could help and ended up clearing the gutters clogged with late summer leaves.
+
+Percy's job wasn't glamorous. He held the ladder, fetched clean water and steadied a plank while Milo drilled. Once he nearly let go to catch a falling screwdriver, and Annabeth told him to keep both hands where they were because the person on the ladder was more important than the screwdriver.
+
+He did.
+
+The shutter closed properly before noon. They tested it three times in the wind. Milo wrote the repair date on the back of a work order and signed it with a grease-stained thumb.
+
+"That's one," he said.
+
+Percy looked at the board by the armory. There were still twenty-three jobs listed.
+
+"How did summer end with so many things broken?"
+
+"It always does," Milo replied. "The summer kids use the equipment all day. The year-rounders fix it before they come back."
+
+Percy thought of the crowded campfires and the battles they'd rehearsed while a smaller group worried about whether water would freeze in the pipes. His own quest had kept him far from camp for weeks; while he was gone, Clarisse and Silena had been organizing exactly this sort of work.
+
+"Do you ever get tired of it?"
+
+"Sure. But I'd rather build something people get to use than sit around waiting for an ancient monster to attack us."
+
+Percy nodded. It was a reasonable answer. He wasn't sure he could have given it in June.
+
+At lunch he brought his own plate to Milo's table and asked about the rest of the list. Milo showed him which jobs required a trained craftsperson and which could be done by any camper willing to follow instructions. Percy offered to help once a week when he returned from Atlantis lessons.
+
+"You're not going to use water powers on the roof, are you?" Milo asked.
+
+"Only if it catches fire."
+
+"That's not funny."
+
+"It was a little funny."
+
+Annabeth elbowed him under the table. "Not to the person who has to rebuild it."
+
+Percy raised his hands in surrender.
+
+In the afternoon, Milo taped a copy of the schedule to Cabin Three's door. Percy circled his first work shift and placed it beside the letter Clarisse had sent. The cabin was quiet, but the new paper made it feel less abandoned. It was a small reason to be back next Wednesday, not because a god needed him but because another camper would be expecting a second pair of hands.
+
+Annabeth stopped by on her way to the library and read the schedule.
+
+"You're signed up for the forge chimney inspection?"
+
+"Assistant. Very important title."
+
+"Does that mean you're going to let Milo do the inspection?"
+
+"Yes."
+
+She smiled. "Then this may be your safest construction project ever."
+
+Percy watched her walk toward the Big House, blueprint tube bouncing against her shoulder. For once he didn't follow immediately. He checked the door latch twice, put away the measuring tape she'd left on the step, and made sure the new shutter at Cabin Ten was still holding in the afternoon wind.
+
+---
+
 Fall at camp had a different schedule, and Percy learned it the way he learned tides — by getting it wrong and then feeling it in his body.
 
 Mornings in Atlantis were blue-green and muffled and bright all at once. The tide portal deposited him in a rush of cool pressure behind the palace schoolroom, and he would stumble out sneezing salt while Tyson caught him by the backpack.
