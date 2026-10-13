@@ -616,7 +616,7 @@ Annabeth won the final round. Thalia made a show of throwing down her cards, the
 
 Annabeth handed her the pencil. Thalia wrote the ridiculous exceptions in large, uneven letters beneath the formal rules and signed the paper with a little lightning bolt. Percy added a fish. Annabeth pretended to object, then drew an owl in the corner.
 
-The next time they played, they would remember which rules had been made up on a rainy afternoon rather than inherited from a childhood one sister couldn't recall. It wasn't the game their mother had taught Thalia. It was one more ordinary thing the sisters had made together.
+The next time they played, they would remember which rules had been made up on a rainy afternoon rather than inherited from a childhood one sister couldn't recall. It wasn't the game their mother had taught Thalia. It was one more ordinary thing the sisters had made together. When Thalia put the paper away, she chose the front pocket of the cabin game box instead of her locked trunk. That meant Annabeth could find it without asking. She hesitated, then took the older sheet of rules from beneath the stack and placed it beside the new one. Both belonged there. The first recorded a game Beryl had played when the girls were little. The second recorded the way the sisters played now. Percy promised to bring another deck next time, as long as the rules were explained before he started losing. Thalia told him that would ruin the point. Annabeth insisted he deserved a fair warning.
 
 ---
 
