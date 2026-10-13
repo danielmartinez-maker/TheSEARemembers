@@ -854,3 +854,109 @@ For one bright moment, the palace stood behind them, the open sea before them, a
 
 ---
 
+The next morning, the stable master sent word that the replacement rail was ready for inspection.
+
+Clarisse asked if the family could watch. The master agreed, provided everyone stayed behind the marked line while the workers tested the fitting.
+
+The new bar was broader than the damaged one. Its outer edge was rounded, and the central joint had been placed where a horse could lean against it without catching a rein. Tyson had helped forge the metal, but the stable master would be the person responsible for approving it.
+
+She checked the distance between the posts. Annabeth compared the measurements with yesterday's plan and made a small correction in her own notes. Percy held the measuring cord at the side of the pen until he was told to step back.
+
+Wavecut entered under a handler's direction. The hippocamp pushed its shoulder against the rail. The bar moved slightly within the flexible joint, then returned to its position. The stable master tested the fastening again by hand.
+
+"That held," Percy said.
+
+"That's one test," she replied. "We'll inspect it again after it has been used for several days."
+
+Clarisse nodded. "Then nobody should call it finished yet."
+
+"Correct."
+
+She'd wanted to ride the outer loop that morning. Instead she chose to let the staff continue testing the pen. Percy was surprised by how easily she made the decision.
+
+"I can come back another time," she said. "I'm not risking somebody else's horse because I want one more ride."
+
+The master thanked her without making it sound like a heroic sacrifice.
+
+Departure preparations began after breakfast. Triton brought the visitors' route cards and asked each person to confirm which bags belonged to them. Silena packed the sample the craftswoman had given her and labeled it with the date. Clarisse put the rail drawing and her training notes in a folder. Annabeth rolled her public plans, leaving the restricted archive copies where they belonged.
+
+"Are we supposed to return the shell charms?" Thalia asked.
+
+"These are loaned for the return passage," Triton explained. "The escort collects them when we reach the shore. The charm Annabeth was given separately remains hers."
+
+Annabeth checked the two sets of items so nobody confused one with the other. She'd already spent a day learning the difference between a gift, a loan and a piece of equipment the palace staff maintained. It seemed important to keep the distinctions accurate.
+
+Amphitrite met them in the outer hall with a small hamper. The food inside had labels explaining which items could be stored at camp and which should be checked by the kitchen before anyone ate them.
+
+Silena inspected the labels and smiled. "You remembered."
+
+"I listened."
+
+Poseidon had not appeared. His office sent word that the eastern boundary still required his attention. Percy read the note, disappointed but not surprised. He'd hoped for another morning with his father, though no definite time had been promised.
+
+Clarisse looked at the message.
+
+"Did he say when he'll write?"
+
+"No."
+
+"Then he hasn't made a promise."
+
+"Right."
+
+She gave him a sympathetic look, brief enough that he almost missed it. Silena came to stand beside them and took the hamper from the steward. Neither sister told him he shouldn't be upset, and neither insisted he be grateful for the parts of the visit that had gone well. He could feel both at once.
+
+Amphitrite thanked each guest individually. She asked Clarisse whether the training session had been useful, listened to Silena describe the weaving sample and promised Annabeth a copy of the public garden diagram when the archivist approved it. Thalia thanked her for respecting the Grace sisters' decision not to attend an unplanned audience with Zeus.
+
+Percy hugged Amphitrite before they left.
+
+"I'm glad we came," he said.
+
+"So am I."
+
+"I wish Father had more time."
+
+"I know."
+
+She didn't tell him it was impossible to arrange, or that his father loved him in ways he couldn't see. She simply acknowledged what he wanted and had not received.
+
+Triton accompanied them to the departure channel. The escorts checked every charm before anyone entered the route. Percy could feel the saltwater current moving beneath the protected passage, and he stayed close enough to the group that nobody had to ask him to slow down.
+
+At the cold shelf the escort paused. Annabeth checked the surface of her charm and said it still had a clear pattern. Thalia asked for the route to remain at the agreed pace. The guard confirmed it, and they continued.
+
+The palace slipped behind them. Market roofs gave way to broad stretches of rock and coral, then to the upper water where sunlight reached them in wavering silver lines. Percy thought about the people he'd met: the archivist who had corrected a map, the instructor who had stopped a drill before it became unsafe, and the stable master who refused to call a repair complete after only one test.
+
+They reached Long Island Sound under a pale afternoon sky. Chiron waited on the shore with the return manifest. He checked the names and asked whether anyone needed medical attention. Clarisse showed him her wrist, which was no worse after the light training. Annabeth reported no charm failures. Silena handed over the food notes. Thalia confirmed that she and Annabeth were both returning to Cabin One.
+
+"Welcome back," Chiron said.
+
+The greeting was ordinary, and Percy was grateful for it.
+
+The walk to camp passed through a stand of pines where the wind was much drier than the palace currents. Percy breathed in the smell of needles and woodsmoke. The canoe lake lay farther inland, separate from the saltwater coast they'd just left. For the moment he was content to walk without making any water move at all.
+
+At the fork in the path, Clarisse stopped to adjust her bag.
+
+"Would you go again?" Percy asked.
+
+"To train? Yes. To wear a ceremonial cloak? No."
+
+"You didn't wear one this time."
+
+"Because I said no."
+
+Silena smiled. "I'd go back to the workshop. I want to know whether the kelp pattern works in dry cloth."
+
+Annabeth looked at her rolled drawings. "I want to see the archive again. But next time I'll ask for more time with the engineers."
+
+"And Thalia?" Percy asked.
+
+"I liked the observatory. I liked that nobody made us go to Zeus without telling us what he wanted."
+
+Percy nodded. The visit had given each of them a reason to return, though none had the same reason. He liked that. It meant the palace was becoming a real place in their lives, not a stage on which everyone had to demonstrate how grateful they were to belong.
+
+At Cabin Three, he unpacked the copy of his childhood training-stage record. The story written there belonged to a period he couldn't remember firsthand. What he did remember was the weekend just passed: the garden, the repaired rail, the training pool and the quiet decision to leave together when the visit was over.
+
+He put the paper on his shelf, changed out of his travel clothes and went to help his sisters return the hamper to the kitchen. There would be time to miss Atlantis later. For now, camp had work that needed doing, and he was glad to be part of it.
+
+
+---
