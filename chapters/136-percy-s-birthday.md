@@ -42,6 +42,84 @@ Silena laughed into her hand. "She means don't track sand on Amphitrite's floors
 
 ---
 
+The morning did not move as quickly as Clarisse had promised. By the time the palace escort was ready, Percy had been asked to answer three questions he couldn't answer without thinking too hard.
+
+The first came from a younger camper who wanted to know whether a prince of Atlantis could choose the flavor of his own birthday cake. The second came from Grover, who asked whether Percy wanted anyone at camp to save him a slice of the blue cake being prepared for the next evening's celebration. The third came from Silena, who found him standing beside the cabin window with a muffin crumb caught on his sleeve.
+
+"Is there anything you don't want us to bring up down there?" she asked.
+
+Percy turned. "Like what?"
+
+"Like the way everyone says you remember every corner of the palace. They ask you to tell stories, and sometimes you look as if you'd rather be somewhere else."
+
+His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In the life Percy remembered, his mother had baked him blue food in a small Manhattan kitchen and lived long enough to see him become a teenager. The memory of that birthday cake came without effort. Recalling the nursery Triton talked about felt like reading the back of a photograph someone had labeled for him.
+
+"I like hearing the stories," he said carefully. "I just don't always know what to add."
+
+"Then don't add anything." Silena took the crumb from his sleeve and flicked it into the bin. "People can tell a story without making you perform in it."
+
+"Easy for you to say. You wrote a song."
+
+She gave him a look. "You weren't supposed to know that."
+
+"I didn't. Until now."
+
+Silena put a hand over her mouth, then laughed. "Forget I said anything."
+
+"Can't promise."
+
+She sat on the edge of the bed. The little bed in Cabin Three was nothing like the rooms the palace apparently had kept for Percy. Here his blankets smelled of camp detergent and the window had a small chip in its wooden frame. He knew where he belonged in this room because he'd made choices in it, not because someone told him he had slept there as a child.
+
+"Can I ask you something instead?" he said.
+
+"You already have."
+
+"Do you mind going down? I mean really. Not because it's my birthday."
+
+Silena's expression changed. She smoothed the ribbon of her bag between two fingers.
+
+"I want to go," she said. "I don't always want to be introduced as if the palace made me. I grew up somewhere else. Sometimes I feel as if people want me to become a perfect daughter of the sea by the time dessert arrives."
+
+"I don't want that."
+
+"I know. Amphitrite's usually careful. But some of the attendants don't know what to do with us."
+
+"Do you want me to tell Triton?"
+
+"I can tell him." She paused. "I wouldn't mind if you stayed while I did."
+
+"Then I will."
+
+Clarisse appeared in the doorway with the travel bags. "Are we going or are we conducting interviews?"
+
+"Both," Silena said.
+
+"Terrible scheduling."
+
+Clarisse set the bags down anyway and sat on the floor long enough to check the straps. Percy noticed the small cuts across her fingers, the result of finishing a wooden model ship under a deadline she'd invented herself. She hid them when she noticed him looking.
+
+"You could have asked for help," he said.
+
+"No," she replied.
+
+"Why not?"
+
+"Because then you would know what the present was."
+
+"You still didn't have to hurry."
+
+Clarisse's answer was unexpectedly quiet. "I wanted it ready."
+
+The three of them sat for another minute, surrounded by packed clothes and presents Percy wasn't supposed to know about. Silena leaned her head against the bedpost. Clarisse flexed one hand and pretended the stiff fingers didn't matter. Percy let the smell of blueberry muffins and sea salt settle around them.
+
+His birthday was not one family trying to replace another. He had a dead mother he remembered alive, an undersea household that loved a childhood he couldn't recall firsthand, and two older sisters who were still figuring out whether their father's palace had room for them. None of it could be solved before the escort arrived.
+
+Then Tyson called from the path, loud enough for the entire Poseidon cabin to hear. "WE MUST GO IF WE WANT THE CAKE!"
+
+Percy laughed. Clarisse hauled the bags upright. Silena picked up the basket of gifts and checked that its ribbon hadn't torn. They met Chiron at the shore rather than cutting across the freshwater canoe lake; Atlantis lay beyond Long Island Sound, where the saltwater currents could carry them safely under escort.
+
+Percy looked back once at the camp buildings. Tomorrow there would be another celebration, another cake, a day in which the fourteenth year could mean nothing more demanding than growing into a new shirt. Today belonged partly to the sea. He was willing to go, and he was glad the others had chosen to come with him.
+
 Beneath the Sound, light fell differently.
 
 Percy had made the descent dozens of times, but the pressure change still popped his ears on the way down, and the cold still kissed the back of his neck before the palace warmth took hold. They rode the current together — Clarisse streamlined as a javelin, Silena trailing ribbons of bubbles as she spun once for fun, Tyson cannonballing with his arms tucked and shouting all the way down.
