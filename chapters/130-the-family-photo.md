@@ -1259,7 +1259,7 @@ Chiron listened while they explained the distinction. He had approved a public n
 
 "Ask the people involved," he said. "If the group is large, start with the cabin counselors. Nobody should feel obliged to consent because the picture is already hanging here."
 
-Miriam wrote a new line on the permission sheet. It identified who could request copies, where they would go, and whether the people photographed had agreed. Several campers would have to wait a day before sending prints. One boy grumbled loudly. Another said he hadn't wanted a cousin to see him in his camp armor, and was relieved somebody had asked.
+Miriam wrote a new line on the permission sheet. She added a space for the date, because a camper might agree to share a photograph later without having agreed on the day it was taken. Austin checked that the new entry would fit in the archive ledger and handed her a ruler to keep the columns straight. It identified who could request copies, where they would go, and whether the people photographed had agreed. Several campers would have to wait a day before sending prints. One boy grumbled loudly. Another said he hadn't wanted a cousin to see him in his camp armor, and was relieved somebody had asked.
 
 Silena helped sort the requests. She didn't enjoy telling people their copies would be delayed, but she understood the reason. A photograph could be a gift, a private keepsake or a public record. The paper looked the same in each case. What changed was the person who got to decide how it was used.
 
