@@ -814,17 +814,13 @@ They moved the last few yards with Eva between Grover and Martin. The clerk foll
 
 "Maybe," Martin said. "But you'll be outside. We can find someone who'll listen to what happened."
 
-She pushed the glass.
+She pressed her palm against the glass. The revolving door resisted, and Eva froze, her eyes darting toward the staff behind them.
 
-For an instant the revolving door resisted, pressing back against her hands. Grover stepped beside her, and together they moved it far enough for the first slice of desert light to fall across her face.
+"Stay with us," Grover said, placing a hand beside hers. "One more push, and we can all get through."
 
-Eva gasped. The clipboard slipped from her fingers and landed in the lobby. She didn't reach for it.
+Eva's clipboard fell to the carpet. She looked down at it, but didn't reach for it. Percy saw how hard it was for her to leave a task undone when the hotel had spent so long making unfinished work feel like a prison.
 
-Percy followed, keeping his eyes on Annabeth and the strip of daylight widening between the panes. Behind him the hotel was still playing the same pleasant tune. In front of him the air was brutally hot.
-
-He had never been so glad to feel the heat.
-
-The phone rang again. Percy flinched through their joined hands. "Mom?"
+Then the phone behind Percy rang again. Percy flinched through their joined hands. "Mom?"
 
 Annabeth squeezed till knuckles hurt. "I'm here. I'm real. Stay with me."
 
@@ -836,7 +832,11 @@ She bit her cheek, tasted blood, shoved with her shoulder, and thought about the
 
 Heat slapped them. Real, dry, brutal noon that burned nostrils and made eyes water instantly. Sky bleached white-blue, huge and indifferent, nothing painted about it. Traffic roared on the highway. Dust coated tongues with grit. Percy had never been so glad to be uncomfortable. He sucked hot air in big gulps and let it burn the sweetness out of his lungs.
 
-They staggered onto the porte-cochere gasping, sweating instantly. Behind them doors turned, gold spilling, music leaking.
+They staggered onto the porte-cochere gasping, sweating instantly.
+
+Eva stumbled out with them, still holding the empty hand that had carried her clipboard. She looked back at the doors once and asked if she was really allowed to leave. Martin told her that nobody at the Lotus had authority to force her back inside. He offered to take her to a trusted contact near the highway, where she could begin finding out how long she'd been trapped and whom to contact at home.
+
+She chose to wait outside with them rather than step back through the doors. Percy couldn't promise what she'd discover. He could see that making the choice for herself mattered. Behind them doors turned, gold spilling, music leaking.
 
 Thalia sat hard on hot concrete, head between knees. Grover knelt, hands on real dirt by a planter, breathing like surfacing. Percy swayed, still holding Annabeth's hand.
 
