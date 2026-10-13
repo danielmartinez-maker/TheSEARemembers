@@ -10252,3 +10252,231 @@ Nothing had to be settled tonight.
 She smiled against his shoulder, content to let the darkness come when it would.
 
 ---
+
+## Monday, March 25: The First Mile
+
+They left the cabin before sunrise.
+
+Thalia had meant to sleep. She had even taken the sensible precaution of making Rhys put the travel papers inside the wooden box she'd given him, beside the ticket and the small envelope of money he would need for the first week. Then she'd lain awake listening to him breathe until the sky beyond the shutter began to pale.
+
+By the time he stirred, she had already counted every object in the room that belonged to him and would remain behind.
+
+The spare guitar strings would stay. So would the unfinished bow grip, the extra blankets and the cracked cup he'd insisted could survive another winter. The dark scarf he'd lent her was back in his drawer, folded beside the clean shirt she still kept there. His best guitar was in the case by the door. The older instrument stayed on the workbench.
+
+It was an irritatingly reasonable system.
+
+"You haven't slept," he said.
+
+"I have."
+
+"How much?"
+
+"Enough to be unpleasant."
+
+He sat up, rubbing a hand over his face. "So no change."
+
+She threw a pillow at him.
+
+He caught it before it struck his shoulder, laughing, and for a moment the morning looked as though it might be ordinary after all.
+
+They ate without much appetite. Thalia made toast that burned along one edge because she forgot to turn it, and Rhys cut the burnt part away without commentary. He was dressed for travel, not performance: a heavy coat, practical boots, the same worn trousers he wore when he spent a day moving targets. She was glad. A polished version of him might have made the departure feel like something ceremonial. This was simply the man she knew, trying to remember whether he'd packed a second pair of gloves.
+
+"You did," she said.
+
+He looked up. "Did what?"
+
+"Packed the gloves."
+
+"How do you know what I was thinking?"
+
+"You were staring at the drawer."
+
+He smiled. "Very unsettling."
+
+"Good."
+
+At the door he checked his bag. She caught him reaching for the latch, then stopping because there was nothing else to do. They had spent weeks preparing for this morning. Now the morning was here, and both seemed reluctant to admit that preparation did not change the necessity of leaving.
+
+Thalia went to him.
+
+She didn't make an announcement. She put her hands on the front of his coat and kissed him. He drew her close at once, leaving the bag where it stood. The kiss had an urgency neither tried to pretend away; they had been affectionate the night before, and the memory only sharpened the desire to remain together a little longer.
+
+When she drew back, Rhys rested his forehead against hers.
+
+"We have to go," he said.
+
+"I know."
+
+Neither moved.
+
+Then Thalia caught the bag handle, opened the door and stepped into the cold.
+
+***
+
+The driver was early this time.
+
+He had parked the supply van beside the service gate and was drinking from a battered metal flask while checking the tires. The road beyond the camp was wet from the night's rain, and a thin layer of fog had settled between the first line of trees.
+
+Rhys loaded the guitar himself. Thalia watched him place it so the case wouldn't shift, then handed over the smaller bag with the music. The driver secured both without ceremony.
+
+"You'll be at the station in time," he said.
+
+"Good," Rhys replied.
+
+Thalia nearly asked whether the man was certain, whether the road was clear, whether he had checked the schedule for delays. She stopped herself. Rhys was nineteen. He had traveled before. He was capable of arriving at a station without her turning the trip into an inspection.
+
+She stepped aside with him instead.
+
+The gate was quiet enough that they could hear the stream below the road. Spring water ran high beneath the culvert, carrying bits of dead grass and the last winter leaves downstream. She watched it for a moment, then looked at Rhys.
+
+"You'll be nervous," she said.
+
+"Probably."
+
+"Your first rehearsal will be worse than the audition because you'll already know they chose you, and you'll spend half the time trying to prove they weren't mistaken."
+
+He laughed softly. "That sounds uncomfortably plausible."
+
+"Then listen to the first musician who tells you to slow down."
+
+"I do listen."
+
+"Eventually."
+
+He smiled, and the smile made her want to kiss him again. She did, briefly, then stepped back before she could turn the goodbye into an argument with the clock.
+
+There was one thing she had brought from Cabin One: the old photograph of them in the orchard, the one she'd kept because they were both laughing at the moment the shutter closed. She took it from her coat.
+
+"I made a copy," she said.
+
+He looked at the picture. "You did?"
+
+"Don't sound surprised. There are other cameras in the world."
+
+"Apparently."
+
+She handed it to him. "For the road."
+
+He studied the image. The two of them were out of focus, leaning into each other, obviously amused by some private disaster. It was an imperfect photograph, and he seemed genuinely pleased to have it.
+
+"You've got the other one," she said.
+
+"Yes."
+
+"This one is worse."
+
+"Better, I think."
+
+She gave him a look. He slipped it into the inner pocket of his coat, close enough that it wouldn't bend beneath the guitar case.
+
+"Thank you," he said.
+
+The driver called that it was time.
+
+Rhys caught her hand once more.
+
+"I'll write when I know the first address."
+
+"I know."
+
+"And I'll tell you if something changes."
+
+"Good."
+
+She wanted to say a dozen things. None was new. She had already told him she would miss him; he already knew she wanted him back. She had warned him to eat properly, to rest his hand, to stop pretending that a difficult passage was a personal insult. He had heard every word and teased her about most of them.
+
+There was nothing left to instruct.
+
+"I love the work you do," she said, surprising herself. "Go do it well."
+
+He looked at her for a moment, then kissed her again. This time she didn't pull away quickly. There were people at the gate, but they were busy with their own morning and had no interest in watching. The kiss belonged to them, and she felt no need to apologize for wanting it.
+
+When he stepped back, his eyes were bright.
+
+"I'll see you," he said.
+
+"Yes."
+
+He climbed into the van.
+
+She watched it start, lurch once over the uneven road and move down through the trees until she could no longer see the tail lamps. She stayed a moment longer, staring at the place where it had disappeared.
+
+Then she went to work.
+
+***
+
+Her first lesson began with a small disaster.
+
+Two students had decided the newly installed safety screens could be moved closer together because doing so made the practice course more difficult. A third had agreed, then changed his mind when an arrow struck the wrong side of the dividing net. Nobody was injured. Thalia arrived to find three people arguing over a configuration that had already been declared unsafe.
+
+She took one look at the range and said, "Out."
+
+The students stared.
+
+"Put the bows down. Out of the lane."
+
+They obeyed.
+
+She moved the screens back herself, not because they couldn't do it, but because the mistake required an immediate correction. Then she brought them to the bench and made them explain what had happened, each in turn, without interrupting the others.
+
+The first blamed the equipment.
+
+"The equipment was where I left it," Thalia said.
+
+The second blamed the wind.
+
+"The wind did not move a sixty-pound screen."
+
+The third looked at the ground and admitted he'd known the placement was wrong but hadn't wanted to be the one who objected.
+
+That was the part Thalia cared about.
+
+"Next time," she told him, "say it before someone gets hurt. Being right afterward isn't a useful form of bravery."
+
+She saw the words land. The student nodded, then looked at the other two with an expression that suggested there would be a second conversation when she was gone.
+
+Good. That was part of the lesson.
+
+At lunch she realized she had not thought about the van for almost an hour.
+
+The realization made her feel guilty for exactly five seconds, until she recognized how foolish it was. Rhys had wanted her to keep working. She had wanted the same thing. The point of his departure wasn't to make the hours without him empty.
+
+She finished eating and went to inspect the new target frames.
+
+By evening the clouds had lifted. The lake was bright under a pale spring sky. Thalia walked the lower path before supper, not because she expected to see Rhys, but because she needed to think without another person asking whether the advanced program was going well.
+
+She stopped at the low wall where they'd argued about the music offer and looked at the water. The old impulse to count how long he'd been gone arrived, and she let it pass. It was less than a day. She would not make the absence larger by measuring it every hour.
+
+At Cabin One Annabeth was working on a scale drawing of the eastern wall. She looked up as Thalia entered.
+
+"How was the range?"
+
+"Disastrous. Educational."
+
+"Sounds right."
+
+Thalia sat beside her.
+
+"How's Rhys?"
+
+"On a train, probably."
+
+"That wasn't what I asked."
+
+Thalia gave her sister a sidelong look, then smiled.
+
+"He's doing something he wants to do."
+
+Annabeth nodded. "Good."
+
+They spent the rest of the evening arguing about the wall's drainage. Thalia tried to suggest a reinforcement that Annabeth dismissed as excessive; Annabeth proposed a channel that Thalia thought would freeze too easily. Neither won the argument. They drew three more versions and agreed to inspect the ground again in the morning.
+
+When Annabeth finally went to bed, Thalia took out her book and found the photograph she'd kept there. She looked at their faces a while, then put it back.
+
+She could miss Rhys without making the feeling into the whole of her day. She could want to kiss him so badly that the memory made her smile and still be pleased with the work she'd done.
+
+It wasn't the end of anything.
+
+She turned down the lamp and slept.
+
+---
