@@ -822,3 +822,91 @@ But that night, winter was just winter. Not a battlefield, not a prophecy, not a
 Just snow, and cocoa, and friends sharing blankets against the cold.
 
 Just home.
+
+---
+
+The morning the snow began to melt, Silena counted the blankets.
+
+She found three in the arts cabin, seven in the Big House and two more draped across chairs in the pavilion. The number should have been eighteen. She checked the sign-out form, counted again and found that six were missing.
+
+A week earlier she'd have gone straight to Clarisse and told her to search Cabin Eleven. The Hermes children had been using the warming room most often, and several had taken blankets with them when they went back to their bunks. But assuming a missing blanket had been stolen would give Silena a convenient suspect without telling her where anything actually was.
+
+She took the list to the cabin counselors. One blanket was with a sick camper at the infirmary. Two had been borrowed for the repair crew working on frozen plumbing. A fourth was protecting a box of supplies from moisture in the Hephaestus shed. Nobody knew where the last two had gone.
+
+Silena adjusted the ledger and asked that the borrowed blankets be returned after the work finished. She didn't demand them back immediately. There was little point in reclaiming something for the sake of an inventory number if it was keeping an injured child warm.
+
+At the kitchen, Beckendorf was checking the repaired pipe. He had replaced a fitting that had cracked during the thaw and was testing it at reduced pressure.
+
+"Is the line working?" Silena asked.
+
+"For now. We need to watch it through lunch."
+
+"Can the kitchen use it?"
+
+"Not yet. The other tank is doing the work. If the pressure holds, I'll clear the line with Chiron afterward."
+
+She wrote the information in her notebook. The repairs were less exciting than the holiday had been. There were no glittering snowflakes to photograph, only damp walls and a bucket under a pipe somebody had already fixed once. She was glad the kitchen staff had a second supply.
+
+Outside, Percy was helping Grover clear wet branches from the main path. He'd wanted to use his powers to melt the last patches of ice, but Chiron had warned him that a sudden flush of water could refreeze under the shade of the trees. So he was carrying the branches by hand and spreading grit on the steepest section.
+
+Grover stopped to examine the edge of a shallow trench.
+
+"That wasn't here before."
+
+Percy crouched. The meltwater had cut a small channel through the soil beside the paved path and was carrying fine grit toward the strawberry beds.
+
+"Should we block it?" he asked.
+
+"Not without asking the growers. The water might need somewhere to go."
+
+They found a Demeter counselor who knew the fields. She looked at the channel and explained that stopping the water abruptly would send it into a lower bed where the new plants were more vulnerable. The better solution was to guide it toward a drainage runnel that had been dug for spring rain.
+
+Percy offered to move the water there. She asked whether he could do it gradually, without eroding the bank.
+
+"I think so," he said. "But I'll need you to tell me if it starts taking too much soil."
+
+They worked together. Percy kept the flow gentle while Grover held the small wooden marker that showed where the safe channel began. The counselor watched the edges until the water cleared enough for them to see the stones at the bottom.
+
+"That's enough," she said. "Let the rest find its own path."
+
+Percy stopped. The water continued downhill without him. He liked that the job had required him to use a power he knew well and then leave it alone before he made the problem worse.
+
+At lunchtime, Annabeth arrived with the first inspection notes from the shrine. Chiron had reopened the path that morning after the ice was checked. The roof was dry, the offering bowl was intact, and the little stone left by the first visitor was still where it belonged. One tile near the path had lifted slightly in the freeze. She'd marked it for repair rather than prying it loose with cold fingers.
+
+"Did you fix it?" Percy asked.
+
+"Not yet. Hal wants to inspect the mortar once it's completely thawed."
+
+"Are you annoyed?"
+
+"A little."
+
+"Good. I'd be worried if you weren't."
+
+Annabeth pulled out the maintenance form. She had recorded the date, the location and the size of the gap. She was beginning to think the most important part of caring for a building was not making sure nothing ever failed. It was noticing failures before they became dangerous and knowing when the right repair needed to wait.
+
+Silena joined them with the blanket inventory.
+
+"Did anybody see two camp blankets?" she asked.
+
+Percy shook his head. Annabeth thought for a moment.
+
+"One might be in the library. Somebody used it to cover the books when snow blew in through the upper window."
+
+"Then that's one," Silena said. "I'll check there before I accuse anyone."
+
+They finished lunch, then went to ask the librarian. Ella confirmed the blanket had been placed over a shelf, but said she had already moved it to the laundry because it was damp. The sixth blanket remained unaccounted for until evening, when a shy Hermes camper returned it folded in a pillowcase.
+
+"My little brother got cold," he told Silena. "I meant to ask. I didn't know where to take it back."
+
+Silena took the blanket and thanked him for returning it. She explained where the sign-out sheets were kept and added a note that borrowers should be able to find the return instructions as easily as the blankets themselves.
+
+By dusk the kitchen pipe had passed inspection, the path to the shrine was open and most of the wet bedding had been washed. Khione had left a glittering holiday and several days of extra work. The campers had enjoyed the snow. Silena hadn't forgotten the fun. She had also learned exactly how much effort it took to make cold weather feel harmless to people who didn't have the option of simply deciding to be warm.
+
+She went to the arts cabin to remove the last garland. A younger camper asked whether the room would still be open for reading when the snow was gone.
+
+Silena looked at the empty chairs and the little shelf Ella had arranged beside the fireplace.
+
+"I'll ask the counselor," she said. "There's no reason it has to close just because the weather improved."
+
+The next morning the arts cabin had regular study hours on the noticeboard. Silena left the blankets in the stores, the books where Ella wanted them and a clean basket of paper on the table. A shelter built for a cold snap had become somewhere people could come when they needed a quiet hour. She considered that a good result, even if nobody remembered who'd suggested moving the chairs.
