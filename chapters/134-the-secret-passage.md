@@ -524,6 +524,72 @@ Undramatic, the agreement stood, sealed with dusty handshakes and Myra's brisk n
 
 ---
 
+They should have left the chamber once Myra called a pause, but nobody moved at first. The half-revealed painting held their eyes. They could see enough to recognize the three gods and the ancient camp, not enough to know why the painter had put them together.
+
+Percy kept looking at the child on the steps. A pale line ran across the child's shirt, too worn to identify as a design. His first thought had been that it looked like a wave. He didn't say so. He knew how quickly one detail could become a story that everyone repeated as if they'd witnessed the original.
+
+Silena came beside him. She had lowered her camera because Myra was packing away the pigments.
+
+"You want him to be a son of Poseidon," she said quietly.
+
+"I don't know."
+
+"I think you do."
+
+Percy considered denying it, then shrugged. "Maybe. It would be nice."
+
+Clarisse heard them. "It might be any camper. Don't make the painter choose our cabin after a hundred years."
+
+"I'm not."
+
+"You were thinking it."
+
+"That's allowed."
+
+"Sure. Just don't write it on the wall."
+
+Silena smiled, but the exchange stayed with Percy as the crew gathered their tools. The three of them shared a divine father, but the same heritage had given them radically different lives. Percy had been raised in a palace after Sally died in the rewritten childhood; Clarisse and Silena had grown up elsewhere. If the child in the painting had been a son of Poseidon, that did not tell them whether he had lived with a king or been left to find his own shelter.
+
+"My mother would have liked the little camper," Percy said.
+
+He meant Sally, and he felt the old ache as soon as the words left him. In the altered life his sisters knew, Sally had died when he was little. They wouldn't understand how many specific remembered afternoons he carried from a life in which she hadn't. He didn't try to make the comment do more work than it could.
+
+"Mine might have," Silena said. "I don't know. I wish I did."
+
+Clarisse ran a thumb along the grip of her practice dagger without drawing it. "Maybe the painting was meant for the campers, not for the gods. The kid's the one looking up. He'd see them when he came out of the dining hall."
+
+Percy looked again. That was possible. The child's place near the bottom of the mural was not a sign of insignificance. It might be the artist's chosen point of view.
+
+Annabeth joined them with her notebook. "I wish we could date it more precisely."
+
+"Would a date change what the painting means?" Percy asked.
+
+"It could. If we know when the cabins looked like that, we can say whether the artist was painting the present or imagining an older camp. But even then we wouldn't know what they believed."
+
+"Thalia thinks the lightning is certain."
+
+"The symbol probably is. The meaning of the whole scene isn't."
+
+Percy touched the edge of Annabeth's closed notebook, careful not to smear graphite across the page. He liked that she could admit where a measurement stopped and an interpretation began. Her intelligence had often kept them alive in the world they remembered. In this one it could keep their curiosity from erasing other people's work.
+
+At the end of the chamber, Thalia was watching the worn face of the painted thunder god. Her own father sometimes came to her in a stranger's face. There was something painfully fitting about a portrait whose face had been lost while the lightning remained unmistakable.
+
+"Do you wish the painter had shown him differently?" Percy asked.
+
+Thalia took a long time to answer. "I wish he'd been different. That's not the artist's problem."
+
+Annabeth moved close enough to touch her sleeve. Thalia didn't turn away.
+
+"Will you come back when Myra opens the next section?" Annabeth asked.
+
+"Yes. If I'm invited."
+
+"You are."
+
+Percy watched the two of them standing beneath an image of gods who seemed, in paint, much easier with their siblings than the gods had often been in life. He understood why the mural mattered to the camp. He was also glad they were not treating it as an instruction manual for their own family.
+
+Myra called them toward the exit. Nobody had to decide what to believe about the painting before the next section could be examined. They could preserve it first and argue about meaning afterward.
+
 Myra stopped them before they left the mural chamber.
 
 "One more question," she said, looking at Annabeth rather than Percy. "When we open the passage to campers, what are they going to think they're allowed to touch?"
