@@ -737,6 +737,54 @@ The mural existed. Its age, purpose and missing portions remained uncertain. Per
 
 ---
 
+When they had finished documenting the exposed section, Silena spread her photographs on the worktable. The images looked unreal in the lantern light: blue against gray plaster, a flash of old gold, the painted child so small that a careless crop could make the whole scene seem to belong to the gods alone.
+
+"I want to show people," she said.
+
+Myra looked at the prints. "Eventually."
+
+"Not tonight?"
+
+"Not without captions. These pictures don't show the whole wall, and the restoration process isn't complete."
+
+Silena pressed her lips together. "If we keep everything quiet, the rumors will get worse."
+
+"Then make a statement about the discovery. That doesn't require sending an unfinished photograph into every cabin."
+
+Percy watched his sister consider. She hadn't taken pictures to make herself famous. She wanted campers to feel included in a discovery that belonged to their home. But Myra knew how quickly a picture could become proof of something it didn't show.
+
+"Could I draw a general view instead?" Annabeth asked. "No exact access route, no unverified reconstruction. Just the shape of the exposed area and the objects we can identify."
+
+"Yes, if we label missing sections and uncertainty."
+
+Clarisse looked at the first print. "You can't show the child in a close-up and tell everyone you know whose kid it was."
+
+"We don't," Silena said.
+
+"Then say that."
+
+Silena gave her a sharp look. "I'm aware."
+
+Percy expected the exchange to become an argument. Instead she set the print aside and took a fresh card from her bag. She wrote a draft caption: *Old wall painting in a maintenance corridor at Camp Half-Blood. Partial cleaning reveals three divine figures and a small human figure. Identity and date unconfirmed.*
+
+"How's that?" she asked.
+
+"Better," Myra said.
+
+"It sounds dull."
+
+"Accurate things sometimes do."
+
+Percy laughed. Silena pretended to be offended and then asked Myra to correct the term for the outer pigment layer. The conservator explained it and watched her write the word in full. The photographs would stay in the work archive until the condition record was complete; the public notice could use Annabeth's labeled diagram and a short account of what the crew had found.
+
+Thalia examined the draft too. She asked whether the diagram should identify the lightning bearer as Zeus with certainty. Annabeth pointed to the recognizable symbol and said they could write *likely Zeus, based on lightning attribute*, while keeping the full work's interpretation open. Thalia nodded. She did not demand that the picture present her father in a better light than he deserved.
+
+They carried the draft to Chiron. He read it aloud, changed one sentence about the age of the painting and approved the general description. It was not the thrilling announcement Percy might have made at breakfast. That was probably its greatest virtue.
+
+Later Silena would make a separate set of photographs for the restoration crew, showing the areas each camper had helped preserve. It mattered to her that the work be remembered, not merely the spectacle of discovering it. Percy offered to hold the papers while she sorted them. For once he didn't insist on being the person who carried every box.
+
+The corridor remained quiet while they packed up. Behind the temporary curtain the painting waited, neither restored nor forgotten. Percy could have imagined the lost faces and filled them with all the hopes he held for his own family. He chose to leave them as they were.
+
 Before they could leave, the maintenance foreman asked Annabeth to show him exactly which turn they had followed. The old stone floor was dry now, but a water stain ran up one wall and disappeared beneath a later patch of mortar.
 
 "That section stays closed," he said. "We don't know what's behind it."
