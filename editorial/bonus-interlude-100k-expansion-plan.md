@@ -59,6 +59,9 @@ The heart of both books is private adult intimacy: attraction, anticipation, con
 
 **Total target:** 100,000 body words. Do not import lengthy work rosters, drainage-project subplots, or multi-chapter character studies of side characters just to reach the count.
 
+
+**Tasteful mature-content refinement (author request, 2026-10-12):** The relationship is explicitly adult and mutually desired. Give intimate scenes physical specificity, anticipation, private initiative, and a real aftermath; keep newly drafted sexual acts off-page, using fade-to-black rather than procedural descriptions. Enthusiasm is communicated chiefly by responsive behavior and eager reciprocal choices, not repeated scripted permission questions. Use direct boundary dialogue only when actual uncertainty, fatigue, injury or a declined invitation makes it necessary. Avoid mechanically adding a sex scene at the end of every conflict; proximity must never substitute for resolving the conflict.
+
 ## Prose and acceptance
 
 Third-person limited, principally Thalia. Make dialogue personal, irregular and specific. Avoid identical rhythms across encounters, hyperbolic metaphors, repetitive claims that everything is perfect, repeated slate-message conclusions, and rushed arguments resolved by physical attention alone. Close physical scenes with a meaningful choice or consequence so that readers learn something beyond the existence of attraction.
