@@ -5281,3 +5281,220 @@ He took the program from her hand and set it safely out of reach.
 She laughed and went willingly.
 
 ---
+
+## December 24: The Door That Stayed Closed
+
+Thalia had never been particularly interested in gifts.
+
+People got anxious about them. They bought the wrong thing, tried to guess what someone wanted and then spent the rest of the evening wondering whether the recipient had been polite enough. She preferred things that could be used, repaired or argued about.
+
+Rhys had apparently ignored that preference.
+
+He opened the cabin door wearing a look of such deliberate innocence that she knew immediately something was wrong.
+
+"What did you do?"
+
+"Good evening to you too."
+
+"That's not an answer."
+
+He stepped aside. The room was lit by a string of little lanterns hanging along the upper shelf, their light warmer than the usual single lamp. The stove was going, and on the table lay a parcel wrapped in plain paper. Beside it stood a small plate of bread, cheese and apples.
+
+Thalia stopped.
+
+"You planned something."
+
+"A small thing."
+
+"I told you not to."
+
+"You told me not to make every evening into an event. This one felt like it might deserve a little effort."
+
+She looked at him. The string of lanterns had probably taken him an hour to hang, given the awkward position of the hooks. The table had been cleared. The cot had a new blanket folded at the foot, dark grey with a simple woven pattern. It was a modest transformation, but it had required thought.
+
+"You're difficult," she said.
+
+He smiled. "Learned from the best."
+
+She put her coat on the hook, then crossed the room and kissed him. She had spent the day wanting to see him, and the moment she was close she decided that complaining about the lanterns could wait. His hands came naturally to her waist, and he met her eagerness without the cautious hesitation of those first weeks. They knew one another better now. She liked that he could read the invitation in the way she caught his collar and that she could hear his pleasure in the small laugh he gave when she refused to let the kiss end.
+
+He drew back just enough to look at her.
+
+"You're early."
+
+"I wanted to come."
+
+"That explains it."
+
+"And I'm still not promising to be pleasant."
+
+"I hadn't expected a miracle."
+
+She smiled and kissed him again.
+
+The parcel remained unopened for another ten minutes.
+
+Eventually he steered her toward the table, which she considered a poor choice but accepted when he reminded her that the bread was warm.
+
+"Open it," he said.
+
+She untied the string. Inside was a small leather case, lined with dark cloth, with enough space to hold two photographs and a folded letter. The stitching was neat and strong. She recognized his hand in it, the same careful workmanship he used on bow cases and worn gloves.
+
+"You made this."
+
+"I did."
+
+She ran a thumb along the seam. There were two small pockets inside, each lined to keep a photograph from rubbing against the other. It was a practical object, beautiful without announcing itself as such. She liked that he had remembered the photographs, the way she carried hers inside a book until the corners began to bend.
+
+"That's good work," she said.
+
+He smiled. "I was hoping you'd think so."
+
+She closed the case carefully.
+
+"And now you're expecting me to make a speech."
+
+"Not in the slightest."
+
+She caught the front of his shirt, drew him closer and kissed him instead. It was a much better form of thanks. He responded with immediate pleasure, one hand settling at the back of her neck. She let the kiss linger until they were both smiling.
+
+"What about your gift?" she asked.
+
+"You brought yourself."
+
+"That's an appalling answer."
+
+"I rather like it."
+
+She shook her head and took a folded piece of paper from her coat. It was the copy of his music she'd annotated for the concert, with her corrections and complaints written in the margins. She had repaired the torn edge, folded it neatly and put it inside a cover she'd made from dark blue paper.
+
+He looked at it, surprised.
+
+"You kept this?"
+
+"Somebody had to preserve the evidence of my superior musical judgment."
+
+He opened the pages. She had written small notes beside the phrases he'd changed, including a line under the difficult transition: *You finally listened.* Beneath it, in smaller letters, she'd added: *I'm glad I did too.*
+
+Rhys read the line and stopped.
+
+"Thalia."
+
+"Don't make a fuss."
+
+He looked up at her. "This is lovely."
+
+She felt her face heat and was annoyed by it.
+
+"It's an annotated score."
+
+"I know."
+
+"Very practical."
+
+"Of course."
+
+He set it beside the photograph case, came around the table and kissed her with such open affection that she forgot how embarrassed she had been. She moved toward him at once, catching his shoulders and laughing when the edge of the table pressed against her hip.
+
+"Your furniture is still dangerous."
+
+"An ongoing problem."
+
+"You're supposed to have fixed it."
+
+"I've been distracted."
+
+"By what?"
+
+He gave her a look.
+
+She smiled and kissed him again.
+
+***
+
+Later, the lanterns were still burning and the little room had begun to feel entirely separate from the rest of camp.
+
+Thalia was sitting against the pillows with one leg folded beneath the blanket. Rhys had left his shoes by the door and was trying to find the second one, which had apparently made its way beneath the table. She watched him search with great satisfaction.
+
+"Have you considered that it escaped?"
+
+"With your help, perhaps."
+
+"Accusations without evidence."
+
+"I know you."
+
+"Apparently not well enough to keep track of footwear."
+
+He found the shoe behind the stove and looked at her with theatrical suspicion. She smiled too innocently to be believed.
+
+He came back to sit beside her.
+
+The warmth between them had changed over the evening, from the initial rush of seeing one another to the quieter affection that came after they had taken the time to eat, talk and make each other laugh. She found she wanted to be close again, not from anxiety that the time might disappear, but because it was pleasant and she could ask for it without turning the request into a challenge.
+
+She touched his jaw. He leaned toward her.
+
+Their kiss began softly. She drew him nearer by the collar, and he answered with a familiar eagerness, smiling against her mouth when she caught the edge of his shirt between her fingers. The lanterns cast small pools of light across the blanket. Outside, the winter wind pressed against the shutters. Inside, the room was warm enough that she stopped thinking about the weather.
+
+He kissed her cheek, then lingered near her neck. She closed her eyes for a moment, letting herself enjoy the closeness and the private rhythm they had found together. There was nothing theatrical in it, no pressure to turn the evening into a grand milestone. They liked one another. They wanted one another. The pleasure of those facts had become less surprising and more certain.
+
+When she drew back, she was smiling.
+
+"Shut the door properly," she said.
+
+"It's shut."
+
+"The latch."
+
+He glanced toward it. She had noticed earlier that the upper catch wasn't set, a small habit of his when he expected someone might still come by to collect equipment. Tonight she wanted the room to remain theirs.
+
+He stood, fastened the latch and returned.
+
+"Better?"
+
+She caught his hand and drew him beside her.
+
+"Much."
+
+The remaining lanterns burned low while they stayed close together. At some point the conversation ended, not because there was nothing more to say but because neither wanted to interrupt the quiet. The rest of the night belonged to them.
+
+***
+
+In the morning she woke to the smell of bread warming on the stove.
+
+The photograph case lay on the table beside her annotated score. Rhys had put the two gifts next to one another without arranging them for display. She liked the sight: two objects made with care, neither expensive nor designed to impress strangers.
+
+He came over with a plate.
+
+"Breakfast."
+
+"You're turning this into a habit."
+
+"A terrible one."
+
+She took the plate and watched him sit beside her. He looked tired in the pleasant way she suspected she did too. His hair was disheveled. There was a faint mark on his wrist from a cord he'd been repairing the day before. She noticed it and chose not to comment.
+
+"Do you think we'll keep doing this?" she asked.
+
+"Eating breakfast?"
+
+"Making things for each other. Spending time like this."
+
+He considered. "I hope so."
+
+She looked at him. He wasn't offering a promise of perfect evenings or a future nobody could guarantee. He was saying he hoped they would keep choosing one another, with all the ordinary disagreements and practical complications that would come along.
+
+"Good," she said.
+
+He smiled. She leaned over and kissed him, a brief, warm kiss that ended with both of them laughing because the plate nearly slipped from her knee.
+
+"Careful," he said.
+
+"Your plate is defective."
+
+"Of course."
+
+She took another bite of bread, then reached for his hand beneath the blanket.
+
+The door remained closed until they were ready to go outside.
+---
