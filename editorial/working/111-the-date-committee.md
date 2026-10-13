@@ -247,3 +247,319 @@ From the top row, the stage looked almost flat. From the lower seats, the column
 And she knew who wouldn't mind sitting beside her while she found out.
 
 ---
+
+Percy found the ladder leaning against the forge, exactly where Clarisse insisted it wasn't.
+
+Charlie Beckendorf was bent over a square of copper sheet, wearing thick gloves and an expression of patient disappointment. He had penciled a cutting line across the metal. Beside him, a younger Hephaestus camper was making an impressive mess of some nails.
+
+"Don't touch that," Charlie said without looking up.
+
+Percy stopped with one hand halfway to the ladder. "How'd you know?"
+
+"Because it's what everybody does when they come into the forge and see something they want."
+
+"I was going to ask."
+
+"Then ask."
+
+"Can I borrow the ladder?"
+
+"No."
+
+"That was fast."
+
+"It's got a loose rung. We're fixing it." Charlie raised the copper sheet to the window and checked the line against the daylight. "What's broken?"
+
+"The Zeus cabin gutter. Apparently the wood behind the bracket is rotten."
+
+"Annabeth find it?"
+
+"Yes."
+
+"She send you?"
+
+"No. I heard about it from Thalia."
+
+Charlie lowered the sheet. "Then she probably has a plan."
+
+"She does. That doesn't mean I can't help."
+
+"It means you should find out what help looks like first." He handed Percy a short length of pipe. "Hold this against the mark. Straight, not like you're trying to win a tug-of-war."
+
+Percy held it. Charlie measured and made another mark. The younger camper tried to hammer a nail into the workbench, missed, and took a step backward before anybody had to tell him.
+
+"So," Charlie said, "you're here about the gutter or something else?"
+
+Percy looked at him. "What did Clarisse say?"
+
+"Nothing. Silena came through earlier and asked whether I could make something that might survive being carried to the amphitheater."
+
+"Oh, gods."
+
+"That's what I said."
+
+The forge wasn't hot enough to make Percy sweat yet, but he felt warm anyway. "I'm trying to ask Annabeth out. My sisters have decided this requires a governing body."
+
+Charlie set the pipe down. He didn't laugh. Percy appreciated that for three full seconds.
+
+Then Charlie said, "Silena once tried to make me a schedule for our repair shifts so I wouldn't forget lunch. She color-coded it."
+
+"That sounds useful."
+
+"I'd been eating lunch on my own for years."
+
+"Did you tell her?"
+
+"I did. I also used the schedule. Both things can be true."
+
+Percy considered that while Charlie bent to inspect the ladder's loose rung.
+
+"Maybe I want it to be more than the usual walk," he said.
+
+"Then make it more than the usual walk."
+
+"That's terrible advice."
+
+"You're welcome."
+
+Percy watched the copper sheet catch the light. "I don't know what Annabeth wants. I know a lot about what she used to want. I know what she likes now. But sometimes I think because we've already done so much together, I ought to know every answer before she says it."
+
+Charlie tapped the ladder. "That sounds exhausting."
+
+"It is."
+
+"Ask her."
+
+"Everybody keeps saying that."
+
+"Maybe everybody's right about one thing."
+
+Percy let the argument go. The younger camper had abandoned his nails and was trying to fit two square pieces of wood through the same round opening. Charlie stepped away to rescue the project.
+
+A moment later, Silena appeared at the forge entrance with a basket over her arm. Her hair was tied back with a blue cloth; there was paint on her left wrist.
+
+"There you are," she said. "Chiron needs the ladder after the gutter."
+
+"Charlie said it's broken."
+
+"Charlie said it would be ready after lunch." She looked at Charlie, who held up two fingers without lifting his head. "Two hours. Which means we have time to decide whether you're actually going to talk to Annabeth."
+
+Percy dragged a hand through his hair. "I am. I was looking for the ladder."
+
+"Yes. That's what made me come here. Your girlfriend wants to spend time with you and you're doing errands for every building in camp."
+
+"Buildings are easier."
+
+Silena's smile lost its teasing edge. "Maybe. But you don't have to earn an afternoon with her by fixing the whole camp."
+
+He was about to protest when he saw the strawberries in her basket. "Those are for the committee?"
+
+"These are for the kitchen. I've got a shift, remember? I didn't stop having things to do because Clarisse invented a committee."
+
+"Fair point."
+
+Silena took one berry out and held it up. "I can save some for you if you both decide you'd like a picnic. I won't choose where."
+
+"Thank you."
+
+"And tell Clarisse I don't have time to make the banner."
+
+"She wanted a banner?"
+
+"She wanted to know whether I could sew 'Congratulations on Your Date' onto a sheet."
+
+Percy closed his eyes. "Please tell me you said no."
+
+"I said she was welcome to learn embroidery."
+
+She left him with a quick touch to his shoulder. He could hear her laughing at something Charlie said as she crossed the yard. The laugh wasn't about Percy, at least not entirely. Silena had a kitchen shift and a painting project and people she cared about who weren't him. She wasn't standing around waiting to be useful to her little brother.
+
+It was a better example than any lecture.
+
+Percy put the pipe where Charlie indicated, carried the repaired ladder to the marked rack rather than taking it, and headed toward the Big House.
+
+He nearly made it before Clarisse stepped from behind a stack of timber.
+
+"Progress report," she said.
+
+"No."
+
+"That's not a report."
+
+"I haven't asked yet."
+
+"Why not?"
+
+"Because I've spent the entire morning doing everything except asking."
+
+"Good diagnosis." Clarisse held out a folded square of paper. "I had ideas."
+
+Percy looked suspiciously at it. "What's on that?"
+
+"Options. The amphitheater. The orchard. The western trail. A sunset sail if Chiron approves it."
+
+"Did you write 'sunset sail'?"
+
+"Silena did. I wrote 'boat.'"
+
+He took the paper. It was covered with corrections in two different hands. Clarisse had crossed out the word romantic so hard the paper had torn. Silena had written Ask Annabeth at the bottom and circled it twice.
+
+Percy folded the list again, more carefully.
+
+"Thanks," he said.
+
+Clarisse blinked. "That sounded sincere."
+
+"It was. But you have to stop."
+
+"Stop what?"
+
+"Deciding she's going to like something before she tells us. You can help me with the strawberries later. If she wants them."
+
+Clarisse folded her arms. Her first instinct, visibly, was to argue. She was good at being in charge of things. She was less practiced at accepting a job with no rank attached.
+
+"Fine," she said at last. "I'll be available for consultation."
+
+"I'll alert the council."
+
+"You think you're funny."
+
+"Sometimes I get lucky."
+
+He walked away before she could change her mind.
+
+---
+
+Annabeth found Chiron in the amphitheater, standing in the center of the stage and squinting up at the seats.
+
+The open-air theater was quiet between rehearsals. A leaf had caught in the crack between two stone steps, and a row of empty cushions waited beneath a bench for someone to put them away. Near the rear wall, a piece of painted scenery leaned against a support column. The stage looked larger without actors and props filling it.
+
+"You wanted to see me?" Annabeth asked.
+
+"I heard you were interested in the sightlines."
+
+"From different seats. The columns look straight from below but slightly narrower from the back row. I wanted to measure whether that's intentional."
+
+"It was intentional once," Chiron said. "Some of the stonework has been repaired since then."
+
+"Not always well."
+
+"That is an accurate but impolite observation."
+
+Annabeth almost smiled. Chiron stepped aside so she could see a hairline crack running down the base of the far column.
+
+"Can you tell me whether this is cosmetic?"
+
+She knelt, set down her drawings and examined the joint. The mortar around the crack was newer than the blocks on either side, and a fine line of pale dust had collected at the base. She didn't touch it yet.
+
+"Has the gap changed?"
+
+"I believe so. Only slightly."
+
+"Then it's not only cosmetic. We need to measure it over time, and nobody should use the stage edge for heavy scenery until we know whether it's moving."
+
+Chiron looked at her with an expression she was still learning to interpret. He respected her judgment, but he also knew she had a habit of assigning herself work until nothing was left for anybody else.
+
+"I don't expect you to solve it this afternoon," he said.
+
+"I wasn't going to."
+
+He lifted an eyebrow.
+
+"I was going to sketch the columns," she admitted. "And possibly come back with a plumb line tomorrow."
+
+"That would be sensible. For today, an initial measurement and a note for the repair crew will do."
+
+Annabeth wrote down the crack's width relative to the edge of her pencil, then stopped herself and drew a proper scale. She had no intention of turning a rough comparison into an official measurement. Chiron offered her a narrow rule from a nearby toolbox. She recorded the result and marked the exact place with a small chalk line that rain could wash away.
+
+A breeze lifted the edge of her paper. She caught it with one hand.
+
+"Do you know who built the first version?" she asked.
+
+"Many people, over many years. Why?"
+
+"It would be easier to understand the changes if we knew what they were trying to preserve."
+
+"That is true of more than buildings," Chiron said.
+
+Annabeth gave him a sideways look. "You're not going to turn my drawings into a lesson about destiny, are you?"
+
+"Not if you don't turn a day off into a structural inspection."
+
+"Point taken."
+
+She gathered the pages. Chiron took the rule back and pointed toward the middle rows.
+
+"Try the fourth bench. There's a useful view of the arch from there in the late afternoon."
+
+"Thanks."
+
+"And Annabeth?"
+
+She stopped.
+
+"You may put this problem down until tomorrow. Other people can carry part of it."
+
+She considered telling him she knew that. It was the sort of answer she gave when the person saying it was Thalia.
+
+Instead she looked at the chalk mark she'd made. Someone would need to keep campers away from the unstable edge. Someone else would need to check the crack after rain. There was a full list of work to do. She could not finish it all by herself.
+
+"I'll leave the measurements with you," she said.
+
+Chiron inclined his head. "Good."
+
+When she came down the theater path, Percy was waiting at the bottom with nothing in his hands. No basket. No flowers. Not even the folded committee list.
+
+He saw her drawings and offered to take the heavier roll, but he didn't reach for it.
+
+"Hey," he said. "Are you free after dinner?"
+
+"What for?"
+
+"A date. If you want one."
+
+Annabeth smiled before she could help it. "I do."
+
+"Do you want to pick where?"
+
+"Yes. The amphitheater."
+
+Percy looked past her toward the very building she'd just left. "Really?"
+
+"Really. I want to draw the stage when the light moves across the arch. It's different from where I was standing just now."
+
+"You'll want me to sit still?"
+
+"I wouldn't ask the impossible."
+
+"Good. Because that would go terribly."
+
+She adjusted the drawing roll against her hip. "Bring a blanket. And something to eat. I'll bring the pencils."
+
+"Strawberries?"
+
+"Yes."
+
+"Okay. I can manage strawberries."
+
+"One more thing." Annabeth glanced at the steps behind her. "I don't want anybody else deciding what this is supposed to look like."
+
+Percy didn't pretend not to understand. "I've already told Clarisse."
+
+"Did she listen?"
+
+"Eventually."
+
+"We'll see."
+
+"We will."
+
+For a moment they stood smiling at each other in the path, two people who had shared more years than anybody here knew and were still perfectly capable of being pleased by a simple invitation.
+
+Then Annabeth lifted the roll of paper. "You can carry this to the library if you're coming that way."
+
+Percy held out his arms. "I thought you'd never ask."
+
+She handed it to him. It was heavier than he expected. He made an undignified noise, and she laughed all the way to the turn in the path.
+
+---
