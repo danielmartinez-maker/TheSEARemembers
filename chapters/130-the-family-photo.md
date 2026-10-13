@@ -1243,6 +1243,29 @@ Annabeth came later and found him looking at the frame. He told her what Silena 
 
 She stayed beside him for a while, looking at the family in the photograph. They had stood together on a warm afternoon, squinting into the sun, with nobody required to make the picture mean more than it could show.
 
+Before Austin hung the last frame, Miriam brought him a request from a camper who wanted to send several copies to relatives outside camp.
+
+"That needs another check," Austin said.
+
+"Why? The picture's already approved for the pavilion."
+
+"Approved here. The people in it didn't necessarily agree to have copies sent anywhere else."
+
+Miriam looked at the list. "That isn't on the form."
+
+"Then we should add it."
+
+Chiron listened while they explained the distinction. He had approved a public noticeboard where campers knew their photographs might appear. Sending copies into the outside world was a different kind of distribution, and he couldn't assume every child had agreed to it.
+
+"Ask the people involved," he said. "If the group is large, start with the cabin counselors. Nobody should feel obliged to consent because the picture is already hanging here."
+
+Miriam wrote a new line on the permission sheet. It identified who could request copies, where they would go, and whether the people photographed had agreed. Several campers would have to wait a day before sending prints. One boy grumbled loudly. Another said he hadn't wanted a cousin to see him in his camp armor, and was relieved somebody had asked.
+
+Silena helped sort the requests. She didn't enjoy telling people their copies would be delayed, but she understood the reason. A photograph could be a gift, a private keepsake or a public record. The paper looked the same in each case. What changed was the person who got to decide how it was used.
+
+Austin added the new permission note to the archive book, beneath the list of exposed plates and approved displays. It was another piece of work after the camera had stopped clicking, and nobody cheered when it was finished. Silena thought it would matter longer than any applause.
+
+
 At the Big House, Austin placed the public group portrait in its approved frame. The private negatives and prints remained in labeled sleeves, and Chiron kept the signed display permissions with the archive record.
 
 By evening the camp had a new photograph on its wall, and Cabin Three had one of its own. The picture couldn't supply missing years or absent people. It could show who had been there when the camera shutter closed, and Percy was content to leave the rest of the story to those who remembered it.
