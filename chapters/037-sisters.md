@@ -489,7 +489,7 @@ Annabeth rolled onto her side, cheek on her arm, straw stuck to her lip. She loo
 
 Annabeth shook her head. "That was fun. I like when it's just us. No scores. No —" She waved a hand. "No destiny stuff. Just straw and stupid."
 
-Thalia nodded, throat tight. She understood exactly what Annabeth meant. At camp, everything was training for something. Every spar was evaluated, every power measured, every dream potentially a prophecy. It was exhausting, especially for kids like them, children of the Big Three — no, child of Zeus and child of Poseidon, plus Thalia, another child of Zeus — withstorms in their blood and oracles watching.
+Thalia nodded, throat tight. She understood exactly what Annabeth meant. At camp, everything was training for something. Every spar was evaluated, every power measured, every dream potentially a prophecy. It was exhausting, especially for kids like them, children of the Big Three — no, child of Zeus and child of Poseidon, plus Thalia, another child of Zeus — with storms in their blood and oracles watching.
 
 "Yeah," Thalia said. "Just stupid. My favorite."
 
