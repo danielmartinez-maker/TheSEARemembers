@@ -10678,3 +10678,173 @@ Then he practiced the troublesome entrance silently with his fingers on the edge
 For once he got it right.
 
 ---
+
+## April 5: An Apprentice Who Disagreed
+
+Thalia knew the lesson would go badly when her assistant asked to change it.
+
+They were standing beside the new advanced range, looking at a series of obstacles the students would have to use as cover during a timed exercise. The weather was clear. The ground was dry enough to be safe. The students had been looking forward to the session all week, and Thalia had written the sequence with enough care that she could explain every decision.
+
+Her assistant, a daughter of Athena called Eleni, examined the obstacles and folded her arms.
+
+"The second lane's too easy."
+
+Thalia looked at her.
+
+"It's a training lane."
+
+"I know. But they've been practicing that turn for days. Half of them can do it without thinking."
+
+"That's why they're doing it under a time limit."
+
+Eleni shook her head. "The time limit will make them rush, not think. If they already know the movement, they're going to try to beat the clock instead of examining the angles."
+
+Thalia was prepared to argue. The reply formed in her head with satisfying speed: the students needed to demonstrate that they could perform the movement consistently before a more difficult obstacle was introduced. They needed discipline. They needed to stop being distracted by novelty.
+
+Then she heard herself.
+
+She had made exactly this objection to Rhys months earlier when he'd suggested teaching a difficult student differently from the rest of the group. She had been partly right. She had also been so invested in proving that the method was correct that she had not listened to what the student needed.
+
+Eleni was looking at her.
+
+"All right," Thalia said. "Show me what you'd change."
+
+The assistant blinked.
+
+"You want me to move it?"
+
+"I want you to explain your proposal."
+
+Eleni came around the screen and pointed to the second obstacle. She wanted to rotate it slightly so the students would have to look for an opening instead of using the same movement every time. She also wanted to remove the visible marker they'd been trained to aim toward and replace it with three possible target positions.
+
+Thalia followed the explanation. There were flaws. The new angle would leave one corner exposed, and the third target position was too close to the safety boundary. But the underlying idea was good.
+
+She said so.
+
+Eleni looked almost offended by the praise.
+
+"You'd have to change the third marker," Thalia added. "Otherwise somebody could loose an arrow into the walkway. And you can't make the new lane harder without testing it first."
+
+"I can test it."
+
+"You can. I'll watch."
+
+The assistant's expression changed. Thalia recognized the moment when a student realized she was being trusted with responsibility rather than merely invited to do extra work.
+
+They spent twenty minutes moving the obstacles. Eleni tested the angles with an unstrung bow, then brought in a second instructor to check the safety line. The changes took longer than planned. The students grumbled while they waited. Thalia tolerated the grumbling because she had decided to see whether the new lesson worked.
+
+It did.
+
+The first group slowed down instead of rushing. They stopped to assess which target was live. They argued about how best to use the cover. One student chose a path Thalia hadn't anticipated and made it through the exercise without breaking a rule. Another took a risk she disliked but could explain it well enough that she allowed him to try again under supervision.
+
+By the end of the hour Eleni was flushed and smiling.
+
+"That was better," she said.
+
+"It was different."
+
+"Better."
+
+Thalia looked toward the targets. The students were still discussing the exercise, which meant the questions would follow them beyond the range.
+
+"Yes," she admitted. "It was better."
+
+Eleni stared at her, surprised by the admission.
+
+"Don't get used to it," Thalia said.
+
+"I wasn't planning to."
+
+The assistant laughed.
+
+Thalia watched her go to collect the last of the arrows and felt a strange pride. She had not made the lesson better by doing everything herself. She had made it better by giving someone else room to challenge her and then having the sense to recognize a good idea.
+
+That evening she went to the lake to think.
+
+The path was muddy in places, and the first green shoots had begun pushing through the dead grass. The water lay dark and still beyond the reeds. She sat on the low wall and tried to decide whether to write Rhys about the lesson.
+
+She wanted to tell him. That was easy.
+
+What she didn't want to do was make it sound as if the whole afternoon had been about learning something he'd already told her. Eleni had been the one who suggested the change. She deserved the credit. Thalia had listened and made a judgment. That was her work, and she wanted it to remain hers.
+
+She could write about it without turning her assistant into a prop in a story about herself.
+
+The difficulty was that she had begun to recognize how much she enjoyed hearing Rhys describe his own work. She liked reading about the people he met, the mistakes that annoyed him, the moments when a passage finally came together. She wanted to give him the same kind of account rather than the clipped report she'd normally send Chiron.
+
+At Cabin One she found an envelope from him waiting on the table.
+
+She opened it standing up.
+
+The letter was full of rehearsal details, including the story about calling the conductor by the wrong name. Thalia laughed so sharply that Annabeth looked up from her book.
+
+"What?"
+
+"He's an idiot."
+
+"Is he all right?"
+
+"Very."
+
+She sat on the bed and read the rest. When she reached the sentence about being good enough to want correction, she stopped. It was a feeling she knew, though she wasn't sure she'd ever described it that way. The confidence to be wrong in front of someone else was rarer than accuracy itself.
+
+Then she reached the last lines.
+
+*I want to kiss you when I come back. No poetic explanation. Just that.*
+
+She read them twice.
+
+Annabeth was watching her now.
+
+"What's in the letter?"
+
+"Work."
+
+"That's a very happy-looking work letter."
+
+Thalia folded it carefully.
+
+"He misses me."
+
+"Of course he does."
+
+She looked at her sister. There was something so unremarkable about the answer that she almost laughed. Annabeth seemed to consider it obvious that someone who knew Thalia would miss her. It was not the way Thalia thought about herself, though she'd begun to suspect Annabeth had been right about her more often than she liked to admit.
+
+She fetched a clean sheet.
+
+*Rhys,*
+
+*You called the conductor the wrong name for two days. That's a remarkable achievement. I'm very proud of you.*
+
+She paused, smiling.
+
+*The advanced program is improving. One of my assistants made a suggestion I didn't like. I let her test it. It worked. I know you'll want to say something unbearably smug about that, so I am giving you permission to be smug for exactly thirty seconds.*
+
+She looked at the page. Too much teasing. Not enough of the real day.
+
+*I was proud of her. She didn't need me to give her the answer. She needed someone willing to trust her judgment and correct the parts that weren't safe. I want to be that sort of teacher, though I am beginning to understand how much work it will take.*
+
+She sat still for a moment after writing the last sentence. It was the sort of statement she rarely allowed herself to make. She'd been comfortable claiming skill. She was less comfortable admitting she wanted to become better at something that mattered to her.
+
+Rhys would understand. That was why she was writing it.
+
+She continued.
+
+*Your rehearsal sounds difficult, which is probably good. You should stay and be annoyed by people who know more than you do. I've had the pleasure myself.*
+
+Then she read his final lines again and smiled.
+
+*For the record, I also want to kiss you. I am not going to write any more about that in a letter somebody else might carry. Use your imagination, but don't make yourself insufferable.*
+
+She signed the page, folded it and put it with the outgoing mail.
+
+At supper she talked with Annabeth about the range exercise. Her sister wanted to know precisely how Eleni had altered the target placement and whether the third lane was safe under a crosswind. Thalia explained the changes, and they argued about the measurements until the food went cold.
+
+She enjoyed the argument.
+
+When she returned to Cabin One, she found herself looking toward the shelf where the orchard photograph stood. Rhys was away doing his work. She was home doing hers. The desire to see him remained immediate and sometimes distracting, but it did not make either part of their lives less real.
+
+She went to bed thinking about the next lesson and the possibility that Eleni would disagree with her again.
+
+She hoped she would.
+
+---
