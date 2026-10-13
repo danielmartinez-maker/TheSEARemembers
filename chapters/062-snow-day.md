@@ -866,6 +866,122 @@ He nudged her mitten with his. "Thanks for my trident. It's way better than my o
 
 Their mitten-hands lingered, wool catching on wool. Neither pulled away.
 
+The Golden Ladle became a problem almost immediately.
+
+It was enormous, far too large to be used for soup, and someone had painted its handle gold in a way that left glitter on everybody's mittens. Chiron had awarded it jointly, which sounded generous until he asked where the winning cabins wanted to display it.
+
+"Cabin Three," Clarisse said.
+
+"Cabin One," Thalia said at exactly the same time.
+
+They glared at each other.
+
+"It's our trophy," Clarisse said.
+
+"We won too," Thalia replied.
+
+"You got help from Hermes."
+
+"Your team had a Cyclops. Shall we start counting advantages?"
+
+Percy watched the argument rise with fascination. Half an hour earlier they had been laughing together beside the snowmen; now they were preparing to litigate the ownership of a wooden kitchen utensil. Annabeth stood between the two sculptures, studying the ladle.
+
+"Could we share it?" Percy asked.
+
+"We are sharing," Clarisse said. "We just haven't decided where it goes."
+
+"That's a very specific definition of sharing," Annabeth replied.
+
+Tyson held out his hands. "We can cut it in half."
+
+Silena looked horrified. "Absolutely not. Chiron spent all afternoon painting it."
+
+"Then we could make another," Tyson offered.
+
+"That would defeat the purpose of a unique prize," Annabeth said.
+
+Milo, who had been carrying the judging table back toward the pavilion, set it down beside them.
+
+"Why does a cabin have to keep it?" he asked.
+
+Both sisters turned toward him. He looked briefly alarmed by the attention.
+
+"The contest was camp spirit, right? All of you made the snowmen. Everybody watched. The ladle could go in the dining hall."
+
+Clarisse frowned. "Then nobody wins."
+
+"Everyone can see who won," Milo answered. "Put the names on the handle."
+
+Percy thought it sounded reasonable. That made him nervous. Clarisse disliked being beaten in an argument almost as much as she disliked losing a match.
+
+Thalia looked at Annabeth. "What do you think?"
+
+Annabeth held the ladle horizontally and inspected the space beneath the painted bowl.
+
+"We could attach a little brass plate with the date and both team names. And leave room for next year's winners."
+
+"Next year?" Silena asked.
+
+"Why not make it an annual winter contest, if there's snow? If there isn't, we can choose another challenge."
+
+Chiron, who had arrived behind them without anyone noticing, cleared his throat.
+
+"There is not snow every year."
+
+"Then it might be a sand-sculpture contest," Percy said. "Or making something from leaves."
+
+"Or an engineering competition," Annabeth suggested.
+
+"That sounds like homework," Clarisse said.
+
+"It sounds like losing an engineering competition," Thalia answered.
+
+The argument resumed, but the sharpness had gone from it. Tyson offered to make a proper display bracket. Milo said he'd help if they used the workshop rather than trying to drive screws into a marble column. Silena volunteered to write the plaque in her best lettering.
+
+Percy expected the matter to be settled. Then Clarisse turned to him.
+
+"You've been suspiciously quiet. Do you want it in our cabin?"
+
+"A little," he admitted.
+
+That surprised her.
+
+"I like trophies," he explained. "I also like seeing the whole camp get credit for something that wasn't a quest. Put it where everybody can find it. Maybe we can visit it when we want to brag."
+
+Clarisse considered. "We can brag in the pavilion."
+
+"Efficient," Silena said.
+
+Thalia handed the ladle to Tyson, who carried it solemnly as if it were a ceremonial sword. The dispute was settled without a duel. Percy suspected that disappointed the Stolls, who had been trying to organize bets.
+
+As the others went ahead, Annabeth lingered beside the two snowmen.
+
+"I wanted us to win," she said.
+
+"We did."
+
+"I mean I wanted Cabin One to win on its own. It has a lot of empty beds. Sometimes I get tired of having to defend why it exists."
+
+Percy looked up at the white marble cabin above the field. He knew she meant more than the snowball teams. A cabin with a powerful father who rarely visited could feel like a claim other people made about you, rather than a home you chose.
+
+"That's fair," he said.
+
+Annabeth looked toward the little owl at Poseidon's feet, then at the trident beside the storm cloud. "I'm glad the two pieces go together. I just don't want everybody assuming we have to be one thing because we're together."
+
+"We can be two things."
+
+"More than two."
+
+"Okay. Lots of things."
+
+She laughed. He hadn't intended a clever answer, and for once it landed exactly where he wanted.
+
+Behind them, Tyson announced that the bracket would need to be reinforced because the ladle was heavier than a normal soup utensil. Milo replied that anything built by Tyson ought to be tested against at least three times its expected load. Annabeth heard that and immediately headed toward the workshop.
+
+Percy followed, carrying their wet gloves.
+
+The sculptures would melt. The prize would remain on its bracket until somebody won it again. He liked that the day would leave something behind besides a stack of damp clothes and snow in his boots.
+
 ---
 
 Thalia found them like that a minute later and pretended not to see, which for Thalia meant loudly announcing, "I see nothing! I am blinded by camp spirit!"
