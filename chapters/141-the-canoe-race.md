@@ -201,6 +201,70 @@ Percy watched the light turn the juice on everyone's hands to amber and the lake
 Silena passed him another slice, rind cool and waxy against his palm, flesh cold and dripping, seeds glossy, the red-pink glowing translucent when he held it up to the sun. Her straw hat shadow fell across his sun-bleached shirt, straw smell dry and sweet, her fingers brushing his, cool and sticky. "For the reformed cheater," she murmured, eyes kind under the brim. "Hydrate and forgive yourself, little brother."
 "Forgiven by watermelon," Percy said, biting deep, juice bursting cold and flooding his mouth, running down his chin onto his tee in fresh pink stars, seeds cracking faintly bitter then sweet, light flaring through his eyelashes. "Best absolution ever."
 ---
+Before they paddled back, Annabeth found a problem with Clarisse's life vest. The repaired strap had come loose, and when she tugged the buckle it slipped almost to the end.
+
+"You can't go back wearing that."
+
+"It got me here."
+
+"It didn't have to keep you afloat. That's different."
+
+Clarisse looked ready to argue. Tyson was already opening the beach equipment crate.
+
+They tried two spares. The first didn't fit Clarisse's shoulders. The second was bright yellow and fitted properly, which apparently made it personally offensive.
+
+"I look like a sick lemon," she said.
+
+"You look like somebody who will float," Tyson replied, pleased.
+
+Silena buckled the top strap on her own vest, which had been hanging loose all day. Grover adjusted his straps until the foam stopped pushing his ears forward. Ella refused to get into the canoe until somebody helped arrange her wings through the vest openings without pinching feathers.
+
+Percy watched, embarrassed. He'd worried so much about cheating during the race that he hadn't noticed their equipment might not have worked if they'd tipped over. He helped pack the old vest into the box with a note about the failed buckle, so someone else wouldn't accidentally borrow it tomorrow.
+
+"Are we calling the race a draw?" Clarisse asked.
+
+"Yes," Annabeth said.
+
+"You don't even need to count the times?"
+
+"Both crews broke the no-powers rule. The result isn't valid."
+
+Thalia looked toward the water. "The spark was stupid. I shouldn't have made it near the canoe."
+
+"I shouldn't have smoothed our current either," Percy said. "I stopped, but I still did it."
+
+"Then we need a judge next time," Annabeth said, taking out her notebook. "Somebody who isn't racing. We also need a marked course. The reeds made the turning point impossible to see from shore."
+
+Tyson lifted one enormous hand. "I can judge!"
+
+"You want both boats to win," Triton said.
+
+"Yes! Both boats are good."
+
+"That is a disqualification."
+
+Ella raised a wing. "Ella can judge! Ella writes everything. Ella does not move the starting line!"
+
+"That's a surprisingly strong application," Percy said.
+
+"Books and watermelon for payment," Ella replied.
+
+Annabeth penciled her name beside *referee candidate* and drew a little box for the race rules.
+
+Clarisse watched her write. "You're really going to organize this?"
+
+"If we're going to compete, yes. I'd like the result to mean something."
+
+"Fine," Clarisse said. "But I'm choosing my own vest."
+
+"You can choose any vest that passes inspection."
+
+"The sick lemon wins, then."
+
+"No," Percy said. "The sick lemon is just allowed to participate."
+
+They loaded the canoes again and set off for camp. No one had to pretend the race was fair to enjoy that they'd spent the day together. A next time could be different, and the difference would be written down.
+
 The paddle back was slow
  and golden and deliberately together, two canoes lashed side by side with spare cord to make a wobbly catamaran that moved like a sleepy turtle, and nobody minded. Light had gone honey-thick and low, laying long amber paths across water gone glassy-calm, smelling of cooling pines and warm algae and leftover watermelon sour-sweet on everyone's breath. Sound softened to paddle drips and hull creaks and sleepy talk and Ella humming, beeswax-warm, dragonflies late. The taste in Percy's mouth was melon and lake and sunscreen ghost, sweet then mineral.
 Percy paddled lazy stern strokes, his sun-bleached camp tee finally dry and stiff with salt and juice, cotton scratchy at the neck, orange pale as sunset itself, vest worn open now and flapping, nylon cool, cargo shorts dry-crackly with sand that sifted out with each shift, skin tight with sun, hair dry and soft again lifted by breeze, feet bare now, shoes kicked under the thwart, soles gritty.
