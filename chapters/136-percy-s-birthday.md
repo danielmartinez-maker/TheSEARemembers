@@ -441,6 +441,82 @@ Poseidon leaned back, arm draped along Amphitrite's chair, watching his children
 
 ---
 
+Amphitrite found Percy in the kitchen passage while the other guests were finishing cake. She wasn't wearing the jeweled headpiece she'd worn during the formal welcome, and without it she looked less like a queen presiding over a household than a woman who had spent the afternoon making sure everyone had enough to eat.
+
+"Are you escaping your own party?" she asked.
+
+"Temporarily."
+
+"Would you like somewhere quiet?"
+
+"Just a minute."
+
+She showed him the small balcony overlooking the herb beds. A row of shell lanterns hung under the eaves, not yet lit. Someone had left a wooden bowl filled with blue berries on a bench. Percy took one and rolled it between his fingers.
+
+"You used to hide here," Amphitrite told him.
+
+Percy felt the old unease, soft and familiar. "Did I?"
+
+"Whenever the public hall was too loud. You liked to listen to the kitchen staff argue about dinner. You told me the cooks knew more about the city than the council."
+
+"That sounds like something I'd say."
+
+"It does."
+
+She smiled, not expecting him to supply an answering memory. She spoke of the childhood she knew he had lived, a childhood real to her and inaccessible to him in the first-person way he remembered Sally's kitchen. His fear of disappointing her had become a second habit. He could laugh at the boy she remembered without pretending he remembered the same afternoon.
+
+"I wish I could be here more often," he said.
+
+"You are here when you choose to be. I won't measure the affection by the number of days."
+
+"That's easy for you to say. You have a whole city."
+
+"A city can be very lonely," she replied. "Especially when everyone believes your title means you cannot possibly need company."
+
+Percy considered that. She'd helped raise him in this altered life, and she had never required him to call her mother in front of the court. He loved her. That love did not replace Sally or erase the years Percy remembered as his own. Both truths could live in him without being explained to her tonight.
+
+She handed him a small envelope. It contained a paper copy of the first birthday invitation she'd issued after he came into the palace household as a child. Not the original document, which was kept in a private archive, but a careful copy with the names of the people who had attended and the games the children played.
+
+"I thought you might like it," she said. "There are notes on the back about the decorations. Triton insisted on blue ribbons because you cried whenever anyone used yellow."
+
+Percy looked at the page. "I was two."
+
+"Three by the day of the celebration."
+
+"I was a very opinionated three-year-old."
+
+"You were an exhausted child adjusting to a new place. The ribbons were an easy thing to fix."
+
+He read the list of names slowly. It contained people he'd come to know at later visits, but he didn't suddenly hear their voices from that day. It was a record, not a lost memory restored. He folded it carefully and returned it to the envelope.
+
+"Thank you," he said.
+
+Amphitrite touched his hair with a familiar tenderness. He let her. She asked if he was enjoying himself, and he said yes. She asked whether he'd eaten enough, and he said yes again. He wasn't lying about either thing.
+
+A few minutes later Silena appeared at the balcony door. She had been looking for Percy's misplaced gift case and stopped when she saw Amphitrite.
+
+"I didn't mean to interrupt."
+
+"You aren't," the queen said. "Would you like to sit?"
+
+Silena hesitated. Then she joined them, keeping the space that felt comfortable to her. Amphitrite offered berries, which Silena accepted. The exchange was small enough to seem unimportant. Percy watched his sister relax when the queen didn't insist on a title, a kiss or a declaration of family feeling.
+
+"I wanted to thank you for making the garden available," Silena said. "The staff let me see the weaving room yesterday. I'd like to return and study the fibers more carefully."
+
+"I can arrange a time with the workers," Amphitrite replied. "Ask them what they need from you. They are not obliged to stop their own work for the palace's guests."
+
+Silena smiled, clearly pleased. "I would rather work alongside them."
+
+"Then tell them that."
+
+Percy realized he had been worrying about his sister as if he were responsible for making her feel loved in the palace. She was doing something much simpler and much braver. She was asking for a place to learn, without offering to become the perfect daughter everyone might imagine.
+
+They stayed until the first lanterns came on. Amphitrite didn't ask either of them for more than they wanted to give. When Percy stood to return to the party, she squeezed his hand.
+
+"Happy birthday," she said. "I am glad you're here."
+
+He looked at the blue berries and the childhood invitation tucked beneath his arm. He was glad too, even with all the things he could not tell her.
+
 Percy found Poseidon standing beside the terrace rail after the meal, holding a small wooden box.
 
 His father had been at the table for part of the afternoon, laughing when Tyson declared the bread a superior engineering achievement and listening while Triton described the new stable supports. Then a messenger had summoned him away. He'd returned without an explanation, and Percy had tried not to count the minutes.
