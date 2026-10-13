@@ -467,6 +467,215 @@ It was the restraint she couldn't stop thinking about. When she wanted to be dif
 And tonight, finally, she'd made a choice.
 
 
+Two Saturdays before she finally knocked on Rhys's door, Thalia had nearly kissed him and then spent the following week trying to forget it.
+
+The problem began with a window.
+
+It was the one at the north end of the practice shed, an old narrow pane set into a frame that swelled in damp weather and refused to close completely. The first frost had left a white line along its lower edge. Rhys was working on it with a chisel and a small bag of replacement screws, and Thalia happened to arrive in the middle of his second attempt.
+
+She had not been looking for him, she told herself.
+
+She had wanted a length of cord. There was no reason to distinguish that errand from the fact that she had taken the long path to the shed instead of the short one, or that she had slowed when she saw his coat hanging outside the door. Coincidence was a useful explanation for a surprising number of choices.
+
+"You're doing that wrong," she said.
+
+Rhys didn't look up. "Good afternoon, Grace."
+
+"The frame's warped."
+
+"That's what I'm trying to fix."
+
+"You're shaving the wrong edge."
+
+He set down the chisel and turned toward her. He wore a grey work shirt with the sleeves pushed above his elbows, and there was a streak of dust across one cheek. Thalia noticed it. She then became annoyed with herself for noticing something that had absolutely no bearing on the structure of a window.
+
+"By all means," he said. "Show me."
+
+She took the chisel. He stepped aside without complaint, which removed the pleasure she'd expected from proving him wrong. She examined the frame and found that he had indeed been working the wrong edge, though only by a little. She scraped away the narrow ridge and tested the window. It moved halfway down, then stuck again.
+
+Rhys held out his hand.
+
+"You were saying?"
+
+"That it's worse than I thought."
+
+"Convenient."
+
+She gave the tool back.
+
+They worked on the frame together, testing the sash after every small adjustment. It was slow, irritating work. At one point Rhys took the entire thing out, and Thalia held the glass steady while he repaired the guide. She was close enough to see the fine pale marks on his fingers from old bowstrings and the crease beside his mouth when he was concentrating.
+
+He had good hands. That was an unhelpful observation.
+
+"You're staring," he said.
+
+"I'm checking whether you know what you're doing."
+
+"How's the verdict?"
+
+"Uncertain."
+
+He looked up. Their faces were unexpectedly close.
+
+For a moment neither moved.
+
+Thalia could hear rain beginning on the roof, soft at first, then louder when the wind shifted. She was aware of his breath, his hand resting against the lower edge of the frame and the absurd possibility that she might lean another inch toward him simply because she wanted to know what it would feel like.
+
+She didn't.
+
+Rhys looked at her for one heartbeat longer, then returned his attention to the window.
+
+"Hold that corner," he said.
+
+She did, annoyed by the relief and disappointed by it at the same time.
+
+When the repair was finished, the window slid down without resistance and closed against the sill with a satisfying click. Rhys tested it twice.
+
+"There," he said.
+
+"Excellent. You have achieved the basic purpose of a window."
+
+"Only with expert supervision."
+
+"Naturally."
+
+He put away the tools while she gathered the loose screws. The rain was heavier now. They would have to wait before leaving, unless one of them wanted to walk through it and pretend not to notice.
+
+Rhys sat on the workbench. Thalia leaned against the opposite wall, close enough to see him clearly but far enough that the space between them had become a subject of its own.
+
+"Can I ask you something?" he said.
+
+"You've been asking questions for weeks."
+
+"About Annabeth."
+
+Thalia's expression changed.
+
+"What about her?"
+
+"She asked me whether I'd let her take one of the beginner groups after the winter rotation. I told her she should talk to you."
+
+"Good."
+
+"She didn't look pleased."
+
+"That's because she doesn't like asking permission."
+
+"She's fourteen."
+
+"Yes. I've noticed."
+
+Rhys rested his elbows on his knees. "She said you'd decide she'd overcommitted before she even finished explaining the plan."
+
+Thalia folded her arms.
+
+"She probably has."
+
+"Maybe."
+
+"You don't know her the way I do."
+
+"No," he said. "I don't."
+
+She looked at him, irritated by how little he had tried to defend himself.
+
+"Then why bring it up?"
+
+"Because she was asking me about teaching. I think she'd be good at it. But she's worried you'll hear her request as an attempt to get away from you."
+
+Thalia considered the remark. It was too direct, and it struck too close to something she didn't like acknowledging: that she had spent years being Annabeth's protection, and that she had begun to treat any movement away from that protection as a judgment on the job she'd done.
+
+"She's a child," she said.
+
+"She is."
+
+"She can make foolish decisions."
+
+"Definitely."
+
+"And if something happens?"
+
+"Then you help her deal with it. You don't have to prevent every mistake she might make."
+
+Thalia looked toward the repaired window. The rain ran down the pane in small crooked lines. She wanted to object, and she knew most of her objections would be correct in a narrow practical sense. Annabeth could make mistakes. The world was full of risks. But the larger point remained: her sister was not a fragile object Thalia could keep safe by holding still.
+
+"You sound like Chiron," she said.
+
+Rhys smiled faintly. "Terrible compliment."
+
+"Don't be pleased with yourself."
+
+"I'm not."
+
+She was quiet for a moment. Then she asked, "Would you give her a group?"
+
+"With supervision. One afternoon a week. I'd start with the children she already knows."
+
+That was a reasonable plan, specific enough that she couldn't dismiss it as optimism. She considered the younger campers, Annabeth's careful instruction and her habit of noticing mistakes before anyone else had identified a problem. Her sister might be good at teaching.
+
+"I'll talk to her," Thalia said.
+
+"Good."
+
+She turned toward him sharply. "That doesn't mean you've won."
+
+"I hadn't realized we were competing."
+
+"You always know."
+
+He smiled. She tried not to smile back.
+
+They remained in the shed while the rain passed. Rhys told her about the first time he'd tried to teach a younger camper and been so impatient that the child abandoned the bow entirely. Thalia countered with a story about trying to explain knots to Annabeth when she was little, only for the younger girl to point out that Thalia herself had tied the wrong one. They were both laughing when the rain eased enough to reveal the path again.
+
+At the door Rhys stopped.
+
+"You've got dust on your face," he said.
+
+"From the window."
+
+"Of course."
+
+She reached up to brush it away. He caught her wrist gently, not to stop her but to show her where the dust was. His thumb touched the side of her cheek.
+
+The moment was ordinary. It was also not ordinary at all.
+
+Thalia looked up.
+
+He was watching her with a seriousness that made the little shed seem suddenly very quiet. She could see the choice he was making, the way he held still instead of turning the touch into an invitation she hadn't given. She could have moved closer. She knew he would not have been indifferent.
+
+She was not ready.
+
+She turned her face toward the repaired window, and he released her hand.
+
+"Missed a spot," she said.
+
+"Probably."
+
+Neither sounded convinced.
+
+They left the shed together. The ground was wet beneath their boots, and the clouds were beginning to break above the lake. At the fork he paused.
+
+"Annabeth," he said. "I meant what I said."
+
+"So did I."
+
+"Good."
+
+She looked at him. There was something she wanted to ask, something entirely unrelated to her sister or the range. She wanted to know whether he had nearly kissed her. She wanted to know whether he had wanted her to lean closer, and how long he might be willing to wait before deciding she never would.
+
+Instead she said, "Your window's going to stick again after the next heavy rain."
+
+He laughed.
+
+"Then you'll have to come back."
+
+She met his eyes.
+
+"Maybe," she said.
+
+She walked uphill with the rain easing around her, convinced she'd handled the situation sensibly. She lasted until the next morning before she began finding reasons to pass the practice shed again.
+
+
 At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
 
 She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
