@@ -891,7 +891,37 @@ Annabeth added a sentence: *The conservator will arrange supervised viewing when
 
 Clarisse looked wounded by the lack of faith in her judgment. Percy laughed.
 
-They went toward the cabins with the evening light flattening the shadows on the path. The excitement of finding the passage had changed into a quieter kind of commitment. It would take workers, notes, patience and enough restraint not to make a wonderful discovery into a dangerous one.
+They went toward the cabins with the evening light flattening the shadows on the path.
+
+Near the fountain Silena stopped to check the small camera bag she had carried through the passage. Her fingers found a loose clasp, and she frowned.
+
+"That needs fixing before tomorrow."
+
+"Is it broken?" Percy asked.
+
+"Almost. I keep pulling it shut harder because I don't want the prints to fall out, but I'm making the problem worse."
+
+Clarisse examined the strap without taking the bag from her. "I have a spare clasp in Cabin Three. You can use it."
+
+"Thank you."
+
+"Don't thank me until we find it."
+
+Percy looked at the three of them standing in the fading light. The day's discoveries had been dramatic enough for every camper to invent a new story about camp, but the thing Silena needed now was a piece of hardware small enough to disappear in the pocket of Clarisse's training jacket.
+
+Annabeth asked whether the clasp could wait until morning.
+
+"No," Silena said. "If I leave it loose, I'll be worrying about the pictures while I sleep. I want to know they're safe."
+
+"Then we fix it."
+
+They went to the cabin together. Clarisse found the clasp in a tin of spare buckles and showed Silena how to replace it without cutting the original strap. Percy held the bag while she worked. When it closed properly, Silena opened and shut it twice, testing rather than assuming.
+
+"Better," she said.
+
+Percy thought about the painted wall beneath camp. Some things were worth caring for at once. Others could wait until people knew how to help without causing more damage. He was learning to recognize the difference.
+
+The discovery no longer felt like a rumor he had to outrun. It felt like a place he could return to when the people responsible for it were ready. The excitement of finding the passage had changed into a quieter kind of commitment. It would take workers, notes, patience and enough restraint not to make a wonderful discovery into a dangerous one.
 
 They left the passage to maintenance and carried notes back to Cabin Three, evening cool settling over the path, pine needles soft underfoot and woodsmoke threading the air. Campers still whispered about the discovery. By dinner the story had transformed again: supposedly the mural showed gods building camp with their own hands. Annabeth corrected one version; Chiron promised an announcement once Myra finished assessing paint.
 
