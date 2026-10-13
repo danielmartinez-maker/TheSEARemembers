@@ -962,3 +962,109 @@ The first course waited between them. No one had to know the whole weekend yet. 
 
 ---
 
+The first evening did not end when the dinner plates were removed.
+
+Amphitrite invited the guests onto the family terrace, where the city lights could be seen through the clear water beyond the railing. She did not ask for a ceremonial procession. They walked out in their own order, pausing when something caught their attention.
+
+Clarisse stopped beside a bronze fastening embedded in the stone.
+
+"Does that hold the window frame?" she asked.
+
+"The outer panel," Triton answered. "The inner joint is flexible."
+
+"Who maintains it?"
+
+"The household engineering crew."
+
+"Can I talk to them tomorrow?"
+
+Triton smiled. "You can ask. They have a repair schedule, and I won't interrupt it just to impress you."
+
+"Good."
+
+Annabeth came closer to examine the joint. Clarisse moved so her view wasn't blocked. They studied the metal together, noticing the difference between a structure meant to carry weight in air and one built to resist water pressure. Percy listened until the conversation became a set of measurements he couldn't follow. He enjoyed seeing both girls interested in something that had nothing to do with whether they felt welcome.
+
+Farther along the terrace, Silena approached Amphitrite with a small question about the jam.
+
+"Did the kitchen receive it safely?"
+
+"Yes. They are checking its storage instructions before opening it."
+
+"Then that's all I needed to know. If it's not suitable to eat here, you don't need to serve it."
+
+Amphitrite looked at her. "Would you be disappointed?"
+
+"A little. But not because you did anything wrong. I brought it because I wanted to give you something from camp, not because you had to eat it in front of us."
+
+"Then you gave it successfully."
+
+Silena smiled. Percy had been thinking of the jam as a test of two worlds meeting. His sister had been thinking of it as a jar of preserved fruit with a label. He suspected her approach was the better one.
+
+Poseidon joined them after speaking with a household official. He looked tired enough that Percy nearly asked whether something was wrong. Instead he watched his father turn toward Clarisse and Silena.
+
+"I'd like to spend part of tomorrow with you," Poseidon said. "If you want that."
+
+Clarisse held his gaze. "Doing what?"
+
+"Walking the harbor. Seeing the workshops. Whatever interests you."
+
+Silena asked whether the garden workers could be included. Poseidon said they could, provided the schedule allowed a visit.
+
+"What time?" Clarisse asked.
+
+He hesitated. "I'm not sure yet."
+
+"Then ask us when you know."
+
+Poseidon's expression tightened for an instant. Percy saw the old habit of treating his schedule as something everybody else should arrange themselves around. Then his father nodded.
+
+"Fair."
+
+The conversation had been brief. It didn't solve years of inconsistent attention. It did mean the sisters weren't going to spend all morning waiting for a time that might never arrive.
+
+Thalia and Annabeth stayed near the far end of the terrace, looking at the artificial horizon in the palace dome. An attendant approached carrying a message from Zeus. Thalia read the request, then showed it to Annabeth rather than answering for her.
+
+"He wants us to meet him tomorrow," Thalia said.
+
+"Why?"
+
+"He doesn't say."
+
+Annabeth took the paper. "Then ask him what he wants."
+
+The attendant looked uneasy. "His Majesty might not appreciate a delay."
+
+"We're already visiting another household," Annabeth replied. "He can tell us the purpose before we decide."
+
+Thalia let her finish. Percy knew how much that cost her. She had spent years anticipating their father's temper, trying to protect Annabeth before Annabeth could even ask for help. Here, at least, she was letting her sister decide what the message meant.
+
+They sent the reply through the attendant. The court did not collapse. Nobody summoned guards. The consequence might come later, but for now the sisters returned to the terrace and the plans they had made.
+
+Triton brought out a map of possible tours for the next day. The route marked several places Percy recognized from recent visits, including the training pool and the family garden. Other places were new to him too: a workshop for preparing kelp fibers, a chamber where old channel maps were stored and the outer stables.
+
+"That's too much for one day," Annabeth said.
+
+"It is," Triton replied. "The idea is to choose."
+
+Silena selected the workshop as her first request. Clarisse chose the training pool, but wanted to know whether a session there would displace anyone already scheduled. Thalia wanted to see the observatory with Annabeth if it was safe to visit. Percy chose time at the stables with Tyson.
+
+"And Father?" he asked.
+
+"If he confirms a time, we can adjust one part of the day," Triton said. "Not all of it."
+
+Percy smiled. His brother had remembered the agreement from camp: a meal should not wait for an absent parent, and a full day should not be suspended on an unconfirmed promise.
+
+Amphitrite looked over the revised map. She suggested that everyone leave one period unassigned, in case they found something worth studying longer.
+
+"That is excellent advice," Annabeth said.
+
+"You're saying that because it sounds like something you'd write in a plan," Percy teased.
+
+"Correct."
+
+They continued talking until the terrace lamps brightened for the evening watch. Triton collected the route cards, making sure each visitor kept a copy of the exits and the contact details. Silena asked that the kitchen check be noted in the guest record; Clarisse wanted the training court's supervisor to approve the visit before anyone announced it.
+
+Percy felt the plan changing from a royal itinerary into an ordinary set of shared choices. It was less glamorous than he'd pictured, and much easier to believe.
+
+
+---
