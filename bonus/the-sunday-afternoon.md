@@ -3402,3 +3402,139 @@ She smiled. "I usually am."
 She kissed him one last time before the lamp went out. She knew Sunday was coming. For tonight, she was content not to meet it ahead of time.
 
 ---
+
+Saturday had no real plan, which turned out to be a problem only because Thalia was determined to make it perfect.
+
+She woke beside Rhys with the first grey light on the window and lay still for several minutes, listening to him breathe. The cabin was warm. The stove had survived the night with a low bed of coals, and the floorboards had stopped their usual complaint about the cold. She could hear the faint tapping of rain against the roof. Everything seemed ordinary enough, except for the fact that tomorrow he would be leaving.
+
+She could spend the day here, she thought. She could refuse to let him out of her sight until the moment the supply van arrived. She could make every hour a celebration of being together and then hate the celebration for reminding her that time was passing.
+
+She turned toward him and kissed his cheek.
+
+He opened one eye. "Morning."
+
+"Get up."
+
+He groaned. "You're terrible."
+
+"Yes. We've established that."
+
+"What time?"
+
+"Early enough."
+
+"That's not an answer."
+
+"It's all you're getting."
+
+He pulled the blanket over his head. She laughed and tugged it down again.
+
+"Come on. We're doing something."
+
+"What?"
+
+"I haven't decided."
+
+"Very reassuring."
+
+She kissed him, and he stopped arguing long enough to return it. For a moment she was tempted to abandon the whole idea and stay exactly where she was. The familiar warmth of him was difficult to resist. But she had been thinking about what would happen after tomorrow, and she wanted one day that contained more than waiting.
+
+"Breakfast," she said. "Then we'll see."
+
+They ate at the little table by the stove. Rhys made eggs while she cut bread, and the two of them argued about whether the last apple belonged to the person who had bought it or the person who found it in the cupboard. Thalia won the argument by eating the apple before Rhys finished his case.
+
+"An unjust system," he said.
+
+"An efficient one."
+
+After breakfast they walked to the meadow, taking the flat path that no longer made her heel ache. The sky was still grey, but the rain had paused, and the cold air smelled clean. They walked hand in hand without talking much. She was aware of how comfortable the movement had become, of the way his fingers fit between hers, and of how much she would miss the simple fact of being able to reach for him whenever she wanted.
+
+At the edge of the meadow Rhys stopped.
+
+"Can I ask you something?"
+
+"You're going to anyway."
+
+"Are you trying to spend the whole day with me because you want to, or because you think you should?"
+
+She looked at him. It was an irritatingly precise question.
+
+"Both," she admitted.
+
+He nodded. "I want to spend the day with you too. But I also have a few things to pack, and I'd like to say goodbye to some people before I go."
+
+She looked away. She had known that. She simply hadn't wanted to hear it.
+
+"Of course."
+
+"I don't want you feeling as if I'm counting the minutes until I can leave."
+
+"Then don't look like you're counting."
+
+He smiled slightly. "I'm not."
+
+She considered. "What if we do our own things for a few hours, then meet tonight?"
+
+"That sounds good."
+
+She exhaled, surprised by the relief the decision brought. The day no longer had to be perfect. It could contain ordinary obligations and still belong partly to them.
+
+At the fork he kissed her, briefly, and went toward the north cabin. She watched him go, then turned uphill. She spent the next few hours helping with a repair she had promised to finish, writing a short note to her sister, and reading a book that she actually managed to concentrate on. At no point did she stop wanting to see Rhys. She simply discovered that wanting him did not prevent her from enjoying the rest of her day.
+
+At dusk she returned to the north path.
+
+The cabin was warm when he opened the door. Rhys had packed most of his belongings into a single canvas bag, which stood beside the workbench. The room looked strangely bare, though the furniture hadn't moved. She glanced at the empty space where his guitar usually rested.
+
+"Where's the music?"
+
+"In the bag."
+
+"Good."
+
+"You came back."
+
+"I said I would."
+
+He smiled and stepped aside. She went in, hung her coat on the hook, and crossed the room to him. For a moment neither spoke. Then she put her hands at his waist and kissed him.
+
+The kiss began slowly and grew warmer as he drew her close. She could feel the relief in the way he held her, as though he'd been carrying the knowledge of tomorrow all afternoon and was glad to put it down for a while. She had been doing the same.
+
+When they separated, Rhys rested his forehead against hers.
+
+"Are you all right?" he asked.
+
+"No," she said. Then, after a moment, "But I'm glad I'm here."
+
+He kissed her again. She moved closer, letting the familiar warmth of his hands and the quiet of the cabin settle around them.
+
+They spent the evening without trying to make it extraordinary. There was bread left from Friday, a little cheese, and cider in the last jar. He played one song on the guitar before packing it away again. She laughed when he missed the troublesome transition he'd worked on for weeks, then kissed him before he could defend himself.
+
+Later, sitting together beneath the blanket, she took the three slips of paper from her coat pocket and showed him that she had kept them.
+
+"You stole the game," he said.
+
+"I told you. Evidence."
+
+"Of what?"
+
+"That we managed to say something true without either of us being unbearable."
+
+He laughed. "A historic achievement."
+
+She rested her head against his shoulder. The room was quiet, and the desire to be close to him had softened into a steady warmth. She no longer needed to prove that every touch meant something dramatic. She wanted him here because she wanted him here. That was enough.
+
+Before they slept, she said, "Tomorrow I want five minutes alone with you. Before the van comes."
+
+Rhys nodded. "Five minutes."
+
+"No speeches."
+
+"I'll try."
+
+"And no promises you can't keep."
+
+"Agreed."
+
+She kissed him gently, then settled beside him. The future was still unfinished, but they had made a small plan for how to meet it. She thought she could manage five minutes.
+
+---
