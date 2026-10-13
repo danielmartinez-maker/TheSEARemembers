@@ -227,6 +227,100 @@ Annabeth leaned her head on his shoulder, just for a second. She only did that w
 
 ---
 
+Thalia spent the last hour before the call in the Zeus cabin, trying not to make Annabeth nervous.
+
+That was difficult because Thalia herself was nervous enough to polish a spear she'd already cleaned twice. Annabeth had spread three sheets of paper on the desk and was deciding which drawings to show Jason. One depicted the cabin. Another showed a small bridge she'd designed for the lake path. The third was a family portrait based on Thalia's descriptions, with spaces where she hadn't known enough to draw the faces.
+
+"Do you think he'll recognize us?" Annabeth asked.
+
+"I don't know."
+
+"Would it help if you told him a story?"
+
+"Maybe."
+
+Annabeth looked up. She had grown accustomed to Thalia offering definite answers to questions about their childhood. The uncertainty made her sister seem younger for a moment, which was both painful and reassuring.
+
+"I remember when he was small," Thalia said. "But I don't know what Lupa told him afterward. I don't know whether he still uses the names he had then."
+
+"Then maybe ask what he wants us to call him."
+
+Thalia gave her a brief smile. "That's not a bad idea."
+
+They looked at the family drawing together. Annabeth had given Jason a Roman-style cloak because she knew he'd been raised at Camp Jupiter. She hadn't drawn him as a baby or pretended to remember a boy she'd never met in this history.
+
+"Can I show him this?" she asked.
+
+"It's yours. Of course."
+
+"I mean, will it upset him that I don't know what he looked like when he was little?"
+
+Thalia looked at the paper. She had spent so many years wanting Annabeth to remember their family that she sometimes forgot her sister was trying to learn a family she didn't remember. A drawing of three children together could be a promise of affection, not a claim about a photograph that never existed.
+
+"You can tell him how you made it," Thalia said. "That's more honest than pretending it came out of a memory."
+
+Annabeth nodded and rolled the page carefully.
+
+A knock came at the cabin door. Chiron stood outside with the communications authorization. He had received confirmation from the Roman intermediary that a young trainee named Jason could appear for a supervised call. The connection would last only as long as the two camps could maintain the rainbow, and neither side was authorized to share restricted military information.
+
+Thalia was grateful for the permission and infuriated by how formal it sounded. Jason was her brother. She shouldn't need a diplomatic procedure to ask whether he'd eaten breakfast.
+
+"What if we don't have time to ask everything?" she asked.
+
+"Then you prioritize what matters to you and tell him you would like another chance to speak."
+
+"Can we record it?"
+
+"Not without permission from the Roman camp. The connection is private, and Jason should not have to worry that every sentence will be preserved for people he hasn't met."
+
+Annabeth looked at her notebook. She had been planning to write down everything Jason said so she wouldn't lose the details. She hadn't thought of it as recording a child whose permission mattered.
+
+"Could I take notes afterward?" she asked.
+
+"Yes. You can each remember the call in your own way. You simply shouldn't turn the conversation into a formal interview."
+
+Thalia nodded. She was glad he'd made the distinction before they entered the room.
+
+Percy arrived a few minutes later. He had come from Cabin Three with a folded handkerchief, a clean shirt and an expression that suggested Silena had insisted he stop running up the hill in muddy shoes.
+
+"Am I invited?" he asked.
+
+"Yes," Thalia said. "Jason knows you as the friend Annabeth keeps talking about."
+
+Percy smiled. "That's reassuring."
+
+"You can help if he gets nervous."
+
+"Or if you do?"
+
+Thalia looked at him. She might once have snapped that she didn't get nervous. Instead she said, "Both."
+
+The admission made Percy stop joking. He had watched her defend Annabeth in front of Zeus and risk injury during the eclipse. He understood that being able to fight didn't make a person immune to a difficult family conversation.
+
+"What do you need me to do?" he asked.
+
+"Let us talk. If we get stuck, ask him something normal. About school or what he eats or whether he likes the weather there. Just don't treat him like a clue in a prophecy."
+
+Percy nodded. He hadn't planned to, but he appreciated being told what help actually looked like.
+
+Thalia took the spear from its rack and put it away. She wasn't going to meet her younger brother as though preparing for a patrol. Annabeth folded the drawings into a tube and left the most complicated one behind.
+
+At the Big House they found the communications room ready. The lamp had been adjusted to catch a steady band of light, and Chiron stood beside the basin with his hand on the authorization. He told them there would be an adult at the Roman end and that they could stop the call if Jason became overwhelmed.
+
+"Will he know it's all right to stop?" Annabeth asked.
+
+"I've asked the supervising aide to tell him. He deserves the same choice you do."
+
+Thalia stood in front of the basin. It struck her that she had spent years waiting for somebody to give her access to her brother, and now the person she most wanted to see might be equally frightened by the prospect. She didn't want to become another adult who made choices for him because she'd been waiting longer.
+
+"When he appears," she said, "let him speak first if he wants to."
+
+Percy and Annabeth agreed. Thalia knew she'd probably forget the plan the moment she saw his face. She was going to try anyway.
+
+
+
+---
+
 At Camp Jupiter, Jason was counting the minutes until the messenger arrived.
 
 He had been told there would be a supervised Iris-message from Camp Half-Blood, and that his sisters might be on the other end. The invitation was written in ordinary language on a folded sheet of paper, which made it more difficult to believe than if it had come with a seal from the praetors.
