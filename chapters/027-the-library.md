@@ -420,6 +420,114 @@ They bumped fists, dusty gloves and all.
 
 ---
 
+Percy brought the Atlantis journals to Chiron before lunch.
+
+He had been tempted to hide Maya's notebook under his arm and read it back at the Poseidon cabin, where he could sit by the window and follow the routes with his finger until he recognized a place he'd seen from the palace. But Ella had told him the journals belonged to the collection, and Chiron had approved their study only within the library.
+
+He found the centaur upstairs with a stack of maintenance forms.
+
+"Did you find what you were looking for?" Chiron asked.
+
+"Not exactly. I found people looking for the same thing."
+
+He spread the notes across the reading desk. Samuel Whitaker's journal had a rough drawing of a city beneath the water, Maya's notebook had another version and the old map showed a blank circle where a port might be. The drawings were similar enough to be interesting. They did not agree about distance or direction.
+
+Chiron looked at each in turn.
+
+"What do you think they establish?"
+
+"That people knew about Atlantis."
+
+"Perhaps. What evidence shows these writers actually visited it?"
+
+Percy opened Samuel's journal to the page about the sailor who had told him the story. The entry said the sailor was an old fisherman who had wept while describing bells under the sea. Samuel had recorded the account carefully. He hadn't claimed to see the towers himself.
+
+"That's secondhand," Percy admitted.
+
+"And Maya?"
+
+"She collected stories from Nereids and sailors. She said she was certain Atlantis was real."
+
+"But she didn't describe seeing it?"
+
+"No."
+
+Chiron nodded. "Then both are records of people who believed in the city. They may preserve genuine information. They are not proof that any particular route was safe or even accurate."
+
+Percy looked down at the map. He knew Atlantis was real because he'd visited it, and the royal household treated him as one of its own. The question was whether an old chart could tell him how to reach it from camp without a palace escort.
+
+"I want to learn the route," he said.
+
+"I understand."
+
+"Not to leave without permission. I just want to know how people found it."
+
+"Then you may compare these accounts with a modern navigational chart, but you should not infer coordinates from a story alone. And any travel would require authorization from your family and camp."
+
+Percy sighed. Chiron had a gift for making even the most interesting possibility sound like a school assignment.
+
+"Can I draw a comparison map?"
+
+"Yes. Label every line according to its source. If a position is uncertain, mark it uncertain."
+
+"Annabeth's going to love that."
+
+"She may have useful questions for you."
+
+Percy took the journals back to the library and asked Ella for fresh tracing paper. She gave him three sheets and insisted that he place them over a protective surface rather than over the original map.
+
+He began with the coastline he recognized. Then he drew the disputed current marks in pencil, one pattern from Samuel and another from Maya. Several lines crossed, but they crossed far from the blank circle marked *here? music?*. He'd imagined the two accounts would converge on a secret passage. Instead they contradicted each other.
+
+Annabeth found him staring at the drawing.
+
+"What's the problem?"
+
+"The routes don't agree."
+
+"That could mean one is wrong."
+
+"Or both."
+
+"Or they were describing different things. Different seasons, different weather, different travelers."
+
+He looked at her. She had given him another way to think about the problem without pretending it had been solved.
+
+"How do we tell?"
+
+"We find the original sources. If we can't, we mark the claim as unverified."
+
+Percy frowned. "That's a lot of work for a map I might never use."
+
+Annabeth sat beside him. "You wanted to know how the route worked. Finding out what you don't know is part of that."
+
+He stared at the pencil lines. In his old life he had often trusted an instinct about a place before he could explain it. That ability had saved him more than once. It had also made it easy to assume every unfamiliar current contained a path he could follow if he listened hard enough.
+
+He looked at Maya's handwritten note: *Water remembers even when we forget.*
+
+"Do you think she was right?" he asked.
+
+"About the water?"
+
+"About remembering."
+
+Annabeth considered. "She was making a claim about how it felt to her. We can't test it from that sentence."
+
+He smiled. "You really know how to ruin a nice quotation."
+
+"I can admire it without treating it as a map."
+
+He laughed. It was exactly the distinction he needed. The line could be beautiful and still leave unanswered questions.
+
+They worked on the comparison map for another hour. Percy asked Grover whether the descriptions of sound and current matched anything he knew from coastal satyrs. Grover said he'd heard stories but couldn't confirm the locations. Ella found a reference to an old sailor's account and marked it as potentially relevant without announcing they'd discovered a hidden portal.
+
+At the end of the afternoon, the page was covered in notes: *secondhand, unverified, possible seasonal variation, location uncertain*. Percy felt oddly pleased. He had arrived hoping to find a route he could follow tomorrow. He was leaving with a better idea of what the records could and couldn't tell him.
+
+He asked Chiron whether he might return to the journals the following week. Chiron agreed to supervised study time and said Percy could make a copy of the non-restricted map annotations once Ella had finished the catalog.
+
+Percy put the original notebook back in its protective sleeve. He could keep asking questions without taking the archive home. That was not a defeat. It meant there would still be something to learn the next time he came back.
+
+---
+
 Thalia hadn't planned to spend her Saturday in a basement.
 
 She'd planned to run drills, fix her shield strap, maybe nap on the porch roof. Big-sister stuff. Soldier stuff. Not... feelings stuff.
