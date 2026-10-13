@@ -252,6 +252,140 @@ From the fence, Annabeth raised her pencil in salute. Her notebook page fluttere
 
 ---
 
+The bout was over, but Percy didn't get out of the arena as quickly as he'd hoped. A senior camper from the Ares cabin approached Clarisse with a complaint about the afternoon drills. He had the look of somebody who'd been rehearsing his argument since breakfast.
+
+"The rotation sheet changed again," he said. "Your cabin got the first practice slot yesterday. Now Jackson gets the first one today."
+
+Clarisse's expression cooled. "Percy wasn't on the rotation. That was a birthday bout."
+
+"That's convenient."
+
+Percy stopped unfastening his wrist guard. "It was a private practice."
+
+"In the public arena."
+
+"You could have watched."
+
+"That's not the point." The camper looked at Clarisse, not Percy. "People think you favor your brother."
+
+Percy opened his mouth. Clarisse lifted one hand without looking at him. He closed it.
+
+She led the camper to the notice board where she had posted the day's training assignments. There were blocks for beginners, intermediate groups and advanced sparring. Her own demonstration time was separate, penciled below the public schedule.
+
+"I've been running a rotation for weeks," she said. "You think this is unfair? Show me which group lost its hour."
+
+The camper read the sheet. He pointed to a line where the Ares group had been moved to the second slot.
+
+"That's the problem."
+
+"You asked to use the shaded side of the arena while the sun was high. The second slot gives you that."
+
+"We could have kept the first slot and moved the markers."
+
+"The beginner session uses the markers. We can't have two groups moving equipment across each other."
+
+He stood in front of the list for a moment. Percy could see the grievance turning from accusation into something less clear. The boy wanted to be heard, and that was reasonable. He also wanted a simple culprit, preferably Percy with his royal family connections, and that was less reasonable.
+
+"Can we post changes the night before?" he asked.
+
+Clarisse considered. "Yes. That's fair. I moved this one at breakfast."
+
+"Then people wouldn't think you were changing things for your brother."
+
+"People can think whatever they want," she said. "They can also read."
+
+Percy nearly laughed. The boy did not.
+
+"Are you going to let him train when the other groups are waiting?"
+
+"Not during assigned hours," Clarisse replied. "If you see that happen, tell me. Or tell Chiron if you think I'm the problem."
+
+It was a genuine invitation to challenge her decision. Percy saw how uncomfortable the concession made her, and how deliberately she held her ground without abandoning it. The Ares camper nodded and went off, muttering something about wanting advance notice.
+
+"Happy birthday to me," Percy said.
+
+Clarisse looked at him. "You were about to jump in."
+
+"He was being unfair."
+
+"Maybe. I still didn't need you arguing for me."
+
+Percy unfastened the last strap. "I wasn't going to say you were wrong."
+
+"That's not the test. You can be right and still make it harder for me to do my job."
+
+He hung his shield on the rack. There was sand caught in the inner rim, and he rubbed it away with his thumb.
+
+"You always want to handle everything yourself," he said.
+
+"Not everything. I gave the equipment inventory to a Hephaestus kid because he actually likes counting screws."
+
+"You know what I mean."
+
+Clarisse sat on the low wall and took off her training boots. A blister had raised a small red mark on one heel. She looked at it with the same irritation she'd shown the roster.
+
+"When you say something in my defense," she said, "people hear a son of Poseidon telling them what the other daughter of Poseidon deserves. I don't want that to be the reason they listen to me."
+
+"They should listen because you're good."
+
+"Exactly."
+
+He leaned against the wall beside her. "You are good."
+
+"Then let me be."
+
+Percy watched a pair of younger campers carry the training markers to the shaded side, exactly as the changed roster directed. The Ares boy he'd spoken to was helping them. Nobody was pretending the conflict had never happened. They were getting the arena ready for the next group.
+
+"Can I ask you something?" Percy said.
+
+"Depends how stupid it is."
+
+"Why do you keep doing this? You could spend all morning sparring. You like that better than paperwork."
+
+"I like people knowing what they're doing before they get hurt," she said. "I don't like fixing the same mistake over and over because no one taught the first person properly."
+
+"You sound like Chiron."
+
+"I will throw you into the lake."
+
+He grinned. "There's the Clarisse I know."
+
+She tied her boots together by the laces and slung them over a shoulder. "I want to be the person they ask when a drill isn't working. Not because I'm loud, not because I'm the oldest in Cabin Three, but because I can figure out what's wrong."
+
+Percy thought about the new camper he'd taught before the bout, and about how easy it had been to show off rather than give him something useful. Clarisse's ambition sounded harder than winning a fight. It required other people to trust her judgment when she wasn't in the arena at all.
+
+"Then I won't answer for you next time," he said.
+
+"Good."
+
+"Unless you're actually wrong."
+
+"Then tell me privately first."
+
+"That's a lot of conditions."
+
+"Learn them. You're fourteen now."
+
+She handed him his forgotten water bottle, which had rolled beneath the bench. He accepted it and drank until the cold water stopped tasting of dust.
+
+As they left the arena, Clarisse caught sight of the beginner group settling into their first drill. One of the instructors had set the practice shields too close to the fence. She started toward them and then stopped herself.
+
+"Can you tell them to move the equipment back three paces?" she asked Percy.
+
+"Thought you didn't need me."
+
+"I asked you. That's different."
+
+He obeyed. The instructor checked the clearance and shifted the shields. By the time Percy returned, Clarisse was waiting by the gate.
+
+"You handled that without making a speech," she said.
+
+"I've been learning from an excellent teacher."
+
+"Watch it."
+
+Percy laughed and followed her toward the cabins. His shoulders were tired, his shirt was torn at one seam, and he was due to be measured by Silena before lunch. Growing older had not made him more independent in the simple way he'd once imagined. It had given him more chances to decide when helping someone meant following their lead.
+
 The Aphrodite cabin smelled of cedar and oranges at midday. Silena had borrowed a sewing station from a friend there; her own bunk and worktable were still in Cabin Three.
 
 Light filtered through rose curtains and fell in pink bars across the floorboards. Mirrors lined one wall, edged with shells and dried lavender. Someone's radio played low, a lyre tune tangled with static. A bowl of polished stones sat on the dresser, each one catching light.
