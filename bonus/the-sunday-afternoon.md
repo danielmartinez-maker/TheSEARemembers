@@ -4097,3 +4097,139 @@ She set the letter on the table beside her photograph. Then she took the borrowe
 She was not trying to live in a memory. She was simply allowing herself to miss someone she intended to see again.
 
 ---
+
+## December 8: A Song That Stayed Behind
+
+There was a new score folded inside the envelope.
+
+Thalia discovered it only after she'd already read Rhys's letter twice. The pages had stuck together at the edge, and she had mistaken the second sheet for a blank backing until she moved to the window and saw faint pencil lines showing through the paper.
+
+The letter itself was brief. His mother had found a contractor who could handle the final repairs, and the question of his return had changed from whether he could leave to when the necessary work would be finished. He hoped to know by the next post. He had not promised a date.
+
+*I wish I could give you one,* he'd written. *You'd probably look at the timetable and point out six better ways to arrange it.*
+
+She would have. That wasn't the point.
+
+At the bottom of the note he'd written, *There's something else in here. I think you'll recognize it.*
+
+She unfolded the sheet. Five bars, then eight, then a full page of small, carefully spaced music. He had finally completed the tune they'd been arguing over. The part she remembered, the one he'd played badly in the amphitheater and again in the cabin, had become the opening of something longer. There were rests where she expected more notes. The troublesome transition from Friday had been rewritten, but not erased; she could see a version of her suggestion preserved in the lower line.
+
+It annoyed her that he could make a piece of paper feel like his presence.
+
+She brought the score to the hall after supper. The rooms were quieter now, and the instrument cupboard had been left unlocked for anyone practicing for the winter concert. She found an old piano against the wall and sat on the bench.
+
+Thalia had learned a little music in the years before camp. She knew where the notes belonged, and she could find a melody if she didn't rush it. She wasn't particularly good at sight-reading, but she had the first phrase in her memory. She placed her fingers on the keys and began.
+
+The instrument was badly tuned. One of the middle notes sounded flat enough to make her grimace. She stopped, made a note in the margin about the offending key and began again.
+
+The tune rose.
+
+She recognized the pause she'd insisted on. Without the second voice, the space felt larger, almost precarious, but the melody returned exactly where it should. She played the rest slowly, watching how the chords moved beneath the principal line. There were places where Rhys had written choices into the arrangement, small changes he could make depending on who performed it and what instruments were available.
+
+She understood why he'd sent it.
+
+He hadn't written a declaration about missing her. He'd sent her a thing he'd made, one they had discussed together, and invited her to hear it while he was gone.
+
+She played it again.
+
+A door opened behind her.
+
+"That's new," said one of the older Apollo instructors.
+
+Thalia turned. The woman stood near the instrument cupboard with a violin case in one hand.
+
+"Yes."
+
+"Is it yours?"
+
+"No."
+
+"Rhys?"
+
+Thalia looked at her. She was tempted to ask how everybody seemed to know. Then she remembered that they'd told the woman's colleagues they were together at dinner and had not made any attempt to conceal the fact since.
+
+"Yes," she said.
+
+"Would you mind if I listened?"
+
+"I'd rather you played the second line."
+
+The woman smiled. She took out her violin, tuned it by ear and came over to examine the score. Thalia showed her where the harmony entered, then started from the beginning.
+
+The first run was a disaster. The piano dragged, the violin rushed, and they both lost the beat at the place Rhys had written three notes against two. Thalia stopped, swore and started again.
+
+"You're counting like a soldier," the woman said.
+
+"That's how the measure is written."
+
+"That's how you're interpreting it. Let the line breathe."
+
+Thalia glared at the music. It was exactly the advice she had given Rhys weeks ago when he'd been trying to force the transition through without a pause. Now somebody was giving it back to her. She hated how often this seemed to happen lately.
+
+She took a breath. They tried again.
+
+This time the melody found its place. The violin entered softly, carrying the harmony beneath the piano, and when the pause came both players let it remain a pause. The notes afterward sounded brighter for the space they'd been given. Thalia reached the end and held the last chord until it faded.
+
+For a moment neither spoke.
+
+Then the woman lowered her violin.
+
+"That's lovely."
+
+Thalia looked at the music. She felt unexpectedly proud of him.
+
+"He worked hard on it," she said.
+
+"Clearly."
+
+The woman asked whether they might perform it at the winter concert. Thalia nearly said yes. The music was good; there was no reason to keep it hidden. But she looked at the score again and realized that offering it to an audience was not her decision. Rhys had sent it to her, not to the camp.
+
+"I'll ask him," she said.
+
+"Of course."
+
+Thalia folded the pages carefully and put them back in the envelope. She stayed long enough to help close the instrument cupboard, then carried the music home beneath her coat so the snow wouldn't damage it.
+
+Annabeth was asleep by the time she reached Cabin One. Thalia turned the lamp low and sat at her desk, the score spread before her. She wanted to tell Rhys that it worked, that the violin had found the harmony and that she could finally hear the movement as he'd intended. She wanted to tease him about a chord that was unnecessarily difficult. She wanted to kiss him, too, and the thought arrived so naturally that she didn't try to pretend it was inconvenient.
+
+She found a fresh page.
+
+*Calder,*
+
+*The song is good. I'm saying this only once. One of the piano keys here is out of tune, so any errors in my performance can be blamed on institutional negligence.*
+
+*I played it with a violinist. It worked. The pause works too. You were right to keep it.*
+
+She stopped. What she really wanted to tell him was that she had been happy while playing. It wasn't the feverish anticipation of finding him behind the door. It was a private happiness made from recognizing his choices in the music and imagining what he would say if he'd heard her stumble through the first attempt.
+
+She added another line.
+
+*I'm going to play it for you when you come back. You can criticize me afterward. I may even allow you to be correct about something.*
+
+Then she took out the photograph and set it against the lamp. His laughing face looked back at her. The image had begun to crease at one corner from being moved so often, and she flattened it carefully with her thumb.
+
+She wrote again.
+
+*I am getting better at missing you without getting angry about it. I still don't like it. I doubt you expected me to.*
+
+She put the letter aside. It wasn't finished. There was no need to send it before she had something else to say. He had told her to write when she wanted, not to perform affection on a schedule.
+
+Outside, the first proper wind of the night struck the window. Thalia drew the curtain, put the photograph in its usual place and went to bed with the sound of his melody still in her head.
+
+***
+
+Two days later she returned to the hall before breakfast, when nobody would be there to hear her practice.
+
+This time she didn't need the full score for the opening. Her fingers remembered the intervals. She could hold the pause without counting it as a failure, and the later phrases began to feel like part of the same piece rather than a set of problems she had to solve in order.
+
+She missed him most sharply at the end.
+
+There should have been a voice from the side of the room telling her that she'd hurried the last measure. There should have been an argument, a laugh and the sound of his boots crossing the floor. Instead the hall was silent.
+
+She sat a moment with her fingers resting on the keys.
+
+Then she played the last measure again, more slowly, and this time she got it right without anyone prompting her. She smiled, surprised by the feeling. Loving the person who had made the music had not prevented her from making something of it for herself.
+
+She was pleased. She would tell him.
+
+---
