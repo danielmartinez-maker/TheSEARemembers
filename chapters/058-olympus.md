@@ -658,6 +658,86 @@ Zeus grunted, bolt across his knees. "WE ARE CLEAR. FOR NOW. KEEP YOUR TIDES OUT
 
 ---
 
+The conversation with Poseidon might have ended there if Silena hadn't sent another message.
+
+A small conch appeared in the messenger's hands just as Percy was turning toward the exit. The shell was the pale blue of the sea at dawn, sealed with a ribbon that looked suspiciously like one of Silena's.
+
+"For Percy Jackson," the messenger said.
+
+His father frowned. "At the council?"
+
+"The dispatch was marked urgent for the family."
+
+Percy took the conch and held it near his ear. Silena's voice came through, partly obscured by static.
+
+*If you are hearing this, I assume you're alive and have found a way to avoid getting yourself killed. First, eat something. Second, the young campers are using the repaired shields, so Clarisse and I have not spent the entire week staring at the road. Third, don't let anybody tell you the fighting is finished until we get a proper notice at camp.*
+
+There was a rustle and Clarisse's voice interrupted.
+
+*And tell Dad he still owes us an explanation about the sea routes. We're not going to forget that because somebody brought a fancy weapon home. Also, if you've lost the shoelace I tied to your bag, I'm charging you for another.*
+
+Silena returned, sounding as if she were trying not to laugh.
+
+*Love you. Come home. The rest can wait until you're here to answer for it.*
+
+The message ended.
+
+Percy listened to the static for a moment before lowering the shell. He had expected his sisters to cry or worry or praise him for surviving. Instead they had reported on their work and demanded that their father answer a question he'd been avoiding. It made Percy want to see them immediately.
+
+Poseidon was watching him.
+
+"They sent that without consulting me," the god said.
+
+"Good."
+
+Poseidon raised an eyebrow. "Good?"
+
+"They've been dealing with the camp every day. They don't need permission to tell us what they did." Percy looked directly at his father. "You said you'll explain the sea routes to them. Please actually do it."
+
+His father looked toward Amphitrite. She did not rescue him from the conversation. Her expression was calm, but Percy could see amusement in the way she held one corner of her mouth.
+
+"I'll send a complete account through the official channels," Poseidon said.
+
+"And a letter they can read without having to ask Chiron what the words mean."
+
+Poseidon looked startled. Then he nodded.
+
+"That too."
+
+Amphitrite stepped closer. She looked tired for the first time Percy had seen that day. He realized she had probably been watching the same dreadful news from Olympus that the children had lived through on the road. She couldn't know how strange his memories felt, but she could worry about a boy she had raised.
+
+"You don't have to tell me everything today," she said. "Not about the fights. Not about the people you met. I want you rested first."
+
+Percy nodded. He could tell her that he'd fought monsters, that the Underworld had answered a welfare inquiry about Sally, and that he'd been frightened at the Lotus. Those things were all true without mentioning the older life he and Annabeth remembered.
+
+"I have something about Sally," he said, touching the stamped page in his pocket. "A reply from Hades's office. It says she isn't under punishment."
+
+Amphitrite's eyes softened.
+
+"I'm glad you asked," she said.
+
+Percy had been afraid that talking about Sally would hurt her, even when he said nothing about the timeline. Amphitrite looked at the paper without asking to read it.
+
+"You can keep that for yourself," she told him. "It's part of your mother that belongs to you."
+
+"Thank you."
+
+Poseidon shifted beside them. His face became more serious.
+
+"I should have told you more about her," he said. "Not because you asked for something unusual. Because children deserve honest answers when their parents can give them."
+
+Percy looked up. There were questions he couldn't safely ask, and others he had been afraid to ask because he thought a truthful answer would make the people around him disappointed. It meant something to hear Poseidon admit he'd left gaps.
+
+"Tell me another day," he said. "When we're not standing in the middle of Olympus."
+
+His father smiled faintly. "That can be arranged."
+
+Amphitrite rested a hand on Percy's shoulder, then let it fall.
+
+"Go get your friends," she said. "They shouldn't have to wait while gods finish deciding whether to be sensible."
+
+Percy laughed. It was the first time that morning he hadn't felt as though the court were listening to the sound.
+
 Zeus summoned his daughters after the court began to empty.
 
 It was not an embrace. He didn't come down from the throne, and he didn't shrink into a gentle mortal shape. He remained above them with the bolt resting across his knees, a king conducting another matter of state.
