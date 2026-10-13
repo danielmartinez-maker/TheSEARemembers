@@ -8140,3 +8140,219 @@ Then she pointed toward the bench where the wrapped hand ought to be resting.
 He did, still smiling.
 
 ---
+
+## February 22: When the Ice Broke
+
+The thaw began beneath the footbridge.
+
+Thalia heard the crack from halfway down the path, a sudden, sharp sound followed by the rush of water finding a channel through the ice. She stopped beside the railing and looked down. A dark strip had opened across the stream, widening as the current worked beneath the frozen edges.
+
+Spring was still several weeks away. She didn't trust the weather to remember that.
+
+Rhys came up behind her carrying a basket of folded cloths from the hall.
+
+"What are you watching?"
+
+"The ice."
+
+"Compelling."
+
+"More than your laundry."
+
+He set the basket beside the railing and leaned over to look. A broken piece of ice turned slowly in the current, hit a stone and vanished beneath the bridge.
+
+"Looks as if it's giving up," he said.
+
+"It'll freeze again tonight."
+
+"Probably."
+
+She glanced at him. His injured hand was unwrapped now. He had spent the last few days complaining less and working more, which was an improvement, though she had caught him reaching for the guitar twice when he was supposed to be resting.
+
+"How's the hand?"
+
+"Better."
+
+"That wasn't an invitation to practice for six hours."
+
+"I hadn't planned to."
+
+"You were thinking about it."
+
+He smiled. "I was thinking about you."
+
+She turned toward him. "That line might work on somebody else."
+
+"It's the truth."
+
+She could feel herself smiling. It annoyed her how efficiently he'd learned to do that. She moved close enough to adjust his collar, which was standing up on one side.
+
+"Better," she said.
+
+"Thank you."
+
+"Don't make a fuss."
+
+He caught her wrist gently before she lowered her hand and kissed the inside of it. The touch was small, almost casual, and entirely effective. She stared at him for a moment.
+
+"You're very pleased with yourself," she said.
+
+"Only because I saw your face."
+
+"Keep walking."
+
+He picked up the basket, and they continued toward the north cabin. The clouds had begun gathering over the ridge, and the wind carried damp air instead of the dry cold of the last few weeks. Every path smelled of thawing earth. Thalia found herself looking forward to the warmer weather, though it would mean more work outdoors and the return of campers who preferred training beneath open sky.
+
+At the cabin Rhys set the basket down and went to light the stove. She took off her coat. There was a folded letter on the table beside a new score, and the old wooden box she'd made him sat open with his pencils arranged in an orderly row. She noticed that he'd begun using it, and felt a quiet satisfaction he had no chance of seeing.
+
+He returned with two cups of hot water and a small tin of tea.
+
+"Not cider?" she asked.
+
+"I thought you'd eventually tire of it."
+
+"An unreasonable assumption."
+
+"I'll make a note."
+
+She sat on the cot, waiting until he'd poured the water before speaking again.
+
+"Are you nervous?"
+
+"About?"
+
+"The six weeks."
+
+He looked at her over the rim of his cup. "A little."
+
+"Still?"
+
+"It's getting closer."
+
+She nodded. She had the same awareness of approaching time, a private count she hadn't admitted to anyone. But she didn't want to spend tonight rehearsing his absence. She wanted a room with him in it, a warm drink and the pleasure of being alone together after a morning spent answering questions from everybody else.
+
+She took the cup from his hand and set it beside hers.
+
+"What are you doing?" he asked.
+
+"Saving you from terrible tea."
+
+"I hadn't even tried it."
+
+"Then I've intervened in time."
+
+She stood and drew him close.
+
+He kissed her immediately, smiling into it, and she felt a familiar rush of happiness at how readily he met her. The kiss wasn't hurried. She had been thinking about him all afternoon, about the way he'd leaned over the footbridge and how his injured hand had rested against the railing. Now she could touch him without pretending there was a practical reason.
+
+He slipped his arm around her waist and kissed her again. She caught his collar and pulled him nearer, enjoying the immediate warmth of him and the small sound of amusement he made when they nearly collided with the table.
+
+"You're in the way," she murmured.
+
+"It's my cabin."
+
+"That isn't a defense."
+
+He laughed, then kissed her cheek and lingered there. She closed her eyes for a moment, letting the anticipation settle instead of forcing it toward an outcome. Their relationship had acquired so many ordinary routines that she sometimes forgot how quickly a familiar touch could make the rest of the world seem unimportant.
+
+She liked that she could be both surprised and entirely certain.
+
+At last he moved away to lower the stove's draft. She followed him with her eyes, aware that she could reach for him again and that he would probably come. The fact that she could choose was more satisfying than demanding it.
+
+He turned back toward her.
+
+"What's that look?"
+
+"Nothing."
+
+"That's a remarkably cheerful nothing."
+
+She smiled. "Come here."
+
+He crossed the room at once.
+
+She caught his face between her hands and kissed him until he was smiling too. The fading light made the cabin warmer in appearance than it really was; the lamp was still unlit, and a pale strip of afternoon lay across the floor. She liked seeing him in that light, without the lamplight that had made their first few nights seem almost theatrical.
+
+He moved with her toward the cot. She sat, drew him down beside her and kept one hand against his chest. He was laughing softly when he settled, because she'd managed to pull the blanket from beneath them in the process and half the contents of his pocket had fallen onto the floor.
+
+"You've destroyed my organization," he said.
+
+"You had organization?"
+
+"Briefly."
+
+She leaned over to retrieve a pencil, then stopped when he caught her hand and drew her gently back toward him. Her smile returned before the kiss began.
+
+For a while they stayed close, their warmth and laughter gradually becoming quieter. She was aware of the soft fabric of his shirt beneath her fingers, his cheek against hers, the way his breathing changed when she kissed him and then waited for the next movement. There was no need to turn each touch into a discussion. They knew one another well enough to recognize eagerness, hesitation and amusement without translating every feeling into words.
+
+The room grew darker.
+
+At last she reached behind him and turned the lamp down before he could even think of lighting it. He laughed and drew her close again. The remaining daylight faded slowly along the window.
+
+The afternoon became theirs.
+
+***
+
+By evening the thaw had turned to rain.
+
+Thalia lay beneath the quilt listening to it strike the window while Rhys searched for the pencil she'd knocked off the cot. He had found three others, an old quiver strap and a button that belonged to nobody he could identify. The missing pencil had apparently vanished beneath the floorboards.
+
+"Your cabin is eating stationery," she said.
+
+"It's very hungry."
+
+"Feed it the terrible music you wrote last week."
+
+"Unkind."
+
+"Accurate."
+
+He emerged from beneath the cot with dust in his hair and no pencil. She laughed. He looked at her, then at the dust on his sleeve.
+
+"You're enjoying this."
+
+"Enormously."
+
+He sat beside her. She reached to brush the dust from his hair, and he caught her hand long enough to kiss her fingers. There was something intimate in the ordinary gesture that she had not expected from a man she had already spent an entire afternoon kissing.
+
+"Do you have to go?" he asked.
+
+"Eventually."
+
+"I was hoping you'd stay."
+
+She considered. The weather had worsened, and the path would be slippery. She could return to Cabin One safely if she wanted. She also had no particular reason to leave before morning. Annabeth knew where she was. The next day's lesson wasn't early.
+
+"I'll stay," she said.
+
+His smile was immediate, almost boyish. She liked seeing it, and she liked that he'd asked without making her decision for her.
+
+They ate bread and cheese at the table. Rhys told her about a musician he'd met at the audition, someone who had spent ten years moving between towns and still talked about every concert as if it were the first. Thalia asked what that life looked like outside the performances. Rhys admitted he wasn't sure. There were travel days, rehearsals, unfamiliar rooms, meals eaten at odd hours and the complicated business of being away from the people one wanted to see.
+
+"Does it appeal to you?" she asked.
+
+"Some parts."
+
+"Which?"
+
+"The work. The chance to hear new people. The idea of finding out what I can do."
+
+"And which parts don't?"
+
+He looked at her. "Leaving here."
+
+She nodded. There was no point pretending she wasn't part of the answer.
+
+She reached across the table and took his hand. He held on, and for a few moments they sat without discussing how to solve the problem.
+
+Outside, the rain slowed. The ice in the stream would keep breaking, making the paths muddy and uncertain. Spring was approaching whether the camp was ready or not.
+
+Thalia looked at him. He was warm from the stove, with a little dust still caught at the edge of his hair, and she wanted to be close again.
+
+"Come to bed," she said.
+
+He smiled, rose and followed her.
+
+The room remained untidy. The pencil was still missing. Neither of them cared.
+
+---
