@@ -872,3 +872,211 @@ And Percy, between them, had room to belong to both.
 
 ---
 
+The following morning, Percy arrived at the Big House with the message-shell and a letter he had rewritten twice.
+
+Chiron was already at his desk. A map of the saltwater shoreline lay open before him, and a page of tide observations sat beside it. He finished reading the page before looking up.
+
+"Ready to send your message?"
+
+"I think so."
+
+"Then we'll check the route."
+
+Percy followed him down the upper path toward Long Island Sound. They passed the strawberry beds and the old fence, turned near a small grove of pines, and came out above the rocky shore. The air smelled strongly of salt. Unlike the camp canoe lake, whose freshwater he could still feel inland, the Sound moved in a slow tide around the exposed stones.
+
+The shore guard on duty knew Chiron and asked them to sign the visitor record. He pointed to a sheltered tidal pool where the outgoing current met a marked relay route.
+
+"You can send a household message from there," the guard explained. "The shell will reach the relay station. The attendants will carry it to the proper recipient."
+
+"So it isn't a magical delivery straight into her hands," Percy said.
+
+"No. It's a way of passing the message to people who know where it belongs."
+
+Percy liked the distinction. A sea queen had a household, a household had workers, and the workers had schedules. Sending a letter still meant trusting other people to do their part.
+
+He checked that Amphitrite's name was written correctly on the dispatch record. Then he opened the shell and made sure the folded page sat inside without catching on its edges. A loose corner could have slipped out in the current. Annabeth had warned him about that, so he'd tied the page with a thin length of cord.
+
+Chiron stood back while Percy knelt beside the pool.
+
+"To Amphitrite," he said.
+
+The shell warmed gently. A narrow thread of blue light moved along its spiral, then faded as the water carried it toward the deeper channel. Percy watched until he couldn't see it. He had sent messages through water before, but he couldn't remember ever caring so much about the route one would take after it left his hands.
+
+"How do I know it arrives?" he asked.
+
+"The relay sends a receipt through the same line. We can check this afternoon."
+
+"Can I wait here until it does?"
+
+"You can. But the relay might not process it for hours. You have morning duties at camp."
+
+Percy sighed. "I knew you were going to say that."
+
+"Your sister is counting on you to help inspect the arena."
+
+"I know."
+
+Chiron let him watch the tide for another minute. Then they returned along the upper path, leaving the shore guard with a copy of the dispatch entry.
+
+On the way back, Percy asked about the stories Amphitrite had told him from the childhood he couldn't remember.
+
+"She knows so much about me," he said. "Or about the child I was here. Sometimes I think if I listen hard enough, the memories will become mine."
+
+"They are already part of the history of your present life," Chiron answered. "But learning a story is different from remembering living it. You can value it without pretending it happened inside your own conscious memory."
+
+"So if I dream about the story later, that doesn't prove it's accurate."
+
+"No. It proves you were thinking about it."
+
+Percy laughed. "Annabeth would say exactly that."
+
+"Then she's being careful with you."
+
+They reached the cabins while the breakfast conch was sounding. Silena was at the table with a letter of her own, addressed not to Amphitrite but to the household gardener who had shown her how the nursery shelves were secured.
+
+"You've written to Euryale?" Percy asked.
+
+"I have. The kelp didn't hold under load in freshwater or in air. I want to tell her what happened and ask whether the pattern would work with a different fiber."
+
+"How are you going to send it?"
+
+"Through the workshop correspondence channel. I asked Triton for the address."
+
+Percy looked at her note. The questions were precise. She described the samples they'd cut, how long they'd soaked, which ones had frayed and what they wanted to try next. It didn't read like a thank-you note disguised as a request for another gift. It read like a letter between two people who cared about making something work.
+
+"Do you think she'll answer?" he asked.
+
+"Maybe. She has a garden to run. I'm not going to assume she's waiting for my questions."
+
+Clarisse came in carrying two practice shields and asked whether either of them intended to eat breakfast before making the table into a mailroom. Silena folded her letter and moved the testing samples aside. Percy fetched plates while Clarisse explained that one of the shields had a loosened grip.
+
+"Can't you fix it?" he asked.
+
+"With my wrist wrapped? Not today. You can learn."
+
+He had spent years in the life he remembered learning how to survive a fight. Now Clarisse was teaching him how to maintain the things that made practice possible. It was less glamorous, but he was beginning to appreciate how many people relied on small repairs being completed correctly.
+
+They ate, then went to the equipment shed. Percy loosened the damaged strap and examined the buckle. One side had worn through at the hole nearest the edge.
+
+"Don't just pull it tight," Clarisse warned.
+
+"I remember."
+
+"Then what do you do?"
+
+"Replace the damaged section. Make sure there's enough leather left around the new hole."
+
+"Good."
+
+She watched while he marked the cut with a piece of chalk. He got the distance wrong on the first attempt, caught the mistake before cutting and measured again. Clarisse didn't praise his instinct. She praised the moment he checked the mark before doing something irreversible.
+
+"Better," she said.
+
+Silena brought him the needle and a replacement strip, then returned to her own work. She did not sit beside him and direct every stitch. Percy appreciated that; it made the repair feel like something he was learning to own.
+
+A younger camper came by to ask for a practice shield. Percy pointed to the inspected rack and explained that the damaged one would be returned when it had passed another check. The boy made a face.
+
+"I need one now."
+
+"There's another on the bottom shelf."
+
+"It's heavier."
+
+"Then ask your instructor whether you can use it. Don't take this one just because it's easier to lift."
+
+The boy looked unconvinced but went to ask. Percy felt unexpectedly stern. Perhaps that's what happened after a birthday: people began making you sound like Chiron.
+
+By midday, the strap was repaired. Clarisse tested it carefully with her uninjured hand, then asked the instructor to inspect it before restoring it to the training rack. The instructor checked the buckle and signed the repair log.
+
+"Now it's available," Clarisse said.
+
+Percy looked at the signature. "All that for one strap."
+
+"One strap that keeps a shield on somebody's arm."
+
+He couldn't argue with that.
+
+After lunch, Annabeth found him at the pavilion, staring at the blank space where the message-shell's receipt would eventually arrive.
+
+"You want it to answer quickly," she said.
+
+"I know she got the letter to the relay. I'd like to know she's read it."
+
+"Those are two different things."
+
+"Annabeth, I am beginning to resent the number of accurate distinctions you make."
+
+"That's unfortunate. I have plenty more."
+
+She sat beside him and opened her sketchbook to the garden drawing. She had finished the outer terrace, but the interior of the nursery remained a series of simple shapes. She'd promised not to put the protected planting locations on the public camp map, and she was keeping that promise even in sketches she wanted to show friends.
+
+"Does it feel wrong leaving the details out?" Percy asked.
+
+"A little. I like an accurate map."
+
+"Then why do it?"
+
+"Because accuracy isn't the only responsibility. Someone might use the information to walk straight into the nursery without knowing how to protect the seedlings."
+
+She showed him the master drawing, which she planned to keep among her personal records, and the version for camp display. The public version showed the garden's form without giving directions to its most fragile sections.
+
+"People might ask," he said.
+
+"Then I'll explain why."
+
+He thought about the shell he'd sent into the current. Its route was recorded, but he didn't expect every person at camp to be able to track it. Some paths existed for specific purposes, not for anyone who happened to be curious.
+
+They worked quietly until a messenger from the shore watch arrived with a narrow receipt slip. It carried Amphitrite's seal and the words *received by the household relay*. No answer yet.
+
+Percy read it twice.
+
+"Are you disappointed?" Annabeth asked.
+
+"A little."
+
+"She might not have seen it."
+
+"I know."
+
+"And she might be busy."
+
+"I know."
+
+She took his hand. "Knowing doesn't mean you're not allowed to feel disappointed."
+
+He laughed, but there wasn't much humor in it. He was trying not to count the hours of his father's absences or turn every pause in Amphitrite's attention into a verdict about whether he belonged. It was difficult. He'd lost Sally in this altered history, while still carrying memories of a life in which she'd been there for him. Sometimes a delay felt larger than it ought to.
+
+"I don't want to treat her like she owes me an instant answer," he said.
+
+"Then don't. You can still hope she writes."
+
+He folded the receipt and slipped it into the book he was using to keep his correspondence. He wrote the date and the relay confirmation in the margin, next to the copy of the letter. It wasn't a grand gesture. It would help him remember later when he'd sent it and what answer, if any, came back.
+
+In the late afternoon, Silena came to ask whether he could help hang the kelp samples to dry. She'd decided to test a canvas version of the same weave pattern, and she needed someone to hold the fabric taut while she measured the folds.
+
+Percy went with her. They worked at the porch table until the light began to fade. Silena's first canvas knot twisted under tension. The second held but rubbed against the edge of the wooden frame. She marked both problems and chose not to make a finished bag until she had solved them.
+
+"You're not disappointed?" he asked.
+
+"I'm a little disappointed."
+
+"You keep working."
+
+"That's how I find out whether the next idea is any better."
+
+He held the fabric while she cut a replacement strip. There were things he could learn from that kind of patience. The letter could travel without him supervising every inch of the route. A coral garden could survive without him making its currents perfect. A sister could manage her own work and still appreciate his help.
+
+By dinner, Silena had one usable test sample and three rejected ones. She put all four in an envelope with notes rather than throwing the failures away. Percy helped clear the table, carrying the broken samples gently so she could decide what to keep.
+
+The reply from Amphitrite did not arrive that night. Percy still checked the shelf before bed. The receipt slip lay beside the sea-glass beads, small and ordinary. He tucked it under the photograph so it wouldn't blow away when the window was open.
+
+He thought about the letter's contents: how he had thanked her for welcoming his sisters, told her about the garden, and said he wanted to keep both of his homes in his life without asking them to compete. Those words remained true whether she answered tomorrow or the day after.
+
+He turned out the lamp. Across the cabin, Clarisse was already asleep with her wrist resting on a folded towel. Silena's pencil scratched once more against her notebook, then stopped. The fountain made its soft, familiar sound.
+
+Percy lay awake for a few minutes, listening. The sea was far enough away that he couldn't hear it directly. The canoe lake was closer, a different body of water with its own routines. He had carried his letter to the right shore, signed the dispatch log and let the relay do its work.
+
+He wanted the answer. He did not need to stay awake to make it come.
+
+
+---
