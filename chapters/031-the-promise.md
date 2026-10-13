@@ -228,11 +228,11 @@ Thalia nodded. She understood missing someone you couldn't explain.
 
 The dryer buzzed. Neither of them moved to open it.
 
-"I told myself for years he was dead," Thalia said. "Easier that way. Then Annabeth told me what she remembers — about the wolves, about Lupa, about a kid with blond hair and a scar — and I thought, what if..."
+"I told myself for years he was dead," Thalia said. "Easier that way. Then Chiron arranged the Iris-message, and there he was, standing at Camp Jupiter with a ruler in his hand. I heard him talk. I saw his face. I still wake up some mornings afraid I imagined the whole thing."
 
-"You think he's at that Roman place?" Clarisse asked. "The place they remember?"
+"You've spoken to him," Clarisse said. "You know where he is."
 
-"I think he's alive," Thalia said fiercely. "I have to think that. Otherwise what am I doing? Just running around with a spear being angry at clouds?"
+"Yes. But our letters have to go through an intermediary. We don't know when a visit will be approved, or even whether the next message will get through. Sometimes knowing he's there makes it harder to stay here without him."
 
 Clarisse snorted. "You're pretty good at being angry at clouds."
 
