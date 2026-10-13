@@ -708,6 +708,226 @@ Thalia raised her mug. “I support the framework.”
 
 ---
 
+Triton had called a break after the mock dining service, but the break lasted only until Clarisse noticed he was putting the wooden fish back into its box.
+
+"Where does the real fish go?" she asked.
+
+"Which fish?"
+
+"The ridiculous one."
+
+"It does not go anywhere. That was a model of a centerpiece."
+
+"Then I have a question about the centerpiece."
+
+Triton kept the box open. "Ask."
+
+"If something at the palace makes a guest uncomfortable, who is the guest supposed to tell? You spent half the morning showing us how to greet people without causing an incident. You haven't spent five minutes explaining what we do if someone causes one."
+
+The table had gone quiet. Not because Clarisse was being rude, Percy thought, but because the question was a good one. Triton's instruction had assumed the people receiving them would be more knowledgeable and more powerful than his sisters. It had not explained how to disagree with any of those people.
+
+"You speak to me," Triton said.
+
+"And if you're across the palace?"
+
+"To the chamber steward. Or the nearest member of the guard."
+
+"What if the problem is the guard?"
+
+Triton took the fish back out of the box and placed it on the bench. "Then we need to talk about more than the centerpiece."
+
+Chiron, who had been folding the practice place cards, settled into a chair. Annabeth opened her notebook. Thalia moved her feet off the bench in front of her, suddenly paying full attention.
+
+"At camp," Clarisse said, "I can refuse a training partner. I can tell Chiron a drill is unsafe. I can go to my own cabin. What do I get to do underwater?"
+
+"You get to do all of those things except walk straight back to camp without arranging a safe passage," Triton said. "The palace is large. It is not a trap. But leaving it requires us to provide a route."
+
+"Then I want that route explained before we're there."
+
+Triton nodded. His answer came slowly enough that Percy knew he was reconsidering more than the phrasing.
+
+"There are three places you can summon help," he said. "The main family hall, the entrance to the west garden, and the guest chambers. Each has a shell bell. Ring it twice and tell the attendant you want to return to the surface. They notify me or Mother. We arrange an escort to the shore."
+
+"Can any of us ring it?" Silena asked.
+
+"Yes."
+
+"Without explaining why?"
+
+"Yes."
+
+"And if someone insists we stay for dinner?"
+
+"Tell them I authorized your departure."
+
+Clarisse looked unsatisfied. "You haven't actually authorized it."
+
+"I am doing so now."
+
+Thalia leaned forward. "Write that down."
+
+Triton blinked. "What?"
+
+"Not for drama. For the attendants. If the whole palace runs on etiquette, a guest will get farther with something that looks official than with an argument in a hallway."
+
+Annabeth drew a narrow rectangle on her page. "A guest card. Not permission to leave, because permission shouldn't be needed. An explanation that the people staffing the route have already been told to help."
+
+Triton looked at the sketch. He seemed personally offended by the fact that a fourteen-year-old had just identified a gap in his plans. Then he said, "That would be useful. I'll have the steward prepare copies."
+
+"You don't have to be upset about it," Percy offered.
+
+"I'm not upset."
+
+"That tone means you're either upset or considering an invasion."
+
+Triton shut the box. "I am considering how long it took you to learn basic court greetings, and whether we have time for a lesson in silence."
+
+"You'd be surprised how bad I am at that lesson."
+
+"We are all familiar with your limitations, brother."
+
+Silena raised one finger. "There is another thing."
+
+Triton sat down again with great patience. "Of course there is."
+
+"You talk about Mother a lot. I want to know what we're supposed to call her."
+
+"Amphitrite."
+
+"We know her name."
+
+"You may call her Lady Amphitrite if you prefer something formal."
+
+"Not *Mother*?"
+
+The word fell awkwardly into the space between them. Percy felt his chest tighten. He'd called Amphitrite by that name in the weeks since they'd begun speaking. It was not simple for him, but it was becoming natural in its own way. Clarisse had a living mother with a different history. Silena had her own. Triton had spent a childhood with Amphitrite that none of them could reproduce. The same word couldn't be handed to everyone like a place card.
+
+"She would never demand it," Triton said.
+
+"Would she be hurt if I never did?"
+
+"No." He glanced at Percy, as though asking whether Percy could confirm that. Percy stayed silent. This wasn't his assurance to give. Triton straightened. "She will want to know you as you are. You should decide how to address her."
+
+Silena folded her hands around her cup. "Good. I think I'd like to call her Amphitrite."
+
+"Then do that."
+
+Clarisse let out a breath Percy hadn't realized she was holding. "I'll call her that too."
+
+"You can change your mind," Triton said.
+
+"So can she," Clarisse replied. "She's welcome to ask me what she wants. We can have an ordinary conversation."
+
+"Nothing about this family is ordinary," Thalia murmured.
+
+"That," Annabeth said, "is why I'm taking notes."
+
+Later, when the other campers dispersed toward their afternoon duties, Percy followed Triton down to the canoe dock. The water looked flat and unremarkable again. Its sudden lift that morning had sent boats skidding toward the mud, and two Apollo campers were still arguing over whose canoe had been scratched.
+
+"Was the entrance necessary?" Percy asked.
+
+Triton looked out at the lake. "No."
+
+"Then why did you do it?"
+
+"I thought it would make you laugh."
+
+"It did. For about ten seconds."
+
+"After which?"
+
+"After which two boats got stuck in the reeds."
+
+Triton considered the distant canoe rack. "I should speak to Chiron."
+
+"That would help."
+
+Percy sat at the edge of the dock. His brother stayed standing, hands behind his back, looking so much like a prince delivering a formal statement that Percy wanted to push him into the water.
+
+"I want them to like our home," Triton said.
+
+"They might."
+
+"You sound uncertain."
+
+"They might like some parts and hate others. Clarisse will find a training rule she thinks is stupid. Silena will tell a servant not to take her bag. Annabeth will probably decide your palace needs a new drainage system. Thalia will insult a guard if he talks to Annabeth like she's five."
+
+"And you?"
+
+"I'll spend half the visit worrying that they'll think I'm trying to replace camp with Atlantis."
+
+Triton sat beside him. The wood shifted beneath his weight.
+
+"You're not asking them to replace camp," he said.
+
+"I know. But I don't want them to feel like I invited them as part of my life and then left them standing at the door while I go inside."
+
+"They are invited into the rooms we can actually share. Not every room has to belong to all of us."
+
+Percy rolled that over. He had been imagining a perfect visit: no mistakes, no jealousies, no ancient grudges, every relationship resolving into something so clean it could be painted above the dining table. That was not how their ordinary evenings in Cabin Three worked, and it probably wouldn't be how a weekend underwater worked either.
+
+"What happens if Poseidon doesn't make it to dinner?" he asked.
+
+"He has duties."
+
+"That's what people always say when they don't know."
+
+Triton didn't contradict him. "Father makes promises that do not always suit the length of his attention."
+
+"I don't want Silena waiting all evening for him."
+
+"Then I won't tell her to."
+
+"And if he says he'll show up and doesn't?"
+
+"We eat dinner. The food should not go cold for someone who isn't there."
+
+Percy nodded. A simple rule. Useful enough that he intended to remember it.
+
+On their way back up the slope, Triton stopped by the two canoes that had slid into the reeds. One had a new scratch along its blue side; the other had lost the leather binding on an oarlock. He asked the Apollo campers who handled repairs. They directed him to the boathouse.
+
+Percy expected a grand gesture. Instead his brother took a repair sheet from the wall, wrote down the damage and asked where the replacement leather was kept. When one camper explained that the maintenance shifts were already assigned, Triton looked faintly surprised.
+
+"You could pay for it," Percy said, "but the oarlock still has to be fixed by someone who knows how."
+
+"I know how to repair a fitting."
+
+"Then ask whether they want help."
+
+Triton did. A boy from Hephaestus cabin gave him a blunt needle, a strip of leather and a set of instructions. The prince of Atlantis sat on an upturned crate and worked on a canoe oarlock while Percy held the loose timber steady. He did not summon a servant or make the lake do the work. Twice he threaded the leather through the wrong hole. On the third attempt the fitting held.
+
+The Hephaestus boy tested the movement. "It'll do. Check it again after the next practice."
+
+Triton accepted the instruction as though it were a judgment from a royal council. He looked pleased when the boy walked away.
+
+"Did we just repair a canoe?" Percy asked.
+
+"We did."
+
+"I might need a family photograph."
+
+"Tell no one."
+
+"Clarisse will ask why you're covered in grease."
+
+"Then I shall tell her I have been learning how your court functions."
+
+"That's pretty much true."
+
+Triton cleaned his hands at the pump. He still had a piece of blue thread caught on one cuff.
+
+"Percy," he said, "I don't know whether this visit will be easy for you."
+
+"Neither do I."
+
+"But your sisters will never be treated as tests of your belonging. If someone mistakes the situation, tell me."
+
+Percy looked at him. "I will. And if *you* mistake the situation, I'll tell you too."
+
+Triton raised an eyebrow. "I'm sure you will."
+
+They walked back to the Big House while the dinner workers lit the first lamps, and for once Percy wasn't rehearsing what he would say at the palace. He was thinking about a guest card, an ordinary exit, a meal that wouldn't wait for an absent father, and a prince with grease on his sleeve. Those seemed like better preparations than getting a spoon right on the first try.
+
 By the time the sun leaned toward the pine trees, Triton had reviewed their greetings three times and the table rules until Percy could identify the spoon for pearlfruit.
 
 “What is pearlfruit?” Clarisse asked.
