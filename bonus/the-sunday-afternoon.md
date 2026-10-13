@@ -1598,3 +1598,181 @@ At the fence he let her go. They had work in different parts of the camp. He hea
 The following evening she would see him again. They had not made a schedule. They had made a choice that could be made again.
 
 ---
+
+Tuesday's trouble began with an invitation delivered too early.
+
+Thalia found Rhys behind the archery shed while he was trying to repair a stuck latch. He had his coat folded over a post, his sleeves rolled, and a pencil behind one ear that he had apparently forgotten was there. She waited until he looked up.
+
+"Tonight," she said.
+
+He blinked. "Good morning?"
+
+"Don't make me repeat myself."
+
+"I'd like to know what I'm agreeing to."
+
+She came close enough that she could lower her voice without making the conversation secretive.
+
+"I want to see you tonight. Properly. No target inventories, no missing gloves, no audiences. I thought I'd ask rather than just appear at your door."
+
+He smiled, but it was a tired smile.
+
+"I'd like that."
+
+"Excellent."
+
+"But I have a rough day ahead. Can I tell you later whether I'll be up for company?"
+
+Thalia stared at him. She knew the words were reasonable. The immediate little sting was not.
+
+"You're busy."
+
+"I'm busy until about six. After that I may be tired. I don't know yet."
+
+"You can say no."
+
+"I might. I'm trying not to say yes just because I want to please you."
+
+She looked away. The remark wasn't an accusation, but it landed close to something she had been avoiding. She wanted him. She was becoming accustomed to finding him pleased when she wanted him. The possibility that he might decline without loving her less shouldn't have been difficult to understand. It was anyway.
+
+"Fine," she said, and heard the sharpness.
+
+He set the latch down. "Are you angry?"
+
+"Not at you."
+
+"Are you sure?"
+
+"Rhys."
+
+He waited. That was what made it worse. He wasn't defensive, and he wasn't trying to make her feel foolish. He was giving her a chance to speak honestly, which meant she had no excuse for turning this into a fight.
+
+"I'm disappointed," she admitted. "I was looking forward to it."
+
+"So was I. But I don't know whether I'll be good company tonight."
+
+"I don't need you to be entertaining."
+
+"I know. I don't always want company when I'm tired."
+
+She considered the distinction. It had taken her most of the last week to tell him that she wanted space sometimes. She could hardly object when he asked for the same thing.
+
+"Then let me know," she said.
+
+"I will."
+
+She stayed long enough to help hold the latch steady while he tightened its screws, then went about her morning. She tried to stop thinking about the conversation and failed. She was irritated with herself for feeling rejected by a man who hadn't actually rejected her. Worse, she was irritated with him for having been clear about what he needed.
+
+At four she saw him near the dining pavilion and nearly approached. Instead she kept walking. He looked tired. She could see it in the way he moved, the small pause before he lifted a crate, the attention he had to pay to a task that normally came easily. She wanted to go to him and tell him to stop working. She wanted to take over the job and make the evening possible.
+
+That was a particularly bad idea. She kept walking.
+
+At half past seven, someone knocked at Cabin One.
+
+Thalia opened the door to find Rhys standing on the porch, still wearing the coat he'd been working in. His hair had come loose over his forehead. He held a folded piece of paper.
+
+"I said I'd let you know," he said.
+
+She stepped outside, closing the door behind her. The air smelled of frost and chimney smoke. She could hear the low murmur of voices from the lower path.
+
+"Well?"
+
+"I'm exhausted," he admitted. "I don't think I have an evening in me."
+
+She looked at him. The answer hurt less than she'd expected, perhaps because he'd come himself instead of sending a note.
+
+"All right."
+
+He held out the paper. "I wrote you something."
+
+She took it, suspicious.
+
+"What is it?"
+
+"A terrible attempt at an apology for being tired."
+
+"You don't need to apologize for being tired."
+
+"I know. But I wanted to give you something."
+
+She unfolded the note. It was a short set of musical notes, five bars written in Rhys's careful blocky hand. Beneath them he'd written: *For the woman who never believes me when I say I like seeing her.*
+
+Thalia read the sentence twice.
+
+"Is it a song?"
+
+"Not yet."
+
+"Then why give it to me?"
+
+"Because you told me you wanted to see me. And I wanted you to know I heard you, even if I can't spend the night with you."
+
+She looked up. He was watching her with a small, apologetic smile. She liked the gesture more than she wanted to admit. He wasn't trying to make the disappointment disappear. He was acknowledging it.
+
+"You are an idiot," she said, quietly.
+
+"I've been told."
+
+"A thoughtful idiot."
+
+"That's an improvement."
+
+She moved close enough to kiss him. The kiss was gentle, unhurried, and she could feel the fatigue in the way he leaned into it. When she drew back, his eyes remained closed for an instant.
+
+"Go to bed," she told him.
+
+"You're sure?"
+
+"I'm sure."
+
+He opened his eyes and smiled. "I really did want to see you."
+
+"I know."
+
+"And I still do."
+
+"Then you can come find me when you're rested."
+
+He nodded. There was relief in his expression, and something like gratitude. She realized she had been given an opportunity to show him the freedom he had already offered her.
+
+"Good night, Thalia."
+
+"Good night."
+
+She watched him go down the path until the light swallowed his figure. Then she went inside and looked at the musical notes again.
+
+She could not read the whole melody from sight. She knew enough to recognize the shape: a small rising phrase, a pause, and a final line that returned to where it began. It was not an elaborate composition. It was his way of saying he had thought of her even when he couldn't give her the evening.
+
+Annabeth looked up from her desk.
+
+"What's that?"
+
+"Music."
+
+"From Rhys?"
+
+Thalia considered lying. There was no reason to.
+
+"Yes."
+
+Annabeth's smile was immediate and infuriating. "Is it good?"
+
+"I haven't heard it."
+
+"Then play it."
+
+"I don't have a guitar."
+
+"You could hum it."
+
+Thalia looked at the page. She tried the first three notes under her breath, missed the fourth, and laughed at herself.
+
+"Don't tell him I did that," she said.
+
+Annabeth turned back to her notebook. "Wasn't planning to."
+
+Thalia put the paper carefully inside her book, beside the photograph from the orchard. For a while she lay awake thinking about the difference between being refused and being unwanted. She hadn't liked the lesson when it arrived. She liked the person who had taught it to her.
+
+Wednesday, she decided, she would ask him about the rest of the melody.
+
+---
