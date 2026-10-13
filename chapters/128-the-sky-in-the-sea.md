@@ -545,6 +545,80 @@ When they finally left the observatory, Annabeth carried two pages of measuremen
 
 ---
 
+The technician met them at the inner door with a folded sheet of calculations and a problem he had not wanted to raise in front of the visitors.
+
+"The lower contacts held for the demonstration," he told Thalia, "but the west ground went warm. I should shut down the dome until we check it."
+
+Thalia stopped. Beyond the door Annabeth was still sketching the ceiling, delighted by the false horizon. "Did the power come through her?"
+
+"We cannot tell. She was conducting a small current when the contact warmed."
+
+"Then we shut it down," Thalia said.
+
+The technician shifted the sheet between his hands. "The queen was expecting to show the dome to the afternoon guests."
+
+"Tell her what's happened."
+
+"She may ask whether the display can continue with half the lights."
+
+"And you'll tell her the ground went warm. That's the answer."
+
+Thalia could hear herself using the voice she reserved for commanding an arena. The technician was not a recruit. He knew the mechanism better than she did, and he had already decided what he thought was safe. She softened her tone.
+
+"Sorry. You were the one who spotted it. What do you need us to do?"
+
+"Please ask your sister to leave the central plate clear while I isolate the contacts."
+
+Thalia crossed the observatory and found Annabeth kneeling beside the brass panel. Her pencil had worn down almost to the wood.
+
+"They need to check the grounding," Thalia told her. "We have to stop."
+
+Annabeth looked up, disappointed. "Because of me?"
+
+"We don't know. The technician noticed a warm contact. He's going to find out."
+
+Annabeth closed the sketchbook but didn't rise. "If I did something wrong, I want him to tell me what it was."
+
+"He will, if he can work it out."
+
+"Then don't send me away."
+
+Thalia almost told her to get behind the door and leave the professionals alone. Instead she looked toward the technician.
+
+"Can she watch from the viewing alcove?"
+
+He considered. "From behind the glass, yes. No active current until the inspection is complete."
+
+Annabeth stood and brushed chalk from her knee. She followed Thalia to the alcove, watching the lights dim in sequence. Without the artificial sky, the dome became a plain structure of stone and brass. It looked smaller and more honest.
+
+The technician used a testing rod to isolate the western plate. Heat had accumulated where a layer of salt had gathered between two contacts. The charge from Annabeth's demonstration might have aggravated it, but the fault existed before she arrived. He pointed to the residue and showed them how the current had taken a path the designers hadn't intended.
+
+"Was that dangerous?" Annabeth asked through the speaking grille.
+
+"It could have been, if we'd left it running at full power. It wasn't an emergency when I found it."
+
+"So the demonstration should have stopped sooner?"
+
+The technician didn't pretend the question was rude. "I should have checked the ground before asking you to conduct a current near it. That was my error. Your charge was within the limit we agreed."
+
+Thalia felt the delayed unease of what might have happened. She had enjoyed watching Annabeth succeed so much that she hadn't asked what would happen if the machinery itself was unreliable. At camp she'd insisted on safety distances and dry ground for weeks. An elegant palace had made her less suspicious than she should have been.
+
+"We'll put this in the visit report," she said.
+
+Annabeth looked at her. "Both of us?"
+
+"All of us. You can record what you did. He can record what failed."
+
+"And you?"
+
+Thalia exhaled. "I can record that I assumed the equipment was sound because a prince invited us to see it."
+
+Annabeth gave her an approving look. "That's unusually fair."
+
+"Don't get used to it."
+
+The technician shut the western circuit and posted a closure note at the inner door. The queen's other guests could see the architecture but not the artificial sky until the fault was repaired. Nobody was pleased with the inconvenience. The technician looked relieved anyway.
+
 Outside the observatory Poseidon waited beside a shallow fountain, water chuckling over shells. Down the corridor Percy and Silena argued over a shell ornament; Clarisse kept changing sides, enjoying herself.
 
 The sight slowed Thalia. She'd braced for court, but the family scattered in little knots, sandals slapping wet floor. Percy waved her over. She lifted a hand but held her ground. Poseidon turned, robe stirring.
