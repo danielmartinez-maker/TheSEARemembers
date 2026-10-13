@@ -1055,3 +1055,427 @@ Annabeth knew how to work beside somebody without possessing every part of their
 Using it when she was afraid was the harder part.
 
 ---
+
+The letter stayed under the shell through breakfast.
+
+Percy checked it before he left for the arena, then put it back. He told himself he'd deliver it after drills. When drills were over, he remembered that Chiron would be busy with the younger campers until lunch. He spent the next hour helping replace a broken practice target and almost convinced himself the letter could wait until the end of the week.
+
+Clarisse found him in Cabin Three after noon, putting the folded page into an envelope and taking it out again.
+
+"Is it a letter or a training exercise?" she asked.
+
+"A letter."
+
+"Then why does it look like you're trying to defeat it?"
+
+Percy looked at the envelope. "I don't know if I should send it."
+
+"Does it say anything you don't mean?"
+
+"No."
+
+"Does it promise something you can't do?"
+
+"No."
+
+"Does it say something mean about us?"
+
+"Clarisse."
+
+"Then what are you afraid of?"
+
+He sat down on the edge of his bunk. She was standing in front of the open door, the sun bright behind her, looking more like the person who would argue with a monster over an unfair rule than somebody offering advice about family letters. He was glad it was her anyway.
+
+"If I tell Amphitrite I miss her, she'll be glad," he said. "And then she'll want to see me. That's reasonable. I'd want to see her too. But if I can't go for a while, I don't want her to think I was saying it just to make her happy."
+
+Clarisse leaned against the doorframe. "You're assuming she's going to make an entire set of plans because you wrote that you missed her."
+
+"She might."
+
+"Then the two of you can discuss those plans."
+
+"That's what the letter says."
+
+"Then you've already done the part you can do."
+
+He stared at her.
+
+"What?" she demanded.
+
+"That's very reasonable."
+
+"Don't get used to it."
+
+He picked up the envelope. "I feel like I'm disappointing somebody no matter what I choose."
+
+"That might happen," Clarisse said.
+
+He looked up again. Most people tried to reassure him that it wouldn't. Annabeth was more honest than that, but he could tell when she wanted to make every possible future less painful for him. Clarisse didn't bother.
+
+"You can make a good choice and somebody can still be unhappy," she went on. "It doesn't always mean you made the wrong choice. It means other people wanted something different."
+
+"Do you want me to stay here?"
+
+"Yes."
+
+The answer was so quick he laughed in surprise. Clarisse didn't laugh back.
+
+"I like having you around," she said. "You do the annoying jobs when I ask, you steal all the clean towels, and you make Silena laugh when she's mad at me. The cabin would be quieter without you. That doesn't mean I'll chain you to the bunk."
+
+"Thanks, I think."
+
+"You're welcome."
+
+He turned the envelope in his hands. "What about Silena?"
+
+"Ask her."
+
+"I did."
+
+"What did she say?"
+
+"She said she'd want to know how long and whether she could come if she wanted."
+
+"Then you've got your answer."
+
+He stood, slid the letter into his bag and checked that the seal would hold.
+
+"You coming to the Big House?" he asked.
+
+"No. I've got a practice target to inspect because somebody was hitting it wrong."
+
+"Somebody?"
+
+"You."
+
+"That target was falling apart before I touched it."
+
+"Then my inspection will be very fair."
+
+Clarisse left him laughing. Percy followed after a moment, but he went in the other direction, toward Chiron's office.
+
+The Big House porch was crowded with campers waiting to ask questions. One wanted to change archery groups. Another had lost a camp necklace bead. A third was trying to explain why a damaged shield did not count as his fault. Percy waited behind them without interrupting.
+
+When his turn came, he held out the envelope.
+
+"Could this go to Atlantis?"
+
+Chiron looked at the address. "Amphitrite?"
+
+"Yes."
+
+"Certainly. It can go with the next dispatch. Is there a time requirement?"
+
+"No. There's no emergency."
+
+"Good." Chiron put the envelope into a folder and made a note. "Would you like me to tell you when it leaves?"
+
+Percy considered. "Yes, please."
+
+"Then I'll do that."
+
+The exchange was so ordinary it startled him. Nobody asked why he was writing. Nobody demanded a return date. The envelope went into a folder beside other messages, and Percy walked back down the porch steps into sunlight.
+
+He couldn't see what Amphitrite would think when she read it. He couldn't prepare every answer she might want. But the words he'd chosen were his, and he'd sent them.
+
+He went to the arena to help Clarisse with the target.
+
+---
+
+Annabeth learned about the letter from Percy, not from anybody else.
+
+He found her late that afternoon at the beach diagram table in the Big House. She was setting the updated map into a frame so Chiron could hang it where the younger campers would see the warning marks before heading to the water. Grover stood beside her, holding a corner level while she fixed the last pin.
+
+"How's it going?" Percy asked.
+
+"One more corner. Grover, lift yours a little."
+
+Grover did. Annabeth checked the level and pressed the pin home.
+
+"Done."
+
+She stepped back. The map lay flat. The markers on paper matched the buoys Percy had helped set, and the warning near the far side was large enough to read without squinting.
+
+"That looks good," Percy said.
+
+"It should. You spent half a day putting those markers where I told you."
+
+"I remember."
+
+Grover stepped away. "I'm going to get Chiron to come look."
+
+"Thanks," Annabeth said.
+
+When they were alone, Percy leaned against the table, careful not to touch the framed map.
+
+"I sent a letter to Amphitrite."
+
+Annabeth set down the hammer. She was glad he'd told her. She was surprised by how much she wanted to know what was in it.
+
+"What did you say?"
+
+"Some things about camp. I asked about the gardens and Triton. I said I'd like to visit again, but I don't know when."
+
+"Did you ask for a date?"
+
+"No."
+
+"Good."
+
+Percy tilted his head. "Good?"
+
+Annabeth heard the word the way he must have. It had sounded like approval, as though she'd been waiting to review his decision.
+
+"I mean, I'm glad you didn't make a plan because you felt pressured."
+
+"I didn't."
+
+"That's what I meant."
+
+He didn't move away, but his expression shifted. "You asked me three days ago what I wanted. I told you I wasn't sure. Are you relieved I still haven't decided?"
+
+Annabeth felt her face warm.
+
+"Not exactly."
+
+"Then what?"
+
+She could have said she only wanted him to be happy. It would have been true, but too easy. She wanted him happy in a way that also left her a place. She wanted him to stay at camp often enough that she could see him without scheduling a visit. She wanted him to love Amphitrite without leaving Clarisse or Silena behind, and to miss Sally without taking that grief out on himself. She couldn't have all of those wants arranged into a single neat solution.
+
+"I'd miss you," she said.
+
+Percy looked at her.
+
+"If you stayed in Atlantis for a long time, I'd miss you. I know you could come back, and we could talk, and it wouldn't mean anything had changed between us. But I'd still miss you."
+
+"Annabeth, I know."
+
+"I don't think I said it clearly before."
+
+"No. You mostly told me what I was allowed to do."
+
+She took that in. He wasn't being cruel. She had given him permission he hadn't asked for because it was easier than admitting how frightened she felt.
+
+"I asked Thalia about leave rules," she said.
+
+"When?"
+
+"The night after we talked on the dock."
+
+"You didn't tell me."
+
+"No."
+
+He looked down at the diagram. "Were you going to arrange it?"
+
+"I thought about it."
+
+"Why?"
+
+"Because I didn't like not knowing what would happen."
+
+Percy looked tired suddenly, not from training but from having the same conversation about his life in another form. Annabeth felt the impulse to defend herself. She had only asked one question. She hadn't filled out a form or gone to Chiron or talked to Amphitrite without his knowledge.
+
+But she'd been standing in the doorway of doing exactly those things.
+
+"I'm sorry," she said. "I shouldn't have started planning something you hadn't chosen."
+
+Percy was quiet for a few seconds.
+
+"I don't want to keep explaining myself every time I think about home," he said.
+
+"You shouldn't have to."
+
+"And I don't want you to act like you don't care if I leave."
+
+"I do care."
+
+"I know. That's why I'd rather you tell me."
+
+Annabeth crossed her arms, then uncrossed them. She had been angry at herself for being afraid and had nearly made that anger Percy's responsibility. The map behind him was finished. She could see the clean black labels and the carefully measured swimming lines. Some problems really could be solved by rules. This one couldn't.
+
+"I need time to get used to not knowing," she said.
+
+Percy sighed, then smiled faintly. "I can probably help with that. I spend a lot of time not knowing things."
+
+"You're not supposed to enjoy that."
+
+"Believe me, I don't."
+
+She laughed, a little reluctantly.
+
+He reached for her hand. "I don't want to leave you out. I just don't want the decision to belong to everybody except me."
+
+"It doesn't."
+
+"And when I do know what I want, I'll tell you."
+
+She squeezed his fingers. "I want that. And when I want something, I'll tell you too, even when it makes the conversation harder."
+
+"That's fair."
+
+The apology hadn't made everything comfortable. Percy was still uncertain about Atlantis, and Annabeth was still afraid of having him away for long stretches. She appreciated that he didn't promise to stay simply to make her expression change.
+
+Grover came back with Chiron before either of them could try to turn the conversation into another grand agreement.
+
+"The map looks excellent," Chiron said.
+
+Annabeth let go of Percy's hand and went to show him the warning symbols. Percy stayed to answer the questions about the buoys. They completed the inspection together, not as a couple performing a lesson for anyone, but as two campers who had helped with a safety job and knew where the work was done.
+
+When they left the Big House, Percy didn't ask whether she was still worried. She didn't ask whether his letter would be answered quickly.
+
+They walked toward the cabins together.
+
+---
+
+Over the following days, Annabeth paid attention to what Percy actually said instead of treating every glance at the Sound like the beginning of a departure.
+
+Some mornings he was cheerful. On others he was quiet, and sometimes the quiet meant he'd slept badly or was thinking about training, not Atlantis. He argued with Clarisse over weapon storage. He helped Silena deliver the garden sign and returned with paint on his sleeve. He spent an afternoon with Grover trying to keep a young satyr from eating a map of the local trails.
+
+Annabeth worked too. She drew the final amphitheater repair notes, revised the cabin gutter plan and helped teach a younger camper how to use a ruler without moving the measurement halfway through. None of those things required Percy to be there.
+
+One evening, as the dining pavilion emptied, Clarisse stopped beside Annabeth's table with the water pitcher.
+
+"Better?" she asked.
+
+Annabeth thought about pretending not to know what she meant. "Somewhat."
+
+"He's still thinking about Atlantis."
+
+"I know."
+
+"You're still thinking about him thinking about it."
+
+"Probably."
+
+Clarisse filled Annabeth's cup. "Then you're both being consistent."
+
+Annabeth laughed. "That's one way to describe it."
+
+"He's my little brother," Clarisse said. "He'll be annoying wherever he goes. You don't have to stop caring to let him choose."
+
+"Did Silena tell you that?"
+
+"No." Clarisse paused. "She told me I couldn't go around calling him an idiot every time he did something I didn't like."
+
+"That's different."
+
+"It's similar enough."
+
+Clarisse went on to the next table, complaining that the younger campers were leaving cups everywhere. Annabeth watched her work. She'd learned to recognize Clarisse's kindness when it came disguised as an order. She'd also learned that Silena sometimes did the harder thing by refusing to step in.
+
+Neither of them had solved Percy's problem. Both of them had made room for it.
+
+---
+
+On the last evening before the next set of drills, Annabeth asked Percy if he wanted to walk around the cabins.
+
+They went the long way, past the strawberry fields and the sleeping archery targets, then around the edge of the pavilion. The night air was cool enough that Percy had borrowed a light jacket. Annabeth kept her hands in her pockets until they passed the campfire circle.
+
+"Have you heard anything about the letter?" she asked.
+
+"Chiron said it went out."
+
+"Good."
+
+He glanced at her. "You can ask questions, you know. I didn't mean you had to stop asking about Atlantis forever."
+
+"I was trying to figure out which questions were mine to ask."
+
+"What did you decide?"
+
+"That I want to hear about the place you love. And that I can tell you when I'm afraid of losing time with you. I don't need to arrange the answers."
+
+Percy thought about that while they walked.
+
+"I like that you want to know," he said. "Sometimes I wish you could come into every room and see what I see. It would make explaining easier."
+
+"I don't need to be in every room."
+
+"I know."
+
+"But I'd like to visit the gardens again."
+
+"You would?"
+
+"Yes. There are things Amphitrite was growing that I still haven't figured out. I wanted to ask her about the glass overhead and how she keeps the light from scattering."
+
+Percy smiled. "I think she would like that question."
+
+"I'd also like to hear the terrible jokes you keep telling me Triton makes."
+
+"They're much worse in person."
+
+"Then I'll prepare myself."
+
+They rounded the last cabin and came to the path that led toward the beach. From there, they could hear the Sound, though it was out of sight behind the dunes. Percy stopped for a moment. Annabeth stopped beside him.
+
+"Are you thinking about going?" she asked.
+
+"Yes."
+
+"Do you know when?"
+
+"No."
+
+She put her hand out. He took it.
+
+"All right," she said.
+
+They stood together while the distant water moved. Percy had two homes in his heart, and Annabeth knew something about that kind of division. She remembered years that her family here didn't remember, and she loved a sister who could tell stories about a childhood she had not lived as herself. Their displacements weren't identical. It mattered that they could describe the differences without turning them into a competition.
+
+Percy tugged gently on her hand. "You know what I like about camp?"
+
+"What?"
+
+"That when I come back to Cabin Three, Clarisse asks whether I've eaten, and Silena asks whether I need help, and then they both annoy me about something ridiculous before I can answer."
+
+"That does sound like home."
+
+"It is."
+
+He was smiling when he said it. Annabeth didn't ask him to repeat the word or decide what it meant for Atlantis.
+
+At the fork toward the Zeus cabin, she stopped.
+
+"I want to know your whole life," she said. "Not only the parts that include me."
+
+Percy's smile turned smaller and more serious.
+
+"I want you to know it," he answered. "I just need to figure out some parts of it myself."
+
+"I know."
+
+He drew her closer, and she kissed him, briefly, before stepping back. He was warm and familiar, his hand still around hers for the last second before they parted.
+
+"Tomorrow?" he asked.
+
+"Tomorrow. Unless Clarisse drafts you into another canoe repair."
+
+"She will."
+
+"Then after that."
+
+He laughed. "After that."
+
+Annabeth went up the Zeus cabin steps and found Thalia at the table, finishing her own letter to Jason. There was no reason to ask what she'd written. Her sister would tell her if she wanted to.
+
+Annabeth collected her drawings from the corner and sat down across from her. The room was quiet except for paper moving and the faint drip of water into the bucket beneath the repaired gutter.
+
+Thalia looked up after a while. "Everything okay?"
+
+"Not everything," Annabeth said.
+
+Thalia studied her, then nodded. "Want to talk?"
+
+"Maybe later."
+
+"Okay."
+
+They worked for another hour, two sisters with different plans and things they couldn't fix for the people they loved. Annabeth's pencil moved across the page. Thalia folded her letter and set it by the door.
+
+Outside, the sea remained where it was, far beyond the camp boundary. The next morning would come, with errands and drills and people needing the things they had agreed to do. Annabeth couldn't arrange the future to keep Percy at her side in every moment, but she could make room for him to tell her what he chose.
+
+For the first time that week, she left the travel question alone long enough to finish her own drawing.
+
+---
