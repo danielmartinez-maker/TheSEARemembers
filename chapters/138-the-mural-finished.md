@@ -729,6 +729,52 @@ Myra wrote a note to revise the caption. She added the camper's name to the labo
 
 The celebration had made it easy to imagine a single group rescuing something magnificent. The ledger told a more complicated and more convincing story. Work had been done in shifts, by people who disagreed, got tired, failed tests, corrected labels, lent equipment and sometimes went home early because they had other responsibilities.
 
+There was one decision Silena refused to let the rest of them make for her. At the bottom of the photograph list she'd written *send copies to Atlantis*, with a question mark so large Percy could see it from across the table.
+
+"Do you want them there?" he asked.
+
+"I want Amphitrite to see what we made. That doesn't mean I want every private photograph sent to the palace archive."
+
+"You can choose."
+
+"I know. I'm trying to choose which ones." She spread three prints on the table. The first showed Clarisse with a restoration tool in hand, frowning fiercely at the blue border. The second caught Percy laughing with his back turned. The third showed the full crew standing before the reproduction, tired and proud and more recognizably themselves than in the formal photograph.
+
+Percy reached for the laughing picture. "Not this one."
+
+"Why not?"
+
+"It makes me look ridiculous."
+
+"You were being ridiculous."
+
+"That's not the issue."
+
+"Then what is?"
+
+He thought for a moment. There was nothing shameful about the picture. He simply didn't like the idea of the court looking at it as if everything he did belonged to them.
+
+"I want some things to stay at camp," he said.
+
+Silena nodded. "That's what I was trying to work out."
+
+She marked the formal group print for sharing, the restoration close-ups for the technical archive, and the laughing picture for Cabin Three. Before she chose the one showing Clarisse at work, she asked her sister directly.
+
+"Fine to send it," Clarisse said. "But don't let anyone call me a royal conservator."
+
+"Why?"
+
+"Because I'm a camper who learned to use a swab. That's the important part."
+
+Silena wrote that in the caption. She asked Percy whether he'd help compose a short letter to Amphitrite, and he agreed on one condition: it would describe the children's work, not announce that the mural proved the royal family ought to get along.
+
+"That's a strange condition," Silena said.
+
+"Look at the painting."
+
+"Point taken."
+
+They kept the letter simple. No elaborate court language, no claims of divine harmony. Percy wrote that the camp had found an old painting, that his sisters had helped save it, and that they wanted to show her the result. He didn't need to give his family the edited version of a perfect day to let them share a good one.
+
 Once the archive was sorted, Myra packed the envelopes in a dry box and handed Silena the copy meant for Cabin Three. Clarisse took charge of the repair schedule. Nico and Bianca went off with their star materials safely labeled. Thalia offered to take Annabeth's damp sketches back to Cabin One.
 
 "I can carry them," Annabeth said.
