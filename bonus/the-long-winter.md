@@ -1875,3 +1875,245 @@ Rhys kissed her once on the threshold. There was nothing dramatic about it, and 
 "Then you have no excuse."
 
 She stepped down into the dark. Behind her he closed the door against the cold. She was halfway past the first lantern before she realized that for nearly an hour she hadn't thought about whether she was walking correctly. The heel began to ache again as soon as she noticed. She swore at it, then continued up the path with the kind of private smile she hoped nobody would see.
+
+---
+
+Wednesday, the twenty-fifth of October, arrived wet and unusually quiet.
+
+Thalia knew it was raining before she opened her eyes because the roof of Cabin One announced every drop. It was a narrow wooden roof, and the sound came down through the rafters with surprising intimacy: taps against the boards at first, then a prolonged rush when the wind turned and sent the rain across the shingles. She lay awake and listened. Annabeth was still asleep. The youngest camper in the next room was snoring with the dedicated enthusiasm of someone who had never known responsibility for other people's rest.
+
+She ought to have been thinking about the training schedule. Chiron wanted the archery instructors to agree on the winter rotation, and someone had to inspect the target room before another cold front came through. But Thalia had already read the schedule twice. She could have recited every name on it.
+
+What she kept remembering was Rhys at the door the night before, his hand at the small of her back when she'd kissed him goodbye, the way he'd stood in the doorway after she stepped away as if he wasn't quite ready to go inside. She had looked back once. He'd been watching her, not dramatically, simply with the expression of someone who liked the sight of her leaving and would have preferred she stay.
+
+It was not a dignified memory for an eighteen-year-old woman to replay four times before breakfast.
+
+She got dressed without turning on the lamp. Her heel ached when she pulled the sock over it, and she adjusted the wrap Chiron had given her. That was the one part of her life that had been explained in exhaustive detail lately, with the additional benefit that everyone seemed interested in offering an opinion.
+
+Annabeth opened one eye.
+
+"You're early."
+
+"I live here."
+
+"That wasn't my observation."
+
+"Then improve your observations."
+
+Annabeth turned onto her back and watched Thalia finish fastening her boot. "You got back later than you said."
+
+"Not much."
+
+"Forty minutes."
+
+"Has someone been keeping records?"
+
+"Yes."
+
+Thalia looked over. Her sister was smiling. Not broadly, and not in the manner of a child who had discovered a secret and intended to torment its owner. It was worse. Annabeth looked pleased, and a little uncertain about whether she was allowed to be.
+
+"Did you need me?" Thalia asked.
+
+"No."
+
+"Then don't count my minutes."
+
+"I wasn't worried."
+
+"That's new."
+
+"I was curious."
+
+Thalia stood, testing the support wrap. The boot fit better today. "Curiosity killed something."
+
+"A monster, usually. You taught me that."
+
+It was such a direct little reminder of their history that Thalia almost laughed. She crossed to her sister's bunk and straightened the blanket that had twisted at the edge.
+
+"Stop doing that," Annabeth said.
+
+"Doing what?"
+
+"Fixing things when you don't want to answer."
+
+Thalia left the blanket alone.
+
+There was no practical reason to lie. Annabeth was fourteen, her younger sister, and perfectly entitled to dislike being treated like an interrogation device. But Thalia was also eighteen and had begun to discover that there were parts of her life she wanted to keep entirely her own.
+
+"I spent time with Rhys," she said.
+
+"I know."
+
+"We were talking."
+
+"That part I didn't know."
+
+Thalia narrowed her eyes. Annabeth's expression became carefully innocent.
+
+"Go back to sleep," Thalia said.
+
+"Can't. I'm awake now."
+
+"Then do something useful. Your ruler's about to fall off the table."
+
+Annabeth reached out and caught the ruler without looking. Her smile widened.
+
+Thalia went outside before it could turn into a full discussion. She was halfway down the porch steps when she realized she was smiling too.
+
+The rain had made the path black and shining. She crossed the camp toward the dining pavilion and found that the morning crew had already put out porridge, toast, and a jar of honey that looked suspiciously as though someone had scraped it clean with a spoon and then tried to put the evidence back. She took a bowl and sat at the end of the bench nearest the open side.
+
+Rhys came in carrying two wrapped bows.
+
+He saw her immediately. That was the first problem. The second was how much it pleased her. His expression changed just enough for her to recognize it, a quick private smile before he had even said good morning.
+
+He set the bows beside the supply table and brought his breakfast over.
+
+"Mind if I sit?"
+
+"I was enjoying the solitude."
+
+"Then I'll try not to interfere."
+
+He sat down.
+
+She looked at his porridge. He had put honey on top, an outrageous quantity of it, and was making no attempt to disguise the fact.
+
+"You're going to regret that."
+
+"Good morning to you too."
+
+"That's enough honey for four people."
+
+"How many people are watching?"
+
+"At least two. I'm sure somebody else will notice."
+
+"I'll live with the scandal."
+
+They ate for a minute. Thalia knew exactly where his hand was on the bench, close to hers but not touching. She was aware of other people moving around the pavilion and of the entirely ordinary fact that they had the right to eat breakfast without announcing their private lives to the camp. That ought to have been comfortable. Instead she was conscious of the effort both of them were making to behave as if nothing had changed.
+
+He put his spoon down.
+
+"You're staring at my hand."
+
+"I was assessing the structural integrity of the bench."
+
+"Verdict?"
+
+"Poor."
+
+"Terrible news."
+
+She leaned closer, enough to keep her voice out of range of the campers passing behind them.
+
+"I didn't sleep much."
+
+His expression changed. "Bad heel?"
+
+"Bad thoughts."
+
+"About?"
+
+She gave him a look.
+
+He caught the meaning at once. For a second the composure vanished, replaced by a smile so open that she had to look away before she did something stupid, like reach across the table and kiss him.
+
+"That makes two of us," he said.
+
+"You're not supposed to say that at breakfast."
+
+"Where should I say it?"
+
+"Somewhere without an audience."
+
+"Very strict rules."
+
+"Reasonable ones."
+
+He leaned back and picked up his spoon. A child from Demeter's cabin squeezed between them to reach the honey, and the conversation had to wait while Rhys moved his elbow out of the way. Thalia watched the kid depart with a piece of toast dripping down both sides.
+
+"See?" she said. "Contagious."
+
+Rhys laughed. "You're blaming me for the honey now?"
+
+"I blame you for several things."
+
+"Will I get a written list?"
+
+"Not where anyone can find it."
+
+The remark sounded more suggestive than she'd intended. His expression told her he had noticed. She hadn't realized how much she would enjoy being the one to make him lose his train of thought.
+
+Then he lowered his voice.
+
+"I wanted to see you this morning."
+
+The words were ordinary, and they went straight through her defenses.
+
+"You are seeing me."
+
+"I know. I'm glad."
+
+There was no request attached. He didn't ask where she'd been or whether she intended to come to his cabin again. She wished, suddenly, that she could take his hand under the table without thinking about who might see. She could have done it. It was only a hand. But she knew it would mean something visible, and she wasn't ready to decide the matter between one bite of porridge and the next.
+
+So she said, "I might come by after the range."
+
+"All right."
+
+"Not a promise."
+
+"I didn't ask for one."
+
+She nodded, satisfied and faintly annoyed by his reasonableness. Then she stole a piece of his toast.
+
+"Thalia."
+
+"What?"
+
+"You have your own."
+
+"Yours looks better."
+
+"It's the same bread."
+
+"Then you won't miss it."
+
+He watched her eat it, smiling. For a while they said nothing. There was a particular comfort in sitting together in public while each of them held a private memory of the night before. She had never considered that secrecy might be pleasant when it didn't come from shame. It could simply be space between two people, something they hadn't yet invited anyone else to occupy.
+
+When breakfast ended, Rhys stood and collected the empty bowls.
+
+"Field in twenty minutes," he said.
+
+"I know the schedule."
+
+"I suspected you might."
+
+She glanced around. Nobody was looking at them. Before she could talk herself out of it, she touched his wrist as he reached past her.
+
+He looked down.
+
+She could have said something sharp, made the gesture mean nothing. Instead she let her fingers rest against his skin for one heartbeat, then withdrew.
+
+"See you there," she said.
+
+His smile was quiet. "See you there."
+
+She watched him walk toward the dish return with the bowls stacked in his hands. She had spent the better part of her life believing that affection was something you protected other people with, a set of actions aimed away from yourself. The realization that she could receive it without first offering an explanation left her oddly unsteady.
+
+A moment later Annabeth appeared in the pavilion carrying a notebook, a ruler, and a piece of toast.
+
+"You look happy," she said.
+
+"That's an accusation."
+
+"Only if you make it one."
+
+Thalia stole half her toast as well.
+
+"Hey."
+
+"Structural inspection," Thalia said.
+
+Annabeth rolled her eyes and sat down beside her. Thalia kept the rest of the morning's private happiness to herself, but she stopped trying so hard to hide that it existed.
+
+---
