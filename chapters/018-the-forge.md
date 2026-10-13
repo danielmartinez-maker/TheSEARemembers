@@ -392,6 +392,96 @@ Clarisse held the blackened, rough spearhead in her tongs and thought it was the
 
 ---
 
+By the time Clarisse completed the first shape of her spearhead, she was convinced the metal had a personal grudge against her.
+
+It was not a weapon yet. The point was uneven, one edge was thicker than the other and the tang had been shaped too broadly for the handle she'd brought from the armory. She had expected that heating and hammering steel would be a matter of applying enough force in the right direction. The reality involved stopping every few strokes to check measurements she'd been impatient to take in the first place.
+
+Beckendorf came over to inspect it.
+
+"You're making progress," he said.
+
+"It looks terrible."
+
+"You're learning how the metal moves. That doesn't happen in the first five minutes."
+
+Clarisse turned the piece in her tongs. "Can we just grind the edge to make it even?"
+
+"We can, but then you may remove material you need for strength. Tell me what shape you want before you start cutting away the part you don't like."
+
+She looked at the drawing they'd agreed to use as a guide. Her original design had a long, narrow point with a slight curve toward the edge. It looked impressive. Beckendorf had already warned her that a beginner's first piece was unlikely to hold that shape through repeated use.
+
+"What would you make?" she asked him.
+
+"For a training piece? A shorter point with enough material behind it to take a dull impact without deforming. You're going to learn more from a head you can test than from one that looks dangerous on a wall."
+
+Clarisse disliked the answer, but it was sensible. She marked the new outline and began reshaping the piece.
+
+Percy was working at the cooling station nearby. He watched her adjust the metal and asked whether she wanted him to hold the drawing where she could see it.
+
+"I can manage."
+
+"Fine."
+
+He went back to his own work. Clarisse took another three strokes, then realized she couldn't look from the hot metal to the small drawing without losing her place.
+
+"Percy," she called. "Hold the paper."
+
+He returned without comment and steadied the design beside the work surface. She followed the measurements carefully, checking each side rather than trusting that two quick blows would make them equal.
+
+When the head had cooled enough for inspection, Beckendorf asked her to test it against a weighted block rather than a practice dummy. The first impact bent the edge slightly.
+
+Clarisse stared.
+
+"That's a failure," she said.
+
+"That's a result," Beckendorf replied. "Now you know where the piece is thin. We can work back from there."
+
+She wanted to argue. A result that told her she needed to redo the work was not the kind she had been hoping for. Then she remembered Annabeth keeping her failed joint as a reference. Clarisse didn't want to become someone who valued an object only if it had worked on the first attempt.
+
+"Can I fix it?"
+
+"Yes. We'll heat and reshape it. I'll show you how to check the thickness before you quench."
+
+She followed him back to the forge. Percy remained near the cooling tank, ready to help when instructed. The three of them worked without speaking for several minutes. Clarisse heated the metal, corrected the curve and tested the thickness with the gauge Beckendorf handed her. The second quench went more smoothly. The edge still wasn't perfect, but the head held through the next impact test.
+
+"Better," Beckendorf said.
+
+Clarisse looked at the piece. She was proud enough to want to hide how proud she was.
+
+"Can I use it in practice?"
+
+"Not until I inspect the finished handle fitting and certify it for training. You can keep working on it here."
+
+She nodded. The restriction seemed less insulting now that she'd seen how many things could go wrong with a piece that looked solid from the outside.
+
+Percy set down the measuring cup.
+
+"So, did you make a spearhead or a very sharp argument?"
+
+Clarisse gave him a look. "I made a spearhead."
+
+"Does it have a name?"
+
+"Not yet."
+
+"How about 'Measure Twice, Threaten Once'?"
+
+She threw a clean rag at him. He caught it, laughing. Beckendorf asked them both to return their tools before the next work block. Clarisse signed the unfinished piece into the forge's project cabinet rather than carrying it back to Cabin Three. She wanted to finish it, not prove she'd made a weapon by ignoring the rules that made it safe to use.
+
+At the door, Percy asked whether she'd let him help with the handle when it was ready.
+
+She considered. His hands were smaller than hers, but he was patient with the kind of fiddly work she disliked. He'd been listening to Beckendorf all afternoon.
+
+"Yes," she said. "Provided you don't decide it needs water magic."
+
+"Agreed."
+
+They went to fetch lunch. Clarisse expected to spend the evening thinking about the work she'd have to redo. It felt like the right kind of annoyance: a challenge she could actually meet by practicing rather than charging at it.
+
+
+
+---
+
 Silena had no business being in a forge.
 
 She knew this. The forge knew this. Her hair knew this — it kept trying to escape its braid and stick to her neck. Her skin knew this — it glistened in a way that was cute on romance-novel covers and less cute when soot stuck to it. Her entire carefully maintained aesthetic screamed for sea breezes and shade.
