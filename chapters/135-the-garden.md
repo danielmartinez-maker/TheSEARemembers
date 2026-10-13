@@ -645,6 +645,22 @@ Annabeth drew a shallow branch away from the path, and Clarisse dug it while Per
 
 At the end of the test, Annabeth wrote down the amount of water they'd used and decided they should inspect the beds again after the next rain. A planted garden was not a finished garden. Somebody would have to maintain it after the celebration.
 
+They finished the planting only to discover that nobody wanted to take responsibility for the watering jug.
+
+"Everybody says they'll help," Silena said, looking at the row of names on the temporary work board. "That doesn't tell me who comes tomorrow."
+
+Clarisse offered to take the first shift. Katie reminded her that the Demeter cabin already maintained the strawberry beds. The new garden could be added to the rota, but that needed agreement rather than another surprise assigned to the gardeners because they knew plants.
+
+Annabeth wrote three headings: watering, inspection and repair. She asked for volunteers under each. Grover took the first inspection. Silena wanted to check the moonvine seed pods. Clarisse offered to carry tools when a repair required lifting; she would not promise to look at flowers every morning. Percy volunteered for watering on days he was in camp, leaving spaces open for the weeks he might be training underwater.
+
+For the first time Annabeth saw how easily her design could become other people's unpaid work. A living garden required more than one person's enthusiasm, but the work should not simply fall to whoever was kind enough not to complain.
+
+Katie read the list and crossed out a name a younger camper had written on someone else's behalf. "Ask them," she said. "If they say yes, put it back."
+
+Annabeth did. The camper agreed to one morning a week, not three, and she recorded the answer exactly. By the time the list was complete, it looked less impressive than the first version. It also described work people had actually chosen.
+
+Silena hung the rota inside a waterproof sleeve by the tool shed, well away from the old shrine. Annabeth left a second blank sheet underneath for observations. They would learn how often the beds needed water from the plants themselves, not from the neatness of the timetable.
+
 The first person to use the new path wasn't anyone who had helped build it.
 
 A young camper arrived from Hermes cabin with a broken clay bead cupped between her palms. She stopped at the edge of the cord and watched Clarisse setting the last border stone. When Annabeth asked whether she needed something, the girl held out the bead.
