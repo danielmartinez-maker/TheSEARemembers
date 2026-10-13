@@ -266,6 +266,106 @@ Percy nodded, throat too tight to answer, and started down the stone steps.
 
 ---
 
+Annabeth had been trying not to watch Percy for twenty minutes.
+
+It was more difficult than she'd expected. She could see him across the amphitheater, half hidden by Grover and a Demeter camper, looking as though he'd forgotten what to do with his hands. Usually she would have found it funny. Tonight she was also nervous, and that annoyed her.
+
+She'd written the little note in his pocket this morning because she wanted to dance with him. She hadn't wanted an elaborate plan. But when Chiron announced the event, she suddenly remembered how many people knew they were together and how quickly a small private moment could become the evening's entertainment.
+
+"You're staring," Thalia said.
+
+Annabeth looked away. "I'm listening to the music."
+
+"He's over there."
+
+"I know where he is."
+
+"Then go ask him."
+
+Annabeth opened her mouth, then stopped. Thalia usually teased her about Percy, and tonight she was offering a direct suggestion without making it sound like a joke.
+
+"I want him to ask me," Annabeth admitted.
+
+"Why?"
+
+"Because I already wrote him a note. I want to know he wants to do it too."
+
+Thalia considered. "He looked like he wanted to get up about five minutes ago."
+
+"That's not the same as asking."
+
+"No. It isn't."
+
+Annabeth rubbed her hands over her knees. She had been the one to suggest the dance, but she still wanted the small reassurance of hearing him choose it. In the life they remembered, they'd learned to talk about important things because guessing had caused enough trouble. She was twelve again, and a simple question about dancing had become embarrassingly hard.
+
+Thalia settled back on the stone step.
+
+"Then wait," she said. "It's your choice."
+
+Annabeth looked surprised. "You're not going to go drag him over?"
+
+"Not unless you ask me to, which I hope you won't. He can cross a circle on his own."
+
+Annabeth smiled. She had been prepared to argue about privacy and boundaries. Thalia had already given them to her.
+
+Behind the stage, Austin's guitar changed rhythm. The dancers moved toward the center of the circle, some laughing, some carefully counting their steps. Annabeth watched them. She didn't know how to do the slow version of the dance. She had danced with Percy in another life, but those memories belonged to bodies taller and older than the ones they had now. She didn't want to pretend her feet would automatically remember.
+
+"I might be terrible," she said.
+
+Thalia snorted. "That's a real possibility."
+
+"Thank you."
+
+"You asked."
+
+Annabeth looked at her. Her sister's expression softened.
+
+"You know you don't have to be good at something to enjoy it, right?"
+
+"That's not normally your advice."
+
+"I contain multitudes."
+
+Annabeth laughed. It was easier to imagine stepping onto the dance floor now that she didn't have to treat it as a test. She could be clumsy in front of people. Percy might be just as clumsy, and she would probably laugh when he stepped on her shoe.
+
+Silena came up the steps with a plate of cookies and offered them each one. She saw Annabeth's face and glanced across the amphitheater.
+
+"You waiting for Percy?" she asked.
+
+"Maybe."
+
+"Do you want me to go get him?"
+
+"No," Annabeth said. "He knows where I am."
+
+Silena nodded and left the plate beside them. She didn't turn the answer into a lesson or tell Annabeth that she had to make the first move. Annabeth appreciated being allowed to decide how much help she wanted.
+
+The song changed. Grover went back onto the stage for his part of the program. Percy stood up on the opposite side of the circle.
+
+Annabeth looked at him. Her stomach fluttered, and she hated that Thalia noticed.
+
+"There he goes," her sister said.
+
+"Don't say anything."
+
+"I haven't."
+
+"You were going to."
+
+"Of course I was. I'm trying to improve."
+
+Percy began walking toward them. Annabeth felt an urge to stand and meet him halfway. She stayed seated because she wanted him to finish what he'd decided to do, and because the moment would be easier to remember if she didn't hurry it.
+
+Thalia shifted to give him room at the bottom of the steps.
+
+"Be nice," Annabeth whispered.
+
+"I'll try."
+
+Annabeth believed her, mostly. She looked at Percy again, waiting for him to ask the question she'd already decided how to answer.
+
+---
+
 The walk across the amphitheater felt ten miles long.
 
 Percy was very aware of his feet. He was very aware of his arms, which suddenly seemed too long. What did people do with their arms when they walked? He had never thought about it before. Now he could not think about anything else.
