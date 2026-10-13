@@ -8722,3 +8722,209 @@ She laughed. For a while the cabin grew quiet around them, and neither thought a
 The decision was made. The evening was still theirs.
 
 ---
+
+## March 1: The Room with the Closed Curtains
+
+Thalia had spent all day wanting the evening.
+
+It wasn't a response to disaster. The advanced lesson had gone well. Chiron had watched the students assess their practice lanes and had asked only two questions, both useful. Annabeth had finally stopped criticizing the new safety screens. The weather was dry, if not warm. Everything had moved more or less as she'd intended.
+
+She wanted Rhys anyway.
+
+At six she found him in the hall returning a stack of instruments to the cupboard. He had a guitar case in one hand and a roll of paper under the other arm. Two musicians were talking to him about rehearsal changes. He listened, made a note, and nodded as one left.
+
+He looked up and saw her.
+
+His expression changed.
+
+She liked how little he tried to conceal it now.
+
+"Grace."
+
+"Calder."
+
+He put down the case. "Good day?"
+
+"Good enough."
+
+"That's unusually generous."
+
+She glanced toward the departing musicians. "Are you finished?"
+
+"With the hall? Almost."
+
+"With the arguing?"
+
+"Never."
+
+"Good."
+
+She crossed to him and took the roll of paper from his arm. It was a rough score, covered in penciled amendments. She had no intention of helping him with it tonight.
+
+"Put this away," she said.
+
+He smiled slowly. "Is that an order?"
+
+"A suggestion from a concerned citizen."
+
+"And then?"
+
+She stepped closer. Her fingers caught the open edge of his collar.
+
+"Then you come with me."
+
+He laughed softly, but there was nothing amused about how quickly he closed the cupboard and picked up his coat. She watched his hands, the injured one moving freely now, and felt a flash of satisfaction at the change. He had listened. He had rested. Now he was here, entirely himself, following her out of the hall because he wanted to see where she intended to lead him.
+
+They walked by the lower path. The sky was violet at the edges, and lamps had begun turning the gravel gold. Neither felt inclined to discuss the next training session or the exact order of the coming performances. There would be time for practical questions in the morning.
+
+At the north cabin he opened the door.
+
+Thalia stepped inside and turned immediately to face him.
+
+"You're staring," he said.
+
+"I've been considering a problem."
+
+"Should I be frightened?"
+
+"Quite possibly."
+
+He closed the door. She took his coat from his shoulders and hung it beside hers, then moved close again. He was smiling now, anticipating her. She found the anticipation almost as satisfying as the kiss itself.
+
+"You've had that look since the hall," he murmured.
+
+"What look?"
+
+"The one that makes me forget what I was saying."
+
+She caught his shirtfront and kissed him.
+
+He met her with unmistakable eagerness, one hand at her waist and the other slipping into her hair. She had missed this, despite seeing him yesterday and the day before: the sudden privacy of being able to reach for him without the camp surrounding them, the way his voice fell quiet when she kissed him, the pleasure of feeling him turn completely toward her.
+
+He drew back only far enough to smile.
+
+"You planned this."
+
+"No."
+
+"Thalia."
+
+She considered pretending otherwise, then surrendered the point.
+
+"All afternoon."
+
+He laughed, delighted. She kissed him again to stop the commentary.
+
+The room was warm from a fire someone had banked earlier. The curtains were still open; beyond them she could see the darkening path and the first lanterns beginning to glow. She moved toward the window and pulled the curtains shut while Rhys watched her from beside the cot.
+
+When she turned, he was smiling in a way that made her breath catch.
+
+"Very subtle," he said.
+
+"I have no interest in subtlety tonight."
+
+His smile changed.
+
+She came back to him, rested her palms against his chest and kissed him slowly. His hands moved around her waist, drawing her nearer until she could feel the warmth of him through their clothes. There was nothing uncertain about the answer in his movements. He was as pleased to be here as she was, and neither had to explain why.
+
+Thalia remembered the first Monday when she had stood outside the cabin, embarrassed by the depth of her wanting. That girl had been certain affection must be negotiated like a contested border. Tonight she simply wanted him, and she could say so with the way she reached for him.
+
+He brushed his lips against her cheek and lingered near her neck. She tipped her head toward him, eyes closed for a moment, enjoying the warmth of his breath and the light touch that followed. When he drew back she caught him again and kissed him harder, laughing when he stumbled against the cot.
+
+"You're losing your balance."
+
+"You're making that difficult."
+
+"An unfortunate weakness."
+
+He sat, pulling her toward him. She settled beside him, comfortably careful of the angle of her leg, and kissed him again. His hand rested against her back. The lamp had not yet been lit, and the closed curtains turned the room into a softer version of itself, without the bright edges of daylight.
+
+For a while the only sounds were the ticking stove and their quiet laughter.
+
+When she reached to loosen his collar, he smiled against her mouth. It was a small, familiar gesture now, a way of making clear that she intended to stay rather than counting the hours until she had to leave. He responded by drawing her close again, and she could feel her own smile fading as the kiss became something more absorbing.
+
+She was aware of his heartbeat beneath her hand. She was aware of the cool air at her back where her shirt had shifted. More than either, she was aware of how entirely natural it felt to want this, to be wanted in return, and to trust that either of them could change the pace without spoiling the evening.
+
+Rhys drew back and rested his forehead against hers.
+
+"Good enough day?" he asked softly.
+
+"Improving."
+
+He laughed.
+
+She kissed him once more, then reached for the lamp. The wick made a small gold flare before settling to a dim light. She didn't bother turning it higher.
+
+The rest of the evening belonged to them.
+
+***
+
+Much later, Thalia was lying beneath the quilt when she heard the first rain strike the shutters.
+
+She opened her eyes. Rhys was beside her, one arm flung across the pillow, looking entirely satisfied with the decision to abandon the day's work when she arrived.
+
+"Weather," she said.
+
+He looked toward the closed curtains. "Yes."
+
+"You're not going to make a prediction?"
+
+"Not unless you ask."
+
+"Excellent. A man who can be trained."
+
+He laughed and moved closer. She rested her head against his shoulder. The quiet afterward felt different from the urgent anticipation of the hall, but no less intimate. She liked his warmth beside her and the fact that they could talk without the conversation having to become a review of what the evening meant.
+
+After a while she said, "I had a good lesson."
+
+"I heard."
+
+"From whom?"
+
+"Chiron."
+
+"That man needs new hobbies."
+
+"He seemed proud of you."
+
+She looked at him. The compliment had been passed on by someone she respected. It mattered, though she wasn't sure how to accept it without making a joke.
+
+"The students were good," she said.
+
+"And their instructor?"
+
+"Extremely demanding."
+
+"I've heard that."
+
+She smiled.
+
+He touched her hair. "I'm glad the program's yours."
+
+She raised her head. "What does that mean?"
+
+"That you've made something you care about, something that doesn't need me to be important."
+
+She considered. The answer was simple, but it carried an understanding of what she had spent months trying to explain. She could love him and still have work that belonged to her. He could leave to play music and still come back to someone whose life had continued in his absence. Neither had to apologize for being whole.
+
+"I like that you have the music," she said.
+
+He smiled. "Even when it takes me away?"
+
+"Especially then, sometimes. I hate the leaving. I don't hate the reason."
+
+She kissed his cheek, then settled beside him again.
+
+Outside, the rain grew heavier. The room was warm, and neither of them needed to get up until morning. She considered reopening the curtains to watch the path, then decided against it. The world could continue without their supervision for a few more hours.
+
+Rhys drew the blanket higher.
+
+"Stay?" he murmured.
+
+She looked up at him, smiling.
+
+"I closed the curtains," she said.
+
+He laughed, and she kissed him again.
+
+---
