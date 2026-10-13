@@ -2117,3 +2117,117 @@ Thalia stole half her toast as well.
 Annabeth rolled her eyes and sat down beside her. Thalia kept the rest of the morning's private happiness to herself, but she stopped trying so hard to hide that it existed.
 
 ---
+
+The range was empty by late afternoon. A rain shower had sent most of the instructors into the storage shed, leaving the field smelling of wet straw and trampled grass. Thalia found Rhys at the equipment bench taking the string off a practice bow.
+
+"You didn't eat," she said.
+
+He looked up. "I did."
+
+"An apple isn't lunch."
+
+"You've been watching my lunch?"
+
+"Someone has to maintain standards."
+
+He looked behind her at the deserted path. "Are you here on official business?"
+
+"I have a complaint."
+
+"That sounds official."
+
+"Your bow rack is crooked."
+
+"It's always been crooked."
+
+"Then it's a long-standing complaint."
+
+He set the bow down and gave her his attention. She knew that expression: the quiet, almost amused patience he used when he could tell she'd come with a subject she didn't really want to name.
+
+She stepped closer. The field was almost deserted, and she was suddenly tired of pretending that every visit to him required some useful excuse.
+
+"I wanted to see you," she said.
+
+His face changed. The grin he had been holding back became more open.
+
+"Then I'm glad you're here."
+
+"You're supposed to make this difficult."
+
+"I've tried that. You don't enjoy it as much as you think."
+
+She glanced toward the path. "I don't want the others involved."
+
+"Then we'll keep our business our own."
+
+"And I don't want you acting strange at work."
+
+"What does strange look like?"
+
+"Looking at me every five minutes."
+
+"I'm doing that already."
+
+"Exactly. Be less obvious."
+
+He laughed. She moved close enough to take his hand, and he threaded his fingers between hers. Neither of them made the gesture into a promise. It was a simple choice, made in a quiet corner of the range after a long day.
+
+"Are you coming by tonight?" he asked.
+
+"I don't know."
+
+"Fair answer."
+
+"Don't sound disappointed."
+
+"I'm a little disappointed. That's allowed."
+
+She looked up at him, surprised by the simple honesty. He hadn't tried to make the disappointment her problem. He hadn't hidden it either.
+
+"I might be tired," she said.
+
+"Then get some rest."
+
+"I might want to see you."
+
+"Then come see me."
+
+"You're making a terrible habit of being reasonable."
+
+"You'll survive."
+
+She kissed him. It was a quick, private kiss, the kind she had spent the entire afternoon wanting to give him. He was smiling when she drew back.
+
+"What?" she asked.
+
+"I like when you tell me what you want."
+
+"Don't expect speeches."
+
+"I didn't ask for one."
+
+He took her other hand and brought it to his chest. They stood together for a moment while the wind moved through the pines and the last light caught on the wet target frames.
+
+"I won't always be easy to be around," she said.
+
+"Neither will I."
+
+"That's not a persuasive answer."
+
+"It's an accurate one."
+
+She found herself smiling despite the irritation. He was not trying to convince her that this would be effortless. That was one of the reasons she'd come back.
+
+She squeezed his fingers and let go.
+
+"Good night," she said.
+
+"Good night. Maybe."
+
+She turned at the corner of the shed. "Don't get clever."
+
+"Too late."
+
+He was still smiling as she left. She kept the private warmth of the conversation all the way up the hill, and she did not pretend she had gone to the range to inspect a bow rack.
+
+---
