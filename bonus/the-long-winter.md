@@ -640,11 +640,7 @@ A gust pressed against the shutter. She started a little, annoyed with herself, 
 
 She let go of his shirt to prove she was perfectly composed. Then she took his hand because letting go had been an even worse idea. He looked down at their fingers, surprised enough that she felt a small thrill of victory.
 
-"Is this all right?" she asked.
-
-"Yes."
-
-"Good."
+He closed his fingers around hers and she held on, pleased by the easy answer neither of them had needed to put into words.
 
 The truth was that she wanted several things at once, and she was struggling with the notion that she could choose them in any order. She wanted to be kissed. She wanted him to listen to her talk and not try to turn every sentence into a lesson. She wanted to know how he looked when he was less certain of himself. She wanted to sit by the stove until the cold left her feet. None of those desires canceled the others.
 
@@ -1454,9 +1450,7 @@ He laughed. "I solemnly swear I won't."
 
 She turned to face him properly. The lamplight left a pale line along his cheek. She had been aware of wanting to kiss him through the entire conversation, and she was tired of pretending that the feeling had to be disguised as something else.
 
-"Can I?" she asked.
-
-He looked surprised only for a moment. "Please."
+She leaned in, watching him catch her intention a moment before their mouths met. His answering smile made her bolder.
 
 The kiss was easy at first, then less so, because neither of them had stopped wanting the other since yesterday. He moved his hand to her cheek. She caught his wrist and held it there, not to prevent him from touching her but to keep him close while she took her time. He smiled against her mouth when she paused.
 
@@ -2392,13 +2386,7 @@ She kissed him. Not to end the conversation, but because the conversation had re
 
 When she drew away, she stayed close.
 
-"Is this all right?" she asked.
-
-"Very."
-
-"Good."
-
-He smiled. The smile bothered her in the nicest possible way.
+She stayed near him, letting the smile on his face answer the question she had almost asked. It bothered her in the nicest possible way.
 
 "You know what?" she said.
 
@@ -2456,11 +2444,7 @@ She studied his face for a moment and found that she believed him. Not because h
 
 "Fine. Now kiss me again."
 
-He smiled, relieved and still a little wary. "You sure?"
-
-"Very."
-
-He did, and the kiss was not an answer to the question of whether he would leave. It was only the answer to what she wanted from him right now. They had both said what needed saying. The future could remain unfinished without spoiling the present.
+Relief crossed his face. He came to her willingly, and the kiss was not an answer to the question of whether he would leave. It was only the answer to what she wanted from him right now. They had both said what needed saying. The future could remain unfinished without spoiling the present.
 
 She stayed until the lamp burned low. At the door he found the spare scarf and wrapped it around her neck, ignoring her claim that she wasn't cold. She accepted it after a brief argument, mostly because she'd arrived without a scarf and knew perfectly well that she was cold.
 
