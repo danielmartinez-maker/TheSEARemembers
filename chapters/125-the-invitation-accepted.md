@@ -1157,6 +1157,56 @@ They finished sorting the route maps. Triton locked the restricted papers in the
 
 He had spent the afternoon learning how the palace worked, but the most useful lesson had come in a room full of ordinary paperwork. Nobody was being required to belong in a way they hadn't chosen. Nobody was being asked to wait indefinitely for their father. A letter could go to its real recipient without passing through Percy first.
 
+Before leaving, Percy noticed a little repair box on the lower shelf.
+
+It contained a wooden bowl, three loose fittings and a maintenance tag with a date from several years earlier. The bowl had been cracked and repaired with fine metal pins. Nobody had tried to disguise the repair.
+
+"Why keep a broken bowl?" he asked.
+
+"Because it was worth repairing," Triton answered. "It belonged to someone who cared for the gardens before I was born. The household chose to preserve it rather than replace it."
+
+Percy turned the bowl in his hands. It wasn't beautiful in the polished, flawless way some of the palace objects were. One edge was uneven and the rim had a small nick.
+
+"Doesn't someone worry it will break again?"
+
+"Of course. It isn't used for heavy work anymore. It has a different purpose now."
+
+Percy considered the answer. At camp, Myra had been repairing an old mural that couldn't be made new without destroying what had survived. Here the same principle applied to something small enough to fit in his hands.
+
+"Annabeth would like to see this," he said.
+
+"Then ask the collection steward tomorrow. She knows its history better than I do."
+
+"Is every question going to end with you telling me to ask another person?"
+
+"Only the ones whose answers belong to somebody else."
+
+Percy put the bowl back in its padded place, making sure the loose fittings remained beside it. The box was labeled for the collection team, not for general use.
+
+On the way out they passed the public information table, where the next day's visitor maps were stacked. Percy checked that the versions available to the guests showed the open corridors but not the restricted maintenance routes. One route had a small red mark beside it.
+
+"What does that mean?" he asked.
+
+"An inspection is scheduled in the morning. We will verify the corridor is open before using it."
+
+"Then we shouldn't put it on the tour list yet."
+
+Triton took out his pencil and moved the possible stop into the unconfirmed column. A place could be ancient, magnificent and expertly maintained without being open every day. Percy understood that better after helping the gardeners and seeing the work in the stables.
+
+When they had finished, he copied the day's decisions onto a small card for the group: no confirmed meeting with Poseidon, two approved tours, one workshop request awaiting confirmation and an optional harbor visit. He left space for everybody to add their own preferences.
+
+"Does that look accurate?" he asked.
+
+Triton read it. "Yes."
+
+"Then I'm keeping it with our guest cards."
+
+"You're beginning to make more paperwork than I do."
+
+"I learned from a professional."
+
+Triton smiled. He had spent the week teaching Percy the forms of court etiquette. Percy had learned some of them, though he still disliked the spoons. But the most useful part had been discovering how much a shared visit depended on plans that remained open to correction.
+
 Triton switched off the library's lamps as they left. The current beyond the windows moved steadily toward the city. Percy could not tell whether the morning would be easy. He could tell that when it began, the people who came with him would have their own plans.
 
 
