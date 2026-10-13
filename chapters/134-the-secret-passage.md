@@ -919,7 +919,7 @@ They went to the cabin together. Clarisse found the clasp in a tin of spare buck
 
 "Better," she said.
 
-Percy thought about the painted wall beneath camp. Some things were worth caring for at once. Others could wait until people knew how to help without causing more damage. He was learning to recognize the difference.
+Percy thought about the painted wall beneath camp. Some things were worth caring for at once. Others could wait until people knew how to help without causing more damage. He was learning to recognize the difference. It was difficult work, not nearly as exciting as charging into a secret corridor, but it gave everyone a reason to trust one another the next time something unusual appeared.
 
 The discovery no longer felt like a rumor he had to outrun. It felt like a place he could return to when the people responsible for it were ready. The excitement of finding the passage had changed into a quieter kind of commitment. It would take workers, notes, patience and enough restraint not to make a wonderful discovery into a dangerous one.
 
