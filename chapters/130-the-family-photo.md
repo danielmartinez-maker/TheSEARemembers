@@ -432,6 +432,101 @@ Percy watched clouds cross the shell's silver surface. "Maybe the photo can happ
 
 ---
 
+Before Chiron called the campers together, the photographer discovered that nobody had agreed what the finished picture was for.
+
+The question came from a Hermes girl named Miriam, who had been carrying the boxes of photographic plates. She set one down in the shade and asked where the copies would go after they were developed.
+
+"The Big House," an Apollo camper said.
+
+"Which copies?"
+
+"All of them."
+
+"That's a lot of plates."
+
+The photographer checked his list. There were cabin portraits, senior counselors, camp projects, visitor photographs and the final group picture. He had marked several for the public noticeboard, but the names of the people in those photographs weren't always written down.
+
+Annabeth arrived with a pencil and looked at the list.
+
+"We should label them before anyone forgets who stood where."
+
+"We remember," Clarisse said.
+
+"For now."
+
+Percy studied the camera. He knew the photograph might turn out badly. He might have his eyes closed, Clarisse might be scowling at somebody, and Thalia could be halfway through a joke. That didn't bother him. What bothered him was the idea that somebody decades from now would look at the picture and decide the people standing close together must have belonged to the same god or lived in the same cabin.
+
+"Can you write the relationships accurately?" he asked.
+
+Miriam looked up. "Like whose siblings?"
+
+"Yes. But not just the biological part. Some of us came as visitors. Some of us are friends. And some people in the picture don't want their names written where everyone can see them."
+
+Annabeth nodded. "A public caption can say which event it was and the date. The full names can go in Chiron's archive."
+
+"That's two sets of labels," the photographer said.
+
+"One photograph can have different information depending on where it goes."
+
+Silena examined the list. "I want a copy for Cabin Three. The Poseidon siblings and our guests. I also want you to ask the people in it before you hang the copy publicly."
+
+Clarisse raised an eyebrow. "Who wouldn't want a photograph?"
+
+"Someone who doesn't like the way they look. Someone who has a reason to stay out of the camp noticeboard. Someone who just doesn't want strangers deciding who they are."
+
+Percy thought of the way his first years at camp had been written into palace records he couldn't remember helping create. A picture wasn't a legal record, but it could become a story other people repeated. Silena was right to ask how it would be used.
+
+Chiron joined them. He listened while Annabeth explained the difference between archive copies and public display. He approved the plan and asked Miriam to leave an empty space beside every print request for permission to display.
+
+"What if people change their minds?" Miriam asked.
+
+"Then we take it down," Chiron replied. "A photograph is a memory, not a contract."
+
+The camera crew spent the next few minutes fixing a crooked tripod leg and marking the places where the larger groups would stand. Annabeth checked that the sun wouldn't shine directly into people's eyes. Thalia moved a bench so the shortest campers could stand at the front without being hidden by older counselors.
+
+Tyson, who had been watching the preparations, approached Percy with his painting rolled under one arm.
+
+"Am I in the family picture?" he asked.
+
+"Of course."
+
+"I thought maybe I was only visiting."
+
+"You are visiting. That doesn't stop you being my brother."
+
+Tyson considered that. "Then do I stand with Cabin Three?"
+
+Percy looked at Clarisse and Silena. The three of them had spent enough time discussing who belonged where that he didn't want to decide for them without asking.
+
+"Do you want him with us?" he said.
+
+Clarisse stared. "It's his family too, idiot."
+
+Silena took Tyson by the wrist and guided him toward the place they'd marked. "Stand here. You'll block the sun for half the people behind you, but at least everybody will know where you were."
+
+Tyson laughed and bent his knees until his head was closer to theirs.
+
+Annabeth came to stand beside Percy. She had a spare copy request in her hand, already labeled with the date.
+
+"Are you putting me in your cabin photo?" she asked.
+
+"Only if you want."
+
+"I want to. Then I'm going to put you in the Grace-sisters picture too."
+
+"Does Thalia know?"
+
+"She suggested it."
+
+He looked at Thalia. She was arguing with the photographer about whether her spear counted as a prop. Percy had never doubted that she'd find something to object to.
+
+The two families arranged themselves without trying to erase the distinctions between them. Clarisse and Silena took the places they'd chosen. Tyson ducked to fit. Annabeth stood close to Percy, while Thalia stayed within reach of her younger sister. The photographer waited until everyone had settled, then checked the names and the number of plates one more time.
+
+Percy realized the photograph would not prove that they had been happy every minute before it was taken. It wouldn't settle every question about belonging or remember every argument. It would show who had stood together, on this particular afternoon, and who had chosen to be seen.
+
+
+---
+
 "This is the final group picture," Chiron announced, voice carrying. "Please gather by cabin, leaving room for satyrs, dryads, and anyone else in the camp community."
 
 "Does the canoe count?" someone called.
