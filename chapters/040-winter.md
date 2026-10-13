@@ -110,7 +110,7 @@ When she opened her eyes, Thalia was smirking at her.
 
 The dining pavilion had never been this loud at breakfast.
 
-Percy had managed pants — Grover had thrown jeans at his head and refused to leave until he put them on — and two socks that matched, which felt like a personal victory. He'd also found his blue hoodie, the one his mom had sent with a note that said *Stay warm, baby. Love you.* He wore it over two shirts. He still felt cold in a way he'd never felt at camp before, a damp chill that got into his elbows and knees.
+Percy had managed pants — Grover had thrown jeans at his head and refused to leave until he put them on — and two socks that matched, which felt like a personal victory. He'd also found his blue hoodie, the one Amphitrite had sent from Atlantis with a note that said *Stay warm, my darling. Love, Mother.* He wore it over two shirts. The note was hers, though the blue reminded him of Sally and another childhood only he remembered. He still felt cold in a way he'd never felt at camp before, a damp chill that got into his elbows and knees.
 
 But the pavilion was warm with bodies and noise and the smell of bacon and cinnamon oatmeal. And, most importantly, with gossip.
 
@@ -212,6 +212,86 @@ Percy looked around his tiny, too-cold cabin — at Grover in his blanket nest, 
 
 ---
 
+
+By the time breakfast ended, Silena had a list of three problems the cold had caused, and none could be fixed with a snowball fight.
+
+The water pipe behind the kitchen had frozen. A younger Apollo camper had arrived in a jacket too thin for the weather because he'd given his heavier one to his cousin. And the little heater in Cabin Eleven had stopped working, leaving so many children crowding around the common-room stove that nobody could pass through the doorway.
+
+Silena took the list to Chiron rather than immediately trying to fix everything herself. The day was supposed to be a holiday surprise from a snow goddess, but she had learned during the eclipse that a celebration could become an emergency if nobody was willing to keep count.
+
+Chiron was in the Big House study, looking at a weather report beside a map of camp.
+
+"Do we know how long this is supposed to last?" she asked.
+
+"Khione's messenger said a brief visit. The explanation was not specific enough for me to treat it as a forecast."
+
+"Then I'd like permission to open the arts cabin as a warming room during the day. It has a proper fireplace and enough chairs for the younger campers. I'll ask the counselor to supervise."
+
+Chiron looked at her notes. "That may work. What about food?"
+
+"The kitchens can move the afternoon snacks there if the pipe is repaired first. If not, I'll arrange hot drinks from the Big House. The water should come from the heated storage tank, not the frozen line."
+
+She expected him to approve the plan. Instead he pointed to the list of people who were supposed to help and asked who had agreed to each assignment.
+
+Silena looked down. She had written Beckendorf beside the frozen pipe because he knew how to repair things; Clarisse beside the heater because she was strong; and Percy beside the drinks because he could produce water without a bucket. She had not asked any of them.
+
+"I was going to tell them at lunch."
+
+"Ask, rather than tell," Chiron said. "Beckendorf has another inspection scheduled, and Percy's ability to control water does not make him the camp plumbing service."
+
+Silena felt an unreasonable flash of irritation. She knew the distinction. She was simply trying to move quickly.
+
+"Then can we start by checking who's available?"
+
+"Of course."
+
+They did. Beckendorf had an hour before noon, but he wanted a second mechanic to help inspect the pipe before anyone attempted to warm it. Clarisse was assigned to supervise the arena doors, which were swelling in their frames as moisture froze. She could carry spare blankets to the arts room after that, not before. Percy offered to help with drinks but agreed to leave the frozen plumbing to the repair crew.
+
+The plan became less elegant and more reliable.
+
+At ten, Silena stood beside the open arts-cabin door with the first basket of blankets. The fireplace had been checked, the chimney draft worked, and a counselor from Apollo had volunteered to watch the younger children. Silena hung a small sign outside explaining that anybody who was cold could come in, but that the equipment room and paint storage were off-limits.
+
+A Hermes child stepped through the door carrying a damp pillow.
+
+"Can I stay here?" he asked.
+
+"Yes. Is your cabin counselor aware you're coming?"
+
+He nodded. "They're bringing the others."
+
+"Good. Leave the pillow by the drying rack so it doesn't go straight onto the fire."
+
+He obeyed, found a chair and immediately fell asleep.
+
+Silena watched him for a moment. She'd spent the morning imagining an inviting holiday room with garlands and cocoa. It was also becoming a place where a cold child could sleep safely. She could do both, but the order mattered.
+
+Grover arrived with Ella and a stack of books from the Big House. Ella was carrying one by its spine and looking offended by the suggestion that she should leave it near a fireplace.
+
+"Heat damages paper," she informed Silena. "Heat and moisture. Two enemies. Three if you count mites."
+
+"Then you can be in charge of keeping the books away from the hearth," Silena said.
+
+Ella considered this an important appointment. She arranged them on a table far enough from the fire that nobody could reach from their chairs and accidentally knock a book into the flames.
+
+Grover set down his own blanket. He'd brought it for a younger satyr who'd been shivering by the dining pavilion.
+
+"Can we put an extra basket outside for people who don't want to come in?" he asked. "Some of the dryads won't leave their trees, even when they're cold."
+
+Silena stopped. She had arranged everything for children who could walk through a door. The camp also sheltered creatures whose needs wouldn't fit the same solution.
+
+"Ask the tree spirits what would help," she said. "We can bring the blankets out if they're useful, but I don't want to wrap a dryad's tree without permission."
+
+Grover nodded and went to ask.
+
+By midday, the arts cabin was noisy with small conversations, the smell of warm bread and the rustle of drying coats. Beckendorf reported that the pipe had not cracked; it needed to thaw gradually with the line isolated and the repair crew watching. The heater in Cabin Eleven was being assessed rather than pushed beyond its limits. Chiron had authorized temporary beds in the Big House for anyone whose room stayed too cold.
+
+Silena read the updates and felt a small, reluctant sense of accomplishment. None of it was pretty yet. She hadn't cut a single paper snowflake. But when the youngest Apollo camper woke in his chair and asked whether there would be a story later, she could say yes without wondering whether he would spend the evening freezing.
+
+She reached for the colored paper and scissors after the lunch dishes were cleared.
+
+Now, at least, the decorating could begin.
+
+---
 
 Silena Beauregard believed, deeply and sincerely, that no emergency was so great it could not be improved by decorations.
 
