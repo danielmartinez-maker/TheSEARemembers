@@ -70,6 +70,128 @@ Percy nudged back. "Thanks for practicing."
 
 ---
 
+After breakfast a counselor from Hermes cabin intercepted Percy near the equipment shed. She was carrying a practice shield with the grip on the wrong side and a list of names smudged by spilled juice.
+
+"Can you help with a new camper?" she asked.
+
+Percy glanced toward the arena, where Clarisse expected him in less than an hour. "How new?"
+
+"Arrived yesterday. He keeps asking whether you can make the water catch a falling sword."
+
+"I can."
+
+"That's what I told him."
+
+"That may have been a mistake."
+
+She led him to the shade by the weapon racks. A boy with an uneven haircut sat on a low wall, wearing a camp shirt that swallowed his knees. He held a wooden training sword as if it might leap out of his hand. When Percy approached, the boy stood too quickly.
+
+"You're Percy Jackson."
+
+"Most days."
+
+"My brother said you can fight without touching the ground."
+
+"Your brother exaggerates."
+
+"Can you?"
+
+"In water, maybe. On land I'd probably just fall over."
+
+The boy looked disappointed, then hopeful. "Will you show me?"
+
+Percy could hear Clarisse in his head: demonstrations were not the same as teaching. He could have brought a ribbon of water out of the fountain, caught the wooden sword in midair and given the boy a story to tell at dinner. It would have proved precisely nothing the camper could use when an opponent pressed him in the arena.
+
+"First show me how you're holding that sword."
+
+The boy obeyed. His right wrist bent sharply inward. Percy asked him to bring the blade across his body and stop at shoulder height. The sword swung past the mark, pulling his elbow with it.
+
+"Does your wrist hurt?" Percy asked.
+
+"A little."
+
+"Then you're squeezing too hard and fighting the weight."
+
+He borrowed a smaller practice sword and showed the boy how to move from the shoulder without locking the elbow. The first attempt ended with the wooden tip dragging in the dust. The second stopped closer to the mark.
+
+"I'm terrible," the boy said.
+
+"You're new. Those are different things."
+
+The counselor settled onto the wall with her list. She didn't try to run the lesson for Percy, but she stepped in when the boy's grip slipped and reminded him to drink water. Percy appreciated having somebody else notice what his attention might miss.
+
+They tried again. The boy asked for a demonstration of the spectacular water trick a second time. Percy refused a second time, more gently.
+
+"The trick won't teach you how to hold a sword," he said. "This will."
+
+"Did somebody teach you?"
+
+"A lot of people."
+
+He thought of Chiron, of Annabeth in the remembered life, of Triton in stories told about the childhood he'd apparently lived here. He didn't put all three in the same sentence. A lesson someone remembered giving you was not a lesson you could claim to recall receiving. But he could show the boy something he knew now. That would be enough for the morning.
+
+He moved the practice sword in a slow arc, stopping exactly at the marked height. The boy watched and copied him.
+
+"That looked easy," the boy said.
+
+"It took practice."
+
+"How long?"
+
+"Long enough that I still get it wrong when Clarisse makes me tired."
+
+At the mention of his sister, the boy straightened. "She scares me."
+
+"She scares sensible people."
+
+"Does she scare you?"
+
+"Sometimes. Mostly when she finds out I've left something broken in the weapons shed."
+
+The counselor laughed. Percy crouched to check the boy's stance. His toes were pointed at the target and his knees locked.
+
+"Try stepping sideways before the strike."
+
+"Why?"
+
+"So if someone comes at you, your feet can move."
+
+The boy tried and almost tripped. Percy caught his elbow. He didn't lift him by force or turn the stumble into a spectacle. He waited while the boy found his balance again.
+
+"Can I come back tomorrow?" the boy asked.
+
+"Ask your counselor. You'll be training with a group by then."
+
+"Will you be there?"
+
+"Not for every session. But the other instructors know more than one trick."
+
+Percy gave back the practice sword when the next instructor arrived, taking care to tell her exactly what they'd practiced and what the boy was still struggling with. It was the sort of handoff he used to leave to older campers. At fourteen he was old enough that someone might depend on him to make it.
+
+As he walked toward the arena, Annabeth emerged from the pavilion with her notebook tucked beneath her arm. She had watched the last few minutes without interrupting.
+
+"You didn't show him the water trick," she said.
+
+"Maybe later."
+
+"Good call."
+
+"He wanted something impressive."
+
+"He got something more useful."
+
+Percy looked over his shoulder. The boy was trying the sideways step again, this time under the counselor's eye. His swing was slow and crooked. His feet moved, though, and he stayed upright.
+
+"That was pretty impressive," Percy admitted.
+
+Annabeth smiled. "Now go get beaten by Clarisse."
+
+"You say the most romantic things."
+
+"I'm saving the better ones for after you've showered."
+
+She walked beside him until the arena path forked. Percy had spent his morning thinking about what it meant to be fourteen. Now he was late for a practice fight, which seemed a fitting reminder that adulthood hadn't arrived overnight.
+
 Heat rose off the arena sand in visible waves by ten.
 
 Percy tied his shoelaces twice at the edge of the circle. The leather of his wrist guard creaked. Sweat already darkened the neck of his shirt. The air smelled of hot bronze, dust, and the pine resin from the stacked practice spears along the fence.
