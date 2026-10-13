@@ -188,17 +188,17 @@ Annabeth ate a cake standing up on the step, the way Silena had said she would, 
 
 "I'm going to say it."
 
-"You're going to say it because you're her brother and because you saw it on the step yesterday and because you're the only person in this camp she can't win an argument with about her own body, and you're going to say it today, and you're going to say it at the shooting line, and you're going to say it in front of Rhys if you have to, and you're going to say it until she agrees to get it looked at."
+"You're going to say it because you saw her favoring it on the step yesterday, and you're worried about her, but she still gets to make the decision, and you're going to say it today, and you're going to say it at the shooting line, and you're going to say it in front of Rhys if you have to, and you're going to say it until she agrees to get it looked at."
 
 Percy looked at her. She looked back. The morning was cold and bright and the lake was grey at the edges and the tenth lantern had burned out on its hook and left a ring of frost on the wood where the heat had been.
 
 "She's not going to agree to get it looked at."
 
-"She's going to agree to get it looked at because you're going to say it in front of Rhys and she's going to be so busy being annoyed about Rhys that she'll agree to anything." Annabeth picked up the pan and held it out to him. "Take this back down the hill. Tell Silena the cakes were good. Tell Clarisse the list is down to two things. And then go to the shooting line at eight and say the thing."
+"She's going to agree to get it looked at because you're going to say it in front of Rhys and she's going to be so busy being annoyed about Rhys that she'll agree to anything." Annabeth picked up the pan and held it out to him. "Take this back down the hill. Tell Silena the cakes were good. Tell Clarisse the list is down to two things. If you see her before practice, ask her privately whether she'll let Chiron look at the foot. She deserves to be asked."
 
-"It's not eight yet."
+"It's not even nine."
 
-"It's ten to eight. You've got ten minutes." She put the pan in his hands and turned him around by the shoulders and gave him a push down the path, and he went, and he did not stop at the field, because Silena had told him not to, and because the field was a thing that was going to be there when he came back and the heel was a thing that was not going to fix itself.
+"It's ten to nine. You've got time. Go slowly." She put the pan in his hands and turned him around by the shoulders and gave him a push down the path, and he went, and he did not stop at the field, because Silena had told him not to, and because the field was a thing that was going to be there when he came back and the heel was a thing that was not going to fix itself.
 
 ---
 
