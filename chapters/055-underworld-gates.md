@@ -857,6 +857,46 @@ Percy looked at her. "That's a very ordinary plan."
 
 "I'd like one ordinary plan to work on this quest."
 
+At the last turn, Percy saw an old man standing just beyond the queue barrier, clutching a faded photograph.
+
+He was calling a name. Not loudly. He seemed to be testing whether he could still make the sound. The dead around him kept moving, and the attendant at the post was trying to explain which line the man belonged in.
+
+Percy slowed.
+
+"What's wrong?" Annabeth asked.
+
+"He lost somebody."
+
+"Most people here have," she said. Her voice softened when she saw his face.
+
+The man looked toward them for an instant, his eyes settling on Percy. He didn't ask for help. He held out the photograph as though somebody living might be able to read it. Percy took a step forward before remembering the clerk's warning.
+
+An attendant came between them.
+
+"Living visitors are not permitted to take custody of records or personal objects from unassigned souls," she said. "If you need to report a concern, use the desk."
+
+Percy looked at the old man. The photograph was creased across a woman's face. He wanted to take it and promise to find her, but he didn't know where she was or whether she was in the Underworld at all.
+
+"Could you help him read the name?" he asked the attendant.
+
+She turned and examined the picture. "I can direct him to the correct register."
+
+"Thank you."
+
+The man didn't smile. He simply followed her as she led him toward another desk. Percy stood still until they were out of sight.
+
+"You could have taken the photograph," Thalia said quietly.
+
+"I know."
+
+"Why didn't you?"
+
+"Because I can't find everyone," Percy answered. "And if I'd taken it, he might never have known where it went."
+
+Annabeth checked the map. "That doesn't mean we do nothing. It means we find the person whose job includes helping him."
+
+Percy was beginning to recognize how much he disliked being unable to solve things by force. It was a weakness he would have to carry into Hades's court with his sword capped and his questions ready.
+
 They continued toward the gates, following the route rather than charging at whatever frightened them first. It wasn't heroic. Percy thought it might be the responsible choice.
 
 They walked toward the Gates.
