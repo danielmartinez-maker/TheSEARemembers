@@ -950,7 +950,7 @@ Thalia nodded. "We're not training the younger kids as though we have help from 
 
 Annabeth wrote it beneath the court's order, using the last clean page of her notebook. Percy realized a quest could end without every question being answered, provided the unanswered questions didn't disappear just because everyone was relieved.
 
-He took the messenger's copy and signed beneath the word *received*. It was not the same as agreeing with every decision Olympus had made.
+He took the messenger's copy and signed beneath the word *received*. It was not the same as agreeing with every decision Olympus had made. The signature mattered because nobody at camp could be expected to guess which decrees had actually changed. Clarisse needed orders she could apply to the watch rotations, and Silena needed a reason to tell younger campers their equipment and training remained safe. Percy planned to give them the entire written notice before he began describing how frightening it had been to stand in front of the thunder king. He would rather carry ordinary papers than another stolen divine weapon.
 
 The doors closed and Olympus moved away above them. Percy held Annabeth's hand, but he didn't try to make the silence mean everything had been solved. There were still injuries, family arguments and questions no god had answered.
 
