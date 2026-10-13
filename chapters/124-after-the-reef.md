@@ -1,80 +1,71 @@
 ## Chapter 124: After the Reef
 
-The first thing Percy noticed about returning to camp was the sound of dry land.
+The morning after the garden visit, Percy woke to the sound of dry land.
 
-At Atlantis, even quiet had a current. It slipped along the palace corridors, stirred the garden fronds, and carried distant voices in soft, rounded shapes. Here, the afternoon breeze worried the leaves in the pines. The canoe lake gave a small, unceremonious lap against its dock. Somewhere near the strawberry fields, a hammer rang three times, stopped, and rang again as if its owner had forgotten the rhythm.
+In Atlantis, even quiet had a current. It slipped along the palace corridors, stirred the fronds around the nursery and carried distant voices through water. Here, the pines worried at the air outside the window. The canoe lake gave a small lap against the dock. Somewhere near the strawberry fields, a hammer rang three times, stopped, and rang again as if someone had forgotten the rhythm.
 
-The sounds were familiar enough to loosen something in Percy’s chest.
+He had gone to bed late, after putting the route notes on his shelf and trying to explain to Clarisse why he had written down the name of every person who'd helped them. Now his shoes were still damp from the saltwater shore. Annabeth's copy of the guest record lay beneath a stone where the cabin draft wouldn't scatter it.
 
-Salt drying on his sleeves and a travel bag bumping his knee, Percy stood on the path above the lake. Behind him, Chiron thanked the pair of sea-horses that had arrived after them with a small gift hamper from Amphitrite. They dipped their maned heads, snorted foam onto the path, and trotted toward the cove.
+Percy sat up and heard Silena moving around the worktable. She was soaking the kelp-fiber sample in a shallow basin, turning it carefully with two fingers.
 
-Silena held a pale-pink shell in both hands, its green whorl catching the sunlight. Clarisse carried the heavier bag over one shoulder and pretended it weighed nothing. Annabeth had her sketchbook tucked under one arm; Thalia had come to meet them and carried a bronze tray from Amphitrite’s hamper.
+"Does it still work?" he asked.
 
-“Welcome back,” Chiron said, already looking at home in his camp clothes, a few leaves caught in his mane.
+"I don't know yet. It was stiff last night. I want to see whether it softens without breaking."
 
-“It smells like pine,” Silena said.
+Clarisse came in carrying a small bag from the Big House and a folded note.
 
-“That’s because it’s mostly pine,” Clarisse replied.
+"Chiron says a pair of hippocampi left this at the coast after breakfast," she said. "There's a hamper from Amphitrite. They didn't wake us for the delivery."
 
-Silena looked toward the distant blue. “It smells like pine that’s only seen the sea from far away.”
+Percy took the note first. It said the palace's first inspection of the faulty passage charm had found no obvious fracture, and the attendants were continuing to test it under different current conditions. The record didn't claim the cause had been settled. Amphitrite had added a sentence in her own hand thanking them for telling the household about the problem.
 
-“The grove in the garden was closer,” Percy said.
+"That's good," Annabeth said from the doorway.
 
-“Those sea fans were trees that had chosen a different life,” Silena decided.
+Percy hadn't heard her approach. Her hair was still damp from washing, and she had a pencil tucked behind one ear.
 
-To argue would have meant sounding like the sort of person who argued with a flower, so he let it rest, pine resin sharp on the breeze.
+"Good that it failed?" he asked.
 
-Camp noticed them in a ripple: one younger camper called out, heads appeared over porch rails, and a knot of Hermes campers jogged down the path. Their questions were practical—were the sea-horses real, was the reef as bright as the stories, and had the travelers brought anything worth trading?
+"Good that they didn't make up an explanation before they knew."
 
-“I have a shell,” Silena said, raising it.
+Clarisse set the hamper on the table. Inside were sea-glass beads, a silver-veined stone from Triton and a little packet of preserved fruit marked for the kitchen to inspect before serving.
 
-One of the Stolls asked if she would trade it. “No.”
+"No touching the food until it's cleared," Silena said.
 
-“Then you have nothing to trade.”
+"Did you hear that, Percy?" Clarisse added.
 
-“She has the shell,” Clarisse said, her smile almost hidden.
+"I have restraint."
 
-The twins offered to settle a disagreement between the ovens and the cook; Chiron assigned them the bags instead. Percy handed over his own. He wanted to unpack, but he wanted to stay outside more. The evening air felt like something he had been looking forward to without knowing it.
+"Historically unproven."
 
-Annabeth bumped his shoulder. “You’re staring at the hill.”
+He read Amphitrite's note again. She'd promised the inspection report, not a perfect answer. That was a kind of care he trusted. It felt different from being told there was nothing to worry about.
 
-“I’m checking that it’s still here.”
+They carried the hamper to the Big House and handed the food packet to the kitchen staff. Chiron inspected the parcel inventory and asked whether the objects inside were meant to be shared or kept by particular people. Percy said the beads were a gift to Cabin Three; the stone had his name on a small tag. Clarisse had the coral token from the visit. Silena had the sample of woven kelp and a little pink shell she planned to keep at her sewing table.
 
-“And?”
+"Then label them," Chiron said. "A visitor's gift can become a camp mystery in less than a week."
 
-“It is. Though your map puts the lake closer to the pavilion than it is.”
+Annabeth fetched pencil and paper. The inventory took only a few minutes. Afterward she asked Chiron whether the revised public map needed to identify the saltwater departure point they'd used. He said the main shoreline access could be marked, but the guarded channels below the surface should remain in the confidential route file.
 
-“The path feels shorter when you’re hungry,” she said. “That’s emotionally accurate cartography.”
+Percy watched her divide the two kinds of information without protest. She was learning that leaving something off a public map was sometimes more responsible than filling every blank.
 
-They walked the last stretch together, close enough for their sleeves to brush. The camp had changed in small ways: new lanterns by the pavilion, a freshly painted cabin, and an orange in a wheelbarrow wearing a bronze cap.
+They walked back through camp with the empty hamper. Younger campers were gathering at the arena, and the dining pavilion smelled of bread. Life had continued while Percy spent an afternoon admiring the coral garden, then it had continued through the night as he slept. The ordinariness made him feel less divided between his two homes.
 
-“Armor?” Percy asked.
+At the fork near Cabin Three, Silena and Clarisse took the path down toward the lake. Percy knew they had been talking about their visit and wanted a little time without him asking whether they were happy about it.
 
-“A brave orange’s helmet, and a noble one,” Annabeth said. “Nobody expects the orange.”
+"Come along if you want," Silena said.
 
-Laughter came easy in the open air, pine and sun-warmed dust filling his lungs. He had laughed underwater, too, at Silena’s mangled sea-spirit names and the carved fish following Clarisse. Nothing about that warmth had vanished. It had only changed shape around the space between them.
+"You're not required," Clarisse added.
 
-They reached the cabins as the sun lowered toward the tree line. Thalia set the bronze tray down on the porch of Cabin One, then turned to help Chiron untangle a strap from the trunk. Clarisse and Silena went on toward Cabin Three with the smaller bags. Percy followed them to the fork in the path, but Clarisse slowed.
+He considered the offer, then shook his head. "I need to write a letter."
 
-“We’re taking the long way,” she said.
+"You've got plenty of time," Silena told him.
 
-Silena nodded. “The lake first.”
+"I know. I want to do it while I remember the details."
 
-“That’s the other direction.”
+Clarisse raised her coral token. "Then don't write in my name."
 
-“Exactly.”
+"I won't."
 
-Clarisse glanced at Percy. It was not an invitation, and it was not a dismissal. It was the look she used when she wanted him to understand there would be room for him if he chose to come, but she would not drag him by the collar.
+They went on toward the lake, Silena carrying her shell carefully, and Percy returned to the cabin with the empty hamper. The sea had given them something to talk about, but not a single story they were all obliged to tell the same way. He could thank Amphitrite without making his sisters' feelings part of the bargain.
 
-Catching her meaning at once, he nodded. “I’ll unpack. I’ll see you at dinner.”
-
-“If you get lost on the way, ask the orange,” Clarisse said.
-
-“I’ll ask the orange.”
-
-They continued toward the lake, shoulder to shoulder. Clarisse carried the shell now, keeping it cupped carefully in her palm. Silena spoke to her in a low voice that the breeze took away before Percy could make out the words.
-
-Until the two of them disappeared behind the old sycamore, its bark rough and sun-spotted, he kept watching.
 
 ---
 
