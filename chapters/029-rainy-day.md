@@ -458,6 +458,168 @@ She gave him the correction, then let him mark the job completed himself. Outsid
 ---
 
 
+The argument began over the rules of Spite and Malice.
+
+Thalia wanted to play the version their mother had taught her when she was little. Annabeth had written those rules down after a recent evening of cards, and she was trying to follow them exactly. The trouble was that Thalia kept changing them when the game became inconvenient.
+
+"You can't play a second wild card on that pile," Annabeth said.
+
+"I can. Mom always let me."
+
+"You told me yesterday that you couldn't."
+
+"Yesterday you were ahead by thirty points."
+
+"That's not a rule."
+
+Thalia put down her hand. They were sitting on the carpet in Cabin One, and Percy had left ten minutes earlier to help Silena find another deck for the younger campers. The rain beat against the high windows. There was nowhere to escape the conversation without walking into a storm.
+
+"I was joking," Thalia said.
+
+"I know. But if the whole game is based on rules I can't remember, and you keep changing them, then I'm not actually playing the game you remember."
+
+Thalia looked at her sister. It was a reasonable complaint. She felt criticized anyway.
+
+"Why does every little thing have to turn into a discussion about the memories?"
+
+"It doesn't. You brought up Mom."
+
+"Because Mom taught me the game."
+
+"And I want you to teach it to me, not use that as proof you can do whatever you like."
+
+Thalia looked away. She missed the sound of Beryl laughing at their old kitchen table, calling her a cheat and changing the rules herself when she was losing. It had been one of the good evenings, the sort that made the bad ones more difficult to explain. She had wanted the game to feel light. Annabeth kept asking questions that made her remember how little of the old household they now shared.
+
+"Fine," she said. "Use the written rules. I'm done."
+
+Annabeth stared at her. "That's not what I wanted."
+
+"It's what you asked."
+
+"I asked you to stop making up exceptions."
+
+"Then congratulations. You've won the rules."
+
+Thalia stood, picked up the empty cups and went into the washroom. She was angry enough that she almost slammed the door. She stopped herself at the last moment because the noise would make Annabeth think something was wrong.
+
+She rinsed the cups slowly. Her own face in the mirror looked older than sixteen, though she knew that was mostly exhaustion. She had spent the morning doing nothing more exciting than listening to rain and trying to keep a group of children entertained. It should not have been so easy to hurt her feelings.
+
+When she returned, Annabeth had put the cards back in their box. She sat on the edge of her bunk with a book open, though she wasn't reading it.
+
+"Do you want me to leave?" Thalia asked.
+
+"No."
+
+"Are you still angry?"
+
+"Yes."
+
+"Fair."
+
+They sat in silence for a moment. Outside, someone splashed through the path calling for dry socks. Thalia remembered that Silena had organized a collection of spare clothes and made a note to ask whether the Zeus cabin had anything to contribute.
+
+"I shouldn't have changed the rules," she said finally.
+
+Annabeth closed the book.
+
+"You don't have to make everything fair all the time," she said. "But if you want to play the game the way Mom taught it, tell me the real version. I don't have the memories to check you."
+
+Thalia sat opposite her. "There isn't one real version. She made up rules when she was in a good mood. She cheated and told us it was part of the fun."
+
+"Then that's the game you wanted to play."
+
+"Yes."
+
+"Why didn't you say so?"
+
+"Because I thought you'd hate it."
+
+Annabeth considered. She liked rules because a fair system told everybody what they could expect. She disliked it when people changed the terms after she'd committed herself. But she was curious about the kind of game that belonged to their mother, even if it would never have been accepted at a tournament.
+
+"I might like it if we agree from the start that the rules can change," she said. "I just don't want to be surprised when I'm trying to make a move."
+
+Thalia smiled reluctantly. "That's going to ruin the cheating."
+
+"You can still cheat. I'll just accuse you of cheating when you do."
+
+"That's more like Mom."
+
+Annabeth put the book aside. The two girls looked at the cards but neither reached for them yet.
+
+"I don't remember her cheating," Annabeth said quietly.
+
+"I know."
+
+"Sometimes when you tell me a nice story, I feel jealous of myself."
+
+Thalia looked up. She had never heard Annabeth phrase it that way.
+
+"What do you mean?"
+
+"The little girl in your stories had you and Mom and Jason. She did all these things I can't remember. She got to play cards with Mom on good days. I know there were terrible days too. I don't wish I'd been there for those. But I don't know why I can't have some ordinary piece of that childhood in my head."
+
+Thalia thought of the family photo in the trunk and the way Annabeth had traced the edge without claiming she recognized the day. There was no answer she could give that would restore those years.
+
+"I wish you could," she said. "I get angry because I remember the bad things and I don't want anyone treating the good things as proof they weren't real. And then I get angry again when you don't know the good things. It doesn't make any sense."
+
+"It makes some sense."
+
+"No, it doesn't."
+
+"Both things can be true," Annabeth said. "That's what you told me about the picture."
+
+Thalia remembered. It irritated her to hear her own advice turned back on her, especially when it was correct.
+
+"All right," she said. "How do you want to play?"
+
+Annabeth thought for a moment. "One game with fixed rules. Then one where we're allowed to invent a stupid rule at the start of each round, provided we announce it before either of us plays."
+
+Thalia grinned. "What kind of stupid rule?"
+
+"Wild cards must be introduced with a dramatic insult."
+
+"To the other player?"
+
+"To the card."
+
+"That's very stupid."
+
+"Thank you."
+
+They dealt the first game. Thalia lost by twelve points and accused Annabeth of keeping better track than any child had a right to. Annabeth laughed. In the second game Thalia announced that all black cards had to be played with the left hand, and Annabeth countered with a requirement to speak in formal Ancient Greek whenever somebody discarded a king.
+
+They were halfway through the third round when Percy returned with an extra deck and found them sitting on the carpet, arguing in languages he didn't understand.
+
+"Is this a spell?" he asked.
+
+"No," Annabeth replied. "It's family history."
+
+He glanced at the cards. "Am I supposed to understand the rules?"
+
+"Nobody does," Thalia said. "That's the entire game."
+
+He sat on the floor, accepted the spare deck and watched them play. After five minutes he announced that his own contribution would be a rule requiring the loser to provide snacks.
+
+"You can't change the rules in the middle of a round," Annabeth said.
+
+"I thought that was the point."
+
+"Only at the start," Thalia corrected, delighted by the chance to be the one enforcing a rule.
+
+Percy looked between them and surrendered. The three played until Silena called from the hall that the rain had washed out part of the path and everyone needed to stay indoors.
+
+Annabeth won the final round. Thalia made a show of throwing down her cards, then asked if she could write the new rules on the back of the original list.
+
+"Why?" Annabeth asked.
+
+"Because this version belongs to us."
+
+Annabeth handed her the pencil. Thalia wrote the ridiculous exceptions in large, uneven letters beneath the formal rules and signed the paper with a little lightning bolt. Percy added a fish. Annabeth pretended to object, then drew an owl in the corner.
+
+The next time they played, they would remember which rules had been made up on a rainy afternoon rather than inherited from a childhood one sister couldn't recall. It wasn't the game their mother had taught Thalia. It was one more ordinary thing the sisters had made together.
+
+---
+
 Bianca di Angelo had a system for hot cider.
 
 It had to be very hot, with two cinnamon sticks, and you had to cup it with both hands and blow on it three times before the first sip or it burned your tongue off. Nico always forgot and burned his tongue off and then complained. Every time. Without fail. Little brothers were predictable.
