@@ -3786,3 +3786,73 @@ She found the photograph in her book, looked at it once, and put it back. The sh
 Tomorrow she would wake, work, and do everything she usually did. She would also look forward to his answer. There was no reason those things could not coexist.
 
 ---
+
+The first letter arrived on Friday.
+
+Thalia found it tucked under the door of Cabin One, a narrow envelope with her name written in Rhys's slanted block capitals. Someone had added a little note in the corner to explain that the delivery had come with the morning camp mail. She picked it up and stood looking at it for an unreasonable length of time.
+
+She had spent four days imagining what he would write. She had not expected the sight of the envelope to make her nervous.
+
+She took it outside to the porch, sat on the top step, and opened it carefully.
+
+*Thalia,*
+
+*I arrived in one piece, although the train did its best to convince me otherwise. There was a delay at the second stop. A man tried to carry a chair through the narrowest doorway on the carriage and ended up trapping himself between two seats. I am telling you this because you would have had several opinions about his technique, all of them correct.*
+
+Thalia smiled.
+
+*My mother says hello. She has been behaving as if I am both a guest and a repairman. I have moved furniture, checked the back door, and discovered that the kitchen cupboard still refuses to close properly. She says I am not allowed to complain about any of it because I once broke the same cupboard when I was younger. I pointed out that the event was years ago. She said history is not a defense.*
+
+*I showed her the photograph. She said you look like someone who knows exactly what she wants. I didn't argue, although I think she is going to be disappointed when she discovers how often you change your mind about whether you want tea.*
+
+*I miss you.*
+
+The words stood alone on the page. Thalia looked at them for a long moment. There was no joke attached, no elaborate explanation. He had written the truth and let it remain visible.
+
+She continued.
+
+*I miss the way you take over a room without noticing. I miss having somebody tell me when my bowstring is wrong and then accuse me of knowing it all along. I miss the way you kiss me when you're tired of arguing, although I would like to point out that sometimes I am enjoying the argument and you are interrupting excellent work.*
+
+*I don't know how long I'll be here yet. There's more to do than my mother admitted in her letter, but less than I feared when I arrived. I can give you a better answer next week. I will not pretend it's a short visit just to make you feel better. I also don't want you thinking I've forgotten you because I'm fixing a door.*
+
+*Write when you have something to tell me. Write when you're annoyed. Write when you've had a good day. I would rather hear the truth than get a perfectly cheerful letter that doesn't sound like you.*
+
+*Rhys.*
+
+At the bottom he'd drawn a small target and placed an arrow just outside the center.
+
+*I did this on purpose. You can stop judging my technique.*
+
+Thalia laughed aloud.
+
+She read the letter again. The second time she slowed at the part about his mother, picturing him in a small kitchen arguing with a stubborn cupboard. She knew he was busy. She was glad. The letter made it easier to imagine his life continuing outside camp without treating that continuation as evidence that he had become less interested in her.
+
+She folded the page and put it back in the envelope.
+
+For a while she sat on the porch with the letter in her hands. She thought of writing back immediately, before breakfast, to prove that she'd been waiting. Then she realized he had specifically asked her to write when she had something to tell him, and she was entitled to wait until she knew what that thing was.
+
+She took the envelope inside and placed it beside the photograph on her desk.
+
+By afternoon she'd found several things to tell him. A target frame had been repaired badly enough that she'd had to insist it be done again. The weather had turned warmer for two hours and then colder, as if the sky had changed its mind. Someone had left a terrible new message on the Apollo slate. And she had caught herself humming his unfinished melody while carrying a bucket, which was a deeply embarrassing fact she intended to deny if challenged.
+
+She wrote the reply after supper.
+
+*Your mother sounds sensible. I approve of her position on the cupboard. I am glad you got there safely, although I would have paid money to watch you help the man with the chair.*
+
+*The camp is still standing. I have not reorganized your cabin. The socks are still mine for now. The photograph is where I can find it, and I have looked at it exactly once today, which is a very dignified amount.*
+
+She stopped, then added:
+
+*I miss you too. I want to see you when you return, and I don't want you rushing home before you've done what you came to do. Both things are true. You can cope with the contradiction.*
+
+She looked at the sentence. It sounded exactly like something she'd say aloud, and she was pleased with it.
+
+Then she wrote a short final paragraph about the target he'd drawn, explaining in merciless detail why its arrow placement showed poor wrist alignment. She knew he'd laugh. She could picture his face when he reached that part of the letter, and the image pleased her more than she expected.
+
+She sealed the envelope and put it with the outgoing mail.
+
+That night she read his letter once more before turning down the lamp. The words hadn't answered every question about the future. They had done something more modest and more useful: they had made him present for a few minutes without requiring either of them to pretend distance didn't exist.
+
+She could live with that.
+
+---
