@@ -508,7 +508,79 @@ Family, the sea whispered. Not by blood alone. By choice. By holding on.
 
 Percy reached out with his cut hand and found Annabeth's burned fingertips and Thalia's scraped knuckles and Grover's hoof-worn palm and pulled them all in shoulder to shoulder in the surf. They leaned on each other, too tired to stand, too wired to sleep, listening to the waves come in steady and sure.
 
-The bolt hummed above the disturbed sand. The solstice and Olympus and war still loomed.
+The answer from Olympus came through a woman wearing a gray summer dress and an expression that suggested she'd seen the entire history of bureaucratic mistakes and found none of them surprising.
+
+She arrived from the city side of the beach, walking in ordinary sandals. The people near the pier moved around her without looking directly at her. She carried a cylindrical case no longer than Percy's forearm and a stack of folded papers.
+
+"Representative of the Olympian armory," she told Annabeth. "Chiron asked for an authorized containment specialist. Who first observed the exposed weapon?"
+
+"We did," Annabeth said. "All four of us."
+
+"Who touched it after the case opened?"
+
+"Nobody," Percy answered.
+
+The woman checked the bright shape above the sand. She did not reach for it immediately.
+
+"Good."
+
+She made each of them describe the sequence separately. Percy told her about the strap breaking and the case falling. Annabeth described the damaged lining. Thalia identified where Ares had been standing when he abandoned the weapon. Grover recalled the moment the beach grass had slowed the god's step.
+
+Their accounts weren't identical. Percy had been facing the surf during part of the exchange; Grover had been farther up the beach, and his view was partly blocked by the grass. The woman didn't demand that they agree on what none of them could have seen.
+
+"These accounts will be filed separately," she said. "Do not revise yours because somebody else remembers a different angle."
+
+Percy liked that. He'd spent most of the quest assuming the right story would be the one that explained everything. The woman seemed more concerned with what each person could actually testify to.
+
+She opened her case. It unfolded in sections, becoming a dark metal sheath covered in tiny inscriptions Percy could read only when he didn't look directly at them. The bolt tilted, drawn toward it.
+
+The woman placed the container beneath the weapon and spoke a command in Ancient Greek. The bolt contracted, the way Riptide changed from sword to pen, and slid into the protective sheath. A lid closed over it with a sound like the last note of a bell.
+
+Percy felt the pressure in his teeth disappear. He hadn't realized how tightly he'd been holding his jaw.
+
+"Can you take it to Zeus?" he asked.
+
+"Yes. I am authorized to carry it to the receiving chamber on Olympus. You four may accompany me under Chiron's quest authorization, but none of you is required to carry the weapon personally."
+
+Thalia looked toward the now-empty patch of sand.
+
+"Will Zeus know Ares brought it here?"
+
+"He will receive your statements. The case itself can be examined for traces of the previous container. I cannot promise what conclusion he will draw."
+
+Annabeth's face tightened. Percy knew what she was thinking. Their father could see evidence of his son's involvement and still choose to blame Poseidon if he preferred that explanation. But that was a problem they couldn't settle by making louder accusations on a beach.
+
+"Do we need to leave now?" Grover asked.
+
+"Not until a clinician has checked the injuries Chiron reported," the woman answered. "The solstice is tomorrow. I have already informed the receiving chamber that the weapon is secured and returning. The court can arrange transport to Manhattan after your party is fit to move."
+
+Percy stared at her.
+
+"So we don't have to run all night?"
+
+"No."
+
+"You could have said that before we fought a war god."
+
+"I wasn't here before you fought a war god," she replied.
+
+Thalia laughed so abruptly she had to sit down again.
+
+The woman put her papers away and remained beside the sealed container while Martin arrived from the road. He saw the group and went pale at the blood on Percy's face.
+
+"I was told you were meeting somebody," he said.
+
+"We did," Grover answered.
+
+"Not exactly the sort of meeting I had in mind."
+
+Percy held up one hand. "Before you say anything, nobody stole the van."
+
+Martin looked at him for a very long moment. "That's not what I was worried about."
+
+Percy sat back in the sand. Chiron had found a way for the dangerous weapon to be handled by somebody with the actual authority and skill to do it. That was a better outcome than four injured children carrying it into a taxi and hoping the Mist made the driver ignore the humming.
+
+The sealed container rested under guard beside the retreating tide. The solstice and Olympus and war still loomed.
 
 But for this minute, on this beach, with the sea remembering their names and holding them up, they were together. They had survived a god's fury. Percy knew that was not the same as being stronger than him.
 
