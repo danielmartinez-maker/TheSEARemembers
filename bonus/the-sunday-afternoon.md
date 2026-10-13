@@ -8928,3 +8928,245 @@ She looked up at him, smiling.
 He laughed, and she kissed him again.
 
 ---
+
+## February 24: The Letter He Signed
+
+The ten days were almost up.
+
+Rhys had written three versions of his answer to the ensemble and left all three on the table. Each was competent. Each contained a slightly different excuse for why he hadn't already written yes.
+
+Thalia found him looking at the pages with an expression she'd learned to recognize.
+
+"You're avoiding it."
+
+"I'm deciding."
+
+"You've decided."
+
+He looked up, irritated. "You don't know that."
+
+She stopped in the doorway.
+
+He was right. She had spent the last week talking about what she thought he ought to do, reading the terms, identifying the clauses that needed clarification and considering how the tour might fit around their lives. But she could not make the choice for him, and she had no right to treat a decision he had to live with as a formality.
+
+"You're right," she said.
+
+He looked startled.
+
+"Please put that in writing."
+
+"Don't get greedy."
+
+She took off her coat and sat on the edge of the cot. He returned to the papers, but after a moment he pushed them aside.
+
+"I'm afraid of accepting," he said.
+
+"I know."
+
+"I want the work. I want to see if I can do it. But I don't want to come home and find I've made a mistake about everything else."
+
+Thalia looked at him. The word *home* caught her attention, though she decided not to make it into a subject yet.
+
+"You'll make mistakes," she said.
+
+"Thank you."
+
+"I will too. The students will. Chiron will. Your mother will rearrange another kitchen and probably blame you."
+
+He laughed reluctantly.
+
+"The question isn't whether you'll be wrong about something," she continued. "It's whether the work is worth trying."
+
+He sat still.
+
+"Is it?" she asked.
+
+He looked at the three letters. Then he folded the first two, put them aside and reached for the third.
+
+"Yes," he said.
+
+Thalia watched him sign it.
+
+There was no great ceremony. His hand moved across the paper in the same slanted handwriting she'd come to recognize from the letters he sent her in November. He wrote his name, checked the address and folded the page into an envelope.
+
+When he finished, he looked at her.
+
+"That's it."
+
+She smiled. "You did it."
+
+He looked pleased and a little frightened.
+
+She stood, crossed the small space between them and kissed him.
+
+It was not a kiss meant to convince him he'd chosen correctly. She didn't know that. Neither did he. It was a kiss because he'd made a difficult decision honestly, and because she was proud of him for taking responsibility for what he wanted.
+
+He caught her close, his hands warm against her back, and she felt his answering enthusiasm with such certainty that she laughed against his mouth.
+
+"What?" he asked.
+
+"Nothing."
+
+"That's a dangerous nothing."
+
+"I'm pleased with you."
+
+He looked at her for a moment.
+
+"That may be the nicest thing you've ever said."
+
+"Don't make me repeat it."
+
+He kissed her again.
+
+***
+
+They mailed the letter before supper.
+
+Thalia insisted on accompanying him because she wanted to witness the final act, and he insisted she was behaving like a supervisor auditing a delivery. Both statements were true.
+
+At the outgoing-mail box he held the envelope for one last second, then slipped it inside.
+
+"There," he said.
+
+"Now you can't take it back."
+
+"Not without committing a fairly serious offense against the mail service."
+
+"Don't be dramatic."
+
+They walked back toward the pavilion hand in hand.
+
+The camp was settling into its evening routine. Smoke rose from the chimneys, and the west path lanterns had begun to light. A few younger campers passed them carrying wood, arguing about whose turn it was to stack the last pieces. Thalia recognized the conversation. She had spent a good part of her childhood having versions of it with Annabeth, learning how to make a household work when nobody wanted to do the dull jobs.
+
+Rhys squeezed her hand.
+
+"What are you thinking?"
+
+"That we should eat."
+
+"An unusually practical answer."
+
+"I've had a long day."
+
+He looked toward the dining pavilion.
+
+"Come by after?"
+
+She considered. "I have the final advanced-session report to finish."
+
+"Then finish it."
+
+"I could come late."
+
+"I'd like that."
+
+She looked at him. The invitation was simple. They had made enough decisions for one afternoon; there was no need to turn tonight into an attempt to solve the entire spring.
+
+"I'll come," she said.
+
+His smile warmed.
+
+***
+
+She arrived after nine, carrying her completed report in a canvas case.
+
+Rhys opened the door, looked at the case and groaned.
+
+"You brought the report."
+
+"It's finished."
+
+"Then why are you carrying it?"
+
+"Because I wanted to show you the final numbers."
+
+He leaned against the doorframe.
+
+"You're unbelievable."
+
+"Frequently."
+
+She held out the report. He took it, set it on the table without opening it and stepped toward her.
+
+"Tomorrow," he said.
+
+She smiled. "Tomorrow."
+
+He kissed her, and she moved close at once. The day had been full of choices that required careful thought; this one required none. She had wanted him since she watched him sign the letter, and he was meeting her with the same unmistakable desire. His hand settled at the back of her neck; hers found the familiar line of his shoulder. She liked how naturally they moved together now, without either having to turn each touch into a question.
+
+She took off her coat. He hung it on the hook. When he came back, she was waiting with a smile he recognized well enough to answer before she said anything.
+
+"Very patient," he murmured.
+
+"Not especially."
+
+She kissed him again.
+
+The room was warm, the stove low and the workbench clear. They had been planning an evening for themselves all week without admitting it, and now that they were here, the rest of the world could wait a little.
+
+He drew her toward the cot. She followed, laughing when he stepped on the edge of the blanket and nearly pulled it onto the floor. He caught it, and she caught him, and for a moment neither could kiss the other because they were laughing too hard.
+
+Then the laughter settled.
+
+Thalia touched his cheek and looked at him. There was no performance in his face, only pleasure and the familiar trust they'd learned through months of imperfect evenings together. She wanted him. He wanted her. They stayed close as the lamp went low.
+
+The rest of the night was private.
+
+***
+
+In the morning, Thalia woke to find her report open on the table.
+
+Rhys was sitting beside it with a pencil in his hand. He had already made three notes and was studying the section on student evaluation with the kind of attention that made her like him in the first place.
+
+She lay still for a moment, watching him.
+
+He looked up.
+
+"Morning."
+
+"You're reading my report."
+
+"You brought it."
+
+"I told you to read it tomorrow."
+
+"It is tomorrow."
+
+She groaned. He smiled, pleased with himself.
+
+"Any errors?" she asked.
+
+"One."
+
+"Where?"
+
+He pointed at the page.
+
+She sat up, pulled the blanket around her shoulders and came over to look. The mistake was small but real: a percentage had been calculated using the wrong group of students. She stared at it, then at him.
+
+"You're enjoying this."
+
+"Immensely."
+
+She took the pencil, corrected the number and put it down.
+
+"Better?"
+
+"Much."
+
+He leaned closer and kissed her cheek.
+
+"Your program is good," he said.
+
+She looked at the report. The students had learned something. The design was working. She had made changes when evidence showed she needed to, and she had protected the parts that mattered when other instructors had wanted to simplify everything into a competition.
+
+"So is your music," she said.
+
+He smiled.
+
+They had both chosen work they cared about. They would both be busy. They would both leave sometimes. That was not a defect in the relationship.
+
+Thalia rested her hand against his and leaned in to kiss him once more before the day began.
+
+---
