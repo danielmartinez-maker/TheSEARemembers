@@ -328,6 +328,108 @@ Annabeth wrote in her book, in her neatest letters: *SHADOW NICHE — north wall
 
 ---
 
+Before Annabeth wrote the proposal, she had to learn what the ground beneath the hollow could hold.
+
+It was the first question Beckendorf asked when she showed him the drawing. She had drawn a shallow foundation for the low walls, a central floor of reclaimed tile and a roof light enough to leave the middle open. He put the drawing on his workbench and pointed to the three olive trees.
+
+"How close is the nearest footing to that root?"
+
+Annabeth checked her notes. "Two feet."
+
+"From the trunk or from the root itself?"
+
+"From the trunk."
+
+"Then you haven't measured the root."
+
+She looked at him. The difference had seemed trivial while she was drawing, because the trees looked stable and the foundation was small. Now she imagined a branch extending beneath the earth exactly where she intended to dig.
+
+"So we need a site survey."
+
+"At least a shallow one. And you have to ask Grover whether the trees can tolerate work that close to them. I'm not putting a building up that makes the next storm more likely to bring an olive tree down."
+
+They went to the site with a measuring rod, several wooden stakes and a folded piece of tracing paper. Grover came because he knew the dryads who worked the grove. One of them met them at the edge of the shade and listened to their plan without being particularly impressed by the drawings.
+
+"People always think roots end where they can no longer see them," she said.
+
+Annabeth bristled. "I know they extend beyond the crown."
+
+"Then why have you drawn a wall through the ground they occupy?"
+
+It was a fair question, and she disliked it on principle. She looked at the plan, then asked where the largest roots traveled. The dryad showed them by touching the earth and making a slight movement ripple through the surface where the old roots lay close to the top. It wasn't a complete map. The smaller roots remained unseen.
+
+"We'll keep the foundations outside this area," Annabeth said.
+
+"And what about the rain?" the dryad asked.
+
+Annabeth looked at the slope. Water came down from the higher meadow, passed between two trees and drained toward the strawberry fields. Her open central floor would catch some of it. The low wall on the west side might obstruct the rest.
+
+Beckendorf gave her the measuring rod. "Walk it."
+
+She did, following the faint channel where last week's rain had left darker soil. It passed almost through the center of her plan. She had placed the water feature there because it looked beautiful in the morning light. She hadn't asked where the water already wanted to go.
+
+Percy arrived halfway through the survey, carrying a basket of tools from the forge.
+
+"You found something?" he asked.
+
+"The ground is doing exactly what it's always done," Annabeth said. "I drew a building across it."
+
+Percy set down the basket and crouched beside the channel. He could feel the moisture moving beneath the soil, but not without concentrating. He didn't offer to redirect it. He asked where the flow went after it reached the lower path.
+
+"Toward the fields," Grover said. "The plants need some of it. The rest goes into the drainage trench."
+
+"Then we shouldn't block it."
+
+"Yes," Annabeth replied. "That's what we've established."
+
+He looked at her, surprised by her sharpness. She knew he wasn't the source of the problem, and that made her irritation worse.
+
+"Sorry," she said. "I thought the design was almost done. Every time I ask someone to check it, I find another thing I missed."
+
+"That means they're checking it properly," Beckendorf said.
+
+Annabeth almost argued. Then she remembered the climbing wall's stop cord, which she had insisted be tested before anyone used it. Nobody had accused her of ruining the competition by finding a problem. She had accepted the delay because the correction made everyone safer.
+
+"All right," she said. "I need another sheet of paper."
+
+She set the tracing sheet over the drawing and marked the known root zones and water channel in different pencil strokes. The result left a clear crescent of ground between the trees, smaller than her original footprint.
+
+"Could the roof fit here?" she asked Beckendorf.
+
+"If the supports are independent of the roots and we test the soil."
+
+"Then the walls have to move inward."
+
+"Or you build fewer of them."
+
+She examined the possibility. A lower structure would leave more of the hollow open and require fewer materials. She had been planning eight pillars because eight friends had helped make the idea possible. There was no reason the support system had to number eight if four pillars could hold the roof. The friends could still be represented in the mosaic, which didn't need deep excavation.
+
+"Four pillars," she said. "A lighter roof. No fountain pipes. The water can pass outside the floor along the existing channel."
+
+Grover looked toward the dryad. She nodded.
+
+"That would leave the roots alone," she said. "I still want to see where the workers plan to store the timber. Don't pile it against the trunks."
+
+Annabeth wrote the condition down. She knew the meeting had become longer than anyone expected. She also felt the small pleasure of a design growing more honest as it changed.
+
+When they finished, she asked Percy to carry the stakes back to the workbench. He did, then waited while she folded the tracing paper.
+
+"Are you upset I asked about the water?" he said.
+
+"No. I was embarrassed that I hadn't."
+
+"You notice things I miss all the time."
+
+"That doesn't mean I like missing things."
+
+"I know."
+
+She smiled reluctantly. They had spent years in another life learning how to divide a problem into the things she could calculate and the things he could feel. Here the task was quieter, but the skill mattered just as much.
+
+She rolled the revised plan. It wasn't yet ready for Chiron. It was finally ready for somebody to judge on its merits rather than on what she'd imagined the site looked like.
+
+---
+
 The proposal to Chiron was seven pages long.
 
 Annabeth stayed up late two nights in a row — not ALL night, because Chiron had said to sleep, but until the cabin lights flickered — drafting it at the little desk by the window in Cabin One while Thalia braided her hair and quizzed her on measurements.
