@@ -676,6 +676,132 @@ Annabeth's face lit up. "Yes. Show me how we used to do it?"
 
 ---
 
+Grover vanished during lunch.
+
+Percy wasn't especially worried at first. There were plenty of reasons a satyr might disappear from a warm dining pavilion, particularly one serving roasted vegetables and cheese sandwiches. But Juniper came to the table with snow on her hair and asked whether anyone had seen him, and the way she asked made Percy put down his food.
+
+"He's by the north fence," she said when she caught her breath. "I told him I'd check the serviceberry after the snowfall, but he went ahead."
+
+Percy remembered the little tree they'd planted for Grover's uncle before the Searcher route began. It was scarcely more than a stick now, its leaves gone for winter. He'd seen it last week from the path but hadn't inspected the ties or the trunk.
+
+"Is it damaged?"
+
+"I don't know. I saw his footprints near the fence and couldn't find him when I called."
+
+Thalia stood. "We'll help look."
+
+"Not all of us," Annabeth said. "If Grover just went to check a tree, arriving with fifteen people will make him think he's done something terrible."
+
+She was right. Percy took his coat and followed Juniper, while the others promised to watch for Grover if he came back to the pavilion.
+
+They found him kneeling beside the serviceberry with his back to the path. Snow had piled around the little protective fence. A thin branch stuck out at an odd angle, and the canvas wrap had come loose where the wind had caught it.
+
+Grover was holding the torn wrap in his lap.
+
+"Hey," Percy said.
+
+Grover turned. His expression went through surprise, irritation and finally embarrassment.
+
+"Juniper said she'd check it. I know."
+
+"So why are you out here?"
+
+"I wanted to see it myself."
+
+Juniper crouched beside the tree. She didn't scold him for coming. She examined the bark where the branch had bent and told him which part was still living.
+
+"It's not broken through the trunk," she said. "The wrap came loose, and the branch took the weight. We can prune the damaged bit later, after checking where it split."
+
+Grover looked unconvinced.
+
+"I wasn't here when the snow started."
+
+"You were doing your Searcher training," Juniper reminded him. "You can't be in two places."
+
+"I know."
+
+Percy watched him pick snow from the base of the little sapling. Ferdinand was still in the recovery team's care, his case open. Grover's route had taken him through forests far from camp, and he'd been writing reports about the conditions there. Percy wondered whether the tree had become a place where he could imagine doing something for his uncle when he couldn't visit the recovery center.
+
+"Did the Council send news?" Percy asked.
+
+"Not yet. I sent the last report when I reached camp. They said they'd review it after the break."
+
+"You did the work."
+
+"Yes."
+
+"Then you don't have to prove you're still doing the work by standing out here freezing."
+
+Grover shot him a glare.
+
+Percy sighed. "All right. That sounded like Silena."
+
+"More like Chiron."
+
+"Worse."
+
+Juniper smiled faintly. She fetched a new length of tree wrap from the groundskeeper's supply box and asked Grover to hold the stake while she secured it. Percy brushed away the heavy snow near the protective fence. They didn't shake the branches violently or pull at the frozen bark. Juniper insisted they leave the snow close to the roots where it insulated the ground, moving only the weight pressing against the young stem.
+
+The work took twenty minutes. At the end the tree looked much as it had before, except for the damaged branch and the fresh wrap.
+
+Grover inspected it closely.
+
+"Will it grow back?"
+
+"The tree can grow around this," Juniper said. "We don't know exactly what the top will look like next summer, but the roots are healthy."
+
+He nodded, finally looking relieved.
+
+"Then we should put the pruning on the spring list," Percy said.
+
+"Already done," Juniper answered, holding up a small card.
+
+Percy laughed. He knew now why Annabeth liked Juniper. Neither trusted a promise until someone had written down who was responsible for carrying it out.
+
+Grover stood and brushed the snow from his trousers.
+
+"Ferdinand would say I worried too much."
+
+"What would you say?" Percy asked.
+
+"I'd say he worried about me when I was small. Seems fair that I should get to worry about him now."
+
+Percy didn't tell him to stop. He had heard that sort of worry in Clarisse's voice and in Thalia's when she asked after Jason. It didn't disappear when somebody supplied a tidy explanation.
+
+Juniper brushed a little snow from Grover's sleeve.
+
+"Come back inside," she said. "Your cider's probably cold."
+
+"Cider can be reheated."
+
+"Your fingers can't, if you stand out here forever."
+
+Grover took the hint.
+
+On their way past the north irrigation ditch, Percy stopped to inspect the board they'd installed before the quest. The channel was shallow beneath its rim of ice, but the board remained firmly in place. The water was moving where it should. It looked ordinary. Percy found himself strangely proud of it.
+
+Grover saw him looking.
+
+"That one's still holding," he said.
+
+"Yeah."
+
+"I guess not everything needs fixing every time it snows."
+
+Percy thought of the shutter, the roof and the serviceberry.
+
+"Only the parts that do."
+
+Grover rolled his eyes. "You're turning into a camp maintenance pamphlet."
+
+"Better than a prophecy."
+
+They went back to the pavilion. Juniper asked the cooks for fresh hot cider, and Grover sat down with the rest of them without pretending that his fingers weren't numb. Percy looked toward the snowman teams gathering outside and wondered what Clarisse had managed to build while he'd been gone.
+
+He hoped it was something ridiculous.
+
+---
+
 Judging at sunset drew the whole camp to the parade ground.
 
 The snow had stopped. The sky cleared to pale gold and pink.
