@@ -196,45 +196,109 @@ Zoë looked away, ears red again. “Someone had to keep order. The Poseidon cab
 
 Clarisse snorted. “She missed us. She just speaks Hunter.”
 
-And then there was Nico.
+Later, when the pavilion had thinned out, Chiron asked Percy and his sisters to join him at the Big House.
 
-Nico di Angelo stood at the edge of the pavilion like he wasn’t sure he was allowed to come closer, ten years old and too thin, his black Stygian sword still too big for him, his green cap twisted in his hands. Bianca was behind him with a hand on his shoulder, watching the crowd with wary dark eyes. Hades had let them go — not free, not exactly, but up for the summer, to see the world they had missed while they slept in the Lotus Hotel. A gesture of good faith. A reminder that even the Lord of the Dead could be a father.
+There were two visitors waiting in the sitting room. Percy recognized them from Hades's court even before he could make out their faces. Nico stood close to a chair, clutching his green cap. Bianca sat beside him with her arms folded, looking as though she was trying to decide whether she could trust a room full of living people.
 
-Percy saw him and stood up so fast his bench tipped.
+"Nico?" Percy asked.
 
-“Nico!”
+The boy looked up and grinned, so suddenly that Percy felt his own face respond.
 
-Nico lit up like someone had turned a light on inside him. He ran full tilt across the pavilion and Percy caught him and swung him around while everyone cheered.
+"You said the camp had pizza," Nico said.
 
-“You came! You really came!” Percy said.
+"We do."
 
-“You said there was pizza,” Nico said solemnly, then ruined it by grinning so wide his cheeks hurt. “And Bianca said I could learn to swordfight from Clarisse if I was brave.”
+"Bianca said we couldn't ask you about it until we got permission to come."
 
-“You were brave in the palace,” Percy told him. “You stood by the throne and didn’t flinch. That counts.”
+Chiron held up a sealed message.
 
-Clarisse crouched down to Nico’s level, which was terrifying and kind at the same time. “You want to learn the sword, little ghost?” she said. “First lesson: never drop it. Second lesson: always eat before practice. Here.” She handed him her entire second plate.
+"The request came through Hades's court," he said. "They have permission for a supervised summer visit, with the conditions agreed to by their guardian. The terms include confidentiality about their residence and movements. These are not details to be repeated to the Olympian court."
 
-Nico took it with wide eyes. “Really?”
+Percy glanced at Thalia and Annabeth. They'd sworn to protect the children in Hades's care, and the fact the visitors had come to camp now did not cancel the need for discretion.
 
-“Poseidon cabin shares,” Silena said, sitting down next to Bianca and patting the bench. “Come sit, Bianca. Tell us what books you liked before — Ella will find them for you.”
+"We didn't tell Zeus where you were," Annabeth said to Bianca.
 
-Bianca hesitated, then sat. Ella immediately climbed into her lap and began reciting titles at speed. Zoë sat on Bianca’s other side with her bow across her knees and began quietly correcting Ella’s pronunciation, which Ella loved. Nico climbed up next to Percy and talked with his mouth full about the elevator ride up from the Underworld and how Grover had been frightened in the backseat and how Annabeth had let him hold her Yankees cap for luck.
+"I know," Bianca answered. "Father told us he received no report from you on that question."
 
-Percy listened and watched his sisters folding these strange new kids into camp like they had always belonged, and his chest ached in a good way.
+Thalia studied her. "You chose to come here?"
 
-Bianca told Silena quietly that Nico had not slept well since they came up, that elevators scared him and sunlight gave him headaches and he kept asking if Hades would change his mind. Silena listened with her full attention, the way she always did, and then she took Bianca’s hand and said, “Then we’ll make sure he’s too busy and too loved to worry. Archery with Zoë in the morning. Sword with Clarisse after lunch. Ella will read to him at night. And you — you’re sleeping in my cabin until we build you something better. No arguments. Sisters look out for each other.”
+Bianca nodded. "I wanted Nico to see somewhere besides the palace. I wanted him to meet people his own age. That isn't the same as promising we'll stay forever."
 
-Bianca’s eyes filled. “You don’t even know us.”
+Nico looked disappointed.
 
-“We know enough,” Clarisse said gruffly, handing Bianca a second cookie like it was a weapon. “You kept your brother alive in the palace of Hades. That’s camp material right there.”
+"I want to stay if they have sword lessons."
 
-Ella climbed onto the table and declared, “Bianca di Angelo! Nico di Angelo! New chapters! Ella will remember you! ‘And the camp grew by two, which is good, because love multiplies when divided, page one!’”
+"One day at a time," Bianca told him.
 
-Zoë reached up and gently lifted Ella down off the table. “Thou canst not shelve people, little one.”
+Percy liked the way she refused to make the boy a promise nobody had authorized. Hades had permitted a visit, not written their future for them.
 
-“Ella can shelve memories,” Ella said. “Ella already did.”
+Silena, who had been standing near the door, came closer.
 
-Quest done. Everyone home. Everyone fed.
+"You can have the guest room by the Big House while Chiron sorts out your schedule," she said. "It's quiet, and the windows face the gardens. If you want food, I can bring you some. You don't have to meet the whole camp tonight."
+
+Bianca looked startled. "You'd do that?"
+
+"Yes. I know what it's like when everybody wants to ask questions just because you've arrived somewhere new."
+
+Clarisse crossed her arms. "And if Nico wants to learn a sword, I'll check with Chiron and start him with a wooden one. Not that giant thing he's carrying."
+
+Nico looked down at the sword and reluctantly slid it into its sheath.
+
+"Can I still watch?"
+
+"You can watch," Clarisse replied. "Watching comes before trying to hit somebody."
+
+Percy wanted to laugh. That had not been the way Clarisse first taught him to spar. She caught his eye and looked away as if she knew exactly what he was thinking.
+
+Ella fluttered through the doorway with a book tucked beneath one wing.
+
+"Visitors," she said brightly. "New readers!"
+
+Chiron held up a finger.
+
+"Names and personal histories stay inside this room unless our guests choose otherwise. Understood?"
+
+Ella looked from Bianca to Nico and back.
+
+"Understood," she said, then added softly, "Ella can keep a book closed."
+
+Bianca's expression eased. She sat forward, no longer trying to make herself smaller in the chair.
+
+"Can I ask about the library?" she said.
+
+Ella nearly burst with excitement. Zoë, who had followed her in and had been quiet near the door, offered to show Bianca the shelves after dinner. She did not ask the girl to explain how she had come out of Hades's palace. Percy could tell Bianca noticed.
+
+Nico looked toward Percy.
+
+"Are you coming tomorrow?"
+
+"If Chiron lets me out of bed after the injury checks, sure."
+
+"What's an injury check?"
+
+"The boring part of getting home alive."
+
+Nico looked thoughtful, then nodded as though he'd discovered an important rule. Percy hoped he had. It would make the boy less likely to charge into the arena with a sword too large for his hands.
+
+They spent a few minutes talking about ordinary things. Pizza, comics, where the cabins stood, whether the strawberries near the north fence were ready to pick. Nico wanted to know if the climbing wall truly had lava. Bianca wanted to know whether the library had a quiet corner and whether she could leave the camp grounds if she felt crowded.
+
+Chiron answered both honestly. The wall did have lava; she could walk within the supervised areas, but trips beyond the border required permission and planning.
+
+When the questions slowed, Percy stood.
+
+"See you tomorrow," he told them.
+
+Bianca nodded. Nico gave him a wave.
+
+Outside, Clarisse looked toward the pavilion where the younger campers were still celebrating.
+
+"Do we need to tell everybody they're here?"
+
+"Only the staff responsible for their safety," Chiron answered. "A person's arrival is not a camp-wide announcement unless that person wants one."
+
+Percy thought of Grover asking for a private song for Juniper months earlier. Apparently the same principle applied to children from the Underworld. He was glad.
+
+The visitors were alive, safe for tonight, and free to decide how much of their story belonged to anyone else. That was enough for one homecoming.Quest done. Everyone home. Everyone fed.
 
 ---
 
@@ -242,7 +306,7 @@ By sunset the whole camp migrated to the amphitheater for the campfire.
 
 The fire in the central pit was already roaring, magically tall and gold and warm without smoke. The logs were stacked high. The Apollo kids had their guitars out. The Hephaestus kids had rigged a string of blue fairy lights that pulsed in time to the flames. Blankets covered the stone steps. The air smelled like toasted marshmallows and cedar and lake water.
 
-Percy ended up in the middle row with Annabeth on one side and Grover on the other, Thalia sprawled on the steps just below them with her boots up, Clarisse and Silena directly behind Percy with their chins on his shoulders, Ella and Nico and Bianca and Zoë all tangled together two rows down with popcorn.
+Percy ended up in the middle row with Annabeth on one side and Grover on the other, Thalia sprawled on the steps just below them with her boots up, Clarisse and Silena directly behind Percy with their chins on his shoulders, Ella and Zoë settled two rows down beside Ella with popcorn.
 
 Chiron raised his hands. “We have a tradition,” he said. “Those who return from a quest tell their story at the fire. With appropriate embellishment.”
 
@@ -304,7 +368,7 @@ Percy froze. Annabeth froze. Their hands stayed exactly where they were, clasped
 
 Silena squealed and clapped both hands over her mouth. Clarisse leaned forward and said loudly, right into Percy’s ear, “About time, Kelp Head.”
 
-The Aphrodite kids were on their feet instantly, chanting, “Kiss! Kiss! Kiss!” The Ares kids were stomping. The Apollo kids started strumming a romantic chord. Even Zoë was smirking. Nico was chanting with his mouth full of popcorn. Ella was flapping and repeating, “Percy and Annabeth! Percy and Annabeth! Sweet couple! Sweet couple!”
+The Aphrodite kids were on their feet instantly, chanting, “Kiss! Kiss! Kiss!” The Ares kids were stomping. The Apollo kids started strumming a romantic chord. Even Zoë was smirking. A few younger Hermes campers were chanting with their mouths full of popcorn. Ella was flapping and repeating, “Percy and Annabeth! Percy and Annabeth! Sweet couple! Sweet couple!”
 
 Annabeth’s face was brighter than the campfire. Percy’s ears burned all the way to the tips.
 
@@ -340,7 +404,7 @@ Someone started singing the old campfire song about the Poseidon boy who loved a
 
 ---
 
-Later, after the songs and the s’mores and after Nico had fallen asleep on Bianca’s shoulder and Ella had fallen asleep on Zoë’s lap and Grover had been carried off by the satyrs singing his name, Thalia found Annabeth by the drink cooler.
+Later, after the songs and the s’mores and after Ella had fallen asleep on Zoë’s lap and Grover had been carried off by the satyrs singing his name, Thalia found Annabeth by the drink cooler.
 
 The fire was low now, embers pulsing. Most of the younger kids had gone to cabins. Chiron was talking quietly with Mr. D. Clarisse was showing Bianca a dagger grip by the light. Silena was braiding Ella’s feathers gently while Ella snored.
 
@@ -404,7 +468,7 @@ They sat shoulder to shoulder while the moon rose higher and the lake rippled ar
 
 Percy put his arm around Annabeth and she tucked herself under it like she belonged there. Poseidon’s son and Zeus’s daughter, brother and sister and friend to half the camp, sweethearts to the other half, questers home at last.
 
-Tomorrow there would be war talk and recovered weapons and the news that Sally's records showed she was not under punishment, even while Percy was learning how to grieve her. Tomorrow Thalia would drill them at dawn and Clarisse would challenge Percy to spar and Silena would make them all try on friendship bracelets and Ella would demand every detail for her scroll and Nico would want his first sword lesson and Zoë would pretend not to care and care fiercely anyway.
+Tomorrow there would be war talk and recovered weapons and the news that Sally's records showed she was not under punishment, even while Percy was learning how to grieve her. Tomorrow Thalia would drill them at dawn and Clarisse would challenge Percy to spar and Silena would make them all try on friendship bracelets and Ella would demand every detail for her scroll and the visiting boy would ask about his first supervised sword lesson and Zoë would pretend not to care and care fiercely anyway.
 
 Tonight there was just the lake and the moon and each other.
 
