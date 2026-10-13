@@ -58,6 +58,18 @@ A conch blew from the Big House. Chiron's voice, magically amplified, rolled dow
 
 Triton smiled, sharp and eager. "Then let us see what you little minnows have learned."
 
+Before they left the dock, Triton asked Percy to check the current against the tide chart. Percy had already decided the water would be gentle enough for training, but the chart showed a short period of stronger flow after midday. He had to revise the practice area rather than rely on how calm the Sound looked at seven in the morning.
+
+Annabeth marked the safe boundary while Tyson carried the new chart to Chiron. Triton let Percy explain the change to the trainees himself. It was embarrassing to admit he'd missed something simple. Nobody made a joke. The younger campers seemed happier knowing someone had checked.
+
+"That's the first lesson," Triton said quietly when the others moved ahead.
+
+"I thought breath was the first lesson."
+
+"Breath is easier to teach when everyone arrives alive."
+
+Percy rolled the chart carefully and followed his brother toward the beach.
+
 ---
 
 The beach at eight on an early-April morning was cold enough to make Percy's toes go numb, but by eight-fifteen it was crowded.
