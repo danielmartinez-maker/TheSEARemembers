@@ -235,15 +235,15 @@ The theme, drawn from a helmet by little Pollux, was: *Home.*
 
 "I'm only here because Chiron promised me it wasn't poison," Mr. D said, not looking up from his newspaper.
 
-"— and our guest of honor, Triton of Atlantis!" Silena finished with a flourish.
+"— and Pollux from Cabin Twelve!" Silena finished with a flourish.
 
-Triton bowed from his seat at the judges' table, which creaked ominously under him.
+Pollux waved from the judges' table. Triton, who had refused to judge a contest he was competing in, bowed solemnly from Team Sea's bench.
 
 "The teams!" Silena said. "Team Surface: led by me, with Annabeth Grace, Clarisse La Rue, and Connor Stoll, who I grabbed because he was stealing tasting spoons!"
 
 Connor waved a spoon guiltily. "Quality control."
 
-"Team Sea: led by Percy Jackson, with Triton — yes, he's judging *and* competing, we allowed it because he's a prince and pouted — and Thalia Grace as honorary sea sibling for the day!"
+"Team Sea: led by Percy Jackson, with Triton — who insisted he should be allowed to cook, then graciously gave up judging — and Thalia Grace as honorary sea sibling for the day!"
 
 Thalia, wearing an apron that said KISS THE COOK OR PERISH over her leather jacket, raised a fist. "I burn water. This will be great."
 
