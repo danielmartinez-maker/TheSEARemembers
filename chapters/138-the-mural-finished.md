@@ -344,6 +344,92 @@ A current ran through the corridor — not power, exactly. Relief. The Hades cor
 
 ---
 
+One of the children in the first group asked why the painted boy on the steps had no name.
+
+The question came from a Demeter camper who had been quiet through the speeches. She stood with her fingers clasped behind her back, safely away from the pigment, and looked at the shoe with its loose strap. Her own laces were tied in enormous knots.
+
+"No one wrote his name beside him," Myra said. "That happens with very old paintings."
+
+"Could you name him now?"
+
+"Would that make him more real?"
+
+The girl thought. "It would make him less lonely."
+
+Percy felt the answer in an uncomfortable place. He had been a boy in more than one story; some of those stories belonged to other people, and he had to take their word for the parts he couldn't remember. He knew what it meant to want a name to hold steady when everything around it changed.
+
+"I think somebody painted him because they wanted him to be seen," he said. "If we give him a name, we might be covering up a name the painter meant to keep private. Or we might choose the wrong one."
+
+The camper frowned. "Then we don't know him."
+
+"Not completely."
+
+"What if nobody ever does?"
+
+Annabeth moved closer, careful not to crowd her. "You can still notice him. That's what the painting asks you to do."
+
+The child looked at the loose lace once more and nodded slowly. The answer was not triumphant. It was an invitation to leave a blank without pretending the blank was unimportant.
+
+Silena lowered her camera. She had captured the girl standing below the mural, her small back framed by the painted camp. It was a beautiful photograph. She waited until the child returned to her counselor before asking whether the picture could go in the public record.
+
+"Could go in the cabin album," the counselor said. "But I need to check with her. Her mother doesn't want pictures of her published."
+
+"Then it stays private unless they both agree," Silena replied.
+
+She wrote a small P beside the frame number. Percy noticed her doing it and asked what it meant.
+
+"Permission pending. Not 'probably fine.'"
+
+"You're making the camera sound like a legal contract."
+
+"It is a promise," she said. "Once other people have a picture, you don't get to decide where it travels."
+
+Percy glanced toward the child's retreating back. He liked that Silena had thought of it before he did. She had been called the most considerate camper in their cabin more times than anyone could count, but this wasn't mere niceness. It was a decision about the power of showing something to the world, and she knew what it cost to make one carelessly.
+
+At the other end of the room Nico asked whether Myra would let him inspect the five new stars with a magnifying lens. She did, providing a mounted lens that didn't need to touch the surface. Bianca stood at his shoulder, reading the restoration key aloud. The stars they had added were marked distinctly from the old ones.
+
+"You can see the difference up close," Nico said.
+
+"That's supposed to be possible," Myra answered.
+
+"Some people won't like it."
+
+"Some people think preservation means making something look as if nothing has ever happened to it. I think that makes a bad record."
+
+Nico handed the lens back. He seemed pleased to have his part named, but reluctant to be the center of another round of congratulations. Percy understood. A child of Hades could spend so long being treated as unusual that even kindness sometimes felt like a spotlight.
+
+Thalia looked at the painted thunderbolt without moving her feet. It was the most carefully outlined object on Zeus's side of the mural, brighter than the worn face above it. Percy found her expression impossible to read.
+
+"Does it bother you?" he asked quietly.
+
+"The gold?"
+
+"All of it."
+
+"It bothers me that somebody can make him look so certain." Her voice was low enough that the children near them wouldn't hear. "That's not what knowing him feels like."
+
+Percy didn't tell her the image was just art. He didn't defend his father for standing in the picture. Instead he said, "You don't have to explain it to the others."
+
+"I'm aware."
+
+"But if you want to leave, I can make sure Chiron knows why."
+
+She looked at him in surprise. Then her mouth moved a little, not quite a smile.
+
+"Thank you. I'm staying. Annabeth worked on this place. I want to see her enjoy it."
+
+Across the corridor Annabeth was explaining the width of the painted dining-hall stairs to an Athena camper, using her palms to describe the difference between the old ground plan and the camp they knew. She didn't sound as though she were defending a thesis. She sounded happy to have found someone who wanted to talk about an old building.
+
+Thalia watched her for another moment. "She can be a kid for an afternoon," she said.
+
+"She usually is."
+
+"She spends a lot of time being more sensible than anyone should have to be."
+
+Percy laughed softly. "Yes. That part I know."
+
+The first group shifted toward the entrance at Myra's signal. A little boy tried to take one last look over his shoulder. His backpack bumped against the side rope as he turned. The free-standing support gave a small scrape against the gravel, barely audible beneath the murmur of voices.
+
 The first group had not yet cleared the passage when Myra stopped the line.
 
 A small boy from Hermes cabin had stepped too close to the rope barrier. He hadn't touched the mural, but his backpack brushed the rail, pushing its freestanding support across the floor.
