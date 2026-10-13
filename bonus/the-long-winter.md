@@ -1057,6 +1057,133 @@ The heel still hurt. She would let somebody look at it. She would stop running d
 
 But not until four fifty.
 
+She had always been suspicious of mornings.
+
+A person who woke at four could get quite a lot done before everybody else noticed they were awake. At home, when Annabeth was younger, the hour had belonged to small tasks: checking a latch, making sure there was water, finding the socks that had disappeared overnight. She had liked having something to do while the rest of the house slept. It gave her the comforting illusion that she could be ready for anything.
+
+Here, for once, there was nothing she needed to fix.
+
+Rhys's arm was across her waist. She lay still, listening to him breathe, and considered the tremendous absurdity of having spent so much of her life arguing against people treating her as fragile while finding herself reluctant to move because she liked somebody holding her. His hand was open against the blanket, loose in sleep. She could have slipped out from beneath it. She had done more difficult things blindfolded. Instead she covered it with her own.
+
+He stirred but didn't wake.
+
+Thalia smiled into the dark. He would be insufferable if he knew how long she'd spent thinking about a hand.
+
+She was nearly asleep again when he murmured, "You're thinking."
+
+Her eyes opened. "No."
+
+"That was remarkably quick."
+
+"Go back to sleep."
+
+He shifted against the pillow. The cabin was dark enough that she could see only the pale line of his cheek. "Is it morning?"
+
+"Four."
+
+"That's not morning."
+
+"It is for some of us."
+
+"Terrible people."
+
+She leaned up on her elbow. "You're one to talk. You get to the range before eight."
+
+"Eight is a humane hour."
+
+"Eight is practically noon."
+
+He laughed softly. Then, a little more awake, he looked at her.
+
+"How's the heel?"
+
+She groaned. "I've been awake for three minutes and you've already ruined everything."
+
+"I thought I should get it out of the way."
+
+"It's fine."
+
+"All right."
+
+She waited for the rest. It didn't come. He simply moved the pillow a little closer to her foot without demanding that she use it, then settled back down.
+
+"You could be more irritating," she said.
+
+"I'll try later."
+
+"Good."
+
+She lay down beside him again. The darkness made it easy to forget the size of the room, the eight empty cots and the workbench littered with his unfinished projects. She knew where his hand was and how to find his face if she wanted to kiss him. That was enough geography for the hour.
+
+After a moment she did kiss him. The first touch was brief, intended as a farewell of sorts. It became something else when he kissed her back.
+
+"Careful," he murmured.
+
+"What now?"
+
+"You're going to make me forget how tired I am."
+
+She smiled. "Sounds like a personal problem."
+
+He drew her nearer. She liked the warmth of him, the soft rumble of his laugh when she caught his shirt and refused to let the kiss end as quickly as he'd intended. The privacy of the hour made every small touch feel deliberate. They could be affectionate without worrying what anyone would say, and they could laugh when their noses knocked together without ruining anything.
+
+She had expected to feel different after the previous night, but she'd been wrong about the sort of difference. She was still herself. Still impatient, still stubborn, still capable of making a terrible decision simply because somebody had told her not to. What had changed was how easy it suddenly seemed to stay.
+
+She rested her forehead against his. "I have to go."
+
+"I know."
+
+"Annabeth will wake up."
+
+"Then you should go."
+
+She didn't move.
+
+Rhys waited. Then, with an amusement he made no effort to hide, he said, "You're very bad at leaving."
+
+"I'm excellent at leaving."
+
+"Demonstrate."
+
+She kissed him again.
+
+"That was the opposite," he said when she drew back.
+
+"Your standards are arbitrary."
+
+"My standards are clear."
+
+He touched her cheek, and she turned into his hand. The familiar teasing fell quiet. She could feel how much she'd miss his company even when she was back in her own bed, surrounded by the ordinary sounds of Cabin One. She didn't want to make a speech about it. She wanted to stay another minute.
+
+"Can I come back?" she asked.
+
+"Yes."
+
+"Don't answer so quickly."
+
+"Would you prefer hesitation?"
+
+"Possibly."
+
+He pretended to think. "Well, the winter schedule is very demanding. I'd need to consult my records."
+
+She shoved him gently. He caught her hand and pressed it against his chest.
+
+"Come back when you want to," he said. "Tell me when you can't. That's all I need."
+
+Thalia looked at him. It was such a manageable request that she had no objection ready. She wanted, suddenly, to promise more than that. She didn't. She had learned enough about promises to know that their usefulness came from keeping them.
+
+"All right," she said.
+
+He smiled sleepily, pleased by the unadorned answer. She kissed him one last time, then lay beside him until the clock made the small click that marked the half hour.
+
+The room had not transformed overnight. The window still leaked cold at the corner. The stove still made noises at unpredictable intervals. Rhys's shirt still lay crumpled beside the cot, and her borrowed coat still hung on the same hook. She was beginning to suspect that she'd like coming back to a room that remained stubbornly ordinary.
+
+She looked at him. He was falling asleep again, one hand still resting against hers.
+
+For once she was not leaving because somebody needed her. She was leaving because she had chosen a night, enjoyed it, and wanted to be home when the day began. The distinction made her feel lighter than any promise could have.
+
+
 At half past four she slid out from under his arm with the care of a thief and dressed in the dark, buckles quiet, and stopped at the chalk slate by the door and wrote three words over the laundry instructions, and got out into the cold before he could wake up and be careful about anything.
 
 Outside, the north wind had the whole hill, and the path home was gravel under her boots, nine amber lanterns and the tenth, and her breath going up white into the dark.
