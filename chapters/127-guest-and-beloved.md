@@ -555,6 +555,149 @@ They continued through the safe corridor. Percy could feel the palace opening ar
 
 ---
 
+The training court had prepared more than a set of practice weapons.
+
+A palace officer named Daemon was waiting beside the low wall with an attendance slate. He had been told that Poseidon's daughters might be interested in the court's exercises, and he'd taken the opportunity to prepare a training proposal.
+
+"Two afternoons each month," he told Clarisse. "A rotating series of drills with the guard. We could provide instruction in close-water combat and offer you access to the heavier weapons once you pass the initial assessment."
+
+Clarisse looked at the slate. "Who decided I was enrolling?"
+
+"Prince Triton mentioned your interest."
+
+"I am interested. That's not the same as enrolling."
+
+Daemon seemed taken aback. He was accustomed to people being pleased when the palace offered them a place in the guard's training program. Percy could see the genuine goodwill behind his invitation, but he could also see the assumption: that a teenager from camp would obviously rearrange her life when a royal officer offered her lessons.
+
+"Could we discuss it?" Daemon asked.
+
+"Now we're talking."
+
+Clarisse took the slate and read through the terms. The program required attendance, early-morning inspections, a training uniform and a commitment to the palace's schedule. It also required a supervising adult to approve the arrangement. She was not opposed to any of those things in principle, but the document said nothing about her duties at Camp Half-Blood or how she would travel between the two places.
+
+"What if I have arena duty that day?" she asked.
+
+"We could ask to have you excused."
+
+"Ask whom?"
+
+"Your camp director."
+
+"And what if he says no?"
+
+"Then we would reschedule."
+
+"That's not on this page."
+
+Daemon looked at the slate. "No. It isn't."
+
+She gave it back. "I want to train with your people. I don't want a standing commitment I haven't discussed with Chiron. And I don't want my father to approve it on my behalf as though my own schedule isn't real."
+
+The officer considered her, then put the slate away.
+
+"Would a single guest session suit you better?"
+
+"Yes. Today, if the instructor has room. After that we'll see."
+
+He smiled for the first time. "That is a reasonable way to begin."
+
+Percy watched his sister's posture ease. The exchange hadn't required her to reject the palace. It had required the palace to stop treating a welcome as a prearranged decision.
+
+Silena had been listening nearby. When Daemon turned toward her, she was prepared.
+
+"I don't spar," she said. "I can handle a basic weapon, but I came to see the garden and the workshop. Don't put me on the training list because I'm his sister."
+
+"I hadn't intended to."
+
+"Good."
+
+Daemon looked at her carefully. "The workshop supervisor did mention you. She said you were interested in adapting some of the sea-weaving patterns for materials used on land."
+
+"I am."
+
+"She asked whether you would like to contribute a finished piece to the next craft display."
+
+Silena hesitated. Percy recognized the look: she wanted to accept because she liked the idea, but she also had questions about how the work would be used.
+
+"Would it belong to me?" she asked.
+
+"The display would acknowledge its maker."
+
+"And afterward?"
+
+"That would depend on the agreement."
+
+"Then I want to see the agreement before I say yes. I don't mind lending something. I don't want to give away a pattern that I haven't even tested at camp."
+
+Daemon nodded. "I'll ask the supervisor to send you the terms."
+
+That surprised Percy more than any dramatic pronouncement would have. His sisters had each been offered something genuinely appealing. Neither was making an argument out of pride. They were ensuring the invitation still left them free to choose.
+
+Amphitrite joined the group while Daemon was fetching the court instructor. She looked at the rolled slate and asked whether the training arrangements were satisfactory.
+
+"They are now," Clarisse replied.
+
+"Was something wrong?"
+
+"Someone thought I should enroll before I had agreed. We fixed it."
+
+Amphitrite listened without looking to Percy to explain. He was grateful. In the past he'd felt an urgent need to translate every rough exchange between his sisters and the palace, worried that one side might mistake the other's intent.
+
+"Thank you for saying so," Amphitrite told Clarisse. "An invitation should remain an invitation."
+
+Clarisse shrugged, but her expression softened. "I do want to try the court. Just not every other Tuesday for the rest of my life."
+
+"Then I hope the session suits you."
+
+Silena showed Amphitrite the question about the craft display. The sea queen did not promise to override the terms or guarantee a special exception. She asked the workshop supervisor to provide the conditions in writing so Silena could decide whether to participate.
+
+"That seems fair," Silena said.
+
+"I hope so."
+
+Percy walked with Amphitrite to the low wall, where a line of trainees were warming up with weighted shields. The sand under their feet was dark from the current, and a pair of attendants had laid towels beside the bench.
+
+"You look troubled," she said.
+
+"Not exactly. I keep expecting to have to convince everybody that my sisters belong here. Then they show they can decide for themselves."
+
+"Belonging doesn't remove their right to refuse."
+
+"I know."
+
+"Do you?"
+
+He considered the two slates, one already put away, one awaiting written terms.
+
+"I'm learning."
+
+She nodded. They watched Clarisse speak to the instructor, checking which weapons were safe for a guest to use. Silena had gone to examine a braid of woven cord with the craft supervisor. Annabeth was taking notes on the court's drainage system while Thalia pointed out where the current might affect footing.
+
+Percy felt a rush of affection for all of them, followed by the familiar temptation to make the moment into proof that his two families had become one. But that would erase the parts that made them different. Clarisse might return for training, or she might not. Silena might make a piece for the display, or she might decide the terms were wrong. Annabeth could love the sea's architecture without becoming part of its household.
+
+"Is it difficult?" he asked Amphitrite.
+
+"What?"
+
+"Having all these people here who don't belong to you in the same way I do."
+
+She looked surprised. "Why would I want them all to belong to me in the same way?"
+
+"Because it's your home."
+
+"And I hope it can be hospitable to theirs. That is not the same as making a claim on them."
+
+He watched the practice court. Clarisse had already argued with the instructor about the length of a spear and was laughing as she tried a different grip.
+
+"I think they'd appreciate hearing that."
+
+"Then I will tell them when the question arises."
+
+Percy smiled. A queen could be generous without making every relationship maternal. His sisters could be loved without being claimed. He'd begun to believe those weren't compromises. They were the terms that made another visit possible.
+
+
+---
+
 At the training hollow Clarisse tested the new floor with two hard steps, dust puffing around her boots, and pronounced it "usable." Silena took Annabeth to see the garden's open blossoms, petals wide as hands and smelling of honey and brine, while Thalia asked Triton how currents would shift with the next tide, arms folded against the cool upwelling. From the path Percy watched, pencil in his pocket and the cove's quiet still with him, the stone warm through his sandals.
 
 After a while Annabeth returned carrying one fallen flower. Instead of pocketing it, she asked Amphitrite whether sketching was allowed. Amphitrite said yes, and showed where the flower had grown. Annabeth opened her notebook and drew carefully, leaving space around it for how the current moved.
