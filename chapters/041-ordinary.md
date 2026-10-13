@@ -68,6 +68,124 @@ For a while, there was nowhere else to be.
 
 ---
 
+Before breakfast, Percy found a note pinned to the door of Cabin Three.
+
+It was from a younger camper named Micah, one of the Hermes children whose trunk had flooded during the rain. He'd written in careful block letters, asking whether Percy would still be able to show him how to use the shallow canoe dock. Percy had offered a lesson three days earlier. He'd completely forgotten.
+
+The lesson was scheduled for noon.
+
+Annabeth expected him at the library at twelve. Clarisse wanted him in the arena at ten. Silena had asked him to help at the forge later in the afternoon, and Grover had made a plan for the canoe before they'd even finished breakfast yesterday. The day he'd thought was empty had somehow acquired an appointment in every part of it.
+
+"What's the matter?" Clarisse asked, coming in from her push-ups.
+
+Percy showed her the note.
+
+"You gave him a time?"
+
+"Yes."
+
+"And you didn't write it down?"
+
+"No."
+
+She looked at him with the expression she reserved for people who had made simple problems much harder than they needed to be.
+
+"Then you need to talk to him."
+
+"I know. I thought I could do everything today."
+
+"You can do a lot of things. You can't be in two places at the same time."
+
+"That's not entirely true for all demigods."
+
+"It is for you."
+
+Silena emerged from the washroom with a towel around her hair and took the note.
+
+"If the boy's nervous about the dock, don't leave him waiting there while you decide," she said. "Can you move something else?"
+
+Percy considered. The forge session was scheduled because Silena needed help with a clasp, but she'd told him the time could be adjusted. Annabeth was doing independent reading at the library and wouldn't be injured by his arriving late. Grover wanted a relaxed afternoon, not a fixed appointment. The canoe lesson was the only arrangement someone younger had built his day around.
+
+"I'll keep the noon lesson," Percy said. "Then I need to tell Annabeth and Grover about the change."
+
+"And ask the water-safety instructor whether you're allowed to teach him," Clarisse added. "You're not a certified counselor."
+
+Percy looked at her. She was right. He had offered to show Micah how to use the dock without checking whether he was authorized to instruct him. He knew how to swim and handle water, but that didn't automatically make him responsible for a child who might panic in a boat.
+
+He went to find the instructor after breakfast. The woman running the beginner water program knew Micah and explained that he had been cleared for a supervised familiarization session, but not an unsupervised paddle.
+
+"You can help him from the dock while I watch," she said. "No magic to stabilize the canoe unless we agree ahead of time that there's a safety need."
+
+"That works."
+
+"Then get him here at noon and bring the proper equipment. You're both responsible for checking the paddles and flotation gear."
+
+Percy nodded and went to find Micah. The boy was eating at the Hermes table beside two older campers and looked up anxiously when Percy arrived.
+
+"I got your note," Percy said. "Noon still works. The instructor will be with us."
+
+Micah looked relieved. "I thought you'd forgotten."
+
+"I did," Percy admitted. "I'm sorry. I should have written it down."
+
+Micah considered. "Are you still going to show me how to get into the canoe without tipping it?"
+
+"Yes. But the instructor is going to make us check everything first."
+
+"That's okay."
+
+Percy left the table feeling slightly embarrassed and much better than he had when he found the note. He could not fix his forgetfulness by pretending he remembered everything. He could make it less costly to other people by recording the commitments he made.
+
+At the Zeus table, Annabeth was marking a page in her notebook.
+
+"Can we change our library time?" Percy asked. "I offered to help Micah at the canoe dock and forgot I had done it."
+
+She looked up. "What time?"
+
+"Noon. I can come after one if your research is still going."
+
+"That's fine. I'll be reading by myself. You can find me whenever you finish."
+
+"You're not annoyed?"
+
+"Only if you try to make me rearrange my research because you didn't write something down. You asked, and I have no reason to insist you be there at a particular minute."
+
+He smiled. "Thank you."
+
+She offered him a blank page in the back of her notebook.
+
+"Want to start a schedule?"
+
+He took it, then remembered that borrowing her notebook would mean she couldn't use it for her own work.
+
+"Could I have a piece of paper instead?"
+
+"Yes."
+
+He wrote down the canoe lesson, the adjusted library visit, Grover's afternoon paddle and Silena's forge task. He checked the times with each person rather than assuming the old plan would fit.
+
+By the end of breakfast, the paper looked embarrassingly full. Percy had thought he wanted an ordinary day because ordinary days required no decisions. He was learning that the opposite was true. The decisions were smaller, but they still mattered to the people who had asked him to show up.
+
+He folded the note and put it in his pocket. Clarisse saw him do it.
+
+"You'll lose that."
+
+"Probably."
+
+"Then put it somewhere you check."
+
+He went back into the cabin and pinned a copy beside the door. When he came out, Clarisse looked satisfied.
+
+"Now you'll know when you're supposed to be annoying someone."
+
+"I think you enjoy giving me schedules."
+
+"I enjoy not having to chase you across camp."
+
+He grinned and followed her toward the arena.
+
+---
+
 The dining pavilion was loud. Sunlight poured through the open sides and lit up the dust and the steam rising off trays. The air was thick with bacon and syrup and toasted bread and the sweet rot of the strawberry juice they served on Saturdays. Harpies wove between tables with platters balanced on their arms, shrieking at anyone who tried to sneak extra.
 
 Percy carried his plate — scrambled eggs, three pancakes, an apple he intended to trade — and slid onto the bench at the Poseidon table. Silena was already there, hair tied back, braiding a bit of blue thread into the end for no reason except that she liked how it looked. Clarisse sat across, elbows out, guarding her bacon like a dragon.
