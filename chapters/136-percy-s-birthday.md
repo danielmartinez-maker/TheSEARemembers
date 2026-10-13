@@ -246,6 +246,94 @@ Wind — current — rushed past again as they wheeled and ran for Atlantis, nec
 
 ---
 
+The ride finished at the stable gate, but Triton didn't take Percy straight to the garden. One of the handlers was waiting beside the water trough with a frightened young hippocampus, its mane floating in a dark cloud around its neck. It had caught a hoof against the coral step at the edge of the practice channel and refused to move.
+
+"Not injured badly," the handler reported. "We've checked the hoof. She just won't enter the channel again."
+
+Triton swung down from his mount. The older prince was wearing ceremonial armor for the birthday, polished enough that Percy could see the blue water reflected in the scales. He didn't seem to care that the stable floor was covered with sand and dung. He crouched beside the frightened animal and let it smell his hand.
+
+"She slipped," he said to Percy. "And now she expects the same thing to happen again."
+
+"Can we move the step?"
+
+"We can check whether the step is the problem. Don't start tearing up stable fittings because an animal is afraid."
+
+Percy wanted to argue that if a hoof had caught there once, it could catch again. The handler showed him the edge: smooth, level, not new or damaged. The young hippocampus had made a bad turn at speed. She had been startled more than hurt.
+
+"Would you like to take her through slowly?" Triton asked.
+
+Percy looked at the animal. Her eyes rolled toward him. "I don't want to scare her more."
+
+"Then don't. Hold a lead. Let her choose."
+
+He took the rope and stood beside the open channel. Triton moved to the other side with a bucket of water plants the young mare liked. The handler walked away from the entrance so the animal wouldn't feel surrounded.
+
+Percy waited. He didn't summon a wave or order the water to lift her over the step. Those things might have worked in a fight. They would have taught the mare that she could cross only when a prince carried her.
+
+She took one step, stopped and snorted. Percy backed up half a pace, giving the line slack. Triton didn't tell him to hurry. A minute later the mare stepped forward again. Her first crossing was ugly and awkward, with one hoof lifted absurdly high and her tail curled tight. She crossed anyway.
+
+"There," Percy said softly.
+
+"Again?" the handler asked.
+
+"Not immediately," Triton replied. "Let her settle."
+
+Percy scratched the mare's neck and watched her breathe. There was something useful about a creature so strong needing patience from other people instead of a display of their strength. He'd ridden Breaker at racing speed only minutes earlier; now he was grateful to be standing still.
+
+The handler thanked him. Percy looked at Triton.
+
+"Was she afraid of the step or of getting hurt?"
+
+"Probably both. Would you be able to tell the difference if you fell?"
+
+"Maybe not."
+
+"Then stop expecting animals to be simpler than people."
+
+Triton checked that the handler had the rest of the afternoon covered. Only then did he turn toward the tide garden.
+
+"You do this on your own?" Percy asked.
+
+"I'm responsible for the stables."
+
+"I thought you mostly raced."
+
+"I race because I know the animals, little brother. Not the other way around."
+
+Percy absorbed that. Triton had plenty of titles and could have spent the afternoon boasting about them. Instead he'd crouched in mud beside a frightened young horse until she crossed a shallow channel under her own power. It made their competition earlier feel warmer, less like a prince indulging another prince for a birthday.
+
+They walked toward the palace together. The corridor smelled of warm kelp bread and fresh flowers. At the garden entrance Triton hesitated, looking suddenly older than he had on the racetrack.
+
+"One thing," he said.
+
+"What's that?"
+
+"You may hear stories at lunch about when you were small. The household remembers them fondly. You don't have to answer every story with one of your own."
+
+Percy looked up sharply. "Did Silena say something?"
+
+"She asked me not to put you on display. She was right."
+
+"You listened?"
+
+"Don't look so surprised. I listen more often than you think."
+
+Percy laughed. Triton had no idea how much the permission mattered. If he asked why Percy sometimes looked lost during those childhood stories, the answer would pull at a secret Percy was not ready to give the palace, or Amphitrite, or his siblings. But Triton hadn't asked. He'd noticed enough to make the evening kinder without demanding an explanation.
+
+"Thank you," Percy said.
+
+"Don't thank me yet. I fully intend to tell everyone you nearly lost the race."
+
+"I won."
+
+"You attempted a creative definition of the finish line."
+
+"That's called strategy."
+
+"That's called being fourteen."
+
+They entered the tide garden still arguing. Percy smelled caramel and fresh bread before he saw the tables. Whatever strange stories the household told during the meal, he would have people beside him who knew how to laugh and when not to ask.
+
 By the time they returned, salt-streaked and starving, the tide garden had transformed.
 
 Long tables of driftwood bore platters: grilled sea-bass with lemon kelp, black-bean seaweed salad, bread rolls warm from volcanic vents, bowls of bright fruit Percy didn't know the names of. Amphitrite presided at the head, Poseidon at her side already deep in conversation with an old merman about tides. Clarisse had saved Percy a seat between her and Tyson, with a look that said skip it and die.
