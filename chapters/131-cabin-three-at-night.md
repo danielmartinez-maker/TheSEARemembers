@@ -350,6 +350,119 @@ They drank while Tyson described the forge, black stone walls open to sky where 
 
 ---
 
+When Tyson had settled with his blanket, nobody quite knew what to do with the fact that he was there.
+
+His assigned bed for the visit was still in the Big House. Chiron had arranged it because Tyson had been invited to camp for a limited period and there wasn't yet a bunk in Cabin Three that suited his height. Percy knew Tyson could stay awake with them for as long as he liked, but that didn't tell them whether he should try to sleep on the floor.
+
+"You should go to the guest room," Clarisse said.
+
+Tyson looked disappointed. "I am not tired."
+
+"I didn't say you're tired. I said the floor isn't made for a giant."
+
+"I can fold small."
+
+Percy considered the sheer impossibility of Tyson folding small and was about to suggest a blanket nest when Silena put down her cocoa mug.
+
+"Can we ask what he actually wants?" she said.
+
+Tyson looked at her. "I wanted to be here. It is the first night we were all awake together since I came."
+
+"Then you're here," Silena said. "You can stay until you want to sleep. When you do, we walk you to the guest room."
+
+"Together?"
+
+"Together if you want."
+
+Tyson smiled. "I do."
+
+Percy noticed Clarisse relaxing. She hadn't wanted to send him away because she disliked him. She had worried about how to make room for someone whose body and habits were different from theirs, and she'd hidden it behind a practical objection. The concern was real. They would have to solve it if Tyson spent more time at camp.
+
+"What would make a bed comfortable for you here?" he asked.
+
+"Long," Tyson said.
+
+"Very technical."
+
+"And strong. A table leg is not a bed leg."
+
+"You've slept on a table?"
+
+"Only once. It was not very good."
+
+Clarisse laughed despite herself. "We're not putting you on a table."
+
+Tyson put both palms flat on the edge of Percy's bunk, testing the wood with the care of a craftsman. "If I had a bed here, I would want the bottom to have extra supports. And the corner near the wall is too close to the fountain. I turn in my sleep. I might hit it."
+
+Silena took out the little sewing notebook she kept beneath her pillow and found a blank page.
+
+"Can I write this down?"
+
+"Yes."
+
+She drew the rough shape of the room, marked the fountain and the position of the three occupied bunks. Percy showed her where he thought a fourth might fit. Clarisse pointed out that his idea would block the door during an emergency.
+
+"Then not there," he said.
+
+The next option was better: near the back wall, where an older storage chest had been sitting unused for months. But moving the chest meant finding somewhere else for the spare linens and repair supplies.
+
+"That's doable," Silena said. "Not tonight."
+
+"I do not need you to build me a bed tonight," Tyson said.
+
+"Good," Clarisse replied. "Because I'm not lifting a chest in the middle of the night."
+
+Percy looked at the drawing. "We're not promising you a permanent room either."
+
+Tyson nodded. "I live at the forges."
+
+"I know. You can still have a place to sleep when you visit, if Chiron agrees."
+
+"Yes," Tyson said. "A guest place. Mine when I am guest."
+
+Clarisse studied him. "You want to build it?"
+
+"If I may. With Beckendorf and the other builders. Then it is strong, and no one is angry that I am tall."
+
+"Nobody's angry you're tall," Percy said.
+
+"Sometimes people are angry because tall people don't fit their furniture."
+
+Percy thought of a few chairs Tyson had unintentionally broken. "Fair."
+
+Silena added *ask Chiron about guest bunk* to her list. She didn't write a date. The request had become a real project, but it wasn't a promise to finish it before anybody had checked the dimensions.
+
+They drank their cocoa while Tyson told them about a repair at the forges that had required three different kinds of rivet. Clarisse argued with his choice of metal; Tyson explained it; she listened. Percy had never been so grateful for a conversation that wasn't about what the family meant. The room was full of people doing what they normally did, which sometimes involved disagreeing about screws.
+
+At last Tyson yawned. He tried to hide it behind his hand, but the sound filled the cabin.
+
+"That was a large yawn," Percy said.
+
+"I am a large brother."
+
+"Guest room?" Silena asked.
+
+"Yes. I want the guest room now."
+
+Clarisse took a lantern. Percy put on shoes. They walked him along the path toward the Big House and stayed until he had found the bed Chiron prepared for him. It fit. Tyson sat on the edge and tested the mattress with one firm bounce.
+
+"Strong," he pronounced.
+
+They said good night and returned to Cabin Three. The short walk had cooled Percy's face and made him sleepy in a way the cocoa hadn't.
+
+"Now we have a plan," Silena said as she put the lantern down.
+
+"A drawing," Clarisse corrected.
+
+"A drawing and a person to ask."
+
+"Better than no plan."
+
+Percy looked at the new note in Silena's book. A future guest bunk would not make Tyson a permanent resident or solve the sadness of a visit ending. But it would mean that when his brother next arrived, they wouldn't be improvising a place for him out of spare furniture and love alone.
+
+
+---
+
 The door opened a little later, hinges whispering, cool corridor air slipping in smelling of night grass. Annabeth stood in the threshold, two blankets over one arm, lantern in the other hand, its flame cupped small and gold. Hair fell loose around her shoulders, still carrying the day's sun and faint woodsmoke; green glass charm caught dim light, glinting green-gold at her throat.
 
 "Thought you might be awake," she said softly.
