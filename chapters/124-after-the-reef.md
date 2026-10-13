@@ -69,6 +69,125 @@ They went on toward the lake, Silena carrying her shell carefully, and Percy ret
 
 ---
 
+Silena did not let anyone put the woven kelp away without testing it.
+
+After they returned from the Big House, she cleared her table and laid out three shallow dishes. One held freshwater from the cabin fountain, one held saltwater from the coast, and the third was empty. She cut the sample into three pieces only after checking the note the gardener had sent with it. The scrap had been given freely, but the material was still unfamiliar, and Silena didn't want to use it in something another camper would depend on until she knew how it behaved.
+
+"Are you making a science experiment?" Percy asked.
+
+"A very small one."
+
+"Those are still dangerous. Annabeth's small experiments usually take up the whole dining pavilion."
+
+"Then we'll start with this table."
+
+Clarisse leaned against the doorframe with a cup of tea. Will had told her to rest the arm she'd used to hold the nursery shelf, and she was doing an unconvincing impression of someone who didn't mind.
+
+"What are we trying to find out?" she asked.
+
+"Whether drying changes the strength of the weave, and whether soaking it again restores the flexibility."
+
+"Will it?"
+
+"That's the question."
+
+Silena placed one strip in saltwater, one in freshwater and one on a dry plate. She labeled each dish and wrote the time on a scrap of paper. Percy offered to help, and she asked him to fetch a small weight from the storage chest. He returned with a smooth stone and a pair of string loops.
+
+"Those are good," she said.
+
+"Are you surprised?"
+
+"Only that you didn't bring me a sword."
+
+He pretended to be wounded. Clarisse moved the table closer to the window, then sat before Silena could remind her to rest her wrist. The experiment began slowly. The dry strip held its shape; the saltwater strip softened first; the freshwater strip began to bend but shed a few tiny fibers along one edge.
+
+"That might just be because we cut it," Percy said.
+
+"Exactly," Silena replied. "We don't know. That's why I'm not declaring a winner."
+
+They recorded what they could see rather than what they wanted the results to mean. Silena drew the fibers in her notebook, marking which side of the weave had been exposed to the current in Atlantis. Clarisse suggested testing the strips under a gentle pull, but Silena insisted they wait until each had soaked for the same length of time.
+
+"You're treating thread like a patient," Clarisse said.
+
+"Patients deserve patience."
+
+"That is a terrible joke."
+
+"Then stop setting me up for it."
+
+When the time had passed, Percy held one end of the first strip while Silena attached the stone to the other. The dry strip snapped at a fold almost immediately. The saltwater piece held longer. The freshwater strip stretched, twisted and then broke near the cut edge.
+
+Clarisse frowned. "None of them would make a safe handle."
+
+"Not yet. The gardener didn't give it to me for a handle. She said the pattern was useful. I'm trying to find out whether the actual fibers work outside seawater."
+
+Percy put the broken pieces on the table. "So the experiment failed."
+
+"No. The material failed the test. That's information."
+
+She sounded like Annabeth. He told her so, and she threatened to have him sort her entire needle box by size again.
+
+Thalia arrived a little before noon carrying a parcel wrapped in coarse fabric. Annabeth had asked her to bring some old canvas from the Zeus cabin's supply shelf, and the two sisters had spent the morning arguing about how best to reinforce a field bag. Thalia looked at the kelp dishes and raised an eyebrow.
+
+"You're doing laundry for seaweed?"
+
+"Materials testing," Silena said.
+
+"Of course."
+
+Annabeth came in behind her with a sheet of measurements. She had spent part of the morning drawing the garden's anchoring shelf, based on the notes permitted by the household gardener. She did not have the exact location on the public sketch and had deliberately left out the nursery's most fragile areas.
+
+"We could copy the weave pattern with canvas," Annabeth suggested.
+
+"We could," Silena said. "But let's see whether the knots behave the same way."
+
+They spent the next hour making three sample straps. Silena cut the canvas, then let Percy and Clarisse attempt the knots under her supervision. Percy pulled the first so tight it puckered the fabric. Clarisse made a neat knot that would have been perfect for a rope but difficult to release with cold fingers. Annabeth proposed a clasp that would detach under a strong sudden pull, then realized it might also detach when someone lifted a heavy bag.
+
+"That's a problem," she admitted.
+
+"It is," Silena said. "We can design around it."
+
+Thalia had been watching the work with growing impatience. Eventually she picked up one of the samples and asked who was supposed to use the bag.
+
+"Anyone who needs their hands free on chores," Silena said.
+
+"Then ask someone who carries things on chores."
+
+They went to the dining pavilion, where a Demeter camper was bringing baskets from the strawberry beds. Silena asked whether she would be willing to test a strap in exchange for a cup of lemonade. The girl agreed, on the condition that they didn't make her stop working for too long.
+
+She fitted the sample around her shoulder and lifted an empty basket first. The strap sat well enough. With a basket half-filled, the clasp began to slide. With a full basket, the seam pulled uncomfortably against her collarbone.
+
+"That digs," she said, handing it back. "I wouldn't wear it all afternoon."
+
+Silena thanked her. The honest complaint was more valuable than praise would have been. She noted the problem and promised not to give the unfinished strap to anyone as working equipment.
+
+On the way back, Percy carried the full basket to the kitchen and returned with his hands smelling of strawberries. Silena had already begun redrawing the pattern.
+
+"You didn't like the answer," he said.
+
+"I liked knowing. I didn't like the strap."
+
+"There's a difference?"
+
+"A fairly important one."
+
+Clarisse examined the new sketch. "Wider shoulder piece?"
+
+"Maybe. The force needs to spread instead of pulling in one place."
+
+"Then let me try the next version when Will clears my arm."
+
+Silena looked up. "I'd appreciate that."
+
+For a moment Percy watched them work. Silena had returned from a beautiful place underwater with a scrap of woven kelp and a hundred ideas. She hadn't turned the scrap into a miracle object or a permanent connection to Amphitrite. She was turning it into a question she could answer in her own workshop, with people who had different skills and weren't afraid to tell her when something didn't work.
+
+At the end of the afternoon the table held torn fabric, wet labels and the first draft of a better design. The kelp samples had not survived. Silena dried the pieces anyway and kept them with her notes, marked *not suitable for load-bearing straps*. She wanted to remember what she'd learned before she tried something new.
+
+Percy helped wipe the table. He put the empty dishes back by the fountain and carried the samples to her drawer. He knew he'd be called on again when there was a second prototype, and he was glad. Atlantis could give Silena a material she'd never seen before. Camp could give her people willing to test it, criticize it and help her find a use that made sense.
+
+
+---
+
 In Cabin Three, everything was where Percy had left it: the blanket rumpled on his bunk, practice clothes over a chair, the conch shell on its shelf. He opened the window. Pines, a path, and the lake’s blue reflection filled the view. The camp had kept on being itself while he was away. That might have been the reason it mattered so much.
 
 Inside, the damp shirt gave way to dry cloth. After washing the salt from his hands, the sting fading from his cracked knuckles, he unpacked the gifts. Amphitrite had sent sea-glass beads for the cabin shelf; Triton had given him a silver-veined stone from a reef that, he claimed, had survived three wars and a foolish renovation by a god of carpentry. Percy wasn’t sure the story was true. The stone was nice either way.
