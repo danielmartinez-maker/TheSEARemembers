@@ -524,6 +524,96 @@ On the path up from the lake, their shoulders bumped. Neither moved away.
 
 ---
 
+Silena had been waiting for a chance to work on the circlet all week.
+
+She'd designed it herself, which was still a novelty among the people who knew her primarily for organizing the cabin and making everybody look presentable at celebrations. The circlet was for a small performance in the amphitheater, not a royal commission. It needed to hold the fabric headpiece securely without pinching the person who wore it, and she had decided to make the clasp as beautiful as the rest.
+
+The first mock-up failed on a wooden mannequin. The metal loop was narrow enough to hold under normal movement, but it caught the fabric whenever she tried to remove the headpiece.
+
+"Then make the loop bigger," a Hephaestus apprentice suggested.
+
+Silena looked at the design. "If I do that, it might slip when the performer moves."
+
+"Then add a second fastening."
+
+"That creates another place where it could snag."
+
+The apprentice shrugged. He had offered a reasonable idea and wasn't particularly interested in spending the whole afternoon discussing a hair ornament. There were armor fittings waiting to be inspected, and he had a workshop assignment due before dinner.
+
+Silena realized she'd been expecting him to keep helping because he had helped with the first attempt.
+
+"You don't have to stay," she said.
+
+He looked up, relieved. "Can I go finish the hinge work?"
+
+"Yes. Thank you for looking at it."
+
+After he left, Silena sat with the circlet in her hands and looked at the unsuccessful fastening. It was tempting to ask Percy to solve the problem as soon as he arrived. He was good with fiddly tasks when he slowed down, and she loved working with him. She also wanted to know she could design something without making her brother responsible for finishing it.
+
+She went to the scrap drawer and found three pieces of thin copper wire. They were not strong enough for the final clasp, but she could use them to test the motion without wasting the better metal. She bent one into a wider curve, another into a hook and the third into a simple sliding catch.
+
+The first two failed for the reasons she expected. The sliding catch opened easily but would not stay closed when she shook the mannequin.
+
+She wrote down the results. It seemed absurd to keep notes about a little circlet. Annabeth would have approved, and that was an irritating reason to keep doing it.
+
+Beckendorf returned from checking a weapon fitting and saw the pieces laid out on the table.
+
+"Having trouble?"
+
+"Yes. The shape works. The fastening doesn't."
+
+He examined the three prototypes.
+
+"Which matters most, removal or security?"
+
+"Both."
+
+"Then you may need a separate release mechanism. Something that stays closed under ordinary movement but opens when you press in a particular direction."
+
+Silena thought about the suggestion. She had been treating the clasp as one part that had to do every job. A small spring or lever could separate the holding force from the release motion.
+
+"Could I test a release tab?" she asked.
+
+"Yes, but use the practice material first. You'll need to make sure it doesn't cut the cloth."
+
+He showed her where the small tools were kept and left her to try it. She was grateful. It was different from having someone take the project out of her hands.
+
+She made a small cardboard model, then a more precise one in soft metal. The release tab was too easy to press at first. She shifted it to the inside, where it would be protected during performance but could still be reached deliberately. The third attempt held when the mannequin moved and released without catching the fabric.
+
+Silena smiled. She'd spent most of the afternoon on a device nobody in camp would notice if it worked properly. That was exactly why it mattered to her. The person wearing it would be able to move and perform without thinking about the clasp.
+
+When Percy arrived from the canoe lake, she had a task ready for him.
+
+"I need you to test this," she said. "Not to fix it. To tell me whether you can open it while keeping the headpiece in place."
+
+He examined the model. "Do you want me to wear it?"
+
+"No. Put it on the mannequin and try the release."
+
+He did. The first attempt took too long because he pressed the wrong side of the tab. Silena adjusted the small marker, then watched him try again. This time it opened cleanly.
+
+"Good," she said.
+
+"That's all you needed?"
+
+"For now."
+
+He looked at the finished prototype. "I thought you wanted help making it."
+
+"I did. Then I solved most of it. You're helping me check whether the solution works for somebody who didn't invent it."
+
+Percy smiled. "That's a very Annabeth answer."
+
+"She's occasionally right about things."
+
+He laughed. Silena went to get the final metal. She had enjoyed making the circlet because it let her be the person who designed something useful and beautiful, not only the sister who remembered everyone's appointments. The project was small. It belonged to her.
+
+They finished the clasp together, with Percy holding the piece steady while she made the last adjustment. When the instructor checked it, he approved it for the rehearsal with a note that the performer should test the release before going onstage.
+
+Silena put that instruction in the cloth bag with the circlet. She would be there for the rehearsal, but the headpiece should be usable even if she wasn't standing beside the stage.
+
+---
+
 The forge at golden hour was roaring and warm, with fires matching the light coming through the doors.
 
 Silena was waiting for Percy at the entrance to the forges with her hair tied up, soot already on her cheek like a beauty mark, gloves tucked into her belt. Silena, fourteen, daughter of Poseidon and the oldest sister in Cabin Three, which people always misunderstood — they thought the sea cabin meant only waves and storms, but Silena knew it meant making things people loved. Armor that fit right. A clasp that didn't pinch. A gift that said *I see you.*
