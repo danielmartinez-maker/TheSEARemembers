@@ -526,7 +526,39 @@ The cabin filled with overlapping voices and familiar arguments, everyone laughi
 
 ---
 
-Chiron asked for the return manifest before anyone unpacked the gifts.
+Chiron's request made Percy reach into the wrong pocket for the third time. In the palace everything had been counted when a gate opened. At camp he was already forgetting which bag held the little shell Annabeth had agreed to carry for the chart room.
+
+He set the luggage on the Big House steps and opened his notebook. A pressed leaf fell out. He put it back before Clarisse could accuse him of packing the entire garden.
+
+"How many packages?" Annabeth asked.
+
+"Four. No, five if the photograph counts."
+
+"The photograph counts," she said. "It's an object, Percy. Not a feeling."
+
+Silena stood beside them with the sealed food parcels. She had kept them dry through the return passage, but she hadn't opened them, and one belonged to the kitchen rather than Cabin Three. Clarisse sorted the labels, then put a mark beside the parcels that required a reply. When Percy reached for the last parcel, Silena stopped him.
+
+"That isn't ours," she said. "It's for the garden staff. Triton asked Chiron to forward it."
+
+Percy looked at the label again. She was right. He'd nearly taken a gift meant for someone else because he'd been thinking of the whole trip as his family's visit rather than a set of separate people's work.
+
+"Then write that down," Annabeth said. She handed him the pencil.
+
+He did. On a separate page he listed the guards who'd helped them, the nursery attendant, and the technician who had closed the observatory. He left blank spaces where he didn't know a name rather than writing a confident guess.
+
+Clarisse leaned over his shoulder. "You're making a list of people who should be thanked."
+
+"Yeah."
+
+"Add the chariot driver. You nearly fell asleep on him."
+
+"I was resting my eyes."
+
+"You were snoring at a royal employee."
+
+Percy added the driver. They signed their names beside their own belongings, and Chiron would countersign the parcel meant for camp. The small bit of paperwork felt annoying, but it meant nobody would have to invent the story of the return later. Things could be brought home without becoming Percy's possessions simply because he'd carried them.
+
+
 
 This was not the welcome Percy had imagined. He was tired from the passage, carrying a bag that seemed to have become heavier under the water, and Nico had already found the sweets Amphitrite had sent. Percy wanted to sit on the cabin steps and let the day stop moving.
 
