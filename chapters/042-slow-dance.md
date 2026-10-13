@@ -306,6 +306,118 @@ Silena smiled. Her sister could deny being interested in dancing all she liked. 
 
 ---
 
+Nico di Angelo arrived at the amphitheater carrying a cardboard sign that said DANCING in letters large enough to be read from the farthest bench.
+
+The sign was not his idea. Bianca had volunteered both of them to help set up before dinner, and an Apollo counselor had assigned him to carry the signs while the older campers placed the benches. Nico had been hoping to play Mythomagic with two friends before the music began. Now he was standing in the dirt watching everyone else decide where things belonged.
+
+"Where does this go?" he asked.
+
+Bianca looked up from the basket of cloth strips she was tying around the handrails. "At the entrance to the floor."
+
+"Which entrance?"
+
+"The wide one."
+
+"There are three."
+
+Annabeth, who had been drawing a seating arrangement on the back of an old program, heard the exchange and came over.
+
+"There's only one path that's wide enough for two people to walk side by side without stepping into the fire circle," she said. "The other two are exits. Chiron wants them kept clear."
+
+Nico looked at the sign. "Then why doesn't it say that?"
+
+"Good point."
+
+She took a pencil and wrote *Dancing this way* beneath the original word, then added an arrow pointing toward the open side of the circle. Nico held it up. The arrow pointed left when he was facing the stage and right when he turned toward the path.
+
+"Now which way does it go?"
+
+Annabeth stared at the arrow. She had drawn it as though the reader would stand where she had been sitting, looking down on the whole space. She hadn't checked what it would look like to someone arriving from the cabins.
+
+"Let's put it where people will actually see it," she said.
+
+They walked to the path and tested the view. Nico tilted the sign so the arrow was visible without blocking the handrail. Bianca fetched a wooden stake, and the three of them fixed it in the ground.
+
+"That was a lot of work for a piece of cardboard," Nico said.
+
+"It was a lot of arguing for a piece of cardboard," Bianca corrected.
+
+Annabeth laughed. Nico looked pleased with himself and then looked toward the open space where several campers were already practicing dance steps.
+
+"I don't know why everybody wants to do that," he said.
+
+"Dance?"
+
+"They're acting like this is the only interesting thing that happens all week."
+
+"You don't have to dance," Bianca said.
+
+"I know. But if I don't, everyone is going to ask why."
+
+Bianca's smile slipped. She had agreed to work with him because she thought they would enjoy the music together. She hadn't noticed how much he hated the idea of becoming part of a spectacle.
+
+Annabeth sat on the lowest step beside him.
+
+"When I was younger in the life I remember, I used to think there were two ways to attend things. Either I took part, or I let everyone see I didn't want to. It made parties exhausting."
+
+"What did you do?" Nico asked.
+
+"I started finding one thing I genuinely wanted to do. Tonight I want to hear Grover play. Percy wants to be here too. I can listen without dancing if that's what I feel like."
+
+Bianca looked at Annabeth's shoes. "You've got your good pair on."
+
+"That doesn't mean I'm required to use them."
+
+Nico considered. He was wearing boots that would be terrible for dancing and excellent for walking across wet grass. He'd chosen them deliberately.
+
+"I want to listen to the music and play cards on the steps," he decided.
+
+"Then that's what you should do," Bianca said.
+
+"What if you want to dance?"
+
+"I can go with somebody for a song. Then come back."
+
+He looked at her with the suspicion he reserved for promises that sounded too easy.
+
+"You won't be upset?"
+
+"I'll be upset if you pretend to enjoy yourself so I don't leave you for five minutes."
+
+Nico smiled. He hadn't expected that answer. His sister had been learning to leave him in places where he was safe and happy without treating the distance as a threat to their closeness. Tonight, he realized, he could do the same for her.
+
+They finished putting up the other signs. One pointed toward the water station, which was far enough from the fire to keep the cups cool. The other marked the place where the musicians could leave their instrument cases without somebody tripping over them.
+
+When the last sign was placed, Nico looked around. The steps were filling with friends carrying blankets. There was room near the side railing for a card game, and from there he could see the stage without being in the middle of the dance floor.
+
+He helped Bianca spread a blanket over the stone. She thanked him, then asked whether he wanted anything before the show began.
+
+"A deck of cards," he said.
+
+"One deck or two?"
+
+"Two. Someone might want to play."
+
+She went to fetch them. Annabeth stayed for a moment, watching the musicians tune their instruments.
+
+Nico glanced up. "Are you going to dance with Percy?"
+
+Annabeth felt her cheeks get hot.
+
+"I might."
+
+"Then why are you still here?"
+
+"Because the music hasn't started."
+
+"Right." He looked back at the stage. "I can see why you like him. He gets embarrassed about the same things you do."
+
+Annabeth opened her mouth, then shut it. She decided she could survive that observation without offering a rebuttal.
+
+The first conch sounded from the pavilion. Bianca returned with the cards. Nico put the DANCING sign in its place one last time, checking the arrow from the path, then followed his sister to the blanket. He was going to have the kind of evening he wanted. So was she.
+
+---
+
 The fire caught fast.
 
 Flames climbed the stacked logs, crackling and popping, sending sparks spiraling up into the darkening sky. The whole amphitheater glowed orange. Faces turned golden. The smoke curled up sweet and sharp, and for a minute everybody just sat and watched it catch, the way they always did, quiet in that shared way that made Percy think of the ocean at night.
