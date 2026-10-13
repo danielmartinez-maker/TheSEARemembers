@@ -704,6 +704,95 @@ After a while Annabeth returned carrying one fallen flower. Instead of pocketing
 
 Percy sat beside her while she worked. He named two nearby coral branches, then stopped when she said she wanted to guess first. He watched her take her time. When one name came out wrong, he gave her the answer and she wrote it down without crossing out her guess.
 
+The instructor agreed to a single guest session, with no standing enrollment and no special rank for Clarisse.
+
+Her name was Mera. She kept the training hollow's schedule on a slate by the entrance and knew which groups had already practiced that day. Before anyone entered, she asked Clarisse to inspect the borrowed spear and choose a protective grip that suited her hand.
+
+"How long do you want?" Mera asked.
+
+"One round to see what the current does," Clarisse said. "Then maybe another."
+
+"That's a sensible place to start."
+
+Percy sat beside the ring with Silena while Triton went to speak to the workshop supervisor. The training circle was shallow enough that the water didn't move anyone off their feet, but a steady sideways flow meant every step required a small correction. Clarisse adjusted quickly and began a short exchange with Mera.
+
+The first touch went to the instructor. Clarisse had tried to drive straight in, leaving her left side exposed as the current took her weight. Mera stopped and pointed to the position of her feet.
+
+"You came from the surface with the right idea," she said. "But you're still assuming the ground will wait for you."
+
+"The ground usually does."
+
+"The water doesn't."
+
+Clarisse reset, this time turning her back foot before she moved. On the second exchange she avoided the same opening. She didn't score, but Mera nodded.
+
+"Better. Want to try again?"
+
+"Yes."
+
+Silena watched the lesson with an expression Percy recognized. She was pleased to see her sister learning something she'd chosen, but she was also worried Clarisse would keep going just to prove she could.
+
+"Can she still feel the strain from the garden repair?" Percy asked.
+
+"She said the wrist was better. That doesn't mean she should ignore it."
+
+They waited until the round ended. Clarisse rolled her wrist, considered it, then handed the spear back to the instructor.
+
+"That's enough for today."
+
+Mera looked surprised. "You could continue."
+
+"I know. I don't want the last attempt to be the one that makes my arm hurt tomorrow."
+
+She had learned the difference between stopping early and being beaten. Percy felt absurdly proud, and decided not to say so where she could hear.
+
+After the lesson, Mera gave Clarisse a short written note: the footwork drill she'd practiced, where it needed improvement, and the points she should check before trying it at camp. Clarisse asked whether she could share the method with Chiron. Mera agreed, on condition that Clarisse explain the drill had been designed for water with a controlled current rather than ordinary arena sand.
+
+"Then I'll adjust it with him," Clarisse said.
+
+She did not sign up for twice-monthly lessons. She took a useful exercise home and left a future visit undecided.
+
+Silena was dealing with a different version of the same choice. The workshop supervisor had sent over the terms for the craft display. They wanted a finished piece inspired by the palace's weaving patterns and offered to credit Silena by name. But the draft also included a line granting the household the right to reproduce her adaptation afterward.
+
+Silena read it twice.
+
+"I don't want that," she said.
+
+The supervisor, a woman named Lyris, looked genuinely surprised. "Why not? We would give you credit."
+
+"I haven't even tested the design in dry air. If I make something worth using, I want to decide who makes more of it."
+
+"We could remove that clause."
+
+"Then I'd consider contributing."
+
+Lyris took the sheet and marked the line for revision.
+
+"Would you like a copy of the amended terms?"
+
+"Yes. And I want to be able to take the pattern home before I agree."
+
+"That's fair."
+
+Percy had never thought of a craft display as something that required negotiating rights to a design. Silena had. She wasn't being difficult. She was treating her own work as valuable even before she knew whether it would succeed.
+
+When both sisters came back to the terrace, they were carrying papers instead of gifts. Clarisse had a training note. Silena had a draft agreement with a sentence crossed out. Neither had enrolled in anything.
+
+"Are you pleased?" Percy asked.
+
+"With the session, yes," Clarisse said.
+
+"With the possibility of the display," Silena answered. "The actual design still needs work."
+
+"That sounds like a good visit."
+
+"It does," Silena said. "Especially because we get to leave with our own decisions intact."
+
+They joined Annabeth and Thalia, who were comparing the current around the reef with the marks on the garden chart. The afternoon had produced work for all of them, but not obligations somebody else had invented on their behalf.
+
+
+---
+
 They stayed until the outer reef darkened and luminous coral began to show. The return current waited, but Amphitrite invited one more walk along the terrace before departure. The whole family went: Poseidon by then, council behind him; Triton with Silena; Clarisse and Thalia comparing the new sparring ring's strength; Amphitrite talking with Annabeth about the garden chart she wanted to make.
 
 ---
