@@ -659,7 +659,7 @@ Katie read the list and crossed out a name a younger camper had written on someo
 
 Annabeth did. The camper agreed to one morning a week, not three, and she recorded the answer exactly. By the time the list was complete, it looked less impressive than the first version. It also described work people had actually chosen.
 
-Silena hung the rota inside a waterproof sleeve by the tool shed, well away from the old shrine. Annabeth left a second blank sheet underneath for observations. They would learn how often the beds needed water from the plants themselves, not from the neatness of the timetable.
+Silena hung the rota inside a waterproof sleeve by the tool shed, well away from the old shrine. Annabeth left a second blank sheet underneath for observations. They would learn how often the beds needed water from the plants themselves, not from the neatness of the timetable. Annabeth made sure the spare keys went to the regular maintenance crew, not into her own pocket. The garden should still be cared for if she was away, tired or occupied with another project. Katie thanked her for thinking of that. It was a small exchange, but it made the responsibility feel shared instead of merely announced.
 
 The first person to use the new path wasn't anyone who had helped build it.
 
