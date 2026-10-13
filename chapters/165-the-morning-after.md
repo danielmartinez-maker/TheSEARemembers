@@ -625,11 +625,34 @@ Percy sat with Annabeth on the back step of the cabin with a quilt around their 
 
 "Structural unsoundness," Annabeth said, in a perfect flat impression of Clarisse that she had never in her life admitted to practicing, and Percy laughed until his eyes watered and the sound went out across the water and came back changed, and the lake took it the way it took everything, without comment, the way it had taken his father's promises and his mother's warnings and a summer's worth of a boy learning to stay.
 
-Five present. One owed a letter, promised Sunday. One across the water with his own chapter. One who came like weather, formal and brief. The arithmetic held.
+Annabeth drew her knees under the quilt and glanced back toward the path. It was getting dark enough that the turn by the reeds had disappeared. They had promised to be back before the lamps were needed.
 
-The light went gold and then gray and then blue over the trees, and the first cold of the evening came up the hill off the freshwater, and they sat in it under the one quilt, fourteen and fourteen, with nothing to prove and a whole evening left to spend, and the heron kept watch in the darkening cove, and the skiff sat half in the water the way a promise sits half in a life, and the summer, which had been ending all week, kept its place for them.
+"Silena expects that letter tomorrow," she said.
 
-It was, all of it, just a Saturday. It was the best kind of day there was.
+Percy looked at her. "You're going to remind me right now?"
+
+"You asked me to remind you if you forgot."
+
+"I haven't forgotten."
+
+"You forgot the paper."
+
+He put a hand in his pocket, feeling for the note he'd meant to answer. The folded sheet was still there. He had carried it through breakfast, the shoreline walk, and the whole afternoon without writing a word.
+
+"I didn't forget the paper," he said, taking it out. "I forgot the part where I write on it."
+
+"That is generally considered the letter."
+
+Annabeth reached for her satchel and passed him her spare pencil. He balanced the note against his knee. For a moment the pencil hovered. Then he wrote three lines, crossed out one of them, and wrote something simpler in its place. He didn't let her read it. She didn't try.
+
+"Tomorrow," he said, folding the paper, "I'll ask Hermes cabin when the next mail leaves."
+
+"That sounds almost like a plan."
+
+"Don't tell Clarisse. She'll put it on the board."
+
+He tucked the note away and helped Annabeth fold the quilt. The skiff was still below the bank, half in the dark shallows, but the walk up was a real distance and the last stretch had no lantern. She checked the trail before they set off. Percy took her hand on the uneven ground, where doing so was useful as well as affectionate.
+
+At the bend, he glanced back. The water was barely visible through the pines. He could miss a brother and still have a letter to write. Both things would be there tomorrow. He followed Annabeth uphill while the first lamps came on above the cabins.
 
 ---
-
