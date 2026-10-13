@@ -56,6 +56,92 @@ Silena arrived with her camera bag bouncing at her hip and a ribbon in her hair 
 
 ---
 
+Myra had one more task for the restoration crew before the visitors arrived. It was waiting on the worktable just outside the passage: two pieces of plaster the size of playing cards.
+
+"Which is the original?" she asked.
+
+Percy looked at them. Both held a band of dark blue with a lighter line running through it. One had a tiny chip at the upper edge. The other did not.
+
+"The chipped one," he guessed.
+
+"Why?"
+
+"Because it looks older."
+
+"What if I chipped it last night?"
+
+Clarisse took one piece, examined the brush marks and handed it back. "The one on the left. The blue goes into the crack instead of over it."
+
+"Correct." Myra laid the pieces side by side. "I painted the other one yesterday using our reconstruction of the pigment. It's a good match. Good enough that someone might mistake it for the old work, especially when they're standing at a distance."
+
+Silena reached for her camera.
+
+"Not yet," Myra said. "First tell me what you would do if the original had a missing section."
+
+"Fill it," Percy said.
+
+"With the new color?" Myra asked.
+
+He looked again. The painted line on the new tile had a tidy edge. In the original, the brush had dragged a fraction near the bottom, leaving a little clot of blue. If someone filled the gap with the perfectly smooth copy, the result would be prettier. It would also hide the hand that had made the first painting.
+
+"I'd want you to tell me what was missing," he said.
+
+"That's the beginning."
+
+Annabeth brought the restoration log closer. Myra showed them where she had marked original pigment, consolidated original pigment and new reversible replacement material in separate columns. Silena had photographed each stage. Clarisse had entered the days she spent stabilizing the border so nobody could later pretend the surface had always been intact.
+
+"Visitors won't read every page," Silena said.
+
+"No," Myra agreed. "That's why a short label must be accurate."
+
+The draft label lay beside the plaster tiles. It called the mural a depiction of the three elder brothers in a moment of unity and named the restoration crew. It described the central figures as if they had been painted yesterday by an artist who knew each of the gods personally.
+
+Percy felt uneasy. He had met his father often enough to know that a picture of Poseidon with one hand around Zeus's shoulders said very little about what the brothers were like when the paint dried. Zeus had a way of arriving for Thalia in a face she didn't recognize. Hades was an uneasy absence even when Nico sat at a campfire. The image felt generous, but generosity in a painting wasn't evidence that the gods had earned it.
+
+"Could we call it a painter's view of them?" he asked.
+
+Myra glanced at him. "Why?"
+
+"Because this might have been what somebody wanted to believe."
+
+Annabeth studied the panel. "We don't know what happened before or after the scene. And the faces are damaged. We can't claim the expressions prove anything."
+
+Thalia came out of the passage in time to hear that last sentence. She stopped behind Annabeth, looking at the draft.
+
+"The man who made this never had to wait outside the Big House to find out which face Zeus would wear," she said.
+
+Silena went still.
+
+Thalia touched the paper with one finger. "I'm not asking you to take him out. It's old art. But don't write that he was a devoted brother because his hand is painted on Poseidon's shoulder."
+
+Myra nodded. "An observation about what the work shows is defensible. A judgment about what the gods were is not."
+
+Annabeth crossed out one line. She wrote that the mural *represents* the three brothers standing together in an imagined early camp. Myra checked the phrasing and approved it. Thalia read the amended sentence twice, then handed the draft back.
+
+"I can live with that," she said. "I don't have to like the painting the same way Percy does."
+
+"He's not sure he likes it either," Clarisse replied.
+
+Percy opened his mouth, then shut it. He liked the blue and the child on the steps. He liked the fact that someone had bothered to paint a world in which the gods could stand beside ordinary campers. He didn't know whether he liked the whole story the artist seemed to be telling.
+
+"It's beautiful," he said finally. "That's not the same as saying it's true."
+
+Myra smiled faintly. "Now you understand why I wanted two plaster tiles."
+
+They carried the new label to the viewing station. Silena photographed the original and the copy separately, with a card identifying which was which. She refused to arrange them side by side for a picture that could be mistaken for an untouched before-and-after.
+
+"Somebody might copy this into the cabin newsletter," she said. "They need to know what they're seeing."
+
+Clarisse helped Myra set the label beneath a clear cover. She did not try to make her handwriting smaller when she signed the maintenance ledger. She'd spent weeks on this project. Her work was not somehow less important because it involved sandbags, braces and patience instead of making art from nothing.
+
+The group went down the passage together for a final check of the room. Annabeth tested the width of the stairs with her own feet. Thalia checked that the electrical supply had a reachable cutoff. Silena kept a hand over her camera lens until they were back aboveground, mindful that repeated flash wasn't part of the viewing plan. Percy held the door while Myra locked the box of conservation tools.
+
+It was the last unphotographed moment they would have that morning. The mural belonged to more people now, though it hadn't changed hands. They had found it and helped preserve it, and soon strangers would bring their own memories to the three gods and the child on the steps. Percy wasn't sure he was ready for that.
+
+Then Clarisse clapped him once on the shoulder.
+
+"Doesn't matter," she said. "They're coming."
+
 By nine, the slope above Cabin Six held more campers than the capture-the-flag briefing. Orange shirts dotted the wet grass. Someone had brought a bench from the amphitheater. Someone else had brought popcorn, which Chiron confiscated with apologies and a hidden smile. The awning had been pulled back, revealing the shored entrance framed in cedar, a rope line guiding feet down the new steps. Caged bulbs glowed inside, warm against cool stone.
 
 Chiron stamped a hoof on the gravel for quiet. Rain dripped from the Big House umbrella someone held over him. His voice carried without shouting.
