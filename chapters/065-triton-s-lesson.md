@@ -370,6 +370,130 @@ Thalia watched them with a small, knowing smirk and said nothing, which for Thal
 
 ---
 
+At the equipment table, Silena was having an argument about the practice shield.
+
+The strap had twisted during her spar with Percy. It hadn't broken, but she'd felt the handle turn inside her hand, and she didn't trust the shield to do what she needed in the final exercise. Milo had a spare. It was heavier and sat badly against her wrist.
+
+"This is the only other one in your size," he said.
+
+"Then I need to change the way I hold it," Silena replied.
+
+Clarisse looked over from the next table.
+
+"Here," she said, taking the heavier shield. "Put your fingers through the second loop. Your grip will sit closer to the center."
+
+Silena tried it. The shield dipped toward the ground.
+
+"That's worse."
+
+"It shouldn't be."
+
+"It is."
+
+Clarisse reached for it again, and Percy watched Silena pull back.
+
+"I know you're trying to help," she said, "but you aren't inside my arm. It hurts in a different place when I turn it."
+
+Clarisse stopped. She had been training with a shield almost as long as she'd been holding a spear. Her first instinct was to correct the equipment, not ask why Silena disliked it. Percy recognized the pattern. Clarisse often found something that worked for her and assumed everybody else could manage it with enough practice.
+
+"Show me," Clarisse said.
+
+Silena held the shield and made a slow turn. The heavy rim pulled her arm downward. She could keep it level by tensing her shoulder, but then her sword arm rose too high. She demonstrated the same motion with the lighter shield, and the difference was immediate.
+
+"That's what I'm saying."
+
+Clarisse watched more carefully this time.
+
+"Fine. You need the lighter one."
+
+"Milo says there isn't another."
+
+"Then we'll ask the armory."
+
+Milo looked pleased not to be the person expected to settle a disagreement between the two older daughters of Poseidon. He found the armory list and checked which shields were out for repair. The light model Silena preferred had three examples in storage, one of which was waiting for a new grip.
+
+Tyson heard the conversation and offered to bring the repair kit.
+
+"How long?" Silena asked.
+
+"Twenty minutes if the parts are here."
+
+"Then I can practice without the shield until it's ready."
+
+Clarisse nodded. The solution was less dramatic than either of them had expected. They had needed the right equipment, not a lecture about improving their grip.
+
+Percy sat beside the bench and ate the rest of his sandwich while Tyson retrieved the repair box. Silena examined the strap, marked the worn place and handed the shield to Milo with a note explaining what had moved during the exercise. Then she joined Percy on the bench.
+
+"You weren't listening when I called your left side earlier," she said.
+
+"I was listening."
+
+"You moved before I finished the sentence."
+
+"That still counts as listening."
+
+"No, that's hearing the beginning and guessing the end."
+
+Percy laughed, but she didn't.
+
+"I don't want to spend tomorrow asking whether you heard me," Silena said. "You have to acknowledge the signal before moving."
+
+Percy swallowed the last bite of sandwich. "Okay."
+
+She looked surprised he hadn't argued.
+
+"Okay?"
+
+"Yeah. I nearly ran into Clarisse on the first pass. You were right."
+
+Silena sat back.
+
+"Good."
+
+Clarisse came over with a spare bandage tucked into her belt.
+
+"I heard that," she said.
+
+"Of course you did."
+
+"You could say it again when the others are here."
+
+"No."
+
+She grinned, then looked at Silena's empty shield hand.
+
+"Still waiting?"
+
+"Tyson's fixing the grip."
+
+"Then you can practice with me without a shield. I want to see whether your footwork is what made Percy miss."
+
+Percy looked offended. "You just want to practice hitting me later."
+
+"Also true."
+
+They moved a few paces away from the table. Clarisse held her spear at rest and demonstrated the movement Silena had used in the surf: a small shift of the front foot that changed the line of attack without a dramatic leap or turn. Silena copied it, then corrected Clarisse when she moved too far to the left.
+
+Percy watched them. Their training wasn't about one sister proving she was stronger or another proving she could talk her way out of a fight. They had different skills and a willingness to be corrected by one another, at least when nobody in the audience decided to make the conversation a competition.
+
+Tyson returned with the shield before their break ended. He had replaced the worn strap with one cut from the approved stock and checked the buckle twice. Silena tried it, turned, raised her sword and smiled.
+
+"That's right."
+
+Milo recorded the repair date. Clarisse returned the spare heavy shield to storage. Percy helped wipe the grit from the workbench so the next person wouldn't set a clean blade on sand.
+
+Triton came to inspect the equipment just as the others gathered for the afternoon exercise.
+
+"Ready?" he asked.
+
+Silena lifted the shield and tested its balance.
+
+"Ready," she answered.
+
+Percy noticed she'd waited until she actually was.
+
+---
+
 After lunch, Triton called the Grace sisters to the dry training area beyond the tide line.
 
 He had spent the break working with Chiron and two Hephaestus campers to set up the practice ground. Percy had expected another curtain of water. Instead he found wooden platforms, a line of colored flags, a copper target fixed to a high stand and a broad exclusion zone that nobody was permitted to enter.
