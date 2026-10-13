@@ -1206,7 +1206,7 @@ When he reached Cabin Three, Clarisse had hung the wet gloves near the stove and
 
 Percy liked the mess. It had been made by people who were here, who would wake tomorrow and complain about whose boots were in the way. He found a place for his hat beside the others, changed into dry socks, and went to dinner.
 
-Annabeth had saved him a seat.
+Annabeth had saved him a seat at the end of the bench, close enough to the brazier to warm his hands without soaking another pair of gloves.
 
 Snow day, with family. Sea and sky. Together.
 
