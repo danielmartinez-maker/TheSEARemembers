@@ -277,6 +277,156 @@ Thalia looked at her, owl shirt and eyeliner and fresh haircut, and said, "Come 
 ---
 
 
+The first person who saw them outside Cabin One was Percy.
+
+He had been carrying a bucket of wet practice gear to the shed. When he looked up, the bucket hit the ground and sent a splash across his shoes.
+
+Thalia put her hands on her hips. "What?"
+
+Percy stared at her owl shirt, then at Annabeth's leather jacket, then back at Thalia.
+
+"I'm trying to decide which one of you I should be more frightened of."
+
+"Me," they said together.
+
+Percy laughed. He retrieved the bucket and glanced at Annabeth's hair.
+
+"You cut it."
+
+"I did. Is that a problem?"
+
+"No. It looks good."
+
+He said it without sounding as though he'd prepared the answer. Annabeth was disproportionately pleased.
+
+"Thank you," she said.
+
+Thalia examined him. "You'd better not tell her it looks bad. She threatened to do mine next."
+
+"Wouldn't dream of it."
+
+"You sound frightened."
+
+"I've had a lot of practice."
+
+He went toward the shed, smiling to himself. Annabeth watched him for a moment, then realized Thalia was watching her watch him.
+
+"Don't," she warned.
+
+"I didn't say anything."
+
+"You were going to."
+
+"I was going to point out that your boyfriend looks like he forgot how to walk."
+
+"He dropped a bucket."
+
+"Exactly."
+
+Annabeth began walking faster. Thalia fell into step without much effort.
+
+Near the arts cabin, an Apollo camper called Thalia's name. He was holding two portrait sheets and a little graphite pencil, and he looked relieved to find the older girl out of training armor.
+
+"We're doing a set of drawings for the cabin board," he explained. "Can you sit for ten minutes? The last picture we have of you is from the winter tournament."
+
+Thalia looked at Annabeth. "She's the one with the new haircut."
+
+"I already have her portrait from the architecture exhibit," the camper said.
+
+"Then you can draw another."
+
+Annabeth didn't know whether to be touched or irritated. Thalia had started trying to make sure everyone noticed her new hair within minutes of leaving the cabin. The Apollo boy wanted Thalia, and Annabeth had no intention of standing beside a chair while he politely found a way to refuse her sister's instruction.
+
+"He asked you," she told Thalia. "Go sit."
+
+"You're coming."
+
+"To do what?"
+
+"Make fun of the drawing when it looks nothing like me."
+
+That was a decent invitation. Annabeth accepted.
+
+The artist had set up a small sketch station beneath the eaves. Thalia sat with one knee over the other, trying to look nonchalant, which required more effort than posing like she was preparing for a fight. Annabeth settled on the floor with her notebook and watched the pencil move.
+
+The boy asked Thalia to remove the owl shirt because the sleeves distorted the line of her shoulders. She refused.
+
+"It's borrowed," she said. "I'm wearing it for a reason."
+
+The boy tried to explain the practical problem. He wanted to draw the way the arm joined the torso, and the cloth was stretched so tightly he couldn't see it accurately.
+
+Annabeth looked up. "He's not asking you to change because he dislikes my shirt. He's trying to draw the shape underneath."
+
+Thalia considered. "Fine. Can I keep it on if I roll the sleeves?"
+
+"That would help," the artist said.
+
+He resumed drawing. Annabeth returned to her notebook and began sketching the chair, which she considered far more interesting than the portrait. The station had been assembled hastily from uneven boards, and one of the legs stood on a folded piece of cardboard to keep it level.
+
+"If you keep putting the chair on the same spot," she told the artist, "we can make it stable with a proper shim."
+
+He glanced down. "It does wobble."
+
+"I know. I can help you fix it after your session."
+
+Thalia turned her head to look.
+
+"Stop moving," the artist complained.
+
+"Sorry."
+
+Annabeth grinned and worked on the drawing. She had felt invisible for years in the life she remembered whenever somebody treated a twelve-year-old girl's interest in architecture as a hobby she'd outgrow. Here the problem was different. People recognized her as Thalia's younger sister and a child of Zeus before they recognized the projects she'd built. Thalia usually tried to compensate by introducing her as the cleverest person in camp. Annabeth loved the intention and hated having to live up to it.
+
+When the portrait was finished, the boy showed it to them. Thalia looked like herself, except the artist had made her chin more severe and drawn the borrowed owl shirt so faithfully that the emblem was visible over her heart.
+
+"Well?" Thalia asked.
+
+Annabeth examined it. "Good likeness. The shoulder's a little high."
+
+The artist laughed. "I know. She moved."
+
+"I was being artistic," Thalia protested.
+
+"You were fidgeting."
+
+Thalia snatched her own copy of the picture and held it beside her face. "Does it look like me?"
+
+Annabeth nodded. The image caught an expression she knew from childhood, or rather from the stories her sister had told her about childhood: Thalia trying to appear dangerous while she was actually pleased to be noticed.
+
+"It does," she said. "And my shirt looks better on you."
+
+"That is a terrible lie."
+
+"I'm very good at them."
+
+The artist thanked them, and Annabeth went to find a proper wedge for the chair. Percy passed with his empty bucket on the way back from the shed. He glanced at Thalia's picture and said it was a good drawing.
+
+"Except the shoulder," Annabeth said.
+
+Thalia groaned. "She's going to say that every time."
+
+"Probably," Percy replied.
+
+Annabeth took the shim from the workshop's scrap box and tested it under the chair. It made the station level enough for the next portrait. The artist thanked her and marked her name beside the little repair note.
+
+Thalia waited while she finished. She did not tell the boy that Annabeth could design better furniture than the entire camp, or that she ought to be asked to build a new station. She let her sister complete a small job and receive thanks for it.
+
+As they left, Annabeth slipped her arm through Thalia's.
+
+"That was fun."
+
+"You mean the portrait or fixing a chair?"
+
+"Both."
+
+Thalia looked suspicious. "You only came because I made you."
+
+"No. I came because you asked."
+
+The distinction pleased them both, though neither said so. At the arena they parted to change into practice shoes, still wearing each other's clothes, with an hour left before lunch and no agreement yet about which one looked more ridiculous.
+
+---
+
 Sparring was Thalia's love language, even if she'd never say it out loud.
 
 The arena was mostly empty by midday — a couple of Ares kids drilling in the corner, Lee Fletcher from Apollo picking arrows out of a target dummy, the son of Poseidon nowhere to be seen, thank the gods. Thalia had told Percy yesterday, very clearly, *if you show up tomorrow I will push you in the lake*, and he'd held up his hands and said, "Hey, sisters day is sacred, I get it," and then asked if they wanted him to pack snacks, which — okay, that had been sweet.
