@@ -544,6 +544,58 @@ Percy felt his own knees threaten to buckle. Poseidon's hand on his shoulder kep
 
 ---
 
+While the other gods spoke quietly among themselves, a messenger approached Percy and his friends with two copies of the court's immediate order.
+
+One copy recorded the weapon's return. The other suspended preparations for an open conflict between Zeus and Poseidon while the inquiry into Ares's actions continued.
+
+Percy read the second twice.
+
+"Does this mean nobody is going to fight?" he asked.
+
+"It means Olympus is not ordering its forces into war over this theft," the messenger said. "It does not mean every quarrel between the gods has vanished."
+
+Thalia gave a humorless laugh. "That would take another millennium."
+
+Annabeth looked at the wording. "Is Hades included?"
+
+"The notice will be sent to his court with the findings. Whether he accepts the terms is his sovereign decision."
+
+Percy thought of the Lord of the Dead explaining what a new war would do to the Fields. Hades had reason to accept a peaceful outcome. He also had reason to distrust a statement from a court that had suspected him without evidence.
+
+"Then send him the record of his helm's return," Percy said. "Not just the part saying Zeus's bolt is back."
+
+"Both will be included," the messenger promised.
+
+Grover asked for a copy of the notice that could be delivered to Chiron. He wanted the counselors to know what had changed before they lifted any restrictions on activities at camp. The messenger looked surprised by how practical the request was, then made a third copy.
+
+Percy realized that was the message his sisters needed. Clarisse had been keeping the border patrols running under the threat of divine war. Silena had been trying to repair enough equipment for younger campers to train safely. A notice that nobody should be mobilizing against Cabin Three was more useful to them than a story about Percy standing bravely before the king.
+
+Annabeth checked the names on the order.
+
+"Can you include the satyr searcher?" she asked. "Grover made the first contact with the witness who told us about the shipment. He was one of the three named by the Oracle."
+
+The messenger wrote his name beneath theirs.
+
+Grover blushed. "You don't have to put that."
+
+"It's what happened," Annabeth said.
+
+Thalia looked at her own entry. The document described her as an accompanying guardian authorized by Chiron rather than a named quester. She read it, then nodded once.
+
+"Good," she said. "I don't want to borrow a part in somebody else's prophecy. I wanted to get my sister home."
+
+Percy wished the court could record something that simple about all four of them. Instead they had categories, claims and seals. The categories weren't wrong, but they didn't explain why Grover had helped a woman leaving the Lotus or why Annabeth had guided strangers down the Arch stairs when her own sister was still above.
+
+The messenger signed the final copy and left.
+
+Percy kept the notice folded inside his bag with the other papers. He was beginning to think the objects in his backpack mattered less than what he did with them once he got back to camp. A written order could protect the younger campers from a rumor that had turned their friends into suspects. He wanted to see that happen before somebody claimed the quarrel was ancient history.
+
+He glanced toward Ares. The god of war was still arguing with a clerk about the restrictions on his armory access. Even now he seemed more offended by the record than by the theft.
+
+Percy stopped watching him and returned to his friends.
+
+---
+
 Poseidon turned then, fully, to his son.
 
 Up close, towering, smelling of salt and rain and old shipwreck, his father was both stranger and familiar. The same black hair as Percy, the same sea-green eyes, the same stubborn jaw Sally Jackson had always teased Percy about.
