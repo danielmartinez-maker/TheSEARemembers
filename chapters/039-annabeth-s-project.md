@@ -235,6 +235,114 @@ They sat there while the light moved a fraction of an inch across the altar, and
 ---
 
 
+Chiron arrived before the other guests.
+
+Annabeth was still sitting beside Percy on the mosaic when she heard the familiar sound of hooves on the path. She stood so quickly that Percy nearly lost his balance, then brushed invisible dust from the front of her shirt.
+
+"You're early," she said.
+
+"I wanted to see the finished work before the dedication," Chiron replied. "And to ask you something while we can speak privately."
+
+Annabeth looked at the offering bowl. She had checked the measurements, the path and every visible joint. She had submitted a sketch of the intended ceremony weeks earlier. There shouldn't have been another problem.
+
+"What's wrong?"
+
+"Nothing that I know of. But I want to understand what the space is for."
+
+She relaxed a little. "It's for people who need somewhere quiet. They can leave something that matters to them, or just sit. The inscription explains it."
+
+"I read the inscription," Chiron said. "I also saw that you've built an altar-shaped table and placed it within the camp's wards. Some campers may assume this is an official shrine to a god. Have you thought about what you'll say when they ask which one?"
+
+Annabeth stared at the table. She'd avoided carving any divine symbol on it. The design included things she loved, like the owl in the mosaic, but also waves and stars and knots and patterns that belonged to her friends. She had thought the meaning would be obvious.
+
+"It's not to Zeus," she said.
+
+Percy glanced at her, then at Chiron. He understood why that was the first name that came to mind. Zeus could be kind on one visit and frightening on the next. Annabeth didn't want him claiming her project simply because he was her father.
+
+"I didn't say it was," Chiron replied.
+
+"Or Athena. I learned from her in the life I remember, but that doesn't make this a temple for her either."
+
+"Then perhaps you should make that clear to the people who use it."
+
+Annabeth considered. "We could put a notice beside the entrance. It can explain that the bowl is for small personal objects. No fires, no blood offerings, nothing dangerous."
+
+"That's practical. But what about somebody who wants to pray?"
+
+She hesitated. "They can pray. I don't want to tell people what they're allowed to think in a place I built so they could feel welcome."
+
+"Then the distinction is between a place where people may practice a private devotion and a place that claims the authority of a particular god," Chiron said.
+
+"Yes. Exactly."
+
+Percy had been listening. "Would the gods mind?"
+
+"I can't promise you what any god will think of anything," Chiron replied. "What I can tell you is that you're not required to dedicate every useful thing you make to the deity whose name appears on your cabin."
+
+Annabeth looked down at the mosaic. She had been afraid somebody would tell her that being Zeus's daughter meant her work belonged to him, even when he wasn't there to see it. Hearing Chiron say otherwise didn't remove the fear, but it gave her language for the choice she'd already made.
+
+"Then I want it to stay a place for people," she said. "Nobody gets first claim because of their parent."
+
+Chiron nodded. "Who will care for it after today?"
+
+"All of us."
+
+"That is a good intention. How will you make sure it's possible?"
+
+Annabeth could have told him they would keep it clean and the roof sound. She had a maintenance schedule already written in her notebook. But Chiron's question had another part, and she heard it as soon as Percy looked toward the path.
+
+"What if somebody comes here who isn't one of the eight friends helping today?" Percy asked.
+
+"They're welcome," Annabeth said.
+
+"What if they move things around? Or they want to put an offering where you didn't plan one?"
+
+She felt a sharp resistance. She had spent weeks deciding where each stone belonged. She'd wanted the completed space to look the way she imagined it. A visitor moving objects around would break the arrangement.
+
+"Then we explain which things are permanent and which things they can change," she said slowly. "The structure has to stay safe, but the bowl can be used. That's why it's there."
+
+Chiron looked pleased. "I suggest you write that down with the other rules. Then the people who arrive after you've gone to your next lesson won't need to guess."
+
+Annabeth could do that. She had imagined the shrine as a completed gift. It had to become a place people could keep using without asking her every time.
+
+Percy picked up the little cloth she'd used to cover the offering bowl. "Can you leave room for someone who doesn't bring anything?"
+
+"Yes."
+
+"Good. I think Grover will want to sit here with his pipes sometimes."
+
+"He helped build it. Of course he can."
+
+"I know. I mean other people too."
+
+Annabeth looked at him. He was not accusing her of trying to keep the place for herself. He was asking whether the place she wanted to give away could survive being used in ways she hadn't chosen.
+
+"Other people too," she said.
+
+They walked once around the mosaic with Chiron. Annabeth showed him the sections of roof and the spots she wanted checked after heavy rain. He approved the small sign explaining the purpose of the hollow, then stepped back toward the path so she could finish preparing for the ceremony.
+
+At the entrance he stopped.
+
+"Annabeth?"
+
+"Yes?"
+
+"You have built a beautiful structure. Now other people will begin making memories in it. Some of those memories may have very little to do with what you intended. That doesn't mean the design has failed."
+
+She nodded. The idea was more unsettling than a crooked tile. She wasn't sure she liked it. But she had asked Percy to help her build a place where people could be themselves. She couldn't insist on directing what they did once they arrived.
+
+After Chiron left, Percy helped her place the sign beside the path. She read the wording aloud, changed one sentence that sounded too formal, then set down the pencil.
+
+"You ready?" he asked.
+
+"No."
+
+"Good. Neither am I."
+
+She laughed. He took her hand, and together they waited for the others.
+
+---
+
 Thalia was nervous, which annoyed her.
 
 She didn't get nervous. She got angry, she got reckless, she got loud. Nervous was for — well, not for daughters of Zeus who'd run with the Hunt and stared down Luke and lived to tell about it.
