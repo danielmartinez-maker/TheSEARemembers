@@ -192,6 +192,96 @@ Clarisse stood up, drawing held to her chest. "I'm going to get this framed," sh
 
 She nodded once, brusque, and went to her borrowed supply box to wrap the drawing in a clean T-shirt for safekeeping. Chris followed her, carrying a frame he'd already pulled from the donate pile.
 
+Silena found the drawing before Clarisse had chosen a frame.
+
+She arrived with a box of replacement straps for the training shields and stopped in the doorway when she saw Clarisse sitting on the floor, the faded paper resting on her knees. A younger Ares camper was holding up two frames and asking whether the silver one looked more heroic.
+
+"What's that?" Silena asked.
+
+Clarisse stiffened. "Nothing."
+
+Silena stepped closer. "That's very clearly something."
+
+Percy watched Clarisse prepare a joke, the sort she used to get out of conversations she'd rather fight than finish. Instead she held the paper so Silena could see it properly.
+
+Silena stared at the two figures. Her mouth opened, then closed.
+
+"I thought you threw that away."
+
+"I said I did," Clarisse answered.
+
+"You said it was stupid."
+
+"It was stupid. Look at the size of the spear."
+
+Silena crouched next to her. She didn't take the drawing, although Percy could tell she wanted to touch it.
+
+"I made this when I thought all heroes had to look angry," she said.
+
+"You gave yourself a pink dress."
+
+"I liked the pink dress."
+
+"You said you were going to wear it to battle."
+
+"I would have," Silena replied. "I would've ruined it and complained to everybody, and then I'd have wanted another one."
+
+Clarisse snorted.
+
+Percy had known the two of them as his sisters for long enough that he sometimes forgot their childhood together preceded his place in Cabin Three. In this life they'd been children of Poseidon the whole time, but they hadn't grown up with Percy beside them. The stories they carried did not belong to him just because their father was the same.
+
+Silena examined the crayon lines.
+
+"Did you keep it under the bench all these years?"
+
+"Nobody looked there."
+
+"Because you told everybody not to touch the bench."
+
+"Good policy."
+
+Chris came over with the two frames and asked which one they preferred. Silena wanted the plain wooden one. Clarisse wanted the heavier dark one. They were about to argue when a younger camper suggested hanging it over the weapons rack.
+
+"No," Silena said at once.
+
+Everybody looked at her.
+
+"I drew it," she said. "I didn't know it would be found today. I don't want it hung up for strangers to make jokes about."
+
+Clarisse set down the dark frame. Her expression changed.
+
+"I was going to put it on the mantel," she admitted.
+
+"You can put it wherever you want in your own cabin," Silena said. "But you're borrowing this one. The Ares kids don't need my handwriting on the wall all year."
+
+Percy watched Clarisse think. She'd been proud of the drawing, and the younger campers' attention had pleased her. That didn't mean Silena had agreed to be a story everybody could tell.
+
+"One night?" Clarisse asked. "While we're here, so the kids who helped clean can see it. Then I'll take it back to Cabin Three."
+
+Silena studied her. "Only if I get to choose the frame."
+
+"You're going to choose the boring one."
+
+"Yes."
+
+"Fine."
+
+The younger Ares camper nodded as if he'd witnessed a diplomatic treaty. He fetched the wooden frame, cleaned the glass and helped Clarisse slide the drawing behind it without folding the edges.
+
+Chris found a clean hook above the mantel. He didn't put the frame up until Silena told him the height was right.
+
+"There," she said, standing back. "That's nice."
+
+Clarisse looked at the little drawing on the wall. She did not look comfortable with people watching her face, but she didn't take it down.
+
+"Now can we finish cleaning?" she asked.
+
+"Yes," Silena said. "And you can return those shields after you've checked the straps."
+
+Percy grabbed the replacement straps and helped stack them. He was glad they'd found the drawing. He was also glad Silena had arrived before it became a story everybody believed they could own.
+
+At dinner, a few campers asked about the picture. Clarisse told them it was hers and Silena's and that it would be coming home with them after the feast. The distinction lasted longer than Percy had expected.
+
 That evening, by the time the Ares cabin passed inspection — floors clean enough to eat off, though nobody recommended it — the story had spread. The little drawing of two sisters as heroes was propped on the Ares mantel in a plain wooden frame, next to a freshly polished helmet and a pink ribbon someone from the Aphrodite cabin had left without a word.
 
 Percy thought about it all the way to dinner. How long you could keep love taped under your bed and pretend it wasn't there.
