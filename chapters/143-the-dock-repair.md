@@ -546,6 +546,26 @@ At five the drill went quiet. The hammering stopped. The lake lapped. Sawdust se
 
 The dock stood straight.
 
+Percy reached for the ramp, but Annabeth stepped in front of him with her notebook open.
+
+"Not yet. We haven't finished the inspection."
+
+"We just built it," he said.
+
+"Exactly. We're very likely to trust the parts we put there ourselves."
+
+Clarisse looked at the new rail. "She's right. Everybody off the outer section. Tyson, can you sight the posts from the water?"
+
+Tyson moved along the pilings and called out the spacing. Annabeth measured each connection against the plan while Grover kept people back at the ramp. At the second post she found a washer that had slipped under the bolt head, leaving less bearing surface than the drawing required. Nothing had failed. It might never fail. Percy had watched the fastening go in and had missed it.
+
+"Take the load off that joint," Annabeth said. "We'll reset it."
+
+They supported the crossbeam, loosened the bolt and replaced the washer with a wider one from the hardware tin. Percy held the beam while Clarisse tightened the nut. Tyson checked the alignment again from below.
+
+"Now," Annabeth said, making a mark beside the connection in her log. "We can do the walk test. And Chiron still needs the repair record before we reopen it for the rest of camp."
+
+Percy looked at the straight boards, then at her careful check mark. He hadn't wanted another delay. He was glad she'd insisted on one.
+
 ---
 
 The first walk on the new dock at sunset felt like a prayer nobody had to say out loud, and Percy felt it in his bare feet first.
