@@ -6240,3 +6240,199 @@ She kissed him quickly, in full view of anyone who happened to look up. Then she
 The night had been theirs. The morning belonged to everyone. She liked being able to move between the two without feeling she had abandoned either.
 
 ---
+
+## January 26: Something That Was Hers
+
+Chiron offered Thalia the advanced archery program on a Thursday.
+
+He did it quietly, at the end of a meeting about winter instruction, with no announcement to the other instructors and no suggestion that the offer was a reward for being unusually difficult to manage. He had been considering changes for spring, he said, and wanted someone to redesign the lessons for campers who had outgrown the beginner groups but were not ready to teach.
+
+Thalia looked at the proposal.
+
+"How much freedom would I have?"
+
+"Enough to make mistakes."
+
+"That's a terrible answer."
+
+"I thought you might appreciate it."
+
+She read the outline twice. There were hours to schedule, equipment to request and a small budget that would require more ingenuity than she liked admitting. The program would be hers to build, though other instructors would still have a say in how it operated. It was exactly the kind of work she enjoyed when nobody was looking over her shoulder.
+
+"I'll do it," she said.
+
+Chiron nodded as if he had expected nothing else.
+
+"Then I'd like an outline before the end of February."
+
+She took the papers, folded them beneath her arm and left the office with a sense of purpose that had nothing to do with Rhys Calder.
+
+She enjoyed that feeling.
+
+At the range she spent two hours inspecting the equipment and thinking about the program. She made lists of skills the students would need, considered how to divide them into groups and found herself arguing aloud with an imaginary instructor about the value of teaching judgment instead of merely rewarding accuracy.
+
+By the time she reached supper, she had three pages of notes.
+
+Rhys found her at the end of the pavilion bench.
+
+"You're working."
+
+"Obviously."
+
+"On what?"
+
+She handed him the outline.
+
+He read it carefully, turning the pages one at a time. She watched his expression, already preparing to defend the parts she knew were unconventional. He stopped at the section on independent evaluation.
+
+"You're giving them a chance to assess each other?"
+
+"Yes."
+
+"That's going to be chaotic."
+
+"At first."
+
+He considered. "Then they'll learn how difficult it is to make a fair judgment."
+
+"Exactly."
+
+He looked up, smiling. "This is good."
+
+She felt an immediate rush of pleasure. It was not because she needed him to approve of the work. She didn't. It was because he had understood the point without requiring an explanation and had offered a real observation instead of praise for its own sake.
+
+"Chiron asked me to build it," she said.
+
+"Of course he did."
+
+She gave him a warning look.
+
+"What?"
+
+"You sound smug."
+
+"I'm pleased for you."
+
+She looked down at the pages. The answer made her smile.
+
+He leaned closer.
+
+"Come celebrate?"
+
+"I have work."
+
+"Tomorrow?"
+
+"More work."
+
+"Then when you're ready."
+
+She looked at him. He meant it. He wasn't going to pull her away from the program because he wanted another evening with her. He would still be there when she finished, and he expected her to have a life of her own beyond his cabin.
+
+She appreciated that more than she wanted to admit.
+
+"Later tonight," she said. "After I finish this section."
+
+He smiled. "I'll be there."
+
+***
+
+She arrived shortly after nine, carrying the outline and a piece of bread she'd forgotten to eat at supper. Rhys opened the door with his sleeves rolled, a guitar string caught around one finger and a mildly accusing expression.
+
+"You're late."
+
+"I told you I had work."
+
+"I know."
+
+"Then don't complain."
+
+"I was practicing being difficult."
+
+"Poorly."
+
+She stepped inside. The cabin was warm, and he had left the table mostly clear except for two cups and a small notebook. She set her papers down and looked at him.
+
+"I finished the section."
+
+"Good."
+
+"And I want a break."
+
+He smiled. "I was hoping."
+
+She kissed him.
+
+There was nothing hesitant about it. They had been together long enough that she knew how much she liked the way he drew her close, the quick change in his breathing when she caught his face between her hands, the smile he tried to hide when she broke off long enough to make a joke and then kissed him again. She felt the familiar pleasure of being wanted and the newer satisfaction of knowing she had come here after finishing work that belonged entirely to her.
+
+He drew back, looking pleased.
+
+"Good day?"
+
+"Very."
+
+"Then I'm glad you came."
+
+She touched his collar, smoothing a fold in the fabric.
+
+"Don't make me talk about the outline for another hour."
+
+"I wouldn't dare."
+
+"Good."
+
+She kissed him again, slower this time, enjoying the contrast between the day's brisk competence and the quiet warmth of being near him. The room had become a place where she could leave her armor by the door without becoming less herself. She liked that. She liked the private intimacy of a man who could argue with her over targets in the morning and be delighted to see her at night.
+
+Later they sat beneath the blanket while she told him about the program. She hadn't intended to. The ideas were still moving too quickly in her head, and he listened with the amused patience of someone who had been asked not to discuss a subject and then found himself trapped inside a detailed explanation of it.
+
+"You're doing it again," he said.
+
+"What?"
+
+"Explaining the outline."
+
+She looked at the pages on the table.
+
+"So I am."
+
+He smiled. "I'm enjoying it."
+
+"You're easily amused."
+
+"Possibly."
+
+She leaned against him, content enough to stop talking. For a while the room was quiet except for the stove. Then she looked up.
+
+"Would you want to help?"
+
+He considered. "With the program?"
+
+"Yes."
+
+"I could. But it sounds like you've already got a plan."
+
+"I do."
+
+"Then maybe you should build the first draft yourself."
+
+She stared at him. He was right, and she hated how quickly he had seen what she was trying to do. She wanted him involved because she wanted to share something important. She also wanted to make sure his place in her life was protected by a shared task. Those were not quite the same thing.
+
+"You're refusing an opportunity to be bossed around," she said.
+
+"A rare act of self-preservation."
+
+She laughed and kissed him.
+
+"All right. I'll do the first draft."
+
+"And I'll read it when you want me to."
+
+She nodded. The arrangement was better than she'd expected. It meant the project belonged to her, and his interest in it remained freely given rather than assigned.
+
+She spent the night in his cabin. The choice had begun to feel ordinary, but never dull. She could leave her notes on the table, sit close to him with no urgent purpose and allow the rest of the evening to belong to them. There was desire in the closeness and affection in the small things that followed, the blanket drawn up when the room cooled, a mug placed where she could reach it, the way he smiled when she woke before the alarm.
+
+In the morning she took the outline and went back to work.
+
+She felt more like herself than she had in weeks.
+
+---
