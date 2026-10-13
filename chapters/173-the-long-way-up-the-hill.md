@@ -510,13 +510,44 @@ Annabeth picked it up, and did not open it, and put it in her pocket with the ot
 
 "That's the whole day," Annabeth said. She looked at the wall — the whole summer drawn out in overlapping sheets, the lake in blue-green wash, the north path, the frost coming down over the reed margin in a light hand — and then she reached over, without ceremony, and switched off the lamp.
 
-The parlor went to the color of dusk. Out past the screens the lake held the last of the light and gave it back slowly, the way it gave everything back, and far down in the willow cove the heron stood on the bow of the sunken skiff, gray and still and perfectly balanced, one leg folded, waiting through the season the way it had waited through the last one.
+Annabeth turned the lamp down until the map's edges were barely visible. Percy stayed where he was, looking at the page she'd added after the overnight. There was an empty rectangle beside the line showing the frost, and he put a finger just above it.
 
-"Come on," she said. "The slate says bed, and I wrote the slate, and even the furniture knows you don't break a slate."
+"What's that for?"
 
-"That's my line."
+"Measurements we didn't take."
 
-"It's a good line. I'm keeping it," Annabeth said, and took his hand, and they went out of the parlor into the first cold evening of October, which was already laying itself over the camp like a blanket whose owner had forgotten it, and was not asking for it back.
+"That's inconveniently honest."
+
+"It's better than making up a number." She shut the field book and slid it under the wall map, leaving the rectangle blank. "I want to know how far the frost came down the bank. We can go back when it's light."
+
+Percy looked toward the window. The night had already taken the path beyond the porch, and Chiron had posted a notice about slick ground along the lower steps.
+
+"Not now."
+
+"I wasn't proposing now."
+
+"You had the face."
+
+"I have a face all the time, Percy."
+
+"A suspiciously useful one."
+
+She reached for the chalk beside the slate and added two words beneath tomorrow's date: FROST LINE. Then she looked at the rest of the list, where Silena had written the bread count and Clarisse had squeezed a tool inspection into the smallest available space.
+
+"That's a lot of work for a day we keep calling ordinary," Annabeth said.
+
+"Then maybe the ordinary days are the ones where people do their jobs."
+
+"That almost sounded like something responsible."
+
+"Don't spread it around."
+
+She replaced the chalk and slipped her hand into his. As they went out, Percy pulled the parlor door shut carefully enough that the latch didn't wake anyone upstairs. The first cold evening of October had made the wood swell. He tried the latch once more to be certain it caught.
+
+"You're going to put that on Clarisse's list," Annabeth said.
+
+"Obviously."
+
+She laughed, and they took the safer upper path to the cabins. The frost measurement could wait until daylight; the door was secure for tonight.
 
 ---
-
