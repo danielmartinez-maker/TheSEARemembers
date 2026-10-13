@@ -66,6 +66,116 @@ Across the table Thalia was watching them with an expression that was trying ver
 ---
 
 
+Percy was halfway down the path to the hollow when he found Nico standing beside a pile of stones, looking furious.
+
+"Morning," Percy said.
+
+Nico didn't look up. "The path's wrong."
+
+Percy looked at the path. It was the same narrow track they'd used for weeks, winding from the strawberry fields through the grass. Grover had marked the edge with smooth stones so campers could find their way without trampling the new plants. Nothing appeared to be missing.
+
+"Wrong how?"
+
+"Try walking along it without looking down."
+
+Percy did. He made it four steps before his sneaker caught the raised edge of a limestone piece near a tree root. He stumbled and caught himself on the trunk.
+
+"All right," he said. "That's not great."
+
+Nico pointed to a smaller gap farther down. "And that one's worse. Bianca helped carry the tiles yesterday. She caught her shoe there and almost dropped the whole crate."
+
+Percy crouched beside the stone. The path was hard-packed earth, and a few of the edging pieces had shifted after rain. He'd been moving along it so often that he'd learned where to put his feet. A person coming to the dedication for the first time wouldn't know.
+
+"Have you told Annabeth?"
+
+"She's already worried about the roof and the inscription and whether the sunlight will reach the middle. I don't want to show up and tell her she did something wrong."
+
+"She'd rather know."
+
+"Probably. But I can still hate telling her."
+
+Percy considered. He had spent enough time around Annabeth to recognize that her first reaction to a problem on a finished project was usually to imagine all the work she'd need to redo. Her second reaction was to solve it. Nico hadn't yet learned to wait through the first.
+
+"Come with me," Percy said.
+
+They found Annabeth by the workbench outside the hollow, measuring a short board that was supposed to sit beneath the offering bowl. She had three notebooks open and a pencil balanced behind each ear, one of which promptly fell out when she looked up.
+
+"You're early," she said.
+
+"There's a problem with the path," Percy answered.
+
+Annabeth froze. "What kind of problem?"
+
+"Two stones are raised. Nico noticed. Bianca nearly tripped yesterday."
+
+She put down the board. "Where?"
+
+They showed her. Annabeth walked the path once, then again from the opposite direction. She knelt by the limestone piece, pressed on it, and saw the corner shift beneath her hand.
+
+"I thought we'd bedded that properly," she said.
+
+"We did," Percy replied. "The rain washed some dirt out."
+
+"I should have checked yesterday."
+
+Nico looked uncomfortable. "I saw it yesterday, but I thought it was only one stone."
+
+Annabeth took a breath, then glanced at him.
+
+"Thank you for telling me now," she said.
+
+He relaxed a fraction.
+
+"We could put a plank over it for the ceremony," Percy suggested.
+
+"No. Somebody would step off it, and we'd have the same problem at the edge. We need to reset the stones."
+
+"Can we do it before everyone arrives?"
+
+"Maybe. If we stop trying to make it invisible."
+
+She fetched a spade and a small level from the workbench. Percy carried a bucket of gravel from the pile beside the shed, while Nico went to ask whether Grover could identify the roots beneath the edge of the path. Annabeth didn't want to damage the trees to save a few minutes.
+
+Grover arrived with soil on his knees, listened to the problem, and showed them which exposed roots they needed to avoid. They moved the loose limestone, added gravel beneath it, packed the soil around the edge and tested it again. The corner stayed down.
+
+The second gap was harder. It was near a bend where people naturally stepped toward the outside of the path. The gravel was wet and wouldn't hold in the shallow hole.
+
+"We need another solution," Annabeth said.
+
+Percy looked toward the old timber scraps. "Could we widen the path on the inside instead? Move the marker stones, not the roots."
+
+Annabeth examined the curve. The proposal would shift the walking line half a step away from the tree and give visitors more room to pass each other. She had been thinking about patching the hole because the hole was what Nico had pointed out. Percy had looked at the route instead.
+
+"That might work," she said. "Let's measure it."
+
+They moved the marking stones, cut a shallow channel to carry rainwater away from the inside edge and packed the new walking surface. Then Nico walked it, followed by Percy carrying a tray held at shoulder height so he couldn't see his feet. Both made it without catching a shoe.
+
+Annabeth watched the third trial, made by Grover with the hem of his cloak hanging down. She could still see places she wanted to improve. The route was safer than it had been an hour ago, and nobody had had to move a root or hide the problem beneath a piece of wood.
+
+"Do we tell everyone about the change?" Nico asked.
+
+"We put a sign at the entrance so people know the path's been widened," Annabeth said. "And after the ceremony, I'll check it again. It still needs to stand up to the next rain."
+
+Percy looked at her. "You didn't get upset."
+
+"I got upset. I just had a better use for the time."
+
+She smiled, then glanced at the clock on the workbench.
+
+"Oh, gods. I still have to finish the offering bowl."
+
+"Then go," Percy said. "We'll clean the tools and put the signs out."
+
+Annabeth hesitated. She was used to staying until the last job was complete, partly because she didn't trust anybody else to notice what needed doing. The three boys were already gathering the buckets. They knew where everything belonged.
+
+"Thank you," she said.
+
+Nico looked pleased. He had expected to ruin the dedication by bringing bad news. Instead they'd fixed something that might have hurt a guest. Percy showed him how to brush the remaining gravel off the path without scattering it into the roots, and Grover returned the borrowed spade to the shed.
+
+By the time the first visitors arrived, the path was level. Nobody would know how recently it had been changed unless they read the small sign by the tree. Percy liked that. The work had succeeded because people could use the path without having to think about it.
+
+---
+
 Annabeth had built things before.
 
 She'd built a scale model of Olympus out of toothpicks when she was seven that her dad still kept on a shelf. She'd built traps and bridges and siege ladders at camp. She'd helped rebuild cabins after the war games went wrong.
