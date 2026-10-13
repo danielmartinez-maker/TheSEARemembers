@@ -2867,3 +2867,199 @@ She kissed him once more. It was a private, deliberate farewell, not a promise o
 She wasn't thinking about his bow or his ability to fix a broken hinge. She was thinking about the fact that he'd been willing to play a half-finished song with her in the room. It was a different sort of intimacy, and she wasn't ready to call it less important than the others.
 
 ---
+
+Saturday was the first time Rhys proposed a plan that did not involve either his cabin or her injured foot.
+
+"Half an hour," he said at breakfast. "After lunch. Flat ground."
+
+"That sounds suspiciously like an appointment."
+
+"It's a suggestion."
+
+"Where?"
+
+"Come with me and find out."
+
+Thalia put down her mug. "Do you expect me to enjoy surprises?"
+
+"Not necessarily."
+
+"Excellent pitch."
+
+He smiled. "You can say no."
+
+She considered saying no just to see what he would do. The idea was childish and not particularly interesting. She had spent a week testing the limits of his patience. It was beginning to occur to her that she could use the same energy on something more enjoyable.
+
+"Half an hour," she said.
+
+"Half an hour."
+
+"Flat ground."
+
+"Flat ground."
+
+"No elaborate romantic gesture."
+
+He looked offended. "You take all the fun out of planning."
+
+"Good."
+
+At one, he met her by the west path with a small canvas bag. The cold had eased enough for the sun to show between the clouds, but the air still carried the promise of another frost by nightfall. He offered his arm at the muddy turn, and she took it without making a speech.
+
+They walked toward the old orchard, a part of the camp that had been mostly empty since the harvest. A few late apples still hung on the higher branches, red against the bare grey wood. The ground was soft, but the path followed the edge of the fence and avoided the worst of the ruts.
+
+"This is your plan?" she asked.
+
+"You're difficult to impress."
+
+"I am. Continue."
+
+At the far end of the orchard stood a low stone wall. Rhys laid a folded blanket across it and took a small camera from his bag.
+
+Thalia stopped.
+
+"No."
+
+"You haven't heard the idea."
+
+"I see the camera."
+
+"It's not a weapon."
+
+"That depends on who uses it."
+
+He turned it over in his hands. It was an old instant camera, scratched at the edges, with a strip of faded tape on the back. Someone had written APOLLO STORAGE in block letters across the tape.
+
+"I borrowed it," he said. "The film's expensive. There are three exposures left."
+
+"Why?"
+
+"Because I wanted a picture of you."
+
+She looked at him. The question should have been simple. She had pictures of herself in old family boxes, school records, the odd group shot taken at camp. A photograph wasn't a confession. But she disliked being told to smile for a person who would then possess a version of her she hadn't chosen.
+
+"Ask properly," she said.
+
+He lowered the camera. "Would you let me take a picture of you? You can keep the print, or we can put it away. I won't show anyone without asking."
+
+She studied his face. It wasn't a bargaining tactic. He was offering her control over the image, which made it easier to consider the idea on its merits.
+
+"What do you want it for?"
+
+He looked down at the camera, then back up. "So when I go home, I can remember what you look like when you're laughing at me."
+
+She gave him a look. "You could just remember."
+
+"I could."
+
+"Your memory is failing already?"
+
+"Quite badly. I keep remembering the wrong things."
+
+"Such as?"
+
+"The way you look at me when you're trying not to smile."
+
+That was unfair. Thalia turned toward the orchard so he wouldn't see exactly how effective the answer had been.
+
+"One picture," she said.
+
+"Only if you want."
+
+"One. And you're not making me pose."
+
+He held up the camera. "Agreed."
+
+She sat on the wall with the blanket under her, her bad foot resting on the ground. He stood several paces back, adjusting the frame. She deliberately made a terrible face. The shutter clicked. The camera whirred, and a white-edged print emerged.
+
+"That's your one," she said.
+
+"You promised a picture, not an attractive picture."
+
+"I didn't promise anything of the sort."
+
+He handed it to her while the image developed. She watched her own face slowly appear, eyebrow raised, mouth twisting in a challenge. It was an entirely recognizable expression. She would have claimed to hate it if it had been taken by almost anyone else.
+
+Rhys looked over her shoulder. "Perfect."
+
+"You're blind."
+
+"I'm an excellent judge."
+
+"Of archery targets. Clearly not photographs."
+
+He reached for the print, then stopped. She understood the question before he asked it.
+
+"Can I keep it?" he said.
+
+She looked down at the photograph again. She had never liked the idea of being captured without warning, her face made into evidence for somebody else's story. But she had chosen this. She had looked into the lens and made exactly the expression she wanted. There was no demand to look sweet or compliant or particularly beautiful.
+
+"Keep it," she said. "But don't put it on the laundry slate."
+
+He laughed. "I wouldn't dare."
+
+They spent the next twenty minutes sitting on the wall. Rhys told her about the camera's history, how one of the Apollo campers had tried to use it during a rainy concert and ruined an entire packet of film. Thalia countered with a story about a camp photograph in which Annabeth had hidden behind a taller camper because she hated her hair that day. She found herself saying more than she'd intended about the younger girl, the exhausting years of keeping her safe, and how odd it had been to watch her become someone who could disagree with her openly and still come home.
+
+Rhys listened without trying to turn the story into an explanation of Thalia's personality. When she finished, he asked about the picture.
+
+"Do you want one together?"
+
+She considered. They had two exposures left. A photograph of them would be a private record of something they hadn't yet named. She could imagine looking at it in a month and feeling foolish. She could also imagine wanting it.
+
+"One," she said.
+
+They set the camera on the stone wall, aimed it toward the path, and used the timer. Rhys sat beside her. The first time he leaned too far forward and blocked half her face; she shoved him back with her shoulder just as the camera clicked. The resulting picture showed a blur of movement, his surprised grin and the unmistakable evidence that she had been laughing.
+
+She laughed again when she saw it.
+
+"That's terrible."
+
+"It's accurate."
+
+"Give me that."
+
+He held it above his head. She reached, then stopped, remembering the heel.
+
+"Don't make me injure myself for a photograph."
+
+"Then ask nicely."
+
+She narrowed her eyes. "Please."
+
+His grin widened. He gave it to her at once.
+
+The final exposure remained in the camera. Rhys put it away without suggesting another. They stood and folded the blanket. The half hour had become nearly an hour, but neither of them seemed inclined to mention it.
+
+On the path back, he took her hand. She let him. They passed two campers carrying a crate of apples, and one of them glanced at their joined fingers before looking away. Thalia felt the brief old impulse to let go, then found no real reason to obey it.
+
+Rhys noticed the glance too. He didn't tighten his grip or challenge her to prove anything. He simply kept walking beside her.
+
+At the fork she stopped and turned toward him.
+
+"You can keep the first picture," she said.
+
+"What about the second?"
+
+"I'm keeping it."
+
+"Fair division."
+
+"And if you go home, you don't have to stare at it like an idiot."
+
+He looked at her with mock gravity. "I'll do my best."
+
+She stepped closer and kissed him. It was a small kiss in a patch of sunlight, away from the cabin and the familiar cover of lamplight. It left her feeling both conspicuous and entirely content.
+
+When she drew away, he touched the pocket where he'd put her photograph.
+
+"Thank you," he said.
+
+"Don't make a ceremony out of it."
+
+"I wasn't going to."
+
+"You were thinking about it."
+
+He laughed. She let go of his hand and started uphill, the shared photograph safe inside her coat. Later she would hide it in the back of her trunk, not out of shame but because it was hers. She liked knowing it existed. She liked even more that he had asked before making it.
+
+---
