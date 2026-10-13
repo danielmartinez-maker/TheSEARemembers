@@ -655,33 +655,127 @@ Annabeth leaned her head against his shoulder. "I like that."
 
 They sat there a long time, reading initials, making up stories for the ones they didn't know. The wind moved in the olive leaves. An owl called once from the woods.
 
-Percy pulled his camp knife from his pocket — the small utility one, not Riptide — and held it up. "Can we?"
+Percy reached for his camp knife.
 
-Annabeth looked at the altar, at Athena's name, at Zeus beside her. At all those small loves carved where they wouldn't hurt anything. At camp rules about defacing sacred property, which she knew by heart and could quote.
+"Can we?" he asked.
 
-She took the knife.
+Annabeth followed his gaze to the old carvings. There were names and initials stretching across the back of the altar, some worn almost smooth by decades of weather. The marks felt private, like letters written by campers who had believed this stone would keep them safe.
 
-"On the back," she said. "Small. Where it doesn't show from the front. Like the others."
+She took the knife from his hand, but she didn't touch the marble.
 
-Percy grinned. Together, knees touching in the dirt, heads bent close, they worked. Annabeth did the letters because her carving was neater — she'd had practice on workshop wood. Percy held the stone steady and told her when to press harder.
+"Not with this," she said.
 
-P.J. + A.G.
+Percy looked disappointed. "Because it's a shrine?"
 
-Small, neat, deep enough to last. Under it, Annabeth added a tiny owl and Percy added a tiny wave, overlapping, so the owl looked like it was riding the sea.
+"Because it's somebody else's shrine. And because we don't know whether all those marks were supposed to be here."
 
-They sat back.
+He looked again. The older carvings were half-covered with moss. A few had cracked at the edges where rain had reached the grooves. The stone wasn't as permanent as it had seemed from the path.
 
-"There," Annabeth whispered.
+"People have been doing it for years," he said.
 
-Percy put his arm around her. She leaned into him, dusty cheek against his dusty shirt. The shrine gleamed clean in the sunset. Their new offerings stood side by side — blue dolphin, wooden owl — guardians for all those initials.
+"That doesn't make it good for the stone."
 
-"We'll come back in ten years," Percy said, "and it'll still be here."
+Percy took the knife back and capped the blade. He had wanted to leave proof that he and Annabeth had been there together. It had seemed simple, a way to add their names to a list of people who'd loved one another in the same place. He didn't want to damage something that had been standing before either of them existed.
 
-"In twenty," Annabeth said. "With our— with whoever comes after us. We'll show them where to look."
+"What about a piece of wood?" he asked.
 
-Percy kissed the top of her head. "Promise?"
+Annabeth considered. "A wooden offering would be allowed if we check with the shrine keeper. But we'd have to choose something that doesn't litter the grove or interfere with the altar."
 
-"Promise," Annabeth said, and held up her pinky, camp-solemn. Percy hooked his pinky through hers.
+"You're turning this into a building permit."
+
+"You're dating someone who reads building permits for fun."
+
+"Fair."
+
+They looked at the initials again. It occurred to Percy that they didn't know whether most of the pairings were lovers, siblings or friends. They'd been assigning stories to names because it was tempting to imagine every mark belonged to somebody they could recognize.
+
+"Do you think the one that looks like Silena and Clarisse is really theirs?" he asked.
+
+"It could be. It could also be two people with the same initials. Even if it is them, it might not mean what we're guessing."
+
+Percy thought of Silena's old drawing of Clarisse, found in the Ares cabin earlier that day. Those girls hadn't needed a shrine to prove how long they'd known each other. The paper had survived tucked away under a bench, and almost nobody had known it existed.
+
+"We could ask them," he said.
+
+"If they want to tell us."
+
+Percy grinned. "They'll probably argue over which one carved it."
+
+"They'll argue over the handwriting even if it isn't theirs."
+
+They took a small rubbing of the most fragile portion of the initials onto a sheet of thin paper from Annabeth's field notebook. She made sure not to press against the crumbling edge. It wasn't an official conservation method, and she planned to ask Chiron how older marks should be documented before anyone tried to clean that part of the altar again. The rubbing was a reference for the question, not proof of who had carved anything.
+
+Percy looked at the page when she finished. The shapes seemed smaller away from the stone, ordinary letters with no names attached.
+
+"Maybe that's enough," he said.
+
+"Enough for what?"
+
+"To remember that we were here. I don't think we have to prove it to the gods."
+
+Annabeth sat beside him on the step, the notebook across both knees. She drew the grove in a few quick lines: the olive trees, the two altars, the little stone path and the bucket of rags. Percy watched the drawing grow. She put two small figures at the bottom of the steps, one holding a bottle and the other holding a brush.
+
+"You made me too short," Percy said.
+
+"You are short from this angle."
+
+"I'm taller than the bucket."
+
+"Not in my drawing."
+
+He reached for the pencil. She let him add a wave beside the lower edge and a tiny owl on one branch. Neither symbol was carved into sacred property; neither had to be read by a god as a permanent demand.
+
+Percy wrote the date at the top. Annabeth added both their names beneath it.
+
+"That's us," he said.
+
+"On a page."
+
+"Which can get lost."
+
+"Yes. So we should make a copy."
+
+Percy laughed. "Now we're back to filing systems."
+
+"You're welcome."
+
+They folded the page and put it inside the waterproof notebook Annabeth had traded for at the end of summer. Percy decided he would ask Silena if she could make a proper protective sleeve for it. The image would be theirs to keep, show or leave private. It didn't need to sit on the altar where strangers might guess at the names.
+
+Then they finished cleaning the small area around the carved marks. Annabeth avoided scraping moss that had grown into cracks and left a note for Chiron about the stone's condition. Percy took the bucket to refill it once more.
+
+When he returned, she was still looking at the shrine.
+
+"Are you disappointed?" she asked.
+
+"A little. I wanted to do something that would last."
+
+She looked at their blue-glass dolphin and wooden owl resting among the fresh offerings.
+
+"We did."
+
+He leaned down to inspect them. They were modest things, not great declarations. The dolphin might break someday. The owl might rot. Percy knew now that even names cut into stone could be worn away by rain.
+
+"Then we can come back next spring," he said.
+
+"And clean them again."
+
+"Together?"
+
+She looked up at him with the expression he knew better than any other, an amused certainty that didn't need an audience.
+
+"Of course," she said.
+
+Percy put his arm around her for a moment. She leaned against him, both of them dusty and tired. The shrine was cleaner than when they'd found it, and they hadn't damaged any of its old marks to add their own.
+
+He thought Chiron would be pleased. He also thought it mattered that they had chosen the smaller gesture when the larger one would have been easier to dramatize.
+
+They collected the rags and the brushes. The grove smelled of wet stone and olive leaves. When they turned toward the path, Annabeth stopped long enough to check that neither of them had left a tool behind.
+
+"All clear," she said.
+
+Percy lifted the bucket. "Good. Because I'm starving."
+
+She took his free hand. The two of them started down the steps while the altars stood behind them, old and weathered and no less sacred for containing things they couldn't explain.
 
 Below, the dinner horn blew, long and low. Lights came on in the cabins, warm squares in the dusk. Someone — probably Tyson — shouted, "PERCY! ANNABETH! WE SAVED YOU BLUE COOKIES!"
 
