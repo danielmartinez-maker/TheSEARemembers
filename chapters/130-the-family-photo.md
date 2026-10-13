@@ -1158,3 +1158,94 @@ Percy looked at the proof again. It wasn't a picture of everyone who mattered to
 
 
 ---
+
+The finished Cabin Three print came after lunch, carried in a flat paper sleeve that Austin made Percy promise not to bend.
+
+Silena had been waiting at the sewing table, trying to concentrate on a strap she'd started the previous evening. Clarisse was reading the arena duty roster. Tyson had gone back to the workshop to help with a bench support and promised to return before evening.
+
+Percy set the sleeve on the table.
+
+"Ready?"
+
+Clarisse looked up. "You said that like you're delivering a prophecy."
+
+"It's a photograph."
+
+"Even worse."
+
+Silena slid the print out by its edges. The finished image was clearer than the proof. She could see the loose thread at her cuff and the little mark on Percy's collar where he'd spilled lemonade. Tyson's hand rested behind Clarisse's shoulder, not quite touching it, as if he'd been careful not to block her from the camera.
+
+Silena smiled first.
+
+"That's us."
+
+Clarisse leaned closer. "I look like I could take somebody's head off."
+
+"You look like you were trying not to laugh," Percy said.
+
+"I was."
+
+"Then the camera caught the important part."
+
+She studied the image again. "Fine. I like it."
+
+Silena fetched a frame from the storage chest. Its wood was scratched near one corner, and it lacked a proper hanging hook. Percy suggested they could use one of the spare hooks from the repair box. Clarisse checked the wall to make sure the frame would not block the door or hang where someone could hit it while carrying equipment through the cabin.
+
+"Not above the fountain," she said. "The damp will ruin the paper."
+
+They chose a spot on the inside wall near the worktable. It was visible from the bunks but away from the open window. Percy held the frame while Silena checked that the backing sat flat. Clarisse tightened the hook and tested its weight before they put the photograph inside.
+
+Tyson returned while they were finishing. He ducked through the door and stopped when he saw the print.
+
+"You hung it."
+
+"Here," Silena said. "Is that all right?"
+
+Tyson came nearer. He looked at the picture as though it contained something too large to be held in a wooden frame.
+
+"I like this place," he said.
+
+"It's a shared room," Clarisse replied. "You're in the picture too."
+
+"I have a copy for my bed at the forges," Tyson told her. "Austin said it will be ready tomorrow."
+
+"Good."
+
+The print on the wall didn't make Tyson a permanent resident. It didn't change the fact that he was visiting, or that his place to sleep during visits would have to be arranged with Chiron. But there was no reason to leave him out of a photograph that belonged to all four of them.
+
+After he went back to the workshop, Silena noticed Percy looking toward the empty space beside the new frame.
+
+"What's wrong?" she asked.
+
+"Nothing."
+
+"Percy."
+
+He sat on the edge of his bunk. "I was thinking about Sally. I have memories of her taking pictures in the life I remember. I wish I could put one here."
+
+Silena didn't try to tell him the new photograph should be enough. It wouldn't be.
+
+"Do you have one?" she asked.
+
+"Not from this life. There might be something in an old file, but I don't know."
+
+"Then you could ask Chiron whether there are any family records. If there aren't, that doesn't make your memories less real."
+
+He nodded. He was frightened by the possibility of asking and finding nothing. The photographs in the room could be printed and displayed, while the people he remembered from his former life had left no corresponding objects in this one.
+
+Annabeth came later and found him looking at the frame. He told her what Silena had said.
+
+"Would you want me to ask with you?" she said.
+
+"Yes. But not today."
+
+"Then another day."
+
+She stayed beside him for a while, looking at the family in the photograph. They had stood together on a warm afternoon, squinting into the sun, with nobody required to make the picture mean more than it could show.
+
+At the Big House, Austin placed the public group portrait in its approved frame. The private negatives and prints remained in labeled sleeves, and Chiron kept the signed display permissions with the archive record.
+
+By evening the camp had a new photograph on its wall, and Cabin Three had one of its own. The picture couldn't supply missing years or absent people. It could show who had been there when the camera shutter closed, and Percy was content to leave the rest of the story to those who remembered it.
+
+
+---
