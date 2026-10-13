@@ -915,6 +915,161 @@ They reached the cabin porch. There were three familiar pairs of shoes by the do
 
 ---
 
+An hour before dinner, Grover came looking for Percy with a problem that had nothing to do with Atlantis.
+
+He found him at the cabin table, where Clarisse had spread out her training notes and Silena was arranging the samples she'd brought from the workshop. Grover stood in the doorway with a bundle of reed pipes under one arm, looking as though he'd been practicing an apology and still hadn't decided how to begin.
+
+"Can you come down to the north path?" he asked.
+
+"What's wrong?"
+
+"A group of younger campers have been trying to help with the new planting beds. They moved some of the signs, and now nobody knows which rows are supposed to be watered today."
+
+Silena glanced up. "The beds near the strawberry patch?"
+
+"Yes. The plan was in the garden book, but it got wet during the storm last week."
+
+Percy looked at his bag. He'd barely unpacked. He was hungry, tired and still carrying the damp smell of the sea in his clothes. A small part of him wanted to say the problem belonged to the campers who'd moved the signs and let them solve it.
+
+"Did Chiron ask for help?" he said.
+
+"He's with a new arrival. I thought you and Annabeth might remember the bed layout."
+
+"Annabeth will know the measurements. I'll come see what's happened."
+
+He found her outside Cabin One, sorting drawings she'd brought back from Atlantis. She listened to Grover's explanation, then frowned.
+
+"I can't promise I remember which marker belonged to which row. The plan in my notebook is an older version. We changed the watering schedule after the last drainage repair."
+
+"So what do we do?" Percy asked.
+
+"We talk to the people who planted it."
+
+They went to the north path. Three younger campers were waiting beside a shallow trench where the water had collected after an afternoon shower. They looked guilty. One was holding two wooden plant labels, both written in the same green paint and smudged enough that Percy couldn't read them.
+
+"We wanted to put them where everyone could see them," the youngest explained. "Some were falling over."
+
+"Did you move the plants?" Grover asked.
+
+"No."
+
+"Then we haven't lost the garden," Annabeth said. "We just need to rebuild the labels."
+
+The children looked relieved. She didn't tell them their effort had been foolish. She asked how they'd decided which signs to move. The youngest showed her the loose stakes, which had been sinking into the soft soil whenever the irrigation line ran.
+
+"Then the problem was real," she said. "The labels weren't holding. We should solve that too."
+
+A Demeter counselor arrived carrying the revised watering plan. She'd been responsible for the beds and knew which rows were meant to stay drier while the seedlings established. Annabeth compared the plan with the map in her notebook, then marked the places where the temporary stakes would go.
+
+Percy fetched a small mallet and a bundle of spare wood from the tool shed. He expected to help rebuild the signs immediately, but the counselor stopped him.
+
+"Not in the wet soil. The stakes will sink again. We need a wider base."
+
+"What do we have?"
+
+"Leftover strips from the potting tables."
+
+They made new markers with broad wooden feet instead of narrow stakes. The Demeter counselor gave the children the task of painting the names, while Annabeth checked that the written labels matched the plants. Percy held the pieces steady as they were assembled. Grover tested each in the soil, pushing gently until it held without tipping.
+
+One of the younger campers studied Percy. "Is it true you can make the whole sea rise?"
+
+"I can move water," he said. "Not all of it."
+
+"Someone said you made a road to a palace."
+
+"Triton arranged an escorted passage. I followed it. That's a different thing."
+
+The girl looked disappointed. Percy understood. A prince returning from Atlantis ought to have impressive stories. He had some, but the part that mattered most to him was harder to describe than a road made of waves.
+
+"Was there anything dangerous?" she asked.
+
+"A chariot fitting came loose today. The driver stopped and replaced it. We took a different route because the repair needed testing."
+
+"That's not dangerous."
+
+"It could have been if nobody checked."
+
+She considered that, then returned to painting the word *marigold* on a marker. Percy watched her straighten the letters until they fitted.
+
+It occurred to him that for many of the younger campers, safety was an abstract promise. The heroes in stories fought monsters; the adults at camp checked buckles and made sure equipment was properly returned. In reality those were often the same people, doing different work according to what the moment required.
+
+When the new markers were ready, the counselor walked the beds with the group and placed each one in its assigned spot. Annabeth kept the revised plan and added the date in her notes. The old version remained behind it, crossed through but not destroyed.
+
+"What if it rains again?" one child asked.
+
+"Then we'll see whether the bases hold," the counselor said. "If they don't, we'll change the design."
+
+Percy liked that answer. Nobody had to pretend the first repair would last forever.
+
+They returned the tools as the dinner conch sounded. Grover carried the mallet, Percy carried the leftover strips, and Annabeth gave the revised planting plan to the counselor for the official garden book.
+
+"I thought you would be too tired after traveling," Grover said.
+
+"I am tired."
+
+"Then why did you come?"
+
+"Because you asked. And because I could do something useful."
+
+Grover smiled. "That's nice."
+
+Percy thought about the way he'd rushed toward problems all summer, sometimes to help and sometimes because he couldn't bear the idea of being unnecessary. Today he'd let the Demeter counselor lead, helped with the part he could do and stopped when the job was finished. It had been easier than expected.
+
+At the dining pavilion, Clarisse was already in line with Silena. She had her training notes folded in her pocket and was complaining about the smell of the unfamiliar preserved fruit they'd brought back from the palace.
+
+"The kitchen hasn't approved it yet," Silena reminded her.
+
+"Then why is it sitting on the counter?"
+
+"So they can inspect it."
+
+"Right."
+
+They joined the end of the line. Percy could hear the usual mixture of arguments, laughter and clattering plates. He had missed the sound while underwater. He had also liked the quiet in Amphitrite's gardens. Both things remained true without competing.
+
+During dinner, an Apollo camper came to ask whether the visitors would help explain the revised training safety notices to younger campers. Clarisse listened, then said she'd do it tomorrow with the arena instructor rather than make an announcement that night.
+
+"Why wait?" Percy asked.
+
+"Because the instructor owns the schedule. The new drill I learned doesn't go into the lesson plan until they've checked how it works on dry ground."
+
+"Good point."
+
+"I make several per year."
+
+Silena laughed. Annabeth was already looking at a note from the Demeter counselor about the plant markers they'd replaced. She had agreed to check the bases after the next rain and was considering whether a different wooden shape would last longer.
+
+Percy turned toward her.
+
+"You've just spent the day traveling," he said. "Can you leave that for tomorrow?"
+
+"I am leaving it. I'm writing down what we need to look at so I don't wake up in the middle of the night thinking I've forgotten."
+
+"Fair."
+
+She put the notebook away after making one more note. He didn't try to take it from her. They finished their meal and took the plates to the basin with the others.
+
+After the dishes were done, Grover returned with the youngest camper from the garden. She had carried one of the old markers, the one that had sunk farthest into the soil. It was still damp.
+
+"Can we keep this?" she asked Annabeth. "For the next time we have to make a better one?"
+
+Annabeth took it and looked at the warped base. "Yes. It's a useful reminder."
+
+The girl handed it to Percy instead. "Can you put it somewhere safe? Your cabin has that shelf with the other repaired things."
+
+Percy glanced at Annabeth. It was her design, and the Demeter counselor had led the repair. He didn't want the marker to become his trophy merely because he was standing closest.
+
+"How about we put it in the garden book with a note?" he suggested. "Then everyone can see why we changed the stakes."
+
+The girl nodded. Grover offered to carry it back. Percy watched them go, pleased that the story had ended with the object staying where it would be useful rather than disappearing onto his own shelf.
+
+He turned toward the path home. Clarisse and Silena were waiting near the pavilion, ready to argue about whose turn it was to take the kitchen linens back to Cabin Three. Annabeth and Thalia were walking ahead, discussing whether the new plant markers would survive a hard rain.
+
+Percy followed at his own pace. He'd returned from the sea with a copied drawing of his childhood training stage, a bag of gifts and a dozen possible stories about Atlantis. The first job he'd done at camp was holding a wooden sign while a child painted a word correctly. He liked that the camp had given him something ordinary to do without asking whether a prince ought to be doing it.
+
+
+---
+
 After dinner camp thinned into small groups. Grover walked Ella toward the Big House, debating whether shell flute could be played in the dining pavilion. Nico had fallen asleep on a bench and was carried away by a patient counselor. Silena and Clarisse went back to Cabin Three to unpack. Thalia went with them, claiming only to reclaim the map left in the bag.
 
 Annabeth found Percy at the lake.
