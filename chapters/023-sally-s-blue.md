@@ -46,6 +46,88 @@ Talking about her still caught him by surprise. He had told them about Sally for
 ---
 
 
+Before anyone touched the mixer, Percy went to find the kitchen supervisor.
+
+Argus had told him not to break anything and left the room. That might have been enough for a group of older campers who knew the ovens. It wasn't enough for Percy, whose only clear memory of this recipe came from standing beside his mother in a cramped New York kitchen while she let him steal chocolate chips.
+
+He found a kitchen attendant named Mara carrying a crate of clean pans down the hall.
+
+"Could you check the oven with us?" he asked.
+
+"Is something wrong with it?"
+
+"I don't know. It's old, and there are a lot of people in there who think they know how to cook."
+
+Mara looked toward the room, where Clarisse was announcing that she ought to be put in charge of the timer. Her expression suggested she'd heard enough.
+
+"I'll supervise the hot equipment," she said. "Nobody touches the temperature controls without telling me first. And the raw dough is not for tasting."
+
+Percy blinked. "Mom used to let me taste it."
+
+"Your mother made her own decisions in her kitchen. Here we're feeding campers, some of them very young. We'll use clean utensils and wait until the cookies are baked."
+
+He wanted to object that this was part of the memory, the little scrapings from the bowl and the flour on the counter. Then he remembered that the memory included his mother telling him to wash his hands every time he came in from outside, and that he'd always complained about that too.
+
+"All right," he said. "Can we set out the ingredients first?"
+
+Mara inspected the supplies. She had enough butter and flour for several batches, but the blue coloring was concentrated and needed to be measured before anyone poured it into a bowl. Percy showed her the bottle and admitted he didn't know whether his mother had used the same kind.
+
+"This one is safe for baking," Mara said after checking the label. "Start with the recommended amount. You can adjust the next batch if the color isn't right."
+
+The answer disappointed him. He wanted a blue as bright as the cookies he'd eaten in another life, and he'd imagined he could recognize the color the moment he saw it. He hadn't considered that a different dye could behave differently in the oven.
+
+"Then we'll start small," he said.
+
+Annabeth arrived with her notebook and listened while Mara explained where the emergency blanket, mitts and cooling racks were kept. She drew a little diagram of the workstations so people wouldn't have to crowd around the oven door.
+
+Clarisse stared at it.
+
+"You mapped a kitchen."
+
+"Yes," Annabeth said. "Now we can stop pretending eight people fit in the space meant for two."
+
+Thalia looked at the diagram. "Where do I stand?"
+
+"At the chocolate-chip station, provided you promise not to eat the supply."
+
+"No deal."
+
+"Then the door, where you'll have to ask somebody before coming back in."
+
+Percy laughed. It felt good to be teased about a cookie project instead of treated like a child whose history required careful handling. He had been worried the others would become solemn the moment he said Sally's name.
+
+Mara asked whether there were any allergies in the group they intended to feed. Silena checked the camp's food records and made a separate note for the kitchen to prepare an alternative dessert for anyone who couldn't eat wheat, eggs or dairy. Percy was startled by how many ordinary decisions were required to share a recipe beyond a single family.
+
+"Do we have enough time?" he asked.
+
+"For the first batch, yes," Mara replied. "For nine dozen cookies, only if the kitchen agrees to let us use the space until supper."
+
+Percy looked at the others. He had imagined one batch, something that would let him remember Sally without asking anyone to perform grief with him. The idea had grown into a camp event before he could stop it.
+
+"Let's see whether the first batch works," he said. "Then we can decide what to do next."
+
+Silena smiled. She liked that answer. The rest of the camp could wait until they knew the recipe was good and the equipment safe.
+
+Before mixing, Percy stood beside the counter and read the ingredient list they'd agreed to use. It was close to what he remembered, but he could already see small differences: a different kind of vanilla, a deeper brown sugar, chocolate chips from the camp supply rather than the supermarket brand Sally bought when she had a little money left over.
+
+He was worried those differences would make the memory feel less real.
+
+Annabeth came to stand beside him.
+
+"Are you ready?" she asked.
+
+"Mostly."
+
+"You can tell everybody this is an experiment. Nobody expects you to reproduce your mother's kitchen perfectly."
+
+He looked at the empty bowl. He had told people stories about Sally for months. He wanted to give them something they could taste, something he didn't have to keep explaining. The recipe couldn't carry every part of her life, and he knew that. It could still give them an afternoon in a room filled with the smell of sugar.
+
+"All right," he said. "Let's start."
+
+They took their places. Mara stood beside the oven, and Percy picked up the butter.
+
+---
+
 Annabeth Grace believed in blueprints.
 
 Her father in the life she remembered — Frederick Chase, professor of military history with a study full of books and model airplanes — believed that if you measured twice, you only had to cut once. Her father here — Zeus, King of the Sky, Lord of Lightning, Extremely Absent — believed in dramatic entrances and leaving before the hard part. Annabeth had decided early that she preferred Frederick's philosophy. It was still useful, even in a household whose old routines she had to learn from Thalia.
