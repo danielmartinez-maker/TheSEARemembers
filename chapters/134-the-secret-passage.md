@@ -813,6 +813,86 @@ They walked single-file through the surveyed section. At the entrance the forema
 
 The foreman signed the survey and kept the working copy. Annabeth kept a version marked *not for general circulation*, with the closed branch clearly labeled. The discovery belonged to the camp, not to whoever happened to squeeze through the opening first.
 
+The boy from Hermes cabin was waiting at the fork when Percy emerged. He had a towel over one shoulder and a half-eaten apple in his hand. Percy recognized him from the accusation over the missing drachmas. The boy glanced at the others and lowered his voice.
+
+"Did you find the box?" he asked.
+
+"We found where it was supposed to be logged," Percy said. "That's what mattered."
+
+"No, I mean underground. Did you find a room full of stuff?"
+
+"No. A passage and an old painting."
+
+The boy looked excited. "Can I see?"
+
+"Not yet. It's closed while the maintenance crew checks it."
+
+"People say you're hiding treasure."
+
+"People said you were hiding drachmas."
+
+He went still. Percy hadn't meant it as a rebuke, only as a reminder of how quickly the same rumor could be turned against a person. The boy stared at his apple.
+
+"I'm sorry," Percy said. "That sounded harsher than I intended."
+
+"It's okay."
+
+"It isn't, exactly. You asked a fair question."
+
+"Nobody believes me when I say I didn't take anything," the boy admitted. "Even after the counselor fixed the record, one of the others said I probably knew about the tunnel."
+
+Percy felt anger rise. He could have promised to make the older campers stop. He couldn't guarantee it, and the boy had already spent enough time being told what other people supposedly knew.
+
+"Would you like me to go with you to Chiron?" he asked. "The counselor can explain the correction publicly if that's what you want."
+
+The boy considered, then nodded.
+
+Annabeth put her notebook away. She'd been listening from the other side of the path. "The corrected entry has both signatures. It's not just our word."
+
+They walked to the Big House together. Chiron heard the account, called the Hermes counselor and arranged for the corrected supply record to be explained at the next cabin meeting. He offered to speak privately to the campers who had continued the accusation. The younger boy chose to be present for the first part and to leave before the rest. Chiron accepted the choice.
+
+On the porch Percy sat beside him while they waited for his counselor. The boy asked if the underground painting showed a secret door.
+
+"Not that we found," Percy said.
+
+"Then why's everybody excited?"
+
+"Because somebody painted it a long time ago, and somebody else covered it so it survived. We get to learn who worked on it, maybe. That's interesting even if it doesn't lead to a stash of treasure."
+
+The boy looked skeptical. "It's just a picture."
+
+"Sometimes a picture tells you things nobody bothered to write down."
+
+"Like what?"
+
+"What camp used to look like. Which gods somebody wanted to put together. What they thought a kid standing in the middle of it might feel."
+
+The boy took another bite of apple. "Is the kid in the picture like me?"
+
+"We don't know who the kid is."
+
+"That's not what I asked."
+
+Percy looked at him. "I think he might be."
+
+The boy seemed satisfied by that without needing Percy to name the painted figure or claim a history he couldn't verify. He finished the apple and stood when his counselor came.
+
+Chiron stepped into the doorway with the draft notice Silena had written. He asked Percy and Annabeth whether they were comfortable with its wording. Percy read the careful phrases about an old maintenance corridor, a partially exposed painting and work proceeding under supervision. It didn't describe secret treasure or a route from one cabin to another.
+
+"Could we add that the discovery belongs to all of camp?" he asked.
+
+"It is part of our shared history," Chiron said. "But belonging doesn't mean everyone can enter at any time."
+
+"Then say both."
+
+Annabeth added a sentence: *The conservator will arrange supervised viewing when the site is stable.* The words didn't promise a date they couldn't yet know. Silena approved the revision, and Clarisse said she'd personally throw out anyone who tried to find the entrance before the work was finished.
+
+"Or," Chiron said, "you could report them to the supervising counselor."
+
+Clarisse looked wounded by the lack of faith in her judgment. Percy laughed.
+
+They went toward the cabins with the evening light flattening the shadows on the path. The excitement of finding the passage had changed into a quieter kind of commitment. It would take workers, notes, patience and enough restraint not to make a wonderful discovery into a dangerous one.
+
 They left the passage to maintenance and carried notes back to Cabin Three, evening cool settling over the path, pine needles soft underfoot and woodsmoke threading the air. Campers still whispered about the discovery. By dinner the story had transformed again: supposedly the mural showed gods building camp with their own hands. Annabeth corrected one version; Chiron promised an announcement once Myra finished assessing paint.
 
 Inside the cabin, lamplight pooling gold across the table, Annabeth sat at the table and began a clean drawing of the panel. Beside her sketchbook lay the old camp plan, its brown ink fragile at the folds. Silena sorted photographs, and Clarisse studied her image of the trident, worn prongs visible in lantern light. Leaning over Annabeth's shoulder, Thalia traced the painted lightning's line in the air.
