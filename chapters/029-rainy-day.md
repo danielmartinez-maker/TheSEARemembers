@@ -526,6 +526,132 @@ The rain played on.
 ---
 
 
+On the third morning, Annabeth found Percy sitting on the floor outside the library, repairing a cardboard box that had come apart at one corner.
+
+The box was full of notes from the old archive room. Ella had asked him to carry them upstairs while the basement dried. He'd managed to get them through the first flight of stairs, but the damp had softened the bottom, and now he was holding it together with one hand while trying to find a piece of string with the other.
+
+"What happened?" she asked.
+
+"Paper betrayed me."
+
+"Why are you using string?"
+
+"Because I haven't found any tape."
+
+"Set the box down."
+
+"It is down."
+
+"Then take your hand off it."
+
+He tried. One corner sagged. A sheaf of papers slid toward the gap, and Annabeth caught it before it reached the wet floor.
+
+"Right," she said. "We need a different box."
+
+Percy looked annoyed. "I thought I could fix this one."
+
+"You can. But you shouldn't carry a whole shelf of archives in a container that fails when it gets damp."
+
+He considered the argument. "That's fair."
+
+They went to the supply cupboard, where Ella had left a short list of approved storage materials. Annabeth chose a wooden crate with a dry cloth lining. Percy carried the papers in smaller stacks, and she checked that the pages were kept in their original order. Neither wanted another argument with Ella about misplaced manuscripts.
+
+The work was nearly finished when Chiron came down the stairs with a maintenance report. He looked at the papers, then at the damp box.
+
+"Good. You have already stopped using the damaged container."
+
+Percy raised an eyebrow. "Were you expecting us to carry it until it exploded?"
+
+"I have seen worse decisions made with greater confidence."
+
+Annabeth smiled despite herself.
+
+Chiron explained that the rain had revealed a slow leak in the archive's upper wall. The water was not pouring inside, but the masonry had become damp enough to damage the oldest papers if they stayed in the basement. He needed volunteers to help move the remaining boxes to the dry shelves upstairs.
+
+"We can do that," Percy said.
+
+"You can help under supervision. The oldest records are fragile, and some are not for general access. Ella will determine which containers should be moved and who may handle them."
+
+Percy nodded. The Oracle investigation had made him particularly sensitive to the difference between finding something interesting and being entitled to read it. He wanted the documents safe, not another secret to uncover while adults were busy.
+
+Annabeth asked whether the archive would be closed for long.
+
+"Until the wall is inspected and repaired. The records will remain available by request, but no one should be working in the wet section."
+
+She looked toward the stairs. "Can I help map the leak?"
+
+"The repair team has already begun. You may ask whether they need help documenting the affected shelves."
+
+That was less satisfying than being given the whole problem to solve. She accepted it anyway.
+
+For the next hour they worked with Ella, moving the labeled containers in small groups. Ella read each label aloud before it left its shelf. Percy repeated it back so nobody had to remember which crate belonged where. Annabeth wrote the destination on a temporary ledger.
+
+"Don't put that one above the window," Ella warned.
+
+"Why?"
+
+"Light. These pages fade. Light makes the words leave."
+
+Annabeth changed the assignment. Percy looked at the thin volume in her hands.
+
+"Can we make a copy?"
+
+"Later," Ella said. "After the paper has been checked for damage. A copy made too soon can tear the page."
+
+He put it carefully back in the crate.
+
+They finished near lunch. The temporary storage was crowded but orderly, with enough space between the shelves for a person to move without knocking over the boxes. Ella inspected the arrangement and declared it acceptable. Annabeth wrote the final counts in the ledger, then went to wash the dust from her hands.
+
+Percy was waiting outside. The rain had eased to a fine drizzle, and the path to the pavilion glistened under the pale sky.
+
+"Want to go sit by the lake?" he asked.
+
+"After lunch?"
+
+"Yes. If the paths are open."
+
+She looked at him. He was asking rather than assuming that because he could manage water, they could go wherever the rain had made an obstacle. She appreciated that.
+
+"We can check with Chiron."
+
+They walked to the dining pavilion, passing the flooded section of the Hermes cabin. The back door was still marked closed, and Micah was helping the steward carry clean blankets to the common room. The repair crew had begun clearing the drain after the lightning warning was lifted. Water ran down the new channel instead of beneath the door.
+
+Annabeth noticed Percy watching the work.
+
+"They're doing fine," she said.
+
+"I know. I was thinking we could have helped sooner if we'd known."
+
+"Maybe. But you spent the morning moving archives. There are enough things at camp that need people who know how to do them."
+
+He looked at her. "Are you giving up your plan to fix everything?"
+
+"Not entirely. I'm trying a smaller one."
+
+"What does it involve?"
+
+"Doing the job in front of me and not inventing three extra ones before breakfast."
+
+He laughed. They reached the pavilion just as Clarisse was arguing with the kitchen staff about whether the next batch of hot soup should be served before the bread. Silena had already decided. Percy and Annabeth joined the line, grateful that somebody else was in charge of lunch.
+
+Afterward, with permission to use the cleared path, they went down to the lake. The water was high and brown around the shallow edges. Percy didn't try to make it look more inviting. They sat at the end of the dock with their shoes on, watching raindrops mark the surface in small circles.
+
+"Three days of rain," he said.
+
+"And no quest."
+
+"We've had a lot of other work."
+
+Annabeth looked toward the cabins. He was right. The archive had been moved, the Hermes children had somewhere dry to sleep, and the Hecate practice room was closed until its roof was repaired. It was not a heroic list. It was what made the place safe enough to live in.
+
+She nudged his shoulder. "Maybe tomorrow we can do something that isn't about water."
+
+"Agreed. Unless it rains again."
+
+She laughed and leaned against him for a moment before returning to the dining hall for the afternoon's card game.
+
+---
+
 On day three, the rain turned to drizzle and everyone at Camp Half-Blood collectively lost it.
 
 Annabeth Grace stood in the doorway of the Zeus cabin, watching campers sprint between buildings in the thin gray mist like prisoners released into the yard, faces tipped up, arms spread, shouting with joy at the mere absence of downpour. The green was a lake. The volleyball net had collapsed. A family of ducks had moved into the amphitheater. Connor Stoll was attempting to surf a mattress down the hill and failing gloriously.
