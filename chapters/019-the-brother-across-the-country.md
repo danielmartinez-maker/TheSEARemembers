@@ -687,3 +687,85 @@ Annabeth watched Thalia write **LIA** in large letters beneath the drawing, in c
 "Obviously."
 
 They left the picture drying on the desk overnight. In the morning Chiron would help them find out whether another copy could reach the Roman camp without a rainbow.
+
+---
+
+At the mail office, Thalia learned that there was a difference between sending a drawing to Camp Jupiter and getting permission for the Roman camp to receive it.
+
+The distinction had not seemed important when she was sitting at the cabin desk imagining Jason holding the picture. It mattered now, with the courier explaining which routes were open and which were only proposed.
+
+"We can submit a request," the steward said. "Chiron will certify who the senders are. But the Roman intermediary must approve it. I won't tell you it's delivered until we have confirmation."
+
+"How long will that take?"
+
+"I don't know."
+
+Thalia wanted to ask for a faster route, then stopped. She had spent months treating every delay as proof the people in charge didn't understand what it was like to be separated from family. Some probably didn't. That wasn't a reason to turn an uncertain promise into a false one.
+
+"Then can I keep the original?" she asked.
+
+"Yes. Send a copy. The original is yours."
+
+Annabeth stood beside her with the rolled drawing. She had been planning to send the original because the lines looked better on the first page, and now she was relieved not to risk losing it in transit.
+
+"We can copy it with the same scale," she said. "The paint might look different, but Jason will see the design."
+
+Thalia nodded. The steward gave them a blank form and asked them to return it when they'd made the copy.
+
+Back in Cabin One, Annabeth spread the paper across the desk and started tracing the outlines. Thalia helped hold the edges flat. She had told Jason she'd write soon. She hadn't decided what to say beyond that.
+
+"Do you think he needs a letter from me too?" she asked.
+
+Annabeth looked up. "I think he'd like one. But you don't need to describe a whole childhood before you can say hello."
+
+Thalia considered the suggestion. She had wanted Jason to know how much she'd missed him. In the rainbow he'd looked like a boy who was proud of his Roman training and nervous about whether his sisters liked him. Perhaps he'd rather hear about the camp's ordinary activities than receive a list of years they couldn't get back.
+
+She began with the weather.
+
+*Dear Jason, It rained yesterday, and Annabeth tried to tell me how the cabin roofs should be built so the water doesn't collect by the gutters. She was right, which is annoying. Percy helped make a new sign for the lake path. Clarisse says you should learn a good shield grip because Roman shields are too heavy if you hold them like a flag.*
+
+Annabeth read the last sentence and laughed.
+
+"Clarisse didn't say that."
+
+"She said something similar."
+
+"That doesn't mean you can make her quote more sensible."
+
+Thalia crossed out the attribution and wrote the shield comment as a suggestion from the older campers. She didn't want Jason to believe every letter from home was a formal report. She also didn't want to turn other people's words into things they'd never said.
+
+She finished with a question: *What's your favorite class? You can tell us about something you're proud of. It doesn't have to be anything to do with Zeus.*
+
+Annabeth looked at that line for a long moment.
+
+"Keep it," she said.
+
+"Why?"
+
+"Because I know what it's like when people only want to know what your powers do."
+
+Thalia knew the feeling. Their father had a talent for turning every ordinary achievement into proof that a child resembled him. She didn't want to do that to Jason.
+
+They signed the letter separately. Annabeth added a short note about the drawing and asked whether he had a scale he used when sketching the aqueducts. She was careful not to write as if they had already agreed to a visit. They hadn't. They could ask, and they could hope, but Jason was living in a camp with rules and people whose consent mattered too.
+
+When they returned to the office, the steward recorded both the picture and the letter as pending dispatch. Thalia checked the receipt and made sure the copied drawing would be returned if the route were refused.
+
+"That's everything," she said.
+
+"Everything we can do today," Annabeth corrected.
+
+Thalia looked at her sister and almost argued. Then she smiled.
+
+"Yes. Everything we can do today."
+
+They left with the original picture under Annabeth's arm and a copy of the receipt in Thalia's jacket. The uncertainty followed them. It no longer made every step feel like another opportunity they'd missed.
+
+At the dining pavilion, Percy was waiting with three plates. He didn't ask whether the letter had gone through. He asked whether the steward had accepted the packet for processing, a distinction he'd learned while writing to Amphitrite.
+
+"Yes," Thalia said. "Accepted. Not delivered."
+
+"Good. Then we have a record."
+
+She sat down and began eating. Somewhere across the country, Jason was living through an ordinary morning, perhaps doing lessons or arguing with a centurion about the weight of a shield. Thalia wanted to be there. She couldn't. She could still write him a letter that described something true, and she had.
+
+
