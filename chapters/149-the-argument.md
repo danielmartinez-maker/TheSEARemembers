@@ -486,7 +486,7 @@ Thalia was quiet for a long time. The lake moved. The bird called again. The cam
 
 "Clarisse said something like that," Thalia said finally. "On the dock. During the argument. She said —" She stopped. "She said I needed to be needed. And she was right. I do need to be needed. I need to be the protector because if I'm not the protector, I don't know what I am."
 
-"You're Thalia," Chiron said. "You're a daughter of Zeus. You're a Hunter who gave up her immortality for love. You're a sister. You're a friend. You're a girl sitting on a rock above a lake trying to figure out how to be human. You don't need to be needed. You need to be known."
+"You're Thalia," Chiron said. "You're a daughter of Zeus. You're Annabeth and Jason's older sister, and you have spent years trying to make yourself useful before anyone can tell you they love you. You're a friend. You're a girl sitting on a rock above a lake trying to figure out how much protecting is enough. You don't need to be needed every minute. You need to let people know you."
 
 Thalia's eyes were bright. She looked away, at the lake, at the sky, at anything but Chiron.
 
@@ -514,9 +514,9 @@ They didn't solve it the next night, or the night after that. The argument ran i
 
 What they did was this: they sat on the dock, and they talked. Not about the dock — about the thing under the dock. About the fear and the love and the protecting and the controlling. About the way they'd both been given families they hadn't asked for and were trying to figure out how to keep them. About the way they both loved the same people and the same lake and the same camp and couldn't always agree on how to show it.
 
-Clarisse talked about the other life. About being Ares's daughter. About being mean and angry and alone. About the way she'd learned that the only person she could control was herself, and the only thing she could protect was the things she could hold. About the way this life had given her sisters and a brother and a lake and a dock, and the way she'd been trying to protect all of it by controlling the shape of it.
+Clarisse talked about the years when she had started taking responsibility for every younger camper who came through the arena. About the days she had confused being frightening with keeping order, and the times she'd tried to settle an argument by making the other person stop talking. She admitted that she had sometimes treated her siblings like recruits instead of asking what they wanted. The family she loved did not need the dock arranged like a defensive position.
 
-Thalia talked about the other life too. About being a tree. About being a Hunter. About being a protector who'd never been protected. About the way she'd learned that love meant holding on, and holding on meant controlling, and controlling meant never letting go. About the way this life had given her a sister and a camp and a lake and a dock, and the way she'd been trying to protect all of it by being the thing that never moved.
+Thalia talked about helping raise Annabeth and being old enough that people sometimes mistook her confidence for permission to decide everything. She missed Jason, away at Camp Jupiter, more than she usually admitted. And she feared that if she loosened her grip on the routines she had built around Annabeth, she would fail to notice a danger until it was too late. This was the life she remembered. There was no lost Hunterhood or tree years to invoke, only a family whose members had begun asking for room to make their own decisions.
 
 And then they listened. They listened to each other. They listened to the lake. They listened to the quiet that came after the argument, when the ashes had settled and the thing under the thing was visible.
 
