@@ -794,6 +794,46 @@ Annabeth leaned into her, eyes closing. "You stood up to Hades for me."
 
 Percy grinned at them, his chest aching in a good way. Sisters. He thought of Clarisse ruffling his hair hard enough to hurt, of Silena tying the cord double-knotted on his wrist. He understood Thalia perfectly.
 
+Near the lift, the usher asked whether they had any items belonging to the court.
+
+Percy thought of the helm, now back on Hades's cushion. Annabeth held up the stamped copies of the registration and Percy's welfare response. Thalia showed Bianca's whistle, explaining where it had come from. The usher inspected the mark on its cord and made a notation.
+
+"Temporary access token," she said. "It remains valid for your departure and does not authorize a second visit."
+
+"Understood," Thalia said.
+
+Grover opened his bag. A packet of crackers fell onto the stone.
+
+"That's mine," he said quickly.
+
+The usher looked at it with an expression of professional disgust.
+
+"Living food is permitted. Do not litter in the passage."
+
+Grover retrieved the packet and repacked it carefully. Percy tried not to laugh. They'd faced the Lord of the Dead and survived; getting scolded over crackers on the floor felt like a return to camp.
+
+Annabeth asked for confirmation that their registrations would close when they returned above. The usher stamped each wristband once and explained that the bands were their responsibility until they passed the final lift station. They should not give them away or use them to bring another person into the world of the living.
+
+Percy touched the folded petition in his pocket.
+
+He'd thought about Sally while Hades spoke. He'd imagined her hearing his name, looking up and somehow knowing he was close. The image was so strong that for a moment he had almost asked to be taken to her instead of following the court's instructions. Then he'd remembered the boy in the Lotus who kept playing because the screen promised he was one game away from finishing.
+
+Wanting more time with someone didn't mean the promised version of that time was real.
+
+He was allowed to want Sally. He was also allowed to leave without seeing her, carrying a response that showed she was not being punished.
+
+"Are you all right?" Grover asked.
+
+Percy looked up. "I don't know. I think so."
+
+Grover accepted that. He didn't ask Percy to feel relieved or grateful. He simply offered him half the cracker packet they'd nearly left on the floor.
+
+Percy took one.
+
+At the lift doors he thought of Martin waiting in Los Angeles, of Clarisse and Silena going about their work at camp, and of Annabeth's pencil moving over her notes beside him. It was enough to make the direction of the journey feel clear, even if the story of the stolen weapons wasn't settled.
+
+They stepped into the car when the attendant waved them forward.
+
 They reached the elevator to the living world — a battered service lift in a shaft of rock that hummed with dead Muzak — and piled in. Grover pressed the UP button with a trembling hoof-finger.
 
 As the doors rattled shut, Annabeth pulled out her map and spread it on top of Percy's pack. Her pencil was still behind her ear. She drew a swift line from their dot in the Underworld entrance to Los Angeles, to a little star she marked BEACH.
