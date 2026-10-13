@@ -275,6 +275,123 @@ Poseidon leaned back, arm draped along Amphitrite's chair, watching his children
 
 ---
 
+Percy found Poseidon standing beside the terrace rail after the meal, holding a small wooden box.
+
+His father had been at the table for part of the afternoon, laughing when Tyson declared the bread a superior engineering achievement and listening while Triton described the new stable supports. Then a messenger had summoned him away. He'd returned without an explanation, and Percy had tried not to count the minutes.
+
+"Come here a moment," Poseidon said.
+
+Percy joined him. The box was no bigger than a book, its surface marked with waves and a little trident.
+
+"Another present?"
+
+"Something I meant to give you before the guests arrived."
+
+Percy opened it. Inside lay a small bronze instrument with two arms and a ring in the center, the sort of tool Annabeth might use to measure a slope.
+
+"What does it do?"
+
+"It measures the pull of a current against an anchored point. Triton helped design it."
+
+Percy turned the instrument over. Its markings were fine, and one arm had a flexible joint that would move in running water.
+
+"That's actually useful," he said.
+
+"I hoped it might be."
+
+His father sounded pleased, but Percy heard the uncertainty under the answer. Poseidon could command tides and storms; he was less sure how to give a fourteen-year-old something that didn't feel like an attempt to purchase the right kind of gratitude.
+
+"Thank you," Percy said.
+
+Poseidon nodded. "There is something else. I have to leave before the evening ends."
+
+Percy's hands stopped moving.
+
+"Why?"
+
+"An issue with the eastern boundary. Triton can explain."
+
+"Is it dangerous?"
+
+"Not here."
+
+"Then why can't you stay?"
+
+Poseidon looked toward the open sea. The silence lasted long enough that Percy began to regret asking.
+
+"I have responsibilities beyond this house," he said at last.
+
+"I know that."
+
+"And I cannot always arrange them around a celebration."
+
+"I know that too."
+
+Percy closed the instrument case. He did understand that the sea belonged to more people than him. Understanding did not make the disappointment smaller.
+
+"Did you know this morning that you might have to leave?" he asked.
+
+"Yes."
+
+"Then you could have told us. Silena spent half the meal wondering whether you'd come back."
+
+Poseidon looked toward the dining room. "She did?"
+
+"Yes. Clarisse pretended she wasn't counting, but she was. They've had their whole lives learning not to expect you. I don't want my birthday to turn into another day where they feel foolish for hoping."
+
+His father was quiet. Percy felt his heart hammer in his throat. He wasn't sure whether he had the right to speak for his sisters, but he knew what he'd watched at the table.
+
+"I should have said something sooner," Poseidon answered.
+
+"Could you tell them yourself before you go?"
+
+"Of course."
+
+Percy looked at him. "And don't say you'll be back tonight unless you know."
+
+Poseidon's mouth tightened. For a moment he looked less like a father and more like a king unaccustomed to having his promises examined. Then his shoulders shifted.
+
+"I won't promise it," he said.
+
+They went inside. Poseidon explained the departure to Clarisse and Silena without waiting for Percy to interpret it. Silena listened quietly. Clarisse asked when the eastern boundary would be checked again and whether a report would come back. Poseidon answered what he knew and admitted what he didn't.
+
+"Will you be here in the morning?" Clarisse asked.
+
+"I can't say."
+
+"Then don't tell the kitchen to set a place."
+
+He accepted that. Percy knew a single truthful conversation would not make up for years of uneven attention. But it prevented the evening from becoming a new promise his sisters were expected to defend on his behalf.
+
+After Poseidon left, Silena found Percy near the dessert table.
+
+"That wasn't easy," she said.
+
+"What wasn't?"
+
+"Standing there when he told us he had to go. I know you wanted him to stay."
+
+"Didn't you?"
+
+"Yes. I still do."
+
+She put her hand on the wooden case. "You can like his present and be disappointed. Those are different things."
+
+Percy looked at the current gauge. It was a good gift, and he intended to use it. He would also remember the hour his father had left, not because he wanted to nurse a grievance but because he was tired of pretending absence didn't have a shape.
+
+Clarisse joined them with three small plates of cake.
+
+"I saved you a slice before Tyson ate everything," she said.
+
+"Heroic."
+
+"Don't make me regret it."
+
+They ate together beside the open terrace. Silena described the way the kelp fibers had been woven into the napkins. Clarisse challenged Percy to test his new instrument when they returned to the coast. Neither asked him to stop wanting his father. Neither tried to make the day perfect for him. The party continued because they were all still there, and their presence did not have to compete with the place Poseidon had left empty.
+
+
+---
+
 Sunset filtered down through fathoms in shafts of copper when the Grace sisters arrived through the passage Chiron and Triton had arranged.
 
 Percy heard them before he saw them — sandals slapping on shell pavement, Thalia's laugh, low and bright, and Annabeth's voice, slightly breathless, asking directions. His stomach flipped. He set down his third cup of nectar and stood so fast his chair tipped.
