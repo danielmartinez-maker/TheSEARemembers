@@ -108,7 +108,7 @@ Annabeth kept coloring. "A marker."
 
 "For how long we've been here."
 
-Thalia knew which *here* Annabeth meant. It wasn't Cabin One or Camp Half-Blood. It was this history, the one her sister had woken up in with memories nobody around her could share. Five months since Annabeth and Percy had come back to bodies that were twelve years old, in lives that had already happened without their remembering them.
+Thalia couldn't tell what *here* meant to Annabeth. They had lived at Camp Half-Blood for longer than five months, and Cabin One had belonged to the sisters long before this spring. But five months ago Annabeth had begun counting certain dates, asking questions about childhood days she ought to have remembered and growing frustrated when Thalia tried to supply answers. Percy had grown quieter about some things too. Thalia knew the change had frightened them both. She didn't know how to explain it, and she had stopped pretending she did.
 
 "You're making a countdown?"
 
@@ -130,7 +130,7 @@ Annabeth slid the card across the desk. The five squares didn't have labels, onl
 
 "I mean, why make something?"
 
-Annabeth set down the pencil. "I woke up and remembered it. Percy remembered it too. Nobody else has a reason to know. I thought I could mark it without having to make a speech."
+Annabeth set down the pencil. "Percy and I have been counting. I didn't want to make a big announcement. I just wanted to mark it in my notebook without having to explain what every date means."
 
 Thalia turned the card over. The back was blank.
 
@@ -146,7 +146,7 @@ Thalia looked at her. "You don't sound happy."
 
 "I'm irritated because you're acting as though the fact that I remembered a date means I'm preparing for a disaster."
 
-Thalia was quiet. She had spent the previous months studying the two children's accounts of the old war and bracing for the first accusation from Olympus. When Annabeth carried a list, she looked for a plan. When Percy asked Chiron about an old prophecy, she looked for signs the trouble was coming. She didn't always distinguish ordinary worry from evidence.
+Thalia was quiet. She had spent the previous months watching Annabeth build lists around old prophecies and Percy ask careful questions about the camp's records. Each time she had looked for signs of another disaster, because that was what she had learned to do when the people she loved seemed frightened. She didn't always distinguish ordinary worry from evidence.
 
 "That's fair," she said.
 
@@ -174,17 +174,17 @@ Thalia laughed and sat on the edge of the desk. There were photographs in the tr
 
 Annabeth considered for longer than Thalia expected.
 
-"Both, I think. When we first came back, I was certain the important thing was figuring out what had changed. I thought if I didn't write down every difference, we'd lose the old life entirely. Now I can go a whole morning without comparing anything, and it scares me that I can do that."
+"Both, I think. Five months ago everything felt unfamiliar, even things you said I'd done a hundred times. I thought if I didn't write down what I could remember, I'd lose hold of the person I was. Now I can go a whole morning without checking my notes, and that scares me too. I don't know how to explain why."
 
 Thalia held the card. "You haven't lost it."
 
 "You don't know that."
 
-"No. I don't. But I watch you and Percy talk. You remember things that happened there. And you're still learning how to live here."
+"No. I don't. But I watch you and Percy talk. You can still find things to laugh about, even when you're worried. And you're making new memories here, whether or not the old ones become clearer."
 
 Annabeth rubbed the ink off her fingers. "I didn't know I could love a childhood I don't remember."
 
-Thalia looked toward the trunk. She remembered Annabeth as a little girl leaving chalk cities on motel pavement, asking questions while Thalia tried to pack enough food for them to keep moving. She remembered a child who'd been frightened and funny and capable of turning a cardboard box into a palace. The person standing in front of her was still that girl, but with a second set of memories. Sometimes Thalia wanted to tell Annabeth that nothing had been lost because it was easier than admitting how much had changed.
+Thalia looked toward the trunk. She remembered Annabeth as a little girl leaving chalk cities on motel pavement, asking questions while Thalia tried to pack enough food for them to keep moving. She remembered a child who'd been frightened and funny and capable of turning a cardboard box into a palace. The person standing in front of her was still that girl, although some of the memories Thalia cherished no longer seemed familiar to her sister. Sometimes Thalia wanted to tell Annabeth that nothing had been lost because it was easier than admitting how much had changed.
 
 "I miss the little kid you were here," Thalia said. "Not because you're worse now. Because I knew her for twelve years, and I don't know whether you'll ever remember the same things I do."
 
@@ -204,9 +204,9 @@ The last square on the card was still empty. Annabeth reached for the pencil but
 
 "Why?"
 
-"Because you've been here for these five months too. Even if you remember a different beginning."
+"Because you've been here for these five months too. Even if you count the beginning differently from me."
 
-Thalia thought about that. She hadn't been pulled through the change with the same memories. For her, the five months had begun with a younger sister asking questions no child should have had to know how to ask. The years before that were hers, and the days since belonged to all of them.
+Thalia thought about that. She hadn't experienced the same disorientation Annabeth described. For her, the five months had begun with a younger sister asking questions no child should have had to know how to ask. The years before that were hers, and the days since belonged to all of them.
 
 She shaded the last square. Her hand was less precise than Annabeth's. The graphite went over the edge in one corner.
 
