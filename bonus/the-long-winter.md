@@ -1747,6 +1747,117 @@ She smiled despite herself. "Thursday, then."
 
 He came to sit beside her, not as a reward for reaching an agreement but because they were alone and both wanted him there. She rested her head briefly against his shoulder, an intimacy that seemed to surprise her more than any of the kissing had.
 
+It would have been sensible to leave as soon as the tea was finished.
+
+Thalia did not feel especially sensible.
+
+Rhys had put the cups away and returned to the cot, where she was sitting with the blanket caught beneath her knee. He bent to retrieve a fallen book from the floor, and she caught his sleeve before he straightened.
+
+"Come back."
+
+"I was going to put this away."
+
+"It can survive on the floor."
+
+He looked at the book, then at her hand around his wrist. His expression changed with a slowness she found almost unbearable.
+
+"All right," he said.
+
+She drew him down beside her. He was smiling before she kissed him, and he wasn't smiling when she finally drew back. She liked the difference. She liked knowing that she could unsettle him without being cruel and that he could do the same to her. Their mouths met again. She could feel the pleasant shiver of anticipation before he leaned closer, the brief moment when both of them could still choose to stop. Then there was the warmth of him and the quiet relief of not having to pretend she wanted anything else.
+
+He rested a hand against her cheek. She covered it with hers, keeping him close while the kiss slowed.
+
+"You're going to ruin my schedule," he murmured.
+
+"Good."
+
+"I have to be awake at six."
+
+"So do I."
+
+"You wake at four."
+
+"That's why I'm better than you."
+
+He laughed against her mouth. "Naturally."
+
+She had meant to make another joke, but he kissed her again and the thought went away. There was no contest in this, not really. She had been trying to turn the evening into one because she knew how to win a contest. She was only beginning to learn how to stay in a pleasant moment without demanding that it prove something.
+
+She drew back, touched his face, and let herself look.
+
+"What?" he asked.
+
+"I was wondering what you were like before I started annoying you."
+
+"Quieter."
+
+"Less interesting."
+
+"Possibly."
+
+"Did you expect this?"
+
+He shook his head. "I hoped for it."
+
+There was something in the simple answer that made her want to move closer again. She did. She kissed him slowly, then rested her forehead against his and listened to him breathe.
+
+"You could have told me," she said.
+
+"Would you have believed me?"
+
+"Probably not."
+
+"Exactly."
+
+She laughed. Her heel was comfortable against the cushion, and the cabin felt very far away from the noisy hall and the winter lists. For a moment she wondered whether she could spend the entire evening here without having to explain herself to anyone.
+
+Then she remembered she had told Annabeth she'd be back, and she sat up.
+
+"I should go."
+
+Rhys looked at her. "All right."
+
+She frowned. "You could sound a little disappointed."
+
+"I am disappointed. I also know you said you wanted to go."
+
+"You're alarmingly good at that distinction."
+
+"I'm getting practice."
+
+She kissed him again, briefly. Then another time, less briefly, because the first had been a poor farewell. He was laughing when she finally let him stand.
+
+"You're terrible at leaving," he said.
+
+"I've been told."
+
+"By whom?"
+
+"Very rude people."
+
+He fetched her coat. When she put it on, the borrowed sleeves nearly covered her hands. Rhys folded one back, then the other, with an expression of concentration as though it were an important piece of work. Thalia watched him, finding the tenderness of the gesture almost harder to bear than the kissing.
+
+"Don't start," she said.
+
+"I haven't said anything."
+
+"You've got the face."
+
+"Which one?"
+
+"The one that makes me want to stay."
+
+He smiled. "That's not an expression I'm planning to stop making."
+
+She reached for him one last time. The kiss was unhurried, and when they separated she let her hands fall from his shoulders. The evening wasn't being cut short. It was ending because she had chosen an ending, and she liked knowing there would be another time to choose differently.
+
+"Thursday," she said.
+
+"Thursday."
+
+She picked up the coat's loose cuff, tugged it down over her fingers, and went toward the door before she could reconsider for a seventh time.
+
+
 When she stood to leave, he didn't ask her to stay. She had said she was going home, and he took her at her word. He walked her as far as the porch. Outside, the cold made her eyes water. She drew the borrowed coat closer.
 
 "You're still wearing Percy's coat," he said.
