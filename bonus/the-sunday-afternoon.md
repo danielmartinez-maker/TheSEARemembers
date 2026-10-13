@@ -6968,3 +6968,187 @@ When the lamp went low, she was glad to find that wanting him remained as immedi
 She stayed the night, and the invitation remained folded inside the book on her table, waiting for a day they would choose together.
 
 ---
+
+## February 16: The Offer Had Terms
+
+Rhys came back from the second audition carrying a contract.
+
+He hadn't signed it. That was the first thing he told Thalia when she met him near the road gate, and the speed of the announcement made her laugh despite the nerves she'd been carrying all afternoon.
+
+"You look guilty," she said.
+
+"I thought I should begin with the most important fact."
+
+"Have you robbed a bank?"
+
+"No."
+
+"Then I'm unlikely to be furious."
+
+He handed her the folded papers. They stood beneath the gate lantern while she read them, the afternoon wind catching the loose edge and trying to turn the pages before she was ready.
+
+The ensemble wanted him for six weeks beginning in April. The work involved rehearsals, performances and travel between several towns. The payment was modest but real, enough to cover expenses and leave something over. He would not be able to return to camp between performances except perhaps for a brief visit. They wanted an answer within ten days.
+
+Thalia reached the end and looked up.
+
+"They want you."
+
+"Yes."
+
+"That's good."
+
+"It is."
+
+He watched her. She could see the worry in his face, the way he had chosen to bring the offer to her before allowing himself to enjoy it.
+
+She handed the papers back.
+
+"What do you want?"
+
+He took a breath.
+
+"I want to do it."
+
+She nodded. The answer hurt, but only because she wanted him near. It was also the answer she had hoped he would give. He had worked hard for the invitation, and she had heard the music that brought him there.
+
+"Then you should," she said.
+
+He looked relieved for half a second, then uncertain again.
+
+"And us?"
+
+Thalia looked toward the road. The van had already gone, leaving them alone in the cold. She considered the question carefully.
+
+"We've been apart before."
+
+"Not for six weeks."
+
+"No."
+
+"And you'll have the advanced program."
+
+"Yes."
+
+He folded the contract and put it inside his coat.
+
+"I don't want you pretending this is easy," he said.
+
+"I'm not."
+
+"I also don't want to come back and find you've spent six weeks being angry because I went."
+
+Thalia looked at him sharply.
+
+"Then don't make me responsible for being happy every day you're gone."
+
+He considered, then nodded. "Fair."
+
+She moved closer. She had been thinking about him all day, imagining him in the audition room with his guitar and the difficult opening he'd practiced until his fingers hurt. She wanted him to know she was proud of him without having to make the feeling into a speech.
+
+She took his hand.
+
+"I'm pleased for you," she said.
+
+He looked at her. "Really?"
+
+"Yes. I'm also going to miss you. Those are both true."
+
+His smile was immediate and unmistakable.
+
+She kissed him.
+
+The kiss was not a solution to the logistics ahead. It was simply the pleasure of finding each other again after a day that had mattered to him. He held her close, and she felt the warmth of him beneath the cold coat. When they drew apart, he was still smiling.
+
+"Come home?" he asked.
+
+She nodded.
+
+***
+
+At the cabin they spread the contract across the table.
+
+Thalia wanted to know where the rehearsals would take place, how much time he would actually spend traveling and whether the payment covered the costs the group expected him to incur. She read every line, making notes in the margin where something was unclear. Rhys watched with growing amusement.
+
+"I thought you said it was my decision."
+
+"It is. I want you to make it with good information."
+
+"An important distinction."
+
+"Don't get clever."
+
+He leaned back and let her read.
+
+The terms were reasonably fair. The group would cover lodging and most travel, and the payment was enough to make the project worthwhile. There were still questions about the exact schedule and one clause that left too much discretion with the organizers. She marked it, then handed him the paper.
+
+"Ask them to clarify that."
+
+"I was going to."
+
+"Good."
+
+He looked at her. "You're enjoying this."
+
+"I like contracts that don't try to trick people."
+
+"And you like telling me what to do."
+
+"Obviously."
+
+He laughed, then folded the papers away.
+
+They ate supper slowly. Thalia told him about the advanced program's first successful week, the students who had surprised her and the mistakes she still needed to correct. He listened with real attention, asking questions that showed he understood the work without treating it as a lesser version of his own opportunity.
+
+At one point she put down her fork.
+
+"What if I wanted to visit you?"
+
+He looked up.
+
+"On tour?"
+
+"Yes."
+
+"I'd like that."
+
+"I'm not saying I will. The program may not allow it."
+
+"I know."
+
+"But if there were a weekend when you were close enough, we could arrange something."
+
+He nodded. "We could."
+
+She considered. That was all they could decide now. She had a program to run, he had a tour to accept, and neither knew exactly how the schedules would fit together. It was a problem with actual constraints, not a test of whether their affection was sufficiently grand.
+
+She found that oddly comforting.
+
+After dinner she put the dishes aside and came to sit beside him. He had been quiet for several minutes, looking down at the contract as though it might change if he stared long enough.
+
+"Rhys."
+
+He looked up.
+
+"You should be happy."
+
+"I am."
+
+"Then stop acting as if you've done something wrong."
+
+He smiled faintly. "I don't want to hurt you."
+
+"You'll hurt me if you lie. You won't hurt me by wanting to do work you're good at."
+
+He looked at her for a long moment.
+
+"All right," he said.
+
+She touched his face and kissed him. This time she let the kiss become the answer to the immediate question: did they still want each other, even with distance ahead? His hand moved to her waist, and the eagerness of his response made her smile. They had months of shared history now, nights spent together, letters written in absence, disagreements they had survived. She trusted the wanting, not because it guaranteed the future but because it remained freely chosen.
+
+The lamp burned lower. The contract stayed folded on the table while they spent the evening close together, talking when they wanted to and allowing silence when they didn't. They had ten days to answer the ensemble. Tonight they didn't need to decide anything more.
+
+Before she slept, Thalia looked toward the papers one last time.
+
+Six weeks was a long time. She would miss him. She was also pleased that a person she loved had been offered something he had earned. She had never expected the two feelings to fit so comfortably beside each other.
+
+---
