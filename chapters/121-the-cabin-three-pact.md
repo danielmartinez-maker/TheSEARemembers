@@ -523,6 +523,235 @@ Clarisse smiled without showing her teeth. "You're welcome."
 
 She turned toward the storeroom. Percy set off toward the pavilion, trying not to make another family policy out of one good conversation.
 
+
+---
+
+Silena was not at the pavilion when Percy got there. She had left a note under a pebble beside the empty bread basket.
+
+*Borrowed the back table. Behind the craft shed. If anyone needs costumes mended for tonight, the answer is no.*
+
+He read the final sentence again. It was so unlike Silena's usual notes that he wondered whether Clarisse had added it to be funny.
+
+He found his sister beneath a sycamore, with two pieces of cloth spread across a borrowed table. One was faded blue sailcloth, the other new green canvas. A tray of buttons, three spools and a paper packet of sea-glass beads occupied the remaining space. Silena had a pencil tucked behind her ear and a seam ripper in her hand.
+
+"Before you ask," she said, "I'm not making anything for the dining pavilion."
+
+"I wasn't going to ask."
+
+"You were looking at the fabric."
+
+"I look at fabric all the time."
+
+"Percy."
+
+"Fine. What are you making?"
+
+"A case for my own sewing things."
+
+The compartments were different sizes. One held her scissors; another was evidently intended for needles, though its little flap hadn't yet been attached. A broad pocket along the back could hold patterns or folded paper. She had marked a curved corner in chalk, changed her mind and cut it square.
+
+"Your own things?" he repeated.
+
+"Yes. The things that wander away whenever somebody needs them."
+
+"Is that a complaint about me?"
+
+"Your pocket is full of my pencils."
+
+He produced two pencils. Silena took the longer one, inspected its blunted end and put it in the unfinished pocket. She didn't thank him. That told him more about her morning than an explanation might have.
+
+"What happened?"
+
+"Nothing terrible."
+
+"That's not what I asked."
+
+She lifted her seam ripper. "Three people came to ask whether I could do a job somebody else was supposed to do. I said no to the first. I gave the second directions to the sewing cupboard. The third told me I was the only one who could fix the costumes properly, and that apparently made me responsible for them."
+
+"Did you agree?"
+
+"No. I found a table and left."
+
+He looked at her for a moment. He was used to her being the one who noticed things first, whether it was a torn shirt or a person being quietly left out of a conversation. He'd made the mistake of thinking that noticing cost her nothing.
+
+"Want me to make sure nobody bothers you?"
+
+"No. I'd like you to sit here."
+
+"That's it?"
+
+"You can sort those buttons. They have been annoying me all week."
+
+He sat and tipped the tin into a wooden tray. A flood of mismatched circles rolled toward him, from tiny pearl-white buttons to discs of heavy brass. Sorting them gave his hands something to do. He made three piles, discovered the largest pile wouldn't fit, and started again.
+
+A Demeter camper appeared along the path, carrying a half-finished banner. Green cloth trailed behind her boots.
+
+"Silena? Could you help with this? We just need the hem."
+
+Silena didn't reach for the cloth. "I'm not sewing banners today."
+
+"It wouldn't take very long."
+
+"It would take me at least an hour to do it well."
+
+"The committee said you helped last time."
+
+"I did help last time."
+
+"Could you show me which stitch to use, then?"
+
+Percy saw Silena's fingers move a fraction toward her needle. She knew how to fix the problem. The awkwardness of refusing visibly bothered her. She could have relieved that discomfort by helping for five minutes, which would probably become ten, and then half an hour. She kept her hands on the table instead.
+
+"There's a backstitch diagram pinned above the thread cupboard," she said. "If the committee doesn't have a sewer assigned, ask who signed up."
+
+The girl shifted her grip on the banner. "I don't know who that is."
+
+"Then you need the committee list."
+
+For a moment Percy thought she might argue. Instead she pulled the fabric over her arm and left, muttering something about finding the list.
+
+He waited until she was out of earshot. "I thought you were going to do it."
+
+"So did I."
+
+"Would you have wanted to?"
+
+"Not today."
+
+"Then why did you look like you might?"
+
+Silena examined a crooked seam in her case. "Because I know how. Saying no to work you can do feels rude, even when you already have work you chose for yourself."
+
+"I could have volunteered."
+
+"You didn't want to hem that banner."
+
+"No."
+
+"Then please don't turn my refusal into a job you feel obliged to do."
+
+Percy let the thought settle. He had spent the morning being corrected by Clarisse for trying to run a drill that was not his. Now Silena was asking him to do something harder than wield a rake or carry a shield. She wanted him to trust her no without immediately finding a way to make the consequences disappear.
+
+"All right," he said. "I'll finish the buttons."
+
+"Please do. Half of them have been trying to escape for months."
+
+Annabeth arrived with a roll of drawings and chalk across two knuckles.
+
+"Percy, have you seen my—" She stopped when she saw the buttons. "Are you preparing for some extremely dull war?"
+
+"I'm training as a tailor."
+
+"Poorly?"
+
+"So far."
+
+Silena cleared room for the drawings. Annabeth laid out a child's sketch of a small building with a magnificent arched roof and no visible entrance. She'd been teaching younger campers how to plan structures around a purpose. Percy tilted the page.
+
+"Is it a prison?"
+
+"Supposed to be a greenhouse."
+
+"How do the gardeners enter?"
+
+"Through the roof, apparently. The student suggested a ladder."
+
+"Can you carry a tray of seedlings up a ladder?"
+
+"That was my question."
+
+"Throw the trays?"
+
+"Her first answer."
+
+Percy grinned. He liked the child already. Annabeth traced the load-bearing triangles with a fingernail, explaining how the roof would hold while the people underneath it were essentially trapped. She'd asked the class to redraw the walls around doors and paths before they got carried away with elaborate supports.
+
+"I want you to look at the new version later," she said to him. "Not to say the design is clever. Tell me what a person carrying equipment would actually need."
+
+"Am I being recruited for my poor architectural imagination?"
+
+"Your willingness to carry too much at once."
+
+"Finally, a useful talent."
+
+Silena made a sound. Percy looked up.
+
+"What?"
+
+"That is exactly what we've been talking about."
+
+"I was joking."
+
+"I know. You make that joke a lot."
+
+He was saved from answering by a button rolling off the table. He caught it against his knee and put it back in its pile.
+
+Annabeth listened to the explanation, then looked over Silena's storage case. "Have you put your name inside it?"
+
+"Not yet."
+
+"You should. People borrow your supplies as if they came with the craft shed."
+
+"I've been conducting a quiet investigation," Silena said, glancing at Percy's two returned pencils.
+
+"Unfair," he protested. "I brought evidence against myself."
+
+"An excellent start," Annabeth said.
+
+Silena unfolded the green cloth and tucked in a pencil. It slipped down too far, disappearing behind the lining.
+
+"That's irritating," she said.
+
+Annabeth bent over the piece. "What if you divided the pocket?"
+
+"The beads would push the pencils sideways."
+
+"Not if the seam stopped here." Annabeth indicated a line with her fingertip.
+
+Silena marked it in chalk. After studying the proportions, she moved the line half an inch and nodded.
+
+"That works."
+
+She was pleased. Percy could see it in the way she started threading her needle before she had finished talking. It was a different kind of pleasure from satisfying somebody else's request. The object was hers and would remain hers, even if the whole camp admired it.
+
+While they worked, Annabeth and Percy tested the greenhouse drawing against problems the child hadn't considered. A door that opened outward across a narrow path. A water barrel too heavy to carry over steps. A drainage trench that cut off access in rain. Annabeth listened, made small adjustments, then discarded one of his suggestions because it would damage the structure.
+
+"That is reasonable," he said. "I have no evidence otherwise."
+
+"An unprecedented statement."
+
+"What can I say? I'm evolving."
+
+A camper called from the path, asking if Silena was still taking costume repairs.
+
+"No," Silena answered. "Try the committee."
+
+"All right!" came the reply, and the footsteps passed without stopping.
+
+Percy watched her hands steady on the seam. Nobody was angry. Nobody called her selfish. He knew the next refusal might be less comfortable, but this one had simply been accepted.
+
+"I'm meeting Thalia after lunch," Annabeth said, rolling up the drawing. "We're checking the lower steps. The rain washed some soil away."
+
+"I can come," Percy offered.
+
+"To observe, if you want."
+
+"Everyone likes that word today."
+
+"Maybe you need the practice."
+
+She gave him a quick kiss on the cheek as she passed his side of the table, then went off carrying her drawings. He watched her turn the corner toward Cabin One before facing Silena again.
+
+"Can I do anything else?" he asked.
+
+"You can finish sorting. Then you can get lunch. And after that, you can go see your girlfriend."
+
+"Very generous."
+
+"I am generous." Silena inspected her work, found a crooked stitch and removed it without ceremony. "I'm also allowed to be something else when I want."
+
+Percy pulled the last small buttons into their tin. He didn't offer to finish her sewing. She didn't need him to.
+
 ---
 
 
