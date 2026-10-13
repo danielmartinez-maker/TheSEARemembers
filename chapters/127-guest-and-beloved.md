@@ -442,6 +442,119 @@ Annabeth laughed, sound carrying into the garden. Beside him Percy felt somethin
 
 ---
 
+Before they returned to the training hollow, Percy found a small group waiting at the west-garden entrance. The palace steward had set out a line of wooden tiles and asked them to stand behind it while the maintenance workers examined a cracked stone above the arch. A section of the ceiling had shifted after a hard tide.
+
+"Is that the only route?" Annabeth asked.
+
+"No," the steward said. "The eastern corridor is open, though it takes longer."
+
+"We can take it."
+
+"You are invited guests. We could clear the western entrance for you first."
+
+Annabeth looked at the cracked stone. "Please don't. If it needs checking, it needs checking."
+
+Percy felt a flash of pride in her, followed by an uncomfortable realization: the steward had nearly treated their visit as more important than the people who would use the corridor all week. He'd offered to send workers into a possibly unsafe passage just to spare them a walk.
+
+"Is the eastern route safe?" Percy asked.
+
+"Yes. It was inspected after the last tide."
+
+"Then that's our route."
+
+Triton appeared from the opposite end of the hall. He read the situation quickly, spoke to the steward, then turned back to the group.
+
+"I should have told you the western entrance was being checked," he said. "The damage is minor, but we haven't cleared the arch."
+
+"Then nobody goes through it," Clarisse said.
+
+"Agreed."
+
+They took the longer path. It curved around an old courtyard where pale water moved over stones cut with the names of gardeners who had cared for the reef in earlier generations. Silena stopped to read several. Some were not royal names; they belonged to attendants and workers whose lives had been tied to this place.
+
+"Do people outside the palace know about these?" she asked.
+
+"They can visit when the public garden is open," Triton said.
+
+"Then I'd like to know who decides which parts are public."
+
+"The household gardeners."
+
+"Not your father?"
+
+"He doesn't inspect the visitor routes."
+
+Clarisse snorted. "That much I believe."
+
+Percy walked on with Amphitrite, who had come to meet them at the courtyard gate. She wore no crown. The ends of her sleeves moved softly in the current.
+
+"Are the records from last time corrected?" he asked.
+
+"Yes. I checked them myself. I also asked the steward how often guests were assigned a relationship without being consulted."
+
+"What did he say?"
+
+"More often than he should have."
+
+"Was he offended?"
+
+"He was embarrassed. That is different."
+
+They reached a low bench near a row of sea lilies. Amphitrite paused there, giving the others room to examine the carved names.
+
+"I do not want you to think that the correction means I'm withdrawing my affection," she said.
+
+Percy was surprised by the question. "I don't."
+
+"Your sisters were right to choose their own names. You were right to ask what yours meant. I can love the people you bring here without treating them as mine to claim."
+
+He looked toward Clarisse, who was arguing with Triton about whether the cracked arch should have been caught at the previous inspection. Silena was taking notes on the courtyard plants. Annabeth had gone ahead with Thalia to measure a narrow step.
+
+"I wish I could remember what it was like here," Percy said.
+
+"I know."
+
+"Sometimes I think if I remembered it, everything would feel easier."
+
+"It might make some things easier," Amphitrite answered. "It would make other things more complicated. But the missing years are not a debt you owe me."
+
+The garden smelled faintly of warm stone and salt. Percy stood beside her, uncertain what to say. He was used to adults trying to fill his silences with reassuring conclusions.
+
+Amphitrite didn't. She waited until he spoke.
+
+"I want to come back," he said. "Not because I have to make up for those years."
+
+"Then come when you want to."
+
+"And Clarisse and Silena?"
+
+"They may come when they want to. You needn't act as their interpreter."
+
+He grinned. "They'd be furious if I tried."
+
+"I have met them."
+
+By the time they caught up with the others, the steward had returned with an inspection slip showing that the western arch was still closed. Triton read it and signed the entry as witness rather than ordering the closure lifted.
+
+Clarisse checked the seal. "Good. I don't care how old the palace is. Cracked stone is cracked stone."
+
+"Are you always this cheerful?" Triton asked.
+
+"Only when everyone follows basic safety rules."
+
+Silena nudged Percy. "We're not guests who have to earn affection, are we?"
+
+"No," he said.
+
+"Good. Because I want to see the training hollow, but I also want to be able to go home without someone treating that as rejection."
+
+He glanced at Amphitrite. She'd heard, and her response was a simple nod.
+
+They continued through the safe corridor. Percy could feel the palace opening around him, neither completely strange nor completely familiar. It was a place where old records could be corrected and ancient stone could be closed for repair. He thought he trusted it more for admitting those limitations.
+
+
+---
+
 At the training hollow Clarisse tested the new floor with two hard steps, dust puffing around her boots, and pronounced it "usable." Silena took Annabeth to see the garden's open blossoms, petals wide as hands and smelling of honey and brine, while Thalia asked Triton how currents would shift with the next tide, arms folded against the cool upwelling. From the path Percy watched, pencil in his pocket and the cove's quiet still with him, the stone warm through his sandals.
 
 After a while Annabeth returned carrying one fallen flower. Instead of pocketing it, she asked Amphitrite whether sketching was allowed. Amphitrite said yes, and showed where the flower had grown. Annabeth opened her notebook and drew carefully, leaving space around it for how the current moved.
