@@ -88,6 +88,88 @@ Leaning against Thalia, Annabeth remembered another Thalia — older, distant, a
 
 ---
 
+Thalia tried to make breakfast feel ordinary by asking Annabeth to help fold the spare blankets before they went to the pavilion.
+
+Annabeth knew the tactic. When her sister was anxious about an event she couldn't control, she started arranging things that could be folded, polished or counted. The blankets had been folded the night before. Thalia still shook each one out and squared the corners as though they had developed imperfections while everyone slept.
+
+"Are you expecting him?" Annabeth asked.
+
+Thalia looked up. "Who?"
+
+"Our father."
+
+The question landed between them like a dropped tool. They had never developed a way to ask it without one of them wanting to make the answer easier for the other.
+
+"He didn't promise to come," Thalia said.
+
+"That isn't what I asked."
+
+"No. I don't know whether he'll come."
+
+Annabeth laid her blanket on the chair. It was tempting to pretend the answer was enough. The older sister had once done most of the worrying for both of them, and Annabeth had learned to let the silence protect her. Now she was fourteen. She wanted the choice of saying what she hoped for, even if it embarrassed her.
+
+"I would like him to remember," she said. "I don't need a ceremony. I don't need another lesson disguised as a present."
+
+Thalia's mouth moved. She looked toward the window, where pale sky lay quiet above the cabins.
+
+"He knows the date."
+
+"Then that's a beginning."
+
+"Knowing isn't always doing."
+
+"I know."
+
+Thalia sat on the edge of the bed. Her boots were still wet from the early watch, and Annabeth noticed she'd left the outer buckle undone. The woman who could stand in the training field and challenge three older campers at once sometimes forgot to take care of small things when she was trying to protect her sister from disappointment.
+
+"Did he come for your fourteenth?" Annabeth asked.
+
+"He sent a storm cloud that turned the barn silver," Thalia said dryly. "It lasted six hours. The horses hated it."
+
+"That sounds like him."
+
+"He meant it as something magnificent."
+
+"Did you like it?"
+
+"Not much. I liked when the stable hands helped clean up afterward."
+
+Annabeth laughed before she could stop herself. The story was ridiculous and sad, and there was no reason they couldn't find both things in it.
+
+"I can write him a note," Annabeth said.
+
+"On your birthday?"
+
+"Why not? I want to ask whether the instrument he sent last time was meant for drawing or for training. He's a god, not an excuse for unanswered technical questions."
+
+"He may not appreciate that."
+
+"He doesn't have to appreciate every question for me to ask it."
+
+Thalia looked at her for a long moment. Then she nodded once, not quite a blessing and not quite surrender.
+
+"Fair."
+
+Annabeth opened her desk drawer and found the folded note she'd been working on for Jason. It wasn't a birthday invitation. He had his own life at Camp Jupiter, and she didn't want him to think she expected him to cross the country whenever she wanted company. She'd written about the new garden plan, and about a set of old service corridors that might have been built before the cabins they knew.
+
+"Could we send him a message after breakfast?" she asked Thalia.
+
+"If the relay is open, yes."
+
+"I want him to know I'm fourteen."
+
+"He knows your birthday."
+
+"I know. I want to tell him anyway."
+
+That got a real smile from Thalia. They had so few chances to speak to their younger brother without turning the contact into a negotiation among adults and camps. Annabeth wanted to hear his voice. She wanted to tell him that she was older, although she understood perfectly well that an extra year didn't grant her authority over his decisions.
+
+They finished folding the blankets. Thalia tucked the ends of Annabeth's birthday ribbon under her collar, asked whether the knot was too tight, and loosened it when Annabeth said yes. That tiny correction felt more useful than another lecture about growing up.
+
+On the way to the pavilion they passed the climbing wall. A first-year Apollo camper called happy birthday from above a ledge. Annabeth shouted thanks and then laughed at herself for sounding embarrassed. By the time they reached the path below the cabins, she had decided she could enjoy the attention without treating it as proof that she had changed.
+
+Thalia walked beside her rather than half a step in front. Annabeth noticed. She didn't comment. They were still sisters, and the difference between being protected and being accompanied could be as small as the space between their shoulders.
+
 By the time Annabeth reached the pavilion, camp had already heard about the birthday. Silena, sixteen, who remembered everyone's birthday, seemed the likely source. Clarisse, fifteen, remembered too, though she would deny it if questioned.
 
 They waited at the Zeus table. Between the plates Silena had arranged wildflowers, their stems damp and fragrant, petals still beaded from the meadow; Clarisse guarded a covered dish with one hand, its warmth seeping through the cloth.
