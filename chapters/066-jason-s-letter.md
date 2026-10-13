@@ -488,6 +488,90 @@ Thalia looked west, toward California, where her brother was probably marching t
 
 ---
 
+After breakfast the letter was still the only thing Thalia wanted to talk about, but she didn't want the Stolls talking about it for her.
+
+Travis had asked whether Roman envelopes were waterproof. Connor wanted to know whether the eagle was eligible for racing. Someone at the Hermes table said that if Jason had sent a letter on a golden eagle, perhaps the rest of camp could send their homework to Olympus on pigeons.
+
+Thalia ate three pieces of toast without answering any of them.
+
+Then she went to the Big House to prepare the reply.
+
+Percy followed with Annabeth, carrying the notebook and the little comic she'd drawn. Clarisse and Silena came later with the grass crown, which Silena had reworked into a flat woven ring that could be packed without crushing it.
+
+At the correspondence desk, Chiron set out three separate envelopes.
+
+"This one is for Thalia's personal letter," he explained. "This is for the permitted drawings and greetings. The third is for the photograph packet you've mentioned, if Jason wishes to receive it and the receiving courier confirms that it can be safely transported."
+
+Thalia looked at the photograph packet. The sealed envelope from Beryl's belongings had been stored in Cabin One since spring cleaning. She had not opened it, despite spending several evenings wondering what was inside. Now Jason's letter was in front of her, thick and full of jokes, and she could finally send the thing addressed to him without guessing whether he wanted it.
+
+"He didn't mention the envelope," she said.
+
+"He may not know it exists," Annabeth answered.
+
+"Then should we ask first?"
+
+"Yes," Chiron said. "You can describe what you found and give him a choice. Do not send a private object simply because you're afraid he'll say no."
+
+Thalia made a face, but she nodded. She placed the photograph packet in a locked drawer Chiron had offered for safekeeping until Jason replied.
+
+Percy watched her do it. At twelve he had thought a good family reunion meant everyone receiving every memory they had lost, preferably all at once. Now he knew that another person's history could be a burden as well as a gift. Annabeth heard her rewritten childhood through Thalia's memories, and he heard his Atlantis childhood through Triton and Tyson. Jason might need to decide when to hear about Beryl.
+
+The personal letter was harder to finish.
+
+Thalia sat at the desk with the first page of Jason's letter open beside her own stationery. She had written *Dear Dirtbag* three times, crossed it out twice and underlined it on the third attempt.
+
+"I want to tell him I missed him," she said.
+
+"Then tell him," Annabeth answered.
+
+"I did in the last letter. What if he thinks I have nothing else to say?"
+
+Percy looked at the pages from Camp Jupiter. "He said he missed you twice before he started talking about breakfast. I don't think he'll mind."
+
+Thalia snorted. "Good point."
+
+She wrote about the Triton training. She told Jason that Annabeth had been the one calling stop and that Percy had finally learned to listen when instructed. She described the spring dance and confessed she had asked Clarisse to show her a ballroom turn. Percy expected her to cross that sentence out. She didn't.
+
+At the bottom she answered Jason's question about her happiness.
+
+*I'm busy. School is difficult in ways fighting monsters never prepared me for. Sometimes I miss being at camp. I don't miss having to pretend I know what Dad wants every time he calls. I have friends here and at school, and Beth is growing into somebody I can talk with instead of only somebody I have to protect. I'm happy often enough that I notice when I'm not.*
+
+Thalia read the paragraph again.
+
+"Too much?"
+
+Annabeth was quiet. Percy didn't try to answer for her.
+
+"No," Annabeth said finally. "It's what you mean."
+
+Thalia folded the pages before she could second-guess them. Chiron gave her a clean envelope and asked whether she wanted to seal it herself. She did.
+
+The comic and the greetings went into the second packet. Percy added the marching fish, but he didn't sign anybody else's name. Silena placed the grass crown in a stiff paper sleeve and wrote a note explaining it was a greeting for Hazel, not an obligation to wear it. Clarisse decided to keep her arm-wrestling challenge as a joke in the letter rather than a separate formal invitation to Reyna.
+
+"She can accept if she wants," Clarisse said.
+
+Chiron checked that each package was labeled correctly without reading the personal correspondence. Then he gave Thalia the acknowledgment form.
+
+"These will leave on the next authorized route," he said. "You may hear back quickly. Or it may take time."
+
+"I know."
+
+Thalia signed the form and watched the packets go into the outgoing case. She didn't look as if she'd stopped worrying. She looked as though she'd done the one thing she could do today.
+
+Percy went back toward the cabins with Annabeth beside him.
+
+"Do you think it'll reach him?" he asked.
+
+"The courier has a destination and a receipt," she answered. "That's more than we had before."
+
+He glanced at Thalia ahead of them. She was walking a little more slowly now, the empty letter tube tucked under one arm. When she noticed Percy looking, she called him an eavesdropping seaweed and told him to stop staring.
+
+Percy grinned. The insult sounded relieved.
+
+He didn't know when the next letter would come. Neither did she. That wasn't a reason to keep this one from leaving.
+
+---
+
 *Proposed reply packet, to be reviewed for authorized delivery from Camp Half-Blood to Camp Jupiter:*
 
 *One comic by Annabeth Grace, 4 panels, full shading, toga redraw included.*
