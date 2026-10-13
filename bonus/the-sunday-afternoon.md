@@ -6796,3 +6796,175 @@ Thalia leaned toward him, and the intimacy of being together again felt natural 
 Their work was unfinished. They were pleased with it anyway.
 
 ---
+
+## February 10: An Invitation Without a Script
+
+The invitation came in Rhys's mother's handwriting.
+
+It was a short note, enclosed in his weekly letter, with no formal greeting and only three sentences.
+
+*If you're ever in our part of the country, I'd like to meet you. Rhys tells me you think his cooking is terrible. I'd enjoy having an independent opinion.*
+
+*There will be tea. I make no promises about the chairs.*
+
+Thalia read it twice, then looked at him.
+
+"Your mother thinks I'm coming to inspect furniture."
+
+"She knows you."
+
+"She knows a few things you've told her."
+
+"That might be enough."
+
+She studied the note. The handwriting was square and slightly impatient, and there was a small ink smudge beneath the signature. She recognized something of Rhys in the economy of it. His mother was not offering a grand welcome. She was suggesting tea and a conversation, the sort of ordinary meeting that ought to be easy for two adults.
+
+For Thalia it wasn't easy.
+
+She had spent years being described as Beryl Grace's daughter and Zeus's daughter, sometimes as though those labels explained everything anyone needed to know about her. She disliked meeting people who had decided in advance what she would be. Rhys's mother knew about her from letters and photographs, from the parts of her life he had chosen to describe. Thalia trusted him. She wasn't certain she trusted the version of herself someone might imagine from a few stories.
+
+"Does she expect me to come soon?" she asked.
+
+Rhys shook his head. "No. She knows we're busy."
+
+"Then why send it?"
+
+"Because she wants to meet you."
+
+Thalia looked up. The plain answer made her pause.
+
+He came closer and sat beside her.
+
+"You're worried," he said.
+
+"I'm considering the risks."
+
+"Of tea?"
+
+"Of being interrogated by a woman who raised you."
+
+He laughed. "A serious danger."
+
+She looked at him. "You make it sound ridiculous."
+
+"It's not ridiculous. She can be difficult."
+
+"Like you."
+
+"Worse, sometimes."
+
+"An alarming prospect."
+
+He smiled, then became serious.
+
+"She isn't expecting a version of you who never argues. She likes people who have opinions. She just wants to know the person I keep writing about."
+
+Thalia looked at the note again. She could see no demand in it. No timetable, no instruction to impress anyone, no suggestion that the meeting would determine the future of the relationship. She had created most of the pressure herself.
+
+"I'd like to meet her," she said.
+
+Rhys looked pleased.
+
+"But not before the next training review. I have too much to finish."
+
+"She'll understand."
+
+"And we go for one afternoon. Not an entire week."
+
+He laughed. "I'll tell her."
+
+"Don't make a formal announcement."
+
+"I'll put it in a letter."
+
+"An appalling compromise."
+
+He took her hand.
+
+"Thalia," he said, "you don't have to do this for me."
+
+She studied him. He meant it. She could refuse the invitation and he would still want to see her. But she wasn't going because she needed his approval or his mother's. She was curious about the woman who had taught him how to sew badly and cook well, who had sent her a scarf after seeing a photograph and who apparently considered kitchen furniture a suitable subject for an introduction.
+
+"I want to," she said.
+
+His smile returned.
+
+"Then we'll find a day."
+
+She leaned toward him and kissed him, letting the small satisfaction of the decision settle between them. The invitation was no longer a threat. It was a possibility they could choose.
+
+***
+
+That evening Thalia went back to Cabin One and found Annabeth sitting at the table with a pile of measurements.
+
+"I'm going to meet Rhys's mother," she said.
+
+Annabeth looked up.
+
+"When?"
+
+"After the training review."
+
+"Good."
+
+"That's all?"
+
+"What do you want me to say?"
+
+Thalia considered. She had expected teasing, or at least a pointed question about whether this meant the relationship was becoming serious. Her sister was too perceptive to need the question answered.
+
+"Nothing," Thalia said.
+
+Annabeth returned to her work. Then she looked up again.
+
+"Are you nervous?"
+
+"A little."
+
+"That's unusual."
+
+"I've been told."
+
+Annabeth smiled. "You don't have to be impressive all the time."
+
+Thalia stared at her. The sentence was so close to something Rhys might have said that she felt briefly surrounded by people who were becoming too good at knowing her.
+
+"Have you been conspiring?" she asked.
+
+"Constantly."
+
+"Terrible."
+
+Annabeth laughed. Thalia leaned over the table to look at the latest drawing, and the conversation moved on.
+
+Later, when she returned to Rhys's cabin, she found him reading her notes for the advanced program. He had marked two sections with questions and left the rest alone. She liked that. He had taken the work seriously without treating it as his own.
+
+She sat beside him.
+
+"Your mother," she said.
+
+He looked up. "Yes?"
+
+"What would she think if I arrived and said your kitchen shelves are badly designed?"
+
+He smiled. "She'd probably agree and then ask you to fix them."
+
+"That sounds dangerous."
+
+"Very."
+
+She kissed him, smiling. The kiss lasted longer than she'd planned, and when she drew back he was watching her with a warmth that made the room feel smaller.
+
+"I am glad you want to meet her," he said.
+
+Thalia looked at him. "Don't make it more important than it is."
+
+"I won't."
+
+She caught his collar and kissed him again. They had their own private evening ahead, and the possibility of meeting his mother didn't need to occupy all of it.
+
+When the lamp went low, she was glad to find that wanting him remained as immediate as ever, unchanged by the fact that she was beginning to know the people and places outside the cabin that had made him who he was.
+
+She stayed the night, and the invitation remained folded inside the book on her table, waiting for a day they would choose together.
+
+---
