@@ -206,7 +206,7 @@ From the cabin's storage room, smelling of cedar shavings and old canvas, canvas
 
 The work consumed nearly an hour, plaster dust filming their hands and the sharp scent of disturbed lime in the air. They cleared the storage room and spread a drop cloth. Old plaster came away in pieces, chalky against their fingers. Behind it, the panel lifted from its frame without shifting surrounding stones. Cool, dry air breathed through the opening, carrying cedar and dust.
 
-Near the gap the satyr held a candle, wax dripping faintly onto his cuff. Its flame held straight. He checked beams and the first stretch of floor, running a thumb along timber to test for rot, then looked to Chiron.
+Near the gap the maintenance satyr checked airflow with a prepared testing charm, then examined the first stretch of floor from the threshold and felt the nearest timber for rot. A second worker recorded the result before anyone was admitted. He looked to Chiron.
 
 "Sound so far. We can look, but nobody touches pipes or beams, and we turn back if anything looks unstable."
 
@@ -337,6 +337,78 @@ Thalia's expression altered. "I'll come tomorrow. I know some old Zeus markings.
 Setting her spear back on the rack, Thalia said, "Then we'll learn."
 
 ---
+
+That evening the rumors about the passage multiplied. By dinner someone was claiming the old wall showed a route to Olympus. Someone else insisted it must be a prison that Hades had built before the camp was founded. Percy corrected three versions before he decided correcting the fourth was making him part of the entertainment.
+
+Chiron posted a short notice near the dining pavilion: an old maintenance corridor had been located; the inspected section was closed to general use; work would proceed under supervision. He did not mention where the access point lay. Most campers read the notice and went back to their dinner. The most determined rumor collectors called it proof that Chiron was hiding something.
+
+Annabeth took a copy of the first survey to Cabin One. Percy walked with her as far as the fork, carrying the lantern she'd borrowed from the Big House. The oil had been extinguished and the glass was cool. He had expected her to spend the entire walk talking about the plaster. Instead she watched Thalia coming down from the watch hill.
+
+"She'll want to see the zigzag," Annabeth said.
+
+"That was the plan."
+
+"She'll want to decide what it means, too."
+
+Percy considered. "Don't you?"
+
+"I want to find out. That's different."
+
+Thalia joined them, wind rattling the straps on her armor. She asked to see the drawing. Annabeth unfolded it beneath the porch light and showed the small mark at the plaster seam, a crooked line that might have represented lightning or might have been part of a larger figure they'd not yet exposed.
+
+"It could be Zeus," Thalia said.
+
+"It could be a crack in a painted border," Annabeth replied.
+
+Thalia gave her a hard look. "I know what lightning looks like."
+
+"I'm not disputing that. I'm saying we don't know what it belongs to."
+
+The exchange ended with silence, which Percy found more alarming than an argument. Thalia had spent years trying to predict the moods of a father who changed his face when he chose to visit. A mark on a wall could become another thing she felt obliged to understand before it hurt anyone. Annabeth had spent years trying to keep architecture from becoming prophecy. Percy understood both impulses well enough to know that they were about to collide.
+
+"Chiron has asked a conservator to look tomorrow," he said. "Nobody is deciding what it is tonight."
+
+Thalia exhaled. "I want to be there."
+
+"I know."
+
+"Not to stop Annabeth. To understand what we're going to tell the younger campers."
+
+Annabeth looked at the drawing. "Then let Myra lead the inspection. She knows the material."
+
+Thalia nodded, with visible effort. "All right."
+
+Inside Cabin One, while Percy stood at the open doorway, the sisters went through the survey notes. Annabeth had measured the exposed stones and marked the places where later repairs covered older work. Thalia checked the time of the inspection and asked whether Chiron had arranged for the passage to remain closed overnight. That was a useful question. It could be answered, and no one needed to interpret a god's motives to answer it.
+
+When they finished, Annabeth looked at her sister. "Are you going to be upset if the mural shows Zeus?"
+
+"I don't know."
+
+"You can leave if it does."
+
+"So can you."
+
+"I might want to stay."
+
+Thalia's expression tightened. "Then I won't make you come out with me."
+
+Percy watched the promise settle. Thalia was not becoming suddenly comfortable with her father's image. Annabeth wasn't asking her to approve of it. Each had made a little room for the other's response.
+
+He gave the lantern back, kissed Annabeth's cheek and headed toward Cabin Three. She was still reading the survey when he left, already comparing the old floor plan with what the maintenance crew had actually found.
+
+Later, in his own cabin, Clarisse asked whether the old tunnel would ever be made into an escape route.
+
+"Not while we know this little," Percy said.
+
+"Good."
+
+"You were hoping for one?"
+
+"I was considering where a second exit might go if the cabin ever needed it. That's different from wanting everyone crawling around underground."
+
+Silena came in with a cup of tea and asked whether the children who'd accused the Hermes camper had apologized. Percy said yes, though it had taken some insistence. She nodded and then returned to a piece of embroidery she was working on. It was a relief to be surrounded by people who could care about a discovery without treating every unanswered question as an emergency.
+
+On the next morning the maintenance crew checked the air and the bracing before admitting anyone to the mapped corridor. The conservator had requested a temporary work platform, cloths to catch loose plaster and a written list of every tool brought inside. Percy helped carry the supplies to the outer room. He did not try to enter before Myra approved it, even though he'd been among the first to see the old mark.
 
 The next afternoon, Myra inspected the plaster with a small mirror and soft brushes. Without touching it she studied the seam, then showed Chiron where plaster lifted cleanly from paint. Beneath the wall the crew laid cloths and positioned two lanterns, their glow warming the close air and drawing honey tones from old paint.
 
