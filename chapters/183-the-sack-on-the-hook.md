@@ -439,24 +439,26 @@ His square was in the back cover where it had been since the parlor. Hers was in
 
 Percy went in. Clarisse was at the long table with the winter list and a cup of tea that had gone cold in the shape of a ring, and Silena was at the stove with water on for nobody in particular, and the stove was ticking down into its coals, and the room took him the way it always did, all at once and without comment, and he shut the door on the cold with his back.
 
-He opened the door again before the latch settled, remembering the small parcel that had been left beside the outgoing bag. Silena had asked for it to go down with the mail, but it was still on the corner of the table.
+He opened the door again before the latch settled because a gust had made the porch lamp flare. The glass hood was shut, but the wick had begun burning unevenly and was smoking against the inside of the chimney.
 
 "You're letting the heat out," Clarisse said.
 
-"I forgot something."
+"The lamp's doing something stupid."
 
-He picked up the parcel, weighed it in his hand, then found the messenger's slip that told the early runner which sack should take it. There were forty letters and two other parcels waiting at the post by the road. Without the slip this one could sit in the kitchen for another week.
+"Then make it stop."
 
-Silena came over to check the address. "No. Turn it around. The label's on the other face."
+Percy pulled his coat over his shoulders and stepped out far enough to lower the wick. He checked that the chimney was seated in its fitting and that the flame burned cleanly before coming back.
 
-"You could have told me before I stuck the string down."
+Down the west path he could see the post at the road. The canvas sack was already there with the forty letters and two parcels they'd counted in the parlor that afternoon. The hook looked small from this distance. Percy imagined the runner finding it at six, lifting its weight, and carrying the week's messages farther from camp than he could see.
 
-"I thought you'd read both sides."
+Silena came to the doorway with a cloth in her hands. "Everything all right?"
 
-"That is a wildly optimistic assessment of me."
+"Just the lamp."
 
-She pressed the label flat and sent him back to the hook with it. Percy set the parcel beneath the notice, where nobody opening the door could knock it onto the floor. The delivery would still depend on the runner in the morning. At least the runner wouldn't have to guess which bag to use.
+She looked up at it. "That chimney needs cleaning after the next delivery. Put it on the slate before you forget."
 
-He took one last look down the west path. The lamps made it easier to see the steps, though they didn't make the road any shorter. Then he shut the door properly and helped Clarisse move the dry kindling away from the stove. He had written the part of the letter that belonged to him. The rest was somebody else's work now, and he could give them a fair chance to do it well.
+Percy went in and wrote LAMP GLASS beneath Clarisse's note about the west-path steps. She read it, made a small tick beside the entry, and passed him the dry cloth so he could put it away with the others.
+
+He had nothing left to do for the letters. The people who had written them would wait, and the people who carried them would need a clear path and a working light when morning came. Percy shut the door properly and helped Clarisse move the dry kindling away from the stove.
 
 ---
