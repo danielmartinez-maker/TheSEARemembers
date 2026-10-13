@@ -12430,3 +12430,279 @@ Thalia drew him nearer.
 The rest of the evening could wait.
 
 ---
+
+## May 18: The Trouble with Coming Home
+
+The first argument after the tour was about a table.
+
+Rhys had moved it.
+
+It was not a particularly important table. The legs were uneven, the surface bore several scars left by careless woodworking, and one corner had been repaired so many times that the original shape was mostly a matter of faith. But it stood beside the window, where Thalia had spent months spreading out her lesson notes while Rhys worked on music at the bench.
+
+Now it stood against the opposite wall.
+
+Thalia discovered the change when she arrived carrying the revised summer training plan and a pencil case full of measurements.
+
+"Where's the table?"
+
+Rhys looked up from the cot. He had spent the morning unpacking the last of his tour clothes, and his hair was still damp from washing.
+
+"Over there."
+
+"I can see where it is. Why is it there?"
+
+"I wanted more room by the window."
+
+"For what?"
+
+He gestured toward a new music stand, unfolded in the space where the table had been.
+
+"For the scores. The light's better there."
+
+Thalia looked at the stand.
+
+The explanation was perfectly reasonable. It was also deeply inconvenient. She had spent the last seven weeks telling herself she wouldn't come back and immediately expect him to fit every habit around hers. She meant it. Unfortunately, she had brought the summer plan to read beside him and had imagined putting it on precisely that table, which had now been moved.
+
+"You could have told me."
+
+He looked surprised. "About moving furniture in my own cabin?"
+
+The words stung more than they should have.
+
+She put down her bag.
+
+"Never mind."
+
+Rhys studied her face. He knew by now that never mind could mean several different things, none of them reassuring. He set aside the shirt he was folding.
+
+"What's wrong?"
+
+"Nothing that requires a meeting."
+
+"Thalia."
+
+"It's your cabin. You can move your furniture."
+
+He looked at the table, then back at her.
+
+"I didn't realize you used it that way."
+
+"I know."
+
+"And I didn't move it because I didn't want you working here."
+
+"I know that too."
+
+She looked toward the window. The new stand was beautifully positioned. The afternoon light fell directly onto the sheet music, and the guitar case could be opened beside it without blocking the door. Rhys had spent six weeks in rooms designed for musicians. He had come home wanting to make his own space better suited to the work he'd discovered he could do.
+
+She liked him for that.
+
+She was also annoyed that the room had changed without her knowing.
+
+"You were gone," she said.
+
+"Yes."
+
+"I had my routine here."
+
+He looked at her. "You came here while I was away?"
+
+"Sometimes. The other instructors kept the stove going. I checked the window after the last rain. I brought my notes because the light was better."
+
+He was quiet for a moment. Then he said, "I didn't know."
+
+"Why would you? I didn't tell you."
+
+She felt the shape of the misunderstanding emerge. Neither had made a decision about what parts of the room they were entitled to change, because neither had officially agreed it was shared. Thalia had been using it as a place where she could work while he was away. Rhys had returned and begun arranging it for his own future. Both choices were ordinary. Together they had produced an argument over a table that ought not to have mattered.
+
+"I don't want to be a guest who behaves like an owner," she said.
+
+He looked startled. "I didn't think you were."
+
+"Then don't answer as if it were only your room when I'm trying to tell you something."
+
+He took a breath. His expression changed.
+
+"You're right," he said.
+
+The quick agreement irritated her for an instant, then relieved her. He wasn't being generous. He'd understood the actual complaint.
+
+"I could put the table back," he offered.
+
+"No."
+
+"Are you sure?"
+
+"Yes. The stand belongs there."
+
+He considered. "Then what do you want?"
+
+Thalia looked around. There was space beside the cot, enough for a folding desk if they moved the unused crates from beneath the shelf. She had repaired furniture more difficult than that. The problem wasn't impossible. It simply required them to admit she wanted a place to work here.
+
+"A smaller table," she said. "One that can fold away when I don't need it."
+
+Rhys smiled slowly.
+
+"You want a desk."
+
+"I want a surface that doesn't wobble."
+
+"In my cabin."
+
+She narrowed her eyes. "Don't become sentimental about wood."
+
+He laughed, and she smiled despite herself.
+
+"All right," he said. "We can find one."
+
+"Good."
+
+They spent the afternoon measuring the corner and arguing about how wide the new desk could be without blocking the drawer beneath the cot. The conversation was practical, occasionally ridiculous and much more satisfying than making a declaration about what the room meant. By supper they'd found an old folding board in storage and brought it inside. The hinges were stiff, but Thalia could fix them.
+
+She put the summer plan on the board, tested the height and sat beside it.
+
+"Better," she said.
+
+Rhys looked toward the window. His music stand remained where he'd put it.
+
+"Better," he agreed.
+
+They had not divided the room into ownership. They had made space for two kinds of work.
+
+***
+
+The second adjustment was harder.
+
+Rhys had grown accustomed to late rehearsals and slow mornings. At camp Thalia was usually awake before the first light, dressing quietly so she could check the range before breakfast. During the winter they had managed the difference because his teaching schedule resembled hers. Now he could spend the first hour of the day working on music while she was already outside.
+
+On Sunday morning she woke at four and found him still asleep beside her.
+
+She rose carefully, found her boots and began dressing without turning on the lamp. The room was cold, but she was used to moving in the dark. She could be dressed and outside in five minutes.
+
+Then she heard him stir.
+
+"Thalia?"
+
+"Go back to sleep."
+
+"What time is it?"
+
+"Early."
+
+"How early?"
+
+"Unreasonably."
+
+He groaned and pulled the blanket over his head.
+
+She smiled and reached for the door.
+
+"Where are you going?" he asked.
+
+"The range."
+
+"On Sunday?"
+
+"I've got equipment to check."
+
+He pushed the blanket down enough to look at her.
+
+"Do you have to?"
+
+She considered. The question was not an attempt to stop her. It was a sleepy man wondering why anyone chose to leave a warm bed at a time when the sun hadn't even considered rising.
+
+"No," she admitted.
+
+"Then come back."
+
+She stood in the middle of the room, one boot fastened, the other still open.
+
+It was tempting.
+
+She wanted to be near him. She also liked the early morning solitude, the quiet before the campers woke and the chance to work without anybody asking her to explain each decision. She had not spent months learning to keep a private part of her life only to surrender the pleasure of having a routine.
+
+"I'll come back after the first light," she said.
+
+Rhys blinked.
+
+"You'll be gone for an hour."
+
+"Probably."
+
+He considered. Then he smiled sleepily.
+
+"All right."
+
+She crossed to the cot, leaned down and kissed him once.
+
+"Go back to sleep," she said.
+
+He caught her hand briefly and kissed her fingers, then rolled over.
+
+She went outside.
+
+The early air smelled of damp soil and the first warm grass of May. The range was silent. She checked the equipment, found two damaged strings and wrote a note for the afternoon instructor. Then she sat on the bench and watched the sky turn pale over the trees.
+
+She had missed Rhys for seven weeks. Now he was back, and she had chosen to spend an hour alone.
+
+The choice felt right.
+
+When she returned, he was awake and making breakfast.
+
+"How was the heroic inspection?" he asked.
+
+"Two strings damaged. Three targets need moving."
+
+"An excellent result."
+
+"It was useful."
+
+"I know."
+
+He set a plate on the table, and she sat down.
+
+She was hungry. The eggs were good. Rhys had left her the last piece of toast, and the little folding desk stood open beside the window where she could see it. The new music stand caught the morning light on the opposite side of the room.
+
+He sat beside her.
+
+"I missed waking up with you," he said.
+
+She looked at him. "I was here."
+
+"Not when I opened my eyes."
+
+"Then wake earlier."
+
+He laughed.
+
+She leaned over and kissed his cheek.
+
+"I missed being able to come back," she said.
+
+He studied her, then smiled.
+
+"That's a better way to put it."
+
+They finished breakfast. Rhys went to his music. Thalia went to the small desk and began revising her summer schedule. The room filled with two different kinds of work, occasionally interrupted by a question, a joke or the need to borrow a pencil.
+
+At one point Rhys played a phrase three times, getting it wrong in a different place each time. Thalia looked up from her papers.
+
+"You're rushing."
+
+He turned. "I know."
+
+"Then stop."
+
+"An inspired suggestion."
+
+She grinned and went back to her notes.
+
+They worked for another hour. She liked having him near. She liked being able to do her own work without turning the proximity into a performance of affection. When they finished, he closed his music and came to stand beside her chair.
+
+She reached up without looking and caught his hand.
+
+That was enough for now.
+
+Later the day might become more private. For the moment the light was good, the table stood steady and both had things worth making.
+
+---
