@@ -634,6 +634,112 @@ They ate together beside the open terrace. Silena described the way the kelp fib
 
 ---
 
+After Poseidon left, nobody said the party was ruined. That was not the same as pretending his departure hadn't happened.
+
+Clarisse stacked the empty plates from the dessert table while Silena rolled up the edge of a stained tablecloth. A kitchen attendant came to take over. Clarisse thanked him and kept the plates long enough to carry them through the service door herself.
+
+"You're a guest," the attendant told her.
+
+"I'm helping."
+
+"You don't have to."
+
+"I know."
+
+Percy followed with the smaller dishes. In the kitchen, away from the banquet music, the workers were arguing over whether there was enough berry glaze to serve the evening guests. Tyson had eaten twice the expected amount of cake. Nobody sounded angry; they sounded busy.
+
+Clarisse set down the stack and asked the head cook whether the same people had prepared the meal for the garden visit weeks earlier. He named the staff. She wrote down the names on a scrap of paper, spelling two of them aloud to make sure she had them right.
+
+"You can send a note to them directly," the cook said. "You don't need a prince to deliver it."
+
+Percy felt himself flush. He had been prepared to offer to carry a message through Triton. His sister didn't need him for that either.
+
+Outside the kitchen Silena unfolded the list of presents and people who'd worked on them. She had asked Triton to make sure the model ship could travel back to camp without damaging its rigging. The household had offered a formal presentation case. Clarisse had refused; she wanted Percy to keep the ship in his own cabin, where it could be touched and repaired, not locked behind a glass pane.
+
+"I was going to put it on my shelf," Percy said.
+
+"That's where it belongs," Clarisse replied. "It's a boat. If one of the oars breaks, tell me. I'll fix it."
+
+"You're going to be very annoyed when Tyson builds a larger one."
+
+"He can build his own. This is mine."
+
+Silena smiled. "You mean his."
+
+"I know what I mean."
+
+For a moment the three of them looked at the model lying in its cloth wrapping. Percy loved how carefully Clarisse had sanded the planks and fitted the miniature rudder. She had given him something he'd be able to carry between the sea and the land without anyone at court deciding where it belonged.
+
+"I wanted to ask Father something else," Silena said.
+
+Percy waited. She was no longer looking at the model.
+
+"Not about the party. About visiting the weaving rooms as a student rather than as his daughter. I don't want every conversation to become a gift somebody thinks I owe him for."
+
+"He might understand if you tell him."
+
+"He might. I can write him."
+
+"Do you want me to?"
+
+"No, Percy." Her answer was gentle but immediate. "I can write my own letter."
+
+He nodded, a little embarrassed. "Right."
+
+Clarisse leaned against the wall. "I want him to come watch a training session sometime and not make an announcement first."
+
+"Why?"
+
+"Because if I know he's coming, I'll make it a performance. I'd rather he saw how I teach on an ordinary day."
+
+Percy found that wish harder to hear than a demand for presents. It was not asking for an impressive father. It was asking a father to spend time without needing to be admired.
+
+"He doesn't always come when he says he will," Percy said.
+
+"I know."
+
+"That's why I told him not to promise tonight."
+
+"I heard you. Thank you."
+
+He looked at her. "But you still wanted him there."
+
+"Yes. I can want something and know I might not get it."
+
+Silena took the scrap of paper from Clarisse and added the cook's address to her own notes. The two sisters began arguing about which gift should be carried in which bag. Percy watched them and realized he'd spent much of the day thinking of their relationships with Poseidon as problems he ought to solve. He was fourteen, not the household mediator. He could stand beside them without appointing himself their spokesman.
+
+A palace attendant came to ask whether they wished to return to the garden. Clarisse asked for a few more minutes. The attendant accepted the answer and left. No one had to prove the delay was justified.
+
+Percy sat on the low wall beneath the herb terrace. The bronze current gauge rested in its wooden case beside him. A valuable thing, carefully made by his father and brother, meant to teach him about forces he couldn't see. He opened it and moved the arms gently. The instrument could not tell him whether Poseidon would come to the arena, whether Silena would be able to work in the weaving rooms or whether the palace could become a home for all his siblings in the same way.
+
+It could measure a current. That was enough for a gift.
+
+When Clarisse joined him, she sat without speaking for a while.
+
+"Did you like my boat?" she asked eventually.
+
+"I love your boat."
+
+"It took forever."
+
+"I know."
+
+"No, you don't. I sanded the same plank four times because it kept splitting."
+
+He laughed. "Then it's a very stubborn boat."
+
+"It gets that from us."
+
+Silena appeared in the doorway with the final packing list. She'd drawn a little sailboat beside the model ship and a star beside the box containing Percy's current gauge, purely so the attendants would know what went where.
+
+"Are you two coming back to the party?" she asked.
+
+"In a minute," Clarisse said.
+
+Percy closed the box. There were still guests downstairs, more music and a gift Annabeth had promised to bring if the Grace sisters managed the evening passage. His father had left. The day could still contain joy. Neither fact needed the other to disappear.
+
+Then he stood and went with his sisters toward the sound of the musicians. They arrived at the garden gate just as the light overhead began turning copper and the guard announced a new pair of visitors from camp.
+
 Sunset filtered down through fathoms in shafts of copper when the Grace sisters arrived through the passage Chiron and Triton had arranged.
 
 Percy heard them before he saw them — sandals slapping on shell pavement, Thalia's laugh, low and bright, and Annabeth's voice, slightly breathless, asking directions. His stomach flipped. He set down his third cup of nectar and stood so fast his chair tipped.
@@ -712,7 +818,7 @@ Percy felt his stomach sink. In the rush of cake and visitors and presents he'd 
 
 "Then let's go now," he said. "Before everyone starts the next game."
 
-They walked to the shed together. Tyson unfolded the drawing on the workbench and explained how the hinge would let the bed frame fold against the wall when no guest was staying. Percy had thought it was a complicated solution to a simple problem. Then Tyson showed him how much room it would leave for Clarisse's training equipment.
+They walked to the palace workshop together. Tyson unfolded the drawing for the Cabin Three visitor's bunk on the workbench and explained how the hinge would let the bed frame fold against the wall when no guest was staying. Percy had thought it was a complicated solution to a simple problem. Then Tyson showed him how much room it would leave for Clarisse's training equipment.
 
 "You're making the cabin work when you're not there," Percy said.
 
@@ -780,9 +886,9 @@ Percy laughed, wiping his eyes quickly. "He already got sentimental on the ride.
 
 They walked back arm in arm into light and laughter.
 
-The evening wound down in a golden-blue haze. Amphitrite presented Percy with a small pearl that glowed from within — "for courtesy," she said, which Clarisse later translated as high praise indeed. Poseidon gave him a hug that cracked his back and a whispered promise of sailing lessons in the mortal world with his sisters. Tyson fell asleep with his head on the table, coral sword tucked under his arm for safekeeping. Silena taught Annabeth the chorus of her song, and the two girls sang it softly together while Thalia and Clarisse pretended not to listen, elbows linked, cheeks flushed with nectar.
+The evening wound down in a golden-blue haze. Amphitrite presented Percy with a small pearl that glowed from within — "for courtesy," she said, which Clarisse later translated as high praise indeed. Triton clapped him on the shoulder and promised to send the stable's approved coastal routes so he could practice with his sisters on a later visit. Tyson fell asleep with his head on the table, coral sword tucked under his arm for safekeeping. Silena taught Annabeth the chorus of her song, and the two girls sang it softly together while Thalia and Clarisse pretended not to listen, elbows linked, cheeks flushed with nectar.
 
-Percy sat in the middle of it all, model ship in one hand, star-chart safe in its case across his knees, cake crumbs on his shirt, sisters and brothers and father ringing him close. Annabeth's shoulder rested against his. Thalia's boot knocked his under the table in solidarity. The whale sang again, far off, low and sweet.
+Percy sat in the middle of it all, model ship in one hand, star-chart safe in its case across his knees, cake crumbs on his shirt, sisters and brothers gathered around him. Annabeth's shoulder rested against his. Thalia's boot knocked his under the table in solidarity. The whale sang again, far off, low and sweet.
 
 Fourteen. The number no longer sat like a stone. It floated, light as foam, bright as silver ink.
 
