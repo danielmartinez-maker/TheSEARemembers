@@ -258,6 +258,67 @@ A current ran through the corridor — not power, exactly. Relief. The Hades cor
 
 ---
 
+The first group had not yet cleared the passage when Myra stopped the line.
+
+A small boy from Hermes cabin had stepped too close to the rope barrier. He hadn't touched the mural, but his backpack brushed the rail, pushing its freestanding support across the floor.
+
+"Everyone hold where you are," Myra said.
+
+The boy froze, face flushing. "I didn't mean to."
+
+"I know. Stand still a moment."
+
+Clarisse moved to steady the support. Annabeth checked the distance from the wall and saw why it had shifted. One of the feet rested on the uneven seam between two stones. The barrier had looked straight at the unveiling, but it wasn't stable under a sideways push.
+
+"We should close the entrance until we fix that," Annabeth said.
+
+Chiron agreed. He directed the waiting visitors back toward the outer hall while Myra and the maintenance workers examined the support. The children were disappointed. Percy could hear the complaints spreading behind them, and a part of him wanted to argue that the rail was nearly fine.
+
+Then Myra pointed to a tiny flake of plaster near the base of the painting.
+
+"That's what we might lose if someone stumbles into it," she said.
+
+Percy shut his mouth.
+
+Annabeth took out the earlier measurements from the restoration work. They compared the original barrier plan with the position of the support. The route had been adjusted twice while the wall was being cleaned, and one of the final changes had never made it onto the diagram.
+
+"That's my mistake," Annabeth said.
+
+"Not yours alone," Myra replied. "I approved the final placement."
+
+"Then let's repair the plan too."
+
+They moved the freestanding supports to the level section of stone, shortened the cord and added a second guide line so visitors would approach the painting from the wider end of the chamber. Clarisse tested the route by walking it with a borrowed backpack. Silena followed carrying a tray the size of a young camper's elbows, demonstrating how little room there would be if someone turned abruptly. They altered the spacing again.
+
+"Now it works," Clarisse said.
+
+"Now we test it with a group," Myra corrected.
+
+They invited four older campers in first. None carried bags. They walked slowly, stopping at the points where a guide would explain the painting. One volunteer moved deliberately too close to the cord. The support held. Another pretended to turn back toward the entrance halfway along. There was enough space for that without touching the mural.
+
+Chiron signed the revised plan and wrote the changes into the maintenance record. Only then did Myra reopen the passage.
+
+The Hermes boy who had nudged the support waited nearby, looking miserable. Percy went over.
+
+"You're not banned," he said.
+
+"I almost broke it."
+
+"You found a problem before someone else had a worse accident. Next time, leave your bag outside."
+
+The boy looked toward Myra. "Can I still see it?"
+
+"Yes," she said. "You can join the next group. We also need someone to remind people where the bag shelf is. Would you like that job?"
+
+He nodded at once.
+
+Percy watched him take his place by the entrance. It would be easy to remember the unveiling as a perfect morning: the curtain lifting, the old colors appearing, everybody holding their breath. But he knew the more valuable part might be the half hour when they'd stopped the celebration to keep the work from being damaged.
+
+Annabeth folded the corrected diagram and handed a copy to Myra. The painting had not been finished by the act of revealing it. Keeping it visible would require people to notice small mistakes and fix them before the damage became permanent.
+
+
+---
+
 Groups cycled through until noon, ten at a time, rain easing to mist. Someone brought hot chocolate from the dining pavilion in a steel urn that scalded everyone's fingers in the best way. The corridor smelled of cocoa and lime and wet wool. Clarisse ended up explaining tide crest four more times, each recitation smoother, hands gentler in the air. By the third, she added, unprompted, "Sideways breath hits the edge, so look straight," and Percy caught her small, fierce nod when a little Athena kid obeyed instantly.
 
 Between groups, details surfaced like fish. A Stoll brother spotted a second untied shoe-string on the dining hall steps — the painter had a habit. An Apollo girl swore the gold border chimed faintly when the bulbs warmed, which Myra allowed might be timber ticking but didn't dismiss outright. Two Hephaestus boys measured Thalia's static with a borrowed voltmeter and declared the bolt "mildly opinionated," earning a rare snort from Thalia herself. Nico got cornered by three Demeter kids demanding to know if Hades wore black because he was sad; Nico thought, then said, "Because stars show better," which satisfied them completely. Bianca let a first-year hold the empty clay cup like a chalice and whispered, "Careful, star-holder," until the girl glowed brighter than mica.
