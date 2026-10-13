@@ -112,6 +112,110 @@ Girlfriend and boyfriend were familiar words from the life they both remembered.
 
 ---
 
+The notes stayed a private game until one of them fell into the wrong hands.
+
+Milo found the folded square beneath a rack of practice shields, where the leather straps had caught it when somebody moved a crate. He brought it to Annabeth after drills, holding it by one dry corner.
+
+"Is this yours?"
+
+She saw the small wave drawn beside the letter A and felt her stomach tighten.
+
+"Where was it?"
+
+"By the equipment rack. I didn't read it. I thought it might be an instruction, but then I saw the little drawing."
+
+Annabeth accepted it. The paper was damp with grit. Percy had meant to leave it inside a fold of her satchel, not where somebody carrying shields would tread on it. She recognized his handwriting through the crease.
+
+"Thank you for bringing it," she said.
+
+Milo looked relieved. "It's private, right?"
+
+"Yes."
+
+"That's fine. I have letters from my brother. My cabinmates aren't supposed to read them either."
+
+He ran off before she could ask about his brother. Annabeth stayed beside the rack, feeling foolish for having assumed the only danger was that somebody might tease her. A lost note could become work for whoever had to put the equipment away, and not every person in camp wanted responsibility for somebody else's secrets.
+
+She found Percy at the canoe dock, hauling a training paddle onto its shelf.
+
+"Look what I found," she said.
+
+He saw the folded paper and went red. "I put it in your bag."
+
+"It fell out. Milo found it."
+
+"Did he read it?"
+
+"No. He gave it to me."
+
+Percy let out a breath. "Then it got there."
+
+"That's not the whole point."
+
+She explained where the note had fallen. Percy listened, first embarrassed and then defensive, because he wanted the plan to be fun and she was making it sound like a problem with a storage system.
+
+"You're the one who put the first one in my sword strap," he said.
+
+"I know. That wasn't a great place either."
+
+"So you want to stop?"
+
+"No." She looked at him, surprised by the idea. "I want to choose places that don't interfere with other people's things."
+
+He sat on the lower step. Annabeth joined him, leaving room for a passing camper to carry a canoe down the path.
+
+"Can I ask something?" he said.
+
+"Of course."
+
+"Do you actually like the notes, or do you just like figuring out where I've hidden them?"
+
+"Both. But mostly the notes."
+
+Percy looked at her. He had been worrying that he was giving her something she'd feel obliged to answer, especially because the first one had come from her. The poems were terrible and he knew it. It would have been easier to hide them in unexpected places than to ask whether she wanted to keep receiving them.
+
+"I don't need an answer every time," he said.
+
+"Neither do I. Sometimes I've got training or a project and I won't write back for a day."
+
+"That's fine."
+
+"Then don't assume I'm upset."
+
+He smiled. "You could just tell me you're busy."
+
+"I do tell you."
+
+"Right. I'll try listening."
+
+She took out the damp square. His message was about the instructor who had called her Thalia twice during the morning lesson. He'd drawn an owl wearing a training helmet and written that nobody who confused the sisters ought to be allowed to mark their work.
+
+"That's a terrible punishment," she said.
+
+"I haven't even proposed my second punishment."
+
+"Which is?"
+
+"They have to wear the helmet."
+
+She laughed. It was ridiculous, affectionate, and specific enough that she knew he had paid attention to the part of her day that had irritated her. That mattered more than the hiding place.
+
+"Can we use the hollow oak by the lake?" she asked. "As long as it's dry and nobody's nesting in it?"
+
+"Sure. And maybe the empty jar at Cabin Three. If Silena says we can."
+
+"Good. No sword racks. No other people's bags without asking."
+
+He nodded. Then he examined the little owl.
+
+"You know," he said, "I could draw a better one."
+
+"Don't you dare."
+
+He grinned. Annabeth folded the paper and slipped it into her own pocket. The notes could stay theirs without requiring every person who happened to find a scrap of paper to join the game.
+
+---
+
 Ella found out because Ella noticed everything written down.
 
 The harpy girl spent afternoons in the Big House attic library, where air smelled of cedar and old paper and windows were round like portholes. Small for her age, russet feathers puffing when excited, sharp eyes missing nothing, she shelved scrolls for Chiron and had taken a liking to Annabeth because Annabeth never mocked her repeating and always asked her view on architecture books.
