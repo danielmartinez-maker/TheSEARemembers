@@ -1090,7 +1090,7 @@ When Percy came back to the others, Silena was discussing tomorrow's positions w
 
 Percy sat down among them, listened to the question and waited for the answer instead of supplying one before anyone finished speaking.
 
-For once he was quite content to learn.
+For once he was quite content to learn. It felt different from winning, and different from having someone praise the fact that he was Poseidon's son. He had needed practice to notice the difference.
 
 Tomorrow they would train again.
 
