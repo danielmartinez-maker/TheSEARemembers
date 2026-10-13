@@ -638,6 +638,88 @@ When the waiter brought their plates, Percy put away his sword and ate.
 
 ---
 
+The armory representative returned after dinner with a route that did not depend on four injured demigods improvising their way across another continent.
+
+There was a secured transfer to Manhattan, arranged through the court's existing messenger network. It would leave from a private terminal after midnight and reach New York before the solstice ceremonies began. The representative had made sure the sealed bolt would travel under her authority, separately recorded from the children accompanying it.
+
+"Can we go straight to Olympus?" Annabeth asked.
+
+"Not without passing through the receiving office. The king's symbol must be registered as recovered before it is returned to him. That is how the armory proves it is the same object that went missing."
+
+Thalia looked disgusted. "Zeus lost a lightning bolt powerful enough to destroy cities and you need to check its serial number?"
+
+"In effect," the woman answered. "Yes."
+
+Percy almost laughed.
+
+Martin was sitting beside the van with his paper route log, looking as tired as Percy had ever seen him. The new transportation would take the four questers without him. His driving agreement had ended where the specialist took custody of the divine weapon and the children were transferred to the court's authorized route.
+
+"You've done enough," Percy told him.
+
+Martin looked up. "I haven't done half of what you kids have done."
+
+"That's not what I meant."
+
+"I know." He closed the log. "But I did my job. I kept the van on the road when it could be kept on the road. I got the people we found to the right contacts, and I called for help when the situation was past what I could handle. I didn't save Olympus."
+
+"You saved a bunch of us from having to drive with Thalia," Grover offered.
+
+Thalia turned. "I can hear you."
+
+"Yes," Martin said solemnly, "which is why I didn't let her drive."
+
+They laughed, and Percy was surprised by how good it felt to laugh about an ordinary rule rather than a monster. He had spent days depending on Martin without fully noticing how much had been done for him: fuel receipts, safe routes, stops for sleep and a phone number somebody would answer.
+
+Annabeth asked Martin to keep a copy of the transport timeline. She wanted the account of the five days lost in the Lotus preserved outside the godly court, where it wouldn't disappear if someone decided it was inconvenient. Martin agreed to send his copy to Chiron through the depot.
+
+"Get home," he told them. "Whatever home means after a trip like this."
+
+Percy thought of the cabin with his sisters, the familiar sound of Silena moving cups around and Clarisse sharpening a weapon she had probably already sharpened twice. He wanted that home more than he had wanted any victory over Ares.
+
+Thalia sat beside Martin for a minute after the others went to prepare their bags. Percy saw her take a paper from her coat. She showed Martin the letter she'd written to Jason, then asked whether he could send it through the depot contact instead of giving it to the Olympian armory.
+
+"Of course," he said. "If there's a safe route to Camp Jupiter, they'll use it. If not, they'll tell you they couldn't send it."
+
+She nodded. No promises about how soon Jason would reply. No fake voice telling her to stay for another picnic. Just a real letter going to a real brother, or not going until the path was safe.
+
+Percy looked away to give them privacy.
+
+Later, when the four children arrived at the private terminal, the armory representative checked each name against the passenger list. She counted three named questers, one guardian and one sealed weapon under separate custody. Percy thought of Chiron repeating those distinctions in the Big House before they left camp. They had sounded pedantic then. Now they were the only reason a transfer clerk didn't ask Thalia to claim she was the fourth person named by an Oracle.
+
+Annabeth used her uninjured hand to sign the passenger record. Thalia checked their bags and reminded Grover to keep his license accessible. Grover asked whether the transport had anything to eat. The representative showed him a shelf of ordinary packaged snacks and watched as his face lit with disproportionate gratitude.
+
+There were no windows in the transfer cabin, which made Percy uneasy. He couldn't see the Pacific as they left, and he couldn't watch the sky brighten over the country. He had to trust the person who was trained to move the god's weapon and the official process Chiron had arranged.
+
+For once, he let himself.
+
+Annabeth sat beside him and unfolded their statement about the encounter with Ares. She read it once, then put it away without trying to improve it. It recorded the truth they could verify: where the weapon had been, who carried the case and how Ares had left it behind. It did not claim they had defeated a god or proved the entire conspiracy.
+
+"You think Zeus will listen?" Percy asked.
+
+"I don't know."
+
+"That's getting to be our most common answer."
+
+"Because we keep asking questions bigger than we can answer."
+
+Percy rested his head against the seat. It still hurt to move too quickly. He was tired enough that the hum of the transfer mechanism reminded him of the Lotus, and he opened his eyes sharply to make sure the light was moving normally.
+
+Annabeth noticed.
+
+"This isn't the hotel," she said.
+
+"I know."
+
+"The armory attendant's up front. There's a route log."
+
+"I know. I just wanted to check."
+
+She took his hand, and neither of them promised never to be frightened again.
+
+When he finally slept, he dreamed of an ordinary breakfast table in a cabin near the sea. He woke before dawn with the feeling that the next difficult thing would happen among gods, where no amount of preparation could make his father and uncle easy people to talk to.
+
+The sealed weapon was still under guard. Percy was glad it wasn't in his backpack.
+
 The sun touched the water.
 
 Percy closed his eyes and let the tide wash over his legs, carrying away blood and ash, leaving salt and strength behind.
