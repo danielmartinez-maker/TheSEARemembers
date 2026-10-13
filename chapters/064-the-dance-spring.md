@@ -860,6 +860,124 @@ Silena floated by checking hair, beaming. "Adorable. Box step?"
 
 "Perfect from door," Silena said, moving on.
 
+Ella was supposed to read her poem after the first slow dance.
+
+The plan seemed simple when Grover described it. Austin would turn down the speakers, Kayla would give Ella a signal, and the harpy would take the microphone for a minute before the band started again.
+
+Percy had never seen Ella nervous about words. She had memorized whole books and could recite cooking instructions while eating the ingredients. But as the first slow song ended, she kept turning the page over in her wing and checking the first line as though it might move when she wasn't looking.
+
+"Do you need anything?" Percy asked.
+
+Ella looked at him.
+
+"Ella has words," she said. "Words are ready. Audience is loud. Words may not be loud enough."
+
+"Grover can ask people to listen."
+
+"Ella does not want a command."
+
+Percy considered that. She was right. Being forced to listen to someone wasn't the same as choosing to hear them.
+
+"Then maybe you can start when people are quiet," he suggested. "And if they aren't, we can wait."
+
+Ella seemed to dislike waiting more than she disliked the noise. She tucked the paper beneath one wing and walked toward the stage.
+
+The microphone failed on the first word.
+
+There was a brief squeal, then silence. The speaker near the fireplace made an unhappy clicking sound. Travis, who had been trying to connect a second music player to the system, emerged from behind a chair with a guilty expression.
+
+"I may have unplugged something."
+
+"Put it back," Austin said.
+
+"I don't know which part was which."
+
+The musicians bent over the cables. Mr. D declared that the dance had survived ancient plagues and could probably survive a defective amplifier. Nobody laughed very much.
+
+Ella remained at the front, her paper held against her chest.
+
+Grover moved toward her, but Juniper touched his wrist.
+
+"Ask first," she whispered.
+
+He did.
+
+"Would you like me to play underneath the poem? Without the speakers?"
+
+Ella thought about it. She looked at the room, where people were beginning to talk in little clusters.
+
+"Soft pipes," she said. "If Ella loses place, stop. Don't fill silence. Silence belongs in poem."
+
+Grover nodded. He took out his reed pipes and played one quiet note, then stopped to let her begin.
+
+The first line was scarcely audible.
+
+It wasn't the kind of opening the Stolls liked. There was no joke, no rhyme designed to make everybody cheer. Ella described the dance floor as a place where feet belonged to different creatures: hooves, boots, sneakers, wheels, talons. She described people who danced and people who watched, people who needed a chair halfway through the song and people who simply preferred to listen.
+
+The next part was about the sound of a cup set down beside an empty seat, the small scrape of a chair offered to someone who hadn't asked for attention.
+
+Percy found himself listening. Annabeth stood beside him, no longer trying to guess what the next line would be.
+
+Ella reached the middle of the page and stopped. The room had grown much quieter.
+
+"Lost line," she said.
+
+No one moved.
+
+Grover lowered the pipes, obeying her instruction. She looked down and searched the page, turning it once. Percy knew she could remember the words when they belonged to somebody else. These were her own. She had written them yesterday and revised them twice, and apparently that made them easier to lose.
+
+Juniper stayed near the front, not rushing her.
+
+Ella found the line.
+
+She read about a road that separated friends but still led to places where they could meet again, and about a tree whose roots held through winter although its branches looked empty. Percy glanced toward Grover. He was watching Ella with the kind of pride he usually reserved for Juniper's work among the trees.
+
+The final lines were short.
+
+*Some people move to music.*
+
+*Some people keep the door.*
+
+*Some people remember the words.*
+
+*There is room for all of them.*
+
+Ella folded the page. The applause came slowly at first, not because people disliked the poem but because nobody wanted to break the quiet too quickly.
+
+Then the whole room clapped.
+
+Ella looked startled.
+
+"Poem finished," she announced.
+
+"Very good poem," Grover said.
+
+"Yes," Ella answered. She was pink beneath her red feathers. "Good poem."
+
+The speaker came back to life with a loud crack that made everybody jump. Austin turned it down quickly. Nobody complained. The interruption had given Ella a few minutes without being drowned out by music, and the dance had been better for it.
+
+Juniper squeezed Grover's hand.
+
+"I'm glad you asked her what she wanted."
+
+"She knew exactly what she wanted," he answered. "I just had to hear it."
+
+Percy saw Annabeth smiling.
+
+"What?" he asked.
+
+"Nothing. I liked the poem."
+
+"So did I."
+
+She leaned toward him. "Especially the part about doors. I spent two days making sure this room had enough space to leave."
+
+"She noticed."
+
+"Apparently."
+
+They returned to the floor when the next song began. Percy hadn't planned to spend part of his first proper dance standing still and listening to Ella. He was glad the evening had room for something he hadn't expected.
+
 Evening blurred warm. Line dance Percy survived by watching Connor's feet and moving half a beat late. Chiron danced with Mrs. O'Leary who stepped on all four hooves and barked with joy. Mr. D after punch told actually interesting spring story about Persephone's garden that made even the Ares kids listen. Ella recited whole set list from memory between songs — "'Track three, tempo moderato, key of G'" — and Grover applauded each like heroics. Pollux and Austin attempted a spin and ended tangled in a streamer to huge cheers. Travis tried to dip Connor and dropped him. Connor got up bowed anyway.
 
 At quarter to ten Chiron rang bell.
