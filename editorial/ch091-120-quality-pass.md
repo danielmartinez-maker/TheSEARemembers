@@ -2,10 +2,10 @@
 
 **Branch:** `rewrite/chapters-10k-quality-pass`
 **Scope:** chapters 091–120, exactly; chapters 090 and 121 are reference boundaries, not edit targets.
-**Status:** Editorial inventory and scene-expansion design. **NOT** a 10k-word certification or proof that chapter prose has been rewritten.
+**Status:** Initial editorial inventory and scene-expansion design, plus verified per-chapter progress below. **NOT** a certification for the entire 30-chapter range.
 **Method:** Whitespace-separated narrative body words, with Markdown chapter heading and standalone `---` divider lines excluded. This is an inventory count; re-run the repository's official manuscript audit after every prose edit.
 
-## Baseline audit
+## Initial baseline audit (before prose revisions)
 
 | Ch | Title | Current body words | Missing from 10,000 |
 |---:|---|---:|---:|
@@ -41,7 +41,7 @@
 | 120 | A Letter from the Sea | 4,713 | 5,287 |
 | **Total** | **30 chapters** | **111,386** | **188,614** |
 
-No chapter in the range currently meets the floor. Thirteen of the chapters have fewer than 2,000 body words. Drafting to 10,200–11,200 is appropriate when additional scenes justify it, rather than mechanically stopping at exactly 10,000.
+No chapter met the floor at the time of this initial inventory. Thirteen of the chapters have fewer than 2,000 body words. Drafting to 10,200–11,200 is appropriate when additional scenes justify it, rather than mechanically stopping at exactly 10,000.
 
 ## Locked continuity constraints
 
@@ -137,3 +137,8 @@ No chapter in the range currently meets the floor. Thirteen of the chapters have
 ## Open handoff
 
 The next prose edit should be chapter 111, using chapter 110's final promise scene and chapter 112's opening homesickness as immediate boundaries. Do not resolve the Atlantis homesickness during the date. Do not skip over its original architectural sketching, strawberry division, or intrusive-but-caring Clarisse and Silena reveal. Make the day's consequences specific enough to remember in 112.
+
+## Completed revision log
+
+- **Chapter 111, The Date Committee:** original 453 body words; revised **11,254** body words, promoted to `chapters/111-the-date-committee.md`. Maintains the amphitheater date, drawings, strawberries, Clarisse/Silena interruption, established Percabeth, and a boundary-based ending. Added meaningful work scenes for the Grace and Poseidon siblings and a lead-in to Percy's unresolved Atlantis homesickness in 112. Exact 300-word reuse checked at every offset against chapters 110 and 112–114 and within revised 111: **0 hits**. UTF-8 replacement character check **0**, no `POV:` headers, numeric chapter heading retained. Broader corpus duplicate scan and export rebuild still pending.
+- **After this revision:** **1 of 30 chapters** meets the 10,000-word floor. Estimated range total now **122,187** body words and minimum gap **177,813** words, using the same count method.
