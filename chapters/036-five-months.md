@@ -446,6 +446,130 @@ They walked out of the forge together into the gold light, bickering about cooki
 
 ---
 
+When Silena returned to Cabin Three, she found Percy sitting on the floor in front of the storage chest, holding a photograph upside down.
+
+That was unusual enough. Percy normally treated the storage chest as the place where Silena kept things he was supposed to ask before borrowing. She had labels for the fishing gear, the spare uniforms and the jars of salt they brought from Atlantis. The photographs were at the very bottom, wrapped in cloth to keep out the damp.
+
+"Did you find something?" she asked.
+
+Percy turned the picture around. "I was putting back the sail mending kit. The cloth under it came loose."
+
+She examined the photograph. A much younger Percy sat on a stone bench with a wooden sword across his knees. His hair was shorter. There was a missing front tooth and an expression of exaggerated seriousness he must have copied from Triton. Silena stood behind him in a dress she'd disliked from the moment Amphitrite chose it, trying to hold his shoulders still for the picture. Clarisse was visible at the edge of the frame, about to leap in.
+
+Silena had forgotten the photograph existed. She remembered the afternoon, though. Percy had insisted he could stand guard outside the palace nursery. He was five or six, and Clarisse had convinced him that keeping the sea gulls away from the windows counted as an official duty. The royal photographer had come for a family portrait and found all three of them arguing about whether the gulls were enemy scouts.
+
+"Do you remember this?" Percy asked.
+
+"Yes."
+
+"What happened?"
+
+Silena settled beside him on the floor. "You wanted to wear your practice helmet. It was too large, so you took it off for the picture. Clarisse said that meant you were abandoning your post."
+
+"I can imagine that."
+
+"You tried to get Triton to sign an order declaring the nursery a military station. He told you to ask Amphitrite first."
+
+Percy laughed. The laugh was real. Silena had been afraid he'd look at the photograph as if it were another test, but he was looking at Clarisse's half-visible hand.
+
+"Why is she holding a fish?"
+
+"She wanted to prove she'd captured an actual enemy scout."
+
+"What happened to the fish?"
+
+"She put it back in the water after the photograph. She insisted it had been released under a treaty."
+
+Percy smiled and turned the picture over again. There was a date on the back and a note in Amphitrite's hand: *My three brave nuisances*. Silena had hated the word *nuisances* when she was little because it sounded as though the queen had grown tired of them. Now she could hear the affection in it.
+
+"Do you want to keep looking?" she asked.
+
+Percy considered. "One more."
+
+She unwrapped the cloth. The photographs were arranged by year, though some had fallen out of order when the chest traveled from Atlantis to camp. There were summer festivals under green water, birthdays with cake that floated in enchanted glass bubbles, training days and a picture of Triton looking appalled because Percy had managed to decorate his armor with colored shells.
+
+Silena picked up the last one. "He still complains about this."
+
+"Really?"
+
+"Every time you mention the festival. He said he'd been trying to look serious for the council and you made him look like a children's parade."
+
+"Was he angry?"
+
+"Only until Amphitrite laughed. Then he pretended he had planned it."
+
+Percy studied Triton's face. His older brother looked younger than he did during the recent visit to camp, but the line between his eyebrows was the same. Percy had begun learning what that expression meant in the five months he'd spent here. It usually meant Triton was worried and wanted everybody to believe he was merely disappointed.
+
+"I wish I remembered doing that," he said.
+
+Silena didn't answer immediately. She had told Percy stories from childhood before and watched him make jokes to keep the sadness from showing. Today he'd asked. That mattered, but it didn't give her a way to make the missing years return.
+
+"I liked it," she said. "You were little and thought his armor needed cheering up. I'm glad I remember, even if you don't."
+
+Percy looked at her. "You don't mind that you always have to tell me?"
+
+"I mind that we lost the easy part. I used to say two words and you'd know the rest. Sometimes I still do, and then I see your face and remember that I have to start at the beginning."
+
+He lowered the photograph.
+
+"I'm sorry."
+
+"Don't apologize. I can feel sad about something without making it your fault."
+
+The cabin door banged. Clarisse entered with a basket of clean towels and stopped when she saw them on the floor.
+
+"Oh, gods. Did you find the fish picture?"
+
+Percy held it up. "Apparently you negotiated a treaty."
+
+Clarisse dropped the towels and came over at once. "That was a legitimate exchange. The fish had stolen a ribbon from my training spear."
+
+"How?"
+
+"It jumped."
+
+"Fish don't steal ribbons by jumping."
+
+"This one did."
+
+Silena laughed so hard she had to put down the album. Clarisse snatched the picture, inspected it and sat beside Percy to explain exactly how the fish had been captured. Her version involved a daring chase, three guards and a rescue operation. Silena remembered two children arguing beside a shallow pond.
+
+"You're making it sound heroic," she said.
+
+"It was heroic."
+
+"Percy fell into the pond."
+
+"He was providing a diversion."
+
+Percy laughed. The three of them sat among the photographs until the sun slanted through the cabin window and turned the glass panes blue. Clarisse described a festival race Silena didn't remember, Silena corrected the date of a palace concert and Percy asked questions when he wanted to know more. When the stories became too many, he said so. His sisters stopped.
+
+They put the photographs back in order. Percy chose the picture of Triton wearing shells to keep on the cabin shelf, where everyone could see it. He left the childhood sword portrait in the album.
+
+"I like that one," Clarisse said, disappointed.
+
+"So do I. But I don't know the little kid in it yet."
+
+Silena understood. He could be curious about his childhood without being ready to display every image of a person he hadn't learned to remember. She put the picture in its protective sleeve.
+
+"What do you want to put beside Triton's picture?" she asked.
+
+Percy looked around the cabin. There was a recent photograph from the forge, Silena's braid crooked and Clarisse glaring at the camera with a smear of grease on her cheek. He took that one and stood it beside the festival portrait.
+
+"This," he said.
+
+Clarisse examined the pair. "I look terrible in both."
+
+"You look exactly like you," Silena said.
+
+"That's what I mean."
+
+They spent the next ten minutes arguing over who would dust the shelf before the photographs went back. Percy lost because he had been the one to open the chest. He didn't complain much, and when Silena handed him the cloth, he used it carefully.
+
+Later she caught him looking at the two photographs again. She thought about offering another story. Instead she went to wash the mugs they'd left out from breakfast. He knew where to find her if he wanted one.
+
+---
+
 Grover's favorite place at sunset was the strawberry fields, and Ella was learning why.
 
 They sat at the edge of the rows with a basket between them, supposed to be picking for dinner dessert, mostly eating. The sun hung low over the lake, turning the water to hammered copper. The air smelled like warm berries and cut grass. Bees droned drunk and happy. Up on the hill, the pine stood black against the light.
