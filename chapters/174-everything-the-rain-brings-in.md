@@ -504,7 +504,26 @@ Thalia was on the porch of Cabin One with her heel wrapped and her arms crossed 
 
 "Night."
 
-The door shut. The lamp in the window stayed on a minute longer, and then it went out, and Percy stood at the bottom of the steps for a second in the wet dark with the mist coming up the hill past him, and did not count anything, and did not file anything, and went home down the path with his hands in his pockets and his shoulders wet and the entire ordinary Monday of his life sitting exactly where he had left it.
+The door closed, but Annabeth opened it again before Percy reached the path.
+
+"Wait. You forgot the ruler."
+
+"That's yours."
+
+"You carried it all the way up for me. I'm giving it back so you can bring it down tomorrow without bending the paper."
+
+He took it, less because he wanted another errand than because he understood what she was asking. She had both arms full when she kissed him. The ruler would be perfectly safe on her table. She wanted him to have a reason to come back.
+
+"Tomorrow, then," he said.
+
+"After breakfast. And don't put it in your back pocket again. You sat on the last one."
+
+"That was a structural test."
+
+"It failed."
+
+She shut the door before he could argue. He started downhill in the damp, keeping the wooden rule tucked under one arm where it wouldn't catch on his coat. Behind him the cabin's lamp stayed lit while she put her papers away, a small, busy square of light in the mist.
+
+At the fork he met a Hermes camper carrying a lantern and a bundle of dry towels. Percy held the lantern while the boy adjusted the slipping bundle, then took his own hands back when it was secure. The rain had left work for everyone, and it was still leaving more. By the time Percy reached Cabin Three, his ruler was dry and his shoulders were wet. He put the ruler on the shelf beside his boots where he would see it at breakfast.
 
 ---
-
