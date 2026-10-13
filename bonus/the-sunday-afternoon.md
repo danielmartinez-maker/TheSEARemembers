@@ -1776,3 +1776,215 @@ Thalia put the paper carefully inside her book, beside the photograph from the o
 Wednesday, she decided, she would ask him about the rest of the melody.
 
 ---
+
+On Wednesday, Rhys was waiting at the old amphitheater with a guitar.
+
+Thalia had come because a scrap of paper had appeared in her boot at breakfast. She had no idea how he had managed that without being noticed, but the note was unmistakably his: *Seven. East steps. Bring your ears. Leave the target scores at home.*
+
+She arrived early, partly because she was curious and partly because she objected to being late for an invitation she had not demanded. The amphitheater was nearly empty at this time of year. Rows of damp wooden seats descended toward a small stage, and the lamps at the edges had been lit against the early dark. Rain had washed the steps clean. The air smelled of wet earth and old pine.
+
+Rhys sat on the edge of the stage with the guitar across his knees. He had a sheet of music beside him, weighted with a pebble.
+
+"You're early," he said when he saw her.
+
+"You were vague."
+
+"About what?"
+
+"Whether this was an appointment or an ambush."
+
+"It's neither."
+
+"Then why am I here?"
+
+He played the first five notes of the melody he'd given her the night before. They rose, paused, and settled into a second phrase that she hadn't heard. He played it once, then again, each time with a small change in the ending.
+
+She stood at the foot of the stage and listened. The music was not polished. He'd made no effort to turn the melody into something grand, and there was a hesitation at the transition that she remembered from Friday. But the tune had a shape now, a definite emotional movement from restlessness to a quieter resolution.
+
+When he finished, he looked at her.
+
+"Well?"
+
+She considered. "You stole my idea."
+
+"What idea?"
+
+"The pause."
+
+He smiled. "You taught me something."
+
+"That's inconvenient."
+
+"Terribly."
+
+She climbed onto the stage and sat beside him. He moved the music so it wouldn't blow away.
+
+"I liked it," she said.
+
+He blinked. "You did?"
+
+"Don't sound shocked."
+
+"I was bracing for a detailed report on my errors."
+
+"I could provide one."
+
+"Maybe after supper."
+
+She looked toward the empty seats. "Why here?"
+
+"Better sound."
+
+"And no witnesses."
+
+"That too."
+
+He set the guitar aside. She moved closer, then stopped herself. The night before she'd wanted him to spend time with her and he hadn't been able to. She had made peace with that. But now he was here, offering her a private performance, and she was aware of how much she'd missed being near him.
+
+"Are you rested?" she asked.
+
+"Mostly."
+
+"Good."
+
+"Why?"
+
+She turned toward him and kissed him.
+
+There was a moment of surprise, then his hand came to her cheek and the kiss deepened. She could feel the softness of his mouth, the warmth of his fingers against her skin, the way his breath changed as he leaned toward her. The amphitheater was empty, but it was not the familiar privacy of his cabin. She was aware of the space around them, the rows of seats, the open night. Somehow it made the choice feel more deliberate.
+
+He drew back, smiling.
+
+"I missed that," he said.
+
+"Your own fault."
+
+"I know."
+
+She caught his sleeve. "Don't make me say it again."
+
+"Say what?"
+
+"That I wanted to see you."
+
+He kissed her again. This time she let him take the lead for a moment, enjoying the rare luxury of not having to decide everything. When he drew back, she was smiling so openly that she didn't bother to hide it.
+
+"Better?" he asked.
+
+"Considerably."
+
+He laughed, and she could hear the relief behind it. They had managed to survive one evening apart without treating it as a catastrophe. Now they were together again, and there was a pleasant ease in the reunion that she hadn't expected.
+
+Rhys picked up the guitar and played the melody a third time. Thalia listened, then reached for his hand when he finished.
+
+"Do you know how to dance?" she asked.
+
+He looked at her, surprised. "A little."
+
+"Show me."
+
+"Here?"
+
+"Unless you've reserved another amphitheater."
+
+He set the guitar safely on a chair. She stood in the center of the stage, suddenly self-conscious. It was one thing to kiss someone in the dark; another to ask him to dance when neither of them had an audience to impress.
+
+Rhys came to stand in front of her. He put one hand at her waist and held out the other. She took it, and he began to count a slow rhythm.
+
+"One, two, three," he said.
+
+"I know how to count."
+
+"I'm making sure."
+
+She stepped forward at the wrong moment and landed lightly on his shoe.
+
+"That's not the count," he said.
+
+"Your shoe was in the way."
+
+"It was attached to my foot."
+
+"Then move your foot."
+
+He laughed. They tried again. She was better at footwork when someone was trying to hit her with a sword, apparently, than when the point was to stay close and move together. She kept anticipating the next step, shifting before the count, and Rhys kept drawing her back into the rhythm.
+
+"Stop trying to win," he said.
+
+"I'm trying not to fall."
+
+"Trust me for three steps."
+
+She looked at him. The request was small and precise. Three steps. Not a lifetime of surrender. She nodded.
+
+He counted again. She followed, and this time their feet moved together without argument. They turned slowly in the lamplight, laughing when her heel made her take an awkward half-step. She adjusted without losing the rhythm. He kept his hand steady at her waist.
+
+For several minutes they danced badly and then a little better. There was no music now except the tune in his head and the quiet rhythm he hummed under his breath. Thalia found herself moving closer until the space between them seemed unnecessary.
+
+"You're not terrible at this," he said.
+
+"High praise."
+
+"I was going to say good."
+
+"Don't get reckless."
+
+He smiled and drew her nearer. She rested her head briefly against his shoulder, then looked up. The kiss that followed was slow and comfortable, interrupted by laughter when she lost her footing and caught his shirt.
+
+"Sorry," she said.
+
+He looked at her in mock alarm. "Was that an apology?"
+
+"Don't get used to it."
+
+"Never."
+
+They stopped dancing. He kept one hand against her back, and she let her fingers rest near his collar. The night was cold, but the small space between them felt warm enough. She could hear the distant sound of water somewhere beyond the trees and the creak of the stage boards beneath their feet.
+
+"Can I ask you something?" he said.
+
+"You're going to anyway."
+
+"Would you like to call this a date?"
+
+She considered. The word didn't sound as dangerous as it had a week ago. A date meant they had chosen to spend time together because they wanted to, that they might plan another one and look forward to it. It didn't have to mean they had settled every question about the future.
+
+"Yes," she said.
+
+His smile widened. "Good."
+
+"But don't make a fuss."
+
+"I wouldn't dare."
+
+She kissed him again to emphasize the point. He kissed her back, and she felt the pleasant certainty of being wanted without needing to turn the feeling into a competition.
+
+They remained on the stage until the lamps began to burn low. Rhys gathered the guitar and music, and she helped him carry the chairs back where they belonged. The work took five minutes. She didn't mind. They had spent the rest of the evening entirely on themselves.
+
+At the fork he stopped.
+
+"Come home with me?" he asked.
+
+Thalia looked toward the north path. She wanted to. She also knew she was tired, and her heel had begun to ache after the dancing. She didn't want to turn the invitation into an obligation just because she'd enjoyed the evening.
+
+"Not tonight," she said.
+
+"All right."
+
+"I wanted to," she added.
+
+"I know."
+
+"Tomorrow?"
+
+"Maybe."
+
+She narrowed her eyes. He was smiling. He had stolen her own word and was enjoying it far too much.
+
+"You're learning bad habits," she told him.
+
+"From a very good teacher."
+
+She laughed and kissed him on the cheek. Then she went uphill toward Cabin One, carrying the tune in her memory and the knowledge that they had named something between them without making it more complicated than it needed to be.
+
+---
