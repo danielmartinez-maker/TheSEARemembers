@@ -118,6 +118,122 @@ Annabeth laughed and shoved him lightly. "Come on. Grover's cans won't crate the
 
 ---
 
+The packing schedule wasn't the only paper Chiron had for them.
+
+He caught Percy as the porch emptied and asked him to carry a sealed envelope to the satyr office. There were two envelopes, actually: one addressed to the recovery team caring for Ferdinand, and another containing the map of Medusa's garden. Percy recognized Annabeth's numbered handwriting through the thin paper.
+
+"Has there been news?" Percy asked.
+
+"Some," Chiron said. "Enough to pass on privately. Grover knows the first part. I don't want a report about his uncle read aloud at the dinner table."
+
+Percy tucked the envelopes beneath his shirt to keep the ink dry. "Does that mean he's getting better?"
+
+"It means the team has finished identifying two more people from the garden. The spell remains difficult to reverse. We don't yet know what recovery will look like."
+
+For a moment Percy wished Chiron would say something more reassuring. He had heard the same cautious answer often enough that he recognized the shape of it. It was what an adult said when refusing to buy a few seconds of comfort with a promise he couldn't keep.
+
+"I'll take them," Percy said.
+
+"One other thing. Grover's proposed route in the Pacific Northwest will take him away from the recovery center. He deserves the chance to weigh that before the Council expects an answer."
+
+Percy looked out over the green. Grover was arguing with Connor about whether an old soup can counted as a collectible or rubbish. Every few seconds he glanced back toward the Big House as though the Council's letter might appear in the doorway.
+
+"Then you'd better tell him," Percy said.
+
+"I intend to."
+
+The satyr office was in a small building behind the stables. Percy had passed it for years without going inside. He found two younger satyrs inspecting a box of trail maps and an older one organizing correspondence by region. The room smelled of wool coats, hay and paper dried too close to a fire.
+
+Percy handed over the first envelope. The older satyr checked the seal, signed a receipt and placed it in a locked drawer. He wouldn't show Percy the response, which was mildly irritating until Percy remembered that he wasn't its intended reader.
+
+"Grover will receive it," the satyr said. "And the other one?"
+
+"Recovery team. There are people in the garden we couldn't bring out."
+
+The satyr took the map and studied the destination.
+
+"We've marked the site for a search party," he said. "But the land's still dangerous. It'll have to be coordinated with people who can examine the stone before moving it."
+
+Percy nodded. He could almost see Grover kneeling beside Uncle Ferdinand's statue, asking how much of the stone remained alive. He wanted to say they'd done something brave by bringing three people out. He knew that. It just didn't make the others vanish from the list.
+
+When Percy returned to the north strawberry rows, he found Juniper and Grover carrying a young serviceberry tree in a canvas sack. Its leaves looked fragile beside the sturdy maples. The sapling was hardly taller than Grover's chest.
+
+"You got it," Percy said.
+
+Juniper set down her end of the sack. "The nursery had one that was ready to move. The groundskeeper approved the spot near the fence. It's far enough from the irrigation channel that the roots won't interfere."
+
+Grover glanced toward the board they'd repaired before the quest. "I checked twice."
+
+Percy smiled. "I believe you."
+
+He showed Grover the receipt and explained what Chiron had said about the newly identified victims. Grover listened without interrupting. He didn't ask whether his uncle was cured, which was good, because Percy couldn't have answered.
+
+"That's another two names," Grover said.
+
+"Yes."
+
+"Not another two people brought home."
+
+"No."
+
+Grover looked down at the serviceberry. He had said in June that it would be a place for Ferdinand when he came to camp, not a memorial. Percy could tell he was still trying to protect that distinction.
+
+Juniper dug the planting hole while Grover checked the root ball. Percy helped with the earth only after she explained where he could press without damaging roots. By the time the soil was level, his hands were filthy and the sapling stood upright with a small stake beside it.
+
+Grover poured water around the base. Most of it soaked in. A little ran over Percy's shoe.
+
+"Sorry," Grover said.
+
+"That's the least dangerous thing that's happened to my shoes all year."
+
+Juniper smiled. Then she looked at the young branches and frowned.
+
+"You can't leave it like this and hope it survives," she said. "It'll need watering while the weather's hot, protection from deer in winter, and somebody to check the ties as the trunk grows."
+
+Grover was quiet. He'd spent so much time planning the planting that the long months after it hadn't seemed as real.
+
+"I won't be here," he said.
+
+"I will," Juniper answered. "And the younger satyrs can take turns. We just need a schedule that doesn't depend on someone remembering whenever they walk past."
+
+"An Annabeth schedule," Percy said.
+
+"Exactly," Juniper replied.
+
+Grover reached for the bark list he carried everywhere, but Juniper offered him a clean card. Together they wrote the watering routine and the name of the groundskeeper responsible. Grover drew a tiny goat in the corner; Juniper added a leaf.
+
+Afterward they stood back. The tree was crooked by perhaps an inch. Percy pointed this out and immediately regretted it when Juniper made him hold the trunk while she adjusted the stake.
+
+"Better?" she asked.
+
+"Much."
+
+Grover looked at the small tree for a long time. "Ferdinand used to complain that I planted things where the birds couldn't see them."
+
+"Well, they'll see this one," Juniper said. "They'll probably eat all the berries before we get any."
+
+"He'd like that."
+
+Percy didn't try to make the moment grand. The tree needed a dozen ordinary things, not a speech. And Grover had a decision coming from the Council that meant leaving it and his uncle's care in other people's hands.
+
+"Are you going to take the Searcher route?" Percy asked.
+
+Grover made a face. "I haven't even got the letter yet."
+
+"I know. But do you want it?"
+
+Grover looked between the serviceberry and the hills beyond camp.
+
+"I think so," he said. "I don't want to stop being the person who goes to find things just because I found one of the things I was looking for."
+
+Juniper crouched to firm the last of the soil. She didn't tell him to stay. Percy suspected that was harder than it looked.
+
+They left the little tree in the sun and went to help pack the cans. Before Grover left, he came back once, just to check whether the canvas watering bucket had been placed where the younger satyrs could find it.
+
+It had.
+
+---
+
 Grover's collection of tin cans lived behind the Big House in a shed that smelled like goat and apples and old rain.
 
 It was, objectively, the weirdest hoard at camp, and that was saying something in a place where the Ares cabin kept a cursed throne as a coat rack. Dozens of cans, washed and labeled in Grover's neat handwriting: BLUEBERRY (MAINE, 06/12), PEACHES (GEORGIA, AUNT'S), TOMATO SOUP (DO NOT EAT). Each one was a memory from his years searching for Pan, eating out of trash cans and grocery dumpsters while he wandered the wild.
