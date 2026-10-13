@@ -740,3 +740,101 @@ Annabeth's breathing deepened. Percy stayed awake a little longer, keeping watch
 Quiet. Warm. No monsters. Just this.
 
 Percy closed his eyes, hand in Annabeth's hand, and let the hollow hold them all.
+
+---
+
+The next morning, Annabeth found a pebble in the offering bowl that hadn't been there the night before.
+
+It was small and ordinary, with a pale line running across the middle. Somebody had placed it beside Percy's shell and Nico's dark flower. At first she assumed Nico had returned during the night and added something else. Then she saw a folded scrap of paper beneath the pebble.
+
+*For my brother. He can't come to camp yet.*
+
+There was no name.
+
+Annabeth read the words twice. She hadn't expected the space to be used so soon by someone who hadn't attended the dedication. Chiron had told her that other campers would make their own memories there. She'd agreed, but some part of her had still imagined the shrine would remain arranged exactly as it had been yesterday, every object placed by a friend who helped build it.
+
+She looked around the hollow. Nothing else had changed. The path was clear, the roof was dry and the carved inscription held the morning light. Someone had come here because they'd seen the little sign beside the path, then left a stone small enough to fit in a hand.
+
+Annabeth didn't know whether the brother in the note was mortal, divine or simply somewhere the writer couldn't reach. She wanted to know. She had built a place for those who were missed and now realized she would not always be entitled to know the stories behind the things people left there.
+
+A voice came from the path.
+
+"Did I do it wrong?"
+
+A younger camper stood beside the entrance, one hand gripping the strap of his bag. Annabeth recognized him from the Hermes cabin but didn't know him well. He couldn't have been more than ten.
+
+"The pebble?" she asked.
+
+He nodded. "There wasn't anyone here last night. I didn't want to interrupt."
+
+"You didn't do anything wrong."
+
+"Chiron said we could leave small things, but I wasn't sure whether the bowl was just for the people who made it."
+
+Annabeth felt an uncomfortable pinch of recognition. She had spent the morning worrying about whether the placement looked right, and he'd been worrying about whether he was allowed to enter at all.
+
+"It's for anyone who wants to use it," she said. "You can sit here too. You don't have to bring something."
+
+He looked at the bowl. "Is it all right if I don't explain the note?"
+
+"Yes."
+
+He relaxed a little. Then he pointed to the pale line in the pebble.
+
+"My brother found that when we were little. He said it looked like a road. I used to make it go along the lines in our kitchen floor like it was traveling somewhere."
+
+Annabeth smiled. "That's a good use for a pebble."
+
+"He kept it for years. Before I came to camp, he gave it to me so I could remember him."
+
+She was tempted to ask why his brother wasn't here, but stopped. He'd already told her more than he had to.
+
+"Would you like to sit for a while?" she asked.
+
+He nodded. They sat on opposite sides of the mosaic, leaving the path between them open. The boy put down his bag and looked at the patterns in the floor.
+
+"Are these all gods?" he asked.
+
+"No. Some are things we like. Waves for Percy, stars for Thalia and the sky, an owl for me. We used knots because they hold things together."
+
+"Is the owl because you're Athena's daughter?"
+
+Annabeth looked at the carving. She had kept the owl because it belonged to memories she treasured, even though she was Zeus's daughter in this life. It was a question she'd expected from somebody eventually.
+
+"No," she said. "I'm a daughter of Zeus. I like owls because they remind me of something important."
+
+He accepted the answer without asking for the whole history. He was more interested in tracing the path of the mosaic with his finger.
+
+"Can I draw one of these?" he asked.
+
+"Of course."
+
+"Can I change it?"
+
+"You can draw your own version. The tiles need to stay where they are."
+
+He nodded, satisfied with the distinction. Annabeth fetched scrap paper from her bag and showed him how she'd laid out the circles that formed the central pattern. He made a much smaller version with the pebble road passing through it.
+
+After a while he stood to go back to his cabin. He thanked her, folded the drawing and left the pebble in the bowl.
+
+Annabeth stayed a few minutes longer. The offering arrangement was no longer precisely the one she'd planned. The new stone sat between objects given by people she loved, carrying a story she knew only in part. She found she didn't want to move it.
+
+When Percy arrived after dock duty, he saw the new note and looked toward her.
+
+"Somebody came?"
+
+"Yes."
+
+"Did they like it?"
+
+"I think so. He sat here and drew for a while."
+
+Percy read the note without touching the pebble, then folded his hands in his lap.
+
+"That's what you wanted," he said.
+
+Annabeth looked around the hollow. She had wanted to build something that lasted. Yesterday she'd thought that meant making the stone and wood strong enough to survive weather. Today she understood that a place could survive in another way: by letting people she didn't know use it without having to ask her to approve their reasons.
+
+"Yes," she said. "It is."
+
+She opened her notebook to a fresh page and wrote down the first maintenance check. Then she closed it and left the pebble where the visitor had placed it.
