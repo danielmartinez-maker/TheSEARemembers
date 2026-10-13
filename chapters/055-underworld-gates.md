@@ -895,7 +895,7 @@ The man didn't smile. He simply followed her as she led him toward another desk.
 
 Annabeth checked the map. "That doesn't mean we do nothing. It means we find the person whose job includes helping him."
 
-Percy was beginning to recognize how much he disliked being unable to solve things by force. It was a weakness he would have to carry into Hades's court with his sword capped and his questions ready.
+Percy was beginning to recognize how much he disliked being unable to solve things by force. Even here, no one could rescue the dead with a convincing speech. It was a weakness he would have to carry into Hades's court with his sword capped and his questions ready.
 
 They continued toward the gates, following the route rather than charging at whatever frightened them first. It wasn't heroic. Percy thought it might be the responsible choice.
 
