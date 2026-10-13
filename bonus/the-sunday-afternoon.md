@@ -12980,3 +12980,215 @@ The argument was comfortable, familiar and entirely about the string.
 She liked that.
 
 ---
+
+## May 31: The Note He Wouldn't Play
+
+Rhys had developed an unreasonable fear of one note.
+
+It was the highest note in a piece he'd been writing since the tour, a short melody that rose gradually through the middle register before reaching a point where the guitar could no longer hide the difficulty of the phrase. Every version he'd written ended just below it. He would approach the note, hesitate and turn the melody downward.
+
+Thalia noticed the pattern before he did.
+
+She had been sitting at the new folding desk, working through evaluations from the advanced archery program. The students' scores were improving, but the numbers told less of the story than the written explanations. She was trying to design a final exercise that would reward good judgment rather than speed.
+
+Across the room Rhys played the same eight bars for the fourth time.
+
+He stopped at the same place.
+
+Thalia looked up.
+
+"You're avoiding it."
+
+He turned. "Avoiding what?"
+
+"The high note."
+
+"I'm rewriting the phrase."
+
+"Four times?"
+
+"It's difficult."
+
+"Then play it."
+
+He looked at her for a moment. There was no anger in his face, only a concentration she'd learned not to interrupt without good reason.
+
+"It doesn't fit," he said.
+
+"How do you know?"
+
+"I can hear it."
+
+"Then let me hear it."
+
+He hesitated. Then he turned the page back to the first draft, where the difficult note remained penciled in above a line of corrections. He began slowly. The melody rose, the harmony shifted beneath it, and when the highest note arrived he reached for it with a tension that made the sound thin and sharp.
+
+Thalia winced.
+
+Rhys stopped.
+
+"Exactly."
+
+"That was terrible."
+
+"I know."
+
+"But the note isn't wrong."
+
+He looked up.
+
+"Your hands are wrong," she said. "You're expecting to miss it."
+
+He examined the guitar, then played the phrase again. This time he relaxed the hand before reaching the note, letting the sound arrive without forcing the movement. The note held cleanly.
+
+He stared at the instrument.
+
+"Again," Thalia said.
+
+He played it a third time.
+
+It worked.
+
+He looked at her with an expression of delight that made her laugh before he spoke.
+
+"You've been listening to my playing."
+
+"Unfortunately."
+
+"All evening?"
+
+"I have work to do."
+
+"Apparently you can do two things at once."
+
+"I am exceptionally talented."
+
+He smiled and played the phrase again, this time with more confidence. The high note gave the melody something it had lacked. The return afterward felt earned, not cautious.
+
+Thalia went back to her evaluations.
+
+For twenty minutes he worked without speaking. She liked the sound of the music filling the cabin, partly because it was good and partly because she could hear him finding his own way through a problem rather than expecting her to make every decision. She had suggested a physical correction. The composition remained his.
+
+At last he put the guitar down.
+
+"Come listen to the whole thing."
+
+She looked up. "I have five papers left."
+
+"I know. I'll wait."
+
+He did.
+
+Thalia finished reading the evaluations, checked the final scores and wrote her recommendations. Then she closed the folder and went to sit beside him.
+
+"All right."
+
+He played the piece from beginning to end.
+
+The opening was quiet, almost hesitant. The middle widened, taking the melody through several changes she'd never heard before. Then came the high note, not loud but clear, held long enough to make the return to the lower register feel natural. The last chord settled without a flourish.
+
+When he finished, he didn't look at her immediately.
+
+She waited.
+
+He turned.
+
+"Well?"
+
+She considered. She had dozens of opinions. The middle might be a little too long, and the third phrase could use a different transition. But the piece had a shape now, something distinct from the winter melody they'd argued over for months. She could hear the confidence he'd gained on the tour, along with the uncertainty of coming home and trying to decide what to do with it.
+
+"It's yours," she said.
+
+He blinked. "That's not a review."
+
+"It is."
+
+He looked at the score. "You don't think I should change anything?"
+
+"Of course you should change things. That's what you do. But it sounds like something you wanted to write, not something you wrote because you thought an audience would approve it."
+
+He was quiet for a while.
+
+"Thank you," he said.
+
+She smiled. "Don't make a ceremony out of it."
+
+He set down the guitar and moved closer. His hands were warm from playing. She took them between hers, feeling the roughness of the fingertips that had spent six weeks on unfamiliar stages.
+
+He kissed her.
+
+The kiss was quick at first. Then she drew him back, enjoying the easy way he followed and the familiar sense of anticipation that had never become dull. The score lay open on the bench beside them. Her evaluations were finished. There was no unfinished task demanding that one of them leave.
+
+She wanted the evening.
+
+He drew her closer, and she smiled against his mouth before the smile became something quieter. The room was warm. The window had been left open at the top, letting in the smell of spring rain. She could hear birds settling in the pines beyond the path.
+
+There was no need to fill the evening with explanation.
+
+Later, with the lamp low, she was lying beside him when he asked what she'd done with the final student evaluations.
+
+"Finished them."
+
+"All?"
+
+"Every one."
+
+"How did they do?"
+
+"Better than I expected."
+
+He smiled. "Sounds as if you're pleased."
+
+"I am."
+
+She said it without sarcasm. He noticed, but wisely declined to comment.
+
+The program had begun with a dozen students and a set of objections from instructors who thought it was too complicated. Now the students were demonstrating judgment Thalia hadn't possessed at their age. They could inspect a course, disagree without treating disagreement as defeat and correct themselves after mistakes.
+
+She was proud of them. She was proud of the work.
+
+Rhys touched her hand.
+
+"What happens next?"
+
+"Chiron wants me to redesign the summer section."
+
+"Will you?"
+
+"I think so."
+
+He looked pleased. She knew the expression: not because he'd been given a plan that included him, but because he liked seeing her want something and choose it.
+
+"What happens with the music?" she asked.
+
+"I'll finish this piece. Then send it to Edda."
+
+"And after?"
+
+"I don't know. Perhaps another tour. Perhaps something smaller. I want to keep writing."
+
+Thalia considered.
+
+"Then do."
+
+He smiled at the bluntness.
+
+They were quiet for a while. Outside, the wind rose and rattled the shutter.
+
+She turned toward him.
+
+"Rhys?"
+
+"Yes?"
+
+"The note was good."
+
+He laughed softly. "I know."
+
+"Don't get insufferable."
+
+"Too late."
+
+She kissed him again, glad of the familiar answer and the man who had finally stopped being afraid to play a difficult note.
+
+---
