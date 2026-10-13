@@ -3379,3 +3379,289 @@ He nodded. "Deal."
 She kissed him on the porch. It was a quick kiss, and she could have made it longer, but she liked leaving with the evening intact. There would be other nights. That was a hope, not a promise, and it seemed sturdy enough.
 
 ---
+
+## Tuesday, October 31: The Things She Kept
+
+Thalia discovered she had left her gloves in Rhys's cabin when she reached for them at the bottom of the hill.
+
+She stood in the cold looking at her empty hands. She knew precisely where she'd put them: on the corner of his table during dinner, beside the folded note he'd written her. She had been so occupied with behaving as if a date were no great event that she'd forgotten an object she used every day.
+
+There was nothing remarkable about forgetting gloves. She had forgotten worse things. Once she'd left an entire quiver beside a stream and returned for it in the dark, following her own footprints with a torch and a selection of curses. But now, as she turned back toward the north path, she suspected Rhys would see the gloves and decide she'd manufactured another reason to visit.
+
+He would be wrong. Probably.
+
+The cabin window was lit. She knocked and heard something scrape across the floor.
+
+"One minute," Rhys called.
+
+She waited. Beyond the porch, the north wind bent the grass beneath the fence. A minute passed. Then another. When he opened the door, he was wearing an old shirt with one sleeve rolled higher than the other and had flour on his wrist.
+
+"You left your gloves."
+
+"I know."
+
+"I was going to bring them down tomorrow."
+
+"I prefer having fingers tonight."
+
+He stepped back and let her inside. "An understandable preference."
+
+The gloves were on the table, folded one atop the other. She picked them up. Beside them lay the note he had written her and an open envelope addressed to his mother. The letter had been started but not finished. A line crossed the bottom of the page, as though he'd changed his mind in the middle of something difficult.
+
+Rhys followed her gaze and turned the paper face down. He wasn't furtive about it, but the movement was definite.
+
+"I didn't read it," Thalia said.
+
+"I know."
+
+"You looked as if you thought I would."
+
+"No. I just hadn't finished."
+
+She put on her gloves. There was no reason to remain; she'd come for one thing, found it and could go home. Yet the smell of bread in the cabin and the sight of him standing there, half ready for bed and half occupied with a private worry, made her reluctant to leave. He looked as though he'd been interrupted at an important moment. She disliked the thought of being the interruption, and she disliked equally the possibility that he might be pleased she was there.
+
+"Your mother?" she asked.
+
+"Yes."
+
+"Anything wrong?"
+
+"Nothing new."
+
+He said it without meeting her eyes. That wasn't an invitation to interrogate him. She knew the difference, though she didn't always act on it.
+
+"All right," she said.
+
+He glanced up, surprised perhaps that she was willing to leave the question unanswered.
+
+"Are you heading back?"
+
+"Unless your stove has some objection."
+
+"It has several, but none relevant."
+
+She moved toward the door. When she reached for the latch, he spoke again.
+
+"Actually, Thalia?"
+
+She turned.
+
+"Would you sit with me for a little while?"
+
+It was the first time he had asked her for company without wrapping the request in a joke or a practical reason. He looked uncomfortable with the admission. The sight moved her more than she would have guessed.
+
+She took off her gloves and put them down.
+
+"Make me tea," she said.
+
+"Terribly gracious."
+
+"I am widely admired for it."
+
+He prepared the kettle while she sat by the stove. She had brought no book, no equipment to repair, nothing with which to disguise the fact that she had chosen to remain. The cabin seemed larger than it had at dinner, its workbench covered with half-completed projects that would be waiting in the morning. When he handed her a cup, his fingers brushed hers. He sat on the cot rather than the chair opposite, leaving a space beside him.
+
+She took it.
+
+The first few minutes passed without conversation. Thalia listened to the rain beginning against the far window. Rhys leaned forward with his elbows on his knees, staring into his tea.
+
+"She asked whether I could come before winter gets bad," he said at last.
+
+"Your mother?"
+
+"Yes. The back door's been sticking, and there are bills she doesn't understand. She says it's nothing, but she always says that."
+
+"You could go."
+
+"I know."
+
+"That wasn't an instruction."
+
+"I know that too."
+
+Thalia studied his profile. He looked older when he worried, the familiar confidence from the range drawn tight around his mouth. She had been pleased by how independent he was, by the fact that he could like her without asking her to reorganize her life around him. Now she was seeing the other side of that independence. He had responsibilities she couldn't solve by being competent.
+
+"Are you frightened she'll need more than you can give?" she asked.
+
+Rhys looked at her.
+
+"Yes," he said.
+
+It took her a moment to recognize the answer for what it was. He hadn't softened it. He hadn't made a joke. He'd accepted her question and answered as a person who trusted her enough not to disguise an ordinary fear.
+
+"I know something about that," she said.
+
+"I thought you might."
+
+She put down her cup. "Does she know you're thinking of going?"
+
+"She thinks I'm already coming. I haven't corrected her."
+
+"Then you'd better answer the letter."
+
+"I will."
+
+He didn't move.
+
+Thalia looked at his hands, at the small scrape near his thumb, the ink on one finger from his unfinished draft. She had watched these hands work a bowstring and turn a piece of wood into something useful. Tonight they lay motionless around a cup.
+
+She touched his wrist.
+
+"Give me the paper," she said.
+
+He raised an eyebrow. "You want to write my mother a letter?"
+
+"No. I want you to write it while I sit here and make rude comments about your handwriting."
+
+He smiled, reluctantly.
+
+"That might work."
+
+"Of course it will."
+
+He fetched the letter and a pencil. Thalia stayed where she was while he crossed out another line and began again. He was slow at first. Then the words came more easily. He told his mother that he was worried about her, that he wanted to help, and that he would need a little time to arrange the lessons before he could leave. He wrote that he loved her without adding an excuse or changing the sentence into something about roof repairs.
+
+Thalia saw the line. She looked away before he could notice.
+
+When he finished, he folded the sheet and set it in the envelope. He seemed both relieved and annoyed, as though she'd persuaded him into doing something he ought to have done days ago.
+
+"There," she said.
+
+"An astonishing amount of work for one page."
+
+"You should have started with the truth."
+
+He gave her a sidelong look. "You'd know."
+
+She accepted the hit. "Fair."
+
+They were quiet. Then Rhys reached across the small space between them and took her hand.
+
+"Thank you."
+
+"Don't thank me. I barely did anything."
+
+"That's what I needed."
+
+The words remained between them. Thalia looked down at their joined hands and felt a familiar desire rise beneath the tenderness. She liked being wanted when she had something useful to offer. She was beginning to like being wanted when she was merely present, too. She leaned toward him, and he met her halfway.
+
+Their kiss was slow, a deliberate turning toward each other rather than an escape from the conversation. His hand moved into her hair, and she held him there, pleased by the immediate warmth of his response. When she drew back, the worry had not disappeared from his face, but the strain around his mouth had eased.
+
+"You've got flour everywhere," she said.
+
+"I was making bread."
+
+"On your wrist?"
+
+"I'm innovative."
+
+She caught his hand and brushed the flour from his skin with her thumb. He watched her without speaking.
+
+"You know," she said, "I wasn't going to stay."
+
+"I suspected."
+
+"I came for my gloves."
+
+"I know."
+
+"And then you looked miserable."
+
+"Very flattering."
+
+She smiled. "I'm extraordinarily generous with my time."
+
+He kissed her again. This time she laughed into it, not because anything was funny but because it was pleasant to be here with him, in a room that contained worry and desire and unfinished work and still felt welcoming.
+
+Outside, the rain grew heavier. The gloves lay forgotten again on the table. Thalia noticed them when Rhys stood to turn down the stove and decided, without argument, that she would remain a little longer.
+
+***
+
+An hour later he found her reading the half-finished music on the workbench.
+
+She had taken the page without asking, an old habit of handling objects that interested her as though they had been left out for public inspection. The tune was recognizable now. She could follow the first four measures and the difficult transition he had been fighting with on Friday. But a second voice ran below it, and the lower line didn't seem complete.
+
+"What's this part?" she asked.
+
+Rhys came over. "A harmony. I'm trying to make the melody work with the piano my mother can borrow."
+
+"There's a gap."
+
+"I know."
+
+"Not a small gap. A whole measure."
+
+"Thank you for the precision."
+
+She showed him where the second line dropped out. "You could leave a rest and have the first voice hold the note."
+
+"I tried that."
+
+"And?"
+
+"It sounds as if somebody forgot what came next."
+
+"Maybe that's the point."
+
+He looked at her. "You want me to write a mistake into it?"
+
+"I want you to stop pretending a pause is always a failure."
+
+He was silent long enough that she looked up from the page.
+
+"What?" she said.
+
+"Nothing. That's useful."
+
+"Naturally."
+
+He picked up the guitar and tried the passage. The lower line fell away, leaving a small space before the melody returned. It was imperfect. It also made the return more satisfying, as if the music had been allowed to breathe.
+
+"There," Thalia said.
+
+Rhys played it again.
+
+She watched him, pleased by the movement of his hands and the way the concentration changed his face. He was not performing for her. He was working something out, letting her watch. She remembered the first time she'd seen him at the target shed, how attractive she'd found his quiet attention to a task he cared about. That hadn't changed. It had acquired meaning.
+
+When he looked up, she was smiling.
+
+"Do you want to try it?" he asked.
+
+"No. This one's yours."
+
+"You're allowed to help."
+
+"I just did."
+
+He laughed and set down the guitar.
+
+It was past ten. The rain had stopped, leaving a bright wet silence beyond the shutter. Thalia stood, found her gloves and pulled her coat over her shoulders. He came to help with the collar, and she caught his hand before he could retreat.
+
+"I want to kiss you," she said, because it had become easier to be plain about some things.
+
+He smiled as he moved closer. "Then stop announcing it."
+
+She did.
+
+The kiss lingered until she felt herself beginning to forget the time. She had no particular objection to forgetting. But the room at Cabin One would be cold by now, and Annabeth had a habit of waking early when she was worried about a drawing. Thalia had promised to help her check the east wall in the morning. She wanted to be there.
+
+She stepped back and straightened his collar where she'd wrinkled it.
+
+"Good night," she said.
+
+"Good night."
+
+At the door she glanced once more toward the letter on the workbench.
+
+"Send it tomorrow."
+
+"I will."
+
+"And don't decide to protect me from the answer."
+
+Rhys looked at her. He nodded, serious now.
+
+"All right."
+
+She went down the steps. The path shone under the lanterns, and she had her gloves this time. Halfway down the hill she caught herself humming the unfinished melody. There was something she liked about a tune that could make room for silence without losing its shape.
+
+---
