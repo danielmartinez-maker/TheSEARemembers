@@ -2137,7 +2137,7 @@ She stayed on the bench while he moved the books back onto the shelf. He made no
 
 Nearly an hour passed.
 
-Thalia watched him set the guitar aside. His expression was tired now, and more thoughtful than annoyed. She reached for his hand and drew him nearer. He set down the book without hesitation and moved beside her. She kissed him, softly at first, then with the familiar pleasure of his warmth and the way he leaned toward her. He didn't try to make the kiss prove anything about the argument. Neither did she. They could still be annoyed with each other and want to be close. Discovering that felt like a new kind of freedom.
+Thalia watched him set the guitar aside. His expression was tired now, and more thoughtful than annoyed. She reached for his hand and drew him nearer. He came without hesitation, settling beside her. She kissed him, softly at first, then with the familiar pleasure of his warmth and the way he leaned toward her. He didn't try to make the kiss prove anything about the argument. Neither did she. They could still be annoyed with each other and want to be close. Discovering that felt like a new kind of freedom.
 
 When they drew apart, she kept her hand in his.
 
@@ -2223,9 +2223,7 @@ They moved away from the doorway. She caught the edge of his shirt and pulled hi
 
 He kissed her again, and she forgot what she had intended to say next. For a while they stood close together in the warm cabin, rain hammering against the window, their hands and mouths finding an ease that had become familiar without becoming ordinary. She felt him smile when she caught his face between her hands. The smile was a private one, for her alone.
 
-Eventually he drew back and looked at her, catching the smile she had made no attempt to hide. She tugged him gently toward the cot; he grinned and followed. Their eagerness was mutual and plain without an announcement.
-
-She tugged him gently toward the cot, stopping to take off the wet boots and arrange the blanket so the sore heel wouldn't be trapped under her. He helped without comment. They settled close together, and she rested her head against his shoulder for a moment before lifting her face to kiss him again.
+Eventually he drew back and looked at her, catching the smile she had made no attempt to hide. He grinned and followed as she drew him toward the cot. She stopped to take off her wet boots and rearrange the blanket so the sore heel wouldn't be trapped under her; Rhys was already reaching to clear space beside him. He helped without comment. They settled close together, and she rested her head against his shoulder for a moment before lifting her face to kiss him again.
 
 The rest of the evening passed privately. There was warmth and laughter, moments of quiet attention, and the pleasure of being with someone who had learned enough about her to know when she wanted to be teased and when she wanted no commentary at all. The disagreement about the photograph remained part of their history, but it did not prevent them from choosing one another tonight.
 
