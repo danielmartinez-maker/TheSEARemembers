@@ -779,3 +779,25 @@ Clarisse noticed. "You working tomorrow?"
 He looked at Annabeth, hoping for support. She took the last roll instead.
 
 The plates needed clearing, and Silena had already put a stack into his hands. He carried them toward the kitchens. The list could wait until the dishes were done.
+
+At the kitchen door he found Annabeth struggling with a tray that was wider than her shoulders. She had agreed to help clean up, then taken the largest one because nobody had specifically told her not to.
+
+"Want an extra pair of hands?" he asked.
+
+"Yes, actually." She shifted it toward him. "The handles are in the wrong places."
+
+"That sounds like an architectural complaint."
+
+"It is."
+
+They carried the tray between them. A harpy pointed them toward the wash station and told them not to leave any plates balanced on the edge. Percy followed the instruction. Annabeth was looking at the corner where the shelves joined the wall, already thinking about how to make the space easier to use.
+
+"Don't start drawing," he said. "We have to finish the dishes first."
+
+"I wasn't."
+
+"You were calculating."
+
+"That's different."
+
+He handed her a towel. They worked until the last plate was dry. The date was still in her notebook, the future still uncertain, and the kitchen floor still needed sweeping. He took the broom.
