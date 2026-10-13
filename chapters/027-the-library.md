@@ -889,3 +889,89 @@ Ella considered. She liked the idea. She also wanted time to read novels and hel
 Chiron agreed. He didn't tell her she needed to become a historian or that her memory made her destined for the work. He asked her to write the account she wanted to write and sign her name to it.
 
 Ella put the new folder beside the old records. She had come to the library because she loved what other people remembered. She was beginning to understand that the things she noticed could be worth preserving too.
+
+---
+
+The idea for a public display was Nico's, though he regretted suggesting it almost immediately.
+
+Chiron had asked whether the new catalog could be explained to younger campers without inviting everyone into the fragile storage room. Nico said they could put a few drawings and copied pages on a board upstairs. He had imagined a small corner of the library with interesting objects people could look at during their free period.
+
+The idea grew until three older campers were discussing an entire exhibition about the heroic history of Camp Half-Blood, complete with weapons and dramatic photographs. Nico watched it happen from his chair, increasingly certain he had lost control of his own suggestion.
+
+"Do we have any pictures of the famous quests?" one camper asked.
+
+Annabeth, who was checking the list of available material, looked up.
+
+"Some. But we need permission to reproduce them, and not every record belongs on an open board."
+
+"Then what's the point of an archive?"
+
+"To preserve and make information available responsibly. Not to turn every private photograph into decoration."
+
+The older camper looked unconvinced. Nico could understand both positions. He wanted visitors to see something interesting. He didn't want Thalia's childhood costume picture pinned to a board where the Stolls could draw on it.
+
+"Could we start with drawings?" he asked.
+
+The others turned toward him.
+
+"Which drawings?" Annabeth asked.
+
+"The maps Percy copied. The old ones. If we label them as things people believed, we can show how different the stories were without pretending we found Atlantis."
+
+Chiron looked interested. "That would be appropriate if the copies are cleared."
+
+"Can I put in some of the camp's smaller stories too?" Nico asked. "Not just quests."
+
+"Such as?"
+
+Nico thought about the things he'd found while sorting the boxes. A report on the first strawberry harvest after a bad winter. A list of repairs made to the dining pavilion when a storm knocked part of the roof loose. The names of the campers who had cooked for younger children while older heroes were away.
+
+"Those," he said. "The people who kept camp working."
+
+Annabeth smiled. She had spent so much time looking for dramatic records of prophecy and architecture that she hadn't noticed how interesting the ordinary accounts were.
+
+They drew up a small exhibition plan. One panel would show how the archive had been organized, with photographs of labeled boxes rather than their fragile contents. A second would contain copies of public camp maps, clearly marked with the dates on which they'd been drawn. A third would tell stories about the people who kept the place running: cooks, healers, satyrs, dryads and campers whose names rarely appeared in quest records.
+
+Chiron approved the concept but asked them to confirm sources before putting anything on the board.
+
+"Can we include Maya's journal?" Percy asked.
+
+"An excerpt, perhaps. Not the original pages. And we should mark which portions are her speculation."
+
+Percy nodded. He had begun learning to enjoy the difference between a good story and a navigational instruction. He wanted others to read the line about water remembering, but he didn't want them using her uncertain map as proof that there was an unguarded route to Atlantis.
+
+Annabeth made the copies. Nico drafted short descriptions and asked Ella to check the dates. Ella corrected two spellings and asked that her own note about the archive's restoration be credited properly.
+
+"Of course," Nico said.
+
+He wasn't accustomed to somebody correcting his work without making him feel foolish. Ella was precise, but she seemed to assume that asking for the right date was a way of helping rather than judging him.
+
+When they finished the first board, it looked much smaller than the exhibition the older campers had imagined. There were no weapons. The photos of the old shelves weren't glamorous. The maps contained several conspicuous question marks. But people could read the labels and understand what had been found, what remained uncertain and why the originals were kept elsewhere.
+
+Silena brought a younger camper to see it. The girl stopped in front of the list of names from the pavilion repair after a storm.
+
+"My aunt was here that year," she said. "I think she worked in the kitchens."
+
+Annabeth checked the record. The aunt's name wasn't on the repair list, but the girl knew which cabin she'd lived in and roughly when she'd left.
+
+"We might have something in the kitchen accounts," Annabeth said. "If you want, we can help you ask the archivist whether there's a record."
+
+The girl looked pleased. She had come expecting stories about famous battles. She hadn't imagined there might be a record of someone in her own family.
+
+Nico watched her study the list. He thought of Bianca, who had spent years doing things for him that no book of heroes would record. He wondered how many people at camp had been someone's reason to keep going without ever receiving a statue.
+
+He took an extra sheet of paper and added a question at the end of the display: *Is there someone at camp whose work you think should be remembered?* Below it he placed a small box where campers could leave suggestions. He asked Chiron to approve it before opening it, and the centaur agreed on the condition that the messages would be reviewed before any personal information was displayed.
+
+By evening the box contained five slips. Two were jokes about Mr. D, one requested a memorial to a lost Pegasus, another mentioned a former infirmary counselor, and the fifth said simply, *The people who wash the dishes after everybody goes to bed.*
+
+Nico held that last note for a long moment. He hadn't expected anybody to notice. He asked whether the exhibit could include a small explanation of how the camp kitchens worked.
+
+"Yes," Annabeth said. "But we should talk to the people doing the work first."
+
+Nico nodded. He'd wanted to make a display about history. He was beginning to understand that he could find history in places that didn't look impressive, if he was willing to ask questions and give people room to answer in their own words.
+
+Ella came to collect the suggestion slips. She read them, placed them in the new intake folder and looked toward the exhibition board.
+
+"Good," she said. "It tells the truth about what we know. It also tells people what we want to learn."
+
+Nico smiled. He returned the pencil to its box and went to dinner, leaving the display where visitors could read it without having to enter the archive.
