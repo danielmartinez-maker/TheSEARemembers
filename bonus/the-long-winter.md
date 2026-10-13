@@ -3917,3 +3917,312 @@ She turned uphill. The path to Cabin One was familiar, and the door would probab
 For once, being wanted and going home felt like parts of the same life.
 
 ---
+
+## Thursday, November 2: The Hour Without an Excuse
+
+Thalia brought supper in a paper bag. That was how she justified arriving at Rhys's door with a clean shirt beneath her coat and no intention of returning to Cabin One before morning.
+
+She'd spent a full twenty minutes choosing the shirt, then hated herself for making a ceremony out of something so small. She liked him. He liked her. They had survived several evenings together and one particularly stupid argument about whether he ought to stop working the moment she appeared. She could walk into his cabin without inventing a reason now.
+
+The food was a concession to old habits. If she arrived carrying something useful, she could pretend for the first five minutes that usefulness was what brought her.
+
+Rhys opened the door and looked first at the bag, then at her face.
+
+"Should I be worried?"
+
+"Only if you're allergic to bread."
+
+"I've managed so far."
+
+"There's cheese, too. Clarisse had extra."
+
+"Did she give it to you?"
+
+"She put it on the table and turned around. That's nearly the same thing."
+
+He stepped aside. There was a small fire in the stove and a lamp on the workbench. He had cleared enough space for the two of them to eat, but his repaired glove still lay on the cot and a coil of practice string hung from one of the bedposts. It was unmistakably his room, neither transformed for her benefit nor neglected because she might come.
+
+She liked that better than she expected.
+
+When she set the bag down, he took off her coat. He had been doing that lately, and she had stopped pretending she resented it. His fingers brushed the back of her neck as he lifted the collar away. She felt the touch for longer than it lasted.
+
+He noticed.
+
+"Cold?"
+
+"Not anymore."
+
+His hand remained near her shoulder. He was close enough that she could see a pale scrape beneath his jaw, probably left by a hurried shave. She wanted to touch it. Instead she turned to the bread.
+
+"You'd better eat. I risked my reputation to bring that."
+
+"What reputation?"
+
+"Be careful, Calder."
+
+He caught her hand before she could open the bag. It wasn't a dramatic gesture. He simply kept her there for a moment, looking at her as though he'd been considering something since she arrived.
+
+"You can put the food down."
+
+"I have put it down."
+
+"Then leave it alone."
+
+She looked at their hands.
+
+"Oh," she said.
+
+"Yes."
+
+He was smiling when she turned toward him, and she kissed the smile away. It was not the first time she'd taken the initiative, but tonight she felt the pleasure of doing so with no impulse to disguise it as a dare. He drew her close. The backs of her fingers found the open collar of his shirt. She could feel the warmth he'd carried from the stove, the quick shift in his breathing when she caught his face between her hands.
+
+He kissed her with the same eager certainty, and she laughed under her breath when he backed into the table.
+
+"Careful."
+
+"You're the one moving."
+
+"Then you should keep up."
+
+He turned them away from the table. She went willingly, still smiling, until he kissed the corner of her mouth and her answer disappeared. There was no advantage to be gained by pretending she wasn't affected. She was. He knew it, and the knowledge made him bolder without making him careless.
+
+Her hands slid up to his shoulders. He drew her closer, pausing only when he felt her adjust the position of her injured foot. She shifted to the steadier leg and caught the front of his shirt again. The change took a second. Neither made it into a discussion.
+
+The lamp was still bright. She noticed the look on his face and realized she didn't want him to turn it down yet.
+
+"What?" he murmured.
+
+"Nothing."
+
+"Convincing."
+
+She touched the scrape at his jaw. "You cut yourself."
+
+"A terrible wound."
+
+"Disgraceful for a son of Apollo."
+
+"You're welcome to file a report."
+
+She brushed her lips against the corner of his jaw, close enough to feel him stop talking. That pleased her enormously. She had spent weeks learning how to interrupt his lectures on arrow weight; this was a much better method.
+
+"Where's the report form?" she whispered.
+
+He laughed, then kissed her again. The laugh faded into something quieter as she kept him near. His hand found the curve of her back beneath the coat she had abandoned. She could feel the difference between the practiced touch of an instructor steadying a student and this, a hand that lingered because he wanted her close and knew she wanted the same.
+
+The desire between them had stopped feeling like a question they had to answer. It had become a familiar fact, one that still caught her off guard with its intensity. She could be irritated with him in the morning, amused by him at supper, and completely distracted by the way he looked at her now. None of those versions of herself canceled the others.
+
+He rested his forehead against hers.
+
+"The bread is going to get cold."
+
+"It already is."
+
+"Then the cheese."
+
+"Cheese is supposed to be cold."
+
+"You've thought of everything."
+
+"Almost."
+
+She loosened the button at his collar with fingers that were steadier than she'd expected. It was such a small movement that she wondered, briefly, why it made her feel so exposed. Perhaps because she had chosen it openly. She wasn't hiding behind a joke or waiting for him to guess what she wanted.
+
+Rhys looked down at her hands, then back at her face. She recognized his smile, that particular private smile he never wore on the shooting line. She kissed him again before he could say anything sentimental.
+
+His answering enthusiasm nearly sent the two of them into the workbench. She caught herself against his shoulder and began laughing so hard she couldn't continue.
+
+"That," she said, "was dreadful."
+
+"You attacked me."
+
+"I kissed you."
+
+"With alarming force."
+
+"You're a very weak person."
+
+"Completely defenseless."
+
+He caught her around the waist and steadied her. Their laughter took its time fading. That was one of the things she liked most, though she would never have said it aloud: a moment could become awkward or ridiculous without being spoiled. He didn't need to maintain some impossible image of confidence, and she didn't need to pretend she was always in control.
+
+She took his hand and led him away from the workbench.
+
+The cot creaked when she sat. She glanced at it with disgust.
+
+"Have you considered buying furniture that doesn't complain?"
+
+"It has survived years of Apollo campers."
+
+"That isn't a recommendation."
+
+He sat beside her. She turned toward him and kissed him, this time with no table or bench left between them. He met her eagerly. The room seemed unusually quiet, though the fire was still alive and wind rattled the shutter outside. She slipped her fingers beneath the edge of his collar, not trying to hurry him, simply enjoying that she could touch him without turning the touch into a problem to be solved.
+
+He kissed her cheek and lingered there. She tilted her face toward him. When he moved to her neck, she caught a breath and closed her eyes. The ordinary sounds of the cabin continued around them, the stove ticking, the wind moving through the trees. She was aware of each one because she wasn't being pulled out of the world. She was here, choosing what happened next, and entirely glad of it.
+
+"Thalia," he said quietly.
+
+She opened her eyes. He was watching her with an expression that held no uncertainty about his own desire, only a kind of astonishment that she had chosen to share it with him.
+
+She smiled and drew him nearer.
+
+He kissed her again. The lamp threw a bright strip across the blanket; beyond it, the room fell into warm shadow. At some point her clean shirt slipped from the pocket of her coat and landed beside the bed, unnoticed. They had stopped being interested in their carefully arranged plans.
+
+When she reached over to turn down the lamp, he caught her hand long enough to kiss her palm. She laughed softly, touched his face once more, and lowered the wick.
+
+The rest of the evening was private.
+
+***
+
+Later the food was still on the table, and Thalia had acquired Rhys's spare blanket because she had decided his original one was insufficient. He was sitting on the edge of the cot trying to untangle the shirt he'd dropped behind it. She was watching him with the comfortable malice of someone who had no intention of helping.
+
+"Is it stuck?"
+
+"No."
+
+"It looks stuck."
+
+"It's caught on the bedframe."
+
+"A structural problem. Have you informed Annabeth?"
+
+"Please don't."
+
+"She'd draw a plan."
+
+"She'd tell me to move the bed."
+
+"She's usually right."
+
+Rhys freed the shirt and looked at her. His hair had been flattened on one side and was standing up on the other. It would be unforgivable to let him see how much she liked him like this, so she gave him her most disapproving expression.
+
+"You look terrible."
+
+"You're welcome."
+
+He climbed back beside her, and she stopped pretending she didn't want him there. The blanket covered both of them. She rested against his shoulder, feeling the warmth of his skin and the lingering sense of closeness that had nothing to do with making conversation.
+
+She wasn't embarrassed. That surprised her. There had been moments earlier when she wondered whether she'd be embarrassed afterward, when the intensity settled and they had to look at one another as ordinary people again. Instead she was preoccupied with the fact that she liked the ordinary person just as much.
+
+"You know what I'm thinking?" she asked.
+
+"That my bed is a disgrace?"
+
+"Besides that."
+
+"That the bread is cold?"
+
+"Everything is cold. Your powers of deduction are extraordinary."
+
+He turned toward her. "Then tell me."
+
+Thalia considered making the thought into a joke. She had already been bolder tonight than on the first Monday; she could be honest about this too.
+
+"I don't feel as though I've changed into somebody else."
+
+Rhys's expression became serious. "Was that what you were worried about?"
+
+"A little."
+
+"Why?"
+
+She thought of how she had been taught to defend herself, to notice the position of every person in a room, to keep her own needs out of the way until she had taken care of everyone else's. There had been years when giving someone the power to make her happy would have felt reckless.
+
+"Because I like it here," she said. "I like you. And I didn't know what that would make me."
+
+He studied her a moment.
+
+"Still the person who stole my last piece of bread yesterday."
+
+"It was unattended."
+
+"Still the person who corrects my stance when I'm trying to have a quiet morning."
+
+"Your stance needs work."
+
+"Still the person who gets angry when somebody tells her she's tired."
+
+"Don't start."
+
+His smile returned. "And still the person I wanted to see tonight."
+
+She looked at him. No speech about transformation or destiny, no claim that intimacy had repaired anything. Just a man who knew her well enough to list a few of her worst habits and looked pleased that she'd come anyway.
+
+She kissed him, softly, because she wanted to.
+
+He drew her closer, and she settled against him again. A few minutes passed without either speaking.
+
+"Your mother," she said eventually.
+
+"Yes?"
+
+"Will she mind you being away?"
+
+He considered. "She'll be glad when I arrive. She'll complain if I interfere with her kitchen. And she'll tell me to come back here once we've sorted everything out."
+
+"You sound certain."
+
+"I'm certain about her complaining."
+
+Thalia smiled. Then the smile faded. "I don't want to be another thing you have to juggle."
+
+"You're not."
+
+"You say that now."
+
+"I said it yesterday and last week too."
+
+"That's a very long record."
+
+He touched the back of her hand. "I like having you in my life. It's not an account I have to balance."
+
+She looked at him. He wasn't promising to make her the center of every decision. That was why she could believe him.
+
+"All right," she said.
+
+The words were enough. He rested his cheek against her hair and she let herself stay there. The room would still be cold when she got up. The range would still need instructors, and Annabeth would be drawing plans that somebody had to inspect. None of it needed to be settled tonight.
+
+Rhys reached for the bread bag. It had been sitting on the table for hours.
+
+"Are we going to eat?"
+
+Thalia looked at the bag. "We probably should."
+
+He opened it, examined the bread and broke off a piece. She took half from his hand. The cheese was still good, and the entire meal tasted better for having been forgotten. They ate sitting beneath the blanket, dropping crumbs despite their best efforts. Rhys got one caught on his collar and Thalia picked it off.
+
+He gave her a look.
+
+"What?"
+
+"Nothing."
+
+"Don't give me the face."
+
+"Which face?"
+
+"The one where you're going to tell me you've noticed something sentimental."
+
+He grinned. "I was thinking I could get used to this."
+
+She considered the possibility. It was tempting to make a joke about his terrible bed or the fact that he had nearly knocked over the table again. Instead she rested her head on his shoulder.
+
+"So could I," she said.
+
+He didn't ask her to repeat it. She was grateful.
+
+Outside, the wind had turned. The cabin held its warmth. Later, when they washed the cups and put out the lamp, Thalia left her clean shirt in the small drawer beneath the cot rather than taking it home. She hadn't planned that when she packed it. She liked the possibility of coming back and finding a small piece of her life already waiting.
+
+She didn't tell Rhys what she'd done until the following morning, when he discovered the folded shirt and called after her from the doorway.
+
+"Grace!"
+
+She turned at the bottom of the steps.
+
+"Leaving things behind on purpose now?"
+
+She looked at his hand on the drawer, the grin he'd failed to hide, and felt the pleasant thrill of being known.
+
+"Maybe," she said.
+
+Then she walked away before he could see how much it pleased her.
+---
