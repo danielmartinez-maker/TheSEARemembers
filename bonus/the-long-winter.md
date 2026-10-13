@@ -1036,6 +1036,211 @@ He raised his in return.
 The next day she saw him at the range and discovered that the memory of those few minutes beside the fence made it difficult to concentrate. She knew she was becoming ridiculous. She also knew she wasn't ready to stop.
 
 ---
+On Saturday, October twenty-first, Annabeth caught Thalia looking down the north path.
+
+Thalia had been standing on the porch of Cabin One for several minutes with a mug in her hands. The morning was cold and clear. There was frost on the steps and a bright strip of sunlight crossing the upper meadow. She was supposed to be checking a loose shutter before the afternoon work began. Instead she had found herself watching for a figure with a guitar case or a bow across one shoulder, neither of which was likely to appear at this hour.
+
+"You're doing it again," Annabeth said.
+
+Thalia turned. Her sister stood in the doorway wearing an old coat with the sleeves rolled to her wrists and a ruler tucked into her hair.
+
+"Doing what?"
+
+"Looking toward the range."
+
+"It's the direction of the weather."
+
+"Very persuasive."
+
+Thalia took a sip of tea.
+
+Annabeth came to stand beside her. The younger girl was quiet for a moment, then looked up with an expression of unhelpful intelligence.
+
+"Do you like him?"
+
+"Who?"
+
+"The person you've been pretending not to look for."
+
+Thalia stared.
+
+"I was checking the shutters."
+
+"Yes, and the shutters are apparently all the way down the hill."
+
+"Go do something useful."
+
+Annabeth smiled. "I am."
+
+Thalia considered ordering her inside. She remembered Rhys's advice about giving her sister room to make her own choices and decided, with some irritation, that the advice could become a problem if she began following it.
+
+"He's a good instructor," she said.
+
+"I didn't ask whether he was a good instructor."
+
+"He's competent."
+
+"I didn't ask that either."
+
+Thalia sighed. "Annabeth."
+
+Her sister gave her the small smile of a person who knew she'd won the argument without making any effort to conceal it.
+
+"I'm not going to tell anyone," she said.
+
+"There's nothing to tell."
+
+"Then I won't tell anyone nothing."
+
+She went back inside.
+
+Thalia stood on the porch for another minute, annoyed by how easy it had been for Annabeth to recognize something she herself was still trying to understand.
+
+***
+
+Rhys arrived an hour later.
+
+He had come to look at the loose shutter, because Annabeth had sent him a message asking whether he had any spare brackets. Thalia found him on a ladder, examining the upper hinge while her sister stood below with a notebook, taking measurements.
+
+"You're both conspiring," Thalia said.
+
+Annabeth looked up. "We needed a bracket."
+
+"And apparently the entire Apollo cabin."
+
+Rhys looked down from the ladder.
+
+"Good morning, Grace."
+
+"Don't sound pleased with yourself."
+
+"I've only just arrived."
+
+"That's enough."
+
+He laughed and returned to the hinge. The shutter was worse than Annabeth had thought. One of the screws had pulled loose from the soft wood, and the upper bracket had shifted enough to leave the panel hanging unevenly. Rhys explained what he intended to do, then asked Annabeth to hold the lower edge while he removed the damaged screw.
+
+Thalia stood beside them, watching.
+
+It would have been easy to take charge. She knew how to repair shutters. She knew how to hold the panel and replace the bracket. But Annabeth was doing the work well, and Rhys was letting her make decisions rather than treating her as a child who existed only to pass him tools.
+
+"Try the longer screw," Annabeth said.
+
+Rhys examined it. "You're right."
+
+Thalia felt a small rush of pride. It was immediately followed by the unfamiliar discomfort of watching her sister accomplish something without needing her.
+
+Rhys glanced down.
+
+"You look as if you're about to object."
+
+"I'm considering whether you two are making a mess."
+
+"We're doing well," Annabeth said.
+
+"Then continue."
+
+They finished within half an hour. The shutter closed properly, and Annabeth made a note in the margin of her drawing about checking the other hinges before winter.
+
+Rhys climbed down from the ladder. Thalia took the tools from him and put them on the table.
+
+"Thank you," she said.
+
+He looked at her. "You're welcome."
+
+Annabeth disappeared inside to fetch the next plan, leaving Thalia alone with him on the porch.
+
+The sudden privacy was entirely accidental. Thalia was aware of it nonetheless.
+
+Rhys leaned against the railing.
+
+"Your sister's good."
+
+"I know."
+
+"She's going to make an excellent instructor."
+
+"She'll make an excellent nuisance."
+
+"Those aren't mutually exclusive."
+
+Thalia smiled. He looked at her, and for a moment the easy teasing gave way to something more serious.
+
+"You've been avoiding me," he said.
+
+She went still.
+
+"No."
+
+"A little."
+
+"I've been busy."
+
+"I know. So have I."
+
+She considered what to say. It was true that she had been taking longer routes to avoid arriving at the range when he was alone. It was also true that she'd spent most of those detours wondering whether he was thinking about her. The contradiction had become exhausting.
+
+"I don't know what to do with you," she admitted.
+
+He looked surprised.
+
+"With me?"
+
+"With the way I keep wanting to see you."
+
+The words were out before she had time to turn them into a joke. She felt an immediate impulse to take them back, to explain that she meant the work, the lessons, the practical satisfaction of having another competent instructor nearby.
+
+Rhys didn't give her the opportunity.
+
+"I keep wanting to see you too," he said.
+
+She looked at him.
+
+There was no theatrical declaration, no attempt to make her confession into a victory. He was simply answering, looking as startled by his own honesty as she felt by hers.
+
+The porch seemed very quiet.
+
+Thalia could hear Annabeth moving furniture inside, the faint scrape of a chair against the floor. Rhys was close enough that she could reach for him. The thought was sudden and powerful, and she felt herself take a small step forward before she stopped.
+
+He noticed. She could see it in the way his expression changed. He did not move closer.
+
+She liked him for that. She also wanted him to move closer, which made the moment almost intolerable.
+
+"That's inconvenient," she said.
+
+"Very."
+
+She smiled despite herself.
+
+From inside the cabin, Annabeth called for the ruler.
+
+Thalia stepped back.
+
+"Coming."
+
+Rhys looked amused. "You'd better go."
+
+She caught his sleeve before he could leave.
+
+"Rhys."
+
+He turned.
+
+She wanted to kiss him. She was almost certain he wanted it too. The words would have been easy. Her body had already made the decision; only the part of her that demanded an explanation was still resisting.
+
+"Thank you for the shutter," she said.
+
+He smiled gently.
+
+"Any time."
+
+She let him go.
+
+Later, when Annabeth asked whether the shutters were finally safe, Thalia said they were. Her sister looked at her face, looked down the north path and decided not to ask another question.
+
+The following Monday, after two days of trying not to think about that porch, Thalia would walk to Rhys's cabin in the dark and stop waiting for an excuse.
+
+
 At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
 
 She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
