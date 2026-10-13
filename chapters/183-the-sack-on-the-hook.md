@@ -439,11 +439,24 @@ His square was in the back cover where it had been since the parlor. Hers was in
 
 Percy went in. Clarisse was at the long table with the winter list and a cup of tea that had gone cold in the shape of a ring, and Silena was at the stove with water on for nobody in particular, and the stove was ticking down into its coals, and the room took him the way it always did, all at once and without comment, and he shut the door on the cold with his back.
 
-Then he opened it again and stood in the frame with the lamp behind him and looked down.
+He opened the door again before the latch settled, remembering the small parcel that had been left beside the outgoing bag. Silena had asked for it to go down with the mail, but it was still on the corner of the table.
 
-The west path went down the hill in nine amber steps, each one lower and further off than the last, and the tenth burned over his head, and the path came out at the bottom where the road began, and the road ran north into the dark with a quarter mile of it that he could not see and did not need to, because he knew what was on it: a bare post with a hook and a canvas sack on the hook, forty letters and two parcels, all of it quiet, all of it waiting for a truck at six in the morning to lift it down and carry it off the hill for the first time since it had been written.
+"You're letting the heat out," Clarisse said.
 
-Nobody was on the path. The frost was thinking about it. Across the water the hall still kept its light on, because Thursday's swimmers had come and were in no hurry to stop, and somebody laughed in the cedar brake below and then did not laugh again, and the whole of Thursday lay dark and finished on the hill with nine lamps in it and a tenth over a cabin door, and Percy Jackson stood in the doorway of his own family's house and counted them, and went in, and did not leave the door open behind him.
+"I forgot something."
+
+He picked up the parcel, weighed it in his hand, then found the messenger's slip that told the early runner which sack should take it. There were forty letters and two other parcels waiting at the post by the road. Without the slip this one could sit in the kitchen for another week.
+
+Silena came over to check the address. "No. Turn it around. The label's on the other face."
+
+"You could have told me before I stuck the string down."
+
+"I thought you'd read both sides."
+
+"That is a wildly optimistic assessment of me."
+
+She pressed the label flat and sent him back to the hook with it. Percy set the parcel beneath the notice, where nobody opening the door could knock it onto the floor. The delivery would still depend on the runner in the morning. At least the runner wouldn't have to guess which bag to use.
+
+He took one last look down the west path. The lamps made it easier to see the steps, though they didn't make the road any shorter. Then he shut the door properly and helped Clarisse move the dry kindling away from the stove. He had written the part of the letter that belonged to him. The rest was somebody else's work now, and he could give them a fair chance to do it well.
 
 ---
-
