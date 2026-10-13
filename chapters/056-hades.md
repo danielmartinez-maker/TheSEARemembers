@@ -282,6 +282,102 @@ Annabeth stepped forward, Percy still beside her. She wiped soot from her cheek 
 
 He leaned forward. "And now you four walk in here with the scent of the upper world on you and hellfire on your clothes, and I am supposed to let you walk out? Give me one reason."
 
+"Nico," Hades said, "tell them only what you remember from the dream. Nothing you guessed afterward."
+
+The boy looked embarrassed. He had wanted to be useful. Percy knew the look because it was familiar from his own face after getting too excited about a clue.
+
+"The red god had a shield," Nico said. "Or maybe it was on the wall behind him. I remember a scythe shadow. I couldn't see who made it. The voice kept saying two things, over and over. One shone. One disappeared."
+
+"Did you see anyone carry the weapons?" Annabeth asked.
+
+Nico shook his head.
+
+"Did you see a face?"
+
+"No."
+
+"Did the voice tell you a name?"
+
+"I don't think so."
+
+He looked at Bianca for help. She did not supply an answer. She put her hand on his shoulder and waited.
+
+Percy felt the temptation to say Ares's name anyway. It fit the old pattern. A red god, a whisper, a stolen lightning bolt and Hades's missing helm. But the current timeline had already punished them for turning familiar clues into certainties. Medusa's garden had delivered a shipping route, not an arrest warrant. The Lotus had given them five days of lost time because the comfortable answer to exhaustion was the one they'd wanted to believe.
+
+Annabeth went through the dream again with Nico, asking questions slowly enough for him to say *I don't remember* without feeling he had disappointed her. The details became fewer, not more. By the end, they knew a red figure appeared in the dream and a voice referred to something shining and something concealed.
+
+"That's all," Nico said.
+
+"That's enough to tell us what you dreamed," Annabeth answered. "It isn't enough to identify the thief."
+
+Hades looked at her without warmth. "You are careful for a daughter of Zeus."
+
+"I'm careful because he's your guest and a child," she said. "I'm not going to make him responsible for a theory somebody else likes."
+
+Bianca's gaze moved between them. Percy saw the moment she decided Annabeth wasn't trying to trap Nico in a contradiction.
+
+"He gets dreams when the pit is restless," Bianca said. "Sometimes they show things we later understand. Sometimes they make him frightened of people who've done nothing."
+
+"Have you checked the vault?" Percy asked Hades.
+
+The god's expression chilled.
+
+"I have checked my vault."
+
+"I mean the people who keep records of its doors. If the helmet disappeared without anybody seeing a thief, somebody might have changed the records."
+
+The hall went quiet in a less dramatic way than when the hellfire rose. Hades seemed almost insulted by the suggestion that an official might be dishonest.
+
+"Every passage to my vault is logged," he said.
+
+"Then the logs are evidence. They could tell you whether somebody used a door or whether the records were falsified."
+
+Percy heard the words and realized he sounded like Annabeth. He didn't mind.
+
+Hades tapped one ring against his throne arm.
+
+"A record can be changed," the god said finally. "I know that. Do not imagine you have informed the Lord of the Dead that clerks may deceive him."
+
+"I wasn't trying to."
+
+"You were hoping I hadn't thought of it."
+
+"A little," Percy admitted.
+
+Grover made a small choking sound and pretended it was a cough.
+
+Hades looked at him. "You have something to add, searcher?"
+
+"Only that plants can be made to grow in the wrong direction if someone keeps turning the light," Grover said. "You don't need to tell them to lie. You make the easy direction the wrong one."
+
+Hades considered that. Percy could see the question turning from *who dared steal from me* into *what made the theft possible*. It didn't prove Ares had done anything. It did mean the lord of the Underworld had a way to investigate that didn't require killing four children who happened to know about a missing weapon.
+
+"Bring me the transport records for the last month," Hades told a servant. "And the names of every official who countersigned a vault delivery."
+
+The servant bowed and hurried out.
+
+"That investigation will take time," Hades said. "More time than you have before the solstice."
+
+"We know," Annabeth answered.
+
+"Then explain why you came to my palace at all."
+
+Percy looked at the empty cushion. He had expected Hades to know where the bolt was. Now he knew the court itself had unanswered questions, and he had a choice about how to present the few facts his group actually possessed.
+
+"We came to ask whether the weapon passed into your domain," he said. "We also wanted to know why people thought you took it. The shipping lead brought us west, and a courier mentioned a studio with dead flowers. We followed the lead, not a conviction."
+
+Hades's black eyes settled on him. Percy felt suddenly young and very far from the sea.
+
+"You are beginning to speak like someone who knows how little he knows," the god said.
+
+"I don't like it."
+
+"Few do."
+
+Bianca looked down, hiding a smile. It vanished when Hades turned toward her.
+
+"We have enough uncertainty without manufacturing more," Hades said. "Let the records arrive. Then we shall see who carries what."
+
 Percy's backpack began to hum.
 
 Everyone heard it. A low, angry hum, like a trapped wasp made of electricity. The leather seams glowed faint gold at the edges.
