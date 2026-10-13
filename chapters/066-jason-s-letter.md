@@ -12,7 +12,7 @@ Percy noticed first because he was down at the canoe lake skipping stones before
 
 Annabeth looked up, pencil stopping mid-equation. "No. That's— Percy, that's a Roman eagle."
 
-The bird — no, not a bird, an actual eagle, golden and massive with eyes like polished coins — circled once over the lake, screamed, and dove straight for the Big House. Campers stumbled out of cabins in pajamas to stare. From the Athena cabin porch someone shouted, "Is that an attack?" From the Ares cabin someone else shouted, "Dibs on the feathers!"
+The bird — no, not a bird, an actual eagle, golden and massive with eyes like polished coins — circled once over the lake, screamed, and dove straight for the Big House. Campers stumbled out of cabins in pajamas to stare. From the cabins near the armory someone shouted, "Is that an attack?" From the Ares cabin someone else shouted, "Dibs on the feathers!"
 
 Percy was already on his feet, pulling Annabeth up with him. "Come on."
 
@@ -44,7 +44,7 @@ Thalia looked down at the tube, then at Percy and Annabeth. The porch was too cr
 
 "Come on," Annabeth said softly. "Let's go to our spot."
 
-Their spot was the back of the Athena cabin overlook, under the big oak where Percy and Annabeth had spent long afternoons last summer. Thalia followed them without argument, which told Percy how nervous she was.
+Their spot was the little overlook behind Cabin One, under the oak where Percy and Annabeth had spent long afternoons last summer. Thalia followed them without argument, which told Percy how nervous she was.
 
 They sat in the grass. Thalia sat cross-legged, Percy sprawled on his stomach, Annabeth tucked against his side with her chin on his shoulder. Clarisse and Silena invited themselves and sat a little way off, pretending they weren't eavesdropping and failing completely.
 
@@ -114,7 +114,7 @@ Thalia cleared her throat, glanced at the first line, laughed, wiped her eyes al
 *2. How are Clarisse and Silena? You mentioned them. Clarisse sounds terrifying. Silena sounds nice. Are they nice to you? If Clarisse is mean to Percy, tell her I will come to New York and challenge her to single combat. Roman style. With witnesses.*
 *3. Is Percy still doing that thing where he talks to horses? Frank does that too, kind of, except he IS the horse sometimes. Do you think they'd get along? I think they'd get along.*
 *4. Is Annabeth still drawing? You said she draws battle plans in the margins of her notebooks. I draw in my margins too. Do you think she'd like my drawings? Be honest. Don't show her the toga one. Actually, show her. She'll laugh. I need someone to laugh.*
-*5. Do you think — okay, this is a real one. Do you think you'd ever come visit? There's a temple to Diana here. Small, on the edge of New Rome. Greek guests need permission in the legion — long story, old grudges — but family is family. Reyna says guests are allowed during spring break. Would you come? Would Chiron help arrange it? Would you bring Percy and Annabeth? I want you to see my bunk. I want you to meet Hazel and Frank and Arion (from a safe distance, he bites). I want to show you the Little Tiber and the forum and the baths (the baths are AMAZING, Thalia, they're hot and there's mosaics and no monsters, I fell asleep in one and Dakota drew on my face). I just want my sister to see where I live.*
+*5. Do you think — okay, this is a real one. Do you think you'd ever come visit? There's a temple to Diana here. Small, on the edge of New Rome. Greek guests need permission in the legion — long story, old grudges — but family is family. Reyna says a family visit may be possible during the next school break when the legion's schedule allows. Would you ask Chiron about it? I want you and Annabeth there, if you'd both like to come. Percy could come another time if the adults agree. I want you to see my bunk. I want you to meet Hazel and Frank and Arion (from a safe distance, he bites). I want to show you the Little Tiber and the forum and the baths (the baths are AMAZING, Thalia, they're hot and there's mosaics and no monsters, I fell asleep in one and Dakota drew on my face). I just want my sister to see where I live.*
 
 *Sorry. That got serious. Let's lighten up.*
 
@@ -214,7 +214,7 @@ Thalia stretched her legs out, crossing her boots. She looked calmer now, pink-e
 
 "So us," Thalia agreed. "Jason fights like a Greek, Reyna says. Messy and showy. Good. Means he's learned plenty since Hera took him. I only got to coach him on the visit."
 
-Silena chewed her lip. "Do you think— do you think they'd let us visit? For spring break, like he said? I've never left Camp except on quests. A whole city of demigods... shopping in New Rome..."
+Silena chewed her lip. "Do you think— do you think they'd let us visit? During the next approved break, like he said? I've never left Camp except on quests. A whole city of demigods... shopping in New Rome..."
 
 "You just want to see the shops," Clarisse accused, but fondly.
 
@@ -280,7 +280,7 @@ What did Thalia write? Percy peeked once and saw fragments:
 
 *Reyna sounds cool. Tell her if she makes you march in your sleep again I'll come west and... actually tell her thanks. For looking out for my brother when I couldn't...*
 
-*Come home? No — you ARE home. I'll come to you. Spring break. Promise. Bring Percy and Annabeth. Warn the legion...*
+*Come home? No — you ARE home. I'll come to you. When the adults agree on a date, I'll ask you when you're free. No surprise trip. I'll bring Annabeth if you want her there...*
 
 *You're still my brother, idiot. Love — T.*
 
@@ -334,11 +334,11 @@ Behind them, the oak leaves whispered. Ahead, the dining pavilion buzzed, bacon 
 
 Thalia looked west, toward California, where her brother was probably marching to breakfast right now.
 
-"See you at spring break, Dirtbag," she whispered, and smiled through happy tears, and walked down to breakfast surrounded by family.
+"See you when we both have a date we can keep, Dirtbag," she whispered, and smiled through happy tears, and walked down to breakfast surrounded by family.
 
 ---
 
-*Reply enclosed with this letter, Camp Half-Blood to Camp Jupiter via Windy (bacon bribe included):*
+*Proposed reply packet, to be reviewed for authorized delivery from Camp Half-Blood to Camp Jupiter:*
 
 *One comic by Annabeth Grace, 4 panels, full shading, toga redraw included.*
 
@@ -348,9 +348,9 @@ Thalia looked west, toward California, where her brother was probably marching t
 
 *One grass crown by Silena Beauregard, for Hazel.*
 
-*One arm-wrestling challenge by Clarisse La Rue, for Reyna. Witnesses required.*
+*One unsigned proposal for a friendly arm-wrestling challenge from Clarisse La Rue, to be included only if Reyna welcomes it.*
 
-*Love from your Greek family. Stay Roman. Stay ours.*
+*A packet of greetings, not a confirmed visit. Love from your Greek family. Stay Roman. Stay ours.*
 
 ---
 
