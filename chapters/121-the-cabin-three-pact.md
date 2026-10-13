@@ -302,7 +302,229 @@ Clarisse stood and picked up her spear. “I’m going to the arena now. I’ll 
 
 Clarisse made a sound that might have been a laugh and left, this time without the pause.
 
+
 ---
+
+By the time breakfast ended, Percy had discovered a problem with having a sensible family rule: he wanted to demonstrate immediately that he was excellent at following it.
+
+This was unfortunate, because the first person he encountered after breakfast was Clarisse, and she had been awake for hours.
+
+He had not gone looking for her. He had an actual reason to be at the arena. Chiron needed somebody to return two blunted swords that had turned up in the dining pavilion's storage cupboard, and Percy had volunteered before anybody could point out that the swords had probably been left there by him.
+
+He carried them over one shoulder, hilts facing down. Annabeth had offered to help him identify the maker's stamps, but she had a drawing lesson with a younger camper and had refused to let his ability to misplace weapons rearrange her morning.
+
+The practice yard was busier than he'd expected. A line of campers stood near the fence with practice shields, and Clarisse had arranged three straw targets in a staggered row. She was showing a small Hermes boy how to keep his feet under him when he changed direction. The boy was making the same mistake every time, reaching for the next target before his back foot was planted.
+
+"Again," Clarisse said.
+
+"I did it."
+
+"You hit the target. Then you fell over."
+
+"I didn't fall."
+
+"The dirt caught you. Very heroic of the dirt."
+
+Percy leaned the swords against the weapons rack. He should have left. The boy was red-faced enough without an audience, and Clarisse had told him where she would be, not invited him to supervise her morning. But he noticed a practice shield near the fence with a loose strap and picked it up.
+
+"That's mine," said a girl from the Apollo cabin.
+
+"Do you mind if I fix the buckle?"
+
+"Do you know how?"
+
+"That's a painful question."
+
+She examined him for a second and handed it over.
+
+The buckle wasn't broken. The leather had been threaded through the wrong slot, leaving the handle loose against a wrist. He knelt at the rack, set the shield on its edge and worked the strap free. By the time he'd started threading it back, the girl had returned to the line and Clarisse had noticed him.
+
+"You're late," she called.
+
+"I didn't know I had an appointment."
+
+"Neither did I."
+
+One of the other campers laughed. Percy lifted the shield and tested the grip with his forearm. It held.
+
+"I brought Chiron's swords," he said. "Apparently they're not supposed to live with the breakfast plates."
+
+"Tragic news for the swords."
+
+"I'll break it to them gently."
+
+Clarisse went back to the Hermes boy. Percy waited until the drill had begun again before leaving the shield on the rack. He was at the gate when he heard the boy swear, the short panicked sort of word that came when a foot slipped.
+
+Percy turned.
+
+The boy had driven his heel into a shallow rut along the edge of the sand. He wasn't hurt, but his leg was twisted under him and he was trying to stand before he'd untangled it. Clarisse stopped him with one hand on his shoulder.
+
+"Stay down for a second. Move your ankle."
+
+"It moves."
+
+"Good. Now stand. Slowly."
+
+Percy reached the fence. "The rut's deeper on that side."
+
+"I can see it," Clarisse said.
+
+"I could fill it."
+
+"You could. But I'm halfway through a drill, and you are distracting three people."
+
+He looked at the line. Three faces immediately turned away from him.
+
+"Right. Sorry."
+
+Clarisse guided the boy toward the bench. "He can get water. The rest of you move the targets six feet north. Nobody uses that corner until we've raked it."
+
+Percy picked up the rake leaning beside the rack.
+
+"Percy."
+
+He stopped with the handle in his hand.
+
+"I said we would rake it. I didn't say you had to do it."
+
+"I thought it would help."
+
+"It would. That's not the point."
+
+He couldn't find a response that didn't make him sound like a sulky child whose sister had rejected a present. He set the rake back.
+
+"You already know what you're doing," he said.
+
+"Usually."
+
+"I know."
+
+"Then why are you still standing there?"
+
+Because the boy had fallen. Because he'd seen an obvious problem and hated the idea that he could walk away while somebody else handled it. Because Clarisse was his sister, and he was learning that love in this family did not always look like being wanted in the middle of somebody else's work.
+
+"Because I came over without asking, and now I feel stupid leaving," he said.
+
+Clarisse considered him with the sort of expression she reserved for an opponent who'd unexpectedly told the truth.
+
+"Good," she said. "Then we're making progress."
+
+"That's a horrible way to encourage people."
+
+"I'm not an encouragement machine."
+
+"I noticed."
+
+She nodded toward the rack. "You can hold the far end of the fence while I move the targets. After that, I don't need another instructor. Can you manage that?"
+
+"Yes."
+
+"Without coaching my campers?"
+
+"I'll do my best."
+
+"Your best had better look suspiciously like silence."
+
+He held the fence while she and two campers pulled the targets clear of the uneven ground. The fence post had worked loose in last week's rain, and moving the heavy stands across it would have sent the post over. His job was dull, specific and, as it turned out, necessary. The plank pressed against his palms; Clarisse did the directing. Nobody asked him to make a speech about it.
+
+Once the path was clear, Clarisse dug the rake into the sand and handed it to the Hermes boy.
+
+"You found the rut. You help fix it. The yard belongs to all of us."
+
+The boy took it and began dragging sand into the depression. The Apollo girl joined him without being asked.
+
+Clarisse came to the fence where Percy stood. "You didn't have to come here to check on me."
+
+"I brought swords."
+
+"And then stayed."
+
+"That part was me being nosy."
+
+"I don't mind you visiting," she said. "I mind you showing up and deciding I can't manage my own job."
+
+His first instinct was to insist that he'd never thought that. His second was to defend every helpful thing he'd done in the last ten minutes. Both would require treating Clarisse like she had to establish the facts of her own work for his approval.
+
+He tried the harder answer instead.
+
+"I'll ask next time."
+
+"Good. You can also just watch. It isn't a crime."
+
+"You told me not to distract your campers."
+
+"I said you were distracting them. That's not the same thing as banning you forever."
+
+"So I have visiting hours?"
+
+"You have a mouth. Use it."
+
+That should not have been as difficult as it was. He leaned against the post, which now held firm under his hands.
+
+"Can I stay until they finish the next round?"
+
+Clarisse looked toward the line of campers. "You can stay by the fence. Don't yell advice. And if the Hermes kid falls again, I will handle it."
+
+"Deal."
+
+She gave him one swift nod and went back to the center of the yard.
+
+He watched. The Hermes boy planted his back foot properly on the second attempt. On the third, he forgot and tripped over his own shield. Clarisse did not pretend that it was a success, but she also didn't let the boy's embarrassment turn into the whole story. She showed him the movement one more time, had him repeat it without a weapon, and let the next camper try.
+
+Percy noticed a dozen choices Clarisse made that he'd missed when he was busy trying to help. She paired the fastest child with the slowest only after giving both a task suited to their skill. She altered the order of the targets for a camper who'd learned to anticipate the pattern. She told a pair of friends to stop laughing at each other's mistakes, then laughed herself when one of them launched a shield directly into the empty water trough.
+
+When the drill ended, Clarisse brought the campers into a loose circle. She assigned the rake and targets to two of them, the battered practice shields to the others, and said the lesson's final part was putting the equipment away correctly.
+
+The Hermes boy lingered after the rest had scattered.
+
+"Am I still allowed back tomorrow?" he asked.
+
+Clarisse looked genuinely confused. "Why wouldn't you be?"
+
+"I kept falling."
+
+"That's why you practice."
+
+He absorbed this, then grinned and ran after the others.
+
+Percy waited until the boy was out of earshot. "You're good with him."
+
+"I know."
+
+"I don't think he knows."
+
+"Then he'll learn." She wiped her forehead on her sleeve. "You can say nice things about my work without acting like you're surprised I can do it."
+
+"All right."
+
+"And don't repeat the bit where I was nice."
+
+"Wouldn't dream of it."
+
+He picked up the empty water bucket and held it up in question. Clarisse pointed him toward the trough. That was enough of an answer.
+
+As they walked back toward the cabins, she did not tell him everything she'd thought during the drill. He did not ask. Their conversation went instead to which dummy was due for a new straw stuffing, whether the kitchen could spare grain sacks, and why the Hermes children treated borrowed practice swords as though they were communal souvenirs.
+
+At the fork in the path, Clarisse stopped.
+
+"I'm going to the storeroom," she said. "Back at the cabin by lunch."
+
+"You don't have to give me a destination every time you change paths."
+
+"No," she said. "But I said I would this morning, and I can afford to practice."
+
+Percy looked at the fork, then at the swords he'd returned. "I think I'll go help Silena."
+
+"Ask first."
+
+He winced.
+
+Clarisse smiled without showing her teeth. "You're welcome."
+
+She turned toward the storeroom. Percy set off toward the pavilion, trying not to make another family policy out of one good conversation.
+
+---
+
 
 By afternoon, the plan had acquired two witnesses, one location, and several arguments about the meaning of the word “formal.”
 
