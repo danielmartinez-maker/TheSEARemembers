@@ -118,6 +118,88 @@ Tyson flexed happily. Percy groaned into his donut, but he was smiling.
 
 ---
 
+The aquarium made a peculiar noise just as they were about to leave.
+
+It came from behind the coral shelf, a low rattling hum followed by three abrupt clicks. Tyson stopped in the doorway. Percy turned toward the glass.
+
+"Was it doing that earlier?"
+
+"Only when you filled it," Tyson answered. "I thought it was the shell ornaments moving."
+
+They listened. A small school of silver fish moved from one end of the tank to the other, keeping well away from the intake. The pump rattled again.
+
+Percy had thought he'd finished the aquarium when he siphoned water into the bucket. Now he realized he'd cleaned what he could see and ignored the mechanism that kept the water circulating.
+
+Tyson removed the access panel with a screwdriver. He'd repaired hundreds of machines in the undersea forges, but he didn't pretend to know this one without looking at it. The impeller housing was partly blocked by bits of seaweed and a piece of blue plastic.
+
+"Is that from the toy?" Percy asked.
+
+Tyson pulled it free. It was the missing corner of one of the little Atlantis towers.
+
+"Maybe from long ago," he said. "The current caught it."
+
+Percy felt a ridiculous flash of guilt. He had washed the toy in the fountain, not the aquarium. Whatever happened to the plastic before today hadn't been under his control. Still, seeing the broken tower inside the pump made him wonder how many little things had been left there for years, unnoticed.
+
+They turned off the power, removed the block and inspected the rubber seal. Tyson explained how to test it before starting the pump again. Percy held the flashlight, because that's what Tyson needed.
+
+When the machinery ran without rattling, Tyson stepped back, pleased.
+
+"Good," he said. "Now the fish get clean water."
+
+Percy watched the fish. They seemed entirely indifferent to the rescue of their circulation system. He took that as a compliment.
+
+They wrote the service date on a card and slid it into the cabinet. Percy had learned enough from Milo's autumn repair schedule not to leave the task for somebody to guess at next spring.
+
+Then Tyson noticed the toy city again.
+
+"Can I ask you something?" he said.
+
+"Sure."
+
+"You said this toy reminds you of Sally."
+
+Percy nodded. He had told Tyson pieces of the old story without explaining how he remembered a childhood the rest of this world didn't record. He could talk about Sally's laugh and the blue plastic city, but it was harder to make clear that this particular object belonged to the rewritten home he'd lived in only through other people's recollections.
+
+"I remember another Atlantis set," Percy said carefully. "Same kind, different little scratches. My mom gave it to me during a rainy trip when I was very small. I remember the bath and the towel and how she read a shampoo label as if it were a prophecy."
+
+Tyson sat on the edge of the bunk so his head wouldn't strike the ceiling beam.
+
+"Amphitrite says you loved this one too," he said. "She used to let you take it into the palace bath. I remember helping find pieces when they floated away."
+
+Percy looked at him. Tyson wasn't claiming Sally's memory was wrong. He was giving Percy another childhood story, one Percy couldn't see for himself.
+
+"That sounds like me," Percy said.
+
+"It was you."
+
+"I know. I mean I believe you. I don't remember doing it."
+
+Tyson considered that. He picked up the little dolphin and turned it over to inspect the new bronze tail.
+
+"Then I will tell you the stories when you want," he said. "Not all at once. There are many."
+
+Percy smiled. "I don't think I could handle them all at once."
+
+"Good. Some are embarrassing."
+
+"How embarrassing?"
+
+Tyson beamed. "You once tried to feed a spoon to a fish because you thought it was hungry for metal."
+
+Percy groaned. "That's exactly the kind of thing I would do."
+
+"Yes."
+
+They laughed. Tyson put the dolphin back beside the towers. He didn't insist Percy had to feel nostalgic about an event he couldn't remember, and Percy didn't insist Tyson's experience somehow mattered less because it differed from his own.
+
+Annabeth called from the path that they were late for the Ares cabin. Percy put the toy back on the windowsill, where both the saltwater aquarium and the afternoon sunlight could reach it.
+
+"Come on," he told Tyson. "We have more things to clean."
+
+Tyson collected the tools and followed him out. The pump ran quietly behind them. Percy liked that sound better than the earlier rattle. It meant they'd noticed what needed doing before the fish paid for the mistake.
+
+---
+
 The Ares cabin smelled like leather oil, metal polish, and old sweat socks, and it sounded like an argument.
 
 When Percy and Tyson arrived after lunch, lugging buckets and brooms as tribute, the door was propped open and every bunk had been dragged into the yard. Shields and spears were lined up in rows. The red walls were bare — all the posters and warning signs and dented helmets taken down for washing. In the middle of it all stood Clarisse La Rue, hands on her hips, hair pulled back under a red bandana, giving orders like a general.
