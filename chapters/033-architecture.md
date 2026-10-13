@@ -776,7 +776,7 @@ Annabeth spread the revised drawing on a dry table, carefully weighting its corn
 
 "All right," she said. "Let's look at the border one more time before tomorrow."
 
-They gathered around her. Outside, rain pattered against the roof. The half-built shrine was covered and safe. Their next day's work had a plan that accounted for what had actually happened, not what she'd expected that morning.
+They gathered around her. Outside, rain pattered against the roof. The half-built shrine was covered and safe. Their next day's work had a plan that accounted for what had actually happened, not what she'd expected that morning. The dryad would inspect the root boundary again before the first footing was completed. Beckendorf would sign the corrected timber list. Silena would keep a separate ledger of who had volunteered for each shift. Annabeth wrote those three tasks beside the date, folded the sketch and finally sat down to eat the dinner she'd nearly forgotten.
 
 ---
 
