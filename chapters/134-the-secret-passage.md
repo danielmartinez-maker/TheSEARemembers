@@ -220,6 +220,64 @@ He liked being trusted with work that mattered, even a lantern.
 
 ---
 
+The maintenance foreman asked Percy one question before allowing anyone to enter the passage.
+
+"Can you feel the water through the wall?"
+
+Percy stopped at the threshold. "Some of it."
+
+"Tell me what you can sense. Don't try to move anything."
+
+That was a fair distinction. Percy had spent enough time using water to solve problems that his first response to a damp place was to imagine lifting the water out of it. Here that might break an old joint or force a trickle into a wall that had held its weight for decades.
+
+He put one palm against the stone and closed his eyes. The dampness inside the first pipe was faint and sluggish, unlike the open flow of the freshwater canoe lake or the strong saltwater currents at Long Island Sound. It wasn't a route to Atlantis. It was water caught inside a very old building.
+
+"There's something moving along the lower line," he said. "Not fast. I can't tell whether it's supposed to be there."
+
+The foreman compared his report with the maintenance diagram. The drawing showed the line as disconnected. A second worker found a more recent note saying part of it had been reused for the wash station near Cabin Six. The two records disagreed.
+
+"Then we don't touch the joint," the foreman said. "If that line is live, we need to know where it goes before we isolate it."
+
+Percy stepped back. "I could stop the water while you check."
+
+"You could. But if you stop one end without knowing the other, where does the pressure go?"
+
+He didn't have an answer. He could force water to obey him, but he couldn't promise that every neglected pipe would respond like an open channel.
+
+"Right," he said. "No moving it."
+
+The foreman seemed relieved. "Your observation is useful. It doesn't replace our drawings."
+
+Annabeth wrote down the discrepancy and asked whether the wash station had a separate cutoff. They identified the valve on the modern system and tested only the accessible outside fixture, with Chiron's approval. The water pressure changed at the wash station but the movement Percy felt in the lower pipe continued. That suggested the pipe was carrying something else, or that his sense was too imprecise to be used as a measurement.
+
+"Could it be groundwater?" Annabeth asked.
+
+"Could be," the foreman answered. "Or an old line from the hill. We'll document it."
+
+Percy found the uncertainty strangely comforting. The passage wasn't obliged to reveal its whole history on the first day they entered. Their job was to avoid making it worse while they learned.
+
+Silena watched the foreman update the drawing. "You have to keep old records even when they disagree?"
+
+"Especially then," he said. "Someone who repairs the wash station next year needs to know why we left this part alone."
+
+Clarisse examined the exposed valve handles. One had been painted red long ago; the others were rust brown. She asked why the colors didn't match the modern system.
+
+"They were labeled before the cabin was rebuilt," the foreman said. "Don't assume the paint is current."
+
+She nodded. "Then we should warn people before anyone touches it."
+
+He agreed. A temporary tag went on the questionable line and another on the drawing. Annabeth marked the area as unsurveyed, resisting the temptation to sketch a neat corridor beyond the point they could actually inspect.
+
+Percy had hoped for a secret passage that led somewhere thrilling. He was getting old pipes, ambiguous records and a lesson in when his powers weren't the right tool. He liked the work more than he'd expected. It meant being useful without taking control of everybody else's decision.
+
+The foreman did one last check of the support braces. He assigned Percy the lantern, Clarisse the spare rope and Silena the record board, so every person knew what they were carrying and what they were not supposed to touch.
+
+"Ready?" he asked.
+
+Annabeth closed her notebook for a moment and looked at Percy. Her gray eyes had the familiar brightness of a person about to learn something that hadn't yet been written down. He smiled back.
+
+"Ready," he said.
+
 Low enough that Percy bent his neck, the passage stretched ahead, cool air raising gooseflesh on his arms. Its stone floor felt solid underfoot, grit crunching faintly. One wall rose from pale blocks; the other showed brick patches. Along the base ran a rusted pipe on brackets spaced several feet apart, flaking orange beneath dust, cool damp kissing the air near its joints.
 
 "This wasn't built at once," Annabeth said. She indicated a change in the joints. "Older stone runs rougher. Brick marks later repair."
