@@ -471,6 +471,130 @@ For once, no one needed her to be tough. Just to be a sister, making something l
 ---
 
 
+Annabeth had meant to spend the afternoon at the shrine.
+
+She had finished it only recently, and the little stone left by the first visitor was still on her mind. She wanted to inspect the roof after the snow and check whether the path she'd repaired with Percy and Nico had frozen unevenly. But Chiron had closed the route through the strawberry fields while the wind was strong, and no amount of explaining that she knew the site better than anybody else changed his answer.
+
+"It's not that I don't trust your judgment," he said.
+
+"Then what's the issue?"
+
+"The path is icy, the temperature is falling, and the work isn't urgent enough to justify sending a camper beyond the supervised area."
+
+Annabeth looked at the weather map. "If a roof tile shifts, the whole mosaic could get wet."
+
+"That's possible. It doesn't mean the roof has shifted."
+
+She hated how calm he sounded. She also recognized the distinction. The shrine had been her project for weeks. Every problem had seemed solvable if she could reach it with a measuring tape and a willing pair of hands. Today, doing nothing was a form of judgment she had not practiced very often.
+
+"Could I prepare the repair kit?" she asked.
+
+"Certainly. You may also check whether the tools will be ready when the path reopens."
+
+She went to the workshop, collected the inventory form and discovered that half the materials she wanted were in the wrong place. The small cedar shingles had been put beside the firewood, the cloth covers were drying in a different cabin, and somebody had borrowed her narrow trowel without signing it out.
+
+Annabeth began reorganizing. It felt better than worrying about something she couldn't see.
+
+After an hour, Thalia found her beside a pile of neatly labeled boxes.
+
+"You missed the snowball fight."
+
+"I know."
+
+"Percy fell down trying to demonstrate a trick jump over a bench. It was impressive."
+
+"Was he hurt?"
+
+"Only in his dignity."
+
+Annabeth continued sorting screws by size.
+
+Thalia watched her. "You're avoiding the fun because you can't check the shrine."
+
+"I'm preparing for when I can."
+
+"You've been preparing since lunch."
+
+"The inventory was a mess."
+
+"Then you'll finish it faster if I help."
+
+Annabeth looked up. Her sister was wearing gloves with two fingers cut off so she could feel the edge of her spear better. The exposed fingertips were red with cold.
+
+"You're going to freeze those," Annabeth said.
+
+"I came inside, didn't I?"
+
+Thalia pulled up a stool and took the labeling pencil. She had no patience for small screws, but she could read a list and put the right boxes on a shelf. The two worked together until the table was clear enough that a repair crew could use it without asking where everything belonged.
+
+When they finished, Annabeth examined the emergency sheet. There was still a blank beside the words *site inaccessible*.
+
+"What am I supposed to put there?" she asked.
+
+"Site inaccessible," Thalia said.
+
+"That's not an action."
+
+"Sometimes the action is waiting until it's safe to do the thing."
+
+Annabeth didn't like that. Thalia knew because she didn't like it either.
+
+"I spent all those years telling myself I could keep you safe if I never looked away," Thalia said. "I was good at noticing things, and terrible at admitting I couldn't stop every bad thing. The cold isn't an enemy you can defeat by getting there first."
+
+Annabeth looked at her. "You still go on patrol whenever the weather turns strange."
+
+"When Chiron authorizes it. And today he sent somebody older who knows the closed trails better than me."
+
+"Did you argue?"
+
+"Obviously. Then I listened."
+
+They stood in the workshop with the wind rattling the window. Annabeth thought about the boy who'd left the pebble. He might have wanted to visit the shrine today. If the path was closed, he couldn't. A safe closure was still a service to him, even though she'd rather have the place open.
+
+She wrote *inspection deferred until clearance* in the blank and signed the form.
+
+Thalia looked pleased but didn't congratulate her for obeying a rule.
+
+"Want to go see what Percy is doing with the snow fort?" she asked.
+
+"Does the fort have any structural integrity?"
+
+"None. That's why I think you should look."
+
+They found the fort behind the Big House, already listing at an angle. Percy and Nico had been trying to build a wall high enough to hide from Clarisse, who could see their heads above it from the other side of the yard. The wall's base was too narrow, and half the blocks were made from soft powder rather than packed snow.
+
+Annabeth examined it.
+
+"Where are your supports?"
+
+Percy pointed at the wall. "The wall is supporting itself."
+
+"No, it isn't."
+
+As if to demonstrate, one corner slumped into the trench.
+
+Nico sighed. "I told him."
+
+Annabeth knelt in the snow, set her notebook in a dry pocket and showed them how to widen the base using smaller blocks. She didn't need to take over the construction; she made Percy place the first supports himself, then let Nico test how much weight the new wall would bear before they added another layer.
+
+Clarisse came around the corner while they were working.
+
+"So," she said. "You've brought in a professional."
+
+"Consultant," Annabeth corrected. "I don't accept responsibility for his original design."
+
+Percy looked offended. "It had artistic merit."
+
+"It had a very short life expectancy."
+
+The others laughed. They rebuilt the fort into a lower, sturdier wall that could shelter a group from the wind without requiring anyone to climb onto it. Annabeth insisted on keeping the doorway wide enough for the smallest camper to leave without crawling.
+
+The work did not fix the shrine. It kept her hands busy and gave the others a more usable place to play. When Chiron called everyone inside before the temperature dropped again, she was ready to leave.
+
+Back in the workshop, she checked the emergency sheet once more, then closed the binder. Tomorrow might be the right day to inspect the shrine. This afternoon had belonged to the people standing in the snow with her.
+
+---
+
 By nightfall, the cold had teeth.
 
 The temperature dropped as the sun went down behind the hills, turning the glittering snow violet and rose. The wind picked up, whistling through the cabin eaves. Chiron had announced at dinner that all evening activities were moved indoors, heaters were on full blast (which meant they'd be lukewarm at best), and no one was to go to the woods or the lake after dark. The cold was unnatural, he said gravely, and while Khione had assured him through intermediaries that it was all in good fun, he didn't trust fun that could cause hypothermia.
