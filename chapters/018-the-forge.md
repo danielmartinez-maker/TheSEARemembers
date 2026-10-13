@@ -769,3 +769,53 @@ Annabeth wiped the last smudge of soot from the bronze owl's wing. Percy held it
 He tipped the bird toward her. Its wings opened a fraction, then settled back into place.
 
 She wanted to make three changes to the design before anyone saw it again. Percy wanted dinner. She let him win that argument because she was hungry too, and they walked back with the owl packed safely in his hands.
+
+---
+
+The next day, Beckendorf gathered the projects for a short inspection before anyone took them out of the forge.
+
+Clarisse's spearhead needed more finishing. The edge had held through the revised test, but the handle fitting still had a gap that could loosen after repeated impacts. Silena's journal clasp moved well, though the first hinge pin was slightly crooked. Annabeth's owl had a delicate wing mechanism, and Beckendorf wanted it tested at different angles before she attached it permanently to the base.
+
+Nobody received a perfect score. Beckendorf hadn't given them scores at all.
+
+"We're not ranking objects by how impressive they look," he said. "I want you to be able to explain what each piece is meant to do, how you know it can do that, and which parts still need work."
+
+Clarisse looked toward her spearhead. "Mine isn't ready for the arena."
+
+"Correct."
+
+"Can I say it's finished when the fitting is done?"
+
+"When we inspect the complete piece together."
+
+She nodded. It was difficult not to take the unfinished status as a judgment on herself, especially because she'd worked harder on it than she'd expected. She also knew the spear would be dangerous if she rushed the last step.
+
+Silena opened and closed the clasp until it caught at the same point on the third attempt.
+
+"That's the problem I need to fix," she said. "The pin moves sideways when the cover bends."
+
+Beckendorf suggested checking the alignment under a small load. Silena made a note and put the piece back into its padded tray.
+
+Annabeth asked permission to test the owl's wings with the base held in a clamp. The first movement was smooth. The second stalled near the top. She stopped rather than forcing the mechanism and examined the joint.
+
+"There's a burr here," she said. "I didn't finish the edge properly."
+
+"Then you'll be able to correct it without breaking the whole piece," Beckendorf replied.
+
+Percy held the small light where she could see. He had been waiting for a chance to try the owl himself, but he didn't ask until Annabeth said the mechanism was safe.
+
+She worked the burr down with a fine file, then tested again. The wing opened and closed smoothly several times.
+
+"Now?" Percy asked.
+
+"Now."
+
+He moved the lever carefully. The bird's wings opened a little and settled back into place.
+
+Annabeth smiled. She was glad he liked it. She also liked that it was an object she'd made deliberately, with help from people who respected the parts they didn't know.
+
+When the inspection ended, Beckendorf returned the completed or approved pieces and kept the unfinished ones in the cabinet. The group left with fewer trophies than they'd imagined and more practical knowledge than they'd expected.
+
+Percy handed Annabeth the owl in its padded box. Clarisse carried her measurement notes instead of a spear. Silena had a clasp to refine and a journal she intended to take somewhere beyond camp.
+
+They went to lunch arguing about whose project would be finished first. Beckendorf watched them from the workshop door, satisfied that they had learned the most important rule of the forge: wanting something made was only the beginning of making it well.
