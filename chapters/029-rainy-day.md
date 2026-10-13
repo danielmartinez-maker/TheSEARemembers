@@ -238,6 +238,88 @@ Outside, lightning stitched the clouds white. Inside, safe and dry, three Zeus-a
 ---
 
 
+The rain reached the lowest cabin before dawn on the second day.
+
+Clarisse learned about it from a Hermes boy who came to Cabin Three carrying a wet blanket and asking whether anybody could help lift a trunk off the floor. He was embarrassed to admit that he'd kept trying to pack the trunk instead of calling the cabin counselor. By the time he found help, the water had already soaked his clothes.
+
+Clarisse was halfway into her boots when Silena stopped her.
+
+"Chiron needs to know where it's coming from before we start pulling up floorboards," she said.
+
+"It's rain, Silena. We know where rain comes from."
+
+"We don't know why it's inside the cabin. If a drain is blocked, moving the furniture won't fix it."
+
+Clarisse looked annoyed, then recognized the sense in that. She handed the younger boy a dry blanket and asked him to show them exactly where the water had entered.
+
+The Hermes cabin was crowded with campers standing on beds and carrying bags from one end of the room to the other. The floor near the back wall was wet. Water had come beneath the door and pooled where the floor dipped near the storage lockers. A narrow stream was still running down the step outside.
+
+The cabin counselor had already counted the occupants and sent the youngest children to the Big House. Chiron was on the way with the maintenance team.
+
+Clarisse examined the wet trunk. "We can move that to the center of the room."
+
+"Yes," Silena said, "after we check whether anyone needs the path through here."
+
+They cleared a walkway first, moving stools and loose bags away from the door. Then Clarisse and two older campers lifted the trunk onto a dry bench while Silena checked the contents against the owner's permission. The boy had thought all his things were ruined. Most were damp but could be dried if they were unpacked promptly.
+
+He looked at the wet notebook in his hands.
+
+"This is my sister's," he said. "She gave it to me before I came."
+
+Silena held out a clean towel. "Don't try to peel the pages apart while they're wet. We can lay it flat and ask the library staff the safest way to dry it."
+
+He nodded, swallowing hard. Clarisse stopped stacking boxes and looked at him.
+
+"What's your name?"
+
+"Micah."
+
+"All right, Micah. Take the notebook to Ella or the librarian. Tell them Silena sent you. We're going to get your other things somewhere dry."
+
+It was a small piece of work. It also gave him something to do besides watch strangers rearrange his possessions.
+
+By the time Chiron arrived, the room was passable and the campers were accounted for. The maintenance team inspected the step and found the drain outside clogged with leaves. The water had nowhere to go except under the door.
+
+"We'll clear it when the lightning risk passes," the steward said. "Until then, leave the back section closed."
+
+Clarisse looked toward the rain. "I could do it now."
+
+"No," Chiron replied. "The metal grate is exposed and the storm is still active. We will not send a camper to handle it."
+
+She started to argue. Silena touched her arm, and Clarisse stopped. She could move a trunk and help someone whose things were wet. That didn't entitle her to work outside beside a metal drain while lightning flashed overhead.
+
+They returned to the cabin with the dry clothes, carrying them in smaller baskets so the children had room to move. Clarisse made Micah help choose which belongings needed urgent drying and which could wait. He was shy at first, then began giving directions with more confidence.
+
+"Those boots belong to my brother. He'll need them for patrol next week."
+
+"Then put them near the drying rack," Clarisse said. "Not so close to the heater that the leather cracks."
+
+He looked surprised. "You know about leather?"
+
+"I own more boots than I want to count."
+
+Silena smiled. Clarisse could be brusque, but she was better with frightened children when she had a useful job to give them than when somebody asked her to say something comforting.
+
+At lunch, Chiron announced that the rear portion of the Hermes cabin would remain out of use until it was inspected. Some campers would sleep in the Big House for the night. There were complaints, mostly from children who wanted their own beds.
+
+Silena explained the arrangement to Micah and asked where he'd prefer to keep his dry belongings until the room reopened. He chose a locker near the common room. He didn't want his trunk carried away without him.
+
+They brought it there together. Clarisse let him hold one handle while she took the heavy side, and he walked alongside her instead of being left behind.
+
+"Thanks," he said at the end.
+
+"Next time tell somebody sooner," she replied. "It's a lot easier to dry a pair of socks than an entire trunk."
+
+Micah nodded. He looked ready to cry. Clarisse glanced away, embarrassed by the possibility, then added, "Your sister's notebook should be fine if we handle it carefully."
+
+Silena wasn't certain about that. She didn't contradict her sister in front of a child who needed a little hope. Later she made sure to check with Ella about the pages and find out what could actually be saved.
+
+By the end of the day, Micah's notebook had been spread between clean sheets of blotting paper and the wet clothes were hanging in the laundry room. The drain remained blocked until the repair crew could work safely. Clarisse went to Cabin Three with wet boots and the unpleasant realization that she had spent more energy moving other people's belongings than she would have spent on a full day of sparring.
+
+She would have complained more if Silena hadn't handed her a clean towel and asked whether she wanted first use of the warm shower.
+
+---
+
 On the morning of day two, Grover Underwood woke up to water dripping on his nose and Ella the harpy staring at him upside down.
 
 "Drip! Drop! Plip!" Ella announced cheerfully, head cocked. Feathers everywhere. She was perched on the foot of his bunk in the attic of the Big House where the satyrs crashed during overflow, her rust-red wings damp and fluffed, her talons clutching a soggy picture book. "Rain rain rain! Sky leaking!"
