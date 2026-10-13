@@ -9885,6 +9885,140 @@ The guitar string held.
 
 ---
 
+## March 22: The Visit She Didn't Schedule
+
+Thalia had come to the cabin to return a book.
+
+She had borrowed it a week earlier, a collection of old compositions that Rhys insisted would help her understand the way he arranged harmonies. She'd read most of it. The parts she understood were interesting; the parts she didn't understand had made her want to throw the book against a wall, which she considered a reasonable reaction to difficult theory.
+
+She found him sitting at the workbench with three pages of notes spread before him. His guitar lay in its case. He was not playing, writing or even looking at the music. He was staring out the window.
+
+"You're working very hard," she said.
+
+Rhys turned. His expression brightened.
+
+"You're here."
+
+"I came to return your book."
+
+"Did you finish it?"
+
+"Mostly."
+
+"Verdict?"
+
+"Your author has a terrible sense of humor."
+
+"That's not the usual criticism."
+
+"Then everyone else is being polite."
+
+She put the book on the table and looked at him. He seemed tired in a way she hadn't noticed earlier in the week, his shoulders a little too stiff and the usual teasing answer slower to arrive.
+
+"Something wrong?"
+
+He considered. "Nothing serious."
+
+"Then something irritating."
+
+"Several things. I've got a list of changes to the opening piece, and each one seems to make another section worse. I thought I'd finished it."
+
+Thalia looked at the pages. The corrections were small but numerous, the kind that appeared when a musician was trying to improve a composition that was already nearly as good as he could make it.
+
+"You've been staring too long," she said.
+
+"Probably."
+
+"Come outside."
+
+He looked at the window. "Why?"
+
+"Because the air is better than this room, and I'm tired of watching you punish a piece of paper."
+
+He laughed reluctantly and stood.
+
+They walked down the north path toward the lake, where the first signs of spring were appearing along the stones. The air was cool but not cold. A few birds had returned to the lower trees, and the water was beginning to move more freely where the winter ice had broken.
+
+Rhys walked beside her without speaking much. She let the silence last. There was no need to turn a tired afternoon into an interrogation.
+
+At the low wall she stopped.
+
+"Sit."
+
+He raised an eyebrow.
+
+"Is that an order?"
+
+"A strong suggestion."
+
+He sat. She settled beside him, leaving the book and the music behind in the cabin.
+
+For a while they watched the water. Thalia could feel the old instinct to offer advice, to ask for the score and solve whatever remained wrong with it. She had learned enough by now to know that he didn't need her to repair everything.
+
+Instead she took his hand.
+
+He looked down at their fingers.
+
+"Thank you," he said.
+
+"For what?"
+
+"Getting me out of the cabin."
+
+"You're welcome."
+
+She leaned closer, resting her head briefly against his shoulder. It was the sort of touch she'd once been embarrassed to offer. Now it felt natural.
+
+He kissed her hair.
+
+"You're unusually quiet."
+
+"I'm trying something new."
+
+"How's it going?"
+
+"Terribly."
+
+He laughed. She lifted her face and kissed him, pleased by the familiar warmth of his response. He drew her close, his hand settling at her waist, and for a moment the music and the tour and the difficulties of spring ceased to be urgent.
+
+When they drew apart, he was smiling.
+
+"You have a very direct method of improving an afternoon."
+
+"Don't tell everyone. They'll start expecting it."
+
+He grinned.
+
+They sat together until the sun moved behind the trees.
+
+On the walk back, Rhys began talking about the piece again. This time he sounded less frustrated, able to describe the problem without treating each error as evidence that the entire composition had failed. Thalia listened, asking questions when she wanted and remaining quiet when she had nothing useful to add.
+
+At the cabin door he stopped.
+
+"Stay for supper?"
+
+She considered the hour. There was a report waiting in Cabin One, but it could wait until morning. She had finished her duties for the day.
+
+"Yes," she said.
+
+He opened the door and let her in. The book she'd returned lay on the table beside the music, neither demanding immediate attention.
+
+Thalia took off her coat and turned toward him.
+
+"There's one thing I still don't understand," she said.
+
+"Which part?"
+
+She caught his collar and drew him closer.
+
+"Why you keep letting me borrow terrible books."
+
+He laughed, then kissed her before she could continue.
+
+The room was warm, and supper could wait a little longer.
+
+---
+
 ## Sunday, March 24: Before the Road
 
 The Sunday before Rhys left was sunny.
