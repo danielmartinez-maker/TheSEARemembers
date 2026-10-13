@@ -46,6 +46,86 @@ They had all grown. Today was for proving it safely.
 
 ---
 
+The first argument began with a length of rope.
+
+Clarisse had brought it from the equipment shed and wound it twice over one shoulder. Percy wanted to know why Chiron's training markers weren't sufficient.
+
+"Because stakes can come out," she said.
+
+"Not the ones I planted."
+
+"That's what somebody says right before one comes out."
+
+They stood in the shelter of the Big House porch. Rain ticked against the awning. Grover was protecting a clipboard beneath his coat, and Thalia kept looking toward the far horizon as if the clouds had made a personal appointment with her. This was meant to be a controlled demonstration. Chiron had promised no uncontrolled discharge, no heroics and an independent observer who could stop the exercise.
+
+"Confidence isn't a safety plan," Annabeth said. She held a diagram flat with her elbow. "The rope shows people where to stand. Even if the water stays within the channel, the observers need a boundary they can recognize."
+
+"Thank you," Clarisse said.
+
+"She's not agreeing because you're frightening," Percy told her.
+
+"Good. Means I still have room to improve."
+
+Thalia looked over the diagram. "Who's supposed to stop me?"
+
+Everyone turned.
+
+"If I draw too much charge," she said. "If the wind moves and I think I can handle it anyway. Who tells me to stop, and what happens if I don't hear them?"
+
+"You'd listen to Chiron," Percy said.
+
+"I intend to. That wasn't the question."
+
+Chiron arrived as she spoke. He listened, then took two cards from Grover's clipboard. On one he wrote STOP in block letters. The other stayed blank.
+
+"One verbal order," he said, "repeated by everyone observing. And one visible signal." He tied a strip of bright orange cloth to a wooden staff. "When Grover raises this, the exercise is over. Not after a final demonstration, not once someone has finished proving a point. Over."
+
+"Can we ask why?" Thalia said.
+
+"After you've stopped."
+
+She examined the cloth and nodded. He had not lectured her about having better judgment than the average demigod. He'd given her a rule she could follow even when her judgment was under pressure.
+
+Annabeth wrote the signal beside her measurements. Clarisse checked the rope knots and handed one end to Percy. He fastened it around a post on the practice map Chiron had set up in the porch's sheltered corner. It held when she pulled against it.
+
+"At least you can tie a knot," she said.
+
+"My childhood was very educational."
+
+He regretted the phrase as soon as he said it. In this life, other people remembered his undersea childhood better than he did. Clarisse had never seen the rope lessons Triton had apparently given him. She only watched him test the knot and told him to leave an extra loop for the guard's hand. He did.
+
+At breakfast Jason had already claimed a place beside Ella. His visit had been arranged for the demonstration, and he wanted to help take readings. Ella gave him a separate sheet for cloud cover while she kept the official measurements herself. Jason looked disappointed until Percy pointed out that two independent records would be useful if the wind changed quickly.
+
+"Can I watch from the nearest marker?" Jason asked.
+
+"The marked observation point," Thalia said.
+
+"That's what I meant."
+
+"No, it wasn't."
+
+They could have fought about it for another twenty minutes. Instead Annabeth showed him the map and asked where he could stand without blocking Grover's view of the orange cloth. Jason worked it out for himself. He moved his name on the diagram, then asked Chiron to approve the position.
+
+Silena poured tea while they checked the equipment lists. She noticed that the spare wool blankets had been placed beside the wet-weather crates, where their wrapping could get soaked. Clarisse helped her move them beneath the Big House overhang. It took two minutes and felt humiliatingly ordinary compared with the storm Percy hoped to touch.
+
+On the walk to the coast, Annabeth came alongside him. Her sketchbook was tucked beneath her jacket.
+
+"You wanted today to be spectacular," she said.
+
+"I'd settle for interesting."
+
+"You don't sound convinced."
+
+"I've spent half the morning looking at rope."
+
+"You're going to spend the rest of it working near electricity and moving water. It's all right to prepare."
+
+He smiled. "You sound like Chiron."
+
+"Don't tell him. He'll make me supervise the next drill."
+
+Their hands brushed as they walked. She left her fingers against his for a moment, then withdrew them to hold her paper out of the rain. Nothing dramatic happened. Percy began to understand why that might be worth protecting.
+
 The north shore at nine forty-five looked nothing like the beach during the big storm last year, and Percy was grateful for the difference.
 
 Then, the waves had been house-tall and sideways, the rain had come in sheets, the wind had screamed. Now the Sound was choppy and slate-gray, whitecaps marching in ordinary rows. The sand was damp and firm. The sky was dimming by degrees, clouds thickening overhead, but there were still patches of blue to the west. Gulls wheeled and complained. A couple of naiads watched curiously from the surf, elbows on the water.
