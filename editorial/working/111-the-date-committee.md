@@ -563,3 +563,291 @@ Percy held out his arms. "I thought you'd never ask."
 She handed it to him. It was heavier than he expected. He made an undignified noise, and she laughed all the way to the turn in the path.
 
 ---
+
+Thalia came back with Charlie, two pieces of pipe, a new board and a complaint she had been saving since breakfast.
+
+"She said no ladders," Thalia told him.
+
+Charlie inspected the section of porch beneath the gutter. "Sounds like she was right."
+
+"That's not the complaint."
+
+"Then I'm glad we got that part settled."
+
+They worked on the ground first. Charlie showed her how the replacement board would sit against sound wood on either side of the damaged stretch, then had her hold a brace while he checked it for twist. When Thalia tried to lift the old gutter before he was ready, he told her to put it down.
+
+"I can hold it," she said.
+
+"I know. I need to take the other end loose, and if you lift it now we'll dump a bucket of dirty water over the steps."
+
+Thalia lowered it. A thin stream of water ran out of the seam anyway, dark and unpleasant. She stepped aside.
+
+"Point made."
+
+They had been working for half an hour when Silena passed on her way from the kitchens with a bundle of cloth tied under one arm. She paused at the bottom of the steps.
+
+"How's the rescue?"
+
+"Ask us when the roof stops trying to rot," Thalia said.
+
+Silena looked at the new board and the brace. "Looks better."
+
+"Did you come to borrow something?"
+
+"Actually, I came to see whether you'd noticed the missing paintbrushes. I left them beside the porch yesterday."
+
+Thalia looked around. The porch had been emptied to make space for the repair. She found the brushes in a clay jar under the stair, wrapped in a rag to keep the bristles from drying out.
+
+"Here."
+
+"Thanks." Silena inspected the ends. "I thought I'd lost them."
+
+"You're painting today?"
+
+"If Charlie finishes the frame. But he's apparently repairing every roof in the valley."
+
+Charlie called from the ladder, "I can hear you."
+
+"Good. I need the small hinges, not the big ones."
+
+"On the shelf by the door. Labelled."
+
+Silena looked pleased. "See? You can manage two things in the same afternoon."
+
+Thalia tried not to smile. There was something quietly funny about Silena issuing instructions to a forge worker three times her size and then going on as though she hadn't. Charlie had not even argued. He'd simply told her where the hinges were.
+
+"The date committee still meeting?" Thalia asked.
+
+"It has no official members," Silena said. "Percy dissolved it."
+
+"He did?"
+
+"He looked very serious about it."
+
+"And Clarisse?"
+
+"Still believes she has authority over refreshments. I told her to bring the strawberries and leave the relationship alone."
+
+Thalia glanced at the Zeus cabin doorway. Annabeth's drawings were gone. A few chalk marks remained beside the gutter, measuring the damage; Annabeth had been thorough even while being angry.
+
+"I wasn't part of the committee," Thalia said.
+
+"No one accused you."
+
+"Your face did."
+
+Silena tucked the paintbrushes into her bundle. "I was going to ask whether you wanted to come with us when we carry the basket."
+
+"To the amphitheater?"
+
+"Only to the path. They're doing their own thing after that."
+
+"Clarisse's idea?"
+
+"Mine. If we don't have somewhere to be, Clarisse will sit in the bushes and try to provide commentary."
+
+That sounded painfully likely. Thalia could picture her standing behind a tree and giving Percy advice on how to sit down, as if dating were an arena exercise. Annabeth would know they were there within seconds.
+
+"Maybe I should come," she said.
+
+Silena's eyebrows lifted. "To keep Clarisse from interfering?"
+
+"Exactly."
+
+"Are you sure that's the only reason?"
+
+Thalia turned back toward the gutter. It would have been simple to call the question insulting and end the conversation. She had spent years being the person who stood between Annabeth and things that could hurt her. She knew she could turn any decision into a safety concern if she tried hard enough.
+
+"She's going to be alone with Percy after dark," she said.
+
+"At the amphitheater," Silena answered, "with half of camp within shouting distance."
+
+"I know where it is."
+
+"You trust Percy."
+
+"Of course I do."
+
+"You trust Annabeth."
+
+Thalia felt her shoulders tighten. "Yes."
+
+"Then I don't understand what the problem is."
+
+"The problem is that I don't like getting told I should stop worrying because she's growing up."
+
+Silena didn't respond at once. She set the bundle on the rail, careful to keep the damp paintbrushes away from the wood.
+
+"Nobody said stop worrying," she said. "Annabeth said stop deciding."
+
+"That's a convenient distinction when you're not the one who had to make decisions for her."
+
+"I think you're right about that."
+
+Thalia looked at her, thrown off balance by the agreement.
+
+Silena went on. "I don't know what it was like for you. I wasn't there. I know what it's like when people assume they'll be fine if I do all the work for them. It can feel worse when they stop needing you, even if you wanted them to get there."
+
+Thalia studied the jar where the brushes had been. The clay was still stained blue along the rim. She wanted Silena to be wrong, but there was too much that fit.
+
+"When Annabeth was small," she said, "there were days I didn't know what would happen if I let go of her hand. I used to count the steps between places where I knew we could get help. She doesn't remember all of it. I do."
+
+Silena nodded. "That doesn't disappear because she wants to choose a date."
+
+"No."
+
+"But she hasn't gone anywhere. She asked you to get Charlie. She wanted you here working on her plan. You got to do something useful without having to decide the whole afternoon for her."
+
+Thalia watched Charlie fasten the temporary spout in place. The first bracket took his weight. The second sat tight against the sound section of board. The next rain would test it; after that they would know whether the repair needed changing.
+
+"I hate how reasonable you sound," Thalia said.
+
+"I make a point of not doing it very often around Clarisse."
+
+They laughed, and the laughter relieved something without deciding the argument.
+
+Charlie came down the ladder. "If it rains tonight, someone should check the bucket. We can reroute the spout permanently once Chiron approves the materials."
+
+"I'll do it," Thalia said.
+
+"And Annabeth can approve the drawings tomorrow," he added. "Tell her I used the brace she sketched, not the nail she crossed out."
+
+"She'll ask whether it was cut square."
+
+"It was."
+
+"She'll check."
+
+"I know."
+
+Silena reclaimed the brushes and started down the path. Thalia followed after collecting the tools, because somebody needed to return them. Halfway down the slope, she stopped.
+
+"Silena?"
+
+"Yes?"
+
+"Tell Clarisse the basket stops at the bottom of the steps."
+
+Silena smiled. "I'll tell her."
+
+"And if Annabeth asks whether I've been spying, don't lie for me."
+
+"Then don't spy."
+
+Thalia sighed. "You're enjoying this."
+
+"A little."
+
+They walked on. Thalia was still worried. Annabeth was still her little sister, and the world hadn't grown safer merely because the younger girl wanted to make her own choices. But Thalia had a gutter to monitor, a repair to finish, and enough other people to care about that the entire afternoon didn't need to be built around watching Annabeth.
+
+It was not a comfortable adjustment. She made it anyway.
+
+---
+
+Percy reached the kitchens to find Clarisse treating a basket of strawberries like supplies for a military operation.
+
+She had divided them by size. The smallest berries were in one bowl, the largest in another, and a cloth-lined basket stood between them.
+
+"Why are you sorting them?" he asked.
+
+"Because half are bruised."
+
+"They're strawberries. They're supposed to be soft."
+
+"These have been sitting in a crate since dawn. The bad ones go into the kitchen jam. The good ones go with you."
+
+He looked closer. The system made sense. Clarisse had done the work rather than tell Silena to do it, and the kitchen staff were getting the usable leftovers. A little bowl of sugar sat near her elbow.
+
+"You're not putting sugar on them?" Percy asked.
+
+"No. I remembered she's picky about that."
+
+"She's not picky. She likes to taste things."
+
+"Then she can taste these," Clarisse said. "Don't you have a blanket to find?"
+
+"I have one."
+
+"A clean one?"
+
+"Yes."
+
+"Does it have sand in it?"
+
+"Does everything I own have to be inspected?"
+
+Clarisse looked at him.
+
+He looked back.
+
+"Fine," he said. "I'll check."
+
+She pushed a berry toward him. "Here. Sample."
+
+He ate it. It was sour enough to make his jaw ache.
+
+Clarisse watched his face and smiled in triumph. "Exactly. That one goes to the jam."
+
+"You're enjoying your new power too much."
+
+"I am very good at logistics."
+
+"You are good at a lot of things, Clarisse. That doesn't mean you're in charge of my date."
+
+Her smile disappeared. Percy hadn't meant to make the exchange tense, but he'd been holding that line all morning and he didn't want to lose it because she was doing something kind.
+
+"I know," she said after a moment. "You made that clear."
+
+He set the sour berry stem aside. "I'm grateful for the strawberries."
+
+"You're welcome."
+
+"And I don't want you standing in the bushes."
+
+"I wasn't planning on it."
+
+Percy waited.
+
+She sighed. "I thought about it."
+
+"Please don't."
+
+"I won't."
+
+Silena came in while they were looking at each other. She stopped at the threshold and judged the silence with one glance.
+
+"Did the committee try to reconvene?"
+
+"Nobody's reconvening," Clarisse said.
+
+"Good. I've got a painting waiting for its hinges and no time to organize anybody else's evening." Silena lifted the cloth-lined basket. "These are ready. Percy, you can carry them. Clarisse, you can help me put away the bowls."
+
+Clarisse opened her mouth.
+
+Silena pointed at the empty bowls.
+
+Clarisse closed it again and took one.
+
+Percy picked up the basket. He had not expected having sisters to involve so much negotiation over fruit. He had also never expected to find himself hoping their voices would still be there when he got back.
+
+"I'll see you after," he said.
+
+"Have fun," Silena replied.
+
+Clarisse rubbed her hands dry on a towel. "And if you step on her drawings, move out of the way before you apologize. Don't drip juice onto the page."
+
+"Useful," Percy said.
+
+"Some advice is useful."
+
+"Even from a dissolved committee."
+
+"Especially then."
+
+He left before the argument could restart. Outside, the wind had shifted enough to stir the leaves on the road toward the amphitheater. He checked the blanket in his bag. It was clean except for a thread of blue wool at one corner, which he didn't see a reason to pull out.
+
+The berries were in good condition. Annabeth had chosen the place. He was supposed to meet her after dinner, and there was no need to improvise a complicated surprise in the hours before that.
+
+Percy took his time walking back to Cabin Three. For once, preparation felt more like making space than setting a trap for a perfect moment.
+
+---
