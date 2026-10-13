@@ -178,7 +178,7 @@ By the time the first visitors arrived, the path was level. Nobody would know ho
 
 Annabeth had built things before.
 
-She'd built a scale model of Olympus out of toothpicks when she was seven that her dad still kept on a shelf. She'd built traps and bridges and siege ladders at camp. She'd helped rebuild cabins after the war games went wrong.
+In the life she remembered, she'd built a scale model of Olympus out of toothpicks at seven, which Frederick Chase had kept on a shelf. She'd built traps and bridges and siege ladders at camp. She'd helped rebuild cabins after the war games went wrong.
 
 This was different.
 
@@ -345,7 +345,7 @@ She laughed. He took her hand, and together they waited for the others.
 
 Thalia was nervous, which annoyed her.
 
-She didn't get nervous. She got angry, she got reckless, she got loud. Nervous was for — well, not for daughters of Zeus who'd run with the Hunt and stared down Luke and lived to tell about it.
+She didn't get nervous. She got angry, she got reckless, she got loud. Nervous was for other people, she'd told herself, not for daughters of Zeus who'd crossed monster-haunted roads with Luke and lived to tell about it.
 
 But standing on the path with the others, waiting to go in, her hands were actually sweating.
 
@@ -622,7 +622,7 @@ A flower that could bloom where nothing else could. That was what he'd wanted to
 
 He set it down in the bowl. It pulsed softly next to Thalia's spark, shadow and light not fighting, just sitting together.
 
-"It's for —" Nico started, voice barely audible. He cleared his throat. "It's for people who aren't here. Who can't be here." He didn't look at anyone, but everybody thought of Bianca, of Zoe's old Hunt sisters, of Luke, of all the names carved on the dining pavilion's memorial. "So they have something too. So it's not just — bright things. So the dark has a place."
+"It's for —" Nico started, voice barely audible. He cleared his throat. "It's for people who aren't here. Who can't be here." He didn't look at anyone, but everybody thought of friends they had lost, of the families they could not reach, of people whose names they did not want to let disappear. "So they have something too. So it's not just — bright things. So the dark has a place."
 
 Silence, deep and respectful.
 
@@ -637,7 +637,7 @@ Zoe was last. She walked forward with measured steps, spine straight, chin high.
 ---
 
 
-Zoe Nightshade had spent enough time cataloging old ritual sites to know that the size of an offering said very little about the care behind it. Some inscriptions survived for centuries because someone returned to clean them. Others disappeared because no one checked the stone after the first winter. What lasted was not necessarily what looked impressive on the day it was built.
+Zoe Nightshade had spent enough time studying old ritual sites to know that the size of an offering said very little about the care behind it. Some inscriptions survived for centuries because someone returned to clean them. Others disappeared because no one checked the stone after the first winter. What lasted was not necessarily what looked impressive on the day it was built.
 
 She had watched this girl — this Annabeth, daughter of Zeus in this telling, brilliant and stubborn and tender-hearted — measure and remeasure, refuse to cut corners, weep over a crooked tile and then reset it by hand. Zoe had watched this boy — Percy, son of Poseidon — carry beams without complaint, hold ladders, bring lemonade, love without performance.
 
