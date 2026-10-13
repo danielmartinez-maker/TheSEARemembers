@@ -254,69 +254,95 @@ Out of the corner of his eye he saw Annabeth grab Thalia's hand.
 
 Sisters. Daughters of Zeus.
 
-Annabeth had been thinking through the whole duel, even while screaming Percy's name, because that was what she did. She could not outfight Ares. Thalia could not outfight Ares alone. Percy could not outlast him alone. But Zeus's power was sky power, storm power, and it liked being called by its own blood. One spark alone in this salt wet air would scatter. Two sparks braided might hold.
+Annabeth had been following the entire exchange. She knew Percy could not defeat the god of war by trying to hit harder. Thalia couldn't defeat him by charging, and Grover's reeds would not hold him for long. They needed to make Ares decide that continuing the fight was worse for him than handing over the bolt.
 
-"Thalia," Annabeth gasped, fingers interlacing tight. "Together. Like at the hill. On three."
+Thalia looked at the canvas case on the god's back.
 
-Thalia stared at her, understanding flashing across her face in an instant. Fear and fierce pride. "You sure? It nearly knocked you out last time."
+"He hasn't taken it out," she said.
 
-"I am sure. He needs us."
+"Because he wants to keep it for the threat," Annabeth replied. "If he opens it in front of us and the beach sees, Zeus will know whose hands it was in."
 
-Thalia grinned, wild and electric. Static lifted the fine hairs on both their arms. The air smelled suddenly of ozone, sharp over salt. "Then let us fry this bastard."
+Ares turned as Percy drew him toward the shallows. The case was strapped across his shoulders, buckles nearly touching his neck. Every time he swung his sword, it shifted against his back.
 
-They raised their joined hands.
+"Grover," Annabeth said. "Can you hold his left foot for one step?"
 
-Grover saw what they were doing and changed his tune without missing a breath, shifting from protection to a high clear reveille that lifted and carried, that gave the wind somewhere to go. The beach grass around them stood straight up, crackling. Sand grains levitated.
+"One step," Grover answered. "Not a whole fight."
 
-Above the beach, though the sky had been clear sunset gold a minute before, clouds boiled up out of nowhere, dark bellied and green edged, spinning fast. Wind ripped at Percy's jacket. The surf frothed white.
+"That's enough."
 
-Ares felt it. He glanced up, then at the girls, and his gold veined eyes widened. "No. Oh, no, you do not."
+She turned toward her sister. "No lightning into wet ground. Not after the Fury. We need you on the dry sand, distracting him long enough for Percy to reach the case."
 
-He threw Percy aside like a sandbag. Percy hit the water hard, Riptide flying from his hand to stick upright in wet sand three feet away. Pain lanced through his ribs. He tried to get up and could not get air.
+Thalia had never looked more irritated with the idea of playing a supporting role. Then she saw Annabeth's bandaged hand and the exhaustion on Percy's face.
 
-Ares charged the sisters, sword raised, motorcycle forgotten, helm forgotten, bolt screaming on his back.
+"Fine," she said. "I can shout. I'm very good at that."
 
-Grover stepped in front of them.
+Grover changed his tune. Beach grass stirred in the salt wind, gathering in a shallow net along the dry edge of the surf. He wasn't making a wall strong enough to stop a god, and he didn't try. The roots waited where Ares would place his next foot if Percy could tempt him toward the line.
 
-Small, trembling, reed pipes still at his lips with one hand while the other hand was thrust out, palm forward, Grover Underwood, satyr of the Wild, stood between the god of war and his friends and played a single piercing note that was not music at all but a command.
+Thalia called his name.
 
-Root and hold.
+Ares looked toward her. It was not much of an opening, but the god of war hated having attention drawn away from a fight he believed he was winning.
 
-The beach grass exploded upward into a tangled wall, green and salt tough, grabbing at Ares's boots. Sand hardened to stone under his feet mid stride. For one crucial second the god stumbled, snarling, hacking at vines that regrew as fast as he cut them. Golden ichor spattered where thorns bit.
+"You haven't finished with my sister," Thalia said. "You're still waiting for us to beg you for help, aren't you?"
 
-That second was enough.
+"Little storm cloud," Ares growled, turning half toward her. "I could put you down with one hand."
 
-"NOW!" Annabeth and Thalia shouted together.
+"Then why are you carrying Zeus's bolt around like a stolen trophy? Too scared to show him you've got it?"
 
-Lightning came down.
+Annabeth saw the anger land. The god started toward the dry sand, boots digging into the wet surface. Percy followed, sword low, pretending he was barely able to stand. That part required almost no acting. His ribs hurt, and he could barely feel his fingers.
 
-It was not one bolt but two braided into one, white blue and crackling, striking their joined hands and grounding through them without burning them, because they were Zeus's daughters and the sky knew its own. Percy saw Annabeth's face lit stark white, teeth bared, gray eyes reflecting pure storm, and Thalia beside her laughing with fierce joy even as blood trickled from her nose. Sisters, calling down their father's wrath together and aiming it with love and rage.
+Ares lunged for Thalia.
 
-They threw it.
+Grover's roots caught one ankle. The god tore through them as if they were thread, but the hesitation made his canvas case swing to one side. Percy moved then, not against Ares's chest but toward the strap.
 
-The braided bolt hit Ares square in the chest.
+Riptide found the leather.
 
-The world went white and silent and then unbearably loud. Sand fused to glass in a ten foot circle. The shockwave knocked Grover flat, knocked the girls to their knees, knocked the breath out of the ocean itself. Ares stood for a moment wreathed in fire, skeleton showing black through light, mouth open in a scream no one could hear. The canvas case on his back split open. The Master Bolt, twenty feet of raw skyfire, tore free and spiraled up, humming furious and uncontrolled. The motorcycle toppled, its rear wheel still spinning as sparks hissed into wet sand.
+It wasn't a clean cut. The first stroke glanced off the buckle. Percy nearly lost his sword trying to recover, and the back of Ares's hand struck his shoulder hard enough to send him to one knee. He raised the blade again out of reflex and caught the strap where it had slipped beneath Ares's arm.
 
-Then Ares fell.
+The buckle snapped.
 
-He hit the wet sand hard on his back, sword flying from his hand to land hissing in the surf. Smoke rose off his armor. His duster smoldered. The gold veins in his eyes flickered, dimmed, surged once with that cold pit voice, KILL THEM, FINISH IT, and then guttered out as Ares's own brown rage came back to the surface, dazed and pained.
+The case fell between them and struck the wet sand. Ares spun toward it, suddenly less interested in the small opponent he'd been trying to humiliate. A pulse of blue-white light ran down the canvas, and the fabric split.
 
-Percy crawled to Riptide, dragged himself upright with the sword as a crutch, and limped through steam and glass shards to stand over the god of war. Every breath was knives in his ribs. Blood ran from his nose and his forearm and his split lip. His legs shook so hard he was afraid they would fold.
+The Master Bolt rose from the open case, gathering itself into a long, terrible shape above the surf. The air around it became painfully bright. Percy turned his head away from the full glare. The weapon wasn't theirs. It wasn't Ares's either. It was Zeus's symbol of power, and now nothing hid who had brought it to this beach.
 
-But he put the tip of Riptide to Ares's throat anyway.
+Ares reached up.
 
-The beach was silent except for surf and Grover's ragged breathing and the girls coughing behind him.
+The bolt crackled. He jerked his hand back before touching the bare shaft.
 
-"Yield," Percy rasped.
+"Careful," Annabeth called over the sound. "Your father's weapon might not enjoy being stolen."
 
-Ares stared up at him. For a moment something ancient and amused flickered across his battered face. Then he coughed, golden ichor flecking his lips, and laughed, a wet ugly sound.
+Ares stared at her. Percy could see the war god measuring what it would cost to silence them, all four of them, with the bolt hanging exposed above a public shoreline. A dozen people near the pier had turned toward the unnatural light. The Mist would offer them explanations, but the event itself was no longer safely concealed. Martin knew where the party had gone. Chiron would hear what had happened if the group disappeared now.
 
-"You got lucky, minnow."
+Percy got to his feet. Riptide shook in his hand, and he couldn't have stopped another full strike.
 
-"Yield," Percy said again. Louder. He pressed just enough that ichor welled bright around the bronze tip. Behind him he felt the tide rise to his calves, to his knees, ready to drown this stretch of beach if he asked. "Leave the bolt. Go."
+"That's what we're here for," he said. "The bolt. Not a war with you."
 
-Ares held his gaze. The sunglasses were gone, lost in the blast. Without them he looked younger and older at once, a brawler god with a busted lip and eyes that could not quite focus.
+Ares's face twisted. "You think you can bargain from your knees?"
+
+"Not from my knees." Percy kept his voice level. "From the fact that everyone can see whose case it came out of."
+
+Thalia stepped beside Annabeth on the dry sand. Grover's pipes had gone quiet. They were all visibly exhausted, and Percy was glad none of them attempted to look stronger than they were.
+
+Ares's sword remained lifted.
+
+Percy waited. He could feel how close the god was to killing him simply to prove the point. Then the gold in Ares's eyes flickered again, and the older echo pushed at his words. He looked toward the exposed weapon with a kind of sudden hatred, as though he had realized the plan had made him a messenger more than a king.
+
+"Fine," he said at last. "Take the damned thing."
+
+Percy didn't move immediately. "You won't use it on us?"
+
+"If I wanted you dead, minnow, you would be dead."
+
+Percy believed him.
+
+Ares drew back toward his motorcycle, leaving the bolt hovering over the disturbed sand. The weapon was no easier to touch than it had been before, and retrieving it would be its own problem. But Ares had chosen not to turn the quarrel into a massacre. He hadn't been defeated by superior strength. He had been cornered by the exposed evidence of what he was carrying and his own unwillingness to pay the price of finishing the fight in front of witnesses.
+
+Percy lowered Riptide enough to breathe.
+
+"We're taking the weapon to Olympus," he said.
+
+"Then tell Zeus his children forced a god to stand in public while his stolen bolt came out of my case," Ares sneered. "See whether he thanks you."
+
+Ares held Percy's gaze. Without his sunglasses, he looked younger and older at once, a god who had decided not to finish an ugly fight but wasn't willing to call that mercy.
 
 "You think this ends it?" he growled. The echo was gone, but the anger was still there, raw and human sized now. "You think bringing back his toys will stop Olympus from tearing itself apart? Kronos is awake enough to whisper, kid. Whispers are enough. Your family up there, they want war. They have always wanted war. I am just the excuse."
 
@@ -326,11 +352,11 @@ Behind him, footsteps in wet sand. Annabeth on his left, Thalia on his right, Gr
 
 Together.
 
-Ares looked from face to face, the two storm girls with their hands still joined and smoking faintly at the fingertips, the satyr with wildflowers inexplicably blooming in his horns from spent earth magic, the sea boy who would not fall down.
+Ares looked from face to face, the two storm girls standing apart on the dry sand, one still nursing a healing burn, the satyr with wildflowers inexplicably blooming in his horns from spent earth magic, the sea boy who would not fall down.
 
 Something like respect crossed his face, unwelcome and quickly hidden.
 
-"Fine," he spat. Golden light gathered around him, warping the air. "Take it. Take it back to Olympus and play hero. See how long their thanks lasts."
+Golden light gathered around him, warping the air. "Take it back to Olympus and play hero. See how long their thanks lasts."
 
 His form shimmered, grew translucent at the edges. Before he vanished completely he fixed on Percy with sudden intensity.
 
@@ -350,9 +376,9 @@ Percy sat too. He did not decide to. His legs just quit. Cold water rushed aroun
 
 They sat in a ragged circle in the shallows while the sun bled out across the Pacific, too exhausted to cheer, too alive to cry.
 
-"We did it," Grover whispered finally. He laughed, a disbelieving bleat. "We, we actually did it. We beat Ares. We beat a god. Oh, Juniper is never going to believe this. Oh, Pan preserve me, my hooves are ringing."
+"We got the bolt away from him," Grover whispered finally. He laughed, a disbelieving bleat. "He could have killed us. He chose not to finish the fight. Oh, Juniper is never going to believe this. Oh, Pan preserve me, my hooves are ringing."
 
-Thalia lay back flat in the water with a groan, arms spread, spear retracted to a baton tucked against her chest. Salt water soaked her hair. Blood from her nose washed away pink. "My whole body feels like a bruise," she announced to the sky. "I called lightning with my little sister and lived. Dad can never ground me again. Ever."
+Thalia lay back flat in the water with a groan, arms spread, spear retracted to a baton tucked against her chest. Salt water soaked her hair. Blood from her nose washed away pink. "My whole body feels like a bruise," she announced to the sky. "I kept my sister out of the wet sand and lived. Dad can never ground me again. Ever."
 
 Annabeth was staring at Percy. She had sand on her eyelashes. Her joined hand with Thalia was red and blistered at the fingertips, but she did not seem to notice. Her gray eyes were soft and fierce at once.
 
@@ -390,7 +416,7 @@ Thalia whooped so loud a nearby gull startled into flight. She pumped her fist i
 
 Grover lowered his hands from his eyes and beamed, tears cutting clean lines through ash on his face. He lifted his pipes and played a bright, wobbly, triumphant little riff that cracked on the high note and made them all laugh until laughing hurt their ribs.
 
-They sat there while the light went rose and violet, four small figures in a wide ocean's edge, with a god's sword cooling in the foam and the stolen symbol of power waiting to be claimed.
+They sat there while the light went rose and violet, four small figures in a wide ocean's edge, with the cut canvas case lying in the foam and the stolen symbol of power waiting to be claimed.
 
 Percy looked at each of them in turn. Thalia, his girlfriend's sister, fierce and storm bright, who had caught Annabeth and held the line. Grover, brave in the way that mattered, who had stood unarmed in front of war with only music. Annabeth, brilliant and stubborn and gentle all at once, cheek still close enough he could feel her warmth, fingers still laced once more with her sister's across the sand between them.
 
@@ -398,7 +424,7 @@ Family, the sea whispered. Not by blood alone. By choice. By holding on.
 
 Percy reached out with his cut hand and found Annabeth's burned fingertips and Thalia's scraped knuckles and Grover's hoof-worn palm and pulled them all in shoulder to shoulder in the surf. They leaned on each other, too tired to stand, too wired to sleep, listening to the waves come in steady and sure.
 
-The bolt hummed above the glass. The solstice and Olympus and war still loomed.
+The bolt hummed above the disturbed sand. The solstice and Olympus and war still loomed.
 
 But for this minute, on this beach, with the sea remembering their names and holding them up, they were together. They had survived a god's fury. Percy knew that was not the same as being stronger than him.
 
