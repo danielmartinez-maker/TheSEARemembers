@@ -626,6 +626,104 @@ Percy cracked open a warm Coke, took a sip, made a face, and passed it to Annabe
 
 Nobody said *we almost died today.* Nobody needed to. It sat under the jokes like the river under the city — moving, present, but not drowning them. Not tonight.
 
+When dinner was finished, Percy found the formal report still folded in the bottom of his bag.
+
+He had written it quickly after the Arch, while Annabeth gave the rangers her count of the people who'd made it down the stairs. The paper was stained along one edge where his hands had still been wet. He could make out the first two paragraphs, then his own handwriting descended into something that looked like a bird had walked through ink.
+
+"That's not going to help Chiron," he muttered.
+
+Thalia looked up from her pillow. "What isn't?"
+
+"The report. I was supposed to send one today."
+
+"Did you tell him what happened?"
+
+"Not yet."
+
+"Then you owe him one," she said.
+
+Percy sat at the table by the window and began copying the pages. He included the tour location, the woman's name, the Chimera's appearance, the crowd evacuation and the damage to the observation deck. He wanted to skip the part about returning up the stairs after Annabeth had left, but leaving it out would make the account impossible to understand. The reason he'd jumped was connected to the risk he'd taken getting back up there.
+
+Annabeth sat beside him and read the draft without asking permission to rewrite it. She pointed at one line.
+
+"You wrote that there were seventeen tourists on our level when the monster arrived. That's how many I counted when we started moving. I didn't count everybody in the gallery."
+
+Percy crossed out the sentence and made it narrower.
+
+"Seventeen in the part you saw?"
+
+"Yes. Some people were in the other curve and could have left by the opposite stairs."
+
+"Then that's what it says."
+
+He handed her the pencil to mark the approximate times. She remembered the ranger's count and the alarm but wasn't certain about the interval between the first flames and their arrival at the bottom. She left a question mark. Percy didn't erase it.
+
+Grover leaned over from the floor.
+
+"Tell Chiron that I couldn't smell the Chimera until we were near the park," he said. "I don't want him believing satyrs can detect every monster before it gets close."
+
+Percy added that. "Anything else?"
+
+"Thalia kept the monster from reaching the stairs. Annabeth got mortals out. There were people who needed help with shoes, coughing, and the crowd. And you jumped into the river."
+
+"I know I jumped."
+
+"Write it anyway."
+
+Thalia gave a short laugh that turned into a wince. "Grover's right. The whole story matters."
+
+They argued about the wording of the next section. Percy wanted to say the river had saved him. Thalia objected that it sounded as though every child of Poseidon could leap from a national monument and expect a landing softer than a pillow. Annabeth said to write exactly what he'd felt: the current changed, the impact still hurt, and he had reached shore only after fighting the channel.
+
+"Better," Grover said, when Percy read it back. "Less likely to inspire idiots."
+
+"That's a tall order for a story with me in it," Percy answered.
+
+The report ended with a list of current limitations: Annabeth's hand remained sore from the first day's electrical injury, Thalia had a head injury requiring rest and follow-up, Grover's hooves were raw, and Percy had sustained bruises and scrapes. Their next action was to rest in a supervised motel, check whether the courier record had been destroyed in the fire, and contact the camp for updated route information.
+
+Percy stared at the page.
+
+"That makes the whole quest sound like a miserable mistake."
+
+"It makes it sound like an event that happened to actual people," Annabeth said.
+
+He knew she was right. He'd preferred the version where he and his friends emerged from a monster fight muddy but triumphant. The version written on paper included missing visitors, damaged property, medical attention and a delay he couldn't pretend didn't matter.
+
+They sent the report through a brief Iris message from the bathroom mirror, using a cup of clean tap water to catch the light. Chiron appeared at his desk, reading another stack of papers.
+
+He listened while Percy summarized the report, then asked them to send the full written version through Martin's trusted contact. It wouldn't fit into a single conversation. Chiron was visibly relieved that the group had obtained medical assessments and wasn't immediately continuing west.
+
+"Thalia," he said, "you must follow the clinician's instructions."
+
+"I know."
+
+"That wasn't a request."
+
+"I said I know."
+
+"Good."
+
+Chiron asked Annabeth to confirm the shipping record's current status. She could only say the paper may have been moved before the fire and that they had not recovered it. He thanked her for not inventing a positive lead.
+
+The most difficult question came last.
+
+"Has Poseidon answered our message?" Percy asked.
+
+"Not directly. His court has acknowledged receipt. We haven't received a substantive reply about the old routes or his brother's accusations."
+
+Percy had expected that. It still hurt. He was beginning to recognize how easily the gods could turn a child's attempt to ask a question into an unanswered request that stayed unanswered for days.
+
+"Okay," he said.
+
+"Percy, silence at a court is not the same as silence from every person who cares for you," Chiron replied. "Your sisters asked me to tell you the boat repairs are complete and that you should write when you can. I have also received a brief message from Atlantis saying your family knows you're traveling under my authorization."
+
+"That doesn't tell me anything about the bolt."
+
+"No. It tells you what they know."
+
+Percy watched the rainbow fade. The simple distinction settled oddly in him. He wanted answers from his father. He also wanted to know his sisters were still arguing about boats and lunches in a cabin that smelled like home. One need didn't erase the other.
+
+He folded the corrected report and put it in Martin's outgoing envelope. Then he sat down beside Annabeth and let the question of Olympus remain unsolved for the night.
+
 After they'd eaten, Grover curled up on the floor with his wrapped hooves on a pillow and his head on Percy's backpack and fell asleep mid-sentence about clover. ("Tell Juniper the Missouri grass is—") Thalia took the shower first, came out in sweats with her hair dripping, claimed the bed by the window, and was snoring softly within minutes, one hand curled around her new bracelet.
 
 That left Percy and Annabeth on the other bed, backs against the headboard, legs stretched out, sharing the last granola bar.
