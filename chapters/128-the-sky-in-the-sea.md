@@ -485,6 +485,136 @@ The closest Clarisse came to welcome. Thalia accepted it as such.
 
 ---
 
+The training session left Thalia with an uncomfortable question about Clarisse.
+
+They were alone in a small alcove beside the court. The space held a water jar, racks of inspected practice weapons, and a board where the instructor wrote notes about each session. Clarisse was looking at the position of her hands on the spear, turning a borrowed shaft until it rested the way she'd learned.
+
+"Your wrist?" Thalia asked.
+
+"Better."
+
+"That wasn't what I asked."
+
+Clarisse glanced up. "It's sore. I told the instructor, and I stopped when it started pulling. Do you want a written statement?"
+
+"No. I just saw you shifting your weight on every second pass."
+
+"Because the water wasn't moving the same way on both sides."
+
+Thalia considered that. She'd expected Clarisse to deny the discomfort; she'd prepared a lecture about training injuries and overconfidence. Instead Clarisse had answered the question directly and deprived her of any reason to lecture.
+
+"Fair," Thalia said.
+
+"Unprecedented. A Grace girl conceding a point."
+
+"Don't make me regret it."
+
+They sat on the bench. Outside the alcove, a pair of guards carried used staffs to the inspection rack. Neither looked surprised to see two visitors comparing a practice form. The palace had treated the session as training rather than a show, and Thalia appreciated that.
+
+"Would you ever live here?" she asked.
+
+Clarisse's expression closed a little. "No. I have a cabin at camp."
+
+"You might enjoy the training."
+
+"I do enjoy it. That's different."
+
+Thalia nodded. She knew how tempting it could be to accept an invitation because declining seemed ungrateful. Zeus had made plenty of offers that arrived with invisible terms.
+
+"Is it hard to see Percy have a different relationship with your father?" she asked.
+
+Clarisse turned the shaft in her hands, then put it down.
+
+"Yes," she said.
+
+Thalia waited.
+
+"Percy's got Amphitrite and Triton talking about what he did when he was small. He doesn't even remember it. I can be glad they love him and still wonder why Father couldn't find the same time for Silena and me."
+
+"Have you told Percy?"
+
+"He knows some of it. I don't want him acting like an apology machine every time I look at him."
+
+"He might anyway."
+
+"He does. That's his talent."
+
+Thalia thought about Jason at Camp Jupiter, Annabeth at camp, and Zeus's habit of appearing under a different face whenever he felt like being noticed. None of their childhoods had been evenly distributed. Thalia had spent most of hers trying to keep Annabeth safe, then felt guilty on the rare days when she wished somebody else would take a turn.
+
+"Sometimes I resent being the responsible one," she said.
+
+Clarisse looked at her. "That's not the same as resenting your sister."
+
+"I know. Annabeth doesn't always believe me."
+
+"Have you said it that clearly?"
+
+"Not really."
+
+"Then start there."
+
+Thalia leaned back against the bench. Clarisse could be irritatingly sensible when she wasn't trying to win something.
+
+"I don't regret raising Annabeth," she said. "I did miss things. I was tired. And I loved her. I still do."
+
+"Sounds like three true sentences."
+
+"Silena would be proud."
+
+"She'd insist we sit down over tea and discuss our feelings."
+
+"We are sitting down."
+
+"Fortunately without tea."
+
+Thalia laughed. Then she looked at Clarisse's borrowed spear and the note the instructor had written.
+
+"What's that movement you were trying?"
+
+"A turn designed for a current pushing against your front foot. It doesn't make sense in dry sand without changing the timing."
+
+"Show me, slowly."
+
+Clarisse demonstrated without a weapon first. She shifted her weight, turned her hips, and let her rear foot follow the water's pull rather than fight it. Thalia copied the movement and felt immediately why it needed adjustment on land.
+
+"If I tried that at the camp arena I'd overrotate," she said.
+
+"Exactly. I want to show Chiron before I teach anybody."
+
+They drew the foot positions on a spare page. The first diagram looked like two spiders fighting. Clarisse laughed so hard Thalia had to start again. On the second version they marked the direction of current and wrote *not yet approved for dry-ground use* at the top.
+
+The instructor came by to collect the borrowed gear. She checked the sketch and corrected their arrow for the water's direction.
+
+"Your idea is sound," she said. "But the recovery step must come sooner if the current strengthens."
+
+Clarisse thanked her. Thalia watched the exchange without imagining it was a test of pride. The two of them were learning from someone who knew this particular environment better than either did.
+
+When the instructor left, Clarisse folded the paper into her bag.
+
+"You're going to talk to Annabeth?" she asked.
+
+"Yes."
+
+"Not a speech."
+
+"No."
+
+"Just the true part."
+
+Thalia nodded. She wasn't sure she could say everything without making Annabeth feel responsible for all the years she had needed looking after. She could begin with the part she had figured out here, sitting beside a girl who understood that love and anger could occupy the same hour.
+
+"I'll try," she said.
+
+"Good. Now don't get yourself electrocuted in the observatory."
+
+"No actual lightning."
+
+"That would make an excellent rule for the day."
+
+They left the alcove together. Clarisse went to return a practice shield; Thalia took the gallery stairs toward the painted sky. The training note was a small result from a morning of work. The conversation might prove harder to use, but it had given Thalia a better way to begin.
+
+---
+
 Triton found Thalia by the gallery stairs, wax-sealed papers stacked in his hands, sleeves rolled to the elbow showing ropey forearms.
 
 "You have a council meeting?" Thalia asked.
