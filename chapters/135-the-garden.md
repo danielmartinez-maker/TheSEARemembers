@@ -381,6 +381,30 @@ Chiron made a note to check the channel after the next rain. The garden wasn't f
 
 ---
 
+At midday they discovered a problem with the irrigation line. The little trench had been cut to the exact angle on Annabeth's plan, but the water didn't spread evenly when Percy sent a careful stream through it. One bed flooded and another stayed dry.
+
+Silena knelt beside the flooded flowers. "If this happens when no one's here, the seedlings will rot."
+
+Annabeth checked her measurements. "The slope is correct."
+
+"Then the soil isn't behaving like the drawing," Percy said.
+
+"That's not funny."
+
+"I wasn't trying to be."
+
+She tested the channel again with a cup of water. It pooled against an old root just beneath the surface, invisible until the soil had softened. They dug out the obstruction, then discovered the outlet still emptied too fast into the lowest bed.
+
+Clarisse arrived with two short stones and set them on either side of the channel. "Slow it down here."
+
+Annabeth studied the arrangement and shook her head. "That would send water over the path after heavy rain. We need an overflow."
+
+"Then tell me where you want it."
+
+Annabeth drew a shallow branch away from the path, and Clarisse dug it while Percy carried the excess soil to the compost pile. Silena moved three plants farther uphill. Nobody got the design they had imagined at sunrise. The final layout was better, because it accounted for ground they could actually touch.
+
+At the end of the test, Annabeth wrote down the amount of water they'd used and decided they should inspect the beds again after the next rain. A planted garden was not a finished garden. Somebody would have to maintain it after the celebration.
+
 Afternoon stretched long and amber, and the garden took shape.
 
 Moonvine went in along the north edge, tendrils tied to twine trellises with strips of old camp T-shirts. Lavender formed a hazy blue-green hedge behind the marigolds, leaves releasing camphor and honey when bruised. Alyssum foamed white between stones, petals cool as milk against Annabeth's wrists as she tucked them in. In the center, Silena planted a single olive sapling no taller than Annabeth's forearm, leaves silver-green, stem tied to a cedar stake.
