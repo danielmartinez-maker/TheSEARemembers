@@ -4,7 +4,17 @@
 **Working source:** `rewrite/chapters-10k-quality-pass` branched from `edit/chapters-001-036-unified` on 2026-10-12.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Verified length status on the first 36 chapters
+## Chapters 014–044 current 10k-length verification (2026-10-12)
+
+**31 / 31 Chapters 014–044 meet the 10,000-body-word minimum**, each freshly fetched and recounted on this branch. The "first 36 chapters" table farther below records an earlier baseline and is **superseded** for Chapters 014–036. Do not use its old figures to plan subsequent work.
+
+The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,014; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,039**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
+
+Check: **126,339 overlapping 300-word windows** across those final 13 chapters, with zero exact cross-chapter matching sequences, plus single heading and UTF-8 replacement-character checks. This was **not** a full 31-chapter repeat check, a semantic similarity review, a CI run, or a final editorial signoff. Chapters exactly at 10,000 words have no deletion margin.
+
+Full counts, canon corrections and the Chapter 044 continuity handoff: [Chapters 014–044 final 13 editorial handoff](handoffs/ch014-044-final-13-length-qa-2026-10-12.md).
+
+## Historical baseline length status on the first 36 chapters (superseded)
 
 - Passing the length gate: **13 / 36** (001–013).
 - Still short: **23 / 36** (014–036).
