@@ -2475,3 +2475,183 @@ She smiled. "I'll invent new ones."
 He looked pleased by that. She kissed him once more and went down the path, the scarf warm against her face, already thinking of how she would tell him that his stew had looked terrible and that she'd liked his company anyway.
 
 ---
+
+Thursday began with the kind of bright cold that made every metal surface painful to touch.
+
+Thalia had Rhys's scarf tucked under her coat. She hadn't decided whether to return it. Wearing it on the way to breakfast felt faintly ridiculous; leaving it behind had felt worse. In the end she wound it once around her throat and let the loose end disappear beneath the collar. It was plain dark wool, and anyone looking at her would have seen nothing worth remarking on.
+
+She knew exactly where it had come from.
+
+The field was already busy when she arrived. She had no plan to spend long there. Chiron's instructions remained clear, the heel had improved just enough to tempt her into mistakes, and the Thursday beginners were supposed to be an easy session. Rhys was walking the north side of the range, checking the ropes at the far targets.
+
+He looked up as she approached.
+
+"That's mine."
+
+She followed his gaze to the scarf. "Really? I've had it for years."
+
+"Remarkable. I must have been losing it for a very long time."
+
+"You should take better care of your things."
+
+"I was beginning to think you were volunteering."
+
+She stopped beside him. The sun had only just cleared the ridge, and the backs of the targets still carried white beads of frost. Nobody was close enough to hear them.
+
+"Do you want it back?" she asked.
+
+He considered. "Not particularly."
+
+"Then stop complaining."
+
+"I'm not complaining. I'm appreciating how well it suits you."
+
+She felt her face threaten to betray her. She looked toward the targets instead. There was an enormous advantage to having a professional rivalry with someone, and that was the ability to turn away and examine equipment without appearing shy.
+
+"That knot's coming loose," she said.
+
+"Which knot?"
+
+"The one at the far post."
+
+Rhys looked. "That's not loose."
+
+"It will be after the thaw."
+
+He took a moment, then started walking toward the far post. She followed, amused by how easily she'd redirected the conversation. But halfway down the range he slowed to match her careful pace.
+
+"Did you sleep?" he asked.
+
+"Some."
+
+"Good."
+
+"I did not say I slept well."
+
+"Did you?"
+
+She considered. "Better than Monday."
+
+"That's an encouraging trend."
+
+"You're going to take credit for it."
+
+"I was thinking about it."
+
+She glanced sideways. He was smiling with the easy certainty of someone who had finally stopped pretending there was no connection between them. She liked it. She also resented how obvious her liking might become if she let herself keep looking.
+
+At the far post, the knot was sound. Rhys pulled on it once, then looked at her.
+
+"You lied."
+
+"I offered a prediction."
+
+"You predicted a knot would come loose?"
+
+"Eventually, all knots do."
+
+"Very philosophical."
+
+"Don't tell anyone."
+
+He leaned against the post and folded his arms. "You could have just asked me to walk with you."
+
+"Could I?"
+
+"Yes."
+
+She looked at him. "Then I wanted you to walk with me."
+
+His face changed. That was becoming the reward she didn't want to admit she sought. Not obedience. Recognition. He looked at her as though she'd handed him something he'd been waiting to receive, and he was careful not to squeeze the life out of it by asking for more.
+
+"I'm glad you did," he said.
+
+She gave his arm a small shove. "Come on. We're going to be late."
+
+The lesson itself passed without incident. Thalia found she was improving at leaving her bad foot out of the work. She could demonstrate a stance while seated. She could offer a correction without rushing forward to take someone's bow out of their hands. When the students finished, she sat on the equipment bench and discovered that her leg was tired but not aching.
+
+Rhys came over and sat beside her.
+
+"Better?"
+
+She rolled her eyes. "You sound like Chiron."
+
+"One of the great tragedies of my life."
+
+"It's improving."
+
+"Good."
+
+She reached for his hand, cautiously, because three instructors were still gathering arrows at the far end of the range. He let her take it. They sat together in full view, not making a show of anything, and it was the most daring thing she'd done all morning.
+
+"Is this going to make you uncomfortable?" she asked.
+
+He turned toward her. "Holding hands?"
+
+"Being seen."
+
+"Not with you."
+
+She looked away. The answer was too direct to deflect.
+
+"I don't want every person here having an opinion," she said.
+
+"They will anyway."
+
+"Helpful."
+
+"They already have opinions about your target scores. About my cooking. About whether the hall needs another safety line. We don't get to control every opinion."
+
+"We can control what we tell them."
+
+"Yes."
+
+She traced one of the worn seams of the scarf with her free hand. "That's what I want. For now."
+
+He nodded. "Then that's what we'll do."
+
+"What does that mean?"
+
+"That I won't talk about anything private without asking you first. And you don't have to pretend not to know me when we're together in public."
+
+She considered. It was a sensible arrangement, which made her suspicious.
+
+"You've thought about this," she said.
+
+"Since breakfast yesterday."
+
+"How long?"
+
+"Enough."
+
+Thalia watched the last of the students leave the field. A bowstring twanged once from the storage shed, where someone was testing tension before putting equipment away. The sound faded. She and Rhys remained on the bench, their hands together between them.
+
+"All right," she said.
+
+He smiled. "All right."
+
+She moved closer and kissed him once, brief but unmistakable. The sky didn't split. Nobody ran screaming from a cabin. They were two adults sitting on an old bench after a morning's work, and she was kissing the man she'd wanted to kiss since the day he'd corrected her elbow.
+
+When she drew back, Rhys was looking at her with such obvious affection that she felt a surge of pleasure followed immediately by the need to be sarcastic.
+
+"You're going to get insufferable."
+
+"I had excellent teachers."
+
+She laughed. The kiss had been public in the small sense that anyone nearby could have seen it. She hadn't died of embarrassment, and Rhys hadn't transformed into a spectacle. She was relieved by that, although she would rather have swallowed a nail than admit it.
+
+"Tonight?" he asked.
+
+She knew exactly what he meant. The question brought back the cabin, the quiet, the privacy of their last few evenings together.
+
+"After six?"
+
+"After six."
+
+"I might come."
+
+"I'll be there."
+
+She squeezed his fingers one last time before letting go. They stood together and carried the practice bows into storage, arguing about whether the damaged leather cases should be replaced or repaired. It was a normal argument. They could have had it before anything changed between them. Now it took place with a private promise underneath, and she found she liked that almost as much as she liked the promise itself.
+
+---
