@@ -72,6 +72,66 @@ Silena stood beside her in a blue windbreaker, her dark hair braided back, a pra
 
 Triton stood barefoot in the wet sand in a plain sea-green tunic now, his armor stacked neatly by the dunes, his trident planted upright beside him. Without the bronze he looked younger. More like Percy's brother and less like a statue.
 
+The first interruption to the morning lesson came from a child who wasn't participating.
+
+A camper from the Hephaestus cabin approached the beach with a bucket of spare buckles, two poles and a complaint about the location of the practice rack. She was younger than Percy and had been sent to retrieve a set of metal fasteners that had been left out overnight.
+
+"Nobody told us the training was moving here," she said. "Those are for the boat storage racks."
+
+Triton looked toward the old rack. It sat on the outer edge of the practice ground, well outside the surf, with three spears and a box of leather straps propped against its legs.
+
+"Your camp owns the equipment," he said. "Collect what you need."
+
+The girl hesitated. Several older campers were watching. Percy realized how easy it would be for her to stand there until the sea god finished speaking, then leave without the parts she had come for.
+
+"Do you want help carrying them?" he asked.
+
+"I want the list," she answered. "Somebody took the inventory sheet off the rack."
+
+Clarisse had it folded in her pocket. She handed it over without making an argument. The girl checked the numbers, counted the buckles and found that two were missing. Silena offered to look in the equipment crates while the others prepared to train.
+
+Triton stood back.
+
+"Is this a usual part of combat instruction?" he asked Percy.
+
+"No," Percy said. "But everything at camp seems to need a buckle eventually."
+
+"Then you should have enough."
+
+Percy thought his brother was joking. Then Triton asked the younger camper which type of metal would survive saltwater exposure. She gave him an answer about bronze fasteners and protective oil, followed by a longer explanation of why the hinges on the boat racks were corroding. Triton listened more seriously than Percy expected.
+
+"Do the palace forges have a material that holds up better?" she asked.
+
+"Several. But they cost more, and some are difficult to work without a submerged furnace. Do you have the drawing?"
+
+She produced a folded diagram. Triton examined it and suggested a fastening change that would make the rack easier to repair rather than simply adding more expensive metal to it. The girl made a note, then asked whether she could bring the design to Tyson later.
+
+"Of course," Tyson said, delighted.
+
+Percy was struck by the way the conversation had changed the beach. For a few minutes nobody was a prince, an instructor or a hero. The child had a mechanical problem, and the people around her were helping work it out without pretending the answer would be obvious.
+
+They found the missing buckles under a tarp. Silena counted them again and handed the bucket back.
+
+"Thank you," the girl said.
+
+"You're welcome," Silena replied. "Can you let us know if the new fastening design works?"
+
+"I'll test it. I won't promise until I know."
+
+Triton looked pleased.
+
+"An admirable answer."
+
+The girl walked back toward the workshop. Percy watched her go and wondered how often he'd been impatient with people who interrupted his training for ordinary work. He could practice for hours and still need somebody to keep the boats from falling off their racks.
+
+Triton returned to his place by the surf.
+
+"Where were we?"
+
+"About to get humiliated," Clarisse said.
+
+"Yes," Triton answered. "A traditional place to begin."
+
 "Atlantean combat," Triton announced, "is not surface combat that happens to get wet. It is a different element. On land you fight gravity. In the sea you negotiate with it."
 
 Clarisse snorted. "Great. Philosophy. Can we hit stuff?"
