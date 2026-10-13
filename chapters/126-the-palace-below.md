@@ -635,6 +635,113 @@ Percy watched the conversation move easily without him. His sisters were not mer
 
 ---
 
+Percy had expected to see his father again before dinner. By the time they left the workshop, no message had come.
+
+Triton checked the schedule while the others were returning borrowed tools. The line for the harbor walk was still marked *unconfirmed*.
+
+"Father hasn't said whether he'll come," Percy observed.
+
+"No. His office sent word that he's occupied."
+
+"Did he ask when we'd be finished?"
+
+"Not specifically."
+
+Percy looked toward the palace windows, where daylight was breaking into blue sheets against the water. He felt foolish for being disappointed by something nobody had promised. He'd done that often enough in the past that he should have learned.
+
+Clarisse came up behind them carrying the approved sketch of the stable rail.
+
+"Is that about Father?" she asked.
+
+"Yes," Percy said.
+
+"Then don't make the whole day wait. I want to see how they fit the new support tomorrow, and I don't want to miss the inspection because someone thinks a king might stroll by."
+
+Triton nodded. "The repair crew expects the master at first light. Guests can watch if the workers agree, but nobody will be allowed inside the pen while the bar is tested."
+
+"Then tell them we'll ask at breakfast," Clarisse said.
+
+Silena joined them with a small swatch of finished fabric. She had been offered a demonstration of the weaving equipment but had declined to stay beyond the workers' scheduled shift.
+
+"They have their own work to do," she explained. "I can come back if it's convenient. I don't want to be the guest who keeps asking for one more sample until everybody is late going home."
+
+Percy watched her tuck the swatch into an envelope. He'd spent so long imagining the palace as a place of unlimited wonders that he'd forgotten every demonstration required somebody to prepare it.
+
+"Did you get what you needed?" he asked.
+
+"Enough to try an experiment at camp. If it fails, I'll write and ask a better question."
+
+Annabeth was still comparing the new stable measurements with her sketch. She looked up when she heard Percy mention the schedule.
+
+"Could we talk to the maintenance supervisor before we leave?" she asked Triton.
+
+"What do you need?"
+
+"I want to know whether the repairs to the garden and stable rail are recorded in the same system. If they aren't, a future crew might fix one part without realizing it changes the load on another."
+
+Triton thought for a moment. "The garden has its own records. The stables use a different team."
+
+"Then that difference matters."
+
+He arranged a brief meeting in a room off the main corridor. The supervisor was a woman with oil-stained fingers who was finishing her shift. She listened to Annabeth's question and explained that major structural changes were copied to a central archive, while ordinary maintenance remained with the individual departments.
+
+"And who decides when an ordinary repair becomes a structural change?" Annabeth asked.
+
+"The supervisor responsible for the area."
+
+"Then the nursery shelf needs a copy in the central file if the channel is being altered."
+
+"It does," the woman said. "The gardeners have already submitted one."
+
+Annabeth looked pleased. "Good."
+
+The supervisor let them examine a blank work order and showed them how the date, location, inspection and approval fields were used. Percy could see why his sister cared: a palace could survive for thousands of years only if people remembered not just how to build it but how to tell the next person what had changed.
+
+Clarisse asked what happened when an item failed a second time after repair.
+
+"We close it, investigate the cause and revise the method," the supervisor answered. "We don't call the previous repair successful just because it held for one day."
+
+Percy thought of the stable rail and the nursery shelf. Both had been fixed recently. Neither was finished being tested.
+
+At the end of the conversation, the supervisor offered to send copies of the public maintenance procedures to Annabeth's camp address. Annabeth accepted, then asked the woman to confirm that the documents could be shared with Chiron without exposing protected palace routes. The supervisor agreed to mark the appropriate pages.
+
+They left her to finish her work. Thalia waited in the hall, leaning on a pillar with her arms crossed.
+
+"Did you enjoy your meeting?" she asked.
+
+"Immensely," Annabeth said.
+
+"That was not sarcasm, was it?"
+
+"No."
+
+Thalia groaned. "I have raised someone who thinks filing systems are a recreational activity."
+
+"You raised someone who checks whether walls fall down," Annabeth replied. "You're welcome."
+
+Percy laughed. He felt less troubled by his father's absence while he watched them argue. Not because the absence had stopped hurting, but because his family didn't need to sit idle until he arrived.
+
+Amphitrite came to find them as the evening lights brightened. She asked whether they'd enjoyed the day and listened as each of them described a different part of it. Clarisse spoke about the training pool and the rail. Silena talked about the weaving. Annabeth had three observations about the archive. Thalia asked whether the observatory was safe for people with lightning abilities, and Amphitrite promised an engineer's explanation rather than an improvised demonstration.
+
+Percy told her about the copied training-stage record. She recognized it at once, but didn't add another childhood story until he asked. He liked that.
+
+"We have seen more than I expected," she said.
+
+"We haven't seen the harbor," Percy replied.
+
+"We have time another day."
+
+"Father may not."
+
+Amphitrite looked at him. "Then you can ask him when he is available, rather than waiting until he decides for you."
+
+He nodded. A little of the disappointment returned, but it was bearable. He could ask. The answer might still be no.
+
+They walked toward the family dining room. Percy had expected the palace tour to be about impressing his sisters. Instead, much of what they'd done involved learning who maintained the places they visited and what happened when something didn't work. It was not the shining, effortless Atlantis he'd pictured. He trusted it more for being real.
+
+
+---
+
 By late afternoon, the family gathered in the small dining room overlooking the garden. A bowl of water at the table’s center reflected the sea above. Roasted shellfish, kelp rolls, citrus, and warm bread passed from hand to hand.
 
 Clarisse chose a spot with a view of the doors. Silena sat beside her. Annabeth and Thalia settled across from them. Tyson sat next to Percy, who had to move his chair twice to leave enough space for Tyson’s shoulders.
