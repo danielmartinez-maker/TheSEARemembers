@@ -7898,3 +7898,245 @@ He laughed. "Even if the knot's terrible?"
 Outside, the snow began falling again. The new box sat on the workbench with his pencils arranged inside it. Thalia looked at it once before they turned down the lamp, pleased by the thought that something she'd made would travel with him when he went.
 
 ---
+
+## February 18: The Sound of Not Playing
+
+By Sunday, Rhys had made the sore hand everybody else's problem.
+
+He had been told to rest it for three days. Two had passed. He had obeyed the instruction for perhaps four hours, then begun moving pencils around the workbench and pretending that working on arrangements did not involve the same joints he was supposed to leave alone.
+
+Thalia found him sitting beside the window with a book open on his lap. The guitar was in its case. That ought to have been reassuring. Instead the book was upside down.
+
+She stood in the doorway long enough to decide he had noticed her.
+
+"Your education is coming along badly," she said.
+
+Rhys looked down. "It was right side up earlier."
+
+"That's what worries me."
+
+He shut the book and set it on the chair. His injured thumb was wrapped in a clean strip of cloth. He kept the hand resting against his leg, which told her that it hurt more than he had admitted when she left on Friday.
+
+"How's the hand?"
+
+"Annoying."
+
+"Excellent. It's developed your personality."
+
+"Someone had to."
+
+She hung up her coat and sat beside him. She had come expecting to find him practicing a piece or getting ready for supper. Instead he looked frustrated enough to throw the book through the window, and his inability to do anything about the frustration made him look worse.
+
+"What's wrong?" she asked.
+
+"I have six weeks of music ahead of me. I'm supposed to be getting ready. I can't even turn a tuning peg without my thumb reminding me that I was an idiot."
+
+"You're healing."
+
+"Slowly."
+
+"Two days."
+
+He looked at her. "You have no idea how long two days are when you can't do the thing you're supposed to be good at."
+
+Thalia opened her mouth, ready to describe her own weeks with the bad heel. Then she stopped. He knew she'd been injured. The fact that she'd endured something difficult didn't make his frustration unreasonable.
+
+"Fine," she said. "It feels longer."
+
+"Yes."
+
+"And you're angry."
+
+"Very."
+
+"Then be angry."
+
+He laughed once, without amusement. "What does that accomplish?"
+
+"Nothing. Not every feeling has to accomplish something."
+
+He stared at her. She had used the tone she normally reserved for declaring that a target had been measured incorrectly. The irony was not lost on either of them.
+
+"You've been taking notes," he said.
+
+"From the worst teacher I've ever met."
+
+He smiled, but his attention wandered toward the guitar case again.
+
+Thalia followed his gaze. "Do you think they'll change their minds?"
+
+His head snapped back toward her. The question was too close, and they both knew it.
+
+"I didn't say that."
+
+"You didn't have to."
+
+He was silent. She waited, though waiting did not come naturally. At last he leaned back against the wall.
+
+"They heard me play once," he said. "One audition. They decided I was worth inviting. What if I show up and they realize they were wrong?"
+
+Thalia could have answered with a list of reasons he was talented. She knew several. She'd watched him perform in front of the camp, heard the arrangements he'd worked on until midnight, seen other musicians take his ideas seriously. None of that would settle a fear he had already learned to argue against.
+
+"Then you'll learn something," she said.
+
+He looked at her.
+
+"And you'll still be the man who can play the tune you spent months writing," she continued. "It won't vanish because one group of musicians dislikes your tempo."
+
+"Very comforting."
+
+"I'm not trying to comfort you."
+
+"That much is clear."
+
+"I'm trying to tell you that you have work worth doing even if somebody doesn't approve it."
+
+He turned that over in silence.
+
+"I don't like thinking I might fail," he said.
+
+"Nobody does."
+
+"You seem perfectly happy to."
+
+"Then you haven't watched me lose at anything."
+
+He laughed, properly this time. She was relieved, though she made no effort to show it.
+
+They sat for a moment without speaking. Then Rhys reached for the book again, looked at it, and put it down.
+
+"I don't know what to do with myself."
+
+"Come out."
+
+"Where?"
+
+"Anywhere. You can walk without using your hand."
+
+"You've been consulting Chiron."
+
+"Chiron would make it sound less fun."
+
+He put on his coat. She took the scarf his mother had made her and wrapped it around her neck. They went down the lower path toward the shore, where winter had thinned the crowds and the cold kept everyone moving.
+
+The air smelled of water and damp earth. A few patches of snow survived under the trees, grey at the edges. The lake was restless, dark ripples running toward the near bank.
+
+Thalia stopped beside the old wall.
+
+"Tell me something else," she said.
+
+"About my hand?"
+
+"About the music. Something you haven't told me."
+
+He thought for a moment. Then he said, "I don't actually like performing as much as writing."
+
+She looked at him. "You were the one who went to the audition."
+
+"I like playing. I like being good at it. But the part I think about when I'm trying to sleep isn't people applauding. It's the moment a piece finally starts making sense."
+
+She considered. She remembered the night she had found him with the guitar, missing the same transition over and over. She had liked watching him work long before he had finished the song.
+
+"Then why audition?"
+
+"Because if I want to keep writing, I need to understand what other musicians can do with what I make. And because I don't want to spend the rest of my life being afraid to find out."
+
+Thalia turned toward him. "That's a better reason than applause."
+
+He smiled faintly. "I thought you'd say so."
+
+They walked back slowly. The conversation moved toward other things: whether he would have time to visit his mother between performances, what she planned for the next advanced lesson, whether the stubborn piano in the hall was worth repairing or better left as a cautionary tale. Rhys seemed less inclined to stare at his injured hand when he was occupied arguing about the piano.
+
+By the time they reached the cabin, the sun had gone down and the cold had moved into the air.
+
+He opened the door and let her enter first.
+
+"Better?" she asked.
+
+"Somewhat."
+
+"Then I've performed a public service."
+
+"Should I write you a commendation?"
+
+"Please don't. Annabeth would frame it."
+
+He laughed. She turned toward him and reached for his coat. She eased it from his shoulders, careful of the wrapped hand, and let it fall over the chair. The slight physical closeness was enough to change the air between them. She had been thinking about touching him for much of the walk, and now the warmth of the room made it possible to stop pretending she wasn't.
+
+She moved closer. He watched her with an expression that had become familiar: eagerness held in check only by the knowledge that she liked choosing when to cross the last inch herself.
+
+She kissed him.
+
+He answered immediately, his uninjured hand settling at her waist. She caught the back of his collar and drew him nearer, enjoying the warmth of his response and the way he smiled briefly against her mouth. The sore hand remained close to his body. She didn't ask him to perform competence through pain. They had enough other ways to be close.
+
+She drew back and looked at him.
+
+"What?" he asked.
+
+"You're not thinking about the audition."
+
+"Not right this second."
+
+"Good."
+
+He kissed her again, more eager now. She laughed softly and leaned into him until she felt the edge of the table behind her. He stopped before either of them knocked something over, but she was still smiling at the narrow escape.
+
+"Your room is an obstacle course."
+
+"You keep arriving determined to prove it."
+
+She caught his shirt and led him away from the table.
+
+The lamplight caught the side of his face. She wanted to see him like this, warmed by the walk and the kiss, no longer measuring himself against people he'd met for twenty minutes during an audition. She drew him down beside her on the cot. Their knees touched. He pressed a kiss to her cheek, then her neck, and she closed her eyes, content to let the evening slow into something that belonged entirely to them.
+
+After a while she reached to turn down the lamp. He caught her hand with his uninjured one and kissed her knuckles.
+
+"Thank you for getting me outside," he murmured.
+
+"You were becoming unbearable."
+
+"True."
+
+She kissed him again.
+
+The rest of the night passed without guitar music.
+
+***
+
+In the morning Rhys woke to find a note on his workbench.
+
+*Stop practicing with the hand until it heals. The world will survive three days without your genius. I probably won't survive three days of you complaining.*
+
+Below it, in smaller writing, Thalia had added:
+
+*I had a good night. Don't make that the subject of a song.*
+
+Rhys read it twice and laughed aloud.
+
+Thalia was already at the range, setting up her lesson. When he arrived she looked up and saw the expression on his face.
+
+"Don't."
+
+"I haven't said anything."
+
+"You've got the face."
+
+"The note was very kind."
+
+"It was an order."
+
+"Of course."
+
+He moved close enough to lower his voice.
+
+"I had a good night too."
+
+She tried to look unimpressed. The effort failed.
+
+Then she pointed toward the bench where the wrapped hand ought to be resting.
+
+"Sit."
+
+He did, still smiling.
+
+---
