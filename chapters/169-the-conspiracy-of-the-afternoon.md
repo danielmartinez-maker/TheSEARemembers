@@ -600,9 +600,32 @@ Percy and Annabeth came up behind them hand in hand, the fleece over both their 
 
 "Yeah," Percy said. "She will."
 
-They walked the switchback together in the blue dark, sneakers slapping the path, their hands laced cold and warm between them, the five lanterns swinging ahead of them up the hill, and the light coming on in the cabin windows at the top, warm and gold: Tempest Hall with its high windows lit, the corner bunk made up tight, the round white rock centered on the pillow, the whole ordinary precious thing held together against the cold by nothing more complicated than people who had chosen it, and then chosen it again, and would choose it again in the morning.
+At the top of the switchback, Percy stopped at the sight of the white stone on the corner bunk. It had been placed almost exactly at the center of Tyson's folded shirt. Nobody in the cabin had moved it since the farewell. Clarisse had moved a lot of other things, but not that.
+
+"Did somebody dust his bunk?" Percy asked.
+
+Silena glanced back, the cake plate balanced on one palm. "I did the window. Didn't touch the stone."
+
+"The blanket's straight," Annabeth said.
+
+"Clarisse straightened it yesterday," Silena replied. "She'll deny it if you ask."
+
+From inside the cabin Clarisse's voice cut through the open door. "I can hear you."
+
+"Then you know what I said."
+
+Percy set the satchel by the entrance rather than beside the spare bunk. He had been carrying it across his shoulder since the dock and was abruptly tired of the strap. Annabeth followed him in, putting the canoe notes where they'd be found when someone checked the equipment again.
+
+Silena turned to Thalia. "You still have the lantern count?"
+
+"Five came back. Five go in the book."
+
+"Good. Put your name beside it."
+
+Thalia opened her mouth, prepared to complain that she didn't need a ledger for every good evening, then took the pencil and signed. Annabeth watched with an expression Percy recognized: she was already working out how she'd mark the return of the canoe and the condition of the landing before the next cold morning.
+
+He didn't stop her. Instead he picked up the empty cups. Clarisse had the stove going and was looking for a clean pan. Somebody had to deal with the ordinary aftermath of their conspiracy. If the afternoon had worked, the evidence was the pile of dishes and a family disagreeing about whose turn it was to wash them.
+
+Percy volunteered before the argument could start. Clarisse handed him a towel, Silena offered to help, and Annabeth stayed by the table to finish the note. The bunk remained exactly as it was.
 
 ---
-
----
-
