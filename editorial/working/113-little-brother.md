@@ -655,3 +655,349 @@ Percy went out grinning. Clarisse watched him leave and was startled by how much
 She pulled the blanket up, closed her eyes and tried to sleep before she changed her mind and called him back.
 
 ---
+
+Percy had made soup before. He had even made edible soup before, though Clarisse would have disputed the definition if anybody asked her.
+
+The camp kitchen was nearly empty when he arrived. Two satyrs were washing pots, and a girl from Demeter was sorting herbs into bundles. Silena stood at the counter with a notebook and a small pot set over the lowest flame.
+
+"Did Will say she can have soup?" she asked.
+
+"Yes. Small portions, nothing heavy."
+
+"Then we can do this."
+
+"Why do you sound nervous?"
+
+"Because you said you wanted to make it yourself."
+
+"I have an excellent record."
+
+"The last time you said that, you put three spoonfuls of salt into a stew because you thought you were using sugar."
+
+"In my defense, they were in identical bowls."
+
+"One had SALT written on it."
+
+"On the side facing away from me."
+
+Silena shook her head and pushed the knife toward him. "Chop these. Small pieces, not the enormous ones you like."
+
+He cut the vegetables while she measured broth into the pot. When he tried to add everything at once, she stopped his hand and explained why some pieces needed longer to soften. He listened. This wasn't a contest, and he wasn't trying to impress anybody by pretending to know things he didn't.
+
+Silena tasted the broth and pointed to the herbs. "One pinch."
+
+"Mine or yours?"
+
+"Mine."
+
+"That's discrimination."
+
+"It's accuracy."
+
+He added the herbs. The soup smelled better as it warmed. Percy stirred slowly, watching the pieces soften.
+
+"Did Katie like the sign?" he asked.
+
+"She did. It's hanging in the garden now."
+
+"Charlie helped?"
+
+"He put in the mounting board."
+
+Percy glanced up. "Did he?"
+
+"Do not."
+
+"I didn't say anything."
+
+"You were about to."
+
+He smiled into the pot. She caught his expression and shook her head.
+
+After a while, he asked the question he had been saving. "Are you upset with Clarisse?"
+
+Silena kept her eyes on the broth. "Why?"
+
+"She sounded annoyed when she asked if you'd gone. I don't know exactly what happened."
+
+"She called me Mother. Not in a particularly kind way."
+
+"Oh."
+
+"She's sick and angry about it. I know."
+
+"That doesn't mean it was fair."
+
+"No," Silena said. "I do things for both of you because I want to. Sometimes people forget I have things to do for myself as well."
+
+Percy nodded. He had needed her help with the soup. She had given it, even after spending most of the afternoon on a painting project. He didn't want to confuse her generosity with an obligation.
+
+"You can go if you've got other things," he said.
+
+"I'm here because I want to finish this. Don't start assigning me free time, either."
+
+He laughed. "Right."
+
+She handed the spoon back. "Taste it."
+
+He did. It was salty in the good way and a little thin. He considered adding something.
+
+Silena pointed at him. "Don't."
+
+He closed his mouth.
+
+She ladled a portion into a covered bowl and wrapped a cloth around the base so it was safe to carry. Percy took it with both hands.
+
+"Thanks for helping," he said.
+
+"You're welcome."
+
+"You did most of the work."
+
+"I told you what to do. You did it. That's how teaching works."
+
+He looked at her. She said it as a simple fact. Maybe being the youngest didn't mean waiting for someone older to fix everything; maybe it meant being shown how to start and then being expected to try.
+
+Silena tucked a spoon beside the bowl. "Go on, before you eat it yourself."
+
+"I'd never."
+
+"Percy."
+
+"I'll resist."
+
+He left with the soup warming his hands.
+
+---
+
+Clarisse smelled the soup before she saw him.
+
+She had spent the previous hour trying to read the training report Chiron had sent with a note to leave it alone until she was well. She had read the first page twice and kept losing her place. At last she'd folded it under her pillow so Will wouldn't see.
+
+Percy came in carrying the covered bowl as though he were transporting a fragile artifact.
+
+"Delivery," he announced.
+
+"Did you steal it?"
+
+"Only from the kitchen."
+
+"Then it's stolen."
+
+"Will approved the operation."
+
+Will, changing a water pitcher at the next bed, looked over. "I approved a small portion, if she wants it."
+
+Clarisse wanted it. She hadn't realized how hungry she was until the smell reached her.
+
+Percy lifted the lid. Vegetables floated in a clear broth, cut into pieces just small enough for her to eat without making a mess.
+
+"Looks suspicious," she said.
+
+"I didn't poison it."
+
+"That's what someone who poisoned soup would say."
+
+He held out the spoon. She took it to prove she could. Her hand shook a little as she lifted it. Percy steadied the tray so the bowl wouldn't slide. He didn't reach for the spoon or try to feed her.
+
+The first mouthful was warm and surprisingly good, like the kitchen at the end of a long training day when someone had saved the hot food because she'd been late. There was salt, onion and a little sharpness from the herbs. Not perfect, but good.
+
+She took another spoonful.
+
+"You made this?"
+
+"With Silena."
+
+"How much did she make?"
+
+"She supervised."
+
+"So most of it."
+
+"She says this counts as teaching."
+
+Clarisse studied him over the bowl. He looked hopeful and tired. There was a pale smudge along one cheek, and his hair refused to lie flat. She wanted to tease him. She also didn't want to ruin the look on his face.
+
+"It's good," she said.
+
+Percy blinked. "Really?"
+
+"Don't make me repeat it."
+
+He grinned. She went on eating.
+
+When the bowl was half empty, he asked how she felt. She said fine, which was a lie. He looked at her but didn't argue. Instead he told her about the assessment, including the mistakes he'd made and how the younger campers had behaved afterward. He didn't claim he'd run it as well as she would have.
+
+"They listened to you," she said.
+
+"Eventually."
+
+"They're new. They listen to anybody holding a whistle."
+
+"That was painfully clear."
+
+She laughed, then coughed and had to stop. Percy reached toward her water. She took the cup herself.
+
+"Thanks," she said when the cough settled.
+
+There was something humiliating about being seen this way: too weak to lift a bowl without it rattling against the tray. Clarisse had built so much of her life around being the person who could stand when other people fell that she didn't know what to do with lying down.
+
+"Don't you have somewhere to be?" she asked.
+
+"Annabeth's checking the beach map. I'll see her later."
+
+"You should go."
+
+"Do you want me to?"
+
+The easy answer was yes. She could send him away and recover her pride, then spend the afternoon resenting the empty chair. He had given her a chance to be honest without demanding honesty.
+
+"Not yet," she said.
+
+"Okay."
+
+He sat back.
+
+"Tell me about the fishbone mark," Percy said.
+
+"It's a reminder about footwork."
+
+"Why a fishbone?"
+
+"Because that's what the stance looks like when somebody gets it wrong."
+
+"That is extremely unkind."
+
+"It's accurate."
+
+He laughed. She explained the rest of her shorthand while he listened. When Will came to check her temperature, Percy got up.
+
+"You don't have to stay," Clarisse said.
+
+"I know."
+
+"You've got other things."
+
+"I do. I'll come back if you're up for company."
+
+She nodded.
+
+The soup was almost gone when he left. Clarisse had eaten it herself. That mattered more than she expected.
+
+---
+
+Annabeth visited with a book, not a medicine bottle.
+
+She'd checked with Will before coming in, and he'd told her Clarisse was awake but tired. Annabeth took a chair beside the bed and opened a battered history of the Big House she'd borrowed from the library.
+
+Clarisse watched her for two full minutes.
+
+"Are you going to read to me?" she asked.
+
+"Only if you ask."
+
+"Then why are you here?"
+
+"To sit with you. I can read while you rest."
+
+Clarisse looked at the book. "Architecture?"
+
+"History. Mostly building history."
+
+"You and Percy deserve each other. He thinks old repair reports are entertaining."
+
+"Sometimes they are."
+
+"That's horrifying."
+
+Annabeth smiled and turned the page. Clarisse wanted to keep talking, but the room was warm, and it was easier than she expected to listen to someone else breathe.
+
+After a while she said, "You love my brother."
+
+Annabeth looked up. She didn't make a show of considering it.
+
+"Yes."
+
+"And he loves you."
+
+"Yes."
+
+Clarisse nodded. She had watched the two of them through arguments, awkward group meals and quiet walks. She knew their relationship wasn't based on both of them being cheerful all the time. They liked each other when nobody was watching and could disagree without the other person leaving.
+
+"Good," she said. "He's a good kid."
+
+"I know."
+
+"He deserves somebody who tells him when he's being an idiot."
+
+"I do that already."
+
+"Keep doing it."
+
+Annabeth closed the book over one finger.
+
+"Clarisse, you know he doesn't stop being your brother because he loves me, right?"
+
+Clarisse's face heated for a reason that had nothing to do with the fever.
+
+"I know."
+
+"Good."
+
+Annabeth reopened the book.
+
+Clarisse stared at her. "That's it?"
+
+"That's it."
+
+"You're not going to tell me I deserve people who care about me too?"
+
+"Would you like me to?"
+
+"No."
+
+"Then I won't."
+
+Clarisse tried to hold on to the glare. It didn't work. She laughed, then winced at the pain in her throat.
+
+Annabeth turned another page. After several minutes she asked if Clarisse wanted to hear about an older version of the Big House roof that had been built at the wrong angle and leaked for years.
+
+Clarisse considered. It sounded ridiculous. It also sounded a little like their own cabin.
+
+"Fine," she said. "But if you start listing measurements, I'm going to fall asleep."
+
+Annabeth started reading.
+
+Clarisse did fall asleep a little later. It wasn't pretend.
+
+---
+
+By morning, the fever had not vanished. Will checked Clarisse again and said she was improving, but still needed rest and fluids. No arena. No long walks. No dramatic return to duty because she'd managed to keep down two bowls of soup.
+
+Clarisse objected to every part and obeyed it anyway.
+
+Silena came after breakfast with news from the garden room. The sign was up. Katie had sent fresh mint and a thank-you note. Clarisse made Silena describe where they'd hung it and whether the painted vine looked crooked from the path.
+
+"It looks good," Silena said.
+
+"I'll judge when I see it."
+
+"You can judge when Will says you can walk that far."
+
+"Everybody keeps saying that."
+
+"Everybody keeps being right."
+
+Clarisse turned the mint sprig between her fingers. It smelled sharp and clean. Silena had brought something from outside the infirmary, something she'd made while Clarisse was stuck in bed. Clarisse was glad to hear about it, and ashamed of the small part of her that had wanted Silena to stay miserable beside her until she was better.
+
+"I'm glad you went," she said.
+
+Silena looked surprised.
+
+"I mean the sign. I want to see it."
+
+Silena sat beside her. "You will."
+
+They didn't talk about the remark Clarisse had made the day before. Not yet. But Silena stayed a little longer, and Clarisse didn't ask her to prove anything by canceling the rest of her afternoon.
+
+---
