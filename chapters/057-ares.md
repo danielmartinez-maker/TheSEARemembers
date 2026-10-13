@@ -586,6 +586,58 @@ But for this minute, on this beach, with the sea remembering their names and hol
 
 ---
 
+The beach had not returned to normal all at once.
+
+A lifeguard approached from the direction of the pier, followed by a man in a city maintenance vest. They were looking at the churned sand, the broken motorcycle and the scorch marks close to the water. The Mist was already trying to give them a harmless explanation. Percy could tell because the maintenance worker kept calling the motorcycle a damaged beach-cleaning machine even while staring directly at the handlebars.
+
+"Is everybody okay?" the lifeguard asked.
+
+Percy started to say yes.
+
+Annabeth cut him off. "We're hurt, but we're getting help. The area near the water isn't safe until the people handling the equipment say it is."
+
+The lifeguard nodded and radioed for another person to keep visitors clear of the churned sand. He didn't ask why a boy in an orange shirt was bleeding from three places. Percy suspected the Mist had given him a version of events that was just plausible enough to fit with an ordinary summer accident.
+
+"Did anyone else get hurt?" Grover asked.
+
+"Not that we know of," the lifeguard answered. "There were people who fell when they heard the noise, and a child who ran into a bench, but everyone's been accounted for. We're checking."
+
+Percy felt a knot in his stomach loosen. He hadn't looked toward the pier once Ares drew his sword. The fact that nobody else appeared to have been seriously injured was luck, not proof that their plan had protected everyone.
+
+The armory representative asked the maintenance worker to stand clear of the sealed container while she finished her inspection. He saw an equipment case, not Zeus's weapon, and kept his distance.
+
+Martin led the group toward the first-aid station. He had a paper with the location of the closest urgent-care clinic and Chiron's contact details written on it. Percy wondered how many times the man had had to rearrange a route because a fight had left somebody injured. The answer was probably more than his original driving agreement had anticipated.
+
+At the clinic, the attending professional checked Percy's ribs and cuts, asked how he'd sustained the blows and recommended further evaluation for any signs of worsening pain or difficulty breathing. Percy could not give an entirely ordinary account of being hit by a god, but he could describe where it hurt and what movements made it worse. He was becoming better at that, if only because Annabeth wouldn't let him pretend every injury was a bruise he could ignore.
+
+Thalia had been evaluated for her earlier head injury after the Arch. The clinician now asked whether she'd developed any new dizziness, headache or other symptoms during the fight. Thalia answered carefully. She couldn't claim the events at the beach had been gentle, and she didn't try. The advice to rest and avoid further impacts remained in force.
+
+Annabeth's recovering hand was checked again. The clinician said the burn still needed care and that she shouldn't expose it to more heat or electricity. Annabeth looked at Percy when she heard that, and he could tell she was thinking about how close they'd come to repeating the mistake from the Fury fight.
+
+Grover's injuries were minor by comparison but no less exhausting. His hooves were badly rubbed, his lips sore from playing the pipes for so long, and he had a scratch near one horn from falling when the roots snapped. He insisted on describing everything in exact detail, partly because the nurse had finally asked about his pain rather than treating him as a helper for the others.
+
+When they left, Martin held the discharge papers. He didn't make a speech about how foolish they'd been. He asked where they would sleep and how the armory representative intended to transport the sealed weapon.
+
+"The court is arranging a transfer tonight," she said. "You may travel in the same group once the children have had food and the necessary rest. The containment vessel remains in my custody."
+
+Percy looked at her. "Can you tell Zeus we're all alive?"
+
+"I can confirm the party's condition at the time of departure. I cannot promise what the king will do with that information."
+
+He nodded. It was becoming easier to recognize a careful answer even when it wasn't comforting.
+
+Martin found a place for them to eat near the clinic. They sat beneath an awning, too tired to talk about the fight in detail. Percy stared at the menu and realized he was hungry in the ordinary, terrible way of somebody who'd missed too many meals.
+
+Silena would be furious if she found out he hadn't eaten since the Underworld.
+
+He ordered something substantial. Annabeth copied him, and Grover asked for a salad before remembering he could also have bread. Thalia drank two glasses of water before looking at her food.
+
+Percy watched the crowd on the sidewalk. The people moving past had no idea what had been hovering over the shore earlier. They were going home or going to work, and he wanted very much for them to be able to keep doing that. He'd spent so long thinking of the master bolt as a prize to carry back that he'd almost forgotten its return was meant to keep ordinary lives from becoming casualties.
+
+When the waiter brought their plates, Percy put away his sword and ate.
+
+---
+
 The sun touched the water.
 
 Percy closed his eyes and let the tide wash over his legs, carrying away blood and ash, leaving salt and strength behind.
