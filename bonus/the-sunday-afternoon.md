@@ -4233,3 +4233,91 @@ Then she played the last measure again, more slowly, and this time she got it ri
 She was pleased. She would tell him.
 
 ---
+
+## December 12: Sunday, If the Trains Behave
+
+The return date came on a postcard.
+
+Thalia knew something had changed before she read it. Rhys had written across the back in broad, uneven lines, squeezing the last words along the bottom edge. He had apparently chosen the postcard because he couldn't find an envelope, or because he wanted the message to move faster, or simply because he knew she'd find the ridiculous picture on the front offensive. It showed a cheerful cartoon locomotive in a station full of flowers. A caption declared that travel was the best part of any holiday.
+
+She stared at the caption with deep personal dislike.
+
+On the back he had written:
+
+*I have a ticket for Sunday, December 17. My mother has the repairs arranged, the paperwork is nearly finished, and she has informed me that I am becoming insufferable in her kitchen. I take this as an instruction to return to camp.*
+
+*I should reach the road gate in the late afternoon. If the train is delayed, I will send word. I am looking forward to seeing you. I am also looking forward to discovering what you've done to the target distances in my absence.*
+
+*Rhys.*
+
+A small line at the bottom read:
+
+*I still have the photograph.*
+
+Thalia turned the postcard over and looked at the cartoon locomotive again.
+
+"Idiot," she said, smiling.
+
+She read it twice more, then carried it into Cabin One, where Annabeth was working on a model of the east wall. Her sister looked up as Thalia came in.
+
+"Good news?"
+
+"Yes."
+
+"Rhys?"
+
+"He's coming Sunday."
+
+Annabeth's expression changed immediately. She looked delighted, and this time she didn't bother concealing it.
+
+"Then you'll stop checking the mail every twenty minutes."
+
+"I haven't been checking every twenty minutes."
+
+"Twenty-five, perhaps."
+
+Thalia picked up a pencil from the table and tucked it behind Annabeth's ear.
+
+"You look like a building inspector."
+
+"I am a building inspector."
+
+"Very terrifying."
+
+Annabeth laughed. The sound startled Thalia with how much she had missed it. She hadn't stopped spending time with her sister while Rhys was away, but there had been a part of her attention that kept wandering north, toward an empty cabin and a postponed future. Now the future had a date. She could stop treating every morning as a test of how well she endured waiting.
+
+At supper she considered what to do for him.
+
+She could clean his cabin. That would be useful and intrusive. He had left the room in order, and it was not hers to rearrange. She could prepare food, but he would probably arrive tired and hungry, and a meal was an entirely ordinary thing to offer. She could meet him at the gate. She would. The difficulty was that she wanted to do something more specific than provide a welcoming committee.
+
+She thought about the music he'd sent.
+
+The winter concert had been scheduled for the following week. She had not offered his composition to the organizers because she had not yet received an answer to her letter asking permission. She could play it privately for him, as she had promised. But if he was tired from traveling, the last thing he'd need was an immediate recital.
+
+She could wait.
+
+That was a new idea.
+
+She went to the north cabin on Thursday to check that the stove had been cleaned. The other Apollo instructors had been keeping it ready between lessons, and the room smelled faintly of cold ashes and pine. Rhys's workbench was exactly as he'd left it. His remaining glove lay in the drawer beneath the small table. The photograph she'd allowed him to keep had gone with him.
+
+Thalia stood by the cot and looked at the empty space beside it.
+
+She remembered his hand at her waist and the way he'd drawn her closer when she arrived without warning. She remembered his quiet grin when he'd found her clean shirt in the drawer, the pleasure of waking with no immediate obligation to be elsewhere. She missed those things in a way letters couldn't entirely reach. There was nothing embarrassing about it. She wanted him. He was coming back. She could allow herself to anticipate the meeting without feeling that anticipation made her less capable of the rest of her life.
+
+She placed one item on the table: a folded card with his name on it.
+
+Inside she wrote, *Your range is still standing. Your guitar had better be in tune. I saved you a place beside the stove.*
+
+She thought about drawing a heart. She did not.
+
+Instead she added, *You may kiss me when you get here. I intend to make that difficult to resist.*
+
+She grinned at the card, then put it beneath the lamp where he would find it later.
+
+On Friday she washed the borrowed striped socks and folded them into her bag. She had decided to return them. Not because she no longer wanted them, but because she wanted to give them back herself and see his face when she made a joke about his terrible taste in clothing.
+
+On Saturday she practiced the song once more. She still wasn't satisfied with the final chord, but she could play it without stopping. That was enough.
+
+Sunday, she decided, could be a good day even if the train was late. She had spent the last several weeks discovering that a promise did not become weaker simply because it had to pass through ordinary delays. What mattered was that he had written her a date, and she trusted him to use it.
+
+---
