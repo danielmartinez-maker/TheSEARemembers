@@ -438,6 +438,98 @@ Outside, the porch boards burned warm through Percy's socks. The repaired shirt 
 
 ---
 
+Silena stopped Percy at the porch steps before he could leave the Aphrodite cabin.
+
+"One more thing," she said, holding a folded square of cloth.
+
+He turned. "Another shirt?"
+
+"No. Look."
+
+She opened the cloth to reveal a pattern she'd been drawing for weeks, a coat with a short fitted front, a longer back and a series of adjustable seams along the shoulders. It was more complicated than the straight repair she'd just made to Percy's camp shirt. The drawings were full of notes about movement, weight and whether the wearer could reach a sword without the fabric catching.
+
+"Who is it for?" he asked.
+
+"That's what I'm trying to decide. I want something campers could wear outside the arena that still works when they have to move quickly."
+
+"Sounds like armor."
+
+"It's not armor. It's clothing that doesn't get in the way of armor."
+
+He studied the diagram. "Can you make it?"
+
+"I can make a first version. I'm borrowing the sewing station for a week."
+
+"Then make it."
+
+She smiled, but not as if he had given her permission. "I intend to."
+
+Percy touched one of the pencil lines. "That seam might pull if someone reaches behind them."
+
+"Which is why I need a test wearer. Someone who actually reaches behind himself to draw a sword."
+
+He started to volunteer. Silena raised a finger.
+
+"Before you say yes, I'm not asking you to stand around whenever I feel like measuring. I want two scheduled fittings, and I need feedback. Real feedback, not 'looks nice' because you love me."
+
+"I can do that."
+
+"Are you certain? You have arena training and canoe lessons and everything else."
+
+"I have time."
+
+"Then tell me when, so I can plan my work."
+
+She handed him a small card with two proposed afternoons. Percy realized she'd asked Clarisse the same thing and had been told to write it down rather than shout for somebody across the cabin. He chose one of the dates and put the card in his pocket.
+
+"Can I ask you something?" he said.
+
+"Go ahead."
+
+"Is this something you want to do after camp?"
+
+Silena folded the pattern with care. "Maybe. I don't know what being sixteen is supposed to make me choose. I like making things that fit people properly. I like that there are ways to solve a problem other than swinging something hard at it. I don't like when everybody assumes that means I want to sew for them all the time."
+
+Percy felt the words more keenly than he'd expected. She'd just spent her midday fixing his shirt. She could have been working on her own coat.
+
+"You could have told me to do it myself."
+
+"I could. I wanted to make this repair. It was your birthday."
+
+"And tomorrow?"
+
+"Tomorrow you can learn to thread a needle without asking me to do it."
+
+"Harsh."
+
+"Educational."
+
+She laughed. He helped her move the fabric rolls back into the storage chest so the Aphrodite cabin's owner could reclaim the worktable. She didn't need his approval, and she didn't need to become his unpaid tailor to prove she loved him. The difference felt obvious once she'd said it aloud.
+
+As he left, he heard her arguing cheerfully with a friend over whether the coat should have hidden pockets. Percy was glad he hadn't stayed to settle it. He didn't know anything about sewing pockets, and his sister had people she wanted to work with on her own terms.
+
+Annabeth caught up with him on the path, an apple tucked under one arm.
+
+"What's in your pocket?" she asked.
+
+"A schedule."
+
+"What's the occasion?"
+
+"Silena's making a coat."
+
+"For you?"
+
+"Not exactly. I'm a test subject."
+
+Annabeth looked pleased. "Then listen when she tells you something doesn't fit."
+
+"I always listen."
+
+"You always hear. Those aren't identical."
+
+He pretended to be injured by the distinction. She took his hand and guided him toward the pine, where Thalia was waiting. Percy had thought his birthday might prove he had become somebody new. Instead it was turning into a day of discovering what everybody around him wanted to become.
+
 Pine needles carpeted the hill to the Fleece pine in a thick rust mat.
 
 Percy climbed with Annabeth after lunch, the repaired shirt in a bag over his shoulder, lake mud still on his old sandals despite Silena's orders. Cicadas sawed in the high branches. The air up here tasted of sap and hot stone. Golden Fleece light pulsed faintly through the leaves below, green-gold, sending warm flecks across the grass.
