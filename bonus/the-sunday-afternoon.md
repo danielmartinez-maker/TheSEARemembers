@@ -11614,3 +11614,217 @@ The second goodbye was difficult.
 It was also worth having.
 
 ---
+
+## April 27: A Program with Two Names
+
+The trouble began with a printed schedule.
+
+Thalia had written the original by hand. Chiron preferred that important changes be typed and pinned in several places, because he had learned that even a very good plan was useless if the people following it couldn't tell which page was current. Someone had finally copied Thalia's spring archery program into a clean format.
+
+The title looked good. So did the dates.
+
+Below it, under Instructor, were two names.
+
+Thalia Grace and Eleni Markos.
+
+Thalia stared at the page.
+
+She had known Eleni would be taking more responsibility. She'd trained the younger woman, watched her handle the students with improving confidence and deliberately let her change lessons that needed changing. The plan had become better because she had stopped treating every decision as proof of her own competence.
+
+It had not occurred to her that her name would have to share the line.
+
+She was still looking at the schedule when Chiron came into the room.
+
+"Is something wrong?"
+
+"No."
+
+He looked at the paper, then at her face.
+
+"That's rarely an encouraging answer."
+
+"Eleni's name is on my program."
+
+"She's teaching half the sessions."
+
+"I know."
+
+"Then her name belongs on the schedule."
+
+Thalia opened her mouth and found she couldn't argue with that. She'd made the decision herself. She'd wanted Eleni to have real responsibility rather than perform a few delegated tasks under constant supervision. She had meant it.
+
+She had not anticipated the strange, sharp feeling of seeing that choice made official.
+
+Chiron went on gently. "If you want a program that can last, it will need more than one person capable of running it."
+
+"I know."
+
+"Knowing and enjoying are different."
+
+Thalia folded the schedule.
+
+"I'll talk to her."
+
+"About what?"
+
+She looked at him. It was an excellent question.
+
+"About the next lesson," she said.
+
+Chiron nodded and left the room.
+
+Thalia remained by the table, feeling more exposed than she'd expected. She had begun the program because she believed the advanced students were not being taught to make enough decisions for themselves. She'd fought for equipment, revised training rules and defended the difficulty of the work when other instructors wanted a simpler competition. She was proud of it. She wanted that pride to remain hers, even while the program became something the camp could maintain without her.
+
+That was the problem.
+
+If the program succeeded, it would stop belonging exclusively to her.
+
+***
+
+Eleni arrived carrying two quivers and a notebook with three pages of observations from the previous session.
+
+"Have you seen the schedule?" she asked.
+
+"Yes."
+
+"They put my name on it."
+
+Thalia looked at her.
+
+Eleni seemed almost embarrassed. "I thought Chiron was going to keep mine under the assistant column. I didn't ask him to change it."
+
+The words were careful. She was trying to reassure Thalia that she hadn't reached for something that belonged to someone else.
+
+Thalia felt a small surge of shame.
+
+"I know you didn't."
+
+"I can ask him to change it."
+
+"Don't."
+
+Eleni stopped.
+
+Thalia picked up the schedule and laid it flat on the table. The two names were printed in the same size. No one had been made smaller. It was ridiculous that she'd needed to look at the page twice to see it.
+
+"You've earned your place there," she said.
+
+Eleni's expression changed.
+
+"You mean that?"
+
+"Yes."
+
+"Then why did you look as though you wanted to eat the schedule?"
+
+"An unfortunate facial habit."
+
+Eleni laughed.
+
+They spent the next hour preparing the lesson. Eleni had developed a variation on the moving-target exercise that required students to work in pairs and agree on a safe sequence before either could take a shot. Thalia thought the exercise was too elaborate. Eleni argued that the whole purpose was to make the students speak honestly when they disagreed, not to make them faster.
+
+Thalia listened.
+
+"Fine," she said at last. "We'll try it."
+
+Eleni grinned. "You said that quickly."
+
+"Don't celebrate. We haven't seen the results."
+
+The results were mixed.
+
+Some pairs worked beautifully. Others spent more time arguing over who would take the first shot than examining the course. One student refused to change his plan after his partner identified a safety problem. Eleni stopped the exercise and made him explain why he believed his choice was safer. He couldn't. The discussion that followed was uncomfortable, but the student eventually admitted he'd treated disagreement as a challenge rather than useful information.
+
+Thalia watched from the side.
+
+She did not need to intervene.
+
+That was almost the entire point.
+
+Afterward Eleni came over, looking tired and pleased.
+
+"Well?"
+
+"The third pair needs another session on communication," Thalia said.
+
+"I know."
+
+"The first pair could use a harder lane."
+
+"I thought so too."
+
+"The second target is too close to the fence."
+
+Eleni nodded. "I'll move it."
+
+Thalia considered.
+
+"Good lesson," she said.
+
+Eleni smiled.
+
+They carried the equipment back together, and Thalia realized she'd stopped thinking about the printed schedule. It was easier to share credit when she could see what the other person had done to earn it.
+
+At lunch she told Annabeth.
+
+Her sister considered the arrangement.
+
+"You've been telling me for months that you want people to make their own decisions."
+
+"I know."
+
+"Then why is it surprising that one of them is good at it?"
+
+Thalia gave her a weary look.
+
+"I preferred you when you were small and impressionable."
+
+"I was never impressionable."
+
+"An unfortunate fact."
+
+Annabeth laughed and returned to her drawing.
+
+***
+
+That evening Thalia received a letter from Rhys.
+
+He described the concert she'd attended, including the moment when he looked up and discovered her in the third row. He admitted that he'd nearly missed an entrance because he was so surprised to see her. She smiled at that. He also wrote about the morning after she left, how the room had seemed strangely ordinary again once the extra coat was gone and the little guest-house bag had disappeared from beside the bed.
+
+*I don't want you to feel you have to travel every time I miss you,* he wrote. *I was happier than I knew what to do with when I saw you. I also liked that you had your own reasons for coming. You heard the concert. You met Mara. You came because you wanted the day, not because I needed rescuing.*
+
+Thalia read the paragraph twice.
+
+She had spent the afternoon discovering that she could share a program without losing it. Now Rhys was writing about how much he had liked her showing up at a concert without treating his life as something she'd come to supervise.
+
+She took out a fresh page.
+
+*Rhys,*
+
+*Chiron put Eleni's name beside mine on the spring schedule. I was furious for approximately four minutes, then realized I had trained her well enough to deserve it. She's running half the lessons now. The students are improving. I am trying to be pleased about the part where none of them needs to wait for me to approve every good idea.*
+
+She added a line about the moving-target exercise and the boy who'd refused to listen to his partner, then paused.
+
+*I liked seeing you in the theater. Not because you were playing for me. You weren't. I liked watching you do something that mattered to you and then having you choose to spend the evening with me afterward. Those two parts belonged together.*
+
+She sat still a moment after writing it. The thought felt important, though she couldn't have explained precisely why. Perhaps because she had spent so much of her life believing that being needed was the surest form of belonging. Rhys had made her feel wanted without depending on her to keep his world in order.
+
+She finished with a joke about the curtains in the guest room and a warning that if he ever booked the place for her again, she would bring her own tools to repair them.
+
+At the bottom she wrote:
+
+*I still miss kissing you. But you already know that.*
+
+Then she signed it.
+
+The next morning she went to the range and found Eleni waiting beside the printed schedule.
+
+"Ready?" her assistant asked.
+
+Thalia looked at the two names.
+
+"Yes," she said.
+
+They began.
+
+---
