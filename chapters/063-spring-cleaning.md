@@ -94,7 +94,7 @@ Percy handed him the dolphin. Tyson fitted the bronze tail with a soft click. It
 
 "Now he can swim again," Tyson declared.
 
-Percy put his arm around his little brother's huge shoulders and leaned against him for a second. "Yeah," he said. "Now he can."
+Percy put his arm around his older half-brother's huge shoulders and leaned against him for a second. "Yeah," he said. "Now he can."
 
 They cleaned together after that, fast and easy. Tyson lifted bunks with one hand while Percy swept under them. Percy scrubbed high windows standing on Tyson's shoulders. They found Tyson's lost lucky wrench, Percy's missing sock — it had been inside Tyson's spare helmet — and a colony of dust bunnies under Tyson's bunk that Tyson insisted on relocating outside "humanely."
 
@@ -200,11 +200,11 @@ Percy thought about it all the way to dinner. How long you could keep love taped
 
 The Zeus cabin was different. It was too big, too clean, too empty.
 
-Thalia Grace stood in the middle of it with her hands in her leather jacket pockets, staring up at the high ceiling where dust moved in the light from the tall windows. The cabin was all white marble and storm-gray banners, with a single bunk made with military corners — Thalia's, when she stayed — and a throne-like chair nobody sat in. A statue of Zeus glowered in the corner.
+Thalia Grace stood in the middle of it with her hands in her leather jacket pockets, staring up at the high ceiling where dust moved in the light from the tall windows. The cabin was all white marble and storm-gray banners, with Annabeth's regularly used bunk, Thalia's bunk kept ready for visits, and a guest cot for Jason when a supervised visit was possible. A throne-like chair stood against the wall, unused. A statue of Zeus glowered in the corner.
 
-"It's weird cleaning a place nobody lives in," Thalia said when Annabeth arrived with vinegar and trash bags. "It's like cleaning a museum to my dad."
+"It's weird cleaning a place where Beth lives and still feeling like nobody is meant to," Thalia said when Annabeth arrived with vinegar and trash bags. "It's like cleaning a museum to my dad."
 
-"Jason stays here when he's here," Annabeth pointed out, opening windows. "And you do. And about twenty pigeons, judging by the rafters."
+"I stay here all year," Annabeth pointed out, opening windows. "Jason has a cot when he can visit, you have your bunk, and about twenty pigeons live in the rafters."
 
 Thalia snorted, but she grabbed a broom. "Chiron says we have to do the storage loft. Nobody's done it since— gods, since we actually cleared it out?"
 
