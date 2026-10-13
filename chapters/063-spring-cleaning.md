@@ -556,6 +556,102 @@ They went downstairs without needing to decide what Beryl had meant to them fore
 
 ---
 
+Milo was waiting at the repair station when Percy and Tyson returned from the cabin rows.
+
+He had a stack of wooden braces under one arm and an expression Percy recognized from the autumn bridge tests: something had failed and Milo was deciding whether to swear or measure it.
+
+"How's the creek project?" Percy asked.
+
+Milo set the braces on a workbench. "Better than the first version. Worse than Annabeth thinks."
+
+"That's a dangerous thing to say where she might hear you."
+
+"I'll say it to her face."
+
+Percy helped him sort the pieces. The revised model from November had held the test weights after they'd shifted the supports and shortened the span, but the actual creek bank was still soft from winter thaw. The new problem wasn't whether their wooden beams could carry someone. It was whether the place they'd chosen could support a bridge without harming the roots of two trees and sending soil into the water.
+
+Milo handed Percy the old drawing. The measurements were Annabeth's, neat and consistent. There were three notes in the margin, each added on a different day.
+
+*Check frost depth. Verify bank after rain. Do not build from model alone.*
+
+Percy smiled. He'd seen her learn each of those lessons. He'd learned some of them beside her.
+
+"We aren't building it today," he guessed.
+
+"No. We're checking whether we should repair the existing path first. If people can use it safely, the bridge can wait until the bank settles."
+
+Tyson examined the braces. He had been excited about helping build a bridge, especially one designed by Annabeth. Now he looked mildly disappointed.
+
+"Maybe a better bridge later," he said.
+
+"Exactly," Milo replied.
+
+Chiron arrived with a list of spring maintenance priorities. The infirmary roof needed new guttering. Two boat racks were unsafe. The stables had a drainage problem. Percy glanced at the list and realized how expensive an ornamental creek crossing might look to the people waiting for a dry roof.
+
+"It's not ornamental," Annabeth said from behind him.
+
+Percy turned. She had come from Cabin One with dust on her sleeves and a fresh pencil in her hair. She'd heard him thinking aloud, apparently. He would never understand how she could do that.
+
+"I didn't say it was," he protested.
+
+"You were going to."
+
+He considered denying it, then stopped. "I was wondering what makes it a priority."
+
+She spread the plans on the workbench.
+
+"The old path floods after heavy rain. People avoid it by cutting through the roots on the bank. That damages the trees and makes the mud worse. The bridge is one way to solve that problem, but maybe it's not the cheapest way."
+
+Milo nodded. "That's what I wanted to discuss."
+
+They went over the alternatives. A raised gravel path might be easier to maintain. A smaller crossing could avoid the deepest part of the creek. Or they could wait until the summer campers returned and had enough hands to rebuild the approach properly.
+
+Percy watched Annabeth calculate cost and work hours. He liked her drawings, the way a few lines could make a future place visible. But the lesson she had learned in November showed in the questions she asked now: what would happen to the bank, what would freeze, and who would be responsible for checking it next winter.
+
+Tyson picked up one of the old braces.
+
+"I can make the fasteners," he said. "If we know where they go."
+
+"We don't know yet," Annabeth answered.
+
+Tyson set the brace down. He looked disappointed for another second, then offered to repair one of the broken boat racks instead. Chiron approved that immediately.
+
+Clarisse came across the plaza carrying a bucket of rusted buckles from the Ares cabin. She examined the bridge drawings without pretending to understand every detail.
+
+"Can you put a rail on it?" she asked.
+
+"If we build it," Annabeth said.
+
+"Good. Some of the younger campers run across things without looking. I don't want a narrow bridge with nothing to stop them falling in."
+
+Percy grinned. "Speaking from experience?"
+
+"Speaking from watching you run across things without looking."
+
+"That's fair."
+
+Annabeth wrote *handrail required* at the top of the plan. She didn't argue that the bridge would be beautiful enough without one.
+
+By the end of the discussion Chiron had approved a short survey after the next heavy rain. The bridge wasn't canceled. It had a clearer purpose and a route to the next decision. Milo kept the model in the workshop; Annabeth kept the plans; Tyson took the boat rack parts to the forge.
+
+Percy was left holding a bucket of rusty buckles.
+
+"What am I doing with these?" he asked.
+
+Clarisse pointed toward the sorting table. "You can start by separating the ones we can repair from the ones that are dangerous."
+
+"How do I tell?"
+
+"Ask the armorer. Don't guess."
+
+Percy carried the bucket over. It was dull work, performed under the supervision of someone who knew much more about metal than he did. He found it satisfying anyway. A buckle deemed unsafe would be melted down instead of returning to a shield. A sound one would be cleaned and reused. They had a real decision for each part.
+
+When the last buckle had been sorted, he looked back toward the workbench. Annabeth was arguing with Milo about the correct angle for a handrail post, both of them speaking quickly and sketching on the same page. Neither looked angry. They looked busy.
+
+The workshop would still have unfinished jobs at sunset. Percy had stopped believing spring cleaning meant making the whole camp perfect in one day. It meant finding what needed attention and leaving enough information that somebody could finish it properly.
+
+---
+
 By late afternoon, the whole camp smelled like lemon and vinegar and fresh-cut grass. Mattresses aired on every porch. Trash bags lined the paths like strange parade floats. The Hephaestus cabin had set up a repair station in the plaza — Leo Valdez shouting, "Bring me your broken! Your busted! Your mildly cursed!" while Nyssa tightened hinges and Harley threw away anything that smoked.
 
 Chiron rolled through in his wheelchair, inspecting with a clipboard and a handkerchief pressed to his nose against the dust. "Poseidon — pass! Ares — pass with distinction for the mantel! Zeus — pass, though please remove the sunglasses from my lord's likeness!"
