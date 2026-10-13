@@ -616,6 +616,102 @@ No monsters. No battles. Just kids in a basement, piecing the past together one 
 
 ---
 
+Thalia found the old photograph again when she was supposed to be carrying the empty tea cups upstairs.
+
+It was the one with Annabeth in a homemade cape, a crooked grin on her face and a smudge of strawberry juice on her chin. Thalia had allowed Chiron to put the picture in the camp archive years earlier. She had not thought about what that meant for a child who had no memory of the day the photograph was taken.
+
+Now Annabeth had written a neat label beneath it and seemed ready to place it in a permanent collection.
+
+"Can I ask you something?" Thalia said.
+
+Annabeth put down the pencil. "Sure."
+
+"Do you think that belongs here?"
+
+"Chiron kept it here."
+
+"I know. But he took the picture when I was twelve and didn't ask what I'd want people doing with it now."
+
+Annabeth looked at the photograph. She had been enjoying the idea of organizing the camp's past, especially the pieces of this childhood she couldn't remember. It hadn't occurred to her that finding something in an archive didn't automatically entitle her to make it public.
+
+"We can leave it in the box," she said.
+
+"That isn't exactly what I'm asking."
+
+"Then what are you asking?"
+
+Thalia sat opposite her. She was still wearing the old jacket she'd rescued from the bottom of her trunk. The photograph showed three girls having a ridiculous rainy afternoon in a cabin, which seemed harmless enough. The problem was that Thalia had spent years guarding what belonged to her and Annabeth, and she didn't want every private piece of their childhood turned into entertainment because the little girl in the picture was too young to have chosen.
+
+"Can you let me see the description before you put it in the index?" she asked.
+
+Annabeth handed her the card. It said *Grace sisters, ages twelve and eight, plus Clarisse. Costume game after rain. Chiron photograph*. Nothing about which older camper had invented the cape or why Thalia's face looked so relieved in the third image.
+
+"That's accurate," Thalia admitted.
+
+"I can write less."
+
+"No. It doesn't need less. Just don't add guesses about what people were feeling."
+
+Annabeth nodded. "I wouldn't do that."
+
+"You sometimes do when the story comes from a photo."
+
+That was fair. Annabeth had been filling the gaps in her own altered childhood with things that sounded plausible, and Thalia had not always stopped her when the guesses made a painful memory easier to explain.
+
+"What do you remember about it?" Annabeth asked.
+
+Thalia looked at the picture. "It was a bad week for me. I had a nightmare the night before and made everyone stay inside after breakfast. Then you made the cape and insisted on playing heroes. I let you because you were bored, and because you were eight and didn't understand why I was frightened."
+
+Annabeth touched the edge of the card.
+
+"Do you want that written down?"
+
+"No. Not here."
+
+"Then I won't."
+
+Thalia looked surprised by the speed of her agreement. She had expected Annabeth to argue that the details mattered for an accurate historical record.
+
+"You can write down what you saw," Annabeth said. "You don't have to give us the whole day."
+
+The distinction relieved Thalia. She wanted Annabeth to know her history. She didn't want every painful part to become the camp's property.
+
+"Could you put a note that copying the photo needs our permission?" she asked.
+
+"Yes. Chiron can approve the access policy."
+
+Annabeth made the note. The images could be preserved without becoming a public exhibition, and the catalog could explain who to ask if someone genuinely needed a copy.
+
+Percy came back from the table of sea maps carrying his pencil. He saw the photograph and smiled.
+
+"That cape is incredible."
+
+"Don't," Thalia warned.
+
+He held up both hands. "I was admiring the craftsmanship."
+
+"That's worse."
+
+Annabeth laughed. It was easier now that they'd agreed on what could be shared. Thalia let Percy look at the picture but not take it out of the sleeve.
+
+A little later Chiron arrived to review the access instructions. He approved the idea of preserving the original photograph in a protected family collection and keeping a general catalog entry visible. He wanted a clear process so the rule wouldn't depend on remembering what Thalia had said on one particular Saturday.
+
+Annabeth wrote the final card in pencil, then made a copy for the main index. The copy listed the date, the names and the storage location. It did not reproduce the image.
+
+Thalia watched the work. She'd been afraid that asking for privacy would make Annabeth think she was hiding something about their mother or their old life together. Instead her sister had listened, and the decision made the archive more trustworthy.
+
+"Thank you," she said.
+
+Annabeth looked up. "You're welcome."
+
+"Don't get used to it."
+
+"Too late."
+
+They carried the cleaned cups upstairs. Thalia took the photograph back to the archive shelf afterward and placed it in its box herself. It felt less like surrendering the memory and more like choosing where it could be kept safely.
+
+---
+
 Ella loved words. Words were feathers. Words were shiny things to collect and line up in rows.
 
 But today Ella learned that photographs were words too.
