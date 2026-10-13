@@ -952,6 +952,96 @@ Ella updated her ledger while shelving. "Potato delivered. Thalia laughed. Thali
 
 Silena melted fresh wax and cut fresh squares, humming. When Clarisse asked what she was doing, Silena said, "Armor maintenance," and Clarisse believed her, because big sisters can lie when love is on the line.
 
+Percy found Annabeth by the lake after afternoon lessons. She was standing on the lower dock, trying to keep a flat stone moving across the water. It bounced twice and sank.
+
+"I thought architects were supposed to be good at angles," he said.
+
+She turned. "I am good at angles. The stone had terrible balance."
+
+He looked at the next one in her hand. It was round and thick, hardly a skipping stone at all.
+
+"Want one that works?"
+
+"No. I want to make this one work."
+
+He smiled. It was a perfectly ordinary Annabeth answer. He joined her on the dock and watched while she tried a flatter throw. The stone bounced once, traveled farther and disappeared beneath the surface.
+
+"Progress," he said.
+
+"Marginal."
+
+There was a pause. Percy had come because he wanted to ask something, and she knew it. His hands kept moving toward his pocket and stopping.
+
+"Thalia saw your owl," Annabeth said.
+
+"I know. I saw her holding it up."
+
+"She liked it."
+
+"She laughed at it."
+
+"Both things can be true."
+
+He considered. "Does she know about all the notes?"
+
+"She knows we've been writing. She doesn't know everything in them. I told her I wanted some things to stay private."
+
+Percy looked toward the cabins. He trusted Thalia in a fight and respected the way she'd protected Annabeth for years. He was also afraid of becoming the subject of her next interrogation.
+
+"Am I supposed to go talk to her?" he asked.
+
+"Not unless you want to. She didn't ask me to send you."
+
+"Then I won't. Not today."
+
+Annabeth looked pleased. He understood why that mattered: they were the ones exchanging notes. Their sisters could help, but the letters weren't a test they had to pass for approval.
+
+"Are we still using the library tray?" he asked.
+
+"Yes. And the oak, if it's dry. Ella doesn't want notes in the books anymore."
+
+"Fair enough."
+
+She put the last stone down. She had something to tell him but couldn't decide how to phrase it.
+
+"I liked the one about the dock," she said finally.
+
+He glanced at her. "I wasn't sure you would."
+
+"Why?"
+
+"Because it was just a thank-you. Not even a funny one."
+
+"It was specific. You noticed I stayed even when we were both frustrated. I liked that you told me."
+
+Percy looked at the water. It was easier to grin at a bad poem than to hear someone explain why a plain sentence had mattered to them.
+
+"Can I send another one like that?" he asked.
+
+"Of course. And you can say it to me too, if we're standing right next to each other."
+
+He laughed. "That's an excellent new system."
+
+She reached for his hand. He took it, and they watched the current stir against the posts for a while before going up to dinner.
+
+At the steps of Cabin One, Annabeth stopped.
+
+"By the way, your owl really did look like a potato."
+
+"I know."
+
+"Do you want me to teach you how to draw one?"
+
+"No. I think it's funnier this way."
+
+"You're impossible."
+
+"You're the one keeping them."
+
+She smiled, then went inside. Percy walked back toward Cabin Three with his hands in his pockets and nothing new to hide. He would write another note when he had something to say. He didn't need to make the next one prove anything.
+
+---
+
 On the Zeus porch after lights-out, Thalia sat knees up watching clouds gather over the sea, thinking of counting games and green glass and a boy who spelled thunder right on second try. She had once carried her little sister. Now someone else carried small pieces — notes, luck, striped stones — gently.
 
 Sharing the carrying was not so bad, she decided. Just a little. For potato owls and temple doodles and good luck todays.
