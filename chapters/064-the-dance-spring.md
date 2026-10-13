@@ -334,6 +334,102 @@ She scuffed the dirt, suddenly awkward. "Annabeth's good people. Don't be an idi
 
 "Get out before someone sees us being nice. Ruins my reputation."
 
+Clarisse switched the music off just as Percy reached for the speaker.
+
+"One more thing," she said.
+
+He braced himself for another lesson in posture.
+
+Instead she sat on the low wall beside the archery targets and untied her training boots. Beneath them she wore thin socks with little gold stars. Percy tried not to stare.
+
+"Those are excellent socks."
+
+"If you mention them to Connor, I'll throw you in the Sound."
+
+"Noted."
+
+She held out one boot. The leather had been patched near the heel, not from fighting but from repeated practice on a gymnasium floor.
+
+"My mortal school has a dance unit every winter," she said. "Everybody complains. Nobody wants to look stupid. The first time I took it, I spent half the classes pretending my ankle hurt so I could sit out."
+
+Percy looked at her. "You?"
+
+"Yes, me. I can face a monster with my sword out and not care who watches. Put me in a school gym with people who know how to move and I start thinking about every mistake."
+
+"Then why'd you keep doing it?"
+
+"Because I got tired of being bad at something and pretending it didn't matter."
+
+She stood and walked a few steps without the speaker. She counted softly, then changed direction. The rhythm was so steady Percy could hear the beat even when the music was off.
+
+"Coach said I could follow perfectly as long as I wasn't trying to win," she said. "I spent a whole year figuring out what he meant."
+
+Percy thought about how she led the younger Ares campers through drills. She had been teaching them that the person beside them mattered as much as the person they were fighting. He hadn't realized she learned some of that from dancing.
+
+"Can you show me?"
+
+Clarisse sighed dramatically. "That's what we've been doing for an hour."
+
+"No. I mean how to change if Annabeth moves the other way. I'm fine when I know the steps. What if she doesn't?"
+
+Clarisse studied him. For once she didn't make a joke.
+
+"Then you pay attention. Don't drag her back to the move you planned. If the two of you miss a step, reset and keep going. The song won't stop because you made a mistake."
+
+She demonstrated with him. On one count she deliberately stepped in a direction he didn't expect. Percy nearly followed the old pattern and collided with her. She stopped, let him notice where their weight had gone, and gave him room to find the beat again.
+
+"Better," she said.
+
+"That felt terrible."
+
+"It wasn't terrible. You corrected it."
+
+They practiced until Percy could respond without watching his feet. Clarisse still stepped on his toes once, deliberately, after he made a joke about her socks. Otherwise she was patient.
+
+When they finished, Percy carried the speaker back to the equipment shelf.
+
+"Do you want to dance at the party?" he asked.
+
+"Maybe."
+
+"With Chris?"
+
+"Maybe."
+
+"You can say yes. I'm your brother."
+
+"Exactly why I'm not telling you."
+
+Percy smiled. "Fair."
+
+Clarisse examined the silver wristband on her practice sword, then looked at him.
+
+"I don't mind people knowing I dance. I mind people using it to act like I can't fight. Or deciding a girl with a spear is supposed to hate dresses and music. I can like both."
+
+Percy nodded. He understood more of that than he'd expected. People at Atlantis seemed to assume that because he could command water he must want to command everything that moved through it. People at camp sometimes treated him as though the title of prince made his ordinary chores absurd. They were both ways of choosing somebody else's personality for him.
+
+"You can dance and spar," he said.
+
+"Yes."
+
+"And you can teach me without threatening my life."
+
+"Don't push it."
+
+She picked up her boots, slung them over her shoulder and started toward the cabins.
+
+At the gate she turned back.
+
+"Jackson. She'll appreciate that you asked. But don't make the dance into a test of whether you're worthy of her. You two have already been through enough together to know that."
+
+Percy looked at the scuffed ground where they'd practiced.
+
+"I know."
+
+"Good. Then stop treating one slow song like a prophecy."
+
+She left before he could answer. He turned the speaker off properly, coiled the cord and put it away. He still wanted the dance to go well. But he hadn't realized until Clarisse said it how much pressure he'd put on a perfectly ordinary evening.
+
 Percy left counting under his breath, only tripping over his own feet twice. The path home ran blue with dusk. Bats flicked over the fields. Pavilion light glowed warm. He held his hands up in slow-dance shape like an idiot and grinned when a firefly landed on his sleeve like applause. One-two-three, he told the firefly. It blinked and drifted off toward the lake.
 
 ---
