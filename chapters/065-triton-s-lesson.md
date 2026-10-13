@@ -1082,6 +1082,16 @@ The sun sank into the Sound, turning the water Triton's green-gold. The tide cam
 
 They had forced a god to one knee without repeating the electrical mistake that nearly injured them on the quest.
 
+Before sunset, Percy collected the last practice flags and returned them to the storage crate. He checked the inventory against Milo's list, including the two poles that had been moved to keep the dry safety boundary clear. One rope was missing. Tyson found it tucked under the bench, already wet and beginning to gather sand.
+
+They rinsed it with clean water, hung it to dry and made a note so the next training group would not assume it had been lost. Percy knew a missing rope was unlikely to become the stuff of heroic songs. He also knew Tyson had been standing ready with that rope all afternoon, prepared to help if someone slipped.
+
+When Percy came back to the others, Silena was discussing tomorrow's positions with Clarisse. Annabeth had drawn a revised plan. Thalia was asking whether wind could carry a shouted stop signal across the far cove without muffling the words.
+
+Percy sat down among them, listened to the question and waited for the answer instead of supplying one before anyone finished speaking.
+
+For once he was quite content to learn.
+
 Tomorrow they would train again.
 
 ---
