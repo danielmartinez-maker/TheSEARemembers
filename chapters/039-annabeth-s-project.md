@@ -819,6 +819,42 @@ After a while he stood to go back to his cabin. He thanked her, folded the drawi
 
 Annabeth stayed a few minutes longer. The offering arrangement was no longer precisely the one she'd planned. The new stone sat between objects given by people she loved, carrying a story she knew only in part. She found she didn't want to move it.
 
+Silena arrived with a small brush and a clean cloth, carrying the tools they had agreed to keep at the entrance for routine cleaning. She stopped when she noticed the pebble.
+
+"That wasn't here yesterday."
+
+"No. Somebody brought it this morning."
+
+"Do you know who?"
+
+Annabeth nodded, then hesitated. The boy hadn't told her she could repeat his story to everyone who helped maintain the shrine.
+
+"I know who left it," she said. "But I don't think we need to write his name beside the offering."
+
+Silena considered. She liked keeping records, and she'd already brought a notebook for objects that might need to be returned. But there was a difference between recording who had borrowed a tool and cataloguing the reasons somebody had left a stone in a quiet place.
+
+"You're right," she said. "We should probably only label things if someone asks us to, or if there's a safety reason."
+
+Annabeth picked up the brush. "We can still check whether anything is sharp or dangerous before leaving it in the bowl."
+
+"And make sure the table isn't overloaded," Silena added.
+
+They worked for a few minutes without touching the offerings. Silena brushed sand from the mosaic edges while Annabeth cleared leaves from the path. When they finished, the little pebble remained precisely where the boy had placed it.
+
+"Are you happy?" Silena asked.
+
+"With the shrine?"
+
+"With having finished it."
+
+Annabeth looked at the roof. There would be repairs in the future and other things she hadn't anticipated. She could already see two sections that needed watching after heavy rain.
+
+"I don't think it's ever going to be finished in the way I expected," she said.
+
+Silena smiled. "Most places people live in aren't."
+
+They returned the tools to their box by the entrance and went their separate ways.
+
 When Percy arrived after dock duty, he saw the new note and looked toward her.
 
 "Somebody came?"
