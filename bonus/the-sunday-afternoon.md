@@ -3712,3 +3712,77 @@ She had not promised to wait perfectly. He had not promised to return unchanged.
 It would have to be enough to begin with.
 
 ---
+
+On Monday, Thalia discovered that missing someone was not an efficient activity.
+
+She woke before four and lay awake until sunrise. The room was the same as it had been the week before: the familiar blanket, the books stacked near the table, the little draught that came through the window if the wind turned north. Annabeth was asleep in the other bunk. The camp outside was quiet.
+
+Thalia knew what she was supposed to do with a morning. She could get dressed, inspect the winter targets, attend breakfast and make herself useful until the feeling passed. That had always been her method of handling an unwelcome thought. The problem was that missing Rhys did not behave like a problem that could be solved by carrying something heavy.
+
+At breakfast she looked for him before remembering he wasn't there.
+
+She was annoyed with herself for looking. Then she was annoyed that there was no one to see the look and laugh at her for it.
+
+After the morning work she went to the north path, telling herself she wanted to return the striped socks. She had washed them, folded them neatly and put them in her pocket. There was no practical reason to keep them, except that she liked knowing they belonged to him. She had worn them almost every time she went to his cabin, and now that he was gone, the association made her feel foolish.
+
+The door to the Apollo cabin was unlocked. One of the older campers had been assigned to check the stove while the building was mostly empty. Thalia spoke to him briefly, then went inside.
+
+The room looked smaller without Rhys moving around it. The guitar was gone. The workbench had only two unfinished projects on it, a bow grip waiting to be sanded and a small leather case with blue thread still caught beneath the clasp. The slate by the door retained the laundry instructions and the joke she'd written after the Sunday visit.
+
+She stood in front of it for a moment.
+
+Someone had drawn a little arrow beneath her handwriting, pointing toward the words about terrible novices. The addition was not hers or Rhys's. It made her smile. The joke had escaped into camp life without revealing anything important about the private evening that produced it.
+
+She put the socks on the clean shelf beside the workbench. Then, after a moment, she took them back.
+
+She wasn't ready to return them. There was nothing shameful about that. He had told her to keep them for a while, and she had accepted. She could choose when the while ended.
+
+She left the cabin and went down to the lake. The water was grey beneath a sky that threatened snow, and the path was empty enough that she could walk without stopping to greet anyone. She found a dry place on the low wall and sat for a while, watching the reeds move at the edge of the shore.
+
+She remembered Rhys playing the first few notes of the tune he'd written for her. She remembered the way he'd watched her face in the orchard, waiting to see whether she'd allow the photograph. She remembered the smell of bread on Friday evening and his hand at her waist when they kissed goodbye.
+
+These were ordinary memories. She was surprised by how much space they occupied.
+
+At last she went back to Cabin One and took out a sheet of paper.
+
+She had never been a good letter writer. She preferred speaking, arguing, making people look at her while she told them what she thought. A letter gave the other person too much time to interpret every word. She could imagine Rhys reading one of her sentences and smiling at the wrong part, or worse, deciding she had meant something gentle when she'd intended to be sharp.
+
+She wrote the first line.
+
+*Calder,*
+
+Then stopped.
+
+It was too formal. She crossed it out and wrote *Rhys* beneath it. That looked too intimate for the first line of a letter. She stared at the page for a long moment, then decided she was being ridiculous and continued.
+
+*You left yesterday. The range is already worse. Somebody has moved the second target three inches to the left, and I assume you are responsible because you are not here to defend yourself.*
+
+She smiled at the sentence. It sounded like her.
+
+*I found your slate. Somebody added an arrow under the warning. I did not erase it. I am keeping the socks for now, because you said I could, and because there is no point in pretending I don't like them. They are still appalling.*
+
+She stopped again. The next thing she wanted to say was more difficult.
+
+*I miss you. I don't mean that I have nothing else to do. I have plenty to do. I just keep thinking I should tell you things and then remembering that I can't walk up the north path and find you.*
+
+She read it back. The sentence was inelegant, but she couldn't improve it without turning it into something less true.
+
+She continued.
+
+*I liked Saturday morning. I liked not having to get up the minute I woke. I liked that you made breakfast and didn't ask me to fix anything. I also liked the part where you asked me to stay, because I am beginning to understand that it is possible to want somebody without making their time belong to you.*
+
+She put down the pencil. It was the most sentimental thing she'd written in years. She considered tearing the page in half. Instead she folded it and put it in an envelope before she could change her mind.
+
+Later she would add a postscript about his terrible cooking, so the letter would not leave him with the impression that she had become an entirely different person.
+
+At supper she asked an adult Hermes courier when the next outgoing mail would leave camp. He told her the morning. She handed over the envelope, addressed in the careful handwriting she'd used when the words mattered.
+
+That night she lay awake thinking about the letter traveling away from her. She could not retrieve it. She could not explain the tone or soften the sentence about missing him. Rhys would read the words as she'd written them, and she would have to trust him to know what she meant.
+
+It was a small, frightening form of intimacy.
+
+She found the photograph in her book, looked at it once, and put it back. The shared laughter caught in the image had not been made less real by distance. Neither had the desire that remained when she closed her eyes and remembered the feeling of his hands against hers.
+
+Tomorrow she would wake, work, and do everything she usually did. She would also look forward to his answer. There was no reason those things could not coexist.
+
+---
