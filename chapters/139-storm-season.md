@@ -381,6 +381,32 @@ She smiled faintly. "You're learning."
 
 ---
 
+The drill did not end when the wind dropped. Chiron called everyone back to the Big House porch to review the readings, and Percy discovered that he had written down only the exciting part: the moment the water moved as ordered. Annabeth's page held a second column of measurements, including two they could not explain.
+
+"The charge rose before I gave the signal," she said.
+
+Thalia looked at the numbers. "Then the water wasn't responding only to you."
+
+"Which is why we stop using the channel until we know what happened," Chiron said.
+
+Percy had been about to suggest another quick trial. He closed his mouth. He'd seen the way Annabeth's fingers trembled afterward, and he could still feel a dull ache behind his own eyes. They hadn't failed, but neither had they demonstrated a method that was safe to repeat.
+
+Grover reported the boundary markers he'd checked. Two had been obscured by blown branches; none had fallen. Clarisse assigned a repair pair to the markers and Silena recorded the location so they wouldn't have to rely on someone remembering which tree looked familiar in the rain.
+
+"What about our practice?" Percy asked.
+
+"Suspended for now," Chiron answered. "Until we have a clear isolation plan and someone independent of the exercise can end it."
+
+Annabeth nodded. She looked disappointed, not defeated. She had already begun drawing a new diagram with a dry section separating the conductive channel from the observation point.
+
+"We'll need a cutoff," she said.
+
+"And a reason to believe it works," Thalia replied. "Not just a drawing."
+
+Percy offered to help her test the barriers when Chiron approved a safe procedure. He didn't volunteer to be the test subject. Annabeth noticed and squeezed his wrist once.
+
+By the time they returned to the cabin, the storm had become ordinary rain. The observations stayed with Chiron in a dry folder. That was the difference between surviving one attempt and learning from it.
+
 The Poseidon cabin smelled like salt and chocolate and wet wool.
 
 Someone, probably Silena, had dragged blankets into a nest before the fireplace, which Percy lit with shaking hands. Socks steamed by the door. No one cared.
