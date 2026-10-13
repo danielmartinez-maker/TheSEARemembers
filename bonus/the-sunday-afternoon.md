@@ -12184,3 +12184,249 @@ Then he lay down and let the exhaustion reach him.
 He was going home. Not because the tour had failed to give him something, but because it had given him enough to bring back.
 
 ---
+
+## May 13: The Woman at the Range
+
+Rhys came back while Thalia was teaching.
+
+She saw the guitar case first. It was standing beside the gate, dark against the pale wood of the fence. Beside it was a travel bag she recognized and, a little farther away, the man she'd spent seven weeks writing about.
+
+He stood quietly near the entrance, watching the last group of students work through their exercise.
+
+For one extraordinary moment Thalia forgot what she was saying.
+
+Eleni looked at her.
+
+"Thalia?"
+
+She turned back toward the students. The girl nearest the target had her bow half raised, waiting for instruction. The safety screen remained in place. The lane was clear. There was no reason to interrupt the lesson merely because the person Thalia most wanted to see had arrived unexpectedly early.
+
+She took a breath.
+
+"Continue," she said.
+
+The student drew and released. The arrow struck the outer ring. Thalia walked to the marker, checked the placement and gave a correction. Her voice was steady now, though she could feel herself smiling every time she turned toward the gate.
+
+Rhys remained where he was.
+
+He didn't wave. He didn't call her name. He found an empty bench beyond the safety line, set down his bag and waited.
+
+Thalia liked him fiercely for that.
+
+The final student finished. Eleni began collecting equipment while Thalia reviewed the exercise with the group. She told them what they'd done well, where they'd made unsafe assumptions and how the same principles would carry into the next lesson. It was the sort of explanation she'd been struggling to give months earlier, when every correction had felt like a contest she needed to win.
+
+Today she gave it without thinking.
+
+When the students were dismissed, Eleni came to her side.
+
+"Your visitor's been patient."
+
+"An unusual condition."
+
+"Are you going to make him wait longer?"
+
+Thalia looked at her assistant. Eleni was smiling, openly pleased on her behalf.
+
+"No," Thalia said.
+
+She walked toward the bench.
+
+Rhys stood as she approached.
+
+They looked at each other for a heartbeat, long enough for Thalia to notice the changes. His hair was shorter than when he'd left, cut neatly at the sides. There were tired lines beneath his eyes and a small mark on the shoulder of his coat where the guitar strap had rubbed the fabric. He seemed thinner, perhaps from weeks of traveling, but he stood with the same steady ease she remembered from the shooting line.
+
+"You came early," she said.
+
+"I did."
+
+"You didn't tell me."
+
+"The final route changed."
+
+"An appalling failure to follow procedure."
+
+He smiled.
+
+She reached him in two strides and caught his face between her hands.
+
+The kiss was not delicate.
+
+He drew her close at once, the familiar warmth of his arms wrapping around her while the range went on being a range behind them. The guitar case stood by the bench. Students were leaving. Someone called a farewell from the equipment shed. None of it mattered enough to make her hurry.
+
+When she drew back, Rhys was smiling in a way she had not seen since the first week they'd been together.
+
+"Hello," he said.
+
+"Hello."
+
+"I missed you."
+
+"I know. Your letters were very repetitive."
+
+He laughed, and she kissed him again.
+
+Eleni passed carrying two practice bows. She looked at the pair, smiled and kept walking without comment.
+
+Rhys watched her go.
+
+"That was your assistant?"
+
+"Yes."
+
+"She looked competent."
+
+"She's dangerously competent. Chiron might decide I'm unnecessary."
+
+"I think he'll survive the risk."
+
+Thalia caught his hand and began walking toward the new range.
+
+"Come see it."
+
+He looked surprised. "Now?"
+
+"Now."
+
+She led him past the safety screens, the movable targets and the new observation platform. She explained the changes they'd made since he left, pausing to demonstrate the angle she'd finally settled on for the difficult second lane. She was aware of how excited she sounded. She didn't try to hide it.
+
+Rhys listened.
+
+He asked questions about the student's perspective, about what happened when someone chose an unsafe route and about whether the assistants could teach without Thalia being present. She told him Eleni had already proved she could, and he looked genuinely pleased.
+
+"You made something good," he said.
+
+Thalia glanced toward the targets.
+
+"We did."
+
+She was startled by her own answer. Months earlier she would have claimed the program without thinking. Now she could say the plural without feeling that any of the work had become less hers.
+
+Rhys looked at her. She knew he had noticed.
+
+"Don't say it," she warned.
+
+"I wasn't going to."
+
+"You had the expression."
+
+"I was impressed."
+
+She smiled despite herself and drew him toward the gate.
+
+***
+
+They took the long route around the lake.
+
+The water was high from spring rain, and the reeds along the shore had grown thick and green. A few campers were fishing from the lower bank; farther out, a pair of small boats moved slowly across the lake. The path smelled of damp earth and new grass. Thalia had walked it almost every day while Rhys was away, usually thinking about lessons, sometimes thinking about letters.
+
+Walking beside him changed the view.
+
+He told her about the final concert as they went, pausing to describe the arrangement whose credit had caused an argument and the way Edda had finally accepted a less crowded ending. Thalia listened, interrupting when a description sounded too generous or technically impossible. He laughed and corrected himself. It was familiar enough to be comforting and new enough that she could hear the differences in his confidence.
+
+"You enjoyed it," she said.
+
+"Yes."
+
+"All of it?"
+
+"No. Some days were miserable. I kept wanting them to end, then feeling guilty because I'd worked so hard to be there."
+
+"That's a common problem."
+
+"Have you had it?"
+
+"Frequently. I spent half the winter complaining about my heel, then disliked being told I could rest."
+
+He smiled.
+
+At the low wall they stopped. The stone had warmed in the sun, and Thalia sat with her feet on the grass. Rhys settled beside her, leaving the guitar case against the fence.
+
+For a while they watched the lake.
+
+She had imagined the moment when he returned many times. In the imagined version they barely spoke. She kissed him at the gate, dragged him to the cabin and spent the rest of the evening convincing herself he was really there. There was still an enormous pleasure in being able to touch him. But now he was beside her, telling her things she hadn't known, and the conversation mattered too.
+
+She looked at his hands.
+
+"How's the thumb?"
+
+"Fine."
+
+"Show me."
+
+He held it out. The swelling was gone, and the movement looked comfortable. She took his hand, pressed it between hers and looked up at him.
+
+"Good."
+
+He smiled. "A favorable inspection?"
+
+"Exceptional."
+
+She leaned in and kissed him.
+
+This time the kiss was slower. She could feel the sunlight on her cheek and the warmth of his hand in hers. The weeks apart had not made him strange. They had made her pay attention again to things she'd begun taking for granted: how he turned toward her before she asked, the small pause when his smile softened, the way he waited when she had a thought she hadn't quite finished.
+
+She drew back.
+
+"I want to hear the new piece."
+
+"It's not finished."
+
+"Then play the unfinished version."
+
+"You'll hate it."
+
+"Probably."
+
+He laughed and reached for the guitar.
+
+He played the opening slowly, mindful of the damp air. The melody was unlike the one they'd worked on all winter. It began low and hesitant, then rose with a confidence that surprised her. The second line entered late, letting the first carry the idea a little farther than she'd expected before answering it.
+
+When he finished she was quiet.
+
+"Well?" he asked.
+
+She thought about the piece. It sounded like the tour, not because she could identify any of the towns or musicians in the notes, but because it contained the kind of listening she'd heard at the concert. The melody didn't insist on being the only thing worth hearing.
+
+"It's good," she said.
+
+He smiled.
+
+"The middle's too long."
+
+He laughed outright.
+
+"There she is."
+
+She leaned against him. He put down the guitar and took her hand.
+
+For a while they sat together with nothing urgent to say. The day was warm, the camp was busy and the first part of the reunion had belonged to the range rather than the cabin. She found she was glad of it. He had returned to the life she was building, not merely to the private room where they'd learned how to kiss each other.
+
+Then she stood.
+
+"Come on."
+
+"Where?"
+
+"Home."
+
+He looked at her. The word had come without calculation. She hadn't meant to define anything by it. She only knew that the north cabin was the place where his coat would be hanging beside hers by evening, where the guitar could be unpacked and the photograph returned to the drawer.
+
+He stood and took the guitar case.
+
+"All right," he said.
+
+She caught his hand and led him up the path, smiling.
+
+At the cabin she put her coat on the hook before he finished bringing in his bag. He had barely turned when she came close again. She kissed him with the pent-up enthusiasm of the weeks apart, and he met her without hesitation, drawing her toward him as if he'd been waiting for exactly this moment since the train arrived.
+
+Their laughter stopped.
+
+The room was familiar, but the people in it had spent weeks learning things the other hadn't witnessed. They would spend evenings telling the stories. They would argue about music and target placement. They would find out whether the new habits fit with the old ones.
+
+For now they had the closed door, the warmth of the room and the unmistakable pleasure of being together again.
+
+Thalia drew him nearer.
+
+The rest of the evening could wait.
+
+---
