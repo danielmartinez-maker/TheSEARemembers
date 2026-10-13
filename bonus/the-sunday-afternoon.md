@@ -9730,3 +9730,157 @@ When she finally rose to go home, Rhys came to the door with her. The path beyon
 She walked downhill without hurrying. The afternoon had belonged to them because they had chosen it, and that was enough to make her look forward to the next one.
 
 ---
+
+## March 19: The Last Rehearsal Before Spring
+
+The guitar string broke in the middle of a perfectly good afternoon.
+
+Rhys had been practicing in the hall for two hours, working through the program he expected to perform on tour. Thalia had been on the opposite side of the room reviewing advanced-course reports, occasionally looking up when he repeated a troublesome passage. Neither needed the other's attention. They liked sharing the space anyway.
+
+Then the string snapped.
+
+The sound was sharp enough to make Thalia look up. Rhys stared at the instrument for a moment with an expression of personal betrayal.
+
+"That one was new," he said.
+
+"Clearly it had ambitions beyond its abilities."
+
+He looked toward her.
+
+"I bought it in December."
+
+"An ancient artifact."
+
+He laughed, but she could see the frustration beneath it. The tour was getting close. Every small failure felt larger when measured against a date he couldn't change.
+
+She put down the report.
+
+"Do you have another?"
+
+"Two."
+
+"Then change it."
+
+"You're very sympathetic."
+
+"I've been told."
+
+He set the guitar on the bench and went to the instrument cupboard. Thalia watched him return with the spare packet, then caught herself thinking about how ordinary his competence had become to her. The first time she'd seen him restring a bow she had found his patience irritating. Now she liked the way he worked, the steady hands, the habit of checking a repair twice before declaring it finished.
+
+He replaced the string, tuned the instrument and played the passage again.
+
+The sound was better.
+
+"See?" she said.
+
+"Your optimism is extraordinary."
+
+"Only when it's supported by evidence."
+
+He looked up and smiled.
+
+She returned to the report, but she was no longer reading the numbers. She kept thinking about the fact that the room would be quiet when he went on tour. The program would continue. The students would arrive and leave. Someone else would play in the hall, perhaps better, perhaps worse. She would still have the work she liked.
+
+She would miss this.
+
+When the rehearsal ended, Rhys packed the guitar and came to sit beside her.
+
+"How's your work?"
+
+"Nearly finished."
+
+"Anything difficult?"
+
+"A student who thinks the point of an assessment is to convince me he's never wrong."
+
+"Sounds familiar."
+
+She gave him a pointed look.
+
+"Don't."
+
+He grinned. "I was thinking of myself."
+
+"Good recovery."
+
+They sat together with the report open between them. Rhys read the student's notes and suggested a question that might force him to explain his reasoning instead of defending the result. Thalia wrote it down, then looked at him.
+
+"That's useful."
+
+"I have moments."
+
+"Rare ones."
+
+He laughed.
+
+The hall was empty now. Outside the windows, late afternoon light fell across the path. Thalia turned toward him, suddenly aware that they had spent two hours together without touching and that she wanted to remedy the situation.
+
+She took his hand.
+
+Rhys looked up.
+
+"Come here," she said.
+
+He moved closer. She kissed him, and he met the kiss with immediate warmth, setting the report safely out of the way before drawing her toward him. The familiarity of the gesture pleased her. He knew which pages mattered to her, which objects she would resent having damaged, and which teasing remarks were best left for another moment.
+
+When they separated, she rested her forehead against his.
+
+"You're going to take the guitar with you," she said.
+
+"That was the plan."
+
+"And leave me with the terrible piano."
+
+"An unfortunate arrangement."
+
+She smiled. "I'll survive."
+
+He touched her cheek.
+
+"I know."
+
+The confidence in his answer made her feel unexpectedly steady. He was not treating her as someone who would collapse without him. He knew she would miss him, and he believed she could still have a good spring.
+
+She liked that he believed it.
+
+***
+
+They walked back to his cabin for supper.
+
+He cooked while she finished the report at the table. They had found a comfortable rhythm for evenings like this, two people occupying the same room without requiring each minute to be shared. At one point Rhys came behind her chair and kissed the top of her head; she caught his wrist and pulled him down for a better kiss, then sent him back to the stove before he burned anything.
+
+"Very demanding," he said.
+
+"Very observant."
+
+The food was good. She told him so, and he looked theatrically astonished.
+
+After supper they washed the dishes and settled beside the stove. Thalia had been thinking about the broken string, the small failure that had interrupted a long rehearsal, and how quickly he had repaired it without needing to believe the whole performance was ruined.
+
+"Do you think that's what we're doing?" she asked.
+
+"Cooking?"
+
+"No. Making changes whenever something breaks."
+
+He considered. "Sometimes."
+
+She looked at him. "Not fixing each other."
+
+"No."
+
+"Just figuring out what works."
+
+He smiled. "That sounds familiar."
+
+She leaned closer and kissed him. The kiss lingered, warm and comfortable, and she could feel him smiling when she drew back.
+
+The tour was less than two weeks away. Their lives were about to separate for a while again. But she was no longer treating the distance as evidence that either had failed to care enough. It was a problem with a timetable, not a flaw in the relationship.
+
+She rested her head against his shoulder and listened to the stove.
+
+Tomorrow she would run her program. He would rehearse. At supper they might have news worth sharing, or they might have nothing interesting to say at all. She liked that both possibilities felt good.
+
+The guitar string held.
+
+---
