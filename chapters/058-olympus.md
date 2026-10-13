@@ -494,123 +494,198 @@ Zeus grunted, bolt across his knees. "WE ARE CLEAR. FOR NOW. KEEP YOUR TIDES OUT
 
 ---
 
-Zeus then did something no one expected.
+Zeus summoned his daughters after the court began to empty.
 
-He stood, shrank himself to merely tall-man size, stepped down from his throne, and approached his daughters.
+It was not an embrace. He didn't come down from the throne, and he didn't shrink into a gentle mortal shape. He remained above them with the bolt resting across his knees, a king conducting another matter of state.
 
-Thalia stiffened. Annabeth froze, hand still in Percy's.
+"Thalia. Annabeth. Stay."
 
-The Lord of the Sky stopped three feet from them, huge and awkward in his pinstripe suit, thunder bottled clumsily in human shape. He looked at Thalia's torn jacket, at Annabeth's bandaged hands, at the way they flanked Percy like guards.
+Percy looked at Annabeth. She was already looking toward her sister.
 
-"Daughters," he said. The word sounded foreign in his mouth. "Thalia. Annabeth."
+"We'll be just outside," he said.
 
-"Father," they said together, wary.
+Thalia shook her head. "You can stay."
 
-Zeus cleared his throat. Lightning crackled in his beard.
+"Father asked for us," Annabeth answered. "We should hear what he wants before we decide who else needs to be present."
 
-"You—" He stopped. Started again. "You entered Hades's realm living. You confronted your uncle. You— stood— to me. For truth. For— him."
+Percy respected the choice. He went with Grover as far as the antechamber, close enough that the girls could call him if they needed help but not close enough to pretend their conversation with Zeus was his to control.
 
-He nodded stiffly at Percy, who tried very hard not to stare.
+The guards allowed the two daughters to remain in the center of the marble floor. Their father watched them for an uncomfortably long time.
 
-"I— am—" Zeus struggled visibly. Hera mouthed something behind him. Athena rolled her eyes. Aphrodite whispered, "Say thank you, you old storm cloud."
+"You refused my order at camp," he said.
 
-"THANK YOU," Zeus boomed, then winced at his own volume and lowered it with effort. "Thank you. For returning my bolt. For clearing my— for preventing war. For— reminding me that loyalty still— exists."
+Thalia lifted her chin. "You wanted us to report conversations Percy had with his sisters."
 
-Thalia blinked. Annabeth's mouth fell open.
+"I wanted to know whether Poseidon's household was preparing a betrayal."
 
-"That is— you are welcome, Father," Thalia managed.
+"And you wanted us to use our friendship to find out," Annabeth replied.
 
-"Yes," Annabeth said faintly. "You are welcome."
+Zeus's expression darkened. "I have already acknowledged that the accusation was unfounded."
 
-Zeus nodded once, sharply, as if that concluded fatherhood for the century, then hesitated. He reached out a huge hand, hovered it over Thalia's head, then over Annabeth's, unsure whether to bless or pat or smite.
+"That isn't the same as acknowledging what you asked us to do," Thalia said.
 
-Hera sighed audibly. "Girls, come here."
+Thunder moved through the high chamber. Neither girl stepped back.
 
-She swept forward, queenly, and pulled both daughters into a brief, fierce embrace that smelled like peacock feathers and rain. Thalia went rigid with surprise, then melted. Annabeth leaned in, eyes wet.
+Zeus looked from one daughter to the other.
 
-"Your father is terrible at this," Hera murmured, just loud enough for Percy to hear. "He owes you more than gratitude today. Let him show whether he can give it."
+"You entered Hades's court without sky escort and returned with an account that helped preserve Olympus. That is commendable."
 
-"We will," Thalia whispered.
+Annabeth waited. She could see the effort it had cost him to say even that.
 
-"Maybe," Annabeth whispered, and Hera smiled.
+"Then will you lift the restrictions?" she asked.
 
-Zeus, relieved to be off the hook, retreated to his throne with haste bordering on flight, sitting down hard. The court exhaled.
+"Not now."
 
-Aphrodite was not done.
+Thalia laughed once, without amusement.
 
-"Now," she said, rising and gliding down to stand before Percy and Annabeth, golden robes shimmering. "Let us address the hand."
+"We did the thing you said would prove our loyalty."
 
-Percy looked down as if noticing for the first time that he was still holding Annabeth's hand. He was. She was still holding his. Their bandages had stuck together slightly with sweat.
+"You returned a weapon. You also defied your father publicly, and I have not forgotten."
 
-He tried to let go. She tried to let go. Their fingers tangled worse.
+"Neither have we," Thalia said.
 
-Aphrodite laughed, bright as bells.
+Percy was far enough away that he couldn't hear all of it. But he saw Annabeth look toward the far door where Hera stood, listening without interrupting. Zeus had changed the shape of his suit while speaking. He looked older, his beard longer, the skin around his eyes weathered. Then the change was gone. Thalia watched it happen without surprise.
 
-"Oh, do not stop on my account," she said. "Son of Poseidon, daughter of Zeus, braided together by water and lightning. Tell me, did you hold hands in the Underworld elevator?"
+Annabeth took a breath.
 
-Grover squeaked. "I saw nothing! I was breathing! In for four!"
+"We didn't do this to earn your approval," she said. "We did it because the gods fighting would hurt everybody at camp. Percy could have stayed home. Grover could have stayed home. Thalia could have let you send a guard instead of her. We came because it needed doing."
 
-Thalia cackled. "They held hands in the elevator, in the Fields, in Hades's palace, on the beach, on the plane—"
+Zeus's hand tightened on the bolt.
 
-"Thalia!" Annabeth cried, scarlet to her hairline.
+"Take care. You speak as though duty and love are separate."
 
-"—in the taxi," Thalia finished triumphantly. "I kept count. Professional big sister duty."
+"Sometimes they are," Annabeth replied. "And sometimes people use duty to make love into something we have to pass a test for."
 
-"Thalia Grace," Athena said dryly, "you are a reliable witness."
+Her father studied her with a look she couldn't read. His next words were quiet enough that the outer guards leaned forward to hear.
 
-"I am," Thalia said proudly, then ruined it by blushing herself when Apollo whistled.
+"You may return to camp. I will review the withdrawal of sky-gifts at the next council. Until then, the order remains."
 
-Percy stared at his shoes. His face burned. "We were— it was strategy. For courage. For—"
+Thalia seemed ready to protest again. Then she looked at Annabeth and stopped. Another argument might make their father louder, but it wouldn't make him listen.
 
-"For love," Aphrodite supplied. "Say it. It will not kill you. Worse things have been said on this floor. Ares once said he liked poetry."
+"Then please have that review recorded," she said. "We'd like to know when a decision has actually been made."
 
-"I did not!" Ares shouted.
+Zeus turned to a clerk. A notation was entered into the court register.
 
-"You did," Hermes said. "Bad haiku. About spears."
+"Done," he said.
 
-Laughter rippled around the thrones. Even Zeus snorted.
+He looked as though he expected thanks. Neither daughter supplied any.
 
-Annabeth found her voice first, though it came out squeaky. "He is an idiot," she said, gesturing at Percy with her free hand while refusing to free the other. "He jumps in front of hellfire. He mouths together in elevators. He promises side by side and then actually keeps it."
+Hera approached when Zeus dismissed them. She did not pull them into a sudden embrace or tell them their father's intentions were better than his behavior.
 
-Percy found his, hoarse but steady. "She is a know-it-all. She brings maps to the Underworld. She calls lightning with no sky. She steps in front of me right back."
+"He should not have asked you to spy on your friends," she said.
 
-"Then you are matched," Aphrodite declared. "Idiot and know-it-all. Sea and sky. Oh, I bless this. Freely. Without fee. Which for me is practically a miracle."
+Thalia looked up, startled by the directness.
 
-She kissed her fingertips and blew toward them. Rose petals materialized and showered their heads. Percy sneezed. Annabeth laughed despite herself, petals sticking to her dusty hair.
+"No," she answered.
 
-"Take the blessing," Amphitrite advised softly, smiling. "Aphrodite rarely gives without strings. When she does, keep it."
+"I will see that the review is brought to council. I cannot promise he will make the decision you want."
 
-Poseidon looked at their hands and nodded slowly, as if seeing the future in it and deciding he approved.
+Annabeth nodded. "Thank you for saying that."
 
-"Side by side," he repeated. "Good. The sea holds the sky at the horizon. Remember that."
+Hera's face softened, briefly. "Go rest. You are hurt, and Olympus has been very good at pretending a child's injuries matter less than a god's wounded pride."
 
-Zeus looked at their hands, at his daughters' blushes, at his queen's fond smile, and threw up his hands.
+Thalia looked over her shoulder toward the throne. Her father had already turned away to speak to an attendant about the bolt.
 
-"DO NOT MARRY WITHOUT ASKING," he boomed. "THAT IS ALL I ASK. I CANNOT AFFORD ANOTHER PROPHECY WEDDING."
+"He didn't ask if we were okay," she said.
 
-"Father!" Annabeth and Thalia shrieked together.
+"No," Annabeth agreed.
 
-"What?" Zeus said. "I am practicing. Being a father. Hera said to practice."
+They walked out together. Neither tried to make the other feel better by imagining a different conversation from the one they had actually had.
 
-Hera buried her face in her hands. The court howled. Hermes fell off his throne. Apollo applauded. Artemis actually smiled. Thalia laughed so hard she had to lean on Percy, who leaned on Annabeth, who leaned back, all three swaying in the center of Olympus with Grover clinging to them for balance.
+Percy was waiting in the antechamber with Grover and an extremely relieved expression.
 
-Percy looked at Annabeth through the rose petals and the god-light and the dissipating storm. Her gray eyes were bright, wet, amused, exhausted. Her hand was steady in his.
+"How did it go?" he asked.
 
-Together, she mouthed, no sound, just the shape, as she had in the elevator going down.
+Thalia made a face. "About as well as a conversation with Zeus can go."
 
-Together, he mouthed back.
+"Did he apologize?" Grover asked.
 
-Thalia saw it and rolled her eyes fondly, then threw an arm around both of them, pulling Grover in with the other, forming a small, tired, unbreakable knot in the middle of the vast throne room.
+"No."
 
-Grace sisters by blood. Percy, Annabeth's partner. Grover, their friend by choice and oath. Quest team.
+"Did he lift the sanctions?"
 
-Above the palace, the sky cleared to perfect blue. Below, Manhattan honked and hurried, unaware that war had been averted by four children holding hands.
+"No."
 
-Hestia tended her fire. Hera watched her stepdaughters with soft eyes. Amphitrite watched her stepson with pride. Poseidon watched his son with love barely hidden behind gruffness. Zeus watched his bolt, his brothers, his daughters, and pretended not to watch at all.
+Percy looked toward Annabeth. She had her notebook out and was writing the date of the promised review.
 
-The solstice held.
+"Then what did you get?" he asked.
+
+"A record," Annabeth said. "And a promise to consider something later. I'm not mistaking either of those for a different father."
+
+Thalia rested an arm across her sister's shoulders. She looked tired, but there was something steadier in the way she stood beside Annabeth now.
+
+"Good," she said. "Because we still have to go home."
+
+Aphrodite passed them near the marble steps. She noticed Percy and Annabeth's joined hands and gave them a curious look.
+
+"You two have been together a long time in the way you look at each other," she said.
+
+Percy felt his ears go warm. The goddess of love had spoken to them before, but he'd never liked feeling as though somebody could read a relationship from a gesture.
+
+"We care about each other," Annabeth answered.
+
+"Then take care of each other when the excitement is over," Aphrodite replied. "It's easy to be tender when the whole court is watching. Harder when someone is sick or impatient and nobody is applauding."
+
+For once, Percy didn't have a smart reply. He thought of Annabeth asking him to hold one corner of a map while her hand hurt, and of the nights they'd spent telling one another the same worries without being able to fix them.
+
+"We can do that," he said.
+
+Aphrodite smiled and continued down the corridor. She left them without rose petals, a prophecy about marriage or a theatrical blessing. Percy was grateful.
+
+At the exit, Poseidon and Amphitrite waited beside a courier preparing the return transport.
+
+Amphitrite looked at Percy's bruised face, then at his shoes, which were still stained with soot and sand.
+
+"You'll need rest when you get back," she said. "And you'll write when you can."
+
+"I will."
+
+"Silena sent us a note about your eating habits. I understand you have been forgetting lunch."
+
+Percy looked mortified. "She told you that?"
+
+"She tells me things when she's worried," Amphitrite said.
+
+Percy nearly explained how difficult it had been to find food between the Underworld and the beach. Instead he promised to eat something before leaving Olympus.
+
+Poseidon stood beside her, quieter than Percy was accustomed to seeing him.
+
+"I owe you an answer to the letter you sent after Zeus visited camp," he said.
+
+Percy looked up quickly.
+
+"I received it. The old sea routes are being repaired. Some were damaged by storms and some by neglect. That work was not preparation for war. I should have told you sooner."
+
+"Why didn't you?"
+
+His father hesitated. "Because I expected the quarrel to be settled among gods. I didn't expect Zeus to question my children before the camp."
+
+Percy didn't say the obvious thing, that gods seldom expected children to be the ones dealing with the consequences. He was tired. The answer was late, but at least it was an answer.
+
+"Please tell Clarisse and Silena yourself," he said. "They've been the ones having to defend it."
+
+Poseidon looked surprised. Then he nodded.
+
+"I will."
+
+It didn't make their family uncomplicated. Percy could love Poseidon and Amphitrite without pretending he'd acquired the memories of all the years his sisters described. He could keep Sally's stamped response in his pocket and be relieved she wasn't under punishment without asking anyone here to understand the whole reason that mattered.
+
+At the departing lift, Grover checked that the armory representative had recorded the bolt's acceptance. The sealed weapon was already in Zeus's custody, and its return no longer depended on a schoolboy holding a buzzing bag.
+
+The court sent a short confirmation through its official messenger network to Chiron: the master bolt had been recovered and accepted before the solstice, the immediate declaration of war was suspended, and the children were returning to camp under authorized transport.
+
+Percy saw the message before it went.
+
+"Can we add that everybody's alive?" he asked.
+
+The messenger looked at him.
+
+"Yes," she said. "I can add that."
+
+Four names, four living travelers. He preferred that line to every grand claim the court had made about courage.
+
+The doors closed and Olympus moved away above them. Percy held Annabeth's hand, but he didn't try to make the silence mean everything had been solved. There were still injuries, family arguments and questions no god had answered.
+
+The bolt was home. Now they had to get home too.
 
 ---
-
----
-
