@@ -8938,3 +8938,171 @@ She looked up at him, smiling.
 He laughed, and she kissed him again.
 
 ---
+
+## February 26: A Spring That Belonged to Both of Them
+
+Chiron asked to see them together on Monday.
+
+Thalia disliked the phrasing of the invitation. It sounded as though they had broken a rule or left something important unfinished. She arrived at the office with her advanced-program notes under one arm and Rhys beside her, looking annoyingly calm.
+
+Chiron gestured toward two chairs.
+
+"Sit."
+
+"We haven't broken anything," Thalia said.
+
+"I hadn't accused you of doing so."
+
+"Good."
+
+Rhys coughed into his hand. She gave him a look.
+
+Chiron unfolded a schedule. He wanted to discuss the spring instructor rotation. Thalia's advanced program had been approved for a longer run, with more students and an assistant instructor assigned to each group. Rhys's winter teaching duties could be transferred before he left on tour, but the handoff would need careful planning.
+
+Thalia listened as Chiron laid out the dates. Her program would grow at the same moment Rhys began his rehearsals. They would both be occupied. Neither would have much time for anything beyond work in the first week of April.
+
+"That's manageable," she said.
+
+"It is," Chiron replied. "If you make your decisions separately and coordinate only the parts that overlap."
+
+Rhys glanced at her.
+
+She looked at him. "Don't."
+
+"I haven't said anything."
+
+"You have the expression."
+
+Chiron continued as though neither had spoken.
+
+The meeting lasted an hour. By the end, Thalia had an assistant to train, Rhys had a list of duties to transfer, and both had a clear view of what would happen before April. It was not romantic. It was useful.
+
+Outside the office, Rhys stopped beneath the covered walkway.
+
+"That went well."
+
+"Chiron is very good at making the future look like a table."
+
+"Sometimes a table helps."
+
+"Sometimes a table becomes an excuse to make decisions for people."
+
+He studied her. "You're still annoyed."
+
+"Not at him."
+
+"At me?"
+
+She considered. "A little."
+
+"For taking the tour?"
+
+"No."
+
+"For leaving?"
+
+"That's part of it."
+
+He waited. She knew he could endure an uncomfortable silence better than most people, and she wasn't going to let him win an argument simply by standing still.
+
+"I'm angry because I have a good thing happening," she said. "My program is growing. You're doing something you've wanted for years. And instead of being pleased all the time, I keep thinking about how little of spring we'll spend together."
+
+He nodded.
+
+"That's not unreasonable."
+
+"I know."
+
+"You don't have to be pleased all the time."
+
+She looked up. There it was again, the permission she didn't need but liked hearing anyway.
+
+"I hate missing you," she said.
+
+"I know."
+
+"And I want you to go."
+
+"I know that too."
+
+She folded her notes under her arm. "Then we're both going to have a difficult spring."
+
+"Probably."
+
+He smiled.
+
+She wanted to kiss him. The impulse was immediate and familiar, and she was tired of pretending it required explanation. She caught his collar and kissed him beneath the walkway, not caring whether anybody passed at that moment. He met her eagerly, drawing her closer for a second kiss when she smiled against his mouth.
+
+"Better?" he murmured.
+
+"Considerably."
+
+They walked down to the range together.
+
+***
+
+That afternoon Thalia began training her assistant.
+
+The younger instructor was capable but nervous, eager to prove she deserved the position. Thalia recognized the feeling and, for once, resisted the impulse to correct every small mistake immediately. She let the woman run the first demonstration, watched the students respond and waited until the end to offer feedback.
+
+The session went well.
+
+At supper she found Rhys at the far end of the pavilion, surrounded by music sheets and a stack of schedules. He looked as occupied as she had been earlier. She could have gone over and demanded his attention. Instead she took her food to the next table, ate, and left him to finish.
+
+Half an hour later he came to find her.
+
+"You're avoiding me."
+
+"I'm letting you work."
+
+"A shocking change."
+
+"I've had a long day."
+
+He sat beside her. "How was the assistant?"
+
+"Good. Nervous. Better than she thinks."
+
+He smiled. "Sounds familiar."
+
+She looked at him. "Don't start."
+
+"I'm not."
+
+They talked about the day's work for a while, comparing the difficulties of teaching students to make decisions and teaching adults to take over responsibilities without feeling that the previous person had abandoned them. It was a useful conversation. It was also one neither could have had with quite the same understanding several months earlier.
+
+By the time supper ended, Thalia felt less angry about spring.
+
+They weren't losing the weeks before it. They were preparing to do work they cared about. The relationship would have to fit around those responsibilities, not replace them.
+
+At the north path Rhys took her hand.
+
+"Come home?"
+
+She smiled. "Yes."
+
+They walked together as the lanterns came on one by one.
+
+Inside the cabin he closed the door, set down his papers and turned toward her. She was already moving closer. Their kiss was eager and familiar, a private pleasure after a day spent negotiating practical things in public. She caught his shoulders; he drew her against him, and for a while they let the planning stay on the table where they'd left it.
+
+Later the room grew quiet. She lay beside him beneath the blanket, listening to the stove, and realized she felt something she hadn't expected: pride. They were both growing into different responsibilities, and neither had asked the other to remain smaller in order to make the relationship easier.
+
+She touched his hand.
+
+"April is going to be terrible," she said.
+
+He laughed softly. "Parts of it."
+
+"Write that down."
+
+"Very formal."
+
+"I'm making a record."
+
+He kissed her cheek.
+
+"We'll manage what we can," he said.
+
+She nodded. It wasn't a guarantee. It was enough.
+
+---
