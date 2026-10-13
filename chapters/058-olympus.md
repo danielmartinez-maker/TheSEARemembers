@@ -28,7 +28,7 @@ Annabeth squeezed Percy's hand once, hard. Together, the squeeze said.
 
 Percy squeezed back.
 
-The Empire State Building rose in front of them, tall and pale in the morning light, its spire stabbing straight into the blue. Percy stared up through the windshield and felt the bolt pulse against his knees in answer, like it knew it was home.
+The Empire State Building rose in front of them, tall and pale in the morning light, its spire stabbing straight into the blue. Percy stared up through the windshield. In the guarded vehicle behind them, the sealed bolt was finally approaching its proper home. He could not feel it through the containment vessel or the traffic, and he was glad it was no longer his job to carry it.
 
 Grover bleated softly. "Six hundredth floor," he whispered. "I am going to throw up the whole way up."
 
