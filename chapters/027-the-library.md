@@ -974,4 +974,4 @@ Ella came to collect the suggestion slips. She read them, placed them in the new
 
 "Good," she said. "It tells the truth about what we know. It also tells people what we want to learn."
 
-Nico smiled. He returned the pencil to its box and went to dinner, leaving the display where visitors could read it without having to enter the archive.
+Nico smiled. He returned the pencil to its box and went to dinner, leaving the display where visitors could read it without having to enter the archive. At the doorway he remembered something and went back to add a date to the bottom of the board. The exhibit had been made this week, not in the distant past. Someone opening the file years later should be able to tell that the notes were his and Ella's, written by campers who were learning as they went. He signed his name beneath the date, then left a space for the people who would update the display next. History did not have to stop because he had finished the first board.
