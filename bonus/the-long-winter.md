@@ -4226,3 +4226,275 @@ She looked at his hand on the drawer, the grin he'd failed to hide, and felt the
 
 Then she walked away before he could see how much it pleased her.
 ---
+
+## Friday, November 3: After the Hall Closed
+
+The pool was empty when Thalia arrived.
+
+This was a rare condition. During the day, the Tempest Hall belonged to children splashing at the shallow end, instructors counting heads, Percy arguing about whether a game was officially a swimming lesson, and Clarisse trying to make rules stay in the places she'd written them. At night there were usually two adults left to check the drains and put away the equipment. Tonight there was only Rhys, standing ankle-deep at the first step with his sleeves rolled and a measuring pole in one hand.
+
+Thalia stopped at the threshold.
+
+"Are you conducting an experiment?"
+
+"Checking whether the winter cover fits."
+
+"While standing in the water?"
+
+"The cover wouldn't fit on dry land."
+
+She looked at the heavy canvas spread along the near edge of the pool. Three cords crossed its width. Someone had written numbers along the hem, and one corner had been marked in bright chalk. It was a practical job. She had come here partly because she knew he would still be working, and partly because it amused her to find him trying to finish one more task before he was willing to leave.
+
+"You know," she said, "the pool is still going to be here in the morning."
+
+"An unproven assumption."
+
+"Calder."
+
+He looked up and smiled. "I have to check the far edge, then I'm done. Want to help?"
+
+Thalia considered pretending she had somewhere better to be. Instead she took off her coat, left her boots beside the bench and rolled up the cuffs of her trousers. The water was cold enough to make her gasp when she stepped onto the first tile.
+
+"Gods."
+
+"I warned you."
+
+"You said you needed help. That was not a warning."
+
+"I thought you knew about water."
+
+"Percy knows about water. I know about weather."
+
+"A useful distinction."
+
+He handed her the free cord. They worked their way along the shallow steps, pulling the cover into place and measuring how much slack remained at each corner. It wasn't difficult work, but it required both of them to move together. If Rhys pulled too soon, Thalia had to adjust her grip; if she tightened the wrong line, the canvas wrinkled on the far side. After a few minutes she began anticipating his movements, and the work found a rhythm that felt strangely familiar.
+
+She thought of archery, of two people teaching from opposite ends of a range without having to watch each other constantly. It was the kind of competence that made her like him.
+
+"Stop pulling," she said.
+
+"I've stopped."
+
+"You're still moving."
+
+"I'm breathing."
+
+"Do it less."
+
+He laughed. The canvas slipped from her hands, and a wave struck the edge of her trousers. She glared at him.
+
+"That was your fault."
+
+"Clearly."
+
+"Your amusement is expensive."
+
+"I'll put it on the winter budget."
+
+She pulled the cord back into position. He held the other end steady, and the cover settled neatly across the water. By the time they were finished, her toes were numb and his trousers were wet to the knee.
+
+"Excellent," she said. "You've invented a new way to make me miserable."
+
+"I had help."
+
+She stepped out of the pool, sat on the bench and reached for her boots. Her socks were damp. She looked at them with such disgust that Rhys stopped toweling off and laughed.
+
+"Don't," she warned him.
+
+"I haven't said anything."
+
+"Your expression is commentary."
+
+He took a dry towel from the shelf and put it beside her. She accepted it without a fight. She was learning that care didn't have to arrive dressed as an insult, though she reserved the right to insult the person delivering it.
+
+The room was quiet now. Without the ordinary crowd the Tempest Hall seemed larger, all hard surfaces and pale reflected light. The pool lay still beneath the fitted canvas. Somewhere in the back corridor water dripped into a drain at regular intervals.
+
+Thalia dried her feet and put on her boots. Rhys sat on the next bench, leaving a polite distance between them. It was ridiculous, considering how much of the week they had spent together, but the public setting had a way of restoring old habits even when nobody else was present.
+
+She looked at him. His hair was damp where he'd splashed water over his face, and the open collar of his work shirt had darkened at the edge. He was trying to wring out a towel with one hand.
+
+"Come here," she said.
+
+He looked up.
+
+"Why?"
+
+"Because you're making a terrible job of that."
+
+He glanced at the towel. "I thought it was doing well."
+
+"Utterly incompetent."
+
+He moved closer. She took the towel from him, folded it and put it down without making any real attempt to improve it. He watched the performance with growing amusement.
+
+"You've done nothing."
+
+"I've made the situation more dignified."
+
+"Of course."
+
+She caught the front of his shirt and kissed him.
+
+He responded at once, surprised enough to laugh softly before the kiss became serious. She had been thinking about it since she arrived, but there was something especially satisfying about doing it here, in a room where they usually had to act as instructors rather than people who wanted to be close. There was no audience tonight. The water behind them was still, the lanterns were low, and nobody was waiting for a demonstration.
+
+She kissed him again. His fingers moved to the back of her neck, warm against her cool skin. She liked the contrast. She liked the quick, unmistakable pleasure in his expression when she leaned into him instead of making another joke.
+
+He drew back a little.
+
+"We should go," he said.
+
+"You're suddenly very concerned about time."
+
+"We've closed the hall."
+
+"I noticed."
+
+"And I'd rather kiss you somewhere without a tiled floor waiting to break my back."
+
+She looked at the hard benches, the cold water and the damp towels between them.
+
+"That's a compelling argument."
+
+He grinned. She caught his hand and helped him gather the last of the equipment, then followed him out into the cold.
+
+***
+
+The walk to his cabin felt different after the pool.
+
+They had already spent the evening working together, and the memory of the kiss lingered between them, making the ordinary conversation about cover tension and missing towels sound faintly absurd. Thalia had always been good at keeping her attention on a task. Tonight she found her attention moving back to him, to the warmth of his hand in hers and the prospect of a closed door ahead.
+
+He noticed her looking.
+
+"What?"
+
+"Nothing."
+
+"You're wearing the expression."
+
+"Which one?"
+
+"The one that means you've already decided what happens next and you're waiting for me to catch up."
+
+She smiled. "Have I?"
+
+"Have you?"
+
+She drew him to a stop beneath the eighth lantern and kissed him briefly.
+
+"Better?"
+
+"Very informative."
+
+"Then keep walking."
+
+He laughed and obeyed.
+
+At the cabin he set the equipment aside, lit the stove and turned to find Thalia watching him from the middle of the room. She had taken off her coat and loosened her hair from its tie. The damp ends curled slightly against her neck. Her heel was comfortable, the training day finished, and she was entirely tired of making excuses.
+
+"You look pleased with yourself," he said.
+
+"I'm considering whether to be."
+
+He came closer. She could see the question in his face, not a demand for permission but a quiet readiness to meet what she offered. She crossed the remaining distance and kissed him.
+
+He held her close. The kiss deepened, unhurried at first, then less so, and she felt an answering eagerness rise in her that had nothing to do with proving anything. She knew how his hands moved when he drew her toward him, the small hesitation before his smile vanished into another kiss. The familiarity made the desire stronger rather than weaker.
+
+She drew back just long enough to tug the loose collar of his shirt into place.
+
+"You've ruined it," she said.
+
+"I haven't touched it."
+
+"That makes it worse."
+
+He kissed the corner of her mouth. She had a reply ready; it disappeared when he kissed her again. She smiled against him, then caught his hand and led him away from the stove.
+
+The room held the warmth they'd been carrying toward it all evening. She wanted him, and the way he followed her made it unmistakably clear he wanted her too. The lamp went low, the winter coats stayed where they'd fallen, and the rest of the night needed no audience or explanation.
+
+***
+
+Afterward the pool seemed very far away.
+
+Rhys was sitting on the floor against the cot, trying to untie the wet knot in his bootlace. Thalia had stolen the warmest blanket and had no intention of giving it back. There was a small pile of their discarded work clothes near the chair, none arranged in the manner of a person who expected inspection. The room smelled of wood smoke and soap and the faint dampness of towels brought in from the hall.
+
+"You should have dried those before we left," she said.
+
+"The towels?"
+
+"Your boots."
+
+"They were dry."
+
+"They are now."
+
+"That sounds like success."
+
+She shook her head with exaggerated disappointment. He looked up and smiled, the open, unguarded smile she'd begun to recognize as belonging entirely to these moments when nobody else was present.
+
+"What?"
+
+"You're complaining from beneath both blankets."
+
+"I've earned them."
+
+"I'll have to take your word for it."
+
+He stood, gave up on the knot and sat beside her. She moved closer without pretending otherwise. Her body still held the pleasant fatigue of the evening, and she liked the quiet closeness that came after they had stopped trying to make conversation.
+
+"You know what I thought when you came into the hall?" he asked.
+
+"That I was there to rescue your terrible cover?"
+
+"That you looked as though you'd been thinking about me."
+
+Thalia considered lying. There was no reason to.
+
+"I had."
+
+He smiled. "Good."
+
+"Don't make too much of it."
+
+"I wasn't going to."
+
+She looked at him. He had been gone only a few hours earlier, teaching and checking equipment while she was busy with her own work. Yet she'd wanted to find him at the end of the day. That desire was becoming a constant part of her ordinary life, something she could enjoy without treating it as evidence that she'd lost control.
+
+"I like that I can want you and still do my work," she said.
+
+He considered. "I was hoping so."
+
+"And I like that you can tell me when you're busy."
+
+"I do that."
+
+"Sometimes you look apologetic."
+
+"Sometimes I'm disappointed."
+
+"That's allowed."
+
+He laughed softly. She rested against him and listened to the stove.
+
+There was one thing she'd been thinking about since the night he wrote to his mother. She hadn't asked because the question sounded like an attempt to manage his future. Now, with both of them warm and quiet, it seemed less dangerous to say.
+
+"When you go home," she began, "will you miss this?"
+
+He turned toward her. "The cabin?"
+
+She gave him a look.
+
+He smiled. "Yes."
+
+"How much?"
+
+"Enough that I won't pretend I don't."
+
+It was a better answer than any grand declaration. She kissed his shoulder through the blanket and settled beside him again. There would be evenings when he was far away. There would be mornings when she woke in Cabin One and had to find her own reasons to get through the day. The prospect still hurt. But it was possible, she was learning, to want someone without turning absence into a punishment.
+
+He reached for her hand. She took it.
+
+Outside, the wind shook a little snow from the roof. The sound was brief, followed by silence. The cabin held its warmth. They stayed awake longer than either intended, talking about the terrible pool cover, the music he'd promised to finish and the next lesson they would teach together.
+
+Before she slept, Thalia thought of the hall's empty benches and the way he'd looked at her when she asked him to come closer. She had spent years convincing herself she could manage every room alone. The pleasure of choosing to share one was still new enough to surprise her.
+
+---
