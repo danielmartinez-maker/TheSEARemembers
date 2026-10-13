@@ -645,6 +645,110 @@ Annabeth drew a shallow branch away from the path, and Clarisse dug it while Per
 
 At the end of the test, Annabeth wrote down the amount of water they'd used and decided they should inspect the beds again after the next rain. A planted garden was not a finished garden. Somebody would have to maintain it after the celebration.
 
+The first person to use the new path wasn't anyone who had helped build it.
+
+A young camper arrived from Hermes cabin with a broken clay bead cupped between her palms. She stopped at the edge of the cord and watched Clarisse setting the last border stone. When Annabeth asked whether she needed something, the girl held out the bead.
+
+"I used to put things by the little shrine," she said. "Am I allowed to anymore?"
+
+Annabeth looked toward the old steps. They'd kept a clear way to the dedication stone, but the offerings they'd found were being documented before anyone moved them. Chiron hadn't decided what kind of marker the new garden should have. The girl had no reason to know any of that.
+
+"What did you put there before?" Annabeth asked.
+
+"Little things. A shell, once. And a bead my mother gave me. I think somebody moved it." Her voice tightened. "I wasn't trying to make a mess."
+
+"No one thinks you were."
+
+"I thought it was a place people could leave things."
+
+Annabeth felt the difference between her intention and the way the garden might feel to somebody who'd used the site long before she drew a line around it. The girl had arrived expecting a familiar quiet corner. Instead she found a work crew, measuring tape and a half-finished border with people older and louder than she was.
+
+She crouched to be at eye level. "We found old offerings when we began digging. Chiron is having them recorded so they don't get lost or broken. We haven't decided how new ones should be left. I can ask him, though."
+
+"Will you?"
+
+"Yes."
+
+The camper held the bead tighter. Annabeth didn't ask to take it for safekeeping. She couldn't promise when an answer would come, and she didn't want the girl to leave something precious with people who hadn't agreed how they would protect it.
+
+"If you want, you can see the garden," she said. "Just stay on the marked path until the stones are secure."
+
+The girl walked around the outer edge, looking at the new plants. She stopped by the habitat strip Katie had suggested and asked why some of the flowers looked like weeds.
+
+"Some plants grow wild here," Annabeth said. "They're part of the garden too."
+
+"Do you have to make them stand in rows?"
+
+"Not all of them."
+
+The girl smiled at that. She went back to her cabin carrying the bead, with a promise that Annabeth would tell her what Chiron decided. Percy had been listening from the edge of the path without stepping in.
+
+"That was harder than moving rocks," he said.
+
+"Somebody else was here before me," Annabeth answered.
+
+"So were the plants."
+
+"I've had a very educational morning."
+
+Percy smiled but didn't tease her. He had spent enough time being told stories about an Atlantean childhood he couldn't remember to know that places could hold meanings for different people. Annabeth didn't expect him to explain the feeling aloud. He handed her a cup of water and sat on the grass while she wrote the girl's question in the margin of the work log.
+
+Chiron returned later with the maintenance inspector's notes. The old shrine base was stable enough to remain open for brief visits, provided no new soil was piled against it. The broken offerings would be moved under the supervision of the conservator, with their locations recorded. New objects could be left in a shallow tray on the existing step rather than pushed into the earth beside the foundations. The tray would need checking so it did not become a place where personal keepsakes could vanish.
+
+"Then we should put up a notice," Annabeth said.
+
+"A temporary one," Chiron replied. "We can ask the campers who use the shrine what they would like it to say."
+
+She wrote that down. It felt strange to leave the wording unfinished when she had spent so long planning the precise position of every flower. The uncertainty would be shared rather than hers alone, and that made it easier to carry.
+
+As the sun lowered, the workers began gathering their tools. Katie arranged a date for the first garden inspection, and Silena carried her empty seedling flats back toward the cabins. Clarisse announced that she had spent enough time looking at flowers and intended to spend tomorrow hitting something with a practice spear. Grover said that sounded healthier than hitting the flowers. Thalia laughed and put down the last unused border stone beside the pile marked for return.
+
+Annabeth was left with Percy, a dusty sketchbook and a square of earth that looked nothing like it had when the morning began.
+
+"You wanted to talk about the summer," he said.
+
+She nodded. The conversation they'd started over lemonade had been interrupted so often she wasn't sure which part they'd actually agreed on.
+
+"I might spend some time at Atlantis," he said. "My father wants me to train there. I haven't settled the dates."
+
+"And I have the camp projects," she said. "And Thalia's asked me to help with the winter shelter plans."
+
+"Do you want me to stay?"
+
+The question was sincere. That made it harder.
+
+"I want to be able to miss you without it being a disaster," Annabeth said. "I want you to go if you want to go, and I want us to decide when we can visit instead of promising we'll never spend a day apart."
+
+Percy pulled at a blade of grass, thoughtful. "I do want to go. Not because I want to leave you."
+
+"I know."
+
+"I wish that were less complicated to say."
+
+"Then we should keep saying it until it isn't."
+
+He glanced at her. "Would you visit if we could arrange a passage?"
+
+"Probably. Not because I'm obliged."
+
+"Good."
+
+They discussed one possible visit and agreed not to fix the date until Chiron and the palace confirmed the travel plans. Annabeth would have projects that belonged to her. Percy would have lessons that belonged to him. They would still have each other, and the relationship did not need to swallow either schedule to remain real.
+
+When he moved his hand toward hers, she took it. They sat by the old stone for a while, watching the garden hold the last light. She thought of the little girl carrying her bead away. The new beds had made room for that child's memory, even though Annabeth didn't know what it contained. In some ways she and Percy were doing the same thing with their lives: making room for histories the other couldn't completely see.
+
+"Will it grow?" Percy asked, looking toward the smallest seedlings.
+
+"If we keep caring for it."
+
+"That sounds like a responsibility."
+
+"It is."
+
+He squeezed her fingers. "I can help when I'm here."
+
+"That's what I wanted."
+
 Afternoon stretched long and amber, and the garden took shape.
 
 Moonvine went in along the north edge, tendrils tied to twine trellises with strips of old camp T-shirts. Lavender formed a hazy blue-green hedge behind the marigolds, leaves releasing camphor and honey when bruised. Alyssum foamed white between stones, petals cool as milk against Annabeth's wrists as she tucked them in. In the center, Silena planted a single olive sapling no taller than Annabeth's forearm, leaves silver-green, stem tied to a cedar stake.
