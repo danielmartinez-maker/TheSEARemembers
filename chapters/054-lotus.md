@@ -2,11 +2,11 @@
 
 The desert tried to kill them with boredom first.
 
-It was the third day driving west after the gnome place, and the van had a rattle under the dashboard that only stopped when Thalia threatened it. The air conditioner blew lukewarm air that smelled like old fries. Outside, Nevada unrolled in white glare, scrub and heat-shimmer that made the road look wet.
+Several days had passed since the Medusa encounter, including the emergency stop in St. Louis. The van had a rattle under its dashboard that only stopped when Thalia threatened it. The air conditioner blew lukewarm air that smelled like old fries. Outside, Nevada unrolled in white glare, scrub and heat-shimmer that made the road look wet.
 
-Percy slumped in the back with his head on the window, sweating through his shirt. Annabeth sat up front with the map, no longer marking it. Grover lay across the middle seat with a damp washcloth over his face, horns poking through his cap. Thalia drove with both hands tight on the wheel, hair stuck to her neck.
+Percy slumped in the back with his head on the window, sweating through his shirt. Annabeth sat up front with the map, no longer marking it. Grover lay across the middle seat with a damp washcloth over his face, horns poking through his cap. Martin, still serving as their licensed driver, held the wheel. Thalia rode beside him, hair stuck to her neck, keeping her eye on the changing route signs.
 
-They were filthy and tired past sleep. Since Aunty Em's they had chased a buzzing box from drop to drop, sleeping in the van at rest stops, eating gas station pretzels and warm Gatorade. Every lead was two days old and wrong. A box that size. A man who paid cash. A truck heading west. Annabeth's map was getting crowded with crossed-out towns, and Percy could see her getting quieter each time another one led nowhere.
+They were filthy and tired past sleep. Since the Arch they'd chased hints of a buzzing shipment from drop to drop, sleeping in approved roadside stops with Martin nearby, eating gas-station pretzels and warm Gatorade. Every lead was two days old and wrong. A box that size. A man who paid cash. A truck heading west. Annabeth's map was getting crowded with crossed-out towns, and Percy could see her getting quieter each time another one led nowhere.
 
 "You know what we need?" Grover mumbled. "A forest. Cold. Moss. A stream."
 
@@ -14,7 +14,7 @@ They were filthy and tired past sleep. Since Aunty Em's they had chased a buzzin
 
 "Hey," Grover said weakly.
 
-"We need a break," Annabeth said. Her voice was flat in the way that meant she was running numbers she did not like. "We have four days to the solstice. We've been on the road for—"
+"We need a break," Annabeth said. Her voice was flat in the way that meant she was running numbers she did not like. "We have six days to the solstice. We've been on the road for—"
 
 She stopped.
 
@@ -22,13 +22,73 @@ Percy lifted his head. "For what?"
 
 Annabeth frowned at the mileage log in the corner of the map. "Nine days? Ten? That can't be right."
 
-"It feels like twenty," Thalia said.
+"It feels like twenty," Thalia said, looking toward Martin, who had his own mileage log on the dashboard.
 
-"After the gnome place we drove to Barstow, right? Then the truck stop. Then—" Annabeth rubbed her eyes. "I lost a day somewhere."
+"After the Arch we crossed Illinois and Missouri, then drove southwest, right? Then the truck stop. Then—" Annabeth rubbed her eyes. "My dates aren't lining up. I need to check Martin's log."
 
 "We slept at the truck stop twice," Grover said. "I remember because the lady gave me extra pickles twice. Or the same time twice?"
 
 Percy felt a prickle on his neck. He tried to count. Statues. Police. Night driving. The motel with only cold water. It should have added up. It did not quite.
+
+Martin had warned them about the heat before they entered Nevada.
+
+He made them drink water at the last service station, checked the coolant level and showed Thalia where the temperature gauge sat on the dashboard. He was an ordinary mortal who happened to know enough about camp to treat a satyr's hooves as something other than a medical emergency. He did not have a godly parent to ask for aid if an engine failed.
+
+"Is the van safe?" Percy asked.
+
+"Safe enough for the road we're on," Martin answered. "Not safe enough to ignore the gauge. If the needle goes into the red, we stop. It's not a negotiation."
+
+Thalia had accepted that instruction with the expression of someone being forced to surrender a weapon.
+
+"I know how cars work."
+
+"Then you know how expensive a blown engine is."
+
+Percy watched their exchange from the backseat. Thalia had been sick after the Arch, and she was irritated by how often the others asked about her head. She had received an assessment and a plan for rest. Now she wanted to prove the guardian role still belonged to her. Martin was willing to let her navigate and check supplies but not to let her make decisions about driving when she wasn't licensed.
+
+At the rest stop, Grover found a small patch of struggling shrubs behind the restroom. He poured the last of his water over their roots, then immediately looked guilty.
+
+"We've got more inside," Martin said.
+
+"I know."
+
+"Then fill the bottle before we leave."
+
+It was an ordinary adult instruction. Grover looked relieved to have one.
+
+Annabeth had been trying to reconstruct their exact travel days from the receipts she'd saved. She spread them on the picnic table, each slip held down with a coin. Percy had never realized how many little marks could appear on a piece of paper when a person cared about keeping everything in order.
+
+"These don't match the mileage log," she said.
+
+Martin examined the receipts. One was from a truck stop whose receipt printer had apparently been set to the wrong timezone. Another was dated a day later than the stop he'd recorded. He pointed out that a faulty cash register wasn't evidence of missing time.
+
+"But all of them?" Annabeth asked.
+
+"Not all of them. Two. Check the rest before you decide there's a pattern."
+
+She did, reluctantly. Percy watched her create separate columns for what was printed, what they'd personally observed, and what a driver could corroborate. They had crossed multiple time zones. He could understand why travel felt longer than it was without assuming a magic spell had already taken hold.
+
+The exercise unsettled him anyway. In their former life, Percy and Annabeth had escaped a hotel that swallowed time. He hadn't forgotten it. A familiar pattern appearing in an unfamiliar place could still be a coincidence, and he had no desire to be the person who dismissed every warning because the first sign had looked mundane.
+
+"We need a rule," Percy said.
+
+Thalia raised her eyebrows. "Another one?"
+
+"Yes. When our clocks disagree, we stop and figure out why. We don't let the hotel, the signs or the road decide what day it is for us."
+
+Annabeth looked up sharply. "That is actually useful."
+
+"Thank you for sounding surprised."
+
+"You're welcome."
+
+Martin suggested buying a paper road atlas and using their fuel receipts to check the physical distance traveled. It wouldn't prevent a supernatural time trap, but it would give them an independent record. Annabeth bought a small notebook from the station and put Martin's written departure time on the first page.
+
+By the time they got back into the van, everyone was hot and irritable. Grover wanted a meadow. Thalia wanted to reach Los Angeles without another detour. Percy wanted a shower and a bed that didn't move when he turned over. Annabeth wanted to know why she had two dates that didn't match.
+
+Martin wanted the temperature gauge to stay where it belonged.
+
+For a while, it did.
 
 Then the billboard rose out of the heat.
 
@@ -48,13 +108,13 @@ Percy's mouth went dry. "How does it know we're travelers?"
 
 The third was just a giant white lotus, glowing at the edges. YOU'VE EARNED A BREAK. STAY A WHILE.
 
-Thalia gripped the wheel. "No. Last roadside stop almost turned us to stone."
+Thalia gripped her route sheet. "No. Last roadside stop almost turned us to stone."
 
 "Nobody is saying stop," Annabeth said. "Keep driving."
 
 They passed the exit. Percy twisted to watch it go. A palm-lined drive led to a low gleaming building flashing gold and white. Fountains. A valet waving. Even from the highway something sweet drifted, flowers and cookies and chlorine.
 
-Then the van banged, shuddered, hissed white smoke, and died. Thalia wrestled it onto the shoulder as dust boiled up. The engine ticked and went silent. Heat pressed in instantly.
+Then the van banged, shuddered, hissed white smoke and died. Martin wrestled it onto the shoulder as dust boiled up. The engine ticked and went silent. Heat pressed in instantly.
 
 Grover laughed a little wildly. "We broke down one exit past paradise."
 
@@ -68,7 +128,7 @@ Annabeth leaned in, hair sticking to her forehead. "Not without parts and tools.
 
 Thalia kicked the tire. "Phones?"
 
-All four phones were dead. Black screens. Percy was sure his had been charged at the truck stop.
+All five phones, including Martin's, were dead. Black screens. Percy was sure his had been charged at the truck stop.
 
 "All four at once?" Annabeth said quietly. "That's weird."
 
@@ -434,9 +494,7 @@ He focused, jaw clenched. They walked.
 
 The doors pushed back like wading water. Sweet air clung to clothes and hair. Legs weighted. Eyelids drooped. A voice in Annabeth's own voice whispered: finish tomorrow. Rest tonight. You deserve one night after everything. No one would blame you. The world can wait one night.
 
-She bit her cheek, tasted blood, shoved with her shoulder, and thought about her dad's house with blueprints on the table, about Camp's climbing wall and lava, about real things with sharp edges. Real was better. Real had to be better.
-
-She bit her cheek, tasted blood, shoved with her shoulder.
+She bit her cheek, tasted blood, shoved with her shoulder, and thought about the Grace cabin and the climbing-wall plans on the table, about real things with sharp edges. Real was better. Real had to be better.
 
 Heat slapped them. Real, dry, brutal noon that burned nostrils and made eyes water instantly. Sky bleached white-blue, huge and indifferent, nothing painted about it. Traffic roared on the highway. Dust coated tongues with grit. Percy had never been so glad to be uncomfortable. He sucked hot air in big gulps and let it burn the sweetness out of his lungs.
 
@@ -468,7 +526,7 @@ Five days. They had been inside five days.
 
 Percy felt sick. Annabeth did math on fingers, lips moving, face whitening.
 
-"We had four days when we stopped," she said quietly. "If five passed—" She checked phone, tickets, sun. High and merciless, nothing like eternal afternoon. "We lost five days. Deadline is tomorrow noon."
+"We had six days when we stopped," she said quietly. "If five passed—" She checked phone, tickets, sun. High and merciless, nothing like eternal afternoon. "We lost five days. Deadline is tomorrow noon."
 
 Silence. Even highway sounded distant.
 
@@ -526,9 +584,9 @@ The mechanic slammed the hood. "Good! Don't overheat her. Advice? Don't sleep in
 
 They stared. He laughed and drove off.
 
-They piled in, van starting first try, AC wheezing. Thalia drove. Grover took back. Percy and Annabeth squeezed middle, shoulders touching, too tired for space.
+They piled in, the van starting first try, AC wheezing. Martin took the wheel, relieved to have an engine that obeyed ordinary rules. Grover took back. Percy and Annabeth squeezed middle, shoulders touching, too tired for space.
 
-As Thalia pulled out, the Lotus shrank in mirrors, glowing white and gold. YOU LOOK TIRED. COME BACK SOON.
+As Martin pulled out, the Lotus shrank in mirrors, glowing white and gold. YOU LOOK TIRED. COME BACK SOON.
 
 Percy felt the hook under ribs. He looked away to Annabeth instead. Dusty ponytail, chapped lips, blood where she bit her cheek to stay awake.
 
@@ -540,15 +598,11 @@ Then she linked pinky with his, solemn as Styx, her hand dusty and shaking.
 
 "I promise. No lotus. No fake happy. Just us. Heat and monsters and no sleep. I'll choose the real road with you every time. I'm here. All the way here."
 
-"I promise. No lotus. No fake happy. Just us. Heat and monsters and no sleep. I'll choose the real road with you every time. I'm here. All the way here."
-
-"I'm here too," Percy said. "Even when I'm scared. Even when I want pancakes and sleep and Mom's couch. I don't want a dream where you're smiling. I want you, tired and stubborn and bleeding on your cheek because you bit it to save us."
-
-"I'm here too," Percy said. "Even when I want pancakes."
+"I'm here too," Percy said. "Even when I'm scared and I want pancakes and sleep and Mom's couch. I don't want a dream where you're smiling. I want you, tired and stubborn and real."
 
 She laughed wetly, tears spilling, head on his shoulder. He rested cheek on her hair, fake vanilla and real sweat and dust.
 
-Ahead Thalia drove faster, jaw set, eyes on the sun. Behind Grover sniffed wind and whispered, "Real sage. Real dirt. Real highway. Okay. I can do this."
+Ahead Martin drove toward the highway, jaw set, eyes on the sun. Thalia sat beside him with the route sheet open, refusing to look behind. Behind Grover sniffed wind and whispered, "Real sage. Real dirt. Real highway. Okay. I can do this."
 
 Annabeth laced fingers fully through Percy's and held as the van rattled toward the deadline, awake, aching, together.
 
