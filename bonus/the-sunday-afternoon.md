@@ -11198,3 +11198,419 @@ There was no grand revelation in a road reopening. There was only a man who had 
 She went inside to prepare the next lesson.
 
 ---
+
+## Sunday, April 21: A Seat in the Third Row
+
+Thalia bought the ticket with money she'd been carrying in her coat for three weeks.
+
+She had not intended to save it. The coins had accumulated from small jobs and unspent allowances, the kind of money she normally forgot about until she needed a replacement bowstring. Then the ensemble announced a Sunday afternoon performance in a town within reach of the camp's supply route, and the possibility became too tempting to ignore.
+
+She asked Eleni to cover the Monday opening lesson.
+
+Her assistant looked at the schedule, checked the equipment roster and said she could manage it. She didn't ask why Thalia wanted the day off. Thalia told her anyway.
+
+"I'm going to hear Rhys."
+
+Eleni smiled. "Good."
+
+"Don't say it like that."
+
+"Like what?"
+
+"As though you've been waiting for me to admit something."
+
+"I've been waiting for you to take a day off."
+
+Thalia stared at her. Eleni folded the schedule and put it in her bag.
+
+"Have fun," she said, then escaped before Thalia could formulate a response.
+
+The van left after breakfast. The driver was taking supplies toward the same town and agreed to drop her near the station as long as she didn't delay him. She carried one small bag: a clean shirt, her book, the photograph of the orchard and a dark scarf that still reminded her of the north cabin even though Rhys's mother had made the newer one.
+
+Annabeth stood on the porch watching her leave.
+
+"You're going to be late if you keep checking the bag."
+
+"I have everything."
+
+"Then go."
+
+Thalia hugged her sister quickly. Annabeth hugged her back with enough surprise that she almost dropped her notebook.
+
+"Tell him I said hello," Annabeth said.
+
+"I will."
+
+"And don't spend the entire concert judging his fingers."
+
+"I make no promises."
+
+The driver called from the road. Thalia climbed into the van and went.
+
+***
+
+The town was not especially impressive.
+
+It had a market square, a narrow river crossed by two bridges, and a theater built behind a row of shops whose owners had evidently decided that architecture was someone else's concern. The theater entrance was modest, but the inside had a warm, careful beauty: old wooden seats, a low balcony and a ceiling painted dark blue. Someone had polished the brass railings until they caught the light.
+
+Thalia arrived early.
+
+She collected her ticket and found her seat in the third row, near the aisle. It had a clear view of the stage. She could see where the musicians would sit, where Rhys's guitar would rest when he wasn't playing, and the conductor's stand. There was no point trying to find him backstage. He was working. She was here to watch.
+
+The idea pleased her.
+
+She had watched Rhys play alone, in a cabin, and at the camp's winter concert. She had heard the music with the knowledge that he was thinking of her, that the pauses and little changes belonged partly to conversations they'd shared. Here the program contained his name among a dozen others, and no one in the audience knew that the woman in the third row had come because she loved him.
+
+She liked that anonymity more than she'd expected.
+
+People began filling the seats. A couple near the front argued over a coat, then resolved the matter by putting it under both their chairs. A little boy insisted he could see the musicians better from the aisle and was gently returned to his seat by a patient parent. An elderly woman sat beside Thalia and examined the program with intense concentration.
+
+"Do you know the group?" the woman asked.
+
+"A little."
+
+"Are they any good?"
+
+Thalia considered. "One of them is."
+
+The woman laughed. "Then I hope he plays loudly enough for the rest."
+
+Thalia smiled and turned toward the stage.
+
+The musicians came out.
+
+Rhys was among the last. He wore a dark shirt she recognized and had his hair neatly tied back, something he almost never bothered doing at camp. He carried the guitar with the practiced attention of someone entering a room where the instrument mattered more than his appearance. He glanced toward the audience, but she didn't know whether he saw her.
+
+She hoped he wouldn't.
+
+Not until afterward.
+
+The concert began.
+
+The first movement was unfamiliar, and Thalia had to work to follow it. The ensemble moved quickly between phrases, leaving spaces that required the players to listen as much as count. She caught herself thinking about archery: the distinction between completing a motion and judging what the motion had made possible, the way a student could perform every step correctly and still miss the actual target if he stopped paying attention.
+
+Then she saw Rhys enter a phrase a fraction late.
+
+Her whole body stiffened.
+
+He recovered almost immediately, following the violin rather than trying to force his way through the gap. The rest of the piece moved on without trouble. Thalia let out the breath she'd been holding and made herself stop watching his hands as though she were grading a lesson.
+
+She wasn't his instructor.
+
+She was here because she wanted to hear him.
+
+Once she remembered that, the music became easier to enjoy.
+
+The second half contained a piece she'd heard in an earlier rehearsal, the one with the long quiet passage Rhys had written about in his letter. The conductor held the silence longer than Thalia expected. It felt precarious, as if the entire audience might begin coughing or moving or looking around for something to happen. Instead everyone waited.
+
+The instruments returned together.
+
+Thalia felt the sound move through her chest before she could identify which instrument carried the melody. She understood, in that moment, why Rhys had wanted to leave camp to do this work. The music didn't belong to one person. It existed between them, each player making room for the others and trusting them to enter when the moment came.
+
+By the time the piece ended she was smiling.
+
+The old woman beside her applauded vigorously.
+
+"That was good," she said.
+
+"Yes."
+
+"Which one do you know?"
+
+Thalia looked toward the stage. Rhys had raised his head at the applause. He was scanning the audience now, and she thought he might have found her.
+
+"The guitarist," she said.
+
+"Good choice."
+
+Thalia laughed.
+
+***
+
+She waited until the audience had begun leaving before going toward the side entrance.
+
+A stage manager was standing beside a narrow corridor, collecting programs and keeping people from wandering backstage. Thalia approached with her ticket in hand.
+
+"I'm here to see Rhys Calder," she said.
+
+The woman looked up.
+
+"Family?"
+
+Thalia hesitated for one heartbeat.
+
+"His girlfriend."
+
+The word felt both familiar and strange in the mouth of a person who had once refused to label anything that might make her vulnerable. She didn't regret it.
+
+The stage manager smiled. "Wait here. I'll see whether he's free."
+
+Thalia waited.
+
+A few minutes later a door opened farther down the corridor and Rhys appeared carrying his guitar case.
+
+He stopped so abruptly that the musician behind him nearly walked into his back.
+
+"Thalia?"
+
+She raised an eyebrow. "Good concert."
+
+He set the case down.
+
+"You're here."
+
+"An excellent observation."
+
+He was smiling now, a bright, startled smile unlike anything she'd seen since December. He crossed the corridor and caught her against him, and she kissed him before he could begin another sentence. His arms came around her. For a moment the narrow corridor and the people passing through it ceased to matter.
+
+When they separated he was laughing.
+
+"You didn't tell me."
+
+"I wanted to hear you without having to watch you worry that I was watching."
+
+"That's a very complicated plan."
+
+"It worked."
+
+He looked at her for a long moment.
+
+"You came all the way here?"
+
+"By van."
+
+"That's not what I meant."
+
+She smiled. "I wanted to."
+
+He kissed her again, less startled now and more deliberate. She felt his familiar warmth beneath the concert shirt, the quick beat of his heart, and the relief of finding the real person behind the letters she'd spent the month reading.
+
+Someone cleared a throat behind them.
+
+Mara stood beside the corridor door, violin case under one arm, looking thoroughly entertained.
+
+"Calder. Are you going to introduce us?"
+
+Rhys turned.
+
+"Thalia, this is Mara. Mara, Thalia."
+
+Mara looked at Thalia's face, then at Rhys.
+
+"Ah. The archer."
+
+Thalia narrowed her eyes. "What has he told you?"
+
+"Mostly that you would correct his stance if you saw it."
+
+"Accurate."
+
+Mara laughed. "He has a performance review waiting, then."
+
+"I enjoyed the concert."
+
+Rhys looked faintly suspicious of how readily she admitted it.
+
+Mara saw the expression and smiled.
+
+"Good. He's been working hard."
+
+"So I've heard."
+
+The exchange lasted only a minute, but Thalia liked the way it felt. Mara wasn't a threat or an obstacle. She was one of the people who had been teaching Rhys things Thalia couldn't, part of a life he had begun building beyond camp. Thalia could meet her, like her and remain glad he was here.
+
+Rhys took Thalia's bag after they left the corridor.
+
+"Are you staying?"
+
+"Tonight. Eleni has tomorrow's lesson."
+
+He looked at her. "You arranged a day off?"
+
+"Don't sound shocked."
+
+"I'm not. I'm delighted."
+
+"That's worse."
+
+He laughed.
+
+They walked toward the market square. The afternoon had turned warm, and the river carried sunlight beneath the bridges. Rhys had a room in the ensemble's lodging, but Thalia had already booked a small guest room nearby. She told him so as they crossed the square.
+
+He looked at her.
+
+"You planned everything."
+
+"I planned enough."
+
+"And you didn't tell me."
+
+"I wanted it to be a surprise."
+
+He stopped beneath the awning of a shop.
+
+"Was this about making sure I was doing all right?"
+
+Thalia looked at him. The question was gentle, but it touched the fear she'd been trying to avoid since she bought the ticket. He'd spent weeks proving he could work away from camp. She didn't want her visit to make him feel inspected.
+
+"No," she said. "I knew you were all right. I wanted to hear you play. And I wanted to see you afterward."
+
+He studied her face.
+
+She added, "I missed you."
+
+He smiled. The doubt vanished.
+
+"Then I'm glad you came."
+
+She caught his hand and began walking again.
+
+***
+
+The guest room was smaller than Rhys's cabin and considerably more expensive.
+
+It had a narrow bed, a polished dresser and curtains that would not close properly no matter how carefully Thalia adjusted them. The wallpaper was a faded pattern of flowers that seemed to have survived three decades of people disliking it. The room smelled of soap and the faint scent of the bakery below.
+
+Rhys looked around.
+
+"You booked this?"
+
+"The other place was worse."
+
+"How?"
+
+"The curtains were orange."
+
+He laughed.
+
+She put down the bag and went to the window. From there she could see the market square and the river beyond it. She had never pictured this room while missing him. She had imagined the north cabin, the guitar by the bench, the stove and the familiar uneven floor. Now he was here in a strange place, and she was surprised by how quickly the desire to be close returned.
+
+He came up behind her.
+
+"Was the concert really good?" he asked.
+
+She turned.
+
+"Yes."
+
+"You're not just saying that because you traveled?"
+
+"Your opening was slightly late. The second movement was excellent. The last chord worked better than it did at camp."
+
+He looked delighted.
+
+"That's more like you."
+
+"You asked for a review."
+
+"I did."
+
+She rested her hands against his shirtfront.
+
+"And I liked watching you."
+
+His smile changed. He touched her cheek, then kissed her. The first kiss was gentle and almost uncertain in the unfamiliar room; the second was not. She caught him closer, feeling the long weeks apart in the immediacy of his response. He moved with her away from the window, both laughing when the edge of the dresser blocked their path.
+
+"Terrible room," she murmured.
+
+"Very."
+
+"Bad layout."
+
+"Unacceptable."
+
+She kissed him again.
+
+There was something different about the desire here. At camp the cabin had held their habits and small agreements; the room knew nothing about them. Nobody had left gloves in a drawer or drawn notes on a slate. They had to bring their own familiar gestures into it, and the discovery that those gestures still worked made Thalia smile.
+
+Rhys caught her face between his hands. She leaned into him, then drew him toward the bed, careful of the bag she had left beside it. He followed with an eagerness that made her laugh against his mouth. They had both spent weeks writing about wanting this. They didn't need to discuss it now.
+
+The curtains remained crooked.
+
+They stayed together until the square outside went quiet and the room grew dark.
+
+***
+
+Later, Rhys was sitting on the floor with a plate of bread and cheese he'd collected from the bakery before it closed.
+
+Thalia lay against the pillows, wearing his shirt because she'd decided hers was less comfortable. She watched him inspect the cheese as though he expected an accusation of poor workmanship.
+
+"Good?"
+
+"Acceptable."
+
+"A rare compliment."
+
+"Don't get used to it."
+
+He handed her half the bread. She accepted it, then shifted so he could sit beside her.
+
+They ate in comfortable silence for a while. The sounds from the market square had faded. Somewhere below, the baker was closing shutters. The room smelled of bread and soap, and the window had become a dark reflection.
+
+"Are you happy?" Thalia asked.
+
+Rhys looked at her.
+
+"Here?"
+
+"On the tour."
+
+He thought for a moment. "Yes. More often than not."
+
+"What's the worst part?"
+
+"Being wrong in front of people who have been doing this for years. Sometimes I feel as if I'm back on the novice line."
+
+"Good."
+
+He laughed. "You'd say that."
+
+"What's the best part?"
+
+"When a piece finally works. When I can hear something the others are making that I couldn't have made alone."
+
+She nodded. That was the part she'd heard during the concert. She was glad he had found it.
+
+He turned toward her.
+
+"What about you?"
+
+She told him about Eleni and the advanced program, the mistake she'd made when the mail was late, and the apology she'd offered her students. He listened without attempting to rescue her from the embarrassment of admitting she'd been unfair.
+
+When she finished, he squeezed her hand.
+
+"You're becoming a good instructor."
+
+"I was already a good instructor."
+
+"You're becoming a better one."
+
+She considered. The correction was accurate.
+
+"Fine."
+
+He smiled.
+
+They lay together for a while, neither sleepy enough to turn out the lamp.
+
+Then Rhys asked, "Will it feel worse when you leave tomorrow?"
+
+Thalia considered. She had been wondering the same thing.
+
+"Probably."
+
+"Then are you glad you came?"
+
+She looked at him. She could have spent the weekend at camp and spared herself a second goodbye. The letters would have continued, the weeks would have passed, and the tour would eventually have ended. But she would not have heard him play, would not have met Mara, would not have learned that the man she loved was capable of feeling at home in a place she'd never seen.
+
+She touched his face.
+
+"Yes," she said.
+
+He kissed her gently, and she drew him closer, wanting one more quiet hour before the morning arrived.
+
+The second goodbye was difficult.
+
+It was also worth having.
+
+---
