@@ -1225,3 +1225,501 @@ Annabeth smiled. "I do know how much you eat. That's why I brought bread."
 He laughed. She liked hearing him laugh in the theater, the sound returning faintly from the back wall. The building was doing exactly what it had been made to do: carrying a voice to someone who wanted to hear it.
 
 ---
+
+Annabeth put the sketchbook aside when it grew too dark to see the lines.
+
+Percy had stopped eating. He was leaning forward with his hands between his knees, looking toward the opening above the stage where the last stretch of daylight still showed through the trees. She followed his gaze and saw nothing but dark leaves moving in the wind.
+
+"Did you want to do something else?" she asked.
+
+He glanced around. "I thought this was what you wanted."
+
+"It is. I'm asking what you wanted."
+
+He opened his mouth, shut it, then looked at the basket. "I wanted to spend time with you without spending the whole time wondering whether I was getting it wrong."
+
+"You haven't done anything wrong."
+
+"That's not exactly the same thing."
+
+Annabeth considered that. It would have been easy to tell him how much she liked the theater, how interested she was in the columns, how grateful she was for the strawberries and the pencils. All of it was true. It would also have answered a question he hadn't asked.
+
+"What would you have chosen?" she said.
+
+"Honestly?"
+
+"No, Percy, I'd like a carefully prepared lie."
+
+He grinned. "A sail. Not far. Chiron probably wouldn't have approved it this late, but I wanted to see the coastline after the lights came on. Maybe bring a lantern. There are places you can hear the water even when you can't see it."
+
+"That sounds nice."
+
+"Clarisse said boat, and I decided I couldn't choose it after she said it."
+
+"That seems unfair to the boat."
+
+"Very unfair."
+
+Annabeth turned on the bench to face him. "Why didn't you tell me?"
+
+"Because I asked you to choose, and you did."
+
+"And now I'm asking what you would have chosen."
+
+He looked at her, then looked down at the blanket as if it might provide instructions. "I don't want to make you feel like I didn't enjoy this."
+
+"I wouldn't have brought you here if I didn't want you here." She tapped the sketchbook. "I could have drawn this alone."
+
+"I know."
+
+"But if you want to do something with me, tell me. Even when it isn't what I'd pick first."
+
+"Okay."
+
+"That doesn't mean I'll always agree."
+
+"Trust me, Wise Girl. I know."
+
+She felt the familiar pleasure of that old nickname, the one that carried more history than anyone in this camp could hear. She reached for his hand.
+
+"Next time, show me the coastline," she said.
+
+"Would you like that?"
+
+"I think I would. I can draw a coastline too, you know."
+
+"Then the date committee will have to revise its minutes."
+
+"There shouldn't be minutes. There shouldn't be a committee."
+
+"Tell Clarisse."
+
+"I intend to."
+
+He laughed, but she didn't release his hand. The conversation had left her feeling oddly shy, not because she doubted what he felt, but because she'd heard something he hadn't said before. She was good at planning around other people's practical needs. So was he, when he wasn't being impulsive. They were both learning that a plan could be generous and still leave somebody out if the planner never asked.
+
+"Are you hungry?" Percy asked.
+
+"Not anymore."
+
+"Good. Because I ate most of the bread."
+
+"I noticed."
+
+"You notice everything."
+
+"Not everything."
+
+He followed her glance toward the opening in the trees. Beyond camp, the Sound would be darkening. She knew he could feel that water even from here. Lately he had gone quiet when someone mentioned Atlantis, not always sadly, but as if he were doing a difficult calculation in his head.
+
+She could have asked about it now. He would probably have answered. He had promised to be more honest when he was afraid, and she knew he meant to try.
+
+Instead she asked a smaller, present question. "Do you want to stay until the stars come out?"
+
+"Yes."
+
+"Then let's."
+
+She leaned her head against his shoulder. Percy reached for her hand where it rested on the blanket and threaded his fingers through hers. They watched the theater change around them, the pale columns becoming darker than the sky, the open stage turning into a shape made of shadow. It was still the same building. Annabeth liked that it could look so different without being anything else.
+
+There were sounds from the camp beyond the low wall: bowls being cleared at the pavilion, a late laugh from the path, the creak of leather armor as the night patrol changed shifts. The amphitheater itself remained quiet.
+
+Then a metal cup struck stone somewhere behind the third row.
+
+Annabeth sat upright.
+
+Percy turned his head. "Was that a cup?"
+
+There was a pause, followed by an urgent whisper.
+
+"I told you not to bring it."
+
+"You said we'd be out all evening."
+
+"I said we could help carry the basket home."
+
+"Then why are we hiding?"
+
+"Because you ducked first."
+
+Annabeth closed her eyes. "Oh, you've got to be kidding."
+
+From behind the nearest column, Clarisse called, "We're not spying!"
+
+Silena followed a moment later. "We are absolutely not hiding behind a column!"
+
+Percy made a noise that was half laugh and half groan. Annabeth rose.
+
+"Then come out," she said.
+
+The sisters emerged into the aisle. Clarisse had a small tin in one hand and an expression that suggested the entire incident was someone else's fault. Silena held her paintbrush bundle and looked mortified.
+
+"We were going back to the forge," Silena said.
+
+"The forge is the other way," Annabeth pointed out.
+
+"We took the scenic route."
+
+"Through a theater you have no reason to be in?"
+
+Clarisse gestured with the tin. "He forgot the extra cups."
+
+"He already has two cups."
+
+"Then he forgot the spare cups."
+
+Percy stood beside Annabeth. "Clarisse."
+
+"What?"
+
+"You said you wouldn't."
+
+Clarisse's jaw set. "I didn't sit in the bushes."
+
+"No," Percy said. "You hid behind a column."
+
+Silena looked at the floor. "We should go."
+
+"We should," Clarisse agreed, but she didn't move. She was looking at Percy, and Annabeth could tell she felt stung by the seriousness of his tone. Clarisse was accustomed to being the person who caught mistakes before anyone else could be hurt. It was harder for her to hear that her attention was sometimes a mistake of its own.
+
+Annabeth didn't want to punish someone for caring. She did want her evening back.
+
+"I don't need an audience," she said. "Neither does Percy."
+
+"We weren't watching the whole time," Clarisse said.
+
+Annabeth stared at her.
+
+"Not the whole time," Clarisse repeated, less confidently.
+
+"That's not helping," Silena murmured.
+
+"We had an arrangement," Percy said. "You helped with the food. I said thank you. Then you agreed to leave us alone."
+
+Clarisse looked from him to the empty basket. Her shoulders dropped a fraction.
+
+"All right," she said. "I said I wouldn't come. I came anyway."
+
+"Why?"
+
+"Because you're my brother and I wanted to know if you were having a good time."
+
+Percy shifted his weight. Annabeth knew he was tempted to reassure her, to make the awkwardness disappear because it was embarrassing for everybody. She squeezed his hand once, and he stayed quiet long enough for Clarisse to continue.
+
+"That was stupid," Clarisse said, almost under her breath. "You can tell me tomorrow if you had a good time. You can also not tell me."
+
+Silena looked relieved. "We really are going now."
+
+"Yes," Annabeth said. "You are."
+
+Clarisse lifted the tin. "Do you want the cups?"
+
+"No," Percy and Annabeth said together.
+
+"Fine."
+
+She started up the aisle. Silena lingered just long enough to catch Annabeth's eye.
+
+"I'm sorry," she said. "I knew the difference between dropping something off and coming to check. I came to check."
+
+"Thanks for saying it."
+
+"We'll see you in the morning."
+
+"Goodnight, Silena."
+
+Silena followed her sister out. Their footsteps faded, followed by another whispered argument. This one concerned whose idea the scenic route had been.
+
+Annabeth sat down again. Percy picked up the fallen pencil and placed it beside her sketchbook.
+
+"They're terrible at this," she said.
+
+"They care."
+
+"I know," she answered. "That's what makes it difficult."
+
+He lowered himself onto the blanket. "I was afraid you'd want to leave."
+
+"For a minute I did."
+
+"And now?"
+
+"Now I want to see whether there's anything left of the evening."
+
+He pointed up. The first star had appeared above the center of the stage, bright in the narrow band of open sky.
+
+"One thing," he said.
+
+Annabeth looked at it. She'd been so busy measuring the structure earlier that she hadn't considered what the structure might frame once the light was gone. The builders couldn't have known which particular star would appear there tonight, but they had made a space where someone could notice it.
+
+"All right," she said. "That's worth staying for."
+
+Percy relaxed beside her. After a while, she rested against him again.
+
+"Can I ask you something?" he said.
+
+"You just did."
+
+"Very funny."
+
+"I learned from the worst."
+
+He reached for the blanket and pulled its loose edge over her knees. "Did this count as a date? Even with the building inspection and my sisters throwing cups at the floor?"
+
+"Yes."
+
+"Good."
+
+"But next time I pick the food and you pick the place."
+
+"Deal."
+
+"And we tell Clarisse about it afterward."
+
+"That might require a security detail."
+
+Annabeth laughed. "Don't give her ideas."
+
+The stars multiplied while they sat there. Percy kissed her once, gentle and familiar, and didn't treat the kiss as proof that the evening had succeeded. She liked that. The night had included useful work, a disagreement, some very good strawberries and one terrible intrusion. None of those things needed to vanish for her to have enjoyed it.
+
+Eventually they collected the cups and folded the blanket. Percy offered to carry the sketchbook. Annabeth handed it over after closing it carefully, making sure the charcoal wouldn't smear against the opposite page.
+
+At the end of the aisle, she took another look at the stage. The chalk mark showed faintly beneath the warning cloth. She would tell Chiron about the rope tomorrow and ask him to replace it properly. Tonight there was nothing else she needed to do there.
+
+She took Percy's hand and led him out.
+
+---
+
+By the time Percy reached Cabin Three, Clarisse had arranged the rejected strawberries into a bowl on the table and was pretending to read a training schedule.
+
+Silena was at the other worktable, fitting a painted frame around a small square of canvas. Her hinges lay in a neat row. Charlie had cut them exactly to size.
+
+Percy put the basket down.
+
+"Was the theater still standing when you left?" Clarisse asked without looking up.
+
+"Yes."
+
+"Good."
+
+He set the extra cups beside the sink. Silena glanced over the top of her frame.
+
+"How was it?"
+
+He considered giving them a complete report. Clarisse would have wanted to know what Annabeth had eaten, whether he had remembered the blanket, whether the seats had been comfortable. Silena would ask fewer questions, but she'd notice the answers he wasn't ready to give. He didn't want to turn a private evening into a committee's performance review.
+
+"It was good," he said. "Annabeth finished a sketch she'd been wanting to do. We're planning another outing."
+
+Clarisse put down the schedule. "Where?"
+
+"We haven't decided."
+
+"Good," Silena said, before Clarisse could ask anything else.
+
+Percy turned to Clarisse. "Thank you for sorting the berries."
+
+"You're welcome."
+
+"And thanks for apologizing."
+
+She made a face. "Don't make it a ceremony."
+
+"I won't."
+
+Silena fitted the first hinge into its recess. It stuck. She pulled it out, checked the screw length, then tried a different one. Percy watched for a moment.
+
+"Need help?" he asked.
+
+"No. I need the right screw. Charlie gave me three sizes, and I thought I could tell which one it was without testing them."
+
+"Want me to hold the frame?"
+
+"Yes, that would help."
+
+He held it while she worked. Clarisse got up to wash the bowls from the kitchen and, after a while, offered to sand the rough back edge of the frame. Silena handed her the sandpaper. Nobody spoke about the date for several minutes.
+
+It was exactly the sort of evening Percy liked coming home to.
+
+When the frame was finished, Silena stood it against the window. She had painted the cottage near the strawberry fields, the one with the narrow porch and the crooked little steps. Percy could see the way the light fell across the doorway. A person in the painting had left a watering can beside the steps.
+
+"That's Katie's place," he said.
+
+"She asked me to paint it for the garden room. It's a thank-you for the herbs she brought when you were sick."
+
+"You didn't tell me."
+
+"It wasn't about you."
+
+Silena sounded amused, but there was a point beneath it. Percy grinned.
+
+"Fair."
+
+"I have an entire life that happens while you're walking around with Annabeth, you know."
+
+"I've heard rumors."
+
+"Most of them are true."
+
+Clarisse snorted from the sink. Percy helped carry the frame to a safe spot where it could dry without getting knocked over by somebody looking for a weapon. He turned in early, tired from spending so much of the day anticipating an evening that had turned out to be ordinary in the best possible way.
+
+For a few minutes after the lamps went out, he could hear his sisters discussing the next morning's errands. Clarisse wanted to use the dry weather for drills. Silena needed to deliver the painting. Neither was making a list for him.
+
+He smiled into his pillow.
+
+---
+
+Annabeth went straight to her table when she reached Cabin One.
+
+Thalia was sitting on the edge of her bunk with a book open and her boots off. The roof diagram lay exactly where Annabeth had left it, except for a clean scrap of paper placed beneath the corner that had been trying to curl.
+
+"You're back," Thalia said.
+
+"I am."
+
+"How was the amphitheater?"
+
+"Good."
+
+Thalia waited. Annabeth began setting out the sketches.
+
+"I got the light I wanted," she said. "Percy brought strawberries. The back row has better acoustics than I expected. There's a cracked column that needs a proper barrier."
+
+"That last bit sounds less like a date."
+
+"It wasn't the whole date."
+
+"I wasn't implying anything."
+
+Annabeth looked over at her sister. Thalia had made no attempt to leave the cabin and check on her. That should have been unremarkable. It wasn't quite yet.
+
+"Clarisse and Silena came," Annabeth said.
+
+Thalia's book slid down to her knees. "They what?"
+
+"To the theater. With cups."
+
+"Of course they did."
+
+"They apologized. Mostly."
+
+"Did you tell them not to do it again?"
+
+"Yes."
+
+"Good."
+
+Thalia picked up her book, then put it down again. "For what it's worth, I told Silena I wasn't coming. I meant it."
+
+"I know."
+
+"You don't actually know. You could have thought I was behind a tree."
+
+"I looked for you," Annabeth admitted.
+
+Thalia stared at her. "You did?"
+
+"At the beginning. Just for a second."
+
+"Wow. That makes me feel both very predictable and a little insulted."
+
+"It wasn't fair."
+
+"No," Thalia said. "But I see why you looked."
+
+Annabeth came to sit beside her. For a moment they both watched the moonlight move across the gutter's new spout outside the window. The bucket beneath it was empty.
+
+"Thanks for fixing that," Annabeth said.
+
+"Charlie did the hard part."
+
+"You got him. You kept the work moving."
+
+"That I can do."
+
+"And tomorrow I want to redo the outlet angle before you fasten it permanently."
+
+"I guessed you would."
+
+Annabeth leaned her shoulder against Thalia's. "If you want to see the sketches from tonight, I'll show you."
+
+"Really?"
+
+"Really. They're not secrets."
+
+"Your dates can be private without everything in your life being private," Thalia said.
+
+Annabeth looked at her sharply. "You came up with that yourself?"
+
+"Don't sound so surprised. I have thoughts."
+
+"Sometimes very loud ones."
+
+"Those are my best thoughts."
+
+Annabeth laughed. She brought the sketchbook over and turned the pages slowly, showing Thalia the column proportions and the arch in the fading light. Thalia asked a question about how the steps would drain in heavy rain. Annabeth drew the path water took around the side of the stage, then caught herself before she opened a new page for a complete diagram.
+
+"Tomorrow," she said.
+
+Thalia closed the sketchbook and handed it back. "Tomorrow."
+
+She did not ask for details about Percy kissing her or what they had said while they were alone. Annabeth didn't offer those details. Their conversation moved instead to the roof repair, a missing set of nails and the question of who had to return the borrowed bucket.
+
+She went to sleep with the sketchbook on the table, the first drawing still faintly dusted with charcoal. A few things had been put right today. A few others hadn't, and would need another conversation or a bit of work when morning came.
+
+She had time for both.
+
+---
+
+In the morning, the theater still stood, the rope was still tied above the stage edge, and the painted cloth marker hadn't blown away.
+
+Annabeth took her measurements to Chiron before breakfast. He looked over the drawings, asked where she'd stood to measure the crack, and wrote a work order for the camp repair crew. She wanted to volunteer to supervise the whole job. Instead she offered to check the final repair against the original dimensions once the crew finished.
+
+Chiron accepted. It was enough work to matter without belonging entirely to her.
+
+On the way back, she found Percy carrying a stack of clean practice shields toward the arena. Clarisse walked ahead of him, counting them aloud and complaining about the way some campers treated their gear. Silena was on her way to deliver the painting.
+
+Annabeth waited until Percy put down the stack.
+
+"Morning," she said.
+
+"Morning. How's the stage?"
+
+"Being repaired by people who know what they're doing."
+
+"That must have been hard to arrange."
+
+"It was not my favorite part of the day."
+
+He smiled and reached for her hand. She gave it to him.
+
+"About the coast," she said.
+
+"What about it?"
+
+"I'd still like to see it after dark. When we can get permission and the weather's right."
+
+"All right."
+
+"And I might bring my sketchbook."
+
+"I'd be worried if you didn't."
+
+She looked past him toward the arena, where Clarisse was already directing the shield carriers into the correct line.
+
+"You're busy."
+
+"A little."
+
+"Then I'll see you after drills."
+
+Percy glanced toward the distant glimmer of the Sound. It was a brief look, but Annabeth noticed it. He turned back and squeezed her hand.
+
+"After drills," he said.
+
+She let him go. She had her own errands and another sheet of drawings waiting in Cabin One. He had shields to carry, sisters to annoy, and thoughts he would tell her when he was ready.
+
+They had chosen an evening together. It didn't have to swallow everything around it to have been theirs.
+
+Annabeth waved to Silena, nodded once to Clarisse, and headed up the path with her rolled plans under one arm.
+
+---
