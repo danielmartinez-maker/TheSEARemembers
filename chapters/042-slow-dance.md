@@ -90,6 +90,106 @@ Percy waved back. Okay. Okay. Grover was here. That helped.
 
 ---
 
+Grover nearly didn't perform.
+
+He'd agreed to play with the Apollo cabin because Austin asked him during breakfast, and he'd been pleased enough to say yes before learning what the arrangement involved. Austin had prepared a new piece with a guitar, violin and two percussion parts. Grover's reed pipes were supposed to enter in the second verse and carry a melody the violin would pick up on the way out.
+
+It looked simple on paper. It was not simple when he tried it at rehearsal.
+
+The first time, Grover came in early. The second time he missed the change in key and played a note that made the violinist wince. On the third attempt he was so busy watching Austin's hands that he forgot to breathe before the long phrase.
+
+Austin stopped the group.
+
+"Let's try that again from the bridge."
+
+Grover lowered his pipes. "I think I'm making it worse."
+
+"No. We just need to make sure everybody knows where the entrance is."
+
+"The entrance is after your third chord."
+
+"After the fourth. We changed it yesterday."
+
+Grover stared at him. "You changed it?"
+
+"At the end of rehearsal. I thought you were still there."
+
+"I left to help Ella with the books."
+
+Austin looked embarrassed. He had been treating the music as a single shared plan, but Grover hadn't been told about the adjustment. The mistake wasn't evidence that he couldn't keep up.
+
+"Sorry," Austin said. "That's on me."
+
+Grover looked at the handwritten score. He could read music, but he was more comfortable learning by ear. He could hear the transition if somebody played it twice without interruption.
+
+"Can we start from the first phrase?" he asked. "I want to hear how the new part connects."
+
+They did. Austin played the first chords slowly, Kayla entered on violin and Grover followed the melody until it reached the place he'd been missing. The pattern made sense as soon as he heard it in context.
+
+He raised his pipes and tried again. This time the entrance was right.
+
+"Good," Austin said. "Can you keep that rhythm if the dancers move closer to the stage?"
+
+Grover considered. Music changed in a crowded room. People clapped at unexpected moments, and the fire sometimes made it hard to hear the quieter instruments. He had played at campfires for years. He knew how easily a melody could disappear beneath chatter.
+
+"I can," he said. "But we should decide whether I follow your tempo or you follow mine. If I try to change both, we'll be in trouble."
+
+Austin thought about it. "Follow the guitar. I'll watch the drummer."
+
+Grover nodded. They tried the transition again, adding the percussion. It worked, though one phrase still needed more space before the violin entered.
+
+The rehearsal ended with everybody tired and mostly pleased. Grover had expected to feel like the extra performer, the satyr whose music sounded interesting but didn't fit the Apollo cabin's careful arrangement. Instead they had changed the timing because he could hear a problem in the melody the others hadn't noticed.
+
+Kayla came to sit beside him while he cleaned his pipes.
+
+"Are you nervous about playing for the whole camp?" she asked.
+
+"Yes."
+
+"Me too."
+
+He looked at her. She had played at dozens of events, far more than he had. She seemed perfectly comfortable tuning a violin while people watched.
+
+"You still get nervous?"
+
+"Every time. I just know what to do when it happens."
+
+"What do you do?"
+
+"Check the score, breathe and look at Austin when I lose the beat. Then keep playing."
+
+Grover considered. He had been trying to convince himself that a good musician shouldn't feel afraid. It was more useful to learn how to perform while afraid.
+
+He went to find Ella before the performance. She was sitting on a low step near the library with two books and a small piece of blue thread in her talons.
+
+"Grover plays tonight," she said when he arrived. "Grover plays for dancers. Dancers move in time. Time changes."
+
+"That's exactly the problem."
+
+Ella looked up. "You can count."
+
+"I can."
+
+"And if you miss one count?"
+
+"Then I listen to the others and come back on the next phrase."
+
+She nodded as though he'd answered a difficult examination correctly.
+
+He sat beside her for a few minutes. She had been planning to attend the performance but hadn't realized Grover would be so anxious about it. She offered him the blue thread.
+
+"Bookmark," she said. "For your score."
+
+He took it. It was a terrible bookmark for a page of music, far too short to hold between the sheets. He tied it around the bottom of his pipes instead.
+
+"That way I'll know where it is," he said.
+
+Ella looked pleased. She followed him to the amphitheater, where the stage lights were being checked and the last instruments arranged on their stands. He had practiced the piece, corrected his entrance and agreed with the band about how to follow the beat.
+
+When Percy waved from the audience, Grover waved back. He could still be nervous. He didn't have to pretend he was the only person responsible for making the music work.
+
+---
+
 The fire caught fast.
 
 Flames climbed the stacked logs, crackling and popping, sending sparks spiraling up into the darkening sky. The whole amphitheater glowed orange. Faces turned golden. The smoke curled up sweet and sharp, and for a minute everybody just sat and watched it catch, the way they always did, quiet in that shared way that made Percy think of the ocean at night.
