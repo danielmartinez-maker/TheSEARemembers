@@ -2137,15 +2137,7 @@ She stayed on the bench while he moved the books back onto the shelf. He made no
 
 Nearly an hour passed.
 
-Thalia watched him set the guitar aside. His expression was tired now, and more thoughtful than annoyed. She reached for his hand.
-
-"Come closer," she said.
-
-He looked at her carefully. "You sure?"
-
-"Yes."
-
-He moved beside her. She kissed him, softly at first, then with the familiar pleasure of his warmth and the way he leaned toward her. He didn't try to make the kiss prove anything about the argument. Neither did she. They could still be annoyed with each other and want to be close. Discovering that felt like a new kind of freedom.
+Thalia watched him set the guitar aside. His expression was tired now, and more thoughtful than annoyed. She reached for his hand and drew him nearer. He set down the book without hesitation and moved beside her. She kissed him, softly at first, then with the familiar pleasure of his warmth and the way he leaned toward her. He didn't try to make the kiss prove anything about the argument. Neither did she. They could still be annoyed with each other and want to be close. Discovering that felt like a new kind of freedom.
 
 When they drew apart, she kept her hand in his.
 
@@ -2231,17 +2223,7 @@ They moved away from the doorway. She caught the edge of his shirt and pulled hi
 
 He kissed her again, and she forgot what she had intended to say next. For a while they stood close together in the warm cabin, rain hammering against the window, their hands and mouths finding an ease that had become familiar without becoming ordinary. She felt him smile when she caught his face between her hands. The smile was a private one, for her alone.
 
-Eventually he drew back and looked at her.
-
-"Are you all right?"
-
-"Yes."
-
-"Do you want to stay?"
-
-"Yes."
-
-He nodded. She appreciated that he didn't make the question more complicated. He wanted her here. She wanted to be here. They had both said so.
+Eventually he drew back and looked at her, catching the smile she had made no attempt to hide. She tugged him gently toward the cot; he grinned and followed. Their eagerness was mutual and plain without an announcement.
 
 She tugged him gently toward the cot, stopping to take off the wet boots and arrange the blanket so the sore heel wouldn't be trapped under her. He helped without comment. They settled close together, and she rested her head against his shoulder for a moment before lifting her face to kiss him again.
 
@@ -2527,17 +2509,11 @@ She laughed and kissed him again.
 
 The cabin was warm, almost too warm, because he'd banked the stove early against the cold coming down from the ridge. A strip of lamplight fell across the quilt. She could feel the soft cotton of his shirt beneath her fingers, the slight movement of his breathing as they leaned together. There were moments when she still wanted to turn the closeness into a challenge, to find a teasing remark sharp enough to keep her from sounding pleased. Tonight she let herself be pleased.
 
-Rhys drew back after a while.
+Rhys drew back after a while, but she kept a hand on his collar.
 
-"Do you want to stay?"
+"I cleared tomorrow morning," she said.
 
-"Yes."
-
-"Do you have to be up early?"
-
-"Not tomorrow."
-
-He smiled. "Then we have time."
+His answering smile came at once. "Then we have time."
 
 She liked the way he said it. Not as a claim on the night, but as a simple observation. They could choose to spend it as they pleased. She could ask for closeness. He could ask for rest. Neither request was a test.
 
