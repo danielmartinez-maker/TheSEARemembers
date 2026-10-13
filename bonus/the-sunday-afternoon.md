@@ -3074,3 +3074,151 @@ Before she went to bed, she slipped the photograph of them from the orchard into
 This time she might even agree to look at the camera.
 
 ---
+
+Thursday afternoon, Thalia found the old camera in Rhys's hands.
+
+He was standing in the orchard beside the low wall where they'd taken their first photographs. The trees were almost bare now, their remaining apples gone or bruised into the grass. The day was cold but dry, and the late sun threw long shadows across the path.
+
+"You planned this," she said.
+
+"I was hoping you'd come."
+
+"You left a note."
+
+"I did."
+
+"With a time."
+
+"Yes."
+
+"That sounds suspiciously like a plan."
+
+He smiled. "I've been caught."
+
+She came closer and looked at the camera. He had cleaned the lens and checked the remaining film. One exposure was left.
+
+"Do you want another picture?" he asked.
+
+She considered. The first had been a surprise, and she'd agreed only after he gave her the choice. The second had caught them laughing at the wrong moment. She had kept that one because it showed something true without trying too hard to make it beautiful.
+
+"Yes," she said. "But this time we're not going to look ridiculous."
+
+He raised an eyebrow. "That's a very demanding condition."
+
+"You're the one with the camera."
+
+"I can operate it. I can't control what you do in front of it."
+
+"An excellent excuse."
+
+They set the camera on the wall, adjusted the angle, and tested the timer without using the film. Thalia stood beside him with her arms crossed, trying to decide how she ought to pose. Every option seemed absurd. If she smiled deliberately, she would look like somebody being instructed to smile. If she remained serious, she'd have a photograph of herself looking as though she wanted to fight the person taking it.
+
+Rhys watched her for a moment.
+
+"What's wrong?"
+
+"Nothing."
+
+"That's an impressive amount of nothing."
+
+She gave him a look. "I don't know what to do with my face."
+
+He laughed. "Use the one you came with."
+
+"That's unhelpful."
+
+"It's the only face I've ever seen you wear."
+
+"You're going to regret that statement."
+
+He stepped closer. "Then look at me."
+
+She did.
+
+He didn't ask her to smile. He simply took her hand, moved beside her, and waited. The camera's timer began to click. She was aware of his shoulder against hers, his fingers warm in the cold, and the quiet happiness of standing next to someone she had chosen.
+
+On the last click he leaned over and kissed her cheek.
+
+The shutter caught them in that instant.
+
+Thalia made an indignant noise. "You cheated."
+
+"I thought you wanted an honest picture."
+
+"You were supposed to look at the camera."
+
+"So were you."
+
+She was still laughing when the print emerged. They stood close together to watch it develop. Slowly the image appeared: Rhys turned toward her, smiling against her cheek; Thalia with her eyes half closed and her mouth open in astonished laughter. The background was crooked. The light was imperfect. It was not the composed portrait she'd intended.
+
+It was better.
+
+She looked at the picture for a long moment.
+
+"I like it," she said.
+
+He leaned closer. "Really?"
+
+"Don't make me say it twice."
+
+He smiled. "I like it too."
+
+She held the print carefully by its edge. It would have been easy to hand it over and let him decide where it belonged, but the argument over the first photograph was still in her memory. She wanted to be clear before it became another problem.
+
+"You can keep this one," she said.
+
+"Are you sure?"
+
+"Yes. You can show it to your mother if you want."
+
+He looked at her. "Thalia."
+
+"Don't be dramatic."
+
+"I'm not."
+
+"You're making the face again."
+
+He laughed, but his expression was soft. He had been planning to leave in three days, and the photograph would go with him. She found the idea comforting in a way she didn't want to overexplain. She didn't need him to stare at it every night. She wanted him to have a reminder of something they had chosen together.
+
+"Can I keep the old one?" she asked.
+
+"Of course."
+
+"Then that's settled."
+
+They walked back toward camp with the camera tucked safely in the bag. The path was flat enough that she didn't think about her heel at all. They passed the empty range, where the target boards had been taken down for repairs, and the sun caught the frost on the fence posts.
+
+Rhys stopped near the cedar brake.
+
+"Can I ask you something?"
+
+"You just did."
+
+He smiled. "Do you want to spend tomorrow evening together?"
+
+She considered. Friday would be his last full evening before the weekend departure arrangements became unavoidable. She wanted it to be special, but she was also tired of treating every moment as a deadline.
+
+"Yes," she said. "But no elaborate plans."
+
+"That's a familiar rule."
+
+"I mean it."
+
+"Then we'll keep it simple."
+
+She stepped closer, caught his collar, and kissed him. The kiss was brief, but she let it linger long enough to feel the warmth of his mouth and the way he smiled when she drew back.
+
+"You're getting sentimental," she said.
+
+"I have excellent company."
+
+She looked at him. He was standing in the cold with the camera bag over one shoulder and a perfectly content expression on his face. She wanted to remember him this way: not as a man about to leave, but as a person who had chosen an afternoon with her.
+
+"Friday," she said.
+
+"Friday."
+
+They continued up the path, hands linked, without bothering to decide whether the photograph had been a perfect success. It was theirs. That mattered more.
+
+---
