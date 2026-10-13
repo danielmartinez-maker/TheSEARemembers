@@ -198,6 +198,98 @@ They all sat down laughing in the wet sand, gasping salt air.
 
 ---
 
+The breathing bubble lesson did not end with everyone laughing in the sand.
+
+Triton made Percy build another bubble, this time without telling him who it was for. He kept Clarisse and Silena outside the first ring of water and asked a younger Apollo camper to stand at the edge with a dry practice rope.
+
+Percy looked toward Chiron.
+
+"She can't breathe underwater," he said.
+
+"That is true," Triton answered. "What does that tell you?"
+
+"That I shouldn't test whether my bubble works by putting her under the sea."
+
+Triton nodded. "Exactly."
+
+The camper relaxed. She had been watching the sphere with the sort of expression Percy remembered from his first attempt to breathe underwater in Atlantis. It was one thing to believe a god's son could make an air pocket. It was another to entrust your lungs to it.
+
+"We'll stay on dry sand," Triton said. "You're going to move the bubble around three marked posts. Clarisse and Silena may step inside when they choose. Nobody else is required to enter it."
+
+Percy accepted the condition. He'd been so eager to demonstrate the trick that he hadn't thought to ask whether anyone wanted to experience it. The fact that he could hold air in a sphere didn't make the sphere comfortable or safe for people who didn't understand what it was doing.
+
+The first route looked easy. Three wooden posts stood in the sand, each marked with a colored strip. Percy had to move the bubble over the first post, turn it around the second, then let it settle over the third without touching the ground.
+
+He made it halfway before the sphere tilted and swallowed a gust of wind. It didn't burst. It shrank toward the side where he was standing and pushed Clarisse's shoulder against Silena's.
+
+"Stop," Silena said.
+
+Percy stopped. The bubble opened and dissolved into harmless mist.
+
+"Why stop?" Triton asked.
+
+"Because we didn't have enough room," Silena said. "It wasn't hurting us. It was making it harder to move."
+
+"Good. Was Percy aware of the change?"
+
+Percy shook his head. He'd been staring at the posts and the water, not at the people inside it.
+
+"Then his first job on the next attempt is not to move the sphere," Triton said. "It's to listen."
+
+Silena suggested a pace. She would call when they were ready to turn, and Clarisse would check that their boots had space to move. Percy could focus on the shape of the bubble without pretending he knew their positions from the water alone.
+
+The second attempt was slower. They reached the third post without losing their balance. When Percy let the bubble settle and opened it, the air inside smelled of salt and wet wood, but neither sister looked uncomfortable.
+
+"That's better," Clarisse said.
+
+"You make that sound like it surprised you," Percy answered.
+
+"It did."
+
+Triton inspected the path they'd taken.
+
+"Percy, what would happen if you made a much bigger sphere?"
+
+"It would be easier to fit us."
+
+"And harder to control. You'd need more attention and a clear place to release it. Bigger is not automatically safer."
+
+Percy looked at the ordinary posts. He had imagined training with a sea god meant learning to summon enormous walls of water. Instead he was learning that other people couldn't always move at the speed of his powers. It was not as impressive. He was beginning to see how much more useful it might be.
+
+The Apollo camper asked whether she could try standing in the bubble now that she'd watched the others.
+
+"Only if you want," Triton said. "And we won't submerge it."
+
+She nodded. Percy opened the sphere around her in small stages, watching how she reacted before expanding it. She laughed when the air inside felt cooler, but she asked him to stop after a few seconds because the shifting surface made her dizzy.
+
+He stopped immediately.
+
+"Thank you," she said as she stepped away.
+
+Percy smiled. "No problem."
+
+She collected the dry practice rope and went to watch the next exercise with the others. Percy felt oddly proud that the lesson had ended because she asked, not because somebody told him he had failed.
+
+Silena sat on the log and rubbed the wet sand from her hands.
+
+"That's enough bubbles for me," she said.
+
+"You're not afraid of them," Clarisse teased.
+
+"No. I just want dry clothes before lunch."
+
+Triton nodded toward the Sound.
+
+"Now we begin the exercise you came to see. Water whips, controlled strikes and the difference between pulling a current toward you and letting it pull you off balance."
+
+Clarisse sprang up.
+
+"Finally."
+
+Percy looked at the soaked hems of his trousers, then at his sisters. There would be a chance to show off in a minute. For now he was glad they had been allowed to decide when the bubble was finished.
+
+---
+
 By ten o'clock the sun had burned off the mist and the second lesson had begun, and Percy's arms felt like cooked spaghetti.
 
 Triton had moved them into the shallows to their ankles and given each of them a water whip — a three-foot length of seawater held together by will, heavy and alive in the hand.
