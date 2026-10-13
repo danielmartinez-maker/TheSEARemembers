@@ -180,9 +180,9 @@ Zoë’s ears went red. “Ella. Thou art supposed to keep secrets.”
 
 “Ella keeps books, not secrets,” Ella said happily, and went back to stealing Percy’s corn.
 
-Zoë sat down across from Percy with her bow laid carefully beside the bench, out of Nico’s grabby reach. She studied Silena’s flower boxes and Clarisse’s upside-down banner with a faint, unwilling smile.
+Zoë sat down across from Percy with her bow laid carefully beside the bench, out of reach of the younger campers. She studied Silena’s flower boxes and Clarisse’s upside-down banner with a faint, unwilling smile.
 
-“Thou hast made quite a mess in the Underworld, from what Ella recites,” Zoë said. “She has told the story four times already. Each time Grover grows braver and the hellhound grows larger.”
+“Thou hast made quite a mess in the Underworld, from what Ella recites,” Zoë said. “She has told the story four times already. Each time Grover grows braver and Cerberus grows larger.”
 
 “Ella exaggerates for effect,” Ella said proudly. “‘Effect’ means making Zoë laugh. Ella succeeded twice.”
 
@@ -298,7 +298,7 @@ Outside, Clarisse looked toward the pavilion where the younger campers were stil
 
 Percy thought of Grover asking for a private song for Juniper months earlier. Apparently the same principle applied to children from the Underworld. He was glad.
 
-The visitors were alive, safe for tonight, and free to decide how much of their story belonged to anyone else. That was enough for one homecoming.Quest done. Everyone home. Everyone fed.
+The visitors were alive, safe for tonight, and free to decide how much of their story belonged to anyone else. That was enough for one homecoming.
 
 ---
 
@@ -336,9 +336,9 @@ The whole amphitheater howled. Percy laughed until his sides hurt. Annabeth lean
 
 “He was bigger than a van,” Percy said.
 
-“BIGGER THAN THE BIG HOUSE,” Grover repeated firmly, to cheers. “And Percy walked straight up to the throne of Hades and said, ‘Give us our friends and tell us about his mom!’ And Hades said no, and the ground shook, and Annabeth — brilliant Annabeth, daughter of Zeus — she stepped forward and shocked a hellhound with lightning from her fingers —”
+“BIGGER THAN THE BIG HOUSE,” Grover repeated firmly, to cheers. “And Percy walked straight up to the throne of Hades and said, ‘Give us our friends and tell us about his mom!’ And Hades said no, and the ground shook, and Annabeth — brilliant Annabeth, daughter of Zeus — she stood beside the others and kept a clear route toward the exit without using lightning on wet stone —”
 
-“It was static,” Annabeth protested, covering her face. “It was a tiny spark —”
+“I didn't shock anything,” Annabeth said. “We were trying not to repeat the Fury mistake.”
 
 “It was lightning!” Grover insisted. “And Thalia stood shoulder to shoulder with her, spear out, and said, ‘We are the daughters of Zeus and we do not bow!’ And Hades bowed! A little! On the inside!”
 
@@ -356,52 +356,71 @@ Thalia pulled Grover down into a headlock and ruffled his curls. “Good story, 
 
 Annabeth caught Percy’s eye over Grover’s head and smiled, soft and private amid the noise. Percy smiled back, and his hand found hers on the blanket between them without either of them looking down.
 
-That was when the teasing started.
+That was when Percy realized he was too tired for another public performance.
 
-Chris Rodriguez from the Hermes cabin stood up and pointed. “Hold on! Hold on! Are Percy and Annabeth holding hands?”
+A camper from Hermes called out something about the pair holding hands. Someone else whistled. Percy had heard these jokes before. Most of camp had watched him and Annabeth walk together since spring; their relationship wasn't a new announcement to be made at a solstice celebration. But the quest had turned every ordinary gesture into something spectators wanted to claim as part of the story.
 
-The amphitheater went silent for half a heartbeat, then erupted.
+Annabeth looked toward the younger campers, then at the fingers linked with hers.
 
-“Ooooooh!”
+"Can we just sit?" she asked him.
 
-Percy froze. Annabeth froze. Their hands stayed exactly where they were, clasped tight on the blanket.
+"Please."
 
-Silena squealed and clapped both hands over her mouth. Clarisse leaned forward and said loudly, right into Percy’s ear, “About time, Kelp Head.”
+Thalia, who had been leaning on the step below, heard the first louder joke. She turned and looked directly at the group preparing another chant.
 
-The Aphrodite kids were on their feet instantly, chanting, “Kiss! Kiss! Kiss!” The Ares kids were stomping. The Apollo kids started strumming a romantic chord. Even Zoë was smirking. A few younger Hermes campers were chanting with their mouths full of popcorn. Ella was flapping and repeating, “Percy and Annabeth! Percy and Annabeth! Sweet couple! Sweet couple!”
+"Enough," she said.
 
-Annabeth’s face was brighter than the campfire. Percy’s ears burned all the way to the tips.
+A boy from the Apollo cabin raised his hands. "We were only teasing."
 
-“Traitor,” Annabeth hissed at Thalia, who was grinning like a shark.
+"I know," Thalia answered. "They're tired, and you aren't entitled to make them explain themselves because they went on a quest."
 
-Thalia stood up, dusted off her jeans, and held up both hands for quiet. She had that eldest-daughter-of-Zeus authority that could hush a battlefield, and the amphitheater actually hushed.
+The boy looked embarrassed. He muttered an apology and sat down.
 
-“Well,” Thalia said slowly, looking from Percy’s panicked face to Annabeth’s mortified one, savoring it. “As Annabeth’s older sister — by, like, eight months, but still — and as the person who had to sit between these two on a bus for three thousand miles while they pretended they weren’t staring at each other —”
+Percy was grateful. He didn't want the whole camp to treat him and Annabeth as a story the cabins could vote on. They had chosen each other a long time ago in a life the crowd didn't remember, and they had chosen to continue that relationship after waking in this one. No one at the amphitheater needed to know the first part for the second part to be real.
 
-“THALIA!” Annabeth yelped.
+Silena leaned forward from the step behind them.
 
-“— I feel I should give my official permission,” Thalia finished grandly. “Percy Jackson, son of Poseidon, you may date my sister. But if you hurt her, I will strike you with lightning. And then Clarisse will kill you. And then Silena will make your funeral look fabulous but you will still be dead.”
+"Do you want to go back to the cabin?" she asked her brother.
 
-The camp roared. Clarisse cracked her knuckles. “Damn right.”
+Percy looked toward Annabeth. She was still listening to Grover talk with the satyrs, and he could see that part of her didn't want to leave just because she'd been embarrassed.
 
-Silena wiped a fake tear. “Our baby brother has a girlfriend. He’s growing up.”
+"Not yet," he said. "I like being here. I just don't want to be the entertainment."
 
-Percy buried his face in his hands. Annabeth laughed despite herself, bright and helpless, and leaned her head against his shoulder.
+"Reasonable," Silena answered.
 
-Chiron raised his glass again, eyes twinkling. “To Percy and Annabeth. May camp accept what the Fates have clearly already decided. Sweet couple, indeed.”
+Clarisse was already arguing with two younger Ares campers about whether they could start another campfire song. Percy suspected she'd helped change the subject on purpose. He watched her negotiate with the confidence of somebody who had spent the quest keeping camp running instead of waiting at the top of Half-Blood Hill for a heroic return.
 
-“SWEEEET COUPLE!” Ella shrieked happily.
+Annabeth reached across Percy and tapped Thalia's shoulder.
 
-Someone started singing the old campfire song about the Poseidon boy who loved a Zeus girl, making up verses on the spot. Percy peeked through his fingers to find Annabeth watching him, gray eyes warm in the firelight, smiling like she wasn’t embarrassed at all anymore.
+"Thanks."
 
-“Hi,” she whispered.
+Thalia shrugged, pretending to be casual. "I don't want to listen to some boy in Apollo tell me how my sister should be dating."
 
-“Hi,” he whispered back. “So — girlfriend?”
+Percy smiled. "He's not even good at singing."
 
-“Boyfriend,” she confirmed, squeezing his hand. “Camp has spoken. My sister has spoken. No take-backs.”
+"Don't encourage me," Thalia replied.
 
-“No take-backs,” Percy agreed, and the fire burned gold around them.
+The new song began without anyone asking Percy and Annabeth to stand or kiss. A handful of Apollo campers played a tune about the strawberry fields, and Grover joined them on his repaired pipes. His notes sounded rougher than before the quest, but the melody held.
 
+Percy listened for a while. He could see Ella near the edge of the fire, copying the lyrics into her notebook. Zoë corrected something in the margin, then crossed out her correction when Ella objected. They were doing ordinary work even at a celebration.
+
+Annabeth leaned into Percy's side.
+
+"We've been together for so long," she said quietly. "It's strange how people can make it feel like they're discovering it every week."
+
+Percy glanced at her. "They just like being dramatic."
+
+"So does your sister."
+
+"Both of them."
+
+"Mine too."
+
+He held her hand a little more comfortably. They didn't need to make an announcement. They didn't need Thalia to give them permission to call their relationship what it already was.
+
+Across the fire, Grover finished the song and turned to Percy with a grin, expecting praise. Percy gave him two thumbs up.
+
+It was a better use of the campfire than another joke about kissing.
 ---
 
 Later, after the songs and the s’mores and after Ella had fallen asleep on Zoë’s lap and Grover had been carried off by the satyrs singing his name, Thalia found Annabeth by the drink cooler.
