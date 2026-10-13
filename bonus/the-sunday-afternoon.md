@@ -11010,3 +11010,191 @@ In the dark he could still hear the place where he'd entered too early. He liste
 Tomorrow he would do it in front of an audience.
 
 ---
+
+## April 14: The Letter She Didn't Send
+
+The first mistake Thalia made was assuming the mail would arrive on Friday.
+
+The second was pretending she hadn't made the assumption.
+
+By Saturday afternoon she had checked the pigeonholes outside the pavilion three times, each time claiming she was looking for a notice from Chiron. On Sunday morning she stopped pretending and went directly to the courier's desk.
+
+The woman from Hermes's cabin was sitting behind a stack of packages, sorting them into routes with the weary competence of someone who had learned that people could become very unreasonable about a delayed piece of paper.
+
+"Nothing for you," she said before Thalia reached the table.
+
+"I haven't asked."
+
+"You asked yesterday. And Thursday."
+
+Thalia narrowed her eyes.
+
+The courier put down a bundle of envelopes. "The south road washed out. Everything coming through the station is delayed. We might get a delivery tonight. More likely tomorrow."
+
+"How long has it been closed?"
+
+"Since Wednesday."
+
+Thalia thought about the letter she'd sent Rhys after Eleni's improved training lesson. It was possible he hadn't received it. It was possible he'd written back and the letter was sitting in a bag somewhere on the other side of a broken road. It was also possible that he had been too busy to write, had forgotten the schedule they had discussed or had decided his new life was too interesting to interrupt for a letter home.
+
+The last possibility was unreasonable.
+
+She thought about it anyway.
+
+"Thank you," she said.
+
+The courier looked startled enough to be offended.
+
+Thalia went to the range before she could say something less polite.
+
+***
+
+The lesson was an advanced exercise in judgment. The students had to inspect a practice course and identify every unsafe angle before anyone was allowed to loose an arrow. Thalia had designed it so that an apparently easy route concealed a dangerous cross-line.
+
+The first group missed it.
+
+She stopped them before they took their positions and made them start the inspection again. The second group found the problem but suggested a fix that would have made another lane unsafe. The third found both issues and marked them correctly, then congratulated themselves so loudly that Thalia made them repeat the procedure in silence.
+
+By the end of the lesson her assistant looked exhausted.
+
+"You've been hard on them."
+
+"They were careless."
+
+"Some were. You made them all feel as if they'd nearly killed somebody."
+
+Thalia looked at Eleni. There was a steadiness in the girl's expression she recognized from their earlier disagreement. Her assistant was not trying to undermine her. She was telling her something she thought mattered.
+
+Thalia considered the lesson.
+
+The students had been careless in places. The course was designed to reveal that. But she had also been harsher than usual, impatient with errors she normally would have used as opportunities to teach. She'd been carrying the missed letter around in her head and had let the frustration leak into her instructions.
+
+"They deserved to be corrected," she said.
+
+"Yes."
+
+"They didn't deserve all of my mood."
+
+Eleni's expression changed.
+
+Thalia put down the clipboard. "I'll speak to them tomorrow. Before we begin."
+
+"All right."
+
+"And you can run the opening inspection."
+
+Eleni looked surprised. "You want me to?"
+
+"You're better at explaining it without making everyone feel stupid."
+
+"You're not bad at it."
+
+"Don't make the compliment worse."
+
+Eleni smiled and went to put the equipment away.
+
+Thalia remained by the empty range, irritated with herself. She had made the same mistake she feared making in the relationship: letting one feeling occupy the space meant for another. The students had nothing to do with Rhys. They did not need to carry the cost of her uncertainty.
+
+She went back to Cabin One and wrote a letter.
+
+It was a bad letter.
+
+She began with a complaint about the missing post, then moved to a series of increasingly sharp observations about how busy people managed to write when they wanted to. By the second paragraph she was accusing a man who had told her repeatedly that he loved working and loved being with her of using the first as an excuse to neglect the second. She read the page and recognized the voice.
+
+It was the voice she used when she was frightened of being left behind and didn't want anyone to notice.
+
+She put the page down.
+
+At the window, Annabeth was working on the east wall model. She looked over.
+
+"What's wrong?"
+
+"Nothing."
+
+Annabeth gave her a look.
+
+Thalia sighed. "The mail's late."
+
+"Rhys?"
+
+"Yes."
+
+"Is he supposed to write?"
+
+"He did write. The road is closed."
+
+"Then what's the problem?"
+
+Thalia stared at the unfinished letter. She knew the answer, but saying it aloud would make it sound as unreasonable as it was.
+
+"I don't like not knowing," she said.
+
+Annabeth considered. "Nobody does."
+
+"You're not helping."
+
+"I wasn't trying to solve it."
+
+Thalia looked at her younger sister. Annabeth had survived years of uncertainty herself. She knew what it felt like to wait for an adult who might not come back, to make practical plans around someone's absence, to tell herself the uncertainty didn't matter.
+
+Thalia didn't want to turn Rhys into another version of that fear. He hadn't earned it.
+
+She tore up the letter.
+
+Annabeth watched without comment.
+
+Then Thalia took a clean sheet and began again.
+
+*Rhys,*
+
+*The mail is late because the south road is flooded. I know that. I'm writing anyway, partly because I want you to have something waiting when deliveries resume and partly because I am spectacularly bad at being patient.*
+
+She paused. That was true. She could say more.
+
+*The program is working. Eleni caught me being unfair with a group today. She was right. I was angry about something that had nothing to do with them, and they paid for it. I'm going to apologize tomorrow and try to do better.*
+
+She looked at the sentence. It was less satisfying than the accusation she'd torn up. It was also something she could live with when Rhys read it.
+
+She added a paragraph about the students' exercise, then stopped again.
+
+*I missed your letter this week. I know it may still be in transit. I don't want you to write because you're afraid I'll be angry. I want to hear from you when you have something to tell me. I'm going to try to remember the difference, even when I am being unreasonable about a road I can't fix.*
+
+She signed the letter and sealed it.
+
+At supper she found Eleni and asked the assistant to gather the students a few minutes early the following morning. Eleni agreed without comment. Thalia was grateful for the lack of fuss.
+
+The next day she apologized to the group before the lesson began.
+
+"I was too hard on you yesterday," she said. "The safety errors were real. I was right to stop the exercise. But I made some of you feel foolish instead of helping you understand what needed to change. That's not how this program is supposed to work."
+
+The students stared.
+
+One of them raised a hand.
+
+"Does that mean we can use the second target again?"
+
+"No."
+
+The group laughed.
+
+"Nice try," Thalia said.
+
+They began the lesson. Eleni led the inspection, and Thalia watched from the side, offering corrections only when the safety line required one. The students did better. The improvement belonged partly to the assistant and partly to their own willingness to learn.
+
+Thalia felt better too, though not because she had found a way to stop missing Rhys.
+
+The mail arrived late that afternoon.
+
+His letter was there, written after the opening performance, full of complaints about stage acoustics and the conductor's merciless corrections. He had rushed a passage and recovered. He had enjoyed the applause. Near the end he had written that he wanted to kiss her until they forgot the mistake.
+
+Thalia sat on the porch and read the line twice.
+
+The accusation she'd nearly sent felt suddenly unbearable, but she was glad she'd torn it up before anybody else had seen it. She wasn't proud of the impulse. She was proud of not having treated it as the truth.
+
+She put his letter inside her book.
+
+There was no grand revelation in a road reopening. There was only a man who had written when he could and a woman who had remembered, just in time, that waiting didn't give her the right to invent his intentions.
+
+She went inside to prepare the next lesson.
+
+---
