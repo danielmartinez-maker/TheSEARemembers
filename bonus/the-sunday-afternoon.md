@@ -2602,3 +2602,151 @@ She kissed his cheek, then settled beside him again. The evening had been about 
 Outside, the rain began again, soft against the window. She listened to it for a while and found that she didn't need to know exactly how many more nights he would be here. Tonight was theirs. Tomorrow could begin when it arrived.
 
 ---
+
+Monday brought the first practical sign that Rhys might actually leave.
+
+It was a letter, opened on the workbench beside the bowl of cereal he'd forgotten to finish. Thalia arrived in the afternoon and found him staring at the page with the expression he usually reserved for a bow that refused to hold tension.
+
+"Bad news?" she asked.
+
+"Complicated news."
+
+"That sounds worse."
+
+He handed her the letter. It was from his mother, written quickly but carefully, with a few words crossed out and a line added along the bottom of the page. She had managed to arrange some help for the winter, but there were still repairs and appointments to organize. She wasn't asking him to abandon camp forever. She wanted him home for a stretch long enough to be useful, and she had listed three possible dates.
+
+Thalia read it twice.
+
+"You should go," she said.
+
+Rhys looked at her. "You haven't even asked what I want."
+
+"You've been talking about this for weeks."
+
+"That doesn't mean I want to leave."
+
+She put the letter on the table. "Your mother needs you."
+
+"Yes. And I like being here."
+
+She was aware of the temptation to solve the problem for him. She could tell him which date to choose, help him arrange the camp schedule, make herself useful enough that he would never have to think about whether she wanted him to stay. She could turn the entire issue into a practical project and avoid admitting that it hurt.
+
+Instead she asked, "What are you worried about?"
+
+He looked at the letter. "That I'll go home and get caught up in everything, and we'll stop knowing how to talk. That I'll come back and it will feel strange."
+
+She felt the same fear, though she would have preferred to hear him say it first.
+
+"That could happen," she said.
+
+He looked up, surprised by the bluntness.
+
+"It could," she continued. "I'm not going to tell you it won't. We don't know what it will feel like when you're gone."
+
+"I know."
+
+"But that doesn't mean you shouldn't go."
+
+He nodded slowly. The fact that she had not tried to persuade him to stay seemed to make the decision both easier and harder.
+
+"Would you come with me to the station?" he asked.
+
+She considered. "If you want me there."
+
+"I do."
+
+"Then I'll come."
+
+They sat beside each other on the cot. The letter lay between the cups on the table, a small piece of paper carrying more consequence than its size deserved. Thalia was suddenly conscious of wanting to be close to him. Not because she wanted to erase the decision, but because she wanted him to know the decision hadn't turned him into a person she resented.
+
+She took his hand.
+
+"Come here," she said.
+
+He moved closer and rested his forehead against hers. She kissed him slowly, with none of the teasing she usually used to hide how much she cared. His hand rested at the back of her neck, and she felt the familiar comfort of the touch. There was no promise in it that the weeks apart would be easy. It was a promise only that they were still choosing each other now.
+
+When they drew apart, Rhys smiled faintly.
+
+"You're being unexpectedly kind."
+
+"Don't get used to it."
+
+"I wouldn't dream of it."
+
+She rested her head against his shoulder. They sat together for a while, the way they had on the first night, except that the silence now held knowledge neither had possessed then. She knew how he sounded when he was tired, how he looked when he was worrying about his mother, and how quickly his smile returned when she made a particularly bad joke. He knew she could be unreasonable, but also that she was trying to be fair.
+
+"Which date?" she asked eventually.
+
+He glanced at the letter. "The nineteenth would be easiest for her."
+
+She calculated. Six days. It seemed too soon, although she knew that was merely the feeling speaking.
+
+"Then choose the nineteenth."
+
+"You're sure?"
+
+"It's your decision. I'm telling you what the letter says."
+
+He smiled, recognizing the correction. "Right."
+
+He chose the date and wrote the reply while she sat beside him. She didn't dictate the letter. She had opinions about the phrasing, of course, and she kept most of them to herself. When he finished, he handed it to her.
+
+"Read it?"
+
+She did. It was honest, practical, and not especially elegant. He told his mother he would come, that he would stay until the work was under control, and that he wanted to be back at camp before the season changed too far. He didn't promise a return date he couldn't guarantee.
+
+"Good," she said.
+
+"Really?"
+
+"Yes."
+
+He looked relieved. She folded the letter and handed it back.
+
+After that they talked about ordinary things. Whether his winter boots would survive the trip. Whether somebody else could use his practice bow while he was away. Whether the music he'd been writing should go with him or stay in the cabin. She helped him make a short list because he asked, not because she took over, and he watched her write it with an expression of affection that was difficult to ignore.
+
+"You're staring," she said.
+
+"I am."
+
+"Why?"
+
+"Because you're here."
+
+She looked at him. The answer was simple and deeply inconvenient.
+
+She put down the pencil, moved closer, and kissed him.
+
+They stayed that way until the stove needed attention. He took care of it while she watched, still a little reluctant to let go of the moment. Then he came back and settled beside her.
+
+"Can I ask you something?" she said.
+
+"Yes."
+
+"When you're gone, do you want us to tell people we're together?"
+
+He considered. "I thought we had already decided that much."
+
+"We decided you could tell people we're seeing each other. That's not quite the same thing."
+
+"Do you want to call it being together?"
+
+The question made her pause. She had spent so much time resisting labels that she'd forgotten they could be useful when they described a reality she already recognized.
+
+"I think we are," she said.
+
+He smiled slowly. "So do I."
+
+She felt a sudden rush of happiness, followed by the old instinct to make a joke. This time she didn't. She leaned over and kissed him, letting the moment be exactly what it was.
+
+"We're together," she said.
+
+"Yes."
+
+"Don't get dramatic."
+
+"I wouldn't dare."
+
+He was grinning. She grinned back. The letter to his mother was still on the table, and the decision to leave had not changed. But something between them had become clearer, not because they'd conquered the future, but because they'd finally named the present.
+
+---
