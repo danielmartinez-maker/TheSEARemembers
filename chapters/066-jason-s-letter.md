@@ -286,7 +286,95 @@ Silena chewed her lip. "Do you think— do you think they'd let us visit? During
 
 Percy sat up. "We should go. All of us. Thalia, Annabeth, me, you guys. Road trip to California. Iris-message ahead: WARNING, GREEKS INCOMING, HIDE THE PILLOWS."
 
-Everyone laughed. Thalia's laugh faded into something softer. She looked down at the tube in her arms. "I'd like that. To see his bunk. To meet Reyna and tell her hands off my brother. To—" She swallowed. "To see that temple to Diana. To know he's got gods watching him too."
+Everyone laughed.
+
+The question of who could actually visit Camp Jupiter turned out to be less funny.
+
+Chiron had heard Percy proposing a road trip, apparently, because he appeared beneath the oak with a small notebook and asked whether anyone was planning to travel to California without telling him.
+
+"Nobody's booked anything," Thalia said.
+
+"Good. The last time four of you traveled west together, the emergency paperwork arrived in a pile taller than my coffee cup."
+
+Percy winced. "We brought the bolt back."
+
+"You did. And the reports are still being filed."
+
+Chiron sat on the low bench beyond the tree and waited for the conversation to settle.
+
+"Jason has requested a visit," he said. "That's encouraging. But he hasn't invited six camp friends to a Roman military installation, and his letter is not travel authorization. Reyna has asked for a proposed date and the names of those who may come. The legion must agree. The transport must be arranged. Jason's own schedule must be respected."
+
+Silena's expression fell slightly. "So we might not all get to go?"
+
+"That's possible. His sisters should be able to make a private family request without it becoming a diplomatic event."
+
+Percy looked at Annabeth. Her pencil had stopped over the unfinished comic.
+
+"I want to go," she said. "But I'd rather Jason see Thalia than have everybody come because we think it sounds exciting."
+
+Thalia looked surprised.
+
+"You're his sister too."
+
+"I know. I'm not giving up my place. I'm saying he should get a say in what the visit looks like."
+
+Percy watched Thalia turn the letter tube in her hands. She'd spent years wanting to see her younger brother without having to ask permission from a string of adults she didn't trust. It was difficult to imagine how an official arrangement could feel like anything other than one more person telling her when she was allowed to be family.
+
+Chiron seemed to understand at least part of it.
+
+"If you submit a request for Thalia and Annabeth first," he said, "I can ask Reyna what options are available. Other friends may be invited afterward if Jason wants that and the Roman hosts consent. No one is being excluded from the family. We're starting with the people who need to be there."
+
+Clarisse was silent for a moment.
+
+"Fine. I wasn't actually going to stab a Roman because he told me to march," she said.
+
+"An excellent start to your diplomatic career," Chiron answered.
+
+Percy laughed.
+
+Thalia looked at the paper.
+
+"Will they make me behave like a guest instead of a sister?" she asked.
+
+"They may make you follow security procedures," Chiron replied. "That won't change who you are to him."
+
+"Zeus changes plenty of things by claiming he gets to."
+
+"Zeus isn't conducting this visit," Chiron said. "It is a request between the camps. The Roman authorities will have their own expectations, some of which you'll dislike. We can discuss them before you accept."
+
+Thalia glanced at Annabeth. The younger Grace sister was watching her carefully, not telling her what to do.
+
+"Then we ask for the two of us," Thalia said.
+
+"Good."
+
+"And Jason can ask to have others if he wants."
+
+"Yes."
+
+"And don't tell him we're making it a grand reunion or a whole delegation."
+
+"I won't."
+
+Percy stared at his own doodle of a Roman fish. He'd been so ready to picture an entire group visiting New Rome that he'd forgotten the purpose of the trip was to see an actual person who lived there. Jason was a boy with homework, drills, friends and a letter he'd worried over for pages. He wasn't a destination everyone could claim because his sister happened to be their friend.
+
+"I'll put the joke in the reply," Percy said. "You don't have to bring me."
+
+Thalia looked up. "I might still want you there."
+
+"Then ask Jason."
+
+Her face changed, and she nodded.
+
+Chiron handed them a blank request form with spaces for the visitors, the hosts and the preferred season. He didn't insist they fill it out immediately.
+
+"Talk to one another first," he said. "There's no benefit to submitting a date none of you can actually keep."
+
+He went back toward the Big House.
+
+The five of them remained under the oak, looking at the form. Annabeth took it, checked the headings and began making a list of what they didn't yet know. For once Percy didn't mind the question marks. They were about somebody they cared for, and answering them properly was worth a little patience.
+
+Thalia's laugh faded into something softer. She looked down at the tube in her arms. "I'd like that. To see his bunk. To meet Reyna and tell her hands off my brother. To—" She swallowed. "To see that temple to Diana. To know he's got gods watching him too."
 
 Annabeth paused in her drawing, looking up. "He asked if you were happy, you know. At the end. If you're really happy with school and camp."
 
