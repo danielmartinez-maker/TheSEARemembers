@@ -476,6 +476,137 @@ Clarisse glanced toward the dining hall. “And dinner?”
 
 ---
 
+There was a moment before dinner when the visit stopped feeling like a tour and became an actual arrangement between people who would have to share a house.
+
+Percy had been looking for the small shell bell Triton had promised at camp. He found it on the low table beside the guest-wing door, almost hidden behind a vase of pink coral. When he lifted it, the shell felt heavier than it looked. Two small silver marks ran along the rim.
+
+Annabeth joined him. "Is that the one?"
+
+"Apparently."
+
+"Have you rung it?"
+
+"No. I don't want to summon half the palace because I'm curious."
+
+"We should confirm it works before we need it."
+
+"That's exactly the sort of sentence you say before we both get blamed for something."
+
+She took it from him and studied the marks. "Triton said twice to request an escort. One ring should summon an attendant. We can try one and explain we're testing the arrangement."
+
+"Do you think they'll be annoyed?"
+
+"Possibly. Better annoyed now than unavailable later."
+
+Percy let her ring it. The sound wasn't loud, but it traveled through the water with an odd clarity. An attendant appeared within a minute. She wore a pale green tunic and carried a small writing board.
+
+"May I help you?"
+
+Annabeth explained the test. The attendant listened, asked whether they had seen the posted route card, and took them to the small board beside the connecting doors. It listed the west garden, main hall and family wing as supervised exits. Each location had an assigned steward and a path to the coast. Percy compared it with the card they'd made at camp. The words matched.
+
+"Is leaving the palace always possible?" Annabeth asked.
+
+"Sometimes the open-water channel is closed for weather or council traffic," the attendant said. "In that case you remain in the safe waiting chamber until the route opens, or we arrange a guarded alternative."
+
+"Who decides whether the alternative is safe?"
+
+"The watch captain and the visitors. A guest may refuse a route."
+
+"What if a guest wants to leave and every route is closed?"
+
+"Then we tell them the truth and make a plan with them. We do not invent a departure hour."
+
+Annabeth nodded. "Thank you."
+
+The attendant left after showing them where to find the next watch roster. Percy looked at the shell bell again. This was not a magic guarantee that nobody could become trapped underwater. It was something more useful: an actual person had answered the call and explained what happened if circumstances changed.
+
+Clarisse emerged from the adjacent room carrying her spear and an expression that suggested she had found something worth disliking.
+
+"They've put a rack by the door," she said. "They want me to leave this before dinner."
+
+"That's normal," Percy said.
+
+"In a palace where the guards carry spears?"
+
+"The guards are on duty."
+
+"And I'm not?"
+
+"No."
+
+She frowned. He tried again. "You can ask why guests aren't armed in the dining hall."
+
+"I am asking."
+
+"Not me. The people who made the rule."
+
+Silena came through the connecting door. She had unpacked the jam she'd brought from camp, and a small red stain marked one sleeve.
+
+"I asked the steward," she said. "The rack is for everyone's weapons. Even Triton leaves his ceremonial blade outside private dining rooms. The guards have theirs because they're guarding the doors."
+
+"Fine," Clarisse said, but she didn't put the spear away yet.
+
+"You don't have to like the rule," Silena continued. "You do have to decide whether you want to eat under it."
+
+Clarisse looked toward the hallway. "I want dinner."
+
+"Then you can put the spear in the rack and keep the key."
+
+"Where's the key?"
+
+"On the inside of the latch. That's the point."
+
+They tested the locking mechanism together. Clarisse left the spear behind only after checking that she could retrieve it without asking someone else's permission. Percy knew this would look fussy to anyone who had never relied on a weapon to feel safe in an unfamiliar place. He also knew Triton had invited a girl who was excellent at finding weaknesses in procedures. This was part of who she was, not a discourtesy.
+
+Thalia knocked at the open door with Annabeth's guest card in her hand. "You wrote the emergency phrase on the back," she told her sister.
+
+"I did."
+
+"Are we really keeping it?"
+
+"Yes."
+
+Thalia looked at Percy. "If she says she wants to leave, don't try to talk her out of it because you're happy here."
+
+"I won't."
+
+Annabeth turned. "Thalia, you can ask me rather than briefing my boyfriend."
+
+Thalia's mouth tightened. Then she nodded. "Are you comfortable?"
+
+"Yes. I'm excited and nervous, and I want to stay through dinner."
+
+"Then I will stop making preparations for an argument nobody has started."
+
+"Excellent plan."
+
+They went to find the others. Halfway down the corridor, Percy saw a household official approaching with a scroll and a worried expression. The man stopped beside Triton.
+
+"Your father has not confirmed tonight's attendance," he said.
+
+Triton glanced toward Percy. Percy understood that look. It was an invitation to hope without having been promised anything solid.
+
+"Then we eat without him," Percy said.
+
+The official looked scandalized. "The king may arrive."
+
+"He may," Triton replied. "The meal won't be delayed. Inform the kitchen."
+
+Percy met his brother's eyes. It was the rule they'd settled at camp. Triton had remembered.
+
+Silena came to his side, hands clasped behind her back. "I'm glad he might come," she said quietly.
+
+"Me too."
+
+"But I'm not spending dinner counting the minutes."
+
+"Neither am I."
+
+A bell sounded somewhere ahead, low and clear. The guests were expected in the hall. Percy walked with his sisters and the Grace girls, none of them wearing a borrowed identity, all of them free to admit if they were uncomfortable. They hadn't solved the problem of having a god for a father, nor had they made Atlantis into a place without rules. They had learned which rules they could question, who would answer, and which doors opened when they asked.
+
+
+---
+
 When the hour arrived, Triton met them at the family-room entrance. The weapons had been secured in the rack. Clarisse had watched the guard place her spear there, checked that the lock was visible, and declined to let the other knife go anywhere but her own boot. The guard had made no objection after Triton confirmed she had told them about it.
 
 “You remember the greeting,” Triton said.
