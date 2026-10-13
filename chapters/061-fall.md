@@ -486,6 +486,102 @@ Thalia slept in Cabin One that weekend. Percy lay awake in Cabin Three listening
 
 ---
 
+The first thing Thalia did after Annabeth fell asleep was check the window.
+
+She told herself it was habit. She had spent too many years listening to unfamiliar buildings settle, measuring how far a door was from the nearest stair, checking whether a window opened without tools. Cabin One was safer than most of those places had been. She knew it. She checked anyway.
+
+Annabeth slept curled on her side with one arm beneath her pillow, her school notes stacked on the bedside table. A little model of the camp bridge stood near the window. Its neat supports cast narrow shadows in the moonlight.
+
+Thalia sat at the desk and unfolded Reyna's letter.
+
+It was careful, official and less satisfying than she had hoped. Jason was well. Training continued. A possible family visit could be discussed after the legion's autumn obligations were known. There was nothing about what Jason wanted to eat, whether he was getting enough sleep, or what he had said after the standard-recovery expedition. Thalia understood why Reyna couldn't put private things into an official letter. She still wanted them.
+
+She drew a line under the sentence confirming Jason had received her last note. Then she stopped.
+
+Annabeth moved in her sleep. Thalia turned toward her, prepared for the familiar moment of hearing a frightened child call from a bad dream. Instead Annabeth shifted the pillow, muttered something about a load-bearing wall, and settled again.
+
+Thalia almost laughed.
+
+She wanted to be happy about how much ordinary nonsense filled their lives. She was happy, most of the time. She had watched Annabeth study with Percy that afternoon, correcting his Greek and accepting his corrections when he found a mistake in one of her measurements. Her little sister wasn't waiting for Thalia to solve every problem before she could start living.
+
+That ought to have been a relief.
+
+It was. It also left Thalia alone with questions she had been too busy to ask while raising Annabeth.
+
+What was she supposed to be when her sister didn't need a shield in front of her all the time? What did Jason know about the years he'd missed, and did he care about knowing them? Was there a way to tell their father she had enough of his changing faces without giving him another chance to punish Annabeth?
+
+The desk didn't supply answers.
+
+Thalia found a fresh page and began a letter to Jason.
+
+*I came to camp this weekend. Beth is doing well. She's got a bridge model that looks as though somebody shrank an entire town to fit it on a table. She'll explain it to you if you ask, so be prepared to lose an afternoon.*
+
+Thalia read the sentence twice. It sounded like something she might say to a younger brother, if she had been allowed to spend enough afternoons with him to know what made him laugh.
+
+*I saw you got the standard back. Reyna says it was difficult. I wanted to ask whether you were frightened, but that's probably the wrong way to begin a letter when you're already tired of people asking you to be brave.*
+
+She crossed out the second sentence. Then she uncrossed it.
+
+What was wrong with asking whether he was afraid? She asked Annabeth that. She answered honestly when Annabeth asked her. Jason was eleven, not a statue made of Roman virtues. He could say no. He could say he was fine, even if he wasn't. That was his choice.
+
+Thalia wrote a shorter question.
+
+*What was the hardest part? You don't have to tell me if you'd rather not.*
+
+She thought about Zeus. He had called Annabeth in October, two different voices in a single conversation, and asked whether Thalia was distracting her. Thalia could hear the accusation hidden inside that word: the older sister had become a problem to be managed.
+
+She wanted to write to Jason that their father was being difficult again, but she had no idea how the same god treated his son in Rome. She didn't want to turn Jason into a messenger between two furious daughters and a parent who barely visited.
+
+Instead she wrote:
+
+*I hope you get to choose your own friends and have at least one day a week when nobody needs you to win anything. Those days are good. I used to think they were a waste of time.*
+
+Her hand stopped.
+
+She remembered a brief visit from Zeus years earlier, when he'd been handsome and young and had spoken to both girls for less than half an hour. He had praised Thalia for keeping Annabeth safe, then disappeared before supper. For weeks afterward she'd tried to make every decision as though he might return and inspect it. She had been seven kinds of miserable. So had Annabeth.
+
+The memory made her angry all over again. It also told her something about the letter. She didn't need Jason to admire her for being a good sister. She wanted him to know her, including the parts that were impatient and tired.
+
+*I argued with Percy about whether a satyr can be trusted to choose a route in the rain. He won. Don't tell him. I like pretending he never wins arguments.*
+
+She smiled.
+
+*Write when you want. I can wait for an actual answer. I'd rather have one honest page than twelve ceremonial letters written by somebody at your desk.*
+
+Thalia folded the paper before she could change her mind. She addressed it to Jason through Reyna, with a note on the outer envelope requesting personal delivery where appropriate. She knew Roman channels had their own rules. She could ask without pretending to control them.
+
+Behind her, Annabeth stirred.
+
+"Thals?"
+
+"Go back to sleep."
+
+"Are you writing?"
+
+"To Jason."
+
+A pause. "Tell him I said hi."
+
+"I did."
+
+"Tell him Percy still thinks Roman armor looks uncomfortable."
+
+"I did not write that."
+
+"You should."
+
+Thalia turned in her chair. Annabeth's eyes were closed again, but she was smiling into her pillow.
+
+"Goodnight, Beth."
+
+"Night."
+
+Thalia put the letter in her satchel and checked the latch on the window one more time. Then she climbed into her bunk. She knew she would still worry about both younger siblings tomorrow. That didn't mean she needed to turn every worry into an instruction.
+
+It felt strange not to have the last word. For now, the letter could speak when it arrived.
+
+---
+
 Saturday was for studying, because Annabeth decreed it and even Thalia obeyed Annabeth's decrees when her voice went into architect mode.
 
 They took over the Big House attic. Thalia sprawled on the floor with her mortal school chemistry, groaning loudly every time she had to balance an equation. Annabeth sat in her usual chair with her bridge calculations spread around her like a nest. Percy sat on his footstool with Atlantis Greek, mouthing hexameter under his breath until Thalia threw a pillow at him.
