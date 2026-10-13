@@ -246,6 +246,130 @@ The lake lapped at the pilings. A leaf, bright red, landed on the dock between t
 
 ---
 
+Percy discovered the hardest subject in Atlantis wasn't Greek or algebra.
+
+It was geography.
+
+Not mortal geography, which he could usually muddle through with a map and enough questions. His tutor wanted him to identify the channels that carried trade across the Mediterranean, the routes that connected underwater cities, and the places a current could safely carry a messenger when the weather above was bad. The map on the classroom wall changed as the tides changed. Names shifted across the coral surface while Percy tried to keep up.
+
+"That's cheating," he said when an island moved two inches between his first answer and his second.
+
+Lady Thetis raised an eyebrow. "The sea does not hold still for your convenience."
+
+"Most atlases at least pretend."
+
+"The atlas is correct for the hour. Your answer is correct for yesterday."
+
+Percy looked at the other students. One of them, a green-haired girl called Melia, was hiding a smile behind her book. She had been raised in Atlantis and seemed to know every current before Thetis finished describing it. Percy had tried asking her for help once, and she'd told him to stop looking for the names he already knew and start watching where the water actually went.
+
+It had been infuriating advice. It had also worked.
+
+The assignment was a route for a medicine delivery to a coastal settlement. Percy had chosen the direct channel, the one that cut the most distance. Melia had chosen a longer course that stayed closer to the shelf.
+
+"Why?" Percy asked when they compared maps.
+
+"The direct one has a strong return current by afternoon."
+
+"I could push against it."
+
+"The delivery isn't for you," she answered. "It's for a courier who can't."
+
+Percy stared at his diagram. He'd drawn a route that depended on being Poseidon's son, although the question had never said the courier could command water. It was the same mistake he'd made on the quest when he assumed everybody could follow him through trouble that felt manageable to him.
+
+He changed the route. It took longer, but it had a sheltered stop and a point where a second courier could take over if the first one was exhausted.
+
+Thetis examined the new map.
+
+"Better," she said.
+
+"That's it? No speech about how the prince has learned wisdom?"
+
+Melia snorted.
+
+"Your Highness has learned to read the assignment," Thetis replied. "Tomorrow we can begin the difficult part."
+
+Percy would have laughed if he hadn't been mildly offended.
+
+At lunch he found Melia in the library, sorting the maps they'd borrowed. He offered to help roll them. She handed him three, then stood back and watched as he tried to roll all three together and nearly crumpled the oldest one.
+
+"One at a time," she said.
+
+"You and Annabeth would get along."
+
+"Who?"
+
+"My girlfriend. She'd probably redesign the map racks before finishing breakfast."
+
+Melia considered that. "They do need fixing."
+
+Percy spent the next hour helping her mark damaged cases for repair. She knew the library staff and could say exactly which shelves had been neglected during the court's recent disputes. He knew how to carry water through a narrow passage without letting it spill over manuscripts. For once he wasn't the subject of a lesson or a prince being escorted from room to room. He was a boy holding the other end of a broken shelf while somebody explained where to put the new support.
+
+When the last case was closed, Melia asked why he'd spent the afternoon there instead of going to the palace games.
+
+"Because the maps have to be put away," Percy said.
+
+"You aren't required to do that."
+
+"Neither are you."
+
+"I use them."
+
+"So do I."
+
+She looked at him for a moment, then nodded and began writing a list of labels. The conversation ended without a bow or a reminder of his titles, which Percy found unexpectedly relaxing.
+
+By the time he returned to camp, he was late for homework.
+
+Annabeth was already in the attic, her architecture plans spread out over his footstool.
+
+"Twenty minutes," she said as he came in.
+
+"I know."
+
+"Was the current closed?"
+
+"No. I was helping fix shelves."
+
+She looked up. "Actually fixing them or offering ideas that someone else had to implement?"
+
+"Fixing them. Properly. Ask the librarian."
+
+Annabeth seemed pleased. "Then I'll forgive ten of the twenty minutes."
+
+"Generous."
+
+He showed her his route assignment. She examined the curves of the continental shelf, asked why the longer route was safer, and then caught the detail he'd nearly missed: his alternative still had a narrow crossing with no reliable place to rest.
+
+"You need a second stop," she said.
+
+"It makes the trip longer."
+
+"It might make the trip possible."
+
+He put a small mark beside the crossing. Then he wrote to Melia to ask whether the settlement had a sheltered dock nearby. He could answer the question without inventing a location on the map.
+
+Annabeth watched him fold the note.
+
+"You're learning," she said.
+
+"Don't sound so impressed."
+
+"I am impressed. You used to draw a straight line between two places and call it a plan."
+
+"Sometimes it worked."
+
+"Sometimes you fell six hundred feet into a river."
+
+"That's an unfair example."
+
+"It's a very memorable example."
+
+Percy made a face and started his English assignment. Halfway through, he noticed Annabeth had moved her drawings off his footstool so he could sit properly. He thanked her without making it an occasion.
+
+The attic was quiet, except for pencil scratches and the little rattle of the window in the wind. He had a map to finish, a shelf repaired underwater, and an essay to write for a mortal tutor who had no interest in divine geography. It seemed like too many kinds of school. He was beginning to like being responsible for learning all of them.
+
+---
+
 Clarisse's first letter arrived on a Tuesday in late September, forwarded in a manila envelope from Camp to her house and back to Camp again because the harpies got confused.
 
 Percy knew her handwriting instantly — all caps, pressing so hard the pen nearly tore the paper.
