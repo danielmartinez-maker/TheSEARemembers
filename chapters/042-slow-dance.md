@@ -600,6 +600,122 @@ They did not say anything else. They just sat side by side, two older sisters wh
 
 ---
 
+Silena watched Clarisse pretending not to enjoy herself.
+
+It was a familiar performance. Her younger sister sat on the steps with her arms folded, criticizing the dancers' footwork as though this were a tournament and she had been appointed judge. Yet every few minutes she looked toward the circle to check whether Percy was still managing without tripping over Annabeth.
+
+Silena had spent the first half of the night dancing with friends from the Aphrodite cabin. She liked the music, the colored lights and the chance to wear something she'd chosen without worrying about whether it would survive a sparring lesson. She also liked knowing her siblings were here, each enjoying the evening in a way that made sense to them.
+
+She sat beside Clarisse.
+
+"Want to dance?"
+
+Clarisse looked horrified. "With who?"
+
+"Me."
+
+"Why?"
+
+"Because there's music."
+
+"That's a terrible reason."
+
+"It's generally the reason people dance."
+
+Clarisse looked toward Thalia, who was doing a poor job of concealing her amusement.
+
+"Don't laugh."
+
+"I haven't," Thalia said.
+
+"Your face is laughing."
+
+"Then ask it to stop."
+
+Silena put her hand on the step between them.
+
+"You don't have to," she said. "I just thought it would be fun. We don't get many evenings where nobody expects us to be responsible for a drill or a meal."
+
+Clarisse studied her. The offer was simple. She had been so busy thinking about how embarrassing it would be to dance badly that she'd forgotten she could try for one song and sit down again if she disliked it.
+
+"Do you know the steps?" she asked.
+
+"Some of them."
+
+"Then show me before we go down there. I'm not getting shoved around in front of half the camp."
+
+Silena stood and demonstrated the basic movement on the wide landing beside their seats. Clarisse copied it with the awkward determination she brought to every new skill. She was very good at moving quickly and not particularly interested in looking graceful.
+
+"You're leading with your shoulders," Silena told her.
+
+"That's where most of my strength is."
+
+"Your feet are supposed to move first."
+
+"Why are all the interesting things about fighting also true of dancing?"
+
+"Because you're using your body either way."
+
+Clarisse tried again. The third attempt was smoother. Thalia began tapping the rhythm with her boot, which helped until she exaggerated the beat and made Clarisse lose count.
+
+"Stop helping," Clarisse told her.
+
+Thalia held up her hands.
+
+Silena asked whether Clarisse wanted to try the dance floor. Her sister hesitated, then nodded.
+
+They walked down together. The dancers made room without staring. A few people from the Hermes cabin were laughing at their own poor coordination, so Clarisse found it easier to join than she'd expected.
+
+The first half of the song was uneventful. Silena counted quietly while Clarisse followed, then they exchanged positions and let Clarisse lead. She turned too quickly, almost bumped into another pair and stopped.
+
+"Sorry," she said to the other dancers.
+
+They waved it off. Clarisse was more embarrassed by the apology than the near collision, but she started again carefully.
+
+When the song ended, Silena looked at her.
+
+"Another?"
+
+"One was enough."
+
+"Did you hate it?"
+
+"No. It was fine."
+
+Silena smiled. She had learned to accept *fine* as a considerable compliment when it came from Clarisse.
+
+On the way back, Clarisse stopped and looked at the stage.
+
+"Could we try something faster next time?"
+
+"Of course."
+
+"I know a couple of steps that would work."
+
+"From sword drills?"
+
+"Maybe."
+
+Silena laughed. Her sister liked learning things when she could see how they connected to skills she already had. There was no reason to insist dance become a completely separate world.
+
+They sat down beside Thalia. Clarisse looked warm and a little out of breath. She opened her mouth as though expecting a joke about being sentimental.
+
+Thalia surprised her.
+
+"That looked fun."
+
+"It was fine," Clarisse said.
+
+"Good."
+
+Silena handed her sister a cup of water, then looked toward the center of the circle where Percy and Annabeth were still trying to find their rhythm. Her younger brother had taken a risk she would never have thought of as dangerous: asking a girl who already loved him to share a dance in front of people who might tease him.
+
+Clarisse had done something similar. She had let herself be clumsy at an activity she didn't control. Neither needed to be declared brave for trying it. It was enough to enjoy it.
+
+Silena leaned back against the stone step. The song ended and the musicians began tuning for the next one. She had wanted to share the evening with her family. Now she had, without anyone needing to make a speech about what the dance meant.
+
+---
+
 Percy had lost track of the song.
 
 He did not know if they were still on the same one or if it had changed into another one without him noticing. Time felt bendy around the edges, the way it did underwater when light filtered down and everything slowed.
