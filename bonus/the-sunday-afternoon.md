@@ -5676,3 +5676,207 @@ Later, when he asked whether she wanted to come to his cabin, she said yes witho
 The world beyond camp was still full of difficulties. For one day, they had visited a piece of it together and found they were capable of simply being happy there.
 
 ---
+
+## January 7: The Work That Doesn't Belong to Them
+
+Rhys's new arrangement was going badly.
+
+Thalia knew because he'd stopped making jokes about it.
+
+He had spent three evenings at the workbench with his guitar, writing and erasing the same section of music. On the fourth evening she arrived to find him staring at a blank page as if it had personally insulted his entire family. The stove was cold. He had forgotten the cup of tea beside his elbow, and the window had fogged at the edges.
+
+"You're going to freeze," she said.
+
+He looked up. "I hadn't noticed."
+
+"That's the problem."
+
+He set the pencil down. She could see how tired he was. Normally he would have laughed, or challenged her to fix the arrangement herself. Tonight he simply looked at the page again.
+
+"Bad day?" she asked.
+
+"Bad week."
+
+She took off her coat, then stopped. She had come expecting an evening with him. The thought had carried her through a long day of training, a disagreement with one of the senior instructors and a headache that had begun behind her eyes around noon. She wanted to sit beside him, eat something, kiss him and stop thinking about everyone else's expectations.
+
+He looked as if he wanted the opposite: silence, an empty room and enough time to finish what he'd started.
+
+She could pretend not to notice. She could sit beside him anyway and hope that her presence would improve his mood. She had done that before, and sometimes it worked. Tonight she suspected it wouldn't.
+
+"What's the problem?" she asked.
+
+He rubbed a hand over his face.
+
+"The opening is wrong. Everything after it sounds as though it belongs in a different piece."
+
+She looked at the sheet. The score was longer than anything he'd shown her before, a complex arrangement with several lines crossing beneath the melody. He'd written the opening in three different versions, each one crossed out more heavily than the last.
+
+"Which part do you want to keep?"
+
+"None of it."
+
+"Then start again."
+
+"I have."
+
+"Then do it another way."
+
+He looked at her sharply. "I'm trying."
+
+The words were not loud. They didn't need to be. Thalia felt herself stiffen, offended by a tone she had used on other people too many times to count.
+
+"Fine."
+
+Rhys closed his eyes for a moment.
+
+"Thalia."
+
+"What?"
+
+"I didn't mean it like that."
+
+"You sounded as if you did."
+
+He set the pencil down carefully. She could see that he was trying not to turn a frustrating evening into an argument with her. She was trying to do the same. Neither was particularly good at it when tired.
+
+"I wanted to see you," she said.
+
+"I know."
+
+"And you're acting as if I'm in the way."
+
+He looked at the music. "A little. Not because you're doing anything wrong. Because I need to work this out and I'm having trouble thinking."
+
+The answer was honest. It hurt anyway.
+
+She stood beside the table for several seconds, then picked up her coat.
+
+"Then I'll go."
+
+"You don't have to leave."
+
+"I know. But I don't want to sit here making you feel guilty for needing time."
+
+He turned toward her. "I don't want you thinking I've stopped wanting to see you."
+
+"I don't."
+
+She wasn't entirely sure she believed herself. That was the uncomfortable part. They had been together often since his return, and she had begun to treat the ease of their evenings as something she could count on. When it faltered, an old part of her interpreted the change as danger.
+
+Rhys stood. He came close enough to touch her but didn't try to pull her into a reconciliation she hadn't chosen.
+
+"I'm sorry I was sharp," he said.
+
+She looked at him. "I'm sorry I tried to make your problem mine."
+
+He nodded.
+
+She could have kissed him then. She wanted to. But she knew the kiss might become an excuse to stay, and she didn't think staying was the right choice for either of them tonight.
+
+"Finish the piece," she said.
+
+"I will."
+
+"And eat something."
+
+"Yes, captain."
+
+She smiled faintly. "Don't call me that."
+
+"Then stop issuing orders."
+
+He looked tired, but some of the strain had gone out of his face. She leaned up and kissed his cheek, a small farewell that neither of them tried to turn into something more.
+
+Then she went home.
+
+***
+
+The next day they met at the range as usual.
+
+Rhys was teaching the older group, and Thalia had the beginners. They worked at opposite ends of the field without interrupting one another. When the students left for lunch, he came over carrying two cups of tea.
+
+"Peace offering," he said.
+
+She took one. "Depends how much honey's in it."
+
+"None."
+
+"Then it's a very poor offering."
+
+He smiled. "I deserve that."
+
+She looked at him properly. The tiredness was still there, but it had softened. He was carrying a folded sheet of music beneath one arm.
+
+"Did you finish?"
+
+"No."
+
+"Ah."
+
+"I figured out why the opening wasn't working."
+
+"That's progress."
+
+He nodded. "It was the wrong instrument carrying the melody. I kept trying to make the guitar do something it couldn't."
+
+She looked at him. "You needed to give the first line to the violin."
+
+"Exactly."
+
+She sipped the tea. The field was quiet now, the targets covered and the wind low. It was an ordinary winter afternoon, but she felt a relief she hadn't expected. He had used the evening alone for what he needed. She had spent it reading, talking with Annabeth and going to bed early. Neither had been diminished by the separation.
+
+"I missed you," he said.
+
+She looked at him. "You saw me yesterday."
+
+"Not like that."
+
+She smiled. "I missed you too."
+
+He reached for her hand. She took it.
+
+"I was going to ask if you'd come by tonight," he said.
+
+She considered. "Are you finished being unbearable?"
+
+"Not entirely."
+
+"Then I might need another day."
+
+He laughed. "Fair."
+
+She drew him a little closer and kissed him, letting the kiss linger because she wanted it. He responded with the eagerness she remembered, but neither used the moment to pretend the previous evening had been easy.
+
+When they separated, Thalia looked at the music under his arm.
+
+"Show me the new opening sometime."
+
+"I will."
+
+"Not tonight."
+
+He smiled. "Not tonight."
+
+That evening she stayed in Cabin One. She worked on the east-wall plans with Annabeth, read three chapters of a book she'd been neglecting and went to sleep without looking toward the north path.
+
+The next night she went to Rhys's cabin.
+
+He met her at the door, put his guitar aside and kissed her with a smile that made her forget the careful speech she'd prepared about respecting each other's time. She kissed him back, catching the front of his shirt and stepping inside.
+
+They spent the evening together, neither apologizing for the nights they had spent apart. The music remained unfinished on the workbench. It wasn't a threat. It was one more part of his life, and she liked knowing he had something he wanted to make even when she wasn't there to watch.
+
+At the end of the night, she found a clean page on the table.
+
+The new opening was there, written without erasures.
+
+She traced the first few notes with a finger.
+
+"Better," she said.
+
+Rhys looked over her shoulder. "You haven't heard it."
+
+"I can tell."
+
+He laughed. She turned toward him and kissed him, pleased by the fact that this time they were close because both had finished what they needed to do.
+
+---
