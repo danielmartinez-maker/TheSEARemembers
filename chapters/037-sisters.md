@@ -500,6 +500,134 @@ Annabeth smiled, then yawned hugely. "Phase Five?"
 ---
 
 
+Annabeth noticed the tear when they were leaving the arena.
+
+It wasn't a big one. The seam under the arm of her owl shirt had opened where Thalia had stretched to catch a practice spear. But the pale fabric showed through just beneath the little emblem over the heart, and the sight made Annabeth stop walking.
+
+"Thalia. Your shirt."
+
+Thalia looked down, twisted her arm and saw the gap.
+
+"Oh. Damn."
+
+"That's my favorite."
+
+"I know. Sorry. I'll fix it."
+
+"You don't know how to sew."
+
+"Then I'll learn."
+
+Annabeth would usually have turned the answer into a joke. She was tired after sparring, and the shirt mattered more than she wanted it to. Percy had drawn the trident on the sleeve. She'd added the lightning bolt beside it. It was one of the first things they'd made together after waking in the altered camp, and sometimes she touched the ink when she was frightened that the memories of their older lives would grow too difficult to keep separate.
+
+"I shouldn't have lent it to you," she said.
+
+Thalia stopped. The sentence landed harder than the torn seam had.
+
+"You asked for my jacket," she replied. "You said we should exchange things."
+
+"I know."
+
+"And it was an accident."
+
+"I know that too."
+
+"Then what's the problem?"
+
+Annabeth didn't answer. She hated that she could be entirely correct about an accident and still feel angry with the person who caused it. She wanted her sister to understand the shirt wasn't just an old piece of clothing. She also knew that asking Thalia to wear something and then resenting her for using it wasn't fair.
+
+They walked the rest of the way to Cabin One without speaking. Thalia went to her locker, changed out of the shirt and placed it carefully on the bed between them.
+
+"I said I'd fix it," she repeated.
+
+Annabeth touched the seam. "Silena can do it."
+
+"I'm the one who tore it."
+
+"That doesn't mean you should make it worse by trying to mend something you've never sewn before."
+
+Thalia opened her mouth to argue. Then she shut it and sat on the floor.
+
+"All right. I'll ask Silena to show me."
+
+Annabeth considered whether that was enough. She realized she wanted her sister to care about the shirt, not necessarily to do every part of the repair with her own hands.
+
+"Can I come?" she asked.
+
+"Of course."
+
+They found Silena in the common room of Cabin Three, sorting thread and small metal clasps. She looked at the torn seam and set aside her work.
+
+"This isn't difficult," she said. "It's a straight stitch. The fabric's thin, though. If you pull it tight, it'll pucker."
+
+Thalia took the needle with the wary expression she wore when somebody handed her a weapon she'd never trained with. Silena threaded it, then demonstrated the first two stitches on a scrap.
+
+"Your turn."
+
+Thalia tried. The needle went through the fabric, then through the edge of her thumb.
+
+"Ow."
+
+"That's why I told you to keep your hand out of the way."
+
+"I heard you."
+
+"You didn't listen."
+
+Annabeth watched them. She had been expecting Thalia to give up and demand somebody else finish. Instead her sister tried again, more slowly. The first stitch was uneven. The second was better. After five minutes she could make a row of tiny dark threads across the torn seam.
+
+Silena inspected the result. "That's good enough to hold, if you don't go back to sparring in it."
+
+Thalia turned toward Annabeth. "I won't. Next time we're exchanging clothes, I want a contract."
+
+"With what terms?"
+
+"No sword drills in borrowed shirts. No taking my jacket to the forge. No magic practice with somebody else's sleeves."
+
+Annabeth smiled. "Those are reasonable."
+
+"Don't tell anyone I said something reasonable."
+
+Silena gave them a small tin for storing the spare thread. Thalia asked if she could keep the needle too. Silena said yes, provided Thalia returned the scissors to the sewing box afterward.
+
+They walked back to Cabin One with the repaired shirt folded between them. Annabeth had expected to feel relieved the moment the seam was closed. Instead she felt embarrassed by how sharply she'd spoken.
+
+"I'm sorry I said I shouldn't have lent it to you," she said.
+
+"You were upset."
+
+"That wasn't an excuse."
+
+Thalia looked at her. "I know you like that shirt. I forgot when I put it on. I thought it was funny because it was yours, not because it meant something different to you."
+
+"Both are true."
+
+"Then next time tell me about the second part before we start fighting over clothes."
+
+Annabeth nodded. She had spent the morning trying to make a point about being old enough to choose what belonged to her. It felt appropriate, if irritating, to learn that sharing also meant letting somebody else handle a thing imperfectly.
+
+Thalia put the shirt on Annabeth's pillow. The repair was visible if she looked closely, a little row of dark stitches beneath the owl. Annabeth ran her thumb across it.
+
+"It's still mine," she said.
+
+"Absolutely. And next time you want to borrow my jacket, ask before you steal it."
+
+"You said I could."
+
+"I said you could today."
+
+"Sister law says today counts as precedent."
+
+"Not in any court I respect."
+
+They laughed. The conversation had not made either of them less protective of their favorite possessions. It had given them a way to ask what those possessions meant before using them as proof of how much they loved each other.
+
+Thalia sat on her bed, looked at the old bronze trunk beneath it and hesitated. Then she reached for the key hanging around her neck.
+
+"Come here," she said. "I want to show you something else."
+
+---
+
 Thalia's trunk was a museum.
 
 Annabeth had seen it before, of course — in the weeks she could remember here — but she'd never been invited to really look. Thalia spoke of years sharing this cabin; Annabeth still had to learn its private corners again. Thalia kept it locked with a bronze padlock, key on a cord around her neck. She never said what was inside. Annabeth, who respected locked things on principle (and who had once picked the lock in thirty seconds when Thalia was in the shower, felt guilty, and never told), knew roughly: spare bracelets, a Swiss army knife, a mixtape Luke made her, a dented Polaroid camera with no film.
