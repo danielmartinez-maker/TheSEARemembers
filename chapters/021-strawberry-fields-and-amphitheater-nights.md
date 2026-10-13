@@ -898,6 +898,6 @@ Thalia looked at the jam jar, then at Percy.
 
 "If Clarisse doesn't find it first," he said.
 
-They finished it before she arrived, which produced an argument at lunch and a promise to save her a jar from the next batch. Silena wrote the promise on the kitchen's preserves request instead of trusting Percy to remember. Clarisse inspected the form, found her name correctly spelled and declared the arrangement provisionally acceptable.
+They finished it before she arrived, which produced an argument at lunch and a promise to save her a jar from the next batch. Silena wrote the promise on the kitchen's preserves request instead of trusting Percy to remember. Clarisse inspected the form, found her name correctly spelled and declared the arrangement provisionally acceptable, provided the next jar actually reached her table.
 
 
