@@ -454,6 +454,108 @@ Annabeth laughed until her stomach hurt. "Chiron is going to kill you."
 
 ---
 
+They were almost done when Thalia found an envelope that didn't belong with the others.
+
+It was tucked beneath the lining of the metal box, where a corner had come loose. She pulled it free carefully. The envelope had no stamp or address, only Jason's name in Beryl's slanting handwriting.
+
+Annabeth looked up from the blankets.
+
+"Do you want to open it?"
+
+Thalia turned it over. The flap had been glued shut, then opened once and pressed down again. She could see the edge of a photograph inside.
+
+"Mom must have looked at it," she said.
+
+"That doesn't tell us who she meant to give it to."
+
+Thalia held the envelope for a long moment. She had spent years making decisions for the family when the adults weren't there. She'd opened mail, packed bags, chosen roads and lied about being old enough to sign forms. She could tear into this envelope without anyone stopping her. The fact that she could do it didn't make the photograph hers.
+
+"I'm going to send it to him," she said.
+
+"Without looking?"
+
+"Yes. He gets to choose."
+
+Annabeth nodded and brought her a clean cardboard sleeve to keep the contents from bending. She wrote Jason's name on the outside, then stopped.
+
+"Can I put a note in?"
+
+"Sure."
+
+She wrote only a sentence: *We found this among Beryl's things while cleaning Cabin One. It's addressed to you. We didn't open it.*
+
+Thalia watched her fold the note.
+
+"Can you include that we're keeping the other pictures for now? He can ask for copies."
+
+Annabeth added it.
+
+There was a larger photograph on the floor beside the box. Beryl sat on a sofa with the children crowded around her. Thalia remembered the afternoon well. Beryl had been in a good mood and made pancakes after lunch. She'd let them stay in their pajamas until sunset and told them a ridiculous story about a famous actor who'd been afraid of a tiny dog. The next morning she hadn't gotten out of bed. Thalia had made breakfast herself, burned it, and persuaded Annabeth that toast didn't need to be perfectly brown.
+
+She looked at the picture now. Beryl was smiling. It was a real smile. Thalia had been there. So had the rest of the day, and the morning afterward.
+
+Annabeth saw where she was looking.
+
+"Do you remember when it was taken?"
+
+"Yeah."
+
+"Will you tell me?"
+
+Thalia hesitated. She could tell Annabeth about the pancakes and the story, the burnt toast. She didn't want her sister to treat the explanation as a new memory she was supposed to possess. They had tried too hard, early on, to make every rewritten childhood story feel as vivid as a remembered event. It had left both girls frustrated.
+
+"I can tell you what I remember," she said. "You can tell me how it sounds to you."
+
+"Okay."
+
+They sat on the clean blankets. Thalia described the sofa, the pancakes, the actor and the dog. Annabeth laughed at the silly part, then grew quiet when Thalia reached the next morning.
+
+"I don't remember it," Annabeth said. "I believe you. I just don't see the kitchen when I close my eyes."
+
+"I know."
+
+"Sometimes I wish I did."
+
+Thalia looked at the photograph. She knew her sister's older memories belonged to a different life, including the father and home Annabeth had once known. Thalia had no access to those experiences, and Annabeth couldn't borrow Thalia's. They'd been trying to live together without making either limitation an accusation.
+
+"Do you want a copy?" Thalia asked.
+
+"Yes. But I don't want the only story about Mom to be that she gave us pancakes one day."
+
+"Good. Because it wasn't."
+
+Annabeth took out her notebook and wrote a small label for the envelope: *One day Thalia remembers, with the following morning included.* Then she stopped and looked embarrassed.
+
+"Too much?"
+
+"No," Thalia said. "That sounds like something you would write."
+
+"It sounds like a museum label."
+
+"It sounds like you want to get it right."
+
+Thalia didn't tell her that the label made the memory easier to hold. It didn't flatten Beryl into a saint, and it didn't use the next day's silence to erase the previous afternoon. Both had happened.
+
+They sorted the remaining pictures by person and event, leaving some envelopes unmarked because neither girl knew what was in them. They didn't force the loose pieces into an invented chronology. For Jason they set aside copies of the photographs in which he appeared; those would go with the letter when the Roman contact confirmed where to send them safely.
+
+When the loft was clean, Thalia carried the metal box down herself. It was lighter than she'd expected. She placed it on the shelf near her bunk, where she could reach it on another visit without searching through winter blankets.
+
+Annabeth stood by the window, waiting.
+
+"Are you glad we kept it?" she asked.
+
+"Not exactly," Thalia said. "I'm glad we didn't throw it away before finding out what it was."
+
+Annabeth considered that, then smiled.
+
+Below them the spring-cleaning noise was still going. A satyr yelled that somebody had mixed the recycling and the donations; an Apollo camper replied that a broken lyre could be both. Thalia took the broom from behind the door and handed it to her sister.
+
+"Come on. The rest of the cabin isn't going to clean itself."
+
+They went downstairs without needing to decide what Beryl had meant to them forever.
+
+---
+
 By late afternoon, the whole camp smelled like lemon and vinegar and fresh-cut grass. Mattresses aired on every porch. Trash bags lined the paths like strange parade floats. The Hephaestus cabin had set up a repair station in the plaza — Leo Valdez shouting, "Bring me your broken! Your busted! Your mildly cursed!" while Nyssa tightened hinges and Harley threw away anything that smoked.
 
 Chiron rolled through in his wheelchair, inspecting with a clipboard and a handkerchief pressed to his nose against the dust. "Poseidon — pass! Ares — pass with distinction for the mantel! Zeus — pass, though please remove the sunglasses from my lord's likeness!"
