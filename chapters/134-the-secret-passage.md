@@ -380,6 +380,95 @@ Undramatic, the agreement stood, sealed with dusty handshakes and Myra's brisk n
 
 ---
 
+Myra stopped them before they left the mural chamber.
+
+"One more question," she said, looking at Annabeth rather than Percy. "When we open the passage to campers, what are they going to think they're allowed to touch?"
+
+Annabeth had been sketching the arch and the painted figures. She paused. The exposed plaster lay beneath a cloth, and the little area of surviving gold at the edge of the wall had begun to dry in the lantern heat. Myra had asked for the lamps to be moved farther away, but the chamber remained warm.
+
+"We'd need a barrier," Annabeth said.
+
+"A barrier keeps hands back. It doesn't tell anyone why."
+
+"We could explain the paint is fragile."
+
+"Good. And what if they ask to take a piece as a souvenir?"
+
+Percy looked startled. "Who would do that?"
+
+Myra gave him a level look. "Someone who thinks a piece of a wonderful old picture is more valuable in their pocket than on the wall. Usually someone who means no harm."
+
+Clarisse stepped closer to the painted figures. "Put a guard at the entrance."
+
+"For an entire summer?" Chiron asked from the doorway.
+
+Clarisse frowned. "Maybe not."
+
+Silena took out her notebook. "We could schedule short visits with someone trained to guide them. Not everybody at once."
+
+"And who would train them?" Myra asked.
+
+"I can help write the instructions."
+
+Myra nodded. "Then we should start with a condition record. Before people see the painting, we need to know what state it is in today. Otherwise every new chip becomes a mystery about when it happened."
+
+They spent the next hour making the record. Annabeth measured the uncovered portion of the wall and marked the edges of every crack. Percy held a steady lantern at the height Myra requested. Silena wrote the descriptions Myra dictated, including the colors that had survived and the places where plaster was lifting. Clarisse checked the chamber for places a visitor might trip or touch the wall while trying to keep their balance.
+
+"That step is narrower than the one before it," she said. "If a younger camper rushes in, they'll reach for the wall."
+
+"Then the route should avoid it," Annabeth replied.
+
+She drew a safer path along the opposite side and marked where a removable rail could be placed. Chiron approved the idea on the condition that the rail's posts not be drilled into historical stone.
+
+The obstacle was practical. A rail without holes needed to stand on its own, and the passage was too narrow for a heavy base. Annabeth proposed two freestanding supports joined by a cord that could be moved when the maintenance crew worked. Clarisse tested the idea using chairs from the storage room and discovered the cord could be knocked loose by someone carrying a large bag.
+
+"Then visitors leave their bags outside," Silena said.
+
+"That will make them grumpy."
+
+"Better grumpy than scraping an ancient picture."
+
+Myra smiled. "That is the sort of decision restoration often requires."
+
+Percy watched them revise the route a second time. The old mural had survived years behind plaster because almost nobody knew it was there. Revealing it would change that. They couldn't keep it safe simply by admiring it.
+
+Thalia arrived to inspect the temporary barrier. She was impressed by the exposed figures, but her first question was about the air in the chamber.
+
+"Does it need more ventilation?"
+
+"Yes," Myra replied. "But we must not direct a strong draft across the surface before it's stabilized."
+
+"Then that door stays closed until you know."
+
+Chiron agreed. He assigned the passage to maintenance and put a temporary notice at the entrance. It gave no sensational description of the mural. It said the corridor was under restoration and unauthorized entry could damage both the artwork and the visitor.
+
+Percy thought the notice was disappointingly dull. He also thought it would work better than a warning about ghosts or secret treasure.
+
+On the walk back to the cabin, Annabeth kept examining her sketch.
+
+"What bothers you?" he asked.
+
+"I want to see the whole painting."
+
+"So do I."
+
+"But I don't want my impatience to be the reason some of it gets ruined. Myra knows the process. We need to let her set the pace."
+
+"You're very good at setting a pace."
+
+"Which is why it's difficult to let someone else do it."
+
+He took her hand. "You were good at asking today."
+
+"I practiced."
+
+Percy smiled. It was more believable than pretending she'd suddenly become patient. He'd watched her stop at least three times when she wanted to run ahead. At the corridor door, Myra had finally let her see one more narrow section of pigment, on the promise that she would not tell campers it was a completed discovery. She'd kept that promise.
+
+The mural existed. Its age, purpose and missing portions remained uncertain. Percy liked that they could carry the discovery home without pretending the missing parts had revealed a prophecy or a warning. Sometimes the most interesting thing behind a wall was something someone had once made and others had tried to preserve.
+
+
+---
+
 They left the passage to maintenance and carried notes back to Cabin Three, evening cool settling over the path, pine needles soft underfoot and woodsmoke threading the air. Campers still whispered about the discovery. By dinner the story had transformed again: supposedly the mural showed gods building camp with their own hands. Annabeth corrected one version; Chiron promised an announcement once Myra finished assessing paint.
 
 Inside the cabin, lamplight pooling gold across the table, Annabeth sat at the table and began a clean drawing of the panel. Beside her sketchbook lay the old camp plan, its brown ink fragile at the folds. Silena sorted photographs, and Clarisse studied her image of the trident, worn prongs visible in lantern light. Leaning over Annabeth's shoulder, Thalia traced the painted lightning's line in the air.
