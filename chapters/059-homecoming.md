@@ -108,9 +108,9 @@ Annabeth picked it up without missing a beat, the way sisters do. Annabeth Grace
 
 Percy tried to interrupt to say Annabeth was the one who had talked the hellhound down with a spark and a calm voice, and Thalia tried to interrupt to say Grover was the one who had played his pipes in Hades’s hall until even the dead stopped to listen. Grover, for his part, kept trying to say he had been terrified the whole time, which made Chiron smile into his beard.
 
-Mr. D lowered his magazine. “So Hades does not have the bolt,” he said.
+Mr. D lowered his magazine. “So Hades never had the bolt,” he said.
 
-“No, sir,” Thalia said. “He doesn’t. Someone else took it. Someone who wants war.”
+“No, sir,” Thalia answered. “The bolt was in Ares's possession. It was recovered and delivered under guard to Olympus. Hades was also robbed, and the inquiry into the theft is still open.”
 
 “And your mother, Percy?” Chiron asked gently.
 
@@ -893,9 +893,9 @@ It was a short kiss, soft and a little clumsy from smiling, tasting like campfir
 
 They sat shoulder to shoulder while the moon rose higher and the lake rippled around the dock posts. Behind them, up the hill, the campfire embers glowed red and someone — probably Grover, probably still awake — played a slow pipe tune that drifted down through the trees like a lullaby.
 
-Percy put his arm around Annabeth and she tucked herself under it like she belonged there. Poseidon’s son and Zeus’s daughter, brother and sister and friend to half the camp, sweethearts to the other half, questers home at last.
+Percy put his arm around Annabeth and she tucked herself under it like she belonged there. He was Poseidon's youngest son and Clarisse and Silena's brother. Annabeth was Zeus's daughter, Thalia's younger sister and Percy's girlfriend. They had returned with Grover, their friend and sworn protector.
 
-Tomorrow there would be war talk and recovered weapons and the news that Sally's records showed she was not under punishment, even while Percy was learning how to grieve her. Tomorrow Thalia would drill them at dawn and Clarisse would challenge Percy to spar and Silena would make them all try on friendship bracelets and Ella would demand every detail for her scroll and the visiting boy would ask about his first supervised sword lesson and Zoë would pretend not to care and care fiercely anyway.
+Tomorrow there would be war talk and recovered weapons and the news that Sally's records showed she was not under punishment, even while Percy was learning how to grieve her. Tomorrow Thalia would rest the head injury she was still healing, Clarisse would have to postpone Percy's sparring until the infirmary cleared him, and Silena would make them all try on friendship bracelets. Ella would ask for details for her scroll, the visiting boy would ask about supervised sword lessons, and Zoë would pretend not to care while checking that everyone kept to the restrictions.
 
 Tonight there was just the lake and the moon and each other.
 
