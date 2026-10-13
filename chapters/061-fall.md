@@ -800,6 +800,114 @@ He wrote back by the fire in Cabin Three, cactus on the sill, Silena's postcard 
 
 He added a pressed oak leaf, brown and perfect, and sealed it.
 
+The bridge failed its first test on a Thursday.
+
+Annabeth didn't swear. Percy knew she was furious because she put her pencil down very carefully, stood up from the work table and asked Milo to read the measurements out loud a second time.
+
+The Hephaestus camper did. The model had been supposed to carry a stack of stone weights across a two-foot span. It held the first three. On the fourth, one of the braces twisted sideways and the entire middle section dropped into the padded tray they'd set beneath it.
+
+"At least we caught it," Percy said.
+
+Annabeth stared at the broken brace.
+
+"I know," she answered.
+
+The workshop smelled of heated metal and wood glue. A pair of younger campers were building a windmill in the next corner. They glanced toward the collapsed model, then looked away when Annabeth caught them staring.
+
+Milo picked up the fractured piece and inspected the joint.
+
+"Glue held," he said. "Wood split beside it. So either the grain was wrong for the load, or we didn't support that end properly."
+
+"We?" Annabeth asked.
+
+"I cut the brace. You designed it. Percy held it in place while I fastened it. We're all on the same bad bridge."
+
+Percy saw her prepare an argument. Then she looked at the model and seemed to decide the argument would not improve it.
+
+"Fine," she said. "What can we measure?"
+
+They measured the fracture and compared it with the drawing. The first surprise was that the actual span was slightly longer than the plan. Milo had used a support that belonged to an older test rig; its mounting points were set farther apart. Annabeth had checked the height and the width but not the distance between the screws.
+
+"That changes the load," she said.
+
+"Yes," Milo replied.
+
+She rubbed her eyes. "I should have measured it before we started."
+
+"You should have," he agreed. "I should have shown you the rig specs. I assumed you knew."
+
+Percy looked between them. He liked that Milo could admit his own mistake without making Annabeth's disappear. They weren't competing to be the person least at fault; they were trying to build a bridge that wouldn't drop campers into a creek next spring.
+
+"I can get the right support," Percy offered.
+
+"Not until we decide whether it's worth testing the same design again," Annabeth said.
+
+That made him pause. He had thought they were fixing a small error, not reconsidering the entire bridge. Annabeth showed him the load calculations and how the pressure moved toward one joint when the supports were farther apart. The numbers were easier to understand when he could see the ruined wood beside them.
+
+"So we need the actual creek measurements," Percy said.
+
+"Before designing another joint, yes."
+
+The next morning they went to the creek with Chiron's permission and a measuring cord. It was cold enough that Percy wished he had brought gloves. Annabeth paced the bank while Milo checked the soil. Percy stood in the water and took depth readings at the proposed crossing, marking where the bed dropped sharply on one side.
+
+"We can't put a support there," Milo said. "It would need a foundation we can't safely pour while the ground's cold."
+
+Annabeth looked at the bank, then back at her drawings.
+
+"Then the bridge has to shift upstream."
+
+"The path doesn't go upstream," Percy said.
+
+"It could."
+
+"That means moving the path, too."
+
+"Yes."
+
+The scale of it settled over them. A line on Annabeth's sketchbook had turned into a muddy bank, uneven stones, roots that belonged to living trees and work people would have to do in freezing weather. Percy had wanted the bridge to happen because it was Annabeth's idea and because he liked seeing her proud of something she'd built. That didn't make the ground agree.
+
+Milo knelt beside a tree and tested the soil with a narrow probe.
+
+"We should wait until spring to do more than survey," he said. "We can build another model over winter with the correct span, but there won't be a safe construction window this year."
+
+Annabeth was quiet. Percy expected her to insist they could find a way. Instead she wrote down the finding and asked Milo to sign beside it so they'd both remember where the recommendation came from.
+
+On the walk back, Percy carried the measuring cord while Annabeth held her sketchbook against her chest.
+
+"Are you disappointed?" he asked.
+
+"Yes."
+
+"Still want to build it?"
+
+"More now. At least I know what problem it's supposed to solve."
+
+She showed him a fresh drawing. The bridge was narrower than the old one and angled toward a firmer patch of bank. The shape looked less impressive. It also looked like something a camper could actually cross.
+
+Percy smiled. "I like that version."
+
+"It's not finished."
+
+"I know."
+
+"Don't say it's perfect."
+
+"I wasn't going to."
+
+She looked at him suspiciously. He raised both hands.
+
+"I was going to say you got better information."
+
+Annabeth stopped walking. It was the sort of compliment she could accept because it didn't erase the broken model, the wasted afternoon or the work ahead. She nodded once.
+
+"That," she said, "is true."
+
+They took the measurements to Chiron and amended the spring project request. The original model remained in the workshop with a label explaining why it had failed, because Milo said he wanted the younger campers to learn from it. Percy helped put the broken braces on a shelf, not in the rubbish. Nobody celebrated.
+
+That evening Annabeth returned to the attic with mud on her boots and new figures in her notebook. Percy opened his Greek reader and waited until she had finished drawing before asking for help with a sentence.
+
+They spent the next hour doing ordinary homework. The bridge would still be there in spring.
+
 On the last day of fall, the day before December, Percy and Annabeth studied in the attic until the light went blue through the round window. Outside, the first snow hovered, uncertain, over the strawberry fields. Inside, the radiator clanked. Annabeth's bridge model sat finished on the table, balsa wood and glue and perfect angles. Percy's Greek reader lay open to a passage he could actually read now, slowly, feeling the meter like a wave.
 
 Annabeth reached over without looking up from her notes and took his hand on the table between them. Openly. Easily. Like breathing out before breathing in.
