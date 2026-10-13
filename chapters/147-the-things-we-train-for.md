@@ -60,58 +60,93 @@ The sky got lighter. The lake got brighter. A bird called from somewhere in the 
 
 "Percy," Clarisse said.
 
-"Yeah."
+"Yeah?"
 
-"Do you ever think about the other life? The one where we weren't sisters?"
+"I need you to stop doing that thing in training."
 
-"All the time."
+"What thing? I'm gifted at several."
 
-"Me too." She turned the spear in her hands, slowly, the way she did when she was thinking. "In that life, I was Ares's daughter. I was mean. I was angry. I picked on you because that's what I did to people who were different."
+"The thing where you get hit, say you're fine, and then throw yourself into the next round twice as hard."
 
-"You were the meanest girl at camp."
+Percy leaned back on his hands. That hadn't been what he'd expected. In the last drill, he'd taken the edge of a practice shield against his shoulder and immediately demanded another attempt. Clarisse had told him to sit down. He'd called it a scratch. The mark had turned purple by dinner.
 
-"I was the meanest girl at camp," she agreed. "And you were the new kid with no cabin and no friends and a big mouth, and I made your life hell because that's what I did."
+"I don't like being told to stop," he said.
 
-Percy looked at the lake. "You were terrifying."
+"Neither do I. Doesn't make me immortal."
 
-"I was."
+"Technically, our father—"
 
-"You tried to drown me in the bathroom."
+"Finish that sentence and I will give you a lesson in technicalities."
 
-"That was a misunderstanding."
+He was quiet. Clarisse rolled the spear on her knees and studied the lake. The far reeds moved in a small breeze, but the water where her feet hung remained still.
 
-"You tried to drown me in the bathroom on purpose."
+"People expect me to hit harder," she said. "They don't expect me to know when to quit."
 
-"That was a misunderstanding with intent."
+"You're good at both."
 
-He laughed, and the laugh carried across the water, and Clarisse's mouth did the thing where it almost smiled and then decided not to, and she said, "In this life, I'm Poseidon's daughter. I'm your sister. And I still want to drown you sometimes, but it's different."
+"I'm learning the second." She raised the shaft an inch. "If I drill with you and you get hurt because I let you keep going, that is my fault as the instructor. Whether you're my little brother or a random idiot from Hermes."
 
-"How is it different?"
+"So being related doesn't get me special treatment?"
 
-"In the other life, I wanted to drown you because you were weak. In this life, I want to drown you because you're my little brother and you're an idiot and I love you."
+"Oh, it gets you special treatment. I expect you to listen when I tell you a knee is shaking. I'd give a stranger a warning before I swore at him."
 
-Percy was quiet for a moment. Then he said, "That's the nicest thing you've ever said to me."
+"Generous."
 
-"Don't get used to it."
+She nudged his calf with the heel of her hand. "You keep acting like the only useful part of your training is what you can endure. It's not."
 
-"I won't."
+Percy looked at the faint mark on his shoulder. In the life he remembered, his body had grown into a kind of toughness he'd taken for granted. This one was fourteen, narrower across the shoulders, quicker to tire and sometimes less willing to admit it. He couldn't explain the comparison to Clarisse. He could, however, tell her the truth that belonged to the present.
 
-They sat. The sun came up. The lake turned from silver to blue, and the camp started to wake up around them — a door, a voice, the first clang of the pavilion kitchen.
+"When I stop, I feel like I'm letting you down," he said.
 
-"Percy," Clarisse said.
+Clarisse turned to him. "Why would that let me down?"
 
-"Yeah."
+"You're good at this. I want to keep up."
 
-"In the other life, were we ever friends?"
+"You are keeping up. You're learning. Those aren't the same as never needing a break."
 
-He thought about it. Really thought about it, the way you think about something that matters. "No," he said. "In the other life, we were never friends. We were enemies who became allies who became people who could stand to be in the same room."
+He picked at a splinter in the dock board and caught himself. "Are you going to tell Silena I said something embarrassing?"
 
-"And in this life?"
+"Depends. How much breakfast will you pay me?"
 
-"In this life, we're sisters."
+"She's the one who serves breakfast."
 
-"Yeah," she said. "We're sisters."
+"Then I'm rich already."
 
+He laughed. Clarisse slid the spear away from the edge of the dock and stood, stretching her legs.
+
+"Here's the deal," she said. "At the arena, you tell me when a joint starts to hurt. I tell you when I think you need to stop. If we disagree, we check. No hero speech. No calling it weakness."
+
+"Do I get to tell you when you're pushing too hard?"
+
+She considered the possibility with obvious distaste.
+
+"Once," she said.
+
+"Once per morning?"
+
+"Let's not get ambitious."
+
+"That's not a very fair deal."
+
+"Fine. Every time, if you've got a real reason. But no lectures."
+
+Percy stood beside her. His shoulder ached when he rolled it, not badly, but enough to make the point.
+
+"Deal."
+
+Clarisse held out her hand. He shook it. She gripped hard enough to be irritating, then let go before it became a contest.
+
+"Good. Now come on. We start with footwork. No heavy shield until that shoulder's stopped complaining."
+
+"You're enjoying this."
+
+"Immensely. I'm going to teach my little brother to protect himself from his own stupidity. Chiron will probably give me a medal."
+
+"What kind?"
+
+"A large one. With your face on the back looking embarrassed."
+
+They went up the path together. Percy could have outrun her to the arena, but he didn't. She had a routine and an order for the drills, and he had promised to follow both.
 ---
 
 The training arena at seven in the morning was the kind of empty that made you feel like you were the only person alive.
@@ -846,17 +881,13 @@ Later — much later, after the others had gone up the hill and the dock was emp
 
 He thought about the wall. About the crack and the repair and the way the lake had called and the way he'd answered. He thought about Clarisse's patience and Silena's precision and Thalia's supervision and Annabeth's direction. He thought about the way they'd all worked together — not because they had to, but because they wanted to, because this was their camp and their lake and their wall and their summer.
 
-He thought about the other life. The one where he'd been alone. The one where he'd had no sisters and no wall to fix and no lake that called. The one where he'd been a different person in a different world with different problems.
+His mind went, as it often did when he was exhausted, to the life he remembered. Sally singing in their kitchen. Grover trying to keep a straight face. Annabeth kneeling over plans in a different camp with her hair falling into her eyes. The wars, the losses, and the extraordinary people who had helped him survive them. He had not been alone then. The notion made his throat tighten with something worse than simple homesickness.
 
-He didn't miss it.
+He missed his mother. No amount of happiness in this changed childhood could make her death feel ordinary to him. He missed choices he'd expected to make at seventeen. He even missed certain arguments, because the people involved had been alive and had cared enough to have them.
 
-He thought about this life. The one where he had sisters and a wall and a lake and a girlfriend who threw lightning at him on purpose. The one where he was fourteen and training and working and sitting on docks in the dark with the water moving under him and the stars above him and the whole world arranged around him like it had been waiting for him to show up.
+He looked toward Cabin Three, where Clarisse and Silena would be dividing the last biscuits and disagreeing over whether he had eaten enough. He loved them. He loved Annabeth, who was still here and still herself in the ways that mattered. The tenderness of this afternoon did not require him to condemn the life he remembered, and grief for that life did not have to spoil the one he was living now.
 
-He didn't miss the other one.
-
-The lake moved. The stars turned. The camp slept. And Percy sat on the dock in the dark with his feet in the water and his family behind him and his whole life in front of him, and he thought: this. This is the thing. This is the thing I crossed two timelines for. This is the thing I'd cross a thousand more for.
-
-He didn't say it out loud. He didn't need to. The lake already knew.
+The dock rocked once beneath him. He took the movement for what it was: a little freshwater shifting around timber. Tomorrow he would train again, and when Clarisse told him to rest, he intended to listen. That was a better promise than anything he could make to the stars.
 
 ---
 
