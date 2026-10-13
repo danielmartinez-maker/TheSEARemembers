@@ -436,6 +436,126 @@ Beautiful things didn't have to be perfect. They just had to be shared.
 ---
 
 
+After the judging, Silena went behind the pavilion to find the large washing basins. Two of them were full of dirty bowls, and somebody had left a wooden spoon on the ground beside the trash bin.
+
+She had organized an event for half the camp. The day had been loud, funny and, by most accounts, a success. But she had also persuaded the kitchen staff to lend her equipment, and now the counters were covered in the consequences.
+
+"Everybody who cooked gets a basin," she announced.
+
+Connor Stoll appeared from the shade with the expression of a boy who had just been caught trying to escape.
+
+"I wasn't in charge of the cooking."
+
+"You helped on Team Surface."
+
+"I washed vegetables."
+
+"Then you'll be familiar with the sinks."
+
+He sighed and took a basin.
+
+Triton arrived behind him carrying the serving platter from Team Sea. He placed it beside the others and looked at the soap as though unsure whether it was an item of food or a tool.
+
+"You're not expected to do this yourself," Silena told him.
+
+"Why not?"
+
+"You were a guest. You spent the day helping the teams. We can clean up."
+
+Triton looked at the room. "I helped make a mess. Surely that qualifies me to help remove it."
+
+Silena smiled reluctantly. "All right. The water should be warm, not boiling. And no divine currents in the sinks. Chiron specifically warned us about the pipes."
+
+Triton accepted the cloth and began washing the platter with the care he normally reserved for royal armor. It was absurd to see him bent over a mortal sink while a Hermes child dried spoons beside him. Silena noticed, though, that he was listening carefully when Connor explained which surfaces scratched easily.
+
+Percy joined them with a second stack of plates. His hair was still damp from the lake, and there was a stripe of flour on his elbow.
+
+"Do we get points for cleanup?" he asked.
+
+"No," Silena said. "You get the satisfaction of not leaving somebody else to do it."
+
+"That seems like an unpopular scoring system."
+
+"It's the only one I offer."
+
+Clarisse appeared carrying the last tray. She had lost a bet about which team would win presentation, and she was still arguing that the judges had been biased in favor of plates with mint leaves on them.
+
+"Mint isn't food," she complained.
+
+"Mint is absolutely food," Silena replied.
+
+"It's a decoration pretending to be food."
+
+"Then stop eating it."
+
+Triton washed in silence until the argument slowed. He had been observing the siblings all day: the way Clarisse challenged Percy, the way Silena gave instructions without raising her voice, the way Percy complained but still picked up the next task. In Atlantis, a prince might be expected to direct such work. Here Percy followed his sisters' directions because he knew they had been doing the work long before he arrived.
+
+"I have something to ask," Triton said.
+
+Silena looked up. "What?"
+
+"Does our father ever ask how you manage the cabin?"
+
+Clarisse stopped drying the tray. Percy looked toward the door.
+
+"He asks about us," Silena said carefully. "He sends things. He isn't here every week to see how the chores work."
+
+Triton examined the cloth in his hand. "In Atlantis, the palace staff report to me. I thought I understood how much effort it takes to keep a household running. I don't think I understood that your cabin has no permanent attendants."
+
+"We have each other," Clarisse said.
+
+"That's not a replacement for help."
+
+"No," Silena agreed. "But it means we know which jobs need doing. If you want to help, ask rather than assuming you've found the solution."
+
+Triton bowed his head slightly. It was the closest thing to a formal apology he could offer while holding a soapy plate.
+
+"Then I ask. What can I do while I'm here that would actually make your day easier?"
+
+Clarisse handed him the last large pot. "This. It's too heavy for the small sink. Take it outside to the wash station, empty it and bring it back. Don't drop it. I like that pot."
+
+Triton accepted it with the seriousness of someone receiving a military assignment.
+
+"Understood."
+
+Percy followed him outside to hold the door. Clarisse watched them go, then glanced at Silena.
+
+"Did you just make an Atlantean prince do dishes?"
+
+"He volunteered."
+
+"You could have asked him to pay for a new stove."
+
+"We don't need a new stove."
+
+"We might."
+
+Silena laughed and returned to the spoons. There was a point she had been trying to make without turning the conversation into another speech about family. Her father could be generous, her royal brother could be kind, and neither had to become the authority over every corner of the life she and Clarisse had made for themselves.
+
+When Triton returned with the pot, he asked whether the scrubbed surface was acceptable. Clarisse inspected it critically.
+
+"There's a bit of bread in the handle."
+
+Triton looked offended. "Impossible."
+
+She pointed. He examined the spot, then began washing again.
+
+Silena put the finished spoons away. Connor had vanished as soon as his basin was empty, but he had done the task properly. Percy stacked the last dishes. The kitchens were still warm and smelled faintly of honey and fish, and everyone was beginning to tire.
+
+"Are we finished?" Percy asked.
+
+"Almost," Silena replied. "We should make sure the staff have everything they lent us."
+
+Triton looked over the counters. "A remarkable amount of work for one afternoon."
+
+"That's what feeding people involves," Silena said. "The fun part isn't separate from the labor. It's worth doing, but it still has to be done."
+
+He nodded. For once he didn't make a royal pronouncement about the importance of family. He took the drying cloth and finished the last pot.
+
+Later, when Silena looked back on Siblings Day, she remembered the competition and the laughter. She also remembered an ancient prince standing at a sink, listening while a thirteen-year-old girl told him where he'd missed a spot. It was one of the few moments when nobody seemed to be performing the role of a perfect sibling. They were just helping each other finish a job.
+
+---
+
 Thalia Grace had been the eldest sibling for as long as she could remember.
 
 First to Annabeth — bossy, brilliant, seven-year-old Annabeth with scraped knees and a thousand questions, hiding in Thalia's jacket during thunderstorms that Thalia herself had probably caused without knowing. Then to Luke — well, Luke was older, but Thalia had always felt older, felt responsible in a way Luke never quite did. Then, after they reached camp, to the youngest campers. Frightened new arrivals looking up at her, asking how to hold a spear, how to be brave.
