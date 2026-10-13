@@ -134,11 +134,11 @@ Laughter cracked out of Clarisse before she could stop it, rough and surprised. 
 
 Up the slope, Thalia arrived with a clatter, dragging a canvas sling full of flat gray stones. Her black hair was tied back with a strip of denim, copper streaks bright where sunlight struck. Lightning-bleached scars mapped her knuckles. She dropped the sling beside the twine line, rolled her shoulders, and surveyed Annabeth's sketch over her shoulder.
 
-"Border stones," Thalia said. "Said the harpies wouldn't miss a few from the amphitheater wall. Don't quote me."
+"Border stones," Thalia said. "Maintenance left these in the amphitheater's surplus pile. Chiron said we could use them."
 
-Annabeth grinned up at her. "You stole from the amphitheater?"
+Annabeth grinned up at her. "You asked Chiron first?"
 
-"Relocated," Thalia said, deadpan, and winked. "Show me the line."
+"Occasionally I follow instructions," Thalia said, deadpan, and winked. "Show me the line."
 
 ---
 
@@ -173,6 +173,90 @@ Percy swiped at his ear and missed. "Where?"
 Laughter rippled around the circle, and even Clarisse cracked a reluctant grin as she parked the empty wheelbarrow and wiped her forehead with the back of her wrist, leaving a streak.
 
 ---
+
+Thalia had almost finished the eastern stone border when she asked Annabeth to leave the last two rocks in a pile.
+
+"Why?" Annabeth asked.
+
+"Because we don't know whether the rain channel will cut across this side."
+
+"I marked it on the plan."
+
+"Plans change when somebody finds an old root."
+
+"We found one on the west side. This isn't the west side."
+
+Thalia wiped her forehead with a dirty forearm. Her hair had escaped its tie and kept catching against the collar of her shirt. She looked as though she'd been working in the arena, not building a place for flowers.
+
+"Annabeth," she said, "I'm trying to help."
+
+"I know. But you've been changing the stones without asking me."
+
+"I'm not changing the design. I'm making sure they stay up."
+
+Annabeth looked along the line. Every stone sat evenly. Thalia was right that the edge would probably survive the winter better than the version Annabeth had drawn. That did not erase the fact that she hadn't been asked before her sister started moving things.
+
+"Show me what you're changing," Annabeth said. "Don't just do it and tell me afterward."
+
+Thalia set down the next rock with more force than necessary. The thud sent pale dust across the dark soil.
+
+"Fine. The last two stones need to lean toward the bed. If I set them upright, frost will push them outward. I'm leaving enough room to add gravel when the soil settles."
+
+"That makes sense."
+
+"Then why are we arguing?"
+
+"Because I want to know what we're building before it's built."
+
+Thalia's mouth tightened. Annabeth recognized the expression. It was the one her sister wore whenever someone questioned a choice she had made for safety. She had spent so many years acting as the older sibling who noticed hazards first that advice sometimes arrived in her voice like an order.
+
+Percy appeared with another bag of compost, took one look at them and moved quietly away. Annabeth appreciated the decision more than she would have appreciated him trying to make peace.
+
+"Do you think I'm trying to take this from you?" Thalia asked.
+
+"No." Annabeth hesitated. "Sometimes I think you don't trust me to know where the edges should be."
+
+"You know the drawings. I'm worried about what happens when somebody leans on the finished border."
+
+"Then tell me that. I can change a drawing."
+
+Thalia sat back on her heels and looked at the half-finished path. For a moment neither spoke. The birds were loud enough to make the silence less severe, though Annabeth felt it anyway.
+
+"When Jason was little," Thalia said, "I used to make sure the doors were locked before I went to sleep. Then the doors weren't enough. It got easier to keep checking than to decide when I could stop."
+
+Annabeth knew what had happened to their brother in this life, taken away so young that keeping him safe had become something Thalia could rarely do in person. She did not pretend the memory was hers in the same way. She had grown up with an absence and with Thalia's attempts to fill it, both of them real.
+
+"He's at Camp Jupiter," Annabeth said. "You can't check his doors now."
+
+"I know."
+
+"And you don't have to check mine every minute."
+
+Thalia looked up. The anger had gone out of her face, leaving something more difficult.
+
+"I don't always know how to stop," she admitted.
+
+Annabeth knelt beside the stones. "Then ask whether I want help. Sometimes I will. Sometimes I want to work out the angle myself."
+
+"And sometimes you're wrong."
+
+"Very occasionally."
+
+Thalia snorted. "Sure."
+
+"Then you can tell me why."
+
+They went back to the border together. Annabeth held the tape and Thalia demonstrated how the gravel would settle after a frost. They tried the last stone in two positions, tested both and chose the one that held better when Clarisse leaned her weight against it. Nobody called it Thalia's victory or Annabeth's surrender.
+
+Silena arrived with two cups of water. She glanced between them, eyebrows raised, but didn't ask what had happened. Annabeth took one of the cups and offered the other to her sister.
+
+"Are we all right?" Thalia asked quietly.
+
+"Yes. I meant what I said."
+
+"So did I."
+
+Annabeth looked down the curve of the new border. There was room in the drawing for an adjustment. There was room in her life for an older sister who knew things she didn't. She wanted both without agreeing to be treated as someone who could never hold a stone alone.
 
 By midmorning the sun stood clear of the pines, and shadows shrank to dark puddles beneath the shrine eaves.
 
