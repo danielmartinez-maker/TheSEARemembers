@@ -791,6 +791,74 @@ The wind shifted. Sulfur and cold flowers washed over them. The green torches al
 
 He thought again of his prayer in the lobby. Of Poseidon and the open water. Of Amphitrite lending grace. Of Sally's spirit somewhere below, beyond the years he had missed in this history. He wanted news of her. He wanted to know that the mother he remembered had not been left alone in the dark.
 
+The ledge beneath the elevator had a narrow desk carved directly into the rock.
+
+A woman sat behind it with a ledger and a lamp whose flame burned green without flickering. She looked like an ordinary clerk who had worked an impossibly long shift. When the four arrived, she didn't ask whether they were brave. She asked for their wristbands.
+
+"Temporary registrations," she said after reading the marks. "The route to the court crosses the main receiving hall. Stay to the right. Do not join the queue for judgment. Do not follow anyone who says they recognize you unless an usher confirms their identity."
+
+Percy almost asked how a soul could recognize someone it hadn't met. Then he remembered Sally and the kind of voice that had called him from the Lotus phone.
+
+"Does that happen often?" Annabeth asked.
+
+"Often enough that it's posted." The clerk indicated a notice in Greek. Percy read it: *Living visitors may mistake a familiar voice for a lawful summons.*
+
+Grover shivered. "Do you have one about plants?"
+
+The clerk looked puzzled.
+
+"Plants that call people by name," he clarified.
+
+"No plants are permitted on the passage to the court. They're difficult to manage in the Fields."
+
+Thalia looked toward the vast gate and back at the wristbands. "What about Cerberus?"
+
+"He's on duty."
+
+"Does he bite living visitors?"
+
+"He's a guard dog. He responds to breaches."
+
+Thalia opened her mouth, then closed it. Percy could see her choosing not to make the joke she'd been about to make. He thought that counted as real progress.
+
+Annabeth asked for the nearest authorized exit if the court refused an audience. The clerk described a route back to the lift, warned that access required their registration to remain active, and gave them a small map printed on coarse gray paper.
+
+"This isn't a promise of safe return," the woman said.
+
+"I know," Annabeth answered.
+
+Percy looked at the map. The line from the elevator to the court bent around a waiting area and an inspection station. It was not a maze, and the route was clearer than any of them had expected. That made him suspicious. He'd spent the whole journey looking for traps disguised as ordinary places. Here, the dangers were printed on signs in a place that looked like death itself.
+
+"Why give us this?" he asked.
+
+"Because the court doesn't want lost living petitioners wandering through the Fields," she said. "It creates more work."
+
+He almost laughed. Then he looked down toward the lines of souls. The dead were not extras in his quest. They were people arriving in a place they hadn't chosen, needing somebody to tell them where to stand. He wouldn't have wanted to spend eternity being lost because four demigods had distracted the staff.
+
+The clerk signed their map and returned their wristbands.
+
+"One more thing," she said. "If you meet someone you love in the Fields, remember why you're here. Most living visitors want to stay longer than they are permitted. Some try to take someone back without understanding the consequence."
+
+Percy gripped Sally's folded petition until its edge cut slightly into his palm.
+
+"I know the rule," he said.
+
+"Knowing isn't the same as obeying."
+
+He thought of the Arch, where he'd known his promise to Annabeth and broken it anyway. He didn't argue.
+
+They left the desk with the map in Annabeth's hands and the pearls secured at Percy's belt. The sound of Cerberus breathing rolled through the hall. Percy could see the hound's heads turning as the lines of souls moved forward. Nothing about him was tame, but he wasn't lunging at every person who passed.
+
+Grover looked at the stamped map. "What if he doesn't like us?"
+
+"Then we follow the instructions, don't run toward him and ask the attendant for help," Annabeth said.
+
+Percy looked at her. "That's a very ordinary plan."
+
+"I'd like one ordinary plan to work on this quest."
+
+They continued toward the gates, following the route rather than charging at whatever frightened them first. It wasn't heroic. Percy thought it might be the responsible choice.
+
 They walked toward the Gates.
 
 ---
