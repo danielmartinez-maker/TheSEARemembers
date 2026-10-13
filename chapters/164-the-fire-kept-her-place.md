@@ -438,9 +438,36 @@ Percy laughed, wet-eyed, and pulled the quilt tighter around them both, and they
 
 They sat until the coals went rose and the wind brought pine and cold freshwater off the lake, until Clarisse's ten minutes ran out and her boots sounded on the path, unhurried, giving them the last thirty seconds without saying so. Then they stood, folded the quilt square so it would not hurt anyone, collected the cups for Silena, checked the fire with their feet out of new habit, steady and silent, and walked up the hill hand in hand through the blue dark, sneakers soft on needles, pockets full of tools and pebbles and love notes, the stars burning overhead and the heron waiting below and the cabin light showing warm through the trees ahead.
 
-Homecoming as proof. The family held across absence. Love was the thing that was there when she left and here when she returned, and it would be here Monday when the water needed drawing, and Tuesday when the letter needed answering, and every Friday after, as long as somebody kept the place.
+At the fork above the fire ring, Thalia was waiting with one boot on a fallen log, tightening a lace that had been loose since the afternoon. Annabeth stopped short. She had expected her sister to go ahead with Clarisse, not to stay behind.
 
-That was the purpose. That was what stayed.
+"Thought you were gone," Annabeth said.
+
+"I was going to be. Then I remembered you left your field book by the stove."
+
+Annabeth looked down at her empty hand. "I thought Percy had it."
+
+Percy shook his head. Thalia produced the book from inside her jacket and handed it across. The cover was warm from the fire, and a corner of the newest sketch had been smudged where Annabeth had closed it too quickly.
+
+"You could've left it at Cabin One," Annabeth said.
+
+"Could've."
+
+Thalia tested the repaired lace. It held. "When I was on the trail, I kept noticing places you'd have stopped to measure. Couldn't remember half the names you give things. I did remember that you hate losing your book."
+
+Annabeth opened her mouth to argue about the difference between naming and measuring, then let it go. She looked at the smudged page instead. Thalia had been away long enough for Annabeth to worry that the days apart might have changed things she couldn't put back. Here her sister was, taking entirely too much responsibility for a book that Annabeth could have collected herself.
+
+"Next time," Annabeth said, "tell me where you're going before you vanish."
+
+"Next time, stop reading the map when I'm trying to tell you."
+
+They looked at each other. Neither apologized, which was perhaps the right outcome for an argument that had only just begun to be spoken honestly.
+
+"Breakfast?" Thalia asked.
+
+"At eight," Annabeth replied.
+
+"Try to be there by eight."
+
+Thalia walked on ahead. Percy waited until Annabeth tucked the field book under her arm, then took her free hand. She followed the familiar sound of her sister's boots up the path, thinking about the way paper could keep a measurement and still fail to record the exact moment someone came home.
 
 ---
-
