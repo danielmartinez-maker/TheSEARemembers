@@ -4,7 +4,7 @@ The bus let them out at the foot of Half-Blood Hill just after noon, and for a l
 
 Percy stood on the gravel shoulder with his sea-green duffel over one shoulder and Riptide heavy in his pocket and stared up at the pine tree on the crest. The Golden Fleece was not there yet in this summer, but the tree was still tall and dark green against a clean blue sky, its branches moving in a wind that smelled like strawberries and salt. Below it the valley spread out, the cabins in their horseshoe around the green, the Big House white against the trees, the lake flashing silver past the woods, the climbing wall spitting lava, the arena loud with afternoon practice.
 
-He had dreamed about this hill in the Underworld. In Hades's cold entry hall with the dead courtiers watching, in the hot crush of Los Angeles traffic, on the night bus east when Grover snored against the window and Annabeth slept with her head tipped back and Thalia drove with both hands white on the wheel. He had dreamed about coming home dirty and tired with the quest done and his friends still breathing beside him.
+He had thought about this hill in the Underworld. In Hades's cold entry hall with the dead courtiers watching, in the hot crush of Los Angeles traffic, on the secured eastbound transfer after Santa Monica, when Grover snored in the seat behind them and Annabeth slept with her head against the window while a court courier handled the route. He had dreamed about coming home dirty and tired with the quest done and his friends still breathing beside him.
 
 Now it was real and his throat was too tight to say so.
 
@@ -24,15 +24,53 @@ She nodded, then bumped her shoulder hard into his on purpose. “Yeah. We made 
 
 They went.
 
+The return was quieter than Percy expected until they reached the camp boundary.
+
+The transport from Olympus had brought them to a nearby terminal, where Chiron's bus driver met them with a list of names and permission slips. It seemed strange that a party returning from the throne room of Zeus still needed to show paperwork to get back through the camp's ordinary transportation network. Annabeth had explained that the list was how Chiron knew all four of them had made the transfer.
+
+Percy had looked at his own name and been grateful it was there.
+
+Near Half-Blood Hill, the driver had asked whether the injuries needed to be checked before the celebration. Thalia answered that they had received medical care, then admitted she had a follow-up appointment to arrange for her head injury. Annabeth's hand was still bandaged, Grover's hooves needed rest, and Percy's ribs hurt when he laughed.
+
+"Chiron will want to know," the driver said.
+
+"We'll tell him," Annabeth promised.
+
+Percy knew she'd hold him to it.
+
+The hill itself looked smaller than he remembered. There were fresh repairs on the path where rain had washed out the gravel, and the strawberry fields had been cleared of the dead growth he'd noticed before leaving. Someone had repainted the marker near the boundary. Camp hadn't stood still waiting for the quest to end. That was a relief.
+
+Grover was first to notice the new irrigation board at the north rows.
+
+"It held!" he shouted.
+
+Percy followed his gaze. The board they'd installed together before the astronomy night was still holding the flow in the proper channel. There was no washout beside the young maples. Grover stopped, unexpectedly, to look at it.
+
+"You can check on it later," Annabeth said.
+
+"I know." Grover looked down at his hooves. "I just thought I ought to see."
+
+Thalia put a hand on his shoulder and pointed up the hill. The sounds of camp were growing louder. Whatever else they needed to repair, somebody had kept the ordinary work going.
+
+Percy reached the border and felt the pressure of the wards settle around him. It was not the same as the ocean recognizing him. It was a barrier Chiron and the campers maintained, one that had been threatened by accusations long before the quest began.
+
+He looked at the others. Thalia's face was tense but eager; Annabeth was smiling through exhaustion; Grover seemed to be deciding whether to run straight into the grass or behave like someone recently entrusted with important responsibility.
+
+"Home?" Percy asked.
+
+"Home," Annabeth answered.
+
+They crossed together.
+
 At the top of the hill, by the hilltop pine, the camp was already waiting.
 
 Someone on Pegasusrider duty must have spotted the bus, because the bell at the Big House was ringing and kids were pouring out of cabins and the arena and the strawberry fields. Argus was coming up the path at a jog, his hundred eyes blinking all over his arms and neck. Chiron was there in his wheelchair form at first, then with a ripple he stood in his full centaur height when he saw them, his tail swishing hard. And in front of everyone else, sprinting uphill so fast her brown ponytail streamed behind her, was Clarisse.
 
 Percy had exactly one second to drop his bag before she hit him.
 
-Clarisse La Rue did not hug like other people. She hit like a boarding wave. She slammed into Percy chest to chest and wrapped both arms around his ribs and squeezed until his feet left the ground.
+Clarisse La Rue did not hug like other people. She hit like a boarding wave. She caught Percy by both shoulders, saw his bandaged ribs and stopped herself before the usual crushing hug. Instead she wrapped one careful arm around him and kept the other hand braced against his back.
 
-“Ow,” Percy wheezed. “Clarisse — air — need air —”
+“Hey,” Percy said, breath catching. “Broken ribs are not part of the welcome package.”
 
 “Shut up,” Clarisse said fiercely into his shoulder. Her voice was thick. “You idiot. You absolute idiot. Do you know how long we waited? Do you know what it was like getting the Iris-message that you were in LA and then nothing for two days?”
 
@@ -64,9 +102,9 @@ The Big House porch was crowded with people trying to pretend they were not cryi
 
 Chiron had them sit in the wicker chairs with lemonade that tasted like real lemons and blue cookies that Sally Jackson would have approved of, while Mr. D, in a purple Hawaiian shirt with leopards on it, pretended to read a magazine and actually listened to every word.
 
-Thalia did most of the official reporting, sitting straight with her hands on her knees. She told about the bus and the Kindly Ones and the St. Louis Arch and the Lotus Hotel and Barstow and the Furies and Los Angeles and DOA Recording Studios and the dead courtiers and Hades on his bone throne. Her voice stayed steady until she got to the part about Bianca and Nico di Angelo standing by the throne, and then it wavered just once.
+Annabeth led the official reporting, with Percy and Grover each giving a separate witness account and Thalia describing what she'd seen as the fourth traveling guardian. She told about the bus and the Kindly Ones and the St. Louis Arch and the Lotus Hotel and Barstow and the Furies and Los Angeles and DOA Recording Studios and the dead courtiers and Hades on his bone throne. Her voice stayed steady when she described the protected young residents at Hades's court. She did not state their names or location in a room crowded with people who had not agreed to keep that information confidential.
 
-Annabeth picked it up without missing a beat, the way sisters do. Annabeth Grace, daughter of Zeus, with her storm-gray eyes and her quick hands sketching a map of the Underworld lobby on a napkin as she talked. She explained about the pearls and the hellhounds and the bargain and how Percy had kept the quest moving even while he wanted news of his mother's spirit.
+Annabeth picked it up without missing a beat, the way sisters do. Annabeth Grace, daughter of Zeus, with her storm-gray eyes and her quick hands sketching a map of the Underworld lobby on a napkin as she talked. She explained the pearls, Hades's hellfire, the returned helm and the limit of Percy's written inquiry about his mother's welfare, then passed the narrative to Grover for the route home.
 
 Percy tried to interrupt to say Annabeth was the one who had talked the hellhound down with a spark and a calm voice, and Thalia tried to interrupt to say Grover was the one who had played his pipes in Hades’s hall until even the dead stopped to listen. Grover, for his part, kept trying to say he had been terrified the whole time, which made Chiron smile into his beard.
 
@@ -76,7 +114,7 @@ Mr. D lowered his magazine. “So Hades does not have the bolt,” he said.
 
 “And your mother, Percy?” Chiron asked gently.
 
-Percy swallowed. “In Elysium. Dad told me on Olympus. She’s at rest. I wanted to see her, but — I didn’t. I have to learn how to miss her here.”
+Percy swallowed. “The Underworld records say she isn't under punishment. I got an answer in writing. I wanted to see her, but the court wouldn't allow it. That's what I know.”
 
 Silena, who had squeezed onto the porch steps with Clarisse, reached up and gripped his wrist hard. Clarisse’s hand landed heavy on his shoulder and stayed there.
 
@@ -98,7 +136,7 @@ Percy looked sideways at Annabeth, who was pink to her ears and trying very hard
 
 “Sisters,” Thalia announced to the porch at large. “My sister dragged a hellhound with science. Beat that.”
 
-“My sister called lightning on a Fury bus,” Annabeth shot back, grinning despite herself. “Beat that.”
+“My sister stood watch when everyone else was exhausted,” Annabeth answered. “That's worth remembering too.”
 
 Their eyes met, gray on blue-green-gray, the exact same storm color in different faces, and something settled between them that had been building since winter. Not rivalry. Not the old sharp edge of who was the better daughter of Zeus. Just pride. Just home.
 
@@ -180,7 +218,7 @@ Nico took it with wide eyes. “Really?”
 
 “Poseidon cabin shares,” Silena said, sitting down next to Bianca and patting the bench. “Come sit, Bianca. Tell us what books you liked before — Ella will find them for you.”
 
-Bianca hesitated, then sat. Ella immediately climbed into her lap and began reciting titles at speed. Zoë sat on Bianca’s other side with her bow across her knees and began quietly correcting Ella’s pronunciation, which Ella loved. Nico climbed up next to Percy and talked with his mouth full about the elevator ride up from the Underworld and how Grover had been sick in the backseat and how Annabeth had let him hold her Yankees cap for luck.
+Bianca hesitated, then sat. Ella immediately climbed into her lap and began reciting titles at speed. Zoë sat on Bianca’s other side with her bow across her knees and began quietly correcting Ella’s pronunciation, which Ella loved. Nico climbed up next to Percy and talked with his mouth full about the elevator ride up from the Underworld and how Grover had been frightened in the backseat and how Annabeth had let him hold her Yankees cap for luck.
 
 Percy listened and watched his sisters folding these strange new kids into camp like they had always belonged, and his chest ached in a good way.
 
@@ -218,7 +256,7 @@ Thalia snorted so loud the fire flickered. “You sensed the snack cart.”
 
 “I sensed danger AND snacks,” Grover said with dignity. “A satyr can do two things. Anyway, the Furies attacked, right? Three of them, wings like leather and whips like fire, and Thalia —” he pointed dramatically, “— Thalia jumped on top of the bus seats and shouted, ‘For Zeus!’ and called lightning straight through the roof!”
 
-“It was through the window,” Annabeth murmured to Percy. “And she screamed a little.”
+“It came through the window,” Annabeth murmured to Percy. “And we spent the rest of the trip trying not to use lightning near water.””
 
 “I DID NOT SCREAM,” Thalia said without turning around. “I battle-cried. There’s a difference.”
 
@@ -366,7 +404,7 @@ They sat shoulder to shoulder while the moon rose higher and the lake rippled ar
 
 Percy put his arm around Annabeth and she tucked herself under it like she belonged there. Poseidon’s son and Zeus’s daughter, brother and sister and friend to half the camp, sweethearts to the other half, questers home at last.
 
-Tomorrow there would be war talk and recovered weapons and the news that Sally had rest, even while Percy was learning how to grieve her. Tomorrow Thalia would drill them at dawn and Clarisse would challenge Percy to spar and Silena would make them all try on friendship bracelets and Ella would demand every detail for her scroll and Nico would want his first sword lesson and Zoë would pretend not to care and care fiercely anyway.
+Tomorrow there would be war talk and recovered weapons and the news that Sally's records showed she was not under punishment, even while Percy was learning how to grieve her. Tomorrow Thalia would drill them at dawn and Clarisse would challenge Percy to spar and Silena would make them all try on friendship bracelets and Ella would demand every detail for her scroll and Nico would want his first sword lesson and Zoë would pretend not to care and care fiercely anyway.
 
 Tonight there was just the lake and the moon and each other.
 
