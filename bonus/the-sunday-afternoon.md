@@ -5880,3 +5880,207 @@ Rhys looked over her shoulder. "You haven't heard it."
 He laughed. She turned toward him and kissed him, pleased by the fact that this time they were close because both had finished what they needed to do.
 
 ---
+
+## January 14: What People Thought They Knew
+
+Thalia heard the rumor while carrying a crate of arrows from the storage shed.
+
+She had not been eavesdropping. The two instructors were standing beside the fence, talking in voices loud enough to make discretion irrelevant. One said Rhys would be leaving camp after the winter training program. The other said he'd accepted a place with a music group outside the valley. Neither sounded especially certain, but both spoke as though the information had been settled.
+
+Thalia stopped with the crate in her arms.
+
+"Where did you hear that?"
+
+The instructors turned.
+
+"Rhys was talking about opportunities after winter," one said.
+
+"He said he might travel," the other added.
+
+"Did he say he was leaving?"
+
+A pause.
+
+"Not exactly."
+
+"Did he say he'd joined a group?"
+
+Another pause.
+
+"Someone mentioned it."
+
+Thalia set the crate down with more care than she felt.
+
+"Then perhaps you should find out before telling people it's decided."
+
+The two instructors looked embarrassed. One apologized, and the other began explaining that the conversation had been misunderstood. Thalia didn't stay to hear it. She carried the arrows to their rack, checked the list and finished the task she'd been given. By the time she was done, her irritation had settled into something colder and less pleasant.
+
+Rhys had told her about his music. He'd talked about possible work after the winter, places he might visit, friends who had suggested performances. He had not told her he was leaving. That could mean the rumor was nonsense. It could also mean he hadn't yet decided how to tell her.
+
+She disliked both possibilities.
+
+She went to the north cabin after supper. Rhys was at the workbench, testing a new string on his guitar. He looked up when she entered, smiled and set the instrument aside.
+
+"You're here."
+
+"Are you leaving?"
+
+He blinked.
+
+"Am I what?"
+
+"Leaving camp after winter."
+
+The smile faded. He took a moment before answering.
+
+"I've been considering some work outside the valley," he said. "I've told you that."
+
+"You haven't told me you've accepted anything."
+
+"I haven't."
+
+"People seem to think you have."
+
+He leaned back against the bench. "Who?"
+
+"Two instructors at the range. They were talking as if it were settled."
+
+Rhys closed his eyes for a moment.
+
+"That's my fault," he said.
+
+Thalia folded her arms.
+
+"How?"
+
+"I told a friend I'd been invited to audition for a group that travels in spring. I said I was considering it. Apparently the story improved while it was being repeated."
+
+"You could have told me."
+
+"I meant to. I hadn't decided whether the offer was serious enough to bother you with."
+
+The words stung.
+
+"Bother me with?"
+
+He looked at her. "That's not what I meant."
+
+"It sounds like you decided I couldn't handle knowing you had an opportunity."
+
+"I was trying not to worry you about something that might not happen."
+
+"You don't get to make that choice for me."
+
+He was silent. Thalia could see him recognize the truth of it, and she was almost disappointed. She had come prepared for an argument. The facts were simpler and more difficult: he had meant to spare her uncertainty and had turned that uncertainty into a secret.
+
+"You're right," he said.
+
+She shook her head. "Don't agree just to end this."
+
+"I'm not."
+
+He set the guitar down completely and came to stand in front of her, leaving enough distance that she didn't feel compelled to turn the argument into a kiss.
+
+"I should have told you I was thinking about it," he said. "Even if I didn't know whether I wanted to do it."
+
+She looked at him.
+
+"Do you?"
+
+"I don't know."
+
+"Why not?"
+
+"Because I like it here. I like teaching. I like the work. And I don't want to spend the whole spring traveling just because somebody says there's an opportunity."
+
+Thalia considered. It was a reasonable answer. It was also exactly the answer he might have given her a week earlier if she had asked.
+
+"And you don't want to leave me," she said, more quietly.
+
+He met her eyes.
+
+"No," he said. "I don't."
+
+She felt the sentence settle. He wasn't promising never to go. He was telling her that leaving would matter, that the relationship had become part of the calculation without becoming the only thing in it.
+
+"I don't want you turning down work because you think I'll be angry," she said.
+
+"I know."
+
+"But I want you to tell me about it."
+
+"I will."
+
+She looked away. The anger hadn't vanished, but she had enough of the facts now to know what remained. She wanted to be trusted with uncertainty. So did he. They would probably be bad at it occasionally.
+
+Rhys moved toward the table, picked up a sheet of paper and handed it to her. It was a letter from the music group, outlining a short tour and a possible audition. The terms were vague. There was no contract, no place reserved, only an invitation to try.
+
+She read it.
+
+"You haven't accepted."
+
+"No."
+
+"You haven't even chosen a date."
+
+"No."
+
+She handed it back.
+
+"Then why did the rumor turn into a farewell party?"
+
+"People are remarkably efficient when they're wrong."
+
+She laughed despite herself.
+
+He smiled, relieved.
+
+"Are we all right?" he asked.
+
+"We're annoyed," she said. "That's different."
+
+"Fair."
+
+She moved closer and rested her hands against the front of his shirt. The anger was still there, but it no longer had the sharp edge of being excluded. She wanted him, and she didn't see why wanting him had to wait until they had resolved every question about the future.
+
+She kissed him. He responded with a warmth that made her realize how worried he had been about what she'd think. The kiss wasn't a resolution to the decision about spring. It was a reminder that they could still reach for each other while the decision remained open.
+
+When they drew apart, Thalia touched his cheek.
+
+"Show me the audition piece."
+
+He blinked. "Now?"
+
+"Yes."
+
+He glanced toward the guitar.
+
+"You haven't decided if I should do it."
+
+"That's your decision."
+
+"Then why do you want to hear it?"
+
+She looked at him. "Because you care about it."
+
+He smiled, slowly and without any attempt to hide it.
+
+He picked up the instrument and played. The piece was unfamiliar to her, quicker than most of his compositions, full of sharp turns and pauses that demanded confidence. She listened without trying to make an immediate judgment. When he finished, she asked him to play the opening again.
+
+They spent the next hour talking about music.
+
+Later, when the lamp was low and they'd moved from the workbench to the cot, Thalia lay beside him thinking about how differently the evening had gone from what she'd imagined. She had arrived expecting to defend herself against abandonment. Instead they had talked about a possible opportunity and found a way to take it seriously without making it a threat.
+
+She rested her head against his shoulder.
+
+"If you audition," she said, "I want to hear how it goes."
+
+He touched her hand. "You will."
+
+"And if you get the place, don't pretend it's an easy decision."
+
+"I won't."
+
+She turned toward him and kissed him slowly, letting the warmth of the moment remain what it was. There would be work to do tomorrow, letters to answer and perhaps a difficult choice before spring. Tonight they were here, together, and neither was trying to make the other's world smaller.
+
+---
