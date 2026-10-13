@@ -1988,3 +1988,173 @@ She narrowed her eyes. He was smiling. He had stolen her own word and was enjoyi
 She laughed and kissed him on the cheek. Then she went uphill toward Cabin One, carrying the tune in her memory and the knowledge that they had named something between them without making it more complicated than it needed to be.
 
 ---
+
+Thursday's first disagreement began with a photograph.
+
+Thalia had gone to Rhys's cabin shortly after sunset. There was no particular reason for the visit beyond the fact that they had enjoyed Wednesday's date and she wanted to see him again. She'd spent the afternoon occupied with her own work, and that had made the thought of an hour alone with him especially welcome. She was tired of being helpful. She wanted to be desired, and to have that desire meet her own without a dozen people needing something from either of them.
+
+The door opened at her knock. Rhys smiled, then stood aside.
+
+"You're here."
+
+"Observant."
+
+"Come in."
+
+She stepped inside and immediately saw the photograph.
+
+It was the one from the orchard, the first picture he'd taken of her, propped against a small book above the workbench. She had known he meant to keep it. She hadn't pictured it displayed where anyone entering the cabin could see.
+
+She stopped.
+
+Rhys followed her gaze. "What?"
+
+"That's my picture."
+
+"Yes."
+
+"You said you wouldn't show anyone."
+
+"I haven't shown anyone."
+
+"It's sitting out."
+
+He looked at the photo, then back at her. The delight of her arrival drained from his expression.
+
+"I put it there because I wanted to look at it," he said.
+
+"Other people come in here."
+
+"Not often."
+
+"That isn't the point."
+
+He took a breath. She could see him considering several answers and discarding them.
+
+"You're right," he said.
+
+Thalia wasn't prepared for the admission. It took a moment before she could work out whether she was still angry. She was. The fact that he agreed didn't erase the small shock of finding herself on display without having chosen it.
+
+Rhys crossed to the workbench, picked up the photograph and slipped it into the pages of a notebook.
+
+"Better?"
+
+"I didn't say you had to hide it."
+
+"No. But you said I shouldn't leave it where anyone can see. That's fair."
+
+She looked at him. "You could be annoyed."
+
+"I am a little. Not because you asked me to move it. Because I liked having it there."
+
+"Then maybe ask me first."
+
+"I should have."
+
+He sat on the edge of the workbench. She remained near the door, her coat still on. The room felt suddenly less welcoming, not because he'd made it so but because she'd come in expecting affection and found herself setting a boundary instead.
+
+"I don't want to be a secret," he said.
+
+She frowned. "I never said you were."
+
+"I know. But sometimes I think you're deciding how much of me you're willing to let the rest of your life see, and I don't get a voice in the decision."
+
+The statement landed harder than the photograph had.
+
+"That's unfair."
+
+"Maybe. I'm telling you what it feels like."
+
+She took off her coat and put it on the hook, more sharply than necessary. She wanted to answer with a list of ways she'd already chosen him: the public hand-holding, the orchard date, the kiss on the range bench. She could recite the evidence like a lawyer. But the fact that she had a list suggested he was not entirely wrong.
+
+"What do you want?" she asked.
+
+He looked surprised. "Right now?"
+
+"About us. About people knowing. About that picture."
+
+He considered. "I want to be able to say I'm seeing you without feeling that I'm betraying a confidence. I want to keep a photo of you somewhere I can see it. And I want you to tell me when something is too much, rather than assuming I'll guess."
+
+Thalia looked at the floor. Those were not extravagant demands. They were ordinary desires from someone who was becoming attached to her. She felt them as pressure because she had spent so many years making sure that no one else could set the terms of her life.
+
+"I haven't decided how public I want to be," she said.
+
+"I know."
+
+"And I don't want to decide tonight just because we fought."
+
+"Then don't."
+
+She looked up. He was watching her steadily, without the smile he usually used to soften an argument.
+
+"Can we agree on what I am allowed to say?" he asked.
+
+She considered. "You can say we're spending time together. You can say you like me. You can say I'm the most talented archer you've ever met."
+
+He nearly smiled. "That last part is disputed."
+
+"Then don't expect mercy."
+
+She took a breath. "But not details. Not about what happens when we're alone. And if somebody asks directly, I want us to talk before either of us answers."
+
+"That seems fair."
+
+"And the photo?"
+
+He glanced toward the notebook. "I'd still like to put it up."
+
+She thought about the image: herself making a ridiculous face, caught in a moment she had chosen. It wasn't an intimate picture in the sense of revealing anything private. What bothered her was the idea that other people could see her being happy with him and turn that into a story she hadn't approved.
+
+"Keep it in your notebook for now," she said. "We can talk about it again later."
+
+He nodded. "All right."
+
+She went to sit beside him on the bench. There was enough space that neither had to touch the other. For a while they looked at the stove and listened to it ticking as the fire settled.
+
+"I'm still angry," she said.
+
+"I can tell."
+
+"Are you?"
+
+"A little."
+
+She folded her hands in her lap. "We don't have to pretend we solved everything."
+
+"No."
+
+He sounded relieved by the permission. So was she. They had agreed on what to do with the photograph; they hadn't yet learned what it meant to negotiate a private life together without feeling that one of them was surrendering.
+
+After a while Rhys asked, "Do you still want to stay?"
+
+She looked at him. She did. She also didn't want the answer to imply that their disagreement hadn't mattered.
+
+"Yes," she said. "But I don't want to be kissed until I'm ready."
+
+He nodded. "All right."
+
+She stayed on the bench while he moved the books back onto the shelf. He made no effort to charm her out of her mood. Eventually she asked him about the piece of music he'd been working on. He showed her a revised middle section and explained why the instrument he expected to accompany it couldn't reach one of the notes. She offered a suggestion. They worked through the phrase together, and the activity gave them both something to do without pretending the conversation had disappeared.
+
+Nearly an hour passed.
+
+Thalia watched him set the guitar aside. His expression was tired now, and more thoughtful than annoyed. She reached for his hand.
+
+"Come closer," she said.
+
+He looked at her carefully. "You sure?"
+
+"Yes."
+
+He moved beside her. She kissed him, softly at first, then with the familiar pleasure of his warmth and the way he leaned toward her. He didn't try to make the kiss prove anything about the argument. Neither did she. They could still be annoyed with each other and want to be close. Discovering that felt like a new kind of freedom.
+
+When they drew apart, she kept her hand in his.
+
+"Next time," she said, "ask me before putting my face on a shelf."
+
+"Next time, tell me if you're feeling hidden."
+
+She considered. "Deal."
+
+He kissed her forehead, and she leaned against his shoulder. They sat in the small lamplight until the room grew quiet around them. The photograph remained in the notebook, unseen by anyone but the person she'd given it to. She knew it was there. For tonight, that was enough.
+
+---
