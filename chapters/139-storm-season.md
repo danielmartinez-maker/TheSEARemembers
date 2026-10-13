@@ -549,6 +549,80 @@ She smiled faintly. "You're learning."
 
 ---
 
+By the time they finished bringing in the markers, the storm had diminished to a steady cold rain. The younger observers were allowed to return to the pavilion, but Jason insisted on helping Ella secure the tablets. The wax had survived the water; one of the labels had not.
+
+"That one says west channel," he told her.
+
+"It says west channel and a number," Ella replied.
+
+"The number dissolved."
+
+"Then we keep the measurement and mark its position as uncertain."
+
+"Couldn't we ask Percy what it was?"
+
+"Percy did not write it. Percy does not know."
+
+Jason studied her for a long moment and then made a careful cross beside the field on his duplicate sheet. Percy, passing with the rope over his shoulder, watched the decision with more interest than he'd expected. Jason had come hoping to see his sisters command the weather. He was learning what to do when a record was inadequate.
+
+A little farther along the beach, one of the younger campers who'd volunteered to collect the spare flags stood shivering beside the equipment basket. She had been out of the water the entire time, but her raincoat had leaked at the collar and her fingers had gone clumsy. She kept trying to tie the bundle as if admitting the knot was too much would get her taken off the next watch.
+
+Silena noticed first. She put a dry cloak around the girl's shoulders and called Will over. Percy set down the rope and moved the flag basket out of the wind.
+
+"I can finish," the girl insisted.
+
+"You finished your shift," Silena said. "That's what a shift means."
+
+Will checked her hands, asked a few questions, and walked her toward the warm pavilion with another counselor. There was no dramatic injury. There was an ordinary problem that would have become worse if everybody had been too proud to notice.
+
+Clarisse went through the equipment inventory without a word. She counted the flags, checked the wooden staffs for cracks and found two bent pins where the rope anchors had been dragged sideways by the wind.
+
+"Those don't go back into the training kit," she said.
+
+"Can you straighten them?" Percy asked.
+
+"I could. Then somebody might trust a pin that's already bent once." She dropped them into the damaged-equipment pouch. "We have new ones."
+
+Percy thought of Triton's older training habits: repair what could be repaired, replace what should not be trusted. Except the thought wasn't a memory of a lesson he could recall. It was something he'd been told about his old childhood, something he was beginning to learn for himself here, at camp, under rain that could soak straight through a birthday shirt.
+
+Thalia walked beside Jason toward the observation post. She'd checked his coat twice already. He finally stopped and looked up at her.
+
+"I'm not freezing," he said.
+
+"I didn't say you were."
+
+"Then stop touching my collar."
+
+She pulled her hands back. Percy saw the effort it cost her. Thalia could command the clouds, and she could not command this particular thirteen-year-old boy to enjoy being fussed over.
+
+"You did good work today," she said.
+
+Jason straightened. "Ella said I missed one number."
+
+"She told you where you missed it. That's part of doing good work."
+
+He kicked at the wet sand. "At my camp I wouldn't be the youngest one standing around with a piece of paper."
+
+"At your camp you'd still have instructions to follow."
+
+"I know." The answer was sharp, then quieter. "I wanted you to see I'm not little."
+
+"I see that."
+
+"Do you?"
+
+Thalia sat on a driftwood log so their eyes were level. She didn't use the voice she wore when confronting Zeus. She spoke as though this was a real question with an answer she might get wrong.
+
+"Yes. I also saw somebody who listened to Ella, admitted a gap and didn't try to make a number up. That looks older to me than standing too close to a storm just to prove you can."
+
+He turned the words over without smiling. Then he handed her his copy of the measurements.
+
+"Will you check the total?"
+
+"Yes."
+
+They bent over the sheet together. Percy went past without interrupting. The sky above the Sound was opening in ragged pale seams. Rain ran down the back of his neck. He had held a current steady for a few minutes, and he was glad of it. He was equally glad no one had needed him to keep holding it after the stop was called.
+
 The drill did not end when the wind dropped. Chiron called everyone back to the Big House porch to review the readings, and Percy discovered that he had written down only the exciting part: the moment the water moved as ordered. Annabeth's page held a second column of measurements, including two they could not explain.
 
 "The charge rose before I gave the signal," she said.
