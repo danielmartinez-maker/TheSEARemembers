@@ -92,7 +92,9 @@ Outside, the rain kept falling. Steady. Patient. Unbothered by twelve-year-olds 
 
 He could do three days of this.
 
+
 ---
+
 
 By three o'clock, Silena Beauregard had spent the afternoon visiting her friends in the Aphrodite cabin. It smelled like nail polish and rain and somebody's too-sweet strawberry shampoo, and she was officially bored out of her mind.
 
@@ -168,7 +170,9 @@ Outside, thunder rolled, soft and far away. Inside, somebody started braiding Si
 
 Silena closed her eyes and let her.
 
+
 ---
+
 
 By dinner on day one, the Big House smelled like wet dog and popcorn, and Thalia Grace was losing her mind.
 
@@ -230,7 +234,9 @@ Annabeth smiled. "I'd take her money."
 
 Outside, lightning stitched the clouds white. Inside, safe and dry, three Zeus-and-Poseidon kids played their living mother's old tour game while rain washed the world clean.
 
+
 ---
+
 
 On the morning of day two, Grover Underwood woke up to water dripping on his nose and Ella the harpy staring at him upside down.
 
@@ -284,67 +290,91 @@ Pan would have liked blanket forts, he thought drowsily. The god of the wild, sh
 
 And it was.
 
----
-
-Zoe Nightshade had survived fifteen years of winters, several camp monster alerts, and extremely annoying heroes. She could survive three days of rain.
-
-What she could not survive, she decided on the afternoon of day two, was six bored Hunter-apart campers plus Bianca di Angelo asking "Are we there yet?" about the end of the storm every eleven minutes.
-
-They were camped in the Artemis cabin — Phoebe, Naomi, Bianca, and three younger girls — playing what appeared to be a game involving flicking ambrosia squares at each other's foreheads. Bianca's forehead had a sticky square dead center. She looked deeply undignified and extremely twelve.
-
-"Zoe," Bianca pleaded when Zoe came in shaking rain off her cloak. "Tell us a story. Please. Phoebe's flicking game is rigged and Naomi is cheating and I'm going to die of boredom and Hades will kill me again for dying indoors."
-
-"I cannot tell stories," Zoe said automatically. "I am on watch rotation."
-
-"You're off rotation," Phoebe said. "I checked the list. You're hiding in here because the Big House is too loud."
-
-Zoe sniffed. It was true. The Big House currently contained a full Stoll-run casino using pretzels as chips, a sing-along led by an Apollo kid with a lyre missing two strings, and Percy Jackson attempting to juggle Mythomagic booster packs. Retreat was tactical.
-
-"Please, Zoe?" The little ones chimed in. "A scary one? A real one?"
-
-Zoe looked at the rain sheeting the windows, the gray light, the circle of expectant faces. She thought of cold mountain nights at her mother Hecate's shrine, of the women there telling tales to pass the dark. She sighed, unpinned her cloak, and sat.
-
-"Very well. But not Artemis tales — thou knowest those. I will tell thee of Hecate."
-
-Bianca sat up straighter. Daughter of Hades, always hungry for Underworld-adjacent lore.
-
-"Hecate," Zoe began, her voice dropping into the old cadence, "is older than Olympus. Before Zeus took the sky, before Poseidon took the sea, Hecate held the crossroads. Titaness of magic, of ghosts, of the moon in its dark phase. When the gods fought the Titans, she alone among them sided with Olympus — not from love, but because she saw which way the wind blew, and because Zeus promised her honors no other Titan kept: a share of earth, sea, and sky."
-
-Rain ticked. The girls leaned in.
-
-"She walks with torches," Zoe continued. "Two flames to light the paths between worlds. At night, at a place where three roads meet, if thou leavest her an offering — garlic, eggs, honey cake — and turnest away without looking back, she will guide thy dead safely. If thou lookest back..." She paused. "Best not to look back."
-
-One of the little ones gasped.
-
-"Is she nice?" Naomi asked.
-
-Zoe considered. "She is... necessary. She taught Medea. She guards the doors Medea opened. She gave mortals magic, knowing what they would do with it. Some say that is cruelty. I say it is honesty. Power is power. What thou doest with it is thy character."
-
-Bianca frowned, picking at her sleeve. "Do you think — do the dead get lonely, waiting at crossroads?"
-
-The question landed quiet. Zoe remembered Bianca's story — pulled out of time, brother fierce as winter, mother gone, years lost. A child of crossroads herself.
-
-"I think," Zoe said gently, "that is why Hecate walks with dogs. Big black hounds, loyal as shadows. So none wait alone."
-
-Bianca smiled, small. "I'd like a shadow dog."
-
-"Thou hast thy brother. He is nearly as large and nearly as loyal, and he smells nearly as bad when wet."
-
-Laughter broke the spell. Bianca threw a pillow at her. Zoe caught it one-handed, ancient reflexes showing off, and tossed it back.
-
-"Another!" the little ones begged.
-
-Zoe told them of Hecate at the search for Persephone, the only god who heard the girl cry out, holding her torches high while Demeter tore the earth apart. Of Hecate on the beach at night, teaching witches to read the moon. Of the time — Zoe's voice went dry — that a certain hero she would not name tried to steal one of Hecate's torches to impress a girl and ended up with his eyebrows burned off for a year.
-
-"Was it Hercules?" Phoebe whispered.
-
-"It is always Hercules," Zoe said, and they howled.
-
-Outside, the rain eased for a moment, then redoubled, drumming hard. Inside, warm and torch-lit by the cabin's braziers, the girls curled closer, ambrosia forgotten. Bianca rested her head on Zoe's shoulder without asking, and Zoe — who did not allow such familiarity, usually — let her stay, resting her cheek briefly against dark hair.
-
-After a long day of miserable weather, Zoe wanted something ordinary: a dry room, people willing to listen, and a story that didn't have to explain the world.
 
 ---
+
+
+Zoe Nightshade had been asked to keep the Hecate cabin's practice room dry, a request that would have been much easier if the roof had behaved like a roof.
+
+The rain had found a gap above the eastern window and was trickling down the wall in a line so thin that nobody noticed until Tomas went to fetch a box of chalk and discovered the labels had dissolved.
+
+"Don't touch the equipment," Zoe told the younger campers. "Not until we know which shelves got wet."
+
+One of them was holding a small copper disk used for ward practice. He stopped in the doorway, looking guilty.
+
+"I already picked it up."
+
+"Put it on the dry table. Did you activate it?"
+
+"No."
+
+"Good. Wash your hands, then bring me the ledger."
+
+Zoe knew the disk wasn't dangerous simply because it was wet. She also knew the runes worked differently when the insulating cloth was damp, and it would be foolish to test her confidence on children who had come to camp to learn safe handling.
+
+The five younger Hecate campers had been stuck indoors all day. They wanted to play with the old illusion tiles, tell stories or practice the tricks that made candle flames turn green. Zoe had spent most of the morning telling them to find quieter ways to entertain themselves. Now she needed help with an actual problem and wasn't sure which of them could be trusted with the job.
+
+"Tomas," she said. "Can you record which boxes were on the wet shelf?"
+
+He brightened. "All of them?"
+
+"Yes. Mark what you can identify and leave the rest for me to check."
+
+She gave another camper the task of fetching the steward, and assigned two children to carry ordinary books to the dry table. No one touched the copper equipment. When the steward arrived, Zoe pointed out the line of water and asked for the shelves to be inspected before anyone resumed lessons.
+
+The steward examined the ceiling. The leak was coming from a slipped flashing strip, too high to reach safely from the room. He closed the practice area until the roof could be repaired.
+
+"Can we take the books to the Big House?" Tomas asked.
+
+"Some of them," Zoe said. "Only the ones that are dry and have been checked."
+
+He carried the small stack carefully, pleased to be trusted with something that mattered.
+
+The afternoon shifted to the library. Ella helped them find a spare table and informed Zoe that damp books should be kept apart from dry ones until their condition was checked. It was the same advice Zoe would have given, but Ella delivered it as an alarming sequence of literary quotations.
+
+"Understood," Zoe said.
+
+Bianca di Angelo arrived with Nico on the way to the games room. She spotted the empty practice boxes and asked whether someone had been hurt.
+
+"No. Water got into the storage area. We stopped the session."
+
+"Can we help?"
+
+Zoe had been about to say no. Bianca was not a camper from Hecate's cabin, and the problem was ordinary building maintenance rather than a magical emergency. But there were piles of papers to sort, and Bianca had a good eye for careful work.
+
+"If you're free, you can help us check the index against the dry books. Nico can help with the smaller copies if he wants."
+
+Nico was delighted. He knew enough about different spellbooks to be interested in the catalog even if he couldn't perform the spells they described.
+
+They worked through the stack for an hour. Tomas found several pages mislabeled from an earlier lesson and asked whether he should correct the index. Zoe showed him how to record the original label before changing it, so the next person could understand why the entry differed.
+
+At the end of the afternoon, Bianca closed the ledger.
+
+"I thought you were going to spend the whole day practicing magic."
+
+"So did I," Zoe said.
+
+"Are you disappointed?"
+
+"Yes. We had a new set of protective knots to test. But they would not have been safe in that room today."
+
+Bianca nodded. She knew what it was to have an expected day disrupted. She had spent much of her time at camp trying to give Nico a predictable routine, even though the world rarely respected it.
+
+"Do you want company while you wait for the roof repair?"
+
+"Only if you don't expect to be entertained."
+
+"I can play cards."
+
+"Then stay."
+
+Zoe did not need to tell a long story about ancient hunters to prove she was important. She could teach a child how to make a careful record, protect her cabin's equipment and admit a lesson would have to wait. When the younger campers returned with the last dry books, she asked Tomas to read his inventory aloud. He had missed only one box.
+
+She gave him the correction, then let him mark the job completed himself. Outside, the rain increased against the windows. The Hecate practice room stayed closed. Inside the library they began a card game with Bianca and Nico while Ella stood guard over the drying books.
+
+
+---
+
 
 Bianca di Angelo had a system for hot cider.
 
@@ -410,7 +440,9 @@ Bianca felt her throat go tight. Camp was strange. Camp was loud and smelly and 
 
 The rain played on.
 
+
 ---
+
 
 On day three, the rain turned to drizzle and everyone at Camp Half-Blood collectively lost it.
 
