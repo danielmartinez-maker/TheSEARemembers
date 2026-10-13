@@ -431,11 +431,11 @@ Thalia bumped her shoulder. "That's what sisters are for. Keeping the stuff you 
 ---
 
 
-Dinner was picnic-style on the Zeus cabin roof.
+Dinner was picnic-style on Cabin One's west balcony.
 
-Thalia wasn't supposed to know how to get up there — Chiron had given her The Talk about roofs after the Great Pegasus Incident — but Luke had shown her the loose shingle by the gutter three years ago, and some knowledge was sacred. She boosted Annabeth up first, then hauled up the blanket and the shoebox and the snacks they'd saved: two apples, a bag of popcorn from the Apollo cabin stash, lukewarm Cokes in glass bottles.
+Hal had inspected the railing, approved the folding bench Annabeth had helped design, and made it clear that the old trellis to the roof was still off-limits. Thalia had complained about the rules, then carried the snacks outside through the actual door: two apples, a bag of popcorn from the Apollo cabin stash, and lukewarm Cokes in glass bottles. Annabeth followed with the shoebox and blanket, taking exaggerated care to avoid scratching their newly finished bench.
 
-They sat shoulder to shoulder, backs against the chimney, watching the sun go down over the Sound. Camp spread below them in golden light — cabins glowing, torches flickering on along the paths, the dining pavilion loud with laughter, the bronze dragon at the amphitheater catching the last sun. The pine tree on the hill stood dark against the sky. The ocean beyond glittered.
+They sat shoulder to shoulder, backs against the warm cabin wall, watching the sun go down over the Sound. Camp spread below them in golden light — cabins glowing, torches flickering on along the paths, the dining pavilion loud with laughter, the bronze dragon at the amphitheater catching the last sun. The pine tree on the hill stood dark against the sky. The ocean beyond glittered.
 
 Popcorn between them. Annabeth's head on Thalia's shoulder, leather jacket draped over both of them like a blanket. Thalia's arm around her. Easy. Warm.
 
@@ -519,7 +519,7 @@ Annabeth was quiet. Then she wormed her hand into Thalia's, fingers cold, grip f
 
 Thalia laughed, wet and startled. "Olympus 2.0?"
 
-"With better plumbing," Annabeth said solemnly. "And a library. And a roof we can sit on without Chiron yelling."
+"With better plumbing," Annabeth said solemnly. "And a library. And a balcony we can sit on without Chiron yelling."
 
 "Chiron's gonna yell anyway."
 
@@ -527,7 +527,7 @@ Thalia laughed, wet and startled. "Olympus 2.0?"
 
 They sat there, hands linked, shoulders pressed, jacket over their knees. No resolution. No promise that quests wouldn't come or growing wouldn't hurt or that Thalia would ever stop seeing seven-year-old Annabeth with a steak knife when she looked at twelve-year-old Annabeth with a bronze sword. No promise that Annabeth wouldn't one day walk into something Thalia couldn't follow.
 
-Just closeness. Just this roof, this sunset, this shared blood humming faintly like distant thunder.
+Just closeness. Just this balcony, this sunset, this shared blood humming faintly like distant thunder.
 
 Thalia tipped her head back against the chimney. Annabeth leaned her whole weight against Thalia's side, head tucked under Thalia's chin like when she was small. Thalia rested her cheek on top of Annabeth's fresh haircut, breathing in strawberry shampoo and straw and sunshine.
 
@@ -565,11 +565,11 @@ Thalia held her tighter. Annabeth held on back. Above them, the sky deepened to 
 
 They stayed until the popcorn was gone and the Cokes were empty and the air turned cool enough that Annabeth shivered and Thalia wrapped the leather jacket fully around her and then wrapped herself around the jacket.
 
-"Come on, shortstack," Thalia said finally, standing and pulling Annabeth up. "Curfew. If Chiron catches us on the roof, Sisters Day becomes Punishment Week."
+"Come on, shortstack," Thalia said finally, standing and pulling Annabeth up. "Curfew. Hal approved the balcony, not sleeping out here."
 
 Annabeth grinned, sleepy and happy, hair mussed, flannel wrinkled, Thalia's jacket huge on her shoulders. She held the shoebox carefully, the Jason photo on top.
 
-They climbed down, shushing each other, giggling when Annabeth almost slipped and Thalia caught her. They left the blanket for tomorrow. They snuck in through the window — Thalia insisted the door was too obvious — landing in a heap on the marble floor, laughing into their hands.
+They carried the shoebox and empty bottles through the balcony door. Thalia caught the corner of the blanket on the handle and nearly knocked the whole stack over, which made Annabeth laugh loud enough for someone down the hall to ask whether they were all right. "Perfectly," Thalia called back, rescuing the bottles before they hit the floor.
 
 They brushed teeth side by side in the Salon Storm bathroom, blonde clippings still in the trash, foam on their chins. They changed into pajamas — Annabeth in the owl shirt Thalia gave back (folded, then unfolded, then thrown), Thalia in an old Ramones shirt — and collapsed into Thalia's bunk, which was bigger by two inches and therefore, by sister law, communal property.
 
