@@ -1207,6 +1207,8 @@ Triton read it. "Yes."
 
 Triton smiled. He had spent the week teaching Percy the forms of court etiquette. Percy had learned some of them, though he still disliked the spoons. But the most useful part had been discovering how much a shared visit depended on plans that remained open to correction.
 
+That was enough to make the next day feel like a set of choices rather than a series of orders. Percy could live with not knowing every answer before breakfast.
+
 Triton switched off the library's lamps as they left. The current beyond the windows moved steadily toward the city. Percy could not tell whether the morning would be easy. He could tell that when it began, the people who came with him would have their own plans.
 
 
