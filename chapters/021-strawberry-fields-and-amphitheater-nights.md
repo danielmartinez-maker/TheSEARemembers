@@ -500,6 +500,116 @@ Annabeth and Thalia looked at each other, grinned, and chased him.
 
 
 
+Before the amphitheater opened, Grover found the performance roster lying under a bench near the stage.
+
+It was covered with changes. Two singers had swapped positions, the Hephaestus cabin wanted another ten minutes for its percussion demonstration, and somebody had written *possible rain* in the margin without explaining whether that meant the whole event should be moved inside.
+
+Grover had volunteered to help organize the evening because he liked music. He hadn't anticipated how much of organizing music involved tracking down people who were elsewhere doing something entirely unrelated.
+
+He carried the roster to Chiron. The centaur was checking the stage lamps and looked up when Grover arrived, breathless from the hill.
+
+"What's the problem, my boy?"
+
+"We have three versions of the order. I don't know which one the performers are actually following. And the rain note might mean we're supposed to move all the instruments."
+
+Chiron took the paper. He didn't tell Grover to stop worrying. He asked which changes had been approved and which were only requests.
+
+Grover checked the notes. Most were requests, written by campers who assumed somebody else would make the decision.
+
+"Then we need one person responsible for confirming the final order," Chiron said. "Would you like to help me with that?"
+
+"Yes. But I don't want to tell anybody their song can't happen."
+
+"You can explain the time limits without deciding whether the music deserves to be heard. That's a different job."
+
+Grover nodded reluctantly. He had always imagined being a Searcher as a form of listening to the wild, not negotiating stage schedules. But the people around him needed someone to listen too, and he was better at that than he'd realized.
+
+He started by visiting the Hephaestus group. They were carrying a frame of tuned metal bars up the steps, taking care not to strike them against the stone. The leader wanted to add a longer solo because the rhythm was complicated.
+
+"Could you fit it within the time you already have?" Grover asked.
+
+"Not if we play it properly."
+
+"Then would you rather do the shorter piece tonight and schedule the long one for another performance? If we add ten minutes here, the younger campers won't finish before curfew."
+
+The leader looked disappointed. She had spent days practicing the extra section. Grover could see how badly she wanted people to hear it.
+
+"We can do a short version," she said after a moment. "But I want the long one listed for next month."
+
+"Then let's ask Chiron to reserve the time."
+
+They made the note. Grover returned to the roster and found another problem: the torchlighting team had been assigned to carry instruments at the same time. He changed the order only after asking both groups which task could move without creating more work.
+
+It took longer than making a new list himself would have. That was the lesson. Everybody's request sounded reasonable when he heard it alone. The conflicts became visible only when he put them together.
+
+Near the back of the stage, Annabeth was practicing the first lines of her story to an empty bench. Thalia sat with a notebook, occasionally interrupting to ask whether a character's decision made sense.
+
+"You've changed the ending," Thalia said.
+
+"Only the last part. I want it to fit the point I'm making."
+
+"That's not what the original myth says."
+
+"I know. I'm going to tell people it's my version."
+
+Grover paused in the doorway. He had been planning to ask whether they could move the storytelling slot by five minutes. Now he heard how carefully Annabeth was treating the difference between a traditional account and her own interpretation.
+
+"Do you have time for a question?" he asked.
+
+Annabeth nodded.
+
+"If somebody asks whether your ending is the real myth, will you be okay saying it's an adaptation?"
+
+"Yes. The original version is in the program."
+
+Grover looked at the sheet. She was right. The printed description named the myth and explained that the retelling included a changed conclusion.
+
+"That's useful," he said. "I wasn't sure everybody would understand."
+
+Thalia watched him check the roster. "Are you running the entire performance?"
+
+"Apparently."
+
+"Then you should eat before the music starts."
+
+"I had a strawberry."
+
+"That's a fruit, not a meal."
+
+Grover took the sandwich she offered and sat on the bench for five minutes. Annabeth continued practicing, stopping twice to change a sentence that sounded impressive on paper and awkward when spoken aloud.
+
+He enjoyed listening to her work. She didn't need him to approve the story. She needed an audience who could tell her whether the meaning was clear.
+
+"The ending makes more sense now," he said when she finished.
+
+"Because it's different?"
+
+"Because I can see why the character made the choice. Before, I only knew what happened."
+
+Annabeth looked pleased. She wrote down the distinction.
+
+By the time the torchlighting team arrived, Grover had an agreed roster with names beside each task and a weather decision that belonged to Chiron rather than to the last camper who wrote a note in the margin.
+
+He posted the final order at both entrances, then carried a copy to the stage. If rain did come, the instruments would be moved to the sheltered section, and the percussion demonstration would happen before the most delicate strings were brought out. Everybody knew whom to ask.
+
+Grover stood in the empty amphitheater for a moment. He had expected the reward for his afternoon to be the chance to play the pipes under the stars. Instead he was proud of something quieter: all the people who'd come to him with a problem now had a schedule they could actually follow.
+
+Chiron joined him near the stage.
+
+"Well done," he said.
+
+Grover smiled, then glanced at the last line of the roster. His own solo remained listed.
+
+"Am I still allowed to perform?"
+
+"Of course. Organizing the evening does not mean you must give up the part you came to enjoy."
+
+Grover went to fetch his pipes. The stage lamps were coming on, and the first campers were beginning to find seats. He had enough time to tune the instrument before the music started.
+
+
+
+---
+
 If the strawberry fields were the day's work, the amphitheater was its reward.
 
 Camp Half-Blood's amphitheater was built into the hillside in white stone rows that glowed peach in the sunset, facing a small stage backed by olive trees and fluttering banners. Tiki torches were lit around the rim. The sky above deepened from gold to violet, first stars pricking through.
