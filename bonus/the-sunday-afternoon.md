@@ -2462,3 +2462,143 @@ At Cabin One, she found the morning well underway. Nothing had collapsed in her 
 It was a good morning. She didn't need to turn it into a lesson.
 
 ---
+
+Sunday evening began with an argument about a button.
+
+Rhys had found the shirt he'd worn when he first returned to camp, a dark blue one with a collar that never sat properly. The top button was missing, and he was holding the spare between his fingers when Thalia arrived.
+
+"You're going to try to sew that yourself?" she asked.
+
+"That's the general idea."
+
+"That explains the look of despair."
+
+He looked up. "I was getting somewhere."
+
+"Yes. Toward ruining the collar."
+
+He held out the needle. "Then demonstrate."
+
+She took it from him. She had intended to stop by for half an hour. It was already nearly eight, and she had spent much of the day thinking about the fact that he might leave the camp soon. She didn't want to make his departure the subject of every conversation. She wanted to enjoy being with him while he was here.
+
+The button gave her something simple to do. She sat beside him on the cot and drew the thread through the collar with quick, practiced movements. He watched her hands.
+
+"Your technique is annoyingly efficient," he said.
+
+"I've been telling you that for weeks."
+
+"I was hoping there might be something you weren't good at."
+
+"Dancing, apparently."
+
+"You've improved."
+
+"Against all odds."
+
+She finished the stitch and bit off the thread. He took the shirt and examined the button. It was slightly crooked but secure.
+
+"Perfect," he said.
+
+"Don't exaggerate."
+
+"Very nearly perfect."
+
+"Better."
+
+He set the shirt aside and turned toward her. She was suddenly conscious of the fact that they'd been sitting close enough to touch for several minutes without doing so. The air between them felt charged, but not with the anxious anticipation of their first night. It was a familiar kind of wanting now, something she could recognize and meet without a long internal debate.
+
+"Come here," she said.
+
+He moved closer. She rested her hand at his jaw and kissed him, slowly at first, then with enough certainty that he drew her nearer. His fingers settled at the back of her neck, warm and gentle. She smiled against his mouth when he paused, enjoying the way he looked at her.
+
+"You're staring," she said.
+
+"I am."
+
+"Any reason?"
+
+"I like you."
+
+"That's a dangerously simple explanation."
+
+"It keeps proving useful."
+
+She laughed and kissed him again.
+
+The cabin was warm, almost too warm, because he'd banked the stove early against the cold coming down from the ridge. A strip of lamplight fell across the quilt. She could feel the soft cotton of his shirt beneath her fingers, the slight movement of his breathing as they leaned together. There were moments when she still wanted to turn the closeness into a challenge, to find a teasing remark sharp enough to keep her from sounding pleased. Tonight she let herself be pleased.
+
+Rhys drew back after a while.
+
+"Do you want to stay?"
+
+"Yes."
+
+"Do you have to be up early?"
+
+"Not tomorrow."
+
+He smiled. "Then we have time."
+
+She liked the way he said it. Not as a claim on the night, but as a simple observation. They could choose to spend it as they pleased. She could ask for closeness. He could ask for rest. Neither request was a test.
+
+She reached for his hand. "I want to take my time."
+
+"All right."
+
+"And you can tell me if you need me to slow down."
+
+He smiled. "I will."
+
+The answer gave her an unexpected rush of confidence. She had spent years being the person who moved first in every situation, who took charge because hesitation felt dangerous. Here she could move deliberately without needing to be in control of everything. She could pay attention to him, let him pay attention to her, and enjoy the exchange.
+
+She kissed him again, lingering at the corner of his mouth. He touched her cheek, then let his hand rest there as though he wanted to keep the moment from slipping away. She drew him closer by the collar she'd just repaired, laughing softly when he protested that she was going to undo her own work.
+
+"Then don't wear such tempting shirts," she said.
+
+"That may be the most flattering thing you've ever told me."
+
+"Don't spread it around."
+
+He kissed her, and she stopped talking for a while.
+
+The hours that followed belonged to them. There was affection and anticipation, teasing that gave way to quiet, and the private ease of two adults learning how to want each other without rushing or performing for anyone else. They chose what to share, what to ask for, and when to stop talking. Outside the shutter, the wind turned colder. Inside, the lamp burned low and the unfinished work on the bench could wait.
+
+Later Thalia lay with her head against Rhys's shoulder, listening to the familiar ticking of the stove. She was tired in a pleasant way, content enough that it took her a moment to realize she had been smiling into the blanket.
+
+"What?" he asked.
+
+"Nothing."
+
+"That's an unusually happy nothing."
+
+"Don't get used to it."
+
+He laughed softly. She turned toward him and rested a hand against his chest. She was aware that he knew her habits now: when she was trying to hide embarrassment, when she wanted him to speak, when she was waiting for a joke she could challenge. He knew enough to be irritating. He also knew enough to be gentle without making her feel that he was handling something fragile.
+
+"Do you think this will be different when you go home?" she asked.
+
+He considered. "We'll be apart. That will be different."
+
+"That's not what I meant."
+
+"I know."
+
+She looked up at him. "I don't want us to become a collection of promises we can't keep."
+
+"Then let's make small ones."
+
+"Such as?"
+
+"Tell each other when we're busy. Write when we have something to say. Don't make the other person guess whether silence means anger."
+
+She considered. They were reasonable promises. More importantly, they were promises each of them could fail at and repair without pretending the failure meant the end of everything.
+
+"I can do that," she said.
+
+He touched her hair. "So can I."
+
+She kissed his cheek, then settled beside him again. The evening had been about closeness, desire, and the pleasure of being wanted, but the conversation afterward mattered too. She didn't want to be a person he could only love in a room with the door closed. She wanted to carry something of this ease into the ordinary days when they weren't together.
+
+Outside, the rain began again, soft against the window. She listened to it for a while and found that she didn't need to know exactly how many more nights he would be here. Tonight was theirs. Tomorrow could begin when it arrived.
+
+---
