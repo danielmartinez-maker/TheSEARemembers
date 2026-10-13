@@ -54,7 +54,7 @@ The Poseidon table at lunch was not the place to be.
 
 Percy realized this about fifteen minutes into the meal, when the argument that had started at breakfast migrated to the pavilion with the inevitability of weather. Clarisse was at one end of the table, Thalia at the other, and the space between them had become a kind of demilitarized zone where nobody sat and nobody ate in peace.
 
-"They're doing it again," said a kid from the Ares cabin — one of Clarisse's siblings, a stocky boy with a buzz cut and the kind of loyal face that meant he'd picked a side and was going to stick with it.
+"They're doing it again," said a kid from the Ares cabin — one of Clarisse's usual sparring partners, a stocky boy with a buzz cut and the kind of loyal face that meant he'd picked a side and was going to stick with it.
 
 "Doing what?" Percy said.
 
@@ -1030,49 +1030,141 @@ Thalia laughed. The laugh carried across the water and came back changed, and th
 
 ---
 
-That night, the five of them sat on the dock one last time.
+That night, Percy went to the Big House to return an equipment roster and found Clarisse arguing with a piece of paper.
 
-Not because they'd planned to. Not because anyone suggested it. Just because the argument had left them all needing the lake, and the dock was where you went when you needed the lake.
+She was alone at the long table, a lamp pulled close, with the roster between both hands. Her braid was coming undone, and the dark bruise on her wrist from the afternoon's sparring had been wrapped in clean cloth. She looked tired enough to insult the lamp.
 
-They were in the arrangement they'd earned and chosen and kept — Clarisse on the edge with her feet in the water, Silena on the planks with her legs dangling, Thalia on her back with her hands behind her head, Annabeth sitting with her knees up and her notebook closed on her shins, Percy in the middle of all of them.
+"Is the paper winning?" Percy asked.
 
-The lake moved under the dock. The stars came out. The camp went quiet. And the five of them sat together in the arrangement that wasn't a constitutional document, that wasn't a rule, that was just the shape they gave to the thing, and the thing was the thing, and the thing was enough.
+"Don't start."
 
-"You know what I keep thinking about?" Thalia said.
+He set his own clipboard down. There were names in two columns on Clarisse's sheet, one marked *arena* and the other *lake watch*. Several had been crossed out hard enough to tear the paper.
 
-"What?" Clarisse said.
+"What's wrong with it?"
 
-"About what Percy said. About how the arrangement isn't the thing. About how the thing is the thing."
+"Half the kids who volunteered for training switched to the lake watch after that ridiculous argument. They thought if they picked one, they were picking a side. Chiron told me to sort it out."
 
-"And?" Clarisse said.
+Percy recognized two names from the breakfast crowd. He'd seen the younger campers watching Clarisse and Thalia with the breathless excitement reserved for fights they didn't understand. He had laughed along at first. Now he looked at the ragged holes in the roster and wasn't amused.
 
-"And I think he's right. I think the thing is the thing. I think the thing is us sitting here together after we almost destroyed each other, and we're still here, and we're still us, and the arrangement is just — it's just the dock. It's just where we sit. It's not the sitting."
+"Could we ask them what duty they actually wanted?"
 
-"That's surprisingly wise for someone who almost set the pavilion on fire," Clarisse said.
+"We could. They're all at dinner."
 
-"I didn't almost set the pavilion on fire. I almost generated enough static to make somebody's hair stand up."
+"Then we can fix the sheet tomorrow."
 
-"That's the same thing."
+"I have to post it tonight."
 
-"It's not the same thing."
+A knock sounded against the open doorframe. Thalia was there, carrying a folded notebook and looking almost as displeased as Clarisse. Annabeth stood behind her with a box of spare pencils.
 
-"It's the same thing and you know it."
+"Chiron sent us," Thalia said.
 
-They were quiet for a moment. Then Thalia said, "I'm glad we argued."
+Clarisse held up the roster. "Wonderful. The opposing party has arrived."
 
-Everybody looked at her.
+"I'm not opposing you tonight."
 
-"Not about the dock. Not about the arrangement. Not about any of it. But about the thing under the thing. About the fear and the love and the protecting and the controlling. I'm glad we argued about that because now we know. Now we know what the argument was really about. And now we can do something about it."
+"You were opposing me at breakfast."
 
-"We can do something about it," Clarisse said.
+"I was. It was a bad idea to turn a seating argument into a public sport. I know."
 
-"We can do something about it," Silena said.
+Percy expected Clarisse to have something sharp ready. Instead she looked down at the paper. "I made it a sport too."
 
-"We can do something about it," Annabeth said.
+Thalia put her notebook on the table. The lists didn't match. Percy could see several people assigned to the same place at the same hour.
 
-"We can do something about it," Percy said.
+"Some of the younger campers offered to cover my watch because they thought Clarisse wouldn't want them on her patrol," Thalia said. "They didn't know I wasn't even in charge of this month's roster."
 
-The lake moved under the dock. The stars did their thing. And the five of them sat in the arrangement they'd earned and chose and kept, and the world was whole, and the world was theirs, and the world was enough.
+"You're not," Clarisse said. "I am."
 
----
+"I noticed."
+
+"Good."
+
+Annabeth leaned over the table. "Before either of you starts, can we separate the jobs from the people? There are two watches that actually need coverage, one group lesson, and a couple of campers who shouldn't be assigned alone. That's a logistics problem."
+
+Clarisse took the pencil Annabeth offered, but not the notebook. "I'll make the assignments."
+
+"You're the coordinator," Annabeth said. "I'm not trying to take that away."
+
+Thalia looked at the two damaged rosters. "My name shouldn't have been on the announcements. I can tell Chiron that."
+
+"Do," Clarisse said, and there was still an edge to it.
+
+The five of them worked with the lamps burning low and the camp outside settling into night. Silena arrived halfway through with a bowl of the last dinner rolls. She took one look at the lists, then pointed out that two siblings from Hermes had been scheduled for separate jobs despite having agreed to help each other carry the equipment. Clarisse changed that assignment. Thalia corrected the watch starting time; it had been copied from the previous season. Annabeth checked the number of people needed at each station. Percy recopied the page because Clarisse had broken the pencil point on the first draft.
+
+It took nearly an hour. Nobody made a speech. They also didn't manage not to argue.
+
+When Clarisse objected to putting one inexperienced camper on the south watch, Thalia said he'd volunteered. Clarisse replied that volunteering didn't give him the training. Thalia started to say something about control. Then she looked at the boy's name and the notes beside it.
+
+"You're right," she said. "Put him with me for the first watch. I can show him what to look for."
+
+Clarisse considered her. "If Chiron approves."
+
+"Ask him."
+
+"I will."
+
+Silena ate a roll and moved another toward Percy. "Progress. The two loudest people in camp just decided to consult the person actually in charge."
+
+"Don't write that down," Clarisse told her.
+
+"I don't need to. Annabeth has three copies."
+
+At last the clean roster lay on the table, with a note for Chiron identifying the assignments that still required his approval. The unconfirmed names remained unconfirmed. Annabeth would rather have a blank than a false certainty, and Percy knew she was right.
+
+Thalia stayed at the doorway when the others began carrying the pencils and rolls out.
+
+"About the dock," she said.
+
+Clarisse did not look up. "Which part?"
+
+"Where everyone has been sitting. I wasn't trying to order people around."
+
+"You did."
+
+"I know." Thalia's fingers tightened on the notebook. "I liked knowing Annabeth was beside me. And I acted like the place was mine to assign."
+
+Percy thought Clarisse might apologize in return. She didn't, not immediately.
+
+"I liked being the one who chose our side of the dock," she admitted at last. "When you moved things, I heard it like you were taking a place away."
+
+"I wasn't."
+
+"I know that now. I didn't then."
+
+The silence was long enough to be uncomfortable. Annabeth remained beside Percy, not hiding behind her sister and not volunteering to interpret her either.
+
+"We could leave the seats unassigned," she said.
+
+Clarisse snorted. "That's what a dock is supposed to be."
+
+Thalia smiled a little, though it didn't quite cover her embarrassment. "I might still sit next to you sometimes."
+
+"Sometimes you'll have to ask," Annabeth replied.
+
+Thalia considered her, then nodded. "All right."
+
+It wasn't an agreement that ended every argument. Percy knew better. Clarisse and Thalia would compete again, and neither would suddenly grow patient. But the roster had changed, the campers wouldn't have to choose factions to do chores, and Annabeth had been allowed to speak for herself without either older girl finishing the sentence.
+
+Outside, the path was cool under their shoes. Silena handed Clarisse the remaining roll and said she'd see her at the cabin. Thalia went toward Cabin One with Annabeth, taking the longer path because her sister wanted to stop by the drawing room. Percy accompanied Clarisse part of the way.
+
+"Was that so terrible?" he asked.
+
+"Yes," she said. "There was paperwork."
+
+He laughed. "Did it help?"
+
+"Ask me after tomorrow's watch."
+
+"Fair."
+
+At the cabin steps she gave him the roster copy for Chiron. She had written the names neatly this time, without crossing them out in anger.
+
+"Put that on his desk in the morning," she said. "And don't announce to everyone that the dock has been liberated."
+
+"Was it imprisoned?"
+
+"Percy."
+
+"All right. No announcements."
+
+She went inside. He stayed on the steps a moment, holding the paper, then turned toward the Big House to put it somewhere he wouldn't forget it before breakfast.
 
