@@ -6084,3 +6084,159 @@ He touched her hand. "You will."
 She turned toward him and kissed him slowly, letting the warmth of the moment remain what it was. There would be work to do tomorrow, letters to answer and perhaps a difficult choice before spring. Tonight they were here, together, and neither was trying to make the other's world smaller.
 
 ---
+
+## January 21: Snowed In
+
+The snow arrived while they were arguing about supper.
+
+Rhys wanted to cook. Thalia wanted to eat something that didn't require forty minutes of preparation and three rounds of complaints about the stove. They had reached an impasse over whether the last of the potatoes deserved to be made into an elaborate dish when the first flakes struck the window.
+
+Thalia turned.
+
+"That wasn't in the forecast."
+
+Rhys looked over her shoulder. "It is now."
+
+By the time the potatoes were on the table, the path outside had disappeared beneath a low white layer. The wind had shifted, sending snow sideways through the pines. The lantern at the bottom of the rise was barely visible. They could still have walked back to Cabin One, but it would have been uncomfortable and unnecessary.
+
+Thalia looked at Rhys.
+
+"Well."
+
+"Well," he said.
+
+She was already smiling. He looked at the path, then at the spare blanket folded at the foot of the cot.
+
+"You weren't planning to go home tonight anyway," he said.
+
+"I was keeping my options open."
+
+"A very important distinction."
+
+She took the plate he offered and sat near the stove. The potatoes were good. She told him they were merely acceptable, which he correctly interpreted as a compliment of unusual generosity.
+
+Outside the snow thickened. Inside the cabin the room grew warm, its smaller dimensions making the weather feel distant rather than threatening. Rhys had prepared for winter properly: wood stacked near the stove, the window seals checked, enough food for several days if the paths became impassable. Thalia had contributed to some of those preparations herself, although she had not expected to appreciate the work quite this personally.
+
+They ate slowly, listening to the wind.
+
+At one point Rhys looked toward the door.
+
+"What?" she asked.
+
+"I was thinking about whether the younger campers will have trouble getting to breakfast."
+
+"Clarisse will have them moving in groups. Percy will complain about the cold and help anyway. Annabeth will already have measured the safest path."
+
+He looked at her. "You sound certain."
+
+"I know them."
+
+She was surprised by the ease of the answer. A month ago she would have been halfway down the hill with a shovel before anyone could ask for help. Now she understood that there were people at camp who could manage a snowfall without her, and that trusting them was part of respecting their competence.
+
+Rhys reached across the table and took her hand.
+
+"Then we're staying here."
+
+"Looks like it."
+
+She squeezed his fingers. The thought pleased her more than she wanted to admit. An unplanned night had arrived, one neither had engineered as a test of affection. They were simply together, and the weather had made leaving a ridiculous proposition.
+
+After supper she helped him stack the dishes. The cabin was small enough that every movement brought them near each other. She caught the edge of his shirt as he passed, pulled him back and kissed him. He responded with immediate warmth, one hand settling at her waist while the other found the side of her face.
+
+"You were doing something," he murmured.
+
+"Washing a bowl."
+
+"Very important work."
+
+"Somebody has to finish it."
+
+"It can wait."
+
+She smiled. "At last, a useful opinion."
+
+The kiss began again. She enjoyed the way he leaned into her, his familiar eagerness still capable of making her forget whatever she'd intended to say. The fire had warmed the room enough that she no longer noticed the cold in her hands. Outside, snow was building against the shutter. Inside, the ordinary closeness between them took on a quieter intensity, sharpened by the pleasure of knowing they had nowhere to hurry.
+
+She drew back and caught his collar.
+
+"You've got flour on you."
+
+"From supper."
+
+"You were making potatoes."
+
+"There's bread in the oven."
+
+She stared at him. "You made bread too?"
+
+"I had time."
+
+"An alarming development."
+
+He laughed and kissed her again. She liked the sound against her cheek, the moment when his composure gave way to amusement and then to something more intent as she moved closer. They had spent weeks learning how to be affectionate without making every movement a statement about their future. Tonight they didn't need to discuss the future at all.
+
+They finished the dishes eventually, though it took longer than the work deserved. By then the snow was thick enough that the lanterns below the ridge had vanished entirely.
+
+Rhys closed the shutter and checked the stove. Thalia folded the blankets, then turned and found him looking at her.
+
+"What?"
+
+"Nothing."
+
+"You're doing it again."
+
+"What?"
+
+"Looking as if you're about to say something sentimental."
+
+He smiled. "I like being snowed in with you."
+
+She pretended to consider.
+
+"The feeling is tolerable."
+
+"High praise."
+
+She crossed the room and kissed him, the kiss turning into another before she was ready to let him go. His hand found the back of her neck. She smiled, then drew him nearer.
+
+They had spent so much of the winter looking for moments when they could be alone. Tonight there was no need to search. The room belonged to them for as long as the snow held the path, and they let the evening unfold without watching the clock.
+
+Later the lamp went low. They stayed close beneath the blankets, their conversation fading into the comfortable silence of two people who had stopped feeling the need to fill every minute. The night remained private.
+
+***
+
+In the morning, the cabin was half buried.
+
+Thalia discovered this when she opened the door and found a shallow wall of snow against the threshold. She stared at it, then looked over her shoulder at Rhys.
+
+"Your cabin is defective."
+
+"Naturally."
+
+"The snow is inside."
+
+"Only because you opened the door."
+
+"Very poor design."
+
+He came over with a broom and began pushing the snow back outside. Thalia helped, laughing when the first sweep sent a flurry of white across his boots. The work was cold and unpleasant, but they made quick progress. By the time the path was clear enough to walk, both were out of breath and grinning.
+
+"Breakfast?" he asked.
+
+"After we check the lower cabins."
+
+He nodded. Neither had forgotten the people who might need help. They had simply allowed themselves a night when those responsibilities belonged to someone else.
+
+They walked down the hill together, boots crunching through fresh snow. At the cedar brake the path opened onto a broad field of white, crossed by the first tracks of campers heading toward the pavilion. Thalia could see the lanterns again, their glass dark beneath the morning light.
+
+Rhys took her hand. She squeezed it, then let go when they reached the busy path.
+
+"See you after breakfast?" he asked.
+
+"I'll be there."
+
+She kissed him quickly, in full view of anyone who happened to look up. Then she turned toward Cabin One, the cold sharp against her cheeks and the warmth of his company still with her.
+
+The night had been theirs. The morning belonged to everyone. She liked being able to move between the two without feeling she had abandoned either.
+
+---
