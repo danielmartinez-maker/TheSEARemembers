@@ -562,6 +562,88 @@ Thalia glanced at her, then smiled crookedly. "When did you get wise, Beauregard
 
 ---
 
+At the finishing bench, Silena was trying to decide what she wanted to make.
+
+She had begun the morning intending to help everyone else. Clarisse had a spearhead, Annabeth had an architectural model, and Thalia was working on the pieces her sister couldn't heat safely. Percy had been assigned a useful station beside the quench tank. Silena had taken the leftover brass strip because she didn't want to admit she hadn't thought of a project of her own.
+
+Now the surface had been filed smooth, and she could see the faint reflection of her face in the metal. She had no plan for what it would become.
+
+Beckendorf stopped beside her.
+
+"How's the finish?"
+
+"Better. I had to take more off than I expected to remove the scratch."
+
+"That's normal. You did it evenly."
+
+She nodded. Praise was pleasant, but she wanted to know what to do with the piece afterward.
+
+"Could I make a clasp?" she asked.
+
+"For what?"
+
+"A travel journal. Something that closes securely when it's in a bag and can be opened without damaging the cover."
+
+He looked interested. "Do you have the measurements?"
+
+"Not yet. I brought the journal, but I thought I should make the metal piece before deciding exactly where to put it."
+
+"Then you're doing the steps backward."
+
+She laughed. "Apparently."
+
+He gave her a measuring rule and a small sketchbook. Silena fetched the journal from her bag and laid it on the table. The cover was thick enough to take a small fitting near the edge, but she'd have to account for the thickness of the pages if she wanted the clasp to close when the book was full.
+
+"Can I measure it with paper inside?" she asked.
+
+"Yes. Use a stack the same thickness as the number of pages you expect to add. The clasp should work when the journal is full, not only today."
+
+They made a mock-up from a strip of cardboard. The first version covered part of the title she'd painted on the cover, which Silena disliked. The second sat lower but would catch on the edge of the bag when she packed it.
+
+She began to understand why Annabeth spent so long drawing things before building them. A design existed within the life someone intended to live with it, not only as an object on a workbench.
+
+She chose a narrower clasp with a rounded edge. Beckendorf showed her how to mark the bend before working the brass and asked her to test the movement on scrap.
+
+The first hinge was too stiff. The second moved easily but slipped out of alignment when she opened the cover. She adjusted the position and tried again.
+
+While she worked, Clarisse came over to examine it.
+
+"What are you making?"
+
+"Something to hold my journal shut."
+
+"You could use a string."
+
+"I could. I want to learn how to make this."
+
+Clarisse considered that. She had never understood why Silena spent so much time making ordinary belongings look attractive. But she'd spent the morning shaping a training weapon because she wanted to learn the technique, not because camp lacked spears. She recognized the same impulse.
+
+"Then make it strong enough to survive my packing," she said.
+
+"I'm not letting you pack it."
+
+"Good. You'd complain about how I folded everything."
+
+She went back to her station. Silena continued working, pleased that the exchange hadn't become a lecture about how much more useful weapons were than journals.
+
+By early afternoon, she had a working clasp. It wasn't especially polished, and the hinge needed another adjustment. She showed it to Beckendorf, who tested the opening and closing motion several times.
+
+"You've learned the hard part," he said. "Now finish the edges so they won't catch on fabric. Then you can attach it when the cover is ready."
+
+Silena looked at the little object in her hand. She had spent most of the day helping other people, and this was hers. She imagined the journal on her winter visit, its pages filled with train tickets, letters and sketches of places she hadn't seen yet. She wanted the clasp because she'd made it, not because it was the finest available.
+
+"Thank you," she said.
+
+"You're welcome. You'll want to make another one once you see how this wears."
+
+"Probably."
+
+She went back to filing. She was becoming fond of the rhythm, which surprised her. The metal didn't care whether she was good at taking care of people. It demanded attention to its own shape and the patience to correct something that hadn't worked. She could enjoy being useful to others and still want to acquire a skill for herself.
+
+
+
+---
+
 By noon, the forge was an inferno and Annabeth was in heaven.
 
 The base frame was brazed solid. Twelve columns stood in clay mock-up, soon to be fixed permanently. She'd cut the architrave strips — the beams that would sit on top of the columns — and was fitting them one by one. Thalia held, Annabeth heated, the filler flowed. They'd developed a rhythm: flux, clamp, heat, feed, cool, check. Flux, clamp, heat, feed, cool, check.
