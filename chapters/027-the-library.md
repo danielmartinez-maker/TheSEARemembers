@@ -793,3 +793,99 @@ Across the table Thalia noticed a photograph propped beside Annabeth's cup.
 "Annie."
 
 Annabeth put the photo in its paper sleeve, then tucked the sleeve into the folder labeled *Grace family, camp years*. Thalia watched her write the date properly. Only then did she go back to her meal.
+
+---
+
+Two days after the sorting session, Ella noticed that someone had filed her notes under the wrong author's name.
+
+The mistake was understandable. She had written the first index cards on the back of an old reference sheet, and the stamp at the top belonged to a compiler who had cataloged the collection decades earlier. The volunteer who copied the descriptions into the new master list had assumed the words on the other side belonged to the same person.
+
+Ella stood before the list with her feathers lifted in outrage.
+
+"Those are Ella's words."
+
+The volunteer looked up. "What?"
+
+"The entry about the paper sleeves. Ella wrote that entry. The old compiler didn't know which pages were wet."
+
+The volunteer studied the sheet. "I was only copying what it said."
+
+"That's the problem," Ella replied. "Copying without looking."
+
+She had spent her life remembering other people's books. People liked it when she quoted a passage or supplied a date somebody had forgotten. It was less common for anyone to consider that she might be writing something useful herself. The difference mattered to her more than she expected.
+
+She found Annabeth by the architecture table and showed her the entry.
+
+Annabeth read it carefully. "You're right. The catalog has the old name listed as the author."
+
+"Wrong. Wrong author. Wrong date."
+
+"Then we'll correct it."
+
+Ella waited. She wasn't certain she wanted another person to fix her work on her behalf.
+
+"Can Ella make the correction?" she asked.
+
+Annabeth thought about it. The archive needed a reliable change record, especially after the confusion they'd caused by moving objects too quickly. But Ella was one of the people responsible for the catalog, and she had the evidence needed to make the correction.
+
+"Yes. We should record both what it said and what it should say, so nobody thinks the original entry has been erased."
+
+Ella was pleased. They went downstairs together and retrieved the first draft of the note. It had a date and Ella's little feather mark in the corner. She compared it with the index, then wrote the correction in the ledger.
+
+*Entry copied under former compiler's name. Description written by Ella, archive assistant. Original note dated Saturday.*
+
+The volunteer read it and apologized. Ella accepted the apology but asked him to check the author marks on the next batch before transferring the descriptions.
+
+He agreed. It was a small exchange. To Ella, it felt like one of the few times she had been asked to defend her own words instead of repeat someone else's.
+
+Later Grover found her examining the corrected card.
+
+"What's wrong?"
+
+"Nothing. Ella wrote this."
+
+"Good. You write things all the time."
+
+"People usually ask Ella to remember things."
+
+Grover looked at the index. The correction had her name in a space that used to hold someone who'd worked here long before she arrived.
+
+"Then maybe you can write more," he said.
+
+Ella considered. She liked remembering the books because the words felt safe when she could hold them exactly. Writing something new involved choices she couldn't blame on any author if she got it wrong.
+
+"Would anyone read it?" she asked.
+
+"I would."
+
+"Grover reads anything with pictures."
+
+"That's slander."
+
+"It's also true."
+
+He grinned. "Then draw pictures if you want. Doesn't mean they have to be for me."
+
+Ella looked at the blank sheet on the desk. She could write an account of the library as she'd found it: the leaning ladder, the missing labels, the photographs Thalia wanted kept private, and the way Percy sneezed every time he opened a dusty box. She could write about what she'd learned from the other volunteers. Those were things no ancient compiler had known.
+
+She took the sheet and wrote the title *The day we began fixing the archive*. Under it, she wrote *By Ella*.
+
+Grover sat beside her while she worked. He didn't tell her which story to write. When she needed a word, he offered one. When she wanted to quote a book, he reminded her to mark the quotation so readers would know where it came from.
+
+She wrote for nearly an hour. Her sentences weren't all tidy, and some repeated a word because she liked the sound of it. Annabeth read the draft afterward and asked whether Ella wanted help making it easier for someone who hadn't been there to follow.
+
+"Yes," Ella said. "Not different. Easier."
+
+Annabeth moved two paragraphs, clarified the date and left the voice intact. She didn't turn the story into a formal report. The report already existed. This was Ella's account of the day.
+
+Ella signed the final copy and placed it in a clean folder with her own name on the front. The library could keep it if the archivist approved the new accession. She would keep the draft herself.
+
+When Chiron came to review the day's work, he read the first page, smiled and asked her if she'd like to continue keeping a record of the archive project.
+
+Ella considered. She liked the idea. She also wanted time to read novels and help Grover with his songs.
+
+"Once a week," she decided. "Ella will write once a week."
+
+Chiron agreed. He didn't tell her she needed to become a historian or that her memory made her destined for the work. He asked her to write the account she wanted to write and sign her name to it.
+
+Ella put the new folder beside the old records. She had come to the library because she loved what other people remembered. She was beginning to understand that the things she noticed could be worth preserving too.
