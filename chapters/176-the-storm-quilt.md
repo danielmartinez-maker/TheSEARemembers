@@ -500,7 +500,32 @@ Then, because four lines were four lines and it was Thursday and the frost was c
 
 *Also you should know that I only got one of the two seconds and I have it.*
 
-She put the pencil behind her ear and closed the book and held it for a second against her knees, and then she got up and went inside past the windowsill where the granite stone sat with its words on it, where it had lived since the week her sister came home, and she put the field book on the table by the door so she would not forget it, and went to find a second layer, because it was Thursday, because it was going to be cold, and because she intended to be standing on that ridge on Saturday, in the wind, with her family, writing down what was actually there.
+She put the pencil behind her ear, closed the book, and tried to stand. The first attempt failed because her bootlace had caught under the chair leg. She freed it, gave the chair an irritated shove, and picked up the rope bag from beside the door.
+
+Thalia passed through the room on her way to the washbasin. She stopped when she saw the bag.
+
+"That's for Saturday."
+
+"I know."
+
+"It's Thursday."
+
+"I know that too."
+
+Thalia looked down at the neatly coiled rope and the little packet of survey stakes. "Have you checked any of it?"
+
+"All of it. Twice."
+
+"Then you can show me tomorrow. I'm not carrying a coil with a bad splice up a wet ridge."
+
+Annabeth was about to tell her the splice was fine. Instead she thought of the rain hammering the windows during the storm and how confidently she'd written NO GUESSING in the letter. The rope looked fine in the dry cabin. That was not the same as having tested it under load.
+
+"Tomorrow," she agreed. "And I want to look at the weather before we decide the route."
+
+"Finally, a plan I can argue with properly."
+
+Thalia disappeared down the hall. Annabeth laid the bag on the bench instead of taking it to bed with her. On the wall the granite stone caught the lamplight, its lettering worn where hands had touched it since Thalia came home.
+
+There would be time to check the rope and the weather. If the seep was running, they'd measure it; if not, the blank on the map could stay blank until they had evidence. She found the second layer she'd promised herself, put it with the bag, and went to wash up before the cabin lamps went out.
 
 ---
-
