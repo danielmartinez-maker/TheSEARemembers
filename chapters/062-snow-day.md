@@ -242,6 +242,106 @@ Grover patted her wing. "A little of both, Ella. A little of both."
 
 ---
 
+The first real problem happened before the snowball fight.
+
+Milo came running from the cabin rows with a coil of rope over one shoulder and a wool hat that had slipped down over both eyebrows. He stopped on the Big House steps, caught his breath and looked around for Chiron.
+
+"Cabin Ten's shutter is holding," he said. "But the roof above the storage room is collecting too much snow. Somebody needs to check it before the drifts get heavier."
+
+Percy put down his cider. He remembered the shutter. He'd helped repair it in September, before he learned how quickly a small crack could become a winter problem.
+
+"Didn't we fix that?"
+
+"The shutter," Milo said. "Not the roof. They're different parts of the building."
+
+"Right."
+
+Chiron asked where the weight was concentrated, then summoned the older Hephaestus campers who were qualified to inspect the structure. The younger children were told to stay away from the wall below the drift until the adults had confirmed it was safe.
+
+Clarisse was already reaching for a shovel.
+
+"Tell me where to dig," she said.
+
+"Not the roof," Milo answered. "You'd damage the shingles. We can clear the path and the low eaves, but we need a professional inspection before anybody climbs."
+
+Percy looked at the snow spreading across the camp. He wanted to be helpful. For a moment he'd imagined lifting a great wave of water and pushing the snow away. Then he pictured icy water running into the storage room and freezing against the foundation.
+
+"Water would make it worse, wouldn't it?"
+
+"Much worse," Milo said, with feeling.
+
+Annabeth came forward and studied the roof line from the ground.
+
+"The snow's drifting against the taller building," she said. "Wind comes across the open green, hits the wall and drops its load on the lower section."
+
+"So the problem isn't just how much falls," Percy said. "It's where it ends up."
+
+"Exactly."
+
+Chiron approved a small work party to clear the walkway and move movable supplies away from the affected wall, while Hephaestus staff made the roof safe. It didn't cancel snow day. It delayed a few games, which the Stolls described as an appalling injustice until Clarisse handed them shovels.
+
+Percy joined the work party, boots crunching in fresh snow. Milo showed him where to pile cleared snow so it wouldn't block drains or create another drift. Grover helped guide a pair of younger satyrs carrying boxes of cabin decorations away from the storage room. The boxes weren't particularly valuable, but they belonged to campers who expected to find them next spring.
+
+A yellow box split open on the path. Out spilled a dozen painted wooden stars and a paper chain whose glue had come apart.
+
+"That's Katie's," one of the satyrs said miserably.
+
+Percy gathered the stars while Annabeth retrieved the chain before the wind caught it. The decorations were wet, but they hadn't been destroyed. They carried everything to a dry table beneath the Big House porch.
+
+Tyson tried to help with the largest shovel. Its handle snapped on the first scoop.
+
+He looked so ashamed that Percy nearly laughed, then thought better of it.
+
+"It's a small shovel," Percy said. "You have large hands."
+
+"I should have remembered."
+
+"Here." Milo gave Tyson a broad plastic snow scoop and showed him how to push rather than lift the heavy drift. "This one will hold."
+
+Tyson tried it. The scoop glided across the path, carrying a wide sheet of snow without breaking.
+
+"Better," he said, delighted.
+
+By the time the path was clear, the Hephaestus staff had inspected the roof and started a careful removal of the concentrated drift using suitable equipment. Chiron kept the storage room closed until they were finished. There was no heroic rescue, no cracking beams and no roof falling down. That was the intended result.
+
+Percy was glad.
+
+As they walked back toward the porch, Annabeth pointed to a small heap of snow he'd left beside the drain.
+
+"That needs moving."
+
+"It's only a little."
+
+"When it melts, it'll flow into the path and freeze overnight."
+
+Percy looked at the drain. He'd been so pleased to finish shoveling that he hadn't thought about what happened afterward.
+
+He moved the heap.
+
+Milo thanked him, then promised to put the roof on the summer inspection list. Percy remembered the conversation they'd had in September about why small problems got ignored. The answer hadn't changed. People were busy, and the consequences arrived later.
+
+Chiron emerged from the Big House once the storage room was safe.
+
+"Now," he said, "the snowball competition may proceed."
+
+A cheer went up. Percy felt the kind of satisfaction he usually associated with winning a fight. Only this time the victory was an undamaged building and a pile of ornaments drying near the stove.
+
+"Not much of a quest," Clarisse said as they reached the playing field.
+
+"Best kind," Milo replied.
+
+Annabeth smiled at him, then looked down at Percy's gloves.
+
+"Your fingers are wet."
+
+"I was shoveling."
+
+"Then change them before throwing snowballs. Frozen fingers make terrible decisions."
+
+Percy started to argue that he could manage the cold. He remembered the swollen wood on Cabin Ten's shutter and went back to his bunk for dry gloves instead.
+
+---
+
 The field between Cabin Three and Cabin One had never looked like a battlefield before.
 
 It was perfect for it. Flat, wide, white, with low drifts for cover. Hay bales and overturned canoes made bunkers. A center line had been stomped into the snow.
