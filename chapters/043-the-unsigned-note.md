@@ -366,7 +366,7 @@ He returned from swimming lessons, hair dripping, to find her on his bunk with a
 
 Percy sat. Clarisse had evening patrol and would be gone an hour. Lucky.
 
-"Ella told me about the library," Silena said. "She thought I already knew, and mostly I did, and she made me promise on the porthole windows. I am not mad. I am impressed you avoided Thalia this long. Thalia notices everything."
+"Ella told me about the correspondence tray," Silena said. "She knows I guessed you were writing notes, and she asked only about how to keep the paper dry. I am not mad. I am impressed you avoided Thalia this long. Thalia notices everything."
 
 Percy swallowed. "Are you going to tell me to stop?"
 
@@ -407,6 +407,114 @@ Percy stared. "How do you know all these?"
 "It was a good rhyme," Percy muttered, smiling until his face hurt. He hugged her tight when she opened her arms, smelling beeswax and salt. "Thank you."
 
 "Anytime," Silena said. "Wash your face before Clarisse thinks you have a disease."
+
+---
+
+The new wax seals made Percy feel like he ought to write something worth sealing.
+
+For the first three days he produced nothing at all. He'd sit on his bunk with a piece of white paper, think of Annabeth laughing at the amphitheater, and begin a sentence that looked absurd the moment he saw it. Every time he tried to rhyme, the line became something he wouldn't have said aloud. He crossed out more words than he kept.
+
+Silena found the scraps when she came to retrieve a spool of thread from the sewing box.
+
+"Having trouble?"
+
+"No."
+
+She pointed to the little heap beside his foot.
+
+"That's a fairly convincing no."
+
+He picked up a page before she could see it. "I've written poems before."
+
+"I know."
+
+"These are worse."
+
+"Then don't write a poem."
+
+Percy stared at her. "But that's our thing."
+
+"Is it? She sent you a training diagram last week."
+
+"With an owl."
+
+"Then draw something. Or write one sentence. You don't have to perform a certain version of yourself just because you did it first."
+
+He looked at his pencil. Reading ordinary English had never been as easy for him as it seemed for other campers. Ancient Greek made more sense in his head, its forms and sounds familiar even when he couldn't explain why. He'd learned ways to check his own spelling, but writing a little note that mattered to him felt harder than writing a page for history class. He couldn't blame the classroom's noise or his nerves about a quiz. This was something he wanted to do.
+
+"Could you look at one?" he asked.
+
+"Only if you want me to."
+
+He handed her the least terrible page. The handwriting wandered down the margin. There were three crossed-out versions of the same sentence, followed by a drawing of a boat in a storm. Silena read slowly.
+
+"'I liked that you waited for me when I messed up the tie-off at the dock.' That's good."
+
+"It doesn't rhyme."
+
+"So?"
+
+"It sounds like a thank-you note."
+
+"Maybe you wanted to say thank you."
+
+Percy considered that. Annabeth had waited while he failed to tie a knot properly, even after the instructor had corrected him twice and his face had turned red. She hadn't done it because she thought he was impressive. She'd stayed because he asked her to practice with him. He was grateful in a way he hadn't managed to say.
+
+"I can send that?"
+
+"Of course."
+
+He looked suspicious. "You're going to make a joke about it."
+
+"Probably not to Annabeth."
+
+"Silena."
+
+She laughed and sat beside him. "I won't repeat the words to anyone else. If you want spelling help, I'll help with spelling. The note's yours."
+
+He drew a line through the abandoned rhymes and copied the sentence onto a clean square. Then he added *I was embarrassed, and you didn't make a thing of it*. It took him several attempts to fit the words without crowding them. Silena showed him how to fold the paper so the writing wouldn't rub against the wax.
+
+When the seal cooled, he held it up to the light. The blue circle wasn't centered, but the wave had come out clearly.
+
+"You did it," she said.
+
+He grinned. "I did."
+
+Clarisse came through the door a moment later carrying a damaged spear strap. Percy tucked the note into his pocket. She looked from him to the sealing box.
+
+"Why does it smell like a candle shop?"
+
+"Because Silena's teaching me a craft."
+
+Clarisse examined the strap in her hand. "Good. Then maybe you can fix this."
+
+Percy took it and saw that one of the old loops was splitting. He knew enough from the forge to recognize it needed an inspection before somebody used it again. He told her so. Clarisse grumbled, but put the strap aside to take to the armory.
+
+Silena watched them. It pleased her to see Percy ask for help with words and then offer help with a practical problem without pretending either skill made him better than his sister.
+
+When Clarisse left, Percy unfolded the note one last time to check the ink hadn't smudged. It was still there, plain and direct.
+
+"She might think it's boring," he said.
+
+"Then she'll tell you what she thinks."
+
+"She doesn't lie to me."
+
+"No."
+
+He smiled at the page. He liked that about Annabeth even when she corrected his maps and argued with him about the most efficient way to stack paddles. He put the note into a clean envelope and marked the outside with a small P.
+
+At the library the next morning, he saw that the correspondence tray was open. Ella was working at the catalog table and barely looked up when he placed the envelope inside.
+
+"Good morning, Percy."
+
+"Morning."
+
+"Library notes go in the tray. Books stay in books."
+
+"Yes, ma'am."
+
+Ella smiled. She'd learned the rule well enough not to repeat it every time somebody came in. Percy went to class feeling nervous about whether Annabeth would like the note, and relieved that he no longer had to make every word into a rhyme.
 
 ---
 
