@@ -588,6 +588,120 @@ Annabeth closed her notebook with a snap. "Finally. Took him long enough."
 
 ---
 
+Tyson was waiting outside Cabin Three when Percy returned from the hill. He had a roll of paper tucked under one huge arm and a bundle of wooden offcuts tied with string in the other hand.
+
+"I need your opinion," he said.
+
+Percy looked toward the cabin door. "Is something broken?"
+
+"Not yet."
+
+"That's reassuring."
+
+Tyson spread the paper over the porch railing. It was the latest drawing of the foldaway guest bunk, the one they'd discussed the day before at the palace. He'd corrected the hinge line so it wouldn't strike the window latch. The new design also included a small storage space beneath the mattress, not for swords or trophies but for ordinary things: socks, tools, a spare book.
+
+"That wasn't on the first plan," Percy said.
+
+"Guests need places for their things. I have things."
+
+"You can keep things here."
+
+"Sometimes." Tyson tapped the drawing. "Not when I am in Atlantis. Somebody would move them."
+
+Percy was about to say none of his sisters would do that without asking, then realized how many times they'd reorganized the cabin between one visitor's arrival and the next. The room belonged to its daily occupants. That didn't make Tyson's belongings unimportant. It meant a visiting brother needed a plan that worked even when he wasn't there to argue for himself.
+
+"Could we give you one shelf?" Percy asked.
+
+Tyson's eye brightened. "A shelf that stays mine?"
+
+"If the others agree."
+
+He could have made the promise unilaterally. He was the younger prince of Atlantis and a son of Poseidon; people had accepted far stranger declarations from him. But Clarisse and Silena actually lived here. Percy didn't get to dispose of their space without asking, even for a brother he loved.
+
+They carried the drawing inside. Clarisse sat at the worktable sharpening a practice blade; Silena had the pattern for her new coat laid out beside a bowl of pins. Percy asked whether they could clear one shelf for Tyson and build the guest bunk to fold against the wall when unused.
+
+"Which shelf?" Clarisse asked.
+
+"The one by the fountain."
+
+"That's where I keep the armor oil."
+
+"We could move that," Percy said.
+
+"To where?"
+
+Tyson laid out the offcuts and showed them how the new hinge would free enough floor space for a narrow cabinet. The cabinet could hold Clarisse's oil and Silena's extra sewing boxes while leaving the upper shelf for the guest who returned from the forge. He hadn't just designed a bed. He'd measured what each person already needed.
+
+Silena leaned over the plan. "That space is too narrow for my largest box."
+
+Tyson checked the width, then amended it. He looked pleased by the correction.
+
+"Could you put a lock on the guest drawer?" Clarisse asked.
+
+Percy looked up. "For Tyson?"
+
+"For anyone using it. If somebody visits for two nights, I don't want a Hermes prank turning their socks into banners."
+
+"I can make a latch," Tyson said.
+
+"Make it one that can be opened from the inside," Silena added. "If anyone gets curious and climbs into the storage space, I don't want them trapped."
+
+Tyson considered. "Good. I will make one."
+
+The four of them talked until the room was full of the sounds of pencil, measuring tape and small arguments. Percy found that he liked being the person who held the ruler while somebody else drew. Tyson knew more about the strength of the hinges; Clarisse knew how the room worked when half the occupants were rushing out for drills; Silena knew what it meant to lose a worktable under somebody's armor. No single opinion solved the problem.
+
+At one point Tyson proposed raising the bunk higher than Percy's head. Clarisse asked how anyone was supposed to climb into it. Percy offered to use a ladder. Silena pointed out that the ladder would block the door. Tyson laughed, erased the high line and put the bunk back where an ordinary person could reach it.
+
+When they'd settled on a version worth testing, Percy offered to take it straight to the forge.
+
+"Not yet," Clarisse said.
+
+"Why?"
+
+"Chiron has to approve changes to the cabin. We can't just bolt a new bed into the wall because it looks good on paper."
+
+Tyson nodded without disappointment. "I can build a small model first."
+
+"That's a better plan," Silena said.
+
+They agreed that the model could be tested on the porch without attaching anything to the cabin itself. Percy would ask Chiron for a review, but Tyson would present the design. It was his work, and Percy didn't need to stand beside him pretending it was a princely commission to make people take it seriously.
+
+Later Tyson rolled up the paper. His visit was due to end the next morning, when the undersea escort returned him to the forges. He would take the measurements with him and build a prototype there. The bunk would not exist merely because Percy wanted it to. It would take time, and the people who had to use it would have to agree.
+
+"Are you sad?" Tyson asked him as they returned the offcuts to their bag.
+
+"A little. I wish you could stay longer."
+
+"I like the forges."
+
+"I know."
+
+"I like visiting too."
+
+"I know that, too."
+
+Tyson pressed a broad palm to Percy's shoulder. "Then I can like both things."
+
+Percy smiled. He had spent the past year learning to live with two homes and more family connections than he could count. It should not have surprised him that his brother wanted the same freedom, on his own terms.
+
+"Will you send the model when it's ready?" he asked.
+
+"Yes. You can test it. Do not sit on the hinge."
+
+"Wasn't planning to."
+
+"You sat on the first one."
+
+"It looked like a bench."
+
+"It said hinge."
+
+"Very small letters."
+
+Tyson roared with laughter. Silena looked up from her sewing and warned them not to shake the table. Percy helped gather the last pieces of wood and swept the sawdust from the floor before Clarisse could accuse him of leaving another project unfinished.
+
+When he went out again, he had a date written beside Chiron's name on the cabin notice board. His birthday had become a day when other people's plans mattered as much as his own. He didn't feel cheated by that. It made the place more like a home.
+
 The day had one last chore for Percy.
 
 At the equipment shed, Clarisse found him putting away the practice shield he'd used that morning. The strap had a torn stitch near its edge. He might not have noticed it if she'd let him hang the shield immediately.
