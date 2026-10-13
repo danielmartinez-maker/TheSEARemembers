@@ -485,6 +485,36 @@ The old photograph hung on the cabin wall. She could place a copy in the new boo
 
 ---
 
+Before the last guests left, Annabeth discovered that somebody had moved her birthday drawing.
+
+It was a small plan of the west garden, the one she'd made after noticing the gap between two terraces. She'd set it beside her gifts, and now it was propped at an angle near the candles where a curious camper could see it. The pencil line she'd drawn to indicate the closed section looked, at a distance, like an open trail.
+
+"Who put this here?" she asked.
+
+Thalia looked over. "I moved it so nobody would spill juice on it. Sorry."
+
+"You didn't know what it showed."
+
+"No."
+
+"It's not a finished public map." Annabeth took it down and tucked it into her folder. Her tone had gone sharp. She could hear it herself.
+
+Thalia looked at the guests and then at her. "I was trying to keep it safe."
+
+"I know. But I would rather you ask before moving my work."
+
+"Fair." Thalia folded her arms, visibly stung. "I'd also rather you tell me what needs to stay private than expect me to read your mind."
+
+Annabeth wanted to defend herself. On her birthday, especially, she wanted one day without feeling she had to explain every decision. But Thalia wasn't wrong.
+
+"I should have labeled it," she said. "I'll do that."
+
+"And I'll ask." Her sister's smile was small. "Can I help put away the rest of the drawings?"
+
+"Yes. The finished ones."
+
+They sorted the pages together, placing the public sketches in one pile and the working maps in another. There were still candles to blow out and presents to open. Annabeth was glad the disagreement had not been swallowed for the sake of a perfect party; it had been dealt with, and could stay dealt with.
+
 Percy waited until the cake had mostly vanished and the crowd had dissolved into smaller clusters before offering his gift. Beneath his chair he had kept a flat envelope all evening. Twice Annabeth had seen him check that it remained.
 
 "This is yours," he said. "I made it. Well, I drew it. I didn't manufacture the paper."
