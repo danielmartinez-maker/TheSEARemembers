@@ -4,9 +4,9 @@ Percy knew they had reached Los Angeles because the air stopped smelling like an
 
 It was late in the day and the light was white and flat. The highway stretched out in six lanes in each direction and every lane was full. Cars sat bumper to bumper under a pale haze. Palm trees lined the frontage road, dusty and tired. Billboards rose over the traffic, advertising movies and lawyers and a water park that promised cool fun. The heat came up off the asphalt in waves and made the whole city shimmer.
 
-Thalia drove with both elbows locked. Her black hair was pulled back in a ponytail and sweat stuck the short pieces to her neck. Her silver circlet was pushed up on her head like a headband. She kept checking the mirrors and muttering under her breath.
+Martin drove with both hands on the wheel. Her black hair was pulled back in a ponytail and sweat stuck the short pieces to her neck. Her silver circlet was pushed up on her head like a headband. She kept checking the mirrors and muttering under her breath.
 
-"If one more guy cuts me off, I am going to call down lightning on his bumper," she said.
+"If one more guy cuts us off, I am going to ask Chiron why he thought the roads were safer than the monsters," Thalia said from the front passenger seat.
 
 "Please do not," Annabeth said from the passenger seat. She had the map folded open on her knees and a tourist guide to Los Angeles tucked under it. She looked pale and tired, but her eyes were sharp. "We are close. We do not need a police chase on top of the Underworld."
 
@@ -14,11 +14,11 @@ Grover sat in the back next to Percy with his backpack on his lap. His horns wer
 
 "This city smells wrong," he said. "Like hot metal and old flowers and dry dirt. I cannot smell any happy grass. I cannot smell any goats at all."
 
-"There are no goats in LA," Thalia said.
+"There are goats in Los Angeles somewhere," Thalia said. "They just have the sense to stay out of this traffic."
 
 "There should be goats everywhere," Grover said. "That is the problem."
 
-Percy sat with his forehead against the window. His t shirt stuck to his back. Riptide was in his pocket in pen form, heavy and warm. The backpack at his feet held the bolt, or what was left of their lead on the bolt, wrapped in an old denim jacket. His mother Sally had died when he was two in this history. Hades ruled the place where her spirit had gone. Every mile closer to LA had made that feel more real and more heavy.
+Percy sat with his forehead against the window. His t shirt stuck to his back. Riptide was in his pocket in pen form, heavy and warm. The backpack at his feet held a copy of the courier records and their notes about the missing bolt, wrapped in an old denim jacket. The weapon itself was still missing. His mother Sally had died when he was two in this history. Hades ruled the place where her spirit had gone. Every mile closer to LA had made that feel more real and more heavy.
 
 He thought about the last phone call and the cold voice on the other line. He thought about his mom making blue pancakes in their small kitchen and laughing when he burned the edges. He pushed the window down an inch and let the hot air hit his face.
 
@@ -34,11 +34,62 @@ Grover shivered. "I do not like that."
 
 The exit ramp curved down into a street lined with low shops and tall fences. A taco truck sat on the corner with music playing. A man washed a sidewalk with a hose and the water ran brown into the gutter. The sun beat down hard enough to make Percy squint.
 
-Annabeth directed Thalia turn by turn. Left on La Brea. Right on a smaller street. Past a car wash. Past a building covered in a mural of a singer with huge eyes.
+Annabeth directed Martin turn by turn. Left on La Brea. Right on a smaller street. Past a car wash. Past a building covered in a mural of a singer with huge eyes.
 
 "There," Annabeth said quietly.
 
 Percy sat up.
+
+The drive after the Lotus had not been silent, exactly. Martin kept checking the temperature gauge and asking for directions; Grover kept reminding himself that real roadside grass was ugly but alive. What Percy remembered most was the way the hotel had stayed in the corner of his mind after it disappeared from the mirrors.
+
+At a safe service stop west of the city, they delivered Eva to a trusted nymph contact. The former hotel employee asked Annabeth for a copy of the notes she'd taken just outside the Lotus.
+
+"I don't know whether my family thinks I'm missing," Eva said.
+
+Annabeth had held the pages carefully while the contact checked that the dates matched the receipts Martin had kept. "These are your words. We don't know everything yet. That doesn't mean you have to guess."
+
+Eva looked toward the van. "You aren't coming back with me?"
+
+"We have to keep going," Percy answered.
+
+She nodded without arguing, though he could tell she'd wanted another answer. The nymph contact gave her a place to rest, drinking water that didn't smell like flowers, and an ordinary telephone to use once they found a number she trusted.
+
+Martin had to sign the travel handoff. He read it aloud before putting pen to paper. Nobody made fun of him for doing that anymore.
+
+By the time they reached the Los Angeles traffic, the empty seat where Eva had been felt like proof of two things: they had helped somebody, and they hadn't helped everybody. Percy kept seeing the boy in the sports jersey looking back at his game. He didn't know if the boy had made it to the doors.
+
+Near a freeway off-ramp, Martin pulled into a well-lit service plaza and showed the questers a list of numbers.
+
+"I've told the depot where the van is and where I will be waiting," he said. "I am not taking a vehicle into the Underworld. I'm not following a living child through doors marked for the dead. Your camp authorized the drive, not that."
+
+Thalia folded her arms. "We weren't going to ask you."
+
+"Good. Then we agree."
+
+Percy had come to like the way Martin set limits. Gods usually turned a boundary into an insult; Martin treated it as part of doing a job. He was tired, and his tiredness mattered. The trip had already asked him to drive through cities where the roads changed and repair arrangements dissolved into magic. He shouldn't also have to pretend he could fight Cerberus.
+
+"What happens if we don't come back?" Annabeth asked.
+
+Martin met her eyes. "At the time we agree on, I'll call Chiron. I won't drive off without telling anybody. If your situation changes and you can communicate safely, use the depot contact, not a public number. I can't promise I can go in after you."
+
+Annabeth wrote all of it down.
+
+Grover looked at the list. "Can you tell Juniper I'm alive if the connection from down there doesn't work?"
+
+"I can give Chiron the message you wrote."
+
+"Thanks."
+
+Martin looked at Percy last. "And you. Your sisters have been sending questions through the depot about whether you're eating properly. One asked whether you were wearing the bracelet she made. The other asked if I'd been foolish enough to let you take charge of transportation."
+
+Percy groaned. "That sounds like them."
+
+"I told them you were alive when I last checked and that I remained the driver. I couldn't promise the rest."
+
+Percy put his thumb against the blue-green cord on his wrist. The thread was worn from the road but still tied. He'd wanted to send Clarisse and Silena a confident report after each fight. Now he was grateful someone had told them a smaller, more accurate truth.
+
+They crossed the remaining streets with Martin driving and Annabeth navigating. When the DOA letters first came into view, Percy thought of the family they'd left safe in another person's care and the people waiting for them to make it home. Going below wasn't the same as disappearing. But it could become that unless somebody above knew where they had gone.
+
 
 On the left side of the street stood a long black building with no windows. It took up half the block. The walls were smooth dark stone that drank the light. Gold letters over the wide front doors read DOA RECORDING STUDIOS. Under that in smaller letters: NO SOLICITORS. NO WALK INS. NO EXCEPTIONS.
 
@@ -46,7 +97,7 @@ A line of black limos waited at the curb, engines running. Nobody got in or out.
 
 "It is cold there," Grover whispered. "Even from here I can feel it. It is like winter leaking out under the door."
 
-Thalia pulled the van into a parking spot across the street under a dead jacaranda tree. She cut the engine. For a moment nobody spoke. The traffic noise felt far away.
+Martin pulled the van into a legal parking space across the street beneath a dead jacaranda tree and cut the engine. For a moment nobody spoke. The traffic noise felt far away.
 
 "This is it," Annabeth said. "This is the entrance. In the old stories the Underworld has many doors. This is the one for Los Angeles. The dead come here to be processed."
 
@@ -54,7 +105,7 @@ Percy stared at the gold letters. DOA. Dead on arrival. He should have laughed, 
 
 "So we just walk in?" he asked.
 
-"We walk in like we belong," Annabeth said. "We have the pearls. We have the address from the Fury. We tell them we are dead if we have to."
+"We walk in like we belong," Annabeth said. "We have the pearls. We have the address from our leads west. We tell them we are dead if we have to."
 
 Grover hugged his backpack. "I am not good at being dead. I am too warm. The dead are cold."
 
@@ -64,13 +115,13 @@ Grover did not look convinced.
 
 ---
 
-Thalia made them wait in the van and watch first.
+Thalia made them wait in the parked van and watch first, while Martin called the nearby safe contact to confirm where he would stay.
 
 They watched for twenty minutes. The pale man with the clipboard did not move except to check a name and wave a limo forward. A family got out of a taxi across the street, a mother and two small kids carrying suitcases, and walked up to the glass doors. The doors opened by themselves. Cold fog rolled out onto the sidewalk. The family walked in and did not come out.
 
 A delivery driver tried to bring in a stack of pizzas. The pale man shook his head once without looking up. The driver left the pizzas on the curb and drove away fast.
 
-"Okay," Thalia said at last. She turned around in her seat. Her blue eyes were bright. "We go in together. No splitting up. Percy, you have Riptide. Annabeth, you have the cap and the pearls. Grover, you have your pipes and your courage. Me, I have my shield and my spear and my excellent driving."
+"Okay," Thalia said at last. She turned around in her seat. Her blue eyes were bright. "The four of us go in together. Martin stays above with the van and our route papers. No splitting up. Percy, you have Riptide. Annabeth, you have the cap and the pearls. Grover, you have your pipes and your courage. Me, I have my shield and spear and an excellent talent for making drivers nervous."
 
 "And your modesty," Annabeth said.
 
@@ -318,7 +369,7 @@ And he thought of his mom telling him once, when he was small, that families wer
 
 So he added, quieter, in his head:
 
-And Amphitrite, if you hear this too... thank you. For the pearls. For raising me here, even while I struggle to remember being yours. I know I am the proof that he was not perfect. I am sorry for that part. But I am trying to do right by Mom and by you and by him. Please do not be mad that I am asking.
+And Amphitrite, if you hear this too... thank you for the care you've given me and for every meal and lesson and ordinary day you and the household shared with me. Please keep everyone at home safe. I don't know how this ends, but I want to do right by Sally, by you, and by the family waiting above. Please do not be mad that I am asking.
 
 He opened his eyes. The marble pillar was cold under his forehead where he had leaned without realizing. His pen was warm in his hand. He thought of the sea smell after rain at Montauk, and his mom humming while she stirred mac and cheese blue with food coloring just to make him laugh. He thought of Poseidon standing alone in a throne room of shells, proud and distant, and Amphitrite beside him, gracious enough to lend pearls to a boy who was living proof of a broken promise. Two mothers. Sally had raised him in the life he remembered; Amphitrite had raised him in this one. The memories did not cancel the care he was learning to accept. He wanted to honor both.
 
@@ -392,7 +443,7 @@ The dial needle trembled near the bottom. The speaker crackled and died. The fun
 
 Silence pressed in, thick and cold.
 
-Percy thought of his mom's hands, warm from the oven. He thought of Poseidon's trident on the beach at Montauk in a dream. He thought of Amphitrite's far smile and Sally's near laugh, both dear to him in different ways, one remembered and one waiting above. He held Annabeth's hand a little tighter and she held his.
+Percy thought of his mom's hands, warm from the oven. He thought of Poseidon's trident on the beach at Montauk in a dream. He thought of Amphitrite's far smile and Sally's near laugh, both dear to him in different ways, Sally remembered and waiting somewhere below, Amphitrite living above in the world he wanted to return to. He held Annabeth's hand a little tighter and she held his.
 
 The elevator slowed.
 
@@ -442,7 +493,7 @@ Grover stared down at the lines of the dead winding toward the bronze gates. Som
 
 "What if they see our wristbands?" Grover whispered. "What if Cerberus smells that we are alive?"
 
-Annabeth studied the great hound with narrowed eyes, already planning. "Cerberus smells souls, not bodies. The wristbands mark us as guests. As long as we walk like we belong and do not run, we should reach the gates. Percy, your sword stays capped until we are past the river line. Thalia, shield ready but low. Grover, play nothing unless I say. Music calms him in the stories, but wrong music angers him."
+Annabeth studied the great hound with narrowed eyes, already planning. "I don't know exactly what Cerberus detects. The wristbands show we're registered as guests, but they won't make us invisible. We walk slowly and follow the posted route rather than testing whether he'll chase us. Percy, your sword stays capped until we are past the river line. Thalia, shield ready but low. Grover, play nothing unless I say. Music calms him in the stories, but wrong music angers him."
 
 Thalia checked the charge on her spear. Small sparks crawled along the tip and died. "I have read that his middle head likes order. Left head likes chaos. Right head just likes meat. If he looks at us, do not meet any eyes. Look at feet. Like Medusa rules, but bigger and furrier."
 
