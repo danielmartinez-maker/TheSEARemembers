@@ -676,6 +676,209 @@ She met his eyes.
 She walked uphill with the rain easing around her, convinced she'd handled the situation sensibly. She lasted until the next morning before she began finding reasons to pass the practice shed again.
 
 
+Five days before the first Monday night, Thalia learned that Rhys had been keeping one of her arrows.
+
+He showed it to her when she came to the range early, before the beginners had arrived. It was a practice shaft with a small nick near the fletching, the kind of damage most instructors would have ignored until the feather came loose entirely. Someone had sanded the nick smooth and tied the feather back with a thread so fine she had to hold it up to the light to see it.
+
+"That's mine," she said.
+
+"Yes."
+
+"Why do you have it?"
+
+"You left it after the rain last week."
+
+"I left half a dozen."
+
+"This was the one you kept trying to fix."
+
+She looked at him. He was standing behind the equipment bench in an old green shirt, perfectly calm about the fact that he had noticed something nobody else would have remembered. She had worked on the arrow during a lesson, then put it aside when a younger camper needed help. She hadn't thought about it since.
+
+"You could have thrown it out," she said.
+
+"I could have."
+
+"Why didn't you?"
+
+"Because it was still good."
+
+That was a terrible answer. It wasn't the answer she wanted, which was to know why he had noticed what she cared about and taken time to repair it when she wasn't there.
+
+He handed the shaft over. She turned it between her fingers. The fletching sat straight, the binding neat enough that the arrow would fly reliably. He had done good work.
+
+"Thank you," she said.
+
+He looked startled. Then he smiled, slowly, as though the words were worth keeping.
+
+"You're welcome."
+
+She put the arrow in her quiver and began checking the others, grateful for something ordinary to occupy her hands. The lesson began a few minutes later. There were students with poor grips, an Apollo boy who kept shooting before the signal and a daughter of Demeter who insisted that wind was responsible for every miss. By the end of the session Thalia had nearly forgotten the arrow, until she reached for it by accident and discovered that the repaired feather lay perfectly against the shaft.
+
+She used it for the final demonstration.
+
+The arrow struck the center of the target.
+
+She looked toward Rhys. He had seen. He raised one eyebrow, the familiar expression of a man resisting the temptation to say something insufferable. She returned the look without smiling.
+
+After the lesson he came over.
+
+"Good arrow?"
+
+"Acceptable."
+
+"High praise."
+
+"The archer did most of the work."
+
+"Naturally."
+
+She slipped the arrow back into its place. She could have made another joke. Instead she asked, "Do you do that for everyone?"
+
+"Repair arrows?"
+
+"Notice the ones people want to keep."
+
+He thought a moment. "I try."
+
+The answer disappointed her, which was unreasonable. She didn't want him to reserve all his kindness for her. She simply wanted to believe she mattered to him in a way other people did not.
+
+He seemed to see the change in her expression.
+
+"That one was yours," he said.
+
+"I noticed."
+
+"You'd spent twenty minutes trying to make it work. I thought you'd be annoyed if someone threw it out."
+
+She looked down at the shaft. He'd remembered. That was the point.
+
+"You're right," she said.
+
+"Again?"
+
+"Don't become accustomed to it."
+
+He smiled and went back to the equipment shed.
+
+***
+
+That evening she found him at the pavilion with another older instructor, a woman from the Apollo cabin who played violin and had been working on the winter concert. They were discussing music, their heads close over a page of notes, laughing when one of them noticed something written incorrectly.
+
+Thalia stopped at the edge of the table.
+
+She had no reason to be annoyed. Rhys was entitled to friends. He was entitled to talk to people without leaving space for her at every conversation. She knew that in the abstract. The small, sharp disappointment at finding him occupied with someone else did not appear interested in the abstract.
+
+She turned toward the doors.
+
+"Grace," he called.
+
+She stopped.
+
+Rhys raised a hand in greeting. "Come over."
+
+She considered refusing. It would make no sense, but she had spent the last hour imagining finding him free and getting a chance to talk without the entire camp around. Now he was with someone else and she felt as if her private plan had been interrupted, though she had not told anyone it existed.
+
+She went over.
+
+The woman smiled. "You're Thalia."
+
+"Apparently."
+
+"Rhys says you're the reason the target markers are finally correct."
+
+Thalia looked at him. "He says that?"
+
+"I said you were relentless," Rhys replied.
+
+"Also true."
+
+The woman laughed and introduced herself. They talked about the concert for a few minutes, then about whether the hall's acoustics made strings sound too sharp. Thalia listened. The woman was clever and straightforward, asking questions that indicated she had actually thought about the work. By the time the conversation ended, Thalia was embarrassed by her earlier irritation. There had never been a reason to interpret ordinary friendship as a threat.
+
+The woman went to find the music coordinator.
+
+Rhys remained beside the table.
+
+"You look thoughtful," he said.
+
+"I've been informed that's unusual."
+
+"Not by me."
+
+She considered asking whether he liked the other instructor. The question was childish, and she disliked how much she wanted an answer. Instead she looked at the music on the table.
+
+"She's good."
+
+"At violin? Very."
+
+"You trust her."
+
+"Yes."
+
+Thalia nodded. There was a quiet satisfaction in realizing he had people he respected without needing to turn that respect into a contest. It was one of the things she liked about him. She wanted to be the person he looked for at the range, but she didn't want to become someone who resented every other part of his life.
+
+He folded the score and put it into a leather case.
+
+"Walk with me?" he asked.
+
+She looked up. "Where?"
+
+"Toward the north path. I've got to get my guitar."
+
+She smiled. "That hardly qualifies as an invitation."
+
+"It's the best one I've got."
+
+She went with him.
+
+They talked about music as they walked, though she understood less than he did. He spoke about the different parts of a song, about how silence could change the effect of a note. She found herself enjoying the sound of his voice more than the subject. At one point he stopped to explain a particular rhythm by tapping it against the fence. She watched his fingers and felt the strange, inconvenient urge to take his hand.
+
+She didn't.
+
+He noticed the way she was looking.
+
+"What?"
+
+"Nothing."
+
+"That's becoming an expensive word."
+
+"Then stop asking."
+
+He laughed and resumed walking.
+
+At the fork he turned toward her.
+
+"Thank you for coming."
+
+"You asked me to carry nothing."
+
+"I know."
+
+"You didn't even need help."
+
+"That's also true."
+
+She looked at him. He was smiling, but not teasing now. The invitation had been real. He had wanted her company without needing a reason for it.
+
+Something in her chest moved.
+
+"I had a good time," she said.
+
+"Good."
+
+She took a step toward him. The space between them narrowed. For a moment she thought of kissing him, right there beside the fence, with the night beginning to settle and nobody close enough to watch. She could see from his expression that he had thought of the same thing.
+
+Then a group of campers came up the path carrying lanterns. The moment vanished into the ordinary noise of winter work.
+
+Thalia stepped back.
+
+"Good night, Calder."
+
+"Good night, Grace."
+
+She went uphill with the repaired arrow in her quiver and his hand still an imagined warmth against hers. She was becoming tired of almost doing things. It took her another five days to decide she had had enough.
+
+
 At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
 
 She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
