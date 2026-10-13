@@ -310,6 +310,118 @@ Annabeth swallowed, but Thalia shifted closer, shoulder to shoulder, sister to s
 
 Silence.
 
+Athena was the first god to ask a question that wasn't an accusation.
+
+"Who controlled the master bolt between its recovery on the beach and its presentation here?"
+
+The armory representative stepped forward. She gave the seal number, the time of the beach retrieval and the sequence of authorized transfers. Each part could be matched to a record. Percy knew because he'd watched the clerks make the copies.
+
+"And who witnessed Ares carrying the original case?" Athena asked.
+
+"All four of us," Annabeth answered.
+
+"Were you each able to see it throughout the encounter?"
+
+"No. The first part happened while Percy spoke to Ares. Grover was farther up the beach, and Thalia and I changed positions when the fight began. We can give our individual observations. They aren't identical."
+
+Athena nodded and looked toward Ares.
+
+"My lord, did you bring the case to Santa Monica?"
+
+Ares scowled. "You can see it in their little papers."
+
+"I asked whether you brought it."
+
+He glared at her. The room waited. Percy was beginning to understand how much of Olympus depended on silence at the right moment. Ares could make every other person in the hall feel afraid, but he couldn't erase the sealed evidence now that it was before the council.
+
+"Yes," Ares said.
+
+"Did you know the bolt was in the case?"
+
+He smiled unpleasantly. "Of course I knew."
+
+Percy felt the room tighten. He had expected Ares to deny everything, perhaps to claim he was keeping the weapon safe. Instead the god of war seemed insulted by the idea he could carry Zeus's weapon without knowing what it was.
+
+Athena looked to the clerk. "Record that answer exactly."
+
+Ares slammed one fist against the throne arm.
+
+"Don't play games with me."
+
+"This is not a game," Athena replied. "If the king wishes to determine whether his son carried the stolen weapon, the witness's statement is not enough. The person carrying it can be asked."
+
+Percy almost smiled, then remembered how badly it would go if Athena's calm expression pushed Ares into another fight.
+
+Zeus turned toward his son.
+
+"Ares, when did you receive my weapon?"
+
+Ares's jaw worked. He gave a time and a place, a storehouse near a military temple, but refused to say who had first arranged the transfer. He called the name on the paperwork false and told Zeus the clerk responsible had vanished. Some gods murmured; others looked away.
+
+Annabeth wrote it down.
+
+"Does that name match the sender on Medusa's shipment?" Percy whispered.
+
+"Not exactly," she answered. "It might be an alias. We need to compare the records instead of guessing."
+
+The admission from Ares did not prove Kronos had commanded anything. It established one concrete part of the stolen bolt's path. Even Percy could see the difference.
+
+Hera asked the armory representative to retain the sealed container's transport record. Athena requested the damaged canvas case for inspection. Zeus ordered Ares's access to the weapons vault restricted while the theft was investigated.
+
+Ares stood so abruptly his chair scraped the floor.
+
+"You don't get to treat me like a thief in front of the whole court."
+
+Zeus stared at him.
+
+"You carried my missing weapon without telling me," he said. "You will explain that. And until you do, your privileges are suspended."
+
+The answer wasn't gentle or final. Ares hadn't been convicted of planning a Titan conspiracy merely because his eyes looked wrong and Nico dreamed of a scythe. But his own admission supported an immediate restriction. Percy could live with that distinction.
+
+Athena turned back to the children.
+
+"Have you any evidence that Poseidon ordered the theft?"
+
+"No," Annabeth answered.
+
+"Any that Hades ordered it?"
+
+"No. He reported his own helm stolen, and we returned it."
+
+"Any that Zeus himself authorized a false recovery?"
+
+"No," Percy said, startled.
+
+Athena inclined her head.
+
+"Then those questions can be separated. We need not fabricate certainty to recognize where the evidence does and does not point."
+
+Zeus didn't look pleased by the final question. Percy thought that might be why Athena had asked it. A court willing to ask embarrassing questions was less likely to start a war merely because its king had been embarrassed.
+
+Grover stepped forward unexpectedly.
+
+"Can I add something?"
+
+Zeus looked down at him. "You have spoken enough."
+
+Grover swallowed but remained standing. "The road isn't just gods and stolen things. The people who helped us are going to need to know whether it's safe to go back to their jobs. Chiron has campers on patrol, the nymph depot had to send people for Medusa's victims, and the Lotus still has guests inside. The war question matters to them too."
+
+The room fell quiet. Hestia looked up from the hearth.
+
+Zeus's expression darkened, but he did not stop Grover this time. Percy could see a record clerk writing down the satyr's words.
+
+"I can't tell the people in the Lotus that the gods had an argument and everything's fine," Grover went on. "It isn't fine for them. I just want someone to make sure the warning was received."
+
+Hestia rose from her stool.
+
+"I will ask the hearth messengers to confirm that the notice reached the relevant contacts," she said. "That is a smaller matter than the king's stolen weapon, but it is work that needs doing."
+
+Grover nodded, relief washing across his face.
+
+Percy felt unexpectedly proud. Grover had used his chance to speak at Olympus not to ask for a title or a medal but to make sure somebody remembered the people they'd left behind.
+
+Athena took the written accounts back to her seat. Zeus remained on the throne with the bolt in his grasp. The storm above Olympus still rumbled, but Percy could no longer pretend the question of guilt could be settled by shouting louder.
+
 Poseidon stared at his brother's war son. "Ares," he said low. "Is this true?"
 
 Ares's face went red. "I did what I had to! You all— you sit here fat on worship while I do the bleeding! Whisper, no whisper, it was my plan! Take the symbols, let the old fools fight, then I pick up the pieces! It would have worked if these brats—"
