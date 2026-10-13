@@ -10480,3 +10480,201 @@ It wasn't the end of anything.
 She turned down the lamp and slept.
 
 ---
+
+## April 2: The Wrong Key
+
+Rhys discovered on his second morning with the ensemble that he had been pronouncing the conductor's name incorrectly.
+
+Nobody had told him.
+
+He'd spent the previous day saying it at least six times, once while introducing himself to the older woman who ran the rehearsal hall, twice while asking where the scores had been put, and three times during a disagreement about tempo that had become unexpectedly serious. Now a violinist from the far end of the room corrected him while they waited for coffee.
+
+"It's Edda, not Ida."
+
+Rhys stared at her.
+
+"She's been answering."
+
+"She's polite. It doesn't mean you're right."
+
+He wanted to disappear.
+
+The violinist, whose name was Mara and who found embarrassment much more entertaining than he did, gave him a sympathetic pat on the shoulder.
+
+"You should hear what she calls the second trumpeter."
+
+"Does she get it wrong?"
+
+"Deliberately."
+
+Rhys laughed despite himself.
+
+This was the part of the tour he'd known he couldn't learn at camp. Every rehearsal contained a hundred tiny habits that nobody thought worth explaining: where the players kept their coats, how long a break lasted, which passages the conductor treated as sacred and which she expected them to change, who could argue about an arrangement without starting a personal feud. He was new. He had been invited because he'd played well at the audition. That fact did not give him membership in the invisible system of the ensemble.
+
+He'd arrived expecting hard work. He hadn't expected to feel like a novice who'd borrowed a better musician's clothes.
+
+At ten the rehearsal began with a piece he'd never heard.
+
+He read the opening line without difficulty. The ensemble played through the first movement, and he found his place quickly enough to be pleased. Then the conductor stopped everyone and told the strings to play the same passage again, half as fast.
+
+Rhys adjusted.
+
+They tried a third time.
+
+The conductor shook her head and looked at him.
+
+"Calder. You're still trying to lead the line."
+
+He looked down at his score. "I'm following the written rhythm."
+
+"Yes. The trouble is that the written rhythm isn't the music."
+
+He stared at her.
+
+She tapped the page with the end of her pencil. "Listen to the violin before you come in. There's a space there. You have to let them give it to you."
+
+He had said almost the same thing to Thalia once, when she'd been trying to dance three steps ahead of him. She'd told him to stop treating a pause like a failure. Both memories arrived at the least convenient moment.
+
+"Right," he said.
+
+They began again.
+
+He listened.
+
+For the first time the line made sense. The violin phrase rose, hesitated and left a narrow opening. Rhys entered there, his own part settling beneath it rather than pushing the whole ensemble forward. The sound changed immediately. He heard it happen as clearly as a string going into tune.
+
+The conductor nodded once.
+
+"Better. Again."
+
+They played the movement three more times. By noon Rhys's fingers ached, his shoulders were stiff and the coffee had gone cold. He had learned more than he could remember, mostly by being wrong in front of people who had no particular interest in pretending otherwise.
+
+He was exhilarated.
+
+***
+
+At lunch Mara sat across from him with a bowl of soup that looked as though it had been constructed for the purpose of discouraging appetite.
+
+"You survived."
+
+"Apparently."
+
+"She likes you."
+
+"That's a strange way of showing it."
+
+"She corrected you for half an hour. If she thought you were hopeless, she'd have let you keep playing wrong."
+
+He considered. It sounded exactly like something Thalia might say after a lesson.
+
+"You're smiling," Mara said.
+
+"I know someone who makes the same argument."
+
+"At camp?"
+
+"Yes."
+
+"Musician?"
+
+"Archer."
+
+Mara's expression brightened with the enthusiasm of a person who had found a better subject than lunch.
+
+"That explains the way you move around a stage."
+
+"How?"
+
+"Like you're checking whether somebody's going to fire a projectile at you."
+
+He laughed.
+
+She asked about camp. He told her enough to explain the training program, the winter concert and the reason he'd brought a wooden box full of pencils that looked far too carefully repaired for anything he'd bought himself. He didn't give her a biography of Thalia. He told her that the box was a gift, that he knew a woman who would be offended if he used it carelessly, and that the offense would be entirely deserved.
+
+"Sounds serious," Mara said.
+
+Rhys considered.
+
+"It is."
+
+She nodded and returned to the soup. There was something pleasant about the lack of further questions. The relationship existed. It was not an invitation for everybody he met to ask what happened when they were alone.
+
+Later, when he went back to rehearsals, he found himself imagining what Thalia would say about his morning. She would listen to the part about the conductor, offer exactly one helpful correction and then declare that she'd told him all of this months ago. She'd be infuriating. He missed it more than he expected.
+
+That evening the ensemble went to a crowded restaurant near their lodging. Rhys stayed for the meal, laughed at a story about a broken cello case and listened to the older musicians argue about whether a small mistake onstage was better than a perfectly accurate performance nobody remembered. He joined the argument and discovered that he had opinions of his own, not merely things he'd been taught.
+
+At nine he returned to his room.
+
+The lodging was comfortable enough, but it was not his cabin. The mattress was softer, the lamp brighter, the floorboard beside the door completely silent. There was no slate with laundry instructions. Nobody had hidden a scarf in the drawer. The whole room smelled of furniture polish, and the curtains were too heavy to move in the evening breeze.
+
+He put the wooden box on the desk.
+
+Inside were his pencils, a small packet of spare strings and the photograph from the orchard. He took the picture out, studied Thalia's laughing face and set it beside the lamp.
+
+He wasn't lonely enough to regret coming. He was lonely in a more specific way. He had spent a good day doing work he'd wanted to do for years. He wanted to tell Thalia about it while she sat beside him with her feet on the cot, making terrible comments about his hand position. He wanted the easy touch of her fingers against his collar. He wanted to see the brief shift in her face when she was pleased and trying to pretend she wasn't.
+
+He could not have any of that tonight.
+
+He could write.
+
+He found a sheet of paper and began.
+
+*Grace,*
+
+*I've survived two rehearsals. Apparently this is an achievement. I also discovered that I've been calling the conductor the wrong name since I arrived. Nobody thought to correct me until this morning, which says unfortunate things about my coworkers.*
+
+He paused. She would laugh. He could hear it.
+
+*I was wrong about a passage today. Very wrong. The conductor made me listen instead of counting. You may take approximately one minute to celebrate the fact that your advice has finally reached me.*
+
+He set down the pencil and considered what else mattered.
+
+There was a difference between describing a rehearsal and describing the effect it had on him. He had been embarrassed, then delighted, then frightened by how much he wanted to keep working with people who challenged him. The fear was the part he had not yet told anyone.
+
+He wrote it anyway.
+
+*I think I'm going to be good here. Not good enough to stop making mistakes. Good enough that I want them to keep correcting me until the music sounds the way it should. That thought frightens me more than the mistakes.*
+
+He looked at the sentence. Thalia had once told him to stop treating a choice as a verdict on everything else in his life. He wondered whether she'd recognize the same problem here.
+
+He added another line.
+
+*I wish you were in the room tonight. I wouldn't ask you to make the work easier. I'd like to be able to come home and stop thinking about it for an hour. I miss the way you can do that simply by looking at me as if I've said something ridiculous.*
+
+He was about to sign the letter when a knock came at the door.
+
+Mara stood in the hall carrying a torn page of music.
+
+"Sorry. Can I borrow your pencil sharpener?"
+
+He looked at the box on his desk.
+
+"Of course."
+
+She stepped inside, saw the photograph and smiled.
+
+"Your archer?"
+
+"Yes."
+
+"She looks as though she's about to win an argument."
+
+"She probably was."
+
+Mara sharpened her pencil, thanked him and left. The interruption lasted two minutes. When he returned to the letter, the last paragraph seemed too solemn. He considered crossing it out. Then he remembered that Thalia had written about wearing his old shirt because it smelled like the cabin.
+
+There was no advantage to being less truthful than she'd been.
+
+He finished:
+
+*I want to kiss you when I come back. No poetic explanation. Just that.*
+
+*Rhys.*
+
+He folded the page, put it in an envelope and placed it beside the door so he wouldn't forget it in the morning.
+
+Then he practiced the troublesome entrance silently with his fingers on the edge of the desk, counting only the first measure before letting the imaginary violin give him the space he needed.
+
+For once he got it right.
+
+---
