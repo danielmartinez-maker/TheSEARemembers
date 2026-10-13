@@ -328,7 +328,7 @@ Percy had seen a lot of beautiful things in Atlantis — vaulted pearl ceilings,
 
 "It worked!"
 
-With Tyson's huge gentle fingers and Chiron's mist, they fixed three blooms onto Thalia's band with sea grass behind. Pink and silver and green. Perfect.
+With Tyson's huge gentle fingers and Chiron's mist, they fixed three blooms onto the silver wristband Thalia had given Percy for Annabeth's corsage, with sea grass behind. Pink and silver and green. Perfect.
 
 "She will love it," Tyson said. "It matches her brave smart heart. Now practice counting. One-two-three!"
 
@@ -344,13 +344,13 @@ Percy failed at normal. He put armor on backward. He poured juice on cereal and 
 
 "Not in nice clothes," Percy said. "What if I trip? Punch on her dress? Thalia throws me off the hill?"
 
-Grover patted his arm. "Clarisse says you're adequate. Clarisse never says adequate. And Ella and I are more nervous."
+Grover patted his arm. "Clarisse says you're adequate. Clarisse never says adequate. And Juniper and I are more nervous. Ella has a poem to read before the slow songs."
 
-Ella, the russet-feathered harpy, clutched poetry like a shield and nodded fast. She and Grover had become best friends, then sweethearts in the shyest way.
+Ella, the russet-feathered harpy, clutched poetry like a shield and nodded fast. She and Grover were close friends, but Grover was dating Juniper, and Ella had volunteered to introduce the first slow song.
 
-"Grover read ninety-three dance books," Ella recited. "'Festooned with crepe paper.' Ella never danced. Grover says swaying counts. Does swaying count?"
+"Grover read ninety-three dance books," Ella recited. "'Festooned with crepe paper.' Ella never danced. Grover says swaying counts. Juniper says it does. Does it count?"
 
-"Swaying totally counts," Grover said, taking her wing-tip gently. "We'll sway. Great."
+"Swaying totally counts," Grover said. "Juniper and I will try it. You can read your poem, Ella. You don't have to dance to enjoy the music."
 
 Percy loosened a little. "One-two-three."
 
@@ -368,11 +368,11 @@ Thalia wolf-whistled from a bunk in black jeans and boots and a lightning-stitch
 
 Annabeth threw a pillow. "Stop." She smiled so hard her face hurt.
 
-A knock came. Grover stood stiff in a shirt and grape-leaf bow tie, holding Ella's wing. Ella's feathers shone russet with white blossoms woven round her face.
+A knock came. Grover stood stiff in a shirt and grape-leaf bow tie beside Juniper, who wore pale blossoms threaded through her hair. Ella had come with them, her russet feathers decorated with little white flowers, holding the page of her poem.
 
-"Pretty. Ella is pretty. Grover says so," Ella announced, ducking in.
+"Pretty. Ella is pretty. Juniper is pretty too," Ella announced, ducking in.
 
-"You are," Grover said, ears pink.
+"Both of you," Grover said, then looked shyly at Juniper. "Especially you."
 
 Silena fussed over blossoms while Thalia taught Grover to untie his tied-together shoes. Annabeth watched, heart full. Family.
 
@@ -430,7 +430,7 @@ Thalia straightened Percy's collar, smiling. "Have fun. Back by ten. Chiron's or
 
 "One-two-three," Percy agreed.
 
-Grover and Ella came out hand in wing, bow tie crooked, blossoms bobbing. The four walked to the Big House as sun sank gold across grass.
+Grover and Juniper came out together, his bow tie crooked and the blossoms in her hair bobbing. Ella walked beside them reading her poem under her breath. The five headed to the Big House as the sun sank gold across the grass.
 
 ---
 
@@ -448,17 +448,17 @@ Chiron stood at the door in his best jacket, horse half brushed shiny. "Percy, A
 
 Apollo set up guitars and flute and dented trumpet. Kayla cued Austin. A fast sun-chariot song filled the room. Stolls dragged Hephaestus kids into chaotic jumping with one lost shoe.
 
-Percy and Annabeth stood edge hand in hand.
+Percy and Annabeth stood at the edge of the room, hand in hand.
 
 "Loud!" Annabeth leaned close.
 
 "What?" Percy shouted.
 
-She laughed and squeezed. They got punch under Mr. D's hawk eyes and watched Ella teach Grover.
+She laughed and squeezed. They got punch under Mr. D's watchful eyes and watched Juniper teach Grover the steps while Ella rehearsed beside the stage.
 
-"'Step, slide, step,'" Ella recited, demonstrating with talons. "'Ella stepping. Ella sliding. Grover tripping. Ella catch Grover.'"
+"Step, slide, step," Juniper said, moving at Grover's pace. "Don't look down. I'm not going anywhere."
 
-Grover tripped. Ella caught him. They laughed and sat down.
+Grover tripped. Juniper caught his arm, and they laughed. Ella marked down the misstep as a possible line of poetry rather than announcing it across the room.
 
 Percy's nerves turned good-buzzy. Then music changed.
 
@@ -500,7 +500,7 @@ She laughed through his hand. "You smell like kelp and cookies."
 
 Around them lanterns glowed. Vines swayed. Mr. D smiled faintly, tapping time. Chiron watched soft-handed.
 
-Nearby Grover and Ella swayed cheek to feather, Ella quoting, "'Danced until stars came out,'" while Grover held her wings like glass. His bow tie flapped undone. Neither cared.
+Nearby Grover and Juniper swayed with his bow tie coming loose and her flowered hair brushing his shoulder. Ella sat by the Apollo musicians, waiting for the verse she had offered to read during the next interval. Grover looked over and gave her an encouraging thumbs-up.
 
 Percy caught his eye. Grover mouthed, SWAYING COUNTS.
 
@@ -548,7 +548,7 @@ At quarter to ten Chiron rang bell.
 
 Last song slowed softer still. Percy and Annabeth danced again, easier. He stepped once, she stepped back in revenge, both laughing too hard to sway, standing mid-floor hand in hand while music played round them.
 
-When it ended they thanked Apollo, stacked two chairs for tired Chiron, waved to Grover and Ella still swaying without music, and walked into spring night with Thalia steps behind pretending not to chaperone. The porch boards were cool underfoot. The air rushed fresh after the warm crowded room. Frogs sang down by the lake. The Big House windows glowed behind them, gold and laughing, music fading to a single guitar tuning down.
+When it ended they thanked Apollo, stacked two chairs for tired Chiron, waved to Grover and Juniper still swaying without music, and to Ella gathering her poem beside the stage, and walked into spring night with Thalia steps behind pretending not to chaperone. The porch boards were cool underfoot. The air rushed fresh after the warm crowded room. Frogs sang down by the lake. The Big House windows glowed behind them, gold and laughing, music fading to a single guitar tuning down.
 
 Air cooled grass and night flowers. Torches and fireflies lit path. Owl called.
 
