@@ -494,6 +494,86 @@ Silence.
 ---
 
 
+At Camp Jupiter, Jason stood in front of the empty basin with the folded page still in his hand.
+
+He had used none of his prepared questions. The first thing he'd said when the picture cleared was almost embarrassing in its simplicity: he wanted to know whether the girls were really his sisters. They had answered, and then they'd spent the next few minutes giving him a collection of ordinary facts he hadn't realized he'd been missing.
+
+Thalia liked the sound of the rain against the Zeus cabin. Annabeth built models and corrected the measurements when the drawings were too small. Percy made jokes about his own hair and had sisters who argued with him about chores. The camp had a lake, a strawberry field and a centaur named Chiron who sounded considerably more patient than Jason's drill instructors.
+
+He wanted to ask them everything again.
+
+Valeria came to stand beside him. She didn't tell him to move away from the empty rainbow. She waited until he folded his paper.
+
+"How do you feel?" she asked.
+
+"I don't know."
+
+"That seems reasonable."
+
+He looked at her. "They said I could call them when the camps approve it."
+
+"They did. We can make a request. I can't tell you when it will be granted."
+
+"Will they forget?"
+
+Valeria took a breath before answering. "I don't believe so. They were asking about you long before this conversation happened. But you may write to them if you'd like, and I can help you find out whether there's a safe route for the letter."
+
+He considered the offer. A message would not carry a face or a voice, but it would give him time to choose the words without having to think of everything before a rainbow vanished.
+
+"Can I show them my drawing of the aqueduct?"
+
+"You can ask permission to send a copy. I wouldn't send the original until you're certain it won't get lost."
+
+Jason looked down at his page. He'd drawn a canal route in the margin, trying to imagine what he would show Thalia if she asked whether he liked being Roman. He had been afraid she'd be disappointed that he didn't remember a childhood with her.
+
+She hadn't sounded disappointed. She'd sounded astonished to see him.
+
+"They remembered things I didn't," he said.
+
+"That must have been strange."
+
+"It was. They weren't angry at me."
+
+Valeria looked at him carefully. "Why would they be angry?"
+
+"Because I don't remember calling her Lia. She said I did when I was little."
+
+"Lots of people don't remember things from when they were two."
+
+"I know. But she looked as though it mattered."
+
+"Then it mattered to her. You aren't required to produce the same memory in order to care about her."
+
+Jason turned that over. It sounded like something he'd heard Chiron say through the rainbow. He wondered whether adults on both sides of the country had been trying to tell the siblings a similar thing in different words.
+
+He took a clean sheet from the communications desk and wrote *Dear Lia and Beff* at the top. He hesitated, uncertain whether Annabeth truly wanted to be called by a nickname she didn't remember hearing from him.
+
+"Should I use her actual name?" he asked.
+
+"You can ask what she prefers in the letter."
+
+He wrote the question beneath the greeting.
+
+The first paragraph was awkward. He told them he had seen the rainbow, which was obvious, and that he liked strawberries, which they'd already discussed. Then he started describing the week he'd spent learning to measure distances without relying on a centurion to correct him. The words came more easily because he knew those details for himself.
+
+Valeria offered to take the page for review. He wasn't ready to send it yet.
+
+"Could I finish after supper?" he asked.
+
+"Of course."
+
+He folded it carefully and went to the dining hall. The other trainees asked whether the call had been successful, and he told them he'd spoken to his sisters. He didn't tell them everything they'd said. Some of the conversation belonged to the four people who'd been there.
+
+That evening he returned to the letter. He drew the aqueduct from memory, adding a little bridge where the canal bent toward the training grounds. He labeled the supports so Annabeth could see which part he was proud of. Then he added a question for Thalia about the last time she'd seen a real thunderstorm at camp.
+
+He gave the finished page to Valeria for the authorized mail request. She checked the address and told him the Roman intermediary would have to approve the route. He understood. He was ten, not a senator. He still wanted to know why two camps with children who loved the same people needed so many adults to agree before a letter could travel.
+
+For now, he had spoken to his sisters. They had looked at him as if he mattered. That was more than he'd had that morning, and he intended to remember the sound of their voices.
+
+
+
+---
+
 Thalia walked out of the Big House and kept walking until the night air could hold her.
 
 She ended up behind the cabins, near the edge of the woods where the boundary hummed faint and the pine needles were soft under her boots. She sat down with her back against a tree and cried the way she hadn't cried since she was eight years old and woke up to an empty crib — ugly, shaking, hands over her mouth to keep quiet because she was sixteen and a lieutenant-in-training and big sisters didn't fall apart where anyone could see.
