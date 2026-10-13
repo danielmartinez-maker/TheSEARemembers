@@ -12034,3 +12034,153 @@ There would be time for both. Not always on the same day. Not always easily. But
 He went to bed thinking about the unfinished melody, and in the morning the second line finally began to appear.
 
 ---
+
+## May 10: The Last Empty Chair
+
+The final rehearsal ended without a speech.
+
+Edda simply lowered her pencil, told the ensemble the last movement was ready and dismissed everyone to prepare for the evening. The musicians looked around at one another with the disbelief of people who had been corrected so many times that a finished piece seemed faintly suspicious.
+
+Rhys remained in his chair after the others stood.
+
+The room was familiar now. He knew which floorboard creaked beside the door, where the light caught the back of Mara's music stand, how long the conductor could remain silent before everyone understood they were supposed to begin again. He had spent six weeks learning those details, and the knowledge had become a kind of belonging.
+
+Tomorrow they would perform one last time.
+
+After that he would pack.
+
+He had expected the prospect to feel like relief. It did, partly. His fingers were tired, his clothes needed washing and he wanted a bed that did not move every time another guest walked along the corridor. He also felt an unexpected reluctance to leave the rehearsal room, as though the chairs and stands might forget the work if nobody remained to remember it.
+
+Mara came back for her violin.
+
+"You're still here."
+
+"Very observant."
+
+"Are you composing a farewell speech?"
+
+"Certainly not."
+
+"Good. The cellist has already written one. It's dreadful."
+
+Rhys laughed and began packing the guitar.
+
+Mara watched him for a moment.
+
+"What are you going to do when you get home?"
+
+"Sleep."
+
+"After that."
+
+"Teach. Finish a piece I've been working on."
+
+"Send it to Edda."
+
+He looked up. "It's not ready."
+
+"Then finish it."
+
+"You're giving me homework."
+
+"Someone has to."
+
+He smiled. There was something reassuring about how little ceremony the last day required. He did not need to make a speech about belonging. He could leave knowing he'd been useful, that he'd made mistakes, improved and earned the respect of people whose work he admired.
+
+Before she went, Mara handed him a folded page.
+
+"What's this?"
+
+"Addresses. Mine and the others. If you want to work with us again, don't vanish into the woods for six months without telling anybody what you're writing."
+
+He looked at the page. It contained several names, each with a place where letters could be delivered. There was room at the bottom for his.
+
+He wrote it down.
+
+"Thank you," he said.
+
+"Don't become sentimental."
+
+He laughed. "Too late."
+
+***
+
+The closing concert was in the largest hall they'd used.
+
+Rows of seats rose toward a balcony, and the stage was deep enough that the musicians could move without bumping into one another. The acoustics were better than those of the first theater, but the larger room carried sound farther, making small mistakes more audible.
+
+Rhys was nervous again.
+
+This time the nerves did not surprise him.
+
+He knew he could play the program. He'd rehearsed it until the entries lived in his hands, and he knew exactly where to listen for the other instruments. He still felt the quick, uneasy anticipation as the audience took their seats.
+
+That was part of performing. He didn't need to be cured of it.
+
+When the musicians entered, he looked briefly toward the third row. He knew Thalia wasn't there. She had written that the advanced program needed her for its closing spring evaluation, and she'd asked him to send an account of the concert rather than trying to travel again. He was glad she had chosen the work she cared about.
+
+He still imagined her in the audience for one absurd second, eyebrow raised, waiting to catch a mistake.
+
+He smiled and took his place.
+
+The first half went well.
+
+During the interval, Edda gathered the ensemble and said that the closing piece had been altered slightly. She wanted the final refrain played without the extra doubling they'd been using, leaving the main melody exposed. Several musicians looked alarmed. The change was small on paper but risky in the room.
+
+Rhys considered the score.
+
+The opening would be quieter. The ending would feel less triumphant. The audience might not even realize something had changed.
+
+He liked it.
+
+They returned to the stage.
+
+The closing piece began with the violin carrying a line Mara had written months earlier. The cello entered beneath it, steady and dark. Rhys waited for his place, listening to the room rather than counting every second as though the music were an examination. The gap opened. He came in.
+
+This time he did not rush.
+
+The melody grew, folded back and rose again. The new ending left the final note almost alone. There was a heartbeat when Rhys wondered whether the sound would be too thin to fill the hall.
+
+Then it held.
+
+The silence afterward was longer than he'd expected. He could feel the audience listening as the note faded. Nobody moved. Nobody coughed. The room seemed to remain suspended for one impossible second.
+
+Then the applause began.
+
+Rhys looked across at the other musicians. Mara was grinning openly. The cellist looked as though she might cry. Edda gave one small nod before they stood together to bow.
+
+He had never felt so proud of a room full of people.
+
+***
+
+At supper they made speeches after all.
+
+The cellist read hers. It was terrible. Everybody applauded. Edda said something brief about learning to listen and work together, which made Mara roll her eyes because the conductor had spent much of the tour shouting exactly that. The older musicians told stories about the first performances, including the night a violin stand collapsed in the middle of a quiet passage and nobody admitted who had forgotten to tighten it.
+
+Rhys found himself laughing hard enough to forget he was leaving.
+
+Later he went back to the lodging, took out Thalia's photograph and sat at the desk.
+
+He had been practicing what he would say to her about the tour. A tidy account seemed impossible now. There had been too many small changes, too many moments of doubt followed by improvement, too many people he'd come to care about without expecting to.
+
+He began the letter anyway.
+
+*Grace,*
+
+*We finished. The last concert was good. No disaster, no heroic recovery, only music that sounded the way we'd been trying to make it sound. I was proud of everyone.*
+
+He stopped. The words looked plain. They were the right words.
+
+*I missed you tonight. I was glad you were doing your program instead of sitting here to reassure me. Both feelings fit.*
+
+He considered the next sentence.
+
+*I want to come home. I also know I want to do this again someday. I don't have a plan beyond finishing some music and talking to you about what happens next. That ought to be enough planning for one evening.*
+
+He signed the letter, put it in an envelope and tucked the copy of the new score beside it. Thalia would read the notes and find three mistakes he hadn't noticed. He hoped she'd tell him about all of them.
+
+Then he lay down and let the exhaustion reach him.
+
+He was going home. Not because the tour had failed to give him something, but because it had given him enough to bring back.
+
+---
