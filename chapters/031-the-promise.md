@@ -414,6 +414,136 @@ The dryer buzzed again, insistent. Clarisse finally opened it and pulled out a w
 
 ---
 
+Thalia found the letter to Jason the following morning.
+
+It was not a new letter. It was the copy Annabeth had made before they submitted their last message to the Roman intermediary, folded in the drawer beside the correspondence receipt. Thalia had been looking for a pencil to repair the label on her shield strap. She found the envelope by accident and stood with it in her hand for nearly a minute before deciding not to open it.
+
+Annabeth came into the room carrying her shoes.
+
+"What's that?"
+
+"Our copy for Jason."
+
+"Oh." She put the shoes beneath her bunk. "Did the courier answer?"
+
+"Not yet."
+
+"Then why are you holding it?"
+
+Thalia could have told her the truth. She'd been talking with Clarisse about their younger brothers and was suddenly afraid that Jason would receive the letter, answer it and then need something from her she wouldn't be able to give. That fear sounded foolish when there wasn't even a confirmed delivery date.
+
+"I thought about writing another one," she said.
+
+Annabeth looked at the envelope. "We said we'd wait until the first route was confirmed."
+
+"I know."
+
+"Then why another letter?"
+
+"Because I keep thinking of more things I should have told him."
+
+Annabeth sat on the bed. She had not lived through Jason's disappearance in the way Thalia had. Her own memories of him belonged to stories, photographs and the single approved Iris-message. She had begun forming a relationship with the boy they could contact now, not the toddler Thalia had lost.
+
+"What kinds of things?" she asked.
+
+Thalia considered. "What you were like when you were little. The time he carried a spoon everywhere. Whether he liked the beach. Whether he remembers any of it."
+
+"He was two when Hera took him. He might not."
+
+"I know. But I want him to."
+
+Annabeth looked toward the window. The sun was rising behind the hill, and the cabin was beginning to warm. They had spent so many evenings talking about how much they wanted to see Jason that they hadn't spent much time discussing what they'd do if he wasn't the little brother Thalia expected.
+
+"You can tell him about the spoon," she said. "But maybe ask him what he likes now too."
+
+"I did."
+
+"You asked about his training."
+
+"That's what he talks about."
+
+"Then ask something else. What does he do when he's not training? Who does he sit with at dinner? Does he have a favorite book?"
+
+Thalia felt herself becoming defensive. She had been trying to do all of those things, in her own way, and it was hard to be corrected by a sister who hadn't carried the same years of guilt.
+
+"He might not want to talk about it."
+
+"Then he can answer the question he wants."
+
+Thalia looked at the envelope. Annabeth's idea was sensible. She hated that it had taken her so long to think of it.
+
+"You're right," she said.
+
+Annabeth raised an eyebrow. "Please write that down."
+
+"Don't push it."
+
+They got paper from the desk. Thalia wrote a list of questions, not a letter to send immediately. She added one about the kind of music Jason liked, one about whether he'd built anything lately and another asking what part of Camp Jupiter made him feel most at home.
+
+Annabeth added, *Do you have a favorite place to sit when you need to think?*
+
+Thalia looked at her. "That's a good question."
+
+"I know."
+
+"I can ask it without promising him anything."
+
+"Exactly."
+
+They folded the list and clipped it to the correspondence receipt. When Chiron confirmed that their earlier letter had been delivered, they would decide whether to send the questions and whether Jason had asked them anything they needed to answer first.
+
+Thalia returned the copied letter to its drawer. She didn't read it again. She could remember what they'd written without checking every sentence for hidden mistakes.
+
+At breakfast, Clarisse noticed the new pencil mark on Thalia's wrist.
+
+"What's that?"
+
+"Reminder to ask Jason something."
+
+"Anything I should know?"
+
+"Not really. Just questions about his life."
+
+Clarisse nodded. She had talked the night before about the brothers waiting for her in the mortal world, and Thalia felt suddenly curious.
+
+"How often do you write to yours?"
+
+"Whenever I can. The older one sent me a drawing last week. It was supposed to be a sea monster, but it looked like a potato with teeth."
+
+"Did you tell him?"
+
+"I said it was terrifying."
+
+Thalia laughed.
+
+"Do they ask where you are?"
+
+"Sometimes. I tell them I'm safe, which is true. I tell them I'm training, which is also true. I can't explain everything."
+
+"Does that bother you?"
+
+"Every day. But I can send a picture of the things they do understand. Last month I drew the practice shield and told them how I fixed the strap. They wanted to know why it had so many dents."
+
+"What did you say?"
+
+"That I use it."
+
+Thalia looked at her friend. Clarisse could be infuriatingly simple about problems that left Thalia awake at night. She also knew the cost of having siblings who couldn't be present for the whole of her life.
+
+"What if they ask you to come home?" Thalia said.
+
+"Then I tell them when I can. I don't promise a date until somebody responsible has agreed to it."
+
+Thalia thought about Jason again, about letters and visits and all the things she wanted to guarantee.
+
+"I can do that," she said.
+
+Clarisse took a bite of toast. "Good. Then you won't have to spend every conversation apologizing for something you couldn't arrange."
+
+Thalia picked up her plate. She still felt guilty sometimes, but the questions on the desk felt like a better use of that guilt than another letter full of promises she couldn't keep. She went to morning drills with the first thought of what Jason might want to tell her, rather than what she needed him to remember.
+
+---
+
 The meadow past the strawberry fields was Silena Beauregard's favorite place to think about nothing.
 
 She'd brought a blanket — blue, with white horses on it, slightly too short for her long legs — and spread it out where the grass was softest. Grover Underwood sat cross-legged beside her, his pipes in his lap, his hooves tucked under him. Ella, the harpy with rust-red feathers and bright, darting eyes, perched on the fence rail nearby, preening her wing feathers and muttering to herself.
