@@ -470,6 +470,86 @@ For a moment Hades said nothing. Then he held out his hand.
 
 Percy hesitated only a second before lifting the helm toward him. The moment Hades's fingers closed on the iron, the humming stopped. The frost pulled back into the metal. The air straightened.
 
+The helm didn't stop humming when Percy set it on the floor.
+
+Hades came down the dais steps, but he did not reach for it immediately. He ordered the guards to stand back and pointed one pale finger at the red cloth wrapped around the iron.
+
+"That isn't from my vault," he said.
+
+Bianca knelt beside it, careful to keep her hands clear.
+
+"I've seen cloth like that used around the war god's weapons," she said. "That doesn't mean he wrapped this one. Anybody could have taken cloth from one of his stores."
+
+Percy was grateful she'd added the last sentence. He could feel Hades's anger shifting toward a name, and he didn't want another god to launch a war because a teenager recognized fabric.
+
+Annabeth crouched on the other side. She examined the folds without touching them.
+
+"There are scratches here," she said. "The wrapping caught on something rough. The outside of Percy's bag isn't damaged. So the helmet might have been wrapped before it was planted."
+
+"How did it get into your pack?" Hades asked.
+
+Percy tried to remember every moment someone else had been close enough to touch the bag. The days of walking at camp. The Fury attack. The nymph depot. Medusa's statues. The crowd at the Arch. The hotel in Nevada where nobody could reliably count how many days had passed.
+
+"I don't know," he said.
+
+"Then you cannot swear you didn't carry it knowingly."
+
+"I can swear I didn't put it there. And I can tell you I wasn't aware of it until it started humming."
+
+Hades stared at him. Percy held his gaze.
+
+Annabeth looked toward the backpack. "The outer pocket was empty when we rechecked our supplies after the Arch. I'm sure of that because I used the pocket to keep the damage report dry."
+
+"How sure?" Hades asked.
+
+"I wrote it down." She withdrew the folded inventory sheet they'd prepared with Martin after the Arch. It listed each compartment and the contents they'd checked that night. The outer pocket was empty.
+
+The document wasn't perfect. Percy had forgotten small things before, and Annabeth's writing had been hurried. But it made the claim narrower: the helm hadn't been found during a specific inspection. If it was already there, the inspection had missed it. If it was planted later, their most likely opportunity was the Lotus, where they knew time and attention had been manipulated.
+
+"The hotel," Grover whispered. "Anybody could have opened our bags there."
+
+"Or a courier could have reached us before it," Annabeth replied. "We don't know."
+
+Hades accepted the inventory from her, looked at the dates and turned it toward one of his servants.
+
+"Check whether any entry through the lower gates was made during this interval by a living courier or a shadow wearing a false name."
+
+The servant hurried away.
+
+Percy watched Hades take the helm in both hands and set it on the cushion. The hum faded. The air seemed to steady around it.
+
+"You have brought back my property," the god said. "That doesn't establish who took it, or how it came into your pack."
+
+Percy let out a breath.
+
+"Then you won't punish us for carrying it?"
+
+"Don't confuse an unanswered accusation with a pardon," Hades answered. "I'm withholding judgment while I investigate. You should be grateful for that, considering whose court you're standing in."
+
+Thalia leaned forward as though she wanted to remind him that they hadn't chosen to carry a stolen helm. Annabeth placed a hand on her sleeve. Thalia stayed quiet, for now.
+
+Bianca looked toward Nico, who was watching the black iron with a frightened fascination. She drew him a little closer to the dais, not to hide him from the guests but to keep him away from the thing that had frightened him in dreams.
+
+Percy remembered the way Thalia always positioned herself between Annabeth and trouble. Here was the same gesture in another family, in a palace where every adult seemed to have authority and two children still needed somebody to notice when they were scared.
+
+Hades looked at Bianca. For a moment his severity shifted into worry.
+
+"Take Nico to the adjoining room," he said. "He has heard enough."
+
+Nico protested. He wanted to know who had stolen the helm and whether the red god would come here.
+
+"You may ask me after I receive the records," Hades replied.
+
+"I want to help."
+
+"You have helped. Your dream is recorded. That doesn't require you to remain in a hall where adults are discussing war."
+
+Bianca didn't immediately take him away. She waited until he agreed, then walked beside him, one hand resting lightly against his back. Nico turned at the door and asked Percy whether he would return the lightning bolt too.
+
+"I'm trying," Percy answered.
+
+It was not the heroic promise the boy had wanted. But Nico nodded as though he understood why Percy hadn't said *yes*.
+
 Hades held his helm under his arm like a king holding a crown he did not need to wear to prove he owned it.
 
 "Ares," he said. "My nephew. My brother's dog of war." Disgust twisted his mouth. "He dares use my power to start his war. He dares leave my children to feel the pit warming."
