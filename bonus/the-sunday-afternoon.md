@@ -7608,3 +7608,293 @@ It had been tea, bread, a few honest conversations and a cupboard with a loose h
 When she finally slept, the house they'd visited seemed less like a separate world Rhys disappeared into and more like a place she might return to, on a day when both of them wanted to go.
 
 ---
+
+## February 14: The Unromantic Gift
+
+Thalia was halfway through an argument about arrow retrieval when somebody handed her a flower.
+
+She looked at it. A single white blossom, still attached to an unruly length of stem, had been tied with dark thread to a scrap of paper. It looked less like a romantic offering than a botanical specimen rescued from a particularly careless laboratory.
+
+The courier was a daughter of Hermes with a grin sharp enough to constitute a warning.
+
+"From the north cabin."
+
+"Who sent it?"
+
+"There's a note."
+
+"That wasn't my question."
+
+"Then ask him."
+
+The girl departed before Thalia could demand a better answer.
+
+Thalia untied the paper. Rhys had written only one sentence.
+
+*This is not an elaborate romantic gesture. I have witnesses who can confirm it took less than forty seconds.*
+
+She stared at the flower, then laughed.
+
+The fourteenth of February had no particular hold on her imagination. She knew the customs people attached to it. She had observed enough couples at school and camp to know that on certain days they seemed determined to make affection into a public competition over gifts. She had no interest in being presented with proof that a man could spend money or commission a speech.
+
+But she liked a white flower tied badly to a joke.
+
+That irritated her.
+
+She carried the flower back to Cabin One after the lesson and put it in a cup of water. Annabeth examined it over the edge of her notebook.
+
+"Rhys?"
+
+"Apparently."
+
+"That's sweet."
+
+"It's poorly tied."
+
+"You kept it."
+
+"Botanical curiosity."
+
+Annabeth looked at the cup, then at Thalia. She wisely returned to her work.
+
+At four Thalia went to the north cabin carrying the only gift she'd been able to think of: an old wooden case she'd repaired herself. The hinges had been loose when she found it in the storage cupboard; she'd sanded the edges, replaced the screws and lined the interior with a piece of dark cloth. It was large enough to hold his pencils, strings and the folded sheets of music that always ended up scattered across the workbench.
+
+She'd spent three evenings making it and told herself the work was an exercise in carpentry.
+
+Rhys opened the door before she could knock twice.
+
+"You're early."
+
+"I have business."
+
+"Terrifying."
+
+She pushed the case into his hands.
+
+He looked at it, then at her.
+
+"What is this?"
+
+"A receptacle. You may have encountered the concept."
+
+He opened it. His expression changed.
+
+"You made this."
+
+"No. It fell from heaven and asked to be delivered."
+
+"Thalia."
+
+She shrugged, suddenly uncomfortable. It would have been easier to give him a sharpened knife or a repaired bow, an object so practical that gratitude could be dismissed as an irrelevant formality. This was practical too, but she'd chosen the cloth because it was the same deep blue as the scarf he'd lent her. She'd checked the inside dimensions against the papers on his workbench. There was no way to pretend the care had been accidental.
+
+He ran his thumb along the edge of the lining.
+
+"It's beautiful," he said.
+
+"Don't exaggerate."
+
+"I'm not."
+
+He looked up. She was prepared for a joke. He set the box carefully on the table and crossed the room toward her.
+
+"Come here."
+
+She went, already smiling.
+
+He kissed her with enough immediate pleasure that she laughed softly against his mouth. His hands settled at her waist. She drew him closer, and the kiss became less of a thank-you than a happy recognition: they'd both been thinking about each other in private, and now they were in the same room.
+
+"You're pleased," she murmured.
+
+"Very."
+
+"Then stop talking."
+
+He kissed her again.
+
+The workbench pressed against Thalia's back. She caught Rhys's collar, felt the warmth of him beneath the fabric, and smiled when his composure faltered. There was a kind of delight in knowing how to unsettle him. Months earlier she would have called it victory. Now she knew it was something more intimate than that.
+
+His fingers found the loose end of her scarf.
+
+"You're wearing the one my mother made."
+
+"It's warmer."
+
+"Mine wasn't warm enough?"
+
+"Yours was appalling."
+
+"You wore it all winter."
+
+"An act of endurance."
+
+He untangled the scarf gently and laid it on the chair. She didn't try to stop him. She liked how carefully he handled things that mattered to her, even when she pretended they didn't.
+
+He turned back toward her. She caught his hand, drew him close and kissed him until the room seemed to narrow around them. He was smiling when she paused, but she could feel his pulse quick beneath her fingers.
+
+Something changed when he shifted his weight.
+
+He made a small sound and pulled one hand away.
+
+Thalia looked down. There was a dark bandage around the base of his thumb.
+
+"What happened?"
+
+"Nothing dramatic. My hand cramped yesterday while I was practicing. I should have stopped."
+
+She took his hand and examined the wrapping. It was neatly done, which meant somebody other than Rhys had probably insisted on it.
+
+"You're injured."
+
+"Minorly."
+
+"That isn't a word."
+
+"It is today."
+
+She could have scolded him. She could have announced that he was impossible and demanded he report to the infirmary before touching his guitar again. Instead she looked at his face and saw a quick flicker of embarrassment. He wanted to be here with her, and he disliked having his own body interrupt the moment.
+
+She knew something about that.
+
+"Sit," she said.
+
+He raised an eyebrow. "I thought we were in the middle of something."
+
+"We were. Now sit."
+
+He went to the cot, grinning, and held up the bandaged hand.
+
+"Should I expect a lecture?"
+
+"Later. A long one."
+
+"Looking forward to it."
+
+She sat beside him and reached for his uninjured hand. She had learned the strange pleasure of being able to change an evening without treating the change as failure. He'd done the same for her bad heel when it hurt. Now she could do it for him without becoming his nurse or his judge.
+
+She leaned in and kissed him.
+
+He responded eagerly, relieved enough that she felt the difference. This time she took her time. She could move closer, settle comfortably beside him and let the warmth of his company replace the urgency of the first few minutes. When he kissed her cheek, she turned and caught his mouth again.
+
+The hand with the bandage remained safely between them. They found other ways to be affectionate. Thalia liked that neither had to perform perfect confidence to enjoy an evening.
+
+After a while he drew back, smiling.
+
+"You're very persuasive."
+
+"I'm not making an argument."
+
+"That's new."
+
+She kissed him again before he could elaborate.
+
+***
+
+They ate supper at the small table, the new wooden box beside the lamp.
+
+Rhys opened it twice while they were eating.
+
+"You're going to wear the hinges out," Thalia said.
+
+"I want to look."
+
+"You've seen it."
+
+"I like looking."
+
+She tried not to smile. There was something charming about his complete lack of embarrassment at appreciating a gift she'd made. He turned it around, examined the join where she'd repaired the corner, and asked what she'd used to sand the edges.
+
+"Fine paper," she said. "Then oil."
+
+"It smells good."
+
+"That's because I cleaned it before giving it to you."
+
+"A radical concept."
+
+He laughed. She picked up his bandaged hand and laid it gently on the table between them.
+
+"How much practice?"
+
+"Too much."
+
+"How much is too much?"
+
+"Four hours. Then a little more."
+
+"You're nineteen. Learn to count."
+
+"I was distracted."
+
+"By what?"
+
+"Trying to play something difficult without admitting it was difficult."
+
+She considered. "That's idiotic."
+
+"I know."
+
+"And familiar."
+
+He looked at her. "You?"
+
+"I have been accused of similar behavior."
+
+"By whom?"
+
+"Some unreasonable physician with a horse's body."
+
+Rhys laughed, and she felt the last of her annoyance dissolve. The problem was real but small. He would rest his hand. She would stop treating him like a student who required correction. Neither had to turn it into a test of whether the other cared.
+
+"What did you think of the flower?" he asked.
+
+"Poor construction."
+
+"The flower?"
+
+"The knot."
+
+"I tied it quickly."
+
+"Your note said so."
+
+"I was hoping the note would be persuasive."
+
+"It was."
+
+He looked at her. "Really?"
+
+She took a moment to answer. She could have made another joke. Instead she gave him the thing she'd been thinking about since morning.
+
+"I liked that you wanted to make me laugh," she said.
+
+His expression changed.
+
+"Then it worked."
+
+"Against my better judgment."
+
+He reached across the table with his good hand. She took it.
+
+The rest of the evening was ordinary in the nicest possible sense. They played a few cards, argued about the rules, and put his new box beneath the lamp where it could hold the scores. At some point Thalia moved to the cot and he joined her. She rested her head against his shoulder while he told her about the music group's proposed route and the first rehearsal schedule. She listened, asked questions and then kissed him when she was tired of thinking about all the places he would be without her.
+
+The kiss was warm and unhurried. He drew her near, and they stayed that way while the stove burned lower. She could want him and miss him before he'd even left. She could also enjoy the fact that he was here tonight.
+
+Later she told him, "Your flower's in water."
+
+He smiled. "You kept it."
+
+"For scientific purposes."
+
+"Of course."
+
+She kissed his cheek.
+
+"You can send another," she added.
+
+He laughed. "Even if the knot's terrible?"
+
+"Especially if the knot's terrible."
+
+Outside, the snow began falling again. The new box sat on the workbench with his pencils arranged inside it. Thalia looked at it once before they turned down the lamp, pleased by the thought that something she'd made would travel with him when he went.
+
+---
