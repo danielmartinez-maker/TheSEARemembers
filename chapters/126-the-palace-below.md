@@ -395,6 +395,97 @@ They stayed until the light shifted. Tyson splashed with Percy in the shallow en
 
 ---
 
+The training instructor did not let them finish without a debrief.
+
+Her name was Carina. She had watched Clarisse practice with a borrowed spear and Percy follow the marked current around the targets. She had also watched Thalia stand beside Annabeth at the edge of the pool, both of them keeping their hands deliberately clear of any lightning work.
+
+"Tell me what you expected when you entered," she asked.
+
+"A fight," Clarisse said.
+
+"A controlled lesson," Annabeth replied.
+
+"To impress my sisters," Percy admitted.
+
+Carina folded her arms. "That last expectation causes more injuries than the others."
+
+Percy pretended not to know which of them she meant.
+
+She took them through the results. Clarisse had adapted quickly to fighting while the water changed the weight of her spear, but she still tried to overpower an opponent when she needed to adjust her angle. Percy had used his powers efficiently on the first pass and too broadly on the second, pushing water around an entire target instead of shaping the smaller current that would have achieved the same result.
+
+"You spend more energy when you get impatient," Carina said.
+
+"I've heard that before."
+
+"Then someone has been telling you the truth."
+
+Triton smiled faintly from his place by the rack.
+
+Annabeth asked why a bronze strip ran around the pool's outer wall. Carina explained that it carried the chamber's monitoring signals to the control desk and was insulated from the water by the stonework. The mechanism wasn't designed to withstand uncontrolled lightning.
+
+"So we shouldn't practice with electricity here," Annabeth said.
+
+"Correct. If you want to learn in a protected space, we can ask the engineers whether a dedicated chamber exists. Do not test it in this pool."
+
+Thalia nodded. "We won't."
+
+Percy saw Annabeth swallow a question she'd wanted to ask. She looked at the bronze strip again, then at the water, and made a note to consult the engineers later. She hadn't been denied permission to understand it. She'd been told what the room was built to do.
+
+Carina asked Clarisse to put her spear back on the rack. She inspected the blunted point and found a small bend in the fastening near the grip.
+
+"Was it like that when you took it?" she asked.
+
+"I didn't check."
+
+"Then we can't know when it happened. Next time, inspect the weapon first and after. Tell the attendant if anything changes."
+
+Clarisse accepted the correction. Percy liked watching her learn from someone who wasn't intimidated by the way she held a spear. She'd spent years teaching him, and he sometimes forgot how often she still sought instruction herself.
+
+The instructor marked the borrowed weapon for repair. It would not be returned to the rack until the armorer checked it. Triton offered to arrange a replacement for Clarisse's next visit, but she shook her head.
+
+"I don't need a new one until I know what was wrong with this one."
+
+"Fair," he said.
+
+They left the training room through a broad side corridor. The route took them past a small bench where the staff kept towels and drinking water for people who'd been exerting themselves. Percy sat beside Clarisse while she stretched the arm that had been sore since the garden repair. He noticed a little hesitation when she raised it.
+
+"Still hurts?" he asked.
+
+"A little."
+
+"Then maybe you should stop for today."
+
+"Maybe I should."
+
+Percy looked at her, surprised.
+
+"Don't make a face," she said. "I teach you to stop when you're hurt. It would be stupid not to do the same thing."
+
+Silena came to sit beside them with a plate of bread. She handed one piece to each of them and asked if they wanted to see the stables or rest first. Clarisse chose to sit a little longer.
+
+"That's good," Silena said.
+
+"Don't turn it into a ceremony."
+
+"I won't."
+
+They ate without discussing whether the choice made Clarisse brave. Percy appreciated the ordinary silence. Beyond the corridor, the palace hummed with work, and he could hear workers calling out measurements as they adjusted something near the outer gate.
+
+He thought about the lesson. The sea had felt willing to do anything he asked, but every time he took too much water into his control he made the next task harder. He could learn to move less, with more precision, and he could learn to stop before someone else had to tell him.
+
+Triton returned with the instructor's written notes. They were specific: more practice with narrow currents, shorter sessions under supervision, no electrical discharge in the shared pool, and another inspection of Clarisse's training spear before it was used again.
+
+"Are you going to make me sign those?" Percy asked.
+
+"If you want to learn here, yes."
+
+He signed. So did Clarisse. Annabeth asked for a copy to keep with her plans for future sea-and-sky training, making sure none of the recommendations was mistaken for permission to attempt something new.
+
+The stables were next, but no one hurried. The visit was long enough for them to learn something without trying to prove they could master it before lunch.
+
+
+---
+
 The stables stood behind coral pillars where the palace currents widened into quiet channels. Each open-water pen was bounded by pale coral rails; brushes and reins hung in orderly rows. “Triton maintains this place,” Percy said. “And names the brushes,” Triton added. “It helps to know which one you need.”
 
 Silena watched a pale-gold hippocamp with a silver mane drift toward them, its finned tail sweeping slowly behind its horse-like forelegs.
