@@ -980,6 +980,154 @@ They returned to the floor when the next song began. Percy hadn't planned to spe
 
 Evening blurred warm. Line dance Percy survived by watching Connor's feet and moving half a beat late. Chiron danced with Mrs. O'Leary who stepped on all four hooves and barked with joy. Mr. D after punch told actually interesting spring story about Persephone's garden that made even the Ares kids listen. Ella recited whole set list from memory between songs — "'Track three, tempo moderato, key of G'" — and Grover applauded each like heroics. Pollux and Austin attempted a spin and ended tangled in a streamer to huge cheers. Travis tried to dip Connor and dropped him. Connor got up bowed anyway.
 
+Clarisse arrived on the dance floor with Chris after the second fast song.
+
+Percy had seen her earlier by the refreshment table, wearing a dark green shirt that matched none of the decorations and boots she'd polished so carefully they looked unfamiliar. He hadn't wanted to draw attention to her outfit. It was obvious she had spent time choosing it, and he knew by now that announcing that fact across a crowded room would be a terrible idea.
+
+Chris offered her his hand.
+
+"Shall we?" he asked.
+
+Clarisse eyed the open floor. "If you step on my feet, I'm telling everyone you're terrible at dancing."
+
+"I already told them that."
+
+"Then I'll tell them again."
+
+They took their place at the edge. The music was faster than a waltz but slow enough to follow, a simple rhythm with a clear beat. Percy watched Clarisse turn with a kind of confidence he'd rarely seen from her without a weapon in her hand.
+
+"You knew she could do that?" Annabeth asked.
+
+Percy pretended to look away.
+
+"Maybe."
+
+"Percy."
+
+"She made me swear not to tell anyone."
+
+Annabeth smiled. "Then don't tell me."
+
+"I didn't. You saw her."
+
+"Very clever."
+
+Clarisse spotted them. Her expression became murderous for approximately one second, then she realized neither Percy nor Annabeth was laughing. She returned to the music, letting Chris guide a turn around a couple who had stopped moving in the middle of the floor.
+
+Thalia came over with two drinks.
+
+"Am I hallucinating," she asked, "or is La Rue dancing better than half the Apollo cabin?"
+
+"Both," Percy said.
+
+Silena appeared behind her, delighted.
+
+"She worked on it all winter. She wouldn't show anybody at camp because she thought they'd make a thing of it."
+
+Thalia watched Clarisse for another few measures. Percy saw the familiar competitive calculation in her face, the one that usually preceded a challenge.
+
+"She's good," Thalia said.
+
+"Don't tell her," Percy replied.
+
+"Why not?"
+
+"She doesn't want it turned into another competition."
+
+Thalia thought about that. Then she gave a small nod and set down her drink.
+
+"I can manage a compliment without a duel."
+
+Percy raised his eyebrows. "Can you?"
+
+"Watch me."
+
+Thalia crossed the floor and waited until the song ended. Clarisse was breathing a little harder than before, smiling despite herself while Chris said something too quiet for Percy to hear.
+
+Thalia stopped a few steps away.
+
+"Nice dancing," she said.
+
+Clarisse stared. "What?"
+
+"I said nice dancing. You heard me."
+
+"Are you making fun of me?"
+
+"No."
+
+Clarisse looked suspicious. Chris stepped back, letting the two of them speak.
+
+"Thanks," Clarisse said finally.
+
+Thalia nodded. "Can you show me that turn sometime?"
+
+The suspicion shifted to surprise. Percy almost laughed at how startled Clarisse looked to discover that a compliment could come with an actual request to learn something.
+
+"Maybe," she answered. "You'd need to learn how to count."
+
+"I can count."
+
+"Not when you're throwing snowballs."
+
+"That was a draw."
+
+They resumed arguing, but quietly and with both of them smiling. Percy suspected they'd have a dance lesson planned before either admitted it.
+
+Silena watched them, looking far too pleased.
+
+"I've been telling Clarisse for years that she should let people know what she likes," she said.
+
+"She knows what she likes," Annabeth answered. "She just doesn't want it used against her."
+
+Silena considered that. "That's fair."
+
+Percy turned toward his girlfriend.
+
+"Can we dance again?"
+
+Annabeth looked down at the floor, where somebody had dropped a bit of streamer. She picked it up, put it on a nearby table, then accepted his hand.
+
+"Yes. But this one is my choice of steps."
+
+"I may need instructions."
+
+"I know."
+
+She led him into a simple side-to-side dance that wasn't quite what Clarisse had taught him. Percy followed her lead for a minute before understanding the pattern. It was easier when he stopped trying to impose the box step on every melody.
+
+"You're getting it," she said.
+
+"I'm a natural."
+
+"You stepped on me twice earlier."
+
+"That was the old Percy."
+
+"The old Percy from twenty minutes ago?"
+
+"Very different person."
+
+She laughed. He liked making her laugh more than he liked being good at dancing, though for once the two things weren't getting in each other's way.
+
+Near the wall, Ella was showing Zoë the page of her poem. Zoë read it carefully, then said something that made Ella grin. Grover and Juniper were resting by the window with their hands joined. Silena had taken over helping the younger campers untangle a streamer, and Chiron was watching the exits without making anyone feel watched.
+
+Percy thought the room looked better in motion than on Annabeth's plan. Not because the plan had failed, but because the people inside it were using the space in ways the drawing couldn't capture.
+
+When the song finished, Annabeth stepped back and gave him a tiny bow.
+
+"Acceptable, Jackson."
+
+"High praise from the architect."
+
+"I mean it."
+
+"I know."
+
+He looked across the floor at Clarisse, who was showing Thalia a turn with one hand held up and the other on her hip. Chris watched from a chair, looking entertained. Percy was glad his older sister hadn't had to hide that skill tonight. He was also glad she had taught him enough to stand here without being terrified of a song.
+
+The musicians began tuning for the final number. Percy and Annabeth returned to the chairs near the window, taking time to drink some water and catch their breath. They still had one dance left, and Percy no longer felt that it needed to be perfect to matter.
+
 At quarter to ten Chiron rang bell.
 
 "Last song! Lovely evening! Clothes hung up, cups in bins, no unsupervised pegasus rides!"
