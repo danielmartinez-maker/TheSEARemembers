@@ -24,6 +24,80 @@ Across the field, the toolshed door banged. Silena came into view first, arms wr
 
 ---
 
+Before the planting could begin, Annabeth found something she hadn't planned for.
+
+She had been clearing fallen needles from the base of the old shrine when her trowel struck a small stone cup. It was buried up to the rim, stained with weather and a crust of dry earth. Beside it lay the broken clay horse she'd noticed the day before and three green drachmas. In her drawing, those objects were represented by a rectangle labeled *old offerings, to be moved*. She had made the label without asking where they belonged.
+
+She set down the trowel. The shrine had been neglected for years, but neglect did not make the things inside it rubbish.
+
+"Percy, can you get Chiron?"
+
+He looked at the cup. "Did you find a trap?"
+
+"No. I found a question."
+
+"A dangerous discovery for you."
+
+She ignored the joke. Percy went toward the Big House while Clarisse kept the wheelbarrow out of the prepared beds. Silena sat with the seedling trays in the shade, examining the tiny green shoots as if they might start giving instructions. No one touched the offerings.
+
+Chiron arrived carrying a thin folder. He had expected the question, or something like it, and he was pleased they had asked before sweeping everything into a pile.
+
+"The shrine has had several uses," he said. "The dedication stone has weathered so thoroughly that we cannot be certain who was honored first. Later campers left objects for different gods. We have records of a festival held here a century ago, but not a complete list of its participants."
+
+Annabeth glanced at the plan. "I was going to make this a common garden. Not a shrine to any one god."
+
+"That is a reasonable use, if the site is treated respectfully."
+
+"Does that mean we have to leave the offerings where they are?"
+
+"Not all of them. The damaged objects can be documented, cleaned by the appropriate people and stored. The surviving cup and the dedication stone should remain accessible. A garden does not have to erase what stood here before."
+
+Silena took out her notebook. "Could we put a small sign by the steps? Something that says we don't know the original dedication?"
+
+"That would be more truthful than choosing a name for convenience," Chiron replied.
+
+Clarisse examined the base of the shrine. "The stone's loose. Should we shore it up before we plant anything against it?"
+
+"Yes. But ask the maintenance crew to inspect the foundation. Don't push new soil against the old wall until they've looked."
+
+Annabeth felt the entire morning shift. Her garden wasn't simply a picture she could turn into ground. It had an earlier history, most of which nobody could explain. She wanted to respect that without allowing the uncertainty to stop anything from growing.
+
+"Can we start on the outer beds?" she asked.
+
+"Certainly. You can leave a clear path to the shrine until the inspection is done."
+
+Percy returned the little cup to the exact place she'd found it, using a flat stone to mark the edge so nobody stepped on it. Ella offered to copy the inscription on the dedication stone, though she warned them that parts of it were beyond even her eyesight. Chiron suggested making a rubbing only after a conservator approved the material, since the surface was fragile.
+
+Silena took a drawing of the clay horse before anyone lifted it. She did not smooth over its missing leg. There was something tender about the damaged toy sitting beside the old cup, the proof that a child had once come here with an offering and that the offering had been allowed to remain.
+
+"Do you think the child was afraid?" Percy asked.
+
+"Of what?"
+
+"Whatever they came to ask the gods about."
+
+Annabeth looked at the blank stone. In the life she remembered, she'd spent years trying to impress a goddess who often spoke in tests. Here she was Zeus's daughter, raised in a family where Thalia spent too much time predicting what their father might do next. She could not look at a shrine and assume the person who knelt there had been grateful.
+
+"Maybe," she said. "Or maybe they came because something good happened."
+
+"Both seem possible."
+
+"Then that's what the sign should say. Not that the gods were kind. Just that people came here."
+
+Chiron agreed they could draft an interpretive note once the records had been checked. He went back to the Big House to arrange the inspection. The work crew marked an exclusion line around the shrine's base, leaving the path unobstructed.
+
+Clarisse looked at the revised plan. "You're moving half the flowers."
+
+"Only the ones closest to the old stone."
+
+"That's half the flowers."
+
+"Then we'll make the border narrower."
+
+Silena was already rearranging the trays in new groups. She didn't complain about the change. She wanted the plants to live, and now they had enough information to choose a place where the roots wouldn't disturb a foundation nobody understood yet.
+
+Percy pulled up one of the twine stakes and reset it farther out. Annabeth held the line until it was straight. She had designed the garden to make a neglected corner of camp welcoming. That purpose hadn't changed. The thing she needed to change was the assumption that the empty-looking space had never belonged to anyone before.
+
 By seven, the clearing looked more like a work site than a holy place.
 
 Silena knelt by the shrine steps and unloaded her flats in rows, naming each one under her breath while she pinched off dead leaves. "Marigolds for borders — slugs hate them. Lavender for bees. White alyssum to fill cracks. And —" She lifted a smaller tray with a flourish. "Moonvine. Somebody at the Demeter cabin owed me a favor."
