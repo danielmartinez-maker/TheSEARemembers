@@ -118,6 +118,80 @@ Thalia reached back without looking and took his sleeve, towing him gently forwa
 
 Grover breathed.
 
+At the receiving office, nobody applauded.
+
+Percy had half expected the return of Zeus's master bolt to be announced by trumpets or the arrival of an eagle large enough to blot out the sky. Instead an older woman behind a bronze desk asked for the containment seal, the date and time of recovery, and the names of the witnesses.
+
+Annabeth handed over the report they'd written after the fight. She looked exhausted but alert. The clerk checked the first page and asked why it contained four separate accounts of the same encounter.
+
+"Because we stood in different places," Annabeth answered. "We didn't all see the same thing."
+
+"Did you compare the accounts before filing them?"
+
+"Yes, but we kept the original statements. We didn't change a person's observation to make the stories match."
+
+The clerk nodded and stamped the file.
+
+Percy watched her inspect the protective vessel. She didn't open it. She called another official, and together they verified that the seal recorded on the beach was the seal now in their custody. A bronze tablet behind the desk lit with the words *recovered, pending sovereign acknowledgment*.
+
+"Pending?" Thalia asked.
+
+"Until the king accepts the return and determines how the theft will be recorded," the clerk replied.
+
+"So Zeus could reject his own bolt?"
+
+"He could dispute the circumstances of its recovery. The object itself is here."
+
+Thalia made a noise through her nose. Percy agreed with it.
+
+The clerk then asked whether they intended to request an audience before the summer-solstice council.
+
+"Yes," Percy said. "We've been trying to stop a war."
+
+"That's not an entry category."
+
+Annabeth looked over the form. "Witness to recovery of stolen divine property. And petitioner concerning a false accusation against a divine household."
+
+The clerk found both categories, circled them and passed the papers to a messenger. Percy admired the way Annabeth could turn an argument with someone behind a desk into a set of accurate descriptions. He would have told the woman Zeus was wrong and expected her to understand the rest.
+
+"Do you have a separate request concerning a resident of the Underworld?" the clerk asked, glancing at Percy's bundle.
+
+Percy touched Sally's stamped response.
+
+"No. Hades answered that part."
+
+The woman didn't ask for it. Percy was grateful.
+
+They were directed to a waiting room overlooking the gardens. Through its high windows Percy could see builders repairing a section of a marble bridge. A Cyclops stood beside two nymphs, arguing about the width of a support while a foreman examined the drawings. Olympus was supposed to be a place where gods could do anything. Apparently somebody still had to measure the columns.
+
+Grover sat at the nearest table and took off his shoes. His hooves were sore again from the trip. Thalia watched the door, visibly unhappy that they'd delivered the weapon and still weren't permitted into the throne room. Annabeth spread their copies of the witness statements on the table.
+
+"We should decide what we're actually saying," she told them.
+
+"We're saying Ares had the bolt," Percy answered.
+
+"Yes. We saw it in the case on his back. We're saying Hades's helm appeared in our pack. We didn't see who put it there. And we're saying someone may have influenced Ares, but we didn't see Kronos or anybody else arranging the theft."
+
+"That sounds so small," Grover said.
+
+"Small isn't the same as weak."
+
+Thalia looked at Annabeth. "What about Dad demanding that we spy on Cabin Three? Are we going to bring that up?"
+
+"If he claims the closeness between our cabins is evidence against Percy, yes," Annabeth answered. "But I don't want to let him turn the whole hearing into a trial of whether we've been obedient enough daughters."
+
+Thalia considered that. "He'll try."
+
+"Then we stay on the facts."
+
+Percy looked through the windows again. He could see the gardens, the workers and a stretch of sky split between storm cloud and sea mist. He couldn't fix the quarrel between his father and Zeus with a sword. He could give the court a record, witness testimony and an explanation that didn't depend on Percy claiming he remembered how the theft happened in an earlier life.
+
+He picked up the statement and read it once more.
+
+When the summons finally arrived, Grover had finished a small packet of crackers. Thalia stood without making a joke. Annabeth put the papers back in order.
+
+They went to the throne room carrying their evidence, and Percy was grateful the master bolt was not sitting against his knees in an ordinary school bag.
+
 At the palace steps, two towering Horae in gold robes crossed their staffs.
 
 "Halt," one said. "Who approaches the throne room on the solstice?"
