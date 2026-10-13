@@ -190,6 +190,122 @@ When Percy waved from the audience, Grover waved back. He could still be nervous
 
 ---
 
+An hour before the campfire, Percy was trying to learn how not to step on people.
+
+Silena had taken him to the flat stones behind the pavilion, where a narrow line of chalk marked out a rough rectangle. She had made the rectangle the width of the area the Apollo campers had reserved for dancing, then refused to let him cross it until he could move without staring at his own feet.
+
+"This feels like another sword drill," he complained.
+
+"Only because you keep trying to defend yourself against the music."
+
+Percy looked at her. "Music attacks people?"
+
+"Some music. Not this music."
+
+She clapped four slow beats. Percy stepped on the first, forgot the second and landed on the third with enough force to make her wince.
+
+"You're counting too fast," she said.
+
+"I'm counting when you clap."
+
+"You're trying to arrive before the beat. You don't have to beat it somewhere."
+
+He laughed, but he was embarrassed. Silena could tell. She remembered teaching him other small things when he came to camp, and the moment when he realized his sisters had an entire childhood of habits he couldn't recall. It was not like that today. He had never learned this particular dance, and nobody had promised he'd be good at it.
+
+"What if I ask her and then make a fool of myself?" he said.
+
+"Then she can decide whether she wants another song with you."
+
+"That's a very unsentimental answer."
+
+"It's a very practical one. You can ask her. She can say yes or no. You're allowed to be bad at something together."
+
+He looked over toward the amphitheater. Campers were carrying benches into place and testing the oil lamps along the steps. The evening was going to be crowded. He'd imagined a moment with Annabeth where nobody noticed how young they looked or how much they'd already lived through in their remembered life. Now he suspected everyone would notice.
+
+"Do you think Thalia will laugh?" he asked.
+
+"Yes."
+
+"Great."
+
+"She'll probably laugh because she's nervous about Annabeth being happy with somebody she can't supervise every minute. But that's hers to handle. Not yours."
+
+Percy bent to retie his shoe. When he straightened, Clarisse was standing at the edge of the chalk marks holding two bottles of water.
+
+"Why does he look like he's losing a fight with the ground?"
+
+"He's learning to dance," Silena said.
+
+Clarisse looked at the rectangle, then at Percy. "That explains the casualties."
+
+"I haven't hurt anyone."
+
+"Yet."
+
+She put down the bottles. Percy expected her to go away laughing. Instead she stood opposite him and took the position Silena demonstrated, hands lifted where a partner's would be.
+
+"Come on. One round," Clarisse said.
+
+"You want to dance?"
+
+"I want to see whether the footwork is as bad as it looks."
+
+They tried three steps. Percy moved forward when he should have moved back, and Clarisse planted her foot so they didn't collide. She looked genuinely irritated.
+
+"You're watching your shoes," she said. "You don't do that when you fight."
+
+"That's different."
+
+"Not if you're going to run into somebody. Look up."
+
+Silena clapped again. Percy lifted his head and watched Clarisse's shoulders instead of the chalk. They took four steps before he made a mistake. That was an improvement.
+
+"Better," Clarisse said.
+
+He was shocked. "Was that a compliment?"
+
+"Don't make me take it back."
+
+They practiced one more sequence. Clarisse complained that the dance steps were unnecessarily small, but when Silena explained that the point was to move comfortably without forcing a partner to follow, she slowed down. Percy followed in turn. Neither was especially graceful. Both learned something.
+
+A younger camper passed with an empty lantern tray and stopped to watch.
+
+"Are you practicing for the slow dance?"
+
+Percy felt his ears turn red. Clarisse fixed the child with a stare.
+
+"We're practicing footwork. Keep walking."
+
+The camper hurried away. Percy stared at her.
+
+"You did that for me."
+
+"Don't sound so surprised."
+
+Silena held out his water bottle. "I think you're ready to ask Annabeth."
+
+"Ready as in good at it?"
+
+"Ready as in you understand you're supposed to listen when the other person tells you what feels comfortable."
+
+Percy looked at the chalk marks. He could still remember the life in which he and Annabeth had held each other after terrible things, when being near enough to feel another person's heartbeat had mattered more than any formal movement. That didn't mean he could skip the awkwardness of being twelve at a camp dance. He would ask her because he wanted to, not because an older memory entitled him to an answer.
+
+"What if she says no?" he asked.
+
+"Then you dance with us for a song," Clarisse said.
+
+Percy grinned. "Would you really?"
+
+"Absolutely not. I was checking whether you were paying attention."
+
+Silena laughed. Clarisse had done enough to make her point. She handed Percy the second bottle and said she'd save him a place on the steps if he wanted to sit for a while before asking.
+
+He took the water, thanked them both and walked toward the amphitheater. Behind him, Clarisse stepped back into the rectangle and asked Silena whether the same movement would work with a faster rhythm.
+
+Silena smiled. Her sister could deny being interested in dancing all she liked. She stayed to demonstrate the next set of steps.
+
+---
+
 The fire caught fast.
 
 Flames climbed the stacked logs, crackling and popping, sending sparks spiraling up into the darkening sky. The whole amphitheater glowed orange. Faces turned golden. The smoke curled up sweet and sharp, and for a minute everybody just sat and watched it catch, the way they always did, quiet in that shared way that made Percy think of the ocean at night.
