@@ -779,6 +779,96 @@ The old photograph hung on the cabin wall. She could place a copy in the new boo
 
 ---
 
+The party almost turned into a demonstration when someone asked whether Zeus's birthday gift could become a real weapon.
+
+Annabeth had been sitting beside Silena, trying the first slice of cake, when a boy from the Hermes cabin spotted the case tucked under her chair. He'd heard the story from a camper who had seen the silver parcel arrive at noon.
+
+"Show us the bird," he said. "Then the sword."
+
+"I put it away," Annabeth answered.
+
+"But it's your birthday. You can do whatever you want."
+
+"Exactly," she said. "I want to eat my cake."
+
+He looked disappointed. A few older campers leaned in, curious. Annabeth felt the familiar pressure of people waiting for her father's gift to become the most interesting thing about her. If she opened the case, they would want to see every shape it could take. Then they would ask what Zeus had meant by each one, as if she were an interpreter for a god who rarely bothered to interpret himself.
+
+Percy noticed the little crowd. He didn't stand up and tell everyone to leave her alone. He sat beside her, took a piece of cake from the plate and asked whether she had tried the blue icing yet.
+
+"It's too sweet," she said.
+
+"That sounds like a challenge."
+
+"It's a warning."
+
+He tried a bite. She watched his face change as the sugar hit.
+
+"Gods," he said. "Ella could use this as a weapon."
+
+The younger campers laughed. The attention shifted toward the cake. The Hermes boy asked whether there were more pieces, and Silena handed him one.
+
+Annabeth waited until the little group had dispersed before speaking.
+
+"Thank you," she told Percy.
+
+"For destroying my teeth?"
+
+"For not making a speech."
+
+"I had a very good speech prepared."
+
+"I'm sure it was terrible."
+
+"Historic, actually."
+
+She smiled and leaned her shoulder against his. They had spent enough years in the life they remembered being watched during quests and battles. Here the stakes were a piece of cake and a silver gift she didn't want to test in public. The relief felt unexpectedly large.
+
+Later Thalia sat down on the other side of her.
+
+"Did someone ask about the present?"
+
+"Yes. I said no."
+
+"Good."
+
+"Are you disappointed I didn't show it?"
+
+"No. I'd rather you decide what it's for before you hand it to half the camp."
+
+Annabeth looked at her sister. The thought of Thalia asking permission before arranging her life was still new enough to notice when it happened.
+
+"I'll test it again with Beckendorf," Annabeth said. "Maybe he can find out whether any of the shapes are actually useful."
+
+"That sounds sensible."
+
+"I know. It's very annoying."
+
+Thalia laughed and reached for another slice.
+
+As the evening wore on, Annabeth found herself talking to a girl from Demeter cabin about the garden she'd been planning. The girl wanted to know whether the shrine would still have a place for offerings, and whether they intended to keep the old brambles at the edge of the clearing. Annabeth hadn't thought carefully about either question. She made a note to ask Chiron about the shrine and Katie about the plants before anyone began digging.
+
+"You're doing homework at your own party," Percy observed.
+
+"Research. There's a difference."
+
+"The paper looks the same."
+
+"That's because you never label yours."
+
+He laughed, and the Demeter girl grinned. The conversation made Annabeth happier than another round of compliments. People were asking her what she wanted to build and offering information she didn't have. Her birthday had become a day in which she could be herself in front of other people without being reduced to the god who had sent her a present.
+
+Silena returned to collect the empty plates. She asked whether Annabeth wanted the silver device displayed on the gift table when guests came to say goodbye.
+
+"No," Annabeth said. "Keep it in its case."
+
+"All right."
+
+"You're not going to ask why?"
+
+"You told me what you wanted."
+
+Annabeth watched her go. It should not have felt remarkable. For a child of Zeus, sometimes it did.
+
 Before the last guests left, Annabeth discovered that somebody had moved her birthday drawing.
 
 It was a small plan of the west garden, the one she'd made after noticing the gap between two terraces. She'd set it beside her gifts, and now it was propped at an angle near the candles where a curious camper could see it. The pencil line she'd drawn to indicate the closed section looked, at a distance, like an open trail.
