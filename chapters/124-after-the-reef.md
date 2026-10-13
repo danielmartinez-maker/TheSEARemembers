@@ -683,6 +683,79 @@ Silena’s fingers brushed the shell through her pocket. “I’m glad we went.�
 
 ---
 
+The first reply Percy received was not from Amphitrite. It was from Annabeth, and it concerned a single word in his letter.
+
+They had taken a place at the edge of the pavilion where the musicians were preparing for the evening's final songs. Percy had the letter in his pocket, folded around the route sketch he'd copied from the camp log. Annabeth asked to read it only after he mentioned he'd nearly finished.
+
+She took her time. He liked that about her when she was reading a building plan and hated it a little when she was reading something he'd written from the heart.
+
+"There's one thing," she said at last.
+
+"Of course there is."
+
+"You wrote that you were glad we could make memories in Atlantis instead of borrowing yours."
+
+"Yes."
+
+"Do you mean your recent memories, or the ones Amphitrite remembers from when you were small?"
+
+He stared at the page. "Both, I guess."
+
+"Then you should say which. You don't have those childhood memories, Percy."
+
+He felt defensive for a moment, as though she'd accused him of pretending he belonged in the palace. Then he recognized the real issue. His letter had made it sound as if he'd shown Clarisse and Silena a place from his own remembered childhood. He hadn't. He had shown them a place he'd only begun to know again through visits and stories.
+
+"It's a good point," he said.
+
+"I know. But I wasn't trying to pick a fight."
+
+"I know that too."
+
+She handed the letter back. He found the sentence and crossed out the word *mine*. He wrote a more awkward, more accurate line beneath it: *I'm glad they got to see the place you knew when I was little, and to decide what it means to them now.*
+
+"That sounds less pretty," he said.
+
+"It sounds like you."
+
+He turned toward her. Annabeth was sitting with one leg tucked under the other, notebook balanced on her knee, her hair escaping its tie. In the life they remembered, she'd been the person who made plans in the middle of catastrophes, who could find a weak point in a fortress while everyone else was still arguing about where to stand. Now she was doing the same thing with a family letter. It was maddening and comforting in roughly equal measure.
+
+"Do you ever wish you couldn't remember?" he asked.
+
+She looked down at her notebook. The question deserved more than a quick answer.
+
+"Sometimes," she said. "But not because I'd want to forget you."
+
+"I know."
+
+"I'd like not to remember some of the terrible parts so clearly. I'd like to meet a person here without comparing them with somebody they never had the chance to become. But I wouldn't trade the good memories away if I could choose."
+
+Percy rubbed his thumb against the folded edge of the letter. His remembered childhood with Sally came to him most sharply when he was happy. That was the strange part. He could eat a meal under a sea-green ceiling with his sisters and suddenly want to hear his mother's voice so badly it hurt.
+
+"I keep thinking about her," he said.
+
+"Sally?"
+
+He nodded.
+
+"Do you want to tell me?"
+
+"Not everything. Just that she'd have liked the garden. She'd have wanted to know which plants could grow without sunlight and why the fish kept stealing shiny things. Then she'd have asked whether I ate enough."
+
+"She would have brought blue cookies," Annabeth said.
+
+He smiled, though his eyes were wet. "Absolutely."
+
+They sat without trying to make the sadness useful. Annabeth had never met this altered life's Sally because Sally had died before Percy was old enough to remember her here. Percy, however, remembered a different childhood in which she'd been alive and stubborn and funny. The two truths sat beside each other without fitting neatly. He didn't ask Annabeth to solve them.
+
+At the next song, he stood and offered her his hand. They danced badly near the edge of the pavilion, keeping out of the musicians' way. Annabeth laughed when he stepped on her foot. He apologized. She told him his timing was appalling and made him try again.
+
+The music didn't take the grief away. It gave them something gentle to do while they carried it.
+
+When the song ended, Percy put the letter back in his pocket. He would send it from the Sound the following morning, after Chiron confirmed the return channel was safe. He wanted Amphitrite to hear that he loved the place she had made for him without making her responsible for all the things this world had changed. His mother had been real, in the life he remembered. His sisters were real in this one. He did not have to make either fact disappear in order to say thank you.
+
+
+---
+
 After the music ended, the camp thinned into little groups and then into scattered lanterns. Chiron had gone to the Big House to finish a letter of his own. Thalia walked Annabeth back toward Cabin One, both of them talking about whether the sketch needed a scale mark. Silena left with Clarisse, the shell still tucked safely in her pocket.
 
 Percy carried his letter to the lake.
