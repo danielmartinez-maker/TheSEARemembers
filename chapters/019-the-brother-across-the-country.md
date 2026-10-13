@@ -227,6 +227,96 @@ Annabeth leaned her head on his shoulder, just for a second. She only did that w
 
 ---
 
+At Camp Jupiter, Jason was counting the minutes until the messenger arrived.
+
+He had been told there would be a supervised Iris-message from Camp Half-Blood, and that his sisters might be on the other end. The invitation was written in ordinary language on a folded sheet of paper, which made it more difficult to believe than if it had come with a seal from the praetors.
+
+He had known he had sisters for years. Lupa had told him enough that he recognized their names, and sometimes he received a short note or a drawing forwarded through adults who treated the exchange as a delicate exception to a rule nobody would explain. But knowing a person existed was different from standing in front of a rainbow and trying to decide what to say to her.
+
+Jason was ten. He could recite the basic formations of the Fifth Cohort without help. He knew which hand to raise when a centurion inspected his shield. He had no idea whether he was supposed to call Thalia *Lia*, as he had when he was little, or use the name on the official message.
+
+His supervising aide, a Roman woman named Valeria, had watched him try to polish the same piece of armor three times.
+
+"That shield is clean," she told him.
+
+"There's a mark by the rim."
+
+"That's where it was repaired. Polishing won't remove it."
+
+Jason put down the cloth. He had hoped a spotless shield would make him look older, as though his sisters might believe he'd been doing well if he looked like the other trainees.
+
+"Do I have to wear it?" he asked.
+
+"No. The call is private. You're not attending a review."
+
+"Then why did they tell me to prepare?"
+
+"Because you asked for time to think about what you wanted to say."
+
+He looked at her. She was right. That was annoying.
+
+Valeria set a chair beside the basin where the rainbow would be formed. There was a small table with water and a box of tissues, which Jason considered unnecessary until he remembered the one time he'd asked an adult about his sisters and been unable to finish the question without crying.
+
+"Can I ask what they remember?" he said.
+
+"Of course."
+
+"What if they don't remember me?"
+
+"Then they'll have to tell you that. You may not know what either of them remembers. Neither of you has to pretend."
+
+Jason took out the page on which he'd written questions. He had prepared seven. The first concerned whether Thalia still liked lightning. The second asked whether Annabeth still built little cities. The third was whether their mother had been sending letters. He crossed out the third, then wrote it again. He wanted the answer even if it was difficult.
+
+Valeria watched without interrupting.
+
+"Do they know I've been training?" he asked.
+
+"Some of it. We told them you were safe and learning."
+
+"Safe is not the same as good."
+
+"No," Valeria replied. "It isn't."
+
+He liked her more for that answer. Adults often used *safe* to end a conversation about something else. Jason was safe at Camp Jupiter. He was also lonely sometimes. He was proud of the shield he'd been learning to carry and frustrated when older children treated him as though he should already know every rule. He missed a family he could barely picture. It was possible for all of those things to be true.
+
+The messenger knocked. Valeria stood, checked the authorization and asked Jason whether he was ready.
+
+"No," he admitted.
+
+"Do you want to postpone?"
+
+He looked at the folded note. He'd spent years waiting for an opportunity that never seemed to arrive at a convenient time. If he postponed it because he was frightened, he might spend another month wondering how frightened he would be the next time.
+
+"No. Let's do it."
+
+They went to the communications room. It had a shallow basin set beneath an archway and a wall decorated with the insignia of the Roman camp. Jason had practiced using a rainbow for routine messages, but he'd never stood in this room with a request about his own family.
+
+The attendant adjusted the light, checked the coin and waited for Valeria's signal. Jason kept his paper folded in his hand. He had decided to ask the first question without reading it. If he couldn't remember the words when he saw Thalia, he could look down.
+
+"One more thing," he said to Valeria.
+
+"Yes?"
+
+"What if I don't look like they remember?"
+
+She considered before answering. "Then they get to see what you look like now."
+
+Jason nodded. He liked that answer better than being told he'd be recognized immediately. He didn't know whether recognition was something people could choose. He hoped affection might be.
+
+The light in the basin spread into a wavering arc. Valeria gave him a moment to move closer. He took one step, then another, and tried to remember to breathe normally.
+
+There were shapes on the other side, indistinct at first. A tall girl with dark hair, a smaller girl with blond hair, a boy with sea-green eyes. Jason's hands went cold. He gripped his page tightly enough to crease it.
+
+He heard someone say his name.
+
+For a moment he forgot every prepared question.
+
+Then the rainbow steadied, and the faces became clear.
+
+
+
+---
+
 The Big House rec room had never been so quiet.
 
 Thalia counted heads as they filed in. Herself. Annabeth, clutching a rolled-up piece of paper like a lifeline. Percy, who Chiron had invited with a look that said he knew Percy would sneak in anyway so he might as well be invited. Chiron himself. Mr. D, surprisingly present and surprisingly sober, leaning against the wall with an expression that was almost soft. A few others — Luke, there for moral support; Silena, because she wouldn't let Annabeth go through this alone; Clarisse, because she'd asked Chiron point-blank if she could come and Chiron had been too surprised to say no.
