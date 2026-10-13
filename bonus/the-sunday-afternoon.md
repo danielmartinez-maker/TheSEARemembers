@@ -2158,3 +2158,135 @@ She considered. "Deal."
 He kissed her forehead, and she leaned against his shoulder. They sat in the small lamplight until the room grew quiet around them. The photograph remained in the notebook, unseen by anyone but the person she'd given it to. She knew it was there. For tonight, that was enough.
 
 ---
+
+By Friday, the sky had lowered over the camp until the tops of the pines vanished into cloud. A hard rain began at four and showed no sign of stopping.
+
+Thalia had planned to stay in Cabin One with a book. She read the same page six times before realizing that the problem was not the book. It was that she wanted to go north, and she was still annoyed with herself for wanting it so badly after the argument over the photograph.
+
+She shut the book, pulled on her boots and fetched her coat.
+
+At the door she stopped. She could arrive at Rhys's cabin and find him busy, or tired, or simply not interested in company. She had learned that much. The thought was no longer a reason to avoid asking, but it did persuade her to take a scrap of paper and write a note before she left.
+
+*If you're free, I'd like to see you. I'll be by the north path in twenty minutes. If you're busy, I'll go home and insult your coffee tomorrow.*
+
+She gave it to an adult camper heading past the Apollo cabin and watched him hurry off through the rain.
+
+Twenty minutes later she was standing beneath the shelter near the north range, listening to water drum on the canvas overhead. The rain had made the path slippery. She'd taken it slowly, watching the repaired heel on the uneven ground. She was beginning to trust the foot again, but she wasn't prepared to spend another week proving that trust by injuring it.
+
+Rhys appeared through the rain carrying two umbrellas, one folded and one open.
+
+"You're ridiculous," he said.
+
+"I was thinking the same thing about you."
+
+"You sent a messenger to tell me you wanted to see me."
+
+"That is how invitations work."
+
+"Then why are you standing in a shelter instead of coming inside?"
+
+"Because you might have been busy."
+
+He looked at her, then smiled. "I'm not."
+
+"Good."
+
+He opened the second umbrella and handed it to her. They walked up the path together, side by side, their shoulders occasionally bumping because neither umbrella was as wide as it claimed to be. By the time they reached his porch her boots were muddy and his sleeve was soaked.
+
+Inside, the stove was warm. He took her wet coat and hung it beside his own. The cabin had been tidied since the night before. The photograph was nowhere in sight. She noticed that without comment.
+
+Rhys was watching her. "Are we still arguing?"
+
+"Not right this second."
+
+"That's encouraging."
+
+She crossed the room and stopped in front of him. He did not reach for her, though she could see that he wanted to. That was the point at which she decided she was tired of giving the argument more authority than it deserved.
+
+"I wanted to come here," she said.
+
+"I know."
+
+"I want you."
+
+His expression changed. The words were plain and deliberate, and she had chosen to say them in a room where no one else could hear. There was a pleasure in seeing him take them seriously.
+
+"Thalia."
+
+"Don't make a speech."
+
+"I wasn't going to."
+
+"Good."
+
+She took his hand and brought it to her waist. He waited until she leaned toward him before kissing her. The kiss began slowly and became more insistent when she moved closer. She could feel the cool damp of his shirt beneath her fingertips, the warmth of his skin at the collar, the way he held her as though he was trying to memorize the exact shape of this moment without pinning her in it.
+
+They moved away from the doorway. She caught the edge of his shirt and pulled him nearer, laughing when he stumbled over a boot he'd left in the middle of the floor.
+
+"You need to clean this place," she murmured.
+
+"I was under the impression you liked me untidy."
+
+"That's not what I said."
+
+He kissed her again, and she forgot what she had intended to say next. For a while they stood close together in the warm cabin, rain hammering against the window, their hands and mouths finding an ease that had become familiar without becoming ordinary. She felt him smile when she caught his face between her hands. The smile was a private one, for her alone.
+
+Eventually he drew back and looked at her.
+
+"Are you all right?"
+
+"Yes."
+
+"Do you want to stay?"
+
+"Yes."
+
+He nodded. She appreciated that he didn't make the question more complicated. He wanted her here. She wanted to be here. They had both said so.
+
+She tugged him gently toward the cot, stopping to take off the wet boots and arrange the blanket so the sore heel wouldn't be trapped under her. He helped without comment. They settled close together, and she rested her head against his shoulder for a moment before lifting her face to kiss him again.
+
+The rest of the evening passed privately. There was warmth and laughter, moments of quiet attention, and the pleasure of being with someone who had learned enough about her to know when she wanted to be teased and when she wanted no commentary at all. The disagreement about the photograph remained part of their history, but it did not prevent them from choosing one another tonight.
+
+Much later, when the rain had eased, she was lying beside him beneath the quilt. The lamp cast a narrow stripe of light along the wall. Rhys had one arm around her, and his breathing was slow and even. She listened to the rainwater dripping from the eaves, feeling an unexpected reluctance to move.
+
+"You know what I hate?" she murmured.
+
+"Several things."
+
+"Don't be clever."
+
+"Then tell me."
+
+"I hate that I can be annoyed with you and still want to be here."
+
+He laughed softly. "That's not a terrible problem."
+
+"It feels inconvenient."
+
+"Most good things are."
+
+She raised her head and looked at him. "Don't turn this into a saying."
+
+"I was trying to sound wise."
+
+"Terrible attempt."
+
+He brushed a loose strand of hair from her face. She caught his hand and held it against her cheek.
+
+"I don't want us to pretend the argument didn't matter," she said.
+
+"We won't."
+
+"But I also don't want to spend every evening reviewing it."
+
+"We don't have to."
+
+She looked at him for a long moment. He was not asking for a verdict. He was offering a way to keep living while they worked through things.
+
+"Good," she said.
+
+He kissed her forehead. She turned toward him and kissed him properly, a slower kiss that held no urgency. She liked the feeling of having time. She liked knowing they could disagree, apologize, make choices, and still want each other without one part of the relationship erasing the others.
+
+When she finally closed her eyes, the rain had stopped. The cabin smelled of warm wood and the faint sweetness of cider. She would wake early, probably before him, and leave when she chose. For tonight, the question of departure could wait.
+
+---
