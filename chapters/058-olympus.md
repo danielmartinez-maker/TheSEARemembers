@@ -928,6 +928,30 @@ The messenger looked at him.
 
 Four names, four living travelers. He preferred that line to every grand claim the court had made about courage.
 
+The messenger also had a note from Chiron.
+
+*The cabins are waiting for verifiable orders, not rumors. No one should assume the court has lifted every restriction on its own. Return safely and bring the written disposition.*
+
+Percy showed it to Annabeth.
+
+"He's right," she said. "The theft investigation is still open. Ares has been punished, but we haven't proved every part of what happened or why."
+
+"And Zeus still hasn't restored the sky-gifts," Thalia added.
+
+Percy glanced at her. She had barely spoken since the private meeting with her father. He didn't want to make her describe the conversation before she was ready, but he could see how much the disappointment had cost her.
+
+"Does that change how we get home?" Grover asked.
+
+"The official transport is authorized," Annabeth said. "It doesn't depend on an eagle escort. But it changes what Thalia and I can count on when we get back to camp."
+
+Thalia nodded. "We're not training the younger kids as though we have help from Olympus that hasn't been promised. We'll tell Chiron exactly what Dad said."
+
+"Then we should put that in the handoff," Percy replied.
+
+Annabeth wrote it beneath the court's order, using the last clean page of her notebook. Percy realized a quest could end without every question being answered, provided the unanswered questions didn't disappear just because everyone was relieved.
+
+He took the messenger's copy and signed beneath the word *received*. It was not the same as agreeing with every decision Olympus had made.
+
 The doors closed and Olympus moved away above them. Percy held Annabeth's hand, but he didn't try to make the silence mean everything had been solved. There were still injuries, family arguments and questions no god had answered.
 
 The bolt was home. Now they had to get home too.
