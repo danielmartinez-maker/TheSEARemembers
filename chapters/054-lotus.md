@@ -254,6 +254,90 @@ Thalia had drifted toward the arcade, eyes caught on a tall silver machine with 
 
 It sounded reasonable. They were tired. Their brains were soup. The white chairs by the games looked like clouds. They sat.
 
+Annabeth meant to check the time as soon as they sat.
+
+She had bought a new watch after the first one stopped working during a storm at camp. The replacement was ordinary, with a plain silver face and a clasp that caught on the edge of her sleeve. She glanced at it now. The minute hand was just past three.
+
+She turned the watch away from the light so she could see the numbers better. The face shone, perfectly clean.
+
+A nearby screen woke. It wasn't one of the games with swords or racing cars. A city spread across it in miniature, roads and rivers and neighborhoods visible from above. A banner read DESIGN A HOME. BUILD WHAT LASTS.
+
+Annabeth had not been interested in the arcade. She had been going to sit, ask about the tow and leave. But the buildings on the screen looked wrong in a way that made her curious. The columns were too narrow. The staircases ended in blank walls. The town hall was built over ground that would flood during the first heavy rain.
+
+She leaned toward it.
+
+"That's not load-bearing," she muttered.
+
+The game offered her a little glowing pencil. It did not ask for coins. The nearest stool stood empty, and the screen showed her hand where it would go.
+
+Percy was talking to Grover about the smell of the smoothies, so Annabeth didn't call him over. She picked up the pencil.
+
+With one motion she widened the columns. The town hall rose into a better shape. A group of digital citizens applauded, their tiny faces turned toward the screen. She corrected a drainage channel, and the river obeyed. The city brightened. The banner changed.
+
+YOU CAN FIX IT ALL.
+
+She smiled before she meant to.
+
+In real life every good plan needed somebody else to agree to it. Chiron could approve a climbing-wall renovation and still tell her the materials weren't available. The camp could have a broken bridge while a storm took the carpenters elsewhere. Thalia could listen to a suggestion and decide she'd rather put a spear through the problem. Percy sometimes ran into danger before she finished explaining why he shouldn't.
+
+Here the river stayed inside the walls she drew. People listened when she spoke. Nobody was injured because the plan had taken one second too long.
+
+Annabeth began building a neighborhood. She made room for a library near the harbor, a training ground outside the residential district and a narrow park that followed the line of the creek. She placed a small house with a blue door near the water. She hadn't intended to do that last part. It appeared under the pencil as though the design had been waiting for her to find it.
+
+Inside the little house were two figures. One had dark hair and a blue shirt. The other had a gray dress and a notebook.
+
+The boy turned toward the screen and waved.
+
+Annabeth drew back.
+
+"Percy?"
+
+The figure nodded. A speech bubble appeared above him: *You're home. Nothing can hurt us here.*
+
+Annabeth knew this was a game. Of course it was a game. Percy was sitting a few feet away, hot and tired, wondering whether to drink a smoothie. The digital version of him looked older, nearly seventeen, with the same stupid grin she'd fallen in love with in the life they remembered.
+
+She could make the house larger. The game offered a second floor, a garden and an entire new coastline, all without raising the price. No mortgage, no building permits, no gods threatening to destroy the city. There was even a space where two figures could sit beneath a tree and do absolutely nothing.
+
+She wanted it.
+
+That was the part that frightened her. She didn't want to pretend it was silly. She wanted a home where nobody came in carrying a prophecy, where Percy didn't leap from buildings to save someone, where Thalia could visit without worrying about Zeus.
+
+The game gave her another option.
+
+PAUSE THE OUTSIDE WORLD.
+
+A little clock appeared at the bottom of the screen. Its hands stopped.
+
+Annabeth let go of the pencil.
+
+She looked at her own watch. The minute hand was just past three. She was sure she'd been working for several minutes, perhaps longer, and yet the watch hadn't moved.
+
+She turned the game off.
+
+The screen went dark, but the picture of the little blue house lingered behind her eyes. She had to stand up and walk several steps away before she trusted herself not to touch the pencil again.
+
+Percy looked at her. "You okay?"
+
+"That place tried to make me think I could finish everything if I stayed long enough."
+
+"That's basically your hobby."
+
+"Not funny."
+
+He stopped smiling. She could see he meant to take her seriously. Annabeth found a scrap of paper in her pocket and wrote down her watch's reading, adding a question mark because she wasn't sure how long she'd been at the screen.
+
+"Something's wrong with time here," she said.
+
+Percy glanced at his phone. It had gone dark in his hand.
+
+"How wrong?"
+
+"I don't know yet. But if one minute feels like an afternoon, we should be leaving now."
+
+She turned toward Thalia. Her sister had just noticed the silver machine with Jason's name on it.
+
+Annabeth felt an unpleasant chill. The hotel had found the thing she wanted most without asking her. It was beginning to do the same to everybody else.
+
 A waiter appeared with four pink smoothies with umbrellas and lotus blossoms. "Compliments of the house."
 
 "We didn't order—" Annabeth started.
