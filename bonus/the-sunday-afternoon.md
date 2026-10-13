@@ -8356,3 +8356,137 @@ He smiled, rose and followed her.
 The room remained untidy. The pencil was still missing. Neither of them cared.
 
 ---
+
+## February 22: The Conversation They Didn't Have
+
+Thalia knew she wanted him the moment she saw him standing in the doorway.
+
+It was not a complicated realization. She had spent the afternoon teaching, had missed supper because a student wanted to review the new course, and had arrived at Rhys's cabin hungry, cold and impatient with the world. He opened the door wearing an old shirt with the sleeves pushed to his elbows. There was a smudge of ink on his thumb and an unfinished score on the table behind him.
+
+"You're late," he said.
+
+"I was busy."
+
+"An excellent excuse."
+
+She looked at him for a moment, then stepped close and kissed him.
+
+He responded with such easy pleasure that she felt the exhaustion of the day loosen almost at once. His hands settled at her waist, warm through the fabric of her coat. She caught his face between her fingers and kissed him again before he could say anything else.
+
+He laughed softly.
+
+"Hello to you too."
+
+"Hello."
+
+"Bad day?"
+
+"Not particularly."
+
+"Good day?"
+
+"Long day."
+
+He brushed a strand of hair from her cheek. She liked the small familiarity of the gesture, the way he'd learned that she would lean into it even while pretending to object to his fussing. She stayed close enough that he didn't mistake her answer for a request to be left alone.
+
+"Do you want food?" he asked.
+
+"Eventually."
+
+He smiled. "I know that answer."
+
+She kissed him again.
+
+The room seemed warmer than it had when she arrived. The stove was lit, the shutters closed and the workbench cleared enough that nobody would have to move a pile of bowstrings before sitting down. She knew the location of every object. More importantly, she knew the person standing in front of her, the way his expression changed when he wanted to tease her, the sudden quiet when he wanted to be serious and the familiar eagerness that met her now.
+
+She took off her coat and hung it beside his.
+
+He waited, watching her.
+
+"Stop looking so pleased with yourself," she said.
+
+"I'm pleased with you."
+
+"That's worse."
+
+"Is it?"
+
+She smiled and reached for him.
+
+There were days when she liked the work of making their relationship clear: the conversations about leaving, the disagreements over privacy, the practical compromises that allowed them both to remain themselves. Tonight she wanted the other part. She wanted the room, the quiet and his company without a speech explaining why. He seemed to understand. When she kissed him, he answered with the same warmth, letting their shared familiarity do what words would only slow down.
+
+They moved toward the cot, laughing when her boot caught the corner of a folded blanket. She kicked the boot free and caught his sleeve, pulling him closer. The small accident didn't interrupt anything. They had stopped expecting intimacy to look elegant.
+
+The lamp cast a narrow strip of gold across the wall. Thalia liked being able to see his face while they were close. She reached for the wick but changed her mind and left the light where it was. He noticed, smiled and came nearer.
+
+There was no question waiting to be answered. Their desire was plain in the way they sought each other, in the easy movement of his hand against her back and the way she held him close when the kiss might otherwise have ended. She could change her mind about any moment. So could he. Tonight neither wanted to.
+
+The night grew quiet around them.
+
+***
+
+Later, the room had cooled and the food was still untouched.
+
+Thalia lay against his shoulder beneath the blanket, watching the lamp burn lower. He had one hand resting over hers, and she was tracing the faded line of an old scar on his finger with the absent concentration of somebody who enjoyed having him close.
+
+"You're staring at my hand," he said.
+
+"I'm inspecting your workmanship."
+
+"On my own hand?"
+
+"Poorly maintained."
+
+He laughed. The sound was low and tired, and she liked how close it was.
+
+"Do you know what I like?" she asked.
+
+"I'm afraid to guess."
+
+"That we didn't have to talk about anything tonight."
+
+He looked at her. "We talked."
+
+"We argued about whether I was late."
+
+"A serious subject."
+
+"And whether your hand required repair."
+
+"An ongoing concern."
+
+She smiled. "You know what I mean."
+
+He did. She could see it.
+
+They had been together long enough to know where the important boundaries lay. They didn't need to construct a formal agreement every time she arrived wanting him. They could read the excitement in each other's faces and the willingness in the way they moved close. They could also stop, laugh, go to sleep or change course without making the evening a referendum on the entire relationship.
+
+Rhys touched her cheek.
+
+"I liked tonight too," he said.
+
+She leaned toward him and kissed him gently, a quiet answer that required no further explanation.
+
+Then she remembered the food.
+
+"I'm starving."
+
+He groaned. "You could have mentioned that earlier."
+
+"I had other priorities."
+
+"Apparently."
+
+She climbed out of bed, found the loaf he'd left on the table and returned with a piece for each of them. They ate sitting beneath the blanket, dropping crumbs and accusing each other of taking the larger portion. The argument was ridiculous and familiar. She liked that part almost as much as the earlier silence.
+
+Outside the wind moved through the pines. The cabin held its warmth. She had a program to run in the morning; Rhys had music to finish. They would wake, dress and go about their separate work. Tonight they had spent a few hours alone together because they wanted to, and neither had tried to make that wanting into something burdensome.
+
+Thalia rested her head against his shoulder.
+
+"Don't get used to me being this pleasant," she said.
+
+"I wouldn't dream of it."
+
+She smiled into the blanket and closed her eyes.
+
+---
