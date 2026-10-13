@@ -898,6 +898,34 @@ Clarisse stood next, dragging Silena up with her. "And we're going to Atlantis!"
 
 "I promise!" Percy shouted back, standing, Annabeth's hand in his. "Guest rooms! Chocolate for Amphitrite! No man-eating beds!"
 
+Before the last song, Chiron walked around the amphitheater with a small ledger. He wasn't asking for grand promises. He needed to know which campers had put away their borrowed equipment and which instructors would remain to supervise training when the summer buses departed.
+
+Percy had signed for two practice shields and forgotten one beside the canoe shed. He admitted it before Chiron reached his row.
+
+"Good," Chiron said. "Return it in the morning."
+
+"You're not angry?"
+
+"I will be if it rains and somebody finds it rusting there in October."
+
+Annabeth looked at Percy. "You do realize that tells you more about consequences than a lecture would."
+
+"Please don't encourage him."
+
+Chiron moved on, leaving Percy with a task he could actually finish. He made a mark on the back of his hand so he'd remember. A little later Silena brought over his borrowed training gloves and asked whether they belonged in the cabin or the armory.
+
+"Armory," he said. "And I've got a shield to return before breakfast."
+
+"Good. I've written it down too."
+
+Percy looked at her, amused. "You don't trust me?"
+
+"I trust you to mean it. I don't trust you to remember it after sleeping."
+
+That was fair. He had spent much of the summer being asked to make enormous promises, about family and quests and next year's visits. A practice shield was small enough to handle without prophecy, permission or a messenger. He would put it where it belonged.
+
+Annabeth leaned against his shoulder and watched the fire settle.
+
 The fire crackled. The stars pressed close. Chiron raised his cup.
 
 "To summer's end," he said. "Not an ending, but a turning. Go safely into the mortal world, my heroes. Study. Grow. Write to one another. Iris-message your old centaur, who worries. And return to us next summer, as you always do — braver, kinder, and only slightly taller."
