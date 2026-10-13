@@ -258,6 +258,104 @@ Ella guarded fiercely. If anyone neared the temple book while it held a note, sh
 
 ---
 
+The library arrangement worked for four days.
+
+On the fifth, a younger Athena camper asked Ella for the temple book and Ella told him it had been borrowed. It hadn't. It was sitting three feet away on the return cart with a folded note between pages eighty-three and eighty-four.
+
+"I saw it here yesterday," he said.
+
+"It isn't available."
+
+"Why not?"
+
+Ella could think of five reasons that sounded convincing and none that were true. Annabeth had asked her not to tell anyone, and Ella had taken the request as a charge to guard the book from everybody who didn't know the secret. She liked having a job that depended on her, but the boy wasn't trying to pry into anyone's private life. He needed the book for class.
+
+"Because," she said.
+
+The boy stared. "Because what?"
+
+Ella spread her wings over the cart. He stepped back, startled. That was when Chiron came down the stairs.
+
+"Is there a problem?"
+
+The boy explained he wanted the temple book. Ella looked toward the cart and felt a small, sharp twist of guilt. She had been so pleased to be useful to her friends that she'd stopped thinking about the reason the book belonged to the library in the first place.
+
+Chiron waited for her to speak.
+
+"The book is here," she said. "Ella doesn't want him to take it."
+
+"Is there a preservation concern?"
+
+"No."
+
+"Then why is it unavailable?"
+
+Ella could keep the promise not to reveal the note and still answer the question truthfully.
+
+"There's something inside that shouldn't go with the book," she said. "A personal thing."
+
+Chiron nodded and asked the other camper to give them a moment. He didn't ask Ella whose personal thing it was. Together they removed the folded square without opening it and placed it in a clean envelope behind the circulation desk.
+
+"The book can be borrowed now," Chiron said. "The envelope can wait for its owner. But we can't keep public books from readers because somebody wants a private delivery service."
+
+Ella looked at the floor. "Ella wanted to help."
+
+"I know. Helping somebody sometimes means explaining what you can and cannot do."
+
+He sent the book with the younger camper and showed Ella where the library's lost-property envelopes were kept. The system recorded where an object had been found without requiring staff to read private writing inside it.
+
+Annabeth arrived that afternoon and found Ella sitting beneath the catalog table, sorting scraps of paper by size with more force than necessary.
+
+"What happened?"
+
+"Ella kept the temple book. Somebody wanted the temple book. Ella was wrong."
+
+Annabeth knelt beside her. "You were trying to help me."
+
+"Helped the wrong way."
+
+"Then we change the way."
+
+Ella looked up. "Are you angry?"
+
+"At myself. I asked you to guard a hiding spot and forgot that you have work of your own here."
+
+Ella considered that. She loved the library. The notes were nice, but the books were not hers to keep away from people, and she didn't want to spend every afternoon deciding which camper could approach a shelf.
+
+"Can we use a box?" she asked. "A little box that doesn't belong to the books?"
+
+Annabeth thought about it. A private mail slot by the reading room could be used by anyone who wanted to leave a harmless message for a friend. It would need permission and rules: no valuables, no personal information left exposed, no guarantee that an object would be safe if it was forgotten.
+
+"We can ask the librarian," she said.
+
+They did. Chiron approved a small correspondence tray beside the circulation desk, but insisted that the library staff would not deliver the notes or read them. Campers could place a folded message in a labeled envelope and collect it during open hours. Anything unclaimed would be returned to the sender if possible or handled through the ordinary lost-property procedure.
+
+Ella insisted on helping write the notice. Annabeth insisted on making it short enough to read.
+
+"Can you still help me sometimes?" Annabeth asked after they put up the sign.
+
+"Sometimes. Ella wants to sort books other times."
+
+"That's fair."
+
+"And Ella won't promise a secret she can't keep. Ella forgot. Silena already knows, yes?"
+
+"Percy told her about the first one. She knows we're writing."
+
+Ella tapped a claw against the table. "Can Ella ask Silena about paper and envelopes? No private words. Just how to keep them dry."
+
+Annabeth considered. She didn't want to involve another person without telling Percy. But Silena knew already, and good stationery would help prevent loose papers from falling out of shared equipment.
+
+"Ask only about the envelopes," she said. "I'll tell Percy."
+
+Ella nodded. That evening she asked Silena how to keep paper dry in a library without hiding it inside a book. Silena listened, guessed what was happening and offered to show Percy how to fold a note properly. She did not ask Ella to repeat anything she'd promised Annabeth to keep private.
+
+The temple book went back into circulation. The correspondence tray acquired its first two envelopes before the week ended, one with a little owl and one with a wave. Other campers began using it too, leaving notes about borrowed pencils and meeting places for study groups.
+
+Ella watched the tray with satisfaction. She had wanted to help two friends. She had ended up making something useful for everyone, and she could leave it alone long enough to finish cataloging the next shelf.
+
+---
+
 Silena confronted Percy a week later with wax on her fingers.
 
 He returned from swimming lessons, hair dripping, to find her on his bunk with a wooden box open on her lap. Sticks of sealing wax in blue and white, a brass stamp with a wave pattern, twine, paper cut into neat squares.
