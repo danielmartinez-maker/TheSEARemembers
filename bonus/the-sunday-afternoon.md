@@ -3856,3 +3856,136 @@ That night she read his letter once more before turning down the lamp. The words
 She could live with that.
 
 ---
+
+Sunday, November twenty-sixth, was when Thalia learned how badly a person could want an ordinary conversation.
+
+There had been no fresh letter in the morning delivery. There was no reason there should have been: the courier came through on an irregular schedule, and Rhys had already written that week. Thalia knew all of that. She checked anyway, twice, and found herself annoyed with the wooden pigeonholes for remaining empty.
+
+By lunchtime the sky had begun to darken. The first flakes fell beyond the pavilion, small and uncertain, disappearing on the grass as soon as they landed. Thalia ate with the other instructors, carried her plate back and went uphill with no particular destination. She had a free afternoon. A month ago she would have treated that as a failure of planning. Now she wanted to enjoy it and found that her thoughts kept walking north without her.
+
+At the fork she stopped beneath the empty lantern bracket. The trail to Rhys's cabin disappeared into the pines. She knew the stones that rocked under a boot, the section where the wind always struck from the lake, and the step that creaked beneath the porch. Knowing the path was not remotely the same thing as having somewhere to go at its end.
+
+She turned toward the amphitheater instead.
+
+The stage was empty, and a low line of snow had begun collecting along the back row. She sat where Rhys had once played his unfinished song and pictured him bending over the guitar, frowning because a note had arrived half a beat early. She remembered the way he'd looked up when she corrected him. They had argued about the count. Then she'd asked him to dance.
+
+She was smiling when a voice said, "That good?"
+
+Annabeth stood three rows above her with a rolled drawing tucked beneath one arm.
+
+"It's cold," Thalia said.
+
+"That wasn't an answer."
+
+"It was an observation."
+
+Annabeth came down the steps and sat, leaving enough room between them for Thalia to decide whether she wanted company. Thalia recognized the gesture and thought, with some irritation, that the entire camp seemed to be learning the same lesson.
+
+"You're missing him," Annabeth said.
+
+"Apparently everyone has decided I'm transparent."
+
+"You've checked the mail three times."
+
+"Twice."
+
+"Three. You went back after lunch."
+
+Thalia looked at her. Annabeth looked pleasantly unmoved.
+
+"All right," Thalia said. "I miss him."
+
+Her sister nodded as though the admission required neither congratulations nor a lecture.
+
+"Is he all right?" she asked.
+
+"He's at home. Helping his mother. Fighting with a cupboard that has apparently held a grudge for years."
+
+"Sounds personal."
+
+"It is. The cupboard has a strong case."
+
+Annabeth smiled. The silence afterward was comfortable enough that Thalia didn't need to fill it. Snow gathered on the edges of the steps and vanished wherever a boot had left a warm mark in the wood.
+
+"He's coming back?" Annabeth asked.
+
+"He wants to. We don't have a date."
+
+"That sounds difficult."
+
+"It's not the end of the world."
+
+"I didn't say it was."
+
+Thalia glanced sideways. "You sound like him."
+
+"Then he sounds sensible."
+
+"Occasionally."
+
+Her sister shifted the drawing into her lap. She had brought a new plan for the east wall, a design with carefully marked drainage channels and a small note that someone needed to check the soil before the first hard freeze. Thalia looked at it out of habit. Then she handed it back.
+
+"You're allowed to go work on that," she said.
+
+"I know."
+
+"And I'm allowed to sit here and be unpleasant."
+
+"I know that too."
+
+Annabeth stood. Before she went, she reached down and squeezed Thalia's shoulder, a brief touch that reminded her of the little girl who used to fall asleep against her on cold nights.
+
+"Write him another letter," Annabeth said.
+
+"I already did."
+
+"Then tell him something new."
+
+Thalia watched her go. It was such ordinary advice that it was almost insulting. It was also right.
+
+She returned to Cabin One and found the first letter from Rhys beneath her book. She reread the part about the man with the chair and laughed again, less because the story was funny than because she could hear how Rhys would have told it aloud, carefully setting up the ridiculous detail before leaving space for her to interrupt.
+
+She took out a fresh sheet of paper.
+
+*Rhys,*
+
+*Snow began this afternoon. Not proper snow yet. The kind that thinks it can make an impression without committing to anything. I thought of you because the north path looks different when nobody's walking it beside me.*
+
+She paused. Too solemn. She could hear herself trying to make the weather carry feelings it had not volunteered to carry. She almost crossed the sentence out. Then she left it alone. He had asked her to tell the truth, not to be clever every minute.
+
+*I went to the amphitheater. Annabeth caught me sitting there and demanded an explanation. I told her I missed you. She took the information much better than I did.*
+
+*Do you remember the first night you played that tune for me? I keep hearing the part you got wrong, which seems unjust because I know you have fixed it. I can hear the corrected part if I concentrate. I think I prefer it when you are there to make the mistake yourself.*
+
+She stopped and tapped the pencil against the edge of the desk. There was something else she wanted to tell him. It was harder, though not because it was embarrassing. She had been thinking about how easily he had told her he wanted her there, how naturally his hand had found hers when they were walking, and how often she'd answered an affectionate remark with an insult because the insult gave her somewhere safe to stand.
+
+She turned the page.
+
+*I have been remembering Friday night. Not only because I miss kissing you, although I do, and you may feel extremely pleased with yourself about that for approximately five seconds. I keep remembering the part after supper when we stopped trying to make the evening special. I liked that you were happy for me to sit close without asking what was wrong. I liked being able to reach for you and finding you already turning toward me.*
+
+*I want that again.*
+
+There. No evasive joke at the end. She felt oddly exposed to a piece of paper. She could write something sharp now, make the line less earnest. Instead she allowed the sentence to stand alone.
+
+Outside, the snowfall thickened. Someone called up the hill for the lamps to be lit early. The camp was continuing its winter work, oblivious to the fact that Thalia had written four words she might once have spent an entire week avoiding.
+
+She finished with a note about the target frames and a warning that his mother was entitled to make him repair every cupboard in the house. Then she folded the letter and sealed it.
+
+At the door, she hesitated. The outgoing-mail box stood down by the pavilion. If she posted the letter now, she couldn't take it back to improve the ending or disguise the part where she'd admitted what she missed. She put it inside her coat and started downhill.
+
+She met the courier near the bend, a Hermes woman about her own age carrying a satchel and complaining cheerfully about the weather. Thalia handed over the envelope. The courier checked the address, slipped it inside and asked whether anything else needed sending.
+
+"No," Thalia said.
+
+The woman moved on.
+
+Thalia stood in the path a moment, then turned toward Cabin One. It had taken a considerable amount of courage to say something unremarkable, and she was annoyed by that. She was also pleased. Rhys had written about wanting her. Now she had written about wanting him. Neither of them had been obliged to make the statement; that was what made it worth keeping.
+
+When she reached the porch, the snow was finally beginning to settle. She paused and looked north, toward the path she knew so well.
+
+He wasn't there. She still wanted him. Neither fact had to spoil the evening.
+
+She went inside, shook the snow from her coat and began looking for the guitar she'd once borrowed from the music shed. She could remember enough of his melody to attempt the first phrase. The second would take some work. She suspected he'd have an objection ready when he heard what she'd done to it.
+
+The thought made her laugh. She sat down with the instrument, set her fingers carefully on the strings and began.
+---
