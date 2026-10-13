@@ -7414,3 +7414,197 @@ He smiled against her mouth. "Thank you."
 This time she let the words be enough.
 
 ---
+
+## February 20: The Woman Who Fixed the Shelves
+
+Rhys's mother opened the door before they knocked.
+
+She was smaller than Thalia had imagined, with dark hair pulled back from her face and the same patient expression Rhys wore when somebody was explaining a mistake he had already noticed. She looked from her son to Thalia, then to the small bag in Rhys's hand.
+
+"You brought bread."
+
+"You asked."
+
+"I asked whether you were eating properly."
+
+"That's a different question."
+
+His mother ignored him and turned to Thalia.
+
+"You must be Thalia."
+
+"Yes, ma'am."
+
+The word escaped before Thalia could stop it. She had not called anyone ma'am in years without sarcasm.
+
+The woman smiled. "That's more formal than necessary. Come in."
+
+The house was warm and full of small signs of work done carefully. A table stood near the front window; the kitchen shelves had indeed been replaced, and the new ones looked perfectly sensible. There were books piled beneath a chair and a repaired lamp with a cord that had been wound neatly along its base. None of the furniture appeared particularly dangerous.
+
+Thalia was disappointed.
+
+Rhys's mother caught her examining the shelves.
+
+"He told you about those."
+
+"He told me you made him replace all of them."
+
+"Only the ones that were falling down."
+
+"He made it sound like a personal campaign."
+
+"He likes being dramatic."
+
+Thalia smiled before she could help herself.
+
+They sat at the kitchen table. Rhys put the bread down and offered to make tea. His mother waved him away and filled the kettle herself. Thalia watched the familiar argument unfold with amusement. He wanted to be useful. She wanted to demonstrate that he could visit without treating the kitchen as a construction site. It was a disagreement Thalia recognized in several forms from her own life.
+
+While Rhys fetched cups, his mother looked at her.
+
+"How's the heel?"
+
+Thalia blinked.
+
+"He told you about that too."
+
+"He said you were trying to do too much before it was healed."
+
+"An exaggerated account."
+
+"Is it?"
+
+Thalia considered. "Not entirely."
+
+The woman smiled. She didn't ask more. She simply poured the tea and passed it across the table.
+
+They talked about camp for a while. Rhys's mother wanted to know how the winter program worked, whether the cabins had enough heat and what kind of lessons Thalia taught. The questions were specific, not intrusive. She seemed genuinely interested in how the place functioned rather than in any mythical reputation attached to Thalia's name.
+
+That made it easier.
+
+Thalia described her advanced program, explaining the balance between teaching technique and forcing students to make decisions of their own. His mother listened carefully, asked how they prevented dangerous mistakes and smiled when Thalia explained the test with weighted bags instead of arrows.
+
+"That's clever," she said.
+
+"Rhys was responsible for the barrier idea," Thalia admitted.
+
+His mother looked at him. "You had a good idea?"
+
+"Occasionally."
+
+"A rare event."
+
+Thalia laughed.
+
+Rhys looked betrayed. "You're both enjoying this."
+
+"Very much," his mother said.
+
+They ate bread and soup together. Rhys told a story about the audition and the offer that had followed. His mother listened without interrupting, then asked what he planned to do.
+
+"I think I'm going to accept," he said.
+
+Thalia looked at him. He hadn't said it quite so plainly before. They had talked about the terms, the schedule and the practical problems. Now he was saying the decision itself.
+
+His mother nodded.
+
+"Then you should."
+
+"You aren't worried about me traveling?"
+
+"I'll always worry about you traveling. That doesn't mean you shouldn't go."
+
+Rhys glanced at Thalia. She recognized the look: a mixture of surprise and relief, as though he'd been expecting the same argument in two different rooms and had instead received the same sensible answer.
+
+After the meal his mother took Thalia into the kitchen to show her the repaired shelves. Rhys remained at the table gathering the cups.
+
+The woman leaned against the counter.
+
+"He's happier when he talks about you," she said.
+
+Thalia went still.
+
+"I don't mean you have to do anything about that," his mother added. "I just thought you might like to know."
+
+Thalia looked down at the new shelves. The workmanship was sound, the edges carefully sanded, the brackets firmly fixed.
+
+"I like him," she said.
+
+"Good."
+
+"And I don't always know what I'm doing."
+
+His mother laughed softly. "Neither does he."
+
+Thalia looked up. The woman's smile was kind, but not indulgent. She had raised a son who could take care of other people and still had to learn how to let them take care of themselves. Thalia recognized that lesson more intimately than she wanted to admit.
+
+"You don't have to explain yourself to me," the woman said. "He's nineteen. You're eighteen. You can make your own choices."
+
+Thalia nodded, grateful for the lack of interrogation.
+
+They returned to the table. Rhys had finished cleaning the dishes and was attempting to fix a loose hinge on the cupboard door. His mother stood in the doorway and folded her arms.
+
+"Leave that alone."
+
+"It's loose."
+
+"It has been loose for years."
+
+"That's not a defense."
+
+Thalia caught his expression, the same concentration she'd seen at the range and in his cabin. She moved beside him and looked at the hinge.
+
+"Your screw's too short," she said.
+
+"Thank you."
+
+"You're welcome."
+
+His mother groaned. "Now there are two of you."
+
+They laughed and left the hinge alone.
+
+***
+
+On the ride back to camp, Thalia leaned against Rhys's shoulder and watched the last of the town lights fall behind them.
+
+"She likes you," he said.
+
+"I know."
+
+"You're very confident."
+
+"She insulted your cooking. That establishes common ground."
+
+He laughed.
+
+Thalia considered. She had expected to feel examined, perhaps judged against an image he had created through his letters. Instead she had met a woman who was practical, affectionate and perfectly willing to disagree with her son. Thalia had been allowed to arrive as herself, without having to perform some more suitable version.
+
+"She's good," she said.
+
+Rhys looked over. "She is."
+
+"Don't tell her I said so."
+
+"I'll write it in my next letter."
+
+"Traitor."
+
+He took her hand. She let their fingers settle together and smiled into the dark.
+
+At the north cabin they put away their coats and the remaining bread. Rhys turned toward her, looking pleased in that private way she had come to know.
+
+"Thank you for coming," he said.
+
+"I wanted to."
+
+"I know."
+
+She touched his face and kissed him. The kiss was warm and lingering, carrying the relief of a day that had gone well and the familiar desire to be close when nobody else needed them. He drew her nearer, and she leaned into him without hesitation.
+
+Later, sitting together beneath the blanket, Thalia told him which questions she'd expected his mother to ask and which ones she was glad she'd been spared. He laughed at some of her imagined interrogations and took others seriously. Neither tried to turn the visit into a promise of anything grand.
+
+It had been tea, bread, a few honest conversations and a cupboard with a loose hinge. She liked that.
+
+When she finally slept, the house they'd visited seemed less like a separate world Rhys disappeared into and more like a place she might return to, on a day when both of them wanted to go.
+
+---
