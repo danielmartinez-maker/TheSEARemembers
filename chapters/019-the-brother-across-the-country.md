@@ -768,4 +768,16 @@ At the dining pavilion, Percy was waiting with three plates. He didn't ask wheth
 
 She sat down and began eating. Somewhere across the country, Jason was living through an ordinary morning, perhaps doing lessons or arguing with a centurion about the weight of a shield. Thalia wanted to be there. She couldn't. She could still write him a letter that described something true, and she had.
 
+After lunch she passed the arena where the younger campers were practicing basic shield forms. She stopped at the fence. A small boy was having trouble holding his shield level, and the instructor had offered him a lighter one while he learned the movement. Thalia imagined Jason in the same position, determined not to ask for help because he wanted the older trainees to think he belonged.
+
+She had told herself for years that her job was to protect her little brother. At this distance, the only protection she could offer was knowing that somebody was looking after him, asking whether he had the things he needed, and making sure her own hopes didn't become orders for him to follow.
+
+The boy at the fence caught her watching.
+
+"Am I doing it right?" he asked.
+
+"You're moving your feet before the shield," she said. "The instructor will show you how to keep both together."
+
+He tried again. Thalia watched until he made the correction, then continued toward the cabin. She would probably think about Jason every time she saw a younger camper practicing. That wasn't something she needed to stop. She could think about him without turning the memory into another reason to demand an answer the Roman camp wasn't ready to give.
+
 
