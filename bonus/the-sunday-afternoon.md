@@ -633,6 +633,61 @@ The nights in between had made her miss his company in a way she did not particu
 
 Now she was acting on one deliberately. She didn't intend to spend the afternoon talking about a target shed. She didn't intend to explain away her visit as concern for her heel. She wanted to be alone with him, to kiss him until they both forgot to make jokes, and then to find out whether they were capable of sharing a quiet hour without inventing another excuse.
 
+
+
+After Chiron's examination, she had meant to go directly to the north path. Instead she went back to Cabin One and stood in front of the open trunk at the foot of her bed, looking at her own clothes as though she'd never seen them before.
+
+It was absurd.
+
+She owned three perfectly good shirts. Two were too warm for the afternoon, and the third was the one she'd worn to the range that morning. She could wear the third. Rhys wouldn't care. The problem was that she cared, for reasons she was unwilling to examine too closely.
+
+Annabeth was nowhere in sight. Her notebook lay open on the table beside a ruler and a piece of folded tracing paper. On the margin of a drawing she'd written a reminder to check the east wall before frost set in. Thalia caught herself smiling at the familiar handwriting, then shook her head and returned to the trunk.
+
+She wanted to look attractive. There, she'd admitted it, privately, to a room with nobody in it.
+
+It wasn't that she doubted Rhys wanted her. He'd made that clear enough. But she liked the idea of arriving and seeing his expression change. She liked the possibility of surprising someone who had spent six weeks being very difficult to surprise.
+
+She picked up a dark shirt, considered it, and put it back.
+
+"Pathetic," she told the trunk.
+
+The trunk offered no defense.
+
+Eventually she changed into the simpler shirt, brushed her hair, and left the more elaborate decisions alone. She looked like herself. That was a better starting point than pretending to be someone Rhys might find easier to like.
+
+The thought brought back Thursday evening: the rain on the cabin window, his warm hands around hers, the way he looked at her when she said something honest enough to embarrass herself. She had spent the following day trying to remember exactly what she'd said and whether he'd understood it properly. Then she had seen him on Saturday and discovered he'd understood perfectly well, which was worse, because he now knew how to make her smile without even trying.
+
+She fastened her coat and checked the small pocket for the clean shirt she'd folded there. She had no intention of announcing why she'd packed it. If she decided to stay, she'd have what she needed. If she decided not to, nobody would know the difference.
+
+Outside, the late sunlight fell across the path. She stood on the porch for a moment and considered turning back for a book, a scarf, an excuse. She had already spent an entire week devising excuses. It was getting ridiculous.
+
+What she wanted was uncomplicated. She wanted to see him. She wanted the privacy of his cabin, the warmth of his hands, the way he smiled when she said something deliberately unreasonable. She wanted to spend an afternoon with somebody who made her feel bold without making her feel as though she had to win.
+
+That last part had become surprisingly important.
+
+She'd noticed on Thursday how easily she could reach for him once they were alone. On Saturday, when he kissed her on the porch, she had been aware of how much she enjoyed being wanted in a place where the rest of the world might see. The feeling was still new enough to make her restless. She liked it. She wanted more of it. She didn't want to have to explain why.
+
+She walked toward the north path.
+
+The farther she went, the more the rest of camp fell away. The noise from the arena faded. The lake appeared between the trees, still and bright in the brief return of warm weather. She could hear somebody hammering at the far end of the range, but the sound seemed distant. She was going somewhere for herself. Nobody had assigned her the task. Nobody was waiting for a report when she returned.
+
+At the bend by the cedar brake, she stopped and checked her reflection in the dark glass of an unlit lantern. Her hair had already worked loose around her face.
+
+"Fine," she said aloud. "That's how it is."
+
+She could remember the first Monday evening, how long she had stood outside the cabin before opening the door. She had told herself she wasn't afraid. She hadn't been. But she had been uncertain, and there was a difference. The uncertainty had made her circle the question instead of asking it.
+
+Today she knew the answer. She could go to him because she wanted him, and he could want her back without either of them turning the encounter into a promise they weren't ready to make. She liked the simplicity of that. She liked even more that it hadn't become dull.
+
+She moved up the last rise. The cabin appeared between the trees, its window bright in the afternoon sun. Through the glass she could make out Rhys at the workbench, his sleeves rolled, his head bent over a bow limb. He hadn't seen her yet.
+
+She stood still for a moment and watched. He was concentrating, unaware of being observed, and the sight made her smile with an affection she wasn't quite used to feeling. There was nothing grand about him at that moment. He was a man fixing something with his hands. She wanted to interrupt him, to see him look up and recognize her, and to discover whether the whole afternoon might turn on the pleasure of that recognition.
+
+She could be impatient. She could also wait. She had been waiting all week, whether she'd admitted it or not.
+
+Then she climbed the steps and reached for the door.
+
+
 And now it was the middle of the afternoon and the sun was on her back and she was going to the camper's cabin at the end of the path, and she was not going to knock.
 
 She opened the door and went in and shut it behind her and stood on the mat with the sun coming through the quilted window and the stove ticking and the cabin bright in a way it never was at night, and she looked at him.
