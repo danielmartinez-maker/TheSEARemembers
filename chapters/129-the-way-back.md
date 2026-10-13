@@ -526,6 +526,111 @@ The cabin filled with overlapping voices and familiar arguments, everyone laughi
 
 ---
 
+Chiron asked for the return manifest before anyone unpacked the gifts.
+
+This was not the welcome Percy had imagined. He was tired from the passage, carrying a bag that seemed to have become heavier under the water, and Nico had already found the sweets Amphitrite had sent. Percy wanted to sit on the cabin steps and let the day stop moving.
+
+But Chiron had promised to count them when they returned, and he had been waiting at the shore with a clipboard. Now he stood outside the Big House while Annabeth compared the names on the palace record with the ones on the camp departure sheet.
+
+"All six of you?" he asked.
+
+"Percy, Clarisse, Silena, Annabeth, Thalia, and the camp escort for the upper passage," Annabeth recited. "The escort returned to the sea. We have his name and his watch number."
+
+"And Tyson?"
+
+"Tyson stayed at the undersea forges," Percy said. "He'll write when the rail repair is finished."
+
+Chiron marked the line. "Good. Did anyone need treatment?"
+
+Clarisse lifted her wrist, which had stopped aching during the journey but still had the faint mark from the garden repair.
+
+"Will looked at it before we left. No new injuries."
+
+"Any new equipment failures?"
+
+Annabeth thought about the shell charms and shook her head. "The replacements worked throughout this trip. Triton said the earlier failed shell was still being examined. He promised the report."
+
+Chiron wrote *pending* beside the entry rather than *resolved*.
+
+Silena pulled the small parcel of gifts from her bag. She laid them on the bench one by one, keeping the food separate from the fragile shells. A household attendant had packed an unfamiliar kind of preserved kelp beside the jam they'd brought. Silena had been given instructions for storing it, but she wanted the kitchen to confirm it was safe for campers with allergies before anyone served it.
+
+"Could we keep the food out of the dining pavilion until the cooks check it?" she asked.
+
+"Certainly," Chiron said.
+
+Nico, who had been eyeing the parcel hopefully, sighed with such theatrical despair that Clarisse pushed a plain camp biscuit into his hand.
+
+"You'll survive."
+
+"I was looking forward to diplomatic kelp."
+
+"You can look forward to it tomorrow."
+
+Percy took the returned guest card from Annabeth and put it on the table. Its edges had softened, but the ink still held. It listed the route they'd taken home and the person who had been responsible for each part of the transfer. Chiron studied it with approval.
+
+"Useful documentation," he said. "Did everyone feel able to request a change of plan?"
+
+There was a moment of silence. Percy glanced at Silena, who had been the one to insist on the guest protocols at camp.
+
+"I did," she said. "There were parts of the palace I wasn't comfortable with, but nobody made me stay in those rooms."
+
+Clarisse nodded. "They let me keep the key to my weapon rack. That's the only reason I agreed to leave the spear there."
+
+"And the Grace sisters?"
+
+Thalia answered first. "We received an unexpected message from Zeus. We didn't go to him, and nobody from the palace tried to force us."
+
+Chiron looked to Annabeth. She nodded. "I wanted to stay with the group. We asked why he wanted us. He didn't answer."
+
+"Then that is part of the record as well."
+
+Thalia seemed unhappy to have it written down. Percy understood. Recording the refusal meant admitting that a father had turned a possible visit into something his daughters needed a safety plan for. But leaving it out wouldn't make the episode vanish. Chiron put the note in the confidential part of his ledger rather than the general camp log.
+
+"Do you want us to do anything now?" he asked.
+
+"Not tonight," Annabeth said.
+
+"Then we shall not."
+
+Percy felt the tension go out of his shoulders. Their father could still send another message. The difference was that Chiron wasn't demanding they decide how to answer it before they had eaten.
+
+The group carried their bags toward the cabins. At the fork in the path, Clarisse stopped beside the fountain and held the old photograph up beside the new sketch Annabeth had made.
+
+"Do we keep both in Cabin Three?" she asked.
+
+"One belongs to Annabeth," Percy said.
+
+"That's what I'm asking. Does she want to hang hers in our cabin or her own?"
+
+Annabeth looked at the drawing. It wasn't the kind of family portrait that could be claimed by one building. She had made copies for the people in it, and the original would be better protected in a flat portfolio.
+
+"I'll put the original in Cabin One," she said. "You can have a copy. I'll need to finish the labels first."
+
+"What labels?"
+
+"The dates and locations. Otherwise, in five years, we'll argue about which visit it was."
+
+"We'll argue anyway," Clarisse said.
+
+"Yes, but we'll have evidence."
+
+Percy watched them settle the matter. There was no speech about belonging. A drawing had an owner, and that owner could decide where it went. It made him feel less like a prince and more like a camper with a sister who couldn't stand loose paperwork.
+
+He followed Silena toward their cabin. She had a list of people to thank for the trip. Some lived under the sea; others were the camp staff who had checked the departure route and kept the lake chores covered in their absence. She wanted the letters written while names were still fresh.
+
+"Tomorrow," Percy said.
+
+"Tomorrow," she agreed. "Tonight I'd like food and a bed that doesn't move with the tide."
+
+"Atlantis beds don't move."
+
+"I know. I kept expecting them to."
+
+They reached the cabin porch. There were three familiar pairs of shoes by the door, a watering can by Silena's bench and an empty plate that Clarisse had apparently forgotten to return to the dining pavilion. Percy set his bag down and took a minute to look at them. Leaving Atlantis hadn't turned it into a rejection. Returning to camp hadn't closed the sea behind him. There was work to do in both places, people to thank and choices that still belonged to him.
+
+
+---
+
 After dinner camp thinned into small groups. Grover walked Ella toward the Big House, debating whether shell flute could be played in the dining pavilion. Nico had fallen asleep on a bench and was carried away by a patient counselor. Silena and Clarisse went back to Cabin Three to unpack. Thalia went with them, claiming only to reclaim the map left in the bag.
 
 Annabeth found Percy at the lake.
