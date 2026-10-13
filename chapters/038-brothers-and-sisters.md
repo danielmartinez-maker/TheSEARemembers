@@ -722,6 +722,140 @@ Tonight was for family.
 ---
 
 
+Annabeth had been home for twenty minutes when she noticed the extra plate of strawberry shortcake.
+
+She had set it on the desk before dinner because Thalia said somebody might want it later. The cream was beginning to melt, and the strawberries had settled into a soggy heap. Annabeth looked at it and thought of Jason.
+
+Her brother had never attended one of these camp celebrations. He was at Camp Jupiter, where they had rules and holidays of their own. She knew that because he'd explained some of them during the Iris-message and because Chiron had been helping the sisters find an acceptable route for letters. But she'd spent the whole day surrounded by brothers and sisters who could reach across a table and steal each other's food, and she felt guilty for not having thought of him until the dishes were finished.
+
+Thalia came in with a towel around her wet hair. She looked at the shortcake.
+
+"Is that for me?"
+
+"Not anymore. It's become a geological formation."
+
+"Then why are you staring at it?"
+
+"I was thinking about Jason."
+
+Thalia put the towel over the back of a chair. She had been laughing when she entered. The laughter didn't disappear exactly, but it became something more cautious.
+
+"What about him?"
+
+"Did he have Siblings Day?"
+
+"I don't know."
+
+"Do Romans have one?"
+
+"Probably not this one."
+
+Annabeth looked at the desk. "We should have sent him something."
+
+"We sent him a letter. It's still going through the intermediary."
+
+"I know. I mean today."
+
+Thalia sat beside her. "What would you send? We can't just drop a package through the wards. We don't know whether Camp Jupiter would let it through."
+
+Annabeth recognized the correction. They had made it repeatedly since they began corresponding with Jason, and she didn't resent Thalia for making it now. She resented the distance that required them to keep making it.
+
+"Then we could write about today," she said. "Not promise him something. Just tell him what we did."
+
+Thalia looked uncertain. "Wouldn't that make him feel like he missed it?"
+
+"He did miss it."
+
+"Annabeth."
+
+"No, I mean we can't fix that by pretending it didn't happen. He has days in Rome we don't get to be part of. I'd rather hear about them than have him protect my feelings by telling me nothing."
+
+Thalia considered. She had spent years imagining Jason as the small boy taken from their household, carrying a spoon like a sword. The boy they'd spoken with during the Iris-message had been older, serious and plainly proud of his Roman training. She'd wanted him to be glad to have sisters again, but she had not always remembered to ask whether he wanted the same kind of closeness she did.
+
+"All right," she said. "What should we tell him?"
+
+Annabeth took a sheet of paper from the drawer. Their last letter to Jason was still awaiting confirmation of delivery. It would be foolish to send another one before they knew the channel worked, but she could write something now and keep it until they had an answer.
+
+She began with the date. Then she described Chiron's announcement, Nico and Bianca trying to do two different activities, the sparring tournament and the cooking contest. Thalia added a paragraph about Triton learning what a high-five was, because Jason would find that hilarious if he shared her opinion of ancient sea princes.
+
+Annabeth paused over the sentence about the obstacle course. She'd enjoyed the lake games enormously, but telling Jason that Percy had made a floating path and she had nearly fallen off it felt like describing an adventure he ought to have been invited to.
+
+"Write it," Thalia said.
+
+"You read my mind."
+
+"Not difficult. You look annoyed at the paper whenever you want to leave something out."
+
+Annabeth wrote the sentence. It was true. She didn't need every truthful sentence to be proof they were happy without him.
+
+When they came to the end, she asked Thalia whether they could invite Jason to tell them about a day at Camp Jupiter.
+
+"He may not want to," Thalia said.
+
+"Then he can say no."
+
+The older girl considered, then nodded. Annabeth wrote the question.
+
+They had almost finished when Thalia stopped her.
+
+"Don't sign it as if we know when we'll see him," she said. "We haven't got permission for a visit."
+
+"I know. I wasn't going to."
+
+Thalia looked embarrassed. She had been worried enough about giving Jason false hope that she'd begun correcting things Annabeth wasn't doing.
+
+"Sorry," she said.
+
+"It's okay. I was thinking about it too."
+
+They folded the letter and put it beside the earlier correspondence receipt. They would ask Chiron whether another packet could be submitted after the first one was acknowledged. They would not announce that the letter was on its way until they knew it had actually left camp.
+
+Thalia looked at the small heap of shortcake.
+
+"I wish he were here," she said.
+
+Annabeth nodded. "Me too."
+
+"I used to think if I could see him again, everything about losing him would finally make sense. Then we had the Iris-message, and I was so happy I almost couldn't talk. But afterward I missed him worse."
+
+Annabeth looked at her sister. "Because now you know there's someone to miss."
+
+"Yes."
+
+They sat in silence. The cabin was quiet enough to hear a late group leaving the pavilion, still singing the ridiculous song Grover had taught them at the story circle.
+
+"Could we take a photograph tomorrow?" Annabeth asked. "With the haircuts?"
+
+"For Jason?"
+
+"Yes. And one of Percy and his sisters. We can keep the second one for him if he wants to know what they're like. He likes asking about the people here."
+
+Thalia smiled. "He would. He used to ask why everybody had different shoes."
+
+"That's a reasonable question."
+
+"You're both impossible."
+
+Annabeth went to find Silena before she forgot the plan. Silena agreed to lend her camera in the morning, provided they returned it before the afternoon craft session and didn't make the entire event a public announcement. Thalia appreciated the condition.
+
+Back in the cabin, Annabeth put the paper in the drawer and ate the last strawberry from the plate. Thalia took the biscuit, which had gone soft, and claimed it was better that way.
+
+They had spent Siblings Day with people they could touch, and they'd made room for a brother they couldn't visit yet. Neither part canceled the other.
+
+When the lamps were turned down, Thalia asked whether Annabeth had enjoyed the day.
+
+"Yes," she said. "I did."
+
+"Good."
+
+"And I want to tell Jason about it."
+
+Thalia smiled in the dark. "Then we will, when we can get the letter to him."
+
+Annabeth closed her eyes. She didn't know when the message would travel or what Jason would say when he read it. For once, she had written something to him without pretending that the distance between them was temporary or easy.
+
+---
+
 Triton, heir of Atlantis, commander of the Pelagic Guard, eldest son of Poseidon, had attended councils that decided the fate of oceans.
 
 He had never been more nervous than when Percy asked him, quietly, during their walk after dinner: "Are you glad you came? Or was it boring? Mortal camp stuff?"
