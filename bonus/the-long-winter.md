@@ -879,6 +879,163 @@ Thalia stepped back.
 She went uphill with the repaired arrow in her quiver and his hand still an imagined warmth against hers. She was becoming tired of almost doing things. It took her another five days to decide she had had enough.
 
 
+Three days before she walked to Rhys's cabin with Percy's coat over her shoulders, Thalia found him sitting alone on the fence by the north range.
+
+It was nearly dark. The last instructors had gone to supper, and the targets stood as pale circles in the fading light. Rhys had a length of leather in his hands and was repairing the strap on an old quiver. He did not look up when Thalia approached, though she knew he heard her boots on the gravel.
+
+"You're late," he said.
+
+"For what?"
+
+"Inspecting my terrible work."
+
+She stopped beside the fence. "You have work worth inspecting?"
+
+"Occasionally."
+
+He raised the quiver. The strap had been cut nearly through, and he'd begun a neat repair along the damaged section. It was difficult work with the fading light, but he was doing it carefully.
+
+"That's not going to hold," she said.
+
+"I haven't finished."
+
+"Then finish before you ask for approval."
+
+He smiled and continued sewing.
+
+She watched him for a while. Her heel was beginning to ache again, a familiar discomfort she had spent several days refusing to take seriously. She shifted her weight to the other foot and leaned against the fence. Rhys noticed the movement, but kept his eyes on the stitching.
+
+"Been on your feet all day?" he asked.
+
+"More or less."
+
+"Then sit down."
+
+"I'm not tired."
+
+"I didn't say you were."
+
+She considered being annoyed. Instead she sat on the low rail beside him, careful not to put weight on the sore foot. He had left enough room that she could sit without brushing against him, though the space between them seemed deliberate. It was annoying how often she was aware of the precise distance from his shoulder.
+
+He finished the stitching and tested the strap.
+
+"Better?" he asked.
+
+She took the quiver and pulled on the leather. The repair held.
+
+"Acceptable."
+
+"Glowing praise."
+
+She handed it back. The small exchange left her without an errand, and she discovered that she wanted to remain.
+
+Rhys put the tools away.
+
+"Can I tell you something?" he asked.
+
+"That's usually a warning."
+
+"I've been thinking about leaving after winter."
+
+Thalia looked at him.
+
+"Why?"
+
+"Because I don't know what comes next. I'm nineteen. I like teaching here. I like making music. My mother needs help at home sometimes. Those things don't fit together neatly."
+
+"Then don't decide tonight."
+
+He smiled faintly. "A very simple solution."
+
+"Not a solution. A postponement."
+
+"Ah."
+
+She looked toward the targets. The first stars were appearing above the ridge, and the wind was beginning to move through the grass. She knew the feeling he was describing: the discomfort of being capable of several things and unable to choose which one ought to define her. She had been so occupied with keeping Annabeth safe that she'd sometimes forgotten she would eventually have to make decisions for herself.
+
+"Do you want to leave?" she asked.
+
+"I don't know."
+
+"Then start with that."
+
+He looked at her, surprised by the directness.
+
+"You're remarkably wise when you're not criticizing my stance."
+
+"Don't get used to it."
+
+They sat together for a while, watching the last light leave the field. Thalia found herself thinking about the fact that he had chosen to tell her something important. She had not asked for it. He wasn't making a speech. He was simply sharing a problem he hadn't solved.
+
+"Are you worried about disappointing your mother?" she asked.
+
+"A little."
+
+"She knows you're good at things."
+
+"She knows I'm good at fixing broken things. She'd like me to be good at choosing a life."
+
+"That sounds like an unreasonable standard."
+
+He laughed softly. "You'd like her."
+
+"Perhaps. If she doesn't make me repair cupboards."
+
+"She might."
+
+Thalia smiled. The thought of meeting his mother arrived without warning and startled her. She had known him for weeks, had spent several afternoons searching for reasons to stand beside him, and had yet to kiss him. It was absurd to imagine meeting his family. She turned the thought into a joke before it could show on her face.
+
+"Tell her your bowstrings need maintenance," she said. "Then you'll be too busy to visit."
+
+"She'd send me new ones."
+
+"A formidable woman."
+
+"Very."
+
+He looked toward her. Their knees were almost touching. Thalia was aware of the slight movement of his hand as he set the quiver down, the way his body had turned toward hers without either of them making the decision aloud. She could have reached for him. She knew it.
+
+She wanted to.
+
+The wanting was inconvenient because it came attached to a much larger question: what would she do if he wanted her back? She had spent years managing danger, making plans, insisting on knowing what came next. There was no plan for this. She could kiss him, and he could kiss her back, and the world would remain uncertain in ways she could not fix.
+
+He looked at her mouth once, briefly, then back at her eyes.
+
+"Thalia."
+
+"What?"
+
+He smiled faintly.
+
+"Nothing."
+
+She hated the kindness of that. He was leaving her the choice, and she had not yet learned how to make it without first being certain of the outcome.
+
+She turned toward the field.
+
+"Your targets are crooked," she said.
+
+He looked. "They're not."
+
+"They will be tomorrow."
+
+"An excellent prediction."
+
+She laughed. The moment loosened, but did not disappear entirely. She could feel it when they stood, when he offered a hand as she stepped down from the fence and she took it without objecting.
+
+"Good night," he said.
+
+"Good night."
+
+She walked home slowly, giving the heel more rest than she usually allowed it. Halfway up the path she stopped beneath a lantern and looked back. Rhys was still by the fence, holding the repaired quiver and watching her go.
+
+She raised one hand.
+
+He raised his in return.
+
+The next day she saw him at the range and discovered that the memory of those few minutes beside the fence made it difficult to concentrate. She knew she was becoming ridiculous. She also knew she wasn't ready to stop.
+
+---
 At the last bend in the path, Thalia realized she had been arranging reasons to see him for weeks.
 
 She could tell herself that the bow needed restringing or that somebody had to settle the argument about the north range. Once, she had spent half an hour in his company discussing a warped target stand neither of them was responsible for fixing. He must have known. The stand had been perfectly straight.
