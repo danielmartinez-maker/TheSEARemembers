@@ -829,3 +829,75 @@ Annabeth returned Percy's jacket before they reached the cabins.
 "I know. You can wash it."
 
 He took the jacket. She made it to the Zeus cabin steps before she turned around and saw him still holding it over one arm. He waved. She waved back and went inside to find Thalia asking who had volunteered them for next week's harvest duty.
+
+---
+
+The next morning, Silena returned to the strawberry collection tent to check the corrected yield against the kitchen's actual sorting record. The head cook had marked the usable fruit, the damaged berries and the crates set aside for preserves. The numbers didn't match the first harvest tally, but they matched the revised measurements closely enough that Silena could trace the difference.
+
+She was pleased. She had spent half the previous day explaining why a working scale mattered, and for a while she'd worried everybody would remember only the delay.
+
+The cook handed her a small jar of jam.
+
+"That's from the fruit your group picked. Taste it before you leave."
+
+Silena opened the lid and tried a spoonful. It was sweeter than she expected, with a little lemon that kept it from tasting like syrup.
+
+"Can I take it to the others?"
+
+"Of course. That's why I gave it to you."
+
+At the pavilion she found Percy helping stack chairs after the music night. Grover was packing his pipes and looked half-asleep. Annabeth was sitting on the steps with the program, marking places where she'd stumbled over a line so she could improve the story if she performed it again.
+
+Silena set down the jam.
+
+"The kitchen finished the yield report," she announced. "We were short on the first scale, but the revised record held up. They have enough for the preserves planned this week."
+
+Percy looked at the jar. "Does that mean we can stop hearing about calibration?"
+
+"No. It means calibration worked."
+
+Annabeth took the sheet and checked the correction. "You have the date and the second reading. Good."
+
+"Of course I do."
+
+Grover dipped a cracker in the jam and made a sound of approval. He had not expected the fruit he'd spent all morning carrying to become something that could be saved for winter. He had been thinking about the Searchers and how much he wanted to be somewhere beyond camp. Now he wondered how often protecting a place began with learning what it produced and making sure the people who worked there were credited properly.
+
+"Did you get the names from the late shift?" he asked.
+
+Silena looked up. "Yes. Why?"
+
+"They came back after the field race, when everybody else went swimming. I didn't want them forgotten."
+
+She turned the record around. Each shift was listed. The late group had gathered fewer baskets, but its work was essential to finishing the harvest before the afternoon heat damaged the remaining fruit.
+
+"They're there," she said.
+
+Grover nodded, satisfied.
+
+Thalia arrived carrying a rolled-up program from the amphitheater. She had been teasing Annabeth about the changed myth ending since breakfast, but she looked serious when she found the group checking records.
+
+"Was the performance order all right?" she asked Grover.
+
+"Mostly. I put one singer too close to the percussion group, so they didn't have enough time to move the instruments. Nobody was hurt, but the stage crew had to rush."
+
+"Then fix it for next time."
+
+"I already wrote a note to Chiron."
+
+Thalia smiled. She hadn't expected Grover to become so proud of the schedule. She remembered how nervous he'd been about playing his pipes in front of everyone. He had done that too, and nobody had taken the moment from him simply because the logistics were difficult.
+
+Annabeth closed her program and looked toward the hills where the field crews were working again. Her own performance had gone well enough that people had asked about the changed ending. She'd explained it was an adaptation, not a newly discovered version of the myth, and some had liked it while others preferred the original. That was a conversation she could enjoy without needing everyone to agree.
+
+Percy passed around the crackers. They ate the jam standing beside the pavilion, still tired from the previous day and not yet ready to begin the next one. There were tools to return, chairs to stack, and a new shift preparing to pick fruit under a sun that would be higher by noon.
+
+The camp didn't stop needing ordinary work because it had managed a good evening. Silena put the record in her folder. Grover took his pipes back to his cabin. Annabeth kept the annotated story for a future performance.
+
+Thalia looked at the jam jar, then at Percy.
+
+"Do you think there's enough for another round?"
+
+"If Clarisse doesn't find it first," he said.
+
+They finished it before she arrived, which produced an argument at lunch and a promise to save her a jar from the next batch.
+
+
