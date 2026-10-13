@@ -501,7 +501,7 @@ Rhys Calder's cabin had a stove with a real chimney and eight cots and one windo
 
 "You're eighteen, and you do it on the downhill from the north ridge, and I watch you do it because I'm the one who made you shoot on it." He came and stood in front of her and put one hand carefully at her waist and the other up to her jaw, and he looked at her the way he looked at things he had been waiting for. "Come in. Sit down. I've got a heater and I've got the good cider."
 
-She came in. She sat. It was easier than deciding to.
+She stepped inside. The chair was there, but she wasn't ready to sit.
 
 
 She had been prepared for him to tease her about the coat. Percy was smaller, and the sleeves swallowed half her hands; a person would have to be blind not to notice. Rhys looked at it, then at her face, and kept his opinion to himself.
@@ -674,7 +674,7 @@ When he gave her the warm drink she let her fingers brush his for a moment longe
 
 
 
-He had the small stove going and a mug of something that steamed, and he gave her the chair with the cushion on it and sat himself on the edge of the cot, and they talked about nothing for twenty minutes the way people do when they are circling. The winter cabin assignments. The forge's new bellows. Whether the Tempest Hall counted as swimming season — rule five, they agreed, meant it counted. The letter his mother had sent with four dollars in it and a note that said *do not lose the four dollars.* The slate by the door with the laundry instructions and the camper gossip written over it in three different hands, and the top line, in a square careful hand she did not recognize, said *ETERNITY. THAT'S ALL.* He caught her looking at it.
+By the time their mugs were half empty, they'd spent twenty minutes talking around what had brought her here, choosing subjects they could argue about without either of them having to look away. The winter cabin assignments. The forge's new bellows. Whether the Tempest Hall counted as swimming season — rule five, they agreed, meant it counted. The letter his mother had sent with four dollars in it and a note that said *do not lose the four dollars.* The slate by the door with the laundry instructions and the camper gossip written over it in three different hands, and the top line, in a square careful hand she did not recognize, said *ETERNITY. THAT'S ALL.* He caught her looking at it.
 
 "I wrote that," he said. "I was seventeen and stupid and I meant it."
 
@@ -1851,14 +1851,10 @@ He smiled. "That's not an expression I'm planning to stop making."
 
 She reached for him one last time. The kiss was unhurried, and when they separated she let her hands fall from his shoulders. The evening wasn't being cut short. It was ending because she had chosen an ending, and she liked knowing there would be another time to choose differently.
 
-"Thursday," she said.
-
-"Thursday."
-
 She picked up the coat's loose cuff, tugged it down over her fingers, and went toward the door before she could reconsider for a seventh time.
 
 
-When she stood to leave, he didn't ask her to stay. She had said she was going home, and he took her at her word. He walked her as far as the porch. Outside, the cold made her eyes water. She drew the borrowed coat closer.
+At the door, he didn't ask her to stay. She had said she was going home, and he took her at her word. He walked her as far as the porch. Outside, the cold made her eyes water. She drew the borrowed coat closer.
 
 "You're still wearing Percy's coat," he said.
 
