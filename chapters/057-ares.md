@@ -720,6 +720,40 @@ When he finally slept, he dreamed of an ordinary breakfast table in a cabin near
 
 The sealed weapon was still under guard. Percy was glad it wasn't in his backpack.
 
+The transfer reached Manhattan while the streets were still mostly empty.
+
+Percy saw the first building through the terminal's upper windows. He couldn't tell where they had arrived at first. The city looked ordinary, with delivery trucks and people carrying coffee, until the light changed and he recognized the familiar outline of a street he'd walked with Sally in the older life.
+
+He stopped beside the window.
+
+"That's New York," he said.
+
+Annabeth came up beside him. "I noticed."
+
+"I know. I just thought it would feel different."
+
+"It does for you."
+
+He nodded. The city held a childhood he remembered and a death he was supposed to have lived through at two. He could walk the old route to Sally's apartment in his head. None of the people on the street would know why it mattered.
+
+The representative called them to the final check. The container holding the master bolt was intact, still bearing the same seals it had received on the beach. Annabeth compared the seal number with the one she'd recorded. Thalia signed the visitor ledger with the hand that wasn't still aching from the fight. Grover produced his searcher license before anyone asked, looking absurdly pleased with himself.
+
+Percy asked whether Chiron had received the report. The representative confirmed that his message was acknowledged and that the court would receive four living witnesses alongside the weapon.
+
+"Then we're actually going?" Grover asked.
+
+"We're going to the receiving office," she replied. "An audience with Zeus is a separate matter."
+
+Thalia gave a long, tired sigh.
+
+"Even now?"
+
+"Especially now."
+
+Percy looked at the city one last time. He had wanted this entire quest to end with the bolt back on Olympus. The hard part wasn't the distance anymore. It was getting a family of gods to hear what four children had actually witnessed, instead of what each brother wanted the evidence to mean.
+
+He picked up his bag. It felt strangely light without the fear of a hidden weapon in the side pocket. He carried his reports, his bandages and the folded answer about Sally. All of them were real. None was a guarantee that the morning would go well.
+
 The sun touched the water.
 
 Percy closed his eyes and let the tide wash over his legs, carrying away blood and ash, leaving salt and strength behind.
