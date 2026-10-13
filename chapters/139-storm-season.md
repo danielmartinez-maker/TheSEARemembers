@@ -308,6 +308,94 @@ Everyone looked to where Straw Bob the Third stood staked by the pool in his old
 
 ---
 
+They took the scheduled break in the rain shelter at the end of the third exercise. Percy found that his hands were shaking slightly. He tried to hide it by tightening the knot on his jacket cuff, but Clarisse noticed.
+
+"Eat," she said, handing him half a roll.
+
+"I'm not hungry."
+
+"I wasn't collecting votes."
+
+He accepted the bread and discovered he was hungry enough to finish it in three bites. Silena brought the canteen round, making sure Jason and Ella drank before anybody started arguing about the readings. The salt air had left a fine film on everyone's lips. Percy could taste it when he spoke.
+
+Annabeth spread the wet paper across the bench. The current had moved within the marked channel for the first two exercises. In the third, the water had risen briefly at the downstream end, against the direction Percy thought he'd given it.
+
+"That's not what I asked for," he said.
+
+"That's why I've marked it," Annabeth answered.
+
+"Could have been a gust."
+
+"Could have. But the gust would have reached the upper flags too, and they stayed nearly still."
+
+Grover leaned over the map. "There's a small drain beyond that point. A freshwater line from the camp irrigation system."
+
+"The Sound is saltwater," Percy said. "The drain shouldn't affect much."
+
+"Shouldn't isn't the same as won't," Annabeth said. "The fresh stream might change the way the surface moves."
+
+He felt a familiar flash of irritation. He knew water. He knew the tug of currents and how to push against them, how to lift a crest without breaking it. Every time they made a chart, somebody found one more thing that his power wasn't supposed to do.
+
+Then he looked at the paper. Annabeth hadn't written *Percy failed*. She had drawn two arrows, one for the command he'd given and one for the movement that followed. The arrows disagreed. Neither could be corrected by his pride.
+
+"All right," he said. "Let's trace the drain."
+
+"Only from the dry side," Chiron said.
+
+They walked to the inspection point. Clarisse carried the measuring line. Percy knelt at the bank and watched a narrow freshwater runnel meet the saltwater channel, clouding it for a few feet before the current dispersed it. The mixing point wasn't dangerous by itself. It was simply something they hadn't accounted for.
+
+"I'll keep the next exercise above it," Percy said.
+
+"No," Annabeth said. "If we move the test section without checking the boundaries, we've changed the experiment."
+
+He sat back on his heels. "Then what do you propose?"
+
+"Record the mismatch. Continue with the next approved pattern only if Chiron thinks the observation doesn't invalidate the safety limits."
+
+Grover looked at the orange flag and then at Chiron. He had the odd expression of someone realizing the job he'd agreed to do actually mattered. The centaur asked Ella to record the drain's position, then checked that the warm section of the channel remained inside the observation line.
+
+"The anomaly is outside the energized part of the next drill," he said finally. "We will not increase charge. We may continue with the original plan and treat that downstream measurement as unverified."
+
+Percy wanted to argue for a second chance to make the water behave properly. He could feel the shape of the current now; repeating the maneuver would have been easy. But he'd agreed that this wasn't a contest. The point of keeping the record was that no one had to erase a failed observation to believe in a successful day.
+
+Thalia sat on the low wall beside him while the others collected equipment.
+
+"You don't like leaving it unresolved," she said.
+
+"Neither do you."
+
+"I hate it."
+
+"So why aren't you arguing?"
+
+"Because Jason's watching."
+
+Percy turned. Jason stood beside Ella, copying the drain location into his own notes with painstaking care. His tongue stuck out of one corner of his mouth. He had missed nothing of the exchange.
+
+"He knows you're good at this," Percy said.
+
+"That's not the part I want him to learn."
+
+Thalia drew her wet sleeve back from her wrist. There were faint pale marks there from old training injuries, not new wounds, and Percy wondered how often she'd been told that the sky belonged to her and therefore she ought to use it every time someone asked. She had always sounded more confident than he felt. He'd never asked whether the confidence was exhausting.
+
+"Zeus used to arrive with a different face every time," she said quietly. "Some days he'd tell me I was the only one who could hear the storm. Next time he might act as if he didn't know me. I spent years trying to do something he couldn't ignore."
+
+Percy kept still. This wasn't a story about the erased life. It was hers, lived here, and she had chosen to tell it.
+
+"And today?" he asked.
+
+"Today I can stop before the clouds ask me to."
+
+He looked toward Annabeth, who was examining the charge meter with the technician. "You do know she worries about you."
+
+"I worry about her."
+
+"That's not the same thing as asking what she wants."
+
+Thalia gave him a sideways look. "I didn't say it was."
+
+She got to her feet when Annabeth called for the observation sheets. Percy handed the damp roll wrapper to Grover for the rubbish bag. He felt less strong than he had before the break, but more certain of what the next exercise was meant to show. A controlled attempt could end with a question. They did not need to risk another attempt simply to turn the question into a cleaner story.
+
 By Drill Four the spring storm had moved overhead in earnest, and practice felt deliciously real without ever tipping into danger.
 
 The sky had gone the color of old bronze, then bruised purple-gray. Rain fell steadily, then sideways in gusts. Thunder rolled continuously far above, not cracking close, just growling as charge moved through high cloud. On the hill Malcolm managed the grounding cables while Jason checked the readings beside him, so the air never went sharp or scary. The hair on Percy's arms lifted, then settled, lifted, then settled, as the system breathed.
