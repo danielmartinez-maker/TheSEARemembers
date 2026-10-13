@@ -3665,3 +3665,255 @@ Rhys looked at her. He nodded, serious now.
 She went down the steps. The path shone under the lanterns, and she had her gloves this time. Halfway down the hill she caught herself humming the unfinished melody. There was something she liked about a tune that could make room for silence without losing its shape.
 
 ---
+
+## Wednesday, November 1: A Room with Her Name in It
+
+Thalia had never wanted a room of her own as badly as she did after she began spending evenings in someone else's.
+
+Cabin One was home. It contained her bed, her books, her weapons and a collection of small things Annabeth insisted were important enough to preserve. It had a view of the upper meadow and a door that stuck whenever the weather turned wet. Thalia knew exactly where each board complained and which window latch needed lifting before it would close.
+
+It was also a place where people came looking for her.
+
+By eight that morning, two campers had knocked to ask about the winter archery list, an instructor had left a message about the targets, and Annabeth had demanded that she look at the east wall before the next freeze. Thalia had answered all three questions and then stood in the middle of the room trying to remember what she'd intended to do when she woke.
+
+The photograph from the orchard was inside her book. She took it out and looked at it again.
+
+Rhys was laughing. She was turning toward him, half off balance, with her hand caught in the front of his coat. Neither faced the camera. It wasn't a particularly flattering image of either of them. It was also the only photograph she owned in which she could remember exactly what she'd been feeling when it was taken.
+
+She liked being able to remember that.
+
+She put it on the little shelf beside her bed. Then she stepped back.
+
+Too visible. Annabeth would notice it the moment she came in. Thalia took it down and slid it into the book again.
+
+A minute later she was angry with herself.
+
+She wasn't ashamed of him. She wasn't ashamed of wanting him, or of having spent the night in his cabin. But she didn't want the relationship displayed as something to be examined every time somebody entered her room. She had spent enough of her life answering questions about what sort of daughter Zeus had produced. She could already imagine the comments about the son of Apollo she'd been seen walking with, about whether the great Thalia Grace was turning sentimental.
+
+She wanted people to know only what she chose to tell them. She also wanted the photograph where she could see it.
+
+The contradiction was inconvenient and remained unsolved by moving the object in and out of a book.
+
+Annabeth appeared in the doorway carrying a rolled plan.
+
+"Why are you staring at your shelf?"
+
+"I'm making a decision."
+
+"About whether to dust it?"
+
+"About whether you're becoming unbearably nosy."
+
+"That one's been settled."
+
+Thalia sat on her bed. Her sister put the plan on the table and began sorting through measurements. She had brought fresh pencil marks and a diagram of the low wall near the east path. For twenty minutes they argued about drainage with the affection of two people who had been having the same argument in different forms for most of their lives.
+
+Then Annabeth noticed the book.
+
+"That's the one you've been carrying everywhere."
+
+"It's a book."
+
+"You haven't turned a page."
+
+"Perhaps it's difficult."
+
+"Perhaps there's something in it."
+
+Thalia gave her a level look. Annabeth's mouth twitched.
+
+"I wasn't going to ask," she said.
+
+"You were doing an excellent impersonation of asking."
+
+Annabeth slid the plan across the table.
+
+"I've been trying to work out what happened to you."
+
+Thalia stiffened before she could help it. "Nothing happened to me."
+
+"That's what you keep saying."
+
+"Because nothing happened that requires an investigation."
+
+"Then why do you keep expecting one?"
+
+The question landed cleanly enough that Thalia was silent. Her sister looked back at the plan instead of pressing, which made the silence worse.
+
+Thalia turned the book over in her hands. "I've been seeing Rhys."
+
+"I know."
+
+"I know you know."
+
+"Good."
+
+"And I don't want you asking about everything."
+
+Annabeth nodded. "I wasn't planning to ask about everything."
+
+"What's 'everything'?"
+
+Her sister gave her the look she used when a mathematical problem was making itself deliberately difficult.
+
+"The things that are yours."
+
+Thalia sat still.
+
+That was not an answer she had expected from Annabeth. Part of her had prepared to protect the younger girl from details she had no business knowing; another part had prepared to defend herself against teasing. The offer of privacy made both preparations unnecessary.
+
+"Thank you," she said, a little awkwardly.
+
+Annabeth looked up. "You can still tell me when something matters."
+
+"I know."
+
+"Good."
+
+They returned to the east wall. The conversation was easier afterward, not because every unspoken thing had been settled but because neither sister had tried to claim the whole of the other's life.
+
+At noon Thalia moved the photograph onto the shelf.
+
+It stayed there.
+
+***
+
+That evening she went to the range after the last class had finished. Rhys was there alone, rolling the target covers with the unfriendly precision of a man who had discovered that a thing designed to be folded refused to be folded.
+
+"You've got the corners wrong," she said.
+
+"I knew you'd come."
+
+"Then you ought to have prepared something less embarrassing."
+
+He looked at her. "How was the east wall?"
+
+"Still standing."
+
+"Good."
+
+She helped him fold the cover, mostly by standing on one edge while he pulled the canvas tight. The fabric settled into a neat rectangle on the third try. Rhys strapped it shut and carried it into the shed. Thalia followed, thinking about the photograph on her shelf and the fact that Annabeth would see it when she returned to the cabin.
+
+Rhys set the bundle down.
+
+"What?" he asked.
+
+"Nothing."
+
+"That's been your answer all week."
+
+"Then you're not listening hard enough."
+
+He leaned against the doorframe. "I'm listening."
+
+Thalia studied him. He had dark circles beneath his eyes. The letter to his mother had gone out that morning, and he had spent the afternoon teaching. She wanted to pull him close, not because he looked particularly inviting in an old work shirt covered with bits of straw, but because he was standing there waiting for her to say something and she liked the sight.
+
+She took his hand and drew him nearer.
+
+He smiled before she kissed him.
+
+The kiss was brief. A second followed, slower, and when she drew back she found that he'd rested a hand at her waist as though the movement had become familiar. She liked that it had. She liked the way his thumb moved once against her coat without asking for an entire conversation about what the gesture meant.
+
+"I put our picture on my shelf," she said.
+
+He blinked. "The one where you shoved me?"
+
+"The one where you nearly fell over because you're a terrible photographer."
+
+"That one."
+
+"Annabeth will see it."
+
+Rhys looked at her. "And?"
+
+"And nothing. I wanted it there."
+
+His expression softened, then brightened in a way she was beginning to recognize. He didn't ask whether she wanted to tell everyone, or whether she had stopped wanting privacy. He understood that she'd chosen a photograph on a shelf, not issued a public proclamation.
+
+"I'm glad," he said.
+
+She glanced toward the range. No one was there.
+
+"Come with me," she said.
+
+"Where?"
+
+"The low path."
+
+He fetched his coat.
+
+They walked without an errand. The sun had gone below the trees, and the path was mostly dark except where a few lanterns had been lit early. Thalia told him what Annabeth had said, leaving out enough to keep the conversation between sisters their own. Rhys listened, occasionally asking a question that showed he understood where the difficult part lay.
+
+"She's growing up," he said.
+
+"I've noticed."
+
+"That can't be easy."
+
+"She's been doing it for fourteen years. It should be less surprising by now."
+
+He laughed. Thalia looked at him sideways.
+
+"Don't start analyzing me."
+
+"I wasn't."
+
+"You're thinking about it."
+
+"I'm thinking about the fact that you keep calling her a child and then describing arguments in which she wins."
+
+"She does not win."
+
+"Of course not."
+
+Thalia stopped beside the low stone wall.
+
+"You're insufferable."
+
+"You came looking for me."
+
+"Repeatedly. An error in judgment."
+
+He came closer. She caught the front of his coat, smiling, and kissed him before he could find another answer.
+
+For a while they stood together in the evening chill. His hands were warm, and the winter air was cold enough that she could feel the contrast at the edge of her scarf. The path belonged to the camp, but there was no one close enough to interrupt. She liked the private moment made inside an ordinary place.
+
+When she stepped back, Rhys's hair had been blown across his forehead. She brushed it aside, a gesture she had done before in the cabin but never on the path.
+
+He smiled. "What was that for?"
+
+"It was in your eyes."
+
+"Terrible hazard."
+
+"I'm responsible for public safety."
+
+He laughed, then caught her hand and kissed her knuckles. She pulled a face at the absurd gallantry, but she didn't withdraw her hand.
+
+At the fork she told him she was going home.
+
+"Not coming by?"
+
+"Not tonight."
+
+He nodded and squeezed her fingers once before letting go.
+
+She looked at him. "You're allowed to be disappointed."
+
+"I am."
+
+"Are you?"
+
+"A little. I had hoped you'd stay."
+
+The admission made her happier than it should have. She reached up and kissed him again.
+
+"Tomorrow," she said. "If you're free."
+
+"I'll be here."
+
+She turned uphill. The path to Cabin One was familiar, and the door would probably still be sticking. Annabeth would be bent over the east-wall plan when she arrived. The photograph would be on the shelf, visible to anyone who entered. Nothing about those facts needed to be defended.
+
+For once, being wanted and going home felt like parts of the same life.
+
+---
