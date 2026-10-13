@@ -518,7 +518,27 @@ Silena smiled into the dark. "That's the whole deal. That's the entire arrangeme
 
 "When did you get wise?"
 
-"When you started bringing whistles to volleyball." Silena picked up the folded quilt, tucked the hair tie into her pocket for Percy tomorrow, shouldered the satchel. "Come on. Let's go up. Tyson saved us seats at dinner and if we're late he'll stand up and announce it."
+"When you started bringing whistles to volleyball." Silena reached for the folded quilt, and Clarisse put a hand over hers.
+
+"Give me that."
+
+"I can carry it."
+
+"I didn't say you couldn't. You've got the satchel, towels, the lantern and the things Percy left in his pockets. I'm standing here with empty hands."
+
+Silena almost said she didn't mind. She did mind a little. The quilt was heavier wet, and her shoulders were beginning to ache. She had been collecting things for everyone since breakfast, including things nobody had asked her to collect.
+
+"All right," she said. "But keep it off the ground. I just got the sand out."
+
+Clarisse folded it over her arm, tucked the wet edge inward and gave Silena a challenging look. "Well?"
+
+"That's right."
+
+"Imagine that."
+
+Silena laughed and tucked Percy's hair tie into her pocket for tomorrow. Clarisse took the extra lantern, too, without making an announcement about it. There would be work in the morning: hang the quilt to dry, return the lamps, verify the ferry time with Chiron. Nothing required Silena to do all of it.
+
+"Come on," she said. "Let's go up. Tyson saved us seats at dinner and if we're late he'll stand up and announce it." "Come on. Let's go up. Tyson saved us seats at dinner and if we're late he'll stand up and announce it."
 
 They walked up the switchback together in the moonlight, lanterns swinging, pine needles cool under their bare feet, the lake flashing dark-silver through the trees to the left. At the bend they stopped, as Percy had that afternoon, and looked down to the willow cove where the heron stood gray and still on the bow of the half-sunk skiff, witness to the ordinary precious thing, waiting for whatever it waited for.
 
