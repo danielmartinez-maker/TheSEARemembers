@@ -807,6 +807,28 @@ Silena gave him a dry towel. "Here's another category: people who should shower 
 
 It was a reasonable demand. For once, Percy obeyed without arguing.
 
+He paused at the equipment shed door and looked back. The damp coils were suspended above the floor, the damaged items separated, the returned staffs standing in a rack instead of a heap. Every object was where somebody could find it. It was a small satisfaction, hardly worthy of a victory song, and it belonged to more people than the ones who'd stood in the channel.
+
+Silena caught him lingering. "What?"
+
+"Nothing. It looks good."
+
+"Of course it does. I organized it."
+
+"That's why I said it."
+
+Clarisse pretended to be insulted that nobody had praised her knots. Thalia offered to inspect them and declared one insufficiently dignified for an arena commander. They were halfway into a ridiculous argument when Jason interrupted to ask where the official cloud record would be kept.
+
+"With Chiron," Percy said. "Ella has the first copy."
+
+"And the one I wrote?"
+
+"You keep it if you want," Thalia answered. "Just mark that it's not the official one."
+
+Jason folded the damp sheet into his bag with care. Percy wondered what he would tell the Romans about the day. There had been no miraculous victory and no enemy to name. He hoped Jason would mention the signal they obeyed, the numbers they couldn't explain and the rope that held even after the weather changed.
+
+He also hoped his brother would mention the biscuits Silena had packed, because Jason had eaten four.
+
 ---
 
 The Poseidon cabin smelled like salt and chocolate and wet wool.
