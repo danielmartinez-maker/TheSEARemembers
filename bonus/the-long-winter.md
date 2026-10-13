@@ -2655,3 +2655,215 @@ She knew exactly what he meant. The question brought back the cabin, the quiet, 
 She squeezed his fingers one last time before letting go. They stood together and carried the practice bows into storage, arguing about whether the damaged leather cases should be replaced or repaired. It was a normal argument. They could have had it before anything changed between them. Now it took place with a private promise underneath, and she found she liked that almost as much as she liked the promise itself.
 
 ---
+
+Friday evening brought the first honest frost to the north side of the cabin.
+
+Thalia had spent the afternoon in the library pretending to read a book about old military formations. She'd understood perhaps two pages. The rest of the time she had watched the clock, irritated by its persistence in advancing at the same rate whether she wanted it to or not. She had promised herself she wouldn't go to Rhys every night. Nobody had required the promise. It had grown in her head as a defense against finding herself attached.
+
+At a quarter past seven, she shut the book and went to find him.
+
+This time the cabin door was open. The stove was lit, and a soft, unfamiliar sound floated into the hallway. It took her a moment to recognize a guitar. Not one of the bright strummed songs Apollo's children sometimes played around the campfire, but a low, careful progression with spaces left between the notes.
+
+Rhys sat on the edge of the cot with an old acoustic guitar across his lap. His sleeves were rolled, his head bent, and he was concentrating so intently that he didn't hear her arrive. The sight stopped her. She had grown accustomed to seeing him competent on the range. This was something else: a private skill practiced without an audience, with the awkward repetition of somebody trying to make a small piece of music sound exactly right.
+
+He missed a note, swore softly, and started the measure again.
+
+"You're better with a bow," she said.
+
+He jumped. The wrong string buzzed beneath his fingers.
+
+"Gods, Thalia."
+
+"An impressive performance."
+
+"You could knock."
+
+"The door was open."
+
+"That doesn't mean you should announce your arrival by criticizing my playing."
+
+"Would you prefer applause?"
+
+"No."
+
+"Then I made the correct choice."
+
+He set the guitar aside, but she reached for the neck before he could put it away.
+
+"Keep playing."
+
+He blinked. "You just told me I was terrible."
+
+"I said you were better with a bow. That's different."
+
+"That might be the most generous distinction you've ever made."
+
+"Don't waste it."
+
+He studied her for a second, then settled back with the guitar. She sat on the opposite cot and listened. The melody had a simple shape, but he kept stopping at the same transition, playing it twice and shaking his head. Eventually she understood what he was trying to do. He wanted the last note of one phrase to linger beneath the first note of the next. His fingers weren't quite cooperating.
+
+"Slow down," she said.
+
+"I'm already going slowly."
+
+"No. You're playing the first part slowly and rushing through the part you don't trust."
+
+He looked up. "You play?"
+
+"A little."
+
+"Since when?"
+
+"Since I was thirteen and found an abandoned instrument in a closet. I wasn't very good."
+
+"You didn't mention that."
+
+"You've never asked."
+
+He considered that, then handed her the guitar. It was a simple gesture, so unguarded that she felt unexpectedly pleased. He wasn't showing her off or challenging her. He wanted to know what she could do.
+
+She settled the instrument across her knees, adjusted the position so the sore heel didn't pull, and played the troublesome transition at half speed. Her fingers were rusty. She missed one note herself, caught the mistake, and kept going.
+
+Rhys listened without correcting her.
+
+"That," she said. "The pause is the point."
+
+He took the guitar back and tried again. This time the note held.
+
+"There it is," she said.
+
+He looked absurdly delighted.
+
+"You're pleased with yourself," she added.
+
+"You're an excellent teacher."
+
+"I'm going to regret letting you know that."
+
+"Probably."
+
+He set the guitar down properly, resting it in the narrow space beside the workbench. Then he turned toward her, close enough that she could see the pale mark where the strap had rubbed the side of his neck.
+
+"What brought you here?" he asked.
+
+"The music."
+
+"You didn't know I was playing."
+
+"Then your terrible playing summoned me from the library. It's a divine gift."
+
+"Very plausible."
+
+She smiled. "I wanted to see you."
+
+His expression softened, and the room seemed to change with it. She was becoming familiar with that transformation: the moment he stopped treating her arrival as an interruption and began treating it as a choice she'd made for herself.
+
+He reached for her hand. "Come here."
+
+This time the request pleased her. She crossed the space between the cots and sat beside him. His shoulder was warm against hers. She could still feel the music in the quiet, the unfinished progression hanging between them.
+
+"Play something else," she said.
+
+"Are you going to grade it?"
+
+"Mercilessly."
+
+He laughed and picked up the guitar again. He played an old folk song she half recognized, then another with words he refused to sing because he said he couldn't remember all of them. She caught him lying when he hummed the missing verse under his breath.
+
+"You know the words."
+
+"I know some words."
+
+"Sing."
+
+"No."
+
+"You're afraid of embarrassing yourself."
+
+"With you? Constantly."
+
+She leaned closer until her cheek touched his shoulder. "Good."
+
+He sang a line, quietly, then another. His voice was not polished. It had a pleasing roughness when he dropped into the low notes. Thalia closed her eyes for a moment, aware of the almost embarrassing tenderness of sitting beside someone who was singing because she'd asked him to.
+
+When the song ended, he put the guitar away.
+
+"Was that acceptable?" he asked.
+
+"Marginally."
+
+"High praise."
+
+She turned to him and kissed him. It had been waiting in her from the moment she saw him at the instrument, and she let it happen without announcing it. He caught her face between his hands and kissed her back, gentle at first, then with an eagerness that made her smile. She could feel him smiling too, which made the kiss less elegant and considerably more satisfying.
+
+He drew back. "You're going to be impossible if you find out I can cook."
+
+"I have already seen the evidence against that claim."
+
+"One bad stew."
+
+"An unforgettable bad stew."
+
+"You're vicious."
+
+She kissed him again before he could continue defending his cooking. They stayed close afterward, knees touching, with the guitar resting safely against the bench. The lamp burned beside the window, and the first flakes of frost were settling along the glass.
+
+"What are we doing?" she asked suddenly.
+
+He looked at her. "Sitting?"
+
+"Rhys."
+
+"I know what you mean."
+
+"Then answer."
+
+He thought for a moment. "I think we're spending time together because we want to. I think we'd both like more of it. Beyond that I don't know."
+
+She wanted to dislike the incompleteness of the answer. Instead she found it relieved her. She had been half expecting a word that would require them to decide what they were to each other before they'd had time to discover it.
+
+"Do you want a title?" she asked.
+
+"Do you?"
+
+"Not especially."
+
+"Then we don't need one tonight."
+
+She looked toward the guitar. "You know, most people would have used that as an excuse for a terribly romantic speech."
+
+"I can try if you want."
+
+"No."
+
+"An immediate rejection."
+
+"An act of mercy."
+
+He laughed, and she pressed her face into the side of his neck. She liked the sound of him laughing when he wasn't protecting himself from an audience. She liked knowing that he could be nervous about something as ordinary as music, and she liked being invited to see it.
+
+He put an arm around her shoulders. They sat quietly until the frost hid the view beyond the window.
+
+When she eventually stood to leave, the room seemed too warm compared with the dark beyond the door. Rhys helped her find her coat, which she had dropped somewhere between the threshold and the chair. He held it open, and she slipped her arms into the sleeves.
+
+"Are you going to play tomorrow?" she asked.
+
+"Probably."
+
+"Don't stop at that transition."
+
+"You're giving me homework."
+
+"I give excellent homework."
+
+He touched her cheek. "Come by if you want to hear it again."
+
+She looked at him. "I might."
+
+"I was hoping you'd say that."
+
+She kissed him once more. It was a private, deliberate farewell, not a promise of anything she couldn't guarantee. But as she walked down the path she carried the tune in her head, and later, lying awake in Cabin One, she found herself humming it under her breath.
+
+She wasn't thinking about his bow or his ability to fix a broken hinge. She was thinking about the fact that he'd been willing to play a half-finished song with her in the room. It was a different sort of intimacy, and she wasn't ready to call it less important than the others.
+
+---
