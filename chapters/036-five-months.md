@@ -610,6 +610,114 @@ They raced down the hill together, laughing, berries bouncing, sunset at their b
 
 ---
 
+Chiron was repairing a broken chair when Annabeth came to the Big House.
+
+The chair belonged to a classroom on the lower hill. One of its legs had split along the grain after a camper stood on the seat to see over the heads of taller children. Chiron could have handed it to the workshop and had it repaired before tomorrow. Instead he'd borrowed wood glue and a clamp and was doing the work himself because he'd promised the instructor he would return it.
+
+"Do you need help?" Annabeth asked from the doorway.
+
+"I have the pieces held in place. What I need is time."
+
+She looked at the clamp. "How long?"
+
+"Long enough to be inconvenient."
+
+She smiled, then became serious. "I wanted to ask about the dates. Percy and I were talking about the old quest."
+
+Chiron set down the rag in his hand. He had known this conversation would come. The children had been at camp five months, and the days they feared from their remembered lives were approaching without quite matching the events they expected.
+
+"Do you want to know whether anything has changed?" he asked.
+
+"I want to know whether you've heard anything from Olympus."
+
+"Nothing that establishes the particular accusation you described. No request for a bolt investigation. No summons for either of you."
+
+Annabeth absorbed the answer. Chiron had told her similar things before, and he understood why she asked again. Every new day without the old disaster could be good news or evidence that a different one was coming.
+
+"Can you show me the messages you've received?" she asked.
+
+"Some of them. The private ones belong to their senders. I can show you the notices that affect camp's preparedness."
+
+He took a folder from the shelf and laid it beside the chair. The pages contained the familiar business of running a place that sheltered demigods: a request to strengthen a boundary marker, a question about a late-arriving camper, a report of a monster sighting beyond the main road. There were things Chiron wanted to monitor. None matched the sequence Annabeth remembered.
+
+She read carefully, placing each page back in order. He didn't interrupt. When she finished, she rested her fingertips on the folder as though trying to feel some hidden answer through the paper.
+
+"It would be so much easier if the change meant we were safe," she said.
+
+"Would you believe me if I told you it did?"
+
+"No."
+
+"Then you already understand why I won't say it."
+
+She looked up, frustrated. "I'm not asking for false reassurance. I'm trying to decide what we should do with what we know."
+
+"Then separate what you remember from what you can verify today. The remembered future may tell you what you're capable of enduring. It can't tell us which specific events will happen in this history."
+
+Annabeth considered that. Her first plan had been to follow the old quest almost exactly, preparing the same supplies and watching for the same warning signs. She had imagined that her memory would make it possible to save people she'd lost. Five months of changed small details had taught her how little the sequence could be trusted.
+
+"Does that make the memory useless?" she asked.
+
+"No. You and Percy know things nobody else has experienced. We take your account seriously. But if we act as though every detail must repeat, we may neglect the people and problems actually in front of us."
+
+He nodded toward the broken chair. Annabeth looked at it, then back at him.
+
+"You're not comparing a war to furniture."
+
+"No. I'm saying the chair still needs repairing even if we expect a battle. Tomorrow a student will need somewhere to sit. I promised a safe chair and intend to keep that promise."
+
+She studied the clamp. "You used too much glue."
+
+Chiron laughed. "Perhaps. Would you like to inspect the joint?"
+
+She did. She tested the alignment without moving the clamp, then pointed out a small excess bead of glue that would need to be removed before the finish dried. They worked on it together with a cloth and a narrow tool. She found herself feeling useful in a way that didn't require knowing anything about the future.
+
+When the joint was clean, she asked whether Percy could come with her to examine the old prophecy copies later that week.
+
+"Of course," Chiron said. "We'll agree on a time and make sure the documents are available. I'd like you to bring questions you can answer from the records rather than questions that expect them to explain the entire change."
+
+"That's a very Chiron thing to say."
+
+"I've had many years of practice."
+
+She thanked him and started toward the door, then stopped.
+
+"Did you ever wish you could know the next five months exactly?"
+
+Chiron looked at the chair. He had taught enough young heroes to know how tempting it was to imagine certainty could protect them.
+
+"Frequently. Particularly when it would have allowed me to prevent somebody's suffering."
+
+"And if you could?"
+
+"I'd still need to ask what they wanted, what I actually knew, and what consequences my actions would have. Knowing a thing may happen isn't the same as knowing everything required to stop it."
+
+Annabeth nodded slowly. The answer wasn't a map. It was a way of recognizing when a map had stopped being useful.
+
+She went out into the early evening. The dining pavilion was beginning to fill, and she could hear Clarisse arguing about whether the shortcake was going to be served before or after the offerings. Percy was waiting at the foot of the steps, holding a clean towel he'd been sent to deliver.
+
+"Did you get an answer?" he asked.
+
+"Several. None that solve everything."
+
+"Sounds like Chiron."
+
+She told him about the messages, the chair and the folder of notices. He listened without asking whether the world was finally safe. At the end, she mentioned that they could inspect the old prophecies together.
+
+"After dock duty," he said.
+
+"Why after?"
+
+"Because Clarisse assigned me dock duty first."
+
+Annabeth laughed. She wanted to object on principle, but the docks also needed looking after, and he'd already agreed to be there.
+
+"Then after dock duty," she said.
+
+They walked toward dinner. She had been hoping for certainty and found a chair waiting for its glue to dry. She thought she could live with that for one evening.
+
+---
+
 Dinner at the end of that ordinary Tuesday tasted like everything good.
 
 Percy noticed it first because Percy noticed food the way Annabeth noticed architecture — structurally, spiritually. The tables groaned: roast chicken with lemon, buttered corn from the Demeter fields, fresh bread Silena had supervised, strawberry shortcake with berries Grover and Ella had picked, nectar and ambrosia in careful measures for the scrapes of the day. The pavilion glowed with torchlight as the sun went down, turning everybody gold. The brazier fire crackled. The wine-dark sky — Percy had read that somewhere and finally understood it — deepened overhead, first stars pricking through.
