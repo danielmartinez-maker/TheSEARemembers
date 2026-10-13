@@ -282,6 +282,97 @@ Returning the object to its case, she watched it shift once more, assume a small
 
 ---
 
+After Zeus's gift arrived, Thalia asked Annabeth to come with her to the empty practice room behind Cabin One.
+
+"I don't want to hide it," Annabeth said, clutching the case.
+
+"I'm not asking you to."
+
+"Then why are we in here?"
+
+"Because everybody in the pavilion was watching your face, and I wanted to know what you actually thought."
+
+Annabeth set the box on the bench. The gift inside shifted between shapes when she touched it, silver flowing into a little bird, then a compass, then a folded piece of metal that suggested it might be a key. It was beautifully made. It was also from their father, who could send something tender in the morning and make the same daughter afraid to speak by evening.
+
+"I like it," Annabeth said.
+
+"You're allowed."
+
+"And I don't like that he didn't come."
+
+"You're allowed that too."
+
+Annabeth watched the metal return to a compass. "Does it have a purpose, or does it just change because it can?"
+
+Thalia sat beside her. "We could ask the forge cabin."
+
+"Would that be rude?"
+
+"Testing a gift before you rely on it? No."
+
+They went to the workshop together. Beckendorf examined the case without prying into the mechanism and asked where it had come from. Annabeth told him. He didn't make a grand comment about Zeus. He checked whether the object had a sharp edge in any of its forms, whether it became hot, and whether it changed when she wasn't touching it.
+
+"It's responding to you, mostly," he said. "But I can't tell you what the enchantment intends. I wouldn't use it as a compass on a journey until we verify it points the right way."
+
+Annabeth looked almost offended. "It seems accurate."
+
+"It seems accurate here, where we already know where north is."
+
+He put a plain magnetic compass beside the gift and turned both carefully. The silver object followed in two positions, then hesitated near the forge's iron tools. It turned in a different direction from the ordinary needle.
+
+"So it doesn't always point north," Annabeth said.
+
+"Not in this room. It may be pointing toward something else. If you can ask the person who made it, do. In the meantime, treat it as a beautiful object with an unknown function."
+
+That was not the answer Annabeth wanted, but she wrote it down. She had spent enough time with unreliable equipment to know that wanting a thing to work did not make it safe.
+
+Thalia watched her close the case. "Does knowing that spoil it?"
+
+"No. It makes me feel as though I can decide what it means to me without pretending I know what it does."
+
+They returned to Cabin One so Annabeth could put the gift on a shelf before the party. As she did, she noticed a smaller parcel near her pillow, wrapped in ordinary brown paper. Thalia had left it there before breakfast.
+
+"You weren't going to tell me about this?" Annabeth asked.
+
+"You'd have found it."
+
+Inside was a little leather pouch with separate pockets for pencils, compass and a rolled map. The stitching was uneven along one edge. Thalia had clearly made it herself, rather than asking Silena to do the work.
+
+"That's why you kept disappearing after dinner," Annabeth said.
+
+"I have many mysterious obligations."
+
+"You stabbed your finger sewing it."
+
+"Several times. It was a vicious opponent."
+
+Annabeth tried the pockets. The silver gift's case fitted in one of them if she chose to carry it. Her ordinary compass fitted in another. Neither had to replace the other.
+
+"I love it," she said.
+
+Thalia looked away, embarrassed in a way no sparring defeat had ever managed.
+
+"Good. It might last an entire year if you don't fill it with rocks."
+
+Annabeth put her arms around her older sister. Thalia hugged her back, hard enough to be awkward, then let her go before the moment became a performance.
+
+"Fourteen," Thalia said.
+
+"Yes."
+
+"I keep forgetting you aren't seven."
+
+"I have noticed."
+
+"I'm trying to do better."
+
+"You are."
+
+Thalia took her hand as they went toward the pavilion. They didn't pretend the gift from Zeus had been unkind or that his absence didn't hurt. Both were true in different ways. Annabeth carried a pouch Thalia had sewn and a silver mystery she didn't yet understand, and she knew which one would be useful when she needed to find her way home.
+
+
+---
+
 Without any plan Annabeth could diagram, the party assembled. Campers hauled lanterns and plates into the pavilion, glass chiming and sandals slapping stone. Grover bore a lopsided cake while two satyrs strung lights across the rafters, pine resin and hot sugar threading the air. Nico received charge of the candles.
 
 "Fourteen," he announced upon Annabeth's arrival.
