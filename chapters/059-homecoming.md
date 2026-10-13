@@ -859,7 +859,7 @@ Annabeth lifted her head, eyes shining. “Thank you for saying that. And thank 
 
 “No promises for next quest,” Thalia said, and they both laughed, sisters in firelight, stronger for every mile they had walked together.
 
-Across the fire, Percy watched them with his sisters’ chins still on his shoulders and thought his heart might burst straight out of his chest.
+Across the fire, Percy had ended up between Clarisse and Silena, both older sisters leaning on him while they argued over which song the Apollo campers should play next. Thalia watched Annabeth notice him and smile. For once she didn't feel a need to interrupt.
 
 ---
 
