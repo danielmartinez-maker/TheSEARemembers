@@ -581,6 +581,128 @@ Thalia bumped her shoulder. "That's what sisters are for. Keeping the stuff you 
 ---
 
 
+When Annabeth finally put the photograph down, she discovered that Thalia had stopped looking at it.
+
+Her sister was sitting on the floor with the open trunk between her knees, pretending to sort old ticket stubs. The stub in her hand was from a movie theater in California. She had been turning it over for almost a minute.
+
+"Do you want me to put the picture away?" Annabeth asked.
+
+Thalia looked up. "Why?"
+
+"You're not looking at it."
+
+"I'm looking at the other things."
+
+"Thalia."
+
+Her sister sighed. "I don't want you to think I kept it because I wanted to convince you Mom was wonderful."
+
+Annabeth held the frame against her knees. Beryl was smiling into the camera, and the little girl in her arms looked delighted by something outside the picture. Jason was half hidden by her skirt. Thalia stood close enough to hold Annabeth steady if their mother shifted her weight.
+
+"I didn't think that," Annabeth said.
+
+"You looked happy when you found it."
+
+"I was happy. It has all of us in it."
+
+"That's what worries me. There's a whole afternoon around that picture you can't see."
+
+Annabeth waited. Thalia picked at the paper edge of the ticket stub until a small white strip came loose.
+
+"Mom was drinking again by that evening," Thalia said. "I remember because she took us somewhere afterward and left the restaurant before we'd eaten. She said she had to make a phone call. I sat outside with you and Jason until a waiter brought us sandwiches."
+
+Annabeth looked down at the picture. Beryl's smile had been there earlier that day. The little girl in her arms had been laughing. Both things could be true without telling her what happened later.
+
+"I still like the picture," Annabeth said.
+
+"I know. I just don't want you to decide I lied about the bad parts because there's one nice photograph."
+
+"I don't think you're lying."
+
+Thalia put the ticket stub back into the box. She had spent enough years telling herself she needed to remember every bad decision Beryl made that she sometimes feared the good memories would weaken her judgment. Annabeth had memories of a different mother, a woman who was dead in the altered life and alive in the one Percy remembered. No, that was Percy's complication. Annabeth's own complication was wanting to recognize Beryl without being able to.
+
+"I know you want to write to her again," Thalia said.
+
+"I do."
+
+"And I know you've heard me say no to visits."
+
+"Because Chiron hasn't agreed anything."
+
+"Because I don't trust her to follow through."
+
+Annabeth looked up. "Those aren't the same reason."
+
+"They're both true."
+
+"Then tell me both. Don't act as though the rules are the only thing you care about."
+
+Thalia looked away. The younger sister who had once accepted a blanket and a bedtime story because there was nothing else to give her now wanted an answer with the uncomfortable parts left in.
+
+"I want her to get better," Thalia said finally. "I want her to get so much better that if she offers us something, I don't have to spend the night wondering what she'll do when it goes wrong. But I can't make myself believe that because she's written a few good letters."
+
+Annabeth nodded. She could understand wanting to believe and being unable to.
+
+"Can I keep the picture on my desk?" she asked.
+
+"Yes."
+
+"And can you tell me if you don't like seeing it there?"
+
+Thalia considered. "I can tell you. That doesn't mean you have to hide it."
+
+"Good."
+
+They sat for a while. From outside came the scrape of a practice sword against the arena fence and the sound of somebody calling for a missing sandal. Camp was continuing with the indifference of a place where people had their own work.
+
+Annabeth picked up a small photograph of Jason, separate from the family frame. He was sitting on a floor, holding a spoon like a sword. She smiled despite herself.
+
+"He looks like he was a lot of work."
+
+"He was. He was also very polite. He'd hit you with the spoon and then apologize."
+
+"That does sound like him."
+
+"From his letters?"
+
+"From the Iris-message. He kept apologizing for asking questions, remember?"
+
+Thalia smiled. They had been given one conversation with their brother and were still trying to build a whole relationship out of the pieces it provided. It was hard not to imagine what he'd look like next year, whether his voice would change, whether he would know them when they met in person again.
+
+"We should send him a picture of us," Annabeth said.
+
+"A recent one?"
+
+"Yes. With the haircuts. He can see what we look like now."
+
+Thalia considered. "I'd like that."
+
+"Can we borrow Silena's camera?"
+
+"Ask her. And no posing me like I'm a recruit in a Roman inspection line."
+
+"You stand like that on your own."
+
+"I'm naturally dignified."
+
+Annabeth laughed. She returned the older photographs to their sleeves, pausing over the family portrait. She didn't want it to stand for the whole childhood she'd lost. It could be a picture of one afternoon, good and bad things still happening beyond the frame. That was more useful than making it prove their mother had been one sort of person forever.
+
+She put the frame on her desk beside the photograph of the shrine. Thalia glanced at it, then got up to help her straighten it.
+
+"You're tilting it," Thalia said.
+
+"Because the desk is uneven."
+
+"Then fix the desk."
+
+Annabeth looked at her. "Have you met me?"
+
+"Unfortunately."
+
+They wedged a scrap of cardboard under the shorter leg until the frame stood level. Then they closed the trunk, returned the key to the cord around Thalia's neck, and went to find food for the evening.
+
+---
+
 Dinner was picnic-style on Cabin One's west balcony.
 
 Hal had inspected the railing, approved the folding bench Annabeth had helped design, and made it clear that the old trellis to the roof was still off-limits. Thalia had complained about the rules, then carried the snacks outside through the actual door: two apples, a bag of popcorn from the Apollo cabin stash, and lukewarm Cokes in glass bottles. Annabeth followed with the shoebox and blanket, taking exaggerated care to avoid scratching their newly finished bench.
