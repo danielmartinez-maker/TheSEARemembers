@@ -524,6 +524,120 @@ Percy watched them, his chest tight in the good way. Clarisse and Silena's frien
 
 They shook on it, sticky with lemonade, and Percy thought, I'm going to remember this exactly. The heat. The clank of swords. Silena's laugh. Clarisse pretending not to care while she refilled everyone's cups.
 
+Clarisse found Percy later with the invitation still half-written.
+
+He'd been sitting on a bench outside Cabin Three trying to decide how to ask his father about his sisters' visit without turning it into another official audience. Silena was expected to depart with the summer campers on Saturday. Clarisse was staying long enough to close out the training roster before returning to her mortal school. Both had talked about Atlantis as though it were already arranged.
+
+Clarisse sat beside him, still wearing the dusty training gloves she'd forgotten to take off.
+
+"Why are you making that face?"
+
+"What face?"
+
+"The one where you're trying to solve everybody's problem before they have it."
+
+Percy handed her the invitation. It included a tentative autumn weekend and a promise of rooms at the palace.
+
+Clarisse read it once and frowned.
+
+"Did you ask us when we're free?"
+
+"You said fall."
+
+"I said I wanted to go. I didn't say I could take a whole weekend whenever the sea king tells me to."
+
+Percy took the page back. He hadn't thought about her school schedule, or Silena's, or the people in their mortal households who would want to know where they were going. A royal invitation was easier to imagine than the dozen ordinary permissions between his sisters and a weekend underwater.
+
+"What would work?" he asked.
+
+"Maybe a long weekend. Silena has a family thing in October. I have a tournament I can't skip unless I want my coach to murder me. And before you ask, no, Poseidon can't write me an excuse."
+
+"He might try."
+
+"Don't let him."
+
+They sat for a minute. Percy could hear Connor and Travis arguing over a trunk inside Cabin Eleven. It sounded like someone had put a live animal in it. He decided not to investigate unless something started breaking.
+
+"Are you worried?" he asked.
+
+"About what?"
+
+"Visiting Atlantis."
+
+Clarisse inspected the seam of her glove.
+
+"I'm interested," she said. "I'm also sick of people assuming I have to be grateful every time somebody from Father's court remembers I exist. I've trained here for years. Silena's done more to keep Cabin Three working than half the people in the palace have ever seen. If we go, I want to go as his daughter, not as your accompanying party."
+
+Percy looked at her. He hadn't understood why the invitation had irritated her until she said it.
+
+"I can ask for a family visit," he offered.
+
+"Ask us first. Then you can ask Dad."
+
+Silena appeared at the cabin door with three pieces of paper and a pencil balanced behind her ear. She'd been organizing the shared closet and had clearly found another job to do.
+
+"I heard my name," she said.
+
+"We're not making a surprise royal trip," Clarisse answered.
+
+"Excellent. I would need proper luggage."
+
+Percy grinned. "You'd bring six trunks."
+
+"Only four. One for clothes, one for gifts, one for shoes and one for emergencies."
+
+"That's five," Clarisse said.
+
+"Then a fifth trunk for arithmetic."
+
+Silena sat on the steps and read the invitation. She was quiet longer than Percy expected. Then she asked whether Amphitrite knew they had been discussing a visit and whether she wanted them there.
+
+"She said she'd be glad to meet you properly," Percy replied. "She wants it to be a family visit."
+
+Silena looked pleased, but not unreservedly.
+
+"I want to meet her without everybody deciding how I should feel about Sally," she said.
+
+Percy went still.
+
+Silena noticed and put a hand on the railing rather than reaching for him.
+
+"You remember your mother," she said. "I know she matters. Amphitrite matters too. I'm not asking you to decide which one gets a place at the table."
+
+Percy swallowed. He wasn't sure how to explain that in this history, Sally had died when he was small, while the woman he'd remembered growing up with had been alive. He could tell Silena the feeling without giving her the impossible account.
+
+"I don't want to make you choose anything either," he said.
+
+"Good. Then send a letter asking if all of us can come when we're ready. Not a ceremony. Just lunch, a tour, and time to talk to Dad."
+
+Clarisse removed her training gloves and laid them on the bench. "And a look at the armory."
+
+"Of course," Silena said.
+
+"And Triton's training grounds."
+
+"One activity not involving weapons," Silena insisted.
+
+"I'll think about it."
+
+They worked out a more honest invitation. Percy would ask Poseidon what dates were possible. His sisters would check their mortal obligations. No palace staff were to announce a visit before everyone agreed. Silena wanted to bring chocolates for Amphitrite, and Clarisse wanted to know whether the palace had a proper sparring arena. Percy wrote both requests down, although he suspected Silena would also bring enough chocolates to supply an entire court.
+
+When the page was finished, Clarisse looked at it and nodded.
+
+"Better."
+
+Percy folded it once. "Thanks for telling me."
+
+"You asked."
+
+"Not until you made me."
+
+"Then remember for next time."
+
+The sun moved behind the cabins. Clarisse got up to return the gloves to the armory, and Silena took the empty lemonade cups to the pavilion before the harpies could complain.
+
+Percy sat another moment with the invitation in his hands. His sisters hadn't made the prospect of Atlantis less complicated. They had made it theirs as well as his, which was what he'd wanted without knowing how to ask.
+
 ---
 
 That evening, the Hermes cabin hosted the annual Packing Panic and Promise Night, a tradition started by the Stolls and now embraced by the whole camp.
