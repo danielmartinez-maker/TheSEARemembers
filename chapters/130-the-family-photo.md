@@ -649,6 +649,36 @@ Certain. A picture could hold seconds without passing judgment on anything outsi
 
 ---
 
+The picture lineup had nearly dissolved when Nico realized no one had written down who stood where.
+
+"That's not a problem," Percy said. "We know who everyone is."
+
+"Right now," Annabeth replied. "What about ten years from now? Or someone who wasn't there?"
+
+She borrowed the back of Chiron's clipboard and sketched the rows while people were still in sight. Clarisse, already halfway toward the pavilion, returned when she heard her name.
+
+"You're putting labels on us?"
+
+"On the photograph," Annabeth said. "Not on people."
+
+Silena checked the order from left to right. Tyson had been standing behind the taller campers, and the photographer had asked him to lean forward so his face would show. His shoulders appeared between two people he had only met that morning. Annabeth wrote his name and noted that he was a guest, not a permanent Cabin Three resident. Tyson looked over her shoulder and corrected the spelling of a forge apprentice's name.
+
+Percy expected the exercise to be tedious. It wasn't, exactly. Nico pointed out Bianca at the end of the second row. Grover identified the counselor behind him. Two younger campers disagreed over which one had borrowed the hat in the photograph, and Chiron settled it by checking who was wearing it now.
+
+"What about the palace picture?" Silena asked.
+
+"Different caption," Percy said. "Different place. Some of the same people."
+
+"Not the same relationships," Annabeth agreed. "A caption can say who's present without deciding who belongs to whom."
+
+Clarisse examined the draft. "Don't call me a court princess."
+
+"I wrote your name."
+
+"Good."
+
+The final note would go into the photo album with the date and the photographer's name. They could add corrections when the prints arrived, but nobody would need to guess which birthday, visit, or family title a smiling face was supposed to prove.
+
 The crowd drifted toward pavilion and cabins, chatter fading. Grover lifted Ella from his shoulder; Mr. D returned to coffee as if never leaving it.
 
 Tyson rolled his canvas. "I'll take the painting to the forge."
