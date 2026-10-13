@@ -846,7 +846,7 @@ Annabeth was the last to enter. She checked that Grover's searcher license had b
 
 Annabeth nodded. "That sounds right."
 
-He glanced at her bandaged hand. They had covered a great distance since the river, but the same small injuries still had claims on their attention. "How much does it hurt?"
+He glanced at her bandaged hand. They had covered a great distance since the river, but the same persistent small injuries still had claims on their attention. "How much does it hurt?"
 
 "Enough that I shouldn't use lightning."
 
