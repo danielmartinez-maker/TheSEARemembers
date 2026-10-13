@@ -454,6 +454,78 @@ They dressed in reverse — towels as walls again, shivering and teasing — pul
 
 The walk back was quieter, warmer despite cold clothes. The path was dark and familiar now, pine needles soft under Percy's sneakers, Silena's sandals, the others' water shoes. The air smelled of night jasmine and wet towels and bug spray fading. Crickets sawed. An owl called. The Big House light still burned, warm yellow through trees. Percy's arm ached pleasantly from treading; his navy trunks chafed under shorts; his necklace stuck to his neck. Annabeth walked beside him, her knotted tee damp over her suit, her shoulder touching his every few steps, her ponytail brushing, her whistle tucked away. Their pinkies linked, unlinked, linked again. Thalia walked ahead with Clarisse, their hoodies — black and gray — touching at the shoulders, talking low about spear forms and breathing, pinecone and soup girl gone soft. Silena hummed behind, her white cover-up ghostly, her camera held like treasure.
 
+Before they reached the cabins, Clarisse stopped beside the empty noticeboard at the fork in the path. A narrow beam of yellow light fell from the Big House porch, enough to show that her hands were still shaking.
+
+"Give me a second," she said.
+
+Nobody moved. Percy could hear Silena's camera knocking against its strap. Thalia shifted the spear on her back and opened her mouth, but Annabeth shook her head.
+
+Clarisse sat on the low stone bordering the path and pressed her palms to her knees.
+
+"I don't think I want to do that again tomorrow," she said.
+
+"You don't have to," Silena answered.
+
+"I know that. I mean the midnight thing. I wanted the glow. I liked it. Then I couldn't breathe properly at the ladder, and I couldn't tell whether I was cold or frightened. I don't like not knowing the difference."
+
+Percy thought of the way her grip had tightened on the rung, hard enough to hurt. He could have reminded her that nothing terrible had happened. It was true, and completely beside the point.
+
+"Maybe the next one shouldn't be a dare," he said.
+
+Thalia folded her arms. "Maybe the next one should be during regular swim hours."
+
+"Then you wouldn't see the glow," Annabeth said.
+
+"Then we wouldn't."
+
+Annabeth looked at her sister for a moment. "You were the one who agreed to the midnight plan."
+
+"I was."
+
+"And now you're deciding it was stupid for everyone."
+
+"I said it was stupid for me," Thalia replied. "I'm allowed to change my mind after finding out what it feels like."
+
+Annabeth seemed about to answer, then let the air out of her lungs. "Fine. I am, too."
+
+They were both tired. Percy recognized the edge in their voices and knew this could become an argument if anyone tried to win it.
+
+Silena took the camera off her wrist and held it out to Annabeth.
+
+"Will you check whether we can see the markers in the pictures? Not tonight. Tomorrow."
+
+"Why?"
+
+"Because we went past the outer buoy once without noticing. I saw it when we were coming back, and I don't want to guess where we were if we go again."
+
+Annabeth accepted the camera, alert in a way she hadn't been a moment before. "I can check the positions against the dock and the reeds. But the photograph might not show enough to tell."
+
+"Then it doesn't show enough," Silena said. "We can tell Chiron that."
+
+"You're going to tell him about the buoy?" Clarisse asked.
+
+"Yes. We left him the note. That means we owe him the whole account, not just the part that sounds good."
+
+Clarisse considered this. "I'll tell him myself."
+
+Percy was relieved. He'd been worrying about whether he should tell Chiron she got scared, and she had just taken the question out of his hands.
+
+"Want company?" he asked.
+
+"Yes. Not an audience."
+
+"All right. Me and Silena."
+
+"Annabeth has the pictures," Thalia said.
+
+"Then she can come if she wants." Clarisse looked at her. "It's your choice, not a summons."
+
+Annabeth nodded. "I'll come. If there was something we missed, I want to know what it was."
+
+Thalia sat beside Clarisse for a moment, close enough to offer warmth without grabbing her. Then she stood and held out her hand, waiting. Clarisse took it and got up.
+
+They were cold and tired, the five of them, and Percy was beginning to realize how easily a good night could become a story with only the pleasant bits left in it. The truth wasn't ruined by admitting the parts that needed attention.
+
 At the cabins they split with hugs — quick, hard, wet and cold — Thalia lifting Percy half off his feet in her black hoodie, smelling of ozone and lake, whispering, "Proud of you, barnacle, for staying," Annabeth hugging Silena and Clarisse, her orange tee damp, her gray suit peeking, whispering, "Thank you for coming, really," Clarisse hugging Annabeth back, stiff then fierce, her gray hoodie damp, muttering, "Thanks for... charts and not making it weird," Silena kissing everyone's cheeks, coconut and cold, her white shirt damp.
 
 Percy, Clarisse and Silena slipped into Cabin Three, damp and sandy, to find the note gone from the door and a new note pinned in its place in Chiron's neat hand on Big House stationery, smelling faintly of tea and old paper:
