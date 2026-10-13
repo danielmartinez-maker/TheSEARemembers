@@ -352,6 +352,118 @@ On the Zeus side: Thalia in front, grinning. Annabeth beside her, already survey
 
 A crowd gathered along the sidelines with cider cups. Grover and Ella dragged their pot to a bench. Chiron watched from the Big House porch with binoculars.
 
+The two Hermes campers did not look convinced they belonged on the Zeus team.
+
+One was a girl named Fern who could throw accurately only when she was standing still. The other, a younger boy called Micah, was small enough that the biggest snowbanks hid him entirely. Neither had expected to spend the day being described as honorary thunderbolts by Thalia Grace.
+
+"Can we pick a different name?" Fern asked.
+
+"What's wrong with thunderbolts?" Thalia said.
+
+"You're a child of Zeus. We're not. I don't want the Ares kids teasing us for a month because we yelled a Zeus cheer."
+
+Thalia opened her mouth to say something dismissive. Annabeth stepped in.
+
+"Then don't yell it," she said. "We're a team for this game, not a new cabin. Call us the Hill team."
+
+Percy watched his girlfriend draw a line on a scrap of paper and show the changes to Thalia. She had insisted on roughly even numbers, which made sense, but hadn't thought about how children from other cabins would feel when asked to fight under somebody else's identity.
+
+Thalia considered the paper.
+
+"Fine. Hill team."
+
+Fern looked relieved. Micah looked disappointed; he had apparently liked the thunderbolt part. Percy almost laughed.
+
+Clarisse came over holding a snowball the size of a grapefruit.
+
+"Connor wants to know whether Tyson counts as one player."
+
+"Of course he does," Percy replied.
+
+"He's three times as tall as Micah."
+
+"That's not his fault."
+
+"No," Clarisse said. "But if he throws that thing at a kid's face, it'll be everybody's problem."
+
+Tyson stood a few yards away rolling snow into an enormous ball. When Percy called his name, he stopped and looked up, worried.
+
+"Am I in trouble?"
+
+"No," Percy said. "We need to change what counts as a snowball."
+
+Tyson looked down at his masterpiece. It was nearly the size of a barrel.
+
+"Not this one?"
+
+"Maybe we can save it for the snowman contest."
+
+Tyson thought about that. "Then it will be art."
+
+"Excellent idea," Silena said, arriving with a basket of spare gloves. "Art doesn't need to hit anybody."
+
+Connor called both teams to the center line to settle the rules. He'd been trying to conduct the game like an Olympic ceremony, but the arguments kept interrupting him. Nobody minded except Connor.
+
+"All throws must be soft, packed from fresh snow," he announced. "No ice, no giant projectiles, no throwing above the shoulders. Anyone who trips or says stop gets a pause. And nobody gets to pretend an accidental hit means they can keep throwing at someone who is down."
+
+Clarisse rolled her eyes. "It's a snowball fight, not a treaty."
+
+"Treaties are good," Annabeth answered. "They prevent later wars."
+
+"Not always."
+
+"No," Annabeth admitted. "But rules that everyone heard are better than rules somebody makes up after losing."
+
+Thalia snorted and offered Clarisse a handshake across the line.
+
+"Agreed?"
+
+Clarisse studied her hand. "You aren't going to shock me?"
+
+"No powers. Your own rule."
+
+"Fine."
+
+They shook. Connor made a great show of writing the agreement in Ella's notebook, then asked whether anybody wanted to sign as a witness. Half the campers raised their hands. The other half started throwing practice snowballs at the ground.
+
+Milo, still wearing the hat that covered his eyebrows, arrived from the roof inspection and asked whether he could play. He'd spent much of the morning clearing snow while everyone else warmed up with cider. The Hill team already had too many players, so he joined Percy and Clarisse.
+
+"Now it's not even," Fern complained.
+
+"Two people from the sidelines can switch," Silena suggested. "Or Milo can help judge instead."
+
+Milo looked offended. "I didn't fix the roof to spend the afternoon holding a clipboard."
+
+Chiron, watching from the porch, called that the repair crew had earned the first choice of activity. The teams reorganized until the numbers were as close as possible. It took longer than the actual game would take, and Percy thought the arguing might be the point.
+
+Annabeth walked over to Percy while Connor checked the new roster.
+
+"Are you annoyed that I changed your team?"
+
+"No. I like having Milo with us."
+
+"He's a good thrower."
+
+"He has a plan for where to pile the snow after we finish."
+
+She gave him a look. "That's actually important."
+
+"I know."
+
+"You're turning into a person who thinks about what happens after a game."
+
+"Terrifying, isn't it?"
+
+She smiled. "A little."
+
+The teams took their places. Micah was given a lower bunker he could see over, and Tyson set his enormous snowball aside for later sculpture work. Clarisse inspected every pile for pieces of ice. The game was still likely to be loud, messy and unfair in ways they hadn't anticipated. That didn't make the preparations pointless.
+
+When Connor finally climbed onto the hay bale with his flag, all the children were shivering from standing around.
+
+"Can we play now?" he shouted.
+
+"Please!" both teams answered.
+
 Connor Stoll stood on a hay bale with a white flag. "Rules!" he shouted. "No powers! No ice! No wind gusts! No shaking the ground! Snowballs only! If you get hit three times you're out and you go sit with Grover and tell Ella a joke! Last team standing wins! Or most people left after twenty minutes! Ready?"
 
 Clarisse crouched. "Poseidon! What do we do?"
@@ -390,7 +502,7 @@ They counted. They rose. They charged.
 
 What followed entered camp legend.
 
-Clarisse and Percy swept wide right while Silena and Tyson covered from the center. Thalia met Clarisse head-on in the middle, trading throws until both were powdered white. Tyson's giant snowball buried the two Zeus kids to the knees to huge cheers.
+Clarisse and Percy swept wide right while Silena and Tyson covered from the center. Thalia met Clarisse head-on in the middle, trading throws until both were powdered white. Tyson's soft, loosely packed throw burst into a white cloud near the borrowed Hermes campers, covering their boots to huge cheers.
 
 Annabeth saw Percy coming and her eyes narrowed. She had three snowballs ready. He had two.
 
