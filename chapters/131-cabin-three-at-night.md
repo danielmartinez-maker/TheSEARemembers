@@ -350,6 +350,83 @@ They drank while Tyson described the forge, black stone walls open to sky where 
 
 ---
 
+The door opened a little later, hinges whispering, cool corridor air slipping in smelling of night grass. Annabeth stood in the threshold, two blankets over one arm, lantern in the other hand, its flame cupped small and gold. Hair fell loose around her shoulders, still carrying the day's sun and faint woodsmoke; green glass charm caught dim light, glinting green-gold at her throat.
+
+"Thought you might be awake," she said softly.
+
+"Fountain gave us away?" Percy asked, smiling.
+
+"Running faster for an hour."
+
+"Could be wind."
+
+"Could." She set the blankets beside him, wool smelling of the Zeus cabin. "Brought these because Zeus cabin has too many."
+
+"Didn't have to."
+
+"I know."
+
+Thalia appeared behind her, hand on the doorframe, hair mussed with sleep. "Came to ensure my sister wasn't wandering camp alone."
+
+"Standing at the door," Annabeth said.
+
+"That's how I know you're not alone."
+
+Silena patted the quilt. "Room."
+
+Thalia crossed and settled near Annabeth, close enough to join without crowding, long legs folding. Annabeth sat beside Percy, shoulders touching, familiar warmth. He turned his hand palm-up; she slid fingers into his and pressed thumb against his knuckles.
+
+Annabeth unfolded one blanket over her knees, wool scratchy then warming, and passed the other to Thalia, its folds smelling of cedar chests. Thalia started to refuse, then accepted when Annabeth nudged fabric toward her, fingers insistent. She tucked the edge around her sister's shoulder first, smoothing it flat, then settled under the rest herself. Practiced, a small ritual carried between cabins for years, done without looking.
+
+"You okay?" Annabeth asked, eyes on him.
+
+"Miss Sally tonight."
+
+"I'm here."
+
+"I know."
+
+Annabeth rested her head against his shoulder, hair soft against his jaw, blanket heavy and warm over their legs. He kissed her hair and let his cheek rest against her temple — small, familiar comfort, smelling faintly of sun and soap, not an answer to missing.
+
+Her hand stayed in his. Her fingers warm; his gone cool around the mug, ceramic leeching heat from his skin. She rubbed her thumb across his knuckles until tightness left, her touch dry and steady. They'd learned not to turn every sadness into a problem to solve together. Sometimes beside her was what he could manage, her shoulder solid against his, blanket rough over their knees, and sometimes enough.
+
+Thalia glanced around the circle, taking in mugs and blankets and Tyson. "What did I miss?"
+
+"Percy got lost in a pantry," Clarisse said, reviving.
+
+"Exploring," Percy replied, on cue.
+
+"Hiding from a lesson," Silena added.
+
+"More likely," Thalia said, grinning.
+
+Annabeth squeezed his hand. "You told them about Sally?"
+
+He nodded. She didn't ask him to repeat it, only held tighter.
+
+"And I told about the beach," Clarisse said. "First time I remember waiting for Poseidon."
+
+Thalia's expression softened, but she reached for no ready answer. "Want me closer?"
+
+Clarisse glanced at space between them. "You can sit there."
+
+Thalia shifted till her knee touched Clarisse's. Clarisse stayed.
+
+Silena looked around. "We've had cocoa, stories, a Cyclops bell, and a floor circle. Something's missing."
+
+"Terrible game," Percy said.
+
+"Then we need a terrible game," Silena said, perking up.
+
+Tyson suggested naming blue things. Clarisse objected too easy, so Annabeth narrowed rules to cabin things blue but not water. The argument outlasted the game's worth. Percy named his shirt; Tyson called the door blue-green; Thalia insisted mostly green. Clarisse claimed the brass frame counted because the photograph inside showed sea. Silena ruled that wasn't what the question meant.
+
+Rules changed whenever someone neared losing. Percy and Annabeth disputed a palace fish's color. Clarisse tried counting a bruise, which Silena ruled purple. Nobody won, everyone accused.
+
+After a while Silena's head dipped against Clarisse's shoulder, hair tickling warm against her neck, smelling of honey and cocoa steam. Clarisse offered the bed pillow, its case cool and smooth under her hand. Silena said she was fine, voice slurred with drowsiness, but took it when Clarisse set it in her lap, fingers lingering a moment on her sister's wrist. Clarisse sat close again, arm steadying her, solid along her side.
+
+Beyond windows the sky began to pale, gray to pearl. No one fetched a clock.
+---
+
 When Tyson had settled with his blanket, nobody quite knew what to do with the fact that he was there.
 
 His assigned bed for the visit was still in the Big House. Chiron had arranged it because Tyson had been invited to camp for a limited period and there wasn't yet a bunk in Cabin Three that suited his height. Percy knew Tyson could stay awake with them for as long as he liked, but that didn't tell them whether he should try to sleep on the floor.
@@ -460,84 +537,6 @@ They said good night and returned to Cabin Three. The short walk had cooled Perc
 
 Percy looked at the new note in Silena's book. A future guest bunk would not make Tyson a permanent resident or solve the sadness of a visit ending. But it would mean that when his brother next arrived, they wouldn't be improvising a place for him out of spare furniture and love alone.
 
-
----
-
-The door opened a little later, hinges whispering, cool corridor air slipping in smelling of night grass. Annabeth stood in the threshold, two blankets over one arm, lantern in the other hand, its flame cupped small and gold. Hair fell loose around her shoulders, still carrying the day's sun and faint woodsmoke; green glass charm caught dim light, glinting green-gold at her throat.
-
-"Thought you might be awake," she said softly.
-
-"Fountain gave us away?" Percy asked, smiling.
-
-"Running faster for an hour."
-
-"Could be wind."
-
-"Could." She set the blankets beside him, wool smelling of the Zeus cabin. "Brought these because Zeus cabin has too many."
-
-"Didn't have to."
-
-"I know."
-
-Thalia appeared behind her, hand on the doorframe, hair mussed with sleep. "Came to ensure my sister wasn't wandering camp alone."
-
-"Standing at the door," Annabeth said.
-
-"That's how I know you're not alone."
-
-Silena patted the quilt. "Room."
-
-Thalia crossed and settled near Annabeth, close enough to join without crowding, long legs folding. Annabeth sat beside Percy, shoulders touching, familiar warmth. He turned his hand palm-up; she slid fingers into his and pressed thumb against his knuckles.
-
-Annabeth unfolded one blanket over her knees, wool scratchy then warming, and passed the other to Thalia, its folds smelling of cedar chests. Thalia started to refuse, then accepted when Annabeth nudged fabric toward her, fingers insistent. She tucked the edge around her sister's shoulder first, smoothing it flat, then settled under the rest herself. Practiced, a small ritual carried between cabins for years, done without looking.
-
-"You okay?" Annabeth asked, eyes on him.
-
-"Miss Sally tonight."
-
-"I'm here."
-
-"I know."
-
-Annabeth rested her head against his shoulder, hair soft against his jaw, blanket heavy and warm over their legs. He kissed her hair and let his cheek rest against her temple — small, familiar comfort, smelling faintly of sun and soap, not an answer to missing.
-
-Her hand stayed in his. Her fingers warm; his gone cool around the mug, ceramic leeching heat from his skin. She rubbed her thumb across his knuckles until tightness left, her touch dry and steady. They'd learned not to turn every sadness into a problem to solve together. Sometimes beside her was what he could manage, her shoulder solid against his, blanket rough over their knees, and sometimes enough.
-
-Thalia glanced around the circle, taking in mugs and blankets and Tyson. "What did I miss?"
-
-"Percy got lost in a pantry," Clarisse said, reviving.
-
-"Exploring," Percy replied, on cue.
-
-"Hiding from a lesson," Silena added.
-
-"More likely," Thalia said, grinning.
-
-Annabeth squeezed his hand. "You told them about Sally?"
-
-He nodded. She didn't ask him to repeat it, only held tighter.
-
-"And I told about the beach," Clarisse said. "First time I remember waiting for Poseidon."
-
-Thalia's expression softened, but she reached for no ready answer. "Want me closer?"
-
-Clarisse glanced at space between them. "You can sit there."
-
-Thalia shifted till her knee touched Clarisse's. Clarisse stayed.
-
-Silena looked around. "We've had cocoa, stories, a Cyclops bell, and a floor circle. Something's missing."
-
-"Terrible game," Percy said.
-
-"Then we need a terrible game," Silena said, perking up.
-
-Tyson suggested naming blue things. Clarisse objected too easy, so Annabeth narrowed rules to cabin things blue but not water. The argument outlasted the game's worth. Percy named his shirt; Tyson called the door blue-green; Thalia insisted mostly green. Clarisse claimed the brass frame counted because the photograph inside showed sea. Silena ruled that wasn't what the question meant.
-
-Rules changed whenever someone neared losing. Percy and Annabeth disputed a palace fish's color. Clarisse tried counting a bruise, which Silena ruled purple. Nobody won, everyone accused.
-
-After a while Silena's head dipped against Clarisse's shoulder, hair tickling warm against her neck, smelling of honey and cocoa steam. Clarisse offered the bed pillow, its case cool and smooth under her hand. Silena said she was fine, voice slurred with drowsiness, but took it when Clarisse set it in her lap, fingers lingering a moment on her sister's wrist. Clarisse sat close again, arm steadying her, solid along her side.
-
-Beyond windows the sky began to pale, gray to pearl. No one fetched a clock.
 ---
 
 A knock sounded at the cabin door before the first light had fully reached the bunks. Percy sat up, already braced for a summons. It was only one of the younger campers from the canoe shed, carrying a note for Clarisse about a borrowed practice shield.
@@ -568,7 +567,7 @@ Windows turned gray, then pearl, light seeping like water. Percy watched light f
 
 He thought of the beach Clarisse described, Sally's hallway lamp, Tyson's bell too loud for ordinary mornings, Silena waiting to see if room existed without asking. None fixed by telling. Still true, and now shared.
 
-Annabeth leaned against his shoulder, warm beneath the blanket, breathing slow. Thalia sat within reach of her sister. Silena had curled against Clarisse, one hand on her sleeve. Tyson's humming had stopped, but he stayed propped on one elbow, watching windows brighten, eye heavy.
+Annabeth leaned against his shoulder, warm beneath the blanket, breathing slow. Thalia sat within reach of her sister. Silena had curled against Clarisse, one hand on her sleeve. Tyson had gone to the Big House guest room after the conversation about a proper visitor bunk. Silena's sketch remained on the worktable, waiting for Chiron and the builders to review it.
 
 "Still tired," Clarisse said, voice hoarse.
 
@@ -580,7 +579,7 @@ Annabeth leaned against his shoulder, warm beneath the blanket, breathing slow. 
 
 Clarisse let breath out and rested her head against the wall, plaster cool against her temple, eyes closing, lashes dark against tired skin. Nobody asked her to feel better, or brave, or grateful for the night. Percy kept hold of Annabeth's hand, her thumb steady over his knuckles. They sat while first camp sounds rose outside — a door thudding, a laugh, gulls — with nothing to repair before breakfast and no reason to hurry toward it.
 
-The sea moved beneath the floor. For a little longer, night stayed with them.
+The fountain moved through its stone channel. For a little longer, night stayed with them.
 
 ---
 
