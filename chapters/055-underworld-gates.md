@@ -323,6 +323,104 @@ Charon had already gone back to counting coins. "Everyone is okay until they are
 
 ---
 
+Percy reached for the wristband and stopped before touching it.
+
+"What's the difference between a living guest and a person who's dead?" he asked.
+
+Charon looked up from the coins. "Biology, young man. You'll find it's decisive."
+
+"I mean for the paperwork."
+
+"Then say that."
+
+The ferry-master slid a large register across the counter. Annabeth leaned over it before Percy could read the headings. Columns recorded passage, permitted destination, escort requirements and whether a guest had property awaiting inspection.
+
+"Are these the rules?" she asked.
+
+"Rules and consequences. Some people confuse them."
+
+A row near the bottom was marked *living petitioner*. Beside it was a box labeled *court appointment verified*. It was blank.
+
+"We have permission to enter the building," Annabeth said. "But we don't have an appointment with Hades."
+
+"Correct."
+
+"Then how do we get one?"
+
+"You request an audience. If the court has reason to receive you, an usher will escort you from the hall of records. If the court refuses, you leave by the route prescribed for living guests."
+
+Percy looked toward the bronze elevators. "And if we don't agree with the refusal?"
+
+Charon tapped the wristbands. "Then you learn why I keep saying living guests rarely come back."
+
+Thalia's expression hardened. Percy almost expected her to lean across the counter and threaten the man with her spear. Instead she looked at Annabeth.
+
+"Can we petition before going down?"
+
+"You can request a hearing," Charon answered. "It won't be reviewed until you reach the lower court. The king doesn't conduct business in a lobby full of tourists."
+
+Grover shifted from one hoof to the other. "What about the people in line? The dead? Do they get hearings?"
+
+Charon stared at him. "Everybody wants a hearing. Most simply want to know whether somebody is waiting for them. Some insist there's been a mistake. Some don't remember their own names. We process them as best we can."
+
+Percy looked at the family with the suitcases. They hadn't looked like ghosts at first, which had made it easy to treat them as customers in an unusually grim office. Now he noticed the mother holding the youngest child's hand with too much care, and the way the father kept checking a ticket he seemed afraid to lose.
+
+"Are they all right?" Percy asked.
+
+Charon's eyes flicked toward the elevator. "They are no longer in the mortal world. That is the most precise statement I can make."
+
+Percy disliked him a little less for not pretending the situation could be made pleasant by a cheerful answer.
+
+He placed his own drachma on the counter.
+
+"My mother's name is Sally Jackson. She died when I was two. That's in the records here. I want to know whether she has peace. I'm not asking to take her out or to rewrite the judgment."
+
+He hadn't intended to say all of that. The words came out rough and unprepared. Annabeth didn't interrupt. She knew the older memories he carried of Sally alive, the ones the altered world didn't recognize, but she didn't try to put those into an official petition.
+
+Charon took a clean sheet and asked Percy for the details of the altered life: Sally's name, approximate year of death, the city where she'd lived and Percy's relationship to her. He wrote them down in a clerk's swift hand and stamped the top.
+
+"This authorizes a welfare inquiry, not an audience with her," he said. "If the records office has a response for a living relative, it can be included with your court request."
+
+Percy stared at the paper. "Will I get to know tonight?"
+
+"I didn't say that."
+
+"Okay."
+
+"And the stolen weapon?" Charon asked.
+
+"We have evidence that a buzzing package moved west," Annabeth answered. "We need to ask whether anything matching that description came through this entrance."
+
+Charon considered the question.
+
+"You're asking whether I received a particular object."
+
+"Yes."
+
+"The dead don't normally arrive carrying weapons belonging to Zeus. I would have noticed one rattling the walls."
+
+"Would you tell us if it did?" Thalia asked.
+
+"Not without authority."
+
+Percy wanted to groan. Another answer that left them where they started. Annabeth, though, wrote both parts down. *Charon says not routinely received; cannot establish no passage.*
+
+"You're doing that thing again," Percy murmured.
+
+"The useful thing?"
+
+"The thing where you make every sentence less satisfying but more accurate."
+
+Annabeth gave him a tired look. "You're welcome."
+
+Charon almost smiled. Then he handed out the wristbands and took the fees.
+
+"Keep the welfare petition with your registration," he told Percy. "If you have to use a pearl to escape, take the papers with you. I dislike filling out the same form twice."
+
+Percy held the thin sheet as though it could tear if he breathed too hard. He had not found Sally. He had not found the bolt. But he had a request that somebody in the Underworld would have to read. He could carry it without lying about what it meant.
+
+---
+
 They walked to the elevators together, their shoes loud on the marble.
 
 There were six elevators in a row. Five were steel and bright. The last one on the right was different. Its doors were made of dark bronze, dented and scratched. Above it, instead of floor numbers, there was a dial with names: PENTHOUSE. LOBBY. PARKING. FIELDS. PUNISHMENT. HADES.
