@@ -280,6 +280,130 @@ They ate, debating whether a compass ought to point toward the nearest place a p
 
 ---
 
+They found Chiron after breakfast, seated beside a shallow basin in the garden behind the Big House. He was helping two campers set up an Iris-message for a family member in New York, and he asked the Grace sisters to wait until the first call had finished.
+
+Annabeth sat on the steps with her letter folded in her lap. Thalia paced the length of the porch twice before Annabeth told her that walking wouldn't make the relay move faster.
+
+"I'm not trying to hurry it."
+
+"You're wearing a groove in the wood."
+
+"Then we can call it a design feature."
+
+Chiron smiled without looking up. When the other campers had finished, he checked the contact instructions from Camp Jupiter and asked whether Jason had agreed to a birthday call. Thalia showed him the note from their previous correspondence. Jason had said he would try to be available for a short conversation before his morning duties.
+
+"Then we'll attempt it," Chiron said. "But if he is unavailable, leave a message rather than trying the relay repeatedly."
+
+Annabeth nodded. She'd made the same rule for her own work: a person couldn't be forced into an appearance simply because she wanted them there.
+
+A drachma flashed through the rainbow. For a second the basin showed only colored mist. Then Jason's face came into focus, younger and sharper than Percy's, his blond hair flattened on one side as if he'd taken off a helmet too quickly.
+
+"Annabeth!" he said. "Happy birthday."
+
+"Thank you. Did we catch you at a bad time?"
+
+"I have ten minutes before drill inspection. I told them I'd be on a family call."
+
+Thalia leaned into view. "Ten minutes. What a generous man."
+
+"It's more than you gave me last time."
+
+"That was a surprise inspection."
+
+"Your inspection of my haircut."
+
+Annabeth laughed. The teasing had become its own language between them, assembled from visits and letters rather than from an uninterrupted childhood together. She had known him most vividly as the brother Thalia spoke about when she thought Annabeth was asleep. Hearing him argue back made the absence less abstract.
+
+"How's the camp?" Annabeth asked.
+
+"Hot. Busy. We're rebuilding part of the training platform. I wanted to ask you about the angle of the supports."
+
+"On my birthday?"
+
+"I can ask later."
+
+"No, I'm interested. Show me."
+
+Jason held a rough drawing up to the mist. Annabeth noticed he'd marked the load-bearing beams but not the exit path. She pointed out the omission. He scowled.
+
+"That's where the engineers want a ladder."
+
+"Then draw the ladder."
+
+"You're impossible."
+
+"I learned from Thalia."
+
+"Do not put that on me," Thalia said.
+
+The conversation turned to the changes Annabeth had made at camp, the garden she hoped to plant and the old corridor they'd begun to survey. Jason wanted to know if the passage connected to the lake. She told him it probably didn't and added that they weren't going inside without the maintenance crew.
+
+"Good," he said. "I'd hate to hear you discovered a secret door by falling through it."
+
+"Percy would catch me."
+
+"He'd jump after you and then you'd both be in trouble."
+
+Thalia coughed to hide a laugh. Annabeth made a face at the mist. It was an accurate assessment, which made it more annoying.
+
+When his time was nearly over, Jason said he had sent a small parcel through the approved relay. It wasn't guaranteed to arrive that day; he hadn't wanted the gift to depend on whether the messenger could travel during a storm. Annabeth told him that was fine. She would be glad to receive something from him whenever it came.
+
+"What is it?" she asked.
+
+"A surprise."
+
+"You're terrible at surprises."
+
+"Thalia says the same thing about you."
+
+"She would."
+
+Jason glanced off to the side. Somebody had called his name.
+
+"I have to go," he said.
+
+Annabeth felt disappointment, quick and unmistakable. She had been glad to hear him and wanted another ten minutes.
+
+"Then go," she said. "Don't get in trouble for us."
+
+"Happy birthday, Annie."
+
+"Thank you. Write when you can."
+
+"I will."
+
+The rainbow faded. Chiron covered the basin and returned the unused coin to Annabeth's hand. She tucked it into her pocket, trying not to let the abrupt end feel like a rejection.
+
+Thalia sat beside her on the steps. "That went well."
+
+"It was too short."
+
+"Yes."
+
+"He has a life there."
+
+"Yes."
+
+Annabeth looked at her sister. "I wanted him to be here anyway."
+
+"So did I."
+
+It was easier to admit the want with Thalia beside her. Neither would pretend Jason had done something wrong by returning to his responsibilities.
+
+They walked back toward the pavilion carrying Annabeth's unopened letter, now unnecessary in part but worth finishing anyway. She had more to tell him than ten minutes could hold: the shape of an old stone passage, the smell of newly turned earth, the peculiar sensation of being fourteen while remembering another fourteen from a different life. That last part belonged to her private thoughts, not to Jason's unanswered questions. She could write the ordinary parts truthfully and keep her own secret without making the correspondence false.
+
+As they reached the pavilion, Annabeth put a hand on Thalia's arm.
+
+"Thank you for helping with the call."
+
+"Of course."
+
+"No, I mean for letting it be my conversation."
+
+Thalia blinked. Then she smiled.
+
+"You're welcome."
+
 The gift from Zeus arrived at noon.
 
 Annabeth was in the pavilion with Thalia, helping Chiron rearrange benches for the party, wood scraping stone with each shift. A shadow crossed the grass, though summer blue stretched cloudless above camp. The air tightened with the sensation of a storm debating whether it had been invited, ozone faint on the breeze.
