@@ -522,6 +522,208 @@ Silena rested her hands in her lap. She seemed lighter, though not because her q
 
 ---
 
+The quiet was broken by a young attendant arriving from the eastern channel with a basket of pale coral fragments.
+
+Amphitrite looked up before the girl spoke. "What happened?"
+
+"One of the anchoring lines came free in the current change, my lady. The nursery shelves are shifting. We have secured the outer end, but the seedlings will be buried if the next tide comes through."
+
+The attendant stood perfectly still, as though the news needed to be delivered without a trace of alarm. Percy had heard that tone at camp when a counselor reported something going wrong in front of Chiron. Usually it meant someone had been trying to fix the problem before admitting there was one.
+
+"How long have you known?" Amphitrite asked.
+
+"Since the morning turn."
+
+"Then the shelves have been loose for hours."
+
+"Yes, my lady."
+
+Amphitrite set down the rose-colored token. She didn't scold the attendant. "Thank you for telling me. Ask the gardeners to close the inner path. We will look at it before the next shift."
+
+Clarisse was on her feet. "Can I help?"
+
+"You don't know this garden's anchors."
+
+"I know what a failed line looks like."
+
+Amphitrite studied her for a moment. "Then you may come with us to examine it. You will not touch anything until the gardener explains the structure."
+
+"Fair."
+
+Silena put the coral token on the stone. "I know how to tie a line that won't cut into a soft branch. Is that useful?"
+
+"It may be. Come and see."
+
+Annabeth had already taken out her notebook. Thalia caught her arm before she followed.
+
+"Ask first," she said under her breath.
+
+Annabeth turned. It was a mild reminder, not an order, and she treated it that way.
+
+"May I sketch the anchoring layout?" she asked Amphitrite. "I won't record private areas you don't want mapped."
+
+"Yes. The nursery is no secret, but the young coral is fragile. We should stay on the marked path."
+
+They went through an arch hung with kelp ribbons and entered a lower terrace where the current moved more quickly. Rows of small branching corals sat on shallow shelves fixed into the stone. A cord stretched from each shelf to a broad iron ring, keeping the planting surfaces from tipping when the flow changed. The eastern cord had frayed where it rubbed against a sharp edge. With one side unsupported, the shelves had begun to lean toward the sand.
+
+Percy could feel the current pressing them. His instinct was to flatten the water and lift the shelf with a thought, as easily as bringing a cup to his hand. He held back. Amphitrite had made the rules of the garden clear. Even his control might create a sharp shift in pressure the young corals couldn't tolerate.
+
+A gardener arrived carrying a narrow basket of tools. Her hands were dark with sediment, and she wore a belt threaded with small bone hooks.
+
+"We need to move the weight off the damaged line," she said, "then replace it without pulling the shelf through the seedlings. If it swings at all, we lose the nearest row."
+
+"Can I keep the water steady?" Percy asked.
+
+"Only within the outer channel," the gardener said. "The nursery needs the flow. Don't stop it completely."
+
+He nodded. The distinction mattered. Still water might make the repair easier for him while starving the small organisms whose lives depended on a moving current.
+
+Clarisse took the gardener's spare line and examined the knot. "This one's tied like it was meant for a boat."
+
+"It was."
+
+"Then it works under tension, but the cut end needs protecting. You should wrap the ring."
+
+Silena looked at the frayed cord. "A soft sleeve would help. Something between the rope and the edge."
+
+The gardener considered them. "We have strips of woven kelp in the tool box."
+
+"They're strong when wet," Silena said. "I can make one into a sleeve."
+
+She didn't reach for the materials until the gardener offered them. Percy noticed. He'd seen Silena take over a dozen repairs at camp because she was the person most likely to finish them. Here she asked what was needed and waited for an answer.
+
+Annabeth crouched beside a stone marker and drew the shelves from above. "The second ring is closer to the incoming flow than the first. Does that make its line take more strain?"
+
+"Yes," the gardener replied. "The old arrangement was built when the channel was narrower. We have been meaning to move that ring."
+
+"Could the new line go around the outer post instead?" Annabeth asked.
+
+"That post is carved into a living reef. We mustn't use it."
+
+She crossed out the suggestion. She didn't argue. The map would reflect what could actually be done, not simply what made the geometry look tidy.
+
+They divided the work carefully. The gardener directed the repair. Clarisse held the shelf against the frame with both hands, bracing her feet on the solid path. Silena threaded the woven kelp around the exposed ring. Percy shaped a narrow current around the outside so the shelf could be lifted an inch without the full force of the incoming water pushing against it. Thalia stayed a little farther back with Annabeth, watching the edges of the work area and warning two curious fish away with gentle movements of her hands.
+
+"Do not use lightning," Annabeth told her.
+
+"I had absolutely no intention of electrifying a coral nursery."
+
+"Your hair is standing up."
+
+"My hair does that when I am offended."
+
+Clarisse grunted. "Can we argue about hair after I put this down?"
+
+"Yes," Thalia said.
+
+The damaged line loosened suddenly. For a second the shelf tilted in Clarisse's grip. Percy felt the water he was holding slide toward the gap and steadied it without increasing the pressure. Clarisse shifted her weight and caught the frame against her forearm.
+
+"Got it," she said. Her voice was strained but controlled.
+
+"Hold there," the gardener instructed. "Silena, pass the new line behind the iron ring. Not over it."
+
+Silena obeyed. The woven sleeve stayed in place as the cord was drawn through. The gardener made the final knot and tested it with a sharp tug. Only then did she tell Clarisse to let go.
+
+The shelf settled level. The young coral remained where it had been planted.
+
+For a few moments nobody said anything. Percy could hear the faint ticking sounds of the nursery as its branches moved with the current. The gardener inspected the nearest row, touched one loose planting gently back into place, and stood.
+
+"We'll watch it through the next tide," she said. "That is a repair, not a guarantee."
+
+Clarisse rubbed her forearm. "I like that answer."
+
+"Most visitors prefer guarantees."
+
+"Then most visitors haven't repaired anything."
+
+Amphitrite looked around the group. The current moved through their hair and clothing, carrying away the last suspended grains of sand.
+
+"Thank you," she said. "I invited you to see the garden, not to be pressed into its work."
+
+"You didn't press us," Silena said. "We offered."
+
+"And the gardener still decided what we could do," Annabeth added.
+
+The gardener nodded. "Which is why the shelf is still there."
+
+They walked back along the marked path. Percy remained beside Clarisse, who was flexing her hand discreetly.
+
+"Is your arm all right?" he asked.
+
+"Yes. It just got tired."
+
+"You could have told me to take over."
+
+"The shelf didn't need another person jumping in. It needed me to hold still."
+
+He smiled. "You sound like Chiron."
+
+"Insult me again and I'll teach you what the word *hold* means."
+
+Silena caught up with them. A length of unused kelp weave hung from one finger.
+
+"The gardener gave me this," she said. "She thinks I could use the pattern to make a better strap for my sewing bag."
+
+"You'll have to ask how long it lasts out of water," Annabeth said.
+
+"I did. It dries stiff, but it can be rewetted."
+
+"And you can't take living coral home," Percy said.
+
+"I am aware," Silena replied. "I took a strip that was cut already, not an entire reef."
+
+Amphitrite slowed at the top of the terrace. "Would you like to see the old records for the garden? They contain the plans made before the channel shifted."
+
+Annabeth's eyes lit. "Yes. If the gardener is willing."
+
+"She is the one who suggested it."
+
+They spent part of the afternoon in a small workroom built into the stone above the nursery. Scrolls with pressed seaweed samples lay beside etched plates showing the channels as they had been at different times. Annabeth compared the shapes with her own sketch, making notes about the water's route and the way the structures had been changed as the living reef grew.
+
+Clarisse sat near the doorway and watched the gardener demonstrate how to test a line without loading it with the full weight of a shelf. Silena asked about the different textures of kelp fiber. Thalia inspected the safety markers, not because she distrusted the gardeners but because she wanted to know how a person unfamiliar with the place would recognize a closed path.
+
+Percy ended up with Amphitrite at the window overlooking the repaired terrace. He had thought she would be distressed by damage in a place she loved. She was concerned, certainly, but she didn't act surprised that a living garden required maintenance.
+
+"You couldn't have prevented that line from failing forever," she told him.
+
+"I might have noticed sooner."
+
+"Perhaps. Or you might have been somewhere else, as you were this morning. The garden survived because the people who care for it knew what to do."
+
+"I keep thinking I should be able to fix things when they happen around me."
+
+Amphitrite watched the gardeners test the new knot. "That feeling may never disappear entirely. It doesn't have to decide how you behave."
+
+He looked at her. She was not speaking as a god giving a command. She seemed to be considering the problem as carefully as he was.
+
+"Did you worry about me like that?" he asked. "When I was little here?"
+
+"Yes."
+
+"Even when you knew the water wouldn't hurt me?"
+
+"The water was not the only thing that could." She placed her palm on the stone ledge. "I knew you were safe in some places and vulnerable in others. I made arrangements. Sometimes I wanted to make every arrangement myself."
+
+"What stopped you?"
+
+"Triton, on occasion. He was very young when he first told me I had to let you fall off a training float."
+
+Percy laughed, then grew quiet. It was a story about a childhood he couldn't remember. He knew she understood that, but he still had to make himself listen as though he were learning about someone he had never met.
+
+"Did I fall?" he asked.
+
+"You did. You were furious. You stood up and tried again."
+
+"Sounds like me."
+
+"It does." Her smile was small. "But I tell you because you asked, not because you ought to remember it."
+
+He nodded. That made a difference.
+
+When the others emerged from the records room, they carried copies of nothing. Annabeth had written down what the gardeners permitted her to use, not drawn the protected nursery's exact location. Silena had a sample of finished kelp cord. Clarisse knew a new knot and had a tired arm she would eventually admit needed rest. Thalia had identified the exit signs and the staffed routes.
+
+The visit had become something different from a tour. They had discovered how the garden worked, who maintained it, and what its beauty cost in ordinary attention. Percy liked that none of those discoveries required the place to turn into another version of camp. Atlantis could stay itself, and his sisters could remain themselves, while they learned enough to return someday without being helpless guests.
+
 The visit ended without a bell or summons. The current turned toward the upper water, and Amphitrite walked them back to the garden’s outer arch.
 
 “We can come back?” Silena asked.
