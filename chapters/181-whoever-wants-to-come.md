@@ -542,9 +542,24 @@ Clarisse and Silena came up the hill at half past ten with the basket and the bl
 
 Inside, the cabin had gone cold in the specific way cabins go cold when the stove has been out for three hours and the door has been opened twice: everything at the temperature of the outdoors but without the wind. Percy stripped off the damp things and got into the bunk in the dark with the blanket up to his ears, and the cold came at him from the window and from the boards and from the gap at the bottom of the door, and his hair was still wet at the ends, and his skin still carried the hall.
 
-That was the last of it. The heat went out of him in a long slow line, the way heat leaves stone, and what was left underneath it was the salt, and the smell of the hot stones, and the feel of a towel that had been lying on a floor heated since before anybody could remember, and under that, further down than he had any right to go on a school night, a corridor he had stood in when he was nine, with lit pools and somebody's voice coming down the length of it, telling him that dinner was ready.
+Percy pulled the blanket tighter and waited for his hair to stop dripping against his collar. The hall had been crowded, and the smell of warm salt still clung to his clean shirt. It had reminded him of Atlantis in a way he couldn't explain to anybody sleeping in this room. He didn't have to invent an explanation for it now.
 
-He did not go there tonight. He just let it be where it was, in the pile, in the dark, in a cabin that had a rule on a slate two hundred yards down a bank, and the window ticked as the frost took it, and somewhere below the west path went on holding nine pieces of amber light end to end, and Clarisse blew out the lantern on the hook at about ten to eleven, and the camp, which had been awake in a warm room full of fifteen people and salt water, lay down again under a sky with more stars in it than anybody had names for.
+Across the cabin, Silena got out of bed again. She put her feet into slippers and moved quietly to the window above the sink, where cold air had been reaching them for days. The old strip of cloth in the sill had shifted. She pressed it back into place with the heel of her hand, tested the draft, and went looking for the spare towel.
+
+"Leave it," Clarisse muttered from beneath her blanket.
+
+"I'm almost finished."
+
+"Then finish without redecorating the window."
+
+Silena gave the gap another push, wedged the towel firmly into the corner, and returned to bed. The room was still cold, but the air no longer moved directly across Percy's face.
+
+"Better?" she asked him.
+
+"Much."
+
+"Then sleep."
+
+It was an instruction he could obey. The hall would need its floor checked before Thursday, and Clarisse had already written the pump onto her board. He'd help when it was time. For tonight he folded the damp corner of his pillow under itself and shut his eyes. Down the hill someone finished extinguishing the last lantern. Inside the cabin the stove ticked as it cooled, and the repaired gap in the window held against the wind until morning.
 
 ---
-
