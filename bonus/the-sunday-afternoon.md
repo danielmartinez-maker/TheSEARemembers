@@ -7152,3 +7152,265 @@ Before she slept, Thalia looked toward the papers one last time.
 Six weeks was a long time. She would miss him. She was also pleased that a person she loved had been offered something he had earned. She had never expected the two feelings to fit so comfortably beside each other.
 
 ---
+
+## February 10: An Answer He Hadn't Asked Her to Give
+
+The letter arrived on a Saturday, folded beneath the edge of a practice schedule and addressed to Rhys in an unfamiliar hand.
+
+Thalia was at the range when the courier delivered it. Rhys had been checking a target frame for damage, his coat thrown over one shoulder because the afternoon was warmer than anyone had expected. The courier called his name, handed over the envelope and went on toward the infirmary without pausing for conversation.
+
+He looked at the writing and went very still.
+
+Thalia knew immediately what it was.
+
+"Open it," she said.
+
+He glanced at her. "You could let me be nervous for a minute."
+
+"You've been nervous for six days."
+
+"Then I'm getting good at it."
+
+She put down the measuring pole. There was no audience beyond two instructors near the far targets, and neither was paying attention. Rhys turned the envelope over twice, as if a more favorable answer might be visible on the back.
+
+"Do you want me to go?" she asked.
+
+"No."
+
+"Then open it."
+
+He laughed once, a short sound that had more tension than amusement in it, and broke the seal.
+
+Thalia watched his face instead of the paper. His eyes moved across the first paragraph, paused, and went back to the beginning. He read the second paragraph more slowly. By the time he reached the end, his expression had changed into something she could not immediately name.
+
+"Well?"
+
+"They want me."
+
+She caught her breath. He looked at the page again, as if he needed to confirm that the sentence hadn't altered.
+
+"They want me," he repeated. "Not permanently. There’s a spring series, six weeks of rehearsals and performances. They want me to come for the full run."
+
+Thalia stared at him.
+
+For weeks they'd discussed the possibility of an audition, the fact that he ought to try, the fact that liking somebody at camp wasn't a good reason to refuse a career opportunity before it existed. Now the opportunity did exist, inconveniently folded into a piece of paper.
+
+"That's good," she said.
+
+He looked up. "Is it?"
+
+"Of course it is."
+
+"Thalia."
+
+"You went because you wanted a chance to play with them. They gave you the chance."
+
+"Yes."
+
+"Then it's good."
+
+He studied her. She could see what he was searching for: the hesitation she hadn't managed to conceal, the old instinct to turn a pleasant thing into a calculation about who would leave whom and what that meant. She was tempted to tell him not to examine her. She was also tempted to make a joke that would let both of them avoid the subject entirely.
+
+Instead she stepped forward and threw her arms around him.
+
+He nearly dropped the letter.
+
+"Gods, Grace."
+
+"Congratulations," she said into his shoulder.
+
+His laugh came more easily this time. He held her close, the envelope creased between two fingers. For a while she let herself feel exactly what she felt: pride, happiness, an immense affection for the man she'd watched struggle with an unfinished tune, and a hard little knot of selfish disappointment.
+
+When she pulled back, he was smiling.
+
+"You're pleased," he said.
+
+"Don't sound astonished."
+
+"I'm not."
+
+"You're looking astonished."
+
+"I'm looking at you."
+
+She kissed him. It was more than a congratulatory peck, long enough that he forgot the letter in his hand until the corner brushed her cheek. She laughed, caught the envelope before he could crush it and pressed it against his chest.
+
+"Keep that. It appears important."
+
+He grinned and folded it carefully into his pocket.
+
+"Let's go somewhere," she said.
+
+"Where?"
+
+"Anywhere without a target in sight."
+
+They took the flat path toward the lake. Thalia led at first, walking quickly because she wanted to move, then slowing when she realized she was leaving him several paces behind. He caught up without commenting.
+
+The afternoon had a weak winter brightness. Wind moved over the water, breaking it into long grey bands. Thalia stopped beside the low wall where they'd sat on an earlier Sunday and watched him take the letter out again.
+
+"Read me the details," she said.
+
+He did. The series would begin after a short preparation period. There were rehearsals four afternoons each week, evening performances and travel between several nearby towns. The pay was modest but respectable. Accommodation was arranged; musicians were expected to bring their own instruments and be available for the entire six weeks. There was no language about continuing afterward.
+
+"That's work," Thalia said when he finished.
+
+"Yes."
+
+"You like work."
+
+"Some kinds."
+
+"You like this kind."
+
+He looked at her. "Yes."
+
+She nodded. That was the difficult part of loving someone competent. Their abilities opened doors that didn't necessarily lead toward her.
+
+She had abilities of her own. Chiron's advanced archery program was already moving beyond the pilot stage, and she was preparing to take on a larger group in spring. If anyone had suggested she abandon the work because Rhys wanted more evenings together, she would have told them precisely what she thought of the proposal.
+
+She intended to offer him the same freedom.
+
+But an intention wasn't a feeling, and she wasn't going to pretend otherwise.
+
+"I hate that you're going," she said.
+
+"I haven't said yes yet."
+
+"You want to."
+
+"I think I do."
+
+"Then I hate that you'll be gone."
+
+He stood beside her, watching the water.
+
+"I don't want to leave either."
+
+"That's not true."
+
+"It's not all true. Part of me wants to go. Part of me wants to stay."
+
+She looked at him. "You don't have to choose which feeling is respectable."
+
+He smiled faintly. "You've been practicing that advice."
+
+"On a very difficult student."
+
+He reached for her hand. She took it, then pulled him closer until they were standing face to face.
+
+"Do you think this changes anything between us?" he asked.
+
+She thought about the letter, the six weeks, the possibility of him returning after rehearsals and finding a different routine at camp. She thought about the months they'd spent learning how to be together without turning affection into ownership. She couldn't promise that nothing would change. That would be a lie.
+
+"I think you'll be away," she said. "And I'll be here. We already know how to do that badly and improve."
+
+"Comforting."
+
+"I try."
+
+He smiled. She rested a hand against his cheek and felt the cold air around his face.
+
+"Go," she said. "Play. Come back when you've finished, and tell me about it."
+
+He kissed her with a sudden, unmistakable eagerness that made her laugh against his mouth. She hadn't been expecting gratitude. She had been expecting an argument about whether she'd meant it.
+
+When he drew back, she caught his coat and kept him near.
+
+"I didn't say it wouldn't be difficult."
+
+"I know."
+
+"And I'm allowed to complain."
+
+"I'm counting on it."
+
+"And you are not allowed to turn your six weeks away into some noble sacrifice you're making for me."
+
+He laughed softly. "Noted."
+
+She kissed him again. The wind was cold. Her hands were cold. The warmth of him was immediate and familiar, and she was almost painfully conscious of how much she'd missed it the last time he went away. That didn't make her want to hold him back.
+
+At the fork they turned toward his cabin rather than the pavilion. They were both smiling a little too much to pretend the afternoon was ordinary now.
+
+Inside, he set the letter on the workbench, weighted beneath the small leather case. Thalia took off her coat. He came over to help, and she turned before he could finish hanging it, caught his shirtfront in one hand and pulled him close.
+
+"You're going to be insufferable tonight," she said.
+
+"I've been told."
+
+"You'll keep saying that they chose you."
+
+"They did."
+
+"And I'll keep having to congratulate you."
+
+"A terrible burden."
+
+She laughed, kissed him and felt the excitement of the news settle into something distinctly physical. He was looking at her in the way he did when the rest of the room stopped mattering. She knew that look by now and had never grown tired of it.
+
+She drew him nearer. He met her immediately. Their smiles disappeared into another kiss, and she felt him lean toward her as if the same thought had reached them both at once: this was a good day, and they wanted to spend part of it alone.
+
+The letter remained on the workbench. The stove was lit. The door was closed against the wind.
+
+They let the evening become private.
+
+***
+
+Later, Rhys was trying to explain the travel schedule for a second time.
+
+Thalia lay beside him beneath the quilt, listening with one eye closed and a hand resting against his arm. She understood the schedule. She had understood it at the lake. She just liked the sound of his voice when he was excited and forgot he was repeating himself.
+
+"You're not listening," he said.
+
+"I am."
+
+"What did I say?"
+
+"That the second town has a rehearsal hall with terrible acoustics, the third has a piano you're apparently afraid to touch, and the opening performance is on a Friday."
+
+He considered. "You were listening."
+
+"I'm occasionally capable of it."
+
+He laughed and kissed her forehead.
+
+She opened her eyes.
+
+"Rhys?"
+
+"Hm?"
+
+"Did you think I would tell you not to go?"
+
+He went still. "A little."
+
+"That's insulting."
+
+"I know."
+
+She thought about protesting further. Then she remembered her own panic when she heard the rumor in January and the way she'd arrived at his cabin ready to take offense before she'd asked what was true.
+
+"Maybe not entirely insulting," she admitted.
+
+He turned toward her. "I didn't want you to feel I'd already made the decision without you."
+
+"You can make decisions about your career without asking my permission."
+
+"I know."
+
+"But I'd rather hear about them from you than from the range."
+
+He nodded. "Agreed."
+
+She rested her head on his shoulder. The conversation was less thrilling than kissing him had been. It mattered just as much. They were learning to share news without treating it as a test of loyalty, to let a future exist beyond their cabin without making the cabin meaningless.
+
+At last she raised her head and kissed him once more.
+
+"Congratulations," she murmured.
+
+He smiled against her mouth. "Thank you."
+
+This time she let the words be enough.
+
+---
