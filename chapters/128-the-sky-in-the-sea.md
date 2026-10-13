@@ -446,6 +446,105 @@ He opened the door. Beyond, the dome glowed pale and sunlit, a bowl of light bui
 
 ---
 
+Thalia did not immediately enter the observatory. Beyond the threshold, Annabeth was kneeling beside a brass floor plate, studying the dome's false horizon as though she could take it apart by looking hard enough. Her pencil moved across the paper. Above her, the imitation sky brightened in response to a hidden mechanism.
+
+A technician stood beside the door, adjusting three copper rods on an open rack.
+
+"What are those?" Thalia asked.
+
+"Grounding conductors," he said. "The dome carries light, not weather. We use them to discharge stray energy from the projection machinery into the stone below. The current beyond the wall carries no charge."
+
+She examined the rods. "What happens if lightning enters the room?"
+
+The technician stopped working. "Real lightning?"
+
+"Yes."
+
+"We isolate the dome and evacuate. This room isn't designed to hold a sky storm."
+
+Thalia was relieved. Some palaces treated every problem as an opportunity to impress visitors. Here, somebody had been willing to say there were things the architecture couldn't handle.
+
+"Good. My sister is learning how to carry a charge. I don't want anyone mistaking a lesson for a demonstration."
+
+Annabeth looked up. "I'm not demonstrating anything."
+
+"I know. I'm making sure the adults know too."
+
+She saw Annabeth's expression tighten. Thalia had made it sound like her sister needed supervision, and Annabeth was unlikely to forgive that merely because the intent was good.
+
+"I'm sorry," Thalia said. "I should have asked whether you wanted me to explain."
+
+"I want you to tell people the limits," Annabeth replied. "Not tell them I'm irresponsible."
+
+"Then we'll tell them together."
+
+The technician showed them the switch that isolated the projection machinery. Annabeth asked him to explain the path electricity would take in the event of a fault. His answer was methodical. The copper rods carried a controlled discharge to a protected chamber, but the sea surrounding the observatory made any uncontrolled electrical experiment dangerous. A spark released into the open water could reach people far beyond the room.
+
+"I thought the whole structure was magic," Annabeth said.
+
+"Much of it is," he answered. "Magic still has to go somewhere when it fails."
+
+She wrote that down and drew the conductors. Thalia liked the sentence too, though she would never have admitted it in front of Annabeth.
+
+A chime sounded from the corridor. The technician paused. A household attendant had arrived with a folded note bearing Zeus's seal.
+
+Thalia saw it and felt the small, familiar tightening in her stomach.
+
+"His Majesty requests that both daughters attend him at the upper chamber before the evening meal," the attendant said.
+
+"When did he decide that?" Thalia asked.
+
+"This morning."
+
+"He didn't mention it to us."
+
+"I was instructed to deliver the message here."
+
+Annabeth stood. "We have plans."
+
+"The king expects you."
+
+Thalia could hear the warning in those words. Their father often arrived in a new shape and demanded that everyone behave as if his presence were both a gift and a command. He could be warm for an hour and furious when someone set a boundary. A message to his daughters was never merely a message.
+
+"Tell him we received it," Thalia said. "We haven't agreed."
+
+The attendant looked alarmed. "My lady, he may be displeased."
+
+"He may," Thalia said. "We're not going to rearrange our day before we talk about it."
+
+Annabeth came to stand beside her. "I want to finish this visit. If he asks again, tell him to give us a time and a reason, not an order through a stranger."
+
+The attendant hesitated, then bowed and withdrew. Thalia knew the answer might bring trouble later. She also knew agreeing quickly didn't always prevent trouble. Sometimes it just let their father's mood decide the rest of the day.
+
+"Do you want to see him?" she asked Annabeth.
+
+"I don't know. I want to know why he wants us."
+
+"Then let's find out without walking into his room first."
+
+They sent a short written reply through the steward. It said the sisters were with their hosts and requested an explanation of the meeting. Thalia signed it first, then gave the pencil to Annabeth to sign for herself.
+
+In the minutes that followed, they returned to the observatory. Annabeth demonstrated how the false sky changed with a simple dial, nothing electrical, while Thalia watched her work. The technician showed them how the room could be made dark without frightening guests who needed a clear exit. He said the sea outside would remain the sea regardless of what the dome projected overhead.
+
+Thalia liked that. It meant an imitation sky didn't have to pretend to be the real one to be worth looking at.
+
+The reply from Zeus arrived late. There was no explanation. The note merely said *another time*. Thalia folded it and put it in her pocket. Annabeth looked at it, disappointed and not particularly surprised.
+
+"He'll be angry tomorrow," Annabeth said.
+
+"Maybe. Maybe he'll forget he asked."
+
+"Neither makes me feel better."
+
+"I know."
+
+Thalia put her arm around her sister's shoulders, waiting until Annabeth leaned into it. She didn't promise their father would change. She promised only that they would decide together whether to answer the next summons.
+
+When they finally left the observatory, Annabeth carried two pages of measurements and one question for the technician to answer by letter. The dome stayed lit behind them, its false clouds moving across the ceiling. Thalia had spent enough of her life watching the real sky for warning signs. For a few minutes she'd been able to appreciate one that could be turned off when it wasn't safe.
+
+
+---
+
 Outside the observatory Poseidon waited beside a shallow fountain, water chuckling over shells. Down the corridor Percy and Silena argued over a shell ornament; Clarisse kept changing sides, enjoying herself.
 
 The sight slowed Thalia. She'd braced for court, but the family scattered in little knots, sandals slapping wet floor. Percy waved her over. She lifted a hand but held her ground. Poseidon turned, robe stirring.
