@@ -6604,3 +6604,195 @@ She stayed the night. In the morning she took the revised plan to Chiron, who ap
 It was not a victory over Rhys. She found she liked that better.
 
 ---
+
+## February 4: The Audition
+
+Rhys left for the audition on a Sunday morning with his guitar case, a clean shirt and a small notebook Thalia had given him because his previous one was full.
+
+She went to the road gate with him. This time she did not spend the morning pretending she wasn't worried. He wasn't leaving to repair a family home or settle an emergency. He was going because he wanted to see whether his music could carry him somewhere new. It was his choice, and she liked him for making it, even when she disliked the part that took him away from her for a few days.
+
+"You're going to be late," she said as he checked the guitar case.
+
+"I have twenty minutes."
+
+"Which you'll use explaining to me why you're not late."
+
+He closed the latches.
+
+"You brought the score?"
+
+"Yes."
+
+"The corrected version?"
+
+"Yes."
+
+"Not the one where the second line disappears?"
+
+"That one is safely at home."
+
+She nodded, satisfied.
+
+Rhys looked at her, amused. "Anything else?"
+
+"Don't let anybody rush you through the opening. And don't start too fast just because you're nervous."
+
+"Thalia."
+
+"What?"
+
+"You're doing it again."
+
+She looked at him. She had spent the last ten minutes making lists of instructions because she didn't want to say what mattered more: that she hoped they would hear the same talent she heard in him, and that she feared the answer would take him farther away.
+
+She took a breath.
+
+"I want you to do well," she said.
+
+"I know."
+
+"And if they offer you something, I want you to tell me before you decide."
+
+He nodded. "I will."
+
+She stepped close, caught his coat between her hands and kissed him. He met her eagerly, the familiar warmth of his response making the cold road feel distant. For a moment the guitar and the audition and the journey ahead of him fell away. She could be happy for him and want him to stay. Both feelings were permitted.
+
+When she drew back, she smiled.
+
+"Go impress somebody."
+
+"I'll try."
+
+"Don't try. Do it."
+
+He laughed, kissed her once more and went toward the waiting van.
+
+***
+
+The next two days passed more quickly than Thalia expected.
+
+She had her own program to prepare, a pilot session to supervise and a stack of equipment requests to review with Chiron. The work was engaging enough that she sometimes forgot to look toward the north path until supper. Then she would remember Rhys was away and feel a small ache, no longer sharp with panic but persistent.
+
+On Monday she ran the first advanced lesson.
+
+The students arrived expecting a difficult shooting course. Instead she gave them a map of the range, a bundle of rope and a list of safety constraints. They had forty minutes to design a usable exercise without placing anyone in the path of a stray arrow. No shooting would take place until their plan had been tested.
+
+The group argued immediately.
+
+Thalia watched them from the equipment bench. She had anticipated some of the objections and deliberately left the others for the students to discover. One boy wanted the targets farther away than the available space allowed. A girl pointed out that the sight lines would be poor. Another student tried to solve the problem by simply closing the second lane. The debate was loud and inelegant and exactly the kind of thinking Thalia had hoped to produce.
+
+When the forty minutes ended, the students had three competing proposals. None was perfect. Each had something worth discussing.
+
+Thalia was delighted.
+
+She wrote up the results after supper, noting which students had caught the risks and which had needed prompting. Then she found herself wanting to tell Rhys about the lesson, not because he had helped design it but because he would understand why she was pleased. She wrote him a short note and left it with the outgoing mail, knowing it probably wouldn't reach him before he returned.
+
+*The students argued for forty minutes and nobody was injured. I call that progress. One of them tried to solve a lane-spacing problem by removing the lane. You would have enjoyed the performance.*
+
+*I hope the audition goes well. If it doesn't, you're still required to come back and criticize my target placement.*
+
+She closed the letter with a small sketch of an arrow striking just off center.
+
+***
+
+Rhys returned Tuesday evening.
+
+Thalia saw him at the edge of the pavilion before he saw her. He looked tired, carrying the guitar case in one hand and a small paper bag in the other. He had traveled all day. There was dust on his coat and a thin crease across his forehead that told her he'd been thinking too hard.
+
+She went to him.
+
+He saw her, stopped and smiled.
+
+"Well?" she asked.
+
+"Hello to you too."
+
+She kissed him. It was meant to be a quick greeting and became something warmer when he caught her waist and drew her close. She had missed the simple pleasure of being able to reach for him, and she didn't bother hiding it.
+
+When they separated, she looked at him properly.
+
+"How was it?"
+
+He took a moment before answering.
+
+"They liked the piece."
+
+"Of course they did."
+
+"They want me to send a longer arrangement and come back for a second session in a few weeks."
+
+She felt the pleasure first, quick and genuine. Then the uncertainty followed.
+
+"That's good," she said.
+
+"It is."
+
+"And you haven't decided what you'll do."
+
+"No."
+
+He looked at her, waiting.
+
+Thalia thought about the program she'd built, the students she'd supervised and the sense of accomplishment that had filled her day. She knew what it felt like to be taken seriously for work she'd done herself. She wanted that for him.
+
+"Then you're going to write the arrangement," she said.
+
+"Am I?"
+
+She raised an eyebrow. "You're going to decide whether you want it enough to do the work. I'm not making the choice for you."
+
+He smiled. "That's better."
+
+She caught his hand.
+
+"Come home with me," she said, using the phrase before she had time to wonder whether it was too much.
+
+He looked surprised, then pleased.
+
+"To my cabin?"
+
+"Unless you've acquired a second home without telling me."
+
+He laughed and followed her north.
+
+The room was cold when they arrived, so they lit the stove and left the travel bag by the door. Thalia helped him put away the guitar, then stopped as he reached for the stack of music he'd brought back from the audition.
+
+"Leave it."
+
+"I was going to sort it."
+
+"Tomorrow."
+
+He considered. Then he set the papers down.
+
+She stepped closer and kissed him. There was no drama in it, no need to celebrate the audition as a victory before he knew the result. She wanted him near because she had missed him, and the warmth of his answering kiss told her he felt the same.
+
+He touched her cheek.
+
+"You had a good lesson," he said.
+
+She blinked. "How do you know?"
+
+"Chiron told me before I came up."
+
+"That man is a gossip."
+
+Rhys laughed. "He sounded impressed."
+
+"He should be."
+
+"I'm impressed too."
+
+She felt a quiet pleasure in the fact that they had returned with separate stories to tell. They could share the stories now, and they would remain their own.
+
+Later, after they had eaten and settled beneath the blanket, he asked her to describe the students' plans. She did so with more detail than either of them had intended. When she finished, he described the audition room, the musician who had asked him to change the tempo and the moment he realized he'd been playing too quickly because he was nervous.
+
+They laughed at the parts that had gone wrong.
+
+Then they stopped talking.
+
+Thalia leaned toward him, and the intimacy of being together again felt natural rather than ceremonial. She kissed him slowly, content to let the evening become private after a day spent in the company of other people's expectations. He drew her close. For a while neither had anything more important to say.
+
+Their work was unfinished. They were pleased with it anyway.
+
+---
