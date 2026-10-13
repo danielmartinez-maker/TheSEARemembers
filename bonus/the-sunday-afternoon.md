@@ -13604,3 +13604,331 @@ She wanted.
 She took her coat and went.
 
 ---
+
+## Sunday, June 9: Another Sunday
+
+The day began without a schedule.
+
+Thalia woke just before sunrise, listened to the unfamiliar absence of rain and decided she was not going to the range. The decision startled her enough that she lay in bed for several minutes considering whether she had made it honestly or was merely tired.
+
+She was tired. That was true. The demonstration had gone well, the summer revisions were almost finished, and Eleni had become capable enough that Thalia could miss a session without leaving the students stranded. There was work waiting. There would always be work waiting.
+
+She wanted a day without it.
+
+Annabeth was already awake at the table, sketching a roof brace with the focused impatience Thalia recognized from her own reflection.
+
+"You're not dressed," her sister observed.
+
+"I'm staying in bed."
+
+Annabeth looked over. "Are you sick?"
+
+"No."
+
+"Is your heel bothering you?"
+
+"No."
+
+"Then this is historical."
+
+"Don't make a record of it."
+
+Annabeth smiled and went back to the drawing.
+
+Thalia sat up, reached for the book beside her bed and found the new photograph tucked inside. She took it out. In it she stood beside Rhys against the market wall, smiling without thinking. The image was clearer than the old orchard picture, which had caught them both in motion. She liked it. She also found herself wondering whether the clarity made it less useful as a memory.
+
+The photograph told her how they looked. It didn't tell her what they'd been arguing about before the camera appeared, or how warm the stones had been beneath the summer sun, or that the photographer had asked them three times to stand closer even though they were already holding on to each other.
+
+The old picture was blurred, but it held all those details.
+
+She put the new photograph back inside the book and went to wash.
+
+At breakfast Clarisse found her sitting with a second cup of tea instead of rushing toward the equipment sheds.
+
+"You're late."
+
+"For what?"
+
+Clarisse stopped.
+
+"That's a very suspicious question."
+
+Thalia smiled. "I'm taking the day."
+
+"Do the instructors know?"
+
+"Eleni does."
+
+"Chiron?"
+
+"Yes."
+
+Clarisse considered. "Then good."
+
+Thalia looked up. She had expected a joke about shirking responsibility or some comment about how she had become soft from spending evenings with Rhys. Clarisse merely sat beside her and began eating.
+
+After a while she said, "You don't have to explain a day off to everyone who notices."
+
+Thalia stared at her.
+
+"That's an unpleasant amount of wisdom to bring to breakfast."
+
+"I save it for special occasions."
+
+They ate together. The conversation moved to the hall's summer schedule, the younger campers who wanted to stay in the lake until midnight and the fact that someone had left a wooden practice sword in the bread storage room. Clarisse wanted the culprit found. Thalia suspected Percy. Neither had evidence.
+
+The morning passed without urgency.
+
+Thalia helped Annabeth carry a stack of drawings to the workshop, then stopped before turning the delivery into another inspection. Her sister had everything she needed. Thalia wished her good luck and went down to the water.
+
+She had decided to spend the afternoon with Rhys, but she had not told him exactly when. She could have gone directly to the north cabin. Instead she sat beside the lake for a while, watching small waves break against the reeds and trying to think of nothing useful.
+
+It was more difficult than it sounded.
+
+Eventually she stopped trying.
+
+***
+
+Rhys found her just after noon.
+
+He had been looking for her, apparently. He came down the path with a paper bag in one hand and the old guitar case in the other, wearing a faded blue shirt she recognized from the beginning of winter.
+
+"You aren't at the range."
+
+"An extraordinary mystery."
+
+"Eleni said you took the day."
+
+"She was authorized to reveal that information."
+
+He smiled and put the guitar case on the grass.
+
+"I brought food."
+
+"You've developed a habit."
+
+"A dangerous one."
+
+He sat beside her on the low wall. For a while they ate bread and cheese, watching the water. The lake was brighter than it had been in November, the surface moving gently beneath a warm breeze. Beyond it, a few campers were trying to launch a small boat while a more experienced instructor told them they had tied the rope incorrectly.
+
+Thalia could hear the argument but not the words.
+
+"That's going to end badly," she said.
+
+Rhys looked over.
+
+"Probably."
+
+"Someone should help them."
+
+"Someone is."
+
+She watched the instructor take the rope, show the correct knot and hand it back. The campers tried again. The boat moved away from the shore without further drama.
+
+Thalia smiled.
+
+"You're enjoying this," Rhys said.
+
+"What?"
+
+"Watching somebody else solve a problem."
+
+She considered. "More than I expected."
+
+He laughed, and she rested her shoulder against his.
+
+He was warm from the walk. She could feel the steady movement of his breathing, and the pleasure of having him beside her remained surprisingly immediate. They had spent months being together, then apart, then together again. Sometimes she still looked at him and felt the same jolt she remembered from the first time she'd arrived at his cabin and found him waiting.
+
+She no longer treated the feeling as evidence that something had gone wrong with her judgment.
+
+Rhys took out the guitar.
+
+"New piece?" she asked.
+
+"Not entirely. I want to play the old one."
+
+"The one from winter?"
+
+"Yes."
+
+She looked at him.
+
+"You've been playing it for months."
+
+"I know."
+
+"Then why today?"
+
+He considered. "Because the last time I played it here, you were still trying to decide whether coming to my cabin in daylight was an unacceptable risk."
+
+She laughed, startled.
+
+"I was not."
+
+"You were."
+
+"I was deciding whether you were worth the effort."
+
+"An important distinction."
+
+He set his fingers on the strings and began.
+
+The melody was familiar enough that Thalia could hear the places where his playing had changed. He no longer pushed through the difficult measure. The high notes were steady. The pauses were not empty; they gave the other phrases room to make sense. He played without looking at the score, taking his time with the final line as though he knew exactly where it belonged.
+
+She listened until the last note faded over the water.
+
+Then she said, "You got the transition right."
+
+He grinned.
+
+"After only eight months."
+
+"An appalling record."
+
+"I've had a difficult instructor."
+
+"Very demanding."
+
+"Entirely unreasonable."
+
+She leaned over and kissed him.
+
+He smiled against her mouth. The kiss was warm and unhurried, with the familiar confidence of two people who knew how to reach for each other without treating every movement as a question. She kept one hand against his cheek while he set the guitar safely aside.
+
+The afternoon was theirs. There was no work waiting at the north cabin that needed to be completed before supper, no letter to post and no approaching departure date to count backward from. They were simply two adults choosing to sit together by the water.
+
+Thalia drew back.
+
+"I want to go somewhere."
+
+"Where?"
+
+She pointed toward the small path around the south side of the lake.
+
+"There's a place beyond the reeds. Flat stones, not much traffic. I used to go there when the camp was too loud."
+
+Rhys looked over.
+
+"You've never shown me."
+
+"I know."
+
+He smiled. "Then I'd like to see it."
+
+She stood, took his hand and led him around the shore.
+
+The path was narrow, overgrown in places and soft beneath the trees. Thalia knew where it turned, which stones were loose and which roots would catch a careless boot. She walked ahead until the final bend, then stopped and let Rhys come beside her.
+
+The place was exactly as she remembered: a small outcrop of smooth stone above the water, shaded by two leaning willows. From there the camp buildings were hidden, though they could still hear distant voices if the wind was right.
+
+Rhys looked around.
+
+"It's quiet."
+
+"That's the point."
+
+He set down the basket. They sat on the stone, close enough that Thalia could rest against him without shifting. She had brought nobody here for years. There had always been a reason to preserve the place for herself, to keep one corner of the camp where nobody came looking for a decision or an explanation.
+
+Now she wanted to share it.
+
+She looked at Rhys.
+
+"Don't tell everyone about it."
+
+"I won't."
+
+"I'm serious."
+
+"I know."
+
+He didn't ask for the history of the place. He didn't say that sharing it meant she trusted him or that she must be ready for some greater commitment. He simply sat beside her and looked at the lake, letting the quiet remain quiet.
+
+Thalia leaned closer and kissed his cheek.
+
+He turned toward her, smiling, and kissed her back. The warmth of the day made the touch feel different from their winter evenings, when they had spent so much time escaping the cold. Here there was sunlight through the leaves, the soft sound of water beneath the stone and the pleasure of being close without needing a stove or blanket to make it possible.
+
+She caught his shirt and drew him nearer. He followed eagerly, careful of the uneven rock, and they laughed when he lost his balance and had to brace one hand against the stone.
+
+"Still terrible at this," she said.
+
+"At sitting?"
+
+"At avoiding unnecessary danger."
+
+"I'm beginning to think you enjoy it."
+
+She kissed him again before he could defend himself.
+
+For a while they stayed close, trading affection and occasional remarks that didn't amount to much. It pleased her that the moment did not need to be made extraordinary. They had shared enough difficult decisions that enjoying an ordinary afternoon felt like something they had earned.
+
+When the sun shifted, they went back toward camp.
+
+***
+
+At the north cabin Rhys put the guitar away and found the new photograph on the table.
+
+Thalia had brought it from Cabin One in her book. She wanted him to have a copy. He examined the picture, smiled and set it beside the original from the orchard.
+
+The two images were different. In the first they looked surprised by their own happiness. In the second they looked comfortable enough to admit it.
+
+Thalia studied them side by side.
+
+"Which do you like better?" she asked.
+
+Rhys considered. "Both."
+
+"Unhelpful."
+
+"I like remembering the first day. I also like knowing we've had all the days since."
+
+She looked at him. The answer was better than a ranking.
+
+He set the photographs inside the wooden box where he kept his music. Then he came to stand beside her.
+
+"What do you want to do tonight?" he asked.
+
+She thought about the question. There were a dozen possible answers. They could walk back to the pavilion for supper, play cards with the older instructors, work on their separate projects or stay in the cabin and close the door. She liked that all the options were available without being obligations.
+
+"Let's eat," she said. "Then see."
+
+Rhys smiled.
+
+They made supper together, arguing about the correct amount of pepper and whether the bread should be warmed or eaten cold. Thalia won the argument about pepper and lost the one about bread. Neither victory mattered.
+
+Afterward she sat beside him on the cot while he told her about a letter from Mara, who wanted him to send the new piece when it was finished. He said he would. Thalia told him Eleni was ready to take the summer program's first independent group and that she was considering a more advanced course for the oldest students.
+
+They listened to each other.
+
+Then the conversation ran out, and Thalia found herself looking at him with the familiar anticipation that had brought her to this cabin in the first place.
+
+She reached for his hand.
+
+He turned toward her, already smiling, and she kissed him.
+
+The evening became private without needing another plan.
+
+***
+
+Much later, when the room was quiet, Thalia lay awake listening to the wind move the leaves outside the open window.
+
+Rhys was asleep beside her. The lamp had been turned low, and a strip of moonlight lay across the folding desk. Her summer notes were stacked there beside his unfinished music, both waiting for the morning.
+
+She thought of the first Sunday in November, when she had climbed this same path determined to prove she could come in daylight without embarrassment. She'd been eighteen then. She was still eighteen now. She had not become a different person because she had fallen in love.
+
+She was still stubborn. She still wanted to win arguments. She still cared too much about the people she was responsible for and had to work at allowing them to make their own decisions. There were days she was impatient and nights when she became frightened of wanting someone she couldn't control.
+
+The difference was that she knew those feelings no longer had to make every choice for her.
+
+Rhys would make music. Sometimes that would take him away. She would teach. Sometimes that would keep her here. They had learned how to write letters, how to tell the truth when the truth was awkward, and how to come back to each other without requiring the rest of their lives to stop.
+
+Tomorrow there would be students at the range, music to finish and probably another repair somebody wanted her to inspect. None of it had disappeared.
+
+Tonight she could sleep.
+
+She turned toward Rhys and rested a hand against his shoulder. He stirred, caught her fingers in his and settled again without fully waking.
+
+Thalia smiled into the dark.
+
+She did not need to count the hours until morning.
+
+---
