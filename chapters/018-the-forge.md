@@ -819,3 +819,7 @@ When the inspection ended, Beckendorf returned the completed or approved pieces 
 Percy handed Annabeth the owl in its padded box. Clarisse carried her measurement notes instead of a spear. Silena had a clasp to refine and a journal she intended to take somewhere beyond camp.
 
 They went to lunch arguing about whose project would be finished first. Beckendorf watched them from the workshop door, satisfied that they had learned the most important rule of the forge: wanting something made was only the beginning of making it well.
+
+Later, Percy found a copy of the safety checklist on his bed. Clarisse had brought it from the forge and marked the steps he was most likely to skip when excited. He wanted to protest that he had followed every instruction, then remembered the moment he'd asked whether water could be used to cool the metal before learning what alloy they were working with.
+
+He folded the list into his notebook. Next time he visited the forge, he would ask what the material needed before offering to help. Annabeth would probably have three new ideas by then, and Clarisse would still want to make a sharper weapon. He looked forward to both possibilities.
