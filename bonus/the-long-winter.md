@@ -3229,3 +3229,169 @@ They went for a short walk before supper, taking the flat path to spare her heel
 She watched him walk away and realized that she had enjoyed hearing about something that did not involve her. It shouldn't have been a revelation. Still, she thought it worth remembering.
 
 ---
+
+Monday evening, Rhys cooked for her.
+
+The invitation came in the form of a note folded around a piece of string. He had left it inside the spare quiver she was borrowing, where she found it after the day's instruction ended. His handwriting leaned at an angle, a habit she recognized from the slate by his door.
+
+*Seven, if you want. No arrows. No audiences. And before you ask, I have learned how not to destroy a pot of stew.*
+
+She read it twice, then folded it small enough to hide in her palm. It was a ridiculous thing to find herself charmed by, and she objected to the feeling on principle. Then she went back to Cabin One, changed her shirt, and arrived at seven with the note in her pocket.
+
+The cabin smelled different. Not of the usual wax and old wood, but of onions, bread, and the faint spicy scent of something simmering slowly near the stove. Rhys had pushed the workbench against the wall, cleared the table, and set out two bowls. No flowers, no grand gesture. Just a room made ready for two people.
+
+"You did all this?" she asked.
+
+"I moved a table."
+
+"And cooked."
+
+"That's still under investigation."
+
+She examined the bowls. "If it's terrible, I'm telling everyone."
+
+"I'd expect nothing less."
+
+He pulled out the chair for her, then seemed to remember she disliked unnecessary ceremony. He stopped halfway and looked embarrassed. She sat down anyway.
+
+"You can be polite without making it a performance," she told him.
+
+"I'm learning."
+
+"Slowly."
+
+He served the meal. It was better than she expected, which she found mildly infuriating. The stew had actual vegetables and a good broth; the bread was warm; he'd even remembered that she disliked an excess of pepper.
+
+"This is good," she said.
+
+He stared at her. "Say that again."
+
+"Don't press your luck."
+
+"I need witnesses."
+
+"Nobody would believe you."
+
+He laughed, and they ate together. The room had the intimate oddness of a place transformed by a single deliberate effort. A workbench that usually held a half-strung bow was now bare; the table usually covered with scraps of cord had been cleared so that they could look at each other without moving anything out of the way. She kept noticing the care involved, and the noticing unsettled her more than a dozen compliments would have.
+
+"Was this supposed to be romantic?" she asked.
+
+Rhys put down his spoon. "I was hoping it might be."
+
+"You're not going to call it a date?"
+
+"Would you object?"
+
+"Probably."
+
+"Then I'm not going to ruin a perfectly good evening by giving it a title."
+
+She considered. He had a talent for refusing to make her choices for her, sometimes to the point of irritation. But here he had planned something because he wanted her to enjoy it, not because he expected a particular response. That mattered.
+
+"It feels like a date," she said.
+
+He smiled. "Then it can be one."
+
+She took another bite to conceal how pleased she was.
+
+After dinner he cleared the table while she sat on the cot pretending to inspect his guitar. She wanted to help; she also wanted to let him do the work he'd invited her to watch. It was surprisingly difficult to sit still when there was a task someone else could use her for. At last she took the guitar into her lap and played the first four notes of the tune he'd been struggling with on Friday.
+
+Rhys turned from the sink. "That's not right."
+
+"I know."
+
+"You missed the second chord."
+
+"Then come show me."
+
+He wiped his hands and sat beside her. She made him demonstrate the transition twice, deliberately getting it wrong the first time just to see whether he would be patient. He was. On the third attempt she played it correctly and felt an absurd little thrill when he smiled.
+
+"Perfect," he said.
+
+"Careful. I'll think you like me."
+
+"I've been making that fairly obvious."
+
+"Have you?"
+
+"Tragically."
+
+She set the guitar aside and turned to him. It felt different after dinner, perhaps because they had made a small evening together rather than stumbled into one. The anticipation had lasted since she found his note. Now she was here, and she wanted the simplest part of the evening: his hands and his mouth, the way he looked at her when she stopped talking long enough to let him see what she meant.
+
+"Come here," she said.
+
+He did, and she kissed him.
+
+There were no jokes for a while. She drew him close, one hand at his collar and the other resting against his chest, feeling the quick beat of his heart. He kissed her with an eagerness that made her smile, then slowed when she shifted to get comfortable. The heel no longer hurt much, but it reminded her of itself if she moved carelessly. She arranged the cushion under her leg and pulled him back toward her.
+
+"Better?" he asked.
+
+"Much."
+
+"Good."
+
+She kissed him again, partly because she wanted to and partly because it had begun to please her to see how readily he responded. His hand moved to the back of her neck, holding her close without trapping her there. She leaned into the touch and let the room fall quiet around them.
+
+Later they sat beneath the blanket with the lamp turned low. She had expected the evening to be easy, and in some ways it was. But she was becoming aware of a question that had been gathering since their first night together, one she had avoided because the answer might change how she understood her own desires.
+
+"Does it bother you when I leave?" she asked.
+
+He considered. "Sometimes I wish you'd stay."
+
+"That's not quite the same thing."
+
+"No. It doesn't bother me that you have somewhere else to be."
+
+She looked at the folded note on the table. "I like staying. I also like waking up in my own cabin."
+
+"Then do both."
+
+"You make everything sound simple."
+
+"Only the parts that actually are."
+
+She rested her head against his shoulder. "I don't want you thinking that because I spend the night here once, I owe you another."
+
+"I don't."
+
+"Or that because I want to be close now, I'll want exactly the same thing tomorrow."
+
+He was quiet for a moment. Then he said, "I want to know you. That includes days when you're tired or angry or not in the mood to be kissed. I don't want a version of you who exists only when we're alone."
+
+She stared at the lamp. The answer landed more deeply than she expected. She had been measuring herself against an imagined standard of how an adult relationship ought to work, then resenting the standard for existing. Rhys had never imposed it.
+
+"I can be unbearable," she warned him.
+
+"I've noticed."
+
+"You aren't taking this seriously."
+
+"I am. I'm also not going to pretend I haven't already seen you at your worst."
+
+"You haven't."
+
+"Then we'll deal with it when I do."
+
+The phrase was ordinary, but it contained no guarantee that every difficulty would be forgiven. He was offering to meet her as she was, with his own right to be upset, and to see what happened next. She liked that better than a promise of perfection.
+
+She kissed his cheek. He turned toward her, and the next kiss was slower, less urgent, full of the strange comfort of being close without having to negotiate an entire future first.
+
+At nine she stood and found her boots. Rhys helped gather her scarf, then walked her to the door. Outside, the frost had returned to the path, and the lanterns showed a long curve of light down the hill.
+
+"Good dinner," she said.
+
+"That's an official verdict?"
+
+"Don't get greedy."
+
+"Can I cook for you again?"
+
+She thought about the warm bread, the cleared table, the note hidden in her pocket, and the way he'd watched her discover the meal.
+
+"Yes," she said. "But next time I'm bringing something."
+
+He nodded. "Deal."
+
+She kissed him on the porch. It was a quick kiss, and she could have made it longer, but she liked leaving with the evening intact. There would be other nights. That was a hope, not a promise, and it seemed sturdy enough.
+
+---
