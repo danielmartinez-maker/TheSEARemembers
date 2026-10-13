@@ -1063,6 +1063,30 @@ Percy glanced at Annabeth. It was her design, and the Demeter counselor had led 
 
 The girl nodded. Grover offered to carry it back. Percy watched them go, pleased that the story had ended with the object staying where it would be useful rather than disappearing onto his own shelf.
 
+Before he left, Percy went to the Big House with the wet marker and asked where the garden book was kept.
+
+The counselor on duty took him to a shelf beside the repair records. The book was a plain bound ledger, its pages filled with watering schedules, planting dates and entries about the parts of camp that needed maintenance. Some handwriting belonged to children who had long since left; other notes were no more than a week old.
+
+"Can I add something?" Percy asked.
+
+"Did you help with the work?"
+
+"Yes. Grover, Annabeth and the Demeter counselor were there too. So were three younger campers. They did the painting."
+
+"Then list them."
+
+Percy found a blank line beneath the revised watering plan. He wrote the date and the names he knew, then left room for Grover to add the others rather than guessing their spelling. He described the problem: stakes sinking in wet ground, labels becoming unreadable, new bases installed and scheduled for inspection after the next rain.
+
+The counselor took a look. "That is enough for somebody to know what happened without asking you to explain it."
+
+"Good. I'd rather not be the only person who remembers where we put the marigolds."
+
+"That is why we keep records."
+
+Percy left the warped marker beside the ledger with a small tag identifying it as the failed design. He had brought home royal gifts, but the little marker made him equally pleased. It had a purpose. Someone looking at it would understand what needed changing.
+
+When Grover returned, Percy showed him the entry. Grover corrected the spelling of the youngest camper's name and added that the plants had not been moved, only their signs. Percy thanked him. A record was better when the people who had been there could improve it.
+
 He turned toward the path home. Clarisse and Silena were waiting near the pavilion, ready to argue about whose turn it was to take the kitchen linens back to Cabin Three. Annabeth and Thalia were walking ahead, discussing whether the new plant markers would survive a hard rain.
 
 Percy followed at his own pace. He'd returned from the sea with a copied drawing of his childhood training stage, a bag of gifts and a dozen possible stories about Atlantis. The first job he'd done at camp was holding a wooden sign while a child painted a word correctly. He liked that the camp had given him something ordinary to do without asking whether a prince ought to be doing it.
