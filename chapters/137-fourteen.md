@@ -923,6 +923,8 @@ When he sat beside Annabeth, she wrote one more line in her notebook, angling th
 
 He let her keep the sentence. He had known her long enough to understand that some memories felt truer when you allowed the other person to carry a piece of them privately. Her shoulder rested against his while the campfire burned down, and he was fourteen without having to prove anything else before bed.
 
+When the last song ended, Percy carried the empty plates to the washing station. Annabeth took the cups. They didn't race, and they didn't make a game out of being helpful. Once the work was done, they walked to the fork between Cabin One and Cabin Three. She kissed his cheek, reminded him to sleep, and went home to her sister.
+
 ---
 
 ---
