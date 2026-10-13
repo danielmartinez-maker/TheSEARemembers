@@ -2940,3 +2940,137 @@ Later, when the lamp was low and the cider had gone cold, she found the slips of
 He smiled. She kissed his cheek, then settled beside him again. The night was still young, and for once she had no interest in counting the hours left before morning.
 
 ---
+
+On Wednesday, Thalia agreed to eat dinner with Rhys and two of the older Apollo instructors.
+
+It was his idea, and she distrusted it at once.
+
+"Why?" she asked when he invited her.
+
+"Because I like having you around, and they asked whether I wanted to bring someone."
+
+"Bring someone to what?"
+
+"Dinner. We take turns cooking on Wednesday evenings. Nothing elaborate."
+
+"That sounds like a trap."
+
+He laughed. "It's stew and bread, not a tribunal."
+
+"Those aren't mutually exclusive."
+
+The meal was in a small common room at the north end of the camp, a place used by the older instructors when they wanted to eat after the pavilion had closed. The stove worked reasonably well. The chairs were mismatched. Someone had made bread that was slightly burned on the bottom but perfectly good if one ignored the evidence.
+
+Thalia sat beside Rhys and tried not to behave as though she were being examined. The other instructors were friendly, though one of them had the dangerous conversational habit of asking direct questions while holding eye contact.
+
+"So," the woman said halfway through dinner, "are you two together?"
+
+Rhys glanced at Thalia.
+
+It was such a small action that the woman might not have noticed. Thalia did. He wasn't asking permission to acknowledge her existence. He was checking whether she wanted to answer for herself.
+
+"Yes," Thalia said.
+
+The word landed neatly in the middle of the table. No one gasped. No one launched into a lecture. The woman smiled, said that she had suspected as much, and asked whether Thalia wanted another piece of bread.
+
+"Yes," Thalia said again.
+
+Rhys was trying not to grin. She kicked his boot lightly under the table.
+
+"Don't," she murmured.
+
+"I haven't done anything."
+
+"You've got the face."
+
+He looked down at his plate. It was a poor attempt at concealment.
+
+The conversation moved on to a damaged set of winter shutters and a concert the Apollo cabin wanted to organize when the weather was too cold for outdoor gatherings. Thalia found that she was able to take part without the relationship becoming the only interesting fact about her. The woman who'd asked the question wanted to know whether Thalia would help judge the archery demonstration before the concert. Thalia said she would consider it if the targets were placed properly. Everyone at the table laughed, including Rhys, who had endured several weeks of commentary on the subject.
+
+By the time they left, the cold had sharpened. The stars were clear above the ridge, and the path back to the cabin ran through a narrow stretch of pines where the wind dropped away.
+
+Rhys took her hand.
+
+"You were good in there," he said.
+
+She stopped. "Good?"
+
+"I meant comfortable."
+
+"That isn't what you said."
+
+He turned toward her, his expression rueful. "I said the wrong thing."
+
+"You did."
+
+"All right. You seemed comfortable."
+
+She considered. "I was."
+
+"Good."
+
+"You're doing it again."
+
+He laughed and pulled her gently closer. "I liked having you there."
+
+That was better. She rested her hands against the front of his coat and looked up at him.
+
+"I liked being there," she admitted. "Even if your friends are nosy."
+
+"They're efficient."
+
+"They're terrifying."
+
+"Only when the bread burns."
+
+She smiled and kissed him. The kiss was unhurried, but it carried the lingering pleasure of having walked into a room together and left together without having to hide either fact.
+
+As they continued up the path, Thalia thought about the moment at dinner. She had expected public acknowledgment to feel like surrendering something private. Instead it had felt like telling the truth about a fact that already existed. The rest of their relationship remained theirs to define. Nobody at the table had demanded an account of the nights in his cabin or the letters they might write when he was gone.
+
+It was possible, apparently, to be known without being exposed.
+
+At the cabin Rhys put the kettle on while she took off her coat. The room was familiar now, enough that she could find the spare blanket without looking and knew which floorboard creaked near the cot. She settled there and waited for him.
+
+He came over with two mugs.
+
+"Tea?"
+
+"You're very predictable."
+
+"I've worked hard at it."
+
+She took a sip and put the mug aside. She was still thinking about the way he'd looked at her when the instructor asked their question.
+
+"Thank you," she said.
+
+He blinked. "For what?"
+
+"Letting me answer."
+
+He sat beside her. "I thought it was your question to answer."
+
+"It was."
+
+He nodded, as if that settled the matter.
+
+She turned toward him and kissed him, a slow kiss that made the room feel quiet around them. He rested his hand at her waist, and she drew nearer until their shoulders touched. There was desire in it, but also a familiarity that had grown from being seen together in daylight and choosing each other in private afterward.
+
+When they drew apart, she was smiling.
+
+"What?" he asked.
+
+"Nothing."
+
+"That's a dangerous nothing."
+
+She caught the collar of his shirt and pulled him closer again.
+
+"Then perhaps you'd better stop asking."
+
+He laughed into the next kiss. They spent the rest of the evening in each other's company, talking, touching, sometimes falling quiet and letting the silence be comfortable. The public part of their relationship had expanded by a single honest word. The private part remained as intimate as ever.
+
+Before she went to bed, she slipped the photograph of them from the orchard into the back of her book. She looked at the blurred faces and the crooked angle of his smile. Tomorrow, she decided, she would ask him to take another picture.
+
+This time she might even agree to look at the camera.
+
+---
