@@ -44,7 +44,7 @@ He offered her his hand. “Want to hold on when we start down?”
 
 “Good.”
 
-The water just beyond the shore darkened, not with shadow but with depth. A smooth current began to turn beneath the surface. It circled their ankles, cool and gentle, then climbed around their legs as if the sea were remembering how to welcome people. The tug answered the water in his blood. A path opened where there had been none, the lake’s surface lowering into a clear blue corridor that ran toward the open water.
+The water just beyond the shore darkened, not with shadow but with depth. A smooth current began to turn beneath the surface. It circled their ankles, cool and gentle, then climbed around their legs as if the sea were remembering how to welcome people. The tug answered the water in his blood. A path opened where there had been none, the Sound’s surface bending into a clear blue corridor that led out to deeper water.
 
 Chiron watched from the shore. “I will be here when you return.”
 
