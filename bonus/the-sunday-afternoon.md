@@ -3963,3 +3963,137 @@ She went inside, shook the snow from her coat and began looking for the guitar s
 
 The thought made her laugh. She sat down with the instrument, set her fingers carefully on the strings and began.
 ---
+
+## December 1: Things a Letter Cannot Do
+
+Rhys's second letter arrived with the first serious snow.
+
+The camp had spent the morning clearing the steps and sweeping the roofs of buildings too small to justify climbing onto. The snow packed into a dense, quiet layer beneath Thalia's boots, and the air had that peculiar stillness that made voices sound much nearer than they were. She'd spent two hours teaching a beginner's lesson indoors and was trying not to be irritated by the necessity. It was perfectly possible to teach archery without being outside. She disliked the compromise anyway.
+
+The courier found her at the hall.
+
+"Grace. Mail."
+
+Thalia looked up from the bow she was checking. The courier was holding an envelope between two fingers, its corner damp from snow. She handed it over and continued toward the next building without lingering to see whether Thalia would open it.
+
+Thalia turned the envelope over.
+
+The handwriting was unmistakable. He had written her name a little too large for the available space, and the last letter nearly ran into the stamp. There was a faint smudge along one edge, probably made by the heel of his hand. She could remember that hand moving across a page in the cabin, pausing when he ran out of room and beginning another line beneath it.
+
+She put the envelope inside her coat and finished the lesson.
+
+It took an astonishing amount of discipline.
+
+At supper she carried the letter to a quiet end of the pavilion, then decided she didn't want to read it in public. She took her food to Cabin One instead. Annabeth was sitting at the table, working through a set of measurements with a ruler and a stub of pencil.
+
+"Mail?" she asked.
+
+"Yes."
+
+"From Rhys?"
+
+"Your career in espionage is going very well."
+
+Annabeth smiled and returned to the measurements.
+
+Thalia sat on her bed and opened the letter.
+
+It wasn't especially romantic at first. Rhys had spent the previous three days arguing with a plumber, had repaired a cupboard that had promptly developed a different problem, and had discovered that his mother possessed the same impossible standard for the arrangement of kitchen knives that Thalia possessed for target distances. He described an evening spent playing his unfinished song while his mother sat beside the stove and corrected his timing despite being unable to read a line of music.
+
+Thalia laughed.
+
+Then the letter changed.
+
+*I keep finding things I would have told you if you were here. I could probably fill an entire notebook with them, but I suspect you would accuse me of wasting paper.*
+
+*Yesterday I stood in the doorway with the last piece of the repair list in my hand and realized I'd finished the jobs I could do myself. The remaining appointments belong to other people. I wanted to tell you because you would have immediately ordered me to stop inventing new responsibilities.*
+
+*You would have been right.*
+
+She smiled despite herself.
+
+*I think I can come back around the middle of the month. I haven't booked anything yet. My mother wants me to stay another week while she settles a few matters, and I want to be certain I can leave without making it harder for her. I'll tell you when I know.*
+
+Thalia read those lines twice. She didn't mind that there was no exact date. Not in principle. She was less pleased by how quickly her imagination had begun counting days.
+
+*I wish you were here tonight. Not because I've had a terrible day. It wasn't terrible. I'd just like to hear you complain about my guitar, eat something with you, and have you kiss me before we go to sleep. That last part is proving particularly difficult to replace with a letter.*
+
+She read the sentence again.
+
+It was direct, the way he could be when he chose to stop hiding behind a joke. There was an unexpected intimacy in seeing the desire written down, without his face or his voice there to soften it. She could not distract him by kissing him. She had to sit with the words.
+
+She liked them.
+
+At the bottom he had added one more line.
+
+*Your turn. Tell me something you haven't told anyone else this week.*
+
+Thalia set the letter down. She thought about writing immediately, but the question held her longer than she expected. There were things she had not told anyone: how often she'd looked up from supper because a familiar laugh sounded almost like his; how she'd held the photograph beneath the lamp and imagined his hands warm against her face; how the first morning without him had made her feel foolishly bereft even while the rest of her life continued exactly as it should.
+
+She couldn't fit all of that into an ordinary account of her week. She didn't need to.
+
+Annabeth stood from the table and stretched.
+
+"Is he all right?"
+
+"Yes."
+
+"Good."
+
+"He's dealing with repairs."
+
+"That sounds like him."
+
+Thalia looked up. "You sound fond of him."
+
+"I like people who don't treat you as if you're difficult just because you disagree with them."
+
+Thalia opened her mouth and closed it again.
+
+"You're saying I disagree too much."
+
+"I'm saying I know you."
+
+Annabeth gathered her papers. At the door she paused.
+
+"Tell him the truth," she said.
+
+"You have no idea what I'm writing."
+
+"No. But you looked like you were deciding whether to."
+
+The door closed behind her. Thalia sat with the letter in her lap and considered the infuriating fact that her sister was often right.
+
+She found a clean sheet.
+
+*Rhys,*
+
+*Your mother sounds as though she has the right idea about the kitchen knives. You should probably listen to her.*
+
+*The snow has finally arrived. I am trying not to interfere with the people whose job it is to clear the paths. The word "trying" matters in that sentence.*
+
+She paused, then continued.
+
+*You asked me to tell you something nobody else knows this week.*
+
+*I kept the shirt you lent me on the first Sunday. I know you know that, because it was in my bag when I left and you watched me take it. What you don't know is that sometimes I put it on when I read before bed. It smells less like your cabin now. I am annoyed by that. I don't especially want a new shirt. I want the old one to smell like you again.*
+
+She stared at the words.
+
+It was not an elegant confession. It was not even a flattering one. She'd never expected to become a person who admitted such things. But the thought had been hers for several days, and writing it down felt better than constructing a joke to hide it.
+
+She wrote another line.
+
+*I also miss kissing you. I won't pretend I don't. The exact things I miss are private, and I intend to remind you of them when you come back.*
+
+She considered crossing that out. Instead she smiled, a little embarrassed, and left the sentence alone. He would know what she meant. More importantly, he would know how pleased she was to mean it.
+
+Outside the cabin, the snow had stopped. Thalia could hear someone knocking it from a roof with the flat side of a shovel. She moved to the small window and looked at the path to the north. It was white now, interrupted only by the dark posts that carried the lamps. The cabin where she had spent so many evenings stood hidden beyond the trees.
+
+She took the letter with her when she went to bed. It had been a long day. Tomorrow would bring another lesson, another stack of bows that needed attention and perhaps a new problem Annabeth would insist they solve before supper. She wanted those things to matter as they always had. She also wanted Rhys to come back, to open the north cabin door and look pleased to find her there.
+
+She set the letter on the table beside her photograph. Then she took the borrowed shirt from beneath her pillow and pulled it over her head before turning out the lamp.
+
+She was not trying to live in a memory. She was simply allowing herself to miss someone she intended to see again.
+
+---
