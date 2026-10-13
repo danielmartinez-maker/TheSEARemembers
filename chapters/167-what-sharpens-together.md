@@ -708,7 +708,34 @@ Annabeth came down the ramp behind him with a mug in both hands and her fleece b
 
 "It's law," Annabeth agreed. "The book says so."
 
-They sat on the dock with the steam going up off the lake and the frost coming in along the shore, and Percy drank cider that tasted of cinnamon and late apples and September, and thought that there was nothing in the world he wanted more than a Friday he had been given by five people who had each sharpened him, and that he would spend the whole week earning it, and that the week would be worth it whether or not he did.
+Percy lifted the cider and took a cautious sip. It was still too hot, though Annabeth had carried it all the way down the hill. She looked at his hands around the mug.
+
+"You're going to need gloves if you're out here every evening."
+
+"I own gloves."
+
+"Owning them isn't wearing them."
+
+"That's why I own several pairs."
+
+She leaned toward him to check the knot on his jacket. He caught her wrist, gently, and kept her hand between his until she'd stopped trying to fix it.
+
+"Friday's going to be cold," he said. "Are they really expecting everyone to swim at four?"
+
+"They're expecting everyone to show up at four. Silena says the swimming depends on the weather."
+
+"That part did not make it onto Clarisse's law."
+
+"It's written on the reverse." She reached into her pocket and showed him the folded notice. Below the grand announcement, in Silena's rounded handwriting, were two sensible words: WARM TOWELS.
+
+He laughed. Annabeth folded it away, then moved her mug farther from the edge of the boards. She had a survey to finish tomorrow, and Percy had agreed to help with the equipment check after breakfast. Neither task could be performed by staring at the lake until midnight.
+
+"Ten minutes?" she suggested.
+
+"Fifteen."
+
+"Then we go up together."
+
+He gave her an exaggerated sigh of surrender, and she settled against his shoulder. For those fifteen minutes they could be cold, together, and free of the need to turn a perfectly ordinary Monday into a promise that the rest of the week would be easy. The cider cooled enough to drink. When Annabeth stood, Percy followed without having to be asked twice.
 
 ---
-
