@@ -542,7 +542,121 @@ Percy felt less conflict because Silena knew but Clarisse did not, and Clarisse 
 
 So he sealed and rotated spots and followed Silena's rules. For three weeks it held.
 
-Until rain and laundry broke it.
+---
+
+The first time Thalia noticed the wax, she thought Annabeth had been practicing a new kind of model making.
+
+A little white flake lay on the floor beside the desk. Annabeth was building a paper bridge for a class demonstration, and she'd borrowed the small candle they used to soften glue in the arts cabin. Thalia bent to pick up the scrap and found a tiny impression of an owl pressed into it.
+
+"What's this?"
+
+Annabeth glanced up, then looked back at her bridge so quickly that Thalia knew something was wrong.
+
+"Just wax."
+
+"I can see that. What were you sealing?"
+
+"Nothing important."
+
+Thalia held the flake between her fingers. It was barely larger than a fingernail. The sensible thing would have been to put it on the desk and leave the question alone. She had spent years being responsible for Annabeth, though, and anything Annabeth refused to explain still made her want to look for the danger hidden beneath it.
+
+"Is this for one of your letters to Jason?" she asked.
+
+"No."
+
+"Then why are you doing it?"
+
+Annabeth's pencil stopped moving.
+
+"Because I wanted to."
+
+Thalia felt irritation flare. She hadn't forbidden Annabeth from making things or writing letters. She had asked a simple question, and her sister was answering as though she expected a cross-examination.
+
+"There's no reason to be difficult," she said.
+
+"I know. So stop asking questions until I give you an answer you like."
+
+The words hit harder than Annabeth intended. Thalia put the wax on the table, beside the model, and stood with her hands on her hips. She could see how small the problem was. She could also see that her sister was refusing to explain something deliberately, which frightened her more than it should have.
+
+"Are you keeping something dangerous from me?"
+
+"No."
+
+"How do I know?"
+
+Annabeth looked at her. She had a good answer. She'd been going to lessons, returning at curfew, and meeting her responsibilities. If she had needed help with something dangerous, Chiron would have heard about it from the instructor responsible. She should not have to produce every note from her pocket as proof that she was safe.
+
+"Because you know me," she said. "You trust me with storm drills and the workshop and the shrine. Why is a piece of paper different?"
+
+Thalia opened her mouth and stopped. The question wasn't easy to answer. Storm drills came with instructors and rules; the workshop had supervisors. Private decisions didn't come with a form she could sign.
+
+"Because you're my sister," she said.
+
+"That's why I tell you important things. It doesn't mean you get to read everything I write."
+
+Thalia looked at the bridge on the table. The model was made from folded paper rather than wood, with two supports that looked too narrow and a carefully measured span. Annabeth had been working on it for an hour and hadn't once asked for help. A year ago Thalia would have considered that evidence something was wrong. Now she recognized it might be evidence that Annabeth could do more for herself than Thalia had learned to allow.
+
+"You're right about the paper," she said slowly.
+
+Annabeth stared. "I am?"
+
+"Don't enjoy it too much."
+
+A reluctant smile crossed Annabeth's face, then faded.
+
+"I'm not doing anything that puts me in danger," she said. "I'm writing to someone. I want it private."
+
+"Is the person treating you well?"
+
+"Yes."
+
+"Do I know them?"
+
+Annabeth hesitated. Thalia heard the hesitation and had to fight the impulse to guess names until one made her sister react.
+
+"You don't have to tell me today," she said.
+
+Annabeth looked relieved enough to make Thalia feel ashamed.
+
+"Thank you."
+
+"Can I ask one thing?"
+
+"Maybe."
+
+"Promise me you won't let someone make you keep a secret that frightens you. Not because I need to know everything, but because you should be able to choose who helps."
+
+Annabeth considered. She had chosen this privacy herself. Percy didn't know she was keeping the note exchange from Thalia, and he had never asked her to. She'd been afraid her sister would react badly, and the fear had grown from years of being protected rather than from anything Percy had done.
+
+"I promise," she said. "And I'm not frightened of this."
+
+Thalia nodded. She didn't like not knowing. She could live with it.
+
+"Fine. Then I won't ask again unless something changes."
+
+Annabeth looked down at the bridge. "Can you help me test this?"
+
+Thalia smiled. "Now you need me."
+
+"It's a load test. You're good at making things fail."
+
+"That's the nicest thing you've said to me all morning."
+
+They used small coins as weights, placing them one by one on the center of the paper span. The bridge held six before the supports buckled. Annabeth adjusted the folds and tried again. Thalia offered suggestions when asked, then stopped herself from taking over the work.
+
+The second version held nine coins. Annabeth looked pleased and wrote the result in her notebook.
+
+Thalia watched her. The bridge hadn't become stronger because Thalia told it how to stand. Annabeth had chosen the folds, made a mistake, listened to feedback and improved it. She was learning to be the kind of older sister who could help without having to know every step.
+
+She brushed the wax flake into the small waste basket, then left Annabeth to finish. At the door she turned back.
+
+"Are you coming to dinner?"
+
+"Yes."
+
+"Good. Bring the bridge. I want Percy to see how many coins it holds."
+
+Annabeth blushed at his name and bent over her paper. Thalia noticed, of course. She had said she wouldn't guess names aloud. She kept her word.
 
 ---
 
