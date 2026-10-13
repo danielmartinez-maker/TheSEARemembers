@@ -1449,3 +1449,152 @@ She was grinning when she reached the fork in the path. The next time Annabeth a
 
 ---
 
+Monday, November sixth, began with a message written in chalk.
+
+Rhys discovered it at half past six, when he opened the cabin door to find the morning air clear and hard enough to sting. The slate had acquired a new line beneath the laundry instructions: DON'T MOVE THE TARGETS FOR ME. Beneath that, smaller and more daring, was the qualification about terrible novices.
+
+He stood in the doorway for a while, looking at the handwriting.
+
+He had seen Thalia leave a note on the slate after the first night, but this one was different. It was not a declaration, and it did not offer a promise meant to last forever. It was a joke aimed at him, written in the sort of handwriting that made every letter look as though it had been chiseled into the board by somebody who objected to small talk. It meant she had been here. It meant she had thought of him before she left.
+
+He smiled, then went inside for the eraser.
+
+For one uncomfortable moment he considered rubbing out the joke before the other Apollo campers saw it. Not because he was ashamed of her, but because he knew what would happen once they noticed a message in a hand that wasn't his. Questions. Speculation. The kind of friendly teasing that became a problem when people stopped remembering that the relationship belonged to the people in it.
+
+He left the note where it was.
+
+Later, at breakfast, a fellow instructor glanced at the chalk on his sleeve and asked why he looked so pleased with himself. Rhys told him he'd finally repaired the north bow rack. That happened to be true. He didn't mention the slate.
+
+Thalia, meanwhile, had reached Cabin One before the first bell and fallen asleep for another hour. She woke to find the sun already making a bright line across the floor. Annabeth was gone. A cup of tea stood on the table beside a scrap of paper: *I went to the construction shed. Your heel wrap is on the chair. You left it under the bed.*
+
+Thalia stared at the note and smiled.
+
+Her sister knew too much. She had always known too much. The difference lately was that Thalia was beginning to understand she did not have to keep every part of her life hidden in order to keep it her own.
+
+She put on the wrap, checked the fit, and went down to the dining pavilion. She saw Rhys before he saw her. He was carrying a tray, arguing with a friend about whether a bowl of porridge counted as a complete breakfast. His hair was still damp from washing. The sight made her stomach perform a thoroughly undignified little movement.
+
+She went to get food and sat at the opposite end of the table.
+
+There was a moment when he looked up and caught her eye. No one else noticed, or if they did, they didn't interrupt. He raised his cup in a tiny private salute. She raised hers in return.
+
+That might have been the whole of the morning if he hadn't approached her after breakfast.
+
+"I found your note."
+
+She looked at him with practiced innocence. "What note?"
+
+"The one that threatens my target placements."
+
+"It was a professional warning."
+
+"You know, someone else is going to read it."
+
+"Good. They need to know what they're dealing with."
+
+He considered her. "Do you want me to erase it?"
+
+The question took her by surprise. She had left the message half expecting him to laugh and half expecting herself to regret it when she returned to the field. She hadn't expected him to offer the choice back to her.
+
+"No," she said. "Leave it."
+
+"All right."
+
+"And if somebody asks?"
+
+"I'll tell them a terrifying woman inspected my targets."
+
+"Accurate."
+
+They were standing near the pavilion door, where anyone might pass. He didn't reach for her. She wanted him to, then found herself annoyed that she wanted it. She could choose. She had been telling herself that for two weeks.
+
+She took his hand.
+
+He looked down at their fingers, then back at her face. There was a fraction of surprise before the pleasure arrived, and the sight made her bold.
+
+"Walk with me," she said.
+
+"Where?"
+
+"Somewhere flat."
+
+"Your heel?"
+
+"It's fine. I'd like to keep it that way."
+
+He fell into step beside her. The path around the lower meadow was almost empty at this hour. The lake was bright and still. Thalia could feel the light pressure of his fingers around hers, comfortable enough that she stopped noticing it as a separate fact and simply enjoyed walking with him.
+
+"Last night was good," she said.
+
+He smiled. "I thought so."
+
+"I didn't ask for a review."
+
+"You started one."
+
+She laughed. "Fine. I liked being there."
+
+"So did I."
+
+"And I liked the part where we weren't trying to impress each other."
+
+He looked thoughtful. "I was still trying a little."
+
+"Naturally."
+
+"I wanted you to have a good time."
+
+"I did."
+
+She stopped near the low fence. He turned toward her.
+
+"Can I tell you something embarrassing?" she asked.
+
+"I've been collecting your embarrassing statements."
+
+"Very brave."
+
+"Go on."
+
+She looked down at their hands. "I packed a clean shirt before I came over yesterday."
+
+He blinked, then laughed with such genuine surprise that she had to grin in spite of herself.
+
+"You planned ahead."
+
+"I did."
+
+"Thalia Grace planned ahead for something pleasant."
+
+"Keep talking and I'll take it back."
+
+"The shirt?"
+
+"The pleasant part."
+
+He drew her closer and kissed her. The kiss was brief, but she felt its warmth all the way down the path. She had wanted the small acknowledgment all morning. Now she had it, and she didn't feel the need to make it grand.
+
+"Come by after supper?" he asked.
+
+She considered. "Not tonight."
+
+He nodded.
+
+"I want to spend the evening with Annabeth," she said. "We haven't had much time alone."
+
+"Then do that."
+
+"You aren't disappointed?"
+
+"A little. I like seeing you. But I'm glad you want time with your sister."
+
+She looked at him. "Those two things don't cancel each other out."
+
+"No."
+
+She kissed him again, partly because she liked being able to and partly because the straightforward answer deserved something better than a sarcastic remark.
+
+At the fence he let her go. They had work in different parts of the camp. He headed toward the target shed; she went uphill toward Cabin One. For once the prospect of being apart for a day did not feel like evidence that something was missing.
+
+The following evening she would see him again. They had not made a schedule. They had made a choice that could be made again.
+
+---
