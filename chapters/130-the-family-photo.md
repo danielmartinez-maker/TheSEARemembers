@@ -1011,3 +1011,150 @@ Clarisse seemed almost disappointed. She covered it with a yawn.
 Silena laughed and went inside. The photographs would be there in the morning. She could let them finish drying without watching over them all night.
 
 ---
+
+The next morning, Chiron put a long table on the porch outside the Big House.
+
+Austin arranged the proofs in numbered envelopes, with a list showing which campers had asked to review them before any copies were displayed. Silena helped set the table, taking care not to mix the plates intended for private portraits with the ones that might be hung in the pavilion.
+
+The first visitors were Nico and Bianca.
+
+Nico stayed near the porch railing while Bianca looked at their photograph. She held it by the edges and didn't say anything for a moment. Then she handed it to him.
+
+"That's us."
+
+Nico examined it. "I look angry."
+
+"You look like you were thinking."
+
+"I was thinking about how long he was going to make us stand there."
+
+Bianca laughed. "Then it's accurate."
+
+"Do you still want it private?" Austin asked.
+
+"Yes," Nico replied.
+
+"Then I'll make one print for you and one for Bianca. No copy on the public wall."
+
+Nico nodded. He asked whether the names could be written on the back rather than the front. Austin agreed. Bianca signed the proof envelope with Nico so there would be no confusion about the instruction later.
+
+Percy watched them leave together, pleased that the decision had been simple. Nico had not been talked into standing for a public portrait, and the photograph he'd chosen to take would still exist.
+
+The next group was less straightforward. The Apollo musicians argued about which exposure showed them best. The first captured the moment someone laughed; the second was sharper but made everyone look uncomfortable.
+
+"I prefer the sharper one," said the boy with the trombone.
+
+"You only prefer it because you aren't laughing in that one," someone else replied.
+
+Austin let them look at both. He didn't decide for them. At last they voted to display the laughing photograph and keep the sharper one for the cabin archive. The boy with the trombone looked annoyed but agreed to the decision he'd helped make.
+
+Silena added the result to the display list. She was beginning to appreciate that photo day had more to do with negotiation than she'd expected.
+
+Percy found Clarisse at the end of the table, staring at the Cabin Three portrait.
+
+"Well?" he asked.
+
+"Tyson's head is enormous."
+
+"Tyson is enormous."
+
+"He looks happy."
+
+"He was happy."
+
+Clarisse examined her own expression. "I look suspicious."
+
+"You were suspicious."
+
+"I was standing next to you. A reasonable state."
+
+Silena came over to look. In the proof, her hand was caught near Clarisse's shoulder as though she'd just finished straightening her collar. Percy had turned a little toward Tyson, and the giant's smile took up half the upper part of the frame.
+
+"Do we all want this one?" Silena asked.
+
+"I do," Percy said.
+
+"Yes," Clarisse replied.
+
+"And Tyson?"
+
+Percy started to say he knew Tyson would like it. Then he stopped. They'd been spending weeks learning not to make choices on someone else's behalf merely because the choice seemed obvious.
+
+"We can ask him," Percy said.
+
+They found Tyson in the workshop beside the Big House, where he was helping prepare a new support for a camp bench. He wiped the sawdust from his hands before taking the photograph.
+
+For a moment his broad face was completely still. Then his eye brightened.
+
+"That is my family," he said.
+
+"Do you want a copy?" Silena asked.
+
+"Yes. One for the forges, too. Can I take it there?"
+
+"Of course."
+
+"Do I have to tell anyone before I hang it?"
+
+"Only if it would be in a public area," Austin said, coming up behind them. "For your own room, no."
+
+Tyson thought about that. "I want it above my bed."
+
+"Then that's yours."
+
+He handed it back carefully. Percy noticed a little spot near the corner where someone had accidentally touched the proof with a damp finger. Austin explained that the final print would be made from the protected original, so the mark wouldn't appear.
+
+Tyson seemed relieved. He'd been handling forged metal all morning, and a thin piece of photographic paper was almost absurdly delicate in his hands.
+
+At the Big House, Annabeth had begun labeling the group picture. She compared the proof with the sketch she'd made of the lineup and wrote the names of the campers in order, leaving blank spaces where she couldn't identify someone from the back row.
+
+"Why not ask the cabin counselors?" Percy suggested.
+
+"I will. I want to know what I don't know first."
+
+She showed him a row that contained three Hermes campers and a satyr partly hidden behind the tallest boy. Her original sketch had marked the satyr's position incorrectly. The photograph was useful because it disagreed with her first drawing.
+
+"That's annoying," she said.
+
+"And helpful."
+
+"Both."
+
+Thalia came to see the Grace-sisters portrait. It showed her standing behind Annabeth with one hand resting lightly on her shoulder. Both looked at the camera rather than at each other. Annabeth smiled in the proof; Thalia had her usual look of defiant suspicion.
+
+"Do you want that on the cabin wall?" Annabeth asked.
+
+Thalia examined it. "Yes. But I want a separate copy for Jason."
+
+"He wasn't here," Annabeth said.
+
+"He can still see what we look like now. I want to tell him about the day rather than make him think everybody was together without him."
+
+Annabeth nodded. She turned the photograph over and made a note to send a copy with Thalia's next letter.
+
+Percy watched them. Zeus hadn't come to the photograph day. Jason was far away. The image didn't need to pretend their family was complete in order to be meaningful. It showed two sisters who had been here, with room for a letter to somebody who wasn't.
+
+When the public group picture was ready for review, the counselors assembled around the table. A few objected that their expressions were poor. Chiron reminded them the question was whether the image represented the camp fairly, not whether each person had achieved a personal ideal of dignity.
+
+Mr. D looked at his own face for a long moment.
+
+"I appear to be enduring a punishment," he announced.
+
+"That is also accurate," Percy murmured.
+
+Annabeth kicked him lightly under the table. Chiron hid a smile.
+
+By noon, most of the permissions had been recorded. There were still some undecided cases. Austin refused to post those photographs without a clear answer, despite campers asking to see them.
+
+Silena gathered the approved private proofs. The Cabin Three portrait had signatures from all four siblings, including Tyson. She held it for a moment longer than necessary before putting it back in its sleeve.
+
+Percy could tell she wanted to frame it immediately. He did too. But Austin needed to prepare the actual copies, and they had promised not to hurry the process so much that someone damaged the originals.
+
+"Tomorrow?" Percy asked.
+
+"Possibly this afternoon," Austin said. "If the paper dries and the copies pass inspection. You'll be told."
+
+Percy looked at the proof again. It wasn't a picture of everyone who mattered to him. It was a photograph of a particular group on a particular day, and that limitation made it easier to keep.
+
+
+---
