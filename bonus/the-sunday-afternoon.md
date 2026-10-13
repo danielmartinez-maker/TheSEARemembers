@@ -12706,3 +12706,277 @@ That was enough for now.
 Later the day might become more private. For the moment the light was good, the table stood steady and both had things worth making.
 
 ---
+
+## May 24: Someone Had to Stop the Lesson
+
+Thalia knew the student was going to fall a heartbeat before he did.
+
+He had taken the high route through the training course, stepping onto a low platform built to give archers a clearer angle over the practice screens. The platform was stable. The railing was sound. The problem was the student's boot, which caught the edge of a loose strap as he turned to draw.
+
+Thalia called his name.
+
+He tried to correct his balance and failed.
+
+He went down awkwardly, catching himself with one hand before his shoulder struck the timber. The bow clattered onto the boards. Somebody shouted. Eleni blew the whistle and cleared the other students from the course.
+
+The boy was shaken and embarrassed. His wrist hurt, but he could move it; the camp healer would need to examine it before anybody decided it was only a sprain. Thalia checked the platform while another instructor took him to the infirmary. The loose strap belonged to equipment that should have been inspected before the session began.
+
+It had been inspected.
+
+Eleni had signed the checklist.
+
+Thalia felt anger rise so quickly that she had to put down the strap to keep from crushing it in her hand.
+
+"Eleni."
+
+Her assistant came over. She looked pale.
+
+"I checked it," she said.
+
+Thalia held up the strap. One buckle had been fastened but not tightened. The error was small, the kind that could pass unnoticed until somebody shifted weight in exactly the wrong direction.
+
+"You missed this."
+
+"I know."
+
+"Why?"
+
+"I don't know. I checked the board and the rail, and I saw the buckle. I thought it was secure."
+
+"You thought."
+
+The words came out harder than Thalia intended. Eleni flinched. Thalia recognized the reaction and hated it, but the sight of the boy falling still occupied every part of her attention.
+
+"This is the sort of mistake that gets people killed."
+
+Eleni looked at the empty course. Her eyes were bright.
+
+"I know."
+
+Thalia opened her mouth to say something else. Then she saw the other students watching from the bench. They had just seen one instructor make a mistake and another prepare to punish her in public. The lesson had been about identifying risks before they became injuries. Thalia was now at risk of teaching them that the safest response to a mistake was to hide it from someone angry.
+
+She stopped.
+
+"Everyone to the pavilion," she said. "No more shooting today."
+
+The students obeyed. Eleni stood beside the platform, looking as though she expected Thalia to begin again as soon as the audience was gone.
+
+Thalia took a breath.
+
+"Go check on him," she said. "See what the healer says. Then come back and we'll write the incident report together."
+
+Eleni stared.
+
+"Together?"
+
+"You signed the inspection. I approved the lesson. We're both responsible for making the next one safer."
+
+Her assistant nodded and went.
+
+Thalia stayed on the platform long enough to inspect every strap, then closed the course.
+
+***
+
+Rhys found her in the equipment shed after supper.
+
+She was sitting at the workbench with the incident report spread before her, going over the same section for the fifth time. She had already written what happened, who was present and which checks had failed. Eleni had completed her portion. The boy had a mild wrist sprain and had been told to rest for several days. The platform would remain closed until the entire course was inspected again.
+
+Every part of the process had been handled.
+
+Thalia still felt furious.
+
+Rhys stopped in the doorway.
+
+"Chiron told me there was an accident."
+
+"Minor."
+
+"Is the student all right?"
+
+"He'll be fine."
+
+"How are you?"
+
+She looked up sharply.
+
+"Don't ask me that."
+
+He didn't answer at once. Then he came inside and set a small bag of bread on the table.
+
+"I brought supper."
+
+"I ate."
+
+"I know. You tend to forget that hunger exists after a difficult day."
+
+She looked at the bag. It was a familiar gesture, so ordinary that it made the anger harder to maintain.
+
+"I'm not hungry."
+
+"Then leave it."
+
+He sat on the opposite bench without touching the report. She appreciated that. The incident was her responsibility, not his, and she wasn't prepared to have somebody else rewrite the conclusions until they sounded less uncomfortable.
+
+After a while she said, "I frightened Eleni."
+
+"How?"
+
+"I shouted at her."
+
+"Did she deserve it?"
+
+"The mistake could have injured someone badly."
+
+"That's not what I asked."
+
+Thalia looked toward the wall. He was right. The safety breach was real. So was the failure of leadership she'd nearly allowed it to become.
+
+"I was scared," she admitted.
+
+Rhys waited.
+
+"When the boy fell, I could see exactly where he would hit. For a second I thought he was going to land on his neck. I wanted to stop it, and I couldn't. Then Eleni was standing there, and I could do something to her. I nearly did."
+
+She stopped, unsettled by how plainly the explanation had come.
+
+Rhys didn't rush to answer. He looked at the report, then at her.
+
+"Did you go back and speak to her?"
+
+"Yes. We wrote the report."
+
+"Did you tell her why you were angry?"
+
+"I told her what she missed."
+
+"That's not the same."
+
+Thalia looked at him. She was too tired to pretend she'd misunderstood.
+
+"I'll talk to her tomorrow," she said.
+
+He nodded.
+
+Then he asked, "Do you want company while you finish?"
+
+She considered. She did. She also wanted him to stop being reasonable and kiss her until the entire day fell away. That would have been an easy request and an unfair solution. The report still needed the final safety recommendations.
+
+"Sit," she said.
+
+He sat.
+
+She finished the last paragraph, signed the report and put it in the envelope for Chiron. The work took twenty minutes. Rhys stayed at the bench without attempting to help, reading an old book from the shelf while she wrote.
+
+When she was done, she put down the pencil.
+
+"Finished."
+
+He closed the book.
+
+She crossed the space between them and kissed him.
+
+He answered immediately, warm and eager, one hand resting at the back of her neck. She felt the familiar relief of being close to him after a day that had made her doubt her own judgment. The kiss did not change what happened at the range. It gave her a moment in which she could stop being the instructor who had to know exactly what came next.
+
+When she drew back, she leaned against him.
+
+"I still have to talk to her."
+
+"I know."
+
+"And the student."
+
+"I know."
+
+She looked up at him.
+
+"You're not going to tell me everything's fine?"
+
+He considered. "I don't think you want me to."
+
+She smiled a little.
+
+"No."
+
+He kissed her cheek.
+
+They went back to the cabin together.
+
+***
+
+The next morning Thalia found Eleni outside the infirmary.
+
+Her assistant had been to see the injured student before breakfast. He was recovering, impatient to return to the range and already arguing that the exercise shouldn't be canceled because of one loose strap. The healer had told him to stop arguing and rest his wrist.
+
+Eleni looked exhausted.
+
+"I checked the entire course again," she said.
+
+"I know."
+
+"And I wrote the replacement procedure. Two people have to sign off on the platform straps before anyone uses it."
+
+"Good."
+
+She looked at Thalia cautiously.
+
+"Are you going to make me leave the program?"
+
+Thalia stared. She had not realized the younger woman thought that was possible.
+
+"No."
+
+"But I made a mistake."
+
+"Yes."
+
+"A dangerous one."
+
+"Yes."
+
+Eleni looked down.
+
+Thalia took a breath. She was tempted to tell her not to be upset, that everybody made mistakes and the student was fine. Neither would be the whole truth. The incident had been serious enough to justify a new safety procedure. It had also been exactly the sort of experience an instructor could learn from if somebody allowed her to stay and do the work.
+
+"I was frightened yesterday," Thalia said.
+
+Eleni looked up.
+
+"I spoke to you as if being frightened gave me the right to humiliate you. It didn't. I'm sorry."
+
+Her assistant stood very still.
+
+Thalia continued. "You're responsible for the missed buckle. I'm responsible for the final approval. We'll change the process so neither of us can make that mistake alone again."
+
+Eleni nodded, looking relieved and still embarrassed.
+
+"All right."
+
+"Good. Now go eat something. You look terrible."
+
+That earned a small laugh.
+
+Thalia watched her walk toward the pavilion and felt the first real easing of the anger she'd carried since the accident. She had not made the failure disappear. She had done something more useful: made certain it could be discussed without becoming a weapon.
+
+At the range she found Rhys inspecting a repaired bow beside the equipment rack. He looked up as she approached.
+
+"How did it go?"
+
+"Better."
+
+He nodded. No further questions.
+
+She went to stand beside him and looked over the bow.
+
+"Your string's too tight," she said.
+
+"It's not."
+
+"It is."
+
+He smiled.
+
+The argument was comfortable, familiar and entirely about the string.
+
+She liked that.
+
+---
