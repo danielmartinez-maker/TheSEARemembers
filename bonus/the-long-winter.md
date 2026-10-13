@@ -4707,3 +4707,229 @@ Outside, the wind shook a little snow from the roof. The sound was brief, follow
 Before she slept, Thalia thought of the hall's empty benches and the way he'd looked at her when she asked him to come closer. She had spent years convincing herself she could manage every room alone. The pleasure of choosing to share one was still new enough to surprise her.
 
 ---
+
+## Saturday, November 4: The Light in the Window
+
+On Saturday morning Thalia returned Rhys's scarf.
+
+She had borrowed it on Wednesday, worn it through two cold nights and discovered that it had begun to feel like part of her wardrobe. It was dark blue wool, badly matched to Percy's coat and useful enough that she was reluctant to surrender it. She had washed it the night before, dried it by the stove and folded it carefully before breakfast.
+
+Rhys was in the practice shed when she found him. He was examining the repaired window with the expression of a man who had been told an old enemy had returned to make trouble.
+
+"Still sticks?" she asked.
+
+"Only when it rains."
+
+"That's the entire purpose of a window."
+
+"I'll inform it."
+
+She handed him the scarf. He looked down at it.
+
+"You didn't have to wash it."
+
+"I borrowed it."
+
+"You were keeping it warm."
+
+"I'm capable of returning property."
+
+"Obviously. Your record is excellent."
+
+She narrowed her eyes. He smiled. She realized, with the now-familiar mixture of irritation and pleasure, that he had become very good at making her want to kiss him when she was trying to be cross.
+
+She was about to do exactly that when an instructor came around the corner carrying a stack of targets.
+
+"Rhys, do you have a minute?"
+
+He turned. "Of course."
+
+Thalia moved aside. The two began discussing the afternoon session, an argument about distance markers and whether the younger campers should be allowed to use the larger targets before the winter demonstration. It was a familiar conversation, and Thalia could have joined it. She knew more about the subject than either person was likely to say aloud.
+
+She didn't.
+
+Instead she watched Rhys explain his position, patient and clear, while the other instructor grew increasingly frustrated by the practical constraints. He wasn't being gentle merely because she happened to like him. He was capable of making a difficult decision in public without treating disagreement as an insult. She had noticed that weeks ago, before she understood why his company had become important to her.
+
+When the discussion ended, he looked back at her.
+
+"Sorry."
+
+"Don't apologize for working."
+
+"I thought you came to see me."
+
+"I came to return your property."
+
+"Of course."
+
+She glanced at the folded scarf in his hand. He was still holding it as though it had acquired some private significance by being worn by her.
+
+"Keep it somewhere sensible," she said.
+
+"I was planning to."
+
+"And don't let the other campers use it to wipe grease off a bow."
+
+"A very serious risk."
+
+She moved close enough that he could hear her without the rest of the shed listening.
+
+"I came to see you too."
+
+His smile changed.
+
+She kissed him, briefly and deliberately, then stepped back with her best expression of professional indifference. The door behind him opened at exactly the wrong moment, and she found herself looking directly at a student who had clearly seen the whole thing.
+
+The boy stopped.
+
+Thalia lifted an eyebrow.
+
+"Do you need something?"
+
+He looked from her to Rhys, opened his mouth, closed it again and held up the target book.
+
+"Scores."
+
+"Then give us the scores."
+
+The boy obeyed at once and fled toward the range.
+
+Rhys waited until the door closed before laughing.
+
+"Don't," Thalia said.
+
+"He looked terrified."
+
+"He should have been carrying the book in the first place."
+
+"An important distinction."
+
+She tried not to smile. It didn't work.
+
+***
+
+The afternoon brought a harder question.
+
+They had agreed to spend some time together after the work was finished, but Rhys's lesson ran long. By the time he came to the lower pavilion, Thalia was sitting on the steps beside an empty mug, having already decided twice to leave and once to stay.
+
+He stopped beside her.
+
+"You're waiting."
+
+"Clearly."
+
+"Sorry. A student broke a bowstring and then decided he'd broken the entire bow. We spent half an hour explaining the difference."
+
+"Did he believe you?"
+
+"Eventually."
+
+She stood. Her heel was tired but no longer painful in the way it had been the previous week. The support wrap had become a nuisance she wore because it helped, not because someone had ordered her to prove she was injured.
+
+They walked toward the lake. The light had turned the water a flat grey, and the wind came across it without interruption. Thalia tucked her hands into her coat pockets. Rhys walked beside her, keeping pace without making a remark about the fact that she was moving more slowly than she had before the injury.
+
+There was a question she had been avoiding since the night he wrote to his mother.
+
+"What happens when you go home?" she asked.
+
+He looked over. "I go home."
+
+"Calder."
+
+"I know. I'm being irritating."
+
+"Successfully."
+
+He considered. "I help my mother. I deal with whatever needs dealing with. Then I come back if I can."
+
+"If you can."
+
+"Yes."
+
+She stopped.
+
+He turned toward her. "Thalia, I want to be here. I'm not trying to find a way out."
+
+"I didn't say you were."
+
+"You're looking at me as if you expect me to."
+
+She looked away toward the lake. It was difficult to explain how old the fear was, how quickly it rose whenever someone she wanted near her began discussing a future beyond her sight. She had spent too many years treating departure as an emergency, and she had learned to act before she had time to find out whether the emergency was real.
+
+"I don't want to become someone who measures everything by whether you stay," she said.
+
+"Then don't."
+
+"That's not very helpful."
+
+"Would it be better if I promised I would never leave?"
+
+"No."
+
+"Then I can't solve it with a promise."
+
+She turned toward him. He wasn't being cold. He was refusing to tell her something false merely because the truth was uncomfortable.
+
+"I know," she said.
+
+He reached for her hand. She took it.
+
+"We can make plans," he said. "We can change them. We can tell each other when something matters. But I can't promise the world won't interfere."
+
+She looked at him. "You sound like you've been thinking about this."
+
+"I have."
+
+"Why?"
+
+"Because I like you enough that I want to do it properly."
+
+She was quiet.
+
+A minute passed.
+
+The old part of her wanted an absolute answer, something she could grip like a weapon. The newer part, the part that had learned how to sit beside him in the cabin without counting every minute, understood that a relationship did not become safe by eliminating uncertainty. It became worth choosing because both people kept returning to it honestly.
+
+"All right," she said.
+
+He squeezed her hand.
+
+They walked back along the lake, talking about the winter demonstration and his mother's latest letter. Thalia found herself listening more than speaking. She liked knowing that he had concerns that did not begin and end with her. She disliked the idea of being absent from his life, but that was not the same thing as wanting to own it.
+
+At the fork she stopped and turned toward him.
+
+"I've been thinking about tomorrow."
+
+"Sunday?"
+
+"Yes. The weather's supposed to clear."
+
+He smiled. "A rare event."
+
+"Very."
+
+"Any plans?"
+
+She considered telling him everything: that she wanted to go to his cabin in daylight, that she'd spent several evenings imagining what it would be like to be there when the sun was on the floor instead of the lamp, that she wanted to kiss him without worrying about how early she ought to get home. The thought made her smile.
+
+"I might visit," she said.
+
+"Very mysterious."
+
+"Don't ruin it."
+
+He laughed and kissed her. This time she held him close long enough that the conversation stopped mattering. The wind moved through the trees and made the ends of her hair lift against his cheek. She liked the small, ordinary sensation of the cold world around them while they stood together in the warmth of their coats.
+
+When she drew back, he was smiling.
+
+"See you tomorrow?" he asked.
+
+"Maybe."
+
+She started uphill before he could make another comment.
+
+At Cabin One she found Annabeth organizing a stack of drawings. Her sister looked up, noticed the color in her cheeks and the way she was still smiling, and wisely decided not to say anything.
+
+Thalia took the orchard photograph from her shelf and looked at it one more time before returning it to its place. Tomorrow she would come up the north path in daylight. She wanted to. There was no need to make the choice more complicated than that.
+
+---
