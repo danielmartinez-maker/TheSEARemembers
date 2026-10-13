@@ -775,6 +775,10 @@ Silena wrote that in the caption. She asked Percy whether he'd help compose a sh
 
 They kept the letter simple. No elaborate court language, no claims of divine harmony. Percy wrote that the camp had found an old painting, that his sisters had helped save it, and that they wanted to show her the result. He didn't need to give his family the edited version of a perfect day to let them share a good one.
 
+Silena read the note twice, crossing out a line that sounded too much like a herald's announcement. Clarisse added the names of two workers Percy had forgotten. Annabeth checked the date and pointed out that the first copy of the photograph should go to Myra, whose decision to conserve rather than repaint had made the unveiling possible. They signed the letter as campers, not as representatives of a royal house.
+
+The envelope looked ordinary beside the elaborate Atlantean shells on Percy's shelf. He liked that about it. Someone would read the words because they cared about the people who wrote them, not because a court demanded an impressive message.
+
 Once the archive was sorted, Myra packed the envelopes in a dry box and handed Silena the copy meant for Cabin Three. Clarisse took charge of the repair schedule. Nico and Bianca went off with their star materials safely labeled. Thalia offered to take Annabeth's damp sketches back to Cabin One.
 
 "I can carry them," Annabeth said.
