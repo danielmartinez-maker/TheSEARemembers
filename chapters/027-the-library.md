@@ -236,6 +236,90 @@ Everyone laughed, and Silena handed him a mug. The rain pattered on. The lamp gl
 
 ---
 
+By late morning, Annabeth had stopped counting shelves and started counting mistakes.
+
+The first was her own. She had told everyone to sort by subject, and they had done exactly that. The books about ancient wars had gone together, the maps into another pile, and the family photographs into a third. She'd forgotten that the original placement could tell them something about why the documents had been kept.
+
+Ella discovered the problem when she opened a small wooden box whose lid said *winter supplies*. Inside were four photographs, a list of old medicine stocks and a letter from a camper asking his sister to send him boots.
+
+"These belong together," Ella declared.
+
+Annabeth looked at the mixed contents. "They don't have the same subject."
+
+"Yes," Ella replied. "But they belong to the same person. The letter refers to the photograph, and the stock list is dated the day he left camp."
+
+Annabeth read the notes. Ella was right. Sorting everything into abstract categories would make it easier to find individual objects and harder to understand what had connected them.
+
+She went to get Chiron.
+
+He arrived with a ledger from the upstairs office and listened while she explained the mistake. She expected him to tell her to put everything back. Instead he asked how many containers they had already moved.
+
+"Seven full boxes and two jars."
+
+"Did you record the original location of each?"
+
+"Mostly. The labels were faded on some."
+
+"Then stop moving anything else until you can document what has changed."
+
+Annabeth felt her cheeks warm. The instruction was more serious than a comment about dusty shelves. She'd offered to help preserve the collection and might have made it less useful by cleaning too quickly.
+
+"What should we do first?" she asked.
+
+"Record what you've touched. Then establish a system that preserves both the original groups and the subjects you want people to search."
+
+Ella brightened. "Two sets of references. By source and by subject."
+
+"Exactly," Chiron said.
+
+They put the sorted piles on separate tables. Annabeth assigned each original container a number and wrote down the objects that had been taken from it. Ella checked the description against what she remembered seeing. The system wasn't perfect, because they'd already lost the order of some loose photographs, but it would preserve what they still knew.
+
+Percy returned from the far wall carrying a tin of old maps. He was annoyed to discover his pile could not be added to the new location without a note.
+
+"Didn't we agree to organize?" he asked.
+
+"We did. I missed a step."
+
+"You?"
+
+"Yes, Percy. I make mistakes."
+
+"Good to know."
+
+She gave him the ledger and made him record the tin's original shelf before opening it. He complied, then asked what they were going to do about the old boxes once the documents were cataloged.
+
+"Keep them where they're stable," Ella replied. "The box can be evidence too. Writing on the lid, the marks on the wood, the order of the papers. Those things tell stories."
+
+Grover looked up from his beanbag. "The old socks tell stories too?"
+
+"Not unless someone wrote down why they were there," Annabeth said.
+
+Ella considered. "A sock could have historical value."
+
+"Then let's not make the decision while you are still half asleep," Thalia said from the stairs.
+
+Chiron checked the shelving. One box had been stored too near a heater; he asked them to move it to a dry shelf with better airflow. The old rolling ladder was removed from use until the steward repaired its wheel. No one was to climb stacked crates to reach the high shelves.
+
+The new procedure slowed everything down. Annabeth found herself irritated each time someone stopped to write another note. But after an hour, the labels began to tell a coherent story. They could search by subject without losing the relationship between objects that had arrived together.
+
+Ella took the most damaged photographs to the supervised repair table, where a librarian would check the paper before they tried any cleaning. Annabeth wanted to help restore the colors. She wasn't qualified to do that, so she wrote a condition report instead.
+
+"Can I call this progress?" Percy asked.
+
+"Yes."
+
+"Even though we've sorted fewer boxes than we thought we would?"
+
+"Especially because we know what we're doing now."
+
+Percy glanced at the map tin. He'd wanted to find anything about Atlantis and would have happily pulled the old charts out until he found a tower drawing. He had begun understanding why the order in which people kept things could matter. A map labeled *rumor* was very different evidence from a report written by someone who'd visited the palace.
+
+They went back to work, this time carrying the original box with each document until its place in the catalog had been recorded. Annabeth had imagined a library where everything fit into neat columns. The actual room would take longer and remain full of uncertainties. It was becoming a better archive.
+
+
+
+---
+
 Percy had always thought libraries were places where fun went to be quiet.
 
 But this — this dusty basement with his friends sneezing and laughing, with tea that tasted like honey and smoke, with Grover snoring and Ella muttering book titles under her breath like prayers — this was different.
@@ -406,7 +490,7 @@ Annabeth stood back at one point, hands dusty, hair escaping its ponytail, and s
 
 "It's coming together," she said with quiet satisfaction.
 
-Percy came up beside her, Maya's journal tucked under his arm like he'd already adopted it. Chiron would let him keep it; Chiron was like that. "Hey, Annabeth?"
+Percy came up beside her, Maya's journal tucked under his arm like he'd already adopted it. Chiron might let him consult it again under the archive's rules; the journal still belonged in the collection. "Hey, Annabeth?"
 
 "Yeah?"
 
