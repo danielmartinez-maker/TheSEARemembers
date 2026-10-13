@@ -374,6 +374,86 @@ Annabeth leaned her shoulder into his. They sat like that for a while, watching 
 
 They spat in their palms and shook on it, the way they'd done since they were twelve, and then wiped their hands on their shorts making disgusted faces, the way they'd done since they were twelve.
 
+The thing Percy hadn't told Annabeth was that the court had offered him a room.
+
+Not just a bedroom. A suite. He'd had to stand in front of a stone table while an official described storage, tutors, attendants and the private corridor by which he could reach Poseidon's council chamber without passing through the public halls. The room had already been furnished. Somebody had chosen blue cushions because they had heard that was his favorite color.
+
+He had stood there wondering why nobody thought to ask whether he wanted it.
+
+"What is it?" Annabeth asked, noticing him go quiet.
+
+Percy took a pebble from the rock beside them and turned it over between his fingers.
+
+"Dad's people made a place for me to live down there. A permanent place, not just where I stay on visits."
+
+"Would that mean leaving camp?"
+
+"They say no. They say I could use the current whenever I wanted. But the list of things I'm supposed to learn keeps getting longer. If I live there, they can schedule me whenever they want."
+
+Annabeth looked at the Sound instead of answering immediately. She understood better than most people that a room could feel like proof somebody wanted you and like a trap at the same time.
+
+"Have you told Poseidon what you think?"
+
+"I tried. He said a prince should have a room appropriate to his position. And then Triton offered to help choose the shelves, so I felt bad for complaining."
+
+"You can appreciate the shelves without accepting the schedule."
+
+Percy laughed. "That's a very Annabeth answer."
+
+"It's also true."
+
+He showed her the little coral token. An official had cut it into the shape of a key, though no physical door in the palace required one. It was a symbol of access and a promise that the corridors would know him. When he'd received it, he'd thought of the first time Chiron let him choose a bunk in Cabin Three. Nobody had bowed. Clarisse had simply told him not to put his shoes on her blanket.
+
+"Do you want to live there?" Annabeth asked.
+
+"Sometimes. When Dad and Triton are actually around and nobody's asking me to perform being a prince. I like the library. I like the kitchen when the cooks let me help. I like the way the water changes color outside the windows." Percy hesitated. "I don't want it to become the place I have to be so I don't disappoint somebody."
+
+"Then tell them which parts you want."
+
+He looked at her. "You make that sound possible."
+
+"It is possible to ask. It's not possible to guarantee they'll listen."
+
+Percy turned the token over again. He didn't want to write to Poseidon as though he were submitting a complaint. The god had done things worth loving, including trying to make room for a son whose childhood he remembered differently. But Percy's affection didn't make every royal expectation reasonable.
+
+"Will you help me write a letter?" he asked.
+
+"I can help you check it. It has to sound like you."
+
+He took a notebook from his bag. The first draft was terrible. It began *Dear Father, thank you for the excessively enormous room*. Annabeth laughed at that and told him to keep it because it was funny and also because the adjective might get him in trouble at court.
+
+He crossed out *excessively* but left *enormous*.
+
+In the second paragraph he wrote that he liked staying in Atlantis and wanted to keep visiting, but he needed to know what was expected before agreeing to a schedule. He asked whether he could meet tutors during visits rather than having to attend every session remotely. He asked for time with Triton that wasn't labeled training, and visits with Clarisse and Silena without having to treat them like ceremonial guests. He asked whether the suite could remain available without becoming a decision about where he belonged.
+
+He stopped there.
+
+"What about me?" Annabeth said, pointing at the blank final line.
+
+Percy looked up, startled.
+
+"You're really asking?"
+
+"I'm pointing out that you haven't mentioned the person who is supposed to inspect these supposedly magnificent shelves."
+
+He grinned and wrote that he'd like Annabeth to see the room when she was invited properly and her sister could be reassured that the palace wasn't planning to keep her underwater without warning.
+
+"Very diplomatic," Annabeth said.
+
+"Years of practice."
+
+They read the letter once more. Annabeth corrected two words and circled a sentence where Percy had started apologizing for asking anything at all. He crossed the apology out.
+
+The letter wasn't a solution. Poseidon might agree to the conditions or argue that his son had obligations he didn't understand yet. Percy knew a royal household had responsibilities, and he wasn't asking to abandon them. He was asking to participate in deciding how to meet them.
+
+He put the draft in the waterproof notebook, tucked the coral beside it, and returned to watching the sailboats.
+
+For the first time that afternoon, thinking about leaving camp didn't feel like being forced to choose between two places. He had something specific to ask of one of them, and something specific he wanted to protect in the other.
+
+Annabeth bumped his shoulder. "For the record, I'm still going to complain if your suite has a terrible floor plan."
+
+"That's why I'm inviting you."
+
 ---
 
 Thalia found them an hour later, dragging Annabeth off for what she called strategic sister planning and what Percy suspected was mostly gossip and ice cream.
