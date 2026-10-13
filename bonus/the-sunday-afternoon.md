@@ -10,7 +10,7 @@ She had not told him she was coming. She had not told anybody. She had gotten up
 
 At noon she had gone to the Big House and let Chiron look at the heel, and he had pressed it and she had not flinched, which was its own kind of flinching, and he had said, "Better. Another week left-footed and you'll be right," and she had said, "I'll be right at the hall Tuesday," and he had said, "You'll be right at the hall Tuesday and you'll be better by the winter," and that had been the whole of that conversation too.
 
-The week between those two visits had been longer than she expected. Not because she was miserable, which was how Percy had put it when he found her pacing in the rain on Thursday and then immediately claimed he had meant the weather. She simply had a new thing she wanted, and being required to go about her ordinary work while wanting it was an unfamiliar kind of inconvenience.
+The days between that first Monday night and the Sunday she had decided to claim had been longer than she expected. Not because she was miserable, which was how Percy had put it when he found her pacing in the rain on Thursday and then immediately claimed he had meant the weather. She simply had a new thing she wanted, and being required to go about her ordinary work while wanting it was an unfamiliar kind of inconvenience.
 
 On Tuesday, the first time she wore the support wrap to the Tempest Hall, it caught under the edge of a bench and nearly sent her into Percy's stack of folded towels.
 
@@ -419,7 +419,9 @@ On Friday the sky cleared. Thalia and Annabeth went down to the work shed with t
 
 ---
 
-By Saturday, the hall schedule had acquired six new names. Three were Apollo campers, two belonged to children who had never been in the water after dark, and the sixth was Clarisse, written in such heavy pencil that it left an indentation through the paper.
+The following week brought no spectacular change. There were mornings when Thalia caught Rhys looking at her from the opposite end of the range and evenings when he was too busy to come by Cabin One. They exchanged a few words over equipment, sometimes a touch that lasted only a second when no one was watching. She discovered that having a private life with somebody did not require every meeting to be private. It could be carried into an ordinary day in the smallest ways: knowing what a half smile meant, hearing him call her by name, remembering where his hand had rested against hers when they had been alone. She missed him on the days they barely spoke. She hated how pleased she was when he found time to walk beside her toward supper. Neither feeling required an immediate explanation, and neither turned her into somebody else.
+
+By the following Saturday, the hall schedule had acquired six new names. Three were Apollo campers, two belonged to children who had never been in the water after dark, and the sixth was Clarisse, written in such heavy pencil that it left an indentation through the paper.
 
 Thalia found Rhys checking the new list outside the pavilion.
 
