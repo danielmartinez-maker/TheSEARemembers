@@ -370,7 +370,7 @@ The attic was quiet, except for pencil scratches and the little rattle of the wi
 
 ---
 
-Clarisse's first letter arrived on a Tuesday in late September, forwarded in a manila envelope from Camp to her house and back to Camp again because the harpies got confused.
+Clarisse's first letter arrived on a Tuesday in late September, forwarded from her mortal house through the trusted camp post, with a manila envelope whose address she'd written in enormous capital letters.
 
 Percy knew her handwriting instantly — all caps, pressing so hard the pen nearly tore the paper.
 
@@ -418,7 +418,7 @@ The voice on the other end was male and booming and wrong, like thunder forced t
 
 When she came out, her face was white.
 
-"He wore two different faces," she said. "He started as the general. Then he changed to the professor. Mid-sentence. He never wears the same face twice when he's upset."
+"He sounded like two different people," she said. "He started with that officer's voice he used last time. Then the voice got younger and smoother. I couldn't see his face on a telephone, but I knew he'd changed it again."
 
 Percy took her hand. It was ice cold. He did not ask what Zeus said. He just held on until her fingers warmed up.
 
@@ -464,7 +464,7 @@ Annabeth glowed. Percy watched her glow — younger, looser with Thalia. Thalia 
 
 Annabeth's glow dimmed. Percy felt her knee press harder against his under the table.
 
-"He called," Annabeth said. "Last week. Two faces."
+"He called," Annabeth said. "Last week. Two voices. I think he changed faces while he was speaking."
 
 Thalia closed her eyes. Static crackled. "Of course he did. Did he — what did he say?"
 
@@ -474,7 +474,7 @@ Thalia snorted. "I do distract you. I'm very distracting. I'm the most distracti
 
 Annabeth smiled weakly. Thalia pulled her in sideways, and Annabeth tucked her head under Thalia's chin.
 
-"He's just — he's volatile in the fall," Thalia murmured into Annabeth's hair, for Annabeth alone, but Percy heard. "Storm season. He gets restless. It's not you."
+"He does this all year," Thalia murmured into Annabeth's hair, for Annabeth alone, but Percy heard. "The season isn't an excuse. He decides to be frightening whenever it suits him. It's not you."
 
 "I know," Annabeth whispered. But she did not sound like she knew.
 
