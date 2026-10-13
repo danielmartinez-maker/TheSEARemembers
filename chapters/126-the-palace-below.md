@@ -956,7 +956,33 @@ Percy nodded. The visit had given each of them a reason to return, though none h
 
 At Cabin Three, he unpacked the copy of his childhood training-stage record. The story written there belonged to a period he couldn't remember firsthand. What he did remember was the weekend just passed: the garden, the repaired rail, the training pool and the quiet decision to leave together when the visit was over.
 
-He put the paper on his shelf, changed out of his travel clothes and went to help his sisters return the hamper to the kitchen. There would be time to miss Atlantis later. For now, camp had work that needed doing, and he was glad to be part of it.
+He put the paper on his shelf, changed out of his travel clothes and went to help his sisters return the hamper to the kitchen.
+
+At the kitchen, the cook checked every label before accepting the contents. Silena explained that the preserved fruit had been packed for land storage but that the sea greens should be examined again before serving.
+
+"Then we'll inspect them," the cook said. "If they don't keep, we won't use them."
+
+"That's fine," Silena replied. "Please don't serve something unsafe just because it came from a palace."
+
+The cook smiled. "I wouldn't."
+
+Clarisse put the empty hamper in the return pile and asked whether the scraps of the unfamiliar wrapping could be saved for the craft table. The cook agreed, on condition that nothing stained with food was reused. Silena separated the clean material and wrote its source on a little card.
+
+Percy watched the exchange. He'd pictured their return as a great emotional event, but here they were sorting produce and packaging like any other campers. The small task made the visit easier to place in his mind. It wasn't only an extraordinary family reunion. It had been an actual trip with things that needed putting away.
+
+Annabeth came in with a copy of the garden sketch. She asked the cook if she could borrow the empty hamper for a few minutes to measure its compartments. A younger camper had suggested using the same arrangement to carry seedlings from the strawberry beds without crushing them.
+
+"Bring it back before the morning delivery," the cook told her.
+
+"I will."
+
+Percy carried the hamper to the workbench while Annabeth checked its dimensions. She found that one side was too shallow for a full tray, and instead of declaring the idea impossible, she drew a small removable support that might make it workable.
+
+"We'll ask the garden crew," she said.
+
+Percy nodded. He liked that the last thing they did with an object from Atlantis wasn't merely admire it. They found a possible use for it at camp, asked permission and left the final decision with the people who would actually depend on it.
+
+ There would be time to miss Atlantis later. For now, camp had work that needed doing, and he was glad to be part of it.
 
 
 ---
