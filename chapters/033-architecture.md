@@ -464,6 +464,112 @@ They ran all the way to the dining pavilion shouting, bursting in to tell Percy,
 
 ---
 
+The week before construction began, Silena asked Annabeth a question that wasn't on any of her architectural forms.
+
+"Who gets to say no when the work becomes too much?"
+
+Annabeth was sitting at the arts table, drawing the revised plan with the root boundaries marked on tracing paper. She'd spent the afternoon assigning material quantities. Stone, timber, mortar and reclaimed tile had each been recorded in a column. She knew which tools would be needed and which camper could operate them under supervision.
+
+"What do you mean?" she asked.
+
+"Your volunteers. What if Clarisse agrees to carry stones on Saturday and then has to go to her own training? What if Nico gets tired? What if the younger kids don't want to work once they see how many buckets there are?"
+
+"Then someone else takes over."
+
+"Who?"
+
+Annabeth looked at her work schedule. She had written names in neat rows, but most of the slots didn't identify a replacement. In the plan, volunteer labor looked like a collection of reliable quantities. In reality it belonged to people who had made promises in good faith and had other obligations.
+
+"I'll ask them," she said.
+
+"Before you put their names down, please."
+
+She felt herself flush. Silena had been helping from the beginning, and Annabeth trusted her. It was uncomfortable to discover she'd been treating even her closest friends as pieces of a system that had to work precisely as intended.
+
+They went to the dining pavilion together. Clarisse was eating a late lunch with Nico, who had spilled something red on the corner of his Mythomagic cards and was trying to clean them with a napkin.
+
+"Can you help us review the schedule?" Annabeth asked.
+
+Clarisse looked suspicious. "Does this mean more work?"
+
+"It might mean less."
+
+"Interesting. Go on."
+
+Annabeth explained that she needed to know which shifts each volunteer could actually manage. Clarisse had offered to move the largest stones, but she also led a weapons group Saturday morning. Nico was willing to help carry small tools and sort tiles, but he didn't want to miss his game practice. The older campers who'd offered to dig a shallow footing would need to stop when the weather became too hot.
+
+"We could work in two blocks," Clarisse suggested. "One early, one after lunch. Nobody has to stay the whole day."
+
+"That would slow construction."
+
+"Then construction takes longer."
+
+Annabeth started to object, then looked at the site notes. Chiron had already approved a staged build. She didn't have an external deadline. The pressure to finish in a single weekend was hers.
+
+Nico raised his hand as though they were in class.
+
+"I don't want to be assigned to just carrying things because I'm small."
+
+"All right," Annabeth said. "What would you like to do?"
+
+"I can help sort the dark tiles. And I want to make the little part by the shaded corner. You said there'd be a place for people to sit out of the sun."
+
+"There will."
+
+"Then I want to help measure it."
+
+She wrote his name beside the tile and seating station rather than the transport line. Clarisse grinned at him.
+
+"Look at you, negotiating."
+
+"You're supposed to negotiate when somebody gives you a bad deal."
+
+"Who taught you that?"
+
+"You."
+
+Clarisse stopped smiling. "I did not."
+
+"You did yesterday when we were trading cards."
+
+Silena laughed. Annabeth copied the new arrangement onto the schedule. It had fewer guaranteed workers than before, but she knew what each person had agreed to do.
+
+That evening she brought the plan to Chiron. He looked at the volunteer list and asked what happened if somebody was injured.
+
+"The relevant station stops. We don't transfer an untrained camper to the tools just to keep to the schedule. Someone checks the injury with the healer and we reschedule the work."
+
+"And if the weather changes?"
+
+"We cover the materials, clear the paths and stop until we can inspect the site."
+
+"Good. Who is responsible for making that decision?"
+
+Annabeth hesitated. She wanted to say she was. The entire project had begun in her head. She had organized the interviews, made the models and drawn the roof. It felt natural to assume she should decide when the work was safe.
+
+"The supervising instructor," she said. "I can make recommendations. I shouldn't overrule someone responsible for the tools or the site."
+
+Chiron nodded. "That distinction will matter."
+
+He signed the volunteer schedule with a note to the workshop staff. Annabeth returned to the arts cabin and found Percy trying to calculate how many buckets of gravel he could carry without making two trips.
+
+"How many do you want me to move?" he asked.
+
+"Whatever you can safely carry after sword class. We don't have to do everything in one afternoon."
+
+He studied her. "You're getting sensible."
+
+"Please don't tell anybody. It would ruin my reputation."
+
+They worked on the final checklist together. Percy drew a little fish beside the section of the plan that described the drainage channel. Annabeth erased the fish because it covered the measurement, then redrew a smaller one in the margin when she saw his expression.
+
+They finished just before curfew. The schedule was less ambitious, the drawing was more precise and nobody had been promised they could finish the entire shrine in a weekend. Annabeth felt nervous about how much remained uncertain. She also trusted the plan more.
+
+On Friday the first group collected its tools. Nico arrived early, carrying his own ruler. Clarisse came after training and asked where the large stones were stacked. Silena brought water and a first-aid kit. Percy appeared with a notebook and a borrowed wheelbarrow whose wheel squeaked on every turn.
+
+Annabeth looked at the people standing around her. They had not been conscripted into her dream. They had chosen what they wanted to help build. She gave them the revised schedule and began with a safety briefing, not a speech about what the shrine would mean when it was finished.
+
+---
+
 Saturday dawned clear and gold.
 
 Annabeth woke before the horn, dressed in her oldest t-shirt and shorts, laced her sneakers double-tight, and tucked her hair back with a bandana Silena had lent her (pink, with white stars — Silena insisted architects needed signature style). She rolled up her proposal and stuck it in her backpack with pencils, tape measure, string, stakes, work gloves, and the peanut butter sandwiches Thalia had made at midnight because "founders need snacks."
