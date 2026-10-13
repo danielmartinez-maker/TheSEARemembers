@@ -5498,3 +5498,181 @@ She took another bite of bread, then reached for his hand beneath the blanket.
 
 The door remained closed until they were ready to go outside.
 ---
+
+## December 29: An Afternoon in the Village
+
+The village was eight miles from camp, which was close enough to visit and far enough that Thalia had never bothered doing it without a reason.
+
+Rhys wanted new guitar strings. The nearest place that sold them was a small music shop beside the bakery, and he had asked whether she wanted to come. It was the least romantic invitation she could imagine, which was precisely why she accepted.
+
+They left after breakfast, riding in the supply van with two instructors going into town for winter provisions. Thalia sat by the window and watched the last of the camp buildings disappear behind the trees. The road curved along the edge of the lake before turning toward a low cluster of houses and shops. She had made the trip before, usually in a hurry, with a list of things someone needed and a deadline to get back.
+
+Today there was no deadline beyond the van's return at five.
+
+Rhys sat beside her with his guitar case across his knees. He was talking about a string he'd been trying to replace for weeks, its unusual gauge and the way he kept breaking the cheaper substitutes. Thalia listened with half her attention while the other half considered how strange it felt to be going somewhere with him that belonged to neither camp nor the privacy of his cabin.
+
+At the edge of the village he caught her hand.
+
+She turned toward him.
+
+"What?"
+
+"Nothing."
+
+"Then why are you looking at me?"
+
+"Because you look as if you're preparing for battle."
+
+"I'm looking at a road."
+
+"Very aggressive road."
+
+She smiled and squeezed his fingers.
+
+The music shop was narrow and warm, crowded with instruments, old posters and a collection of small wooden stools that looked as though they had been chosen specifically to trip customers. A bell rang when they entered. Behind the counter sat a woman who appeared to know Rhys already.
+
+"Back again?" she said.
+
+"Unfortunately."
+
+"Still breaking strings?"
+
+"Only the important ones."
+
+Thalia looked at him. "You have a reputation."
+
+"A terrible one."
+
+The woman brought out a drawer of spare strings and began helping him choose a replacement. Thalia wandered toward the back of the shop, where a small upright piano stood beside a shelf of secondhand music. Its keys were yellowed, and the lid had been scratched by generations of careless players.
+
+She sat down and tried the opening of Rhys's tune.
+
+The piano was better tuned than the instrument in the hall. The first phrase sounded warmer, and the pause fell into its place without effort. She played the second line, then stumbled over a chord she'd been struggling with since December.
+
+"Wrong finger," Rhys said behind her.
+
+She turned. He stood in the aisle holding a packet of strings, looking unbearably pleased with himself.
+
+"Your music is defective."
+
+"Try the left hand first."
+
+"I know."
+
+"Then show me."
+
+She played the passage again. He watched her hands, then reached around to point out the note she was missing. His sleeve brushed her shoulder. The small touch distracted her more than an entire lecture could have done.
+
+"You're doing that on purpose," she said.
+
+"Correcting your fingering?"
+
+"Distracting me."
+
+He grinned. "Maybe."
+
+She caught his hand and kissed his knuckles, a brief gesture that startled him into silence. The shopkeeper looked up from the counter, smiled to herself and returned to her work.
+
+Thalia pretended not to notice.
+
+They bought the strings and left.
+
+Outside, the air smelled of bread and cold stone. The main street was busy with people finishing errands before the new year. Nobody looked at them for longer than a moment. A man carried a box of vegetables into a restaurant. Two children ran past arguing about a toy they'd both wanted. A woman stood in front of a shop window considering a coat she apparently had no intention of buying.
+
+Thalia realized she was watching the ordinary life of the village with an odd curiosity. These people had no reason to know who she was. They would not look at her and think of Zeus, or the archery range, or the responsibilities she'd assumed at camp. To them she was simply a young woman walking beside a man who held her hand.
+
+The anonymity was pleasant.
+
+Rhys led her into the bakery. They bought hot rolls and cups of tea, then sat at a small table near the window. The chairs were comfortable, the heater worked and nobody asked them to fix anything.
+
+"An extraordinary place," Thalia said.
+
+Rhys looked up. "The bakery?"
+
+"They've invented a room where people are allowed to sit without being useful."
+
+He laughed.
+
+"You're enjoying yourself."
+
+"Possibly."
+
+"Then we should come back."
+
+She looked at him. The invitation was simple, and she was surprised by how much she wanted to accept.
+
+"We could," she said.
+
+"Next month?"
+
+"Maybe."
+
+He raised an eyebrow.
+
+"You're going to make that word your entire personality."
+
+"Too late."
+
+She laughed and broke her roll in half.
+
+They spent the next hour talking about nothing especially important. Rhys told her about the first time he'd visited the shop, when he was thirteen and had saved for months to buy a secondhand instrument. Thalia told him about a winter when Annabeth had insisted on making every meal herself until the kitchen ran out of clean pans. They argued about which of them had been worse at thirteen. Neither was willing to concede.
+
+At one point he reached across the table and took her hand.
+
+"You're quiet," he said.
+
+She looked out the window. "I'm thinking."
+
+"About what?"
+
+"That I like being here."
+
+He smiled. "Good."
+
+"Not only with you."
+
+"Also good."
+
+She looked back at him. "I like that nobody knows us. I like that I can be sitting here and not have to be the daughter of anybody important."
+
+He considered that.
+
+"You're still you," he said.
+
+"Yes. But nobody has decided what that means before they meet me."
+
+He nodded. He knew something about that himself, though he didn't make a speech about it. Being an Apollo child had brought expectations about music and healing and archery long before he'd been old enough to decide which of those things he wanted to be good at. Thalia could see that he understood.
+
+She squeezed his hand.
+
+"Thank you for bringing me."
+
+"You're welcome."
+
+"Don't get sentimental."
+
+"I'm doing my best."
+
+They stayed until the cups were empty and the afternoon light had begun to fade. Then they walked back toward the van. At the corner near the bakery, Rhys stopped beneath a small shop awning and drew her closer.
+
+She met the kiss gladly. It was brief, warm and entirely unremarkable to the people passing on the street. A woman walked by carrying flowers; a boy hurried past with a bicycle. Nobody cared. That ordinary indifference pleased Thalia more than she'd expected.
+
+When they separated, Rhys smiled at her.
+
+"What?"
+
+"Nothing."
+
+"You're lying."
+
+"Maybe."
+
+She kissed him once more, simply because she could.
+
+On the ride back to camp she leaned against his shoulder and watched the village disappear behind the trees. The guitar strings were safe in the bag between them. The day had contained no dramatic event, no danger and no test of their relationship. She had enjoyed it enormously.
+
+Later, when he asked whether she wanted to come to his cabin, she said yes without turning it into a performance. They spent the evening close together, talking about the village and kissing whenever the conversation gave them a reason to stop. She liked that the private warmth of the cabin followed so naturally from the freedom of the afternoon outside it.
+
+The world beyond camp was still full of difficulties. For one day, they had visited a piece of it together and found they were capable of simply being happy there.
+
+---
