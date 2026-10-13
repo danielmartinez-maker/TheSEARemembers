@@ -500,6 +500,194 @@ The visitors were alive, safe for tonight, and free to decide how much of their 
 
 ---
 
+Percy found Grover at the irrigation ditch, holding a wet sheet of paper.
+
+He had been looking for his friend since the late lunch. The satyrs had carried Grover away to hear about monsters and the Underworld, and Percy had assumed they'd keep him busy until dinner. Instead, Grover was kneeling by the board they'd repaired before the quest, reading a message so carefully that he didn't notice Percy approaching.
+
+"Hey," Percy said.
+
+Grover started, then held the paper against his chest.
+
+"Sorry. Thought you were one of the Stolls."
+
+"Is it a bill?"
+
+"No. It's the report about Uncle Ferdinand."
+
+Percy stopped. "Did Chiron hear from the recovery team?"
+
+"Yes. This morning. They've got him at a place where they can keep him safe. They still don't know how to reverse the stone." Grover looked down at the paper. "There's a specialist coming. They told Chiron he doesn't have to keep asking every day because they'll contact him when something changes."
+
+"That sounds good."
+
+"It sounds like they don't know anything."
+
+Percy sat on the grass beside him. He could see the bottom of the letter, a case number and the name of a person at the nymph depot. That was more information than they'd had when they first found Uncle Ferdinand in the garden. It was also not the thing Grover wanted.
+
+"I thought bringing him out would fix it," Grover said.
+
+"Me too."
+
+"I know we got him away from Medusa. I know. And I know some of the others are still there waiting for help. But when everybody cheered today, I kept thinking about him not being able to hear it."
+
+Percy had no good answer. The celebration had been for the bolt, the end of an immediate threat between gods, the fact the four of them had returned alive. It hadn't solved what Medusa had done to the people she turned into statues. It hadn't made Ferdinand whole.
+
+"Do you want to go see him?" Percy asked.
+
+"Eventually. When the team says it's safe. Right now I'd just stand there and get in the way." Grover rubbed his eyes with the back of his hand. "I hate that I know that."
+
+Percy remembered the day they'd loaded the stone figures into the van. Grover had been angry when they told him they couldn't carry everybody. It wasn't because he didn't understand. It was because understanding the limit made it hurt more.
+
+"There's something we can do," Percy said.
+
+Grover gave him a suspicious look. "Is it a plan?"
+
+"Probably a bad one."
+
+"Good. I'm tired of everybody having sensible plans."
+
+Percy picked up a twig and pointed to the repaired board. "The satyrs do a planting day for people who aren't at camp, don't they? When somebody goes on a trip or doesn't come back in spring?"
+
+Grover nodded. "Juniper organizes it."
+
+"Then could we plant something for the people who are still stone? Not as a memorial. As something they'll get to see if they come here."
+
+Grover thought about it. He didn't smile immediately.
+
+"It should be something they'd actually like," he said. "Uncle Ferdinand would complain if we planted a tree that dropped sticky fruit on the grass."
+
+"Then don't plant sticky fruit."
+
+"His favorite was a little serviceberry. They bloom early. He used to say the birds came before the satyrs because birds knew a good breakfast when they saw one."
+
+Percy had never met Ferdinand as a living person. Hearing Grover talk about his preferences made him more real than any statue.
+
+"We could ask Juniper."
+
+Grover looked toward the young maples, where Juniper was crouched beside a basket of weeds. She saw them, stood and came over with a puzzled expression.
+
+"Is something wrong with the ditch?"
+
+"No," Grover said. "It's holding."
+
+"Good." She looked at the letter in his hands. "Did the report come?"
+
+He nodded. Juniper didn't ask to read it. She waited while Grover told her what the recovery team knew, leaving out the parts that sounded too much like promises. Percy watched how carefully she listened. When he finished, she put one hand on his shoulder.
+
+"I'd like to plant something he knows," she said.
+
+Grover's eyes filled. "I was going to ask you that."
+
+"You can ask me now."
+
+He laughed weakly. Then they discussed the location. Juniper wouldn't let them put a tree beside the irrigation ditch where its roots might interfere with the board; she suggested the dry patch near the fence. Grover worried it would be too far from the maple she tended. Juniper explained how much sun it would need, and how the young serviceberry would grow if they kept the soil watered for its first summer.
+
+Percy listened until Grover handed him the measuring string they'd used before the quest.
+
+"Hold that end."
+
+"I thought I wasn't allowed to do heavy work."
+
+"Holding string isn't heavy work."
+
+"That sounds like an argument Silena would make."
+
+Grover finally smiled.
+
+They measured the planting spot. The ground was still uneven from an old wheelbarrow rut, so Percy marked it with a small stake rather than trying to dig while his ribs were healing. Juniper promised to get the right seedling from the nursery and check with the groundskeepers before planting it. Nobody pretended it would happen that evening.
+
+Grover folded the report and slid it into his bag.
+
+"It's not a grave," he said.
+
+"No," Juniper answered. "It's a place for him when he's able to visit."
+
+Percy thought about the statues remaining in the garden. He couldn't promise any of them would recover. He could keep their names on the list and ask Chiron whether specialists had reached the rest. That was smaller than the promise he'd wanted to make. It also gave him something to do tomorrow that didn't require starting a fight.
+
+When they returned to the path, Bianca and Nico were standing a few yards away with Chiron.
+
+Nico held a little practice shield and looked as though he'd won a prize. Bianca was watching the cabins with a different expression, more cautious than excited. Percy had seen her in Hades's court, looking at him as if she was deciding whether he was trustworthy. She seemed to be doing the same thing now.
+
+"Are you going to the campfire?" Percy asked.
+
+Nico nodded. "Can I?"
+
+"Of course you can. It's not a court hearing."
+
+Bianca lifted an eyebrow. "Will everybody be watching us?"
+
+"Some people will," Percy said. "They watched us when we got here too. I can ask Chiron where you can sit if you don't want questions."
+
+"I can ask him myself," Bianca answered.
+
+Percy winced. "Right. Sorry."
+
+Chiron looked faintly amused.
+
+"Nico wants to see the fire," he said. "Bianca wants to know whether leaving early would offend anyone."
+
+"It wouldn't," Percy answered. "Grover has left campfires early when he was tired. Sometimes I have."
+
+"Sometimes Thalia makes you," Grover added.
+
+"That's a different kind of early."
+
+Bianca considered that. "Then we'll go for a little while. If Nico likes it, we can stay until he's tired. If he doesn't, we leave."
+
+Nico looked shocked that leaving was a possibility. "Why wouldn't I like it?"
+
+"You don't know yet," she said.
+
+Percy was struck by the answer. The kids had been moved from a guarded palace into a camp full of strangers, and everyone seemed eager to tell them they'd love it. Bianca was making sure her brother could decide for himself.
+
+"Can you show me where the games are?" Nico asked Percy.
+
+"After the fire, if Chiron says it's all right."
+
+Nico opened his mouth to argue. Bianca nudged him.
+
+"He's asking permission because we are guests," she told him. "Remember?"
+
+"Fine."
+
+Percy tried not to smile. He knew that sibling tone. Clarisse used it when he was getting ahead of himself, and Silena used it when he was pretending to be too grown-up for a bath.
+
+They walked together toward the amphitheater. Grover and Juniper stopped to check the watering hose. Nico asked a dozen questions about the cabins, the sword lessons and whether Pegasus feathers could be collected without hurting the horses. Bianca listened to his questions and occasionally asked one of her own, mostly about who supervised the younger campers.
+
+Percy answered what he knew. When he didn't know, he said so.
+
+At the edge of the amphitheater, Bianca looked back toward the hill.
+
+"Does the camp border really keep monsters out?"
+
+"Most of them," Percy said. "Not every danger. We still have guards and rules."
+
+"That's what I wanted to know."
+
+Nico tugged her sleeve. "Can we go sit?"
+
+She nodded. The two of them went down the steps together, choosing a place near the aisle where they could leave without asking a whole row of campers to move. Percy watched them settle. Chiron stayed close enough to be called but didn't sit down beside them.
+
+Grover returned to Percy's side with a small smile.
+
+"Juniper says we can plant the serviceberry by the fence."
+
+"Good."
+
+"And she wants me to pick the spot tomorrow when the light's better."
+
+Percy looked at his friend. "You don't have to pick it alone."
+
+"I know." Grover took a breath. "I'm glad we're home."
+
+Percy glanced at the boy from the Underworld waving toward the fire, the girl keeping her brother's options open, and the satyr holding a letter about someone who was still waiting for help.
+
+"Me too," he said.
+
+Grover went to find Juniper. Percy stayed at the edge of the steps a moment longer. Then he walked down to join his own family.
+
+---
+
 By sunset the whole camp migrated to the amphitheater for the campfire.
 
 The fire in the central pit was already roaring, magically tall and gold and warm without smoke. The logs were stacked high. The Apollo kids had their guitars out. The Hephaestus kids had rigged a string of blue fairy lights that pulsed in time to the flames. Blankets covered the stone steps. The air smelled like toasted marshmallows and cedar and lake water.
