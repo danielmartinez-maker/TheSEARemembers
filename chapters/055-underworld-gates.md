@@ -4,11 +4,11 @@ Percy knew they had reached Los Angeles because the air stopped smelling like an
 
 It was late in the day and the light was white and flat. The highway stretched out in six lanes in each direction and every lane was full. Cars sat bumper to bumper under a pale haze. Palm trees lined the frontage road, dusty and tired. Billboards rose over the traffic, advertising movies and lawyers and a water park that promised cool fun. The heat came up off the asphalt in waves and made the whole city shimmer.
 
-Martin drove with both hands on the wheel. Her black hair was pulled back in a ponytail and sweat stuck the short pieces to her neck. Her silver circlet was pushed up on her head like a headband. She kept checking the mirrors and muttering under her breath.
+Martin drove with both hands on the wheel. Beside him, Thalia's black hair was pulled back in a ponytail, with the shorter pieces sticking to her neck. Her silver circlet was pushed up like a headband. She checked the mirrors and muttered under her breath while Martin watched the road.
 
 "If one more guy cuts us off, I am going to ask Chiron why he thought the roads were safer than the monsters," Thalia said from the front passenger seat.
 
-"Please do not," Annabeth said from the passenger seat. She had the map folded open on her knees and a tourist guide to Los Angeles tucked under it. She looked pale and tired, but her eyes were sharp. "We are close. We do not need a police chase on top of the Underworld."
+"Please do not," Annabeth said from the second row, where her map was spread open across her knees. She had the map folded open on her knees and a tourist guide to Los Angeles tucked under it. She looked pale and tired, but her eyes were sharp. "We are close. We do not need a police chase on top of the Underworld."
 
 Grover sat in the back next to Percy with his backpack on his lap. His horns were hidden under a green beanie that was soaked with sweat. His sneakers were unlaced because his fake feet hurt. He kept lifting his nose and sniffing, then making a face.
 
