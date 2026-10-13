@@ -314,9 +314,101 @@ He saluted with the spear and nearly took out a dummy. Thalia laughed all the wa
 
 ---
 
+Micah was already waiting at the shallow dock when Percy arrived.
+
+He had put on his flotation vest backward. The instructor was standing a few steps away, watching him try to fasten a strap that didn't reach the buckle.
+
+"Hold on," Percy said. "Let me help you turn it around."
+
+Micah looked down, embarrassed.
+
+"The pictures on the tag were confusing," he admitted.
+
+"They are. I put mine on wrong the first time I used one on the surface."
+
+That was only partly true. Percy had used all kinds of flotation gear during his time in Atlantis, but he didn't remember those lessons from childhood. His first clear memory of a surface vest belonged to a school trip with Sally in the life he remembered. The equipment had been orange and smelled like plastic, and the instructor had spent ten minutes showing everyone how to secure it properly.
+
+Percy asked the water-safety instructor to check Micah's straps once the vest was turned around. She adjusted the fit and made him demonstrate that he could move his arms without the vest riding up.
+
+"Good," she said. "Now tell me what you'll do if the canoe tips."
+
+Micah looked at Percy. Percy didn't answer for him.
+
+"Stay with the boat and call for help," Micah said.
+
+"And keep the vest fastened. We'll be close enough to assist you."
+
+They went through the rest of the safety instructions before touching the canoe. Micah had wanted the lesson because his cabinmates made paddling look easy, but he had never been comfortable with deep water. The flooded trunk hadn't helped. He knew the rain inside the cabin wasn't the same as a lake, yet the sound of water moving where it shouldn't still made him nervous.
+
+"I don't want to fall in," he told Percy.
+
+"Then we'll practice at the dock first. You don't have to paddle out today."
+
+The instructor approved. She secured the canoe alongside the lowest platform, with its broadest section beside a stable step. Percy held the bow line while Micah practiced placing one foot at a time, keeping his weight low and using his hand on the gunwale for balance.
+
+The first attempt was too quick. The canoe shifted, and Micah jumped back onto the dock.
+
+"I'm terrible."
+
+"You moved before you'd settled your weight," Percy said. "Try it more slowly."
+
+Micah made another attempt. He stopped halfway and looked down at the dark water below the dock.
+
+"What if it moves?"
+
+"It will move. That's what boats do. The goal isn't to make it stop moving. It's to know how to sit so the movement doesn't throw you over."
+
+The boy considered the advice. He was used to Percy's demonstrations with water, the way a wave could become a shield or a staircase. He'd hoped Percy might simply make the lake hold the canoe still.
+
+"Can you keep it from rocking?" he asked.
+
+"I could, but then you wouldn't learn how it feels when nobody is controlling the water. The instructor can stop us if we need to."
+
+Micah looked toward her. She nodded.
+
+They tried again. This time Micah entered the canoe and sat where the instructor indicated. He gripped the sides so hard his fingers whitened.
+
+"Relax one hand at a time," the instructor said. "Keep the paddle across your knees for now."
+
+He did. The canoe rocked gently against its lines. Nothing dramatic happened.
+
+Percy smiled. "There you go."
+
+Micah stayed seated for a few minutes, learning what normal movement felt like. He wanted to try the paddle next, but the instructor decided they had enough time only for basic handling at the dock.
+
+"That's still progress," Percy told him.
+
+"I know. I wanted to go farther."
+
+"Then we'll ask about another lesson when your counselor says you're ready."
+
+Micah looked at the open lake. A group of older campers was returning from a longer route, their paddles moving together. He could imagine doing that someday without feeling sick with worry. He wasn't there yet, and Percy hadn't pretended he was.
+
+They helped return the canoe to its rack. Micah checked that his vest was clean and hung it where the instructor indicated. He thanked Percy, then asked whether he would teach the next session.
+
+"I can help if I'm available and the instructor agrees," Percy said. "I won't promise a time until I check my schedule."
+
+Micah laughed. "You forgot this one."
+
+"I did. I'm trying not to do it again."
+
+He went to lunch with the other beginners. Percy stayed to help the instructor record the completed familiarization in the class log.
+
+"That was good," she said.
+
+"I didn't teach him very much."
+
+"You helped him stay with a task that frightened him. And you didn't use your power to make the exercise easier than the conditions he'd face on his own."
+
+Percy looked at the canoe racks. He had once thought being a child of Poseidon meant every water problem should be easier for him than for anyone else. Today the most useful thing he'd done was hold a rope and let another boy learn at his own pace.
+
+He finished the log, returned the pencil and hurried toward the library. Annabeth would be waiting with her own work, and he had several hours of ordinary plans left to keep.
+
+---
+
 The camp library at midday was quiet, with light coming straight down through the high windows and making squares on the floor.
 
-Percy slipped in eleven minutes late, out of breath, sand still in his hair. The place smelled of old paper and cedar and the lemon oil the Athena kids used on the shelves. At noon it was empty except for dust and Annabeth Grace, daughter of Zeus and Thalia's younger sister, with her boots up on a table and three books open around her.
+Percy slipped in shortly after one, out of breath, sand still in his hair. The place smelled of old paper and cedar and the lemon oil the Athena kids used on the shelves. In the early afternoon it was empty except for dust and Annabeth Grace, daughter of Zeus and Thalia's younger sister, with her boots up on a table and three books open around her.
 
 She was already deep in architecture again — not war machines and siege engines, but temples. How they held weight. How they let light in. How people thousands of years dead had figured out how to make stone feel like sky.
 
