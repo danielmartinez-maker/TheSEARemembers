@@ -28,6 +28,12 @@ He remembered snow from mortal school in New York in his original life, when cla
 
 "Whoa," Percy breathed. His breath fogged the air.
 
+It had been a long November. School in Atlantis had made Percy better at reading currents, but it hadn't prepared him for how quiet Camp Half-Blood became once most of its summer campers went home. Clarisse and Silena had returned for their winter break only two days earlier, bringing extra coats and enough teasing to make Cabin Three sound occupied again. Grover had a few days of approved leave from his first Searcher route before reporting back to the Council. Thalia had come from Westover Hall for the same break.
+
+Now all of them were here at once, and the snow had arrived before anyone could agree how to spend the morning.
+
+Percy glanced at the weather notice Chiron had sent overnight, folded beside his bunk. The barrier was stable. The paths might not be. Chiron had asked campers to wear boots and report damage before treating the weather as a game. Percy had read the notice, then fallen asleep thinking about sleds. He wondered whether that counted as having followed instructions.
+
 The door banged open.
 
 "Percy! Are you seeing this? Are you awake?" Tyson filled the doorway, snow on his huge shoulders, snow in his eyebrows, grinning so wide Percy thought his face might crack. He wore two different scarves and a wool cap pulled low over one eye. "It is snow! Real snow! At camp! Lady Amphitrite says it happens once every many years when the currents turn cold and Lord Boreas sneezes!"
@@ -94,7 +100,7 @@ And then, from the path to the white marble cabin on the hill, two figures appea
 
 Percy knew them before he could see their faces. He would have known Annabeth's walk anywhere, quick and purposeful even in snow boots, blueprint tube gone for once, replaced by a thermos. And Thalia's longer stride beside her, hands in pockets, black hair with its silver streak bright against a gray hat.
 
-Annabeth Grace. Daughter of Zeus in this history. Twelve years old, same as Percy. Thalia Grace's little sister.
+Annabeth Grace. Daughter of Zeus in this history. Thirteen now, like Percy, and Thalia Grace's little sister.
 
 She saw him and her whole face lit up.
 
@@ -242,7 +248,7 @@ It was perfect for it. Flat, wide, white, with low drifts for cover. Hay bales a
 
 On the Poseidon side: Clarisse in front, already building an arsenal, barking orders like a general. Silena beside her, calmly packing perfect spheres and stacking them in neat pyramids. Percy, snow in his blue pom-pom hat, sleeves pushed up. Tyson, who counted as artillery all by himself, humming while he rolled a ball as big as a pumpkin.
 
-On the Zeus side: Thalia in front, grinning. Annabeth beside her, already surveying angles, pointing out sight lines. Two year-rounder Zeus kids behind them, armed to the teeth.
+On the Zeus side: Thalia in front, grinning. Annabeth beside her, already surveying angles, pointing out sight lines. Two Hermes campers who had joined the Zeus team for balanced numbers stood behind them, armed with snowballs.
 
 A crowd gathered along the sidelines with cider cups. Grover and Ella dragged their pot to a bench. Chiron watched from the Big House porch with binoculars.
 
