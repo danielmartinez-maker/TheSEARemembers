@@ -587,15 +587,28 @@ Percy came in last and shut the door on the cold and stood a moment with his bac
 
 His sisters were in it. His girlfriend was on the step outside, shaking the frost off her hood and arguing with her sister about a file that had not been returned properly to a forge. The letter was hanging on a hook a quarter mile down the road with forty other pieces of paper, one of which had a pressed maple leaf tied to it with blue thread.
 
-It had been a Thursday. Nothing had happened. Nobody had fought and nothing had broken and there had been no storm and no panel and no ice on the lake to prove anything about anybody. The mail had come up the hill and the mail had gone down the hill, and in between, four people had sat at a long table and written the things they would have said out loud if the people they loved had been in the room.
+It had been a Thursday with a very ordinary sort of consequence: the letters were gone, and the people who had written them would have to wait. Percy looked once more at the empty space beside the ink bottle on the table. He couldn't retrieve a line he'd written in haste or make the recipient answer before the mail reached them.
 
-"You're doing the thing," Clarisse said, without looking up.
+"You're doing the thing," Clarisse said without looking up.
 
-"What thing."
+"What thing?"
 
-"Standing at the door looking at the room like it's going to be taken off you." She squared her page on the table. "It's not. Sit down, it's Thursday, we're doing the fire, and if you stand there any longer I'll put you on wood for a week."
+"Standing in the doorway until somebody tells you the day went correctly." She moved her paper aside to make room. "Sit down. We're checking the fireplace before the night shift."
 
-Percy sat down. Annabeth came in behind him and hung her coat on the hook and took her field book to the table and sat down at the place that had her pencil on it, and the lamp in the window went on burning out into the dark down the hill, where the road was, and the post, and a canvas sack with the whole week's truth in it, waiting for six o'clock in the morning.
+Percy sat. Silena handed him the little metal poker while she lifted the screen and inspected its hinge. It had begun to drag against the stone, which was exactly the sort of problem Clarisse would put on tomorrow's list if they left it. Percy held the screen in place. Clarisse tightened the fastening, tested it twice, and only then pushed the tool aside.
+
+Annabeth came in, stamping the frost from her boots. Thalia followed, still complaining about a file that had not been returned to the forge. Neither of them asked Percy what he'd written. Annabeth put her field book by the lamp and began looking for a clean pencil.
+
+"Did the mail go?" she asked him.
+
+"Six in the morning."
+
+"You checked?"
+
+"I watched them seal the sack."
+
+"Then you've done your part."
+
+He considered pointing out that writing a letter was an exceptionally small part of most problems. But Silena was bringing tea, and Clarisse was asking him to carry the repaired screen back toward the hearth. He got up to help. The letter would take the road without him; the people in the room still needed hands. He could be useful here while he waited.
 
 ---
-
