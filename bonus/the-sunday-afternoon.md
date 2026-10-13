@@ -2290,3 +2290,175 @@ He kissed her forehead. She turned toward him and kissed him properly, a slower 
 When she finally closed her eyes, the rain had stopped. The cabin smelled of warm wood and the faint sweetness of cider. She would wake early, probably before him, and leave when she chose. For tonight, the question of departure could wait.
 
 ---
+
+Saturday morning Thalia woke after seven.
+
+At first she didn't understand the light. It was too bright, coming through the quilted window in a broad pale square. She lay still, trying to work out what she'd forgotten. Then she heard Rhys breathing beside her and remembered that she had stayed the whole night without setting herself a departure time.
+
+That was new.
+
+She had always been the person awake first. When she was younger, being first had felt necessary. If something was wrong in the house, she wanted to know before anybody else. If there was a decision to make, she wanted it made. Her body had learned to wake long before other people were ready to begin the day.
+
+Here, her body had done something disobedient. It had slept.
+
+She turned her head toward Rhys. His hair had fallen over one eye, and his hand rested loosely on the blanket between them. He looked younger asleep, his expression relaxed and unguarded. She was struck by the urge to touch his face, then by the memory that she didn't have to invent a reason. She brushed the hair away from his eye.
+
+He stirred.
+
+"Morning," he murmured.
+
+"Apparently."
+
+He opened one eye. "What time?"
+
+"Late."
+
+"How late?"
+
+"Past seven."
+
+He smiled sleepily. "That's a respectable hour."
+
+"It's a disgrace."
+
+"Good. I've been a bad influence."
+
+She should have got up. Her boots were by the door. Her coat hung beside his. She could be home before anyone needed her, with enough time to claim she'd been out walking. But the thought held no appeal. She lay back against the pillow and watched the light move across the wall.
+
+Rhys shifted closer and rested an arm around her.
+
+"Comfortable?" he asked.
+
+"Don't make a thing of it."
+
+"I wasn't planning to."
+
+"Good."
+
+They were quiet for a while. She could hear distant voices on the path and the clang of a bucket being set down outside another cabin. Ordinary camp noises. For once they did not summon her.
+
+"You've never stayed this late," he said.
+
+"Clearly I've been missing an opportunity."
+
+He smiled. "You can stay as long as you want."
+
+"I know."
+
+"Do you?"
+
+She looked at him. The question wasn't an accusation. He had seen enough of her habits to know that she sometimes treated departures as a form of discipline.
+
+"I think I'm learning," she said.
+
+His smile changed. He drew her closer, and she rested her head against his shoulder. The warmth of him was familiar now, yet she still felt a small thrill at being able to reach for him without worrying that the gesture would ask too much.
+
+After a while she kissed him. He kissed her back, gently, without trying to wake the rest of the world. The quiet affection of the morning was different from the anticipation of the night before, but no less intimate. She liked that. She liked having more than one way to be close.
+
+At eight he got up to make breakfast. She watched him cross the room and felt the unusual pleasure of not having to be useful. He found bread, eggs, and the last of a jar of jam. The stove took a few minutes to warm, and he complained about it in the tone of somebody addressing a difficult relative.
+
+"Would you like help?" she asked from the cot.
+
+"Not yet."
+
+"Are you sure?"
+
+"Very."
+
+She made herself stay where she was. He was perfectly capable of cooking eggs. She had seen evidence of it, in fact, and there was no reason to take over the job simply because she knew how.
+
+He returned with two plates and a grin.
+
+"Breakfast in bed," he announced.
+
+"This is a camp cot."
+
+"Then breakfast on the camp cot."
+
+"Much less romantic."
+
+"I'll have to improve the marketing."
+
+She laughed. They ate sitting cross-legged beneath the blanket, careful not to spill crumbs onto the sheets. Rhys told her that the letter from his mother had finally been answered and that he expected to hear back within the week. He was still uncertain about the trip home. There were details to settle: train times, whether somebody could cover his lessons, how much help she actually needed.
+
+Thalia listened.
+
+"Does she know about me?" she asked.
+
+He looked surprised. "Not really."
+
+"What does 'not really' mean?"
+
+"She knows I've been spending time with someone at camp."
+
+"That's evasive."
+
+"I didn't give her your name without asking you first."
+
+She considered. "You could tell her my name."
+
+"Are you sure?"
+
+"Yes. I don't want you pretending I'm a secret."
+
+He smiled slightly. "I thought you liked being private."
+
+"I do. There's a difference."
+
+He nodded. "I'll tell her."
+
+She looked down at her plate. She had surprised herself again. A week ago she'd been irritated by the photograph on his shelf, and now she was giving him permission to tell his mother he was seeing her. The two choices weren't contradictory. One involved an image displayed without her agreement; the other involved a person he loved knowing about someone who mattered to him. She could draw the line where she chose.
+
+"Can I ask you something?" she said.
+
+"Yes."
+
+"If you go home, will you write?"
+
+He looked at her. "Of course."
+
+"I don't want a letter every day."
+
+"Good. I'd run out of things to say."
+
+"That hasn't stopped you before."
+
+He laughed. "Maybe once a week?"
+
+She thought about it. "That's reasonable."
+
+"And you can write when you want."
+
+"I have terrible handwriting."
+
+"I've seen the slate."
+
+"Then you've been warned."
+
+He reached for her hand. She let him take it.
+
+"I'd like to know what you're doing," he said. "Not every hour. Just the things you'd want to tell me if I were here."
+
+She considered. It was almost the same request she'd made when he was tired: tell the truth, don't invent a performance to keep the other person satisfied.
+
+"I can try," she said.
+
+He smiled. "So can I."
+
+They finished breakfast and cleared the plates together. At the door she put on her boots slowly, making sure the heel wrap sat correctly. Rhys handed her coat over without telling her how to manage it. She appreciated that he had learned the difference between concern and commentary.
+
+"See you later?" he asked.
+
+"Maybe."
+
+He grinned. "There it is."
+
+She stepped forward and kissed him. The kiss was lingering and warm, a farewell that felt less like leaving something behind than carrying it with her.
+
+When she reached the path, she looked back once. He was still on the porch, watching her with a small smile. She raised a hand in farewell and kept walking.
+
+At Cabin One, she found the morning well underway. Nothing had collapsed in her absence. No one had needed her at four. She had slept beside someone she wanted, eaten breakfast without rushing, and made a small plan for the possibility that he might leave for a while.
+
+It was a good morning. She didn't need to turn it into a lesson.
+
+---
