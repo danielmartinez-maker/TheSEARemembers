@@ -104,7 +104,7 @@ Thalia looked at him, surprised.
 
 She studied the first page. Jason had included jokes addressed to Percy and Connor, and a section of greetings meant for friends. The later pages were written in the same small hand but had no headings. Thalia turned a few without reading them aloud.
 
-"Maybe I'll read the funny parts first," she said. "Then I'll look at the rest myself. If he has something he actually wants you to know, I can tell you."
+"I'll read as much as I want to," she said. "If I reach something private, I'll stop. You don't get to complain."
 
 Annabeth nodded. "I'd like to hear about the city. I don't need to know what he thinks of you when you're crying at two in the morning."
 
@@ -116,9 +116,9 @@ Percy laughed. It took some of the tension out of the moment.
 
 Clarisse and Silena moved a little farther away and began sorting the snacks Silena had brought. They weren't leaving, but they weren't leaning over Thalia's shoulder either. Percy sat back against the trunk beside Annabeth.
 
-Thalia picked the pages she wanted to share and placed the others beneath the leather tube.
+Thalia glanced through the pages once more, looking for anything Jason had marked as private. He'd addressed jokes to Percy, a sketch request to Annabeth, greetings to the others and a long account of his own daily life. She chose to read it aloud, including the parts that made her nervous.
 
-"Okay," she said. "These are the parts with names you know and the bits about Roman camp. Later I might show you more. I'm not promising."
+"Okay," she said. "If I stop, you let me stop. This is his letter and my choice."
 
 "Fair," Percy said.
 
