@@ -60,7 +60,69 @@ Annabeth squeezed her arm. "Of course."
 
 "Yeah," Percy said. "Read, Thals."
 
-Thalia cleared her throat, glanced at the first line, laughed, wiped her eyes already, and began.
+Before Thalia began, Chiron came up the path carrying a receipt.
+
+She looked at him as though he were about to confiscate the letter.
+
+"I am not asking for the pages," he said. "The Roman courier requires a signed acknowledgment that the packet reached its intended recipient. The contents are yours."
+
+Thalia accepted the small paper. The eagle had been so impressive that nobody had stopped to ask whether it was a formal messenger or an omen from Zeus. Percy realized the distinction mattered. Zeus had withdrawn eagle escorts from his daughters during the quest; a bird sent by the Roman postal network was not a quiet restoration of those privileges.
+
+"Is this from Jupiter?" Annabeth asked.
+
+"From the legion's courier service, acting with its own authorization," Chiron answered. "I verified the seal before the delivery was accepted. There is no indication Zeus arranged it."
+
+Thalia glanced at the letter tube. "Good."
+
+She signed the receipt. Chiron tucked it away and asked whether she needed a private space in the Big House. She thanked him, then said she wanted to remain under the oak.
+
+"You can send your reply through the agreed channel," he added. "Please don't tie it to whichever eagle happens to land next. Couriers have routes. The Roman camp has rules about visitors and packages, and we will respect them."
+
+"Even if the eagle likes bacon?" Percy asked.
+
+"Even then."
+
+Chiron smiled and went back toward the porch.
+
+Thalia unfolded the letter again. Percy noticed she was holding the first page with both hands, as though she feared it would blow away despite the still morning.
+
+"There's something I should ask," she said.
+
+Silena lifted her head. "What?"
+
+"Jason wrote to me. He might not want every word read to five other people just because you're all here."
+
+Nobody argued. Percy had assumed Thalia would share it because she'd been waiting for months, but he recognized the problem. Jason had written to his sister, not to the entire Greek camp.
+
+"We can leave," Percy said.
+
+Thalia looked at him, surprised.
+
+"I didn't say that."
+
+"You don't have to say it."
+
+She studied the first page. Jason had included jokes addressed to Percy and Connor, and a section of greetings meant for friends. The later pages were written in the same small hand but had no headings. Thalia turned a few without reading them aloud.
+
+"Maybe I'll read the funny parts first," she said. "Then I'll look at the rest myself. If he has something he actually wants you to know, I can tell you."
+
+Annabeth nodded. "I'd like to hear about the city. I don't need to know what he thinks of you when you're crying at two in the morning."
+
+Thalia gave her a look. "I never cry at two in the morning."
+
+"No, you wait until three."
+
+Percy laughed. It took some of the tension out of the moment.
+
+Clarisse and Silena moved a little farther away and began sorting the snacks Silena had brought. They weren't leaving, but they weren't leaning over Thalia's shoulder either. Percy sat back against the trunk beside Annabeth.
+
+Thalia picked the pages she wanted to share and placed the others beneath the leather tube.
+
+"Okay," she said. "These are the parts with names you know and the bits about Roman camp. Later I might show you more. I'm not promising."
+
+"Fair," Percy said.
+
+She began to read.
 
 ---
 
