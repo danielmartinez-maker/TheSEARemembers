@@ -947,3 +947,177 @@ He was glad they had come. He was also glad they were leaving with more than a c
 
 
 ---
+
+The trouble came when they reached the upper channel.
+
+Not an attack. Not even a failure, strictly speaking. The escort ahead of Percy stopped beside a pair of stone markers, examined the shell at his wrist and asked everyone to wait. The water was moving differently from the forecast. A band of colder current had swung across the marked route, running hard enough to pull at the edges of their protective charms.
+
+Nerion had warned them that a diversion might be necessary. Even so, Percy felt the first anxious tightening in his chest. At this depth he could move comfortably on his own. Clarisse and Silena could swim against more resistance than a human should manage, too. But Annabeth and Thalia were depending on the palace charms, the escort and a route that had just changed.
+
+"How far around?" Clarisse asked.
+
+"We have two alternatives," Nerion said. "The inner shelf is sheltered but longer. The outer passage is shorter, though the current is stronger."
+
+"The longer one," Annabeth answered.
+
+Nerion looked at her, then at Thalia.
+
+"She answered," Thalia said. "You heard her."
+
+The guard nodded. "The sheltered route it is."
+
+They moved along the rock shelf in pairs, making room when the corridor narrowed. Percy stayed beside Annabeth. He could feel the colder band running past them on the other side of the reef, and he understood why Nerion hadn't simply tried to force his original course. The water was not dangerous merely because it had changed. What made it dangerous was pretending that yesterday's measurements still described every inch of it.
+
+Halfway through the detour, Silena's notes slipped from their protective sleeve. The folder stayed closed, but the fastening had loosened and one corner lifted into the flow.
+
+"I need a moment," she said.
+
+The group stopped. Triton reached toward the bag; Silena caught it first.
+
+"I have it."
+
+He withdrew his hand. She tightened the closure, gave it a hard pull, then held the folder out where Nerion could see it.
+
+"Is that secure enough for the rest of the passage?"
+
+"It should be," he said. "If you'd rather have it carried in the sealed equipment case, we can put it there."
+
+She considered the offer. "Yes, please. I don't want to lose the workshop agreement just to prove I can carry it myself."
+
+They transferred the folder. Nobody made a joke about her needing rescue, and nobody told her the bag was fine when it wasn't. Percy wished every problem in his family could be handled as simply.
+
+The final passage rose toward a patch of bright water. They surfaced in Long Island Sound, near the protected shoreline where camp's watch had arranged to meet them. Chiron stood above the tide line, with a clipboard beneath his arm and a clean blanket folded over the rock beside him.
+
+"Welcome back," he said.
+
+He counted them without making the process ceremonial. Percy, Clarisse, Silena, Annabeth and Thalia. Nerion and Triton remained in the water until the handoff was complete, then confirmed that all loaned charms had been collected.
+
+"Any injury?" Chiron asked.
+
+"No," Clarisse said. "My wrist's still the same. I stopped the drill when it pulled."
+
+"Any route changes?"
+
+"Yes," Annabeth answered. "The outer current shifted. Nerion took us by the sheltered shelf instead."
+
+"Do you have the alternate route marked?"
+
+She showed him the copy they'd been allowed to keep. The protected passages weren't identified on the public sketch, but there was enough detail for Chiron to confirm they'd used the approved exit. He noted the deviation and thanked Nerion for stopping rather than trying to meet the expected arrival time.
+
+The guard gave Silena back her sealed folder. She checked that the contents were dry and put the documents inside her own bag.
+
+"Anything else?" Chiron asked.
+
+"A training note for me," Clarisse said. "A possible craft agreement for Silena. Neither of us signed up for a recurring program."
+
+"Good to know. We'll review the details if either of you wants my approval."
+
+Percy watched Clarisse's shoulders loosen. Chiron wasn't treating the palace offer as an obligation merely because it was generous.
+
+Triton came to the edge of the water. "Thank you for bringing them back safely," he told Nerion.
+
+"It is my duty, my prince."
+
+"And you altered the route correctly."
+
+Nerion nodded once, clearly pleased that the decision hadn't been questioned.
+
+They said goodbye without a long speech. Triton gave Percy a brief, fierce hug that left a wet mark across his shirt, then stepped back into the saltwater current. He didn't ask when Percy would come again. He only told him to write when the workshop responses arrived.
+
+Chiron guided the campers toward the dry path.
+
+"What was different about this visit?" he asked once they reached the pines.
+
+Percy thought about the first time he'd entered Atlantis with his sisters and wanted everybody to love it without reservations.
+
+"This time nobody needed me to introduce every room," he said.
+
+"That sounds as though they were comfortable enough to make their own plans."
+
+"Some were."
+
+"Some weren't?"
+
+"Clarisse hated the idea of a permanent training schedule. Silena found a sentence in the craft agreement that would have let the palace reproduce her designs. Both said no to the terms without saying no to the people."
+
+Chiron listened. "And you?"
+
+"I kept hoping I could make everything easy for them."
+
+"Did you?"
+
+"No."
+
+"Did they ask you to?"
+
+Percy smiled despite himself. "No."
+
+They reached the lower clearing where the paths divided. Clarisse and Silena went ahead to Cabin Three, arguing over whether the court's water-based footwork could be adapted for the arena. Annabeth and Thalia followed the path toward Cabin One. Percy lingered with Chiron a moment longer.
+
+"I'm glad they went," he said.
+
+"So am I."
+
+"And I'm glad we're here."
+
+"Then go join them."
+
+At Cabin Three the objects came out of the bags in a different order from the first visit. Clarisse put the training note on the shelf beside her regular exercise log. Silena spread the amended craft terms flat on the worktable and set a weight over each corner. Percy took out the route card and checked it against the earlier version, marking where the detour had occurred without adding details the guard had asked him to keep private.
+
+He wanted to frame all of it as a successful family trip. He knew better than to say it before hearing what the others thought.
+
+Silena read the reproduction clause again. The supervisor had crossed it out and written that any future permission would require a separate agreement with the maker. She'd signed the amendment, but Silena had not accepted the exhibition itself.
+
+"Are you going to make something?" Percy asked.
+
+"I think so. I want to try a small carrying case with the new seam. But if the material doesn't behave on land, I'm not going to make something unsafe just to have my name in a palace display."
+
+"Could you use ordinary canvas?"
+
+"That's what I intend to test."
+
+Clarisse took out her training note. "And I need Chiron to look at this drill before I teach it. Mera designed it for moving water. If I copy it on sand without changing the footwork, I'll be teaching the wrong thing."
+
+Percy had never seen his sisters so content with a day that had brought home unfinished work.
+
+He fetched Silena's measuring tape and a pencil for Clarisse. They did not ask him to complete either project; they just let him stay while they discussed them. Silena finally sent him to bring water from the fountain, since the three of them had eaten little during the journey.
+
+Later, Annabeth arrived with a short message from the public archives. The archivist had agreed to correct the older corridor plan, and she could expect a copy of the change when the work was done. Annabeth placed the note beside Silena's agreement.
+
+"We have a very exciting pile of papers," Percy observed.
+
+"You're welcome to leave," Clarisse said.
+
+"I'm admiring the paperwork."
+
+"Then admire from over there. You're sitting on my training sheet."
+
+He stood quickly. Annabeth laughed, and he made room for her at the table. She'd brought a copy of the garden chart to compare with Percy’s route record. Thalia followed a few minutes later carrying bread, having decided they were all too occupied to remember dinner on their own.
+
+This time the conversation did not end with everyone promising to stay together forever. Silena wanted an hour alone tomorrow to work. Clarisse had arena duty in the morning and planned to postpone sparring until her wrist had fully recovered. Annabeth needed to finish an unrelated assignment for Chiron before she returned to her drawings. Thalia was going to write Jason, who would be annoyed if she let another week go by without answering his last letter.
+
+Percy listened to the plans and realized he wasn't mentioned in all of them. It was an odd relief. The day in Atlantis hadn't turned their lives into one shared schedule.
+
+After the table had been cleared, he took Annabeth outside. They stood by the porch railing, listening to Silena shut a drawer and Clarisse tell Thalia to stop stealing bread.
+
+"Did the terrace feel different this time?" he asked.
+
+"A little."
+
+"How?"
+
+"I knew I could ask the archivist something without coming through you. I knew where the exit was. I didn't have to imagine the palace was trying to make me somebody else."
+
+"And you still wanted to come?"
+
+"Yes." She considered him. "I also wanted to leave when we did. Both things are true."
+
+Percy turned her words over. The water beyond the cabins was the freshwater lake, not a secret route back to Atlantis. He had come home. He could miss the garden tomorrow, or the next day, without needing to transform the place he'd left into a place that demanded his return.
+
+Annabeth tucked her hand into his, gave it one squeeze, then told him Thalia was waiting to walk back to Cabin One. He accompanied her to the fork and let her go there. It was an ordinary goodnight, not a cliffhanger.
+
+When he returned to the cabin, the amended craft agreement lay beside the training notes. No one had put either document away yet. They were still deciding. Percy took his route card to his own shelf and made a small mark beside the date. It would be useful when they told the story later, to remember that the passage home had changed and they'd chosen the slower path.
+
+He went to bed with that thought. A good visit was not one in which nothing went wrong or every guest made the same choice. It was one people could leave honestly, carrying something they wanted to use again.
+
+---
