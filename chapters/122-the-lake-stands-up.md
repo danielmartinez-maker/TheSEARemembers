@@ -928,6 +928,282 @@ Triton raised an eyebrow. "I'm sure you will."
 
 They walked back to the Big House while the dinner workers lit the first lamps, and for once Percy wasn't rehearsing what he would say at the palace. He was thinking about a guest card, an ordinary exit, a meal that wouldn't wait for an absent father, and a prince with grease on his sleeve. Those seemed like better preparations than getting a spoon right on the first try.
 
+Thalia found Annabeth behind the Big House at the end of the lesson, standing over the guest-card sketch with her pencil arrested halfway through a line.
+
+"Does it have to be perfect?" Thalia asked.
+
+"Have you met me?"
+
+"Several times. You were very annoying the first time."
+
+"I was seven."
+
+"You were annoyingly precise at seven."
+
+Annabeth made a last mark and sat back on her heels. She had drawn the guest card as a small folded sheet with room for the party's names, the return route, and the steward's seal. It was good, but she could already see what wasn't. They still didn't know how a visitor underwater breathed in places that weren't part of the palace's protected architecture. They didn't know whether a human attendant could escort people all the way to the surface. And there was the little matter of a god who had promised to meet them and could change his mind without warning.
+
+"I should ask Chiron about the guards," she said.
+
+"You should ask Triton."
+
+"He's biased."
+
+"Everyone's biased. You ask him, compare his answer with Chiron's, and decide how much you trust the plan."
+
+Annabeth pushed a loose strand of hair away from her face. "You sound like you trust him."
+
+"I don't know him well enough to trust him with your safety. That's different from deciding he's lying."
+
+"That's a very careful distinction."
+
+"I can be careful."
+
+Annabeth raised an eyebrow. Thalia flicked a pine needle at her.
+
+"Sometimes," Thalia amended.
+
+Annabeth tucked the card into her notebook. "I want to go."
+
+"I know."
+
+"Not just because Percy wants me there."
+
+"I know that too."
+
+"I want to see how they make a building stand underwater without crushing the people inside it. I want to see the channels and the old stone. I want to understand what Triton means when he says the doors obey the tide."
+
+"Then say that when somebody asks why you're coming."
+
+Annabeth gave her a skeptical look. "I sound like I only care about the architecture."
+
+"You don't. You've spent all morning asking how people leave when they don't want to stay. That's not architecture. That's people."
+
+She looked at the guest card again. Thalia waited, hands tucked into her pockets, refusing to decide what her sister would say next.
+
+"Are you coming because you want to?" Annabeth asked.
+
+Thalia looked toward the canoe dock where Triton had gone to fix the oarlock. "Partly. I'd like to see Percy with his family when there's no camp around to tell everybody what their roles are."
+
+"And partly?"
+
+"Because I don't want you to have to handle our father alone."
+
+Annabeth closed the notebook. The word *our* still mattered to her. Zeus had appeared in so many forms over the years that she could recognize his voice more readily than his face, and even that voice could change between affection and a command in a breath.
+
+"He said he wouldn't come," Annabeth said.
+
+"He says lots of things."
+
+"Are you going to tell me not to go?"
+
+"No. I am going to ask what we do if he turns up anyway."
+
+Annabeth thought. "We don't argue with him in front of a room full of strangers."
+
+"Reasonable. But if he addresses you like you're five?"
+
+"You let me answer first."
+
+"And if he won't let you?"
+
+"Then we leave."
+
+Thalia nodded. "That works."
+
+"We have to actually do it, not just say it."
+
+"Annabeth, I have dragged you away from dinner before. I am capable of dragging you away from a palace."
+
+"That's not what I meant. I want to choose when we leave."
+
+Thalia held her gaze for a moment. Annabeth could see the objection forming: what if she made a bad choice, what if waiting made the situation worse, what if there was a threat she'd fail to recognize? Thalia had raised her from childhood; the instinct to act first had kept her safe more often than either of them could count. It was also making it harder for Annabeth to grow.
+
+"Fine," Thalia said. "You give me a signal if you want help. Not one I invent for you. You decide it."
+
+Annabeth considered the possibilities. She could have chosen something elaborate and secret. She picked the simplest thing.
+
+"I'll say your name."
+
+"You say my name all day."
+
+"I'll say, 'Thalia, I want to leave.' No guessing."
+
+"Then I'll help you leave."
+
+"And if I don't say it?"
+
+"I'll ask whether you want to."
+
+The answer was not a magical guarantee, but it was better than an agreement Thalia wouldn't remember when she was frightened. Annabeth wrote the words on the back of her guest card and folded it.
+
+"You're keeping that?" Thalia asked.
+
+"Yes. I keep most of our agreements in writing."
+
+"Terrible habit."
+
+"Excellent habit."
+
+Thalia sat beside her in the shade and took the pencil when Annabeth offered it. She wrote her own name beside the line, more heavily than necessary. Annabeth made a face at the indentation left on the paper.
+
+"Your handwriting is a structural hazard."
+
+"Then ask Triton to repair it."
+
+They were still laughing when Silena approached with the basket of practice napkins and asked whether they wanted to help fold them for storage. Annabeth stood, reached for one end of the basket, and stopped herself before offering to carry the whole thing.
+
+"Do you want help?" she asked.
+
+Silena smiled. "Yes. I asked."
+
+"Right."
+
+Thalia carried the empty card box. They walked toward the pavilion together, the guest card now tucked between the sketches of Atlantis and the measurements of a bridge Annabeth might someday build.
+
+---
+
+Clarisse had refused to wear a ceremonial cloak. This had been understood by everyone except Triton, who appeared on the training field carrying a length of blue cloth that looked expensive enough to buy several cabins.
+
+"No," she said, before he reached her.
+
+"I haven't said what it is."
+
+"Your face said it."
+
+"Your face says several things. Most of them unprintable."
+
+Silena came out of the weapons shed carrying a practice spear. She saw the cloth and began to laugh.
+
+"It's only for formal arrival," Triton said. "You would wear it during the procession into the receiving hall."
+
+"We're arriving through the water."
+
+"Yes."
+
+"Then it gets wet."
+
+"The fabric is prepared for that."
+
+"And then I drag it around a palace while trying not to trip over it?"
+
+Triton began to explain how the tail of the cloak was weighted to follow its wearer in a current. Clarisse gave him the expression she used when a training partner demonstrated a trick too elaborate to survive a real fight.
+
+"Show me," she said.
+
+He draped the cloth over his shoulders. The blue dropped around him in a perfect line. He walked, turned, stepped backward and knelt. To his credit, the cloak moved with him rather than tangling around his ankles. Silena examined the fastenings, interested despite herself.
+
+"Those clasps are clever," she said. "They release if the cloth gets caught."
+
+"Exactly," Triton replied.
+
+Clarisse put her spear against the outside of his knee.
+
+"Now defend yourself."
+
+"I beg your pardon?"
+
+"If a guest has to wear this, I want to know what happens when a guard mistakes them for a threat."
+
+Triton looked at the spear. Then he looked at Silena, who raised both hands in surrender to the logic of the situation.
+
+"I can take the cloak off first," he said.
+
+"That avoids the question."
+
+"Not every garment needs to function as armor."
+
+"And not every guest needs to be dressed as decoration."
+
+Triton loosened the clasp and let the blue fabric slide into his hands. He folded it across the bench. "You may wear your own clothes," he said.
+
+"Good."
+
+"If you wish, we can arrange a smaller insignia indicating the guest wing."
+
+"Maybe. If it's useful."
+
+Silena came closer. "Do they have to mark us at all?"
+
+"No. It would help staff recognize you."
+
+"Then explain that instead of bringing us a cloak."
+
+Triton glanced at his brother, who had arrived carrying a packet of oarlock leather. Percy lifted his eyebrows, plainly refusing to save him.
+
+"The insignia," Triton said, "is an option. Not a requirement. I apologize for assuming."
+
+Clarisse rested the butt of her spear on the sand. "Accepted."
+
+"Can I ask you something in return?"
+
+"Ask."
+
+"Why do you use a practice spear whose shaft is shorter than your reach?"
+
+Clarisse looked down. The shaft was old and had been repaired near one end. The grip was polished smooth where her palms found it.
+
+"Because it teaches me to close distance," she said. "A longer spear would make the same drill easier."
+
+"At the cost of leaving your front side unprotected when you're too close."
+
+"Only if I let you get too close."
+
+"May I try?"
+
+"Finally," Clarisse said. "A lesson with a point."
+
+They took positions in the circle. Percy stepped back to the fence. Silena leaned the cloak on the bench and offered to keep time. Triton chose a blunted staff from the rack and measured the distance between them with a glance.
+
+On the first pass Clarisse drove forward quickly and caught his staff under hers. Triton stepped sideways instead of retreating. She had to abandon her attack to keep him from moving behind her. He didn't strike. He stopped at the opening and showed her where she'd left it.
+
+"That is what I mean," he said.
+
+"Fine. Again."
+
+The second pass went differently. She shortened her grip, drove the point toward his shoulder and used the butt to guard her other side. Triton was fast enough to keep pace. She felt the weight shift before he moved, caught him with a controlled tap against the ribs, and smiled without trying to hide her satisfaction.
+
+"Point," Silena called.
+
+"To Clarisse," Triton agreed.
+
+"Again," Clarisse said.
+
+Percy expected them to make a competition of it. They did for a few minutes, but not in the way he'd feared. Each exchange ended with a concrete explanation of what had worked and what hadn't. Triton corrected one of Clarisse's angles; she challenged his habit of leaving his legs too narrow when the surface wasn't perfectly level. Silena kept the score on a scrap of paper and ignored Percy's efforts to claim honorary points for cheering.
+
+When they finished, Clarisse had won three of the seven passes. Triton set his staff aside and rubbed his forearm where she'd struck him.
+
+"Your technique is good," he said.
+
+"I know."
+
+"You don't need me to tell you."
+
+"No. But I can still hear it."
+
+Silena handed them water. Triton looked from one sister to the other.
+
+"I was thinking of the palace as something I had to explain before you could enter," he admitted. "I've been forgetting that you already know how to enter unfamiliar places."
+
+Clarisse drank before answering. "You do know things we don't. We came to learn them. I just don't want you to turn every lesson into a test of whether we're good enough to be there."
+
+"Understood."
+
+"And I'm still not wearing the cloak."
+
+"I had gathered that."
+
+Silena picked up the blue cloth and examined one of the fastenings. "Can I borrow it to see how the release works?"
+
+"Of course."
+
+She turned the clasp over in her hand. "I have an idea for a bag strap that should do the same thing if a satyr gets it caught on a fence."
+
+"That is not its intended use," Triton said.
+
+"It would be a better one," Clarisse replied.
+
+Percy followed them toward the pavilion carrying the folded cloak. They passed the repaired canoe, where the Hephaestus boy was already testing the oarlock and finding it held. Triton stopped to ask whether it needed anything further, accepted that it didn't, and joined the others without making another ceremony out of helping.
+
 By the time the sun leaned toward the pine trees, Triton had reviewed their greetings three times and the table rules until Percy could identify the spoon for pearlfruit.
 
 “What is pearlfruit?” Clarisse asked.
