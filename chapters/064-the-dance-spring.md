@@ -1222,6 +1222,8 @@ Percy leaned his shoulder against Tyson's arm for a second.
 
 "Me too."
 
+Percy paused at the cabin door. In the morning he'd worried the whole night would be judged by whether he remembered the steps or managed the right compliment. He'd forgotten several steps, and once he'd said something ridiculous about kelp. Annabeth had danced with him anyway. That seemed more useful to remember than the precise number of mistakes he'd made.
+
 They went inside together. Tyson placed the repaired sandal near the door with a note for its owner, and Percy put his damp dance shirt in the laundry bag before Silena could discover he'd left it on the floor.
 
 Above stars burned steady. The pine on Half-Blood Hill rustled, guarding them all asleep.
