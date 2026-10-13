@@ -366,6 +366,101 @@ When they dismounted, Silena rubbed Current’s neck and asked to ride again tom
 
 ---
 
+The stable master did not let them leave immediately.
+
+"There is a problem with the outer rail," she told Triton. "Wavecut pushed against it again this morning. The fittings hold, but the middle bar bends."
+
+Clarisse turned back. "How much does it bend?"
+
+"Enough that I want it replaced before the next riding session."
+
+"I can help," Percy said.
+
+"You can help me measure it," the stable master replied. "The work is for the forge crew."
+
+Tyson, who had been showing Annabeth the hippocamps' feeding troughs, came over at once. His eye lit up.
+
+"Forge work? I can ask the crew!"
+
+"You may," she said. "But don't replace anything before I approve the dimensions. That rail separates two animals that can push with more force than you expect."
+
+Tyson took the warning seriously. He fetched a cord, a wooden gauge and a slate from the toolroom. Annabeth knelt near the base of the rail and measured the distance between the posts. Percy held the cord at the far end. Clarisse steadied the loose section, lifting it with one hand so they could see how the fastener moved.
+
+"That bar was bent before this visit," Clarisse observed.
+
+"Yes," the stable master said. "But Wavecut leaned on it again today. We need the replacement to withstand another push, not just look straight."
+
+Annabeth checked the angle from both sides. "Could the new bar attach to the outer face of the posts?"
+
+"It could. But we'd have to move the feed station."
+
+"Why?"
+
+"Because the trough sits behind that post. The handlers need a clear path when an animal gets restless."
+
+Annabeth looked at her first sketch and erased the line she'd drawn. "Then it needs to stay on the inside. Can you show me where the handlers walk?"
+
+The master did. It meant leaving a wider gap than Annabeth had initially wanted. Percy watched her revise the plan without complaining. She didn't need the first drawing to be correct. She needed the finished rail to be safe.
+
+Tyson took the measurements and went to the forge crew with the stable master. He returned a short while later with an estimate, not a finished bar. The new fitting would require the night to cool and could be tested tomorrow morning.
+
+"Then nobody rides Wavecut through that gate tonight," the stable master said.
+
+Clarisse looked disappointed. She had been talking about trying the outer loop. But she nodded. "Another day."
+
+"Another day," Triton agreed.
+
+Percy leaned against the wall and watched the stable workers move a temporary barrier into place. The palace could make nearly anything he imagined, but it was still made of things that bent, wore out and required people who knew how to mend them.
+
+He walked beside Tyson as they left.
+
+"Do you remember when I helped you build something here?" Percy asked.
+
+Tyson stopped. "I remember. You were small and you held a wrench upside down."
+
+Percy smiled. "I don't remember it."
+
+"I know." Tyson scratched the back of his neck. "I can tell the story if you want. But it won't become a memory just because I tell it."
+
+"Tell me."
+
+"We made a little shelf. It held shells and one rock and then it fell because I used the wrong screws."
+
+"You used the wrong screws?"
+
+"Yes. Even I did once."
+
+"That must have been a historic event."
+
+Tyson laughed. "Triton says so. We fixed the shelf the next day. You were angry because it had fallen. I said it was still our shelf even when it needed repair."
+
+Percy looked back at the stables. "That sounds like something you'd say."
+
+"I did say it. But you don't have to believe it was your favorite shelf. You can like the things we make now."
+
+"I'd like that."
+
+Tyson reached down to squeeze his shoulder, then took his hand away when Percy shifted to avoid a low arch. Percy was grateful for the ordinary awareness of how bodies moved in a place designed for people who spent much of their lives underwater.
+
+At the next corridor, they found Silena studying a woven curtain that moved even when the current was still. She had identified the pattern that kept its edges from fraying. She was considering whether it would work with the heavier cloth at camp.
+
+"I don't suppose I could borrow a sample?" she asked the attendant.
+
+"You may take a finished swatch from the workshop," the attendant said. "Not from the curtain."
+
+"Exactly what I was going to ask."
+
+They walked together to the workshop. A young craftswoman showed Silena three possible fibers, each with different strengths underwater and in open air. Silena tested the knots gently, making notes rather than treating the workshop as a box of souvenirs. Clarisse came in to look at the fasteners and ended up asking whether the people who maintained the doors had ever been allowed to redesign them.
+
+The craftswoman laughed. "We do it all the time. The council is slower about approving it than we are about drawing it."
+
+"Sounds like camp," Clarisse said.
+
+Percy watched the conversation move easily without him. His sisters were not merely collecting pieces of his childhood. They were finding parts of Atlantis that interested them on their own terms. That felt more generous than anything he could have arranged with a speech about how much he wanted them to belong.
+
+
+---
+
 By late afternoon, the family gathered in the small dining room overlooking the garden. A bowl of water at the table’s center reflected the sea above. Roasted shellfish, kelp rolls, citrus, and warm bread passed from hand to hand.
 
 Clarisse chose a spot with a view of the doors. Silena sat beside her. Annabeth and Thalia settled across from them. Tyson sat next to Percy, who had to move his chair twice to leave enough space for Tyson’s shoulders.
