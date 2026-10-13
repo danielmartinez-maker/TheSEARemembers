@@ -9106,3 +9106,181 @@ She looked up at him, smiling.
 He laughed, and she kissed him again.
 
 ---
+
+## Sunday, March 3: The Afternoon She Chose Again
+
+The first warm afternoon in March arrived without warning.
+
+Thalia had been expecting another day of grey sky and wet grass. Instead the clouds lifted shortly after noon, leaving the north path bright and nearly dry. The lake reflected a strip of clear blue, and the air carried the faint smell of soil beginning to thaw.
+
+She stood outside Cabin One with a book under one arm and considered what she wanted to do with the afternoon.
+
+There were things she could work on. The advanced program needed another review, and the assistant instructor had left three questions in the margin of the latest plan. Annabeth had asked whether she could check the measurements near the east wall. Chiron would be pleased if Thalia spent an hour with the winter equipment list.
+
+None was urgent.
+
+She put the book away and went north.
+
+The path was familiar. She knew every bend, every uneven stone and the lantern bracket that rattled when the wind came off the lake. It had been months since the first Monday evening when she'd walked this way in Percy's oversized coat, furious at her aching heel and at the fact that she wanted someone enough to risk looking foolish.
+
+The heel no longer troubled her. The wanting remained.
+
+She smiled as she climbed the last rise.
+
+Rhys was at the workbench, his sleeves rolled, working on a piece of music. The door stood partly open to let in the warm air. Through the gap she could see him bent over the score, a pencil between his fingers and his hair falling across his forehead.
+
+She stopped for a moment and watched.
+
+He hadn't changed into a different person since the first Sunday afternoon. He still lost pencils, still left unfinished work on every available surface, still looked absurdly pleased when a piece of music finally behaved as he wanted. She had learned the shape of his concentration, the brief frown before he crossed out a note and the smile that came when he found a better answer.
+
+She wanted to interrupt him.
+
+She went in without knocking.
+
+Rhys looked up.
+
+"You're here."
+
+She smiled. "I'm here."
+
+"It's the middle of the day."
+
+"Very good observation."
+
+He looked toward the window, then at her face.
+
+"Is something wrong?"
+
+"Not at all."
+
+She crossed the room, took the pencil from his fingers and put it safely on the table.
+
+"Then what brings you here?"
+
+"You."
+
+He blinked, then smiled.
+
+She kissed him.
+
+The kiss was immediate and eager, and she could feel him moving toward her before she had quite finished closing the distance. There was no awkwardness in it now, no need to invent a professional reason for crossing the threshold. She wanted him, and he was delighted that she'd come.
+
+His hands rested at her waist. She drew him closer, smiling when he tried to say something and found her mouth again instead.
+
+The old room had not grown larger. The workbench was still too close to the table, and the cot still complained when someone sat on its edge. But she knew how to move through it now, where to put her coat and where the floor creaked. She liked the familiarity as much as the anticipation.
+
+When they drew apart, Rhys was laughing softly.
+
+"That was unexpected."
+
+"Was it?"
+
+"I was supposed to finish the score."
+
+"You can finish it later."
+
+"You're very demanding."
+
+"I've been told."
+
+She kissed him again, and the argument ended.
+
+The afternoon moved slowly. Outside, the sun settled into the grass and made the last patches of frost shine along the fence. Inside, the cabin warmed enough that they opened the upper window. They talked when they wanted to, teased each other about the unfinished music and enjoyed the quiet when conversation became unnecessary.
+
+Thalia liked how easy the intimacy had become without losing its intensity. She could still surprise him, still feel the sudden pleasure of seeing his expression change when she touched his face or caught his hand. She could also rest against him afterward, no performance required, and know that he was pleased she stayed.
+
+At some point Rhys reached for the lamp, though it was still daylight.
+
+"Leave it," she said.
+
+He looked at her.
+
+"Why?"
+
+"Because I like seeing you."
+
+His smile softened.
+
+She caught his hand and drew him back toward her.
+
+The rest of the afternoon belonged to them.
+
+***
+
+Later they sat on the floor with their backs against the cot, eating the bread Thalia had found in his cupboard. The sunlight had moved across the boards, leaving a bright square near the doorway.
+
+Rhys looked at the empty plate.
+
+"You know, you've been here for four hours."
+
+"Your counting skills are improving."
+
+"You haven't looked at the clock once."
+
+"That's because I don't want to."
+
+He smiled. She rested her head against his shoulder.
+
+"I was thinking about the first Sunday," she said.
+
+"November?"
+
+"Yes."
+
+"You arrived without knocking."
+
+"I did today."
+
+"Some things never change."
+
+She looked at him. "Some things have."
+
+He considered. "Yes."
+
+They sat quietly for a while.
+
+Thalia thought about the months between those two afternoons. The letters he'd sent from home. The first time she'd held his hand in public without wanting to look over her shoulder. The argument about the photograph, the concert, the difficult choices they had begun to make about spring. None of it had made the relationship easy. It had made it theirs.
+
+"You know what I like?" she asked.
+
+"Your own opinions?"
+
+"Obviously."
+
+He laughed.
+
+"I like that I can be here all afternoon and it doesn't feel as if I've neglected the rest of my life."
+
+Rhys looked at her. "You haven't."
+
+"I know. That's new."
+
+He took her hand.
+
+She leaned over and kissed him, slowly enough that the small sound of the stove fading behind them became noticeable. The kiss was warm, comfortable and still capable of making her want to stay another hour.
+
+When they drew apart, the sun was beginning to lower.
+
+"Are you staying for supper?" he asked.
+
+She considered.
+
+"Yes."
+
+He smiled. "Good."
+
+"But I'm cooking."
+
+He looked alarmed. "Should I be concerned?"
+
+"Very."
+
+She laughed and stood, pulling him up beside her.
+
+They found enough food for a meal and began arguing about how to prepare it. The argument was unimportant. That was why she enjoyed it. No one was trying to prove who cared more or who would leave first. They were two people who wanted to spend an evening together, working out how to make supper in a cabin with a very small kitchen.
+
+The warmth outside would not last. Spring would bring new work, travel and the possibility of more distance. Thalia knew that. She also knew she would choose another afternoon with him when she could, not because she owed him one, but because she wanted it.
+
+For now, they had supper to make.
+
+---
