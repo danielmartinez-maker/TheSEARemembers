@@ -692,6 +692,94 @@ Ordinary. Best kind.
 
 ---
 
+After dinner, Percy found Micah outside the Hermes cabin with a scrap of paper in his hand.
+
+The boy had been waiting beside the steps, watching the older campers come back from the pavilion. When he saw Percy, he stood up so abruptly that he almost dropped the paper.
+
+"Can I show you something?"
+
+Percy nodded. Micah held out a drawing of a canoe with three arrows marking the way a person should step into it. He'd drawn a small figure in a flotation vest beside the lowest part of the dock. The vest was bright orange, colored so thoroughly that the paper had begun to tear.
+
+"I made it after the lesson," Micah said.
+
+Percy studied the drawing. The canoe was lopsided and the arrows didn't quite match the angle of the dock. But the order was right: hold the side, keep the weight low, sit before reaching for the paddle.
+
+"You remembered."
+
+"Most of it. I couldn't draw the way it rocks."
+
+"Nobody can draw every movement. You could write a note about it."
+
+Micah considered. "I don't want to write too much. The pictures are easier."
+
+"Then draw the boat in two positions. It tilts a little, then comes back."
+
+The boy took the pencil and added a second line beneath the canoe. It made the drawing less tidy and more accurate.
+
+"Like this?"
+
+"Yes."
+
+Micah looked pleased. He had spent months at camp thinking he'd never be comfortable on water. Today he'd sat in a canoe without anyone making the lake do something unnatural to keep him safe. The lesson hadn't made him brave enough to paddle across the lake. It had made him willing to try again.
+
+"Can I have another lesson?" he asked.
+
+"Ask the instructor. If she schedules it and I'm free, I'll come help."
+
+"Okay."
+
+Percy gave back the drawing. He was tempted to tell Micah that he'd be excellent at canoeing one day. He couldn't know that. The boy might never enjoy long paddles, and there was no reason he had to. The goal was to make water safe enough that he could choose what he wanted to do near it.
+
+"Good work today," Percy said.
+
+Micah smiled. "You too."
+
+The compliment surprised Percy enough to make him laugh.
+
+He returned to Cabin Three and found Silena placing the circlet's cloth bag on her shelf. She had promised to deliver it to the performer tomorrow, and she was checking the rehearsal time against the workshop note.
+
+"How was your day?" she asked.
+
+"Busy."
+
+"That sounds like everybody's day."
+
+"I thought ordinary meant we wouldn't have things to worry about."
+
+She considered. "Ordinary is mostly things people have to do. It just means we can do them without somebody announcing a quest first."
+
+Percy looked at the circlet. She had solved a problem in the forge because she'd spent time thinking and testing, not because she had access to the sea. Clarisse had given him an honest correction about his schedule. Annabeth had worked on buildings he wasn't required to join. Grover had paddled with him because they enjoyed one another's company.
+
+He wanted to remember that none of it had required a prophecy.
+
+Silena handed him a cloth to wipe down the shelf.
+
+"Would you mind doing this while I put the tools away?"
+
+"Sure."
+
+He cleared the space, cleaned away the dust and moved a stack of old cards to the right place. He had already spent the day keeping promises. He could finish it with one more small task for his sister.
+
+Clarisse came in with a training strap in her hand. She inspected the neat shelf and raised an eyebrow.
+
+"Who did that?"
+
+"Me."
+
+"Good. Tomorrow you can do the other one."
+
+"That's how you reward people?"
+
+"That's how I know you can be trusted."
+
+She went to her bunk. Silena laughed and gave Percy back the cloth.
+
+He set the circlet bag neatly in its place, then took out the schedule from his pocket. One line remained unchecked: *ask Micah how the lesson felt*. He marked it done and left the paper beside his bed so he could use it again if another day filled up faster than he expected.
+
+He was tired in a different way than after a fight. He liked it.
+
+---
+
 Percy waited until the Poseidon cabin was quiet.
 
 It didn't take long — Clarisse out before her head hit the pillow, Silena mumbling about shell settings in her sleep. The guest hammock in the corner stayed folded. Tyson had headed back to the forges where he bunked when he visited. Percy lay in his bunk and listened to his sisters settle, feeling like a lighthouse keeper making sure all the lights were out except his.
