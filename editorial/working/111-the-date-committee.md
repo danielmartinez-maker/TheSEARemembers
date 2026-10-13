@@ -851,3 +851,377 @@ The berries were in good condition. Annabeth had chosen the place. He was suppos
 Percy took his time walking back to Cabin Three. For once, preparation felt more like making space than setting a trap for a perfect moment.
 
 ---
+
+Annabeth almost missed dinner because a roof diagram refused to behave.
+
+The temporary spout at Cabin One would hold for a night. Charlie had done good work, and Thalia had checked it twice. But Annabeth had changed one measurement on the drawing, then realized the new angle put the end of the pipe exactly where somebody carrying a full laundry basket would walk into it.
+
+She rubbed out the mark, drew it again, and moved the bracket.
+
+"You're going to wear a hole in the page," Thalia said from the porch.
+
+"I'm moving the outlet."
+
+"Charlie said he can come back tomorrow."
+
+"I know."
+
+"Then this can be tomorrow's problem."
+
+Annabeth looked up. Thalia was leaning against the doorframe with her arms folded, but she wasn't blocking the exit or watching for Percy. There was a smear of dark wood dust on her wrist and the screwdriver she'd used earlier was sticking out of her belt.
+
+"You sound like Chiron," Annabeth said.
+
+"I'd rather not. He tells long stories."
+
+"You do too."
+
+"Mine are interesting."
+
+Annabeth placed the pencil across the page. "Can I leave this here without somebody deciding it's finished?"
+
+"Of course."
+
+"Because I want to think about it tomorrow."
+
+Thalia's face softened for an instant. "I'll leave it exactly where you put it. Unless it starts raining through the roof again, in which case I might move it out of the puddle."
+
+"That seems reasonable."
+
+They went down to the dining pavilion together. Thalia talked about Charlie's repair and Silena's insistence that they use the proper screws, then let Annabeth describe a sightline experiment she'd been planning. Annabeth expected a joke about how architecture was a strange choice for a date. Thalia didn't make one. She only asked whether the old amphitheater had any dangerous sections.
+
+"The edge of the stage," Annabeth said. "Chiron knows. He's going to cordon it off."
+
+"Good."
+
+"You're not coming to check?"
+
+"Why? Do you need me to?"
+
+"No."
+
+"Then I'm not coming to check."
+
+Annabeth tried not to make the answer more important than it was. She was glad anyway.
+
+At the pavilion, Clarisse was engaged in a whispered argument with Percy about whether carrying a basket in his lap looked ridiculous. Silena sat beside them with an orange smear of paint on the cuff of her shirt, eating as if the fight had nothing to do with her.
+
+Percy saw Annabeth and immediately moved the basket under the table.
+
+Annabeth narrowed her eyes.
+
+"It's not a surprise," he said.
+
+"Then why are you hiding it?"
+
+"Because Clarisse thinks everybody needs to inspect my picnic."
+
+Clarisse leaned forward. "You can tell the strawberries are good just by looking at them. I did the sorting."
+
+"I believe you," Annabeth said. "Percy, you're allowed to put the basket on the bench."
+
+He did, looking relieved. Then he looked at Annabeth's empty hands.
+
+"Where are your drawings?"
+
+"At the cabin. I'm picking up a smaller sketchbook after dinner."
+
+"Can I carry that?"
+
+"You can carry the strawberries."
+
+"I think I've got that part covered."
+
+Clarisse started to say something about his grip. Silena put a piece of bread in front of her, and the observation never made it out.
+
+Annabeth sat with Thalia and told Percy where she wanted to meet him. The plan took less than a minute to arrange. There was no announcement, no toast, no vote from a self-appointed committee. Percy went back to his dinner, Clarisse stopped arguing long enough to steal a bite from his plate, and the conversation shifted to the evening's archery scores.
+
+Annabeth liked that most of all. Her date could matter without requiring everybody else to stop living.
+
+---
+
+The amphitheater was empty when Annabeth arrived.
+
+Evening light ran across the upper row and left the stage in a cool, slanting shadow. The benches held the day's warmth. Somewhere behind the back wall, a bird gave three irritated calls before settling down for the night.
+
+She chose the fourth bench, as Chiron had suggested, and placed her sketchbook on her knees.
+
+From here, the columns seemed evenly spaced. They weren't. She could tell by comparing the gaps against the arch behind them. If she moved three seats to the left, the narrowness became more visible. Three seats right, it almost disappeared. That was the interesting part. The design hadn't been built to look identical from every position. It had been built to give an audience an impression of order despite the awkward slope of the ground.
+
+She was halfway through the third sketch when Percy arrived carrying the basket and a rolled blanket under one arm.
+
+"You're early," he said.
+
+"So are you."
+
+"I didn't know when you wanted the light."
+
+"That's considerate."
+
+"I had a whole argument with Clarisse about the difference between being early and being suspiciously early."
+
+"Who won?"
+
+"I escaped with the strawberries, which I count as a victory."
+
+He stood at the end of the row until Annabeth shifted her pencils and nodded to the space beside her. He spread the blanket over the stone, then sat down and examined the stage with exaggerated seriousness.
+
+"All right," he said. "Show me what we're looking at."
+
+Annabeth gave him the sketchbook.
+
+He rotated it the wrong way first. She caught his wrist before he could turn it all the way around.
+
+"That end is the top."
+
+"I knew that."
+
+"You were studying it upside down."
+
+"I'm exploring different perspectives."
+
+She laughed and tapped one of the drawn columns. "See this? The stone is wider at the bottom. Not much. Just enough that from this seat it looks straight."
+
+Percy leaned forward, comparing the sketch to the real column.
+
+"Huh."
+
+"That's your expert verdict?"
+
+"Give me a minute. I'm working with limited expertise."
+
+He moved one seat along the row and looked again. Then he moved back.
+
+"You're right. From there it leans. From here it doesn't."
+
+"It doesn't actually lean. The thickness changes."
+
+"So if I stood right against it, I'd see the trick."
+
+"Exactly."
+
+"Could you design it so somebody hiding behind it looked smaller?"
+
+Annabeth stared at him.
+
+"What?"
+
+"You really do think of every building as a place to hide from monsters."
+
+"Not every building. Sometimes I think of them as places monsters can hide from me."
+
+She pointed her pencil at him. "That's a terrible way to appreciate architecture."
+
+"It's an extremely practical way."
+
+"All right, then. You tell me what you see."
+
+Percy looked around again, this time without the joking exaggeration. Annabeth watched his eyes go from the stage opening to the row of seats and then to the aisle stairs. He was measuring distances, not with a pencil but with the old alertness she'd recognized in him from the moment they'd found each other again.
+
+"Two exits on this side," he said. "One on the left. The back wall would make it hard to see someone coming down the service path, but there's no cover for the last few yards. If you needed to move a crowd fast, the middle aisle would jam."
+
+"The middle aisle is the widest."
+
+"Which is why everybody would use it."
+
+Annabeth looked down at her drawing. She had marked the stair widths, but not the way people's instincts would concentrate them in one place.
+
+"You're right," she said.
+
+Percy turned toward her. "Are you sure? I was making it up as I went."
+
+"No, you're right. The geometry gives you the available routes. It doesn't tell you which routes people will actually choose."
+
+She added a few arrows to the plan.
+
+"That feels suspiciously like homework," Percy said.
+
+"It's not homework if I'm interested."
+
+"That's what people who enjoy homework say."
+
+She nudged his knee with hers. "Then stop being useful."
+
+"Gladly."
+
+He opened the basket. Inside were strawberries, a little packet of bread, two small cups and a folded cloth that Percy said Silena had insisted on adding.
+
+Annabeth picked up a strawberry and examined it.
+
+"If you're checking Clarisse's work," he said, "she'd like you to know these passed a very thorough inspection."
+
+"How many did you taste?"
+
+"The ones she rejected."
+
+"How many was that?"
+
+"Enough to understand why she rejected them."
+
+Annabeth bit into the fruit. It was good, sweet toward the middle and sharp near the skin. She offered Percy another. He accepted and settled back against the bench.
+
+For a while they ate without speaking. She drew two more lines, put down her pencil, then picked it up again because the shadow had moved far enough to change the shape of the arch. Percy didn't complain. He watched a late group of campers cross the far end of the path, then turned back to the stage.
+
+"The top row would be a good place to listen," he said.
+
+"For music?"
+
+"For secrets."
+
+"Percy."
+
+"I'm not planning to spy on anyone. I'm saying you could hear everything from up there if the acoustics are as good as they look."
+
+"How would you know how acoustics look?"
+
+"I wouldn't. That's why I said if."
+
+Annabeth stood, took her sketchbook and moved three rows higher. Percy waited until she turned toward him.
+
+"Say something," she called.
+
+"Something."
+
+"Try being useful."
+
+"You told me to stop."
+
+She rolled her eyes. "Read me a sentence from your camp notes."
+
+Percy pulled the folded committee list from his pocket.
+
+Annabeth hadn't expected him to keep it. She watched as he unfolded the paper and squinted at the writing.
+
+"'The orchard,' he read. 'The climbing wall. Boat. Do not bring wet flowers. Ask Annabeth.'"
+
+His voice traveled cleanly up the stone, louder and clearer than it had any right to. Annabeth grinned. The acoustics had not disappointed her. She moved to the far end of the row and asked him to try again.
+
+"You're asking me to read my sisters' embarrassing date plan across an empty theater."
+
+"Yes."
+
+"You are enjoying this too much."
+
+"Yes."
+
+He read the list again. The acoustics carried it to her. By the time he reached Silena's circled instruction, Annabeth was laughing hard enough to lose her place in her notes.
+
+"Ask Annabeth," she repeated when she came back down.
+
+"Apparently that's the part everybody agreed on."
+
+"They were right about that part."
+
+"Don't tell Clarisse. She'll make it official."
+
+Annabeth sat beside him and took the paper. She didn't read the rest. She folded it along its existing creases and handed it back.
+
+"You can keep that if you want," she said.
+
+"For evidence?"
+
+"For something to laugh about later."
+
+He slipped it into his pocket.
+
+She picked up her pencil, tested its point and found that it had worn flat. Percy offered her one from the small bundle she'd asked him to carry. It wasn't sharpened perfectly, but it was serviceable.
+
+"You did bring the pencils," she said.
+
+"You asked me to."
+
+He said it with no particular pride. That was the thing she liked. He had listened and done an ordinary job, and he didn't expect the job to turn him into someone else. She leaned against his shoulder for a moment before going back to the drawing.
+
+---
+
+They moved down to the lower rows as the sun sank.
+
+From the front, the stage looked smaller but the back wall looked taller. Annabeth had to tilt the page to show Percy what she meant. He held one corner steady while she drew, and when a breeze came through the open arch, he moved the basket so it couldn't tip.
+
+She was focused on the relationship between the arch and the rear columns when she noticed the chalk mark Chiron had left near the cracked base.
+
+A younger camper was approaching the side of the stage, following a lost wooden practice knife that had skidded under the first row. He was looking at the ground, not at the warning rope.
+
+Annabeth stood so quickly her pencil rolled off her knee.
+
+"Wait," she called.
+
+The camper stopped.
+
+"Not that way. That stage edge is closed."
+
+"I dropped my knife."
+
+"I can see it. Come around the aisle. You don't need to step up there."
+
+He hesitated, then did as she asked. Percy retrieved the wooden knife from beneath the bench and brought it over. The camper took it with an embarrassed thank-you and ran back down the path.
+
+Annabeth watched him go. The warning rope Chiron had ordered was tied to the railing, but it had sagged low enough that a child could miss it in the dim light.
+
+"We should fix that," she said.
+
+Percy followed her gaze. "We could tell the night patrol."
+
+"Or I could move the rope now."
+
+"Can you?"
+
+"Yes. I just need to tie it higher."
+
+She looked at the sketchbook on the blanket. The light she had come to draw was going away. She could climb the steps and spend the next twenty minutes adjusting the rope, then discover two more problems to solve because the theater was full of them.
+
+Percy didn't tell her to leave it. He didn't tell her to fix it, either.
+
+"Do you want me to hold the end?" he asked.
+
+Annabeth considered. "I want to make it visible. Not redesign the whole barrier."
+
+"Okay."
+
+They walked to the railing together. Percy held the rope while Annabeth lifted it and retied the knot above the lowest line of sight. She used a strip of pale cloth from the picnic basket to mark the center. Then they tested it from the path. The cloth moved against the darker stone and caught the remaining light.
+
+"Good enough until Chiron replaces it," Annabeth said.
+
+"Do you want me to tell him?"
+
+"Yes. Tomorrow. And I'll note the crack measurement."
+
+They returned to their blanket. A few more minutes had passed. The light across the arch was thinner now, but still there.
+
+Annabeth sat down and drew it quickly. No careful revision, no second sheet. She recorded what she had wanted to see while it still existed.
+
+Percy sat beside her with the basket between his feet. He didn't try to compliment her drawing while she was making it. He knew she hated that. He waited until she placed the pencil across the page and leaned back.
+
+"Did you get it?"
+
+"Most of it."
+
+"Good."
+
+She looked at the sketch. The arch wasn't perfectly proportioned, and one shadow should have been longer. It was, however, unmistakably the theater at that exact moment, the one she'd been trying to understand since breakfast.
+
+"I think I did," she said.
+
+Percy offered her the last strawberry.
+
+She took it, split it with the small knife from the packet, and handed him the larger half.
+
+He examined it. "You always do that."
+
+"What?"
+
+"Give me the bigger half."
+
+"You always notice."
+
+"Because you always do it."
+
+"Then maybe I'm predictable."
+
+"No," Percy said. "I think you just like pretending you don't know how much I eat."
+
+Annabeth smiled. "I do know how much you eat. That's why I brought bread."
+
+He laughed. She liked hearing him laugh in the theater, the sound returning faintly from the back wall. The building was doing exactly what it had been made to do: carrying a voice to someone who wanted to hear it.
+
+---
