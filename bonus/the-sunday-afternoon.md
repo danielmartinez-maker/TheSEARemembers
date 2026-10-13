@@ -4700,3 +4700,272 @@ She turned toward him, touched his face and kissed him once more.
 
 The answer needed nothing else.
 ---
+
+## Monday, December 18: The Second Morning
+
+The first thing Rhys did wrong was move the targets.
+
+Thalia found him at the range just after eight, adjusting the second rack with two other instructors. The grass was still rimed with frost. He had a pencil tucked behind his ear, a rolled schedule beneath one arm and the distracted expression of a man who believed a small improvement in equipment placement would go unnoticed by anyone who hadn't been there to supervise it.
+
+She watched for a minute.
+
+"You moved them."
+
+Rhys looked up. "Good morning."
+
+"The targets."
+
+"Three feet closer. The ground's frozen at the far end."
+
+"I measured that field yesterday."
+
+"Then you measured it correctly. It wasn't frozen yesterday."
+
+He was right. She disliked how pleased he looked about that.
+
+She walked over to the line, checked the angle and the distance, then stood beside him while the others finished securing the posts.
+
+"Fine."
+
+"That's generous."
+
+"Don't confuse being right once with a habit."
+
+He leaned closer, lowering his voice so the two instructors wouldn't hear.
+
+"Did you sleep?"
+
+Thalia turned toward him. There was a particular kind of audacity in asking that question on the range after they'd spent the night together. The ordinary tone made it even worse. She wanted to catch his collar and kiss him until he forgot where the targets stood. Instead she made herself look at the equipment.
+
+"Very well," she said.
+
+"Good."
+
+"Your bed remains an offense to civilization."
+
+"I'll inform the manufacturer."
+
+"The manufacturer ought to be ashamed."
+
+He laughed.
+
+One of the instructors called for him to check the final anchor. He went, leaving Thalia standing by the shooting line with the familiar and rather delightful feeling of having been interrupted in the middle of something she wanted to continue.
+
+When he returned, she made no effort to conceal her smile.
+
+"You're going to be distracting," she told him.
+
+"At work?"
+
+"Apparently."
+
+He glanced toward the beginners arriving with their bows.
+
+"Then we'd better do our jobs."
+
+She considered that, then nodded. They walked to opposite ends of the line. It pleased her more than it should have that he had resisted the temptation to turn the lesson into an excuse to remain beside her. She hadn't fallen for someone who needed to be attached to her every minute. She had fallen for someone who could share an intimate night with her and still turn up the next morning prepared to teach children how to hold a bow.
+
+That shouldn't have been remarkable. It was.
+
+The lesson went well until the last round.
+
+One of the older students had been trying to improve his accuracy by drawing too far, and the bowstring struck the inside of his forearm hard enough to make him drop his stance. Thalia was beside him before the pain had finished registering. She took the bow, checked that no one else was in the line of fire and asked the student to show her his grip without releasing an arrow.
+
+Rhys came over from the targets.
+
+"All right?"
+
+"He's over-drawing," Thalia said.
+
+The student looked embarrassed. "I wanted to hit the center."
+
+"You'll hit nothing with a damaged arm."
+
+"Thalia," Rhys said quietly.
+
+She looked at him. He had seen the boy's expression.
+
+She took a breath and handed the bow back, unstrung.
+
+"You're trying to improve too many things at once," she told the student. "We can fix the draw first. The target can wait."
+
+The boy nodded, relief visible in the set of his shoulders.
+
+Rhys stayed near enough to help but did not take over. When the lesson ended he walked beside Thalia toward the equipment shed.
+
+"You caught the mistake quickly," he said.
+
+"I've made it myself."
+
+"Then you know how frustrating it is."
+
+"Yes."
+
+He looked at her. "He didn't need the lecture."
+
+She stopped beside the door.
+
+"I know."
+
+"You corrected yourself."
+
+"Eventually."
+
+He smiled. "That's something."
+
+She wanted to be offended by the observation, but the truth was that she had learned to notice the difference between helping and humiliating more quickly since they'd begun working together. He was not always right, and she wasn't always wrong. Their judgments became better when they stopped treating every disagreement as a referendum on who was stronger.
+
+She stepped closer, caught the edge of his coat and kissed him quickly before anyone could wander past. He looked genuinely surprised. It was worth the risk.
+
+"That wasn't for the lecture," she said.
+
+"What was it for?"
+
+"Your terrible company."
+
+"An excellent reason."
+
+She left him laughing beside the shed.
+
+***
+
+After supper he came to Cabin One to collect her.
+
+Annabeth was at the table with her drafting instruments. She looked up when he knocked, recognized the visitor and gave Thalia an expression of supreme amusement.
+
+"He's here."
+
+"I can see that."
+
+"Try to come back before the next snowfall."
+
+"Don't start."
+
+Rhys stood politely on the porch, clearly aware that entering the room while the Grace sisters were having one of their private exchanges would be a mistake.
+
+Thalia fetched her coat.
+
+At the door Annabeth looked at him.
+
+"Did you bring the guitar back?"
+
+"Yes."
+
+"Good. Thalia's been assaulting a piano for weeks."
+
+Thalia turned. "Excuse me?"
+
+"That's the technical description."
+
+Rhys smiled, but did not laugh until they were out of earshot.
+
+"She likes you," Thalia told him.
+
+"I hope so."
+
+"Don't encourage her."
+
+"I've never met anyone less in need of encouragement."
+
+That was fair. Thalia was still deciding how annoyed to be when he took her hand beneath the porch lantern. The gesture was simple, and she found herself looking at their joined fingers with a pleasure she didn't want to explain.
+
+They walked north through the crisp air.
+
+The cabin felt familiar the moment he opened the door. His guitar had been unpacked; the repaired glove lay beside a new spool of thread; her clean shirt remained folded in the drawer where she'd left it weeks before. She noticed that he had not moved it.
+
+"Still here," he said, following her gaze.
+
+"Clearly you didn't have the courage to return it."
+
+"I was waiting for its owner."
+
+She touched the drawer with two fingers. It was a small piece of herself he'd protected without making a ceremony of it. She was grateful, and not entirely comfortable with being grateful for something so ordinary.
+
+He came closer. "What are you thinking?"
+
+"That you've acquired an unreasonable number of my clothes."
+
+"Your wardrobe is very demanding."
+
+"You're welcome to complain."
+
+"I wasn't going to."
+
+She looked up at him. The expression on his face caught her completely off guard. It was the same look he'd given her at the gate, a mixture of pleasure and disbelief, as though some part of him still couldn't quite accept that she had come back with him.
+
+She kissed him.
+
+It was a quick decision and a slow kiss. He responded eagerly, his hand resting near her waist while she caught the collar of his shirt. They were alone and had the evening to themselves. The morning's work was finished. No one was waiting for a report or a favor. She could be here, wanting him, without making the desire into an argument.
+
+When they drew apart, she stayed close.
+
+"Do you know what I missed?" she asked.
+
+"My cooking."
+
+"Certainly not."
+
+"My exceptional bedside manner."
+
+"Debatable."
+
+He smiled. She touched his face.
+
+"I missed being able to do that."
+
+He went still. Then he leaned into her hand, and something warm moved through her chest at the simple, unguarded response.
+
+"I missed it too," he said.
+
+She kissed him again, enjoying the way his hand settled at the back of her neck. He had been home for a day, and already the private part of their relationship was returning to its familiar rhythm. The anticipation of being apart had become the pleasure of being here again. She liked that the transition was not effortless, that they still had to adjust, but that neither had become a stranger.
+
+The evening passed with the fire low and the winter outside. They ate a late supper, argued over whether his new scarf suited her better than the old one, and spent a long while curled close together on the cot, kissing until conversation became unnecessary. The lamp burned at the edge of the room and later went out.
+
+***
+
+In the morning she woke to find him already dressed, sitting on the bench with the guitar across his knees.
+
+He was playing her melody.
+
+Thalia remained under the quilt and listened. The tune had become smoother since he'd gone home. He had rewritten the last phrase, leaving a longer space before the final chord. It was still recognizable as the thing they'd worked on together, but it had acquired a confidence she'd never heard in it before.
+
+He noticed her watching.
+
+"Morning."
+
+"You're early."
+
+"Very inconsiderate."
+
+She sat up, the blanket gathered around her shoulders. "Play it again."
+
+He did.
+
+This time she listened to the whole piece. When he finished, she looked at him for a moment.
+
+"That last phrase is better."
+
+He smiled. "Thank you."
+
+"Don't expect another compliment before dinner."
+
+"I've already had a very good morning."
+
+She could have kissed him for that. Instead she made him play the last measure again, then took the guitar and tried the phrase herself. It was a little clumsy. He watched her carefully, but didn't correct her until she'd finished.
+
+"You missed the transition."
+
+"I know."
+
+"You rushed."
+
+"I know."
+
+He grinned. "You sound familiar."
+
+She gave the guitar back and pulled him toward her for a kiss, partly to silence him and partly because she liked that they could return to this ordinary argument after everything that had changed.
+
+He laughed against her mouth.
+
+The day began.
+---
