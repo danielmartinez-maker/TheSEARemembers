@@ -3063,3 +3063,169 @@ When she drew away, he touched the pocket where he'd put her photograph.
 He laughed. She let go of his hand and started uphill, the shared photograph safe inside her coat. Later she would hide it in the back of her trunk, not out of shame but because it was hers. She liked knowing it existed. She liked even more that he had asked before making it.
 
 ---
+
+On Sunday, the thirtieth minute of the afternoon was when Thalia discovered she had made a mistake.
+
+She'd spent most of the morning imagining the next time she'd be alone with Rhys. The memory of the orchard photograph kept appearing whenever she tried to concentrate on something else, especially the ridiculous expression on his face when she'd shoved him before the shutter clicked. She had the print tucked inside a book in her trunk, and she had opened the book twice since breakfast without intending to read a word.
+
+After lunch she went to his cabin.
+
+He was there, but the room didn't have its usual welcoming disorder. The workbench had been cleared of bows. Instead it held three sheets of music, a folded letter, and a small pile of envelopes. Rhys sat with a pencil in his hand, frowning at a page of notes.
+
+"You're busy," she said.
+
+He looked up. His expression brightened before he glanced back at the page.
+
+"A little. I promised my mother I'd finish this today."
+
+"Finish what?"
+
+"A song she wants to use at an event back home. The arrangement is a mess, and I'm trying to rewrite the middle part so it can be played by somebody who isn't sitting here with me."
+
+Thalia stepped inside. She could have sat quietly until he finished. Instead she felt the disappointment arrive and take up all the room.
+
+"I thought you were free."
+
+"I didn't say I was."
+
+"You said I could come by."
+
+"I said you could come by when you wanted. I didn't promise I'd have the afternoon clear."
+
+It was a fair distinction, and Thalia disliked hearing it. She stood by the doorway with her arms crossed. Rhys put the pencil down and turned fully toward her.
+
+"What's wrong?"
+
+"Nothing."
+
+"That isn't nothing."
+
+"I'm not interested in arguing."
+
+"Then tell me what happened."
+
+She looked at the music. The pages were covered in tight, carefully written notes, places where he'd erased a phrase and tried again. He had already spent hours on it. The work mattered to him. That was apparent even if he hadn't said so.
+
+"I wanted to see you," she said.
+
+"I'm glad you came."
+
+"You're not acting glad."
+
+He took a breath. She could see the effort it cost him not to answer sharply.
+
+"Thalia, I am glad. I also need to finish something."
+
+She could hear herself becoming unfair. She couldn't seem to stop. There was an old fear underneath it, one she recognized only once it was already speaking for her: that a person who wanted her when nothing else demanded attention might choose something else the moment it did.
+
+"So finish," she said.
+
+"I will."
+
+She turned toward the door.
+
+"Do you want to come back later?"
+
+"No."
+
+She was outside before he could reply. The walk down the north path was cold and unpleasant, and the heel complained every few steps. She told herself she had made the sensible choice: he had work, and she shouldn't interrupt it. Then she remembered her own words and knew the truth was less flattering.
+
+She had wanted the afternoon to belong to her. When it didn't, she had punished him for having a life.
+
+Back at Cabin One, the photograph lay inside her book where she'd left it. She took it out and stared at their blurred faces. Yesterday she'd liked that he could surprise her. Today she'd wanted him to be exactly where she'd imagined him, waiting to do exactly what she'd imagined they'd do. The contradiction made her angry, but for once the anger had nowhere useful to go.
+
+She sat on the floor beside the trunk and considered what she ought to say to him.
+
+She could write a note. No, that would be absurd. She could go back, apologize, and risk making another interruption. She could wait until tomorrow, by which time the apology would sound rehearsed.
+
+After twenty minutes she realized she was doing the same thing she'd done the week before: inventing an elaborate problem to avoid a simple sentence.
+
+She got up and went back.
+
+The cabin lamp was on, and the window showed Rhys still at the workbench. This time she knocked. He opened the door after a moment.
+
+"Thalia."
+
+"I was rude."
+
+He stood still.
+
+"I wanted you to be free when I arrived. You weren't. I acted as if that was your fault."
+
+He looked past her toward the darkening path. "Come in."
+
+She did, but stayed near the door.
+
+"I'm not asking you to stop working," she said.
+
+"I know."
+
+"And I'm not asking for an evening."
+
+"I know."
+
+She made herself look at him. He didn't appear angry, though he was more guarded than before.
+
+"I just wanted you to know that I know I was wrong."
+
+He took a slow breath. "All right."
+
+"That's it?"
+
+"What did you expect?"
+
+"An argument, perhaps."
+
+"I could provide one."
+
+"Don't."
+
+He smiled faintly. "Then we can leave it there."
+
+She considered. "Are you still upset?"
+
+"A little. I don't want you coming here and feeling as though you have to compete with everything else in my life. But I also don't want to be made to feel guilty because I spent an afternoon keeping a promise to my mother."
+
+There it was. She felt the familiar impulse to defend herself and, this time, allowed it to pass.
+
+"That's fair," she said.
+
+He looked relieved by the answer.
+
+"I've got about forty minutes left," he said. "If you want to sit, you can. I won't be interesting."
+
+"You'll have to endure my disappointment."
+
+"I'm prepared."
+
+She took the chair by the stove and watched him work. It was not an exciting thing to watch. He wrote a line of notes, played them softly on the guitar, crossed out two measures and tried again. Occasionally he looked up to ask whether a transition sounded too abrupt. She gave an opinion. Sometimes he used it. Sometimes he didn't.
+
+At one point he asked if she could hand him a pencil from the table. She did, and the ease of the small exchange pleased her more than it should have. She was no longer being invited to solve the whole problem. She was simply present, available for a little assistance when he wanted it.
+
+When he finished, Rhys set down the pencil and stretched both arms above his head.
+
+"That's the best I can do today."
+
+"It's better than when I came in."
+
+"You're grading again."
+
+"Yes. You're welcome."
+
+He laughed. She stood and crossed to him. She wanted to kiss him, but there was something she needed to ask first.
+
+"Was I making it harder?" she said.
+
+"At first."
+
+"And now?"
+
+"Now I'm glad you came back."
+
+She rested one hand against his cheek and kissed him. He leaned into it, his arms coming around her, and she felt the odd relief of being able to repair a mistake without pretending it had never happened. She hadn't won the afternoon. She had returned to the person she'd hurt, and he had chosen to spend what remained of it with her.
+
+They went for a short walk before supper, taking the flat path to spare her heel. He told her how the song would be used at home, how his mother had promised to borrow a piano if he could make the arrangement simple enough, and how irritated he was by one stubborn measure that still didn't sound right. She listened. She asked questions. At the fork he kissed her, then went back to mail the pages.
+
+She watched him walk away and realized that she had enjoyed hearing about something that did not involve her. It shouldn't have been a revelation. Still, she thought it worth remembering.
+
+---
