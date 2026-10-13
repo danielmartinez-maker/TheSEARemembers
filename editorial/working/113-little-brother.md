@@ -341,3 +341,317 @@ She left. Clarisse settled against the pillow and stared at the ceiling. She fel
 It did mean she wished being sick came with fewer stupid feelings.
 
 ---
+
+Percy discovered two things during the third rotation.
+
+The first was that Clarisse's scoring sheet was much harder to use than it looked. She had made small marks beside each station, and some of them were obvious enough: a checked square for a completed rescue carry, a line for the number of successful shield blocks. Other marks made sense only to her. One looked like a fishbone. Another was a circle with a slash through it and the letters L.F.
+
+The second thing he discovered was that telling younger campers to do something safely was not the same as making them listen.
+
+"Stop," he called as a boy from Hermes tried to drag a weighted dummy across the arena by one wrist.
+
+The boy continued moving.
+
+"Stop the exercise."
+
+"I've almost got it!"
+
+"You're supposed to lift with a partner."
+
+"I can do it."
+
+"That's not the point."
+
+The dummy's shoulder caught on a stone. The boy tugged harder, lost his footing and sat down heavily in the mud. Nobody was hurt. Percy had still let the situation go too long.
+
+Chiron came over from the shield station.
+
+"What did your sister tell them?" he asked.
+
+"Two-person carry. One person supports the shoulders, the other the knees. The team gets marked down if they drag."
+
+"And what did you do?"
+
+"I told him to stop."
+
+"Once?"
+
+"Twice."
+
+"Then the exercise should have stopped before the second attempt. Call the station to a halt, reset the rules and have them demonstrate the safe method before they begin."
+
+Percy looked at the boy, who was getting up with an expression of wounded pride. He didn't like admitting that he'd hesitated. He had spent years in memories of fights where a hesitation could cost much more than an embarrassing fall. Here, in a younger body, he had to remember that being kind sometimes meant speaking firmly before somebody learned a lesson the hard way.
+
+He blew the whistle.
+
+The sound cut across the arena. Every camper stopped, including two who were doing their station correctly.
+
+"Reset," Percy called. "Everyone back to the starting marks. We're going over the carry again."
+
+A few campers groaned. He let them. Chiron stayed beside him while he demonstrated the hold with a volunteer.
+
+"This is what Clarisse wanted you to learn," Percy said. "Not how fast you can get the dummy to the end. How to move someone who can't move themselves without making the injury worse."
+
+A girl from Apollo raised her hand. "Are we losing points?"
+
+"You lose points if you ignore the safety instruction after I repeat it. You don't lose points because I stopped to explain it better."
+
+Chiron nodded once. Percy felt a little steadier.
+
+The next run went better. The boy from Hermes completed the carry with a partner and didn't look at Percy when they finished. Percy marked the result anyway.
+
+He was halfway through entering the scores when he realized the fishbone symbol meant a stance correction Clarisse had given earlier. He went back through the sheet and adjusted the marks where he'd misunderstood it. That took time, and the last group had to wait.
+
+When the rotation ended, he told the campers the results would be posted later. He wasn't about to give somebody the wrong score just because he'd been embarrassed to ask.
+
+Chiron took the sheets and checked them beside the arena gate.
+
+"Your sister runs a disciplined session," he said.
+
+"She does."
+
+"You kept it safe. You also needed help."
+
+Percy shrugged. "I noticed."
+
+"Both facts can be true."
+
+Percy looked toward the path to the infirmary. He wanted to go at once, but the last practice shields still had to be inspected. Clarisse would have expected him to finish the job. She would also have told him not to pretend that finishing it made him indispensable.
+
+He asked one of the older campers to help check the straps. They found a cracked buckle on the third shield and marked it out of service. Then Percy carried the reports to Chiron, returned the whistle to the supply room and headed toward the infirmary.
+
+His sister had trusted him to finish. He had made mistakes, fixed them and finished.
+
+That was what he could tell her.
+
+---
+
+Silena arrived at the garden room with a painted sign under one arm and an uneven hammer in her hand.
+
+Katie Gardner was kneeling beside a row of new seedlings, pressing soil around their stems. She sat back on her heels when Silena came through the gate.
+
+"You finished it!"
+
+"Almost. The paint's dry, but I want to check where you're hanging it before I put the last screw in."
+
+Katie wiped her hands on her apron and came closer. The sign showed the garden path under morning light, with the names of the new beds written along the lower edge. Silena had kept the lettering small enough that the vines were still the main part of the design.
+
+"It's beautiful," Katie said.
+
+"It's useful, I hope."
+
+"Both. We keep getting campers who walk through the planting rows because they can't tell where the path starts."
+
+Silena followed her to the gate and studied the two posts. One had been repaired recently. The other leaned slightly outward.
+
+"That one won't hold a heavy sign," she said.
+
+"I was afraid of that."
+
+"We can use the fence rail, but the screws need to go through the wider wood."
+
+Charlie arrived a few minutes later with the right drill bit and a short board he'd cut to fit the space behind the rail. He had promised to help earlier in the week, before Clarisse became ill. Silena was relieved he hadn't forgotten, and a little embarrassed by how relieved she felt.
+
+"I thought you'd be at the forge all afternoon," she said.
+
+"I moved the hinge repair to tomorrow." He set down the tools. "This won't take long if the holes line up."
+
+Silena held the sign while he checked the measurements. Katie went to fetch a smaller wrench. For a moment Silena and Charlie were alone by the gate.
+
+"Everything all right with Clarisse?" he asked.
+
+"Will says she needs rest. She hates the infirmary."
+
+"Most people do."
+
+"She's going to pretend she could have finished the training assessment herself."
+
+"She probably could have. Right up until she fell over."
+
+Silena smiled despite herself. "Don't let her hear you say that."
+
+"I won't."
+
+He checked the last measurement and stepped back. "You made the color of the leaves darker along this edge."
+
+"To make them look raised."
+
+"It works."
+
+Silena looked down at the sign, then at him. "You noticed."
+
+"I spend a lot of time looking at things people have made. I try to notice when somebody knows what they're doing."
+
+He said it plainly, without teasing. That made it harder for her to decide what to say next.
+
+"Thank you," she managed.
+
+Charlie tapped the rail. "Hold it there. I'll drill."
+
+They hung the sign without incident. Katie stood back and smiled at it from the garden path. The letters were readable, the vine looked alive in the afternoon light, and the board didn't move when she tested it with two fingers.
+
+Silena felt a small, fierce pleasure. The work was finished. It had a purpose outside the cabin, outside her brother's worries, outside the endless sequence of things she could do for people she loved.
+
+Then she thought about Clarisse in the infirmary and felt guilty.
+
+Katie noticed her expression. "You need to go?"
+
+"My sister's sick."
+
+"Then go. The sign's done. Thank you."
+
+Charlie gathered the tools. "I'll bring the small brush you left at the forge when I come back."
+
+"You don't have to."
+
+"I know." He looked at the sign once more. "I'd like to."
+
+Silena was smiling when she headed down the path. She couldn't remember the last time she'd finished something without mentally apologizing to somebody else for the time she'd spent on it. She hoped Clarisse would want to come see the sign when she was better.
+
+For now, the fact that she could leave a finished piece of her own work standing in the garden was enough.
+
+---
+
+Percy found the infirmary quiet except for the movement of someone washing bowls in the far room.
+
+Will was writing notes at a desk. He looked up when Percy came in, then pointed toward the second bed.
+
+"She's awake. Don't give her anything without checking first."
+
+"Wasn't planning to."
+
+"Good. And don't stay long enough to exhaust her."
+
+Percy nodded and went to the bed.
+
+Clarisse was lying with her arms folded over the blanket and an expression that suggested she was waiting for somebody to challenge her. Her hair had escaped its braid. A few strands were stuck to her forehead. Percy had seen her bruised and bleeding after training before, and the sight had never been easy. Fever was worse in a different way. There was nothing obvious to fight, no opponent to force back, and Clarisse couldn't insult it into leaving.
+
+"How'd it go?" she asked.
+
+"We finished."
+
+"Scores?"
+
+"With Chiron. They'll be posted when he's checked them."
+
+"Any injuries?"
+
+"No. One kid fell in the mud. I should have stopped his station sooner."
+
+Clarisse looked at him sharply. "What happened?"
+
+He told her. He described the boy pulling the dummy, the fall and the reset, including the part where Chiron had intervened because Percy hadn't ended the exercise quickly enough.
+
+Clarisse listened without interruption.
+
+"You made the right call on the reset," she said when he finished. "But you can't let someone keep going after you've said stop. If they don't hear you, blow the whistle."
+
+"I know now."
+
+"Don't make me repeat it."
+
+"I won't."
+
+"Did you understand the scoring marks?"
+
+"Most of them."
+
+"Most?"
+
+"What does L.F. mean?"
+
+"Left foot. He keeps turning it in and losing his balance."
+
+"Oh."
+
+"And the fishbone?"
+
+"Stance correction. I worked that out."
+
+"Eventually."
+
+He laughed. "Eventually."
+
+Clarisse shifted against the pillow and winced. Percy saw it, and she saw him seeing it.
+
+"Don't start fussing," she said.
+
+"I wasn't going to."
+
+"You have the expression."
+
+"Maybe I'm trying to figure out whether I can borrow your whistle."
+
+"If you touch my whistle, I'll throw this pillow at you."
+
+"It's an excellent threat, but Will says you need to rest."
+
+Clarisse glared. Percy smiled at her. For a minute they were simply brother and sister again, talking about an arena job they both understood. Then the smile slipped from her face.
+
+"Did Silena go?" she asked.
+
+"To the garden room. Yeah. She'll come back."
+
+"Good."
+
+"She said you told her to finish the sign."
+
+"I did."
+
+Percy reached for the cup beside the bed and checked whether it still had water. It was nearly empty. He refilled it from the pitcher.
+
+"Have some," he said.
+
+Clarisse accepted it, annoyed at herself for being thirsty.
+
+"Where's Annabeth?" she asked.
+
+"Working on the beach map. She said she'd come by later if you're awake."
+
+"She doesn't have to."
+
+"I know. She's your friend. She gets to decide whether she wants to."
+
+Clarisse took a drink. That sounded suspiciously like the sort of thing she had been telling him lately. She didn't appreciate having her own advice handed back to her.
+
+"You're getting clever," she said.
+
+"I've had good teachers."
+
+"Don't flatter me."
+
+"I wasn't."
+
+She nearly smiled.
+
+Percy sat for a few minutes while she finished the water. He didn't insist on talking when she closed her eyes, and he didn't pretend she was asleep the moment her breathing slowed. He'd learned that Clarisse could be quiet without being angry.
+
+When Will came to check her again, Percy got up.
+
+"You don't have to stay," Clarisse said.
+
+"I know."
+
+"You've got other things."
+
+"I do. Silena asked whether I could bring the soup from the kitchen later, if Will says you can have it."
+
+"Soup."
+
+"Try to contain your enthusiasm."
+
+She rolled her eyes. "Fine. Bring the soup."
+
+"Any requests?"
+
+"Something that doesn't taste like the infirmary smells."
+
+"That's a very broad specification."
+
+"Work with it."
+
+Percy went out grinning. Clarisse watched him leave and was startled by how much she wished he'd been able to stay five minutes longer.
+
+She pulled the blanket up, closed her eyes and tried to sleep before she changed her mind and called him back.
+
+---
