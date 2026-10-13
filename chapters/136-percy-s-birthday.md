@@ -860,7 +860,7 @@ She touched the case that held his chart. "You can bring this back to camp. We c
 
 He leaned his shoulder against hers. There was no need to explain anything to the palace. The light from the lilies flickered across their hands, joined for a while before they went back inside.
 
-Annabeth checked the clasp on the star-chart case before handing it back. One corner had caught on a broken strand of ribbon, and she retied it with the careful concentration she usually gave a structural problem. Percy offered to hold the paper; she asked him to hold the lantern instead. He did. When they were finished, the gift was secure enough to carry home, and neither had needed to turn the small repair into a symbol of anything larger. They walked through the garden at an ordinary pace, finding the way together.
+Annabeth checked the clasp on the star-chart case before handing it back. One corner had caught on a broken strand of ribbon, and she retied it with the careful concentration she usually gave a structural problem. Percy offered to hold the paper; she asked him to hold the lantern instead. He did. When they were finished, the gift was secure enough to carry home, and neither had needed to turn the small repair into a symbol of anything larger. They walked through the garden at an ordinary pace, finding the way together. They paused once to wave to the stable crew, who were finishing their own long day, and promised to return without ceremony.
 
 By the time they returned from the shore, Percy had remembered a birthday promise he'd made to Tyson and forgotten to keep. He had said they would visit the equipment shed to see the new hinges Tyson had designed for the visitors' bunk, and the afternoon was almost gone.
 
