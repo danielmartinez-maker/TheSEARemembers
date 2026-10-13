@@ -254,6 +254,103 @@ No argument possible, her tone said. Then she retrieved her spear from the maple
 
 ---
 
+The first serious disagreement about photograph day came from Nico.
+
+He had been standing near the back of the pavilion, watching Austin adjust the camera. When the photographer called for the younger campers, Nico stepped away from the line and headed for the tool shed.
+
+Percy followed, but didn't block the path.
+
+"Are you going to make me stand there?" Nico asked.
+
+"No. I came to ask if something was wrong."
+
+"I don't want my face on the Big House wall."
+
+"Then it doesn't need to go there."
+
+Nico gave him a doubtful look. "They said every camper has to be in the picture."
+
+"They invited everybody. That's different."
+
+"People will ask why I'm missing."
+
+"Maybe. You can tell them you didn't want a public photograph."
+
+Nico looked toward the sycamore tree. "Bianca wants one of us. We don't have many."
+
+"Then you could take one for yourselves. A private print."
+
+"She'll make a whole thing out of it."
+
+"You can still ask."
+
+Nico went to find his sister. Percy returned to the photo area without repeating the reason he'd been given. He told Chiron only that Nico was deciding whether he wanted to participate.
+
+Austin had other problems. He had a limited number of plates, two groups had demanded second exposures, and several campers had begun arguing about where their prints would hang.
+
+Silena borrowed the schedule and separated the groups who wanted private photographs from those who wanted their pictures displayed. The answers were not always obvious. Apollo wanted a public portrait of its musicians. Two Hermes campers wanted a picture together without their cabin. A dryad wanted a print for the inside of her tree and no copy on the pavilion board.
+
+"That's more printing," Austin said.
+
+"Yes," Silena replied. "But the people in the pictures get to decide where they're shown."
+
+"Are you volunteering to help in the darkroom?"
+
+"If you teach me what to do."
+
+Austin considered her. He'd been short of help all week, and Silena had already organized the queue better than anybody else.
+
+"After the final exposure," he said. "And no touching the chemicals until I explain them."
+
+"Agreed."
+
+Nico returned with Bianca. She listened to the explanation of private prints, then looked at her brother.
+
+"Just us?" she asked.
+
+"Just us."
+
+They stood beside the sycamore rather than in front of the crowd. Bianca rested one hand on Nico's shoulder. He didn't smile, but he remained still until the shutter closed. Austin marked the plate *private* and wrote their names on its protective envelope.
+
+Percy watched Nico check the label before walking away. The boy looked relieved.
+
+At the next group, a shorter camper disappeared behind Clarisse's shoulder. She noticed the problem and shifted the bench.
+
+"Can you see the lens now?" she asked.
+
+The boy shook his head.
+
+"All right. Move two steps left."
+
+He did. Austin checked the frame and gave a thumbs-up. Clarisse had solved the problem without making a speech or insisting the child belonged in the first place she'd chosen.
+
+Silena nudged her. "You're becoming an expert photographer."
+
+"I'm becoming an expert at preventing wasted plates."
+
+"Same thing."
+
+"Not remotely."
+
+Percy joined Annabeth for their turn. She was examining how Austin set the lens and checking the sun angle against her sketch of the lawn.
+
+"Could you explain that adjustment?" she asked.
+
+"After the photograph," Austin replied. "I need everyone to stand still."
+
+Annabeth nodded. Percy stood beside her and did his best not to blink.
+
+The shutter clicked. He immediately worried he'd shut his eyes.
+
+"Can we take it again?"
+
+"Wait until we develop it," Austin said. "You may be fine."
+
+Percy stepped aside, disappointed. Then he remembered Nico's private picture and Silena's promise to help process the plates. A photograph wasn't a reward for having the correct expression. It was a record someone had chosen to make, with people and work behind it.
+
+
+---
+
 Before they could leave the photo area, the path beside the canoe lake rippled. Water spread over grass in a thin shining sheet, cool over their shoe leather, then drew into a neat circle, rim trembling in the sunlight. A small shell bobbed in the middle, moonlight-colored, inner surface smooth and reflective, pearled light sliding across it.
 
 "Not from the lake," Annabeth said, coming over from the next group, shoes squeaking on wet grass.
