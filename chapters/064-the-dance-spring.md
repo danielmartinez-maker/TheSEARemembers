@@ -480,6 +480,114 @@ Thalia blinked fast. "Okay, mush over. Who's doing my eyeliner tomorrow? I'll bi
 
 ---
 
+The hairpins were the easy part.
+
+Choosing the ribbon was harder.
+
+Silena held two lengths of cloth against the back of Annabeth's hair, one pale blue and one silver. Thalia preferred silver. Annabeth preferred blue. Silena hadn't expressed an opinion, which Annabeth found suspicious.
+
+"You've been standing there for ten minutes," Annabeth told her. "You must have a favorite."
+
+"Yes," Silena answered.
+
+"Then say it."
+
+"I like the blue. It moves better with the dress. But you're the person wearing it, not me."
+
+Thalia made a face. "Silver looks more like a storm."
+
+"I'm not dressing as a thundercloud," Annabeth said.
+
+"I didn't say you were."
+
+"You've been talking about my being Zeus's daughter since breakfast. It starts to sound as though I have to dress for a family portrait."
+
+Thalia set down the silver ribbon. Her expression changed, not dramatically, but enough that Annabeth knew she'd struck something real.
+
+"I wasn't trying to do that."
+
+"I know. I just want to choose."
+
+"Then choose."
+
+Annabeth took the blue ribbon. It wasn't a declaration against her father or her sister. She simply liked the color and wanted to feel comfortable.
+
+Silena began fastening the ribbon into the half-up style they'd discussed. She asked before tightening the pins and let Annabeth tell her when something pulled. The small courtesies made the room feel less like a performance.
+
+Thalia sat on the bed and watched.
+
+"Beryl had a blue dress once," she said after a while. "She wore it to a wedding and came home furious because someone spilled wine on the skirt. She spent two hours trying to clean it."
+
+Annabeth glanced at her in the mirror. "Is that one of the good stories?"
+
+"Not really. But it's funny. She was so angry at the stain that she forgot to be angry with anyone else for a whole evening."
+
+Silena looked toward Thalia. "Did she save the dress?"
+
+"For years. Said she'd fix it. Then moved and left it in a closet."
+
+Thalia's tone made it plain she wasn't offering the memory as proof their mother had been a saint. She remembered an ordinary, difficult woman with a dress she wouldn't give up on, not a mother who could be explained by one beautiful photograph.
+
+Annabeth considered the reflection in front of her. She liked the blue ribbon for herself. She also liked hearing that Beryl had liked something blue. Those facts could coexist without one needing to explain the other.
+
+"Do you think she would have liked the dance?" Annabeth asked.
+
+"Some of it. She liked music when she wasn't fighting with somebody. She would've criticized the punch."
+
+"Everybody criticizes Mr. D's punch."
+
+"Then she'd have fit right in."
+
+Silena put away the unused silver ribbon.
+
+"Do you want to keep this?" she asked Thalia.
+
+Thalia shook her head. "Not for me. Put it back with the supplies."
+
+Annabeth watched the ribbon disappear into the drawer. The argument was over. She hadn't needed to win a battle about identity to get the hair she wanted; she'd needed the people who loved her to listen.
+
+Silena handed her the mirror again.
+
+"Comfortable?"
+
+"Yes."
+
+"Can you move your head without the clips slipping?"
+
+Annabeth tested them. She turned, looked down and shook her head gently. The pins held.
+
+"Good. I don't want to spend half the dance worrying about them."
+
+Thalia smiled. "That's the little sister I know. Testing the load-bearing capacity of her hairstyle."
+
+"It's structural engineering," Annabeth answered. "Very important."
+
+Silena laughed. She set the remaining clips in their dish and looked at the dresses folded on the chair.
+
+"Now we decide shoes."
+
+"Sneakers," Annabeth said at once.
+
+"No argument from me," Silena replied.
+
+Thalia raised her eyebrows. "You planned that one already."
+
+"I plan everything."
+
+"No, you don't." Thalia looked at her sister in the mirror. "You've been surprised plenty of times this year."
+
+Annabeth turned toward her. "I know. I'd like the shoes not to be one of them."
+
+Thalia laughed and came over to fasten a stubborn clip at the back of Annabeth's head. This time she asked before touching it.
+
+Annabeth said yes.
+
+When Silena left to prepare the decorations, the sisters sat together for a while, talking about ordinary things: the music, the Stolls' ridiculous punch plans, whether the dryads had actually finished the vines. Thalia made one more joke about Percy forgetting how to count. Annabeth rolled her eyes and laughed.
+
+She was glad her sister would be there. She was also glad the evening was hers.
+
+---
+
 Percy survived lessons. Now he needed a corsage.
 
 He had seen a movie where a boy gave a girl wrist flowers, and Chiron smiled warmly when he asked.
