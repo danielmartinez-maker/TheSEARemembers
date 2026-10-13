@@ -5164,6 +5164,133 @@ She looked at his hand on the drawer, the grin he'd failed to hide, and felt the
 Then she walked away before he could see how much it pleased her.
 ---
 
+### Friday morning: What She Hadn't Told Him
+
+Thalia woke to a knock against the shutter.
+
+For a moment she thought someone was outside. Then she heard the wind and the small tap of a loose branch against the window frame. Rhys was still asleep beside her, his hand resting on the blanket between them. The room was dark and warm, and there was no immediate reason to get up.
+
+She lay still.
+
+She had been thinking about something since the previous evening, a memory that had returned without warning while she watched Rhys writing to his mother. It was a familiar kind of memory, one that did not belong to a particular disaster so much as to a pattern: waiting for a person who might arrive, listening for a step at the door, wondering what version of him would appear if he came.
+
+Zeus had never been a reliable visitor.
+
+Some years he seemed to make an effort. He would arrive unexpectedly, wearing a face that was not quite the same as the last one, and behave for an afternoon as though the whole difficulty of fatherhood could be solved by attention delivered in a concentrated dose. Other times there was silence long enough that she stopped expecting anything. Thalia had learned not to ask questions that depended on him answering.
+
+She'd also learned to prepare for departure before arrival had properly occurred.
+
+Rhys moved beside her. She looked at him, suddenly conscious of how different this room felt from those memories. He had his own uncertainties, his mother to help, possible work outside camp. He would leave sometimes. But he had never asked her to guess whether he meant to return, and when something frightened him he tried to say so rather than making his uncertainty into her responsibility.
+
+She liked that. She was also afraid of how much she liked it.
+
+He opened his eyes.
+
+"Morning."
+
+"Unfortunately."
+
+He smiled sleepily. "You've been awake."
+
+"A while."
+
+"Thinking?"
+
+She gave him a look.
+
+"Clearly."
+
+He moved closer, and she rested her hand against his chest. The contact was familiar now. She had slept beside him enough times to recognize the small shift in his breathing when he woke, the way his hair fell over his eyes and the sound of his laugh before he was fully alert. She found comfort in those ordinary details.
+
+"Can I tell you something?" she asked.
+
+"Yes."
+
+She considered how to begin. She did not want to turn the morning into a confession performed for the sake of intimacy. She wanted him to understand one particular thing about her, because it affected the way she sometimes heard perfectly reasonable words.
+
+"My father wasn't around much," she said.
+
+Rhys didn't speak.
+
+"When he came, he wasn't always the same person to look at. Sometimes he acted as if we'd never been apart. Sometimes he barely knew what to say. He was very good at making a visit feel important and very bad at making it last."
+
+Rhys watched her.
+
+"That sounds difficult," he said.
+
+"It was mostly irritating."
+
+He didn't correct her.
+
+Thalia looked toward the darkened window. It had been more than irritating. She had been too young to put the disappointment into words, then old enough to resent the entire performance. Annabeth had been smaller. Thalia had learned to watch for the signs of another departure and try to shield her sister from the worst of it.
+
+"I became very good at knowing when someone was leaving," she said.
+
+Rhys nodded slowly.
+
+"And now you keep talking about going home, and I know it's reasonable. I know you have to. But sometimes part of me hears it as though you're telling me you won't come back."
+
+He was quiet for a moment.
+
+"I hadn't realized," he said.
+
+"I know."
+
+She waited for a promise. Some part of her wanted him to offer one, a grand declaration that he would never leave her unexpectedly. Another part knew she'd resent the lie almost as soon as she heard it.
+
+He didn't make one.
+
+"I'll tell you what I know," he said. "When I have a date, you'll hear it from me. If something changes, I'll tell you that too."
+
+She looked at him.
+
+"That's all?"
+
+"It's the part I can do."
+
+The answer was smaller than reassurance usually sounded, and she believed it.
+
+She rested her forehead against his.
+
+"I like you," she said.
+
+"I've gathered."
+
+"Don't ruin it."
+
+He smiled and kissed her, gently enough that she felt her own smile return. When she moved closer, he followed, and the familiar warmth of his hands made the room feel entirely separate from the old memories.
+
+She had not expected desire and trust to become connected in such an ordinary way. She could want him without needing him to solve her past. She could be close to him while still knowing the future would contain separations neither of them controlled.
+
+He drew back slightly.
+
+"Thank you for telling me."
+
+She looked at him. "Don't make it into an event."
+
+"I won't."
+
+"Good."
+
+She kissed him again, a longer kiss that ended with both of them laughing when the shutter tapped the window a second time.
+
+"Your cabin is trying to interrupt," she said.
+
+"It has excellent timing."
+
+"It needs another repair."
+
+"Would you like to supervise?"
+
+She considered. "Later."
+
+He smiled. They stayed close beneath the blanket, and for once the memory of her father did not make her feel obliged to prepare for someone to leave.
+
+When they finally got up, Rhys made breakfast while she found her clean shirt in the drawer. The small routine pleased her. He would go to the range. She would help Annabeth with the wall. They would meet again later, if they both wanted to and had time.
+
+She had not learned to stop wanting certainty overnight. She had learned that she could live without inventing it.
+
+---
 ## Friday, November 3: After the Hall Closed
 
 The pool was empty when Thalia arrived.
