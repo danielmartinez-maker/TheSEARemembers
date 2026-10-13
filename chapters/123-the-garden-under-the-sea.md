@@ -22,7 +22,7 @@ Silena laughed, warm and breathy in the cool air, and tucked a wind-loose curl b
 
 “Let’s aim for the first.”
 
-At the lake’s edge, where it opened toward the sea, the four of them gathered. Chiron had walked them down from camp and waited on the path, leaving the visit to them. This was a short garden visit before the longer palace stay they were planning. No court or procession awaited in Atlantis: Amphitrite and Triton would meet them at a sheltered reef garden beyond the city’s outer terraces, screened from the stronger currents and usually quiet except for fish and the soft knock of water on coral.
+At the shoreline of Long Island Sound, the four of them gathered. Chiron had walked them down from camp and waited on the path, leaving the visit to them. This was a short garden visit before the longer palace stay they were planning. No court or procession awaited in Atlantis: Amphitrite and Triton would meet them at a sheltered reef garden beyond the city’s outer terraces, screened from the stronger currents and usually quiet except for fish and the soft knock of water on coral.
 
 Percy had been trying to help all morning. He had explained the route twice, described the current that would carry them down, and answered Silena’s questions about the reef’s flowers. He had also carefully not said the word *home* too often. The invitation was small by design, but the place beneath the water still carried the weight of all the years he had lived there and all the years since.
 
@@ -44,7 +44,7 @@ He offered her his hand. “Want to hold on when we start down?”
 
 “Good.”
 
-The water at the lake’s edge darkened, not with shadow but with depth. A smooth current began to turn beneath the surface. It circled their ankles, cool and gentle, then climbed around their legs as if the sea were remembering how to welcome people. The tug answered the water in his blood. A path opened where there had been none, the lake’s surface lowering into a clear blue corridor that ran toward the open water.
+The water just beyond the shore darkened, not with shadow but with depth. A smooth current began to turn beneath the surface. It circled their ankles, cool and gentle, then climbed around their legs as if the sea were remembering how to welcome people. The tug answered the water in his blood. A path opened where there had been none, the lake’s surface lowering into a clear blue corridor that ran toward the open water.
 
 Chiron watched from the shore. “I will be here when you return.”
 
@@ -60,7 +60,7 @@ Clarisse glanced back at him. “If we’re late, don’t send a search party.�
 
 Silena stepped into the current first. It rose to her waist and held her without effort, gathering over her shoulders in a clear sheath. Her red hair lifted in slow ribbons.
 
-“It’s like the lake is putting on a dress,” she said.
+“It’s like the water is putting on a dress,” she said.
 
 “It’s a current-shell,” Percy said. “It keeps the water from pulling at your clothes.”
 
@@ -90,7 +90,7 @@ Clarisse’s expression did not soften, but something in it shifted. “I’ll t
 
 “That seems fair,” Clarisse agreed.
 
-The current rose around them. Percy kept Annabeth’s hand in his and let the water lift the four of them from the shore. The first few feet were familiar, the lake giving way to the saltier flow of the sea. Then the surface closed overhead.
+The current rose around them. Percy kept Annabeth’s hand in his and let the water lift the four of them from the shore. The first few feet followed the shallow coastline before the cooler, deeper sea took hold. Then the surface closed overhead.
 
 The world did not go dark. It changed its mind about light.
 
@@ -200,7 +200,7 @@ She squeezed his hand. Her charm made a green circle at her throat. Curious and 
 
 At the far end of the garden, Triton and Amphitrite waited beside an arch of white coral, without guards or heralds. Triton wore a dark blue cloak; Amphitrite’s robe flowed around her like a current.
 
-Recognition tugged at Percy: blue stone halls from his visits, Amphitrite calling him back from the outer pools, Triton correcting his swimming and pretending not to be impressed when Percy beat him to a pillar. He knew these people now, even with the childhood they remembered still beyond his reach.
+Percy recognized their manner now: the way Amphitrite waited for the last guest to reach her, the way Triton stepped aside to give the others room. Their stories of blue stone halls, childhood swimming lessons and races to a pillar were still stories to him, not memories he could retrieve. But the affection between them was something he'd come to know since arriving at camp.
 
 Triton lifted a hand. “You made it without racing the current.”
 
@@ -572,7 +572,7 @@ The current lifted them from the shelf. Percy looked back once: Amphitrite and T
 
 The path upward was easier, the water thinning to pale gold around them. Clarisse stayed near Percy without holding his arm; her coral token tapped at her wrist, a small hard rhythm. Silena looked back until the reef’s colors dissolved into blue. Annabeth’s hand remained in Percy’s, steady and warm despite the cold.
 
-At the surface, the lake opened around them. Sunlight lay across it in bright, ordinary pieces. Chiron waited on the bank, exactly where he had promised to be.
+At the surface, the Sound opened around them. Sunlight lay across it in bright, ordinary pieces. Chiron waited on the bank, exactly where he had promised to be.
 
 Clarisse stepped onto the grass and took a long breath, grass and pine sharp in her nose. “The air feels thin as paper up here.”
 
