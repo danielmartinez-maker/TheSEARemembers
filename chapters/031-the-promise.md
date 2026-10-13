@@ -1016,4 +1016,4 @@ He wrote *Friday dinner* beneath the inspection dates. She raised an eyebrow.
 
 She laughed and put a small square around the words. They would still have drills, cabin chores, letters, repairs and whatever unexpected thing the next week brought. It was worth making time for a meal they chose themselves.
 
-Percy returned the pencil and went to his cabin before curfew. Annabeth placed the notebook on her desk, ready for the next morning.
+Percy returned the pencil and went to his cabin before curfew. Annabeth placed the notebook on her desk beside the plan for the shrine, ready for the next morning and whatever it might require.
