@@ -1212,3 +1212,80 @@ Under the sky the sea had built for itself, Annabeth's hand stayed in hers. Outs
 
 ---
 
+That night, Thalia wrote to Jason at the small desk in the guest wing.
+
+The paper was thicker than the camp stationery and absorbed her ink too slowly. Twice she smudged a word and had to wait for it to dry before turning the page. Outside the window, the palace currents shifted in broad, slow sheets, carrying the glow of lanterns from the corridor.
+
+*Dear Jason,* she wrote. *Annabeth made me visit an observatory at the bottom of the sea. This sounds impossible, but it happened. The sky was painted with light. The engineers made the whole thing without allowing the water outside to carry an electric charge, which was wise of them.*
+
+She stopped. He would want more details, especially about how the projection worked. Jason had always liked mechanisms that seemed to do something impossible and then turned out to depend on a clever arrangement of ordinary parts. She drew a rough sketch of the dome in the margin and labeled it *not to scale* before Annabeth could appear and criticize the proportions.
+
+She wrote about Clarisse too, though not the parts Clarisse had asked her to keep private. She described the training court's changing current, the instructors who corrected their form, and the way they had both found it harder than expected to keep their footing.
+
+*You'll be pleased to know that I lost three points in a row and didn't threaten the referee. Growth.*
+
+The sentence made her smile. It was easy to tell Jason a story with a joke at the end. Harder to tell him the truth about why she wished he'd been there.
+
+*I miss you,* she wrote beneath it. *I know you're doing your own work at Camp Jupiter. I don't want you to think I expect you to come whenever I want company. I just would have liked to show you this place.*
+
+She sat for a long time before writing the next line.
+
+*I think I am learning to let Annabeth do things without standing behind her ready to fix them. She is better at some of them than I am. I hope I can learn to do the same for you.*
+
+A knock came at the door. Annabeth entered carrying two cups of warm tea. She looked at the open page and waited instead of leaning over Thalia's shoulder.
+
+"Is that for Jason?"
+
+"Yes."
+
+"Did you tell him about the fake sky?"
+
+"I drew a terrible picture."
+
+"Show me."
+
+Thalia handed it over. Annabeth studied the sketch with the gravity of a person inspecting a bridge.
+
+"The angle of the dome is wrong," she said.
+
+"I knew you'd say that."
+
+"But the conductors are in the right place."
+
+"High praise."
+
+She put the letter down without reading the words. Thalia noticed and appreciated it.
+
+"Did you finish your own notes?" she asked.
+
+"Mostly. I left out the places the technician said weren't for the public plan."
+
+"Good."
+
+Annabeth sat on the opposite side of the desk. For a while they drank tea and listened to a faint chime from the evening guard change. Neither asked about Zeus. The note he'd sent remained unanswered by any explanation of why he wanted an audience, and there was nothing productive to be done about it at midnight.
+
+"Do you think he'll be angry we didn't come?" Annabeth asked eventually.
+
+"Possibly."
+
+"Are you afraid?"
+
+"Some."
+
+Annabeth nodded. "Me too."
+
+Thalia didn't try to turn it into a lesson about courage. She put the cup down and asked whether Annabeth wanted the connecting door left open while they slept.
+
+"Yes," Annabeth said.
+
+"Then I'll leave it open."
+
+They went to their rooms. Thalia folded Jason's letter, sealed it, and wrote his camp address carefully on the outside. She left it by the guest-wing dispatch board for the morning steward, with a note asking which relay would carry it safely to Camp Jupiter.
+
+Before turning out the light, she checked the drawer where she'd put the route card. The map still showed the approved path to the coast, with the staffed stops clearly marked. She knew where Annabeth was. She knew where she herself would sleep. For one night, she could accept those facts without needing to solve the rest of the world.
+
+When she lay down, the ceiling's faint blue glow reminded her of the observatory. The sky in that room could be switched off, repaired and studied. The real sky could not. Her father could still become a problem. Jason was still far away. Annabeth would keep growing up, with or without Thalia's permission.
+
+None of that required her to stay awake preparing an answer to a question nobody had asked. She closed her eyes while the water moved beyond the window and let the night pass.
+
+---
