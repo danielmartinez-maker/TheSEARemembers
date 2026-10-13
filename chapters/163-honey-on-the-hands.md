@@ -542,9 +542,32 @@ He said that part out loud, and then he explained it, because Silena was already
 
 They crawled back onto the dock, dripping, sat with feet in the water, quilt over shoulders, four under one quilt. Percy put the spare blue shirt back on over his head, dry where folded, smelling of lemon oil and lake and canvas satchel, said nothing about it, neither did Clarisse, which was how gifts worked in Cabin Three.
 
-The stars did their work. The heron shifted on the skiff and settled. The lake kept everything it had been given: two palaces' worth of memory, three childhoods' worth of different water, one tower's worth of honey, one dock, and the whole of it, forever, in trust.
+Silena was the first to notice that the towel beneath them was still damp. She had been pretending not to think about tomorrow's washing, and the damp patch was evidence that pretending had accomplished nothing.
 
-Tomorrow Thalia would walk down the trail with bark in her boots. Tonight the seat stayed empty, the towels stayed folded, the canoe dreamed of freshwater under its tarp, and the four of them sat under one quilt with honey still on their hands, having practiced, on purpose, the only thing that ever worked.
+"Everybody up for one minute," she said.
+
+Clarisse groaned. "We just sat down."
+
+"Then you won't have far to go."
+
+They stood with their feet on the boards while Silena wrung the towel into the lake. Percy held the quilt out of her way. Annabeth fetched the clothespins from the satchel, which was surprising only until she admitted she'd brought them for the canoe tarp. The towel went on the line stretched between two posts, crooked but secure.
+
+"Does this count as another kitchen operation?" Percy asked.
+
+"It counts as not leaving mildew for tomorrow," Silena said.
+
+Clarisse moved one peg a few inches to keep the fabric from touching a rough knot in the rope. She did it without comment, which was her usual method of announcing that she agreed.
+
+Back on the dock, Silena opened the wax paper that had held the saved walnuts. She had promised them to Thalia, who was due back on the trail, but the packet was marked with greasy honey fingerprints and the paper had begun to tear. She found a clean envelope in her bag and wrote THALIA on the front in block letters, then slipped the nuts inside.
+
+"Don't eat those," she warned Percy.
+
+"I wasn't going to."
+
+"You were looking."
+
+"I look at most things."
+
+He watched her tuck the envelope away. The empty place in their little group was not something the others needed to fill tonight. It had a name on a packet and a promise attached to it. Silena could carry that upstairs, put it where she wouldn't forget, and greet Thalia with the walnuts tomorrow. They stayed another ten minutes, until Clarisse declared the towel dry enough to retrieve and Percy lost the argument about who would fold it.
 
 ---
-
