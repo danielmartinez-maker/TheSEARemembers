@@ -4969,3 +4969,315 @@ He laughed against her mouth.
 
 The day began.
 ---
+
+## December 21: His Song, Her Silence
+
+The concert was meant to begin at seven. By half past six, the amphitheater was full of coats, damp boots and impatient people arguing about who had taken the last dry seat.
+
+Thalia arrived with a folding stool under one arm and no intention of making herself useful. She had made that decision at breakfast. Rhys was playing, the Apollo instructors had arranged the music, and for once she was going to attend an event because she wanted to listen rather than because somebody needed an extra pair of hands.
+
+She had been offered three tasks before she reached the door.
+
+A child wanted help tying a scarf. She helped. A camper from Hermes's cabin asked her where to put the lantern boxes. She pointed. A young instructor asked whether she would inspect the stage platform before the performers arrived. Thalia stared at him until he remembered that this was not her responsibility.
+
+By the time she sat down, she'd expended enough authority to command a small army.
+
+The hall was warm. Curtains had been drawn over the glass, and rows of lamps cast a gold light onto the makeshift stage. Somebody had draped evergreen branches along the rail. The effect was almost tasteful, which meant Silena must have intervened.
+
+Annabeth sat beside Thalia with a program in her hand.
+
+"You're early," she said.
+
+"I believe in preparation."
+
+"You were pacing at home."
+
+"I was walking."
+
+"In a very small room."
+
+Thalia took the program and examined the schedule. Several pieces were unfamiliar. Near the end was a short new composition credited to Rhys Calder.
+
+She hadn't known he'd agreed to perform it.
+
+Annabeth watched her face.
+
+"You didn't know?"
+
+"No."
+
+"Are you angry?"
+
+Thalia considered. It wasn't anger exactly. He had sent her the music privately, and she had asked whether he minded the winter musicians trying it. Now the piece was going to be played in front of the entire camp. That was allowed. It was his work. But she'd grown attached to the memory of hearing it for the first time in an empty amphitheater, with only the two of them there to argue over the troublesome phrase. She didn't know yet how she felt about sharing it.
+
+She handed the program back.
+
+"I'll tell you afterward."
+
+Annabeth smiled and opened her notebook.
+
+The concert began. A duet of flute and lyre went well until the lyre player broke a string, after which the audience waited with commendable patience while she found another instrument. A group of children sang an old winter song in three different keys. Thalia was prepared to criticize the arrangement when Percy, sitting two rows ahead, turned and gave her a warning look.
+
+She folded her arms and kept her opinions to herself.
+
+Rhys appeared near the end, carrying his guitar. He had changed into a dark shirt she recognized from his cabin, the one she'd helped repair on an earlier Sunday. He looked unexpectedly nervous. His shoulders were set too carefully, and he checked the instrument twice before sitting down. When he looked out at the audience, he found her immediately.
+
+She raised one eyebrow.
+
+His smile loosened.
+
+He began to play.
+
+The first notes were familiar enough that she felt a small jolt of recognition. She had spent weeks hearing the tune in pieces, then alone at the hall, then in the cabin when he returned. Now it was complete. A violin entered beneath the guitar, carrying the second line he'd written for the arrangement his mother wanted. The sound filled the room differently than it had in private, broader and more confident. The difficult transition came, and Rhys left the pause exactly where it belonged.
+
+Thalia stopped thinking about whether she wanted to share the music.
+
+It was good.
+
+She listened with her hands folded in her lap, aware of Annabeth beside her and the audience all around, but not distracted by either. The melody carried something of the weeks when he had been away: absence held within a structure that did not collapse because one voice had temporarily fallen silent.
+
+At the end, Rhys let the last chord fade before he lowered his hand. The audience applauded. A few people rose. Thalia stayed seated, smiling so broadly that Annabeth stared at her.
+
+"Well?"
+
+Thalia looked at the stage. Rhys was accepting a few congratulations from the other musicians, but his eyes had found hers again.
+
+"He was good," she said.
+
+"That's all?"
+
+"Very good."
+
+Annabeth grinned. "I know."
+
+Thalia nudged her shoulder and went to find him.
+
+***
+
+Rhys was packing the guitar when she reached the side room.
+
+"You're late," he said.
+
+"I was considering whether to give you a review."
+
+"Did I pass?"
+
+"Marginally."
+
+He smiled. She put her hands against his chest, taking advantage of the moment before any of the other musicians returned.
+
+"You were excellent."
+
+He stopped smiling. "Really?"
+
+"Don't make me repeat it."
+
+"I think I might."
+
+She laughed and kissed him.
+
+There was something satisfying about the kiss after hearing him play, not as a reward or a way to make his success hers, but because she'd seen him do something he loved and she wanted to tell him how much she admired it. He met her eagerly. For a moment the noise of the concert receded to a distant murmur behind the door.
+
+When they parted he looked faintly dazed.
+
+"I was nervous," he said.
+
+"I saw."
+
+"You did?"
+
+"Of course."
+
+"What did I do wrong?"
+
+"Nothing. That's how I knew."
+
+He laughed, and she kissed him again.
+
+"How was your mother?" she asked when they had a moment to speak.
+
+"Good. She wrote yesterday. The new shelves are holding."
+
+"Then everything is wrong with the world."
+
+"She liked the recording."
+
+Thalia looked up. "You sent her the performance?"
+
+"A rehearsal. I told you she wanted to use the arrangement."
+
+"I know. I didn't realize she'd heard it already."
+
+"She had opinions about the tempo."
+
+"Naturally."
+
+He smiled. "She also asked whether you helped."
+
+Thalia considered. "What did you tell her?"
+
+"That you argued with me until I stopped ruining the pause."
+
+"Accurate."
+
+"And that the piece wouldn't sound the same without you."
+
+That one took her by surprise.
+
+She looked at him. There was no trace of an attempt to charm her. He was simply telling her the answer he'd given, as if it were obvious. She felt a small, unfamiliar heat move into her face.
+
+"That was excessive," she said.
+
+"Probably."
+
+He brushed a loose strand of hair away from her eyes.
+
+"Do you mind?"
+
+She thought about the question. She had not written the whole piece. She had offered a few suggestions, argued about a difficult phrase and played it badly several times before learning to hear what he meant. But she had been there while he worked, and the melody carried a trace of their conversations.
+
+"No," she said. "I don't."
+
+He smiled and pulled her close enough to kiss her again.
+
+The door opened.
+
+A violinist came in carrying a case and stopped with a look of mild surprise. Thalia stepped back at once, more from being startled than from shame. The woman smiled, said she needed the spare strings from the shelf and reached past them without commentary.
+
+Thalia felt her face burn.
+
+Rhys waited until the woman left.
+
+"We could have locked the door," he said.
+
+"We could have behaved."
+
+"Do you regret it?"
+
+Thalia considered. "No."
+
+"Then I don't either."
+
+She straightened his collar and glanced toward the hall.
+
+"Everyone's waiting."
+
+"Are they?"
+
+"Probably not. But if we stay here any longer, Percy will start asking questions."
+
+"Terrible prospect."
+
+She laughed, then followed him back to the audience.
+
+***
+
+They left together after the last lantern had been extinguished.
+
+The night was clear, with hard stars above the ridge and frost beginning to whiten the grass. Rhys carried the guitar in one hand and took Thalia's hand in the other. She had been looking forward to the walk all evening. It was the first time they'd attended an event together in a way everyone could see, and the public knowledge of their relationship had not diminished the private pleasure of being beside him.
+
+At the fork he stopped.
+
+"Come home with me?"
+
+She looked at him. She knew what she wanted. There was no point pretending she needed to consider it.
+
+"Yes."
+
+He smiled, and they walked north.
+
+Inside the cabin she put her coat on the hook while he set down the instrument. The room had become familiar enough that she didn't need to look for the spare blanket or the cups, but tonight she was interested in neither.
+
+He turned toward her.
+
+"You're staring."
+
+"I've been watching you all evening."
+
+"I noticed."
+
+"Did you enjoy it?"
+
+He smiled. "More than I expected."
+
+She crossed the room, rested both hands at his waist and kissed him. There was no hurry in it at first. She wanted to enjoy the anticipation they'd carried home, the warmth of him after the cold walk, the way his hand moved naturally to her back as she leaned closer.
+
+He met her enthusiasm without hesitation. When she drew away, he followed her just far enough to make her laugh.
+
+"Impatient," she said.
+
+"Very."
+
+She kissed him again.
+
+The concert had made her desire feel different. She had watched him from a distance, listened to the music he had made and spent the evening wanting to reach for him. Now she could. The pleasure of it was almost enough to make her forget the instrument case by the door, the winter beyond the shutters and the work awaiting both of them in the morning.
+
+She didn't forget entirely. She liked knowing that the world would be there when the night was over. She was simply glad it could wait.
+
+The room grew warm. He moved to turn down the lamp, and she caught his hand and drew him back toward her. He smiled. They were both laughing when the light finally went low.
+
+The rest of the evening remained theirs.
+
+***
+
+Afterward she found the concert program folded on the table, where she'd put it beside the bread.
+
+Rhys was making tea. She stood with the program in her hands, reading the line beneath his name. It contained no explanation of how the song had been written, no record of the arguments or the letters or the private hours in which they had learned to hear one another more clearly. It was only a title and a composer.
+
+She thought that was enough.
+
+"You're staring at the program," he said.
+
+"I'm evaluating the typography."
+
+"Verdict?"
+
+"Offensive."
+
+He laughed. She set it down and came to sit beside him.
+
+"Can I tell you something?" she asked.
+
+"Yes."
+
+"I liked being in the audience."
+
+He looked at her. "You did?"
+
+"Don't sound surprised."
+
+"I thought you'd insist on coming backstage to correct something."
+
+"I considered it."
+
+"Naturally."
+
+She rested her hand against his. "But I liked watching you do something that wasn't about me."
+
+He went quiet for a moment. Then he squeezed her fingers.
+
+"I liked knowing you were there."
+
+She looked up at him. That was all either of them needed to say. He had made something for the world and also for himself. She had heard it from the audience, then come home with him, and none of those facts threatened the others.
+
+She leaned closer and kissed him.
+
+He kissed her back, warm and unhurried, and when they drew apart she was smiling. The room smelled of tea, wood smoke and the faint sharpness of winter air caught in their coats.
+
+"Your tempo was slightly fast," she said.
+
+He groaned.
+
+"Only in the middle phrase."
+
+"Thalia."
+
+"I thought you deserved an honest review."
+
+He took the program from her hand and set it safely out of reach.
+
+"Come here," he said.
+
+She laughed and went willingly.
+
+---
