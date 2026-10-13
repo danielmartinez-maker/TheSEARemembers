@@ -13192,3 +13192,177 @@ He laughed softly. "I know."
 She kissed him again, glad of the familiar answer and the man who had finally stopped being afraid to play a difficult note.
 
 ---
+
+## June 2: The Demonstration
+
+The audience was larger than Thalia expected.
+
+Chiron had announced a public demonstration of the advanced program, partly to show the camp what the students had learned and partly to persuade more instructors to adopt the method. Thalia disliked the word public. She had wanted the students to work, not perform. But Eleni thought it mattered for the younger campers to see that archery could involve thinking rather than only hitting the middle of a target, and Thalia had agreed.
+
+She was still regretting the agreement when the crowd began gathering.
+
+Percy arrived with two friends and sat on the fence until Clarisse told him to find a bench. Annabeth came carrying a notebook, prepared to write down everything that happened whether anybody asked her to or not. Several older instructors stood near the back of the range, wearing the expressions of people who had spent the previous season questioning whether Thalia's plan was too complicated.
+
+Rhys came last.
+
+He took a seat on the far bench, put his guitar case beneath it and waved when Thalia looked over.
+
+She felt the same ridiculous pleasure she had felt at his winter concert.
+
+Then she went to work.
+
+The demonstration began with a safety inspection. Eleni led the first group through the course and invited a younger camper to identify three obvious hazards. The child found two, missed the third and looked embarrassed until an advanced student showed him how the angle of one screen created a problem he couldn't see from the entrance.
+
+The crowd grew quiet.
+
+Thalia watched the advanced student explain the hazard without boasting. That was the part she had been trying to teach for months: skill as something useful to another person, not merely evidence that the skilled person deserved admiration.
+
+The second group moved through the timed exercise. They made mistakes. One student chose the wrong lane and stopped himself before releasing the arrow; another hesitated at a turn and lost time but completed the route safely. The younger campers began cheering whenever someone made a good decision, even when the arrow missed its target.
+
+Thalia found she liked the sound.
+
+At the end Eleni invited the advanced students to explain what they would change about the course. They disagreed. One thought the third target needed to be farther back; another argued that moving it would create a worse safety problem. The discussion was detailed, slightly chaotic and exactly the sort of thing Thalia had once considered a failure of discipline.
+
+Now she let them argue.
+
+When the final students finished, Chiron stepped forward.
+
+He thanked the instructors, asked two questions about equipment and invited the audience to examine the course after the weapons had been put away. Then he turned toward Thalia.
+
+"You've built something worth continuing."
+
+Thalia opened her mouth to deflect the compliment.
+
+Eleni caught her eye.
+
+Thalia stopped.
+
+"Thank you," she said. "All of us did."
+
+She looked toward the students. Some were already explaining the course to the younger campers, delighted to be treated as experts. The older instructors were asking Eleni questions. Annabeth was drawing a revised lane in her notebook. The whole field had become the sort of place Thalia wanted to teach.
+
+Rhys was watching her from the bench.
+
+She smiled at him.
+
+***
+
+They escaped after lunch.
+
+Thalia had spent an hour answering questions from people who wanted advice about beginning a similar course. She liked the interest, but by the end she was tired of explaining why the program had changed since autumn and why allowing students to disagree was not the same as surrendering discipline.
+
+Rhys waited by the lower path while she collected her notes.
+
+"Are you finished?"
+
+"With the demonstration? Yes."
+
+"With the questions?"
+
+"Never."
+
+He held out a small picnic basket.
+
+She looked at it.
+
+"What's that?"
+
+"Food."
+
+"You're learning to plan."
+
+"I was told you might be hungry."
+
+"By whom?"
+
+"Your sister."
+
+Thalia groaned. "Of course."
+
+They went down to the lake, following the narrow path that ran beneath the trees before opening onto the low shore. The water was bright and unusually still. Summer had arrived in earnest now, warming the stones and leaving the grass thick along the bank. There were other campers farther down the lake, but nobody had chosen the little flat place beneath the willows where Rhys set down the basket.
+
+Thalia sat on the blanket.
+
+He opened the lid. There was bread, cheese, apples, a small jar of honey and two bottles of water. Nothing elaborate. He had remembered the things she liked without preparing an entire production.
+
+She took a piece of bread.
+
+"Good choice."
+
+"I'll record your approval."
+
+"You should."
+
+He sat beside her.
+
+For a while they ate in silence. Thalia could hear the voices of campers across the lake and the occasional splash of someone entering the water. She'd been standing in front of an audience all morning, explaining choices and defending rules. It was pleasant to sit beside a person who didn't need her to justify anything for the next few minutes.
+
+Rhys watched the lake.
+
+"You were good today," he said.
+
+"The students were."
+
+"Yes. And you."
+
+She looked at him. He was not making the compliment in order to get a reaction. He had watched the demonstration, seen the students work and come away with an opinion of his own.
+
+"Thank you," she said.
+
+He smiled. "You're getting very good at that."
+
+"Don't become insufferable."
+
+"An impossible request."
+
+She laughed and leaned against his shoulder.
+
+The sun had moved behind the willows. The shadow was cool enough to make her grateful for his warmth beside her. She could feel his breathing, steady and familiar, and the small movement of his hand when he rested it on her knee. The touch was affectionate rather than an invitation to do anything immediately, but she felt the desire underneath it and smiled.
+
+She turned toward him.
+
+He looked down, already anticipating her.
+
+She kissed him.
+
+The kiss was slow and warm, private beneath the trees. His hand moved to the back of her neck, and she leaned into it, enjoying how natural the gesture had become. They had been together for months now, through winter, separation and return. She still liked the moment when the conversation stopped and she could simply show him what she wanted.
+
+When they drew apart, Rhys was smiling.
+
+"Did you come here for the food?" he asked.
+
+"Partly."
+
+"And the rest?"
+
+She kissed him again.
+
+He laughed softly, and for a while they remained close, content to let the afternoon pass without another task demanding their attention.
+
+Later they went to the north cabin. Thalia left her notes on the new folding desk. Rhys put the picnic basket away, then came to stand behind her as she closed the folder. She turned toward him, caught his shirt and drew him close again.
+
+The desire that had begun beneath the willows followed them into the familiar room. He kissed her with a pleased certainty, and she met him just as readily. The open window let in the warm evening air. Somewhere outside a bird called from the pines. The camp was finishing its Sunday, and they had chosen to spend the rest of theirs together.
+
+They lowered the lamp before it was fully dark.
+
+***
+
+In the morning Thalia found the demonstration notes on the folding desk, exactly where she'd left them.
+
+Rhys was making breakfast. She watched him for a moment, aware of the easy pleasure of having him near. They had worked hard all spring. The program was no longer only an idea she had defended at a meeting, and his music was no longer confined to the camp.
+
+They had both done something worth being proud of.
+
+"More tea?" he asked.
+
+"Yes."
+
+He poured it.
+
+She took the cup and went to the desk, where one student's evaluation lay on top of the pile. She began reading it while Rhys returned to his music at the window.
+
+For an hour neither needed anything from the other.
+
+It was a good morning.
+
+---
