@@ -1226,6 +1226,8 @@ Percy paused at the cabin door. In the morning he'd worried the whole night woul
 
 They went inside together. Tyson placed the repaired sandal near the door with a note for its owner, and Percy put his damp dance shirt in the laundry bag before Silena could discover he'd left it on the floor.
 
+He was grateful.
+
 Above stars burned steady. The pine on Half-Blood Hill rustled, guarding them all asleep.
 
 ---
