@@ -480,7 +480,99 @@ She scooped dirt from under the moss carpet where concrete showed, held it to hi
 
 Thalia slung his arm over her shoulder. He leaned, shaking, spitting pink.
 
-"Two down," Annabeth breathed. Head pounding. Light pulsing like a heartbeat. "Percy?"
+There was still Martin.
+
+Annabeth had almost forgotten him. That realization frightened her more than the pink sugar on Grover's mouth. She had walked into the Lotus with five people, not four. The hotel had somehow made the fifth person feel like a problem belonging to another hour.
+
+She found him at the motor-services desk, seated in front of a stack of papers. He had a pen in one hand and a paper cup of coffee in the other. The coffee was untouched. The stack contained forms for parts, labor, insurance, authorization, receipt and final inspection. As he signed one, the clerk placed another on top.
+
+"Martin," Annabeth said.
+
+He looked up and smiled. "There you are. I finally got the estimate sorted."
+
+"How long have you been here?"
+
+"Not long. We're almost done."
+
+Annabeth looked at the clock behind him. It said 3:15. The same time as every other clock she'd checked. A second hand ticked, reached the top and returned to the place it had been.
+
+"Martin, you have to come with us."
+
+"I can't leave the paperwork unfinished. The children need the van, and I told Chiron I'd make sure it was safe."
+
+"Somebody is using that to keep you here."
+
+He frowned. "What?"
+
+She pointed to the forms. One was dated five days ago. Another had today's printed date. Another was headed *Tomorrow's Inspection*. All three concerned the same damaged hose, and all three promised it would be fixed in twenty minutes.
+
+"You've been signing a different version of the same form," she said.
+
+Martin's expression changed. He placed the pen on the desk and read the dates. His lips moved slightly, counting.
+
+"That can't be right."
+
+"It isn't. This place messes with time. I need you to come outside and check the van with your own eyes."
+
+The clerk smiled.
+
+"Sir, one more signature and everything will be taken care of. Your young passengers are safe here. Isn't that what you wanted?"
+
+Martin's hand moved toward the pen.
+
+Annabeth grabbed the paper before he could reach it.
+
+"Martin, you've spent the whole trip telling us not to trust somebody who promises repairs without a name and a number. You told us to keep records because wanting something to be fixed doesn't make it fixed. Look at your log."
+
+He turned toward the small notebook on the counter. She saw him trying to read the entry he'd written before the breakdown, the numbers blurring and shifting in front of him.
+
+"I don't remember the last stop," he said.
+
+"Neither do I. Not clearly. That's why we have to use what we wrote before we came inside."
+
+Thalia had arrived behind them with Grover. She still looked half asleep, and her hand twitched each time the arcade machine called Jason's name. Grover was pale but alert, both hands clamped over his mouth to keep from tasting the sugar clinging to his lips.
+
+"We need the keys," Thalia said.
+
+Martin looked down. His keys were still clipped to his belt. The clerk held out a second set, gleaming and perfect.
+
+"Use our guest car," she suggested. "We can take care of your old van. Why struggle on the highway when you can have something comfortable?"
+
+For an instant Martin looked tempted. He'd spent days driving exhausted children across the country, dealing with damaged hoses, delayed schedules and questions nobody could answer. A new car, a completed work order and a promise that somebody else would be responsible for the next problem must have sounded wonderful.
+
+Then he took the real keys from his belt.
+
+"That's not my vehicle," he said.
+
+The clerk's smile thinned.
+
+He stood, took the mileage log and his old receipt folder, and left the pen on the counter.
+
+"Show me the door," he told Annabeth.
+
+She pointed toward the daylight. Thalia walked close enough to steady him if the floor shifted, and Grover kept his face turned away from the passing trays of food. Annabeth followed, making sure Martin stayed ahead of her.
+
+He stopped when the clerk called his name again.
+
+"Your passengers will be stranded," she said.
+
+Martin looked back. "They'll be stranded if I stay here signing forms."
+
+He stepped away.
+
+Annabeth's relief lasted about two seconds. Then she realized Percy was no longer following them.
+
+"Where is he?" she asked.
+
+Grover turned toward the brass pay phone.
+
+The receiver hung from Percy's hand. He was listening to somebody who wasn't there.
+
+Annabeth felt her own fear come back with such force it cut through the hotel music.
+
+"Percy," she said, and ran.
+
+"Three clear," Annabeth breathed. Head pounding. Light pulsing like a heartbeat. "Percy?"
 
 Percy stood in the booth, receiver to his ear, tears on his cheeks.
 
