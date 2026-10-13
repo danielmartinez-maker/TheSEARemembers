@@ -466,6 +466,96 @@ The kitchen erupted.
 ---
 
 
+The cookies were cooling when Annabeth noticed the first problem with her recipe notes.
+
+She had written down every quantity carefully. Butter, sugar, salt, vanilla, flour, eggs and coloring were all recorded in grams or measured spoons. She'd written the oven temperature and cooking time beside a sketch of the tray. But the notes described what they'd done today, not what Percy remembered Sally doing.
+
+"What's wrong?" he asked.
+
+"Nothing with the cookies. With the record."
+
+She turned the notebook toward him. He read the page, following the lines with one finger. The measurements were precise. The order was right. He recognized what they'd used, even if some quantities had been guesses.
+
+"It looks good," he said.
+
+"It's a standardized version. I want to separate it from the original recipe as you remember it."
+
+Percy looked up. "I don't have her original recipe."
+
+"I know. That's why we shouldn't write this as though we do."
+
+She drew a line across the page and started a second section. This one was headed *Percy's recollections*. She asked him about the things he'd said before the mixer started: Sally setting the butter out early, pouring vanilla into the cap, using a chipped mug for flour and waiting until the edges turned golden.
+
+He gave her the details he knew. Where he was uncertain, they wrote that he was uncertain. It was tempting to turn an approximate memory into a clean number because a number seemed easier to preserve. Annabeth refused to do it.
+
+"Did she always use the same blue?" she asked.
+
+"No. Sometimes the bottle was almost empty and the cookies came out pale. One time she tried to mix two colors and they looked like toothpaste."
+
+"What did you do?"
+
+"Eat them. She said toothpaste was a terrible flavor and an excellent color."
+
+Annabeth laughed and wrote down the description. It wouldn't tell anyone how many drops to use. It would tell a future reader why the blue mattered to Percy.
+
+"Did she write anything down herself?" she asked.
+
+"Sometimes on the backs of envelopes. She'd use whatever was lying around. I remember a grocery list with chocolate chips on it and a reminder to pay the electric bill."
+
+He stopped. He remembered that list vividly, folded beside the fridge in the tiny apartment. He could see Sally's handwriting and the way she'd circled the bill twice because she was worried there wouldn't be enough money before the next paycheck.
+
+Annabeth waited, giving him room to decide whether to continue.
+
+"I don't remember the exact words," he said. "But she kept the grocery list after the cookies were made. She used the blank side for another recipe."
+
+They wrote that down without trying to reconstruct what had been on the paper.
+
+Ella came over, attracted by the open notebook and the careful distinction between headings.
+
+"Recipes," she said. "A recipe is a set of instructions. A recollection is a remembered thing. Not identical."
+
+"Exactly," Annabeth replied.
+
+Ella looked delighted. She offered to copy the page in a smaller hand so it could be stored in the kitchen's recipe file. Annabeth agreed, then asked whether Ella could keep the recollections with Percy's permission rather than automatically filing them for anyone to read.
+
+Percy looked at the page. He wanted other people to bake the cookies. He didn't necessarily want every private detail of his old apartment passed around camp.
+
+"The recipe can go in the kitchen file," he said. "I want to keep the memories with me. Maybe I'll copy some for Amphitrite later."
+
+Ella nodded. She had been working in the library long enough to understand that not every interesting record belonged on an open shelf.
+
+"Public instructions, private memories," she repeated. "Two categories."
+
+She made a clean copy of the measured recipe, then returned the notebook to Annabeth. She wrote *adapted from Percy's recollection of Sally Jackson's cookies* beneath the title, leaving the space for any future amendments.
+
+Percy looked at the wording. It was a small change. It made the recipe belong to Sally without pretending the kitchen at camp was the same kitchen he'd lost.
+
+"Thank you," he said.
+
+Annabeth studied the cookies on the rack. Some were slightly smaller than the others; one had spread until it nearly touched its neighbor. Sally might have been amused by the imperfections, or she might have scolded Percy for scooping them carelessly. Annabeth knew how easily a person who had died could become impossibly perfect in the stories people told.
+
+"Can I ask you one more thing?" she said.
+
+"Sure."
+
+"Did your mom ever get angry while you were baking?"
+
+Percy laughed unexpectedly.
+
+"All the time. I once spilled an entire bag of flour over the floor and lied about it. She made me sweep it, then mop the rest. We didn't bake again until the next weekend."
+
+Annabeth smiled. She liked the story. It made Sally a real person with rules, a tired parent who could be irritated and still make time for a child she loved.
+
+"That goes in the private notes," she said.
+
+"Definitely."
+
+They shut the notebook. The cookies were almost cool enough to taste, and Grover had been watching the clock with growing desperation. Percy stood and went to call the others.
+
+The recipe would change when they baked it again. He could still keep the first attempt, with its scorched tray and extra vanilla, as a day he'd spent telling the truth about someone he missed.
+
+---
+
 Grover Underwood took his duties seriously.
 
 As a satyr, as a searcher, as Percy's best friend and protector, he understood that some quests were about monsters and prophecies, and some quests were about telling the truth when the cookies were good.
