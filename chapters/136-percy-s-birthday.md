@@ -460,6 +460,36 @@ They sat a while, watching silver fish flicker through lily stems, saying nothin
 
 ---
 
+By the time they returned from the shore, Percy had remembered a birthday promise he'd made to Tyson and forgotten to keep. He had said they would visit the equipment shed to see the new hinges Tyson had designed for the visitors' bunk, and the afternoon was almost gone.
+
+"We can do it tomorrow," Percy offered.
+
+Tyson looked down at the wrapped parcel in his hands. "I leave early."
+
+Percy felt his stomach sink. In the rush of cake and visitors and presents he'd managed to make his brother's small request the easiest thing to postpone.
+
+"Then let's go now," he said. "Before everyone starts the next game."
+
+They walked to the shed together. Tyson unfolded the drawing on the workbench and explained how the hinge would let the bed frame fold against the wall when no guest was staying. Percy had thought it was a complicated solution to a simple problem. Then Tyson showed him how much room it would leave for Clarisse's training equipment.
+
+"You're making the cabin work when you're not there," Percy said.
+
+"Yes. I am not there most days. That is still our cabin when I visit."
+
+Percy examined the measurements and pointed out that one hook would hit the window latch. Tyson checked, grinned and shifted the hinge line half an inch.
+
+They didn't build it that evening. Percy promised to bring the amended plan to Chiron for approval, and Tyson agreed to wait until the cabin's occupants had seen it.
+
+"Thank you for looking," Tyson said.
+
+"I'm sorry I nearly forgot."
+
+Tyson hugged him hard enough to crease the drawing. "Birthdays are very busy."
+
+"Not too busy for you."
+
+They returned to find the arm-wrestling competition noisier than before. Percy slipped the folded design into his pocket so it wouldn't vanish under the table with the ribbons and cake plates.
+
 When they returned, arm-wrestling had escalated.
 
 Thalia had her sleeve rolled up, boot braced against the table leg, face red with effort. Clarisse matched her, teeth bared, biceps trembling. A crowd ringed them, shouting. Tyson refereed with a breadstick.
