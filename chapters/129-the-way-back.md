@@ -323,6 +323,131 @@ Clarisse nodded. No forgiveness, no promise. The current turned, hippocampi adju
 
 ---
 
+The chariot slowed near the outer channel because one of its harness fittings began to click.
+
+Percy heard it before he saw it. Every time the lead hippocamp pulled against the turn, the metal ring at the left yoke struck the frame with a sharp, uneven note. The animal didn't appear distressed, but Triton raised a hand to the driver.
+
+"Hold here."
+
+They came to rest beside a shelf of black rock. The current moved around them, steady enough to keep the chariot from drifting while the driver examined the harness. Percy leaned over the rail to see what was happening.
+
+"Is it broken?"
+
+"Not yet," the driver answered. "A retaining pin has worked loose. The harness will continue to pull, but the ring could twist if we take the sharper northern passage."
+
+Clarisse was already standing. "We should unload it."
+
+"Not everyone needs to get out," Triton said.
+
+"I didn't say everyone. The heavy bags are at the front. Moving them will take strain off that side while he works."
+
+The driver considered the weight distribution. "She's right."
+
+Clarisse gave Percy a satisfied glance but didn't make a speech about it. She handed the heaviest pack to Silena, who passed it to the rear bench. Annabeth held the route map while Triton checked the spare fittings.
+
+Percy wanted to mend the situation by smoothing the water. He could make the chariot feel lighter, carry it over the current and bring them to shore without touching the harness. The impulse was so strong that he could already feel the water gathering against his hands.
+
+"Don't," Clarisse said quietly.
+
+He looked at her.
+
+"If you hold the load with your power, they can't tell whether the pin's actually secure. Let them fix it."
+
+Percy released the current. It slipped back into the sea without moving the chariot.
+
+"Right."
+
+The driver used a small bronze tool to remove the loose pin. The metal had worn at the narrow end, enough that it could slip under repeated movement. Triton found a spare of the correct diameter and checked the fit before handing it over.
+
+"Do these have a service limit?" Annabeth asked.
+
+"They're inspected before departure," the driver said. "But some wear isn't visible until a fitting moves under load. We'll replace the opposite pin when we return."
+
+"Will the chariot be safe to use now?"
+
+"After we test it. Not before."
+
+He fitted the new pin, tightened the retaining ring and asked Clarisse to hold the rear strap while he checked the alignment. The chariot rocked once. Silena gripped the rail, then laughed at herself when nothing else happened.
+
+"I don't like being surprised by a moving vehicle," she said.
+
+"Neither do I," Annabeth replied. "Especially underwater."
+
+The driver climbed back into his place and had the hippocampi pull a short distance along the shelf. The ring stayed silent. He stopped again, checked the pin and made a note in the travel log.
+
+"Clear to continue," he said. "We'll use the wider southern turn rather than the northern cut. It'll take a little longer, but I want the load steady."
+
+Triton agreed. Percy looked at the map and calculated that the detour would put them on the coast later than Chiron expected.
+
+"We should send a message," he said.
+
+"I already have," Triton replied. "The coast watch knows our revised arrival window."
+
+Percy stared at him. "When did you do that?"
+
+"While you were examining the harness."
+
+"You're annoyingly efficient."
+
+"It is part of my charm."
+
+Clarisse snorted. "Your charm is overdue for inspection."
+
+The chariot moved on. Percy sat beside Silena at the back, the heavy pack between their feet. She was looking at the driver's entry in the travel log, where he'd written down the replaced pin and the change of route.
+
+"Do you think the palace will actually inspect the other one?" she asked.
+
+"Yes. The driver was the one who said it needed checking."
+
+"Then somebody owns the job."
+
+Percy liked the way she said it. No one had promised the universe would keep them safe because they were children of a sea god. A driver had discovered a worn pin, repaired it, selected a slower route and made a note for the next person who used the chariot.
+
+Annabeth came to sit opposite them. She held the route map open and studied the path they were taking. The southern turn ran around a broad ridge before rising toward the coast. It wasn't the route they had expected, but the landmarks were clear enough for her to follow without asking Percy to explain every one.
+
+"Will we see the old watchtower?" she asked Triton.
+
+"Yes. From this side it is easier to recognize."
+
+She pointed to the structure when it appeared, a dark column against paler rock with a row of faintly glowing markers at its base. Percy had passed it on a previous visit without noticing the pattern.
+
+"Why does it have three lines of lights?"
+
+"One for the local route, one for deep-water traffic, and one for visitors who need escort."
+
+"That's useful," Annabeth said.
+
+The next marker lay farther up the ridge. She was already looking for it before Triton identified it, and Percy felt an odd pleasure at seeing her become familiar with a place he'd worried would always require him as a guide.
+
+At the top of the southern turn, the water lightened and the chariot began to rise. The driver adjusted the reins. The hippocampi followed the marked course without strain, their bodies moving in powerful, coordinated sweeps.
+
+Silena leaned toward Percy.
+
+"Are you sad to be leaving?"
+
+"Some."
+
+"Me too. I liked the workshop."
+
+"I thought you were ready to get home."
+
+"I am. I have something I want to test. I can't do that here."
+
+He considered it. Silena had enjoyed Atlantis enough to want to return, but her next step required camp, a sewing table and people who could tell her whether her design worked in ordinary air.
+
+"I guess I feel both," he said.
+
+"Then you do."
+
+She rested her hand on the pack between them. It wasn't meant to comfort him into feeling one thing instead of the other. She simply sat beside him while the chariot moved.
+
+The driver called out a landmark ahead. Percy looked up and recognized the pale seam where the deeper water gave way to the coastal shelf. He'd been worried that the return would be a clean line separating two homes. Instead it had involved a broken pin, a detour, an ordinary conversation and a set of choices people had made to get them back.
+
+It was less elegant than the direct route. He trusted it more.
+
+
+---
+
 The coast surfaced slowly, gulls first as white flecks and cries, their voices sharpening as air replaced water. First the ridge's dark line, then silver flash where a wave caught sun and threw it back in a dazzling blink, then shallower green where sea grass waved over rocks, shadows rippling like cloth in wind. The chariot climbed with the current, water warming degree by degree against their faces and bare arms. Pressure eased off Percy's shoulders, ears popping with a soft click. Beneath her collar Annabeth's charm glowed faintly as the surface drew near, light dancing across her collarbones, green-gold flickering with each breath she took.
 
 "Going to miss how the light changes," she said, watching it fracture.
