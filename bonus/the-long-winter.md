@@ -4247,6 +4247,304 @@ He laughed. She let go of his hand and started uphill, the shared photograph saf
 
 ---
 
+Saturday evening began at the common-room table with an argument neither of them had started.
+
+An older Athena camper was attempting to explain a card game to three people who already believed they understood it. A daughter of Hephaestus insisted that the rules printed on the inside of the box were wrong. One of the Apollo instructors had kept an illegal extra card under his sleeve for twenty minutes and was offended that anyone would notice.
+
+Thalia stood in the doorway with Rhys beside her, watching the situation deteriorate.
+
+"This was your idea," she said.
+
+"I thought it might be nice."
+
+"Is that what you call this?"
+
+"Nobody's bleeding."
+
+"Yet."
+
+He smiled. She looked down at their joined hands, surprised that she'd taken his without thinking when he guided her through the crowded hall. The people around them were all adults, or close enough to be spending their Saturday evening arguing over cards rather than waiting for the younger campers to finish supper. There was no reason to conceal the fact that she and Rhys had come together.
+
+She still felt the old impulse to let go when someone glanced at them.
+
+Rhys didn't tighten his grip or challenge the impulse. He simply stood beside her, waiting to see what she wanted. She kept holding on.
+
+"Come on," she said.
+
+They took two chairs near the end of the table. The Athena camper looked at Thalia with unmistakable relief.
+
+"Maybe you can make them listen."
+
+"Unlikely."
+
+"Then at least you can read the rules."
+
+Thalia picked up the booklet. It had six pages, none of which justified the volume of argument around the table. She read the instructions in a minute and gave the box back.
+
+"He's cheating," she said, pointing at the Apollo instructor.
+
+The man stared. "You can't know that."
+
+"Your left sleeve is suspiciously stiff."
+
+Rhys was laughing before the hidden card appeared.
+
+"This was supposed to be a friendly evening," he said.
+
+"It can still be friendly. He can lose honestly."
+
+They played three rounds. Thalia won the first, lost the second when Rhys persuaded the table to make an alliance against her, and spent the third trying to prove he had made a mathematical error. He had. It didn't change the result.
+
+"You're very pleased with yourself," she told him after the cards were collected.
+
+"I survived."
+
+"You're going to be unbearable."
+
+"I've been preparing."
+
+The others began clearing plates and folding chairs. Thalia rose to help, then stopped when she saw Rhys carrying the table back toward the wall with two of the instructors. She watched him maneuver the awkward furniture around a stove without needing anyone to explain where it belonged. It was an ordinary thing, and she liked him for doing it.
+
+That bothered her.
+
+She had always understood admiration for skill. A good archer was easy to respect. So was a person who could repair a broken tool or keep calm when someone else was hurt. But the delight she felt at seeing him carry a table, sleeves rolled up and hair falling across his forehead, had no respectable practical explanation.
+
+He caught her looking.
+
+"What?"
+
+"Your side of the table was crooked."
+
+"It's a table."
+
+"And you were winning at cards by convincing other people to play badly."
+
+"An effective strategy."
+
+"Dishonorable."
+
+He stepped closer, still smiling. "You said you wanted an evening without an audience. Have I disappointed you?"
+
+She glanced around. The common room was almost empty now. Two instructors were arguing over who had brought the last loaf of bread. The fire had settled into low red coals.
+
+"No," she said.
+
+He looked surprised by the lack of a sharp answer.
+
+She took his hand and led him outside before she could become self-conscious.
+
+***
+
+The path toward the lake was dark beyond the lantern line.
+
+Thalia knew it well enough to walk without thinking, though she slowed where the gravel gave way to wet soil. Her heel had improved, but she wasn't prepared to be careless with it merely because the evening had been pleasant. Rhys matched her pace without drawing attention to the adjustment.
+
+They walked in silence for a few minutes.
+
+"I didn't know you liked games," he said.
+
+"I like winning."
+
+"That part was clear."
+
+"And I like knowing the rules."
+
+"That was even clearer."
+
+She looked at him. "You were helping them cheat."
+
+"I was helping them survive."
+
+"You could have joined me."
+
+"You were already winning."
+
+"That's not a reason to turn against me."
+
+He laughed. She should have laughed too. Instead she felt a small, unreasonable sting, and the recognition irritated her more than the sting itself.
+
+She had expected him to be on her side.
+
+It was a foolish expectation. They'd been playing cards. The point of the game was to compete. But she'd become accustomed to finding him across from her with a look that meant he understood the joke nobody else had noticed. Tonight he'd chosen to make an alliance against her, and for a moment the pleasure of being a pair had become the humiliation of being treated as an ordinary opponent.
+
+Rhys saw something change in her face.
+
+"Thalia?"
+
+"Nothing."
+
+He didn't answer immediately. They reached the low wall by the lake, where the cold stone had begun to collect moisture from the rising mist. She stopped beside it and looked at the water.
+
+"You're annoyed."
+
+"A little."
+
+"Because you lost?"
+
+"Because you enjoyed it."
+
+He leaned against the wall. "I did enjoy it."
+
+She turned toward him, ready to argue. He was looking at her with an expression of patient curiosity that made the argument seem suddenly inadequate.
+
+"I thought," she said, then stopped.
+
+"What?"
+
+She looked away. "I thought we were going there together."
+
+"We did."
+
+"Then you helped them beat me."
+
+"At cards."
+
+"I know it was at cards."
+
+He waited.
+
+The silence stretched. Thalia could hear the reeds moving along the shoreline and distant voices from the common room. She wanted to let the subject go, but the irritation had touched something larger, and she knew Rhys would notice if she pretended otherwise.
+
+"I didn't like feeling ridiculous in front of everyone," she said.
+
+He thought for a moment. "I wasn't trying to make you feel ridiculous."
+
+"I know."
+
+"And I don't think anybody was laughing at you. They were laughing because you accused three people of conspiring and turned out to be right."
+
+She considered. That was also true. The laughter had been affectionate, not cruel. She had known it at the time. Something else had made her uncomfortable.
+
+"I don't know how to do this," she admitted.
+
+"Card games?"
+
+"Us. In public."
+
+He looked at her more closely.
+
+She continued before she could change her mind. "When we're alone, I know where I stand. I want you close. You want me close. We can argue without worrying that the argument is somebody else's entertainment. In there I didn't know whether to act like myself or like somebody's girlfriend."
+
+Rhys was quiet. Then he said, "I like you acting like yourself."
+
+"That's convenient."
+
+"I mean it."
+
+She looked at him.
+
+"You're the person who caught a card up someone's sleeve from across the table," he said. "You're also the person who came with me even though you'd have preferred to spend the evening somewhere quieter. I liked both."
+
+"I was terrible company."
+
+"You were excellent company. You threatened to prosecute three people."
+
+She laughed despite herself.
+
+He smiled, then grew more serious. "But if I made you feel as though you were on display, I'm sorry."
+
+"You didn't. Not exactly."
+
+He nodded. "All right."
+
+They stood together beside the wall. She could feel the cold through the sleeve of her coat. She could also feel his hand waiting close to hers, not claiming it. She took it.
+
+"I don't want you letting me win because we're together," she said.
+
+"I wouldn't dare."
+
+"And I don't want you making a show of beating me."
+
+"I'll try to keep my victories modest."
+
+She looked at him sharply. He was smiling again.
+
+"Rhys."
+
+"Thalia."
+
+She stepped closer and kissed him, mostly because she was done trying to explain herself and partly because the pleasure of his smile had become very difficult to resist. His hand moved to her back, holding her close without making the kiss into an argument. She enjoyed the warmth of his mouth and the small laugh he gave when she pulled him closer by the collar.
+
+When she drew away, he was looking at her with an expression that made her feel both pleased and a little foolish.
+
+"What?" she asked.
+
+"I had a good evening."
+
+"So did I."
+
+"Even though you lost."
+
+She gave him a shove with her shoulder.
+
+"You've ruined it."
+
+"Tragic."
+
+She kissed him again.
+
+***
+
+They returned to the north cabin slowly.
+
+The room was cold when they arrived. Rhys lit the stove while Thalia examined the photograph they'd taken that afternoon. She had kept the blurred picture of the two of them; he'd kept the one in which she was making a terrible face. She took her copy from inside her coat and put it on the table.
+
+He looked over.
+
+"You're carrying it."
+
+"Don't sound triumphant."
+
+"I'm pleased."
+
+"It's evidence of poor camera work."
+
+"Very affectionate evidence."
+
+She pretended to examine the corners. The print was starting to curl where she'd handled it too often. She flattened it beneath a book, then went to sit beside him on the cot.
+
+He had washed the cups. He'd folded the spare blanket. He had left the guitar where he could reach it. The room was ready for an ordinary evening, not a performance arranged around her arrival.
+
+She liked the difference.
+
+Rhys turned toward her. She touched his cheek and kissed him. He responded eagerly, one hand settling against her waist. For a while the conversation about cards became irrelevant. They were alone again, and she could show him what she wanted without asking the entire camp to interpret it.
+
+His smile faded into the next kiss. She felt the warmth of him through his shirt, the gentle pressure of his hand at her back, and the comfortable fact that she didn't have to defend her desire as a strategic decision.
+
+She drew back just long enough to look at him.
+
+"I still intend to win next time."
+
+He smiled. "Of course."
+
+She kissed him again. The lamp burned at the edge of the room. Outside, the lake was dark and the lanterns marked the path back up the hill.
+
+They stayed close until the stove began ticking with heat.
+
+Later, when she put on her coat to leave, Rhys reached for the photograph and handed it to her.
+
+"Don't leave that."
+
+She took it, surprised by the small pang of disappointment. Part of her had wanted to let it stay with him, a private object he could look at when she was gone. But she had kept it for herself, and he'd remembered.
+
+She slipped it into her coat.
+
+"Thank you."
+
+He smiled. She leaned over and kissed him once more.
+
+At the door she paused.
+
+"Next time," she said, "you can be on my team."
+
+"Will you let me play?"
+
+"Don't get ambitious."
+
+He laughed, and she went down the path smiling, the argument at the lake reduced to something they both understood better than they had an hour earlier.
+
+---
+
 On Sunday, the thirtieth minute of the afternoon was when Thalia discovered she had made a mistake.
 
 She'd spent most of the morning imagining the next time she'd be alone with Rhys. The memory of the orchard photograph kept appearing whenever she tried to concentrate on something else, especially the ridiculous expression on his face when she'd shoved him before the shutter clicked. She had the print tucked inside a book in her trunk, and she had opened the book twice since breakfast without intending to read a word.
