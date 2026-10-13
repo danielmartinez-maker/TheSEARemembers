@@ -6436,3 +6436,171 @@ In the morning she took the outline and went back to work.
 She felt more like herself than she had in weeks.
 
 ---
+
+## January 30: A Line Drawn in Chalk
+
+The argument began in front of six instructors and ended with Thalia leaving the range before she said something she couldn't take back.
+
+They had been reviewing her proposed advanced program. She wanted students to take responsibility for building a practice course, judging the safety of their own arrangements and explaining their decisions afterward. The instructors liked the idea until Rhys asked how she intended to prevent a poorly placed target from exposing another shooting lane.
+
+She had an answer. It wasn't a good enough answer.
+
+"The lanes will be separated," she said.
+
+"By what?"
+
+"Temporary screens. Chalk lines. Supervision."
+
+"Chalk won't stop an arrow."
+
+"I know what chalk does."
+
+He looked at the plan. "Then the students need a fixed barrier before you can let them place anything."
+
+Thalia felt the familiar heat of irritation. They had discussed a version of the plan the night before, sitting together on his cot. She had expected questions. She had not expected him to challenge a part she thought they'd already agreed on while five other people listened.
+
+"That's not the exercise," she said.
+
+"Then it shouldn't be an exercise until it can be done safely."
+
+The room went quiet.
+
+Chiron asked for both positions to be written down. Thalia complied. She explained the educational value of allowing experienced students to evaluate risk, and Rhys explained why certain risks ought to be removed by the instructors before any evaluation began. Both arguments were sound. They were also incompatible in the version of the plan Thalia had brought to the meeting.
+
+When it ended, Chiron said they would return to the question the next day.
+
+Thalia left without waiting for Rhys.
+
+He found her later in the equipment shed.
+
+"You walked out," he said.
+
+"The meeting was over."
+
+"You didn't look at me."
+
+"I was occupied."
+
+He leaned against the doorway. "You're angry."
+
+"Very."
+
+"Because I disagreed with you?"
+
+"Because you waited until there was an audience to tell me."
+
+He looked at her. "I didn't know we were agreed."
+
+"We discussed it last night."
+
+"We discussed the aim of the exercise. You didn't show me the exact lane layout until this morning."
+
+She remembered the conversation. He was right about the drawing, which only made her more irritated.
+
+"You could have spoken to me afterward."
+
+"I could have. But I thought the barrier question needed answering before the group approved anything."
+
+She looked down at the plan. It was covered in notes, some from the instructors and some in her own hurried pencil. She felt exposed in a way she hated. The project mattered to her. She wanted it to be good, and she had begun to rely on Rhys understanding her intentions even when he thought the details were wrong.
+
+"Do you think I don't care about safety?" she asked.
+
+He shook his head at once. "No."
+
+"Then why did you make it sound as if I hadn't thought about the risks?"
+
+"Because I didn't explain my objection well enough. I should have been clearer."
+
+She looked up. That was a useful admission, but it didn't solve the disagreement. He still thought her design could put people in danger, and she still thought his alternative would remove the very problem the students were supposed to learn to identify.
+
+They stood in silence.
+
+At last Thalia picked up the plan.
+
+"We can test both versions tomorrow," she said.
+
+"With no arrows."
+
+"Obviously."
+
+"Use weighted bags for the trajectory."
+
+"Yes."
+
+He nodded. "All right."
+
+She was still angry. He could tell, and for once he didn't try to coax a smile out of her. He left her with the plan and returned to his own work.
+
+***
+
+The next morning they built the course together.
+
+They used rope to mark two shooting lanes, hung temporary screens and placed bright cloth on the ground where an arrow might travel if a beginner misjudged the angle. They then tested the arrangement with weighted bags, measuring where a careless release or a startled movement could send an object beyond the intended area.
+
+Rhys's objection proved valid. One of the proposed positions allowed a bag to cross into the second lane when thrown from the wrong point. Thalia watched it happen and felt a sharp disappointment that was not entirely about being wrong.
+
+She also discovered that the barrier he wanted could be moved far enough back to preserve most of the students' decision-making space.
+
+They marked the revised design in chalk and tested it again. This time the bags remained inside the protected zone. The students would still have a problem to solve, but the most serious danger would already have been removed.
+
+"That's better," Rhys said.
+
+Thalia looked at the course. "Yes."
+
+He waited.
+
+She turned toward him. "You were right about the barrier."
+
+He smiled faintly. "And you were right about keeping the exercise open enough to require judgment."
+
+"Don't make a ceremony of our mutual competence."
+
+"I wouldn't dare."
+
+They walked back to the shed together. The tension had eased, but the hurt from the public disagreement lingered. Thalia could feel it whenever she remembered the other instructors watching her defend a plan with a weakness she should have caught herself.
+
+At the door she stopped.
+
+"I don't want you agreeing with me because we're together," she said.
+
+"I know."
+
+"But I want you to understand that I care about this."
+
+"I do."
+
+"And next time, if you think I'm missing something important, tell me sooner."
+
+He nodded. "I can do that."
+
+She looked at him. "I won't always be pleasant when you do."
+
+"I've noticed."
+
+She laughed in spite of herself.
+
+He came closer, but waited. She put her hands on his shoulders and kissed him, the familiar warmth of the gesture returning after a day of keeping their distance. It felt good, not because the kiss erased the disagreement but because they had done the work that made affection possible without resentment.
+
+When they separated he was smiling.
+
+"Come by tonight?" he asked.
+
+She considered. "Yes."
+
+"Good."
+
+"After I finish the revised plan."
+
+He grinned. "I wouldn't expect anything less."
+
+That evening she arrived with the new drawing rolled beneath her arm. He took it from her, set it on the table and pulled her close before she could begin another explanation. She kissed him gladly, laughing when the edge of the paper bumped against his shoulder.
+
+For a while the work could wait.
+
+Later they reviewed the drawing together, taking turns with the pencil and arguing over a line that was still two inches too close to the target. The conversation was much more pleasant with the room warm and no one else watching. It was also more accurate, which pleased Thalia nearly as much as the kissing had.
+
+She stayed the night. In the morning she took the revised plan to Chiron, who approved a small pilot session and told her to report the results before expanding it.
+
+It was not a victory over Rhys. She found she liked that better.
+
+---
