@@ -166,6 +166,68 @@ Up close the Lotus sprawled low and wide, marble and glass, fountains and vines 
 
 "Welcome to Lotus. Stay a while."
 
+Martin was the last to climb onto the shuttle.
+
+He had been arguing with the driver about the tow. The young man kept smiling and saying a mechanic would come shortly. Martin kept asking for the tow-company name, the shop address and a written estimate. It was the sort of conversation Percy normally found unbearably dull. That afternoon he was grateful someone had enough energy to insist on ordinary details.
+
+"Twenty minutes is a promise," Martin told the driver. "I want the name of the person making it."
+
+The driver gave him a card with a lotus printed on the back. It contained a phone number but no company name.
+
+Martin looked at it. "That isn't good enough."
+
+"Everything will be taken care of, sir."
+
+The driver's smile never changed. Percy felt a small cold place open in his stomach despite the heat. He'd seen monsters pretending to be friendly. This was something more ordinary and therefore harder to challenge: a person saying something would be handled without explaining who had agreed to handle it.
+
+Annabeth opened the new notebook. "We'll record the time of the tow request. And when we get inside, we'll call the station ourselves."
+
+Martin nodded. "Good."
+
+He sat near the front of the shuttle while the others gathered in back. Thalia watched him in the mirror above the driver's seat.
+
+"Will he be okay in there?" she asked quietly.
+
+"He's a mortal," Annabeth answered. "The Mist can make him miss things, but that doesn't mean he's immune to everything else. We stay with him."
+
+Percy looked at the card in Martin's hand. The number blurred slightly when the shuttle crossed a patch of hot asphalt. He blinked and it settled again.
+
+"Can I see the card?" he asked.
+
+Martin passed it back. Percy read the phone number aloud, then Annabeth wrote it beneath the travel log. When Percy turned the card over, he saw four letters in embossed silver beneath the lotus flower.
+
+REST.
+
+He gave it back.
+
+At the front, the driver began humming the same tune as the chimes inside the shuttle. Grover's ears flicked beneath his cap. The satyr had been more alert since finding his uncle, but the heat had exhausted him. Percy could see how the prospect of cool air and soft chairs was beginning to draw him forward.
+
+"We're not staying," Percy whispered to him.
+
+"I know."
+
+"We only need the tow."
+
+"I know, Percy."
+
+Grover sounded annoyed. Percy stopped repeating himself.
+
+When the shuttle rolled beneath the hotel's front portico, Martin told them to wait while he spoke to the vehicle desk. He made them repeat their agreement: no food, no unexplained drinks, no separating without telling the others, and no extension of their stay without discussing it outside in fresh air.
+
+"That's a lot of rules for a free tow," Thalia muttered.
+
+"Free is never a reason not to ask questions," Martin replied.
+
+They followed him through the glass doors.
+
+For a few steps Percy could still see the daylight behind them. Then the lobby's warm golden light filled his vision, and the sound of the highway disappeared as completely as if somebody had closed a book.
+
+Martin went toward a desk marked MOTOR SERVICES. The children waited near the arcade.
+
+Percy checked the time on his phone. He intended to look again after five minutes.
+
+He did not remember putting the phone back in his pocket.
+
 The lobby hit like a wave. Cold air. Cookies and flowers. Soft golden light like late afternoon that never ended. No windows, but the ceiling was painted sky with clouds that actually moved. Arcade bleeps echoed. Kids crowded games and a ball pit. Staff in white glided with trays of cookies and pink smoothies.
 
 Percy felt his shoulders drop without permission. After heat and fear and statues, this felt like sinking into a bath. His eyelids went heavy. For a second he just wanted to sit and let someone bring him cold juice and tell him the quest could wait until tomorrow.
