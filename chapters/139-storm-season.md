@@ -649,6 +649,166 @@ Percy offered to help her test the barriers when Chiron approved a safe procedur
 
 By the time they returned to the cabin, the storm had become ordinary rain. The observations stayed with Chiron in a dry folder. That was the difference between surviving one attempt and learning from it.
 
+When Chiron dismissed them, the records stayed behind in the Big House. The equipment did not.
+
+Clarisse was waiting on the porch with two sacks of damp rope, a bundle of staffs and the cracked lid of a storage box. Percy looked at the pile and groaned.
+
+"Don't you have a crew?"
+
+"You're looking at it. I sent the younger campers to get warm."
+
+Silena arrived from the infirmary with news that the chilled flag runner was fine. She had stayed with Will long enough to find the girl's missing gloves, which had been caught in the lining of the raincoat. Percy had imagined Silena would want to go straight to the cabin and curl up under a blanket. Instead she took one sack of rope, looked at the soaked fibers and started making a list of what would need drying before it could be used again.
+
+"You're not carrying everything," Clarisse said.
+
+"I'm carrying a bag, not the camp."
+
+"You've been on your feet all day."
+
+"So have you."
+
+The older sister started to argue. Silena put the sack over her shoulder, and the argument ended because Clarisse knew when insisting would become treating someone she loved as an incompetent child.
+
+They reached the shed by the arena with rain gathering in the worn places between the paving stones. A pair of Apollo campers had cleared a space beneath the eaves. Percy hung the rope in loose coils, leaving air between the turns. Clarisse examined each staff and marked its owner. Silena sorted the damp cloth flags by color and condition.
+
+"There's going to be another storm," she said. "We might as well have the equipment ready for the next one."
+
+"We may not be doing the same exercise," Percy pointed out.
+
+"Then someone else will need dry rope."
+
+Annabeth had followed them with her notebook. She stopped in the doorway rather than reaching for another task. Percy could tell she was tired; her usually neat hair had escaped the braid at both temples, and she kept flexing her right hand after hours of holding a pencil.
+
+"Could you check the inventory totals?" Silena asked her.
+
+"Of course." Annabeth set down the notebook and counted the stacks. "Three orange flags, two blue, one torn white. Fourteen rope lengths, one damaged. Eleven posts returned."
+
+"There were twelve," Clarisse said.
+
+"One is still at the beach."
+
+Percy closed his eyes. The missing post was the one he'd used to secure the line near the freshwater drain. He had removed the rope but left the post because he was watching the cloud cover change. He could have invented a reason why the post didn't matter. He didn't.
+
+"I left it," he said. "I'll go back."
+
+"Not alone," Clarisse replied.
+
+"The drill's over."
+
+"And the tide isn't. I'll come."
+
+Percy was prepared for another argument. Then Annabeth surprised him by putting a hand against the door.
+
+"I'm coming too. I want to check something on the drainage sketch."
+
+Silena waved them off with a promise not to let the drying ropes touch the floor. She remained in the shed because there was a real job she wanted to finish, and because she had no interest in trekking back across wet sand to recover Percy's mistake.
+
+On the beach the wind had died enough to make the loose clouds seem almost motionless. The missing post stood near the drainage point. Percy pulled it from the sand with both hands. Mud clung to its lower half, thick and black, smelling of grass rather than salt. Annabeth crouched to compare the drain's position against the high-water mark.
+
+"I drew it farther inland," she said.
+
+"You drew what we could see this morning."
+
+"That's the problem. I treated the map as if the waterline would hold still."
+
+Percy balanced the post on one shoulder. "The waterline doesn't know about your schedule."
+
+"I know that."
+
+"You sound annoyed with the entire ocean."
+
+"I'm annoyed with my map."
+
+Clarisse watched the two of them for a moment and then walked back toward the path, leaving them the space without making a show of granting it. Percy heard her boots on the gravel as he sat beside Annabeth on a broad stone above the tide.
+
+She folded her notebook closed. The salt had curled its edges.
+
+"Did you feel it?" she asked.
+
+"The drain?"
+
+"No. Earlier, when the charge reached the channel. Just before we stopped."
+
+Percy considered. The sky had been dark, full of force that wasn't his. Annabeth had stood across the observation line, one arm raised. The current responded to him, but it had carried something from her too, a thin change in pressure at the surface. For a second the old instinct had returned: protect her first, understand later. The instinct had once kept them alive in places where understanding took more time than they had.
+
+"Yes," he said.
+
+"I was afraid you'd keep holding it because I was still standing there."
+
+"That crossed my mind."
+
+"You didn't."
+
+"Grover had the flag."
+
+"Not every decision can come from a flag."
+
+He looked at her. She wasn't asking him to apologize for surviving Tartarus or for learning to act when there was no room for debate. She was asking him to notice that they were not there anymore. They had camp, Chiron, boundaries and other people who could share the job of keeping them safe. This life didn't need him to guess every danger a heartbeat early.
+
+"I wanted to keep going," he admitted. "I was proud of us. I didn't want an ordinary gust to tell me when to stop."
+
+"Was it only pride?"
+
+"No." He hesitated. "Sometimes if I stop using what I can do, I feel like I'm waiting for something bad to happen. Like if I practice enough, I can make sure you never have to go through what we remember."
+
+She watched the gray water. "I know."
+
+"I know you know. I still hate saying it."
+
+"Then say it once."
+
+He took her hand. It was cold from the rain, with graphite in the lines of her fingers. Her grip was steady.
+
+"Nothing about today reminded me of being helpless," he said. "But I wanted to prove I wasn't."
+
+Annabeth leaned her head lightly against his shoulder. "I was trying to prove I can control all of it."
+
+"You can't."
+
+"Thank you. Very comforting."
+
+"I can't either."
+
+She laughed, once, without much force. It was enough.
+
+They remained until the surface of the channel had settled and the last floating leaf disappeared into the Sound. Percy thought about how many years they'd spent depending on the other person to be brave at precisely the right moment. Today she'd done something harder than courage. She'd taken an incomplete measurement and let it stay incomplete. He'd let someone else end the work.
+
+"I liked it," she said eventually.
+
+"The drill?"
+
+"The part before it became complicated. The water moving where you asked, the air humming. We were good together."
+
+"We are good together."
+
+"I know. I'm allowed to enjoy that without wanting to do it again tomorrow."
+
+"Chiron would probably say the same."
+
+"Please don't compare me to Chiron when I'm trying to be romantic."
+
+He smiled and kissed her forehead. It was a brief kiss, salt and damp curls and the kind of tenderness neither of them needed to hide.
+
+"All right," he said. "Then I'll say I liked it too."
+
+They walked back carrying the post between them, an unnecessarily shared burden that made Annabeth accuse him of inventing work just to keep holding her hand. He didn't deny it.
+
+At the shed Silena had finished the inventory. Clarisse had put the damaged pins in a bag marked for replacement. Thalia and Jason waited outside with a bundle of folded blankets. The Roman boy was telling his sister how Ella had corrected his cloud observations; she was listening without pretending she'd made the same measurements herself.
+
+"Found your post," Clarisse said.
+
+"Found our mistake," Percy replied.
+
+"That's not an inventory category."
+
+"Maybe it should be."
+
+Silena gave him a dry towel. "Here's another category: people who should shower before they drip on my blankets."
+
+It was a reasonable demand. For once, Percy obeyed without arguing.
+
+---
+
 The Poseidon cabin smelled like salt and chocolate and wet wool.
 
 Someone, probably Silena, had dragged blankets into a nest before the fireplace, which Percy lit with shaking hands. Socks steamed by the door. No one cared.
