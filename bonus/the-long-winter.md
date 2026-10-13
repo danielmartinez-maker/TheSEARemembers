@@ -3577,6 +3577,268 @@ She squeezed his fingers one last time before letting go. They stood together an
 
 ---
 
+Thursday, October twenty-sixth, had one more surprise.
+
+It arrived after the evening meal, when Thalia was sitting cross-legged on the floor of Cabin One trying to mend a buckle on her winter quiver. The leather had softened in the rain and torn beside the rivet. She could have taken it to the forge. That would have been the sensible option, but she'd repaired the quiver herself twice before and had no intention of admitting defeat now.
+
+Annabeth was at the table with a map of the eastern retaining wall. A ruler lay across the page, holding down a troublesome corner. Neither sister had spoken for twenty minutes, which was an achievement measured against their normal standards.
+
+The knock at the door came while Thalia had a needle between her teeth.
+
+Annabeth looked up. "I'll get it."
+
+"I can get it."
+
+"You have something in your mouth."
+
+Thalia took the needle out. "An excellent observation."
+
+Annabeth was already at the door. She opened it, and Rhys stood on the porch with a narrow wooden case under one arm.
+
+"Evening," he said.
+
+Annabeth looked past him toward the path. "She's trying to repair something she should have replaced two months ago."
+
+"Traitor," Thalia said from the floor.
+
+Rhys's attention went immediately to the buckle. He did not laugh.
+
+"That looks like a problem."
+
+"It is no longer a problem," Thalia said. "It is an exercise in patience."
+
+"An ambitious undertaking."
+
+Annabeth stepped aside to let him enter. He remained by the doorway until Thalia raised a hand in invitation. It was such a small pause that the younger girl probably didn't notice. Thalia did.
+
+He had come to her door. Until now their evenings had mostly taken place in his cabin, where his tools were at hand, where his blankets and his stove made the world manageable. Thalia knew how to arrive there. She knew how to decide when to leave. She hadn't given much thought to what it might mean for him to enter the space she shared with her sister.
+
+She stood and put the buckle on the table.
+
+"What's in the case?"
+
+"Something I thought you might be able to use."
+
+He opened it. Inside were two delicate leather punches, a small set of needles and a rivet-setting tool that looked as if it had been made for a much more expensive workshop than the camp shed.
+
+Thalia stared.
+
+"Where did you get those?"
+
+"My mother's father worked with leather. The tools were hers before she gave them to me. I don't use them often."
+
+"You brought your grandfather's tools because I complained about a buckle?"
+
+"You complained about three buckles. Yesterday alone."
+
+"That doesn't answer my question."
+
+He looked down at the case, then back at her. "I wanted to see if we could fix it."
+
+Thalia felt a sudden embarrassment that had nothing to do with being caught with a broken quiver. She had spent the entire day thinking about the possibility of seeing Rhys tonight, and he had arrived carrying an answer to a problem she'd mentioned in passing.
+
+Annabeth leaned over the case. "Those are good."
+
+"They're very good," Thalia said.
+
+Rhys smiled. "Careful. You'll make me think you're impressed."
+
+"With the tools."
+
+"Of course."
+
+Annabeth gathered her drawing, looking between them with a level of composure Thalia found suspicious.
+
+"I have to check something in the lower room," she said.
+
+"You don't."
+
+"I do."
+
+"Annabeth."
+
+The younger girl stopped with her hand on the stair rail. She looked annoyed now, rather than amused.
+
+"I actually do. I've been putting off measuring the bottom board."
+
+Thalia stared at her for a moment and recognized the error. Annabeth was entitled to leave her own room without receiving a cross-examination about whether she had ulterior motives.
+
+"Fine," Thalia said. "Take a lantern."
+
+"I can find the room."
+
+"That's not why I said it."
+
+Annabeth picked up the lamp and went. The door shut, leaving Thalia and Rhys alone in a room that suddenly felt unfamiliar because he was in it.
+
+He looked at the worktable.
+
+"May I?"
+
+"You're asking permission to touch a broken buckle?"
+
+"I'm asking whether you want help."
+
+She looked at him. The answer was not the same.
+
+"Yes," she said. "I do."
+
+They worked side by side for nearly an hour. The old rivet had to be drilled loose. The torn edge required a patch rather than a fresh hole, and Thalia had to cut the leather smaller than she wanted because the grain along the edge was frayed. Rhys held the piece steady while she marked the line, then took the setting tool when she handed it to him. They didn't have to invent a discussion about leadership. The person whose hands were best positioned for each step did it.
+
+It was a better way to work than she'd expected.
+
+At one point Rhys looked up from the rivet and caught her studying him.
+
+"What?"
+
+"Nothing."
+
+"You have a look."
+
+"If you say that phrase again, I'm charging you."
+
+"Fair."
+
+She put a hand on his shoulder, leaned over and kissed his cheek. The gesture surprised him enough that he missed the hole with the setting tool. She laughed.
+
+"Now who's incompetent?"
+
+"An intentional distraction."
+
+"An effective one."
+
+He smiled, but when he put the tool down there was a flicker of something more serious in his expression.
+
+"What?" she asked.
+
+"I wasn't sure how you'd feel about me coming here."
+
+The honesty made her stop.
+
+"This is my cabin."
+
+"I know."
+
+"Then why wouldn't you be allowed to visit?"
+
+He considered. "You like to decide when to come to mine. I didn't know if that meant you preferred to keep things separate."
+
+Thalia looked toward the closed door. She understood. He had never asked her to stay, except in ways that left the answer hers. But she'd assumed he would always be available in the place she expected to find him, as if his room were the only setting in which their relationship could exist.
+
+"Sometimes I do want things separate," she said.
+
+"I know."
+
+"That doesn't mean you can't come here."
+
+He nodded. She was tempted to declare the problem settled. Then she thought of the way he'd waited at the threshold and the borrowed tools on her table.
+
+"Next time send a note," she said. "Not because I need a warning. So I can tell you whether it's a good evening."
+
+"All right."
+
+"And sometimes I'll say no."
+
+"I expect so."
+
+"Good."
+
+She picked up the quiver and tested the new rivet. It held. The leather moved comfortably beneath her fingers. She pulled once more, harder. Nothing shifted.
+
+"Perfect," she said.
+
+Rhys looked at it. "It should last."
+
+She set the quiver down. "Thank you."
+
+He looked pleased by the words, perhaps more pleased because she didn't usually surrender them easily.
+
+"You did most of it," he said.
+
+"You brought the tools."
+
+"Then we both contributed."
+
+She considered the proposition and found she liked it.
+
+The door opened. Annabeth came back in with the lantern and a ruler.
+
+"Done?" she asked.
+
+"Yes," Thalia said.
+
+Annabeth inspected the repaired buckle. "That's better."
+
+Thalia was prepared to complain about the grudging approval, but Annabeth was already putting away the ruler. She looked at Rhys.
+
+"Do you need the case back tonight?"
+
+"Not particularly."
+
+"Then can I borrow one of the punches tomorrow? The leather on my drafting case is splitting."
+
+Rhys looked toward Thalia and smiled. "Apparently I've opened a business."
+
+"You're welcome," Thalia said.
+
+Annabeth began gathering her notes again. This time Thalia let her do it without commentary. A few minutes later she went to bed in the adjoining room, leaving Thalia and Rhys by the stove with the repaired quiver between them.
+
+The privacy was imperfect. Annabeth wasn't far away, and a thin wall separated the rooms. But there was something intimate in sitting with Rhys in a place she knew by heart, in the quiet after someone else had said good night.
+
+He took her hand.
+
+"Would you rather I go?" he asked softly.
+
+She looked at him, then at the door. She had spent years telling herself that needing privacy and wanting affection could not exist in the same space. Here they could, provided she remembered that other people lived in the cabin too.
+
+"I want you to stay a little longer," she said.
+
+He moved closer, and she kissed him. It was a small, private kiss, warmer than it was dramatic. She felt his smile against her mouth and leaned into him, enjoying the fact that he was here without needing the evening to become anything beyond itself.
+
+They sat on the floor beside the stove, shoulders touching. He told her how his grandfather had used the leather tools, how he'd learned to repair instrument straps before he was old enough to be trusted with anything sharper than a pencil. She told him how many times she'd broken the quiver, leaving out one particularly embarrassing incident involving a tree branch and her own temper.
+
+"That's why the seam is twisted," he said.
+
+"That is an accusation."
+
+"It's evidence."
+
+She kissed him again, then drew back because she was laughing.
+
+When he finally stood to leave, he put the tools back in their case and left the small leather punch on the table for Annabeth. Thalia walked him to the porch.
+
+The night was clear. Cold wind moved along the upper meadow, carrying the sound of someone closing shutters farther down the hill.
+
+He looked back through the doorway.
+
+"Nice place," he said.
+
+"It's falling apart."
+
+"Good company."
+
+"Debatable."
+
+He smiled. She caught his coat and kissed him once more, a deliberate farewell she knew she would remember when the room went quiet again.
+
+After he left, Thalia returned to the stove and examined the quiver. The buckle had been repaired properly. That was satisfying. More satisfying was the fact that he had entered her world for an evening and had not tried to rearrange it.
+
+She went to bed with the feeling still warm in her chest.
+
+In the morning Annabeth found the leather punch beside her drafting case.
+
+"Was that from Rhys?"
+
+"Yes."
+
+"Good tools."
+
+"Very."
+
+Her sister looked at her, smiled once and said nothing further. Thalia was grateful enough that she didn't even try to provoke her.
+
+---
+
 Friday evening brought the first honest frost to the north side of the cabin.
 
 Thalia had spent the afternoon in the library pretending to read a book about old military formations. She'd understood perhaps two pages. The rest of the time she had watched the clock, irritated by its persistence in advancing at the same rate whether she wanted it to or not. She had promised herself she wouldn't go to Rhys every night. Nobody had required the promise. It had grown in her head as a defense against finding herself attached.
