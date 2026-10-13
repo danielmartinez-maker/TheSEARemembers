@@ -350,6 +350,88 @@ Ella flapped her wings for balance as she leaned to write. "Percy Jackson, age t
 
 ---
 
+The garden acquired its first critic before the plants were in the ground.
+
+Katie Gardner arrived from the Demeter cabin carrying a tray of seedlings Annabeth hadn't ordered. She set it beside the shrine, looked at the neat rows of lavender and marigolds, then followed the edge of the proposed bed with her eyes.
+
+"Where are the plants that already grew here?" she asked.
+
+Annabeth opened her notebook. "There weren't many. Mostly weeds and brambles."
+
+"Brambles are not all weeds. There was a wild patch by the north wall. The bees used it before the strawberries flowered."
+
+"We cleared it because it was covering the old stone."
+
+"All of it?"
+
+Annabeth looked toward the compost pile. A tangle of roots and prickly stems lay among the pulled grass. She had treated them as obstacles to a design, and she could already hear Katie's objection before it was spoken.
+
+"You should have asked somebody from my cabin to identify it," Katie said.
+
+"I thought Silena had checked the plants."
+
+"I checked what we were putting in," Silena replied, kneeling beside the new tray. "I didn't know the old patch mattered."
+
+Katie sighed. "It did. Not enough to ruin the garden, but enough that the empty space wasn't actually empty."
+
+Percy glanced at Annabeth. She didn't want him to make an excuse for her, and he seemed to understand that. He went to fetch a watering can while she asked Katie what could be done.
+
+Katie had brought a set of young native flowering plants to replace some of the habitat they'd removed. She wanted a strip along the outer border left a little less tidy, with seed heads allowed to dry at the end of the season. The idea made the plan look untidy. Annabeth's lines ended neatly, each area labeled and contained. She had been proud of how quickly other campers could read it.
+
+"How do we keep the border from spreading into the path?" she asked.
+
+"With a maintenance schedule. We cut back what needs cutting back. We don't let it grow wherever it wants."
+
+"So you want more work."
+
+"I want the work to acknowledge what lives here."
+
+Annabeth thought about the old shrine cup beneath the protective marker. The morning was full of reminders that a new plan did not get to erase everything that came before it. She could be annoyed by the repetition or accept that it was telling her something about the place.
+
+"We can use the north strip," she said. "The trellis will still fit if we shorten it."
+
+Katie studied the sketch. "That should work. But somebody needs to check whether the moonvine is going to spread where we don't want it. It looks lovely at night, but beauty isn't a reason to let one plant take over."
+
+Silena sat back on her heels. "I can take responsibility for collecting seed pods. I brought it in."
+
+"You'll be away from camp sometimes," Katie said.
+
+"Then I'll need help, not a promise that I can do it all."
+
+Katie nodded. She offered to put two Demeter campers on a rotating inspection alongside the people already tending the beds. Annabeth wrote down the proposed dates but left the names blank until those campers agreed.
+
+"Are you taking over my garden?" she asked Katie.
+
+Katie looked at her in surprise. "No. I'm asking if it's actually a community garden. If it is, people who know the plants should help decide what grows."
+
+Annabeth winced. The question was fairer than she liked.
+
+"I want it to be a community garden," she said.
+
+"Then let's make it one."
+
+Clarisse came over with a shovel and asked which bed had changed this time. Katie explained the habitat strip. Clarisse listened, then offered to move the stones that marked the outer edge.
+
+"Not until we check the drainage line," Annabeth said.
+
+"I know. I'm learning."
+
+Katie stayed to help plant the first native seedlings. She showed Annabeth how deep to set them and why packing the soil too tightly would keep the roots from spreading. Annabeth was good at drawing systems, and she had a talent for working out why a bridge would fail. That didn't make her an expert gardener. She listened when Katie spoke and asked questions when she didn't understand.
+
+Percy returned with water, took one look at the altered layout and grinned. "Your plan has become a committee."
+
+"Please don't say that as though it's a disaster."
+
+"I didn't. The plants might enjoy having a vote."
+
+"They don't vote."
+
+"Some of them have very strong opinions."
+
+Silena pointed to the moonvine. "That one wants the entire fence."
+
+Katie laughed. Annabeth did too, eventually. The revised border looked less like the tidy rectangle she'd drawn at dawn. It looked more like a living place where different people expected different things, and where success would have to be measured after the planting rather than only on the day it was finished.
+
 Around noon, Silena produced the promised lemonade from behind the shrine, where she had hidden two cold jugs under a damp towel.
 
 Plastic cups passed hand to hand, beaded with condensation, tartness cutting through dust and heat. Lemon pulp stuck to teeth. Ice clinked. Clarisse drank hers in three gulps and held out her cup for more without a word, and Silena refilled it with a smug arch of her brows.
