@@ -780,6 +780,146 @@ Percy saw the older god look at each of them again. This time he didn't seem lik
 The exercise ended with the group walking out of the cove together, rather than anyone being carried out injured.
 ---
 
+Triton didn't let them leave the cove until they'd discussed the exercise.
+
+Clarisse had already announced that she was starving. Silena wanted a towel. Thalia wanted to argue that a gust of wind ought to count for more than a flag moving. Percy would have preferred to remain where he was and let the water restore his strength without anybody asking him to explain his choices.
+
+Triton planted the trident on dry sand.
+
+"One thing you did correctly," he said, looking at Percy. "And one thing you'd change tomorrow."
+
+Percy sighed. "I kept the wall out of their way at the end."
+
+"Yes."
+
+"I almost knocked Silena over earlier. I need to listen before moving the water."
+
+"Good."
+
+Triton turned to Clarisse.
+
+"I stopped when Silena called hold," she said at once.
+
+"And tomorrow?"
+
+"I want another way to move if somebody grabs my spear. I keep trying to win the pull instead of changing the direction."
+
+"That can be taught," Triton replied.
+
+Silena went next. Her success had been calling the group's movements clearly enough that even Thalia could hear her from the dry platform. Her difficulty was knowing when to stop giving directions and let someone else decide. During the final pass she'd almost called the same command twice because she didn't trust that Percy had heard it.
+
+"He did hear," she admitted.
+
+"Then tomorrow you should give him room to answer," Triton said.
+
+Thalia raised an eyebrow.
+
+"I kept my electricity out of the water," she said. "And I used wind instead."
+
+"That's two correct decisions."
+
+"And tomorrow I want to do something that isn't standing beside a flag and being told not to make sparks."
+
+Annabeth almost laughed.
+
+Triton considered. "There are ways to read a battle without entering it. We can work on observation from shore, and on using wind to carry signals when ordinary voices won't reach. You might find it harder than throwing a bolt."
+
+"I doubt that."
+
+"Then it should be an easy lesson."
+
+Thalia crossed her arms, but she was smiling.
+
+Annabeth said she'd learned to wait after a clear view opened, especially when the others were still moving. She wanted to practice seeing from more than one position because the rock ledge had given her an unusual advantage.
+
+Triton nodded. "I'll move you for the next exercise."
+
+"Good," she answered.
+
+He inspected her hands. The electrical burn from the quest had healed, but he asked whether she felt pain or numbness after the small controlled spark she'd demonstrated earlier.
+
+"No," she said.
+
+"Then tell Chiron if that changes. Nothing about being a daughter of Zeus makes an injury less worth reporting."
+
+Annabeth nodded. Percy appreciated that Triton hadn't turned the question into a public warning about her being young or fragile. He was treating her as a trainee who had a right to know what symptoms mattered.
+
+"Tyson?" Triton asked.
+
+Tyson looked startled. He'd been standing beside the rescue gear since the start of the spar and seemed to think the review was only for people who had fought.
+
+"Me?"
+
+"You kept the exit clear. What went well?"
+
+Tyson glanced at the ropes.
+
+"Nobody needed rescue."
+
+"Which is not proof the position was unnecessary."
+
+Tyson smiled. "I checked the knot twice. The blankets stayed dry. Tomorrow I can practice helping someone out of the water without carrying them the wrong way."
+
+"Excellent."
+
+The Stolls had been expecting Triton to assign winners and losers. Connor looked disappointed when the god closed the review without declaring Percy the best fighter, Annabeth the best planner or anyone else the most useful hero on the beach.
+
+"That's all?" he asked.
+
+Triton looked at him.
+
+"Do you want a turn?"
+
+Connor backed away. "No, sir."
+
+"Then yes. That's all for today."
+
+The younger campers began collecting the flags. Milo brought a crate for the wooden posts and asked whether he should leave the dry target standing for tomorrow. Chiron instructed him to take it down until the next supervised session. The arrangement had been safe while the staff were watching; it wasn't an invitation for anybody to try it alone at night.
+
+Percy helped carry the posts.
+
+For the first time that day, his brother fell into step beside him without making a comment about posture.
+
+"You were unhappy with me earlier," Triton said.
+
+"A little."
+
+"Because I forbade the lightning-and-water combination?"
+
+"Because I thought you were treating us like idiots."
+
+Triton nodded slowly. "You'd already made that mistake on the quest. I read your report. I should have acknowledged that you'd understood the danger before I began telling you what not to do."
+
+Percy looked at him. Triton rarely admitted an error unless it came with a lecture.
+
+"I still wanted to try something impressive," Percy said.
+
+"I know. You're my brother."
+
+"That's an unfair argument."
+
+"It's a family argument. Those are never fair."
+
+Percy laughed. Together they stacked the posts by the equipment rack, where Milo could count them against the inventory. Triton waited while Percy signed the receipt. Nobody bowed to him or called him prince.
+
+"Does Dad know how today went?" Percy asked.
+
+"He'll hear my report."
+
+"Will it say I learned to stop showing off?"
+
+"Among other things."
+
+"Please put something better in it."
+
+Triton looked toward Silena and Clarisse, who were arguing about whether a spear could be called a dance partner if somebody moved with it gracefully enough.
+
+"I'll say you listened to your sisters," he answered. "That's better than anything about the wall."
+
+Percy couldn't disagree. He signed his name on the last line and returned the pencil to Milo.
+
+---
+
 At sunset Triton left the way he came, riding a green swell back out past the barrier, his trident raised in farewell. Tyson swam with him to the edge of the wards, waving the whole way back.
 
 The Sparrows — as the Stolls were already calling them, and selling T-shirts — sat in a row on the drying sand, too tired to move, sharing a blanket and a bag of pretzels Grover had produced from somewhere.
