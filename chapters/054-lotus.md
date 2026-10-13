@@ -822,6 +822,80 @@ The mechanic slammed the hood. "Good! Don't overheat her. Advice? Don't sleep in
 
 They stared. He laughed and drove off.
 
+Martin would not start the engine until they worked out what the missing five days meant.
+
+He sat on the curb with the travel notebook open across his knees. The paper was dry and ordinary. That felt valuable after a hotel where clocks moved without moving and service forms promised repairs that never arrived.
+
+"Give me the dates as you remember them," he said.
+
+Annabeth started with the day they left St. Louis. Thalia filled in the nights they'd stopped by the road. Grover remembered a diner where the owner had given him pickles. Percy remembered arguing over a broken vending machine. Their memories didn't fit as neatly as they wanted, but each one could be checked against a receipt or Martin's mileage log.
+
+The last reliable record showed them arriving at the Lotus shuttle stop on Monday afternoon. The parking tickets and phone dates showed it was now Saturday. They couldn't tell how long the first hour had lasted or which days had passed while they sat in the arcade.
+
+"Five days," Annabeth said, tracing the dates. "Five real days, as far as the outside world is concerned."
+
+"That's what the evidence says," Martin agreed.
+
+Thalia stared at the hotel doors. "How many other people are in there?"
+
+Percy looked back. Guests were still arriving. A couple with suitcases laughed as a bellhop offered them drinks. Nobody outside seemed surprised.
+
+"We can't just leave them," Grover said.
+
+"I know." Annabeth closed the notebook. "But we can't march in and pull everyone out. We barely got ourselves out."
+
+Thalia made a fist. Her fingertips sparked, then went still. "What if we call somebody?"
+
+"Not the people who own the shuttle," Martin said. "I'll contact the nymph depot and have them warn other safe houses. We'll tell Chiron the location, how we got trapped, and that it can affect demigods and mortals."
+
+"Could the police help?" Percy asked.
+
+"With missing-person reports, perhaps. But somebody who understands the magic needs to lead. A normal inspection doesn't help if the inspectors forget why they came."
+
+Annabeth made a list of how they'd been tempted: food, games, the phone, Martin's repair desk. The trap hadn't made Martin selfish. It had taken something he already cared about and promised an impossible way to satisfy it. Percy understood that. The phone had offered him Sally, not merely a sound but the chance to stop explaining two different childhoods and sit in a familiar kitchen with his mother alive.
+
+"Include the phone," he told Annabeth.
+
+She looked at him. "You want that in the report?"
+
+"The next kid who hears their mom should know it isn't just them."
+
+She wrote it without making a speech about his admission.
+
+Martin checked the remaining drive. Los Angeles was within reach if the van held and there were no more delays, but still required several hours of careful driving. Annabeth began to suggest they could keep him awake by talking.
+
+"No," Martin interrupted. "Conversation is not a substitute for a rested driver. I'll judge how far I can go, and if I can't continue safely, we stop or find another licensed driver."
+
+Thalia started to object. Then she looked at the map.
+
+"There's a safe contact at the next interchange," she said. "Could somebody there take over?"
+
+"Maybe. I'll ask."
+
+Annabeth marked the option rather than promising it would work. They couldn't make a deadline by creating another emergency on the road.
+
+"The bolt might already be in Los Angeles," Grover said.
+
+"It might," Annabeth answered. "Or the box could have gone somewhere else. We still have no proof that Hades stole it."
+
+Martin found a working pay phone beyond the driveway and called the nymph depot using the contact code. He described the hotel and arranged for a warning to be relayed. He didn't claim he could organize an immediate rescue of every person still inside.
+
+When he returned, the mechanic had finished the hose. Martin examined the repair, checked the fluid level and let the motor idle long enough to watch the temperature gauge. It no longer made the old angry rattling sound.
+
+"One ordinary problem solved," he said.
+
+Annabeth laughed, tired but genuine.
+
+They divided the remaining clean water and collected the Lotus candies that had somehow followed them into their pockets. Grover wanted a wrapper as evidence. Percy suggested sealing it rather than handling it again, and Martin found a zip bag in the emergency kit.
+
+Grover held the sealed wrapper against the sunlight. Pretty pink lettering on harmless-looking white paper.
+
+"I'm going to remember what that garden smelled like," he said.
+
+Percy nodded. He knew he would remember Sally's voice. He wished he wouldn't, but pretending it hadn't happened would be another way the casino kept part of him.
+
+Martin waited until everybody's seat belt was fastened before preparing to leave.
+
 They piled in, the van starting first try, AC wheezing. Martin took the wheel, relieved to have an engine that obeyed ordinary rules. Grover took back. Percy and Annabeth squeezed middle, shoulders touching, too tired for space.
 
 As Martin pulled out, the Lotus shrank in mirrors, glowing white and gold. YOU LOOK TIRED. COME BACK SOON.
