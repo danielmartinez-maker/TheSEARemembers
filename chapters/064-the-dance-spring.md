@@ -1162,6 +1162,68 @@ Best dance ever. Only stepped twice.
 
 He passed the forge, dark now, embers banked. He passed the cabins, most windows warm. In Cabin Eleven someone still laughed. In Apollo someone still hummed the slow song on guitar, soft through shutters. The night felt kind and watchful.
 
+Tyson was awake when Percy returned.
+
+He sat on the front steps of Cabin Three with a small cloth in his lap, polishing the clasp of a broken sandal. He had volunteered to repair footwear while the younger campers were dancing, partly because he liked being useful and partly because a crowded room of loud music could be tiring when your ears picked up every vibration.
+
+"Brother!" he said, smiling. "You are back."
+
+"I survived."
+
+"Did you dance?"
+
+"Yes."
+
+"Did you step on her?"
+
+Percy stared. "Has Clarisse been teaching you to ask questions?"
+
+"She said I should ask whether the box worked."
+
+"The box step worked most of the time."
+
+Tyson looked delighted. He put aside the sandal and patted the step beside him. Percy sat, relieved to take the weight off his feet.
+
+"What about the flowers?" Tyson asked.
+
+"She loved them. She wants me to thank you for the brave little clam song."
+
+Tyson's face softened. "I sang for a long time."
+
+"I know."
+
+"The sea blooms won't live forever outside the tide," Tyson warned him. "The mist helps them last the night. But by tomorrow they'll begin to close. That's what the flowers do."
+
+Percy had known that in theory. Hearing it now, after the dance, made him wish he'd paid more attention to the small flowers while they were open.
+
+"Could we preserve them?" he asked.
+
+"We can keep the silver band. The petals are living things. They need their season."
+
+Percy thought of the snow-owl melting at the end of winter, the little coral toy that had survived in two different versions, and Annabeth's drawings of places that changed before the ink dried. He didn't want the flowers to fade, but he didn't want Annabeth's wrist to be covered in dead petals for weeks just because he'd been unwilling to let the gift end.
+
+"Then I'll tell her," he said. "She can keep the band and let the flowers go when they're finished."
+
+Tyson nodded. He picked up the little sandal and turned it over again.
+
+"Did you have a good night?"
+
+"Very good."
+
+"Because of the dancing?"
+
+"Partly. And because Ella read a poem, and Clarisse was better at dancing than she wanted anyone to know. And because Annabeth helped organize a room that didn't collapse into chaos."
+
+Tyson listened to all of it. He didn't ask whether Percy had kissed Annabeth or whether Thalia had approved of every part of the evening. He seemed satisfied that his brother was home smiling.
+
+"Good," he said at last. "I like when you have ordinary happy things."
+
+Percy leaned his shoulder against Tyson's arm for a second.
+
+"Me too."
+
+They went inside together. Tyson placed the repaired sandal near the door with a note for its owner, and Percy put his damp dance shirt in the laundry bag before Silena could discover he'd left it on the floor.
+
 Above stars burned steady. The pine on Half-Blood Hill rustled, guarding them all asleep.
 
 ---
