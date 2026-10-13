@@ -302,6 +302,102 @@ She took off. Percy and Annabeth looked at each other, and then they were runnin
 
 
 
+The harvest ran into trouble before noon, when one of the collection scales stopped reading correctly.
+
+Silena noticed because two baskets of the same size had been recorded at very different weights. The first belonged to Demeter cabin, whose campers had been working steadily since breakfast. The second belonged to a pair from Hermes who had spent half an hour arguing about which strawberries were large enough to count. Neither basket looked light enough to explain the difference.
+
+She checked the scale with an empty crate and found that the needle did not return to zero.
+
+"Stop bringing the baskets here," she called. "We need to check the equipment."
+
+Clarisse arrived with another load and looked at the queue forming behind the tent.
+
+"You're going to make everybody wait because the arrow looks funny?"
+
+"Because the records will be wrong if I don't."
+
+"It's berries. We're not taxing them."
+
+"The kitchens use these numbers to plan how much they'll have for jam and how much has to be sent out. If we record the wrong amount, somebody ends up with more work later."
+
+Clarisse put down her basket. She was irritated but willing to listen, particularly because she'd spent the morning competing with Thalia over whose row was fastest. A broken scale could make the contest meaningless.
+
+"What do you need?"
+
+"A known weight. And someone to tell the others not to keep stacking baskets on the table while I check."
+
+Clarisse went to hold the line. Silena asked Beckendorf for a small calibration weight from the stores, then tested the scale. It was reading nearly a pound low on every load. The error had probably begun when one of the collection carts bumped the table during the morning rush.
+
+The problem was fixable. The records were less so.
+
+Silena turned to Annabeth, who had been helping organize the rows. "Can we identify which baskets were weighed after the scale started drifting?"
+
+Annabeth checked the tally. The first three baskets had been recorded by a different volunteer on a second scale; after that, the handwriting changed and the sequence became less certain.
+
+"We can trace the baskets still here," she said. "The ones already sent to the kitchens are harder. We shouldn't pretend the numbers are exact."
+
+"Then mark the morning estimate separately and use corrected weights for the rest."
+
+Thalia came to the collection tent carrying a basket balanced on one shoulder.
+
+"Why is everybody standing in a line?"
+
+"Because the scale was wrong," Clarisse said. "Silena's fixing it."
+
+Thalia looked at the tally. "Does that mean I lose my lead?"
+
+"It means nobody can claim a lead until we have measurements we trust," Annabeth replied.
+
+"That's inconvenient."
+
+"So is winning a competition based on numbers nobody checked."
+
+Thalia sighed and set down her basket. She'd been treating the harvest like a contest because it made an ordinary chore easier to enjoy. She didn't want her enthusiasm to become the reason the kitchens received less fruit than they needed.
+
+"All right," she said. "What can I do while we wait?"
+
+Annabeth gave her a new task: collecting the empty crates from the far end of the field and making sure the younger campers weren't leaving full ones in the sun. The work had no score attached to it, which made Thalia complain about being assigned to a job nobody would applaud. She did it anyway.
+
+By the time Beckendorf reset the scale, the queue had been reorganized. Silena labeled the uncertain early weights as estimates and asked the kitchen staff to record the actual yield after sorting. The afternoon harvest would be weighed on the corrected equipment, with a second check after every fifth basket.
+
+A younger camper from Demeter approached, looking frustrated.
+
+"Our row was the fastest. We did it properly."
+
+"I believe you," Silena said. "The mistake was in the scale, not in your work."
+
+"Then why doesn't our result count?"
+
+"Because if I put the wrong number beside your name, everybody who reads the record afterward will think you picked a different amount. I'd rather explain the error than pretend your work produced a number we don't know."
+
+The camper thought about this. Silena could see how disappointing it was. He'd spent hours competing and wanted something concrete to show for it.
+
+"Could we weigh the remaining baskets again?" he asked.
+
+"Yes. If they're still here. We'll keep the recorded amount beside the new reading, so nobody has to guess what changed."
+
+They did. The revised total was larger than the first one, and the boy looked pleased enough to go tell his cabin. Silena made sure he understood that the correction had come from a better measurement, not from somebody trying to reward his complaint.
+
+Percy arrived with a handcart from the far rows and found everyone working again.
+
+"Did I miss the great berry emergency?"
+
+"Only the paperwork," Clarisse told him.
+
+"That's the most exciting part."
+
+She took his cart and pointed him toward the shade tent. Silena had been counting baskets long enough that her hands were sticky and her shoulders ached. Percy offered to take over the next shift, which she accepted after explaining the revised rules.
+
+He was careful with the scale. He made one mistake in the tally, caught it when Annabeth checked the sequence and corrected it without trying to conceal the crossed-out number.
+
+At the end of the shift, Silena read through the page. The error was visible. The corrected amount was also visible, with the time and the person who made the change. That was the sort of record the kitchen could use.
+
+She looked toward the field. Thalia and Clarisse were still competing over whose row filled the most baskets, shouting across the paths and laughing whenever somebody tried to cheat by carrying the smaller fruit. The contest had survived the delay. So had the harvest.
+
+
+
+---
+
 Silena Beauregard believed, deeply and sincerely, that any problem could be solved with snacks, shade, and good company.
 
 So while the rest of the camp collapsed in the grass around the collection tent for lunch — dusty, sweaty, berry-stained to the elbows — Silena and her friends from the Aphrodite cabin had transformed the shade tent into something out of a storybook. A checkered cloth, a cooler of pink lemonade, a plate of peanut-butter sandwiches cut into triangles, and a big bowl of the slightly bruised berries nobody could sell, for snacking.
