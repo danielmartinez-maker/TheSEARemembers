@@ -144,6 +144,98 @@ Chiron saw it and smiled.
 
 ---
 
+Chiron did not let them leave the porch until the written report had been checked.
+
+He waited for the applause to settle, then asked the campers to give the returning travelers room. Silena and Clarisse stayed because they were responsible for Cabin Three and the watch schedules; the Grace sisters stayed together, Grover took a chair with his hooves tucked beneath him, and Percy watched Chiron spread the official council notice across the table.
+
+"This is the document that matters," the centaur said. "The master bolt has been returned and accepted. The immediate mobilization against Poseidon's household is suspended. The inquiry into Ares's involvement remains open."
+
+Clarisse leaned forward. "Then are the extra border patrols canceled?"
+
+"Not entirely," Chiron answered. "We can stop treating a divine war as imminent. We still need ordinary patrols, and monster movement has not suddenly ceased."
+
+"Good," Clarisse said. "Because we finally got the roster working."
+
+Silena looked at Percy. "What exactly happened to the people Medusa had turned to stone?"
+
+He had been trying not to think about Uncle Ferdinand and the other victims, partly because the quest had taken him so far from the garden that their rescue seemed like something out of another story. Silena's question reminded him it wasn't.
+
+"The recovery team took three of them first, including Grover's uncle," he said. "The others were recorded and left for specialists. We have contact numbers, but we don't know how many have recovered."
+
+Grover handed over the folded transfer sheet. He had kept it dry through the Underworld and the Lotus by wrapping it in waxed paper. Chiron examined the names.
+
+"I'll request an update," he said. "You can help, Grover, by identifying which people in the garden were satyrs and which names you recognized. No one will ask you to promise recovery before we've heard from the people treating them."
+
+Grover nodded. His relief was complicated. Percy could see he wanted to run straight to the depot and find his uncle. For now there was an actual person Chiron could contact and an agreed way to ask.
+
+Annabeth opened her notebook. "We also need to send another warning about the Lotus. The nymph depot should have the first report, but I don't know whether Hestia's messengers confirmed receipt."
+
+Chiron checked the second page of the council notice. There was a short entry showing a warning had been received by the hearth messenger network. It did not claim the guests inside had been rescued.
+
+"Then it's still an open problem," Annabeth said.
+
+"Yes," Chiron answered. "And one that requires people with specific knowledge of the hotel. It is not a task for injured children who have just returned home."
+
+Percy was grateful to hear that and guilty at the same time. The boy in the sports jersey was still somewhere in a game he could not finish, as far as Percy knew. He wanted somebody to help him. He also knew going back inside without a way to release the guests could simply add four more missing people.
+
+Chiron asked them to describe the arrangements they had left behind: Eva had gone to a trusted contact; Martin had returned responsibility for the journey to the authorized court transport; the recovery team had received numbered records of Medusa's statues; and the damaged route through the Arch had been reported to the local emergency workers.
+
+"I'll file each part separately," Chiron said. "We shouldn't make other people guess which problem a message refers to."
+
+Thalia shifted uncomfortably in her chair.
+
+"And the sky-gifts?"
+
+Chiron looked at her, then at Annabeth.
+
+"Your father's restrictions remain in effect until the council review he promised. I have a copy of the order. You will not be trained as though an eagle escort or extra divine storm assistance has been restored."
+
+Annabeth exhaled. Her face showed more relief than disappointment, and Percy understood why. It meant Chiron wasn't going to pretend Zeus had become a kinder father because the bolt was home.
+
+"Will you tell the other counselors?" Thalia asked.
+
+"Only what they need for safety and training. The private terms of your conversation with Zeus remain yours to describe."
+
+Thalia nodded once. She had been braced for somebody else to turn that conversation into a moral lesson for the camp. Chiron wasn't doing it.
+
+Silena unfolded a second sheet. It was her own list of outstanding infirmary supplies.
+
+"Now about injuries," she said.
+
+Percy groaned.
+
+"You've been gone long enough to collect every kind of bandage and still somehow return without the ones I'd have chosen," Silena told him. "The infirmary wants to see you, Annabeth, and Thalia before dinner. Grover should have his hooves checked too."
+
+"We've already been examined," Percy protested.
+
+"And now you're home. That doesn't make your ribs hurt less when Clarisse hugs you."
+
+Clarisse looked offended. "I was careful."
+
+"You were careful for Clarisse," Silena replied. "Which is a different standard."
+
+Chiron asked Percy whether he had experienced any new pain since traveling from Manhattan. Percy admitted his shoulder ached and that he'd slept poorly. Annabeth mentioned the healing burn and her fatigue, Thalia the lingering headache after the Arch, and Grover the soreness from the pipes and walking.
+
+The centaur wrote it down, then passed Silena the appointment slips.
+
+"Rest is part of the return," he said. "I want them to have a reasonable schedule after the examination, not a celebratory training drill at dawn."
+
+Clarisse closed her mouth. Percy could tell she'd already planned exactly that drill.
+
+"So no sparring tomorrow?" he asked hopefully.
+
+"Not unless the infirmary approves," Chiron answered.
+
+Percy smiled at Clarisse. She scowled at him.
+
+The formal discussion ended with smaller questions. Who would check on the original courier record from St. Louis? Could the satyr council help with the Medusa recovery? Which cabin counselor should distribute the Olympian notice? How would the Hermes campers be reminded not to turn a visitor's private details into public entertainment?
+
+Nobody solved everything on the porch. They assigned people to follow up. Percy realized that was a more useful ending to a quest than a single shout of triumph and a promise that all the trouble was over.
+
+When Chiron finally dismissed them, the afternoon celebration was still going on outside. The camp had waited long enough to welcome them. Percy was grateful it had also learned to keep working while they were gone.
+
+---
+
 The afternoon turned into a celebration that moved all over camp on its own.
 
 The Poseidon cabin — home to Percy, Clarisse, and Silena, each with their own bunk — had its door flung open and its seashell window boxes bursting with flowers Silena had charmed there that morning “for luck.” Clarisse had painted a crooked banner in blue and green that read WELCOME HOME KELP HEAD and hung it upside down. Percy pretended to be offended and then stood under it for ten minutes while everyone took pictures with an Iris-message slate.
