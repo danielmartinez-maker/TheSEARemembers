@@ -344,7 +344,7 @@ He went to her. She put her hands flat on his chest and stood there for a moment
 
 "Clarisse says everything's on purpose."
 
-"Clarisse says everything's on purpose and she's right." Annabeth took his hand and they went up the hill together with their hands dirty and their breath going up and the cold on their faces and the field quiet behind them and the wall on the wall and the step in the path and the door flat and the week done, and they went to the dinner, and the soup was the good one, and it was not getting cold.
+"Clarisse says everything's on purpose, and she's right." Annabeth took his hand. They left the empty field and started toward the pavilion, where dinner would be served whether or not they finished talking about their work. Before they reached the junction, Clarisse called to them from the greenhouse.
 
 ---
 
@@ -510,7 +510,13 @@ She shifted the basket into both hands. A few paces farther on she stopped to ex
 
 Silena looked relieved in a way that embarrassed Percy. He had heard her asking people for help all week, and had treated the requests like a joke because she made them sound funny. There was a limit to how much she could do while everyone else celebrated a good meal.
 
-At the pavilion steps she gave each of them a corner of the bread board. They carried the loaves through the door together. Before Percy sat down, he went straight to the washbasin. Annabeth followed, and Silena went to set out the serving plates, knowing that for once she would not be alone when the dishes came back.
+At the fork below the pavilion, Silena shifted the basket back against her hip. "Go to the cabin, wash, and check that stone step before anybody uses it with a crate. I'll take the bread up myself."
+
+"We're going to be late," Percy said.
+
+"Better late than carrying someone who slipped." She started up toward the pavilion. "You promised me help with the dishes. That means clean hands and a safe path first."
+
+Annabeth tugged Percy's sleeve toward the cabin route. He followed, still muttering about the soup, and Silena went ahead with both loaves intact.
 
 ---
 
