@@ -235,11 +235,61 @@ He held it, and his arms shook, and his legs burned, and his breath came harder,
 
 "Ten minutes," Clarisse said.
 
-He held it. The sun moved. The camp happened around him. His body screamed. His mind went quiet. And in the quiet, he found the place — the still center, the axis, the column. The place where the weight was heavy but he was heavier.
+Percy adjusted his footing. He could hold a little longer. He thought he could, anyway. His legs trembled at the knees, and the shoulder he'd bruised during the last drill had begun to ache in a way that wasn't ordinary muscle fatigue.
 
-"Time," Clarisse said.
+He glanced at Clarisse. She had her arms folded and her expression carefully blank.
 
-He lowered his arms. His whole body was shaking. His shirt was soaked. His breath was ragged. And he felt — light. Light and clean and like he'd been carved out and put back together.
+"Your shoulder?" she asked.
+
+"Fine," he said automatically.
+
+"Try the answer again."
+
+He lowered his chin. The practice was supposed to teach him a stable position, not let him compete with a clock. If he ignored the signal from his shoulder, he would start twisting his spine to compensate. He could feel that starting already.
+
+"It hurts," he admitted. "Not sharply. Just more than it should."
+
+"Then stop."
+
+He wanted to argue. Ten minutes sounded like an achievement. Stopping felt like leaving the drill unfinished, and a part of him still expected the girl holding the stopwatch to judge him for it.
+
+Instead he exhaled and lowered his arms.
+
+Clarisse walked around him once, inspecting his stance now that he wasn't trying to hold it. She made him straighten his right knee and relax the fingers he'd curled into fists.
+
+"Show me the spot," she said.
+
+He pointed to the bruise high on his shoulder. Clarisse pressed near it, not on it, and asked whether the pain traveled into his arm. It didn't. She told him he was finished with the Atlas for the morning and that Will could check the bruise if it worsened.
+
+"You said ten minutes," he complained.
+
+"I said the words. I wanted to know what you would do when holding the position stopped being useful."
+
+"That sounds suspiciously like a trick."
+
+"It was a test."
+
+"What's the difference?"
+
+"A trick is when I'm trying to beat you. A test is when I'm trying to teach you."
+
+Percy sat on the bench and took the water Silena offered him. His hands were shaking, but he hadn't made his shoulder worse by insisting that a number mattered more than a warning sign.
+
+"What would have happened if I kept going?" he asked.
+
+"You'd have started favoring the shoulder," Clarisse said. "I'd have called the drill. Then you would have been furious with me for stopping you."
+
+"I'm still a little furious."
+
+"Good. You can be furious while drinking water."
+
+Silena unscrewed the cap on another bottle and handed it to Clarisse. "Your turn, instructor. You have also been standing in the heat for two hours."
+
+Clarisse accepted it without pretending she hadn't heard.
+
+Percy watched her drink. This morning they'd agreed that either of them could call out a bad decision. It had worked once. Not gracefully, perhaps, but it had worked.
+
+He felt tired rather than triumphant, and that was probably the correct feeling after a drill he could actually learn from.
 
 "Good," Clarisse said. "That's the first time."
 
