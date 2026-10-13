@@ -1068,3 +1068,96 @@ Percy felt the plan changing from a royal itinerary into an ordinary set of shar
 
 
 ---
+
+After everyone else had gone to finish their own plans, Percy stayed behind to help Triton put the route maps away.
+
+The little table on the terrace was crowded with papers. Some showed public galleries; others marked working areas where a visitor would need permission to enter. Triton separated the two piles carefully and checked that none of the restricted diagrams had been placed among the guest copies.
+
+"Annabeth would love those," Percy said.
+
+"Then she can request permission to see them with the proper staff present."
+
+"You're learning."
+
+"I have been running parts of this household since before you learned to walk."
+
+"Apparently you never learned that people like asking questions."
+
+Triton gave him a long look. Percy grinned and took the public maps to the library shelf.
+
+He had expected his brother to be pleased that the visit was going well. Triton seemed pleased, but he also looked tired. Percy asked why.
+
+"Do you know how many people asked me today whether Father's guests were comfortable?" Triton said.
+
+"A lot?"
+
+"Enough that I stopped counting. They meant well. Some also wanted to know whether the visitors would become regular members of the household, whether Clarisse would train with the palace guards, and whether Annabeth's father expected a diplomatic meeting."
+
+"What did you tell them?"
+
+"That guests are guests until they choose otherwise, and that the Grace sisters are not mine to offer to a council meeting."
+
+Percy sat on the edge of a chair. "Were they annoyed?"
+
+"Some were. The court likes certainty. A guest who can change a plan is difficult to turn into a ceremonial symbol."
+
+"Then don't turn them into one."
+
+"That's what I am attempting to explain."
+
+Triton took out the household ledger. The revised entries from the earlier garden visit were there, each name listed under the relationship its owner had chosen. The steward had added a note identifying where future correspondence should be sent, so a letter to Silena wouldn't automatically be routed through Percy's rooms.
+
+"She'll like that," Percy said.
+
+"She asked for it."
+
+"Of course she did."
+
+They worked through the guest list. Clarisse had declined a title. Silena wanted her full name used on correspondence. Annabeth was listed as a guest and cartography student, with no suggestion she belonged to Poseidon's line. Thalia was recorded as Annabeth's older sister and a visitor from camp. Percy kept his family entry, including the note that he had chosen the designation in the present despite not remembering the childhood it described.
+
+"Does it ever bother you?" Percy asked Triton. "That I don't remember the things you remember about us?"
+
+Triton closed the ledger. "Yes."
+
+Percy hadn't expected the admission.
+
+"I wish you remembered racing through the south channel with me. I wish you remembered the first terrible shelf we built for your collection of rocks. Sometimes I begin telling a story and forget that you're hearing it for the first time."
+
+"I'm sorry."
+
+"Don't apologize for something you didn't choose."
+
+Triton traced the edge of the book. "There are days when I feel as though I have two versions of my little brother: the child I remember and the boy standing in front of me. But they're not competing. The one I remember is not a claim on the person you are."
+
+Percy looked toward the darkened garden beyond the terrace. "I like hearing the stories. I just don't want to pretend I remember them because it would make you feel better."
+
+"Then don't. Tell me when I've assumed too much."
+
+"I will."
+
+A steward knocked at the library door with one final message from Poseidon's office. There would be no confirmed harbor visit the following morning. The king might come later if his duties allowed.
+
+Triton read the note and set it aside. He didn't move the workshop visit or the training pool from their places on the schedule.
+
+"Are you going to tell everyone?" Percy asked.
+
+"Yes. At breakfast. No one should wait on an unconfirmed plan."
+
+Percy thought of Clarisse asking for a time and receiving none. She would be disappointed, and likely angry, but she'd be more angry if everybody pretended the meeting was still certain.
+
+"Thanks," he said.
+
+"For what?"
+
+"Not making me explain it to them."
+
+"That's my responsibility as host, not yours as brother."
+
+They finished sorting the route maps. Triton locked the restricted papers in their cabinet and left the public copies on a table where any of the guests could find them. Percy inspected the guest-card box one more time. It contained the same three routes they'd agreed at camp and the names of the people assigned to help if a visitor wanted to leave.
+
+He had spent the afternoon learning how the palace worked, but the most useful lesson had come in a room full of ordinary paperwork. Nobody was being required to belong in a way they hadn't chosen. Nobody was being asked to wait indefinitely for their father. A letter could go to its real recipient without passing through Percy first.
+
+Triton switched off the library's lamps as they left. The current beyond the windows moved steadily toward the city. Percy could not tell whether the morning would be easy. He could tell that when it began, the people who came with him would have their own plans.
+
+
+---
