@@ -754,11 +754,33 @@ Percy looked at the city one last time. He had wanted this entire quest to end w
 
 He picked up his bag. It felt strangely light without the fear of a hidden weapon in the side pocket. He carried his reports, his bandages and the folded answer about Sally. All of them were real. None was a guarantee that the morning would go well.
 
-The sun touched the water.
+Before they left the terminal, Grover asked for a minute to check the air outside.
 
-Percy closed his eyes and let the tide wash over his legs, carrying away blood and ash, leaving salt and strength behind.
+He returned with a worried look.
 
-The sea remembered. And so would he.
+"I can smell rain," he said. "Not a monster. Just rain. But the city's full of people rushing somewhere and I can't tell which direction makes sense anymore."
+
+Annabeth showed him the route to the receiving office. "We aren't improvising a path. We're following the courier."
+
+"Good," Grover said. "I like that."
+
+Thalia put her hand on the younger satyr's shoulder. She didn't tell him he was brave or insist he stop shaking. The long trip had made clear that fear was not a problem someone could simply decide to finish having.
+
+Percy watched the sealed weapon disappear through a guarded interior door, the armory representative walking beside it. It was out of his hands now, and he felt an unexpected flash of panic. When he carried his own sword, he could make a decision about when to draw it. A divine weapon under official custody required him to trust people he'd never met.
+
+Annabeth noticed where he was looking.
+
+"The seal numbers match," she said.
+
+"I know."
+
+"We have copies of the handoff."
+
+"I know."
+
+"Then let's go give our account before somebody tells it for us."
+
+Percy nodded. It was the one thing he still had authority to do.
 
 ---
 
