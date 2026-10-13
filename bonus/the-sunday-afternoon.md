@@ -4321,3 +4321,382 @@ On Saturday she practiced the song once more. She still wasn't satisfied with th
 Sunday, she decided, could be a good day even if the train was late. She had spent the last several weeks discovering that a promise did not become weaker simply because it had to pass through ordinary delays. What mattered was that he had written her a date, and she trusted him to use it.
 
 ---
+
+## Sunday, December 17: The Space Beside Her
+
+The train was late.
+
+It was not dramatically late. There had been no storm or broken bridge or army of monsters on the tracks. The driver of the camp van had simply sent word that the station was running behind schedule and that he would be at the road gate closer to six than four.
+
+Thalia received the message at half past three.
+
+She was standing in Cabin One, wearing the shirt she'd chosen after an unreasonable amount of consideration. It was the same dark one she'd worn to the range the week before. She had brushed her hair and then stopped because she could hear the voice of her younger self asking why anybody ought to spend time looking attractive for a man who had already seen her in three days' worth of exhausted camp clothes. The answer was that she wanted to. That ought to have settled it.
+
+Now she had two extra hours.
+
+Annabeth looked up from her book.
+
+"Don't pace."
+
+"I'm not pacing."
+
+"You're about to."
+
+"Your powers of prophecy are improving."
+
+Thalia went to the door and looked outside. The snow had melted from the south-facing paths, leaving patches of wet gravel beneath the winter sky. A few campers were carrying firewood toward the pavilion. The tenth lantern hung dark on its hook, waiting for the evening light.
+
+She had once stood beneath that lantern wondering whether to walk up to Rhys's cabin. Now she was waiting for him to come back down the same road. The symmetry annoyed her almost as much as the delay.
+
+She occupied the next hour with something useful. She checked the range, made a list of equipment that would need repair after the freeze, and corrected a novice's grip without using the opportunity to lecture him about the value of patience. She returned to Cabin One at five, changed her wet socks and stood very still beside her bed until Annabeth looked at her again.
+
+"Go to the gate," her sister said.
+
+"It's early."
+
+"Then you'll be early."
+
+Thalia stared.
+
+Annabeth turned the page.
+
+"You're welcome."
+
+***
+
+The road gate was quiet when she arrived. The sky was darkening, and a narrow band of gold remained above the ridge. Two older campers stood near the supply shed counting crates. A wagon had been left beside the wall, its wheel propped on a stone. Nothing appeared prepared for an important reunion.
+
+That was good.
+
+Thalia didn't want an audience. She wanted to see him.
+
+At half past six the van came around the bend.
+
+She recognized the vehicle before she could see who was inside. It rattled over the uneven ground, slowed near the gate and came to a halt with a tired metallic shudder. The driver stepped out and went around to open the rear compartment.
+
+Rhys emerged carrying his guitar case.
+
+He saw her.
+
+The change in his face was so immediate that she forgot the carefully chosen remark she'd been preparing. For several seconds they simply looked at each other across the space between the van and the gate.
+
+Then he put the guitar down.
+
+She met him halfway.
+
+He caught her against him, and she kissed him with the unguarded pleasure of a person who had spent weeks imagining the moment and discovered that the reality did not need embellishment. His hands settled at her waist. She could feel the cold of his coat, the warmth beneath it, and the quick breath he drew when she caught his face between her hands.
+
+It was not a polite greeting.
+
+When they broke apart he was laughing softly.
+
+"Hello, Grace."
+
+"You're late."
+
+"I know."
+
+"Terrible first impression."
+
+"Second, actually."
+
+"Your first was worse."
+
+He kissed her again before she could continue. She held him close, smiling against his mouth, and for a moment the weeks apart seemed to fall away. The smell of his coat was different, carrying traces of train carriage and winter road, but the way he held her was familiar. She knew his hands. She knew the expression he would make when he drew back. It was so good to find him again that she didn't pretend otherwise.
+
+"I missed you," he said.
+
+"I noticed."
+
+"You wrote me a letter explaining it in considerable detail."
+
+"I was being thorough."
+
+He rested his forehead against hers, eyes closed for a moment. She could feel his smile return.
+
+"Thalia."
+
+"What?"
+
+"I missed you too."
+
+She kissed him once more, not because the answer required payment but because she wanted to. There was nothing shy about her eagerness now. She had missed his mouth and his laugh and the peculiar satisfaction of provoking him into saying something sharp. She had missed the quiet afterward, too, when neither had to defend the fact that they liked being close.
+
+The driver cleared his throat at the van.
+
+Rhys opened one eye. "I think he wants the road."
+
+"Let him have it."
+
+"He's got my bag."
+
+"Then make yourself useful."
+
+They collected the bag and the guitar. Thalia took the smaller bundle without discussion, and Rhys didn't insist on carrying everything to demonstrate his competence. They thanked the driver, then stood a moment watching the van pull away.
+
+The cold was beginning to reach them through their coats.
+
+"Food?" Rhys asked.
+
+"At the cabin."
+
+He looked at her. "You planned ahead?"
+
+"I have occasional moments of brilliance."
+
+"Only occasional?"
+
+"Don't get demanding."
+
+They started up the path.
+
+At the fork he reached for her hand. She took it without looking around first. They passed the lower buildings, the range and the cedar brake. At the familiar turn he slowed.
+
+"This is where you almost changed your mind," he said.
+
+"Your memory is annoyingly good."
+
+"I had a month to think about it."
+
+She looked at him. "And?"
+
+"I still like that you came."
+
+She smiled. "Good."
+
+There were a dozen things she wanted to ask him. Had his mother seemed relieved when the repairs were finished? Did the train feel longer on the way back? Had he played the song for her? Had he really looked at the photograph as often as he claimed? She didn't ask them on the path. They would have time for those answers later.
+
+At the cabin door he found the card she'd left beneath the lamp.
+
+He read it while she took off her coat.
+
+"'You may kiss me when you get here,'" he read aloud.
+
+Thalia looked over. "You did."
+
+"'I intend to make that difficult to resist.'"
+
+"I succeeded."
+
+He laughed and put the card carefully into the drawer where he kept his letters. Then he came back toward her.
+
+The room was cool but not cold. Someone had cleaned the stove and left a small supply of kindling nearby. Thalia had brought bread, cheese and a pot of soup that could be warmed quickly. She had also brought the striped socks, washed and folded, and put them on the table with considerable ceremony.
+
+"Your property," she said.
+
+He examined them. "I thought those were yours."
+
+"They're hideous."
+
+"You wore them for weeks."
+
+"An act of charity."
+
+He picked them up, then set them down and looked at her with the expression that had interrupted so many of her carefully prepared remarks.
+
+"Come here."
+
+She did.
+
+This kiss was different from the one at the gate. There was no road, no driver, no cold wind requiring them to hurry. They had closed the door on the camp and were standing in a room that had held all their private conversations. The familiar workbench and the small lamp were where she'd left them; the stove was beginning to catch, and his travel bag still lay unopened near the wall. She could see the tiredness beneath his eyes and the way his face changed when she touched him.
+
+Her fingers found the collar of his coat. She slipped it from his shoulders and let it fall onto the chair, then slid her hands up his shirt and drew him closer again. He was smiling when she kissed him, but the smile faded as the kiss lingered. He rested his hand against her cheek, and she followed it as though she couldn't quite believe the touch had returned.
+
+She had imagined this moment in letters and in the half-light of Cabin One. The imagining hadn't prepared her for the immediate warmth of him, the familiar scrape of his cheek, the way he breathed her name when she refused to let the kiss end.
+
+The stove clicked.
+
+Neither moved.
+
+"You should put your bag away," she murmured.
+
+"I should."
+
+"Your guitar's in the doorway."
+
+"Terrible safety hazard."
+
+"You've been away too long. The standards have collapsed."
+
+He laughed into the next kiss. She felt the sound against her cheek and knew, with sudden certainty, that she'd missed this as much as anything. The laughter that came when a moment was too good to remain solemn.
+
+She drew him toward the cot, careful of the travel bag, and sat. He followed, setting one hand on the blanket to steady himself. For a moment they looked at each other, both a little breathless and entirely pleased. No negotiation was necessary. Their eagerness had been plain since the gate.
+
+"Your train was late," she said.
+
+"A vicious betrayal."
+
+"And I spent two hours pretending not to be annoyed."
+
+"How did that go?"
+
+"Poorly."
+
+He smiled. "I can see that."
+
+She caught the front of his shirt and pulled him closer.
+
+"Then stop talking about trains."
+
+He obliged.
+
+The lamp remained on for a while. She liked seeing his face as they kissed, the way his eyes followed her when she moved, the particular look of recognition each time she caught him off guard. At some point he reached to turn the wick down, and she caught his hand and pressed it against her cheek instead.
+
+"Not yet," she murmured.
+
+He stayed where he was.
+
+There was no hurry. She knew how tired he was from the trip. He knew she had been counting days. They had the evening to themselves, and she wanted to feel the pleasure of that without forcing it to become a performance. Their kisses slowed, then began again, and the warmth between them had the easy certainty of something returned to its rightful place.
+
+At last she turned down the lamp herself.
+
+The remainder of the night belonged to them.
+
+***
+
+Later, the soup had cooled in its pot, the travel bag was still unopened, and Rhys was attempting to explain why his mother had decided the entire kitchen needed new shelves when only one cupboard had been broken.
+
+Thalia was lying beside him beneath the quilt, listening with one eye closed.
+
+"You're telling me she replaced the cupboard."
+
+"She replaced the cupboard, then decided the shelves didn't match."
+
+"That's your family."
+
+"Apparently."
+
+"Terrible judgment."
+
+"On which side?"
+
+"All of you."
+
+He laughed. She was aware that she was smiling too, though she didn't make an effort to hide it. There was something wonderfully ordinary about being here with him, the excitement of his return giving way to conversation about cupboards and meals and the things that had happened while they were apart.
+
+She touched the small scar on his knuckle.
+
+"Did you think about me?" she asked.
+
+He turned his head. "Frequently."
+
+"Not only when you were bored?"
+
+"Especially when I was busy. I kept seeing something I wanted to tell you, then remembering I'd have to write it down."
+
+She considered. "I liked your letters."
+
+"I liked yours."
+
+"I wrote something embarrassing."
+
+"You wrote several things."
+
+She gave him a warning look.
+
+"Good things," he added.
+
+"Better."
+
+He moved closer and kissed her forehead, a small affectionate gesture that required nothing in return. She followed him anyway, turning until she could kiss him properly.
+
+"You know what I thought would happen?" she said when they drew apart.
+
+"Tell me."
+
+"I thought you'd come back and we'd spend the first hour trying to be the people we remembered from the letters. I thought it would feel awkward."
+
+"Did it?"
+
+"No."
+
+He considered. "I was nervous on the train."
+
+"You?"
+
+"Yes. I kept wondering whether the picture I'd carried home was going to match the person waiting here."
+
+She looked at him. "And?"
+
+"The picture was very good."
+
+"That's not an answer."
+
+He smiled. "You're better."
+
+She made a face at the compliment, but he had already seen her smile. He didn't push. She was grateful, and a little annoyed to find herself grateful.
+
+After a while he rose to warm the soup. She watched him move around the cabin, putting the pot on the stove and unpacking a small parcel from his bag.
+
+"What's that?"
+
+"Something my mother sent."
+
+Thalia sat up. "For whom?"
+
+"For you."
+
+He held it out. Inside was a folded piece of cloth, a simple dark wool scarf with neatly finished edges. It wasn't elaborate or expensive. Someone had taken time choosing a color that would suit her and making certain the seam wouldn't scratch her neck.
+
+"She made this?"
+
+"Yes. She said the photograph made it clear you needed warmer clothes."
+
+Thalia laughed. "That's because you took the picture when it was freezing."
+
+"She also said I was a fool to let you steal my scarf without offering a proper replacement."
+
+"Your mother has excellent judgment."
+
+"I'll tell her you said so."
+
+"Don't. She'll think I'm nice."
+
+He came to sit beside her while she turned the scarf over in her hands. There was no invitation to explain what a gift meant. It had been given freely, by someone who knew her only through a few stories and a photograph. She felt the odd weight of being included in a family conversation without having been present to direct it.
+
+She put the scarf around her neck and looked at him.
+
+"Well?"
+
+He smiled. "It suits you."
+
+She leaned over and kissed him.
+
+"Tell her thank you," she said.
+
+"I will."
+
+"And tell her the kitchen shelves were a terrible idea."
+
+"I won't."
+
+"Rhys."
+
+"Absolutely not."
+
+She laughed, pulled him close again and kissed him until the argument about shelves had lost all significance.
+
+They ate the soup at midnight.
+
+He was tired. She could see it by the way he kept pausing between words, the old travel exhaustion finally claiming him. She didn't want to turn his homecoming into another demand. When he finished eating, she put the bowls aside and drew the blanket back.
+
+"Come to bed," she said.
+
+He did, with a smile that held none of the earlier uncertainty.
+
+She settled against him. Outside the shutter, the winter wind moved through the pines, familiar and persistent. The cabin was warm. His guitar case lay by the workbench, and the photograph had returned in the pocket of his coat. Those things would need to be unpacked in the morning. Tonight she was content to know he was here.
+
+Just before she slept she felt his hand find hers beneath the quilt.
+
+"Thalia?"
+
+"Hm?"
+
+"I'm glad I came back."
+
+She turned toward him, touched his face and kissed him once more.
+
+"So am I," she said.
+
+The answer needed nothing else.
+---
