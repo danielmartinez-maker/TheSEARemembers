@@ -13366,3 +13366,241 @@ For an hour neither needed anything from the other.
 It was a good morning.
 
 ---
+
+## June 6: The Picture That Faded
+
+The photograph had begun to lose its color.
+
+Thalia discovered the change while sorting through the little drawer beneath Rhys's cot, looking for the old note she'd written him after the first Sunday. She hadn't meant to take out the photographs. They were stacked beside a packet of guitar strings, safe inside a folded piece of paper. But the edge of one print had slipped from the packet, and she recognized the white border immediately.
+
+It was the photograph from the orchard, the one Rhys had taken when she was still uncertain about being seen with him.
+
+Her face had been a little blurred to begin with. Now the red of her coat looked pale and washed out, and the dark line of his sleeve had faded toward grey. The image was still recognizable, but the light had taken something from it.
+
+She sat on the floor and looked at it for a while.
+
+Rhys came in carrying two cups of tea.
+
+"What are you doing down there?"
+
+"Investigating your terrible storage system."
+
+"Find anything interesting?"
+
+She held up the photograph.
+
+He looked at it and frowned.
+
+"That's worse than I thought."
+
+"How long has it been like that?"
+
+"I noticed it a few weeks ago. I thought the paper was changing."
+
+"It's changing into nothing."
+
+"Not yet."
+
+She looked down at the image. She remembered the day clearly: the cold, the low wall, Rhys's laugh when she shoved him just before the camera clicked. The photograph had been a poor picture and a very good record. She disliked the idea that the record might disappear while the memory remained only in her head.
+
+"Can it be fixed?" she asked.
+
+"Maybe. The camera was old. Somebody at the music shop knew how to copy prints. I can ask."
+
+Thalia frowned.
+
+"Why didn't you tell me?"
+
+He sat beside her on the floor.
+
+"Because I didn't think it was urgent."
+
+"It mattered to me."
+
+He looked at her. The answer wasn't a correction. It was something he needed to hear.
+
+"I know that now."
+
+She turned the photograph in her hands. There was no reason to be angry. He hadn't damaged it deliberately. He had kept it in a drawer, protected from the light as best he knew how. The paper had failed anyway.
+
+"I don't want to lose it," she said.
+
+"We can try to copy it."
+
+"And if we can't?"
+
+He considered.
+
+"Then we'll still remember taking it."
+
+She looked at him. She knew he was trying to be reassuring, but the answer irritated her. Memory was not reliable. She had spent too much of her life watching people misremember things that mattered, treating the past as something that could be rearranged to make a person look better or worse.
+
+"I want the actual picture," she said.
+
+"All right."
+
+He did not argue further. He took out a small envelope and slipped the photograph inside to protect it. Then he put the envelope into his wooden box, beside the music he'd written on the tour.
+
+"We'll take it to the shop," he said.
+
+She nodded.
+
+They spent the rest of the evening planning the small trip, checking which day the supply van would be going into the village and whether the photographer would be open. It was an ordinary conversation about opening hours and damaged paper. Thalia was grateful for it. Rhys did not turn her attachment to the photograph into a diagnosis of why she struggled with change.
+
+At the door he caught her hand.
+
+"Come here."
+
+She turned and kissed him, warm and deliberate. He held her close, and she felt the last of the irritation ease without needing it to be declared solved. He had heard her. He would help her try to save the picture. That was enough for tonight.
+
+***
+
+The photographer was a woman with silver hair and a magnifying glass hanging from a chain around her neck.
+
+She examined the print beneath a bright lamp while Thalia and Rhys stood on the other side of the counter.
+
+"Old instant film," she said.
+
+"Can it be copied?" Thalia asked.
+
+"Probably. The color's gone in places, but the outlines are still there. I can make you a new print. It won't be identical."
+
+"What would be different?"
+
+"The color, mostly. Some of the detail. The image will never be sharper than the original."
+
+Thalia considered. That was reasonable. She didn't need a better picture of the two of them. She wanted the particular ridiculous moment preserved.
+
+"Do it," she said.
+
+The photographer took the print into the back room. Rhys looked at Thalia.
+
+"Are you happy?"
+
+"Not yet."
+
+He smiled. "A very high standard."
+
+She caught his hand and held on.
+
+They waited near the shop window, watching people cross the street outside. A woman stopped to adjust a parcel, then continued toward the market square. A boy with a bicycle nearly collided with a cart and escaped at the last moment with a triumphant shout. The ordinary world went on, indifferent to the fate of a little photograph.
+
+Thalia found herself smiling.
+
+Rhys saw it.
+
+"What?"
+
+"Nothing. I'm thinking about the day."
+
+"The orchard?"
+
+"Yes."
+
+He looked toward the window. "You were furious when I brought out the camera."
+
+"I wasn't furious."
+
+"You threatened to throw it into the grass."
+
+"I considered it."
+
+"And then you insisted on taking a picture where I wasn't allowed to pose."
+
+"That was the best part."
+
+He laughed. She leaned into him and rested her head briefly against his shoulder. The image in the old photograph was fading, but the memory grew clearer as they argued about what had happened.
+
+The photographer returned with two fresh copies.
+
+They were not perfect. The color had been corrected, but Thalia's coat was a little darker than it had been, and Rhys's hair looked almost black against the pale orchard wall. The blur remained. Their laughter was still unmistakable.
+
+Thalia took the pictures and studied them.
+
+"Better," she said.
+
+Rhys smiled. "Good."
+
+The photographer explained how to store them, away from direct sunlight and damp air. Thalia listened with unusual patience, then paid for the copies and put them carefully between the pages of her book.
+
+Outside, Rhys stopped beside the shop window.
+
+"We could take another."
+
+She looked at him. "Another photograph?"
+
+"Yes."
+
+"We have enough photographs."
+
+"Of October."
+
+"Of us."
+
+He considered. "We've changed since then."
+
+Thalia thought about the tour, the summer program, the new desk in the cabin and how often she'd looked at their old picture while he was away. They were still the people who'd laughed in the orchard, but they weren't only those people anymore.
+
+She looked at him.
+
+"All right," she said.
+
+They found a camera shop that could take a new picture. The photographer asked whether they wanted a formal portrait. Thalia said no so quickly that Rhys laughed. She chose a simple shot beside the market wall, standing with one arm around his waist and the other resting against his shoulder.
+
+When the shutter clicked, neither moved.
+
+The result was clear and ordinary. Both looked at the camera. Thalia was smiling with no effort to conceal it. Rhys had the same warm, slightly amused expression she recognized from the cabin.
+
+She looked at the picture for a long moment.
+
+"That's strange."
+
+"What?"
+
+"I didn't try to make a face."
+
+He smiled.
+
+"You didn't need to."
+
+She slipped the new picture into her book beside the copy of the old one.
+
+They went back to camp after lunch, carrying the photographs safely between them. The old image had not been restored to what it once was. They had made a copy, and they had made something new.
+
+For once the distinction didn't trouble her.
+
+***
+
+That evening she put the new photograph on the shelf in Cabin One.
+
+Annabeth looked up from her drawing.
+
+"Another picture?"
+
+"Yes."
+
+"That one's good."
+
+Thalia considered. "I think so too."
+
+Her sister smiled.
+
+"You look happy."
+
+"I was."
+
+The answer came without thought.
+
+Annabeth returned to her work, and Thalia remained beside the shelf for a moment, looking at the new picture. The old print was safe in Rhys's wooden box, and the copies had been divided between them. She didn't have to choose one version of herself to preserve forever.
+
+She would change. So would he. They would take more photographs, make mistakes and perhaps lose a few records along the way. The thought no longer felt like a threat.
+
+She went to the window and looked toward the north path.
+
+The lanterns were not lit yet. It was still daylight. She could walk down and find him if she wanted.
+
+She wanted.
+
+She took her coat and went.
+
+---
