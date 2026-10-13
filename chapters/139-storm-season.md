@@ -300,6 +300,87 @@ At the top twelve-year-old Jason waited with hot towels, delighted to be helping
 
 ---
 
+Chiron ended the drill when the next gust shifted the rain toward the outer markers.
+
+The change was small, but it mattered. The exercise was meant to test how Percy and the Grace siblings could work in difficult weather under supervision. It was not meant to turn a developing storm into a contest about who could keep going longest.
+
+"All charge work stops," Chiron called. "Everyone to the sheltered marker. Walk, don't run."
+
+Annabeth lowered her hands. The faint static around her fingers disappeared, but she still looked irritated. She had been building a controlled path toward the grounding plate, and she wanted another attempt before the rain grew heavier.
+
+"One more," she said.
+
+Thalia shook her head. "No."
+
+"I was close."
+
+"That isn't the safety criterion."
+
+Annabeth looked toward Chiron. The centaur had already given the stop order. She exhaled, nodded and went with her sister toward the marked shelter.
+
+Percy had been holding a shallow channel across the sand to keep water away from the equipment. As he released it, the runoff began finding its own path. The channel had kept one side of the practice area dry, but now there was a little pool beside the grounded conductors, and the people responsible for removing them would have to step around it.
+
+"Can I drain that?" he asked.
+
+"Not with a power surge," Chiron replied. "Use the ordinary runoff cut. Clarisse, please help him clear the gravel."
+
+They took a shovel and worked while Grover kept the other campers behind the rope. Percy could feel the temptation to make the sand behave instantly. But the drain was blocked by grit, not by a magical problem. Five minutes of work moved the water into the safe collection trench. It was less impressive than a wave, and the equipment crew thanked them more warmly than Percy had expected.
+
+Will checked the trainees before they left the shore. Annabeth's hands were cold and trembling a little. Jason had a headache from the noise and wind. Thalia was exhausted in a way she tried to disguise with jokes. Percy felt a dull ache behind his eyes after concentrating on the channel through several drills.
+
+"Nobody goes back into the storm to prove they're fine," Will said.
+
+"Do I look like I need to prove something?" Clarisse asked.
+
+"Yes."
+
+"Rude."
+
+"Accurate," Silena said.
+
+The checks took longer than anyone wanted. Will asked about dizziness, vision and numbness. He made sure everybody could walk steadily and that nobody had strained a shoulder or slipped near the water. Jason needed a quiet half hour away from the noise. Annabeth was told to rest her hands before training again. Percy promised not to try a second current exercise that evening.
+
+Chiron called the group together under the shelter and laid their record sheets on a dry board.
+
+"What succeeded?" he asked.
+
+"Controlled discharge remained inside the marked path," Thalia said. "Until the wind shifted."
+
+"The change in weather didn't cause an electrical failure," Annabeth added. "We stopped before it could become one."
+
+"And what do we need to improve?"
+
+Percy pointed to the runoff pool beside the conductors. "Our water plan protected the equipment during the drills but didn't account for what happened after we released the channel."
+
+"Good observation."
+
+Silena wrote it down. Clarisse suggested making the collection trench deeper before the next session. Jason wanted the check-in calls repeated twice because he had missed the first warning beneath the sound of thunder.
+
+Chiron accepted the suggestions and made the next drill provisional on those repairs and the trainees' recovery. He did not set a date immediately.
+
+By the time they left the beach, the rain had begun to ease. The storm was no longer a challenge to master. It was weather, moving according to forces larger than any of them, and the camp had done what a training exercise should teach: practiced, recognized limits and stopped.
+
+Percy walked up the hill beside Annabeth. Their hands were too tired to hold for long, so they kept brushing shoulders instead.
+
+"Are you upset we stopped?" he asked.
+
+"A little."
+
+"Me too."
+
+She looked at him. "That doesn't mean Chiron was wrong."
+
+"No."
+
+"Then tomorrow we can write a better plan."
+
+"Tomorrow," he said. "After we rest."
+
+She smiled faintly. "You're learning."
+
+
+---
+
 The Poseidon cabin smelled like salt and chocolate and wet wool.
 
 Someone, probably Silena, had dragged blankets into a nest before the fireplace, which Percy lit with shaking hands. Socks steamed by the door. No one cared.
