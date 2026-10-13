@@ -317,6 +317,112 @@ And just like that, the war ended before it started.
 ---
 
 
+Mara asked them to leave the oven alone for ten minutes.
+
+The fan was running, the first tray had been removed, and the alarm had finally stopped. None of the children had been burned. The kitchen still smelled of scorched sugar. Percy wanted to start another batch at once, partly because the ruined cookies made him feel he'd mishandled the only piece of Sally's kitchen he could share.
+
+"We can't bake while the oven is being checked," Mara told him.
+
+"I know."
+
+"You look as though you're about to argue."
+
+"Just with myself."
+
+She nodded and went to fetch the maintenance sheet. Clarisse stayed at the counter, staring at the temperature dial she'd changed. Everybody else had gone to the hallway for air, except Silena, who was sorting the ingredients she'd managed to keep away from the smoke.
+
+"That was my fault," Clarisse said.
+
+Percy looked at her. "I know."
+
+"I shouldn't have touched it."
+
+"No."
+
+She had expected him to make a joke. She was better at handling jokes than silence, and the silence made her feel younger than she wanted to. She was Percy's older sister, the one who was supposed to teach him to handle equipment properly. She'd ignored an instruction because she hated being corrected in front of everyone.
+
+"I thought if I made the first batch perfect," she said, "you'd be happy."
+
+He considered. "I was happy we were doing it."
+
+"Even before we tasted them?"
+
+"Yes."
+
+She looked at the blue streaks on his shirt. There was flour in his hair and a small smear of chocolate beside his ear. He had been laughing until the oven smoked. She'd thought that making the cookies good would make him less sad about his mother. She couldn't explain why she had treated a recipe like a contest to win.
+
+"I'm sorry," she said.
+
+"I know."
+
+He wasn't making it easy for her. She disliked that and understood it at the same time.
+
+"What can I do?" she asked.
+
+"Help clean. Then let Mara set the temperature for the next batch."
+
+"That's all?"
+
+"That's plenty."
+
+She started washing the measuring cups. Silena came over and silently handed her a dry cloth for the clean ones. They worked side by side until the counter had been cleared and the floor no longer stuck beneath their shoes.
+
+Mara returned and checked the oven. The temperature control still worked, but she wanted to run it empty for a few minutes before anyone put in another tray. She wrote the incident in the kitchen log, with Clarisse's name beside the change.
+
+Clarisse stared at the form. "Do I have to sign?"
+
+"Yes. We record what happened, even when nobody was injured."
+
+She signed. Mara did not scold her. That made the shame easier to carry than if she'd been told she was a disaster.
+
+When Percy came back into the kitchen, Mara asked whether he wanted to try the second batch. He looked toward Clarisse.
+
+"Only if we can work together."
+
+Clarisse put down the cloth. "You still want me here?"
+
+"You're my sister."
+
+"That's not a reason to let me ruin another tray."
+
+"Then don't ruin one. You know exactly what went wrong."
+
+He said it plainly, without pretending she had done nothing wrong. Clarisse liked him better for it.
+
+They arranged the workstations again. Mara kept the oven controls to herself; Clarisse scooped the dough onto the tray and Silena checked the spacing. Annabeth read out the measurements, Percy watched the texture of the dough, and Tyson brought the cooling rack to the right side of the counter.
+
+The second tray went in. Nobody crowded around the oven door this time. Thalia and Ella stayed at the table while Grover washed the bowls. The timer was set for the agreed interval, and Mara checked the oven light without opening the door.
+
+Clarisse stood beside Percy, hands in her pockets.
+
+"Your mom sounds like she had a lot of fun with you," she said.
+
+"She did."
+
+"I wish I'd known her."
+
+He looked at his sister. She had not known Sally in this life. To Clarisse, their mother had died when Percy was two, long before the years he remembered spending with her in a different history. Clarisse didn't need to pretend she'd missed someone she hadn't met. She could still care that Percy had.
+
+"She would've liked you," he said.
+
+"She would have told me I was bossy."
+
+"Definitely."
+
+Clarisse smiled. "Good. I would have respected that."
+
+When the timer rang, Mara opened the oven and pulled out a tray of cookies with golden edges and soft blue centers. Percy breathed in, then laughed. The smell was close enough to remind him of the apartment without being exactly the same. Clarisse looked at the cookies and gave him a careful nod.
+
+"That looks better."
+
+"It does."
+
+She waited while the tray cooled, resisting the urge to poke the nearest cookie. It was not an impressive act of heroism. For her, it was proof that she could stop herself when she wanted to rush ahead and that Percy could trust her with something important again.
+
+Mara set the next timer and went back to her own work. Clarisse stayed to help without asking to be put in charge.
+
+---
+
 Thalia Grace had stolen many things in her sixteen years of life.
 
 She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). Someone had once accused her of stealing something she had never even seen, an accusation she was still irritated by. It did not count as theft, however impressive she found her survival of the argument.
