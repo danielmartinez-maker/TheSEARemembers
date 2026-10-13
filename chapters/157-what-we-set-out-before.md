@@ -462,6 +462,18 @@ On the pillow: the spare blue shirt, folded. On the shelf: the round white rock,
 
 Silena stood back, needle still between her teeth, hands on her hips, and surveyed it the way she'd surveyed the picnic on the north beach rock a month ago — stage set, players not yet arrived.
 
+Then she tried the bunk herself.
+
+She sat at the edge to check the reach to the shelf, and the corner of the mattress slipped against the frame. It was hardly visible, but under Tyson's weight the shift would become a nuisance. She took the quilt off again, knelt and found one of the wooden slats sitting crooked in its notch. Percy had made beautiful corners without noticing the loose support beneath them.
+
+For a moment she considered waking Clarisse. Clarisse knew which parts of the frame could be moved without hurting the joinery. But it was late, and Silena knew enough to recognize the slat was merely out of place, not cracked. She lifted the mattress, reseated it, then put her weight on the edge twice to test the result. The bunk held without shifting.
+
+There was a scrap of blue thread on the floor. She threaded her needle again, thinking of embroidering Tyson's name where the quilt folded over the foot. Then she stopped. He would come for a visit and leave on the arranged ferry. He had his own room at the forges and did not need this bunk made into proof that he was supposed to stay.
+
+She tied the loose thread off inside the seam instead. The quilt could be his while he was here, clean and warm and long enough for his feet. It didn't have to make the visit into something else.
+
+She put the needle away and checked the slat once more. Better. A small, actual thing she could fix, and then leave alone.
+
 From the next bunk Clarisse muttered in her sleep, turning over, one arm flung out past the blanket. "...paddle's... oiled..." she mumbled. "...tell Beckendorf... double..."
 
 Silena smiled, took the needle from her teeth, and crossed to her sister's bunk. She drew the blanket up over Clarisse's bare shoulder, tucked it once the way nurses tucked sheets, and stood a moment looking down at her — fifteen, fierce, gruffly and entirely beloved, braid come loose, mouth open, one sock on and one sock off.
