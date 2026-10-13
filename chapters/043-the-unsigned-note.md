@@ -782,6 +782,110 @@ Annabeth widened eyes. "You are okay with him?"
 
 ---
 
+Thalia waited until the following afternoon to speak to Silena.
+
+They were alone in the arts cabin, where Silena had been repairing a strap on a performance costume. The weather had kept most people indoors, and the worktables were scattered with thread, paper and jars of sealing wax. Thalia stopped in front of the last one. She recognized the blue and white sticks immediately.
+
+"So that's where it came from," she said.
+
+Silena looked up. "Where what came from?"
+
+"The seals. Annabeth showed me a note."
+
+Silena put down her needle. She didn't look embarrassed or guilty, which irritated Thalia more than if she had started making excuses.
+
+"Did she want you to read it?" Silena asked.
+
+"She gave me permission."
+
+"Then I'm glad."
+
+Thalia sat opposite her.
+
+"You knew Percy was writing."
+
+"Yes."
+
+"And you didn't say anything."
+
+"It wasn't mine to tell."
+
+Thalia had expected an apology. She felt the first spark of anger as though something had been taken from her. Percy was Silena's little brother, and Annabeth was hers. They had all been looking after the children since the altered memories made ordinary family life more complicated. It seemed reasonable that Silena should have told her.
+
+"How long?" she asked.
+
+"A while."
+
+"That's not an answer."
+
+"Then ask Annabeth, if she wants to tell you. I'm not giving you a report on their letters."
+
+Thalia stared. Silena continued sewing the strap, giving her time to decide whether this was going to become a fight.
+
+"They're twelve," Thalia said.
+
+"I know."
+
+"They remember being seventeen. That makes it harder to tell whether they're acting their age or their memories."
+
+"Sometimes it does. But writing funny notes and leaving a stone for somebody you like sounds fairly twelve to me."
+
+Thalia looked at the wax. She was thinking of the letter Annabeth had let her read. Percy had asked whether the thunder frightened her and wished her luck on a test. Nothing about it was dangerous or adult in a way the children weren't ready for. She wanted to be angry because she hadn't known. That was a different problem.
+
+"You should have told me they were being careful," she said.
+
+Silena considered. "I could have told you what I see. Percy does his chores. He comes home after class. He worries whether his note is too silly and asks for spelling help. I don't read what Annabeth sends unless Percy asks me to. If something concerned me, I'd talk to him first and involve a responsible adult if necessary. But I won't treat their affection as a situation that needs two older sisters making decisions over their heads."
+
+Thalia rubbed her eyes. She was exhausted by how often being protective left her on the wrong side of an argument she couldn't honestly win.
+
+"What if he hurts her?" she asked.
+
+"Then Annabeth gets to say so. And you can help her if she asks. Percy gets to learn when he's wrong too. We can't prevent every disagreement between them."
+
+Thalia had known that in theory for years. Saying it aloud about her sister's relationship made it feel different.
+
+Silena passed her the loose strap.
+
+"Can you hold this flat?"
+
+Thalia did. She watched Silena draw the needle through the leather with careful, even movements. The task required both of them but didn't give either the right to decide how the other worked.
+
+"Do you think Percy is happy?" Thalia asked after a while.
+
+"Yes. He smiles at his letters. He doesn't stop being himself when they're not there."
+
+"And Annabeth?"
+
+"You'd know that better than I would."
+
+Thalia looked down. Annabeth had been happier, and Thalia had been so busy trying to identify the cause that she'd made happiness feel like a problem requiring an explanation.
+
+"I told her she can keep things private," she said. "Then I saw the note and wanted every detail."
+
+Silena smiled slightly. "Then you have a chance to practice what you told her."
+
+Thalia held the strap while Silena made the last stitches. When they finished, Silena checked the seam and placed the repaired costume in its bag.
+
+"I won't tell Clarisse," Thalia said.
+
+"That's not a secret I need you to keep for me. Ask Annabeth what she wants shared. And if Clarisse notices the notes herself, we'll deal with the teasing without treating it like a disaster."
+
+Thalia nodded. She didn't particularly like the idea that Percy's older sister had thought about this more carefully than she had. She respected it anyway.
+
+At the door she stopped.
+
+"He draws a terrible owl."
+
+Silena's smile widened. "It's a potato. I've seen it."
+
+"Well, he owes me one for inspection."
+
+"I'll let Annabeth decide whether she wants to ask him."
+
+Thalia laughed despite herself. She had spent an entire afternoon hoping someone would give her permission to stop worrying. Instead she had been given something harder and more useful: a reason to trust the people involved unless they told her that trust was misplaced.
+
+---
+
 Percy got his answer two days later after rain cleared.
 
 Silena checked the water jar from habit on the way to breakfast and came running back barefoot, shaking Percy awake where he had slept through the conch.
