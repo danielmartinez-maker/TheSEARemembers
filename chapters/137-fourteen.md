@@ -742,9 +742,9 @@ He returned to the cabin to wash the thread marks from his fingers. Annabeth arr
 
 "Then we can charm the dock watch into signing it out."
 
-They went together, checked the return time, and made sure the marked route stayed clear of the reeds in the fading light. The counselor on watch handed them the equipment list. Percy signed for the boat, and Annabeth checked the life jackets.
+They went together to the equipment board to read the evening restrictions. The counselor on watch told them a buoy had moved in the earlier squall and asked them to return when the replacement route was confirmed. Percy looked disappointed, but Annabeth said they could wait for the updated chart.
 
-It was a small task, not the sort of thing anyone would put in a birthday speech. But Percy was learning to enjoy doing something carefully without turning it into a heroic test. A shield with a repaired strap, a signed-out canoe, and the prospect of an hour on the lake with Annabeth were ordinary enough to suit him.
+It was a small task, not the sort of thing anyone would put in a birthday speech. But Percy was learning to enjoy doing something carefully without turning it into a heroic test. A shield with a repaired strap and the prospect of an hour on the lake with Annabeth were ordinary enough to suit him.
 
 
 ---
@@ -878,6 +878,50 @@ Percy rested his hand beside hers, close enough that lake-cold fingertips brushe
 "Same speed," he agreed.
 
 Behind them, the sun slipped under. Light flared once across the water, gold to rose to ash. Their twin wakes trailed back toward the dock, widening, overlapping, impossible to tell apart after a few yards.
+
+---
+
+They reached the dock before the last of the light disappeared. The counselor checked the borrowed equipment against the sign-out sheet and asked whether the northern marker had been visible from their turn.
+
+"Yes," Annabeth said. "But the temporary flag is hard to see when you're approaching from the east."
+
+The counselor made a note to move it before the next outing. Percy helped pull the canoe above the waterline and stow the paddles, resisting the temptation to let a small wave do the work for him. A borrowed boat deserved the same care on his birthday as any other day.
+
+At the campfire Tyson was already leading a birthday song at twice the reasonable volume. Silena tried to keep the rhythm with a spoon against her cup. Clarisse shouted the words as though she was calling a charge. Thalia stood beside Annabeth, deliberately singing one note lower than everyone else just to make her sister laugh.
+
+Percy stopped at the edge of the light. He had expected a grander feeling from this second celebration, something that would tell him definitively that he was fourteen now. Instead he felt grateful and a little sore from training, hungry despite the palace feast the day before, and warm all over when Tyson noticed him.
+
+"HE CAME BACK!" Tyson roared.
+
+"I said I would."
+
+"You are good at coming back."
+
+Percy met Annabeth's eyes. She heard more in the words than Tyson intended, just as he did. Neither of them explained. They stepped into the circle, and Percy accepted a paper plate with an uneven slice of cake.
+
+The cake had too much frosting. Someone had painted a trident on top with blue sugar, and the middle prong had leaned sideways as the icing softened in the heat. It was nothing like the elaborate desserts in Atlantis. Percy loved it immediately.
+
+Silena handed him a candle that had already been lit once. "We used this at the practice party. The box ran out."
+
+"Reduce, reuse, birthday," Percy said.
+
+"Don't start."
+
+Clarisse struck a match and relit the wick. Percy looked around before he blew it out. He saw the people who had taught him something that day: the new camper moving his feet on the edge of the circle, the instructor who had listened to the grievance about scheduling, Silena with her own design pattern safely tucked under her arm, Tyson leaning beside his sister as if he could stay in two homes at once.
+
+There was no wish that could make all of that permanent. Percy wasn't going to ask for one. He blew out the candle before the wax reached the frosting and let the cheer rise around him.
+
+When he sat beside Annabeth, she wrote one more line in her notebook, angling the cover away so he couldn't read it yet.
+
+"What's that?"
+
+"Something for when we're older."
+
+"Tell me."
+
+"Not tonight."
+
+He let her keep the sentence. He had known her long enough to understand that some memories felt truer when you allowed the other person to carry a piece of them privately. Her shoulder rested against his while the campfire burned down, and he was fourteen without having to prove anything else before bed.
 
 ---
 
