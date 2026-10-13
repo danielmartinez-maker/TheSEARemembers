@@ -64,6 +64,78 @@ An old passage linking the cabins offered exactly the right blend of mystery and
 
 ---
 
+The rumor might have stayed a joke if a younger camper hadn't been accused of stealing the drachmas.
+
+Percy heard about it on his way to the Big House. Two Hermes campers stood by the fountain, arguing over a missing box that belonged to their cabin's supply account. The younger one kept saying he'd never seen it. His counselor had already checked the cupboards, but someone had decided that the secret passage must lead to a hiding place beneath the cabin.
+
+"If there's a tunnel, he could have carried it out without anyone seeing," the older boy insisted.
+
+"That's not evidence," Annabeth said.
+
+"It's a possibility."
+
+"So is somebody moving the box because it was left on the wrong shelf."
+
+Percy looked at the younger camper. He was small enough that his camp shirt still hung past his wrists. He had gone very pale.
+
+"Where was the box last seen?" Percy asked.
+
+"At the counting table. I helped put away the coins, and then the counselor said it was gone."
+
+"Did you sign it out?"
+
+"No. I wasn't supposed to. I just counted."
+
+The older camper opened his mouth to object, but Annabeth held up a hand.
+
+"Before we start looking for secret tunnels, let's find out who was responsible for the box," she said.
+
+They went back to the Hermes cabin with permission from its counselor. Percy stayed outside while the counselor checked the storage room; Annabeth read the supply log and asked when the box had last been counted. The record contained two different handwriting styles and a crossed-out entry. It was a clerical mess, not a mystery worthy of a prophecy.
+
+"Here's the transfer," Annabeth said at last. "The box was sent to the Big House for the camp games. Someone initialed it, but didn't write the destination on the front page."
+
+The counselor looked embarrassed. "That was me. I put the note in the wrong column."
+
+The older boy flushed. He stared at the younger camper as though he'd expected the case to be more dramatic.
+
+"So there wasn't a thief?" Percy asked.
+
+"Not unless Chiron stole his own games budget," the counselor replied.
+
+Nobody laughed. The younger camper had been frightened, and the accusation did not vanish just because the record had been corrected. He wanted the older boy to apologize. He had to ask twice before the apology came.
+
+Percy stood beside him while it happened. He didn't tell the boy to be grateful that the others had finally checked the ledger. He knew what it felt like to have people decide who you were based on a story they'd already been telling about you.
+
+Annabeth wrote the correction in the margin and had the counselor initial it. The missing drachmas were accounted for, and the question of the passage was still open.
+
+"That's the trouble with a good rumor," she said as they left. "People use it to explain things they haven't bothered to check."
+
+Percy kicked a pebble along the path. "You sound disappointed that our mystery isn't a crime."
+
+"I'm pleased it isn't a crime. I'd rather not have a camp where the first response to a missing box is to blame somebody younger."
+
+"Then what do we do with the tunnel rumor?"
+
+"We investigate the part that might be real. With Chiron. And we don't let anyone decide what it means before we know where it goes."
+
+They found Silena and Clarisse waiting outside the Big House. The news about the box had spread faster than their walk. Clarisse looked annoyed.
+
+"Someone told the little kid he could crawl out of the cabin and hide under the ground," she said. "That's not even physically plausible from the way the cabins are built."
+
+"Rumors don't need measurements," Percy said.
+
+"They would be improved by them."
+
+Silena had brought a small stack of paper and charcoal. She suggested drawing a simple map of the known service areas once Chiron allowed it, so younger campers could see which parts were maintenance spaces rather than a playground.
+
+"Not a map to the entrance," Annabeth said. "We don't know whether it's safe."
+
+"No. A map of what we know and what we don't."
+
+That sounded like a project Percy could agree to. It would make the mystery less exciting to the people hoping for a secret route beneath the cabins. It might make camp safer. He had been accused of worse things than ruining a good adventure.
+
+They walked toward the Big House together. The younger Hermes camper had gone back to breakfast, though Percy doubted he would enjoy the rest of his oatmeal. Percy resolved to check on him later, not because he was responsible for every quarrel at camp, but because an apology from somebody who had scared you sometimes took longer to believe than the person offering it expected.
+
 From the Big House porch, where he was sorting repair requests, pine boards warm beneath his hooves, Chiron heard their question. The stack included a loose bench, two missing shields, a leaky roof, and a complaint about strawberries that "refused to stay in rows."
 
 "Service passages run beneath sections of camp," he said. "Some carried water. Some granted the maintenance crew access to pipes and foundations. Most were sealed as cabins changed."
