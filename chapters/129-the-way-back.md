@@ -28,6 +28,133 @@ Percy closed his bag and followed Annabeth toward the breakfast hall. Leaving st
 
 ---
 
+Percy discovered the missing bag because a palace servant came to collect the guest-room linens.
+
+She was a short woman with gray hair braided tightly against her head. She knocked twice, entered after Percy answered, and asked whether he had found everything he'd brought. He glanced around the nearly empty room and said yes. She looked at the inventory card on the desk.
+
+"There's a second waterproof case assigned to this room."
+
+"I only packed one."
+
+"The second was delivered from the archive yesterday. The copying clerk signed it in."
+
+Percy checked beneath the bed, opened the little cabinet and looked behind the chair. The case wasn't there. He had spent the last ten minutes being melancholy about leaving Atlantis and had apparently misplaced an official archive delivery in the process.
+
+"Would it be in the corridor?" he asked.
+
+"The attendant may have left it in the family library. If you'd like, I'll ask."
+
+"I'll come with you. It's my problem if I forgot it."
+
+She looked amused. "Things become everyone's problem when they're recorded against the wrong room. It's why we keep a list."
+
+They went to the library together. The copying clerk found the case in a locked drawer, where Annabeth had asked him to keep it until her hand-drawn chart was dry. He opened it and showed Percy the contents: a public copy of the palace foundation diagram, an index identifying the revisions, and a written note about which details were not to be shared outside the household.
+
+Percy felt a flash of irritation. Annabeth had been the one to request the case, but the attendant had addressed him because it was assigned to his room. He was still treated as the person responsible for arrangements whenever someone else didn't know whom to ask.
+
+"Could you put Annabeth's name on the record?" he asked.
+
+"Of course. It was entered under the room rather than the recipient."
+
+"She's the recipient."
+
+The clerk corrected the card. He didn't seem offended. Percy wondered how often he had accepted a convenience that made his friends dependent on him without noticing it was happening.
+
+Annabeth arrived while they were checking the copy.
+
+"I thought they were keeping that until breakfast," she said.
+
+"They were. The record put it under my room."
+
+"Oh." She looked at the corrected line. "Thank you."
+
+Percy smiled. "I didn't do the hard part."
+
+"You found the problem."
+
+"The chamber attendant found the problem. I carried the paper."
+
+"Then thank her."
+
+He did. The woman nodded and continued collecting the linens, probably with dozens of other tasks waiting.
+
+On their way back to the guest wing, Annabeth held the case by its handle and looked ahead.
+
+"You don't have to chase every mistake that happens around me," she said.
+
+"I know."
+
+"But you did help this time."
+
+"I didn't fix anything you couldn't have fixed yourself."
+
+"That's not a reason to refuse help. It's a reason to ask who should make the decision."
+
+Percy considered that. He was learning to tell the difference between being useful and making himself central. It was not as easy as Annabeth made it sound.
+
+They reached the shared sitting room where Thalia was sorting a stack of letters. One addressed to Jason lay beside her. She wanted to confirm the route to Camp Jupiter before the morning dispatch. The palace attendants had offered to pass it through a fast sea relay and then into ordinary overland post.
+
+"That sounds complicated," Percy said.
+
+"It's his address," Thalia replied. "I'm not changing it because it would be easier to send it to somebody else."
+
+Annabeth showed her the archive case. Thalia read the name on the corrected card and nodded, clearly pleased her sister was recognized as the one who had requested the plans.
+
+Silena came out of her room with a small envelope of fibers and a folded letter addressed to the workshop supervisor. She had written to thank Lyris for amending the exhibition terms, but she hadn't accepted the agreement. She wanted to test her design at camp before making a commitment.
+
+"Can that go with the dispatch?" she asked.
+
+Thalia checked the envelope. "Different recipient. We'll need a different entry."
+
+Silena brought it to the clerk herself. Percy didn't offer to carry it. She'd already chosen where it should go.
+
+Clarisse appeared last. She had a training note, a borrowed wrap that needed returning and one spare practice glove she'd accidentally carried off from the court. She looked at the glove with a curse.
+
+"How did that get in my bag?"
+
+"Are you stealing royal equipment?" Percy asked.
+
+"Shut up."
+
+They walked back to the court and gave it to the instructor. The woman checked the number on the glove and thanked Clarisse for returning it before the next training group needed it.
+
+"Will you practice that form at camp?" she asked.
+
+"Only after Chiron looks at the changes," Clarisse said. "It wasn't designed for our sand."
+
+The instructor approved the caution and wished her luck.
+
+By the time they returned to the guest wing, there were fewer belongings to pack and more records complete. Percy had thought leaving would be a matter of folding a few shirts and saying goodbye. Instead the morning was full of small choices about who owned what and where each object was supposed to go next.
+
+He liked that. It meant the visit had been real enough to leave ordinary work behind.
+
+At the corridor window, Thalia stopped him.
+
+"Your father said he might come to breakfast."
+
+"Yes."
+
+"Did he confirm?"
+
+"No."
+
+"Then I won't make Annabeth get ready for a meeting that hasn't been arranged."
+
+"That's fair."
+
+Percy could hear worry in her voice. He could also hear the decision not to turn the worry into an order. Zeus had given the Grace sisters enough reasons to distrust sudden invitations, and Thalia was trying to keep the sea visit from becoming another stage for their father's moods.
+
+"Would it help if we asked the household steward?" he said.
+
+"It would help if our father could communicate clearly," she answered.
+
+Percy laughed, unexpectedly. "Mine too."
+
+They walked toward breakfast together. No one had recovered an erased memory or resolved an ancient family grievance overnight. They had returned a glove, corrected a ledger entry and kept the letters addressed to the people who should actually receive them. It was a modestly successful morning.
+
+
+---
+
 Bread and salt scented the main hall, warm loaves exhaling into the cool water, butter pooling gold in their cracks. Poseidon and Triton stood near the terrace doors while Amphitrite sat with Clarisse and Silena over the route map, parchment softened at the folds, ink smelling faintly of iron. The blue mark for a shifting current looked small enough to be a stain, its edges feathered where water had once touched it.
 
 "It should be bigger," Clarisse said.
