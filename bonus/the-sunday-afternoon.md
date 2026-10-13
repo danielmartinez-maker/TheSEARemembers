@@ -11828,3 +11828,209 @@ Thalia looked at the two names.
 They began.
 
 ---
+
+## May 3: The Part Nobody Claimed
+
+The problem with the final town was that nobody had written down who owned the last arrangement.
+
+Rhys discovered this at rehearsal when Edda placed a new score on the music stand and announced that they would play it at the closing concert. The piece was short, bright and full of sudden changes in tempo. It contained several passages that looked as though they had been written by different people, which turned out to be true.
+
+Mara had contributed the opening violin line. The cellist had changed the middle section during the previous week's rehearsals. Edda had rewritten the ending. Rhys had been asked to add a guitar part after the others were finished, though the other instruments had already begun treating his notes as if they were a fixed part of the arrangement.
+
+At the bottom of the page, under Composer, there was a blank space.
+
+"Who's credited?" Rhys asked.
+
+Edda looked up.
+
+"The ensemble."
+
+"That's not a person."
+
+"It's a collaboration."
+
+"Then there should be names."
+
+A few musicians glanced over. Rhys felt the sudden discomfort of speaking into a room where everyone else had already decided the matter was too small to discuss. He nearly let it go. He had been the newest member for six weeks, and he was still trying to earn the right to object without sounding defensive.
+
+Then he thought of Thalia looking at the printed schedule and finding Eleni's name beside her own.
+
+He had liked her for accepting it, though he knew the acceptance hadn't been easy. Here was the same question wearing different clothes: if several people had made something good, could they let the result belong to more than one person?
+
+Edda put down her pencil.
+
+"What do you propose?"
+
+"List everyone who wrote a part."
+
+"That's a long list."
+
+"It's a short score."
+
+Mara laughed. Edda's expression did not change.
+
+"The program is already printed," she said.
+
+"Then announce it."
+
+There was a silence. Rhys felt heat rising into his face. He could hear himself sounding like an advocate for his own credit, though he'd been given the smallest role in the arrangement. He wanted to explain that the problem was not his name. Then he realized that explaining might only make it sound more self-serving.
+
+Edda studied him.
+
+"All right," she said at last. "We'll announce the contributors."
+
+Rhys blinked.
+
+She turned back to the music.
+
+"Now please stop arguing and play the second entrance on time."
+
+The room laughed. Rhys smiled despite himself and took his place.
+
+The rehearsal was difficult, partly because the piece was unfamiliar and partly because the players were now paying closer attention to who had changed what. The opening was too fast. The cello part needed an extra bar. His guitar line sounded beautiful during the rehearsal break and disappeared beneath the strings when the whole ensemble played together.
+
+He had to rewrite it.
+
+That was harder than it should have been. He had spent the previous night working out the phrase, and the notes looked elegant on the page. He liked the progression. He liked the particular shape of the final chord. He disliked hearing the conductor say that none of it could be heard from the back of the room.
+
+Mara came to stand beside him.
+
+"You're staring at it."
+
+"I'm thinking."
+
+"You're sulking."
+
+"An uncharitable interpretation."
+
+She pointed at the score. "What if you come in after the violin instead of with it?"
+
+"Then there's a gap."
+
+"Yes."
+
+"The gap will be audible."
+
+"Yes."
+
+He considered. The idea was irritatingly good.
+
+"You sound like somebody I know."
+
+"The archer again?"
+
+"Yes."
+
+"Then perhaps you should stop talking about her and try the suggestion."
+
+He laughed, struck through two measures and began again.
+
+The revised line worked. It was simpler, less clever and better suited to the room. When Edda heard it, she nodded once and told the ensemble to move on.
+
+Rhys felt an unexpected pleasure at letting go of the version he'd wanted to keep.
+
+***
+
+After rehearsal, Mara joined him on the back steps with two cups of tea.
+
+"Last week," she said.
+
+"Apparently."
+
+"You going back to camp?"
+
+"Yes."
+
+"Not staying on the road?"
+
+"Not after this engagement."
+
+She looked at him, considering. "You'll be missed."
+
+He smiled. "Thank you."
+
+"That's not an invitation to become sentimental."
+
+"I wouldn't dare."
+
+She handed him a cup. The tea was terrible. He drank it anyway.
+
+"Do you think you'll come back?" she asked.
+
+"To the group?"
+
+"To this kind of work."
+
+Rhys looked toward the rehearsal hall, where someone was playing the difficult transition again and making a different mistake each time. He had been exhausted for weeks. His fingers hurt by the end of most days, and he had learned more about bad acoustics than he ever wanted to know. He had also begun to understand why some musicians kept returning to the road despite the inconvenience.
+
+"I think so," he said.
+
+"When?"
+
+"I don't know."
+
+Mara nodded. She didn't ask for a promise.
+
+They sat for a while watching people pass along the street. Rhys thought about his cabin, the familiar workbench and the narrow path through the pines. He missed those things. He also thought about Thalia and the way she'd looked in the third row of the theater, smiling before he even knew she was there. The memory remained sharper than the applause.
+
+"I want to write," he said.
+
+Mara looked at him.
+
+"More music. Not just parts for this group. Things of my own."
+
+"Then write."
+
+"I don't know whether I can make enough of it."
+
+"Nobody does."
+
+He laughed. That was a more honest answer than a reassurance.
+
+She stood to go back inside.
+
+"Bring us something next time," she said.
+
+"I might."
+
+"Make it difficult."
+
+He smiled.
+
+When she left, Rhys took out the notebook Thalia had given him and began writing a melody that didn't belong to the closing concert. He had been hearing it for several days, a quiet phrase that began almost too low to notice and then rose without becoming loud. He wrote the first bars slowly, leaving room beneath them for another line.
+
+He didn't know what the second line would be.
+
+That was all right.
+
+***
+
+That night he wrote to Thalia.
+
+He told her about the argument over the arrangement's credit, and how Edda had accepted the point before telling him to stop behaving like a lawyer. He told her about Mara's suggestion and admitted it had improved the music. He described the new melody, though he refused to include the notes until he could send something worth playing.
+
+Then he came to the part he had been avoiding.
+
+*The tour ends next week. I'm ready to come home. I also know I'll miss this work. I don't want you to think I'm choosing one life instead of the other, because I don't know yet how they fit together.*
+
+He read it over.
+
+*I want to find out. I want you in the answer, but I don't expect you to do the arranging for me.*
+
+He thought of their arguments over the winter: the photograph he'd displayed without asking, the evenings he had been too tired for company, the times she'd arrived wanting him to be available simply because she'd finally found time to visit. They had been learning how to keep affection from turning into obligation. He hoped that skill would be useful now that the future contained more than one possibility.
+
+He added a short postscript.
+
+*I have become very good at hearing your voice when somebody tells me I'm wrong. It's appalling. Sometimes you're right even when you aren't here.*
+
+He signed the letter and put it with the outgoing post.
+
+At the window the town was quiet. The ensemble would have another rehearsal in the morning, then the closing concert, then a final round of packing and goodbyes. He wanted to do all of it well. He also wanted to go home and kiss Thalia without having to save the desire for a page.
+
+He put the notebook away.
+
+There would be time for both. Not always on the same day. Not always easily. But he had stopped believing that wanting more than one thing was evidence that he'd chosen badly.
+
+He went to bed thinking about the unfinished melody, and in the morning the second line finally began to appear.
+
+---
