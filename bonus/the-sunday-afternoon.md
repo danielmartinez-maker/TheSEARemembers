@@ -906,6 +906,213 @@ Rhys gave her a look. "You really were watching."
 
 "Always."
 
+
+
+The conversation might have ended there. It didn't, because Thalia had noticed something she couldn't quite put away.
+
+"There's a difference between keeping something private and pretending it isn't happening," she said.
+
+Rhys looked at her across the empty cup. "There is."
+
+"Which one are we doing?"
+
+"I thought we were doing the first."
+
+"So did I."
+
+"Has something changed?"
+
+She studied the pattern on the cuff of the borrowed shirt. The afternoon had made it easy to forget the rest of the camp, but the camp was still there. People would notice eventually. Annabeth had eyes sharp enough to spot a crooked screw from fifty paces; Clarisse could tell something was wrong with the smallest change in a person's routine. Thalia wasn't afraid of their opinions. She wasn't entirely sure she wanted their questions.
+
+"Yesterday you kissed me on the porch," she said.
+
+"I did."
+
+"You didn't look around first."
+
+"No."
+
+"Why not?"
+
+"Because I wanted to kiss you."
+
+"That simple?"
+
+"Pretty much."
+
+She made a thoughtful noise. He waited.
+
+"I looked around," she admitted.
+
+"I noticed."
+
+"Did it bother you?"
+
+He considered before answering. She liked that he took the question seriously, even though she was impatient for the answer.
+
+"A little," he said. "For a second. Then you kissed me again, and I figured you knew what you wanted."
+
+Thalia looked up. "You weren't offended."
+
+"Should I have been?"
+
+"I don't know."
+
+"Neither do I. I don't want you feeling as if you've got to prove anything in front of an audience."
+
+She leaned back against the wall. It was a distinction she ought to have made herself. She wanted him privately, fiercely, without apology; she didn't want to invite the camp into that private part of her life simply because people might otherwise call her secretive.
+
+"I also don't want you thinking I'm embarrassed to be with you," she said.
+
+"Do you think that?"
+
+"No."
+
+"Then I won't make that assumption."
+
+He said it without ceremony. Somehow that was enough to make her feel as if she'd been carrying an unnecessary argument around for days.
+
+She shifted closer. "You're making it difficult to be properly angry."
+
+"I'm deeply sorry."
+
+"You don't sound sorry."
+
+"I've been practicing."
+
+She laughed, and he took the opportunity to kiss her cheek. She turned her head, catching the next kiss at the corner of her mouth. There was a little pause before he kissed her again, and she enjoyed the sense that the choice belonged equally to them. His hand rested lightly at her waist. She covered it with hers.
+
+"Did you notice something else yesterday?" she asked.
+
+"That you stole my last clean mug?"
+
+"I didn't steal it."
+
+"You moved it to a location from which I couldn't retrieve it."
+
+"Creative storage."
+
+"I'll tell the others."
+
+"You wouldn't dare."
+
+"Probably not."
+
+She leaned close enough that he had to lower his voice to answer.
+
+"What else?"
+
+"That I kept looking for you whenever you moved away."
+
+His smile changed. "I noticed."
+
+"You didn't say anything."
+
+"Would you have liked me to?"
+
+"Maybe."
+
+He turned toward her. "I like it when you look for me."
+
+The admission made her stop for a moment. She could manage compliments when they came wrapped in competition or teasing. A simple statement was harder to evade.
+
+"I'm going to remember you said that," she told him.
+
+"I was hoping you would."
+
+She took his face between her hands and kissed him. She meant to stop after a second, but he drew her closer, and she found herself smiling against his mouth instead. There was a boldness in being able to ask for closeness without inventing a challenge, and a sweeter sort of boldness in letting someone know how much she enjoyed it.
+
+He was no longer trying to keep his composure. She liked that. His fingers tightened briefly around hers, then loosened again. He seemed content to let the afternoon move at the pace they chose together.
+
+They pulled apart when the stove clicked loudly.
+
+"Your cabin is conspiring against us," she said.
+
+"It's jealous."
+
+"Of what?"
+
+"My excellent company."
+
+"Now that's an ambitious claim."
+
+He laughed. She shifted, careful of the heel, and rested her head against his shoulder. She could feel his hand moving slowly along her arm. The sensation was pleasant enough that she nearly fell quiet again.
+
+"You know what I'm afraid of?" she asked after a while.
+
+"Do you want me to guess?"
+
+"No."
+
+"Then tell me."
+
+She looked toward the window. "I'm afraid I'll be good at this while we're alone and terrible at it everywhere else."
+
+"At what?"
+
+"At wanting you without fighting about it."
+
+He considered. "We don't have to be perfect at it."
+
+"Nobody asked for perfect."
+
+"You look as if you're making a list."
+
+"Lists are useful."
+
+"Depends what's on them."
+
+She smiled. "I was going to put 'stop being impossible' at the top of yours."
+
+"Very unfair."
+
+"There's room for you to add something to mine."
+
+He looked at her thoughtfully. "Stop thinking I only like you when you're easy."
+
+She had expected a joke. The answer startled her enough that for a moment she could only watch his face.
+
+"You don't mind when I'm difficult?"
+
+"I mind when you're cruel. I mind when you tell me what I think instead of asking. But I like you when you're stubborn, or angry, or tired, or being unbelievably unfair about my coffee. Those aren't the same thing."
+
+Thalia breathed out. She was glad he had separated those things. She had spent a long time treating them as if they belonged in the same category.
+
+"That's quite a list," she said.
+
+"You're welcome to complain."
+
+"I probably will."
+
+"I'd be surprised if you didn't."
+
+She moved closer and pressed a kiss against his cheek, then another against the corner of his mouth. His hand came up to her face, and for a moment they were quiet, looking at each other. She felt the first hint of a smile and tried to hide it, which only made his grow.
+
+"What?" she said.
+
+"Nothing."
+
+"Liar."
+
+"I like this."
+
+"Which part?"
+
+"The part where we can disagree and you're still here."
+
+She kissed him properly this time. The disagreement hadn't vanished. They would have to decide what to say when somebody asked, and there was a fair chance Thalia would respond badly to at least the first three attempts. But none of that made her want to leave. She liked this man. She wanted to be near him and to keep choosing how near, without being made to justify it.
+
+She rested her forehead against his.
+
+"You're going to be very annoying tomorrow," she said.
+
+"I was just thinking the same thing about you."
+
+"Then we're in excellent company."
+
+He smiled. She took his hand and drew him closer. She was pleased to discover that being honest could be every bit as satisfying as winning.
+
+
 He set the cup aside and reached for her hand. She let him have it, and when he kissed her she didn't turn it into a competition. The sun moved off the boards while they sat together and argued about who would get the last apple.
 
 The apple turned out to be sour.
