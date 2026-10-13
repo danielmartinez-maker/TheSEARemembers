@@ -9284,3 +9284,145 @@ The warmth outside would not last. Spring would bring new work, travel and the p
 For now, they had supper to make.
 
 ---
+
+## March 7: A Place on the Calendar
+
+Thalia had spent years believing that a schedule was a weapon against chaos.
+
+She liked lists. She liked being able to point to a date and explain exactly what needed to happen before it arrived. She liked the sharp satisfaction of crossing out a completed task. When people made promises without thinking about the hours required to keep them, she had a habit of handing them a pencil and telling them to begin again.
+
+The problem with Rhys's spring tour was that it didn't fit neatly onto the same page as her advanced program.
+
+She had made three versions of the calendar. In one, she could visit him for a weekend halfway through the run. In another, the visit moved to a later performance but required her assistant to cover two lessons. In the third, she abandoned the idea entirely and told herself the six weeks would pass quickly if she stayed busy.
+
+She hated the third version.
+
+Annabeth found the pages spread across the table in Cabin One.
+
+"Are you planning an invasion?"
+
+"A trip."
+
+"Same expression."
+
+Thalia looked up. Her sister was standing beside the window with a small bundle of drawings under one arm.
+
+"Would you mind looking at this?" Thalia asked.
+
+Annabeth set down the drawings and came over. She studied the calendar for a moment, then pointed to the second option.
+
+"You've marked two days away."
+
+"Yes."
+
+"But the assistant is already leading one of those lessons."
+
+"Yes."
+
+"Then what's the problem?"
+
+"I don't know whether the rest of the schedule will be stable enough by then."
+
+Annabeth considered.
+
+"You're planning for a problem that hasn't happened."
+
+"That's how planning works."
+
+"Sometimes."
+
+Thalia stared at her. Annabeth smiled.
+
+"You don't have to decide the whole spring today," she said.
+
+It was precisely the kind of advice that would have irritated Thalia from anyone else. From her sister it was irritating and useful.
+
+She folded the calendars and took them to Rhys that evening.
+
+He was at the workbench, packing a case of strings and spare parts he intended to take on tour. The sight of him preparing to leave still caused a small ache, but it no longer felt like a warning of catastrophe.
+
+"I have a proposition," Thalia said.
+
+He looked up. "How dangerous?"
+
+"Moderately."
+
+She unfolded the second calendar and put it on the table.
+
+"There is a weekend in the middle of your tour when I could visit, if the program stays on schedule."
+
+Rhys read the dates.
+
+"You're serious."
+
+"Unfortunately."
+
+He looked at her. There was unmistakable pleasure in his face.
+
+"I'd like that."
+
+"So would I."
+
+She hadn't expected the admission to come so easily. She had spent years turning desire into an argument because arguments were easier to manage than requests. Now she could place a date in front of him and say she wanted to be there without pretending the calendar was anything other than a way to make the wanting possible.
+
+Rhys considered the rest of the page.
+
+"What if your assistant needs you?"
+
+"Then I stay."
+
+"And if the performance moves?"
+
+"Then we choose another day."
+
+He nodded. "All right."
+
+She looked at him. "You're suspiciously relaxed about this."
+
+"I'm trying not to make the plan more complicated than it is."
+
+"An unfamiliar habit."
+
+He smiled. She reached for his hand, and he drew her closer before she could find another objection.
+
+Their kiss was brief at first. When she smiled against his mouth, he kissed her again. She liked the simple physical answer, the way they could talk through a practical problem and then enjoy being close without requiring the problem to vanish completely.
+
+He set the calendar aside and put both hands at her waist.
+
+"Are you staying?"
+
+"Yes."
+
+His smile widened.
+
+She laughed. "Don't look so pleased."
+
+"I was hoping you would."
+
+She kissed him again and let the evening become private.
+
+***
+
+Later they lay beneath the quilt with the calendar folded on the bedside shelf.
+
+Thalia turned toward him.
+
+"I used to think planning meant making sure nothing could surprise me."
+
+"And now?"
+
+"Now I think it means knowing which surprises are worth the trouble."
+
+Rhys considered. "That's a very generous opinion of yourself."
+
+She shoved his shoulder lightly.
+
+He laughed, caught her hand and kissed it.
+
+She rested beside him for a while, listening to the stove. The six-week tour was still ahead. She would miss him, and there would probably be days when she resented the distance. But she'd begun to understand that she could make room for something she wanted without allowing it to consume everything else.
+
+The calendar had a possible weekend marked in pencil.
+
+It was enough for tonight.
+
+---
