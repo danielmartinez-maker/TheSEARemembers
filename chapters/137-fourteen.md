@@ -287,6 +287,30 @@ It was a small task, not the sort of thing anyone would put in a birthday speech
 
 ---
 
+At the canoe shed, the evening watch almost refused to sign Percy and Annabeth out. The day's earlier squall had blown a marker buoy away from its usual position, and the replacement wasn't yet secured.
+
+"We can take the inner course," Annabeth suggested.
+
+"The inner course is still marked," the counselor said. "But you have to stay inside the northern turn. And return before dark."
+
+Percy looked at his birthday ribbon still tied around his wrist. Yesterday he might have taken the warning as an invitation to prove he could navigate without markers. He knew this lake better than almost anyone. He also knew Annabeth was perfectly capable of telling him when his confidence had become arrogance.
+
+"Fine with me," he said.
+
+She asked to see the updated chart. The counselor showed her the temporary marker on the north bank and the section that was closed. Annabeth studied it, then signed next to Percy's name.
+
+The shorter trip meant they wouldn't reach the willow cove before sunset. Percy had been looking forward to showing her the quiet part of the shore, where the reeds made the world sound distant. He was disappointed, and he didn't disguise it.
+
+"We can go tomorrow," Annabeth said.
+
+"That's not my birthday."
+
+"Tomorrow can still be a good day."
+
+He laughed. "Unfairly practical."
+
+They checked the paddles and jackets together. The canoe they chose had a scratch along one side, but its hull was sound and its equipment secured. Percy tucked the revised course note in the waterproof sleeve. He could spend his birthday doing something ordinary without making the ordinary rules stop applying.
+
 Dusk poured honey over the canoe lake.
 
 Percy and Annabeth signed out a canoe from the evening dock watch, checked their paddles and fitted their life jackets before they pushed off. Birthday or not, the lake rules still applied. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
