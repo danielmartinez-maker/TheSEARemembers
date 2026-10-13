@@ -634,114 +634,6 @@ Above them, a meteor streaked across Pegasus, brief and gold. Silena gasped. Gro
 
 Silena and Grover laughed until their stomachs hurt, until Ella started laughing too — a strange, croaking, wonderful sound — and the meadow echoed it back.
 
----
-
-Silena went back to the craft room to finish the piece she'd promised Ella.
-
-It was a small fabric pouch meant for carrying notes without bending the corners. Ella had been keeping loose papers between the feathers under her wing, which worked until it rained or someone bumped into her. Silena had offered to sew something better.
-
-The fabric was already cut. She had chosen pale blue because Ella liked the color of old book covers, and she'd lined it with a dark cloth that would make the papers easier to find. All that remained was the fastening.
-
-Except the fastening was wrong.
-
-She'd sewn the strap too short. When she held the pouch against Ella's wing at the last fitting, the knot landed where the feathers moved every time she flew. Ella had said it was fine because she didn't want Silena to be disappointed. It wasn't fine. The strap would rub, and if Silena insisted on finishing it as planned, Ella would stop using the pouch.
-
-Now Silena sat at the workbench, examining the thread she'd need to remove.
-
-Clarisse appeared in the doorway.
-
-"You're still here? It's almost lights-out."
-
-"I told Ella I'd finish this."
-
-"Did she say she needed it tonight?"
-
-"No."
-
-"Then why are you acting like Chiron gave you a deadline?"
-
-Silena considered. She had been making promises all week. Help Percy with his letter. Mend a friend's shirt. Sort the festival decorations. Finish the pouch. Check the cabin's inventory. She liked being useful, but somewhere along the way usefulness had become a test she kept setting for herself.
-
-"Because I said I'd do it," she replied.
-
-"Then tell her it needs another day."
-
-Silena frowned. "That sounds like breaking a promise."
-
-"It sounds like explaining why the first version won't work."
-
-Clarisse pulled up a chair. She was not a patient sewer. The only reason Silena had convinced her to learn was the scarf she was making for Percy, and even that still had loops of red yarn twisted around each other in strange ways.
-
-"Show me the problem," Clarisse said.
-
-Silena demonstrated how the strap rubbed against the hinge of a wing. Clarisse watched, then took the pouch and held it against her own arm.
-
-"Move the fastening here," she suggested. "Away from the joint."
-
-"That'll make it harder to open while flying."
-
-"Then put it on the other side."
-
-Silena tried the placement. It might work. She needed to fit it on Ella before sewing the final seam.
-
-"Thank you," she said.
-
-"You're welcome. Now go to bed."
-
-"You're enjoying this too much."
-
-"Yes. I like telling the person who tells everyone else to rest that she has to rest."
-
-They returned the pouch to its workbox and left a note for Ella explaining the delay. In the morning Silena would ask her to test the new position. She didn't need to finish it before anybody had agreed the design was comfortable.
-
-Outside, the camp was quiet. Clarisse walked beside her until they reached Cabin Three, then stopped on the steps.
-
-"You make it hard for people to help you," she said.
-
-Silena looked at her. "What?"
-
-"You do everything before they know it needs doing. Then you get tired and pretend you're fine."
-
-"That's not fair."
-
-"Maybe not. But today you were going to stay up all night fixing a bag somebody would have been happy to test tomorrow."
-
-Silena considered the remark. Clarisse was not always gentle with criticism. She was often right about practical things, especially when Silena had spent too long worrying about what people might think of her.
-
-"I don't want anyone to feel they have to carry my work," she said.
-
-"They don't. They can choose."
-
-Silena smiled reluctantly. She'd told Percy something similar earlier in the week and was annoyed to hear it returned in her sister's voice.
-
-"All right. Tomorrow you can help me test the strap."
-
-"No, thank you."
-
-"You just said people could choose."
-
-"I am choosing not to be fitted for a bird pouch."
-
-Silena laughed. It was the first time she'd laughed that evening without thinking about the unfinished projects waiting in the workroom. She went inside, put the sewing box on the shelf and let the pouch wait.
-
-The next morning Ella arrived with the letter she wanted to carry. Silena showed her the two proposed fastening positions and asked which felt comfortable. Ella tested them by opening and closing her wing. The first scraped the edge of a feather; the second sat flat.
-
-"This one," Ella said. "The paper stays dry, and Ella can fly."
-
-Silena marked the chosen position and stitched the strap in place. The pouch held one letter without bending it. Ella shook herself, flapped twice and pronounced it satisfactory.
-
-"Good," Silena said. "If anything rubs after you've used it for a while, tell me."
-
-Ella nodded. She had been so worried about disappointing Silena that she'd nearly accepted something that hurt. It pleased her to discover that the person making the gift wanted her opinion more than her immediate gratitude.
-
-She carried the letter to the library and showed it to Grover. He admired the stitching and asked whether it could hold a second sheet. Ella tested it, then removed one piece because the flap wouldn't close properly.
-
-"One at a time," she decided.
-
-Grover accepted the limit. It was not a flaw in the gift. It was the design that suited her, and Silena had listened long enough to find it.
-
----
-
 Percy couldn't sleep.
 
 It wasn't nightmares. For once, his dreams were quiet — just water, lapping against a dock, and Annabeth's voice saying *reinforce the floor* like it was the most important thing in the world. He woke up smiling and couldn't get back to sleep.
@@ -869,3 +761,111 @@ Not today. Not tomorrow. But someday, they'd have keys to their own front doors 
 The sun rose higher. Ella sighed in her sleep. Grover started softly playing — a morning song, bright and simple. Silena hummed along. Thalia closed her eyes and tipped her face to the light. Clarisse stood, stretched, and offered Thalia a hand up. Annabeth leaned her head on Percy's shoulder.
 
 Percy looked around the table once more, at the people who had made promises he could ask them to keep. Then he reached for the last piece of bread before Clarisse could take it.
+
+---
+
+That evening, Silena went back to the craft room to finish the piece she'd promised Ella.
+
+It was a small fabric pouch meant for carrying notes without bending the corners. Ella had been keeping loose papers between the feathers under her wing, which worked until it rained or someone bumped into her. Silena had offered to sew something better.
+
+The fabric was already cut. She had chosen pale blue because Ella liked the color of old book covers, and she'd lined it with a dark cloth that would make the papers easier to find. All that remained was the fastening.
+
+Except the fastening was wrong.
+
+She'd sewn the strap too short. When she held the pouch against Ella's wing at the last fitting, the knot landed where the feathers moved every time she flew. Ella had said it was fine because she didn't want Silena to be disappointed. It wasn't fine. The strap would rub, and if Silena insisted on finishing it as planned, Ella would stop using the pouch.
+
+Now Silena sat at the workbench, examining the thread she'd need to remove.
+
+Clarisse appeared in the doorway.
+
+"You're still here? It's almost lights-out."
+
+"I told Ella I'd finish this."
+
+"Did she say she needed it tonight?"
+
+"No."
+
+"Then why are you acting like Chiron gave you a deadline?"
+
+Silena considered. She had been making promises all week. Help Percy with his letter. Mend a friend's shirt. Sort the festival decorations. Finish the pouch. Check the cabin's inventory. She liked being useful, but somewhere along the way usefulness had become a test she kept setting for herself.
+
+"Because I said I'd do it," she replied.
+
+"Then tell her it needs another day."
+
+Silena frowned. "That sounds like breaking a promise."
+
+"It sounds like explaining why the first version won't work."
+
+Clarisse pulled up a chair. She was not a patient sewer. The only reason Silena had convinced her to learn was the scarf she was making for Percy, and even that still had loops of red yarn twisted around each other in strange ways.
+
+"Show me the problem," Clarisse said.
+
+Silena demonstrated how the strap rubbed against the hinge of a wing. Clarisse watched, then took the pouch and held it against her own arm.
+
+"Move the fastening here," she suggested. "Away from the joint."
+
+"That'll make it harder to open while flying."
+
+"Then put it on the other side."
+
+Silena tried the placement. It might work. She needed to fit it on Ella before sewing the final seam.
+
+"Thank you," she said.
+
+"You're welcome. Now go to bed."
+
+"You're enjoying this too much."
+
+"Yes. I like telling the person who tells everyone else to rest that she has to rest."
+
+They returned the pouch to its workbox and left a note for Ella explaining the delay. In the morning Silena would ask her to test the new position. She didn't need to finish it before anybody had agreed the design was comfortable.
+
+Outside, the camp was quiet. Clarisse walked beside her until they reached Cabin Three, then stopped on the steps.
+
+"You make it hard for people to help you," she said.
+
+Silena looked at her. "What?"
+
+"You do everything before they know it needs doing. Then you get tired and pretend you're fine."
+
+"That's not fair."
+
+"Maybe not. But today you were going to stay up all night fixing a bag somebody would have been happy to test tomorrow."
+
+Silena considered the remark. Clarisse was not always gentle with criticism. She was often right about practical things, especially when Silena had spent too long worrying about what people might think of her.
+
+"I don't want anyone to feel they have to carry my work," she said.
+
+"They don't. They can choose."
+
+Silena smiled reluctantly. She'd told Percy something similar earlier in the week and was annoyed to hear it returned in her sister's voice.
+
+"All right. Tomorrow you can help me test the strap."
+
+"No, thank you."
+
+"You just said people could choose."
+
+"I am choosing not to be fitted for a bird pouch."
+
+Silena laughed. It was the first time she'd laughed that evening without thinking about the unfinished projects waiting in the workroom. She went inside, put the sewing box on the shelf and let the pouch wait.
+
+The next morning Ella arrived with the letter she wanted to carry. Silena showed her the two proposed fastening positions and asked which felt comfortable. Ella tested them by opening and closing her wing. The first scraped the edge of a feather; the second sat flat.
+
+"This one," Ella said. "The paper stays dry, and Ella can fly."
+
+Silena marked the chosen position and stitched the strap in place. The pouch held one letter without bending it. Ella shook herself, flapped twice and pronounced it satisfactory.
+
+"Good," Silena said. "If anything rubs after you've used it for a while, tell me."
+
+Ella nodded. She had been so worried about disappointing Silena that she'd nearly accepted something that hurt. It pleased her to discover that the person making the gift wanted her opinion more than her immediate gratitude.
+
+She carried the letter to the library and showed it to Grover. He admired the stitching and asked whether it could hold a second sheet. Ella tested it, then removed one piece because the flap wouldn't close properly.
+
+"One at a time," she decided.
+
+Grover accepted the limit. It was not a flaw in the gift. It was the design that suited her, and Silena had listened long enough to find it.
+
+---
