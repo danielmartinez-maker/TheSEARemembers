@@ -613,6 +613,130 @@ The elevator slowed.
 
 ---
 
+Halfway through the descent, the elevator stopped between floors.
+
+The music continued. The bronze dial went still, the pointer wavering somewhere between FIELDS and STORAGE. No one spoke at first. Percy could hear only Grover's breathing, the tick of the handrail against the wall and the quiet vibration of machinery that seemed too old to trust.
+
+Annabeth let go of Percy's hand and reached for the emergency instructions posted beside the buttons.
+
+"Don't touch the controls," she read. "Ask an attendant for assistance. The lift will resume when the lower court acknowledges the passengers."
+
+"Doesn't sound like an emergency," Thalia said.
+
+"Doesn't sound like good news either."
+
+Grover crouched and pressed a palm to the floor. Percy watched him shut his eyes. The satyr had spent enough time on the road to know that listening carefully was not the same as guessing what every sound meant.
+
+"Something's under us," Grover said at last. "Not a monster exactly. Too many people moving in one place."
+
+Percy felt a pressure beneath his feet, like a current pressing against a rock. It reminded him of the river outside St. Louis, but there was no water here that he could reach. He disliked that. He had become accustomed to at least one element of a fight behaving like home.
+
+A small brass panel beside the door opened. A voice came through it.
+
+"Living petitioners, explain the extra registration."
+
+Annabeth looked at Percy.
+
+He pulled out the sheet Charon had given him.
+
+"We have four wristbands," he said. "Three questers and one guardian. We also have a welfare petition for Sally Jackson."
+
+"Four bands," the voice repeated. "Three names in the Oracle's party. Is the fourth intended to enter the King's court?"
+
+Thalia stepped forward.
+
+"Yes. Chiron authorized me as a guardian."
+
+"We recognize the centaur's authorization for passage. We do not recognize a guardian's right to speak in a court hearing unless invited."
+
+Thalia's jaw tightened. She glanced at Annabeth, who was watching her with the kind of steady attention that made Percy feel as though the next sentence mattered more than it might seem.
+
+"I can keep my mouth shut until I'm invited," Thalia said.
+
+Percy didn't believe her for a second. The voice through the panel apparently had similar doubts.
+
+"That condition will be recorded."
+
+"Go ahead."
+
+A pen scratched somewhere behind the wall. The panel closed. The elevator shuddered, then began moving again.
+
+Grover stood with relief.
+
+"That was terrifying," he said. "We stopped because of a piece of paper."
+
+"Not because of the paper," Annabeth replied. "Because there were four living visitors and only three names in a prophecy. The paperwork made them notice."
+
+Percy looked down at his band.
+
+"What if they decide we shouldn't all be here?"
+
+"Then they tell us before we reach the throne room," she answered. "And we decide what to do with that information. We don't make a fifth person out of a fourth by wishing."
+
+Thalia looked at her little sister, then toward the dial.
+
+"I won't promise I can stay quiet if somebody threatens you," she said.
+
+"I don't want you to promise that. I want you to tell me when you're about to change the plan."
+
+"That's harder."
+
+"I know."
+
+The elevator passed another floor. Behind its bronze doors they heard distant voices arguing about the location of a filing cabinet. Grover began to laugh, then tried to stop himself because laughing below ground felt wrong.
+
+"What's funny?" Percy asked.
+
+"This is the Underworld," Grover said. "I thought there would be nothing except fire and death. There's paperwork."
+
+"My dad would hate it here," Percy said.
+
+"Your dad has a palace," Annabeth replied. "He probably has paperwork too."
+
+Percy thought of the official message he had helped Chiron send after Zeus's visit. He supposed Poseidon had probably received it from an attendant, read it, and handed it to someone whose job was to make sure the answer didn't start a war. The thought annoyed him. It was easier to imagine a god choosing silence out of indifference than admitting a whole court might be involved.
+
+The elevator continued downward. Percy unfolded Sally's petition and read the words once more. It said almost nothing about the person he remembered. Her laugh wasn't there. Neither were the blue pancakes, the school mornings or the way she would wait until he finished talking before giving advice. A record couldn't contain a mother. It could only tell him whether somebody had found her in a place where living sons weren't meant to go.
+
+He folded it again and put it beside the pearls.
+
+Annabeth watched his hands. "You're going to ask about her."
+
+"Yes."
+
+"And the bolt?"
+
+"Also yes."
+
+"Which first?"
+
+He had no answer. That embarrassed him more than it should have.
+
+"Whichever Hades will answer," he said finally.
+
+Annabeth nodded. She didn't tell him which question mattered more. It was not a problem an architect could solve on paper, and Percy was grateful she understood that.
+
+Thalia steadied Grover when the elevator lurched again. The satyr's hooves scraped against the floor.
+
+"What are we doing if the pearls don't work?" Grover asked.
+
+Percy looked toward the bronze doors.
+
+"We don't know that they won't," he said.
+
+"That's not an answer."
+
+"No," Annabeth said. "It's not. We should identify a second way out if we see one, and we shouldn't spend the pearls because we're frightened before we need them."
+
+Percy counted the four small shapes through the cloth. One for each traveler. Enough for the party they had, but no spare for a soul he hoped to find.
+
+The thought made his throat close.
+
+He had no intention of treating Sally as a piece of cargo. He also couldn't pretend he hadn't imagined bringing her out into the sunlight. He remembered her alive in another life, and some part of him still expected the universe to return her if he asked in the right words. Charon had already told him the rules didn't work that way.
+
+Percy put the cloth away and waited for the last floor.
+
+---
+
 The elevator stopped with a heavy thud that shook Percy's teeth.
 
 For a moment nothing moved. The doors stayed closed. The mirrors were completely fogged now, dripping with condensation. The air smelled like wet stone and smoke and pomegranates.
