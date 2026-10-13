@@ -875,3 +875,75 @@ Percy carried her pencil. She carried his shell. Neither gift asked either to st
 
 ---
 
+The return escort was waiting beyond the outer arch when they reached the garden gate.
+
+Nerion had brought the route log from their earlier visit. Percy recognized his careful handwriting and the little mark beside the place where Silena's charm had begun to warm. This time the guard showed them a different series of shells, each with a new inspection seal.
+
+"Has the old problem been explained?" Annabeth asked.
+
+"Not conclusively," Nerion answered. "The charm's outer layer was intact, but the technicians found an irregularity in how it responded to that current. We have not returned it to service."
+
+"Thank you for telling us."
+
+He pointed to a corrected line on the route. The palace was avoiding the cold shelf while the technicians completed their work. The alternate passage would take longer, and they would have to remain closer together where the current narrowed.
+
+"Is everyone comfortable with that?" Nerion asked.
+
+Clarisse examined the diagram. "How narrow?"
+
+"Wide enough for two people abreast. Not for a large group spread across the channel."
+
+"Then we go in pairs."
+
+They agreed on the order together. Thalia wanted Annabeth beside her through the tightest stretch, but Annabeth asked whether Percy might be a better partner for the part with changing water pressure. Thalia was disappointed for a moment, then nodded.
+
+"You're right. He's better at reading the current. I'll be behind you."
+
+Silena asked to travel near Nerion so she could see how he checked the shells. Clarisse took the rear position with Triton. Percy noticed that everyone had chosen based on what made sense for the passage, not on who was most important in the family.
+
+The outer chamber held a bench for visitors to review the route before entering the main flow. They stopped there to check their belongings. Silena's weaving notes remained dry inside a sealed folder; Clarisse had secured her training sheet to her bag; Annabeth had kept the garden chart rolled and protected.
+
+Amphitrite came to see them off. She didn't ask whether they would be coming back soon.
+
+"Thank you for spending another day with us," she said.
+
+Silena handed her the amended craft agreement. "I want to think about this at camp. The supervisor was willing to change the terms, but I still need to make the piece."
+
+"Then take the time you need."
+
+Clarisse showed her the training note. "I liked the instructor. I haven't agreed to a schedule."
+
+"You needn't."
+
+Percy watched Amphitrite hear both answers without treating either as a refusal of her affection. He wished more adults were capable of that.
+
+Annabeth thanked her for the garden chart and asked whether a note could be sent to the public archives explaining the location of the corrected corridor plan. Amphitrite promised to pass the request to the archivist, not to decide the answer herself.
+
+Thalia stood a little apart from the group. She had spent most of the day watching Annabeth become comfortable asking questions in a place neither sister controlled. When Amphitrite came near her, she stepped forward.
+
+"Thank you for keeping the visit about the people who were invited," Thalia said.
+
+"I know your father's messages can be difficult."
+
+Thalia's expression tightened. "They can."
+
+"You won't be required to make another arrangement on his behalf here."
+
+"Good."
+
+Percy took his turn saying goodbye. He hugged Amphitrite, then stepped back. He knew she missed the child she remembered raising, but the goodbye wasn't heavy with an expectation that he should stay to fill the distance.
+
+"Will you tell me when the garden repair has passed its next inspection?" he asked.
+
+"Yes. And you can write if you have questions."
+
+"I will."
+
+Triton accompanied them into the departure corridor. He had brought a small pouch of the same polished shells they'd used as route markers at camp, not as keepsakes but as examples for Annabeth to study. She accepted the samples after confirming the palace had authorized them to leave.
+
+Their departure wasn't a spectacle. The water opened into the approved passage, the guard checked each charm, and the group moved out in pairs. Percy felt the current around them, steady enough that he didn't need to control it. He swam beside Annabeth, watching the light change as the palace slipped farther behind.
+
+He was glad they had come. He was also glad they were leaving with more than a collection of perfect statements about family. Clarisse had made a choice about training. Silena had defended the terms of her own work. Annabeth had learned something about the garden without demanding access to everything. Thalia had allowed her sister to decide which help she needed. Those were things they'd be able to carry home.
+
+
+---
