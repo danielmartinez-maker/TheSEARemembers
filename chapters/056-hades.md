@@ -834,6 +834,26 @@ At the lift doors he thought of Martin waiting in Los Angeles, of Clarisse and S
 
 They stepped into the car when the attendant waved them forward.
 
+Annabeth was the last to enter. She checked that Grover's searcher license had been returned to him and that Thalia still carried the guardian authorization. The little records seemed trivial next to Hades's throne, but the group had been delayed at every point where somebody had confused permission to travel with a promise of protection.
+
+"Did you get what you needed?" she asked Percy.
+
+"Some of it."
+
+"Are you going to tell the others at camp about Sally?"
+
+"I'll tell Clarisse and Silena the part I can explain. The written answer says she isn't being punished. I don't need everybody to know the rest of what it feels like."
+
+Annabeth nodded. "That sounds right."
+
+He glanced at her bandaged hand. "How much does it hurt?"
+
+"Enough that I shouldn't use lightning."
+
+"Then don't."
+
+It was a small conversation. Percy would have preferred a grand bargain that made the Underworld less frightening, but he was learning that a truthful answer about pain or a limitation on what he could do was sometimes more useful than any promise.
+
 They reached the elevator to the living world — a battered service lift in a shaft of rock that hummed with dead Muzak — and piled in. Grover pressed the UP button with a trembling hoof-finger.
 
 As the doors rattled shut, Annabeth pulled out her map and spread it on top of Percy's pack. Her pencil was still behind her ear. She drew a swift line from their dot in the Underworld entrance to Los Angeles, to a little star she marked BEACH.
