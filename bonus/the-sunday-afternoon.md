@@ -10848,3 +10848,165 @@ She went to bed thinking about the next lesson and the possibility that Eleni wo
 She hoped she would.
 
 ---
+
+## April 9: The Second Entrance
+
+Rhys's first performance went wrong in a place he hadn't expected.
+
+The rehearsal had been good. The conductor had given them twenty minutes to adjust to the small theater, whose ceiling swallowed the high notes and sent the lower instruments back toward the performers. The front row sat so close to the stage that Rhys could see the patterns in the audience's coats before anyone arrived. He had checked the strings, marked the difficult transitions and played the opening measure twice without trouble.
+
+He was ready.
+
+Then he heard the audience coming through the lobby.
+
+They talked at a volume that made the backstage corridor sound smaller. Someone laughed too loudly. A child asked whether the musicians could hear people talking about them. Another voice answered that of course they could not, which was so plainly wrong that Rhys nearly laughed.
+
+He stopped laughing when he realized how much he wanted the performance to go well.
+
+It wasn't just the music. He wanted to deserve the invitation. He wanted the musicians who had worked with him all week to be glad they'd included him, and the conductor to stop looking at his entrance with the patient expectation that he'd eventually rush it. He wanted to write Thalia afterward and tell her something better than that he'd survived.
+
+Mara found him beside the instrument cupboard.
+
+"You're pale."
+
+"Excellent opening remark."
+
+"You look as though you're about to sit an examination."
+
+"I feel as though I'm about to sit an examination."
+
+She adjusted the strap on her violin case and looked him over.
+
+"Listen to the room. It isn't asking you to prove anything. It's going to be there while you play."
+
+Rhys considered.
+
+"That sounds like advice somebody else has given me."
+
+"Then perhaps you should listen to that person."
+
+He smiled despite himself.
+
+The stage manager called the first group.
+
+The musicians filed out. Rhys took his place, set the guitar where it belonged and looked toward the conductor. Edda gave him a small nod. The audience settled. Somewhere in the front row somebody unwrapped a sweet with an enormous amount of paper.
+
+Then the music began.
+
+The opening movement went well. Rhys followed the strings, took his place beneath them and felt the sound move through the room in a way it never had during rehearsal. People were listening. That was the thing he'd forgotten while worrying about whether he'd make a mistake: the room was full of people who had chosen to come hear the music, not judges waiting to declare that the last two weeks had been a fraud.
+
+He began to enjoy himself.
+
+The mistake came in the middle of the second piece.
+
+A violinist missed a cue. It wasn't serious. The melody would have recovered within two measures if everyone else had held their places. But Rhys heard the missing note and came in early, trying to fill the silence. He could hear the mistake the instant he made it.
+
+He stopped.
+
+The conductor's eyes flicked toward him. There was no time for apology. He waited for the next opening, counted the beat and entered correctly on the following measure. The ensemble moved on. The audience probably heard nothing beyond a brief roughness in the sound.
+
+Rhys heard the error all the way to the end.
+
+At the interval he went backstage and stood very still beside the water table. His face was hot. He had been doing the thing he'd sworn not to do, correcting somebody else's mistake before he'd understood what the music needed.
+
+Mara came over.
+
+"First night," she said.
+
+"I know."
+
+"You recovered."
+
+"I caused the problem."
+
+"You added to it. There's a difference."
+
+"An important distinction."
+
+"Here it is. You don't have to rescue every phrase. Sometimes you have to let somebody else recover."
+
+He looked at her. She was not being especially sympathetic. He appreciated that.
+
+"I know," he said.
+
+"Then do it."
+
+She went to check her violin. Rhys remained by the water table for a while, thinking about Thalia. She had an extraordinary talent for seeing a mistake and immediately making it her responsibility to correct. He had found the habit irritating when they first taught together. Now he'd managed to demonstrate the same mistake in front of an audience.
+
+He wished she were there so he could complain about the unfairness of her having been right in absentia.
+
+The second half went better.
+
+He listened before he entered. He didn't rush to correct another player when a phrase slipped. The closing piece had a long passage where he could almost feel the music breathe around him, and for several minutes he stopped thinking about what the conductor would say afterward.
+
+When the final note ended, the silence was complete.
+
+Then the audience applauded.
+
+Rhys stood with the ensemble and bowed. There was a sharp rush of pleasure, quickly followed by exhaustion. He had spent two weeks imagining the performance as a verdict on his future; it had turned out to be one evening, with mistakes and good moments and another rehearsal scheduled for the next morning.
+
+He was glad he'd come.
+
+***
+
+Edda spoke to him afterward.
+
+"You rushed the second entrance."
+
+"I know."
+
+"And then you fixed it."
+
+"Eventually."
+
+"Good. Do it sooner tomorrow."
+
+Rhys nodded.
+
+She moved on to the next musician before he could think of a clever answer. He watched her go, then caught Mara's eye across the room. She raised her cup in a small salute.
+
+They went out for supper with the group. Rhys sat beside a cellist who had spent the first half of the performance pretending not to be terrified and had then played the final solo beautifully. The musicians talked about the evening in fragments. Somebody complained about the lighting; somebody else praised the audience's attention; the cellist admitted she'd forgotten which side of the stage the exit was on and nearly walked into a curtain.
+
+Rhys laughed until his face hurt.
+
+At the lodging he found a note from Thalia waiting among the mail.
+
+She had written about the training range, an assistant called Eleni and a lesson that improved because Thalia had let somebody else alter the plan. The letter was funny, irritated and unmistakably hers. Near the end she'd admitted she wanted to kiss him and then warned him not to become insufferable about the admission.
+
+He read that sentence three times.
+
+He could picture her writing it, frowning at the page because the words made her feel exposed. He could also picture the smile she'd probably tried to hide when she sealed the envelope. The distance between them felt abruptly sharper, less like a gap on a calendar and more like the absence of a particular person who could have been sitting on the edge of his bed making fun of his performance clothes.
+
+He put the letter beside the photograph.
+
+Then he began his reply.
+
+*Grace,*
+
+*I rushed the entrance. You would have hated it. The violinist missed a note, I tried to correct it, and the result was worse than either mistake by itself. I recovered eventually, which apparently counts as progress.*
+
+He paused.
+
+*The rest of the concert went well. There were people in the audience who didn't know me or owe me anything, and they listened. I had forgotten how different that feels from playing for camp. I liked it.*
+
+He thought of the applause. It had been good. It had not made every uncertainty disappear. He was still nervous, and he would be nervous tomorrow. There was relief in finally understanding that this was part of the work rather than evidence that he didn't belong.
+
+He wrote that too.
+
+*I think I can do this. Even on the nights when I don't play perfectly.*
+
+Then he looked at her letter again.
+
+*I know you don't want me to become insufferable about the last paragraph you wrote, but it was the best part of my evening. I want you here. I want to come back after a concert and find you waiting with your terrible opinions and that look you get when you're pretending not to be pleased.*
+
+*I would like to kiss you until both of us forget the second entrance.*
+
+He signed the letter and put it in an envelope. The image made him laugh to himself: Thalia in his room, reaching for his collar and telling him the music could wait. It wasn't a substitute for being together. It was something pleasant to imagine before the next morning's rehearsal.
+
+He turned out the lamp.
+
+In the dark he could still hear the place where he'd entered too early. He listened to the phrase in his head once more, let the missing note remain missing and entered on the beat where he belonged.
+
+Tomorrow he would do it in front of an audience.
+
+---
