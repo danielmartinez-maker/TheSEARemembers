@@ -3538,3 +3538,177 @@ Rhys nodded. "Five minutes."
 She kissed him gently, then settled beside him. The future was still unfinished, but they had made a small plan for how to meet it. She thought she could manage five minutes.
 
 ---
+
+Sunday began with a knock, not an alarm.
+
+The supply van driver wanted to leave an hour earlier than planned. Rhys returned from the door with the message and found Thalia sitting upright on the cot, furious at a person she had never met.
+
+"Ten?" she said.
+
+"Ten."
+
+"We agreed on eleven."
+
+"The driver didn't."
+
+"He has a terrible character."
+
+Rhys looked as if he might laugh, then thought better of it. She was still wearing his shirt, and one of the striped socks had slipped down around her ankle. The cabin was warm. His bag stood by the door with the guitar case beside it, a perfectly ordinary arrangement that seemed suddenly offensive.
+
+Thalia climbed out of bed.
+
+"Then we'd better finish packing."
+
+"It's finished."
+
+"You've got the travel papers on the table."
+
+"I can pick them up."
+
+"And the stove."
+
+"I know how to close a stove."
+
+She stopped. The room was quiet enough that she could hear rain dripping from the eaves.
+
+"Right," she said.
+
+Rhys came closer. "You're not angry about the stove."
+
+"No."
+
+"Or the driver."
+
+"A little about the driver."
+
+He waited.
+
+She wanted him to kiss her. She also wanted him to stay. Those were different requests, and only one of them belonged entirely to the present moment.
+
+"I hate this," she admitted.
+
+"So do I."
+
+"That's not helpful."
+
+"No. But it's true."
+
+She looked at him. His own composure was strained. He had been trying to make the morning easy for her, but the effort had turned into another thing she could resent, another way for both of them to behave as though being disappointed was a failure.
+
+"Come here," she said.
+
+He did. She put her hands against his chest and kissed him slowly, without using the kiss to interrupt an argument or avoid the truth. His arms came around her, warm and familiar. The moment lasted until she was ready to let it end.
+
+They stayed close afterward, foreheads touching, each aware of the canvas bag by the door.
+
+"We promised five minutes alone," she said.
+
+"We have them."
+
+"Then no speech."
+
+"I wasn't preparing one."
+
+"You had the face."
+
+"Apparently I have several."
+
+She smiled despite herself. Then she kissed him again, quickly, and went to get dressed.
+
+They ate breakfast while the stove cooled. Rhys made eggs, and Thalia cut the last of Friday's bread. They had done this enough times that the routine felt familiar, which made the idea of its absence unexpectedly painful. She wanted to remember this: the knife scraping against the plate, the slight burnt edge of the bread, the way he made a face when she stole the larger piece.
+
+At nine fifteen they took the flat path toward the cedar brake. The ground had frozen overnight. The tenth lantern remained dark on its hook near the Cabin Three porch, and the other nine marked the route down toward the lake.
+
+Thalia stopped at the bend.
+
+"This is where I nearly turned around."
+
+Rhys looked at her. "The first Monday?"
+
+She nodded. "I stood here for a long time."
+
+"What made you keep going?"
+
+She considered. She could have described the cold, the light in his window, the borrowed coat that had been too big for her. None of that was the answer.
+
+"I wanted to see you more than I wanted to avoid being embarrassed."
+
+He smiled. "I'm glad."
+
+She reached for his hand. The path was empty. There was no one to watch them, and she was grateful for it. She had been public about the relationship enough to know she didn't need to turn this moment into a statement for anyone else.
+
+"I'll miss you," she said.
+
+"I'll miss you too."
+
+"I don't want you to feel guilty about going."
+
+"I don't."
+
+"Good."
+
+She looked at him. He had been patient with her, sometimes more than she deserved, but he had also disagreed with her when she was unfair. She could imagine missing the disagreements almost as much as the warmth of his hands. The thought made her laugh softly.
+
+"What?" he asked.
+
+"Nothing. You're going to be unbearable in your letters."
+
+"I'll try to maintain the standard."
+
+"Write when you can. Not because you're afraid I'll be angry."
+
+"I will."
+
+"And if you're busy, tell me."
+
+"Same for you."
+
+She nodded. Those were small, useful promises. She trusted them more than anything grand.
+
+He kissed her, and she let the moment last. She could feel the cold against her cheeks and the warmth of him where they touched. There was no perfect way to say goodbye. She wanted to be near him, to keep the next few minutes from disappearing too quickly, and she knew he wanted the same thing.
+
+At last she drew back.
+
+"Go," she said.
+
+"Not yet."
+
+"We have a driver to terrorize."
+
+He laughed, then took her hand and walked with her toward the service gate.
+
+The van was waiting beside the road, dented and practical. Rhys loaded his bag and checked his ticket. Thalia stood a few paces away while he spoke to the driver. She had already said what mattered. She could let the public part be short.
+
+Rhys turned and came back to her.
+
+"One more?" he asked.
+
+"You're getting greedy."
+
+"Apparently."
+
+She kissed him in the open, a simple farewell with no effort to conceal it. When he stepped away, she touched the pocket where he had kept the photograph from the orchard.
+
+"Don't lose it," she said.
+
+"I won't."
+
+"And don't stare at it like an idiot."
+
+"That I can't promise."
+
+She smiled, and he climbed into the van. The driver started the engine. Rhys lifted a hand through the window, and she lifted hers in return.
+
+She watched until the vehicle disappeared around the bend.
+
+The path home looked exactly as it had an hour earlier. The cold remained, the lake lay quiet beyond the trees, and the pines moved in the wind. Yet the camp seemed to have acquired a space where Rhys had been. She knew it would become ordinary with time. That was part of what made it hurt.
+
+She took the long route back, passing the place where they'd taken the photographs and the amphitheater where they'd danced. She didn't stop at either place. At Cabin One she found the book that held her picture and opened it.
+
+There they were, captured in the middle of laughter. She looked at the blurred faces for a while, then closed the book.
+
+She had not promised to wait perfectly. He had not promised to return unchanged. They had promised to write, to be honest, and to leave room for the rest of each other's lives.
+
+It would have to be enough to begin with.
+
+---
