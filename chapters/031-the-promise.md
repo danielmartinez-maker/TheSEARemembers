@@ -134,6 +134,130 @@ They stayed until the harpies started pointedly stacking chairs. Percy folded th
 
 ---
 
+Before they left the pavilion, Annabeth changed the apartment drawing.
+
+Percy watched her erase the second bedroom and redraw the wall three inches to the left. On paper it made the kitchen a little larger. It also gave the balcony an awkward corner she hadn't accounted for, which made her scowl and start again.
+
+"Are you sure you want to do this now?" he asked.
+
+"Yes."
+
+"Because you look like you're about to challenge the paper to a duel."
+
+"It keeps being too small."
+
+"Maybe apartments are smaller than imaginary houses."
+
+She looked up. "I'm trying to make it something we could actually afford."
+
+The word *afford* made Percy sit straighter. He'd been imagining the smell of breakfast and Annabeth's books filling a wall, but he hadn't considered how anybody would pay for a place like that.
+
+"How much would it cost?" he asked.
+
+"I don't know."
+
+"Then why are you drawing it as though you do?"
+
+She put down the pencil. He hadn't meant to be unkind. It was the kind of question she would have asked if he'd told her he could sail to New Rome whenever he felt like it. She knew how to design a load-bearing wall. She didn't know what apartment prices would be in a city they hadn't visited in this history.
+
+"Because I want us to have somewhere," she admitted. "I don't want the only place we can imagine being together to be a cabin somebody else decides we're too old for."
+
+Percy understood that fear. Camp Half-Blood had kept them safe, but the rules of a camp were not the rules of an adult life. They were twelve. In the years they remembered, they'd made plans for college and work, but making those plans now felt both comforting and impossible.
+
+"We can draw what we'd like," he said. "We don't have to pretend we know where we'll live."
+
+Annabeth looked down at the page. She'd drawn the apartment as if it were a destination already waiting for them. She could leave the drawing alone without insisting that the walls matched a future she had no power to guarantee.
+
+"I want windows facing east," she said after a moment.
+
+"Fine."
+
+"And room for books."
+
+"Also fine."
+
+"And I don't want every piece of furniture to be blue."
+
+"You're being unreasonable."
+
+She smiled. He took the pencil from her when she offered it and drew a ridiculous sofa in the living room, shaded orange. She made him write *provisional* beneath it.
+
+He added a small square beside the entryway.
+
+"What's that?"
+
+"Shelf for shoes. Otherwise Clarisse will come over and yell at us."
+
+"She'll yell anyway."
+
+"Then we should give her one fewer reason."
+
+They laughed. Annabeth measured the doorway and adjusted the scale. Percy asked whether an accessible entry would leave space for a wheelchair or someone carrying heavy bags. She looked impressed, then annoyed that she hadn't considered it first.
+
+"Why are you thinking about that?"
+
+"Because the shrine taught me that people use places differently than we imagine. And because you've spent weeks telling me every building should work for the person who needs it most, not the one who designed it."
+
+She added a wider doorway. The changes made the drawing less romantic and more interesting. Percy could imagine carrying groceries into the kitchen while Annabeth stood in the hall complaining about the floor tiles. It was a scene from a future that might never happen. He enjoyed imagining it without calling it a promise.
+
+"Can we keep this?" he asked.
+
+"The drawing?"
+
+"Yes. Even if we change it later."
+
+Annabeth folded it carefully along the margin. "Of course."
+
+She didn't give it to him yet. There was still something she wanted to ask.
+
+"If New Rome exists the way we remember, would you want to study there again?"
+
+Percy considered. He liked the idea of a place where demigods could grow older without constantly expecting a monster to attack. He'd also learned to love the surface life his sisters were helping him make, and he wasn't certain whether moving across the country would feel as easy this time.
+
+"I'd want to visit," he said. "I don't know about living there until we see what it's like now."
+
+Annabeth nodded. She wanted to argue that they had already seen it, but that would have been using the memory as proof the present must be the same.
+
+"What about you?" Percy asked.
+
+"I want to study architecture somewhere that takes me seriously. It might be New Rome. It might be somewhere else."
+
+"Then we can look at both."
+
+"You don't have to choose the same school as me."
+
+"I know. I want to know what you think, though."
+
+She glanced at him. "And you should figure out what you want to study too."
+
+He looked thoughtful. For years people had treated him as a future hero whose education could wait until the next quest was finished. Annabeth was asking him to imagine work that didn't depend on fighting.
+
+"Marine biology maybe," he said. "Or something with boats. Or teaching kids not to get eaten by sea monsters."
+
+"That last one isn't a university major."
+
+"Then I'll start a department."
+
+Annabeth laughed. The future didn't become safe because they'd named subjects they might study. It did become less like a narrow doorway they had to pass through together or lose each other. They could want different things and still keep choosing to speak about them honestly.
+
+Percy handed back the pencil.
+
+"Write one more thing," he said.
+
+"What?"
+
+"That it's a draft."
+
+She looked at the paper for a moment, then wrote *FIRST DRAFT* at the top in large letters.
+
+"There," she said.
+
+"Now it can be the first of a lot of versions."
+
+She put it in her notebook rather than folding it into an oath. They stayed at the table until the kitchen staff began collecting the dishes, and then stood to leave.
+
+---
+
 They walked back toward the cabins together, the gravel path pale under the moon.
 
 Camp at night had its own language. The distant *thump-thump* of the forges cooling. A conch horn from the beach patrol, low and sleepy. Someone playing a lyre badly in Cabin Seven and someone else telling them to shut up, affectionately.
