@@ -724,6 +724,106 @@ The garden woman held blossoms. "Stay and grow, sweet satyr."
 
 Grover spat pink at her feet. "I grow where I want."
 
+Near the entrance, a young woman in a hotel uniform stepped into their path. Unlike the other staff, she wasn't smiling. She had a clipboard pressed against her chest, and her eyes moved anxiously from one guest to another.
+
+"Please," she said, looking at Annabeth. "I need you to finish the checkout form. If you leave without signing it, they'll make me start my shift again."
+
+Annabeth stopped.
+
+The woman couldn't have been much older than Thalia. Her uniform was too large, and she wore a name tag whose letters kept slipping out of focus. She looked exhausted in a way the golden light did nothing to conceal.
+
+"How long have you been working?" Annabeth asked.
+
+"I don't know." The woman glanced toward the front desk. "I was supposed to go home after dinner. It keeps being before dinner."
+
+Percy felt Annabeth's hand tighten in his.
+
+"We can help her," he said.
+
+"Maybe," Annabeth answered. "But not by signing a form that puts us back on the hotel's list."
+
+The clerk with the cookies appeared a few steps behind them. Her smile seemed wider than before.
+
+"The young lady is nearly finished with her shift," she said. "A little kindness would mean so much."
+
+Martin reached for the clipboard. Annabeth caught his wrist.
+
+"Don't," she said.
+
+He withdrew his hand immediately. The repair-desk spell had frightened him enough that he no longer wanted to touch a piece of hotel paper without checking it first.
+
+"What's your name?" Grover asked the employee.
+
+She looked at the tag. "I... I'm not sure. It keeps changing. I think my name was Eva."
+
+"Do you want to leave?" Grover asked.
+
+The question made her stare. For an instant the golden light around her seemed less bright.
+
+"I want to go home," she said.
+
+"Then walk with us," Percy said. "Don't sign anything."
+
+The clerk's expression changed. "Employees cannot depart without completing their assigned duties."
+
+Thalia planted herself between the clerk and the young woman. She still had tears on her cheeks from Jason's game, and Percy could see her using anger to keep the grief from dragging her back to the arcade.
+
+"She's finished," Thalia said.
+
+"Who are you to decide that?"
+
+"A person with somewhere else to be."
+
+Percy almost smiled. Then the floor shifted. Not physically, exactly. The distance to the revolving doors seemed to stretch. Music rose from the arcade, and voices began calling their names from every direction. The young woman stumbled, clutching her clipboard.
+
+Annabeth held out her free hand.
+
+"Eva, look at the light outside," she said. "Not the desks. Not the forms. Tell me what you can see."
+
+"Cars," Eva whispered. "Hot pavement. The sun."
+
+"Good. Keep looking."
+
+Martin moved to the outer side of the group, where he could keep the clerk from steering anyone back into the lobby. Grover played three notes on his pipes, not enough to overpower the hotel's music but enough to give them a rhythm to follow. He held the woman's elbow when she wavered.
+
+Percy noticed other guests watching. A boy in a sports jersey had stopped beside a machine and was staring toward the sunlight. A man at the bar lowered his drink without taking a sip. The hotel was powerful, but perhaps it needed its guests to keep choosing the comfort it offered.
+
+"Come with us," Percy called to the nearest boy.
+
+The boy looked frightened. He stared at the screen again.
+
+"I can't leave my game," he said.
+
+"You can," Percy answered.
+
+"No." His voice became distant. "I'm almost finished."
+
+Annabeth tugged gently at Percy's sleeve. He could hear the warning before she spoke.
+
+"We can't force him," she said. "And we can't stay here indefinitely."
+
+Percy hated that. He wanted to go back and drag every guest into the daylight, to make the hotel lose everyone at once. He had watched Grover fight the sweets and Thalia beg a digital version of Jason to keep talking. He knew forcing somebody through the doors might be impossible if they didn't want to leave.
+
+He looked back at the boy.
+
+"If you change your mind, the exit is there," he said, pointing. "Follow the real sunlight."
+
+He could only hope the boy had heard.
+
+They moved the last few yards with Eva between Grover and Martin. The clerk followed, still asking for signatures, still promising that one final task would free them all. At the revolving door, the young woman stopped and whispered that her supervisor would be angry.
+
+"Maybe," Martin said. "But you'll be outside. We can find someone who'll listen to what happened."
+
+She pushed the glass.
+
+For an instant the revolving door resisted, pressing back against her hands. Grover stepped beside her, and together they moved it far enough for the first slice of desert light to fall across her face.
+
+Eva gasped. The clipboard slipped from her fingers and landed in the lobby. She didn't reach for it.
+
+Percy followed, keeping his eyes on Annabeth and the strip of daylight widening between the panes. Behind him the hotel was still playing the same pleasant tune. In front of him the air was brutally hot.
+
+He had never been so glad to feel the heat.
+
 The phone rang again. Percy flinched through their joined hands. "Mom?"
 
 Annabeth squeezed till knuckles hurt. "I'm here. I'm real. Stay with me."
