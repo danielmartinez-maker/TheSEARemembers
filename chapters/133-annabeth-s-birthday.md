@@ -579,6 +579,94 @@ Thalia took her hand as they went toward the pavilion. They didn't pretend the g
 
 ---
 
+The last hour before the party belonged to people who had decided Annabeth should not have to work on her own birthday. Annabeth discovered this when she tried to move a bench and three people told her to sit down.
+
+"I'm capable of carrying a bench," she said.
+
+"We know," Silena replied. "You carried four yesterday."
+
+"Then why can't I help?"
+
+"Because we're doing it for you."
+
+Annabeth set down the bench. The statement was affectionate and irritating at once. She had spent much of her childhood being told that people were only trying to protect her. Sometimes they were. Sometimes the protection arrived in the form of a decision she hadn't been invited to make.
+
+"Could I choose what you do for me?" she asked.
+
+Silena blinked. Then her expression softened. "Of course. What do you need?"
+
+Annabeth looked around the pavilion. The tables had been arranged in a tight square, leaving a narrow space at the center for the birthday cake. It was beautiful, but crowded. A camper trying to leave early would have to squeeze past someone else, and the youngest guests could barely see over the chairs.
+
+"Move two benches to the side," she said. "Make room for people to come and go. And please don't make everyone stand up when I walk in."
+
+"Somebody planned that?" Percy asked from the doorway.
+
+Clarisse looked away.
+
+"You were going to make an entrance?" Annabeth asked her.
+
+"I was going to tell everybody to be quiet for a minute."
+
+"That sounds like an entrance."
+
+"Then I'll skip it."
+
+They rearranged the benches together. Annabeth showed the younger campers where to put the smaller stools. Silena checked that the cake table would still be visible. Nobody accused Annabeth of spoiling the surprise. In fact the work went faster once people stopped trying to hide the plan from the person it was meant to please.
+
+A boy from Hephaestus cabin was testing the lantern cord when Annabeth noticed the line sagging. She asked him to lower it before the cloth banners were hung. He inspected the anchor and agreed that the knot would need another turn.
+
+"I didn't ask you to help with the lights," Silena said.
+
+"Then consider it a birthday gift to myself. I like not setting the pavilion on fire."
+
+"You and your unreasonable standards."
+
+They laughed, but Annabeth knew the difference mattered. A celebration was not ruined by attention to what could go wrong. It was protected by it.
+
+As the tables shifted, she thought about the silver device from Zeus, now safely tucked in its case in Cabin One. She could be pleased to have received something beautiful without letting it define her birthday. She could feel hurt that he had not come and still laugh at Percy's terrible joke about his own childhood compass. She did not need everyone around her to select a single feeling for her.
+
+Percy came alongside carrying a stack of plates. "You good?"
+
+"Yes. A little tired of being told to sit down."
+
+"Want me to tell everyone you're in charge?"
+
+"No. That's the point."
+
+He grinned. "I can tell them you're in charge of not being in charge."
+
+"You're impossible."
+
+"I've had excellent teachers."
+
+She took half the plates from him. The stack was warm from washing, and the edges clicked against her fingers. They set them around the tables together. Percy didn't insist on carrying everything, and Annabeth didn't turn the task into a competition. They had a way of working side by side that felt older than fourteen, learned in another life and made gentler by this one.
+
+Thalia appeared with a length of blue ribbon and asked whether Annabeth wanted it across the entrance. Annabeth studied the door and shook her head.
+
+"Put it around the cake instead."
+
+"That will be less dramatic."
+
+"Excellent."
+
+Thalia tied the ribbon to the cake stand. When she finished, she gave Annabeth a small smile. It was the expression of an older sister who had accepted a correction without making it a loss.
+
+Near the back of the pavilion Chiron was checking the route from the entrance to the table. He had seen the changes and approved them. He asked whether the guest of honor had any final instructions.
+
+"Yes," Annabeth said. "If someone needs to leave early, don't call attention to it. I don't want anybody thinking they have to stay because it's my birthday."
+
+"Then I will tell the counselors."
+
+"And if somebody spills cake on the sketches, I reserve the right to be annoyed."
+
+"Reasonable," Chiron said.
+
+Percy leaned close. "What if I spill cake on you?"
+
+"Then we'll see how good you are at swimming away."
+
+The plans were ready. Annabeth stepped outside for a minute, letting the fresh air cool her face. The party would not make her thirteen again or turn her instantly into someone wiser. It would be one evening with people she loved, some of whom had come from very different parts of her life. That was enough.
+
 Without any plan Annabeth could diagram, the party assembled. Campers hauled lanterns and plates into the pavilion, glass chiming and sandals slapping stone. Grover bore a lopsided cake while two satyrs strung lights across the rafters, pine resin and hot sugar threading the air. Nico received charge of the candles.
 
 "Fourteen," he announced upon Annabeth's arrival.
