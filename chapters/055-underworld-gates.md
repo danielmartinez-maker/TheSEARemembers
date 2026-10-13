@@ -197,6 +197,72 @@ Grover nodded, eyes wide. "I am going to throw up," he whispered back.
 
 ---
 
+The person with the bone clipboard looked very disappointed when Grover cited the rule about neutral doors.
+
+"It's a gate," the man said. "Not an invitation."
+
+"A neutral door," Grover insisted. "The council's rules say a searcher may petition for passage while accompanying a sanctioned quest."
+
+"And what does 'petition' mean, second-class searcher?"
+
+Grover blinked. "You listen to my request?"
+
+"It means you may ask. It does not mean I have to grant access to every living creature with an interesting story and a backpack full of cans."
+
+Percy saw Grover's ears droop. He had memorized the rule, and it mattered that the rule didn't solve their problem immediately. The attendant had found the difference between requesting permission and receiving it. Chiron would have approved of the distinction, which made Percy want to argue more.
+
+Annabeth stepped forward, standing close enough to Grover that the man couldn't dismiss him without acknowledging her as well.
+
+"Then we'd like the grounds for refusing the petition," she said.
+
+The man's eyes narrowed. "The grounds?"
+
+"If the rule has conditions, tell us which one we haven't met. We're a sanctioned party. We're asking to reach the court without being processed as dead. We can identify ourselves. If you're saying the petition fails, record why."
+
+Thalia glanced at Annabeth, impressed despite herself. Percy could almost see the older sister thinking of how useful her little sister would be in an argument with a god who relied on people being too frightened to ask for a reason.
+
+The man inspected Grover's searcher's license. It was creased from being carried in his pocket and damp at one corner. He held it by the edge as though a satyr's paperwork might be contagious.
+
+"License current," he said. "But you have four living travelers and only three named in the Oracle's party."
+
+"That's true," Thalia answered.
+
+Percy expected her to go on the offensive. Instead she pulled Chiron's written guardian authorization from her belt pouch and set it beside Grover's license.
+
+"I'm not claiming to be named by the Oracle. My sister's twelve. I have authorization to accompany her as a guardian. That's what Chiron signed."
+
+The attendant took the paper and read the signature twice. He looked up.
+
+"An authorization from a centaur is not an order from Hades."
+
+"No," Annabeth said. "We aren't asking you to treat it as one."
+
+For a moment all four of them stood in the heat, watching the man decide whether the paperwork was worth the trouble. Percy thought about reaching for Riptide. He could imagine slashing through the glass doors and charging inside. He could also imagine how badly that would end when the entire Underworld belonged to the god they wanted to question.
+
+The attendant finally made a mark on the bone clipboard.
+
+"Conditional entry," he said. "You must register your living status with Charon. You are not permitted into the records rooms without separate authorization, and you are not permitted to take souls from the Fields. If you attempt either, the door closes to you."
+
+Percy's stomach dropped at the last condition.
+
+"Even if it's my mother?"
+
+The attendant's brown eyes moved toward him. "Especially if it's your mother. Every living visitor thinks their grief makes them an exception."
+
+Percy felt himself go rigid. He could hear Clarisse in his head telling him to make the man regret speaking like that. He could hear Silena telling him to listen carefully because he might be able to get more information if he didn't waste the chance on anger.
+
+"Then where do I ask about a soul's welfare?" he said.
+
+"Records petitions go through Charon. If you have a court audience, the king may answer or decline. That is his prerogative."
+
+It wasn't enough. It was also more than Percy had known five minutes earlier.
+
+Grover accepted the license back and thanked the attendant, although his voice shook. He didn't thank him for being unkind. He thanked him for stating the condition. Percy noticed the difference.
+
+When the glass doors opened, the cold air felt less like relief than an invitation he might regret accepting. He could cross the threshold as a living guest. Whether he would leave as one was not something the paperwork promised.
+
+---
+
 The lobby of DOA Recording Studios was bigger inside than outside.
 
 Percy had expected a small waiting room with chairs. Instead the ceiling rose three stories high. The floor was polished black marble that reflected their faces back at them, pale and stretched. Gold records hung on the walls in frames, each one labeled with a name and a year. Percy read one as they passed: BUDDY HOLLY. 1959. Another: JANIS JOPLIN. 1970. Another with no name, only a date from last week.
