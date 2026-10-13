@@ -9598,3 +9598,135 @@ She kissed him again.
 Outside the cabin, spring was beginning to loosen the last of the frost. Inside, the evening could finally be theirs.
 
 ---
+
+## March 16: The Long Afternoon
+
+Thalia arrived at the north cabin carrying nothing.
+
+No reports, no borrowed books, no food that could be used to explain why she'd come. She had finished the week's lessons early, returned the equipment and spent an hour alone in Cabin One before deciding she wanted to see Rhys. There was no other reason.
+
+He opened the door with his hair damp from washing and one sleeve rolled above his elbow.
+
+"You're early."
+
+"For what?"
+
+"Whatever you're planning."
+
+She smiled.
+
+He stepped aside. The cabin was unusually neat, the workbench cleared and the guitar resting in its case. A soft rain had begun outside, making the window glass bright with reflected light.
+
+"Where's your work?" she asked.
+
+"Finished."
+
+"All of it?"
+
+"Enough."
+
+She looked at him. He was watching her with an expression she knew well, pleased and a little surprised that she'd arrived without warning.
+
+"Good," she said.
+
+She crossed the room and kissed him.
+
+The kiss began with the easy familiarity of their ordinary greetings. Then she caught his shirt and kept him close, and the mood shifted. He responded at once, his hand finding the back of her neck while the other rested at her waist. She liked the immediate recognition in his touch, the sense that neither had to explain what they wanted from the afternoon.
+
+He smiled against her mouth.
+
+"You're in a hurry."
+
+"Not at all."
+
+She kissed him again, slower this time.
+
+The rain thickened against the window. The stove was still warm from breakfast, and the room held the faint scent of soap and wood. Thalia could feel the quick rhythm of his breath when she touched his cheek. She liked that she could still surprise him, even after months together, and she liked the way his composure vanished when she drew him closer.
+
+They moved toward the cot without talking much. There was no pressure in the silence, only the familiar warmth of choosing one another. She kicked off her boots and laughed when one landed against the leg of the table. Rhys caught her hand, and she pulled him down beside her.
+
+He kissed her with an eagerness that made her smile. She closed her eyes for a moment, feeling the warmth of his hand at her back and the soft fabric of his shirt beneath her fingers. The world outside had become a dull rhythm of rain and distant wind.
+
+There was no audience. No one needed them for an hour. They allowed the afternoon to remain private.
+
+***
+
+Later, the rain had stopped.
+
+Thalia lay against Rhys's shoulder, watching the light move across the wall. He was telling her about an argument he'd had with another musician over the opening of a piece they were preparing for tour. She listened, occasionally interrupting with a suggestion that was either useful or deliberately impossible.
+
+"You're proposing we remove the entire melody," he said.
+
+"It would solve the argument."
+
+"It would destroy the piece."
+
+"An unfortunate side effect."
+
+He laughed and caught her hand.
+
+She was still smiling when he turned toward her.
+
+"You've gone quiet."
+
+"I'm listening."
+
+"Suspicious."
+
+She considered. "I was thinking about April."
+
+His expression became serious.
+
+"What about it?"
+
+"That we're going to have to do this differently."
+
+He nodded. "Yes."
+
+She looked down at their joined hands.
+
+"I like what we have," she said. "I don't want to spend six weeks pretending I don't miss it."
+
+"Then don't."
+
+"But I also don't want every letter to be about how miserable we are."
+
+He smiled slightly. "I think we can manage that."
+
+She considered. The relationship had changed over the winter, not because the first excitement had vanished but because they had learned how to make room for ordinary life around it. She could want him passionately and still go home when she chose. He could be busy with music and still make her feel wanted. They could be disappointed with one another without treating the disappointment as a verdict on everything else.
+
+"Tell me about your first concert," she said.
+
+He blinked. "The one in April?"
+
+"Yes. What are you playing?"
+
+He began explaining the program, its more difficult passages and the musician he was worried about keeping up with. She listened with genuine interest, interrupting only when she had a question worth asking.
+
+When he finished, she rested her head against his shoulder.
+
+"I'm going to try to visit."
+
+"I know."
+
+"And if I can't, I'll send you an extremely hostile review from a distance."
+
+He laughed.
+
+"That would be comforting."
+
+She lifted her face and kissed him, slowly enough that she felt the afternoon's quiet return. There was warmth in the touch and a familiar, cheerful desire that made her want to remain exactly where she was.
+
+They stayed until supper.
+
+When she finally rose to go home, Rhys came to the door with her. The path beyond the porch was wet, but the rain had passed and the air smelled of thawing earth. She turned and kissed him once more.
+
+"See you tomorrow?"
+
+"Yes."
+
+"Good."
+
+She walked downhill without hurrying. The afternoon had belonged to them because they had chosen it, and that was enough to make her look forward to the next one.
+
+---
