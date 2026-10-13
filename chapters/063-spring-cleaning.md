@@ -682,7 +682,51 @@ Percy nodded at the share pile. "Like Clarisse's drawing?"
 
 "I wouldn't dare."
 
-They sat while the sun slanted lower. Grover came by with a bag of baby satyrs' lost socks for the share pile. Piper told the story of the ice skate — it was hers, from a mortal school ice show, before her dad got famous-really-famous. Leo told three different stories about the oracle mug, all lies, until Calypso hit him with a broom. Jason, on Iris-message from Camp Jupiter for all of five minutes, saw the photo Annabeth held up and went quiet and said, "Keep that one safe for me," and Thalia, standing behind Annabeth, said, "I will, little brother," and Jason grinned like the sun.
+They sat while the sun slanted lower. Grover came by with a bag of baby satyrs' lost socks for the share pile. Piper told the story of the ice skate — it was hers, from a mortal school ice show, before her dad got famous-really-famous. Leo told three different stories about the oracle mug, all lies, until Calypso hit him with a broom. Jason's Iris-message arrived while they were gathering the lost items into boxes. Reyna's courier had arranged a five-minute connection from Camp Jupiter, long enough for the siblings to speak without turning it into a public performance.
+
+Thalia moved to the side of the pavilion where the other campers could still see her but couldn't easily hear every word.
+
+"We found some pictures," she told him.
+
+Jason appeared in the rainbow wearing a purple camp shirt, his hair damp from training. He looked surprised.
+
+"What kind?"
+
+"Beryl's things. Old family pictures. There's also an envelope addressed to you. We haven't opened it."
+
+He was silent for a moment.
+
+"Can you send it?"
+
+"Through the agreed courier, yes. You can decide whether to read it."
+
+He nodded. Annabeth stepped into the light beside Thalia.
+
+"Would you like to see one photograph now?" she asked. "It's from when you were little. We don't have to show anything if you'd rather wait."
+
+Jason considered. Percy could hear only bits from where he sat with the others, but the hesitation was unmistakable.
+
+"One," Jason said finally. "The one Thalia likes."
+
+Thalia lifted the picture of herself holding the sparkler. She told him where it had been taken and admitted she remembered almost setting the end of her sleeve on fire. Jason laughed.
+
+"That sounds right."
+
+"You weren't in the picture," Thalia told him. "But you were there that summer, and I wanted you to know I remember."
+
+Jason's expression changed. He asked whether there were others. Thalia said there were, and she would send copies he could look through when he had time. She didn't hand the sealed envelope to anyone else or show it to the crowd.
+
+"Keep that one safe for me," Jason said, looking at the sparkler photograph again.
+
+"I will, little brother," Thalia answered.
+
+The rainbow began to fade. Jason gave them a quick wave before the connection vanished. Thalia stood still a moment longer, holding the picture by its edges.
+
+Annabeth took out a clean sleeve from the supply box and offered it.
+
+"For the courier packet," she said.
+
+Thalia accepted it. Across the pavilion, Percy returned to sorting the repair tools. He didn't ask what was inside the private envelope. Jason would tell them if he wanted to.
 
 It was that kind of day. Dusty and tender. Everyone finding the kid they used to be under the bunk.
 
