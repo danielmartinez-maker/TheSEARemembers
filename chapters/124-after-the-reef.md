@@ -186,6 +186,153 @@ Percy set the folded letter beside the sea-glass beads. After dinner, the water 
 
 ---
 
+Chiron's first question about the visit was not whether the garden had been beautiful.
+
+"Did anyone get hurt?"
+
+Percy had spent the walk up from the shore describing coral terraces, iridescent fish and the way Silena had taken a line of woven kelp and turned it into a working sleeve. He was almost offended that Chiron wanted to talk about injuries.
+
+"Nobody seriously," he said.
+
+"That wasn't the question."
+
+Clarisse held out her forearm. The skin was bruised where she'd braced the nursery shelf, with a dark mark along the outside of her wrist. She had insisted the ache was nothing all the way back to camp. Now she looked annoyed at having to display it.
+
+"The shelf moved," she said. "I held it while they fixed the line."
+
+Chiron inspected the bruise without touching the sorest part. "Can you turn your wrist?"
+
+She did.
+
+"Make a fist."
+
+She did that too, a little more slowly.
+
+"You may have strained it. Have Will examine the range of movement and tell you whether it needs rest. And no spear drill tonight."
+
+"It wasn't in my plan."
+
+"Then we agree."
+
+Silena produced her small envelope of woven kelp and the sketch Annabeth had made of the nursery. She laid them on the table beside the guest record, which had survived the return passage in a waterproof tube.
+
+"This part wasn't ours to fix," she explained. "The gardener knew the structure. We helped with what she asked."
+
+Chiron looked at the drawing. "Good. You're learning to distinguish assistance from ownership."
+
+Percy wondered why every adult in his life seemed able to say things like that while looking directly at him.
+
+Thalia leaned against the doorway. "The route home had a problem too."
+
+Annabeth explained the charm that had warmed and lost part of its protective pattern. She described where they stopped, who replaced it and how the guard marked the faulty shell so no other visitor would use it. Chiron asked if the escort had remained with the whole group. She said yes. He wanted the precise hour, and she gave him the closest estimate from the measurements she'd been making.
+
+"Did you feel unwell?" he asked Silena.
+
+"No. I felt the charm get warmer, and I said so."
+
+"That was the correct response."
+
+"I know," she said, but Percy could tell she was pleased to hear it.
+
+Chiron wrote a note in the camp ledger. The page had entries for storms, illnesses, missing equipment, broken fences and all the other things that made camp a place where people actually lived rather than a picture of a happy summer.
+
+"May I add something?" Annabeth asked.
+
+"Please."
+
+She drew a line across the return route, pointing to the cold shelf where the charm had changed. "It's possible the local current caused the shift. The guard wasn't sure. We shouldn't write that as the cause unless the palace inspection confirms it."
+
+Chiron altered his note. "Suspected current interaction, cause undetermined."
+
+"Thank you."
+
+Clarisse rolled her wrist once and winced. Percy noticed. She noticed him noticing.
+
+"Don't start."
+
+"I'm not starting."
+
+"You made a face."
+
+"I have a face. It happens."
+
+Silena handed her a folded cloth. "Will's expecting us at the infirmary after dinner."
+
+Clarisse frowned. "You told him already?"
+
+"I asked whether he had time. You still decide whether to go, but Chiron recommended it."
+
+"I heard."
+
+"Good."
+
+They carried the remaining papers to the Big House. Chiron gave Percy a small task: make an inventory of what belonged to camp and what had come from Atlantis. The borrowed practice spear had been returned. The garden sketch was Annabeth's. Silena's kelp sample was a freely given scrap, not living material removed from the nursery. The coral token belonged to Clarisse by Amphitrite's gift. The shell charm belonged to Annabeth, although the failed one had gone back with the escort for inspection.
+
+Percy wrote it all down, adding the names of the people who had made the arrangements. He could feel how much work was hidden in the trip: ward checks before departure, a guarded route, a log to make sure everybody came home, and people whose entire day was interrupted when a visitor wanted to see a beautiful place.
+
+He folded the page and carried it to Chiron.
+
+"That's thorough," the centaur said.
+
+"Annabeth helped."
+
+"Then I shall thank both of you."
+
+Percy waited. Chiron set down his pen.
+
+"Was there something else?"
+
+"Do you think I should write Amphitrite?"
+
+"Why?"
+
+"To thank her. But also to tell her about the charm and the bruise and the fact that Clarisse didn't love having her relationship written down wrong."
+
+"Would you be writing on your sisters' behalf?"
+
+Percy thought about the morning's conversations. "I guess I was going to."
+
+"Then ask them whether they want you to."
+
+It was irritating how often the answer to a complicated question was simply *ask*. Percy thanked him and went back to Cabin Three, where Silena was trying to decide how to dry the kelp without making it brittle. Clarisse had gone to see Will and left her coral token on the table.
+
+"I want to send a letter," Percy said. "Not in your names unless you want me to."
+
+Silena looked up. "What would you say?"
+
+"That I was glad she invited us. That the garden matters to me. And that the trip home had something we need the inspection record for."
+
+"That's fair."
+
+"Do you want me to tell her you enjoyed the visit?"
+
+"I'll write that myself if I want to."
+
+"All right."
+
+Clarisse returned with a loose wrap around her wrist and instructions to avoid heavy sparring for two days. Percy waited until she'd read the infirmary slip before asking about the letter. She wasn't angry at the question. She did want the description of the nursery repair to be accurate, and she insisted that her bruise was not a complaint against the gardeners.
+
+"Write that I volunteered," she said. "And that I liked the token."
+
+"Do you want her to know you kept it?"
+
+"I told her I would."
+
+Percy added the sentence. The letter became better once he stopped trying to make everyone sound grateful in exactly the same way.
+
+Annabeth came by to compare the route record. She pointed to a place he'd described as *safe* and changed it to *safe under escort with working charms*.
+
+"You're making it sound less impressive," he complained.
+
+"I'm making it true."
+
+He didn't change it back.
+
+When he finally sealed the note, it held neither a perfect family portrait nor a list of grievances. It was a record of a real afternoon, including the ways they had been welcomed and the ways they had needed help. He thought Amphitrite might value that more than a letter insisting every moment had gone beautifully.
+
+
+---
+
 After dinner, Annabeth took over an end table in the pavilion, spreading her sketchbook and pencils in a patch of lantern light. Around them, plates clinked in the wash basins, Hermes campers accused a stump of moving, and Apollo campers tuned their instruments on the steps.
 
 Percy approached the table with two mugs of tea. He set one beside Annabeth’s elbow.
