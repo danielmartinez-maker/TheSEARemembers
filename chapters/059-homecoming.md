@@ -236,6 +236,112 @@ When Chiron finally dismissed them, the afternoon celebration was still going on
 
 ---
 
+The infirmary smelled exactly the same.
+
+Percy had expected that to be comforting. Instead he found himself standing at the threshold, suddenly unable to take another step, while a younger camper carried a bucket of used bandages past him and asked whether he was blocking the door on purpose.
+
+"No," Percy said. "Sorry."
+
+Silena came back from the supply cabinet with four forms and the expression of someone who had waited weeks to be officially allowed to fuss over her brother.
+
+"Sit there," she said, pointing at the nearest empty bed. "You can complain after we've checked you."
+
+"I'm not going to complain."
+
+"Your face is already complaining."
+
+He sat.
+
+Thalia took the chair nearest the window, refusing a bed until the medic asked her to. Annabeth settled beside her sister and opened the folder with the emergency notes from the Arch. Grover perched on the edge of a second bed with his shoes dangling from one hand, because the infirmary floor felt too clean for hooves.
+
+Nobody was seriously ill. Percy knew that. The fact they had been allowed back to camp should have been proof that they could stop worrying for the afternoon. But he kept seeing the metal wall of the Arch peeling outward, and the way Thalia had vanished into smoke when he'd gone down the stairs. A room full of clean gauze could not make the image go away.
+
+The camp medic asked him to describe the pain in his ribs. Percy was about to say it was practically gone when Silena raised an eyebrow. He changed the answer.
+
+"It hurts when I laugh hard. And when I twist fast."
+
+"Then no sparring yet," the medic said.
+
+Clarisse, who had come along to carry the baggage and was waiting by the door, gave a theatrical sigh.
+
+"I wasn't planning to hurt him."
+
+"That's not the same as planning a suitable exercise," Silena replied.
+
+The medic listened to Percy's breathing, checked the older cuts, and asked him about the fall into the Mississippi. Percy answered the questions without turning it into a tale about the river accepting him. He didn't want the examination to become another debate about what Poseidon's son ought to survive. He wanted to know whether the shoulder still needed rest.
+
+It did.
+
+On the next bed, Grover reluctantly showed the rubbed places on his hooves. He'd wrapped them himself after the motel in St. Louis and then kept walking because he didn't want to become the reason the others stopped. The medic cleaned the skin and asked him to avoid long hikes while it healed.
+
+"You can still inspect the strawberry fields," she said. "At a reasonable pace."
+
+Grover looked relieved. "Juniper's maples need checking."
+
+"Then check them. Don't race there."
+
+Thalia submitted to a brief follow-up review of the head injury and promised to report worsening symptoms. She did not make a joke. Percy thought that might be the strongest sign she was actually listening.
+
+Annabeth's hand was healing, but she had been using it too much. The medic gave her a fresh dressing and asked her not to practice lightning until she had recovered and the training staff reviewed the unsafe water combination. Annabeth protested only once.
+
+"It was an accident," she said.
+
+"That's why we need to understand it before repeating it."
+
+Annabeth nodded. She had said almost exactly the same thing to Percy on the road.
+
+When all four assessments were finished, Silena asked the medic for copies of the instructions. She said she'd put them in the proper cabins rather than keeping one shared sheet nobody could find.
+
+Percy watched her add his name to the infirmary follow-up list. He hadn't expected to feel embarrassed about it. His sisters were looking at him as though he'd come home from a school trip with missing homework rather than from a meeting with the king of the gods.
+
+"You don't have to keep checking on me," he told her.
+
+Silena stopped writing. "I know."
+
+"Then why do you?"
+
+"Because you spent weeks beyond the border and I had to wait for messages from people who didn't know whether you were alive. And now you're standing in front of me with a shoulder that hurts, telling me not to check."
+
+Percy looked away. She wasn't asking him to apologize. She was explaining the cost of not knowing.
+
+Clarisse came to stand beside the bed. She carried the empty bag he had taken west. The red thread she'd tied around its handle was still there, frayed but intact.
+
+"We kept your patrol slot open for a week," she said. "Not because we thought you'd come back early. Because nobody wanted to write someone else's name over yours."
+
+Percy felt his throat close.
+
+"Then we had to," Clarisse went on. "Camp kept running. We moved shifts. Silena made sure people had equipment. The boats stopped leaking. It didn't mean we'd stopped caring."
+
+"I know."
+
+"No, you don't." She pushed the duffel into his lap. "Not entirely. You weren't here."
+
+Percy didn't argue. He had missed them while he was away, but missing somebody was not the same as waiting for them with a camp roster in your hands and a messenger who could not say when the next report would arrive.
+
+Silena folded the papers and gave him a less stern look.
+
+"You can help unpack when we're done," she said. "You can't train tomorrow. You're very qualified to fold towels."
+
+"That sounds like a punishment."
+
+"It might be."
+
+Clarisse smiled. "Welcome home."
+
+Percy took the follow-up sheet and the duffel. The infirmary had not made him feel heroic. It had given him a list of ordinary things to do so that he could stay home long enough to heal. He found that unexpectedly appealing.
+
+On the porch outside, Grover stopped to watch a pair of satyrs carrying seedlings toward the garden. Annabeth was already talking to Thalia about the instructions and how to tell the younger Cabin One campers that no, they were not going to demonstrate new lightning tricks tonight.
+
+Percy looked at the paper in his hands, then down the path toward Cabin Three.
+
+"Come on," he told his sisters. "Show me where you keep the towels."
+
+Silena laughed. Clarisse rolled her eyes.
+
+Neither let him carry the heavy bags.
+
+---
+
 The afternoon turned into a celebration that moved all over camp on its own.
 
 The Poseidon cabin — home to Percy, Clarisse, and Silena, each with their own bunk — had its door flung open and its seashell window boxes bursting with flowers Silena had charmed there that morning “for luck.” Clarisse had painted a crooked banner in blue and green that read WELCOME HOME KELP HEAD and hung it upside down. Percy pretended to be offended and then stood under it for ten minutes while everyone took pictures with an Iris-message slate.
