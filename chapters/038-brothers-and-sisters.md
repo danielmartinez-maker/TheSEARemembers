@@ -102,6 +102,120 @@ She dragged him toward the lake, laughing, and Percy, still learning how to live
 ---
 
 
+Nico was supposed to be having the best day of his life.
+
+Bianca had agreed to spend Siblings Day with him. That part alone ought to have been enough. They had been separated from so many people and so much time that simply being able to find his sister at breakfast still sometimes felt impossible.
+
+Unfortunately, Bianca had made a schedule.
+
+"We do the lake games for half an hour," she said, holding a folded paper. "Then the sparring tournament. After lunch we can walk through the craft stalls."
+
+"What about Mythomagic?"
+
+"We can play when we're back at the cabin."
+
+"The tournament starts at eleven."
+
+Bianca looked at her list. "The sparring tournament starts at ten."
+
+"Exactly. We have to choose."
+
+They stood on the path near the arena with campers streaming past them, most carrying something for the day. A younger girl from Apollo had matching ribbons in her hair with her older brother. Two Hermes boys were already arguing about whether a borrowed shield counted as a present if its owner still wanted it back.
+
+Nico looked at Bianca. He'd been looking forward to playing Mythomagic together ever since Chiron posted the Siblings Day notice. Bianca had been practicing archery and wanted them to enter Clarisse's tournament. They had talked about both plans at different times and somehow failed to notice that they were incompatible.
+
+"We could split up," Nico suggested.
+
+"Then it wouldn't be Siblings Day."
+
+"Chiron said it was for being with family. He didn't say we had to do every activity together."
+
+Bianca folded the paper more tightly. "I thought we were going to spend the day together."
+
+"We are. Just not every minute."
+
+She looked hurt. He hadn't meant to hurt her. He remembered years when the two of them had known no one they trusted except each other. A day apart would have seemed impossible then, not because they wanted to be inseparable but because neither knew whether the other would be waiting when they returned.
+
+"Why is it so important to go to the tournament?" she asked.
+
+"Because I want you to see how good I am. I've practiced the deck for weeks."
+
+Bianca looked at him for a moment. Then she asked, "Could I come watch your match?"
+
+"Yes. But your sparring will be happening."
+
+"I know."
+
+He felt suddenly guilty. "You want me to watch you too."
+
+"I wanted you on my team."
+
+That was different. Nico had imagined them attending two events as spectators and cheering for each other. Bianca had imagined fighting side by side. She'd been training for this version of Siblings Day just as carefully as he'd been building his deck.
+
+They went to the arena fence. Clarisse was marking names on a board and looked up when they approached.
+
+"What's the problem?"
+
+"Both of us want to do different things," Nico said.
+
+Clarisse raised an eyebrow. "That is not a problem I can solve by moving the schedule. You can enter or not."
+
+Bianca asked if they could take part in an early exhibition and then leave for the Mythomagic game. Clarisse examined the bracket. The official tournament already had enough pairs, but the warm-up period was open to people who wanted to practice together.
+
+"Fine," she said. "You'll get one demonstration round, no score. You won't be in the main bracket."
+
+Bianca considered the offer. She had wanted the score. Nico could tell from her expression. But she looked at him and nodded.
+
+"That's enough for me," she said.
+
+They joined the warm-up group. Bianca showed Nico how to hold the practice shield at an angle and keep his feet apart when he moved. He was smaller and less experienced than most campers in the arena. She didn't pretend otherwise. Instead she taught him one technique they could use together: she would protect the outside of their formation while he kept the center covered.
+
+When the padded attack came, he moved too early. Bianca shifted to compensate and nearly lost her balance. They both laughed, reset and tried again. The second time they managed three steps before the instructor called them out of formation.
+
+"Not bad," Clarisse said.
+
+Bianca smiled. "It could be better."
+
+"That's why we practice."
+
+When they finished, Nico offered her his water bottle. She took it, then glanced toward the pavilion where the Mythomagic tables were being set up.
+
+"Go," she said. "I want to see how this deck works."
+
+"You don't have to."
+
+"I know. I want to."
+
+At the game table, Bianca sat behind him without offering advice every thirty seconds. Nico had begged her not to. He won his first match and turned around so quickly he nearly knocked his cards off the table.
+
+"Did you see?"
+
+"I did."
+
+"The card I saved until the last turn. I told you it would work."
+
+"You did. And I was wrong about it."
+
+That delighted him almost as much as the victory.
+
+They ate lunch together beneath the shade of a tree near the pavilion, trading sandwiches and arguing about whether the shield formation had failed because Nico moved early or because Bianca assumed he'd understand a signal she hadn't explained. Neither pretended to have won every part of the morning.
+
+After lunch, Bianca suggested they visit the craft stalls. Nico agreed. They had time for both of them now.
+
+On the way, they passed Percy trying to carry an enormous basket of plates while Triton held an entire platter of bread above his head like a ceremonial offering.
+
+"Having a good day?" Percy called.
+
+"Yes," Nico said. "We did two different things and it worked."
+
+Percy looked at Bianca, who was smiling.
+
+"That sounds like siblings," he said.
+
+Nico thought so too. The day hadn't gone according to either schedule. His sister had still been there when he turned around after his match, and he'd still been there when she wanted to tell him what she'd learned in the arena. That was what he had wanted all along.
+
+---
+
 Clarisse La Rue did not do sentimental.
 
 Sentimental was for Aphrodite kids who cried at sunsets and Apollo kids who wrote songs about friendship. Clarisse did drills, and sparring, and yelling until people got it right. That was love, as far as she was concerned. If she yelled at you, it meant she thought you were worth the breath.
