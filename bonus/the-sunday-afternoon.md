@@ -8490,3 +8490,235 @@ Thalia rested her head against his shoulder.
 She smiled into the blanket and closed her eyes.
 
 ---
+
+## February 26: The Letter He Signed
+
+By Monday morning, Rhys had written three answers to the music group and destroyed two of them.
+
+Thalia knew because the discarded pages lay in the wastebasket beside his workbench, each covered with neat writing that became increasingly impatient near the bottom. She hadn't read them. She didn't need to. The third version was spread on the table beneath a paperweight, and Rhys was studying it as if the words might rearrange themselves when he looked away.
+
+"You're making that very difficult," she said.
+
+He looked up. "Good morning to you."
+
+"It's a letter."
+
+"It's an answer."
+
+"You've had ten days."
+
+"Yes."
+
+"And the answer is?"
+
+He looked back at the page. Thalia sat on the edge of the cot and waited. There were times she enjoyed watching him work through a problem, and there were times she wanted to shake him until he did the sensible thing. This morning was both.
+
+At last he said, "I'm going."
+
+She felt the small, inevitable disappointment. She had been expecting it for weeks. Expectation did not make it vanish.
+
+"Good," she said.
+
+He looked at her. "That's all?"
+
+"Did you want a parade?"
+
+"No."
+
+"Then sign the letter."
+
+He glanced at the page. His pen was resting beside it.
+
+"I wanted to talk to you first."
+
+"We have been talking about it for most of February."
+
+"Not like this."
+
+She stood and crossed to the table, but stopped before touching the letter. It was his answer. He would be the one signing it, the one rehearsing and performing, the one returning after six weeks with stories she couldn't share firsthand.
+
+"What do you want me to say?" she asked.
+
+"That you know I'm not leaving because I want to get away from you."
+
+"I know."
+
+"And that you won't spend the spring convincing yourself otherwise."
+
+She looked at him. It was an unfair thing to ask, mostly because it was exactly the sort of promise she was least qualified to make. She could control what she did. She could not guarantee how she would feel on a particular lonely evening in a month she had not yet reached.
+
+"I might miss you and be furious about it," she said.
+
+"I would expect nothing less."
+
+"I might write an unfair letter."
+
+"Then I'll write an answer."
+
+"And you might be too busy to write."
+
+"Sometimes."
+
+She nodded. They were beginning to sound like themselves again. It was easier to tell the truth when neither pretended the truth had to be elegant.
+
+"Then here's what I can promise," she said. "I'll try to remember that you're doing work you earned. You try to remember that when I get sharp, it doesn't always mean you're the problem. And if we actually have a problem, we'll say what it is."
+
+He studied her a moment. Then he smiled.
+
+"That sounds like a reasonable agreement."
+
+"An alarming thing to say about anything I've proposed."
+
+She moved closer. He put down the pen and drew her into a kiss, warm and familiar. She caught his shirt between her fingers, pleased by his immediate response. The kiss lasted long enough that she almost forgot the letter.
+
+Almost.
+
+"Sign it," she murmured.
+
+"Very romantic."
+
+"I'm full of surprises."
+
+He laughed. She watched him take the pen and write his name at the bottom. It was done in seconds. No thunder. No sudden change in the light. The decision had been made by a man with ink on his thumb sitting in a cabin that needed a new stove hinge.
+
+She found that she preferred it that way.
+
+Rhys folded the letter and put it in an envelope. He sealed it and wrote the address carefully.
+
+"There," he said.
+
+"There."
+
+He looked at her with relief and something like apprehension.
+
+She reached for his hand. "Now what?"
+
+"Now I have to tell Chiron. Arrange someone to cover the lessons. Make certain the guitar is ready."
+
+"Then you'd better begin."
+
+He squeezed her hand. "Do you want to help?"
+
+She considered. The familiar impulse to take over arrived at once: draw up a schedule, organize the packing, check every instrument and make sure the man she loved didn't forget anything important. She knew how to be useful. It would be an efficient way to avoid feeling sad.
+
+"I'll help if you ask for something specific," she said. "I'm not becoming your manager."
+
+He smiled. "A loss to the entire profession."
+
+"Terrible pay."
+
+"Unreasonable hours."
+
+"And a client who refuses to listen."
+
+He laughed. The tension of the morning had loosened enough that she could breathe without feeling as if she were holding an invisible weight.
+
+***
+
+At noon he went to speak to Chiron.
+
+Thalia spent the hour in the advanced training room, checking the new safety screens she'd asked to have installed. The students had made progress since the first session. They could work in pairs, evaluate a lane and explain why it was safe without waiting for her to correct every decision. She was proud of them, and the pride was entirely hers.
+
+When Rhys came to find her afterward, she was kneeling beside a target frame, arguing with a student about the proper height of a barrier.
+
+He waited until the student went to fetch a measuring tape.
+
+"Chiron agreed," he said.
+
+She looked up. "Of course he did."
+
+"He had questions about the dates."
+
+"He asks questions about everything."
+
+"He wanted to know whether I'd considered how the younger instructors would cope with the extra lessons."
+
+Thalia pointed at the schedule pinned to the wall. "They'll manage if they follow that."
+
+Rhys examined it. "That's my winter rotation."
+
+"With minor improvements."
+
+"Why does my name have three arrows beside it?"
+
+"Those were the lessons you kept avoiding."
+
+"I wasn't avoiding them."
+
+"Historical records disagree."
+
+He laughed, then looked at the students returning toward the line. She could see his eyes moving over the room, taking in the screens and the careful lane markers. He was trying to understand what she'd built while he'd been occupied with his own future.
+
+"This is good work," he said.
+
+She looked at him. The compliment should have been ordinary by now. It wasn't. He hadn't praised the program as something he had helped create. He was looking at her work and telling her it was good.
+
+"Thank you," she said.
+
+He seemed surprised by the lack of sarcasm.
+
+"You're welcome."
+
+She took the measuring tape from the student and returned to the lesson. Rhys watched for another minute, then left her to finish.
+
+That evening he came to Cabin One instead of waiting for her to find him. Annabeth was reading by the window. Thalia had been making notes for the next day's course and had almost forgotten the time.
+
+Rhys knocked.
+
+Annabeth opened the door and stepped aside.
+
+"She's at the table."
+
+"I can see her."
+
+"She'll pretend she's not happy to see you."
+
+"Annabeth."
+
+Her sister returned to the book with a look of complete innocence.
+
+Rhys crossed the room and put a small envelope beside Thalia's notes.
+
+"What's that?"
+
+"A copy of the letter."
+
+"You made a copy?"
+
+"I wanted you to have the dates."
+
+She picked it up and read the brief line confirming his acceptance. The departure date was early April. The six weeks were real now, fixed in a calendar rather than floating in conversation.
+
+She looked up.
+
+"Thank you."
+
+Rhys smiled. She stood, touched his face and kissed him. It was a warm kiss, unhurried and entirely unconcerned with who might be watching from the table by the window. Annabeth made a theatrical noise and turned a page.
+
+"Disgusting," she said without looking up.
+
+Thalia laughed and kissed him once more.
+
+"Come walk with me," she said.
+
+They went outside together. The air was damp, and the paths shone under the lamps. She could feel the closeness of him beside her, the familiar weight of his hand in hers. The future had dates now. She didn't like all of them. She was glad he'd chosen honestly.
+
+At the north cabin he put the letter in his new wooden box, beside the music he'd been working on. Thalia watched him close the lid.
+
+"You really are going," she said.
+
+"Yes."
+
+She reached for him. He came, and she kissed him with the same fierce pleasure she had felt when he returned in December. This time the desire was not sharpened by months of waiting, but by the knowledge that time together could be both limited and abundant. They had several weeks. They could use them well without making every evening a goodbye.
+
+He drew her closer. She smiled against his mouth and felt him smile too.
+
+"Don't get sentimental," she whispered.
+
+"Too late."
+
+She laughed. For a while the cabin grew quiet around them, and neither thought about letters.
+
+The decision was made. The evening was still theirs.
+
+---
