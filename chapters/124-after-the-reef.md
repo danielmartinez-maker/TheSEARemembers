@@ -758,19 +758,15 @@ When the song ended, Percy put the letter back in his pocket. He would send it f
 
 After the music ended, the camp thinned into little groups and then into scattered lanterns. Chiron had gone to the Big House to finish a letter of his own. Thalia walked Annabeth back toward Cabin One, both of them talking about whether the sketch needed a scale mark. Silena left with Clarisse, the shell still tucked safely in her pocket.
 
-Percy carried his letter to the lake.
+Percy carried his revised letter to the lake, though he knew this freshwater shore was not the right place to send it toward the sea.
 
-Stars trembled on the lake. Percy sat at the end of the empty dock, folded the page into a packet, and placed it inside his message-shell. It warmed in his hands as a thread of seawater curled around it, shining faint blue.
-
-“For Amphitrite,” he whispered.
-
-The current took the message with a soft pull. It turned just below the surface like a leaf, then slipped toward the Sound.
+Stars trembled on the surface. He sat at the end of the empty dock, folded the page into a packet, and placed it inside the message-shell without activating the charm. Chiron had agreed to check the saltwater route in the morning, and Percy would deliver it from Long Island Sound after the shoreline watch approved the passage. For now he kept the sealed shell in his palm.
 
 He heard footsteps on the path behind him. Annabeth stopped a few feet away. She held the sketchbook to her chest and had her jacket draped over one arm.
 
 “I thought you’d be here,” she said.
 
-“I sent the letter.”
+“I finished the letter. I’ll send it from the Sound tomorrow.”
 
 “Good.”
 
@@ -866,7 +862,7 @@ Annabeth closed her sketchbook. “Tomorrow I’m going to draw the lake.”
 
 He leaned his shoulder against hers. The water touched the posts and withdrew, touched them again, keeping its own unhurried time.
 
-For tonight, home was a dock with splintered boards, a girl beside him, and the path behind them leading up to cabins full of family. Far below, another home held a letter that would soon reach the hands of a woman who had made room for him twice: once as a child, once as the boy he had become.
+For tonight, home was a dock with splintered boards, a girl beside him, and the path behind them leading up to cabins full of family. Far below, another home waited for a letter he had not yet sent. In the morning he would carry it to the Sound and send it to a woman who had welcomed him in a childhood he couldn't remember, and was getting to know him again now.
 
 The sea remembered.
 
