@@ -5163,6 +5163,316 @@ She went down the steps. The path shone under the lanterns, and she had her glov
 
 ---
 
+### The Mask She Almost Didn't Wear
+
+By Tuesday afternoon the younger campers had converted the pavilion into something between a festival and a siege.
+
+Paper lanterns hung from the beams. A dozen carved pumpkins occupied the long tables, some finished with real skill, others looking as though somebody had attacked a vegetable with a spoon and then declared it a monster. A child from Demeter's cabin had made a wreath from late leaves and insisted it was an architectural improvement. Two of the Ares campers were competing to see who could frighten the most people without touching them.
+
+The dining pavilion had never looked more ridiculous.
+
+Thalia liked it more than she expected.
+
+She had forgotten Halloween was coming. She'd been thinking about winter targets, her heel, Annabeth's plans and the entirely inconvenient fact that Rhys had become the person she most wanted to see at the end of a long day. The date had gone by unnoticed until Silena came to the range carrying a box of masks.
+
+"Pick one," Silena said.
+
+"I'm working."
+
+"I know. That's why I'm offering you a mask instead of a party invitation."
+
+Thalia looked into the box. There were painted animal faces, a horned creature that might have been a satyr if the artist had never seen one, and a silver half-mask decorated with little bolts of lightning.
+
+She stared at the last one.
+
+Silena followed her gaze and quietly moved it to the bottom of the box.
+
+"You don't have to wear anything," she said.
+
+"I wasn't going to."
+
+"All right."
+
+Silena closed the box. Thalia felt an absurd flash of irritation. She wanted the choice to matter without having to explain why the silver mask had made her skin crawl.
+
+"Who made that one?" she asked.
+
+"One of the younger campers."
+
+"Did they know?"
+
+"Know what?"
+
+"Never mind."
+
+Silena looked at her for a moment. Then she put the box on the bench and took out a plain black mask with no decoration beyond a narrow edge of red thread.
+
+"This one might suit you."
+
+Thalia took it. The surface was slightly rough where the paper had dried, but the eyeholes were cut carefully. It was a child's idea of mysterious, which meant it had more honesty than the glittering silver thing at the bottom of the box.
+
+"Maybe," she said.
+
+Silena smiled. "That's practically a declaration of enthusiasm."
+
+"Don't get carried away."
+
+By supper the party had spread from the pavilion into the lower meadow. Lanterns marked the paths. A table had been set aside for food and another for games. The younger campers had been given an early hour to show their costumes before the older ones took over the music and the late supper. Chiron watched the proceedings with the patient expression of someone who had supervised several centuries of people using holidays as an excuse to make elaborate fools of themselves.
+
+Thalia arrived wearing the black mask.
+
+Annabeth recognized her immediately.
+
+"That's a poor disguise."
+
+"It's not supposed to fool you."
+
+"Then who?"
+
+Thalia considered. "Anyone with bad eyesight."
+
+Annabeth laughed. She was dressed in a hastily assembled architect's costume, which appeared to consist of her usual clothes, a ruler and a paper hat marked with an exaggeratedly solemn drawing of a column.
+
+"You're dressed as yourself," Thalia said.
+
+"An excellent architect."
+
+"Then you should have fixed the hat."
+
+"That would ruin the concept."
+
+Thalia adjusted the crooked edge anyway. Annabeth tolerated the gesture, then went to help a younger camper balance a cardboard bridge across two benches.
+
+Rhys appeared near the lantern post carrying a small case of musical instruments.
+
+He was wearing no mask.
+
+Thalia looked at him with open disappointment.
+
+"Pathetic effort."
+
+He took in her black mask and smiled. "You're intimidating enough without one."
+
+"That's not an excuse."
+
+"I was told to bring music, not a costume."
+
+"Then you misunderstood the assignment."
+
+He opened the case. Inside were a pair of simple wooden flutes and a small hand drum. He had been helping the Apollo children rehearse for the evening, apparently, and had forgotten to find himself a costume.
+
+Thalia reached into the pocket of her coat. She had brought an extra scrap of black ribbon, intending to tie it beneath the mask if the original string broke. She took it out and held it up.
+
+"Come here."
+
+He leaned closer, obedient but suspicious.
+
+She tied the ribbon around his wrist.
+
+"There," she said.
+
+He looked down. "What am I?"
+
+"A prisoner."
+
+"Of whom?"
+
+"Your terrible decisions."
+
+He laughed. She was suddenly aware of how close they were, of the light falling across his face and the small pleasure of having touched him in full view of the camp without needing to invent a practical excuse. She drew the knot tight enough to hold.
+
+He raised his wrist. "Will I be permitted to play?"
+
+"If you're good."
+
+"I'll try to earn my freedom."
+
+She left him to the music and went to help Annabeth with a row of lanterns. The evening moved quickly. The youngest campers paraded in costumes assembled from scraps of cloth and a surprising amount of engineering. Percy appeared with a sheet draped over his shoulders and announced he was a very frightening ghost. Clarisse informed him that he looked like someone who had lost an argument with a laundry cupboard.
+
+Thalia laughed so hard she had to lean against a post.
+
+Rhys saw her from across the meadow.
+
+She caught him looking. The sight pleased her in a way she made no effort to hide beneath the mask.
+
+***
+
+The late music was for the older campers.
+
+After the youngest group had been sent to their cabins, the lanterns remained lit and the musicians took over the pavilion. Rhys played guitar beside another Apollo instructor. The songs were familiar camp tunes, but they had been arranged with enough skill to make the old melodies sound livelier than usual. People began moving between the tables and the open space near the lanterns, some dancing and some merely pretending not to.
+
+Thalia stood near the edge of the group.
+
+She was not a good dancer. She had discovered that at the amphitheater with Rhys, where her first instinct had been to anticipate every step before he took it. She'd improved when she stopped trying to command the rhythm, but this was a different sort of dancing. There were too many people, too little room, and no obvious rules worth mastering.
+
+Silena came to stand beside her.
+
+"Are you going to stay there all night?"
+
+"Most likely."
+
+"That's a shame."
+
+"Why?"
+
+"Because you look as if you want to join in."
+
+Thalia gave her a narrow look. Silena smiled with the serene confidence of someone who had spent the evening persuading people to wear ridiculous masks and was not about to be intimidated by one more.
+
+"Go on," Silena said.
+
+"I'm not taking orders."
+
+"Then make it your idea."
+
+She moved away before Thalia could formulate a reply.
+
+On the stage Rhys finished the song, spoke to the other musician and set down his guitar. He stepped into the crowd without looking for her at first. He greeted an instructor, laughed at something someone said, then turned toward the lantern post where she'd been standing.
+
+His face changed when he found her.
+
+Thalia felt the familiar little jolt of being recognized in a room full of people.
+
+He came toward her.
+
+"Your mask is slipping."
+
+"I know."
+
+"You could take it off."
+
+"I like it."
+
+He looked at it more carefully. "Then keep it."
+
+She was aware that he'd seen the silver lightning mask earlier, perhaps when Silena carried the box past the range. She was grateful that he didn't ask whether she'd chosen black because of it. There were parts of her family history she didn't want to turn into holiday conversation.
+
+"You're not playing?" she asked.
+
+"Not for the next song."
+
+"Then what are you doing?"
+
+He held out his hand.
+
+Thalia looked at it.
+
+"I thought you might like to dance," he said.
+
+"An ambitious theory."
+
+"Would you like to test it?"
+
+She considered. A dozen people were moving to the next tune, laughing whenever someone got a turn wrong. Nobody looked particularly elegant. That made the invitation easier.
+
+She took his hand.
+
+They joined near the outer ring where there was more room. The music began, quick enough that Thalia nearly stepped into him at once. He caught her hand and guided her through the first turn. She missed the second, recovered and laughed.
+
+"Your timing is terrible," she told him.
+
+"I'm following the music."
+
+"Then the music is wrong."
+
+"An interesting criticism of an entire band."
+
+She looked up at him, smiling. He was not trying to teach her the steps. He was moving with her, adjusting when she moved and laughing when they both failed. For several minutes the rest of the pavilion faded to lantern light, music and the immediate pleasure of being close enough to feel his hand at her waist.
+
+She understood, suddenly, why people liked dancing.
+
+It wasn't because the movements were useful. It was because someone else could share the same rhythm without requiring the same decisions. They could begin and end a movement together, then separate, then find each other again, and the space between didn't have to be treated as loss.
+
+The song ended. Thalia stopped with one hand resting against Rhys's shoulder.
+
+He was grinning.
+
+"What?"
+
+"Nothing."
+
+"You're going to tell me I did well."
+
+"I was going to tell you I had fun."
+
+She looked at him. Her first response was to deflect. Instead she smiled.
+
+"So did I."
+
+He kissed her cheek, brief enough to be almost lost in the noise of the pavilion. Thalia felt it more keenly than she'd expected. She turned toward him, put her hands against his chest and kissed him properly, still wearing the black mask.
+
+Someone whistled from a nearby table.
+
+She broke the kiss and looked over. An older camper raised both hands in surrender.
+
+"Didn't say anything!"
+
+"Keep it that way," Thalia replied.
+
+Rhys was laughing. She caught his arm and pulled him toward the quieter edge of the pavilion before somebody decided to make another remark.
+
+***
+
+They escaped to the meadow after the final song.
+
+The lanterns were being extinguished one by one, leaving the grass dark beneath the stars. Thalia took off the mask and held it by the ribbon. Her cheeks were warm despite the cold air.
+
+Rhys stopped beside the low fence.
+
+"That went well."
+
+"For a disaster."
+
+"You didn't look unhappy."
+
+"I wasn't."
+
+He smiled. "Good."
+
+She looked at the black mask in her hand. She'd nearly refused to come because the holiday reminded her too much of the father who sometimes appeared in the shape of a stranger and expected to be recognized without earning the privilege. She'd nearly stayed home because she didn't want people looking at her, deciding what sort of daughter of Zeus ought to enjoy a celebration.
+
+Tonight nobody had asked her to be anything more specific than herself.
+
+"Thank you," she said.
+
+Rhys looked surprised. "For what?"
+
+"The dance."
+
+"I enjoyed it."
+
+She considered saying something more. She could tell him about the silver mask, about how she'd stared at it and felt the old anger rise, about the way she'd chosen the black one because she wanted to be unrecognizable to anyone expecting lightning. But the night had been good, and she didn't need to turn it into an explanation of her father.
+
+She reached for his hand.
+
+"Come with me," she said.
+
+He did. They walked a little way into the dark, where the music had faded and the camp was preparing for sleep. She stopped beside the last lantern still burning and kissed him.
+
+The kiss was warm and a little breathless after the dance. He drew her closer, and she felt his laughter fade into a quieter eagerness. For a moment she wanted to remain there until the lantern went out, feeling the cold air against her cheeks and his hands warm at her back.
+
+When she drew away, he looked at the mask in her hand.
+
+"You're keeping it?"
+
+"I think so."
+
+"Good."
+
+She glanced up at him. "Any objections?"
+
+"Only that you were much too easy to recognize."
+
+She laughed.
+
+At Cabin One she hung the mask beside her coat. Annabeth was already asleep. The room smelled of wood and the faint clean scent of the blanket drying by the stove. Thalia took off her boots, put away the mask and lay awake for a while remembering the dance.
+
+She liked that the night had not belonged to Zeus, or to the camp's expectations, or to a story someone else told about her. It had been hers. Rhys had shared it because she'd invited him.
+
+That was enough.
+
+---
+
 ## Wednesday, November 1: A Room with Her Name in It
 
 Thalia had never wanted a room of her own as badly as she did after she began spending evenings in someone else's.
