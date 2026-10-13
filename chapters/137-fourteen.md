@@ -240,6 +240,53 @@ Annabeth closed her notebook with a snap. "Finally. Took him long enough."
 
 ---
 
+The day had one last chore for Percy.
+
+At the equipment shed, Clarisse found him putting away the practice shield he'd used that morning. The strap had a torn stitch near its edge. He might not have noticed it if she'd let him hang the shield immediately.
+
+"That needs fixing," she said.
+
+"I can do it."
+
+"Can you?"
+
+"Silena taught me."
+
+"Then ask her to inspect your work. That leather's been stretched."
+
+He carried the shield to the sewing table where Silena was sorting thread. She showed him how to add a reinforcing strip on the inside rather than pulling the old stitches tight around the weakened hole. Percy's first line wandered badly. He removed it and tried again.
+
+By the third attempt, the strap held. Silena tugged it sharply, checked the buckle and said he could take it back for inspection.
+
+Clarisse tested the grip with her forearm. "Good enough to put back in service."
+
+"High praise."
+
+"Don't get used to it."
+
+She made him record the repair in the equipment log. The signout sheet showed another camper had used the shield in the previous training session, and the damaged strap might have been overlooked for days if nobody had checked it. Percy added the date and the materials they'd used.
+
+"Does every birthday involve paperwork?" he asked.
+
+"Only the good ones," Clarisse replied.
+
+He returned to the cabin to wash the thread marks from his fingers. Annabeth arrived a few minutes later carrying a lake chart and asked whether he still wanted to take the canoe out after dinner.
+
+"Yes. With actual permission this time."
+
+"I wasn't going to let you steal it."
+
+"I was going to borrow it in a very charming way."
+
+"Then we can charm the dock watch into signing it out."
+
+They went together, checked the return time, and made sure the marked route stayed clear of the reeds in the fading light. The counselor on watch handed them the equipment list. Percy signed for the boat, and Annabeth checked the life jackets.
+
+It was a small task, not the sort of thing anyone would put in a birthday speech. But Percy was learning to enjoy doing something carefully without turning it into a heroic test. A shield with a repaired strap, a signed-out canoe, and the prospect of an hour on the lake with Annabeth were ordinary enough to suit him.
+
+
+---
+
 Dusk poured honey over the canoe lake.
 
 Percy and Annabeth signed out a canoe from the evening dock watch, checked their paddles and fitted their life jackets before they pushed off. Birthday or not, the lake rules still applied. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
