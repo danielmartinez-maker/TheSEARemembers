@@ -836,7 +836,17 @@ They staggered onto the porte-cochere gasping, sweating instantly.
 
 Eva stumbled out with them, still holding the empty hand that had carried her clipboard. She looked back at the doors once and asked if she was really allowed to leave. Martin told her that nobody at the Lotus had authority to force her back inside. He offered to take her to a trusted contact near the highway, where she could begin finding out how long she'd been trapped and whom to contact at home.
 
-She chose to wait outside with them rather than step back through the doors. Percy couldn't promise what she'd discover. He could see that making the choice for herself mattered. Behind them doors turned, gold spilling, music leaking.
+She chose to wait outside with them rather than step back through the doors. Percy couldn't promise what she'd discover. He could see that making the choice for herself mattered.
+
+Annabeth offered Eva the travel notebook so she could write down her own account before the details began to blur again. Eva wrote that she remembered arriving for a summer job, but couldn't tell whether that summer had happened last year or long before. The uncertainty frightened her.
+
+"Don't invent a date," Annabeth told her. "Start with what you're certain you saw."
+
+Eva wrote the name she'd used at the desk, the location of the staff room, and the fact that the hotel had kept presenting another checkout task whenever she tried to leave. Her hand steadied as she worked.
+
+Martin checked the phone number for the safe contact and made certain somebody would meet them at the next stop. He said Eva could decide whom to notify once she had a chance to rest somewhere the clocks behaved normally.
+
+Percy watched the woman tuck her notes into her pocket. A half hour earlier he would have thought rescuing one person from a hotel full of guests meant they had done too little. Now he saw that one person could carry evidence, make a report, and help another visitor find the way out. It was not a reason to forget the people inside. It was a reason to leave enough information for the people who would try to help them. Behind them doors turned, gold spilling, music leaking.
 
 Thalia sat hard on hot concrete, head between knees. Grover knelt, hands on real dirt by a planter, breathing like surfacing. Percy swayed, still holding Annabeth's hand.
 
