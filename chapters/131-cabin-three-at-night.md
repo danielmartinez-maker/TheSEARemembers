@@ -540,6 +540,30 @@ After a while Silena's head dipped against Clarisse's shoulder, hair tickling wa
 Beyond windows the sky began to pale, gray to pearl. No one fetched a clock.
 ---
 
+A knock sounded at the cabin door before the first light had fully reached the bunks. Percy sat up, already braced for a summons. It was only one of the younger campers from the canoe shed, carrying a note for Clarisse about a borrowed practice shield.
+
+Clarisse read it in the doorway. The boy had expected her to take the shield back immediately, and his face fell when she told him it could wait until after breakfast.
+
+"But you said to return it first thing."
+
+"I said before today's drills. The drills aren't until nine."
+
+"I thought first thing meant now."
+
+"Then I wasn't clear."
+
+She took the note, wrote the new time on the back and handed it to him. "Bring it to the arena by eight-thirty. Don't wake up anyone else over a shield."
+
+When she closed the door, Percy looked at her. "You just admitted you gave a confusing instruction."
+
+"Keep talking and I'll give you another."
+
+Silena, still beneath her blanket, laughed. "It's a historic morning."
+
+Clarisse set the note on the worktable. "The kid was trying to do what I asked. I don't need him scared of being late when there isn't a deadline."
+
+She went to the small kettle without explaining the decision again. Percy liked that she hadn't turned it into a speech. A shared cabin meant interruptions and misunderstandings; the family could fix one without deciding it threatened everything.
+
 Windows turned gray, then pearl, light seeping like water. Percy watched light find the cabin piece by piece: Silena's mug lip glinting, worn quilt stitching casting tiny shadows, coral token at Clarisse's wrist warming to rose, and last the photograph above his bed, faces emerging from silver dark.
 
 He thought of the beach Clarisse described, Sally's hallway lamp, Tyson's bell too loud for ordinary mornings, Silena waiting to see if room existed without asking. None fixed by telling. Still true, and now shared.
