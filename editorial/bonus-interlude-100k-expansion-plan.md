@@ -18,7 +18,7 @@ The heart of both books is private adult intimacy: attraction, anticipation, con
 ## Locked context and continuity
 
 - Both stories follow Chapter 193, *The Heel*, with Thalia at **18**, Rhys at **19**, and younger Percy/Annabeth at **14** in the late-arc working baseline. Sexual intimacy concerns the **two adults only**; younger characters must not enter adult intimacy scenes.
-- *The Long Winter* opens Monday **October 23**. *The Sunday Afternoon* opens Sunday **November 5**, nine days later in the existing sequence. The weekday/date pairing is deliberate. If the calendar's year becomes explicit, recheck it.
+- *The Long Winter* opens Monday **October 23**. *The Sunday Afternoon* opens Sunday **November 5**, thirteen days later in the existing sequence. The weekday/date pairing is deliberate. If the calendar's year becomes explicit, recheck it.
 - Thalia's heel is injured before the first encounter. Its treatment and recovery influence mobility and private decisions, but it should not consume an entire romance book as a medical subplot. Chiron's evaluation and training restriction remain consequences.
 - Rhys is an Apollo son who returned for winter. Thalia is a daughter of Zeus and Beryl Grace, biological sister to Annabeth and Jason. Percy, Clarisse, Silena are Poseidon's children.
 - Only Percy and Annabeth remember the erased future. Thalia does not. Amphitrite does not learn Percy's displacement. Do not revise the time-rewrite mystery or parentage to create romantic stakes.
