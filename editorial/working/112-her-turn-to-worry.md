@@ -343,3 +343,369 @@ They stayed on the dock until the lamps around camp began to come on. Annabeth d
 When they stood to leave, he picked up the fishing line and carried it to the disposal bin. It was an ordinary piece of care for a place he also called home.
 
 ---
+
+Annabeth came back to Cabin One with damp shoes and a mind full of things she had promised herself she wouldn't organize.
+
+Thalia was at the table, sorting clean bandages into a wooden drawer. The drawer had three compartments. Thalia had filled them according to her own system: strips she could grab quickly, strips she thought she might need and strips she called useless until someone else asked for them.
+
+"You're late," Thalia said.
+
+"Percy and I went for a walk."
+
+"I assumed."
+
+Annabeth put her shoes beside the door rather than beneath the bed. She wanted them to dry, and she didn't feel like having another argument about muddy footprints.
+
+"Do you know how camp leave works?" she asked.
+
+Thalia's hand stopped over the bandages.
+
+"For what?"
+
+"If someone wanted to visit family for a while. Not forever. Just longer than a weekend."
+
+"Depends on the family."
+
+"I mean the permission."
+
+"Chiron has to know where you're going, how you'll travel and whether somebody will be expecting you."
+
+"Do you need a signed letter?"
+
+"If the person asking is still under camp supervision, probably. Why?"
+
+Annabeth realized she'd opened the drawer of questions she'd told herself to leave closed.
+
+"No reason," she said.
+
+Thalia gave her a look.
+
+"Fine. There is a reason. Percy's been thinking about Atlantis."
+
+"Is he going?"
+
+"He hasn't decided."
+
+"And you're finding out how he'd get permission?"
+
+"I thought I could save time."
+
+"Did he ask?"
+
+"No."
+
+Thalia slid the remaining bandages into their compartments. "You know what you're about to do, right?"
+
+Annabeth sat on her bed, irritated by how quickly her sister had found the point. "I'm asking one question."
+
+"You started with one question."
+
+"That's generally where people start."
+
+Thalia closed the drawer. "Then what happens? You find the travel rules, you work out a schedule, you go to Chiron, and Percy discovers everybody's discussed a trip he hasn't decided he wants."
+
+"I wasn't going to do all that."
+
+Thalia waited.
+
+Annabeth looked away. She had already worked out which camp duties Percy would need covered if he left for more than a few days. She hadn't written them down, but she had been thinking about them. That didn't make her a bad person. It made her someone who knew how easily plans failed when nobody did the work in advance.
+
+"I hate not being able to fix things," she said.
+
+"So do I."
+
+"You were going to say that's not what he needs."
+
+"I was going to ask whether you've eaten anything since dinner."
+
+Annabeth frowned. "I was at dinner."
+
+"And you spent most of it drawing in the margin of a napkin. I saw how much you actually ate."
+
+"Oh, don't start."
+
+"I haven't started. There's bread in the basket. Eat some."
+
+Annabeth took the bread, mostly to keep Thalia from making another point. It had gone a little stale, but there was honey on the table. She sat at the workbench and spread some on a piece.
+
+Thalia pulled out her own chair. "You want to know what I think?"
+
+"Will it be about bread?"
+
+"No."
+
+"Then go ahead."
+
+"You're allowed to ask Percy what he wants. You're allowed to say you'd miss him if he went away for a while. You don't have to pretend you have no preferences."
+
+"I know."
+
+"But if he hasn't made a decision, don't make one for him because the waiting is uncomfortable."
+
+Annabeth bit into the bread. She didn't like the advice because it was harder than a travel plan. At least a travel plan had blanks she could fill in.
+
+"What would you do about Jason?" she asked.
+
+Thalia's face changed. She didn't reach for the bandages again. "What do you mean?"
+
+"If he told you he didn't know whether he wanted to stay at Camp Jupiter or visit more often. Would you wait for him to figure it out?"
+
+"That depends what he told me and what was possible."
+
+"You'd make a list."
+
+"Probably," Thalia said. "I might even annoy him by asking too many questions."
+
+Annabeth smiled faintly. "There you go."
+
+"But I wouldn't book a trip he hadn't asked for."
+
+"You'd want to."
+
+"Very much."
+
+Thalia picked up the empty honey jar and turned it to see whether there was any left in the bottom.
+
+"The worst part of loving somebody who has a life somewhere else," she said, "is that sometimes you want to pull all the pieces close enough that you can see them. It doesn't make them fit."
+
+Annabeth looked at her. Thalia was staring at the jar, not at her. It was rare for her sister to speak plainly about Jason being far away. Normally she made a joke about Roman discipline or sent him a letter full of practical advice. Annabeth had asked an unfair question, and Thalia had answered it anyway.
+
+"You miss him," Annabeth said.
+
+"Yes."
+
+"Do you want to write to him?"
+
+"I already started." Thalia pointed at a sheet of paper near the bandage drawer. Half a page was filled with cramped handwriting. "I keep putting it aside because I can't think of how to finish it without sounding like his mother."
+
+"You're his sister."
+
+"I know. I helped raise him for a while, and sometimes I forget I don't get to tell him where to be."
+
+Annabeth pulled the paper closer, then stopped. "Can I read it?"
+
+"Not yet."
+
+"Okay."
+
+They sat for a little while without talking. Annabeth finished the bread and closed the honey jar. Then she spread out the roof diagram they'd been working on together.
+
+"The outlet still points into the walkway," she said. "If we rotate the last piece here, the water will miss the step."
+
+Thalia leaned in to look. "Would it hit the rosebush?"
+
+"Only if we let the pipe end too low."
+
+"Then we can raise it."
+
+They worked until the late lamps were lit. Annabeth liked that her sister could be practical and stubborn and funny about a piece of gutter, and could also tell her something true about missing Jason without making the whole evening about him.
+
+Before bed, she put the leave question aside. She didn't write down a schedule. She would have liked to.
+
+That was probably why she needed not to.
+
+---
+
+The next morning Percy went to the canoe lake with Clarisse, and the argument started before they had turned over the boat.
+
+Clarisse had volunteered to fix a loose thwart in one of the smaller canoes. Percy had volunteered after she did, which she suspected was the problem. He'd been following her around the cabin for two days, offering to fetch tools she could reach and carry loads she could lift. Ordinarily she'd have enjoyed making him do the annoying parts of her jobs. Today she wanted the work to be quiet.
+
+"Hold the bow," she told him.
+
+Percy took the bow.
+
+"Not like that. If you pull toward yourself, the whole thing tips."
+
+"Got it."
+
+He adjusted his grip. They rolled the canoe onto a pair of padded supports, and Clarisse checked the wood around the loose seat brace. The screws had been pulling out for months. She could have fixed the damage with a new block and two bolts, but she wanted to see how far the rot had spread first.
+
+Percy leaned over her shoulder.
+
+"Can I help?"
+
+"You're helping. You're holding the boat."
+
+"I meant with the repair."
+
+"Then get me the chisel."
+
+He handed it over. She worked beneath the seat, careful not to gouge the sound timber. The canoe rocked against the supports when Percy shifted.
+
+"Hold still," she snapped.
+
+"I am."
+
+"You're moving."
+
+"Because my foot is falling asleep."
+
+"Then change feet without moving the boat."
+
+He looked at her for a moment, then adjusted his stance.
+
+A minute later he said, "Triton wouldn't use wood for this."
+
+Clarisse stopped cutting. "Wouldn't he?"
+
+"He said they use a different frame for the smaller boats. The joints can move with the current without coming loose."
+
+"That's interesting."
+
+"I could ask him about it."
+
+"We're fixing a canoe. Not building an Atlantean fleet."
+
+Percy looked hurt, and Clarisse was immediately annoyed with herself for noticing.
+
+"I wasn't saying we should change it," he said. "I was just telling you."
+
+"Then tell me after I've got the seat off."
+
+He went quiet.
+
+Clarisse kept working, but the silence settled around them like bad weather. She had heard his sea stories before. He was proud of Triton and Amphitrite, proud of belonging somewhere that had rooms he knew and people who could find him without asking. She liked that he had them. She also remembered what it felt like to be the daughter who hadn't grown up with the same kind of place waiting for her.
+
+Percy was the youngest. That didn't mean he knew less. Sometimes it meant he had been given things the older two had only learned existed.
+
+She pulled the damaged block loose. The wood came away in pieces.
+
+"Well," she said. "That's worse than I thought."
+
+Percy leaned forward, then stopped himself. "Can I see?"
+
+"Yes."
+
+He studied the damaged joint. "We could replace the whole brace."
+
+"That's what I was thinking."
+
+"Charlie might have the right wood."
+
+"He does. I checked."
+
+"You already asked him?"
+
+"Yesterday."
+
+Percy whistled under his breath. "You are annoyingly prepared."
+
+"One of my more attractive qualities."
+
+He laughed, briefly. Then he reached for the old block and turned it in his hand.
+
+"Sorry I kept interrupting," he said.
+
+Clarisse took the chisel back. "Sorry I snapped."
+
+"Was the Triton part annoying?"
+
+She didn't want to lie. "A little."
+
+"Why?"
+
+"Because we're working here. And sometimes it feels like you're comparing what we have to what they have."
+
+Percy looked from her to the damaged canoe. "I wasn't trying to."
+
+"I know."
+
+"Do you want me to stop talking about Atlantis?"
+
+"No. Then you'd go around acting as if we were made of glass, and I'd have to hit you with something."
+
+He grinned. "That seems fair."
+
+"Percy, listen. You get to miss people. You get to talk about them. I can be glad you've got them and still not want every problem in our cabin solved by something somebody built under the sea."
+
+He was quiet for a while. Then he set the old block aside.
+
+"Can I ask you something?"
+
+"Depends."
+
+"Do you like visiting Atlantis?"
+
+Clarisse looked toward the lake. She had never been able to feel its currents the way Percy could, but she knew how the surface changed when wind came through the trees. Small ripples were moving toward the beach. She had wanted to finish the canoe before the afternoon training group arrived.
+
+"Some parts," she said.
+
+"Which ones?"
+
+"The training courts. A kitchen where nobody expects me to be polite. A corridor where the windows look out over the dark water and you can see the lights from other buildings."
+
+"Those sound like good parts."
+
+"They are. Other parts make me feel as if I'm borrowing somebody else's clothes."
+
+Percy frowned. "What do you mean?"
+
+"I mean they know you. Not just your name. They know where you used to sit and what you liked to eat and what you said when you were little. They look at me and try to figure out what kind of daughter I am."
+
+Percy pressed a thumb into the rotten block. He understood less of this than Clarisse wanted him to, and perhaps more than she realized. She could see him thinking.
+
+"They expect things from me too," he said.
+
+"Sure."
+
+"Sometimes I don't know what they're talking about."
+
+She glanced at him. "You mean they tell old stories you don't remember?"
+
+"Yeah."
+
+That was true enough, and it wasn't everything. Clarisse could tell there was something he couldn't explain, but she had learned not to pry every time he went quiet. Everybody had pieces of childhood they didn't enjoy talking about.
+
+"Then ask," she said. "Let them tell you the story again."
+
+"They think I should know it."
+
+"People can think all sorts of stupid things."
+
+He smiled. "You've built a philosophy around that."
+
+"It's served me well."
+
+Clarisse fitted the new block against the cleaned joint. Percy held the brace level while she marked the bolt holes. They worked together in a much better silence. When the bolts were tight, they lifted the canoe onto the ground and tested the seat. It didn't move.
+
+"There," Clarisse said. "One thing that works."
+
+Percy sat on the edge and bounced experimentally. The canoe creaked but held.
+
+"One thing," he agreed.
+
+She handed him the sponge and told him to clean the sawdust out of the bottom. He obeyed without argument, which was enough to convince her the conversation had helped.
+
+When they finished, Clarisse signed the repair sheet and gave it to him to carry to the boat rack. She didn't say anything else about Atlantis. She wasn't sure she was finished being jealous of pieces of his childhood, and she wasn't going to pretend otherwise.
+
+But when Percy asked whether she'd be willing to visit together someday, she considered before answering.
+
+"Maybe," she said. "If it's a visit and not a campaign to make everybody happy."
+
+"Okay."
+
+"Ask Silena too. Don't assume she wants the same thing."
+
+Percy nodded. "I will."
+
+Clarisse pushed the canoe toward the water. "Now help me launch this thing. I want to know whether we fixed it before the younger campers get here."
+
+He grabbed the opposite side. Together they carried it down to the lake.
+
+---
+
+Annabeth reached the canoe lake just as Clarisse and Percy were bringing the repaired boat back to shore.
+
+She had a note from Chiron for the equipment shed, and she'd been about to turn toward the cabins when she heard Clarisse call for more weight on the stern. Percy adjusted his position, and the canoe came in level. They lifted it together, dripping water onto the grass.
+
+For a moment she was about to hurry down to help.
+
+Then she saw Clarisse laughing at something Percy had said. He laughed too, and they set the boat on the supports without dropping it. Whatever had been bothering them, they had done their own work through it.
+
+Annabeth kept walking.
+
+She delivered the note, then went to find Thalia. For the first time that morning, she was able to think about the gutter without imagining what Percy might be doing at the same moment.
+
+It wasn't indifference. It was the simple fact that other people had relationships with him that didn't require her management.
+
+---
