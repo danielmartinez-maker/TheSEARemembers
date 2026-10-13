@@ -248,6 +248,89 @@ She drew the mosaic, leaving the edges unfinished and the blue house more room t
 
 ---
 
+There was a drawing archive behind the family garden, its doorway framed by coral carved into two moving waves. Annabeth spotted it at once and asked whether the visitors could go inside.
+
+"The archivist is working," Triton said. "We can ask."
+
+The archivist was bent over an old channel plan. She looked up when they entered, listened to the request and directed them to two public folios. She also gave them a warning: some of the early copies were inaccurate because they had been drawn before the last renovations.
+
+"How do you tell which version is right?" Annabeth asked.
+
+"Compare the drawing with dated work orders, then with the actual structure. Old ink isn't proof of an old wall."
+
+Annabeth made a note. Percy could see how happy the answer made her.
+
+The first folio showed the garden before the eastern channel was narrowed. The second showed the later repair, including an anchoring ring that had since been moved. Annabeth traced the changes without touching the paper.
+
+"That's why the nursery shelf took more pressure," she said. "The water couldn't follow its old route."
+
+The archivist examined her sketch. "You were at the nursery?"
+
+"We helped during the repair. The gardener gave us permission to observe."
+
+"Then you've seen what the drawing leaves out."
+
+Silena found a set of fabric patterns on a neighboring shelf. Several showed how weighted curtains could move in a current without tearing away from their upper fastenings. She asked whether a working copy was available. The archivist gave her an approved sheet and a warning that some of the materials were difficult to use in dry air.
+
+"I'll test them at camp," Silena said.
+
+Clarisse, meanwhile, had noticed that one of the old plans showed the infirmary beyond a passage too narrow for carrying injured people.
+
+"Is that still the route?" she asked.
+
+"No. The infirmary moved years ago."
+
+"Then put a correction on this drawing. Somebody might use it because it's on the public shelf."
+
+The archivist considered the page and agreed. She attached a note directing visitors to the current map.
+
+Percy wandered toward a little wooden model displayed beneath a glass cover. It showed a floating training stage with six posts, one darker than the others. Beneath it was a caption bearing his name.
+
+"That's yours," Triton said, coming up beside him.
+
+"How do you know?"
+
+"We built it for your lessons when you were small."
+
+Percy looked at the model. He had no memory of the stage, though he could imagine how it might have felt under his feet.
+
+"Did I help?" he asked.
+
+"You carried the spare fittings. You insisted you were capable of tightening them yourself."
+
+"Did I do a good job?"
+
+"You put one in the wrong hole."
+
+Percy laughed. "That does sound like me."
+
+Triton opened a work ledger to the old entry. The record listed the materials and the people who had performed the repair. Percy's name appeared as an assistant, with Triton's as the supervising worker.
+
+"I can give you a copy," Triton said.
+
+"I'd like one. But label it as a record, not as something I remember."
+
+His brother nodded. "Of course."
+
+They went to Amphitrite with the copied entry. She recognized the incident and told Percy about the day the stage had rocked in its fittings. She remembered how angry he'd been when Triton made him stop practicing until the support was repaired.
+
+"Did I actually break it?" Percy asked.
+
+"No. The fastening wore loose. You believed you had done something wrong until your brother showed you the problem."
+
+"I wish I remembered."
+
+"I know."
+
+She didn't try to persuade him that the story ought to awaken a memory. He was grateful for that. Her account gave him a better picture of the childhood she knew without forcing him to claim it as his own.
+
+Before leaving, Annabeth asked to see the current route from the training pool to the medical rooms. The archivist supplied it, along with the name of the staff member responsible for keeping the diagram updated.
+
+Percy put the copied ledger entry in his bag. His sisters had gathered their own useful information: fabric patterns, safer routes, and a method for checking whether a drawing described a structure that still existed. The palace was becoming less like an exhibit arranged for their admiration and more like a place where people worked, sometimes made mistakes and had to correct them.
+
+
+---
+
 The training pool was built into a broad chamber near the eastern side of the palace. Its water was a deep green, fed by the sea through bronze grates. A narrow gallery ran above it, with practice spears and wooden shields on racks. The pool floor was a mosaic of a hippocamp, its mane flowing around the tiled curves.
 
 He knew the room by its bright echoes — Triton’s calls from the gallery, splashes from the shallow end, salt-sharp and sun-warmed. Triton described floating first in the nursery pool, then swimming here, and the long effort of teaching Percy not to steer with his hands.
