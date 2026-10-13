@@ -1245,3 +1245,235 @@ Percy didn't argue. Silena stood and offered her an arm for the downhill stretch
 They returned to Cabin Three at a slow pace, with enough silence for her to hear the ordinary sounds of camp again.
 
 ---
+
+Three days later, when her fever had stayed down and Will was satisfied with her recovery, Clarisse was cleared for light training duties.
+
+Light meant watching. It meant demonstrating a stance without taking hard impacts and stepping away before her legs started trembling. It did not mean resuming the full assessment schedule she'd written before she got sick.
+
+Clarisse disliked the terms, but she had been given a choice: accept them or remain off duty longer.
+
+She accepted them.
+
+The arena looked different from the low bench beside the equipment rack. From there she could see how the younger campers grouped themselves before an exercise, which ones watched the instructors and which ones watched their friends. She could also see Percy moving between stations with the revised scoring sheet tucked under his arm.
+
+He wasn't pretending to be her. He spoke more quietly, asked questions when he didn't know a rule and stopped a task when somebody was careless. He still made jokes at bad moments. One camper laughed so hard at something he said that she dropped her practice shield onto her foot.
+
+Clarisse rolled her eyes and made a note.
+
+Chiron came to stand beside her.
+
+"You're supposed to be observing," he said.
+
+"I am."
+
+"Then perhaps you could observe without writing another assessment plan."
+
+"This is one page."
+
+He looked at the stack beneath her hand.
+
+"Fine. Three pages."
+
+Chiron said nothing.
+
+Clarisse sighed. "I know. I'm not leading the whole session."
+
+"What do you see from here that you couldn't see while giving commands?"
+
+She looked toward the rescue-carry station. The younger camper who had fallen earlier was waiting for his turn again. This time he watched two older campers demonstrate the lift. He didn't look happy, but he was paying attention.
+
+"He's doing it differently," she said.
+
+"Who?"
+
+"That one from Hermes. He was rushing before."
+
+Chiron nodded. "And why do you think he changed?"
+
+"Because Percy made him start over."
+
+"Or because he was given another attempt without being treated as a failure."
+
+Clarisse looked at Chiron.
+
+"Both," she said.
+
+"Quite possibly."
+
+She hated when he was reasonable. It made her feel as though she had been arguing with him for years about things he had already considered.
+
+At the next rotation, Percy came to the bench and showed her the scores.
+
+"Any problems?" he asked.
+
+"Two. That one's bracing too high, and the left foot mark needs a clearer explanation."
+
+Percy examined the sheet. "I thought you'd say that."
+
+"Then why'd you mark it this way?"
+
+"Because I wanted you to confirm it before I changed the score. We're supposed to use the same standard."
+
+Clarisse studied him. He looked tired, but not uncertain. He wasn't handing her the whole job because he was afraid to do it. He was checking a detail that mattered.
+
+"All right," she said. "Bring the group here for one demonstration."
+
+He called them over. Clarisse stayed seated and showed them with a wooden practice stick how the foot should turn before the body followed. When one camper copied the motion too quickly, she stopped him and explained why the weight needed to stay over the center of the stance.
+
+She didn't raise her voice. They could hear her anyway.
+
+"Again," she said.
+
+They repeated the movement. The boy from Hermes did it properly this time, then looked at her as though expecting a correction.
+
+"Good," Clarisse said. "Now do it slowly enough that you know why it works."
+
+His shoulders loosened. He tried again.
+
+When the rotation resumed, Percy took the sheet back and marked the change. He didn't thank her in front of everyone. He knew she would have hated that. Instead he set her water flask within reach and asked whether she needed a break.
+
+"Not yet," she said. "But I'll tell you."
+
+He nodded and went back to work.
+
+The answer had surprised her. She'd said it without calculating how to sound stronger than she felt. She could tell him when she was tired. He could believe her.
+
+She reached her limit before the last rotation. She got up, told Chiron she was finished for the day and walked back to the cabin without being ordered. It stung less because she'd made the decision herself.
+
+---
+
+Silena had arranged an early supper on the Cabin Three porch when Clarisse returned.
+
+There was a loaf of bread, a pot of soup from the kitchens and a small bowl of sliced fruit. Annabeth sat on the steps with her drawing board balanced on her knees, comparing two sketches of the amphitheater stage. Percy was at the table, trying to mend the handle of a basket with string.
+
+"You brought the whole workshop home," Clarisse said.
+
+Percy looked at the basket. "It was broken."
+
+"Everything you touch is broken."
+
+"That's not fair. Sometimes I break things on purpose."
+
+Annabeth looked up. "Please don't."
+
+Silena slid a bowl toward Clarisse. "How was light duty?"
+
+"Light."
+
+"Did you stay the whole session?"
+
+"No."
+
+"Good."
+
+Clarisse sat down and tasted the soup. This one had more vegetables and a thicker broth than the batch Percy had made.
+
+"Not bad," she said.
+
+Silena lifted an eyebrow. "I'll tell the kitchen staff you approve."
+
+"Don't. They'll make me review the menu."
+
+Annabeth set down her sketches and came to the table. She asked whether the younger campers had improved on the stance exercise, and Clarisse spent several minutes explaining it. Annabeth listened closely enough to compare the foot placement to the way a building carried weight.
+
+"That's an interesting comparison," Clarisse said.
+
+Percy turned toward her. "Was that a compliment?"
+
+"No."
+
+"Sounded like one."
+
+"You're hearing things."
+
+He grinned, and she threw a piece of bread at him. He caught it and ate it.
+
+They talked through supper. Silena described Katie's plans for the garden room. Annabeth told them Chiron had approved the amphitheater repair and that she wasn't going to redesign the entire structure. Percy announced that this was a historic victory for restraint. Annabeth informed him he was not allowed to put that phrase in any report Chiron might read.
+
+Clarisse watched them. Before she'd become ill, she'd feared that missing the assessment would prove how little she was needed. The session had continued without her. Scores had been recorded, shields repaired, campers trained. Nothing terrible had happened because she'd spent several days in bed.
+
+The result should have made her feel irrelevant. Instead she could see what her teaching had done. Percy knew how to run the stations because she'd taught him. Silena knew when to step away because the two of them had spent years negotiating what care meant. Annabeth could sit at their table without becoming a substitute sister, bringing her own work and asking questions that didn't sound like anyone else's.
+
+There was space for all of them, even when one person had nothing useful to do.
+
+When supper was finished, Percy collected the bowls. Clarisse offered to carry the pot inside. Silena passed it to her without giving a speech about whether she should be lifting things. It was light, and Clarisse could carry it.
+
+That felt good.
+
+---
+
+A few days after that, Will checked Clarisse one last time and gave her permission to resume ordinary practice gradually. He reminded her that stamina could lag behind the end of a fever. Clarisse promised to start slowly and meant it, at least for the first few hours.
+
+Percy found her in Cabin Three sorting the practice weapons.
+
+"Want to test something?" he asked.
+
+Clarisse looked up. "What?"
+
+He held out a wooden spear. "Footwork. No hard contact. A slow-motion duel."
+
+"You're challenging me in my own cabin?"
+
+"I wouldn't dare challenge you in public until I had a chance of winning."
+
+"Smart."
+
+Silena was at the worktable, putting away brushes. Annabeth had come by to return a book and was standing near the door. Both looked over.
+
+"Are you supposed to be sparring?" Silena asked.
+
+"Light practice," Clarisse said. "He asked for slow. I can do slow."
+
+"That's what he says until he gets impatient," Annabeth replied.
+
+Percy looked offended. "I can be patient."
+
+Clarisse pointed the wooden spear at him. "Prove it."
+
+They cleared a space between the bunks. Nobody swung hard enough to strike the walls, and the rule was simple: a point for touching the opponent's shoulder with the padded end, no body checks and no running. Clarisse moved carefully, concentrating on balance instead of speed. Percy tried to draw her into a faster exchange, then caught himself and slowed down.
+
+She took the first point with a clean turn.
+
+"You're still the baby," she told him.
+
+"That wasn't fair."
+
+"Your feet were in the wrong place."
+
+"Again."
+
+They tried another round. He nearly caught her with a feint she'd taught him. She blocked, shifted her weight and tapped his shoulder before he could recover.
+
+"Two," she said.
+
+"You're enjoying this."
+
+"Very much."
+
+He lowered the spear, laughing. She lowered hers too. Her legs were tired, but it was ordinary tiredness now, not the sickening weakness she'd felt in the arena.
+
+"Next time," he said.
+
+"You can try."
+
+Silena came over with a cup of water. Clarisse took it and drank while Percy put away the practice weapons. Annabeth slipped her hand into his when he returned. He turned his palm up and held hers.
+
+Clarisse saw it. She didn't tease them.
+
+Not because she'd become solemn about love, or because she thought Percy belonged to one person more than another. She'd spent days learning that people could care about her without stopping everything else in their lives. Percy could be her little brother, Silena's partner in ridiculous kitchen disasters and Annabeth's favorite person. None of those relationships needed to defeat the others.
+
+She set down the cup and looked at Percy.
+
+"By the way," she said, "you still owe me a proper rematch."
+
+He grinned. "When?"
+
+"When I say I'm ready. And when you stop leaving your left foot open."
+
+Annabeth laughed. Percy groaned and began arguing about how the last point should have counted.
+
+Silena went back to her brushes. Clarisse sat on the edge of her bunk and listened to them bicker. She had a training sheet to finish tomorrow, a sister's painting to admire and a little brother who was getting harder to beat.
+
+Those were good problems to have.
+
+---
