@@ -826,9 +826,9 @@ Thalia stared. Silena continued sewing the strap, giving her time to decide whet
 
 "I know."
 
-"They remember being seventeen. That makes it harder to tell whether they're acting their age or their memories."
+"Annabeth can sound older than she is, and Percy has been through things I don't understand. Sometimes I can't tell when I'm helping and when I'm deciding for her."
 
-"Sometimes it does. But writing funny notes and leaving a stone for somebody you like sounds fairly twelve to me."
+"That isn't easy," Silena said. "But writing funny notes and leaving a stone for somebody you like sounds fairly twelve to me."
 
 Thalia looked at the wax. She was thinking of the letter Annabeth had let her read. Percy had asked whether the thunder frightened her and wished her luck on a test. Nothing about it was dangerous or adult in a way the children weren't ready for. She wanted to be angry because she hadn't known. That was a different problem.
 
