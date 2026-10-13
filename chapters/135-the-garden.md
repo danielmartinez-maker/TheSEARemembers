@@ -268,6 +268,119 @@ Annabeth rose, knees cracking, and went to sight the line, grateful for stone-co
 
 ---
 
+By lunchtime, the first problem with the new garden had become impossible to ignore.
+
+The wheelbarrow had left a groove through the soft earth near the eastern border, and water from the washing station was running down it toward the roots of the olive sapling. Annabeth watched the narrow stream carry bits of soil away every time someone filled a bucket.
+
+"We can't leave that," she said.
+
+Percy followed her gaze. "It's not much water."
+
+"It's enough to wash the edge out if it keeps running. Then the stones settle, the soil slides and the sapling starts leaning."
+
+Clarisse brought the empty wheelbarrow over. "We need another line of stones."
+
+"Not before we solve where the water goes."
+
+"We can move the wheelbarrow."
+
+"That stops the groove from getting deeper. It doesn't move the washing station."
+
+Thalia joined them with a stone in each hand. "Do you want me to put these down?"
+
+"Yes," Annabeth said. "And can you leave that border alone for five minutes while I check the slope?"
+
+Thalia set the stones aside. She'd been trying to help, and the request stung a little, but she didn't argue. Annabeth stretched her cord from the washing station to the lower edge of the clearing. The line fell steadily toward the sapling.
+
+Grover came to look. He crouched, scooped up a fistful of soil and rubbed it between his fingers.
+
+"That's not good for the roots," he said. "They're going to sit in wet soil at the top and dry soil at the bottom. Trees don't like living in two different gardens at once."
+
+"Do you have a suggestion?" Annabeth asked.
+
+"Move the sapling."
+
+Silena looked up from her marigolds. "But we planned the whole bed around it."
+
+"Then we need to decide whether the drawing matters more than the tree," Grover said.
+
+Nobody answered immediately. Annabeth had spent two evenings measuring the clearing, and the olive sapling was at the center of the design. It would be easier to defend the plan than to admit the place she'd chosen had a drainage problem.
+
+She took the drawing out of her pocket and looked at it again. The washing station wasn't on the original map. That was the mistake. She had designed the garden as though the space belonged only to the garden, rather than to a camp that needed water for chores.
+
+"We can put the sapling farther west," she said. "And leave a shallow drainage channel along the east border."
+
+"Can we do that without digging up what Silena planted?" Percy asked.
+
+"Not all of it. We'd have to move the first row of alyssum."
+
+Silena considered the bed. "They're still in shallow holes. I can replant them. But I want Grover to choose the new place with us."
+
+Grover nodded. "I want the soil tested first."
+
+Chiron arrived while they were kneeling beside the drainage groove. He looked at the drawing, then at the water and the shifted stones.
+
+"A revised plan?" he asked.
+
+"Yes," Annabeth said. "We forgot that the washing station drains this way."
+
+"Does the new route cross the footpath?"
+
+"Not if we keep it inside the eastern edge."
+
+"And the stones?"
+
+Thalia pointed to her small pile. "I brought them from the amphitheater."
+
+Chiron looked at the pile. "Were those loose stones intended for repairs?"
+
+Thalia hesitated. "They were sitting beside the wall."
+
+"They may have been set aside by the maintenance crew."
+
+"I didn't ask."
+
+"Then return them until we know."
+
+Thalia gave the stones a sour look. She'd been proud of finding materials without demanding a new supply. Now she had to admit that the materials might already belong to someone else's project.
+
+"I'll take them back," she said.
+
+Clarisse offered to help. Thalia almost refused, then took the offer. They loaded the stones into the wheelbarrow, which still had the wobbling wheel, and headed toward the amphitheater.
+
+Annabeth moved the cord west. Silena gently lifted the first row of plants and set them in damp cloth. Grover dug into the new spot, checked the texture and the depth of the better soil, and pronounced it acceptable.
+
+"Not perfect," he said.
+
+"That's all right," Annabeth answered. "We want it to grow, not win an architecture prize."
+
+Percy held the sapling while they moved it. The roots were smaller than he'd expected, the soil around them loose enough that he was afraid of breaking something without noticing.
+
+"Slowly," Grover said.
+
+"I am."
+
+"A little slower."
+
+Percy slowed. He kept the weight steady while Silena filled around the root ball and Annabeth checked the trunk against the cord. Grover watered the new spot, just enough to settle the soil without turning it muddy.
+
+Thalia and Clarisse returned with permission to use different stones from a maintenance pile near the shed. The proper materials were less attractive, rougher and flatter, but they'd been approved for landscaping rather than structural repair.
+
+"These won't win a beauty contest," Thalia said.
+
+"They'll stay where we put them," Annabeth answered.
+
+They built the drainage edge together. Thalia set the stones, Clarisse carried them, Percy filled the gaps with gravel and Silena replanted the displaced flowers. When they poured one bucket of water at the washing station, it ran along the new channel instead of across the sapling's roots.
+
+Annabeth watched it reach the lower collection bed and disappear into the soil.
+
+"Better," she said.
+
+Chiron made a note to check the channel after the next rain. The garden wasn't finished, and the trial had shown them that a drawing couldn't anticipate every use of a place. Annabeth folded the revised plan and marked the date. She intended to keep both versions, not because she enjoyed displaying her mistakes, but because the changes would explain why the garden ended up looking different from her first idea.
+
+
+---
+
 Afternoon stretched long and amber, and the garden took shape.
 
 Moonvine went in along the north edge, tendrils tied to twine trellises with strips of old camp T-shirts. Lavender formed a hazy blue-green hedge behind the marigolds, leaves releasing camphor and honey when bruised. Alyssum foamed white between stones, petals cool as milk against Annabeth's wrists as she tucked them in. In the center, Silena planted a single olive sapling no taller than Annabeth's forearm, leaves silver-green, stem tied to a cedar stake.
