@@ -469,6 +469,34 @@ The mural existed. Its age, purpose and missing portions remained uncertain. Per
 
 ---
 
+Before they could leave, the maintenance foreman asked Annabeth to show him exactly which turn they had followed. The old stone floor was dry now, but a water stain ran up one wall and disappeared beneath a later patch of mortar.
+
+"That section stays closed," he said. "We don't know what's behind it."
+
+Percy looked toward the dark opening. "Could be another room."
+
+"Could be a drain that hasn't been inspected for decades," the foreman replied. "Or a pocket with poor air. Curiosity isn't a permit."
+
+Annabeth drew a line across the route on her plan. She marked the inspected corridor in ink and the sealed branch in pencil, then added the date and the name of the person responsible for opening it. The difference mattered. A map that showed every possible gap as a passable path would be worse than a map with an honest blank.
+
+Clarisse checked the lanterns and counted the group. "Who has the spare?"
+
+Silena lifted her hand. She held a small lamp she hadn't lit. "I didn't need it."
+
+"Keep it until we get out."
+
+They walked single-file through the surveyed section. At the entrance the foreman fixed a temporary barrier across the stairs. He asked that none of them share the precise access point with younger campers until the work had been assessed. Percy agreed. He knew how quickly a rumor about a hidden passage could become a dare.
+
+"We still found something," he said to Annabeth when they were outside.
+
+"We found enough to know what we don't know."
+
+"That's a disappointing treasure."
+
+"It might be the safest one."
+
+The foreman signed the survey and kept the working copy. Annabeth kept a version marked *not for general circulation*, with the closed branch clearly labeled. The discovery belonged to the camp, not to whoever happened to squeeze through the opening first.
+
 They left the passage to maintenance and carried notes back to Cabin Three, evening cool settling over the path, pine needles soft underfoot and woodsmoke threading the air. Campers still whispered about the discovery. By dinner the story had transformed again: supposedly the mural showed gods building camp with their own hands. Annabeth corrected one version; Chiron promised an announcement once Myra finished assessing paint.
 
 Inside the cabin, lamplight pooling gold across the table, Annabeth sat at the table and began a clean drawing of the panel. Beside her sketchbook lay the old camp plan, its brown ink fragile at the folds. Silena sorted photographs, and Clarisse studied her image of the trident, worn prongs visible in lantern light. Leaning over Annabeth's shoulder, Thalia traced the painted lightning's line in the air.
