@@ -778,6 +778,6 @@ The boy at the fence caught her watching.
 
 "You're moving your feet before the shield," she said. "The instructor will show you how to keep both together."
 
-He tried again. Thalia watched until he made the correction, then continued toward the cabin. She would probably think about Jason every time she saw a younger camper practicing. That wasn't something she needed to stop. She could think about him without turning the memory into another reason to demand an answer the Roman camp wasn't ready to give.
+He tried again. Thalia watched until he made the correction, then continued toward the cabin. She would probably think about Jason every time she saw a younger camper practicing. That wasn't something she needed to stop. She could think about him without turning the memory into another reason to demand an answer the Roman camp wasn't ready to give. She could write again next week, ask Chiron what he had learned, and make sure Annabeth had room to build her own relationship with their brother.
 
 
