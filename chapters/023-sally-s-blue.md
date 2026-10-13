@@ -635,6 +635,94 @@ Clarisse let out a wet laugh. "Damn right."
 ---
 
 
+Silena had expected the blue cookies to be a small gathering. By late afternoon, she had three pages of requests for additional trays.
+
+The first came from the Hermes cabin, where a pair of younger campers were trying to organize a welcome meal for a new boy who'd arrived that morning. Then an Apollo counselor asked whether the infirmary could have a few, provided they were labeled properly. Another camper wanted to take a dozen to the dryads, and Grover warned him that not every tree spirit could eat mortal sweets even if they appreciated the offer.
+
+Silena stood beside the cooling racks and realized the project had begun growing beyond what anyone had agreed to make.
+
+"How many batches can we realistically finish before dinner?" she asked Mara.
+
+"Two more in this oven, provided we have enough clean trays and you stop opening the door to check the color."
+
+Silena looked at the list. That wasn't enough to fulfill every request.
+
+"We could make the batches smaller," she suggested.
+
+"Then the bake time changes, and we'd need another test. Better to make the recipe correctly and give people what we have."
+
+Silena didn't like disappointing anybody. She was good at making people feel included, which sometimes meant promising more than she could reasonably produce. But she had agreed to help Percy share his mother's recipe, not turn the kitchen into a bakery for every cabin in camp.
+
+She went to find him. He was wiping a spill off the counter and laughing at something Tyson had said about edible blue ocean waves.
+
+"Can I ask you something?" she said.
+
+"Sure."
+
+"We have more requests than cookies. Do you want to keep baking, or would you rather make the last two batches and let everyone else try the recipe another day?"
+
+Percy looked at the list. His first reaction was to agree to everything. He liked the idea of an entire camp with blue tongues, and he wanted Sally to be remembered by more than the two people who'd known her in the life he remembered.
+
+Then he saw how tired the others were. Clarisse was sitting at the table with a wet cloth over her shoulder. Tyson had been washing dishes for an hour, and Mara had her own dinner preparation to oversee.
+
+"Two more," he said. "Then we stop."
+
+Silena nodded. She wrote the decision beside the requests and told people the recipe would be available through the kitchen afterward. There was disappointment, but nobody threatened to leave camp over an unfulfilled cookie order.
+
+The Apollo counselor thanked her for checking the ingredients and asked whether there would be a non-dairy alternative for the campers who needed it. Silena consulted Mara and discovered the kitchen already had an approved oatmeal biscuit recipe for them. It wouldn't be Sally's cookie, and pretending it was would be unfair. She arranged to serve the alternative beside the blue ones with a clear label.
+
+Annabeth helped make the labels. She was very precise about describing ingredients and refused to call the alternative a blue chocolate-chip cookie simply because it had blue sugar sprinkled over it.
+
+"Then what should we call it?" Silena asked.
+
+"Oat biscuit with blue icing, made in the kitchen."
+
+"That's not a very exciting name."
+
+"It tells people what they're eating."
+
+Silena looked at the handwritten card and admitted it was useful. The children waiting for dessert cared more about whether something was safe for them than whether she could make it sound festive.
+
+Clarisse came over with a fresh baking sheet and saw the list.
+
+"You're making a spreadsheet?"
+
+"An inventory."
+
+"Of cookies."
+
+"Yes."
+
+Clarisse examined the count. "You promised the Apollo table twelve and the Hermes table ten. That doesn't leave any for us."
+
+Silena looked up. "We have a tray set aside for the people who made them."
+
+"You should have written it down."
+
+"I was trying not to be selfish."
+
+"You're allowed to eat your own work."
+
+Silena considered. She'd been so concerned with making the day generous that she had almost forgotten the group gathered around Percy was supposed to enjoy the recipe too. It was not selfish to save enough for the people who'd spent the afternoon baking.
+
+She wrote *crew tray* at the bottom of the list. Clarisse nodded and carried the sheet to Mara for approval.
+
+The final batches went into the oven while Grover cleaned the mixing station and Ella copied the recipe. Annabeth checked the cooling time and asked Percy whether he wanted a photograph before the first tray was carried to the pavilion. He nodded.
+
+Silena fetched the camera. She arranged the bakers behind the table without insisting everyone pose perfectly. Clarisse stood with her arms crossed, looking pleased despite herself. Tyson held the mixing bowl upside down to prove it was empty. Percy was in the center, flour in his hair and a tired smile on his face.
+
+"Ready?" Silena asked.
+
+"Wait," Percy said.
+
+He took one small cookie from the crew tray and placed it at the front of the photograph, beside the notebook with Sally's name on it.
+
+"Now," he said.
+
+The flash made everyone blink. It caught a table full of uneven blue cookies made by people who hadn't known Sally together, and Percy would have a record of who had come to help. It didn't make the afternoon identical to the one he'd lost. He was beginning to think that wasn't the point.
+
+---
+
 By sunset, they'd made nine dozen.
 
 Batch Two was perfect. Batch Three was slightly salty because Tyson sneezed while holding the salt jar (they ate those anyway, calling them Sea Salt Specials). Batch Four was shaped like monsters by Ella, who insisted sharks were cookies now. Batch Five was Annabeth's experiment with exact gram weights, documented in triplicate. Batch Six was Clarisse's redemption — golden, chewy, flawless — and she stood over the tray with her arms crossed while everyone applauded, face burning redder than the oven.
