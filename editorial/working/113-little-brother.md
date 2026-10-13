@@ -1001,3 +1001,247 @@ Silena sat beside her. "You will."
 They didn't talk about the remark Clarisse had made the day before. Not yet. But Silena stayed a little longer, and Clarisse didn't ask her to prove anything by canceling the rest of her afternoon.
 
 ---
+
+The second day in bed was worse than the first, not because Clarisse was sicker but because she was awake enough to be bored.
+
+Will had moved her out of the infirmary and back to Cabin Three once her symptoms were steady and she no longer needed continuous observation. He had made Silena repeat the instructions: rest, keep drinking, return if the fever climbed or breathing became difficult, and do not treat one decent afternoon as permission to restart training.
+
+Clarisse had said she understood.
+
+By noon, she'd reorganized the tools in the cupboard from her bed, corrected three pages of the assessment records and threatened to throw a rolled bandage at Percy because he kept putting the wrong lid on the water pitcher.
+
+"That lid belongs to the kettle," she said.
+
+"They both fit."
+
+"That doesn't make them the same."
+
+Percy checked the cupboard and changed the lid. "Satisfied?"
+
+"Temporarily."
+
+He set her fresh water beside the bed. She waited for him to tell her to drink it. He didn't. He went to the other worktable and started fixing a strap on one of the practice shields.
+
+Clarisse watched him thread the leather through the buckle.
+
+"You're using the wrong hole."
+
+"I know."
+
+"Then why are you using it?"
+
+"To see how much slack is left before I punch a new one."
+
+"There's a reason we punch those holes at fixed distances."
+
+Percy looked up. "Would you like to tell me the reason?"
+
+She opened her mouth, then stopped. He was asking her to teach, not challenging her right to be in charge.
+
+"Yes," she said. "Bring it here."
+
+He brought the shield and sat on the floor beside her bunk. Clarisse showed him how to align the strap so it wouldn't twist when the weight shifted. She didn't take the work out of his hands. She explained it once, then watched him do it.
+
+"Again," she said when the first hole was too close to the edge.
+
+He grumbled, found another scrap of leather and tried again.
+
+A little later, Chiron arrived with the final assessment scores.
+
+"I wanted you to look at these before I post them," he said.
+
+Clarisse sat up so quickly the room gave a faint lurch. She waited until it stopped, then took the sheets.
+
+There were three entries she would have scored differently. One camper had been marked down for stopping during the rescue carry, although Clarisse had told the group to check the dummy's position before lifting. Another had been given credit for a shield block despite poor foot placement. The third had a mark Percy couldn't explain because he'd copied Clarisse's shorthand without asking what it meant.
+
+She was halfway through listing the corrections when Percy interrupted.
+
+"That's the one I got wrong," he said. "I thought the mark meant they had to finish in a certain time."
+
+Chiron nodded. "Then we need to ask what skill that station was intended to measure."
+
+"Control," Clarisse said. "The point isn't who gets through fastest. It's whether they can carry someone without dropping them when they get tired."
+
+"Then the time mark shouldn't count against them," Chiron said.
+
+Clarisse looked down at the sheet. She had made the shorthand because it saved her a little time while she watched four stations at once. Now it was making the job harder for anyone who needed to help.
+
+"I'll rewrite the symbols," she said.
+
+"You can explain them," Chiron answered. "Someone else can do the copying."
+
+She bristled. "I can hold a pencil."
+
+"I'm sure you can. But you can also tell Percy how the form should work, and then we have a system more than one person understands."
+
+Clarisse disliked the implication that her work had become a problem because she hadn't explained it. She also knew it was true.
+
+Percy took out a clean sheet. "Which marks do we actually need?"
+
+She started listing them. He asked questions that were sometimes obvious and sometimes useful. Chiron settled into a chair to check the final version.
+
+By the time they finished, the scoring key could be read without asking Clarisse what every symbol meant. She was still responsible for the design. Someone else could use it if she wasn't there.
+
+"That's better," Chiron said.
+
+Percy looked at the form. "It's definitely less fish-shaped."
+
+"Don't get attached to the fishbone," Clarisse warned. "That one stays."
+
+She caught Percy smiling and felt a reluctant pride. He had made mistakes in the arena, and instead of hiding them he'd turned them into questions. She'd been ill, and instead of pretending that meant her judgment was worthless, she'd helped make the next assessment safer.
+
+Neither was the kind of victory she usually counted.
+
+It counted anyway.
+
+---
+
+Silena waited until Chiron left before bringing up the word Clarisse had used in the infirmary.
+
+She wasn't holding a cup or arranging the blankets this time. She was sitting at her own worktable, sharpening a pencil for the next painting. The fact that she had chosen to talk while doing something else made it harder for Clarisse to evade.
+
+"You called me Mother," Silena said.
+
+Clarisse looked up from the scoring key. "I know."
+
+"I didn't like it."
+
+"I know."
+
+"I don't mean I didn't like being teased. You tease me all the time. You made it sound as if I was trying to replace somebody."
+
+Clarisse put down the page.
+
+"That wasn't what I meant."
+
+"What did you mean?"
+
+Clarisse searched for an answer she could stand behind. It was easy to say she had been sick and cranky. It was true. It wasn't enough.
+
+"I meant I don't like being told to stay in bed," she said.
+
+Silena waited.
+
+"And I don't like needing you to bring me things."
+
+"You brought me things when I was ill."
+
+"That's different."
+
+"Why?"
+
+"Because you don't complain about it."
+
+Silena laughed once, without much humor. "I complain. I just don't always do it in front of you."
+
+Clarisse stared at her.
+
+"Sometimes I want to do something else," Silena went on. "Sometimes I would rather paint than wash somebody else's dishes or check whether Percy's found his clean clothes. That doesn't mean I don't love either of you."
+
+"I never said it did."
+
+"Not in those words."
+
+Clarisse looked toward the window. The garden path was beyond it, too far for her to see the new sign. Silena had made something beautiful for another person and had still come back to help her. Clarisse had tried to make her feel guilty for doing both.
+
+"All right," she said. "I was being unfair."
+
+Silena studied her face. "That's not quite an apology."
+
+Clarisse clenched her teeth, then let the breath out slowly.
+
+"I'm sorry," she said. "I shouldn't have called you that. I was angry because I felt useless, and I wanted somebody else to be wrong about it."
+
+Silena softened, but she didn't rush to make it disappear.
+
+"Thank you," she said.
+
+"I still don't like being told what to do."
+
+"I know."
+
+"And I'm going to complain the next time somebody gives me tea that tastes like bark."
+
+"That's your right."
+
+Clarisse hesitated. "You don't have to stay every time I get hurt. Or sick."
+
+"I know."
+
+"Good."
+
+Silena picked up her pencil. "And you don't have to chase me away to prove you aren't depending on me."
+
+Clarisse looked down at the score sheet. That was harder to answer. She had sent Silena away to deliver the sign partly because she wanted Silena to have her own life, and partly because she couldn't bear the feeling of needing her.
+
+"I'll try not to," she said at last.
+
+Silena nodded and went back to sharpening the pencil. The apology hadn't changed their personalities. Clarisse would still snap when she was frightened, and Silena would still notice when something needed doing before anyone else did. But the next time Clarisse wanted company, she might manage to ask for it without turning the request into an order.
+
+For now, she asked Silena about the garden sign.
+
+Silena described how the light fell across the painted vine near sunset. She was halfway through explaining the color of the leaves when Percy came in with the repaired shield and asked where it belonged.
+
+"On the rack," Clarisse said.
+
+"Which side?"
+
+"The side with the other shields, genius."
+
+Silena laughed. Percy made a face. Their cabin sounded almost normal again.
+
+---
+
+Will allowed Clarisse a short walk two mornings later, provided she went slowly and stopped if she felt dizzy.
+
+She resented every condition.
+
+Silena insisted on coming with her, but she didn't insist on holding her arm. Percy walked ahead carrying the note Katie had sent about the garden sign. Annabeth had offered to join them and then decided to finish a drawing for Chiron instead. Clarisse liked that her friends were allowed to have their own afternoons, even if she still wanted to know where everybody was.
+
+The first part of the path was easy. Clarisse got down the cabin steps without help, crossed the grass and climbed the small rise beside the dining pavilion. The air smelled of damp wood and strawberries. The sky was clear, and the sun on her shoulders felt good after so much time indoors.
+
+Halfway to the garden she began to sweat. Not from exertion in the ordinary way. Her legs felt weak, and the bright day grew uncomfortable.
+
+Silena noticed immediately. "Want to stop?"
+
+"No."
+
+They walked another twenty steps. Clarisse found a low stone wall and sat on it without being asked.
+
+"Fine," she said. "A minute."
+
+Percy stopped ahead and came back. He didn't ask whether she was all right. He took out the water flask he'd brought and set it beside her.
+
+"Want some?"
+
+"Yes."
+
+She drank. The water was cool. She looked across the garden toward the painted sign, visible now between the posts where Charlie had helped mount it. The vine curved along the board, and the path beyond it led between fresh rows of seedlings.
+
+"It's good," she told Silena.
+
+Silena blinked. "You can see it from here?"
+
+"Of course I can see it."
+
+"I thought you'd want to get closer."
+
+"I will, another day."
+
+Silena sat beside her. Percy stayed standing, looking toward the sign as though trying to imagine where the afternoon light would fall across it. He had his own opinions about paintings, mostly ridiculous, but he knew better than to comment when Silena was waiting for Clarisse to say something real.
+
+"The green's right," Clarisse said. "It's the color the leaves get before rain."
+
+Silena smiled. "That's what I was trying for."
+
+Clarisse looked down at her hands. She was tired. She hated that a walk which should have taken five minutes had become a medical event. She hated needing to sit while her brother could run up the hill without thinking.
+
+But she had seen the sign. She had asked to come. She had not pretended her body was ready for more than it was.
+
+"Let's go back," she said.
+
+Percy didn't argue. Silena stood and offered her an arm for the downhill stretch. Clarisse took it.
+
+They returned to Cabin Three at a slow pace, with enough silence for her to hear the ordinary sounds of camp again.
+
+---
