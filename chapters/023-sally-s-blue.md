@@ -229,7 +229,7 @@ She showed him. Fold, turn bowl, fold. The dough came together thick and blue as
 
 "Agreed," Clarisse said, and that was the most peaceful interaction they'd ever had.
 
-Silena snuck a taste of dough when Percy wasn't looking and her eyes went wide. "Oh, gods. The salt. Percy, it's perfect. Salty-sweet. Your mom's a genius."
+Silena checked the measured salt and vanilla against the recipe. "This is going to be good," she said. "The proportions make sense. Your mom knew exactly what she wanted."
 
 "She'd love hearing that," Percy said. "She'd have baked you into a coma."
 
@@ -248,7 +248,7 @@ But the truth was, ovens hated her. Or her father, god of the sea, hated ovens. 
 
 "I was *monitoring*," Clarisse said, arms crossed, as the smoke alarm started screaming.
 
-The first batch had gone in perfect — six fat scoops, spaced like soldiers. Percy had shown them how to use two spoons. Annabeth had used a ruler to ensure two-inch spacing ("Structural integrity during spread," she'd said, dead serious). Tyson had licked the spatula. Ella had tried to steal a raw dough ball and Grover had talked her down with promises of first taste.
+The first batch had gone in perfect — six fat scoops, spaced like soldiers. Percy had shown them how to use two spoons. Annabeth had used a ruler to ensure two-inch spacing ("Structural integrity during spread," she'd said, dead serious). Tyson had offered to wash the spatula. Ella had tried to steal a raw dough ball and Grover had talked her down with promises of the first baked taste.
 
 Then Clarisse said, "They look done," at minute seven.
 
@@ -270,17 +270,17 @@ She pulled the tray halfway out. The kitchen filled with the smell of almost-coo
 
 Clarisse shoved them back and slammed the door. The ancient oven rattled. Then, because she felt embarrassed at being ganged up on, she cranked the temperature dial from 350 to 425. "To catch up for heat loss," she muttered. "Tactics."
 
-Nobody noticed for four minutes. They were too busy fighting over who got to lick the blue bowl (Tyson won by sheer size; Thalia stole a finger-swipe and ran; Grover got a dab on his nose from Ella).
+Mara had stepped into the pantry to fetch a missing cooling rack. By the time she returned, the thermostat had been changed without permission. The others were arguing about who would wash the blue bowl (Tyson volunteered; Thalia wanted to keep the last chocolate chips; Grover asked Ella not to climb onto the mixer).
 
 Then the smell changed. Sweet turned to sharp. Smoke curled from the oven seam.
 
 "Clarisse!" Silena yelped.
 
-Percy yanked the oven open with a dish towel. Smoke billowed. Six cookies, black on the bottom, still gooey-blue in the middle, smoking like tiny volcanic islands.
+Mara switched off the oven and opened it with proper mitts. Smoke billowed. Six cookies, black on the bottom, still gooey-blue in the middle, smoking like tiny volcanic islands.
 
 The smoke alarm screamed. Ella screamed louder, flapping to the ceiling. Grover bleated and knocked over a bag of flour, which exploded in a white cloud. Tyson started laughing so hard he slid off the counter. Thalia grabbed a cutting board and started fanning the alarm.
 
-Annabeth, calm as a general, grabbed the tray with mitts, dumped the charred disks into the sink, and turned on the faucet. Hiss. More smoke.
+Annabeth cleared the counter while Mara set the hot tray on a heatproof rack. They kept the smoking cookies away from the children and ventilated the kitchen after the oven was switched off.
 
 Clarisse stood in the middle of it, face red — from heat or shame, nobody could tell — fists clenched.
 
@@ -335,11 +335,11 @@ Watching Percy talk about Sally so easily, like love was a recipe you could pass
 
 So she stole dough instead of feelings.
 
-Second batch went in — scooped by Clarisse with military precision, spaced by Annabeth with a ruler, taste-guarded by Thalia who ate roughly one dough ball per three scooped. Tyson spun the timer dial with ceremony. Silena set out cooling racks covered in parchment. Grover swept up the flour explosion with a broom twice his size while Ella rode the broom handle shouting, "WHEEE! WHEEE!"
+Second batch went in — scooped by Clarisse with military precision, spaced by Annabeth with a ruler, quality-guarded by Thalia who counted roughly one chocolate chip stolen per three scoops. Tyson asked Mara to set the timer, then announced the count with ceremony. Silena set out cooling racks covered in parchment. Grover swept up the flour explosion with a broom twice his size while Ella rode the broom handle shouting, "WHEEE! WHEEE!"
 
 Percy leaned against the counter, blue up to his elbows, watching his friends bicker over oven light etiquette.
 
-"You okay?" Thalia asked quietly, nudging him with her shoulder. She offered him a stolen dough ball as a peace offering. He took it.
+"You okay?" Thalia asked quietly, nudging him with her shoulder. She offered him a chocolate chip she'd saved from the mixing bowl as a peace offering. He took it.
 
 "Yeah," he said, surprised. "Yeah, actually. Usually when I talk about my mom I feel like — like I'm gonna cry or throw up or both. But here —" He gestured at the mess, the smoke still hanging faintly, Clarisse arguing with Annabeth about convection currents. "It feels good. Like she's here a little."
 
