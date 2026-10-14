@@ -646,6 +646,114 @@ Frank spread a blanket over both of them without a word, Roman caretaking at its
 
 ---
 
+Before the final celebration, Jason asked his sisters to meet him in a quieter place.
+
+Percy went as far as the garden gate with Annabeth. She'd told him she wanted to be there for the visit, but not necessarily every part of the conversation. Jason had asked for family time. Percy was family by choice, yet that didn't mean he had a claim on everything the three Grace children needed to say.
+
+"I'll be at the fountain," he told her.
+
+Annabeth squeezed his hand. "Thanks."
+
+The garden behind the Roman barracks held a little stone bench beneath an olive tree. Jason had brought a thermos of warm tea and three cups. Thalia looked at the cups and raised an eyebrow.
+
+"You planned something."
+
+"I know how to make tea," Jason said.
+
+"You planned a conversation, Jason. It's worse."
+
+He smiled, but the expression faded quickly. "I wanted to ask about Mom."
+
+Annabeth felt her shoulders tighten. Their mother, Beryl Grace, lived in the changed history with a lifetime of events Annabeth knew mostly from accounts rather than firsthand childhood memory. Thalia knew some of them herself. Jason had his own memories, interrupted and scattered by the years he spent away.
+
+"What about her?" Thalia asked.
+
+"I got a letter. She wants to know whether we can visit together."
+
+Thalia looked at Annabeth. Neither spoke immediately.
+
+"She's asked before," Annabeth said.
+
+"Yes."
+
+"She wants us to say yes before we've even checked our schedules."
+
+Jason turned the envelope over. "I think she's lonely."
+
+"She may be," Thalia replied. "That doesn't make our answer automatic."
+
+Annabeth knew her sister had a complicated history with Beryl. The things Thalia remembered were hers to describe, and Percy had learned not to ask Annabeth to report every private detail of those conversations. Annabeth didn't want Jason to think she knew the same history just because she could repeat some of it.
+
+"What did she ask, exactly?" she said.
+
+Jason passed her the letter. Annabeth read only the paragraph he indicated. Beryl had invited them for a weekend in summer, with a suggestion that they stay in the house where the children had once spent holidays together.
+
+Annabeth stared at the phrase. *Where you used to play.* She couldn't summon an image of that room from the life everybody here remembered. She could imagine one, but that was different.
+
+"I don't remember that house," she said carefully.
+
+Jason looked up. "I know."
+
+"Do you?"
+
+"Not all of it. Thalia told me some things. Mom told me others. I don't know which memories of mine are from before I was taken to Jupiter and which are stories I've heard enough times that they feel familiar."
+
+Thalia let out a slow breath. "That's more honest than most of the things our family says about the past."
+
+Jason rubbed the edge of his cup. "I thought if we all went back, something would become clear."
+
+"Maybe something would," Thalia said. "But don't make that the reason we go."
+
+"Why not?"
+
+"Because then the whole weekend becomes a test. If somebody remembers the right thing, it counts as family. If they don't, it means something's wrong."
+
+Annabeth felt an immediate, painful recognition. She had spent months trying not to turn every familiar object into evidence about the rewrite. She didn't need to give Jason the details of that secret to agree with Thalia.
+
+"I'd go because I want to know her better now," Annabeth said. "Not because I can promise the house will feel like home."
+
+Jason nodded slowly. "That makes sense."
+
+Thalia took the letter and looked at the dates. "I have patrol obligations. I can ask for leave. I won't promise until Chiron and the Hunters confirm."
+
+"And I have school work," Annabeth added.
+
+"I have Roman duties," Jason said. "I haven't checked those either."
+
+They looked at one another, and for a moment all three began laughing. It was a very Grace problem: three children discussing a family reunion as though it were a military operation, before any of them had checked whether they were free.
+
+"Okay," Jason said. "I'll write her that we're considering it."
+
+"Tell her we'll answer after we know," Thalia replied.
+
+"Not 'yes, unless something comes up'?" he asked.
+
+"No. That's just a yes that makes people feel guilty when they have to change it."
+
+Annabeth reached for her cup. The tea had gone almost cold. She drank it anyway.
+
+"Can you tell me one thing about the house?" she asked Thalia. "Just something you remember yourself."
+
+Thalia considered. "There was a crooked step outside the kitchen. Mom always meant to have it fixed. I used to jump over it because it caught the edge of my shoe."
+
+"Did I jump over it?"
+
+"I don't remember. You might have been too small when I last saw that version of the house."
+
+Annabeth nodded. "Thanks for saying you don't know."
+
+Jason looked at her with a question he didn't ask. She was grateful. They could leave the reason for her missing memories outside this conversation. He had given her something more useful: a chance to ask about her family without pretending the answers were already inside her.
+
+When Percy joined them at the garden gate, he didn't ask for the details. Annabeth told him that Jason had received an invitation from Beryl and that they were deciding whether to accept. She didn't repeat Thalia's old family story as though it were public property.
+
+"Sounds good," Percy said.
+
+"Not decided," she corrected.
+
+"Sounds like a good question, then."
+
+She smiled. Jason waved them toward the Field of Mars where the celebration crews were gathering. For now the invitation remained an invitation. The three siblings still belonged to one another even when none of them had a final answer.
+
 On the final night came the fireworks.
 
 The spring exchange ended with lights for return — Roman fireworkers on the Field of Mars, sanctioned by the legion engineers, with Greek fire contributions from the Hephaestus cabin via Iris-message that Chiron pretended not to know about. The whole city gathered on blankets, cohorts mixed, ranks relaxed. Masters and servants sat together. Praetors and probatios shared popcorn.
