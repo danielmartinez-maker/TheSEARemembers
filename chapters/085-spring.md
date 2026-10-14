@@ -108,7 +108,7 @@ Thalia was straddling two worlds. She'd gone out as a camp scout for a time, the
 
 "You staying through June?" Percy asked quietly.
 
-"Trying to," Thalia said. "College stuff. Mortal stuff. My mom—" She stopped, restarted. "Yeah. I'll be here next summer. Wouldn't miss watching you two get all tall and annoying."
+"Trying to," Thalia said. "Long-term school plans. Mortal stuff. My mom—" She stopped, restarted. "Yeah. I'll be here next summer. Wouldn't miss watching you two get all tall and annoying."
 
 "We're already tall and annoying," Annabeth said.
 
@@ -157,6 +157,88 @@ Annabeth glanced at Percy. Together, from memory: "Home isn't done being built y
 "Yes." Chiron's voice was warm. "Well. Look at us now."
 
 Outside the window, the camp bell rang for mid-morning lessons. Swordplay. Architecture. Greek. Monster identification for the winter newbies who still mixed up empousai and dracaenae.
+
+Chiron didn't let them leave immediately.
+
+"One more thing," he said, touching the map on the ping-pong table. "The route changes you made during the spring departures worked. I'd like you to look at the early summer arrivals before the first large group comes."
+
+Annabeth straightened. "The visitor route?"
+
+"That and the path from the cabins to the infirmary. New campers don't automatically know which door is open at night."
+
+Percy looked at the map. The line he and Annabeth had corrected for Owen's departing bus was still there, inked in red. An arrow marked the turn that had confused the driver. It was strange to see a mistake they'd fixed becoming part of the camp's regular plan.
+
+"We can walk it," Annabeth said.
+
+"With somebody who hasn't memorized the camp," Chiron replied.
+
+Percy thought of Lucy. She'd noticed the inaccessible steps in Annabeth's sandcastle, and she'd helped the younger campers find a safe place for their shoes at the beach. She knew enough now to help, but not so much that the routes would look obvious to her.
+
+"Can we ask Lucy?" he said.
+
+"Ask her if she would like to help," Chiron answered. "Don't assign her without checking her schedule and her counselor's approval."
+
+They found Lucy outside the Hermes cabin with her light-up shoes in her lap. One had stopped blinking. She was trying to work out whether the problem came from a wet connection or a broken switch.
+
+"Want to test some directions for us?" Percy asked.
+
+"Directions to what?"
+
+"The infirmary. At night."
+
+"Why?"
+
+"Because if the signs are confusing, we'd rather find out now."
+
+Lucy thought about it. "Can I finish fixing this first?"
+
+"Of course."
+
+She returned an hour later with her counselor. The shoe still wasn't blinking, but she'd decided to save the repair for another day.
+
+Annabeth handed Lucy a small map and asked her to find the infirmary as though she'd just arrived at camp. They began outside the Big House. Lucy immediately took the path toward the dining pavilion because the first sign had an arrow pointing ambiguously between two forks.
+
+"That one is wrong," Annabeth said.
+
+"It's not wrong if you already know where the infirmary is," Lucy replied.
+
+Percy grinned. "Which means it's wrong for the person who needs it."
+
+They moved the sign to face the approaching path and added the infirmary name beneath the symbol. At the next fork Lucy correctly identified the route but couldn't read the small letters from far away.
+
+"Could we make them bigger?" she asked.
+
+Annabeth took notes.
+
+The third problem was the narrow bridge across the shallow creek. It was not dangerous in daylight, but wet leaves made it slippery after rain. Lucy remembered falling there during her first week and admitted she'd been embarrassed to tell anyone.
+
+Percy crouched beside the railing. One fastening had come loose. He called for the maintenance crew rather than tightening it with his sword hilt, the way he might have when he first arrived.
+
+Beckendorf inspected the bracket. It needed a new bolt. The crew put up a temporary route marker until the repair could be completed and signed off.
+
+Lucy looked worried. "Did I get the path closed?"
+
+"You helped us find a problem," Annabeth said. "That's not the same thing."
+
+They finished at the infirmary door, where Will showed Lucy how to ring the nighttime bell without waking every cabin. He also told her which things counted as reasons to come immediately and which could wait for morning. Lucy asked good questions and wrote down the answers.
+
+At the end Annabeth made a revised map for new arrivals. It included bigger signs, a marked alternate route for the creek bridge and a reminder to ask a counselor before leaving a cabin at night. Lucy checked it and said it was easier to follow.
+
+"Do I get to put my name on it?" she asked.
+
+"Yes," Annabeth said. "You're the person who found most of the problems."
+
+Lucy looked pleased. She went back to her cabin with her counselor and the corrected map, while Percy and Annabeth took the repair request to Chiron.
+
+"That was useful," Chiron said.
+
+Percy looked at the line of notes. "The map's uglier now."
+
+"More honest," Annabeth replied.
+
+They walked toward lessons together. Percy had been thinking that spring was about returning to places where everybody already knew him. Lucy had reminded him that home also required making room for people who didn't know where anything was yet.
+
+He tucked the copied map under his arm and promised himself not to complain when Annabeth asked him to help test the signs again after the bridge was fixed.
 
 Percy stood. Annabeth rolled her blueprints.
 
@@ -468,7 +550,7 @@ They laughed, and the cabin walls, which had once echoed empty, held the sound w
 
 By evening the rain stopped as suddenly as it had started, leaving the whole camp dripping and shining under a washed blue sky.
 
-Someone — probably the Apollo kids — started a bonfire down by the lake without permission. Chiron took one look, sighed, and gave permission retroactively, because spring needed fire.
+The Apollo counselors requested a supervised bonfire down by the lake. Chiron approved the site after inspecting the fire ring, confirming a water supply and assigning adults to stay until the embers were cold.
 
 Word spread cabin to cabin: bonfire, lake, bring food, bring blankets.
 
