@@ -45,6 +45,11 @@ CHECKS = {
                     "The line of stars moved well above everyone's heads"),
         "absent": ("Thalia promised not to move Annabeth's map",),
     },
+    "chapters/067-fishing.md": {
+        "present": ("come to Atlantis with me", "come to Olympus with me",
+                    "pinky promise"),
+        "absent": ("Amphitrite now knows about the other timeline",),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),
