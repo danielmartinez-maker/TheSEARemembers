@@ -1,0 +1,25 @@
+# Chapter 075 — Zoe's Story: expansion and character-memory handoff
+
+**Source:** `chapters/075-zoe-s-story.md` in PR #103. **Body words:** 5,558 before, **10,087 after** (+4,529) by chapter-local whitespace-separated narrative recount; full-corpus CI verification separate from this handoff.
+
+## On-page chronology, witness provenance and boundaries
+
+- **When/where:** April campfire after Tyson's longer visit and departure in Chapter 074; exact night unknown. Camp Half-Blood amphitheater; later the surrounding steps/paths. Zoe is identified as **nineteen** in this chapter's established source. Young campers and counselors attend, with younger campers permitted to leave during a frightening account.
+- **Zoe:** Hecate daughter in *this fic's working canon*, from Cabin Twenty. Her personal memories concern **her own current-history childhood**, not Percy/Annabeth's erased future. She tells campers of a house with a blue door, **non-biological parents who raised her**, Hecate's new-moon visits, and Hecate's later alteration of the caretakers' memories for protection when Zoe left. The moral cost is explicitly unresolved; Hecate's apparent justification is **not universal authorization for nonconsensual forgetting**.
+- **New radio-dial artifact:** Zoe preserves the cracked dial from a foster-father's repaired radio. She directly witnessed an ordinary late-night repair after Hecate missed a visit. Hecate apologized for a misleading expectation. The memory was later documented in Zoe's childhood notebook and remains her firsthand experience. Zoe shows the dial to the present campfire audience and puts it back in her pocket. No magic is claimed for the object.
+- **Percy/Annabeth:** Only holders of actual autobiographical memory of their erased future. They hear Zoe's story in the present and may remember **hearing it**, not automatically witness her childhood or gain new memory powers. No disclosure to Amphitrite occurs, no assertion that Hecate built the timeline rewrite is made. Both are already romantic partners; Zoe's story creates a new shared emotional memory rather than a fresh courtship.
+- **Thalia:** Hears Zoe's current-history story; offers to accompany Zoe to the crossroads-path entrance at a **future** new moon. Zoe accepts escort **only to the last marked lantern**, not an entourage or ritual supervision. Thalia has yet to check patrol schedule, moon/date and weather. Thalia's changed-history knowledge of her own childhood is not the same as Annabeth's erased-future memory.
+- **Clarisse:** Maintains her Poseidon daughterhood and already-earned privacy learning from 070. She may help Zoe paint crooked stars on Cabin Twenty's ceiling, if and when invited; no date/act completed in this chapter.
+- **Milo:** New camper from Chapter 072, whose fourteen-year-old mortal brother believes he attends boarding school. Chiron has approved a **possible satyr-carried letter subject to a private safe-content check**, not dispatch. Milo drafts a letter during the campfire, chooses to review it with Chiron privately **tomorrow**; Chiron accepts the envelope **unopened**. Receipt or delivery is **not established**. Milo explicitly asks whether divine memory editing means his mortal brother has forgotten him; Zoe distinguishes a practical cover story from magical amnesia and does not perform either on him.
+- **Lucy:** The other new camper provides advice about a distinctive ordinary detail and offers the pegasus drawing she made at the stables in 072. Milo wants to draw his own version; she keeps hers. Lucy has her flashing shoes tucked away at the campfire, but no inference about completed electrical inspection is authorized.
+- **Bea:** The youngest newcomer chooses to leave the frightening story with her cabin counselor, taking her stuffed seal. **Do not** write her as present for the later memory-magic discussion; nobody pressures her to stay.
+- **Ella:** Asks permission to take general notes before Zoe's account; personally identifying details of Zoe's foster parents/home are withheld. Keep the Chapter 070 rule that finding or hearing personal writing is not blanket permission to broadcast it.
+
+## Consequences and next boundary
+
+- A promise to escort, a proposed star-painting, and a private letter check are all **future/pending**, not fulfilled tasks.
+- Zoe's remembered current-childhood events are independent from the novel's erased-future mystery; her mother's power over specific mortal memories is neither evidence that Hecate created the rewrite nor permission to reset character relationships off page.
+- The chapter ends with Percy, Annabeth, Thalia, Clarisse and Zoe among older campers leaving the fire; Tyson has already returned to Atlantis.
+- Chapter 076 `The Promise (II)` must retain these stated knowledge limits, physical letters/props and unfinished commitments. Inspect its complete text and closing boundary before making narrative changes.
+
+**Open gates:** repeat all-numbered chapter word-count and 300-word every-offset match check on the final branch head; editorial/style/semantic and independent cross-chapter review remain incomplete.
