@@ -366,7 +366,7 @@ Tyson went inside to hang up his clean dance shirt where nobody would spill lake
 
 While Percy taught, Annabeth had a nicer time, same as before but softer.
 
-Silena had borrowed the Aphrodite back room from her friends Friday afternoon again. Lights strung. Lemonade out. Brushes by size, ribbons by shade.
+Silena had arranged to use her Aphrodite friends' back room on Thursday afternoon for a dress and hairstyle rehearsal, leaving Saturday free for last-minute changes. Lights strung. Lemonade out. Brushes by size, ribbons by shade.
 
 "Nothing fancy," Annabeth said. "Just neat."
 
@@ -395,6 +395,110 @@ Annabeth hugged her carefully. "Thank you. For everything. For the first dance t
 "That's what camp sisters are for," Silena said, eyes bright. "Now. Who's doing Thalia's eyeliner? She'll bite people without eyeliner."
 
 "Okay, mush over," Thalia said, blinking fast same as before. "Same threat stands. Eyeliner or casualties."
+
+They were almost finished when Annabeth noticed the yellow ribbon on the dressing table and stopped smiling.
+
+Silena had laid out three possibilities: a narrow blue silk tie, the pale yellow ribbon Annabeth had chosen earlier, and a little silver cord that matched the owl clips. Any of them would have worked with the dress. Annabeth had asked for yellow, and Silena had already cut it to length.
+
+"What?" Silena asked.
+
+"Nothing."
+
+"Annabeth."
+
+She looked up. Silena wasn't demanding a confession. She had simply noticed the change in Annabeth's face.
+
+"I picked yellow because Percy said it reminded him of the afternoon we went to the beach," Annabeth said. "But now I'm wondering whether I should use blue, because that was the color of the first dance. I can't decide whether repeating something makes it special or makes it feel like I never learned anything."
+
+Thalia leaned against the doorframe. "It's a ribbon, Annie."
+
+"I know."
+
+"Then pick the one you like."
+
+Annabeth looked at the mirror. The girl reflected there had gray eyes and blonde hair pinned with owl clips. She was thirteen, daughter of Zeus and Beryl Grace in this life. She remembered being someone else's daughter in the first life she'd lived. The two stories were not identical, even when the dress in front of her looked like something she might have worn in either.
+
+"Sometimes I feel like I'm collecting proof," she said. "The same clips. Same song. Same flowers. If I can make the night line up, it'll mean the first one mattered."
+
+Silena sat on the floor beside her. "The first one already mattered. You were there."
+
+"I know."
+
+"You were happy. Percy was trying not to trip. Thalia threatened to throw him off a hill. I didn't need a ribbon to remember it."
+
+Annabeth laughed reluctantly. "She did threaten him."
+
+"I was standing right there," Silena replied. "I remember."
+
+That distinction helped. Silena had firsthand memories of the first dance in this life, even though she didn't know the entirety of the future Annabeth and Percy carried. She didn't have to be a proxy for the girl they had lost in a different history.
+
+Thalia came to sit opposite Annabeth.
+
+"You used to hate ribbons when you were little," she said.
+
+Annabeth looked at her. "You remember that?"
+
+"Yes." Thalia paused. "I remember trying to tie one in your hair for a school event. You took it out because you said it scratched. I don't know whether you remember any part of that. I can tell you what happened to me, not put the feeling back in your head."
+
+"I don't," Annabeth said. "But I like hearing it."
+
+Thalia smiled. "You looked like a furious little hedgehog. I had to find a different way to hold the braid."
+
+"Did I apologize?"
+
+"Eventually. With a drawing of a storm cloud that had my name under it."
+
+"That sounds like me."
+
+"It was. It still is."
+
+Annabeth looked back at the ribbon. She didn't know whether she would have liked yellow at seven in this altered childhood. She knew she liked it now.
+
+"Yellow," she said.
+
+Silena picked it up. "Sure?"
+
+"Sure. Because I want it. Not because Percy likes it and not because it matches an old memory."
+
+"Excellent." Silena pinned it into place. "I'll keep the blue tie in the drawer in case you change your mind on Saturday."
+
+"Thanks."
+
+Thalia picked up a small box from the shelf. It was the one she'd been using to keep the old corsage band safe while Annabeth and Tyson planned the updated flowers.
+
+"One more question," she said. "Are you sure you want to reuse the band? You wore it at the first dance. It has a scratch near the clasp."
+
+"That's why I want it," Annabeth said.
+
+"Because of the scratch?"
+
+"Because it shows it was there. It doesn't need to be new to be worth keeping."
+
+Thalia put the box down gently. "Then I'll give it back to Percy after we check the clasp. You can decide whether to wear it on Saturday."
+
+Annabeth nodded. She knew the old band was hers; it hadn't been sitting in Percy's trunk waiting for someone else to claim ownership of it. Letting him help redesign it was a choice she and Thalia had made.
+
+Silena began tidying the table. Annabeth watched her sort pins and brushes, then asked a question she'd been holding since the campfire when Elena told her story.
+
+"Can I write down what happened at the first dance?" she asked Thalia. "Not as a public story. For myself. The part you remember about me helping in the preparations."
+
+"You can write what I tell you," Thalia said. "Just say it's my account, not something you remember firsthand from before Percy arrived."
+
+"Okay."
+
+"And don't put the school event with the ribbon in the archive," Thalia added. "That one stays with us."
+
+"I won't."
+
+Silena glanced at them but didn't ask what the school event meant. She had known the Grace sisters long enough to recognize when their conversation was private.
+
+They finished the rehearsal in companionable quiet. Annabeth practiced moving in the dress, discovered the hem caught on the heel of one shoe, and asked Silena to adjust it before Saturday. Silena marked the spot with a pin and scheduled the sewing for Friday. The dress was beautiful but wasn't finished yet.
+
+Annabeth changed back into her camp clothes and helped put away the mirrors. Thalia returned the jewelry box to its shelf. They had a plan, a few jobs left to do, and a dress Annabeth had chosen to wear for reasons that belonged to her.
+
+On the way back to Cabin One she looked at the yellow ribbon folded in its packet.
+
+She would wear it Saturday. And if Percy didn't remember the first dance exactly the way she did, she wouldn't make him. They had another evening to remember together, one that hadn't happened yet.
 
 ---
 
