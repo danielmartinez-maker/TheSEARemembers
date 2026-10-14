@@ -28,3 +28,28 @@
 ### Chapter 007 · source status
 - **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: No verified firsthand presence at the critical Hall electrical isolation; do not give him Chiron's firsthand observations without a report.
 - **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 008 · state and knowledge
+- **Source:** [Chapter 8](../../chapters/008-the-gathering-storm.md)
+- **Event / absence / information provenance:** Ch008: No private prophecy/attic contents attributed to Matt without scene.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 009 · state and knowledge
+- **Source:** [Chapter 9](../../chapters/009-the-oracle.md)
+- **Event / absence / information provenance:** Ch009: No direct reported new Matt knowledge in source; Ch002 combat training persists.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 010 · state and knowledge
+- **Source:** [Chapter 10](../../chapters/010-the-daughter-of-hecate.md)
+- **Event / absence / information provenance:** Ch010: No confirmed special mission or old-life secret shared.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 011 · state and knowledge
+- **Source:** [Chapter 11](../../chapters/011-the-eclipse.md)
+- **Event / absence / information provenance:** Ch011: Route roster covers campers generally; do not assign Matt to unshown station.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 012 · state and knowledge
+- **Source:** [Chapter 12](../../chapters/012-what-remains.md)
+- **Event / absence / information provenance:** Ch012: Hall repair roster contains unnamed crews; no automatic Matt inclusion.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.

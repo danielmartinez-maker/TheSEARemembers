@@ -34,3 +34,28 @@
 ### Chapter 007 · source status
 - **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: NO DIRECT APPEARANCE; news of storm and letter report not shown delivered to Poseidon. Ch001 oath warning remains an unresolved prior firsthand conversation with Percy.
 - **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 008 · state and knowledge
+- **Source:** [Chapter 8](../../chapters/008-the-gathering-storm.md)
+- **Event / absence / information provenance:** Ch008: Not shown receiving private letter to Amphitrite or new camp wariness; older oath warning carries forward.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 009 · state and knowledge
+- **Source:** [Chapter 9](../../chapters/009-the-oracle.md)
+- **Event / absence / information provenance:** Ch009: Oracle copies mention prince/son of Poseidon; does not prove father's involvement in the rewrite or a direct encounter.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 010 · state and knowledge
+- **Source:** [Chapter 10](../../chapters/010-the-daughter-of-hecate.md)
+- **Event / absence / information provenance:** Ch010: Thalia challenges Percy about suspicious Zeus; Poseidon also not directly implicated from ward records. No direct Poseidon interaction.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 011 · state and knowledge
+- **Source:** [Chapter 11](../../chapters/011-the-eclipse.md)
+- **Event / absence / information provenance:** Ch011: No on-page personal appearance or proved notification of Percy injury.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 012 · state and knowledge
+- **Source:** [Chapter 12](../../chapters/012-what-remains.md)
+- **Event / absence / information provenance:** Ch012: Thalia hears Percy's memories of Sally when he tells her privately; Poseidon is absent and does not receive this disclosure.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.

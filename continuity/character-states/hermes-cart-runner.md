@@ -28,3 +28,28 @@
 ### Chapter 007 · source status
 - **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: During storm two younger boys abandon supply cart on Percy's instruction; do not conflate them with this earlier unnamed camper unless source confirms identity.
 - **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 008 · state and knowledge
+- **Source:** [Chapter 8](../../chapters/008-the-gathering-storm.md)
+- **Event / absence / information provenance:** Ch008: Ch002 cart rescue/edge review remain source-scoped; do not conflate this unnamed boy with Milo or Bea.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 009 · state and knowledge
+- **Source:** [Chapter 9](../../chapters/009-the-oracle.md)
+- **Event / absence / information provenance:** Ch009: No new identified contact.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 010 · state and knowledge
+- **Source:** [Chapter 10](../../chapters/010-the-daughter-of-hecate.md)
+- **Event / absence / information provenance:** Ch010: No identified new appearance; the Hecate blame note's unknown authors are not this boy by inference.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 011 · state and knowledge
+- **Source:** [Chapter 11](../../chapters/011-the-eclipse.md)
+- **Event / absence / information provenance:** Ch011: Camp evacuation children not proof of this individual's presence; no invented name.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 012 · state and knowledge
+- **Source:** [Chapter 12](../../chapters/012-what-remains.md)
+- **Event / absence / information provenance:** Ch012: No verified new contact; do not conflate with Nico/Bianca/Milo.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.

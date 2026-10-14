@@ -34,3 +34,28 @@
 ### Chapter 007 · source status
 - **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: Amphitrite previously wrote to Percy (letter and packing instructions he reads); according to Silena, Amphitrite has also written/sent supplies to both Poseidon sisters. Percy writes a personal reply but it is SEALED AND UNSENT at this chapter close. Amphitrite has NOT read it or inferred old-life secret.
 - **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 008 · state and knowledge
+- **Source:** [Chapter 8](../../chapters/008-the-gathering-storm.md)
+- **Event / absence / information provenance:** Ch008: Percy watches satyr messenger place his sealed letter into outbound SEA pouch. DISPATCH CONFIRMED for Percy; RECEIPT UNCONFIRMED for Amphitrite. Does not learn content/secret merely because letter left camp.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 009 · state and knowledge
+- **Source:** [Chapter 9](../../chapters/009-the-oracle.md)
+- **Event / absence / information provenance:** Ch009: No on-page receipt/reply; no news of Percy/Annabeth illicit Oracle trip established.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 010 · state and knowledge
+- **Source:** [Chapter 10](../../chapters/010-the-daughter-of-hecate.md)
+- **Event / absence / information provenance:** Ch010: No on-page contact or knowledge of Zoe's tests/Thalia limited disclosure.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 011 · state and knowledge
+- **Source:** [Chapter 11](../../chapters/011-the-eclipse.md)
+- **Event / absence / information provenance:** Ch011: No on-page report of eclipse injury received by Amphitrite; Chiron's possible external reports do not prove delivery.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 012 · state and knowledge
+- **Source:** [Chapter 12](../../chapters/012-what-remains.md)
+- **Event / absence / information provenance:** Ch012: Percy DIRECTLY tells Thalia he remembers 17 years with Sally despite altered Sally dying age two. Amphitrite is NOT on scene, is NOT told and cannot infer the memory gap from son's grief. Preserves her own altered-childhood memories, not Percy's.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.

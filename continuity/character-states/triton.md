@@ -34,3 +34,28 @@
 ### Chapter 007 · source status
 - **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: NOT PRESENT. Amphitrite's letters don't establish that Triton has learned camp events. All previous brotherly familiarity persists.
 - **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 008 · state and knowledge
+- **Source:** [Chapter 8](../../chapters/008-the-gathering-storm.md)
+- **Event / absence / information provenance:** Ch008: Not present, no verified letter to Triton or in-person meeting since Ch001.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 009 · state and knowledge
+- **Source:** [Chapter 9](../../chapters/009-the-oracle.md)
+- **Event / absence / information provenance:** Ch009: Not present; no newly remembered childhood scenes conferred to Percy.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 010 · state and knowledge
+- **Source:** [Chapter 10](../../chapters/010-the-daughter-of-hecate.md)
+- **Event / absence / information provenance:** Ch010: Not present. No knowledge of Chloe/Thalia claims inferred.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 011 · state and knowledge
+- **Source:** [Chapter 11](../../chapters/011-the-eclipse.md)
+- **Event / absence / information provenance:** Ch011: Not present; eclipse does not automatically notify him of details.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 012 · state and knowledge
+- **Source:** [Chapter 12](../../chapters/012-what-remains.md)
+- **Event / absence / information provenance:** Ch012: Not present; Percy does not tell Triton about the Sally disclosure to Thalia.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.

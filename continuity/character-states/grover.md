@@ -34,3 +34,28 @@
 ### Chapter 007 · source status
 - **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: No direct Grover event; no evidence of knowledge of Hall coupling origin or sealed Amphitrite reply.
 - **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 008 · state and knowledge
+- **Source:** [Chapter 8](../../chapters/008-the-gathering-storm.md)
+- **Event / absence / information provenance:** Ch008: No new authenticated direct conversation in inspected main scenes; early first encounter Ch001 remains.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 009 · state and knowledge
+- **Source:** [Chapter 9](../../chapters/009-the-oracle.md)
+- **Event / absence / information provenance:** Ch009: No prior-life memory or direct disclosure from Percy/Annabeth established.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 010 · state and knowledge
+- **Source:** [Chapter 10](../../chapters/010-the-daughter-of-hecate.md)
+- **Event / absence / information provenance:** Ch010: No meaningful current-person disclosure in reviewed scenes; no ghost memories acquired.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 011 · state and knowledge
+- **Source:** [Chapter 11](../../chapters/011-the-eclipse.md)
+- **Event / absence / information provenance:** Ch011: No established backstage knowledge of coupling/prophecy simply by being at camp.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 012 · state and knowledge
+- **Source:** [Chapter 12](../../chapters/012-what-remains.md)
+- **Event / absence / information provenance:** Ch012: FIRSTHAND sleeps in Cabin Three above Percy because his regular cabin smells of fresh paint (explicit Ch012 breakfast explanation); snores, participates in scaffold approach but retreats in fear, later at lake with Ella and communal dinner. Percy/Thalia know he accompanied pocket-sandwich attempt but not secret. Overnight stay is temporary, NOT permanent reassignment from satyr quarters.
+- **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
