@@ -856,7 +856,7 @@ At the gate Percy told Hazel he would like to see the final version someday. She
 
 "I'm getting used to those."
 
-Annabeth laughed. Their bags were light, but they were carrying more specific work home than any of them expected when the trip began.
+Annabeth laughed. Their bags were light, but they were carrying more specific work home than any of them expected when the trip began. Percy checked the host contact one last time before leaving. Thalia confirmed Jason would write to Beryl about the possible summer visit. Annabeth confirmed the foundation drawing belonged to Hazel and their joint project, not to her alone. They were ready to go.
 
 The gate was quieter without cohorts in formation, just friends in cloaks with red eyes. Frank had packed them so many snacks Grover would weep. Hazel pressed the napkin-library sketch into Annabeth's hands, now inked proper.
 
