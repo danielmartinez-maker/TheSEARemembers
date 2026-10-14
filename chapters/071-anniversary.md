@@ -360,6 +360,116 @@ They all laughed, and Annabeth felt that warm, fizzy feeling she got sometimes a
 
 A year of him staying.
 
+Annabeth had almost abandoned the card project on the second Tuesday in February.
+
+She remembered it because Malcolm had been wearing his green sweater inside out, and because a cold rain had started halfway through their meeting in the workshop. The table was covered with tiny squares of paper, inks, a magnifying lens borrowed from the library and two cards that had come by post from a collector in New Jersey. They were creased at the corners, the little painted monsters softened by years of handling.
+
+Malcolm slid one across the table. "That's the right edition, I think."
+
+Annabeth checked the printing mark. "It's missing a digit."
+
+"Because the corner's worn off."
+
+"Or because it's a later reprint." She turned the card under the lamp and examined the edge again. "He told us it was an original."
+
+"He told us he thought it was an original. The difference is six dollars and a lot of disappointment if you're planning to accuse a stranger of cheating."
+
+Annabeth put the card down. Malcolm had not asked what the gift was supposed to fix. He knew it was for Percy, that it involved a game Percy liked, and that Annabeth had persuaded him to help because he knew more about restoration inks than anyone else available. He had never asked why she cared whether the card matched a deck Percy couldn't produce.
+
+She loved him a little for that.
+
+"It's the wrong shade of green," she said.
+
+"Then it's the wrong shade of green. Does Percy care?"
+
+"I don't know."
+
+Malcolm stopped sorting the sleeves. "You usually know what Percy cares about."
+
+"That's the problem."
+
+He looked at her over the magnifying lens. Rain ticked against the workshop window.
+
+Annabeth folded her hands beneath the table. For three months she'd been sending polite letters to collectors and not-so-polite follow-ups to people who promised a response and then forgot. She had paid for one package with chores, traded a week of library duty for another, and walked to the camp post office twice in a storm because somebody had reported a delay. Each day brought another nearly-right thing. A spell card with a name spelled differently. A hero whose statistics had changed between editions. A water-damaged deck box with a smell so strong it made her think of wet schoolbooks.
+
+And at the back of her mind was an apartment that wasn't there.
+
+She had only seen pieces of Sally's home, in the life she remembered: the kitchen where Percy had offered her burnt pancakes, a little shelf of blue plates, a battered table with a wobbling leg. Percy had described where the cards had lived in a drawer and how Sally had occasionally tried to learn the rules. He remembered ordinary afternoons with such sharp affection that Annabeth wanted to return one intact.
+
+But the card on the table had the wrong green.
+
+"He'll recognize that it isn't the same," she said.
+
+"Well, it isn't the same."
+
+"I know."
+
+"Do you?"
+
+She was annoyed at him for asking it so simply. "I didn't come here to be psychoanalyzed."
+
+"Good. I'm terrible at it. I barely passed the unit on the brain." Malcolm pushed the card back to the middle of the table. "I'm trying to build you a present. I need to know whether we're making a replica that will disappoint you or a new deck that Percy can actually play with."
+
+Annabeth looked at the mismatched cards. The problem was that the answer hurt.
+
+"I wanted it to look like his old one."
+
+"You can keep some of that. But if we put your friends on cards, it's already going to be different." He tapped the unfinished sheet beside him, where Silena had painted Tyson grinning with his helmet tilted over one eye. "You asked for this, right?"
+
+"Yes."
+
+"Then tell me which part you're trying to preserve."
+
+Annabeth found it difficult to speak for a moment. She took off the cap she'd worn into the workshop and set it beside the ink bottles.
+
+"When everything changed, Percy was twelve and he knew things that hadn't happened," she said carefully. That much was not a new disclosure; Malcolm knew she and Percy had difficult memories of a life they discussed with one another, though he had never been invited into their full account. "People here knew him as someone else. They expected him to remember all sorts of things. I kept thinking that if I could find one thing from before, something stupid and ordinary, he wouldn't have to explain himself every time he looked at it."
+
+Malcolm's expression softened. "Does he have to explain himself to you?"
+
+"No."
+
+"Then maybe you don't need to make him a perfect museum piece. Maybe you need to make him something he can spill lemonade on."
+
+She stared at him.
+
+"Not my first choice of conservation method," Malcolm admitted. "But I know Percy."
+
+Annabeth laughed reluctantly.
+
+She took a clean sleeve and slipped the mismatched card into it. The green was still wrong. The name was still a little blurred. It didn't stop the card from being itself.
+
+"All right," she said. "A deck he can use. We keep the real cards that we find. We say which ones are restored and which ones we invented. No pretending the new ones were always there."
+
+"Now you're giving me a design brief."
+
+"You should feel honored."
+
+"I do not. You keep moving the deadline."
+
+She handed him a pencil. "That's what professionals call iteration."
+
+He threw an empty sleeve at her.
+
+They stayed until the rain stopped, sorting and writing notes. Annabeth drew up a clean inventory so nobody would have to guess which card belonged to which edition. When Silena arrived after dinner with the finished portraits, she asked before opening the folder, and Annabeth was careful to ask which paintings could be displayed at the party. Silena had agreed to make them as a gift, not to hand over every sketch she'd tried along the way. Annabeth had been reminded of that distinction very recently by Clarisse's black notebook.
+
+Silena laid Tyson's card in the center of the table. Malcolm held it up to the light.
+
+"He really looks like he's going to break the frame," he said.
+
+"He wanted his attack number to have seven zeros," Silena told them.
+
+"He asked me for twelve," Annabeth said.
+
+"Compromise," Malcolm said, writing ten more little zeros on a scrap.
+
+Annabeth looked at the bright face on the card and thought of Percy at the dining pavilion when Tyson arrived, pretending not to watch as his brother tried to decide where to sit. That day, Percy had moved over before anyone needed to ask. She could remember that with certainty. The color of a blanket from a different life could be wrong. This wasn't.
+
+She stopped calling the deck a replacement after that.
+
+Now, in the crowded rec room, she had the completed cards hidden beneath her notebook, their edges squared and sleeved. There was a list inside identifying the hand-painted additions and who had worked on them, so Percy could ask questions and receive real answers. If he noticed that one monster's claws were painted too many or that a familiar character had a different number, she would not correct his memory on the basis of a collector's guess.
+
+The gift was an invitation to play.
+
 "Okay," Annabeth said, wiping her eyes and picking up her notebook. Tucked inside the back cover was a flat, carefully wrapped package, no bigger than a paperback. She'd spent three months on it, trading favors all over camp, writing letters to libraries and collectors, begging the Athena kids for restoration help. "Places, everyone. Silena, lights? Connor, door? Thalia—"
 
 As if summoned, the door banged open and Thalia stuck her head in, hair wild from running down the hill. "He ditched Grover! He's heading for the dining pavilion! We have like five minutes!"
