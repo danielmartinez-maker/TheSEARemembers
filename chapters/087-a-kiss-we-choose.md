@@ -243,7 +243,6 @@ Percy stared at her. "You want to ask Clarisse La Rue for kissing advice."
 But he was already standing up, because when Annabeth got that look, resistance was ceremonial.
 
 ---
-
 Clarisse La Rue was in the arena hitting a practice dummy with a spear. She was Percy's older half-sister — same father, different mothers. Poseidon's daughter. Her helmet was pushed up and her armor scuffed.
 
 Silena Beauregard, the other Poseidon sister, was sitting on the arena fence with a sketchbook.
@@ -373,7 +372,6 @@ Chris called, "Tilt opposite! Don't both go left! Left-left is death!"
 Clarisse called, "BREATHE THROUGH YOUR NOSE!"
 
 ---
-
 They spent the rest of Sunday in a state of heightened, ridiculous nerves that Grover Underwood later described as watching two squirrels try to defuse a bomb.
 
 It started at dinner. The pavilion was golden with late light. The Poseidon table was, as always, loud. Percy and Annabeth sat in their usual spot where the Poseidon and Zeus tables almost touched. They tried to act normal. They failed.
@@ -483,7 +481,6 @@ He looked down. She was right. There was pizza on it.
 They hugged quickly at the porch steps, tight and warm, and then Annabeth went to find her sister while Percy went to panic in private.
 
 ---
-
 Thalia Grace was on Half-Blood Hill, sitting under the pine, watching the sun go down. She heard Annabeth coming up the path two steps at a time.
 
 "Hey, sparkplug," Thalia said without opening her eyes.
@@ -555,7 +552,6 @@ Annabeth hugged her once more, hard, then ran down the hill toward the lake, pon
 Thalia watched her go, hand pressed to her chest, and whispered to the wind, to whoever was listening, "Be good to her, Seaweed Brain."
 
 ---
-
 Percy Jackson spent the hour before seven-thirty in a state of preparation that could only be described as military-grade panic.
 
 He showered. He changed his shirt — twice, because the first replacement also had pizza on it. He brushed his teeth until Grover, sitting on Percy's bunk, said, "Dude, your enamel's going to complain."
@@ -707,58 +703,105 @@ Percy's throat closed. He held her tighter. "I love you too. You're my person to
 "And I'll never forget it."
 
 ---
+At the edge of the woods, Thalia Grace heard a branch snap.
 
-Up in the treeline above the lake, half-hidden behind a pine with bark digging into her shoulder, Thalia Grace stood with her hands clamped over her mouth and tears running freely down her face.
+She had been walking the regular border route since sunset, checking the path near the lake. The dock was visible through a break in the trees. She could have stepped behind the pine and watched Percy and Annabeth sitting together. She knew that if she did, she would be able to tell them exactly when they'd held hands and whether they'd kissed.
 
-She had told herself she wouldn't watch. She had told herself she would give them privacy, be cool, be the chill older sister who trusted and waited on the hill.
+She stopped.
 
-She had lasted approximately four minutes on the hill before muttering, "I'm just going to make sure no monsters show up, that's a legitimate sister duty," and creeping down through the trees with all the stealth she had learned on camp patrols.
+Annabeth had asked for privacy. It was a simple request, one her sister had managed to turn into a joke about excellent vision and protective patrols. Thalia realized that she was a little ashamed of the joke now. She wasn't guarding against monsters at the dock. She was trying to reassure herself that the people she loved were happy, and she wanted to see the proof with her own eyes.
 
-Now she was crying so hard her shoulders shook.
+She turned away.
 
-She watched Percy take Annabeth's hands. She watched Annabeth laugh through tears. She watched the nose bump and the laughter and the two brief, sweet kisses backlit gold, and she pressed her fist to her mouth to keep from sobbing out loud and scaring them.
+Grover was coming up the path with Clarisse, Silena and Chris. They carried a box of tissues and a bag of popcorn.
 
-*That's my baby sister,* she thought. *Choosing her person. Safe and happy and thirteen.*
+"Please tell me you weren't going to watch them," Thalia said.
 
-She thought of carrying a six-year-old Annabeth on her back and promising, *I'll keep you safe until we find somewhere safe.* She thought of every thunderstorm they'd huddled through, every night she'd hummed until Annabeth slept. And here was Annabeth, safe, at Camp, at sunset, held gently by a boy with sea-green eyes and clammy hands who loved her with his whole enormous heart.
+Clarisse stopped. "No."
 
-Thalia cried harder.
+"You brought binoculars."
 
-A branch cracked behind her. She whirled, hand on her spear — and found Grover, Clarisse, Silena, and Chris crouched in the bushes behind her with a pair of binoculars, a box of tissues, and a bag of popcorn respectively.
+"Chris brought binoculars."
 
-"What are you guys doing here?" Thalia hissed. "Clarisse, you said no spying! You made it a military operation!"
+Chris tucked them behind his back. "For birdwatching."
 
-"I said no one follows them," Clarisse whispered back, eyes suspiciously bright. "This is overwatch. It's different. It's tactical."
+"At night."
 
-"You have popcorn!" Thalia accused.
+"Owls exist."
 
-"It's emotional support popcorn!" Chris whispered. "Silena, give her a tissue."
+Thalia looked at all four of them until nobody could keep a straight face.
 
-Silena, already crying, handed Thalia a tissue with a sob. "They tilted opposite! Did you see? They tilted opposite! Our babies! Our beautiful babies!"
+"Look," she said, "I know you're excited. I'm excited too. But Annabeth told me she wanted to be alone with Percy. She didn't ask us to stand in the bushes and make their evening into a show."
 
-"They held hands the whole time," Grover wept quietly. "Did you hear what he said? He chooses her every day — "
+Silena stared at the tissues in her hand. "I didn't think of it that way."
 
-"I heard," Thalia choked. "Shut up, I'm trying to be tough."
+"Neither did I, at first."
 
-"You failed," Clarisse said gruffly, swiping at her own eyes with the back of her hand. "We all failed. They're perfect. If anyone tells Jackson I cried I'll deny it and then I'll kill them."
+Grover looked toward the dock. "They've been together a long time. It's weird to act like this is the first time they've ever kissed."
 
-"Noted," Chris said, putting an arm around her.
+"Exactly," Thalia said. "They wanted a different kind of evening after the storm. They can have it without us collecting evidence."
 
-Down on the dock, Percy and Annabeth stood wrapped together against the sunset, laughing softly about something none of the watchers could hear. The lake glowed. The stars came out. The world, for once, was gentle.
+Clarisse took the binoculars from Chris and folded them. "Fine. We're going home."
 
-Thalia stopped at the edge of the marked patrol path, realized the couple had not invited spectators, and turned back toward the cabins. She told the others that the dock belonged to Percy and Annabeth for the evening and there was no reason to watch them. Her love for her sister did not give her a right to spy.
+"Thank you."
 
-They crept away through the pines together, five unlikely guardians, sniffing and smiling and shushing each other, leaving the dock to the two thirteen-year-olds who had chosen each other — not in desperation, not in a storm, but on purpose, at sunset, with nervous laughter and strawberry chapstick and love.
+They began walking uphill. Thalia stayed with them rather than waiting for a glimpse of the couple through the trees. She wanted her sister to know that the promise of privacy meant something, not merely that everybody had agreed to be quiet while watching.
 
-On the dock, Annabeth tilted her head up. "Do you hear something in the trees?"
+At the fork, Silena caught her sleeve.
 
-Percy listened. Branches. Sniffling. A whispered argument about popcorn.
+"Can I ask you something?"
 
-"Nah," he said, smiling. "Just the wind."
+"Sure."
 
-"Just the wind," Annabeth agreed, smiling too, leaning into him.
+"Do you think Annabeth will be disappointed if we don't ask her about it tomorrow?"
 
-And they stayed until the last gold faded from the water, holding hands, chosen and choosing, thirteen and brave and just beginning.
+Thalia thought about that. It was a strange problem: caring about someone meant wanting to share their happiness, but the same care could become pressure to explain every happy moment.
 
+"We can ask whether she had a good evening," Thalia said. "If she wants to tell us what happened, she'll tell us."
+
+"And if she doesn't?"
+
+"Then she doesn't."
+
+Silena smiled. "That's not terribly romantic."
+
+"It's more respectful than emotional support binoculars."
+
+Chris sighed. "I am never living those down."
+
+"Correct," Clarisse said.
+
+They passed the Big House, where Chiron was closing the last windows before the night chill. He asked whether the border route was clear.
+
+"Yes," Thalia said. "And the dock is occupied. Percy and Annabeth have permission to stay until the evening bell. There's no reason to send anyone down there unless they ask for help."
+
+Chiron nodded. "Then we will leave them to it."
+
+Thalia felt the old urge to return to the hill and make sure Annabeth was safe. She let the urge pass. Percy knew the lake; Annabeth knew the paths; the camp border was watched. Neither of them needed Thalia to decide how long a kiss should last.
+
+She went to Cabin One and set the patrol lantern by the door. On Annabeth's bed a book lay open beside a folded drawing of the new camp infirmary signs. Her sister had spent the morning making those signs readable for younger campers. The ordinary evidence of her life was all around Thalia. She didn't need to see the private parts to know Annabeth had built a place for herself.
+
+Thalia sat on her own bunk and opened the letter from Jason she'd been meaning to answer. He had asked whether she still wanted to propose a smaller sibling visit before committing to the weekend at Beryl's house.
+
+She took out a pen.
+
+*Yes*, she wrote. *Let's ask Annabeth when she gets back. I don't want to decide for her. And I'd rather see you first someplace we can all leave when we're ready.*
+
+She folded the letter and set it beside the lantern. The hardest part of being an older sister, she thought, was learning that protection could mean doing nothing after checking that nothing needed to be done.
+
+Later Annabeth came through the cabin door smiling. Thalia looked up from her book.
+
+"Good evening?" she asked.
+
+"Good evening," Annabeth said.
+
+"Want to talk?"
+
+"Not yet."
+
+"Okay."
+
+Annabeth changed into comfortable clothes and sat on her own bunk, still smiling. Thalia returned to her book. They didn't need a report. They were sisters, and tomorrow there would be other things to say.
+
+At the dock, far beyond the line of trees, Percy and Annabeth stayed until the last gold faded from the water, holding hands, choosing to spend an ordinary evening together without an audience.
 ---
-
