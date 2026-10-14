@@ -483,6 +483,56 @@ He looked down. She was right. There was pizza on it.
 They hugged quickly at the porch steps, tight and warm, and then Annabeth went to find her sister while Percy went to panic in private.
 
 ---
+On her way to the hill, Annabeth stopped by the old bridge near the creek.
+
+The railing had been repaired after the rain earlier in June. A new length of timber sat where the old one had split, and the warning signs had been removed only after the repair crew checked the bolts. Annabeth leaned on the safe section and looked down at the water, letting her mind settle.
+
+She wasn't afraid Percy would reject her. They had been together for years in the life they remembered and more than a year in the one they were living now. She knew the way his face changed before he laughed, the way he held his breath when he was trying not to cry, and how he waited for her to explain an idea even when the explanation required diagrams on three sheets of paper.
+
+The fear was stranger than that. She was afraid they'd turn a tender moment into an assignment and disappoint one another by failing to follow the plan.
+
+She thought of the spring dance, when Percy had tried to keep counting the steps instead of listening to the music. She thought of the Pennsylvania memory trap, where the false version of Percy had spoken in exactly the right way and she still knew something was wrong. Love couldn't be verified by perfect lines or familiar words. She had learned that painfully.
+
+A girl from the Demeter cabin came down the path carrying a small basket of seedlings. She stopped at the bridge, looked at the newly repaired rail and reached out to test it.
+
+"Did they finish?" she asked Annabeth.
+
+"Yes. Beckendorf signed it off this morning."
+
+"Good. My brother fell here last week and doesn't want to cross it now."
+
+Annabeth looked toward the far path. "He doesn't have to use it until he's ready. There's another route by the pavilion."
+
+"That's longer."
+
+"It is. But he can choose."
+
+The girl nodded and went on toward the garden. Annabeth watched her cross the bridge without hesitating. The boy she'd mentioned would still be frightened, and the repair certificate wouldn't make his fear disappear. Both things could be true.
+
+She continued uphill and found a quiet place beside the pine. Thalia was supposed to be on watch later, and Annabeth had promised to speak with her before the shift began. She took out a scrap of paper and wrote three words: *Want. Can. Change.*
+
+She stared at them for a while. It wasn't a vow or a magical formula. It was the reminder she needed for tonight.
+
+She wanted time with Percy. She could say yes to a kiss or stop it, and so could he. They could change their minds without accusing each other of not loving enough.
+
+Annabeth folded the paper and put it away. She knew Percy would tease her for writing a checklist about kissing. She didn't mind. A checklist was useful only if it helped her listen afterward, not if she used it to control every motion.
+
+For a moment she thought of telling Thalia everything: the frightened relief of the storm, Percy's exhaustion, the argument in the infirmary, the way he'd agreed to practice retreat signals with the whole rope team. Thalia knew parts of it from the incident report. The rest belonged to Percy as much as to Annabeth. She could ask for advice without giving away his private words.
+
+When she heard her sister approaching along the patrol path, she stood.
+
+"Hey," Thalia called.
+
+"Hey."
+
+Thalia looked at her face and immediately frowned. "Is something wrong?"
+
+"No. I just wanted to tell you what I'm doing tonight."
+
+"Okay."
+
+Annabeth smiled. She was ready to talk about a choice, not ask someone else to authorize it.
+
 Thalia Grace was on Half-Blood Hill, sitting under the pine, watching the sun go down. She heard Annabeth coming up the path two steps at a time.
 
 "Hey, sparkplug," Thalia said without opening her eyes.
