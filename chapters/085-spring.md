@@ -910,7 +910,7 @@ He put both letters on the desk where he would see them in the morning. The note
 
 From the neighboring bunk came Clarisse's familiar complaint about the way the blankets were folded. Silena answered that Clarisse could fold them herself. Percy lay down and listened to the argument turn into quiet laughter.
 
-Not every night had to become a revelation. Sometimes home meant hearing your sisters disagree about laundry while you were almost asleep, and knowing nobody was asking you to choose a side.
+Not every night had to become a revelation. Sometimes home meant hearing your sisters disagree about laundry while you were almost asleep, and knowing nobody was asking you to choose a side. Tomorrow he would ask whether they wanted help with the next load. Tonight he could close his eyes without turning their conversation into something he had to solve. They knew one another. That was enough.
 
 Spring had come back, as it always did. So had they. So would they.
 
