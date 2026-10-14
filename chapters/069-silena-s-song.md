@@ -1,5 +1,355 @@
 ## Chapter 69: Silena's Song
 
+---
+
+The day of the campfire, Silena had spent forty minutes trying to convince a guitar that it did not need to be tuned by force.
+
+It was not her guitar. The Apollo cabin kept it in a cupboard beside three cracked tambourines, a lyre with one missing string, and the drum Austin had once used to keep time for an entire song in the wrong time signature. Silena had only offered to help Kayla sort the instruments because the cupboard was stuck, and because Kayla had been trying to balance a stack of music books while opening it with her knee. One thing had led to another. Now Silena sat cross-legged on the floor of the Apollo common room with a guitar in her lap and a tuning key between her fingers, while Kayla crouched across from her and Austin held the neck steady.
+
+“You can stop,” Kayla said. “I know you have things to do.”
+
+“I’m not being held here hostage by a guitar,” Silena said. “It’s just that this string is wrong.”
+
+“The string has been wrong since last summer,” Austin said. He plucked it. The sound came out dull and low. “We’ve learned to live with it.”
+
+Silena turned the tuning key a fraction. “Maybe it’s tired of being wrong.”
+
+The note sharpened. Kayla’s eyebrows rose. Silena kept her eyes on the headstock. She had never learned enough about instruments to call herself a musician, but she could hear when something was out of tune. She could hear when a song wanted another breath before the next line. She could tell when a person was singing loudly to cover the fact that they weren’t sure they wanted to be heard.
+
+That last skill was harder to explain. It was probably just paying attention. Silena was good at that.
+
+The common room door stood open to the late-afternoon sun. Beyond it, campers crossed the green carrying chairs toward the amphitheater. Someone had left a stack of song sheets on the porch rail, corners pinned down with a smooth stone. Kayla had made the evening program on a piece of butcher paper: opening set, two call-and-response songs, camp announcements, then requests. She’d drawn little stars around the final word.
+
+Silena noticed the word before she could stop herself.
+
+“You put my name there.”
+
+Kayla looked at the sheet, then at Silena. “I wrote ‘requests.’ I didn’t put your name.”
+
+“You put stars around it.”
+
+“I like stars.”
+
+“Kayla.”
+
+The older girl sat back on her heels. “People have been asking me if you’d sing. I didn’t promise anything.”
+
+Silena’s fingers went still on the tuning key. She could hear the camp in the distance: the clank of dishes from the pavilion, the scrape of a practice shield, a shout from the direction of the canoe lake. Normal sounds. Nobody was calling for her. Nobody had even said her name. Still, the room seemed to have narrowed around the butcher paper.
+
+“I told you maybe,” she said.
+
+“I know.”
+
+“Maybe doesn’t mean yes.”
+
+“I know that too.” Kayla’s voice had lost its teasing edge. “I’m not trying to trap you. The campers keep asking, and I thought you might like to choose something if you wanted. But I can take your name off the program. I haven’t told anyone you’re singing.”
+
+Silena let the tuning key rest in her palm. “Could you leave ‘requests’ on the sheet without pointing at me?”
+
+“Of course.”
+
+"And if people ask you about me, tell them you don't know yet. Don't make it sound settled before I get to decide."
+
+Kayla nodded once. “Done.”
+
+Austin looked down at the guitar. “Does this mean I should take the stars off?”
+
+“You can leave the stars,” Silena said. “They’re not the problem.”
+
+“Great. I was attached to those stars.”
+
+She bent over the instrument again, partly to hide the small smile that had escaped. The last string came into tune with a clean, bright note. Austin tried the chord he’d been reaching for before. This time it held together. Kayla hummed the next one, then the next, checking the sound against the guitar. Silena listened and shifted a peg by a breath.
+
+“There,” she said.
+
+Austin strummed the chord again, more carefully. “Okay. That is considerably less sad.”
+
+“The guitar was not sad,” Kayla said. “It was expressing itself.”
+
+“It was expressing that it wanted a new owner.”
+
+Silena put the tuning key down. It was a small repair, hardly a performance. No one clapped. No one had asked her to stand up. Her shoulders had dropped without her noticing.
+
+“Can I ask you something?” Kayla said.
+
+“You just did.”
+
+“That’s fair.” Kayla picked up the butcher-paper program, folded it in half, and used the crease to cover the stars. “When people ask you to sing, what part makes you want to run? The singing, or the people watching?”
+
+Silena looked at her. Kayla was asking in a way that left space for no answer. That helped.
+
+“The moment where everyone decides what I’m going to do before I decide,” Silena said. “When they’re excited, it feels like I’ve already disappointed them if I say no.”
+
+Kayla’s mouth tightened. “That’s not what I want.”
+
+“I know. You’re excited too. That’s not bad.” Silena ran her thumb along the guitar’s smooth edge. “It just gets loud very quickly.”
+
+Austin rested the instrument against his knee. “We can tell everyone not to chant.”
+
+Silena thought of the amphitheater full of campers, of dozens of faces turning to her all at once. “You can ask. You can’t make them do it.”
+
+“No,” Kayla said. “I can’t.”
+
+They sat quietly. The sun moved a little across the open doorway. A dryad passed by carrying a basket of apples and paused to listen to Austin’s new chord. He gave her a solemn bow. She gave him one apple, which he accepted as a payment for his services.
+
+Silena took the apple from him and polished it against her sweater. “I could help with the requests,” she said.
+
+Kayla tilted her head. “How?”
+
+“If someone asks for a song, don’t make the person sing it just because everyone likes it. Ask them first. If they say no, pick another song. If they say maybe, give them time.”
+
+“That sounds obvious.”
+
+“It should be.”
+
+“We can do that.” Kayla unfolded the program and wrote a small note beneath the request section. She read it aloud as she wrote: “‘Requests are invitations. The person asked gets to choose.’”
+
+Silena frowned. “That sounds like a camp rule.”
+
+“It can be a music rule.”
+
+“A rule is something Chiron writes on a board.”
+
+“Then it’s a suggestion.”
+
+“That sounds worse.”
+
+Austin leaned over to read the note. “How about, ‘Ask the person. If they say no, pick another song.’ Simple enough for the Stolls.”
+
+“Nothing is simple enough for the Stolls,” Kayla said, but she crossed out the first sentence and copied Austin’s version underneath the request heading.
+
+Silena watched the pencil move. A small thing, a few words on a program. It would not stop people from looking at her. It would not make a crowd quiet or take away the strange rush of being wanted and watched at the same time. But it meant the person with the guitar would remember to ask. It meant there was a sentence she could point to if her own voice got lost.
+
+“Thank you,” she said.
+
+“You’re welcome.” Kayla laid the program aside. “And you still don’t have to sing tonight.”
+
+“I know.”
+
+"Do you want me to tell the others you haven't decided?"
+
+“No.”
+
+Kayla nodded. There was no hurt in it. “Okay.”
+
+Silena stood and brushed dust from her skirt. She could have gone back to Cabin Three. She could have done the afternoon sewing she’d planned, or found Clarisse at the arena before she started shouting at someone about their guard again. Instead, she picked up the guitar and tested the repaired chord one more time.
+
+The sound was warm. Not polished, not perfect. It belonged to a song that had not started yet.
+
+“Can I borrow this for a little while?” she asked.
+
+“For practice?” Austin said.
+
+“Maybe.”
+
+Kayla smiled, but didn’t turn the word into a promise. She gave Silena the guitar strap and helped her thread it over her shoulder. The instrument felt heavier than it looked. Silena adjusted the strap until the body rested against her hip, then took it off again. She didn’t know why she’d picked it up. Maybe she wanted to see if she could walk across the green with it. Maybe she wanted the option without the obligation.
+
+She carried it to the door.
+
+“Silena?” Kayla called.
+
+Silena turned.
+
+“If you do sing, what would you want to sing?”
+
+The question opened a door in her chest. Behind it waited the lullaby: the tune she had learned in pieces, the one her mother used when the sea was loud outside the windows, the one that didn’t belong to a stage. She felt its first notes move behind her teeth and held them there.
+
+“I don’t know yet,” she said.
+
+“That’s an answer,” Kayla replied.
+
+Silena stepped outside with the guitar. The late sun caught the edge of the strings. She passed the pavilion and took the path behind the cabins, where the voices from the arena thinned and the trees let the sea breeze through. She didn’t play. She only let the instrument rest against her side while she walked.
+
+By the time she reached the low fence near the strawberry fields, she had picked a song. She did not tell Kayla. She didn’t tell anyone.
+
+That was part of choosing it.
+
+---
+
+The field fence ended at a narrow path that curved toward the Sound. Silena followed it until the strawberry rows gave way to scrub pine and sand, then stopped where the ground dipped enough to hide her from the camp.
+
+She had not planned to come to the beach. She had only meant to walk until the guitar stopped feeling like a question. The case strap pressed across her shoulder. The instrument knocked softly against her hip whenever she stepped over a root.
+
+The water below the bluff was not the water of Atlantis. It was cold, shallow at the edges, and full of the little waves that came from boats farther out. The sun had turned the surface into a scatter of bright pieces. Silena sat on a flat rock, lifted the guitar into her lap, and checked the repaired string.
+
+It stayed in tune.
+
+She tried the chord Austin had played, then another one Kayla had shown her. They fit together well enough. She knew the shape of a few more from watching the Apollo cabin practice, and her fingers could find them if she went slowly. The guitar sounded good when she played them. It sounded like the beginning of a song she might hear at a campfire, something people could tap their feet to and sing along with.
+
+That was not the song she had chosen.
+
+Silena set the guitar aside and closed her eyes. She could hear the lullaby without trying. Its tune had no need for a regular beat. Some notes stretched, some tucked themselves close to one another. The lines did not end where a guitar chord wanted them to end. When she tried to fit the melody over the simple progression, she kept arriving at the next note too early.
+
+She tried again, more quietly. Her voice moved through the first phrase. The chord changed under it and made the next note sound wrong. She stopped before the line finished.
+
+“That’s annoying,” she told the empty beach.
+
+A gull answered from somewhere down the shore, sounding unimpressed.
+
+She turned the guitar sideways and tried to pluck the melody instead. Her fingertips found the first few notes, then the string spacing defeated her. The song fell into a shape she did not recognize. She knew enough to tell she had lost something, and not enough to understand how to get it back.
+
+For a while, she kept trying anyway. She changed the chord, then the pace, then started over from a different place. She found a version that almost worked if she hummed the melody under her breath, but it pushed the words into a square little pattern. The lullaby became a camp song. It sounded cheerful. It sounded easy to teach. It sounded like something that belonged to everyone before Silena had even decided whether she wanted anyone else to hear it.
+
+She laid the guitar down on the sand and brushed grit from the strings.
+
+It was not the instrument’s fault. Austin and Kayla had offered it because they were trying to make room for her. It would have been simpler if they had done something wrong. Then she could have been annoyed at them instead of having to decide what she wanted.
+
+The wind moved her braid against her neck. She listened to it pass through the grass at the top of the bluff. In the quiet, the song returned at its own pace. Its first notes were soft, not because she was afraid of them, but because that was how the lullaby began. She remembered singing the reef-lullaby at summer tide until dolphins answered. She could not say who had first taught her the tune. She did remember that evening: the water, the slick backs breaking the surface, and how the song had seemed to travel farther than her voice. It had belonged to her before anyone asked her to sing it for a crowd.
+
+She tried the opening once more without the guitar.
+
+The sound came out small. It did not carry much farther than the rock. That was all right. She followed the melody to the end of the line, paused where the breath belonged, then began again. The words sat differently when she sang them alone. She could let the last syllable last as long as it needed. She could take a breath when the tide pulled back. Nothing was keeping time but her.
+
+The guitar remained beside her, useful and beautiful and unnecessary.
+
+Silena stood and brushed sand from the back of her skirt. She would return it before the campfire. Austin needed it for the Apollo set, and she did not want Kayla to think borrowing it meant she had decided to perform. She put the instrument back in its case and started uphill.
+
+Halfway to the path, she heard footsteps coming from the camp. A younger camper appeared around the bend, walking fast and looking down at the trail. Silena recognized him from the Hermes cabin, though she could not remember his name. He carried a tin whistle in one hand and kept closing his fingers around it until only the mouthpiece showed.
+
+He stopped when he saw her. “Are you going to sing tonight?”
+
+Silena shifted the guitar case to her other shoulder. “I haven’t decided.”
+
+“They said you were.”
+
+“Who said?”
+
+“The Stolls. They said Kayla had the whole thing planned.” He looked at the instrument. “Are you practicing?”
+
+“I was trying to see if this would work with the song.”
+
+“Does it?”
+
+“Not really.”
+
+He considered that. “Can I show you something?”
+
+Silena nodded, and he lifted the tin whistle. “I can play the first part of ‘Yankee Doodle.’ I messed it up yesterday because everyone was watching. I want to get it right before I try again.”
+
+“Do you want me to listen?”
+
+The boy’s face changed. His hand lowered an inch. “Maybe. But don’t tell them.”
+
+Silena looked back toward camp. She could see the roof of the Apollo cabin between the trees. “I won’t.”
+
+“And don’t make me play it.”
+
+“I won’t do that either.”
+
+He stood with the whistle at his side. The pause stretched on. Silena could have said something helpful. She could have told him that he didn’t have to play at all, that nobody would mind, that the first note was the hardest. She recognized all the sentences people used when they were trying to make a decision for someone else while sounding kind.
+
+So she waited.
+
+The boy finally lifted the whistle to his mouth and played four notes. The first came out clear. The second squeaked. He lowered it immediately.
+
+“That’s it,” he said.
+
+Silena nodded. “Thanks for letting me hear.”
+
+He frowned, like he had expected a different response. “You’re not going to say I should keep going?”
+
+“Do you want to keep going?”
+
+“I don’t know.”
+
+“Then you don’t have to decide yet.”
+
+He looked down at the whistle again. His shoulders loosened a little. “Can I try one more time?”
+
+“Sure.”
+
+The second attempt made it to six notes before the squeak. He stopped, but he didn’t put the instrument away. He tried the opening a third time, and this time the pitch held. It was still not the whole tune. It was enough for him to smile.
+
+“I did it,” he said.
+
+“You did.”
+
+Silena wanted to tell him that the squeak did not matter. She let the thought pass. It would have been easy to turn his small success into a lesson about courage, to tell him that he ought to keep going because he had already come this far. Instead she asked, “Do you want to play it again, or are you done for today?”
+
+He considered the whistle as if it might answer for him. “Done for today.”
+
+“Then you’re done.”
+
+He slipped it into his pocket with more care than before. “Maybe I’ll play next week.”
+
+“Maybe,” Silena said.
+
+The word did not need to mean more than it did. She felt the difference in the quiet between them: he could leave with six notes, and she could leave with an unfinished decision. Neither of them owed the path a grand ending.
+
+“You can tell Kayla I practiced.”
+
+“If you want me to.”
+
+“Maybe later.” He tucked the whistle into his pocket. “Do you think they’ll let me play a short part next time?”
+
+“I think they’ll ask you. Then you can tell them what you want.”
+
+He made a face. “That’s not an answer.”
+
+“It’s the honest one.”
+
+He glanced toward the camp, then back at her. “If I say no, I can play it for you instead.”
+
+“If I’m around.”
+
+“Okay.”
+
+The boy continued along the path. He had not decided whether to play for the camp. Neither had she. They had both tried one thing and stopped when it was enough.
+
+Silena carried the guitar back to the Apollo common room. Austin had started arranging chairs outside; Kayla was helping a pair of campers find the right lyrics for the call-and-response set. No one asked what Silena had practiced. No one asked what she had decided. She returned the instrument to the cupboard and told Austin the repaired string was holding.
+
+“Thanks,” he said. “Do you want to keep it out in case you need it?”
+
+Silena glanced at the open cupboard, then toward the amphitheater. “No. The song doesn’t need it.”
+
+Austin leaned his head to one side. “All right.”
+
+She felt lighter walking away. The decision was not a promise to sing. It was only a decision about what she would bring if she did.
+
+The campfire was still an hour away. There was time for her to change her mind.
+
+Kayla was still outside the Apollo cabin. The program lay on the step beside her, weighted with the same stone. Its pencil note about requests had smudged where a thumb had brushed the paper, but it could still be read.
+
+“How was the guitar?” Kayla asked.
+
+“It works.”
+
+“And the song?”
+
+“It doesn’t want a guitar.”
+
+Kayla accepted that without asking Silena to demonstrate. She gathered the program and rolled it loosely around the pencil. “That’s good to know.”
+
+“I might want to sing it without music.”
+
+“Okay.”
+
+Silena studied her face for a sign that she was disappointed. Kayla only looked thoughtful. The answer had been easy for her; maybe Silena had made the question harder in her head than it was in the world.
+
+“You don’t have to arrange anything around me,” Silena said. “If I do it, it’ll be one song. I don’t know if I’ll want another.”
+
+“One song is a whole song.”
+
+“And I don’t want the guitar passed to me in front of everyone. I’d rather not have to take it and then explain.”
+
+“I can leave it on the stand.” Kayla looked over toward the amphitheater, where Austin was testing the drum. “If you decide you want to sing, we can leave the space open. If you don’t, we’ll go right to the next song.”
+
+“You can do that?”
+
+“It’s our program. We can change it.”
+
+Silena let the thought settle. One song. No borrowed instrument. No obligation to fill the space afterward. It was still frightening, but it was something she could picture doing. She had not said yes. She had found the edge of a yes and stopped there.
+
+“All right,” she said. “Leave the space open.”
+
+Kayla smiled. “I can do that.”
+
+Silena went to her cabin to put away the guitar case. She changed her sweater for the blue one Clarisse had lent her, then changed back because the borrowed sweater was too warm by the fire. She braided her hair again when the shells at the end tangled in the wind. She washed her hands, though they were already clean. When she came back outside, the amphitheater was filling, and the sun had slipped low enough to turn the grass gold.
+
+She could still turn around. The path was open behind her. No one stood in it. She walked toward the fire anyway, not because she had promised anyone she would, but because she wanted to see what the evening felt like before she decided.
+
+---
+
 The campfire had been burning for an hour before Silena agreed to sing.
 
 It was a Friday night in April, the kind of night Camp Half-Blood did best. The air had gone crisp at the edges but the fire kept the amphitheater warm. The sky was a deep, star-crowded blue. The logs in the center pit crackled and threw sparks up in orange spirals, and the Apollo cabin had already done their usual opening set — three fast songs on lyres and drums that got the Hermes cabin standing on benches and the Ares cabin banging their shields in time.
@@ -126,7 +476,37 @@ They took their places by the fire. Kayla handed Silena her spare guitar, but Si
 
 "Can I — can I just sing? No music for the first one? It's an old one. It's better without."
 
-Kayla nodded and stepped back. Austin set his drum down. The fire crackled. The whole camp went quiet in that sudden, total way crowds did when they knew something real was about to happen.
+Kayla looked down at the guitar in Silena’s hands. “You don’t want me to start it?”
+
+“No. I know where it starts.”
+
+“All right.” Kayla kept her voice low, even though the first rows could hear. “Do you want me to stay up here?”
+
+Silena glanced toward Clarisse. The old arrangement had been to have her sister close enough that Silena could find her if the room got too large. She had not expected to want that now, but she did. “Could you ask Clarisse to stay?”
+
+Kayla turned toward her. “Clarisse?”
+
+“Please.”
+
+Clarisse stepped forward at once. Her face had gone carefully blank, the look she used before a sparring match. She did not reach for Silena or take the guitar from her. She only moved to the place Silena indicated, beside the fire where she could see her without turning away from the crowd.
+
+“There,” Silena said. “That’s good.”
+
+“You sure?” Clarisse asked.
+
+Silena thought about the boy with the tin whistle. He had played six notes, stopped, and decided whether to begin again. No one had needed to carry him through the whole tune. She could do the same thing. She could sing the first note and decide what came next after it.
+
+“I’m sure I want to try.”
+
+Clarisse nodded. “Then try.”
+
+Silena handed the guitar back to Kayla. The instrument felt safe against her body; empty hands felt less so. She put both hands together in front of her, then let them fall to her sides. She did not have to hold anything to keep her place.
+
+Kayla took the guitar and stepped away. Austin moved his drum farther from the fire so its rim would not catch on a log. Nobody rushed to fill the pause. The arrangement Silena had made in the afternoon was not a guarantee that the crowd would be quiet or that her voice would behave. It was a small piece of room around the choice.
+
+She drew a breath and looked at Clarisse once more. Her sister was still there. That was all she needed from her.
+
+Austin sat beside the drum he had moved. The fire crackled. The whole camp went quiet in that sudden, total way crowds did when they knew something real was about to happen.
 
 Silena stood very still for a moment, her hands clasped in front of her sweater, her eyes on the flames. Clarisse stood a half-step behind her with her arms crossed, feet planted, chin up, glaring out at the audience like *go on, I dare you to make a sound.*
 
@@ -165,6 +545,12 @@ She was watching her sister with an expression Percy had never seen on her face 
 Silena finished on a note so soft it was almost breath.
 
 *Every wave that leaves the shore will bring you home.*
+
+She did not look at the crowd right away. Her fingers had curled into her palms, and she opened them one at a time. The fire was still there. Clarisse was still beside it. Kayla had lowered her hands from her guitar, leaving the next beat empty. Nobody had moved to fill it for Silena.
+
+She had sung the song all the way through. That was what she had decided to try, and she had done it. The applause that might come next belonged to the listeners. The next song belonged to Kayla. Silena did not have to keep standing there until someone told her what else she owed them.
+
+Then she lifted her eyes.
 
 Silence.
 
