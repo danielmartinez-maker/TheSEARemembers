@@ -774,7 +774,143 @@ Apollo set up. A fast song filled the room. Percy and Annabeth got punch and wat
 
 Grover tripped. Ella and Juniper caught him. They laughed.
 
-Percy's nerves turned good-buzzy, same as before. Then music changed.
+The music stopped.
+
+It happened in the middle of Austin's second fast song, just as the dancers were starting to find the rhythm. The lanterns above the punch table blinked once. A low pop came from the sound box. Then the room was quiet except for shoes scuffing the floor and the Stolls arguing about whether the silence was part of the program.
+
+Austin lifted his guitar. "That wasn't me."
+
+Kayla checked the cable. "No, it was the speaker."
+
+A few campers laughed. Someone clapped as though the silence had been a successful trick. Percy looked toward Annabeth, who was already scanning the room. The lanterns were still giving off a faint light, but the ones near the far wall had dimmed.
+
+"It's probably the shared circuit," Annabeth said. "We loaded the light rig and the speakers onto the same line after the room was decorated."
+
+"Can you fix it?" Percy asked.
+
+"Not by guessing."
+
+Thalia was standing near the door. She lifted her hands instinctively, a tiny static glow moving over her fingertips, then stopped.
+
+"No," she said to herself. "This isn't a lightning problem."
+
+Percy almost laughed. He had spent years seeing people solve an ordinary mistake with an extraordinary power, only to discover they'd made everything worse. Thalia was getting better at not becoming the entire emergency response.
+
+Chiron crossed the room and spoke to the Apollo sound crew. They unplugged the damaged speaker and checked that it wasn't hot. Beckendorf took one look at the connection board and told them it would need an inspection before anyone switched it on again.
+
+"No jury-rigged extension leads," he said. "We'll use acoustic music for now."
+
+Austin shrugged. "I can play guitar without a speaker."
+
+"Kayla can play flute," Silena said.
+
+Kayla looked up. "Obviously."
+
+The problem might have ended there. But Percy noticed Milo standing rigid near the punch table, his hands pressed to his ears. Lucy was beside him holding her light-up sneakers by their laces, and Bea had begun to cry quietly into her stuffed seal.
+
+The loud pop had frightened them. So had the sudden pause and the older campers crowding toward the sound crew to find out what happened.
+
+Percy walked over slowly and stopped a few feet away.
+
+"You okay?" he asked Milo.
+
+"I hate when things make that noise."
+
+"Fair."
+
+"Is the building going to catch fire?"
+
+"No. Beckendorf unplugged the speaker and Chiron is checking it. You don't have to stay by the equipment."
+
+Milo stared at the floor. "I wanted to dance."
+
+"Then we can find a place where you can still hear the music without being close to the speaker."
+
+Lucy looked toward the far door. "Can we go outside?"
+
+"Sure. Your counselor's right there. Tell her where you're going."
+
+Bea nodded before he had finished. She wanted to leave the room, and Percy wasn't going to argue that the dance was supposed to be fun.
+
+Annabeth appeared beside him with the floor plan tucked beneath her arm.
+
+"The side path is clear," she said. "The one by the windows. We kept it open for exactly this kind of thing."
+
+Percy grinned. "You mean your flow diagram was actually useful?"
+
+"Try to contain your surprise."
+
+She showed Lucy where the lower doorway led to a covered porch. It wasn't an emergency exit and didn't need to be treated like one; it was simply a quiet way out that didn't require pushing through the dance floor. The counselor took Bea's hand after Bea offered it, and Milo followed with Lucy.
+
+Percy watched until they were out of the room. He thought of the beach day when Milo had counted a missing tide pool and helped recover it without treating anyone as a villain. Tonight someone else was noticing what Milo needed. That felt right.
+
+Tyson was near the center of the floor with his hands awkwardly raised in a dance position. He looked at the empty space where the music had been.
+
+"Brother," he said when Percy approached. "Should I help?"
+
+"Maybe. What do you want to do?"
+
+Tyson pointed toward the group of campers milling near the doorway. "People are in way. Annabeth wanted clear path."
+
+Percy nodded. Tyson didn't need a job invented for him, and he didn't need Percy assigning people to move. He could simply ask.
+
+"Could you and Clarisse help the counselors keep the aisle clear?" Percy said. "Without pushing anybody?"
+
+"Yes."
+
+Tyson went to find his sister. Clarisse was already moving the nearest chairs back against the wall. She gave Tyson one end of a bench and directed him to the other. They moved it together, then stopped when the path was wide enough. Clarisse told the Stolls not to put it back unless they enjoyed listening to Chiron explain fire exits for the rest of the evening.
+
+Silena began asking the younger campers whether they'd rather sit and wait or try dancing without amplification. Some chose chairs. Some stayed on the floor. One Apollo boy insisted the whole problem had been caused by the Stolls' punch, but nobody paid him much attention.
+
+Grover took a breath and approached Ella.
+
+"Will you still dance with me?" he asked.
+
+Ella looked at the broken speaker, then at Austin tuning his guitar.
+
+"Yes," she said. "When there is music."
+
+"Fair."
+
+Juniper stood nearby, smiling. She hadn't come to the dance to supervise anybody's feelings, and Percy was glad nobody was asking her to. She found a seat near the windows where she could see the floor and the tree line outside.
+
+Austin strummed a simple rhythm. Kayla found the melody above it. The sound was quieter without the speakers, but it carried far enough for the nearest rows of dancers to hear.
+
+Someone started a clap. Others joined. Percy noticed that the beat wasn't exactly the same as the original fast song. It didn't matter. The dancers began moving again, a little slower this time.
+
+The older campers cleared enough space for a wide circle. Tyson stood near the edge, where he'd said he wanted to begin. Nyssa was still watching the unplugged equipment. She gave him a quick wave when he looked over, then returned to the inspection.
+
+Nico arrived beside Percy with a small plate of cookies.
+
+"Is this the part where everybody forgets how to dance?" he asked.
+
+"Mostly."
+
+"Good. I was beginning to think I was the only one."
+
+Percy crouched beside him. "You don't have to be good at it."
+
+"I know." Nico considered the room. "Can Cecil and I do that one with the spinning?"
+
+"Ask Chiron and make sure there's space."
+
+Nico nodded and went to find his friend. Percy watched him go, thinking of Bianca and her birthday letter, of the way she'd let her brother choose what the party meant instead of forcing him to be happy about every part of it. Nico was doing the same here. He wanted one song, not the whole evening.
+
+Annabeth returned from speaking with Chiron. Her yellow dress looked different in the lower light, almost golden. The little owl clips in her hair caught the lamps as she moved.
+
+"Good news," she said. "The band asked if they could do the slow song next. They can play it acoustically."
+
+"Works for me."
+
+"You don't mind that the timing's different?"
+
+Percy looked around. Tyson had found a place to dance without worrying about crushing anyone. Milo and the others could rejoin if they chose. Grover and Ella were still waiting for their promised song. The room wasn't perfect, but it was full of people making decisions that mattered.
+
+"No," he said. "Why would I?"
+
+Annabeth smiled at him.
+
+His nerves turned good-buzzy. Then the music changed.
 
 Austin strummed soft. Kayla lifted flute. A slow sweet melody drifted like water over stones — the same melody as the first dance, requested by Annabeth because tradition.
 
