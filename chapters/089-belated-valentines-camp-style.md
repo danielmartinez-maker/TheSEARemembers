@@ -72,6 +72,86 @@ The day had begun.
 
 ---
 
+The first argument was about the anonymous box.
+
+Drew wanted every unsigned message delivered because mystery was part of romance. Silena disagreed. An unsigned letter could be a sweet surprise, but it could also make a frightened camper wonder who had been watching them or whether they were expected to answer somebody they didn't know.
+
+"People can write anonymously," Silena said. "That doesn't mean we deliver anything they put in a box."
+
+"Then what's the point?" Drew asked.
+
+"The point is that the recipient gets to decide whether they want it."
+
+Mitchell looked up from the sorting table. "How would they decide without reading it?"
+
+"We can tell them they have an unsigned note waiting. If they want it, they can collect it. If they don't, we return or dispose of it without opening it."
+
+Drew considered that. She liked surprises, and she liked a system that made people nervous in a funny way. Silena could see she hadn't considered that an anonymous declaration might not be funny to somebody who already felt watched.
+
+"Fine," Drew said. "But I want a box with a mysterious name."
+
+"Keep the name."
+
+Ella joined them carrying a small clipboard. She had helped reorganize the camp mail after the May dispatch confusion and knew which contacts needed protected routing. This event was different from ordinary correspondence, but the same principle applied.
+
+"Do we have permission to forward letters to people who aren't here?" she asked.
+
+Silena looked at the envelopes addressed to absent campers. "We can ask Chiron to handle those through the private forwarding list. We don't write their locations on the delivery chart."
+
+"And nobody reads the contents," Ella added.
+
+"Exactly."
+
+They drew up a short set of rules for the post office. Volunteers could sort by color and cabin name, but they weren't allowed to open envelopes or pass them around for gossip. Anonymous mail would be held until a recipient chose to collect it. Any message that contained a threat, coercion or a demand for private information could be turned over to Chiron for review without being treated as a harmless joke.
+
+Travis listened with the expression of someone being denied a magnificent prank.
+
+"No exploding confetti hearts?" he asked.
+
+"Not in envelopes," Silena replied.
+
+"What about outside?"
+
+"Not without permission and cleanup."
+
+He sighed dramatically. Connor wrote the rule down, mostly because he was afraid someone else would ruin a perfectly good delivery by setting fire to the post office.
+
+Percy arrived carrying a stack of blank cards for people who had missed the morning distribution. He read the rules and frowned at one line.
+
+"What about someone who doesn't want a valentine at all?"
+
+"Then we don't deliver one," Silena said.
+
+"Even if their friends really want to send it?"
+
+"Especially then. They can ask whether a person wants a note, or save it for another day."
+
+He nodded. He had spent enough of the last few months learning that affection wasn't an unlimited pass into someone else's private life. He still didn't always remember to ask. Silena knew because he'd been the one trying to solve every scrape she got as though he could prevent losing her by supervising every moment.
+
+Milo approached the table holding a gold card. He looked from the color chart to the volunteers and back again.
+
+"Can I send something to my brother?" he asked.
+
+Silena crouched so she could speak to him without making the question public. "Do you already have a contact plan with Chiron?"
+
+"Yes."
+
+"Then bring it to him for forwarding. We shouldn't put a private family address on our open sorting table."
+
+Milo nodded. He kept the card folded in his hand. Percy didn't ask what he'd written. He remembered the letter Milo drafted after Zoe's campfire story, which Chiron had agreed to review privately, and knew the boy's family communication was still his own.
+
+"Can I make a card that just says thank you?" Milo asked.
+
+"Of course," Silena said. "It doesn't have to be romantic."
+
+He smiled, took a blue card as well and went to sit with Lucy near the doorway. Lucy was drawing a pegasus on a note for a stable volunteer who'd helped her repair one of her light-up shoes. She asked Ella whether the card could be delivered without telling the whole camp why she was grateful.
+
+"Yes," Ella replied. "We can keep the route private."
+
+Silena watched the two children work. The new mail system would not be exciting enough for Drew's taste, but it meant more people could participate without feeling exposed.
+
+When the first bag was full, she asked the volunteers to check the seals rather than the messages. Percy helped count, then stepped away to write his own note without letting anybody look over his shoulder.
+
 By nine fifteen, the pavilion was packed shoulder to shoulder.
 
 The Aphrodite cabin had set up three boxes: PINK for romantic, GOLD for friendship, BLUE for family and siblings and cabin love. There was also a small black box in the corner labeled MYSTERY / ANONYMOUS / HARMLESSLY DRAMATIC that Drew guarded with her life.
