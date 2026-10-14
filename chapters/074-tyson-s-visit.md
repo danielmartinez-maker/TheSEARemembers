@@ -394,6 +394,178 @@ Annabeth reached up and wiped the soot off his cheek with her thumb. "Come on, c
 
 "When you beat Clarisse? It's mandatory," Thalia said.
 
+Later, when the spectators had drifted away and Clarisse was rubbing her shoulder, Percy found Tyson near the forge fence trying to get the last of the war paint off his shirt. Clarisse had marked his sleeve with one red fingerprint after their contest. Tyson kept turning the fabric to see whether it was still there.
+
+"She got paint on you," Percy said.
+
+"Yes. Clarisse painted herself for fighting."
+
+"She's dramatic."
+
+"She is your sister."
+
+"That's not a defense."
+
+Tyson smiled. Percy leaned beside him against the fence, careful not to block the path used by the forge workers.
+
+"Did you like it?" Percy asked.
+
+"Winning?"
+
+"The crowd. Everybody chanting at you."
+
+Tyson studied him with his one enormous eye. "I liked Clarisse trying hard. I liked that she did not pretend she could win if she couldn't, and she did not ask me to be weak to make her happy."
+
+"That sounds like her."
+
+"People were laughing."
+
+"They were cheering."
+
+"Some were." Tyson looked down at the paint on his sleeve. "Some were laughing because my hand is so big and Clarisse's hand looked small inside it."
+
+Percy's stomach tightened. He remembered the early days of the life he'd lived before this one, the way some campers had recoiled from Tyson and called him a monster. Here, Tyson had known Atlantis, had learned to work with smiths who admired his craft. He still noticed when people treated his body as a spectacle.
+
+"Do you want me to say something?" Percy asked.
+
+"To everybody?"
+
+"To the ones who were rude."
+
+"I did not know their names."
+
+"Then I'll tell Clarisse. She'll know."
+
+Tyson shook his head. "No. Not today. I chose the game. I want people to remember it was a game. I can tell them myself if it happens again."
+
+Percy wanted to argue, but Tyson's answer wasn't uncertain. He had decided what he wanted and why.
+
+"Okay," Percy said.
+
+Tyson looked relieved that Percy didn't insist. "Can I ask you something?"
+
+"Sure."
+
+"Why did everybody call me champion afterward? I make parts for ships that do not sink. I built your little shield. I work all day at forge and nobody chants then."
+
+"Maybe because the arm-wrestle was easier to understand."
+
+"It was only ten seconds."
+
+"Yeah."
+
+"Good metal takes more than ten seconds."
+
+Percy laughed softly. "Tell that to the Apollo kids. They think everything worth doing fits into a song."
+
+Tyson considered that. "Maybe I should make a song about making metal."
+
+"Please don't. You saw what happened when I tried singing."
+
+"You were very brave."
+
+"I was very bad."
+
+"Both can be true," Tyson said.
+
+Nyssa emerged from the forge carrying a cracked gear almost the size of Percy's head. She set it on a workbench and called Tyson over.
+
+"Can you look at this before supper? It's from the old strawberry-field pump. The teeth have worn unevenly, and the replacement doesn't fit."
+
+Tyson went at once, with Percy following. He examined the part without touching the cracked edge. A Hephaestus camper named Finn stood nearby, gripping a notebook so tightly that his fingers had gone white.
+
+"I measured it twice," Finn said before anybody asked. "I did the dimensions from the blueprint. It should fit."
+
+Tyson held out his hand for the notebook. Finn gave it to him. The measurements were careful, the lines straight, the writing small and pressed deep into the paper.
+
+"Blueprint is old," Tyson said after a moment.
+
+Nyssa frowned. "We checked the date."
+
+"Old gear was changed after blueprint was made. Look here." He pointed to a faint scar on the metal where someone had welded a new shoulder onto the original shaft. "A repair. Not in drawing."
+
+Finn's face fell. "So I wasted all morning."
+
+"You made correct part for wrong drawing," Tyson said. "That is not same as careless."
+
+Percy watched the boy's shoulders ease a fraction. He knew how easy it was to decide that one failed attempt proved you were no good at something.
+
+"Can we make a better drawing?" Finn asked.
+
+"Yes. But first we ask what pump needs. If we put wrong gear in place, new part will break again."
+
+Nyssa nodded. "We've got an hour before supper. Start with the shaft. The field crew will have to use the backup pump tomorrow."
+
+Percy leaned forward to examine the crack. His instinct was to offer water, to turn the pump by magic or send a message through the pipes. But it was a mechanical failure, and Tyson had already found a path toward understanding it.
+
+"Can I help?" he asked.
+
+Tyson looked at the gear, then at Percy. "Yes. Hold measuring tape. Do not guess numbers."
+
+Percy held the tape.
+
+Finn wrote down the shaft diameter. Tyson measured the depth of the shoulder. Nyssa checked the alignment and pointed out a second wear mark they'd missed. When Percy moved the tape a hair too far, Tyson asked him to reset it instead of pretending that close enough was good.
+
+After a while Percy realized he was doing something he almost never did around his brother. He was taking instructions without making it a joke.
+
+He liked it.
+
+They drew the corrected profile on clean paper and marked the earlier drawing as superseded. The gear itself would need a new casting and a slower inspection. Tyson said he could help Finn make a test piece tomorrow if Nyssa could fit it around the work already scheduled. He didn't offer to take over the entire job.
+
+"Why not just do it tonight?" Percy asked as they washed their hands.
+
+"Because Finn needs to understand. And I have promised you dinner."
+
+Percy smiled. "Good priorities."
+
+Finn looked up from his notebook. "You'd teach me the casting?"
+
+"If Nyssa says yes," Tyson replied.
+
+Nyssa agreed, with the condition that Finn would do his own measurements and Tyson would supervise rather than forge everything himself. Finn thanked him so earnestly that Tyson turned pink across the bridge of his nose.
+
+On the path back toward the cabins, Percy nudged his brother's elbow.
+
+"You know, that was more impressive than the arm-wrestle."
+
+Tyson seemed doubtful. "No cheering."
+
+"I can cheer."
+
+"Please do not."
+
+"Too late. T-Y-S-O-N, he can measure a gear like no one..."
+
+Tyson clapped his hands over his ears. "Percy singing! Emergency!"
+
+They both started laughing. Tyson lifted Percy off his feet in a quick hug, set him down again and checked that he had not squeezed too hard.
+
+"I like you here," Percy said when he could breathe.
+
+"I like being here. But I also like my job in Atlantis."
+
+"I know."
+
+"Sometimes you say 'stay forever' with your face."
+
+Percy opened his mouth. Closed it.
+
+"I do?"
+
+"Yes."
+
+He looked toward Cabin Three, where the windows caught the sunset. "It's hard not to."
+
+"I miss you too. But I can come back, and you can visit when permission and duties allow. If I stayed forever, someone else would have to do my work under sea."
+
+Percy knew that. He also knew he hadn't really wanted to think about what Tyson might want when Percy's own desire was so loud.
+
+"I'll try to stop doing that with my face," he said.
+
+Tyson patted his shoulder. "Face is good. Just ask with mouth."
+
+They walked to dinner side by side, carrying a corrected drawing that would help a pump work next week, and neither bothered to tell the other that the evening had been a better kind of victory.
+
 ---
 
 Silena Beauregard found Tyson the next afternoon in the meadow behind the cabins, sitting cross-legged in the grass with a jar of peanut butter and a book Percy had lent him — a picture book about whales — turning the pages very carefully with his big fingers.
