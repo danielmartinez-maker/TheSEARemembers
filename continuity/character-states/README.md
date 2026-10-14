@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Status at this commit:** Chapters 001–002 now have source-anchored, per-character cumulative event entries, including what a person witnessed, heard, or cannot know. Later chapters are not migrated or verified here. Existing chapter ledgers remain separate audit evidence, not automatic first-person memory. All further chapters require progressive review.
+**Status at this commit:** Chapters 001–007 now have chapter-linked per-character event records for the core cast and named supporting cast encountered so far. Verified Chapter 003–007 handoffs are in `editorial/handoffs/`. These are source-grounded memory and targeted prose passes, **not** a complete line-by-line literary signoff. Chapters 008–193 still require chronological migration into these individual character files.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -24,3 +24,11 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 
 **Chapter 002 → 003 boundary:** Percy knows Clarisse/Silena as new sisters and Clarisse's 'little brother' slip, has a pending spring map/drainage edge recheck, carries a pale green filter thread (fate unverified), and returned Thalia's watch horn. Annabeth and Percy maintain their already-established relationship and a private observed/reported/prior-life evidence practice. Annabeth learned *from Percy*, not directly from Thalia, about nighttime vigilance and objected to his sharing. Thalia does not know that conversation occurred. Preserve all three parties' imperfect motives.
+
+## Verified continuation and open obligations (Ch003–008)
+- [Chapter 003](../../editorial/handoffs/ch003-memory-prose-2026-10-14.md): Thalia 48-hour rib rest, supervised Annabeth wind training, Zeus portrait repair, no old-life disclosure
+- [Chapter 004](../../editorial/handoffs/ch004-memory-prose-2026-10-14.md): Zoe's reported theft, document variants (unproven), Nico/Clarisse/Silena group, supervised archive assignment
+- [Chapter 005](../../editorial/handoffs/ch005-memory-prose-2026-10-14.md): winged-panther gift from Clarisse, Bea's first shield lesson, Silena irrigation rota, second drakon damage
+- [Chapter 006](../../editorial/handoffs/ch006-memory-prose-2026-10-14.md): Thalia's firsthand Beryl memories, Percy/Annabeth boyfriend confirmation, no-surprise memory tests, Bea's evacuation improvement
+- [Chapter 007](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md): storm/ward failure, bandaged fingers and forearm, supervised training limits, unsent letter + undelivered incident report
+- Chapter 008 begins **two days after the storm**, and source shows the sealed letter being deposited for outgoing sea-message delivery. Receipt by Amphitrite remains UNKNOWN. Preserve Percy/Annabeth's romance, private original-life knowledge, and each sibling's earned familiarity.

@@ -13,3 +13,24 @@
 - **Source:** [Chapter 002](../../chapters/002-the-girl-with-lightning-in-her-veins.md), no new on-page contact / Ch001 state carried forward.
 - **State and events:** No further documented firsthand Chapter 002 meeting in the audited Chapter 002 scenes. Initial introduction and bounded awareness of Percy's odd recognition from Ch001 persist. No time-secret disclosure.
 - **Next-scene requirement:** Carry forward confirmed facts; investigate any alleged repetition, private disclosures, gifts or unresolved obligations before advancing relationships.
+
+
+### Chapter 003 · source status
+- **Source:** [Chapter 3](../../chapters/003-what-the-storm-remembers.md). **State:** Ch003: No verified new conversation in Ch003. His Ch001 first meeting, escort, and limited puzzlement about Percy/Annabeth persist.
+- **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 004 · source status
+- **Source:** [Chapter 4](../../chapters/004-the-hall-of-gods.md). **State:** Ch004: No direct meeting in Ch004's relevant events. Do not promote Percy/Annabeth's attic knowledge to Grover.
+- **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 005 · source status
+- **Source:** [Chapter 5](../../chapters/005-clarisse.md). **State:** Ch005: No named on-page Grover interaction in this chapter. Do not invent an erased-life recollection.
+- **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 006 · source status
+- **Source:** [Chapter 6](../../chapters/006-the-sister.md). **State:** Ch006: No direct Grover event; he remains separate from private Grace conversations.
+- **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.
+
+### Chapter 007 · source status
+- **Source:** [Chapter 7](../../chapters/007-the-tempest.md). **State:** Ch007: No direct Grover event; no evidence of knowledge of Hall coupling origin or sealed Amphitrite reply.
+- **Memory rule:** No off-page new knowledge without identified disclosure, letter receipt or witnessed scene.

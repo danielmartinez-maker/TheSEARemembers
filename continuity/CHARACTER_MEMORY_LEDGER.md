@@ -79,3 +79,12 @@ For each scene that matters beyond the chapter, record:
 - **Resolution:** if a later scene alters the relationship, add a new event. Do not delete the old one.
 
 **Never use the ledger as a substitute for reading the original scene.** For a meaningful callback, confirm the original passage and the most recent interaction. If the text and ledger disagree, log the conflict with chapter quotes before making a change.
+
+
+## Character-index upgrade — Chapters 001–007 (PR #103, 2026-10-14)
+
+Individual, append-only memory entries now live in [`character-states/`](character-states/README.md). The new [Ch003](../editorial/handoffs/ch003-memory-prose-2026-10-14.md) through [Ch007](../editorial/handoffs/ch007-memory-prose-2026-10-14.md) event handoffs distinguish witnessed, reported, prior-life and unknown information, and should be read alongside this older summary ledger.
+
+**Specific continuity guard:** Bea's Chapter 005 first shield lesson under Clarisse is prior to her Chapter 006 evacuation-leadership error/correction and Chapter 007 application in a real storm. Amphitrite's Chapter 007 personal reply from Percy is drafted and sealed, not delivered; Chapter 008 explicitly confirms dispatch, not receipt. The panther Clarisse intended for Silena's shelf in early Chapter 005 becomes her gift to Percy after Silena prefers a practical drawer; do not duplicate the artifact or retroactively treat Silena as recipient. The Chapter 004 documentary prophecy variants are evidence of altered written text, not demonstrated alteration of the Oracle's actual utterance.
+
+**Review limit:** Chapters 008–193 are not yet migrated to individual source-by-source character memory. The legacy chapter ledger contains some later evidence but is not a blanket first-person memory map. Re-audit scene transitions before further chapter edits.
