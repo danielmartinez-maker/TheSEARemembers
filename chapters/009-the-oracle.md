@@ -10,7 +10,7 @@ The morning after their second visit to the attic, Percy tried to repair a pract
 
 "Because I thought it might appreciate the change."
 
-Clarisse crossed the room and put down the stack of bucklers she'd been carrying. Percy had volunteered for an hour of equipment repair after the storm. It was supposed to give him a task he could finish with his hands, which had seemed appealing when the alternative was another argument with Annabeth about the Oracle. Instead he'd spent fifteen minutes threading a needle through the wrong side of a leather backing.
+Clarisse crossed the room and put down the stack of bucklers she'd been carrying. Percy had volunteered for equipment repair after the storm, in part because he owed the camp work and in part because a shield offered a problem with an obvious answer. That answer had once been simple: the leather either held or it didn't. Now he found himself watching Clarisse for signs that she had discovered the previous night's trip to the attic. He had already learned she noticed missing tools, late returns, and people who looked at her instead of their work. Instead he'd spent fifteen minutes threading a needle through the wrong side of a leather backing.
 
 "Let me see," Clarisse said.
 
@@ -46,7 +46,7 @@ Percy thought about the note in his jacket, still sealed and addressed to Chiron
 
 He could almost hear her thinking of an argument she didn't quite know how to make. Clarisse was good at taking responsibility for a room full of campers who were about to do something stupid. She was less practiced at admitting she cared about the stupid one.
 
-"Annabeth isn't the only person who'll go looking for you if something happens," she added.
+"Annabeth isn't the only person who'll go looking for you if something happens," she added. "Silena'll want the last place you were seen, and I'll be stuck explaining to Chiron why nobody told us before it got dangerous. You can decide what to say about your investigation. You don't get to decide we wouldn't care."
 
 Percy looked up. His sister was studying the torn strap as though she hadn't said anything unusual.
 
@@ -350,7 +350,7 @@ Camp lay dark, cabins shuttered, the dining pavilion cold. The surf broke faintl
 
 Before they reached the Big House, they had to cross the stretch of open ground between the cabins and the green. Someone had replaced the lantern on the path after the storm, and its light fell across a new sign announcing that the attic and the Hall were closed to all campers pending review. Beneath the notice Chiron had added the date and his signature. It would have been easier to ignore the rule if it were an old, forgotten thing nobody expected them to read.
 
-Annabeth studied the sign as though its exact wording might offer a technical exception.
+Annabeth read the restriction notice all the way to the date beneath Chiron's signature. She could identify three ways the archive transfers might still be inspected lawfully and had already been refused the most direct one. She disliked that her next thought was to treat the side window as a fourth option. Percy waited without asking whether she'd found a loophole; he knew her well enough to recognize when she was arguing with herself.
 
 "It says access is restricted," she whispered. "It doesn't say the entire house is restricted."
 
@@ -631,7 +631,7 @@ The lake showed through the trees. They followed the path down until there was e
 
 The dock was cold through Percy's jeans. Annabeth sat beside him and leaned against his shoulder.
 
-"What if finding the truth costs us this?" she asked.
+"What if finding the truth costs us this?" she asked, looking across the freshwater lake toward the lit cabin windows. "We already know people here have lives together that we didn't share. I don't want to make a decision about them just because I can remember something they can't."
 
 He knew which parts she meant. Thalia's bunk beside hers. Clarisse's blunt concern. Silena saving him a place at breakfast. Amphitrite asking when he would come home.
 
@@ -1045,7 +1045,7 @@ That was an observation. He reminded himself to leave it as one.
 
 "Annabeth's bringing our notes to him," he said. "I wanted to ask you about the mark."
 
-He drew it on a scrap of paper. Zoe moved her mug away before leaning over the drawing.
+He drew it on a scrap of paper. Zoe moved her mug away before leaning over the drawing. Her library table was crowded with separate trays for confirmed work orders, unsourced diagrams, and the sealed materials Chiron had permitted her to examine. Percy noticed the labels because they were precisely the system he and Annabeth kept telling each other they needed. Zoe had been doing it before he arrived, for reasons that belonged to her rather than to his mystery.
 
 "Have you seen it?" he asked.
 

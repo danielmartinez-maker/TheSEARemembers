@@ -4,7 +4,7 @@ Zoe Nightshade had been awake since before first light, looking for the ledger s
 
 She found it beneath a stack of old field guides in the library's east alcove. The book was bound in cracked green cloth, and its corners were soft from being carried in damp bags by campers who had been told not to get it wet. The name on the inside cover belonged to an assistant who had worked on the Hall's original foundations. Someone had crossed it out and written a newer name beneath, with a date that made Zoe suspicious enough to fetch another volume for comparison.
 
-The handwriting matched. That was interesting, and not nearly enough.
+The handwriting matched in the two catalog entries, down to the way the writer closed the lower loop of a six. Zoe had seen forgeries with equally convincing flourishes. She copied the dates and placed both books on the same side of the table, where the morning light made differences in ink and paper easier to see. She needed an answer that could survive somebody else's inspection, not another reason for Percy to announce that he'd found the hand behind the rewrite.
 
 She took both books to the long table under the window and copied the dates into a clean notebook. Three years ago, the Hall's custodians had logged an inspection after a minor ward surge. The report included a sketch of a mark under the northern column. In the margin, a later hand had written *repair complete*. No signature followed. The same mark, or something close to it, appeared in an older drawing associated with the Big House attic. Neither entry identified the person who had installed the bronze.
 
@@ -60,7 +60,7 @@ He grinned and went. Zoe watched him leave with the photocopies folded beneath o
 
 The Hecate cabin had always been full of people who could make a small room feel large. One girl could darken a lamp without touching it. A boy named Tomas could make a reflected image appear half a second later than it should. Zoe's own talent lay in recognizing when someone had built a spell out of ordinary pieces and hidden the joins under ornament. It was useful for repairs and much less impressive at demonstrations, where everyone wanted to see a door open into nowhere.
 
-She had once hated that difference. Her mother was a goddess of crossroads and magic. Surely Zoe ought to have been able to do something that made younger campers gasp. Instead she could spend half an afternoon studying a cracked stone and tell everyone the repair had been done in the wrong order.
+She had once hated that difference. Her mother governed crossroads and magic, and younger campers expected a daughter of Hecate to produce impossible doors or conjure a spectacle for their amusement. Zoe's work mostly required a straightedge, three versions of a record, and the patience to tell an adult that a repair they had signed off on needed to be reopened. The work won her few admirers, but after the storm she had watched the evacuation routes depend on a single correctly isolated fitting. It was harder to envy the flashier talents when she'd seen what her own could prevent.
 
 After the storm she was grateful for the talent, even when it left her with more questions than answers.
 
@@ -299,7 +299,7 @@ Zoe carried her drawings to the old forge annex after the lunch bell. It was the
 
 She had.
 
-Mara met her at the annex with a wooden tray of ordinary copper strips and a canvas roll of tools. She was about two years older than Zoe and had the kind of patience that came from years spent explaining why a furnace could not be asked to work faster because somebody was in a hurry.
+Mara met her at the annex with a wooden tray of ordinary copper strips and a canvas roll of tools. The forge worker had been helping the repair team track small parts, and she had already written the copper's origin and preparation method on a paper tag for each strip. Zoe knew that Mara could be sharp with impatient people; she was patient with materials because she had seen what happened when somebody skipped a cooling step. Whether this was the same Mara who had earlier helped with Silena's irrigation beds wasn't established by this conversation, and Zoe had no reason to make the assumption.
 
 "Everything's clean," Mara said. "No hall metal. No inscriptions other than the ones you supplied for the control test."
 
@@ -427,7 +427,7 @@ He didn't look convinced. Zoe pulled the stitch back through and showed him wher
 
 "What if they don't believe me?"
 
-"Then you tell a counselor. You don't have to win the argument by yourself."
+"Then you tell a counselor. You don't have to win the argument by yourself." Zoe held the cloak steady while Tomas drew the needle through. She could have taken over the repair in a minute, but showing him how to manage the torn seam gave him one small thing he wouldn't have to ask her to fix next time. As he tested the stitch, she wondered whether she could take her cousin's offer of a winter home and still leave the younger Hecate campers with somebody they trusted.
 
 Tomas looked toward the ruined Hall. "Did our mother do it?"
 
@@ -1055,7 +1055,7 @@ He settled beside her. She leaned her shoulder against his.
 
 "What did you tell her?"
 
-"Some things that don't fit the childhood she remembers. That I remember you before you arrived. That there were wars. She looked at me as if I had spoken a different language."
+"Some things that don't fit the childhood she remembers," Annabeth said. "I told her I remember knowing you before you arrived at camp, and that I remember wars she wasn't in. I didn't tell her every detail or ask her to believe I'd found the whole explanation. She heard me out, and then she asked what I wanted her to do with it."
 
 "Did she believe you?"
 
