@@ -12,6 +12,104 @@ On the third morning of May, he sat at that basalt desk before first bell with b
 
 He dipped his pen.
 
+The first thing he wrote was *Dear Mom*, then he stopped.
+
+He had meant to write to camp. To Annabeth and his sisters and Grover, perhaps all together, because that seemed easier than choosing which person he missed most. His hand had gone to his mother before he could decide where the letter belonged.
+
+Amphitrite wasn't the mother he remembered making blue pancakes in a Manhattan kitchen. In the changed history, she was the person who raised him in Atlantis after Sally died, and she had behaved like a mother every time Percy had asked her for help since he came to camp. He had begun to call her Mom without having access to the years that made the word ordinary to everyone else.
+
+Now he was back in the palace's world, staying in a student dormitory because the May study block required it. She was only a few corridors away and he was writing as though the sea separated them.
+
+Nerit rolled over in the next bunk. "Are you arguing with your paper?"
+
+"Not yet."
+
+"You have been looking at it for a long time."
+
+"I'm thinking."
+
+"That is what people say when they are arguing with paper."
+
+Percy turned the page around. "I was going to write to Annabeth."
+
+"Then why does it say Dear Mom?"
+
+"That's the problem."
+
+Nerit considered this and sat up. "You can write two letters."
+
+Percy stared at him.
+
+"That's a remarkably annoying solution."
+
+"It's an excellent solution. You can use two sheets, and each person gets their own words."
+
+Percy laughed despite himself. He set aside the sheet with the unfinished greeting and started again. This time he wrote *Dear Camp*, then immediately crossed it out because it sounded like a letter to a building.
+
+Nerit watched with obvious fascination. "Do all surface people write like this?"
+
+"Only the very advanced ones."
+
+At breakfast Percy took the two sheets to the dining hall. Tyson was already there with a plate of kelp toast and an engineering diagram balanced against his cup. His undersea forge shift would start in an hour, and he was using the last part of the morning to work on the troublesome latch of the little box he'd left in Cabin Three.
+
+"Percy," he said. "The spare hinge at the workshop is the wrong size."
+
+"That's tragic."
+
+"It is." Tyson showed him two drawings. "This one works for a larger case. Your case is small."
+
+"Then you can fix it when you visit."
+
+"Yes. You will bring it?"
+
+"If Chiron approves the trip and you ask me in advance."
+
+Tyson grinned. He had become used to Percy insisting that plans be checked, even when the person making them was one of his favorite people.
+
+Percy put the unfinished mother letter beside his breakfast. Tyson read only the greeting because Percy held up the page and asked him what he thought.
+
+"Should I give it to her?" Percy asked.
+
+"Why wouldn't you?"
+
+"Because she's right here. We could talk."
+
+"Then talk. Letters are for things you want people to keep."
+
+Percy looked at the blank space below the two words. He hadn't thought about that. Sometimes a conversation was easier because the other person could ask questions and he didn't have to guess how his words would sound. Sometimes writing meant he could say what he actually meant without his face giving him away.
+
+"You've written to her?" Percy asked.
+
+"Yes."
+
+"What do you say?"
+
+"She asks about the forge. I tell her about the forge. Sometimes I ask whether she is lonely."
+
+Percy looked up. "Is she?"
+
+"Sometimes," Tyson said. "She says sometimes she misses all of us in the same room. She doesn't make us leave work and come home just because she misses us."
+
+Percy thought of the beach gifts she'd sent in April, each one chosen for somebody she knew. The letter he'd been meaning to write all spring was probably not going to tell her anything she didn't already suspect. He still wanted her to have it.
+
+"I'll tell her about camp," he said.
+
+"Good."
+
+"And that I like the palace, even when I don't understand everything."
+
+"Very good."
+
+Tyson returned to his drawing. Percy finished breakfast and went to the small courtyard beside the dormitory, where the current pressed softly against a glass wall. He sat down and wrote a letter to Amphitrite about arriving safely, the friends he had missed at camp, and how strange it was to sleep in a school bed when his family was just across the palace grounds.
+
+He did not disclose the erased timeline or claim to remember afternoons in the nursery wing that belonged to the childhood other people remembered for him. He wrote about last week's visit to the forge, when she had brought food after a late shift and asked whether he wanted company.
+
+At the bottom he added: *Thank you for asking rather than assuming.*
+
+He read the line twice, folded the sheet and wrote her name on the outside.
+
+Only then did he return to the second page, the one for his friends.
+
 He did not start with anything important. He started with the lamp.
 
 ---
