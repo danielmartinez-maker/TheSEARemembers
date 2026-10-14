@@ -1175,6 +1175,28 @@ He handed Chiron a copy, explained which points Mara would review with the appro
 
 He'd wanted a month where an ordinary day at the palace belonged to him as much as an impressive training session did. An ordinary day at camp also belonged to people who expected him to show up. He could make space for both possibilities only by saying what was true, including what he didn't yet know.
 
+Chiron glanced at the launch instructions.
+
+"Did Mara approve these?"
+
+"She tested them. She said the new instructor will check them again before anybody gets near the water."
+
+"Then you've done what you can for now."
+
+Percy hesitated. "I still don't know what Triton expects me to accomplish in Atlantis. I know the words deep-current training, but not the actual exercises."
+
+"Then ask him, not your imagination."
+
+Percy found a clean slip of paper and wrote to his brother. He asked what a typical day of training would contain, how they would handle a stop signal far below the surface, and whether they could end a session early without treating it as a failure. He added one question he hadn't expected to write: would there be time when neither of them had to behave like an instructor and a student?
+
+He considered deleting that last line. It sounded needy. Triton had been busy during the visits Percy remembered, always called somewhere by a servant or a guard, but he had also taken time to explain the palace's ordinary habits. Percy wanted those habits, not just better control over the water.
+
+He folded the note without sending it. The shell had already carried a request for details to Poseidon; he didn't need to bombard the palace with a second message before the first was answered. Chiron offered to hold the note with the travel table until Percy decided whether it was still needed.
+
+"That is a separate question from whether you go," Chiron said. "You are allowed to want time with your brother."
+
+Percy nodded and left it in the folder. The note was written, not delivered. Triton had not promised him anything. He would not walk into tomorrow pretending otherwise.
+
 
 
 Clarisse and Silena had saved two seats at the Poseidon table, although Clarisse insisted the open places were coincidence. Steam rose from the serving bowls, carrying rosemary and roast, and the long hall buzzed with clatter and talk. Across from them sat Thalia, boots hooked around the bench, silver jacket draped over its back. Her gaze traveled from Annabeth to Percy, then to the shell's outline in his pocket.
