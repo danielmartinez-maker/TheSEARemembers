@@ -381,6 +381,186 @@ Jason pulled Thalia into a proper hug, stretching up while she bent to him and p
 
 “Yes, ma’am.”
 
+That might have been the end of it, if Lacy hadn't stopped halfway through copying the memorial lines.
+
+“Wait,” she said, pencil poised. “I should ask what you want people to do with this.”
+
+Clarisse looked at her as if she'd asked whether a shield should be used as a hat.
+
+“Read it, I guess.”
+
+“Here, yes. But the memorial isn't here.” Lacy tapped the clean page. “If we put this up, people who weren't here today will see it. Visitors too. They might take pictures. They might ask who the sister was. They might decide it belongs to their own story.”
+
+The question changed the expression on Clarisse's face. Percy could see her thinking about the notebook's battered cover, about Ella carrying it in the open, about all the little private things that had become public in less than an hour.
+
+“I don't want them making up a dead sister,” she said. “Silena's alive. I'm not writing about her like she's gone.”
+
+Silena moved closer. “You were writing about being scared I might not come back.”
+
+“That isn't the same.”
+
+“I know,” Silena said. “That's what I'm telling you.”
+
+Thalia drew a line through the dust with the butt of her spear. “Then we make the difference obvious. A dedication for everybody who's lost someone, no names unless the family agrees. Nobody tells visitors the poem is about a specific person.”
+
+Annabeth was already looking at the shrine plans differently. “And an inscription isn't permission for us to copy the whole notebook. We should ask Chiron which memorial names are meant to be public.”
+
+“Names?” Clarisse said sharply.
+
+“Not for the poem,” Annabeth replied. “For the shrine. I was going to carve the names from the camp records. I should have checked first. Some families may not want their loss posted where anybody can walk by.”
+
+Percy watched her rub out a name she'd scratched into the dirt while explaining her first plan. Annabeth didn't look pleased about being wrong. She looked relieved to have discovered it before someone got hurt.
+
+“We can ask,” she said. “And until somebody says yes, we don't include their name.”
+
+A younger boy from Demeter, who had been sitting with his knees pulled to his chest, raised his hand.
+
+Clarisse gave him a suspicious look. “This isn't school.”
+
+“I know. Sorry.” He lowered his hand. “My cousin died last year. Chiron told us. I don't think my aunt would want her name on a wall.”
+
+The group went still.
+
+The boy kept staring at the lines in the dust. “I think she might like the words about coming home. But not if somebody said it was about her when it wasn't.”
+
+Annabeth crouched at a careful distance from him. “Would you rather we didn't put anything there?”
+
+“No.” He thought about it. “Maybe a place where you can leave a stone and not write who it's for.”
+
+Percy could imagine that. A shelf, low enough for the youngest campers, with no demand to explain why someone had come.
+
+“Would your cousin's name be on the stone?” he asked.
+
+The boy shook his head. “I'd know.”
+
+Clarisse looked toward the forest as if she could see the memorial from the arena. “Okay,” she said at last. “We need somewhere for that.”
+
+The boy stood up and went to find his friends. Nobody made a show of thanking him for telling them something painful. Percy was grateful for that.
+
+Chiron had arrived quietly enough that Percy didn't notice him until he spoke.
+
+“You have discovered one of the more difficult parts of remembering people,” he said from the arena gate. “Their stories are not ours to arrange for our own comfort.”
+
+“Were you listening?” Annabeth asked.
+
+“Only to the part about asking me before publishing my records. I appreciated that part very much.”
+
+Clarisse braced herself, the way she did when adults caught her doing something she hadn't decided whether to be proud of. “It's just a poem.”
+
+“I believe I heard two poems,” Chiron said. “And some thought about their consequences.”
+
+She looked down at her notebook. “Can we put a piece on the shrine?”
+
+“You may propose it. The inscription itself needs your approval. The location and construction need mine. Names require separate consultation, and I will handle that conversation with families who wish to have it.”
+
+“That's more permissions than building a warship,” Percy muttered.
+
+“A warship usually has fewer people trying to protect someone's grief,” Chiron said.
+
+Clarisse almost smiled.
+
+Annabeth fetched her folder from beside the equipment racks. It contained a drawing of the existing memorial space, with dimensions in her small, neat writing. She had already marked a path, a bench, a raised planter. Everything looked possible on the page until Chiron put one finger over the line marked *new wall*.
+
+“That wall crosses the route used by the infirmary cart,” he said.
+
+“It isn't supposed to.”
+
+“Nevertheless, it does. The path must remain clear even when a group gathers.”
+
+Annabeth took the pencil from behind her ear and crossed out her proposed wall. “Then we use the existing fence. Or a separate board.”
+
+“And make sure nothing catches a cloak or a wheel,” Clarisse added. She was looking at the drawing now instead of at the faces watching her. “It's stupid to build a memorial for people who didn't get home and turn it into a place where somebody gets hurt.”
+
+“That's the most sensible thing anybody's said all afternoon,” Chiron replied.
+
+“Put that on a plaque,” Percy said.
+
+“Don't,” Clarisse told him.
+
+They went to look at the actual space.
+
+It was a short walk through the pines, with Chiron leading and Jason carrying the folder, because he wanted a job and Annabeth had made him promise not to crease the drawings. The memorial stood just beyond the nearest training trail: a modest arrangement of smooth stones, faded offerings, and a narrow wooden shelf. It was not as grand as Percy had imagined when Annabeth talked about it. That seemed right. Grief didn't always want a monument visible from the dining pavilion.
+
+The ground beside the shelf dropped away slightly. One corner of the existing railing was loose. Someone had left a small blue bead in a crack between stones, and someone else had tucked a folded piece of paper beneath it.
+
+Percy didn't touch either.
+
+Clarisse did not touch them either. She stood with her arms folded, looking at the railing. He recognized the calculation in her eyes from practice: where to plant your feet, what would give way under weight, what kind of damage a careless move might cause.
+
+“Not on the shelf,” she said.
+
+“Why?” Jason asked.
+
+“Because there's already stuff there that somebody chose to leave. I'm not moving it to make my poem look important.”
+
+Silena glanced at her with an expression Percy couldn't read. She had been quiet since the arena. Now she stepped beside her sister.
+
+“Could the words go above it?” she asked. “Not on the things people leave. Just where you can see them.”
+
+“Small,” Clarisse said. “No huge title.”
+
+“Small,” Annabeth agreed. She measured the clear section of the fence with a length of string from her pocket. It wasn't enough for the entire poem. She said so plainly instead of pretending the drawing could stretch.
+
+Clarisse considered the pages in her hands. “The last lines,” she decided. “Those can stand alone. I don't want the other lines on public display.”
+
+Lacy, who had followed them with the clean copy, read the selected lines back to her. This time she did so only after Clarisse nodded.
+
+*Sleep soft, sister. Your watch is done. Mine isn't. I will be the sea for the ones left.*
+
+A gust moved through the needles. Nobody applauded.
+
+“That one,” Clarisse said.
+
+Chiron looked at the railing, then the sky. “A removable olive-wood board would allow repair without disturbing what is already here. Beckendorf can check the fasteners. If the path stays clear and the existing offerings remain untouched, I approve a small board with those lines.”
+
+Annabeth made a note: *No drilling into memorial stones. Check rail before hanging.*
+
+“And the boy's stone?” Percy asked.
+
+Clarisse pointed to a level patch beside the shelf. “A shallow tray. Not a pit where everything gets washed away.”
+
+“The ground there floods during the spring storms,” Annabeth said, then frowned. “At least, it did on the route survey.”
+
+“Then ask the repair crew,” Chiron told her.
+
+“Beckendorf,” Percy supplied.
+
+“Beckendorf,” Annabeth agreed.
+
+They could have built an entire design around the idea before dinner. Instead, Chiron sent them back with four conditions to verify, and Clarisse kept the original poem folded inside the notebook against her chest.
+
+On the return path Percy walked beside her, letting the others go ahead.
+
+“You okay?” he asked.
+
+“No.”
+
+He waited.
+
+“I'm not ashamed of writing it,” Clarisse said. “I think I'm ashamed of how I acted when Ella found it. She didn't know what it meant to me. I scared her.”
+
+“She scared you first.”
+
+“That doesn't make it even.”
+
+Percy looked back at the empty path. “Then tell her. You already said she didn't know. You can say the other part too.”
+
+“She'll quote me forever.”
+
+“Probably,” he admitted. “I would.”
+
+Clarisse punched his shoulder, not very hard. “You're a terrible little brother.”
+
+“New information. Should we write it on the board?”
+
+She snorted. After a few steps she said, “I want to tell her without everyone watching.”
+
+“Then we can make that happen.”
+
+It occurred to Percy that he'd spent the afternoon trying to protect Clarisse from an audience without asking whether an audience was the thing she wanted protection from. He'd made that mistake with other people before. Annabeth had just made a similar one with the shrine. Both of them could say the right words about consent and still get carried away by the feeling that they knew how a story ought to end.
+
+He didn't tell Clarisse any of that. He walked beside her until the arena came back into view, where the last training shields were stacked neatly and the coolers were almost empty.
+
 ---
 
 By sunset the arena had turned into something like a picnic. Someone ran to the mess hall and brought back trays of ambrosia squares and chips and cans of soda. The Ares kids built a small fire in the brazier even though it was eighty degrees, because Ares kids love fire. Ella perched on Tyson’s shoulder, reciting her favorite lines back to herself in a happy mutter: “‘My spear wants to be an oar! Let it pull, not pierce!’ Ella loves oar-spears!”
