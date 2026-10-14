@@ -1,6 +1,6 @@
 ## Chapter 88: Spear, Song, Sea
 
-In the next week of June, the morning after the war council broke for rest, Percy Jackson woke to someone hammering on the Poseidon cabin door with the butt of a spear.
+The following week in June, after Chiron closed the storm-response review for the day, Percy Jackson woke to someone hammering on the Poseidon cabin door with the butt of a spear.
 
 He knew, without opening his eyes, exactly who it was.
 
@@ -47,6 +47,56 @@ Silena threw off her blanket. "I'm in. But if Clarisse makes me do push-ups in t
 "I did not cry," Clarisse snapped. "I had seawater in my eyes. From my father. Shut up."
 
 ---
+
+Before the first lesson, Clarisse took the training plan to Chiron.
+
+He read it in the Big House with all three Poseidon children sitting across from him. Percy had expected the centaur to approve at once. Clarisse was a skilled fighter, Silena had helped in the infirmary for years, and Percy could call the sea. Surely those were enough credentials.
+
+"What will you do if someone wants to stop?" Chiron asked.
+
+"We stop," Clarisse replied.
+
+"Then write that down."
+
+Clarisse frowned. "It's obvious."
+
+"Things are often obvious until someone is frightened or too proud to say what they need."
+
+She picked up the pencil.
+
+Chiron asked about protective gear. Clarisse wrote that the arena drills would use fitted practice weapons and a counselor would check the equipment. Silena agreed that nobody would practice field dressing on an actual injury just to make the lesson realistic. Percy wrote that his sea session would take place inside a supervised, marked area of the saltwater beach, with no assumption that everyone had identical powers.
+
+Then Chiron asked for a way to test what they learned.
+
+"A spar," Clarisse said.
+
+"Maybe," Chiron replied. "But you could also ask each student to teach back the part they learned. If Percy can explain the limits of Silena's first-aid instruction, that matters as much as whether he can win a round."
+
+Percy made a face. "You're giving us homework?"
+
+"You asked for training."
+
+"Unfortunate distinction."
+
+Silena leaned over the page. "What if we make it a three-part challenge? One part control, one part care, one part communication."
+
+Clarisse looked at her. "Does that mean we don't get to hit each other?"
+
+"It means you don't get to hit people until they've had a chance to learn something."
+
+Percy laughed.
+
+They took the proposal to the arena and showed it to Annabeth and Thalia. Annabeth liked the communication part. Thalia asked who would keep time, and Chiron assigned an Apollo counselor who wasn't competing. None of them could change the rules halfway through the week without telling the people who'd agreed to participate.
+
+Percy looked at Clarisse when they finished.
+
+"Still want to do this?"
+
+She nodded. "Yes. But now I'm going to make you read the whole sheet before I hit you with a practice spear."
+
+"Wonderful."
+
+Silena took a copy for her first-aid lesson. Percy put one with his beach equipment. Chiron retained the approved plan, and the three went to breakfast arguing about whether *stop* needed a second hand signal in case someone couldn't hear over waves.
 
 Clarisse taught first because Clarisse insisted, and no one won arguments with Clarisse before breakfast except Silena, and Silena was too busy braiding Percy's hair to argue.
 
@@ -266,7 +316,7 @@ Theo stopped crying before she tied it off.
 
 "Whoa," he whispered, staring at the three of them. "Are you all doctors now?"
 
-"We're siblings," Silena said simply, ruffling his hair. "Go show Will, get nectar. You're brave."
+"We're siblings," Silena said, asking before touching his hair. "Go show Will. He'll decide what treatment you need. You were brave to ask for help."
 
 As Will led Theo away with praise for the field dressing, Clarisse stared at her blood-stained hands. Silena bumped her shoulder.
 
@@ -486,7 +536,7 @@ Percy's arms came around her automatically, sand and sweat and sunlight. "You ch
 
 "I heard that!" Silena sang, flopping down on top of them both. Clarisse followed, armor and all, and Thalia piled on with a war cry, until they were a heap of limbs and laughter in the middle of the arena while the whole camp cheered and Chiron pretended to look for his whistle and Mr. D ate popcorn and said, "About time these children learned teamwork."
 
-Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them all into the sea to float on their backs and breathe tide-in, tide-out while stars came out, the three siblings sat on the Poseidon cabin steps with salt drying on their skin.
+Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them to the marked shallow shoreline for a supervised float before dark and they had returned to dry clothes as the stars came out, the three siblings sat on the Poseidon cabin steps with salt drying on their skin.
 
 "Spear," Clarisse said, bumping her shoulder against Silena's.
 
