@@ -34,4 +34,6 @@ I inspected anchored passages including **001, 013, 014, 019, 025, 030, 032, 066
 
 **Open review:** The lexical screen covers every numbered chapter and both interludes but is **not a semantic full-book audit**. It cannot reliably detect gradual emotional resets, forgotten private promises, changed objects, or all knowledge leaks. Other chapters still require source-based relationship checks when edited or referenced. Future writing must verify prior interactions and append ledger entries.
 
+**Regression verification:** The eight patched chapters passed 8/8 direct positive/negative content checks after the changes. A repository script and GitHub Actions workflow were added to repeat source-anchored checks and flag suspicious introductions for human review. The automated checks cannot certify emotional or knowledge continuity on their own.
+
 **No claim made:** This branch does not certify all chapters' word counts, global 300-word duplication checks, or PDF exports.
