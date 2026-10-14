@@ -59,3 +59,39 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: FIRSTHAND sleeps in Cabin Three above Percy because his regular cabin smells of fresh paint (explicit Ch012 breakfast explanation); snores, participates in scaffold approach but retreats in fear, later at lake with Ella and communal dinner. Percy/Thalia know he accompanied pocket-sandwich attempt but not secret. Overnight stay is temporary, NOT permanent reassignment from satyr quarters.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 13 · source memory
+- [Chapter 13](../../chapters/013-the-father-who-changes-faces.md): No special on-page divine-lunch role; doesn't inherit Thalia's private Zeus grievances.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 14 · source memory
+- [Chapter 14](../../chapters/014-letters-from-under-the-sea.md): FIRSTHAND/seen: joins Percy camp friends near underwater Iris exchange; attends conversation if shown; no full old-life secret disclosed.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 15 · source memory
+- [Chapter 15](../../chapters/015-beryl-s-letters.md): No named direct Beryl-letter discussion, remains camp friend.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 16 · source memory
+- [Chapter 16](../../chapters/016-capture-the-flag.md): FIRSTHAND: provides enthusiastic CTF play-by-play and carries notes; sees Percy/Annabeth coordinating and their public romance but not historic memory source. CTF ends incomplete.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 17 · source memory
+- [Chapter 17](../../chapters/017-lake-day.md): FIRSTHAND: helps lake shore/naiads cleanup, negotiates fair picnic allocation with Ella; tells Nico he is CONSIDERING becoming Pan Searcher, will ask Chiron; no oath/quest/authorization yet. Assists route map erosion report; already known Percy friend.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 19 · source memory
+- [Chapter 19](../../chapters/019-the-brother-across-the-country.md): No verified personal dialogue on Jason's private relay, no inferred knowledge of Roman paperwork.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 20 · source memory
+- [Chapter 20](../../chapters/020-cake-and-lightning.md): FIRSTHAND: helps organize music and Belated 16th Thalia birthday, gives reed pipes. Thalia retains gift; no new knowledge of Sally's prior-life cooking.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 21 · source memory
+- [Chapter 21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md): FIRSTHAND: schedules Music Night with Chiron, plays wild-place pipes song; acknowledges scheduling mistake near percussion, reserves longer solo for next month (not performed yet). Helps berry harvest and credits late workers; Searcher aspiration remains not a formal quest.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 22 · source memory
+- [Chapter 22](../../chapters/022-storm-training.md): FIRSTHAND: attends storm-training group near Percy, offers luck pinecone, brings tote/notes. Percy keeps blue muffin etc; no full Athena/past-memory access implied.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.

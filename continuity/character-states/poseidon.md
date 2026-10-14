@@ -59,3 +59,43 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Thalia hears Percy's memories of Sally when he tells her privately; Poseidon is absent and does not receive this disclosure.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 13 · source memory
+- [Chapter 13](../../chapters/013-the-father-who-changes-faces.md): No direct Zeus meeting attendance; Olympus report not proof father Poseidon heard Percy/Annabeth's private memories.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 14 · source memory
+- [Chapter 14](../../chapters/014-letters-from-under-the-sea.md): FIRSTHAND via underwater Iris exchange and SEALED LETTER opened with Annabeth later. Says proud of Percy, asks he protect sisters, offers return home when possible. Has not shown equal care to Clarisse/Silena, and his formality does not cancel absence; does not receive true source of Percy's rewritten-life recollections.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 15 · source memory
+- [Chapter 15](../../chapters/015-beryl-s-letters.md): Poseidon-children hear of Beryl's letter but Poseidon does not appear or automatically know it.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 16 · source memory
+- [Chapter 16](../../chapters/016-capture-the-flag.md): Percy/Clarisse/Silena all Poseidon children; father's supposed pride in game is Clarisse's aspiration, not witnessed divine response.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 17 · source memory
+- [Chapter 17](../../chapters/017-lake-day.md): Percy deliberately restrains Poseidon-water abilities during Zoe race; Poseidon himself not a spectator by evidence.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 18 · source memory
+- [Chapter 18](../../chapters/018-the-forge.md): Clarisse presently Poseidon child and has heard from Percy that older life portrayed Ares parentage, but this is sibling reported history NOT transmitted to Poseidon.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 19 · source memory
+- [Chapter 19](../../chapters/019-the-brother-across-the-country.md): Poseidon doesn't appear on authorized Jason Iris call, doesn't know Roman visit authorized until notified in later source.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 20 · source memory
+- [Chapter 20](../../chapters/020-cake-and-lightning.md): Birthday celebration for Zeus child not a Poseidon appearance; Amphitrite's blue cake advice remains distinct.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 21 · source memory
+- [Chapter 21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md): Poseidon does not approve harvest numbers or camp's Roman guest approval on-page.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 22 · source memory
+- [Chapter 22](../../chapters/022-storm-training.md): Percy zapped during practice not proof father Poseidon intervened; no direct appearance.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.

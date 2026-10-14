@@ -59,3 +59,39 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Percy DIRECTLY tells Thalia he remembers 17 years with Sally despite altered Sally dying age two. Amphitrite is NOT on scene, is NOT told and cannot infer the memory gap from son's grief. Preserves her own altered-childhood memories, not Percy's.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 13 · source memory
+- [Chapter 13](../../chapters/013-the-father-who-changes-faces.md): Referenced during Percy/Thalia family discussion; no on-page contact and no information about Zeus's lunch/Jason letters delivered.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 14 · source memory
+- [Chapter 14](../../chapters/014-letters-from-under-the-sea.md): FIRSTHAND via authorized Iris call: meets Percy's camp companions; refers to her own current-history parenting, cares about his sleep/training and gives camp return message. REMEMBERS altered-history Percy's childhood (unshared with Percy autobiographically). Sends Barnacle package of three colored bracelets, jam/blanket/manual and note. Percy does NOT explain other life or Sally memories; Silena says she doesn't know source of his gaps.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 15 · source memory
+- [Chapter 15](../../chapters/015-beryl-s-letters.md): Not told Beryl's current letter or Annabeth's restricted account of Beryl's remembered death.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 16 · source memory
+- [Chapter 16](../../chapters/016-capture-the-flag.md): Not shown receiving CTF news beyond unspecified correspondence; don't infer.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 17 · source memory
+- [Chapter 17](../../chapters/017-lake-day.md): Not at surface freshwater race, childhood shell-game hearsay doesn't give Percy recovered palace memories.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 19 · source memory
+- [Chapter 19](../../chapters/019-the-brother-across-the-country.md): Not included in Jason's authorized Iris call; no transfer of Grace letters or time secret.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 20 · source memory
+- [Chapter 20](../../chapters/020-cake-and-lightning.md): FIRSTHAND: Percy contacts her for blue birthday-cake advice for Thalia; she suggests dye/blueberries and asks him to send birthday wishes. Does NOT hear origin of Sally blue-food memories.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 21 · source memory
+- [Chapter 21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md): No direct recipient of Percy/Annabeth private performance histories.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 22 · source memory
+- [Chapter 22](../../chapters/022-storm-training.md): No direct disclosure of Annabeth powers, Jason stay or Percy electric mishap. Her emotional closeness with Percy can grow without being informed of erased-life history.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.

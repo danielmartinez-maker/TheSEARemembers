@@ -59,3 +59,23 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Not present; Percy does not tell Triton about the Sally disclosure to Thalia.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 14 · source memory
+- [Chapter 14](../../chapters/014-letters-from-under-the-sea.md): FIRSTHAND via Iris message from Atlantis, shares short-lived visit affection and training memory with Percy. Sends training manual and gifts through hippocamp Barnacle. Triton has altered-life shared history; Percy knows it mostly from reports and recent direct time with him. No rewritten-life secret communicated.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 17 · source memory
+- [Chapter 17](../../chapters/017-lake-day.md): Referenced as source of undersea swimming lessons; Percy cannot automatically remember form-shifting childhood. Triton's voice in remembered recent training is not past-life autobiographical recollection.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 19 · source memory
+- [Chapter 19](../../chapters/019-the-brother-across-the-country.md): Not a participant in Camp Jupiter Iris call, no automatic Roman correspondence knowledge.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 21 · source memory
+- [Chapter 21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md): Percy retells Atlantis story drawn from Triton's accounts; the audience can hear STORY, not his actual recent undersea private exchanges.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 22 · source memory
+- [Chapter 22](../../chapters/022-storm-training.md): No current direct contact; old swimming instructions remain source of Percy's skills.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.

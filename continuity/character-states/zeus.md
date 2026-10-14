@@ -33,3 +33,39 @@ Father of Thalia, Annabeth, Jason in altered history. No verified direct on-page
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Thalia notes Zeus hasn't contacted them in five days after eclipse; absence is not a declared motive. Ch013 will introduce new guise, so do not invent earlier contact.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 13 · source memory
+- [Chapter 13](../../chapters/013-the-father-who-changes-faces.md): FIRSTHAND: arrives at Big House in NEW physical guise distinct from prior visits; praises 'agreeable' Annabeth, condemns Thalia and invokes Beryl despite old neglect. REPORTS Jason alive/safe at Camp Jupiter and says he'll inquire about letters; not confirmation of their delivery or of him reading Chiron's eclipse report. Leaves pine/lightning drachma and owl pendant; sisters don't take these as forgiveness.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 14 · source memory
+- [Chapter 14](../../chapters/014-letters-from-under-the-sea.md): No on-page appearance; Annabeth introduced to Amphitrite as Zeus's daughter. Zeus is NOT informed of Percy/Annabeth old-life secrets via underwater call.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 15 · source memory
+- [Chapter 15](../../chapters/015-beryl-s-letters.md): No direct scene; Beryl letter to daughters doesn't mean Zeus knows claimed sobriety. Prior physical guise and neglect remembered by Thalia.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 16 · source memory
+- [Chapter 16](../../chapters/016-capture-the-flag.md): No direct on-page Zeus intervention even when his daughters lead opposite CTF team; game score not a divine ruling.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 18 · source memory
+- [Chapter 18](../../chapters/018-the-forge.md): No direct encounter. Annabeth calls him altered-life father while explaining Athena in old life to Thalia; these private words do not notify Zeus.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 19 · source memory
+- [Chapter 19](../../chapters/019-the-brother-across-the-country.md): Jason's parentage as Zeus's son established, but Roman relay does not constitute Zeus supervision or knowledge of message content.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 20 · source memory
+- [Chapter 20](../../chapters/020-cake-and-lightning.md): No change to paternal neglect because Thalia has an enjoyable birthday with friends. Gifts from others, not evidence Zeus sent them.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 21 · source memory
+- [Chapter 21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md): No verified contact about harvest, Music Night or Roman visit authorization.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 22 · source memory
+- [Chapter 22](../../chapters/022-storm-training.md): Annabeth practices Zeus-lineage powers under Chiron/Thalia, but Zeus has no direct speaking/visit and hasn't been shown monitoring.
+- **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
