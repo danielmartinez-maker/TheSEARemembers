@@ -18,7 +18,7 @@ Mrs. O'Leary, his huge hellhound, thumped her tail against the dock planks and w
 
 Mrs. O'Leary sneezed.
 
-Before the first dance this spring he had crouched on this exact dock and panicked for three days about asking Annabeth to the Spring Dance. He had forgotten speeches. He had knocked over nectar. He had needed Clarisse La Rue to teach him a box step in secret in the archery range while threatening him with boots. He had stepped on Annabeth's toes twice in one song and on his own pride about eleven times.
+Before the first dance this spring he had crouched on this exact dock and panicked for three days about asking Annabeth to the Spring Dance. He had forgotten speeches. He had knocked over berry juice. He had needed Clarisse La Rue to teach him a box step in secret in the archery range while threatening him with boots. He had stepped on Annabeth's toes twice in one song and on his own pride about eleven times.
 
 Now he and Annabeth had been boyfriend and girlfriend for more than a year. They had their own bench by the lake with initials carved small underneath where Chiron pretended not to see. Thalia, Annabeth's older sister — both of them daughters of Zeus, the same stubborn chin, Annabeth's gray eyes and Thalia's electric-blue ones — had threatened to throw him off Half-Blood Hill six times.
 
@@ -96,11 +96,11 @@ Percy put his forehead on the table, same as before. "Great. No secrets at camp.
 
 "He did stammer," Tyson conceded. "But he still got a dance. You will get a dance too. I have already sung to the flowers. They are ready."
 
-Percy lifted his head. "You already got sea flowers?"
+Percy lifted his head. "You already asked about sea flowers?"
 
-"Pink ones. Like sunrise. Same as before, but bigger, because our love is bigger after the first dance." Tyson pressed huge hands to his chest. "I did not eat them this time either. I ate kelp instead. It was hard."
+"Pink ones. Like sunrise. I asked the palace gardeners for permission. They will send them if they are in season." Tyson pressed huge hands to his chest. "I did not eat them this time either. I ate kelp instead. It was hard."
 
-Across the room Annabeth looked up and waved two fingers, same as before. Percy waved back. He did not knock over his nectar cup this time. Grover caught nothing because there was nothing to catch, and looked faintly disappointed.
+Across the room Annabeth looked up and waved two fingers, same as before. Percy waved back. He did not knock over his juice cup this time. Grover caught nothing because there was nothing to catch, and looked faintly disappointed.
 
 "Real smooth," Grover whispered anyway, out of tradition.
 
@@ -266,9 +266,9 @@ Annabeth hugged her carefully. "Thank you. For everything. For the first dance t
 
 ---
 
-Percy survived teaching. Now he needed a corsage, same as before but with a twist.
+Percy survived teaching. Now he needed a corsage.
 
-He had Thalia's silver wrist band from the first dance, kept in tissue in his trunk. Annabeth had kept the sea blooms pressed in her notebook because they wilted after spring tide no matter how much mist Chiron lent. This time they wanted matching.
+The silver wristband from the first dance had stayed with Annabeth as her gift. Thalia had asked to borrow it for repair and redesign, and Percy had received permission to help attach new flowers. Annabeth had kept the sea blooms pressed in her notebook because they wilted after spring tide no matter how much mist Chiron lent. This time they wanted matching.
 
 He found Thalia outside Cabin One Thursday. At the first dance she had dragged him onto the porch for a threatening talk. This time she saw the box and pulled him into a hug.
 
@@ -294,7 +294,7 @@ Thalia punched his arm lightly, same as before. "If you get nervous, don't count
 
 "I'm terrifying and huggable now," Thalia said. "It's a gift. Growth."
 
-Tyson returned from collecting flowers in Atlantis through the lake portal, holding a cloth bundle high. Inside were sea blooms, pink veined gold, plus small white surface blossoms Juniper helped pick.
+Tyson returned from meeting an approved Atlantean messenger at the saltwater beach, holding a cloth bundle high. Inside were sea blooms, pink veined gold, plus small white surface blossoms Juniper helped pick.
 
 They fixed them onto the band with sea grass. Pink and silver and green and white.
 
@@ -306,15 +306,15 @@ Saturday dawned bright. The Big House was closed for decorating. Apollo snuck in
 
 Percy did not fail at normal. He held his book right-side up.
 
-Grover was more nervous than Percy. At the first dance he had gone with Ella, the russet-feathered harpy. Then Juniper, the dryad and Grover's oldest friend, returned Monday and hugged him hard. Ella went quiet, fearing to be unchosen. Juniper cried sap tears, not wanting to steal anyone.
+Grover was more nervous than Percy. At the first dance he had gone with Ella, the russet-feathered harpy. Juniper, his longtime dryad friend, had recently returned from an extended absence. Ella and Juniper had each asked Grover for clarity about what their relationships meant, and he had tried to answer without rushing either of them.
 
 Silena talked to both girls Thursday. Now Saturday lunch, Grover sat with his head in his hands.
 
-"Breathe," Percy told him. "Tell them you love Ella as girlfriend and Juniper as herd, and you want to dance with both."
+"Breathe," Percy told him. "Don't let everybody else choose the labels. Ask Ella and Juniper what they want, and tell them what you actually mean."
 
 Grover lifted his head. "You think that works?"
 
-"Annabeth says triangles only hurt when people compete," Percy said. "So don't compete. Share the dance."
+"Annabeth says honesty works better than guessing. That doesn't mean they have to agree to share a dance."
 
 In Aphrodite cabin, preparations were calmer, because Silena had already done the hard talk.
 
@@ -382,7 +382,7 @@ Thalia loomed, same as before — then instead of two fingers to her eyes, she w
 
 "Feel waves," Percy agreed, hugging back one-armed.
 
-Grover and Ella and Juniper came out hand in wing in hand, bow tie correct, blossoms bobbing, trio shy-proud. The six of them walked to the Big House as sun sank gold across grass, same path, larger party.
+Grover, Ella and Juniper came out together, each having agreed to walk as friends. The six of them walked to the Big House as sun sank gold across grass, same path, larger party.
 
 ---
 
