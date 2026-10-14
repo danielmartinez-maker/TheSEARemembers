@@ -1,0 +1,85 @@
+chapter: 133
+title: "Annabeth's Birthday"
+source: "chapters/133-annabeth-s-birthday.md"
+status: "source-checked handoff; narrative expansion October 13, 2026"
+relative_time: "Annabeth's fourteenth birthday; exact calendar date not established in chapter"
+pov:
+  - "Annabeth Grace (third-person limited, including new pavilion-preparation scene)"
+locations:
+  - "Cabin One"
+  - "Big House garden and Iris-message basin"
+  - "Forge / practice room"
+  - "Dining pavilion and nearby path"
+  - "Camp freshwater lake dock at night"
+participants_and_knowledge:
+  annabeth:
+    - "Remembers her original life as Athena's daughter and Percy's established partner, but not the altered childhood Thalia recalls"
+    - "Receives a short authorized Iris-message call from Jason and hears his first-person description of Roman tasks"
+    - "Witnesses the pavilion safety exercise, including Nico's successful installation under Clarisse's direction"
+  thalia:
+    - "Her eighteenth-year presence and sisterhood are established; she does not possess Annabeth's original-life memories"
+    - "Makes an ordinary pencil pouch and hardbound sketchbook for Annabeth"
+    - "Does not necessarily hear the new pavilion instruction to Silena about asking before public display of Annabeth's working drawings"
+  silena:
+    - "Hears Annabeth's express instruction that displayed maps and sketches require her permission"
+    - "Cooperates with Clarisse and Nico to make fourteen paper stars safely hang away from food-service traffic"
+  clarisse:
+    - "Directly witnesses unsafe chair setup, moves the chair for repair, mentors Nico on a pilot hole, and helps test the rig"
+  nico:
+    - "Brings a ruler to Annabeth, successfully installs a supported hook under Clarisse's supervision, and learns to check it"
+  jason:
+    - "Talks to his sisters by Iris-message for a short approved period"
+    - "Sends or arranges a separate small parcel; same-day delivery is NOT established"
+  amphitrite:
+    - "Not present and not told about Percy/Annabeth's erased memories"
+ages:
+  annabeth: "14, confirmed by birthday scenes"
+  percy: "13, later turns 14 in Chapter 136"
+  thalia: "18, stated in chapter"
+  clarisse: "exact birthday transition around this scene unverified"
+  silena: "exact birthday transition around this scene unverified"
+events_and_relationship_updates:
+  - id: C133_A
+    certainty: confirmed
+    witnessed_by: ["Annabeth", "Thalia", "Jason", "Chiron"]
+    event: "Annabeth receives a limited birthday Iris-call from Jason; future correspondence remains restricted to actual authorized communication"
+    carry_forward: "Jason's own Roman experiences are secondhand stories to Annabeth; no unapproved travel or erased-life shared memories"
+  - id: C133_B
+    certainty: confirmed
+    witnessed_by: ["Annabeth", "Thalia", "Beckendorf"]
+    event: "Zeus's polymorphic silver gift does not reliably point north at the forge; its enchantment remains unverified"
+    carry_forward: "Do not treat it as a tested compass or safe weapon before future testing"
+  - id: C133_C
+    certainty: confirmed
+    witnessed_by: ["Annabeth", "Nico", "Silena", "Clarisse", "Ella", "Grover", "Thalia"]
+    event: "Preparty decoration rig threatens walkway safety; Nico, Clarisse and Silena install fourteen safely hung stars after Annabeth recommends anchored beams and delegates actual work"
+    carry_forward: "Nico has earned new competence; Clarisse and Silena have a practical cooperation scene; unsafe chair removed for repair"
+  - id: C133_D
+    certainty: confirmed
+    witnessed_by: ["Annabeth", "Silena"]
+    event: "Annabeth asks Silena not to display any of her working drawings without permission; Thalia is away with the cups and may not hear"
+    carry_forward: "Later same-chapter Thalia moving a working map remains an honest boundary misunderstanding, not a proven betrayal of an explicit agreed rule"
+  - id: C133_E
+    certainty: confirmed
+    witnessed_by: ["Annabeth", "Thalia", "Percy", "party companions"]
+    event: "Thalia gifts a pouch and sketchbook; Percy gifts a proposed house sketch; Annabeth refuses a public performance with Zeus's object"
+    carry_forward: "Keep separately tracked gifts and do not turn future house sketch into a decided construction commitment"
+props_and_injuries:
+  - "Silver shapeshifting Zeus gift: closed case, limitations unresolved"
+  - "Jason birthday parcel: sent/expected but receipt unknown"
+  - "Thalia: handmade pencil pouch and blue sketchbook; copy of old photograph may later be placed inside"
+  - "Percy: house design sketch given to Annabeth; Annabeth discusses optional changes"
+  - "Unsafe pavilion chair: taken out of service to be tagged for repair"
+  - "No injuries in new scene"
+next_chapter:
+  source: "chapters/134-the-secret-passage.md"
+  actual_opening_checked: true
+  handoff: "The next morning Percy hears a rumor about a hidden service passage. Annabeth knows only that old camp services and drainage exist; she has not found a route connecting Cabin Six to Cabin Three."
+qa:
+  previous_chapter_final_scene_checked: true
+  following_chapter_opening_checked: true
+  prior_gifts_and_sibling_relationships_checked: true
+  third_person_limited_new_scene_checked: true
+  body_word_floor: "verify from current CI; expected >10000"
+  global_exact_300_word_repeat: "verify from current CI"
+  full_semantic_edit: "not certified"
