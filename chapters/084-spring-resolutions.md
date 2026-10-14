@@ -716,7 +716,7 @@ She raised her cup in a mock toast. Grover touched his route sheet against it, a
 
 "To keeping them," Grover replied.
 
-They returned to the fire. Percy noticed Clarisse sitting beside Silena with the rolled sheet still in her lap. She hadn't read it yet. Silena wasn't looking at it. They were watching the younger campers leave in supervised groups, their lanterns moving toward the cabins.
+They returned to the amphitheater as the first lanterns were lit. Percy noticed Clarisse sitting beside Silena with the rolled sheet still in her lap. She hadn't read it yet. Silena wasn't looking at it. They watched the fire crew finish the perimeter inspection and invite the counselors to bring the early guests to their seats.
 
 When a small boy stopped and asked whether he'd missed the important part of the night, Silena answered that tomorrow's breakfast was important too, and he didn't need to stay up past his bedtime to prove he belonged. The boy went with his counselor without argument.
 
@@ -894,13 +894,13 @@ Annabeth nodded. They walked to breakfast with the notebook tucked safely in Per
 
 On the way they met Clarisse carrying her composition book back toward Cabin Three. Percy glanced at it, then looked away.
 
-"Did you read the other poem last night?" he asked.
+"You read the winter patrol poem last night," he said. "Did you decide whether to share another?"
 
-"No."
+"No. One was enough."
 
 "You don't have to tell me why."
 
-"I know. But I might." Clarisse shifted the book under her arm. "When Silena finished her song I realized I didn't need to prove I was brave by taking a private thing and making it everybody's entertainment. The three lines for the board are enough for now."
+"I know. But I might." Clarisse shifted the book under her arm. "When Silena finished her song I realized I didn't need to share another piece just to prove I was brave. The winter patrol poem was mine to choose, and the three lines for the board are enough for now. I can keep the rest private."
 
 Percy nodded. "Okay."
 
