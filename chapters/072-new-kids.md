@@ -540,6 +540,170 @@ Silena gathered Bea close as Bea whispered she missed her grandma who braided he
 
 Thalia caught Annabeth watching and mouthed, *told you.* Annabeth mouthed back, *big-sister certified.*
 
+A little later Annabeth realized the three children had stopped eating.
+
+Milo was folding and unfolding the same corner of his napkin. Lucy kept checking the doorway, where older campers entered in groups that knew exactly where to go. Bea had set her seal on the bench and placed both hands around it as if she were guarding something valuable.
+
+"What's wrong?" Annabeth asked.
+
+"Nothing," Milo said too quickly.
+
+Lucy looked at the other tables. "Where do we sleep?"
+
+"Chiron will make sure you have beds," Annabeth said.
+
+"In which cabin?"
+
+"We should check rather than guess." Annabeth looked for a clipboard and didn't have one, which annoyed her more than it should. "You haven't had your placement meeting yet, have you?"
+
+Lucy shook her head.
+
+"If you're unclaimed, you usually start in the Hermes cabin," she said. "But if Chiron has a confirmed parent for you, he'll tell you privately. He won't announce it to a dining hall."
+
+"Can we stay together?" Bea asked, so softly that Annabeth nearly missed it.
+
+Silena had been listening from the next seat. "You can ask."
+
+"That's not yes," Bea said.
+
+"No," Annabeth agreed. "It isn't."
+
+Bea frowned down at the seal. Percy reached for Annabeth's hand beneath the table, his thumb resting on her knuckles. He knew how much she hated giving an uncertain answer when a child was asking for comfort.
+
+She stood up. "I'll go find out what we actually know."
+
+"Do you have to?" Lucy said. "Right now?"
+
+Annabeth stopped. The girl's question wasn't about being polite. It was about Annabeth leaving.
+
+"I can wait until you finish lunch."
+
+Lucy nodded.
+
+So Annabeth sat back down.
+
+She had wanted to show the children that somebody was competent, that camp would not lose them or forget where they'd been put. But they weren't asking for a demonstration of competence. They were asking whether the girl who'd been walking with them all morning would still be at the table when they looked up.
+
+She ate the rest of her soup slowly, though it had gone lukewarm. Percy began an argument with Tyson about whether a mechanical seahorse could legally count as a pet. Tyson believed his automaton qualified as a younger cousin. Percy wanted to know whether cousins could bite shoelaces. Milo took the question seriously and started drafting rules on the back of his napkin.
+
+That gave Annabeth time to think.
+
+When the table began to clear, she asked Lucy if she wanted to carry one of the orientation maps. Lucy took it after checking that Annabeth wasn't asking her to lead the tour.
+
+"Just hold it," Annabeth said. "I'll need it in a minute."
+
+They found Chiron outside the pavilion.
+
+He had the placement sheets already organized, three envelopes marked with the new children's names. He did not read their contents aloud. Instead he crouched beside Bea and asked if she wanted to talk first or listen while the other two did.
+
+"Listen," Bea said.
+
+"Very well." He looked at the group. "There are several ways to arrange a first night. Everyone has an assigned counselor and a bed. Nobody needs to guess where they belong after dinner."
+
+Milo spoke before anyone else could. "I asked about my brother."
+
+"Yes," Chiron said. "We are checking the information your satyr provided. I cannot promise a call today. I can promise that you will know by this evening which method of contact is permitted, and who will help you use it."
+
+Milo's jaw tightened. "He thinks I'm at school."
+
+"I understand that. We will not send him an account you haven't approved."
+
+Percy watched Milo absorb the distinction. His fear hadn't evaporated since the fountain conversation; if anything it had become more specific. But Chiron hadn't promised a miracle. Percy respected him for that.
+
+Lucy raised her map. "Can we sleep in one room?"
+
+"That depends on your cabin assignments and the counselors," Chiron said. "You may be near one another at first and still have separate spaces. We can make arrangements for you to meet at breakfast. If you are worried about the night, I would rather know that now than discover it after lights-out."
+
+"I don't like the dark," Lucy said.
+
+"You've got shoes that light up," Percy offered.
+
+Lucy gave him a look of profound disappointment. "They turn off when you lie down."
+
+"Right. Excellent point."
+
+"The cabin has lanterns," Chiron said. "The counselor can show you where the safe nightlight is kept. No open flame by the beds."
+
+Bea pressed the stuffed seal against her cheek. "I don't want anybody touching him."
+
+"Then nobody should touch him without asking," Chiron said.
+
+"What if they take him?"
+
+"Tell the counselor immediately. If that happens, I want to hear about it."
+
+Bea stared at him, searching his face for a joke. There wasn't one.
+
+Chiron continued, "I also need to know about food, medication, and any special needs before you settle in. Those are private conversations. Percy and Annabeth can be friends and guides, but they are not responsible for keeping track of every detail of your care."
+
+Thalia opened her mouth, probably to volunteer for everything at once. Annabeth caught her sleeve.
+
+"He's right," she said quietly.
+
+Thalia's expression suggested she objected on principle. She closed her mouth anyway.
+
+Annabeth knew the instinct. If she could list everything a child needed, perhaps no one would ever go without it. But she had spent too many years believing that staying awake and checking every exit was the same thing as having control. Chiron was offering these three children something sturdier than her personal promise: a system that would still exist if she was busy or frightened or simply asleep.
+
+He gave each child their own envelope, asking them to hold it rather than show it to the group. The three received directions for their counselor meetings after afternoon activities. Bea immediately tucked hers beneath the seal's belly. Lucy read the front twice. Milo traced the spelling of his name.
+
+"Can Percy come to mine?" Milo asked.
+
+"If you want him there and we don't need to discuss private matters first," Chiron said. "We'll decide together when we start."
+
+"Okay."
+
+Lucy turned to Annabeth. "Can you wait outside mine?"
+
+"Yes."
+
+"And don't go somewhere else without telling me."
+
+"All right," Annabeth said. "I'll tell you before I leave."
+
+This time she meant it as a promise she could keep.
+
+They went to the stables next. Chris was on duty with a younger Hermes camper, measuring feed for the pegasi. Milo stood outside the gate until Chris invited him in, then asked so many questions about hay, hoof care and saddle fitting that Annabeth lost count.
+
+"Does it bite?"
+
+"If you put your hand where it shouldn't go," Chris replied.
+
+"Does it kick?"
+
+"It can. That's why we're on this side of the rail."
+
+"Can you ride it?"
+
+"Only when you and the animal have both had the right training."
+
+Milo nodded. He did not ask to ride.
+
+Percy offered a sugar cube to Blackjack with an apologetic glance at Chris, who shook his head and pointed to the feed rules. Percy returned the sugar to his pocket. He'd known Blackjack long enough to think that knowing the horse exempted him from basic stable rules. It did not.
+
+Lucy spent most of the visit drawing a pegasus in the blank space on her map. Her version had enormous wings and flashing shoes. When she showed it to Annabeth, she asked whether the wing joints were in the right places.
+
+"Not quite," Annabeth said. "See where the shoulder starts? If you want, I can show you the bones."
+
+Lucy handed her the pencil.
+
+They sat on the fence rail with the page between them. Annabeth drew only the joint and let Lucy change the rest herself. The finished pegasus was still impossibly colorful, but it could probably fly.
+
+Bea stayed near Silena, listening to the soft sounds of horses eating. When Chris offered her a brush to hold, she shook her head. He put it away without comment.
+
+At the end of the stable visit Milo found Percy beside the gate.
+
+"I think I'd like to learn that," he said.
+
+"Which part?"
+
+"Taking care of them. Not riding. Not yet."
+
+"We can ask about a beginner shift when you have a schedule."
+
+Milo nodded and looked back at the animals, still eating quietly. For the first time that day he'd found something he wanted to do tomorrow that wasn't about being allowed to leave.
+
+That seemed worth remembering.
+
 ---
 
 They did the woods edge, the stables, the climbing wall, then the beach.
