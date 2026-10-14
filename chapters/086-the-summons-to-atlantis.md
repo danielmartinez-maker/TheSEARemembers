@@ -376,6 +376,108 @@ Clarisse stared at it for a long time.
 
 Percy nodded, throat tight. "That's what they told me. Dad said I had two sisters on land, brave and bright, and that the sea was keeping me ready for them. Apparently I talked to that picture when storms kept me awake. I told you about my day. I wish I could remember it."
 
+Clarisse studied the picture beneath the glass.
+
+"Who told you when you drew it?"
+
+"Amphitrite."
+
+"Did she keep it here?"
+
+"Yes. She said I asked her not to move it."
+
+Clarisse looked around the room. "Then I believe she kept it because you asked."
+
+Percy waited. He had half expected her to demand a childhood story he couldn't give, to make him explain why the little boy in the picture seemed like a stranger even though the picture had his name.
+
+Instead she pointed to the whale mural.
+
+"I used to draw you too," she said. "Not like that. I was terrible at drawing. I made a stick figure with a sword and wrote *little brother* underneath because I didn't know whether you'd prefer a name."
+
+Percy stared. "You did?"
+
+"Yes."
+
+"Where is it?"
+
+"Probably in the bottom of a trunk. I didn't bring it to camp."
+
+"Can I see it sometime?"
+
+"If I find it. And if I want to show it to you."
+
+Silena smiled through tears. "You always were protective of your drawings."
+
+"They're awful."
+
+"That's not what I said."
+
+Silena walked over to the window, where a row of small shells sat on a shelf. They were sorted by size, each with a tiny label written in a child's hand.
+
+"These are like the ones you showed us when we visited the palace last time," she said.
+
+Percy came to stand beside her. "Amphitrite said I collected them after storms. I used to name them."
+
+"Do you know the names now?"
+
+"Only some. The labels are hard to read."
+
+Silena lifted one shell, then put it back in exactly the same position. "We could ask her which is which."
+
+"We could," Percy said.
+
+They stood quietly looking at the shelf. Percy knew he'd heard stories about the shell collection on earlier visits to Atlantis. He hadn't stood at this window as the child who made the labels, or at least he couldn't call up that experience from inside. There was no reason to pretend otherwise. His sisters didn't know the secret reason for his missing memories, and he didn't need to tell them for this conversation to be honest.
+
+"Do you have things like this from when you were little?" he asked Silena.
+
+She nodded. "A box of ribbons and a pair of shoes I refused to throw away. Mom kept them."
+
+"Could I see them?"
+
+"When we go back."
+
+Clarisse folded her arms. "You two can exchange baby objects. I'm not showing you anything from my childhood that involves a pink dress."
+
+Percy grinned. "There was a pink dress?"
+
+"There was no dress."
+
+"How would you know if there wasn't a dress?"
+
+"I would remember because I would have destroyed it."
+
+Silena laughed. The sound filled the nursery without the awkwardness of a ceremonial visit. Percy felt the room becoming theirs in the present, not because the objects suddenly gave him his missing years, but because his sisters were asking real questions and making jokes at his expense.
+
+He looked at Annabeth, who was still near the doorway.
+
+"Come see this," he said.
+
+She joined them by the window and looked at the shells without touching them.
+
+"Are they arranged chronologically?" she asked.
+
+"Probably. That's a very you question."
+
+"I'd like to know what the labels mean."
+
+"We can ask Mom," Percy said.
+
+He heard the ease with which the word came out. It had not been easy at first, after he arrived in this history and learned that Sally had died when he was two. Amphitrite had not required him to produce a matching childhood memory before she offered him care. Over time Percy had learned to meet that care with a present choice of his own.
+
+Clarisse glanced at him, then at the picture of the three children.
+
+"She's your mother," she said simply. "I can see she tried to help you remember we existed."
+
+"She did."
+
+"Then maybe we should thank her for keeping the picture."
+
+Silena nodded. "And for inviting us here."
+
+Percy smiled. He had been afraid the room would make him feel like a fraud. Instead it gave him another reason to talk to his family about a life all of them experienced differently.
+
+No one tried to take the drawing out from under the glass. They left it where the little Percy had apparently asked for it to stay, and promised only to ask Amphitrite whether she knew more about the day it was made.
+
 Silena made a small sound and sat down hard on the little bed, which creaked. Clarisse sat beside her, stiff at first, then leaning into her sister's side. Percy sat on the floor in front of them, knees up, like he had when he was small.
 
 "Amphitrite said I used to pretend you would come down and we would all sleep here," he admitted. "Silena would take the bed because she is oldest. Clarisse would take the toy chest lid because she said beds were soft. I would sleep on the rug with the whale watching."
