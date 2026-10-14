@@ -318,11 +318,21 @@ They went to Amphitrite with the copied entry. She recognized the incident and t
 
 "No. The fastening wore loose. You believed you had done something wrong until your brother showed you the problem."
 
-"I wish I remembered."
+Percy looked from the model to the copied entry. "What happened after?"
 
-"I know."
+"Triton repaired the support. You watched every step and asked to inspect the bolts before he let you back on the stage."
 
-She didn't try to persuade him that the story ought to awaken a memory. He was grateful for that. Her account gave him a better picture of the childhood she knew without forcing him to claim it as his own.
+"Did I find anything wrong?"
+
+"No," Triton said. "But you were satisfied to check."
+
+"I can see why you kept the braces," Percy said.
+
+"The stage was worth keeping," Amphitrite replied. "And you wanted to understand why it needed repair."
+
+"You were very determined about your lessons," she added, smiling.
+
+Her story gave the entry warmth: a stubborn boy, a careful brother, and an afternoon when the stage came apart and went back together. Percy listened, asking small questions about the repair, and let the story belong to the people who had been there.
 
 Before leaving, Annabeth asked to see the current route from the training pool to the medical rooms. The archivist supplied it, along with the name of the staff member responsible for keeping the diagram updated.
 

@@ -84,10 +84,12 @@ CHECKS = {
         "absent": ("And you are Annabeth", "He knew she understood that"),
     },
     "chapters/126-the-palace-below.md": {
-        "present": ("Not in person", "He had drawn the blue house"),
+        "present": ("Not in person", "He had drawn the blue house",
+                    "You were very determined about your lessons"),
         "absent": ("telling Amphitrite about Sally’s kitchen in the life I remember",
                    "We wrote to one another before she died",
-                   "I kept that letter for a long time"),
+                   "I kept that letter for a long time",
+                   "I wish I remembered."),
     },
     "chapters/127-guest-and-beloved.md": {
         "present": ("We can learn who you are now", "wish being here felt easier"),
