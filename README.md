@@ -23,8 +23,8 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 - [Evidence-backed four-phase execution record](editorial/audits/FOUR-PHASE-EXECUTION-2026-10-13.md): what passed, what was revised and what remains incomplete.
 - [Per-chapter machine-generated continuity cue index](continuity/evidence/generated-ch001-193.md): 193 chapter locators; witnesses, relationships and secret knowledge explicitly **unverified** until human scene review.
-- [Full-manuscript QA report](editorial/audits/generated-full-qa.md) and [structured data](editorial/audits/generated-full-qa.json): 138/193 meet the length floor; 55 chapters are 267,533 words short; 1,660,025 300-word windows yielded zero exact cross-chapter duplicates.
-- [55-chapter expansion handoff queue](editorial/handoffs/55-short-chapters-execution-queue.md): title-by-title deficits and serial writing packets. **No expansion claimed**.
+- [Full-manuscript QA report](editorial/audits/generated-full-qa.md) and [structured data](editorial/audits/generated-full-qa.json): latest verified CI recount **140/193** length-passing, **53 short**, **264,551** words missing; **1,664,234** consecutive 300-word windows with zero exact cross-chapter matches. [Passing run](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38507799236).
+- [Expansion handoff queue](editorial/handoffs/55-short-chapters-execution-queue.md): originally 55 short chapters, now **53** pending; chapters [066](chapters/066-jason-s-letter.md) and [133](chapters/133-annabeth-s-birthday.md) expanded above 10k, with [individual source-based handoffs](continuity/ch066.yaml) and [birthday handoff](continuity/ch133.yaml). Both remain open to independent literary review.
 - [Auditing scripts](scripts/full_manuscript_qa.py) and [CI workflow](.github/workflows/full-manuscript-audit.yml). Mechanical QA does not certify every scene's continuity or prose quality.
 
 ## Editorial audit progress
