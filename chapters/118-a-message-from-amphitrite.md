@@ -54,7 +54,7 @@ Percy's throat tightened before permission.
 
 “Percy,” she said, smile warming, “good to see you.”
 
-“Hi,” he managed, ears hot. “Good to see you, too.”
+“Hi, Mom,” he managed, ears hot. “Good to see you, too.”
 
 Too small, the words. Right anyway.
 
@@ -66,11 +66,11 @@ Short nod from Clarisse. “My lady.”
 
 Glancing between them, Percy wavered between pride at their manners and worry the lake had turned courtroom.
 
-“No need to stand at attention for a message, Clarisse,” Amphitrite said gently. “Glad to meet you properly, even through rainbow.”
+“No need to stand at attention for a message, Clarisse,” Amphitrite said gently. “It's good to see you both again. I still remember our lunch at camp.”
 
-“Met,” Clarisse said. “Briefly.”
+“Hard to forget that lunch,” Clarisse said. “Especially the seaweed.”
 
-“Then glad to see you again.”
+“I shall bring less of it next time.”
 
 Clarisse's shoulders eased a fraction less square, breath audibly leaving her. Percy wisely said nothing, though relief flickered through him warm as sun on water, and he focused wholly deliberately on the ripple marks lapping the dock.
 
