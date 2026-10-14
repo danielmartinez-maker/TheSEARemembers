@@ -315,6 +315,176 @@ Silena knelt gracefully and set a perfect pink scallop shell into the castle's f
 
 Annabeth looked at her for a long moment, then nodded seriously. "You're right. Leave it there."
 
+She was still studying the pink scallop when the east wall moved.
+
+It wasn't dramatic. One of the narrow sand buttresses sank a fraction of an inch and took the little bridge with it. A row of shells tilted, their edges suddenly no longer level. Annabeth put her hand beneath the bridge before it could collapse altogether.
+
+"Nobody touch that side," she said.
+
+Percy stopped in the middle of planting another flag. Tyson froze with a bucket of water in his hand.
+
+"Was it me?" Percy asked.
+
+"No. I don't know yet."
+
+She hated saying that in front of an audience. The castle was supposed to be the proof that she could use Atlantean tools properly, the answer to Amphitrite's challenge. She had measured the towers three times. Now one wall was falling in a direction it shouldn't.
+
+Beckendorf crouched beside her. He didn't touch the structure until she nodded.
+
+"The soil under the foundation is wetter than the surface," he said.
+
+"It's supposed to be."
+
+"Not that wet."
+
+Annabeth pushed a finger into the sand beside the wall. Water came up around it, clear and cold. She had chosen ground above the visible high-water line, but the wet layer beneath it had been moving as the tide turned. The foundation wasn't resting on the firm surface she thought she'd prepared.
+
+"That's not on the drawing," she said.
+
+"The drawing doesn't know this beach," Beckendorf replied.
+
+She felt the flare of annoyance before she could stop it. It wasn't his fault, and he hadn't said anything unfair. She'd spent years treating drawings as a way to keep unpredictable things where they belonged. Here the ocean had decided to ignore a line she'd drawn on paper.
+
+"Percy, can you feel how the water's moving under here?" she asked.
+
+He put his palm against the damp ground, away from the castle. For several seconds he didn't speak.
+
+"The tide's pushing through the sand from the side," he said. "It's not dangerous to us. It's going to keep getting wetter around the east wall."
+
+"Can you stop it?"
+
+"I could push the water back for a while."
+
+Annabeth looked at the castle, then at the tide. He could solve the immediate problem with his powers, and everyone would applaud. The next time the structure met an ordinary wave it would fail for exactly the same reason.
+
+"Don't," she said. "I need it to stand without you holding the beach in place."
+
+Percy nodded. He didn't look offended. She was grateful for that.
+
+A girl from the Demeter cabin had been watching Annabeth build since morning. She approached carrying a bucket of shells.
+
+"Do you need the sand I collected?" she asked.
+
+"Maybe. What's your name?"
+
+"Mara."
+
+"Okay, Mara. Could you help us test something?"
+
+Mara nodded eagerly. Annabeth borrowed the bucket and made a small mound of sand a few feet away from the castle. She pressed it flat, then asked Tyson to add water slowly along one edge while she watched what happened inside. The mound sagged and split. She added a shallow channel on the next attempt; the water flowed out along it instead of collecting beneath the center.
+
+"See?" she told Mara. "The sand needs somewhere for water to go. If we trap it beneath the wall, it pushes the wall up or washes the grains out from underneath."
+
+Mara considered the two mounds. "Like when you make a path between garden beds?"
+
+"Yes. Exactly like that."
+
+"We put stones at the bottom of ours."
+
+Annabeth glanced toward the castle. "That's not a bad idea."
+
+She asked Beckendorf for a small handful of beach pebbles, not the decorative shells Silena had already chosen. They were going to have to rebuild the east wall with a drainage channel and a foundation less dependent on the charmed sand sticking in the right places.
+
+Mara sat beside her with a handful of pebbles. "Am I allowed to make part of it?"
+
+Annabeth hesitated. It would be faster to do the work herself. It would also mean the girl went back to her own crooked castle having spent most of the morning watching an older camper make everything look effortless.
+
+"You can make the channel," she said. "I'll show you the slope. Then you tell me if the water flows where we want it."
+
+Mara looked astonished. "Me?"
+
+"Yes. But it has to work. I won't tell you it's perfect if it isn't."
+
+Mara grinned. "That's okay."
+
+They worked side by side. Tyson brought water in smaller amounts and waited until Mara said she was ready. Beckendorf tested the rebuilt footing with a piece of flat driftwood. Percy provided information about how the tide was turning but did not move it.
+
+The first channel was too shallow. The second ran directly beneath a tower and made Annabeth swear. The third carried water out past the base without washing the supporting sand away.
+
+"That one," Mara announced, proud and a little breathless.
+
+"That one," Annabeth agreed.
+
+Lucy arrived while they were rebuilding. She had a notebook under her arm and her light-up sneakers tied by their laces to the strap of her bag. She watched Mara placing pebbles, then pointed at the miniature steps leading into the castle's inner courtyard.
+
+"How do people in little chairs get inside?" she asked.
+
+Annabeth looked up. "What?"
+
+"If someone can't walk up stairs. Where do they go?"
+
+"It's a sand castle, Lucy."
+
+"I know. But you're building it like a real place."
+
+The question made Annabeth look at her design more carefully. The courtyard had two elegant staircases and one steep bridge. She had copied the plan from an old Atlantean drawing without asking what kind of people were supposed to use the spaces.
+
+"There could be a ramp on the west side," she said.
+
+"Would it fit?"
+
+"Not if we keep the second staircase."
+
+Lucy crouched and measured the space with two fingers. "I think the ramp is better."
+
+"So do I."
+
+Annabeth lifted the staircase away. It came off more easily than she wanted to admit. Tyson helped her shape a long, shallow slope, and Lucy pressed little lines across the surface to make it look less slippery. They didn't call it finished until a smooth shell could be pushed from the outer gate to the courtyard without falling over.
+
+Silena came to see the changes. Her pink scallop was still at the front gate, but the wall around it had been reshaped and the courtyard was open to the west.
+
+"You changed the design," she said.
+
+"Two major changes."
+
+"Why?"
+
+Annabeth showed her the drainage channel, and Mara demonstrated it with a cup of seawater. Silena watched the water leave the foundation without undermining the wall.
+
+"And the ramp?" Silena asked.
+
+"Lucy's idea."
+
+Silena smiled at Lucy. "I'd use that entrance even if I could use the stairs."
+
+"Why?" Lucy asked.
+
+"So I could carry all the shells I collected without tripping." Silena lifted her heavy tote to demonstrate.
+
+Lucy laughed. Annabeth looked at the modified courtyard. It was less symmetrical than the original palace plan. She liked it more.
+
+When Percy brought back the last of the water, Annabeth checked the level one final time. The rebuilt wall was straight. The channel worked. Her castle had become something the old drawing hadn't shown her how to make.
+
+"Do you think Amphitrite would still approve?" Percy asked.
+
+"I think she'd ask why I hadn't thought of the drain earlier."
+
+"Sounds like her."
+
+"And then she'd want to see the ramp."
+
+Percy leaned closer to inspect it. "Mara and Lucy both get their names on the plans."
+
+Annabeth took out her notebook and wrote the names beside the revisions. She included Beckendorf, Tyson and Percy under the parts they had actually helped with, because being responsible for a design didn't mean pretending to have made every part of it alone.
+
+Mara read the notes over her shoulder. "Can I show my cabin?"
+
+"Yes. You can tell them which channel you made."
+
+The girl hurried away. Lucy stayed long enough to test the shell on the ramp once more, then went to join Bea at the tide pools. Annabeth sat back on her heels, sandy and tired.
+
+"Still think it's going to survive the apocalypse?" she asked Percy.
+
+"No," he said.
+
+She made a face.
+
+"I think it'll survive the next tide," he continued. "That's actually more impressive."
+
+Annabeth looked at the east wall. She could not promise the sand would last forever, whatever Amphitrite's dare said. She could promise she'd learned enough to make this version better before the water returned.
+
+She brushed her hands clean, picked up the pearl level and tucked it safely back in its case.
+
 ---
 
 Thalia actually Relaxing — capital R, as Travis Stoll later described it — became the afternoon's low-key miracle.
