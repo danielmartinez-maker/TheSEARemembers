@@ -39,3 +39,32 @@
 - **Source:** [Ch007](../../chapters/007-the-tempest.md); [handoff](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md).
 - **Knowledge and consequence:** FIRSTHAND: uses previously practiced horn meanings and orchard evacuation route in real storm, observes Annabeth's bandaged fingers and Percy's treated forearm. With Annabeth negotiates future supervised weather training without demanding secret disclosure; knows malfunctioning ward is not automatically Annabeth's fault. Zeus's changing-faces and neglect history not redeemed.
 - **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 008 · cumulative event
+- **Source:** [Ch8](../../chapters/008-the-gathering-storm.md); [handoff](../../editorial/handoffs/ch008-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch008 FIRSTHAND: at Cabin One Annabeth reviews Hall map with her; she offers to ask Chiron for supervised catalog viewing and admits lack of answers, sees sister's old camp plan unexplained. She knows older family history from altered childhood, not Annabeth's private pre-rewrite memories; asks for honesty around next attic visit and treats sister as agent.
+- **Required persistence:** Later dialogue must carry what thalia personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 009 · cumulative event
+- **Source:** [Ch9](../../chapters/009-the-oracle.md); [handoff](../../editorial/handoffs/ch009-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch009 FIRSTHAND: hears Annabeth return late to Cabin One, finds overwritten 'tonight' on map; her inference is not confirmed knowledge of every attic/Oracle scene. Works with Bea/Clarisse on safety route; asks Annabeth what happened without requiring automatic access to her full private memories.
+- **Required persistence:** Later dialogue must carry what thalia personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 010 · cumulative event
+- **Source:** [Ch10](../../chapters/010-the-daughter-of-hecate.md); [handoff](../../editorial/handoffs/ch010-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch010 FIRSTHAND: Percy consults her about route plans and mentions Oracle black thread; she challenges unsupported Zeus suspicion. Annabeth DIRECTLY tells her limited remembered-life information: knowing Percy before his arrival and wars; Thalia's belief/emotional response doesn't give her those memories firsthand. Does not learn detailed cause of rewrite or Luke's future betrayal.
+- **Required persistence:** Later dialogue must carry what thalia personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 011 · cumulative event
+- **Source:** [Ch11](../../chapters/011-the-eclipse.md); [handoff](../../editorial/handoffs/ch011-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch011 FIRSTHAND: breaks position at Hall to prevent harm, suffers PALM BURN, healer bandages hand, agrees not to train immediately and admits to Annabeth she failed to wait for Bea's signal. Percy apologizes for suspicions; Thalia does not instantly forgive. Palm injury and fear persist.
+- **Required persistence:** Later dialogue must carry what thalia personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 012 · cumulative event
+- **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch012 FIRSTHAND: Tuesday FIVE DAYS after eclipse; injured palm and knee/strain, working light/supervised scaffolding; misses meals and holds Annabeth's NOTE folded/unread before later acknowledging she KEPT it. Percy gives pocket sandwich and DIRECTLY REPORTS his seventeen-year memories of Sally alive versus altered history Sally dead at two. Thalia says she misses ease trusting Luke but DOES NOT receive exact Luke-betrayal specifics in this chapter; earlier knowledge is limited to Annabeth's war report. Accepts Nico's one-armed skeleton keychain at dinner. Revises next drill with Bea (daylight, no mock emergency), invites Annabeth to check revised route next morning. Emotional distance remains.
+- **Required persistence:** Later dialogue must carry what thalia personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.

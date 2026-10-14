@@ -39,3 +39,32 @@
 - **Source:** [Ch007](../../chapters/007-the-tempest.md); [handoff](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md).
 - **Knowledge and consequence:** FIRSTHAND: inventories bronze fittings and replacement filter cloth, supplies evidence with invoices during ward investigation, keeps letter-mail discipline in Cabin Three. Reports Amphitrite has sometimes written/sent supplies to Poseidon sisters; hears Percy discussing a letter, not his future memories. DOES NOT secretly send/receive it in Ch007.
 - **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 008 · cumulative event
+- **Source:** [Ch8](../../chapters/008-the-gathering-storm.md); [handoff](../../editorial/handoffs/ch008-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch008 FIRSTHAND: prepares/reconciles outgoing mail; Percy watches his sealed Amphitrite letter placed in sea-message pouch. She controls damaged-Hall invoice custody and inventory. She tells Percy a letter needn't reproduce unremembered childhood stories. Knows his difficulties, not underlying full old-life mechanism.
+- **Required persistence:** Later dialogue must carry what silena personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 009 · cumulative event
+- **Source:** [Ch9](../../chapters/009-the-oracle.md); [handoff](../../editorial/handoffs/ch009-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch009 FIRSTHAND: manages infirmary stores; hears Percy admitted to another restricted attic visit and his bounded Oracle report to Clarisse; does NOT automatically know earlier-life memories or prophecy content not discussed publicly.
+- **Required persistence:** Later dialogue must carry what silena personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 010 · cumulative event
+- **Source:** [Ch10](../../chapters/010-the-daughter-of-hecate.md); [handoff](../../editorial/handoffs/ch010-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch010 FIRSTHAND: maintains stores supplies and ward route obligations, reminds Percy paperwork and tasks matter, not everything about his life is an investigation. Doesn't become omniscient just because she reads the room.
+- **Required persistence:** Later dialogue must carry what silena personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 011 · cumulative event
+- **Source:** [Ch11](../../chapters/011-the-eclipse.md); [handoff](../../editorial/handoffs/ch011-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch011 FIRSTHAND: counts campers and coordinates pavilion evacuation, covers Percy's deserted assigned count during ward response. She receives his specific apology, instructs him in supply-packet sorting and says she'll judge by next conduct, not absolve immediately.
+- **Required persistence:** Later dialogue must carry what silena personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 012 · cumulative event
+- **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch012 FIRSTHAND: on Tuesday continues supplies/cabin tasks; protects ink reserved for personal winter travel journal, agrees with Clarisse to provide flag outline but leaves actual team design to members. Notes Thalia's grief without assuming Thalia confided directly. Supports shared dinner, book available to Thalia. Not shown learning old-life secret.
+- **Required persistence:** Later dialogue must carry what silena personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.

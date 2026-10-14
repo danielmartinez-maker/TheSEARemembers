@@ -39,3 +39,32 @@
 - **Source:** [Ch007](../../chapters/007-the-tempest.md); [handoff](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md).
 - **Knowledge and consequence:** FIRSTHAND: organizes storm response and damaged-ward isolation; agrees to report unsafe fixture and keep Annabeth's training investigation separate until facts known; Hall closed, curfew tightened, patrols increased. Will receive Percy's incident report only when delivered later, not merely because it was drafted.
 - **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 008 · cumulative event
+- **Source:** [Ch8](../../chapters/008-the-gathering-storm.md); [handoff](../../editorial/handoffs/ch008-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch008 FIRSTHAND: restricts Oracle access while inspections continue; public records/shift ledgers are available only with controls. Percy/Annabeth's copied marginal text is from Chiron hand, but that does NOT mean Chiron explained it to them or endorsed its authenticity. They knowingly break restriction.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 009 · cumulative event
+- **Source:** [Ch9](../../chapters/009-the-oracle.md); [handoff](../../editorial/handoffs/ch009-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch009 FIRSTHAND: receives Percy/Annabeth reports and copied notes after unauthorized Oracle visit; confirms Oracle silent THREE WEEKS; imposes ONE WEEK no unsupervised archive access, permits supervised factual work. His investigation leaves origin of black thread/ward unresolved.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 010 · cumulative event
+- **Source:** [Ch10](../../chapters/010-the-daughter-of-hecate.md); [handoff](../../editorial/handoffs/ch010-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch010 FIRSTHAND: authorizes Zoe's limited independent copper-strip comparison, not test on active ward; supervises apparatus, route preparations and dated public status board. Enforces Annabeth's healer clearance before dangerous electricity.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 011 · cumulative event
+- **Source:** [Ch11](../../chapters/011-the-eclipse.md); [handoff](../../editorial/handoffs/ch011-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch011 FIRSTHAND: oversees containment and evacuation during eclipse, isolation and safe removal of ward coupling; keeps evidence and Hall closed. Checks injuries and duties; does not announce certain culprit or treat eclipse as time-rewrite proof.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 012 · cumulative event
+- **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch012 FIRSTHAND: supervises repair crews/scaffolding, Percy assigned light work with lifting restriction, Thalia and Bea revise non-alarm next drill; he has not received new letter from Amphitrite or proven temporal cause. Prior sanctions must be shown to expire or be waived if relevant.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.

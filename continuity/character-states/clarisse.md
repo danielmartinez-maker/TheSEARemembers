@@ -39,3 +39,32 @@
 - **Source:** [Ch007](../../chapters/007-the-tempest.md); [handoff](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md).
 - **Knowledge and consequence:** FIRSTHAND: manages patrol and equipment during storm, shares Cabin Three with Percy/Silena, has earlier history of writing Poseidon about a tournament and admits unanswered hurt; advises Percy about Amphitrite's attention. Knows Percy's letter exists but not its concealed autobiographical truth, and has not sent it for him.
 - **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 008 · cumulative event
+- **Source:** [Ch8](../../chapters/008-the-gathering-storm.md); [handoff](../../editorial/handoffs/ch008-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch008 FIRSTHAND: sees Percy sneaking around Big House/attic and warns him, while continuing to rely on him for rack repairs; she knows bounded records questions but NOT Percy/Annabeth original-life history. Winged panther she gave Percy in Ch005 remains a keepsake.
+- **Required persistence:** Later dialogue must carry what clarisse personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 009 · cumulative event
+- **Source:** [Ch9](../../chapters/009-the-oracle.md); [handoff](../../editorial/handoffs/ch009-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch009 FIRSTHAND: repairs shield strap with Percy, explicitly reminds him Annabeth isn't only person who'd search for him, extracts promise to give notes to Chiron. After Oracle trip hears Percy admit restricted visit and only bounded description of mist/records; no past-life secret transfer.
+- **Required persistence:** Later dialogue must carry what clarisse personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 010 · cumulative event
+- **Source:** [Ch10](../../chapters/010-the-daughter-of-hecate.md); [handoff](../../editorial/handoffs/ch010-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch010 FIRSTHAND: hears Percy worry about Hall/suspects and pushes back against treating her or siblings as clues; helps prepare eclipse route. No proof Zeus/Hecate caused Hall trouble; distrust of Poseidon's favoritism continues.
+- **Required persistence:** Later dialogue must carry what clarisse personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 011 · cumulative event
+- **Source:** [Ch11](../../chapters/011-the-eclipse.md); [handoff](../../editorial/handoffs/ch011-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch011 FIRSTHAND: supervises west crossing, shepherds children, coordinates count with Silena and Bea; Percy abandons promised pavilion assignment without notice. Confronts him using the clipboard and expects him to show up for next drill, without withdrawing brotherhood. Trust repair requires actions, not one apology.
+- **Required persistence:** Later dialogue must carry what clarisse personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 012 · cumulative event
+- **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch012 FIRSTHAND: gives Percy breakfast toast and notices Grover's overnight snoring in Cabin Three; helps Silena plan flag without taking her reserved ink. In laundry tells Annabeth she need not repay Thalia's care, starts OWL carving intended for Thalia (UNFINISHED, not gifted), agrees Annabeth may help present after asking recipient. Clarisse hears only changed-memory gaps following Annabeth's fever, not fully disclosed prior-life history.
+- **Required persistence:** Later dialogue must carry what clarisse personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
