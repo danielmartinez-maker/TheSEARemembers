@@ -63,6 +63,15 @@ CHECKS = {
                     "A good map saves people work"),
         "absent": ("Silena whisked the photograph clear of the sand before they took positions",),
     },
+    "chapters/070-clarisse-s-poems.md": {
+        "present": ("You said no", "I haven't read it",
+                    "I'm correcting my own mistake",
+                    "The only safe mounting points",
+                    "Once Beckendorf repaired the brace"),
+        "absent": ("I'm not moving until story time happens",
+                   "Every Aphrodite instinct in the arena had perked up",
+                   "He would arrive in about ten minutes"),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),
