@@ -6,7 +6,7 @@
 
 ## Latest current-branch continuation (2026-10-13)
 
-**Source:** `audit/four-phase-continuity-2026-10-13` at the [verified GitHub Actions recount](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38507799236), following the merge of the historical 10k branch and the unmerged PR #102 memory fixes.
+**Source:** `audit/four-phase-continuity-2026-10-13` at the [verified GitHub Actions recount](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508276354), following the merge of the historical 10k branch and the unmerged PR #102 memory fixes.
 
 | Measure | Verified current result |
 |---|---:|
@@ -14,7 +14,7 @@
 | Meeting 10,000 actual body words | **140** |
 | Still below 10,000 | **53** |
 | Combined missing body words | **264,551** |
-| Cross-chapter exact 300-word duplicates | **0 across 1,664,234 rolling windows** |
+| Cross-chapter exact 300-word duplicates | **0 across 1,664,235 rolling windows** |
 
 In this continuation, [Chapter 066](../chapters/066-jason-s-letter.md) grew **8,314 → 10,572** body words through a Thalia-centered safety-signal exercise that carries forward the Chapter 065 lesson and the letter's Roman-drill ideas. [Chapter 133](../chapters/133-annabeth-s-birthday.md) grew **8,704 → 10,656** through a birthday-preparation problem with Nico, Clarisse, Silena, Thalia and Annabeth. Both received new character-local handoffs: [066](../continuity/ch066.yaml) and [133](../continuity/ch133.yaml). **These are mechanical length passes plus bounded continuity reviews, not whole-chapter independent literary certification.**
 
