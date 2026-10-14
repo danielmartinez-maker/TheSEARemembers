@@ -13,6 +13,9 @@ on:
       - ".github/workflows/full-manuscript-audit.yml"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   manuscript-audit:
     runs-on: ubuntu-latest
@@ -36,6 +39,17 @@ jobs:
             --markdown continuity/evidence/generated-ch001-193.md
       - name: Enforce anchored relationship memory regressions
         run: python scripts/check_character_memory.py
+      - name: Commit machine-generated reports only to the scoped audit branch
+        if: github.event_name == 'push' && github.ref == 'refs/heads/audit/four-phase-continuity-2026-10-13'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editorial/audits/generated-full-qa.json editorial/audits/generated-full-qa.md
+          git add continuity/evidence/generated-ch001-193.json continuity/evidence/generated-ch001-193.md
+          if ! git diff --cached --quiet; then
+            git commit -m "docs(audit): capture verified 193-chapter mechanical QA and evidence cues"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
       - name: Upload evidence and mechanical audit
         if: always()
         uses: actions/upload-artifact@v4
