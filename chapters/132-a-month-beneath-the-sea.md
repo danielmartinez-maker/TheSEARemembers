@@ -1029,6 +1029,152 @@ Silena came in to collect the garden gloves she'd lent Chiron and glanced at the
 
 Percy folded the questions and placed them under Chiron's seal for the outgoing current. The month wasn't canceled. It wasn't confirmed either. It had begun to look like something he could plan without turning other people's lives into assumptions.
 
+Before he left, Chiron stopped Percy with another question.
+
+"About the canoe lessons. You said Mara would have someone available if your trip happens. Who did you mean?"
+
+Percy checked the roster. "I thought she'd decide."
+
+"She may. But you've not yet told her what the younger campers need from your demonstration. You cannot simply erase your name from a list and call the obligation settled."
+
+Percy studied the page. The boxes were full of dates and unanswered questions, but there was nothing about what he'd promised the students.
+
+"Can I ask her now?" he said.
+
+"Of course. You'll be late to dinner if you take too long."
+
+Annabeth looked up from her notebook. "Want me to come?"
+
+He wanted her beside him, but that was partly because she'd spot every missing step before he did. She had her own work and had already told him that sharing decisions wasn't the same as making them for one another.
+
+"I'd like you to review the plan later," he said. "I can make the first draft."
+
+"Good. I have a diagram to finish."
+
+He hurried toward the canoe shed. Mara was cleaning the board where the week's activities were posted, preserving a little note about a supervised shore-observation exercise. Percy recognized the name of a younger camper who'd once asked him to put a fish inside an empty bucket.
+
+"You again," Mara said.
+
+"I have a problem with the launch lesson."
+
+"With the boats?"
+
+"With whether anybody can teach it if I'm away."
+
+"Anybody trained to teach canoeing can launch a boat."
+
+"Right. But the younger group wanted to learn how not to rely on me using water powers to fix everything. I told them I'd show them the steps."
+
+"Then write down the steps."
+
+She took a sheet of paper, drew two columns, and labeled one WHAT THE STUDENT DOES and the other WHAT THE INSTRUCTOR CHECKS. Percy listed what he remembered: choosing a clear launch area, checking each life jacket, counting paddles, deciding who gave instructions and having everyone acknowledge the instruction before moving the boat.
+
+"You're missing what happens when somebody says they don't want to launch," Mara observed.
+
+"Then they don't."
+
+"Put it on the page. The instructor should acknowledge the decision, not treat it as a failure."
+
+He wrote that down.
+
+Then Mara decided to test his directions. She stood beside a canoe resting on its rack and pretended she'd never seen one before. Whenever Percy used a vague phrase, she asked what he meant.
+
+"Check the equipment."
+
+"Which equipment?"
+
+"The paddles. Life jackets. Everything we need."
+
+"Where's the list?"
+
+He pointed to the board.
+
+"Then tell me to look at the list. Don't make me guess."
+
+Percy sighed. "Fine."
+
+"Excellent. Keep going."
+
+He told her to keep the canoe steady. She put one hand directly where the frame could pinch her fingers if it moved. Percy stopped her.
+
+"Not there."
+
+"You didn't say where."
+
+"Right."
+
+He crossed out another sentence.
+
+They walked through the entire process without putting the boat in the water. Mara made deliberate mistakes. Percy caught some immediately and missed others until she pointed them out. The written steps changed each time, and by the end he had a sore hand from rewriting them.
+
+"What if it's windy?" he asked.
+
+"Then the instructor decides whether the conditions are suitable. Don't improvise the weather rule. We already have one."
+
+"What if I'm there and can help with the water?"
+
+"Then you remain responsible for using the same procedure the others use. Your power might assist in a genuine emergency, but it doesn't replace a safety rule."
+
+He thought about the earlier dock incident, when he'd wanted to check every hidden piling alone because he could swim where other people couldn't. Mara had told him that a safe dock had to be safe for ordinary people, not only the son of Poseidon.
+
+"You told me that before," Percy said.
+
+"I was hoping you'd remember."
+
+"I did. Eventually."
+
+She smiled.
+
+By the time the instructions were readable, the sun had shifted behind the shed. They still needed a training assistant for the actual lesson, but now anyone approved to teach would know what Percy had promised and what the younger campers were supposed to practice. Mara said she would choose the replacement once the dates were known, not before.
+
+"Can I take a copy?" Percy asked.
+
+"You wrote it."
+
+"I mean for Chiron."
+
+"Yes. And give me your proposed travel dates when you have them. I will not rearrange the class because you're imagining a trip you haven't accepted."
+
+"Understood."
+
+At the door he noticed one of the younger campers struggling to adjust a borrowed life jacket. The child had buckled it loosely enough that the whole thing rose toward his chin when Percy pulled at the shoulders.
+
+"Try again," Percy said.
+
+The boy frowned. "It's already buckled."
+
+"That isn't the same as fitting."
+
+Percy showed him the straps, then stepped back. The boy adjusted them himself, testing each one. When Percy checked again, the jacket stayed in place.
+
+"Better," Percy said.
+
+"Can I go now?"
+
+"When Mara says you're ready. I'm not in charge of the dock right now."
+
+The boy turned toward the instructor instead of looking disappointed. It was such a small thing that Percy almost missed what had changed. He could help somebody understand the work without becoming the sole person who could authorize it.
+
+He returned to the Big House with the two-page plan. Annabeth was putting her notebook away.
+
+"How'd it go?" she asked.
+
+"'Check the equipment' is apparently a terrible instruction."
+
+"Depends what you're checking."
+
+"Exactly. I had to write it properly."
+
+She glanced at the sheets. "Want me to look?"
+
+"When you've finished your own work. There's no deadline tonight."
+
+"Then I will."
+
+He handed Chiron a copy, explained which points Mara would review with the approved replacement, and put the other copy into his own notebook. Nothing about the month in Atlantis had been decided. The people who would still be at camp, however, were no longer an afterthought in his planning.
+
+He'd wanted a month where an ordinary day at the palace belonged to him as much as an impressive training session did. An ordinary day at camp also belonged to people who expected him to show up. He could make space for both possibilities only by saying what was true, including what he didn't yet know.
+
 
 
 Clarisse and Silena had saved two seats at the Poseidon table, although Clarisse insisted the open places were coincidence. Steam rose from the serving bowls, carrying rosemary and roast, and the long hall buzzed with clatter and talk. Across from them sat Thalia, boots hooked around the bench, silver jacket draped over its back. Her gaze traveled from Annabeth to Percy, then to the shell's outline in his pocket.
