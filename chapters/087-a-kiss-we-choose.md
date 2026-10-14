@@ -12,7 +12,131 @@ And Annabeth had turned, soaked to the bone, hair plastered to her face, a scrat
 
 Then she had let go, said, "You idiot, you could have drowned," and gone straight back to tying knots.
 
-That was it. That was the storm kiss, different from their earlier kisses here and from every kiss they remembered.
+That was it.
+
+Except it wasn't the whole story.
+
+Will had made Annabeth sit on an infirmary bench before she'd finished telling Percy why he'd scared her. The scratch on her cheek wasn't deep, but there was grit in it from the wind and a sliver of wood stuck near the edge. Percy stood by the door, drenched and shaking from the effort of holding the water away from the younger campers.
+
+"You can sit too," Will told him.
+
+"I'm fine."
+
+"Then you can sit fine."
+
+Percy sat.
+
+The storm had been an unseasonal squall, not the first violent weather they'd faced. He hadn't solved it alone. Annabeth had organized the rope team, Clarisse had pulled the children away from the exposed rail, and Chiron had directed the sheltering of the canoe equipment. Percy had pushed the worst of the water back toward the lake long enough for the last camper to clear the path. It had felt like a duel with the whole sky. The report made it sound like a community response, which was closer to the truth.
+
+Will cleaned Annabeth's cheek and removed the splinter. He asked Percy how long he'd been holding the water and whether he'd felt dizzy afterward.
+
+"A while," Percy said.
+
+"Not an answer."
+
+"Maybe six minutes."
+
+Annabeth looked at him sharply. "You told me two."
+
+"I wasn't looking at a clock."
+
+"That's why we have people watching the time," Will said. "You can't judge your limits by how heroic the last minute felt."
+
+Percy wanted to argue. He had held up far more water in the life he remembered. He had survived Tartarus, battles with giants and things he couldn't discuss in the infirmary without raising questions he wasn't ready to answer. But the body he inhabited here was thirteen. He didn't get to assume it would tolerate every feat his old memory said he could perform.
+
+"Chiron wants you to rest today," Will continued. "Both of you. No drills and no experiments with the lake."
+
+Annabeth sighed. "I have a design meeting."
+
+"You can send the notes."
+
+"I need to explain the load failure."
+
+"Then write the explanation."
+
+Percy looked at her. "I can help."
+
+She turned on him. "You can help by sitting still for a minute."
+
+He went quiet.
+
+Will left them a bottle of clean water and went to treat a camper who'd twisted an ankle on the path. The room smelled of antiseptic and damp jackets. Percy could hear the rain easing outside.
+
+"I'm sorry," he said.
+
+Annabeth touched the bandage on her cheek. "For what?"
+
+"For making you worry."
+
+"That's not what I'm angry about."
+
+"Then what?"
+
+"You decided you could hold the whole storm. I was asking you to move with the rope team. You didn't answer."
+
+Percy remembered. He had heard her calling over the wind and assumed she wanted him to hold the water a little longer. He'd been too occupied proving he could help to hear the change in her plan.
+
+"I didn't know you wanted me to stop," he said.
+
+"That is the problem."
+
+He looked at his hands. "I thought if I let go, somebody would get hurt."
+
+"And if you'd passed out, somebody might have."
+
+The words landed. He had experienced versions of himself dying or disappearing in false worlds, and he was tired of being scared. It would have been easier if Annabeth told him she wasn't angry, kissed him again and let the incident fade into a romantic story about bravery.
+
+Instead she asked him to listen.
+
+"I kissed you because I was relieved," she said. "Not because I think you should nearly drown every time you want to make me happy."
+
+Percy looked up. "I know."
+
+"Do you?"
+
+"Yeah. I was relieved too. I love you. I just got stuck thinking the only safe thing was to keep pushing."
+
+Annabeth sat back against the bench. "I want us to be able to say stop and know the other one heard it."
+
+"Then we'll make a signal for when we can't hear."
+
+"We have signals."
+
+"We should check they're the same ones."
+
+She considered that. It was the kind of solution she liked, concrete enough to test and change.
+
+"Okay," she said.
+
+They wrote the emergency gestures on the back of her draft report: stop, retreat, need help, route clear. Percy suggested one he called *water is being rude*, which Annabeth removed because it could describe everything from a wave to a full sea monster.
+
+When Will returned, he checked the list and made them repeat the gestures without looking at the paper. Percy got the retreat signal wrong the first time. Annabeth corrected him, not unkindly. They tried again until both could identify the commands.
+
+"Now don't make this into a secret code only the two of you know," Will said. "If the rope team is going to use it, everybody needs to be trained."
+
+Annabeth nodded. She asked Chiron to review it before the next storm drill, and wrote his name beside the request so she wouldn't forget.
+
+Percy was still shaken. The kiss had been real, the relief had been real, and their love had existed long before the storm. They were allowed to remember the moment tenderly without turning the dangerous part into something they hoped would happen again.
+
+When he rose to leave, Annabeth caught his hand.
+
+"Can we talk about the kiss later?" she asked.
+
+"Sure."
+
+"When you're not trembling."
+
+"I'm not trembling."
+
+She looked at his fingers.
+
+"Fine," he admitted. "A little."
+
+"Rest first," she said.
+
+He nodded. That was one promise he could keep immediately.
+
+ That was the storm kiss, different from their earlier kisses here and from every kiss they remembered.
 
 Everyone at camp had seen it. Half the Poseidon cabin had cheered. Clarisse had laughed so hard she fell off the canoe rack. Grover had fainted sideways into a life jacket bin and then popped back up shouting, "Did I miss it? Tell me I didn't miss it!"
 
