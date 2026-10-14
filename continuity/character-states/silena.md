@@ -125,3 +125,8 @@
 - **[Ch024](../../chapters/024-the-climbing-wall.md):** Commentates the single featured race; timing correction does not alter the winner.
 - **[Ch025](../../chapters/025-night-watches.md):** Pairs with Grover on watch; helps maintain the map/log handoff. They hear/observe camp events but do not confirm an attack.
 - **[Ch035](../../chapters/035-the-letter.md):** Helps prepare and copy the sisters' letters while respecting their different privacy choices; Beryl/Jason have not replied by the close.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: leads named shelter headcounts, catches a roster discrepancy and independently assigns Percy to compare it with the infirmary list. Works the runoff with Percy and Clarisse; when the misfire knocks her back, she regains the channel by singing the shanty she taught during Chapter 088 cove drills. Helps keep the beach roster current. Pruned fingers are not diagnosed as an injury.
+- **Knowledge:** She remembers the reservoir event firsthand as a participant; no dream or parent-given memory is involved. Knows the lake, outer ward, and storm cause still need inspection/answers.

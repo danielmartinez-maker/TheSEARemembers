@@ -128,3 +128,8 @@
 - **[Ch032](../../chapters/032-triton-visits.md):** Calls Clarisse/Triton match a draw after simultaneous touch and refuses real weapons.
 - **[Ch035](../../chapters/035-the-letter.md):** Authorized Roman intermediary remains the only proposed channel for Jason's packet; acceptance/delivery are unconfirmed.
 - **[Ch036](../../chapters/036-five-months.md):** Offers to arrange inspection of old prophecy copies; no inspection has yet occurred.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: assigns camp shelter, infirmary, shoreline, and hill teams; supervises/receives revised water and signal plans; stays with ward crew through the last strike. Afterward receives Percy's report of two misfires, runoff, and threats outside the border. Directs daylight checks of the canoe lake, creek, soft anchor, and outer ward after everyone is accounted for and treated.
+- **Knowledge:** States that the storm's cause and intent are unknown. The lake's post-runoff condition and full ward status are unverified; no confirmed breach.

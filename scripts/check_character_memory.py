@@ -121,6 +121,18 @@ CHECKS = {
         "absent": ("lake portal", "He had knocked over nectar",
                    "Annabeth says triangles only hurt when people compete"),
     },
+    "chapters/090-storm-and-sea.md": {
+        "present": ("the shanty she'd taught them during the cove drills",
+                    "a raised yellow flag meant irregular wind and an automatic hold",
+                    "the Sound had never entered the canoe lake",
+                    "That would be a morning check",
+                    "no strike on a single dropped flag",
+                    "We do not yet know what called it"),
+        "absent": ("Three months ago,", "faint white scar on his left palm",
+                   "their dad had taught them in dreams",
+                   "nearly collapsed doing that last week",
+                   "Annabeth, are you seeing this?", "No real injuries.", "Mjolnir"),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),

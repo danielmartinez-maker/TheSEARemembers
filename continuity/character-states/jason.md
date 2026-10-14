@@ -27,3 +27,8 @@ Do not convert another character's old-life recollection or hearsay into firstha
 - **[Ch029](../../chapters/029-rainy-day.md):** Thalia's spare-bunk thought is not a Jason scene and does not establish when his supervised seven-day visit ended or whether he is currently away.
 - **[Ch035](../../chapters/035-the-letter.md):** A sealed request is sent through Chiron's authorized Roman intermediary. The intermediary's acceptance, forwarding, and Jason's receipt are all unconfirmed; Jason does not acquire the letter's contents here.
 - **Forward boundary:** Ch037 later refers to occasional visits from the Roman camp but supplies no exact departure date for the earlier guest week.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: physically present at Camp Half-Blood during the storm, works from Half-Blood Hill drawing smaller strikes away from the hill ward, and later returns to the Zeus cabin. This chapter calls his stay an approved exchange visit but gives no dates; do not equate it with or use it to date the Chapter 021/022 seven-day visit. He hears Annabeth's and Percy’s reservoir account at the briefing and therefore knows it as a report, not as an event he witnessed. No injury is recorded.
+- **Knowledge:** Thalia and Annabeth remain his sisters. He does not acquire Percy/Annabeth's autobiographical memories. Hill ward is reported at ninety percent and still needs inspection.

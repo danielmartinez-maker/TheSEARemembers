@@ -136,3 +136,15 @@ Ten handoffs are under `editorial/handoffs/ch013-...` through `ch022-...` and ch
 **Boundary Ch036→Ch037:** Ch037 opens with Thalia and Annabeth together; it mentions Jason's occasional visits from Roman camp but does not date his original guest-week departure. No new autobiographical past-life memory is granted to anyone beyond Percy and Annabeth.
 
 **Knowledge enforcement:** Only Percy and Annabeth autobiographically remember their original seventeen-year life. Thalia now has bounded direct/letter reports including Sally/Beryl/Athena, but none of the older memories firsthand. Clarisse was told a version of her past-life Ares parentage by Percy, but remembers living as Poseidon's daughter. Zeus/Amphitrite/Jason do not know complete old-life secrets unless further scenes clearly state disclosures. Absence of mailed confirmation is not receipt.
+
+
+### Scoped source-verified addition: Chapter 090 (2026-10-14)
+
+The [Chapter 090 handoff](../editorial/handoffs/ch090-storm-and-sea.md) and append-only [character-state entries](character-states/README.md) record the storm response without claiming full review of Chapters 037–089.
+
+- **Percy/Annabeth:** Remain an established couple. Percy and Annabeth's reservoir recollection belongs to a current-history event they witnessed; Jason hears it as a briefing report. The chapter does not disclose either original-life memory to others or tell Amphitrite about the rewrite.
+- **Poseidon siblings:** Percy, Clarisse, and Silena direct rain/creek runoff through the camp-side channel while keeping the Sound's salt surge outside the freshwater lake. Katie chooses to let the lowest strawberry strip take runoff to protect cabins and paths. Silena's song is the one she taught in Chapter 088 cove drills.
+- **Grace siblings:** Annabeth and Thalia revise the lightning signal after an early, crosswind-obscured call. Thalia sustains a superficial right-palm flash burn, receives Will's dressing, changes to her left hand, and needs a recheck before sparring. Jason is physically present on the hill; this chapter does not date his exchange stay or identify it with the earlier seven-day visit.
+- **Aftercare / unknowns:** Percy pauses when his hands tingle and reports the symptom to Will; no diagnosis is established. An unnamed camper's ankle is sprained; Clarisse has a shin bruise; Travis's umbrella impact is not diagnosed. The canoe lake, soft shore anchor, outer ward, lower strawberry strip, and revised flags need daylight inspection or a calmer rehearsal. The hill ward is reported at 90%, no breach is confirmed, and storm cause/intent remain unknown.
+
+**Boundary Ch090→Ch091:** Chapter 091 opens at 7 AM with an approved 9 AM sibling outing and does not reference the storm. Do not treat pending inspections as completed unless the next chapter accounts for them.

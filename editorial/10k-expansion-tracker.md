@@ -4,7 +4,30 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation (2026-10-14 local snapshot)
+## Latest current-branch continuation: Chapter 090 (2026-10-14 local checkpoint)
+
+**Branch base:** The remote branch was verified at `a1f653bbedf956831915ef3dcf48f268b6e2e94a` before this local Chapter 090 update. The current metrics below are local exact-source runs; GitHub Actions verification for the proposed commit is pending.
+
+| Scope | Current verified result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **166** |
+| Below 10,000 actual body words | **27** |
+| Required additional body words to clear minimum | **159,426** |
+| Chapter-only every-offset 300-word windows | **1,776,901; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 1,927,453 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **23 passed** |
+
+**Chapter 090, *Storm and Sea*:** **6,822 → 10,346 body words** (+3,524 net). New scene work gives Silena a shelter-count role, gives the team a rehearsed flag protocol that fails in a crosswind and is corrected, and makes the freshwater runoff/field tradeoff consequential. It tracks Thalia's right-palm burn and Percy’s temporary hand tingling through Will's care, keeps the Sound outside the freshwater lake, and leaves lake/ward/anchor/field inspections pending. See the [Chapter 090 handoff](handoffs/ch090-storm-and-sea.md).
+
+- **Phase 1:** Added the Chapter 090 scoped event handoff and append-only character states for Percy, Annabeth, Clarisse, Silena, Thalia, Jason, Chiron, Mr. D, Will, Malcolm, and Katie. Chapters 037–089 remain unaudited in those per-character files; that gap is disclosed.
+- **Phase 2:** Removed unsupported reservoir timing/scar, dream-sourced shanty, prior-week collapse, over-storm shouting, and “no real injuries” claims. Clarified the flag failure/revised signal, distinct fresh and saltwater routes, injury statuses, and unresolved storm cause. Chapter 091 still needs to account for the pending daylight inspections before its 9 AM outing.
+- **Phase 3:** Chapter 090 clears the mechanical 10k floor with scene-based work and choices. Independent developmental/line review remains open.
+- **Phase 4:** Local full-manuscript count, chapter structure, bonus-inclusive exact-window scan, and 23 source-anchored memory groups were checked against the working tree. These mechanical results are not whole-manuscript semantic or literary certification.
+
+**Next chronological chapter:** [091 Tide Pools](../chapters/091-tide-pools.md), at **6,788** body words in the exact-source queue. Resolve or explicitly carry the pending lake, ward, soft-anchor, strawberry-strip and signal checks before the outing leaves camp.
+
+## Superseded checkpoint after Chapter 080 (2026-10-14)
 
 **Source:** [GitHub Actions full-manuscript QA run 38611034708](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38611034708), after the Chapter 080 expansion and handoff. The additional Chapter 080 guard is separately checked at its script-head run. Earlier tables lower in this file are historical and superseded for current totals.
 
@@ -38,7 +61,7 @@
 - [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
 - [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,656** words; [memory handoff](../continuity/ch133.yaml).
 
-The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the previously CI-verified 40-chapter/208,815-word remainder. Chapters 078–079 then removed **8,677 additional required words**, giving the **previously verified 38 chapters / 200,138 words** outstanding. Chapter 080 then removed **4,298 mandatory shortfall words**, giving the **37 chapters / 195,840 words** remaining, confirmed by the latest audit. Length overages are not counted toward another short chapter's deficit. The [remaining expansion queue](handoffs/55-short-chapters-execution-queue.md) now starts at **081**, and also includes **131**. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
+The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the previously CI-verified 40-chapter/208,815-word remainder. Chapters 078–079 then removed **8,677 additional required words**, giving the **previously verified 38 chapters / 200,138 words** outstanding. Chapter 080 then removed **4,298 mandatory shortfall words**, giving the **37 chapters / 195,840 words** remaining at that checkpoint. Length overages are not counted toward another short chapter's deficit. At this historical checkpoint, the [expansion queue](handoffs/55-short-chapters-execution-queue.md) started at **081** and also included **131**; the current queue is updated above. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
 
 ## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
 

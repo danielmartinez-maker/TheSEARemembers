@@ -135,3 +135,8 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Loses the final at zero after Percy summons Poseidon; remains affectionate/proud despite disappointment.
 - **[Ch035](../../chapters/035-the-letter.md):** Writes to Beryl and helps prepare Jason's request; the Roman intermediary's decision/receipt is unknown.
 - **[Ch036](../../chapters/036-five-months.md) PRIOR LIFE:** The remembered quest still has no date in this history.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: leads the hill command post, separates outer Sound surge from inland freshwater runoff, and directs the flag relay with Malcolm. Her first lightning release comes early in a crosswind and the strike misses the channel, contributing to a breach in its wall, Silena being knocked back, and Thalia's palm burn. She acknowledges the error and changes the rule to require a repeated signal and Thalia's readiness confirmation. She remains Percy's established girlfriend; they share a private check-in after the storm. The map's signal rule and daylight inspections remain pending.
+- **Knowledge:** She and Percy alone retain autobiographical original-life memories. Her reservoir experience in this chapter is from the current timeline. Storm cause is unknown; Amphitrite receives no disclosure.

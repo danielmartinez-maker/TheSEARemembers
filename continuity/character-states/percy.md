@@ -130,3 +130,8 @@
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Wins the final with Poseidon/Rebirth after Ocean's Mercy leaves him at 100 life; final attack beats Annabeth's 1,900.
 - **[Ch035](../../chapters/035-the-letter.md):** Participates in mailing the letters; no reply from Beryl/Jason is received here.
 - **[Ch036](../../chapters/036-five-months.md):** Assigned dock duty after breakfast. The remembered quest remains undated/unsummoned; prophecy-copy inspection is only offered.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: coordinates with Clarisse and Silena to route rain/creek runoff through the camp-side channel to the cannon; keeps Sound saltwater outside the freshwater lake. Follows Katie's choice to sacrifice the lowest strawberry strip, pauses when both hands tingle, and reports it to Will. Will finds his grip even; no diagnosis is established, and Percy must report a return or weakening. Clarisse marks a softened rescue-line anchor for inspection. Percy and Annabeth remain an established couple; no new old-life disclosure occurs.
+- **Knowledge:** He and the other five reservoir participants remember that current-history event firsthand. Jason hears their account at the briefing; it is not his memory. Storm cause, lake condition after runoff, ward inspection and anchor safety remain unknown or pending. No confirmed border breach.

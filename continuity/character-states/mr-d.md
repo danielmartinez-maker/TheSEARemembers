@@ -21,3 +21,7 @@
 ### Chapter 21 · verified carry-forward
 - **[Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md):** Announces harvest/ Music Night rules, not cause of time rewrite.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND at the Big House briefing: accepts responsibility for the younger campers and infirmary, with healers assigned to work under his shelter plan. He does not receive any Percy/Annabeth timeline secret. The chapter does not establish that he personally witnesses the later channel strike or follow-up examination.

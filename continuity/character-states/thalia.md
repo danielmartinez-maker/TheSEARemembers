@@ -134,3 +134,8 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **[Ch032](../../chapters/032-triton-visits.md):** Witnesses the Triton/Clarisse spar ending in a declared draw.
 - **[Ch035](../../chapters/035-the-letter.md):** Sends a Beryl letter and a sealed request for Jason. Beryl's sobriety is reported from correspondence; neither response nor Roman acceptance is confirmed.
 - **[Ch036](../../chapters/036-five-months.md):** Camp continues without a quest summons; the next morning has scheduled work.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: suffers a static-related nosebleed before the briefing, then joins Percy, Clarisse and Silena at the cannon to ground lightning through the moving freshwater channel. A wind-obscured early cue contributes to a strike missing the channel and a superficial flash burn on her right palm. Will dresses it; she switches to her left hand and waits for a repeated signal and readiness confirmation. Will must check the palm before sparring. This is a single storm response, not proof of reliable lightning mastery.
+- **Knowledge:** Annabeth is her Zeus sister and command partner; Jason is also present as her brother. Their reservoir incident is shared current-history experience. Cause of this storm remains unknown.

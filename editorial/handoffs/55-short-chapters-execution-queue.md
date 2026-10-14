@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 37 still short
+# Expansion handoff queue: original 55, now 27 still short
 
-**Source:** GitHub Actions full-manuscript QA [run 38611034708](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38611034708). **Status:** Eighteen expanded chapters (066–080, plus 118, 132–133) now pass the 10k floor. All 193 numbered files present; 156 length-pass, 37 short. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Latest exact-head local QA:** 193 numbered files; 166 length-pass, 27 short, and 159,426 body words remain to the floor. Full-manuscript audit: 1,776,901 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 1,927,453 windows, zero exact matches. GitHub Actions verification for the next commit is pending. Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **195,840 words** across **37** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **159,426 words** across **27** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**10 chapters still short**, **36,414** words remain to 10k in this wave. Chapters 066–080 now pass the length gate; Chapter 081 is the next chronological target.
+**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 now pass the length gate; Chapter 091 is the next chronological target.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -31,16 +31,16 @@
 | [078](../../chapters/078-nico-s-birthday.md) | Nico's Birthday | 10,471 | 0 | **LENGTH PASS; editorial review open** |
 | [079](../../chapters/079-elena-s-tale.md) | Elena's Tale | 10,116 | 0 | **LENGTH PASS; editorial review open** |
 | [080](../../chapters/080-the-second-dance.md) | The Second Dance | 10,440 | 0 | **LENGTH PASS; editorial review open** |
-| [081](../../chapters/081-home.md) | Home | 5,116 | 4,884 | **NOT STARTED** |
-| [082](../../chapters/082-letters-may.md) | Letters (May) | 6,107 | 3,893 | **NOT STARTED** |
-| [083](../../chapters/083-spring-break-visit.md) | Spring-Break Visit | 6,937 | 3,063 | **NOT STARTED** |
-| [084](../../chapters/084-spring-resolutions.md) | Spring Resolutions | 6,035 | 3,965 | **NOT STARTED** |
-| [085](../../chapters/085-spring.md) | Spring | 6,551 | 3,449 | **NOT STARTED** |
-| [086](../../chapters/086-the-summons-to-atlantis.md) | The Summons to Atlantis | 7,063 | 2,937 | **NOT STARTED** |
-| [087](../../chapters/087-a-kiss-we-choose.md) | A Kiss We Choose | 6,696 | 3,304 | **NOT STARTED** |
-| [088](../../chapters/088-spear-song-sea.md) | Spear, Song, Sea | 6,111 | 3,889 | **NOT STARTED** |
-| [089](../../chapters/089-belated-valentines-camp-style.md) | Belated Valentines (Camp-Style) | 6,889 | 3,111 | **NOT STARTED** |
-| [090](../../chapters/090-storm-and-sea.md) | Storm and Sea | 6,081 | 3,919 | **NOT STARTED** |
+| [081](../../chapters/081-home.md) | Home | 10,041 | 0 | **LENGTH PASS; editorial review open** |
+| [082](../../chapters/082-letters-may.md) | Letters (May) | 10,044 | 0 | **LENGTH PASS; editorial review open** |
+| [083](../../chapters/083-spring-break-visit.md) | Spring-Break Visit | 10,014 | 0 | **LENGTH PASS; editorial review open** |
+| [084](../../chapters/084-spring-resolutions.md) | Spring Resolutions | 10,016 | 0 | **LENGTH PASS; editorial review open** |
+| [085](../../chapters/085-spring.md) | Spring | 10,012 | 0 | **LENGTH PASS; editorial review open** |
+| [086](../../chapters/086-the-summons-to-atlantis.md) | The Summons to Atlantis | 10,033 | 0 | **LENGTH PASS; editorial review open** |
+| [087](../../chapters/087-a-kiss-we-choose.md) | A Kiss We Choose | 10,007 | 0 | **LENGTH PASS; editorial review open** |
+| [088](../../chapters/088-spear-song-sea.md) | Spear, Song, Sea | 10,029 | 0 | **LENGTH PASS; editorial review open** |
+| [089](../../chapters/089-belated-valentines-camp-style.md) | Belated Valentines (Camp-Style) | 10,008 | 0 | **LENGTH PASS; editorial review open** |
+| [090](../../chapters/090-storm-and-sea.md) | Storm and Sea | 10,346 | 0 | **LENGTH PASS; continuity review open** |
 
 ## Wave B · 091–110
 

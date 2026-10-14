@@ -128,3 +128,8 @@
 - **[Ch032](../../chapters/032-triton-visits.md):** Spars Triton under practice-weapon/no-power rules. Their simultaneous touch ends the match in a draw; neither gets real weapons.
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Participates in camp's card tournament and supports Percy in the final.
 - **[Ch036](../../chapters/036-five-months.md):** Assigns Percy dock duty for the next morning; it is a schedule, not completed work.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: works beside Poseidon siblings Percy and Silena to hold the freshwater runoff channel, chooses cabin/path safety over saving the lowest strawberry strip, and states that the team stops when any member says stop. Has a shin bruise from a flying oar. Directs the softened rescue anchor to be marked and left for daylight inspection. No new romance or family-role change.
+- **Knowledge:** Shares the current-history reservoir memory with its five participants. Knows the storm's cause and lake condition after runoff are unresolved; no confirmed border breach.

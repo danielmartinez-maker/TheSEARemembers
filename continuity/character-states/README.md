@@ -75,3 +75,10 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Chapter 036 handoff](../../editorial/handoffs/ch036-memory-prose-2026-10-14.md): Five Months
 
 **Current boundary Ch036→Ch037:** The remembered quest still has no date or summons. Ch037 opens with Thalia and Annabeth together and later context includes Jason's occasional visits from the Roman camp, but no exact date is given for his earlier guest-week departure. Carry forward only what each scene witnesses or reports.
+
+## Chapter 090 continuation
+
+- [Chapter 090 handoff](../../editorial/handoffs/ch090-storm-and-sea.md): Percy-limited storm response; separates reported from witnessed events, tracks the corrected signal chain, injuries, freshwater inspections, and next-chapter obligations.
+- New scoped supporting-character event files: [Will Solace](will-solace.md), [Malcolm](malcolm.md), and [Katie Gardner](katie-gardner.md) (Chapter 090 only).
+- **Coverage limit:** The new Chapter 090 entries are a scoped event update. Chapters 037–089 remain unaudited in the per-character cumulative files; this append does not certify an unbroken memory record for those chapters.
+- **Ch090→Ch091 boundary:** Chapter 091 opens at 7 AM with a 9 AM north-border tide-pool outing and does not mention the storm. The lake/ward/anchor/field checks are pending at Ch090's close; Chapter 091 must account for who completes them before departure or record the unresolved continuity gap.
