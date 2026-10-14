@@ -892,5 +892,37 @@ Percy thought about the book and his family, about letters that came late, and a
 
 Annabeth nodded. They walked to breakfast with the notebook tucked safely in Percy's coat, leaving the thyme to its first clear morning.
 
+On the way they met Clarisse carrying her composition book back toward Cabin Three. Percy glanced at it, then looked away.
+
+"Did you read the other poem last night?" he asked.
+
+"No."
+
+"You don't have to tell me why."
+
+"I know. But I might." Clarisse shifted the book under her arm. "When Silena finished her song I realized I didn't need to prove I was brave by taking a private thing and making it everybody's entertainment. The three lines for the board are enough for now."
+
+Percy nodded. "Okay."
+
+"Don't sound relieved. I'm still writing."
+
+"Wouldn't dream of stopping you."
+
+"I also asked Ella to help me mark which pieces I've shared and which ones I haven't. Not to catalog every page, just the permissions."
+
+"That sounds like a good system."
+
+Clarisse looked toward the cabins. "Silena's going to teach that Demeter girl her song tomorrow. She asked me to come if I want to hear it."
+
+"Are you going?"
+
+"Maybe."
+
+Percy grinned. Clarisse wasn't promising to become somebody else because she'd admitted she had feelings. She was learning when to share them, and Percy was learning not to demand a performance in return.
+
+At breakfast he found Ella already setting aside the sealed resolutions in their proper boxes. She asked him whether he wanted his card filed. He said no and kept it in his pocket. The book he was starting had a first page; the garden had a first row. Neither needed a certificate from the rest of camp.
+
+He poured himself a cup of ordinary tea, sat beside Annabeth and told her he was ready for another Saturday when it came.
+
 ---
 
