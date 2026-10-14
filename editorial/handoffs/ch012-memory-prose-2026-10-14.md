@@ -23,3 +23,6 @@ Ch011's forearm/wrist pain, Thalia burned palm, Hall repairs and group duty acco
 Ch013 opens late-winter Tuesday with Zeus in a DIFFERENT appearance. Do not conflate it with Ch012's Tuesday without establishing elapsed time. Thalia has physically kept Annabeth's notes and Nico keychain; sisters have not resolved their memory histories. No new Sally disclosure to Amphitrite.
 
 **Source:** [canonical chapter](../../chapters/012-what-remains.md). Status: source-aligned handoff for cumulative character index. This note does not certify that all 193 chapters have been read or rewritten.
+
+
+**Source correction on delivered note:** The second/longer Annabeth letter on Thalia's pillow explicitly mentions road protection in Annabeth's 'old life' and Clarisse's owl, still being carved. Thalia keeps both the older lava-wall note and the second note by chapter end; the statement expands her REPORTED knowledge but does not confer first-person original-life memory.

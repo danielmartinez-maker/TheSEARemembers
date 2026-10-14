@@ -68,3 +68,7 @@
 - **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
 - **Provenance and state:** Ch012 FIRSTHAND: holds back from reorganizing Thalia's belongings; her note initially unread, later Thalia confirms she KEPT it. Zoe knows about gaps following fever, not actual erased-life truth; Annabeth tells Zoe the trouble of hearing Thalia's childhood stories without recognizing them, not original-life Athena mother. In laundry discussion Clarisse hears Annabeth cannot remember sister-raised childhood, NOT that Thalia was only a friend in another timeline. Together plan giving Clarisse's UNFINISHED owl to Thalia (not delivered); later Thalia and Annabeth leave revised drill route for next morning. They are familiar sisters with awkward trust, not strangers.
 - **Required persistence:** Later dialogue must carry what annabeth personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 012 · second-note disclosure
+Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sentence that she remembers Thalia protecting her on the road in her *old life*. The same note announces Clarisse's unfinished owl. At the end Thalia keeps both notes. This is a limited written report to Thalia, not a disclosure to Zoe or Clarisse of Annabeth's complete erased-life history.
