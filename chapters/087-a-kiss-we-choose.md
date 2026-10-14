@@ -128,7 +128,7 @@ Clarisse suggested using both arms for the full retreat and one for the line adj
 
 Chiron agreed to test the revised signals at the next supervised drill. He didn't declare the entire plan safe just because it looked good on paper. The rope crew would need practice, and anybody could report a problem.
 
-Percy accepted the correction. It meant the scary part of the storm could change the way they worked, not just become an embarrassing story told at the next campfire. Annabeth wrote Clarisse's name beside the alteration. Neither expected every future storm to obey their signals, but they could prepare to listen to one another better.
+Percy accepted the correction. It meant the scary part of the storm could change the way they worked, not just become an embarrassing story told at the next campfire. Annabeth wrote Clarisse's name beside the alteration. Neither expected every future storm to obey their signals, but they could prepare to listen to one another better. Clarisse also made Percy promise that he would stay out of the water until Will cleared him for training. He agreed, asked for the expected date, and wrote it down. Annabeth watched him do it without taking the pencil away. It was a small sign that he intended to keep the agreement himself.
 
 When he rose to leave, Annabeth caught his hand.
 
