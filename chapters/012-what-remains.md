@@ -298,7 +298,7 @@ Nico gave her a sympathetic look and started on the tall windows, while Zoe flop
 
 "It's practical," Annabeth muttered.
 
-"It's avoidance with bullet points," Zoe said. She bumped Annabeth's shoulder. "Hey. How are *you* doing? With the whole... missing-childhood thing?"
+"It's avoidance with bullet points," Zoe said, sliding the list aside before Nico could read it. She knew Annabeth had struggled to remember parts of her childhood since the fever, because Thalia had asked friends to stop springing old stories on her without warning. She didn't know why it had happened. "How are you doing with the memories you can't place? Not the Hall. You."
 
 Annabeth stared at her notebook. How was she doing?
 
@@ -306,7 +306,7 @@ She remembered being seven and being found by Thalia and Luke, Thalia giving her
 
 Annabeth could picture the story. She could not remember living it. The distance between those two things hurt most when Thalia expected her to smile at a familiar detail.
 
-"It's loud," she admitted quietly. "In my head. Like reaching for a station that isn't there. The Athena stuff — the strategies, Mother—" She stopped. Athena wasn't her mother here. Saying it out loud still felt like betrayal in both directions. "I keep reaching for memories that don't fit. I almost called Chiron *teacher* yesterday like... like I used to. And then I felt guilty because Thalia raised me *here*, she—"
+"It's like being handed someone else's notes about my life," Annabeth said, closing the page over the part of her list that had nothing to do with repairs. "Thalia tells me about a day she remembers perfectly, and I know she's telling the truth. I can even picture it. But I can't remember being there. When I ask her to tell it again, she thinks I'm testing whether she's honest. I just want to hear about my sister without disappointing her." Zoe listened without asking Annabeth to explain the fever or account for all the missing years.
 
 She glanced toward Thalia's bunk.
 
@@ -424,7 +424,7 @@ Thalia looked back out at the hills. Her throat felt tight.
 
 Percy didn't flinch. Everyone else did, when she said that name. Luke, whose future betrayal Percy remembered, was currently helping Beckendorf at the forge with grease on his nose and no idea what Percy feared.
 
-"I miss how easy it was to trust him," Thalia clarified. "Before you told me what happened where you came from. He was there when we needed help. He's still here. And now I keep looking at him for something he hasn't done." She broke off. "I don't know how to be fair about it."
+"I miss how easy it was to trust him," Thalia clarified. "Annabeth told me she remembers wars and people I don't recognize in the stories I know. I haven't even heard all of it, but now I look at Luke and wonder which parts of the people I trust could change." She rubbed the edge of the paper wrapped around the sandwich. "That's not fair to him. He hasn't done anything to earn this suspicion here." Percy remembered the future Luke from his own life, but he had not given her that history in full. He knew better than to pretend Thalia's fear was proof against the boy working at the forge.
 
 "It's not messed up," Percy said. "It's just... knotted."
 
@@ -741,13 +741,13 @@ Annabeth smiled down at the socks. "He told her I... that I left the note becaus
 
 "True, isn't it?" Clarisse said bluntly.
 
-"Yeah," Annabeth admitted. "I keep trying to write her a letter. Like a real one. But every draft sounds wrong. *Dear Thalia, sorry you nearly died* — no. *Dear Thalia, sorry I don't remember our childhood* — worse." She wrung out a sock so hard it squeaked. "Here, she's my sister who raised me, and I can't remember it. In my memories, she's my friend who nearly died protecting me. Either way I owe her everything and I don't know how to—"
+"Yeah," Annabeth admitted. "I keep trying to write her a real letter, and every draft turns into an apology. For nearly losing her in the eclipse. For not recognizing half the childhood stories she tells me. For asking her to trust me before I'm ready to explain everything." She wrung out a sock until the seam pressed into her palm. "I know she raised me, Clarisse. I know it because she remembers doing it. I just don't know how to stop making her feel as though that history means nothing to me." She'd told Thalia a little about another life. She wasn't ready to bring Clarisse into that secret, not even here among the warm washing tables.
 
 "Stop," Clarisse said.
 
 Annabeth blinked. "What?"
 
-"Stop trying to make it even." Clarisse sat on the folding table, swinging her feet. The wooden bird was still in her hand — Annabeth could see now it was a little owl, half-carved, with one wing roughed out and the other still blocky. "Silena told me once — when we found out we were sisters, I tried to, like, earn it. Be a good sister. Share stuff. Braid hair. All that crap. And Silena said, *We're not keeping score, Clarisse. We're just keeping each other.*"
+"Stop trying to make it even." Clarisse set the laundry bag upright before sitting on the edge of the folding table. The wooden shape she'd been carrying was an owl, one wing still rough from the knife. She hadn't told Percy about it yet; the last carving she'd given him had taken long enough to explain. "You could start by asking her whether she wants her armor folded or left where it is. She gets to have an opinion about how she's helped." "Silena told me once — when we found out we were sisters, I tried to, like, earn it. Be a good sister. Share stuff. Braid hair. All that crap. And Silena said, *We're not keeping score, Clarisse. We're just keeping each other.*"
 
 Annabeth stared. "That's... really wise."
 
@@ -755,7 +755,7 @@ Annabeth stared. "That's... really wise."
 
 It was, Annabeth realized with a sudden tightness in her throat, the most thoughtful thing she'd heard all week.
 
-"She'll love it," Annabeth said honestly. "Can I— when it's done, can I give it to her with you?"
+"I think she'd like it," Annabeth said. She turned the owl gently enough not to catch her injured fingers on the rough wing. "When it's finished, could we give it to her together? Or we can ask first. She hasn't wanted anybody deciding what she needs this week."
 
 Clarisse shrugged, ears pink. "Whatever. If you want." She hopped off the table. "And hey. For what it's worth. My brother likes you. He's been moping like a kicked hippocamp for five days because you and Thalia are sad. So fix it already. For his sake. He's annoying when he mopes."
 
@@ -873,7 +873,7 @@ Halfway through dinner, Chiron clopped to the center of the pavilion and raised 
 
 Thalia looked. At Clarisse slipping extra meat to Silena's plate when she thought no one saw. At Percy teaching Nico to fold a napkin into a boat. At Zoe showing Ella a new word in her notebook. At Bianca leaning her head on her little brother's shoulder. At Annabeth, watching it all with bright eyes and an emergency pencil.
 
-"We remain," Chiron said simply. "Not unchanged. Not unscarred. But together. To what remains — and to what we rebuild."
+"The Hall is still under inspection, and tomorrow the crews will need volunteers again," Chiron said. "Some of you have been carrying more than your assigned work, and some of you have been told to rest when you'd rather be useful. Both instructions matter. To everyone who got the younger campers home safely, and to the people who are still repairing what failed."
 
 "To what remains!" the camp echoed, raising cups.
 

@@ -299,7 +299,7 @@ Zoe carried her drawings to the old forge annex after the lunch bell. It was the
 
 She had.
 
-Mara met her at the annex with a wooden tray of ordinary copper strips and a canvas roll of tools. The forge worker had been helping the repair team track small parts, and she had already written the copper's origin and preparation method on a paper tag for each strip. Zoe knew that Mara could be sharp with impatient people; she was patient with materials because she had seen what happened when somebody skipped a cooling step. Whether this was the same Mara who had earlier helped with Silena's irrigation beds wasn't established by this conversation, and Zoe had no reason to make the assumption.
+Mara met her at the annex with a wooden tray of ordinary copper strips and a canvas roll of tools. The forge worker had been helping the repair team track small parts, and she had already written the copper's origin and preparation method on a paper tag for each strip. Zoe knew that Mara could be sharp with impatient people; she was patient with materials because she had seen what happened when somebody skipped a cooling step. Zoe had worked beside her on enough small repairs to know that Mara would ask where the metal came from before she asked what the charm might do.
 
 "Everything's clean," Mara said. "No hall metal. No inscriptions other than the ones you supplied for the control test."
 
