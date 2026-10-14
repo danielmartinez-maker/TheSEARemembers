@@ -10,12 +10,14 @@
 |---|---|---|---|---|
 | M-01 | Ch. 30: Amphitrite meets Clarisse and Silena in person, discusses their family, shares lunch | Ch. 118: she says she is glad to 'meet you properly' as though it is a first meeting | She explicitly remembers their camp lunch; Clarisse remembers it too | **Fixed** |
 | M-02 | Ch. 30: Amphitrite meets and embraces Annabeth, gives her a pearl bracelet | Ch. 123: 'And you are Annabeth. Percy has told me about you' reintroduces her | Amphitrite greets Annabeth by name and refers back to the camp lunch | **Fixed** |
-| M-03 | Ch. 1 and FIC_CONTEXT §2.1: Amphitrite must not know Percy's old-timeline memories or autobiographical childhood gap | Ch. 99: she explicitly describes 'the life you remember' and 'years you cannot remember' | Amphitrite talks about the Sallly history **she actually knows**, while Percy can still thank her as 'Mother' | **Fixed** |
+| M-03 | Ch. 1 and FIC_CONTEXT §2.1: Amphitrite must not know Percy's old-timeline memories or autobiographical childhood gap | Ch. 99: she explicitly describes 'the life you remember' and 'years you cannot remember' | Amphitrite talks about the Sally history **she actually knows**, while Percy can still thank her as 'Mother' | **Fixed** |
 | M-04 | Ch. 99: Percy explicitly chooses to call Amphitrite 'Mother' | Ch. 118 greeting risks another emotionally blank reset after that important step | Percy greets her as 'Mom', showing the choice carried forward without forcing the word into every interaction | **Fixed** |
 | M-05 | Ch. 1: Sally and Amphitrite did not meet personally; timeline secret remains concealed | Ch. 126: Percy openly says he told Amphitrite about Sally's remembered-life kitchen; Amphitrite says she exchanged letters with Sally | Percy keeps the source of the mosaic private. Amphitrite knows Sally from Poseidon's stories rather than newly invented correspondence. Sally-related dialogue before the group avoids timeline disclosure. | **Fixed** |
 | M-06 | Ch. 1: no disclosure of lost altered-childhood autobiographical memory | Ch. 127: Percy discusses remembering his childhood and Amphitrite responds about 'missing years' | Their conversation addresses returning to a changed home after time at camp, without granting her forbidden knowledge | **Fixed** |
-
-*Typographical note:* M-03's prose replacement itself refers to Sally correctly; the audit label 'Sallly' is not part of the manuscript.
+| M-07 | Ch. 14: Amphitrite talks to Annabeth via Iris-message and thanks her for caring for Percy | Ch. 30: Amphitrite says 'And you must be Annabeth' and Annabeth treats it as first-ever acquaintance | The meeting is now explicitly **in person**, with a callback to the prior Iris-message | **Fixed** |
+| M-08 | Ch. 32: Triton encounters Clarisse, Silena and Annabeth, and spars with Clarisse | Ch. 86: Triton says 'You must be Clarisse' and 'You must be ... Silena'; treats Annabeth as a newly liked stranger | He recalls the camp duel, recognizes Silena, and says he **still** likes Annabeth | **Fixed** |
+| M-09 | Ch. 14 and Ch. 30: Annabeth already knows Amphitrite and received a bracelet from her | Ch. 120: Clarisse says Annabeth has **never met** Amphitrite, and Annabeth agrees | Annabeth refers to the established picnic, bunk inspection and bracelet | **Fixed** |
+| M-10 | Ch. 1: Amphitrite is unaware Percy lacks memory of his altered childhood | Ch. 123: Percy assumes Amphitrite understands that he cannot remember the childhood story she tells | Percy's interior monologue preserves his secret while listening to a normal family anecdote | **Fixed** |
 
 ## Stable story rules to carry forward
 
@@ -28,8 +30,8 @@
 
 ## Review method and limits
 
-I inspected anchored passages from **001, 013, 019, 025, 030, 066, 074, 099, 118, 123, 126, 127, 128, 129, 132, 170, 177, 186 and 193**, plus targeted mentions in 130, 153, 158–160. I then made **13 localized prose replacements in five chapters**, updated FIC_CONTEXT, and added a ledger and reusable handoff. The surrounding scenes were preserved.
+I inspected anchored passages including **001, 013, 014, 019, 025, 030, 032, 066, 074, 086, 099, 118, 120, 123, 126, 127, 128, 129, 132, 170, 177, 186 and 193**. I also ran a **full 193-chapter plus two-interlude lexical screen** for likely first-meeting dialogue, which found additional candidates for manual inspection. In total, I made **21 localized prose replacements in eight chapters**, updated FIC_CONTEXT, and added the ledger and reusable handoff. Surrounding scenes were preserved.
 
-**Open review:** Remaining chapters have not all been checked for semantic relationship resets, inconsistent witness knowledge, or later contradictions to these repairs. A lexical repository-wide search was attempted but did not complete; it must not be presented as a completed full-book QA pass. Future writing must verify earlier interactions and append ledger entries.
+**Open review:** The lexical screen covers every numbered chapter and both interludes but is **not a semantic full-book audit**. It cannot reliably detect gradual emotional resets, forgotten private promises, changed objects, or all knowledge leaks. Other chapters still require source-based relationship checks when edited or referenced. Future writing must verify prior interactions and append ledger entries.
 
 **No claim made:** This branch does not certify all chapters' word counts, global 300-word duplication checks, or PDF exports.
