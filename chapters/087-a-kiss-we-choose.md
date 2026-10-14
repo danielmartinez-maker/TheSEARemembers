@@ -390,31 +390,33 @@ Grover, who had trotted over with his tray to sit with them, looked from one to 
 
 "Then I hope you have a good evening," Grover said, keeping his voice low enough that nobody else could hear.
 
-Half the pavilion turned around.
+The pavilion kept talking. The other campers had their own plans, and Grover didn't announce anything on the couple's behalf.
 
-"No we aren't!" Annabeth squeaked, which fooled no one because Annabeth never squeaked.
+Silena came over with a small tin of strawberry chapstick and set it between them.
 
-"You are!" Silena sang from two tables over. "Sunset! Dock! I told you! Oh, this is perfect, Chris, they're doing sunset dock!"
+"For whenever you want it," she said. "You don't have to use it. Or tell me how the evening went."
 
-Clarisse stood up and banged her goblet on the table. "QUIET! All of you! This is a military operation now! No one follows them! No one spies! No one places bets!"
+Percy looked at the tin. "You really think we're that hopeless?"
 
-"Too late," Connor Stoll called. "I got five drachmas on nervous laughter before!"
+"I think you're both nervous. That's allowed."
 
-"Ten on someone trips!" Travis added.
+Clarisse arrived carrying her dinner plate. She glanced at the tin, then at Percy.
 
-"You're betting on us?" Percy demanded, horrified and flattered in equal measure.
+"I'm not making an announcement," she said. "Somebody has to be the responsible sister."
 
-"We bet on everything," Travis said. "Last week we bet on whether Chiron would wear the brown vest or the black vest. Love you. No pressure."
+Silena raised her eyebrows.
 
-Chiron, passing with his tray, paused and gave them a warm, knowing look that made both of them want to melt through the floor. "Percy. Annabeth. Whatever you have planned this evening, the lake is lovely at sunset. Mr. D and I will be ensuring the Big House porch is — very occupied — between seven and eight. For administrative reasons."
+"I'm capable of learning," Clarisse replied.
 
-"Thank you, Chiron," Annabeth whispered.
+Annabeth looked up at both of them. "Thank you. We actually want this to stay ours."
 
-"Discretion is a virtue," Chiron said gravely. "So is chapstick. Silena left some on your plate, Percy."
+"Then it stays yours," Silena said.
 
-Percy looked down. Sure enough, there was a little tin of strawberry chapstick on his bread plate with a note in Silena's looping script: *FOR THE MISSION. No garlic bread. Love you!!*
+Chiron passed behind their bench and asked Percy whether the dock had been cleared after Thursday's storm. Percy confirmed the repair crew had signed the work off and the damaged rack was out of service. Chiron checked the note on his clipboard and said the dock would be open during the normal supervised evening hours.
 
-He wanted to die. He also wanted to laugh. He did both, internally, at the same time.
+"No special audience," Chiron added quietly. "Enjoy the sunset."
+
+Percy watched him go. It was almost strange to have a private plan remain private at camp. Strange and good.
 
 After dinner, Annabeth dragged Percy to Cabin One's back porch. On her desk was a half-finished model of the new footbridge and now — incongruously — a single orange with a face drawn on it.
 
@@ -537,7 +539,7 @@ Annabeth's eyes filled. "Really?"
 
 Annabeth laughed through tears. "I have it! Percy has it! We all have chapstick!"
 
-"Good. Now scram. I'll be — elsewhere. Definitely not watching. Definitely not hiding in the trees with binoculars like a creep."
+"Good. Now go have your evening. I'll be on the hill and I won't come down unless there's an actual patrol emergency."
 
 Annabeth narrowed her eyes. "Thalia."
 
@@ -686,9 +688,9 @@ So they did it again, a second time, still sweet, a little less shaky, a little 
 
 When they pulled back, Annabeth tucked her head under his chin the way she had through their remembered years together, and Percy wrapped his arms around her, and they stood at the end of the dock wrapped up together while the sun sank the rest of the way and the first stars pricked through the eastern sky.
 
-"Do you think the betting pool is satisfied?" Percy murmured into her hair.
+"Are you glad we didn't have to explain ourselves to everybody?" Percy murmured into her hair.
 
-"I think Connor owes Travis five drachmas because we definitely had nervous laughter before," Annabeth said. "And someone definitely tripped — did you trip? I felt a trip."
+"Very." Annabeth smiled against his shoulder. "And you definitely tripped getting onto the dock. Did you trip on a nail?"
 
 "I tripped on a nail on the way in. Don't tell Clarisse. She'll make it a lesson."
 
