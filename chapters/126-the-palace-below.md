@@ -154,11 +154,11 @@ At the far side of the garden, the path narrowed between two coral hedges. A sma
 
 “That one’s different,” Silena said.
 
-“It’s from the surface,” Percy said. “I made it on a visit after coming here, telling Amphitrite about Sally’s kitchen in the life I remember. I drew the whale and a sun, and then I added…”
+“It’s from the surface,” Percy said. “I made it during a visit back here, after I'd been asking Amphitrite about Sally. I drew the whale and a sun, and then I added…”
 
 “The little blue house,” Amphitrite said. “You said it needed a door big enough for everyone.”
 
-Percy had almost forgotten leaving the mosaic here. Making it had let him show Amphitrite a kitchen he remembered from the life in which Sally had raised him, a place absent from the childhood she knew. The blue house was only a crooked square; the whale was much better.
+Percy had almost forgotten leaving the mosaic here. He had drawn the blue house from Sally's kitchen in the life he remembered, but he had let Amphitrite take it for a child's imagined home. The blue house was only a crooked square; the whale was much better.
 
 Silena looked at the mosaic, then at him. “Can I ask about her?”
 
@@ -172,7 +172,7 @@ Percy took a moment. The Sally he remembered had raised him in Manhattan. Here s
 
 “Did she know this place?” Silena asked.
 
-“In the life I remember, she knew about the sea. Here, she died before I came to Atlantis. I don’t know what she hoped for it. She talked about beautiful things surviving by staying hidden until they were safe to be seen.”
+“She knew about the sea. She died before I could ask what she thought of Atlantis. I don't know what she hoped for it. But Dad told me she wanted me safe, and she made him promise not to keep me away from the mortal world forever.”
 
 “That sounds like her,” Poseidon said quietly.
 
@@ -192,15 +192,15 @@ Poseidon’s hand settled gently at the back of his shoulder. “I should have s
 
 Silena glanced at the mosaic. “Did you know Sally?”
 
-“A little,” Amphitrite said. “We wrote to one another before she died. She sent me a letter about Percy’s insistence that every meal should have something blue in it. She said she had stopped arguing with him about the color of food because the argument was more trouble than the dye.”
+“Not in person,” Amphitrite said. “I know her mostly through your father's stories. He told me how Percy insisted that every meal should have something blue in it. Sally apparently decided arguing about the color of food was more trouble than the dye.”
 
 Percy smiled. “That sounds like her.”
 
-“She hoped you would always have people to care for you, even when she couldn’t be with you.” Amphitrite’s gaze rested on Percy. “I kept that letter for a long time.”
+“Your father told me she wanted you to have people who would care for you, even when she couldn't.” Amphitrite's gaze rested on Percy. “I have tried to honor that.”
 
 Silena’s face had gone thoughtful. “She sounds like she knew how to make room for people.”
 
-“She was practical and funny,” Amphitrite said. “She never pretended the gods were easy to deal with, and she could be kind without being impressed by power. Once she wrote that you wanted your blue blanket beside her chair at breakfast. She said the blanket apparently needed company as much as you did.”
+“From what Poseidon told me, she was practical and funny,” Amphitrite said. “She never pretended the gods were easy to deal with, and she could be kind without being impressed by power. He told me about a breakfast when you insisted your blue blanket have its own place beside Sally's chair. He said she joked that the blanket apparently needed company as much as you did.”
 
 Silena’s smile warmed. Clarisse listened with her chin lifted and her arms loosely folded.
 
