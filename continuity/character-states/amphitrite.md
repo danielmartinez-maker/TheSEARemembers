@@ -7,3 +7,9 @@
 - **Source:** [Chapter 001](../../chapters/001-the-weight-of-salt-and-sky.md), bedroom morning, anemone garden, Tessera, departure.
 - **State and events:** firsthand: has raised altered-history Percy since age two, cares for him in the palace, shares Sally's story, plays Tessera, manages departure, hears Percy promise daily contact and return if necessary. Knows Sally died when Percy was two; reports letters/photos/scarf as existing or possible items. DOES NOT know Percy remembers a prior life or lacks altered-childhood autobiographical memories. Reads oddness as camp anxiety, no secret discovery.
 - **Carry-forward:** Do not reset personal acquaintance or imply that secondhand stories confer firsthand recollection. Confirm next relevant scene and update this file with a new chapter-labeled event.
+
+### Chapter 002 · The Girl With Lightning in Her Veins
+- **Knowledge provenance:** FIRSTHAND / REPORTED / PRIOR LIFE separated in the event text; no inferred global memory.
+- **Source:** [Chapter 002](../../chapters/002-the-girl-with-lightning-in-her-veins.md), no new on-page contact / Ch001 state carried forward.
+- **State and events:** NOT PRESENT in Ch002. No receipt of new messages or knowledge shown, no retrospective awareness of Percy/Annabeth remembered lives. Percy retains his Ch001 daily-call promise; do not mark it discharged without on-page call.
+- **Next-scene requirement:** Carry forward confirmed facts; investigate any alleged repetition, private disclosures, gifts or unresolved obligations before advancing relationships.

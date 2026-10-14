@@ -7,3 +7,9 @@
 - **Source:** [Chapter 001](../../chapters/001-the-weight-of-salt-and-sky.md), Half-Blood Hill, Athena cabin escort and Big House.
 - **State and events:** firsthand: meets Percy as new camper at Half-Blood Hill, escorts him, brings him to Athena cabin and then Chiron, notices unfamiliar intensity of Percy's connection with Annabeth; hears a bounded non-revelatory answer. Does NOT have remembered-future memories and does NOT know the rewrite. Percy remembers a different Grover from an erased life but must treat current Grover's trust as new.
 - **Carry-forward:** Do not reset personal acquaintance or imply that secondhand stories confer firsthand recollection. Confirm next relevant scene and update this file with a new chapter-labeled event.
+
+### Chapter 002 · The Girl With Lightning in Her Veins
+- **Knowledge provenance:** FIRSTHAND / REPORTED / PRIOR LIFE separated in the event text; no inferred global memory.
+- **Source:** [Chapter 002](../../chapters/002-the-girl-with-lightning-in-her-veins.md), no new on-page contact / Ch001 state carried forward.
+- **State and events:** No further documented firsthand Chapter 002 meeting in the audited Chapter 002 scenes. Initial introduction and bounded awareness of Percy's odd recognition from Ch001 persist. No time-secret disclosure.
+- **Next-scene requirement:** Carry forward confirmed facts; investigate any alleged repetition, private disclosures, gifts or unresolved obligations before advancing relationships.

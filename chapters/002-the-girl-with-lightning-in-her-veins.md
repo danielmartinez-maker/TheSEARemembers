@@ -1,78 +1,66 @@
 ## Chapter 2: The Girl With Lightning in Her Veins
 
-Percy woke to the sound of the ocean.
+Percy woke when the channel beneath Cabin Three's floor changed pitch. He'd fallen asleep listening to it, and for a confused moment he thought he was back in Atlantis. Then someone landed hard on the floorboards across from his bed and began another set of push-ups.
 
-Not the actual ocean. He was in Cabin Three, well inland, but water ran through channels beneath the floor. He sat up and put a hand to the blue-green wall. Something moved there with a steady rhythm. He hadn't noticed it the night before; he'd been too tired.
+Clarisse La Rue was halfway through her morning exercises, counting under her breath. She had introduced herself at dinner, pointed him toward his bunk, and warned him about wet towels. Percy had lived with her in the cabin for one night. He still had no right to the years of acquaintance that belonged to the Clarisse he remembered.
 
-In the original timeline, the Poseidon cabin had been empty for years before he arrived. Just him, one bunk, and the faint smell of salt. This version was different. There were four bunks now — two on each side of the narrow room — and the one across from his was already occupied.
+"You're awake," she said without stopping. "Good. You snore."
 
-Clarisse.
+"You counted my snores?"
 
-Percy had known, intellectually, that Clarisse was a Poseidon kid in this timeline. He'd known it during dinner the night before, when she'd introduced herself with that trademark swagger and he'd nearly choked on his nectar. But knowing it and *experiencing* it were two different things.
+"I counted how many times you woke me up." She finished the set and rose, pushing back hair that had escaped its tie. Her necklace beads clicked against the neck of her training shirt. "The prince has a morning routine, I assume?"
 
-She was thirteen in this timeline — a year older than him, though she carried herself with the authority of someone much larger. Her hair was pulled back in a severe ponytail, and she was wearing a camp necklace with more beads than Percy had ever seen on someone so young. She was doing one-armed push-ups on the floor, her muscles flexing with an ease that spoke of years of training.
+"Apparently my routine involves being insulted before breakfast."
 
-Clarisse caught him watching, completed the push-up, and rose.
+"Then you're adapting." She gestured at the open trunk beside his bed. "Dry gear hangs on the wall. Don't borrow my things, don't leave a weapon where someone can trip over it, and don't touch Silena's notebook unless she says you can."
 
-"You snore," she said.
+Percy looked toward the opposite bunk, where a quilt was folded with care beside a blue-covered notebook. He had heard Silena's name last night, but hadn't met her. That distinction mattered more than he had expected. His memories of her belonged to an entirely different life.
 
-"I don't—"
+"Anything else?" he asked.
 
-"You do. Like a walrus having a seizure." She grinned, but it wasn't entirely friendly. "You're the prince, right? Atlantis?"
-
-Percy bristled at the title. "Just Percy."
-
-"Just Percy." She laughed. "Okay, Just Percy. Fair warning — I don't care that you're Poseidon's son. You're in my cabin now, and that means you follow my rules. Rule one: don't touch my stuff. Rule two: don't wake me up before dawn. Rule three: don't even *think* about challenging me until you've survived your first month."
-
-"Noted," Percy said flatly.
-
-Clarisse studied him for a breath, her dark eyes sharp and assessing. "You're not what I expected. You're... smaller."
+Clarisse looked him up and down. "I thought you might be taller."
 
 "I'm twelve."
 
-"Yeah, well. I was told you grew up under the sea. I thought you'd be, like. Weirder."
+"That's no excuse. I was twelve last year." She tossed him a camp shirt from the stack by the door. "You can tell Silena how much you hate our hospitality at breakfast."
 
-"Thanks," Percy said, and meant it as anything but.
+Outside, the grass was wet enough to darken the cuffs of his trousers. Camp workers were already moving between the forge and the pavilion with baskets of bread and buckets of sand for the brazier. Percy recognized the outlines of the cabins, but not the little arrangements that made the place function: a repaired handrail outside the infirmary, a line of tools hung behind the dining area, the larger Zeus cabin with its annex facing the green.
 
-He grabbed his camp-issued clothes — the standard orange t-shirt and jeans that every camper wore — and headed to the bathrooms to change. The morning air was crisp, pine-sharp and strawberry-sweet, cold enough to raise gooseflesh, carrying the scent of strawberries, sun-crushed and honeyed, with cold pine underneath from the fields below, and the sun was simply beginning to crest the hill to the east.
+At the Poseidon table, Clarisse was arguing about spear grips with an Ares camper. Beside her sat a red-haired girl with a scar across her chin. She shifted a pile of folded napkins off the empty chair before Percy reached it.
 
-Camp Half-Blood looked different in daylight. The cabins gleamed, the climbing wall was already being used by a group of Ares kids, and the dining pavilion was buzzing with early risers. But there were differences, too — subtle ones that Percy catalogued automatically. The Athena cabin was smaller than he remembered. The Zeus cabin was larger, with an annex that hadn't existed in the original timeline. And there was a new building near the forge — something that looked like a combination armory and temple, with columns of black iron and smoke rising from a central chimney.
+"Percy," Clarisse said. "Silena. Now you'll both stop asking me when this is going to happen."
 
-Percy made his way to the dining pavilion. Breakfast was a chaotic affair — tables packed with demigods, the air thick with conversation and the smell of ambrosia-laced pancakes. He grabbed a tray and looked around, trying to work out where to sit.
+Silena smiled but didn't get up. "Welcome to Cabin Three. I was hoping you hadn't gotten lost between the bunks and the pavilion."
 
-The Poseidon table was in the far corner, and Clarisse was already there with a girl Percy didn't recognize — maybe fourteen, with red hair and a scar across her chin. They were deep in conversation, and when Percy approached, they both looked up.
+"Not yet. I make no promises about tomorrow."
 
-"Sit," Clarisse said, gesturing to the empty chair across from her. "This is my sister, Silena."
+"Reasonable." She looked at the cuffs of his trousers. "You're going to want a second pair of socks if you keep walking through the dew."
 
-"Hi," Silena said, smiling. "Don't mind Clarisse. She's always like this in the morning."
+He nearly told her she ought to be sitting at the Aphrodite table. In the life he remembered, Silena had been Aphrodite's daughter and had died wearing Clarisse's armor. Here she was alive, his older half-sister, already making sure he'd have dry clothes. Saying what he knew would put her in the position of explaining a history she had never lived.
 
-"Like what? Perfect?"
+He sat and took the bread she passed him. "Clarisse says there's a set of rules."
 
-"Hostile," Silena amended.
+"Several," Silena said. "Most of them are her inventions. The chore rota isn't."
 
-Percy sat. "I thought Silena was in the Aphrodite cabin."
+"Are we allowed to eat before the regulations?"
 
-Clarisse and Silena exchanged a look.
+"I'll give you five minutes."
 
-"In this cabin," Clarisse said carefully, "we don't talk about cabin assignments too much. Silena's my half-sister. Same dad."
+Clarisse snorted into her cup. Percy looked between them: Clarisse, who had saved a bed for him and apparently intended to make him earn his place in it; Silena, who had made room at the table without treating him like visiting royalty. Neither was a replacement for the women he remembered. They were people he would have to meet on their own terms.
 
-Percy's brain stalled. Clarisse and Silena were *sisters*? Poseidon's daughters? In the original timeline, Clarisse had been Ares's daughter — violent, aggressive, the bully who'd nearly killed him with an electrical spear. Silena had been Aphrodite's — a daughter of love, not war, who'd betrayed camp and died for it.
+"Have you met Annabeth?" Silena asked. "Thalia's sister."
 
-But in this timeline, they were both Poseidon's. Both sea-born. Both *his sisters*.
+"Yesterday. Grover took me by the Athena workroom."
 
-He didn't know what to do with that.
+"Then you've probably already met Thalia's welcoming committee," Clarisse said.
 
-"Anyway," Silena said, with the air of someone changing the subject, "have you met Annabeth yet? Thalia's sister?"
+"She didn't actually threaten me."
 
-"I have," Percy said, and couldn't keep the warmth out of his voice.
+"That's promising," Silena replied. "She gets protective when she thinks Annabeth's being pushed around, and Annabeth hates being treated like somebody's project. It keeps both of them busy."
 
-"Good for you. She's nice once you get past the... everything." Silena shrugged. "Thalia's protective. You'll want to stay on her good side."
+Percy thought of the unfinished plans Annabeth had been carrying and Thalia straightening her necklace without asking. "I noticed."
 
-"I'm not sure I've a good side with her," Percy admitted. "She looked at me like I was a monster she needed to put down."
-
-"That's just Thalia," Clarisse said, turning toward him. "She looks at everyone like that. You get used to it."
-
-Percy wasn't sure he wanted to get used to it.
+"Good," Silena said. "Notice the cabin rules that carefully and we'll get along."
 
 ---
 
@@ -772,33 +760,17 @@ Percy changed shirts and followed her. She hadn't asked what he meant by war. He
 
 ---
 
-After breakfast, Percy walked the camp alone. He wanted to get his bearings — to map the differences between this version of Camp Half-Blood and the one he remembered.
+After breakfast, Percy walked the camp alone with a folded scrap of paper in his pocket. Annabeth had wanted them to distinguish what they'd seen from what they remembered or guessed. He could at least start with the grounds.
 
-The changes were everywhere, but they were subtle enough that most people would never notice. The strawberry fields stretched in the same direction, bordered by the same wooden fences. The amphitheater had the same stone benches rising in tiers. The climbing wall still looked like a massive labyrinth of ropes and ledges, still doubled as the arena for the camp's famous lava fight.
+The strawberry fields occupied the familiar slope, but the boundary fence had been doubled in places. White flowers grew at regular intervals along the outer row. Percy knelt beside one and found a new stake with an inventory number tied around it. Someone had planted the row deliberately; whether it was decoration, protection, or agricultural work, he had no evidence.
 
-But the details were different. The strawberry fields had a second border — a line of white flowers Percy didn't recognize, planted at regular intervals like sentinels. The amphitheater had carvings on the stone that hadn't been there before, symbols he couldn't identify. And the climbing wall had been reinforced at several key points, metal braces driven into the stone at angles that suggested structural concerns rather than aesthetic ones.
+The amphitheater benches were still arranged in a broad stone curve. New marks had been cut beneath several seats, too regular to be accidental damage, while a metal brace held up a climbing-wall ledge he remembered as open stone. He wrote both down and left space for somebody's explanation. He'd already seen how easily an unfamiliar design could look threatening when he wanted it to mean something.
 
-Someone had fortified this camp. Someone had anticipated threats and prepared for them.
+At the freshwater canoe lake, he touched the surface beside the dock. A small current pressed past his knuckles, faint but distinct, and vanished when he lifted his hand. The movement might have come from the springs, from the camp's wards, or from some ordinary flow he had never paid attention to in the other life. Knowing he could feel water didn't tell him what had made it move.
 
-Percy walked to the lake and sat on the dock, letting his feet dangle into the water. Even here — even in this version — the lake had a quality that was different from the original. The water was clearer. Cleaner. Like someone had been actively maintaining it, filtering it, keeping it pure.
+He added *lake: ask where springs enter* to the paper. Clarisse had been at camp longer than he had; so had Silena. If they were willing to answer, they might know the reason. He wasn't going to accuse somebody of changing the lake merely because he didn't recognize it.
 
-He trailed his fingers through the surface and felt a faint vibration. The lake was freshwater, and it shouldn't have reminded him of the ocean. He tested the water again, unsure whether the sensation belonged to an old camp ward, a current, or something he was imagining.
-
-He couldn't name a source. That was worth remembering, not announcing.
-
-He withdrew his hand sharply. That was new. In the life he remembered, he'd never stopped to test the lake this way. That made the sensation interesting, not proof of what had caused it. He would need someone who knew the lake's springs and its camp wards before he could claim anything more.
-
-Percy looked toward the Poseidon cabin and thought about Clarisse — about the fierce, guarded girl who slept in the bunk across from his, who fought like fury and looked at the world like it owed her something.
-
-She was his sister. In this timeline, they were both Poseidon's children, both sea-born, both overlooked by a father who paid attention only when it suited him.
-
-Percy wondered if she knew. If she'd noticed that something about the lake felt different, that the water moved in ways that respond to emotion, that the camp had been fundamentally reshaped around the needs of children of the Big Three.
-
-Probably not. She was thirteen. She might know more about the lake than he did. He'd ask when he could do it without sounding like an investigator.
-
-But Percy noticed. And Percy remembered. And that meant he had to pay attention to things nobody else was paying attention to.
-
-He stood up and kept walking.
+He folded the paper and stood, already thinking about the training hall he had passed twice without entering.
 
 ---
 
@@ -1010,179 +982,131 @@ He didn't draw attention to them. He picked up the first shield, carried it to t
 
 ---
 
-That afternoon, Percy and Thalia went on a patrol of the eastern border. It wasn't officially assigned — Thalia had simply appeared at his training session and told him he was coming, and he'd been too surprised to argue.
+That afternoon Thalia found Percy finishing drills and told him to bring a water bottle and his boots. She did not explain why until they reached the eastern path.
 
-"You're good with a trident," she said as they walked the tree line, "and the border needs extra eyes. Consider it your first official job."
+"I'm checking the lookout," she said. "You can walk with me as long as you do exactly what I say. If you start showing off, you're going back."
 
-"Is that what this is? An official job?"
+"Is there a prize for not showing off?"
 
-"It's a test. To see if you're useful or just a nuisance." She glanced at him sideways. "I'm still deciding which you're."
+"You're allowed to come back again." She adjusted the strap on the pack across her shoulder and set a brisk pace. "I'm still deciding whether that's something you'll want."
 
-The eastern border was less defined than Percy expected — only a vague sense that the trees grew thicker, the air got colder, and the sounds of the camp faded. Somewhere out there, monsters roamed. Everyone knew it. Most campers were trained to avoid the borders, to stay within the safe zones that the gods had carved out.
+The eastern border wasn't a line a person could see. The trees closed in, the noise of camp dropped away, and strips of old cord marked routes between lookout points. Thalia checked each marker as she passed it. At one bend she stopped to retie a loose knot while Percy watched the underbrush.
 
-Thalia, obviously, had no interest in safe zones.
+"Do we have a monster problem?" he asked.
 
-"How do you know where the monsters are?" Percy asked. "If we're supposed to stay away from them."
+"We always have a monster problem. What we don't always have is enough warning." Thalia tugged on the cord to test it. "If something comes this way, whoever's on watch has to tell everyone else before somebody decides to play hero."
 
-"I can feel them. It's a Zeus thing — divine power draws power. When something nasty comes close, the air changes. The static builds. You learn to read it." She held up her hand, and Percy saw — or thought he saw — faint crackles of electricity dancing between her fingers. "Right now, we're safe. Nothing within a mile."
+"Sounds as though that rule came from experience."
 
-"And if something did come?"
+"Several experiences. No, you don't get the details just because you asked politely."
 
-"Then I'd kill it." She said it simply, matter-of-factly, the way someone might say they'd change the channel on the television. "That's what I'm for. That's what all of us are for. We protect this place."
+They climbed toward a low rise with a view of the eastern approach. Thalia gave him a small wooden horn worn smooth where the fingers would grip it. "One long note means movement. Short and sharp means contact. Three short notes mean retreat. Don't improvise a fourth signal."
 
-Percy thought about the original timeline. About Thalia — the other Thalia, the one who'd died and come back and joined the Hunters. He'd liked her. Respected her. But she had never been like this. Never been the protector, never been the one who stayed behind while others ran.
+Percy repeated the pattern back to her. He'd held a similar watch in the life he remembered, but that wasn't useful knowledge unless he followed the rules here.
 
-"You're good at it," he said. "The protection thing."
+Thalia settled on a flat rock, took a small block of wood from her pocket and began shaving curls from its edges. The carving wasn't a distraction; between strokes she looked up to check the same three gaps in the trees, each at a different distance. Percy watched the gaps too.
 
-"I've had practice." Her voice was flat. "Annabeth used to have nightmares. Still does, sometimes. I'd check on her — make sure she was okay. I'd make sure nothing was coming." She paused. "She doesn't know I do it. She thinks I sleep through the night like everyone else."
+"You've done this a lot," he said.
 
-Percy didn't know what to say. He thought about Annabeth — the version of her he'd known for years, the one who'd commanded armies and faced down gods. The idea of her having nightmares that required her sister to watch over her felt impossibly young. And impossibly precious.
+"Someone has to." She carved another narrow groove. "Annabeth thinks I come out here because I like being alone. Sometimes I do. Mostly I like knowing which way trouble is likely to arrive."
 
-"She's lucky to have you," he said finally.
+"She said you helped raise her."
 
-"Don't tell her that. She'll get soft." Thalia's mouth twitched — almost a smile. "Soft is dangerous. Soft gets people killed."
+Thalia's knife stopped. "She said that?"
 
-"Maybe. Or maybe soft is what keeps you human."
+"She told me you're sisters, and you've looked after her for years."
 
-Thalia stopped walking. She turned to look at him, and her expression was unreadable — electric eyes searching his face like she was looking for something she'd lost.
+"Yes, well. That's what happened." Thalia scraped away a splinter with her thumbnail. "Lately she looks at me as if I'm explaining somebody else's childhood. Then I get angry, and that doesn't exactly help."
 
-"You talk a lot for a twelve-year-old," she said.
+Percy knew more about the cause than he was free to tell. Annabeth had trusted him with it, not given him permission to explain it. "She said it's difficult. I can't tell you what she's thinking beyond that."
 
-"I grew up with old people. Underwater, everything moves slow. You learn to fill silences."
+"I didn't ask you to translate my sister."
 
-A surprised laugh escaped Thalia — quick, sharp, cut short like she didn't approve of it. "That's not how time works."
+"No. You asked me to stand watch."
 
-"How would you know? You've never been underwater."
+"Exactly." She pointed at the trees without looking at him. "Two o'clock, near the broken trunk."
 
-"Fair point." She turned and kept walking. "Come on. We're almost to the observation point."
+A deer had moved into the gap. Percy saw it and held the horn steady, waiting to see whether it would cross the cord marker.
 
-They climbed a small rise, and suddenly the view opened up — the whole eastern approach spread out before them, a sea of trees stretching toward the distant sound. Percy could see why this was a good observation point. From here, you could track movement for miles. You could spot anything coming before it got close.
+"Why didn't you signal?" Thalia asked.
 
-Thalia produced a small horn from her belt — carved from wood, old, worn smooth by years of handling — and held it out to him.
+"You said movement, even an animal. I thought it wouldn't count if it was just a deer."
 
-"Take it," she said. "If you see something moving in the tree line — anything, even an animal — you blow this once. Long and low. That means 'I see movement.' Short and sharp means 'contact.' Three short means 'retreat.'"
+"You don't know that until you've watched it. The horn is for telling someone else what you saw, not for showing off how quickly you can decide it's harmless." She held out her hand. "Give it back for a moment."
 
-Percy took the horn. It was warm from her body heat, and it smelled faintly of lightning and wildflowers. "You want me to stand watch?"
+He did, and she sounded one long note that carried over the hill. A faint answering call came from farther down the border.
 
-"I'm testing you. If you do this well, I'll consider you useful."
+"Now the next watch knows where to look," she said, returning it to him. "Try not to make the same decision for them."
 
-"How long?"
+Percy felt his face heat. He had fought battles with older bodies and bigger weapons, yet here he'd failed an uncomplicated instruction because he'd assumed he knew better. He kept watching while Thalia resumed carving.
 
-"As long as I say. Starting now."
+After a while he asked, "Do you always work on that when you're out here?"
 
-So Percy stood watch. And Thalia settled onto a rock nearby, pulling out a whittling knife and a piece of wood that she shaped with quick, efficient strokes. She didn't talk. She didn't fidget. She just sat and carved and watched the tree line with the focus of someone who'd spent years doing exactly this.
+"Not this one. I keep a piece of wood around because it stops me picking at my nails." She turned the little shape over: a winged panther, one of its ears still too large. "I carve the same animal until I get it right. It saves having to decide what to make each time."
 
-Percy found himself studying her. This Thalia — the sister, the guardian, the protector. She was different from the Thalia he remembered. Harder. More controlled. More tired, in a way that went deeper than physical exhaustion.
+"Who taught you?"
 
-She carried her father's absence like a stone in her chest. She carried the press of being strong because no one else would be. She carried everything, and she never complained, and she never asked for help.
+"My father showed me once." She made a small cut, then looked at the result with open dissatisfaction. "He left before I got it right, so I kept practicing. That doesn't mean I think he's wonderful."
 
-Percy respected that. He understood it. But he also knew — from his own experience, from the years he'd spent being the person everyone leaned on — that carrying weight alone was a kind of slow suicide.
+Percy didn't argue. He knew how little a single visit from a god could explain about being that god's child.
 
-"You're thinking too loud," Thalia said without looking up from her carving.
+"What do you call it?" he asked.
 
-"Sorry."
+"This one? Annabeth." Thalia held it at arm's length, measuring the uneven wings. "She'd say it's crooked. Then she'd tell me how to fix it."
 
-"It's fine. I can hear you chewing on something. It's distracting." She held up the piece of wood — a small figure, winged and fierce. A panther, maybe. Or a griffin. "What are you thinking about?"
+"Sounds like her."
 
-Percy considered lying. Considered deflecting. But Thalia had given him honesty first, and he owed her the same.
+"You've known her a day."
 
-"I was thinking about how you carry everything alone," he said. "And how that can't work forever."
+"She's made an impression."
 
-Thalia's knife paused. She looked up, and her expression was guarded — but not hostile. simply careful.
+Thalia glanced at him. It wasn't forgiveness or welcome, just a reminder that she was paying attention. "Be careful what you assume about her."
 
-"Is that what you think?"
+"I will."
 
-"I know it. I've been there." He turned to face her fully. "The person everyone leans on. The one who can't afford to break down, because everyone's watching. I've been that person. And it almost killed me."
-
-"Didn't though."
-
-"No. Someone helped me. Gave me permission to be weak sometimes. To let other people carry things for a while." He held her gaze. "You need that, Thalia. Someone to carry things for you."
-
-Something flickered in her eyes — surprise, maybe, or something more vulnerable. She looked away first, back at the tree line.
-
-"I'm fine," she said.
-
-"You're the strongest person I know. But being strong isn't the same as being okay."
-
-Thalia was quiet for a long time. The sun moved across the sky. Birds called in the distance. The forest breathed its ancient breath.
-
-"You're strange," she said finally. "You know that? Anyone else would have just — I don't know. Complimented me. Tried to make friends. But you're just... honest."
-
-"Is that bad?"
-
-"It's different." She set down her carving, and when she looked at him, her eyes were less electric and more human. "It's not bad. Just different."
-
-"I can work with different."
-
-"Yeah." A small smile. "I guess you can."
-
-She stood and brushed off her pants. "You did good today. For the record. You spotted a deer at the two o'clock position about ten minutes ago and didn't blow the horn."
-
-"I didn't want to bother you."
-
-"I noticed anyway. That's what I'm trained to notice." She held out her hand for the horn. "We're done. Go eat. Rest. Do whatever demigods do when they're not on patrol."
-
-Percy handed back the horn and started down the hill. Then he stopped.
-
-"Your carving."
-
-"Hmm?"
-
-"The panther. It's really good."
-
-She looked down at the piece of wood in her hands, and something in her expression softened. "My dad taught me. Before everything went bad. He said every panther needs a name."
-
-"What did you name this one?"
-
-Thalia looked at the fierce, winged creature in her hand. Her voice was quiet.
-
-"Annabeth. I always name them Annabeth. Because she's the one thing I'm fighting for. She's the reason I keep going."
-
-Percy's chest ached. "That's... a beautiful name."
-
-"It's just a name." But Thalia was smiling, small and private and real. "Now go. Before I assign you another patrol."
-
-Percy left her to her carving, and as he walked away, he heard the soft sound of her knife against wood, and he thought: this girl is going to be one of the most important people in this timeline. And she doesn't know it.
-
-And I can't tell her why.
+They finished the watch without further confidences. On the way down, Thalia took the horn back and returned it to the loop on her belt. She had shown Percy a useful skill, admitted a small piece of her own history, and corrected him when he ignored the signal. None of that made him a trusted friend yet, but he was beginning to understand why Annabeth both loved her sister and chafed at being watched so closely.
 
 ---
 
-That evening, Percy found Annabeth at their spot by the lake. She was sitting with her feet in the water, cold lapping sharp around her ankles while sun lingered warm on her shoulders, staring at the surface, and she looked tired. More tired than a twelve-year-old should look.
+That evening Percy found Annabeth at the canoe lake, sitting on the dock with a folded list of observations balanced on her knees. The paper was damp along one edge. She moved it when he sat so neither of them would step on the writing.
 
-"Hey," he said, sitting beside her.
+"Was that Thalia with you on the eastern path?" she asked.
 
-"Hey."
+"Yeah. She taught me the horn signals and informed me I'm apparently unqualified to identify a deer."
 
-They sat in silence for a while. Then Percy said, "I talked to Thalia today. About your nightmares."
+Annabeth looked at him. "Did you break a rule?"
 
-Annabeth's expression flickered. "You talked to my sister about—"
+"She would say I ignored one. She'd be right."
 
-"She's been watching over you. Checking on you at night. Making sure nothing's coming." Percy paused. "She doesn't want you to know."
+"She usually is about patrols." Annabeth drew a line through one of the guesses on her page. "What else?"
 
-Annabeth was quiet for a breath. "Of course she doesn't."
+Percy hesitated. He could have left Thalia's private comment alone, but he hated seeing Annabeth convinced that all her sister wanted was control. "She told me she checks the lookouts because she worries about threats reaching you. She said she's been watching out for you at night too."
 
-"She says you don't know how to take care of yourself."
+Annabeth's pencil stopped. "Did she ask you to tell me that?"
 
-"I don't. Not... not the way she means." Annabeth pulled her knees to her chest. "In my other life, I learned to take care of myself. I learned to fight, to plan, to survive. But this body — this version of me — she didn't have to learn any of that. She had Thalia helping her. I don't remember how much I did for myself, or how much my sister carried."
+"No."
 
-"And you resent it."
+"Then why did you?"
 
-"I resent not deserving it." Annabeth's voice was small. "I've memories of a life where I earned everything. Where I fought for everything. And now I'm here, in a life where I was given everything, and I don't know who I'm without the earning."
+"I thought you'd want to know she wasn't only checking up on you to make you miserable."
 
-Percy put his arm around her. "You're you. The earning doesn't change that."
+Annabeth put down the pencil. "Percy, I know she cares about me. She's the one who has to live with me every day. I don't need you carrying private things between us because neither of us knows how to say them."
 
-"How do you know?"
+He hadn't meant to insert himself into an argument, but that was exactly what he'd done. "You're right. I shouldn't have repeated it."
 
-"Because I know you. We fought for each other for years. The help Thalia gave you here doesn't cancel what you can do, or make her love a debt you have to earn."
+"Thank you." She looked down at the sheet, then pushed it toward him. "I still don't remember most of the things she says we did. I can be grateful for her help and angry that everyone expects me to remember needing it. Both are true."
 
-Annabeth leaned into him. "You're annoyingly wise for someone who's twelve."
+Percy read the three headings she'd drawn: *Remembered*, *Told*, and *Observed here*. Beneath *Observed* she'd written that the cabin window latch rattled and Thalia had repaired it yesterday. The plainness of the record made him think of the folded paper in his own pocket.
 
-"I remember the five years after twelve. Some of it apparently stuck."
+"I made a list too," he said. "Mine's mostly about strange flowers and the lake."
 
-She laughed — small, surprised, real. And for a heartbeat, the weight lifted, and they were only two kids sitting by a lake, and the world was almost bearable.
+"That's fine. Strange doesn't mean sinister." She gave him a sideways look. "We need actual evidence."
 
-Almost.
+"That's what you said yesterday."
+
+"And you've already needed to hear it twice."
+
+They compared notes until the light along the shore was too weak to read by. Percy put an arm around Annabeth when she leaned against him; neither asked the other to solve their new families before breakfast. When they parted, Annabeth kept her list, and Percy kept his. Thalia's private worries would stay between the people who had actually voiced them, at least until Annabeth decided what she wanted to say to her sister.
 
 ---
 
