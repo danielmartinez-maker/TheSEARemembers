@@ -371,6 +371,70 @@ Chris called, "Tilt opposite! Don't both go left! Left-left is death!"
 
 Clarisse called, "BREATHE THROUGH YOUR NOSE!"
 
+Percy paused outside the arena, then went back through the door.
+
+Clarisse had already turned to her training dummy, and Silena was collecting the scattered pencils from the fence. Annabeth waited by the exit, her expression asking whether he wanted her to come with him. Percy nodded.
+
+"One more thing," he said.
+
+Clarisse lowered the spear. "Did you forget how to breathe?"
+
+"No. I wanted to ask you something without turning it into a joke."
+
+Silena sat down on the low wall. Clarisse kept standing, though she leaned the spear against the rack so she could listen.
+
+Percy rubbed his hands together. "Do you think we're making too much of this?"
+
+Clarisse considered. "Probably."
+
+"Helpful."
+
+"You asked for an answer."
+
+Silena smiled. "I think the storm frightened you. Sometimes after a scare people want to do something carefully and make it feel safe again. That doesn't mean you don't already know how to kiss each other."
+
+Annabeth nodded. "That's exactly it."
+
+Percy looked at Clarisse. "And you?"
+
+"I think if you want time alone, say so and mean it. Don't ask ten different people for approval and then complain when they have opinions."
+
+He winced. "Fair."
+
+Clarisse looked at Annabeth. "And you don't have to explain every detail to Thalia."
+
+"I want to tell her we're going to the dock."
+
+"Then tell her you're going to the dock. You don't have to give her a schedule of how long you plan to hold hands."
+
+Annabeth smiled reluctantly. "She'll probably ask."
+
+"She can ask. You can say no."
+
+Percy thought about how much he wanted Clarisse and Silena to approve of him as a brother, and how easily that desire could turn their lives into a set of permissions he tried to collect before making any decision. He was thirteen, but he remembered having been seventeen. He knew what it was to love Annabeth, and he was still allowed to feel awkward about being a boy who could barely keep a shirt free of pizza.
+
+"Thanks," he said.
+
+Silena reached for his hand, then waited until he offered it. "And you can tell us about it afterward if you want. You don't owe us a report."
+
+Clarisse nodded. "No betting pools either. I'll tell the Stolls to knock it off if they start."
+
+"Please do," Annabeth said.
+
+Percy looked at his sisters. Clarisse had learned to share poems only when she wanted them read; Silena had learned not to turn every act of care into responsibility for everybody else's happiness. They weren't perfect. Neither was he. But the family could disagree without pretending any of them were strangers.
+
+He glanced at Annabeth. "Ready?"
+
+"For the dock or dinner?"
+
+"Both."
+
+"Then let's go."
+
+They left the arena. Behind them Clarisse resumed her lesson, this time explaining to the younger trainees why a shield could be lowered during a pause but not during an active drill. Silena took the notes and helped the next camper put on a properly fitted helmet. Their afternoon went on. The couple's evening wasn't the only story happening at camp.
+
+Percy held Annabeth's hand on the path. He was glad his sisters had given him advice. He was even glad Clarisse had disagreed with him. Advice was something he could use or leave, not a ritual that changed the status of the relationship he'd already chosen.
+
 ---
 They spent the rest of Sunday in a state of heightened, ridiculous nerves that Grover Underwood later described as watching two squirrels try to defuse a bomb.
 
