@@ -787,7 +787,7 @@ Silena paused. "We weren't planning to."
 
 "Understood," Silena said. "We'll ask."
 
-Thalia nodded as well, but she was already lifting the crate of cups again. Annabeth couldn't tell whether she'd heard every word. There were still too many people moving around them.
+At the other end of the pavilion, Thalia was lifting the crate of cups again. Annabeth couldn't tell whether she'd heard the exchange. There were still too many people moving around them.
 
 Nico handed back the ruler. "So, you're not going to inspect every hook?"
 
