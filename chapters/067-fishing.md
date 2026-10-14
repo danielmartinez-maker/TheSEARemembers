@@ -634,6 +634,140 @@ Thalia, who missed nothing despite appearing to be asleep in the sun with her pl
 
 ---
 
+The group was packing up the meal when two younger campers approached with an empty bucket and a notebook.
+
+"Chiron said we could ask you something," the girl with the bucket said to Percy.
+
+"What about?"
+
+"Fishing without hooks. My friend thinks you just ask the fish."
+
+The boy beside her opened the notebook. In the margin he'd drawn a fish suspended above a bucket, with an arrow pointing upward.
+
+Percy looked at the dry bucket. "What were you planning to put in there?"
+
+"A fish," the boy said.
+
+"Right. I gathered that. Then what?"
+
+"Study it. Maybe show it at dinner."
+
+"Then how would you get it back into the water?"
+
+The boy hesitated. He hadn't thought about that part.
+
+Grover set down his plate. "You could study the fish while they're still swimming. Fish do their best work in water."
+
+"We can't see them from far away."
+
+"Then find a safe place to watch," Annabeth said. "Start with what you can observe before deciding what you need to collect."
+
+The girl examined the bucket. "Can we use this for something else?"
+
+"We could use it for practice," Percy offered. "But you'd need permission from the canoe instructor if you're doing anything at the dock."
+
+"Even if there aren't any fish in it?"
+
+"Especially then," Annabeth said. "An empty bucket is still a heavy thing if it falls on someone's foot."
+
+Clarisse came over. "And you don't want a loose handle. That's a good way to lose the bucket."
+
+The girl held up a piece of cord. "I thought I'd tie it here."
+
+Clarisse studied the cord. "That'll slip."
+
+"How do you know?"
+
+"Because I can see how it's tied."
+
+"Can you show me?"
+
+Clarisse glanced at Percy, as though she suspected he'd somehow arranged the question. But the girl was already sitting in the sand, the bucket between her knees. Clarisse crouched to show her how to secure the handle. She made the girl repeat the steps until she could explain what each turn of the cord was doing.
+
+"Now try lifting it," Clarisse said.
+
+The girl did. The handle stayed secure.
+
+"Put some stones in and try again."
+
+She added stones from the beach. The bucket rose a few inches. Nothing spilled.
+
+"There. You can use it to carry things. Doesn't mean you're allowed to lower it from a dock without anyone watching," Clarisse said.
+
+"I know."
+
+"Good."
+
+Thalia inspected the cord. "You've made another instructor."
+
+"Nobody asked you," Clarisse answered.
+
+The boy had been studying Annabeth's notes. "What's this diagram?"
+
+"Water moving around a piling."
+
+"It goes backward?"
+
+"Part of it does. That's called an eddy. Come over here and I'll show you what I mean."
+
+Annabeth led him to a shallow inlet well away from the remaining embers. She floated a small leaf in the water. It traveled toward a rock, turned in a slow circle, then moved out along the edge of the current.
+
+"Percy didn't make that happen," she told him. "The water does it on its own."
+
+"Could he make it go the other way?"
+
+"Sometimes," Percy said. "But if we're studying the actual current, I shouldn't interfere."
+
+The boy watched the leaf complete a second turn. "Can I draw it?"
+
+"That's an experiment," Annabeth said, handing him a pencil.
+
+Ella brought her field guide and compared the birds and small creatures they could see from shore with illustrations on its pages. Grover suggested counting how many animals they could identify without disturbing a single one. It began to sound less like a performance Percy had to provide and more like a lesson the children could actually run themselves.
+
+The girl came back with her bucket and saw a crab beside a wet rock.
+
+"Can I get close enough to count the legs?"
+
+"From this side," Percy said. He showed her an easier place to stand. "That rock's slippery."
+
+She crouched behind the line he'd indicated. "Eight."
+
+"Ten, if you count the claws," Ella corrected. "Crustaceans. Ella loves crustaceans."
+
+"Are you sure?"
+
+Ella opened the guide and showed her. The girl counted again, slower this time.
+
+"Ten," she agreed.
+
+She wrote it down in large, unsteady letters. Percy was glad she'd asked instead of trusting the first answer she heard, even though Ella was almost always right about the things she loved.
+
+Chiron arrived while they were putting the books away. He examined the pages of sketches, the practice bucket, and the unused patch of beach where the children had worked.
+
+"An observation lesson?" he asked.
+
+"We changed our plan," the boy said. "We thought we wanted to catch something. We mostly wanted to know how to identify it."
+
+"That is a useful distinction."
+
+"Can we do it at the canoe lake?"
+
+"Bring me a written proposal first. Then the canoe instructors can tell you which areas are safe and what activities are permitted."
+
+The boy looked unhappy about the delay, but the girl nodded. "We can do that. We have drawings now."
+
+"Good. Don't make the drawings into promises about what you'll see. Water and wildlife don't read your plans."
+
+After he left, the children packed their materials. They thanked Ella for the field guide, Annabeth for the diagrams and Clarisse for showing them how to secure the bucket. Percy received a thank-you for declining to put a fish inside it.
+
+"That's a strange thing to thank me for," he said.
+
+"It was the right thing," the girl replied.
+
+They walked away toward the cabins, the bucket still empty, with a notebook full of questions neither had known to ask when they came.
+
+---
+
 The afternoon wound down golden and slow.
 
 The fire burned to embers. Tyson took the buckets to wash them in the surf. Ella fell asleep on her scrolls in the sun, Silena's blanket tucked around her wings. Grover fell asleep beside her with his head on his pack.
