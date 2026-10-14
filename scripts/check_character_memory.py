@@ -33,6 +33,18 @@ CHECKS = {
         "present": ("without a rainbow between us", "meet you in person"),
         "absent": ("And you must be Annabeth",),
     },
+    "chapters/066-jason-s-letter.md": {
+        "present": ("One person doesn't get to decide everyone's ready",
+                    "Then remember it for the next letter",
+                    "The courier has a destination and a receipt"),
+        "absent": ("Jason already answered Thalia's new flag question",),
+    },
+    "chapters/133-annabeth-s-birthday.md": {
+        "present": ("Don't display any of my drawings unless you ask me first",
+                    "Annabeth couldn't tell whether she'd heard the exchange",
+                    "The line of stars moved well above everyone's heads"),
+        "absent": ("Thalia promised not to move Annabeth's map",),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),
