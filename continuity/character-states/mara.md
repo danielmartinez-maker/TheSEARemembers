@@ -30,3 +30,11 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: No new firsthand knowledge beyond repair-team work established.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 18 · verified carry-forward
+- **[Ch18](../../chapters/018-the-forge.md):** Named forging/repair camp role elsewhere; Ch018 Beckendorf supervises; don't attribute a different worker's project simply by a common name.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 20 · verified carry-forward
+- **[Ch20](../../chapters/020-cake-and-lightning.md):** No new firsthand bakery role until Ch023, whose kitchen supervisor will be this name; current chapter birthday cake supervised camp kitchen by other named staff. Do not assume same adult.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.

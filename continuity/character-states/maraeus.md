@@ -30,3 +30,11 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Ongoing Hall work exists but no new identified Maraeus disclosure.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 18 · verified carry-forward
+- **[Ch18](../../chapters/018-the-forge.md):** Ch018 forge safety led by Beckendorf; do NOT conflate with Mara or assume Maraeus made Clarisse's spearhead.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 21 · verified carry-forward
+- **[Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md):** No direct observation of strawberry scales, records are Silena's.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.

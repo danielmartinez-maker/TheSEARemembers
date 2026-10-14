@@ -33,3 +33,35 @@ Annabeth's mother in her ORIGINAL remembered life, not altered-life biology; onl
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Annabeth briefly internally recalls Athena as original-life mother but does not tell Zoe or Clarisse. They know memory gaps since fever, not erased-life family details.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 13 · verified carry-forward
+- **[Ch13](../../chapters/013-the-father-who-changes-faces.md):** Annabeth privately remembers mother Athena from original life; Zeus who arrives is father in altered history, not a replacement of Annabeth's earlier-life childhood memories.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 14 · verified carry-forward
+- **[Ch14](../../chapters/014-letters-from-under-the-sea.md):** Amphitrite introduced to Annabeth as Zeus child, not told previous Athena motherhood.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 15 · verified carry-forward
+- **[Ch15](../../chapters/015-beryl-s-letters.md):** Annabeth reflects on Athena original-life motherhood compared with changed Beryl; Thalia hears report of Beryl drunk-driving death, NOT necessarily new Athena details until Ch018.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 16 · verified carry-forward
+- **[Ch16](../../chapters/016-capture-the-flag.md):** Annabeth's CTF tactical abilities from earlier-life training do not make Athena physically present in altered camp.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 18 · verified carry-forward
+- **[Ch18](../../chapters/018-the-forge.md):** Annabeth DIRECTLY tells Thalia Athena was her previous-life mother; Thalia may recall words, NOT first-person memories. Owls remain personally meaningful to Annabeth while she is a Zeus child now.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 19 · verified carry-forward
+- **[Ch19](../../chapters/019-the-brother-across-the-country.md):** Jason does not hear full Athena-parentage history in Roman Iris call.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 20 · verified carry-forward
+- **[Ch20](../../chapters/020-cake-and-lightning.md):** Pine-tree and lightning birthday tokens don't disclose Athena details to whole camp.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 22 · verified carry-forward
+- **[Ch22](../../chapters/022-storm-training.md):** Annabeth privately remembers Athena craftsmanship while learning Zeus storm powers; Jason gets no older-life memory.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.

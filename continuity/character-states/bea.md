@@ -36,3 +36,19 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: FIRSTHAND revises next drill with Thalia to daylight route walking without mock emergency, leaving risky upper-bank crossing for counselors until safe. Her Ch005 shield lesson and Ch006 evacuation correction are cumulative.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 16 · verified carry-forward
+- **[Ch16](../../chapters/016-capture-the-flag.md):** Camp evacuation route training from Ch005–007 stays relevant when planning CTF, even if no named direct Bea action in this game; don't assign unseen stations.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 19 · verified carry-forward
+- **[Ch19](../../chapters/019-the-brother-across-the-country.md):** No new independent Bea/Jason encounter documented.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 21 · verified carry-forward
+- **[Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md):** No named Bea action tied to jam quantity; existing evacuation skills persist.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 22 · verified carry-forward
+- **[Ch22](../../chapters/022-storm-training.md):** No direct static-training episode established; does not inherit Jason's recollections.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.

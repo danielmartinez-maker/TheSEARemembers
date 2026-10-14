@@ -30,3 +30,23 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: visits Cabin One with Nico for cleaning inspection, hears Annabeth describe post-fever memory gaps only. Does NOT know Annabeth's prior-life Athena-mother memories, Tartarus, or full rewrite. Attends mixed dinner, not a new friend to Percy/Annabeth.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+### Chapter 14 · verified carry-forward
+- **[Ch14](../../chapters/014-letters-from-under-the-sea.md):** FIRSTHAND: present at dock Iris exchange and later camp inquiry; she already knew Percy by Hall investigation, does not gain old-life autobiographical information.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 16 · verified carry-forward
+- **[Ch16](../../chapters/016-capture-the-flag.md):** FIRSTHAND: plays CTF and intercepts crossings, knows Percy/Annabeth are romantically close but not why their tactical familiarity is deeper.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 17 · verified carry-forward
+- **[Ch17](../../chapters/017-lake-day.md):** FIRSTHAND: swims honest nonmagical surface race against Percy and WINS by two seconds, coaches turn mechanics. Her library/Hecate talent doesn't mean she never participates in ordinary camp play.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 20 · verified carry-forward
+- **[Ch20](../../chapters/020-cake-and-lightning.md):** Can be present among wider birthday party only if source shows, no direct new memory secret.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 22 · verified carry-forward
+- **[Ch22](../../chapters/022-storm-training.md):** Named around training but no direct ward authority; Chiron conducts supervision. She does not inherit Thalia's private lessons.
+- **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
