@@ -2,7 +2,7 @@
 
 Mail came to Camp Half-Blood on Tuesdays and Fridays, assuming the wind nymphs felt like cooperating, assuming no harpies got possessive over a glossy catalog, assuming Mr. D wasn't in a mood to declare that all post was mortal nonsense and set it on fire.
 
-On Friday, the air smelled of crushed strawberries where the early carts crossed behind the pavilion, and the wind off the Sound was cold enough that Thalia kept her jacket zipped. She was trying not to watch the mailbag. A letter could mean news about Jason, but certain handwriting could rearrange the whole day. Percy Jackson was already at the breakfast pavilion when the mail bag thumped down onto the Hermes table, trailing oak leaves.
+On Friday Percy was at the breakfast pavilion when the mailbag hit the Hermes table, scattering leaves over somebody's toast. Strawberry carts had already crossed the path, and a cold wind from the Sound kept stirring the napkins. Across the pavilion Thalia sat at the Zeus table with her jacket zipped, watching the post without admitting she was interested. Percy remembered that the letters they'd written to Jason still had no confirmed delivery. He hoped for a reply about the Roman mail route; he didn't know what the pale-blue envelope at the top of the bag would do to Thalia's day.
 
 "Mail call!" Travis Stoll shouted, standing up on the bench with the bag upended. "Love letters, blackmail material, and bills!"
 

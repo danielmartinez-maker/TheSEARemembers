@@ -1,11 +1,9 @@
 ## Chapter 19: The Brother Across the Country
 
 
-Thalia Grace woke because Annabeth had been up long enough to wear a pencil down to its last inch. The scratching from the bunk below reminded her of mornings when her little sister used to cover motel receipts with drawings to make temporary rooms feel less temporary. Thalia could remember those hours; Annabeth now knew them only from being told. It was not an easy difference to carry into a day when they might finally hear from their brother.
+Thalia woke before the first conch because static was gathering around Cabin One's window latch. It wasn't prophecy. She had never dreamed in green mist or seen futures in her sleep; her body simply noticed the pressure before a storm. When she sat up, she realized Annabeth had been drawing for almost an hour. Pencil scratched across graph paper with a rhythm Thalia remembered from years when her sister covered the backs of motel receipts in sketches of imaginary houses.
 
-It wasn't oracle business. She wasn't an oracle. She didn't get prophecies in her sleep or wake up with green mist coming out of her mouth. It was older than that, more physical. The air tasted like ozone before a storm, coppery and sharp on the back of her tongue. Her hair lifted a little at the ends with static no matter how many times she braided it back. Below her bunk, in Cabin One — Zeus's cabin, which had gone from echoing and empty to crowded and cluttered in the last year — Annabeth was already awake, pencil scratching against paper.
-
-Thalia stared at the underside of the cabin roof for a long minute and listened to that pencil. Scratch, pause. Scratch scratch, pause. The rhythm of Annabeth thinking too fast for her hand to keep up.
+Thalia had watched Annabeth grow up through missed meals, Beryl's broken promises and finally the safety of camp. Annabeth believed those years were real when Thalia told her, but could not retrieve them herself. Their brother Jason was even farther away. He had been too little when they separated to remember much of the household at all. Chiron had worn a careful expression when Thalia delivered her patrol report the previous night. She couldn't stop wondering whether it meant news about Jason.
 
 "You've been up for an hour," Thalia said, her voice rough with sleep.
 

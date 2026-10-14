@@ -2,12 +2,11 @@
 
 
 
-Percy had heard the harvest conch before, but he'd never been responsible for helping get Cabin Three to the field before the picking crew formed. Clarisse had put the route roster on the door, Silena had labelled the baskets, and somebody had borrowed his dry gloves. Percy found a spare pair and decided it wasn't worth holding up the group to find the thief. Being part of a household sometimes meant turning up for work before anybody had time to complain.
+The harvest conch woke Percy before anyone in Cabin Three could pretend not to hear it. Clarisse's assignments were pinned beside the door, and Silena had labelled the collection baskets the night before. His dry gloves were missing. Percy looked under his bunk, failed to find them and decided to borrow a spare pair rather than delay the entire crew.
 
-"Up! Up! Harvest crew, boots on!" The voice of Mr. D echoed across the cabins, magically amplified and deeply annoyed. "Yes, yes, your beauty sleep is over. The strawberries will rot if you dawdle and then where will we get money for your little horse camp? Chop chop!"
+"Up! Harvest crew, boots on!" Mr. D's voice carried over the cabins, magically amplified and deeply irritated. "The strawberries will rot if you dawdle, and then where will we get money for this little horse camp? Chop chop!"
 
-Percy sat straight up in his bunk, hair sticking in seven directions, salt still crusted behind his ears from yesterday's canoe lesson. The Poseidon cabin was quiet except for the drip of the fountain in the corner and the soft clink of seashells on his windowsill.
-
+Percy stood, found his shirt and looked toward the lower field. The air smelled of ripe fruit and bruised leaves. Harvest duty wasn't exciting, but he'd lived here long enough to know that sword lessons depended on people who also cleaned tools, repaired fences and brought food to the kitchens.
 He'd been at camp long enough to recognize which arguments would delay breakfast and which would get him an extra inventory form from Silena. Today was different. Today was Harvest Day, which apparently happened several times a season, when every available camper from age twelve up got drafted into picking the famous Camp Half-Blood strawberries — the ones that kept the camp funded in the mortal world, grown extra sweet and extra fast thanks to Dionysus and Demeter kids working overtime.
 
 He pulled on his orange CAMP HALF-BLOOD shirt, shorts, and sneakers that were already stained pink from last week's berry snack incident, and stumbled out into the morning light.

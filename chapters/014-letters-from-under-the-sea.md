@@ -2,7 +2,7 @@
 
 The gulls woke Percy before the conch did.
 
-It took Percy a moment to identify the sound as ordinary gulls quarrelling over somebody's abandoned breakfast near the canoe lake. During his recent weeks back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters striking palace windows. Amphitrite and Triton had told him what those noises meant. They hadn't given him back the childhood in which he'd first learned to recognize them. Amphitrite had explained the low morning hum of the city currents. None of it sounded like hoarse surface gulls fighting over a french fry near the canoe lake.
+Percy listened until he recognized surface gulls fighting over crumbs near the canoe lake. In the weeks he'd spent back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters tapping against palace windows. Amphitrite had named the birds and explained the quiet hum of the city currents. Those lessons were things he remembered from his recent visit; they were not proof that he could recall growing up in the palace. He could miss Amphitrite without knowing how to answer her stories about the little boy she'd raised.
 
 He lay in his bunk in Cabin Three and listened to them and felt homesick in a way that sat right behind his teeth.
 

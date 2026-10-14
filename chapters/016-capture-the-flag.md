@@ -1,6 +1,6 @@
 ## Chapter 16: Capture the Flag
 
-The Poseidon cabin smelled like salt and fresh paint, which was weird because nobody had painted anything in there since approximately the Bronze Age, but Percy had decided not to question it. He was sitting cross-legged on the floor with a bowl of goldfish crackers in his lap, trying very hard to look like a normal twelve-year-old who had not spent the last three years learning how to plan ambushes with his girlfriend.
+Percy sat cross-legged on Cabin Three's floor with a bowl of goldfish crackers and a practice map between his knees. The room smelled of cedar, salt and leather conditioner from Clarisse's recently repaired shield. He was trying to look like an ordinary twelve-year-old preparing for capture the flag, rather than someone who'd spent years planning alongside the girl on the opposing team. Every time Clarisse drew another line on the map, he imagined where Annabeth would disagree. His sister had already learned to recognize that expression.
 
 This was harder than it sounded.
 

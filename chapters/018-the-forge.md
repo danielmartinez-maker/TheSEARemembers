@@ -1,8 +1,6 @@
 ## Chapter 18: The Forge
 
-Percy knew better than to trust Annabeth when she showed up before breakfast with a rolled-up piece of graph paper under her arm and that particular look on her face.
-
-Annabeth had been up late at her desk in Cabin One, and Percy recognized the tight roll of graph paper by the bent corners and graphite on her knuckles. It meant she'd worked out most of the design in her head and now needed somebody to explain why the materials at camp might object. He liked being the person she came to, even when he knew he'd wind up hauling boards.
+Percy recognized Annabeth's rolled graph paper before she reached the Poseidon table. The edges were creased, and graphite on her wrist told him she'd drawn and erased several versions. He knew the routine: she explained why an angle mattered, he asked what materials they had, and together they found somebody willing to lend them a workshop. It was an old partnership even if the other campers thought it had begun a few weeks ago. He watched her rescue the paper from a splash of orange juice and waited to hear what she wanted to build.
 
 "No," he said immediately, mouth full of toast.
 

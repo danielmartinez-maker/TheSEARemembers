@@ -1,14 +1,10 @@
 ## Chapter 13: The Father Who Changes Faces
 
-Thalia noticed that the clouds had stopped moving while she was trying to fix the stubborn latch on Cabin One's shutter. She'd already heard Chiron's messenger, so the motionless sky wasn't a surprise. It was a confirmation that her father could announce himself to every camper without first asking whether his daughters wanted to see him.
+Thalia was trying to coax a bent hinge into place on Cabin One's shutter when she noticed the sky. The canvas above the Hall's broken cornice still moved in the sea breeze, but the clouds had stopped drifting. Chiron had sent word that Zeus would be visiting at noon, and apparently their father intended the entire valley to know it before his daughters had finished breakfast.
 
-It was a Tuesday morning in late winter, still months from the summer-solstice deadline Percy had warned them about, and Camp Half-Blood was doing its best impression of normal. The strawberry fields smelled like sun-warmed sugar. The lake glittered. Somewhere down by the cabins, the Apollo kids were tuning guitars badly enough that even the dryads were wincing.
+It was Tuesday in late winter. Camp was busy repairing a building, feeding its campers and finding volunteers for the strawberry crews. Near the cabins, two Apollo children were tuning guitars badly enough to drive a dryad off the path. Thalia set down her screwdriver. The last time Zeus had visited, he'd worn a television actor's face and acted as though no months had passed since the previous visit. She was already rehearsing the expression she'd wear when he tried it again.
 
-And overhead, the clouds had stopped moving.
-
-The tarp above the Hall's broken cornice still lifted in the breeze, yet every cloud overhead held its shape. Thalia put down the screwdriver. She remembered other visits: Zeus arriving in another stranger's face and asking her to behave as though no time had passed. A change in the weather had never counted as an apology.
-
-Thalia stood on the porch of Cabin One with her teeth clenched and her spear leaning against the railing, and thought, *Oh. It's you.*
+Her spear leaned against the porch railing. She checked it out of habit, then caught herself. This was lunch with her father, not a patrol. The fact that she couldn't always tell the difference made her angrier than the weather did.
 
 "You're glaring at the weather again," Annabeth said from behind her, ducking under the low doorway with a book tucked under her arm and a half-finished braid slipping over her shoulder. She was twelve and barefoot and already had a smudge of charcoal on her cheek from whatever she'd been sketching that morning. "People are going to think you're challenging Ouranos to single combat."
 

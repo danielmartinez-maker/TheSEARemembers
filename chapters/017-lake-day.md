@@ -1,11 +1,9 @@
 ## Chapter 17: Lake Day
 
 
-The canoe lake smelled of mud, cut grass and sunscreen, nothing like the cold salt and metal Percy associated with Atlantis. He stepped onto the dock as the others cheered for a free day and caught himself checking the mooring line for the nearest canoe. The lake was familiar enough to call by name now; it still wasn't home, and Chiron had explicitly forbidden him to win today's race by calling a current. Percy wanted to see how far ordinary strokes could take him.
+Percy stepped onto the canoe dock and checked the nearest mooring rope before he could stop himself. The freshwater below was full of mud, reeds and half-submerged logs, unlike the cold salt water where Triton had recently taught him to let the currents take his weight. A canoe kept turning against its post because someone had tied it to the wrong cleat. Percy fixed the knot and felt the pull steady under his hand.
 
-It wasn't that it smelled *bad*. It smelled like — sun-warmed pine and sunscreen and cut grass and that sharp green algae smell around the edges where the water went shallow. It just didn't smell like home. Home smelled like cold salt and deep current and kelp forests and the iron tang that hung around the forges in Atlantis. Home smelled blue and far down.
-
-A loose canoe knocked against its post. Percy retied the wet rope before somebody slipped on it, remembering the lesson Silena had given him after the last delivery had ended up in the lake.
+Behind him the campers cheered for a free day. The shore smelled of cut grass and sunscreen, and a naiad was already arguing with somebody over an unattended picnic basket. Chiron had approved a swimming race on one condition: Percy couldn't use divine propulsion. Zoe had been practicing her turns while he'd been relearning how to swim on the surface. He wanted to find out whether he could win honestly. If he couldn't, he had every intention of asking Zoe to teach him something new.
 
 "Okay, stop making that face," Clarisse said, elbowing him hard in the ribs. She was already in her swimsuit, hair pulled back in a knot, a towel slung over her shoulder like a cape. "You look like someone told you the lake personally offended you."
 
