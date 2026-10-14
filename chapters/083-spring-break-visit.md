@@ -474,6 +474,86 @@ Hazel sighed happily. "It's cute."
 
 ---
 
+The morning before the city's holiday, Hazel took Annabeth to inspect the old library annex.
+
+Percy went with them because the Roman engineers had agreed to let visitors see the foundations, and because he had made the mistake of saying he enjoyed Annabeth's descriptions of drainage systems. Frank was also there, carrying a measuring tape and a little bag of tools borrowed from the Fifth Cohort.
+
+The building looked solid from the outside. Inside, one corner of the floor had settled. The shelves were upright, but a thin crack ran from the nearest window to the base of a column.
+
+"That's what I wanted you to see," Hazel told Annabeth. "The librarians say it's been like that for years. The engineers haven't cleared any extension while the corner is moving."
+
+Annabeth crouched beside the crack. She didn't touch it.
+
+"Do we have a record of the movement?"
+
+"Some," Frank said. "There are marks on the wall. The previous survey was last winter."
+
+Percy looked toward the far end of the room. The shelves held rolled maps and old histories, some with leather covers that had begun to curl in the damp air. The idea of a shared Greek-Roman archive had excited Annabeth since they reached camp. Now she was staring at a damaged column instead of a grand doorway.
+
+"Can you just strengthen it?" Percy asked.
+
+"Maybe," Annabeth replied. "But not before we know what caused it."
+
+Hazel showed them the drainage channel beyond the wall. It was narrow and partially filled with silt. Recent rains had left puddles beside the building. Annabeth followed the channel to an old stone culvert, then asked Frank where it discharged.
+
+He checked the plan. "Toward the lower gardens."
+
+"Does it still?"
+
+"We don't know."
+
+They asked the supervising engineer to accompany them to the garden wall. She was not pleased to find three teenagers proposing changes to a historical building. Annabeth explained what they had observed and asked whether there was an approved way to inspect the culvert without digging up the garden.
+
+The engineer listened and showed them an older survey. It confirmed that the discharge line had been narrowed when a new footpath was built ten years earlier. Nobody had measured how that affected the foundation during heavy rain.
+
+"It may be relevant," the engineer said. "It may not. We can schedule a proper inspection."
+
+Annabeth looked disappointed. "So we can't start planning the annex?"
+
+"You can draw a concept," the engineer replied. "You cannot pretend it has an approved foundation. If you want a library people can use safely, start by finding out whether the old one will remain standing."
+
+Percy smiled. It sounded exactly like a lecture Annabeth would give someone else.
+
+Hazel opened her notebook. She had been sketching the building for months, mostly from memory. Now she added a note beside the affected wall: *Foundation movement, unverified cause. Engineer's survey required.*
+
+Annabeth wrote the same line.
+
+"That's the first thing we agree on," Hazel said.
+
+"The first thing we can actually prove," Annabeth corrected.
+
+They went back inside to consider how a library might serve both camps without requiring anyone to surrender custody of precious records. Hazel explained that some Roman histories were held by families and could not simply be shipped away. Annabeth said the Greek archives had similar private letters and donated stories that were not available for general display.
+
+"Then maybe our shared annex doesn't need every original," Hazel suggested. "We could have copies people approve for study."
+
+"Yes. And a list of what has been copied, with the permission attached."
+
+Percy thought of Elena's opt-in campfire sheet, which she hadn't submitted until she knew the speakers had agreed. He told them about it without repeating the private statements, because it was the procedure, not the personal stories, that seemed relevant.
+
+Hazel nodded. "That would help. We have veterans who don't want their family histories copied for children to read."
+
+"Then we ask," Annabeth said.
+
+They sat at a long table with the supervising engineer and drew a preliminary plan. It had two entrances and clear pathways. The lower shelves would be reachable without climbing. A reading room would contain approved copies, while the protected storage rooms would remain under their respective custodians' control. The plan left a blank space where the foundation investigation needed to happen.
+
+Percy watched Annabeth hesitate over the blank rectangle. It would have been easy for her to fill it with a beautiful courtyard.
+
+Instead she wrote *pending survey*.
+
+Hazel leaned over. "I like that."
+
+"It's not very impressive."
+
+"It's honest."
+
+Frank looked at the drawings and offered to carry them to the engineer's office for registration. Annabeth wanted to bring them back to camp, but Hazel asked whether the Roman council should keep a copy. They agreed to make two marked versions: one for the Roman project file, one for Annabeth's personal sketchbook. Neither was an approved building permit.
+
+"Maybe we'll build it someday," Hazel said.
+
+"Maybe," Annabeth replied. "But not if we rush it."
+
+Percy smiled as they left. A few months earlier, he would have expected the big moment of the visit to be a battle or a prophecy. Instead it was a blank place on a drawing that both girls had decided not to fill with a guess.
+
 The middle day of the exchange belonged to the city.
 
 No drills. No war games. By arrangement for the exchange, the courts and schools closed for the day, and the legion stood down except for a token guard who wore paper crowns over their helmets and looked relieved about it. Masters served breakfast to servants. Praetors swept the principia steps while probatios supervised with clipboards and entirely too much enjoyment.
