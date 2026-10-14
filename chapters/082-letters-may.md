@@ -842,6 +842,46 @@ She labeled it, neat and sure: COMING. KEEP SEAT WARM.
 
 Mrs. O'Leary sneezed on the ink. Annabeth laughed and kept drawing around the splotch, because some marks were love too.
 
+But before the final dispatch left, Percy made one more stop at the academy office.
+
+He had been carrying a note from Chiron for three days. The centaur wanted Percy to confirm the date of the late-May visit to Camp Jupiter, the contact who would meet them at the Roman gate, and the authorization for Annabeth and Thalia to travel with him. Percy had assumed somebody else would handle the details. Every morning he'd meant to ask, and every morning there had been another class or letter.
+
+The office clerk looked at the note. "You need three separate approvals."
+
+"Why three?"
+
+"You're coming from an undersea school. Your companions are coming from camp. The Romans require confirmation of the actual visitors."
+
+Percy looked at the empty boxes. He could see why he'd put off the question. A promise from a friend felt more solid than a form. But if they arrived at a gate without the right arrangements, it wouldn't be only Percy who stood waiting.
+
+He asked what each approval required. The clerk explained, and he wrote the requirements on separate slips so he could send them to the right people. He didn't enter Annabeth's name on the final passenger list without asking her whether she wanted to go; he sent her an invitation and a clear description of the plan.
+
+She replied two days later.
+
+*Yes, I want to go. I have questions for the Roman architects. I also need to check my school assignments and ask Beryl what she thinks. Don't book the journey until we know.*
+
+Thalia's reply was shorter.
+
+*Ask first, book second. I may need a patrol swap. I'll confirm.*
+
+Percy stared at the notes and realized that not having a final answer was not the same thing as losing the plan. His friends were allowed to have schedules that didn't arrange themselves around him.
+
+He sent the office a preliminary request marked *pending traveler confirmation*. Then he wrote Chiron with the current status, listing the approvals he had and the ones he still needed. Chiron answered that the visit would be confirmed only when every required person had said yes and the Roman hosts agreed to the date.
+
+Percy put the reply beside his engineering assignment. Both had taught him the same thing: an elegant plan that ignored the needs of the people inside it wasn't finished.
+
+When Nerit saw the stack of letters on his desk, he whistled.
+
+"Are all those people coming?"
+
+"Maybe."
+
+"That's not a very satisfying answer."
+
+"It's the honest one."
+
+Percy sealed the latest envelope and carried it to the post station. He had written to the people he loved without pretending they were all in the same room or that any of them could answer immediately. The letters didn't close the distance. They made the distance something he could work with.
+
 And the mail moved on, brave through storms, carrying rooms to everyone who waited.
 
 ---
