@@ -228,6 +228,98 @@ That night Percy iced Silena's wrist and Clarisse iced Percy's shoulder, and Sil
 
 ---
 
+The first lesson did not end when Percy managed to disarm Clarisse.
+
+On the second morning, Clarisse asked Percy and Silena to help with the younger Ares trainees. One boy, Sherman, had been trying the same shield movement all week and getting angrier each time he failed. He looked at the floor rather than at Clarisse when she gave instructions.
+
+"Again," Clarisse said.
+
+Sherman didn't move.
+
+Percy watched Clarisse's shoulders stiffen. A year earlier she might have shouted. She could still shout when she thought somebody needed to hear her across an arena. But Sherman was only a few paces away, and he was already trembling.
+
+"Take a minute," she said.
+
+The boy looked surprised.
+
+"Water break. Then we figure out why the move isn't working."
+
+Sherman sat on the bench. He didn't ask Percy or Silena to sit beside him, so they stayed near the equipment racks and gave him room.
+
+Clarisse crouched in front of him and asked which part hurt. He said nothing hurt, but he couldn't make the shield rise high enough to cover his face without leaving his sword hand exposed.
+
+"Show me slowly," she said.
+
+He did. Clarisse realized the shield strap was too long for his arm. Every time he raised it the shield slipped outward and pulled his elbow away from his body.
+
+She took the shield off the practice line. "This is an equipment problem. Not a courage problem."
+
+Sherman stared at her. "I've been doing it wrong all week."
+
+"Because the shield doesn't fit. I should have checked it before the drill."
+
+Percy glanced at Silena. She looked almost proud, though she didn't say anything. Clarisse didn't need applause for correcting the mistake.
+
+They found a better shield and adjusted its grip. Sherman repeated the movement slowly, then a little faster. The shield stayed where he needed it.
+
+"Can I try with Percy?" he asked.
+
+Percy nodded. "If Clarisse says you're ready."
+
+Clarisse checked both their practice weapons, explained the stop signal and told Sherman he could end the round whenever he wanted. Percy made no effort to surprise him with a hard strike. He attacked at the pace they had agreed and waited for Sherman to raise the shield.
+
+The boy blocked twice. On the third attempt Percy changed angle, and Sherman needed to move his feet to keep up. He failed, swore and tried again.
+
+"Good," Clarisse said.
+
+"That wasn't good. I missed."
+
+"You noticed why you missed. Now fix the next one."
+
+Sherman adjusted his stance. The following block worked. He grinned despite himself.
+
+After the session he put the borrowed shield back in its marked place and asked whether he could keep using it until the original was repaired. Clarisse said yes and made an entry on the equipment list so nobody would hand him the wrong shield at the next drill.
+
+Percy sat beside her as she finished writing.
+
+"You apologized to him," he said.
+
+"I made a mistake."
+
+"You usually hate admitting it."
+
+"Still do."
+
+"Then why'd you do it?"
+
+Clarisse looked at the arena. "Because I can't ask him to learn something if I'm too proud to learn what I got wrong."
+
+Percy thought of the lessons she'd been teaching him all year, not only with weapons. He had asked his sisters to correct him when he treated them like people he was afraid to lose rather than people he actually knew. Clarisse was doing the same thing with the children in her care.
+
+"Was this part of our training?" he asked.
+
+"Yes."
+
+"You didn't mention it."
+
+"Would you have listened if I called it a lesson about admitting mistakes?"
+
+"Probably not."
+
+"Then I taught you correctly."
+
+Silena came over with clean towels for the equipment. She'd heard only the end of the exchange. Percy didn't repeat Sherman's private frustration to her; Clarisse simply explained that they needed to check the fit of every beginner shield before next week's practice.
+
+Silena agreed to help make a size chart. It was practical, dull and exactly the kind of thing that meant a younger camper could learn to fight without somebody mistaking a bad strap for cowardice.
+
+When they finished, Clarisse asked Percy to demonstrate the disarm again. He got it right once and wrong twice. She corrected his stance and reminded him to keep his left shoulder up, the same habit she'd been writing to him about during his May study block.
+
+He groaned. "You're never going to stop saying that."
+
+"Not while you keep dropping it."
+
+Silena laughed. Percy raised his shield and tried again.
+
 Silena taught second on the third evening, and Silena's classroom was the beach at sunset with a bonfire and a first-aid kit.
 
 "No spears," she announced, spreading a blanket over the sand. "No getting hit. Today we sing."
