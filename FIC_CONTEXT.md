@@ -199,6 +199,8 @@ Favor **specific, reciprocal** teasing over recurring stock jokes: shared chores
 | Silena | 14 | 16 |
 | Rhys | Not yet introduced | 19 in his late-arc appearances |
 
+**Source-verified early age cross-check:** Thalia is sixteen by Chapters 16, 20 and 24, and is still sixteen in the revised Chapter 28 (not fifteen). Chapter 133 portrays her as eighteen. Preserve intermediate birthdays only where the intervening narrative actually supports them.
+
 **Working baseline, not an automatic age override:** Track explicit birthdays and elapsed time. From chapter 140, Percy and Annabeth should be fourteen unless a **later dated birthday** justifies a change. Do not silently revert them to thirteen. Check Thalia's legal adulthood and Rhys's nineteen-year-old status at the point of every mature interlude.
 
 Before writing a chapter, make a timeline row with its date or season, elapsed days since prior chapter, ages, locations, arrivals/departures, current injuries, objects or gifts in use, and commitments due next. If the source does not establish the month or day, mark **unknown** rather than inventing one.
@@ -294,17 +296,17 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 | Issue | Required direction | Disposition |
 |---|---|---|
 | Thalia becomes the rewrite architect or an eclipse restores Athena parentage | Maintain unknown architect and Annabeth's Zeus parentage unless user changes canon | **Audit** historical material and current relevant chapters |
-| Thalia gains complete memories of the erased life | Only Percy and Annabeth know that remembered life by default | **Audit** and flag deliberate exceptions for approval |
+| Thalia gains complete memories of the erased life | Only Percy and Annabeth retain firsthand erased-life memories; other characters retain only what they explicitly heard or witnessed | **Audit** and flag deliberate exceptions for approval |
 | Annabeth loses Percy, their romance, or Tartarus memories | She retains them from the opening | **Audit** early and mid-story scenes |
 | Clarisse/Silena revert to Ares/Aphrodite, or new Poseidon sisters appear | PCS parentage and membership remain fixed | **Audit** names and cabin affiliations |
 | Annabeth is called Jackson or related to Percy as a sibling | Annabeth Grace, Zeus daughter, Percy's partner | **Audit** and correct only proven mistakes |
 | Sally's death appears in Percy's remembered original childhood | Sally died at age two **only in altered history** | **Audit** recalled memories and grief scenes |
 | Ages, seasons, returning visitors, gifts, injuries, and powers jump | Maintain a dated continuity ledger | **Audit** transitions and new drafts |
-| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Unverified on this import** |
-| Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **12 currently under the floor** by provisional count; editorial expansion pending |
+| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Exact 300-word cross-chapter pass completed** on the 2026-10-13 audit branch: 1,660,025 windows, 0 matches. Semantic repetition and scene-level continuity remain unverified |
+| Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **0 short in chapters 140–164** in the 2026-10-13 verified all-chapter mechanical recount; 55 chapters elsewhere remain short, with 267,533 total missing body words |
 | Older PDFs or root chapter files differ from corrected sources | Respect canonical-copy decision and rebuild exports | **Reconciliation needed** before declaring files identical |
 
-**Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Do not assume the current imported chapter 20–21 files contain the same correction until compared.
+**Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Chapter 20 has now received scoped Cabin Three/identity clarification on the 2026-10-13 audit branch; Chapter 28's erroneous fifteen-year-old Thalia and incorrect 'Chase' address were also corrected. The old PDF's exact text still has not been reconciled.
 
 **PDF production:** Retain UTF-8; repair mojibake from a verified source rather than deleting replacement glyphs. Use clear chapter starts, readable spacing, page numbering, correct markdown conversion, and text inspection of actual rendered pages, not just file size or the `%PDF-` header. The user's prior export destination was `C:\Users\dmcfu\OneDrive\Documents\Default Project\TheSeaRemembers\`; access to this path depends on the user's connected machine.
 
