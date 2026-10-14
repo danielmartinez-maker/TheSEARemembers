@@ -594,6 +594,132 @@ Applause started slowly, then swelled, real and warm. Not the polite clap for a 
 
 Percy clapped until his hands stung. Annabeth clapped and laughed and cried at the same time.
 
+Milo waited until the applause had faded before approaching the fire. Lucy walked beside him, carrying a folded sheet of paper. Percy thought she was there to ask for an autograph. Then Milo took a crumpled envelope from his jacket.
+
+"Chiron said I could send a letter through a satyr if we checked it first," Milo told Zoe. "I got permission yesterday. But I haven't written it."
+
+Zoe looked toward Chiron. The centaur nodded, confirming the arrangement without asking Milo to explain it again in front of the camp.
+
+"Do you want help starting?" Zoe asked.
+
+Milo nodded.
+
+"What do you want your brother to know?"
+
+"That I'm not dead."
+
+The sentence took Percy by surprise. Milo said it flatly, as if he had practiced the words until they couldn't hurt him anymore.
+
+"He saw the thing at school," Milo continued. "Then I disappeared with Grover. I keep thinking maybe nobody told him anything until somebody from the school called."
+
+Chiron moved closer, and Milo turned toward him.
+
+"The message we verified yesterday says you are safe and that your family has been informed of the school arrangements," Chiron said. "I know that doesn't answer everything you want your brother to know. The letter gives you a chance to tell him what you can, in your own words."
+
+"He'll think it's another one of those things adults tell him."
+
+"Then write something only the two of you would know," Lucy suggested.
+
+Milo looked at her.
+
+"Not a secret that's dangerous," she clarified. "Just a normal thing. Like when my mom writes me notes, she calls me Loops. Nobody else does."
+
+"Loops?"
+
+"Because I used to tie all the shoelaces in the house together and make one long string. I was four."
+
+Milo laughed despite himself. "That's awful."
+
+"It was art."
+
+Zoe's mouth twitched. "Ordinary details can be useful. They tell someone who is speaking without demanding that they believe an impossible explanation."
+
+Milo unfolded his envelope. There was a sheet of plain paper inside and a pencil Chiron had given him, sharpened to a stub.
+
+Percy considered offering to take it and write the letter for him. He knew the feeling of having something important to say and too many words competing to be the first. But the letter had to sound like Milo. Percy hadn't known him a week. He couldn't possibly know what was normal in his family.
+
+"Can I ask something?" Percy said.
+
+Milo nodded.
+
+"Did you and your brother have a football rule? Something you both argued about?"
+
+Milo stared at him. "He says if the ball goes over the fence, whoever kicked it has to climb the fence. Even if the kick was an accident."
+
+"That's a terrible rule."
+
+"Exactly. I keep telling him."
+
+"So tell him that. He'll know it's you."
+
+Milo sat on the edge of the bench with the paper across his knee. He wrote slowly, the pencil moving in short jerks, then stopped and scratched out a word. Percy looked away rather than reading over his shoulder.
+
+Lucy opened her folded paper. It was the drawing she'd made at the stables, the impossible pegasus with huge wings and flashing shoes. She held it beside Milo's page.
+
+"I drew this," she said. "Would he think it's funny if it was in your letter?"
+
+Milo examined it. "He likes drawings. But it's yours."
+
+"You can have it if you want."
+
+"Are you sure?"
+
+She nodded.
+
+"I want to make my own drawing too," Milo said after a moment. "He might think yours is some kind of school picture."
+
+"Fine." Lucy sat beside him. "I'll show you how to do the wings."
+
+"Your wings are enormous."
+
+"That's the point."
+
+They bent over the paper together, arguing about whether the creature's legs should bend like a horse or like something with talons. Percy could almost forget the frightening question Milo had asked at the fire. Almost. The fact that the boy was drawing did not mean he had stopped worrying about home, and the letter would not undo the days he had spent waiting.
+
+But it would be his letter.
+
+Zoe stayed near them without speaking. When Milo finished his first draft, he read it silently, folded it once and placed it back inside the envelope. He held the envelope out to Chiron.
+
+"Can you check that it's safe? Before it goes?"
+
+"Yes," Chiron replied. "We can do that privately tomorrow. It is not being sent until we've reviewed the details with you."
+
+Milo nodded. "I want to be there when you read it."
+
+"Of course."
+
+Percy watched Chiron take the envelope without opening it. He kept it in a pocket on the inside of his jacket, separate from his other papers.
+
+Lucy folded the extra drawing and put it back in her own bag. She had offered it, Milo had declined, and neither seemed to feel wronged.
+
+"Do you think Hecate could make my brother know I'm okay?" Milo asked Zoe.
+
+"She could make someone believe many things," Zoe said. "I would rather he hear from you in a way that gives both of you room to ask questions."
+
+Milo looked at the envelope in Chiron's pocket. "Me too."
+
+Annabeth shifted beside Percy. She had been quiet for most of the exchange. Now she looked toward Zoe with an expression Percy recognized: the one she wore when an idea challenged something she had been sure about for years.
+
+"You can keep a memory," Annabeth said softly, "without making it the only story you're allowed to live."
+
+Zoe nodded. "Yes."
+
+Percy thought of Tyson's old photograph on the windowsill, of the night they had fixed the foldable laundry rack and talked about the forge in Atlantis. Tyson had a whole life Percy didn't see, and Percy had started to learn about it by asking questions rather than treating old stories as debts.
+
+He could do that with Annabeth too. He didn't have to test whether she remembered the same details from their first life to be certain that she'd stayed beside him this one.
+
+"Do you keep letters to your parents?" Percy asked Zoe.
+
+"Some of them," she said. "Others I burn when I'm ready. Not because the words are untrue, but because I have decided I don't need to carry every sentence forever."
+
+"And the radio dial?"
+
+"That stays."
+
+"Good choice," Percy said.
+
+Zoe smiled. She had not given anyone a memory spell. She had given a boy enough room to write to his brother in his own voice, and kept the rest of her story exactly where she wanted it.
+
 Chiron wheeled forward, thanking Zoe, dismissing the younger kids to bed with reminders about teeth and curfews that no one heeded. The circle broke slowly. Kids drifted off in twos and threes, talking quietly. The Apollo kids hummed. The fire burned lower.
 
 Percy and Annabeth lingered, as did Thalia and Clarisse. They ended up near the fire with Zoe, not quite a circle, just a cluster, sharing the last of the blanket and a bag of stale marshmallows someone produced.
