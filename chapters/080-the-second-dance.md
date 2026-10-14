@@ -448,6 +448,142 @@ Grover lifted his head. "You think that works?"
 
 "Annabeth says honesty works better than guessing. That doesn't mean they have to agree to share a dance."
 
+Grover looked at his empty plate. "I think they both know what I mean. I'm just not sure they heard the same thing."
+
+"Then ask," Percy said. "And listen to the answers, even if you don't like them."
+
+Grover gave him a look. "When did you become the person telling me to listen?"
+
+"After Annabeth said it approximately eight hundred times."
+
+"Fair."
+
+They found Ella near the Big House library, carrying three neatly tied stacks of books. She was sorting return slips with a care that Percy had begun to recognize as part of her own choices, not just a habit someone had taught her. Juniper was outside beneath the oak, checking whether a new shoot had begun growing too close to the foundation.
+
+Grover stopped a few paces away from them.
+
+"Can we talk?" he asked.
+
+Ella set the books down. "Grover is worried. Ella can hear worried breathing."
+
+"Very helpful, thanks."
+
+Juniper straightened, wiping soil from her fingers. "About tonight?"
+
+"Yeah."
+
+Percy considered retreating, but Grover glanced back at him.
+
+"Would you stay?" Grover asked. "I don't want you to answer for me. I just need somebody to tell me if I start talking nonsense."
+
+"That sounds like a lot of work," Percy said. "But okay."
+
+Grover took a breath.
+
+"At the first dance I was happy to go with Ella," he said. "I'm still happy. I like her and I want us to have a real dance tonight. Juniper, you're one of my oldest friends. I missed you when you were away. I don't want asking Ella to a dance to mean you can't come over and talk to me."
+
+Juniper looked at him. "That's not what I was asking."
+
+"I know. I think I got confused about what you meant."
+
+"I was asking whether you'd stopped being my friend because you were scared Ella would think I wanted to take your place beside her."
+
+Ella tilted her head. "Juniper has her own place. A tree place and a grove place. Not Ella's place."
+
+"I know that," Juniper said. "But Grover didn't act like he knew."
+
+Grover winced. Percy had never liked hearing his friends describe the hurt he'd caused. He liked it even less when he recognized the same habit in himself: making a decision based on the conversation he imagined other people were having.
+
+"I'm sorry," Grover said. "I made you both do a lot of guessing."
+
+"Yes," Ella replied.
+
+Juniper nodded too.
+
+There was a brief silence. Percy watched a beetle climb the library step and wondered whether anyone would mind if he excused himself now. But Grover wasn't done.
+
+"Ella, do you still want to be my date tonight?"
+
+"Yes," she said, without hesitation. "Ella wants the first slow dance with Grover. A proper dance. Grover asks and Ella says yes."
+
+Grover smiled. "Then may I have the first slow dance?"
+
+"Yes."
+
+"And Juniper," he continued, "would you like to come with us as a friend? There are fast songs and group dances. I like dancing with you."
+
+Juniper thought about it. "I'd like that. I don't want to spend the evening watching from the door because everyone's afraid I might feel left out. But I also don't want you two treating me like I need escorting."
+
+"Okay."
+
+"If I'm tired, I'll go back to my tree. Don't follow me to ask if I'm upset unless I tell you I am."
+
+Grover nodded. "Okay."
+
+Ella looked at Juniper. "Ella would like to walk with Juniper and Grover. Not every dance. Walking."
+
+"I'd like that too," Juniper said.
+
+Percy felt the tension ease, not because somebody had settled the whole question of their relationships, but because each of them had chosen something specific. A first slow dance. A group song. A walk. Nobody had to turn the choices into a triangle that needed solving.
+
+Grover rubbed the back of his neck. "I should have said that days ago."
+
+"You could have," Juniper agreed.
+
+Ella opened the top book and pulled out a folded dance program. "Ella helped Austin write the order. Two fast songs before the first slow one. Time to practice."
+
+Grover stared at the program. "You knew the order?"
+
+"Yes."
+
+"You let me panic anyway?"
+
+"Ella thought Grover should choose what to say without a schedule telling him."
+
+Percy burst out laughing. Grover looked betrayed for approximately two seconds, then laughed too.
+
+Juniper went back to checking the new root by the library step. Percy knelt beside her and pointed at a dark line in the stone foundation.
+
+"Is the tree doing that?"
+
+"No. That crack is old." She touched the edge, then drew her hand back. "But the new root will reach it next season if nobody moves the path."
+
+"Tell Annabeth," Percy said.
+
+"I already did."
+
+"Of course you did."
+
+"She asked whether I wanted the path moved or the root redirected. I told her the path could move a little, if Chiron approved."
+
+Percy remembered Annabeth's sandcastle from the Atlantis beach day, where a drainage channel and access ramp had changed a plan she'd once thought perfect. She would be pleased to hear Juniper had considered her options instead of treating the tree as an obstacle.
+
+"Is that why you're here?" he asked.
+
+"Partly. I wanted to finish the work before tonight. But I also wanted to make sure I could enjoy the dance without spending half of it explaining why I came."
+
+Percy nodded. Grover and Ella were now practicing a slow turn on the walkway, arguing mildly about which hoof went first.
+
+"Are you going to the dance?" Juniper asked him.
+
+"With Annabeth."
+
+"She must be pleased."
+
+"I asked Monday."
+
+"Good." Juniper smiled. "Last time you spent all week looking like someone had announced a siege."
+
+"That was strategic concentration."
+
+"It was panic."
+
+"Fine. It was panic."
+
+He went back toward the cabins feeling oddly hopeful. Grover had gotten an answer he could live with, Ella had a date she had chosen, and Juniper had accepted an invitation without giving up her right to walk away. Nothing about it required magic.
+
+Later, he would tell Annabeth how the conversation had gone. He wouldn't copy the private parts into the camp archive, and he wouldn't let anyone claim Ella and Juniper had agreed to something bigger than one evening. He could remember what his friends said without making their words a public property.
+
 In Aphrodite cabin, preparations were calmer, because Silena had already done the hard talk.
 
 Annabeth spun, skirt flaring. She felt pretty and fizzy like cider.
