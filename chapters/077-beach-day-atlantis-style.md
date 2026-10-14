@@ -509,7 +509,143 @@ Thalia lifted her glasses. "Amphitrite said no one will think less of me for lyi
 
 "Don't let Annabeth hear you say that about another queen," Thalia smirked, settling her glasses back down. "Go pester your girlfriend. I'm perfecting doing nothing."
 
-An hour later she was still there, half-asleep, wearing a Demeter kid's flower crown and Silena's spare cover-up. She kept both.
+An hour later she was still there, half-asleep, wearing a Demeter kid's flower crown and Silena's spare cover-up. When Silena asked for the cover-up back, Thalia returned it without complaining and kept the flower crown.
+
+Percy wandered over with two bottles of cold juice. He set one where Thalia could reach it and sat on the sand beside the canopy.
+
+"You're staring," she said without opening her eyes.
+
+"I'm admiring the flower arrangement."
+
+"Do that somewhere else."
+
+"There's a daisy growing out of your hair."
+
+"That's what flowers do."
+
+Percy laughed. He looked toward the beach where Clarisse was supervising the last of her wave-jump contest. The surf had grown more powerful, and she was calling the younger kids back above the breaking line. She saw him watching and gave a sharp thumbs-up to show the group was accounted for.
+
+"You really took the afternoon off," he said.
+
+"Chiron approved it."
+
+"From everything?"
+
+"From patrol. From equipment inspection. Not from having a brain."
+
+Percy looked at the flower crown again. He could still hear the half-serious insult in her voice, but she wasn't sitting bolt upright or watching every shadow move across the dunes.
+
+"What did you have to do to get the afternoon off?" he asked.
+
+"Ask."
+
+"That's all?"
+
+"Mostly. I asked Chiron if someone else could cover my route. He showed me the schedule, told me who was already on duty, and gave me a day. It was absurdly simple. I almost made it complicated."
+
+"Why?"
+
+She lifted her sunglasses. Her electric-blue eyes looked tired and bright at once.
+
+"Because for a while I thought being the oldest meant being the person who never stopped. If Annabeth was sick I stayed awake. If Jason wrote from Jupiter I answered before I did anything else. If a counselor said the border felt strange, I volunteered for an extra watch. It seemed easier than admitting I couldn't do it all."
+
+"You've always been like that."
+
+"I know. It wasn't always good for anybody."
+
+Percy turned a pebble beneath his thumb. The family promise they'd made at the memorial yesterday had been about showing up when asked, not controlling one another's lives. He could see Thalia putting the distinction to work here, though she probably wouldn't thank him for saying so.
+
+"Annabeth worries about you," he said.
+
+"Annabeth worries about the structural integrity of breakfast."
+
+"That's not a denial."
+
+Thalia sighed and pushed her glasses back into place. "I worry about her too."
+
+"You don't have to prove it by staying on guard every night."
+
+"No kidding. She told me that after the play."
+
+Percy raised an eyebrow. "When?"
+
+"Private conversation."
+
+He hesitated. "Okay."
+
+Thalia turned her head enough to look at him. "You're getting better at that."
+
+"Not instantly asking for details?"
+
+"Yeah."
+
+"My sisters are training me. It's terrifying."
+
+"Good." Thalia stared toward the sea for a while. "I told Zoe I would walk with her at the new moon. I still have to check the patrol schedule. I don't want to promise a time I can't keep."
+
+"Could ask Chiron to swap."
+
+"Maybe. But she said she only wants company to the last marked lantern. Not a guard posted over her ritual."
+
+"You can do that."
+
+"I think so."
+
+Percy drank from his bottle. It was cool enough that condensation ran over his fingers. A year earlier, he might have told Thalia that her plan was easy and she should stop worrying. Now he knew how much work it could take her to let someone go down a path alone after agreeing to help them get there.
+
+Bea came walking past the canopy with her counselor, the stuffed seal held firmly against her chest. She stopped when she saw Thalia's crown.
+
+"Did you make that?"
+
+"A Demeter kid did."
+
+"Can you make another one?"
+
+"Probably not a good one."
+
+Bea considered. "Can I try?"
+
+Thalia sat up. "Sure. Ask before pulling flowers. Some of these belong to the beds the Demeter cabin planted, and they will absolutely prosecute."
+
+The counselor smiled. "We can gather fallen flowers by the dunes."
+
+Bea went off with the counselor, checking the ground for anything already loose. Thalia watched her go without following. Percy noticed, because on the new kids' first day she'd been ready to carry the girl anywhere she wanted.
+
+"You didn't get up," he said.
+
+"I saw."
+
+"Very mature."
+
+"I am a pillar of mature decision-making."
+
+"You're wearing a crown made of daisies."
+
+"That means I'm royalty. Bow."
+
+Percy gave the least convincing bow in history. Thalia tapped his shoulder with a plastic drinking bottle as though knighting him.
+
+A few minutes later Bea returned with a handful of fallen petals and three small stems. She asked Thalia to show her how to tie them. Thalia tried, got the first knot wrong, and let Bea demonstrate a different way. The finished little circle was crooked, but Bea put it around the stuffed seal's head with evident satisfaction.
+
+"Better than mine," Thalia said.
+
+Bea looked at her critically. "Yours is bigger."
+
+"Then mine is more powerful."
+
+Bea smiled and walked back toward the tide pools.
+
+Thalia lay down again and adjusted her flower crown so it didn't press against the towel. Percy found himself looking toward the ocean, where Rainbow had vanished earlier that morning.
+
+"Doesn't it feel weird?" he asked. "A whole day without somebody trying to kill us?"
+
+"Very," Thalia said. "But don't invent a monster to make yourself comfortable."
+
+"Wasn't planning on it."
+
+"You were thinking it loudly."
+
+He smiled, finished his juice and stood. Thalia didn't ask him to stay and keep her company. He didn't ask her to come supervise the next activity. For once the quiet wasn't something either of them had to defend.
 
 ---
 
