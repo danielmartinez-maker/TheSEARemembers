@@ -464,6 +464,120 @@ Percy nodded. He understood exactly.
 
 ---
 
+The departure schedule broke down at four.
+
+It wasn't a monster attack or an invasion. The buses had been booked for the wrong pickup entrance. A driver arrived at the service road with a vehicle too large to turn around without crossing the training field. One counselor thought the whole departure should be moved forward to sunset; another thought they could move the luggage to the pine tree and have everyone wait outside until morning.
+
+Percy was returning from the lake when he saw Chiron studying two different lists with Malcolm and a worried Hermes camper. The boy's name was Owen. He had been at camp for only three weeks and was supposed to meet his aunt at the bus terminal before evening.
+
+"I can't miss the bus," Owen kept saying. "She works nights. She said she can't come back tomorrow."
+
+Chiron gave him his full attention. "We have not canceled your journey. We are confirming the vehicle arrangements before you leave."
+
+"Then why did the driver say the bus isn't coming?"
+
+"He said the bus cannot enter the service road," Malcolm explained. "He did not say it could not reach camp."
+
+Owen looked at the papers as if the distinction made things worse.
+
+Percy remembered hearing the same tone from Milo when he asked whether anyone had told his brother he was safe. Adult plans could sound airtight until you were the person waiting for them to work.
+
+"Can I do something?" Percy asked.
+
+Chiron looked at him. "Yes. Find the approved vehicle route in the camp book. Do not go into the woods to direct a bus yourself."
+
+Percy took Malcolm's map. There were three roads marked near the property: the service track, the visitors' loop and an old maintenance route that had been closed after a landslide. The driver had been sent the wrong coordinates by a clerk who'd used the maintenance entrance as a reference. Percy recognized the error because Annabeth had made him help correct exactly that kind of mismatch in the camp survey earlier in the spring.
+
+He went to find her.
+
+Annabeth was at the Athena table sorting the drawings and small gifts her survey crew had prepared for departing campers. Percy held out the map and explained the problem. She frowned at the two sets of coordinates.
+
+"Those aren't the same entrance," she said.
+
+"Can you prove it to somebody with a steering wheel?"
+
+"Yes."
+
+They took her newer map to the Big House. She had checked the visitors' loop herself during the drainage inspection. The road had enough clearance for the buses already approved to use it; the closed maintenance track did not. Chiron called the dispatcher, read the correct entrance directions and asked for written confirmation before changing the departure board.
+
+Percy waited beside Owen while the call went through.
+
+"Your aunt's picking you up?" he asked.
+
+"Yeah."
+
+"Did you get to tell her what time the bus is supposed to arrive?"
+
+Owen nodded. "She knows. But she gets really angry when things change."
+
+Percy almost told him that adults sometimes got angry because they were frightened. That was a guess about a person he'd never met.
+
+"Want Chiron to call her if the time changes?" he asked instead.
+
+"Yes."
+
+Percy went back to Chiron. The centaur arranged the call with Owen present, and Owen repeated the pickup details in his own words. His aunt said she'd be there at the scheduled time if the bus left when it was supposed to. Her voice was tired, not angry. Percy couldn't tell how she'd sound later. For now the plan was clear.
+
+The dispatcher confirmed the visitors' loop and said the buses could arrive the next morning as scheduled. Malcolm corrected the board. Chiron asked the counselors to check their packets against the final list so nobody would be sent toward the wrong road or left waiting for an unconfirmed pickup.
+
+"Thank you," Owen said to Percy afterward.
+
+"Annabeth did the map part."
+
+"You found her."
+
+Percy smiled. "That part I can do."
+
+Annabeth came over, still holding the survey drawing. "Actually, Owen, can you help me? We need somebody who hasn't memorized these roads to look at the new directions and tell us whether they make sense."
+
+Owen studied the page. He had no trouble reading the words but wasn't sure which fork the bus would take after the visitors' gate. Annabeth marked the turn with a bigger arrow and a note about the stone wall, then asked him again.
+
+"Now I understand," he said.
+
+"Then it is a better map," she replied.
+
+Percy watched Owen take the corrected directions back to his counselor. The boy's journey had not become easier because Percy told him everything would be fine. It had become more reliable because someone listened to what he needed, found the actual error and checked the answer with the people responsible.
+
+Annabeth looked at the revised sheet.
+
+"Maybe we should put the route in the welcome packets too," she said.
+
+"Why?"
+
+"Because new families arrive by the same loop. We shouldn't wait until somebody goes home to notice our directions are bad."
+
+Percy thought of the newborn safety rules at Nico's fort and the accessibility ramp she'd added to the sandcastle after Lucy asked who could reach the courtyard. Annabeth wasn't collecting proof that she never made mistakes. She was collecting reasons to change a drawing before someone got hurt.
+
+They delivered the final map to Chiron and took their copies to the dining pavilion. Percy had barely put his on the table when Clarisse saw the new arrow.
+
+"Did you break the road, Jackson?"
+
+"No."
+
+"Then why did it take you two hours to explain where the bus goes?"
+
+"Because somebody else broke the directions."
+
+"Sounds like something you'd do."
+
+Silena leaned across Clarisse to study the map. "This route passes the old amphitheater. Is that where the traffic signs are?"
+
+"Yes," Annabeth said.
+
+"Then make sure the sign is readable from the driver's side. It's turned toward the camp."
+
+Annabeth looked again. She had checked road width and turn radius. She hadn't checked which direction the signs faced.
+
+"You're right," she admitted.
+
+Percy grinned at Silena. "We should probably let you run the entire camp."
+
+"No," Clarisse said immediately. "She'd organize all the weapons by color."
+
+"That would look much nicer," Silena said.
+
+Annabeth made another small mark on the map, and Percy helped move the sign before the sun went down.
+
 Dinner was loud. Last-night loud. The tables were pushed a little closer. People kept getting up to hug people at other tables. The Apollo kids sang the camp song Ella had archived, all seventy-four verses of inside jokes, and everyone groaned and sang along anyway.
 
 Percy sat with Annabeth, Thalia across from them, Clarisse and Silena squished in on the end, Grover and Juniper holding hands under the table, Ella taking notes between bites, Zoe pretending not to sing while mouthing the words, Nico and Bianca stealing each other's dessert.
