@@ -52,6 +52,150 @@ She had no idea how fast a good day could turn.
 
 ---
 
+At the end of sparring, Annabeth expected Percy to come straight to the bleachers. Instead he stayed with Clarisse to argue about the angle of his last failed block, using two practice swords to demonstrate where his arm should have been.
+
+"He'd rather get knocked down again than admit I'm right," Clarisse told Annabeth.
+
+"He's admitting you're right. He's trying to understand why."
+
+"Same annoying habit."
+
+Percy looked up. "You can hear me, you know."
+
+"That's the idea."
+
+Thalia arrived carrying a small slate and a piece of chalk. She'd promised Annabeth a practical drill before lunch, but when she saw the scorched mark in an old training ring, her attention shifted.
+
+"Someone used lightning here?"
+
+"Not today," Annabeth said.
+
+"I know. I meant before."
+
+"An Apollo camper was testing a reflected-flash signal yesterday. No storm magic involved."
+
+Thalia relaxed. "Good."
+
+Annabeth noticed. Her sister did not ordinarily ask such careful questions. In the months since Annabeth's powers had surfaced, Thalia had learned that every new burn mark at camp could start a rumor about which Grace sister had lost control.
+
+"Let's go somewhere quiet," Annabeth suggested.
+
+They used the dry strip beyond the arena where the instructors practiced silent commands with flags. Percy offered to come, but Annabeth shook her head.
+
+"Finish your sparring. It's not your shift."
+
+He looked disappointed for half a second, then nodded. "See you at lunch."
+
+Thalia waited until they were clear of the last practice post before handing Annabeth the slate.
+
+"Today's exercise doesn't involve any electricity," she said.
+
+"Then why did you bring me a target?"
+
+"It's not a target. It's a list."
+
+Written on the slate were three statements.
+
+SOMEONE INSULTS YOU.
+
+SOMEONE INSULTS PERCY.
+
+SOMEONE SAYS YOU ARE DANGEROUS.
+
+Annabeth stared at the second line.
+
+"That's not a weather drill."
+
+"No. Last week you told me that you can stay calm when a storm starts naturally, but you struggle when you feel trapped in an argument. So we're practicing arguments."
+
+"With chalk?"
+
+"Unless you'd prefer I call Clarisse over and have her shout at you."
+
+"Chalk is fine."
+
+Thalia put the slate between them. "What do you do first?"
+
+"Check my breathing."
+
+"What else?"
+
+"Move away from anything conductive."
+
+"And?"
+
+"Tell someone I'm reaching my limit."
+
+"That's the part you keep forgetting."
+
+Annabeth frowned. "Because if I say it aloud, everyone will look."
+
+"If you don't say it aloud, we won't know you need space."
+
+Thalia let her argue for a while, not because she was enjoying it, but because Annabeth needed to discover where the argument would get her. Annabeth knew the breathing pattern. She could recite the five-senses exercise backward. Neither of those guaranteed she'd choose to stop talking when an insult made her angry.
+
+Finally she took the chalk.
+
+Under the first statement she wrote: STEP BACK. She left room for a second action, then added ASK SOMEONE TO COVER THE CONVERSATION.
+
+"Who?" Thalia asked.
+
+"Whoever's nearby and knows the situation. You. Chiron. Percy."
+
+"Percy might be the person they're attacking."
+
+"Then I shouldn't make him responsible for rescuing me."
+
+"Exactly."
+
+Annabeth wrote another line. If Percy was the subject of an argument, she could protect him by refusing to help the argument become a spectacle. She could ask the other person to stop once, clearly, then leave if they refused.
+
+"That's harder than making a speech," she said.
+
+"Yes."
+
+"Or making lightning."
+
+"Much harder."
+
+They practiced aloud. Thalia played an obnoxious camper who accused Percy of receiving special treatment. Annabeth said the accusation was unfair, then started to explain why. Thalia kept arguing, repeating the same claim until Annabeth felt heat rise into her cheeks.
+
+"Stop," Annabeth said.
+
+Thalia immediately fell silent.
+
+Annabeth blinked. She had not expected it to work.
+
+"That's the point of a drill," Thalia said. "You get to stop it before you learn that your body won't."
+
+"What if the real person doesn't stop?"
+
+"Then we leave or get an instructor. The drill isn't about teaching other people to be decent. It's about giving you a plan when they aren't."
+
+Annabeth erased one part of her answer and rewrote it more simply.
+
+"You're not going to tell me I handled that perfectly?" she asked.
+
+"No. You spent two minutes debating with somebody who was never going to listen."
+
+"I noticed eventually."
+
+"Eventually is progress. Let's try again."
+
+By the time the conch sounded for lunch, Annabeth had practiced the first step three times. She'd managed to ask for space aloud without apologizing for taking it. Thalia put the slate in her hand, but Annabeth declined to carry it to the pavilion.
+
+"I know what's written there," she said.
+
+"I know you do. Knowing and doing aren't the same."
+
+Annabeth handed it back. "I'll practice again tomorrow."
+
+"Good. And eat something now. Your stomach is making decisions for both of us."
+
+They walked toward lunch, Annabeth rehearsing the words in her head. The plan felt sensible. She had no reason yet to suspect she'd need it before the hour was over.
+
+---
+
 By noon the good day had turned hot and sticky and loud in the way that meant everyone was overtired and two seconds from snapping at each other.
 
 Lunch in the pavilion was a crush of noise. At the Poseidon table Percy was trying to eat one-handed while sketching something on a napkin.
