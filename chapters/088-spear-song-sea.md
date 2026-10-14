@@ -776,7 +776,111 @@ Percy's arms came around her automatically, sand and sweat and sunlight. "You ch
 
 "Loudest," Annabeth promised, not letting go. "Don't tell the others."
 
-"I heard that!" Silena sang, flopping down on top of them both. Clarisse followed, armor and all, and Thalia piled on with a war cry, until they were a heap of limbs and laughter in the middle of the arena while the whole camp cheered and Chiron pretended to look for his whistle and Mr. D ate popcorn and said, "About time these children learned teamwork."
+"I heard that!" Silena sang, flopping down on top of them both. Clarisse set her armor and spear safely aside before kneeling beside them, and Thalia joined the laughter at the edge of the sand, until they were a loose circle of people congratulating one another in the middle of the arena while the whole camp cheered and Chiron pretended to look for his whistle and Mr. D ate popcorn and said, "About time these children learned teamwork."
+
+Chiron asked them to remain in the arena after the spectators left.
+
+Percy expected another speech about how well they had worked together. Instead the centaur put five colored stones on the ground, one for each final touch in the spar.
+
+"Tell me what happened," he said.
+
+"We won," Clarisse replied.
+
+"Nobody won," Annabeth said.
+
+"We didn't lose."
+
+"That is not the same thing."
+
+Chiron waited until they were finished arguing. Then he asked Clarisse to describe the final sequence from her own point of view. She explained how she'd turned her shield to trap Annabeth's dagger. Silena described hearing the movement change through the sand and shifting to protect Percy's exposed side. Percy said he had followed Clarisse's signal and raised his spear before Thalia could turn.
+
+Thalia frowned. "That's not what I saw. Percy raised his spear before Clarisse signaled."
+
+Percy stared at her. "No, I didn't."
+
+"Did you actually see her?" Thalia asked.
+
+He thought about it. In the rush of the last exchange he had been watching Annabeth's feet, because he'd learned she liked to move left before turning right. He had heard Clarisse call something. He hadn't seen the hand signal.
+
+"Maybe I moved first," he admitted.
+
+Chiron nodded. "That is why we review observations separately. The team executed a successful defense, but Percy may have acted on his own prediction. We should not call it communication without checking."
+
+Clarisse looked irritated. "He made the right move."
+
+"He did," Chiron replied. "But a right guess is not always a repeatable procedure."
+
+Percy made a face. He didn't like having a good moment turned into a problem. He liked it even less that Chiron was right.
+
+"How do we fix it?" he asked.
+
+Silena picked up one of the stones. "We can practice a slower version. Each person names what they need before moving. Then we do it faster."
+
+"Without weapons first," Annabeth added. "We can use ropes or flags to mark positions."
+
+Thalia nodded. "That would let me see whether you actually hear the command instead of just predicting it."
+
+Clarisse crossed her arms, considering. "Fine. But I'm not staying here all night."
+
+"Ten minutes," Chiron said.
+
+They rehearsed the final exchange with colored cloth strips. Percy had to wait for Clarisse to give the signal before moving his flag. The first time he went too early. The second time Silena couldn't hear Clarisse because Percy was talking. The third time they got the timing right, and Annabeth and Thalia managed to change their defense instead of freezing in the same positions.
+
+The outcome wasn't a draw. Thalia's team scored the point.
+
+Percy groaned. "So much for perfect teamwork."
+
+"Perfect isn't the goal," Silena said. "Better is."
+
+Clarisse looked at the colored strips and nodded reluctantly. "Again tomorrow."
+
+Chiron lifted a hand. "Only if all five of you want to, and after normal duties."
+
+"Fine."
+
+They collected the flags, put the borrowed weapons in the equipment rack and checked that no one had left a sharpened practice tip in the sand. The arena floor had to be safe for the younger campers arriving later.
+
+Outside, Sherman waited near the water barrel with his refitted shield. He had watched the spar from the bleachers and wanted to know whether Clarisse was angry about the draw.
+
+"Why would I be?" she asked.
+
+"Because you always want to win."
+
+"I still want to win." She looked toward her siblings. "But I learned something I didn't know before."
+
+Sherman considered that. "Can I be on a team next time?"
+
+"After you finish your training block. We don't put beginners into a full spar because they asked during lunch."
+
+"Okay."
+
+"But you can help us time the slow drills if you want."
+
+He brightened. "Yes."
+
+Clarisse asked the counselor to add him to the next session's volunteer list. Percy watched the boy go, then turned to his sister.
+
+"You gave him something to do that mattered."
+
+"He asked."
+
+"You're getting good at listening."
+
+"Shut up."
+
+Percy laughed. The words sounded like Clarisse, but the meaning had changed over the months they'd trained together. She could still be loud and difficult. She could also admit a mistake in front of the camper she taught and ask for a second attempt.
+
+Silena came back carrying the cleaned first-aid kit. Theo had chosen not to attend the spar because his ankle still needed rest, but he'd asked her to tell him the result. She would, when he was ready, without inventing a story about how the team had conquered an impossible enemy.
+
+"How's the ankle?" Percy asked.
+
+"Will says it's healing well. Theo asked me to stop checking it every hour, remember?"
+
+"Right."
+
+She grinned. "I'm learning."
+
+Percy nodded. They weren't suddenly masters of everything Clarisse, Silena and Percy had each taught during the week. They had practiced enough to know what they'd need to practice again.
 
 Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them to the marked shallow shoreline for a supervised float before dark and they had returned to dry clothes as the stars came out, the three siblings sat on the Poseidon cabin steps with salt drying on their skin.
 
