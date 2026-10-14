@@ -754,6 +754,100 @@ Percy's throat closed. He held her tighter. "I love you too. You're my person to
 
 "And I'll never forget it."
 
+They sat side by side on the end of the dock until the last orange light had moved beyond the trees. Percy kept Annabeth's hand in his lap, turning her fingers gently when the breeze grew cold.
+
+"Can I tell you something?" she asked.
+
+"Always."
+
+"You don't need to be good at every new version of a thing we've already done."
+
+Percy looked at her. "What's that supposed to mean?"
+
+"You're acting like because we had years together before the rewrite, we should know exactly what we're doing now. We know each other. That isn't the same as knowing how every day in this life will feel."
+
+He thought about the spring dance and the hours he'd spent practicing a step that was supposed to be simple. He thought about the storm, when he'd tried to hold the water until his arms shook because his old memories told him he could endure more.
+
+"I guess I keep trying to prove we're still the same," he admitted.
+
+"Are we?"
+
+"Of course."
+
+Annabeth raised an eyebrow.
+
+He considered. "We're still us. But we're not the same age. We have different families here. You like a yellow ribbon now."
+
+"I liked yellow before."
+
+"See? I'm bad at knowing the difference."
+
+She smiled faintly. "Then ask."
+
+Percy looked toward the lake. "Do you ever wish we could go back to the other life for a day? Just to see Sally, the apartment, New Rome?"
+
+"Yes," she said immediately.
+
+The answer hurt less than he expected. He had been afraid she'd say it was wrong to want the impossible.
+
+"Me too."
+
+"I don't wish we had to give up the people here to get it," she added. "I want to remember what we had without pretending we don't have something worth choosing now."
+
+He looked at her. "Amphitrite likes you."
+
+"I know."
+
+"She gave you that pearl level in April."
+
+"And she didn't ask me to be a different person to deserve it."
+
+Percy smiled. His mother had raised him in the history other people remembered, and he was still learning the stories that belonged to that childhood. But the affection she showed Annabeth was something both of them had witnessed. It was theirs without any explanation of a lost timeline.
+
+"Thalia thinks you're going to move mountains," he said.
+
+"She thinks I'll design a better road around them."
+
+"That's more terrifying."
+
+Annabeth laughed. It was easy laughter now, nothing like the shaky sound she'd made after the storm. Percy felt some of his own tension leave him.
+
+"Do you want to go back to the cabin?" he asked.
+
+"Not yet."
+
+"Okay."
+
+They stayed quiet. Percy listened to the water, which had settled into ordinary small waves. He didn't move it. The repaired canoe rack held beside the shore, empty until the next morning. A week from now the camp would be busy again; new campers would arrive with lost backpacks and dangerous questions, and Chiron would ask the older children to help.
+
+"We should train the emergency signals before the next bad weather," Annabeth said.
+
+"We said we would."
+
+"Can we ask Clarisse and the rope crew tomorrow?"
+
+"Yes."
+
+She nodded. That was a promise with a day attached, not a grand speech. Percy liked it.
+
+He looked at her again. "You still glad we chose tonight?"
+
+"Yes."
+
+"Even though I tripped?"
+
+"Especially because you tripped and then laughed at yourself."
+
+He grinned. "Could we choose another night sometime?"
+
+"That's generally how dating works, Seaweed Brain."
+
+He leaned over and kissed her forehead. She squeezed his hand, and for a while they let the dock be a place where nothing had to be proved.
+
+When the evening bell sounded, Percy stood and offered Annabeth his hand. They walked back along the lit path together, talking about breakfast and whether the new campers would like the repaired bridge. At the fork he waited while she went toward Cabin One. He didn't feel as if leaving her there for the night weakened the promise they'd made to find one another across years and worlds.
+
+It meant they were living inside a camp with people they loved, in a life where tomorrow was allowed to arrive normally.
+
 ---
 At the edge of the woods, Thalia Grace heard a branch snap.
 
