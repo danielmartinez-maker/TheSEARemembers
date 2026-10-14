@@ -374,7 +374,7 @@ Bianca stared. Thalia's black hair was standing up slightly at the ends. Her blu
 
 "Birthday lights," Thalia said, sheepish and proud. "Annabeth told me. The first experiment was too loud, so we're not using anything like it near people. I want to bend light through a few insulated threads and leave the dangerous part grounded, where nobody can touch it."
 
-She stood behind the cordon, breathed out slowly, and let a faint luminous thread dance between the grounded posts. It split into three, then five tiny sparks that hung in the air like fireflies, white-blue and humming faintly, then faded.
+She stood behind the cordon, breathed out slowly, and let a faint luminous thread dance between the grounded posts. The light refracted into three, then five harmless images in the practice prisms. They hovered above the posts like fireflies and faded before anyone stepped across the cordon.
 
 Bianca gasped. "That's amazing."
 
