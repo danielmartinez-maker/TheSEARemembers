@@ -815,7 +815,93 @@ Annabeth hurried to her castle — still standing, proud and gold in the sunset,
 
 Silena settled beside Beckendorf across the fire, sorting shells into his big palms for safekeeping, her head on his shoulder. Grover tuned his pipes. Thalia closed her eyes and listened, the conch in her lap. Clarisse heckled the Stolls' attempt at a sea shanty and then joined in on the chorus, loud and off-key. Nico, from under his umbrella, kept time with one foot when he thought no one was looking. Chiron watched it all with ancient, kind eyes.
 
-As the sun touched the water, the tide-pool bowls and the baskets and the silk canopies began to glow softly at the edges — Amphitrite's charm winding down. One by one, the living tide pools sealed themselves gently, the little creatures inside curling up sleepy and content. Tyson carried each bowl reverently down to the waterline with Percy's help, and together the brothers tipped them, watching the starfish and crabs and anemones swirl out into the real ocean and dart away, home.
+Milo came running from the waterline with the inventory clutched in one hand.
+
+"There's a bowl missing."
+
+Percy looked up. "What?"
+
+"Grover counted six. I can only find five."
+
+The music continued behind them, but several campers near the pools turned. Tyson stopped carrying towels and came to stand beside Milo, who kept pointing between the list and the scattered items on the beach.
+
+"Did we count the one Ella was watching?" Percy asked.
+
+"Yes. I wrote it down. Six."
+
+"All right. Nobody's in trouble. We look."
+
+Grover came over from the fire and read the sheet. He didn't dismiss Milo's count or assume the boy had made an error. They checked the baskets, then the shaded spaces behind the canopies. The sixth bowl wasn't there.
+
+Bea had been sitting with Lucy near the shell display. She approached with her stuffed seal beneath one arm.
+
+"I saw someone carry a little pool away," she said.
+
+"Who?" Percy asked.
+
+She shook her head. "I don't know. A big person."
+
+"Which way did they go?"
+
+"Up toward the path with the signs. I thought they were putting it somewhere safe."
+
+Percy looked at Grover. If a bowl containing saltwater animals ended up beside the freshwater canoe lake, its enchantment might return the creatures before anybody realized what had happened. Amphitrite's instructions had been precise. They needed to find the object, not blame whichever camper misunderstood the rules.
+
+"You did the right thing telling us," Percy said to Bea. "You don't have to help look unless you want to."
+
+"I want to. But I want Lucy to come."
+
+Lucy nodded and took her hand. They stayed beside Grover while Percy and Tyson went toward the upper path.
+
+At the turning by the storage shed they found an Apollo camper kneeling beside a bowl. Inside, a tiny orange starfish was moving slowly along the rim. The boy had been trying to show it to an injured friend who couldn't walk down the dune.
+
+He looked up in alarm when he saw them.
+
+"I was bringing it back," he said. "I only wanted Callie to see it."
+
+Percy crouched, keeping his voice level. "I believe you. But the bowls have to stay in their designated area until they return home."
+
+"She's in the infirmary annex. She can't come down here."
+
+"Then we can figure out a different way to include her."
+
+Tyson knelt and inspected the rim. "Water still good. Charm still present."
+
+Percy showed the camper the line in Amphitrite's letter about the protected nursery pools. The boy read it twice. He hadn't seen the full instructions because he'd joined the party after the inventory had been posted.
+
+"Nobody told me," he said.
+
+"Then we needed a better sign," Percy answered.
+
+They carried the bowl back, with the camper walking beside them. Percy asked whether Callie liked shells or drawings, and the boy said she collected pictures of sea creatures. Lucy overheard and offered to draw the little starfish before the return charm activated, provided the animal could stay safely in the bowl while she worked.
+
+Annabeth brought her spare paper. Bea suggested the starfish should have a name but accepted Grover's reminder that the creature didn't belong to them. She decided a drawing could have a name even if its subject didn't know it.
+
+"Orange Captain," she proposed.
+
+Lucy drew a small starfish with a very large captain's hat. The Apollo camper laughed for the first time since they found him.
+
+"Callie will love it."
+
+He helped carry the drawing to the annex with a counselor. The bowl stayed under Grover's supervision and was returned to the line before sunset.
+
+Percy went back to Milo, who was still guarding the clipboard like a military document.
+
+"You were right," he said.
+
+Milo looked relieved. "Was the bowl okay?"
+
+"Yes. We found it before the charm ended."
+
+"Good." He crossed out the note he'd made beside number six, then wrote *returned to station* in a new line. "I thought I'd counted wrong."
+
+"Sometimes you do count wrong," Percy said. "The point is to check rather than pretend."
+
+Milo smiled. He had been trusted with a task that mattered, and when something went wrong, the adults and older campers hadn't treated his fear as the problem.
+
+Percy watched the boy hand the clipboard to Grover for the final signature. The rescued bowl glowed gently beside the others, with six accounted for. For once a crisis had ended without a weapon being drawn or a prophecy being fulfilled. They had listened to a child, followed a trail and returned something that wasn't theirs.
+
+As the sun touched the water, the tide-pool bowls and the baskets and the silk canopies began to glow softly at the edges — Amphitrite's charm winding down. One by one, the living tide pools sealed themselves gently, the little creatures inside curling up sleepy and content. Tyson carried each bowl reverently down to the waterline with Percy's help, and together the brothers checked that every lid was properly sealed. The bowls lifted from the sand, their rims closing as the nursery charm carried the inhabitants back to their sheltered Atlantean pools. Neither boy emptied foreign creatures into Long Island Sound.
 
 "Goodbye! Be safe!" Tyson called, waving huge. "Thank the Queen for us!"
 
@@ -833,7 +919,7 @@ The second wave filled the moats, making them shine. The bridges held. The dome 
 
 Annabeth's eyes were shining brighter than the pearl-lights. "Amphitrite dared me to build something that lasts past the tide," she said. "Look."
 
-The whole beach watched as the third wave came in, foamed around the concentric rings, and — impossibly, gently — parted around the castle, leaving it standing on its little island of living gold sand while the water swirled and withdrew.
+The whole beach watched as the third wave came in and foamed around the outer rings. The living sand lost its magical shine as Amphitrite's return charm reached sunset. The water took one corner tower but passed through Mara's channel without lifting the main foundation, leaving the dome and Silena's scallop intact.
 
 There was a collective gasp, then cheering. Tyson lifted Annabeth clean off her feet in a hug. Silena cried happy tears. Clarisse whistled through her fingers. Thalia stood and clapped slowly, smiling a real, unguarded smile.
 
@@ -841,7 +927,7 @@ Percy just looked at Annabeth, sandy and sun-pink and brilliant, and felt the Se
 
 Later, much later, after the bonfire burned low and the pearls dimmed and Chiron shooed everyone up the hill with promises of hot chocolate in the mess hall, Percy and Annabeth lingered for just a moment at the top of the dune.
 
-Below them, the beach was empty except for the castle, glowing faintly gold in the twilight — Amphitrite's living sand holding its shape until morning, a small Atlantis keeping watch over the Sound.
+Below them, the beach was empty except for the castle. Its borrowed enchantment had ended, and one turret was gone. The rest held in the twilight through ordinary sand, careful joints and a drainage channel, a small Atlantis keeping watch over the Sound.
 
 Annabeth slipped her hand into his again, sure and familiar. She gave him a little tug toward the path, then paused beside him to remember the castle exactly like this.
 
