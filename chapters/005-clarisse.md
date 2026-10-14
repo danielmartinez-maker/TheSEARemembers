@@ -692,7 +692,7 @@ She nudged it toward him with one bare foot. Percy picked it up and checked for 
 
 Clarisse rolled her eyes, but she was smiling when she turned back to the water.
 
-Clarisse drew the panther from her jacket pocket, turning it over to check the wings. She'd started it for Silena's shelf, but Silena preferred storage she could actually use. Clarisse had finished carving it anyway, and now she looked almost annoyed at herself for bringing it down to the lake. The front was polished smooth; the feathered undersides still showed where her knife had followed the grain. The wings were carved in overlapping rows of feathers, and the paws were too large for the body. The face had a crooked expression that made it look permanently annoyed.
+Clarisse drew the panther from her jacket pocket, turning it over to check the wings. She'd started it for Silena's shelf, but Silena preferred storage she could actually use. Clarisse had finished carving it anyway, and now she looked almost annoyed at herself for bringing it down to the lake. The face had been polished smooth where her thumb would have rested as she worked, but the paw joints and undersides of the wings still showed the separate knife cuts. The paws were too large for the body. Its crooked expression looked like one Clarisse would have recognized across a dining table.
 
 She held it out.
 

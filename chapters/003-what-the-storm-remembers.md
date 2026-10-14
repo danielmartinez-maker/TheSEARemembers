@@ -2,12 +2,6 @@
 
 Annabeth woke on the floor of Cabin One, tangled in the blanket she'd pulled down with her. The throat that had screamed in her Tartarus dream still hurt. She pressed a palm against the grain of the floor until she could count the ordinary sounds: a horn on the early watch, two campers arguing outside, the shutter she and Thalia had been repairing. Nobody here could see the drop she'd dreamed about or the moment she'd lost Percy's hand. She knew those were memories, not present danger, yet she stayed on the floor until her breathing found its way back to the room.
 
-She was on the floor of the Zeus cabin, tangled in blankets, her heart hammering so hard she could feel it in her teeth. The dream was already dissolving — fragments of darkness, the smell of ash, the feeling of falling — but the terror clung to her like cobwebs. Tartarus. She'd been dreaming of Tartarus. Of the darkness and the despair and the way the air itself wanted to kill her. Of Percy's hand in hers, the only solid thing in a collapsing world.
-
-*Get up. Breathe. You're not there. You're in Cabin One. You're twelve years old. You're safe.*
-
-She pressed her palms flat against the floor and focused on the cool wood beneath her fingers. The technique was one she'd learned in the original timeline, in the aftermath of Tartarus — a way of anchoring herself in the present when the past came flooding back. It helped. Not enough, but enough.
-
 The cabin was empty. Thalia's bunk was made with military precision, the corners tight enough to bounce a coin off, and the small shelf above her bed was lined with books and weapons in alternating order. The girl herself was nowhere to be seen — probably training, or brooding, or doing whatever it was Thalia did before dawn.
 
 Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she couldn't read. Each one represented a summer, a season, a childhood she'd never lived.

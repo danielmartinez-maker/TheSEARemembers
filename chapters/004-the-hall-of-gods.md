@@ -2,9 +2,7 @@
 
 The Hall of the Gods occupied the green where Percy remembered campers setting up folding tables for festivals. Its twelve columns were impressive, but he noticed the ordinary marks first: wheel scuffs near the north doorway, a mason's patch beside a seam, and a scratched service path where heavy lamps had been carried around the mosaic. Somebody had planned, paid for and maintained the place. He wanted to know who.
 
-It was beautiful — there was no denying that. Twelve columns of white stone supported a roof carved with scenes from the Trojan War, and the floor was a mosaic of Olympus itself, each tile placed with impossible precision. But to Percy, who remembered the original camp's simpler layout, the building felt like an intrusion. A reminder that the divine had stamped its authority on this place in a way it never had before.
-
-Cold marble leaching through his shoes, he stood at the entrance, staring up at the carved lintel while wind hissed pine-cold off the hill. The inscription read: *Know Thyself, Know Thy Father, Know Thy Fate.*
+Percy stood at the entrance as wind lifted the dust caught in the carved letters above him. The steps were damp in the shade, and the inscription looked freshly scrubbed compared with the masonry around it. The inscription read: *Know Thyself, Know Thy Father, Know Thy Fate.*
 
 "Noble, isn't it?"
 

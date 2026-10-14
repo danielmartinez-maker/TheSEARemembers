@@ -1,6 +1,6 @@
 ## Chapter 7: The Tempest
 
-The night before the storm, the sky was clear enough that Silena refused to let anybody blame the weather for missing the work roster. She was counting bronze fittings in pairs because an earlier delivery had been short, and the work crew couldn't repair the Hall with a ledger that simply assumed everything was in the box. Percy had learned enough to keep his greasy toolbox off the clean filter cloth without being reminded.
+The night before the storm, the sky was clear enough that Silena refused to let anybody use the weather as an excuse for missing the stores rota. Repairs were competing with training and the winter deliveries; one missing bracket could leave the ward crew waiting while another counselor insisted the entire stockroom had already been allocated. She had begun matching the order slips against actual crates rather than trusting the totals anyone handed her.
 
 Percy arrived at the stores with a toolbox, his repaired practice shield and a letter from Amphitrite that he had not quite decided how to answer. Silena was already there, counting brass fittings into small cloth bags. A stack of unused filter fabric stood beside the door, tied in rolls with green twine.
 

@@ -288,9 +288,9 @@ Thalia took a step toward him. "Don't tell me how I feel about my sister."
 
 "I shouldn't have tried to explain your feelings. I don't know her childhood the way you do. I can only tell you what she says she's ready for."
 
-The answer stopped her. It was a reasonable request, and she hated having to consider it.
+The apology stopped her. She'd come prepared to argue with somebody certain he understood her sister better than she did; hearing Percy admit he didn't had left her with less convenient anger.
 
-"What you got wrong is thinking this is some new problem you can explain because she's talked to you a few times. I was there when she was little enough to hide behind my legs. I was there when our mother disappeared for days and she pretended she wasn't hungry because she didn't want me to worry. I was there during the fever. I know when she's trying to make herself smaller so somebody else won't be frightened."
+"What bothers me is that you think this is some new problem you can understand because she's talked to you a few times. I was there when she was little enough to hide behind my legs. I was there when our mother disappeared for days and she pretended she wasn't hungry because she didn't want me to worry. I was there during the fever. I know when she's trying to make herself smaller so somebody else won't be frightened."
 
 Percy's expression had changed. He wasn't smiling anymore.
 
