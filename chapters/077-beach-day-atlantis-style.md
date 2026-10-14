@@ -117,6 +117,100 @@ Chiron rolled down, read the note, and said, "No training today. Beach day. Mr. 
 
 Mr. D was conspicuously absent, which everyone agreed improved the weather by at least ten degrees.
 
+Percy almost joined the rush to unpack the baskets when he noticed Bea watching Rainbow from the high, dry sand. Her stuffed seal was tucked beneath one arm. In her free hand she held the folded paper boat she'd made with Silena earlier that week.
+
+"Are the little animals going home?" she asked him.
+
+Percy looked toward the living tide-pool bowls. "That’s what the letter says."
+
+"Can they stay if somebody wants one?"
+
+The easy thing would be to promise her another animal. He didn't have that right. Amphitrite had sent them to visit, not to become somebody's souvenirs.
+
+"Let's ask exactly how it works," he said.
+
+They went to the shallows together. Tyson was hugging Rainbow's neck and telling him he was a magnificent messenger. Percy waited until the hippocampus had finished nuzzling his brother, then asked about the creatures and their return.
+
+Rainbow sent him an image of water moving through sheltered coral, little animals passing between the rocks, and a line of white foam closing over a nursery pool. Percy couldn't tell whether it was Rainbow's own memory or a picture included in the delivery instructions. He checked the letter again.
+
+On the back, in much smaller script, was a line he had missed: *The bowls are for observation, not keeping. Their inhabitants return to protected saltwater nurseries at sunset. Set no bowl in Camp Half-Blood's freshwater lake.*
+
+He read that part to Bea.
+
+"Because lake water isn't ocean water?" she asked.
+
+"Exactly."
+
+"I wouldn't like somebody putting my seal in a different house without telling me."
+
+Percy smiled. "I don't think he'd like it either."
+
+Bea considered the nearest bowl. "Then I'm glad they go home."
+
+She asked whether she could watch the enchantment end later. Percy said yes, if her counselor agreed and she stayed in the supervised part of the beach. She nodded and went to find Silena, leaving Percy with the shell letter.
+
+He carried it to Annabeth, who was still studying Amphitrite's architect kit rather than opening it. The pearl level rested in a molded case, and the parchment plan had tiny notes at its margins that Annabeth was reading with the concentration she usually reserved for a structural fault.
+
+"She remembered the thing you asked her about," Percy said.
+
+Annabeth looked up. "I was looking at this level for thirty seconds when we visited the courtyard. She remembered the exact model."
+
+"She's good at that."
+
+"I know." Annabeth turned the parchment over. "Sometimes I still forget she knows me."
+
+Percy sat beside her. "She's met you. She's written to you. She knows about your projects."
+
+"Yes. What I mean is that she knows this version of me. I sometimes catch myself thinking she must have been there for the other one too."
+
+Percy understood. Amphitrite had raised the child who'd grown up in Atlantis after Sally died in this history. He remembered none of that childhood from the inside. But he knew how she'd checked his departure bag, how she'd spoken to Annabeth, and how she'd hugged him when she visited camp. Those were encounters he could honestly call his own.
+
+"I wrote her about the anniversary," he said. "And Tyson's visit. She asked whether Clarisse and Silena were still fighting over the laundry rack."
+
+"And were they?"
+
+"They'd moved on to who got to control the windows."
+
+Annabeth laughed.
+
+"I didn't tell her why some old memories are hard for me," he continued. "She doesn't know about the rewrite. I told her the things I've actually been doing. That feels easier now."
+
+Annabeth studied him a moment, then took his hand. "You can love her without borrowing memories of childhood you don't have."
+
+"I know." He watched Tyson and Rainbow in the water. "And I can miss Sally without making Amphitrite pay for it."
+
+They stayed beside the baskets while camp came down to the beach. Silena had already marked a place above the high-water line for bags and shoes. Percy noticed Lucy helping her. The girl's light-up sneakers had nearly got wet on her first camp beach visit; now she was moving bags away from the incoming tide before anyone asked her.
+
+Grover arrived with a clipboard and three younger campers.
+
+"Chiron wants us to inventory the things that have to be sent home," he said. "He says a magical gift doesn't excuse us from keeping track of animals and property."
+
+"I can help," Percy said.
+
+Milo, who had been carrying spare towels, raised his hand. "Can I write the list?"
+
+Grover gave him the pencil. "Write what we actually know. If we can't identify something, put 'unknown.' Don't make a guess sound official."
+
+Milo wrote slowly and carefully. Percy watched him label a silver tool *unknown shell instrument* rather than inventing a name. The boy looked more comfortable with a task than he had on his first day at camp, though he still checked the path to the Big House whenever someone mentioned families.
+
+"You talked to Chiron about the letter?" Percy asked quietly.
+
+"Yeah."
+
+"Do you need any help?"
+
+"No. We made a plan."
+
+Percy nodded. He didn't ask to hear it. Milo had trusted him enough to ask for help reaching his brother, not to give him access to every private conversation afterward.
+
+Together they counted bowls, canopies, and equipment. Annabeth helped identify the architect tools. Tyson made sure the sea-silk ties were not wound around Rainbow's legs, and Grover posted one of the older campers near the living pools to keep curious hands from grabbing animals without permission.
+
+By the time the list was finished, the beach looked ready. Bea had found a place beside Ella where she could see the bowls without touching them. Lucy was telling another newcomer where the tide mark was. Milo was still holding the inventory, asking Grover whether the final signature should be his or Chiron's.
+
+Percy folded Amphitrite's letter and slipped it into his pocket. It had been a gift from his mother, written to people she recognized and cared about. He didn't have to pretend she knew the secret she didn't know to accept it.
+
+Rainbow whinnied one last time, nudged Tyson affectionately, and turned toward deeper water. Percy watched him disappear beyond the sandbar. Some presents, he thought, were meant to stay. Others were meant to be enjoyed and returned.
+
 ---
 
 By eleven, the beach had sorted itself into happy chaos.
