@@ -572,6 +572,276 @@ He didn't know when the next letter would come. Neither did she. That wasn't a r
 
 ---
 
+Thalia did not go back to Cabin One.
+
+She made it as far as the fork in the path before she turned toward the beach. The empty leather tube was still under her arm. She had meant to put it somewhere safe, but every time she shifted her grip, she felt the faint outline of the letters burned into its cap.
+
+Behind her, the dining pavilion was loud with the ordinary business of lunch preparations. In the other direction, the sea lay bright and cold beneath the April sun.
+
+She followed the beach path to Tempest Hall. On the sand outside, Percy and his sisters were counting the practice markers they had used during Triton's lesson. Annabeth crouched over a board covered with little diagrams. One of the ropes they had washed the previous evening hung from a rail, dry now except for a darker section near the middle.
+
+Clarisse saw Thalia first. "If you've come to make us march, we're not Romans."
+
+"Good," Thalia said. "I don't know how to march."
+
+Silena looked at the leather tube. Her smile softened, but she didn't reach for it. "Did you get everything sent?"
+
+"Chiron took it. Nothing left for us to do unless the Romans answer."
+
+"That's a dangerous amount of free time," Clarisse said.
+
+Thalia sat on a low bench. "What are you doing?"
+
+"Checking the safety line before the next lesson." Clarisse held up the rope. "We fixed the frayed section and rinsed out the sand. I don't trust the knot."
+
+"It's the same knot Triton approved yesterday," Percy said.
+
+"He approved the knot yesterday. He hasn't inspected it today."
+
+"He'd probably like that distinction," Annabeth said.
+
+Thalia watched Silena feed the rope through her hands, stopping every few inches to examine the fibers. Yesterday's training had ended with everyone still breathing and no one badly hurt. That hadn't happened through luck alone. When the stop command sounded, Percy had listened. Annabeth had held the plan together. Clarisse and Silena had kept the boundary clear.
+
+Jason would have liked hearing about a proper safety boundary. He had devoted an entire paragraph of his letter to Roman formation discipline and another to a centurion who made the recruits reset their shields if one person was out of line.
+
+Thalia had laughed at that paragraph. Now she found herself wondering whether the centurion had been right.
+
+"How do you call stop when the wind comes across the cove?" she asked.
+
+Clarisse pointed toward the flags. "We use those."
+
+"How do you know the person at the far end sees them?"
+
+"They look."
+
+"And if they're watching the water?"
+
+Clarisse narrowed her eyes. "Are you about to turn this into a lesson?"
+
+"Maybe."
+
+"Then help, don't ask questions from the bench."
+
+Thalia set Jason's tube beside her jacket and stood.
+
+The cove wasn't large, but it had an awkward curve. The beach narrowed beneath a line of scrub pines, and a rough shoulder of rock blocked the view from the main practice area to the southern marker. Beyond the rocks the water shifted constantly, small blue waves arriving at different angles as the tide turned. Someone stationed there might hear a shout but not see the instructor's raised arm.
+
+Annabeth opened her notebook. "We noticed that yesterday. I was going to propose a relay."
+
+"Then why didn't you?"
+
+"Because we were tired, and I didn't want to write an untested procedure after dinner."
+
+"Very Roman of you," Thalia said.
+
+"What does that mean?"
+
+"Jason's letter. He says they drill everything until people can do it asleep. I thought he was exaggerating."
+
+"Probably was," Percy said. "A little."
+
+"Still. They have a system."
+
+Clarisse folded her arms. "We have a system."
+
+"We have a flag and a loud mouth," Thalia answered. "Usually mine."
+
+"Accurate," Silena said.
+
+Annabeth drew three small marks along the shore. "One watcher at the main line. One at the point where the beach bends. One on the far marker. If anyone calls stop, the others repeat it and show the signal. Nobody resumes until the original instructor confirms."
+
+"How many flags?" Clarisse asked.
+
+"Two per station. A raised yellow flag for stop, a lowered flag for clear."
+
+"Two?" Percy asked. "I thought one was enough."
+
+"One can fall. Someone can be holding it when they need a free hand."
+
+Clarisse looked at Silena. "We have spare cloth?"
+
+"We have the practice pennants from last autumn. Some need hemming."
+
+"Then let's find out if any of this works," Thalia said.
+
+The first test was almost embarrassing.
+
+They put Percy at the far end of the cove, Clarisse beside the main practice area, and Silena between them, just beyond the bend in the beach. Annabeth stayed with Thalia to watch the positions. Nobody went into the water; they were testing communication, not asking anyone to demonstrate their powers.
+
+"Ready?" Thalia called.
+
+Percy gave a thumbs-up. Silena lifted her flag. Clarisse yelled, "Obviously."
+
+Thalia raised the yellow flag.
+
+Clarisse repeated the signal immediately. Silena lifted hers too, but Percy was looking toward the rocks because a gull had landed near his foot. By the time he noticed the flag, Clarisse had already lowered hers, assuming the test was over. Silena hesitated between them.
+
+"Stop," Percy called belatedly.
+
+Thalia lowered her arm. "That's not good."
+
+"It was a gull," Percy protested as he walked back. "A very distracting gull."
+
+"That's the point. The gull doesn't become less distracting when someone's in trouble."
+
+"We shouldn't clear until we know all three stations saw it," Annabeth said.
+
+Silena was already making a note. "And I need a signal that means acknowledged, not just stop. Otherwise I don't know whether Percy saw mine or happened to lift his at the same time."
+
+Clarisse looked annoyed. Not at Silena, Thalia realized, but at the fact that the problem was real.
+
+"Fine," Clarisse said. "We add acknowledgment. Make it something you can do with one hand."
+
+"A raised flag, then a horizontal hold," Annabeth suggested.
+
+Percy frowned. "What about people who are left-handed?"
+
+"The flag works in either hand."
+
+"What about me with a sword?"
+
+"Then someone else is holding the flag," Clarisse said. "You don't get to duel and run communications at once."
+
+They tried again. This time Silena kept her flag up until Percy acknowledged from beyond the bend. Clarisse waited until both had confirmed before she lowered hers. The system was slower by several heartbeats.
+
+"That took forever," Thalia said.
+
+"Four seconds longer," Annabeth replied, looking at the stopwatch. "And everyone saw it."
+
+Thalia didn't argue. She could picture Jason on a Roman field, waiting while an officer checked that five groups of recruits had understood an order. He would probably complain about it in a letter and obey anyway.
+
+They switched positions so each person could discover what the other stations could and couldn't see. Percy turned out to be good at spotting the movement of a flag over rough water but awful at guessing when a signal had been intended for him rather than for a neighboring group. Silena was careful and patient, but she couldn't hear Clarisse's voice consistently through the rocks. Clarisse had no trouble making herself heard; her tendency to clear the exercise as soon as she personally understood the order remained a problem.
+
+"One person doesn't get to decide everyone's ready," Annabeth told her after the third trial.
+
+Clarisse planted her flag in the sand. "I understood it."
+
+"You're not the whole group."
+
+"I know that."
+
+"Then wait for the whole group."
+
+Clarisse's mouth tightened. Thalia prepared for an argument, but Clarisse looked out over the cove instead.
+
+"When I was a kid," she said, "I hated waiting while somebody else got their shield up. I thought they were wasting time."
+
+Percy glanced at her.
+
+"Then I got older," Clarisse continued, "and I started being the one responsible for getting them back to camp. Turns out waiting is easier when you're not the person somebody's counting on."
+
+Silena gave her a small, pleased smile. Clarisse ignored it with considerable effort.
+
+Thalia looked down at the flag in her own hand. Her first instinct in a fight had always been to act before anyone could stop her. Often it worked. But she had spent years being the person who had to get Annabeth out of danger, and she knew the difference between being fast and making sure somebody was actually following.
+
+Jason had written that routine gave him a place to put his shield every night. Thalia didn't need his entire Roman camp here. She did need to admit that her little brother had found useful things she hadn't taught him.
+
+"Let's test it in crosswind," she said.
+
+Annabeth gave her a hard look. "Not with lightning."
+
+"I'm not planning to throw lightning at a flag."
+
+"Wind, then. Small. I want the flags to stay visible."
+
+Thalia stepped clear of the others and felt for the air along the shore. The breeze was already pushing inland, cool against her cheek. She added a narrow gust, enough to make the grasses bend and the flags flutter.
+
+The first pennant twisted around its pole. The second snapped sideways, tangling briefly with the cord that held the marker upright. Silena grabbed her flag before it wrapped itself around her wrist.
+
+"Stop the wind," Annabeth said.
+
+Thalia let it go at once.
+
+Clarisse inspected the tangled cord. "Well. That's another problem."
+
+"You wanted a test," Thalia said.
+
+"And now we know the flags need weights on the lower corners," Silena said. "Little ones, not enough to make them dangerous if they hit somebody."
+
+She found two smooth stones and showed Annabeth how she could sew pockets along the hems instead of tying weights on loose strings. Annabeth adjusted the drawing. Clarisse recorded that flags were not to be held where cord could catch a wrist.
+
+Percy, who had been trying to unwrap a twist from his pole, grinned at Thalia. "Your storm improved the lesson."
+
+"My storm nearly took out the marker."
+
+"Also true."
+
+He said it without accusation. That was almost worse. Thalia had expected somebody to tease her about making a mess; instead the team was treating the mistake as information and fixing it.
+
+For a few minutes they worked without talking. Silena measured the hems. Clarisse replaced the tangled cord. Percy collected the spare poles. Annabeth copied the new signals onto a clean sheet and added a blank line labeled FOR TEST DATE rather than pretending they had already passed every condition.
+
+Thalia sat on the bench to check the wording. She noticed the letter tube had rolled against the leg of the seat. The cap faced upward: THALIA — FROM JASON.
+
+Silena sat beside her with a threaded needle.
+
+"You kept looking at that," she said.
+
+"At what?"
+
+"The tube."
+
+"It's addressed to me. Not much else to look at."
+
+Silena waited. She was very good at making silence uncomfortable without making it hostile.
+
+Thalia turned the cap in her hands. "He spends half the letter complaining about orders and then tells me he's glad to know where his shield goes every night."
+
+"Both can be true."
+
+"That's annoying."
+
+"I thought you preferred honesty."
+
+"I do. That's also annoying."
+
+Silena tied off the first pocket. "You're going to write him about this, aren't you?"
+
+"I already sent my letter."
+
+"You can write another one."
+
+"I'd look ridiculous."
+
+"You look ridiculous carrying the tube around like you're protecting a baby bird."
+
+Thalia stared at her. Silena kept sewing.
+
+Then Thalia laughed, not loudly enough to startle the others but enough that Percy looked over.
+
+"I'm not writing him again today," she said. "He'll think I'm losing my mind."
+
+"Then remember it for the next letter."
+
+Thalia could do that. She could tell Jason his complaint about Roman drill had made her look at an old Greek training problem differently. She didn't have to pretend he was a child waiting for her advice about everything. She could ask what the Roman flag signals looked like, and he could answer if he wanted.
+
+"All right," she said. "Next letter."
+
+"Good." Silena held up the finished pennant. "How does that sit?"
+
+They returned to the cove for one last test. With the small weights stitched into the hems, the yellow flags remained readable even when the wind picked up. Silena passed a stop command around the bend; Percy acknowledged; Clarisse kept her flag raised until Thalia repeated the final signal. Nobody moved before the chain was complete.
+
+Annabeth timed the exchange. "Six seconds."
+
+"Is that good?" Percy asked.
+
+"It's consistent. Good can wait until we try it with more people."
+
+"You're going to write a manual," Clarisse said.
+
+"Two pages at most."
+
+"Three," Silena said. "One for the diagrams."
+
+"Don't encourage her."
+
+Thalia lifted the pennant once more, feeling the weight pull it straight. It wasn't particularly heroic. There would be no songs about three pieces of yellow cloth and a better way to make people listen.
+
+At the edge of the cove, her friends were packing up, already arguing about who would store the poles and who would mend the remaining pennants. She joined them instead of making another point.
+
+She left Jason's letter tube in her jacket pocket, where it fit badly and made the fabric bulge. By the time she returned to the cabin she would find a proper place for it. For now it stayed with her, while the flags dried and the next morning's work remained exactly where it belonged: on the list, not in her imagination.
+
+---
+
 *Proposed reply packet, to be reviewed for authorized delivery from Camp Half-Blood to Camp Jupiter:*
 
 *One comic by Annabeth Grace, 4 panels, full shading, toga redraw included.*
