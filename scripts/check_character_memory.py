@@ -47,8 +47,21 @@ CHECKS = {
     },
     "chapters/067-fishing.md": {
         "present": ("come to Atlantis with me", "come to Olympus with me",
-                    "pinky promise"),
+                    "pinky promise", "She did, on the back of the page",
+                    "The girl looked at the untied cord"),
         "absent": ("Amphitrite now knows about the other timeline",),
+    },
+    "chapters/068-the-storm-small.md": {
+        "present": ("You can stay without making yourself the place the lightning goes",
+                    "Percy had learned from the fishing day",
+                    "The brazier was taken out of service",),
+        "absent": ("Let Percy’s sea take it",),
+    },
+    "chapters/132-a-month-beneath-the-sea.md": {
+        "present": ("Then ask him, not your imagination",
+                    "The note was written, not delivered",
+                    "A good map saves people work"),
+        "absent": ("Silena whisked the photograph clear of the sand before they took positions",),
     },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
