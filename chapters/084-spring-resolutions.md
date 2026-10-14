@@ -266,6 +266,68 @@ They stayed there a while, planning rows, while the sun moved and the woodland b
 
 ---
 
+The first problem with the shrine garden was that Annabeth's drawing was wrong.
+
+It wasn't wrong about the position of the stones or the amount of afternoon sun. Percy had helped her measure those. The problem was that the little garden bed was growing across the route an older camper used to bring offerings to the wall. A new patch of thyme would look beautiful until somebody had to step through it to reach the memorial alcove.
+
+Annabeth found out when Mara, the Demeter camper who had helped with the beach castle, arrived carrying a tray of seedlings.
+
+"Where do you want these?" Mara asked.
+
+"Along the back," Annabeth said. "The thyme won't need much room."
+
+Mara looked at the path. "My counselor says we need room to get to the wall without stepping on the plants. We bring water and tools through there."
+
+Annabeth followed her gaze. The sketch had a narrow walkway. In practice the entrance was wide only if nobody was carrying anything.
+
+"You're right," she said.
+
+Percy knelt by the nearest stone. "Could we move this border?"
+
+"Maybe. But the soil changes nearer the wall."
+
+They tested it instead of guessing. Mara brought a small jug of water and poured it into two sample holes at different distances from the stone. The first drained slowly. The second drained even more slowly, leaving a little pool near the roots. Annabeth made a note and called over the Demeter counselor before moving anything.
+
+The counselor suggested keeping the main path open and placing the thyme in raised planters along the sunny side. That would allow the soil to dry properly and make it easier for younger campers to care for the plants without kneeling in the narrow bed.
+
+"Do you mind if we change the layout?" Annabeth asked Percy.
+
+"It's your garden."
+
+"Some of it. You helped make the plan."
+
+"And people actually use this place. Ask the people who use it."
+
+They took the revised drawing to Chiron. He agreed to inspect the planters when they were built and asked that the route remain clear for the infirmary cart, which sometimes brought campers to the memorial after an injury. Annabeth had nearly missed that clearance requirement when she planned the removable poem board earlier in spring. She wasn't going to repeat it.
+
+Mara worked beside Percy to move the soil into two small containers. She asked whether they could leave one corner unplanted for a child who wanted to make their own offering.
+
+"Yes," Annabeth replied. "But nobody gets to put names there without asking the family first."
+
+"Why?"
+
+"Because an offering can be private even if it's placed in a public space."
+
+Mara considered. "Could they leave a blank stone?"
+
+"Yes. We can ask Chiron about a place for those."
+
+The idea reminded Percy of a grieving Demeter camper who had wanted to honor someone without announcing the name to everyone. He remembered that conversation because he'd been present for it. Mara hadn't been there. He didn't tell her the boy's private circumstances. He simply said that a blank stone might mean something important to the person leaving it.
+
+They finished the revised layout by midday. The thyme was not planted yet, because the containers still needed an inspection and the soil needed to be mixed correctly. Annabeth took the unplanted seedlings back to the sheltered bench and covered them to keep them from drying out.
+
+Percy looked at the unfinished bed.
+
+"Not the resolution you wanted?"
+
+"It's the resolution I actually made," Annabeth replied. "Finish it properly."
+
+"With all the boring steps?"
+
+"Especially those."
+
+She smiled as she cleaned her trowel. The garden had made one more small change in her life: it no longer needed to look complete today to be worth doing.
+
 Thalia arrived at noon like a storm front, all crackle and grin and windburn.
 
 Percy heard her before he saw her, her laugh bouncing off the Big House porch, and then she was there, black hair spiked with rain, patrol parka over her Camp shirt, a bow across her back and pine needles in her boots. She dropped her pack, grabbed Percy in a headlock, and ruffled his hair until he yelped.
