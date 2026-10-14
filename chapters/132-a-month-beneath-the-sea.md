@@ -278,6 +278,110 @@ She turned, eyes bright. "Better."
 
 ---
 
+Percy meant to go directly from the beach to the archery range. Instead he saw the canoe shed door standing open and remembered he'd promised to help sort the spare paddles.
+
+Mara was inside, kneeling over a crate of life jackets. She looked up when his shadow crossed the threshold.
+
+"You're late."
+
+"By how much?"
+
+"Not terribly. I started without you."
+
+"I was talking to my sisters."
+
+"Good. Now help me find the ones with broken buckles."
+
+He set the shell on a dry shelf, far enough from the water that it wouldn't start glowing in sympathy with the sea. The canoe shed smelled of varnish, damp wood and rope that had been put away too soon. On a board beside the door someone had pinned the dock inspection list they'd drawn after the lost fishing line was found months earlier. Percy recognized Annabeth's map at once. Mara had added dates and initials beside every completed check.
+
+"You kept it," he said.
+
+"Of course. A good map saves people work."
+
+A second note beneath it read: TWO CHILDREN REQUESTED OBSERVATION ACTIVITY. A later entry recorded that the instructors had approved a supervised shore-based nature walk, but not any experiment involving buckets lowered from the dock. Percy smiled at the distinction. He remembered the younger campers leaving the beach with their empty bucket and far more questions than they'd brought.
+
+"Did the kids ever do the lesson?" he asked.
+
+"Last week. One boy brought me a drawing of every bird he could identify from the bank. The girl made a chart of how many times somebody told her to stand farther from the edge."
+
+"How many?"
+
+"Four. She wrote them all down."
+
+Percy laughed. Mara handed him a damaged jacket.
+
+"Here's another thing for the chart. See the stitching?"
+
+The strap had frayed where it passed under a small metal clip. Percy tested it and felt the fibers stretch, much too easily.
+
+"Out of service," he said.
+
+"Good. Tag it."
+
+He wrote the condition on a strip of paper. Another jacket had a sound buckle but a torn shoulder seam. A third fit nobody without riding up dangerously when lifted. Percy sorted them in silence, checking each one before he put it into the usable or repair pile.
+
+A boy arrived with two paddles under one arm and a canoe schedule under the other.
+
+"Mara says you're supposed to help teach the basic launch next week," the boy told Percy.
+
+"Am I?"
+
+"It says Percy Jackson on the list."
+
+Percy took the page. There was his name, in Chiron's tidy handwriting, next to the younger group. The work involved two afternoons, not a full month, and he could probably arrange a substitute. But he hadn't remembered it when Poseidon's invitation arrived. He'd been imagining the palace at a different depth from camp, as though the two schedules couldn't intersect.
+
+"I knew I had canoe duty," he said. "I didn't realize I'd been assigned the launch demonstration."
+
+"You volunteered," Mara said.
+
+"Oh."
+
+"During the last safety meeting. You said the younger campers should be able to ask questions without the instructor using the water to answer for them."
+
+"I did say that."
+
+"You were right. But right ideas still need people to show up and carry them out."
+
+He stared at the page. Mara didn't look angry. She expected him to make a responsible decision about the assignment, and he wasn't yet sure what that decision should be.
+
+"There's a chance I'll visit Atlantis for training," he said.
+
+"How long?"
+
+"Maybe a month. Maybe not. No dates yet."
+
+"Then don't erase your name before you have dates. When you know, come talk to me. We can find someone else, or change the lesson. What we can't do is wait until the children arrive and tell them you had an interesting offer."
+
+"Fair."
+
+She passed him a box of replacement buckles.
+
+Percy worked through the remaining jackets, adjusting straps, testing clips, and listing what could not safely be used. At one point he considered asking the water to rinse the salt off a pile of paddle blades, but Mara had already filled a basin. He used the basin. The chores went faster with two people doing different tasks than with one person waving his hands at everything.
+
+The boy with the schedule stayed to help. He was afraid of deep water, which he admitted quietly once Mara stepped outside to check the boats.
+
+"Doesn't that make me terrible at canoeing?" he asked.
+
+"It means you're cautious around water," Percy answered. "That can be useful."
+
+"Everybody else seems excited."
+
+"Not everybody. Some just make more noise."
+
+He showed the boy how to fit a life jacket so it wouldn't slip past his shoulders. The boy tried the buckle himself, then adjusted it once more when Percy asked whether he could breathe comfortably. Percy left him to test it without taking his hands away.
+
+By the time Mara returned, they had a tidy row of usable equipment and a separate box marked REPAIR. Percy signed the inventory and took a copy of next week's roster.
+
+"Thanks," Mara said. "Come back once you know your travel dates."
+
+"I will."
+
+He picked up the shell. It sat cool and quiet in his palm, as if Poseidon's invitation had been patient all along. Percy had wanted to go because he loved Atlantis and wanted more ordinary time with the family he was learning to know. That want hadn't become smaller. It had acquired an appointment at the canoe shed and two afternoons of other people's expectations.
+
+He folded the roster and put it in his pocket. He could show Chiron what he had promised rather than assuming someone else would remember it for him.
+
+---
+
 Thalia was at the archery range when Percy found her. Bow resting on the rail, she repaired a strap on her bracer with a small leather punch. Downrange, a target bore a neat cluster near its center, straw whispering where the latest shafts had bitten. The resin smell of pine and oiled leather hung in the warm air. Without looking up as he stopped beside her, pine sap and leather sharp in the air, she waited.
 
 "Annabeth told you," he said.
