@@ -998,7 +998,7 @@ Tyson turned it over. "I do not have to finish it. You can."
 
 Percy watched the two of them agree on the next step without either making promises about when Tyson could return. It was a small thing, a toy gear and a drawing. It mattered because Finn had learned enough to carry on and Tyson had been trusted with a job that could continue without him.
 
-After Finn left, Tyson put the gear in the pocket of his duffel nearest the photograph. He left the drawing on Percy's desk for a moment while he found a sheet of paper to copy the contact address.
+After Finn left, Tyson put the gear in the pocket of his duffel nearest his spare tools. The framed photograph of him and Percy remained on Cabin Three's windowsill, where he'd placed it for Percy to keep. He left the drawing on Percy's desk for a moment while he found a sheet of paper to copy the contact address.
 
 "You want to keep a copy?" Percy asked.
 
