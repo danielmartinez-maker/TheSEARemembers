@@ -102,6 +102,88 @@ Annabeth squeezed Percy's hand quickly under the table, excited and nervous. Tha
 
 ---
 
+The trouble started at the airport counter.
+
+Percy had believed the exchange paperwork was finished, mostly because he was tired of looking at it. Chiron had checked their approval letters, the Roman hosts had confirmed arrival times, and Annabeth had made two copies of the route map. The three of them had packed light enough that Thalia insisted they would look like ordinary teenagers, if ordinary teenagers carried emergency bronze weapons inside approved protective cases.
+
+Then the clerk looked at the tickets and frowned.
+
+"There are three passengers, but only two confirmed contact numbers."
+
+Percy reached for the folder. "We have three permission letters."
+
+"That's not what I asked for."
+
+Thalia leaned across the counter. "We're traveling together."
+
+"Yes, but the airline needs the approved arrival contact for each minor. This one is incomplete."
+
+She pointed to Percy's name. He looked down at the line. Under the destination contact, a code had been entered that belonged to the Atlantean academy. That was where he had started the journey, not where the Roman host would collect him.
+
+Percy felt his stomach sink. He had written the code himself when he sent the preliminary request in May, the one marked *pending confirmation*. Somebody had copied it into the final ticket record without checking the updated letter from Chiron.
+
+"That's my mistake," he admitted.
+
+Annabeth took the folder. She didn't take it away from him; she held it so both could read it. "The Roman host is listed on the confirmation letter. Can we amend the passenger record?"
+
+The clerk explained the procedure. The supervisor would need to verify the host number by calling the receiving organization, not simply accepting the name Percy provided. It would take a while. Their flight was not boarding yet, but the counter line was growing.
+
+Percy thought of using the Mist to make the code disappear. That would be easy in the short term. It would also leave him on a flight with a record that couldn't tell anyone where he was supposed to be collected.
+
+"No magic," Annabeth said quietly, reading his expression.
+
+"I wasn't going to."
+
+"You were thinking it loudly."
+
+Thalia grinned without much humor. "He's learning that bureaucracy is a kind of monster you can't stab."
+
+Percy stepped aside and let the supervisor make the call. Annabeth kept the other two passports and tickets together. Thalia checked that their bags were still beside the counter and not blocking anyone's path.
+
+The Roman host answered. The supervisor verified the receiving contact and corrected Percy's record. It took eleven minutes. Percy counted all of them.
+
+"You're cleared," the clerk said.
+
+"Thank you," he replied, meaning it.
+
+On the way to security, Thalia nudged him. "You didn't argue."
+
+"I did it wrong."
+
+"You admitted it."
+
+"That doesn't make me like airports."
+
+"No one likes airports."
+
+Annabeth looked at the corrected form. "We should tell Chiron which code got copied. Otherwise the next exchange group could have the same problem."
+
+Percy nodded. He wrote a quick note in the margins of the copied approval and sent it by the authorized messaging route before turning off his phone. He also apologized to the other two for nearly making them miss their flight.
+
+"We weren't going to miss it," Annabeth said.
+
+"You don't know that."
+
+"True. But we dealt with it before it became an emergency."
+
+Thalia looked toward the gate. "That's how adults keep telling us to handle things. It is deeply irritating when they're right."
+
+At the waiting area they found a small boy crying because he couldn't find his seat assignment. His mother was reading a reissued boarding pass that had been printed with the wrong row number. Percy almost offered to sort it himself. Instead he pointed them toward the gate agent, who could actually confirm the manifest.
+
+The boy stopped crying once the agent showed him the correct seat. Percy watched him walk away holding his mother's hand. Small errors could become enormous when the people carrying the paperwork didn't know how to correct them.
+
+Annabeth sat beside Percy and opened her architecture book. The page showed an old Roman aqueduct, all careful arches and stone joints.
+
+"Why are you looking at that?" he asked.
+
+"Because the Romans had to keep water moving even when things went wrong."
+
+"Don't make this another engineering lesson."
+
+"Then stop giving me perfect examples."
+
+Percy laughed and leaned back in the chair. The flight was finally going to happen, not because everybody had been certain it would, but because the people involved had checked the facts and fixed the error.
+
 Flying in late May was different than quest-flying.
 
 No monsters. No leap from exploding monuments. Just three kids in coach with misted boarding passes, Thalia white-knuckled on the armrests, Annabeth with a Roman architecture book open on her knees and a notebook filling fast, Percy with the window seat and his forehead pressed to the cold plastic, watching the country unroll.
@@ -290,7 +372,7 @@ Percy stood and bowed, nearly falling off his bench again. "I accept this honor 
 
 Annabeth hid her face laughing. Under the table, where no centurion could issue a demerit, she found his hand and squeezed. He squeezed back. Warm, hidden, steady.
 
-The night ended with the upside-down toast. Slaves drank first. Masters last. Jason, still in tinsel, raised his cup last of all.
+The night ended with the upside-down toast. Service volunteers were thanked first, then guests, then hosts. Nobody was made to play a servant in a festival about hospitality. Jason, still in tinsel, raised his cup last of all.
 
 "To guests!" he said. "To sisters — blood and chosen! To Greeks who stand funny and fight bravely! To spring break — when everything flips and we remember we're family underneath!"
 
