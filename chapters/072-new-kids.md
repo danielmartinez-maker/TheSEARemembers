@@ -706,7 +706,7 @@ That seemed worth remembering.
 
 ---
 
-They did the woods edge, the stables, the climbing wall, then the beach.
+They left the stables for the woods edge and climbing wall, then the beach.
 
 The beach was Percy's idea.
 
@@ -726,13 +726,223 @@ Annabeth closed her eyes and felt Percy's hand in hers, the cold tug of the Soun
 
 They stood until Bea laughed when a wave splashed her knees, until Lucy kicked water at Percy, until Clarisse declared a splash war Silena won.
 
+When the game ended, Lucy was the first to step back.
+
+"My shoes," she said, looking down.
+
+She'd left them with her bag at the top of the dry sand. The tide had edged toward them, not enough to carry anything away but enough to draw a dark line near the soles. The lights on her sneakers flashed once when she lifted them.
+
+"They're not waterproof," she said.
+
+"Most shoes aren't," Annabeth replied.
+
+"They're the only ones I brought." Lucy turned them over and pressed at the damp fabric. "My mom said I could wear them on the van because they were my good shoes. They're for school, but she said it was okay."
+
+The brightness she'd brought to the splash game vanished. Annabeth knelt beside her without trying to take the shoes.
+
+"We can see how wet they got," she offered.
+
+Lucy pulled them to her chest. "Don't."
+
+"Okay."
+
+"Everybody's going to say I was stupid."
+
+"Who?"
+
+"I don't know. Everybody." Her voice sharpened. "It was dumb to bring them on the beach."
+
+"We didn't tell you where the tide came in," Annabeth said. "We should have marked a place higher up for bags. That part's on us."
+
+Percy came out of the water with his rolled-up jeans wet to the knees and looked from Lucy to the shoes. For a moment Annabeth thought he might make a joke about his own history with footwear. He didn't. He sat in the dry sand beside her.
+
+"Do they still light up?" he asked Lucy.
+
+She held one by the heel and pressed the sole. A pink blink answered.
+
+"Good sign. Doesn't mean the inside is dry, though."
+
+Lucy frowned. "What does that mean?"
+
+"It means we should let someone check them. Not because they're ruined. Because electronics and salt water aren't a great team."
+
+Tyson approached, stopping far enough away that his shadow didn't fall over Lucy.
+
+"I can fix shoes," he said. "Sometimes. I know metal parts. But first we have to know what broke."
+
+"Nothing broke," Lucy said fiercely.
+
+"Then we do not fix anything," Tyson agreed.
+
+Lucy considered that answer. "Would you look? Just look. No taking them apart."
+
+"I promise."
+
+He examined the outside without pulling at the seams and reported that the lights seemed intact. He could not tell whether any salt had entered the small battery compartment, so he suggested asking the forge technician to inspect it later. He made no promise that every part could be saved.
+
+Lucy put the shoes inside her bag. "They were a present," she said quietly.
+
+Percy looked at Annabeth and then at the sea. He had a new deck of Mythomagic cards in Cabin Three, made from actual old cards and painted new ones, and he understood with sudden clarity how little use it would have been if somebody had told him not to care about it.
+
+"Can we put the bag somewhere safe until dinner?" he asked.
+
+Lucy nodded.
+
+Silena offered to carry it, but Lucy shook her head and held it herself.
+
+They climbed above the tide mark and chose a patch of flat dry ground. The beach was quiet now except for a few campers collecting shells farther down. Grover sat on a rock drying his hooves. Ella had found a smooth piece of driftwood and was studying a line of tiny holes as if it contained an ancient text.
+
+Bea sat apart from the others with her stuffed seal on her knees.
+
+Thalia walked toward her, then stopped when Bea turned away.
+
+"Want company?" Thalia asked.
+
+Bea shook her head.
+
+"All right. I'll be over there."
+
+She sat on the other side of the rock, where Bea could still see her. Annabeth noticed the effort it cost her sister not to pull the little girl into her arms. Thalia had spent years defending Annabeth with a ferocity that left little room for hesitation. Here she was learning a different kind of patience.
+
+Milo came to sit beside Percy. He'd stopped carrying the muffin tray after Grover volunteered to take it back, but he still held his orientation envelope.
+
+"Chiron said he'd tell me about my brother by evening," Milo said.
+
+"He did."
+
+"What if he says no?"
+
+"Then you can ask what has to happen before it's safe to contact him."
+
+"I hate that answer too."
+
+Percy smiled. "I thought you might."
+
+Milo watched a wave flatten against the shore. "Why does everybody here act like family? You're all different. Some of you barely know each other."
+
+"Some people have known each other for years," Percy said. "Some just met. They still have to decide how to treat each other. It's not automatic."
+
+"Clarisse called me her camp family."
+
+"She meant she wants to look out for you."
+
+"Does that mean I have to tell her things?"
+
+"No."
+
+"Good. Because she's terrifying."
+
+"She can hear you," Clarisse called from several yards away.
+
+Milo froze. Clarisse turned, grinning. "I can also hear that you didn't lie."
+
+That got a laugh out of him. Percy could see how badly the boy wanted to be included without owing anyone his private life in exchange.
+
+"I didn't have friends like this at home," Milo said.
+
+"What were your friends like?"
+
+"Normal. We'd play football after school. Sometimes we'd fight about who got to be goalie. My brother would come get me when it got dark."
+
+"Sounds good."
+
+"It was. I thought I'd be there next week too."
+
+Percy looked down at his wet shoes. A part of him wanted to say that maybe Milo would go back and play football next week. He couldn't know that. Instead he asked whether Milo had played defense or forward.
+
+"Goalie," Milo said. "Most days. Nobody else wanted it."
+
+"Was it fun?"
+
+"Sometimes. A lot of waiting."
+
+"Camp could probably use someone who can wait without falling asleep."
+
+Milo studied him suspiciously. "Are you trying to recruit me for another patrol?"
+
+"No. Absolutely not. Thalia's bad enough."
+
+From the rock Thalia raised a hand without looking around.
+
+Annabeth went down to the edge of the water and checked the distance between the foam and the spot where they'd left their towels. The tide was changing slowly. She'd known the sea long enough to respect Percy's confidence in it and to distrust the idea that confidence was a substitute for watching.
+
+Silena came beside her. "You look worried."
+
+"A little."
+
+"About the kids?"
+
+"About how much we told them everything would be okay."
+
+Silena glanced toward Bea. The girl was still holding the seal in silence, while Thalia waited on the next rock. "You don't think it will be?"
+
+"I think some things will be hard. Maybe tonight. Maybe next week. We can't make that disappear because we took them to the beach once."
+
+Silena folded her arms. "No. But we can be here when it happens."
+
+"Not every minute."
+
+"Then somebody else can be." Silena paused. "Chiron, the cabin counselors, Grover. Not just us."
+
+Annabeth nodded. It was easy to forget that camp existed before any of them arrived and would continue when they were busy with their own obligations. Percy had his training. Thalia had patrols. Clarisse had younger campers who needed shields adjusted, and Silena had her music. Being available didn't mean erasing those lives.
+
+"Would you ask Bea what she's worried about?" Annabeth asked.
+
+Silena considered. "I can ask if she wants to tell me. I can't promise she will."
+
+"Fair."
+
+They went back up the beach. Bea was now trying to fold a little rectangle of paper into a boat, but the wind kept lifting the corners before she could finish.
+
+"Do you want help?" Silena asked.
+
+Bea hesitated. "Maybe."
+
+Silena sat down beside her. "Show me which part doesn't stay folded."
+
+Bea pushed the paper toward her. Silena didn't take the whole project over. She pressed one crease while Bea made the other.
+
+"My grandma taught me," Bea said without looking up. "She puts little boats in the bathtub for me."
+
+"That's a good thing to remember."
+
+"She says mine always sink."
+
+"Does she make better ones?"
+
+"No." Bea's mouth twitched. "Hers sink first."
+
+They tested the paper boat in a shallow pool left by the retreating water. It floated for several seconds, then tipped when a little wave reached it. Bea grabbed it before it washed away.
+
+"Mine lasted longer," she said.
+
+"It did," Silena replied.
+
+Bea put it inside her coat pocket. Then, after a long pause, she asked, "Will you be at breakfast tomorrow?"
+
+"If my morning chores don't run long," Silena said. "But I can meet you after. Would that help?"
+
+Bea thought about the offer. "Can Tyson come?"
+
+"I can ask him."
+
+"Don't tell him I asked if you don't see him."
+
+"I'll ask him privately, then."
+
+Bea nodded. The seal's damp flipper stuck out of her arms, but she was no longer gripping it so hard. She'd made a request with conditions, and Silena had listened to those conditions.
+
+Percy watched from near the rocks. He hadn't heard the whole conversation. He saw Silena lean back to let Bea stand on her own and saw Bea tuck her paper boat into her pocket like a successful engineer.
+
+He remembered the child who'd stood by the van staring at the ground that morning. She still missed her grandmother. He could see that in the way she held her seal. But her first full day at camp now contained a paper boat, a wave, and a decision she'd made for herself.
+
 They walked back up the hill damp and sandy and tired in the good way, Bea riding on Thalia's back because her legs were short, Milo carrying Tyson's empty muffin tray like a trophy, Lucy chattering to Annabeth about books.
 
 At the top of the hill, under the boundary pine with the boundary wards glowing, they stopped. The whole valley spread below — cabins with smoke curling, the dining pavilion, the arena, the forest darkening. Home.
 
 Chiron waited there, as if he had known they would end up here. He smiled at the sandy, sleepy group.
 
-"Well?" he asked. "What do you think, new ones? Will you stay?"
+"Well?" he asked. "What did you think of today? Would you like to try another?"
 
 Milo looked at Percy. Lucy looked at Annabeth. Bea looked at Thalia and Silena and Clarisse, then buried her face in Thalia's neck and nodded hard.
 
