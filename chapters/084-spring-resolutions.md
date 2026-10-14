@@ -396,6 +396,110 @@ She punched his arm, but gently, and her eyes were shiny in the forge light. "Sh
 
 ---
 
+At five, the private resolutions had already begun changing.
+
+Percy found Ella at the library sorting the cream cards Silena had set out at breakfast. The cards weren't being collected for public reading. Campers could choose to put a sealed note in the box for themselves, give one to a friend or keep it in a pocket. Ella was drawing a divider between the notes people wanted archived and the ones nobody was allowed to open.
+
+"That's a lot of boxes," Percy said.
+
+"Different kinds of promises need different homes," Ella replied.
+
+"How do you decide who gets which?"
+
+"Ella asks. If someone cannot tell Ella, the letter stays with the person who wrote it."
+
+Percy nodded. He wasn't going to give her his Sally notebook just because it existed. The memorial garden and a book about his mother were different projects, even if they both dealt with grief.
+
+Silena came in carrying a bundle of folded cloth. "Has anyone seen Clarisse?"
+
+"Forge," Percy said.
+
+"Still?"
+
+"She was writing."
+
+Silena set down the cloth. Her expression changed. She had helped Clarisse make decisions about public poetry before, and Percy recognized the hesitation.
+
+"She told me she might read another piece tonight," Silena said. "I don't want to stand beside the fire waiting for her to do it. That's pressure."
+
+"Then don't," Ella suggested.
+
+"She asked me to listen if she reads it."
+
+"You can listen without asking for a performance."
+
+Silena considered, then smiled. "Fair."
+
+They went outside together. Clarisse was leaving the forge with the notebook under one arm and a small rolled sheet in her hand. She stopped when she saw all three of them.
+
+"What?"
+
+"Nothing," Percy said.
+
+"You're all standing in a suspicious formation."
+
+Silena held out the folded cloth. "You left this in the cabin. It's your old practice wrap."
+
+Clarisse took it. "Thanks."
+
+"And I won't ask what you're reading tonight."
+
+Clarisse looked at her with sudden relief. "Good. Because I haven't decided."
+
+Percy nodded. He wanted to tell her he was proud, that she should read it no matter what. That was exactly the kind of well-meant push she'd been resisting since the arena, when her private poems had become everybody else's topic.
+
+"You can come just to listen," he said.
+
+"I know, idiot."
+
+"That's what I'm planning."
+
+Clarisse almost smiled. Then she looked at Ella.
+
+"Did you get the words for the memorial board checked?"
+
+"Not the final mounting," Ella answered. "Chiron approved the plan, but the brace repair and cart clearance still have to be inspected."
+
+"Then it stays off the fence."
+
+"Yes."
+
+Percy was relieved to hear the older promise still had practical work attached to it. Annabeth had been careful about the placement since the first draft, and nobody needed the board installed in a rush just because the camp was feeling sentimental.
+
+Clarisse rolled the loose sheet into the wrap. She didn't offer it for anyone to read. Silena asked whether she wanted company on the way to the amphitheater, and Clarisse said yes.
+
+They walked together toward the open green. It was still light, and a few campers were carrying firewood to the supervised stack beside the stage. Chiron had asked for wet-weather covers because the wind was carrying rain. The fire would start only after the perimeter had been checked.
+
+A small girl from the Demeter cabin came running toward Silena, clutching a resolution card with muddy fingerprints.
+
+"I wrote that I want to learn the song," she said.
+
+"Which song?"
+
+"Yours."
+
+Silena looked startled. "You can learn it if you want."
+
+"Will you teach me?"
+
+"Not during the bonfire. Tomorrow, when my voice is rested and we can talk about the words."
+
+The girl nodded, satisfied by a specific answer. She tucked the card back into her pocket and went to find her counselor.
+
+Clarisse watched her go. "You make that look easy."
+
+"It's not always easy," Silena replied. "I wanted to say yes immediately. But then I would have spent the whole evening worrying about whether I remembered the plan."
+
+"See? You're learning."
+
+Percy smiled. The next generation of promises at camp was going to be less grand and more inconvenient. People would need to actually keep them.
+
+At the amphitheater the seats were already filling. A few campers chose not to write a resolution at all. Chiron didn't make them explain. Some brought cards to the box marked *private, return to owner*. Others kept theirs. One older camper asked whether a resolution could be revised tomorrow.
+
+"Of course," Ella said. "It's a plan, not a prophecy."
+
+Percy sat beside Annabeth and watched Clarisse choose a place near Silena. The loose poem was still rolled in the wrap. Whether she read it or not would be a choice she made when the time came.
+
 By seven the amphitheater glowed.
 
 The year-rounders had built the bonfire high and careful, oak and pine stacked in a teepee around a core of birch bark, with stones in a wide ring and logs for benches pulled close. Chiron had hung lanterns. The Apollo kids had strung bronze wind chimes that sang whenever the wind moved. Mr. D had, with great martyrdom, provided marshmallows and declared he would stay for exactly twenty minutes, which everyone knew meant two hours.
