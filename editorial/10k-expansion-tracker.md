@@ -6,18 +6,18 @@
 
 ## Latest current-branch continuation (2026-10-14 local snapshot)
 
-**Source:** [GitHub Actions full-manuscript QA run 38605972265](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38605972265), after the Chapter 076–077 expansions and handoffs. The subsequently added two memory-regression groups are separately checked on their exact script commit. Earlier tables lower in this file are historical and superseded for current totals.
+**Source:** [GitHub Actions full-manuscript QA run 38609594244](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38609594244), after the Chapter 078–079 expansion and handoffs. Two newly added memory-regression groups for 078–079 are separately checked on their exact script head. Earlier tables lower in this file are historical and superseded for current totals.
 
 | Scope | Current verified result |
 |---|---:|
 | Numbered narrative chapters audited | **193** |
-| At or above 10,000 actual body words | **153** (CI-verified) |
-| Below 10,000 actual body words | **40** (CI-verified) |
-| Required additional body words to clear minimum | **208,815** (CI-verified) |
-| Exact cross-chapter 300-word duplicates | **0 exact cross-chapter matches across 1,723,365 every-offset 300-word windows** |
-| Source-anchored memory regression checks | **17 checks passed** on corpus-validation head; **19 configured** after adding Chapter 076/077 guards; latest script-head run tracked separately |
+| At or above 10,000 actual body words | **155** (CI-verified) |
+| Below 10,000 actual body words | **38** (CI-verified) |
+| Required additional body words to clear minimum | **200,138** (CI-verified) |
+| Exact cross-chapter 300-word duplicates | **0 exact cross-chapter matches across 1,732,629 every-offset 300-word windows** |
+| Source-anchored memory regression checks | **19 checks passed** on corpus-validation head; **21 configured** after adding Chapter 078/079 guards, with newest guard-head run tracked separately |
 
-**Fifteen chapter expansion results since the 138/55 baseline**:
+**Seventeen chapter expansion results since the 138/55 baseline**:
 
 - [066, Jason's Letter](../chapters/066-jason-s-letter.md): **8,314 → 10,572** words; [memory handoff](../continuity/ch066.yaml).
 - [067, Fishing](../chapters/067-fishing.md): **5,758 → 10,292** words; [memory handoff](../continuity/ch067.yaml).
@@ -31,11 +31,13 @@
 - [075, Zoe's Story](../chapters/075-zoe-s-story.md): **5,558 → 10,087** body words; [continuity handoff](handoffs/ch075-zoes-story.md).
 - [076, The Promise (II)](../chapters/076-the-promise-ii.md): **5,228 → 10,350** body words; [continuity handoff](handoffs/ch076-the-promise-ii.md).
 - [077, Beach Day (Atlantis Style)](../chapters/077-beach-day-atlantis-style.md): **5,706 → 10,236** body words; [continuity handoff](handoffs/ch077-beach-day-atlantis-style.md).
+- [078, Nico's Birthday](../chapters/078-nico-s-birthday.md): **5,987 → 10,471** body words; [memory handoff](handoffs/ch078-nicos-birthday.md).
+- [079, Elena's Tale](../chapters/079-elena-s-tale.md): **5,336 → 10,116** body words; [memory handoff](handoffs/ch079-elenas-tale.md).
 - [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **4,921 → 10,464** words; [memory handoff](../continuity/ch118.yaml).
 - [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
 - [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,656** words; [memory handoff](../continuity/ch133.yaml).
 
-The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the CI-verified 40-chapter/208,815-word remainder. Length overages are not counted toward another short chapter's deficit. The [remaining expansion queue](handoffs/55-short-chapters-execution-queue.md) now starts at **078**, and also includes **131**. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
+The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the previously CI-verified 40-chapter/208,815-word remainder. Chapters 078–079 then removed **8,677 additional required words**, giving **38 chapters / 200,138 words** outstanding, verified by the subsequent corpus audit. Length overages are not counted toward another short chapter's deficit. The [remaining expansion queue](handoffs/55-short-chapters-execution-queue.md) now starts at **080**, and also includes **131**. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
 
 ## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
 
