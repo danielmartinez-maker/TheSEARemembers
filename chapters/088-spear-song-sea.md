@@ -614,6 +614,76 @@ Percy walked the rest of the way back to camp floating three inches off the grou
 
 ---
 
+Percy's sea lesson almost ended before anyone entered the water.
+
+He'd promised the others they could learn to breathe with the sea, but when Chiron arrived at the beach and asked him to explain the plan, he realized he was using the words *everyone can* for something only he had tested himself.
+
+"Can Clarisse breathe underwater as you do?" Chiron asked.
+
+"She can stay under longer than most people."
+
+"That isn't the same thing."
+
+Percy looked at his sister. She was standing beside the saltwater shallows with an impatient expression, though she was listening carefully.
+
+"I've never tried the full thing," Clarisse admitted.
+
+Silena shook her head. "Neither have I."
+
+Percy had been assuming that because they shared Poseidon as a father, the sea would respond to them in identical ways. That wasn't true of siblings anywhere else in camp. Thalia and Annabeth didn't use their father's power in precisely the same way, and Tyson's abilities were different from Percy's despite their shared parentage.
+
+"Then we start with something else," Percy said.
+
+He asked Chiron and the shore counselor to mark the practice area with floats. The water was shallow enough that everybody could stand. A lifeguard stayed on the shore with a rescue line. Percy explained that he would demonstrate his own breathing ability but nobody else was required to imitate it, and no one would test their limits by staying underwater until they were dizzy.
+
+Clarisse gave him a skeptical look. "This is less exciting than you advertised."
+
+"Probably. But it's safer."
+
+They began by feeling the movement of waves around their ankles. Percy asked the others to describe what they noticed before he demonstrated anything. Silena spoke about the change in pressure before a wave arrived. Clarisse noticed the way the sand shifted beneath her feet and adjusted her stance automatically.
+
+"Good," Percy said.
+
+"Good what?" Clarisse asked.
+
+"You're both noticing things I didn't tell you."
+
+He waded out only as far as the marked line. When he raised a small curl of water, Clarisse could feel it change direction before it reached her. Silena closed her eyes and counted the intervals between waves, using the rhythm she'd taught them during the sea-shanty lesson.
+
+"This is singing without sound," she said.
+
+Percy smiled. "Sort of."
+
+They tried a simple exercise: Percy moved a narrow current, Clarisse signaled when she felt the pressure change, and Silena kept time. On the first attempt Clarisse called the change too late. On the second, Silena counted a beat differently and Percy's current passed the marker before Clarisse was ready.
+
+"Stop," Clarisse said.
+
+Percy stopped the water immediately.
+
+She looked at him. "Good. You heard me."
+
+He understood the significance. During the storm, Annabeth had told him to stop and he hadn't listened. They had worked out better signals, but the practice mattered more than the paper. The water didn't need to be dangerous for him to demonstrate that he could release control when another person asked.
+
+They rehearsed the emergency gestures with both sisters and the lifeguard. The counselor corrected one of the signs because a raised arm could be confused with a signal to begin swimming. Percy agreed and changed it before anyone moved farther into the water.
+
+Then he demonstrated underwater breathing alone, for a short period, while the others observed from the marked safe area. Clarisse was fascinated, but she didn't ask to try it without understanding whether she had the same capacity.
+
+"Could I learn eventually?" she asked.
+
+"Maybe," Percy said. "We can ask Dad and the Atlantean instructors whether there's a safe way to test it. I can't promise."
+
+Silena smiled. "That might be the most responsible thing you've ever said near an ocean."
+
+"Please don't tell anybody. I have a reputation."
+
+When they returned to shore, Annabeth gave them towels and asked each sibling to describe one skill they wanted to keep practicing. Clarisse chose reading currents without losing her footing. Silena chose giving a clear stop signal while concentrating on rhythm. Percy chose obeying that stop signal on the first call.
+
+None of them chose to swim beyond the markers.
+
+The lesson had taught Percy something about the family he'd been so eager to find. They could love the same sea, share a father and sometimes sense one another nearby without having identical powers or identical childhood memories. The difference didn't make their bond weaker. It meant he had to ask what his sisters knew rather than assume.
+
+They took the equipment back to the shore shed, returned the rescue line properly coiled and signed the practice log. Percy had wanted to give them the sea as a gift. What he could actually give them was time to learn it at their own pace.
+
 The final spar was Thalia's idea. Of course it was.
 
 "You three think you're so synchronized now," she said at breakfast on the seventh day, lightning crackling faintly in her hair. "Spear, song, sea, blah blah. Prove it. Sisters versus siblings."
