@@ -660,6 +660,194 @@ They ate more cake. They told more stories — how Percy fell in the lake, how P
 
 As the afternoon gold slanted through the windows, the party wound down into that soft, sleepy, happy tiredness. Campers drifted off in twos and threes — to chores, to practice, to naps in the grass. Tyson fell asleep under the gift table with the automaton seahorse curled on his chest. Grover fell asleep with his head on a balloon. Thalia, Clarisse, and Silena ended up on the floor together, leaning against each other, shell lei shared three ways, laughing quietly about something only they heard.
 
+Percy tried to pack the cards away neatly. He made it through three sleeves before Nico appeared at his elbow.
+
+"Are those usable?"
+
+Percy looked up. "What?"
+
+"The cards. Did Annabeth make a game or a thing that's too nice to touch?"
+
+"Both, apparently."
+
+"Can I see the stats?"
+
+Percy handed him the Tyson card. Nico turned it over, examined the tiny lettering, then let out an incredulous sound.
+
+"Attack a million? That's not balanced."
+
+"Tyson requested it."
+
+"Tyson doesn't understand balancing."
+
+"Tyson understands hitting things."
+
+"That's why it's unbalanced."
+
+Percy pulled a chair over and cleared a place on the table. There were sticky rings from cups and crumbs in the seam, so he borrowed a cloth from the kitchen and wiped the surface until it was clean enough to use. Annabeth looked over from where she was talking with Silena.
+
+"What are you doing?"
+
+"Testing your gift."
+
+She stared at the open sleeves. "Already?"
+
+"Didn't you make it so I could play?"
+
+A surprised smile crossed her face, fast enough that he might have missed it if he hadn't been watching.
+
+"Yes," she said. "Just don't bend the custom cards. Malcolm will personally haunt you."
+
+Percy drew a hand of six. Nico chose his own from the restored originals, rejecting two whose corners had been reinforced with strips of archival paper. He didn't explain why. He had always been particular about the feel of cards, Percy remembered from a life in which the boy had seemed impossibly young and then suddenly older than anyone should have been.
+
+That old Nico was not standing at this table.
+
+This Nico had a smear of blue frosting near his collar and was glaring at a game rule as if it had insulted his father.
+
+"Your version gives defensive units three actions," Nico said.
+
+"Mine?"
+
+"Whoever wrote these rules."
+
+"Annabeth," Percy said.
+
+"Of course."
+
+He called Annabeth over. She read the contested rule, then glanced at the pile of cards Nico had chosen.
+
+"You're trying to use the same defense three times," she said.
+
+"Because it's an excellent defense."
+
+"It has a cost."
+
+"Which you made absurdly high."
+
+"Which keeps a defensive card from winning the game by itself."
+
+Nico folded his arms. "I'd like to appeal."
+
+"Appeal denied."
+
+"You didn't even hear my case."
+
+"I saw your hand."
+
+Percy laughed. It was the first time that afternoon the cards had behaved like a game instead of an artifact, and he felt something settle. Annabeth took the chair beside him, close enough that their knees bumped. She helped Nico read the printed version of the rule, then admitted that one of the new handwritten cards needed clearer wording.
+
+"We'll mark it," she said.
+
+"Your own card is overpowered," Nico told her.
+
+"So is Percy's."
+
+"That doesn't make it fair."
+
+"Correct. It's a commemorative edition."
+
+Nico seemed satisfied by that distinction. He slapped down a card showing a skeletal warrior and announced an attack against Percy with obvious delight.
+
+Percy countered with Grover, whose special ability allowed him to slow an opponent's next turn by playing music. Nico stared at the card.
+
+"Grover doesn't do that."
+
+"Have you heard him practice before breakfast?"
+
+"That's a good point."
+
+They played three turns before Tyson woke under the gift table and lumbered over, still half asleep. His mechanical seahorse followed him, clicking softly against the floor. Tyson saw the card bearing his name and demanded to play it. Nico, who had been calculating probabilities with considerable care, let Tyson take a turn just to see what would happen.
+
+Tyson placed his card sideways.
+
+"That isn't how it works," Nico protested.
+
+"Tyson protects Percy."
+
+"Yes, but you have to spend points."
+
+"Tyson has many points." He gathered the tiny counters in one enormous hand.
+
+Nico looked at Percy for help. Percy looked at Annabeth. She pressed her lips together to keep from laughing.
+
+"Okay," Percy said. "House rule. Tyson can protect me once if he gives the counters back."
+
+Tyson returned them with a solemn nod. He placed his card over Percy's and sat beside him, satisfied.
+
+Nico took the next turn. He had been planning it for some time, and with one move he cleared both cards from the table.
+
+"Ha," he said.
+
+Tyson looked down at the empty spaces.
+
+"Percy died?"
+
+"In the game," Annabeth said quickly.
+
+"Only in the game," Percy agreed. "I can come back next round."
+
+Tyson considered this and then grinned. "Good game. Tyson still loves Percy."
+
+"Not sure if the rules allow that after defeat," Nico said.
+
+"They do now," Percy replied.
+
+It wasn't a grand revelation. There were no tears, no speech, no attempt to explain the cards as evidence of an earlier life. Percy simply gathered them into a neat stack and found that he wasn't afraid of what might happen to them anymore. There were new marks on some of the sleeves where Nico's thumbs had pressed. One corner of the rules sheet had a spot of frosting. Annabeth had written *clarify cost* beside the disputed defense.
+
+The deck was already acquiring a history in this camp.
+
+That mattered more than the precise shade of green on a card Percy could barely remember holding.
+
+When Nico went to help Grover gather the empty plates, Percy caught Annabeth studying the handwritten inventory tucked in the deck box.
+
+"Something wrong?" he asked.
+
+"I listed one of the restored cards as original. Malcolm corrected me this morning. I meant to change the note."
+
+Percy looked at the little line she'd circled. He could have argued that it wasn't a big deal. He knew better than to do that when a correction mattered to her.
+
+"Can we fix it now?"
+
+"I have a pencil."
+
+"Of course you do."
+
+She changed the description in three careful words and showed him. He nodded. She closed the box and laid it in his hands.
+
+"You okay with it being different?" she asked.
+
+"Wise Girl, you made Tyson a god-tier limited edition. Different is kind of the point."
+
+"That's not what I mean."
+
+He knew. He took a breath before answering.
+
+"I remember a drawer in Sally's apartment," he said quietly. "I remember spending whole afternoons making up battles I always won. But I don't know if the cards were in a blue box or a red one. And when I try to picture the printed art, I keep getting the picture you made instead."
+
+Annabeth's eyes searched his face. "Does that scare you?"
+
+"A little."
+
+"I didn't want to replace it."
+
+"You didn't." He touched the new box. "You gave me something to remember for next year."
+
+A shout from across the room interrupted them. Travis was trying to carry six leftover cake slices at once. Clarisse told him to use a tray. He ignored her, and the top slice slid down his arm onto the floor.
+
+Percy watched it happen and decided that memory didn't always need elaborate preservation. Some things would survive because nobody present was ever going to let Travis forget them.
+
+He took Annabeth's hand. "Come outside with me?"
+
+She gathered his star map, checking that the blue-green ink had dried. "Where?"
+
+"Somewhere without a game referee."
+
+"Nico's actually very good at it."
+
+"He's terrifying."
+
+"That too."
+
 Percy and Annabeth slipped out with the map and the cards, hands linked, bare feet silent on the Big House steps.
 
 ---
