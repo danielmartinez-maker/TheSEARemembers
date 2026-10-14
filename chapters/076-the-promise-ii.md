@@ -934,7 +934,9 @@ For those who came back. For those who did not. We remember together.
 
 And ahead, already bickering about who got extra pizza, the ones who had promised walked on — together, in this timeline, choosing each other again, as they had before and would again, whatever came.
 
-The oak leaves whispered. The lake kept shining. Camp Half-Blood rang its dinner bell, and for once it sounded less like a summons and more like a blessing.
+After dinner Percy returned to the canoe dock with Annabeth and finished the rope coils he had left undone. He checked each cleat and carried the last bundle into storage before asking the cabin counselor to sign off his community-service task. Annabeth held the lantern; she did not do his work for him. On the way back he told her he was glad she'd brought him to the shrine, and she said she was glad he'd finished the rope.
+
+The oak leaves whispered. The lake kept shining. Camp Half-Blood rang its dinner bell earlier that evening, and for once it had sounded less like a summons and more like a blessing.
 
 Hopeful. Stubborn. Human. Home.
 
