@@ -358,23 +358,23 @@ She recruited two Aphrodite friends for frosting duty, one for meringue ghosts, 
 
 Bianca left the Aphrodite cabin with a list of ingredients and a ribbon tied around her wrist for luck.
 
-She was rounding the corner toward the Big House when the sky cracked open.
+She was passing the fenced, empty practice circle beside the Big House when the air snapped with a sharp sound.
 
-It was not a big crack. Just a snap and a sizzle, like static on a wool blanket. A bolt of lightning no thicker than her finger struck the grass ten feet away, fizzled, and left behind a scorched patch and the smell of ozone.
+It was not a big crack. Just a snap and a sizzle, like static on a wool blanket. A thin line of blue-white static leaped between two grounded practice posts inside the marked circle, fizzled, and left behind the smell of ozone. The practice line had kept it away from the public path, but it was still louder than Thalia intended.
 
-Thalia Grace stood in the middle of the path with her hands on her hips, frowning at the sky.
+Thalia Grace stood inside the safety circle with her hands on her hips, frowning at the insulated posts.
 
 "No! Smaller!" she shouted at it. Or at herself. "I said tiny!"
 
 Bianca stared. Thalia's black hair was standing up slightly at the ends. Her blue eyes were narrowed in concentration. Sparks crawled over her knuckles.
 
-"Sorry!" Thalia said when she saw Bianca. "Sorry. I'm practicing. Don't walk there, it's tingly."
+"Sorry!" Thalia said when she saw Bianca. "Practicing. Nobody's supposed to come inside the safety line. Chiron wants a quieter test before he approves anything."
 
 "Practicing what?"
 
-"Birthday fireworks." Thalia grinned, sheepish and proud. "Annabeth told me. Look, I can't do big stuff — last time I tried party tricks I set a table on fire. But Chiron said if I can keep it small and controlled, I can do a finale. Small pops, no boom. Like sparklers but lightning. Safe lightning. Which sounds fake, but —"
+"Birthday lights," Thalia said, sheepish and proud. "Annabeth told me. The first experiment was too loud, so we're not using anything like it near people. I want to bend light through a few insulated threads and leave the dangerous part grounded, where nobody can touch it."
 
-She held out her hand, breathed out slow, and let a thread of electricity dance across her palm. It split into three, then five tiny sparks that hung in the air like fireflies, white-blue and humming faintly, then faded.
+She stood behind the cordon, breathed out slowly, and let a faint luminous thread dance between the grounded posts. It split into three, then five tiny sparks that hung in the air like fireflies, white-blue and humming faintly, then faded.
 
 Bianca gasped. "That's amazing."
 
@@ -601,6 +601,8 @@ His head snapped up. "Clarisse? Really?"
 "Really. Go brush your teeth. You have dirt on your face again."
 
 He ran. Bianca exhaled. Phase one complete.
+
+On the way to the arena she stopped by the Big House. Chiron had inspected the fort at dawn with Annabeth and Beckendorf, tested the repaired railing under load, checked the exit path and signed its opening certificate. The loft had a two-person limit and the counselor nearest Cabin Thirteen would be responsible for closing it after dark. Bianca checked the certificate herself before passing the word to the decorators.
 
 At ten o'clock sharp, half the camp found excuses to be near the training arena.
 
@@ -856,17 +858,15 @@ As dusk fell, Thalia took Nico's hand and led him to the center of the clearing.
 
 Nico closed his eyes tight. Thalia looked at Bianca, who nodded. She looked at Chiron, standing at the edge of the trees with a blanket around his shoulders, who nodded too.
 
-Thalia breathed in, raised both hands, and let go.
+Thalia breathed in, checked that Chiron and the Hephaestus counselor were beside the marked light rig, and raised both hands. The display used insulated threads and prisms fixed high above the viewing line. Its power source was shielded and grounded; no live bolt crossed the space above the children.
 
-Not lightning as a weapon. Lightning as lace.
-
-Tiny threads of light bloomed above the fort, splitting and rejoining, hanging for a heartbeat like glowing spiderwebs before dissolving into sparks that drifted down slow as snow. Blue-white, gold-white, soft violet. They popped faintly, like distant popcorn, no louder than leaves rustling. They reflected in the jellyfish lanterns, in Percy's ghost ships, in Nico's wide eyes.
+Light bloomed above the fort, splitting and rejoining along the hanging threads, then reflecting as blue-white and soft violet lines across the slatted roof. Nothing fell toward the audience. It was quiet enough that Nico could hear his friends whispering about the shapes. The harmless reflected patterns shone in Percy's water lanterns and in his own delighted eyes.
 
 "Whoa," Nico breathed. "Whoa, whoa, whoa—"
 
-The other kids ooh-ed and ah-ed. Mrs. O'Leary, who had arrived with a bow tied around her neck, bayed at the lights and tried to catch them, sending sparks scattering harmlessly off her nose.
+The other kids ooh-ed and ah-ed. Mrs. O'Leary, who had arrived with a bow tied around her neck, bayed at the reflected lights and tried to chase them. Her handler drew her back before she could reach the equipment, and she settled beside Nico's bench.
 
-Thalia kept it going for three minutes — her personal best for control — then let the last threads fade, breathing hard and grinning. Sweat stood out on her forehead. Her hands trembled slightly.
+Thalia held the patterns for thirty seconds, then let the reflections fade. She was breathing hard and smiling, but she stopped when the planned time was up rather than trying to make the display bigger.
 
 Nico ran to her and hugged her legs. "That was better than fireworks! Can you do it every year?"
 
