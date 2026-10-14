@@ -1010,6 +1010,10 @@ In the morning they would return to camp, to drills and prophecies and mortal sc
 
 But for now, under the whale mural, with the sea humming through the walls, the three children of Poseidon slept side by side in the nursery for the first time, Percy's girlfriend and his sisters' friend safe beside them, home together at last.
 
+Percy had left the guest itinerary folded beside the bed, where he could find it in the morning. He knew who would escort them to the shore, which workshop Tyson needed to return to, and when Chiron expected confirmation of their arrival back at camp. These weren't grand revelations about his past. They were ordinary pieces of a life he could account for, and they mattered just as much as the mural above the bed.
+
+He closed his eyes with Clarisse's familiar breathing on one side and Silena's sleepy muttering on the other. Annabeth was close enough to take his hand if either of them woke. The family had come to the palace with separate memories and chosen to make a new one.
+
 The sea remembered this night, and kept it.
 
 ---
