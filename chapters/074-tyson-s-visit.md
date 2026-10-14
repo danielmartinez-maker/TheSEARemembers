@@ -118,6 +118,152 @@ Percy laughed, a little wet around the edges. "Dad's gonna love that. He's more 
 
 They set it together on the little altar in the corner, and Tyson poured a careful spoonful as an offering. The salt breeze through the window lifted the scent of peanuts and sea.
 
+Clarisse arrived a few minutes later carrying two shields and a bundle of wet practice shirts. She stopped just inside the doorway, looked at the guest bunk and set everything down very slowly.
+
+"Jackson."
+
+Percy turned. "Which one?"
+
+"The one who decided my equipment chest should live in the hallway."
+
+Percy glanced at the wall. He and Beckendorf had moved the chest when they lengthened the bedframe. At the time it had seemed obvious: the chest was heavy, the floor space was limited, and putting it outside for a few days wouldn't hurt anybody.
+
+"Only for Tyson's visit," he said.
+
+"Did you ask me?"
+
+"No."
+
+"Funny. I would've remembered."
+
+Tyson looked between them. "I am too big?"
+
+"No," Clarisse said immediately.
+
+Percy looked down. He hadn't expected the words to hurt quite that much.
+
+"I wanted him to fit," he said.
+
+"So did I. The equipment chest has a home too. It has all my extra spearheads, and I have training in the morning. I'm not getting dressed in the hallway while the whole camp watches."
+
+"Then we can bring it back."
+
+"Where?"
+
+Percy looked around. With the guest bed widened there was no room between its foot and the washstand. Silena's drying rack blocked one side of the window, and the door only opened so far before touching Tyson's luggage.
+
+"I'll figure it out."
+
+"You already figured it out once. That's what I'm talking about."
+
+Tyson set down the photograph frame he'd been adjusting and stood. He was taller than both of them by so much that he had to duck under the beam. When he spoke, his voice was gentle but firm.
+
+"Percy tried to make room for Tyson. Clarisse needs room for Clarisse. I can help."
+
+"It's not your problem, Big Guy," Percy said.
+
+"Is my bed."
+
+"You just got here. You're not supposed to spend your first day moving furniture."
+
+Tyson frowned. "I spend many days moving furniture at forge. This is easy furniture."
+
+Clarisse made a small sound that might have been a laugh. Percy gave her a look.
+
+"What?"
+
+"Your brother wants to help. You're refusing because you already decided how his visit should go."
+
+Percy folded his arms. "I'm not refusing."
+
+"Then what do you call it?"
+
+He didn't have an answer.
+
+Silena came in behind Clarisse carrying a laundry basket. She took in the furniture, the three faces and the equipment chest in the doorway.
+
+"Did I miss a cabin meeting?" she asked.
+
+"Apparently we're having one," Clarisse said.
+
+Silena set the basket down. "Good. I have opinions about the drying rack."
+
+"Of course you do."
+
+"It catches on everybody's blankets. I've been meaning to move it since February."
+
+"Then why didn't you?"
+
+"Because you'd complain if I used the hook by your bunk."
+
+Clarisse opened her mouth, closed it, and looked at Percy. "Fine. We all have opinions."
+
+Tyson lowered himself carefully onto the edge of his new bed. The frame creaked. He looked embarrassed by the sound.
+
+"I can sleep in hammock," he offered.
+
+"No," Percy and Clarisse said together.
+
+Tyson blinked. Percy glanced at his sister. For a moment the old competition rose between them, the desire to be the one who'd thought of the right thing and defended it first.
+
+Then Clarisse pulled the guest pillow toward the far end of the bed.
+
+"He's going to sleep in the bed we made," she said. "We just have to stop behaving like moving a chest is a personal betrayal."
+
+"It is a personal betrayal when you move my chest," Percy said.
+
+"It's my chest."
+
+"Exactly."
+
+Silena sat on her bunk and began counting floorboards with a finger. "What if we put the drying rack outside during the day? It's supposed to dry things. The air is out there."
+
+"And if it rains?" Clarisse asked.
+
+"Then we bring it in. That's why it has handles."
+
+Tyson leaned forward. "Could make folding rack. It will go against wall when not used."
+
+"How long?" Percy asked.
+
+"Not today. I have to ask Nyssa for hinge scraps." Tyson smiled. "Tomorrow maybe. If not, another day."
+
+Percy was about to say they could use the forge immediately when he caught himself. Tyson had only just arrived, and he wasn't a machine Percy could turn on whenever a problem appeared.
+
+"Whenever you have time," he said.
+
+Tyson nodded, pleased to be asked rather than assigned.
+
+They moved the chest back inside by shifting a small shelf from the wall. Clarisse checked that its lid could open all the way. Silena tested the washstand drawer. Tyson walked from his bed to the door twice and declared that he could now leave without bumping his shoulder on the beam if he remembered to duck.
+
+Percy was responsible for carrying the displaced laundry basket to the washing room, a punishment Clarisse described with more satisfaction than the task deserved. He took it because he'd caused the trouble. Halfway down the path he realized he had brought out a basket of Silena's clean clothes instead of the dirty ones.
+
+He went back. Silena laughed at him. Clarisse didn't even bother to hide her grin.
+
+By the time they were done, the cabin looked much the same as it had before. Tyson's bed was still too short, and the big photograph still faced Percy's bunk. The floor was easier to cross. Clarisse had access to her chest. Silena's rack stood in the sun outside with a note tied to it in case somebody mistook it for abandoned equipment.
+
+Tyson sat on his bunk and examined the photo again. "This is good," he said.
+
+Percy sat opposite him. "You keep saying that."
+
+"Because it is true."
+
+"It wasn't perfect."
+
+"Good things don't have to be perfect," Tyson said. "At the forge, if a joint is bad, we fix it. We do not throw out whole machine because one screw is wrong."
+
+Clarisse raised an eyebrow. "I like him. Can we trade?"
+
+"No," Percy said.
+
+Silena leaned over the bunk and straightened the photograph so its reflection did not catch the afternoon light. "Family meeting complete. Everybody has a space."
+
+"I have two sisters who think they run the world," Percy told Tyson.
+
+"They run cabin," Tyson replied.
+
+Clarisse laughed loud enough to startle a gull at the window.
+
 That night, Percy lay in his bunk listening to Tyson snore — a sound like a foghorn with a cold — and staring at the dark ceiling with a grin he couldn't wipe off. Across the narrow aisle, Tyson's huge hand dangled off the edge of his bunk. Percy reached out without getting up and bumped his knuckles against it.
 
 Tyson snorted, half-asleep, and curled his fingers around Percy's hand. "Night, brother," he mumbled.
