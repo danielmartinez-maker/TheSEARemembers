@@ -664,6 +664,70 @@ They laughed, and the cabin walls, which had once echoed empty, held the sound w
 
 By evening the rain stopped as suddenly as it had started, leaving the whole camp dripping and shining under a washed blue sky.
 
+The creek path was still closed. The loose bracket on the railing had been replaced, but Beckendorf wasn't satisfied with how the old wood held the new bolt. Percy saw the work crew at the crossing when he went to collect water for the bonfire.
+
+"Is it fixed?" he asked.
+
+"Not for use," Beckendorf said. "The bolt is fine. The rail needs a new length of wood before anyone can lean on it."
+
+"Can I help?"
+
+"You can help carry the barrier signs, if Chiron has cleared you for that."
+
+Percy checked. Chiron approved the sign work but asked him not to test the structure himself. Percy had enough strength to hold back a current. That did not mean his hands could tell whether an old timber would hold a camper leaning on it in the rain.
+
+He took the signs along the alternate path and placed them where new arrivals could see them before reaching the crossing. Annabeth met him with Lucy and her counselor. Lucy checked the direction of each arrow, then stood back at the first fork.
+
+"That one is still too high," she said.
+
+Percy looked up. The sign was readable to him. He lowered it so a younger camper could see it without craning their neck.
+
+"Better?"
+
+"Better."
+
+They walked the route once more and returned to the Big House. Chiron added the replacement rail to the next day's repair list and asked that the shortcut remain closed until it passed inspection. Percy thought of the old habit of shouting *Fixed!* every time someone tightened a screw. The new habit was slower. It also meant people could trust the sign that told them where to walk.
+
+On the pavilion steps he found Silena sorting towels from the rain into two baskets, one for washing and one for drying. Clarisse was beside her, trying to untangle a pile of wet tent lines from the afternoon's training drills.
+
+"You're late," Clarisse told him.
+
+"For what?"
+
+"Helping."
+
+"I didn't know I was assigned."
+
+"You're assigned now."
+
+Percy raised his eyebrows. "Ask me."
+
+Clarisse glared at him. Then, with visible effort, she said, "Would you help us untangle these? We can finish before dinner if all three of us work."
+
+"Yes," Percy answered.
+
+Silena smiled down at her towels. "That was almost polite."
+
+"Don't spread rumors," Clarisse said.
+
+They worked until the lines were neatly coiled and each was marked for the correct storage rack. Percy found that the knots were worse near the old broken pegs, which let lines twist whenever someone pulled a bundle free.
+
+"Could we fix the pegs tomorrow?" he asked.
+
+"Maybe," Clarisse replied. "They're not an emergency."
+
+"Then put them on the list."
+
+Silena held up the basket. "My resolution was to stop making everybody's problems my own. These towels were left by people who can do their own laundry."
+
+Percy looked at the name tags. Two belonged to Apollo campers who were still at practice. Silena had been sorting them so they wouldn't mildew before the evening return, but she was not their laundry service.
+
+"Let's leave a note," he said.
+
+She wrote a reminder on the notice board. Clarisse put the dry lines away. They went to dinner with their own work finished and everybody else's laundry still somebody else's responsibility.
+
+Percy liked the way the rain had changed the camp without turning the entire evening into a crisis.
+
 The Apollo counselors requested a supervised bonfire down by the lake. Chiron approved the site after inspecting the fire ring, confirming a water supply and assigning adults to stay until the embers were cold.
 
 Word spread cabin to cabin: bonfire, lake, bring food, bring blankets.
