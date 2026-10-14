@@ -518,17 +518,115 @@ Clarisse hesitated. For all her armor and bluster, there was something raw in he
 
 Thalia held out her hand without touching Clarisse's. "Your call, La Rue. Nobody gets volunteered."
 
-Clarisse scowled, but she did not pull away. "Whatever happens," she muttered. "Together. Family. And if any of you tell the Ares campers I did something sentimental, I will deny it and shove you into the lake."
+Clarisse hesitated, but then put her hand beside Thalia's of her own accord. "Whatever happens," she muttered. "Together. Family. And if any of you tell the Ares campers I did something sentimental, I will deny it and shove you into the lake."
 
 "Noted," Annabeth said, laughing through tears she was trying not to shed. She linked her pinky with Thalia's, then Clarisse's. Percy did the same, making a tangled knot of hands in the middle.
 
 "Whatever happens," the four of them said together, uneven and laughing. "Together."
 
+Percy looked at the four raised hands and had the uncomfortable thought that promises were easy to make when nobody needed anything from you yet.
+
+"There's a question," he said.
+
+Clarisse lowered her hand. "There usually is when you start thinking."
+
+"What does this actually mean?"
+
+Thalia stared at him. "We just said it."
+
+"I know what we said. What happens when one of us needs something and the others are busy? What happens when you have patrol duty, or Clarisse's got fifty kids in the arena, or Annabeth has a project that can't wait? We're not going to keep the promise by pretending none of us has a life."
+
+Annabeth looked at him with a surprise he could almost feel. A younger version of Percy might have been embarrassed to have interrupted a good sentimental moment. He was embarrassed now too, but not enough to stop.
+
+"It's not a promise to be available every minute," Thalia said.
+
+"Then say that."
+
+Clarisse rubbed her hand over her face. "Are we making camp policy out of a pinky promise?"
+
+"No," Annabeth said. "We're making sure everybody agrees to the same thing."
+
+She took her notebook out of her bag, then stopped. Percy noticed how she looked at Clarisse before opening it. Clarisse had been painfully clear about not wanting her own poems treated as documents for public consumption.
+
+"You don't have to write this down," Clarisse said.
+
+"I know." Annabeth put the notebook away. "I was going to record it because I like being precise. Maybe that's not what we need."
+
+"Maybe you just need to listen," Thalia said.
+
+The words could have been cruel in someone else's voice. Thalia had said something similar to Annabeth at the play, after refusing to explain her fear of playing Zeus in front of the whole cast. Here it sounded like advice she was trying to follow herself.
+
+"All right," Annabeth said. "I am."
+
+Clarisse considered the question. "If you need help, tell somebody what kind of help you need. Don't ask me to guess. And if I can't do it, I can say so without getting called a bad sister."
+
+Percy nodded. "That's fair."
+
+"But," she continued, "if it's an emergency, I drop the stupid thing I'm doing and come. If it's not an emergency, you don't get to create one because you're impatient."
+
+Thalia raised a finger. "That part is about Percy."
+
+"Mostly," Clarisse admitted.
+
+Percy protested. "My emergencies are genuine."
+
+"Last week you called the missing strawberry jam an emergency."
+
+"It had been replaced with grape jam. There were consequences."
+
+Annabeth laughed and leaned against him, then straightened again. "I want to add something. Not everything we think we're entitled to know belongs to us. If Thalia tells me a story about our childhood, it isn't automatically something I can repeat. If Percy talks to his family, I don't need a report. If Clarisse says a poem is private, nobody gets to decide it's for the greater good to share it."
+
+Clarisse gave her a measured look. "You learned that one."
+
+"I did."
+
+Thalia glanced from one to the other. Percy wondered how much she knew about the conversation in the arena and how much Annabeth had told her afterward. Thalia didn't ask.
+
+"I want people to tell me when I mess up," Thalia said. "Preferably before I have time to build an entire plan around it."
+
+"That's ambitious," Percy replied.
+
+"I'm expanding my horizons."
+
+Clarisse shifted her spear from one hand to the other. "You can't make a promise that nobody will ever hurt anybody. People say stupid things. They get scared and say worse things. You can promise to make the next choice differently."
+
+Percy thought of Milo, who had asked not to be pressured back into the arena on his first day. Clarisse didn't know every detail of that conversation. Percy wasn't going to volunteer it without Milo's consent. He had seen her teach a younger camper differently since then, and that told him she was doing more than saying the right words.
+
+"Okay," he said. "Then that's what I mean. We come back and try to repair things."
+
+"What if a repair doesn't work?" Annabeth asked.
+
+"Then we don't pretend it did."
+
+Thalia nodded once. "And people can leave a conversation if they need to. Nobody gets chased just because the rest of us want everything fixed before dinner."
+
+Clarisse looked at her with sudden respect. "You really are getting better at this."
+
+"Careful. Compliments might kill me."
+
+They fell quiet. Percy felt the older, private promise still present between him and Annabeth, but not swallowed by this new one. The two were different. Annabeth was his girlfriend, the person who remembered the life he'd survived. Thalia was her sister, with years of firsthand history Percy and Annabeth could only learn by listening. Clarisse was his sister, with her own loyalties, fears and life outside his. A family vow could include all of them without making every kind of love identical.
+
+Annabeth spoke first.
+
+"I think that is enough of a promise," she said. "Ask what somebody needs. Be allowed to answer. Tell the truth when you can't help. Come back when you can."
+
+"Even if the answer is ugly?" Percy asked.
+
+"Especially then."
+
+Thalia held out her pinky again, but didn't ask anyone to join. The gesture was mostly for herself, Percy thought. It made the decision visible without trapping them inside it.
+
+Clarisse raised her own hand a little. "Fine. But I reserve the right to hate this later."
+
+"Granted," Annabeth said.
+
+Percy touched Annabeth's hand, then let go and looked back at the shrine. Four people had come to the same place by different paths. The words on the plaque didn't make them agree about everything. They didn't need to.
+
 "Seal it?" Thalia asked, echoing Annabeth.
 
 They pressed thumbs, all four, a messy stack. Clarisse pretended to gag. Thalia pretended to wipe a tear. Annabeth leaned her head briefly against Percy's shoulder, and he leaned his against hers, just for a second.
 
-Thalia looked down at their joined hands and shook her head, her voice dropping into something quieter, less performative. "You know, when we were little, I waited. People think I just got angry. I did, but that wasn't all. I listened for Mom coming home, for Dad keeping a promise, for Annabeth breathing in the next room. I heard her crying at night when she thought no one was listening. I heard Luke —" She stopped, jaw working. "I heard a lot of promises people made to us that they did not keep. So I do not do this lightly. If I say whatever timeline, I mean I will climb out of whatever mess we land in to get back to you idiots."
+Thalia looked down at their joined hands and shook her head, her voice dropping into something quieter, less performative. "You know, when we were little, I waited. People think I just got angry. I did, but that wasn't all. I listened for Mom coming home, for Dad keeping a promise, for Annabeth breathing in the next room. I heard her crying at night when she thought no one was listening. I heard Luke —" She stopped, jaw working. "I heard a lot of promises people made to us that they did not keep. So I do not do this lightly. If I make a family promise, I mean I will do my best to get back to you idiots when things go wrong."
 
 Percy stared at her. "Thalia —"
 
@@ -562,7 +660,7 @@ He came trotting down the path with his reed pipes in one hand and a bag of tin 
 
 "We were having a private moment," Annabeth said, but she was smiling.
 
-Ella tilted her head, eyes darting from face to face to plaque. "'For those who came back. For those who did not. We remember together,'" she recited, then flapped excitedly. "Ella remembers. Ella remembers promises. 'Whatever timeline, together.' That is a good promise. That is a promise with wings. Can Ella promise too? Ella wants to promise to remember. Even if timelines forget, Ella will remember for them."
+Ella tilted her head, eyes darting from face to face to plaque. "'For those who came back. For those who did not. We remember together,'" she recited, then flapped excitedly. "Ella remembers what you said today. 'Whatever happens, together.' That is a good promise. Can Ella make one too? Ella can remember the words she's heard, without pretending they make her remember lives that aren't hers."
 
 Percy's chest ached. Ella had once been trapped and frightened, repeating phrases from books when her own words would not come. For her to offer to remember — that was everything.
 
@@ -578,7 +676,7 @@ Grover dropped his recycling bag and wiped his eyes on his sleeve. "Okay, now I 
 
 "Do not dude me, I am having a moment."
 
-They resealed it, six pinkies now, human and harpy and satyr, laughing and crying. Ella flapped and recited the promise back word-perfect, which made everyone laugh harder.
+They repeated the new family promise with Grover and Ella beside them, no longer touching everyone's hands at once, laughing and crying. Ella flapped and recited the promise back word-perfect, which made everyone laugh harder.
 
 It was then that Silena arrived, her footsteps soft on the path and a pink shell cupped in one hand.
 
