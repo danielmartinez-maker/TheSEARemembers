@@ -220,6 +220,70 @@ They sat there while the lake lapped and the pegasi circled far overhead. No mon
 
 "Wouldn't miss it," Grover said. "Last watch before the visitors go. Gotta do it right."
 
+Percy looked at the papers sticking out of Grover's pack.
+
+"What's that?"
+
+"A route list."
+
+"To the wild?"
+
+"To the people who are supposed to know where I am."
+
+Percy waited. Grover had been a Searcher for long enough that he sometimes spoke as though the word meant he had no need of anybody else. In the life Percy remembered, Grover had spent so much time moving between danger and duty that a letter arriving on the right day had felt like a miracle.
+
+Grover opened the list. It had two columns. One held the places he expected to stop on his search. The other held the dates on which he would try to contact camp.
+
+"Chiron asked me to write it," he said. "He said an uncertain journey still needs a plan. I thought that was very adult of him."
+
+"He's been around a while."
+
+"Anciently adult."
+
+Percy scanned the page without reaching for it. "Want me to know the whole route?"
+
+"Just the places where I'll send mail. The rest is between Chiron and the Searcher council."
+
+"Okay."
+
+Grover blinked at him. "You're not going to ask where the secret part goes?"
+
+"No."
+
+"Seriously?"
+
+Percy thought of Elena's campfire account and the way she'd stopped treating a notebook as permission to own every fact it contained. He thought of Milo's letter to his brother, which Chiron had reviewed privately and Percy had not asked to read. Knowing where a friend planned to write was enough for Percy to make an effort to answer.
+
+"I'll be here or at Atlantis when the messages come," he said. "If you need me to know more, you can tell me."
+
+Grover studied him for a long moment. "You've gotten weirdly reasonable."
+
+"Annabeth says it's a temporary condition."
+
+They laughed. Grover folded the route sheet and tucked it back into the pack.
+
+"There's another thing," he admitted. "Ella wants to help with the record of where I'm going. But I don't want her trying to follow me every time a letter doesn't arrive on the day the list says."
+
+"Did you tell her that?"
+
+"Not yet."
+
+"Then tell her. She'll understand the difference between a lost letter and a lost satyr better if you explain which one needs a rescue mission."
+
+Grover made a face. "I hate when you're right."
+
+"Rare opportunity. Enjoy it."
+
+He found Ella later by the library and asked her to keep a record of correspondence dates, not infer his movements from gaps in the post. She listened, asked three precise questions and agreed that an overdue message did not automatically mean a dangerous emergency. She also made him promise to tell Chiron when he changed his authorized route. Grover agreed.
+
+Percy heard about their decision from Grover afterward, not because he had stood listening behind the door. The distinction mattered. These were two friends making a plan for their own separation, not a task Percy had been appointed to supervise.
+
+By the time Grover returned to the lake, his expression had changed. He still looked worried about leaving. He no longer looked as if he expected every unanswered letter to become a catastrophe.
+
+Percy bumped his shoulder. "Searcher."
+
+Grover smiled. "Searcher."
+
 ---
 
 Zoe Nightshade was holding spring combat assessments on the green, which mostly meant she was letting the younger kids win just enough to feel brave and then correcting their footwork so precisely they did not even realize they had been taught.
