@@ -484,6 +484,64 @@ Percy watched her go up the path. He thought about the small hook, the impossibl
 
 He returned to the bucket and looked at the fish they'd kept. It was time to think just as carefully about what happened after catching them.
 
+Silena came back from the path with a clean strip of cloth and three small labels Ella had torn from the back of a page.
+
+"What are those?" Percy asked.
+
+"One for what we're cooking. One for what's going back. One for things we still need to check."
+
+"We're labeling fish now?"
+
+"We're labeling decisions. The fish can remain themselves."
+
+Clarisse followed her, looking faintly annoyed. "Mara wants to know how many campers are using the dock this afternoon. Apparently someone's been borrowing the spare safety rope without signing it out."
+
+Percy looked at the coil they'd used to lower the pliers. It had been returned to the gear basket, but he hadn't signed anything. Neither had Clarisse.
+
+"Was that us?" he asked.
+
+"Probably," Clarisse said.
+
+"Then tell her."
+
+"I already did."
+
+He stared at her.
+
+"What? You thought I'd hide a piece of rope because it was embarrassing?"
+
+"I thought you might consider it beneath your dignity."
+
+"My dignity survived a fish hitting me in the face. It can survive paperwork."
+
+Silena laughed, then pressed one of the labels into Percy's hand. "We can let this morning count as practice. Next time we check out the equipment before we start."
+
+"Next time we're going fishing again?" he asked.
+
+Clarisse looked at him as though he'd questioned the existence of the sun. "Obviously. I have a score to settle."
+
+"With the bass?"
+
+"With the entire ocean."
+
+Percy folded the label between his fingers and looked at the words Silena had written: KEEP ONLY WHAT WE CAN USE. She had made the letters large enough that anyone could read them over the handle of the bucket. He didn't think it would stop Clarisse from turning the next outing into a competition. It might help all of them remember to decide what the catch was for before they began.
+
+He took the pencil from Silena and wrote a second instruction under hers: ASK BEFORE BORROWING GEAR.
+
+"You're becoming a rule-maker," Clarisse said.
+
+"Two rules. I'm exhausted."
+
+"Good. Don't make a third."
+
+Annabeth returned carrying her notebook and caught the last of the exchange. She read the labels without comment, then took the pencil and added a place for the date.
+
+"So we know which day we worked it out," she said.
+
+Silena nodded. "That's useful."
+
+The three labels would go with Ella's records after the meal. They were small things, not medals, and no one needed to applaud when they were finished. Percy tucked them into the dry pocket of the supply bag and checked the lid once before moving away.
+
 ---
 
 By nine o'clock the sun had burned off the mist and the dock was crowded with buckets and towels and Ella's growing stack of notes.
