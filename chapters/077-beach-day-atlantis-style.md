@@ -493,7 +493,7 @@ After the contest, Thalia toweled off, used her jacket as a pillow on a cooling 
 
 She didn't patrol. She just lay listening to surf and Grover's pipes, hands folded, face tipped to the sun.
 
-Percy noticed because he was attuned to Thalia like family. She was Annabeth's sister and his friend; caring about her had become easy. He flopped nearby with a nectar bottle.
+Percy noticed because he was attuned to Thalia like family. She was Annabeth's sister and his friend; caring about her had become easy. He flopped nearby with a bottle of berry juice.
 
 "Don't say 'I told you so,'" Thalia said without opening her eyes, "or I'll zap you."
 
@@ -922,6 +922,36 @@ Annabeth's eyes were shining brighter than the pearl-lights. "Amphitrite dared m
 The whole beach watched as the third wave came in and foamed around the outer rings. The living sand lost its magical shine as Amphitrite's return charm reached sunset. The water took one corner tower but passed through Mara's channel without lifting the main foundation, leaving the dome and Silena's scallop intact.
 
 There was a collective gasp, then cheering. Tyson lifted Annabeth clean off her feet in a hug. Silena cried happy tears. Clarisse whistled through her fingers. Thalia stood and clapped slowly, smiling a real, unguarded smile.
+
+Mara came racing along the waterline, followed by Lucy with her shoes slung over one shoulder.
+
+"The channel worked!" Mara shouted.
+
+"It did," Annabeth said.
+
+"Does that mean the castle stays forever?"
+
+Annabeth looked at the missing turret. "No. The next tide might be stronger. The foundations are still sand. But we improved the design, and tonight it stood without me asking Percy to hold back the ocean."
+
+Mara took that in. She looked disappointed for a moment, then nodded.
+
+"Could we make it again tomorrow?"
+
+"Not exactly the same," Annabeth said. "We wouldn't have the Atlantean tools. And some parts would need to be different. But we have the drawings. You could make your own version."
+
+Lucy looked at the surviving ramp. "I'd keep that."
+
+"So would I."
+
+Annabeth had copied the relevant measurements into her ordinary notebook before the enchanted tools went back with the baskets. The pearl level had returned to its case, and she had let it go without trying to hide it among her belongings. Percy watched her show Mara the sketch of the drainage channel, with both girls' names written beside the parts they'd proposed.
+
+"Amphitrite said to make something that lasts past the tide," Percy reminded her.
+
+"Maybe she wanted me to notice that 'past the tide' isn't the same as 'forever.'"
+
+He smiled. "That sounds like something she'd say."
+
+Mara and Lucy went off to tell the other children how the castle had held. Annabeth stood with the notebook under one arm, looking pleased and a little sad in the way she did when a finished project was ready to be left alone.
 
 Percy just looked at Annabeth, sandy and sun-pink and brilliant, and felt the Sea in him settle, calm and certain as a harbor at dawn.
 
