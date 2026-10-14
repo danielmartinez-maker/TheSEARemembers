@@ -802,9 +802,99 @@ Percy felt Annabeth's breathing slow as she dozed. He felt Thalia's boot nudge h
 
 He looked up at the stars, at the constellations his father sailed by and Annabeth's father threw lightning through, and he made a promise without words, the way Poseidon kids do: to stay, to return, to build, to remember.
 
+Thalia shifted beside him. Her boot nudged his again, deliberately this time.
+
+"Did Annabeth tell you about Jason's letter?" she asked quietly.
+
+"Only that you're all considering a visit with Beryl."
+
+"That's it."
+
+Percy waited. He had learned not to treat a pause as an invitation to pry.
+
+"I'm still deciding whether I want to go," Thalia said after a while.
+
+"Okay."
+
+"You don't think I'm being unfair?"
+
+"To whom?"
+
+"Mom. Jason. Annabeth. Everybody who thinks family should want to spend a weekend together just because they have the same name."
+
+Percy looked out across the dark lake. He thought of the little record of Sally he had begun writing in private, of Amphitrite listening to him talk about school, and of Tyson going back to the forge without Percy trying to keep him at camp. Families could care about one another without needing all the same things.
+
+"I think you're allowed to decide," he said.
+
+Thalia rubbed her palms together. "I want to see Jason. And I want Annabeth to have choices I didn't have when she was small. I just don't want to walk into a house and spend an entire weekend pretending we all remember the same happy childhood."
+
+"You don't have to pretend for me."
+
+"Good, because you're not going."
+
+"Rude."
+
+She smiled. Then the smile disappeared again.
+
+"Sometimes Annabeth asks me what happened when we were little," Thalia said. "And sometimes I don't remember enough to answer. I hate how disappointed she looks."
+
+Percy turned toward her. "She isn't disappointed in you."
+
+"How do you know?"
+
+"Because when she asks me about my memories, she tells me it's okay not to have all the answers. She's learning to say the same thing to herself."
+
+Thalia considered that. "She still wants to know."
+
+"Of course she does."
+
+Percy thought about his own reasons for holding on to the original history. He had loved Sally; he didn't want that to become a story people told him was less real because the world had changed. Annabeth had loved Athena and survived terrible things alongside Percy. Neither could simply choose to stop remembering. But their siblings, who lived the altered history directly, were not responsible for filling every gap.
+
+"You can tell her you don't know," he said. "And she can ask somebody else."
+
+Thalia nodded slowly. "I need to write Jason back. He asked for a definite answer."
+
+"Then tell him you don't have one yet."
+
+"You and Annabeth are becoming impossible."
+
+"Occupational hazard."
+
+She laughed. Clarisse stirred in her sleep under Silena's blanket. From the other side of the fire, Grover played a little fragment of melody on his pipes, soft enough not to wake anyone. Percy listened for a moment, then looked back at Thalia.
+
+"You don't have to make tonight a decision about your whole family," he said.
+
+"No?"
+
+"No. You're here. That's enough for this evening."
+
+Thalia pulled her jacket tighter. "I like that."
+
+She looked toward the cabin lights and added, "I do want to ask Jason whether we can meet without the house. Just the three of us first. Maybe a walk."
+
+"Sounds reasonable."
+
+"It sounds less dramatic."
+
+"That's a virtue."
+
+She nodded. They sat in silence until Annabeth stirred beside Percy and asked what they'd been talking about. Thalia told her that she was considering a different proposal for Jason, and that she wanted to discuss it when both were awake. Annabeth agreed without asking for an immediate answer.
+
+Percy watched the two sisters settle back against the blankets. The question hadn't been solved. They were still here, with a conversation scheduled for another day instead of a promise neither could keep.
+
+The fire burned lower. A counselor moved through the circle reminding the campers who were staying late that curfew still applied and the younger ones needed to return to their cabins. Clarisse woke enough to complain about the noise and let Silena pull her upright. Grover put away his pipes. Percy helped stack the unused blankets rather than leaving them in the wet grass.
+
+Annabeth stayed beside him while the last embers were banked. When they were finished, she took his hand and they walked along the marked path toward Cabin One. She didn't ask what he had promised Thalia, and he didn't tell her private things his sister hadn't chosen to share.
+
+"Good night," she said at the fork.
+
+"Good night."
+
+They were tired, and the night hadn't cured anybody's old fears. But Percy had kept an agreement, moved a sign, listened to a friend and watched Nico invite someone into his fort. Those ordinary acts would still count when tomorrow arrived.
+
 Spring had come back, as it always did. So had they. So would they.
 
-Because home is people
+Because home is people. And people have to choose, ask, listen, and keep coming back.
 
 ---
 
