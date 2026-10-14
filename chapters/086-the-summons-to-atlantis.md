@@ -144,11 +144,11 @@ Then he opened his mouth.
 
 Clarisse bristled immediately. "Who are you calling barnacle?"
 
-"The loud one, obviously," Triton said. "You must be Clarisse. Father said you shout at waves. The waves complained."
+"The loud one, obviously," Triton said. "Clarisse, I see you haven't softened since you tried to knock me across the camp arena. Father says you shout at waves. The waves complained."
 
 "I do not shout at waves," Clarisse said. "I command them."
 
-"Same thing, but louder," Triton said. He turned to Silena, who was trying not to laugh. "And you must be the sweet one. Silena. Father said you drew him a picture of the palace with crayons. He keeps it in the council room. The generals pretend not to see the sun with a smiley face."
+"Same thing, but louder," Triton said. He turned to Silena, who was trying not to laugh. "And Silena, still pretending to be the sweet one who never causes trouble. Father showed me the picture of the palace you drew for him. He keeps it in the council room. The generals pretend not to see the sun with a smiley face."
 
 Silena turned scarlet with delight. "He kept it? Really?"
 
@@ -168,7 +168,7 @@ Triton turned to him last. "Perseus." His expression flickered, just for a heart
 
 Annabeth, to her credit, bowed back, a little wobbly in the current. "Thank you, Prince Triton. I will try not to drown."
 
-Triton grinned, sharp and sudden and almost like Percy's own grin. "Oh, I like her. She has manners. Keep her, little brother."
+Triton grinned, sharp and sudden and almost like Percy's own grin. "I still like her. She has manners. Keep her, little brother."
 
 "She is not mine to keep," Percy said, ears burning. "She is her own. She is — she chose to come."
 

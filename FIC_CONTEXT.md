@@ -71,6 +71,21 @@ Earlier chapters vary substantially in length. Preserve them as drafted unless t
 
 **Forbidden shortcut:** Do not make Annabeth forget Percy or their romance merely to create a second courtship. Do not reveal Thalia as a hidden time architect or give her complete future memories without a fresh, explicit user decision revising the original premise.
 
+### 2.2 Persistent, character-specific memory (author directive, 2026-10-13)
+
+**Everyone retains a cumulative memory of what they personally experienced in this manuscript.** Chapters cannot quietly reset a friendship, first meeting, chosen family title, romantic milestone, conversation, skill, promise, injury, gift, disagreement, or earned trust just to replay the same emotional beat. A person who met another character in Chapter 30 must not introduce themselves to that person in Chapter 123. Percy calling Amphitrite **Mother** in Chapter 99 is an earned change in their relationship: he may still use her name or a title in formal contexts, but must not subsequently treat her as a stranger. Affection can wax and wane; factual acquaintance does not.
+
+Distinguish four separate categories for each character:
+
+1. **Firsthand current-timeline knowledge:** witnessed events, personal conversations, gifts, promises, names used and repeated interactions. These persist unless a **specific, approved** forgetting mechanism occurs on the page.
+2. **Secondhand current-timeline knowledge:** information received in a letter, retelling, overheard exchange, or report. Record who supplied it, what was said, and whether it was trusted. Do not write the recipient as if they witnessed the event.
+3. **Remembered prior-life knowledge:** Percy and Annabeth alone possess autobiographical memories from their original future. Others can learn selected facts if explicitly told; being told is not the same as sharing those memories.
+4. **Altered-childhood history without autobiographical recall:** people like Amphitrite, Thalia and Triton have firsthand memories of raising or knowing the altered-history Percy and Annabeth. Percy and Annabeth do not automatically gain those memories. They can learn family stories, accumulate **new** memories of these people, and form genuine affection without suddenly recalling an unexperienced childhood.
+
+**Knowledge is per character, not global.** Verify whether a character was present, what they actually heard, and whether a secret was shared before writing informed dialogue. In particular, Amphitrite remembers raising Percy but does **not** know he remembers a different timeline or cannot recall his Atlantean childhood. His affection for her and his choice of "Mom"/"Mother" never, by themselves, authorize such a revelation.
+
+Use **continuity/CHARACTER_MEMORY_LEDGER.md** as a source-anchored index and **continuity/CHAPTER_MEMORY_HANDOFF.md** for each chapter's new facts. Before repeating a first meeting, name, nickname, emotional disclosure, family argument, gift, or callback, locate the original scene and check what each person knows. Add a new ledger event when a chapter changes a relationship; do not erase earlier events. If an established fact conflicts with a later passage, flag it as an error and make a bounded scene-level repair, not a global retcon.
+
 ---
 
 ## 3. Locked families and households
@@ -232,7 +247,7 @@ Provide all of these:
 - This bible, plus explicit overrides or unresolved questions.
 - The **actual final scene** of the preceding canonical chapter, not only a plot summary.
 - Current chapter number, title (if fixed), date/season, POV, and intended scene sequence.
-- A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads.
+- A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads, **plus the last confirmed shared scene, existing forms of address, and knowledge provenance for every major character in the next scene**.
 - Body-word minimum and the requested emotional centerpiece, Percabeth beat, and sibling beat.
 
 Subagents may help, but they receive the same bounded sources and must not invent changes to locked canon.
@@ -243,6 +258,7 @@ Subagents may help, but they receive the same bounded sources and must not inven
 |---|---|---|
 | **Canon** | Names, parentage, siblings, cabins, memory rules, ages, power ownership | No unexplained conflicts with locked rules |
 | **Continuity** | Date, elapsed time, weather, travel, props, clothing, injuries, known facts, promises | Events follow coherently from preceding chapters |
+| **Character memory** | Prior meetings, titles/nicknames, disclosures, promises, objects, trust changes and who personally witnessed each event | No relationship reset or knowledge leak; a callback follows the character-specific ledger |
 | **POV** | Knowledge and perception within each scene | One clearly identifiable focal character per scene |
 | **Character** | Voice, desires, mistakes, realistic boundaries, unforced resolutions | Conflict and affection are specific, not interchangeable |
 | **Scene purpose** | Unique centerpiece, Percabeth development, sibling development | Beats are earned and change something |
@@ -310,6 +326,12 @@ opening_location: unknown
 ending_location: unknown
 characters_and_ages: []
 active_relationship_tensions: []
+last_shared_scenes_and_chapters: []
+forms_of_address_and_existing_intimacy: []
+firsthand_events_remembered: []
+secondhand_knowledge_and_source: []
+secrets_unknown_to_each_character: []
+prior_life_memories_percy_annabeth_only: []
 injuries_and_care: []
 objects_gifts_and_projects: []
 new_knowledge_or_promises: []

@@ -1,0 +1,71 @@
+# Character memory ledger
+
+**Project:** The Sea Remembers, the Sky Forgets  
+**Started:** 2026-10-13  
+**Status:** Living, source-anchored continuity record. Initial entries below come from specifically inspected chapters, not a claim that all 193 chapters were semantically audited.
+
+## Purpose
+
+This ledger records what the characters **experienced, learned, promised, changed their minds about, and still do not know**. Facts do not expire after a chapter break. Its entries govern later callbacks unless a newer, explicit scene changes the situation. A later contradiction does not overwrite the established earlier scene by default.
+
+**Evidence labels:** CONFIRMED = directly visible in the cited chapter; LOCKED = author-approved bible premise; INFERRED = plausible but not conclusively shown; UNKNOWN = locate the scene before using it.
+
+The four knowledge tracks must stay distinct: (1) firsthand events in the present story, (2) secondhand information with a named speaker or document, (3) Percy and Annabeth's memories of their previous life, and (4) memories other people hold of the altered childhoods Percy and Annabeth did not live through autobiographically.
+
+## Established relationship and event sequence
+
+| Sequence | Chapter anchor | People and established fact | Required later behavior |
+|---|---|---|---|
+| CM-001 | [001](../chapters/001-the-weight-of-salt-and-sky.md) | Percy remembers Sally raising him in Manhattan; Amphitrite raised his altered-history childhood and sees him as her child. She answers Percy's questions about Sally, who died when he was two in this history. **CONFIRMED** | Percy need not remember being raised in Atlantis, but he must remember every encounter with Amphitrite **since Chapter 1**. Amphitrite does not know why his questions feel strange. |
+| CM-002 | [001](../chapters/001-the-weight-of-salt-and-sky.md) | Percy and Annabeth recognize each other as the two remembered-life holders; they already have a romantic history. **CONFIRMED/LOCKED** | They do not act as first-time crushes or forget their original romance. New younger-life experiences still count as new memories. |
+| CM-003 | [013](../chapters/013-the-father-who-changes-faces.md) | Thalia and Annabeth know Zeus is erratic and appears in a new guise each visit. Thalia has firsthand memories of raising Annabeth in this history. **CONFIRMED** | Each visit evokes the existing family pattern; Zeus's new face does not make him an unknown father. Annabeth knows her sister now, even if she cannot recall their altered childhood. |
+| CM-003A | [014](../chapters/014-letters-from-under-the-sea.md) | **Before the camp visit**, Amphitrite speaks directly to Annabeth over an Iris-message, recognizes her as Percy's strategist, and thanks her for supporting him. **CONFIRMED** | Chapter 30 is their first **in-person** meeting, not their first contact. Later conversations must preserve both encounters. |
+| CM-004 | [019](../chapters/019-the-brother-across-the-country.md), [066](../chapters/066-jason-s-letter.md) | Thalia and Annabeth identify Jason as their younger brother living with the Romans. Jason's letter in Ch. 66 is recognized as correspondence from him, not a first introduction. **CONFIRMED** | Track who has read which parts of his letters; he cannot casually appear at camp without travel logistics. |
+| CM-005 | [030](../chapters/030-amphitrite-visits.md) | Amphitrite **meets Clarisse, Silena and Thalia in person and recognizes Annabeth from Ch. 14** at Camp Half-Blood, eats with them, and sees Cabin Three. She embraces Annabeth, learns how devoted she is to Percy, and gives her a black-pearl bracelet with gold dolphins. **CONFIRMED** | No later 'and you must be Annabeth' introduction. Amphitrite recognizes Clarisse and Silena and does not forget their first meeting. Annabeth knows the queen offered warmth; the bracelet remains a tracked gift until its fate is shown. |
+| CM-005A | [032](../chapters/032-triton-visits.md) | Triton meets Clarisse and Silena at camp; he spars with Clarisse while Annabeth watches. **CONFIRMED** | He recognizes his sisters at their next meeting. He can joke about the camp duel but cannot introduce them again at Atlantis. |
+| CM-006 | [030](../chapters/030-amphitrite-visits.md) | Percy runs to hug Amphitrite on her arrival. Their closeness is visible to the whole camp. **CONFIRMED** | Percy is not emotionally starting from zero with her in later chapters, even if he sometimes struggles with the word 'mother'. |
+| CM-007 | [074](../chapters/074-tyson-s-visit.md) | Tyson visits camp and greets Percy, Annabeth and Thalia as people he knows. He stays in Cabin Three for the week. **CONFIRMED** | Future meetings reference a real prior visit, and his home base does not silently shift to Camp Half-Blood. |
+| CM-007A | [086](../chapters/086-the-summons-to-atlantis.md) | Triton receives Clarisse, Silena and Annabeth at Atlantis **after** meeting them in camp; he recalls the duel with Clarisse and his previous impression of Annabeth. **CONFIRMED (revised)** | First arrival in Atlantis is not a first personal meeting. The family knows prior camp encounters. |
+| CM-008 | [099](../chapters/099-mothers.md) | Percy thanks Amphitrite as **'Mother'** after she acknowledges Sally's place in his life. Amphitrite responds emotionally. Tyson also calls her **'Mother'**; she gives gifts to Percy, Tyson and Triton, including Percy's blue shawl and Triton's calling conch. **CONFIRMED** | The name and acceptance are remembered. Percy may use 'Amphitrite' or 'Your Majesty' in a public/formal context but cannot behave as if he has never called her family. Do not make Amphitrite infer the timeline secret from his grief. |
+| CM-009 | [099](../chapters/099-mothers.md) | Thalia and Annabeth discuss Beryl's letter; Annabeth speaks of remembered-life Athena as her mother. **CONFIRMED** | Thalia has heard **some** of Annabeth's earlier-life account, but she does not therefore possess Annabeth's actual past-life memories. Verify the scope of any additional disclosure before writing it. |
+| CM-010 | [118](../chapters/118-a-message-from-amphitrite.md) | Percy greets Amphitrite as **'Mom'** during an Iris-message. She explicitly recalls her earlier camp lunch with Clarisse and Silena, then offers an Atlantis visit to the camp family. **CONFIRMED (revised)** | Chapter 123 must follow from the invitation, not stage a first meeting. They discuss plans and permission, not whether they know each other. |
+| CM-010A | [120](../chapters/120-a-letter-from-the-sea.md) | Annabeth remembers Amphitrite's camp visit, attention to Percy's bunk and the pearl bracelet she received. Clarisse asks whether the palace will resemble that visit, rather than falsely claiming Annabeth has never met the queen. **CONFIRMED (revised)** | The Chapter 30 introduction and gift remain familiar to both girls. |
+| CM-011 | [123](../chapters/123-the-garden-under-the-sea.md) | In Amphitrite's garden, Annabeth is welcomed back by name. Clarisse asks what taking a coral token means; Amphitrite states it does **not** make Clarisse owe her a maternal title. **CONFIRMED (revised)** | The invitation and the limits on emotional obligation continue. Clarisse cannot become 'daughter who always called Amphitrite Mother' without an intervening choice. |
+| CM-012 | [126](../chapters/126-the-palace-below.md) | Percy shows the visitors the palace, garden, mural and blue-house mosaic. Poseidon tells stories of Sally's wishes and Percy's toddler blanket. Amphitrite understands grief for Sally but is not told about the rewritten timeline. **CONFIRMED (revised)** | People may remember the **stories** they heard; they may not start recalling altered-childhood events as firsthand memories. Amphitrite knew Sally through Poseidon's accounts, not through a direct acquaintance newly invented here. |
+| CM-013 | [127](../chapters/127-guest-and-beloved.md) | Percy wants Atlantis to feel easier, but keeps choosing the family he has now. Amphitrite recognizes that returning after camp is complicated and gives Clarisse and Silena room to decide for themselves. Annabeth requests garden documentation. **CONFIRMED (revised)** | Amphitrite sees Percy's changing sense of home; she is not told his autobiographical memory gap. Respect siblings' consent and the previous guest-status corrections. |
+| CM-014 | [177](../chapters/177-the-one-who-came-back.md) | Rhys Calder returns and Thalia recognizes him; their conversation and Sunday shooting arrangement build on existing familiarity. **CONFIRMED** | Do not rewrite Rhys as someone Thalia has never heard of. Later romantic choices need remembered prior conversations and boundaries. |
+| CM-015 | [186](../chapters/186-the-first-real-words.md), [193](../chapters/193-the-heel.md) | Annabeth has been observing Thalia's interactions with Rhys. In Ch. 193, Rhys is beside Thalia, holds her hand while her heel injury is addressed, and Percy intervenes because the injury has persisted. **CONFIRMED** | Preserve accumulated romantic trust **and** the practical consequences of Thalia's heel problem until healing is shown. Neither Rhys nor Percy should act newly shocked that her heel has been hurting. |
+
+## Persistent knowledge boundaries
+
+| Character / pair | Already knows or experienced | Does **not** thereby know |
+|---|---|---|
+| **Percy → Amphitrite** | Her care since Ch. 1, the Ch. 30 camp visit, Sally discussion, Ch. 99 'Mother', Ch. 118 'Mom', subsequent garden/palace trips | Specific unremembered Atlantean childhood incidents, unless told later |
+| **Amphitrite → Percy** | Raised the altered-history child; knows Sally died when he was two; knows his recent camp life through visits and letters; hears his family terms | His seventeen-year-old prior-life memories, missing Atlantean autobiographical memories, why Sally feels recently lost to him |
+| **Amphitrite ↔ Annabeth** | First talked by Iris in Ch. 14; embraced in person in Ch. 30; gift of black-pearl/dolphin bracelet; welcomed again in Ch. 123; later garden documentation | Any private conversation between Percy and Annabeth about the timeline, absent evidence of disclosure |
+| **Amphitrite ↔ Clarisse / Silena** | Met at the Ch. 30 camp visit; talked over food; revisited by message and in Atlantis; consent around chosen titles was explicitly discussed | Their entire internal life, their absent mortal mothers' experiences, or an automatic mother-daughter bond |
+| **Percy ↔ Annabeth** | Shared remembered past through age seventeen; current life reunites them in Ch. 1; they form fresh joint memories each chapter | The detailed altered childhoods their present families experienced without them |
+| **Thalia → Annabeth** | Firsthand sisterhood in altered history; Annabeth's behavior and trust since the story opened; selected firsthand disclosures about Athena and the earlier life | Annabeth's autobiographical older-life experiences as if Thalia lived them herself |
+| **Percy ↔ Clarisse / Silena** | Half-siblings, Cabin Three, ongoing contact, kindnesses and status resentment, joint Atlantis trips | Equality of upbringing or identical feelings simply because they reconcile |
+| **Triton → Percy** | Older half-brother who remembers the Atlantean boy, family rituals and childhood incidents | That Percy automatically recalls those incidents; he must recount them when needed |
+| **Triton ↔ Clarisse / Silena / Annabeth** | Met and interacted at camp in Ch. 32, with Triton sparring Clarisse; later Atlantis greetings build on those memories | A first personal introduction to these already-known campers in Ch. 86 or later |
+| **Tyson ↔ Percy / Amphitrite** | Half-brother of Percy; camp visit and Ch. 99 family welcome; Tyson calls Amphitrite 'Mother' | Permanent camp residency or all royal household knowledge |
+| **Thalia ↔ Rhys** | Recognize one another by Ch. 177, develop a recurring shooting connection; Ch. 193 handholding and heel discussions | Automatic resolution of arguments, existing obligations, or an unshown major milestone |
+| **Thalia ↔ Zeus / Annabeth ↔ Zeus** | Know the father's inconsistent visits and volatile character; Thalia knows the pattern of changing faces | Permanent reform merely because a visit seemed gentle |
+| **Jason ↔ Grace sisters** | Family history and correspondence at minimum in Ch. 19 and Ch. 66 | Unshown in-person visits, shared childhood memory for Annabeth, or unrestricted access to private letter content |
+
+**Other recurring characters:** Apply this same model to Grover, Chiron, Poseidon, Beryl, Charlie Beckendorf, Nico, Luke, camp staff, gods, friends and visiting family. Do not infer exact first encounters or disclosures from their names alone; create source-anchored rows whenever one of them appears in the next drafting assignment. Silena/Charlie's exact romantic milestones must be located before drafting a callback.
+
+## How to add an event
+
+For each scene that matters beyond the chapter, record:
+
+- **ID / chapter / scene anchor / relative date**.
+- **Witnesses and participants.** Whose firsthand memory now includes this?
+- **Exact event:** introduction, affectionate name, trust change, conflict, promise, gift, injury, romance milestone, special technique, private revelation.
+- **Information shared:** who told whom; was it overheard or only inferred?
+- **Information still private:** notably the Percy/Annabeth timeline secret and the scope of any secondary disclosure.
+- **Later consequences:** who should act familiar, what must persist, what might reasonably be forgotten (small details, **not** a relationship reset).
+- **Resolution:** if a later scene alters the relationship, add a new event. Do not delete the old one.
+
+**Never use the ledger as a substitute for reading the original scene.** For a meaningful callback, confirm the original passage and the most recent interaction. If the text and ledger disagree, log the conflict with chapter quotes before making a change.
