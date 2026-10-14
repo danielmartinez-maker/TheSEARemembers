@@ -14,6 +14,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 ## Canon and editing
 
 - [FIC_CONTEXT.md](FIC_CONTEXT.md): governing story bible, author decisions, continuity requirements, and chapter handoff template.
+- [Character memory ledger](continuity/character-memory-ledger.md): durable, character-specific knowledge and relationship history across chapter gaps.
 
 ## Editorial audit progress
 

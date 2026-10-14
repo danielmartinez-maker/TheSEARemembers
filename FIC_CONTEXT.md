@@ -71,6 +71,8 @@ Earlier chapters vary substantially in length. Preserve them as drafted unless t
 
 **Forbidden shortcut:** Do not make Annabeth forget Percy or their romance merely to create a second courtship. Do not reveal Thalia as a hidden time architect or give her complete future memories without a fresh, explicit user decision revising the original premise.
 
+**Character working memory:** Every character retains durable events they experienced, information they were told, commitments they made, and relationship changes they earned in the altered life. A chapter gap, a change of POV, or an unshown interval does not erase that state. Track who witnessed, heard, was told, or inferred each fact; never give private knowledge to someone who did not acquire it. Feelings can change, but a later scene must account for that change. Familiarity can coexist with grief, awkwardness, anger, avoidance, or formality; do not reset an established relationship to strangers without an on-page cause. This rule applies to everyone and does not grant anyone except Percy and Annabeth memories of the erased life. Use `continuity/character-memory-ledger.md` and the chapter handoff to carry durable state forward.
+
 ---
 
 ## 3. Locked families and households
@@ -233,6 +235,7 @@ Provide all of these:
 - The **actual final scene** of the preceding canonical chapter, not only a plot summary.
 - Current chapter number, title (if fixed), date/season, POV, and intended scene sequence.
 - A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads.
+- For every returning character, consult `continuity/character-memory-ledger.md` and the relevant earlier scene(s), even when the callback is ten or more chapters old. A missing ledger entry is a prompt to check the chapter, not evidence that the character forgot.
 - Body-word minimum and the requested emotional centerpiece, Percabeth beat, and sibling beat.
 
 Subagents may help, but they receive the same bounded sources and must not invent changes to locked canon.
@@ -243,6 +246,7 @@ Subagents may help, but they receive the same bounded sources and must not inven
 |---|---|---|
 | **Canon** | Names, parentage, siblings, cabins, memory rules, ages, power ownership | No unexplained conflicts with locked rules |
 | **Continuity** | Date, elapsed time, weather, travel, props, clothing, injuries, known facts, promises | Events follow coherently from preceding chapters |
+| **Character memory** | Each returning character's knowledge source, witnessed events, meaningful forms of address, promises, and emotional carry-forward | No unexplained reset; no off-page knowledge transfer; long-gap callbacks respect the relationship already shown |
 | **POV** | Knowledge and perception within each scene | One clearly identifiable focal character per scene |
 | **Character** | Voice, desires, mistakes, realistic boundaries, unforced resolutions | Conflict and affection are specific, not interchangeable |
 | **Scene purpose** | Unique centerpiece, Percabeth development, sibling development | Beats are earned and change something |
@@ -261,11 +265,11 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 
 1. Record the problem, evidence (chapter and excerpt), locked rule implicated, and proposed change. Mark **confirmed**, **suspected**, or **requires author decision**.
 2. Preserve the original; make the smallest scene-level coherent revision in its own file or branch.
-3. Re-read the previous chapter's closing scene, the edited chapter, and the next chapter's opening to catch handoff errors.
-4. Check newly introduced facts against other affected chapters; record necessary follow-up edits instead of silently changing distant chapters.
+3. Re-read the previous chapter's closing scene, the edited chapter, and the next chapter's opening. Also retrieve any earlier source scene that the edit calls back to, regardless of the chapter gap.
+4. Check each returning character against the memory ledger and source scenes. Keep witnessed, reported, inferred, and unknown knowledge separate; record any deliberate relationship change and its cause instead of silently resetting the character.
 5. Run word count, canon checks, and duplicate checks; rebuild in numeric order.
 6. Inspect compiled reader output, including beginning, middle, ending, chapter order, and visible text quality.
-7. Commit with a clear scope and an editorial change summary. Update the continuity ledger and unresolved-issues log.
+7. Commit with a clear scope and an editorial change summary. Update the chapter handoff, character-memory ledger, and unresolved-issues log.
 
 **Do not declare a batch complete solely because files exist or a PDF opens.** Report actual checks performed and what remains incomplete.
 
@@ -296,7 +300,7 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 
 ## 11. Reusable chapter assignment
 
-> **Assignment:** Draft or revise Chapter **[NUMBER]**, **[TITLE]**, of *The Sea Remembers, the Sky Forgets*. Use this bible, the authorized chapter source, the immediately preceding canonical chapter's final scene, and the supplied continuity handoff. Preserve Percy/Clarisse/Silena as Poseidon's children; Thalia/Annabeth Grace as Zeus's daughters and biological sisters; Percy/Annabeth as established romantic partners who remember their prior life. Keep the timeline architect unknown, and do not use discarded draft deviations as canon. Write original third-person limited prose with one focal character per scene and `---` scene breaks. Prioritize a distinct, developed cozy centerpiece, a meaningful and age-appropriate nonsexual Percabeth moment, and reciprocal sibling interaction. Use natural, differentiated dialogue and purposeful sensory detail; let conflict and repair feel earned. Meet the approved body-word minimum, without padding. Before delivery, check continuity, count words, and screen for 300-word verbatim overlaps. Deliver only the assigned file(s), the actual count, changed facts, unresolved questions, and a concise handoff for the next chapter.
+> **Assignment:** Draft or revise Chapter **[NUMBER]**, **[TITLE]**, of *The Sea Remembers, the Sky Forgets*. Use this bible, the authorized chapter source, the immediately preceding canonical chapter's final scene, and the supplied continuity handoff. Also use `continuity/character-memory-ledger.md`; for each returning character, verify earlier relevant scenes even when they are ten or more chapters back. Preserve Percy/Clarisse/Silena as Poseidon's children; Thalia/Annabeth Grace as Zeus's daughters and biological sisters; Percy/Annabeth as established romantic partners who remember their prior life. Keep the timeline architect unknown, and do not use discarded draft deviations as canon. Write original third-person limited prose with one focal character per scene and `---` scene breaks. Prioritize a distinct, developed cozy centerpiece, a meaningful and age-appropriate nonsexual Percabeth moment, and reciprocal sibling interaction. Use natural, differentiated dialogue and purposeful sensory detail; let conflict and repair feel earned. Meet the approved body-word minimum, without padding. Before delivery, check continuity, count words, and screen for 300-word verbatim overlaps. Deliver only the assigned file(s), the actual count, changed facts, unresolved questions, and a concise handoff for the next chapter.
 
 ### Handoff fields (complete every time)
 
@@ -312,7 +316,8 @@ characters_and_ages: []
 active_relationship_tensions: []
 injuries_and_care: []
 objects_gifts_and_projects: []
-new_knowledge_or_promises: []
+character_memory_updates: []
+relationship_state_changes: []
 ongoing_plot_threads: []
 next_chapter_dependencies: []
 unresolved_canon_questions: []
