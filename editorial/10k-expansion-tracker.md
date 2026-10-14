@@ -6,19 +6,26 @@
 
 ## Latest current-branch continuation (2026-10-13)
 
-**Source:** `audit/four-phase-continuity-2026-10-13` at the [verified GitHub Actions recount](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508276354), following the merge of the historical 10k branch and the unmerged PR #102 memory fixes.
+**Authoritative source:** `audit/four-phase-continuity-2026-10-13`, verified by [full manuscript GitHub Actions run 38511481429](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38511481429). Older figures below describe historical editing branches or passes and are not the live totals.
 
-| Measure | Verified current result |
+| Scope | Current verified result |
 |---|---:|
-| Numbered narrative chapters | 193 |
-| Meeting 10,000 actual body words | **140** |
-| Still below 10,000 | **53** |
-| Combined missing body words | **264,551** |
-| Cross-chapter exact 300-word duplicates | **0 across 1,664,235 rolling windows** |
+| Numbered narrative chapters audited | **193** |
+| At or above 10,000 actual body words | **143** |
+| Below 10,000 actual body words | **50** |
+| Required additional body words to clear minimum | **252,134** |
+| Exact cross-chapter 300-word duplicates | **0 across 1,677,515 windows** |
+| Source-anchored memory regression checks | **16 passing** |
 
-In this continuation, [Chapter 066](../chapters/066-jason-s-letter.md) grew **8,314 → 10,572** body words through a Thalia-centered safety-signal exercise that carries forward the Chapter 065 lesson and the letter's Roman-drill ideas. [Chapter 133](../chapters/133-annabeth-s-birthday.md) grew **8,704 → 10,656** through a birthday-preparation problem with Nico, Clarisse, Silena, Thalia and Annabeth. Both received new character-local handoffs: [066](../continuity/ch066.yaml) and [133](../continuity/ch133.yaml). **These are mechanical length passes plus bounded continuity reviews, not whole-chapter independent literary certification.**
+**Five chapter expansion results since the 138/55 baseline**:
 
-The [expansion queue](handoffs/55-short-chapters-execution-queue.md) preserves the original 55 short chapters as a traceable baseline while tracking the **53** still needing original scenes. Historical numbers lower in this file describe older branches and are **not** the current manuscript state. All other unedited chapters retain their previous status and need full semantic/style checks.
+- [066, Jason's Letter](../chapters/066-jason-s-letter.md): **8,314 → 10,572** words; [memory handoff](../continuity/ch066.yaml).
+- [067, Fishing](../chapters/067-fishing.md): **5,758 → 10,292** words; [memory handoff](../continuity/ch067.yaml).
+- [068, The Storm (Small)](../chapters/068-the-storm-small.md): **5,529 → 10,328** words; [memory handoff](../continuity/ch068.yaml).
+- [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
+- [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,656** words; [memory handoff](../continuity/ch133.yaml).
+
+These changes added **17,490 net body words** and eliminated **15,399 words of previously required shortfall**; over-threshold margins explain the difference. The [50-chapter remaining expansion queue](handoffs/55-short-chapters-execution-queue.md) starts in manuscript order at **069**, and also includes **131**. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
 
 ## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
 
