@@ -724,6 +724,84 @@ They walked back together, father and son, shoulders brushing, while the sea glo
 
 ---
 
+Before dinner, Amphitrite asked the visitors whether they wanted a moment in the smaller family dining room.
+
+Percy found her there with a table set for five and a tray of shell pastries. She looked from Clarisse to Silena to Annabeth, then to him, and for a moment the queen seemed more nervous than any of the guests.
+
+"I know the formal meal can be overwhelming," she said. "I wanted you to have somewhere to sit before the court begins."
+
+Clarisse looked at the empty chairs. "Are we in trouble?"
+
+"No."
+
+"Then why a separate room?"
+
+"Because you are family, and because family doesn't always want an audience."
+
+Silena smiled immediately. "Thank you."
+
+Percy took a chair beside Amphitrite. He had spent most of the day watching his sisters see rooms he'd already been shown on previous visits. He had heard the servants call him prince and watched Clarisse pretend not to be impressed. Now his mother put a pastry on his plate without asking whether he remembered liking them when he was seven.
+
+"These are the ones you had when I visited last month," he said.
+
+"Yes," Amphitrite replied. "I asked the cook to make them again."
+
+"Thanks, Mom."
+
+She smiled at him, then turned to the others. No one paused at the title. It had become ordinary between them, and Percy was grateful nobody treated it like a new or shocking declaration.
+
+Silena asked about the picture in the nursery. Amphitrite listened while she described the three stick figures under glass, then explained what she remembered of the day it was drawn. Percy had been small, frightened by a storm, and Poseidon had told him his sisters were safe on land.
+
+"I kept the picture because he wanted it where he could see it," Amphitrite said.
+
+Clarisse leaned forward. "Did he ask about us often?"
+
+"Yes. He asked what games you liked, whether you could swim and whether you would come to visit. I told him what I knew, and I tried not to invent answers to the questions I couldn't answer."
+
+Percy looked down at his plate. There had been a little boy who asked those questions. Percy could hear the story now, but he couldn't hear the boy's voice from that afternoon. He didn't pretend he could.
+
+"I wish we had been here," Silena said.
+
+"I know," Amphitrite answered. "That is part of why I wanted you here now."
+
+Clarisse looked away, swallowing. "We have school and camp. We can't come every time there's a formal dinner."
+
+"I wouldn't ask that," Amphitrite said. "Come when you want and when your responsibilities allow. I want visits you choose, not visits you resent."
+
+Percy grinned. "You sound like Annabeth."
+
+"Then perhaps we both have sense."
+
+Annabeth smiled at her over the tea.
+
+Amphitrite took out a small folder and set it on the table. It contained copies of the guest schedule, the directions to the private library and the times the palace transport would be available for their return to camp. Clarisse checked the training hall hours. Silena asked whether the kitchen visit could happen before breakfast. Annabeth wanted permission to measure the old dome arch and take sketches home.
+
+"You may observe it," Amphitrite said. "No measurements inside the restricted support chamber without the engineer's approval."
+
+"Of course," Annabeth answered.
+
+Percy recognized the rule from his Atlantean engineering class. Beautiful structures had limits. The palace was home, but it was also a place where people worked and needed to know who was entering which rooms.
+
+"What about the shells?" Silena asked. "Could Percy show us the labels tomorrow?"
+
+"Yes. We can look together if you want."
+
+She didn't say Percy must have forgotten. She didn't ask him whether the labels made sense. She simply offered to help answer a question he'd asked.
+
+"Good," Clarisse said. "And I want to see the forge before I leave."
+
+"Tyson can arrange a visit if his supervisor agrees."
+
+Percy smiled. The family visit was going to include more questions than speeches, more ordinary schedules than grand declarations. That was what made it feel real.
+
+The dinner bell sounded from the high hall. Amphitrite stood and looked at the three young women, each dressed differently and none of them trying to become what somebody else imagined a daughter of the sea should be.
+
+"Ready?" she asked.
+
+Silena nodded. Clarisse said the silk was too hot but she would survive. Annabeth adjusted the little owl clip in her hair.
+
+Percy offered his mother a hand. She took it, and they walked into the reception with their family alongside them.
+
 Dinner was grand and chaotic.
 
 The great hall filled with music. Lords and ladies took their places. At the high table, Poseidon presided with Amphitrite beside him.
