@@ -462,6 +462,160 @@ Thalia stuck her head in, took one look at Percy's red ears and Annabeth's flush
 
 "I hate this play," Percy muttered, but he was holding Annabeth's hand under the costume table where Thalia pretended not to see, and he didn't let go until Will called places.
 
+Will called places for the council scene and handed Annabeth a revised page.
+
+"I took your note," he said. "Athena doesn't ask permission at the end. She makes a proposal and Zeus ignores her, so she goes and does it."
+
+"That's better," Annabeth replied.
+
+"I thought so too." He hesitated. "But Thalia says Zeus shouldn't apologize at the end."
+
+Annabeth looked up.
+
+Will glanced toward the throne. "I wrote the apology because it's a family play. People like it when the dad learns something. It's the end of the show. We need a laugh and then everybody gets cake."
+
+"People like plenty of things," Thalia said from the steps. She had heard him. Her costume was draped over one shoulder, and she held the cardboard lightning bolt by its handle.
+
+"That's my entire job tonight," Will said. "Give people something they like."
+
+"Then give them something they recognize."
+
+He opened the script. "I could change 'I'm sorry' to 'I see your point.'"
+
+"That sounds even less like Zeus."
+
+Piper came down from the wing with her revised Aphrodite monologue tucked under her arm. "What are you arguing about?"
+
+"Whether Zeus can learn something in under five minutes," Will said.
+
+Piper looked at Thalia and Annabeth, then at the page. "Can he?"
+
+"Not in my experience," Thalia replied.
+
+Will rubbed his forehead. It was only Wednesday, but his directing clipboard already looked as if it had survived a war.
+
+"I don't want this to be a show about everybody's worst parent," he said.
+
+"It doesn't have to be," Annabeth answered. "But you can't make a father kind just because a joke needs a neat ending. That's not what makes people feel better."
+
+"Then what does?"
+
+She thought of Milo and Lucy and Bea, three new campers who'd spent their first day discovering that camp had beautiful things and frightening ones. Those children might be watching on Friday. So might dozens of others whose gods had never appeared to them at all. Will wanted them laughing, which wasn't wrong. He wanted the show to mean the world could be kinder than it was, and Annabeth wanted that too.
+
+"Let the people in the scene decide what to do," she said. "Athena doesn't need Zeus to approve. Poseidon doesn't need to win. Ares doesn't need to stop being angry to be loyal. The ending can be about the council making a choice."
+
+Will looked unconvinced. "A committee decision. Theater audiences love those."
+
+"Give it an actual problem," Piper said.
+
+"Such as?"
+
+"Something the gods have spent five pages arguing about. Someone's missing. The gods are too busy proving which parent gets credit to notice."
+
+Percy, who'd been standing in the wings practicing the least convincing trident stance in human history, stepped forward.
+
+"Make it about the tide," he offered. "The harbor's flooding because the council can't agree which god owns the shore. Poseidon can solve the water part, Athena can find a route, Hermes can get messages out, and Ares can organize people. They have to work together or the town gets washed out."
+
+Will considered that. "We'd need a way to show a town."
+
+Frank raised a hand without looking up from the hinge he was tightening. "Cardboard village. Three panels. I can make one that comes apart when the water reaches it."
+
+"No actual water against the cardboard," Annabeth said instantly.
+
+"I know."
+
+"You said that about the first mountain too."
+
+"The first mountain was experimental."
+
+Clarisse leaned her spear on the rack. "If I'm playing Ares, he gets to be useful. He doesn't have to be a nice guy. He can still hold the street while civilians get out."
+
+"That could work," Will said, sketching a note.
+
+"And he doesn't get to stab anybody for comic relief," Clarisse added. "That's not a strategy."
+
+Percy glanced at her. "You feeling okay?"
+
+"Shut up, Fish Boy."
+
+Will was already rewriting the last two pages. He paused, pencil hovering.
+
+"What does Zeus do?"
+
+Thalia looked at Annabeth. There was no single answer that would fix a real father's absence. She could play a king who was difficult and still let the play end with someone doing a good thing.
+
+"He can give an order," she said. "A very loud order. Nobody listens because they're already busy solving the problem."
+
+Will's mouth fell open into a grin. "That's good."
+
+"And when it's over," Thalia continued, "he can take credit."
+
+"That's even better."
+
+She didn't smile. "It would be funny."
+
+Annabeth met her eyes. The joke had a sharp edge, but Thalia had chosen it herself.
+
+They spent the next hour rehearsing the new ending.
+
+Leo, as Hermes, ran between two cardboard houses shouting evacuation instructions that nobody could hear because Austin's sound system kept making a noise like a submarine sinking. Frank adjusted the volume. Nico, as Hades, appeared from behind a painted rock to provide a suitably bleak assessment of everyone's life expectancy, then disappeared again before Will could give him another line. Hazel played a villager who refused to leave her garden until someone promised her plants would be replanted. She said it so earnestly that Clarisse stopped joking long enough to promise, in character, to carry the pots.
+
+Percy reached the part where Poseidon was meant to divert the water. He lifted his trident, and the pump behind the stage clicked. A few droplets rose through the fountain's nozzle. Nothing else happened.
+
+"Cut," Will called. "Why didn't it work?"
+
+"The valve isn't open," Frank said.
+
+"Can Percy just move it with his powers?"
+
+Percy shook his head. "Not as a shortcut. If there's plumbing, use the plumbing. We're doing a play, not a demonstration of what I can do if everyone else messes up."
+
+Frank checked the valve. Its handle had been left halfway closed after the earlier test. He opened it, then moved everyone back while Percy took his place again.
+
+This time the fountain made an arc of water that struck the shallow catch basin and stayed there. Leo declared the imaginary harbor saved. Clarisse took a bow for carrying Hazel's garden. Will called for Zeus's final line.
+
+Thalia stepped onto the throne and raised the cardboard bolt.
+
+"I HAVE SAVED YOU ALL," she announced.
+
+The others, busy moving the cardboard houses out of the way, did not look up.
+
+She waited.
+
+No one moved.
+
+Thalia lowered the bolt slightly. "I said I have saved you all."
+
+Piper, still holding a potted fake rose, replied without turning around, "Great. Could you grab the other end of this?"
+
+The rehearsal broke into laughter. Thalia maintained the kingly stare for three more seconds before she began laughing too.
+
+Will raised both hands. "Keep that. That's the ending."
+
+They ran it again. The second time the timing worked better, because everyone knew what had to happen before the joke. Athena pointed out the evacuation route. Hermes carried word to the harbor. Ares defended the bridge. Poseidon moved the water through a safe channel. Zeus appeared last and took credit for a result he hadn't caused.
+
+In the wings afterward, Will sat beside Thalia and offered her a cup of water.
+
+"I'm sorry I put you in a bad position," he said.
+
+She looked at him. "You didn't know."
+
+"I still could've asked before I cast you."
+
+"Yeah."
+
+"Do you want to stay?"
+
+Thalia looked at the damp stage, the cheap throne, the other campers carefully putting scenery away. She had spent the afternoon playing someone who had made her feel small in real life, and for once she'd had room to decide what he said and what he didn't get to control.
+
+"I do," she said. "But if you put an apology back into my mouth, I quit."
+
+"Understood."
+
+She finished her water and went to help Frank carry the throne into storage, still wearing the cardboard crown crooked on her head.
+
+Annabeth watched from a few steps away. She wanted to run after her sister and ask whether she was really all right. She didn't. Thalia had answered Will's question clearly. Annabeth would ask her own later, somewhere private, when an answer wouldn't become another performance.
+
 ---
 
 Thursday's dress rehearsal was, in Will's words afterward, "a complete disaster in the best way," which meant everything that could go wrong did, but no one got permanently injured.
