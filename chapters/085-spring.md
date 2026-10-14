@@ -892,6 +892,26 @@ Annabeth stayed beside him while the last embers were banked. When they were fin
 
 They were tired, and the night hadn't cured anybody's old fears. But Percy had kept an agreement, moved a sign, listened to a friend and watched Nico invite someone into his fort. Those ordinary acts would still count when tomorrow arrived.
 
+At Cabin Three Percy found a note that Silena had slipped beneath his door. It was written on an ordinary piece of notebook paper, without ribbons or a decorative border.
+
+*I checked the old towels. The Apollo kids collected them before dinner. I didn't need to do their washing, and they didn't need me to remind them twice. Funny how that works. Love, your sister.*
+
+Below that she had written a second line: *Also, the bread in the kitchen belongs to everybody, not just you. Don't eat it all before breakfast.*
+
+Percy grinned. He folded the note and placed it in the small box Tyson had left on his shelf. The latch caught on the second try, just as it had on the morning his brother departed. He still hadn't fixed it. He didn't have to pretend every unfinished task was evidence he'd forgotten someone.
+
+He took out the blue notebook about Sally and wrote down another small memory. In the original life she had once left a note on his lunch because she'd known he was nervous about school. He couldn't remember the precise words. He remembered the folded paper and the way he had carried it in his pocket after the food was gone.
+
+He wrote that down and marked the uncertain part honestly.
+
+Then he checked the envelope he'd prepared for Amphitrite. It contained an account of the Roman visit and a question about the next undersea study block. He had not written the secret of the rewrite, and he had not pretended to remember going to the old school as a small boy. He'd written about the things that had actually happened this month, including a failed model and a trip home that needed three corrected forms.
+
+He put both letters on the desk where he would see them in the morning. The notebook stayed in the box, private.
+
+From the neighboring bunk came Clarisse's familiar complaint about the way the blankets were folded. Silena answered that Clarisse could fold them herself. Percy lay down and listened to the argument turn into quiet laughter.
+
+Not every night had to become a revelation. Sometimes home meant hearing your sisters disagree about laundry while you were almost asleep, and knowing nobody was asking you to choose a side.
+
 Spring had come back, as it always did. So had they. So would they.
 
 Because home is people. And people have to choose, ask, listen, and keep coming back.
