@@ -68,3 +68,54 @@
 - **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
 - **Provenance and state:** Ch012 FIRSTHAND: five days after eclipse, arm still aching and barred from heavy lifting; Grover sleeps over in Cabin Three while his own cabin smells of paint (on-page explanation). Percy brings Thalia a pocket sandwich on APPROVED scaffold visit and DIRECTLY TELLS her remembered seventeen years with Sally though Sally died when he was two in altered history. This is bounded disclosure, NOT full account of rewritten-time mechanics and NOT disclosure to Amphitrite. Hears Thalia mention missing Luke's old ease while warily reflecting on unspecified future. Sees Bianca/Nico by lake and describes dream of Amphitrite: a DREAM REPORT only. Completes flag with friends; carry social familiarity into Ch013.
 - **Required persistence:** Later dialogue must carry what percy personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 13 · witnessed / reported / unknown
+- **Source:** [Ch13](../../chapters/013-the-father-who-changes-faces.md); [handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md)
+- **State:** Ch013 FIRSTHAND: accompanies sisters to Zeus lunch, hears Thalia confront father, respects her request to let her speak; knows Zeus wore DIFFERENT guise. With sisters writes Jason an individual letter, but letter remains at camp NOT sent or received.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 14 · witnessed / reported / unknown
+- **Source:** [Ch14](../../chapters/014-letters-from-under-the-sea.md); [handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md)
+- **State:** Ch014 FIRSTHAND: receives Iris call from Amphitrite/Triton/Poseidon; REMEMBERS only recent Atlantis departure, not old altered-life childhood. Barnacle delivers sea jam/manual/blanket/conch and three matching bracelets which Percy gives to Silena/Clarisse; he wears blue. Opens Poseidon's letter later with Annabeth, rereads it without treating father as suddenly fair to sisters. Amphitrite does NOT know old-life memory secret.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 15 · witnessed / reported / unknown
+- **Source:** [Ch15](../../chapters/015-beryl-s-letters.md); [handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md)
+- **State:** Ch015 FIRSTHAND: sees joint Beryl letter arrive but does NOT know its content until Thalia reports 38 sober days and aspects of her childhood. Do not claim he verified sobriety. Thalia owns decision about reply; he supports Annabeth's right to read. Their separate responses remain UNSENT.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 16 · witnessed / reported / unknown
+- **Source:** [Ch16](../../chapters/016-capture-the-flag.md); [handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md)
+- **State:** Ch016 FIRSTHAND: on opposing CTF team from Annabeth, intentionally leaves water-screen gap enabling her to get flag, causing incomplete match and loss of teammates' trust. Annabeth knee bruise minor. Percy apologizes to Clarisse/Silena, owes banner repair and a cookie, and commits no such favor next rematch. Grey strip from Annabeth's shirt worn in hair; not a new dating relationship.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 17 · witnessed / reported / unknown
+- **Source:** [Ch17](../../chapters/017-lake-day.md); [handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md)
+- **State:** Ch017 FIRSTHAND: Chiron instructs no magic in swimming contest; Percy belly-flops and loses to Zoe by two seconds in freshwater. Clarisse recounts childhood shell game and hugs him; hears stories, cannot remember having lived them. May know Grover THINKING about Searcher only if Grover told him (earlier confidant); no formal oath. Ch016 rematch not shown.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 18 · witnessed / reported / unknown
+- **Source:** [Ch18](../../chapters/018-the-forge.md); [handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md)
+- **State:** Ch018 FIRSTHAND: helps Annabeth's model-temple project under Beckendorf; uses supervised forge/quench safety, receives checklist from Clarisse. His description of alternate life was earlier reported to Clarisse (that she had been Ares's daughter); he cannot confer her memories. Forge projects not all completed; no change to Amphitrite's ignorance.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 19 · witnessed / reported / unknown
+- **Source:** [Ch19](../../chapters/019-the-brother-across-the-country.md); [handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md)
+- **State:** Ch019 FIRSTHAND: participates in authorized Iris call with Jason (10), introduces self as Annabeth's boyfriend and Poseidon sibling, observes Jason use names Lia/Beff. An Iris drawing goes through, but letters/copies remain ACCEPTED by Roman processing, not confirmed delivered; cannot infer Jason recalls earlier childhood. Jason in-person visit not yet approved as of this chapter.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 20 · witnessed / reported / unknown
+- **Source:** [Ch20](../../chapters/020-cake-and-lightning.md); [handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md)
+- **State:** Ch020 FIRSTHAND: organizes belated SIXTEENTH birthday cake with Silena/Grover, receives Amphitrite's cooking tips via Iris while withholding original-life Sally memories. Thalia already 16. Attends Thalia's party and sees gifts worn/kept, not proof Zeus familial reconciliation.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 21 · witnessed / reported / unknown
+- **Source:** [Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md); [handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md)
+- **State:** Ch021 FIRSTHAND: works harvest, trusts Silena's calibrated 512-basket record and attends Music Night, tells an Atlantis story without telling audience Sally was source for part. With Annabeth maintains well-established romance, shared jacket/private nap; Beryl/Jason memory boundaries unchanged. Witnesses Chiron's later Roman courier notification that Jason supervised visit authorized for seven days only if present in group; otherwise receives information via sisters; avoid claim first person if offpage.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 22 · witnessed / reported / unknown
+- **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
+- **State:** Ch022 FIRSTHAND: Jason now physically guest in Cabin One under approved Roman week, Percy already knows him by Iris call. Annabeth accidentally arcs a charge near Percy during supervised practice; he is startled/frizzled, walks off, NO diagnosed injury. Helps remove equipment, receives and keeps Silena's note; lantern success is one exercise, not power mastery. Only he and Annabeth retain original-life autobiographical memories.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.

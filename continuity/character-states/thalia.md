@@ -72,3 +72,54 @@
 
 ### Chapter 012 · delivered written-memory report
 Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia protecting her on the road in her *old life*. It also states Clarisse is carving an angry owl (unfinished). Thalia retains TWO notes by the end. She can remember the written REPORT, not acquire Annabeth's earlier-life autobiographical experience; the note does not reveal the full rewrite mechanism or all details of old-life Luke. Separately Percy reports Sally's seventeen original-life years to her on the scaffold.
+
+
+### Chapter 13 · witnessed / reported / unknown
+- **Source:** [Ch13](../../chapters/013-the-father-who-changes-faces.md); [handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md)
+- **State:** Ch013 FIRSTHAND: notices Zeus's sky arrival and confronts him in new physical face; rejects his claims about Beryl and favoritism, learns Jason confirmed safe at Camp Jupiter only FROM Zeus. With Annabeth shares post-visit care; neither Zeus's pine drachma in coin tin nor pendant in sister's hook redeems him. Jason letters WRITTEN but NOT sent/received.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 14 · witnessed / reported / unknown
+- **Source:** [Ch14](../../chapters/014-letters-from-under-the-sea.md); [handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md)
+- **State:** Ch014 FIRSTHAND: may observe dock Iris exchange if present; learns Percy's Atlantis household includes Amphitrite/Triton and his two Poseidon sisters are recognized. Does not gain Percy prior-life memories. Separate Zeus family unresolved and Jason mail unconfirmed.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 15 · witnessed / reported / unknown
+- **Source:** [Ch15](../../chapters/015-beryl-s-letters.md); [handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md)
+- **State:** Ch015 FIRSTHAND: receives Beryl's letter, briefly hides it from Annabeth, reports claimed 38 sober days (not verification), is reassured by Chiron that no forced removal/visit is possible. Annabeth reports that Beryl died drunk-driving in HER remembered alternate life; Thalia may RECALL the report only. Apologizes and agrees to separate unsent replies/privacy.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 16 · witnessed / reported / unknown
+- **Source:** [Ch16](../../chapters/016-capture-the-flag.md); [handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md)
+- **State:** Ch016 FIRSTHAND: leads Zeus-side CTF, recognizes sister/ boyfriends as already together, asks advance team placement to avoid split allegiances. Annabeth's knee bruise limited; incomplete match and promised rematch persist.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 17 · witnessed / reported / unknown
+- **Source:** [Ch17](../../chapters/017-lake-day.md); [handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md)
+- **State:** Ch017 FIRSTHAND: spends day with Annabeth and Percy, builds sand Olympus; tells Annabeth about altered-childhood games she can't recall. Gives lovers space and supervises their return. No revelation of full timeline or new memory.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 18 · witnessed / reported / unknown
+- **Source:** [Ch18](../../chapters/018-the-forge.md); [handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md)
+- **State:** Ch018 FIRSTHAND: works forge alongside Annabeth, HEARS Annabeth DIRECTLY name Athena as former-life mother and the craft she loved. Thalia does not remember Athena parenting her sister, must process her sister's grief while keeping shared Beryl/Zeus history. Helps create model bronze/owl and notes safety.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 19 · witnessed / reported / unknown
+- **Source:** [Ch19](../../chapters/019-the-brother-across-the-country.md); [handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md)
+- **State:** Ch019 FIRSTHAND: joins supervised Iris relay, recognizes Jason as 10-year-old younger brother, hears him call her Lia; they have different first-person memories, not erased by call. Original drawing transferred to Jason, additional physical copy/letters ACCEPTED for Roman processing only. No automatic Camp Jupiter visit authorization yet.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 20 · witnessed / reported / unknown
+- **Source:** [Ch20](../../chapters/020-cake-and-lightning.md); [handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md)
+- **State:** Ch020 FIRSTHAND: 16 years old ALREADY, party belated; privately asks no rescue/family/ eclipse speech. Receives and keeps Annabeth's wooden pine and FOR THE SKY silver pendant, Silena bracelet, Grover pipes, Clarisse whetstone and more. Wears pendant/bracelet; no forgiveness of Zeus absent father implied.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 21 · witnessed / reported / unknown
+- **Source:** [Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md); [handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md)
+- **State:** Ch021 FIRSTHAND: attends Harvest Day and Music Night, harvest/ jam obligations; reads Roman courier approval for Jason seven-day supervised trip late after harvest day, asks for guest cot. Ch019 letters aren't thereby established delivered; expects in-person brother visit without childhood memory test.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 22 · witnessed / reported / unknown
+- **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
+- **State:** Ch022 FIRSTHAND: Jason now physical guest from Camp Jupiter in Cabin One for Roman approved week; supports Annabeth's storm training but initially overreaches, Chiron corrects explicit consent/safety after Percy startled by arc. She sees Annabeth control lantern once and agrees Thursday session ONLY if approved. Does not gain sister's older-life memories.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.

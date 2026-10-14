@@ -72,3 +72,54 @@
 
 ### Chapter 012 · second-note disclosure
 Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sentence that she remembers Thalia protecting her on the road in her *old life*. The same note announces Clarisse's unfinished owl. At the end Thalia keeps both notes. This is a limited written report to Thalia, not a disclosure to Zoe or Clarisse of Annabeth's complete erased-life history.
+
+
+### Chapter 13 · witnessed / reported / unknown
+- **Source:** [Ch13](../../chapters/013-the-father-who-changes-faces.md); [handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md)
+- **State:** Ch013 FIRSTHAND: prepares questions with Thalia, chooses to accompany father Zeus in his new guise; nearly resumes smoothing conflict but resists, says listen to sister. No new timeline memory transferred to Zeus. Writes Jason separate note that remains waiting on authorized dispatch. Zeus silver pendant NOT worn; placed on hook; her sisterhood with Thalia survives confrontation.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 14 · witnessed / reported / unknown
+- **Source:** [Ch14](../../chapters/014-letters-from-under-the-sea.md); [handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md)
+- **State:** Ch014 FIRSTHAND: attends Percy/Amphitrite Iris call, presented as Zeus's daughter and strategist; Percy shares unread/then opened Poseidon letter privately. TELLS Silena limited Percy childhood-memory gaps, NOT full time-rewrite account. Doesn't disclose past Athena parentage to Amphitrite.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 15 · witnessed / reported / unknown
+- **Source:** [Ch15](../../chapters/015-beryl-s-letters.md); [handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md)
+- **State:** Ch015 FIRSTHAND: reads letter jointly addressed by Beryl after Thalia withholds it; hears Beryl's claimed 38 sober days NOT verified, sees photos of altered childhood she can't autobiographically recall. Tells Thalia that in REMEMBERED other life Beryl died drunk-driving; this is a DIRECT report, not Thalia firsthand. Agrees separate replies awaiting address verification; sweater/ramen mishap not evidence of mother improvement.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 16 · witnessed / reported / unknown
+- **Source:** [Ch16](../../chapters/016-capture-the-flag.md); [handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md)
+- **State:** Ch016 FIRSTHAND: competes opposing Percy in CTF, slips and sustains minor knee bruise, uses deliberate opening in Percy's screen; neither finishes clear victory. Recognizes that letting boyfriend favor her breaks team trust; promises more honest rematch. Private prior-life relationship not told to crowd.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 17 · witnessed / reported / unknown
+- **Source:** [Ch17](../../chapters/017-lake-day.md); [handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md)
+- **State:** Ch017 FIRSTHAND: builds sand Olympus with Thalia, describes inability to remember Thalia's childhood chalk-city recollections. Shares private moment with Percy; familiarity from chosen relationship not new crush. Shell bracelet from sand-city day remains object; no magic rewrite explanation to Thalia.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 18 · witnessed / reported / unknown
+- **Source:** [Ch18](../../chapters/018-the-forge.md); [handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md)
+- **State:** Ch018 FIRSTHAND: designs temple, works under Beckendorf, keeps failed bronze joints as source of engineering feedback; directly TELLS Thalia original-life mother was Athena and asks not to erase that love in altered Zeus family. Thalia hears report, not Athena-childhood firsthand. Bronze owl/model boxed; corrects working hinge before use.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 19 · witnessed / reported / unknown
+- **Source:** [Ch19](../../chapters/019-the-brother-across-the-country.md); [handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md)
+- **State:** Ch019 FIRSTHAND: prepares drawing with Thalia/Percy and participates in supervised Iris call with Jason who calls her Beff; she receives Thalia's toddler stories secondhand, she lacks those years autobiographically. Drawing reaches Jason; physical letters/extra copies are still awaiting Roman processing. She remains Percy's girlfriend, not Jason's sister through Percy.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 20 · witnessed / reported / unknown
+- **Source:** [Ch20](../../chapters/020-cake-and-lightning.md); [handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md)
+- **State:** Ch020 FIRSTHAND: carves wooden tree and makes silver lightning pendant for Thalia, blending old-life tree report with current love. Gives both; Thalia wears pendant and keeps tree. Clarifies she means this present sister, not treating Thalia as living proof of previous life; party is BELATED 16th.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 21 · witnessed / reported / unknown
+- **Source:** [Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md); [handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md)
+- **State:** Ch021 FIRSTHAND: organizes berry picking and adapts Arachne performance, explicitly tells audience ending was altered myth, not discovered canon. Percy/Annabeth share private closeness, no full time-life disclosure. Learns Roman visit approval at end Ch021 and prepares cot with Thalia, if reported to her she may act on it.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 22 · witnessed / reported / unknown
+- **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
+- **State:** Ch022 FIRSTHAND: Jason physically in Cabin One guest cot for supervised Roman week; practices static grounding with Thalia, accidentally zaps Percy (no documented injury), Chiron assesses and requires explicit permission/safety. One clear-weather lantern lighting successful, NOT proof of reliable control; Thursday shorter practice provisional pending Chiron approval. Previous-life Athena identity is hers, not Jason's.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.

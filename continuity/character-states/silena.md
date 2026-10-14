@@ -68,3 +68,54 @@
 - **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
 - **Provenance and state:** Ch012 FIRSTHAND: on Tuesday continues supplies/cabin tasks; protects ink reserved for personal winter travel journal, agrees with Clarisse to provide flag outline but leaves actual team design to members. Notes Thalia's grief without assuming Thalia confided directly. Supports shared dinner, book available to Thalia. Not shown learning old-life secret.
 - **Required persistence:** Later dialogue must carry what silena personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 13 · witnessed / reported / unknown
+- **Source:** [Ch13](../../chapters/013-the-father-who-changes-faces.md); [handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md)
+- **State:** Ch013: Thalia/Zeus meeting private; no firsthand divine confrontation unless later told. She remains Percy/Clarisse cabin sister, caretaker with boundaries.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 14 · witnessed / reported / unknown
+- **Source:** [Ch14](../../chapters/014-letters-from-under-the-sea.md); [handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md)
+- **State:** Ch014 FIRSTHAND: inventories Barnacle parcel, receives and wears green bracelet from Amphitrite, facilitates sister exchange. Annabeth shares only Percy's unremembered Atlantis childhood identity gaps. Silena says she does NOT know why, will not pry, and must not be granted full prior life.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 15 · witnessed / reported / unknown
+- **Source:** [Ch15](../../chapters/015-beryl-s-letters.md); [handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md)
+- **State:** Ch015 FIRSTHAND: sees Beryl letter at dining pavilion, helps camp with kitchen alarm after ramen; cannot certify Beryl sobriety/visit claims. Sibling letter protocol remains independent from hers.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 16 · witnessed / reported / unknown
+- **Source:** [Ch16](../../chapters/016-capture-the-flag.md); [handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md)
+- **State:** Ch016 FIRSTHAND: teammate affected by Percy giving deliberate water gap to girlfriend; expects apology and next fair round, has a cookie owed due to wet bow. Gray cloth from Annabeth's shirt noticed, not newly met girlfriend.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 17 · witnessed / reported / unknown
+- **Source:** [Ch17](../../chapters/017-lake-day.md); [handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md)
+- **State:** Ch017 FIRSTHAND: at lake day, notices Percy learning new family game from Clarisse; provides towels/sunscreen and protects household routine; no inference of lost-life secret.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 18 · witnessed / reported / unknown
+- **Source:** [Ch18](../../chapters/018-the-forge.md); [handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md)
+- **State:** Ch018 FIRSTHAND: works on silver necklace with blue Montauk sea glass and forge safety, clasp needs alignment; journal/private interests separate from shared cabin work. Poseidon family memory not supplanted.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 19 · witnessed / reported / unknown
+- **Source:** [Ch19](../../chapters/019-the-brother-across-the-country.md); [handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md)
+- **State:** Ch019: Supports Thalia/Annabeth Jason connection if told; no Roman-private call knowledge beyond report and no automatically received letters.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 20 · witnessed / reported / unknown
+- **Source:** [Ch20](../../chapters/020-cake-and-lightning.md); [handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md)
+- **State:** Ch020 FIRSTHAND: organizes birthday schedule and blue cake, gives Thalia blue/silver bracelet. Amphitrite's cake tip is from Percy's limited correspondence, not proof she knows Sally memory.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 21 · witnessed / reported / unknown
+- **Source:** [Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md); [handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md)
+- **State:** Ch021 FIRSTHAND: coordinates harvest scale calibration and labels uncertain readings, later verifies 512 baskets; learns/teaches jam preserve steps, Ella receives first jar; promised future jar to Clarisse is an obligation. Personal notebook and calibration role persists.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 22 · witnessed / reported / unknown
+- **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
+- **State:** Ch022 FIRSTHAND/limited: prepares food and supportive note for Percy after training; the note 'Heard you got fried' reaches his pillow and he keeps it. Doesn't receive Annabeth's private Athena-memory account or detailed accident unless told.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.

@@ -68,3 +68,54 @@
 - **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
 - **Provenance and state:** Ch012 FIRSTHAND: supervises repair crews/scaffolding, Percy assigned light work with lifting restriction, Thalia and Bea revise non-alarm next drill; he has not received new letter from Amphitrite or proven temporal cause. Prior sanctions must be shown to expire or be waived if relevant.
 - **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 13 · witnessed / reported / unknown
+- **Source:** [Ch13](../../chapters/013-the-father-who-changes-faces.md); [handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md)
+- **State:** Ch013 FIRSTHAND: reports sending Olympus eclipse summary but has no evidence Zeus read it; hosts Zeus in new guise, supports Thalia, agrees to investigate authorized Jason mail channel. Ch013 letters remain on desk, not delivered.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 14 · witnessed / reported / unknown
+- **Source:** [Ch14](../../chapters/014-letters-from-under-the-sea.md); [handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md)
+- **State:** Ch014 FIRSTHAND: supervises Iris underwater family call and mail channel; package arrives under courier manifest; next Iris opening requires approval. Percy's old-life memories aren't automatically exposed by royal appearance.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 15 · witnessed / reported / unknown
+- **Source:** [Ch15](../../chapters/015-beryl-s-letters.md); [handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md)
+- **State:** Ch015 FIRSTHAND: receives Thalia's inquiry about Beryl and assures guardianship stays with camp; verifies any proposed visit separately. Beryl's 38-day sobriety is letter CLAIM, not certificate. Letters to Beryl aren't shown mailed.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 16 · witnessed / reported / unknown
+- **Source:** [Ch16](../../chapters/016-capture-the-flag.md); [handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md)
+- **State:** Ch016 FIRSTHAND: rules contested CTF match INCOMPLETE, orders rule clarification and future Friday rematch, not immediate win. Banner repair, healer check minor knee and fair-play promises continue.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 17 · witnessed / reported / unknown
+- **Source:** [Ch17](../../chapters/017-lake-day.md); [handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md)
+- **State:** Ch017 FIRSTHAND: authorizes ordinary swimming contest without divine shortcuts; Grover considering Pan Searcher requires separate approval, not magically enrolled.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 18 · witnessed / reported / unknown
+- **Source:** [Ch18](../../chapters/018-the-forge.md); [handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md)
+- **State:** Ch018 FIRSTHAND: camp forge safety/Beckendorf workshop inspection; model/necklace/spear need actual testing before approved. Does not certify all finished.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 19 · witnessed / reported / unknown
+- **Source:** [Ch19](../../chapters/019-the-brother-across-the-country.md); [handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md)
+- **State:** Ch019 FIRSTHAND: coordinates supervised Roman Iris call under no-recording rules, handles separate Roman outbound letters/drawing. Material ACCEPTED pending approval is not confirmed received. Future in-person visit requires fresh Roman authorization.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 20 · witnessed / reported / unknown
+- **Source:** [Ch20](../../chapters/020-cake-and-lightning.md); [handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md)
+- **State:** Ch020 FIRSTHAND: approves camp belated 16 celebration, hears request to avoid eclipse/family lecture; Zeus's absence continues. No automatic Jason mail receipt.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 21 · witnessed / reported / unknown
+- **Source:** [Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md); [handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md)
+- **State:** Ch021 FIRSTHAND: coordinates Harvest Day/Music Night, receives Grover program correction and separate Roman COURIER APPROVAL for Jason's seven-day supervised visit. Guest housing Cabin One organized under adult oversight.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 22 · witnessed / reported / unknown
+- **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
+- **State:** Ch022 FIRSTHAND: supervises quiet-yard static exercise, corrects Thalia to check permission/safety after Annabeth arcs near Percy; finds no documented injury and grants only bounded task. Thursday shorter trial remains PENCILED, not approved. Jason physically at camp with Roman permission.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
