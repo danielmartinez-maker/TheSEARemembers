@@ -1,6 +1,6 @@
 # Chapter 004 — The Hall of Gods
 
-**Reviewed on PR #103. Current body words:** 11086. **Chronology:** After Ch003; no precise calendar date; Ch005 later says a few weeks after Percy's arrival. **POV:** Percy / Annabeth scene-limited.
+**Reviewed on PR #103. Current body words:** 11024. **Chronology:** After Ch003; no precise calendar date; Ch005 later says a few weeks after Percy's arrival. **POV:** Percy / Annabeth scene-limited.
 
 ## Incoming continuity
 Chapter 003 ends with Percy listing Hall questions in Cabin Three, without having spoken to Zoe directly yet.

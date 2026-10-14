@@ -1,6 +1,6 @@
 # Chapter 006 — The Sister
 
-**Reviewed on PR #103. Current body words:** 10786. **Chronology:** Several camp days; Ch007 places storm three days after Thalia's evacuation drill. **POV:** Thalia close-third, final Percy/Annabeth scene.
+**Reviewed on PR #103. Current body words:** 10803. **Chronology:** Several camp days; Ch007 places storm three days after Thalia's evacuation drill. **POV:** Thalia close-third, final Percy/Annabeth scene.
 
 ## Incoming continuity
 Chapter 005 ends with the Hall attacked again; Thalia is angry and Annabeth follows her to Cabin One.

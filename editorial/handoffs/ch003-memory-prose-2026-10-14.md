@@ -1,6 +1,6 @@
 # Chapter 003 — What the Storm Remembers
 
-**Reviewed on PR #103. Current body words:** 10547. **Chronology:** Multiple days; no calendar date confirmed. **POV:** Annabeth / Thalia / Percy scene-limited.
+**Reviewed on PR #103. Current body words:** 10393. **Chronology:** Multiple days; no calendar date confirmed. **POV:** Annabeth / Thalia / Percy scene-limited.
 
 ## Incoming continuity
 Chapter 002 ends with Clarisse agreeing to show Percy the lake spring intake/map and to recheck the unsafe cart-bank edge; these are still obligations until on-page evidence establishes completion.

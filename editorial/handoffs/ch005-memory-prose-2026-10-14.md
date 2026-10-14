@@ -1,6 +1,6 @@
 # Chapter 005 — Clarisse
 
-**Reviewed on PR #103. Current body words:** 11072. **Chronology:** A few weeks after Percy arrived; no exact calendar date. **POV:** Percy scene-limited.
+**Reviewed on PR #103. Current body words:** 11077. **Chronology:** A few weeks after Percy arrived; no exact calendar date. **POV:** Percy scene-limited.
 
 ## Incoming continuity
 Chapter 004 ends with sanctioned archive work and the five-person evidence-sharing group, not a solved prophecy.
