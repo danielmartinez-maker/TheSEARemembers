@@ -48,11 +48,11 @@ She nudged him with her knee. "Come on. I want to show you something before dinn
 
 He stood and offered her a hand up, and she took it. His palm was warm and calloused from Riptide and oars and too many summers of holding on too tight to things that tried to pull away. She did not let go right away.
 
-They left the rope in a heap. The rope would survive.
+They left the rope where it lay for the moment; Percy secured the loose end to the cleat so nobody would trip and reminded himself to finish the assigned coils before dinner.
 
 ---
 
-The shrine was tucked into the edge of the woods north of the cabins, where the path to the Oracle's cave branched off and most campers stopped paying attention.
+The older shrine was tucked into the edge of the woods north of the cabins, where the path to the Oracle's cave branched off and most campers stopped paying attention. It was the established offering place, not the new olive-wood poem board that Clarisse had permitted Annabeth to plan earlier that spring. That board still required an inspected fence repair and final approval.
 
 It was small. Annabeth had designed it that way on purpose.
 
@@ -158,13 +158,13 @@ There was a long, terrible silence.
 
 Annabeth went bright red from neck to ears. "How long have you been — were you spying —"
 
-"We were tracking," Clarisse said, with great dignity. "There were fresh footprints off the main path. As head of security patrol, I had to investigate. For Camp safety."
+"We were on the marked patrol route," Clarisse said. "Someone reported a loose rail on the memorial approach. We weren't following you. You two stopped right where we needed to inspect."
 
 "You were following us because you are nosy," Percy said.
 
-"We were following you because you abandoned your rope duty," Thalia said. "And because you two have been making goo-goo eyes all week and Clarisse bet me five drachmas you were going to finally have a real conversation instead of flirting by insulting each other over capture the flag strategy."
+"We noticed the rope wasn't finished," Thalia said, "but came down here because Chiron wanted us to check the approach. We can leave if this is private."
 
-"I won," Clarisse said smugly.
+"I didn't make any bets," Clarisse said, then glanced at Thalia. "You owe me five drachmas from yesterday's target drill, though."
 
 "You have not won yet," Thalia said. "That was barely a conversation. That was a whole vow ceremony. I am going to cry. I hate crying. Thanks for that."
 
@@ -186,15 +186,15 @@ Annabeth nodded, eyes bright. "That is partly why I — yeah."
 
 Clarisse swallowed and looked away, blinking fast. Thalia pretended not to notice and gave Clarisse a hard elbow to the ribs, which was Thalia-speak for I love you, do not die.
 
-"So," Thalia said, louder, deliberately light again. "Pinky promise? Whatever timeline, together? That is the deal?"
+"So," Thalia said, louder, deliberately light again. "The two of you made a private promise about the lives you remember. What about the people living beside you now?"
 
 "It is private," Annabeth muttered.
 
-"It is adorable," Thalia corrected. "And you are not getting rid of us now. We witnessed it. That makes us, like, divine witnesses. By ancient law I just made up, that means we get to join."
+"It was private," Thalia acknowledged. "Sorry. We didn't mean to interrupt it. We can talk about the family part another day, if you want."
 
 Percy blinked. "You want to join our pinky promise?"
 
-"No, Seaweed Brain, I want to join your knitting circle. Yes, I want to join your pinky promise." Thalia held out her own pinky, crooked grin daring him to laugh. "Not the romantic part. Gross. The family part. Whatever timeline, we find each other. All of us. Camp or not, quest or not, on land or under the sea or whatever. We are family. We do not leave people behind in weird time houses. Deal?"
+"I'd like a family promise, if you two want one," Thalia said. She held out her own pinky without pushing it toward them. "Not your romantic promise. That's yours. But I want us to keep showing up for one another in this life, wherever we end up. Camp or not, on land or under the sea. Could we make a different one?"
 
 Clarisse hesitated. For all her armor and bluster, there was something raw in her face. "You sure you want me in your little pact? I am not — I am not good at soft stuff."
 
@@ -206,13 +206,13 @@ Clarisse hesitated. For all her armor and bluster, there was something raw in he
 
 "I will kill you."
 
-Thalia laughed and grabbed Clarisse's hand and forced her pinky up. "She is in. Say it, La Rue. Say whatever timeline."
+Thalia held out her hand without touching Clarisse's. "Your call, La Rue. Nobody gets volunteered."
 
-Clarisse scowled, but she did not pull away. "Whatever timeline," she muttered. "Together. Family. And if any of you tell the Ares campers I did something sentimental, I will deny it and shove you into the lake."
+Clarisse scowled, but she did not pull away. "Whatever happens," she muttered. "Together. Family. And if any of you tell the Ares campers I did something sentimental, I will deny it and shove you into the lake."
 
 "Noted," Annabeth said, laughing through tears she was trying not to shed. She linked her pinky with Thalia's, then Clarisse's. Percy did the same, making a tangled knot of hands in the middle.
 
-"Whatever timeline," the four of them said together, uneven and laughing. "Together."
+"Whatever happens," the four of them said together, uneven and laughing. "Together."
 
 "Seal it?" Thalia asked, echoing Annabeth.
 
@@ -228,7 +228,7 @@ Clarisse was quiet for a long moment, turning her pinky ring around and around w
 
 "My hair is artfully chaotic," Percy protested, eyes wet.
 
-"Your hair is a bird's nest and you know it," Clarisse said, but she squeezed his pinky hard, which from her was practically a hug. "Whatever timeline, I will fight beside you. I will fight for you. Even if I am old and creaky and have to hit people with my walker."
+"Your hair is a bird's nest and you know it," Clarisse said, but she squeezed his pinky hard, which from her was practically a hug. "Whatever happens, I will fight beside you. I will fight for you. Even if I am old and creaky and have to hit people with my walker."
 
 Annabeth laughed, crying openly now. "I will build you a walker with spikes."
 
@@ -260,9 +260,9 @@ Percy's chest ached. Ella had once been trapped and frightened, repeating phrase
 
 Ella held out a thin, clawed wing-finger solemnly. Percy linked his pinky with it very carefully. Annabeth did the same on the other side.
 
-"Whatever timeline," Ella said clearly, "Ella will remember you. Even if the books burn. Ella will tell the story."
+"Whatever happens," Ella said clearly, "Ella will remember this day. Ella can tell the story she heard, not claim a life she has not lived."
 
-Grover dropped his recycling bag and wiped his eyes on his sleeve. "Okay, now I am crying. Great. Thanks. My empathy is maxed out." He stepped forward and added his own pinky to the pile. "Me too. Whatever timeline, I will find you guys. I will eat tin cans on every version of Earth if I have to. You are my herd. Satyrs do not abandon their herd. Even — even if Pan is gone and the wild is fading and all that. You are my wild."
+Grover dropped his recycling bag and wiped his eyes on his sleeve. "Okay, now I am crying. Great. Thanks. My empathy is maxed out." He stepped forward and added his own pinky to the pile. "Me too. Whatever happens here, I'll look for you. I'll eat tin cans on every road home if I have to. You are my herd. Satyrs do not abandon their herd. Even when the wild is fading, you are part of the place I protect."
 
 "Grover," Percy said thickly. "Dude."
 
@@ -290,13 +290,13 @@ Grover whispered, "Oh."
 
 Ella cooed softly and bowed her head. "Pretty girl with kind eyes. 'Love is bravery too.' Ella remembers she said that yesterday."
 
-Annabeth knelt in front of the stone, tears finally spilling over. "We lost someone like you. In the life Percy and I remember. We haven't forgotten her."
+Annabeth knelt in front of the stone, tears finally spilling over. "There was someone we lost in the life Percy and I remember. We've told you a little about her before, but that doesn't make her your memory. I'm not asking you to be her."
 
 Silena knelt beside her. She did not pretend to remember. The wind moved through the oak leaves, and a rose-pink petal from the flowers she carried drifted down onto the plaque, right over the word TOGETHER.
 
 "You can tell me," she said, touching Annabeth's shoulder. Percy did not know how to fit a whole war into an afternoon. He told her enough: a friend who had been frightened, made mistakes, and still gone out to save people. Annabeth filled the gaps when his voice failed. Clarisse listened, then sank beside them and touched the shell with one fingertip, gentle as she had never been in battle.
 
-"Hey, Silena," Clarisse whispered, voice breaking. "I don't know that life. I know you. Whatever timeline, okay? Whatever timeline, I want to be a better sister. I promise."
+"Hey, Silena," Clarisse whispered, voice breaking. "I don't know that life. I know you. Whatever happens, okay? I want to be a better sister. I promise."
 
 Thalia knelt too, and Percy, and Grover, and Ella folded her wings. Seven of them around a small stone shrine under an oak, heads bowed, Silena's hand warm in Clarisse's.
 
@@ -376,13 +376,13 @@ Clarisse released her headlock. "If anyone tells the Ares campers I cried, I wil
 
 Grover raised his pipes. "If anyone tells Pan's grove I cried, I will — actually, they will celebrate. Crying is healthy. Let us go eat."
 
-Ella flapped ahead, singing the promise to the tune of an old prophecy, which made it sound both ominous and joyful: "'Whatever timeline, together! Beware! Be glad! Remember!'"
+Ella flapped ahead, singing the promise to the tune of an old prophecy, which made it sound both ominous and joyful: "'Whatever happens, together! Beware! Be glad! Remember!'"
 
 They walked back together down the path as the light turned gold then rose, seven silhouettes — tall and short, god-born and satyr and harpy — laughing and shoving and wiping eyes and pretending they were not holding pinkies when no one looked.
 
 Behind them, under the oak, the shrine stood quiet.
 
-The bronze plaque caught the last sun. The offerings glowed: bead and horse and arrowhead and shell and bracelet and feather and pearl and twin clay beads reflected in miniature.
+The bronze plaque caught the last sun. The offerings glowed: the old bead and horse and arrowhead, and the new shell and bracelet and feather and pearl. The two new matching clay beads were on Percy and Annabeth's necklaces, not left on the stone.
 
 A rose petal rested over the word TOGETHER and did not blow away, though the wind moved all around it.
 
