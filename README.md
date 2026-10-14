@@ -19,6 +19,14 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Character-memory audit](editorial/audits/CHARACTER-MEMORY-2026-10-13.md): targeted confirmed repairs, with explicit limits on what has been reviewed.
 - [Character-memory regression check](scripts/check_character_memory.py): tests source-anchored relationship facts and lists possible first-introduction dialogue for manual review; also runs in GitHub Actions.
 
+## Coordinated 193-chapter audit (October 13, 2026)
+
+- [Evidence-backed four-phase execution record](editorial/audits/FOUR-PHASE-EXECUTION-2026-10-13.md): what passed, what was revised and what remains incomplete.
+- [Per-chapter machine-generated continuity cue index](continuity/evidence/generated-ch001-193.md): 193 chapter locators; witnesses, relationships and secret knowledge explicitly **unverified** until human scene review.
+- [Full-manuscript QA report](editorial/audits/generated-full-qa.md) and [structured data](editorial/audits/generated-full-qa.json): 138/193 meet the length floor; 55 chapters are 267,533 words short; 1,660,025 300-word windows yielded zero exact cross-chapter duplicates.
+- [55-chapter expansion handoff queue](editorial/handoffs/55-short-chapters-execution-queue.md): title-by-title deficits and serial writing packets. **No expansion claimed**.
+- [Auditing scripts](scripts/full_manuscript_qa.py) and [CI workflow](.github/workflows/full-manuscript-audit.yml). Mechanical QA does not certify every scene's continuity or prose quality.
+
 ## Editorial audit progress
 
 - [Chapter 1 audit](editorial/audits/chapter-001.md) and [Issue #1](https://github.com/danielmartinez-maker/TheSEARemembers/issues/1)
