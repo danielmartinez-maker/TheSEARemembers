@@ -17,6 +17,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Character memory ledger](continuity/CHARACTER_MEMORY_LEDGER.md): source-anchored relationships, past encounters, what each character remembers, and knowledge boundaries.
 - [Chapter memory handoff](continuity/CHAPTER_MEMORY_HANDOFF.md): mandatory per-chapter checklist for first meetings, earned intimacy, promises, objects, injuries and disclosure.
 - [Character-memory audit](editorial/audits/CHARACTER-MEMORY-2026-10-13.md): targeted confirmed repairs, with explicit limits on what has been reviewed.
+- [Character-memory regression check](scripts/check_character_memory.py): tests source-anchored relationship facts and lists possible first-introduction dialogue for manual review; also runs in GitHub Actions.
 
 ## Editorial audit progress
 
