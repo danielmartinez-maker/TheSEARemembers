@@ -478,6 +478,120 @@ He bumped his knee into hers. "Home is people who know the dumb stuff and stay a
 
 ---
 
+Nico found Percy after lunch at the small fort behind Cabin Thirteen.
+
+He was sitting at the lower table with the Mythomagic pieces spread out in a half-circle. Bianca stood beside the doorway with a folding rule, measuring a space above the carved names. Annabeth had given Nico permission to propose a little skull emblem for the door if the Hephaestus crew approved the placement. Nico had decided he wanted to make the drawing himself before anyone cut the wood.
+
+"Do you know how to draw a skull that looks fierce but not evil?" he asked Percy.
+
+"That's specific."
+
+"It needs to protect the fort. But Bea doesn't like scary faces."
+
+Percy knelt beside him. There were three sketches on the table: one skull with enormous teeth, one with tiny round eyes and a third wearing a Roman helmet.
+
+"That one looks like Jason," Percy said, pointing to the helmet.
+
+"Jason isn't a skull."
+
+"Excellent point."
+
+Bianca laughed. Nico turned the paper around so Percy could see what he'd drawn on the back. It was a map of the fort with spaces labeled for people who wanted to play. The lower table was for card games, the shaded bench outside was for drawing, and the loft had a little mark that said *two people*.
+
+"Annabeth told me I had to make a plan," Nico said.
+
+"She does that."
+
+"I like it. Then people don't have to ask where they can go."
+
+Percy looked at the tiny shapes. "Is this for your friends?"
+
+"For the new campers. Some don't want to come in because they think I'll be doing death magic all the time."
+
+"Are you?"
+
+"Not all the time."
+
+Percy tried not to laugh.
+
+Nico looked serious. "I don't want to be the creepy boy who has a fort nobody wants to use."
+
+Percy recognized the fear. Nico had spent his first weeks at camp learning which older kids flinched when he mentioned Hades. His birthday had helped, but it hadn't erased every unpleasant look. Percy also knew he couldn't fix the problem by telling everybody that Nico was wonderful and demanding that they believe him.
+
+"What do you want them to know?" Percy asked.
+
+"That they can play here. But they have to ask before using the cards."
+
+"Then put that on your map."
+
+"Can it be a rule?"
+
+"It's your fort, with Bianca. Ask Chiron if you want it posted on the shared notice."
+
+Nico looked toward his sister. Bianca nodded.
+
+"I think that's fair," she said. "And it would be nice if you told people where to put things when they're done."
+
+Nico added a box near the door labeled *return cards here*. Then he wrote a short note for anybody who was nervous about the shadow flowers behind the cabin: the plants were not dangerous to touch, but visitors should leave them in the ground so they would keep growing.
+
+Milo came by carrying a small canvas bag. He had brought the borrowed Mythomagic deck back after the lesson Nico gave him on his birthday. He placed it on the table and checked whether all the cards were present before Nico counted them.
+
+"Can I play again?" Milo asked.
+
+Nico looked at the new map. "Yes. First you have to choose whether you want to play inside or outside."
+
+"Inside."
+
+"Okay. The lower table is free."
+
+Milo sat down. He saw the skull drawings and said he liked the one with the Roman helmet. Nico immediately accused him of not knowing how skulls worked, and they started arguing about whether a skeleton could wear a helm without a head.
+
+Percy watched the boys arrange their pieces. It occurred to him that Nico had solved his immediate problem in a way Percy couldn't have designed for him. He had built a place for other children to choose how close they wanted to come.
+
+Bianca came to stand beside Percy.
+
+"He has been like that all week," she said.
+
+"Like what?"
+
+"Making lists. Asking if people want to play. He keeps wanting to tell me every time he learns something new."
+
+"Sounds exhausting."
+
+"It is. I love it."
+
+Percy looked at the drawings again. "Are you glad you built the fort?"
+
+"Yes. But not because everybody likes him now. He still has bad days."
+
+"So do I."
+
+She glanced at him. "I know."
+
+He looked toward the path where Annabeth was talking to Chiron about the creek bridge. She had plans for a new season, and sometimes they would go wrong. Percy was learning that loving someone didn't mean making every future day safe or easy. It meant being there when the plan changed and asking what kind of help they wanted.
+
+Milo lost the first game because he had forgotten to defend one of his monsters. He complained, and Nico told him he could try again but wasn't allowed to take back an entire turn. Bianca left them to negotiate the rules, and Percy followed her out.
+
+At the doorway Nico called after him.
+
+"Percy?"
+
+"Yeah?"
+
+"Can you ask Annabeth whether the skull has to be symmetrical?"
+
+"I can. But I think I know what she'll say."
+
+"What?"
+
+"She'll ask why."
+
+Nico grinned. "Because the left eye is bigger."
+
+Percy laughed. "That's a pretty good reason."
+
+They left him with the map, the cards and his own crooked drawing, all of them things he could change without asking anyone to become a different person.
+
 That afternoon it rained.
 
 Spring rain at camp was different from summer rain. Summer rain was warm, dramatic, gone in an hour. Spring rain was cold, steady, soaking, the kind that turned paths to soup and sent everyone running for cover laughing and swearing.
