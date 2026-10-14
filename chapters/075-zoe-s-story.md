@@ -16,6 +16,82 @@ Now she sat forward with her hands folded, looking into the flames, and the whol
 
 A ripple of soft laughter went around the benches. Annabeth lifted her head from Percy's shoulder, suddenly more awake. Percy nudged a corner of his blanket toward her without looking, and she pulled it over her knees.
 
+Zoe lifted a finger before continuing.
+
+"One thing. The story is mine. You can ask questions when I finish, and you can remember what I say. Please do not turn it into a camp game without asking me first."
+
+Percy saw Ella straighten in the back row, her notebook opened to a clean page. The harpy had learned something difficult about private writing when she'd found Clarisse's poems. She waited now instead of immediately taking notes.
+
+"Would it be all right to write down the parts you say we can share?" Ella called.
+
+Zoe looked toward her. "The general parts, yes. Not the address of the house I grew up in, and not the names of the people who raised me. Those details are not a prize for listening."
+
+Ella nodded solemnly and shut the notebook until the story began.
+
+Chiron moved from his place near the back of the amphitheater. Three of the newest campers had been sitting with their counselor a little below him. Milo was leaning forward with his elbows on his knees. Lucy had taken her flashing shoes off and tucked them beneath the bench. Bea held the stuffed seal she'd carried all the way from the van.
+
+"The younger campers may leave now if they wish," Chiron said. "Some of this account is frightening. It is not a test of courage to stay awake through every word."
+
+Milo glanced at Lucy. Lucy shrugged and stayed. Bea stood up.
+
+Thalia was halfway to her feet before she caught herself. Percy saw the effort. She had spent years looking after Annabeth and had very strong instincts about children who were frightened, but Bea already had a counselor beside her.
+
+"Do you want to come back later?" the counselor asked.
+
+Bea looked at Zoe. "Will she be mad?"
+
+"Not at all," Zoe said. "I have been a child who wanted to leave a room. I prefer a door that opens."
+
+Bea took her seal and went with the counselor. No one called her back. After a moment another small camper followed them. Milo and Lucy remained, and Chiron stayed within their sight.
+
+Percy shifted a little closer to Annabeth. Tyson had returned to Atlantis after his long visit, leaving a photograph on Cabin Three's windowsill and a jar of peanut butter that Percy had been making last longer than necessary. The empty bunk still looked wrong in the morning. Tonight he had come to listen partly because he needed to be around other people without being asked whether he missed his brother.
+
+"You okay?" Annabeth whispered.
+
+"Yeah. You?"
+
+"Yeah."
+
+She did not ask him to prove it. He didn't ask whether she was thinking about the way her first life had disappeared. They both knew how easily a family story could turn into a question neither of them knew how to answer.
+
+Across the fire, Clarisse reached for a log with the metal tongs and stopped when Zoe shook her head. Zoe was still arranging her shawl and small silver key pin. She liked the fire the way it was. Clarisse set the tongs down without argument.
+
+That surprised Percy almost as much as anything else that evening. A few weeks earlier, he might have expected Clarisse to make a joke out of being corrected. Now she accepted a boundary and moved on.
+
+"Can we ask questions as we go?" Milo said from his bench.
+
+Zoe considered. "If you need clarification, yes. If it is a question I cannot answer without telling someone else's story, I may say no."
+
+Milo nodded.
+
+"I asked Chiron to let me speak tonight because this camp can make arriving seem easy in retrospect," Zoe said. "We laugh about first days once we have survived them. We tell ourselves that the frightened child became brave by walking through the gate. Sometimes the frightened child just learned where the dining pavilion was and went to bed still frightened."
+
+Percy felt Annabeth take his hand.
+
+"I am going to tell you about a door," Zoe continued. "It was blue. My father painted it himself. He got paint on the letterbox and never quite scraped it all off. I used to tell people the blue was ugly. Now I can see that door more clearly than half the spells I know."
+
+The campers listened. Zoe's voice was steadier when she spoke of ordinary objects than when she spoke of magic.
+
+"Did you like your home?" Lucy asked.
+
+"Very much."
+
+"Then why did you leave?"
+
+"That is what I'm here to explain."
+
+Lucy looked down at her shoes, then back at Zoe.
+
+Percy heard Grover shift behind him. The satyr had taken special care bringing the new campers to the hill, and Percy knew he was still worried about what they might encounter outside the border. He wanted them to understand that being at camp did not mean every difficult thing in their earlier lives was gone. The story, if Zoe chose to tell it, could show that without anybody turning the children into an example.
+
+Milo raised his hand again.
+
+"Sorry," he said, lowering it. "I keep thinking of questions."
+
+"Keep them," Zoe said. "If they still matter when I'm done, you can ask. Sometimes a story answers questions its teller never planned for."
+
+Milo folded his hands in his lap. Annabeth leaned against Percy. Thalia drew her jacket across her shoulders and rested one boot on the empty step in front of her. Zoe waited until the rustle of settling campers stopped, then looked into the fire.
+
 "My mother is Hecate," Zoe said. "Goddess of magic, of the Mist, of crossroads and ghosts and the moon when it is dark. You know this. What you may not know is that I did not grow up knowing it."
 
 She paused, and the fire popped.
