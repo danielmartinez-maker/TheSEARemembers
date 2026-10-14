@@ -286,9 +286,9 @@ Annabeth’s eyes lifted to his for a moment, then went back to the first line. 
 
 When she finished, she folded the page along its existing creases. “That sounds like her.”
 
-“You’ve never met her,” Clarisse said.
+“You sound sure,” Clarisse said. “Do you think the palace will feel like her visit?”
 
-“No, but Percy talks about her.” Annabeth tapped the edge of the letter. “She seems to understand that an invitation can be generous without being a demand.”
+“I remember that visit,” Annabeth said. “She fussed over Percy's bunk and gave me a bracelet when I hadn't asked for anything.” She tapped the edge of the letter. “She seems to understand that an invitation can be generous without being a demand.”
 
 “She’s good at that,” Percy said.
 
