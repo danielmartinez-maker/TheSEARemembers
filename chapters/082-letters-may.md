@@ -535,6 +535,76 @@ Tyson framed the label. Or tried. He was very proud.
 
 ---
 
+The first lost letter was not lost at all.
+
+Percy discovered this after spending two days wondering why Silena hadn't replied to the recipe correction he sent her. Ella's ledger said the envelope had left Atlantis. The dormitory mail shell said it had been accepted. The surface receipt confirmed the transfer to Camp Half-Blood. Somewhere between one record and the next, Percy's letter had disappeared.
+
+"Maybe she got it and didn't answer," Nerit suggested.
+
+"She answers."
+
+"Sometimes people are busy."
+
+Percy made a face. He knew Nerit was right in principle. He also knew Silena liked to reply to food experiments. She'd asked Percy to tell her whether the berry powder made the honey cakes too sweet. Not answering that question was unlike her.
+
+At breakfast Tyson listened to the problem, then asked to see the receipt.
+
+"Why?"
+
+"Because one of the forge shipment tickets was marked wrong last month," Tyson explained. "The parcel arrived. The name on the receiving sheet was different."
+
+They went to the mail station together. The attendant showed them the outgoing list, where the envelope had been entered under Percy Jackson. The destination code belonged to Camp Half-Blood's general correspondence, not Silena's private forwarding channel.
+
+"So it went to the camp," Percy said.
+
+"Yes."
+
+"Then where is it?"
+
+The attendant looked at the line. "We can ask the receiver to check. We cannot open someone's mail to verify it ourselves."
+
+Percy stared at him, frustrated. The easiest answer would be to use sea magic to follow the water still clinging to the envelope. He could probably do that over a short distance. He couldn't follow the paper through the entire world without knowing exactly which water had touched it, and trying to access a private mail room with his powers wasn't a reasonable solution to an administrative problem.
+
+"Can you send a correction?" he asked.
+
+"We can send an inquiry."
+
+They did.
+
+Two days later a message came back from Chiron. The letter had been placed in a sorting box with two other unsigned recipe notes. Silena had received it only that morning and was already testing a new batch. Nothing had been destroyed. Nobody had read the contents except the intended recipient.
+
+Percy felt absurdly relieved.
+
+Nerit looked over his shoulder as he read the short message.
+
+"You thought the sea had eaten your mail."
+
+"Maybe a little."
+
+"Did you check whether the sea was hungry?"
+
+"Not funny."
+
+"It's a little funny."
+
+Percy laughed. Then he wrote the attendant a thank-you note and asked whether they could mark private mail codes more clearly on the dispatch slip. The attendant suggested adding the recipient code beside the sender's name rather than writing it only on the outer shell, where the wax could smear.
+
+They tried the change on the next collection.
+
+Percy learned something about the weeks he would spend away from camp. Not every gap in an answer meant someone was frightened, hurt or angry. Sometimes paper went into the wrong tray. Sometimes a friend was busy. The only way to know which was true was to check with the people who actually handled the information.
+
+The correction reminded him of what Grover had said by the lake before leaving. They had agreed not to treat a delayed letter as proof a person was missing. Percy had nodded solemnly and promptly forgotten the advice the first time a letter to his sister came back late.
+
+He wrote an apology to Grover in his next message.
+
+*Turns out I'm bad at my own rules*, he admitted. *I'm still practicing.*
+
+Grover's reply came several days later, forwarded through Chiron.
+
+*Me too. Yesterday I panicked because Juniper didn't answer for a whole afternoon. It turned out she was a tree and had things to do. Don't tell her I put that in a letter.*
+
+Percy read the note twice, smiling, and returned it to its envelope without passing it around the dorm.
+
 By the third week of May, letter season had its own rhythm.
 
 Percy would wake before the bell, check the dispatch shells, and run back with whatever had arrived tucked inside his jacket to keep dry. Nerit would wake to the sound of paper and roll over with a whistle.
