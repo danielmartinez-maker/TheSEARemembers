@@ -6,22 +6,23 @@
 
 ## Latest current-branch continuation (2026-10-14 local snapshot)
 
-**Source:** `audit/four-phase-continuity-2026-10-13`, checked locally after the Chapter 118 and Chapter 069 expansions. This is not yet a GitHub Actions result; older figures below describe historical editing branches or passes.
+**Source:** `audit/four-phase-continuity-2026-10-13`, latest Chapter 070 edit recount and arithmetic from the previous 193-chapter audit checkpoint. Subsequent historical sections below may refer to older snapshots. The complete newest-head CI run, rather than this arithmetic, is authoritative for corpus-wide results.
 
 | Scope | Current verified result |
 |---|---:|
 | Numbered narrative chapters audited | **193** |
-| At or above 10,000 actual body words | **145** |
-| Below 10,000 actual body words | **48** |
-| Required additional body words to clear minimum | **243,056** |
-| Exact cross-chapter 300-word duplicates | **0 across 1,687,246 windows** |
-| Source-anchored memory regression checks | **16 passing** |
+| At or above 10,000 actual body words | **146** (expected; pending new full-corpus CI) |
+| Below 10,000 actual body words | **47** (expected; pending new full-corpus CI) |
+| Required additional body words to clear minimum | **239,128** (expected; pending new full-corpus CI) |
+| Exact cross-chapter 300-word duplicates | **0 across 1,687,246 windows on the preceding 145-pass snapshot**; newest-head scan pending |
+| Source-anchored memory regression checks | **17 checks configured**; new Chapter 070 anchor set passed 8 direct comparisons; newest-head full run pending |
 
-**Seven chapter expansion results since the 138/55 baseline**:
+**Eight chapter expansion results since the 138/55 baseline**:
 
 - [066, Jason's Letter](../chapters/066-jason-s-letter.md): **8,314 → 10,572** words; [memory handoff](../continuity/ch066.yaml).
 - [067, Fishing](../chapters/067-fishing.md): **5,758 → 10,292** words; [memory handoff](../continuity/ch067.yaml).
 - [068, The Storm (Small)](../chapters/068-the-storm-small.md): **5,529 → 10,328** words; [memory handoff](../continuity/ch068.yaml).
+- [070, Clarisse's Poems](../chapters/070-clarisse-s-poems.md): **6,072 → 10,543** body words (**+4,471 net**); [character, prop and permission handoff](handoffs/ch070-clarisses-poems.md). Chapter length passes, but independent semantic/prose signoff is open.
 - [069, Silena's Song](../chapters/069-silena-s-song.md): **6,001 → 10,118** words; [scene handoff](handoffs/ch069-silenas-song.md).
 - [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **4,921 → 10,464** words; [memory handoff](../continuity/ch118.yaml).
 - [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
