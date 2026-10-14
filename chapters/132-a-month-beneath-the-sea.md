@@ -268,9 +268,7 @@ Blunt, not unkind. Percy studied the shell in his palm, its edge catching mornin
 
 "Don't thank us for telling you to be honest," Clarisse said, swinging the spear onto her shoulder. Then she tossed it toward him. "Show me whether you can move this."
 
-Sand whispering underfoot, Silena whisked the photograph clear before they took positions, tucking the sleeve tight against blowing grit.
-
-Silena whisked the photograph clear of the sand before they took positions. Clarisse closed fast. Percy blocked, pivoted, redirected her third strike so momentum carried her past his shoulder.
+Sand whispering underfoot, Silena whisked the photograph clear before they took positions, tucking the sleeve tight against blowing grit. Clarisse closed fast. Percy blocked, pivoted, redirected her third strike so momentum carried her past his shoulder.
 
 She turned, eyes bright. "Better."
 
