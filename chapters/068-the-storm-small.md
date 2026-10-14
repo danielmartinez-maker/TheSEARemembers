@@ -392,6 +392,110 @@ Behind them, Annabeth could feel every eye on her back.
 
 ---
 
+They made it past the pavilion steps before Annabeth realized she was still gripping Thalia's arm hard enough to leave crescent marks.
+
+"Sorry," she said, loosening her fingers.
+
+"Don't apologize for needing help walking. Just let me know when you don't need it anymore."
+
+Annabeth could hear the pavilion behind them. Plates were being collected. Someone was arguing about who would clear the overturned chairs. The noises were ordinary, which made the silence they'd left behind feel even more unreal.
+
+She looked back once.
+
+A younger Hermes camper stood at the edge of the doorway, clutching a cup with both hands. He was no older than eight, and his mouth was open as though he'd wanted to say something and forgotten what. When he saw Annabeth watching, he stepped back.
+
+She stopped.
+
+Chiron stopped with her. "What is it?"
+
+"The little boy."
+
+Thalia followed her gaze. "You don't have to talk to anyone right now."
+
+"I know. But he looked scared."
+
+"That's why you don't have to."
+
+Annabeth stood uncertainly between them. In the pavilion she'd felt the power rising and had forgotten every word of the exit drill she'd practiced that morning. Now she knew the words and couldn't think how to use them.
+
+"Could I ask him whether he wants to say something?" she said.
+
+"Yes," Chiron answered. "And he may say no."
+
+Annabeth approached only as far as the path. She kept her hands at her sides, fingers visible, although she realized afterward that doing so probably made her look more formal than she intended.
+
+"Hi," she said.
+
+The boy nodded. His cup rattled slightly against his teeth.
+
+"I'm sorry I frightened you."
+
+He looked over his shoulder, checking whether one of the counselors was listening. Then he looked back at her.
+
+"Was that your lightning?"
+
+"Yes."
+
+"Does it happen when you get mad?"
+
+"Sometimes. I'm learning to control it."
+
+"Can it hurt people?"
+
+The question was so direct that Annabeth almost told him everything was fine. She wanted him to stop looking at her like a storm cloud had learned to speak. She wanted to reassure herself as much as him.
+
+"It could," she said. "That's why I train with Chiron and Thalia. Nobody was injured today, but I still shouldn't have lost control in the dining room."
+
+He thought about that for a long time.
+
+"My brother said you did it on purpose."
+
+"I didn't."
+
+"Bryce said it was because Percy can't fight for himself."
+
+Annabeth closed her eyes for one second. This was the line on Thalia's slate. She could feel anger rise with humiliating speed. She could also feel Thalia just behind her, close enough to help and far enough to let her decide what to do.
+
+"Bryce was wrong about Percy," she said. "But lightning didn't make him wrong. It only frightened other people. I should've stopped arguing and stepped away."
+
+The boy stared at her.
+
+"Would you rather I leave you alone?" she asked.
+
+He nodded.
+
+"All right."
+
+She went back to Thalia without adding another sentence. It was a small success, almost invisible. She'd wanted to stay until the boy smiled, or tell him a funny story, or make him promise not to fear her. Instead she'd asked what he needed and done it.
+
+Chiron watched the boy return to his table.
+
+"That was difficult," he said.
+
+"It was awful."
+
+"Yes."
+
+Thalia was rubbing her arm where Annabeth had gripped it. "You stopped talking when he asked."
+
+"He didn't exactly ask."
+
+"He nodded when you offered to leave. That's an answer."
+
+Annabeth looked at the marks on her sister's skin.
+
+"Did I hurt you?"
+
+"No. You held on because you were unsteady. I would've told you if I needed you to let go."
+
+They started walking again. The Big House stood a little way uphill, its windows bright in the sun. Annabeth had not fixed anything by talking to the boy. She had taken responsibility for one small part of what had happened and left the rest where it belonged.
+
+At the porch steps Chiron opened the door and gave her room to go in first.
+
+She went.
+
+---
+
 The Big House living room was cool and dim and smelled like lemon polish. Annabeth sat on the couch with a blanket Thalia had thrown around her shoulders. Chiron poured tea with his own hands.
 
 “He was saying things about Percy,” she said. “About Mill Creek. That he froze. Percy told him to stop and I told him to stop and he called me a princess playing guard dog.”
