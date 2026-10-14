@@ -561,6 +561,290 @@ It occurred to Percy that he'd spent the afternoon trying to protect Clarisse fr
 
 He didn't tell Clarisse any of that. He walked beside her until the arena came back into view, where the last training shields were stacked neatly and the coolers were almost empty.
 
+The Demeter camper from the first drill was still there.
+
+He had dragged a practice shield into the shade of the western wall and was trying to hold it at shoulder height while stepping sideways over a line scratched in the dirt. Percy remembered Clarisse's command from the beginning of the afternoon. *Shield up or teeth out.* It had sounded like a joke to the older campers. The boy's elbows shook with the effort of not dropping the shield.
+
+Clarisse stopped. “You're supposed to be off duty.”
+
+“I know,” he said.
+
+“Then why are you still doing that?”
+
+The boy straightened too quickly, stumbled on the edge of the line and recovered with the shield against his chest. “I couldn't do the turn right. I figured if I practiced it before tomorrow, you wouldn't have to stop everybody again.”
+
+Percy waited for Clarisse's usual answer. He knew the speech: nobody made him stay, but if he was going to stay he should at least do it correctly.
+
+Clarisse took the shield from the boy before his wrist bent under its weight. She tested the strap with two fingers.
+
+“How long have you been out here?”
+
+“Not long.”
+
+“That's not a length of time.”
+
+“I don't know. Since you sent everyone away.”
+
+The light had shifted across most of the arena since then. Percy looked at the boy's hand and saw a red line where the strap had been rubbing. The other wrist was stiff from holding his practice sword too tightly.
+
+Clarisse saw it too. She set the shield on the ground.
+
+“You don't train until you can't feel your fingers,” she said.
+
+The boy's shoulders hunched. “Sorry.”
+
+“That's not what I'm mad about.”
+
+“Are you mad?”
+
+Clarisse opened her mouth. Closed it. Percy recognized the effort it took her to answer the question she had actually been asked instead of the one she wanted to hear.
+
+“No,” she said finally. “I'm annoyed that the equipment's wrong. And I'm annoyed that you think staying out here by yourself will fix something we didn't teach well enough.”
+
+The boy blinked. “You said my shield was too low.”
+
+“It was.”
+
+“And that I'd lose my teeth.”
+
+“That was a lousy thing to say.” Clarisse glanced at Percy, then back at the boy. “It wasn't an actual threat. But I get that it sounded like one. I'm sorry.”
+
+Percy had heard Clarisse say *sorry* before. Usually somebody was bleeding, or she'd broken a training weapon and couldn't convince Beckendorf the weapon had started it. This sounded different. She wasn't bargaining for forgiveness. She was naming a thing she'd done.
+
+“I thought you hated me,” the boy said.
+
+Clarisse looked almost offended. “I don't know you well enough to hate you.”
+
+“Clarisse,” Percy said quietly.
+
+She grimaced. “That came out wrong.”
+
+The boy looked at his shoes. A long moment passed, uncomfortable in the way silence often was when nobody could solve it by being funny.
+
+“Do you want to try the turn once more?” Clarisse asked. “With a shield you can carry, and someone watching? Or do you want to go eat? Either answer is fine.”
+
+“Once more,” he said.
+
+“Okay. One.”
+
+She called Sherman over from the gate. He had been helping stack practice spears, and he came at a jog.
+
+“Find a small training shield,” she said. “Not the adult bronze one. One of the wooden ones with the adjustable handle. And bring the blunt sword we use for forms.”
+
+Sherman looked between them. “You starting another class?”
+
+“No. I'm correcting my own mistake.”
+
+That quieted him more efficiently than a shouted order.
+
+Percy stood back as Sherman returned with a shield almost a third lighter. Clarisse loosened the straps and held it out, but she made the boy choose which hand to lead with. He tried both. His right wrist ached; his left felt steadier.
+
+“Then lead left,” Clarisse said. “There's no prize for making the injured side prove something.”
+
+“My wrist isn't injured.”
+
+“Fine. It's tired. Same rule.”
+
+She stood beside him rather than opposite. Percy watched them both face the empty arena. The boy's shoulders rose when she gave an instruction, and she waited until they settled before giving another.
+
+“Feet first,” she said. “Don't think about the shield yet. You turn your hips and let the arm follow. When you stop, your weight stays over your feet. Not your toes. Show me that much.”
+
+The boy did it without the shield. Once. Twice. The third turn carried him beyond the scratched line.
+
+“Too far,” he muttered.
+
+“A little. Which foot moved first?”
+
+“My back foot.”
+
+“Try again with the front one. If it feels wrong, stop. Don't twist your knee to please me.”
+
+Percy moved to the other side of the ring, where the boy could see him but not feel watched from three directions. It was a small decision. He could have given advice, and maybe good advice. Clarisse didn't need three instructors talking over her, and the boy didn't need to perform progress for everybody who had heard him fail earlier.
+
+After several turns, Clarisse let him put the light shield on. He discovered that he could raise it in time if he didn't try to lift his shoulder to his ear. His first successful block made a quiet wooden knock against Sherman's practice blade.
+
+It was such an ordinary sound. Percy had heard thousands of strikes louder and prettier than that. This one mattered because the boy stopped looking at Clarisse's face after every move to find out whether he was in trouble.
+
+“Better,” Clarisse said.
+
+“Really?”
+
+“Really. Not finished. You still need to keep your weight back when Sherman changes sides.”
+
+Sherman lowered his blade. “He got the first part.”
+
+“I noticed.”
+
+The boy grinned at the dirt.
+
+“That's the whole lesson for today,” Clarisse said. “Your wrist's going to get more useful when you rest it. Tomorrow, ten minutes before group practice, we check the strap and do three turns. That's it.”
+
+“Can Percy watch?”
+
+Percy looked up, surprised.
+
+Clarisse folded her arms. “Ask Percy.”
+
+The boy did. Percy agreed, provided the lesson didn't overlap with his own assigned work. He didn't promise a whole afternoon. It was a change of habit he had to keep learning, that a request could be accepted only as far as he actually had time to do it.
+
+“Deal,” the boy said, as if he'd been handed a sword of legendary importance.
+
+When he went to return the equipment, Sherman followed to show him where the lighter shields were stored. Clarisse watched them go.
+
+“Was that hard?” Percy asked.
+
+“Training? No.”
+
+“Saying sorry.”
+
+“Shut up, Jackson.”
+
+He leaned against the arena fence. “You were good at that.”
+
+“I'm good at everything.”
+
+“You told him his feet were wrong five times.”
+
+“They were wrong five times.”
+
+“He listened to you all five.”
+
+Clarisse's expression shifted, irritation giving way to thought. “That's the part I forget,” she said. “They do listen. Even when I'm just yelling because I'm scared they'll get hurt and I don't know how to say it.”
+
+Percy remembered the poem about the spear that wanted to be an oar. He didn't quote it. A person didn't need to turn somebody else's private work into a lesson whenever the metaphor fit.
+
+Silena arrived carrying a small bag of oranges rescued from the nearly empty cooler. She tossed one to Clarisse and another to Percy.
+
+“Sherman says you taught an extra class.”
+
+“Sherman exaggerates,” Clarisse said, peeling the orange in one jagged strip.
+
+“Usually.” Silena looked at the practice shields along the fence. “Did it go all right?”
+
+“Kid's improving. Wrong shield size. Fixed it.”
+
+“And you?”
+
+Clarisse threw an orange peel at her. Silena caught it before it hit her shirt.
+
+“I'm improving,” Clarisse admitted.
+
+Silena smiled. “I could tell.”
+
+She did not say *because I heard your poem*. Percy suspected Clarisse would have forgiven it, but the restraint seemed more affectionate than another compliment.
+
+They sat at the bleachers for a while, eating the oranges and watching the younger campers carry the equipment inside. The day had grown cooler, and distant voices from the dining pavilion came with the wind. Somebody was practicing a flute badly enough to sound like Percy with his conch.
+
+“I sang last night,” Silena said eventually. “That was my decision. There were moments before it when I wasn't sure I wanted to. Today you didn't get to decide when somebody started reading your words.”
+
+Clarisse picked at the white pith on her orange.
+
+“I could've made Ella cry,” she said. “I think I did.”
+
+“You scared her,” Silena said. “You were scared too. You can tell her the first part without pretending the second part doesn't count.”
+
+“I was going to.”
+
+“Want company?”
+
+Clarisse considered. “No. Not for this.”
+
+Silena nodded, plainly accepting the answer. She remained sitting on the bleacher with Percy while Clarisse went toward Tyson and Ella near the tool shed.
+
+Percy couldn't hear much of the conversation. Clarisse crouched, and Ella tilted her head to look straight at her. Tyson stayed close enough to help without speaking over either of them. Clarisse talked with her hands at first, then stopped and held them still. Ella's wings twitched. She said something that made Clarisse shake her head, not angrily this time. Then Ella reached beneath one wing and offered a tiny crimson feather.
+
+Clarisse didn't take it immediately.
+
+When she did, she held it between two fingers like something very easy to crush.
+
+Ella's beak moved again. Clarisse answered. Percy was too far away to know the words, and he didn't try to move closer. A few minutes later the two separated, Ella walking beside Tyson toward the pavilion, Clarisse returning with the feather tucked carefully into the back cover of the notebook.
+
+“How'd it go?” Silena asked.
+
+“Fine.”
+
+“Did she promise not to read your things again?”
+
+“Yes. And she knows I wasn't threatening to hurt her.”
+
+Percy studied the notebook. “You kept the feather.”
+
+“It's not evidence for the prosecution,” Clarisse said.
+
+“I didn't say it was.”
+
+“Your face did.”
+
+“My face is very talkative.”
+
+Silena started laughing. Clarisse lasted another few seconds before joining her.
+
+The three of them went to find Annabeth and Thalia. At the workshop they found Chiron, Beckendorf and an increasingly worried Jason standing around the small olive-wood board Annabeth had proposed for the shrine. Jason was holding a sketch of a decorative border with little eagles along it. Beckendorf had crossed out two of the eagles.
+
+“Why can't the eagle go here?” Jason wanted to know.
+
+“Because that's where the fastener goes,” Beckendorf said for what sounded like the fourth time. “If you put a bird where the screw belongs, the entire panel belongs on the ground.”
+
+“Romans solve many problems with eagles.”
+
+“Camp Half-Blood solves this one with screws.”
+
+Annabeth looked up when Percy entered. Her forehead was smudged with sawdust. A small smile flashed across her face, the same private smile she'd given him at the arena that afternoon, and then she went back to measuring a piece of wood.
+
+“Good,” she said. “Somebody tell Clarisse we're not carving the whole poem.”
+
+“Clarisse is here,” Clarisse said.
+
+“Even better. We have the text you approved, but the board's still too wide for the passage. The only safe mounting points leave us with this much room.” She held her hands apart.
+
+Clarisse leaned over the drawing. “Then don't squeeze the letters. Move the title.”
+
+“There isn't a title,” Annabeth said.
+
+“Exactly. We don't need one.”
+
+“That's what I said,” Beckendorf muttered.
+
+Percy looked at the mock-up. There were three lines, exactly as Clarisse had approved, and a narrow margin around them. No name was carved beneath the words. There was a blank place where a signature might have gone.
+
+“Should it say Clarisse?” he asked her privately.
+
+She looked at the empty margin. “Not there. People can ask me if they want to know who wrote it. For once I think I'd like to choose who hears the answer.”
+
+Chiron examined the fastening sketch. “The fence can support this panel after we replace the loose brace. Beckendorf can supervise that repair in the morning. Until he signs it safe, nothing hangs there.”
+
+“And the stone tray?” Percy asked.
+
+“Separate proposal,” Annabeth said. “The drainage crew hasn't checked the ground. I left it off tomorrow's work list.”
+
+Jason held up the border sketch. “Can I carve a small beagle on the back?”
+
+Thalia, who had been watching her little brother from the doorway, nearly choked. “Of all the things to put on a memorial.”
+
+“Not on the front,” Jason protested. “On the back. Nobody sees it unless they're helping maintain the board. It's for us.”
+
+“Ask Clarisse,” Annabeth said, without looking up.
+
+Jason did. Clarisse let him sweat long enough to remind him that she could have said no.
+
+“Back only,” she said. “Small. If I see a giant dog peeking over the top, I'll sand it off myself.”
+
+He saluted.
+
+Percy walked behind Annabeth to look at the measurements. She rested her shoulder briefly against his, but didn't lift the pencil from the wood. He could tell she'd been working hard. He could also tell she was enjoying it, the slow solving of a problem that existed outside her own head.
+
+“Do you want help?” he asked.
+
+“With the bracket?” She pointed to the uncut wood. “Yes. Hold that end while I mark it. Don't cut anything.”
+
+He held the board level while she worked. It was the least spectacular thing he'd done all day. Annabeth thanked him anyway.
+
+When they finished, Beckendorf put the panel away in a marked rack so nobody would mistake it for an approved installation. Clarisse kept her notebook. Lacy kept only the three lines she'd received permission to copy. Ella's feather remained folded against the back cover, unseen by most of the group.
+
+They had not built a memorial in an afternoon. They had figured out how to add something without taking anything from the people who had already left their own offerings there. Tomorrow they still had to repair a brace, test a fitting, and ask permission once again before hanging the finished board.
+
+Percy preferred that kind of ending to the version where everyone cheered and declared the work done.
+
 ---
 
 By sunset the arena had turned into something like a picnic. Someone ran to the mess hall and brought back trays of ambrosia squares and chips and cans of soda. The Ares kids built a small fire in the brazier even though it was eighty degrees, because Ares kids love fire. Ella perched on Tyson’s shoulder, reciting her favorite lines back to herself in a happy mutter: “‘My spear wants to be an oar! Let it pull, not pierce!’ Ella loves oar-spears!”
