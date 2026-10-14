@@ -646,6 +646,120 @@ I keep your oak leaf under coral. I keep Silena's lavender beside it. I keep Tha
 
 ---
 
+The last week of classes gave Percy something he hadn't expected from Atlantis: a problem he couldn't solve by asking Annabeth.
+
+In coastal engineering, his instructor asked each student to make a model of a current barrier for an emergency shelter. The model had to withstand three changes in pressure without trapping the creatures that might swim nearby. Percy's first design was beautiful. It bent water into an arch and kept the inside perfectly still.
+
+It also stopped every little fish from leaving.
+
+"You've protected the shelter," the instructor told him. "From the sea, from motion, and from anything that might want to go home."
+
+Percy frowned at the little model, where three bright fish circled the inside of his barrier.
+
+"I can let them out."
+
+"Then show me how."
+
+He loosened the arch. Two fish swam away. The third stayed near the wall, confused by the altered current. Percy tried again. This time the pressure change washed the whole shelter sideways.
+
+Nerit watched from the next table, where he was building a much uglier barrier out of shell mesh and stone.
+
+"Your model looks like a palace," he observed.
+
+"Thank you."
+
+"Mine looks like a basket."
+
+"Also accurate."
+
+Nerit lowered his model into the test tank. The water ran through it, slowed by the mesh. None of the creatures became trapped. When the instructor increased the pressure, the structure bent and then returned to its original shape.
+
+Percy stared.
+
+"You built a basket that works better than my palace."
+
+"I built a basket because it is supposed to let water through. You're treating water like something you can order not to move."
+
+Percy looked at his hands. He had always had the ability to bend water toward him, lift it, shield someone with it. He'd begun to think of control as the same thing as care. In the life he remembered, that instinct had saved people. In this one it could also become a way to keep them from making choices he couldn't supervise.
+
+He thought of Tyson leaving on the Atlantean boat, with his own forge job and a correctly completed transfer record. He thought of Clarisse and Silena writing from camp, refusing to let him turn each message into a crisis. He thought of Annabeth choosing her own yellow ribbon because she liked it.
+
+"Okay," Percy said. "I'm starting again."
+
+The second design was less elegant. It had wider channels and a flexible membrane that released pressure through openings at the sides. The fish moved where they wanted. The shelter stayed in place for the first two pressure changes.
+
+At the third, a seam split.
+
+"Better," the instructor said.
+
+"Better? It broke."
+
+"It failed at one seam. You know where it failed. You can repair it. Your first design hid the problem until the whole system failed at once."
+
+Percy wanted to argue, but he couldn't. Nerit lent him a small tool for tightening the seam. They repaired it together. Percy tested it again, this time making sure the fish could escape before increasing the pressure.
+
+The model passed.
+
+His instructor signed the assignment and asked Percy to write a reflection explaining which parts he'd changed and why. Percy had expected to be graded on power. He ended up being graded on whether he could explain his mistakes.
+
+That evening he wrote Annabeth a separate page about the experiment.
+
+*I built a perfect palace that trapped all the fish*, he told her. *Nerit built an ugly basket that saved them. Don't get smug. I already know which one you'd have picked.*
+
+He described the seam failure and drew a rough cross-section of the repaired channel. He included the instructor's actual comments, not just his own version of what happened.
+
+Annabeth replied with a full page of notes on drainage and a little drawing of a fish wearing a crown. Underneath she wrote: *You didn't have to stop being good at water. You had to let it do something you hadn't chosen.*
+
+He laughed when he read it.
+
+A few days later Amphitrite called him to a quiet terrace near the academy. She had received the letter he'd written on his first morning of the study block. Percy hadn't expected to hear about it in person, which suddenly made him nervous.
+
+She brought two mugs of warm sea-herb tea. They sat overlooking the palace gardens while a gardener trimmed growth from a stair rail below.
+
+"I liked your letter," she said.
+
+Percy looked down at the mug. "I'm glad."
+
+"You wrote about asking you before making plans."
+
+"Yeah."
+
+"I didn't always do that when you were small."
+
+Percy felt a flash of panic. She was speaking about years he didn't remember. The easiest thing would be to nod as though he could recall the argument she was about to describe.
+
+Instead he waited.
+
+"You were young," Amphitrite continued. "You didn't always have enough words to tell me what you wanted. I thought I knew. Sometimes I did. Sometimes I made your frustration worse because I kept trying to solve it before you could show me."
+
+Percy knew she was telling him her own remembered experience. He could listen without pretending it was his. There was no need to expose the secret of the rewrite to say something true.
+
+"You ask me now," he said.
+
+"More often. Not always."
+
+"Nobody's perfect."
+
+She smiled. "Not even queens."
+
+He told her about the engineering experiment, the fish and the failed seam. She listened carefully, then asked to see the drawing. Percy unfolded it and showed her the little escape channels.
+
+"Did you like the revised version better?" she asked.
+
+"It was less pretty. But it worked."
+
+"Then perhaps it was prettier in the way that mattered."
+
+Percy laughed. "Annabeth said something like that."
+
+"I'm sure she did."
+
+Amphitrite handed back the drawing. She didn't ask for the private letters he'd received from camp. She didn't demand to know exactly why he'd thanked her for asking. She simply offered another mug of tea and wanted to know how his studies were going.
+
+Percy left the terrace carrying a story he had witnessed himself: the afternoon his mother listened to him talk about a failed project and didn't try to make it easier than it had been.
+
+He wrote that one down before the next dispatch, because it was his story now.
+
 Talk of a spring thank-you feast started near the end of the study block, soft as new leaves.
 
 Would Percy come home? Could he travel between school and the late-May Roman visit? Letters flew faster, as if speed could solve it.
