@@ -4,6 +4,22 @@
 **Working source:** `rewrite/chapters-10k-quality-pass` branched from `edit/chapters-001-036-unified` on 2026-10-12.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
+## Latest current-branch continuation (2026-10-13)
+
+**Source:** `audit/four-phase-continuity-2026-10-13` at the [verified GitHub Actions recount](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38507799236), following the merge of the historical 10k branch and the unmerged PR #102 memory fixes.
+
+| Measure | Verified current result |
+|---|---:|
+| Numbered narrative chapters | 193 |
+| Meeting 10,000 actual body words | **140** |
+| Still below 10,000 | **53** |
+| Combined missing body words | **264,551** |
+| Cross-chapter exact 300-word duplicates | **0 across 1,664,234 rolling windows** |
+
+In this continuation, [Chapter 066](../chapters/066-jason-s-letter.md) grew **8,314 → 10,572** body words through a Thalia-centered safety-signal exercise that carries forward the Chapter 065 lesson and the letter's Roman-drill ideas. [Chapter 133](../chapters/133-annabeth-s-birthday.md) grew **8,704 → 10,656** through a birthday-preparation problem with Nico, Clarisse, Silena, Thalia and Annabeth. Both received new character-local handoffs: [066](../continuity/ch066.yaml) and [133](../continuity/ch133.yaml). **These are mechanical length passes plus bounded continuity reviews, not whole-chapter independent literary certification.**
+
+The [expansion queue](handoffs/55-short-chapters-execution-queue.md) preserves the original 55 short chapters as a traceable baseline while tracking the **53** still needing original scenes. Historical numbers lower in this file describe older branches and are **not** the current manuscript state. All other unedited chapters retain their previous status and need full semantic/style checks.
+
 ## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
 
 **22 / 40 chapters** in this range have at least **10,000 body words**, as of the targeted revisions through commit `b278fc6615e9cc4193dc4c36709e08a95fa5ed9b`. **Every chapter 140–160 (21/21)** meets the mechanical minimum, as does **121 (10,632)**. The **18 remaining short chapters are 122–139**, collectively **94,887 words short** of their individual floors. Do not call the full range finished.
