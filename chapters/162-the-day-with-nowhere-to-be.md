@@ -206,63 +206,215 @@ A cicada sawed itself hoarse in the branches above them. Somebody's radio up the
 
 ---
 
-The friction came at three o'clock, the way small frictions do: out of fullness, not emptiness.
+The trouble began at three, when Annabeth unbuckled her satchel.
 
-It started with the notebook. Annabeth sat up on the quilt with sun on her back and reached for the map bag — ballast, she had called it — and pulled out the field book and two pencils, and flipped to the half-finished north-beach inset. The afternoon light was perfect for it: shadows short, waterline crisp, the sandbar scar visible. Her hands wanted the work the way they always wanted it after food and sun, the precise planning itch, the desire to get the true line while the light held.
+It wasn't an unreasonable thing to do. The sun had moved far enough west for the rocks to cast shadows across the north beach, which made the shoreline easier to measure than it had been at noon. Her field book was inside the satchel. So were two pencils and the short length of knotted cord she used when a proper measuring tape would have taken longer to fetch than the work itself.
 
-Percy watched her sharpen one pencil with the pocket knife, neat curls falling onto the quilt. "Mapping?" he said.
+Percy saw the book and sat up on one elbow. Sand had left a red pattern on his forearm.
 
-"Just the waterline. Twenty minutes. The light's right." She was already sighting along the shore, head tipped, eyes narrowed. "You can swim. I'll be here when you get back."
+"I thought we weren't working today."
 
-He sat up, sand sticking to his elbows. "I thought today was no maps."
+"We aren't." She opened to the page with the unfinished north-beach inset. "I'm going to draw for a few minutes."
 
-Annabeth's pencil stopped. "I thought today was no rules."
+"That's working."
 
-"That's not —" He gestured at the notebook, at the pencils, at the whole precise apparatus. "You said you didn't want to yet. In the cove. You said you wanted to just sit."
+"To you, maybe."
 
-"I did sit. We sat. We swam. We ate." Her voice had gone into the register she used on half-repaired walls. "It's been three hours, Percy. I'm allowed to want something else."
+He looked out across the lake. A breeze had put little dark wrinkles on the water. "You said we could have one whole day without anybody needing anything."
 
-"I know. I just —" He ran a hand through his drying hair, and the words came out clumsy, unplanned, the way his true things always came out when he hadn't meant to say them yet. "I just thought today you wanted me. Not the shoreline."
+"Nobody needs this." She held the page up by its corners. "I want it."
 
-The silence that followed had edges.
+That should have been a simple distinction. Annabeth could see it plainly. She liked drawing things accurately; Percy liked lying on the sand after swimming; the beach was large enough for both interests. But Percy pushed himself upright and began gathering the empty peach wrapper and the tin cup as if somebody had announced that their day was over.
 
-Annabeth set the pencil down very carefully, the way you set down something you do not want to break. Her face did the thing it did when she was reading — not a book, not a map, a situation — and what she read in his was not cruelty, which would have been easy, but fear, which was harder: the boy who had said on the dock I don't know how to stay anywhere, watching his girlfriend open a notebook and hearing leaving in the sound of the pages.
+"Where are you going?" she asked.
 
-"That's not fair," she said quietly.
+"Nowhere. Getting our stuff together."
 
-"I know." He looked at the lake instead of at her, jaw working. "Sorry. That came out wrong."
+"I didn't ask you to do that."
 
-"Say it right, then."
+"You don't have to."
 
-He was quiet a second. Then, observant and wry, but without the wry as armor this time: "I had this whole day in my head. Just — water and you. No jobs. Nobody counting. And when you opened the book I felt —" He stopped, started again, which he almost never did. "Like I was boring. Like the day wasn't enough without a task on top of it."
+Annabeth shut the book on her pencil. The pencil slid out, struck the rock, and rolled toward the sand. She caught it with one hand before it disappeared between the stones, which was satisfying, though the satisfaction did not improve her temper.
 
-Annabeth looked at him — fourteen, sun-pink at the temples, trying hard to be easy about a girl with pencils — and felt the sting go out of it, the way a splinter comes out when you stop pressing. He wasn't dismissing her work. He was scared of being insufficient to it. That was a different map entirely, and she knew how to read that one, because she had drawn it herself from the other side: the week she had been afraid that wanting him made her the sort of girl who cost people things.
+"Percy, if you want to go back, say so. Don't make me guess because I picked up a notebook."
 
-"Percy." She put her hand over his on the quilt, sticky and warm. "Listen. Precise planning, coming at you." She waited until he looked at her. "I don't map because the day isn't enough. I map because it is. You know the vellum I gave you? The morning Tyson came? I drew that because I wanted it to not wash out. That's what this is." She tapped the field book. "Not leaving. Keeping. The waterline at three p.m. on the day with nowhere to be. So in winter I can look at it and know exactly where we were."
+He stopped folding the quilt. One corner was still caught under her foot.
 
-He turned his hand over under hers, fingers lacing. "You should put us on it, then. For scale."
+"I don't want to go back."
 
-"I was going to put us on it." Her ears went pink. "Two figures on the quilt. Labeled P and A. With a tiny peach pit between them."
+"Then what do you want?"
 
-He laughed, wet-eyed, the laugh that lived in the ribs. "That's accurate. That's extremely accurate cartography."
+"I wanted this." He gestured at the beach, the blanket, the tiny heap of lunch things. "Without having to turn it into evidence that we did it properly."
 
-"I'm official." She bumped his forehead with hers. "And you're not boring. You're the least boring thing on my map. You're the fixed point. Everything else moves around you."
+She almost laughed. He had managed to make the most Annabeth-shaped accusation imaginable. He was also looking at her with that stubborn expression he wore when something mattered too much to joke about.
 
-"Even the heron?"
+"That's not why I'm drawing," she said.
 
-"Especially the heron." She kissed him then — brief and warm, sun on their faces, lake cold at the edge of hearing: the repair kiss, the one that said heard and kept and same page. When she drew back her eyes were bright. "Stay while I draw? You don't have to watch. Just — be here. Throw things in the water. Fall asleep. Be ballast."
+"I know."
 
-"I can be ballast," he said solemnly. "I'm excellent ballast. Ten minutes per occurrence, retroactive, free for boyfriends who say dumb things."
+"Then please stop telling me what I'm doing."
 
-"Tell Clarisse that. She'll kill you."
+He let go of the quilt. "All right."
 
-"She'll allow it." He lay back down on the quilt with his head near her knee, close enough that she could reach him without looking, and she opened the notebook, and the afternoon went on the way good afternoons do when they have been mended: her pencil moving in short sure strokes, his breathing slowing beside her, the sun moving a fraction, the lake keeping everything.
+Silence followed. It was less comfortable than the silence they had shared at noon. Annabeth smoothed the bent corner of her page. Percy took the cup down to the water to rinse it, then checked himself and came back with it still dry because they were packing food scraps to carry uphill. He set it beside the satchel without looking at her.
 
-After twenty minutes she capped the pencil, shouldered nothing, and lay down beside him with the book closed on her chest. "Done," she said. "Waterline, sandbar, two figures, peach pit. Fixed point."
+She could have put the book away to end the argument. For a moment she considered it. But she disliked the thought of putting it away because he was angry, and disliked even more the possibility that he might think the concession proved she hadn't really wanted to draw. She also knew she had told him this morning she could leave the map at home. Instead she had brought it in the bottom of her bag and hoped the promise would somehow survive the contradiction.
 
-He put his arm around her without opening his eyes. "Ten out of ten. Would float again."
+"I did say I wasn't bringing the map," she admitted.
 
-"Official rating," she said, writing it in the margin from memory, and he laughed with his eyes still closed, and the friction went out with the tide of it, resolved, kept, filed.
+Percy glanced at the satchel. "You said you weren't bringing a schedule."
+
+"I said both."
+
+"You did."
+
+"And I brought it anyway." She pressed her thumb over the pencil's blunt point. "I should have told you when I changed my mind."
+
+"I should've said I was disappointed instead of acting like you'd scheduled me out of my own afternoon."
+
+"Yes," she said. "You should have."
+
+He looked at her properly then, surprised that she wasn't going to rescue him from the sentence. It made her feel mean for about two seconds. Then he gave a small, reluctant smile.
+
+"Fair."
+
+Annabeth took the knotted cord out of the bag. She had been using it to compare distances between boulders when the beach was empty. At home, if she'd called this work, Thalia would have wanted to know whether she had eaten first and why a day off required equipment. Thalia was not entirely wrong. She was simply incapable of being right quietly.
+
+"You don't have to help," Annabeth told Percy. "I can do it myself. I wanted you here, not assigned to me."
+
+He rolled the cup between his palms. "I thought we were going to be together the whole afternoon."
+
+"We are together."
+
+"You're looking at a shoreline."
+
+"I can look at two things in one afternoon."
+
+"That's a lot of faith in your eyesight."
+
+She refused to reward him with a laugh. He was smiling more openly now, though. That counted for something.
+
+"Go swim, Percy. I'll be twenty minutes."
+
+He sat there a beat too long, then rose and wandered toward the shallows without taking his shirt off. At the water's edge he crouched to pick up a stick that had drifted in and began tracing shapes through the wet sand. Annabeth watched him for a moment. His shoulders were tight. Neither of them was having the afternoon they'd planned.
+
+She got to work.
+
+The beach had changed since she'd last surveyed it. She knew that much before she'd put down a single point. The water was several finger-widths farther up the sand than it had been on their arrival, despite the absence of any meaningful tide on a freshwater lake. Wind was pushing a narrow chop into the cove. If she traced the wet edge as a permanent boundary, her map would be wrong by tomorrow.
+
+She measured twice, using the shadow of the same flat rock as a reference, then wrote WINDWARD WATERLINE, TEMPORARY in the margin. Under that she added the time, because she'd forgotten to do so on the last page. She moved uphill to find a second reference point and nearly stepped on the peach pit she'd left beside the quilt. The pit was small, absurdly neat, and as far from official cartography as a thing could be.
+
+It was also exactly where they'd eaten lunch.
+
+Annabeth drew a small circle around its position.
+
+Percy was still at the water when she finished her first line. The stick had become a miniature breakwater. He had made a barrier of wet sand and was watching the next run of lake water cut its own channel through the middle.
+
+"Your engineering is upsetting the environment," she called.
+
+"That's why I built a spillway."
+
+"You built a dam with a hole in it."
+
+"Controlled failure. Very advanced."
+
+She went down to see. The water had carved a shallow trough beside the little wall, carrying most of the sand away from one end while leaving the center intact. His experiment would be gone in ten minutes. He seemed perfectly content with that.
+
+"Look," he said, pointing with the stick. "The waves don't come in straight. They bend around that rock first."
+
+She followed his line of sight. The shadowed current made the water deepen abruptly on one side. From where she'd been sitting she couldn't have seen it. She made a quick mark on her page, then stopped herself.
+
+"What?" Percy asked.
+
+"I was about to tell you to stand still so I could measure the angle."
+
+"Was I about to be assigned a job?"
+
+"Probably."
+
+He looked pleased to have caught her at it. She shut the book.
+
+"I'd like to measure the angle," she said. "You don't have to help me."
+
+Percy tilted his head, considering. Then he put the stick down carefully above the waterline.
+
+"I'll hold the cord if it saves you from falling in. Not because you look like you need a supervisor."
+
+"Good. I don't."
+
+"I've noticed."
+
+He held one end against the rock while she stretched the cord along the bank. The line was short by two knots. Annabeth had to move her own end and start again. Percy waited without commentary until she asked him to shift his hand, then did so.
+
+On the second try the wind caught the loose sheet in her notebook. He caught it against his knee.
+
+"You're doing a terrible job of not helping," she said.
+
+"Maybe I like you."
+
+"That's going in the margin."
+
+"No, it isn't."
+
+She wrote it there anyway, too small for anyone else to read, then returned the book to the bag. She had enough measurements to make the inset honest. More could wait. It wasn't a completed map, but for once she wasn't irritated by an unfinished page.
+
+They walked back to the quilt. Percy brushed sand off one corner and sat down, leaving room for her. Annabeth stayed on her feet long enough to collect the peach wrapper and the cup. When she sat, he offered her the last of the cold tea.
+
+"I wasn't actually bored," he said.
+
+"I know that now."
+
+"No, I mean I wasn't worried about the drawing. Not really." He turned the cup in his hands. "Tyson left yesterday. The cabin feels different. This morning I thought we could spend a day doing nothing, and if I got it exactly right I wouldn't have to think about him being gone."
+
+Annabeth put her book aside. She'd known the farewell hurt. She hadn't realized he'd made their empty afternoon responsible for relieving it.
+
+"That's a lot to ask of a beach."
+
+"Apparently I've been making unreasonable demands of the geography."
+
+"You have." She touched his wrist. "I miss him too."
+
+"He always knew when somebody was leaving. He'd start packing three days early so he could spend the last day not packing. I thought he was being strange." Percy looked toward the place where his little dam had already vanished. "Turns out I was doing the same thing. Just with fewer shirts."
+
+Annabeth considered the map. Her own plans were often attempts to make a difficult day behave. She could admit that without giving up her right to enjoy making them.
+
+"You can tell me you want my attention," she said. "Even when I'm doing something else. I'd rather you said that than told me my work doesn't count as having a day off."
+
+"I can try."
+
+"And I can tell you before I bring work on a date."
+
+"Was this a date?"
+
+"It had lunch, swimming, and a boy who argued with my stationery. What else would you call it?"
+
+"A very expensive stationery intervention."
+
+She laughed, finally. He leaned back against the quilt, and after a little while she settled beside him. They didn't need to solve the question of what a day off was. Tomorrow she'd want a map again. He might want an afternoon with no plans again. Both could be true.
+
+She opened the book once more, this time to the blank corner beneath her measurements. Percy made a protesting noise, but he was smiling. She drew two very small figures on a blanket beside a circle marked PEACH PIT, then added a crooked line in the lake for his collapsed sand wall.
+
+"That looks nothing like my dam."
+
+"It no longer exists. This is the best evidence available."
+
+"Put 'controlled failure' under it."
+
+She did. Beside it she drew a second line, the actual shoreline with the temporary wind mark clearly distinguished. It pleased her to leave the difference visible. When she closed the book, she placed it beneath the folded edge of the quilt so the breeze couldn't take it.
+
+Percy lay down with one arm under his head. She stayed sitting a little longer, watching the shadow of the flat rock reach the first knot's distance from the water. At last he opened one eye.
+
+"Are you coming down here or taking attendance?"
+
+"I'm deciding whether you qualify as ballast."
+
+"I've had excellent reviews."
+
+She stretched out beside him, and he put an arm around her shoulders. For several minutes they listened to the water, which refused to keep a straight boundary for anybody. Annabeth thought about telling him that she loved the new measurement and the imperfect day and him in three entirely different ways. Instead she took his hand and gave it a squeeze. He squeezed back.
+
+The small argument hadn't disappeared. It had left them with a better way to ask for what they wanted, and a book with a corrected line in it. That seemed enough for an afternoon.
+
+Percy's breathing slowed. The sun slid a little lower. By the time Annabeth lifted her head to check on him, he was asleep, his fingers still loosely folded around hers. She kept the quilt over his shoulder and let the unfinished afternoon continue.
 
 ---
 

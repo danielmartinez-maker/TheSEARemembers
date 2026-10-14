@@ -1,6 +1,5 @@
 ## Chapter 38: Brothers and Sisters
 
-### Percy
 
 Percy knew something was happening the second he walked into the dining pavilion and saw Chiron smiling like he'd planned something.
 
@@ -102,7 +101,120 @@ She dragged him toward the lake, laughing, and Percy, still learning how to live
 
 ---
 
-### Clarisse
+
+Nico was supposed to be having the best day of his life.
+
+Bianca had agreed to spend Siblings Day with him. That part alone ought to have been enough. They had been separated from so many people and so much time that simply being able to find his sister at breakfast still sometimes felt impossible.
+
+Unfortunately, Bianca had made a schedule.
+
+"We do the lake games for half an hour," she said, holding a folded paper. "Then the sparring tournament. After lunch we can walk through the craft stalls."
+
+"What about Mythomagic?"
+
+"We can play when we're back at the cabin."
+
+"The tournament starts at eleven."
+
+Bianca looked at her list. "The sparring tournament starts at ten."
+
+"Exactly. We have to choose."
+
+They stood on the path near the arena with campers streaming past them, most carrying something for the day. A younger girl from Apollo had matching ribbons in her hair with her older brother. Two Hermes boys were already arguing about whether a borrowed shield counted as a present if its owner still wanted it back.
+
+Nico looked at Bianca. He'd been looking forward to playing Mythomagic together ever since Chiron posted the Siblings Day notice. Bianca had been practicing archery and wanted them to enter Clarisse's tournament. They had talked about both plans at different times and somehow failed to notice that they were incompatible.
+
+"We could split up," Nico suggested.
+
+"Then it wouldn't be Siblings Day."
+
+"Chiron said it was for being with family. He didn't say we had to do every activity together."
+
+Bianca folded the paper more tightly. "I thought we were going to spend the day together."
+
+"We are. Just not every minute."
+
+She looked hurt. He hadn't meant to hurt her. He remembered years when the two of them had known no one they trusted except each other. A day apart would have seemed impossible then, not because they wanted to be inseparable but because neither knew whether the other would be waiting when they returned.
+
+"Why is it so important to go to the tournament?" she asked.
+
+"Because I want you to see how good I am. I've practiced the deck for weeks."
+
+Bianca looked at him for a moment. Then she asked, "Could I come watch your match?"
+
+"Yes. But your sparring will be happening."
+
+"I know."
+
+He felt suddenly guilty. "You want me to watch you too."
+
+"I wanted you on my team."
+
+That was different. Nico had imagined them attending two events as spectators and cheering for each other. Bianca had imagined fighting side by side. She'd been training for this version of Siblings Day just as carefully as he'd been building his deck.
+
+They went to the arena fence. Clarisse was marking names on a board and looked up when they approached.
+
+"What's the problem?"
+
+"Both of us want to do different things," Nico said.
+
+Clarisse raised an eyebrow. "That is not a problem I can solve by moving the schedule. You can enter or not."
+
+Bianca asked if they could take part in an early exhibition and then leave for the Mythomagic game. Clarisse examined the bracket. The official tournament already had enough pairs, but the warm-up period was open to people who wanted to practice together.
+
+"Fine," she said. "You'll get one demonstration round, no score. You won't be in the main bracket."
+
+Bianca considered the offer. She had wanted the score. Nico could tell from her expression. But she looked at him and nodded.
+
+"That's enough for me," she said.
+
+They joined the warm-up group. Bianca showed Nico how to hold the practice shield at an angle and keep his feet apart when he moved. He was smaller and less experienced than most campers in the arena. She didn't pretend otherwise. Instead she taught him one technique they could use together: she would protect the outside of their formation while he kept the center covered.
+
+When the padded attack came, he moved too early. Bianca shifted to compensate and nearly lost her balance. They both laughed, reset and tried again. The second time they managed three steps before the instructor called them out of formation.
+
+"Not bad," Clarisse said.
+
+Bianca smiled. "It could be better."
+
+"That's why we practice."
+
+When they finished, Nico offered her his water bottle. She took it, then glanced toward the pavilion where the Mythomagic tables were being set up.
+
+"Go," she said. "I want to see how this deck works."
+
+"You don't have to."
+
+"I know. I want to."
+
+At the game table, Bianca sat behind him without offering advice every thirty seconds. Nico had begged her not to. He won his first match and turned around so quickly he nearly knocked his cards off the table.
+
+"Did you see?"
+
+"I did."
+
+"The card I saved until the last turn. I told you it would work."
+
+"You did. And I was wrong about it."
+
+That delighted him almost as much as the victory.
+
+They ate lunch together beneath the shade of a tree near the pavilion, trading sandwiches and arguing about whether the shield formation had failed because Nico moved early or because Bianca assumed he'd understand a signal she hadn't explained. Neither pretended to have won every part of the morning.
+
+After lunch, Bianca suggested they visit the craft stalls. Nico agreed. They had time for both of them now.
+
+On the way, they passed Percy trying to carry an enormous basket of plates while Triton held an entire platter of bread above his head like a ceremonial offering.
+
+"Having a good day?" Percy called.
+
+"Yes," Nico said. "We did two different things and it worked."
+
+Percy looked at Bianca, who was smiling.
+
+"That sounds like siblings," he said.
+
+Nico thought so too. The day hadn't gone according to either schedule. His sister had still been there when he turned around after his match, and he'd still been there when she wanted to tell him what she'd learned in the arena. That was what he had wanted all along.
+
+---
 
 Clarisse La Rue did not do sentimental.
 
@@ -224,7 +336,6 @@ Maybe — *maybe* — sentimental wasn't the worst thing.
 
 ---
 
-### Silena
 
 Silena Beauregard had three great loves in life: her siblings in Cabin Three, beautiful things, and food.
 
@@ -238,15 +349,15 @@ The theme, drawn from a helmet by little Pollux, was: *Home.*
 
 "I'm only here because Chiron promised me it wasn't poison," Mr. D said, not looking up from his newspaper.
 
-"— and our guest of honor, Triton of Atlantis!" Silena finished with a flourish.
+"— and Pollux from Cabin Twelve!" Silena finished with a flourish.
 
-Triton bowed from his seat at the judges' table, which creaked ominously under him.
+Pollux waved from the judges' table. Triton, who had refused to judge a contest he was competing in, bowed solemnly from Team Sea's bench.
 
 "The teams!" Silena said. "Team Surface: led by me, with Annabeth Grace, Clarisse La Rue, and Connor Stoll, who I grabbed because he was stealing tasting spoons!"
 
 Connor waved a spoon guiltily. "Quality control."
 
-"Team Sea: led by Percy Jackson, with Triton — yes, he's judging *and* competing, we allowed it because he's a prince and pouted — and Thalia Grace as honorary sea sibling for the day!"
+"Team Sea: led by Percy Jackson, with Triton — who insisted he should be allowed to cook, then graciously gave up judging — and Thalia Grace as honorary sea sibling for the day!"
 
 Thalia, wearing an apron that said KISS THE COOK OR PERISH over her leather jacket, raised a fist. "I burn water. This will be great."
 
@@ -324,7 +435,126 @@ Beautiful things didn't have to be perfect. They just had to be shared.
 
 ---
 
-### Thalia
+
+After the judging, Silena went behind the pavilion to find the large washing basins. Two of them were full of dirty bowls, and somebody had left a wooden spoon on the ground beside the trash bin.
+
+She had organized an event for half the camp. The day had been loud, funny and, by most accounts, a success. But she had also persuaded the kitchen staff to lend her equipment, and now the counters were covered in the consequences.
+
+"Everybody who cooked gets a basin," she announced.
+
+Connor Stoll appeared from the shade with the expression of a boy who had just been caught trying to escape.
+
+"I wasn't in charge of the cooking."
+
+"You helped on Team Surface."
+
+"I washed vegetables."
+
+"Then you'll be familiar with the sinks."
+
+He sighed and took a basin.
+
+Triton arrived behind him carrying the serving platter from Team Sea. He placed it beside the others and looked at the soap as though unsure whether it was an item of food or a tool.
+
+"You're not expected to do this yourself," Silena told him.
+
+"Why not?"
+
+"You were a guest. You spent the day helping the teams. We can clean up."
+
+Triton looked at the room. "I helped make a mess. Surely that qualifies me to help remove it."
+
+Silena smiled reluctantly. "All right. The water should be warm, not boiling. And no divine currents in the sinks. Chiron specifically warned us about the pipes."
+
+Triton accepted the cloth and began washing the platter with the care he normally reserved for royal armor. It was absurd to see him bent over a mortal sink while a Hermes child dried spoons beside him. Silena noticed, though, that he was listening carefully when Connor explained which surfaces scratched easily.
+
+Percy joined them with a second stack of plates. His hair was still damp from the lake, and there was a stripe of flour on his elbow.
+
+"Do we get points for cleanup?" he asked.
+
+"No," Silena said. "You get the satisfaction of not leaving somebody else to do it."
+
+"That seems like an unpopular scoring system."
+
+"It's the only one I offer."
+
+Clarisse appeared carrying the last tray. She had lost a bet about which team would win presentation, and she was still arguing that the judges had been biased in favor of plates with mint leaves on them.
+
+"Mint isn't food," she complained.
+
+"Mint is absolutely food," Silena replied.
+
+"It's a decoration pretending to be food."
+
+"Then stop eating it."
+
+Triton washed in silence until the argument slowed. He had been observing the siblings all day: the way Clarisse challenged Percy, the way Silena gave instructions without raising her voice, the way Percy complained but still picked up the next task. In Atlantis, a prince might be expected to direct such work. Here Percy followed his sisters' directions because he knew they had been doing the work long before he arrived.
+
+"I have something to ask," Triton said.
+
+Silena looked up. "What?"
+
+"Does our father ever ask how you manage the cabin?"
+
+Clarisse stopped drying the tray. Percy looked toward the door.
+
+"He asks about us," Silena said carefully. "He sends things. He isn't here every week to see how the chores work."
+
+Triton examined the cloth in his hand. "In Atlantis, the palace staff report to me. I thought I understood how much effort it takes to keep a household running. I don't think I understood that your cabin has no permanent attendants."
+
+"We have each other," Clarisse said.
+
+"That's not a replacement for help."
+
+"No," Silena agreed. "But it means we know which jobs need doing. If you want to help, ask rather than assuming you've found the solution."
+
+Triton bowed his head slightly. It was the closest thing to a formal apology he could offer while holding a soapy plate.
+
+"Then I ask. What can I do while I'm here that would actually make your day easier?"
+
+Clarisse handed him the last large pot. "This. It's too heavy for the small sink. Take it outside to the wash station, empty it and bring it back. Don't drop it. I like that pot."
+
+Triton accepted it with the seriousness of someone receiving a military assignment.
+
+"Understood."
+
+Percy followed him outside to hold the door. Clarisse watched them go, then glanced at Silena.
+
+"Did you just make an Atlantean prince do dishes?"
+
+"He volunteered."
+
+"You could have asked him to pay for a new stove."
+
+"We don't need a new stove."
+
+"We might."
+
+Silena laughed and returned to the spoons. There was a point she had been trying to make without turning the conversation into another speech about family. Her father could be generous, her royal brother could be kind, and neither had to become the authority over every corner of the life she and Clarisse had made for themselves.
+
+When Triton returned with the pot, he asked whether the scrubbed surface was acceptable. Clarisse inspected it critically.
+
+"There's a bit of bread in the handle."
+
+Triton looked offended. "Impossible."
+
+She pointed. He examined the spot, then began washing again.
+
+Silena put the finished spoons away. Connor had vanished as soon as his basin was empty, but he had done the task properly. Percy stacked the last dishes. The kitchens were still warm and smelled faintly of honey and fish, and everyone was beginning to tire.
+
+"Are we finished?" Percy asked.
+
+"Almost," Silena replied. "We should make sure the staff have everything they lent us."
+
+Triton looked over the counters. "A remarkable amount of work for one afternoon."
+
+"That's what feeding people involves," Silena said. "The fun part isn't separate from the labor. It's worth doing, but it still has to be done."
+
+He nodded. For once he didn't make a royal pronouncement about the importance of family. He took the drying cloth and finished the last pot.
+
+Later, when Silena looked back on Siblings Day, she remembered the competition and the laughter. She also remembered an ancient prince standing at a sink, listening while a thirteen-year-old girl told him where he'd missed a spot. It was one of the few moments when nobody seemed to be performing the role of a perfect sibling. They were just helping each other finish a job.
+
+---
 
 Thalia Grace had been the eldest sibling for as long as she could remember.
 
@@ -432,7 +662,6 @@ Maybe sometimes it just meant making sure everyone had a seat by the fire.
 
 ---
 
-### Annabeth
 
 Annabeth Grace liked schedules. She liked plans, and lists, and knowing what came next.
 
@@ -492,7 +721,146 @@ Tonight was for family.
 
 ---
 
-### Triton
+
+Annabeth had been home for twenty minutes when she noticed the extra plate of strawberry shortcake.
+
+She had set it on the desk before dinner because Thalia said somebody might want it later. The cream was beginning to melt, and the strawberries had settled into a soggy heap. Annabeth looked at it and thought of Jason.
+
+Her brother had never attended one of these camp celebrations. He was at Camp Jupiter, where they had rules and holidays of their own. She knew that because he'd explained some of them during the Iris-message and because Chiron had been helping the sisters find an acceptable route for letters. But she'd spent the whole day surrounded by brothers and sisters who could reach across a table and steal each other's food, and she felt guilty for not having thought of him until the dishes were finished.
+
+Thalia came in with a towel around her wet hair. She looked at the shortcake.
+
+"Is that for me?"
+
+"Not anymore. It's become a geological formation."
+
+"Then why are you staring at it?"
+
+"I was thinking about Jason."
+
+Thalia put the towel over the back of a chair. She had been laughing when she entered. The laughter didn't disappear exactly, but it became something more cautious.
+
+"What about him?"
+
+"Did he have Siblings Day?"
+
+"I don't know."
+
+"Do Romans have one?"
+
+"Probably not this one."
+
+Annabeth looked at the desk. "We should have sent him something."
+
+"We sent him a letter. It's still going through the intermediary."
+
+"I know. I mean today."
+
+Thalia sat beside her. "What would you send? We can't just drop a package through the wards. We don't know whether Camp Jupiter would let it through."
+
+Annabeth recognized the correction. They had made it repeatedly since they began corresponding with Jason, and she didn't resent Thalia for making it now. She resented the distance that required them to keep making it.
+
+"Then we could write about today," she said. "Not promise him something. Just tell him what we did."
+
+Thalia looked uncertain. "Wouldn't that make him feel like he missed it?"
+
+"He did miss it."
+
+"Annabeth."
+
+"No, I mean we can't fix that by pretending it didn't happen. He has days in Rome we don't get to be part of. I'd rather hear about them than have him protect my feelings by telling me nothing."
+
+Thalia considered. She had spent years imagining Jason as the small boy taken from their household, carrying a spoon like a sword. The boy they'd spoken with during the Iris-message had been older, serious and plainly proud of his Roman training. She'd wanted him to be glad to have sisters again, but she had not always remembered to ask whether he wanted the same kind of closeness she did.
+
+"All right," she said. "What should we tell him?"
+
+Annabeth took a sheet of paper from the drawer. Their last letter to Jason was still awaiting confirmation of delivery. It would be foolish to send another one before they knew the channel worked, but she could write something now and keep it until they had an answer.
+
+She began with the date. Then she described Chiron's announcement, Nico and Bianca trying to do two different activities, the sparring tournament and the cooking contest. Thalia added a paragraph about Triton learning what a high-five was, because Jason would find that hilarious if he shared her opinion of ancient sea princes.
+
+Annabeth paused over the sentence about the obstacle course. She'd enjoyed the lake games enormously, but telling Jason that Percy had made a floating path and she had nearly fallen off it felt like describing an adventure he ought to have been invited to.
+
+"Write it," Thalia said.
+
+"You read my mind."
+
+"Not difficult. You look annoyed at the paper whenever you want to leave something out."
+
+Annabeth wrote the sentence. It was true. She didn't need every truthful sentence to be proof they were happy without him.
+
+When they came to the end, she asked Thalia whether they could invite Jason to tell them about a day at Camp Jupiter.
+
+"He may not want to," Thalia said.
+
+"Then he can say no."
+
+The older girl considered, then nodded. Annabeth wrote the question.
+
+They had almost finished when Thalia stopped her.
+
+"Don't sign it as if we know when we'll see him," she said. "We haven't got permission for a visit."
+
+"I know. I wasn't going to."
+
+Thalia looked embarrassed. She had been worried enough about giving Jason false hope that she'd begun correcting things Annabeth wasn't doing.
+
+"Sorry," she said.
+
+"It's okay. I was thinking about it too."
+
+They folded the letter and put it beside the earlier correspondence receipt. They would ask Chiron whether another packet could be submitted after the first one was acknowledged. They would not announce that the letter was on its way until they knew it had actually left camp.
+
+Thalia looked at the small heap of shortcake.
+
+"I wish he were here," she said.
+
+Annabeth nodded. "Me too."
+
+"I used to think if I could see him again, everything about losing him would finally make sense. Then we had the Iris-message, and I was so happy I almost couldn't talk. But afterward I missed him worse."
+
+Annabeth looked at her sister. "Because now you know there's someone to miss."
+
+"Yes."
+
+They sat in silence. The cabin was quiet enough to hear a late group leaving the pavilion, still singing the ridiculous song Grover had taught them at the story circle.
+
+"Could we take a photograph tomorrow?" Annabeth asked. "With the haircuts?"
+
+"For Jason?"
+
+"Yes. And one of Percy and his sisters. We can keep the second one for him if he wants to know what they're like. He likes asking about the people here."
+
+Thalia smiled. "He would. He used to ask why everybody had different shoes."
+
+"That's a reasonable question."
+
+"You're both impossible."
+
+Annabeth went to find Silena before she forgot the plan. Silena agreed to lend her camera in the morning, provided they returned it before the afternoon craft session and didn't make the entire event a public announcement. Thalia appreciated the condition.
+
+Back in the cabin, Annabeth put the paper in the drawer and ate the last strawberry from the plate. Thalia took the biscuit, which had gone soft, and claimed it was better that way.
+
+They had spent Siblings Day with people they could touch, and they'd made room for a brother they couldn't visit yet. Neither part canceled the other.
+
+When the lamps were turned down, Thalia asked whether Annabeth had enjoyed the day.
+
+"Yes," she said. "I did."
+
+"Good."
+
+"And I want to tell Jason about it."
+
+Thalia smiled in the dark. "Then we will, when we can get the letter to him."
+
+Annabeth closed her eyes. She didn't know when the message would travel or what Jason would say when he read it. For once, she had written something to him without pretending that the distance between them was temporary or easy.
+
+Thalia remained awake a little longer. She was thinking of Jason sitting at a different table beneath different banners, surrounded by children whose names she didn't know. He might have brothers and sisters there in a sense she couldn't understand from the outside. He might have friends who knew the sound of his laugh better than she did. She wanted to know them too, even if that meant learning that part of his life had continued without her.
+
+She reached for the photograph on the nightstand, the one where Jason stood with a spoon in his hand and a look of fierce concentration. Then she put it back. The boy who answered their Iris-message was older than that now. When they wrote him, she wanted to ask what he liked doing this year, rather than spend the whole letter telling him about what he'd been at two.
+
+Across the cabin, Annabeth slept with one hand beneath her pillow and her hair cut shorter than it had been that morning. Thalia was struck by the similarity. She had needed to learn the present versions of both her siblings without asking either to stay the child she remembered.
+
+---
 
 Triton, heir of Atlantis, commander of the Pelagic Guard, eldest son of Poseidon, had attended councils that decided the fate of oceans.
 
@@ -575,8 +943,3 @@ Triton laughed, loud and bright, and threw his head back so the sound rolled acr
 "She would."
 
 They ran, two sons of Poseidon, one ancient and one twelve, racing the moonlight back home — surrounded on all sides by family and friends.
-
-*End.*
-
----
-

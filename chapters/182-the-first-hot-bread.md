@@ -496,7 +496,38 @@ He came in. The cabin smelled of the day all over again, the whole of it at once
 
 Clarisse looked up from the end of the table. "Shut the door. It's October."
 
-He shut the door. The tenth lamp burned on its hook outside the glass, and the flour came up off his sleeve when he brushed it, into the lamplight, in one small pale cloud that went up and up and did not settle, and somewhere behind him his sister turned a page, and outside the whole camp lay down for the night with eleven kids and a shop and a pavilion full of people having eaten the same loaf, which is the oldest arrangement there is, and which the hill held in the dark the way the lake held everything, without comment, for as long as anybody needed it.
+He shut the door and brought the last pan in from the porch. On the shelf, under a square of clean cloth, Silena had left one salted round with a note beside it: FOR THE SACK.
+
+"That's not for you," she said, catching him looking.
+
+"I was admiring your handwriting."
+
+"Then admire it from farther away."
+
+Clarisse moved the winter list aside and held out a clean paper bag. The bread had cooled just enough to be packed without turning the bag damp. Percy lifted it with the cloth, careful not to crush the crust, while Silena found string for the top.
+
+"Who gets it?" he asked.
+
+"Whoever is taking the letters down," Silena said. "They'll be out before any of us get breakfast."
+
+"Except you."
+
+"I'll be out making breakfast."
+
+Percy tied the string and put the parcel beside the outgoing mail instead of carrying it to his bunk. It was such a small addition to the morning's delivery that he might have forgotten it if she hadn't labeled the shelf.
+
+Clarisse put the list away. "Did the front step dry?"
+
+"Mostly."
+
+"Mostly isn't dry."
+
+"I'll scrape it first thing."
+
+"Good. We don't need a mail runner slipping before they reach the road."
+
+Silena wiped the counter, then threw the cloth into the washbasket with the satisfaction of a person who had finally reached the end of her work. Percy carried the bag to the hook where the runner would find it. He checked the string once more before turning down the lamp.
+
+The morning had started with bread for the cabin. It would end with a piece of it going down the road for somebody who had a cold shift ahead. That seemed like the right reason to leave one loaf uneaten.
 
 ---
-

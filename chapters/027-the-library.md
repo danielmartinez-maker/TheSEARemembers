@@ -128,9 +128,9 @@ Annabeth smiled and kept working. The next box was all Polaroids, the colors gon
 
 "What? What?" Percy abandoned his crate and came running, trailing dust.
 
-It was a series of three photos. Thalia, maybe five or six, wearing nothing but a towel cape tied around her neck and rain boots, brandishing a stick at an off-camera enemy. In the second, the towel cape had slipped, and she was tangled in it, furious. In the third, baby Annabeth in just a diaper was copying her, wearing a washcloth cape and rain boots, both of them shrieking with laughter.
+It was a series of three old camp photos. Thalia looked about twelve, wearing a towel cape over her training clothes and holding a wooden sword at an off-camera enemy. In the second, the cape had slipped and she'd become tangled in it. In the third, Annabeth, about eight, was copying her with a washcloth tied at her shoulders while nine-year-old Clarisse pretended to fall backward from the attack. All three of them were laughing.
 
-On the back, in a different hand — young and loopy — *Super Thalia and Super Annabeth save Olympus (bath time).*
+On the back, in Chiron's rounded handwriting: *Super Thalia and Super Annabeth save Olympus. Rain-day costume contest. Cabin prizes.*
 
 Percy lost it. He laughed so hard he had to sit down on a crate. "Super Thalia! Oh man, she can never live this down."
 
@@ -164,7 +164,7 @@ Annabeth hesitated, then slid over the Super Thalia photos.
 
 Silena stared for one second. Then she made a sound like a teakettle boiling over. "No. No way. Is that—"
 
-"Thalia, age six, Bath Time Avenger," Percy announced.
+"Thalia, age twelve, Terror of Laundry Day," Percy announced.
 
 "We're dead," Annabeth said. "When she finds out we saw these, we're dead."
 
@@ -200,7 +200,7 @@ Then her ears turned bright red. All the way to the tips.
 
 "You do?" Annabeth asked quietly.
 
-"Yeah." Thalia's thumb brushed the edge of the photo. "Mom was... not good that summer. She'd left us with Chiron for a week while she went off with some guy. I was mad at the whole world. And you—" She nodded at toddler Annabeth. "You cried for two days straight. Wouldn't eat. Then Clarisse stole your cookie, and you took her wooden sword and bonked her on the head with it, and we all laughed so hard we couldn't breathe. Chiron took this right after. Said Annabeth and I looked like sisters and Clarisse looked like trouble."
+"Yeah." Thalia's thumb brushed the edge of the photo. "It rained for three days straight that summer. Mom had sent another letter she couldn't follow through on, and I was mad at everybody. You were eight. You wanted a costume contest because the games were canceled." She glanced at Clarisse in the picture. "Clarisse tried to steal your prize cookie, so you took her wooden sword and pretended to arrest her. Chiron took this right after. He said Annabeth and I looked like a patrol team and Clarisse looked like trouble."
 
 Annabeth swallowed. "Even then?"
 
@@ -222,7 +222,7 @@ Thalia shrugged, but her red ears gave her away. "I tried. Someone had to keep t
 
 "I will end you," Thalia said without heat, but she was smiling now, tucking the porch photo into her jacket pocket. "I'm keeping this one. For the record. And the cape ones go—"
 
-"Into the archive, properly labeled," Annabeth said firmly. "Thalia, Grace, age six, playing superhero with sister. With a note that says you were very brave and your cape was very red."
+"Into the archive, properly labeled," Annabeth said firmly. "Grace sisters, ages twelve and eight, plus Clarisse, age nine. Rainy-day costume contest. And a note that says you were very brave and your cape was very red."
 
 Thalia stared at her, then laughed — a real, startled laugh. "Fine. But if any copies show up on the dining pavilion wall, I'm blaming Percy."
 
@@ -232,7 +232,91 @@ Thalia stared at her, then laughed — a real, startled laugh. "Fine. But if any
 
 Grover snorted in his sleep, startling himself awake. "Wha—? I'm awake! I was sorting! I sorted... in my dreams." He sat up, blanket sliding off, scroll stuck to his cheek. "Did someone say tea?"
 
-Everyone laughed, and Silena handed him a mug. The rain pattered on. The lamp glowed. Ella carefully wrote on a fresh index card in neat pencil: *Box 7 — Thalia & Annabeth & Clarisse, little. Loved.*
+Everyone laughed, and Silena handed him a mug. The rain pattered on. The lamp glowed. Ella carefully wrote on a fresh index card in neat pencil: *Box 7 — Thalia, Annabeth and Clarisse, rainy-day game, Chiron's photo.*
+
+---
+
+By late morning, Annabeth had stopped counting shelves and started counting mistakes.
+
+The first was her own. She had told everyone to sort by subject, and they had done exactly that. The books about ancient wars had gone together, the maps into another pile, and the family photographs into a third. She'd forgotten that the original placement could tell them something about why the documents had been kept.
+
+Ella discovered the problem when she opened a small wooden box whose lid said *winter supplies*. Inside were four photographs, a list of old medicine stocks and a letter from a camper asking his sister to send him boots.
+
+"These belong together," Ella declared.
+
+Annabeth looked at the mixed contents. "They don't have the same subject."
+
+"Yes," Ella replied. "But they belong to the same person. The letter refers to the photograph, and the stock list is dated the day he left camp."
+
+Annabeth read the notes. Ella was right. Sorting everything into abstract categories would make it easier to find individual objects and harder to understand what had connected them.
+
+She went to get Chiron.
+
+He arrived with a ledger from the upstairs office and listened while she explained the mistake. She expected him to tell her to put everything back. Instead he asked how many containers they had already moved.
+
+"Seven full boxes and two jars."
+
+"Did you record the original location of each?"
+
+"Mostly. The labels were faded on some."
+
+"Then stop moving anything else until you can document what has changed."
+
+Annabeth felt her cheeks warm. The instruction was more serious than a comment about dusty shelves. She'd offered to help preserve the collection and might have made it less useful by cleaning too quickly.
+
+"What should we do first?" she asked.
+
+"Record what you've touched. Then establish a system that preserves both the original groups and the subjects you want people to search."
+
+Ella brightened. "Two sets of references. By source and by subject."
+
+"Exactly," Chiron said.
+
+They put the sorted piles on separate tables. Annabeth assigned each original container a number and wrote down the objects that had been taken from it. Ella checked the description against what she remembered seeing. The system wasn't perfect, because they'd already lost the order of some loose photographs, but it would preserve what they still knew.
+
+Percy returned from the far wall carrying a tin of old maps. He was annoyed to discover his pile could not be added to the new location without a note.
+
+"Didn't we agree to organize?" he asked.
+
+"We did. I missed a step."
+
+"You?"
+
+"Yes, Percy. I make mistakes."
+
+"Good to know."
+
+She gave him the ledger and made him record the tin's original shelf before opening it. He complied, then asked what they were going to do about the old boxes once the documents were cataloged.
+
+"Keep them where they're stable," Ella replied. "The box can be evidence too. Writing on the lid, the marks on the wood, the order of the papers. Those things tell stories."
+
+Grover looked up from his beanbag. "The old socks tell stories too?"
+
+"Not unless someone wrote down why they were there," Annabeth said.
+
+Ella considered. "A sock could have historical value."
+
+"Then let's not make the decision while you are still half asleep," Thalia said from the stairs.
+
+Chiron checked the shelving. One box had been stored too near a heater; he asked them to move it to a dry shelf with better airflow. The old rolling ladder was removed from use until the steward repaired its wheel. No one was to climb stacked crates to reach the high shelves.
+
+The new procedure slowed everything down. Annabeth found herself irritated each time someone stopped to write another note. But after an hour, the labels began to tell a coherent story. They could search by subject without losing the relationship between objects that had arrived together.
+
+Ella took the most damaged photographs to the supervised repair table, where a librarian would check the paper before they tried any cleaning. Annabeth wanted to help restore the colors. She wasn't qualified to do that, so she wrote a condition report instead.
+
+"Can I call this progress?" Percy asked.
+
+"Yes."
+
+"Even though we've sorted fewer boxes than we thought we would?"
+
+"Especially because we know what we're doing now."
+
+Percy glanced at the map tin. He'd wanted to find anything about Atlantis and would have happily pulled the old charts out until he found a tower drawing. He had begun understanding why the order in which people kept things could matter. A map labeled *rumor* was very different evidence from a report written by someone who'd visited the palace.
+
+They went back to work, this time carrying the original box with each document until its place in the catalog had been recorded. Annabeth had imagined a library where everything fit into neat columns. The actual room would take longer and remain full of uncertainties. It was becoming a better archive.
+
+
 
 ---
 
@@ -336,6 +420,114 @@ They bumped fists, dusty gloves and all.
 
 ---
 
+Percy brought the Atlantis journals to Chiron before lunch.
+
+He had been tempted to hide Maya's notebook under his arm and read it back at the Poseidon cabin, where he could sit by the window and follow the routes with his finger until he recognized a place he'd seen from the palace. But Ella had told him the journals belonged to the collection, and Chiron had approved their study only within the library.
+
+He found the centaur upstairs with a stack of maintenance forms.
+
+"Did you find what you were looking for?" Chiron asked.
+
+"Not exactly. I found people looking for the same thing."
+
+He spread the notes across the reading desk. Samuel Whitaker's journal had a rough drawing of a city beneath the water, Maya's notebook had another version and the old map showed a blank circle where a port might be. The drawings were similar enough to be interesting. They did not agree about distance or direction.
+
+Chiron looked at each in turn.
+
+"What do you think they establish?"
+
+"That people knew about Atlantis."
+
+"Perhaps. What evidence shows these writers actually visited it?"
+
+Percy opened Samuel's journal to the page about the sailor who had told him the story. The entry said the sailor was an old fisherman who had wept while describing bells under the sea. Samuel had recorded the account carefully. He hadn't claimed to see the towers himself.
+
+"That's secondhand," Percy admitted.
+
+"And Maya?"
+
+"She collected stories from Nereids and sailors. She said she was certain Atlantis was real."
+
+"But she didn't describe seeing it?"
+
+"No."
+
+Chiron nodded. "Then both are records of people who believed in the city. They may preserve genuine information. They are not proof that any particular route was safe or even accurate."
+
+Percy looked down at the map. He knew Atlantis was real because he'd visited it, and the royal household treated him as one of its own. The question was whether an old chart could tell him how to reach it from camp without a palace escort.
+
+"I want to learn the route," he said.
+
+"I understand."
+
+"Not to leave without permission. I just want to know how people found it."
+
+"Then you may compare these accounts with a modern navigational chart, but you should not infer coordinates from a story alone. And any travel would require authorization from your family and camp."
+
+Percy sighed. Chiron had a gift for making even the most interesting possibility sound like a school assignment.
+
+"Can I draw a comparison map?"
+
+"Yes. Label every line according to its source. If a position is uncertain, mark it uncertain."
+
+"Annabeth's going to love that."
+
+"She may have useful questions for you."
+
+Percy took the journals back to the library and asked Ella for fresh tracing paper. She gave him three sheets and insisted that he place them over a protective surface rather than over the original map.
+
+He began with the coastline he recognized. Then he drew the disputed current marks in pencil, one pattern from Samuel and another from Maya. Several lines crossed, but they crossed far from the blank circle marked *here? music?*. He'd imagined the two accounts would converge on a secret passage. Instead they contradicted each other.
+
+Annabeth found him staring at the drawing.
+
+"What's the problem?"
+
+"The routes don't agree."
+
+"That could mean one is wrong."
+
+"Or both."
+
+"Or they were describing different things. Different seasons, different weather, different travelers."
+
+He looked at her. She had given him another way to think about the problem without pretending it had been solved.
+
+"How do we tell?"
+
+"We find the original sources. If we can't, we mark the claim as unverified."
+
+Percy frowned. "That's a lot of work for a map I might never use."
+
+Annabeth sat beside him. "You wanted to know how the route worked. Finding out what you don't know is part of that."
+
+He stared at the pencil lines. In his old life he had often trusted an instinct about a place before he could explain it. That ability had saved him more than once. It had also made it easy to assume every unfamiliar current contained a path he could follow if he listened hard enough.
+
+He looked at Maya's handwritten note: *Water remembers even when we forget.*
+
+"Do you think she was right?" he asked.
+
+"About the water?"
+
+"About remembering."
+
+Annabeth considered. "She was making a claim about how it felt to her. We can't test it from that sentence."
+
+He smiled. "You really know how to ruin a nice quotation."
+
+"I can admire it without treating it as a map."
+
+He laughed. It was exactly the distinction he needed. The line could be beautiful and still leave unanswered questions.
+
+They worked on the comparison map for another hour. Percy asked Grover whether the descriptions of sound and current matched anything he knew from coastal satyrs. Grover said he'd heard stories but couldn't confirm the locations. Ella found a reference to an old sailor's account and marked it as potentially relevant without announcing they'd discovered a hidden portal.
+
+At the end of the afternoon, the page was covered in notes: *secondhand, unverified, possible seasonal variation, location uncertain*. Percy felt oddly pleased. He had arrived hoping to find a route he could follow tomorrow. He was leaving with a better idea of what the records could and couldn't tell him.
+
+He asked Chiron whether he might return to the journals the following week. Chiron agreed to supervised study time and said Percy could make a copy of the non-restricted map annotations once Ella had finished the catalog.
+
+Percy put the original notebook back in its protective sleeve. He could keep asking questions without taking the archive home. That was not a defeat. It meant there would still be something to learn the next time he came back.
+
+---
+
 Thalia hadn't planned to spend her Saturday in a basement.
 
 She'd planned to run drills, fix her shield strap, maybe nap on the porch roof. Big-sister stuff. Soldier stuff. Not... feelings stuff.
@@ -406,7 +598,7 @@ Annabeth stood back at one point, hands dusty, hair escaping its ponytail, and s
 
 "It's coming together," she said with quiet satisfaction.
 
-Percy came up beside her, Maya's journal tucked under his arm like he'd already adopted it. Chiron would let him keep it; Chiron was like that. "Hey, Annabeth?"
+Percy came up beside her, Maya's journal tucked under his arm like he'd already adopted it. Chiron might let him consult it again under the archive's rules; the journal still belonged in the collection. "Hey, Annabeth?"
 
 "Yeah?"
 
@@ -421,6 +613,102 @@ Annabeth bumped his shoulder. "Told you. Fun."
 They stood there a moment, watching Ella teach Grover how to shelve by size, watching Silena braid Thalia's hair while Thalia pretended to hate it, watching the sun find its way through the high windows.
 
 No monsters. No battles. Just kids in a basement, piecing the past together one photo at a time.
+
+---
+
+Thalia found the old photograph again when she was supposed to be carrying the empty tea cups upstairs.
+
+It was the one with Annabeth in a homemade cape, a crooked grin on her face and a smudge of strawberry juice on her chin. Thalia had allowed Chiron to put the picture in the camp archive years earlier. She had not thought about what that meant for a child who had no memory of the day the photograph was taken.
+
+Now Annabeth had written a neat label beneath it and seemed ready to place it in a permanent collection.
+
+"Can I ask you something?" Thalia said.
+
+Annabeth put down the pencil. "Sure."
+
+"Do you think that belongs here?"
+
+"Chiron kept it here."
+
+"I know. But he took the picture when I was twelve and didn't ask what I'd want people doing with it now."
+
+Annabeth looked at the photograph. She had been enjoying the idea of organizing the camp's past, especially the pieces of this childhood she couldn't remember. It hadn't occurred to her that finding something in an archive didn't automatically entitle her to make it public.
+
+"We can leave it in the box," she said.
+
+"That isn't exactly what I'm asking."
+
+"Then what are you asking?"
+
+Thalia sat opposite her. She was still wearing the old jacket she'd rescued from the bottom of her trunk. The photograph showed three girls having a ridiculous rainy afternoon in a cabin, which seemed harmless enough. The problem was that Thalia had spent years guarding what belonged to her and Annabeth, and she didn't want every private piece of their childhood turned into entertainment because the little girl in the picture was too young to have chosen.
+
+"Can you let me see the description before you put it in the index?" she asked.
+
+Annabeth handed her the card. It said *Grace sisters, ages twelve and eight, plus Clarisse. Costume game after rain. Chiron photograph*. Nothing about which older camper had invented the cape or why Thalia's face looked so relieved in the third image.
+
+"That's accurate," Thalia admitted.
+
+"I can write less."
+
+"No. It doesn't need less. Just don't add guesses about what people were feeling."
+
+Annabeth nodded. "I wouldn't do that."
+
+"You sometimes do when the story comes from a photo."
+
+That was fair. Annabeth had been filling the gaps in her own altered childhood with things that sounded plausible, and Thalia had not always stopped her when the guesses made a painful memory easier to explain.
+
+"What do you remember about it?" Annabeth asked.
+
+Thalia looked at the picture. "It was a bad week for me. I had a nightmare the night before and made everyone stay inside after breakfast. Then you made the cape and insisted on playing heroes. I let you because you were bored, and because you were eight and didn't understand why I was frightened."
+
+Annabeth touched the edge of the card.
+
+"Do you want that written down?"
+
+"No. Not here."
+
+"Then I won't."
+
+Thalia looked surprised by the speed of her agreement. She had expected Annabeth to argue that the details mattered for an accurate historical record.
+
+"You can write down what you saw," Annabeth said. "You don't have to give us the whole day."
+
+The distinction relieved Thalia. She wanted Annabeth to know her history. She didn't want every painful part to become the camp's property.
+
+"Could you put a note that copying the photo needs our permission?" she asked.
+
+"Yes. Chiron can approve the access policy."
+
+Annabeth made the note. The images could be preserved without becoming a public exhibition, and the catalog could explain who to ask if someone genuinely needed a copy.
+
+Percy came back from the table of sea maps carrying his pencil. He saw the photograph and smiled.
+
+"That cape is incredible."
+
+"Don't," Thalia warned.
+
+He held up both hands. "I was admiring the craftsmanship."
+
+"That's worse."
+
+Annabeth laughed. It was easier now that they'd agreed on what could be shared. Thalia let Percy look at the picture but not take it out of the sleeve.
+
+A little later Chiron arrived to review the access instructions. He approved the idea of preserving the original photograph in a protected family collection and keeping a general catalog entry visible. He wanted a clear process so the rule wouldn't depend on remembering what Thalia had said on one particular Saturday.
+
+Annabeth wrote the final card in pencil, then made a copy for the main index. The copy listed the date, the names and the storage location. It did not reproduce the image.
+
+Thalia watched the work. She'd been afraid that asking for privacy would make Annabeth think she was hiding something about their mother or their old life together. Instead her sister had listened, and the decision made the archive more trustworthy.
+
+"Thank you," she said.
+
+Annabeth looked up. "You're welcome."
+
+"Don't get used to it."
+
+"Too late."
+
+They carried the cleaned cups upstairs. Thalia took the photograph back to the archive shelf afterward and placed it in its box herself. It felt less like surrendering the memory and more like choosing where it could be kept safely.
 
 ---
 
@@ -494,7 +782,196 @@ At dinner, the story only grew. Grover reenacted his battle with the dust ghost,
 
 Thalia threatened to launch every single one of them into the lake. She said it with Annabeth tucked under one arm and Percy stealing cookies off her plate and Silena fixing her braid, and nobody believed her for a second.
 
-Percy kept Maya's journal beside his plate and showed Annabeth every fish doodle. Annabeth kept the porch photo copy Chiron made for her propped against her cup, and every so often she glanced at it — six-year-old Thalia grinning, little Clarisse scowling, two-year-old herself clutching a cookie like a scepter — and smiled like someone adding a new favorite page to a beloved book.
+Percy kept Maya's journal beside his plate and showed Annabeth the fish sketched in its margins. She compared one drawing to the rough map of Atlantis he'd borrowed from Chiron.
+
+Across the table Thalia noticed a photograph propped beside Annabeth's cup.
+
+"That one stays in the box," she warned.
+
+"Of course," Annabeth said.
+
+"Annie."
+
+Annabeth put the photo in its paper sleeve, then tucked the sleeve into the folder labeled *Grace family, camp years*. Thalia watched her write the date properly. Only then did she go back to her meal.
 
 ---
 
+Two days after the sorting session, Ella noticed that someone had filed her notes under the wrong author's name.
+
+The mistake was understandable. She had written the first index cards on the back of an old reference sheet, and the stamp at the top belonged to a compiler who had cataloged the collection decades earlier. The volunteer who copied the descriptions into the new master list had assumed the words on the other side belonged to the same person.
+
+Ella stood before the list with her feathers lifted in outrage.
+
+"Those are Ella's words."
+
+The volunteer looked up. "What?"
+
+"The entry about the paper sleeves. Ella wrote that entry. The old compiler didn't know which pages were wet."
+
+The volunteer studied the sheet. "I was only copying what it said."
+
+"That's the problem," Ella replied. "Copying without looking."
+
+She had spent her life remembering other people's books. People liked it when she quoted a passage or supplied a date somebody had forgotten. It was less common for anyone to consider that she might be writing something useful herself. The difference mattered to her more than she expected.
+
+She found Annabeth by the architecture table and showed her the entry.
+
+Annabeth read it carefully. "You're right. The catalog has the old name listed as the author."
+
+"Wrong. Wrong author. Wrong date."
+
+"Then we'll correct it."
+
+Ella waited. She wasn't certain she wanted another person to fix her work on her behalf.
+
+"Can Ella make the correction?" she asked.
+
+Annabeth thought about it. The archive needed a reliable change record, especially after the confusion they'd caused by moving objects too quickly. But Ella was one of the people responsible for the catalog, and she had the evidence needed to make the correction.
+
+"Yes. We should record both what it said and what it should say, so nobody thinks the original entry has been erased."
+
+Ella was pleased. They went downstairs together and retrieved the first draft of the note. It had a date and Ella's little feather mark in the corner. She compared it with the index, then wrote the correction in the ledger.
+
+*Entry copied under former compiler's name. Description written by Ella, archive assistant. Original note dated Saturday.*
+
+The volunteer read it and apologized. Ella accepted the apology but asked him to check the author marks on the next batch before transferring the descriptions.
+
+He agreed. It was a small exchange. To Ella, it felt like one of the few times she had been asked to defend her own words instead of repeat someone else's.
+
+Later Grover found her examining the corrected card.
+
+"What's wrong?"
+
+"Nothing. Ella wrote this."
+
+"Good. You write things all the time."
+
+"People usually ask Ella to remember things."
+
+Grover looked at the index. The correction had her name in a space that used to hold someone who'd worked here long before she arrived.
+
+"Then maybe you can write more," he said.
+
+Ella considered. She liked remembering the books because the words felt safe when she could hold them exactly. Writing something new involved choices she couldn't blame on any author if she got it wrong.
+
+"Would anyone read it?" she asked.
+
+"I would."
+
+"Grover reads anything with pictures."
+
+"That's slander."
+
+"It's also true."
+
+He grinned. "Then draw pictures if you want. Doesn't mean they have to be for me."
+
+Ella looked at the blank sheet on the desk. She could write an account of the library as she'd found it: the leaning ladder, the missing labels, the photographs Thalia wanted kept private, and the way Percy sneezed every time he opened a dusty box. She could write about what she'd learned from the other volunteers. Those were things no ancient compiler had known.
+
+She took the sheet and wrote the title *The day we began fixing the archive*. Under it, she wrote *By Ella*.
+
+Grover sat beside her while she worked. He didn't tell her which story to write. When she needed a word, he offered one. When she wanted to quote a book, he reminded her to mark the quotation so readers would know where it came from.
+
+She wrote for nearly an hour. Her sentences weren't all tidy, and some repeated a word because she liked the sound of it. Annabeth read the draft afterward and asked whether Ella wanted help making it easier for someone who hadn't been there to follow.
+
+"Yes," Ella said. "Not different. Easier."
+
+Annabeth moved two paragraphs, clarified the date and left the voice intact. She didn't turn the story into a formal report. The report already existed. This was Ella's account of the day.
+
+Ella signed the final copy and placed it in a clean folder with her own name on the front. The library could keep it if the archivist approved the new accession. She would keep the draft herself.
+
+When Chiron came to review the day's work, he read the first page, smiled and asked her if she'd like to continue keeping a record of the archive project.
+
+Ella considered. She liked the idea. She also wanted time to read novels and help Grover with his songs.
+
+"Once a week," she decided. "Ella will write once a week."
+
+Chiron agreed. He didn't tell her she needed to become a historian or that her memory made her destined for the work. He asked her to write the account she wanted to write and sign her name to it.
+
+Ella put the new folder beside the old records. She had come to the library because she loved what other people remembered. She was beginning to understand that the things she noticed could be worth preserving too.
+
+---
+
+The idea for a public display was Nico's, though he regretted suggesting it almost immediately.
+
+Chiron had asked whether the new catalog could be explained to younger campers without inviting everyone into the fragile storage room. Nico said they could put a few drawings and copied pages on a board upstairs. He had imagined a small corner of the library with interesting objects people could look at during their free period.
+
+The idea grew until three older campers were discussing an entire exhibition about the heroic history of Camp Half-Blood, complete with weapons and dramatic photographs. Nico watched it happen from his chair, increasingly certain he had lost control of his own suggestion.
+
+"Do we have any pictures of the famous quests?" one camper asked.
+
+Annabeth, who was checking the list of available material, looked up.
+
+"Some. But we need permission to reproduce them, and not every record belongs on an open board."
+
+"Then what's the point of an archive?"
+
+"To preserve and make information available responsibly. Not to turn every private photograph into decoration."
+
+The older camper looked unconvinced. Nico could understand both positions. He wanted visitors to see something interesting. He didn't want Thalia's childhood costume picture pinned to a board where the Stolls could draw on it.
+
+"Could we start with drawings?" he asked.
+
+The others turned toward him.
+
+"Which drawings?" Annabeth asked.
+
+"The maps Percy copied. The old ones. If we label them as things people believed, we can show how different the stories were without pretending we found Atlantis."
+
+Chiron looked interested. "That would be appropriate if the copies are cleared."
+
+"Can I put in some of the camp's smaller stories too?" Nico asked. "Not just quests."
+
+"Such as?"
+
+Nico thought about the things he'd found while sorting the boxes. A report on the first strawberry harvest after a bad winter. A list of repairs made to the dining pavilion when a storm knocked part of the roof loose. The names of the campers who had cooked for younger children while older heroes were away.
+
+"Those," he said. "The people who kept camp working."
+
+Annabeth smiled. She had spent so much time looking for dramatic records of prophecy and architecture that she hadn't noticed how interesting the ordinary accounts were.
+
+They drew up a small exhibition plan. One panel would show how the archive had been organized, with photographs of labeled boxes rather than their fragile contents. A second would contain copies of public camp maps, clearly marked with the dates on which they'd been drawn. A third would tell stories about the people who kept the place running: cooks, healers, satyrs, dryads and campers whose names rarely appeared in quest records.
+
+Chiron approved the concept but asked them to confirm sources before putting anything on the board.
+
+"Can we include Maya's journal?" Percy asked.
+
+"An excerpt, perhaps. Not the original pages. And we should mark which portions are her speculation."
+
+Percy nodded. He had begun learning to enjoy the difference between a good story and a navigational instruction. He wanted others to read the line about water remembering, but he didn't want them using her uncertain map as proof that there was an unguarded route to Atlantis.
+
+Annabeth made the copies. Nico drafted short descriptions and asked Ella to check the dates. Ella corrected two spellings and asked that her own note about the archive's restoration be credited properly.
+
+"Of course," Nico said.
+
+He wasn't accustomed to somebody correcting his work without making him feel foolish. Ella was precise, but she seemed to assume that asking for the right date was a way of helping rather than judging him.
+
+When they finished the first board, it looked much smaller than the exhibition the older campers had imagined. There were no weapons. The photos of the old shelves weren't glamorous. The maps contained several conspicuous question marks. But people could read the labels and understand what had been found, what remained uncertain and why the originals were kept elsewhere.
+
+Silena brought a younger camper to see it. The girl stopped in front of the list of names from the pavilion repair after a storm.
+
+"My aunt was here that year," she said. "I think she worked in the kitchens."
+
+Annabeth checked the record. The aunt's name wasn't on the repair list, but the girl knew which cabin she'd lived in and roughly when she'd left.
+
+"We might have something in the kitchen accounts," Annabeth said. "If you want, we can help you ask the archivist whether there's a record."
+
+The girl looked pleased. She had come expecting stories about famous battles. She hadn't imagined there might be a record of someone in her own family.
+
+Nico watched her study the list. He thought of Bianca, who had spent years doing things for him that no book of heroes would record. He wondered how many people at camp had been someone's reason to keep going without ever receiving a statue.
+
+He took an extra sheet of paper and added a question at the end of the display: *Is there someone at camp whose work you think should be remembered?* Below it he placed a small box where campers could leave suggestions. He asked Chiron to approve it before opening it, and the centaur agreed on the condition that the messages would be reviewed before any personal information was displayed.
+
+By evening the box contained five slips. Two were jokes about Mr. D, one requested a memorial to a lost Pegasus, another mentioned a former infirmary counselor, and the fifth said simply, *The people who wash the dishes after everybody goes to bed.*
+
+Nico held that last note for a long moment. He hadn't expected anybody to notice. He asked whether the exhibit could include a small explanation of how the camp kitchens worked.
+
+"Yes," Annabeth said. "But we should talk to the people doing the work first."
+
+Nico nodded. He'd wanted to make a display about history. He was beginning to understand that he could find history in places that didn't look impressive, if he was willing to ask questions and give people room to answer in their own words.
+
+Ella came to collect the suggestion slips. She read them, placed them in the new intake folder and looked toward the exhibition board.
+
+"Good," she said. "It tells the truth about what we know. It also tells people what we want to learn."
+
+Nico smiled. He returned the pencil to its box and went to dinner, leaving the display where visitors could read it without having to enter the archive. At the doorway he remembered something and went back to add a date to the bottom of the board. The exhibit had been made this week, not in the distant past. Someone opening the file years later should be able to tell that the notes were his and Ella's, written by campers who were learning as they went. He signed his name beneath the date, then left a space for the people who would update the display next. History did not have to stop simply because he had carefully finished the first board.

@@ -180,25 +180,53 @@ Annabeth ate a cake standing up on the step, the way Silena had said she would, 
 
 "What about the heel."
 
-"Thalia's heel. She's been favoring it since the survey and she's not been saying anything about it and this morning at the shooting line she favored it again and I watched her do it and she saw me watching and she looked away." Annabeth set the plate down on the step and looked at him with the face she wore when she was right and knew it and was going to say it anyway. "Somebody has to say it. Somebody who's not her."
+"Thalia's heel. She's been favoring it since the survey and she's not been saying anything about it and this morning at the shooting line she favored it again and I watched her do it and she saw me watching and she looked away." Annabeth set the plate down on the step and looked at him with the face she wore when she was right and knew it and was going to say it anyway. "Somebody has to ask her," Annabeth said, "and I don't know how to do it without sounding like I'm ordering her around."
 
-"Somebody who's not her."
+"You've tried?"
 
-"Somebody who's not her and who she can't deflect. She deflects me. She deflects Clarisse. She deflects Chiron. She deflects Rhys, and that's a whole thing we're not going to talk about." Annabeth picked up the plate and stood up and brushed the crumbs off her coat. "You're going to say it."
+"Three times. She says her boot's wrong, or that she can shoot perfectly well if I stop watching her feet, or that she has to get to the survey." Annabeth picked a crumb from the edge of the pan. "The worst part is I know how it sounds when I keep asking. I'm the one she raised. She thinks I want to repay her by telling her what to do."
 
-"I'm going to say it."
+"That's not what you want."
 
-"You're going to say it because you're her brother and because you saw it on the step yesterday and because you're the only person in this camp she can't win an argument with about her own body, and you're going to say it today, and you're going to say it at the shooting line, and you're going to say it in front of Rhys if you have to, and you're going to say it until she agrees to get it looked at."
+"No. I want her to stop pretending she's not in pain because somebody might need her to run uphill."
 
-Percy looked at her. She looked back. The morning was cold and bright and the lake was grey at the edges and the tenth lantern had burned out on its hook and left a ring of frost on the wood where the heat had been.
+Percy looked toward the archery field, where the first few targets were just visible beyond the pines. "I could talk to her."
 
-"She's not going to agree to get it looked at."
+Annabeth studied him. "You could. I don't want you volunteering to fight my sister for me, though."
 
-"She's going to agree to get it looked at because you're going to say it in front of Rhys and she's going to be so busy being annoyed about Rhys that she'll agree to anything." Annabeth picked up the pan and held it out to him. "Take this back down the hill. Tell Silena the cakes were good. Tell Clarisse the list is down to two things. And then go to the shooting line at eight and say the thing."
+"I'm not volunteering for a fight."
 
-"It's not eight yet."
+"Percy."
 
-"It's ten to eight. You've got ten minutes." She put the pan in his hands and turned him around by the shoulders and gave him a push down the path, and he went, and he did not stop at the field, because Silena had told him not to, and because the field was a thing that was going to be there when he came back and the heel was a thing that was not going to fix itself.
+"Fine. I'm not planning a fight."
+
+She gave him the look she reserved for statements that had been technically accurate and completely unconvincing.
+
+"Ask her when you can actually talk," she said. "Not while everybody's watching. I should have asked you properly instead of complaining about it over breakfast."
+
+"She'll tell me it's none of my business."
+
+"She may be right. You can still say you're worried."
+
+"And then?"
+
+"And then she decides. We don't get to make the decision for her. If she refuses, we talk to Chiron about what the training line needs to know for safety, without turning her foot into camp gossip."
+
+Percy took that in. It was less satisfying than marching down the hill and making something happen. It was also more likely to end with Thalia still willing to look either of them in the face.
+
+Annabeth passed him the pan. "Silena gets her pan back. And tell her the cakes were good."
+
+"That part I can definitely manage."
+
+She stood, pulling her coat close around her. The morning air had become brisk enough to sting. Percy hesitated.
+
+"You know I'll probably say something stupid."
+
+"I know you well enough to allow for it." She kissed his cheek. "Try not to say it at full volume."
+
+"It's not even nine."
+
+"It's ten to nine. You've got time. Go slowly." She put the pan in his hands and turned him around by the shoulders and gave him a push down the path, and he went, and he did not stop at the field, because Silena had told him not to, and because the field was a thing that was going to be there when he came back and the heel was a thing that was not going to fix itself.
 
 ---
 
@@ -214,11 +242,11 @@ Thalia's bow came down. She did not turn round. "Don't."
 
 "I'm doing nothing. I'm standing at a shooting line."
 
-"You're standing at a shooting line with a bad heel. You're going to get it looked at." Percy set the pan down on the bench. He came to stand beside her. He looked at her the way he looked at things that were true. "Annabeth says you deflect her. You deflect Clarisse. You deflect Chiron. You deflect Rhys. I'm not deflecting. I'm your brother. I'm telling you. Get it looked at. Today."
+"You're standing at a shooting line with a bad heel. You're going to get it looked at." Percy set the pan down on the bench. He came to stand beside her. He looked at her the way he looked at things that were true. "Annabeth says you deflect her. You deflect Clarisse. You deflect Chiron. You deflect Rhys. I'm not deflecting. I'm your friend. And Annabeth's boyfriend. I'm asking you to let someone look at it today."
 
 The line went quiet. The targets stood in the cold. The flags cracked. Rhys did not look at her. His hand came out of his pocket. It found hers. It held it. He did not say anything. That was the whole of what there was to say.
 
-Thalia stood there. Her bow was in her hand. Her heel was on the ground. Her brother was in front of her. Her boy was beside her. The whole camp was watching. She did the thing she did when she was caught. She was angry about it for exactly as long as it took to stop being angry.
+Thalia stood there. Her bow was in her hand. Her heel was on the ground. Percy was in front of her. Her boy was beside her. The whole camp was watching. She did the thing she did when she was caught. She was angry about it for exactly as long as it took to stop being angry.
 
 "Fine. I'll get it looked at."
 
@@ -230,7 +258,7 @@ Thalia stood there. Her bow was in her hand. Her heel was on the ground. Her bro
 
 "You knew and you didn't say anything."
 
-"I knew and I didn't say anything because I'm not your brother. I don't get to say things like that." He put his hand at her waist. "But I'm going to start."
+"I knew and I didn't say anything because I was trying to wait until we were alone. I should have said something sooner." He put his hand at her waist. "But I'm going to start."
 
 "You're going to start and I'm going to let you. That's the whole of the announcement." She turned back to the line. She set her foot. She drew the bow. The arrow went out. It hit the target an inch low and left. That was where it always went when her heel was bad. She looked at it. "That's the heel. That's not me. That's the heel."
 
@@ -266,7 +294,7 @@ Chiron turned her foot this way and that in the cold light from the window. He p
 
 "And now you're saying something about it."
 
-"And now I'm saying something about it because my brother said it in front of the shooting line. Because my boy was there. Because the whole camp was watching. Because I'm tired of favoring it going downhill." She looked at Chiron. She wore the face she wore when she was right and knew it. "I want it better by Tuesday. The hall's Tuesday."
+"And now I'm saying something about it because Percy said it in front of the shooting line. Because my boy was there. Because the whole camp was watching. Because I'm tired of favoring it going downhill." She looked at Chiron. She wore the face she wore when she was right and knew it. "I want it better by Tuesday. The hall's Tuesday."
 
 Chiron pressed again. She flinched, once. He let go. He sat back. He looked at her the way he looked at things that were going to be all right.
 
@@ -278,315 +306,738 @@ Chiron pressed again. She flinched, once. He let go. He sat back. He looked at h
 
 "That's the entry. That's the whole of it. The heel's getting looked at. I'm resting it. I'm shooting left-footed. I'm going to be better by the winter."
 
-Chiron looked at Percy. Percy was standing by the door. The pan was under his arm. His breath was going up. "You did well."
+Chiron looked at Percy. Percy was standing by the door. The pan was under his arm. His breath was going up. "She agreed to be examined. That matters. But next time, ask her in private."
 
-"I said the thing."
+"I got scared and said it in front of everyone."
 
-"You said the thing in front of the right people at the right time. That's the whole of the skill." Chiron made another note. "Take the pan back down the hill. Tell Silena the cakes were good. Tell Annabeth the heel's getting looked at. Tell Clarisse the list is down to two things. One of them's the awning. The other one's the pine. The pine wants a saw and a Saturday."
+"You can care about her without making her answer for it in front of a crowd." Chiron made another note. "Take the pan back down the hill. Tell Silena the cakes were good. Tell Annabeth the heel's getting looked at. Tell Clarisse the list is down to two things. One of them's the awning. The other one's the pine. The butt still needs a sledge and a crew before the fence can be mended."
 
 "I'll tell them."
 
-"I'll tell them and I'll tell them you said it. That's the whole of the conversation." Percy went to the door. He stopped. He turned back. Thalia had her boot off. Her heel was on the desk. Her face was like a woman who had won a thing. "Tuesday," he said.
+"I'll tell them what needs doing. And I'll let Thalia tell Annabeth about her own foot." Percy went to the door. He stopped. He turned back. Thalia had her boot off. Her heel was on the desk. Her face was like a woman who had won a thing. "Tuesday," he said.
 
 "Tuesday. Not Wednesday. Not next week. Tuesday."
 
-He went out into the cold. The pan was under his arm. The morning was bright. The heel was getting looked at. The hall was on Tuesday. The winter was coming. He went down the path. His breath went up. The tenth lantern had burned out on its hook. The frost was silver. The lake was grey at the edges. The week was turning. The heel was getting looked at. It was going to be all right.
+Percy left the office with the pan under his arm, grateful that Chiron had been willing to say the part he'd missed. The morning was still bright. Below the porch the two tracks across the grass met and separated, one heading toward Cabin One and the other toward the workshops. He went downhill without following either of them.
 
 ---
 
-He did not go straight down the path. He went to the lake. The dock was empty. The water was flat and grey and cold. The frost had come in the night and gone again and left the boards silver at the edges. Annabeth was already there. She was sitting on the end of the dock with her feet hanging over the water and the field book closed on the plank beside her and her braid losing and her breath going up. She had the second cake. It was on a napkin beside her. She had brought it down for him.
+Thalia had been waiting for the office door to close.
 
-"You took the long way," she said.
+The moment it did, she lowered her foot from the stool and reached for her boot. Chiron had shown her how to wrap the heel, but her fingers wanted to pull the laces as tightly as ever and pretend the pressure was proof that nothing had changed. She loosened them again. The motion made her angrier than Percy's speech at the shooting line had, which was impressive.
 
-"I went to the Big House."
+"Don't try to stand yet," Chiron said.
 
-"I know. I wrote it in the book. The heel's getting looked at. That's the entry." She patted the plank beside her. "Sit down. Your cake's getting cold."
+"I've been standing on it for three weeks."
 
-"It's never getting cold. It's a cake."
+"Yes. I noticed the consequences."
 
-"It's a cake and it's getting cold and you're going to eat it sitting on a dock in the cold and that's the whole of it." She moved over. He sat down. He took the cake. He ate it. The dock was cold. The water was grey. The frost was silver. The sky was doing the thing it did on a Sunday, which was to be huge and empty and full of light.
+He slid the splint across the desk. It was a practical thing, plain and light, with a strip of leather that looked as though it had been cut from an old quiver. Thalia could understand old leather. It had never asked her to explain how she felt.
 
-"Your heel," she said, after a while. "Is it going to be all right?"
+"Pain is useful information," he told her. "I want you to give this a chance to settle. Rest it for the next few days. A short, modified stance at the shooting line is not the same thing as running a patrol or hauling timber. Stop if the pain returns, and come back before resuming more strenuous training."
 
-"It's going to be all right. Chiron says another week left-footed. Then I'll be right."
+"How long until I'm normal?"
 
-"Chiron says another week and you'll be right and you'll be better by the winter." She looked at him. Her head was on one side. "You said the thing."
+"I haven't examined a future version of you. I'll check the swelling and tenderness again. If it isn't improving, we'll bring Will in and reassess rather than pretending a splint is a miracle."
 
-"I said the thing."
+She gripped the end of the desk. Chiron let her be angry without offering to improve the situation by flattering her. It was one of his more irritating virtues.
 
-"You said it in front of the right people at the right time. That's the whole of the skill." She put her hand flat on the plank between them. He put his hand over it. Her fingers were cold. He warmed them. The water lapped at the posts. The frost cracked. The sky went on being huge and empty and full of light.
+"And Tuesday?" she asked.
 
-"I'm glad you said it," she said.
+"The hall is an activity, not a duty. You may visit. I don't want you slipping on a wet floor or testing the heel in the water because somebody expects you to keep an appointment."
 
-"I'm glad I said it too."
+Thalia turned the splint over. "Everybody seems to have an opinion about my feet."
 
-"I'm glad you said it and I'm glad she's going to be all right and I'm glad the heel's getting looked at and I'm glad the list is down to two things and one of them's the awning and the other one's the pine and the pine wants a saw and a Saturday." She turned his hand over in hers. She looked at the palm. "Your hands are cold."
+"They have concerns. You still get to make choices. Good choices require a little more evidence than your current method."
 
-"My hands have been cold since July."
+"My current method has kept me standing."
 
-"It's November. It's a documented condition." She put his hand flat on the plank and put her hand over it and held it there. "We should go in. Clarisse'll be doing the count."
+"It has kept you favoring the same foot for three weeks."
 
-"Clarisse'll be doing the count and she'll be right and we'll be in it."
+He said it without accusation. That made it harder to fight.
 
-"Clarisse'll be doing the count and she'll be right and we'll be in it and she won't say anything and that'll be the whole of it." Annabeth stood up. She picked up the field book. She held out her other hand. He took it. She pulled him up. They stood on the dock with the water below them and the frost around them and the sky above them and the camp doing its Sunday behind them.
+By the time she came out onto the porch, Rhys was leaning against the rail with two bows in canvas sleeves and his hair blowing into his eyes. He had not followed her into the examination. She appreciated that. She was annoyed by it too, although she recognized the unfairness.
 
-"Come on," she said. "The hall's Tuesday."
+"Well?" he asked.
 
-"The hall's Tuesday."
+"Turns out I have a heel."
 
-"The hall's Tuesday and you'll be there and I'll be there and Clarisse'll be doing the count and the heel's getting looked at and the winter's coming." She started up the path. He followed. They went up the dock together. Their hands were linked. The frost was silver. The lake was grey. The tenth lantern came on at the bottom of the hill. The night came down. The week was turning. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
+"I'd been wondering."
 
----
+"It's attached to a foot. Apparently the foot can be injured."
 
-The cabin was warm when they got back. The stove was going. The soup was on. Clarisse had the list under her plate. She was at the head of the first table. Her boots were off under the bench. Silena was moving between the tables with the bread basket. Her face was like a hostess at a thing she had organised. Thalia was at the second table. Her hair was still wet from the hall. Her boot was off. Her heel was wrapped in the splint Chiron had given her. She was not favoring it. She was sitting on it, the way you sit on a thing you have decided to be done with.
+"Medical science is making astonishing progress."
 
-Percy sat between his sisters. That was where he always sat. He ate two bowls of soup. He ate a heel of bread. He ate a piece of the honey cake Silena had made. She had not told anybody about it. The room was loud. The fire cracked. The tenth lantern came on at the bottom of the hill.
+She wanted to laugh and refused. He shifted the bows onto his other shoulder, waiting.
 
-"The heel," Clarisse said. To the table. To nobody. To the list. "It's getting looked at. That's an entry."
+"Chiron wants rest, a splint, and another examination if it doesn't improve. Less archery for a while. No hauling anything heavier than my own terrible attitude."
 
-"That's an entry," Thalia said. "It's on the slate. It's in the field book. It's getting better by the winter."
+"That's going to restrict you quite a bit."
 
-"It's getting better by the winter and you're resting it and shooting left-footed and wearing a splint. That's the whole of it."
+"Watch yourself."
 
-"That's the whole of it." Thalia looked at Percy. She had the face she wore when she was annoyed and grateful. "My brother said it in front of the shooting line."
+He took the porch steps slowly enough that she could choose whether to match him. She did. Beyond the Big House the north field was already filling with young archers, their colored fletchings showing bright against the cold grass.
 
-"My brother said it in front of the shooting line and I'm glad he did. That's the whole of the announcement." Clarisse made a note on the list in her blocky hand. "The awning's next. It wants a canvas-and-grommet job. It wants two people. It wants a dry afternoon."
+"I've got the junior group at eleven," Rhys said. "The red targets need re-stringing first. I can come by after lunch."
 
-"It wants a dry afternoon and it's going to get one," Annabeth said. Without looking up from the field book.
+"You don't have to cancel your morning."
 
-"It's going to get one and you'll say I never told you."
+"I wasn't offering to."
 
-"I'll say it in front of sixteen people."
+She gave him a sideways look. "You could have said something sooner."
 
-The table laughed. The fire cracked. Mr. D stood in the doorway for ninety seconds. He had a cup of something that was definitely not soup. He made a remark about the quality of the bread. He went away again when nobody paid him for it. Chiron rolled in from the Big House. He had a coat with the hood down. He sat at the fourth table with a bowl. He had the particular satisfaction of a man who had organised nothing. He was prepared to accept the credit. The room went on being loud and warm. The heel was getting looked at. The list was down to two things. The hall was on Tuesday. The winter was coming.
+"About the foot? Yes. I should have asked you when we were alone instead of trusting you to bring it up."
 
-After the soup there was the bread. There was the honey butter. There was the piece of the honey cake Silena had made. After the bread there was the thing that happened at every Sunday dinner. Somebody said something that made the room laugh. Then somebody else said something that made the room laugh harder. The laughing went round the tables. It was a thing with a life of its own. Percy sat in the middle of it. He had his soup. He had his bread. He had his sisters on either side of him. He thought about the specific pleasure of a Sunday. It is the end of the week. It is the beginning of the next one. You are in a room full of people who are glad you are there.
+"And I would have snapped at you."
 
-Annabeth reached for his hand under the table. She found it. She held it. She did not look at him. She was looking at the room. She was laughing at something Silena had said. Her hand was warm in his. Her thumb moved once against his palm. That was the whole of it. That was the whole of everything. He held her hand under the table. The room was loud. The fire cracked. The tenth lantern burned at the bottom of the hill. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
+"Almost certainly."
 
----
+"I might still."
 
-They walked up the hill after dinner in the dark. The cold was sharp. The lanterns burned one by one. Percy walked with Annabeth on one side. Clarisse walked on the other. Silena walked ahead with the basket. Thalia walked behind with her splint and her bow. The path was quiet. The lake was black. The stars were out.
+"I'd expect nothing less."
 
-"You said the thing," Clarisse said. To Percy. To the dark.
+The answer didn't mend the awkwardness. Neither did his hand when he offered it on the downhill slope. Thalia looked at his fingers, then took them, keeping the splinted heel clear of a patch of slick grass.
 
-"I said the thing."
+"When Percy did that in front of the line," she said, "I wanted to throw my bow at him."
 
-"You said it in front of the shooting line. In front of the right people. At the right time." She looked at him. "That's the whole of the skill."
+"I noticed the angle."
 
-"That's the whole of the skill." He walked in the cold. "I'm glad I said it."
+"I know he was worried. I know Annabeth was worried. That doesn't mean I owe them a demonstration of compliance."
 
-"I'm glad you said it too." Clarisse was quiet for a moment. Then she said, "The list is down to two things. The awning and the pine. The pine wants a saw and a Saturday."
+"No," Rhys said. "You don't."
 
-"The pine wants a saw and a Saturday and it's going to get them."
+He didn't tell her what Percy had meant. He hadn't been inside Percy's head, and Thalia had spent too many years listening to people explain other people's motives as though that settled the matter.
 
-"It's going to get them and I'm going to be there and you're going to be there and we're going to cut it." She looked at him. "You're getting good at this."
+They reached the fork by the archery field. Rhys had his group to teach, and she had a sister to find. He kissed the back of her hand, which was an extravagance he used only when he knew it would make her roll her eyes.
 
-"I'm getting good at saying the thing."
+"You look ridiculous," she said.
 
-"You're getting good at saying the thing and you're getting good at the door and you're getting good at the step and you're getting good at the list." Clarisse stopped at the Cabin Three porch. She had the list under her arm. "I'm going in. The stove's going. The count's going."
+"It's the hair."
 
-"The count's going and you're going to do it."
+"It's almost certainly the hair."
 
-"The count's going and I'm going to do it and I'm going to be right." She went up the steps. She stopped at the door. She turned back. "Percy."
-
-"Yeah."
-
-"The heel. I'm glad it's getting looked at."
-
-"I'm glad it's getting looked at too." She went in. The door shut. The porch light went on. The tenth lantern burned on its hook.
-
-They walked on up the hill. Annabeth had his hand. Her hand was warm. The cold was sharp. The lanterns burned. At the Grace cabin they stopped. Annabeth turned to him. She had the field book under her arm.
-
-"The heel's in the book," she said.
-
-"The heel's in the book and it's getting looked at and it's going to be better by the winter."
-
-"It's going to be better by the winter and you're going to be there Tuesday and I'm going to be there and Clarisse'll be doing the count." She stood on the step. She was nearly his height. She put her hand at his jaw. "You did well today."
-
-"I said the thing."
-
-"You said the thing and it mattered and I'm proud of you." She kissed him. Slow. Warm. Her hand at his jaw. His hand at her waist. The cold was sharp. The lanterns burned. The lake was black. The stars were out. They broke apart by degrees. Foreheads touching. Breath shared.
-
-"Go in," she said. "It's cold."
-
-"It's cold and you're here."
-
-"It's cold and I'm here and I'm going in and you're going in and that's the whole of it." She went up the steps. She stopped at the door. She turned back. "Tuesday."
-
-"Tuesday."
-
-"Tuesday and the hall and whoever wants to come." She went in. The door shut. The lamp in the window went out a minute later.
-
-Percy stood on the step for a moment. The cold was sharp. The lanterns burned. The lake was black. The stars were out. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
+He left her at the fork. She stood there a moment, feeling the unfamiliar stiffness of the splint under her boot. Then she turned toward Cabin One. She had said she wanted to be the one who decided what happened next. The next decision, inconveniently, was to have an honest conversation with Annabeth.
 
 ---
 
-He went back to the cabin. The stove was going. Clarisse was at the table with the list under her plate. Silena was on the floor with the sixth snake. She was turning it inside out with a pencil. Thalia was on the cot with her boot off. Her heel was wrapped in the splint. She was not favoring it. She was sitting on it. The way you sit on a thing you have decided to be done with.
+Annabeth found Thalia in Cabin One with her boots off and a blanket over one knee, trying to turn the little stool by the window into a respectable footrest.
 
-"The count," Clarisse said. Without looking up.
+The stool had belonged to them since June. It was a badly made thing with one uneven leg, useful for holding books and unsuitable for holding any part of a person who had just been ordered not to move. Thalia had already wedged a folded cloth beneath it. The stool still rocked.
 
-"The count's going."
+"That's not going to work," Annabeth said.
 
-"The count's going and I'm going to do it." She did it. She did it the way she did everything. Once. At night. On a porch. Five in the cabin. Two in the cabin up the hill. A girl who got a heel looked at. A girl who was going to be better by the winter. A half-brother somewhere south. A mother under the sea. That was not a number. That was a fence.
+"Good morning to you too."
 
-"That's the fence," Percy said.
+"It's nearly noon."
 
-"That's the fence and I'm the gate." She looked at him. "Sit down. The soup's on."
+"Then good nearly noon."
 
-"The soup's on and it's the good one."
+Annabeth put her field book on the table and crouched beside the stool. One joint had opened slightly. She could fix it, but not with Thalia's foot balanced on top.
 
-"The soup's on and it's the good one and it's the second-day soup and it gets better." Silena looked up from the snake. "Sit down. Your cake's getting cold."
+"Can I move it?"
 
-"It's never getting cold. It's a cake."
+"Are you asking permission to move furniture now?"
 
-"It's a cake and it's getting cold and you're going to eat it." She went back to the snake. Percy sat down. He ate the cake. It was good. It was Silena's. It was the good one.
+"I'm asking permission to move the furniture your ankle is attached to."
 
-Thalia looked at him from the cot. She had the splint on. She had the bow beside her. She had the face she wore when she was annoyed and grateful.
+"My ankle's fine."
 
-"You said the thing," she said.
+"Your heel, then."
 
-"I said the thing."
+Thalia looked away. Annabeth could see anger under the surface, and shame behind that, which made her feel protective in precisely the way Thalia usually felt about her. Neither of them enjoyed the reversal.
 
-"You said it in front of the shooting line. In front of Rhys. In front of the whole camp." She looked at her heel. "I'm going to be better by the winter."
+She lifted the stool only after Thalia shifted her foot. The uneven leg came out with one tug. Annabeth set it aside and brought over a cushion from the end of her own bed.
 
-"You're going to be better by the winter and you're going to be there Tuesday."
+"This is less elegant," she admitted, "but it doesn't tip over."
 
-"I'm going to be there Tuesday and I'm going to be right." She looked at him. "Thank you."
+"Everything in this cabin tips over eventually."
 
-"You're welcome."
+"Not the walls."
 
-"You're welcome and I'm not going to say it again and that's the whole of it." She lay down on the cot. She put her boot back on. She put her heel up on the splint. "Go to bed. It's late."
+"Give us time."
 
-"It's not late. It's nine."
+Thalia accepted the cushion and leaned back. She had the splint on. Annabeth looked at it once and did not ask for a recital of Chiron's instructions.
 
-"It's nine and it's late and you're going to bed." She closed her eyes. Silena went back to the snake. Clarisse went back to the list. Percy sat at the table with his cake and his soup and his sisters around him.
+"Percy told me he spoke to you at the shooting line," she said.
+
+Thalia made a sound that was not quite a laugh. "That's one way to describe it."
+
+"He was worried."
+
+"I gathered."
+
+"He shouldn't have done it in front of everybody."
+
+"No," Thalia said. "He shouldn't."
+
+Annabeth sat on the edge of her bed. A week ago she might have rushed into an explanation, told Thalia that the humiliation was small compared with the risk of injury, and mistaken the argument for care. Today she waited. She could hear younger campers crossing the yard outside, calling to each other over the sound of the bell.
+
+"I complained to him," she admitted. "Not because I wanted him to speak for me. I was frustrated you wouldn't let me ask."
+
+"I did let you ask."
+
+"You said your boots were the problem."
+
+"My boots were part of the problem."
+
+"And the rest?"
+
+Thalia pulled the blanket straight. "The rest is that if I stop doing the things I'm good at, I have to watch other people do them. I hate that."
+
+Annabeth knew how to answer a tactical question. She knew how to make a training schedule and split a repair project into safe tasks. She was less practiced at hearing Thalia admit fear without trying to remove it.
+
+"I'd hate it too," she said.
+
+"You'd complain for three hours and then design a better training program."
+
+"Probably."
+
+"And I'd have to listen to it."
+
+"Definitely."
+
+Thalia looked at her then. A reluctant smile appeared and disappeared.
+
+Annabeth opened her field book to a clean page, but kept the pencil in her hand. "Do you want me to help plan the modified drills? Or would you rather do it yourself?"
+
+"I'd like you to check my plan when I make it. Not make one for me."
+
+"All right."
+
+"And I want you to tell Percy I'm mad at him."
+
+"You can tell him."
+
+"I intend to. I'm telling you so you don't get surprised when I do."
+
+"Fair."
+
+There was a silence long enough for Annabeth to realize she didn't know what to do with her hands. She tucked the pencil behind her ear.
+
+"I was scared when I saw you favoring the leg," she said. "It wasn't because I thought you were weak."
+
+"I know."
+
+"Sometimes you act like I still need permission to be scared on your behalf."
+
+Thalia's face changed. She looked down at the cushion, then toward the window, where the morning light lay across the cold floorboards.
+
+"Sometimes I hear you worrying," she said, "and all I can hear is how many years I spent making sure you never had to."
+
+Annabeth considered that. The sister who had made breakfast, checked doors, and learned the sound of Beryl's bad nights was still in the room. So was the girl who wanted to make her own choices, and they were not the same person.
+
+"You don't have to earn the right to rest," Annabeth said, then winced at her own tone. "Sorry. That sounded like something Chiron would put on a notice."
+
+"It did. It was horrible."
+
+"What I mean is, I can make you lunch without taking your bow away."
+
+"That's better."
+
+Annabeth fetched two pieces of yesterday's bread and the last little crock of honey butter from the shelf. They ate sitting on opposite beds while the stool dried beside the table, one broken leg exposed. Thalia eventually held out her hand for the pencil.
+
+"Let me see what you've drawn," she said.
+
+Annabeth gave her the field book. Thalia turned to the page with the north-beach inset and the two small figures beside a peach pit. She studied it for a long time.
+
+"That's you and Jackson?"
+
+"Obviously."
+
+"You made him too tall."
+
+"I was sitting down when I drew it."
+
+"You made yourself too tall too."
+
+Annabeth reached for the book. Thalia held it out of reach for a few seconds longer, which was the kind of sisterly argument Annabeth could live with. When she finally gave it back, she tapped the stool with one finger.
+
+"We're fixing that after lunch," Thalia said.
+
+"We're fixing the stool. You're sitting here and telling me what I'm doing wrong."
+
+"Oh, I'll be excellent at that."
+
+Annabeth smiled and went to find the glue.
 
 ---
 
-He went down to the lake at moonrise. The dock was empty. The water was black. The frost had come and gone. The boards were silver at the edges. He stood at the end of the dock with his hands in his pockets and his breath going up and the moon on the water. The whole camp was asleep. The tenth lantern was out. The sky had more stars in it than anybody had names for.
+Percy came home with the empty cake pan and a guilty conscience, and Silena took one look at his face before deciding she had other work to do.
 
-Annabeth came down the path. She had the field book under her arm. She had her coat pulled tight. She came and stood beside him on the dock. She did not say anything. She put her hand on the rail. He put his hand over it. They stood on the dock with the moon on the water and the frost on the boards and the camp asleep behind them.
+"Pan on the counter," she said. "Don't put it with the clean ones. The honey stuck."
 
-"The heel," she said, after a while.
+"You can tell?"
 
-"The heel's getting looked at."
+"There's honey on your sleeve, Jackson."
 
-"The heel's getting looked at and it's going to be better by the winter and you said the thing and it mattered." She turned his hand over on the rail. She looked at the palm. "You did well."
+Clarisse was at the table with the winter list. The last operation on the fallen pine had been written at the bottom in small, angry capitals: BUTT ON FENCE. MORNING. SLEDGE. FOUR ARMS. The north end of the greenhouse bank had been crossed out the night before; the awning remained open.
 
-"I said the thing."
+"Chiron says the heel needs rest," Percy began.
 
-"You said the thing and it mattered and I'm proud of you." She put his hand flat on the rail. She put her hand over it. She held it there. The moon was on the water. The frost was on the boards. The camp was asleep. They stood on the dock with their hands linked and the night going on being cold and bright and full of stars.
+Clarisse put down her pencil. "Did Thalia ask you to tell us that?"
 
-"Come on," she said. "It's cold."
+"No."
 
-"It's cold and you're here."
+"Then you can tell us whether she's safe. You don't get to conduct her medical briefing for her."
 
-"It's cold and I'm here and we're going in." She pulled him up the dock. They went up the path together. The moon was on the water. The frost was silver. The tenth lantern came on at the bottom of the hill. They went up the path with their hands linked and the night going on being cold and bright.
+He set the pan down. "She's safe. Chiron examined her. She's got a splint."
 
-At the Grace cabin they stopped. Annabeth turned to him. She had the field book under her arm. She stood on the step. She was nearly his height.
+"Good." Clarisse picked up the pencil again. "Now you can tell me whether your hands are free."
+
+"Depends what for."
+
+"Four arms, one wet pine butt. Beckendorf can bring the sledge. I'm not dragging the thing across a fence by myself."
+
+Silena looked up from the roll of cloth in her lap. "The little ones are using the west path for the wood run at two."
+
+"Not until the barrier's back."
+
+"Then I need to change the route." She set the cloth aside and went to the hook where the day's kitchen and errands board hung. "That's the part nobody remembers when they say a tree job is finished. Somebody always needs the path you closed."
+
+Percy reached for a slice of bread, found that it was the stale heel, and ate it anyway. The room smelled of warm fabric and old cocoa and the pine chips Clarisse had carried in on her boots.
+
+"I made a mess at the shooting line," he admitted.
+
+Clarisse continued writing. "That sounds familiar."
+
+"I thought Thalia was going to hurt herself. So I said something. Loudly."
+
+"She hurt?"
+
+"Not at me. At least not physically."
+
+"Then you probably got off easy."
+
+Silena turned from the board. "Did you give her a way to agree without everyone watching?"
+
+Percy thought of the archers standing still, the way Thalia's jaw had tightened, Rhys with his hands in his pockets. He hadn't given her much of a choice. He had made the consequences of refusing obvious and public, and called that care.
+
+"No," he said.
+
+Silena nodded once. "Then that's the part you fix. Not the heel. You can't fix that with a speech."
+
+Clarisse scratched something else onto the list. "And you can't fix the pine with one, either. We need a team, a lever, and somebody who can tell a good lift from a bad one."
+
+"Beckendorf?"
+
+"He's bringing the tools. I asked him yesterday."
+
+Percy looked at Silena, who was now arranging lunch trays with unusual concentration. The quick lift of her eyebrows told him not to make anything of it. He was learning.
+
+"Then what do you need me to do?" he asked Clarisse.
+
+"Check the rope before we start. Stand where I tell you. If I say stop, stop. None of this diving in because you think you're the only person with hands."
+
+"I'm aware other people have hands."
+
+"Great. You'll recognize them when they help you."
+
+Silena snorted. Percy took the plates she handed him and carried them to the shelf, setting each one down carefully.
+
+He had become good at noticing when somebody needed an arm under a load or a joke before a difficult conversation. He had become less good at recognizing the moment when the right kind of help was to leave a person space. Clarisse had been telling him some version of that since June, usually while shoving him away from the work she wanted to finish herself.
+
+He watched her draw a box around the pine job on the sheet.
+
+"Did we ever put the pump handle back?" he asked.
+
+"Yes. You put it on the bench yesterday. I used it this morning."
+
+"Did it fit?"
+
+"Perfectly. Beckendorf checked the pin."
+
+Percy glanced toward the other end of the room, where Silena was fussing with the lunch cloth. He decided he could wait until she chose to mention Beckendorf herself.
+
+The little ones began arguing about who would carry the water pitcher. Silena settled it by giving each a different job, one holding the pitcher and one clearing a space. Clarisse gave Percy the roll of boundary rope. The morning kept turning into work, which was better than turning into a campaign to prove he'd been right at the archery field.
+
+At the door, Silena caught his sleeve.
+
+"Percy."
+
+"Yeah?"
+
+"Bring everyone back before the second bell. Lunch can be late. People can't."
+
+He nodded. For once he didn't promise more than he could do.
+
+---
+
+Clarisse knew the fallen pine would be unpleasant before they reached the cedar brake. Wet wood that heavy always waited until a person had started believing the job was simple before it reminded them what gravity meant.
+
+The trunk had been sawed into sections the day before. Most of it lay stacked above the path, cut faces bright against the darker bark. The butt end remained across the bent fence. Its diameter made Percy's arms look absurdly small. On the downhill side, the ground was soft from the thaw, with frost still hiding beneath the mud.
+
+Beckendorf was already there. He had brought the sledge, two bars, a coil of spare rope, and a wedge cut from oak. He greeted Clarisse with a nod and waited until she walked the area before touching anything.
+
+"That fence won't take the load," he said.
+
+"It isn't going to. We lift from the bank, roll toward the cradle, then drop it onto the sledge. Nobody stands below the butt."
+
+Percy unrolled the barrier line with a Hermes camper at the safe end of the path. Silena's reroute notice had gone up by the kitchens. Two younger campers appeared with an empty barrow, read the sign, complained, and took the long path without being chased.
+
+A small victory. Clarisse appreciated victories that didn't require a conversation.
+
+They tried the first lever position. The butt rose less than an inch before sinking again.
+
+"Not enough ground under it," Beckendorf said.
+
+Clarisse crouched to look. The support block had pressed into mud. The lift might work if they braced it on flat stone, but she would rather spend ten minutes finding the right stone than explain a crushed hand to Chiron.
+
+"Stop," she said. "Everyone off the handles."
+
+Percy let go immediately. That surprised her enough that she almost commented. Instead she pointed to the high side of the path. "You and I will bring two flat blocks. Beckendorf, check the rope."
+
+She and Percy walked without talking until they were out of earshot.
+
+"Thalia's mad," he said at last.
+
+"Yes."
+
+"She told you?"
+
+"No. I have eyes."
+
+"Chiron told me I should've asked in private."
+
+"Correct."
+
+"I don't think I could have made her listen in private."
+
+"Maybe not." Clarisse stopped at a pile of stone offcuts and tested one with her boot. "But if you want someone to choose something, you have to let them choose it. Otherwise you're just giving orders and hoping they thank you."
+
+"You're exceptionally good at giving orders."
+
+"I don't expect thanks."
+
+He laughed. She handed him the lighter of the two flat stones, then took the heavier one herself.
+
+At the worksite Beckendorf reset the fulcrum. The butt lifted enough to allow the sledge beneath it. They had to do the motion in stages, each one marked by Clarisse calling the next position before anyone moved. On the third stage a rope took too much of the strain and began to bite against the bark.
+
+"Hold," Beckendorf said sharply.
+
+Clarisse looked at the rope. One more pull would have cut it against a knot. She ordered everyone clear and had the line moved to the safer angle. No heroics. No test of who could hang on the longest.
+
+They got it onto the sledge in the end, inch by ugly inch. Percy helped guide the front while Beckendorf walked behind. Clarisse watched the skids and the fence. When the butt cleared the damaged rails, the pressure on the broken section released with a low wooden crack.
+
+"That's enough," she said. "Set it down. We'll fix the fence after the ground firms."
+
+Percy took his hands off the rope, flexed his fingers, and looked back at the path. The barrier still stood. Nobody had needed to cross it.
+
+"That's it?" he asked.
+
+"That's the safe part done. The fence goes on the list."
+
+She scratched the new line into the paper against the flat of her palm. She would have preferred to cross the whole job off, but it was better to know what remained.
+
+Beckendorf wiped his palms on a rag. "The sledge can stay here until the next run, provided it doesn't block the path."
+
+"Chiron's going to want it checked," Clarisse said.
+
+"Then I'll walk him up after lunch."
+
+He glanced toward the cabin where the smoke from the kitchen stove was drifting above the roofs. Clarisse caught the glance, understood who he expected to see at lunch, and decided to do something generous.
+
+"Silena has food," she said. "You should come before she decides you don't eat enough."
+
+His ears went red. Percy, to his credit, examined the dirt on his boots instead of opening his mouth.
+
+They packed the tools. Clarisse took down one barrier line but left the other in place beside the damaged fence. The path could reopen for light traffic under supervision. That was a partial completion, and she had no intention of pretending otherwise.
+
+On the way back Percy fell into step beside her. He offered to carry her list. She refused. Then he offered to carry the rope, and she handed it to him, because there was no point insisting on pride when a useful pair of hands was available.
+
+"Good work," she said after a minute.
+
+He turned toward her in surprise.
+
+"I heard that," he said.
+
+"Then don't make me repeat it."
+
+He didn't. They walked home with mud on their boots and no injuries to add to the tally.
+
+---
+
+Dinner was in the pavilion, not because anyone had decreed a celebration, but because Silena had made enough soup for whoever came in from the cold and then some. Clarisse's work crew arrived last. They had to wash their hands twice before Silena allowed them near the bread, and Beckendorf had a line of resin across one sleeve that resisted both water and his attempts to hide it.
+
+Thalia came in under her own power, the splint beneath her boot making one step different from the next. She spotted the open place on the bench beside Annabeth and hesitated. It was the obvious place to sit. Its obviousness made her suspect someone had arranged it.
+
+Annabeth raised her eyebrows. "It's an empty seat, Thalia."
+
+"You're terrible at acting innocent."
+
+"I haven't acted innocent once today."
+
+"True."
+
+Thalia sat. Percy was across the table, tearing a heel of bread in two. He met her eyes briefly and looked away first. She appreciated that too, though she wasn't ready to reward it.
+
+Silena put a bowl in front of her. "Eat while it's hot. Your sister made the bread."
+
+"I supervised the yeast," Annabeth corrected.
+
+"You supervised the yeast with a pencil. It rose out of fear."
+
+Thalia took a mouthful. The soup was thick with beans and late carrots. She hadn't realized she was hungry until she began eating.
+
+"How's the foot?" Clarisse asked from the end of the bench.
+
+"Attached."
+
+"I can see that. Did Chiron give you a plan?"
+
+"Yes. Rest, wrap, splint, reassess if it doesn't improve. I can try modified archery drills, but I'm not hauling timber for a while."
+
+"Good," Clarisse said. "I've got enough people to haul timber."
+
+She went back to eating. That was all Thalia had wanted from the conversation and somehow more than she'd expected.
+
+Rhys arrived with his junior group trailing behind him, three children still arguing about which target had the crooked ring. He told them to eat before their hands froze, then sat across from Thalia, farther down the table where the archery gear had been stacked against the wall.
+
+"You missed the afternoon," he said.
+
+"I was occupied."
+
+"I heard. You missed a spectacular argument about whether a target can be offended."
+
+"Can it?"
+
+"Apparently it can if you call it lopsided while it's being repaired."
+
+She smiled into her soup. Rhys told the story properly, with the children's objections and the practical solution he'd finally managed, which was to let them measure the target instead of arguing about it. Thalia listened. He had been doing something all day that had nothing to do with watching her limp. She liked him better for it.
+
+Halfway through the meal Chiron came through with the work cards, checking who had returned from the west path and whether the fence would be secure overnight. Clarisse gave him the details. Beckendorf confirmed the sledge position. Percy described where the barrier line remained.
+
+"Good," Chiron said. "We'll inspect it in daylight. And the hall on Tuesday?"
+
+"Still scheduled," Silena said. "I've got the towels drying."
+
+Chiron looked toward Thalia but did not address her as though she were an item on the same work card.
+
+"I'll come to see everyone," she said before anyone could answer for her. "I don't know if I'm going in the water. I'll decide after I've had another look at the heel."
+
+"That seems sensible," Chiron replied.
+
+Percy looked as though he wanted to say something. He took another bite of bread instead.
+
+After Chiron left, Annabeth slid a folded scrap of paper across the bench. On it she had written the hall schedule and, beneath the names, VISITORS WELCOME. NO DRILLS REQUIRED. It was not an instruction to Thalia. It was an invitation for anybody who wanted to be present without joining the swim.
+
+"You didn't have to do that," Thalia said.
+
+"I know. I liked the wording."
+
+"It is good wording."
+
+"I charge for consultation."
+
+"You'll get half my dessert."
+
+Annabeth considered. "Acceptable."
+
+She broke her piece of honey cake in two and set a portion beside Thalia's bowl. Thalia stared at it.
+
+"That's not how the exchange works."
+
+"I know," Annabeth said. "I'm changing the terms."
+
+Thalia laughed, and it startled her a little. The sound came out before she had worked out whether she was ready to be amused. Annabeth looked satisfied, but kept eating rather than making an occasion of it.
+
+Near the far end of the table, Silena was talking with Beckendorf about the sledge's iron fittings. He listened with the intent expression he wore around practical problems, even though the conversation had clearly shifted away from iron some time ago. Clarisse watched them over her cup, saw Thalia noticing, and raised one eyebrow. Thalia raised hers back. Neither intervened.
+
+The dinner moved on. Somebody asked whether the north path would be open before Monday's wood run. Clarisse gave a clear answer about the barrier and the bent fence. One of the younger campers brought Thalia a second piece of bread without commenting on her leg, and she thanked him as though bread, rather than concern, had been the reason he crossed the room.
+
+It was the first hour all day in which she didn't feel like the heel was the only thing people could see. She still knew it was there. It pressed against the inside of the splint whenever she shifted. But there was enough conversation around her to remind her that an injury could take up space without owning the whole room.
+
+When the bowls were cleared, she stayed to carry the folded napkins to the serving counter. Silena started to protest, then saw she was carrying paper and let it pass. Small victories, Thalia thought, weren't always things you won from someone else. Sometimes they were the things other people didn't try to take from you.
+
+---
+
+Percy caught up with Annabeth on the path outside the pavilion. The air had turned sharp after sunset, and a thin layer of ice had begun forming in the ruts where the wood cart passed. They walked on the packed center of the path, keeping clear of the slick patches.
+
+"You look like you're planning an apology," Annabeth said.
+
+"I was planning not to have it in front of sixteen people this time."
+
+"Promising."
+
+They passed the ninth lantern. The cabins shone through the trees above them, the new winter coverings visible in the orange light from the windows.
+
+"Chiron was right," Percy said. "I made Thalia answer for her foot in front of everybody."
+
+"You were worried about her."
+
+"That doesn't make the way I did it good."
+
+"No."
+
+He looked at Annabeth. He'd expected a gentler response. She gave him her usual, unhelpfully accurate one.
+
+"I complained to you," she said. "I shouldn't have treated you as my messenger. I was tired of watching her limp, and I thought you might get through to her. I didn't imagine you'd try it at the shooting line."
+
+"Neither did I until I saw her draw."
+
+"And then you decided the public argument was worth it?"
+
+"I decided it might be the only chance. Which isn't the same thing."
+
+They reached the north-path turn where yesterday's repaired granite step sat flush with the dirt. Annabeth stepped on it first and tested the edge with the sole of her boot. It held.
+
+"You checked it again," Percy said.
+
+"I said we would."
+
+He put his own weight on the other half. There was no click this time. The stones had settled properly. He found himself oddly relieved that the step could withstand one more inspection without needing a new conversation about it.
+
+"Do you think she'll forgive me?" he asked.
+
+"Thalia? Probably. Eventually. You aren't entitled to a schedule."
+
+"I know."
+
+"She came to see me today. We talked. Mostly we argued about a stool."
+
+"That sounds healthy."
+
+"It was."
+
+Annabeth slipped her arm through his. For a few yards they said nothing. Percy was grateful not to be given a prepared speech about how his intentions counted as much as Thalia's humiliation. He had meant well. He had also been wrong. His sisters, both the one born to the sea and the one who'd spent her childhood keeping Annabeth safe, were perfectly capable of recognizing both facts.
+
+At the fork, Annabeth stopped. "I'll check on her before bed. You don't need to come up unless she asks for you."
+
+"Okay."
+
+"You can tell her you're sorry tomorrow."
+
+"Okay."
+
+"And you don't get to ask me whether you're forgiven after every ten minutes."
+
+"You're taking away my entire evening's entertainment."
+
+"You'll survive."
+
+He pulled her gently closer and kissed her, a quick warm kiss between cold cheeks, then stepped back so she could go uphill. Her braid had loosened and one strand was caught under her collar. He pointed it out. She tugged it free and rolled her eyes at him.
+
+"Good night, Seaweed Brain."
+
+"Night, Wise Girl."
+
+She went toward Cabin One. Percy stayed at the fork until he could see her reach the porch, then continued down toward Cabin Three, where Clarisse was already arguing with someone about whose boots belonged by the stove. He had dishes to put away and a sister who preferred practical work to a public apology. For tonight, he could do the dishes.
+
+---
+
+Thalia found Rhys on the Cabin One porch after the second bell. He had a coil of bowstring over one shoulder and a repaired finger guard in his hand, which he set down when he saw her coming up the path.
+
+"Before you say anything," she told him, "I walked here on my own."
+
+"I was going to say the porch rail's loose again."
+
+"It is not."
+
+He tested it. The rail shifted an inch under his hand.
+
+"Evidence suggests otherwise."
+
+"Fine. The porch rail is loose. That doesn't make you right about everything."
+
+"I'd never survive that burden."
+
+She sat on the bench beside the door. He remained standing until she moved her bag off the other end and nodded toward the space. He sat without making an event of it. The sky above the trees had cleared, and a thin belt of stars showed between the branches. Below them the path lanterns were going out one by one as the last campers returned indoors.
+
+Rhys lifted the finger guard. "One of the younger archers cut a new hole in it. I spent an hour repairing a thing that would've taken him five minutes not to ruin."
+
+"Did you tell him that?"
+
+"Not until he'd helped me stitch it."
+
+"And?"
+
+"He'll remember the stitch. I suspect he'll forget the lecture."
+
+Thalia turned the guard over in her fingers. The repair was ugly but strong. She handed it back.
+
+"There's a metaphor in there somewhere," she said.
+
+"Probably. I try not to encourage them."
+
+She could feel the splint even while sitting still. Chiron's instructions had seemed reasonable in the office and irritating everywhere else. At dinner she had kept one foot on the bench's rung because it was easier than holding the leg straight. Now, without the distraction of conversation, the heel throbbed.
+
+Rhys noticed her shifting position and looked away. She appreciated that he didn't ask for permission to notice.
+
+"I hated what happened at the field," she said after a while.
+
+"I know."
+
+"I hated the way Percy said it. I hated that you all watched. I hated even more that he wasn't wrong about the injury."
+
+"He could have been right without doing it that way."
+
+"Yes."
+
+She leaned back against the wall. There had been a time when any request to stop moving had felt like the beginning of somebody deciding she was no longer useful. She had learned to sleep lightly, to listen for Beryl's moods, to stand between a younger sister and a door. A sore heel was a small problem by comparison. That didn't stop it from touching something older.
+
+"When I was little, sitting down meant I wasn't watching," she said. "I know that's stupid now."
+
+"It's not stupid. It's old."
+
+"You're not going to try to fix that either, are you?"
+
+"I wouldn't know where to start."
+
+She laughed softly. "You could start by fixing the rail."
+
+"I can do that."
+
+"Tomorrow, though. I'm not getting up to hold the screws."
+
+"I'll bring somebody with a screwdriver."
+
+"Good."
+
+He laid his hand palm up between them, not demanding anything. Thalia put hers in it. After a few minutes she leaned into him. He stayed there, warm and solid at her shoulder, and let the quiet be a quiet rather than an exercise in making her feel better.
 
 "Tuesday," she said.
 
-"Tuesday."
+"Tuesday?"
 
-"Tuesday and the hall and whoever wants to come." She kissed him. Quick. Warm. She went in. The door shut. The lamp in the window went out.
+"The hall. I might only watch. I might get in if Chiron says it's sensible. I'm not promising either way."
 
-Percy stood on the step for a moment. The moon was on the water. The frost was silver. The tenth lantern burned. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
+"That's an excellent plan."
 
----
+"You're lying. It's a barely adequate plan."
 
-He went down the path one more time before bed. The cold was sharp. The lanterns burned one by one. The frost was silver under his boots. He passed the ninth lantern. He passed the tenth on the hook. The Cabin Three porch was dark. The stove ticked behind the wall. He stopped at the rail and looked at the hill. The lamps were out. The windows were dark. The whole camp was asleep. The sky had more stars in it than anybody had names for. The heel was getting looked at. The hall was on Tuesday. The winter was coming. He stood at the rail for a moment. The cold came up off the lake. It moved the pines. He did the count the way Clarisse did it. Five in the cabin. Two in the cabin up the hill. A girl who got a heel looked at. A girl who was going to be better by the winter. A half-brother somewhere south. A mother under the sea. That was not a number. That was a fence. And he was part of it. He went back up the path. The frost was silver. The lanterns burned. The tenth was on its hook. He went in. The stove ticked. The cabin was warm. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
+"I like barely adequate plans. They leave room for improvement."
 
----
+She pressed her forehead briefly against his shoulder. He turned his head and kissed her hair.
 
-He found Silena at the bottom of the hill.
+When the door opened behind them, Annabeth came out in her night shirt with a book under her arm and stopped at the sight of the two of them. Thalia sat upright.
 
----
+"Nobody asked you to supervise," she said.
 
-He went out on the porch at dusk. The cold came down off the ridge. The pines moved. The tenth lantern burned on its hook. The sky was going grey at the edges. Annabeth was on the step. She had the field book. She had her feet up on the rail. She was writing.
+"I was looking for the book I left outside," Annabeth replied. "I see you're using the porch."
 
-"The heel," she said, without looking up. "It's in the book. It's getting looked at. It's going to be better by the winter."
+"Quite extensively."
 
-"It's going to be better by the winter and it's in the book and it's going to stay there."
+Annabeth picked up the book from the bench beside the door. Her eyes went from the loose railing to Rhys's coils of string, then to Thalia's splint, but she chose not to comment on either.
 
-"It's going to stay there and in four years somebody's going to come in and look at it." She closed the book. She looked at him. "You did well."
+"Good night," she said.
 
-"I said the thing."
+"Night, Annie."
 
-"You said the thing and it mattered." She held out her hand. He took it. She pulled him down to sit beside her on the step. The cold was sharp. The lantern burned. The sky went grey. They sat on the step with their shoulders touching and their hands linked and the camp going to its cabins around them.
+The nickname came out without effort. Annabeth smiled and went inside. Thalia watched the door settle behind her. It wasn't a proof of anything; it was a door shutting safely with her sister on the other side. For once that was enough.
 
-"The hall's Tuesday," she said.
+Rhys rose when she did. He didn't offer to carry her, but walked beside her to the threshold and waited while she tested the first step with her sound foot. She was clumsy with the splint and angry about the clumsiness. She was also going to do what Chiron had told her. Both truths could survive the same evening.
 
-"The hall's Tuesday."
+"You're back on the field tomorrow?" she asked.
 
-"The hall's Tuesday and whoever wants to come." She leaned her head on his shoulder. He put his arm around her. They sat on the step. The cold came down. The lantern burned. The sky went grey. The heel was getting looked at. The hall was on Tuesday. The winter was coming.
+"After breakfast. And the junior class after lunch."
 
-"Annabeth."
+"I'll come by if I'm allowed to sit and criticize."
 
-"Yeah."
+"They'll learn more from your criticism than my instructions."
 
-"I'm glad I said the thing."
+"Obviously."
 
-"I'm glad you said the thing too." She squeezed his hand. "I'm glad you said it and I'm glad she's going to be all right and I'm glad the heel's getting looked at and I'm glad the list is down to two things and one of them's the awning and the other one's the pine."
+He kissed her once, quietly, and picked up his repaired guard. She went into Cabin One, where Annabeth had left a lamp burning low by the table and the broken stool lay waiting for glue. In the margin of Annabeth's field book was a blank square for Tuesday. Thalia borrowed the pencil and wrote two words there, small enough that her sister would have to look closely to read them: MY CHOICE.
 
-"The pine wants a saw and a Saturday."
+She put the pencil back. Outside, Rhys was testing the loose railing with his knuckles, measuring where a screw would go. She knew he would come back with tools. She knew her sister would argue about the stool in the morning. She knew Percy owed her a private apology, and she intended to hear it on her own time.
 
-"The pine wants a saw and a Saturday and it's going to get them." She looked up at him. Her face was close. Her breath was warm. "Come here."
-
-He went to her. She kissed him. Slow. Warm. Her hand at his jaw. His hand at her waist. The cold was sharp. The lantern burned. The sky went grey. They broke apart by degrees. Foreheads touching. Breath shared.
-
-"Go in," she said. "It's cold."
-
-"It's cold and you're here."
-
-"It's cold and I'm here and I'm going in and you're going in." She stood up. She picked up the field book. She went to the door. She stopped. She turned back. "Tuesday."
-
-"Tuesday."
-
-"Tuesday and the hall and whoever wants to come." She went in. The door shut. The lamp in the window went out a minute later. Percy stood on the step. The cold was sharp. The lantern burned. The sky was grey. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
-
----
-
-He found Silena at the bottom of the hill. The stove ticked. The tenth lantern burned on its hook. The cold came down off the ridge. The heel was getting looked at. The hall was on Tuesday. The winter was coming. It was going to be all right.
-
----
-
-He found Silena at the bottom of the hill. She had the bread basket over her arm. Her hair was coming loose. Her face was like a woman who had been up since five. He told her the cakes were good. He told her the heel was getting looked at. He told her the list was down to two things. She nodded. She wrote something on a piece of paper. She put it in her pocket.
-
-"The awning's next. It wants a dry afternoon."
-
-"It wants a dry afternoon and it's not going to get one."
-
-"It's going to get one and I'm going to make it get one. Because the list is down to two things. I'm not going to have two things on the list when the winter comes." She picked up the basket. She turned to go. She stopped. "The heel. Is it going to be all right?"
-
-"It's going to be all right. Chiron says it's going to be better by the winter."
-
-"Chiron says it's going to be better by the winter. Thalia's going to rest it and shoot left-footed and wear a splint. That's the whole of the conversation." Silena went away down the path. The basket was over her arm. Her hair was coming loose. Percy stood at the bottom of the hill. He watched her go. The cold came up off the lake. It moved the pines. The morning went on being cold and bright. The heel was getting looked at. The week was turning. The winter was coming. It was going to be all right.
-
----
-
-The rest of the Sunday was the rest of the Sunday. The camp did its morning and its afternoon and its evening. Percy went up the hill and down the hill and up the hill again. He carried things. He said things. He did things. The day went on being cold and bright. The lake went grey at the edges. Annabeth came down at noon. She had the field book under her arm. Her hair was in a braid that had already started to lose. She sat on the step. She ate the second cake. She wrote the heel in the book.
-
-"That's the entry."
-
-"That's the entry. That's going to stay there. In four years somebody's going to come in and look at it. They'll know that the heel got looked at." She closed the book. She looked at him. Her head was on her side. Her hands were on her hips. "You did well."
-
-"I said the thing."
-
-"You said the thing in front of the right people at the right time. That's the whole of the skill." She stood up. She brushed the crumbs off her coat. She kissed him, quick, on the mouth. She went back up the hill. The field book was under her arm. Her braid was losing. Her boots made their sound. Percy stood on the step. He watched her go. The cold came up off the lake. It moved the pines. The afternoon went on being cold and bright. The heel was getting looked at. The week was turning. The winter was coming.
-
----
-
-Evening came the way it came on a Sunday. It came slow and cold. It came full of the sound of the camp going to its cabins. The lamps went up the west path one at a time. The tenth was on the hook by the Cabin Three porch. The porch smelled of the cold and of soup and of eight people's coats. Clarisse came out onto the porch. She had the list under her arm. Her tea was going cold at her elbow. A fire was dying in the stove behind her. She looked at the hill. She did the count.
-
-Five in the cabin. Two in the cabin up the hill. Plus a girl who got a heel looked at. Plus a girl who was going to be better by the winter. A half-brother somewhere south who made bolts and mended tote hooks. A mother under the sea who had raised a boy who was not hers. She had never once said so. That was not a number. That was a fence. Clarisse La Rue was, more than anything else she had ever been in her life, the person who kept the gate.
-
-She went inside. She shut the door on the cold. She left the tenth lantern burning on its hook. Anybody walking up the west path late, in the dark, in October, would come around the cedar brake. They would see a light at the bottom of the hill. They would think, without knowing why, that somebody was home.
-
-The heel was getting looked at. The hall was on Tuesday. The winter was coming. The week was turning. The camp went to sleep under a sky with more stars in it than anybody had names for. It was going to be all right. And in the morning the frost would come again, and the lake would go grey, and the lanterns would burn one by one up the west path, and the hall would fill with water on Tuesday at seven, and whoever wanted to come would come. And Thalia would be there, left-footed and splinted, and she would shoot an inch low and she would know it was the splint and not the heel, and she would not care, because the heel was getting looked at, and that was the whole of it. And Percy would be there too, and Annabeth would be writing it down, and the whole hill would go on being cold and bright and full of water that had been in a lot of places and come back.
-
----
-
----
-
+The heel still hurt. The day had not repaired it. The difference was that she could admit it hurt and still be herself, which was more work than she had expected when she woke, but work she was finally willing to do.

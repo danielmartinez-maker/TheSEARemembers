@@ -46,6 +46,86 @@ They had all grown. Today was for proving it safely.
 
 ---
 
+The first argument began with a length of rope.
+
+Clarisse had brought it from the equipment shed and wound it twice over one shoulder. Percy wanted to know why Chiron's training markers weren't sufficient.
+
+"Because stakes can come out," she said.
+
+"Not the ones I planted."
+
+"That's what somebody says right before one comes out."
+
+They stood in the shelter of the Big House porch. Rain ticked against the awning. Grover was protecting a clipboard beneath his coat, and Thalia kept looking toward the far horizon as if the clouds had made a personal appointment with her. This was meant to be a controlled demonstration. Chiron had promised no uncontrolled discharge, no heroics and an independent observer who could stop the exercise.
+
+"Confidence isn't a safety plan," Annabeth said. She held a diagram flat with her elbow. "The rope shows people where to stand. Even if the water stays within the channel, the observers need a boundary they can recognize."
+
+"Thank you," Clarisse said.
+
+"She's not agreeing because you're frightening," Percy told her.
+
+"Good. Means I still have room to improve."
+
+Thalia looked over the diagram. "Who's supposed to stop me?"
+
+Everyone turned.
+
+"If I draw too much charge," she said. "If the wind moves and I think I can handle it anyway. Who tells me to stop, and what happens if I don't hear them?"
+
+"You'd listen to Chiron," Percy said.
+
+"I intend to. That wasn't the question."
+
+Chiron arrived as she spoke. He listened, then took two cards from Grover's clipboard. On one he wrote STOP in block letters. The other stayed blank.
+
+"One verbal order," he said, "repeated by everyone observing. And one visible signal." He tied a strip of bright orange cloth to a wooden staff. "When Grover raises this, the exercise is over. Not after a final demonstration, not once someone has finished proving a point. Over."
+
+"Can we ask why?" Thalia said.
+
+"After you've stopped."
+
+She examined the cloth and nodded. He had not lectured her about having better judgment than the average demigod. He'd given her a rule she could follow even when her judgment was under pressure.
+
+Annabeth wrote the signal beside her measurements. Clarisse checked the rope knots and handed one end to Percy. He fastened it around a post on the practice map Chiron had set up in the porch's sheltered corner. It held when she pulled against it.
+
+"At least you can tie a knot," she said.
+
+"My childhood was very educational."
+
+He regretted the phrase as soon as he said it. In this life, other people remembered his undersea childhood better than he did. Clarisse had never seen the rope lessons Triton had apparently given him. She only watched him test the knot and told him to leave an extra loop for the guard's hand. He did.
+
+At breakfast Jason had already claimed a place beside Ella. His visit had been arranged for the demonstration, and he wanted to help take readings. Ella gave him a separate sheet for cloud cover while she kept the official measurements herself. Jason looked disappointed until Percy pointed out that two independent records would be useful if the wind changed quickly.
+
+"Can I watch from the nearest marker?" Jason asked.
+
+"The marked observation point," Thalia said.
+
+"That's what I meant."
+
+"No, it wasn't."
+
+They could have fought about it for another twenty minutes. Instead Annabeth showed him the map and asked where he could stand without blocking Grover's view of the orange cloth. Jason worked it out for himself. He moved his name on the diagram, then asked Chiron to approve the position.
+
+Silena poured tea while they checked the equipment lists. She noticed that the spare wool blankets had been placed beside the wet-weather crates, where their wrapping could get soaked. Clarisse helped her move them beneath the Big House overhang. It took two minutes and felt humiliatingly ordinary compared with the storm Percy hoped to touch.
+
+On the walk to the coast, Annabeth came alongside him. Her sketchbook was tucked beneath her jacket.
+
+"You wanted today to be spectacular," she said.
+
+"I'd settle for interesting."
+
+"You don't sound convinced."
+
+"I've spent half the morning looking at rope."
+
+"You're going to spend the rest of it working near electricity and moving water. It's all right to prepare."
+
+He smiled. "You sound like Chiron."
+
+"Don't tell him. He'll make me supervise the next drill."
+
+Their hands brushed as they walked. She left her fingers against his for a moment, then withdrew them to hold her paper out of the rain. Nothing dramatic happened. Percy began to understand why that might be worth protecting.
+
 The north shore at nine forty-five looked nothing like the beach during the big storm last year, and Percy was grateful for the difference.
 
 Then, the waves had been house-tall and sideways, the rain had come in sheets, the wind had screamed. Now the Sound was choppy and slate-gray, whitecaps marching in ordinary rows. The sand was damp and firm. The sky was dimming by degrees, clouds thickening overhead, but there were still patches of blue to the west. Gulls wheeled and complained. A couple of naiads watched curiously from the surf, elbows on the water.
@@ -228,6 +308,94 @@ Everyone looked to where Straw Bob the Third stood staked by the pool in his old
 
 ---
 
+They took the scheduled break in the rain shelter at the end of the third exercise. Percy found that his hands were shaking slightly. He tried to hide it by tightening the knot on his jacket cuff, but Clarisse noticed.
+
+"Eat," she said, handing him half a roll.
+
+"I'm not hungry."
+
+"I wasn't collecting votes."
+
+He accepted the bread and discovered he was hungry enough to finish it in three bites. Silena brought the canteen round, making sure Jason and Ella drank before anybody started arguing about the readings. The salt air had left a fine film on everyone's lips. Percy could taste it when he spoke.
+
+Annabeth spread the wet paper across the bench. The current had moved within the marked channel for the first two exercises. In the third, the water had risen briefly at the downstream end, against the direction Percy thought he'd given it.
+
+"That's not what I asked for," he said.
+
+"That's why I've marked it," Annabeth answered.
+
+"Could have been a gust."
+
+"Could have. But the gust would have reached the upper flags too, and they stayed nearly still."
+
+Grover leaned over the map. "There's a small drain beyond that point. A freshwater line from the camp irrigation system."
+
+"The Sound is saltwater," Percy said. "The drain shouldn't affect much."
+
+"Shouldn't isn't the same as won't," Annabeth said. "The fresh stream might change the way the surface moves."
+
+He felt a familiar flash of irritation. He knew water. He knew the tug of currents and how to push against them, how to lift a crest without breaking it. Every time they made a chart, somebody found one more thing that his power wasn't supposed to do.
+
+Then he looked at the paper. Annabeth hadn't written *Percy failed*. She had drawn two arrows, one for the command he'd given and one for the movement that followed. The arrows disagreed. Neither could be corrected by his pride.
+
+"All right," he said. "Let's trace the drain."
+
+"Only from the dry side," Chiron said.
+
+They walked to the inspection point. Clarisse carried the measuring line. Percy knelt at the bank and watched a narrow freshwater runnel meet the saltwater channel, clouding it for a few feet before the current dispersed it. The mixing point wasn't dangerous by itself. It was simply something they hadn't accounted for.
+
+"I'll keep the next exercise above it," Percy said.
+
+"No," Annabeth said. "If we move the test section without checking the boundaries, we've changed the experiment."
+
+He sat back on his heels. "Then what do you propose?"
+
+"Record the mismatch. Continue with the next approved pattern only if Chiron thinks the observation doesn't invalidate the safety limits."
+
+Grover looked at the orange flag and then at Chiron. He had the odd expression of someone realizing the job he'd agreed to do actually mattered. The centaur asked Ella to record the drain's position, then checked that the warm section of the channel remained inside the observation line.
+
+"The anomaly is outside the energized part of the next drill," he said finally. "We will not increase charge. We may continue with the original plan and treat that downstream measurement as unverified."
+
+Percy wanted to argue for a second chance to make the water behave properly. He could feel the shape of the current now; repeating the maneuver would have been easy. But he'd agreed that this wasn't a contest. The point of keeping the record was that no one had to erase a failed observation to believe in a successful day.
+
+Thalia sat on the low wall beside him while the others collected equipment.
+
+"You don't like leaving it unresolved," she said.
+
+"Neither do you."
+
+"I hate it."
+
+"So why aren't you arguing?"
+
+"Because Jason's watching."
+
+Percy turned. Jason stood beside Ella, copying the drain location into his own notes with painstaking care. His tongue stuck out of one corner of his mouth. He had missed nothing of the exchange.
+
+"He knows you're good at this," Percy said.
+
+"That's not the part I want him to learn."
+
+Thalia drew her wet sleeve back from her wrist. There were faint pale marks there from old training injuries, not new wounds, and Percy wondered how often she'd been told that the sky belonged to her and therefore she ought to use it every time someone asked. She had always sounded more confident than he felt. He'd never asked whether the confidence was exhausting.
+
+"Zeus used to arrive with a different face every time," she said quietly. "Some days he'd tell me I was the only one who could hear the storm. Next time he might act as if he didn't know me. I spent years trying to do something he couldn't ignore."
+
+Percy kept still. This wasn't a story about the erased life. It was hers, lived here, and she had chosen to tell it.
+
+"And today?" he asked.
+
+"Today I can stop before the clouds ask me to."
+
+He looked toward Annabeth, who was examining the charge meter with the technician. "You do know she worries about you."
+
+"I worry about her."
+
+"That's not the same thing as asking what she wants."
+
+Thalia gave him a sideways look. "I didn't say it was."
+
+She got to her feet when Annabeth called for the observation sheets. Percy handed the damp roll wrapper to Grover for the rubbish bag. He felt less strong than he had before the break, but more certain of what the next exercise was meant to show. A controlled attempt could end with a question. They did not need to risk another attempt simply to turn the question into a cleaner story.
+
 By Drill Four the spring storm had moved overhead in earnest, and practice felt deliciously real without ever tipping into danger.
 
 The sky had gone the color of old bronze, then bruised purple-gray. Rain fell steadily, then sideways in gusts. Thunder rolled continuously far above, not cracking close, just growling as charge moved through high cloud. On the hill Malcolm managed the grounding cables while Jason checked the readings beside him, so the air never went sharp or scary. The hair on Percy's arms lifted, then settled, lifted, then settled, as the system breathed.
@@ -297,6 +465,369 @@ At the top twelve-year-old Jason waited with hot towels, delighted to be helping
 "Clean work," Thalia agreed, leaning into her brother's side for a second before straightening. "Baby sister initiated three times. Tell Mom."
 
 "I will," Jason said solemnly. "She'll burst with pride."
+
+---
+
+Chiron ended the drill when the next gust shifted the rain toward the outer markers.
+
+The change was small, but it mattered. The exercise was meant to test how Percy and the Grace siblings could work in difficult weather under supervision. It was not meant to turn a developing storm into a contest about who could keep going longest.
+
+"All charge work stops," Chiron called. "Everyone to the sheltered marker. Walk, don't run."
+
+Annabeth lowered her hands. The faint static around her fingers disappeared, but she still looked irritated. She had been building a controlled path toward the grounding plate, and she wanted another attempt before the rain grew heavier.
+
+"One more," she said.
+
+Thalia shook her head. "No."
+
+"I was close."
+
+"That isn't the safety criterion."
+
+Annabeth looked toward Chiron. The centaur had already given the stop order. She exhaled, nodded and went with her sister toward the marked shelter.
+
+Percy had been holding a shallow channel across the sand to keep water away from the equipment. As he released it, the runoff began finding its own path. The channel had kept one side of the practice area dry, but now there was a little pool beside the grounded conductors, and the people responsible for removing them would have to step around it.
+
+"Can I drain that?" he asked.
+
+"Not with a power surge," Chiron replied. "Use the ordinary runoff cut. Clarisse, please help him clear the gravel."
+
+They took a shovel and worked while Grover kept the other campers behind the rope. Percy could feel the temptation to make the sand behave instantly. But the drain was blocked by grit, not by a magical problem. Five minutes of work moved the water into the safe collection trench. It was less impressive than a wave, and the equipment crew thanked them more warmly than Percy had expected.
+
+Will checked the trainees before they left the shore. Annabeth's hands were cold and trembling a little. Jason had a headache from the noise and wind. Thalia was exhausted in a way she tried to disguise with jokes. Percy felt a dull ache behind his eyes after concentrating on the channel through several drills.
+
+"Nobody goes back into the storm to prove they're fine," Will said.
+
+"Do I look like I need to prove something?" Clarisse asked.
+
+"Yes."
+
+"Rude."
+
+"Accurate," Silena said.
+
+The checks took longer than anyone wanted. Will asked about dizziness, vision and numbness. He made sure everybody could walk steadily and that nobody had strained a shoulder or slipped near the water. Jason needed a quiet half hour away from the noise. Annabeth was told to rest her hands before training again. Percy promised not to try a second current exercise that evening.
+
+Chiron called the group together under the shelter and laid their record sheets on a dry board.
+
+"What succeeded?" he asked.
+
+"Controlled discharge remained inside the marked path," Thalia said. "Until the wind shifted."
+
+"The change in weather didn't cause an electrical failure," Annabeth added. "We stopped before it could become one."
+
+"And what do we need to improve?"
+
+Percy pointed to the runoff pool beside the conductors. "Our water plan protected the equipment during the drills but didn't account for what happened after we released the channel."
+
+"Good observation."
+
+Silena wrote it down. Clarisse suggested making the collection trench deeper before the next session. Jason wanted the check-in calls repeated twice because he had missed the first warning beneath the sound of thunder.
+
+Chiron accepted the suggestions and made the next drill provisional on those repairs and the trainees' recovery. He did not set a date immediately.
+
+By the time they left the beach, the rain had begun to ease. The storm was no longer a challenge to master. It was weather, moving according to forces larger than any of them, and the camp had done what a training exercise should teach: practiced, recognized limits and stopped.
+
+Percy walked up the hill beside Annabeth. Their hands were too tired to hold for long, so they kept brushing shoulders instead.
+
+"Are you upset we stopped?" he asked.
+
+"A little."
+
+"Me too."
+
+She looked at him. "That doesn't mean Chiron was wrong."
+
+"No."
+
+"Then tomorrow we can write a better plan."
+
+"Tomorrow," he said. "After we rest."
+
+She smiled faintly. "You're learning."
+
+
+---
+
+By the time they finished bringing in the markers, the storm had diminished to a steady cold rain. The younger observers were allowed to return to the pavilion, but Jason insisted on helping Ella secure the tablets. The wax had survived the water; one of the labels had not.
+
+"That one says west channel," he told her.
+
+"It says west channel and a number," Ella replied.
+
+"The number dissolved."
+
+"Then we keep the measurement and mark its position as uncertain."
+
+"Couldn't we ask Percy what it was?"
+
+"Percy did not write it. Percy does not know."
+
+Jason studied her for a long moment and then made a careful cross beside the field on his duplicate sheet. Percy, passing with the rope over his shoulder, watched the decision with more interest than he'd expected. Jason had come hoping to see his sisters command the weather. He was learning what to do when a record was inadequate.
+
+A little farther along the beach, one of the younger campers who'd volunteered to collect the spare flags stood shivering beside the equipment basket. She had been out of the water the entire time, but her raincoat had leaked at the collar and her fingers had gone clumsy. She kept trying to tie the bundle as if admitting the knot was too much would get her taken off the next watch.
+
+Silena noticed first. She put a dry cloak around the girl's shoulders and called Will over. Percy set down the rope and moved the flag basket out of the wind.
+
+"I can finish," the girl insisted.
+
+"You finished your shift," Silena said. "That's what a shift means."
+
+Will checked her hands, asked a few questions, and walked her toward the warm pavilion with another counselor. There was no dramatic injury. There was an ordinary problem that would have become worse if everybody had been too proud to notice.
+
+Clarisse went through the equipment inventory without a word. She counted the flags, checked the wooden staffs for cracks and found two bent pins where the rope anchors had been dragged sideways by the wind.
+
+"Those don't go back into the training kit," she said.
+
+"Can you straighten them?" Percy asked.
+
+"I could. Then somebody might trust a pin that's already bent once." She dropped them into the damaged-equipment pouch. "We have new ones."
+
+Percy thought of Triton's older training habits: repair what could be repaired, replace what should not be trusted. Except the thought wasn't a memory of a lesson he could recall. It was something he'd been told about his old childhood, something he was beginning to learn for himself here, at camp, under rain that could soak straight through a birthday shirt.
+
+Thalia walked beside Jason toward the observation post. She'd checked his coat twice already. He finally stopped and looked up at her.
+
+"I'm not freezing," he said.
+
+"I didn't say you were."
+
+"Then stop touching my collar."
+
+She pulled her hands back. Percy saw the effort it cost her. Thalia could command the clouds, and she could not command this particular thirteen-year-old boy to enjoy being fussed over.
+
+"You did good work today," she said.
+
+Jason straightened. "Ella said I missed one number."
+
+"She told you where you missed it. That's part of doing good work."
+
+He kicked at the wet sand. "At my camp I wouldn't be the youngest one standing around with a piece of paper."
+
+"At your camp you'd still have instructions to follow."
+
+"I know." The answer was sharp, then quieter. "I wanted you to see I'm not little."
+
+"I see that."
+
+"Do you?"
+
+Thalia sat on a driftwood log so their eyes were level. She didn't use the voice she wore when confronting Zeus. She spoke as though this was a real question with an answer she might get wrong.
+
+"Yes. I also saw somebody who listened to Ella, admitted a gap and didn't try to make a number up. That looks older to me than standing too close to a storm just to prove you can."
+
+He turned the words over without smiling. Then he handed her his copy of the measurements.
+
+"Will you check the total?"
+
+"Yes."
+
+They bent over the sheet together. Percy went past without interrupting. The sky above the Sound was opening in ragged pale seams. Rain ran down the back of his neck. He had held a current steady for a few minutes, and he was glad of it. He was equally glad no one had needed him to keep holding it after the stop was called.
+
+The drill did not end when the wind dropped. Chiron called everyone back to the Big House porch to review the readings, and Percy discovered that he had written down only the exciting part: the moment the water moved as ordered. Annabeth's page held a second column of measurements, including two they could not explain.
+
+"The charge rose before I gave the signal," she said.
+
+Thalia looked at the numbers. "Then the water wasn't responding only to you."
+
+"Which is why we stop using the channel until we know what happened," Chiron said.
+
+Percy had been about to suggest another quick trial. He closed his mouth. He'd seen the way Annabeth's fingers trembled afterward, and he could still feel a dull ache behind his own eyes. They hadn't failed, but neither had they demonstrated a method that was safe to repeat.
+
+Grover reported the boundary markers he'd checked. Two had been obscured by blown branches; none had fallen. Clarisse assigned a repair pair to the markers and Silena recorded the location so they wouldn't have to rely on someone remembering which tree looked familiar in the rain.
+
+"What about our practice?" Percy asked.
+
+"Suspended for now," Chiron answered. "Until we have a clear isolation plan and someone independent of the exercise can end it."
+
+Annabeth nodded. She looked disappointed, not defeated. She had already begun drawing a new diagram with a dry section separating the conductive channel from the observation point.
+
+"We'll need a cutoff," she said.
+
+"And a reason to believe it works," Thalia replied. "Not just a drawing."
+
+Percy offered to help her test the barriers when Chiron approved a safe procedure. He didn't volunteer to be the test subject. Annabeth noticed and squeezed his wrist once.
+
+By the time they returned to the cabin, the storm had become ordinary rain. The observations stayed with Chiron in a dry folder. That was the difference between surviving one attempt and learning from it.
+
+When Chiron dismissed them, the records stayed behind in the Big House. The equipment did not.
+
+Clarisse was waiting on the porch with two sacks of damp rope, a bundle of staffs and the cracked lid of a storage box. Percy looked at the pile and groaned.
+
+"Don't you have a crew?"
+
+"You're looking at it. I sent the younger campers to get warm."
+
+Silena arrived from the infirmary with news that the chilled flag runner was fine. She had stayed with Will long enough to find the girl's missing gloves, which had been caught in the lining of the raincoat. Percy had imagined Silena would want to go straight to the cabin and curl up under a blanket. Instead she took one sack of rope, looked at the soaked fibers and started making a list of what would need drying before it could be used again.
+
+"You're not carrying everything," Clarisse said.
+
+"I'm carrying a bag, not the camp."
+
+"You've been on your feet all day."
+
+"So have you."
+
+The older sister started to argue. Silena put the sack over her shoulder, and the argument ended because Clarisse knew when insisting would become treating someone she loved as an incompetent child.
+
+They reached the shed by the arena with rain gathering in the worn places between the paving stones. A pair of Apollo campers had cleared a space beneath the eaves. Percy hung the rope in loose coils, leaving air between the turns. Clarisse examined each staff and marked its owner. Silena sorted the damp cloth flags by color and condition.
+
+"There's going to be another storm," she said. "We might as well have the equipment ready for the next one."
+
+"We may not be doing the same exercise," Percy pointed out.
+
+"Then someone else will need dry rope."
+
+Annabeth had followed them with her notebook. She stopped in the doorway rather than reaching for another task. Percy could tell she was tired; her usually neat hair had escaped the braid at both temples, and she kept flexing her right hand after hours of holding a pencil.
+
+"Could you check the inventory totals?" Silena asked her.
+
+"Of course." Annabeth set down the notebook and counted the stacks. "Three orange flags, two blue, one torn white. Fourteen rope lengths, one damaged. Eleven posts returned."
+
+"There were twelve," Clarisse said.
+
+"One is still at the beach."
+
+Percy closed his eyes. The missing post was the one he'd used to secure the line near the freshwater drain. He had removed the rope but left the post because he was watching the cloud cover change. He could have invented a reason why the post didn't matter. He didn't.
+
+"I left it," he said. "I'll go back."
+
+"Not alone," Clarisse replied.
+
+"The drill's over."
+
+"And the tide isn't. I'll come."
+
+Percy was prepared for another argument. Then Annabeth surprised him by putting a hand against the door.
+
+"I'm coming too. I want to check something on the drainage sketch."
+
+Silena waved them off with a promise not to let the drying ropes touch the floor. She remained in the shed because there was a real job she wanted to finish, and because she had no interest in trekking back across wet sand to recover Percy's mistake.
+
+On the beach the wind had died enough to make the loose clouds seem almost motionless. The missing post stood near the drainage point. Percy pulled it from the sand with both hands. Mud clung to its lower half, thick and black, smelling of grass rather than salt. Annabeth crouched to compare the drain's position against the high-water mark.
+
+"I drew it farther inland," she said.
+
+"You drew what we could see this morning."
+
+"That's the problem. I treated the map as if the waterline would hold still."
+
+Percy balanced the post on one shoulder. "The waterline doesn't know about your schedule."
+
+"I know that."
+
+"You sound annoyed with the entire ocean."
+
+"I'm annoyed with my map."
+
+Clarisse watched the two of them for a moment and then walked back toward the path, leaving them the space without making a show of granting it. Percy heard her boots on the gravel as he sat beside Annabeth on a broad stone above the tide.
+
+She folded her notebook closed. The salt had curled its edges.
+
+"Did you feel it?" she asked.
+
+"The drain?"
+
+"No. Earlier, when the charge reached the channel. Just before we stopped."
+
+Percy considered. The sky had been dark, full of force that wasn't his. Annabeth had stood across the observation line, one arm raised. The current responded to him, but it had carried something from her too, a thin change in pressure at the surface. For a second the old instinct had returned: protect her first, understand later. The instinct had once kept them alive in places where understanding took more time than they had.
+
+"Yes," he said.
+
+"I was afraid you'd keep holding it because I was still standing there."
+
+"That crossed my mind."
+
+"You didn't."
+
+"Grover had the flag."
+
+"Not every decision can come from a flag."
+
+He looked at her. She wasn't asking him to apologize for surviving Tartarus or for learning to act when there was no room for debate. She was asking him to notice that they were not there anymore. They had camp, Chiron, boundaries and other people who could share the job of keeping them safe. This life didn't need him to guess every danger a heartbeat early.
+
+"I wanted to keep going," he admitted. "I was proud of us. I didn't want an ordinary gust to tell me when to stop."
+
+"Was it only pride?"
+
+"No." He hesitated. "Sometimes if I stop using what I can do, I feel like I'm waiting for something bad to happen. Like if I practice enough, I can make sure you never have to go through what we remember."
+
+She watched the gray water. "I know."
+
+"I know you know. I still hate saying it."
+
+"Then say it once."
+
+He took her hand. It was cold from the rain, with graphite in the lines of her fingers. Her grip was steady.
+
+"Nothing about today reminded me of being helpless," he said. "But I wanted to prove I wasn't."
+
+Annabeth leaned her head lightly against his shoulder. "I was trying to prove I can control all of it."
+
+"You can't."
+
+"Thank you. Very comforting."
+
+"I can't either."
+
+She laughed, once, without much force. It was enough.
+
+They remained until the surface of the channel had settled and the last floating leaf disappeared into the Sound. Percy thought about how many years they'd spent depending on the other person to be brave at precisely the right moment. Today she'd done something harder than courage. She'd taken an incomplete measurement and let it stay incomplete. He'd let someone else end the work.
+
+"I liked it," she said eventually.
+
+"The drill?"
+
+"The part before it became complicated. The water moving where you asked, the air humming. We were good together."
+
+"We are good together."
+
+"I know. I'm allowed to enjoy that without wanting to do it again tomorrow."
+
+"Chiron would probably say the same."
+
+"Please don't compare me to Chiron when I'm trying to be romantic."
+
+He smiled and kissed her forehead. It was a brief kiss, salt and damp curls and the kind of tenderness neither of them needed to hide.
+
+"All right," he said. "Then I'll say I liked it too."
+
+They walked back carrying the post between them, an unnecessarily shared burden that made Annabeth accuse him of inventing work just to keep holding her hand. He didn't deny it.
+
+At the shed Silena had finished the inventory. Clarisse had put the damaged pins in a bag marked for replacement. Thalia and Jason waited outside with a bundle of folded blankets. The Roman boy was telling his sister how Ella had corrected his cloud observations; she was listening without pretending she'd made the same measurements herself.
+
+"Found your post," Clarisse said.
+
+"Found our mistake," Percy replied.
+
+"That's not an inventory category."
+
+"Maybe it should be."
+
+Silena gave him a dry towel. "Here's another category: people who should shower before they drip on my blankets."
+
+It was a reasonable demand. For once, Percy obeyed without arguing.
+
+He paused at the equipment shed door and looked back. The damp coils were suspended above the floor, the damaged items separated, the returned staffs standing in a rack instead of a heap. Every object was where somebody could find it. It was a small satisfaction, hardly worthy of a victory song, and it belonged to more people than the ones who'd stood in the channel.
+
+Silena caught him lingering. "What?"
+
+"Nothing. It looks good."
+
+"Of course it does. I organized it."
+
+"That's why I said it."
+
+Clarisse pretended to be insulted that nobody had praised her knots. Thalia offered to inspect them and declared one insufficiently dignified for an arena commander. They were halfway into a ridiculous argument when Jason interrupted to ask where the official cloud record would be kept.
+
+"With Chiron," Percy said. "Ella has the first copy."
+
+"And the one I wrote?"
+
+"You keep it if you want," Thalia answered. "Just mark that it's not the official one."
+
+Jason folded the damp sheet into his bag with care. Percy wondered what he would tell the Romans about the day. There had been no miraculous victory and no enemy to name. He hoped Jason would mention the signal they obeyed, the numbers they couldn't explain and the rope that held even after the weather changed.
+
+He also hoped his brother would mention the biscuits Silena had packed, because Jason had eaten four.
 
 ---
 

@@ -4,7 +4,6 @@ The shrine was finished just after lunch, though nobody could agree on exactly w
 
 ---
 
-### Percy — Morning
 
 Percy woke up knowing what day it was before he even opened his eyes.
 
@@ -66,11 +65,120 @@ Across the table Thalia was watching them with an expression that was trying ver
 
 ---
 
-### Annabeth — Late Morning
+
+Percy was halfway down the path to the hollow when he found Nico standing beside a pile of stones, looking furious.
+
+"Morning," Percy said.
+
+Nico didn't look up. "The path's wrong."
+
+Percy looked at the path. It was the same narrow track they'd used for weeks, winding from the strawberry fields through the grass. Grover had marked the edge with smooth stones so campers could find their way without trampling the new plants. Nothing appeared to be missing.
+
+"Wrong how?"
+
+"Try walking along it without looking down."
+
+Percy did. He made it four steps before his sneaker caught the raised edge of a limestone piece near a tree root. He stumbled and caught himself on the trunk.
+
+"All right," he said. "That's not great."
+
+Nico pointed to a smaller gap farther down. "And that one's worse. Bianca helped carry the tiles yesterday. She caught her shoe there and almost dropped the whole crate."
+
+Percy crouched beside the stone. The path was hard-packed earth, and a few of the edging pieces had shifted after rain. He'd been moving along it so often that he'd learned where to put his feet. A person coming to the dedication for the first time wouldn't know.
+
+"Have you told Annabeth?"
+
+"She's already worried about the roof and the inscription and whether the sunlight will reach the middle. I don't want to show up and tell her she did something wrong."
+
+"She'd rather know."
+
+"Probably. But I can still hate telling her."
+
+Percy considered. He had spent enough time around Annabeth to recognize that her first reaction to a problem on a finished project was usually to imagine all the work she'd need to redo. Her second reaction was to solve it. Nico hadn't yet learned to wait through the first.
+
+"Come with me," Percy said.
+
+They found Annabeth by the workbench outside the hollow, measuring a short board that was supposed to sit beneath the offering bowl. She had three notebooks open and a pencil balanced behind each ear, one of which promptly fell out when she looked up.
+
+"You're early," she said.
+
+"There's a problem with the path," Percy answered.
+
+Annabeth froze. "What kind of problem?"
+
+"Two stones are raised. Nico noticed. Bianca nearly tripped yesterday."
+
+She put down the board. "Where?"
+
+They showed her. Annabeth walked the path once, then again from the opposite direction. She knelt by the limestone piece, pressed on it, and saw the corner shift beneath her hand.
+
+"I thought we'd bedded that properly," she said.
+
+"We did," Percy replied. "The rain washed some dirt out."
+
+"I should have checked yesterday."
+
+Nico looked uncomfortable. "I saw it yesterday, but I thought it was only one stone."
+
+Annabeth took a breath, then glanced at him.
+
+"Thank you for telling me now," she said.
+
+He relaxed a fraction.
+
+"We could put a plank over it for the ceremony," Percy suggested.
+
+"No. Somebody would step off it, and we'd have the same problem at the edge. We need to reset the stones."
+
+"Can we do it before everyone arrives?"
+
+"Maybe. If we stop trying to make it invisible."
+
+She fetched a spade and a small level from the workbench. Percy carried a bucket of gravel from the pile beside the shed, while Nico went to ask whether Grover could identify the roots beneath the edge of the path. Annabeth didn't want to damage the trees to save a few minutes.
+
+Grover arrived with soil on his knees, listened to the problem, and showed them which exposed roots they needed to avoid. They moved the loose limestone, added gravel beneath it, packed the soil around the edge and tested it again. The corner stayed down.
+
+The second gap was harder. It was near a bend where people naturally stepped toward the outside of the path. The gravel was wet and wouldn't hold in the shallow hole.
+
+"We need another solution," Annabeth said.
+
+Percy looked toward the old timber scraps. "Could we widen the path on the inside instead? Move the marker stones, not the roots."
+
+Annabeth examined the curve. The proposal would shift the walking line half a step away from the tree and give visitors more room to pass each other. She had been thinking about patching the hole because the hole was what Nico had pointed out. Percy had looked at the route instead.
+
+"That might work," she said. "Let's measure it."
+
+They moved the marking stones, cut a shallow channel to carry rainwater away from the inside edge and packed the new walking surface. Then Nico walked it, followed by Percy carrying a tray held at shoulder height so he couldn't see his feet. Both made it without catching a shoe.
+
+Annabeth watched the third trial, made by Grover with the hem of his cloak hanging down. She could still see places she wanted to improve. The route was safer than it had been an hour ago, and nobody had had to move a root or hide the problem beneath a piece of wood.
+
+"Do we tell everyone about the change?" Nico asked.
+
+"We put a sign at the entrance so people know the path's been widened," Annabeth said. "And after the ceremony, I'll check it again. It still needs to stand up to the next rain."
+
+Percy looked at her. "You didn't get upset."
+
+"I got upset. I just had a better use for the time."
+
+She smiled, then glanced at the clock on the workbench.
+
+"Oh, gods. I still have to finish the offering bowl."
+
+"Then go," Percy said. "We'll clean the tools and put the signs out."
+
+Annabeth hesitated. She was used to staying until the last job was complete, partly because she didn't trust anybody else to notice what needed doing. The three boys were already gathering the buckets. They knew where everything belonged.
+
+"Thank you," she said.
+
+Nico looked pleased. He had expected to ruin the dedication by bringing bad news. Instead they'd fixed something that might have hurt a guest. Percy showed him how to brush the remaining gravel off the path without scattering it into the roots, and Grover returned the borrowed spade to the shed.
+
+By the time the first visitors arrived, the path was level. Nobody would know how recently it had been changed unless they read the small sign by the tree. Percy liked that. The work had succeeded because people could use the path without having to think about it.
+
+---
 
 Annabeth had built things before.
 
-She'd built a scale model of Olympus out of toothpicks when she was seven that her dad still kept on a shelf. She'd built traps and bridges and siege ladders at camp. She'd helped rebuild cabins after the war games went wrong.
+In the life she remembered, she'd built a scale model of Olympus out of toothpicks at seven, which Frederick Chase had kept on a shelf. She'd built traps and bridges and siege ladders at camp. She'd helped rebuild cabins after the war games went wrong.
 
 This was different.
 
@@ -126,11 +234,118 @@ They sat there while the light moved a fraction of an inch across the altar, and
 
 ---
 
-### Thalia — Noon
+
+Chiron arrived before the other guests.
+
+Annabeth was still sitting beside Percy on the mosaic when she heard the familiar sound of hooves on the path. She stood so quickly that Percy nearly lost his balance, then brushed invisible dust from the front of her shirt.
+
+"You're early," she said.
+
+"I wanted to see the finished work before the dedication," Chiron replied. "And to ask you something while we can speak privately."
+
+Annabeth looked at the offering bowl. She had checked the measurements, the path and every visible joint. She had submitted a sketch of the intended ceremony weeks earlier. There shouldn't have been another problem.
+
+"What's wrong?"
+
+"Nothing that I know of. But I want to understand what the space is for."
+
+She relaxed a little. "It's for people who need somewhere quiet. They can leave something that matters to them, or just sit. The inscription explains it."
+
+"I read the inscription," Chiron said. "I also saw that you've built an altar-shaped table and placed it within the camp's wards. Some campers may assume this is an official shrine to a god. Have you thought about what you'll say when they ask which one?"
+
+Annabeth stared at the table. She'd avoided carving any divine symbol on it. The design included things she loved, like the owl in the mosaic, but also waves and stars and knots and patterns that belonged to her friends. She had thought the meaning would be obvious.
+
+"It's not to Zeus," she said.
+
+Percy glanced at her, then at Chiron. He understood why that was the first name that came to mind. Zeus could be kind on one visit and frightening on the next. Annabeth didn't want him claiming her project simply because he was her father.
+
+"I didn't say it was," Chiron replied.
+
+"Or Athena. I learned from her in the life I remember, but that doesn't make this a temple for her either."
+
+"Then perhaps you should make that clear to the people who use it."
+
+Annabeth considered. "We could put a notice beside the entrance. It can explain that the bowl is for small personal objects. No fires, no blood offerings, nothing dangerous."
+
+"That's practical. But what about somebody who wants to pray?"
+
+She hesitated. "They can pray. I don't want to tell people what they're allowed to think in a place I built so they could feel welcome."
+
+"Then the distinction is between a place where people may practice a private devotion and a place that claims the authority of a particular god," Chiron said.
+
+"Yes. Exactly."
+
+Percy had been listening. "Would the gods mind?"
+
+"I can't promise you what any god will think of anything," Chiron replied. "What I can tell you is that you're not required to dedicate every useful thing you make to the deity whose name appears on your cabin."
+
+Annabeth looked down at the mosaic. She had been afraid somebody would tell her that being Zeus's daughter meant her work belonged to him, even when he wasn't there to see it. Hearing Chiron say otherwise didn't remove the fear, but it gave her language for the choice she'd already made.
+
+"Then I want it to stay a place for people," she said. "Nobody gets first claim because of their parent."
+
+Chiron nodded. "Who will care for it after today?"
+
+"All of us."
+
+"That is a good intention. How will you make sure it's possible?"
+
+Annabeth could have told him they would keep it clean and the roof sound. She had a maintenance schedule already written in her notebook. But Chiron's question had another part, and she heard it as soon as Percy looked toward the path.
+
+"What if somebody comes here who isn't one of the eight friends helping today?" Percy asked.
+
+"They're welcome," Annabeth said.
+
+"What if they move things around? Or they want to put an offering where you didn't plan one?"
+
+She felt a sharp resistance. She had spent weeks deciding where each stone belonged. She'd wanted the completed space to look the way she imagined it. A visitor moving objects around would break the arrangement.
+
+"Then we explain which things are permanent and which things they can change," she said slowly. "The structure has to stay safe, but the bowl can be used. That's why it's there."
+
+Chiron looked pleased. "I suggest you write that down with the other rules. Then the people who arrive after you've gone to your next lesson won't need to guess."
+
+Annabeth could do that. She had imagined the shrine as a completed gift. It had to become a place people could keep using without asking her every time.
+
+Percy picked up the little cloth she'd used to cover the offering bowl. "Can you leave room for someone who doesn't bring anything?"
+
+"Yes."
+
+"Good. I think Grover will want to sit here with his pipes sometimes."
+
+"He helped build it. Of course he can."
+
+"I know. I mean other people too."
+
+Annabeth looked at him. He was not accusing her of trying to keep the place for herself. He was asking whether the place she wanted to give away could survive being used in ways she hadn't chosen.
+
+"Other people too," she said.
+
+They walked once around the mosaic with Chiron. Annabeth showed him the sections of roof and the spots she wanted checked after heavy rain. He approved the small sign explaining the purpose of the hollow, then stepped back toward the path so she could finish preparing for the ceremony.
+
+At the entrance he stopped.
+
+"Annabeth?"
+
+"Yes?"
+
+"You have built a beautiful structure. Now other people will begin making memories in it. Some of those memories may have very little to do with what you intended. That doesn't mean the design has failed."
+
+She nodded. The idea was more unsettling than a crooked tile. She wasn't sure she liked it. But she had asked Percy to help her build a place where people could be themselves. She couldn't insist on directing what they did once they arrived.
+
+After Chiron left, Percy helped her place the sign beside the path. She read the wording aloud, changed one sentence that sounded too formal, then set down the pencil.
+
+"You ready?" he asked.
+
+"No."
+
+"Good. Neither am I."
+
+She laughed. He took her hand, and together they waited for the others.
+
+---
 
 Thalia was nervous, which annoyed her.
 
-She didn't get nervous. She got angry, she got reckless, she got loud. Nervous was for — well, not for daughters of Zeus who'd run with the Hunt and stared down Luke and lived to tell about it.
+She didn't get nervous. She got angry, she got reckless, she got loud. Nervous was for other people, she'd told herself, not for daughters of Zeus who'd crossed monster-haunted roads with Luke and lived to tell about it.
 
 But standing on the path with the others, waiting to go in, her hands were actually sweating.
 
@@ -186,7 +401,6 @@ Then Percy stepped forward.
 
 ---
 
-### Percy — The Shell
 
 Percy had been carrying the shell for a week.
 
@@ -218,9 +432,8 @@ Thalia went next, striding forward like she was going into battle, which for Tha
 
 ---
 
-### Thalia — The Spark
 
-Thalia hated talking about feelings in front of people. The Hunt had taught her to keep things short. Artemis didn't go in for long speeches.
+Thalia hated talking about feelings in front of people. The years she'd spent defending Annabeth had taught her to keep important words short.
 
 So she didn't make a speech. She just held up the little vial, where the spark snapped and glowed.
 
@@ -242,7 +455,6 @@ Clarisse stepped forward next, and Thalia was genuinely curious, because Clariss
 
 ---
 
-### Clarisse — The Panther
 
 Clarisse La Rue did not cry at dedications. Clarisse La Rue did not cry at funerals, at movies, at anything. This was a known fact, like Ares liked war and the Stolls liked stealing.
 
@@ -278,7 +490,6 @@ Silena went next, unfolding her paper with shaking hands.
 
 ---
 
-### Silena — The Poem
 
 Silena Beauregard believed in love the way Annabeth believed in architecture: completely, structurally, down to the foundation.
 
@@ -322,7 +533,6 @@ Grover stepped forward next, twisting his cap in his hands.
 
 ---
 
-### Grover — The Reed
 
 Grover Underwood had been talking to the hollow for weeks.
 
@@ -366,7 +576,6 @@ Ella fluttered forward next before anyone called on her, clutching something wra
 
 ---
 
-### Ella — The Snack
 
 Ella the harpy did not understand ceremonies the way demigods did, but she understood important nests.
 
@@ -394,7 +603,6 @@ Nico stepped forward next, so quietly most of them didn't notice until he was al
 
 ---
 
-### Nico — The Flower
 
 Nico di Angelo hated being looked at.
 
@@ -414,7 +622,7 @@ A flower that could bloom where nothing else could. That was what he'd wanted to
 
 He set it down in the bowl. It pulsed softly next to Thalia's spark, shadow and light not fighting, just sitting together.
 
-"It's for —" Nico started, voice barely audible. He cleared his throat. "It's for people who aren't here. Who can't be here." He didn't look at anyone, but everybody thought of Bianca, of Zoe's old Hunt sisters, of Luke, of all the names carved on the dining pavilion's memorial. "So they have something too. So it's not just — bright things. So the dark has a place."
+"It's for —" Nico started, voice barely audible. He cleared his throat. "It's for people who aren't here. Who can't be here." He didn't look at anyone, but everybody thought of friends they had lost, of the families they could not reach, of people whose names they did not want to let disappear. "So they have something too. So it's not just — bright things. So the dark has a place."
 
 Silence, deep and respectful.
 
@@ -428,15 +636,12 @@ Zoe was last. She walked forward with measured steps, spine straight, chin high.
 
 ---
 
-### Zoe — The Knot
 
-Zoe Nightshade had lived for thousands of years, and she had seen shrines rise and fall.
-
-She had seen marble temples to Artemis crumble to dust. She had seen roadside altars of stacked stones outlast palaces. She knew what lasted was not gold or size but care. Attention. The daily small devotions.
+Zoe Nightshade had spent enough time studying old ritual sites to know that the size of an offering said very little about the care behind it. Some inscriptions survived for centuries because someone returned to clean them. Others disappeared because no one checked the stone after the first winter. What lasted was not necessarily what looked impressive on the day it was built.
 
 She had watched this girl — this Annabeth, daughter of Zeus in this telling, brilliant and stubborn and tender-hearted — measure and remeasure, refuse to cut corners, weep over a crooked tile and then reset it by hand. Zoe had watched this boy — Percy, son of Poseidon — carry beams without complaint, hold ladders, bring lemonade, love without performance.
 
-It reminded her of the Hunt at its best. Sisterhood. Purpose without cruelty.
+It reminded her of the best work done in the Hecate cabin: one person learning a difficult skill and another making sure she had the tools to finish it.
 
 What she brought was a knot-charm, braided from three cords: one blue-gray wool from her own old cloak, one sea-green thread Percy had given her from a frayed camp shirt, one golden cord Annabeth had used to tie up her blueprints.
 
@@ -446,7 +651,7 @@ It was a lover's knot, technically, but also a friendship knot, a sister knot. A
 
 She laid it in a circle around the other offerings, encompassing them all.
 
-"In the Hunt," Zoe said, her voice clear and accented, carrying easily in the quiet hollow, "we left markers for sisters who fell. A bead. An arrowhead. So the next party would know: she was here. She mattered." She looked at Annabeth. "This is better. This is not for the fallen only. This is for the living who choose to stay and build. That is rarer. That is braver."
+"When we restore a damaged ward," Zoe said, "we mark who repaired it and who checked the work. It matters that somebody was here, and that the next person can see what she did." She looked at Annabeth. "You've made a place people want to look after. That's a good reason to build anything."
 
 Annabeth was crying hard now, shoulders shaking, Percy's arm around her holding her upright.
 
@@ -460,7 +665,6 @@ Annabeth stood in the center of them all, turning slowly to look at each face, a
 
 ---
 
-### Annabeth — Dedication
 
 Annabeth tried to speak and couldn't.
 
@@ -504,7 +708,6 @@ Nobody spoke for a long time. They just stood there together in the quiet, warm 
 
 ---
 
-### Percy — After
 
 They stayed for hours.
 
@@ -538,7 +741,136 @@ Quiet. Warm. No monsters. Just this.
 
 Percy closed his eyes, hand in Annabeth's hand, and let the hollow hold them all.
 
-*End of Chapter 39.*
-
 ---
 
+The next morning, Annabeth found a pebble in the offering bowl that hadn't been there the night before.
+
+It was small and ordinary, with a pale line running across the middle. Somebody had placed it beside Percy's shell and Nico's dark flower. At first she assumed Nico had returned during the night and added something else. Then she saw a folded scrap of paper beneath the pebble.
+
+*For my brother. He can't come to camp yet.*
+
+There was no name.
+
+Annabeth read the words twice. She hadn't expected the space to be used so soon by someone who hadn't attended the dedication. Chiron had told her that other campers would make their own memories there. She'd agreed, but some part of her had still imagined the shrine would remain arranged exactly as it had been yesterday, every object placed by a friend who helped build it.
+
+She looked around the hollow. Nothing else had changed. The path was clear, the roof was dry and the carved inscription held the morning light. Someone had come here because they'd seen the little sign beside the path, then left a stone small enough to fit in a hand.
+
+Annabeth didn't know whether the brother in the note was mortal, divine or simply somewhere the writer couldn't reach. She wanted to know. She had built a place for those who were missed and now realized she would not always be entitled to know the stories behind the things people left there.
+
+A voice came from the path.
+
+"Did I do it wrong?"
+
+A younger camper stood beside the entrance, one hand gripping the strap of his bag. Annabeth recognized him from the Hermes cabin but didn't know him well. He couldn't have been more than ten.
+
+"The pebble?" she asked.
+
+He nodded. "There wasn't anyone here last night. I didn't want to interrupt."
+
+"You didn't do anything wrong."
+
+"Chiron said we could leave small things, but I wasn't sure whether the bowl was just for the people who made it."
+
+Annabeth felt an uncomfortable pinch of recognition. She had spent the morning worrying about whether the placement looked right, and he'd been worrying about whether he was allowed to enter at all.
+
+"It's for anyone who wants to use it," she said. "You can sit here too. You don't have to bring something."
+
+He looked at the bowl. "Is it all right if I don't explain the note?"
+
+"Yes."
+
+He relaxed a little. Then he pointed to the pale line in the pebble.
+
+"My brother found that when we were little. He said it looked like a road. I used to make it go along the lines in our kitchen floor like it was traveling somewhere."
+
+Annabeth smiled. "That's a good use for a pebble."
+
+"He kept it for years. Before I came to camp, he gave it to me so I could remember him."
+
+She was tempted to ask why his brother wasn't here, but stopped. He'd already told her more than he had to.
+
+"Would you like to sit for a while?" she asked.
+
+He nodded. They sat on opposite sides of the mosaic, leaving the path between them open. The boy put down his bag and looked at the patterns in the floor.
+
+"Are these all gods?" he asked.
+
+"No. Some are things we like. Waves for Percy, stars for Thalia and the sky, an owl for me. We used knots because they hold things together."
+
+"Is the owl because you're Athena's daughter?"
+
+Annabeth looked at the carving. She had kept the owl because it belonged to memories she treasured, even though she was Zeus's daughter in this life. It was a question she'd expected from somebody eventually.
+
+"No," she said. "I'm a daughter of Zeus. I like owls because they remind me of something important."
+
+He accepted the answer without asking for the whole history. He was more interested in tracing the path of the mosaic with his finger.
+
+"Can I draw one of these?" he asked.
+
+"Of course."
+
+"Can I change it?"
+
+"You can draw your own version. The tiles need to stay where they are."
+
+He nodded, satisfied with the distinction. Annabeth fetched scrap paper from her bag and showed him how she'd laid out the circles that formed the central pattern. He made a much smaller version with the pebble road passing through it.
+
+After a while he stood to go back to his cabin. He thanked her, folded the drawing and left the pebble in the bowl.
+
+Annabeth stayed a few minutes longer. The offering arrangement was no longer precisely the one she'd planned. The new stone sat between objects given by people she loved, carrying a story she knew only in part. She found she didn't want to move it.
+
+Silena arrived with a small brush and a clean cloth, carrying the tools they had agreed to keep at the entrance for routine cleaning. She stopped when she noticed the pebble.
+
+"That wasn't here yesterday."
+
+"No. Somebody brought it this morning."
+
+"Do you know who?"
+
+Annabeth nodded, then hesitated. The boy hadn't told her she could repeat his story to everyone who helped maintain the shrine.
+
+"I know who left it," she said. "But I don't think we need to write his name beside the offering."
+
+Silena considered. She liked keeping records, and she'd already brought a notebook for objects that might need to be returned. But there was a difference between recording who had borrowed a tool and cataloguing the reasons somebody had left a stone in a quiet place.
+
+"You're right," she said. "We should probably only label things if someone asks us to, or if there's a safety reason."
+
+Annabeth picked up the brush. "We can still check whether anything is sharp or dangerous before leaving it in the bowl."
+
+"And make sure the table isn't overloaded," Silena added.
+
+They worked for a few minutes without touching the offerings. Silena brushed sand from the mosaic edges while Annabeth cleared leaves from the path. When they finished, the little pebble remained precisely where the boy had placed it.
+
+"Are you happy?" Silena asked.
+
+"With the shrine?"
+
+"With having finished it."
+
+Annabeth looked at the roof. There would be repairs in the future and other things she hadn't anticipated. She could already see two sections that needed watching after heavy rain.
+
+"I don't think it's ever going to be finished in the way I expected," she said.
+
+Silena smiled. "Most places people live in aren't."
+
+They returned the tools to their box by the entrance and went their separate ways.
+
+When Percy arrived after dock duty, he saw the new note and looked toward her.
+
+"Somebody came?"
+
+"Yes."
+
+"Did they like it?"
+
+"I think so. He sat here and drew for a while."
+
+Percy read the note without touching the pebble, then folded his hands in his lap.
+
+"That's what you wanted," he said.
+
+Annabeth looked around the hollow. She had wanted to build something that lasted. Yesterday she'd thought that meant making the stone and wood strong enough to survive weather. Today she understood that a place could survive in another way: by letting people she didn't know use it without having to ask her to approve their reasons.
+
+"Yes," she said. "It is."
+
+She opened her notebook to a fresh page and wrote down the first maintenance check. Then she closed it and left the pebble where the visitor had placed it.

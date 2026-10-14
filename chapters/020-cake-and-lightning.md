@@ -238,7 +238,7 @@ They regrouped. They melted butter correctly. They mixed batter. It actually sta
 
 "Now the blue part!" Percy said.
 
-This was important. Everyone at camp had heard Percy talk about Sally and blue food. In his remembered original childhood she had started it when he was little — blue pancakes, blue waffles, blue birthday cake — because Gabe had once said blue food didn't exist and Sally had taken that personally. Here, where she had died when he was two, Percy kept the tradition by always asking for extra blueberry syrup. It was a mom thing he could carry across the missing years. And Thalia had rarely had a birthday their own mother could make easy. He wanted this one to be easy.
+This was important. Percy had been trying to explain why he wanted blue food without explaining memories that did not belong to the twelve years everyone else knew. In his remembered original childhood she had started it when he was little — blue pancakes, blue waffles, blue birthday cake — because Gabe had once said blue food didn't exist and Sally had taken that personally. Here, where Sally had died when he was two, he couldn't honestly claim to have grown up eating that way. He could make blue food now, and keep the more complicated explanation between himself and Annabeth. It was a mom thing he could carry across the missing years. And Thalia had rarely had a birthday their own mother could make easy. He wanted this one to be easy.
 
 So the cake had to be blue. Bluer than the Aegean. Blue like Sally would make.
 
@@ -500,6 +500,206 @@ Thalia rolled over and pretended to sleep before she did something embarrassing 
 
 ---
 
+Thalia found the first invitation by accident. It was wedged beneath the corner of a repair form on Chiron's desk, a little square of paper with a blue border and a carefully drawn lightning bolt. She had come to ask for the next patrol roster. Instead she spent several seconds looking at a document that announced a celebration of her own birthday in much larger letters than she would have chosen.
+
+Chiron reached for the form without embarrassment.
+
+"I take it you've discovered your friends are planning something."
+
+"They've been whispering about it for three days."
+
+"Then I won't insult your intelligence by pretending I haven't heard."
+
+Thalia sat in the chair opposite his desk. The invitation had her name at the top and a line of friendly threats beneath it, most likely Clarisse's contribution. She was fond of the people planning the party. That did not stop her from wondering whether they had decided exactly how she was supposed to feel when everybody began shouting at her.
+
+"Can I ask for one thing?" she said.
+
+"Of course."
+
+"No speeches about how lucky I am to be alive. I don't want the eclipse turned into a birthday lesson. And I don't want anyone saying this is the year I finally get a normal family."
+
+Chiron set down his pen. He had been expecting something like a request for fewer candles or a smaller guest list. He looked at her more carefully.
+
+"Have your friends been saying that?"
+
+"Not directly. But Percy keeps looking as though he's about to make a very moving toast, and Annabeth's been working on a gift for days. I don't want to disappoint them. I just don't want a room full of people waiting for me to cry so they can tell themselves they've fixed something."
+
+"I can speak with the organizers about the speeches," Chiron said. "The feelings are a different matter. You can't control what they hope the day will mean to you."
+
+"I know. I want them to let me have whatever day I actually have."
+
+He nodded and wrote a note to Silena. He did not read it aloud. Thalia was grateful.
+
+When she left the Big House, she found Clarisse carrying a wooden crate toward the kitchen. It was heavier than she expected, and she was walking with the grim determination of someone who had refused help on principle.
+
+"Need a hand?" Thalia asked.
+
+"No."
+
+"Then what's in the crate?"
+
+"Uninteresting things."
+
+"You're a terrible liar."
+
+"So I've been told."
+
+Thalia took one end anyway. Clarisse looked as though she might object, then accepted the help. They carried it between them along the path. The crate rattled suspiciously, but Thalia chose not to investigate.
+
+"Chiron told me there's a party," she said.
+
+Clarisse nearly dropped her end.
+
+"I didn't say we were having a party."
+
+"No. I'm asking whether you've planned any speeches."
+
+"Silena has a list."
+
+"That wasn't an answer."
+
+Clarisse stopped in the shade of the kitchen porch. She set the crate down with enough care that Thalia suspected something breakable was inside.
+
+"Look," she said. "We wanted to do something because you've spent weeks putting other people first and then pretending you don't care when they notice. But if this makes you miserable, I'll get everybody to stop."
+
+Thalia stared at her. "I didn't say I wanted it to stop."
+
+"Then what do you want?"
+
+"An actual party. People eating cake, arguing about games, being idiots. Not a public examination of how badly my father handles birthdays."
+
+Clarisse considered. "We can do idiots."
+
+"I assumed so."
+
+"And for the record, I was planning to make fun of you quite a lot."
+
+"Good. That's normal."
+
+They resumed carrying the crate. Clarisse didn't ask why Thalia had singled out the subject of her father. She had met Zeus's daughters often enough to know when somebody had touched a bruise she couldn't see.
+
+Silena was waiting inside the kitchen with a list of ingredients and three separate sets of instructions for the frosting. Percy had been assigned to measure things, a decision Thalia regarded as proof that her friends didn't understand his strengths. He was brilliant at improvising with water and terrible at remembering which measuring cup he'd just used.
+
+When Silena saw Thalia, she held up the list like a shield.
+
+"You're early."
+
+"You're loud."
+
+"That's not a denial."
+
+Thalia looked at the bowls, the packets of blue coloring and the battered practice cake occupying half the counter. She wanted to help because she knew they would need it. She also understood that taking over would ruin the thing they were trying to give her.
+
+"I came to return the patrol roster," she said. "Chiron said you should read his note before dinner."
+
+Silena accepted the folded paper and scanned it. Her expression changed, not because she was disappointed but because she seemed to be rearranging the evening's schedule in her head.
+
+"No speeches," she said.
+
+"Not the dramatic ones."
+
+"Would you mind if people said happy birthday?"
+
+"That seems unavoidable."
+
+"Good. Then we can keep the cake and most of the embarrassing singing."
+
+Thalia looked at Percy, who was trying to make a cake scraper balance across two bowls. He had noticed the exchange but was pretending to be busy.
+
+"You were going to make a speech," she accused him.
+
+"No," he said.
+
+"Percy."
+
+"I wrote down a few things. But Silena hasn't approved them, and I don't have to say them."
+
+"What things?"
+
+"Mostly about your willingness to threaten me when I do something stupid. It was going to be very moving."
+
+Clarisse snorted. Silena closed her eyes for a moment.
+
+"You can tell me that privately some other time," Thalia said.
+
+"Sure."
+
+She looked at the cake. "Do you want me to leave now?"
+
+"Yes," Silena said. "Very much. You can have the cake at the party like everyone else."
+
+Thalia took the empty patrol sheet and went. She was still smiling when she reached Cabin One.
+
+Annabeth was there, sanding the edge of a small wooden object with the concentration she usually reserved for a difficult diagram. She tried to hide it when Thalia entered, but there was sawdust on the floor and a small tree shape on the table.
+
+"You're not very subtle," Thalia said.
+
+"Neither are your friends."
+
+Annabeth lowered the sandpaper. "You know about the party?"
+
+"Yes."
+
+"Are you angry?"
+
+"No."
+
+"Then why are you looking at the thing I'm making?"
+
+"Because you're holding it."
+
+Annabeth laughed reluctantly and set the object beneath a clean cloth. Thalia sat on the edge of her bed.
+
+"I told Chiron I don't want everybody talking about the eclipse at my birthday," she said.
+
+Annabeth's face went still. "I wasn't planning to."
+
+"I know. I just want you to understand why."
+
+"Because you want to be sixteen without having to be the girl who almost got struck by lightning every time somebody looks at you."
+
+Thalia looked up. Annabeth's answer was more precise than the one she'd rehearsed. Sometimes her sister understood her immediately. Sometimes they could spend an entire week arguing about what the other meant.
+
+"Yes," she said. "That's pretty much it."
+
+Annabeth pulled the cloth over the carving. "I wanted your present to be about us. Not Dad, not the Hall. Just something I remember you doing for me when I was little, from the stories you've told me."
+
+Thalia swallowed. She hadn't expected that.
+
+"You didn't have to do anything," she said.
+
+"I wanted to."
+
+"Then I'll try not to be awful when I open it."
+
+"You're allowed to be awful. Just don't tell me how to fix the carving while I'm giving it to you."
+
+Thalia considered the half-finished shape. It was clearly a pine tree. One of the branches was thicker than the others.
+
+"I make no promises about the craftsmanship," she said.
+
+Annabeth threw a scrap of sandpaper at her. Thalia caught it and set it aside.
+
+The conversation ended there because Annabeth had more work to do and Thalia needed to return the patrol roster. It wasn't a perfect reconciliation with her father or a magical solution to the things missing from their memories. It was the first time she'd told someone what she wanted from her birthday without having to defend why she wanted it.
+
+At the doorway Annabeth said, "Thals?"
+
+"What?"
+
+"I don't know if Mom will send a letter for your birthday. If she does, do you want me to ask the steward to keep it until tomorrow?"
+
+Thalia considered. She had been trying not to expect anything from Beryl and was afraid of how much another affectionate letter could affect her if it arrived while everybody was celebrating.
+
+"Ask him to deliver it to me privately," she said. "Don't hide it. I can decide whether to open it."
+
+"Okay."
+
+Thalia went out. For once, the choice felt like a choice she had made for herself, not one more thing she was responsible for deciding on Annabeth's behalf.
+
+
+
+---
+
 "Today," Silena declared on the morning of Thalia's birthday party, flour already on her cheek like war paint, "we make it BLUE."
 
 Percy, Grover, and Ella stood at attention in the kitchen corner. The practice cake — the gray-purple leaning tower — sat on the counter as a warning to future generations. Someone had stuck a little flag in it that said *NEVER AGAIN.*
@@ -518,7 +718,7 @@ Percy, Grover, and Ella stood at attention in the kitchen corner. The practice c
 
 They began. Carefully this time. Reverently. Percy cracked eggs over a separate bowl so shell could be fished out easily — a trick he remembered Sally using, backed up by Amphitrite's advice during his Iris-call home last week, when he'd tried to casually ask about cake without saying *birthday surprise.*
 
-Amphitrite had known instantly, of course. The queen who had raised him here knew his evasions.
+Amphitrite had guessed it was for a party. Percy let her believe that was all he was worrying about. Nothing he'd said to her hinted at his lost years or the life with Sally he remembered.
 
 *Blue cake, little tide?* Amphitrite had said, laughing with a warmth Percy was learning to trust. *For Thalia? That's sweet. Remember — a little dye goes a long way, and add the blueberries last so they don't turn it gray. And Percy? Tell her I said happy birthday. Anyone who looks out for my boy gets blue cake for life.*
 
@@ -744,6 +944,58 @@ Thalia Grace, sixteen and finally celebrated, daughter of Zeus, sister of Annabe
 
 ---
 
+By the time the cake was served, Thalia had stopped wondering when the embarrassing speech would arrive. There had been a few toasts, mostly jokes, and Clarisse had declared that the entire camp owed Thalia an apology for allowing her to get to sixteen without an adequate supply of sparring partners. Percy hadn't stood up to deliver the words she'd heard him rehearsing in the kitchen. Instead he handed her the plate with the largest slice and let her decide whether she wanted to make a wish.
+
+She didn't. She was too hungry.
+
+At the edge of the bonfire circle, Tomas from the Hecate cabin was hovering with an empty cup. The younger boy had joined the celebration late and seemed unsure whether it was a private party he hadn't been invited to attend. Thalia recognized the look from a time when she'd had to decide whether it was safe to accept food from strangers.
+
+"Come here," she called.
+
+He approached, looking at the cake.
+
+"Did you get any?"
+
+"No. I thought it was only for the people helping with the party."
+
+"Then we need a better system." She handed him a slice and pointed toward the drinks. "Silena made enough for everybody. If she didn't, she'll make someone else solve it."
+
+Tomas laughed and went to join the other campers. Thalia watched him settle beside Nico without anyone asking why he was there.
+
+Clarisse sat down beside her, carrying a paper plate full of what appeared to be frosting without cake.
+
+"You're sharing your birthday food with the whole camp," she said.
+
+"It's better than keeping a table of leftovers until somebody notices they're spoiled."
+
+"I was going to eat the leftovers."
+
+"Then get more now."
+
+Clarisse did. Thalia smiled and took another bite of cake.
+
+It was strange to spend a day receiving things without having to calculate what everybody expected in return. Percy had given her his joke about threatening to drown him. Annabeth had given her a carving with one uneven branch that Thalia already liked. Silena had made a cake whose blue frosting stained nearly everybody's hands, and Clarisse had put a ridiculous amount of effort into a small wooden present.
+
+Thalia wanted to keep all of it. She also wanted tomorrow to be an ordinary day, when she could wake up and complain about training rather than have the whole camp watch to see whether she was happy.
+
+She told Clarisse as much.
+
+"Then tomorrow I'll make you do extra laps," Clarisse said.
+
+"Perfect."
+
+"Nobody gets special treatment because they were born."
+
+"That sounds like a birthday promise I can trust."
+
+They stayed by the fire until the younger campers were called back to their cabins. Thalia helped carry plates to the kitchen. Silena tried to stop her because it was her birthday, and Thalia told her that being celebrated had not made her unable to pick up a basket.
+
+They washed the frosting from the serving knives, left the decorations for the morning crew and went back to the bonfire for the final song. Nothing about the evening had made the last sixteen years simple. Thalia had been allowed to enjoy the people who showed up anyway.
+
+
+
+---
+
 Long after the lanterns burned low, after Mr. D had left and Chiron had banked the fire, after Ella had sung her ninth and final song to thunderous applause and Grover had fallen asleep with his head on a log, Annabeth and Thalia and Percy walked back to the cabins together.
 
 Percy carried the leftover cake like it was treasure. Thalia wore her pendant. Annabeth carried the photo Silena had taken — the five of them in soapy water, grinning — now signed by everyone in silver marker.
@@ -788,9 +1040,8 @@ A pause. Crickets outside. The pine on the hill rustling in the night wind.
 
 "Love you too, pinecone."
 
-And under a sky full of stars, with cake and lightning and people who showed up, two sisters fell asleep — safe, celebrated, home.
+Thalia waited until Annabeth's breathing grew steady. Then she touched the pendant on her chest and turned it over, feeling the little uneven mark where the wire had been joined.
 
-*End of Chapter 20.*
+"Love you too," she said again, too quietly for her sister to hear.
 
----
-
+In the morning Annabeth would insist on inspecting the clasp. Thalia decided to let her.

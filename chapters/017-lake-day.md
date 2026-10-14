@@ -1,8 +1,7 @@
 ## Chapter 17: Lake Day
 
-### PERCY
 
-The lake didn't smell right.
+The canoe lake smelled of mud, cut grass, and sunscreen. Percy stepped onto the dock, surprised by how little it reminded him of salt water.
 
 That was Percy's first thought when his bare feet hit the warm planks of the dock, and he immediately felt guilty for thinking it, because everyone else was cheering like the canoe lake was the best thing that had ever happened.
 
@@ -42,15 +41,15 @@ Percy looked at the buoy bobbing about a hundred yards out. For him, that was �
 
 Annabeth was sitting at the end of the dock with Thalia, legs dangling over the edge, already watching. She raised one eyebrow. *Be careful*, that eyebrow said.
 
-Right. Hold back. Big rule for today. Chiron had pulled him aside that morning while Percy was pulling on his swim trunks. "Percy, a word. I know what Atlantean children can do in water. Today, I need you to be —" Chiron had searched for the word, "— approximately as talented as a reasonably athletic twelve-year-old from Ohio."
+Right. Hold back. Big rule for today. Chiron had pulled him aside that morning while Percy was pulling on his swim trunks. "Percy, a word. I know what Atlantean children can do in water. Today, I need you to be —" Chiron had searched for the word, "— careful not to use divine propulsion against the other swimmers. Let the race be about your own strokes."
 
-"I can do Ohio," Percy had said solemnly.
+"I can swim without calling the current," Percy had said.
 
-"Twelve-year-old from Ohio who took *one* summer of swim lessons," Chiron clarified.
+"If you don't know the technique, ask for instruction instead of using magic to disguise the difference," Chiron clarified.
 
-"Got it. Mediocre Ohio."
+"Got it. No magical shortcuts."
 
-"Please lose at least once today, Percy. Graciously."
+"Win if you can, lose if you don't. But race honestly. The other campers deserve that."
 
 So Percy stepped up to the edge of the dock, toed the splintery wood, and tried to remember everything he'd ever seen about how surface kids started races. They crouched? They dove? In Atlantis you just tipped forward and let go.
 
@@ -62,41 +61,160 @@ So Percy stepped up to the edge of the dock, toed the splintery wood, and tried 
 
 Percy dove.
 
-And immediately knew he'd messed up, because his body wanted to do the Atlantean arrow — arms pinned, spine straight, no splash — and he had to force himself at the last second to do a messy human belly-flop that stung his whole front and sent water up his nose.
+And immediately knew he'd messed up, because his body wanted to do the Atlantean arrow — arms pinned, spine straight, no splash — and he tried to adjust into a surface dive at the last second and managed a messy belly-flop that stung his whole front and sent water up his nose.
 
 Laughter erupted on the dock. Clarisse cackling loudest. "NICE FORM, SQUID!"
 
-Zoe was already three strokes ahead, doing a clean freestyle that ate up the distance. Percy scrambled after her, forcing himself to kick from the knees like he'd seen in swim class, forcing himself to *breathe* every three strokes even though his lungs could have gone another ten minutes easy.
+Zoe was already three strokes ahead, doing a clean freestyle that ate up the distance. Percy scrambled after her, trying to kick the way he'd seen surface swimmers do, remembering to *breathe* every three strokes even though his lungs could have gone another ten minutes easy.
 
 It was weirdly hard. Like trying to write with his wrong hand on purpose.
 
-He let Zoe stay half a body ahead all the way out. At the buoy she slapped it and turned, droplets flying, grinning fierce. Percy slapped it a second later, made his turn wide and sloppy on purpose, and then on the way back he let his control slip just a little — just enough to feel the water answer him, just enough to glide.
+Zoe stayed half a body ahead all the way out. She used the surface stroke far more efficiently than he did. At the buoy she slapped it and turned, droplets flying, grinning fierce. Percy slapped it a second later and made his turn too wide. On the way back he felt the familiar temptation to let the current carry him, then made himself finish with ordinary strokes.
 
-He remembered at the last second and slowed, letting Zoe touch the dock ladder first by a full two seconds.
+He managed a faster final length, but Zoe touched the dock ladder first by a full two seconds.
 
 The dock exploded.
 
 "ZOE! ZOE! ZOE!"
 
-Zoe hauled herself up, panting, and stared at him as he clung to the ladder. "You let me win."
+Zoe hauled herself up, panting, and stared at him as he clung to the ladder. "You could have used the current."
 
 "What?" Percy sputtered, lake water dripping off his nose. "No way. You're fast. That turn was — you're really fast."
 
-"You hesitated at the buoy," Zoe said, eyes narrow. Not angry, just sharp. Huntress sharp. "You slowed down."
+"You hesitated at the buoy," Zoe said, eyes narrow. Not angry, just sharp. "You were about to use a different stroke."
 
-"I got water up my nose," Percy said, which was true, and tapped the side of his nose for effect. "Ohio swim lessons. Only one summer."
+"I nearly used my power," Percy admitted. "Then I remembered the rules. You turned faster than I did."
 
 Zoe stared at him for another beat, then laughed and held out a hand to haul him up. "Fine. Rematch after lunch. No excuses."
 
 "You're on," Percy said, and when his feet hit the dock he glanced toward Annabeth.
 
-She was laughing into her hand, shoulders shaking. Thalia was grinning. And Annabeth mouthed, very clearly, *Ohio.*
+She was laughing into her hand, shoulders shaking. Thalia was grinning. And Annabeth mouthed, very clearly, *No shortcuts.*
 
 Percy grinned back before he could stop himself, and quickly turned it into a cough.
 
 ---
 
-### GROVER
+
+After the race, Zoe came back to the dock with a strip of cloth and asked Percy whether he wanted to know why she'd beaten him.
+
+"I thought you said you were going to celebrate first."
+
+"I celebrated. You heard the shouting."
+
+"Hard to miss."
+
+She pointed at the shallow part of the shore, where the sand dropped away in a gentle slope. There was space to practice without disturbing the campers who were still waiting for their turn at the buoy.
+
+"Your turn is inefficient," she said. "You follow the curve around the marker as though you expect the water to move you. That's fine when you can make it do what you want. It's slower when you're relying on your arms and legs."
+
+Percy looked at her. "I'm going to regret asking this, aren't I?"
+
+"Almost certainly."
+
+They walked into the shallows. Zoe demonstrated a tight turn with one hand brushing the edge of the buoy. Percy tried it and got his foot tangled in the rope.
+
+"That's not how the rope works," Zoe observed.
+
+"I was testing its integrity."
+
+"Wonderful. Test it from the other side."
+
+She showed him again, breaking the motion into pieces. Percy practiced the push from the wall of shallow sand, the rotation of his shoulders and the way his feet needed to follow. He was accustomed to feeling a whole body of water respond to his intent. Learning to use ordinary strokes without the shortcut required him to notice muscles he'd barely bothered with during Atlantean lessons.
+
+He tried the movement again. The second attempt was better. The third was too fast and sent him sideways.
+
+Zoe laughed.
+
+"You're not naturally terrible at this," she said. "You're just used to succeeding differently."
+
+He considered the insult and found he couldn't argue with it. The difference mattered. He had held back his power because Chiron had required it, but he'd assumed the rest of the race would be easy. Zoe had beaten him because she'd spent more time practicing the technique they were actually using.
+
+"Can we try the buoy again?" he asked.
+
+"We can. But I'm not racing you until you've learned to turn without grabbing the rope."
+
+"Harsh."
+
+"Accurate."
+
+They practiced for ten minutes. Nico arrived halfway through, carrying two cups of water from the picnic blankets.
+
+"Are you training for another race?"
+
+"Zoe's teaching me how to stop embarrassing myself," Percy said.
+
+"That sounds like a long lesson."
+
+Zoe grinned. "He's improving."
+
+Nico set the cups on a dry plank. He watched Percy repeat the turn, then announced that the movement looked a little like dodging an opponent in Mythomagic.
+
+"Your feet have to be on the correct side before you make the next move," he said.
+
+Percy stared at him. "That's actually a useful comparison."
+
+"Of course it is."
+
+Nico looked pleased. He had been practicing his own swimming that morning with a counselor nearby, but his attention kept drifting to the races. Percy remembered that the boy had been spending so much time learning about the gods that he sometimes forgot he was allowed to be bad at an ordinary game.
+
+"Want to practice with us?" Percy asked.
+
+Nico hesitated. "I'm not very fast."
+
+"Neither am I, apparently."
+
+"You're faster than everybody if you cheat."
+
+"Then today is a good day to learn how to win without that."
+
+They moved the buoy closer to the shallows and took turns practicing the route. Nico's first turn was awkward. Percy's second was clumsy in a different way. Zoe corrected each of them without pretending the mistakes were the same. By the time they finished, Nico could reach the shallow marker and return without losing the direction of the stroke. Percy could make the turn without touching the rope.
+
+It wasn't a dramatic demonstration. That was what made it satisfying.
+
+Zoe checked the time on the small waterproof clock hanging from the dock. She still had an obligation to help with the canoe rotation later that afternoon.
+
+"That's enough for now," she said.
+
+"Rematch?" Percy asked.
+
+"After lunch, if we both want one."
+
+"Deal."
+
+Nico looked up at her. "Can I race too?"
+
+"Yes. Different starting point, and we'll mark it so the distance is fair for your age group."
+
+He didn't like being given a shorter course. Percy could see the objection forming on his face.
+
+"That doesn't mean the race doesn't count," Percy told him. "It means you're competing over a distance you've actually practiced. I wouldn't expect you to race me across the Sound."
+
+Nico considered. "Could I someday?"
+
+"If you train."
+
+"Then I'm doing that."
+
+Zoe shook her head and went to help with the next group. Percy sat with Nico at the edge of the dock and dried his hair with a towel. The boy began asking about how swimming worked in Atlantis. Percy described what he'd been taught since arriving in the palace: how to feel a current without trying to force it, how instructors separated safety drills from races and why his half-brother was so strict about practice in unfamiliar water. He didn't pretend to remember every lesson from his altered childhood.
+
+Nico listened seriously.
+
+"Do you miss it?" he asked.
+
+"Sometimes. The ocean, the people, the way nobody looks twice if you want to swim for hours."
+
+"You can still swim here."
+
+"I know. I'm learning how."
+
+Nico handed him the second cup of water. It was an absurd thing to bring a son of Poseidon, but Percy drank it anyway. They watched the next race begin and argued about whether the swimmer on the outside had chosen the better route around the buoy.
+
+By the time lunch was called, Percy had lost a race honestly, learned a practical skill from Zoe and taught Nico enough that the boy wanted to practice again tomorrow. He no longer felt the need to pretend his unfamiliarity with surface swimming was a joke. It was simply something he could improve.
+
+
+
+---
 
 Grover Underwood had decided, by 10:47 that morning, that the canoe lake was the best place in the entire world to think about his future.
 
@@ -114,7 +232,7 @@ Underneath he'd written:
 
 He tapped his pencil against number five.
 
-The thing was, everyone at Camp Half-Blood had a thing they were supposed to want. Clarisse wanted to be a warrior — obviously, she already was. Silena wanted to run the infirmary and the arts cabin and basically everything involving making people feel better. Zoe wanted to hunt with — well, Zoe got quiet when people asked, but it was something about stars and sisters and the wild. Nico wanted to learn every myth ever written and then correct people about them. Ella wanted to memorize the whole library and then add snacks to it.
+The thing was, everyone at Camp Half-Blood had a thing they were supposed to want. Clarisse wanted to be a warrior — obviously, she already was. Silena wanted to run the infirmary and the arts cabin and basically everything involving making people feel better. Zoe wanted to study warding with her mother's cabin and spend enough time away from camp to learn which old rituals still worked. She went quiet when people asked where she'd go first. Nico wanted to learn every myth ever written and then correct people about them. Ella wanted to memorize the whole library and then add snacks to it.
 
 And Annabeth — Annabeth wanted to build things that lasted. You could see it in the way she looked at buildings, like she was seeing the bones underneath. Thalia wanted — Grover wasn't sure, actually. Thalia wanted to protect Annabeth so badly it came off her like heat, and maybe that *was* the want.
 
@@ -126,7 +244,7 @@ Percy had been quiet for a long time. Then: "Do you think you'd hear him?"
 
 "I think I have to try," Grover had said.
 
-Now, sitting by the lake with dragonflies landing on his horns — he'd glamoured them down to nubs, but insects always knew — Grover watched Percy lose a second race on purpose (to a kid from the Hermes cabin who swam like a windmill, arms everywhere) and felt that tug in his chest again. That *try* feeling.
+Now, sitting by the lake with dragonflies landing on his horns — he'd glamoured them down to nubs, but insects always knew — Grover watched Percy lose a second race while trying to match the fast surface strokes of a Hermes camper who swam like a windmill, arms everywhere and felt that tug in his chest again. That *try* feeling.
 
 "Hey."
 
@@ -154,13 +272,41 @@ He opened the notebook and, under number five, wrote: *5. Likes things.*
 
 Then, after a second, he added: *(Nico says this counts)*
 
+Grover reread the list. It looked different now that Nico had seen it. Until this morning, the search had felt like a private daydream he ought to keep in his notebook, something too enormous for a satyr who got frightened by loud noises. Nico hadn't laughed. He had made Grover explain what a Searcher actually did, then treated the answer as practical rather than ridiculous.
+
+Grover tore a blank page from the back of the notebook and wrote a question for Chiron: *What do I need to learn before I can go searching?*
+
+He could already imagine the reply. More training. More time outside camp. Lessons in how to recognize old trails and distinguish divine signs from ordinary animal tracks. Maybe a test he would fail the first time. He was frightened by the idea, which was another reason to ask while he could still change the plan.
+
+A dryad watching from the edge of the shade noticed his open notebook.
+
+"Are you writing songs?" she asked.
+
+"Not exactly."
+
+"Good. You keep practicing the same tune, and the reeds are getting bored."
+
+Grover looked at his unfinished pipe. "They are?"
+
+"That's what they say. Try listening to them before you decide what they'll want to hear."
+
+He turned toward the shore. The reeds bent in different directions even though the breeze came from one side. A small cluster shifted when a naiad moved below the surface. Another moved because something had crawled through the roots. Those were ordinary causes, each worth noticing. A Searcher who treated every unusual motion as a message from Pan would waste years chasing his own hopes.
+
+"How would I tell the difference?" he asked.
+
+"Practice."
+
+The dryad went back to her tree. Grover wrote *ask questions before assuming* beneath his list. Then he tried playing a softer phrase on the reed pipe, following the movement of the grass rather than forcing a rhythm he'd memorized. The sound was imperfect. It fitted the lake better than his usual tune.
+
+He thought Nico had been right about one thing: caring about living things was a good reason to become a Searcher. He would ask Chiron about the requirements before making any grand promises to himself or his friends. It wasn't training, and it wasn't proof he would find Pan. He could begin by taking good care of the shore he knew while learning the skills he'd need to go farther.
+
+
 "Hey, Grover!" Ella called from the picnic blankets, waving frantically. "Grover, come help! The naiads are robbing me again!"
 
 Grover capped his pen. "Duty calls," he said, and Nico grinned and chased after him, and for a little while the future could wait until after lunch.
 
 ---
 
-### ELLA
 
 Ella's picnic was, by any objective standard, perfect.
 
@@ -235,7 +381,120 @@ She opened her book to read aloud while everyone chewed, and when she got to the
 
 ---
 
-### CLARISSE
+
+The picnic ended with Ella discovering three missing spoons, two wet napkins and a cake wrapper caught beneath the reeds. She could have declared the naiads responsible for all of it. The spoons were probably theirs. The wrapper had been blown toward the lake when somebody opened the cookie tin, and the napkins belonged to whoever had forgotten to secure the picnic basket.
+
+Grover saw the rubbish and put down his reed pipe.
+
+"We need to clean the shore before the next group arrives."
+
+"That's what I'm doing," Ella replied, with the expression of someone who disliked having the obvious announced.
+
+"I know. I mean the part beneath the reeds too."
+
+He stepped into the shallows and began gathering the paper that had caught against a half-submerged branch. The naiads surfaced, watching him with varying degrees of suspicion.
+
+"Are you taking our treasures?" one asked.
+
+"Only the rubbish. The spoons are yours unless the camp kitchens ask for them back."
+
+"Shiny spoons."
+
+"I can see why you like them."
+
+He took a damp napkin from the water and looked at the pale streak where the dye was washing out. The lake itself didn't need a lecture about protecting nature. It needed campers to stop leaving things behind.
+
+A naiad with lily pads in her hair swam closer.
+
+"You brought too much food," she said.
+
+"We brought enough for our group. You took most of it."
+
+"Food is good for guests."
+
+"Guests usually ask first."
+
+She considered the distinction. "Then next time ask us to come."
+
+Grover looked at Ella. Ella looked back, still clutching the spiral shell she'd received in exchange for an oatmeal cookie.
+
+"I could do that," Ella said. "But next time we divide the food before the picnic begins. You get a plate. We get a plate. Nobody steals the plate belonging to the other group."
+
+The naiad frowned. "What if the plate floats away?"
+
+"We'll find a heavier one."
+
+Grover smiled. Ella loved agreements that could be turned into lists. He suspected the naiads would enjoy an agreement more if they could help make it.
+
+"What would you bring?" he asked them.
+
+"Water flowers," said one.
+
+"Pebbles," said another.
+
+"Fish," suggested a third.
+
+Ella looked alarmed. "Alive fish?"
+
+"Very fresh fish."
+
+"We'll put that under discussion."
+
+They established a small cleanup team before the conversation could become an argument about menu planning. Nico carried the dry rubbish bag, Percy lifted a fallen branch out of the shallow water and Grover checked the narrow bank where the reeds hid the worst of the litter. The naiads returned the spoons, although one kept a particularly shiny one that Ella decided she'd already traded for the shell.
+
+The work would have been quick if it hadn't exposed a problem beyond the picnic. A small section of shoreline had begun to erode where campers repeatedly dragged canoes through the reeds instead of using the marked launch. The earth had been trampled until the roots were exposed.
+
+"That's new," Grover said.
+
+Percy looked at the bank. "The water has been high after the last rain. It might have washed some of the soil away."
+
+"Some. But look at the scuff marks."
+
+Nico crouched beside him. "They're from the canoe bottoms."
+
+The three of them traced the path back to the dock. A worn gap in the railing made it easier to drag a boat straight down the bank rather than carry it to the launch platform. Nobody had intended to damage anything. The shortcut was convenient, so people kept using it.
+
+Grover wrote down the location in his notebook. He had spent the morning trying to decide whether being a Searcher required him to be brave in some spectacular way. This was an ordinary problem, but it was exactly the sort of damage he wanted to notice before it became irreversible.
+
+"Should we fix it?" Nico asked.
+
+"Not by ourselves. We should tell the canoe instructor and the dryads who look after the bank. The roots might need protecting, and I don't want to move anything that holds the earth together."
+
+Percy nodded. "I'll show Chiron where the route changed. We can help carry the canoes along the proper path until it's repaired."
+
+They went to find the instructor. He listened, inspected the bank and agreed to close the gap in the railing before the next lake day. The dryad responsible for the nearby willow asked the campers to leave the exposed roots alone until she could coax the soil back around them.
+
+Grover offered to help mark a safer walking route. She accepted, with the condition that he wouldn't tie anything to her branches without asking.
+
+"Agreed," he said.
+
+Nico drew a small map with the proper launch marked in blue. The new sign went beside the canoe rack, where the campers actually made the choice about which path to take. Ella added a note reminding everyone to carry their rubbish away, and the naiads insisted she draw a cookie beside the instruction.
+
+"That's not relevant," Ella protested.
+
+"It's an incentive."
+
+"Fine. One cookie."
+
+By the time the signs were finished, the next swimmers were gathering for the afternoon games. They read the notices without needing an instructor to explain them. A Hermes boy who'd been about to drag his canoe toward the reeds turned and carried it to the launch instead.
+
+Grover watched him go. It wasn't a grand achievement. No monster had been driven off. No lost god had answered his pipes. The lake's bank would take time to recover, and the sign would probably need replacing after the next storm. But he knew which small piece of the wild he'd helped protect today.
+
+He opened his notebook to the list of reasons he wanted to become a Searcher. Beneath Nico's suggestion that he liked things, he added another:
+
+*Notices when something needs taking care of, and does something about it.*
+
+Ella leaned over to read. "That's an excellent reason."
+
+"Do you think Chiron will agree?"
+
+"Chiron likes evidence," she said. "You have a new sign and an erosion report. Evidence!"
+
+Grover smiled and closed the notebook. He would ask the centaur about the Searcher's requirements later. Right now Clarisse was gathering campers for cannonball practice, and somebody needed to make sure the littlest swimmers weren't pushed off the end of the dock by a crowd of older children.
+
+
+
+---
 
 Clarisse La Rue had been dreading this day for a week.
 
@@ -309,7 +568,166 @@ Clarisse rolled over and dunked him. He came up sputtering and dunked her back, 
 
 ---
 
-### ANNABETH & THALIA
+
+Clarisse wanted a rematch in chicken fights. Percy wanted to sit on a towel and stop getting water up his nose. Silena wanted them both to stop shouting long enough for the younger swimmers to have their turn at the dock.
+
+"You're done," she announced, placing a folded towel in Percy's hands. "You've been in the water for two hours."
+
+"That's not a long time for me," he protested.
+
+"It's a long time to spend being knocked over by your sister. You can play again after the younger group finishes."
+
+Clarisse looked wounded. "I was providing instruction."
+
+"You were trying to throw him into the deepest section of the lake."
+
+"That is a form of instruction."
+
+Percy sat on the edge of the dock. His skin was warm from the sun, but his side still stung where he'd hit the water badly during the cannonball contest. It wasn't a serious injury. It was an unfamiliar kind of soreness, one he'd never expected to associate with swimming.
+
+Silena sat beside him and offered him an orange slice.
+
+"You had fun," she said.
+
+"I did. Except for the part where Grover fell on my head."
+
+"He was frightened."
+
+"He announced that he was a pacifist steed and abandoned me."
+
+"That was also funny."
+
+Percy took the orange slice. He glanced toward Clarisse, who was teaching a younger Hermes camper how to tuck her knees without throwing herself forward too early. Clarisse could be unexpectedly patient when somebody asked for help directly. Percy wished she'd remember to be that patient when he was the one getting something wrong.
+
+"She keeps telling me I used to be good at those games in Atlantis," he said.
+
+Silena looked toward their sister. "You were good at some of them."
+
+"I don't remember."
+
+"I know."
+
+He hesitated. It would have been easy to use the memory gaps as a reason to stop playing games whose rules belonged to his altered childhood. But Clarisse had watched him grow up beneath the sea, and the games were part of how she remembered being his sister. He didn't want to tell her those memories were worthless simply because he couldn't recover them.
+
+"Does it make you feel strange?" he asked Silena. "When I don't know what you're talking about?"
+
+"Sometimes."
+
+She had answered without trying to make him feel better. Percy looked at her.
+
+"I remember you being little," she continued. "I remember teaching you to tie the ribbons on your practice armor because you kept getting the knot wrong. Then you arrived at camp and didn't recognize the ribbon when I showed it to you. It made me feel as if I'd been carrying a photograph that nobody else could see."
+
+"I'm sorry."
+
+"I know. You didn't choose it."
+
+He looked down at the towel. "I don't want you to feel as though you have to make me remember by telling the same story again."
+
+"Then tell me when you don't want to hear it. I can miss something without making you fix it."
+
+Percy considered. His memories of Sally and a different childhood weren't fading, but every day he spent with Clarisse and Silena made the altered life less abstract. He couldn't tell them that without telling them what he remembered in the first place. He could still ask for different kinds of closeness.
+
+"Could you teach me something you actually liked doing with me?" he asked. "Not a test to see whether I remember it. Just something we can play now."
+
+Silena smiled. "Clarisse taught you a game with pebbles and shells. You'd make little targets in the sand and try to knock them down by flicking the shells. She always pretended she wasn't letting you have a second try."
+
+"That sounds like her."
+
+"You can ask her whether she wants another match."
+
+Percy thought about it, then stood. Clarisse was finishing the knee-tuck lesson. The younger camper went back toward the shallows with her counselor, leaving Clarisse standing beside a bucket of towels.
+
+"Can I ask you something?" Percy said.
+
+"Depends what it is."
+
+"Silena says you taught me a game with shells when I was little."
+
+Clarisse's face changed. The shift was so brief that he might have missed it if he hadn't been watching.
+
+"Yeah. You were terrible at it."
+
+"Would you show me how?"
+
+She looked toward Silena, who was making a conspicuous effort not to appear involved in the conversation.
+
+"You don't remember it?"
+
+"No. I'd like to learn."
+
+Clarisse set down the bucket. "Fine. But we use the dry sand. I am not digging pieces out of the lake if you throw them too far."
+
+They gathered smooth shells from a clean patch of shore. Clarisse scratched three small circles in the sand and set a flat pebble in the center of each. The rules were simple: flick the shell from a marked line, knock the pebble out of its circle and score one point. They started at the nearest line and moved back after every successful round.
+
+Percy's first shot barely reached the target.
+
+Clarisse groaned. "You are doing that with your wrist. Don't. Keep your finger straight until the end."
+
+He tried again. The shell spun wide.
+
+"Better," she said.
+
+"It missed."
+
+"It missed in a way that means you listened."
+
+He grinned. He had expected her to be impatient. Instead she knelt beside him and showed the movement again, this time letting him watch from the side. The third shell struck the pebble and moved it half an inch.
+
+"That counts," he said.
+
+"It does not."
+
+"It touched."
+
+"The rule is out of the circle."
+
+"Your game has oppressive standards."
+
+"That's why it's good."
+
+They played for half an hour. Percy improved enough to make the middle line consistently, though Clarisse won every round. He could have called the water below the sand to shift the pebbles. The thought made him laugh because the game would become meaningless if he did. He wanted to beat her honestly.
+
+At the last target Clarisse placed the pebble farther away, beyond the normal line.
+
+"Final shot," she said. "If you hit it, I give you the last orange slice."
+
+"That's not fair."
+
+"It is precisely fair. The terms are clear."
+
+Percy flicked his shell. It skimmed over the sand, struck the pebble and sent it tumbling out of the circle. He shouted loud enough to make nearby campers turn.
+
+Clarisse stared at the target. Then she retrieved the pebble, inspected it and declared that the shell had touched the edge before dislodging it.
+
+"That still counts," Percy protested.
+
+"It counts. I was checking."
+
+She gave him the orange slice. He ate it triumphantly while she erased the circles with her foot.
+
+"Did we really play this when I was little?" he asked.
+
+"All the time," she said. "You used to demand a rematch whenever I won."
+
+"I haven't changed much."
+
+"You've changed plenty. You're still annoying in the same way."
+
+He laughed. Clarisse pulled him into a quick, rough hug that smelled like sunscreen and damp towel. It lasted just long enough for him to return it. Then she shoved him toward the picnic blanket and told him to stop looking sentimental.
+
+Silena had been watching. When Percy sat beside her, she didn't ask whether he remembered the old games now. She handed him a fresh towel and pointed out that his feet were full of sand.
+
+"You're going to track that into the cabin," she said.
+
+"Then I'll wash them."
+
+"Good. I've spent the morning doing enough laundry for all of us."
+
+Percy looked back at the little circles Clarisse had erased. The game hadn't restored a single missing childhood memory. It had given him one more real thing to share with his sisters in the present. He wanted to keep it, even if Clarisse would never admit she was pleased.
+
+
+
+---
 
 Annabeth had been awake since dawn with a knot between her shoulder blades that wouldn't loosen.
 
@@ -375,7 +793,6 @@ And for the first time in weeks — in years, in lifetimes — the knot between 
 
 ---
 
-### PERCY & ANNABETH — UNDER THE DOCK
 
 It was Zoe who made it possible, without knowing.
 
@@ -429,9 +846,9 @@ They both froze, then laughed silently, brushing sand off each other.
 
 "Yeah?"
 
-"Thanks for losing today. I know it was hard. I saw you at the buoy — you wanted to *go*."
+"Thanks for racing without the current. I know it was hard. I saw you at the buoy — you wanted to *go*."
 
-Percy looked down at their joined hands under the surface, her pale fingers laced with his. The water around them hummed faintly, happy to hold them. "It's okay. I get to be fast at home. Here —" He shrugged. "Here I'd rather be the guy who does terrible cannonballs and gets dunked by his sister. That's — that's a good guy to be."
+Percy looked down at their joined hands under the surface, her pale fingers laced with his. The water around them hummed faintly, happy to hold them. "I still wanted to win. Zoe turned better than I did, and that's something I can actually practice. I don't have to make the whole lake do the work just because I'm Poseidon's son."
 
 Annabeth's expression did something complicated and tender. "You're both guys," she said. "But today I like this one best. The Ohio one."
 
@@ -453,15 +870,10 @@ Percy laughed and waded out to the canoe and climbed in, rocking it wildly while
 
 As they pushed off, paddle dripping, the sun low and gold over the pines, Percy looked across the water at the other canoe — Annabeth in the back, Thalia in front, Zoe heckling them both — and Annabeth caught his eye and smiled, sand still stuck to her cheek, shell bracelet from their Olympus city tied around her wrist.
 
- lake day. No villains. No quest. Just sunburn and stolen cheese and a sand palace with a balcony for his sister-in-all-but-blood and a girl who held his hand in the dark under the dock.
+Percy looked at the scattered sandals on the dock and the sandy little city the others had built on the shore. Someone would have to clean everything up before dinner.
 
-Percy dug his paddle in and splashed Clarisse on purpose. She splashed him back. The canoe tipped. Everyone yelled.
+He dipped his paddle and splashed Clarisse. She returned the favor with interest. The canoe tipped, Grover yelled, and Annabeth reached for the side in time to save the bag of dry towels but not Percy's shoes.
 
-Best day ever.
+"That counts as your fault," she told him.
 
----
-
-*End of Chapter 17*
-
----
-
+He surfaced with a mouthful of lake water and decided not to contest it.

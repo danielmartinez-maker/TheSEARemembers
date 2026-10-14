@@ -344,99 +344,249 @@ He went to her. She put her hands flat on his chest and stood there for a moment
 
 "Clarisse says everything's on purpose."
 
-"Clarisse says everything's on purpose and she's right." Annabeth took his hand and they went up the hill together with their hands dirty and their breath going up and the cold on their faces and the field quiet behind them and the wall on the wall and the step in the path and the door flat and the week done, and they went to the dinner, and the soup was the good one, and it was not getting cold.
+"Clarisse says everything's on purpose, and she's right." Annabeth took his hand. They left the empty field and started toward the pavilion, where dinner would be served whether or not they finished talking about their work. Before they reached the junction, Clarisse called to them from the greenhouse.
 
 ---
 
-They found Clarisse at the greenhouse with the list under her arm and her boots in the mud and a face like a woman who had been up since four and was not going to say so. The greenhouse bank was a low stone wall along the back of the raised beds, and it had been built in September and had been, by the middle of October, quietly taken over by a shelf of broken pots that had been carried down from the toolshed and stacked in the particular order of a woman who had a system and was not going to explain it.
+Clarisse was at the greenhouse when they found her, standing at the end of the raised beds with a list under one arm and mud dried to her boots. The repaired bank looked more substantial from below than it had while they were moving stone into place. Rain had been running through the same narrow channel since September. Now the water could pass without carrying the soil down the path.
 
-"The bank," she said, before they were within ten feet. "It's done. It's got the pots and the drainage and the whole thing's ready for the spring."
+She checked the bottom joint with the toe of her boot. It held.
 
-"It's done," Percy said.
+"Don't stand on that edge," she told Percy before he had got near it.
 
-"It's done and it's got a good foundation and it's going to be there in four years when somebody comes out here and wonders who built it." She made a note on the list in her blocky hand. "The awning's next. The torn one. It wants a canvas-and-grommet job and two people and a dry afternoon, and it's not going to get one."
+"I was admiring the masonry."
 
-"It'll get one," Annabeth said.
+"You can admire it from the safe side." She made a line through GREENHOUSE BANK. "The pots are sorted, drainage is clear, and nobody needs to come back unless the next storm proves me wrong."
 
-"It'll get one and you'll say I never told you." Clarisse put the list under her arm and looked at them both with her head on one side, the way she looked at things she was deciding about. "The step's in."
+Annabeth leaned over to inspect the packed stone. "The bottom needs a check after the first proper thaw. If the fill settles, it'll leave a channel behind it."
 
-"The step's in," Percy said.
+Clarisse turned her pencil around and wrote THAW CHECK beside the crossed-out entry. She didn't thank Annabeth. She also didn't argue, which was more useful.
 
-"It's the best step on the path."
+"What's next?" Percy asked.
 
-"It's the only step on the path."
+"The awning and the pine. Neither needs two exhausted idiots trying to finish before supper."
 
-"It's the best step on the path and it's got a vein running through it and it's going to be there in four years." Clarisse turned to go, and stopped, and said, without turning round, "The soup's getting cold."
+"That's an oddly precise description."
 
-"The soup's never getting cold. The soup is the second-day soup. It gets better."
+"That was aimed at you." Clarisse looked at the dirt on his sleeves. "And your girlfriend. She wasn't exempt."
 
-"The soup's getting cold and we're going to be late and you're going to sit at my table and eat my soup and that's the whole of the conversation." She went away down the path with the list under her arm and her boots in the mud and her face like a woman who had won a war and was now going to talk about the peace, and Percy and Annabeth stood at the greenhouse and watched her go, and the cold came up off the lake and moved the pines, and the tenth lantern came on at the bottom of the hill, and the night came down, and the Friday dinner was coming, and the soup was the good one, and they were ready.
+Annabeth held up her hands. "I didn't volunteer us."
 
----
+"You were about to." Clarisse folded the page along an old crease. "The pine stays fenced off until the saw crew's ready. It's not a contest about who gets to be first at a dangerous job."
 
-They met Thalia on the path between the greenhouse and the pavilion, coming down from the lake with her hair still wet and a camp shirt that had been somebody else's in June and her bow over her shoulder and her boots making the particular sound of a woman who had been shooting all afternoon and was not going to say so.
+Percy glanced at the patch of trees above the brake. He could see the warning rope moving in the wind. Somebody had tied a fresh scrap of red cloth to the nearest stake.
 
-"The heel," she said, before they were within ten feet.
+"Who's checking the barrier tonight?"
 
-"What about the heel," Percy said.
+"Me and one of the Hermes kids. Chiron wants two sets of eyes."
 
-"Don't. I know what it looks like. I've been looking at it for three weeks and I know what it looks like and I know you know what it looks like and I know Annabeth knows what it looks like, and we are not going to have this conversation on a Friday." She came level with them and stopped and looked at Percy with the face she wore when she was about to say a thing she had been carrying, and she said, "Eight o'clock Sunday. The shooting line. Don't be late."
+"Want a third?"
 
-"I'm never late."
+"I want you to wash before dinner."
 
-"You're never late and you're going to be late on Sunday and I'm going to be standing at the shooting line at eight o'clock with my heel and my bow and my pride, and you're going to say the thing, and I'm going to get it looked at, and that's the whole of the conversation." She went past them down the path with her hair still wet and her bow over her shoulder and her boots making their sound, and Percy and Annabeth stood on the path and watched her go, and the cold came up off the lake and moved the pines, and the tenth lantern came on at the bottom of the hill, and the night came down, and the Friday dinner was coming, and the soup was the good one, and they were ready.
+He would have argued, but his hands were stiff from cold stone and the light was already leaving the greenhouse wall. Clarisse tucked the list away, picked up her mug from the sill, and started toward the pavilion with them.
 
----
+"Tell Silena I found her missing saucepan," she said.
 
-They found Silena at the bottom of the hill with the bread basket over her arm and her hair coming loose and a face like a woman who had been up since five and was not going to say so.
+"Where was it?"
 
-"The soup," she said, before they were within ten feet. "The soup is on. It's the second-day soup and it's the good one and I have got two loaves under a cloth and Clarisse has got the list and Thalia has got the wet hair and Annabeth has got the field book, and you have got dirt on your hands."
+"Under a stack of empty pots."
 
-"We've got dirt on our hands," Percy said.
+"Did it survive?"
 
-"You've got dirt on your hands and sawdust in your hair and a stone dust on your coat, and you are not sitting at my table like that." She set the basket down on the step and came and brushed the sawdust off his shoulders with her hands, brisk and sisterly, and then she did the same to Annabeth, and then she picked up the basket and stood back and looked at them both with her head on one side. "The step's in."
+"It's iron. It'll outlast all of us if she stops lending it to people who use it as a shovel."
 
-"The step's in," Annabeth said.
-
-"It's the best step on the path."
-
-"It's the only step on the path."
-
-"It's the best step on the path and it's got a vein running through it and it's going to grass over in the spring and it's going to be there in four years when somebody comes up this hill and doesn't know who put it there." Silena picked up the basket and turned to go, and stopped, and said, without turning round, "The door's flat."
-
-"The door's flat," Percy said.
-
-"Clarisse said it'd be flat by tonight."
-
-"Clarisse's always right about doors."
-
-"Clarisse's always right about most things." Silena went away down the path with the basket over her arm and her hair coming loose, and Percy and Annabeth stood at the bottom of the hill and watched her go, and the cold came up off the lake and moved the pines, and the tenth lantern came on at the bottom of the hill, and the night came down, and the Friday dinner was coming, and the soup was the good one, and they were ready.
+Annabeth laughed. The greenhouse could be left for the night. The unfinished jobs were written down, the barrier had somebody assigned to inspect it, and Clarisse finally looked willing to sit down and eat.
 
 ---
 
-They found Silena at the bottom of the hill with the bread basket over her arm and her hair coming loose and a face like a woman who had been up since five and was not going to say so.
+They met Thalia near the lower archery path, carrying her bow unstrung in one hand. She had a coat over her damp camp shirt and was walking downhill more cautiously than she needed to, her weight shifting away from one heel whenever the path dipped.
 
-"The soup," she said, before they were within ten feet. "The soup is on. It's the second-day soup and it's the good one and I have got two loaves under a cloth and Clarisse has got the list and Thalia has got the wet hair and Annabeth has got the field book, and you have got dirt on your hands."
+Annabeth noticed. Percy could tell from the way she looked at the ground instead of at her sister.
 
-"We've got dirt on our hands," Percy said.
+"How'd practice go?" Annabeth asked.
 
-"You've got dirt on your hands and sawdust in your hair and a stone dust on your coat, and you are not sitting at my table like that." She set the basket down on the step and came and brushed the sawdust off his shoulders with her hands, brisk and sisterly, and then she did the same to Annabeth, and then she picked up the basket and stood back and looked at them both with her head on one side. "The step's in."
+"Fine."
 
-"The step's in," Annabeth said.
+"Fine as in the targets survived?"
 
-"It's the best step on the path."
+"All twelve. Tragic, really."
 
-"It's the only step on the path."
+Thalia took another step. Her bad foot found a stone and she winced before she could disguise it. Percy opened his mouth.
 
-"It's the best step on the path and it's got a vein running through it and it's going to grass over in the spring and it's going to be there in four years when somebody comes up this hill and doesn't know who put it there." Silena picked up the basket and turned to go, and stopped, and said, without turning round, "The door's flat."
+"Don't," she said, without looking at him.
 
-"The door's flat," Percy said.
+"I haven't said anything."
 
-"Clarisse said it'd be flat by tonight."
+"You have an incredibly loud face."
 
-"Clarisse's always right about doors."
+Annabeth crossed her arms. "You said you'd get it checked if it still hurt this week."
 
-"Clarisse's always right about most things." Silena went away down the path with the basket over her arm and her hair coming loose, and Percy and Annabeth stood at the bottom of the hill and watched her go, and the cold came up off the lake and moved the pines, and the tenth lantern came on at the bottom of the hill, and the night came down, and the Friday dinner was coming, and the soup was the good one, and they were ready.
+"I said I'd think about it."
+
+"Those aren't the same thing."
+
+"No. They're not."
+
+Thalia wasn't shouting. She sounded exhausted, which was harder for Annabeth to argue with than a raised voice. Percy watched the two of them and tried to understand where help ended and telling Thalia what she ought to do began. The problem was that Thalia had been making her own decisions for so long she heard any suggestion as an attempt to take them away.
+
+"Chiron's at the Big House tomorrow," Percy said. "He could take a look without making a whole event of it."
+
+Thalia's head came up. "And how would you know his schedule?"
+
+"He told Clarisse at the tool bench."
+
+"Then he's got a schedule. Good for him."
+
+Annabeth looked ready to press the point. Thalia shifted the bow to her other hand and took a breath.
+
+"Not on this path," she said. "Not with everybody coming past on the way to dinner."
+
+Annabeth held her gaze. Then she nodded, unwillingly. "All right. Later, when you're ready to talk."
+
+"Thank you."
+
+It wasn't an agreement to see Chiron, and nobody could pretend it was. Thalia continued downhill, moving stiffly on the slope. Percy stepped aside to let her pass without reaching for her arm.
+
+She stopped once. "For what it's worth, the shots weren't bad."
+
+"We believe you," Annabeth said.
+
+"You don't have to believe me. I brought the scorecard."
+
+Thalia pulled it from her pocket and handed it to Annabeth. Two of the scores were crossed out and corrected. Annabeth studied the marks while Thalia walked on ahead. She didn't follow her sister with another question.
+
+"She did shoot well," Percy said.
+
+"Of course she did." Annabeth folded the card carefully. "I wish she didn't have to make it harder on herself."
+
+Percy took her hand. They waited until Thalia had reached the bend before starting down toward dinner.
+
+---
+
+Silena was carrying two loaves to the pavilion when Percy and Annabeth caught up with her. The cloth over the basket had slipped, revealing a browned crust and the first cut edge of the second loaf. She had been baking since dawn and looked pleased with the result, though she was walking fast enough to make the basket bounce.
+
+"Hands," she said.
+
+Percy looked at them. "Still attached."
+
+"That's not what I meant."
+
+"They're clean enough."
+
+"Not for bread." She tipped the basket toward Annabeth instead. "You can carry the light end."
+
+Annabeth caught the handle while Percy wrestled with his coat cuff, trying to get the grit out of the fold. He'd washed at the workshop, but he had leaned against three dirty walls afterward. Silena was right about that part, and there was no advantage in disputing it.
+
+"I heard you got the door fixed," she said.
+
+"And a step."
+
+"Good. The delivery people have been catching their boots on the lower path since the storm. Did you check it from both directions?"
+
+Percy glanced at Annabeth. They had not.
+
+"We used the level," he said.
+
+Silena gave him a look. "That wasn't my question."
+
+Annabeth raised an eyebrow at him, but didn't start an argument on the road. "We'll check it on the way back."
+
+"Before it freezes, please. I don't want to explain to Chiron why somebody dropped a crate of bread on a perfectly pretty piece of granite."
+
+She shifted the basket into both hands. A few paces farther on she stopped to examine the cloth.
+
+"The kitchen's going to be a mess after supper," she said. "Everyone's offering to wash dishes. Nobody's offering to dry and put anything away."
+
+"I can do the drying," Percy said.
+
+"You'll need to wash those hands first."
+
+"I know."
+
+"Annabeth?"
+
+"I'll stack. And I can help with the drying if we finish the step early."
+
+Silena looked relieved in a way that embarrassed Percy. He had heard her asking people for help all week, and had treated the requests like a joke because she made them sound funny. There was a limit to how much she could do while everyone else celebrated a good meal.
+
+At the fork below the pavilion, Silena shifted the basket back against her hip. "Go to the cabin, wash, and check that stone step before anybody uses it with a crate. I'll take the bread up myself."
+
+"We're going to be late," Percy said.
+
+"Better late than carrying someone who slipped." She started up toward the pavilion. "You promised me help with the dishes. That means clean hands and a safe path first."
+
+Annabeth tugged Percy's sleeve toward the cabin route. He followed, still muttering about the soup, and Silena went ahead with both loaves intact.
+
+---
+
+They had almost reached the cabin when Annabeth stopped so abruptly Percy took two more steps before noticing.
+
+"What?"
+
+"The new step."
+
+"We put it in two hours ago."
+
+"Yes, and neither of us checked it from the downhill side."
+
+He looked back toward the north path. The light was dropping fast, and the stone lay between two stretches of frozen ground that would only get slicker as the season went on. They had leveled its face by eye and by the bubble. That was how you made a step flat. It was not necessarily how you made it safe.
+
+"We stood on it," Percy said.
+
+"We stood on it together, on the uphill edge. Somebody carrying a crate won't."
+
+"The pavilion is going to run out of soup while you redesign a rock."
+
+"The pavilion has Silena in it. The soup is the one thing we're safe from running out of."
+
+They walked back. Percy was irritated, mostly because she had noticed a question he should have thought to ask. The stone looked exactly as they'd left it, quartz vein running across the break, both halves tucked neatly into the earth. When he put his boot on the downhill corner and shifted his weight, the right half gave a faint, unmistakable click.
+
+Annabeth didn't say anything. Somehow that was worse.
+
+Percy took his weight off. "Fine. It moves."
+
+"I saw."
+
+"I know you saw."
+
+She knelt to inspect the seam. The tamped gravel had settled into the hollow where the old storm runoff crossed the path. The stone was level on top, but one corner had no support beneath it. A winter's worth of boots would make it worse.
+
+He fetched the little iron bar from the work basket they'd left beside the path and lifted the corner. Annabeth slid flat pieces of gravel underneath, checked the surface with the level, and shook her head. They repeated the adjustment twice. The third time Percy stepped on the edge, it held.
+
+"Now somebody can carry a crate," he said.
+
+"Now somebody can carry a crate without going through a fence."
+
+He brushed dirt off his palms. The work had taken twelve minutes. His fingers were numb. He hadn't wanted to spend any of those minutes doing the job again, and yet the corrected step gave him more satisfaction than the original one.
+
+Annabeth gathered the tools into the basket, pausing when she saw him staring at the stone.
+
+"What?"
+
+"Nothing. I'm just trying to decide whether you'd have told me."
+
+"That it moved? Of course."
+
+"Even if you thought I'd be annoyed?"
+
+She looked at him. "Especially then."
+
+He gave a short laugh. "Terrible girlfriend. Constantly preventing broken ankles."
+
+"That's the service. Complaints go in the book."
+
+"Put down that I was right about dinner, at least."
+
+"About the soup?"
+
+"About being hungry."
+
+"That's not a prediction, Percy. It's a chronic condition."
+
+They carried the basket uphill together. At the turn where the path dipped behind the cedar, Percy looked back once. The step was still there, no grander than before. It would matter most on the day nobody noticed it at all.
+
+He decided that was a better measure of the work than how pleased he'd felt when he finished it the first time.
 
 ---
 
@@ -464,9 +614,43 @@ They stopped at the cabin on the way, because the cabin was on the way and becau
 
 ---
 
-The walk from the cabin to the pavilion was the walk everybody made, and it was short, and it was cold, and it was the kind of walk where you did not talk because there was nothing to say that the day had not already said, and you walked in the particular silence of two people who have been in a cold bright afternoon and are now going to a warm loud room and are glad of both.
+The cabin door was open when they came out from the washbasin. Clarisse had left her work gloves drying beside the stove. She was not there, but the list was: a sheet of brown paper held down with a cup, each finished job struck through in the same thick line of pencil.
 
-They went in through the pavilion door and the heat got them and the noise got them and the light got them, and they gave their coats to the hooks and their hands to the fire and their names to whoever was counting heads, and they sat down at the table that was theirs, and the soup was the good one, and the bread was warm, and the room was loud and warm, and the fire cracked, and the night came down, and the week was over, and the winter was coming, and the camp went to sleep under a sky with more stars in it than anybody had names for.
+Percy stopped to read it. Greenhouse bank, toolshed door, north step. Three marks made that afternoon, one beneath another. Below them were the torn awning and the fallen pine.
+
+Annabeth leaned over his shoulder. "You can admire it after we eat."
+
+"I'm looking for the pump."
+
+"The handle's in the tool basket. You carried it past the bench twice."
+
+"That's a problem for tomorrow morning."
+
+"Then write it down."
+
+He found the pencil Clarisse kept tied to a bit of cord near the wall. Beneath the existing list he wrote RETURN PUMP HANDLE and, after a moment, CHECK NORTH STEP AFTER FIRST HARD FROST.
+
+Annabeth read the second line. "You don't need to volunteer for everything."
+
+"I need to remember what we just learned."
+
+"Fair. But Clarisse owns the list. If she doesn't like your handwriting, she'll make you rewrite the whole thing."
+
+"Then I'm leaving it crooked."
+
+She examined the two letters he had reversed in HANDLE and raised an eyebrow. He corrected them before she said a word.
+
+From outside came the sound of boots on gravel and somebody calling that the pavilion would serve without them. Percy put the pencil back on its cord. The list wasn't finished, and perhaps that was why it interested him. Tomorrow would not have to start from an empty page. They could do the work that mattered, stop when it was dark, and still go in for supper.
+
+Annabeth took the cup off the paper, set it on the shelf, and put a fresh weight on the corner so the list wouldn't curl in the heat.
+
+"Come on," she said. "You can be competent with food in you."
+
+"I'm extremely competent with food in me."
+
+"Let's test that theory."
+
+They closed the door behind them and headed for the noise of dinner.
 
 ---
 
@@ -484,31 +668,101 @@ Clarisse stood up at the end of the meal with the list under her arm and her boo
 
 "It's a boy and he's sitting at this table and he's going to cut the pine on Saturday and that's the whole of the announcement." Clarisse put the list under her plate and sat down, and the room went on being loud and warm, and the fire cracked, and the night came down, and the week was over, and the winter was coming, and the camp went to sleep under a sky with more stars in it than anybody had names for.
 
-He did not stop. He was a boy with a pump handle and a list and a sister who would want to know whether the handle was ash, and he went down the path with the handle under his arm and the cold on his face and the particular pleasure of a thing that was going well and did not need him to be in the room for it.
-
 ---
 
-The Friday dinner was in the pavilion, because the pavilion was the room the camp used when it wanted to be all in one room, and on a Friday in October with the cold coming down off the ridge and the lake going grey at the edges, the pavilion was full and loud and warm in the way a room full of people eating is warm, which is the best kind.
+The first people to leave dinner were the younger campers, half asleep and reluctant to admit it. The rest lingered while the serving pans were carried out. The meal had turned the pavilion noisy in layers: benches shifting on stone, arguments about whose turn it was to carry firewood, somebody laughing much too hard at a joke Percy had missed.
 
-There were four tables and a fire in the brazier and a pot of the good soup — the second-day soup, the one Beckendorf had come back for — and Clarisse at the head of the first table with the list under her plate and her boots off under the bench because even Clarisse took her boots off at a Friday dinner, and Thalia at the second table with her hair still wet from the lake and a camp shirt that had been somebody else's in June, and Annabeth at the third with the field book open beside her plate and a pencil behind her ear, and Silena moving between the tables with the bread basket and a face like a hostess at a thing she had organised and was not going to take credit for.
+Clarisse didn't get up when Silena came to collect the bowls. She had the winter list beside her plate and the pencil still tucked behind one ear. Silena picked up an empty pot, held it under one arm, and looked at the page.
 
-Percy sat between his sisters, which was where he always sat, and ate two bowls of the soup and a heel of bread and a piece of the honey cake that Silena had made and not told anybody about, and listened to the room do what rooms do on a Friday, which is to be loud and warm and full of the particular noise of people who have worked all week and are now allowed to stop.
+"Not tonight," she said.
 
-"Greenhouse bank's done," Clarisse said, to the table, to nobody, to the list. "Pots carried and stacked. That's one."
+"I haven't said anything."
 
-"One," Thalia said. "You're keeping score now."
+"You've got the face you make when you want four volunteers at eight in the morning."
 
-"I've always been keeping score. You've just never been in a position to hear the numbers."
+"I need four volunteers at eight in the morning."
 
-"The awning's next," Clarisse said. "The torn one. It's a canvas-and-grommet job. It wants two people and a dry afternoon and a grommet set, and we've got the grommet set, and I want it before the next rain."
+"Then they'll still be there at breakfast."
 
-"It'll be done by the next rain," Annabeth said, without looking up from the field book.
+Clarisse's mouth tightened. "That pine isn't going to move itself. The fence is still under the trunk."
 
-"It'll be done by the next rain and you'll say I never told you."
+"The fence has been under the trunk for days," Annabeth said from across the table. "Nobody's going near that side until the saw team makes it safe."
 
-"I'll say it in front of sixteen people."
+"And who's keeping them away?"
 
-The table laughed. The fire cracked. Mr. D stood in the doorway for ninety seconds with a cup of something that was definitely not soup and made a remark about the quality of the bread, and then went away again when nobody paid him for it, and Chiron rolled in from the Big House in a coat with the hood down and sat at the fourth table with a bowl and the particular satisfaction of a man who had organised nothing and was prepared to accept the credit, and the room went on being loud and warm and full, and the tenth lantern came on at the bottom of the hill, and the night came down, and the week was over.
+"Chiron's rope. Two warning signs. The patrol that checks it."
+
+Clarisse looked at her for a moment. "And who checked the rope today?"
+
+Annabeth opened her mouth, then closed it. Her patrol had been assigned elsewhere. She had assumed somebody else had taken the west edge.
+
+"That's what I thought," Clarisse said.
+
+Percy shifted on the bench. He could have offered to check it right then. The old version of him would have, if only to stop the silence spreading around the table. But it was nearly dark. Any inspection would need a lantern and a second person, and the slope beneath the fallen trunk was dangerous after frost.
+
+"We can go at first light," he said instead. "Two people. Look from the safe side before the saw team comes in."
+
+"That isn't the same as checking it now."
+
+"No. But it's a plan we can actually do properly."
+
+Thalia set her mug down. "I'll take the first look. I'm already out for drills at dawn."
+
+"No," Clarisse said. "You're needed on the archery line."
+
+"I'm needed wherever my boots are useful."
+
+"You're needed to stay off that heel when it starts complaining," Rhys said from the far bench.
+
+Thalia gave him an unpleasant look. Percy recognized it. He had received several versions himself.
+
+"We'll put the early check with somebody else," Annabeth said. "Not because Thalia can't do it. Because the inspection needs two people carrying a coil of rope, and the saw crew needs to know where to meet them afterward."
+
+Thalia considered arguing. Instead she tipped her mug toward Annabeth.
+
+"Write the time," she said. "If I hear you moved it to seven without telling me, there'll be trouble."
+
+"Six forty-five," Annabeth said, retrieving her pencil.
+
+Silena put the pot down. "And who's on breakfast? Because I refuse to have this many people on the hill before they've eaten anything."
+
+"I'll bring bread," Percy offered.
+
+"That's not the same as breakfast."
+
+"Then I'll bring two pieces of bread."
+
+"Hopeless," she told the ceiling. "Completely hopeless."
+
+Clarisse was no longer looking at the list. She was watching the argument go back and forth, and her shoulders had dropped about an inch. Percy noticed because she almost never allowed them to drop when work was still undone.
+
+"Fine," she said. "Breakfast first. Rope check with two, not one. Saw team doesn't touch the trunk until the fence line's marked. The awning waits for a dry day."
+
+"The awning will survive," Silena said.
+
+"It'd better."
+
+Silena picked up the pot again and gave Percy a nod toward the kitchen. He rose to help, and Annabeth followed with the cups. Nobody had won the evening. Nobody had to. The problem that had kept Clarisse at the table was still there, but now the people working on it knew where they were going to stand and what they were not going to do.
+
+At the wash station, Percy rinsed the last of the soup from a bowl and passed it to Annabeth. Through the pavilion window he could see Clarisse showing Chiron the list, holding it flat so he could read the added time. Silena was stacking bread tins with the brisk, satisfied movements of somebody who had finally got her kitchen back.
+
+"She's going to be up before everybody," Percy said.
+
+"Clarisse?"
+
+"Obviously."
+
+"Probably," Annabeth admitted. She dried the bowl. "But she'll have company this time."
+
+He nudged her elbow with his. "I still think the step is the better job."
+
+"You can tell that to the pine tomorrow."
+
+"I'll tell it from behind the rope."
+
+"Good. I don't want you improvising a heroic disagreement with a falling tree."
+
+He handed her the last cup, and she put it on the rack. When the washing was done, they didn't stay to invent more work. They found their coats, said goodnight to Silena, and went out into the dark together.
 
 ---
 
@@ -535,14 +789,6 @@ They broke apart by degrees, the way the good ones do, and stood forehead to for
 "You wouldn't."
 
 "I'd read it out at dinner." She kissed him again, quick, and then opened the door, and the stove's heat came out and got them, and they went in, and the porch light went off on its timer a minute later, and the tenth lantern burned on its hook at the bottom of the hill for anybody who came up late, and the cabin door shut, and the week was over, and the winter was coming, and the camp went to sleep under a sky with more stars in it than anybody had names for.
-
----
-
-and the week was over, and the work was done, and the soup was the good one, and they were ready.
-
----
-
-The path to the pavilion was short. The cold was sharp. The lanterns burned one by one up the hill. They walked in silence. There was nothing left to say. The day had said it all. They went in through the door. The heat got them. The noise got them. They gave their coats to the hooks. They gave their hands to the fire. They sat at their table. The soup was the good one. The bread was warm. The room was loud and warm. The fire cracked. The night came down. The week was over. The winter was coming. The camp went to sleep under a sky with more stars in it than anybody had names for. And the week was done.
 
 ---
 

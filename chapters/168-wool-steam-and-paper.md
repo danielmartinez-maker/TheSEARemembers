@@ -458,11 +458,28 @@ Silena came out with her own cup and looked up at the star, and her face did the
 
 "I'll ask Chiron tomorrow," Silena said, already writing the plan on a slip in her pocket, inside out, because she always planned the future with her hands full: FIRST CLEAR → CANOE. Then, under it, in the dark, taking the pencil from her hair: FIRST SNOW → SOUP. And under that, in her round fast hand, the way she wrote all the laws of the cabin: KEEP THE FORT. It flourishes in storms.
 
-They went in together. The quilts were down around the hall by then — some of them — the fort turned nest, the blankets mounded, the lanterns low. Thalia had the inside corner and had lost the boot-pile battle with Marcus's rope. Annabeth was asleep in the wool with his scarf around her neck, her breath even, her hand hooked loosely in the collar of his shirt, and he sat down beside her and put his arm around her, and she made a small sound of recognition at the weight and settled deeper against him, and the rain went to a drip on the shell strings at the eaves, and tomorrow was a door with light under it, and the letter was on its way north, and the cabin lay warm in the loneliest hour of the storm — a room inside a room, built by four-plus-one hands on a Tuesday because the weather had turned and shelter was a thing they made, on purpose, out of wool and rope and each other.
+The fort had survived the worst of the rain, but it had not survived everyone trying to sleep in it. One corner sagged where a knot had slipped along the rope. The blanket above the door was hanging so low that Clarisse had to duck.
 
-Percy put his chin in Annabeth's hair, which still smelled faintly of rain and lavender, and watched the lantern swing, and thought: cold outside. Warm chosen. Tuesday is a letter day, and there is a roof I built, and a fort that paid off.
+"Tomorrow," Silena said, surveying it, "we make that knot properly."
 
-He slept the way you can only sleep in the middle of a kept place, with the rain going soft and the shells ticking and five heartbeats in the room, and did not count the days at all.
+"Tomorrow we do several things properly," Clarisse answered.
+
+Percy went to check the lantern before sitting. It had swung toward a fold of wool, close enough to make him uncomfortable. He moved it back to the stone ledge, well clear of the fabric, and tested the hook. Annabeth opened one eye from her place on the quilt.
+
+"You fixed it?"
+
+"I moved it. Different thing."
+
+"Good difference."
+
+He passed her the end of the scarf that had slipped off her shoulder. She took it and tucked it round herself, leaving enough room beside her for him. Thalia had already claimed the inside corner, boots off, with a pile of rope to one side. From beneath the next blanket Silena's voice ordered somebody to put the wet socks outside the sleeping space.
+
+"Who's on that tomorrow?" Percy asked.
+
+"Nobody until the rain stops," came Clarisse's answer.
+
+It was sensible, and Percy recognized that he was tired enough to be glad someone else had said it. He lowered himself onto the quilt and tucked his arm around Annabeth, who made room for him without opening her eyes again.
+
+The shells ticked at the eaves, slower now. The letter was on its way north, and the fort would need repairs when they were awake. Percy could leave both matters where they were. In the morning they'd have to untie everything and find out which blankets were dry. Tonight, the lantern was safe, the entrance was clear, and there was enough space for everyone to sleep.
 
 ---
-

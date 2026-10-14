@@ -6,7 +6,7 @@ That was wrong, and it bothered him for a full minute before he could name why. 
 
 He lay in his bunk in Cabin Three and listened to them and felt homesick in a way that sat right behind his teeth.
 
-It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite — not Sally, and wasn't that a whole confusing ache all on its own — had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. Tuesdays at Camp Half-Blood meant Capture the Flag drills at nine and archery with the Apollo kids at eleven and, if the rumor Grover had whispered at dinner last night was true, mail call from underwater.
+It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. He remembered that last morning clearly; the years before it remained someone else's stories. Tuesdays at Camp Half-Blood meant Capture the Flag drills at nine and archery with the Apollo kids at eleven and, if the rumor Grover had whispered at dinner last night was true, mail call from underwater.
 
 Percy sat up. The cabin was quiet. The other Poseidon bunks were empty except for yesterday's abandoned towel mountain and a single sock that had somehow ended up on the ceiling beam. Sun stripes came through the shells set into the walls. The whole cabin smelled like salt and cedar and the lemon soap Silena insisted they all use because, and Percy quoted from memory, "just because we are children of the sea god does not mean we have to smell like low tide."
 
@@ -24,7 +24,7 @@ He ate one honey cake standing up and saved the other in his pocket for later, p
 
 *Perseus — J. will open a channel at 08:00 by the lake. Be prompt. — Chiron*
 
-J. Jason? Juno? Percy squinted. Probably the rainbow lady. Iris. Right. Iris-messages.
+J. Juniper? Percy squinted. Chiron's handwriting was dreadful, and he had no idea who had volunteered to organize the message.
 
 His heart kicked up fast.
 
@@ -38,13 +38,13 @@ He ran.
 
 ---
 
-The lake was glassy and gold at that hour. Mist sat low over the water. The canoes were pulled up and dripping. At the edge of the dock, Chiron in his wheelchair form was guiding Jason Grace through how to toss a drachma correctly. Their younger brother was back for a second approved short visit; Chiron had arranged his escort from Camp Jupiter and promised to supervise the call.
+The lake was glassy and gold at that hour. Mist sat low over the water. The canoes were pulled up and dripping. At the edge of the dock, Chiron in his wheelchair form was guiding Nico di Angelo through how to toss a drachma correctly. Nico had volunteered to help with the Iris-message after Zoe told him the old records included an account of a deep-sea channel.
 
 "No, my boy," Chiron was saying patiently. "You do not skip it like a stone. You offer it. With respect."
 
-"I am offering it with respect," Jason said, holding a gold coin like it might bite him. "Respectfully skipping."
+"I am offering it with respect," Nico said, holding a gold coin like it might bite him. "Respectfully skipping."
 
-Annabeth sat cross-legged on the dock with a notebook, her blonde hair in a messy braid, her gray eyes tracking everything. Thalia sat next to her, knees up, black hair spiky with sleep, a leather jacket over her pajamas against the morning chill. They were both watching Jason fail at Iris-messaging with the particular delight of sisters enjoying a rare chance to torment their younger brother.
+Annabeth sat cross-legged on the dock with a notebook, her blonde hair in a messy braid, her gray eyes tracking everything. Thalia sat next to her, knees up, black hair spiky with sleep, a leather jacket over her pajamas against the morning chill. They were both watching Nico fail at Iris-messaging, amused in spite of how nervous Percy was.
 
 Grover was there too, half-asleep against a piling, his reed pipes tucked into his shirt pocket. Ella the harpy perched on the lifeguard chair with a book, muttering synonyms under her breath. Zoe, daughter of Hecate, stood a little apart with her arms crossed, pretending she wasn't interested.
 
@@ -60,7 +60,7 @@ Percy dropped down between them. On his left, Clarisse elbowed him hard in greet
 
 Chiron smiled. "Amphitrite is queen of the sea for a reason, Percy. If anyone can hold a rainbow steady under the sea, it's her."
 
-Jason finally managed to toss his drachma without concussing anyone. "O Iris, goddess of the rainbow, accept my offering," he recited. The coin flashed gold and vanished. The mist over the lake shimmered, caught light, and stretched into a faint rainbow, wavering at the edges.
+Nico finally managed to toss his drachma without concussing anyone. "O Iris, goddess of the rainbow, accept my offering," he recited. The coin flashed gold and vanished. The mist over the lake shimmered, caught light, and stretched into a faint rainbow, wavering at the edges.
 
 Nothing happened for three heartbeats.
 
@@ -118,7 +118,7 @@ Then a tall shape ducked into frame behind Amphitrite and slung an arm around he
 
 "He says you cry at turtle hatchings," Clarisse said bluntly.
 
-The dock went silent. Silena covered her mouth. Jason whispered, "Oh, she's dead."
+The dock went silent. Silena covered her mouth. Nico whispered, "He's going to regret that."
 
 Triton stared. Then he barked a laugh. "I like her. Keep her. Mom, can we keep the short angry one?"
 
@@ -156,7 +156,7 @@ The kitchen went quieter. Percy felt Clarisse and Silena go still on either side
 
 Poseidon stepped into view.
 
-He was not what camp expected, Percy could tell by the way Jason straightened and Zoe uncrossed her arms. He wasn't huge and bellowing and trident-waving. He was tired. His beard was neatly trimmed, his deep blue robe was salt-stained at the hem, his eyes were Percy's eyes — sea-green, ancient, sad around the edges. He put a hand on Amphitrite's shoulder and nodded at the rainbow.
+He was not what camp expected, Percy could tell by the way Nico straightened and Zoe uncrossed her arms. He wasn't huge and bellowing and trident-waving. He was tired. His beard was neatly trimmed, his deep blue robe was salt-stained at the hem, his eyes were Percy's eyes — sea-green, ancient, sad around the edges. He put a hand on Amphitrite's shoulder and nodded at the rainbow.
 
 "Perseus."
 
@@ -226,7 +226,7 @@ Chiron cleared his throat gently. "Percy, when the courier arrives, do come find
 
 "Thanks, Chiron."
 
-The group broke up slowly. Jason tried to Iris-message his own mom and got a confused pizza shop in Ohio. Ella flapped down to ask Annabeth what "conchomancy" meant and whether it had an antonym. Zoe lingered just long enough to say to Percy, very quietly, "Your mother holds a deep-sea Iris channel for four minutes. That is not a small magic," before walking off.
+The group broke up slowly. Nico tried to Iris-message the library's supply officer and reached a confused pizza shop in Ohio. Ella flapped down to ask Annabeth what "conchomancy" meant and whether it had an antonym. Zoe lingered just long enough to say to Percy, very quietly, "Your mother holds a deep-sea Iris channel for four minutes. That is not a small magic," before walking off.
 
 But Clarisse and Silena didn't move. They stayed flanking Percy on the dock, watching the mist burn off the lake.
 
@@ -472,6 +472,222 @@ They floated in a row, three children of Poseidon, shoulder to shoulder, staring
 
 ---
 
+Before the cooking began, Silena took the delivery inventory back to the stores desk. It would have been easy to leave it until morning. There was a crate full of strange food, three new bracelets, and a little brother who looked as though he might start laughing or crying whenever somebody said the word *home*. She wanted to join the others. She also knew how quickly gifts stopped being gifts when nobody could agree who was responsible for them.
+
+The night steward was a sleepy satyr named Doron, who had once told Silena that camp paperwork existed so that future campers would know exactly whom to blame. Today he was trying to reconcile six orders for bandage cloth and a box of screws that had appeared without a shipping label.
+
+"Please tell me that's not another unidentified package," he said when she arrived.
+
+"It's family mail." Silena put the courier's manifest on his desk. "Some of the things are for Cabin Three. Some are food we have to store properly. The blankets are already issued, but I want the delivery noted before we use anything."
+
+Doron examined Barnacle's signature, which was a damp imprint of a hoof. "I suppose this is legally binding under whatever maritime law the hippocamps observe."
+
+"Amphitrite sealed the manifest herself."
+
+"Then I'd advise against misplacing it."
+
+They listed the contents together. The food required a cool shelf, the blankets could go straight to the cabin, and three small envelopes were to stay with Percy unless he authorized someone else to handle them. The steward looked up when Silena asked for an extra copy of the last rule.
+
+"Your brother doesn't want the letters read?"
+
+"He hasn't said. That's why I'd rather nobody assume."
+
+Doron marked the entry. "You understand the distinction better than most adults."
+
+"I've worked the stores desk long enough to learn that people take things they think they're entitled to."
+
+He handed her the signed sheet. Silena carried it outside, where the paths were filling with campers returning from afternoon training. She could hear shouting near the lake: Clarisse was trying to convince Percy to race her across the dock, despite having spent half the morning telling him not to exhaust himself before the message from Atlantis.
+
+Near the bathhouse, Annabeth intercepted her.
+
+"Can I ask you something?"
+
+"Of course."
+
+"Does Percy always react that way when Amphitrite calls?"
+
+Silena thought of the boy staring at the rainbow after the call had ended. He had seemed delighted to see his family. He had also looked painfully uncertain when she asked whether the palace still kept his place set at dinner.
+
+"I've only seen them talk a few times," she said. "I'm not qualified to say what he always does."
+
+Annabeth smiled reluctantly. "Fair."
+
+"Why?"
+
+"He was happy. I know he was. But after the image disappeared he looked as though he'd been waiting for another question, one he wasn't sure how to answer."
+
+Silena folded the manifest into her bag. She hadn't known Percy in the years Annabeth remembered. She was beginning to understand that both of them carried worries they couldn't explain without revealing something larger. The obvious solution would be to ask Percy directly, but that wouldn't tell her whether Annabeth was asking for his sake or her own.
+
+"Did you ask him?"
+
+"Not then. Clarisse was hugging him hard enough to make his ribs complain."
+
+"She calls that hugging?"
+
+"Apparently."
+
+Silena leaned against the wall. "Percy's allowed to miss people when he's with us. He's also allowed to enjoy himself here without proving he doesn't miss them. We can't make him pick one family to be happy about."
+
+"I'm not asking him to pick," Annabeth said, too quickly.
+
+"I know. I'm asking you not to decide what he's feeling for him."
+
+Annabeth looked toward the lake. Silena had begun to notice that whenever somebody offered her a small piece of advice, she wanted to test the whole argument as though it were a bridge about to fail. She wasn't being unkind. She wanted the answer to hold.
+
+"You're right," Annabeth said after a moment. "I'll ask him when we're alone."
+
+"And if he doesn't want to tell you?"
+
+"Then I'll stop asking."
+
+"Good."
+
+They walked to the edge of the practice yard together. A younger child from the Hermes cabin was carrying a damp towel by two fingers, holding it away from herself like something poisonous. She stopped to ask Silena where the clean ones belonged.
+
+Silena explained the laundry bins and watched the girl hurry off.
+
+"How do you keep track of everybody's things?" Annabeth asked.
+
+"Badly, some days. That's why I make people sign forms."
+
+"Percy says you keep an entire cabin running on lists."
+
+"Percy says that because he thinks if I have a list I'll forget to make him put his shoes away."
+
+Annabeth laughed. "Does it work?"
+
+"Not once."
+
+Their conversation should have ended there. Instead Annabeth remained beside the fence, twisting the end of the ribbon at her wrist.
+
+"Amphitrite doesn't know the person he used to be," she said quietly.
+
+Silena turned to her. The words could mean a dozen things, and none was a question she could reasonably answer. Percy had arrived with the kind of gaps in his recent history that frightened anyone responsible for a child. Silena knew he sometimes looked blank when Clarisse mentioned a family outing, then tried to disguise it with a joke. She had learned to let him have that moment.
+
+"I don't know what happened before he came here," she said. "I know she loves him. I know he loves her. If he wants to explain the rest, he can decide when."
+
+Annabeth pressed her lips together. "I know."
+
+Silena could hear the part Annabeth wasn't saying, but refused to fill it in for her. She wasn't going to demand an account of somebody else's memories because she was old enough to recognize the shape of a secret.
+
+"Come eat with us tonight," she said. "You can help us ruin whatever dinner we're attempting."
+
+"I thought Amphitrite sent actual food."
+
+"She did. Percy and Clarisse are already trying to improve it."
+
+"That sounds dangerous."
+
+"It probably is."
+
+They reached Cabin Three to find Clarisse inspecting the little bracelets again. She was holding the gold one near the window, where the last light caught the thread and made the seal's pattern visible.
+
+"Is this supposed to be for fighting?" Clarisse asked without greeting them.
+
+Silena looked at the bracelet. "It's decorative."
+
+"Everything is for fighting if it gets caught in the wrong place. I don't want it snagged on my spear."
+
+"Then take it off when you train."
+
+"That defeats the purpose of a protective gift."
+
+"It is not a ward, Clarisse. It is jewelry from a queen who wanted us to have something of hers."
+
+Clarisse rubbed a thumb along the knot. "So I'm supposed to keep it safe."
+
+"You're allowed to enjoy it."
+
+"I enjoy useful things."
+
+Percy came out of the small washroom in time to hear the argument.
+
+"It is useful," he said. "If you wear it, Amphitrite can pretend she has convinced you to stop getting into fights."
+
+Clarisse glared. "No one can convince me of that."
+
+"Exactly. It makes her optimistic."
+
+She couldn't maintain the glare. The smile that escaped was small and angry at being seen. Silena let her have it.
+
+Percy moved toward the supply crate and took out a pair of neatly folded cloth napkins. He set them beside the bracelets without opening the envelopes in the chest.
+
+"I've got something to ask," he said. "When I send a reply, do you want to put your own notes in it? Or should I tell her how today went?"
+
+Clarisse glanced at Silena. "You can write it."
+
+"Maybe I can. I want you to have the choice."
+
+That changed the room. Silena had been treating the gifts as a statement Amphitrite made to Percy. Clarisse seemed to have been treating them as a test she was meant to pass. But a letter they wrote themselves would be different. They could decide what to say rather than having Percy describe them as additions to his life.
+
+"I'll write something," Silena said. "Not tonight. I want it to sound like me."
+
+"I can tell her I beat you in the shield game," Clarisse said.
+
+"She watched the result," Percy reminded her.
+
+"Then I'll explain the circumstances."
+
+"Which circumstances?"
+
+"The ones that demonstrate I should have won."
+
+Silena fetched clean paper from her writing case. She didn't insist Clarisse use it immediately. Percy took the paper anyway and began making a list of the things the courier could carry safely: letters, small drawings and perhaps a spare photograph if somebody at camp could take one.
+
+"Can we send food back?" Annabeth asked.
+
+"Not without checking the courier's route," Silena said. "Some things spoil before they get down to the palace."
+
+Percy looked at the crate. "I could send her a jar of strawberry jam."
+
+"That might be the first food an Atlantean queen receives from the surface that's actually made for people," Clarisse said.
+
+He gave her a look. "She sent us perfectly edible food."
+
+"You know what I mean."
+
+Silena made a note to ask the kitchens about preserves. It wasn't a promise. It was the first step in finding out what was possible.
+
+A knock at the cabin door interrupted them. Chiron stood outside, carrying a short printed notice from the Big House. The message channel they'd used that morning had been stable, he explained, but repeated openings would require approval because the rainbow could be unreliable in poor weather. He'd arranged for the next available courier dispatch instead.
+
+"There's no need to answer everything tonight," he told Percy. "Your family can receive a letter when the route allows it."
+
+Percy looked at the unopened envelope still waiting in the chest. His father's seal seemed very large for a single piece of paper.
+
+"I'll write after I read the last one," he said.
+
+Chiron nodded. He did not ask why the letter was still sealed, or offer to interpret it. When he'd gone, Silena noticed Percy had stopped moving the paper around the table and was looking toward the door.
+
+"Do you want us to leave?" she asked.
+
+"No. I just don't want to open it with everybody waiting for my reaction."
+
+"Then don't."
+
+Clarisse set down the bracelet. "We'll be in the kitchen. Come when you feel like it."
+
+She said it as an instruction, which made it easier for Percy to accept. Silena collected the manifest and the reply paper, then followed her sister outside. She had expected the afternoon to end with everyone celebrating a queen's gifts. Instead it had reminded her how much work went into making a person feel they could accept something without owing an immediate performance in return.
+
+At the kitchen door, Clarisse stopped.
+
+"Do you think Amphitrite will mind if I write that the bracelets are nice?"
+
+"Why would she mind?"
+
+"Because it sounds stupid."
+
+"It sounds grateful."
+
+Clarisse shrugged. "I might also ask why she didn't tell us about the palace sooner."
+
+"Then ask."
+
+Silena went inside to put the preserves inquiry on the supply board. Behind them the cabin remained quiet. Percy had time to decide when to open his father's letter. His sisters could cook something dreadful without requiring him to be cheerful while they did it.
+
+
+
+---
+
 The cooking attempt was Silena's idea, which meant it was ambitious, under-supplied, and doomed.
 
 "We have sea-plum jam," she announced at dinner, spreading Triton's manual open to a page titled *FIELD RATIONS: WHAT TO EAT WHEN YOU ARE LOST AND YOUR BROTHER IS USELESS.* "We have sugar kelp from Barnacle's treats — Percy, did you steal those? — we have camp kitchen access for one hour, and we have heritage. We're making Atlantean dumpling soup."
@@ -482,7 +698,7 @@ Percy, who had nearly set fire to palace kitchen curtains during his short stay 
 
 "Invite everyone," Silena said grandly. "It's culture."
 
-So at seven o'clock, the camp kitchen — usually the domain of harried dryad cooks and the Demeter kids on dish duty — was invaded by: Percy, Clarisse, Silena, Annabeth, Thalia, Grover, Ella (who had brought her own apron that said KISS THE HARPY), Zoe (who claimed she was only there to supervise but had tied her hair back), and Jason (who had been invited because Thalia said he looked hungry).
+So at seven o'clock, the camp kitchen — usually the domain of harried dryad cooks and the Demeter kids on dish duty — was invaded by: Percy, Clarisse, Silena, Annabeth, Thalia, Grover, Ella (who had brought her own apron that said KISS THE HARPY), Zoe (who claimed she was only there to supervise but had tied her hair back), and Nico (who had been invited because Thalia said he looked hungry).
 
 "Okay," Percy said, standing on a stool to address his troops, Triton's manual in one hand, a wooden spoon in the other. "Dumpling soup. Step one: broth. In Atlantis we use deep-current broth with glow-kelp and crab. Here we have —" He peered into the pantry. "Chicken stock and seaweed snacks. That'll work."
 
@@ -492,7 +708,7 @@ Annabeth, sleeves rolled up, already chopping scallions with terrifying precisio
 
 What followed was chaos of the finest kind.
 
-Grover tried to grate ginger and got it in his eye and had to be led to the sink by Ella, who recited antidotes while patting his head. Thalia attempted to knead dough and ended up with it stuck to her jacket, her hair, and Jason's eyebrow. Jason, trying to help, misread "fold gently" as "punch repeatedly" and was banned from dough duty by Annabeth. Zoe, to everyone's shock, turned out to be excellent at pleating dumplings — "Hecate's daughters learn nimble fingers," she said primly, producing a perfect crescent while Clarisse's looked like a deflated football.
+Grover tried to grate ginger and got it in his eye and had to be led to the sink by Ella, who recited antidotes while patting his head. Thalia attempted to knead dough and ended up with it stuck to her jacket, her hair, and Nico's eyebrow. Nico, trying to help, misread "fold gently" as "punch repeatedly" and was banned from dough duty by Annabeth. Zoe, to everyone's shock, turned out to be excellent at pleating dumplings — "Hecate's daughters learn nimble fingers," she said primly, producing a perfect crescent while Clarisse's looked like a deflated football.
 
 "Yours looks like it's been in a fight," Percy told Clarisse.
 
@@ -502,7 +718,7 @@ Silena floated between stations, tasting broth, adjusting salt, tying back hair,
 
 "It's supposed to do that," Percy insisted, though his ears were red. "It's — it's the lightning. Sea-plum jam dumplings, blue broth — it's festive."
 
-Annabeth leaned against the counter next to him, flour on her cheek, watching Silena show Thalia how to pleat properly, watching Clarisse threaten Jason with a ladle for stealing a dumpling, watching Grover and Ella dance around the sink to the radio.
+Annabeth leaned against the counter next to him, flour on her cheek, watching Silena show Thalia how to pleat properly, watching Clarisse threaten Nico with a ladle for stealing a dumpling, watching Grover and Ella dance around the sink to the radio.
 
 "You okay?" she asked quietly, bumping his shoulder.
 
@@ -526,7 +742,7 @@ Percy didn't know what to say to that. So he did what Silena had done for him on
 
 "My mom says soup fixes most things," Percy said. "Triton says soup fixes hunger and everything else needs a sword. They're both kind of right."
 
-Annabeth laughed, real this time. "Come on. Let's finish before Clarisse kills Jason."
+Annabeth laughed, real this time. "Come on. Let's finish before Clarisse kills Nico."
 
 The soup, when it was finally served in chipped camp bowls at the big kitchen table, was blue, lumpy, too salty, slightly fizzy, and — as Grover declared through a mouthful — "amazing!"
 
@@ -536,7 +752,7 @@ Thalia slurped loudly. "Honestly? It's weird as hell. I love it. Give me more fi
 
 Clarisse held up her bowl. "To Percy. And his weird glowing soup. And his mom's jam. And Triton, who is handsome and correct."
 
-"To Triton!" Jason echoed, mouth full.
+"To Triton!" Nico echoed, mouth full.
 
 "To Amphitrite," Zoe said quietly. "Queen who holds rainbows steady."
 
@@ -546,7 +762,7 @@ Clarisse held up her bowl. "To Percy. And his weird glowing soup. And his mom's 
 
 They ate until the pot was empty. Ella collected everyone's favorite words for the soup ("effervescent!" "briny!" "brothy!" "blue!") and wrote them on a napkin for her lexicon. Grover played a soft tune on his pipes while they cleaned, and even Thalia hummed along, her arm around Annabeth's shoulders, both of them flour-dusted and laughing.
 
-Percy washed dishes next to Clarisse, who elbowed him every time he tried to hand her a wet plate, and across the sink Silena dried and stacked, and for a minute Percy closed his eyes and listened — water running, sisters bickering, friends laughing, Annabeth explaining to Jason why you don't put metal in a microwave while Thalia pretended not to listen — and it sounded, just for a second, like the palace kitchen at home. Loud and warm and full.
+Percy washed dishes next to Clarisse, who elbowed him every time he tried to hand her a wet plate, and across the sink Silena dried and stacked, and for a minute Percy closed his eyes and listened — water running, sisters bickering, friends laughing, Annabeth explaining to Nico why you don't put metal in a microwave while Thalia pretended not to listen — and it sounded, just for a second, like the palace kitchen at home. Loud and warm and full.
 
 He opened his eyes to find Clarisse watching him.
 
@@ -642,7 +858,10 @@ Percy climbed into his bunk, pulled the blue blanket up to his chin, and smiled 
 
 Silena didn't understand, but she wrote it down anyway: *He carried water. Percy smiled. Goodnight.*
 
-Outside, the gulls had finally gone quiet. The sea hummed far below, steady through the rock. And in Cabin Three, three children of Poseidon slept under one roof, bracelets glinting in the dark — blue and green and gold — while the tide kept watch.
+Outside, the gulls had finally gone quiet. Percy lay awake a little longer while Silena finished her journal entry. Clarisse turned over in the next bunk and demanded that he stop smiling in the dark because she could somehow hear it.
 
----
+"Not possible," Percy whispered.
 
+"Then stop making it possible."
+
+He turned toward the wall. He was still smiling when he fell asleep.

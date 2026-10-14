@@ -152,6 +152,94 @@ Half-Blood Hill. The pine tree. The place where Thalia Grace had died in the oth
 
 ---
 
+Before the walk to the border, Chiron asked them to empty their bags onto the picnic table behind the Big House.
+
+Percy looked at the pile of supplies and felt betrayed. Silena had spent yesterday packing every sock, sandwich and strip of bandage with the confidence of someone who intended to defeat the entire western United States by organization alone.
+
+"Everything?" he asked.
+
+"Everything you plan to carry," Chiron said.
+
+Thalia dumped a coil of rope onto the boards, followed by a bedroll, a first-aid tin and three packets of crackers. Annabeth lined her supplies up according to size, which Percy recognized as a delaying tactic. Grover produced so many small metal objects that Percy lost count somewhere between the cheese knife and the third emergency can.
+
+"Why are you carrying a horseshoe?" Thalia asked.
+
+"It's lucky."
+
+"You're a satyr."
+
+"That doesn't mean I can't appreciate good craftsmanship."
+
+Chiron held it up, weighed it, and set it in the pile marked *leave behind*. Grover watched it go as though somebody had confiscated a friend.
+
+The inspection wasn't about looking prepared. Chiron made Percy shoulder his bag, run the length of the porch and climb the low retaining wall behind the house without his water powers. When Percy landed, the straps had slipped, and the nectar bottle was pressing unpleasantly into his ribs.
+
+"Reach for your sword," Chiron said.
+
+Percy tried. The bag blocked his elbow.
+
+"Again, after you adjust it."
+
+They worked through the problem. A smaller pack made Riptide easier to reach. A higher strap balanced his weight. Percy moved the nectar to a padded interior pocket and secured his sword where it wouldn't fall when he needed both hands.
+
+Annabeth's turn revealed that her mirror for looking around corners could shatter against her knife sheath. She wrapped it in a spare shirt. Thalia discovered her spear was easy to carry on an open field and nearly impossible to maneuver through a doorway without striking the frame. Grover's enormous bag made him stumble when he tried to turn sharply.
+
+"Do we really need to do this in front of everyone?" Thalia asked after nearly breaking a window.
+
+"Would you prefer to discover the problem while a monster is chasing you?" Chiron replied.
+
+She scowled and tried again, shifting the spear point before she moved.
+
+Percy was surprised by how differently Annabeth took the criticism. She didn't mind being told her packing was flawed. She asked how long they might travel without potable water, and which supplies could be abandoned if they had to run. Her notebook came out, followed by the list of capacities she'd prepared the night before.
+
+"Do not write an answer that depends on a power Percy cannot guarantee," Chiron told her. "A lake may help him. An unfamiliar city might not."
+
+"I know," Annabeth said, and changed a line.
+
+Percy felt the little sting of becoming a variable on somebody else's chart. He also knew why she was doing it. A monster wouldn't wait for them to finish a plan. The difference between being able to use a power and promising it would always be available mattered.
+
+Chiron called them around the table again.
+
+"Three travelers named by the Oracle," he said, indicating Percy, Annabeth and Grover. "One authorized guardian." He turned to Thalia. "I have allowed you to accompany them because the alternative appears to be your leaving without permission. That does not give you authority to overrule every decision they make."
+
+Thalia's jaw tightened. "I heard you yesterday."
+
+"Then repeat it."
+
+"Guardian. Not fourth named quester. I can intervene to protect them. I don't get to decide what the prophecy means."
+
+Grover looked down at the equipment. "What if it means we shouldn't take her at all?"
+
+"Then the Oracle may teach us that our interpretation was wrong," Chiron said. "We cannot eliminate uncertainty by pretending we know exactly what the words require."
+
+Percy watched Thalia absorb that. She wasn't happy. Neither was Grover. Annabeth made a small mark beside her sister's name.
+
+"Can we agree what happens if we disagree in a fight?" Percy asked.
+
+"Before a fight," Annabeth corrected. "That's why we're doing this now."
+
+They settled on a few rules. Grover would report what he sensed without being forced to prove immediately that a smell meant a monster. Annabeth would determine routes when there was time to consult a map. Immediate danger meant the first person who saw it shouted a warning. Thalia would take rear guard when the others were moving. Percy would not turn every problem into a challenge to fight alone merely because he had a sword.
+
+"That last one is strangely specific," Percy said.
+
+"Your sisters supplied it," Chiron replied.
+
+From the grass nearby, Clarisse raised a hand without looking away from the shield she was polishing.
+
+"You're welcome!"
+
+Percy felt his ears heat.
+
+They finished with fewer possessions and a clearer idea of what each person could do. Grover still mourned the horseshoe. Thalia accepted a shorter method of carrying her spear. Annabeth repacked the mirror herself, refusing help with the knot until she'd tried twice.
+
+Percy lifted his pack. It felt lighter, but more importantly he knew where everything was. That was different from merely knowing who had put it there.
+
+They started toward the hill only after Chiron had made each of them run the length of the porch one more time. Nobody fell. Grover made the turn without knocking over the potted plants.
+
+"Now," Chiron said, "you may begin."
+
+---
+
 The walk to the hill was short and felt very long.
 
 They went in a loose line up the dirt path past the cabins, past the arena, past the strawberry fields where the satyrs waved. The grass was wet. The air smelled like pine sap and coming rain.
@@ -318,9 +406,9 @@ Water rose in a shimmering arc, ditch water brown and puddle water clear mixing 
 
 Percy threw the water at the Fury as Thalia ducked low and Grover's music peaked.
 
-Annabeth threw the lightning into the water.
+Annabeth hurled a burst of lightning toward the airborne Fury just as Percy swept the water forward, but neither had checked whether the wet ground still connected back to their feet.
 
-Light ran through water like fire through oil. The wave hit the Fury square in the chest. She screamed and convulsed midair. Smoke poured off her.
+Light leapt across the streaming water. A stray branch of the discharge snapped against the ditch, alarmingly close to Percy's boots. The wave caught the Fury square in the chest. She screamed and convulsed midair. Smoke poured off her.
 
 Thalia did not hesitate. She drove her spear up through the stunned Fury's wing joint, using the shaft as a lever, and slammed her sideways into an oak trunk with a crack that shook leaves down in a rain.
 
@@ -404,6 +492,98 @@ Secret kept.
 
 ---
 
+They didn't get far before Annabeth stumbled.
+
+Percy had been watching the tree line. He heard her shoe scrape behind him and turned in time to see her put a hand against the guardrail. The cloth Thalia had tied around her palm had darkened in one place.
+
+"Don't say you're fine," he told her.
+
+"I was going to say I needed a minute."
+
+"That's allowed."
+
+Thalia came back at once. Her first instinct was to ask where the next threat was. Then she saw Annabeth's hand and stopped looking beyond the shoulder of the road.
+
+"We need clean water," she said.
+
+"We have some," Grover answered. He pulled the flask out of its side pocket, handed it over, and seemed almost relieved to have an ordinary job.
+
+Thalia didn't unwrap the dressing until they were behind an embankment and out of sight of passing traffic. The burn was small, but the skin around it was red and sensitive. Annabeth hissed when the first trickle touched her palm.
+
+"How bad?" Percy asked.
+
+"Not deep," Thalia said. "And not something we keep testing with lightning." She looked up. "You heard me?"
+
+Annabeth nodded, eyes fixed on the cloth.
+
+Percy looked back toward the trees where the Fury had fallen. They were already several hundred yards away. He could still remember how the electricity had followed the water he'd thrown. It had worked for a moment, but the ribbon had been between him and the monster. It had been connected to the moisture around his hands.
+
+"That could have come back toward me," he said.
+
+Thalia looked at him sharply. "It could have."
+
+Annabeth's face changed. She had been staring at the bandage, and now she looked directly at Percy.
+
+"I didn't check where you were grounded."
+
+"Neither did I."
+
+"We shouldn't do it again," she said.
+
+"Not that way," Percy agreed.
+
+Thalia finished covering the burn with a clean dressing. She didn't praise their combination. She didn't tell them it had been brilliant because it had worked. The problem with a lucky mistake, Percy thought, was how quickly you could turn it into a plan.
+
+"We use each other's strengths," Thalia said, "but that doesn't mean combining them blindly. Electricity doesn't care if the person touching the water is somebody you love."
+
+Annabeth swallowed and looked at Percy again.
+
+"I'm sorry."
+
+"You were trying to stop her."
+
+"That doesn't make it safe."
+
+He crouched beside her until they were level. "Then next time we talk before we throw lightning around. Preferably a long time before."
+
+She gave him a weak smile. "I can add a safety diagram."
+
+"Several. Color-coded. Something Grover can use when he lectures us."
+
+Grover raised one hand. "I would prefer never to be close enough to lightning to lecture anybody about it."
+
+"Reasonable," Thalia said.
+
+They rested while the ache in Annabeth's hand settled. Percy used the time to check the ditch. The Fury's spell had left the water smelling faintly of smoke, and he was unwilling to take any of it for their flasks. They had enough clean water for the next walk, but not enough to waste.
+
+Grover crouched near the base of a pine and listened to the woods. Percy watched him press two fingers into the soil and hold still. A minute passed. Then another.
+
+"Nothing moving toward us," Grover reported. "The animals are coming back. That's usually good."
+
+"Usually?" Thalia asked.
+
+"Better than them running."
+
+Thalia accepted that distinction.
+
+The four of them made a record before they left. It was Annabeth's idea, although Percy held the notebook while she wrote with her unhurt hand. She listed where the Fury attacked, what Grover sensed, what Thalia saw, how the monster moved and why the improvised lightning strike had been risky. Annabeth didn't name the power combination after either of them. She wrote *unsafe unless separated from any conductive route to companions* and drew an ugly circle around it.
+
+"That's very unromantic," Percy said.
+
+"Good."
+
+He passed her the pencil. "Put a second circle."
+
+She did.
+
+By the time they reached the gas station, Grover's knees had stopped shaking, and Thalia no longer looked as though every passing shadow was the second Fury. Annabeth's bandage stayed clean. Percy was relieved by that simple fact more than by anything impressive they'd accomplished in the fight.
+
+He'd wanted their first day on the road to prove they were capable of facing the west. Instead it had taught them how little room there was for mistakes.
+
+The lesson was worth keeping.
+
+---
+
 The gas station was small and bright, smelling of gasoline and fried cheese.
 
 They bought bus tickets with mortal money Chiron had given them — Thalia counted it out carefully, tongue between her teeth — and four bottles of water and a bag of pretzels. The cashier, a tired woman with kind eyes, looked at their dirt-smudged faces and Grover's shaking hands and gave them an extra packet of cookies for free.
@@ -458,6 +638,108 @@ The quest had begun.
 
 ---
 
+At the bus counter, their first route plan fell apart.
+
+It wasn't because of a monster. The clerk looked at the map Chiron had given them, slid it back through the window and informed Thalia that the connection to the ferry had been suspended for roadwork three weeks earlier.
+
+"Do you have a newer schedule?" Annabeth asked.
+
+The clerk pointed to a board behind her.
+
+They stood in front of it while a tired woman with two children waited for them to move. Percy would have preferred another Fury. He understood what to do when something attacked him; he had no idea what to do with a bus schedule that contained an entire column of canceled routes.
+
+"We can go by rail," Annabeth said, tracing an alternative. "We'll have to change at a station on the other side of the city."
+
+"That costs more," Thalia answered.
+
+"Not if we buy the day pass."
+
+"The day pass starts tomorrow."
+
+Grover looked between them. "Can we take a bus for part of it and walk the rest?"
+
+"Walking takes time," Annabeth said.
+
+"Time we might have," Grover replied. "We don't have an eagle escort. We don't have an unlimited travel budget. We do have feet."
+
+Percy stared at him. "You sound practical."
+
+"I'm a satyr," Grover said. "We're extremely practical when we're not distracted by shiny things."
+
+Thalia's gaze slid toward his collection of cans.
+
+"Or horseshoes," Percy added.
+
+"That's unkind."
+
+They moved aside so the woman could buy her tickets. When she came back past them, she paused.
+
+"You going to New York?" she asked.
+
+Thalia hesitated. Chiron had told them to be careful about telling mortals more than they needed to know. But the woman had heard their entire argument, and their destination was already printed across the top of the board.
+
+"Eventually," Thalia answered.
+
+"Take the local to the terminal, then the coach. It's slower, but they won't charge you twice for the transfer." She shifted the smaller child higher on her hip. "You kids should eat before you get on. The coach station's food is terrible."
+
+Annabeth checked the route. The prices worked. The travel time was longer than the ideal schedule but shorter than Grover's walk.
+
+"Thank you," she said.
+
+Percy watched the woman go, surprised by the ordinary kindness of a stranger who didn't know anything about gods or prophecies. The Mist hadn't made her blind to four tired children studying a timetable.
+
+Thalia asked the clerk whether their original tickets could be exchanged for the local and coach. The clerk frowned, checked the fare codes and agreed, returning only a few coins in change. Thalia counted it twice before handing it to Annabeth to record. Percy took charge of the water and tickets. Grover stood watch near the windows, trying to distinguish exhaust from anything stranger.
+
+"Do we send Chiron a message?" Percy asked.
+
+"Not every time a timetable changes," Annabeth said. "We'd run out of drachmas before we reached the first real city."
+
+"We had a monster attack."
+
+"That one is worth reporting."
+
+They found a quiet corner and used a shallow cup of clean water to place a brief Iris message. It took several tries before the image steadied. Chiron appeared surrounded by papers. He didn't sound surprised that their first day had included trouble, but became attentive when Annabeth described the near miss with the electrical discharge.
+
+"Do not repeat that method," he said.
+
+"We won't," Percy answered.
+
+"Tell me where you are and whether anyone needs treatment."
+
+They gave the station name and described the burn. Chiron had Annabeth explain what it felt like to move her fingers. His instructions were practical: keep the dressing clean, avoid further electrical use until the injury was assessed, and seek ordinary medical attention if the burn or pain worsened. He did not offer a miraculous cure through a rainbow.
+
+"Should we come back?" Percy asked.
+
+Chiron looked at them through the shimmering water.
+
+"Not merely because the first day frightened you. That is information you should use. If one of you cannot travel safely, you must reconsider the plan. At present I hear that you have shelter and transportation available. Take the rest you need."
+
+Grover nodded so earnestly his curls bounced.
+
+"Rest. Definitely."
+
+"How's camp?" Percy asked before the connection faded.
+
+"Busy. Your sisters have reorganized three border patrol shifts and argued about a canoe's damaged rigging. I believe Silena won the argument."
+
+"She usually does," Percy said.
+
+"That is becoming apparent. I'll send word to Atlantis when there is news worth sending. Until then, keep your observations separate from your guesses."
+
+The rainbow dissolved. Thalia poured out the little remaining water and wiped the cup.
+
+The station was not romantic. The fluorescent lights made everyone look sick, and the benches were bolted to the floor. Percy knew a story about a quest ought to be full of sword fights and narrow escapes. So far it was full of his girlfriend's bandaged hand, arguments about tickets, and a satyr who had been right about walking.
+
+Annabeth tapped the cheaper route one last time.
+
+"We can still make the connection. We just need to move."
+
+The local bus arrived ten minutes later. Percy offered Grover the window seat and took the aisle beside him. Thalia sat across from them, where she could watch both doors. Annabeth leaned her head against Percy's shoulder, her wrapped hand resting on top of her bag.
+
+Percy watched rows of shops move past the window. The road outside camp didn't look like the road he remembered. That was good. It meant he was paying attention to the one beneath his feet.
+
+---
+
 The motel was not a motel yet — just a bus depot with a bench and a vending machine — but Thalia said motel because there was a vacancy sign blinking pink across the street, and that counted as a plan.
 
 "We sleep at the depot tonight," she decided, already in leader mode, spear across her knees. "Bus to the ferry at dawn. Annabeth, you take first watch with me. Percy, you and Grover sleep. We rotate."
@@ -485,6 +767,160 @@ He listened to it and to Annabeth breathing and to Grover snoring and to Thalia'
 Tomorrow would come with ferries and cities and more monsters. Tomorrow they would need v2 and v3 and plans drawn in notebooks.
 
 Tonight there was soup and a bench and rain, and that was enough.
+
+Before Thalia took the first watch, Grover woke just long enough to ask whether he could send Juniper a message.
+
+Percy glanced at the dark ticket windows. "Right now?"
+
+"I told her I'd try when it was safe. And it is safe. Mostly."
+
+Annabeth checked the remaining drachmas. "We only have a few. I don't want to spend one every time we reach a station."
+
+"I know," Grover said. "I'm not asking you to."
+
+He rummaged through his bag and drew out a folded square of paper. On it he'd written a brief note saying they had left camp, encountered trouble, and were all alive. He had not included their exact location, the Fury's warning, or anything about the stolen bolt.
+
+"I thought I could leave this with a satyr messenger when we find one," he said. "Or send it through Chiron with our next official report."
+
+Annabeth read it and passed it back. "That's a better plan. We could keep short notes like that for everybody at home and send them together when we have a secure contact."
+
+Grover looked pleased. "Then I haven't broken my promise."
+
+"No," Percy said. "You promised to write when you could. You wrote."
+
+Thalia watched the exchange from her seat by the doors. "And if you don't hear back?"
+
+"I'll worry," Grover said. "I can't make Juniper answer. Maybe she's busy. She has an entire maple to take care of."
+
+"Good," Thalia replied. "Remember that part."
+
+Percy thought of Silena waiting at camp with her stack of repaired gear, and Clarisse pretending the border patrols weren't exhausting. He wanted to tell them every detail of the day. He also wanted them to have an evening that wasn't interrupted by his fear.
+
+He borrowed the pencil and added his own note on the back: *We made it through the first day. Annabeth hurt her hand, but it's being cared for. We changed our travel plan and we're together. The snacks were excellent.*
+
+He could hear Silena asking for more information and Clarisse demanding to know why he hadn't killed the Fury sooner. The thought made him smile.
+
+Grover folded both messages into the safe pocket of his bag.
+
+"To send when we can," he said.
+
+Percy nodded. That was a promise they could keep without gambling the next one.
+
+The depot's fluorescent lights hummed long after the last ticket window closed.
+
+Thalia was convinced somebody should stay awake. The problem was that everybody was convinced it ought to be them. Grover volunteered first, then fell asleep halfway through explaining why satyrs had superior nighttime senses. Percy offered to take the opening watch. Annabeth looked at him for a long moment before asking how much sleep he'd had in the previous two nights.
+
+"Enough," he said.
+
+"That's not a number."
+
+"Lots of enough."
+
+Thalia pointed to the far bench. "Go sit. I want ten minutes to figure out our next move without you trying to be a hero."
+
+Percy sat because he didn't trust his knees to make a decent argument. Annabeth took the seat beside him, but she left enough room to spread the route map between them.
+
+"Can I ask something?" she said.
+
+"Sure."
+
+"Are you upset that I got hurt?"
+
+Percy looked at her wrapped hand. "I don't think that's a question."
+
+"It's a different question from whether you think the burn was my fault."
+
+He was quiet.
+
+"Yeah," he said finally. "I'm upset. When I saw the lightning follow the ditch back toward me, for a second I thought one of us was going to die because we made a stupid mistake. Then you burned your hand and tried to pretend it didn't hurt so Thalia wouldn't make us stop. I'm upset at the whole situation."
+
+"I wasn't pretending it didn't hurt."
+
+"You kept saying it was fine."
+
+"I know."
+
+Percy picked at the edge of his sleeve. His sisters had trained him to recognize when someone was refusing help because they didn't want to become an inconvenience. Annabeth did that more than she liked to admit. She wasn't doing it to be difficult. She had been waiting a long time for someone to trust her to make her own decisions, and needing help sometimes felt like an argument against her.
+
+"It would be worse if you hid it tomorrow," he said.
+
+Annabeth thought about that. "I don't want you or Thalia keeping me away from the quest."
+
+"Then don't give us a reason to guess how badly you're hurt."
+
+She unfolded the map and found their next connection. Her writing hand moved more slowly than usual. Percy could tell it hurt, even though the burn was on the other hand, because keeping the map flat required two hands and she couldn't comfortably use both.
+
+"Can you hold that corner?" she asked.
+
+Percy did.
+
+They made a separate list of supplies they actually consumed that day: clean water, bandages, a little food, one Iris message and several bus fares. The drachmas left in Chiron's pouch looked embarrassingly few compared with the distance they still had to cover. Annabeth drew a line under the total.
+
+"We'll need a better way to move across the country," she said.
+
+"Bus by bus?"
+
+"Not if we spend every night arguing with a counter clerk. We need a route with fewer transfers and a place to stay when we get delayed."
+
+"Or a vehicle," Percy suggested.
+
+She considered it without enthusiasm. "None of us has a license."
+
+"Thalia knows how to drive."
+
+"Knowing and being legally allowed aren't the same thing."
+
+Percy grinned. "You're saying we can't just steal a car."
+
+"I'm saying stealing a car is both wrong and an excellent way to get arrested before we find the bolt."
+
+They went through the alternatives. Chiron's contacts might provide a lift when they reached the next safe house. A mortal transport company might offer a long-distance ride they could afford. A vehicle could be arranged if an adult with authorization was willing to be responsible for it. Percy liked that last option least because it required admitting they could not simply decide to drive across America.
+
+The thought was still better than pretending transportation would appear because the prophecy needed it.
+
+They wrote down questions for the next Iris message. Who could legally arrange a vehicle? Was there a safe contact near the next transfer? What could Chiron verify about the route? Thalia came over when she saw the list.
+
+"You are both supposed to be resting," she said.
+
+"We're sitting down," Percy argued.
+
+"That's not the same thing."
+
+Annabeth showed her the questions. Thalia scanned them, then looked at Percy with a strange mix of amusement and fatigue.
+
+"Good questions," she said. "I don't have answers yet."
+
+"Me neither."
+
+"Then we can sleep before we make any decisions."
+
+She took the first watch. Percy wanted to protest, but Thalia pointed to the bandaged hand beside him.
+
+"If you two want me to stop treating you like children, start making the sensible choice when you're tired."
+
+Percy lay down with his jacket folded under his head and watched the depot ceiling. The rain rattled against the awning. He remembered the way the cabins had looked from the hill that morning, small roofs and the bright path leading to their door. The trip already felt longer than a day.
+
+Annabeth settled beside him, her own bag as a pillow.
+
+"Percy?" she whispered.
+
+"Yeah?"
+
+"Next time I say I need a minute, believe me the first time."
+
+He turned toward her. "I did."
+
+"You looked terrified."
+
+"I can be terrified and believe you."
+
+She smiled in the pale light. "Fair."
+
+He listened while her breathing grew slower. Thalia's boots moved once, then stopped near the doors. Grover snored softly with his pack clutched against his chest.
+
+The first day hadn't proved they knew how to survive every challenge the road would give them. They had found one dangerous mistake and several ordinary problems, and they had managed not to leave anyone behind. It was enough to sleep on.
+
+In the morning they would find out how to get farther west. Tonight Percy was glad the nearest problem was a bench that wasn't quite long enough for his legs.
 
 ---
 

@@ -940,6 +940,106 @@ And they paid attention. They paid attention to the camp and the lake and the ch
 
 ---
 
+The first serious complaint about the map came from a camper who loved it.
+
+Olive stood by the Big House door with a folded sheet of notebook paper pressed to her chest. Annabeth knew the girl had spent the whole previous afternoon copying the willow cove, including the little crooked skiff and the stump where the heron sometimes stood. Now Olive looked as though she was about to be sent to Chiron for breaking something.
+
+"Can I ask you to take a mark off?" she said.
+
+"Which mark?" Annabeth asked.
+
+"The heron."
+
+Annabeth looked at the wall. She had marked the cove in soft gray and put a tiny bird at its end because Olive had drawn it there first. It wasn't a secret spot exactly, but it was quiet, and until recently not many people had bothered to go down.
+
+"Did I draw it wrong?"
+
+"No. You drew it right." Olive opened her paper. On it was a quick sketch of the cove, the two willow trunks and a pale patch just above the waterline. "There was a nest farther back today. Somebody went to see the bird because the map showed where she was. He was nice. He didn't mean to scare her. But he climbed up the bank and the bird flew off."
+
+Annabeth took the paper. Olive had added an X beside the nest and written *please don't tell people* underneath.
+
+"Did anyone touch the eggs?" Annabeth asked.
+
+"No. I watched. He didn't get that close."
+
+"All right. Thank you for telling me."
+
+"Are you mad?"
+
+"Why would I be mad?"
+
+"Because you said it was everyone's map, and now I want something gone."
+
+Annabeth looked at the bird she'd drawn. She had been thinking about accuracy: getting the bend of the bank and the shape of the old boat exactly right. She hadn't spent as much time thinking about what people would do once they knew where to look.
+
+"Come with me," she said. "I want to ask Chiron something."
+
+Chiron listened without interrupting. When Annabeth explained the nest, he crossed to the window to look toward the lake.
+
+"A map can be correct and still be unwise to display," he said.
+
+She disliked how quickly the observation made sense. "I can remove the bird. But what happens when someone asks why it's gone?"
+
+"You can tell them some habitats need protection. You don't have to show them the exact location to explain the reason."
+
+"That sounds like leaving out information."
+
+"It is. The question is whether everyone has a right to the information you are leaving out."
+
+Olive twisted the corner of her notebook. "I didn't want to wreck your map."
+
+"You didn't," Annabeth told her. "You found a problem with it."
+
+They took the map down and spread it across the Big House table. Percy came in midway through, having heard that Annabeth was conducting an emergency repair and immediately assumed something had caught fire.
+
+"Nothing's on fire," she told him.
+
+"That's my favorite kind of emergency."
+
+He looked at the small bird mark. "Why are we erasing the heron?"
+
+"Because the map is making people visit her nest," Olive answered.
+
+Percy thought about the cove. "Can we mark the whole area as somewhere to be careful instead?"
+
+"Maybe." Annabeth tapped the pencil against the paper. "But we shouldn't advertise a good place to go poking around. The warning needs to cover the banks without pointing to the nest."
+
+Percy shifted the paper closer and traced the main path with a finger, stopping well before the turn toward the cove. "What if the public map only showed the trail up to here? Anyone needing the more detailed survey would come to you or Chiron."
+
+"That's more work," Annabeth said.
+
+"It is."
+
+"And people will complain."
+
+"They do that even when you give them everything."
+
+She almost smiled. He was right about the complaining. The harder question was whether she'd made a map to prove she could account for every detail, or to help people use the camp responsibly.
+
+Annabeth drew a second line on tracing paper over the original. The public version would still show the canoe launch, the swimming area, the main paths and the places a camper needed to find. It would not show the nest or the exact locations of certain narrow shore entrances. She left the master survey in Chiron's office, where repairs and patrols could consult it without making every private place into a destination.
+
+Olive watched the second map take shape.
+
+"Could you put a bird somewhere else?" she asked. "Just so people know there are birds at the lake."
+
+"That would be fair," Annabeth said. "Not a false location, though. We could add a little box that says the shoreline is habitat and visitors should stay on marked paths."
+
+"With a picture?"
+
+"With your picture, if you want."
+
+Olive thought about it. "Can I draw the duck instead? The duck doesn't mind people."
+
+Percy gave Annabeth a look. "I'm not convinced any duck has ever minded people. They've certainly never minded my breakfast."
+
+"The ducks mind when you feed them things that aren't food," Annabeth said. "Don't do that either."
+
+Olive drew a duck with determined eyebrows. Beneath it Annabeth wrote a short note about leaving the reeds undisturbed. When they returned the public map to the wall, it held fewer details than before, but the trails were still accurate. The protected place had not disappeared from the world. It just wasn't advertised.
+
+Annabeth added a date and a small revision mark at the bottom. She knew some campers would ask what had changed. She would tell them the truth, without giving them a set of directions to the nest.
+
+That night she put the original map in a flat drawer in the Big House, with a note explaining which copy was on public display. She didn't love drawing a blank where she knew something existed. She liked even less the idea that an accurate map might send someone straight into a place that depended on being left alone.
+
 A month after the map went up, Chiron called Annabeth to his office.
 
 She went. She sat in the chair across from his desk. She waited.

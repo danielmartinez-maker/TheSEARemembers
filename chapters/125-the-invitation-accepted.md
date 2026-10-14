@@ -476,6 +476,320 @@ Clarisse glanced toward the dining hall. “And dinner?”
 
 ---
 
+There was a moment before dinner when the visit stopped feeling like a tour and became an actual arrangement between people who would have to share a house.
+
+Percy had been looking for the small shell bell Triton had promised at camp. He found it on the low table beside the guest-wing door, almost hidden behind a vase of pink coral. When he lifted it, the shell felt heavier than it looked. Two small silver marks ran along the rim.
+
+Annabeth joined him. "Is that the one?"
+
+"Apparently."
+
+"Have you rung it?"
+
+"No. I don't want to summon half the palace because I'm curious."
+
+"We should confirm it works before we need it."
+
+"That's exactly the sort of sentence you say before we both get blamed for something."
+
+She took it from him and studied the marks. "Triton said twice to request an escort. One ring should summon an attendant. We can try one and explain we're testing the arrangement."
+
+"Do you think they'll be annoyed?"
+
+"Possibly. Better annoyed now than unavailable later."
+
+Percy let her ring it. The sound wasn't loud, but it traveled through the water with an odd clarity. An attendant appeared within a minute. She wore a pale green tunic and carried a small writing board.
+
+"May I help you?"
+
+Annabeth explained the test. The attendant listened, asked whether they had seen the posted route card, and took them to the small board beside the connecting doors. It listed the west garden, main hall and family wing as supervised exits. Each location had an assigned steward and a path to the coast. Percy compared it with the card they'd made at camp. The words matched.
+
+"Is leaving the palace always possible?" Annabeth asked.
+
+"Sometimes the open-water channel is closed for weather or council traffic," the attendant said. "In that case you remain in the safe waiting chamber until the route opens, or we arrange a guarded alternative."
+
+"Who decides whether the alternative is safe?"
+
+"The watch captain and the visitors. A guest may refuse a route."
+
+"What if a guest wants to leave and every route is closed?"
+
+"Then we tell them the truth and make a plan with them. We do not invent a departure hour."
+
+Annabeth nodded. "Thank you."
+
+The attendant left after showing them where to find the next watch roster. Percy looked at the shell bell again. This was not a magic guarantee that nobody could become trapped underwater. It was something more useful: an actual person had answered the call and explained what happened if circumstances changed.
+
+Clarisse emerged from the adjacent room carrying her spear and an expression that suggested she had found something worth disliking.
+
+"They've put a rack by the door," she said. "They want me to leave this before dinner."
+
+"That's normal," Percy said.
+
+"In a palace where the guards carry spears?"
+
+"The guards are on duty."
+
+"And I'm not?"
+
+"No."
+
+She frowned. He tried again. "You can ask why guests aren't armed in the dining hall."
+
+"I am asking."
+
+"Not me. The people who made the rule."
+
+Silena came through the connecting door. She had unpacked the jam she'd brought from camp, and a small red stain marked one sleeve.
+
+"I asked the steward," she said. "The rack is for everyone's weapons. Even Triton leaves his ceremonial blade outside private dining rooms. The guards have theirs because they're guarding the doors."
+
+"Fine," Clarisse said, but she didn't put the spear away yet.
+
+"You don't have to like the rule," Silena continued. "You do have to decide whether you want to eat under it."
+
+Clarisse looked toward the hallway. "I want dinner."
+
+"Then you can put the spear in the rack and keep the key."
+
+"Where's the key?"
+
+"On the inside of the latch. That's the point."
+
+They tested the locking mechanism together. Clarisse left the spear behind only after checking that she could retrieve it without asking someone else's permission. Percy knew this would look fussy to anyone who had never relied on a weapon to feel safe in an unfamiliar place. He also knew Triton had invited a girl who was excellent at finding weaknesses in procedures. This was part of who she was, not a discourtesy.
+
+Thalia knocked at the open door with Annabeth's guest card in her hand. "You wrote the emergency phrase on the back," she told her sister.
+
+"I did."
+
+"Are we really keeping it?"
+
+"Yes."
+
+Thalia looked at Percy. "If she says she wants to leave, don't try to talk her out of it because you're happy here."
+
+"I won't."
+
+Annabeth turned. "Thalia, you can ask me rather than briefing my boyfriend."
+
+Thalia's mouth tightened. Then she nodded. "Are you comfortable?"
+
+"Yes. I'm excited and nervous, and I want to stay through dinner."
+
+"Then I will stop making preparations for an argument nobody has started."
+
+"Excellent plan."
+
+They went to find the others. Halfway down the corridor, Percy saw a household official approaching with a scroll and a worried expression. The man stopped beside Triton.
+
+"Your father has not confirmed tonight's attendance," he said.
+
+Triton glanced toward Percy. Percy understood that look. It was an invitation to hope without having been promised anything solid.
+
+"Then we eat without him," Percy said.
+
+The official looked scandalized. "The king may arrive."
+
+"He may," Triton replied. "The meal won't be delayed. Inform the kitchen."
+
+Percy met his brother's eyes. It was the rule they'd settled at camp. Triton had remembered.
+
+Silena came to his side, hands clasped behind her back. "I'm glad he might come," she said quietly.
+
+"Me too."
+
+"But I'm not spending dinner counting the minutes."
+
+"Neither am I."
+
+A bell sounded somewhere ahead, low and clear. The guests were expected in the hall. Percy walked with his sisters and the Grace girls, none of them wearing a borrowed identity, all of them free to admit if they were uncomfortable. They hadn't solved the problem of having a god for a father, nor had they made Atlantis into a place without rules. They had learned which rules they could question, who would answer, and which doors opened when they asked.
+
+
+---
+
+The jar of jam became a problem the moment Silena tried to hand it to the kitchen steward.
+
+She had packed it carefully in the center of the basket, wrapped in a piece of cloth that still smelled of the camp laundry. It had survived the descent and the palace's shifting currents. The glass was intact. The paper label was a little damp, but the writing could still be read.
+
+"For Amphitrite," Silena said. "From the camp kitchen."
+
+The steward examined the label. His expression changed from polite gratitude to professional concern.
+
+"We will need to check the ingredients before presenting it at table."
+
+"That's sensible," Silena replied.
+
+"Some preserves do not keep well in these waters. We also have several guests who cannot eat certain surface fruits."
+
+"Then don't serve it yet. I only wanted to give it to her."
+
+The steward hesitated. He seemed uncertain what to do with a gift that couldn't immediately become part of the meal.
+
+Triton arrived in time to hear the last exchange.
+
+"What's the problem?" he asked.
+
+"There isn't one," Silena said. "They need to check the jam. I don't want anyone pretending it's safe until they know."
+
+"We can put it in Mother's private pantry," Triton suggested.
+
+"That's still a pantry. I don't want her opening it later and discovering it shouldn't be eaten."
+
+Triton looked at the steward. "Is there a place for gifts pending inspection?"
+
+"There is a receiving shelf," the man admitted. "Normally it's used for goods brought by merchants."
+
+"Then use it."
+
+The steward looked uncomfortable with the idea of placing a royal gift among ordinary goods. Silena noticed.
+
+"I don't mind," she said. "My sister and I make lists for supplies at camp. A gift doesn't stop needing proper storage because someone important might eat it."
+
+The steward bowed. He accepted the jar and wrote its ingredients on a tag. Silena added the kitchen's name, the date it had been made, and the instruction to keep it sealed until a cook approved it.
+
+Percy stood nearby with Annabeth, watching the interaction. He'd imagined the gift exchange as a simple, warm moment: his sister handing Amphitrite something made at camp, Amphitrite smiling, and everybody feeling welcome. It hadn't occurred to him that the queen's household would have food safety procedures, or that following them could look to a court official like an insult.
+
+"Are you upset?" he asked Silena as they walked back.
+
+"No. Why would I be?"
+
+"Because they didn't let you hand it to her."
+
+"I wanted it to reach her. I'd rather they check it than make someone sick because it was a nice present."
+
+"You thought of that before we came?"
+
+"I looked up what we used to preserve the fruit. I didn't know how they stored things underwater, so I wrote the ingredients down."
+
+He stared at her. "You came prepared."
+
+"I told you I was packing the jam for a reason."
+
+Annabeth gave him a look. "It's almost as if your sister understands her own project."
+
+"I am surrounded by people who enjoy pointing out my mistakes."
+
+"Correct," Silena said cheerfully.
+
+Clarisse appeared at the end of the corridor, carrying the little key to her weapon rack. She'd tested the latch twice and now wanted to know who else had access to the guest wing after dark.
+
+"Guards on rotation," Triton told her. "And the assigned chamber steward."
+
+"Who decides whether a guard enters our rooms?"
+
+"The guard doesn't enter private rooms without a request or an emergency."
+
+"What's an emergency?"
+
+"Fire, structural damage, medical distress, a breach of the wards."
+
+Clarisse glanced at Percy. "You could have mentioned that before we got here."
+
+"I didn't know the exact procedure."
+
+"Then that's what you say next time. Not that everything is fine because it's Atlantis."
+
+He opened his mouth, then closed it. She was right. He'd grown comfortable moving through the halls on his recent visits, but that comfort was not knowledge of every rule or every person who could enforce it.
+
+Triton showed them the guard's station at the end of the corridor. A plain notice listed who was on duty, how to summon an attendant and where to go if the main route was closed. The names changed each shift. Clarisse copied the current two into her own notebook.
+
+"Will you recognize everybody?" Percy asked.
+
+"No. That's the point of having names."
+
+The guard on duty was a woman named Mara who looked neither impressed nor offended by the questions. She explained that any guest could ask for a different escort if they were uncomfortable with the assigned one, although a replacement might take a little longer to arrange.
+
+"What if I want to speak to Amphitrite without a guard listening?" Silena asked.
+
+"We can escort you to the public waiting room and remain outside. You may also send a note."
+
+"And if she is busy?"
+
+"Then someone tells you she's busy."
+
+Silena nodded. Percy was starting to think his sisters would have been perfectly capable of arranging the trip without him. He'd spent the week picturing himself as the only person who could make the palace navigable. In reality, Clarisse could read a security procedure, Silena could negotiate with a steward, and Annabeth could evaluate an exit route faster than he could remember its name.
+
+Thalia joined them while Mara was describing the return passage. She listened for a minute, then asked who would handle a request made after dinner.
+
+"The night steward," Mara said.
+
+"And is there a direct route to the surface?"
+
+"Yes, when the outer channel is open. Otherwise we use the sheltered waiting chamber until an approved escort is available."
+
+Thalia nodded. "Thank you."
+
+As they left, Percy heard her say something quietly to Annabeth.
+
+"What?"
+
+"I said I like that they answered the question without telling us we should trust them because they're older."
+
+Annabeth squeezed her hand once. "Me too."
+
+They returned to the guest wing. Silena had a small list of things she wanted to see during the weekend: the workshop where the kelp fibers were prepared, the public kitchen and the terrace where the stone channels joined. Clarisse wanted a proper sparring session, not a ceremonial demonstration. Annabeth wanted the plans for the palace's water-management system, or at least permission to ask questions about it. Thalia hoped to see enough of the family rooms to know how the palace handled unexpected visitors, including gods who believed doors should open when they spoke.
+
+Percy wanted an afternoon with his father and Triton that wasn't interrupted by an emergency council meeting. He didn't write it down. He was almost embarrassed by how ordinary the wish sounded.
+
+Silena saw his expression.
+
+"What do you want to do?" she asked.
+
+"With everyone?"
+
+"Not necessarily. You're allowed to have time with your father and brother. We have things to do too."
+
+He looked at her, surprised. "Wouldn't you mind?"
+
+"Why would I mind if you spent time with your family?"
+
+"Because you're my family."
+
+"Yes. And that doesn't mean we all have to be in the same room."
+
+He thought about that while she went through the list of possible visits with Triton. When the prince offered to take them all to the training court at once, Clarisse said she'd prefer to see the place when people were actually working there. The staff might be busier tomorrow, so they agreed to ask the court supervisor which period would be least disruptive.
+
+"You're making a schedule," Percy told her.
+
+"I'm making sure we don't walk into somebody's lesson and call it a visit."
+
+Triton looked at him. "Your sisters are remarkably practical."
+
+"They've been running half the camp between them for years."
+
+Clarisse threw a folded towel at his head. "Don't make us sound like we're eighty."
+
+"I didn't say it was a compliment."
+
+"Good."
+
+A household attendant brought a tray of drinks and small pieces of bread. There was a label beside each dish, including a note identifying ingredients unfamiliar to the visitors. Silena inspected the labels, then asked the attendant to thank the kitchen.
+
+Percy took a piece of bread. It was warm and slightly salty, with a flavor he couldn't name. He wanted to tell Silena it tasted like something from his childhood, but stopped himself. He had no memory of eating this kind of bread as a child. He could say that it tasted familiar after his recent visits. That was true, and it was enough.
+
+Annabeth looked at the water flowing through the small channel beneath the table. "Do the serving rooms all have these?"
+
+"Most of them," Triton said. "They carry heat from the lower chambers."
+
+"Then the dining area needs a way to shut the flow off if the temperature gets too high."
+
+"It does. I can show you tomorrow."
+
+"Tomorrow," she agreed.
+
+Thalia leaned back, listening. Her father's summons still bothered her, and Percy could tell by the way she looked toward the corridor whenever someone approached. He didn't ask her to explain the worry to everyone. She'd already said enough.
+
+After a while the steward returned. He had confirmed the jam could be kept safely on the receiving shelf while the cooks checked its contents. Amphitrite had been informed of the gift and had sent thanks. Silena accepted the news without asking whether the jar would appear at dinner.
+
+"She knows it came," she said. "That was the important part."
+
+Percy finished his bread and looked around the room. They were guests in a place with different rules, different people and a history none of them shared in exactly the same way. There had been several small disputes already. None had become a disaster. They'd asked questions, corrected assumptions and discovered things they wanted to see for themselves.
+
+For the first time since leaving camp, he felt less like the visit was an examination he needed to pass. They were not waiting for him to translate every action or repair every misunderstanding. They were making their own visit, and that meant he might get to enjoy his too.
+
+
+---
+
 When the hour arrived, Triton met them at the family-room entrance. The weapons had been secured in the rack. Clarisse had watched the guard place her spear there, checked that the lock was visible, and declined to let the other knife go anywhere but her own boot. The guard had made no objection after Triton confirmed she had told them about it.
 
 “You remember the greeting,” Triton said.
@@ -648,3 +962,254 @@ The first course waited between them. No one had to know the whole weekend yet. 
 
 ---
 
+The first evening did not end when the dinner plates were removed.
+
+Amphitrite invited the guests onto the family terrace, where the city lights could be seen through the clear water beyond the railing. She did not ask for a ceremonial procession. They walked out in their own order, pausing when something caught their attention.
+
+Clarisse stopped beside a bronze fastening embedded in the stone.
+
+"Does that hold the window frame?" she asked.
+
+"The outer panel," Triton answered. "The inner joint is flexible."
+
+"Who maintains it?"
+
+"The household engineering crew."
+
+"Can I talk to them tomorrow?"
+
+Triton smiled. "You can ask. They have a repair schedule, and I won't interrupt it just to impress you."
+
+"Good."
+
+Annabeth came closer to examine the joint. Clarisse moved so her view wasn't blocked. They studied the metal together, noticing the difference between a structure meant to carry weight in air and one built to resist water pressure. Percy listened until the conversation became a set of measurements he couldn't follow. He enjoyed seeing both girls interested in something that had nothing to do with whether they felt welcome.
+
+Farther along the terrace, Silena approached Amphitrite with a small question about the jam.
+
+"Did the kitchen receive it safely?"
+
+"Yes. They are checking its storage instructions before opening it."
+
+"Then that's all I needed to know. If it's not suitable to eat here, you don't need to serve it."
+
+Amphitrite looked at her. "Would you be disappointed?"
+
+"A little. But not because you did anything wrong. I brought it because I wanted to give you something from camp, not because you had to eat it in front of us."
+
+"Then you gave it successfully."
+
+Silena smiled. Percy had been thinking of the jam as a test of two worlds meeting. His sister had been thinking of it as a jar of preserved fruit with a label. He suspected her approach was the better one.
+
+Poseidon joined them after speaking with a household official. He looked tired enough that Percy nearly asked whether something was wrong. Instead he watched his father turn toward Clarisse and Silena.
+
+"I'd like to spend part of tomorrow with you," Poseidon said. "If you want that."
+
+Clarisse held his gaze. "Doing what?"
+
+"Walking the harbor. Seeing the workshops. Whatever interests you."
+
+Silena asked whether the garden workers could be included. Poseidon said they could, provided the schedule allowed a visit.
+
+"What time?" Clarisse asked.
+
+He hesitated. "I'm not sure yet."
+
+"Then ask us when you know."
+
+Poseidon's expression tightened for an instant. Percy saw the old habit of treating his schedule as something everybody else should arrange themselves around. Then his father nodded.
+
+"Fair."
+
+The conversation had been brief. It didn't solve years of inconsistent attention. It did mean the sisters weren't going to spend all morning waiting for a time that might never arrive.
+
+Thalia and Annabeth stayed near the far end of the terrace, looking at the artificial horizon in the palace dome. An attendant approached carrying a message from Zeus. Thalia read the request, then showed it to Annabeth rather than answering for her.
+
+"He wants us to meet him tomorrow," Thalia said.
+
+"Why?"
+
+"He doesn't say."
+
+Annabeth took the paper. "Then ask him what he wants."
+
+The attendant looked uneasy. "His Majesty might not appreciate a delay."
+
+"We're already visiting another household," Annabeth replied. "He can tell us the purpose before we decide."
+
+Thalia let her finish. Percy knew how much that cost her. She had spent years anticipating their father's temper, trying to protect Annabeth before Annabeth could even ask for help. Here, at least, she was letting her sister decide what the message meant.
+
+They sent the reply through the attendant. The court did not collapse. Nobody summoned guards. The consequence might come later, but for now the sisters returned to the terrace and the plans they had made.
+
+Triton brought out a map of possible tours for the next day. The route marked several places Percy recognized from recent visits, including the training pool and the family garden. Other places were new to him too: a workshop for preparing kelp fibers, a chamber where old channel maps were stored and the outer stables.
+
+"That's too much for one day," Annabeth said.
+
+"It is," Triton replied. "The idea is to choose."
+
+Silena selected the workshop as her first request. Clarisse chose the training pool, but wanted to know whether a session there would displace anyone already scheduled. Thalia wanted to see the observatory with Annabeth if it was safe to visit. Percy chose time at the stables with Tyson.
+
+"And Father?" he asked.
+
+"If he confirms a time, we can adjust one part of the day," Triton said. "Not all of it."
+
+Percy smiled. His brother had remembered the agreement from camp: a meal should not wait for an absent parent, and a full day should not be suspended on an unconfirmed promise.
+
+Amphitrite looked over the revised map. She suggested that everyone leave one period unassigned, in case they found something worth studying longer.
+
+"That is excellent advice," Annabeth said.
+
+"You're saying that because it sounds like something you'd write in a plan," Percy teased.
+
+"Correct."
+
+They continued talking until the terrace lamps brightened for the evening watch. Triton collected the route cards, making sure each visitor kept a copy of the exits and the contact details. Silena asked that the kitchen check be noted in the guest record; Clarisse wanted the training court's supervisor to approve the visit before anyone announced it.
+
+Percy felt the plan changing from a royal itinerary into an ordinary set of shared choices. It was less glamorous than he'd pictured, and much easier to believe.
+
+
+---
+
+After everyone else had gone to finish their own plans, Percy stayed behind to help Triton put the route maps away.
+
+The little table on the terrace was crowded with papers. Some showed public galleries; others marked working areas where a visitor would need permission to enter. Triton separated the two piles carefully and checked that none of the restricted diagrams had been placed among the guest copies.
+
+"Annabeth would love those," Percy said.
+
+"Then she can request permission to see them with the proper staff present."
+
+"You're learning."
+
+"I have been running parts of this household since before you learned to walk."
+
+"Apparently you never learned that people like asking questions."
+
+Triton gave him a long look. Percy grinned and took the public maps to the library shelf.
+
+He had expected his brother to be pleased that the visit was going well. Triton seemed pleased, but he also looked tired. Percy asked why.
+
+"Do you know how many people asked me today whether Father's guests were comfortable?" Triton said.
+
+"A lot?"
+
+"Enough that I stopped counting. They meant well. Some also wanted to know whether the visitors would become regular members of the household, whether Clarisse would train with the palace guards, and whether Annabeth's father expected a diplomatic meeting."
+
+"What did you tell them?"
+
+"That guests are guests until they choose otherwise, and that the Grace sisters are not mine to offer to a council meeting."
+
+Percy sat on the edge of a chair. "Were they annoyed?"
+
+"Some were. The court likes certainty. A guest who can change a plan is difficult to turn into a ceremonial symbol."
+
+"Then don't turn them into one."
+
+"That's what I am attempting to explain."
+
+Triton took out the household ledger. The revised entries from the earlier garden visit were there, each name listed under the relationship its owner had chosen. The steward had added a note identifying where future correspondence should be sent, so a letter to Silena wouldn't automatically be routed through Percy's rooms.
+
+"She'll like that," Percy said.
+
+"She asked for it."
+
+"Of course she did."
+
+They worked through the guest list. Clarisse had declined a title. Silena wanted her full name used on correspondence. Annabeth was listed as a guest and cartography student, with no suggestion she belonged to Poseidon's line. Thalia was recorded as Annabeth's older sister and a visitor from camp. Percy kept his family entry, including the note that he had chosen the designation in the present despite not remembering the childhood it described.
+
+"Does it ever bother you?" Percy asked Triton. "That I don't remember the things you remember about us?"
+
+Triton closed the ledger. "Yes."
+
+Percy hadn't expected the admission.
+
+"I wish you remembered racing through the south channel with me. I wish you remembered the first terrible shelf we built for your collection of rocks. Sometimes I begin telling a story and forget that you're hearing it for the first time."
+
+"I'm sorry."
+
+"Don't apologize for something you didn't choose."
+
+Triton traced the edge of the book. "There are days when I feel as though I have two versions of my little brother: the child I remember and the boy standing in front of me. But they're not competing. The one I remember is not a claim on the person you are."
+
+Percy looked toward the darkened garden beyond the terrace. "I like hearing the stories. I just don't want to pretend I remember them because it would make you feel better."
+
+"Then don't. Tell me when I've assumed too much."
+
+"I will."
+
+A steward knocked at the library door with one final message from Poseidon's office. There would be no confirmed harbor visit the following morning. The king might come later if his duties allowed.
+
+Triton read the note and set it aside. He didn't move the workshop visit or the training pool from their places on the schedule.
+
+"Are you going to tell everyone?" Percy asked.
+
+"Yes. At breakfast. No one should wait on an unconfirmed plan."
+
+Percy thought of Clarisse asking for a time and receiving none. She would be disappointed, and likely angry, but she'd be more angry if everybody pretended the meeting was still certain.
+
+"Thanks," he said.
+
+"For what?"
+
+"Not making me explain it to them."
+
+"That's my responsibility as host, not yours as brother."
+
+They finished sorting the route maps. Triton locked the restricted papers in their cabinet and left the public copies on a table where any of the guests could find them. Percy inspected the guest-card box one more time. It contained the same three routes they'd agreed at camp and the names of the people assigned to help if a visitor wanted to leave.
+
+He had spent the afternoon learning how the palace worked, but the most useful lesson had come in a room full of ordinary paperwork. Nobody was being required to belong in a way they hadn't chosen. Nobody was being asked to wait indefinitely for their father. A letter could go to its real recipient without passing through Percy first.
+
+Before leaving, Percy noticed a little repair box on the lower shelf.
+
+It contained a wooden bowl, three loose fittings and a maintenance tag with a date from several years earlier. The bowl had been cracked and repaired with fine metal pins. Nobody had tried to disguise the repair.
+
+"Why keep a broken bowl?" he asked.
+
+"Because it was worth repairing," Triton answered. "It belonged to someone who cared for the gardens before I was born. The household chose to preserve it rather than replace it."
+
+Percy turned the bowl in his hands. It wasn't beautiful in the polished, flawless way some of the palace objects were. One edge was uneven and the rim had a small nick.
+
+"Doesn't someone worry it will break again?"
+
+"Of course. It isn't used for heavy work anymore. It has a different purpose now."
+
+Percy considered the answer. At camp, Myra had been repairing an old mural that couldn't be made new without destroying what had survived. Here the same principle applied to something small enough to fit in his hands.
+
+"Annabeth would like to see this," he said.
+
+"Then ask the collection steward tomorrow. She knows its history better than I do."
+
+"Is every question going to end with you telling me to ask another person?"
+
+"Only the ones whose answers belong to somebody else."
+
+Percy put the bowl back in its padded place, making sure the loose fittings remained beside it. The box was labeled for the collection team, not for general use.
+
+On the way out they passed the public information table, where the next day's visitor maps were stacked. Percy checked that the versions available to the guests showed the open corridors but not the restricted maintenance routes. One route had a small red mark beside it.
+
+"What does that mean?" he asked.
+
+"An inspection is scheduled in the morning. We will verify the corridor is open before using it."
+
+"Then we shouldn't put it on the tour list yet."
+
+Triton took out his pencil and moved the possible stop into the unconfirmed column. A place could be ancient, magnificent and expertly maintained without being open every day. Percy understood that better after helping the gardeners and seeing the work in the stables.
+
+When they had finished, he copied the day's decisions onto a small card for the group: no confirmed meeting with Poseidon, two approved tours, one workshop request awaiting confirmation and an optional harbor visit. He left space for everybody to add their own preferences.
+
+"Does that look accurate?" he asked.
+
+Triton read it. "Yes."
+
+"Then I'm keeping it with our guest cards."
+
+"You're beginning to make more paperwork than I do."
+
+"I learned from a professional."
+
+Triton smiled. He had spent the week teaching Percy the forms of court etiquette. Percy had learned some of them, though he still disliked the spoons. But the most useful part had been discovering how much a shared visit depended on plans that remained open to correction.
+
+That was enough to make the next day feel like a set of choices rather than a series of orders. Percy could live with not knowing every answer before breakfast.
+
+Triton switched off the library's lamps as they left. The current beyond the windows moved steadily toward the city. Percy could not tell whether the morning would be easy. He could tell that when it began, the people who came with him would have their own plans.
+
+
+---

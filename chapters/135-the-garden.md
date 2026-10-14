@@ -24,6 +24,80 @@ Across the field, the toolshed door banged. Silena came into view first, arms wr
 
 ---
 
+Before the planting could begin, Annabeth found something she hadn't planned for.
+
+She had been clearing fallen needles from the base of the old shrine when her trowel struck a small stone cup. It was buried up to the rim, stained with weather and a crust of dry earth. Beside it lay the broken clay horse she'd noticed the day before and three green drachmas. In her drawing, those objects were represented by a rectangle labeled *old offerings, to be moved*. She had made the label without asking where they belonged.
+
+She set down the trowel. The shrine had been neglected for years, but neglect did not make the things inside it rubbish.
+
+"Percy, can you get Chiron?"
+
+He looked at the cup. "Did you find a trap?"
+
+"No. I found a question."
+
+"A dangerous discovery for you."
+
+She ignored the joke. Percy went toward the Big House while Clarisse kept the wheelbarrow out of the prepared beds. Silena sat with the seedling trays in the shade, examining the tiny green shoots as if they might start giving instructions. No one touched the offerings.
+
+Chiron arrived carrying a thin folder. He had expected the question, or something like it, and he was pleased they had asked before sweeping everything into a pile.
+
+"The shrine has had several uses," he said. "The dedication stone has weathered so thoroughly that we cannot be certain who was honored first. Later campers left objects for different gods. We have records of a festival held here a century ago, but not a complete list of its participants."
+
+Annabeth glanced at the plan. "I was going to make this a common garden. Not a shrine to any one god."
+
+"That is a reasonable use, if the site is treated respectfully."
+
+"Does that mean we have to leave the offerings where they are?"
+
+"Not all of them. The damaged objects can be documented, cleaned by the appropriate people and stored. The surviving cup and the dedication stone should remain accessible. A garden does not have to erase what stood here before."
+
+Silena took out her notebook. "Could we put a small sign by the steps? Something that says we don't know the original dedication?"
+
+"That would be more truthful than choosing a name for convenience," Chiron replied.
+
+Clarisse examined the base of the shrine. "The stone's loose. Should we shore it up before we plant anything against it?"
+
+"Yes. But ask the maintenance crew to inspect the foundation. Don't push new soil against the old wall until they've looked."
+
+Annabeth felt the entire morning shift. Her garden wasn't simply a picture she could turn into ground. It had an earlier history, most of which nobody could explain. She wanted to respect that without allowing the uncertainty to stop anything from growing.
+
+"Can we start on the outer beds?" she asked.
+
+"Certainly. You can leave a clear path to the shrine until the inspection is done."
+
+Percy returned the little cup to the exact place she'd found it, using a flat stone to mark the edge so nobody stepped on it. Ella offered to copy the inscription on the dedication stone, though she warned them that parts of it were beyond even her eyesight. Chiron suggested making a rubbing only after a conservator approved the material, since the surface was fragile.
+
+Silena took a drawing of the clay horse before anyone lifted it. She did not smooth over its missing leg. There was something tender about the damaged toy sitting beside the old cup, the proof that a child had once come here with an offering and that the offering had been allowed to remain.
+
+"Do you think the child was afraid?" Percy asked.
+
+"Of what?"
+
+"Whatever they came to ask the gods about."
+
+Annabeth looked at the blank stone. In the life she remembered, she'd spent years trying to impress a goddess who often spoke in tests. Here she was Zeus's daughter, raised in a family where Thalia spent too much time predicting what their father might do next. She could not look at a shrine and assume the person who knelt there had been grateful.
+
+"Maybe," she said. "Or maybe they came because something good happened."
+
+"Both seem possible."
+
+"Then that's what the sign should say. Not that the gods were kind. Just that people came here."
+
+Chiron agreed they could draft an interpretive note once the records had been checked. He went back to the Big House to arrange the inspection. The work crew marked an exclusion line around the shrine's base, leaving the path unobstructed.
+
+Clarisse looked at the revised plan. "You're moving half the flowers."
+
+"Only the ones closest to the old stone."
+
+"That's half the flowers."
+
+"Then we'll make the border narrower."
+
+Silena was already rearranging the trays in new groups. She didn't complain about the change. She wanted the plants to live, and now they had enough information to choose a place where the roots wouldn't disturb a foundation nobody understood yet.
+
+Percy pulled up one of the twine stakes and reset it farther out. Annabeth held the line until it was straight. She had designed the garden to make a neglected corner of camp welcoming. That purpose hadn't changed. The thing she needed to change was the assumption that the empty-looking space had never belonged to anyone before.
+
 By seven, the clearing looked more like a work site than a holy place.
 
 Silena knelt by the shrine steps and unloaded her flats in rows, naming each one under her breath while she pinched off dead leaves. "Marigolds for borders — slugs hate them. Lavender for bees. White alyssum to fill cracks. And —" She lifted a smaller tray with a flourish. "Moonvine. Somebody at the Demeter cabin owed me a favor."
@@ -60,11 +134,11 @@ Laughter cracked out of Clarisse before she could stop it, rough and surprised. 
 
 Up the slope, Thalia arrived with a clatter, dragging a canvas sling full of flat gray stones. Her black hair was tied back with a strip of denim, copper streaks bright where sunlight struck. Lightning-bleached scars mapped her knuckles. She dropped the sling beside the twine line, rolled her shoulders, and surveyed Annabeth's sketch over her shoulder.
 
-"Border stones," Thalia said. "Said the harpies wouldn't miss a few from the amphitheater wall. Don't quote me."
+"Border stones," Thalia said. "Maintenance left these in the amphitheater's surplus pile. Chiron said we could use them."
 
-Annabeth grinned up at her. "You stole from the amphitheater?"
+Annabeth grinned up at her. "You asked Chiron first?"
 
-"Relocated," Thalia said, deadpan, and winked. "Show me the line."
+"Occasionally I follow instructions," Thalia said, deadpan, and winked. "Show me the line."
 
 ---
 
@@ -99,6 +173,90 @@ Percy swiped at his ear and missed. "Where?"
 Laughter rippled around the circle, and even Clarisse cracked a reluctant grin as she parked the empty wheelbarrow and wiped her forehead with the back of her wrist, leaving a streak.
 
 ---
+
+Thalia had almost finished the eastern stone border when she asked Annabeth to leave the last two rocks in a pile.
+
+"Why?" Annabeth asked.
+
+"Because we don't know whether the rain channel will cut across this side."
+
+"I marked it on the plan."
+
+"Plans change when somebody finds an old root."
+
+"We found one on the west side. This isn't the west side."
+
+Thalia wiped her forehead with a dirty forearm. Her hair had escaped its tie and kept catching against the collar of her shirt. She looked as though she'd been working in the arena, not building a place for flowers.
+
+"Annabeth," she said, "I'm trying to help."
+
+"I know. But you've been changing the stones without asking me."
+
+"I'm not changing the design. I'm making sure they stay up."
+
+Annabeth looked along the line. Every stone sat evenly. Thalia was right that the edge would probably survive the winter better than the version Annabeth had drawn. That did not erase the fact that she hadn't been asked before her sister started moving things.
+
+"Show me what you're changing," Annabeth said. "Don't just do it and tell me afterward."
+
+Thalia set down the next rock with more force than necessary. The thud sent pale dust across the dark soil.
+
+"Fine. The last two stones need to lean toward the bed. If I set them upright, frost will push them outward. I'm leaving enough room to add gravel when the soil settles."
+
+"That makes sense."
+
+"Then why are we arguing?"
+
+"Because I want to know what we're building before it's built."
+
+Thalia's mouth tightened. Annabeth recognized the expression. It was the one her sister wore whenever someone questioned a choice she had made for safety. She had spent so many years acting as the older sibling who noticed hazards first that advice sometimes arrived in her voice like an order.
+
+Percy appeared with another bag of compost, took one look at them and moved quietly away. Annabeth appreciated the decision more than she would have appreciated him trying to make peace.
+
+"Do you think I'm trying to take this from you?" Thalia asked.
+
+"No." Annabeth hesitated. "Sometimes I think you don't trust me to know where the edges should be."
+
+"You know the drawings. I'm worried about what happens when somebody leans on the finished border."
+
+"Then tell me that. I can change a drawing."
+
+Thalia sat back on her heels and looked at the half-finished path. For a moment neither spoke. The birds were loud enough to make the silence less severe, though Annabeth felt it anyway.
+
+"When Jason was little," Thalia said, "I used to make sure the doors were locked before I went to sleep. Then the doors weren't enough. It got easier to keep checking than to decide when I could stop."
+
+Annabeth knew what had happened to their brother in this life, taken away so young that keeping him safe had become something Thalia could rarely do in person. She did not pretend the memory was hers in the same way. She had grown up with an absence and with Thalia's attempts to fill it, both of them real.
+
+"He's at Camp Jupiter," Annabeth said. "You can't check his doors now."
+
+"I know."
+
+"And you don't have to check mine every minute."
+
+Thalia looked up. The anger had gone out of her face, leaving something more difficult.
+
+"I don't always know how to stop," she admitted.
+
+Annabeth knelt beside the stones. "Then ask whether I want help. Sometimes I will. Sometimes I want to work out the angle myself."
+
+"And sometimes you're wrong."
+
+"Very occasionally."
+
+Thalia snorted. "Sure."
+
+"Then you can tell me why."
+
+They went back to the border together. Annabeth held the tape and Thalia demonstrated how the gravel would settle after a frost. They tried the last stone in two positions, tested both and chose the one that held better when Clarisse leaned her weight against it. Nobody called it Thalia's victory or Annabeth's surrender.
+
+Silena arrived with two cups of water. She glanced between them, eyebrows raised, but didn't ask what had happened. Annabeth took one of the cups and offered the other to her sister.
+
+"Are we all right?" Thalia asked quietly.
+
+"Yes. I meant what I said."
+
+"So did I."
+
+Annabeth looked down the curve of the new border. There was room in the drawing for an adjustment. There was room in her life for an older sister who knew things she didn't. She wanted both without agreeing to be treated as someone who could never hold a stone alone.
 
 By midmorning the sun stood clear of the pines, and shadows shrank to dark puddles beneath the shrine eaves.
 
@@ -192,6 +350,88 @@ Ella flapped her wings for balance as she leaned to write. "Percy Jackson, age t
 
 ---
 
+The garden acquired its first critic before the plants were in the ground.
+
+Katie Gardner arrived from the Demeter cabin carrying a tray of seedlings Annabeth hadn't ordered. She set it beside the shrine, looked at the neat rows of lavender and marigolds, then followed the edge of the proposed bed with her eyes.
+
+"Where are the plants that already grew here?" she asked.
+
+Annabeth opened her notebook. "There weren't many. Mostly weeds and brambles."
+
+"Brambles are not all weeds. There was a wild patch by the north wall. The bees used it before the strawberries flowered."
+
+"We cleared it because it was covering the old stone."
+
+"All of it?"
+
+Annabeth looked toward the compost pile. A tangle of roots and prickly stems lay among the pulled grass. She had treated them as obstacles to a design, and she could already hear Katie's objection before it was spoken.
+
+"You should have asked somebody from my cabin to identify it," Katie said.
+
+"I thought Silena had checked the plants."
+
+"I checked what we were putting in," Silena replied, kneeling beside the new tray. "I didn't know the old patch mattered."
+
+Katie sighed. "It did. Not enough to ruin the garden, but enough that the empty space wasn't actually empty."
+
+Percy glanced at Annabeth. She didn't want him to make an excuse for her, and he seemed to understand that. He went to fetch a watering can while she asked Katie what could be done.
+
+Katie had brought a set of young native flowering plants to replace some of the habitat they'd removed. She wanted a strip along the outer border left a little less tidy, with seed heads allowed to dry at the end of the season. The idea made the plan look untidy. Annabeth's lines ended neatly, each area labeled and contained. She had been proud of how quickly other campers could read it.
+
+"How do we keep the border from spreading into the path?" she asked.
+
+"With a maintenance schedule. We cut back what needs cutting back. We don't let it grow wherever it wants."
+
+"So you want more work."
+
+"I want the work to acknowledge what lives here."
+
+Annabeth thought about the old shrine cup beneath the protective marker. The morning was full of reminders that a new plan did not get to erase everything that came before it. She could be annoyed by the repetition or accept that it was telling her something about the place.
+
+"We can use the north strip," she said. "The trellis will still fit if we shorten it."
+
+Katie studied the sketch. "That should work. But somebody needs to check whether the moonvine is going to spread where we don't want it. It looks lovely at night, but beauty isn't a reason to let one plant take over."
+
+Silena sat back on her heels. "I can take responsibility for collecting seed pods. I brought it in."
+
+"You'll be away from camp sometimes," Katie said.
+
+"Then I'll need help, not a promise that I can do it all."
+
+Katie nodded. She offered to put two Demeter campers on a rotating inspection alongside the people already tending the beds. Annabeth wrote down the proposed dates but left the names blank until those campers agreed.
+
+"Are you taking over my garden?" she asked Katie.
+
+Katie looked at her in surprise. "No. I'm asking if it's actually a community garden. If it is, people who know the plants should help decide what grows."
+
+Annabeth winced. The question was fairer than she liked.
+
+"I want it to be a community garden," she said.
+
+"Then let's make it one."
+
+Clarisse came over with a shovel and asked which bed had changed this time. Katie explained the habitat strip. Clarisse listened, then offered to move the stones that marked the outer edge.
+
+"Not until we check the drainage line," Annabeth said.
+
+"I know. I'm learning."
+
+Katie stayed to help plant the first native seedlings. She showed Annabeth how deep to set them and why packing the soil too tightly would keep the roots from spreading. Annabeth was good at drawing systems, and she had a talent for working out why a bridge would fail. That didn't make her an expert gardener. She listened when Katie spoke and asked questions when she didn't understand.
+
+Percy returned with water, took one look at the altered layout and grinned. "Your plan has become a committee."
+
+"Please don't say that as though it's a disaster."
+
+"I didn't. The plants might enjoy having a vote."
+
+"They don't vote."
+
+"Some of them have very strong opinions."
+
+Silena pointed to the moonvine. "That one wants the entire fence."
+
+Katie laughed. Annabeth did too, eventually. The revised border looked less like the tidy rectangle she'd drawn at dawn. It looked more like a living place where different people expected different things, and where success would have to be measured after the planting rather than only on the day it was finished.
+
 Around noon, Silena produced the promised lemonade from behind the shrine, where she had hidden two cold jugs under a damp towel.
 
 Plastic cups passed hand to hand, beaded with condensation, tartness cutting through dust and heat. Lemon pulp stuck to teeth. Ice clinked. Clarisse drank hers in three gulps and held out her cup for more without a word, and Silena refilled it with a smug arch of her brows.
@@ -267,6 +507,263 @@ Thalia's voice cut across, dry with amusement. "If you two are done negotiating 
 Annabeth rose, knees cracking, and went to sight the line, grateful for stone-cold problems with plumb-line answers.
 
 ---
+
+By lunchtime, the first problem with the new garden had become impossible to ignore.
+
+The wheelbarrow had left a groove through the soft earth near the eastern border, and water from the washing station was running down it toward the roots of the olive sapling. Annabeth watched the narrow stream carry bits of soil away every time someone filled a bucket.
+
+"We can't leave that," she said.
+
+Percy followed her gaze. "It's not much water."
+
+"It's enough to wash the edge out if it keeps running. Then the stones settle, the soil slides and the sapling starts leaning."
+
+Clarisse brought the empty wheelbarrow over. "We need another line of stones."
+
+"Not before we solve where the water goes."
+
+"We can move the wheelbarrow."
+
+"That stops the groove from getting deeper. It doesn't move the washing station."
+
+Thalia joined them with a stone in each hand. "Do you want me to put these down?"
+
+"Yes," Annabeth said. "And can you leave that border alone for five minutes while I check the slope?"
+
+Thalia set the stones aside. She'd been trying to help, and the request stung a little, but she didn't argue. Annabeth stretched her cord from the washing station to the lower edge of the clearing. The line fell steadily toward the sapling.
+
+Grover came to look. He crouched, scooped up a fistful of soil and rubbed it between his fingers.
+
+"That's not good for the roots," he said. "They're going to sit in wet soil at the top and dry soil at the bottom. Trees don't like living in two different gardens at once."
+
+"Do you have a suggestion?" Annabeth asked.
+
+"Move the sapling."
+
+Silena looked up from her marigolds. "But we planned the whole bed around it."
+
+"Then we need to decide whether the drawing matters more than the tree," Grover said.
+
+Nobody answered immediately. Annabeth had spent two evenings measuring the clearing, and the olive sapling was at the center of the design. It would be easier to defend the plan than to admit the place she'd chosen had a drainage problem.
+
+She took the drawing out of her pocket and looked at it again. The washing station wasn't on the original map. That was the mistake. She had designed the garden as though the space belonged only to the garden, rather than to a camp that needed water for chores.
+
+"We can put the sapling farther west," she said. "And leave a shallow drainage channel along the east border."
+
+"Can we do that without digging up what Silena planted?" Percy asked.
+
+"Not all of it. We'd have to move the first row of alyssum."
+
+Silena considered the bed. "They're still in shallow holes. I can replant them. But I want Grover to choose the new place with us."
+
+Grover nodded. "I want the soil tested first."
+
+Chiron arrived while they were kneeling beside the drainage groove. He looked at the drawing, then at the water and the shifted stones.
+
+"A revised plan?" he asked.
+
+"Yes," Annabeth said. "We forgot that the washing station drains this way."
+
+"Does the new route cross the footpath?"
+
+"Not if we keep it inside the eastern edge."
+
+"And the stones?"
+
+Thalia pointed to her small pile. "I brought them from the amphitheater."
+
+Chiron looked at the pile. "Were those loose stones intended for repairs?"
+
+Thalia hesitated. "They were sitting beside the wall."
+
+"They may have been set aside by the maintenance crew."
+
+"I didn't ask."
+
+"Then return them until we know."
+
+Thalia gave the stones a sour look. She'd been proud of finding materials without demanding a new supply. Now she had to admit that the materials might already belong to someone else's project.
+
+"I'll take them back," she said.
+
+Clarisse offered to help. Thalia almost refused, then took the offer. They loaded the stones into the wheelbarrow, which still had the wobbling wheel, and headed toward the amphitheater.
+
+Annabeth moved the cord west. Silena gently lifted the first row of plants and set them in damp cloth. Grover dug into the new spot, checked the texture and the depth of the better soil, and pronounced it acceptable.
+
+"Not perfect," he said.
+
+"That's all right," Annabeth answered. "We want it to grow, not win an architecture prize."
+
+Percy held the sapling while they moved it. The roots were smaller than he'd expected, the soil around them loose enough that he was afraid of breaking something without noticing.
+
+"Slowly," Grover said.
+
+"I am."
+
+"A little slower."
+
+Percy slowed. He kept the weight steady while Silena filled around the root ball and Annabeth checked the trunk against the cord. Grover watered the new spot, just enough to settle the soil without turning it muddy.
+
+Thalia and Clarisse returned with permission to use different stones from a maintenance pile near the shed. The proper materials were less attractive, rougher and flatter, but they'd been approved for landscaping rather than structural repair.
+
+"These won't win a beauty contest," Thalia said.
+
+"They'll stay where we put them," Annabeth answered.
+
+They built the drainage edge together. Thalia set the stones, Clarisse carried them, Percy filled the gaps with gravel and Silena replanted the displaced flowers. When they poured one bucket of water at the washing station, it ran along the new channel instead of across the sapling's roots.
+
+Annabeth watched it reach the lower collection bed and disappear into the soil.
+
+"Better," she said.
+
+Chiron made a note to check the channel after the next rain. The garden wasn't finished, and the trial had shown them that a drawing couldn't anticipate every use of a place. Annabeth folded the revised plan and marked the date. She intended to keep both versions, not because she enjoyed displaying her mistakes, but because the changes would explain why the garden ended up looking different from her first idea.
+
+
+---
+
+At midday they discovered a problem with the irrigation line. The little trench had been cut to the exact angle on Annabeth's plan, but the water didn't spread evenly when Percy sent a careful stream through it. One bed flooded and another stayed dry.
+
+Silena knelt beside the flooded flowers. "If this happens when no one's here, the seedlings will rot."
+
+Annabeth checked her measurements. "The slope is correct."
+
+"Then the soil isn't behaving like the drawing," Percy said.
+
+"That's not funny."
+
+"I wasn't trying to be."
+
+She tested the channel again with a cup of water. It pooled against an old root just beneath the surface, invisible until the soil had softened. They dug out the obstruction, then discovered the outlet still emptied too fast into the lowest bed.
+
+Clarisse arrived with two short stones and set them on either side of the channel. "Slow it down here."
+
+Annabeth studied the arrangement and shook her head. "That would send water over the path after heavy rain. We need an overflow."
+
+"Then tell me where you want it."
+
+Annabeth drew a shallow branch away from the path, and Clarisse dug it while Percy carried the excess soil to the compost pile. Silena moved three plants farther uphill. Nobody got the design they had imagined at sunrise. The final layout was better, because it accounted for ground they could actually touch.
+
+At the end of the test, Annabeth wrote down the amount of water they'd used and decided they should inspect the beds again after the next rain. A planted garden was not a finished garden. Somebody would have to maintain it after the celebration.
+
+They finished the planting only to discover that nobody wanted to take responsibility for the watering jug.
+
+"Everybody says they'll help," Silena said, looking at the row of names on the temporary work board. "That doesn't tell me who comes tomorrow."
+
+Clarisse offered to take the first shift. Katie reminded her that the Demeter cabin already maintained the strawberry beds. The new garden could be added to the rota, but that needed agreement rather than another surprise assigned to the gardeners because they knew plants.
+
+Annabeth wrote three headings: watering, inspection and repair. She asked for volunteers under each. Grover took the first inspection. Silena wanted to check the moonvine seed pods. Clarisse offered to carry tools when a repair required lifting; she would not promise to look at flowers every morning. Percy volunteered for watering on days he was in camp, leaving spaces open for the weeks he might be training underwater.
+
+For the first time Annabeth saw how easily her design could become other people's unpaid work. A living garden required more than one person's enthusiasm, but the work should not simply fall to whoever was kind enough not to complain.
+
+Katie read the list and crossed out a name a younger camper had written on someone else's behalf. "Ask them," she said. "If they say yes, put it back."
+
+Annabeth did. The camper agreed to one morning a week, not three, and she recorded the answer exactly. By the time the list was complete, it looked less impressive than the first version. It also described work people had actually chosen.
+
+Silena hung the rota inside a waterproof sleeve by the tool shed, well away from the old shrine. Annabeth left a second blank sheet underneath for observations. They would learn how often the beds needed water from the plants themselves, not from the neatness of the timetable. Annabeth made sure the spare keys went to the regular maintenance crew, not into her own pocket. The garden should still be cared for if she was away, tired or occupied with another project. Katie thanked her for thinking of that. It was a small exchange, but it made the responsibility feel shared instead of merely announced.
+
+The first person to use the new path wasn't anyone who had helped build it.
+
+A young camper arrived from Hermes cabin with a broken clay bead cupped between her palms. She stopped at the edge of the cord and watched Clarisse setting the last border stone. When Annabeth asked whether she needed something, the girl held out the bead.
+
+"I used to put things by the little shrine," she said. "Am I allowed to anymore?"
+
+Annabeth looked toward the old steps. They'd kept a clear way to the dedication stone, but the offerings they'd found were being documented before anyone moved them. Chiron hadn't decided what kind of marker the new garden should have. The girl had no reason to know any of that.
+
+"What did you put there before?" Annabeth asked.
+
+"Little things. A shell, once. And a bead my mother gave me. I think somebody moved it." Her voice tightened. "I wasn't trying to make a mess."
+
+"No one thinks you were."
+
+"I thought it was a place people could leave things."
+
+Annabeth felt the difference between her intention and the way the garden might feel to somebody who'd used the site long before she drew a line around it. The girl had arrived expecting a familiar quiet corner. Instead she found a work crew, measuring tape and a half-finished border with people older and louder than she was.
+
+She crouched to be at eye level. "We found old offerings when we began digging. Chiron is having them recorded so they don't get lost or broken. We haven't decided how new ones should be left. I can ask him, though."
+
+"Will you?"
+
+"Yes."
+
+The camper held the bead tighter. Annabeth didn't ask to take it for safekeeping. She couldn't promise when an answer would come, and she didn't want the girl to leave something precious with people who hadn't agreed how they would protect it.
+
+"If you want, you can see the garden," she said. "Just stay on the marked path until the stones are secure."
+
+The girl walked around the outer edge, looking at the new plants. She stopped by the habitat strip Katie had suggested and asked why some of the flowers looked like weeds.
+
+"Some plants grow wild here," Annabeth said. "They're part of the garden too."
+
+"Do you have to make them stand in rows?"
+
+"Not all of them."
+
+The girl smiled at that. She went back to her cabin carrying the bead, with a promise that Annabeth would tell her what Chiron decided. Percy had been listening from the edge of the path without stepping in.
+
+"That was harder than moving rocks," he said.
+
+"Somebody else was here before me," Annabeth answered.
+
+"So were the plants."
+
+"I've had a very educational morning."
+
+Percy smiled but didn't tease her. He had spent enough time being told stories about an Atlantean childhood he couldn't remember to know that places could hold meanings for different people. Annabeth didn't expect him to explain the feeling aloud. He handed her a cup of water and sat on the grass while she wrote the girl's question in the margin of the work log.
+
+Chiron returned later with the maintenance inspector's notes. The old shrine base was stable enough to remain open for brief visits, provided no new soil was piled against it. The broken offerings would be moved under the supervision of the conservator, with their locations recorded. New objects could be left in a shallow tray on the existing step rather than pushed into the earth beside the foundations. The tray would need checking so it did not become a place where personal keepsakes could vanish.
+
+"Then we should put up a notice," Annabeth said.
+
+"A temporary one," Chiron replied. "We can ask the campers who use the shrine what they would like it to say."
+
+She wrote that down. It felt strange to leave the wording unfinished when she had spent so long planning the precise position of every flower. The uncertainty would be shared rather than hers alone, and that made it easier to carry.
+
+As the sun lowered, the workers began gathering their tools. Katie arranged a date for the first garden inspection, and Silena carried her empty seedling flats back toward the cabins. Clarisse announced that she had spent enough time looking at flowers and intended to spend tomorrow hitting something with a practice spear. Grover said that sounded healthier than hitting the flowers. Thalia laughed and put down the last unused border stone beside the pile marked for return.
+
+Annabeth was left with Percy, a dusty sketchbook and a square of earth that looked nothing like it had when the morning began.
+
+"You wanted to talk about the summer," he said.
+
+She nodded. The conversation they'd started over lemonade had been interrupted so often she wasn't sure which part they'd actually agreed on.
+
+"I might spend some time at Atlantis," he said. "My father wants me to train there. I haven't settled the dates."
+
+"And I have the camp projects," she said. "And Thalia's asked me to help with the winter shelter plans."
+
+"Do you want me to stay?"
+
+The question was sincere. That made it harder.
+
+"I want to be able to miss you without it being a disaster," Annabeth said. "I want you to go if you want to go, and I want us to decide when we can visit instead of promising we'll never spend a day apart."
+
+Percy pulled at a blade of grass, thoughtful. "I do want to go. Not because I want to leave you."
+
+"I know."
+
+"I wish that were less complicated to say."
+
+"Then we should keep saying it until it isn't."
+
+He glanced at her. "Would you visit if we could arrange a passage?"
+
+"Probably. Not because I'm obliged."
+
+"Good."
+
+They discussed one possible visit and agreed not to fix the date until Chiron and the palace confirmed the travel plans. Annabeth would have projects that belonged to her. Percy would have lessons that belonged to him. They would still have each other, and the relationship did not need to swallow either schedule to remain real.
+
+When he moved his hand toward hers, she took it. They sat by the old stone for a while, watching the garden hold the last light. She thought of the little girl carrying her bead away. The new beds had made room for that child's memory, even though Annabeth didn't know what it contained. In some ways she and Percy were doing the same thing with their lives: making room for histories the other couldn't completely see.
+
+"Will it grow?" Percy asked, looking toward the smallest seedlings.
+
+"If we keep caring for it."
+
+"That sounds like a responsibility."
+
+"It is."
+
+He squeezed her fingers. "I can help when I'm here."
+
+"That's what I wanted."
 
 Afternoon stretched long and amber, and the garden took shape.
 

@@ -112,6 +112,110 @@ Girlfriend and boyfriend were familiar words from the life they both remembered.
 
 ---
 
+The notes stayed a private game until one of them fell into the wrong hands.
+
+Milo found the folded square beneath a rack of practice shields, where the leather straps had caught it when somebody moved a crate. He brought it to Annabeth after drills, holding it by one dry corner.
+
+"Is this yours?"
+
+She saw the small wave drawn beside the letter A and felt her stomach tighten.
+
+"Where was it?"
+
+"By the equipment rack. I didn't read it. I thought it might be an instruction, but then I saw the little drawing."
+
+Annabeth accepted it. The paper was damp with grit. Percy had meant to leave it inside a fold of her satchel, not where somebody carrying shields would tread on it. She recognized his handwriting through the crease.
+
+"Thank you for bringing it," she said.
+
+Milo looked relieved. "It's private, right?"
+
+"Yes."
+
+"That's fine. I have letters from my brother. My cabinmates aren't supposed to read them either."
+
+He ran off before she could ask about his brother. Annabeth stayed beside the rack, feeling foolish for having assumed the only danger was that somebody might tease her. A lost note could become work for whoever had to put the equipment away, and not every person in camp wanted responsibility for somebody else's secrets.
+
+She found Percy at the canoe dock, hauling a training paddle onto its shelf.
+
+"Look what I found," she said.
+
+He saw the folded paper and went red. "I put it in your bag."
+
+"It fell out. Milo found it."
+
+"Did he read it?"
+
+"No. He gave it to me."
+
+Percy let out a breath. "Then it got there."
+
+"That's not the whole point."
+
+She explained where the note had fallen. Percy listened, first embarrassed and then defensive, because he wanted the plan to be fun and she was making it sound like a problem with a storage system.
+
+"You're the one who put the first one in my sword strap," he said.
+
+"I know. That wasn't a great place either."
+
+"So you want to stop?"
+
+"No." She looked at him, surprised by the idea. "I want to choose places that don't interfere with other people's things."
+
+He sat on the lower step. Annabeth joined him, leaving room for a passing camper to carry a canoe down the path.
+
+"Can I ask something?" he said.
+
+"Of course."
+
+"Do you actually like the notes, or do you just like figuring out where I've hidden them?"
+
+"Both. But mostly the notes."
+
+Percy looked at her. He had been worrying that he was giving her something she'd feel obliged to answer, especially because the first one had come from her. The poems were terrible and he knew it. It would have been easier to hide them in unexpected places than to ask whether she wanted to keep receiving them.
+
+"I don't need an answer every time," he said.
+
+"Neither do I. Sometimes I've got training or a project and I won't write back for a day."
+
+"That's fine."
+
+"Then don't assume I'm upset."
+
+He smiled. "You could just tell me you're busy."
+
+"I do tell you."
+
+"Right. I'll try listening."
+
+She took out the damp square. His message was about the instructor who had called her Thalia twice during the morning lesson. He'd drawn an owl wearing a training helmet and written that nobody who confused the sisters ought to be allowed to mark their work.
+
+"That's a terrible punishment," she said.
+
+"I haven't even proposed my second punishment."
+
+"Which is?"
+
+"They have to wear the helmet."
+
+She laughed. It was ridiculous, affectionate, and specific enough that she knew he had paid attention to the part of her day that had irritated her. That mattered more than the hiding place.
+
+"Can we use the hollow oak by the lake?" she asked. "As long as it's dry and nobody's nesting in it?"
+
+"Sure. And maybe the empty jar at Cabin Three. If Silena says we can."
+
+"Good. No sword racks. No other people's bags without asking."
+
+He nodded. Then he examined the little owl.
+
+"You know," he said, "I could draw a better one."
+
+"Don't you dare."
+
+He grinned. Annabeth folded the paper and slipped it into her own pocket. The notes could stay theirs without requiring every person who happened to find a scrap of paper to join the game.
+
+---
+
 Ella found out because Ella noticed everything written down.
 
 The harpy girl spent afternoons in the Big House attic library, where air smelled of cedar and old paper and windows were round like portholes. Small for her age, russet feathers puffing when excited, sharp eyes missing nothing, she shelved scrolls for Chiron and had taken a liking to Annabeth because Annabeth never mocked her repeating and always asked her view on architecture books.
@@ -154,6 +258,104 @@ Ella guarded fiercely. If anyone neared the temple book while it held a note, sh
 
 ---
 
+The library arrangement worked for four days.
+
+On the fifth, a younger Athena camper asked Ella for the temple book and Ella told him it had been borrowed. It hadn't. It was sitting three feet away on the return cart with a folded note between pages eighty-three and eighty-four.
+
+"I saw it here yesterday," he said.
+
+"It isn't available."
+
+"Why not?"
+
+Ella could think of five reasons that sounded convincing and none that were true. Annabeth had asked her not to tell anyone, and Ella had taken the request as a charge to guard the book from everybody who didn't know the secret. She liked having a job that depended on her, but the boy wasn't trying to pry into anyone's private life. He needed the book for class.
+
+"Because," she said.
+
+The boy stared. "Because what?"
+
+Ella spread her wings over the cart. He stepped back, startled. That was when Chiron came down the stairs.
+
+"Is there a problem?"
+
+The boy explained he wanted the temple book. Ella looked toward the cart and felt a small, sharp twist of guilt. She had been so pleased to be useful to her friends that she'd stopped thinking about the reason the book belonged to the library in the first place.
+
+Chiron waited for her to speak.
+
+"The book is here," she said. "Ella doesn't want him to take it."
+
+"Is there a preservation concern?"
+
+"No."
+
+"Then why is it unavailable?"
+
+Ella could keep the promise not to reveal the note and still answer the question truthfully.
+
+"There's something inside that shouldn't go with the book," she said. "A personal thing."
+
+Chiron nodded and asked the other camper to give them a moment. He didn't ask Ella whose personal thing it was. Together they removed the folded square without opening it and placed it in a clean envelope behind the circulation desk.
+
+"The book can be borrowed now," Chiron said. "The envelope can wait for its owner. But we can't keep public books from readers because somebody wants a private delivery service."
+
+Ella looked at the floor. "Ella wanted to help."
+
+"I know. Helping somebody sometimes means explaining what you can and cannot do."
+
+He sent the book with the younger camper and showed Ella where the library's lost-property envelopes were kept. The system recorded where an object had been found without requiring staff to read private writing inside it.
+
+Annabeth arrived that afternoon and found Ella sitting beneath the catalog table, sorting scraps of paper by size with more force than necessary.
+
+"What happened?"
+
+"Ella kept the temple book. Somebody wanted the temple book. Ella was wrong."
+
+Annabeth knelt beside her. "You were trying to help me."
+
+"Helped the wrong way."
+
+"Then we change the way."
+
+Ella looked up. "Are you angry?"
+
+"At myself. I asked you to guard a hiding spot and forgot that you have work of your own here."
+
+Ella considered that. She loved the library. The notes were nice, but the books were not hers to keep away from people, and she didn't want to spend every afternoon deciding which camper could approach a shelf.
+
+"Can we use a box?" she asked. "A little box that doesn't belong to the books?"
+
+Annabeth thought about it. A private mail slot by the reading room could be used by anyone who wanted to leave a harmless message for a friend. It would need permission and rules: no valuables, no personal information left exposed, no guarantee that an object would be safe if it was forgotten.
+
+"We can ask the librarian," she said.
+
+They did. Chiron approved a small correspondence tray beside the circulation desk, but insisted that the library staff would not deliver the notes or read them. Campers could place a folded message in a labeled envelope and collect it during open hours. Anything unclaimed would be returned to the sender if possible or handled through the ordinary lost-property procedure.
+
+Ella insisted on helping write the notice. Annabeth insisted on making it short enough to read.
+
+"Can you still help me sometimes?" Annabeth asked after they put up the sign.
+
+"Sometimes. Ella wants to sort books other times."
+
+"That's fair."
+
+"And Ella won't promise a secret she can't keep. Ella forgot. Silena already knows, yes?"
+
+"Percy told her about the first one. She knows we're writing."
+
+Ella tapped a claw against the table. "Can Ella ask Silena about paper and envelopes? No private words. Just how to keep them dry."
+
+Annabeth considered. She didn't want to involve another person without telling Percy. But Silena knew already, and good stationery would help prevent loose papers from falling out of shared equipment.
+
+"Ask only about the envelopes," she said. "I'll tell Percy."
+
+Ella nodded. That evening she asked Silena how to keep paper dry in a library without hiding it inside a book. Silena listened, guessed what was happening and offered to show Percy how to fold a note properly. She did not ask Ella to repeat anything she'd promised Annabeth to keep private.
+
+The temple book went back into circulation. The correspondence tray acquired its first two envelopes before the week ended, one with a little owl and one with a wave. Other campers began using it too, leaving notes about borrowed pencils and meeting places for study groups.
+
+Ella watched the tray with satisfaction. She had wanted to help two friends. She had ended up making something useful for everyone, and she could leave it alone long enough to finish cataloging the next shelf.
+
+---
+
 Silena confronted Percy a week later with wax on her fingers.
 
 He returned from swimming lessons, hair dripping, to find her on his bunk with a wooden box open on her lap. Sticks of sealing wax in blue and white, a brass stamp with a wave pattern, twine, paper cut into neat squares.
@@ -164,7 +366,7 @@ He returned from swimming lessons, hair dripping, to find her on his bunk with a
 
 Percy sat. Clarisse had evening patrol and would be gone an hour. Lucky.
 
-"Ella told me about the library," Silena said. "She thought I already knew, and mostly I did, and she made me promise on the porthole windows. I am not mad. I am impressed you avoided Thalia this long. Thalia notices everything."
+"Ella told me about the correspondence tray," Silena said. "She knows I guessed you were writing notes, and she asked only about how to keep the paper dry. I am not mad. I am impressed you avoided Thalia this long. Thalia notices everything."
 
 Percy swallowed. "Are you going to tell me to stop?"
 
@@ -208,6 +410,114 @@ Percy stared. "How do you know all these?"
 
 ---
 
+The new wax seals made Percy feel like he ought to write something worth sealing.
+
+For the first three days he produced nothing at all. He'd sit on his bunk with a piece of white paper, think of Annabeth laughing at the amphitheater, and begin a sentence that looked absurd the moment he saw it. Every time he tried to rhyme, the line became something he wouldn't have said aloud. He crossed out more words than he kept.
+
+Silena found the scraps when she came to retrieve a spool of thread from the sewing box.
+
+"Having trouble?"
+
+"No."
+
+She pointed to the little heap beside his foot.
+
+"That's a fairly convincing no."
+
+He picked up a page before she could see it. "I've written poems before."
+
+"I know."
+
+"These are worse."
+
+"Then don't write a poem."
+
+Percy stared at her. "But that's our thing."
+
+"Is it? She sent you a training diagram last week."
+
+"With an owl."
+
+"Then draw something. Or write one sentence. You don't have to perform a certain version of yourself just because you did it first."
+
+He looked at his pencil. Reading ordinary English had never been as easy for him as it seemed for other campers. Ancient Greek made more sense in his head, its forms and sounds familiar even when he couldn't explain why. He'd learned ways to check his own spelling, but writing a little note that mattered to him felt harder than writing a page for history class. He couldn't blame the classroom's noise or his nerves about a quiz. This was something he wanted to do.
+
+"Could you look at one?" he asked.
+
+"Only if you want me to."
+
+He handed her the least terrible page. The handwriting wandered down the margin. There were three crossed-out versions of the same sentence, followed by a drawing of a boat in a storm. Silena read slowly.
+
+"'I liked that you waited for me when I messed up the tie-off at the dock.' That's good."
+
+"It doesn't rhyme."
+
+"So?"
+
+"It sounds like a thank-you note."
+
+"Maybe you wanted to say thank you."
+
+Percy considered that. Annabeth had waited while he failed to tie a knot properly, even after the instructor had corrected him twice and his face had turned red. She hadn't done it because she thought he was impressive. She'd stayed because he asked her to practice with him. He was grateful in a way he hadn't managed to say.
+
+"I can send that?"
+
+"Of course."
+
+He looked suspicious. "You're going to make a joke about it."
+
+"Probably not to Annabeth."
+
+"Silena."
+
+She laughed and sat beside him. "I won't repeat the words to anyone else. If you want spelling help, I'll help with spelling. The note's yours."
+
+He drew a line through the abandoned rhymes and copied the sentence onto a clean square. Then he added *I was embarrassed, and you didn't make a thing of it*. It took him several attempts to fit the words without crowding them. Silena showed him how to fold the paper so the writing wouldn't rub against the wax.
+
+When the seal cooled, he held it up to the light. The blue circle wasn't centered, but the wave had come out clearly.
+
+"You did it," she said.
+
+He grinned. "I did."
+
+Clarisse came through the door a moment later carrying a damaged spear strap. Percy tucked the note into his pocket. She looked from him to the sealing box.
+
+"Why does it smell like a candle shop?"
+
+"Because Silena's teaching me a craft."
+
+Clarisse examined the strap in her hand. "Good. Then maybe you can fix this."
+
+Percy took it and saw that one of the old loops was splitting. He knew enough from the forge to recognize it needed an inspection before somebody used it again. He told her so. Clarisse grumbled, but put the strap aside to take to the armory.
+
+Silena watched them. It pleased her to see Percy ask for help with words and then offer help with a practical problem without pretending either skill made him better than his sister.
+
+When Clarisse left, Percy unfolded the note one last time to check the ink hadn't smudged. It was still there, plain and direct.
+
+"She might think it's boring," he said.
+
+"Then she'll tell you what she thinks."
+
+"She doesn't lie to me."
+
+"No."
+
+He smiled at the page. He liked that about Annabeth even when she corrected his maps and argued with him about the most efficient way to stack paddles. He put the note into a clean envelope and marked the outside with a small P.
+
+At the library the next morning, he saw that the correspondence tray was open. Ella was working at the catalog table and barely looked up when he placed the envelope inside.
+
+"Good morning, Percy."
+
+"Morning."
+
+"Library notes go in the tray. Books stay in books."
+
+"Yes, ma'am."
+
+Ella smiled. She'd learned the rule well enough not to repeat it every time somebody came in. Percy went to class feeling nervous about whether Annabeth would like the note, and relieved that he no longer had to make every word into a rhyme.
+
+---
+
 For a while it worked beautifully.
 
 Annabeth found blue-sealed squares in the oak hollow and opened them to worse and more treasured poems, plus treasures. A spiral shell. A skipping stone with white stripe. Driftwood shaped vaguely like a horse.
@@ -232,7 +542,121 @@ Percy felt less conflict because Silena knew but Clarisse did not, and Clarisse 
 
 So he sealed and rotated spots and followed Silena's rules. For three weeks it held.
 
-Until rain and laundry broke it.
+---
+
+The first time Thalia noticed the wax, she thought Annabeth had been practicing a new kind of model making.
+
+A little white flake lay on the floor beside the desk. Annabeth was building a paper bridge for a class demonstration, and she'd borrowed the small candle they used to soften glue in the arts cabin. Thalia bent to pick up the scrap and found a tiny impression of an owl pressed into it.
+
+"What's this?"
+
+Annabeth glanced up, then looked back at her bridge so quickly that Thalia knew something was wrong.
+
+"Just wax."
+
+"I can see that. What were you sealing?"
+
+"Nothing important."
+
+Thalia held the flake between her fingers. It was barely larger than a fingernail. The sensible thing would have been to put it on the desk and leave the question alone. She had spent years being responsible for Annabeth, though, and anything Annabeth refused to explain still made her want to look for the danger hidden beneath it.
+
+"Is this for one of your letters to Jason?" she asked.
+
+"No."
+
+"Then why are you doing it?"
+
+Annabeth's pencil stopped moving.
+
+"Because I wanted to."
+
+Thalia felt irritation flare. She hadn't forbidden Annabeth from making things or writing letters. She had asked a simple question, and her sister was answering as though she expected a cross-examination.
+
+"There's no reason to be difficult," she said.
+
+"I know. So stop asking questions until I give you an answer you like."
+
+The words hit harder than Annabeth intended. Thalia put the wax on the table, beside the model, and stood with her hands on her hips. She could see how small the problem was. She could also see that her sister was refusing to explain something deliberately, which frightened her more than it should have.
+
+"Are you keeping something dangerous from me?"
+
+"No."
+
+"How do I know?"
+
+Annabeth looked at her. She had a good answer. She'd been going to lessons, returning at curfew, and meeting her responsibilities. If she had needed help with something dangerous, Chiron would have heard about it from the instructor responsible. She should not have to produce every note from her pocket as proof that she was safe.
+
+"Because you know me," she said. "You trust me with storm drills and the workshop and the shrine. Why is a piece of paper different?"
+
+Thalia opened her mouth and stopped. The question wasn't easy to answer. Storm drills came with instructors and rules; the workshop had supervisors. Private decisions didn't come with a form she could sign.
+
+"Because you're my sister," she said.
+
+"That's why I tell you important things. It doesn't mean you get to read everything I write."
+
+Thalia looked at the bridge on the table. The model was made from folded paper rather than wood, with two supports that looked too narrow and a carefully measured span. Annabeth had been working on it for an hour and hadn't once asked for help. A year ago Thalia would have considered that evidence something was wrong. Now she recognized it might be evidence that Annabeth could do more for herself than Thalia had learned to allow.
+
+"You're right about the paper," she said slowly.
+
+Annabeth stared. "I am?"
+
+"Don't enjoy it too much."
+
+A reluctant smile crossed Annabeth's face, then faded.
+
+"I'm not doing anything that puts me in danger," she said. "I'm writing to someone. I want it private."
+
+"Is the person treating you well?"
+
+"Yes."
+
+"Do I know them?"
+
+Annabeth hesitated. Thalia heard the hesitation and had to fight the impulse to guess names until one made her sister react.
+
+"You don't have to tell me today," she said.
+
+Annabeth looked relieved enough to make Thalia feel ashamed.
+
+"Thank you."
+
+"Can I ask one thing?"
+
+"Maybe."
+
+"Promise me you won't let someone make you keep a secret that frightens you. Not because I need to know everything, but because you should be able to choose who helps."
+
+Annabeth considered. She had chosen this privacy herself. Percy didn't know she was keeping the note exchange from Thalia, and he had never asked her to. She'd been afraid her sister would react badly, and the fear had grown from years of being protected rather than from anything Percy had done.
+
+"I promise," she said. "And I'm not frightened of this."
+
+Thalia nodded. She didn't like not knowing. She could live with it.
+
+"Fine. Then I won't ask again unless something changes."
+
+Annabeth looked down at the bridge. "Can you help me test this?"
+
+Thalia smiled. "Now you need me."
+
+"It's a load test. You're good at making things fail."
+
+"That's the nicest thing you've said to me all morning."
+
+They used small coins as weights, placing them one by one on the center of the paper span. The bridge held six before the supports buckled. Annabeth adjusted the folds and tried again. Thalia offered suggestions when asked, then stopped herself from taking over the work.
+
+The second version held nine coins. Annabeth looked pleased and wrote the result in her notebook.
+
+Thalia watched her. The bridge hadn't become stronger because Thalia told it how to stand. Annabeth had chosen the folds, made a mistake, listened to feedback and improved it. She was learning to be the kind of older sister who could help without having to know every step.
+
+She brushed the wax flake into the small waste basket, then left Annabeth to finish. At the door she turned back.
+
+"Are you coming to dinner?"
+
+"Yes."
+
+"Good. Bring the bridge. I want Percy to see how many coins it holds."
+
+Annabeth blushed at his name and bent over her paper. Thalia noticed, of course. She had said she wouldn't guess names aloud. She kept her word.
 
 ---
 
@@ -358,6 +782,110 @@ Annabeth widened eyes. "You are okay with him?"
 
 ---
 
+Thalia waited until the following afternoon to speak to Silena.
+
+They were alone in the arts cabin, where Silena had been repairing a strap on a performance costume. The weather had kept most people indoors, and the worktables were scattered with thread, paper and jars of sealing wax. Thalia stopped in front of the last one. She recognized the blue and white sticks immediately.
+
+"So that's where it came from," she said.
+
+Silena looked up. "Where what came from?"
+
+"The seals. Annabeth showed me a note."
+
+Silena put down her needle. She didn't look embarrassed or guilty, which irritated Thalia more than if she had started making excuses.
+
+"Did she want you to read it?" Silena asked.
+
+"She gave me permission."
+
+"Then I'm glad."
+
+Thalia sat opposite her.
+
+"You knew Percy was writing."
+
+"Yes."
+
+"And you didn't say anything."
+
+"It wasn't mine to tell."
+
+Thalia had expected an apology. She felt the first spark of anger as though something had been taken from her. Percy was Silena's little brother, and Annabeth was hers. They had all been looking after the children since the altered memories made ordinary family life more complicated. It seemed reasonable that Silena should have told her.
+
+"How long?" she asked.
+
+"A while."
+
+"That's not an answer."
+
+"Then ask Annabeth, if she wants to tell you. I'm not giving you a report on their letters."
+
+Thalia stared. Silena continued sewing the strap, giving her time to decide whether this was going to become a fight.
+
+"They're twelve," Thalia said.
+
+"I know."
+
+"Annabeth can sound older than she is, and Percy has been through things I don't understand. Sometimes I can't tell when I'm helping and when I'm deciding for her."
+
+"That isn't easy," Silena said. "But writing funny notes and leaving a stone for somebody you like sounds fairly twelve to me."
+
+Thalia looked at the wax. She was thinking of the letter Annabeth had let her read. Percy had asked whether the thunder frightened her and wished her luck on a test. Nothing about it was dangerous or adult in a way the children weren't ready for. She wanted to be angry because she hadn't known. That was a different problem.
+
+"You should have told me they were being careful," she said.
+
+Silena considered. "I could have told you what I see. Percy does his chores. He comes home after class. He worries whether his note is too silly and asks for spelling help. I don't read what Annabeth sends unless Percy asks me to. If something concerned me, I'd talk to him first and involve a responsible adult if necessary. But I won't treat their affection as a situation that needs two older sisters making decisions over their heads."
+
+Thalia rubbed her eyes. She was exhausted by how often being protective left her on the wrong side of an argument she couldn't honestly win.
+
+"What if he hurts her?" she asked.
+
+"Then Annabeth gets to say so. And you can help her if she asks. Percy gets to learn when he's wrong too. We can't prevent every disagreement between them."
+
+Thalia had known that in theory for years. Saying it aloud about her sister's relationship made it feel different.
+
+Silena passed her the loose strap.
+
+"Can you hold this flat?"
+
+Thalia did. She watched Silena draw the needle through the leather with careful, even movements. The task required both of them but didn't give either the right to decide how the other worked.
+
+"Do you think Percy is happy?" Thalia asked after a while.
+
+"Yes. He smiles at his letters. He doesn't stop being himself when they're not there."
+
+"And Annabeth?"
+
+"You'd know that better than I would."
+
+Thalia looked down. Annabeth had been happier, and Thalia had been so busy trying to identify the cause that she'd made happiness feel like a problem requiring an explanation.
+
+"I told her she can keep things private," she said. "Then I saw the note and wanted every detail."
+
+Silena smiled slightly. "Then you have a chance to practice what you told her."
+
+Thalia held the strap while Silena made the last stitches. When they finished, Silena checked the seam and placed the repaired costume in its bag.
+
+"I won't tell Clarisse," Thalia said.
+
+"That's not a secret I need you to keep for me. Ask Annabeth what she wants shared. And if Clarisse notices the notes herself, we'll deal with the teasing without treating it like a disaster."
+
+Thalia nodded. She didn't particularly like the idea that Percy's older sister had thought about this more carefully than she had. She respected it anyway.
+
+At the door she stopped.
+
+"He draws a terrible owl."
+
+Silena's smile widened. "It's a potato. I've seen it."
+
+"Well, he owes me one for inspection."
+
+"I'll let Annabeth decide whether she wants to ask him."
+
+Thalia laughed despite herself. She had spent an entire afternoon hoping someone would give her permission to stop worrying. Instead she had been given something harder and more useful: a reason to trust the people involved unless they told her that trust was misplaced.
+
+---
+
 Percy got his answer two days later after rain cleared.
 
 Silena checked the water jar from habit on the way to breakfast and came running back barefoot, shaking Percy awake where he had slept through the conch.
@@ -424,11 +952,98 @@ Ella updated her ledger while shelving. "Potato delivered. Thalia laughed. Thali
 
 Silena melted fresh wax and cut fresh squares, humming. When Clarisse asked what she was doing, Silena said, "Armor maintenance," and Clarisse believed her, because big sisters can lie when love is on the line.
 
+Percy found Annabeth by the lake after afternoon lessons. She was standing on the lower dock, trying to keep a flat stone moving across the water. It bounced twice and sank.
+
+"I thought architects were supposed to be good at angles," he said.
+
+She turned. "I am good at angles. The stone had terrible balance."
+
+He looked at the next one in her hand. It was round and thick, hardly a skipping stone at all.
+
+"Want one that works?"
+
+"No. I want to make this one work."
+
+He smiled. It was a perfectly ordinary Annabeth answer. He joined her on the dock and watched while she tried a flatter throw. The stone bounced once, traveled farther and disappeared beneath the surface.
+
+"Progress," he said.
+
+"Marginal."
+
+There was a pause. Percy had come because he wanted to ask something, and she knew it. His hands kept moving toward his pocket and stopping.
+
+"Thalia saw your owl," Annabeth said.
+
+"I know. I saw her holding it up."
+
+"She liked it."
+
+"She laughed at it."
+
+"Both things can be true."
+
+He considered. "Does she know about all the notes?"
+
+"She knows we've been writing. She doesn't know everything in them. I told her I wanted some things to stay private."
+
+Percy looked toward the cabins. He trusted Thalia in a fight and respected the way she'd protected Annabeth for years. He was also afraid of becoming the subject of her next interrogation.
+
+"Am I supposed to go talk to her?" he asked.
+
+"Not unless you want to. She didn't ask me to send you."
+
+"Then I won't. Not today."
+
+Annabeth looked pleased. He understood why that mattered: they were the ones exchanging notes. Their sisters could help, but the letters weren't a test they had to pass for approval.
+
+"Are we still using the library tray?" he asked.
+
+"Yes. And the oak, if it's dry. Ella doesn't want notes in the books anymore."
+
+"Fair enough."
+
+She put the last stone down. She had something to tell him but couldn't decide how to phrase it.
+
+"I liked the one about the dock," she said finally.
+
+He glanced at her. "I wasn't sure you would."
+
+"Why?"
+
+"Because it was just a thank-you. Not even a funny one."
+
+"It was specific. You noticed I stayed even when we were both frustrated. I liked that you told me."
+
+Percy looked at the water. It was easier to grin at a bad poem than to hear someone explain why a plain sentence had mattered to them.
+
+"Can I send another one like that?" he asked.
+
+"Of course. And you can say it to me too, if we're standing right next to each other."
+
+He laughed. "That's an excellent new system."
+
+She reached for his hand. He took it, and they watched the current stir against the posts for a while before going up to dinner.
+
+At the steps of Cabin One, Annabeth stopped.
+
+"By the way, your owl really did look like a potato."
+
+"I know."
+
+"Do you want me to teach you how to draw one?"
+
+"No. I think it's funnier this way."
+
+"You're impossible."
+
+"You're the one keeping them."
+
+She smiled, then went inside. Percy walked back toward Cabin Three with his hands in his pockets and nothing new to hide. He would write another note when he had something to say. He didn't need to make the next one prove anything.
+
+---
+
 On the Zeus porch after lights-out, Thalia sat knees up watching clouds gather over the sea, thinking of counting games and green glass and a boy who spelled thunder right on second try. She had once carried her little sister. Now someone else carried small pieces — notes, luck, striped stones — gently.
 
 Sharing the carrying was not so bad, she decided. Just a little. For potato owls and temple doodles and good luck todays.
 
 Thunder rumbled distant. Thalia counted silently as Annabeth taught them both — *1-2-3-4-5* — and smiled into dark when she lost count past twenty, because some things were worth staying awake for.
-
----
-

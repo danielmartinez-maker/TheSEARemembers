@@ -118,6 +118,122 @@ Annabeth laughed and shoved him lightly. "Come on. Grover's cans won't crate the
 
 ---
 
+The packing schedule wasn't the only paper Chiron had for them.
+
+He caught Percy as the porch emptied and asked him to carry a sealed envelope to the satyr office. There were two envelopes, actually: one addressed to the recovery team caring for Ferdinand, and another containing the map of Medusa's garden. Percy recognized Annabeth's numbered handwriting through the thin paper.
+
+"Has there been news?" Percy asked.
+
+"Some," Chiron said. "Enough to pass on privately. Grover knows the first part. I don't want a report about his uncle read aloud at the dinner table."
+
+Percy tucked the envelopes beneath his shirt to keep the ink dry. "Does that mean he's getting better?"
+
+"It means the team has finished identifying two more people from the garden. The spell remains difficult to reverse. We don't yet know what recovery will look like."
+
+For a moment Percy wished Chiron would say something more reassuring. He had heard the same cautious answer often enough that he recognized the shape of it. It was what an adult said when refusing to buy a few seconds of comfort with a promise he couldn't keep.
+
+"I'll take them," Percy said.
+
+"One other thing. Grover's proposed route in the Pacific Northwest will take him away from the recovery center. He deserves the chance to weigh that before the Council expects an answer."
+
+Percy looked out over the green. Grover was arguing with Connor about whether an old soup can counted as a collectible or rubbish. Every few seconds he glanced back toward the Big House as though the Council's letter might appear in the doorway.
+
+"Then you'd better tell him," Percy said.
+
+"I intend to."
+
+The satyr office was in a small building behind the stables. Percy had passed it for years without going inside. He found two younger satyrs inspecting a box of trail maps and an older one organizing correspondence by region. The room smelled of wool coats, hay and paper dried too close to a fire.
+
+Percy handed over the first envelope. The older satyr checked the seal, signed a receipt and placed it in a locked drawer. He wouldn't show Percy the response, which was mildly irritating until Percy remembered that he wasn't its intended reader.
+
+"Grover will receive it," the satyr said. "And the other one?"
+
+"Recovery team. There are people in the garden we couldn't bring out."
+
+The satyr took the map and studied the destination.
+
+"We've marked the site for a search party," he said. "But the land's still dangerous. It'll have to be coordinated with people who can examine the stone before moving it."
+
+Percy nodded. He could almost see Grover kneeling beside Uncle Ferdinand's statue, asking how much of the stone remained alive. He wanted to say they'd done something brave by bringing three people out. He knew that. It just didn't make the others vanish from the list.
+
+When Percy returned to the north strawberry rows, he found Juniper and Grover carrying a young serviceberry tree in a canvas sack. Its leaves looked fragile beside the sturdy maples. The sapling was hardly taller than Grover's chest.
+
+"You got it," Percy said.
+
+Juniper set down her end of the sack. "The nursery had one that was ready to move. The groundskeeper approved the spot near the fence. It's far enough from the irrigation channel that the roots won't interfere."
+
+Grover glanced toward the board they'd repaired before the quest. "I checked twice."
+
+Percy smiled. "I believe you."
+
+He showed Grover the receipt and explained what Chiron had said about the newly identified victims. Grover listened without interrupting. He didn't ask whether his uncle was cured, which was good, because Percy couldn't have answered.
+
+"That's another two names," Grover said.
+
+"Yes."
+
+"Not another two people brought home."
+
+"No."
+
+Grover looked down at the serviceberry. He had said in June that it would be a place for Ferdinand when he came to camp, not a memorial. Percy could tell he was still trying to protect that distinction.
+
+Juniper dug the planting hole while Grover checked the root ball. Percy helped with the earth only after she explained where he could press without damaging roots. By the time the soil was level, his hands were filthy and the sapling stood upright with a small stake beside it.
+
+Grover poured water around the base. Most of it soaked in. A little ran over Percy's shoe.
+
+"Sorry," Grover said.
+
+"That's the least dangerous thing that's happened to my shoes all year."
+
+Juniper smiled. Then she looked at the young branches and frowned.
+
+"You can't leave it like this and hope it survives," she said. "It'll need watering while the weather's hot, protection from deer in winter, and somebody to check the ties as the trunk grows."
+
+Grover was quiet. He'd spent so much time planning the planting that the long months after it hadn't seemed as real.
+
+"I won't be here," he said.
+
+"I will," Juniper answered. "And the younger satyrs can take turns. We just need a schedule that doesn't depend on someone remembering whenever they walk past."
+
+"An Annabeth schedule," Percy said.
+
+"Exactly," Juniper replied.
+
+Grover reached for the bark list he carried everywhere, but Juniper offered him a clean card. Together they wrote the watering routine and the name of the groundskeeper responsible. Grover drew a tiny goat in the corner; Juniper added a leaf.
+
+Afterward they stood back. The tree was crooked by perhaps an inch. Percy pointed this out and immediately regretted it when Juniper made him hold the trunk while she adjusted the stake.
+
+"Better?" she asked.
+
+"Much."
+
+Grover looked at the small tree for a long time. "Ferdinand used to complain that I planted things where the birds couldn't see them."
+
+"Well, they'll see this one," Juniper said. "They'll probably eat all the berries before we get any."
+
+"He'd like that."
+
+Percy didn't try to make the moment grand. The tree needed a dozen ordinary things, not a speech. And Grover had a decision coming from the Council that meant leaving it and his uncle's care in other people's hands.
+
+"Are you going to take the Searcher route?" Percy asked.
+
+Grover made a face. "I haven't even got the letter yet."
+
+"I know. But do you want it?"
+
+Grover looked between the serviceberry and the hills beyond camp.
+
+"I think so," he said. "I don't want to stop being the person who goes to find things just because I found one of the things I was looking for."
+
+Juniper crouched to firm the last of the soil. She didn't tell him to stay. Percy suspected that was harder than it looked.
+
+They left the little tree in the sun and went to help pack the cans. Before Grover left, he came back once, just to check whether the canvas watering bucket had been placed where the younger satyrs could find it.
+
+It had.
+
+---
+
 Grover's collection of tin cans lived behind the Big House in a shed that smelled like goat and apples and old rain.
 
 It was, objectively, the weirdest hoard at camp, and that was saying something in a place where the Ares cabin kept a cursed throne as a coat rack. Dozens of cans, washed and labeled in Grover's neat handwriting: BLUEBERRY (MAINE, 06/12), PEACHES (GEORGIA, AUNT'S), TOMATO SOUP (DO NOT EAT). Each one was a memory from his years searching for Pan, eating out of trash cans and grocery dumpsters while he wandered the wild.
@@ -258,6 +374,86 @@ Annabeth leaned her shoulder into his. They sat like that for a while, watching 
 
 They spat in their palms and shook on it, the way they'd done since they were twelve, and then wiped their hands on their shorts making disgusted faces, the way they'd done since they were twelve.
 
+The thing Percy hadn't told Annabeth was that the court had offered him a room.
+
+Not just a bedroom. A suite. He'd had to stand in front of a stone table while an official described storage, tutors, attendants and the private corridor by which he could reach Poseidon's council chamber without passing through the public halls. The room had already been furnished. Somebody had chosen blue cushions because they had heard that was his favorite color.
+
+He had stood there wondering why nobody thought to ask whether he wanted it.
+
+"What is it?" Annabeth asked, noticing him go quiet.
+
+Percy took a pebble from the rock beside them and turned it over between his fingers.
+
+"Dad's people made a place for me to live down there. A permanent place, not just where I stay on visits."
+
+"Would that mean leaving camp?"
+
+"They say no. They say I could use the current whenever I wanted. But the list of things I'm supposed to learn keeps getting longer. If I live there, they can schedule me whenever they want."
+
+Annabeth looked at the Sound instead of answering immediately. She understood better than most people that a room could feel like proof somebody wanted you and like a trap at the same time.
+
+"Have you told Poseidon what you think?"
+
+"I tried. He said a prince should have a room appropriate to his position. And then Triton offered to help choose the shelves, so I felt bad for complaining."
+
+"You can appreciate the shelves without accepting the schedule."
+
+Percy laughed. "That's a very Annabeth answer."
+
+"It's also true."
+
+He showed her the little coral token. An official had cut it into the shape of a key, though no physical door in the palace required one. It was a symbol of access and a promise that the corridors would know him. When he'd received it, he'd thought of the first time Chiron let him choose a bunk in Cabin Three. Nobody had bowed. Clarisse had simply told him not to put his shoes on her blanket.
+
+"Do you want to live there?" Annabeth asked.
+
+"Sometimes. When Dad and Triton are actually around and nobody's asking me to perform being a prince. I like the library. I like the kitchen when the cooks let me help. I like the way the water changes color outside the windows." Percy hesitated. "I don't want it to become the place I have to be so I don't disappoint somebody."
+
+"Then tell them which parts you want."
+
+He looked at her. "You make that sound possible."
+
+"It is possible to ask. It's not possible to guarantee they'll listen."
+
+Percy turned the token over again. He didn't want to write to Poseidon as though he were submitting a complaint. The god had done things worth loving, including trying to make room for a son whose childhood he remembered differently. But Percy's affection didn't make every royal expectation reasonable.
+
+"Will you help me write a letter?" he asked.
+
+"I can help you check it. It has to sound like you."
+
+He took a notebook from his bag. The first draft was terrible. It began *Dear Father, thank you for the excessively enormous room*. Annabeth laughed at that and told him to keep it because it was funny and also because the adjective might get him in trouble at court.
+
+He crossed out *excessively* but left *enormous*.
+
+In the second paragraph he wrote that he liked staying in Atlantis and wanted to keep visiting, but he needed to know what was expected before agreeing to a schedule. He asked whether he could meet tutors during visits rather than having to attend every session remotely. He asked for time with Triton that wasn't labeled training, and visits with Clarisse and Silena without having to treat them like ceremonial guests. He asked whether the suite could remain available without becoming a decision about where he belonged.
+
+He stopped there.
+
+"What about me?" Annabeth said, pointing at the blank final line.
+
+Percy looked up, startled.
+
+"You're really asking?"
+
+"I'm pointing out that you haven't mentioned the person who is supposed to inspect these supposedly magnificent shelves."
+
+He grinned and wrote that he'd like Annabeth to see the room when she was invited properly and her sister could be reassured that the palace wasn't planning to keep her underwater without warning.
+
+"Very diplomatic," Annabeth said.
+
+"Years of practice."
+
+They read the letter once more. Annabeth corrected two words and circled a sentence where Percy had started apologizing for asking anything at all. He crossed the apology out.
+
+The letter wasn't a solution. Poseidon might agree to the conditions or argue that his son had obligations he didn't understand yet. Percy knew a royal household had responsibilities, and he wasn't asking to abandon them. He was asking to participate in deciding how to meet them.
+
+He put the draft in the waterproof notebook, tucked the coral beside it, and returned to watching the sailboats.
+
+For the first time that afternoon, thinking about leaving camp didn't feel like being forced to choose between two places. He had something specific to ask of one of them, and something specific he wanted to protect in the other.
+
+Annabeth bumped his shoulder. "For the record, I'm still going to complain if your suite has a terrible floor plan."
+
+"That's why I'm inviting you."
+
 ---
 
 Thalia found them an hour later, dragging Annabeth off for what she called strategic sister planning and what Percy suspected was mostly gossip and ice cream.
@@ -328,6 +524,120 @@ Percy watched them, his chest tight in the good way. Clarisse and Silena's frien
 
 They shook on it, sticky with lemonade, and Percy thought, I'm going to remember this exactly. The heat. The clank of swords. Silena's laugh. Clarisse pretending not to care while she refilled everyone's cups.
 
+Clarisse found Percy later with the invitation still half-written.
+
+He'd been sitting on a bench outside Cabin Three trying to decide how to ask his father about his sisters' visit without turning it into another official audience. Silena was expected to depart with the summer campers on Saturday. Clarisse was staying long enough to close out the training roster before returning to her mortal school. Both had talked about Atlantis as though it were already arranged.
+
+Clarisse sat beside him, still wearing the dusty training gloves she'd forgotten to take off.
+
+"Why are you making that face?"
+
+"What face?"
+
+"The one where you're trying to solve everybody's problem before they have it."
+
+Percy handed her the invitation. It included a tentative autumn weekend and a promise of rooms at the palace.
+
+Clarisse read it once and frowned.
+
+"Did you ask us when we're free?"
+
+"You said fall."
+
+"I said I wanted to go. I didn't say I could take a whole weekend whenever the sea king tells me to."
+
+Percy took the page back. He hadn't thought about her school schedule, or Silena's, or the people in their mortal households who would want to know where they were going. A royal invitation was easier to imagine than the dozen ordinary permissions between his sisters and a weekend underwater.
+
+"What would work?" he asked.
+
+"Maybe a long weekend. Silena has a family thing in October. I have a tournament I can't skip unless I want my coach to murder me. And before you ask, no, Poseidon can't write me an excuse."
+
+"He might try."
+
+"Don't let him."
+
+They sat for a minute. Percy could hear Connor and Travis arguing over a trunk inside Cabin Eleven. It sounded like someone had put a live animal in it. He decided not to investigate unless something started breaking.
+
+"Are you worried?" he asked.
+
+"About what?"
+
+"Visiting Atlantis."
+
+Clarisse inspected the seam of her glove.
+
+"I'm interested," she said. "I'm also sick of people assuming I have to be grateful every time somebody from Father's court remembers I exist. I've trained here for years. Silena's done more to keep Cabin Three working than half the people in the palace have ever seen. If we go, I want to go as his daughter, not as your accompanying party."
+
+Percy looked at her. He hadn't understood why the invitation had irritated her until she said it.
+
+"I can ask for a family visit," he offered.
+
+"Ask us first. Then you can ask Dad."
+
+Silena appeared at the cabin door with three pieces of paper and a pencil balanced behind her ear. She'd been organizing the shared closet and had clearly found another job to do.
+
+"I heard my name," she said.
+
+"We're not making a surprise royal trip," Clarisse answered.
+
+"Excellent. I would need proper luggage."
+
+Percy grinned. "You'd bring six trunks."
+
+"Only four. One for clothes, one for gifts, one for shoes and one for emergencies."
+
+"That's five," Clarisse said.
+
+"Then a fifth trunk for arithmetic."
+
+Silena sat on the steps and read the invitation. She was quiet longer than Percy expected. Then she asked whether Amphitrite knew they had been discussing a visit and whether she wanted them there.
+
+"She said she'd be glad to meet you properly," Percy replied. "She wants it to be a family visit."
+
+Silena looked pleased, but not unreservedly.
+
+"I want to meet her without everybody deciding how I should feel about Sally," she said.
+
+Percy went still.
+
+Silena noticed and put a hand on the railing rather than reaching for him.
+
+"You remember your mother," she said. "I know she matters. Amphitrite matters too. I'm not asking you to decide which one gets a place at the table."
+
+Percy swallowed. He wasn't sure how to explain that in this history, Sally had died when he was small, while the woman he'd remembered growing up with had been alive. He could tell Silena the feeling without giving her the impossible account.
+
+"I don't want to make you choose anything either," he said.
+
+"Good. Then send a letter asking if all of us can come when we're ready. Not a ceremony. Just lunch, a tour, and time to talk to Dad."
+
+Clarisse removed her training gloves and laid them on the bench. "And a look at the armory."
+
+"Of course," Silena said.
+
+"And Triton's training grounds."
+
+"One activity not involving weapons," Silena insisted.
+
+"I'll think about it."
+
+They worked out a more honest invitation. Percy would ask Poseidon what dates were possible. His sisters would check their mortal obligations. No palace staff were to announce a visit before everyone agreed. Silena wanted to bring chocolates for Amphitrite, and Clarisse wanted to know whether the palace had a proper sparring arena. Percy wrote both requests down, although he suspected Silena would also bring enough chocolates to supply an entire court.
+
+When the page was finished, Clarisse looked at it and nodded.
+
+"Better."
+
+Percy folded it once. "Thanks for telling me."
+
+"You asked."
+
+"Not until you made me."
+
+"Then remember for next time."
+
+The sun moved behind the cabins. Clarisse got up to return the gloves to the armory, and Silena took the empty lemonade cups to the pavilion before the harpies could complain.
+
+Percy sat another moment with the invitation in his hands. His sisters hadn't made the prospect of Atlantis less complicated. They had made it theirs as well as his, which was what he'd wanted without knowing how to ask.
+
 ---
 
 That evening, the Hermes cabin hosted the annual Packing Panic and Promise Night, a tradition started by the Stolls and now embraced by the whole camp.
@@ -395,6 +705,98 @@ Percy thought of Tyson, of Triton awkwardly trying to braid seaweed into Percy's
 "Promise?" Grover asked sleepily, half-asleep on his blanket.
 
 "Promise," they all said, and the stars burned steady overhead, indifferent and kind.
+
+Chiron interrupted the night before anybody could start booking a trip to California.
+
+He had been standing near the trading table, holding the latest reply from Reyna in a brown envelope. When Thalia saw the Roman seal, she stood so abruptly that her chair fell backward. Annabeth caught the chair and set it upright.
+
+"Is it about Jason?" Thalia asked.
+
+"It's about a possible visit," Chiron said. "I'd like to discuss it with you and Annabeth privately."
+
+Thalia glanced at the friends still spread across the blankets. She had been talking about the visit all evening, loudly enough that half the camp probably knew she intended to bring peanut butter-free cookies. Privacy hadn't occurred to her until Chiron said the word.
+
+"All right."
+
+Percy stayed on the blanket with Grover while the sisters walked toward the Big House. He could see Thalia's silhouette in the porch light, arms folded. Annabeth stood beside her with the notebook she always seemed to have.
+
+Grover picked at a loose thread on his blanket.
+
+"Do you think Reyna invited all of us?"
+
+"I hope she invited the people who need to go," Percy said.
+
+Grover looked at him. "That's a very strange answer."
+
+"I've spent the whole week promising things on behalf of people who haven't been asked. I'm trying to stop."
+
+Grover considered that. "You still promised to call me on Sundays."
+
+"You were there."
+
+"True."
+
+Percy watched the porch until the girls came back. Thalia was carrying the envelope. She looked less excited than she had earlier, but not disappointed exactly. Annabeth kept glancing at her, waiting.
+
+"Well?" Percy asked.
+
+Thalia sat down.
+
+"Reyna said Jason's doing fine," she replied. "She said we can request a visit during fall break. She didn't say it's approved. There's a travel agreement to work out between Camp Jupiter and Chiron, and Jason has to be told and given the chance to say when he's free."
+
+"That's fair," Silena said.
+
+"Obviously it's fair," Thalia snapped. Then she looked down. "Sorry. I just wanted to know I could see him."
+
+Percy understood. It had been easy to picture a glorious reunion when the details were no larger than a campfire promise. It was harder to be told that the other person had a timetable and a life not built around your arrival.
+
+Annabeth sat beside her sister.
+
+"She also said he wrote a letter," she told the others. "It's supposed to come through the regular courier because he wanted it to be a real letter, not a message somebody could interrupt."
+
+Thalia looked at the envelope again. "I didn't know he cared which way a letter came."
+
+"He does," Annabeth answered. "Maybe he wants to tell us something that takes more than one minute."
+
+Clarisse leaned forward. "Then you should wait for it before deciding what the entire camp is doing over fall break."
+
+Thalia made a face. "Are you going to spend the whole evening being reasonable?"
+
+"I've been reasonable all summer. Nobody appreciates it."
+
+Silena laughed. The Stolls began an argument in the background about whether Roman mail could be sent by Pegasus, and Chiron called from the porch that it could not, at least not without several written permissions and a conversation about airspace.
+
+Percy felt Annabeth's hand brush his. She didn't reach for it immediately.
+
+"I wanted you to come," she said. "I still do. But I think the first visit should be about them. Jason and Thalia, and me if he wants me there. I don't want to arrive with six friends and turn his afternoon into a camp event."
+
+"Then you won't," Percy said.
+
+"You don't mind?"
+
+"I'll mind missing you. That's different."
+
+She took his hand.
+
+Grover looked relieved. "Good. Because if all of us went, I'd have to ask the Council for time off before I'd even started the new job."
+
+Thalia rubbed her forehead. The laughter around the blankets had settled. She looked toward the sky, then back at the envelope.
+
+"Fine. I'll write to Reyna and say thank you. I'll tell Jason he can pick the day and that Annabeth and I want to see him. No surprise visits, no entire Greek delegation."
+
+"Can you manage that?" Clarisse asked.
+
+"Don't test me."
+
+Percy watched her take out the notebook and write the opening line. She was so determined to seem older than Annabeth that sometimes she forgot she could ask her younger sister how to say a difficult thing. Tonight she slid the page toward Annabeth for a second opinion.
+
+Annabeth read it, corrected a single word and pushed it back.
+
+"Good," she said.
+
+Thalia looked at the revision and smiled.
+
+The campfire plan had become smaller. Percy thought it might also have become a plan Jason could say yes to.
 
 ---
 
@@ -495,6 +897,34 @@ Clarisse stood next, dragging Silena up with her. "And we're going to Atlantis!"
 "And to see the pearl shrine!" Silena added, tearful and beaming. "And to hug Tyson's new forge! Promise, Percy!"
 
 "I promise!" Percy shouted back, standing, Annabeth's hand in his. "Guest rooms! Chocolate for Amphitrite! No man-eating beds!"
+
+Before the last song, Chiron walked around the amphitheater with a small ledger. He wasn't asking for grand promises. He needed to know which campers had put away their borrowed equipment and which instructors would remain to supervise training when the summer buses departed.
+
+Percy had signed for two practice shields and forgotten one beside the canoe shed. He admitted it before Chiron reached his row.
+
+"Good," Chiron said. "Return it in the morning."
+
+"You're not angry?"
+
+"I will be if it rains and somebody finds it rusting there in October."
+
+Annabeth looked at Percy. "You do realize that tells you more about consequences than a lecture would."
+
+"Please don't encourage him."
+
+Chiron moved on, leaving Percy with a task he could actually finish. He made a mark on the back of his hand so he'd remember. A little later Silena brought over his borrowed training gloves and asked whether they belonged in the cabin or the armory.
+
+"Armory," he said. "And I've got a shield to return before breakfast."
+
+"Good. I've written it down too."
+
+Percy looked at her, amused. "You don't trust me?"
+
+"I trust you to mean it. I don't trust you to remember it after sleeping."
+
+That was fair. He had spent much of the summer being asked to make enormous promises, about family and quests and next year's visits. A practice shield was small enough to handle without prophecy, permission or a messenger. He would put it where it belonged.
+
+Annabeth leaned against his shoulder and watched the fire settle.
 
 The fire crackled. The stars pressed close. Chiron raised his cup.
 

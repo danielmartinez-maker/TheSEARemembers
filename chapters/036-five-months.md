@@ -1,6 +1,6 @@
 ## Chapter 36: Five Months
 
-*Five months before the first bolt quest in the life they remembered: that was where they thought their return had placed them.*
+*Five months had passed since Percy and Annabeth woke in the changed history. The first bolt quest still belonged to a future that might never arrive on schedule.*
 
 ---
 
@@ -12,7 +12,7 @@ Today the conch didn't blow right away.
 
 He lay there and stared at the ceiling. The cabin smelled like cedar and brine and the lemon soap he used to scrub his sword-calluses. His blanket was kicked down around his knees. A pair of socks — one blue, one gray — hung over the foot of the guest bunk Tyson had used on his forge visit, now empty again. Sunlight came in blue-green through the shell curtains Annabeth had helped him hang recently, after she'd declared his windows "a defensive liability and also depressing."
 
-Five months before a quest. That had been their first estimate, drawn from the life they remembered, not a promise written on this camp's calendar. Percy traced the blanket seam with one finger. He and Annabeth had returned twelve; Thalia was sixteen, and their families had already changed before either of them opened their eyes here.
+Five months of mornings at this camp. They had arrived before the first bolt quest in the life they remembered, but that didn't mean they knew how much time remained before any similar event here. Percy traced the blanket seam with one finger. He and Annabeth had returned in twelve-year-old bodies, and their families had already changed before either of them opened their eyes here. Thalia had been sixteen when they arrived; Percy could no longer rely on the old ages as a calendar.
 
 In the original life, the summer solstice had meant a deadline. A stolen bolt. A war about to start. Here, that solstice was still ahead. They could prepare for what they remembered without assuming every clue would arrive on its old date.
 
@@ -32,7 +32,7 @@ The morning was gold and green and impossibly normal. Mist sat low over the stra
 
 Percy breathed in. Salt. Strawberries. Bacon from the pavilion.
 
-"No war today," he said quietly, testing the words. They felt strange and huge and ordinary all at once. "Just breakfast."
+"No war before breakfast," he told himself. It was a narrower promise, but one he stood a chance of keeping.
 
 Skip splashed behind him like applause.
 
@@ -42,7 +42,7 @@ He grabbed his towel and his battered copy of *The Sea Wolf* that Tyson had sent
 
 Annabeth Grace knew the exact date without looking at the calendar.
 
-She knew it the way she knew the number of steps from Cabin Six to the dining pavilion (one hundred forty-two, one hundred thirty-nine if she cut behind the forge), the way she had learned which floorboard in Cabin One, her present Zeus cabin, creaked loudest at 2 a.m., the way she knew Percy's tells when he was trying not to worry her (left thumb tapping his thigh, jokes getting faster).
+She knew it the way she knew the number of steps from Cabin One to the dining pavilion (one hundred forty-two, one hundred thirty-nine if she cut behind the forge), the way she had learned which floorboard in Cabin One, her present Zeus cabin, creaked loudest at 2 a.m., the way she knew Percy's tells when he was trying not to worry her (left thumb tapping his thigh, jokes getting faster).
 
 She still marked their return on the calendar. It was an anchor for what she and Percy could remember themselves, beside all the older family dates other people had to explain. Each new square meant a day they had actually lived here.
 
@@ -91,6 +91,150 @@ Clarisse arrived with Silena, both of them windswept from early drills. Clarisse
 Annabeth laughed too, and felt something tight in her chest loosen one notch. She catalogued it the way she catalogued everything: *Breakfast, ordinary. Bacon stolen by sister. Boyfriend's knee against mine across the aisle. Porridge adequate.*
 
 She wrote it down later. She wanted to remember exactly how safe it felt.
+
+---
+
+The trouble began over a pencil.
+
+Annabeth had borrowed Thalia's black carpenter's pencil to mark the date on a scrap of card. The pencil was blunt, which made it better for the thick lines she wanted, but it belonged to Thalia and had lived in the same pocket of her jacket for almost a year. Thalia found the card when she came back to Cabin One for her shield.
+
+FIVE MONTHS, Annabeth had written.
+
+Beneath it were five little squares. Four had been shaded. She was drawing the fifth when Thalia asked, "What's that supposed to be?"
+
+Annabeth kept coloring. "A marker."
+
+"For what?"
+
+"For how long we've been here."
+
+Thalia couldn't tell what *here* meant to Annabeth. They had lived at Camp Half-Blood for longer than five months, and Cabin One had belonged to the sisters long before this spring. But five months ago Annabeth had begun counting certain dates, asking questions about childhood days she ought to have remembered and growing frustrated when Thalia tried to supply answers. Percy had grown quieter about some things too. Thalia knew the change had frightened them both. She didn't know how to explain it, and she had stopped pretending she did.
+
+"You're making a countdown?"
+
+"It's not a countdown."
+
+"Then what happens when you color the last square?"
+
+"Nothing. That's the point."
+
+Thalia put down her shield. She had an hour before patrol, and she had not intended to spend any of it arguing about time. But Annabeth was using the same careful voice she used before a fight, and Thalia knew from experience that walking out now would make things worse.
+
+"Can I look?"
+
+Annabeth slid the card across the desk. The five squares didn't have labels, only the date and a small sketch of the lake. Thalia thought of the letters to Jason waiting in the approved Roman correspondence channel. Every day that passed made her more afraid of what he would assume about her silence. She had not been counting in squares, but she had been counting all the same.
+
+"Why today?" she asked.
+
+"Because it's the date."
+
+"I mean, why make something?"
+
+Annabeth set down the pencil. "Percy and I have been counting. I didn't want to make a big announcement. I just wanted to mark it in my notebook without having to explain what every date means."
+
+Thalia turned the card over. The back was blank.
+
+"Do you want me to do something?"
+
+"No. I didn't ask you to."
+
+Thalia looked at her. "You don't sound happy."
+
+"I'm not unhappy."
+
+"Annabeth."
+
+"I'm irritated because you're acting as though the fact that I remembered a date means I'm preparing for a disaster."
+
+Thalia was quiet. She had spent the previous months watching Annabeth build lists around old prophecies and Percy ask careful questions about the camp's records. Each time she had looked for signs of another disaster, because that was what she had learned to do when the people she loved seemed frightened. She didn't always distinguish ordinary worry from evidence.
+
+"That's fair," she said.
+
+Annabeth stared at her. "It is?"
+
+"Don't look so shocked. I've been wrong before."
+
+"Once. In Ohio."
+
+"Twice, if we're counting the time I bought you a hat with a hole for your ponytail."
+
+"That was a bad hat."
+
+"You still wore it."
+
+"I was seven. I had no standards."
+
+Thalia laughed and sat on the edge of the desk. There were photographs in the trunk beneath Annabeth's bed, most of them from the childhood only Thalia could remember. She had shown Annabeth some of them. Every time she did, she watched her sister search for a feeling that might prove the old images belonged to her. It was an unfair thing to expect, and Thalia knew she'd done it anyway.
+
+"Can I ask a different question?" she said.
+
+"Yes."
+
+"Is this a date you want to remember or a date you're frightened of forgetting?"
+
+Annabeth considered for longer than Thalia expected.
+
+"Both, I think. Five months ago everything felt unfamiliar, even things you said I'd done a hundred times. I thought if I didn't write down what I could remember, I'd lose hold of the person I was. Now I can go a whole morning without checking my notes, and that scares me too. I don't know how to explain why."
+
+Thalia held the card. "You haven't lost it."
+
+"You don't know that."
+
+"No. I don't. But I watch you and Percy talk. You can still find things to laugh about, even when you're worried. And you're making new memories here, whether or not the old ones become clearer."
+
+Annabeth rubbed the ink off her fingers. "I didn't know I could love a childhood I don't remember."
+
+Thalia looked toward the trunk. She remembered Annabeth as a little girl leaving chalk cities on motel pavement, asking questions while Thalia tried to pack enough food for them to keep moving. She remembered a child who'd been frightened and funny and capable of turning a cardboard box into a palace. The person standing in front of her was still that girl, although some of the memories Thalia cherished no longer seemed familiar to her sister. Sometimes Thalia wanted to tell Annabeth that nothing had been lost because it was easier than admitting how much had changed.
+
+"I miss the little kid you were here," Thalia said. "Not because you're worse now. Because I knew her for twelve years, and I don't know whether you'll ever remember the same things I do."
+
+Annabeth looked up. They had talked about that before, but usually after an argument. It was different to hear Thalia say it while neither of them was angry.
+
+"I can listen," Annabeth said. "When you want to tell me stories."
+
+"I know."
+
+"And you don't have to make them prove something."
+
+Thalia nodded. "I'll try."
+
+The last square on the card was still empty. Annabeth reached for the pencil but stopped before she took it back.
+
+"Do you want to shade it?"
+
+"Why?"
+
+"Because you've been here for these five months too. Even if you count the beginning differently from me."
+
+Thalia thought about that. She hadn't experienced the same disorientation Annabeth described. For her, the five months had begun with a younger sister asking questions no child should have had to know how to ask. The years before that were hers, and the days since belonged to all of them.
+
+She shaded the last square. Her hand was less precise than Annabeth's. The graphite went over the edge in one corner.
+
+"You ruined the line," Annabeth said.
+
+"You're welcome."
+
+Annabeth took the card back and placed it between the pages of her notebook, not in the section where she kept the prophecy timelines but beside a sketch of the cabin's front steps. Thalia watched her choose the place.
+
+"Are we telling Percy?" Thalia asked.
+
+"He already knows the date. I can show him the card if he wants to see it."
+
+"Good."
+
+Thalia picked up her shield. Annabeth returned the carpenter's pencil.
+
+"You can keep it," Thalia said. "Mine isn't the only one in camp."
+
+"You complained because I borrowed it."
+
+"I complained because I didn't know what you were making."
+
+"Then ask next time."
+
+Thalia held up a hand. "That is an unreasonable expectation to put on an older sister."
+
+Annabeth smiled and nudged her toward the door. They walked to morning lessons together, leaving the card safely in the notebook. Neither had decided whether five months deserved a celebration. It had been marked. That was enough for now.
 
 ---
 
@@ -172,9 +316,9 @@ She set her notebook carefully inside her shoe, rolled her jeans to her knees, a
 
 They floated side by side under the dock's shadow, holding the pilings, kicking lazily. Dragonflies stitched the air above them. A canoe full of Apollo kids drifted past, singing badly. Someone on the far shore was playing a reed pipe, thin and sweet.
 
-"Do you remember what you said after we got here?" Annabeth asked suddenly. "When I was trying to match every new detail to the old camp and Grover was helping me with that upside-down map and you said—"
+"Do you remember what you said after we got here?" Annabeth asked suddenly. "When I was trying to match every new detail to the old camp and we were standing at the lake after the first dinner and you said—"
 
-"'At least we're lost together,'" Percy supplied. He smiled at the memory. "You said, 'We're not lost, we're on a scenic route to destiny,' and Thalia told us destiny still meant getting to lunch on time."
+"'At least we're lost together,'" Percy supplied. He smiled at the memory. "You said, 'We're not lost, we're on a scenic route to destiny,' and We both said we'd look at the facts before blaming anybody."
 
 Annabeth laughed, water rippling around her shoulders. "I was so sure. I had it all planned. We'd get to camp, we'd train, and then — then the bolt would go missing or somebody would accuse somebody and we'd get a prophecy and go. I had a packing list. I had a *packing list*, Percy."
 
@@ -302,6 +446,130 @@ They walked out of the forge together into the gold light, bickering about cooki
 
 ---
 
+When Silena returned to Cabin Three, she found Percy sitting on the floor in front of the storage chest, holding a photograph upside down.
+
+That was unusual enough. Percy normally treated the storage chest as the place where Silena kept things he was supposed to ask before borrowing. She had labels for the fishing gear, the spare uniforms and the jars of salt they brought from Atlantis. The photographs were at the very bottom, wrapped in cloth to keep out the damp.
+
+"Did you find something?" she asked.
+
+Percy turned the picture around. "I was putting back the sail mending kit. The cloth under it came loose."
+
+She examined the photograph. A much younger Percy sat on a stone bench with a wooden sword across his knees. His hair was shorter. There was a missing front tooth and an expression of exaggerated seriousness he must have copied from Triton. Silena stood behind him in a dress she'd disliked from the moment Amphitrite chose it, trying to hold his shoulders still for the picture. Clarisse was visible at the edge of the frame, about to leap in.
+
+Silena had forgotten the photograph existed. She remembered the afternoon, though. Percy had insisted he could stand guard outside the palace nursery. He was five or six, and Clarisse had convinced him that keeping the sea gulls away from the windows counted as an official duty. The royal photographer had come for a family portrait and found all three of them arguing about whether the gulls were enemy scouts.
+
+"Do you remember this?" Percy asked.
+
+"Yes."
+
+"What happened?"
+
+Silena settled beside him on the floor. "You wanted to wear your practice helmet. It was too large, so you took it off for the picture. Clarisse said that meant you were abandoning your post."
+
+"I can imagine that."
+
+"You tried to get Triton to sign an order declaring the nursery a military station. He told you to ask Amphitrite first."
+
+Percy laughed. The laugh was real. Silena had been afraid he'd look at the photograph as if it were another test, but he was looking at Clarisse's half-visible hand.
+
+"Why is she holding a fish?"
+
+"She wanted to prove she'd captured an actual enemy scout."
+
+"What happened to the fish?"
+
+"She put it back in the water after the photograph. She insisted it had been released under a treaty."
+
+Percy smiled and turned the picture over again. There was a date on the back and a note in Amphitrite's hand: *My three brave nuisances*. Silena had hated the word *nuisances* when she was little because it sounded as though the queen had grown tired of them. Now she could hear the affection in it.
+
+"Do you want to keep looking?" she asked.
+
+Percy considered. "One more."
+
+She unwrapped the cloth. The photographs were arranged by year, though some had fallen out of order when the chest traveled from Atlantis to camp. There were summer festivals under green water, birthdays with cake that floated in enchanted glass bubbles, training days and a picture of Triton looking appalled because Percy had managed to decorate his armor with colored shells.
+
+Silena picked up the last one. "He still complains about this."
+
+"Really?"
+
+"Every time you mention the festival. He said he'd been trying to look serious for the council and you made him look like a children's parade."
+
+"Was he angry?"
+
+"Only until Amphitrite laughed. Then he pretended he had planned it."
+
+Percy studied Triton's face. His older brother looked younger than he did during the recent visit to camp, but the line between his eyebrows was the same. Percy had begun learning what that expression meant in the five months he'd spent here. It usually meant Triton was worried and wanted everybody to believe he was merely disappointed.
+
+"I wish I remembered doing that," he said.
+
+Silena didn't answer immediately. She had told Percy stories from childhood before and watched him make jokes to keep the sadness from showing. Today he'd asked. That mattered, but it didn't give her a way to make the missing years return.
+
+"I liked it," she said. "You were little and thought his armor needed cheering up. I'm glad I remember, even if you don't."
+
+Percy looked at her. "You don't mind that you always have to tell me?"
+
+"I mind that we lost the easy part. I used to say two words and you'd know the rest. Sometimes I still do, and then I see your face and remember that I have to start at the beginning."
+
+He lowered the photograph.
+
+"I'm sorry."
+
+"Don't apologize. I can feel sad about something without making it your fault."
+
+The cabin door banged. Clarisse entered with a basket of clean towels and stopped when she saw them on the floor.
+
+"Oh, gods. Did you find the fish picture?"
+
+Percy held it up. "Apparently you negotiated a treaty."
+
+Clarisse dropped the towels and came over at once. "That was a legitimate exchange. The fish had stolen a ribbon from my training spear."
+
+"How?"
+
+"It jumped."
+
+"Fish don't steal ribbons by jumping."
+
+"This one did."
+
+Silena laughed so hard she had to put down the album. Clarisse snatched the picture, inspected it and sat beside Percy to explain exactly how the fish had been captured. Her version involved a daring chase, three guards and a rescue operation. Silena remembered two children arguing beside a shallow pond.
+
+"You're making it sound heroic," she said.
+
+"It was heroic."
+
+"Percy fell into the pond."
+
+"He was providing a diversion."
+
+Percy laughed. The three of them sat among the photographs until the sun slanted through the cabin window and turned the glass panes blue. Clarisse described a festival race Silena didn't remember, Silena corrected the date of a palace concert and Percy asked questions when he wanted to know more. When the stories became too many, he said so. His sisters stopped.
+
+They put the photographs back in order. Percy chose the picture of Triton wearing shells to keep on the cabin shelf, where everyone could see it. He left the childhood sword portrait in the album.
+
+"I like that one," Clarisse said, disappointed.
+
+"So do I. But I don't know the little kid in it yet."
+
+Silena understood. He could be curious about his childhood without being ready to display every image of a person he hadn't learned to remember. She put the picture in its protective sleeve.
+
+"What do you want to put beside Triton's picture?" she asked.
+
+Percy looked around the cabin. There was a recent photograph from the forge, Silena's braid crooked and Clarisse glaring at the camera with a smear of grease on her cheek. He took that one and stood it beside the festival portrait.
+
+"This," he said.
+
+Clarisse examined the pair. "I look terrible in both."
+
+"You look exactly like you," Silena said.
+
+"That's what I mean."
+
+They spent the next ten minutes arguing over who would dust the shelf before the photographs went back. Percy lost because he had been the one to open the chest. He didn't complain much, and when Silena handed him the cloth, he used it carefully.
+
+Later she caught him looking at the two photographs again. She thought about offering another story. Instead she went to wash the mugs they'd left out from breakfast. He knew where to find her if he wanted one.
+
+---
+
 Grover's favorite place at sunset was the strawberry fields, and Ella was learning why.
 
 They sat at the edge of the rows with a basket between them, supposed to be picking for dinner dessert, mostly eating. The sun hung low over the lake, turning the water to hammered copper. The air smelled like warm berries and cut grass. Bees droned drunk and happy. Up on the hill, the pine stood black against the light.
@@ -339,6 +607,114 @@ The conch blew for dinner, long and low. They stood, Grover shouldering the bask
 Ella tilted her head. "'Run, run, as fast as you can,'" she quoted, crouching. "*The Gingerbread Man*. He — he loses. I will — I will win, but — but kindly."
 
 They raced down the hill together, laughing, berries bouncing, sunset at their backs.
+
+---
+
+Chiron was repairing a broken chair when Annabeth came to the Big House.
+
+The chair belonged to a classroom on the lower hill. One of its legs had split along the grain after a camper stood on the seat to see over the heads of taller children. Chiron could have handed it to the workshop and had it repaired before tomorrow. Instead he'd borrowed wood glue and a clamp and was doing the work himself because he'd promised the instructor he would return it.
+
+"Do you need help?" Annabeth asked from the doorway.
+
+"I have the pieces held in place. What I need is time."
+
+She looked at the clamp. "How long?"
+
+"Long enough to be inconvenient."
+
+She smiled, then became serious. "I wanted to ask about the dates. Percy and I were talking about the old quest."
+
+Chiron set down the rag in his hand. He had known this conversation would come. The children had been at camp five months, and the days they feared from their remembered lives were approaching without quite matching the events they expected.
+
+"Do you want to know whether anything has changed?" he asked.
+
+"I want to know whether you've heard anything from Olympus."
+
+"Nothing that establishes the particular accusation you described. No request for a bolt investigation. No summons for either of you."
+
+Annabeth absorbed the answer. Chiron had told her similar things before, and he understood why she asked again. Every new day without the old disaster could be good news or evidence that a different one was coming.
+
+"Can you show me the messages you've received?" she asked.
+
+"Some of them. The private ones belong to their senders. I can show you the notices that affect camp's preparedness."
+
+He took a folder from the shelf and laid it beside the chair. The pages contained the familiar business of running a place that sheltered demigods: a request to strengthen a boundary marker, a question about a late-arriving camper, a report of a monster sighting beyond the main road. There were things Chiron wanted to monitor. None matched the sequence Annabeth remembered.
+
+She read carefully, placing each page back in order. He didn't interrupt. When she finished, she rested her fingertips on the folder as though trying to feel some hidden answer through the paper.
+
+"It would be so much easier if the change meant we were safe," she said.
+
+"Would you believe me if I told you it did?"
+
+"No."
+
+"Then you already understand why I won't say it."
+
+She looked up, frustrated. "I'm not asking for false reassurance. I'm trying to decide what we should do with what we know."
+
+"Then separate what you remember from what you can verify today. The remembered future may tell you what you're capable of enduring. It can't tell us which specific events will happen in this history."
+
+Annabeth considered that. Her first plan had been to follow the old quest almost exactly, preparing the same supplies and watching for the same warning signs. She had imagined that her memory would make it possible to save people she'd lost. Five months of changed small details had taught her how little the sequence could be trusted.
+
+"Does that make the memory useless?" she asked.
+
+"No. You and Percy know things nobody else has experienced. We take your account seriously. But if we act as though every detail must repeat, we may neglect the people and problems actually in front of us."
+
+He nodded toward the broken chair. Annabeth looked at it, then back at him.
+
+"You're not comparing a war to furniture."
+
+"No. I'm saying the chair still needs repairing even if we expect a battle. Tomorrow a student will need somewhere to sit. I promised a safe chair and intend to keep that promise."
+
+She studied the clamp. "You used too much glue."
+
+Chiron laughed. "Perhaps. Would you like to inspect the joint?"
+
+She did. She tested the alignment without moving the clamp, then pointed out a small excess bead of glue that would need to be removed before the finish dried. They worked on it together with a cloth and a narrow tool. She found herself feeling useful in a way that didn't require knowing anything about the future.
+
+When the joint was clean, she asked whether Percy could come with her to examine the old prophecy copies later that week.
+
+"Of course," Chiron said. "We'll agree on a time and make sure the documents are available. I'd like you to bring questions you can answer from the records rather than questions that expect them to explain the entire change."
+
+"That's a very Chiron thing to say."
+
+"I've had many years of practice."
+
+She thanked him and started toward the door, then stopped.
+
+"Did you ever wish you could know the next five months exactly?"
+
+Chiron looked at the chair. He had taught enough young heroes to know how tempting it was to imagine certainty could protect them.
+
+"Frequently. Particularly when it would have allowed me to prevent somebody's suffering."
+
+"And if you could?"
+
+"I'd still need to ask what they wanted, what I actually knew, and what consequences my actions would have. Knowing a thing may happen isn't the same as knowing everything required to stop it."
+
+Annabeth nodded slowly. The answer wasn't a map. It was a way of recognizing when a map had stopped being useful.
+
+She went out into the early evening. The dining pavilion was beginning to fill, and she could hear Clarisse arguing about whether the shortcake was going to be served before or after the offerings. Percy was waiting at the foot of the steps, holding a clean towel he'd been sent to deliver.
+
+"Did you get an answer?" he asked.
+
+"Several. None that solve everything."
+
+"Sounds like Chiron."
+
+She told him about the messages, the chair and the folder of notices. He listened without asking whether the world was finally safe. At the end, she mentioned that they could inspect the old prophecies together.
+
+"After dock duty," he said.
+
+"Why after?"
+
+"Because Clarisse assigned me dock duty first."
+
+Annabeth laughed. She wanted to object on principle, but the docks also needed looking after, and he'd already agreed to be there.
+
+"Then after dock duty," she said.
+
+They walked toward dinner. She had been hoping for certainty and found a chair waiting for its glue to dry. She thought she could live with that for one evening.
 
 ---
 
@@ -390,11 +766,38 @@ No accusation from Olympus reached them that night. No oracle cried out. No war 
 
 There was only camp, and dinner, and each other — seven kids at the end of a table, laughing, full and safe and together, with all the time in the world stretched gold before them.
 
-Hopeful, Percy thought, was not the absence of storms. Hopeful was knowing who would hold your shield wall when the rain came.
+Percy wanted to believe they could keep building this life without having to sacrifice the one they remembered. He didn't know how. But he knew whom to ask for help.
 
-And his wall was here. His family was here.
+Annabeth had left a list on the corner of the table: the ward inspection, the old prophecy copies, and a note to ask Chiron about the coming solstice. Percy folded it and put it in his pocket.
 
-Whatever came, they would face it as family.
+Clarisse noticed. "You working tomorrow?"
 
----
+"After breakfast."
 
+"Good. You're on dock duty first."
+
+He looked at Annabeth, hoping for support. She took the last roll instead.
+
+The plates needed clearing, and Silena had already put a stack into his hands. He carried them toward the kitchens. The list could wait until the dishes were done.
+
+At the kitchen door he found Annabeth struggling with a tray that was wider than her shoulders. She had agreed to help clean up, then taken the largest one because nobody had specifically told her not to.
+
+"Want an extra pair of hands?" he asked.
+
+"Yes, actually." She shifted it toward him. "The handles are in the wrong places."
+
+"That sounds like an architectural complaint."
+
+"It is."
+
+They carried the tray between them. A harpy pointed them toward the wash station and told them not to leave any plates balanced on the edge. Percy followed the instruction. Annabeth was looking at the corner where the shelves joined the wall, already thinking about how to make the space easier to use.
+
+"Don't start drawing," he said. "We have to finish the dishes first."
+
+"I wasn't."
+
+"You were calculating."
+
+"That's different."
+
+He handed her a towel. They worked until the last plate was dry. The date was still in her notebook, the future still uncertain, and the kitchen floor still needed sweeping. He took the broom.

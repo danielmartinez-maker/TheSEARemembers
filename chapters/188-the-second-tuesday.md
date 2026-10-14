@@ -518,9 +518,30 @@ The hall had taught them, in its indirect way, what a room with steam in it does
 
 "Thursday," he said.
 
-She went up the west path alone, because she had done it a hundred times and because the path had nine lanterns on it and the ninth was at the bend where you could look back, and Percy sat on the bench on the porch of Cabin Three and watched her go up in the dark, and she looked back at the bend, and did not wave, because waving was a performance and Annabeth Grace did not perform on the way home, and then she was past the bend and there was only the hill and the pines and the cold clear sky with more stars in it than anybody had names for, and the frost coming down on the grass at the rate of a thing that had been waiting all week.
+Annabeth went up the west path on her own. Percy stayed on the Cabin Three porch, watching until she reached the ninth lantern and turned briefly to make sure he was still there. She didn't wave, and he didn't ask her to. They had already said goodnight.
 
-Clarisse's stove ticked behind the wall. The porch lantern burned in its hood. Somewhere down the hill the hall was cooling in the dark, four rows of dry towels in a rack, a slate with its fourteen still on it, one nail that had nothing hanging on it, and the last of the warm water lying still enough to hold both the lantern's light and the black square of the skylight at the same time, without mixing them; and the whole camp slept above it, and the week went on being the sort of week that nobody would know the shape of until about four years from now, when somebody would be standing on a porch somewhere in a different country, counting lanterns.
+The hall was cooling down beyond the trees. Four rows of towels had been hung to dry, and Clarisse had turned the attendance slate toward the door before leaving. Percy could still remember the count; he had heard it twice.
+
+From inside came the sound of a pan being moved off the stove. Silena was clearing space for tomorrow's bread. He got up and went in to help, taking the empty drying rack from beside the sink.
+
+"You're meant to be off duty," she said.
+
+"That sounds like something Clarisse would invent."
+
+"She did. There's a board."
+
+He looked. A fresh line had been written across the bottom: DO NOT START ANOTHER JOB AFTER THE LAST LAMP. Below it, in smaller handwriting, Silena had added: PUT THE BREAD TINS AWAY FIRST.
+
+Percy took the hint. He hung the rack on its hook and carried the tins to the shelf. It took less than a minute.
+
+"Thursday?" he asked.
+
+"Same count procedure. And warmer towels."
+
+"Can I put that in writing?"
+
+"You can ask. You can't promise the weather."
+
+He laughed and shut the cupboard. Outside the frost was returning to the grass around the canoe racks, but the work of Tuesday was already in the right places. He went to bed instead of going back down to check the hall a third time.
 
 ---
-

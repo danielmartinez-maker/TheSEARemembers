@@ -68,6 +68,124 @@ For a while, there was nowhere else to be.
 
 ---
 
+Before breakfast, Percy found a note pinned to the door of Cabin Three.
+
+It was from a younger camper named Micah, one of the Hermes children whose trunk had flooded during the rain. He'd written in careful block letters, asking whether Percy would still be able to show him how to use the shallow canoe dock. Percy had offered a lesson three days earlier. He'd completely forgotten.
+
+The lesson was scheduled for noon.
+
+Annabeth expected him at the library at twelve. Clarisse wanted him in the arena at ten. Silena had asked him to help at the forge later in the afternoon, and Grover had made a plan for the canoe before they'd even finished breakfast yesterday. The day he'd thought was empty had somehow acquired an appointment in every part of it.
+
+"What's the matter?" Clarisse asked, coming in from her push-ups.
+
+Percy showed her the note.
+
+"You gave him a time?"
+
+"Yes."
+
+"And you didn't write it down?"
+
+"No."
+
+She looked at him with the expression she reserved for people who had made simple problems much harder than they needed to be.
+
+"Then you need to talk to him."
+
+"I know. I thought I could do everything today."
+
+"You can do a lot of things. You can't be in two places at the same time."
+
+"That's not entirely true for all demigods."
+
+"It is for you."
+
+Silena emerged from the washroom with a towel around her hair and took the note.
+
+"If the boy's nervous about the dock, don't leave him waiting there while you decide," she said. "Can you move something else?"
+
+Percy considered. The forge session was scheduled because Silena needed help with a clasp, but she'd told him the time could be adjusted. Annabeth was doing independent reading at the library and wouldn't be injured by his arriving late. Grover wanted a relaxed afternoon, not a fixed appointment. The canoe lesson was the only arrangement someone younger had built his day around.
+
+"I'll keep the noon lesson," Percy said. "Then I need to tell Annabeth and Grover about the change."
+
+"And ask the water-safety instructor whether you're allowed to teach him," Clarisse added. "You're not a certified counselor."
+
+Percy looked at her. She was right. He had offered to show Micah how to use the dock without checking whether he was authorized to instruct him. He knew how to swim and handle water, but that didn't automatically make him responsible for a child who might panic in a boat.
+
+He went to find the instructor after breakfast. The woman running the beginner water program knew Micah and explained that he had been cleared for a supervised familiarization session, but not an unsupervised paddle.
+
+"You can help him from the dock while I watch," she said. "No magic to stabilize the canoe unless we agree ahead of time that there's a safety need."
+
+"That works."
+
+"Then get him here at noon and bring the proper equipment. You're both responsible for checking the paddles and flotation gear."
+
+Percy nodded and went to find Micah. The boy was eating at the Hermes table beside two older campers and looked up anxiously when Percy arrived.
+
+"I got your note," Percy said. "Noon still works. The instructor will be with us."
+
+Micah looked relieved. "I thought you'd forgotten."
+
+"I did," Percy admitted. "I'm sorry. I should have written it down."
+
+Micah considered. "Are you still going to show me how to get into the canoe without tipping it?"
+
+"Yes. But the instructor is going to make us check everything first."
+
+"That's okay."
+
+Percy left the table feeling slightly embarrassed and much better than he had when he found the note. He could not fix his forgetfulness by pretending he remembered everything. He could make it less costly to other people by recording the commitments he made.
+
+At the Zeus table, Annabeth was marking a page in her notebook.
+
+"Can we change our library time?" Percy asked. "I offered to help Micah at the canoe dock and forgot I had done it."
+
+She looked up. "What time?"
+
+"Noon. I can come after one if your research is still going."
+
+"That's fine. I'll be reading by myself. You can find me whenever you finish."
+
+"You're not annoyed?"
+
+"Only if you try to make me rearrange my research because you didn't write something down. You asked, and I have no reason to insist you be there at a particular minute."
+
+He smiled. "Thank you."
+
+She offered him a blank page in the back of her notebook.
+
+"Want to start a schedule?"
+
+He took it, then remembered that borrowing her notebook would mean she couldn't use it for her own work.
+
+"Could I have a piece of paper instead?"
+
+"Yes."
+
+He wrote down the canoe lesson, the adjusted library visit, Grover's afternoon paddle and Silena's forge task. He checked the times with each person rather than assuming the old plan would fit.
+
+By the end of breakfast, the paper looked embarrassingly full. Percy had thought he wanted an ordinary day because ordinary days required no decisions. He was learning that the opposite was true. The decisions were smaller, but they still mattered to the people who had asked him to show up.
+
+He folded the note and put it in his pocket. Clarisse saw him do it.
+
+"You'll lose that."
+
+"Probably."
+
+"Then put it somewhere you check."
+
+He went back into the cabin and pinned a copy beside the door. When he came out, Clarisse looked satisfied.
+
+"Now you'll know when you're supposed to be annoying someone."
+
+"I think you enjoy giving me schedules."
+
+"I enjoy not having to chase you across camp."
+
+He grinned and followed her toward the arena.
+
+---
+
 The dining pavilion was loud. Sunlight poured through the open sides and lit up the dust and the steam rising off trays. The air was thick with bacon and syrup and toasted bread and the sweet rot of the strawberry juice they served on Saturdays. Harpies wove between tables with platters balanced on their arms, shrieking at anyone who tried to sneak extra.
 
 Percy carried his plate — scrambled eggs, three pancakes, an apple he intended to trade — and slid onto the bench at the Poseidon table. Silena was already there, hair tied back, braiding a bit of blue thread into the end for no reason except that she liked how it looked. Clarisse sat across, elbows out, guarding her bacon like a dragon.
@@ -196,9 +314,213 @@ He saluted with the spear and nearly took out a dummy. Thalia laughed all the wa
 
 ---
 
+When Percy left the arena, Thalia stayed behind to put away the practice swords.
+
+She'd spent the morning making jokes about his footwork, and he had taken them in the spirit she'd intended. It was easy to be generous when she was winning a friendly training match against someone she liked. It was harder when she saw one of the younger campers watching from the edge of the arena, visibly wishing he could join.
+
+The boy was from Hermes cabin. Thalia recognized him by face but not by name. He was holding a wooden sword and doing the same four movements over and over, never quite reaching the correct position.
+
+"Do you want somebody to check that?" she asked.
+
+He froze. "Sorry. I was trying not to get in the way."
+
+"You're not in the way."
+
+He looked at the sword. "I know the names of the positions. I just keep doing them wrong."
+
+"Then show me."
+
+His first movement was too fast. He raised the sword before shifting his weight, which left his back foot behind him and made the blade wobble. Thalia almost said, *Stop being afraid of it.* The words rose automatically, sharp and impatient.
+
+She remembered Zeus shouting at her during a visit, asking why she wasn't stronger after months of training. He had changed his appearance and his standards from one meeting to the next, leaving her trying to guess what would earn his approval. She hated how quickly her own voice could approach that tone when somebody did something badly in front of her.
+
+She swallowed the comment.
+
+"What's your name?" she asked.
+
+"Julian."
+
+"Julian, would you like me to show you where your feet should go?"
+
+He nodded.
+
+She put down her own sword and demonstrated the movement slowly. Then she asked him to copy only the footwork without holding a weapon. His first attempt was awkward, but she could see the moment he began understanding where the weight needed to move.
+
+"Better," she said.
+
+He looked up, hopeful. "Really?"
+
+"Yes. You moved your back foot before you lifted the blade. That's the part that was missing."
+
+They practiced the footwork five times. Thalia didn't speed up the exercise until he could complete the motion without stumbling. When he picked up the wooden sword again, the blade moved more smoothly.
+
+"Do it once more," she said.
+
+He did. Then he grinned as though he'd won a tournament.
+
+"Can I try it with somebody attacking?" he asked.
+
+"Not without your instructor. This is enough for now."
+
+He looked disappointed but accepted it. She gave him the name of the technique and told him which training group was practicing it later in the week.
+
+As he went to return the sword, Clarisse appeared from the weapons rack.
+
+"You were patient," she observed.
+
+"Don't sound so shocked."
+
+"I've seen you teach before."
+
+"Then you know I'm excellent at it."
+
+"You're excellent at showing people what you can do. Teaching them how to do something else takes more work."
+
+Thalia looked at her. Clarisse wasn't trying to insult her. She was making a distinction Thalia had been reluctant to accept.
+
+"Did I get it right this time?" she asked.
+
+"Mostly. You looked as though you were going to shout, then didn't."
+
+"I thought of a better instruction."
+
+"Good."
+
+They carried the last practice swords inside. Clarisse mentioned that Julian's instructor had been trying to help him find his balance for weeks. He was clever and careful, but every time he made a mistake in front of older students he rushed the next attempt and made it worse.
+
+Thalia thought of the way Zeus's criticism had made her reach for more lightning instead of learning to stop. She didn't want Julian to associate her with the same fear.
+
+"Can I help with his lesson next week?" she asked.
+
+Clarisse glanced at her. "You can ask. Don't promise him before the instructor agrees."
+
+"I know."
+
+They finished shelving the swords. Thalia checked the rack, then left for lunch with the satisfying ache of a morning spent training. She hadn't had to make a child feel small to demonstrate that she was good at something. She wondered why that had taken her so long to learn.
+
+At the pavilion, Annabeth was drawing the edge of a roof in her notebook. Thalia sat beside her and stole a piece of bread.
+
+"How was training?" Annabeth asked.
+
+"Fine. I helped a younger camper."
+
+"Did you make him cry?"
+
+"No."
+
+"Congratulations."
+
+"You're unbearable."
+
+Annabeth smiled and handed her the rest of the bread. Thalia ate it while listening to her describe a problem with the roof angle. This was another lesson in patience: letting a person explain something she understood better than Thalia did and asking a question instead of trying to win the conversation.
+
+She looked forward to doing it again, even if she would never tell Annabeth that. When lunch ended, she found Julian beside the entrance to the arena, already practicing the steps on the flat stones where he could see his own feet. He stopped when he noticed her, expecting another correction. Thalia lifted a hand.
+
+"Not too long. Your instructor's giving you a full lesson tomorrow."
+
+"I know. I just wanted to remember."
+
+"Then write down the part you keep forgetting. It worked for Annabeth when she learned the storm-control exercise."
+
+Julian nodded. He took a stub of pencil from his pocket and made a small note on a folded card. Thalia watched him put it away, then continued toward her own patrol assignment. She couldn't promise every beginner would improve at her pace. She could make her instructions clear enough that a boy like Julian knew what to practice after she left.
+
+---
+
+Micah was already waiting at the shallow dock when Percy arrived.
+
+He had put on his flotation vest backward. The instructor was standing a few steps away, watching him try to fasten a strap that didn't reach the buckle.
+
+"Hold on," Percy said. "Let me help you turn it around."
+
+Micah looked down, embarrassed.
+
+"The pictures on the tag were confusing," he admitted.
+
+"They are. I put mine on wrong the first time I used one on the surface."
+
+That was only partly true. Percy had used all kinds of flotation gear during his time in Atlantis, but he didn't remember those lessons from childhood. His first clear memory of a surface vest belonged to a school trip with Sally in the life he remembered. The equipment had been orange and smelled like plastic, and the instructor had spent ten minutes showing everyone how to secure it properly.
+
+Percy asked the water-safety instructor to check Micah's straps once the vest was turned around. She adjusted the fit and made him demonstrate that he could move his arms without the vest riding up.
+
+"Good," she said. "Now tell me what you'll do if the canoe tips."
+
+Micah looked at Percy. Percy didn't answer for him.
+
+"Stay with the boat and call for help," Micah said.
+
+"And keep the vest fastened. We'll be close enough to assist you."
+
+They went through the rest of the safety instructions before touching the canoe. Micah had wanted the lesson because his cabinmates made paddling look easy, but he had never been comfortable with deep water. The flooded trunk hadn't helped. He knew the rain inside the cabin wasn't the same as a lake, yet the sound of water moving where it shouldn't still made him nervous.
+
+"I don't want to fall in," he told Percy.
+
+"Then we'll practice at the dock first. You don't have to paddle out today."
+
+The instructor approved. She secured the canoe alongside the lowest platform, with its broadest section beside a stable step. Percy held the bow line while Micah practiced placing one foot at a time, keeping his weight low and using his hand on the gunwale for balance.
+
+The first attempt was too quick. The canoe shifted, and Micah jumped back onto the dock.
+
+"I'm terrible."
+
+"You moved before you'd settled your weight," Percy said. "Try it more slowly."
+
+Micah made another attempt. He stopped halfway and looked down at the dark water below the dock.
+
+"What if it moves?"
+
+"It will move. That's what boats do. The goal isn't to make it stop moving. It's to know how to sit so the movement doesn't throw you over."
+
+The boy considered the advice. He was used to Percy's demonstrations with water, the way a wave could become a shield or a staircase. He'd hoped Percy might simply make the lake hold the canoe still.
+
+"Can you keep it from rocking?" he asked.
+
+"I could, but then you wouldn't learn how it feels when nobody is controlling the water. The instructor can stop us if we need to."
+
+Micah looked toward her. She nodded.
+
+They tried again. This time Micah entered the canoe and sat where the instructor indicated. He gripped the sides so hard his fingers whitened.
+
+"Relax one hand at a time," the instructor said. "Keep the paddle across your knees for now."
+
+He did. The canoe rocked gently against its lines. Nothing dramatic happened.
+
+Percy smiled. "There you go."
+
+Micah stayed seated for a few minutes, learning what normal movement felt like. He wanted to try the paddle next, but the instructor decided they had enough time only for basic handling at the dock.
+
+"That's still progress," Percy told him.
+
+"I know. I wanted to go farther."
+
+"Then we'll ask about another lesson when your counselor says you're ready."
+
+Micah looked at the open lake. A group of older campers was returning from a longer route, their paddles moving together. He could imagine doing that someday without feeling sick with worry. He wasn't there yet, and Percy hadn't pretended he was.
+
+They helped return the canoe to its rack. Micah checked that his vest was clean and hung it where the instructor indicated. He thanked Percy, then asked whether he would teach the next session.
+
+"I can help if I'm available and the instructor agrees," Percy said. "I won't promise a time until I check my schedule."
+
+Micah laughed. "You forgot this one."
+
+"I did. I'm trying not to do it again."
+
+He went to lunch with the other beginners. Percy stayed to help the instructor record the completed familiarization in the class log.
+
+"That was good," she said.
+
+"I didn't teach him very much."
+
+"You helped him stay with a task that frightened him. And you didn't use your power to make the exercise easier than the conditions he'd face on his own."
+
+Percy looked at the canoe racks. He had once thought being a child of Poseidon meant every water problem should be easier for him than for anyone else. Today the most useful thing he'd done was hold a rope and let another boy learn at his own pace.
+
+He finished the log, returned the pencil and hurried toward the library. Annabeth would be waiting with her own work, and he had several hours of ordinary plans left to keep.
+
+---
+
 The camp library at midday was quiet, with light coming straight down through the high windows and making squares on the floor.
 
-Percy slipped in eleven minutes late, out of breath, sand still in his hair. The place smelled of old paper and cedar and the lemon oil the Athena kids used on the shelves. At noon it was empty except for dust and Annabeth Grace, daughter of Zeus and Thalia's younger sister, with her boots up on a table and three books open around her.
+Percy slipped in shortly after one, out of breath, sand still in his hair. The place smelled of old paper and cedar and the lemon oil the Athena kids used on the shelves. In the early afternoon it was empty except for dust and Annabeth Grace, daughter of Zeus and Thalia's younger sister, with her boots up on a table and three books open around her.
 
 She was already deep in architecture again — not war machines and siege engines, but temples. How they held weight. How they let light in. How people thousands of years dead had figured out how to make stone feel like sky.
 
@@ -314,6 +636,96 @@ On the path up from the lake, their shoulders bumped. Neither moved away.
 
 ---
 
+Silena had been waiting for a chance to work on the circlet all week.
+
+She'd designed it herself, which was still a novelty among the people who knew her primarily for organizing the cabin and making everybody look presentable at celebrations. The circlet was for a small performance in the amphitheater, not a royal commission. It needed to hold the fabric headpiece securely without pinching the person who wore it, and she had decided to make the clasp as beautiful as the rest.
+
+The first mock-up failed on a wooden mannequin. The metal loop was narrow enough to hold under normal movement, but it caught the fabric whenever she tried to remove the headpiece.
+
+"Then make the loop bigger," a Hephaestus apprentice suggested.
+
+Silena looked at the design. "If I do that, it might slip when the performer moves."
+
+"Then add a second fastening."
+
+"That creates another place where it could snag."
+
+The apprentice shrugged. He had offered a reasonable idea and wasn't particularly interested in spending the whole afternoon discussing a hair ornament. There were armor fittings waiting to be inspected, and he had a workshop assignment due before dinner.
+
+Silena realized she'd been expecting him to keep helping because he had helped with the first attempt.
+
+"You don't have to stay," she said.
+
+He looked up, relieved. "Can I go finish the hinge work?"
+
+"Yes. Thank you for looking at it."
+
+After he left, Silena sat with the circlet in her hands and looked at the unsuccessful fastening. It was tempting to ask Percy to solve the problem as soon as he arrived. He was good with fiddly tasks when he slowed down, and she loved working with him. She also wanted to know she could design something without making her brother responsible for finishing it.
+
+She went to the scrap drawer and found three pieces of thin copper wire. They were not strong enough for the final clasp, but she could use them to test the motion without wasting the better metal. She bent one into a wider curve, another into a hook and the third into a simple sliding catch.
+
+The first two failed for the reasons she expected. The sliding catch opened easily but would not stay closed when she shook the mannequin.
+
+She wrote down the results. It seemed absurd to keep notes about a little circlet. Annabeth would have approved, and that was an irritating reason to keep doing it.
+
+Beckendorf returned from checking a weapon fitting and saw the pieces laid out on the table.
+
+"Having trouble?"
+
+"Yes. The shape works. The fastening doesn't."
+
+He examined the three prototypes.
+
+"Which matters most, removal or security?"
+
+"Both."
+
+"Then you may need a separate release mechanism. Something that stays closed under ordinary movement but opens when you press in a particular direction."
+
+Silena thought about the suggestion. She had been treating the clasp as one part that had to do every job. A small spring or lever could separate the holding force from the release motion.
+
+"Could I test a release tab?" she asked.
+
+"Yes, but use the practice material first. You'll need to make sure it doesn't cut the cloth."
+
+He showed her where the small tools were kept and left her to try it. She was grateful. It was different from having someone take the project out of her hands.
+
+She made a small cardboard model, then a more precise one in soft metal. The release tab was too easy to press at first. She shifted it to the inside, where it would be protected during performance but could still be reached deliberately. The third attempt held when the mannequin moved and released without catching the fabric.
+
+Silena smiled. She'd spent most of the afternoon on a device nobody in camp would notice if it worked properly. That was exactly why it mattered to her. The person wearing it would be able to move and perform without thinking about the clasp.
+
+When Percy arrived from the canoe lake, she had a task ready for him.
+
+"I need you to test this," she said. "Not to fix it. To tell me whether you can open it while keeping the headpiece in place."
+
+He examined the model. "Do you want me to wear it?"
+
+"No. Put it on the mannequin and try the release."
+
+He did. The first attempt took too long because he pressed the wrong side of the tab. Silena adjusted the small marker, then watched him try again. This time it opened cleanly.
+
+"Good," she said.
+
+"That's all you needed?"
+
+"For now."
+
+He looked at the finished prototype. "I thought you wanted help making it."
+
+"I did. Then I solved most of it. You're helping me check whether the solution works for somebody who didn't invent it."
+
+Percy smiled. "That's a very Annabeth answer."
+
+"She's occasionally right about things."
+
+He laughed. Silena went to get the final metal. She had enjoyed making the circlet because it let her be the person who designed something useful and beautiful, not only the sister who remembered everyone's appointments. The project was small. It belonged to her.
+
+They finished the clasp together, with Percy holding the piece steady while she made the last adjustment. When the instructor checked it, he approved it for the rehearsal with a note that the performer should test the release before going onstage.
+
+Silena put that instruction in the cloth bag with the circlet. She would be there for the rehearsal, but the headpiece should be usable even if she wasn't standing beside the stage.
+
+---
+
 The forge at golden hour was roaring and warm, with fires matching the light coming through the doors.
 
 Silena was waiting for Percy at the entrance to the forges with her hair tied up, soot already on her cheek like a beauty mark, gloves tucked into her belt. Silena, fourteen, daughter of Poseidon and the oldest sister in Cabin Three, which people always misunderstood — they thought the sea cabin meant only waves and storms, but Silena knew it meant making things people loved. Armor that fit right. A clasp that didn't pinch. A gift that said *I see you.*
@@ -392,6 +804,94 @@ Ordinary. Best kind.
 
 ---
 
+After dinner, Percy found Micah outside the Hermes cabin with a scrap of paper in his hand.
+
+The boy had been waiting beside the steps, watching the older campers come back from the pavilion. When he saw Percy, he stood up so abruptly that he almost dropped the paper.
+
+"Can I show you something?"
+
+Percy nodded. Micah held out a drawing of a canoe with three arrows marking the way a person should step into it. He'd drawn a small figure in a flotation vest beside the lowest part of the dock. The vest was bright orange, colored so thoroughly that the paper had begun to tear.
+
+"I made it after the lesson," Micah said.
+
+Percy studied the drawing. The canoe was lopsided and the arrows didn't quite match the angle of the dock. But the order was right: hold the side, keep the weight low, sit before reaching for the paddle.
+
+"You remembered."
+
+"Most of it. I couldn't draw the way it rocks."
+
+"Nobody can draw every movement. You could write a note about it."
+
+Micah considered. "I don't want to write too much. The pictures are easier."
+
+"Then draw the boat in two positions. It tilts a little, then comes back."
+
+The boy took the pencil and added a second line beneath the canoe. It made the drawing less tidy and more accurate.
+
+"Like this?"
+
+"Yes."
+
+Micah looked pleased. He had spent months at camp thinking he'd never be comfortable on water. Today he'd sat in a canoe without anyone making the lake do something unnatural to keep him safe. The lesson hadn't made him brave enough to paddle across the lake. It had made him willing to try again.
+
+"Can I have another lesson?" he asked.
+
+"Ask the instructor. If she schedules it and I'm free, I'll come help."
+
+"Okay."
+
+Percy gave back the drawing. He was tempted to tell Micah that he'd be excellent at canoeing one day. He couldn't know that. The boy might never enjoy long paddles, and there was no reason he had to. The goal was to make water safe enough that he could choose what he wanted to do near it.
+
+"Good work today," Percy said.
+
+Micah smiled. "You too."
+
+The compliment surprised Percy enough to make him laugh.
+
+He returned to Cabin Three and found Silena placing the circlet's cloth bag on her shelf. She had promised to deliver it to the performer tomorrow, and she was checking the rehearsal time against the workshop note.
+
+"How was your day?" she asked.
+
+"Busy."
+
+"That sounds like everybody's day."
+
+"I thought ordinary meant we wouldn't have things to worry about."
+
+She considered. "Ordinary is mostly things people have to do. It just means we can do them without somebody announcing a quest first."
+
+Percy looked at the circlet. She had solved a problem in the forge because she'd spent time thinking and testing, not because she had access to the sea. Clarisse had given him an honest correction about his schedule. Annabeth had worked on buildings he wasn't required to join. Grover had paddled with him because they enjoyed one another's company.
+
+He wanted to remember that none of it had required a prophecy.
+
+Silena handed him a cloth to wipe down the shelf.
+
+"Would you mind doing this while I put the tools away?"
+
+"Sure."
+
+He cleared the space, cleaned away the dust and moved a stack of old cards to the right place. He had already spent the day keeping promises. He could finish it with one more small task for his sister.
+
+Clarisse came in with a training strap in her hand. She inspected the neat shelf and raised an eyebrow.
+
+"Who did that?"
+
+"Me."
+
+"Good. Tomorrow you can do the other one."
+
+"That's how you reward people?"
+
+"That's how I know you can be trusted."
+
+She went to her bunk. Silena laughed and gave Percy back the cloth.
+
+He set the circlet bag neatly in its place, then took out the schedule from his pocket. One line remained unchecked: *ask Micah how the lesson felt*. He marked it done and left the paper beside his bed so he could use it again if another day filled up faster than he expected.
+
+He was tired in a different way than after a fight. He liked it.
+
+---
+
 Percy waited until the Poseidon cabin was quiet.
 
 It didn't take long — Clarisse out before her head hit the pillow, Silena mumbling about shell settings in her sleep. The guest hammock in the corner stayed folded. Tyson had headed back to the forges where he bunked when he visited. Percy lay in his bunk and listened to his sisters settle, feeling like a lighthouse keeper making sure all the lights were out except his.
@@ -453,8 +953,3 @@ Whatever came next — quests, wars, growing up, growing apart and back together
 The wind moved through the pine. The Fleece shimmered. A shooting star cut across the sky, brief and white-gold, and Annabeth squeezed his hand.
 
 Percy closed his eyes and kept it — all of it — exactly where it belonged.
-
-*END OF THE CAMP ARC*
-
----
-

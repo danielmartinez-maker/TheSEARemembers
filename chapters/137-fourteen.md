@@ -70,6 +70,128 @@ Percy nudged back. "Thanks for practicing."
 
 ---
 
+After breakfast a counselor from Hermes cabin intercepted Percy near the equipment shed. She was carrying a practice shield with the grip on the wrong side and a list of names smudged by spilled juice.
+
+"Can you help with a new camper?" she asked.
+
+Percy glanced toward the arena, where Clarisse expected him in less than an hour. "How new?"
+
+"Arrived yesterday. He keeps asking whether you can make the water catch a falling sword."
+
+"I can."
+
+"That's what I told him."
+
+"That may have been a mistake."
+
+She led him to the shade by the weapon racks. A boy with an uneven haircut sat on a low wall, wearing a camp shirt that swallowed his knees. He held a wooden training sword as if it might leap out of his hand. When Percy approached, the boy stood too quickly.
+
+"You're Percy Jackson."
+
+"Most days."
+
+"My brother said you can fight without touching the ground."
+
+"Your brother exaggerates."
+
+"Can you?"
+
+"In water, maybe. On land I'd probably just fall over."
+
+The boy looked disappointed, then hopeful. "Will you show me?"
+
+Percy could hear Clarisse in his head: demonstrations were not the same as teaching. He could have brought a ribbon of water out of the fountain, caught the wooden sword in midair and given the boy a story to tell at dinner. It would have proved precisely nothing the camper could use when an opponent pressed him in the arena.
+
+"First show me how you're holding that sword."
+
+The boy obeyed. His right wrist bent sharply inward. Percy asked him to bring the blade across his body and stop at shoulder height. The sword swung past the mark, pulling his elbow with it.
+
+"Does your wrist hurt?" Percy asked.
+
+"A little."
+
+"Then you're squeezing too hard and fighting the weight."
+
+He borrowed a smaller practice sword and showed the boy how to move from the shoulder without locking the elbow. The first attempt ended with the wooden tip dragging in the dust. The second stopped closer to the mark.
+
+"I'm terrible," the boy said.
+
+"You're new. Those are different things."
+
+The counselor settled onto the wall with her list. She didn't try to run the lesson for Percy, but she stepped in when the boy's grip slipped and reminded him to drink water. Percy appreciated having somebody else notice what his attention might miss.
+
+They tried again. The boy asked for a demonstration of the spectacular water trick a second time. Percy refused a second time, more gently.
+
+"The trick won't teach you how to hold a sword," he said. "This will."
+
+"Did somebody teach you?"
+
+"A lot of people."
+
+He thought of Chiron, of Annabeth in the remembered life, of Triton in stories told about the childhood he'd apparently lived here. He didn't put all three in the same sentence. A lesson someone remembered giving you was not a lesson you could claim to recall receiving. But he could show the boy something he knew now. That would be enough for the morning.
+
+He moved the practice sword in a slow arc, stopping exactly at the marked height. The boy watched and copied him.
+
+"That looked easy," the boy said.
+
+"It took practice."
+
+"How long?"
+
+"Long enough that I still get it wrong when Clarisse makes me tired."
+
+At the mention of his sister, the boy straightened. "She scares me."
+
+"She scares sensible people."
+
+"Does she scare you?"
+
+"Sometimes. Mostly when she finds out I've left something broken in the weapons shed."
+
+The counselor laughed. Percy crouched to check the boy's stance. His toes were pointed at the target and his knees locked.
+
+"Try stepping sideways before the strike."
+
+"Why?"
+
+"So if someone comes at you, your feet can move."
+
+The boy tried and almost tripped. Percy caught his elbow. He didn't lift him by force or turn the stumble into a spectacle. He waited while the boy found his balance again.
+
+"Can I come back tomorrow?" the boy asked.
+
+"Ask your counselor. You'll be training with a group by then."
+
+"Will you be there?"
+
+"Not for every session. But the other instructors know more than one trick."
+
+Percy gave back the practice sword when the next instructor arrived, taking care to tell her exactly what they'd practiced and what the boy was still struggling with. It was the sort of handoff he used to leave to older campers. At fourteen he was old enough that someone might depend on him to make it.
+
+As he walked toward the arena, Annabeth emerged from the pavilion with her notebook tucked beneath her arm. She had watched the last few minutes without interrupting.
+
+"You didn't show him the water trick," she said.
+
+"Maybe later."
+
+"Good call."
+
+"He wanted something impressive."
+
+"He got something more useful."
+
+Percy looked over his shoulder. The boy was trying the sideways step again, this time under the counselor's eye. His swing was slow and crooked. His feet moved, though, and he stayed upright.
+
+"That was pretty impressive," Percy admitted.
+
+Annabeth smiled. "Now go get beaten by Clarisse."
+
+"You say the most romantic things."
+
+"I'm saving the better ones for after you've showered."
+
+She walked beside him until the arena path forked. Percy had spent his morning thinking about what it meant to be fourteen. Now he was late for a practice fight, which seemed a fitting reminder that adulthood hadn't arrived overnight.
+
 Heat rose off the arena sand in visible waves by ten.
 
 Percy tied his shoelaces twice at the edge of the circle. The leather of his wrist guard creaked. Sweat already darkened the neck of his shirt. The air smelled of hot bronze, dust, and the pine resin from the stacked practice spears along the fence.
@@ -130,6 +252,140 @@ From the fence, Annabeth raised her pencil in salute. Her notebook page fluttere
 
 ---
 
+The bout was over, but Percy didn't get out of the arena as quickly as he'd hoped. A senior camper from the Ares cabin approached Clarisse with a complaint about the afternoon drills. He had the look of somebody who'd been rehearsing his argument since breakfast.
+
+"The rotation sheet changed again," he said. "Your cabin got the first practice slot yesterday. Now Jackson gets the first one today."
+
+Clarisse's expression cooled. "Percy wasn't on the rotation. That was a birthday bout."
+
+"That's convenient."
+
+Percy stopped unfastening his wrist guard. "It was a private practice."
+
+"In the public arena."
+
+"You could have watched."
+
+"That's not the point." The camper looked at Clarisse, not Percy. "People think you favor your brother."
+
+Percy opened his mouth. Clarisse lifted one hand without looking at him. He closed it.
+
+She led the camper to the notice board where she had posted the day's training assignments. There were blocks for beginners, intermediate groups and advanced sparring. Her own demonstration time was separate, penciled below the public schedule.
+
+"I've been running a rotation for weeks," she said. "You think this is unfair? Show me which group lost its hour."
+
+The camper read the sheet. He pointed to a line where the Ares group had been moved to the second slot.
+
+"That's the problem."
+
+"You asked to use the shaded side of the arena while the sun was high. The second slot gives you that."
+
+"We could have kept the first slot and moved the markers."
+
+"The beginner session uses the markers. We can't have two groups moving equipment across each other."
+
+He stood in front of the list for a moment. Percy could see the grievance turning from accusation into something less clear. The boy wanted to be heard, and that was reasonable. He also wanted a simple culprit, preferably Percy with his royal family connections, and that was less reasonable.
+
+"Can we post changes the night before?" he asked.
+
+Clarisse considered. "Yes. That's fair. I moved this one at breakfast."
+
+"Then people wouldn't think you were changing things for your brother."
+
+"People can think whatever they want," she said. "They can also read."
+
+Percy nearly laughed. The boy did not.
+
+"Are you going to let him train when the other groups are waiting?"
+
+"Not during assigned hours," Clarisse replied. "If you see that happen, tell me. Or tell Chiron if you think I'm the problem."
+
+It was a genuine invitation to challenge her decision. Percy saw how uncomfortable the concession made her, and how deliberately she held her ground without abandoning it. The Ares camper nodded and went off, muttering something about wanting advance notice.
+
+"Happy birthday to me," Percy said.
+
+Clarisse looked at him. "You were about to jump in."
+
+"He was being unfair."
+
+"Maybe. I still didn't need you arguing for me."
+
+Percy unfastened the last strap. "I wasn't going to say you were wrong."
+
+"That's not the test. You can be right and still make it harder for me to do my job."
+
+He hung his shield on the rack. There was sand caught in the inner rim, and he rubbed it away with his thumb.
+
+"You always want to handle everything yourself," he said.
+
+"Not everything. I gave the equipment inventory to a Hephaestus kid because he actually likes counting screws."
+
+"You know what I mean."
+
+Clarisse sat on the low wall and took off her training boots. A blister had raised a small red mark on one heel. She looked at it with the same irritation she'd shown the roster.
+
+"When you say something in my defense," she said, "people hear a son of Poseidon telling them what the other daughter of Poseidon deserves. I don't want that to be the reason they listen to me."
+
+"They should listen because you're good."
+
+"Exactly."
+
+He leaned against the wall beside her. "You are good."
+
+"Then let me be."
+
+Percy watched a pair of younger campers carry the training markers to the shaded side, exactly as the changed roster directed. The Ares boy he'd spoken to was helping them. Nobody was pretending the conflict had never happened. They were getting the arena ready for the next group.
+
+"Can I ask you something?" Percy said.
+
+"Depends how stupid it is."
+
+"Why do you keep doing this? You could spend all morning sparring. You like that better than paperwork."
+
+"I like people knowing what they're doing before they get hurt," she said. "I don't like fixing the same mistake over and over because no one taught the first person properly."
+
+"You sound like Chiron."
+
+"I will throw you into the lake."
+
+He grinned. "There's the Clarisse I know."
+
+She tied her boots together by the laces and slung them over a shoulder. "I want to be the person they ask when a drill isn't working. Not because I'm loud, not because I'm the oldest in Cabin Three, but because I can figure out what's wrong."
+
+Percy thought about the new camper he'd taught before the bout, and about how easy it had been to show off rather than give him something useful. Clarisse's ambition sounded harder than winning a fight. It required other people to trust her judgment when she wasn't in the arena at all.
+
+"Then I won't answer for you next time," he said.
+
+"Good."
+
+"Unless you're actually wrong."
+
+"Then tell me privately first."
+
+"That's a lot of conditions."
+
+"Learn them. You're fourteen now."
+
+She handed him his forgotten water bottle, which had rolled beneath the bench. He accepted it and drank until the cold water stopped tasting of dust.
+
+As they left the arena, Clarisse caught sight of the beginner group settling into their first drill. One of the instructors had set the practice shields too close to the fence. She started toward them and then stopped herself.
+
+"Can you tell them to move the equipment back three paces?" she asked Percy.
+
+"Thought you didn't need me."
+
+"I asked you. That's different."
+
+He obeyed. The instructor checked the clearance and shifted the shields. By the time Percy returned, Clarisse was waiting by the gate.
+
+"You handled that without making a speech," she said.
+
+"I've been learning from an excellent teacher."
+
+"Watch it."
+
+Percy laughed and followed her toward the cabins. His shoulders were tired, his shirt was torn at one seam, and he was due to be measured by Silena before lunch. Growing older had not made him more independent in the simple way he'd once imagined. It had given him more chances to decide when helping someone meant following their lead.
+
 The Aphrodite cabin smelled of cedar and oranges at midday. Silena had borrowed a sewing station from a friend there; her own bunk and worktable were still in Cabin Three.
 
 Light filtered through rose curtains and fell in pink bars across the floorboards. Mirrors lined one wall, edged with shells and dried lavender. Someone's radio played low, a lyre tune tangled with static. A bowl of polished stones sat on the dresser, each one catching light.
@@ -181,6 +437,98 @@ Annabeth pushed off the doorframe, smiling. "Yes, ma'am."
 Outside, the porch boards burned warm through Percy's socks. The repaired shirt folded over his arm felt light as paper. Grown-up shirt. He ran his thumb along the new seam, tight and even.
 
 ---
+
+Silena stopped Percy at the porch steps before he could leave the Aphrodite cabin.
+
+"One more thing," she said, holding a folded square of cloth.
+
+He turned. "Another shirt?"
+
+"No. Look."
+
+She opened the cloth to reveal a pattern she'd been drawing for weeks, a coat with a short fitted front, a longer back and a series of adjustable seams along the shoulders. It was more complicated than the straight repair she'd just made to Percy's camp shirt. The drawings were full of notes about movement, weight and whether the wearer could reach a sword without the fabric catching.
+
+"Who is it for?" he asked.
+
+"That's what I'm trying to decide. I want something campers could wear outside the arena that still works when they have to move quickly."
+
+"Sounds like armor."
+
+"It's not armor. It's clothing that doesn't get in the way of armor."
+
+He studied the diagram. "Can you make it?"
+
+"I can make a first version. I'm borrowing the sewing station for a week."
+
+"Then make it."
+
+She smiled, but not as if he had given her permission. "I intend to."
+
+Percy touched one of the pencil lines. "That seam might pull if someone reaches behind them."
+
+"Which is why I need a test wearer. Someone who actually reaches behind himself to draw a sword."
+
+He started to volunteer. Silena raised a finger.
+
+"Before you say yes, I'm not asking you to stand around whenever I feel like measuring. I want two scheduled fittings, and I need feedback. Real feedback, not 'looks nice' because you love me."
+
+"I can do that."
+
+"Are you certain? You have arena training and canoe lessons and everything else."
+
+"I have time."
+
+"Then tell me when, so I can plan my work."
+
+She handed him a small card with two proposed afternoons. Percy realized she'd asked Clarisse the same thing and had been told to write it down rather than shout for somebody across the cabin. He chose one of the dates and put the card in his pocket.
+
+"Can I ask you something?" he said.
+
+"Go ahead."
+
+"Is this something you want to do after camp?"
+
+Silena folded the pattern with care. "Maybe. I don't know what being sixteen is supposed to make me choose. I like making things that fit people properly. I like that there are ways to solve a problem other than swinging something hard at it. I don't like when everybody assumes that means I want to sew for them all the time."
+
+Percy felt the words more keenly than he'd expected. She'd just spent her midday fixing his shirt. She could have been working on her own coat.
+
+"You could have told me to do it myself."
+
+"I could. I wanted to make this repair. It was your birthday."
+
+"And tomorrow?"
+
+"Tomorrow you can learn to thread a needle without asking me to do it."
+
+"Harsh."
+
+"Educational."
+
+She laughed. He helped her move the fabric rolls back into the storage chest so the Aphrodite cabin's owner could reclaim the worktable. She didn't need his approval, and she didn't need to become his unpaid tailor to prove she loved him. The difference felt obvious once she'd said it aloud.
+
+As he left, he heard her arguing cheerfully with a friend over whether the coat should have hidden pockets. Percy was glad he hadn't stayed to settle it. He didn't know anything about sewing pockets, and his sister had people she wanted to work with on her own terms.
+
+Annabeth caught up with him on the path, an apple tucked under one arm.
+
+"What's in your pocket?" she asked.
+
+"A schedule."
+
+"What's the occasion?"
+
+"Silena's making a coat."
+
+"For you?"
+
+"Not exactly. I'm a test subject."
+
+Annabeth looked pleased. "Then listen when she tells you something doesn't fit."
+
+"I always listen."
+
+"You always hear. Those aren't identical."
+
+He pretended to be injured by the distinction. She took his hand and guided him toward the pine, where Thalia was waiting. Percy had thought his birthday might prove he had become somebody new. Instead it was turning into a day of discovering what everybody around him wanted to become.
 
 Pine needles carpeted the hill to the Fleece pine in a thick rust mat.
 
@@ -240,9 +588,194 @@ Annabeth closed her notebook with a snap. "Finally. Took him long enough."
 
 ---
 
+Tyson was waiting outside Cabin Three when Percy returned from the hill. He had a roll of paper tucked under one huge arm and a bundle of wooden offcuts tied with string in the other hand.
+
+"I need your opinion," he said.
+
+Percy looked toward the cabin door. "Is something broken?"
+
+"Not yet."
+
+"That's reassuring."
+
+Tyson spread the paper over the porch railing. It was the latest drawing of the foldaway guest bunk, the one they'd discussed the day before at the palace. He'd corrected the hinge line so it wouldn't strike the window latch. The new design also included a small storage space beneath the mattress, not for swords or trophies but for ordinary things: socks, tools, a spare book.
+
+"That wasn't on the first plan," Percy said.
+
+"Guests need places for their things. I have things."
+
+"You can keep things here."
+
+"Sometimes." Tyson tapped the drawing. "Not when I am in Atlantis. Somebody would move them."
+
+Percy was about to say none of his sisters would do that without asking, then realized how many times they'd reorganized the cabin between one visitor's arrival and the next. The room belonged to its daily occupants. That didn't make Tyson's belongings unimportant. It meant a visiting brother needed a plan that worked even when he wasn't there to argue for himself.
+
+"Could we give you one shelf?" Percy asked.
+
+Tyson's eye brightened. "A shelf that stays mine?"
+
+"If the others agree."
+
+He could have made the promise unilaterally. He was the younger prince of Atlantis and a son of Poseidon; people had accepted far stranger declarations from him. But Clarisse and Silena actually lived here. Percy didn't get to dispose of their space without asking, even for a brother he loved.
+
+They carried the drawing inside. Clarisse sat at the worktable sharpening a practice blade; Silena had the pattern for her new coat laid out beside a bowl of pins. Percy asked whether they could clear one shelf for Tyson and build the guest bunk to fold against the wall when unused.
+
+"Which shelf?" Clarisse asked.
+
+"The one by the fountain."
+
+"That's where I keep the armor oil."
+
+"We could move that," Percy said.
+
+"To where?"
+
+Tyson laid out the offcuts and showed them how the new hinge would free enough floor space for a narrow cabinet. The cabinet could hold Clarisse's oil and Silena's extra sewing boxes while leaving the upper shelf for the guest who returned from the forge. He hadn't just designed a bed. He'd measured what each person already needed.
+
+Silena leaned over the plan. "That space is too narrow for my largest box."
+
+Tyson checked the width, then amended it. He looked pleased by the correction.
+
+"Could you put a lock on the guest drawer?" Clarisse asked.
+
+Percy looked up. "For Tyson?"
+
+"For anyone using it. If somebody visits for two nights, I don't want a Hermes prank turning their socks into banners."
+
+"I can make a latch," Tyson said.
+
+"Make it one that can be opened from the inside," Silena added. "If anyone gets curious and climbs into the storage space, I don't want them trapped."
+
+Tyson considered. "Good. I will make one."
+
+The four of them talked until the room was full of the sounds of pencil, measuring tape and small arguments. Percy found that he liked being the person who held the ruler while somebody else drew. Tyson knew more about the strength of the hinges; Clarisse knew how the room worked when half the occupants were rushing out for drills; Silena knew what it meant to lose a worktable under somebody's armor. No single opinion solved the problem.
+
+At one point Tyson proposed raising the bunk higher than Percy's head. Clarisse asked how anyone was supposed to climb into it. Percy offered to use a ladder. Silena pointed out that the ladder would block the door. Tyson laughed, erased the high line and put the bunk back where an ordinary person could reach it.
+
+When they'd settled on a version worth testing, Percy offered to take it straight to the forge.
+
+"Not yet," Clarisse said.
+
+"Why?"
+
+"Chiron has to approve changes to the cabin. We can't just bolt a new bed into the wall because it looks good on paper."
+
+Tyson nodded without disappointment. "I can build a small model first."
+
+"That's a better plan," Silena said.
+
+They agreed that the model could be tested on the porch without attaching anything to the cabin itself. Percy would ask Chiron for a review, but Tyson would present the design. It was his work, and Percy didn't need to stand beside him pretending it was a princely commission to make people take it seriously.
+
+Later Tyson rolled up the paper. His visit was due to end the next morning, when the undersea escort returned him to the forges. He would take the measurements with him and build a prototype there. The bunk would not exist merely because Percy wanted it to. It would take time, and the people who had to use it would have to agree.
+
+"Are you sad?" Tyson asked him as they returned the offcuts to their bag.
+
+"A little. I wish you could stay longer."
+
+"I like the forges."
+
+"I know."
+
+"I like visiting too."
+
+"I know that, too."
+
+Tyson pressed a broad palm to Percy's shoulder. "Then I can like both things."
+
+Percy smiled. He had spent the past year learning to live with two homes and more family connections than he could count. It should not have surprised him that his brother wanted the same freedom, on his own terms.
+
+"Will you send the model when it's ready?" he asked.
+
+"Yes. You can test it. Do not sit on the hinge."
+
+"Wasn't planning to."
+
+"You sat on the first one."
+
+"It looked like a bench."
+
+"It said hinge."
+
+"Very small letters."
+
+Tyson roared with laughter. Silena looked up from her sewing and warned them not to shake the table. Percy helped gather the last pieces of wood and swept the sawdust from the floor before Clarisse could accuse him of leaving another project unfinished.
+
+When he went out again, he had a date written beside Chiron's name on the cabin notice board. His birthday had become a day when other people's plans mattered as much as his own. He didn't feel cheated by that. It made the place more like a home.
+
+The day had one last chore for Percy.
+
+At the equipment shed, Clarisse found him putting away the practice shield he'd used that morning. The strap had a torn stitch near its edge. He might not have noticed it if she'd let him hang the shield immediately.
+
+"That needs fixing," she said.
+
+"I can do it."
+
+"Can you?"
+
+"Silena taught me."
+
+"Then ask her to inspect your work. That leather's been stretched."
+
+He carried the shield to the sewing table where Silena was sorting thread. She showed him how to add a reinforcing strip on the inside rather than pulling the old stitches tight around the weakened hole. Percy's first line wandered badly. He removed it and tried again.
+
+By the third attempt, the strap held. Silena tugged it sharply, checked the buckle and said he could take it back for inspection.
+
+Clarisse tested the grip with her forearm. "Good enough to put back in service."
+
+"High praise."
+
+"Don't get used to it."
+
+She made him record the repair in the equipment log. The signout sheet showed another camper had used the shield in the previous training session, and the damaged strap might have been overlooked for days if nobody had checked it. Percy added the date and the materials they'd used.
+
+"Does every birthday involve paperwork?" he asked.
+
+"Only the good ones," Clarisse replied.
+
+He returned to the cabin to wash the thread marks from his fingers. Annabeth arrived a few minutes later carrying a lake chart and asked whether he still wanted to take the canoe out after dinner.
+
+"Yes. With actual permission this time."
+
+"I wasn't going to let you steal it."
+
+"I was going to borrow it in a very charming way."
+
+"Then we can charm the dock watch into signing it out."
+
+They went together to the equipment board to read the evening restrictions. The counselor on watch told them a buoy had moved in the earlier squall and asked them to return when the replacement route was confirmed. Percy looked disappointed, but Annabeth said they could wait for the updated chart.
+
+It was a small task, not the sort of thing anyone would put in a birthday speech. But Percy was learning to enjoy doing something carefully without turning it into a heroic test. A shield with a repaired strap and the prospect of an hour on the lake with Annabeth were ordinary enough to suit him.
+
+
+---
+
+At the canoe shed, the evening watch almost refused to sign Percy and Annabeth out. The day's earlier squall had blown a marker buoy away from its usual position, and the replacement wasn't yet secured.
+
+"We can take the inner course," Annabeth suggested.
+
+"The inner course is still marked," the counselor said. "But you have to stay inside the northern turn. And return before dark."
+
+Percy looked at his birthday ribbon still tied around his wrist. Yesterday he might have taken the warning as an invitation to prove he could navigate without markers. He knew this lake better than almost anyone. He also knew Annabeth was perfectly capable of telling him when his confidence had become arrogance.
+
+"Fine with me," he said.
+
+She asked to see the updated chart. The counselor showed her the temporary marker on the north bank and the section that was closed. Annabeth studied it, then signed next to Percy's name.
+
+The shorter trip meant they wouldn't reach the willow cove before sunset. Percy had been looking forward to showing her the quiet part of the shore, where the reeds made the world sound distant. He was disappointed, and he didn't disguise it.
+
+"We can go tomorrow," Annabeth said.
+
+"That's not my birthday."
+
+"Tomorrow can still be a good day."
+
+He laughed. "Unfairly practical."
+
+They checked the paddles and jackets together. The canoe they chose had a scratch along one side, but its hull was sound and its equipment secured. Percy tucked the revised course note in the waterproof sleeve. He could spend his birthday doing something ordinary without making the ordinary rules stop applying.
+
 Dusk poured honey over the canoe lake.
 
-Percy and Annabeth took out a canoe without asking, paddles shipped quiet, life jackets left folded under the dock bench — a minor rule broken in the name of birthday privilege. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
+Percy and Annabeth signed out a canoe from the evening dock watch, checked their paddles and fitted their life jackets before they pushed off. Birthday or not, the lake rules still applied. Water lapped the hull in soft tongues. The wood smelled of varnish and old rain. Dragonflies skimmed, wings ticking.
 
 They drifted to the middle and let the paddles rest across their knees. Ripples spread and flattened. The sun hung low over the strawberry fields, orange bleeding into pink. Clouds stacked purple at the edges. The far shore trees stood black-green and still. Somewhere, the dinner conch would sound soon. For now, only water and insect hum and the faint creak of the dock ropes.
 
@@ -345,6 +878,52 @@ Percy rested his hand beside hers, close enough that lake-cold fingertips brushe
 "Same speed," he agreed.
 
 Behind them, the sun slipped under. Light flared once across the water, gold to rose to ash. Their twin wakes trailed back toward the dock, widening, overlapping, impossible to tell apart after a few yards.
+
+---
+
+They reached the dock before the last of the light disappeared. The counselor checked the borrowed equipment against the sign-out sheet and asked whether the northern marker had been visible from their turn.
+
+"Yes," Annabeth said. "But the temporary flag is hard to see when you're approaching from the east."
+
+The counselor made a note to move it before the next outing. Percy helped pull the canoe above the waterline and stow the paddles, resisting the temptation to let a small wave do the work for him. A borrowed boat deserved the same care on his birthday as any other day.
+
+At the campfire Tyson was already leading a birthday song at twice the reasonable volume. Silena tried to keep the rhythm with a spoon against her cup. Clarisse shouted the words as though she was calling a charge. Thalia stood beside Annabeth, deliberately singing one note lower than everyone else just to make her sister laugh.
+
+Percy stopped at the edge of the light. He had expected a grander feeling from this second celebration, something that would tell him definitively that he was fourteen now. Instead he felt grateful and a little sore from training, hungry despite the palace feast the day before, and warm all over when Tyson noticed him.
+
+"HE CAME BACK!" Tyson roared.
+
+"I said I would."
+
+"You are good at coming back."
+
+Percy met Annabeth's eyes. She heard more in the words than Tyson intended, just as he did. Neither of them explained. They stepped into the circle, and Percy accepted a paper plate with an uneven slice of cake.
+
+The cake had too much frosting. Someone had painted a trident on top with blue sugar, and the middle prong had leaned sideways as the icing softened in the heat. It was nothing like the elaborate desserts in Atlantis. Percy loved it immediately.
+
+Silena handed him a candle that had already been lit once. "We used this at the practice party. The box ran out."
+
+"Reduce, reuse, birthday," Percy said.
+
+"Don't start."
+
+Clarisse struck a match and relit the wick. Percy looked around before he blew it out. He saw the people who had taught him something that day: the new camper moving his feet on the edge of the circle, the instructor who had listened to the grievance about scheduling, Silena with her own design pattern safely tucked under her arm, Tyson leaning beside his sister as if he could stay in two homes at once.
+
+There was no wish that could make all of that permanent. Percy wasn't going to ask for one. He blew out the candle before the wax reached the frosting and let the cheer rise around him.
+
+When he sat beside Annabeth, she wrote one more line in her notebook, angling the cover away so he couldn't read it yet.
+
+"What's that?"
+
+"Something for when we're older."
+
+"Tell me."
+
+"Not tonight."
+
+He let her keep the sentence. He had known her long enough to understand that some memories felt truer when you allowed the other person to carry a piece of them privately. Her shoulder rested against his while the campfire burned down, and he was fourteen without having to prove anything else before bed.
+
+When the last song ended, Percy carried the empty plates to the washing station. Annabeth took the cups. They didn't race, and they didn't make a game out of being helpful. Once the work was done, they walked to the fork between Cabin One and Cabin Three. She kissed his cheek, reminded him to sleep, and went home to her sister.
 
 ---
 

@@ -439,11 +439,26 @@ His square was in the back cover where it had been since the parlor. Hers was in
 
 Percy went in. Clarisse was at the long table with the winter list and a cup of tea that had gone cold in the shape of a ring, and Silena was at the stove with water on for nobody in particular, and the stove was ticking down into its coals, and the room took him the way it always did, all at once and without comment, and he shut the door on the cold with his back.
 
-Then he opened it again and stood in the frame with the lamp behind him and looked down.
+He opened the door again before the latch settled because a gust had made the porch lamp flare. The glass hood was shut, but the wick had begun burning unevenly and was smoking against the inside of the chimney.
 
-The west path went down the hill in nine amber steps, each one lower and further off than the last, and the tenth burned over his head, and the path came out at the bottom where the road began, and the road ran north into the dark with a quarter mile of it that he could not see and did not need to, because he knew what was on it: a bare post with a hook and a canvas sack on the hook, forty letters and two parcels, all of it quiet, all of it waiting for a truck at six in the morning to lift it down and carry it off the hill for the first time since it had been written.
+"You're letting the heat out," Clarisse said.
 
-Nobody was on the path. The frost was thinking about it. Across the water the hall still kept its light on, because Thursday's swimmers had come and were in no hurry to stop, and somebody laughed in the cedar brake below and then did not laugh again, and the whole of Thursday lay dark and finished on the hill with nine lamps in it and a tenth over a cabin door, and Percy Jackson stood in the doorway of his own family's house and counted them, and went in, and did not leave the door open behind him.
+"The lamp's doing something stupid."
+
+"Then make it stop."
+
+Percy pulled his coat over his shoulders and stepped out far enough to lower the wick. He checked that the chimney was seated in its fitting and that the flame burned cleanly before coming back.
+
+Down the west path he could see the post at the road. The canvas sack was already there with the forty letters and two parcels they'd counted in the parlor that afternoon. The hook looked small from this distance. Percy imagined the runner finding it at six, lifting its weight, and carrying the week's messages farther from camp than he could see.
+
+Silena came to the doorway with a cloth in her hands. "Everything all right?"
+
+"Just the lamp."
+
+She looked up at it. "That chimney needs cleaning after the next delivery. Put it on the slate before you forget."
+
+Percy went in and wrote LAMP GLASS beneath Clarisse's note about the west-path steps. She read it, made a small tick beside the entry, and passed him the dry cloth so he could put it away with the others.
+
+He had nothing left to do for the letters. The people who had written them would wait, and the people who carried them would need a clear path and a working light when morning came. Percy shut the door properly and helped Clarisse move the dry kindling away from the stove.
 
 ---
-

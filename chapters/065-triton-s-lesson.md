@@ -58,6 +58,18 @@ A conch blew from the Big House. Chiron's voice, magically amplified, rolled dow
 
 Triton smiled, sharp and eager. "Then let us see what you little minnows have learned."
 
+Before they left the dock, Triton asked Percy to check the current against the tide chart. Percy had already decided the water would be gentle enough for training, but the chart showed a short period of stronger flow after midday. He had to revise the practice area rather than rely on how calm the Sound looked at seven in the morning.
+
+Annabeth marked the safe boundary while Tyson carried the new chart to Chiron. Triton let Percy explain the change to the trainees himself. It was embarrassing to admit he'd missed something simple. Nobody made a joke. The younger campers seemed happier knowing someone had checked.
+
+"That's the first lesson," Triton said quietly when the others moved ahead.
+
+"I thought breath was the first lesson."
+
+"Breath is easier to teach when everyone arrives alive."
+
+Percy rolled the chart carefully and followed his brother toward the beach.
+
 ---
 
 The beach at eight on an early-April morning was cold enough to make Percy's toes go numb, but by eight-fifteen it was crowded.
@@ -71,6 +83,66 @@ Clarisse had her spear slung across her back and her hair in a tight knot that m
 Silena stood beside her in a blue windbreaker, her dark hair braided back, a practice short sword in her hand that she held like it might bite her. Silena was daughter of Poseidon and everyone still underestimated her, which Percy thought was insane because he had seen her talk a Cyclops into putting down its club last summer just by being kind and firm at the same time.
 
 Triton stood barefoot in the wet sand in a plain sea-green tunic now, his armor stacked neatly by the dunes, his trident planted upright beside him. Without the bronze he looked younger. More like Percy's brother and less like a statue.
+
+The first interruption to the morning lesson came from a child who wasn't participating.
+
+A camper from the Hephaestus cabin approached the beach with a bucket of spare buckles, two poles and a complaint about the location of the practice rack. She was younger than Percy and had been sent to retrieve a set of metal fasteners that had been left out overnight.
+
+"Nobody told us the training was moving here," she said. "Those are for the boat storage racks."
+
+Triton looked toward the old rack. It sat on the outer edge of the practice ground, well outside the surf, with three spears and a box of leather straps propped against its legs.
+
+"Your camp owns the equipment," he said. "Collect what you need."
+
+The girl hesitated. Several older campers were watching. Percy realized how easy it would be for her to stand there until the sea god finished speaking, then leave without the parts she had come for.
+
+"Do you want help carrying them?" he asked.
+
+"I want the list," she answered. "Somebody took the inventory sheet off the rack."
+
+Clarisse had it folded in her pocket. She handed it over without making an argument. The girl checked the numbers, counted the buckles and found that two were missing. Silena offered to look in the equipment crates while the others prepared to train.
+
+Triton stood back.
+
+"Is this a usual part of combat instruction?" he asked Percy.
+
+"No," Percy said. "But everything at camp seems to need a buckle eventually."
+
+"Then you should have enough."
+
+Percy thought his brother was joking. Then Triton asked the younger camper which type of metal would survive saltwater exposure. She gave him an answer about bronze fasteners and protective oil, followed by a longer explanation of why the hinges on the boat racks were corroding. Triton listened more seriously than Percy expected.
+
+"Do the palace forges have a material that holds up better?" she asked.
+
+"Several. But they cost more, and some are difficult to work without a submerged furnace. Do you have the drawing?"
+
+She produced a folded diagram. Triton examined it and suggested a fastening change that would make the rack easier to repair rather than simply adding more expensive metal to it. The girl made a note, then asked whether she could bring the design to Tyson later.
+
+"Of course," Tyson said, delighted.
+
+Percy was struck by the way the conversation had changed the beach. For a few minutes nobody was a prince, an instructor or a hero. The child had a mechanical problem, and the people around her were helping work it out without pretending the answer would be obvious.
+
+They found the missing buckles under a tarp. Silena counted them again and handed the bucket back.
+
+"Thank you," the girl said.
+
+"You're welcome," Silena replied. "Can you let us know if the new fastening design works?"
+
+"I'll test it. I won't promise until I know."
+
+Triton looked pleased.
+
+"An admirable answer."
+
+The girl walked back toward the workshop. Percy watched her go and wondered how often he'd been impatient with people who interrupted his training for ordinary work. He could practice for hours and still need somebody to keep the boats from falling off their racks.
+
+Triton returned to his place by the surf.
+
+"Where were we?"
+
+"About to get humiliated," Clarisse said.
+
+"Yes," Triton answered. "A traditional place to begin."
 
 "Atlantean combat," Triton announced, "is not surface combat that happens to get wet. It is a different element. On land you fight gravity. In the sea you negotiate with it."
 
@@ -135,6 +207,98 @@ Percy stuck his tongue out at him when Triton turned. Clarisse saw and snorted s
 They all sat down laughing in the wet sand, gasping salt air.
 
 "Again," Triton said, but there was a smile tugging at his mouth.
+
+---
+
+The breathing bubble lesson did not end with everyone laughing in the sand.
+
+Triton made Percy build another bubble, this time without telling him who it was for. He kept Clarisse and Silena outside the first ring of water and asked a younger Apollo camper to stand at the edge with a dry practice rope.
+
+Percy looked toward Chiron.
+
+"She can't breathe underwater," he said.
+
+"That is true," Triton answered. "What does that tell you?"
+
+"That I shouldn't test whether my bubble works by putting her under the sea."
+
+Triton nodded. "Exactly."
+
+The camper relaxed. She had been watching the sphere with the sort of expression Percy remembered from his first attempt to breathe underwater in Atlantis. It was one thing to believe a god's son could make an air pocket. It was another to entrust your lungs to it.
+
+"We'll stay on dry sand," Triton said. "You're going to move the bubble around three marked posts. Clarisse and Silena may step inside when they choose. Nobody else is required to enter it."
+
+Percy accepted the condition. He'd been so eager to demonstrate the trick that he hadn't thought to ask whether anyone wanted to experience it. The fact that he could hold air in a sphere didn't make the sphere comfortable or safe for people who didn't understand what it was doing.
+
+The first route looked easy. Three wooden posts stood in the sand, each marked with a colored strip. Percy had to move the bubble over the first post, turn it around the second, then let it settle over the third without touching the ground.
+
+He made it halfway before the sphere tilted and swallowed a gust of wind. It didn't burst. It shrank toward the side where he was standing and pushed Clarisse's shoulder against Silena's.
+
+"Stop," Silena said.
+
+Percy stopped. The bubble opened and dissolved into harmless mist.
+
+"Why stop?" Triton asked.
+
+"Because we didn't have enough room," Silena said. "It wasn't hurting us. It was making it harder to move."
+
+"Good. Was Percy aware of the change?"
+
+Percy shook his head. He'd been staring at the posts and the water, not at the people inside it.
+
+"Then his first job on the next attempt is not to move the sphere," Triton said. "It's to listen."
+
+Silena suggested a pace. She would call when they were ready to turn, and Clarisse would check that their boots had space to move. Percy could focus on the shape of the bubble without pretending he knew their positions from the water alone.
+
+The second attempt was slower. They reached the third post without losing their balance. When Percy let the bubble settle and opened it, the air inside smelled of salt and wet wood, but neither sister looked uncomfortable.
+
+"That's better," Clarisse said.
+
+"You make that sound like it surprised you," Percy answered.
+
+"It did."
+
+Triton inspected the path they'd taken.
+
+"Percy, what would happen if you made a much bigger sphere?"
+
+"It would be easier to fit us."
+
+"And harder to control. You'd need more attention and a clear place to release it. Bigger is not automatically safer."
+
+Percy looked at the ordinary posts. He had imagined training with a sea god meant learning to summon enormous walls of water. Instead he was learning that other people couldn't always move at the speed of his powers. It was not as impressive. He was beginning to see how much more useful it might be.
+
+The Apollo camper asked whether she could try standing in the bubble now that she'd watched the others.
+
+"Only if you want," Triton said. "And we won't submerge it."
+
+She nodded. Percy opened the sphere around her in small stages, watching how she reacted before expanding it. She laughed when the air inside felt cooler, but she asked him to stop after a few seconds because the shifting surface made her dizzy.
+
+He stopped immediately.
+
+"Thank you," she said as she stepped away.
+
+Percy smiled. "No problem."
+
+She collected the dry practice rope and went to watch the next exercise with the others. Percy felt oddly proud that the lesson had ended because she asked, not because somebody told him he had failed.
+
+Silena sat on the log and rubbed the wet sand from her hands.
+
+"That's enough bubbles for me," she said.
+
+"You're not afraid of them," Clarisse teased.
+
+"No. I just want dry clothes before lunch."
+
+Triton nodded toward the Sound.
+
+"Now we begin the exercise you came to see. Water whips, controlled strikes and the difference between pulling a current toward you and letting it pull you off balance."
+
+Clarisse sprang up.
+
+"Finally."
+
+Percy looked at the soaked hems of his trousers, then at his sisters. There would be a chance to show off in a minute. For now he was glad they had been allowed to decide when the bubble was finished.
 
 ---
 
@@ -218,86 +382,307 @@ Thalia watched them with a small, knowing smirk and said nothing, which for Thal
 
 ---
 
-After lunch — peanut butter and jelly eaten huddled in blankets while Triton lectured them on rip currents using french fries as visual aids — Triton called Thalia and Annabeth down to the sand.
+At the equipment table, Silena was having an argument about the practice shield.
 
-"Sky," he said. "Your turn. Atlantean combat fails when storms come if sky and sea do not speak. Lightning in water kills everything, friend and foe. Lightning on water, guided — that wins battles."
+The strap had twisted during her spar with Percy. It hadn't broken, but she'd felt the handle turn inside her hand, and she didn't trust the shield to do what she needed in the final exercise. Milo had a spare. It was heavier and sat badly against her wrist.
 
-Thalia cracked her knuckles, electricity sparking blue-white between them. "Finally. Something fun."
+"This is the only other one in your size," he said.
 
-Annabeth hung back, hugging her sketchbook. "I'm — I'm not as strong as Thalia yet. My lightning still goes everywhere when I'm nervous. Chiron says —"
+"Then I need to change the way I hold it," Silena replied.
 
-"Chiron says you are thirteen and learning control," Triton said, not unkindly. "I say you are Zeus's daughter and you will learn faster over water. Come. Stand in the surf. Both of you."
+Clarisse looked over from the next table.
 
-Percy, Clarisse, and Silena sat in a row on the log now, wrapped in towels, watching. Percy tried not to look nervous. He knew what Annabeth's lightning could do when it slipped. He'd seen her blow out every light in Cabin One last month when she had a nightmare about the manticore.
+"Here," she said, taking the heavier shield. "Put your fingers through the second loop. Your grip will sit closer to the center."
 
-Thalia took Annabeth's hand and pulled her into the shallows. The water foamed white around their ankles.
+Silena tried it. The shield dipped toward the ground.
 
-"Okay, baby sis," Thalia said. "Remember what I taught you? Don't throw it. Invite it."
+"That's worse."
 
-"I remember," Annabeth said. She sounded small.
+"It shouldn't be."
 
-"First exercise," Triton said. He raised both hands and pulled a curtain of seawater up, ten feet high, thin as glass, shimmering between the sisters and the beach. "Lightning through water. If you strike wild, the curtain grounds you and no one is hurt. Thalia, demonstrate."
+"It is."
 
-Thalia rolled her shoulders. The air smelled suddenly of ozone and rain. She lifted her palm, and a bolt — thin, precise, forked once — snapped from her hand into the curtain.
+Clarisse reached for it again, and Percy watched Silena pull back.
 
-The water lit up from within, veins of blue-white fire racing through it, beautiful and terrifying. The curtain held. The charge dissipated down into the wet sand with a hiss.
+"I know you're trying to help," she said, "but you aren't inside my arm. It hurts in a different place when I turn it."
 
-The beach erupted. Even Mr. D lowered his newspaper.
+Clarisse stopped. She had been training with a shield almost as long as she'd been holding a spear. Her first instinct was to correct the equipment, not ask why Silena disliked it. Percy recognized the pattern. Clarisse often found something that worked for her and assumed everybody else could manage it with enough practice.
 
-"Show-off!" Connor yelled admiringly.
+"Show me," Clarisse said.
 
-Thalia bowed. "Years of practice."
+Silena held the shield and made a slow turn. The heavy rim pulled her arm downward. She could keep it level by tensing her shoulder, but then her sword arm rose too high. She demonstrated the same motion with the lighter shield, and the difference was immediate.
 
-Triton nodded. "Control. Path. Ground. Again, but hold the charge in the water for three seconds before grounding. Percy — lend her water. Keep the curtain fed."
+"That's what I'm saying."
 
-Percy stood and walked down, shaking out his hands. He stood behind the curtain and fed it, pulling more water up from the Sound, feeling Thalia's electricity buzz against his own water-sense like bees behind glass.
+Clarisse watched more carefully this time.
 
-Thalia struck again. This time the light stayed, trembling, held in the sheet. One. Two. Three. Then Thalia flicked her wrist down and the light sank into the sand.
+"Fine. You need the lighter one."
 
-"Yes!" Annabeth bounced on her toes. "The resistance — it's like the water holds it if you keep the salinity even! Thalia, did you feel —"
+"Milo says there isn't another."
 
-"I felt my hair standing up," Thalia said, grinning. Her ponytail was indeed frizzing. "Your turn, Annie."
+"Then we'll ask the armory."
 
-Annabeth stepped up. She set her sketchbook carefully on a dry rock — Percy noticed she put it face-down so no one would see the page she'd been working on — and faced the curtain.
+Milo looked pleased not to be the person expected to settle a disagreement between the two older daughters of Poseidon. He found the armory list and checked which shields were out for repair. The light model Silena preferred had three examples in storage, one of which was waiting for a new grip.
 
-She breathed. Percy recognized the rhythm. In-two-three, out-two-three. Silena's rhythm.
+Tyson heard the conversation and offered to bring the repair kit.
 
-She raised her hand. A spark sputtered, died. Another spark fizzled sideways and stung her own wrist. She winced.
+"How long?" Silena asked.
 
-"It's okay!" Percy called before he could stop himself. "Take your time!"
+"Twenty minutes if the parts are here."
 
-Clarisse elbowed him. "Let her focus, Jackson."
+"Then I can practice without the shield until it's ready."
 
-Annabeth closed her eyes. The wind picked up, lifting her hair. Percy felt the pressure change, the way it did before a storm — his ears popped.
+Clarisse nodded. The solution was less dramatic than either of them had expected. They had needed the right equipment, not a lecture about improving their grip.
 
-When Annabeth opened her eyes, they were bright, and she thrust her palm forward.
+Percy sat beside the bench and ate the rest of his sandwich while Tyson retrieved the repair box. Silena examined the strap, marked the worn place and handed the shield to Milo with a note explaining what had moved during the exercise. Then she joined Percy on the bench.
 
-Lightning — thinner than Thalia's, wobblier, but true — lanced into the water curtain. The curtain flared gold-white. Annabeth gasped, stumbled, and the charge wobbled toward the edge —
+"You weren't listening when I called your left side earlier," she said.
 
-"Ground! Down!" Triton and Thalia shouted together.
+"I was listening."
 
-Percy was already moving. He yanked extra water up under the weak spot, thickening the curtain, giving the lightning more path, and Thalia caught the edge with her own hand and dragged it down into the sand. The whole curtain exploded into steam with a crack like a firework.
+"You moved before I finished the sentence."
 
-Silence. Then the smell of hot salt.
+"That still counts as listening."
 
-Annabeth stood panting in the steam, her hand shaking. "Did I — did I get three seconds?"
+"No, that's hearing the beginning and guessing the end."
 
-"One and a half," Triton said. "And you nearly took your boyfriend's eyebrows off."
+Percy laughed, but she didn't.
 
-Percy touched his eyebrows to check. "Still there. Good job, Wise Girl!"
+"I don't want to spend tomorrow asking whether you heard me," Silena said. "You have to acknowledge the signal before moving."
 
-Annabeth laughed, shaky and exhilarated, and Thalia grabbed her in a headlock and rubbed her knuckles on her head while blue sparks snapped harmlessly off both of them.
+Percy swallowed the last bite of sandwich. "Okay."
 
-"You did it!" Thalia shouted. "One and a half seconds of sky-sea! Dad would — Zeus would be —" She stopped, throat working. "He'd be proud. I am proud."
+She looked surprised he hadn't argued.
 
-Annabeth hugged her back hard, face buried in Thalia's jacket. Over Thalia's shoulder, her eyes found Percy's. He gave her two thumbs up, dripping wet, grinning like an idiot.
+"Okay?"
 
-Triton let the steam clear. "Good. Very good. Rest. In an hour, you face me."
+"Yeah. I nearly ran into Clarisse on the first pass. You were right."
 
-Clarisse cracked her neck. "All of us? Against you?"
+Silena sat back.
 
-"All of you," Triton said. "Together. Atlanteans do not duel when they can drown you as a choir. Show me you have learned to sing."
+"Good."
 
+Clarisse came over with a spare bandage tucked into her belt.
+
+"I heard that," she said.
+
+"Of course you did."
+
+"You could say it again when the others are here."
+
+"No."
+
+She grinned, then looked at Silena's empty shield hand.
+
+"Still waiting?"
+
+"Tyson's fixing the grip."
+
+"Then you can practice with me without a shield. I want to see whether your footwork is what made Percy miss."
+
+Percy looked offended. "You just want to practice hitting me later."
+
+"Also true."
+
+They moved a few paces away from the table. Clarisse held her spear at rest and demonstrated the movement Silena had used in the surf: a small shift of the front foot that changed the line of attack without a dramatic leap or turn. Silena copied it, then corrected Clarisse when she moved too far to the left.
+
+Percy watched them. Their training wasn't about one sister proving she was stronger or another proving she could talk her way out of a fight. They had different skills and a willingness to be corrected by one another, at least when nobody in the audience decided to make the conversation a competition.
+
+Tyson returned with the shield before their break ended. He had replaced the worn strap with one cut from the approved stock and checked the buckle twice. Silena tried it, turned, raised her sword and smiled.
+
+"That's right."
+
+Milo recorded the repair date. Clarisse returned the spare heavy shield to storage. Percy helped wipe the grit from the workbench so the next person wouldn't set a clean blade on sand.
+
+Triton came to inspect the equipment just as the others gathered for the afternoon exercise.
+
+"Ready?" he asked.
+
+Silena lifted the shield and tested its balance.
+
+"Ready," she answered.
+
+Percy noticed she'd waited until she actually was.
+
+---
+
+After lunch, Triton called the Grace sisters to the dry training area beyond the tide line.
+
+He had spent the break working with Chiron and two Hephaestus campers to set up the practice ground. Percy had expected another curtain of water. Instead he found wooden platforms, a line of colored flags, a copper target fixed to a high stand and a broad exclusion zone that nobody was permitted to enter.
+
+"What's all this?" Thalia asked.
+
+"An attempt to keep my youngest brother alive," Triton said.
+
+Percy looked toward Annabeth. She had gone still.
+
+Triton noticed.
+
+"I have read Chiron's account of your first day beyond camp," he said. "You combined water and lightning while standing near wet ground. One of you was burned and another nearly struck. I don't intend to repeat that mistake for the amusement of spectators."
+
+Thalia folded her arms. "We learned from it."
+
+"Good. Then you won't object to showing me what you learned."
+
+He walked them through the plan. The target was far from the water, isolated from the training line, and attended by adults responsible for its safeguards. Any electrical practice would be limited to controlled sparks under direct supervision. They would not send charges through a seawater wall or into the ground where other campers stood.
+
+Percy waited for a loophole. Triton didn't offer one.
+
+"Lightning and water can work in the same battle," the older brother said, "but that doesn't mean they belong in the same place at the same moment. Sometimes the useful skill is knowing whose turn it is."
+
+Annabeth opened her sketchbook and drew the positions. The water line was marked in blue. The dry platform was a rectangle at the far end. The target had its own shaded exclusion area, which she crossed twice to make sure nobody mistook it for a place to stand.
+
+"Who's in charge of calling stop?" she asked.
+
+"Anyone who sees a problem."
+
+"Even if it's Percy?" Clarisse called from the log.
+
+"Especially Percy," Triton answered.
+
+Percy made a face. "I'm right here."
+
+"Then listen while you're here."
+
+The first exercise used no powers. It was a movement drill.
+
+Percy and Silena held colored flags representing two water barriers. Clarisse moved between them with a practice shield. Thalia called directions from the left, while Annabeth stood beside the dry platform with a wooden marker that represented a controlled electrical attack. The goal was not to strike anything. It was to establish an unmistakable signal for when the wet team was clear.
+
+On their first attempt Percy moved too slowly.
+
+"Clear!" Annabeth called.
+
+"Not clear," Silena said at once. Percy's flag was still inside the marked crossing.
+
+They stopped.
+
+Percy looked sheepish. "I thought I had another step."
+
+"That's why we have signals," Annabeth replied. "I can't read your mind."
+
+Triton nodded. "Again."
+
+They tried with shorter phrases. *Moving.* *Clear.* *Hold.* *Stop.* Chiron insisted that each command have one meaning. Thalia wanted *hold* to mean prepare an attack; Annabeth wanted it to mean pause where you were. They argued briefly, then agreed to use *ready* for preparation and *hold* for an actual pause.
+
+Triton watched the disagreement with satisfaction.
+
+"Better to argue over words here than over bodies later," he said.
+
+On the third attempt the flags moved into place, Clarisse cleared the crossing and Annabeth waited for every person to acknowledge the signal. She raised the marker only after the last response.
+
+"Clear," she said.
+
+"Ready," Thalia answered.
+
+"Proceed."
+
+Triton tapped the target with the end of his staff.
+
+"That is a successful attack," he said. "Nothing spectacular happened, because all of you got out of its path first."
+
+The Stolls, who had been hoping for an explosion, looked cheated.
+
+Annabeth looked relieved.
+
+They took a short break while Chiron reviewed the positions. Percy found himself beside Thalia, who was drinking water with one hand and sketching the flag movements in the sand with the other.
+
+"Do you think he trusts us?" Percy asked.
+
+"He trusts us to learn," Thalia said. "That's different from trusting every idea we have."
+
+Percy considered the difference. He liked Triton more when the older god argued with him directly. There were fewer hidden tests that way.
+
+The second exercise added small powers but kept the areas separate.
+
+Percy raised a low seawater shield along the surf line while Silena directed Clarisse through a route behind it. He wasn't allowed to move the wall if that would cut off an escape lane. Thalia used a short gust of wind to move hanging markers across the dry platform, demonstrating how visibility could change without any lightning at all. Annabeth practiced calling when the water team could safely lower its shield, leaving an unobstructed view toward the distant target.
+
+The timing took longer than Percy expected.
+
+Sometimes Clarisse moved so quickly she crossed the lane before Silena finished speaking. Sometimes Percy focused on keeping the water smooth and stopped listening to the commands. Once Thalia created enough wind to blow Annabeth's notes off the table. They spent several minutes chasing paper across the grass.
+
+"This is embarrassing," Thalia muttered.
+
+"Nobody got hurt," Annabeth answered. "That's an acceptable kind of embarrassment."
+
+They began again.
+
+At last the groups cleared the route correctly. Annabeth signaled that everyone was outside the exclusion area, and the supervising adults confirmed the target was ready. She lifted one hand and produced a tiny spark toward the protected apparatus.
+
+The spark reached the target and faded. There was no great flash. No thunder. A small indicator changed color to show the attempt had registered.
+
+Annabeth stared at it.
+
+"That counts?"
+
+"It counts," Triton said. "You decided when not to use your power first. The spark was the easy part."
+
+Thalia grinned. "I could make a bigger spark."
+
+"Yes," Triton answered. "That is not what you are being asked to demonstrate."
+
+Silena laughed. Thalia rolled her eyes, but she was smiling too.
+
+Triton offered Annabeth one final attempt, this time with an unexpected delay. Percy would have to move his water wall out of the way, and she had to wait until the route was clear. He would not tell her exactly when.
+
+Annabeth took her position.
+
+Percy lifted the wall. The Sound moved against his ankles as he guided it along the marked line, well away from the dry platform. Silena called the changes. Clarisse moved behind the barrier with the shield. Thalia used wind to make the markers swing, reducing Annabeth's view.
+
+For one moment the opening appeared.
+
+Annabeth raised her hand.
+
+Then she noticed Percy was still lowering part of the wall. The water was farther from the target than it had been during the quest, but the agreed safe route wasn't yet complete.
+
+"Hold," she said.
+
+Percy stopped moving.
+
+The moment passed. The opening vanished.
+
+"Why didn't you fire?" Triton asked.
+
+"Because the route wasn't clear."
+
+"Would you have hit the target?"
+
+"Possibly."
+
+"Would that have made it a good decision?"
+
+Annabeth shook her head.
+
+Triton let the markers swing back. Percy moved the rest of the water clear. Silena confirmed the position, and Thalia called that the dry area was ready.
+
+Annabeth waited for the final acknowledgement and produced another small spark. It registered cleanly.
+
+"Good," Triton said.
+
+Percy saw Annabeth's hands shaking a little when she lowered them. This time it wasn't from a burn. She had spent much of the day deciding when to act and when not to act, and the restraint had required more concentration than he expected.
+
+Thalia came over and squeezed her shoulder.
+
+"You did it," she said.
+
+"I barely did anything."
+
+"You kept the rest of us from doing something stupid. Believe me, that's work."
+
+Annabeth laughed. The nervousness hadn't quite left her face, but she looked pleased. She had not been asked to match her older sister's strength or prove Zeus would be proud. She'd been asked to make a decision only she could make from her position, and she'd made it correctly.
+
+Triton signaled for everyone to gather.
+
+"An hour's rest," he told them. "Then you face me in the cove. The same restrictions apply: no discharges into shared water, no attacks through an ally's position, and the first person who calls stop ends the exercise. You will win by coordination or not at all."
+
+Clarisse cracked her neck. "All of us against you?"
+
+"All of you."
+
+"Can we still try to make you fall over?"
+
+Triton smiled. "That is the point."
+
+Percy looked toward the low tide, where rocks stood clear above the surf. He could imagine a dozen ways to knock his brother off balance. For once he was also imagining where each of his friends would be standing when he tried.
 ---
 
 The hour passed too fast and too slow.
@@ -332,9 +717,9 @@ Percy sat very still, afraid to breathe wrong and disturb her. The wind moved he
 
 "Yeah?"
 
-"When we spar him — stay close to me? Your water steadies my lightning. I felt it earlier."
+"When we spar him, will you listen when I say hold? Even if you think you see a way to hit him?"
 
-"Always," he said. "I've got you."
+"I will," Percy said. "We don't need lightning and water going through one another again."
 
 She hummed, half-asleep, and her pencil trailed off the page. Percy gently took the sketchbook from her lap before it could slide into the sand and set it on the rock. He draped his towel over her shoulders.
 
@@ -358,131 +743,316 @@ She drank, grinning, and tucked the canteen into her jacket. "Together?"
 
 ---
 
-The final spar took place in the cove at low tide, where the rocks made a natural arena and the water was knee-deep and clear.
+The final spar took place in the cove at low tide, where a low shelf of rock divided a strip of dry sand from the surf.
 
-Triton stood in the center with his trident, barefoot, water coiling around his calves like loyal dogs. He looked every inch the prince now — calm, centered, dangerous.
+Triton had placed white shells around a boundary well away from the water. Thalia and Annabeth would operate from that dry line. No one was allowed to discharge lightning into the sea, even if the instructor himself decided to demonstrate the technique. Chiron reviewed the rule with every camper and assigned Tyson to the exit with a rescue line and two blankets.
 
-Arrayed against him in a loose crescent: Percy with Riptide uncapped, its bronze blade gleaming; Clarisse with her spear and a water whip coiled around her left forearm; Silena with her short sword and a flat disc of water spinning over her other wrist like a shield; Thalia with her bow slung and a spear of crackling lightning in her hand; Annabeth beside Percy with a dagger in one hand and sparks crawling up the other, her stance low and kelp-like.
+"Not because I expect a disaster," he said. "Because a rescue plan is something you make before needing one."
 
-"Team Sparrow," Travis Stoll announced from the rocks, where the whole camp had gathered. "Versus His Barnacleness! Winner gets the last brownie at dinner!"
+Triton planted his trident in the shallow water.
 
-"The kitchen isn't making brownies today, you idiot," Connor said.
+"Win by forcing me to one knee or taking this weapon," he said. "No strikes to the head, no pushing anyone toward rock, and anyone who calls stop ends the exchange."
 
-"Winner gets honor!" Grover bleated.
+"That's a lot of rules," Clarisse muttered.
 
-Triton raised his trident. "Rules. First to force me to one knee, or to disarm me, wins. I will not go easy. If you fall, roll clear. Tyson will pull you out. Begin when the wave breaks."
+"The alternative is another injury," Annabeth answered. "You've read the quest report."
 
-They waited. The Sound breathed in. Out. A wave lifted, curled, broke white on the rocks.
+Silena walked the boundary and assigned positions. Clarisse would engage from the left. Percy controlled a narrow water barrier along the open surf, not through the path of his siblings. Silena stayed behind Clarisse to call changes. Thalia could redirect the practice flags with wind from dry ground, while Annabeth watched all five and controlled the stop signal.
 
-"Now!" Clarisse screamed, and they moved.
+Percy had assumed his job would be attacking his older brother.
 
-It was chaos, and then it wasn't.
+"Why am I making a wall?"
 
-Clarisse charged straight in, spear low, water whip snapping for Triton's legs. Triton sidestepped without looking, caught her spear shaft on his trident and turned her — straight into Percy's rising wave. Percy caught her, lifted her, threw her — not at Triton, but over him. Clarisse twisted mid-air, screaming with delight, and came down behind Triton, sweeping for his back.
+"Because you can make the wall," Silena answered. "And if everybody charges him, he wins."
 
-Triton spun, grinning. "Good!"
+Percy looked toward Triton. His brother was smiling as though he had already heard the plan.
 
-Silena moved like water itself, circling wide, her disc-shield catching the spray Triton threw up and turning it aside. She called openings nonstop — "Percy, left! Clarisse, he's weighting right! Thalia, now!"
+A wave broke across the sand. Clarisse moved immediately. Triton caught her spear on the shaft of his trident and turned her aside. Percy lifted the water barrier and watched Silena call the positions.
 
-Thalia and Annabeth hung back at the edge, hands linked for a second to sync. Percy felt the air tighten.
+"Hold!" Annabeth shouted.
 
-"Percy! Curtain!" Thalia shouted.
+Percy stopped. Triton's weapon had swept toward his knee and Silena was behind him. Another wave could have knocked her down as easily as it could have forced Triton to retreat.
 
-Percy ripped a sheet of water up between them and Triton — ten feet high, trembling. Triton raised an eyebrow, recognizing his own lesson, and braced.
+"Why hold?" Triton asked.
 
-"Annie, on three!" Thalia said. "One — two —"
+"Because the path wasn't clear," Annabeth replied.
 
-Annabeth's lightning hit the curtain at the same instant as Thalia's, gold and blue-white braiding together. The water lit up like sunrise. Percy screamed with the effort of holding it, knees buckling, kelp-not-oak, kelp-not-oak —
+"Correct. Continue."
 
-He threw the electrified curtain forward.
+They tried again. This time Clarisse feinted from the left while Silena drew Triton's attention with her short sword. Percy moved only enough water to block the easy turn. Triton shifted, made a small wave beneath Clarisse's foot and nearly dropped her.
 
-Triton met it with his trident raised and his own wall of water. Light and sea collided with a boom that knocked gulls off the rocks and sent a plume of steam fifty feet high. The shockwave flattened everyone’s hair and filled their mouths with the taste of pennies and salt.
+"Stop," Silena said.
 
-When the steam cleared, Triton was still standing — but he had slid back six feet, his heels dug trenches in the sand, and his trident was smoking.
+Everybody froze. She offered Clarisse her hand.
 
-"Again!" Silena cried, darting in while he was braced. Her sword tapped his vambrace. Clarisse's whip cracked around his ankle. Percy sent a low undertow to pull his feet out.
+"I could have recovered," Clarisse protested.
 
-Triton laughed out loud, delighted, and stomped. The undertow shattered. He spun his trident in a full circle, and a ring of water exploded outward, picking up all three of them and tossing them like driftwood.
+"Maybe. The next strike would've come before you stood."
 
-Percy landed hard, rolled, came up sputtering. Clarisse landed on her feet, swearing. Silena landed in Tyson's waiting arms, giggling.
+Clarisse glared. Then she took Silena's hand.
 
-"Is that all, minnows?" Triton taunted. There was sweat on his brow now. His breathing was faster.
+Percy wondered how many fights they could have avoided if his siblings had been able to pause time whenever they argued.
 
-Annabeth looked at Percy across the churned water. Her hair was standing straight up. Her eyes were fierce. She mouthed: Together?
+Thalia had spent several minutes on the rocks without doing much. She disliked it. She lowered her hands and asked Triton whether a guardian who never entered the surf could honestly be part of the team.
 
-Percy nodded. He waded to her side and put his hand on the small of her back, steadying, feeding her clean water around her feet to ground her. She leaned into him, just slightly.
+"Do what your position allows," he told her.
 
-Thalia saw and grinned ferally. "Oh, I like this. Sky-sea triangle! Silena, call it! Clarisse, be the hammer!"
+She looked at the flags above the cove. A short gust could change their angle without touching the water. Annabeth saw the same thing.
 
-Silena understood instantly. "Percy — wall left! Clarisse — wait — wait — now!"
+"Wait until Silena calls clear," she said.
 
-Clarisse charged. Triton turned to meet her, trident sweeping — and Percy dropped the water under Triton's left foot into a sudden pit while Thalia struck from the right with a bolt that Triton had to catch on his trident.
+Thalia nodded.
 
-The trident, for one second, was busy conducting lightning into the sea.
+The next exchange required three attempts. On the first, Percy moved too quickly and blocked Clarisse's path. On the second, Thalia's wind came early; Triton simply watched the fluttering flags and stepped out of the planned opening. On the third, Silena called ready, waited until every fighter acknowledged, and had Thalia turn the flags just as Clarisse lowered her spear.
 
-That second was all Annabeth needed.
+Triton looked toward the movement.
 
-She ran forward, light on her feet, Percy feeding her a slick of water under her shoes so she slid faster, and she slammed both hands — sparks and all — into the flat of Triton's breastplate where seawater still clung.
+Percy dropped his water barrier, clearing a narrow passage for Silena. She crossed behind Clarisse and tapped the god's trident with her blade. The touch wouldn't have wounded anyone. It did force his grip higher.
 
-The charge grounded through the wet bronze with a sharp crack. Triton's whole body jerked. His knee buckled —
+Clarisse struck from the opposite side.
 
-He caught himself on his trident, one knee hovering an inch off the sand, eyes wide.
+Triton reacted faster than either of them. He caught the spear and started to use its momentum to bring Clarisse over his shoulder. Silena called stop. He released the shaft immediately, and Clarisse regained her footing without having to demonstrate how far a demigod could fall.
 
-Percy saw his brother's face. Saw the choice there. Triton could recover. He could surge up, knock Annabeth flat, win clean. He was stronger than all of them put together.
+Percy was frustrated. They were improving, but every improvement only seemed to tell Triton where to stand next.
 
-Instead Triton looked at Annabeth — thirteen years old, shaking, triumphant, Percy's hand on her back holding her up — and at Percy behind her, and at Clarisse with her spear at his back and Silena with her sword at his throat and Thalia with lightning crackling at his temple, all of them breathing hard, all of them together —
+"Are you ever going to make a mistake?" he asked.
 
-And Triton let his knee touch the sand.
+"Certainly," Triton answered. "The exercise is to make me make one without getting anyone hurt."
 
-The beach exploded.
+Annabeth lifted the sketchbook from the rock where she'd left it. She had been mapping each exchange, and a pattern had emerged in the ink: Triton turned toward whichever fighter created the largest disturbance. He expected a forceful attack. The quieter movements, especially Silena's, reached him later.
 
-"SPARROWS WIN! SPARROWS WIN!" The Stolls tumbled down the rocks. Tyson waded in bellowing with joy and lifted Silena and Annabeth both off their feet. Grover played a wild riff on his pipes. Even Mr. D clapped twice, slowly.
+"He watches the water first," Annabeth said. "Not because he doesn't see us. Because it's usually the most dangerous thing."
 
-Clarisse stood stunned, then threw her spear down and whooped. "We got him! We actually got him!"
+"Then we make the water harmless," Percy suggested.
 
-Silena hugged Thalia, then Clarisse, then Percy, crying a little. "We sang! We sang!"
+"Not harmless. Predictable."
 
-Thalia pulled Annabeth out of Tyson's grip and spun her around. "One and a half seconds to a full discharge! Did you see his face?"
+They set another plan. Percy would raise a smooth wall along the outer cove, slowly enough that Triton could see it forming. Clarisse would remain visible on the left, spear raised but not charging. Silena would take the center while Thalia moved the flags with a light gust. Annabeth would watch the one passage between the wall and the open sand.
 
-Annabeth was laughing and crying at once, her hands still tingling. She turned and found Percy, and without thinking he caught her in a hug that lifted her clean off her feet and spun her once before he remembered they were in front of everyone and set her down fast, ears burning.
+The next attempt began.
 
-"You did it, Wise Girl," he said hoarsely.
+Percy raised the wall. Triton glanced toward it, measured its height and shifted to the opposite side. He was doing exactly what Annabeth had predicted. Clarisse stepped forward. The god turned to meet her, and Percy kept his hands down even when it seemed a wave would help.
 
-"We did it," she corrected, breathless. "You held me up. Literally."
+"Clear," Silena said.
 
-Triton rose slowly, shaking out his stinging arm. He planted his trident in the sand and looked at the five of them — muddy, soaked, grinning — and something in his proud, guarded face cracked wide open.
+"Ready," Thalia answered.
 
-Percy held his breath. Was his brother angry? Had they embarrassed him?
+The flags snapped toward the cove. Triton looked at them, then back at Clarisse. He seemed mildly bored.
 
-Triton walked forward and, to everyone's shock, knelt again — deliberately this time — in front of Percy, and pressed his forehead to Percy's, Atlantean-style, water beading between them.
+Silena moved.
 
-"Well fought, little brother," Triton said quietly, for Percy alone. "You lead like tide. You pull others with you, not under you. I —" He swallowed. "I have not always been a good brother to you. Today you were a good brother to me. You let me lose with honor."
+She had been standing inside Clarisse's shadow. Now she crossed behind Triton's trident and caught its shaft low with the flat of her short sword. He moved to break her grip. Clarisse closed the opening from the other side, her spear braced across the weapon rather than pointed toward him.
 
-Percy's throat closed. Around them the cheering faded to a hum. "You let us win," he whispered.
+Triton could have thrown them both away with another wave. Percy felt water gather beneath the god's heels.
 
-"I let you finish," Triton corrected, with a ghost of his old smirk. "There is a difference. Do not tell the court."
+"Hold," Annabeth said.
 
-He stood and turned to the others, clasping Clarisse's forearm warrior-to-warrior until she stood straighter than Percy had ever seen her. He bowed to Silena and kissed her hand, making her blush furiously while Clarisse gagged. He bumped fists with Thalia, lightning snapping between their knuckles.
+Percy held his wall steady. The water beneath Triton settled because the god chose not to increase the force beyond the agreed limits.
 
-Then he stopped before Annabeth. "Little sky," he said. "May I see?"
+Then Percy drew a small current away from Triton's back foot. It didn't throw him. It made the easy step backward difficult while Clarisse and Silena held his trident at an awkward angle.
 
-Annabeth blinked. "See what?"
+Triton bent his knee to restore his balance.
 
-"The book you have been hiding all day. The one you draw in when you think no one watches."
+The knee touched sand.
 
-Annabeth went scarlet. She clutched her sketchbook to her chest. Percy thought she might refuse. Then, slowly, she opened it and turned it around.
+The spectators erupted.
 
-There was Triton on the page — not the prince, not the statue, but the brother: lunging with Tyson hanging off his waist, laughing; correcting Percy's stance with his foot, exasperated and fond; holding Thalia's lightning in a curtain of water, awed.
+Clarisse yelled loudly enough to frighten the gulls. Silena caught her before she slipped. Tyson waded toward them with the blankets as though victory celebrations were another type of emergency. Grover played three triumphant notes and forgot the rest of the tune because he was laughing.
 
-Triton stared for a long moment. His hand hovered over the page, not touching.
+Percy stared at his brother.
 
-"You see clearly," he said at last, voice rough. "Keep this sight. It is rarer than power."
+"You could have stood back up."
 
-Annabeth tore the page out — carefully, along the perforation — and held it out. "For you. For Atlantis. So they know you taught us."
+"Yes," Triton said.
 
-Triton took it like it was made of glass. He rolled it and slid it into the waterproof case at his belt. "I will hang it in my chambers," he said. "And lie that I am handsomer in person."
+"Then did we win?"
 
-Everyone laughed, the tension breaking like a wave.
+"You met the condition. I could have won by using more strength than the rules allowed. That would have proved only that I am stronger than you."
+
+"We already knew that," Clarisse said.
+
+"Exactly."
+
+Triton looked around the formation: the water wall already lowered, Silena and Clarisse standing safely, Thalia on the dry ledge, Annabeth with the stop marker in her hand. It was a victory that needed all five children, even though only three had been close enough to touch the trident.
+
+"Your great innovation," he told Percy, "was resisting the desire to solve each problem with a bigger wave."
+
+"That's less flattering than you think."
+
+"It is very flattering to anyone who has had to repair the results of one of your bigger waves."
+
+Percy laughed. His brother stepped forward and touched his forehead briefly to Percy's, an Atlantean greeting Percy knew from recent visits and stories, not from memories of an inaccessible childhood.
+
+"Well fought, little tide."
+
+Percy swallowed. "Thanks."
+
+Triton thanked Clarisse for choosing a controlled disarm over a damaging strike, Silena for managing the signals, Thalia for staying in her assigned position and Annabeth for refusing to proceed without a clear path.
+
+Annabeth looked embarrassed.
+
+"I mostly watched."
+
+"You understood what you saw," Triton answered. "That is not mostly anything."
+
+He noticed the sketchbook.
+
+"May I?"
+
+She opened it to the final formation. She'd drawn the figures as they had actually moved, with crossed-out plans in the margin and a clear route to the exit. There was a smaller sketch of Triton correcting Percy's stance earlier that day, looking both annoyed and fond.
+
+The sea god laughed at his own expression.
+
+"You've made my nose enormous."
+
+"It was difficult to fit your ego on the page," Annabeth replied.
+
+Triton looked startled for a moment. Then he laughed harder.
+
+She offered him the drawing as a record of the lesson. He accepted it carefully, rolled it into his waterproof case and promised to display it where the palace tutors could see that surface campers knew something worth learning.
+
+Percy saw the older god look at each of them again. This time he didn't seem like a prince measuring five children against his own strength. He looked like a brother whose students had listened and answered him with something he hadn't quite expected.
+
+The exercise ended with the group walking out of the cove together, rather than anyone being carried out injured.
+---
+
+Triton didn't let them leave the cove until they'd discussed the exercise.
+
+Clarisse had already announced that she was starving. Silena wanted a towel. Thalia wanted to argue that a gust of wind ought to count for more than a flag moving. Percy would have preferred to remain where he was and let the water restore his strength without anybody asking him to explain his choices.
+
+Triton planted the trident on dry sand.
+
+"One thing you did correctly," he said, looking at Percy. "And one thing you'd change tomorrow."
+
+Percy sighed. "I kept the wall out of their way at the end."
+
+"Yes."
+
+"I almost knocked Silena over earlier. I need to listen before moving the water."
+
+"Good."
+
+Triton turned to Clarisse.
+
+"I stopped when Silena called hold," she said at once.
+
+"And tomorrow?"
+
+"I want another way to move if somebody grabs my spear. I keep trying to win the pull instead of changing the direction."
+
+"That can be taught," Triton replied.
+
+Silena went next. Her success had been calling the group's movements clearly enough that even Thalia could hear her from the dry platform. Her difficulty was knowing when to stop giving directions and let someone else decide. During the final pass she'd almost called the same command twice because she didn't trust that Percy had heard it.
+
+"He did hear," she admitted.
+
+"Then tomorrow you should give him room to answer," Triton said.
+
+Thalia raised an eyebrow.
+
+"I kept my electricity out of the water," she said. "And I used wind instead."
+
+"That's two correct decisions."
+
+"And tomorrow I want to do something that isn't standing beside a flag and being told not to make sparks."
+
+Annabeth almost laughed.
+
+Triton considered. "There are ways to read a battle without entering it. We can work on observation from shore, and on using wind to carry signals when ordinary voices won't reach. You might find it harder than throwing a bolt."
+
+"I doubt that."
+
+"Then it should be an easy lesson."
+
+Thalia crossed her arms, but she was smiling.
+
+Annabeth said she'd learned to wait after a clear view opened, especially when the others were still moving. She wanted to practice seeing from more than one position because the rock ledge had given her an unusual advantage.
+
+Triton nodded. "I'll move you for the next exercise."
+
+"Good," she answered.
+
+He inspected her hands. The electrical burn from the quest had healed, but he asked whether she felt pain or numbness after the small controlled spark she'd demonstrated earlier.
+
+"No," she said.
+
+"Then tell Chiron if that changes. Nothing about being a daughter of Zeus makes an injury less worth reporting."
+
+Annabeth nodded. Percy appreciated that Triton hadn't turned the question into a public warning about her being young or fragile. He was treating her as a trainee who had a right to know what symptoms mattered.
+
+"Tyson?" Triton asked.
+
+Tyson looked startled. He'd been standing beside the rescue gear since the start of the spar and seemed to think the review was only for people who had fought.
+
+"Me?"
+
+"You kept the exit clear. What went well?"
+
+Tyson glanced at the ropes.
+
+"Nobody needed rescue."
+
+"Which is not proof the position was unnecessary."
+
+Tyson smiled. "I checked the knot twice. The blankets stayed dry. Tomorrow I can practice helping someone out of the water without carrying them the wrong way."
+
+"Excellent."
+
+The Stolls had been expecting Triton to assign winners and losers. Connor looked disappointed when the god closed the review without declaring Percy the best fighter, Annabeth the best planner or anyone else the most useful hero on the beach.
+
+"That's all?" he asked.
+
+Triton looked at him.
+
+"Do you want a turn?"
+
+Connor backed away. "No, sir."
+
+"Then yes. That's all for today."
+
+The younger campers began collecting the flags. Milo brought a crate for the wooden posts and asked whether he should leave the dry target standing for tomorrow. Chiron instructed him to take it down until the next supervised session. The arrangement had been safe while the staff were watching; it wasn't an invitation for anybody to try it alone at night.
+
+Percy helped carry the posts.
+
+For the first time that day, his brother fell into step beside him without making a comment about posture.
+
+"You were unhappy with me earlier," Triton said.
+
+"A little."
+
+"Because I forbade the lightning-and-water combination?"
+
+"Because I thought you were treating us like idiots."
+
+Triton nodded slowly. "You'd already made that mistake on the quest. I read your report. I should have acknowledged that you'd understood the danger before I began telling you what not to do."
+
+Percy looked at him. Triton rarely admitted an error unless it came with a lecture.
+
+"I still wanted to try something impressive," Percy said.
+
+"I know. You're my brother."
+
+"That's an unfair argument."
+
+"It's a family argument. Those are never fair."
+
+Percy laughed. Together they stacked the posts by the equipment rack, where Milo could count them against the inventory. Triton waited while Percy signed the receipt. Nobody bowed to him or called him prince.
+
+"Does Dad know how today went?" Percy asked.
+
+"He'll hear my report."
+
+"Will it say I learned to stop showing off?"
+
+"Among other things."
+
+"Please put something better in it."
+
+Triton looked toward Silena and Clarisse, who were arguing about whether a spear could be called a dance partner if somebody moved with it gracefully enough.
+
+"I'll say you listened to your sisters," he answered. "That's better than anything about the wall."
+
+Percy couldn't disagree. He signed his name on the last line and returned the pencil to Milo.
 
 ---
 
@@ -500,7 +1070,7 @@ Percy sipped from the canteen — still full of sweet water — and passed it to
 
 Silena yawned. "My arms hurt. My hair smells like lightning. Today was perfect."
 
-Thalia threw a pretzel at Percy. "Hey. Tide. Thanks for grounding my sister. You kept her safe in there."
+Thalia threw a pretzel at Percy. "Hey. Tide. Thanks for actually listening when Beth told you to hold. You helped keep the whole team safe."
 
 Percy looked down at Annabeth, dozing against him, pencil slack in her hand, and felt that warm tug under his ribs again, stronger than any current.
 
@@ -510,7 +1080,17 @@ Thalia's smile was soft and unbothered, sister to him by choice. "I know, little
 
 The sun sank into the Sound, turning the water Triton's green-gold. The tide came in, foaming around their feet, and none of them moved.
 
-They had drawn with a god. They had sung.
+They had forced a god to one knee without repeating the electrical mistake that nearly injured them on the quest.
+
+Before sunset, Percy collected the last practice flags and returned them to the storage crate. He checked the inventory against Milo's list, including the two poles that had been moved to keep the dry safety boundary clear. One rope was missing. Tyson found it tucked under the bench, already wet and beginning to gather sand.
+
+They rinsed it with clean water, hung it to dry and made a note so the next training group would not assume it had been lost. Percy knew a missing rope was unlikely to become the stuff of heroic songs. He also knew Tyson had been standing ready with that rope all afternoon, prepared to help if someone slipped.
+
+When Percy came back to the others, Silena was discussing tomorrow's positions with Clarisse. Annabeth had drawn a revised plan. Thalia was asking whether wind could carry a shouted stop signal across the far cove without muffling the words.
+
+Percy sat down among them, listened to the question and waited for the answer instead of supplying one before anyone finished speaking.
+
+For once he was quite content to learn. It felt different from winning, and different from having someone praise the fact that he was Poseidon's son. He had needed practice to notice the difference.
 
 Tomorrow they would train again.
 

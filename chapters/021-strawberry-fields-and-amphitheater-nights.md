@@ -1,6 +1,6 @@
 ## Chapter 21: Strawberry Fields and Amphitheater Nights
 
-### POV: Percy — Morning, The Strawberry Fields
+
 
 The first thing Percy Jackson learned about strawberry harvest duty was that nobody at Camp Half-Blood woke up cheerful for it.
 
@@ -156,7 +156,7 @@ Percy groaned and Silena laughed, bright as a bell.
 
 ---
 
-### POV: Annabeth — Mid-Morning, Row D
+
 
 Annabeth loved systems. She loved when a plan came together so cleanly you could see it from above like a blueprint.
 
@@ -196,7 +196,7 @@ She picked another berry, perfect and red, and set it gently in the basket. *It'
 
 ---
 
-### POV: Percy — Late Morning, The Great Wheelbarrow Race
+
 
 It started, as most disasters at Camp Half-Blood started, with Clarisse.
 
@@ -300,7 +300,103 @@ She took off. Percy and Annabeth looked at each other, and then they were runnin
 
 ---
 
-### POV: Silena — Lunch, The Shade Tent
+
+
+The harvest ran into trouble before noon, when one of the collection scales stopped reading correctly.
+
+Silena noticed because two baskets of the same size had been recorded at very different weights. The first belonged to Demeter cabin, whose campers had been working steadily since breakfast. The second belonged to a pair from Hermes who had spent half an hour arguing about which strawberries were large enough to count. Neither basket looked light enough to explain the difference.
+
+She checked the scale with an empty crate and found that the needle did not return to zero.
+
+"Stop bringing the baskets here," she called. "We need to check the equipment."
+
+Clarisse arrived with another load and looked at the queue forming behind the tent.
+
+"You're going to make everybody wait because the arrow looks funny?"
+
+"Because the records will be wrong if I don't."
+
+"It's berries. We're not taxing them."
+
+"The kitchens use these numbers to plan how much they'll have for jam and how much has to be sent out. If we record the wrong amount, somebody ends up with more work later."
+
+Clarisse put down her basket. She was irritated but willing to listen, particularly because she'd spent the morning competing with Thalia over whose row was fastest. A broken scale could make the contest meaningless.
+
+"What do you need?"
+
+"A known weight. And someone to tell the others not to keep stacking baskets on the table while I check."
+
+Clarisse went to hold the line. Silena asked Beckendorf for a small calibration weight from the stores, then tested the scale. It was reading nearly a pound low on every load. The error had probably begun when one of the collection carts bumped the table during the morning rush.
+
+The problem was fixable. The records were less so.
+
+Silena turned to Annabeth, who had been helping organize the rows. "Can we identify which baskets were weighed after the scale started drifting?"
+
+Annabeth checked the tally. The first three baskets had been recorded by a different volunteer on a second scale; after that, the handwriting changed and the sequence became less certain.
+
+"We can trace the baskets still here," she said. "The ones already sent to the kitchens are harder. We shouldn't pretend the numbers are exact."
+
+"Then mark the morning estimate separately and use corrected weights for the rest."
+
+Thalia came to the collection tent carrying a basket balanced on one shoulder.
+
+"Why is everybody standing in a line?"
+
+"Because the scale was wrong," Clarisse said. "Silena's fixing it."
+
+Thalia looked at the tally. "Does that mean I lose my lead?"
+
+"It means nobody can claim a lead until we have measurements we trust," Annabeth replied.
+
+"That's inconvenient."
+
+"So is winning a competition based on numbers nobody checked."
+
+Thalia sighed and set down her basket. She'd been treating the harvest like a contest because it made an ordinary chore easier to enjoy. She didn't want her enthusiasm to become the reason the kitchens received less fruit than they needed.
+
+"All right," she said. "What can I do while we wait?"
+
+Annabeth gave her a new task: collecting the empty crates from the far end of the field and making sure the younger campers weren't leaving full ones in the sun. The work had no score attached to it, which made Thalia complain about being assigned to a job nobody would applaud. She did it anyway.
+
+By the time Beckendorf reset the scale, the queue had been reorganized. Silena labeled the uncertain early weights as estimates and asked the kitchen staff to record the actual yield after sorting. The afternoon harvest would be weighed on the corrected equipment, with a second check after every fifth basket.
+
+A younger camper from Demeter approached, looking frustrated.
+
+"Our row was the fastest. We did it properly."
+
+"I believe you," Silena said. "The mistake was in the scale, not in your work."
+
+"Then why doesn't our result count?"
+
+"Because if I put the wrong number beside your name, everybody who reads the record afterward will think you picked a different amount. I'd rather explain the error than pretend your work produced a number we don't know."
+
+The camper thought about this. Silena could see how disappointing it was. He'd spent hours competing and wanted something concrete to show for it.
+
+"Could we weigh the remaining baskets again?" he asked.
+
+"Yes. If they're still here. We'll keep the recorded amount beside the new reading, so nobody has to guess what changed."
+
+They did. The revised total was larger than the first one, and the boy looked pleased enough to go tell his cabin. Silena made sure he understood that the correction had come from a better measurement, not from somebody trying to reward his complaint.
+
+Percy arrived with a handcart from the far rows and found everyone working again.
+
+"Did I miss the great berry emergency?"
+
+"Only the paperwork," Clarisse told him.
+
+"That's the most exciting part."
+
+She took his cart and pointed him toward the shade tent. Silena had been counting baskets long enough that her hands were sticky and her shoulders ached. Percy offered to take over the next shift, which she accepted after explaining the revised rules.
+
+He was careful with the scale. He made one mistake in the tally, caught it when Annabeth checked the sequence and corrected it without trying to conceal the crossed-out number.
+
+At the end of the shift, Silena read through the page. The error was visible. The corrected amount was also visible, with the time and the person who made the change. That was the sort of record the kitchen could use.
+
+She looked toward the field. Thalia and Clarisse were still competing over whose row filled the most baskets, shouting across the paths and laughing whenever somebody tried to cheat by carrying the smaller fruit. The contest had survived the delay. So had the harvest.
+
+
+
+---
 
 Silena Beauregard believed, deeply and sincerely, that any problem could be solved with snacks, shade, and good company.
 
@@ -360,7 +456,7 @@ Percy didn't move. The sun was warm. The air smelled like strawberries. Annabeth
 
 ---
 
-### POV: Annabeth — Afternoon, The Finish Line
+
 
 The afternoon blur passed in a haze of red and green and laughter.
 
@@ -402,7 +498,117 @@ Annabeth and Thalia looked at each other, grinned, and chased him.
 
 ---
 
-### POV: Percy — Evening, The Amphitheater
+
+
+Before the amphitheater opened, Grover found the performance roster lying under a bench near the stage.
+
+It was covered with changes. Two singers had swapped positions, the Hephaestus cabin wanted another ten minutes for its percussion demonstration, and somebody had written *possible rain* in the margin without explaining whether that meant the whole event should be moved inside.
+
+Grover had volunteered to help organize the evening because he liked music. He hadn't anticipated how much of organizing music involved tracking down people who were elsewhere doing something entirely unrelated.
+
+He carried the roster to Chiron. The centaur was checking the stage lamps and looked up when Grover arrived, breathless from the hill.
+
+"What's the problem, my boy?"
+
+"We have three versions of the order. I don't know which one the performers are actually following. And the rain note might mean we're supposed to move all the instruments."
+
+Chiron took the paper. He didn't tell Grover to stop worrying. He asked which changes had been approved and which were only requests.
+
+Grover checked the notes. Most were requests, written by campers who assumed somebody else would make the decision.
+
+"Then we need one person responsible for confirming the final order," Chiron said. "Would you like to help me with that?"
+
+"Yes. But I don't want to tell anybody their song can't happen."
+
+"You can explain the time limits without deciding whether the music deserves to be heard. That's a different job."
+
+Grover nodded reluctantly. He had always imagined being a Searcher as a form of listening to the wild, not negotiating stage schedules. But the people around him needed someone to listen too, and he was better at that than he'd realized.
+
+He started by visiting the Hephaestus group. They were carrying a frame of tuned metal bars up the steps, taking care not to strike them against the stone. The leader wanted to add a longer solo because the rhythm was complicated.
+
+"Could you fit it within the time you already have?" Grover asked.
+
+"Not if we play it properly."
+
+"Then would you rather do the shorter piece tonight and schedule the long one for another performance? If we add ten minutes here, the younger campers won't finish before curfew."
+
+The leader looked disappointed. She had spent days practicing the extra section. Grover could see how badly she wanted people to hear it.
+
+"We can do a short version," she said after a moment. "But I want the long one listed for next month."
+
+"Then let's ask Chiron to reserve the time."
+
+They made the note. Grover returned to the roster and found another problem: the torchlighting team had been assigned to carry instruments at the same time. He changed the order only after asking both groups which task could move without creating more work.
+
+It took longer than making a new list himself would have. That was the lesson. Everybody's request sounded reasonable when he heard it alone. The conflicts became visible only when he put them together.
+
+Near the back of the stage, Annabeth was practicing the first lines of her story to an empty bench. Thalia sat with a notebook, occasionally interrupting to ask whether a character's decision made sense.
+
+"You've changed the ending," Thalia said.
+
+"Only the last part. I want it to fit the point I'm making."
+
+"That's not what the original myth says."
+
+"I know. I'm going to tell people it's my version."
+
+Grover paused in the doorway. He had been planning to ask whether they could move the storytelling slot by five minutes. Now he heard how carefully Annabeth was treating the difference between a traditional account and her own interpretation.
+
+"Do you have time for a question?" he asked.
+
+Annabeth nodded.
+
+"If somebody asks whether your ending is the real myth, will you be okay saying it's an adaptation?"
+
+"Yes. The original version is in the program."
+
+Grover looked at the sheet. She was right. The printed description named the myth and explained that the retelling included a changed conclusion.
+
+"That's useful," he said. "I wasn't sure everybody would understand."
+
+Thalia watched him check the roster. "Are you running the entire performance?"
+
+"Apparently."
+
+"Then you should eat before the music starts."
+
+"I had a strawberry."
+
+"That's a fruit, not a meal."
+
+Grover took the sandwich she offered and sat on the bench for five minutes. Annabeth continued practicing, stopping twice to change a sentence that sounded impressive on paper and awkward when spoken aloud.
+
+He enjoyed listening to her work. She didn't need him to approve the story. She needed an audience who could tell her whether the meaning was clear.
+
+"The ending makes more sense now," he said when she finished.
+
+"Because it's different?"
+
+"Because I can see why the character made the choice. Before, I only knew what happened."
+
+Annabeth looked pleased. She wrote down the distinction.
+
+By the time the torchlighting team arrived, Grover had an agreed roster with names beside each task and a weather decision that belonged to Chiron rather than to the last camper who wrote a note in the margin.
+
+He posted the final order at both entrances, then carried a copy to the stage. If rain did come, the instruments would be moved to the sheltered section, and the percussion demonstration would happen before the most delicate strings were brought out. Everybody knew whom to ask.
+
+Grover stood in the empty amphitheater for a moment. He had expected the reward for his afternoon to be the chance to play the pipes under the stars. Instead he was proud of something quieter: all the people who'd come to him with a problem now had a schedule they could actually follow.
+
+Chiron joined him near the stage.
+
+"Well done," he said.
+
+Grover smiled, then glanced at the last line of the roster. His own solo remained listed.
+
+"Am I still allowed to perform?"
+
+"Of course. Organizing the evening does not mean you must give up the part you came to enjoy."
+
+Grover went to fetch his pipes. The stage lamps were coming on, and the first campers were beginning to find seats. He had enough time to tune the instrument before the music started.
+
+
+
+---
 
 If the strawberry fields were the day's work, the amphitheater was its reward.
 
@@ -462,7 +668,7 @@ Grover blushed to the tips of his horns and bleated, "Thanks — thanks, guys �
 
 ---
 
-### POV: Annabeth — Night, Storyteller's Turn
+
 
 After Grover, Chiron took the stage. "We have a special treat. Two of our youngest campers have volunteered —" he glanced at his list, smiling, "— or been volunteered by Thalia Grace — to tell stories tonight. Annabeth Grace, daughter of Zeus, will share a myth. Percy Jackson, son of Poseidon, will follow."
 
@@ -500,7 +706,7 @@ Thalia shoved Percy toward the stage. "Break a leg, Kelp Head!"
 
 ---
 
-### POV: Percy — Night, Atlantis
+
 
 Percy had never performed on this camp's stage in his younger body. He'd been in front of classes for book reports. He'd stood in principal's offices. But he'd never stood in a stone circle under the stars with torches and hundreds of eyes.
 
@@ -518,9 +724,9 @@ He told them about the markets where mermaids sold pearls for jokes, about the p
 
 He stopped, realizing the amphitheater was dead silent, everyone leaning forward.
 
-"My mom told me a story —" Percy said, quieter now, "— my mortal mom, Sally — she used to say Atlantis wasn't destroyed because the people were bad. She said it sank because the gods needed it to be a secret. Because some beautiful things have to hide to survive. And she said one day, when the time is right, it'll rise again. And the tide gardens will fill. And the lighthouse will light."
+"There was a story about the city I liked," Percy said, quieter now. "That it wasn't destroyed because the people were bad. She said it sank because the gods needed it to be a secret. Because some beautiful things have to hide to survive. And she said one day, when the time is right, it'll rise again. And the tide gardens will fill. And the lighthouse will light."
 
-It was Sally's story from his original childhood, one he could carry into this life even while its living Atlantis lay below the water. He looked up at the stars. "I believe her."
+It was Sally's story in the childhood he remembered, but he didn't have to explain its source to an amphitheater full of campers. He could keep that part private while telling them why the story mattered. He looked up at the stars. "I like that version."
 
 The applause started with Annabeth — on her feet, clapping hard — and spread like a wave. Thalia wolf-whistled. Grover stamped his hooves. Clarisse shouted, "NOT BAD, FISH BOY!" which from Clarisse was basically a love poem.
 
@@ -548,7 +754,7 @@ Thalia, with perfect big-sister timing, threw popcorn at both of them. "Stop bei
 
 ---
 
-### POV: Annabeth — Late Night, Under the Stars
+
 
 Music Night ended with everyone onstage — all the performers, all the cabins — singing the camp song badly and loudly, arms around each other, torches guttering low. Ella sang the soup song again as a descant. Grover played. Mr. D conducted with a breadstick. Even Chiron sang, in a deep centaur baritone.
 
@@ -612,11 +818,86 @@ Annabeth looked back once at the amphitheater, pale stone under starlight, the d
 
 But tonight, with Percy's jacket warm around her shoulders and her friends close and the stars wheeling overhead, Annabeth thought Ella had it exactly right.
 
-Not the end of the story. Just the end of a perfect chapter.
+Annabeth returned Percy's jacket before they reached the cabins.
 
-She wished on one more falling star — quick and silent, before anyone could tell her not to — and walked home under the wide forgetting sky, while far below, the sea remembered every name.
+"Keep it," he said.
 
-*End of Chapter 21.*
+"It smells like strawberries."
+
+"That's what we did all day."
+
+"I know. You can wash it."
+
+He took the jacket. She made it to the Zeus cabin steps before she turned around and saw him still holding it over one arm. He waved. She waved back and went inside to find Thalia asking who had volunteered them for next week's harvest duty.
 
 ---
+
+The next morning, Silena returned to the strawberry collection tent to check the corrected yield against the kitchen's actual sorting record. The head cook had marked the usable fruit, the damaged berries and the crates set aside for preserves. The numbers didn't match the first harvest tally, but they matched the revised measurements closely enough that Silena could trace the difference.
+
+She was pleased. She had spent half the previous day explaining why a working scale mattered, and for a while she'd worried everybody would remember only the delay.
+
+The cook handed her a small jar of jam.
+
+"That's from the fruit your group picked. Taste it before you leave."
+
+Silena opened the lid and tried a spoonful. It was sweeter than she expected, with a little lemon that kept it from tasting like syrup.
+
+"Can I take it to the others?"
+
+"Of course. That's why I gave it to you."
+
+At the pavilion she found Percy helping stack chairs after the music night. Grover was packing his pipes and looked half-asleep. Annabeth was sitting on the steps with the program, marking places where she'd stumbled over a line so she could improve the story if she performed it again.
+
+Silena set down the jam.
+
+"The kitchen finished the yield report," she announced. "We were short on the first scale, but the revised record held up. They have enough for the preserves planned this week."
+
+Percy looked at the jar. "Does that mean we can stop hearing about calibration?"
+
+"No. It means calibration worked."
+
+Annabeth took the sheet and checked the correction. "You have the date and the second reading. Good."
+
+"Of course I do."
+
+Grover dipped a cracker in the jam and made a sound of approval. He had not expected the fruit he'd spent all morning carrying to become something that could be saved for winter. He had been thinking about the Searchers and how much he wanted to be somewhere beyond camp. Now he wondered how often protecting a place began with learning what it produced and making sure the people who worked there were credited properly.
+
+"Did you get the names from the late shift?" he asked.
+
+Silena looked up. "Yes. Why?"
+
+"They came back after the field race, when everybody else went swimming. I didn't want them forgotten."
+
+She turned the record around. Each shift was listed. The late group had gathered fewer baskets, but its work was essential to finishing the harvest before the afternoon heat damaged the remaining fruit.
+
+"They're there," she said.
+
+Grover nodded, satisfied.
+
+Thalia arrived carrying a rolled-up program from the amphitheater. She had been teasing Annabeth about the changed myth ending since breakfast, but she looked serious when she found the group checking records.
+
+"Was the performance order all right?" she asked Grover.
+
+"Mostly. I put one singer too close to the percussion group, so they didn't have enough time to move the instruments. Nobody was hurt, but the stage crew had to rush."
+
+"Then fix it for next time."
+
+"I already wrote a note to Chiron."
+
+Thalia smiled. She hadn't expected Grover to become so proud of the schedule. She remembered how nervous he'd been about playing his pipes in front of everyone. He had done that too, and nobody had taken the moment from him simply because the logistics were difficult.
+
+Annabeth closed her program and looked toward the hills where the field crews were working again. Her own performance had gone well enough that people had asked about the changed ending. She'd explained it was an adaptation, not a newly discovered version of the myth, and some had liked it while others preferred the original. That was a conversation she could enjoy without needing everyone to agree.
+
+Percy passed around the crackers. They ate the jam standing beside the pavilion, still tired from the previous day and not yet ready to begin the next one. There were tools to return, chairs to stack, and a new shift preparing to pick fruit under a sun that would be higher by noon.
+
+The camp didn't stop needing ordinary work because it had managed a good evening. Silena put the record in her folder. Grover took his pipes back to his cabin. Annabeth kept the annotated story for a future performance.
+
+Thalia looked at the jam jar, then at Percy.
+
+"Do you think there's enough for another round?"
+
+"If Clarisse doesn't find it first," he said.
+
+They finished it before she arrived, which produced an argument at lunch and a promise to save her a jar from the next batch. Silena wrote the promise on the kitchen's preserves request instead of trusting Percy to remember. Clarisse inspected the form, found her name correctly spelled and declared the arrangement provisionally acceptable, provided the next jar actually reached her breakfast table.
+
 

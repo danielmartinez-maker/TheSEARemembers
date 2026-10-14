@@ -48,6 +48,44 @@ Thalia exhaled. "Nice."
 
 "It worked," Percy said. "That is the level we are operating at now."
 
+At the edge of the throne room, an usher approached with a slate and asked to see their wristbands.
+
+Percy had expected Hades's court to function like an execution chamber. Instead the usher asked Annabeth to confirm the names on their registrations and told Thalia that, as an accompanying guardian, she could remain with the party but should speak only when invited.
+
+Thalia looked as though she wanted to argue that a sister had no reason to wait for permission to defend her family. Then she remembered the elevator panel and handed over the paperwork without comment.
+
+Percy passed over Sally's welfare petition. The usher read the first line and looked at him differently.
+
+"This is a records inquiry," the usher said. "It does not authorize retrieval."
+
+"I know."
+
+"Then it can be attached to the hearing request if the king elects to hear you."
+
+Percy wondered how often the clerk had said those same words to other children. Her face was not unkind, but her hand had already moved toward the next form.
+
+Annabeth caught the distinction Percy was about to miss. "The inquiry is independent of the stolen-weapon issue, correct? We aren't asking for a bargain in which Percy surrenders evidence in exchange for information about his mother."
+
+"Correct," the usher said. "His petition is addressed to the records office. His presence before the king is a separate matter."
+
+Percy looked at Annabeth with gratitude he didn't put into words. Part of him would have accepted almost any terms if someone had told him he could hear Sally's name spoken by an official who knew where she was. She had made certain he didn't agree to a trade nobody had actually offered.
+
+"Does the king know we're coming?" Grover asked.
+
+"The king knows four living guests have passed the gate. He may choose to receive you or have you escorted back."
+
+Grover read the last line of the visitor conditions and swallowed. "He can deny the petition even after we're here."
+
+"Yes."
+
+"Then why did we have to come all the way down?"
+
+"Because an audience cannot be decided by travelers who aren't standing in the court."
+
+Percy thought of every quest he'd heard about, every story in which a child marched up to a god and demanded an answer. Nobody had mentioned the record office. The system didn't make Hades fair. It did mean there were rules he could choose to break, rules he could choose to enforce and people whose jobs might be endangered if a group of angry children charged past them.
+
+The usher told them the hearing was being considered. A bell sounded beyond the bronze doors. Percy tucked the petition back into his jacket before following the other three into the throne room.
+
 The bronze door swung inward without anyone touching it.
 
 Inside was cold.
@@ -104,11 +142,11 @@ It did not catch like normal fire. It rose straight up from the black stone vein
 
 Grover yelped and stumbled back. Thalia raised her arm against the glare. Annabeth froze for half a breath too long, staring into it.
 
-Percy did not think. He moved.
+Percy moved before he knew what to do. He reached for water beneath the palace, but the river Styx was far too deep and dangerous for him to call like a stream at camp. He could sense moisture in the old stone conduits without knowing whether it would answer him.
 
-He stepped in front of Annabeth and threw both hands up, pulling at the coldest thing he could feel — the deep water in the pipes under the palace, the Styx itself running somewhere below, black and freezing. He had never tried to call that much that fast. His blood sang with it.
+A narrow flow rose from a drainage seam and struck the edge of the hellfire. It flashed into steam. Percy stumbled back before the scalding cloud could sweep over his companions, but he could see how little water had changed the flames.
 
-Water burst up through the seams in the floor in a white curtain, hissing into steam where it met the hellfire. The steam scalded and blinded. Percy planted his feet and held the curtain up with both arms shaking, body between Annabeth and the flame.
+"Back," he shouted. "Everybody away from the carpet!"
 
 "Percy!" Annabeth coughed behind him.
 
@@ -118,19 +156,17 @@ The hellfire pushed. It was not just heat, it was anger, it wanted to burn the l
 
 Then the pressure changed.
 
-A hand closed on his shoulder. Annabeth stepped up beside him, not behind him, into the steam and the sparks, her hair lifting with static. She raised her own hand toward the flames.
+Annabeth stepped beside him, pulled him away from the wet stone and called to Grover and Thalia to move toward the dry section of the entryway. A thin spark ran across her fingers and faded. Zeus had withheld divine assistance, and she was still recovering from the electrical injury on the first day of the quest. Percy remembered the near miss when he'd thrown water into a current of lightning. Neither of them intended to repeat it beside a god's throne.
 
-Lightning answered her.
+"That isn't ordinary fire," she whispered.
 
-It came down from nowhere, from no sky, a white fork that struck her upraised palm and split into a crackling net in front of both of them. The smell of ozone cut through the steam. Where Percy's water curtain hissed and sagged, her lightning net held the fire back, grounding the heat into the stone with sharp pops.
+"I noticed."
 
-They stood shoulder to shoulder in the roar, water and lightning braided together, neither one in front of the other.
+"Don't try to put it out with the Styx."
 
-Percy glanced at her, eyes watering. "I thought I told you to stay behind me."
+"I wasn't going to touch the Styx," Percy said, although he'd felt the temptation.
 
-Annabeth grinned, fierce and terrified. "I thought we were past that. Equal partners, Seaweed Brain."
-
-"Equal partners," Percy agreed, and shifted his stance so his water fed the edges of her net where it thinned.
+Together they backed toward the broad basalt threshold where the flame had not yet reached. The four of them were trapped but still standing. None had claimed control over Hades's element.
 
 Behind them, Thalia had thrown herself over Grover, her leather jacket smoking, her spear baton jammed into the floor. She looked up through the steam at the throne, furious.
 
@@ -138,7 +174,7 @@ Behind them, Thalia had thrown herself over Grover, her leather jacket smoking, 
 
 Silence fell so fast it hurt.
 
-Percy let his water drop. Annabeth let her lightning fade. The last sparks snapped out against the wet stone. The carpet smoldered.
+The little stream Percy had raised slipped back into its seam. Annabeth lowered her hands. The hellfire fell away at Hades's command, leaving the carpet darkened and Percy painfully aware that the god had stopped it because he chose to.
 
 On the dais, Hades was standing.
 
@@ -178,7 +214,7 @@ He sat back down, slowly. The frost on the braziers receded.
 
 Percy lowered his hands. His palms were red and blistered. Annabeth saw and caught one wrist gently, frowning.
 
-"He is telling the truth," Grover whispered, nose twitching. He had inched out from behind Thalia. "I can smell it. No lie. He smells like — like cold earth. Not like lightning."
+"I don't smell the kind of deception Medusa used," Grover whispered, nose twitching. "But that doesn't mean I can certify what he says. He smells like cold earth, not lightning."
 
 Hades glanced at the satyr. "At least the goat has sense."
 
@@ -188,7 +224,7 @@ Thalia did not relax. "Then where is it? Everyone says you have motive. Zeus thi
 
 He lifted one hand. A servant skeleton shuffled forward carrying a velvet cushion. On it was nothing — just the dented shape where something heavy had rested, and a long, empty clasp.
 
-"My Helm of Darkness," Hades said. "Stolen from my own vault three weeks ago. While I slept in my own palace. No god walks in here unnoticed except another god. No demigod walks out alive unless I allow it. And yet it is gone."
+"My Helm of Darkness," Hades said. "Stolen from my own vault three weeks ago. While I slept in my own palace. A god may have had access to the vault, but anyone who helped the thief exploit its records could have concealed a route. I don't yet know who crossed the threshold. And yet it is gone."
 
 Annabeth's breath caught. Percy felt her fingers tighten on his wrist.
 
@@ -220,13 +256,13 @@ Percy felt the pieces slam together so hard his stomach dropped. Red god. Angry 
 
 "Ares," Thalia breathed. "That little—"
 
-"Ares worked with Kronos before," Annabeth said quickly, keeping her voice low for Percy. "I hoped this theft would be different. He hates being told what to do, but he—"
+"Ares was vulnerable to Kronos's influence in the life we remember," Annabeth said quietly to Percy. "But we can't prove the same thing happened here just because Nico dreamed about a shadow with a scythe. He hates being told what to do, but he—"
 
 "He would if he thought it was his idea," Grover said miserably. "That is how the whisper works. I have smelled it in the woods. Old Titan smell. Like dust and blood. It does not order you. It suggests. It makes your worst thought sound like your best plan."
 
 Hades nodded once. "The satyr is wise. My brother's war god has always been easy to flatter and easy to frighten. Someone whispered to his pride and his fear. Someone who wants the gods at each other's throats while he regrows from scraps in Tartarus."
 
-"Kronos," Percy said. The name felt cold in his mouth in that cold hall. "He is trying to come back."
+"Kronos may be involved," Percy said. The name felt cold in his mouth in that cold hall. "But we don't know who stole either weapon, and a dream doesn't prove it."
 
 Bianca stepped forward now, unable to stay quiet. "We have felt it here," she said. "The dead are restless. The pit is warmer than it should be. Souls say they hear a voice when they fall past Tartarus. Promising them life again if they fight."
 
@@ -246,7 +282,103 @@ Annabeth stepped forward, Percy still beside her. She wiped soot from her cheek 
 
 He leaned forward. "And now you four walk in here with the scent of the upper world on you and hellfire on your clothes, and I am supposed to let you walk out? Give me one reason."
 
-Percy's backpack buzzed.
+"Nico," Hades said, "tell them only what you remember from the dream. Nothing you guessed afterward."
+
+The boy looked embarrassed. He had wanted to be useful. Percy knew the look because it was familiar from his own face after getting too excited about a clue.
+
+"The red god had a shield," Nico said. "Or maybe it was on the wall behind him. I remember a scythe shadow. I couldn't see who made it. The voice kept saying two things, over and over. One shone. One disappeared."
+
+"Did you see anyone carry the weapons?" Annabeth asked.
+
+Nico shook his head.
+
+"Did you see a face?"
+
+"No."
+
+"Did the voice tell you a name?"
+
+"I don't think so."
+
+He looked at Bianca for help. She did not supply an answer. She put her hand on his shoulder and waited.
+
+Percy felt the temptation to say Ares's name anyway. It fit the old pattern. A red god, a whisper, a stolen lightning bolt and Hades's missing helm. But the current timeline had already punished them for turning familiar clues into certainties. Medusa's garden had delivered a shipping route, not an arrest warrant. The Lotus had given them five days of lost time because the comfortable answer to exhaustion was the one they'd wanted to believe.
+
+Annabeth went through the dream again with Nico, asking questions slowly enough for him to say *I don't remember* without feeling he had disappointed her. The details became fewer, not more. By the end, they knew a red figure appeared in the dream and a voice referred to something shining and something concealed.
+
+"That's all," Nico said.
+
+"That's enough to tell us what you dreamed," Annabeth answered. "It isn't enough to identify the thief."
+
+Hades looked at her without warmth. "You are careful for a daughter of Zeus."
+
+"I'm careful because he's your guest and a child," she said. "I'm not going to make him responsible for a theory somebody else likes."
+
+Bianca's gaze moved between them. Percy saw the moment she decided Annabeth wasn't trying to trap Nico in a contradiction.
+
+"He gets dreams when the pit is restless," Bianca said. "Sometimes they show things we later understand. Sometimes they make him frightened of people who've done nothing."
+
+"Have you checked the vault?" Percy asked Hades.
+
+The god's expression chilled.
+
+"I have checked my vault."
+
+"I mean the people who keep records of its doors. If the helmet disappeared without anybody seeing a thief, somebody might have changed the records."
+
+The hall went quiet in a less dramatic way than when the hellfire rose. Hades seemed almost insulted by the suggestion that an official might be dishonest.
+
+"Every passage to my vault is logged," he said.
+
+"Then the logs are evidence. They could tell you whether somebody used a door or whether the records were falsified."
+
+Percy heard the words and realized he sounded like Annabeth. He didn't mind.
+
+Hades tapped one ring against his throne arm.
+
+"A record can be changed," the god said finally. "I know that. Do not imagine you have informed the Lord of the Dead that clerks may deceive him."
+
+"I wasn't trying to."
+
+"You were hoping I hadn't thought of it."
+
+"A little," Percy admitted.
+
+Grover made a small choking sound and pretended it was a cough.
+
+Hades looked at him. "You have something to add, searcher?"
+
+"Only that plants can be made to grow in the wrong direction if someone keeps turning the light," Grover said. "You don't need to tell them to lie. You make the easy direction the wrong one."
+
+Hades considered that. Percy could see the question turning from *who dared steal from me* into *what made the theft possible*. It didn't prove Ares had done anything. It did mean the lord of the Underworld had a way to investigate that didn't require killing four children who happened to know about a missing weapon.
+
+"Bring me the transport records for the last month," Hades told a servant. "And the names of every official who countersigned a vault delivery."
+
+The servant bowed and hurried out.
+
+"That investigation will take time," Hades said. "More time than you have before the solstice."
+
+"We know," Annabeth answered.
+
+"Then explain why you came to my palace at all."
+
+Percy looked at the empty cushion. He had expected Hades to know where the bolt was. Now he knew the court itself had unanswered questions, and he had a choice about how to present the few facts his group actually possessed.
+
+"We came to ask whether the weapon passed into your domain," he said. "We also wanted to know why people thought you took it. The shipping lead brought us west, and a courier mentioned a studio with dead flowers. We followed the lead, not a conviction."
+
+Hades's black eyes settled on him. Percy felt suddenly young and very far from the sea.
+
+"You are beginning to speak like someone who knows how little he knows," the god said.
+
+"I don't like it."
+
+"Few do."
+
+Bianca looked down, hiding a smile. It vanished when Hades turned toward her.
+
+"We have enough uncertainty without manufacturing more," Hades said. "Let the records arrive. Then we shall see who carries what."
+
+Percy's backpack began to hum.
 
 Everyone heard it. A low, angry hum, like a trapped wasp made of electricity. The leather seams glowed faint gold at the edges.
 
@@ -338,6 +470,86 @@ For a moment Hades said nothing. Then he held out his hand.
 
 Percy hesitated only a second before lifting the helm toward him. The moment Hades's fingers closed on the iron, the humming stopped. The frost pulled back into the metal. The air straightened.
 
+The helm didn't stop humming when Percy set it on the floor.
+
+Hades came down the dais steps, but he did not reach for it immediately. He ordered the guards to stand back and pointed one pale finger at the red cloth wrapped around the iron.
+
+"That isn't from my vault," he said.
+
+Bianca knelt beside it, careful to keep her hands clear.
+
+"I've seen cloth like that used around the war god's weapons," she said. "That doesn't mean he wrapped this one. Anybody could have taken cloth from one of his stores."
+
+Percy was grateful she'd added the last sentence. He could feel Hades's anger shifting toward a name, and he didn't want another god to launch a war because a teenager recognized fabric.
+
+Annabeth crouched on the other side. She examined the folds without touching them.
+
+"There are scratches here," she said. "The wrapping caught on something rough. The outside of Percy's bag isn't damaged. So the helmet might have been wrapped before it was planted."
+
+"How did it get into your pack?" Hades asked.
+
+Percy tried to remember every moment someone else had been close enough to touch the bag. The days of walking at camp. The Fury attack. The nymph depot. Medusa's statues. The crowd at the Arch. The hotel in Nevada where nobody could reliably count how many days had passed.
+
+"I don't know," he said.
+
+"Then you cannot swear you didn't carry it knowingly."
+
+"I can swear I didn't put it there. And I can tell you I wasn't aware of it until it started humming."
+
+Hades stared at him. Percy held his gaze.
+
+Annabeth looked toward the backpack. "The outer pocket was empty when we rechecked our supplies after the Arch. I'm sure of that because I used the pocket to keep the damage report dry."
+
+"How sure?" Hades asked.
+
+"I wrote it down." She withdrew the folded inventory sheet they'd prepared with Martin after the Arch. It listed each compartment and the contents they'd checked that night. The outer pocket was empty.
+
+The document wasn't perfect. Percy had forgotten small things before, and Annabeth's writing had been hurried. But it made the claim narrower: the helm hadn't been found during a specific inspection. If it was already there, the inspection had missed it. If it was planted later, their most likely opportunity was the Lotus, where they knew time and attention had been manipulated.
+
+"The hotel," Grover whispered. "Anybody could have opened our bags there."
+
+"Or a courier could have reached us before it," Annabeth replied. "We don't know."
+
+Hades accepted the inventory from her, looked at the dates and turned it toward one of his servants.
+
+"Check whether any entry through the lower gates was made during this interval by a living courier or a shadow wearing a false name."
+
+The servant hurried away.
+
+Percy watched Hades take the helm in both hands and set it on the cushion. The hum faded. The air seemed to steady around it.
+
+"You have brought back my property," the god said. "That doesn't establish who took it, or how it came into your pack."
+
+Percy let out a breath.
+
+"Then you won't punish us for carrying it?"
+
+"Don't confuse an unanswered accusation with a pardon," Hades answered. "I'm withholding judgment while I investigate. You should be grateful for that, considering whose court you're standing in."
+
+Thalia leaned forward as though she wanted to remind him that they hadn't chosen to carry a stolen helm. Annabeth placed a hand on her sleeve. Thalia stayed quiet, for now.
+
+Bianca looked toward Nico, who was watching the black iron with a frightened fascination. She drew him a little closer to the dais, not to hide him from the guests but to keep him away from the thing that had frightened him in dreams.
+
+Percy remembered the way Thalia always positioned herself between Annabeth and trouble. Here was the same gesture in another family, in a palace where every adult seemed to have authority and two children still needed somebody to notice when they were scared.
+
+Hades looked at Bianca. For a moment his severity shifted into worry.
+
+"Take Nico to the adjoining room," he said. "He has heard enough."
+
+Nico protested. He wanted to know who had stolen the helm and whether the red god would come here.
+
+"You may ask me after I receive the records," Hades replied.
+
+"I want to help."
+
+"You have helped. Your dream is recorded. That doesn't require you to remain in a hall where adults are discussing war."
+
+Bianca didn't immediately take him away. She waited until he agreed, then walked beside him, one hand resting lightly against his back. Nico turned at the door and asked Percy whether he would return the lightning bolt too.
+
+"I'm trying," Percy answered.
+
+It was not the heroic promise the boy had wanted. But Nico nodded as though he understood why Percy hadn't said *yes*.
+
 Hades held his helm under his arm like a king holding a crown he did not need to wear to prove he owned it.
 
 "Ares," he said. "My nephew. My brother's dog of war." Disgust twisted his mouth. "He dares use my power to start his war. He dares leave my children to feel the pit warming."
@@ -354,11 +566,31 @@ Hades sat. He set the helm on the cushion where its absence had been. The skelet
 
 Percy looked at Annabeth. Annabeth looked at Thalia. Thalia looked at Grover. Grover, tears still drying on his cheeks, nodded hard.
 
-"We swear," Percy said. "On the River Styx. We will return the bolt by the solstice, speak truth to Zeus that you did not take it, and keep Nico and Bianca secret."
+Percy opened his mouth to swear. Annabeth touched his elbow.
 
-Thunder rolled somewhere far above them, through layers of rock, confirming the oath. The palace trembled faintly. Nico grabbed Bianca's hand.
+"We can swear to tell the truth about what we witnessed," she said. "We can swear to protect the children's location. We can't swear that we will succeed at something Ares may prevent us from doing."
 
-Hades nodded once, satisfied. "Then go. My helm stays. You have carried it far enough."
+Hades's gaze sharpened. "You dispute my terms?"
+
+"I won't make an oath on the Styx that depends on someone else's actions," Annabeth answered. "Not if the oath is meant to mean anything."
+
+Percy felt the room waiting for his reply.
+
+"We'll take the information to Olympus if we can," he said. "We'll make every effort to recover the bolt before the solstice. I'll tell Zeus you said you did not take it, and that we brought your helm back. I won't claim I saw who stole either weapon."
+
+"And the children?" Hades asked.
+
+"We won't tell anyone where Nico and Bianca are," Thalia said. "That doesn't depend on Ares."
+
+The god watched them long enough that Percy thought he'd refuse. Then he nodded once.
+
+"Swear to the things you can perform," Hades said.
+
+They did. They swore on the Styx to keep the young guests' location private and to give an accurate account of the court's proceedings if they reached Olympus. They did not swear to force a particular outcome from the war god.
+
+A distant rumble rolled through the rock, and the palace settled again.
+
+Hades inclined his head. "Then go. My helm stays. You have carried it far enough."
 
 "Wait," Annabeth said. "Lord Hades — where is Ares? We tracked the bolt to a Hermes Express stop and lost it. We need a place to start."
 
@@ -376,7 +608,7 @@ Thalia closed her fist around it. "Thank you."
 
 Thalia's throat worked. "I will not."
 
-Nico suddenly darted forward and stopped in front of Percy, staring up at him.
+Nico, having returned from the adjoining room with Bianca, suddenly darted forward and stopped in front of Percy, staring up at him.
 
 "You really shielded her from hellfire?" he asked.
 
@@ -387,6 +619,90 @@ Nico considered this, then held out his too-big sword, hilt first. "For luck," h
 Percy touched the hilt with two fingers. It was ice cold and hummed faintly, like a distant choir. "Thanks, Nico."
 
 Nico beamed and ran back to his sister.
+
+Percy was almost to the end of the carpet when he remembered the paper against his chest.
+
+"Lord Hades," he said.
+
+Thalia stopped. Annabeth looked back, saw him holding the folded petition, and turned with him.
+
+Hades did not look pleased.
+
+"You have another request?"
+
+"Yes. Not about the bolt." Percy held up the paper Charon had stamped. "This was filed downstairs. It's about Sally Jackson."
+
+The name changed the room. Percy couldn't explain how. The courtiers remained still, and the braziers burned exactly as they had a moment earlier. But Hades stopped tapping his ring against the throne, and his gaze became more attentive.
+
+"A welfare petition," he said. "You know I cannot return your mother to life."
+
+"I know."
+
+"Do you?"
+
+Percy thought of the voice in the Lotus phone, the woman who had sounded like Sally calling from an apartment that no longer existed in this version of New York. He had nearly stayed there to hear her say the same few phrases again. It would have been easy to tell Hades he wanted only a simple report. It would also have been a lie.
+
+"I want her back," he answered. "But I know wanting it doesn't give me the right to take her from here. I just need to know whether she's all right. Whether she has peace."
+
+Hades held out one hand. The stamped paper moved from Percy's fingers to the god's without a gust of air or a flash of light. Percy watched it cross the room and felt the peculiar emptiness of no longer holding something he'd carried so carefully.
+
+Hades read.
+
+"Sally Jackson," he said. "New York. Mortal. Died when her son was two."
+
+Percy nodded.
+
+The facts were dry and brief. He had expected the words to hurt more than they did. Instead they left him feeling oddly steady. Those were the facts of the life this world recorded. They didn't cancel the memories of another Sally, alive through the years Percy remembered.
+
+"I have the entry," Hades said. He touched the page. A narrow line of silver writing appeared beneath the stamp, too small for Percy to read from the carpet.
+
+"What does it say?" he asked.
+
+"That she has passed judgment and is in the Fields assigned to her. She is not under punishment. No claim for transfer is pending. That is what my records show."
+
+Percy exhaled. It was less than he had hoped for and more than he had expected when he entered the building.
+
+"Can I see her?"
+
+"No."
+
+The answer was immediate. Percy looked up.
+
+"Why?"
+
+"Because you came here on a quest concerning stolen divine weapons, not under an approved visitation order. Because the Fields are not a place where living children wander among their dead relatives at will. And because seeing her would not change the rules of her life or yours."
+
+Percy wanted to argue. He wanted Hades to understand that Sally had once lived to watch him grow older, that he remembered her hand on his shoulder and how she made blue pancakes even when she was tired. But none of those memories belonged in a welfare petition, and explaining them would force secrets into the open before he and Annabeth understood who could safely hear.
+
+He kept quiet.
+
+Annabeth moved beside him, close enough that he could feel her sleeve brush his hand. She didn't offer to speak for him.
+
+"May I keep the written response?" Percy asked after a while.
+
+Hades returned the page. The silver line remained, with a seal beneath it.
+
+"You may take that to the upper world. Do not treat it as permission to summon her."
+
+"I won't."
+
+Percy folded the document once, careful not to crease the seal. His hands were shaking. He didn't try to hide it.
+
+Hades looked toward the empty place where Bianca and Nico had stood earlier.
+
+"The living speak of death as though it were a door they can open whenever they miss somebody," he said. "It is not kind to the dead to make them answer every grief the living carry."
+
+Percy couldn't tell whether the god was speaking about Sally or about his own fear of losing the two children in his care. Perhaps both.
+
+"Thank you for checking," Percy said.
+
+"Do not thank me for a rule I enforce for every soul."
+
+Percy nearly smiled. Hades hadn't made the process easy, but he had given a response that wasn't built out of false comfort. It was something Percy could show Annabeth, and later perhaps speak about carefully with the people who knew Sally's history in this world.
+
+He turned toward the doors. There was still a bolt to find and a deadline he couldn't stop. This part of the quest had given him information he had needed, but it hadn't finished his grief. He supposed grief didn't have a filing deadline.
+
+Annabeth took his free hand as they walked. This time Percy accepted it without trying to make a joke.
 
 Hades raised his hand. The bronze door swung open behind them, showing the red-veined path and the hot wind.
 
@@ -403,6 +719,44 @@ Bianca lifted two fingers in farewell. Thalia lifted her new whistle in answer.
 Then the door boomed shut.
 
 ---
+
+Outside the court, Grover stopped by the registration desk and asked for another copy of the route map.
+
+The clerk looked at the one Annabeth already held.
+
+"You haven't lost it."
+
+"No," Grover said. "But we're going out with burned hands, and I thought if we separated in the hall it would be useful to have more than one copy."
+
+She considered the request, then gave him a second sheet.
+
+Percy watched Grover fold it into his own pocket instead of handing it to Annabeth. The satyr had been frightened since they entered the building, but he had kept his head well enough to remember what the group needed. It wasn't spectacular. It was the sort of contribution that would never make a prophecy sound impressive.
+
+They reached the receiving hall and found a crowd of newly arrived souls being guided toward judgment. A small child was crying because she had lost sight of her father. The staff didn't send the child wandering through the crowd; an attendant checked the register and directed her to a waiting area where her family could be found.
+
+Percy thought of the welfare petition folded inside his jacket. Hades's court contained more sorrow than he could count. It also contained people whose job was to prevent small sorrows from becoming worse because nobody had bothered to look at a record.
+
+Thalia waited beside a column with Bianca's silver whistle in her fist.
+
+"Are you going to use that?" Annabeth asked.
+
+"Only if the staff tell us the route is blocked," she said. "Bianca gave it to us for getting lost. I'd rather not summon half the dead for a shortcut we don't need."
+
+Percy smiled. She'd listened to more of Chiron's instructions than she pretended.
+
+They passed the clerk, showed the bands and waited for confirmation that their departure route remained open. Percy felt his heart beating faster as the lift doors came into sight. Hades hadn't given them certainty about the theft. He had returned a written answer about Sally and warned them that war would fill the Fields. They were going back above with a narrower account than they'd hoped to bring, and Percy no longer wanted to make it sound better than it was.
+
+In the elevator Annabeth unfolded the notes she'd made in the throne room. She had kept the statement about the helm separate from Nico's dream and Bianca's recognition of the war cloth.
+
+"We can tell Zeus what Hades said," she told Percy. "We should also tell him why we aren't calling the case proven."
+
+"He won't like that," Thalia replied.
+
+"No," Annabeth said. "But he already has enough people telling him exactly what he wants to hear."
+
+Percy looked at the map. The way out seemed longer than before, perhaps because he wasn't running away from hellfire now. He could read every turn and remember that a boy in the court had believed his word about bringing back the bolt. That was the part he couldn't stop thinking about.
+
+He tucked the petition beside his other papers and followed the others toward the lift.
 
 The path out of the palace was steeper going up than it had been coming down, or maybe they were just burned and tired. Steam still rose off Percy's jacket. Annabeth's fingertips sparked every time she brushed stone.
 
@@ -439,6 +793,66 @@ Annabeth leaned into her, eyes closing. "You stood up to Hades for me."
 "I sweated from my eyes," Thalia said. "Underworld heat. Very normal."
 
 Percy grinned at them, his chest aching in a good way. Sisters. He thought of Clarisse ruffling his hair hard enough to hurt, of Silena tying the cord double-knotted on his wrist. He understood Thalia perfectly.
+
+Near the lift, the usher asked whether they had any items belonging to the court.
+
+Percy thought of the helm, now back on Hades's cushion. Annabeth held up the stamped copies of the registration and Percy's welfare response. Thalia showed Bianca's whistle, explaining where it had come from. The usher inspected the mark on its cord and made a notation.
+
+"Temporary access token," she said. "It remains valid for your departure and does not authorize a second visit."
+
+"Understood," Thalia said.
+
+Grover opened his bag. A packet of crackers fell onto the stone.
+
+"That's mine," he said quickly.
+
+The usher looked at it with an expression of professional disgust.
+
+"Living food is permitted. Do not litter in the passage."
+
+Grover retrieved the packet and repacked it carefully. Percy tried not to laugh. They'd faced the Lord of the Dead and survived; getting scolded over crackers on the floor felt like a return to camp.
+
+Annabeth asked for confirmation that their registrations would close when they returned above. The usher stamped each wristband once and explained that the bands were their responsibility until they passed the final lift station. They should not give them away or use them to bring another person into the world of the living.
+
+Percy touched the folded petition in his pocket.
+
+He'd thought about Sally while Hades spoke. He'd imagined her hearing his name, looking up and somehow knowing he was close. The image was so strong that for a moment he had almost asked to be taken to her instead of following the court's instructions. Then he'd remembered the boy in the Lotus who kept playing because the screen promised he was one game away from finishing.
+
+Wanting more time with someone didn't mean the promised version of that time was real.
+
+He was allowed to want Sally. He was also allowed to leave without seeing her, carrying a response that showed she was not being punished.
+
+"Are you all right?" Grover asked.
+
+Percy looked up. "I don't know. I think so."
+
+Grover accepted that. He didn't ask Percy to feel relieved or grateful. He simply offered him half the cracker packet they'd nearly left on the floor.
+
+Percy took one.
+
+At the lift doors he thought of Martin waiting in Los Angeles, of Clarisse and Silena going about their work at camp, and of Annabeth's pencil moving over her notes beside him. It was enough to make the direction of the journey feel clear, even if the story of the stolen weapons wasn't settled.
+
+They stepped into the car when the attendant waved them forward.
+
+Annabeth was the last to enter. She checked that Grover's searcher license had been returned to him and that Thalia still carried the guardian authorization. The little records seemed trivial next to Hades's throne, but the group had been delayed at every point where somebody had confused permission to travel with a promise of protection.
+
+"Did you get what you needed?" she asked Percy.
+
+"Some of it."
+
+"Are you going to tell the others at camp about Sally?"
+
+"I'll tell Clarisse and Silena the part I can explain. The written answer says she isn't being punished. I don't need everybody to know the rest of what it feels like."
+
+Annabeth nodded. "That sounds right."
+
+He glanced at her bandaged hand. They had covered a great distance since the river, but the same persistent small injuries still had claims on their attention. "How much does it hurt?"
+
+"Enough that I shouldn't use lightning."
+
+"Then don't."
+
+It was a small conversation. Percy would have preferred a grand bargain that made the Underworld less frightening, but he was learning that a truthful answer about pain or a limitation on what he could do was sometimes more useful than any promise.
 
 They reached the elevator to the living world — a battered service lift in a shaft of rock that hummed with dead Muzak — and piled in. Grover pressed the UP button with a trembling hoof-finger.
 

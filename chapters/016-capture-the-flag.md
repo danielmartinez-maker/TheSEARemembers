@@ -94,7 +94,7 @@ Thalia stood in the center of the room with a whiteboard she had clearly stolen 
 
 "Listen up!" Thalia said, slapping the whiteboard. On it, in aggressive red marker, she had written: WIN. Underlined three times. "Poseidon team thinks they're hot stuff because they've got numbers and a home-field advantage on the water. We're going to prove them wrong by being faster, meaner, and smarter."
 
-Zoe Nightshade, sitting with perfect posture and polishing her hunting knives, raised an eyebrow. "Thou hast numbers as well. Thou hast me."
+Zoe Nightshade, sitting with perfect posture and polishing her camp knives, raised an eyebrow. "You have me on your side, too."
 
 "Exactly," Thalia said, pointing at her. "Zoe's on border patrol with me. Nobody crosses the creek on our watch. Nico — " She turned to where Nico di Angelo, young and trying to look older, sat swinging his legs and holding a plastic sword like it had personally offended him. "You're with Annabeth on offense. You wanted to do offense, right?"
 
@@ -208,11 +208,11 @@ They reached the shallow bend — their assigned post — and dropped into the f
 
 "Guard duty with cookies is better than guard duty without cookies," Silena said firmly, pressing one into his hand. "Amphitrite told us to look after you. Hydration and cookies count."
 
-Percy took the cookie. It was impossible to argue with Silena when she invoked instructions from a queen. Amphitrite hadn't raised his sisters; Silena had found a way to turn yesterday's friendly advice into authority anyway.
+Percy took the cookie. It was impossible to argue with Silena when she invoked instructions from a queen. Amphitrite hadn't raised his sisters, and Percy appreciated that Silena could take a kind remark from his mother without pretending it settled the harder questions about Poseidon.
 
 They crouched in the ferns, munching. Across the creek, Zoe's eyes flicked to them. She sniffed disdainfully.
 
-"Thou eatest on duty?" she called. "The hunt never eats on duty. The hunt is discipline. The hunt is — is that chocolate chip?"
+"Thou eatest on duty?" she called. "Chiron specifically said no food near the ward markers. Is that chocolate chip?"
 
 "Want one?" Silena called back cheerfully. "We have extras! No poison, promise! Mostly!"
 
@@ -360,7 +360,7 @@ She couldn't say any of it. So she said, "West approach. Past the amphitheater. 
 
 Thalia studied her for a long moment, then nodded slowly. "Okay. Do it. And Annabeth — " She gripped Annabeth's shoulder, fierce and warm. "Be careful. Clarisse fights dirty. If you get caught, don't be a hero. Let us come get you."
 
-It was such a big-sister thing to say that Annabeth's throat closed up. Thalia — this Thalia, sixteen and alive and sparking with life, who in Annabeth's original timeline had spent years as a tree — looking at her like she mattered.
+It was such a big-sister thing to say that Annabeth's throat closed up. Thalia, alive and sparking with life, who in Annabeth's original timeline had spent years as a tree — looking at her like she mattered.
 
 "Okay," Annabeth managed.
 
@@ -598,7 +598,7 @@ Nico, dangling from Clarisse's grip, raised his hand. "I know! They're in love! 
 
 "Nico!" Annabeth and Percy yelped in unison. Again. They glanced at each other in despair.
 
-Zoe lowered her bow very slowly, a strange, soft expression crossing her usually stern face. "Ah," she said quietly. "Young warriors. The heart chooses early, sometimes. The hunt… understands more than thou thinkest."
+Zoe lowered her bow very slowly, a strange, soft expression crossing her usually stern face. "Ah," she said quietly. "Young warriors. The heart chooses early, sometimes. Even those of us trained in Hecate's arts can recognize affection."
 
 "Okay, timeout!" Thalia said, holding up both hands, static crackling between her fingers. "Everybody stop talking! Annabeth — you're on my team! You're supposed to hate him!" She jabbed a finger at Percy. "Him! The fish boy! Can you stop coordinating for ten minutes?"
 
@@ -634,9 +634,143 @@ Percy's grin flickered. "Talk? Like — friendly talk? Or lightning talk?"
 
 Thalia looked between them once more, shook her head slowly, and muttered, "I'm too young to be a protective big sister. I'm sixteen. This is ridiculous."
 
-"It's very noble," Zoe said solemnly. "Thou art fierce in thy devotion. The hunt approves."
+"It's very noble," Zoe said solemnly. "For once, your concern has been usefully directed."
 
 "Shut up, Zoe," Thalia said, but she was smiling.
+
+---
+
+Chiron had not intended the final ten minutes of capture the flag to turn into a negotiation about whether pizza counted as a legitimate victory condition.
+
+He could hear the argument before he reached the willow hollow. Clarisse was insisting that a tie could be declared only after the horn, Thalia had an equal claim to the flag and Silena wanted someone to check Annabeth's knee before they continued shouting about territory. Nico was holding half the blue banner and suggesting a rule by which whichever team provided the best dessert would automatically win.
+
+"That's not a rule," Clarisse said.
+
+"It should be."
+
+"That's worse."
+
+Percy stood beside the creek with mud on his sleeves, looking at Annabeth as though they had both suddenly remembered they belonged to opposing teams. Chiron could tell from their expressions that the real argument had almost nothing to do with flags. He had seen children lose their heads during a competitive game before. Usually the problem was pride or fear of embarrassment. Today it appeared to involve both.
+
+"May I have the banners?" he asked.
+
+The shouting stopped. Nico relinquished his end of the blue flag reluctantly. Annabeth handed over the other end, leaving a muddy print on the cloth. Chiron held up the banner and checked that it was still attached to its pole.
+
+"Neither flag has crossed the opposing team's finish line," he said. "No one has completed the victory condition."
+
+"But she took it," Percy said.
+
+"She did. Then the defense prevented her from leaving the hollow with it. That is an incomplete capture."
+
+Annabeth studied the flag, then Percy. "He also deliberately left a gap in the water screen."
+
+Chiron looked at Percy. "Is that true?"
+
+Percy hesitated. He could make a technically defensible argument that he had expected her to take the opening and had planned to catch her on the other side. He had actually wanted to see what she would do. For a few seconds he'd forgotten his team was depending on him to stop her.
+
+"Yes," he said. "I left the gap."
+
+Clarisse opened her mouth. Silena caught her sleeve.
+
+"And did you agree beforehand to help the opposing team?" Chiron asked Annabeth.
+
+"No. We both knew where the other one would move. It wasn't a plan we made tonight."
+
+"Then you must learn the difference between knowing someone well and deciding to use that knowledge against your own assignment." Chiron turned toward the two team leaders. "What do you propose?"
+
+Clarisse wanted the remaining minutes. Thalia wanted an explanation of whether Percy was helping Annabeth deliberately. Neither felt satisfied with a draw, which was reasonable: both teams had spent the afternoon trying to win.
+
+Silena offered a compromise. "Let the last ten minutes run, but restart everyone at the midfield line. No water screens, no lightning, no shadow travel. Use ordinary movement and the marked paths."
+
+Nico looked wounded. "No shadow travel? That's my entire idea."
+
+"Then you'll have to discover another idea," Clarisse told him.
+
+Chiron considered the time. There was not enough daylight to reset both teams properly, and several campers had already left their assigned positions to head toward the pavilion. Continuing would reward whichever side happened to be nearest the unattended flags. Declaring a tie wasn't an admission of failure; it was a decision not to pretend a fair finish could be manufactured out of a disrupted game.
+
+"We'll record an incomplete match," he said. "No winner, no loss. Both teams can choose leaders for a rematch on Friday, and I'll circulate a clarification about which powers are allowed."
+
+Clarisse looked dissatisfied. "That means we don't get credit for holding the creek."
+
+"You may claim credit for excellent defense. You'll have to wait until Friday to claim a victory."
+
+Thalia examined Annabeth's muddy knee. "And we need someone to check that."
+
+Annabeth started to object. Chiron held up a hand.
+
+"You fell hard enough to stop the match. A healer can inspect it before dinner. That isn't a judgment on your strategy."
+
+Annabeth looked at the worn fabric over her knee. Percy had caught her arm before she went down into the creek. He had been quick and kind, which made him a good friend and a lousy opponent in that moment. She could be grateful without pretending the game had ended properly.
+
+"All right," she said.
+
+The teams began gathering the scattered supplies. Clarisse recovered the last spear from the mud. Silena collected arrows and checked that none had been left in the reeds. Nico found his helmet upside down beneath the willow and accused the tree of cheating.
+
+Thalia stood beside Percy while Annabeth followed the healer up the path.
+
+"I know you care about her," she said. "I haven't forgotten that. But when you both sign up to play, other people count on your decisions too."
+
+"I know."
+
+"Do you?"
+
+He looked at the blue flag in Chiron's hands. "I didn't really think about that when she ran through the gap."
+
+"Then think about it before the rematch." Thalia paused. "I'm not asking you to stop knowing her. I'm asking you to remember who else is on the field."
+
+He nodded. She left him to help Nico gather the helmets.
+
+Percy stayed by the creek until Silena came back for the last bowstring. He was embarrassed by how much he'd wanted to laugh when Annabeth grabbed the flag and how little he'd thought about the other people who'd spent the afternoon playing seriously.
+
+"Are you angry?" he asked his sister.
+
+"A little. I was trying to hold the bank with a wet bow while you made a dramatic waterfall for the opposing team."
+
+"I thought I could catch her afterward."
+
+"You did catch her. That wasn't the same thing as stopping the capture properly."
+
+"I'll do better Friday."
+
+Silena looked him over. "You can make up for it by helping us repair the banner. Nico tore one of the ties when he tried to wear it."
+
+Percy accepted the assignment. He was relieved that she had chosen something he could do rather than demanding an apology he would have delivered three times without making the next game any fairer.
+
+At the pavilion, Annabeth had already had her knee checked and was sitting with a wrapped cloth around it. Thalia was bringing her water. Percy sat at the far end of the bench until Annabeth glanced up.
+
+"I heard we're having a rematch," she said.
+
+"Chiron ruled the game incomplete."
+
+"I heard that too."
+
+He watched the other campers filing toward the tables, still arguing about which team had been ahead when the horn sounded.
+
+"Sorry I ruined your victory."
+
+"You didn't. I ruined it too." She shifted her knee carefully. "I could have taken the flag and run. I stopped because I wanted to see what you'd say."
+
+"You wanted to argue."
+
+"Naturally."
+
+He laughed. She looked toward the banners Chiron had hung to dry.
+
+"Friday, no favors?" she asked.
+
+"No favors."
+
+"And no dramatic water curtains?"
+
+"That seems unreasonable. Chiron said no water screens, though, so I suppose I'll comply."
+
+"Then I'll have to beat you on foot."
+
+"You're welcome to try."
+
+They stayed on opposite sides of the table when the food arrived, one with each team, and exchanged a look over the plates that wasn't an agreement to cheat. They were allowed to be glad to see each other and still owe their teammates a fair match.
+
+
 
 ---
 
@@ -674,7 +808,7 @@ Silena flopped down on Percy's other side, muddy and radiant. "You owe me a cook
 
 Percy's hand flew to his hair — to the thin strip of gray fabric braided behind his ear, cut from the hem of Annabeth's old camp shirt. He'd worn it since Annabeth gave it to him at camp. He thought nobody had noticed.
 
-Silena winked. "Sisters notice everything, little brother. Don't worry. Your secret's safe with me. Mostly. Until I need blackmail."
+Silena winked. "Sisters notice everything, little brother. Don't worry. Your very obvious crush is safe with me. Mostly. Until I need blackmail."
 
 Clarisse dropped onto the steps with them, plate in hand, and ruffled Percy's wet hair hard enough to nearly knock him over. "Good game, squirt," she said gruffly. "You held the creek like a real Poseidon. Dad'd be proud."
 
@@ -718,13 +852,12 @@ Ella landed on the table, scattering napkins. "Ella declares this game a draw! A
 
 She dropped an entire dessert pizza slice onto Percy's plate and one onto Annabeth's, beaming.
 
-And as the sun set over the canoe lake, painting the water gold and pink, both teams ate together on the pavilion steps — Zeus and Poseidon mixed like it was the most natural thing in the world — while Thalia pretended not to watch, Clarisse pretended not to smile, Grover narrated the eating like it was overtime, and two twelve-year-olds with seventeen-year-old hearts sat knee-to-knee in a crowd of friends, hiding everything and sharing everything all at once.
+At sunset Grover announced the final score a third time, adding enough commentary that Clarisse threw a roll at him. He caught it, took a bite, and declared himself the real winner.
 
-It was a draw.
+Percy sat beside Annabeth on the pavilion steps. Their knees touched. On the other side of the table Silena was already debating a rematch, and Thalia was arguing that the rule about taking prisoners needed to be rewritten.
 
-It felt like winning.
+Annabeth leaned closer. "We should've won."
 
----
+"Which team?"
 
----
-
+"Exactly."

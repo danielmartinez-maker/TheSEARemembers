@@ -204,7 +204,7 @@ Percy watched her work with a small, crooked, embarrassed expression, and the yo
 
 She stopped. The gauze ran from her fingers. She looked down at the knot she was tying — white, tidy, unbecomingly neat — and she thought about the dock, and the argument, and the shape of things she had built to keep people safe until they turned into cages.
 
-"I used to do this in the other life," she said. "Wrap my own hands. Nobody ever wrapped them for me. You got hurt, you kept going, because Ares's kids didn't get the luxury of lying down." She tucked the end of the gauze in and tapped the finished knot with two fingers. "And then I got a little brother who charges into everything with his whole stupid heart, and I forgot how to let him get hurt at all."
+"I learned to do this when I was too proud to ask for help," she said. "I thought if I could wrap my own hands, I didn't have to tell anyone they hurt. Silena used to leave clean bandages outside the bunk curtain, and I'd pretend I had found them myself." She tucked the gauze in and tapped the knot with two fingers. "Now I have a little brother who charges into everything with his whole stupid heart, and sometimes I forget that he's allowed to learn what hurts without me preventing every mistake."
 
 Percy was quiet a moment. The arena murmured around them — footsteps, voices, the distant *thock* of an arrow finding a target.
 
@@ -341,7 +341,7 @@ The second spark came slower, and on the third pass Annabeth almost fumbled it b
 
 "It's nobody's favorite thing I do."
 
-"It's in the top three." Thalia sat up, and her face went serious, and the static retreated from her hair a little. "It was in mine, for a while. When I first came back — after the tree, after the Hunters, all of it — everything was so loud, and I kept getting ready for the bad part before it even arrived. I scared somebody I hadn't meant to scare, and I had to learn, the slow way, that getting ready isn't the same as being ready."
+"It's in the top three." Thalia sat up, and her face went serious, and the static retreated from her hair a little. "It was in mine, for a while. When Jason went to Camp Jupiter, I kept thinking every letter would bring bad news. Everything felt louder than it was, and I got ready for trouble before I knew whether anything had happened. I scared Annabeth with how much I hovered. It took me a long time to learn that getting ready isn't the same as being ready."
 
 Annabeth sat down on the rock beside her, not too close, and let the second spark die quietly before she tried again.
 
@@ -373,7 +373,7 @@ Annabeth looked at the ridge. At the pine. At the lake glinting below. At the sk
 
 "It's cold. No — it's the idea of cold. It's the second before you jump in the lake." She held her hands up. Thalia reached, and passed it across, and this time when it landed Annabeth made herself keep breathing, made herself be a hallway, a hallway with a guest in it. "Oh. It's listening."
 
-"Everything wants to be listened to," Thalia said, and there was the whole of her in it, the girl who had been a tree for six decades and had learned patience from someone she'd loved and lost. "Now don't grab it. Let it stand there. Be the hallway."
+"Everything wants to be listened to," Thalia said, and there was the whole of her in it, the older sister who had learned patience by making mistakes with the people she was trying to protect. "Now don't grab it. Let it stand there. Be the hallway."
 
 So she was the hallway.
 
@@ -603,7 +603,7 @@ Annabeth turned the page in her sketchbook and started to draw, and Percy, who h
 
 "Forever." Annabeth's pencil ticked along the page. "She's been teaching you for weeks, and today was the first day she actually taught you to lose."
 
-"That's what it was. It was like the Atlas. She wasn't teaching me a form. She was teaching me that I can get hit and keep going." He picked up a pebble and turned it over in his wrapped hand. "And she told me about her other life. How nobody ever wrapped her hands. You got hurt, you kept going, and there was never anybody who would have —"
+"That's what it was. It was like the Atlas. She wasn't teaching me a form. She was teaching me that I can get hit and keep going." He picked up a pebble and turned it over in his wrapped hand. "And she told me about when she used to wrap her own hands rather than admit she was hurt. How Silena tried to help, and Clarisse was too proud to let her —"
 
 "Who would have wrapped them for her," Annabeth finished quietly.
 

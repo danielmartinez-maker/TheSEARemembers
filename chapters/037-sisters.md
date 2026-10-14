@@ -1,6 +1,5 @@
 ## Chapter 37: Sisters
 
-**Thalia**
 
 Thalia Grace woke up to a blonde head on her stomach and an elbow in her ribs.
 
@@ -70,7 +69,6 @@ Annabeth already had the scissors in her hand. She'd hidden them behind her back
 
 ---
 
-**Annabeth**
 
 Breakfast heist went perfectly, which is to say it went terribly and they got away with it anyway.
 
@@ -120,7 +118,6 @@ Thalia stood and offered her hand, pulling Annabeth up with exaggerated effort. 
 
 ---
 
-**Thalia**
 
 Haircuts in the Zeus cabin bathroom were a terrible idea, which is why they were perfect.
 
@@ -198,7 +195,6 @@ Thalia turned, still caped in the towel, black and blue hair falling sharp aroun
 
 ---
 
-**Annabeth**
 
 The borrowed-clothes fight started the way all great wars start: over a jacket.
 
@@ -280,7 +276,156 @@ Thalia looked at her, owl shirt and eyeliner and fresh haircut, and said, "Come 
 
 ---
 
-**Thalia**
+
+The first person who saw them outside Cabin One was Percy.
+
+He had been carrying a bucket of wet practice gear to the shed. When he looked up, the bucket hit the ground and sent a splash across his shoes.
+
+Thalia put her hands on her hips. "What?"
+
+Percy stared at her owl shirt, then at Annabeth's leather jacket, then back at Thalia.
+
+"I'm trying to decide which one of you I should be more frightened of."
+
+"Me," they said together.
+
+Percy laughed. He retrieved the bucket and glanced at Annabeth's hair.
+
+"You cut it."
+
+"I did. Is that a problem?"
+
+"No. It looks good."
+
+He said it without sounding as though he'd prepared the answer. Annabeth was disproportionately pleased.
+
+"Thank you," she said.
+
+Thalia examined him. "You'd better not tell her it looks bad. She threatened to do mine next."
+
+"Wouldn't dream of it."
+
+"You sound frightened."
+
+"I've had a lot of practice."
+
+He went toward the shed, smiling to himself. Annabeth watched him for a moment, then realized Thalia was watching her watch him.
+
+"Don't," she warned.
+
+"I didn't say anything."
+
+"You were going to."
+
+"I was going to point out that your boyfriend looks like he forgot how to walk."
+
+"He dropped a bucket."
+
+"Exactly."
+
+Annabeth began walking faster. Thalia fell into step without much effort.
+
+Near the arts cabin, an Apollo camper called Thalia's name. He was holding two portrait sheets and a little graphite pencil, and he looked relieved to find the older girl out of training armor.
+
+"We're doing a set of drawings for the cabin board," he explained. "Can you sit for ten minutes? The last picture we have of you is from the winter tournament."
+
+Thalia looked at Annabeth. "She's the one with the new haircut."
+
+"I already have her portrait from the architecture exhibit," the camper said.
+
+"Then you can draw another."
+
+Annabeth didn't know whether to be touched or irritated. Thalia had started trying to make sure everyone noticed her new hair within minutes of leaving the cabin. The Apollo boy wanted Thalia, and Annabeth had no intention of standing beside a chair while he politely found a way to refuse her sister's instruction.
+
+"He asked you," she told Thalia. "Go sit."
+
+"You're coming."
+
+"To do what?"
+
+"Make fun of the drawing when it looks nothing like me."
+
+That was a decent invitation. Annabeth accepted.
+
+The artist had set up a small sketch station beneath the eaves. Thalia sat with one knee over the other, trying to look nonchalant, which required more effort than posing like she was preparing for a fight. Annabeth settled on the floor with her notebook and watched the pencil move.
+
+The boy asked Thalia to remove the owl shirt because the sleeves distorted the line of her shoulders. She refused.
+
+"It's borrowed," she said. "I'm wearing it for a reason."
+
+The boy tried to explain the practical problem. He wanted to draw the way the arm joined the torso, and the cloth was stretched so tightly he couldn't see it accurately.
+
+Annabeth looked up. "He's not asking you to change because he dislikes my shirt. He's trying to draw the shape underneath."
+
+Thalia considered. "Fine. Can I keep it on if I roll the sleeves?"
+
+"That would help," the artist said.
+
+He resumed drawing. Annabeth returned to her notebook and began sketching the chair, which she considered far more interesting than the portrait. The station had been assembled hastily from uneven boards, and one of the legs stood on a folded piece of cardboard to keep it level.
+
+"If you keep putting the chair on the same spot," she told the artist, "we can make it stable with a proper shim."
+
+He glanced down. "It does wobble."
+
+"I know. I can help you fix it after your session."
+
+Thalia turned her head to look.
+
+"Stop moving," the artist complained.
+
+"Sorry."
+
+Annabeth grinned and worked on the drawing. She had felt invisible for years in the life she remembered whenever somebody treated a twelve-year-old girl's interest in architecture as a hobby she'd outgrow. Here the problem was different. People recognized her as Thalia's younger sister and a child of Zeus before they recognized the projects she'd built. Thalia usually tried to compensate by introducing her as the cleverest person in camp. Annabeth loved the intention and hated having to live up to it.
+
+When the portrait was finished, the boy showed it to them. Thalia looked like herself, except the artist had made her chin more severe and drawn the borrowed owl shirt so faithfully that the emblem was visible over her heart.
+
+"Well?" Thalia asked.
+
+Annabeth examined it. "Good likeness. The shoulder's a little high."
+
+The artist laughed. "I know. She moved."
+
+"I was being artistic," Thalia protested.
+
+"You were fidgeting."
+
+Thalia snatched her own copy of the picture and held it beside her face. "Does it look like me?"
+
+Annabeth nodded. The image caught an expression she knew from childhood, or rather from the stories her sister had told her about childhood: Thalia trying to appear dangerous while she was actually pleased to be noticed.
+
+"It does," she said. "And my shirt looks better on you."
+
+"That is a terrible lie."
+
+"I'm very good at them."
+
+The artist thanked them, and Annabeth went to find a proper wedge for the chair. Percy passed with his empty bucket on the way back from the shed. He glanced at Thalia's picture and said it was a good drawing.
+
+"Except the shoulder," Annabeth said.
+
+Thalia groaned. "She's going to say that every time."
+
+"Probably," Percy replied.
+
+Annabeth took the shim from the workshop's scrap box and tested it under the chair. It made the station level enough for the next portrait. The artist thanked her and marked her name beside the little repair note.
+
+Thalia waited while she finished. She did not tell the boy that Annabeth could design better furniture than the entire camp, or that she ought to be asked to build a new station. She let her sister complete a small job and receive thanks for it.
+
+As they left, Annabeth slipped her arm through Thalia's.
+
+"That was fun."
+
+"You mean the portrait or fixing a chair?"
+
+"Both."
+
+Thalia looked suspicious. "You only came because I made you."
+
+"No. I came because you asked."
+
+The distinction pleased them both, though neither said so. At the arena they parted to change into practice shoes, still wearing each other's clothes, with an hour left before lunch and no agreement yet about which one looked more ridiculous.
+
+---
 
 Sparring was Thalia's love language, even if she'd never say it out loud.
 
@@ -344,7 +489,7 @@ Annabeth rolled onto her side, cheek on her arm, straw stuck to her lip. She loo
 
 Annabeth shook her head. "That was fun. I like when it's just us. No scores. No —" She waved a hand. "No destiny stuff. Just straw and stupid."
 
-Thalia nodded, throat tight. She understood exactly what Annabeth meant. At camp, everything was training for something. Every spar was evaluated, every power measured, every dream potentially a prophecy. It was exhausting, especially for kids like them, children of the Big Three — no, child of Zeus and child of Poseidon, plus Thalia, another child of Zeus — withstorms in their blood and oracles watching.
+Thalia nodded, throat tight. She understood exactly what Annabeth meant. At camp, everything was training for something. Every spar was evaluated, every power measured, every dream potentially a prophecy. It was exhausting, especially for kids like them, children of the Big Three — no, child of Zeus and child of Poseidon, plus Thalia, another child of Zeus — with storms in their blood and oracles watching.
 
 "Yeah," Thalia said. "Just stupid. My favorite."
 
@@ -354,7 +499,134 @@ Annabeth smiled, then yawned hugely. "Phase Five?"
 
 ---
 
-**Annabeth**
+
+Annabeth noticed the tear when they were leaving the arena.
+
+It wasn't a big one. The seam under the arm of her owl shirt had opened where Thalia had stretched to catch a practice spear. But the pale fabric showed through just beneath the little emblem over the heart, and the sight made Annabeth stop walking.
+
+"Thalia. Your shirt."
+
+Thalia looked down, twisted her arm and saw the gap.
+
+"Oh. Damn."
+
+"That's my favorite."
+
+"I know. Sorry. I'll fix it."
+
+"You don't know how to sew."
+
+"Then I'll learn."
+
+Annabeth would usually have turned the answer into a joke. She was tired after sparring, and the shirt mattered more than she wanted it to. Percy had drawn the trident on the sleeve. She'd added the lightning bolt beside it. It was one of the first things they'd made together after waking in the altered camp, and sometimes she touched the ink when she was frightened that the memories of their older lives would grow too difficult to keep separate.
+
+"I shouldn't have lent it to you," she said.
+
+Thalia stopped. The sentence landed harder than the torn seam had.
+
+"You asked for my jacket," she replied. "You said we should exchange things."
+
+"I know."
+
+"And it was an accident."
+
+"I know that too."
+
+"Then what's the problem?"
+
+Annabeth didn't answer. She hated that she could be entirely correct about an accident and still feel angry with the person who caused it. She wanted her sister to understand the shirt wasn't just an old piece of clothing. She also knew that asking Thalia to wear something and then resenting her for using it wasn't fair.
+
+They walked the rest of the way to Cabin One without speaking. Thalia went to her locker, changed out of the shirt and placed it carefully on the bed between them.
+
+"I said I'd fix it," she repeated.
+
+Annabeth touched the seam. "Silena can do it."
+
+"I'm the one who tore it."
+
+"That doesn't mean you should make it worse by trying to mend something you've never sewn before."
+
+Thalia opened her mouth to argue. Then she shut it and sat on the floor.
+
+"All right. I'll ask Silena to show me."
+
+Annabeth considered whether that was enough. She realized she wanted her sister to care about the shirt, not necessarily to do every part of the repair with her own hands.
+
+"Can I come?" she asked.
+
+"Of course."
+
+They found Silena in the common room of Cabin Three, sorting thread and small metal clasps. She looked at the torn seam and set aside her work.
+
+"This isn't difficult," she said. "It's a straight stitch. The fabric's thin, though. If you pull it tight, it'll pucker."
+
+Thalia took the needle with the wary expression she wore when somebody handed her a weapon she'd never trained with. Silena threaded it, then demonstrated the first two stitches on a scrap.
+
+"Your turn."
+
+Thalia tried. The needle went through the fabric, then through the edge of her thumb.
+
+"Ow."
+
+"That's why I told you to keep your hand out of the way."
+
+"I heard you."
+
+"You didn't listen."
+
+Annabeth watched them. She had been expecting Thalia to give up and demand somebody else finish. Instead her sister tried again, more slowly. The first stitch was uneven. The second was better. After five minutes she could make a row of tiny dark threads across the torn seam.
+
+Silena inspected the result. "That's good enough to hold, if you don't go back to sparring in it."
+
+Thalia turned toward Annabeth. "I won't. Next time we're exchanging clothes, I want a contract."
+
+"With what terms?"
+
+"No sword drills in borrowed shirts. No taking my jacket to the forge. No magic practice with somebody else's sleeves."
+
+Annabeth smiled. "Those are reasonable."
+
+"Don't tell anyone I said something reasonable."
+
+Silena gave them a small tin for storing the spare thread. Thalia asked if she could keep the needle too. Silena said yes, provided Thalia returned the scissors to the sewing box afterward.
+
+They walked back to Cabin One with the repaired shirt folded between them. Annabeth had expected to feel relieved the moment the seam was closed. Instead she felt embarrassed by how sharply she'd spoken.
+
+"I'm sorry I said I shouldn't have lent it to you," she said.
+
+"You were upset."
+
+"That wasn't an excuse."
+
+Thalia looked at her. "I know you like that shirt. I forgot when I put it on. I thought it was funny because it was yours, not because it meant something different to you."
+
+"Both are true."
+
+"Then next time tell me about the second part before we start fighting over clothes."
+
+Annabeth nodded. She had spent the morning trying to make a point about being old enough to choose what belonged to her. It felt appropriate, if irritating, to learn that sharing also meant letting somebody else handle a thing imperfectly.
+
+Thalia put the shirt on Annabeth's pillow. The repair was visible if she looked closely, a little row of dark stitches beneath the owl. Annabeth ran her thumb across it.
+
+"It's still mine," she said.
+
+"Absolutely. And next time you want to borrow my jacket, ask before you steal it."
+
+"You said I could."
+
+"I said you could today."
+
+"Sister law says today counts as precedent."
+
+"Not in any court I respect."
+
+They laughed. The conversation had not made either of them less protective of their favorite possessions. It had given them a way to ask what those possessions meant before using them as proof of how much they loved each other.
+
+Thalia sat on her bed, looked at the old bronze trunk beneath it and hesitated. Then she reached for the key hanging around her neck.
+
+"Come here," she said. "I want to show you something else."
+
+---
 
 Thalia's trunk was a museum.
 
@@ -436,13 +708,134 @@ Thalia bumped her shoulder. "That's what sisters are for. Keeping the stuff you 
 
 ---
 
-**Thalia**
 
-Dinner was picnic-style on the Zeus cabin roof.
+When Annabeth finally put the photograph down, she discovered that Thalia had stopped looking at it.
 
-Thalia wasn't supposed to know how to get up there — Chiron had given her The Talk about roofs after the Great Pegasus Incident — but Luke had shown her the loose shingle by the gutter three years ago, and some knowledge was sacred. She boosted Annabeth up first, then hauled up the blanket and the shoebox and the snacks they'd saved: two apples, a bag of popcorn from the Apollo cabin stash, lukewarm Cokes in glass bottles.
+Her sister was sitting on the floor with the open trunk between her knees, pretending to sort old ticket stubs. The stub in her hand was from a movie theater in California. She had been turning it over for almost a minute.
 
-They sat shoulder to shoulder, backs against the chimney, watching the sun go down over the Sound. Camp spread below them in golden light — cabins glowing, torches flickering on along the paths, the dining pavilion loud with laughter, the bronze dragon at the amphitheater catching the last sun. The pine tree on the hill stood dark against the sky. The ocean beyond glittered.
+"Do you want me to put the picture away?" Annabeth asked.
+
+Thalia looked up. "Why?"
+
+"You're not looking at it."
+
+"I'm looking at the other things."
+
+"Thalia."
+
+Her sister sighed. "I don't want you to think I kept it because I wanted to convince you Mom was wonderful."
+
+Annabeth held the frame against her knees. Beryl was smiling into the camera, and the little girl in her arms looked delighted by something outside the picture. Jason was half hidden by her skirt. Thalia stood close enough to hold Annabeth steady if their mother shifted her weight.
+
+"I didn't think that," Annabeth said.
+
+"You looked happy when you found it."
+
+"I was happy. It has all of us in it."
+
+"That's what worries me. There's a whole afternoon around that picture you can't see."
+
+Annabeth waited. Thalia picked at the paper edge of the ticket stub until a small white strip came loose.
+
+"Mom was drinking again by that evening," Thalia said. "I remember because she took us somewhere afterward and left the restaurant before we'd eaten. She said she had to make a phone call. I sat outside with you and Jason until a waiter brought us sandwiches."
+
+Annabeth looked down at the picture. Beryl's smile had been there earlier that day. The little girl in her arms had been laughing. Both things could be true without telling her what happened later.
+
+"I still like the picture," Annabeth said.
+
+"I know. I just don't want you to decide I lied about the bad parts because there's one nice photograph."
+
+"I don't think you're lying."
+
+Thalia put the ticket stub back into the box. She had spent enough years telling herself she needed to remember every bad decision Beryl made that she sometimes feared the good memories would weaken her judgment. Annabeth had memories of a different mother, a woman who was dead in the altered life and alive in the one Percy remembered. No, that was Percy's complication. Annabeth's own complication was wanting to recognize Beryl without being able to.
+
+"I know you want to write to her again," Thalia said.
+
+"I do."
+
+"And I know you've heard me say no to visits."
+
+"Because Chiron hasn't agreed anything."
+
+"Because I don't trust her to follow through."
+
+Annabeth looked up. "Those aren't the same reason."
+
+"They're both true."
+
+"Then tell me both. Don't act as though the rules are the only thing you care about."
+
+Thalia looked away. The younger sister who had once accepted a blanket and a bedtime story because there was nothing else to give her now wanted an answer with the uncomfortable parts left in.
+
+"I want her to get better," Thalia said finally. "I want her to get so much better that if she offers us something, I don't have to spend the night wondering what she'll do when it goes wrong. But I can't make myself believe that because she's written a few good letters."
+
+Annabeth nodded. She could understand wanting to believe and being unable to.
+
+"Can I keep the picture on my desk?" she asked.
+
+"Yes."
+
+"And can you tell me if you don't like seeing it there?"
+
+Thalia considered. "I can tell you. That doesn't mean you have to hide it."
+
+"Good."
+
+They sat for a while. From outside came the scrape of a practice sword against the arena fence and the sound of somebody calling for a missing sandal. Camp was continuing with the indifference of a place where people had their own work.
+
+Annabeth picked up a small photograph of Jason, separate from the family frame. He was sitting on a floor, holding a spoon like a sword. She smiled despite herself.
+
+"He looks like he was a lot of work."
+
+"He was. He was also very polite. He'd hit you with the spoon and then apologize."
+
+"That does sound like him."
+
+"From his letters?"
+
+"From the Iris-message. He kept apologizing for asking questions, remember?"
+
+Thalia smiled. They had been given one conversation with their brother and were still trying to build a whole relationship out of the pieces it provided. It was hard not to imagine what he'd look like next year, whether his voice would change, whether he would know them when they met in person again.
+
+"We should send him a picture of us," Annabeth said.
+
+"A recent one?"
+
+"Yes. With the haircuts. He can see what we look like now."
+
+Thalia considered. "I'd like that."
+
+"Can we borrow Silena's camera?"
+
+"Ask her. And no posing me like I'm a recruit in a Roman inspection line."
+
+"You stand like that on your own."
+
+"I'm naturally dignified."
+
+Annabeth laughed. She returned the older photographs to their sleeves, pausing over the family portrait. She didn't want it to stand for the whole childhood she'd lost. It could be a picture of one afternoon, good and bad things still happening beyond the frame. That was more useful than making it prove their mother had been one sort of person forever.
+
+She put the frame on her desk beside the photograph of the shrine. Thalia glanced at it, then got up to help her straighten it.
+
+"You're tilting it," Thalia said.
+
+"Because the desk is uneven."
+
+"Then fix the desk."
+
+Annabeth looked at her. "Have you met me?"
+
+"Unfortunately."
+
+They wedged a scrap of cardboard under the shorter leg until the frame stood level. Then they closed the trunk, returned the key to the cord around Thalia's neck, and went to find food for the evening.
+
+---
+
+Dinner was picnic-style on Cabin One's west balcony.
+
+Hal had inspected the railing, approved the folding bench Annabeth had helped design, and made it clear that the old trellis to the roof was still off-limits. Thalia had complained about the rules, then carried the snacks outside through the actual door: two apples, a bag of popcorn from the Apollo cabin stash, and lukewarm Cokes in glass bottles. Annabeth followed with the shoebox and blanket, taking exaggerated care to avoid scratching their newly finished bench.
+
+They sat shoulder to shoulder, backs against the warm cabin wall, watching the sun go down over the Sound. Camp spread below them in golden light — cabins glowing, torches flickering on along the paths, the dining pavilion loud with laughter, the bronze dragon at the amphitheater catching the last sun. The pine tree on the hill stood dark against the sky. The ocean beyond glittered.
 
 Popcorn between them. Annabeth's head on Thalia's shoulder, leather jacket draped over both of them like a blanket. Thalia's arm around her. Easy. Warm.
 
@@ -526,7 +919,7 @@ Annabeth was quiet. Then she wormed her hand into Thalia's, fingers cold, grip f
 
 Thalia laughed, wet and startled. "Olympus 2.0?"
 
-"With better plumbing," Annabeth said solemnly. "And a library. And a roof we can sit on without Chiron yelling."
+"With better plumbing," Annabeth said solemnly. "And a library. And a balcony we can sit on without Chiron yelling."
 
 "Chiron's gonna yell anyway."
 
@@ -534,7 +927,7 @@ Thalia laughed, wet and startled. "Olympus 2.0?"
 
 They sat there, hands linked, shoulders pressed, jacket over their knees. No resolution. No promise that quests wouldn't come or growing wouldn't hurt or that Thalia would ever stop seeing seven-year-old Annabeth with a steak knife when she looked at twelve-year-old Annabeth with a bronze sword. No promise that Annabeth wouldn't one day walk into something Thalia couldn't follow.
 
-Just closeness. Just this roof, this sunset, this shared blood humming faintly like distant thunder.
+Just closeness. Just this balcony, this sunset, this shared blood humming faintly like distant thunder.
 
 Thalia tipped her head back against the chimney. Annabeth leaned her whole weight against Thalia's side, head tucked under Thalia's chin like when she was small. Thalia rested her cheek on top of Annabeth's fresh haircut, breathing in strawberry shampoo and straw and sunshine.
 
@@ -572,11 +965,11 @@ Thalia held her tighter. Annabeth held on back. Above them, the sky deepened to 
 
 They stayed until the popcorn was gone and the Cokes were empty and the air turned cool enough that Annabeth shivered and Thalia wrapped the leather jacket fully around her and then wrapped herself around the jacket.
 
-"Come on, shortstack," Thalia said finally, standing and pulling Annabeth up. "Curfew. If Chiron catches us on the roof, Sisters Day becomes Punishment Week."
+"Come on, shortstack," Thalia said finally, standing and pulling Annabeth up. "Curfew. Hal approved the balcony, not sleeping out here."
 
 Annabeth grinned, sleepy and happy, hair mussed, flannel wrinkled, Thalia's jacket huge on her shoulders. She held the shoebox carefully, the Jason photo on top.
 
-They climbed down, shushing each other, giggling when Annabeth almost slipped and Thalia caught her. They left the blanket for tomorrow. They snuck in through the window — Thalia insisted the door was too obvious — landing in a heap on the marble floor, laughing into their hands.
+They carried the shoebox and empty bottles through the balcony door. Thalia caught the corner of the blanket on the handle and nearly knocked the whole stack over, which made Annabeth laugh loud enough for someone down the hall to ask whether they were all right. "Perfectly," Thalia called back, rescuing the bottles before they hit the floor.
 
 They brushed teeth side by side in the Salon Storm bathroom, blonde clippings still in the trash, foam on their chins. They changed into pajamas — Annabeth in the owl shirt Thalia gave back (folded, then unfolded, then thrown), Thalia in an old Ramones shirt — and collapsed into Thalia's bunk, which was bigger by two inches and therefore, by sister law, communal property.
 
@@ -591,6 +984,3 @@ She didn't solve any of it. She just tucked the blanket around Annabeth's should
 Annabeth, half-asleep, mumbled back: "Love you more. Sister law."
 
 Thalia smiled, closed her eyes, and slept.
-
----
-

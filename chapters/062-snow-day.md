@@ -28,6 +28,12 @@ He remembered snow from mortal school in New York in his original life, when cla
 
 "Whoa," Percy breathed. His breath fogged the air.
 
+It had been a long November. School in Atlantis had made Percy better at reading currents, but it hadn't prepared him for how quiet Camp Half-Blood became once most of its summer campers went home. Clarisse and Silena had returned for their winter break only two days earlier, bringing extra coats and enough teasing to make Cabin Three sound occupied again. Grover had a few days of approved leave from his first Searcher route before reporting back to the Council. Thalia had come from Westover Hall for the same break.
+
+Now all of them were here at once, and the snow had arrived before anyone could agree how to spend the morning.
+
+Percy glanced at the weather notice Chiron had sent overnight, folded beside his bunk. The barrier was stable. The paths might not be. Chiron had asked campers to wear boots and report damage before treating the weather as a game. Percy had read the notice, then fallen asleep thinking about sleds. He wondered whether that counted as having followed instructions.
+
 The door banged open.
 
 "Percy! Are you seeing this? Are you awake?" Tyson filled the doorway, snow on his huge shoulders, snow in his eyebrows, grinning so wide Percy thought his face might crack. He wore two different scarves and a wool cap pulled low over one eye. "It is snow! Real snow! At camp! Lady Amphitrite says it happens once every many years when the currents turn cold and Lord Boreas sneezes!"
@@ -94,7 +100,7 @@ And then, from the path to the white marble cabin on the hill, two figures appea
 
 Percy knew them before he could see their faces. He would have known Annabeth's walk anywhere, quick and purposeful even in snow boots, blueprint tube gone for once, replaced by a thermos. And Thalia's longer stride beside her, hands in pockets, black hair with its silver streak bright against a gray hat.
 
-Annabeth Grace. Daughter of Zeus in this history. Twelve years old, same as Percy. Thalia Grace's little sister.
+Annabeth Grace. Daughter of Zeus in this history. Thirteen now, like Percy, and Thalia Grace's little sister.
 
 She saw him and her whole face lit up.
 
@@ -236,15 +242,227 @@ Grover patted her wing. "A little of both, Ella. A little of both."
 
 ---
 
+The first real problem happened before the snowball fight.
+
+Milo came running from the cabin rows with a coil of rope over one shoulder and a wool hat that had slipped down over both eyebrows. He stopped on the Big House steps, caught his breath and looked around for Chiron.
+
+"Cabin Ten's shutter is holding," he said. "But the roof above the storage room is collecting too much snow. Somebody needs to check it before the drifts get heavier."
+
+Percy put down his cider. He remembered the shutter. He'd helped repair it in September, before he learned how quickly a small crack could become a winter problem.
+
+"Didn't we fix that?"
+
+"The shutter," Milo said. "Not the roof. They're different parts of the building."
+
+"Right."
+
+Chiron asked where the weight was concentrated, then summoned the older Hephaestus campers who were qualified to inspect the structure. The younger children were told to stay away from the wall below the drift until the adults had confirmed it was safe.
+
+Clarisse was already reaching for a shovel.
+
+"Tell me where to dig," she said.
+
+"Not the roof," Milo answered. "You'd damage the shingles. We can clear the path and the low eaves, but we need a professional inspection before anybody climbs."
+
+Percy looked at the snow spreading across the camp. He wanted to be helpful. For a moment he'd imagined lifting a great wave of water and pushing the snow away. Then he pictured icy water running into the storage room and freezing against the foundation.
+
+"Water would make it worse, wouldn't it?"
+
+"Much worse," Milo said, with feeling.
+
+Annabeth came forward and studied the roof line from the ground.
+
+"The snow's drifting against the taller building," she said. "Wind comes across the open green, hits the wall and drops its load on the lower section."
+
+"So the problem isn't just how much falls," Percy said. "It's where it ends up."
+
+"Exactly."
+
+Chiron approved a small work party to clear the walkway and move movable supplies away from the affected wall, while Hephaestus staff made the roof safe. It didn't cancel snow day. It delayed a few games, which the Stolls described as an appalling injustice until Clarisse handed them shovels.
+
+Percy joined the work party, boots crunching in fresh snow. Milo showed him where to pile cleared snow so it wouldn't block drains or create another drift. Grover helped guide a pair of younger satyrs carrying boxes of cabin decorations away from the storage room. The boxes weren't particularly valuable, but they belonged to campers who expected to find them next spring.
+
+A yellow box split open on the path. Out spilled a dozen painted wooden stars and a paper chain whose glue had come apart.
+
+"That's Katie's," one of the satyrs said miserably.
+
+Percy gathered the stars while Annabeth retrieved the chain before the wind caught it. The decorations were wet, but they hadn't been destroyed. They carried everything to a dry table beneath the Big House porch.
+
+Tyson tried to help with the largest shovel. Its handle snapped on the first scoop.
+
+He looked so ashamed that Percy nearly laughed, then thought better of it.
+
+"It's a small shovel," Percy said. "You have large hands."
+
+"I should have remembered."
+
+"Here." Milo gave Tyson a broad plastic snow scoop and showed him how to push rather than lift the heavy drift. "This one will hold."
+
+Tyson tried it. The scoop glided across the path, carrying a wide sheet of snow without breaking.
+
+"Better," he said, delighted.
+
+By the time the path was clear, the Hephaestus staff had inspected the roof and started a careful removal of the concentrated drift using suitable equipment. Chiron kept the storage room closed until they were finished. There was no heroic rescue, no cracking beams and no roof falling down. That was the intended result.
+
+Percy was glad.
+
+As they walked back toward the porch, Annabeth pointed to a small heap of snow he'd left beside the drain.
+
+"That needs moving."
+
+"It's only a little."
+
+"When it melts, it'll flow into the path and freeze overnight."
+
+Percy looked at the drain. He'd been so pleased to finish shoveling that he hadn't thought about what happened afterward.
+
+He moved the heap.
+
+Milo thanked him, then promised to put the roof on the summer inspection list. Percy remembered the conversation they'd had in September about why small problems got ignored. The answer hadn't changed. People were busy, and the consequences arrived later.
+
+Chiron emerged from the Big House once the storage room was safe.
+
+"Now," he said, "the snowball competition may proceed."
+
+A cheer went up. Percy felt the kind of satisfaction he usually associated with winning a fight. Only this time the victory was an undamaged building and a pile of ornaments drying near the stove.
+
+"Not much of a quest," Clarisse said as they reached the playing field.
+
+"Best kind," Milo replied.
+
+Annabeth smiled at him, then looked down at Percy's gloves.
+
+"Your fingers are wet."
+
+"I was shoveling."
+
+"Then change them before throwing snowballs. Frozen fingers make terrible decisions."
+
+Percy started to argue that he could manage the cold. He remembered the swollen wood on Cabin Ten's shutter and went back to his bunk for dry gloves instead.
+
+---
+
 The field between Cabin Three and Cabin One had never looked like a battlefield before.
 
 It was perfect for it. Flat, wide, white, with low drifts for cover. Hay bales and overturned canoes made bunkers. A center line had been stomped into the snow.
 
 On the Poseidon side: Clarisse in front, already building an arsenal, barking orders like a general. Silena beside her, calmly packing perfect spheres and stacking them in neat pyramids. Percy, snow in his blue pom-pom hat, sleeves pushed up. Tyson, who counted as artillery all by himself, humming while he rolled a ball as big as a pumpkin.
 
-On the Zeus side: Thalia in front, grinning. Annabeth beside her, already surveying angles, pointing out sight lines. Two year-rounder Zeus kids behind them, armed to the teeth.
+On the Zeus side: Thalia in front, grinning. Annabeth beside her, already surveying angles, pointing out sight lines. Two Hermes campers who had joined the Zeus team for balanced numbers stood behind them, armed with snowballs.
 
 A crowd gathered along the sidelines with cider cups. Grover and Ella dragged their pot to a bench. Chiron watched from the Big House porch with binoculars.
+
+The two Hermes campers did not look convinced they belonged on the Zeus team.
+
+One was a girl named Fern who could throw accurately only when she was standing still. The other, a younger boy called Micah, was small enough that the biggest snowbanks hid him entirely. Neither had expected to spend the day being described as honorary thunderbolts by Thalia Grace.
+
+"Can we pick a different name?" Fern asked.
+
+"What's wrong with thunderbolts?" Thalia said.
+
+"You're a child of Zeus. We're not. I don't want the Ares kids teasing us for a month because we yelled a Zeus cheer."
+
+Thalia opened her mouth to say something dismissive. Annabeth stepped in.
+
+"Then don't yell it," she said. "We're a team for this game, not a new cabin. Call us the Hill team."
+
+Percy watched his girlfriend draw a line on a scrap of paper and show the changes to Thalia. She had insisted on roughly even numbers, which made sense, but hadn't thought about how children from other cabins would feel when asked to fight under somebody else's identity.
+
+Thalia considered the paper.
+
+"Fine. Hill team."
+
+Fern looked relieved. Micah looked disappointed; he had apparently liked the thunderbolt part. Percy almost laughed.
+
+Clarisse came over holding a snowball the size of a grapefruit.
+
+"Connor wants to know whether Tyson counts as one player."
+
+"Of course he does," Percy replied.
+
+"He's three times as tall as Micah."
+
+"That's not his fault."
+
+"No," Clarisse said. "But if he throws that thing at a kid's face, it'll be everybody's problem."
+
+Tyson stood a few yards away rolling snow into an enormous ball. When Percy called his name, he stopped and looked up, worried.
+
+"Am I in trouble?"
+
+"No," Percy said. "We need to change what counts as a snowball."
+
+Tyson looked down at his masterpiece. It was nearly the size of a barrel.
+
+"Not this one?"
+
+"Maybe we can save it for the snowman contest."
+
+Tyson thought about that. "Then it will be art."
+
+"Excellent idea," Silena said, arriving with a basket of spare gloves. "Art doesn't need to hit anybody."
+
+Connor called both teams to the center line to settle the rules. He'd been trying to conduct the game like an Olympic ceremony, but the arguments kept interrupting him. Nobody minded except Connor.
+
+"All throws must be soft, packed from fresh snow," he announced. "No ice, no giant projectiles, no throwing above the shoulders. Anyone who trips or says stop gets a pause. And nobody gets to pretend an accidental hit means they can keep throwing at someone who is down."
+
+Clarisse rolled her eyes. "It's a snowball fight, not a treaty."
+
+"Treaties are good," Annabeth answered. "They prevent later wars."
+
+"Not always."
+
+"No," Annabeth admitted. "But rules that everyone heard are better than rules somebody makes up after losing."
+
+Thalia snorted and offered Clarisse a handshake across the line.
+
+"Agreed?"
+
+Clarisse studied her hand. "You aren't going to shock me?"
+
+"No powers. Your own rule."
+
+"Fine."
+
+They shook. Connor made a great show of writing the agreement in Ella's notebook, then asked whether anybody wanted to sign as a witness. Half the campers raised their hands. The other half started throwing practice snowballs at the ground.
+
+Milo, still wearing the hat that covered his eyebrows, arrived from the roof inspection and asked whether he could play. He'd spent much of the morning clearing snow while everyone else warmed up with cider. The Hill team already had too many players, so he joined Percy and Clarisse.
+
+"Now it's not even," Fern complained.
+
+"Two people from the sidelines can switch," Silena suggested. "Or Milo can help judge instead."
+
+Milo looked offended. "I didn't fix the roof to spend the afternoon holding a clipboard."
+
+Chiron, watching from the porch, called that the repair crew had earned the first choice of activity. The teams reorganized until the numbers were as close as possible. It took longer than the actual game would take, and Percy thought the arguing might be the point.
+
+Annabeth walked over to Percy while Connor checked the new roster.
+
+"Are you annoyed that I changed your team?"
+
+"No. I like having Milo with us."
+
+"He's a good thrower."
+
+"He has a plan for where to pile the snow after we finish."
+
+She gave him a look. "That's actually important."
+
+"I know."
+
+"You're turning into a person who thinks about what happens after a game."
+
+"Terrifying, isn't it?"
+
+She smiled. "A little."
+
+The teams took their places. Micah was given a lower bunker he could see over, and Tyson set his enormous snowball aside for later sculpture work. Clarisse inspected every pile for pieces of ice. The game was still likely to be loud, messy and unfair in ways they hadn't anticipated. That didn't make the preparations pointless.
+
+When Connor finally climbed onto the hay bale with his flag, all the children were shivering from standing around.
+
+"Can we play now?" he shouted.
+
+"Please!" both teams answered.
 
 Connor Stoll stood on a hay bale with a white flag. "Rules!" he shouted. "No powers! No ice! No wind gusts! No shaking the ground! Snowballs only! If you get hit three times you're out and you go sit with Grover and tell Ella a joke! Last team standing wins! Or most people left after twenty minutes! Ready?"
 
@@ -284,7 +502,7 @@ They counted. They rose. They charged.
 
 What followed entered camp legend.
 
-Clarisse and Percy swept wide right while Silena and Tyson covered from the center. Thalia met Clarisse head-on in the middle, trading throws until both were powdered white. Tyson's giant snowball buried the two Zeus kids to the knees to huge cheers.
+Clarisse and Percy swept wide right while Silena and Tyson covered from the center. Thalia met Clarisse head-on in the middle, trading throws until both were powdered white. Tyson's soft, loosely packed throw burst into a white cloud near the borrowed Hermes campers, covering their boots to huge cheers.
 
 Annabeth saw Percy coming and her eyes narrowed. She had three snowballs ready. He had two.
 
@@ -328,7 +546,7 @@ Percy and Annabeth looked at each other, faces inches apart, both flushed and br
 
 They sat up together and pelted their sisters simultaneously. Both sisters screeched.
 
-The battle raged for the full twenty minutes. Alliances shifted. The Stolls defected to both sides for snacks. Tyson got hit three times and marched proudly to the cider bench to tell Ella a joke about Cyclopes that took five minutes and made her write three pages. Silena took out both Zeus kids with two perfect throws and then got taken out by Thalia in a diving slide that drew applause.
+The battle raged for the full twenty minutes. Alliances shifted. The Stolls defected to both sides for snacks. Tyson got hit three times and marched proudly to the cider bench to tell Ella a joke about Cyclopes that took five minutes and made her write three pages. Silena took out both borrowed Hermes campers with two perfect throws and then got taken out by Thalia in a diving slide that drew applause.
 
 In the end, it was Clarisse and Percy versus Thalia and Annabeth, all four of them snowy and panting and down to fists full of slush.
 
@@ -458,6 +676,132 @@ Annabeth's face lit up. "Yes. Show me how we used to do it?"
 
 ---
 
+Grover vanished during lunch.
+
+Percy wasn't especially worried at first. There were plenty of reasons a satyr might disappear from a warm dining pavilion, particularly one serving roasted vegetables and cheese sandwiches. But Juniper came to the table with snow on her hair and asked whether anyone had seen him, and the way she asked made Percy put down his food.
+
+"He's by the north fence," she said when she caught her breath. "I told him I'd check the serviceberry after the snowfall, but he went ahead."
+
+Percy remembered the little tree they'd planted for Grover's uncle before the Searcher route began. It was scarcely more than a stick now, its leaves gone for winter. He'd seen it last week from the path but hadn't inspected the ties or the trunk.
+
+"Is it damaged?"
+
+"I don't know. I saw his footprints near the fence and couldn't find him when I called."
+
+Thalia stood. "We'll help look."
+
+"Not all of us," Annabeth said. "If Grover just went to check a tree, arriving with fifteen people will make him think he's done something terrible."
+
+She was right. Percy took his coat and followed Juniper, while the others promised to watch for Grover if he came back to the pavilion.
+
+They found him kneeling beside the serviceberry with his back to the path. Snow had piled around the little protective fence. A thin branch stuck out at an odd angle, and the canvas wrap had come loose where the wind had caught it.
+
+Grover was holding the torn wrap in his lap.
+
+"Hey," Percy said.
+
+Grover turned. His expression went through surprise, irritation and finally embarrassment.
+
+"Juniper said she'd check it. I know."
+
+"So why are you out here?"
+
+"I wanted to see it myself."
+
+Juniper crouched beside the tree. She didn't scold him for coming. She examined the bark where the branch had bent and told him which part was still living.
+
+"It's not broken through the trunk," she said. "The wrap came loose, and the branch took the weight. We can prune the damaged bit later, after checking where it split."
+
+Grover looked unconvinced.
+
+"I wasn't here when the snow started."
+
+"You were doing your Searcher training," Juniper reminded him. "You can't be in two places."
+
+"I know."
+
+Percy watched him pick snow from the base of the little sapling. Ferdinand was still in the recovery team's care, his case open. Grover's route had taken him through forests far from camp, and he'd been writing reports about the conditions there. Percy wondered whether the tree had become a place where he could imagine doing something for his uncle when he couldn't visit the recovery center.
+
+"Did the Council send news?" Percy asked.
+
+"Not yet. I sent the last report when I reached camp. They said they'd review it after the break."
+
+"You did the work."
+
+"Yes."
+
+"Then you don't have to prove you're still doing the work by standing out here freezing."
+
+Grover shot him a glare.
+
+Percy sighed. "All right. That sounded like Silena."
+
+"More like Chiron."
+
+"Worse."
+
+Juniper smiled faintly. She fetched a new length of tree wrap from the groundskeeper's supply box and asked Grover to hold the stake while she secured it. Percy brushed away the heavy snow near the protective fence. They didn't shake the branches violently or pull at the frozen bark. Juniper insisted they leave the snow close to the roots where it insulated the ground, moving only the weight pressing against the young stem.
+
+The work took twenty minutes. At the end the tree looked much as it had before, except for the damaged branch and the fresh wrap.
+
+Grover inspected it closely.
+
+"Will it grow back?"
+
+"The tree can grow around this," Juniper said. "We don't know exactly what the top will look like next summer, but the roots are healthy."
+
+He nodded, finally looking relieved.
+
+"Then we should put the pruning on the spring list," Percy said.
+
+"Already done," Juniper answered, holding up a small card.
+
+Percy laughed. He knew now why Annabeth liked Juniper. Neither trusted a promise until someone had written down who was responsible for carrying it out.
+
+Grover stood and brushed the snow from his trousers.
+
+"Ferdinand would say I worried too much."
+
+"What would you say?" Percy asked.
+
+"I'd say he worried about me when I was small. Seems fair that I should get to worry about him now."
+
+Percy didn't tell him to stop. He had heard that sort of worry in Clarisse's voice and in Thalia's when she asked after Jason. It didn't disappear when somebody supplied a tidy explanation.
+
+Juniper brushed a little snow from Grover's sleeve.
+
+"Come back inside," she said. "Your cider's probably cold."
+
+"Cider can be reheated."
+
+"Your fingers can't, if you stand out here forever."
+
+Grover took the hint.
+
+On their way past the north irrigation ditch, Percy stopped to inspect the board they'd installed before the quest. The channel was shallow beneath its rim of ice, but the board remained firmly in place. The water was moving where it should. It looked ordinary. Percy found himself strangely proud of it.
+
+Grover saw him looking.
+
+"That one's still holding," he said.
+
+"Yeah."
+
+"I guess not everything needs fixing every time it snows."
+
+Percy thought of the shutter, the roof and the serviceberry.
+
+"Only the parts that do."
+
+Grover rolled his eyes. "You're turning into a camp maintenance pamphlet."
+
+"Better than a prophecy."
+
+They went back to the pavilion. Juniper asked the cooks for fresh hot cider, and Grover sat down with the rest of them without pretending that his fingers weren't numb. Percy looked toward the snowman teams gathering outside and wondered what Clarisse had managed to build while he'd been gone.
+
+He hoped it was something ridiculous.
+
+---
+
 Judging at sunset drew the whole camp to the parade ground.
 
 The snow had stopped. The sky cleared to pale gold and pink.
@@ -521,6 +865,122 @@ He nudged her mitten with his. "Thanks for my trident. It's way better than my o
 "Deal," Percy said.
 
 Their mitten-hands lingered, wool catching on wool. Neither pulled away.
+
+The Golden Ladle became a problem almost immediately.
+
+It was enormous, far too large to be used for soup, and someone had painted its handle gold in a way that left glitter on everybody's mittens. Chiron had awarded it jointly, which sounded generous until he asked where the winning cabins wanted to display it.
+
+"Cabin Three," Clarisse said.
+
+"Cabin One," Thalia said at exactly the same time.
+
+They glared at each other.
+
+"It's our trophy," Clarisse said.
+
+"We won too," Thalia replied.
+
+"You got help from Hermes."
+
+"Your team had a Cyclops. Shall we start counting advantages?"
+
+Percy watched the argument rise with fascination. Half an hour earlier they had been laughing together beside the snowmen; now they were preparing to litigate the ownership of a wooden kitchen utensil. Annabeth stood between the two sculptures, studying the ladle.
+
+"Could we share it?" Percy asked.
+
+"We are sharing," Clarisse said. "We just haven't decided where it goes."
+
+"That's a very specific definition of sharing," Annabeth replied.
+
+Tyson held out his hands. "We can cut it in half."
+
+Silena looked horrified. "Absolutely not. Chiron spent all afternoon painting it."
+
+"Then we could make another," Tyson offered.
+
+"That would defeat the purpose of a unique prize," Annabeth said.
+
+Milo, who had been carrying the judging table back toward the pavilion, set it down beside them.
+
+"Why does a cabin have to keep it?" he asked.
+
+Both sisters turned toward him. He looked briefly alarmed by the attention.
+
+"The contest was camp spirit, right? All of you made the snowmen. Everybody watched. The ladle could go in the dining hall."
+
+Clarisse frowned. "Then nobody wins."
+
+"Everyone can see who won," Milo answered. "Put the names on the handle."
+
+Percy thought it sounded reasonable. That made him nervous. Clarisse disliked being beaten in an argument almost as much as she disliked losing a match.
+
+Thalia looked at Annabeth. "What do you think?"
+
+Annabeth held the ladle horizontally and inspected the space beneath the painted bowl.
+
+"We could attach a little brass plate with the date and both team names. And leave room for next year's winners."
+
+"Next year?" Silena asked.
+
+"Why not make it an annual winter contest, if there's snow? If there isn't, we can choose another challenge."
+
+Chiron, who had arrived behind them without anyone noticing, cleared his throat.
+
+"There is not snow every year."
+
+"Then it might be a sand-sculpture contest," Percy said. "Or making something from leaves."
+
+"Or an engineering competition," Annabeth suggested.
+
+"That sounds like homework," Clarisse said.
+
+"It sounds like losing an engineering competition," Thalia answered.
+
+The argument resumed, but the sharpness had gone from it. Tyson offered to make a proper display bracket. Milo said he'd help if they used the workshop rather than trying to drive screws into a marble column. Silena volunteered to write the plaque in her best lettering.
+
+Percy expected the matter to be settled. Then Clarisse turned to him.
+
+"You've been suspiciously quiet. Do you want it in our cabin?"
+
+"A little," he admitted.
+
+That surprised her.
+
+"I like trophies," he explained. "I also like seeing the whole camp get credit for something that wasn't a quest. Put it where everybody can find it. Maybe we can visit it when we want to brag."
+
+Clarisse considered. "We can brag in the pavilion."
+
+"Efficient," Silena said.
+
+Thalia handed the ladle to Tyson, who carried it solemnly as if it were a ceremonial sword. The dispute was settled without a duel. Percy suspected that disappointed the Stolls, who had been trying to organize bets.
+
+As the others went ahead, Annabeth lingered beside the two snowmen.
+
+"I wanted us to win," she said.
+
+"We did."
+
+"I mean I wanted Cabin One to win on its own. It has a lot of empty beds. Sometimes I get tired of having to defend why it exists."
+
+Percy looked up at the white marble cabin above the field. He knew she meant more than the snowball teams. A cabin with a powerful father who rarely visited could feel like a claim other people made about you, rather than a home you chose.
+
+"That's fair," he said.
+
+Annabeth looked toward the little owl at Poseidon's feet, then at the trident beside the storm cloud. "I'm glad the two pieces go together. I just don't want everybody assuming we have to be one thing because we're together."
+
+"We can be two things."
+
+"More than two."
+
+"Okay. Lots of things."
+
+She laughed. He hadn't intended a clever answer, and for once it landed exactly where he wanted.
+
+Behind them, Tyson announced that the bracket would need to be reinforced because the ladle was heavier than a normal soup utensil. Milo replied that anything built by Tyson ought to be tested against at least three times its expected load. Annabeth heard that and immediately headed toward the workshop.
+
+Percy followed, carrying their wet gloves.
+
+The sculptures would melt. The prize would remain on its bracket until somebody won it again. He liked that the day would leave something behind besides a stack of damp clothes and snow in his boots.
 
 ---
 
@@ -723,6 +1183,30 @@ They walked back toward the lights together, leaving two sets of footprints side
 Snow still sifted down, soft and slow. The camp glowed gold at the edges. Somewhere up the hill, Thalia laughed. Somewhere by the lake, Clarisse shouted. Somewhere in between, Grover played a hesitant reed pipe tune while Ella recited jokes to the stars.
 
 Percy swung their joined hands once, and Annabeth swung back.
+
+Percy was halfway to the cabins when he realized he'd left his blue hat by the little owl.
+
+"Go on," he told Annabeth. "I'll catch up."
+
+She looked at the sky. "The light's going. Don't trip over the frozen path."
+
+"That's only happened twice."
+
+"Three times."
+
+He retraced his steps along the snowmen. The camp looked different now that the games were over. The drifts had been pushed aside, exposing the dark gravel beneath them. The roof over Cabin Ten was no longer carrying the dangerous weight from morning. The serviceberry by the north fence stood wrapped and protected. Tiny points of light glowed from the windows of the year-round cabins.
+
+He found the hat beneath the owl's left wing, where he'd taken it off to adjust the beak.
+
+The owl had started to soften in the fading daylight. One black pebble eye had slipped down the side of its face. Percy lifted it back into place, then stopped. He couldn't make a snow sculpture last any more than he could make a summer stay. He could keep the pebble, perhaps, once the owl melted. He could tell Annabeth the story afterward.
+
+He decided to leave it where it was for the night.
+
+When he reached Cabin Three, Clarisse had hung the wet gloves near the stove and Silena had put Tyson's giant empty wool cap over a chair to dry. There was a little puddle beneath the door. Nobody had bothered to make the cabin neat yet.
+
+Percy liked the mess. It had been made by people who were here, who would wake tomorrow and complain about whose boots were in the way. He found a place for his hat beside the others, changed into dry socks, and went to dinner.
+
+Annabeth had saved him a seat at the end of the bench, close enough to the brazier to warm his hands without soaking another pair of gloves.
 
 Snow day, with family. Sea and sky. Together.
 

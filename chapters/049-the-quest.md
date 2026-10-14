@@ -103,6 +103,89 @@ He looked at Annabeth. She looked back. Her gray eyes were huge, but her mouth h
 
 Chiron's voice came from below. "Children? What did she say?"
 
+
+---
+
+They were halfway down the attic stairs when Annabeth stopped.
+
+Percy nearly ran into her. Grover was behind him, still helping Rachel with her blanket, and Thalia had taken the lead to make sure the steps were clear. The air had begun to smell like ordinary dust again, but the words from the Oracle stayed sharp in Percy's ears.
+
+"What is it?" he asked.
+
+Annabeth turned her notebook over so that the page was hidden against her chest.
+
+"I want to check what she said about the owl."
+
+Percy stared at her. "Right now?"
+
+"Before everybody starts telling us what it means."
+
+Thalia called from the landing. "Beth, Chiron's waiting."
+
+"One minute."
+
+Something in her voice made Thalia pause. Percy expected a protest, but his girlfriend's sister kept moving, taking Grover and Rachel down the final flight. Clarisse waited a few steps below with Silena, apparently guarding the space without having been asked to.
+
+The moment they were alone, Annabeth unfolded the notebook.
+
+"Sea-born, storm-born, wild hoof-worn. That's Percy, me, and Grover if Chiron agrees. But the end is *owl and trident*. I'm Zeus's daughter here, Percy."
+
+"I know."
+
+"An owl isn't his symbol."
+
+Percy remembered a life in which Annabeth's gray eyes had been proof she was Athena's child. He remembered her wearing an old Yankees cap, studying blueprints, arguing with gods who expected gratitude simply because they had bothered to speak. He remembered the owl on an offering he had once helped her make. Those memories were real to him. They were not proof that the present gods had preserved the same relationships.
+
+"Maybe the prophecy is talking about our other life," he whispered.
+
+Annabeth looked toward the open stairwell. Voices carried from below, Chiron asking for a clear account of Rachel's words, Thalia asking him to wait until everybody was safely down.
+
+"Maybe," she said. "But the Oracle didn't say Athena's daughter. She said owl."
+
+"Could mean you. Could mean somebody else."
+
+"I know. I don't want us to decide it's about me just because it used to be."
+
+Percy felt a cold pinch of fear. In the world they remembered, prophecies had managed to be both accurate and misleading. Sometimes the trouble came from knowing too much and assuming the rest would follow.
+
+"Then we don't decide," he said.
+
+Annabeth examined the page again. She had written the six lines exactly as Rachel spoke them, then underlined the last one. Beside *owl* she put a question mark.
+
+"There's also the thief with somebody else's face," she said.
+
+"Lots of monsters can pretend to be people."
+
+"And gods."
+
+"And mortals with the Mist."
+
+"And people we think we know," Annabeth said.
+
+Percy watched her write three possibilities, leaving space below them. She wasn't listing suspects. She was preventing them from settling on one too soon.
+
+He thought of the stolen bolt from the quest he remembered. The old sequence of events had taught him not to trust the obvious explanation. But the words about stone and a false face were new, and he had no reason to believe his memories supplied the missing answer.
+
+"I don't think we should tell Chiron what we remember about the old bolt," he said.
+
+"Not as if it happened this time," Annabeth agreed. "If we tell him a theory, it should have evidence from this life."
+
+Below them, Chiron called their names.
+
+Annabeth folded the page closed.
+
+"This isn't us forgetting," she said. "It's us checking."
+
+Percy nodded. He took her hand for the last few steps, not to lead her and not to be led, just because the stairs were steep and they were both shaken.
+
+When they reached the landing, Thalia looked at their joined hands and the closed notebook but didn't ask. She was already arguing with Clarisse about whether Rachel should be allowed to walk down unaided.
+
+Rachel, wrapped in her blanket, rolled her eyes.
+
+"I can walk," she said. "I have legs. Also, I would really like toast."
+
+Percy stepped aside so she could pass. For once, nobody tried to turn her into a voice that existed only to tell other people what they should do.
+
 ---
 
 They told him downstairs around the ping-pong table, which had been cleared of paddles and covered with a map of the United States instead.
@@ -189,6 +272,119 @@ Percy felt his own eyes burn. He stood and hugged both his sisters at once, arms
 
 "Damn right," Clarisse said, and kissed the top of his head hard. "Don't die, Kelp Head. I will kill you."
 
+
+---
+
+The question of Thalia being a guardian lasted longer than her victory had made it seem.
+
+Chiron called the four travelers back to the map after Clarisse and Silena went outside for air. The ping-pong table was covered with roads in blue ink, folded schedules, and three empty circles he had drawn on a sheet of paper to represent the named questers.
+
+Thalia pointed at the circles. "You could draw a fourth."
+
+"That would not change the Oracle's words," Chiron said.
+
+"I know. I'm saying it would make your diagram accurate."
+
+Grover was staring at the map with an expression Percy recognized from whenever their satyr friend smelled a monster and could not decide which direction it was coming from.
+
+"Could I say something?" he asked.
+
+Everybody turned. Grover fidgeted with the reed pipes tucked into his belt.
+
+"If the Oracle says three, and we take four, isn't that exactly the sort of thing we tell campers not to do when we teach them old quest stories?"
+
+Thalia's face reddened. "I'm not planning to steal anybody's place."
+
+"I know. But if a fight happens, and you win it for us, then maybe we're not the three who did what the prophecy said."
+
+Annabeth leaned forward.
+
+"And if she doesn't help when one of us is about to die, we're being ridiculous about the wording."
+
+"Also true," Grover said faintly. "I was hoping there'd be an easier answer."
+
+Chiron set down the pen. Percy had noticed that adults sometimes looked delighted when a child found a problem, as though finding the problem were the same as fixing it. Chiron didn't. He looked tired.
+
+"There is no rule saying a fourth companion immediately cancels a quest," he said. "There is also no guarantee that the Oracle's number will have the meaning we first assign it. A guardian may travel near a party without taking charge of the tasks named for that party. But once danger comes, all of you will have to decide what your obligations require."
+
+"So you can't give us instructions that make it safe," Percy said.
+
+"I can give you sensible precautions. I can't promise you a safe interpretation of a prophecy."
+
+Thalia glanced at her sister. "Fine. Precautions. Start with the obvious: I'm not letting anyone separate Annabeth from the group in a fight."
+
+"Good," Chiron said. "But do not interpret every difference of opinion as a reason to take command of her."
+
+Thalia looked as though he'd accused her of something appalling.
+
+"She's twelve."
+
+"So is Percy," Annabeth said. "Nobody keeps saying his age every time he picks up a weapon."
+
+"Believe me," Percy muttered, "Clarisse does."
+
+Annabeth didn't look away from Thalia.
+
+"I want you with us," she said. "I really do. But I need you to be my sister, not a second commander who can overrule me whenever you're frightened."
+
+Thalia swallowed.
+
+"I'm frightened all the time about you," she answered, very quietly.
+
+Percy felt a little ashamed of how often he'd heard that sentence without noticing what it cost her to say it.
+
+Annabeth reached over the map and turned the pencil between her fingers.
+
+"Then if you think I'm doing something stupid, say so. I'll listen. Don't decide that because you're older you get the last vote."
+
+Thalia considered. "What if it's a monster coming at you with a sword?"
+
+"Then hit it. I'm not asking you to schedule an argument while it swings."
+
+Grover made a helpless little noise, half laughter, half relief.
+
+Percy thought they were finally agreeing on something, but Chiron held up a hand.
+
+"The protections Zeus withdrew yesterday matter," he said. "There will be no eagle escort assigned to you, and you should not count on the court's aid if weather turns dangerous. That includes you, Thalia. Your own talents are yours to train and govern; they are not a substitute for an escort the god has explicitly refused."
+
+Thalia nodded once. Percy knew she hated hearing her father's sanction turned into a practical travel constraint, but it was one. Chiron wasn't inventing it.
+
+"We'll use roads with places to shelter," Annabeth said. She looked at Percy. "Can you handle water if we get stuck without a storm escort?"
+
+"Sometimes. Depends how much there is."
+
+"Good. That's what I'll write. Sometimes."
+
+"That's not very reassuring," Grover said.
+
+"Would you rather have me promise it always works?"
+
+"No. Please don't."
+
+Chiron marked the map at several public rest stops but didn't hand it over yet.
+
+"Tomorrow morning you will receive the formal route guidance and the drachmas available to the camp. Tonight your job is to pack for what you can carry, not what you wish you could carry. A bag too heavy to run with can turn a small problem into a fatal one."
+
+Grover immediately began to look guilty about his backpack.
+
+"And you," Chiron said to him, "must decide when the wild is giving you information and when fear is merely making every noise seem dangerous."
+
+Grover nodded. "I'm not always good at telling."
+
+"That is precisely why you should tell the others what you sense without declaring certainty."
+
+Percy watched them. Thalia was angry, Annabeth was thinking, and Grover looked as if he had been assigned a final exam on a subject nobody had taught him. None of them seemed especially like the heroes of a prophecy. That made the meeting feel more useful.
+
+He placed his finger between the three drawn circles.
+
+"I don't want to spend the whole trip counting whether we're three or four," he said. "I want to know who needs help and who's able to give it. If the prophecy has a problem with that, I guess we'll find out."
+
+Chiron looked at him for a long time. Then he folded the paper with the circles and put it away.
+
+"That," he said, "may be the most responsible answer available to us."
+
+Thalia gave Percy a look that was half gratitude and half irritation. He suspected she wasn't done arguing about command. Neither was Annabeth. But they could leave camp with the disagreement spoken aloud rather than buried beneath everyone's attempts to sound brave.
+
 ---
 
 Chiron dismissed them to prepare. Departure at dawn — not today, tomorrow, to allow packing, blessings, and messages to Olympus. One day to get ready for the road west.
@@ -201,7 +397,7 @@ Percy could not walk ten feet without someone stopping him.
 
 At the dining pavilion, the Poseidon table was mobbed. Younger kids he barely knew pressed ambrosia squares and drachmas and lucky shells into his hands. A nine-year-old Demeter girl gave him a seed packet. "For emergencies," she whispered. "Plant it and run."
 
-Tyson, Percy's Cyclops half-brother, arrived on a visit from the undersea forges with a waterproof satchel he had stitched himself from old sailcloth, seams crooked but strong, and presented it with both hands. "For quest," Tyson said proudly. "Waterproof. I tested in lake. Peanut butter sandwich survived."
+Tyson, Percy's Cyclops half-brother, still visiting from the undersea forges, arrived with a waterproof satchel he had stitched himself from old sailcloth, seams crooked but strong, and presented it with both hands. "For quest," Tyson said proudly. "Waterproof. I tested in lake. Peanut butter sandwich survived."
 
 Percy hugged him. "Best satchel ever."
 
@@ -216,6 +412,95 @@ Annabeth was mobbed worst of all. Everyone wanted the storm-born daughter to loo
 Percy caught Annabeth's eye over Thalia's arm. She smiled tiredly. He mouthed, you okay? She mouthed back, meet me later.
 
 He nodded. Later. They would need later.
+
+
+---
+
+Grover found Percy at the edge of the strawberry fields with a list of questions he'd written on a scrap of bark.
+
+Percy had been trying to count the gifts stuffed into his jacket pockets. He had two drachmas, a lucky shell, three pieces of ambrosia somebody had slipped him without an explanation and a small packet of seeds. Silena was going to make him take most of it out again when she checked his bag.
+
+"Why bark?" Percy asked.
+
+"I ran out of paper," Grover said. "And this was already on the ground."
+
+The list was scratched deeply enough that Percy could read it. It contained *water*, *food*, *train*, *monster smell*, *money*, and *Juniper?* The last word had been underlined twice.
+
+"Does Juniper need to come?" Percy asked.
+
+Grover looked horrified. "No. She needs to know I'm not going to disappear without saying goodbye. I told her I would tell her when I was leaving camp. That was supposed to mean something."
+
+"Then tell her. Now."
+
+"I did tell her. She wants to know whether I'll be able to write."
+
+Percy hadn't thought that far ahead. He'd imagined heading west and returning with the bolt, all the difficult days compressed into a single adventure. From the look of Grover's list, their actual problems would begin much sooner.
+
+"Can we send messages from the road?" he asked.
+
+"Sometimes Iris messages work. Sometimes the connection is lousy. Sometimes you don't have a drachma, or water, or time." Grover tapped the first word on the bark. "I want to know what happens when we can't."
+
+Annabeth arrived carrying two empty water flasks and a roll of string. Thalia followed with a small tin of sewing supplies she'd taken from Cabin One.
+
+"I heard the word messages," Annabeth said.
+
+"Grover wants a way to tell Juniper he's alive," Percy explained.
+
+"Not every hour," Grover said quickly. "Just when I can. I don't want her sitting by her tree thinking I've forgotten."
+
+Annabeth set down the flasks. "Then we should decide how often we'll try. And what counts as a missed message."
+
+Thalia frowned. "If we promise every night, we'll end up taking risks just to keep the promise."
+
+"Exactly," Grover said, relieved. "I don't want that either."
+
+They sat in the shade at the edge of the rows. Annabeth drew three columns on the back of an old practice schedule: what they could carry, what they could ask Chiron to provide, and what they simply couldn't guarantee. Percy pointed out that Chiron's map and drachmas were due in the morning. They could plan questions, not pretend to have the supplies already.
+
+Grover explained what satyrs could sense on the road: plants under stress, disturbed soil, the smell of monsters when the wind was favorable. He admitted the smell of traffic and hot asphalt made those senses harder to use. He didn't always know whether a strange odor meant danger or merely a mechanic working late in a roadside garage.
+
+Percy had assumed Grover would be their early-warning system. Listening to him now, Percy realized he'd been treating his friend's ability as if it were a machine that could be switched on and trusted without a second thought.
+
+"So if you say something smells wrong, we stop and look," Percy said. "But we don't assume you know what it is."
+
+"And if I say I don't know, you don't argue me into saying I do."
+
+"Agreed."
+
+Thalia picked up the bark list. "What's this about train?"
+
+"If we have to take public transport, I need to know where I can hide my hooves," Grover said.
+
+"Your jeans are fine," Percy said.
+
+"Until somebody asks me to take my shoes off, or we get dragged into a station with metal detectors and I'm carrying pipes and three knives."
+
+"You're carrying three knives?" Annabeth asked.
+
+"One is a plant knife. One is a cheese knife. One is for cutting rope."
+
+Thalia sighed. "We'll check what actually belongs in the bag."
+
+Percy glanced at her. "Same goes for your spear."
+
+"My spear is completely reasonable."
+
+"It is longer than Grover."
+
+"That is an argument in its favor."
+
+They argued about the spear until Annabeth made them write it on the list for Chiron to review. None of them knew how the Mist would behave around a security checkpoint. A plan based on everybody seeing what they wanted to see wasn't much of a plan.
+
+Finally Grover took the bark back. He crossed out the question mark beside Juniper and wrote *when safe*. Beneath it he added *tell her before we go*.
+
+"That's enough," he said.
+
+Percy thought so too. They couldn't know where the thief was, whether a message could reach Atlantis, or whether Zeus would punish his daughters more severely tomorrow. But they could agree not to sacrifice a companion's safety to a promise of a postcard.
+
+As they separated for packing, Annabeth handed Percy one of the flasks.
+
+"Fill this before tomorrow," she said. "Actual water, not the sea. Grover needs to drink it too."
+
+Percy nodded and carried it to the cabin, where Silena was already waiting with a growing mountain of sandwiches.
 
 ---
 
@@ -259,6 +544,103 @@ Percy nodded, throat tight. "I will."
 
 Clarisse stood and pulled him into a headlock and rubbed his hair until he yelped. "Best little brother," she muttered into his hair, so low only he heard. "Come back with all your limbs."
 
+
+---
+
+There was another problem with leaving that nobody had mentioned while they were packing.
+
+Percy found it when he went to put his repaired practice shield back in the armory. The storage racks were half empty. Someone had drawn up a list of cabins responsible for each border watch, and every slot under Cabin Three had been crossed through and written again.
+
+"That's my patrol tomorrow," he said, pointing at one line.
+
+Clarisse was standing over the list with the older camper who managed the equipment room. She looked at where Percy pointed.
+
+"Not anymore. You're going west."
+
+"I know. But who's replacing me?"
+
+"An Ares camper who actually knows how to be quiet in the woods."
+
+"That's harsh."
+
+"It's a compliment to the Ares camper."
+
+Silena entered with a spool of spare stitching cord and a stack of bandages. She had told Percy she was going to ask the infirmary for the missing pieces of his kit. Apparently she'd taken the opportunity to collect supplies for half the camp.
+
+"Is he arguing about the patrol?" she asked.
+
+"He is."
+
+"I wasn't arguing," Percy said. "I wanted to know."
+
+"Then come look at the schedule," she replied.
+
+She spread a clean sheet over the workbench. Percy was startled to see how much of the ordinary camp week depended on tasks he'd never thought to ask about. There were deliveries to the forge, boat inspections, rotations at the infirmary and a half-dozen jobs that amounted to repairing things other campers broke. Cabin Three appeared on almost every page.
+
+"I did the boat inspections," Percy said. "I thought they just sort of happened."
+
+"Things rarely just happen," Silena answered.
+
+Clarisse snorted. "He's learning."
+
+Percy studied the schedule. He had spent the whole day letting other people promise to protect him. Here was a different problem: the work they'd been doing together would continue after he left. The camp could lose people to a quest without losing the jobs that kept everybody else alive.
+
+"Who's doing the boats?" he asked.
+
+"Tyson offered to help until his visit ends," Silena said. "And two campers from Hephaestus know how to check the rigging. We'll do it with them tomorrow and make sure somebody else can take over when Tyson returns to the forges."
+
+"The border watch?"
+
+"Mostly Clarisse and the other counselors," Silena said. "No heroics. Actual rotations, so people sleep."
+
+Clarisse scowled. "I sleep."
+
+"You pretend to."
+
+"I close my eyes occasionally."
+
+"That's not the same thing."
+
+Percy didn't step between them. It was an old argument, one he'd heard in different forms since arriving at camp. What interested him now was how matter-of-fact they sounded about the work. The prospect of war had frightened them, but neither had answered it by waiting for a god to tell them what to do.
+
+The older camper at the equipment desk handed Percy a pencil.
+
+"If you know which ropes are fraying on the canoes, write them down," he said. "I've been asking for two weeks."
+
+Percy looked at him. "I told the dock supervisor."
+
+"He didn't tell me."
+
+"Then that's not a Percy problem."
+
+"It will be a camper problem when one breaks."
+
+Percy took the pencil. He wrote down the canoe numbers and described which lines he thought needed replacing. He couldn't remember the part numbers. The older camper said that was fine; he'd rather have a description than another confident guess.
+
+Clarisse checked the entries, then drew a small star beside two of them.
+
+"These first," she said. "They're the ones the younger campers use."
+
+By the time they were finished, the sun had moved halfway down the window, and the great pile of gifts in Percy's pockets had begun to seem less important. This was the life he was leaving for a few weeks: not a collection of people frozen in place until a hero came back, but a camp full of small repairs, grumpy counselors, and people who had to make decisions without him.
+
+Silena rolled up the work sheet.
+
+"Now," she said, "go say goodbye to Ella. She has been waiting by the lake and getting angrier with every page of the book she tries to read."
+
+Percy looked at the boat schedule one last time. He would worry about the campers he was leaving behind. But he didn't need to make them promises they hadn't asked for. They had work to do, and they were doing it.
+
+Clarisse caught him at the door.
+
+"Before you start feeling guilty about being the one who goes," she said, "remember nobody made you volunteer for the prophecy."
+
+"Chiron sort of did."
+
+"Chiron gave you a choice. You made it. We made ours." She pushed his shoulder, not hard. "Don't insult us by acting like staying is the easy job."
+
+Percy nodded. He understood what she meant, although he didn't like all of it. Staying meant watching the west road empty every morning and not knowing what was happening on it. Silena and Clarisse would do that while keeping the camp standing.
+
+He hugged them both, quickly enough that Clarisse didn't have time to complain, and went to find Ella.
+
 ---
 
 Ella cried.
@@ -292,6 +674,149 @@ Ella straightened. Tears still on her cheeks, but her eyes focused, bright and s
 Ella stared at the blue tie. She cradled it to her chest. "Ella will guard with life. 'Guard with life,' many books. Ella understands."
 
 She hugged him, wings beating, and Percy hugged back hard. Over her shoulder he saw the other harpies turn away to give them privacy, one of them wiping her beak on her wing.
+
+
+---
+
+Percy was on his way back from the lake when he saw a crowd outside the Big House.
+
+It was a small crowd, at least compared with the one that had gathered around him after the quest announcement. Four campers stood near the back steps. One of them held a notebook. Another was talking fast, asking whether a prophecy could be requested for personal questions.
+
+Rachel sat on the low wall beside the porch with a sketchbook balanced across her knees. A half-finished drawing of a kitchen window filled the page. She was wearing ordinary clothes now, paint on her fingers and the shoulder of her shirt, and her hair was held back with a band that had slipped crookedly above one ear.
+
+"No," she said.
+
+The notebook boy kept smiling. "But you said the Oracle spoke through you. Couldn't you just ask it one more question?"
+
+"No."
+
+"Just a little one. Whether I'll get claimed before next summer."
+
+Rachel closed the sketchbook.
+
+Percy had come looking for the answer to a different question. He wanted to ask whether a thief wearing somebody else's face meant an actual disguise, the Mist, or a god taking a body that didn't belong to him. He hadn't even decided whether the question was fair. Looking at Rachel's face, he found he no longer wanted to ask it in front of other people.
+
+"Hey," he said, stepping between the campers and the porch. "Chiron wants everybody to finish their duties."
+
+The notebook boy frowned. "We're not doing anything."
+
+"You're asking her to work after she told you she's done."
+
+"You're going on the quest. Easy for you to say."
+
+The words landed harder than Percy expected. It was true that Percy had been given an answer, or something he could pretend was an answer, while the other boy had been waiting for a claiming sign nobody could promise him. Percy knew what it was like to need a parent to recognize you. He also knew that need did not make Rachel responsible for solving it.
+
+"I'm not telling you not to worry," Percy said. "I'm saying she already said no."
+
+The boy looked at Rachel. She met his eyes without smiling.
+
+"I don't know when you'll be claimed," she told him. "I'm sorry. I don't know."
+
+He put the notebook away. His friends followed him down the path, talking more quietly now.
+
+Rachel watched them go, then looked at Percy.
+
+"Are you here to ask a question too?"
+
+"Sort of."
+
+She raised her eyebrows.
+
+"I was," he admitted. "I wanted to know if the line about the thief was literal."
+
+Rachel opened the sketchbook again, but she didn't start drawing.
+
+"I can tell you what I heard."
+
+"I know what you said. Annabeth wrote it down."
+
+"Then you know as much as I do."
+
+Percy sat on the opposite end of the wall. The stone was warm from the afternoon sun. A few bees moved through the flowers near the porch steps, ordinary bees that didn't seem interested in prophecies.
+
+"Do you remember saying it?" he asked.
+
+"Most of it. It's like waking up in the middle of a sentence you weren't planning to speak. I remember the words and the green light. I don't remember deciding on the words." She looked annoyed by her own explanation. "That probably doesn't help."
+
+"It does. It means you're not keeping the rest from us."
+
+Rachel laughed. "I have been accused of many things today. Keeping the rest of the prophecy from the people who have to live through it is one of the more creative ones."
+
+Percy looked toward the attic window. It was closed now, just a round pane among the Big House's ordinary windows.
+
+"Do you think Chiron can stop them bothering you?"
+
+"He asked them to leave me alone until dinner. That lasted maybe forty minutes."
+
+"I can tell him they're back."
+
+"I can tell him myself," she replied.
+
+Percy considered that. She was right. He had made the mistake of assuming help meant speaking for someone else because he happened to be standing closer to the trouble.
+
+"Sorry."
+
+Rachel gave him a dry look. "You seem to be having a day."
+
+"Everybody is."
+
+"Not everybody is going west tomorrow."
+
+He couldn't argue with that. The little group of campers had been worried about being claimed, and Rachel had been worried about being treated like a door to other people's answers. Percy was worried about a weapon powerful enough to start a war. None of the problems made the others disappear.
+
+She returned to the drawing. Percy saw that it wasn't a grand picture of the future, just an ordinary room with a sink, a chipped mug and light coming through a window. The perspective was slightly odd. She erased one corner, drew it again, and seemed happier.
+
+"Is that your house?" Percy asked.
+
+"No. The Big House kitchen. I needed to draw something that actually stays where I put it."
+
+"That sounds nice."
+
+"It is." Rachel hesitated, then added, "I don't regret being the Oracle. I just don't like people thinking every sentence out of my mouth has to become theirs to interpret."
+
+Percy thought of how everybody in the attic had sat as though Rachel no longer existed apart from the prophecy. He'd done it too. She'd nearly fallen off her stool and all he'd been able to think about were the lines in his head.
+
+"I should've asked if you were okay," he said.
+
+"You did, eventually. So did Grover. Silena gave me two juice boxes and told Chiron I needed an actual lunch, not just toast. I suspect she'll be in charge of feeding Olympus by next year."
+
+Percy smiled. "She'd do a better job than whoever is doing it now."
+
+Rachel set down her pencil. "Can I ask you something? Not as the Oracle."
+
+"Sure."
+
+"When you heard the prophecy, did you feel like the road was already decided?"
+
+He looked at the path leading away from the Big House. Through the trees he could see a patch of open ground, then the roofs of the cabins. Beyond the border were roads to places he remembered, places he thought he knew. But this world wasn't following his memory in straight lines. It was barely following the road signs it had set for itself.
+
+"For a minute," he said. "Then we started arguing about whether Thalia can come. That made it feel less decided."
+
+"Good," Rachel said.
+
+"Why good?"
+
+"Because I don't want to feel responsible for telling you how to do every part of it. I said the words. You all still have to make decisions."
+
+Percy nodded. He could live with that distinction better than he could live with the idea that Rachel held an answer she was refusing to share.
+
+The kitchen door opened. Chiron wheeled onto the porch with an empty tea cup on his knee.
+
+"Rachel, there you are. Were there visitors again?"
+
+"Yes," Rachel said, before Percy could answer. "I told them no. Can we put up a notice? Not a dramatic one. Just no questions after the Oracle speaks, unless I ask for them."
+
+"That seems reasonable," Chiron said. "Would you like to write it?"
+
+"Yes. I want it in my own handwriting."
+
+Chiron nodded. Percy watched her tear a clean page from the back of her sketchbook and write the notice herself. He offered to hold the tape while she put it on the porch railing, and this time he waited for her to ask.
+
+When it was done, the sign looked small against the Big House's broad front. It said Rachel was resting and would answer ordinary questions at ordinary times. It did not promise another prophecy.
+
+Percy started down the path. He still had a question about the thief, and probably a dozen more by the time he reached the border tomorrow. Rachel hadn't answered it for him.
+
+She had reminded him that the answer wasn't hers to invent.
 
 ---
 
@@ -389,9 +914,9 @@ Curfew came. Camp slept, or pretended to.
 
 In Cabin Three the lamp burned late. Silena finished the last sandwich label and tied the food bag shut with blue thread in a bow. Clarisse set her spear by the door, ready for morning drills she would lead alone. Percy lay in his bunk with Zoe's charm on its cord around his neck, Tyson's satchel packed by his feet, Ella's blue tie memorized around a harpy wrist by the lake, his sisters breathing on either side.
 
-Across camp in Cabin One — the Zeus cabin, tall and white and humming faintly — Annabeth lay awake tracing the Diver in the air above her bunk, lamp for rope, dim stars for hope held from a boat. Thalia snored softly in the next bunk, one hand dangling down to hold Annabeth's fingers while she slept, guardian even unconscious.
+Across camp, Cabin One's tall white roof was barely visible through Percy's porthole. He imagined Annabeth awake over a last check of the map and Thalia lecturing her about sleep, but he couldn't know. He would see them both at breakfast.
 
-On the hill the mist gathered. In the attic the trapdoor stayed shut. To the west, past the border, past the highway, past stone and desert and chained lightning, something waited without a face.
+On the hill, mist drifted over the border. Percy wondered whether the attic trapdoor was closed again, and whether the thing waiting in the west wore a face he had already seen.
 
 But that was tomorrow.
 

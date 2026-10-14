@@ -600,11 +600,30 @@ And Clarisse sat on the flat rock with her tin cup in both hands and watched the
 
 ---
 
-The lake took the sunrise the way it took everything: slowly, all of it, without comment. The frost went back off the sand at the edges in thin fingers of melt, and the reeds dried in the early light, and the north beach lay there with a fire ring going to ash in it and a blanket nest in ruins and five kids in it, and the season turned while they watched, the way seasons do, without anyone's permission — October come in on the back of a frost while the water was still swimmable and the whole summer lay out on the lake in the last of its warmth, going down deep, held.
+The first person to insist on cleaning the beach was Clarisse. She had counted the sleepers twice, packed her own cup, and discovered that nobody had bothered to bury the cold remains of the fire.
 
-Percy stood up at last, and pulled Annabeth up with him, and they walked down to the water's edge the way they did everything, hand in hand, and put their feet in the shallows, which were cold and clean and freshwater-sweet, and the lake closed over their toes and then their ankles and held them, patient, the way it had held everything it had ever been given: two palaces' worth of memory, five childhoods' worth of different water, one night, and one last warm night, forever, in trust.
+"Before we leave," she said, "the ring gets checked. Nobody wants a wind gust to carry embers into those reeds."
 
-Somewhere out past the sandbar, in the willow shade, the heron shifted its weight on the bow of the sunken skiff and settled again. The stars went out one by one. The lake kept them all, and the sky went on over the pines, doubled and whole.
+Percy looked at the ash. It appeared dead, but he'd been fooled by fire before. He fetched a bucket from the supply pile, drew lake water, and passed it to Clarisse. She tipped it carefully over the ring and stirred the wet ash with a stick until there was no warmth in the center.
+
+"Now the bucket goes back," she said.
+
+"I was planning to keep it as a souvenir."
+
+"Good. Then you can carry it."
+
+Annabeth was already folding the map she'd used to plan the camping site. She stopped to mark the place where they'd moved the sleeping blankets after the first cold gust came up the shore. Their original arrangement had left one side exposed. The revised one had held. It was a small correction, but she wanted to remember it before somebody else planned another trip.
+
+Thalia helped Silena roll the bedding. One wool blanket had a damp corner; they kept it separate to dry properly at the cabin instead of packing it against the clean shirts. When the last bundle was tied, Thalia looked over their little campsite with an expression Percy couldn't read.
+
+"What?" he asked.
+
+"Nothing. I just thought we'd forget half this stuff by morning."
+
+"There's still time."
+
+"No," she said, lifting the bundle. "There isn't. We're leaving."
+
+He took the bucket and followed. Annabeth fell into step beside him, carrying the fire map with her thumb over the new mark. Their feet were cold from the shore, and breakfast would be late. Behind them the beach was empty except for flattened sand and a safely soaked ring of stones. The last warm night had ended in practical work, and Percy found he didn't mind at all.
 
 ---
-

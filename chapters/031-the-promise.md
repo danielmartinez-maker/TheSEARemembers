@@ -134,6 +134,130 @@ They stayed until the harpies started pointedly stacking chairs. Percy folded th
 
 ---
 
+Before they left the pavilion, Annabeth changed the apartment drawing.
+
+Percy watched her erase the second bedroom and redraw the wall three inches to the left. On paper it made the kitchen a little larger. It also gave the balcony an awkward corner she hadn't accounted for, which made her scowl and start again.
+
+"Are you sure you want to do this now?" he asked.
+
+"Yes."
+
+"Because you look like you're about to challenge the paper to a duel."
+
+"It keeps being too small."
+
+"Maybe apartments are smaller than imaginary houses."
+
+She looked up. "I'm trying to make it something we could actually afford."
+
+The word *afford* made Percy sit straighter. He'd been imagining the smell of breakfast and Annabeth's books filling a wall, but he hadn't considered how anybody would pay for a place like that.
+
+"How much would it cost?" he asked.
+
+"I don't know."
+
+"Then why are you drawing it as though you do?"
+
+She put down the pencil. He hadn't meant to be unkind. It was the kind of question she would have asked if he'd told her he could sail to New Rome whenever he felt like it. She knew how to design a load-bearing wall. She didn't know what apartment prices would be in a city they hadn't visited in this history.
+
+"Because I want us to have somewhere," she admitted. "I don't want the only place we can imagine being together to be a cabin somebody else decides we're too old for."
+
+Percy understood that fear. Camp Half-Blood had kept them safe, but the rules of a camp were not the rules of an adult life. They were twelve. In the years they remembered, they'd made plans for college and work, but making those plans now felt both comforting and impossible.
+
+"We can draw what we'd like," he said. "We don't have to pretend we know where we'll live."
+
+Annabeth looked down at the page. She'd drawn the apartment as if it were a destination already waiting for them. She could leave the drawing alone without insisting that the walls matched a future she had no power to guarantee.
+
+"I want windows facing east," she said after a moment.
+
+"Fine."
+
+"And room for books."
+
+"Also fine."
+
+"And I don't want every piece of furniture to be blue."
+
+"You're being unreasonable."
+
+She smiled. He took the pencil from her when she offered it and drew a ridiculous sofa in the living room, shaded orange. She made him write *provisional* beneath it.
+
+He added a small square beside the entryway.
+
+"What's that?"
+
+"Shelf for shoes. Otherwise Clarisse will come over and yell at us."
+
+"She'll yell anyway."
+
+"Then we should give her one fewer reason."
+
+They laughed. Annabeth measured the doorway and adjusted the scale. Percy asked whether an accessible entry would leave space for a wheelchair or someone carrying heavy bags. She looked impressed, then annoyed that she hadn't considered it first.
+
+"Why are you thinking about that?"
+
+"Because the shrine taught me that people use places differently than we imagine. And because you've spent weeks telling me every building should work for the person who needs it most, not the one who designed it."
+
+She added a wider doorway. The changes made the drawing less romantic and more interesting. Percy could imagine carrying groceries into the kitchen while Annabeth stood in the hall complaining about the floor tiles. It was a scene from a future that might never happen. He enjoyed imagining it without calling it a promise.
+
+"Can we keep this?" he asked.
+
+"The drawing?"
+
+"Yes. Even if we change it later."
+
+Annabeth folded it carefully along the margin. "Of course."
+
+She didn't give it to him yet. There was still something she wanted to ask.
+
+"If New Rome exists the way we remember, would you want to study there again?"
+
+Percy considered. He liked the idea of a place where demigods could grow older without constantly expecting a monster to attack. He'd also learned to love the surface life his sisters were helping him make, and he wasn't certain whether moving across the country would feel as easy this time.
+
+"I'd want to visit," he said. "I don't know about living there until we see what it's like now."
+
+Annabeth nodded. She wanted to argue that they had already seen it, but that would have been using the memory as proof the present must be the same.
+
+"What about you?" Percy asked.
+
+"I want to study architecture somewhere that takes me seriously. It might be New Rome. It might be somewhere else."
+
+"Then we can look at both."
+
+"You don't have to choose the same school as me."
+
+"I know. I want to know what you think, though."
+
+She glanced at him. "And you should figure out what you want to study too."
+
+He looked thoughtful. For years people had treated him as a future hero whose education could wait until the next quest was finished. Annabeth was asking him to imagine work that didn't depend on fighting.
+
+"Marine biology maybe," he said. "Or something with boats. Or teaching kids not to get eaten by sea monsters."
+
+"That last one isn't a university major."
+
+"Then I'll start a department."
+
+Annabeth laughed. The future didn't become safe because they'd named subjects they might study. It did become less like a narrow doorway they had to pass through together or lose each other. They could want different things and still keep choosing to speak about them honestly.
+
+Percy handed back the pencil.
+
+"Write one more thing," he said.
+
+"What?"
+
+"That it's a draft."
+
+She looked at the paper for a moment, then wrote *FIRST DRAFT* at the top in large letters.
+
+"There," she said.
+
+"Now it can be the first of a lot of versions."
+
+She put it in her notebook rather than folding it into an oath. They stayed at the table until the kitchen staff began collecting the dishes, and then stood to leave.
+
+---
+
 They walked back toward the cabins together, the gravel path pale under the moon.
 
 Camp at night had its own language. The distant *thump-thump* of the forges cooling. A conch horn from the beach patrol, low and sleepy. Someone playing a lyre badly in Cabin Seven and someone else telling them to shut up, affectionately.
@@ -228,11 +352,11 @@ Thalia nodded. She understood missing someone you couldn't explain.
 
 The dryer buzzed. Neither of them moved to open it.
 
-"I told myself for years he was dead," Thalia said. "Easier that way. Then Annabeth told me what she remembers — about the wolves, about Lupa, about a kid with blond hair and a scar — and I thought, what if..."
+"I told myself for years he was dead," Thalia said. "Easier that way. Then Chiron arranged the Iris-message, and there he was, standing at Camp Jupiter with a ruler in his hand. I heard him talk. I saw his face. I still wake up some mornings afraid I imagined the whole thing."
 
-"You think he's at that Roman place?" Clarisse asked. "The place they remember?"
+"You've spoken to him," Clarisse said. "You know where he is."
 
-"I think he's alive," Thalia said fiercely. "I have to think that. Otherwise what am I doing? Just running around with a spear being angry at clouds?"
+"Yes. But our letters have to go through an intermediary. We don't know when a visit will be approved, or even whether the next message will get through. Sometimes knowing he's there makes it harder to stay here without him."
 
 Clarisse snorted. "You're pretty good at being angry at clouds."
 
@@ -287,6 +411,136 @@ Thalia held out her fist. Clarisse bumped it with her own, knuckles scarred and 
 The dryer buzzed again, insistent. Clarisse finally opened it and pulled out a warm tangle of orange camp shirts. She tossed one to Thalia, who caught it and pressed it to her face, breathing in clean heat.
 
 "Come on," Clarisse said. "If we're going to break curfew, we might as well do it somewhere with stars."
+
+---
+
+Thalia found the letter to Jason the following morning.
+
+It was not a new letter. It was the copy Annabeth had made before they submitted their last message to the Roman intermediary, folded in the drawer beside the correspondence receipt. Thalia had been looking for a pencil to repair the label on her shield strap. She found the envelope by accident and stood with it in her hand for nearly a minute before deciding not to open it.
+
+Annabeth came into the room carrying her shoes.
+
+"What's that?"
+
+"Our copy for Jason."
+
+"Oh." She put the shoes beneath her bunk. "Did the courier answer?"
+
+"Not yet."
+
+"Then why are you holding it?"
+
+Thalia could have told her the truth. She'd been talking with Clarisse about their younger brothers and was suddenly afraid that Jason would receive the letter, answer it and then need something from her she wouldn't be able to give. That fear sounded foolish when there wasn't even a confirmed delivery date.
+
+"I thought about writing another one," she said.
+
+Annabeth looked at the envelope. "We said we'd wait until the first route was confirmed."
+
+"I know."
+
+"Then why another letter?"
+
+"Because I keep thinking of more things I should have told him."
+
+Annabeth sat on the bed. She had not lived through Jason's disappearance in the way Thalia had. Her own memories of him belonged to stories, photographs and the single approved Iris-message. She had begun forming a relationship with the boy they could contact now, not the toddler Thalia had lost.
+
+"What kinds of things?" she asked.
+
+Thalia considered. "What you were like when you were little. The time he carried a spoon everywhere. Whether he liked the beach. Whether he remembers any of it."
+
+"He was two when Hera took him. He might not."
+
+"I know. But I want him to."
+
+Annabeth looked toward the window. The sun was rising behind the hill, and the cabin was beginning to warm. They had spent so many evenings talking about how much they wanted to see Jason that they hadn't spent much time discussing what they'd do if he wasn't the little brother Thalia expected.
+
+"You can tell him about the spoon," she said. "But maybe ask him what he likes now too."
+
+"I did."
+
+"You asked about his training."
+
+"That's what he talks about."
+
+"Then ask something else. What does he do when he's not training? Who does he sit with at dinner? Does he have a favorite book?"
+
+Thalia felt herself becoming defensive. She had been trying to do all of those things, in her own way, and it was hard to be corrected by a sister who hadn't carried the same years of guilt.
+
+"He might not want to talk about it."
+
+"Then he can answer the question he wants."
+
+Thalia looked at the envelope. Annabeth's idea was sensible. She hated that it had taken her so long to think of it.
+
+"You're right," she said.
+
+Annabeth raised an eyebrow. "Please write that down."
+
+"Don't push it."
+
+They got paper from the desk. Thalia wrote a list of questions, not a letter to send immediately. She added one about the kind of music Jason liked, one about whether he'd built anything lately and another asking what part of Camp Jupiter made him feel most at home.
+
+Annabeth added, *Do you have a favorite place to sit when you need to think?*
+
+Thalia looked at her. "That's a good question."
+
+"I know."
+
+"I can ask it without promising him anything."
+
+"Exactly."
+
+They folded the list and clipped it to the correspondence receipt. When Chiron confirmed that their earlier letter had been delivered, they would decide whether to send the questions and whether Jason had asked them anything they needed to answer first.
+
+Thalia returned the copied letter to its drawer. She didn't read it again. She could remember what they'd written without checking every sentence for hidden mistakes.
+
+At breakfast, Clarisse noticed the new pencil mark on Thalia's wrist.
+
+"What's that?"
+
+"Reminder to ask Jason something."
+
+"Anything I should know?"
+
+"Not really. Just questions about his life."
+
+Clarisse nodded. She had talked the night before about the brothers waiting for her in the mortal world, and Thalia felt suddenly curious.
+
+"How often do you write to yours?"
+
+"Whenever I can. The older one sent me a drawing last week. It was supposed to be a sea monster, but it looked like a potato with teeth."
+
+"Did you tell him?"
+
+"I said it was terrifying."
+
+Thalia laughed.
+
+"Do they ask where you are?"
+
+"Sometimes. I tell them I'm safe, which is true. I tell them I'm training, which is also true. I can't explain everything."
+
+"Does that bother you?"
+
+"Every day. But I can send a picture of the things they do understand. Last month I drew the practice shield and told them how I fixed the strap. They wanted to know why it had so many dents."
+
+"What did you say?"
+
+"That I use it."
+
+Thalia looked at her friend. Clarisse could be infuriatingly simple about problems that left Thalia awake at night. She also knew the cost of having siblings who couldn't be present for the whole of her life.
+
+"What if they ask you to come home?" Thalia said.
+
+"Then I tell them when I can. I don't promise a date until somebody responsible has agreed to it."
+
+Thalia thought about Jason again, about letters and visits and all the things she wanted to guarantee.
+
+"I can do that," she said.
+
+Clarisse took a bite of toast. "Good. Then you won't have to spend every conversation apologizing for something you couldn't arrange."
+
+Thalia picked up her plate. She still felt guilty sometimes, but the questions on the desk felt like a better use of that guilt than another letter full of promises she couldn't keep. She went to morning drills with the first thought of what Jason might want to tell her, rather than what she needed him to remember.
 
 ---
 
@@ -379,8 +633,6 @@ Above them, a meteor streaked across Pegasus, brief and gold. Silena gasped. Gro
 "Ella wishes for friends who stay," Ella said. "And cheese. Ella wishes for cheese and friends who stay."
 
 Silena and Grover laughed until their stomachs hurt, until Ella started laughing too — a strange, croaking, wonderful sound — and the meadow echoed it back.
-
----
 
 Percy couldn't sleep.
 
@@ -508,7 +760,260 @@ Not today. Not tomorrow. But someday, they'd have keys to their own front doors 
 
 The sun rose higher. Ella sighed in her sleep. Grover started softly playing — a morning song, bright and simple. Silena hummed along. Thalia closed her eyes and tipped her face to the light. Clarisse stood, stretched, and offered Thalia a hand up. Annabeth leaned her head on Percy's shoulder.
 
-And the sea remembered, and the sky — for once — did not forget, but held them all in blue and gold.
+Percy looked around the table once more, at the people who had made promises he could ask them to keep. Then he reached for the last piece of bread before Clarisse could take it.
 
 ---
 
+That evening, Silena went back to the craft room to finish the piece she'd promised Ella.
+
+It was a small fabric pouch meant for carrying notes without bending the corners. Ella had been keeping loose papers between the feathers under her wing, which worked until it rained or someone bumped into her. Silena had offered to sew something better.
+
+The fabric was already cut. She had chosen pale blue because Ella liked the color of old book covers, and she'd lined it with a dark cloth that would make the papers easier to find. All that remained was the fastening.
+
+Except the fastening was wrong.
+
+She'd sewn the strap too short. When she held the pouch against Ella's wing at the last fitting, the knot landed where the feathers moved every time she flew. Ella had said it was fine because she didn't want Silena to be disappointed. It wasn't fine. The strap would rub, and if Silena insisted on finishing it as planned, Ella would stop using the pouch.
+
+Now Silena sat at the workbench, examining the thread she'd need to remove.
+
+Clarisse appeared in the doorway.
+
+"You're still here? It's almost lights-out."
+
+"I told Ella I'd finish this."
+
+"Did she say she needed it tonight?"
+
+"No."
+
+"Then why are you acting like Chiron gave you a deadline?"
+
+Silena considered. She had been making promises all week. Help Percy with his letter. Mend a friend's shirt. Sort the festival decorations. Finish the pouch. Check the cabin's inventory. She liked being useful, but somewhere along the way usefulness had become a test she kept setting for herself.
+
+"Because I said I'd do it," she replied.
+
+"Then tell her it needs another day."
+
+Silena frowned. "That sounds like breaking a promise."
+
+"It sounds like explaining why the first version won't work."
+
+Clarisse pulled up a chair. She was not a patient sewer. The only reason Silena had convinced her to learn was the scarf she was making for Percy, and even that still had loops of red yarn twisted around each other in strange ways.
+
+"Show me the problem," Clarisse said.
+
+Silena demonstrated how the strap rubbed against the hinge of a wing. Clarisse watched, then took the pouch and held it against her own arm.
+
+"Move the fastening here," she suggested. "Away from the joint."
+
+"That'll make it harder to open while flying."
+
+"Then put it on the other side."
+
+Silena tried the placement. It might work. She needed to fit it on Ella before sewing the final seam.
+
+"Thank you," she said.
+
+"You're welcome. Now go to bed."
+
+"You're enjoying this too much."
+
+"Yes. I like telling the person who tells everyone else to rest that she has to rest."
+
+They returned the pouch to its workbox and left a note for Ella explaining the delay. In the morning Silena would ask her to test the new position. She didn't need to finish it before anybody had agreed the design was comfortable.
+
+Outside, the camp was quiet. Clarisse walked beside her until they reached Cabin Three, then stopped on the steps.
+
+"You make it hard for people to help you," she said.
+
+Silena looked at her. "What?"
+
+"You do everything before they know it needs doing. Then you get tired and pretend you're fine."
+
+"That's not fair."
+
+"Maybe not. But today you were going to stay up all night fixing a bag somebody would have been happy to test tomorrow."
+
+Silena considered the remark. Clarisse was not always gentle with criticism. She was often right about practical things, especially when Silena had spent too long worrying about what people might think of her.
+
+"I don't want anyone to feel they have to carry my work," she said.
+
+"They don't. They can choose."
+
+Silena smiled reluctantly. She'd told Percy something similar earlier in the week and was annoyed to hear it returned in her sister's voice.
+
+"All right. Tomorrow you can help me test the strap."
+
+"No, thank you."
+
+"You just said people could choose."
+
+"I am choosing not to be fitted for a bird pouch."
+
+Silena laughed. It was the first time she'd laughed that evening without thinking about the unfinished projects waiting in the workroom. She went inside, put the sewing box on the shelf and let the pouch wait.
+
+The next morning Ella arrived with the letter she wanted to carry. Silena showed her the two proposed fastening positions and asked which felt comfortable. Ella tested them by opening and closing her wing. The first scraped the edge of a feather; the second sat flat.
+
+"This one," Ella said. "The paper stays dry, and Ella can fly."
+
+Silena marked the chosen position and stitched the strap in place. The pouch held one letter without bending it. Ella shook herself, flapped twice and pronounced it satisfactory.
+
+"Good," Silena said. "If anything rubs after you've used it for a while, tell me."
+
+Ella nodded. She had been so worried about disappointing Silena that she'd nearly accepted something that hurt. It pleased her to discover that the person making the gift wanted her opinion more than her immediate gratitude.
+
+She carried the letter to the library and showed it to Grover. He admired the stitching and asked whether it could hold a second sheet. Ella tested it, then removed one piece because the flap wouldn't close properly.
+
+"One at a time," she decided.
+
+Grover accepted the limit. It was not a flaw in the gift. It was the design that suited her, and Silena had listened long enough to find it.
+
+---
+
+---
+
+Three days later, Percy discovered how badly a promise could be misunderstood.
+
+He was on the way to the lake when he saw Annabeth leaving the Big House with a rolled map and a little stack of books. She had told him that she wanted to inspect the older plans for the camp's retaining wall. He'd offered to come with her, but he'd forgotten until the next afternoon. Now she was on the way to the site with Beckendorf and two of the older campers, without him.
+
+"You're going without me?" he asked.
+
+Annabeth stopped. She looked puzzled.
+
+"Yes. We're inspecting the wall."
+
+"I thought we agreed to make plans together."
+
+She stared at him for a moment. Then she glanced toward Beckendorf, who was waiting by the lower path with the measuring equipment. The last thing she wanted was to argue about their relationship while people stood around listening.
+
+"Can we talk for a minute?" she asked.
+
+They stepped to the side of the porch.
+
+"When we said no solo plans," she began, "we were talking about doing dangerous things in secret. We weren't saying I had to bring you to every meeting."
+
+Percy felt his face warm. He knew that was true. It was also true that he'd looked forward to working on the wall with her and felt foolish discovering she'd gone ahead without waiting.
+
+"I wanted to come."
+
+"You could have told me you were free. I asked you yesterday."
+
+"I forgot."
+
+"Then why are you angry with me?"
+
+"I'm not angry."
+
+She waited.
+
+"Fine," he said. "A little. I thought it was going to be our thing."
+
+"It's my inspection. Chiron asked me to write the report."
+
+That hurt, though he couldn't explain why. He had spent weeks helping with her architectural projects and had begun treating them as proof that they were a team. He liked the work. He liked being useful to her. He'd forgotten that her projects belonged to her whether or not he carried the boards.
+
+"I know it's yours," he said.
+
+"Do you?"
+
+She didn't sound unkind. She sounded concerned.
+
+Percy looked toward the lake. He could hear younger campers shouting near the dock, and he was supposed to be meeting Clarisse for an equipment check in ten minutes. Annabeth had made her own commitment. Neither of them was doing anything secret.
+
+"I think I wanted you to need me," he admitted.
+
+Annabeth put down the books.
+
+"I do need you, Percy. But not to do everything I do. You're good at things I'm terrible at, and you have sisters and friends who want to see you without me standing beside you every time."
+
+"I know."
+
+"Then let me go do this. I'll tell you what we found afterward if you're interested."
+
+He smiled reluctantly. "I'm interested."
+
+"Good. And I want to hear about your dock inspection. Clarisse told me the new tie-off points are terrible."
+
+"They are. Somebody put them exactly where the ropes are supposed to move."
+
+"Then perhaps your work is also important."
+
+She stepped closer and kissed his cheek. It wasn't a consolation prize. It was the kind of small affection they'd been comfortable offering each other for years, even if their present bodies made them more self-conscious about doing it in public.
+
+"See you at dinner?" she asked.
+
+"Yes."
+
+She picked up the books and went to join the inspection group. Percy watched her leave, embarrassed but relieved. He had made a little problem into an argument about promises, and she had corrected him without pretending his feelings didn't exist.
+
+At the lake, Clarisse took one look at his face and said, "What happened?"
+
+"Nothing."
+
+"That's a terrible answer."
+
+He took the equipment checklist from her. She had a different way of recognizing evasions than Annabeth, and he was too tired to invent one she wouldn't see through.
+
+"I forgot Annabeth had a project this afternoon," he admitted. "Then I acted as if she was leaving me out on purpose."
+
+Clarisse considered. "Were you on the schedule?"
+
+"No."
+
+"Then you weren't left out. You forgot."
+
+"Thank you for the compassion."
+
+"You're welcome. Now help me inspect these tie-offs. I want to know whether the ropes can move without scraping the dock."
+
+They spent the next hour checking the marked points. Percy found a fitting that had been installed too close to a sharp corner. Clarisse made him record the defect and bring it to the maintenance team rather than pulling the hardware loose himself. He resented that too, for about three minutes, and then noticed how much more useful the report would be to the person actually responsible for fixing it.
+
+At dinner, Annabeth arrived with dust on her knees and an excited expression that made Percy smile before she said a word.
+
+"We found an old drainage route behind the retaining wall," she said. "It explains why the ground keeps getting wet after storms. Beckendorf thinks the original plan was altered without updating the drawing."
+
+"Can you repair it?"
+
+"Not without another survey. But the first step is figuring out what happened."
+
+He told her about the tie-off fitting. She asked the same question Clarisse had asked: whether he'd put it in the report. He showed her the copy.
+
+She grinned. "Look at us. Two wonderfully boring people doing paperwork."
+
+"Speak for yourself. My paperwork involves boats."
+
+They ate together. Percy didn't need to apologize again. Annabeth didn't need to pretend she'd wished he had been at the inspection. They had both done useful work and had more to tell each other because of it.
+
+That night she showed him the apartment plan one more time. The little note at the top still said *FIRST DRAFT*. Percy added a second note beside the doorway: *Room to come and go.*
+
+Annabeth looked at it, then left it there.
+
+"I like that," she said.
+
+"So do I."
+
+They put the paper away. Their promise had changed slightly over the week. It no longer meant always acting together or never disappointing each other. It meant telling the truth when something mattered, asking before taking over and making enough space that neither person had to become smaller to stay beside the other.
+
+Annabeth made one more change before closing the notebook. She wrote two dates on the facing page: the next inspection of the retaining wall and the next scheduled check of the dock fittings. She put her own initials beside the first and Percy's beside the second.
+
+"You don't have to keep a schedule for my work," Percy said.
+
+"I'm not managing it. I'm remembering when to ask how it went."
+
+"Fair."
+
+He looked at the dates. Both were later in the week. By then she might discover another problem with the wall, and he might learn that the dock fitting needed a different kind of repair. Neither of those outcomes would be a reason to accuse the other of breaking a promise.
+
+"Can I write something too?" he asked.
+
+Annabeth handed him the pencil.
+
+He wrote *Friday dinner* beneath the inspection dates. She raised an eyebrow.
+
+"That's not an appointment with Chiron."
+
+"No. That's why I want to remember it."
+
+She laughed and put a small square around the words. They would still have drills, cabin chores, letters, repairs and whatever unexpected thing the next week brought. It was worth making time for a meal they chose themselves.
+
+Percy returned the pencil and went to his cabin before curfew. Annabeth placed the notebook on her desk beside the plan for the shrine, ready for the next morning and whatever it might require.

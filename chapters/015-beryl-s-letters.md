@@ -101,6 +101,114 @@ She didn't give it to Annabeth after lunch.
 
 ---
 
+Chiron found Thalia in the armory before she had decided whether to go to lunch. He didn't ask why the door was shut. The workshop steward had already mentioned that someone had taken the spare-shield room out of use for an hour, and Chiron's expression suggested he knew exactly who was responsible.
+
+"Are you free for a moment?" he asked.
+
+"Depends what you need me for."
+
+"A question, perhaps. We received a letter from your mother this morning."
+
+Thalia felt the envelope against her chest as though it had suddenly grown hot.
+
+"I know."
+
+"Then the mail reached you."
+
+"It did."
+
+Chiron waited. He had the irritating ability to make silence feel like an invitation without turning it into an interrogation. Thalia had spent years resenting and depending on it in equal measure.
+
+"I'm not trying to keep it from Annabeth forever," she said.
+
+"I haven't accused you of doing so."
+
+"I just need to know what to say."
+
+"Then perhaps you should decide what you know, and what you're afraid might happen."
+
+Thalia leaned against the shield rack. It was a sensible distinction, which made her want to throw something.
+
+"Mom says she's thirty-eight days sober. She has a job. She wants pictures. She asks if we're safe. She asks about Jason, like he might be living in the next cabin over and all we have to do is look."
+
+"Those are the things she wrote."
+
+"She also wants to drive us to the ocean and buy us bracelets. She still doesn't have a car. And the last time she tried to take us somewhere without telling anyone, I spent a night outside a motel trying to find a telephone."
+
+Chiron glanced toward the empty doorway. "You're allowed to be frightened by the offer."
+
+"Annabeth will hear *ocean* and *bracelets* and want to believe the good parts."
+
+"She might. She may also have questions you've never heard her ask."
+
+"She doesn't remember half the things that would make her afraid."
+
+Chiron let the words settle. Thalia knew she had made the problem sound simple. Her sister remembered a childhood Thalia couldn't share, and was missing a childhood Thalia had lived through. That made Annabeth more vulnerable to some stories and less vulnerable to others. It did not mean she had become too young to read a letter addressed to her.
+
+"Is there anything in the letter that puts either of you in immediate danger?" Chiron asked.
+
+"Not from the letter itself."
+
+"Then I can help you think about what safe contact might look like without deciding for you how to feel about your mother."
+
+"What if Annabeth asks to visit?"
+
+"Then we discuss it. A parent being sober for a little over a month is encouraging. It is not the same as establishing a reliable home or a safe travel arrangement. You and your sister will not be sent away because an envelope arrived."
+
+Thalia looked up sharply. "You promise?"
+
+"I promise that I will not treat the letter as sufficient reason to change your guardianship or remove you from camp. Any visit would require a separate conversation, consent and practical safeguards."
+
+She had expected a kinder but vaguer answer. She found the specifics unexpectedly relieving.
+
+"Would you tell her that?" she asked.
+
+"I can, if she wants me there. But I would rather you didn't need me as proof that your worries are reasonable."
+
+Thalia thought of the sisters' letters to Jason, still waiting for a route to Camp Jupiter. She had asked Chiron for help without expecting him to speak for her. She ought to be able to offer Annabeth the same choice.
+
+"I can tell her after lunch," she said.
+
+"Would you like me to check on either of you afterward?"
+
+"Maybe. Not right away."
+
+"All right."
+
+He turned toward the door. She stopped him.
+
+"Chiron. Does thirty-eight days mean she's going to be okay?"
+
+He looked at her with a sorrow she wished he'd concealed.
+
+"It means she has made it through thirty-eight days," he said. "That is real progress. I can't promise what happens next."
+
+Thalia nodded. She had expected that answer. The hope still stung.
+
+After he left, she unfolded the letter and read it again. The line about Jason was still difficult. The mention of matching bracelets still made her remember a day in a department store when Beryl had been sober enough to laugh at Annabeth for choosing the ugliest pair. Both memories belonged to the woman who'd written the letter. Neither canceled the night outside the motel.
+
+She took a clean sheet of paper and wrote a response in the margin of an old drill plan, because it was the first paper she could find:
+
+*Mom, I got your letter. I'm glad you're safe and working. Chiron says the mail route is open, but I don't know whether we can visit. Annabeth should decide whether she wants to write.*
+
+She stopped. She didn't want to write on behalf of a sister she hadn't even told.
+
+She crossed out the last sentence and began again.
+
+*I want to answer you. I need some time. Please write to camp rather than asking anybody to take us away without speaking to Chiron first.*
+
+That was true. It was also more direct than anything she'd sent her mother before. She folded it and put it in the same jacket pocket as the unopened original envelope. She might send it. She might rewrite it. At least she had decided what she wanted rather than only what she wanted to prevent.
+
+Outside the armory, the afternoon bell sounded. Thalia went out toward the pavilion. Annabeth was sitting with her books beside the Zeus table, a penciled diagram spread over her plate. Thalia watched her for a moment and nearly went over.
+
+Then she saw Percy speaking to Clarisse, remembered the promise she'd made to Chiron and decided she couldn't hand over the letter with an audience listening. She would wait until they could talk alone.
+
+The delay had a reason. It did not become harmless because the reason was understandable.
+
+
+
+---
+
 Annabeth knew something was wrong because Thalia lied about the oatmeal cookies.
 
 It was small. That was how Annabeth knew — Thalia Grace did not do small lies well. Big lies, life-or-death lies, monster-behind-you-run lies? Flawless. Small lies? Terrible.
@@ -205,7 +313,7 @@ Annabeth's throat closed. "Wow."
 
 "No, it's fine." Annabeth folded the envelope with shaking hands and shoved it into her own pocket. "You did. You're right. You did. So congratulations. You get to keep doing it forever, I guess."
 
-She turned and walked fast toward the Zeus cabin, blinking hard. She would not cry on the path. Athena girls didn't cry on paths. Zeus girls — well, she was still figuring out what Zeus girls did.
+She turned and walked fast toward the Zeus cabin, blinking hard. She wouldn't cry on the path. Not because daughters of Athena or Zeus had rules about tears, but because she wanted to finish the conversation before she let herself fall apart.
 
 Behind her, Thalia didn't follow.
 
@@ -435,6 +543,144 @@ Annabeth eyed her. "Thalia. The Zeus cabin does not have a kitchen."
 
 ---
 
+Annabeth had read Beryl's letter once, and then twice more after Thalia admitted she'd kept it through lunch. Each reading left her feeling differently. The first time she was angry at the delay. The second time she wanted to find the blue sobriety chip their mother mentioned, as though looking at it would make the thirty-eight days more reliable. The third time she noticed how much of the letter was about promises Beryl couldn't yet keep.
+
+"I want to answer," she said.
+
+Thalia was sitting on her bed with the envelope in her lap. "You can."
+
+"That wasn't permission I was asking for."
+
+"I know. I just don't know how to help."
+
+Annabeth took the paper from the nightstand. There were things she could write honestly. Camp was safe. She was reading books. She had friends. She was getting better at building models and worse at pretending not to be interested in other people's architectural problems. But Beryl had written about a childhood Annabeth couldn't remember, and the idea of replying as though everything were normal made her palms sweat.
+
+"Will she think I'm lying if I say I don't remember the bracelets?" she asked.
+
+"She might think she has to remind you."
+
+"That's not the same thing."
+
+"No."
+
+Thalia rubbed a hand over the envelope. She had been doing that all evening, folding it, smoothing the fold and turning it over without opening it again. Annabeth wondered if she was frightened of the contents or the mere fact that a new letter might come tomorrow.
+
+"I don't want to tell her I remember things I don't," Annabeth said. "And I don't want to make her feel as if she never existed to me."
+
+"She existed. She still does. You're not responsible for making every page of her memories match yours."
+
+Annabeth looked at her sister. She wanted to believe Thalia could say that about their own childhood as well. Sometimes Thalia did, and sometimes she looked at Annabeth as though she had been robbed of something. Neither reaction was easy to live with.
+
+"Can I write that I'm glad she has a job?" Annabeth asked.
+
+"Yes."
+
+"And that she should keep sending letters here, not make plans for visits until Chiron says it's safe?"
+
+Thalia nodded. "That's exactly what I was thinking."
+
+"You can tell her that too."
+
+"I've tried writing it twice. It keeps coming out sounding like I'm accusing her."
+
+"Maybe you are."
+
+Thalia put down the envelope. "Maybe I have reasons."
+
+"You do. I'm not saying you shouldn't. But if the only way she ever hears from us is after you manage to write a letter without sounding angry, she may never hear from us at all."
+
+The words were sharper than Annabeth intended. Thalia drew breath to answer, then stopped.
+
+"You're right about the delay," she said finally. "I'm not ready to tell her everything. I can write that much."
+
+Annabeth fetched two clean sheets from her desk. Thalia usually preferred to use whatever paper was nearest, even if it had a drill schedule on the back, but Annabeth wanted a reply that didn't look like an afterthought. She placed one sheet on each side of the desk and returned to her chair.
+
+For a while only the scratch of their pencils filled the room. Thalia crossed out half her opening sentence and began again. Annabeth made a little sketch of the cabin beside her name, then realized Beryl might not understand why it was built to look like a temple. She labeled the beds and the table instead.
+
+Thalia glanced at it. "You drew my side with all the clothes on the floor."
+
+"That was accurate before we cleaned."
+
+"You could make it flattering."
+
+"I could label the laundry basket as a permanent art installation."
+
+"That's more accurate."
+
+Annabeth grinned, then looked back at the letter. She had begun by writing *Dear Mom* and stared at the words for several minutes. It was an honest way to address the woman who'd written to her. She didn't need it to imply that she remembered every year of the woman's life.
+
+*I'm glad you sent the letter,* she wrote. *I'm glad you're okay right now. I would like more letters. It helps when you tell us ordinary things, like what you did at work or what you ate for dinner. I'm trying to learn more about our family. Sometimes I don't remember things the way Thalia does, but I do want to hear them.*
+
+She read the paragraph to Thalia, expecting concern.
+
+"That's good," her sister said.
+
+"Too strange?"
+
+"It's strange because it's true. That's not a problem."
+
+Annabeth continued. She wrote about the Parthenon model on her windowsill, the repairs they'd helped make after the eclipse and a book she thought Beryl might enjoy. She didn't mention the Oracle, the hidden ward or the memory of being Athena's daughter. The latter would require a conversation she wasn't prepared to have even with the person sleeping in the next bed.
+
+Thalia took longer. When she finally pushed her sheet across, Annabeth read it only because Thalia asked her to.
+
+*I was scared when I got your letter. I want you to keep doing the things that help you stay sober. I'm glad you have work and someone you can talk to. We are safe at camp. Please don't promise us a visit until it has been arranged with Chiron. I know that sounds strict, but I need to know what is happening before anyone comes for us.*
+
+Annabeth looked up. "It's not strict."
+
+"It sounds like I'm setting rules for Mom."
+
+"You are. You were setting rules for both of us when we were little. You didn't get to choose that."
+
+Thalia looked at the words for a long moment.
+
+"That's what makes me angry," she said.
+
+Annabeth didn't offer an argument. She had no memory of the worst nights Thalia described, but she had begun to understand that her sister's protectiveness was not only a habit. It came from being the one person who had to decide what to do when nobody else could be counted on.
+
+"Then keep the sentence," Annabeth said.
+
+They signed their pages separately. Annabeth suggested sending both in the same envelope to save postage, but Thalia wanted each letter to be its own choice. They agreed to ask the steward whether the mail could carry two envelopes to one address without opening either.
+
+"What if she replies to only one?" Annabeth asked.
+
+"Then we decide what to do when it happens."
+
+"I don't want you reading mine first."
+
+Thalia flinched, then nodded. "All right."
+
+"And I won't read yours."
+
+"Good."
+
+The rule was simple enough to feel almost formal. Both knew that Beryl might write another letter full of careless promises and affectionate memories that turned painful as soon as they tried to compare them. A rule about envelopes wouldn't solve that. But it gave Annabeth a way to have a relationship with her mother without requiring Thalia to conduct every conversation on her behalf.
+
+Thalia put the letters in separate envelopes. She left the address blank for the steward to verify in the morning. When the cabin settled, Annabeth realized she was hungry. She had eaten little at dinner, too angry to notice. The smell of someone making popcorn in the next cabin drifted through the open window.
+
+"Can we find something to eat?" she asked.
+
+Thalia looked at the empty shelf above their desk. "We have noodles, I think."
+
+"We don't have a kitchen."
+
+"We have hot water."
+
+"That's not a complete cooking plan."
+
+Thalia stood up with a determination Annabeth recognized. It was the expression her sister wore when she wanted to make the immediate problem small enough to defeat.
+
+"Then it's a good thing I'm excellent at improvising."
+
+"You are not excellent at cooking."
+
+"How quickly you turn on your own family."
+
+Annabeth followed her to the small storage box, still worried about the letters but relieved they no longer had to decide everything before midnight.
+
+
+
+---
+
 The cooking disaster took exactly eleven minutes.
 
 It started reasonably: Thalia produced an electric kettle, two packets of instant ramen, and a bag of marshmallows she'd stolen from the Hermes cabin. Annabeth contributed the oatmeal cookies from behind the blankets and a jar of peanut butter.
@@ -517,6 +763,126 @@ Annabeth changed into pajamas in the bathroom, came out brushing her teeth, and 
 
 ---
 
+The fire extinguisher had been returned to the bathhouse, but the cabin still smelled faintly of overheated noodles. Silena stood in the doorway with the inventory sheet, examining a scorch mark on the inside of the kettle lid. She didn't look particularly amused.
+
+"Are we going to have to file an incident report?" Thalia asked.
+
+"Chiron said you should," Silena answered. "It doesn't need to be dramatic. He wants to know which appliance you used, what went wrong and whether anybody was hurt."
+
+"No one was hurt."
+
+"Then you can write that. It's an important part of the report."
+
+Clarisse, who had volunteered to carry the kettle outside to cool, returned with a rag and deposited it on the floor.
+
+"I'd say this is a perfect demonstration of why the cabins aren't allowed to cook," she said.
+
+"You ate three of the noodles," Annabeth replied.
+
+"I have a strong commitment to evaluating accidents."
+
+Percy was gathering the empty packets and broken crackers for the rubbish bin. He glanced at the letters Thalia and Annabeth had placed under the clean paperweight and did not ask what was inside.
+
+"Can I help with the report?" he asked.
+
+"It wasn't your accident," Thalia said.
+
+"True. I did arrive and help stop it from becoming worse. Silena's always telling me to write down what we know rather than what would make a better story."
+
+Silena raised her eyebrows. "You remember that?"
+
+"Sometimes."
+
+Thalia found a blank form in the back of a training ledger. The most difficult part was describing the incident without making it sound like a spectacular explosion. The truth was less exciting. The kettle had been overloaded with food that wasn't meant to be heated in it. The contents foamed, the lid came loose and the steam had sent Annabeth scrambling for the window while Thalia tried to unplug it. Clarisse had arrived with the extinguisher but hadn't needed to use it.
+
+"So no actual fire," Silena noted.
+
+"Just spectacularly poor judgment," Thalia said.
+
+"That's a useful category."
+
+They went through the form together. Thalia found herself impatient with every question about procedure. She had spent most of her childhood preparing food wherever she could find heat, and being told that she'd ignored a safety rule made her defensive. Then she looked at Annabeth, whose hands had only recently healed from the ward burn, and remembered that the girl had been the one standing closest to the steam.
+
+"I'm sorry," she said.
+
+Annabeth blinked. "For what?"
+
+"I wasn't paying attention. I wanted to make you dinner so badly that I forgot the kettle was for water, not the entire meal."
+
+Annabeth considered the admission. She had been angry enough about her mother's letter to turn the evening into another argument. When the kettle started boiling over, she had laughed instead. Both feelings were still there.
+
+"I was helping you," she said. "I should have noticed too."
+
+"You're twelve," Thalia replied. "I'm supposed to be older and wiser."
+
+"Older, certainly."
+
+Clarisse coughed to disguise a laugh. Thalia glared at her and then at Percy, who looked far too pleased with himself.
+
+Silena signed the form as a witness and handed it to Thalia. "Next time, use the kitchens. You can ask the staff for permission. They're usually happy to let you make something small if you clean the space afterward."
+
+"Even at night?"
+
+"Not after curfew. But dinner doesn't have to be midnight to count as a peace offering."
+
+Thalia looked toward the letters. Peace offering. That was exactly what she had wanted the noodles to be: something she could give Annabeth that would make the afternoon stop hurting. She understood now that a shared meal couldn't serve as an apology unless they could also talk about why they had been angry.
+
+"I'll file this tomorrow," she said.
+
+"Tonight," Silena corrected. "The steward is still on duty. If you leave it until morning, you'll forget the details."
+
+"You're relentless."
+
+"That is how I get things done."
+
+Clarisse took the used cloth out to the laundry bin. Percy finished cleaning and left with her, promising to keep his opinions about cooking confined to other people's kitchens. Annabeth thanked Silena for helping, then went to put the letters away.
+
+Thalia stood by the window while Silena checked that the kettle had been disconnected. She suddenly felt embarrassed by how many people had been pulled into the problem. Her mother's letter belonged to her and Annabeth. The fire in their cabin had become everybody else's work.
+
+"I didn't mean for today to become your problem too," Thalia said.
+
+Silena checked the cord. "You don't have to handle everything alone to prove you're capable. But when you do something that affects other people, you have to let them help repair it."
+
+"That sounds like something Chiron says."
+
+"He taught me most of it."
+
+Thalia nodded. She'd spent years being the one who noticed problems first and responded before anyone could stop her. It was a habit that had kept Annabeth safe. It had also made it difficult to admit that ordinary people could step in without taking away her place in her sister's life.
+
+"How's Percy?" she asked, partly to change the subject.
+
+"Happy about the call from Atlantis. Confused about a few things. He seems to have decided to write his mother a longer letter than usual."
+
+"That's good."
+
+"It is. I'm not asking him to tell me everything that's bothering him. I'm trying to make sure he has somewhere to put the thoughts he can share."
+
+Thalia looked at her. That was close to what she'd been attempting with Annabeth, though her own method tended to involve protective orders and the occasional shouting match.
+
+"I could try that," she said.
+
+Silena smiled. "You already are. You just have to let her decide how much of the letter she wants to read."
+
+Thalia looked toward her sister, who was folding the paper on the bed. "She wants to write back."
+
+"Then help her post it."
+
+Silena put the signed incident sheet beside the door and left them alone. Thalia waited until she heard the footsteps move away before approaching Annabeth.
+
+"Chiron's getting the report tomorrow," she said.
+
+"Good."
+
+"After breakfast, we can ask the mail steward to check both addresses. I won't read your letter."
+
+Annabeth looked up. "And I won't read yours."
+
+They put the envelopes side by side and closed the drawer. Their mother might send another letter in a week or a month. There might be more promises and more arguments. For now, the sisters had two pieces of paper they'd written themselves, and a small household accident they were responsible for cleaning up. Thalia found it easier to think about the next morning than the next year.
+
+
+
+---
+
 The roof of the Zeus cabin was technically forbidden. It was also, Thalia had discovered at age thirteen, accessible via the trellis beside the back column if you didn't mind splinters and if you bribed the dryads with honey cakes, which she did regularly.
 
 Annabeth climbed up after her, less gracefully, in socks and the reclaimed — broth-stained — gray cardigan. Thalia had left it folded on her pillow with a note: *Sorry I stole you. You look better in you. — T.*
@@ -543,7 +909,7 @@ Annabeth nodded slowly. "I want to tell her about camp. Not everything. Just —
 
 They sat with that. The stars were painfully bright. Annabeth could name the constellations from her old studies. Static lifted her hair, but she could not tell whether her father was watching or the cabin wards were settling. She hoped he would read the report Chiron sent.
 
-"Thalia?" Annabeth said. "When I told you Beryl died in the life I remember — did that make this worse?"
+"Thalia?" Annabeth said. "When I told you I remember a different life where Beryl wasn't around anymore, did that make the letter worse?"
 
 Thalia exhaled. "It scared me. I'm already afraid of the phone ringing with bad news. Hearing it happened somewhere you remember doesn't tell us what happens here." She rubbed the letter's crease. "I have wanted her to stay away. I haven't wanted her dead. Sometimes I feel guilty as if they're the same thing."
 
@@ -591,11 +957,6 @@ Annabeth fell asleep first, cardigan pulled tight, broth stain and all. Thalia s
 
 Tomorrow they would write back. Tomorrow they would tell Chiron, find Jason's address, skip stones while searching for words. Tomorrow Thalia would buy stain remover from the camp store and apologize properly to the sweater.
 
-Tonight, she just tucked the sleeping bag tighter around her sister, kept hold of her hand, and kept watch — not as a shield, but as a sister. Which, she was learning, was stronger anyway.
+Tonight, she tucked the sleeping bag tighter around Annabeth's shoulders and left Beryl's letter on the crate between their beds. If their mother wrote again, they would decide what to do when they had an actual envelope to open.
 
-*All my love forever and ever and one day more,* Beryl had written.
-
-Thalia looked at Annabeth's sleeping face, smudged with peanut butter, moonlight on her eyelashes, and thought: *Yeah, Mom. Us too. Us too.*
-
----
-
+Thalia had spent years anticipating the worst call or the worst knock on the door. She could not stop herself from listening for one. But she didn't have to wake Annabeth to listen with her. She put down the letter, turned off the lamp, and tried to sleep.

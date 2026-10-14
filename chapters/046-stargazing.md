@@ -18,6 +18,48 @@ Annabeth Grace knew every Greek constellation. Of course she did. She was twelve
 
 He wanted, just once, to be the one who knew the names first.
 
+That afternoon, Percy had almost abandoned the idea in favor of helping Grover.
+
+The board at the north irrigation ditch needed replacing. Grover had wedged it back into place the previous evening, just before the practice that ended with his song for Juniper. The temporary repair had survived the night, but it was beginning to bow beneath the current. Percy found him and Annabeth there after lunch with a new board, a saw and a measuring string.
+
+"She said she could measure," Grover explained, as though Percy might suspect him of recruiting Annabeth under false pretenses. "I didn't ask her to cut anything."
+
+"I can cut a board," Annabeth said.
+
+"Not when I'm holding it," Grover replied.
+
+Percy laughed and took the far end of the wood. Annabeth measured the groove, marked the new piece and stepped aside while Grover sawed it to fit. The first cut was too narrow. Rather than trying to force it, Grover shaved the edge again until it seated cleanly.
+
+Percy slowed the water. Annabeth checked the angle. Grover drove in the peg and released the little dam of mud he'd built the night before. The channel ran smoothly along the strawberry rows.
+
+Juniper appeared near the young maples, carrying a basket of fallen twigs. She waved to the three of them and asked whether the roots would be all right. Grover showed her where the bank had washed out and what he'd changed. She inspected the soil herself, then said she'd check it tomorrow after the next watering.
+
+There were no flowers and no announcement. Percy stood back with Annabeth while Grover and Juniper discussed how much moisture the maples could take, and for once he didn't feel any need to contribute a clever remark. His friend had been doing this work long before he wrote anybody a letter.
+
+As they carried the tools back, Grover fell into step beside Percy.
+
+"Thanks for yesterday," he said.
+
+"The song was yours," Percy answered.
+
+"I meant the part where you got people to leave."
+
+Percy looked at him. Grover was grinning, tired and muddy, with the sort of happiness that didn't need a whole camp to witness it.
+
+"You're welcome," Percy said.
+
+Grover tipped his head toward Annabeth, who was walking ahead with the measuring string. "You've got plans tonight?"
+
+"Maybe."
+
+"Then don't make me listen to them. I've retired from organizing other people's love lives."
+
+"You never organized mine."
+
+"Exactly," Grover said, with some satisfaction. "I was very good at it."
+
+Percy went back to the cabin smiling. He still intended to show Annabeth the sky, but he'd learned something useful from the afternoon. A good plan left enough room for the other person to have one too.
+
 So after dinner he went back to Cabin Three and pulled the spare blankets off the top of the closet.
 
 Cabin Three smelled like salt and clean laundry in the evening. Clarisse's bunk was made tight. Silena's bunk had three pillows and a book face down on them. His own bunk was a mess.
@@ -89,6 +131,99 @@ Silena smiled. "Not at first. You should get to start it yourself. I will bring 
 "Silena makes everything better," Percy said, honest and simple, and Silena reached over and rubbed his head hard enough to mess up his hair.
 
 "Go brush your teeth," she said. "And take a jacket for her. She forgets hers."
+
+
+---
+
+Percy made it as far as the cabin door before turning around.
+
+Silena was putting away the spare blankets. Clarisse had taken up a whetstone and was working on the edge of her spear with the steady, irritating patience she only seemed to possess around weapons.
+
+"Where's the old star chart?" Percy asked.
+
+Silena glanced up. "Which old star chart?"
+
+"The one Dad sent when we were little. The one with the blue edges."
+
+Clarisse stopped sharpening. "Why?"
+
+"Because I want to check the Diver against something that isn't you two disagreeing about where his rope goes."
+
+Silena laughed. "We don't disagree about the rope. We disagree about the person holding it."
+
+"That's a pretty big difference," Percy said.
+
+"It is to the person underwater," Clarisse answered.
+
+The chart turned out to be in the chest beneath the porthole, wrapped in a length of faded linen. Its paper had softened at the folds. Along the edges somebody had drawn little fish with open mouths, each beside a direction or a number. Percy recognized the style from the things Silena kept in her sketchbook, but he couldn't identify whose hand had actually made them.
+
+He unfolded it on the floor. It was much less straightforward than he remembered hearing the stories. The names circled clusters of stars, but lines ran from one cluster to another in ways Greek star charts didn't. Some of the labels were written sideways, following the arc of a current. Near one corner a smear of blue ink obscured the last word of a title.
+
+"That's the part that was in your room in Atlantis," Silena said, pointing.
+
+Percy waited for an image to surface. A lamp, perhaps, or the shape of a wall. He could imagine a room under the sea very easily. He'd visited Atlantis since coming to camp, and he knew what its buildings looked like. Imagining was not the same as remembering.
+
+"I don't actually know that," he said.
+
+Clarisse looked down at him. She had learned, over these months, that there were places in their childhoods Percy couldn't meet her. Sometimes she became impatient about it. Sometimes she became careful. He couldn't predict which version would appear.
+
+"I know," she said. "I'm telling you."
+
+He smoothed the chart and tried to find the Diver. The figure lay between several familiar Greek patterns, but when Percy turned the paper toward the window, the labels seemed to run backward.
+
+"How are you supposed to read this?"
+
+"At sea," Clarisse said. "You don't start from the bottom like a classroom diagram. You start with where you are."
+
+"I am in our cabin."
+
+"Then you're going to need an unusually large boat."
+
+Silena knelt beside them, pulled the chart toward the lamp, and showed Percy the little ring of marks around the border. The marks were bearings, not decorations. She rotated the page until one arrow pointed toward the Sound.
+
+"Look at the Whale Road now."
+
+The seven stars ran diagonally across the page, the same way Silena had described the route in her song. Percy traced them with a finger.
+
+"Oh."
+
+"Exactly." Silena pushed a pencil into his hand. "Take notes. Not on that chart."
+
+Percy found the back of an old inventory sheet. He drew the seven points and labeled the rests in the song. Then he attempted the Diver. Clarisse corrected his first two lines and let the third mistake stand long enough for him to discover it himself.
+
+"That's not a rope," he said. "I've drawn a second arm."
+
+"Finally," she said.
+
+He redrew the line. For a moment the scratch of the pencil and the lap of water under the cabin floor were the only sounds.
+
+Percy had been looking forward to impressing Annabeth. That wasn't the same as being able to tell a story accurately. She would know the Greek stars, and if he made something up without meaning to, she would trust him until the sky itself proved him wrong.
+
+"Would it be stupid to take this with me?" he asked, holding up the inventory sheet.
+
+Clarisse shrugged. "Stupider to pretend you know something you don't."
+
+Silena gave him a different sheet, one without a list of broken training shields on the back. "You can take your notes. The chart stays here."
+
+"Because it's old?"
+
+"Because it's ours," Silena said. Her tone was matter-of-fact, not possessive. "And if you take it onto the hill, the dew will eat it."
+
+Percy folded his new sketch, slipped it into his jacket pocket and put the original away. The chest closed with a soft, familiar thud. He could imagine another version of himself sitting over that chart years ago with his sisters. But that version wasn't a scene he could call back whenever he wanted. It existed in the stories his family chose to tell him, and in the marks other hands had left on paper.
+
+At the door, Clarisse called after him.
+
+"Don't put the Lighthouse next to the Shield Rack. They're nowhere near each other."
+
+"That's what the sketch is for," Percy said.
+
+"Then look at it."
+
+Silena followed him out far enough to straighten the collar of his jacket. "You don't have to get every word right. Tell her where you learned it. That's part of the story too."
+
+Percy tucked the sketch deeper into his pocket. For the first time all evening, he wasn't worried about whether Annabeth would be impressed.
+
+He was worried about dropping the paper.
 
 ---
 
@@ -171,6 +306,131 @@ They found the Whale Road next, seven stars in a long line. Atlanteans saw it wh
 "Sing it for me?" Annabeth asked.
 
 Percy sang it, low and off key. Short hop, long pull, rest and hold. Annabeth joined in, and the crickets kept time.
+
+
+---
+
+Annabeth let the last note fade, then sat up so quickly the blanket slid into Percy's lap.
+
+"Wait. Show me your sketch."
+
+Percy blinked. "What sketch?"
+
+"The one sticking out of your pocket. You've been checking it every time I ask a question."
+
+He looked down. A corner of the inventory paper had been visible all along. So much for having a mysterious command of the stars.
+
+"It's a reference," he said.
+
+"That's what a sketch is."
+
+"I didn't draw it very well."
+
+"I'll decide that."
+
+He passed it over. Annabeth held it close to her face, examining the bearings at the margin and the uneven dots where Percy had tried to copy the Whale Road. Her hair fell forward, hiding one side of her expression.
+
+"Some of these lines go in different directions," she said.
+
+"I copied them from a sea chart. You have to turn it toward where you're standing. Clarisse explained it."
+
+"She was right." Annabeth twisted the page until one corner pointed toward the Sound. "See? Your north arrow was drawn from the coast, not from the top of the page. It's a navigational chart."
+
+"Silena said the songs were for sailors."
+
+"She probably meant actual routes, not just stories sailors told each other." Annabeth tapped the second star in the Whale Road. "If you start here at this time of year, you can follow the rising pattern to estimate direction before dawn. At least you could, if the observations were accurate."
+
+Percy stared at her. "You got all that from a crooked piece of paper?"
+
+"Not all of it. I'm guessing about the direction. We could check."
+
+"Right now?"
+
+"Why not?"
+
+Because he'd wanted to lie beside his girlfriend and show her beautiful things. That was one reason. Another was that Annabeth looked happier figuring out a difficult problem than she did when someone simply told her the right answer, and Percy would never be very good at denying her the chance.
+
+"Okay," he said. "What do we need?"
+
+"A fixed point. Something that won't move."
+
+He looked out toward the dark Sound. "That seems unfair to my entire family."
+
+Annabeth nudged him with her elbow. "The Big House roofline. It's easy to pick out against the sky."
+
+They sat back to back for a few minutes with the sketch between them, taking turns measuring the angle of the roofline against the stars and arguing about whether an apparent gap was real or a cloud. They didn't have a proper instrument. Annabeth used her ruler and held a string taut between two points on the page while Percy steadied it.
+
+When a breeze lifted the paper, he pinned it beneath a small rock. Silena had promised chocolate later, but the thermos wasn't there yet.
+
+"You're doing it wrong," Annabeth informed him.
+
+"I'm keeping the chart from flying into Connecticut."
+
+"I meant the angle."
+
+He checked. He was, in fact, doing that wrong as well.
+
+After fifteen minutes, their observations didn't match the sketch. Percy felt a little foolish. The Whale Road was supposed to make him sound as though he understood a whole second tradition. Instead he had brought an uneven copy of somebody else's notes and couldn't figure out which way to turn it.
+
+Annabeth saw his face.
+
+"This is normal," she said.
+
+"Getting it wrong?"
+
+"Finding out your map doesn't match your view. The important part is figuring out why."
+
+"Maybe I copied the wrong stars."
+
+"Maybe. Or maybe somebody drew the chart from a different latitude. Atlantis isn't on Long Island."
+
+Percy considered that. The old palace wasn't even above water, which made the idea of an ordinary sky overhead rather complicated. Maybe the chart had been carried from one port to another. Maybe the fish drawn along its edges were not decoration but signs of some older route. There were questions to ask Silena, and perhaps Triton, if Triton could be persuaded to answer a conch message without making Percy listen to twenty minutes of royal gossip first.
+
+"I don't want to teach you something fake," he said.
+
+Annabeth turned the page over and drew a small circle in the empty space.
+
+"Then don't. Tell me what your sisters said. Tell me what you aren't sure of. We can still look at the stars."
+
+"You're not disappointed?"
+
+"Percy, I like that you brought me a problem with stars in it. That's practically a gift."
+
+He laughed, but the knot in his stomach loosened.
+
+Annabeth drew two columns, Greek and Atlantean, then crossed them both out.
+
+"Not columns," she decided. "Too easy to make it look like translations. They aren't the same stories with different names."
+
+"What then?"
+
+"Layers. Here's what you see from camp. Here's what the chart shows from wherever it was drawn. And here's what Silena remembers her father saying about the figures."
+
+"That's three layers."
+
+"I can count."
+
+Percy stretched a hand toward the page. "Shouldn't there be one for Clarisse?"
+
+Annabeth made room and passed him the pencil.
+
+He added a little note beside the Diver: *Clarisse says someone holds the rope. Ask who.* Then he thought of the lost pearl in the story and added another: *Silena says the Diver comes back.*
+
+Annabeth smiled at his writing, not because it was neat, which it wasn't, but because the questions remained questions. She wrote a date and the name of the hill at the top.
+
+"Now it tells us where we were," she said.
+
+Percy leaned closer to see the finished page. Two kids on a hill with a pencil and some blankets couldn't settle whose map was correct. But they could record what they had seen and who had taught them to see it.
+
+"Can we keep it?" he asked.
+
+"Of course. We'll make a cleaner copy tomorrow."
+
+"Not too clean," Percy said. "Leave my crooked star."
+
+Annabeth tapped that star once with the pencil.
+
+"That one stays."
 
 ---
 
@@ -306,7 +566,105 @@ Annabeth was looking up at the four stars. Percy could see her finding the shape
 
 Percy felt a tightness in his throat. He had heard his dad tell that one once, late, voice low through the fountain water. Poseidon had sounded proud and sad at the same time.
 
-Clarisse cleared her throat and poured herself the second half cup, proving Silena right. "Anyway. Patrol continues. No monsters. Only you two being gross with blankets."
+
+Percy took the folded page out of his pocket.
+
+"Can you show us where the Shield Rack goes?"
+
+Clarisse looked offended. "I just showed you."
+
+"On the paper. I want to put it with the other ones."
+
+"Why?"
+
+He pointed toward the Big House lights. "Annabeth and I were talking about a map. Two maps, actually. Greek names and Atlantean names. Maybe something for the library, if we can make it accurate."
+
+Clarisse's expression closed.
+
+"Don't," she said.
+
+Percy lowered the pencil. He'd expected her to make fun of him. The flatness of her answer unsettled him more.
+
+"Why not?"
+
+"Because it's not a library story."
+
+Annabeth watched the two of them. She didn't interrupt.
+
+"It's a story about a guard," Percy said. "I thought you liked it."
+
+"I do." Clarisse gripped the handle of the green mug. "That's why I don't want it pinned to a board for every Apollo kid to argue about."
+
+"Nobody's going to argue."
+
+"Have you met the Apollo cabin? They argue about how to tune a lyre. They'll argue about the number of stars in a square."
+
+Percy almost laughed. Clarisse wasn't joking, though. She was looking past him at the map and its neat little headings.
+
+Silena collected things. Songs, small paintings, pieces of broken jewelry she believed might be useful. Clarisse did not collect much at all. She kept her spear in the same place and packed for patrol before anybody asked her. Percy had thought the stories were simply another kind of thing his sisters shared. He hadn't considered that one of them might want to keep certain things to herself.
+
+"I wasn't going to give away your story," he said.
+
+"You asked where it goes on the paper. You didn't ask whether you could put it there."
+
+Annabeth set down her mug. "She's right."
+
+Percy turned toward her. "I thought you wanted to make a chart."
+
+"I do. That doesn't mean every story we hear goes on it." Annabeth reached for the page, but she didn't take it from Percy. "We could just mark where the stars are and leave the story with the person who told it."
+
+Clarisse stared at her. "You'd do that?"
+
+"Sure. I don't want somebody taking my plans to the Hephaestus cabin and changing all the measurements. I think I can understand somebody not wanting her story changed."
+
+Clarisse stood with her mouth slightly open, clearly annoyed to find herself agreeing with anything that sounded like an architecture comparison.
+
+"The story isn't mine," she said at last. "Dad told it. There were people before him who told it too."
+
+"But it matters to you," Annabeth answered.
+
+Clarisse glanced at the sky again. "I don't like the part where people turn the guard into a hero who wanted to die. That's not what Dad said. She wanted to go home. She stayed because the kids needed a way out."
+
+Percy hadn't known that part. Clarisse had left it out of her first telling.
+
+"Did Dad say what happened to the kids?"
+
+"Some got out. That's all he told me."
+
+"Then we shouldn't make up the rest."
+
+Clarisse looked sharply at him. "Exactly."
+
+The wind lifted a corner of the blankets. Annabeth trapped it with her heel and went back to the chart.
+
+"Can I put the star pattern on here, without the story?" she asked Clarisse.
+
+Clarisse considered the question for so long Percy began to wonder if they would be sitting on the hill until dawn.
+
+"Yes," she said finally. "Just the shape. And if anybody asks, you can tell them to talk to me."
+
+Percy could practically hear the Apollo cabin losing interest. Clarisse offering to answer questions was not the same as Clarisse offering to be patient about them.
+
+He drew the four outer stars as points and placed one small dot in the middle, no weapon, no guard, no picture to tell somebody else what to imagine. Beneath it he wrote, *Ask Clarisse.*
+
+She inspected it. "Your square is crooked."
+
+"All my squares are crooked."
+
+"I noticed."
+
+Annabeth smiled and corrected one corner, then stopped herself before making the shape perfect. Observations, she had said earlier. Not decorations.
+
+Percy folded the page and put it away.
+
+"Thanks for telling us," he said to his sister.
+
+"Don't get sentimental," Clarisse told him. "I still have patrol."
+
+She took another mouthful of chocolate. It was the second half cup Silena had predicted, and none of them pointed that out.
+
+
+Clarisse cleared her throat and set the empty mug beside the thermos. "Anyway. Patrol continues. No monsters. Only you two being gross with blankets."
 
 "We are not being gross," Percy said. "We are being astronomical."
 
@@ -340,7 +698,7 @@ Percy smiled so wide his face hurt. Annabeth reached over under the blanket and 
 
 Thalia arrived late, the way Thalia always arrived, like weather.
 
-They heard her boots first, then saw her silhouette against the cabin lights, tall for twelve, black hair cut choppy, jacket with the pins on it. Thalia Grace, daughter of Zeus, Annabeth's older sister. She moved like static felt, all sharp edges and tired eyes. She stopped at the bottom of the hill and looked up at the blankets and the thermos and the two kids lying side by side staring up.
+They heard her boots first, then saw her silhouette against the cabin lights, sixteen, taller than most campers her age, with choppy black hair and a jacket full of pins. Thalia Grace, daughter of Zeus, Annabeth's older sister. She moved like static felt, all sharp edges and tired eyes. She stopped at the bottom of the hill and looked up at the blankets and the thermos and the two kids lying side by side staring up.
 
 "Am I interrupting?" she asked. Her voice was rough, joking to cover something else.
 
@@ -354,7 +712,7 @@ Percy handed her the chipped blue mug without a word and poured the last of the 
 
 They lay back, three in a row now. Thalia smelled like pine and cold air and the faint ozone that always clung to Zeus kids after they trained. Percy could feel Annabeth relax beside him in a different way now that her sister was there, like a plant leaning toward sun.
 
-"Your brother told good ones?" Thalia asked Annabeth, jerking her chin at Percy.
+"Percy told good ones?" Thalia asked Annabeth, jerking her chin at Percy.
 
 "He told great ones," Annabeth said. "The Diver. The Net Mender. The Shell Bearer. The Shield Rack and the Lighthouse."
 
@@ -429,6 +787,139 @@ From the dark came Clarisse's outraged whisper, "I am patrolling!"
 Their voices faded. The hill went quiet again, just crickets and wind and the faint wash of the Sound.
 
 Percy and Annabeth were alone.
+
+
+Annabeth lay still until the last sound of Thalia's boots had disappeared.
+
+Percy had seen her go quiet before. It usually meant she was working through something too complicated to say aloud, or something she wasn't ready to trust anyone else with. He could generally tell the difference. Tonight he wasn't sure.
+
+She unfolded their star chart and looked at the space around Cassiopeia.
+
+"Thalia says the chair is empty," she said.
+
+"That's what she told us."
+
+"And the girl ran off it."
+
+"Yep."
+
+Annabeth made a tiny mark below the crooked W, then stopped. She was holding the pencil with such care that it looked uncomfortable.
+
+"She remembers Mom being there. On a roof. Actually there."
+
+Percy didn't answer. The sounds around them had changed while Thalia was talking. There were fewer crickets now and a distant voice calling curfew near the archery field. The night wasn't going to last forever.
+
+"I remember Athena," Annabeth said at last. "I remember what she said to me in the old life. I remember what it was like not to be the daughter she wanted. I don't remember being Beryl Grace's little girl, not the way Thalia remembers being her daughter." She turned the pencil once between her fingers. "I know the stories Thalia tells me are real to her. I just don't know where to put them."
+
+Percy looked down at the map. Three sets of markings filled one corner. Greek names, Atlantean bearings, little notes about who had told which story. There were blank spaces everywhere, and he'd stopped pretending he knew how to fill them.
+
+He tried a joke. "There's room on the back."
+
+Annabeth gave him a brief look. Not angry, exactly. More like he had spoken at the wrong moment during a movie.
+
+"Percy."
+
+"Sorry."
+
+She folded her knees under the blanket. "I didn't ask you to fix it."
+
+"I know."
+
+"You always think if you find the right thing to say, I'll feel better."
+
+That stung because it was unfair, and also because it wasn't entirely unfair. Percy started to protest. Then he remembered his own irritation whenever someone in Cabin Three tried to tell him which memory of Sally was supposed to hurt less.
+
+"I don't know the right thing," he said instead.
+
+Annabeth turned toward him. There was no triumph in her face, only tiredness.
+
+"Neither do I."
+
+For a little while they watched the stars. Percy didn't move his hand toward hers. He knew she could reach for it if she wanted to, and she knew where it was.
+
+After a few minutes Annabeth said, "The strange part is that I want to believe her."
+
+"Thalia?"
+
+"Beryl. I want to believe she looked at the sky with Thalia and meant everything she said about running off the chair. I know she's capable of saying something beautiful and not being there the next morning." Annabeth glanced down at the page. "I don't want to make Thalia defend her. That's what everybody always makes Thalia do."
+
+Percy thought of the way Thalia had spoken about the apartment roof. She hadn't defended Beryl. She had described one night she'd remembered clearly, including the parts that made the memory less perfect. Percy could see why Annabeth wanted that night to belong to her too.
+
+"Maybe ask Thalia to draw it with you," he suggested. "The line of stars. You could draw what she remembers, and leave space for whatever you find out."
+
+Annabeth thought about it.
+
+"Not Beryl?"
+
+"You can ask her too, if you want. But Thalia's the one who was on the roof."
+
+It seemed a simple distinction when he said it. Percy knew from experience it might not feel simple by morning.
+
+Annabeth turned the chart over. On the back, near an old fold, she wrote *Thalia's roof in Los Angeles*. She left a gap, then put *Beryl's story, as Thalia remembers it*. Beneath that she drew the chair and a short trail of dots running off one edge.
+
+"That's not how the real sky looks," Percy said.
+
+"It's not supposed to be. It's how she remembers showing it to me just now."
+
+She stopped with the pencil hovering above the last dot.
+
+"I could show her tomorrow. Let her say if I got it wrong."
+
+"She'll say you put the chair in the wrong place."
+
+"I probably did."
+
+"Then she'll fix it and complain that your lines are too neat."
+
+Annabeth smiled without looking up. "She complains about my lines being too neat?"
+
+"She complains about your whole personality being too neat."
+
+"Rude."
+
+"Your sister's an expert."
+
+Annabeth turned the paper back over and drew a small question mark beside the Girl Who Ran. Percy noticed she didn't erase the mark. She was leaving it there on purpose.
+
+He rested on his elbows and looked toward the Sound. It was strange how much of his life now depended on what other people could tell him. Clarisse remembered him as a child in Atlantis, and Silena remembered tiny things, arguments over sweets and clothes and whether a bedroom door should be left open at night. Their memories could be precise in ways he had no access to. He was learning to treat them as gifts without pretending they had always been his.
+
+He still remembered Sally's apartment. He could draw the window in the kitchen, even the dent in the radiator. None of that had stopped being his, either. It made the world untidy. Annabeth had always hated a badly kept plan, but maybe they could live with a page that refused to have a single legend.
+
+"Did you think about your mom just now?" Annabeth asked.
+
+"Which one?"
+
+She lifted her head. The question was sharp, but not cruel.
+
+He stared at the water beyond the hill.
+
+"Sally," he said. "The old kitchen. She used to let me tell her stories I made up about the buildings across the street. I told her one was a palace and one was a prison. She listened to both versions even though the palace and the prison were the same building."
+
+"That sounds like her."
+
+"It was." He swallowed. "I don't know whether I ever stood with Amphitrite and looked at stars from an Atlantean window. Silena says I did. I'm not going to tell her she's wrong. But I can't see it when I close my eyes the way I can see that kitchen."
+
+Annabeth was silent. Then she put the pencil down and took his hand.
+
+Neither of them called the problem solved. The sky didn't rearrange itself to make their families easier to understand, and the question marks stayed on the paper.
+
+After a while Percy said, "You know what I can tell you without checking a chart?"
+
+"What's that?"
+
+"There's still one I haven't shown you."
+
+Annabeth turned toward him with a suspicious look. "If it's another whale, you're going to have to draw me a better whale."
+
+"No whale. Promise."
+
+"Another heroic sacrifice?"
+
+"Not exactly."
+
+She leaned back on the blanket, the chart resting safely between them. The look on her face changed as her curiosity won out over everything else.
+
+"All right," she said. "Where is it?"
 
 ---
 
@@ -541,6 +1032,3 @@ In the dark, Percy stared at the ceiling where seashells caught faint starlight 
 He fell asleep with his hand curled like it was still holding someone's, and the sea moved under the floorboards, steady as sisters breathing in the dark.
 
 ---
-
----
-

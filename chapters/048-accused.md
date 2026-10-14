@@ -14,6 +14,91 @@ Percy stared up. "Zeus? Here? Now?"
 
 Tyson nodded. He held out Percy's shoes, which Percy had left by Cabin Three. "Miss Silena says dress right. Miss Clarisse says bring your knife."
 
+
+---
+
+Percy sat on the edge of the dock to put on his shoes.
+
+It should not have been difficult. He had tied shoelaces every morning for years, in both lives. But his hands were cold, and the first knot came apart when he pulled it. He stared at the loose ends, angry with them for being such a small problem when a much larger one was on its way.
+
+Tyson waited at the foot of the dock. He was carrying the satchel he used at the forges, its canvas blackened at the corners and its strap repaired with a length of red cord. He had not brought any weapons. Percy knew because he could usually hear the collection of odd metal things his brother considered useful knocking together inside the bag.
+
+"You heard from the palace?" Percy asked.
+
+Tyson shook his head. "Heard from little bronze helper. Helper heard from wind."
+
+"That's a terrible chain of evidence."
+
+"Wind was frightened," Tyson said seriously.
+
+Percy looked out across the Sound. The clouds had not moved. Even the gulls were absent. He had always loved mornings when the water held perfectly still, but this was not calm. This was a person holding his breath, waiting for someone to decide whether he could let it out.
+
+"Does Poseidon know?"
+
+"Maybe." Tyson crouched, looking at the failed knot. "You want me to tie?"
+
+"No, I've got it."
+
+Percy tried again. This time the loops stayed. Tyson nodded as though he had just watched Percy repair an important piece of machinery.
+
+"You have to go back to the forges today?" Percy asked.
+
+"I told master I might be late." Tyson touched the patched satchel. "Had to bring word. You are brother."
+
+Percy felt his throat tighten. The visit had been meant to last another two days. Tyson was staying in the guest cabin, enjoying the chance to meet people who didn't have to shout through water to speak to him. He had spent most of yesterday fixing a bent hinge on the dining pavilion door. Now the ordinary pleasures of his visit had been interrupted by the same divine argument that was interrupting everything else.
+
+"Sorry," Percy said.
+
+Tyson looked puzzled. "For what?"
+
+"For your trip getting ruined."
+
+"Trip is not ruined. I am here." He sat down on the boards beside Percy. They creaked under his weight. "Also, hinge is fixed."
+
+"That's true."
+
+"Door will still work when sky father leaves."
+
+Percy wanted that to be the answer to everything. Fix a hinge, keep the door working, and trust that anybody who wanted to come home could find their way in.
+
+He glanced at Tyson's hands, huge and scarred from the forge. "You know if he starts saying something about Cyclopes, I won't let him talk to you like that."
+
+Tyson studied the motionless water.
+
+"He is king," he said.
+
+"I know."
+
+"King can speak. Brother can also speak."
+
+Percy nodded. He was sure Tyson meant the words simply. That was the remarkable thing about him. He saw no reason to make a complicated problem sound clever.
+
+"Will you stand with us?"
+
+Tyson looked toward the cabin rows, where a conch began to sound. "Chiron asked visitors to wait away from green. Too many people."
+
+Percy hadn't known that. He started to protest, then remembered how many campers there would be and how easily the gathering could become dangerous.
+
+"Do you want to stand by the dock instead?"
+
+"I want to watch door," Tyson said. "If people get scared, they need to get inside."
+
+Percy pictured children running toward a building whose hinge Tyson had repaired only yesterday. It was a better plan than Percy's first impulse, which had been to stay beside his brother and dare Zeus to object.
+
+"Okay," he said. "I wish I could be in two places."
+
+"Nobody has two feet in two places," Tyson answered.
+
+Percy looked down at his shoes, both tied now, and laughed despite the pressure in his chest.
+
+"I think that's the worst thing anybody has ever said to make me feel better."
+
+Tyson smiled. "Worked."
+
+At the path leading uphill, Percy turned back. Tyson was already checking the hinge on the small boathouse door, testing it twice with his shoulder before looking for a way to brace it if the wind rose.
+
+Percy climbed toward camp. He hadn't asked Tyson to protect him, but his brother had found something useful to protect, and for the moment that was enough.
+
 ---
 
 By the time Percy got back up the hill, Camp Half-Blood had turned itself inside out trying to look neat.
@@ -150,7 +235,7 @@ Then he turned away from them, dismissing them with the turn, and looked at the 
 
 Percy's heart dropped straight through his shoes.
 
-Thalia stepped forward with Annabeth half a step behind her, the way she always did, older sister first. Fifteen and twelve. Both in camp orange, both with their father's eyes. The wind lifted Thalia's tied hair. Annabeth's hands were clenched at her sides.
+Thalia stepped forward with Annabeth half a step behind her, the way she always did, older sister first. Sixteen and twelve. Both in camp orange, both with their father's eyes. The wind lifted Thalia's tied hair. Annabeth's hands were clenched at her sides.
 
 "Father," Thalia said. She did not bow. Annabeth did not either.
 
@@ -181,6 +266,101 @@ Chiron took half a step forward. "My lord, perhaps—"
 Mr. D opened his mouth, closed it.
 
 All eyes on the Grace sisters.
+
+
+Percy waited for Thalia to answer. She didn't. Neither did Annabeth.
+
+Zeus descended another step.
+
+The man on the porch looked different now. Percy couldn't have said exactly when it happened. The gray at the temples had faded; the short beard had become longer and dark. His face seemed narrower, his hands younger. Only the eyes stayed the same, two hard points of gray beneath the clouds.
+
+Percy looked toward Chiron. The centaur had seen the change and appeared determined not to react. Thalia was another matter. She had gone so still that the loose hair around her face didn't seem to move when the rest of the campers' clothes stirred in the returning wind.
+
+Zeus noticed where Percy was looking.
+
+"What troubles you, daughter?" he asked Thalia.
+
+"Nothing," she answered.
+
+"Then look at me when I speak."
+
+Thalia did. Percy could see the effort it took.
+
+"Tell me," Zeus said, "whether the boy of the sea has carried messages from his father's palace."
+
+Percy's first instinct was to answer for her. His father had sent messages. Everybody knew that. Silena was always showing the others scraps of notes tucked in boxes of shell buttons. But the question wasn't really about letters. It was about whether Thalia would stand in front of all of camp and begin reporting on Percy as though he were a prisoner.
+
+"He gets mail," Thalia said.
+
+"That wasn't what I asked."
+
+"Then ask a question that has an answer you can use."
+
+Thunder cracked, close enough that Percy felt it beneath his shoes. A few of the younger campers crouched. Chiron lifted a hand, urging them to stay calm.
+
+Annabeth moved closer to her sister. She didn't speak. For once Percy was grateful; whatever Thalia was going to say, she ought to be allowed to say it herself.
+
+Zeus's suit darkened from charcoal to nearly black. The seams of it flickered as though a fire burned behind the cloth.
+
+"I recall a daughter who understood duty," he said. "One who didn't answer a question with another question."
+
+Thalia's throat moved.
+
+"You remember the version of me you liked," she said.
+
+Percy saw Annabeth's face change. It wasn't surprise. It was recognition, painful and immediate, of a conversation she had probably heard before.
+
+"Take care how you speak," Zeus warned.
+
+Thalia looked at him steadily now. "You asked why I'm not answering. I don't know which answer you want, because every time you visit, you come as somebody else. Last time you had a different face and asked whether Annabeth was doing well in her lessons. Before that you asked why she hadn't written. You can look like anyone you want. But it's still you asking us to earn your attention."
+
+Percy wanted to reach for her. He couldn't get to her without crossing the open space. Beside him Clarisse pressed her spear into the grass as though anchoring herself against the storm.
+
+Zeus studied his elder daughter. Percy couldn't tell whether he was angry at the truth of her words or simply at the fact that she had said them in front of witnesses.
+
+"You confuse love with indulgence," Zeus said at last.
+
+"No," Thalia answered. "I know what indulgence is. You give us things when you want us to stop asking where you've been."
+
+Annabeth's hands flew to her mouth. She lowered them again before anyone else could notice.
+
+Zeus looked at her.
+
+"And you? Do you share this grievance?"
+
+Percy was almost certain he knew what Annabeth would do. Her instinct was to frame everything carefully enough that nobody could claim to have misunderstood it. He watched her struggle between answering her father and protecting Thalia from another punishment.
+
+"I have questions about why you came," she said. "You didn't ask to see us. You came to question Percy in front of the camp."
+
+"Perhaps I came for both."
+
+"Then you could have asked us separately."
+
+Zeus's expression sharpened. Percy expected another flash of lightning. Instead the god smiled, briefly, without warmth.
+
+"Would you have answered separately?"
+
+Annabeth swallowed. "I would have listened. I still won't spy on my friends."
+
+The distinction cost her. Percy could hear it. She wanted her father's visits to mean something besides punishment; she wanted to be able to talk to him as a daughter rather than a subject. Zeus was making those two things feel incompatible.
+
+Thalia put a hand behind Annabeth's back, just for a second.
+
+"Father," she said, "you don't need a spy to know what's happening at camp. Chiron keeps records. Ask him for something he can actually verify."
+
+Zeus turned his head toward the centaur. Chiron remained bowed, but his voice was clear.
+
+"I can report the camp's formal activities, my lord. I cannot certify private suspicions I have not investigated."
+
+"Very loyal," Zeus said.
+
+"I hope so."
+
+Percy held his breath. For a heartbeat the entire green seemed balanced on Chiron's next word. Then Zeus looked away from him and back at his daughters.
+
+"Your answer, Thalia."
+
+It was no longer a question about a messenger. It was a choice, and Percy hated that Zeus had found a way to make it look like a test of love.
 
 Thalia spoke first. Her voice was rough.
 
@@ -424,7 +604,89 @@ Chiron came by after offerings. He rested a hand briefly on Percy's shoulder, on
 
 "Yes, sir," they chorused.
 
-After breakfast, duties dissolved. No one wanted to drill. The arena stood empty. Instead kids clustered, rehashing. Did you see Grace say no? Did you see Jackson correct him? Did you see Clarisse call Zeus inaccurate to his face?
+
+After breakfast, the day's schedule still existed on paper, but training had become a problem.
+
+In the arena, two of the younger Ares campers refused to spar with children from Cabin One. Nobody said Zeus had ordered it. They said it would be disrespectful to his daughters, given what had happened, and that perhaps the sky children ought to be allowed a day to recover.
+
+Thalia heard the explanation and nearly threw her spear through a target.
+
+"That's not respect," she told the campers. "That's making me something you have to tiptoe around."
+
+One of the younger boys looked close to tears. Percy couldn't blame him for being frightened. He'd been frightened himself when Zeus walked across the green. The difference was that the boy was afraid of doing the wrong thing in front of Thalia, and Thalia was afraid he would begin to see her only as her father's daughter.
+
+Clarisse stepped between them.
+
+"You're all being ridiculous," she said. "Pairs. Wooden weapons. Nobody uses powers. Nobody talks about the weather."
+
+"Easy for you," Thalia muttered.
+
+"No, it isn't."
+
+They stared at each other. Percy watched Clarisse's grip tighten, then loosen on her spear. Their argument could have become the entertainment every camper in the arena was hoping for.
+
+Silena arrived carrying the replacement shield straps she'd finally been able to collect, along with a clipboard of duty assignments.
+
+"Chiron wants drills suspended until after lunch," she said. "Safety decision. Not political. Before you argue, there are three broken shield grips, six bent practice buckles and a bench that's about to collapse."
+
+"You've just invented a different way to make us miserable," Percy said.
+
+"Yes," Silena answered. "Much safer misery."
+
+They worked in groups, which would have been ordinary except for the way everybody watched the groups form. Percy saw people counting how many Zeus campers stood beside Poseidon campers. The counting made him want to arrange the groups deliberately, just to prove they were not divided.
+
+Annabeth caught his eye. She was holding a list of damaged equipment.
+
+"Don't do that," she said quietly.
+
+"Do what?"
+
+"Turn the work crews into a demonstration. Give people jobs they can actually do."
+
+Percy looked down at the tools. A loose buckle didn't care whose parent had claimed which section of the sky.
+
+So they divided the work by skill. Clarisse and an Ares camper checked the shield grips. Silena repaired the torn straps beside two children from Demeter who knew how to stitch thick canvas. Annabeth supervised measurements for the bench, getting annoyed whenever Percy reached for a saw before she finished speaking. Thalia worked with an Apollo camper to replace a broken hinge on the equipment chest.
+
+For a while, it worked.
+
+Then a boy at the far end of the bench asked whether the new repairs would be inspected for Atlantean weapons. He said it loudly enough to be heard by everyone, and Percy could feel the people nearest him waiting for a reaction.
+
+Clarisse rose from her chair.
+
+Percy stood too, but Annabeth spoke first.
+
+"These are camp tools," she said. "If you think there's a problem with the inventory, Chiron can check it. Until then, finish your side of the bench."
+
+The boy glanced at Thalia as if looking for Zeus's permission.
+
+Thalia set down the screwdriver.
+
+"She wasn't asking me," she said. "She was telling you how to finish the work."
+
+His ears went red. He bent over the screws and didn't speak again.
+
+It wasn't a neat victory. Percy could still hear whispers from other tables, and an argument had broken out near the weapons racks about whose cabin had been first to claim the repaired shields. But the bench held when three campers sat on it together, and the shield straps passed Clarisse's pull test. The younger campers would have equipment for practice tomorrow.
+
+At the end of the work period, Chiron came to inspect the results. He ran one hand along the repaired bench, then examined the armory slips.
+
+"Your counselor was right to ask for written authorization," he told Silena.
+
+"I know," she replied.
+
+"And you were right not to stop when the clerk tried to change the standard."
+
+Silena looked pleased for about half a second. Then she handed him the last broken buckle.
+
+"That one still needs replacing."
+
+Chiron laughed wearily. "I see that."
+
+He turned to the rest of the campers. "You may spend the afternoon on your regular duties. You need not pretend nothing happened this morning. But I will not have this camp use the gods' quarrel as an excuse to abandon work that keeps younger campers safe."
+
+The groups dispersed. Some people were friendlier than before. Some weren't. Percy had never liked admitting a plan couldn't solve everything. Still, the arena was safer when they left it than it had been when they arrived.
+
+The five of them met again later near the lake, because nobody wanted another argument about who was allowed to stand beside whom.
+
 
 Cabin Three and Cabin One ended up by the lake, because water calmed Percy and sky calmed Thalia and Annabeth liked to be where she could see both.
 
@@ -472,7 +734,272 @@ Silena stood and wrapped an arm around Annabeth, who leaned in. Percy stood last
 
 They stood there, five across the dock, while Tyson splashed happily and the lake reflected them wobbling and true.
 
-Later, when Chiron called Percy to the Big House to dictate a message to Atlantis — respectful, careful, tribute due and silence not intended — Percy went with dry mouth and came back with heavier shoulders.
+
+---
+
+The others went to fetch their shoes. Percy stayed on the dock with the Grace sisters, watching Tyson make lazy circles in the shallows.
+
+Thalia was holding her silver bracelet between two fingers. She had been doing that since Zeus left, twisting it until the small metal clasp scraped against her skin.
+
+"Does it still work?" Percy asked.
+
+"What?"
+
+"The bracelet."
+
+"It's a bracelet, Jackson. It's doing a very good job of being round."
+
+Annabeth looked up sharply. "He means the storm aid."
+
+Thalia dropped her hand.
+
+"I don't know," she said. "Zeus said no sky-gifts, no eagle escort, no storm aid. That's not the same as taking away everything we can do."
+
+"Can you still use lightning?" Percy asked.
+
+Thalia gave him a tired, offended look. "I don't feel like demonstrating."
+
+"That's not what I meant."
+
+"I know."
+
+They were quiet for a while. An ordinary gust stirred the water and pushed a scrap of leaf against the dock. Percy was relieved to see the lake move normally again. He had been afraid the strange stillness from Zeus's arrival would follow them into the evening.
+
+Annabeth opened her notebook, then closed it without writing. Percy hadn't seen her do that before.
+
+"I want a list," she said.
+
+Thalia groaned. "Of course you do."
+
+"Not of gifts. Of things we were counting on. If there's no escort and no help from Olympus, we need to know what we can still do on our own."
+
+"Why? Chiron hasn't asked us to do anything."
+
+"Because Dad threatened to make us regret today. I would rather find out now than discover during an emergency."
+
+Thalia's face hardened. "You think I haven't thought of that?"
+
+"I didn't say that."
+
+"Then stop talking like I'm too stupid to notice when he takes something away."
+
+Percy looked out at Tyson. His brother was busy trying to persuade a small fish to move out of his way. He was too far to hear, and Percy was grateful. He wasn't sure he should be hearing this either.
+
+Annabeth kept her voice level.
+
+"You're the one who said no first. I'm not taking that away from you. But if we don't know what changed, we can't prepare."
+
+Thalia stood. The boards rocked under her boots.
+
+"I stood there because I didn't want him turning you into his spy," she said. "And now you're making a schedule for living without him. Like you can draw a box around the part where he's our father."
+
+Annabeth flinched.
+
+Percy felt as though the wind had gone out of him. He understood both of them, which was unhelpful. Annabeth was building a plan because plans were what she could hold when the world became unreliable. Thalia heard that plan as an announcement that the little sister she'd raised had already stopped hoping their father might show up for them.
+
+"I don't think she's drawing a box around him," Percy said.
+
+Thalia turned on him. "You don't have to defend her every time she talks."
+
+"You're right. I don't."
+
+The answer surprised all three of them. Percy hadn't meant to say it that calmly.
+
+Annabeth looked at him. He didn't reach for her hand. This wasn't something he could settle with a gesture.
+
+Thalia took a breath, then another. She sat down on the far end of the dock and rubbed the heel of her hand over her eyes.
+
+"When he came last winter," she said, "he had silver hair and looked about fifty. Before that he looked like a young man with brown eyes. I kept thinking if he came back with the same face, maybe this time it would mean he wanted us to know him. And I hate that I still thought that today."
+
+Percy listened. It explained something he had seen during the confrontation, how Thalia had frozen before her father asked the first question.
+
+Annabeth moved closer to her sister, but not so close that Thalia had to turn toward her.
+
+"I wasn't making a list of reasons to stop wanting him," she said. "I was making a list of what he can actually take."
+
+"There's a difference?"
+
+"There has to be."
+
+Thalia looked down at her bracelet. "He can take the escorts. He can refuse to answer prayers. He can stop showing up."
+
+Annabeth waited.
+
+"He can't make me listen at the cabin door when Percy gets a letter from Poseidon," Thalia finished.
+
+"That's one," Annabeth said.
+
+Thalia almost smiled. "You're still doing the list."
+
+"Only in my head."
+
+"Terrifying."
+
+Percy let the two of them talk without jumping in. They worked through practical matters, not all of them solvable: whether the old signal system at Cabin One depended on a divine messenger, who at camp could guide a party through a storm without asking Zeus for help, whether an eagle escort had ever been promised or had merely been a possibility the older campers liked to count on. Annabeth distinguished things they knew they had lost from things they had never actually possessed. Thalia was the one who remembered which requests their father had ignored.
+
+By the time they were done, the notebook remained closed. That seemed to matter to Thalia.
+
+"Will you tell Chiron?" Percy asked.
+
+"Some of it," Thalia said. "Not the part about his face. That's ours."
+
+Annabeth nodded.
+
+Percy thought of Clarisse's Shield Rack story, the way she had wanted it to stay in the family. He understood. Some facts were useful to put in a report. Others belonged to the people who had lived through them.
+
+"Okay," he said. "I'll keep out of that part."
+
+Thalia studied him, then reached over and tugged the collar of his jacket straight.
+
+"You're already in most of our problems, Seaweed Brain," she told him.
+
+"That's true."
+
+"Try not to become one of the problems on purpose."
+
+"I'll do my best."
+
+She stood and offered her hand to Annabeth. The younger sister took it, and they walked off the dock together to meet Clarisse and Silena, who were arguing over where someone had left a pair of sandals.
+
+Percy stayed a moment longer. The lake moved against the boards in little, ordinary waves. Nothing had been forgiven, not by Zeus and not entirely between his daughters. But there were questions they could ask without turning them into tests, and work they could do without pretending they weren't hurt.
+
+He got up when Tyson called that he had found the sandals in the boathouse. They were Percy's, naturally.
+
+---
+
+Later, when Chiron called Percy to the Big House to dictate a message to Atlantis, he didn't summon any of the others.
+
+Percy found him in the study with a sheet of blank parchment laid across the desk. The windows stood open to the summer air. Beyond them somebody had resumed target practice, but each impact sounded oddly distant, as though camp were trying not to disturb the Big House.
+
+Chiron was reading a list of ships that had made port at Atlantis in the previous month.
+
+"Where did you get that?" Percy asked.
+
+"From a commercial harbor register. Trade information is less private than palace information, and less likely to start a diplomatic dispute when we consult it."
+
+Percy stared at the neat columns. "You think Zeus's missing messengers went on one of those ships?"
+
+"I don't know what happened to the messengers. That's why I'm looking for information I can verify."
+
+Percy sat down. The armchair was made for adults and left his feet dangling above the floor.
+
+"Zeus said Dad wasn't paying tribute," he said. "What does that mean, exactly? Money? Fish? His share of whatever the gods are supposed to send Olympus?"
+
+"Tribute can mean several things. It is partly ceremonial. It is also a sign of acknowledging the authority of the throne. Your father may dispute the amount or the form without intending war."
+
+"But you don't know."
+
+"Not fully."
+
+Percy wished Chiron would stop giving him honest answers that ended there. An invented certainty would have been easier to work with. He knew enough from the life he remembered to recognize some patterns, but those patterns had been assembled around other relationships and other histories. He was not willing to wager Clarisse's and Silena's safety on a guess dressed up as experience.
+
+"What do you want me to say?"
+
+Chiron set aside the register.
+
+"Tell Poseidon what his brother said. Accurately. Ask that he acknowledge receipt, because silence could be interpreted as refusal. I will write the formal portion for Olympus."
+
+"Why me?"
+
+"Because Zeus addressed the warning to you, and because your father is more likely to hear an honest account from his son than a rumor transmitted through the court."
+
+Percy thought of his father's letters, of the way Poseidon answered questions about the tides more readily than questions about politics. At twelve he was still young enough that the gods could call him a child when they wanted him silent and an envoy when they needed him to carry a warning.
+
+"That's a lot to put on me."
+
+"Yes," Chiron said. "It is."
+
+There was no soothing qualification. Percy appreciated that more than he would have expected.
+
+They composed the message together. Percy wanted to begin with how frightened Annabeth had looked, but Chiron suggested first establishing the date and the words of Zeus's demand. Percy insisted the message say that Zeus had ordered his daughters to report private conversations, and that the girls had refused.
+
+"Will that make Zeus angrier?" he asked.
+
+"It may."
+
+"Then should we leave it out?"
+
+"It happened," Chiron said. "Poseidon must understand why his children feel threatened. I won't ask you to omit the part that explains their fear."
+
+Percy wrote that sentence twice, the first version so illegible Chiron had to ask him to read it aloud. He described Clarisse's challenge, Silena's invitation to dinner, Thalia's refusal and Annabeth's decision to stand beside them. He left out the part where his knees nearly buckled. That wasn't a diplomatic fact.
+
+When they reached the question of Atlantis's preparations, Chiron stopped his pen.
+
+"Zeus claimed the sea roads are opening again. Have you been told what that refers to?"
+
+"Not exactly. Triton mentioned repairs. Dad's letters had things about flooded kitchens and messenger routes."
+
+"Those might be related. They might not."
+
+Percy rubbed his forehead. "I don't want to tell Dad what he should be building. I don't even know what the roads are."
+
+"Then ask. A careful question is more useful than a confident error."
+
+Percy took a fresh sheet. He wrote to Poseidon in the plainer voice he used in family letters: *Are the old sea routes being repaired? If so, please tell Chiron what you can. Zeus thinks they are meant for war. We didn't tell him that because we don't know.*
+
+He paused, pencil in hand, and added: *Please don't be angry with Clarisse or Silena for speaking. They were standing up for us.*
+
+Chiron read the letter when Percy showed it to him. He corrected the spelling of a single word and left the rest alone.
+
+The formal message was harder. It required titles and assurances and phrases Percy had to read twice to understand. Chiron explained the difference between acknowledging a grievance and admitting it was justified. They could say they had heard Zeus's demands without agreeing that Poseidon had broken an obligation. They could promise to deliver a message without promising an answer Poseidon hadn't given.
+
+"Why is it so complicated?" Percy asked after the third draft.
+
+"Because each word is likely to be repeated to someone who was not present. And that person may have a reason to hear it differently."
+
+Percy leaned back. It sounded disturbingly like Annabeth's explanation of the old star chart. You had to know where someone was standing before you knew what direction their marks meant.
+
+They sent the messages from the veranda where the late sunlight caught the water in a shallow fountain basin. Chiron invoked a rainbow, dictated the official passage, then gave Percy room to speak his private letter. The colors moved over the water until the image on the other side steadied. An Atlantean court attendant accepted the message, confirmed it would be taken to the proper chamber, and did not pretend Poseidon was waiting just out of sight.
+
+Percy had hoped for his father's face. He had hoped to hear something reassuring, perhaps one of Poseidon's bad jokes. Instead he got a seal of receipt and a polite promise that the king would be informed.
+
+"Will he answer tonight?" Percy asked when the connection closed.
+
+"I cannot promise that," Chiron said.
+
+Percy pressed his palms to the stone rim of the fountain. The water felt cold and familiar beneath his fingers. He could have raised it into the air if he wanted; a dozen droplets were already trembling where his hand touched. That was power, small and easy, and it couldn't force the message to arrive sooner.
+
+Chiron waited until the surface settled.
+
+"I also need to speak to you about something else. Today you challenged Zeus in front of the whole camp."
+
+"I know."
+
+"You were trying to defend your family."
+
+"I was."
+
+"You corrected his count of Poseidon's children. That was true, and perhaps necessary." Chiron set down the rolled copy of the letter. "But being correct will not always protect you from a god's anger."
+
+Percy thought of Clarisse standing with her spear and Silena with her hands empty. "If I hadn't said anything, he still would have accused us."
+
+"Possibly. We cannot test the other outcome now." Chiron looked at him. "I'm not asking you to apologize for loving them. I'm asking you to consider what protects them after the moment of defiance has passed."
+
+Percy looked toward the camp roofs. He could see the corner of Cabin Three beyond the trees, and he knew his sisters would be waiting for news. The anger that had carried him through the confrontation was gone. In its place was a complicated worry about what his father might say, what Zeus might do next, and what a twelve-year-old could actually promise to prevent.
+
+"Maybe I should have let you speak first," Percy admitted.
+
+"Maybe," Chiron said. "Next time, look for me before stepping forward. If there is time, let the adult who is responsible attempt the difficult conversation."
+
+"And if there isn't?"
+
+"Then you'll make the best choice you can, and we'll deal with the results together."
+
+Percy couldn't tell whether that was a warning or comfort. It sounded like both.
+
+As he stood to leave, Chiron checked the final copy of the formal message.
+
+"One more thing. Silena's invitation to fish stew was included in the official record."
+
+Percy stared. "That was a real invitation?"
+
+"Your sister appears to have meant it."
+
+"Zeus coming to our cabin for dinner sounds like a terrible idea."
+
+"Quite possibly," Chiron said. "But extending an invitation is not the same as believing it will be accepted."
+
+Percy went back down the hill with a dry mouth and heavier shoulders. There was no answer from his father yet. At least the question was on its way.
 
 "Dad answered?" Silena asked, waiting on the porch steps with Clarisse.
 

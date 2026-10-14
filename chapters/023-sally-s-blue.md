@@ -1,6 +1,5 @@
 ## Chapter 23: Sally's Blue
 
-### Percy — The Recipe That Isn't Written Down
 
 Percy didn't remember deciding to do it.
 
@@ -26,11 +25,11 @@ Percy stared at the counter. Someone — probably the harpies who did dishes —
 
 His heart was beating too fast. It was just cookies. It shouldn't have felt like standing at the edge of the canoe lake before a Capture the Flag match.
 
-"It's not a normal recipe," he said. His voice sounded too loud in the tile kitchen. "My mom — Sally — she did everything blue in my original childhood. Blue pancakes. Blue eggs on my birthday. Blue candy. She said Gabe didn't get to tell her blue food didn't exist, so she made it on purpose."
+"It's not a normal recipe," he said. His voice sounded too loud in the tiled kitchen. "My mom was Sally. She died when I was little. I've been trying to make blue cookies the way I think she'd have liked them." He looked at Annabeth for half a second. They both knew there was more he couldn't say to this crowd.
 
 "Why blue?" Tyson asked, swinging his legs where he sat on the counter. He was too big for the counter, really, but nobody was going to tell him that.
 
-Percy shrugged, hands in his hoodie pocket. "When I was little, I asked her. Gabe had been mouthing off, saying blue food wasn't real and she shouldn't bother. So she decided everything special would be blue. To prove him wrong."
+Percy shrugged, hands in his hoodie pocket. "Some people think blue food looks weird," Percy said. "I like the idea of making it anyway. It seemed like something she would have done."
 
 Silena pressed a hand to her chest. "I love her. I've never met her and I love her."
 
@@ -46,7 +45,88 @@ Talking about her still caught him by surprise. He had told them about Sally for
 
 ---
 
-### Annabeth — Measurements Like Architecture
+
+Before anyone touched the mixer, Percy went to find the kitchen supervisor.
+
+Argus had told him not to break anything and left the room. That might have been enough for a group of older campers who knew the ovens. It wasn't enough for Percy, whose only clear memory of this recipe came from standing beside his mother in a cramped New York kitchen while she let him steal chocolate chips.
+
+He found a kitchen attendant named Mara carrying a crate of clean pans down the hall.
+
+"Could you check the oven with us?" he asked.
+
+"Is something wrong with it?"
+
+"I don't know. It's old, and there are a lot of people in there who think they know how to cook."
+
+Mara looked toward the room, where Clarisse was announcing that she ought to be put in charge of the timer. Her expression suggested she'd heard enough.
+
+"I'll supervise the hot equipment," she said. "Nobody touches the temperature controls without telling me first. And the raw dough is not for tasting."
+
+Percy blinked. "Mom used to let me taste it."
+
+"Your mother made her own decisions in her kitchen. Here we're feeding campers, some of them very young. We'll use clean utensils and wait until the cookies are baked."
+
+He wanted to object that this was part of the memory, the little scrapings from the bowl and the flour on the counter. Then he remembered that the memory included his mother telling him to wash his hands every time he came in from outside, and that he'd always complained about that too.
+
+"All right," he said. "Can we set out the ingredients first?"
+
+Mara inspected the supplies. She had enough butter and flour for several batches, but the blue coloring was concentrated and needed to be measured before anyone poured it into a bowl. Percy showed her the bottle and admitted he didn't know whether his mother had used the same kind.
+
+"This one is safe for baking," Mara said after checking the label. "Start with the recommended amount. You can adjust the next batch if the color isn't right."
+
+The answer disappointed him. He wanted a blue as bright as the cookies he'd eaten in another life, and he'd imagined he could recognize the color the moment he saw it. He hadn't considered that a different dye could behave differently in the oven.
+
+"Then we'll start small," he said.
+
+Annabeth arrived with her notebook and listened while Mara explained where the emergency blanket, mitts and cooling racks were kept. She drew a little diagram of the workstations so people wouldn't have to crowd around the oven door.
+
+Clarisse stared at it.
+
+"You mapped a kitchen."
+
+"Yes," Annabeth said. "Now we can stop pretending eight people fit in the space meant for two."
+
+Thalia looked at the diagram. "Where do I stand?"
+
+"At the chocolate-chip station, provided you promise not to eat the supply."
+
+"No deal."
+
+"Then the door, where you'll have to ask somebody before coming back in."
+
+Percy laughed. It felt good to be teased about a cookie project instead of treated like a child whose history required careful handling. He had been worried the others would become solemn the moment he said Sally's name.
+
+Mara asked whether there were any allergies in the group they intended to feed. Silena checked the camp's food records and made a separate note for the kitchen to prepare an alternative dessert for anyone who couldn't eat wheat, eggs or dairy. Percy was startled by how many ordinary decisions were required to share a recipe beyond a single family.
+
+"Do we have enough time?" he asked.
+
+"For the first batch, yes," Mara replied. "For nine dozen cookies, only if the kitchen agrees to let us use the space until supper."
+
+Percy looked at the others. He had imagined one batch, something that would let him remember Sally without asking anyone to perform grief with him. The idea had grown into a camp event before he could stop it.
+
+"Let's see whether the first batch works," he said. "Then we can decide what to do next."
+
+Silena smiled. She liked that answer. The rest of the camp could wait until they knew the recipe was good and the equipment safe.
+
+Before mixing, Percy stood beside the counter and read the ingredient list they'd agreed to use. It was close to what he remembered, but he could already see small differences: a different kind of vanilla, a deeper brown sugar, chocolate chips from the camp supply rather than the supermarket brand Sally bought when she had a little money left over.
+
+He was worried those differences would make the memory feel less real.
+
+Annabeth came to stand beside him.
+
+"Are you ready?" she asked.
+
+"Mostly."
+
+"You can tell everybody this is an experiment. Nobody expects you to reproduce your mother's kitchen perfectly."
+
+He looked at the empty bowl. He had told people stories about Sally for months. He wanted to give them something they could taste, something he didn't have to keep explaining. The recipe couldn't carry every part of her life, and he knew that. It could still give them an afternoon in a room filled with the smell of sugar.
+
+"All right," he said. "Let's start."
+
+They took their places. Mara stood beside the oven, and Percy picked up the butter.
+
+---
 
 Annabeth Grace believed in blueprints.
 
@@ -128,7 +208,6 @@ Annabeth didn't write that down. She just memorized the way he smiled when he sa
 
 ---
 
-### Silena — The Vanilla Trick and Other Secrets
 
 Silena Beauregard knew a lot about mothers.
 
@@ -150,7 +229,7 @@ She showed him. Fold, turn bowl, fold. The dough came together thick and blue as
 
 "Agreed," Clarisse said, and that was the most peaceful interaction they'd ever had.
 
-Silena snuck a taste of dough when Percy wasn't looking and her eyes went wide. "Oh, gods. The salt. Percy, it's perfect. Salty-sweet. Your mom's a genius."
+Silena checked the measured salt and vanilla against the recipe. "This is going to be good," she said. "The proportions make sense. Your mom knew exactly what she wanted."
 
 "She'd love hearing that," Percy said. "She'd have baked you into a coma."
 
@@ -160,7 +239,6 @@ Those twelve minutes were the longest twelve minutes of Silena's life, because C
 
 ---
 
-### Clarisse — How to Burn Water (Almost)
 
 Clarisse La Rue did not burn things on purpose.
 
@@ -170,7 +248,7 @@ But the truth was, ovens hated her. Or her father, god of the sea, hated ovens. 
 
 "I was *monitoring*," Clarisse said, arms crossed, as the smoke alarm started screaming.
 
-The first batch had gone in perfect — six fat scoops, spaced like soldiers. Percy had shown them how to use two spoons. Annabeth had used a ruler to ensure two-inch spacing ("Structural integrity during spread," she'd said, dead serious). Tyson had licked the spatula. Ella had tried to steal a raw dough ball and Grover had talked her down with promises of first taste.
+The first batch had gone in perfect — six fat scoops, spaced like soldiers. Percy had shown them how to use two spoons. Annabeth had used a ruler to ensure two-inch spacing ("Structural integrity during spread," she'd said, dead serious). Tyson had offered to wash the spatula. Ella had tried to steal a raw dough ball and Grover had talked her down with promises of the first baked taste.
 
 Then Clarisse said, "They look done," at minute seven.
 
@@ -192,17 +270,17 @@ She pulled the tray halfway out. The kitchen filled with the smell of almost-coo
 
 Clarisse shoved them back and slammed the door. The ancient oven rattled. Then, because she felt embarrassed at being ganged up on, she cranked the temperature dial from 350 to 425. "To catch up for heat loss," she muttered. "Tactics."
 
-Nobody noticed for four minutes. They were too busy fighting over who got to lick the blue bowl (Tyson won by sheer size; Thalia stole a finger-swipe and ran; Grover got a dab on his nose from Ella).
+Mara had stepped into the pantry to fetch a missing cooling rack. By the time she returned, the thermostat had been changed without permission. The others were arguing about who would wash the blue bowl (Tyson volunteered; Thalia wanted to keep the last chocolate chips; Grover asked Ella not to climb onto the mixer).
 
 Then the smell changed. Sweet turned to sharp. Smoke curled from the oven seam.
 
 "Clarisse!" Silena yelped.
 
-Percy yanked the oven open with a dish towel. Smoke billowed. Six cookies, black on the bottom, still gooey-blue in the middle, smoking like tiny volcanic islands.
+Mara switched off the oven and opened it with proper mitts. Smoke billowed. Six cookies, black on the bottom, still gooey-blue in the middle, smoking like tiny volcanic islands.
 
 The smoke alarm screamed. Ella screamed louder, flapping to the ceiling. Grover bleated and knocked over a bag of flour, which exploded in a white cloud. Tyson started laughing so hard he slid off the counter. Thalia grabbed a cutting board and started fanning the alarm.
 
-Annabeth, calm as a general, grabbed the tray with mitts, dumped the charred disks into the sink, and turned on the faucet. Hiss. More smoke.
+Annabeth cleared the counter while Mara set the hot tray on a heatproof rack. They kept the smoking cookies away from the children and ventilated the kitchen after the oven was switched off.
 
 Clarisse stood in the middle of it, face red — from heat or shame, nobody could tell — fists clenched.
 
@@ -238,11 +316,116 @@ And just like that, the war ended before it started.
 
 ---
 
-### Thalia — Dough Thief Confessions
+
+Mara asked them to leave the oven alone for ten minutes.
+
+The fan was running, the first tray had been removed, and the alarm had finally stopped. None of the children had been burned. The kitchen still smelled of scorched sugar. Percy wanted to start another batch at once, partly because the ruined cookies made him feel he'd mishandled the only piece of Sally's kitchen he could share.
+
+"We can't bake while the oven is being checked," Mara told him.
+
+"I know."
+
+"You look as though you're about to argue."
+
+"Just with myself."
+
+She nodded and went to fetch the maintenance sheet. Clarisse stayed at the counter, staring at the temperature dial she'd changed. Everybody else had gone to the hallway for air, except Silena, who was sorting the ingredients she'd managed to keep away from the smoke.
+
+"That was my fault," Clarisse said.
+
+Percy looked at her. "I know."
+
+"I shouldn't have touched it."
+
+"No."
+
+She had expected him to make a joke. She was better at handling jokes than silence, and the silence made her feel younger than she wanted to. She was Percy's older sister, the one who was supposed to teach him to handle equipment properly. She'd ignored an instruction because she hated being corrected in front of everyone.
+
+"I thought if I made the first batch perfect," she said, "you'd be happy."
+
+He considered. "I was happy we were doing it."
+
+"Even before we tasted them?"
+
+"Yes."
+
+She looked at the blue streaks on his shirt. There was flour in his hair and a small smear of chocolate beside his ear. He had been laughing until the oven smoked. She'd thought that making the cookies good would make him less sad about his mother. She couldn't explain why she had treated a recipe like a contest to win.
+
+"I'm sorry," she said.
+
+"I know."
+
+He wasn't making it easy for her. She disliked that and understood it at the same time.
+
+"What can I do?" she asked.
+
+"Help clean. Then let Mara set the temperature for the next batch."
+
+"That's all?"
+
+"That's plenty."
+
+She started washing the measuring cups. Silena came over and silently handed her a dry cloth for the clean ones. They worked side by side until the counter had been cleared and the floor no longer stuck beneath their shoes.
+
+Mara returned and checked the oven. The temperature control still worked, but she wanted to run it empty for a few minutes before anyone put in another tray. She wrote the incident in the kitchen log, with Clarisse's name beside the change.
+
+Clarisse stared at the form. "Do I have to sign?"
+
+"Yes. We record what happened, even when nobody was injured."
+
+She signed. Mara did not scold her. That made the shame easier to carry than if she'd been told she was a disaster.
+
+When Percy came back into the kitchen, Mara asked whether he wanted to try the second batch. He looked toward Clarisse.
+
+"Only if we can work together."
+
+Clarisse put down the cloth. "You still want me here?"
+
+"You're my sister."
+
+"That's not a reason to let me ruin another tray."
+
+"Then don't ruin one. You know exactly what went wrong."
+
+He said it plainly, without pretending she had done nothing wrong. Clarisse liked him better for it.
+
+They arranged the workstations again. Mara kept the oven controls to herself; Clarisse scooped the dough onto the tray and Silena checked the spacing. Annabeth read out the measurements, Percy watched the texture of the dough, and Tyson brought the cooling rack to the right side of the counter.
+
+The second tray went in. Nobody crowded around the oven door this time. Thalia and Ella stayed at the table while Grover washed the bowls. The timer was set for the agreed interval, and Mara checked the oven light without opening the door.
+
+Clarisse stood beside Percy, hands in her pockets.
+
+"Your mom sounds like she had a lot of fun with you," she said.
+
+"She did."
+
+"I wish I'd known her."
+
+He looked at his sister. She had not known Sally in this life. To Clarisse, their mother had died when Percy was two, long before the years he remembered spending with her in a different history. Clarisse didn't need to pretend she'd missed someone she hadn't met. She could still care that Percy had.
+
+"She would've liked you," he said.
+
+"She would have told me I was bossy."
+
+"Definitely."
+
+Clarisse smiled. "Good. I would have respected that."
+
+When the timer rang, Mara opened the oven and pulled out a tray of cookies with golden edges and soft blue centers. Percy breathed in, then laughed. The smell was close enough to remind him of the apartment without being exactly the same. Clarisse looked at the cookies and gave him a careful nod.
+
+"That looks better."
+
+"It does."
+
+She waited while the tray cooled, resisting the urge to poke the nearest cookie. It was not an impressive act of heroism. For her, it was proof that she could stop herself when she wanted to rush ahead and that Percy could trust her with something important again.
+
+Mara set the next timer and went back to her own work. Clarisse stayed to help without asking to be put in charge.
+
+---
 
 Thalia Grace had stolen many things in her sixteen years of life.
 
-She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). She'd stolen Zeus's master bolt — okay, no, she hadn't, but she'd been *accused* in absentia, which should count for street cred.
+She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). Someone had once accused her of stealing something she had never even seen, an accusation she was still irritated by. It did not count as theft, however impressive she found her survival of the argument.
 
 She had never stolen cookie dough quite so blatantly, quite so often, in front of quite so many witnesses, as she did that afternoon.
 
@@ -258,11 +441,11 @@ Watching Percy talk about Sally so easily, like love was a recipe you could pass
 
 So she stole dough instead of feelings.
 
-Second batch went in — scooped by Clarisse with military precision, spaced by Annabeth with a ruler, taste-guarded by Thalia who ate roughly one dough ball per three scooped. Tyson spun the timer dial with ceremony. Silena set out cooling racks covered in parchment. Grover swept up the flour explosion with a broom twice his size while Ella rode the broom handle shouting, "WHEEE! WHEEE!"
+Second batch went in — scooped by Clarisse with military precision, spaced by Annabeth with a ruler, quality-guarded by Thalia who counted roughly one chocolate chip stolen per three scoops. Tyson asked Mara to set the timer, then announced the count with ceremony. Silena set out cooling racks covered in parchment. Grover swept up the flour explosion with a broom twice his size while Ella rode the broom handle shouting, "WHEEE! WHEEE!"
 
 Percy leaned against the counter, blue up to his elbows, watching his friends bicker over oven light etiquette.
 
-"You okay?" Thalia asked quietly, nudging him with her shoulder. She offered him a stolen dough ball as a peace offering. He took it.
+"You okay?" Thalia asked quietly, nudging him with her shoulder. She offered him a chocolate chip she'd saved from the mixing bowl as a peace offering. He took it.
 
 "Yeah," he said, surprised. "Yeah, actually. Usually when I talk about my mom I feel like — like I'm gonna cry or throw up or both. But here —" He gestured at the mess, the smoke still hanging faintly, Clarisse arguing with Annabeth about convection currents. "It feels good. Like she's here a little."
 
@@ -282,7 +465,96 @@ The kitchen erupted.
 
 ---
 
-### Grover — Official Taste Test
+
+The cookies were cooling when Annabeth noticed the first problem with her recipe notes.
+
+She had written down every quantity carefully. Butter, sugar, salt, vanilla, flour, eggs and coloring were all recorded in grams or measured spoons. She'd written the oven temperature and cooking time beside a sketch of the tray. But the notes described what they'd done today, not what Percy remembered Sally doing.
+
+"What's wrong?" he asked.
+
+"Nothing with the cookies. With the record."
+
+She turned the notebook toward him. He read the page, following the lines with one finger. The measurements were precise. The order was right. He recognized what they'd used, even if some quantities had been guesses.
+
+"It looks good," he said.
+
+"It's a standardized version. I want to separate it from the original recipe as you remember it."
+
+Percy looked up. "I don't have her original recipe."
+
+"I know. That's why we shouldn't write this as though we do."
+
+She drew a line across the page and started a second section. This one was headed *Percy's recollections*. She asked him about the things he'd said before the mixer started: Sally setting the butter out early, pouring vanilla into the cap, using a chipped mug for flour and waiting until the edges turned golden.
+
+He gave her the details he knew. Where he was uncertain, they wrote that he was uncertain. It was tempting to turn an approximate memory into a clean number because a number seemed easier to preserve. Annabeth refused to do it.
+
+"Did she always use the same blue?" she asked.
+
+"No. Sometimes the bottle was almost empty and the cookies came out pale. One time she tried to mix two colors and they looked like toothpaste."
+
+"What did you do?"
+
+"Eat them. She said toothpaste was a terrible flavor and an excellent color."
+
+Annabeth laughed and wrote down the description. It wouldn't tell anyone how many drops to use. It would tell a future reader why the blue mattered to Percy.
+
+"Did she write anything down herself?" she asked.
+
+"Sometimes on the backs of envelopes. She'd use whatever was lying around. I remember a grocery list with chocolate chips on it and a reminder to pay the electric bill."
+
+He stopped. He remembered that list vividly, folded beside the fridge in the tiny apartment. He could see Sally's handwriting and the way she'd circled the bill twice because she was worried there wouldn't be enough money before the next paycheck.
+
+Annabeth waited, giving him room to decide whether to continue.
+
+"I don't remember the exact words," he said. "But she kept the grocery list after the cookies were made. She used the blank side for another recipe."
+
+They wrote that down without trying to reconstruct what had been on the paper.
+
+Ella came over, attracted by the open notebook and the careful distinction between headings.
+
+"Recipes," she said. "A recipe is a set of instructions. A recollection is a remembered thing. Not identical."
+
+"Exactly," Annabeth replied.
+
+Ella looked delighted. She offered to copy the page in a smaller hand so it could be stored in the kitchen's recipe file. Annabeth agreed, then asked whether Ella could keep the recollections with Percy's permission rather than automatically filing them for anyone to read.
+
+Percy looked at the page. He wanted other people to bake the cookies. He didn't necessarily want every private detail of his old apartment passed around camp.
+
+"The recipe can go in the kitchen file," he said. "I want to keep the memories with me. Maybe I'll copy some for Amphitrite later."
+
+Ella nodded. She had been working in the library long enough to understand that not every interesting record belonged on an open shelf.
+
+"Public instructions, private memories," she repeated. "Two categories."
+
+She made a clean copy of the measured recipe, then returned the notebook to Annabeth. She wrote *adapted from Percy's recollection of Sally Jackson's cookies* beneath the title, leaving the space for any future amendments.
+
+Percy looked at the wording. It was a small change. It made the recipe belong to Sally without pretending the kitchen at camp was the same kitchen he'd lost.
+
+"Thank you," he said.
+
+Annabeth studied the cookies on the rack. Some were slightly smaller than the others; one had spread until it nearly touched its neighbor. Sally might have been amused by the imperfections, or she might have scolded Percy for scooping them carelessly. Annabeth knew how easily a person who had died could become impossibly perfect in the stories people told.
+
+"Can I ask you one more thing?" she said.
+
+"Sure."
+
+"Did your mom ever get angry while you were baking?"
+
+Percy laughed unexpectedly.
+
+"All the time. I once spilled an entire bag of flour over the floor and lied about it. She made me sweep it, then mop the rest. We didn't bake again until the next weekend."
+
+Annabeth smiled. She liked the story. It made Sally a real person with rules, a tired parent who could be irritated and still make time for a child she loved.
+
+"That goes in the private notes," she said.
+
+"Definitely."
+
+They shut the notebook. The cookies were almost cool enough to taste, and Grover had been watching the clock with growing desperation. Percy stood and went to call the others.
+
+The recipe would change when they baked it again. He could still keep the first attempt, with its scorched tray and extra vanilla, as a day he'd spent telling the truth about someone he missed.
+
+---
 
 Grover Underwood took his duties seriously.
 
@@ -362,7 +634,94 @@ Clarisse let out a wet laugh. "Damn right."
 
 ---
 
-### Percy — Blue Tongues
+
+Silena had expected the blue cookies to be a small gathering. By late afternoon, she had three pages of requests for additional trays.
+
+The first came from the Hermes cabin, where a pair of younger campers were trying to organize a welcome meal for a new boy who'd arrived that morning. Then an Apollo counselor asked whether the infirmary could have a few, provided they were labeled properly. Another camper wanted to take a dozen to the dryads, and Grover warned him that not every tree spirit could eat mortal sweets even if they appreciated the offer.
+
+Silena stood beside the cooling racks and realized the project had begun growing beyond what anyone had agreed to make.
+
+"How many batches can we realistically finish before dinner?" she asked Mara.
+
+"Two more in this oven, provided we have enough clean trays and you stop opening the door to check the color."
+
+Silena looked at the list. That wasn't enough to fulfill every request.
+
+"We could make the batches smaller," she suggested.
+
+"Then the bake time changes, and we'd need another test. Better to make the recipe correctly and give people what we have."
+
+Silena didn't like disappointing anybody. She was good at making people feel included, which sometimes meant promising more than she could reasonably produce. But she had agreed to help Percy share his mother's recipe, not turn the kitchen into a bakery for every cabin in camp.
+
+She went to find him. He was wiping a spill off the counter and laughing at something Tyson had said about edible blue ocean waves.
+
+"Can I ask you something?" she said.
+
+"Sure."
+
+"We have more requests than cookies. Do you want to keep baking, or would you rather make the last two batches and let everyone else try the recipe another day?"
+
+Percy looked at the list. His first reaction was to agree to everything. He liked the idea of an entire camp with blue tongues, and he wanted Sally to be remembered by more than the two people who'd known her in the life he remembered.
+
+Then he saw how tired the others were. Clarisse was sitting at the table with a wet cloth over her shoulder. Tyson had been washing dishes for an hour, and Mara had her own dinner preparation to oversee.
+
+"Two more," he said. "Then we stop."
+
+Silena nodded. She wrote the decision beside the requests and told people the recipe would be available through the kitchen afterward. There was disappointment, but nobody threatened to leave camp over an unfulfilled cookie order.
+
+The Apollo counselor thanked her for checking the ingredients and asked whether there would be a non-dairy alternative for the campers who needed it. Silena consulted Mara and discovered the kitchen already had an approved oatmeal biscuit recipe for them. It wouldn't be Sally's cookie, and pretending it was would be unfair. She arranged to serve the alternative beside the blue ones with a clear label.
+
+Annabeth helped make the labels. She was very precise about describing ingredients and refused to call the alternative a blue chocolate-chip cookie simply because it had blue sugar sprinkled over it.
+
+"Then what should we call it?" Silena asked.
+
+"Oat biscuit with blue icing, made in the kitchen."
+
+"That's not a very exciting name."
+
+"It tells people what they're eating."
+
+Silena looked at the handwritten card and admitted it was useful. The children waiting for dessert cared more about whether something was safe for them than whether she could make it sound festive.
+
+Clarisse came over with a fresh baking sheet and saw the list.
+
+"You're making a spreadsheet?"
+
+"An inventory."
+
+"Of cookies."
+
+"Yes."
+
+Clarisse examined the count. "You promised the Apollo table twelve and the Hermes table ten. That doesn't leave any for us."
+
+Silena looked up. "We have a tray set aside for the people who made them."
+
+"You should have written it down."
+
+"I was trying not to be selfish."
+
+"You're allowed to eat your own work."
+
+Silena considered. She'd been so concerned with making the day generous that she had almost forgotten the group gathered around Percy was supposed to enjoy the recipe too. It was not selfish to save enough for the people who'd spent the afternoon baking.
+
+She wrote *crew tray* at the bottom of the list. Clarisse nodded and carried the sheet to Mara for approval.
+
+The final batches went into the oven while Grover cleaned the mixing station and Ella copied the recipe. Annabeth checked the cooling time and asked Percy whether he wanted a photograph before the first tray was carried to the pavilion. He nodded.
+
+Silena fetched the camera. She arranged the bakers behind the table without insisting everyone pose perfectly. Clarisse stood with her arms crossed, looking pleased despite herself. Tyson held the mixing bowl upside down to prove it was empty. Percy was in the center, flour in his hair and a tired smile on his face.
+
+"Ready?" Silena asked.
+
+"Wait," Percy said.
+
+He took one small cookie from the crew tray and placed it at the front of the photograph, beside the notebook with Sally's name on it.
+
+"Now," he said.
+
+The flash made everyone blink. It caught a table full of uneven blue cookies made by people who hadn't known Sally together, and Percy would have a record of who had come to help. It didn't make the afternoon identical to the one he'd lost. He was beginning to think that wasn't the point.
+
+---
 
 By sunset, they'd made nine dozen.
 
@@ -407,13 +766,154 @@ Below them, Clarisse's voice rose: "SILENA, IF YOU PUT A BOW ON MY COOKIE I WILL
 
 Percy laughed, blue tongue and all. Annabeth laughed too, leaning her head briefly against his shoulder — quick, fierce, gone before anyone could tease.
 
-The sea remembered. The sky forgot. But kitchens — kitchens held on.
+Percy saved one blue cookie in a paper bag, though he didn't know who it was for. Sally would have told him to eat it while it was still warm.
 
-Percy held up his last cookie to the sunset. Still blue.
+"Mom," he whispered, holding the last crumb on his thumb. "We did it."
 
-"Mom," he whispered, "we did it."
-
-He could picture her in that Manhattan kitchen as clearly as ever: blue walls, chipped blue mug, Sally Jackson humming off-key and adding an extra capful of vanilla to a quiet batch. She wasn't there in this life. But the taste lingered, and the friends laughing below him had learned her recipe, and he could carry that home into the next warm afternoon.
+Below, Clarisse was trying to convince Grover that the slightly burned batch should count as a separate flavor. Silena was writing down the measurements so they could try again. Percy folded the bag carefully and went downstairs before someone ate the cookie he'd saved.
 
 ---
 
+The next morning, Percy took the paper bag out of his trunk.
+
+The cookie inside had gone soft. It was still blue and smelled faintly of chocolate, but the crisp edge he'd loved the night before was gone. He turned it over in the bag and wondered what he had expected. He couldn't preserve a cookie forever simply because it reminded him of Sally.
+
+Silena found him sitting on the bunk with it.
+
+"Are you saving that for someone?" she asked.
+
+"I thought I was. I don't know who."
+
+She sat beside him. The bag looked absurdly small in his hands. He had spent the previous afternoon giving blue cookies to half the camp and was now staring at one as though it held something nobody else had tasted.
+
+"Do you want me to leave?" she asked.
+
+"No. I just don't know what to do with it."
+
+"You could eat it. Or put it in the bin. Or keep it for another day until you decide."
+
+"It'll get worse."
+
+"Yes."
+
+He looked down. Silena didn't tell him to be grateful he'd had the afternoon or that Sally would want him to be happy. She knew better than to speak for a woman she'd never met, especially when Percy had memories the rest of the family couldn't share.
+
+"I thought if I could make them exactly right, I'd be able to remember her voice better," he admitted.
+
+"Did it work?"
+
+"Some of it. I remembered her telling me to clean the counter after I spilled flour. I remembered her laughing when she got blue dye on her fingers."
+
+"That sounds good."
+
+"It was. But today I can't remember how she said my name when she was annoyed. I know she had a particular voice for it. I can hear the shape of it without the sound."
+
+Silena looked at the bag. She had seen him grieve over the gap between the childhood he remembered and the one she'd shared with him under the sea. Until yesterday, she hadn't understood how a small, ordinary recipe could sharpen the loss instead of soothing it.
+
+"You're allowed to keep trying to remember," she said. "You don't have to make the memory exact enough to prove it happened."
+
+"I know she was real."
+
+"I know you do."
+
+He looked at her. "Do you believe me?"
+
+"About Sally? Yes. I believe you remember her. I also know that the little brother I grew up with lost his mother when he was two, and those years are real to me. I don't know how to make both accounts fit together."
+
+Percy nodded. They had avoided saying that part aloud during the baking. He appreciated that Silena was willing to say it now.
+
+"Does it bother you when I talk about her?" he asked.
+
+"Sometimes it hurts that I can't remember what you do. And sometimes I worry that if I tell you a story about the palace, you'll hear it as a demand to forget her."
+
+He looked down again. "I don't."
+
+"I know. But I worry."
+
+They sat together without trying to answer the impossible question of why history had changed. The smell of salt from Cabin Three's walls mixed with the faint sweetness from the paper bag. It wasn't the kitchen in Sally's apartment, and it was home anyway.
+
+"Amphitrite wrote last week," Percy said after a moment. "She asked what we were doing at camp. I haven't answered that part."
+
+"You could tell her about the cookies."
+
+"Would that hurt her?"
+
+Silena considered. Amphitrite knew Percy had arrived with memories that didn't match his life in Atlantis. She had made room for his uncertainty when she visited and tried not to question him about it constantly. Silena could not know how the queen would feel about an account of another mother.
+
+"She might have feelings about it," Silena said. "But the fact that you loved Sally doesn't mean you're doing something wrong by loving Amphitrite too. You can decide how much you want to explain."
+
+Percy thought about the letter. He wanted Amphitrite to know he'd enjoyed the day with his sisters. He wasn't ready to describe Sally's kitchen in detail, or ask his family in Atlantis to understand what it felt like to remember a woman they knew had died before he could remember her.
+
+"I can say we made blue cookies because of a recipe I remembered," he said. "Then tell her about Clarisse nearly burning the first batch."
+
+"She'll find that funny."
+
+"Clarisse won't."
+
+"Then I won't quote you."
+
+He smiled. He could send that much without pretending the rest was simple.
+
+Clarisse came into the cabin with two mugs and stopped when she saw the bag.
+
+"Did you leave me one?"
+
+"This is the last."
+
+"You ate the others?"
+
+"Most of them went to camp."
+
+Clarisse looked offended. "You saved the last one and didn't give it to me?"
+
+Percy waited for her to turn the exchange into a wrestling match. Instead she saw his face and sat on the opposite bunk.
+
+"Is it a Sally thing?" she asked.
+
+"Kind of."
+
+She nodded. "Then keep it."
+
+"It's stale."
+
+"So? You don't have to eat it."
+
+Silena looked at her. "That's what we've been discussing."
+
+"Then I'm late to the conversation."
+
+Clarisse set one mug beside Percy and took a careful sip from the other. She'd made hot chocolate, badly, with more powder than water. Percy tasted it and nearly choked.
+
+"How much chocolate did you use?"
+
+"A normal amount."
+
+"That isn't a normal amount."
+
+"You're welcome."
+
+He laughed, then looked down at the blue cookie. He wanted to keep something from the day. The cookie itself would crumble. There was the recipe notebook and the photograph Silena had taken, and the people who had been in the kitchen would be there for another attempt.
+
+"Would you two make them with me again?" he asked.
+
+"When?" Clarisse said.
+
+"I don't know. On a day when we have time."
+
+Silena smiled. "Yes. We can book the kitchen and ask Mara before we start."
+
+Clarisse groaned. "You're making this sound like work."
+
+"It is work," Silena replied. "Also fun."
+
+Percy took the cookie out of the bag and broke it in three pieces. He gave one to each sister. They ate it with the terrible hot chocolate, commenting on how soft the chocolate had become and whether the blue had faded overnight.
+
+"It needs to be fresh," Clarisse declared.
+
+"It does," Percy agreed.
+
+He put the empty bag in the rubbish and went to fetch his notebook. He wrote down that the last cookie had been shared in Cabin Three with his sisters, and that Clarisse made hot chocolate too strong. He didn't write that Sally would have approved, because he couldn't ask her. He wrote what had actually happened.
+
+Silena helped him put the photograph in a clean sleeve. Clarisse drew a tiny cartoon of an oven with smoke coming out of it beside the recipe. Percy added a blue smudge from the last bit of coloring still on his finger.
+
+When they were finished, he closed the notebook and set it on his shelf beside the letters from Atlantis. Both belonged there. He didn't have to decide which one counted as his real family before breakfast.

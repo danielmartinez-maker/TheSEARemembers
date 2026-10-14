@@ -636,7 +636,32 @@ At half past eight Clarisse got out of the water and stood on the edge and count
 
 "Seventeen," she said. "Nobody's gone anywhere." She pulled her jacket on over her suit, because she was not going to be seen in a suit without a jacket even in a building full of steam, and went to the slate, and turned it round, and wrote on it in her block capitals: THU 19 — 17. And then she took the slate off its nail and carried it out to the porch, because a grown-up knows who is in the water on any given evening, and that had been the first condition and it was going to keep being the first condition.
 
-Silena went round the room with the basket and gave the last of the warm towels out, and then stood at the rail and let the hall do what it did at nine o'clock, which was to empty around the two people at the inlet end who had somehow become the last ones in the water.
+Silena carried the last dry towels to the inlet end of the hall. Two swimmers were still talking in the water, elbows hooked over the coping where the tiles were warm. They had been there longer than they realized.
+
+"Five minutes," she called. "Then everybody out."
+
+One looked up, startled, and checked the clock above the door.
+
+"Already?"
+
+"Already. Clarisse has the count, but the count doesn't mean everyone can stay indefinitely."
+
+They laughed and pushed away from the edge. Silena watched until both reached the ladder. Wet feet on a tiled floor made her nervous, no matter how many times people promised to be careful. She held the towel basket steady while they climbed out and made sure neither stepped directly onto the puddle beside the drain.
+
+Clarisse came back in after hanging the slate on the porch. "Seventeen going in," she said. "Seventeen accounted for. Anyone still in the water?"
+
+"Not now."
+
+"Good."
+
+She crossed to the inlet and checked that the ladder was secure, then marked the maintenance note they'd left on the board. The repaired sealant needed to cure before anybody put weight against that section of the wall, and someone had been tempted to lean there already.
+
+"No drills near this edge until it's cleared," she told Silena.
+
+"I'll put up the cord."
+
+Silena fetched it and tied a loose barrier between two hooks. She added a paper sign with the time of the next inspection, written big enough for the younger campers to read from the doorway.
+
+By the time the final towels were collected, the room had quieted. Clarisse checked the floor for forgotten shoes. Silena found one blue sock under a bench, wrung it out, and pinned it where somebody would recognize it on Saturday. The evening had held seventeen people and ended with all seventeen out, dressed, and headed toward their cabins. That was worth recording on the slate without turning it into a ceremony.
 
 ---
-

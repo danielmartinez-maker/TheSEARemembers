@@ -58,6 +58,139 @@ Thalia gave a skeptical huff, but Annabeth's humor stayed with her while they pa
 
 ---
 
+An hour before sunrise, Thalia found Beryl's last letter beneath a stack of Annabeth's drawings.
+
+She hadn't lost it. She'd put it there on purpose, because the handwriting made her both grateful and angry. Their mother had written about Jason's latest schoolwork, a kitchen window that needed replacing, and a passing remark Zeus had made about seeing the girls soon. No date. No plan. No acknowledgement that *soon* could mean tomorrow or next winter.
+
+Thalia had read that sentence five times. Now she unfolded the page again, sitting at the table in Cabin One while Annabeth packed a waterproof case.
+
+"You look like you're about to cross-examine the stationery," Annabeth said.
+
+"Letter from Mom."
+
+"I know. You read it after dinner."
+
+"I missed something."
+
+"Did you?"
+
+Thalia put the page down. "Our father told her he might visit. He didn't tell us directly until yesterday."
+
+"He doesn't usually."
+
+"That doesn't make it good."
+
+Annabeth threaded a cord through the case's fastening, tested it, and sat opposite her sister. At fourteen she could be infuriatingly composed about some things and painfully hopeful about others. Thalia remembered her at seven, with scraped knees and a habit of taking apart anything that looked too complicated for a child to understand. She remembered fixing the damage and telling herself that being the older sister meant catching every mistake before anyone got hurt.
+
+"What are you expecting him to do?" Annabeth asked.
+
+"Appear. Make a grand speech. Tell us he's pleased. Then tell us we're doing something wrong."
+
+"He might not."
+
+"He might do all four before breakfast."
+
+Annabeth gave a reluctant smile. "That's possible."
+
+Thalia folded the letter in half. "I don't like him using the visit to Percy as a reason to turn up near us without asking."
+
+"He said he'd respect our plans."
+
+"Yes."
+
+"Do you believe him?"
+
+Thalia could have said no. It would have been easy and partly true. She didn't trust Zeus to remain consistent merely because he had been briefly considerate during a message. But Annabeth had asked for an honest answer, not the one Thalia normally used to make a conversation end.
+
+"I believe he intended it when he said it. I don't know whether he'll still intend it when he's standing in front of us."
+
+Annabeth looked at the waterproof case. "Then we'll decide based on what he actually does."
+
+"You're very calm."
+
+"I'm not calm. I know you can't make him predictable by worrying harder."
+
+That was irritating. It was also something Thalia had spent years trying to teach herself.
+
+She folded their mother's letter again and put it inside the drawer where they kept family correspondence. It didn't belong in the packet for the sea visit. Annabeth didn't need to carry every unfinished family conversation into an underwater palace.
+
+"What are you taking?" Thalia asked.
+
+"A notebook, two pencils, a sealed compass, the route card from the last visit, and a second case for anything the archivist lets me copy."
+
+"One notebook?"
+
+"I have another in my bag."
+
+"Naturally."
+
+Annabeth held up a small metal disk, no bigger than a coin. It was the mysterious birthday gift Zeus had sent, whose silver face sometimes became a bird and sometimes a compass. The Hephaestus cabin hadn't identified the enchantment. She'd kept it on a shelf since the party, apparently waiting for a reason to ask about it.
+
+"Are you bringing that?" Thalia asked.
+
+"Yes. Not to rely on it. I want to ask the observatory technician whether the silver responds to a magnetic field or an enchantment. I won't activate it in the water."
+
+"Good."
+
+"You're not going to take it away?"
+
+"I wasn't planning to."
+
+Annabeth smiled, surprised, and put the disk in a padded pocket.
+
+Thalia felt a little ashamed that her sister was grateful for such an ordinary courtesy. Over the years she had become skilled at anticipating danger. She'd also become skilled at making Annabeth feel watched. It was possible to be good at one without being good at the other.
+
+Outside, the last watch bell sounded near the cabins. Camp was just beginning to wake. Thalia went to the porch with Annabeth and looked toward the hills, where the eastern sky was pale.
+
+A younger camper from Apollo cabin came by carrying a lantern. She stopped when she saw the waterproof cases.
+
+"Are you going on an expedition?"
+
+"A visit," Annabeth said.
+
+"Underwater?"
+
+"Yes."
+
+"Are you scared?"
+
+"Some," Annabeth admitted.
+
+The girl looked startled. "But you're a daughter of Zeus."
+
+"Being a daughter of Zeus doesn't make me unable to be scared."
+
+Thalia watched the girl absorb the idea. She'd grown up at camp with older children who boasted about powers they barely understood. It was easy for a younger camper to think godly parentage meant you never had to stop and check a risk.
+
+"How do you go underwater safely?" the girl asked.
+
+"With an escort and a working charm," Annabeth answered. "And we stop if anything changes."
+
+"Could you just use lightning to make a bubble?"
+
+"No," Thalia said immediately. "Lightning and seawater are a very bad combination. We won't experiment with that."
+
+The girl looked disappointed. Thalia didn't soften the answer. Some facts were too important to turn into encouragement.
+
+They helped her carry the lantern to the Big House, then continued toward the saltwater shore by the upper path. Percy was already waiting with his sisters and Triton, talking about which route the escorts had cleared. Clarisse glanced at Thalia's face and seemed to notice she hadn't slept enough.
+
+"You ready?" Clarisse asked.
+
+"More or less."
+
+"That's an honest answer."
+
+"Don't sound surprised."
+
+Clarisse gave a short laugh. She was not an easy friend, and Thalia liked that she rarely pretended to be one. The two of them had disagreed at the camp docks and the training arena often enough that politeness wasn't the point. Clarisse trusted a person who spoke plainly about what they would and wouldn't do.
+
+Annabeth took Thalia's hand briefly, then went to compare notes with Percy about the return route. Thalia stayed by the shore, looking at the saltwater where the first of the palace escorts had appeared. She could feel a small charge building beneath her skin, a sign of nerves rather than any deliberate use of power. She made herself relax her fingers and let it fade.
+
+A visit was a visit. A father might still become a problem. None of that required Thalia to begin the morning prepared for a fight before anyone had said hello.
+
+
+---
+
 Just after sunrise Zeus met them at the shore wearing another unfamiliar face, broad-shouldered, gray threading his hair, gold catching in his eyes. Rain on hot stone flavored the air, ozone sharp beneath pine, and the sand still held the night's cool under their shoes. Wet pebbles glinted like scattered coins where the last wave had withdrawn.
 
 "You have the charms?" he asked.
@@ -352,6 +485,136 @@ The closest Clarisse came to welcome. Thalia accepted it as such.
 
 ---
 
+The training session left Thalia with an uncomfortable question about Clarisse.
+
+They were alone in a small alcove beside the court. The space held a water jar, racks of inspected practice weapons, and a board where the instructor wrote notes about each session. Clarisse was looking at the position of her hands on the spear, turning a borrowed shaft until it rested the way she'd learned.
+
+"Your wrist?" Thalia asked.
+
+"Better."
+
+"That wasn't what I asked."
+
+Clarisse glanced up. "It's sore. I told the instructor, and I stopped when it started pulling. Do you want a written statement?"
+
+"No. I just saw you shifting your weight on every second pass."
+
+"Because the water wasn't moving the same way on both sides."
+
+Thalia considered that. She'd expected Clarisse to deny the discomfort; she'd prepared a lecture about training injuries and overconfidence. Instead Clarisse had answered the question directly and deprived her of any reason to lecture.
+
+"Fair," Thalia said.
+
+"Unprecedented. A Grace girl conceding a point."
+
+"Don't make me regret it."
+
+They sat on the bench. Outside the alcove, a pair of guards carried used staffs to the inspection rack. Neither looked surprised to see two visitors comparing a practice form. The palace had treated the session as training rather than a show, and Thalia appreciated that.
+
+"Would you ever live here?" she asked.
+
+Clarisse's expression closed a little. "No. I have a cabin at camp."
+
+"You might enjoy the training."
+
+"I do enjoy it. That's different."
+
+Thalia nodded. She knew how tempting it could be to accept an invitation because declining seemed ungrateful. Zeus had made plenty of offers that arrived with invisible terms.
+
+"Is it hard to see Percy have a different relationship with your father?" she asked.
+
+Clarisse turned the shaft in her hands, then put it down.
+
+"Yes," she said.
+
+Thalia waited.
+
+"Percy's got Amphitrite and Triton talking about what he did when he was small. He doesn't even remember it. I can be glad they love him and still wonder why Father couldn't find the same time for Silena and me."
+
+"Have you told Percy?"
+
+"He knows some of it. I don't want him acting like an apology machine every time I look at him."
+
+"He might anyway."
+
+"He does. That's his talent."
+
+Thalia thought about Jason at Camp Jupiter, Annabeth at camp, and Zeus's habit of appearing under a different face whenever he felt like being noticed. None of their childhoods had been evenly distributed. Thalia had spent most of hers trying to keep Annabeth safe, then felt guilty on the rare days when she wished somebody else would take a turn.
+
+"Sometimes I resent being the responsible one," she said.
+
+Clarisse looked at her. "That's not the same as resenting your sister."
+
+"I know. Annabeth doesn't always believe me."
+
+"Have you said it that clearly?"
+
+"Not really."
+
+"Then start there."
+
+Thalia leaned back against the bench. Clarisse could be irritatingly sensible when she wasn't trying to win something.
+
+"I don't regret raising Annabeth," she said. "I did miss things. I was tired. And I loved her. I still do."
+
+"Sounds like three true sentences."
+
+"Silena would be proud."
+
+"She'd insist we sit down over tea and discuss our feelings."
+
+"We are sitting down."
+
+"Fortunately without tea."
+
+Thalia laughed. Then she looked at Clarisse's borrowed spear and the note the instructor had written.
+
+"What's that movement you were trying?"
+
+"A turn designed for a current pushing against your front foot. It doesn't make sense in dry sand without changing the timing."
+
+"Show me, slowly."
+
+Clarisse demonstrated without a weapon first. She shifted her weight, turned her hips, and let her rear foot follow the water's pull rather than fight it. Thalia copied the movement and felt immediately why it needed adjustment on land.
+
+"If I tried that at the camp arena I'd overrotate," she said.
+
+"Exactly. I want to show Chiron before I teach anybody."
+
+They drew the foot positions on a spare page. The first diagram looked like two spiders fighting. Clarisse laughed so hard Thalia had to start again. On the second version they marked the direction of current and wrote *not yet approved for dry-ground use* at the top.
+
+The instructor came by to collect the borrowed gear. She checked the sketch and corrected their arrow for the water's direction.
+
+"Your idea is sound," she said. "But the recovery step must come sooner if the current strengthens."
+
+Clarisse thanked her. Thalia watched the exchange without imagining it was a test of pride. The two of them were learning from someone who knew this particular environment better than either did.
+
+When the instructor left, Clarisse folded the paper into her bag.
+
+"You're going to talk to Annabeth?" she asked.
+
+"Yes."
+
+"Not a speech."
+
+"No."
+
+"Just the true part."
+
+Thalia nodded. She wasn't sure she could say everything without making Annabeth feel responsible for all the years she had needed looking after. She could begin with the part she had figured out here, sitting beside a girl who understood that love and anger could occupy the same hour.
+
+"I'll try," she said.
+
+"Good. Now don't get yourself electrocuted in the observatory."
+
+"No actual lightning."
+
+"That would make an excellent rule for the day."
+
+They left the alcove together. Clarisse went to return a practice shield; Thalia took the gallery stairs toward the painted sky. The training note was a small result from a morning of work. The conversation might prove harder to use, but it had given Thalia a better way to begin.
+
+---
+
 Triton found Thalia by the gallery stairs, wax-sealed papers stacked in his hands, sleeves rolled to the elbow showing ropey forearms.
 
 "You have a council meeting?" Thalia asked.
@@ -446,6 +709,179 @@ He opened the door. Beyond, the dome glowed pale and sunlit, a bowl of light bui
 
 ---
 
+Thalia did not immediately enter the observatory. Beyond the threshold, Annabeth was kneeling beside a brass floor plate, studying the dome's false horizon as though she could take it apart by looking hard enough. Her pencil moved across the paper. Above her, the imitation sky brightened in response to a hidden mechanism.
+
+A technician stood beside the door, adjusting three copper rods on an open rack.
+
+"What are those?" Thalia asked.
+
+"Grounding conductors," he said. "The dome carries light, not weather. We use them to discharge stray energy from the projection machinery into the stone below. The current beyond the wall carries no charge."
+
+She examined the rods. "What happens if lightning enters the room?"
+
+The technician stopped working. "Real lightning?"
+
+"Yes."
+
+"We isolate the dome and evacuate. This room isn't designed to hold a sky storm."
+
+Thalia was relieved. Some palaces treated every problem as an opportunity to impress visitors. Here, somebody had been willing to say there were things the architecture couldn't handle.
+
+"Good. My sister is learning how to carry a charge. I don't want anyone mistaking a lesson for a demonstration."
+
+Annabeth looked up. "I'm not demonstrating anything."
+
+"I know. I'm making sure the adults know too."
+
+She saw Annabeth's expression tighten. Thalia had made it sound like her sister needed supervision, and Annabeth was unlikely to forgive that merely because the intent was good.
+
+"I'm sorry," Thalia said. "I should have asked whether you wanted me to explain."
+
+"I want you to tell people the limits," Annabeth replied. "Not tell them I'm irresponsible."
+
+"Then we'll tell them together."
+
+The technician showed them the switch that isolated the projection machinery. Annabeth asked him to explain the path electricity would take in the event of a fault. His answer was methodical. The copper rods carried a controlled discharge to a protected chamber, but the sea surrounding the observatory made any uncontrolled electrical experiment dangerous. A spark released into the open water could reach people far beyond the room.
+
+"I thought the whole structure was magic," Annabeth said.
+
+"Much of it is," he answered. "Magic still has to go somewhere when it fails."
+
+She wrote that down and drew the conductors. Thalia liked the sentence too, though she would never have admitted it in front of Annabeth.
+
+A chime sounded from the corridor. The technician paused. A household attendant had arrived with a folded note bearing Zeus's seal.
+
+Thalia saw it and felt the small, familiar tightening in her stomach.
+
+"His Majesty requests that both daughters attend him at the upper chamber before the evening meal," the attendant said.
+
+"When did he decide that?" Thalia asked.
+
+"This morning."
+
+"He didn't mention it to us."
+
+"I was instructed to deliver the message here."
+
+Annabeth stood. "We have plans."
+
+"The king expects you."
+
+Thalia could hear the warning in those words. Their father often arrived in a new shape and demanded that everyone behave as if his presence were both a gift and a command. He could be warm for an hour and furious when someone set a boundary. A message to his daughters was never merely a message.
+
+"Tell him we received it," Thalia said. "We haven't agreed."
+
+The attendant looked alarmed. "My lady, he may be displeased."
+
+"He may," Thalia said. "We're not going to rearrange our day before we talk about it."
+
+Annabeth came to stand beside her. "I want to finish this visit. If he asks again, tell him to give us a time and a reason, not an order through a stranger."
+
+The attendant hesitated, then bowed and withdrew. Thalia knew the answer might bring trouble later. She also knew agreeing quickly didn't always prevent trouble. Sometimes it just let their father's mood decide the rest of the day.
+
+"Do you want to see him?" she asked Annabeth.
+
+"I don't know. I want to know why he wants us."
+
+"Then let's find out without walking into his room first."
+
+They sent a short written reply through the steward. It said the sisters were with their hosts and requested an explanation of the meeting. Thalia signed it first, then gave the pencil to Annabeth to sign for herself.
+
+In the minutes that followed, they returned to the observatory. Annabeth demonstrated how the false sky changed with a simple dial, nothing electrical, while Thalia watched her work. The technician showed them how the room could be made dark without frightening guests who needed a clear exit. He said the sea outside would remain the sea regardless of what the dome projected overhead.
+
+Thalia liked that. It meant an imitation sky didn't have to pretend to be the real one to be worth looking at.
+
+The reply from Zeus arrived late. There was no explanation. The note merely said *another time*. Thalia folded it and put it in her pocket. Annabeth looked at it, disappointed and not particularly surprised.
+
+"He'll be angry tomorrow," Annabeth said.
+
+"Maybe. Maybe he'll forget he asked."
+
+"Neither makes me feel better."
+
+"I know."
+
+Thalia put her arm around her sister's shoulders, waiting until Annabeth leaned into it. She didn't promise their father would change. She promised only that they would decide together whether to answer the next summons.
+
+When they finally left the observatory, Annabeth carried two pages of measurements and one question for the technician to answer by letter. The dome stayed lit behind them, its false clouds moving across the ceiling. Thalia had spent enough of her life watching the real sky for warning signs. For a few minutes she'd been able to appreciate one that could be turned off when it wasn't safe.
+
+
+---
+
+The technician met them at the inner door with a folded sheet of calculations and a problem he had not wanted to raise in front of the visitors.
+
+"The lower contacts held for the demonstration," he told Thalia, "but the west ground went warm. I should shut down the dome until we check it."
+
+Thalia stopped. Beyond the door Annabeth was still sketching the ceiling, delighted by the false horizon. "Did the power come through her?"
+
+"We cannot tell. She was conducting a small current when the contact warmed."
+
+"Then we shut it down," Thalia said.
+
+The technician shifted the sheet between his hands. "The queen was expecting to show the dome to the afternoon guests."
+
+"Tell her what's happened."
+
+"She may ask whether the display can continue with half the lights."
+
+"And you'll tell her the ground went warm. That's the answer."
+
+Thalia could hear herself using the voice she reserved for commanding an arena. The technician was not a recruit. He knew the mechanism better than she did, and he had already decided what he thought was safe. She softened her tone.
+
+"Sorry. You were the one who spotted it. What do you need us to do?"
+
+"Please ask your sister to leave the central plate clear while I isolate the contacts."
+
+Thalia crossed the observatory and found Annabeth kneeling beside the brass panel. Her pencil had worn down almost to the wood.
+
+"They need to check the grounding," Thalia told her. "We have to stop."
+
+Annabeth looked up, disappointed. "Because of me?"
+
+"We don't know. The technician noticed a warm contact. He's going to find out."
+
+Annabeth closed the sketchbook but didn't rise. "If I did something wrong, I want him to tell me what it was."
+
+"He will, if he can work it out."
+
+"Then don't send me away."
+
+Thalia almost told her to get behind the door and leave the professionals alone. Instead she looked toward the technician.
+
+"Can she watch from the viewing alcove?"
+
+He considered. "From behind the glass, yes. No active current until the inspection is complete."
+
+Annabeth stood and brushed chalk from her knee. She followed Thalia to the alcove, watching the lights dim in sequence. Without the artificial sky, the dome became a plain structure of stone and brass. It looked smaller and more honest.
+
+The technician used a testing rod to isolate the western plate. Heat had accumulated where a layer of salt had gathered between two contacts. The charge from Annabeth's demonstration might have aggravated it, but the fault existed before she arrived. He pointed to the residue and showed them how the current had taken a path the designers hadn't intended.
+
+"Was that dangerous?" Annabeth asked through the speaking grille.
+
+"It could have been, if we'd left it running at full power. It wasn't an emergency when I found it."
+
+"So the demonstration should have stopped sooner?"
+
+The technician didn't pretend the question was rude. "I should have checked the ground before asking you to conduct a current near it. That was my error. Your charge was within the limit we agreed."
+
+Thalia felt the delayed unease of what might have happened. She had enjoyed watching Annabeth succeed so much that she hadn't asked what would happen if the machinery itself was unreliable. At camp she'd insisted on safety distances and dry ground for weeks. An elegant palace had made her less suspicious than she should have been.
+
+"We'll put this in the visit report," she said.
+
+Annabeth looked at her. "Both of us?"
+
+"All of us. You can record what you did. He can record what failed."
+
+"And you?"
+
+Thalia exhaled. "I can record that I assumed the equipment was sound because a prince invited us to see it."
+
+Annabeth gave her an approving look. "That's unusually fair."
+
+"Don't get used to it."
+
+The technician shut the western circuit and posted a closure note at the inner door. The queen's other guests could see the architecture but not the artificial sky until the fault was repaired. Nobody was pleased with the inconvenience. The technician looked relieved anyway.
+
 Outside the observatory Poseidon waited beside a shallow fountain, water chuckling over shells. Down the corridor Percy and Silena argued over a shell ornament; Clarisse kept changing sides, enjoying herself.
 
 The sight slowed Thalia. She'd braced for court, but the family scattered in little knots, sandals slapping wet floor. Percy waved her over. She lifted a hand but held her ground. Poseidon turned, robe stirring.
@@ -535,6 +971,142 @@ His mouth lifted at the corner. Thalia found she could return a small smile with
 "I will."
 
 At the corridor's end Silena had won the argument. Percy started toward Thalia, but she signaled she was fine. He slowed and turned back, reading space as answer. She appreciated it more than she could say.
+
+---
+
+Annabeth found Thalia beside the observatory's service door, studying a notice about the repaired ground conductor.
+
+"Did you see the technician's measurements?" Annabeth asked.
+
+"Some. I understood the part that said not to use the room for real lightning."
+
+"There's more to it. The machinery can show us a sky without carrying the weather. I think there's a useful lesson there."
+
+"That you should invent a ceiling that pretends to be a thunderstorm?"
+
+"That we can practice identifying what a charge is doing without actually releasing one."
+
+Thalia looked at her. Annabeth was holding a stack of notes against her chest. Her expression was serious, but there was a sparkle of excitement beneath it.
+
+"Explain," Thalia said.
+
+Annabeth spread one sheet on a stone bench. She'd drawn the observatory dome and its internal lights, marking the artificial lightning effects with dotted lines. A technician had shown her how changes to the projection could illustrate direction, timing and the apparent movement of a charge, without sending electricity through the water.
+
+"It's like an anatomy drawing," she said. "You can learn which part does what before trying it with a real body. We could study how a discharge should be directed on paper, then practice in a dry, supervised area at camp."
+
+"You want a model."
+
+"Yes. Not a shortcut. A way to make fewer mistakes before we take a risk."
+
+Thalia traced one dotted line. "Would Chiron approve?"
+
+"He might, if we bring him the diagram and explain what it can and can't show."
+
+"What can't it show?"
+
+"How my hands feel when I'm tired. How the air changes. How long a charge takes to build when I'm frightened."
+
+"Good," Thalia said.
+
+Annabeth glanced up. "Good that it can't?"
+
+"Good that you know the limits."
+
+They worked through the drawing together. Thalia pointed out that a diagram could show a perfect route for a charge and still fail to represent a person moving unexpectedly into the wrong place. Annabeth added a figure at the edge of the practice area and marked a boundary that would require the exercise to stop.
+
+"You're designing a whole drill," Thalia observed.
+
+"Not today. I want to bring the concept back to camp, get approval, and test the diagrams before we attempt the actual thing."
+
+Thalia nodded. She could recognize herself in the careful planning. She could also recognize how much of the work Annabeth was capable of doing without being guided through every question.
+
+They put the sheets in Annabeth's waterproof case. Thalia started toward the main corridor, then stopped.
+
+"I spoke to Clarisse," she said.
+
+Annabeth looked at her. "About what?"
+
+"About being the older sister."
+
+"That sounds ominous."
+
+"Not exactly. I told her I sometimes resent how much I've had to be responsible for. And I realized I've never said that to you without making it sound like I'm angry at you."
+
+Annabeth's face changed. She looked down at the case fastenings.
+
+"You have been angry with me."
+
+"Sometimes. I am human."
+
+"You make it sound like you always know what you're doing."
+
+"I don't."
+
+The simple admission hung between them. Thalia was used to making herself look certain so Annabeth would feel safe. Now she saw how certainty could make a younger sister believe any failure was hers alone.
+
+"When you were small," Thalia said, "I didn't know how to raise you. I was a kid too, and I was scared all the time. I loved you, but there were days when I wanted somebody else to make dinner and decide what to do when you were sick."
+
+Annabeth was silent.
+
+"I don't regret staying with you," Thalia continued. "I do regret pretending I never got tired. Maybe that taught you to hide when you were tired too."
+
+Annabeth sat on the bench. "I thought you wished you didn't have to look after me."
+
+"I sometimes wished I had help. That's different."
+
+"Why didn't you ask?"
+
+"Who was I going to ask? Our father showed up when he felt like it. Mom had things she could do and things she couldn't. Jason was far away. I learned to act like I had it under control because sometimes nobody else did."
+
+Annabeth rubbed the edge of her case. "I wanted to be less trouble."
+
+"You weren't trouble."
+
+"I broke things. I asked questions. I got frightened and pretended I wasn't."
+
+"So did I."
+
+A faint sound of water came through the door behind them. Thalia watched a drop slide down the stone seam, catch the light and disappear into a channel.
+
+"I missed some things," she said. "That is true. It doesn't mean I'd give you back to get them."
+
+Annabeth laughed once, wet-eyed and unexpected. "That's a terrible way to describe a sibling."
+
+"I wasn't expecting you to come with a return policy."
+
+"Good. The receipt is fourteen years old."
+
+Thalia sat beside her and waited. Annabeth put the case down between them, then leaned against her shoulder. Thalia held still, resisting the impulse to wrap an arm around her so tightly that the conversation would have to stop.
+
+"I want you to have things that aren't about me," Annabeth said.
+
+"I do."
+
+"More than sparring and watching the sky for trouble."
+
+"That may take practice."
+
+"I can help."
+
+"You don't have to."
+
+"I know. I'm offering."
+
+Thalia rested her chin on Annabeth's head for a moment. This was not an agreement that could undo the last decade, and they would almost certainly argue again before dinner. But for once she'd admitted she had been tired without making Annabeth responsible for comforting her.
+
+"Would you want to write Jason with me?" she asked.
+
+Annabeth lifted her head. "About this?"
+
+"Not necessarily. We could tell him we saw a fake sky underwater and that I lost an argument with a technician about whether a copper rod could safely carry a charge."
+
+"You did lose that argument."
+
+"I prefer to think I participated in a vigorous technical debate."
+
+"He'll be delighted."
+
+They folded the drawings and went to find a place where they could borrow paper. Thalia knew the letter wouldn't reach Jason that night. She liked that the next task involved a younger brother whose life continued beyond her immediate reach, and that she could write without trying to pretend she had kept him safe by worrying about him.
 
 ---
 
@@ -640,3 +1212,80 @@ Under the sky the sea had built for itself, Annabeth's hand stayed in hers. Outs
 
 ---
 
+That night, Thalia wrote to Jason at the small desk in the guest wing.
+
+The paper was thicker than the camp stationery and absorbed her ink too slowly. Twice she smudged a word and had to wait for it to dry before turning the page. Outside the window, the palace currents shifted in broad, slow sheets, carrying the glow of lanterns from the corridor.
+
+*Dear Jason,* she wrote. *Annabeth made me visit an observatory at the bottom of the sea. This sounds impossible, but it happened. The sky was painted with light. The engineers made the whole thing without allowing the water outside to carry an electric charge, which was wise of them.*
+
+She stopped. He would want more details, especially about how the projection worked. Jason had always liked mechanisms that seemed to do something impossible and then turned out to depend on a clever arrangement of ordinary parts. She drew a rough sketch of the dome in the margin and labeled it *not to scale* before Annabeth could appear and criticize the proportions.
+
+She wrote about Clarisse too, though not the parts Clarisse had asked her to keep private. She described the training court's changing current, the instructors who corrected their form, and the way they had both found it harder than expected to keep their footing.
+
+*You'll be pleased to know that I lost three points in a row and didn't threaten the referee. Growth.*
+
+The sentence made her smile. It was easy to tell Jason a story with a joke at the end. Harder to tell him the truth about why she wished he'd been there.
+
+*I miss you,* she wrote beneath it. *I know you're doing your own work at Camp Jupiter. I don't want you to think I expect you to come whenever I want company. I just would have liked to show you this place.*
+
+She sat for a long time before writing the next line.
+
+*I think I am learning to let Annabeth do things without standing behind her ready to fix them. She is better at some of them than I am. I hope I can learn to do the same for you.*
+
+A knock came at the door. Annabeth entered carrying two cups of warm tea. She looked at the open page and waited instead of leaning over Thalia's shoulder.
+
+"Is that for Jason?"
+
+"Yes."
+
+"Did you tell him about the fake sky?"
+
+"I drew a terrible picture."
+
+"Show me."
+
+Thalia handed it over. Annabeth studied the sketch with the gravity of a person inspecting a bridge.
+
+"The angle of the dome is wrong," she said.
+
+"I knew you'd say that."
+
+"But the conductors are in the right place."
+
+"High praise."
+
+She put the letter down without reading the words. Thalia noticed and appreciated it.
+
+"Did you finish your own notes?" she asked.
+
+"Mostly. I left out the places the technician said weren't for the public plan."
+
+"Good."
+
+Annabeth sat on the opposite side of the desk. For a while they drank tea and listened to a faint chime from the evening guard change. Neither asked about Zeus. The note he'd sent remained unanswered by any explanation of why he wanted an audience, and there was nothing productive to be done about it at midnight.
+
+"Do you think he'll be angry we didn't come?" Annabeth asked eventually.
+
+"Possibly."
+
+"Are you afraid?"
+
+"Some."
+
+Annabeth nodded. "Me too."
+
+Thalia didn't try to turn it into a lesson about courage. She put the cup down and asked whether Annabeth wanted the connecting door left open while they slept.
+
+"Yes," Annabeth said.
+
+"Then I'll leave it open."
+
+They went to their rooms. Thalia folded Jason's letter, sealed it, and wrote his camp address carefully on the outside. She left it by the guest-wing dispatch board for the morning steward, with a note asking which relay would carry it safely to Camp Jupiter.
+
+Before turning out the light, she checked the drawer where she'd put the route card. The map still showed the approved path to the coast, with the staffed stops clearly marked. She knew where Annabeth was. She knew where she herself would sleep. For one night, she could accept those facts without needing to solve the rest of the world.
+
+When she lay down, the ceiling's faint blue glow reminded her of the observatory. The sky in that room could be switched off, repaired and studied. The real sky could not. Her father could still become a problem. Jason was still far away. Annabeth would keep growing up, with or without Thalia's permission.
+
+None of that required her to stay awake preparing an answer to a question nobody had asked. She closed her eyes while the water moved beyond the window and let the night pass.
+
+---

@@ -1,16 +1,16 @@
 ## Chapter 57: Ares
 
-The sea remembered them before they remembered it.
+The sea reached Percy before the shore came fully into view.
 
 Percy smelled Santa Monica before he saw it, salt and hot asphalt and sunscreen and diesel from the pier, gull cries tearing thin white holes in the late afternoon sky. After the Underworld that smell hit like a hand on his chest. Cold iron and pomegranate and bone dust still clung to his jacket, to his hair, to the back of his throat. He coughed once on the sand and tasted Styx water and copper.
 
-They came up out of the dark the hard way.
+They came up out of the dark the hard way, returned their living-guest wristbands as instructed, and checked the time before moving toward the shore.
 
 The battered elevator had carried them to the surface. Bianca's whistle had guided them past the dead; Annabeth's map had guided them through the service exit and toward the shore. The last stretch had been a bus ride with no seats and a walk in shoes still full of Underworld grit. They reached the tide line and sat down all at once.
 
 Now they lay sprawled in the dry loose sand above the tide line at Santa Monica, four living smudges on a beach that was too bright and too loud and too alive.
 
-Percy rolled onto his back and stared up. The sky was a washed summer blue going gold at the edges. It was June twentieth. The solstice was tomorrow. The sun was already sliding west, fat and low over the Pacific, turning the water to hammered copper. Somewhere behind them the pier clattered with roller skates and music and a man shouting about churros. A child screamed with laughter. A volleyball smacked.
+Percy rolled onto his back and stared up. The sky was a washed summer blue going gold at the edges. According to the date on Martin's last confirmed message, it was June twentieth. The solstice was tomorrow. The sun was already sliding west, fat and low over the Pacific, turning the water to hammered copper. Somewhere behind them the pier clattered with roller skates and music and a man shouting about churros. A child screamed with laughter. A volleyball smacked.
 
 Normal kept happening all around them, oblivious.
 
@@ -42,13 +42,85 @@ Grover scrambled up, reed pipes already in his hands, his legs trembling so hard
 
 "It is him," Grover whispered. "It is really him. Oh, no. Oh, no, no, no. I thought we had until tomorrow night."
 
-"We do have until tomorrow night," Annabeth said. Her voice was hoarse but steady. "He is early because he wants us to see him. He wants witnesses."
+"We may have less time than tomorrow night," Annabeth said. Her voice was hoarse but steady. "He is early because he wants us to see him. He wants witnesses."
 
 Behind Ares the tide was coming in. Percy felt it before he saw the line of white foam lift and slide forward, felt it in his teeth and the backs of his knees, a pull low in his belly like a second heartbeat. The sea was awake. The sea was watching.
 
 The sea remembered.
 
 Percy took a breath that tasted of salt and iron. "Stay together," he said. "Whatever he says, stay together."
+
+The first thing they did on the surface was find a public clock.
+
+It hung over a convenience store near the bus stop, with an advertisement for lottery tickets beneath the numbers. Annabeth stood under it for a full minute, comparing it with the time Martin had written in the last travel message they'd received before descending.
+
+"Still June twentieth," she said.
+
+Grover rubbed both hands over his face. "I like when dates are dates again."
+
+"Do we call Martin?" Percy asked.
+
+"We should. But we need to get to the beach before dark, and we can't tell everyone in a public shop that we've just come from the Underworld."
+
+Thalia was scanning the street. Her head injury had been evaluated in St. Louis, but the fight in Hades's court had left her exhausted. She looked older than sixteen for a moment, then turned toward a painted sign advertising the pier.
+
+"There's a contact near the beach," she said. "Martin said he'd wait within reach of that depot. We can leave a short message now and catch him when we're done."
+
+"Done with what?" Grover asked.
+
+Thalia looked at him. "With finding out whether the war god actually has the bolt."
+
+Percy wasn't sure how comfortable he was with the idea that the next part of the quest involved walking toward somebody they suspected could kill them at will. He had managed to stand before Hades without getting everyone killed. That was not proof he could fight Ares.
+
+Annabeth took out the route notes. "We need to decide what counts as evidence," she said. "Hades thinks Ares was involved. Nico dreamed of a red god, but that was a dream. Bianca recognized cloth used in the war god's stores. None of those things proves he has the bolt."
+
+"So we look first," Grover said.
+
+"Yes," she answered.
+
+They walked to the beach with their weapons concealed. Percy watched tourists pass carrying beach towels and ice cream. Some looked exhausted, some happy, some angry about traffic or parking. None knew there was a weapon missing powerful enough to start a war among the gods.
+
+At a public phone Martin's voice came through after two rings.
+
+"You're alive," he said, and Percy could hear how much the simple fact mattered.
+
+"We are. We have information, but not the bolt yet."
+
+"Where are you?"
+
+"Near Santa Monica. We might need a ride later."
+
+"Then tell me where to meet you when you've made your plan. I can't take the van onto the sand and I won't stay parked in a loading zone for an hour."
+
+Percy smiled. It sounded exactly like Martin.
+
+He passed the phone to Annabeth. She gave the approximate location, promised a second call when they had a safe place to meet, and asked him to contact Chiron if he heard nothing by the agreed hour. She didn't tell Martin they intended to challenge a god to combat. Percy suspected he would have replied that they needed an adult and a better plan, and for once Percy wouldn't have been able to argue.
+
+When they hung up, Grover pointed toward a stretch of beach below the pier.
+
+"Something's wrong down there."
+
+Percy followed his gaze. People were walking the sand, but a section near the waves had emptied without any visible barrier. A motorcycle stood near the waterline as if ordinary physics had agreed to overlook it. A tall man watched the path from the pier.
+
+"We can leave," Thalia said quietly.
+
+They all looked at her. She was usually the one who stepped toward a threat first.
+
+"We can leave and tell Olympus where he is. We don't have to make this a duel just because we're here."
+
+Annabeth considered the empty beach. "And if the bolt stays with him until the solstice?"
+
+"Then Zeus sees an accusation without the weapon," Percy said.
+
+Thalia nodded. "That's the problem."
+
+They stood a little longer before moving. Nobody pretended they had found a safe option. Percy could feel the sea drawing close behind the dunes. He was grateful for the water, but he understood it wouldn't guarantee victory over the god of war.
+
+At the edge of the open sand, Annabeth held out her hand.
+
+"If we have to speak to him," she said, "we do it with questions first. If a fight begins, we don't treat it like one person can win by being the bravest."
+
+Percy took her hand. He'd promised that before, more than once. This time he meant to act as though it mattered.
 
 They walked down toward the waterline together, four abreast, sand giving under their sneakers and hooves, sun in their eyes. With every step the sounds of the pier grew thinner, as if someone were turning down the volume on the mortal world. By the time they were twenty feet from Ares, the laughter and music were gone. There were no mortals near this stretch. There was only gull wind and surf and the low thrum coming off the bolt.
 
@@ -110,7 +182,7 @@ Annabeth gave him the smallest nod. Her gray eyes were clear and furious and ter
 
 Percy uncapped Riptide.
 
-The bronze sword bloomed in his hand with a familiar shing, three feet of sea green light. It felt heavier than usual, or maybe his arm was just tired from holding up Styx water against hellfire for what had felt like hours. His whole body ached. Blisters from the Underworld heat throbbed on his palms. But the moment the blade was out the ocean roared louder in his ears, close and personal, like a parent pressing a hand to his back.
+The bronze sword bloomed in his hand with a familiar shing, three feet of sea green light. It felt heavier than usual, or maybe his arm was still aching from the Underworld and the near-scalding he'd narrowly avoided at Hades's court. His whole body ached. Blisters from the Underworld heat throbbed on his palms. But the moment the blade was out the ocean roared louder in his ears, close and personal, like a parent pressing a hand to his back.
 
 Okay, he thought at it. Okay. I am here. Help me not die stupidly.
 
@@ -162,7 +234,7 @@ He raised his sword two handed for a killing chop.
 
 Percy did the only thing he could. He stopped trying to be a swordsman and was a son of the sea instead.
 
-He thought of Atlantis, the throne room his father had shown him in dreams, vast and blue and ringing. He thought of Silena tying blue and green cord around his wrist at the campfire and saying, so the sea will know you are mine, meaning ours, meaning family. He thought of Clarisse checking his pack straps too tight and pretending she was not worried. He thought of Annabeth's hand on his wrist in the dark between worlds, refusing to let go, and Thalia shouting his name until her voice cracked, and Grover playing even though his lips were bleeding.
+He thought of Atlantis as he'd seen it during the months since arriving in the altered world, the palace Triton had showed him, vast and blue and ringing. He thought of Silena tying blue and green cord around his wrist at the campfire and saying, so the sea will know you are mine, meaning ours, meaning family. He thought of Clarisse checking his pack straps too tight and pretending she was not worried. He thought of Annabeth's hand on his wrist in the dark between worlds, refusing to let go, and Thalia shouting his name until her voice cracked, and Grover playing even though his lips were bleeding.
 
 The tide answered.
 
@@ -182,69 +254,95 @@ Out of the corner of his eye he saw Annabeth grab Thalia's hand.
 
 Sisters. Daughters of Zeus.
 
-Annabeth had been thinking through the whole duel, even while screaming Percy's name, because that was what she did. She could not outfight Ares. Thalia could not outfight Ares alone. Percy could not outlast him alone. But Zeus's power was sky power, storm power, and it liked being called by its own blood. One spark alone in this salt wet air would scatter. Two sparks braided might hold.
+Annabeth had been following the entire exchange. She knew Percy could not defeat the god of war by trying to hit harder. Thalia couldn't defeat him by charging, and Grover's reeds would not hold him for long. They needed to make Ares decide that continuing the fight was worse for him than handing over the bolt.
 
-"Thalia," Annabeth gasped, fingers interlacing tight. "Together. Like at the hill. On three."
+Thalia looked at the canvas case on the god's back.
 
-Thalia stared at her, understanding flashing across her face in an instant. Fear and fierce pride. "You sure? It nearly knocked you out last time."
+"He hasn't taken it out," she said.
 
-"I am sure. He needs us."
+"Because he wants to keep it for the threat," Annabeth replied. "If he opens it in front of us and the beach sees, Zeus will know whose hands it was in."
 
-Thalia grinned, wild and electric. Static lifted the fine hairs on both their arms. The air smelled suddenly of ozone, sharp over salt. "Then let us fry this bastard."
+Ares turned as Percy drew him toward the shallows. The case was strapped across his shoulders, buckles nearly touching his neck. Every time he swung his sword, it shifted against his back.
 
-They raised their joined hands.
+"Grover," Annabeth said. "Can you hold his left foot for one step?"
 
-Grover saw what they were doing and changed his tune without missing a breath, shifting from protection to a high clear reveille that lifted and carried, that gave the wind somewhere to go. The beach grass around them stood straight up, crackling. Sand grains levitated.
+"One step," Grover answered. "Not a whole fight."
 
-Above the beach, though the sky had been clear sunset gold a minute before, clouds boiled up out of nowhere, dark bellied and green edged, spinning fast. Wind ripped at Percy's jacket. The surf frothed white.
+"That's enough."
 
-Ares felt it. He glanced up, then at the girls, and his gold veined eyes widened. "No. Oh, no, you do not."
+She turned toward her sister. "No lightning into wet ground. Not after the Fury. We need you on the dry sand, distracting him long enough for Percy to reach the case."
 
-He threw Percy aside like a sandbag. Percy hit the water hard, Riptide flying from his hand to stick upright in wet sand three feet away. Pain lanced through his ribs. He tried to get up and could not get air.
+Thalia had never looked more irritated with the idea of playing a supporting role. Then she saw Annabeth's bandaged hand and the exhaustion on Percy's face.
 
-Ares charged the sisters, sword raised, motorcycle forgotten, helm forgotten, bolt screaming on his back.
+"Fine," she said. "I can shout. I'm very good at that."
 
-Grover stepped in front of them.
+Grover changed his tune. Beach grass stirred in the salt wind, gathering in a shallow net along the dry edge of the surf. He wasn't making a wall strong enough to stop a god, and he didn't try. The roots waited where Ares would place his next foot if Percy could tempt him toward the line.
 
-Small, trembling, reed pipes still at his lips with one hand while the other hand was thrust out, palm forward, Grover Underwood, satyr of the Wild, stood between the god of war and his friends and played a single piercing note that was not music at all but a command.
+Thalia called his name.
 
-Root and hold.
+Ares looked toward her. It was not much of an opening, but the god of war hated having attention drawn away from a fight he believed he was winning.
 
-The beach grass exploded upward into a tangled wall, green and salt tough, grabbing at Ares's boots. Sand hardened to stone under his feet mid stride. For one crucial second the god stumbled, snarling, hacking at vines that regrew as fast as he cut them. Golden ichor spattered where thorns bit.
+"You haven't finished with my sister," Thalia said. "You're still waiting for us to beg you for help, aren't you?"
 
-That second was enough.
+"Little storm cloud," Ares growled, turning half toward her. "I could put you down with one hand."
 
-"NOW!" Annabeth and Thalia shouted together.
+"Then why are you carrying Zeus's bolt around like a stolen trophy? Too scared to show him you've got it?"
 
-Lightning came down.
+Annabeth saw the anger land. The god started toward the dry sand, boots digging into the wet surface. Percy followed, sword low, pretending he was barely able to stand. That part required almost no acting. His ribs hurt, and he could barely feel his fingers.
 
-It was not one bolt but two braided into one, white blue and crackling, striking their joined hands and grounding through them without burning them, because they were Zeus's daughters and the sky knew its own. Percy saw Annabeth's face lit stark white, teeth bared, gray eyes reflecting pure storm, and Thalia beside her laughing with fierce joy even as blood trickled from her nose. Sisters, calling down their father's wrath together and aiming it with love and rage.
+Ares lunged for Thalia.
 
-They threw it.
+Grover's roots caught one ankle. The god tore through them as if they were thread, but the hesitation made his canvas case swing to one side. Percy moved then, not against Ares's chest but toward the strap.
 
-The braided bolt hit Ares square in the chest.
+Riptide found the leather.
 
-The world went white and silent and then unbearably loud. Sand fused to glass in a ten foot circle. The shockwave knocked Grover flat, knocked the girls to their knees, knocked the breath out of the ocean itself. Ares stood for a moment wreathed in fire, skeleton showing black through light, mouth open in a scream no one could hear. The canvas case on his back split open. The Master Bolt, twenty feet of raw skyfire, tore free and spiraled up, humming furious and uncontrolled. The motorcycle toppled, its rear wheel still spinning as sparks hissed into wet sand.
+It wasn't a clean cut. The first stroke glanced off the buckle. Percy nearly lost his sword trying to recover, and the back of Ares's hand struck his shoulder hard enough to send him to one knee. He raised the blade again out of reflex and caught the strap where it had slipped beneath Ares's arm.
 
-Then Ares fell.
+The buckle snapped.
 
-He hit the wet sand hard on his back, sword flying from his hand to land hissing in the surf. Smoke rose off his armor. His duster smoldered. The gold veins in his eyes flickered, dimmed, surged once with that cold pit voice, KILL THEM, FINISH IT, and then guttered out as Ares's own brown rage came back to the surface, dazed and pained.
+The case fell between them and struck the wet sand. Ares spun toward it, suddenly less interested in the small opponent he'd been trying to humiliate. A pulse of blue-white light ran down the canvas, and the fabric split.
 
-Percy crawled to Riptide, dragged himself upright with the sword as a crutch, and limped through steam and glass shards to stand over the god of war. Every breath was knives in his ribs. Blood ran from his nose and his forearm and his split lip. His legs shook so hard he was afraid they would fold.
+The Master Bolt rose from the open case, gathering itself into a long, terrible shape above the surf. The air around it became painfully bright. Percy turned his head away from the full glare. The weapon wasn't theirs. It wasn't Ares's either. It was Zeus's symbol of power, and now nothing hid who had brought it to this beach.
 
-But he put the tip of Riptide to Ares's throat anyway.
+Ares reached up.
 
-The beach was silent except for surf and Grover's ragged breathing and the girls coughing behind him.
+The bolt crackled. He jerked his hand back before touching the bare shaft.
 
-"Yield," Percy rasped.
+"Careful," Annabeth called over the sound. "Your father's weapon might not enjoy being stolen."
 
-Ares stared up at him. For a moment something ancient and amused flickered across his battered face. Then he coughed, golden ichor flecking his lips, and laughed, a wet ugly sound.
+Ares stared at her. Percy could see the war god measuring what it would cost to silence them, all four of them, with the bolt hanging exposed above a public shoreline. A dozen people near the pier had turned toward the unnatural light. The Mist would offer them explanations, but the event itself was no longer safely concealed. Martin knew where the party had gone. Chiron would hear what had happened if the group disappeared now.
 
-"You got lucky, minnow."
+Percy got to his feet. Riptide shook in his hand, and he couldn't have stopped another full strike.
 
-"Yield," Percy said again. Louder. He pressed just enough that ichor welled bright around the bronze tip. Behind him he felt the tide rise to his calves, to his knees, ready to drown this stretch of beach if he asked. "Leave the bolt. Go."
+"That's what we're here for," he said. "The bolt. Not a war with you."
 
-Ares held his gaze. The sunglasses were gone, lost in the blast. Without them he looked younger and older at once, a brawler god with a busted lip and eyes that could not quite focus.
+Ares's face twisted. "You think you can bargain from your knees?"
+
+"Not from my knees." Percy kept his voice level. "From the fact that everyone can see whose case it came out of."
+
+Thalia stepped beside Annabeth on the dry sand. Grover's pipes had gone quiet. They were all visibly exhausted, and Percy was glad none of them attempted to look stronger than they were.
+
+Ares's sword remained lifted.
+
+Percy waited. He could feel how close the god was to killing him simply to prove the point. Then the gold in Ares's eyes flickered again, and the older echo pushed at his words. He looked toward the exposed weapon with a kind of sudden hatred, as though he had realized the plan had made him a messenger more than a king.
+
+"Fine," he said at last. "Take the damned thing."
+
+Percy didn't move immediately. "You won't use it on us?"
+
+"If I wanted you dead, minnow, you would be dead."
+
+Percy believed him.
+
+Ares drew back toward his motorcycle, leaving the bolt hovering over the disturbed sand. The weapon was no easier to touch than it had been before, and retrieving it would be its own problem. But Ares had chosen not to turn the quarrel into a massacre. He hadn't been defeated by superior strength. He had been cornered by the exposed evidence of what he was carrying and his own unwillingness to pay the price of finishing the fight in front of witnesses.
+
+Percy lowered Riptide enough to breathe.
+
+"We're taking the weapon to Olympus," he said.
+
+"Then tell Zeus his children forced a god to stand in public while his stolen bolt came out of my case," Ares sneered. "See whether he thanks you."
+
+Ares held Percy's gaze. Without his sunglasses, he looked younger and older at once, a god who had decided not to finish an ugly fight but wasn't willing to call that mercy.
 
 "You think this ends it?" he growled. The echo was gone, but the anger was still there, raw and human sized now. "You think bringing back his toys will stop Olympus from tearing itself apart? Kronos is awake enough to whisper, kid. Whispers are enough. Your family up there, they want war. They have always wanted war. I am just the excuse."
 
@@ -254,11 +352,11 @@ Behind him, footsteps in wet sand. Annabeth on his left, Thalia on his right, Gr
 
 Together.
 
-Ares looked from face to face, the two storm girls with their hands still joined and smoking faintly at the fingertips, the satyr with wildflowers inexplicably blooming in his horns from spent earth magic, the sea boy who would not fall down.
+Ares looked from face to face, the two storm girls standing apart on the dry sand, one still nursing a healing burn, the satyr with wildflowers inexplicably blooming in his horns from spent earth magic, the sea boy who would not fall down.
 
 Something like respect crossed his face, unwelcome and quickly hidden.
 
-"Fine," he spat. Golden light gathered around him, warping the air. "Take it. Take it back to Olympus and play hero. See how long their thanks lasts."
+Golden light gathered around him, warping the air. "Take it back to Olympus and play hero. See how long their thanks lasts."
 
 His form shimmered, grew translucent at the edges. Before he vanished completely he fixed on Percy with sudden intensity.
 
@@ -267,6 +365,90 @@ His form shimmered, grew translucent at the edges. Before he vanished completely
 Then he was gone. The pressure lifted. Gulls cried again. Far off on the pier someone laughed, and music swelled back into the world as if a mute button had been released.
 
 The sword stayed behind in the surf, hissing as waves washed over it. Hovering three feet above the glass crater, spinning slowly, humming with barely leashed storm, was the Master Bolt.
+
+Nobody moved toward the bolt.
+
+It hung above the disturbed sand in a slow rotation, almost beautiful from a distance. Percy could feel the pressure of it in his teeth, the way he'd felt Zeus arrive at camp. That did not make it any less dangerous. The longer they stood, the more the light seemed to draw the attention of the people near the pier.
+
+"We can't leave it here," Thalia said.
+
+"We can't grab it," Annabeth answered.
+
+Grover backed away another step. "I would prefer not to become ash."
+
+Percy capped Riptide and looked around. The canvas rifle case had split open when it struck the ground. The inner lining was blackened but not entirely destroyed. He thought about picking it up, then remembered how the case had sheltered the weapon while Ares carried it. There might be a reason the war god had used that particular material.
+
+"Can we use the case?" he asked.
+
+Annabeth crouched near the torn fabric. She kept her burned hand away from the glowing weapon and examined the straps.
+
+"The lining's insulated with something," she said. "I don't recognize it. We shouldn't assume the damaged case still protects us."
+
+She checked her bag for the pair of thick gloves Silena had packed. They were ordinary leather, useful against rope burns and rough stone. No one could tell whether they would help against Zeus's master bolt.
+
+"We need instructions," Annabeth said. "A divine weapon isn't a souvenir. We need somebody authorized to handle it."
+
+Thalia looked toward Ares's motorcycle. The war god was gone, but the bike remained near the water. It had begun sinking into the wet sand as the tide moved in. The wheels and engine were still warm, and the seat was close enough to the bolt that the metal seemed to vibrate.
+
+"Can we contact Olympus?" Thalia asked.
+
+"Through the same court that's nearly gone to war over this?" Percy answered. "Maybe. But which god do we trust not to send somebody else to take it?"
+
+Silence.
+
+Grover lifted his pipes. "We can ask Chiron. He'll know which adult to call."
+
+Percy felt embarrassed that none of the three demigods had suggested the simplest option first.
+
+They went back above the surf and found a shallow depression where a remnant of the tide reflected enough light for an Iris message. Percy gave Grover one of the few remaining drachmas, and the satyr made the call while Annabeth kept watch on the hovering bolt.
+
+The connection flickered. At first they saw Chiron's empty desk. Then the centaur appeared, looking tired and impatient.
+
+"Please tell me you are safe," he said.
+
+"We're alive," Grover answered. "And we found the bolt."
+
+Chiron went very still. "Show me."
+
+Annabeth moved the rainbow's viewing angle just enough for him to see the weapon from a distance. The white-blue light caught in the water and turned the colors almost completely silver.
+
+"Do not touch it with bare hands," Chiron said at once.
+
+"We weren't going to," Percy lied.
+
+Chiron gave him a look.
+
+"Don't attempt to channel its power. No water, no lightning, no experiment in whether your father's protection makes you immune to your uncle's weapon. I will contact the Olympian court and arrange for an authorized courier or a sealed vessel suitable for safe transport. Until then, keep bystanders clear and avoid moving it."
+
+"But the solstice is tomorrow," Thalia said.
+
+"I know the date."
+
+"We can't wait three days for a messenger."
+
+"We are not going to improvise the movement of the master bolt in the middle of a public beach. Give me a location, the facts you observed and the condition of your party."
+
+Annabeth supplied the first two with the careful precision Percy had come to rely on. Grover added that Ares had left the bolt behind when the case broke open. Percy admitted that they'd challenged the war god and that he was hurt, though he found himself reluctant to describe how badly his ribs ached.
+
+Chiron looked directly at him.
+
+"Have your injuries assessed before you make another journey. The weapon is a matter for the gods now that it is located. The welfare of four children remains my responsibility."
+
+Percy wanted to point out the gods had put the problem in four children's hands in the first place. He didn't. Chiron sounded as though he knew that better than anyone.
+
+The centaur asked them to move no closer. He would call back through a trusted contact and confirm when a courier was actually on the way.
+
+Grover dismissed the rainbow only after repeating the rendezvous point twice.
+
+"One problem at a time," he said.
+
+Annabeth looked toward the bright bolt, still turning above the beach.
+
+"That's a very large problem."
+
+"Then it can wait five minutes while we make sure nobody bleeds to death," Grover answered.
+
+Percy laughed, winced and sat down. He couldn't remember the last time Grover had sounded that much like the person in charge.
 
 Percy lowered Riptide. His arm gave out. The sword tip dropped into sand.
 
@@ -278,9 +460,9 @@ Percy sat too. He did not decide to. His legs just quit. Cold water rushed aroun
 
 They sat in a ragged circle in the shallows while the sun bled out across the Pacific, too exhausted to cheer, too alive to cry.
 
-"We did it," Grover whispered finally. He laughed, a disbelieving bleat. "We, we actually did it. We beat Ares. We beat a god. Oh, Juniper is never going to believe this. Oh, Pan preserve me, my hooves are ringing."
+"We got the bolt away from him," Grover whispered finally. He laughed, a disbelieving bleat. "He could have killed us. He chose not to finish the fight. Oh, Juniper is never going to believe this. Oh, Pan preserve me, my hooves are ringing."
 
-Thalia lay back flat in the water with a groan, arms spread, spear retracted to a baton tucked against her chest. Salt water soaked her hair. Blood from her nose washed away pink. "My whole body feels like a bruise," she announced to the sky. "I called lightning with my little sister and lived. Dad can never ground me again. Ever."
+Thalia lay back flat in the water with a groan, arms spread, spear retracted to a baton tucked against her chest. Salt water soaked her hair. Blood from her nose washed away pink. "My whole body feels like a bruise," she announced to the sky. "I kept my sister out of the wet sand and lived. Dad can never ground me again. Ever."
 
 Annabeth was staring at Percy. She had sand on her eyelashes. Her joined hand with Thalia was red and blistered at the fingertips, but she did not seem to notice. Her gray eyes were soft and fierce at once.
 
@@ -318,7 +500,7 @@ Thalia whooped so loud a nearby gull startled into flight. She pumped her fist i
 
 Grover lowered his hands from his eyes and beamed, tears cutting clean lines through ash on his face. He lifted his pipes and played a bright, wobbly, triumphant little riff that cracked on the high note and made them all laugh until laughing hurt their ribs.
 
-They sat there while the light went rose and violet, four small figures in a wide ocean's edge, with a god's sword cooling in the foam and the stolen symbol of power waiting to be claimed.
+They sat there while the light went rose and violet, four small figures in a wide ocean's edge, with the cut canvas case lying in the foam and the stolen symbol of power waiting to be claimed.
 
 Percy looked at each of them in turn. Thalia, his girlfriend's sister, fierce and storm bright, who had caught Annabeth and held the line. Grover, brave in the way that mattered, who had stood unarmed in front of war with only music. Annabeth, brilliant and stubborn and gentle all at once, cheek still close enough he could feel her warmth, fingers still laced once more with her sister's across the sand between them.
 
@@ -326,17 +508,279 @@ Family, the sea whispered. Not by blood alone. By choice. By holding on.
 
 Percy reached out with his cut hand and found Annabeth's burned fingertips and Thalia's scraped knuckles and Grover's hoof-worn palm and pulled them all in shoulder to shoulder in the surf. They leaned on each other, too tired to stand, too wired to sleep, listening to the waves come in steady and sure.
 
-The bolt hummed above the glass. The solstice and Olympus and war still loomed.
+The answer from Olympus came through a woman wearing a gray summer dress and an expression that suggested she'd seen the entire history of bureaucratic mistakes and found none of them surprising.
 
-But for this minute, on this beach, with the sea remembering their names and holding them up, they were together. And together was enough to beat a god.
+She arrived from the city side of the beach, walking in ordinary sandals. The people near the pier moved around her without looking directly at her. She carried a cylindrical case no longer than Percy's forearm and a stack of folded papers.
+
+"Representative of the Olympian armory," she told Annabeth. "Chiron asked for an authorized containment specialist. Who first observed the exposed weapon?"
+
+"We did," Annabeth said. "All four of us."
+
+"Who touched it after the case opened?"
+
+"Nobody," Percy answered.
+
+The woman checked the bright shape above the sand. She did not reach for it immediately.
+
+"Good."
+
+She made each of them describe the sequence separately. Percy told her about the strap breaking and the case falling. Annabeth described the damaged lining. Thalia identified where Ares had been standing when he abandoned the weapon. Grover recalled the moment the beach grass had slowed the god's step.
+
+Their accounts weren't identical. Percy had been facing the surf during part of the exchange; Grover had been farther up the beach, and his view was partly blocked by the grass. The woman didn't demand that they agree on what none of them could have seen.
+
+"These accounts will be filed separately," she said. "Do not revise yours because somebody else remembers a different angle."
+
+Percy liked that. He'd spent most of the quest assuming the right story would be the one that explained everything. The woman seemed more concerned with what each person could actually testify to.
+
+She opened her case. It unfolded in sections, becoming a dark metal sheath covered in tiny inscriptions Percy could read only when he didn't look directly at them. The bolt tilted, drawn toward it.
+
+The woman placed the container beneath the weapon and spoke a command in Ancient Greek. The bolt contracted, the way Riptide changed from sword to pen, and slid into the protective sheath. A lid closed over it with a sound like the last note of a bell.
+
+Percy felt the pressure in his teeth disappear. He hadn't realized how tightly he'd been holding his jaw.
+
+"Can you take it to Zeus?" he asked.
+
+"Yes. I am authorized to carry it to the receiving chamber on Olympus. You four may accompany me under Chiron's quest authorization, but none of you is required to carry the weapon personally."
+
+Thalia looked toward the now-empty patch of sand.
+
+"Will Zeus know Ares brought it here?"
+
+"He will receive your statements. The case itself can be examined for traces of the previous container. I cannot promise what conclusion he will draw."
+
+Annabeth's face tightened. Percy knew what she was thinking. Their father could see evidence of his son's involvement and still choose to blame Poseidon if he preferred that explanation. But that was a problem they couldn't settle by making louder accusations on a beach.
+
+"Do we need to leave now?" Grover asked.
+
+"Not until a clinician has checked the injuries Chiron reported," the woman answered. "The solstice is tomorrow. I have already informed the receiving chamber that the weapon is secured and returning. The court can arrange transport to Manhattan after your party is fit to move."
+
+Percy stared at her.
+
+"So we don't have to run all night?"
+
+"No."
+
+"You could have said that before we fought a war god."
+
+"I wasn't here before you fought a war god," she replied.
+
+Thalia laughed so abruptly she had to sit down again.
+
+The woman put her papers away and remained beside the sealed container while Martin arrived from the road. He saw the group and went pale at the blood on Percy's face.
+
+"I was told you were meeting somebody," he said.
+
+"We did," Grover answered.
+
+"Not exactly the sort of meeting I had in mind."
+
+Percy held up one hand. "Before you say anything, nobody stole the van."
+
+Martin looked at him for a very long moment. "That's not what I was worried about."
+
+Percy sat back in the sand. Chiron had found a way for the dangerous weapon to be handled by somebody with the actual authority and skill to do it. That was a better outcome than four injured children carrying it into a taxi and hoping the Mist made the driver ignore the humming.
+
+The sealed container rested under guard beside the retreating tide. The solstice and Olympus and war still loomed.
+
+But for this minute, on this beach, with the sea remembering their names and holding them up, they were together. They had survived a god's fury. Percy knew that was not the same as being stronger than him.
 
 ---
 
-The sun touched the water.
+The beach had not returned to normal all at once.
 
-Percy closed his eyes and let the tide wash over his legs, carrying away blood and ash, leaving salt and strength behind.
+A lifeguard approached from the direction of the pier, followed by a man in a city maintenance vest. They were looking at the churned sand, the broken motorcycle and the scorch marks close to the water. The Mist was already trying to give them a harmless explanation. Percy could tell because the maintenance worker kept calling the motorcycle a damaged beach-cleaning machine even while staring directly at the handlebars.
 
-The sea remembered. And so would he.
+"Is everybody okay?" the lifeguard asked.
+
+Percy started to say yes.
+
+Annabeth cut him off. "We're hurt, but we're getting help. The area near the water isn't safe until the people handling the equipment say it is."
+
+The lifeguard nodded and radioed for another person to keep visitors clear of the churned sand. He didn't ask why a boy in an orange shirt was bleeding from three places. Percy suspected the Mist had given him a version of events that was just plausible enough to fit with an ordinary summer accident.
+
+"Did anyone else get hurt?" Grover asked.
+
+"Not that we know of," the lifeguard answered. "There were people who fell when they heard the noise, and a child who ran into a bench, but everyone's been accounted for. We're checking."
+
+Percy felt a knot in his stomach loosen. He hadn't looked toward the pier once Ares drew his sword. The fact that nobody else appeared to have been seriously injured was luck, not proof that their plan had protected everyone.
+
+The armory representative asked the maintenance worker to stand clear of the sealed container while she finished her inspection. He saw an equipment case, not Zeus's weapon, and kept his distance.
+
+Martin led the group toward the first-aid station. He had a paper with the location of the closest urgent-care clinic and Chiron's contact details written on it. Percy wondered how many times the man had had to rearrange a route because a fight had left somebody injured. The answer was probably more than his original driving agreement had anticipated.
+
+At the clinic, the attending professional checked Percy's ribs and cuts, asked how he'd sustained the blows and recommended further evaluation for any signs of worsening pain or difficulty breathing. Percy could not give an entirely ordinary account of being hit by a god, but he could describe where it hurt and what movements made it worse. He was becoming better at that, if only because Annabeth wouldn't let him pretend every injury was a bruise he could ignore.
+
+Thalia had been evaluated for her earlier head injury after the Arch. The clinician now asked whether she'd developed any new dizziness, headache or other symptoms during the fight. Thalia answered carefully. She couldn't claim the events at the beach had been gentle, and she didn't try. The advice to rest and avoid further impacts remained in force.
+
+Annabeth's recovering hand was checked again. The clinician said the burn still needed care and that she shouldn't expose it to more heat or electricity. Annabeth looked at Percy when she heard that, and he could tell she was thinking about how close they'd come to repeating the mistake from the Fury fight.
+
+Grover's injuries were minor by comparison but no less exhausting. His hooves were badly rubbed, his lips sore from playing the pipes for so long, and he had a scratch near one horn from falling when the roots snapped. He insisted on describing everything in exact detail, partly because the nurse had finally asked about his pain rather than treating him as a helper for the others.
+
+When they left, Martin held the discharge papers. He didn't make a speech about how foolish they'd been. He asked where they would sleep and how the armory representative intended to transport the sealed weapon.
+
+"The court is arranging a transfer tonight," she said. "You may travel in the same group once the children have had food and the necessary rest. The containment vessel remains in my custody."
+
+Percy looked at her. "Can you tell Zeus we're all alive?"
+
+"I can confirm the party's condition at the time of departure. I cannot promise what the king will do with that information."
+
+He nodded. It was becoming easier to recognize a careful answer even when it wasn't comforting.
+
+Martin found a place for them to eat near the clinic. They sat beneath an awning, too tired to talk about the fight in detail. Percy stared at the menu and realized he was hungry in the ordinary, terrible way of somebody who'd missed too many meals.
+
+Silena would be furious if she found out he hadn't eaten since the Underworld.
+
+He ordered something substantial. Annabeth copied him, and Grover asked for a salad before remembering he could also have bread. Thalia drank two glasses of water before looking at her food.
+
+Percy watched the crowd on the sidewalk. The people moving past had no idea what had been hovering over the shore earlier. They were going home or going to work, and he wanted very much for them to be able to keep doing that. He'd spent so long thinking of the master bolt as a prize to carry back that he'd almost forgotten its return was meant to keep ordinary lives from becoming casualties.
+
+When the waiter brought their plates, Percy put away his sword and ate.
+
+---
+
+The armory representative returned after dinner with a route that did not depend on four injured demigods improvising their way across another continent.
+
+There was a secured transfer to Manhattan, arranged through the court's existing messenger network. It would leave from a private terminal after midnight and reach New York before the solstice ceremonies began. The representative had made sure the sealed bolt would travel under her authority, separately recorded from the children accompanying it.
+
+"Can we go straight to Olympus?" Annabeth asked.
+
+"Not without passing through the receiving office. The king's symbol must be registered as recovered before it is returned to him. That is how the armory proves it is the same object that went missing."
+
+Thalia looked disgusted. "Zeus lost a lightning bolt powerful enough to destroy cities and you need to check its serial number?"
+
+"In effect," the woman answered. "Yes."
+
+Percy almost laughed.
+
+Martin was sitting beside the van with his paper route log, looking as tired as Percy had ever seen him. The new transportation would take the four questers without him. His driving agreement had ended where the specialist took custody of the divine weapon and the children were transferred to the court's authorized route.
+
+"You've done enough," Percy told him.
+
+Martin looked up. "I haven't done half of what you kids have done."
+
+"That's not what I meant."
+
+"I know." He closed the log. "But I did my job. I kept the van on the road when it could be kept on the road. I got the people we found to the right contacts, and I called for help when the situation was past what I could handle. I didn't save Olympus."
+
+"You saved a bunch of us from having to drive with Thalia," Grover offered.
+
+Thalia turned. "I can hear you."
+
+"Yes," Martin said solemnly, "which is why I didn't let her drive."
+
+They laughed, and Percy was surprised by how good it felt to laugh about an ordinary rule rather than a monster. He had spent days depending on Martin without fully noticing how much had been done for him: fuel receipts, safe routes, stops for sleep and a phone number somebody would answer.
+
+Annabeth asked Martin to keep a copy of the transport timeline. She wanted the account of the five days lost in the Lotus preserved outside the godly court, where it wouldn't disappear if someone decided it was inconvenient. Martin agreed to send his copy to Chiron through the depot.
+
+"Get home," he told them. "Whatever home means after a trip like this."
+
+Percy thought of the cabin with his sisters, the familiar sound of Silena moving cups around and Clarisse sharpening a weapon she had probably already sharpened twice. He wanted that home more than he had wanted any victory over Ares.
+
+Thalia sat beside Martin for a minute after the others went to prepare their bags. Percy saw her take a paper from her coat. She showed Martin the letter she'd written to Jason, then asked whether he could send it through the depot contact instead of giving it to the Olympian armory.
+
+"Of course," he said. "If there's a safe route to Camp Jupiter, they'll use it. If not, they'll tell you they couldn't send it."
+
+She nodded. No promises about how soon Jason would reply. No fake voice telling her to stay for another picnic. Just a real letter going to a real brother, or not going until the path was safe.
+
+Percy looked away to give them privacy.
+
+Later, when the four children arrived at the private terminal, the armory representative checked each name against the passenger list. She counted three named questers, one guardian and one sealed weapon under separate custody. Percy thought of Chiron repeating those distinctions in the Big House before they left camp. They had sounded pedantic then. Now they were the only reason a transfer clerk didn't ask Thalia to claim she was the fourth person named by an Oracle.
+
+Annabeth used her uninjured hand to sign the passenger record. Thalia checked their bags and reminded Grover to keep his license accessible. Grover asked whether the transport had anything to eat. The representative showed him a shelf of ordinary packaged snacks and watched as his face lit with disproportionate gratitude.
+
+There were no windows in the transfer cabin, which made Percy uneasy. He couldn't see the Pacific as they left, and he couldn't watch the sky brighten over the country. He had to trust the person who was trained to move the god's weapon and the official process Chiron had arranged.
+
+For once, he let himself.
+
+Annabeth sat beside him and unfolded their statement about the encounter with Ares. She read it once, then put it away without trying to improve it. It recorded the truth they could verify: where the weapon had been, who carried the case and how Ares had left it behind. It did not claim they had defeated a god or proved the entire conspiracy.
+
+"You think Zeus will listen?" Percy asked.
+
+"I don't know."
+
+"That's getting to be our most common answer."
+
+"Because we keep asking questions bigger than we can answer."
+
+Percy rested his head against the seat. It still hurt to move too quickly. He was tired enough that the hum of the transfer mechanism reminded him of the Lotus, and he opened his eyes sharply to make sure the light was moving normally.
+
+Annabeth noticed.
+
+"This isn't the hotel," she said.
+
+"I know."
+
+"The armory attendant's up front. There's a route log."
+
+"I know. I just wanted to check."
+
+She took his hand, and neither of them promised never to be frightened again.
+
+When he finally slept, he dreamed of an ordinary breakfast table in a cabin near the sea. He woke before dawn with the feeling that the next difficult thing would happen among gods, where no amount of preparation could make his father and uncle easy people to talk to.
+
+The sealed weapon was still under guard. Percy was glad it wasn't in his backpack.
+
+The transfer reached Manhattan while the streets were still mostly empty.
+
+Percy saw the first building through the terminal's upper windows. He couldn't tell where they had arrived at first. The city looked ordinary, with delivery trucks and people carrying coffee, until the light changed and he recognized the familiar outline of a street he'd walked with Sally in the older life.
+
+He stopped beside the window.
+
+"That's New York," he said.
+
+Annabeth came up beside him. "I noticed."
+
+"I know. I just thought it would feel different."
+
+"It does for you."
+
+He nodded. The city held a childhood he remembered and a death he was supposed to have lived through at two. He could walk the old route to Sally's apartment in his head. None of the people on the street would know why it mattered.
+
+The representative called them to the final check. The container holding the master bolt was intact, still bearing the same seals it had received on the beach. Annabeth compared the seal number with the one she'd recorded. Thalia signed the visitor ledger with the hand that wasn't still aching from the fight. Grover produced his searcher license before anyone asked, looking absurdly pleased with himself.
+
+Percy asked whether Chiron had received the report. The representative confirmed that his message was acknowledged and that the court would receive four living witnesses alongside the weapon.
+
+"Then we're actually going?" Grover asked.
+
+"We're going to the receiving office," she replied. "An audience with Zeus is a separate matter."
+
+Thalia gave a long, tired sigh.
+
+"Even now?"
+
+"Especially now."
+
+Percy looked at the city one last time. He had wanted this entire quest to end with the bolt back on Olympus. The hard part wasn't the distance anymore. It was getting a family of gods to hear what four children had actually witnessed, instead of what each brother wanted the evidence to mean.
+
+He picked up his bag. It felt strangely light without the fear of a hidden weapon in the side pocket. He carried his reports, his bandages and the folded answer about Sally. All of them were real. None was a guarantee that the morning would go well.
+
+Before they left the terminal, Grover asked for a minute to check the air outside.
+
+He returned with a worried look.
+
+"I can smell rain," he said. "Not a monster. Just rain. But the city's full of people rushing somewhere and I can't tell which direction makes sense anymore."
+
+Annabeth showed him the route to the receiving office. "We aren't improvising a path. We're following the courier."
+
+"Good," Grover said. "I like that."
+
+Thalia put her hand on the younger satyr's shoulder. She didn't tell him he was brave or insist he stop shaking. The long trip had made clear that fear was not a problem someone could simply decide to finish having.
+
+Percy watched the sealed weapon disappear through a guarded interior door, the armory representative walking beside it. It was out of his hands now, and he felt an unexpected flash of panic. When he carried his own sword, he could make a decision about when to draw it. A divine weapon under official custody required him to trust people he'd never met.
+
+Annabeth noticed where he was looking.
+
+"The seal numbers match," she said.
+
+"I know."
+
+"We have copies of the handoff."
+
+"I know."
+
+"Then let's go give our account before somebody tells it for us."
+
+Percy nodded. It was the one thing he still had authority to do.
 
 ---
 

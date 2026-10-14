@@ -64,7 +64,6 @@ And so began the week of night watches.
 
 ---
 
-### Night One — Percy
 
 The border at night was a different country.
 
@@ -106,7 +105,7 @@ Percy sat down on the cold stone beside the fire basket and pulled his watch clo
 
 "Yeah," he said. "The day we visited recently, it was... a lot. Everything was supposed to be familiar."
 
-He thought about how to describe it. He'd tried to explain it to Amphitrite in a letter and had crossed out three drafts. How do you describe a palace made of living coral and pearl that breathes with the tide, when your family thinks you should know every corner? How do you describe Triton carefully leaving room for a brother who doesn't remember their old lessons? How do you describe Amphitrite being kind in a familiar way that still surprises you, setting out your favorite snacks because she knows what you've forgotten? How do you describe his dad turning up late to dinner, dripping wet from a storm council, and grinning when he saw Percy like the whole ocean lit up?
+He thought about how to describe it. He'd started a letter to Amphitrite about the visit, then crossed out three versions that sounded as though he were describing her own palace to a stranger. He couldn't let her see the missing memories behind the awkwardness. How do you describe a palace made of living coral and pearl that breathes with the tide, when your family thinks you should know every corner? How do you describe Triton carefully leaving room for a brother who doesn't remember their old lessons? How do you describe Amphitrite being kind in a familiar way that still surprises you, setting out your favorite snacks because she knows what you've forgotten? How do you describe his dad turning up late to dinner, dripping wet from a storm council, and grinning when he saw Percy like the whole ocean lit up?
 
 "It's big," he said lamely. "Like, stupid big. You swim down a canyon and there's lights everywhere, and whales carrying mail, and mermen arguing about property lines. And the palace— it's warm, even though it's deep. There's this garden where my dad grows these glowing anemones. He showed me. He was really proud of them. Like, 'Percy, look, this one's new, I crossbred it myself.'"
 
@@ -132,7 +131,7 @@ Thalia was quiet for a moment, turning her stick in the coals. "Do you... like h
 
 Percy thought about it. The ache that had sat behind his ribs since he'd left Atlantis, like homesickness for a place he'd supposedly lived for years but was only beginning to know. The way his dad had hugged him goodbye at the thermocline, hard enough to crack ribs, and whispered, *You always have a home in the sea, Percy. Never doubt that.*
 
-"Yeah," he said softly. "I do. It's weird. I remember growing up just me and Sally, you know? And that was enough. It was everything. But here they all know this whole... other ocean of people. Who know my dad in a way I don't yet. Who fight and tease and send me weird shell necklaces with notes like 'do not eat this, love, Nerissa.' She's one of the palace nereids. Triton says she's been putting instructions on my presents forever. It's messy. But I like knowing they're there. When I'm near the water, I feel less... solo."
+"Yeah," he said softly. "I do. It's weird. I remember a different kind of home with Sally. I told you some of it, I know. She was enough. She was everything to me in that life. But here they all know this whole... other ocean of people. Who know my dad in a way I don't yet. Who fight and tease and send me weird shell necklaces with notes like 'do not eat this, love, Nerissa.' She's one of the palace nereids. Triton says she's been putting instructions on my presents forever. It's messy. But I like knowing they're there. When I'm near the water, I feel less... solo."
 
 "Less solo," Thalia repeated. "I like that."
 
@@ -186,7 +185,6 @@ On the walk back to the cabins, Percy and Thalia split a granola bar Percy had s
 
 ---
 
-### Night One — Annabeth
 
 Annabeth Grace liked being prepared. She had prepared for night patrol the way she prepared for everything: checklist, diagram, contingency plan.
 
@@ -300,7 +298,6 @@ Annabeth felt her throat go tight. "Same. For you."
 
 ---
 
-### Night Two — Silena
 
 Silena Beauregard had packed for night patrol like it was a picnic that happened to involve potential monsters.
 
@@ -380,7 +377,6 @@ Lee took a photo with a disposable camera. "Blackmail," he whispered.
 
 ---
 
-### Night Three — Thalia
 
 Thalia Grace had a secret: she loved night watch.
 
@@ -466,7 +462,6 @@ Percy laughed, and the fear melted out of his shoulders. "Deal. Princess Sockhat
 
 ---
 
-### Night Four — Clarisse
 
 Clarisse La Rue had decided Annabeth Grace was not as annoying as she'd previously categorized.
 
@@ -532,7 +527,6 @@ They finished the patrol in comfortable silence, and when the relief came, Clari
 
 ---
 
-### Night Five — Grover
 
 Grover Underwood had discovered he was good at night watch.
 
@@ -592,7 +586,136 @@ On the walk back, Silena held Grover's hand the whole way, swinging it.
 
 ---
 
-### Night Six — Percy and Annabeth (Off-Duty, Mostly)
+
+The patrol list had one missing signature.
+
+Silena noticed it while taking the empty thermoses to the Big House after their fifth watch. The form had been left on the porch beneath the lantern, where counselors signed when they returned from the border. Every patrol's name was there except the last pair from the eastern path.
+
+She put down the thermoses and checked the times. The names belonged to a Demeter camper and an older boy from Hermes, both experienced enough not to forget something as routine as reporting in. The log showed them leaving at eleven, with a scheduled return at two. It was now twenty minutes past two.
+
+Grover stood beside her, shivering in a borrowed jacket.
+
+"Maybe they signed a different page."
+
+"Then we check. We don't assume it."
+
+Silena knocked on the study door. Chiron was working inside with the latest reports about the restless border, and he came at once when she explained. He did not seem alarmed, but he asked a second counselor to check the infirmary while he took the lantern and examined the posted routes.
+
+"Do you know where they were assigned?" he asked.
+
+"East fence, between the ash tree and the old stone wall."
+
+"Good. Stay on the porch. I will have their leader check the path."
+
+Grover made a small unhappy sound.
+
+"I can listen from here," he offered. "If they're in the woods and frightened, I might hear something."
+
+Chiron considered. "You can stay with Silena. Do not leave the porch without telling me."
+
+The centaur moved into the trees. Silena wanted to go with him. She had packed an entire emergency bag for the week of night watches and was standing within reach of it. She also knew the exact reason Chiron had told them to remain. The patrol route already had people responsible for searching it, and one more child in the dark would complicate the headcount rather than help.
+
+Grover closed his eyes. He could hear the insects in the strawberry fields and a dryad moving through the oak nearby. Beyond those sounds was something unfamiliar: a regular scraping followed by an impatient voice. It was too faint to make out the words, but it seemed to be coming from the path below the herb garden.
+
+"I hear somebody," he said.
+
+"Where?"
+
+"East of the lower shed. The voice sounds annoyed, not frightened."
+
+Silena took the observation down rather than treating it as proof their missing campers were safe. She noted the direction, the time and the sound, then asked the counselor on duty to send it to Chiron.
+
+Ten minutes later the Demeter girl arrived with her arm around the Hermes boy. They were wet, muddy and arguing.
+
+"He stepped into the ditch," she said, before anyone asked.
+
+"The ground wasn't where the map said it was."
+
+"The map showed the path, not the shape of every puddle."
+
+Chiron returned behind them. The boy had twisted his ankle, and they had stopped to secure it before coming back. Neither had been in danger from a monster. They had simply taken longer than the form anticipated and failed to notify anyone that the route had changed.
+
+Silena was relieved. She was also angry in the peculiar way she became angry when a preventable problem created unnecessary fear for half a dozen people.
+
+"Did you try the signal whistle?" she asked.
+
+"The reed fell out," the Hermes boy admitted.
+
+"The backup?"
+
+"It was in the pack. I couldn't reach it from where I was sitting."
+
+Chiron asked the pair to visit the infirmary and said they would discuss the route equipment in the morning. He thanked Grover for listening and Silena for keeping the account precise.
+
+On the walk back to Cabin Three, Silena carried the thermoses without making a joke. Grover walked beside her until they reached the pavilion.
+
+"I think I was useful," he said.
+
+"You were."
+
+"But I couldn't tell whether they were hurt. I just heard a voice."
+
+"That's what useful information sounds like sometimes. You didn't invent the rest."
+
+He considered the answer. He'd spent years wanting to become a Searcher, imagining himself identifying a divine presence from the faintest movement in the trees. Tonight he'd helped because he knew the limits of what he heard and was willing to say so.
+
+Silena stopped at Cabin Three.
+
+"I should have packed two whistles," she said.
+
+"You already packed three."
+
+"One broke. The other was where nobody could reach it. What matters is whether the person who needs it can use it."
+
+Grover nodded. "Then tomorrow we can ask Chiron to make people wear the backup outside their packs."
+
+"Exactly."
+
+The cabin lights were out when Silena went inside. She placed the clean equipment on the stores shelf, left the muddy thermoses by the washing basin and wrote a short note about the signal failure for the morning meeting. Then she went to sleep.
+
+---
+
+The next morning's equipment review was not glamorous. Chiron lined up the whistles, lanterns and route cards on a table and asked the patrol leaders to explain what they'd actually carried. Some remembered perfectly. Others described what they were supposed to have packed and had to be reminded that the question was about the night before.
+
+Clarisse took the revised checklist and tested it against a practice scenario. She asked Nico to sit on a bench with one ankle tucked underneath him and demonstrate whether he could reach the whistle from each of the prescribed locations.
+
+He took the instruction very seriously.
+
+"Here," he said, pointing to the cord around his neck. "I can reach it with either hand."
+
+"And if the cord catches on something?"
+
+He moved it to the front of his jacket. "There."
+
+"Good. If you lose the first whistle?"
+
+He lifted the spare from the outer pocket. Clarisse nodded.
+
+"That's what we need. Not a form claiming somebody carried two whistles while both are at the bottom of the same bag."
+
+The Hermes boy who had twisted his ankle was sitting nearby with his foot supported. He looked embarrassed by the whole exercise, especially when the instructor asked him to describe where he'd been standing when he lost his balance.
+
+"It was a bad step," he said.
+
+"It was," Chiron replied. "The trail also needs a new marker. We inspect the cause without making the injured person a spectacle."
+
+The boy looked relieved. Percy was glad to hear the distinction. He had spent the week listening for danger at the border and had begun to expect every incident to become evidence of a larger threat. Sometimes a bad step was a bad step, and the right answer was a better marker.
+
+Annabeth examined the route cards and noticed that the eastern path had been mapped from the top of the ridge rather than from the lower junction. The difference meant the ditch could be mistaken for a shortcut.
+
+"Can we redraw it from the junction?" she asked. "A person with a sore ankle isn't going to take the high route just to match our diagram."
+
+Chiron agreed. She worked with Bea to mark the lower path, while Percy and Clarisse checked the physical markers against the new drawing. Grover followed them, listening for the water running through the ditch so the map would distinguish the stream from the path in darkness.
+
+When the corrections were finished, everyone practiced reporting a delayed patrol without leaving their assigned position. It was slow enough to feel unnecessary. Percy remembered how easily he'd broken his own assignment during the eclipse and completed the drill without complaint.
+
+The younger campers made fun of how much paperwork it required. Clarisse told them paperwork was less painful than a sprained ankle. She had enough experience with both to sound convincing.
+
+By lunch, the team had repaired two markers, moved a whistle to a safer location on every patrol uniform and established a clear escalation time when someone was late. None of the changes made the border less dangerous by itself. They made the people watching it easier to find and harder to forget.
+
+
+
+---
 
 Night six was supposed to be their night off — the schedule rotated so no one pulled seven straight — but neither Percy nor Annabeth could sleep.
 
@@ -630,7 +753,78 @@ They dozed on the porch swing, shoulder to shoulder, blanket slipping, until Arg
 
 ---
 
-### Night Seven — All Six
+
+The evening before the final watch, Annabeth found the eastern-route correction waiting for her approval. She had made the drawing herself and expected it to match the latest measurements. Instead a note in Bea's handwriting said that the path had shifted again when a repair crew moved the drainage stones.
+
+Annabeth went to the workshop to ask whether the change was temporary. Beckendorf was sorting fittings into three trays and looked up when she came in.
+
+"It'll stay that way until the spring repairs," he said. "We found an old drain underneath the walkway. If we cover it again before it's inspected, it'll flood the same place next time."
+
+"Then the map needs a new date."
+
+"It does."
+
+Annabeth was irritated that nobody had told her sooner. She had spent half the morning helping Chiron revise a route that was already out of date by supper. When she said so, Beckendorf gave her a tired look.
+
+"I should have put the notice on the board," he agreed. "But I was carrying the old stones out of the ditch, and Chiron told me to leave the path closed until someone finished checking it. We didn't tell anybody it was safe."
+
+Annabeth considered that. She had treated the missing update as proof people weren't taking her work seriously. The repair crew had made sure the route was closed before it changed the stones. They had not endangered anyone by failing to tell her a measurement the instant it changed.
+
+"I'm sorry," she said. "I assumed you'd reopened it."
+
+"That's why we put the barriers up."
+
+She looked toward the table where the updated site measurements lay.
+
+"Could I copy them now?"
+
+"Yes. And put the time next to the date, in case we move something else tomorrow."
+
+She did. The revised page had enough room for a small change log beneath the route, something she'd begun to appreciate after the Oracle investigation. A map could be correct when it was drawn and misleading a day later if nobody recorded what had changed.
+
+She took it to Chiron. He thanked her for checking and asked her to bring it to the final watch briefing so the patrol team knew which parts of the border had been inspected recently and which had not.
+
+"Will we go there tonight?" she asked.
+
+"No. The final watch is in the valley, well away from the closed path."
+
+"Then why do we need the map?"
+
+"Because you are learning to report what happened, not only where you intend to stand. The next patrol will need to know which routes changed while you were watching."
+
+Annabeth nodded. She had wanted the work she'd done to matter beyond a single practice night. It was satisfying to see that it could, even when its result was only a correction on someone else's clipboard.
+
+At dinner, Percy sat across from her and noticed the ink on her fingers.
+
+"Another map?"
+
+"The same map, properly updated."
+
+"What's wrong with the old one?"
+
+"The world failed to remain as I'd drawn it."
+
+He smiled. "Very inconsiderate of it."
+
+She passed him the page. He checked the new marks and pointed to the closed junction.
+
+"Then we won't go anywhere near it."
+
+"Good."
+
+He handed it back. There was a moment when she wanted to tell him how annoyed she'd been with the repair crew, then how embarrassed she'd felt when she realized the barrier had stayed closed. She didn't need the story to make herself look clever. She told him both parts.
+
+Percy listened, then said, "I did the same thing during the storm when I thought I knew which way the water should go. Turns out it had opinions."
+
+"Water generally does."
+
+"So do engineers."
+
+She looked at the drawing again and wrote the last correction neatly, with Beckendorf's measurement credited beside it. That was the version she would carry to the final watch.
+
+
+
+---
 
 The last night, Chiron changed the plan.
 
@@ -708,13 +902,28 @@ Annabeth leaned against Thalia, lighthouse and ship, sisters and soldiers, and w
 
 Thalia wrapped an arm around her. "Boringest week ever. Best week ever."
 
-As the sun rose fully over Camp Half-Blood, gilding the cabins and the strawberry fields and the far-off gleam of the boundary pine, six night-watchers finished breakfast, shoulder to shoulder, tired but closer — and for once, no alarms, no quests, no battles. Just dawn, and food, and each other.
+When Chiron dismissed the watch, Clarisse claimed the last pancake and announced that anybody still awake in an hour would be assigned more patrol duty.
 
-It was enough. It was everything.
+Grover was already asleep with his forehead on the table. Silena covered his face with a napkin to keep the flies away. Thalia slid her untouched fruit across to Annabeth and asked when the next watch list would go up.
 
----
+Percy stood carefully. His legs had gone stiff during the night. He had completed a week of looking for something dangerous and found nothing he could prove. Tomorrow, after sleeping, he could examine the notes with Annabeth. Today he went back to Cabin Three with his sisters.
 
-*End of Chapter 25*
+The patrol record still needed a final signature. Percy stopped at the porch to confirm that the equipment they'd borrowed had been returned and the repaired path was marked closed until Chiron received the next inspection. Silena showed him the signed form, then pointed to one line he had missed: who would take the updated map to the morning crew.
 
----
+"That's us," she said. "We volunteered yesterday."
 
+He had forgotten. He was tired, and the prospect of another errand before breakfast sounded terrible. But somebody had to make sure the next team wasn't relying on an old route.
+
+"I'll do it," he said.
+
+"Not alone. I signed both our names. We can carry it after we sleep."
+
+Clarisse looked between them. "I'll bring the spare whistles. The ones we moved out of the packs."
+
+Percy smiled. They'd spent a week watching dark woods for something dangerous and had come home with a collection of small jobs. That was not failure. It was what a successful night watch produced when nobody was hurt: a clear report, equipment ready for the next group and enough trust that the people coming after them could follow the same procedure.
+
+He went into the cabin, set his alarm for the map delivery and fell asleep before Silena finished putting away the lantern.
+
+By morning, the new patrol team would have its routes, whistles and records. Percy couldn't control whether monsters moved near the border in the following week. He could control whether the next group had to repeat mistakes his own group had already made. It was an ordinary responsibility, and he had learned to value it more than the thrill of imagining a threat he might be able to defeat.
+
+Silena checked the lantern oil one last time, then closed the cabinet. Outside, the familiar path was finally quiet.

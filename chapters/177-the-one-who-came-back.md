@@ -540,7 +540,16 @@ She read the four lines back to herself twice, the way she read everything she w
 
 SUNDAY — FIELD, 8AM. SOMEBODY IN THIS CABIN HAS A HEEL AND IS NOT TELLING ME.
 
-Then she stood at the rail a while in the cold with her arms crossed, listening to the stove tick down inside and four people breathing in her cabin, and past the porch the whole camp sat under the lamps going about its slow autumn business: the forge dark, the pavilion dark, the harvest and the awning and the fallen pine all parked where they had been left, and the lake down at the bottom of the hill, closed, silver under a moon that had come out after the frost, doing nothing at all, and holding everything.
+Clarisse stood at the porch rail a while longer, reading the new line about Sunday. It didn't belong with the quilt measurements and lantern checks. A bad heel wasn't a task she could cross out with a pencil. She nearly tore the corner off the page so nobody else would read it.
+
+Instead she shut the book. Thalia would be angry if she knew she'd been watching the way she came down the slope. That didn't make it less true that she had begun keeping weight off one foot.
+
+There were three useful things Clarisse could do without turning it into a public argument. She could stop assigning Thalia to carry the heavy kit up the ridge. She could check that the slope was safe for everybody on Saturday. And she could ask her, in private, whether the heel needed somebody with medical knowledge rather than another week of stubbornness.
+
+She wrote none of that down. The Sunday note stayed in her own book, where she could find it when she needed it.
+
+Through the cabin window she heard Silena moving a pot from the stove, then Percy laughing at something Annabeth said. There were ordinary sounds enough to fill the evening without the list. Clarisse put the pencil behind her ear, went inside, and set her boots where they could dry by morning.
+
+On the table lay tomorrow's crew sheet. She removed one weight-carrying task from Thalia's column and wrote it into her own. In the morning she'd have to explain why. Tonight she wanted to finish the tea Silena had left her while it was still hot.
 
 ---
-

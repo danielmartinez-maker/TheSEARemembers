@@ -1,12 +1,11 @@
 ## Chapter 22: Storm Training
 
-### Annabeth — Morning on Half-Blood Hill
 
 Annabeth Grace woke up before the conch horn.
 
 That almost never happened. At Camp Half-Blood, mornings belonged to the Apollo kids with their too-loud singing and the Ares kids with their too-loud everything else, and Annabeth usually buried her head under her pillow until the last possible second and then sprinted for breakfast with one sandal on the wrong foot. Athena kids were supposed to be dignified. Zeus kids, apparently, were supposed to be disasters before nine a.m.
 
-She sat up in Cabin One and stared at the ceiling for a moment. The cabin was too big for three people plus a guest cot. Thalia had claimed the bunk by the window and turned the sill into a graveyard of busted electronics — three watches, a transistor radio, a flashlight that only worked when she was in a good mood. Jason, ten and earnest, was visiting for the week from Camp Jupiter with Chiron's approval and had a cot made up beside the door, his blanket tucked so tight around himself he looked like a burrito. And Annabeth had the bunk closest to the door, because she liked to be the first one out if anything happened.
+She sat up in Cabin One and stared at the ceiling for a moment. The cabin was too big for three people plus a guest cot. Thalia had claimed the bunk by the window and turned the sill into a graveyard of busted electronics — three watches, a transistor radio, a flashlight that only worked when she was in a good mood. Jason, ten and earnest, had arrived the previous afternoon for his first in-person visit since their Iris-message. Camp Jupiter had approved a supervised week, and he had a cot made up beside the door, his blanket tucked so tight around himself he looked like a burrito. And Annabeth had the bunk closest to the door, because she liked to be the first one out if anything happened.
 
 She pressed her palm to her chest. Her heart was going fast for no reason. Not nightmare-fast. Storm-fast. That buzzy, restless feeling under her skin that she'd had since arriving in this twelve-year-old body, old memories confronting powers everybody else thought she should know.
 
@@ -36,7 +35,7 @@ Annabeth sat. The grass soaked through her shorts immediately. "Charming. Is thi
 
 Annabeth pulled her knees up. Below them, camp was waking. Tiny figures moving between cabins. Smoke starting from the forge. Someone laughing too loud by the showers. Normal sounds. Safe sounds.
 
-"I'm nervous," she admitted quietly. It was easier to say to Thalia than to anyone else. Thalia listened. Really listened. She couldn't remember the life Annabeth had lost, but she knew what Annabeth had told her — Athena's daughter, the one with plans inside plans — and she knew the sister beside her now. "What if I can't do it? What if I'm just... bad at this? I've been trying for weeks and all I do is make the lights flicker and shock Percy when he holds my hand."
+"I'm nervous," she admitted quietly. It was easier to say to Thalia than to anyone else. Thalia listened. Really listened. She couldn't remember the other life Annabeth had described, but she knew what Annabeth had told her — Athena's daughter, the one with plans inside plans — and she knew the sister beside her now. "What if I can't do it? What if I'm just... bad at this? I've been trying for weeks and all I do is make the lights flicker and shock Percy when he holds my hand."
 
 "Percy likes getting shocked by you," Thalia said. "He told me. He said it was like holding a firefly."
 
@@ -98,7 +97,6 @@ Annabeth snorted and shoved her. They dissolved into giggles as the sun climbed 
 
 ---
 
-### Thalia — How to Teach the Sky
 
 Thalia Grace was a terrible teacher about almost everything.
 
@@ -108,7 +106,7 @@ But this — sitting on a hill at dawn teaching her little sister how not to be 
 
 Because nobody had sat still for her.
 
-When Thalia had first started zapping things at seven, before Camp, before Luke, her mom had screamed and thrown a plastic cup at her. Three-year-old Annabeth had hidden behind a chair. Later, when they'd run with Luke and her little sister — the seven-year-old Zeus kid with tangled hair and enormous eyes who held Thalia's hand through thunderstorms — she'd been terrified to touch anyone. She'd slept with her hands tucked under her armpits so she wouldn't shock little Annabeth in her sleep. Luke had told her she was a weapon and weapons didn't get to be soft.
+When Thalia had first started zapping things at seven, before Camp, before Luke, her mom had screamed and thrown a plastic cup at her. Three-year-old Annabeth had hidden behind a chair. Later, when they'd run with Luke and her little sister — the seven-year-old Zeus kid with tangled hair and enormous eyes who held Thalia's hand through thunderstorms — she'd been terrified to touch anyone. She'd slept with her hands tucked under her armpits so she wouldn't shock little Annabeth in her sleep. She had been afraid that every uncontrolled spark made her dangerous, and it took years of patient practice before she could let anyone take her hand without thinking about the next shock.
 
 It took years of camp practice, burned-out lanterns, embarrassed apologies, and finding people who didn't flinch from her hands to unlearn that. Chiron kept asking her to try smaller, quieter. Annabeth kept reaching for her anyway.
 
@@ -136,7 +134,7 @@ Annabeth stepped in. The chalk was white against brown dirt. The lantern sat on 
 
 Thalia stepped into the circle with her. Close. Shoulder to shoulder. She could feel the faint lift of Annabeth's hair, the crackle at the edge of her own vision like heat shimmer.
 
-"Rule one," Thalia said, holding up a finger. "Feet on the ground. Always. Sky kids want to float when they get excited — literally, Jason did it last week and got stuck on top of the cabin doorframe — but grounding helps. Feel your soles. Toes, arches, heels. You're plugged in."
+"Rule one," Thalia said, holding up a finger. "Feet on the ground. Always. Sky kids want to float when they get excited — literally, I did it once and nearly got stuck on top of the cabin doorframe — but grounding helps. Feel your soles. Toes, arches, heels. You're plugged in."
 
 Annabeth wiggled her sneakers in the dirt. "Okay. Plugged in."
 
@@ -196,7 +194,6 @@ As if summoned by his name — and Thalia was starting to suspect the sea kid ha
 
 ---
 
-### Percy — Snack Support and Static
 
 Percy Jackson had learned many important things in the years he remembered and the weeks since he arrived in this twelve-year-old body: how to breathe underwater, how to swordfight with a pen, how to cook blue pancakes with smaller hands in the camp kitchen, and how to tell from fifty yards away when his girlfriend was getting frustrated with herself.
 
@@ -270,7 +267,7 @@ Thalia nodded, satisfied. "See? Boring Percy is useful Percy."
 
 "Hey!"
 
-They kept going. Percy kept talking — about Sally's blue cookies in the childhood he remembered, about Mrs. O'Leary the hellhound who'd tried to eat a canoe last week, about his half-sister Clarisse teaching him to throw a javelin backwards by accident. Annabeth kept sparking, longer each time. Five seconds. Seven. The air smelled like rain even though the sky was cloudless.
+They kept going. Percy kept talking — about the blue-cookie recipe he and Annabeth had been trying to get right, about the old story of a hellhound who'd once tried to eat a canoe, about his half-sister Clarisse teaching him to throw a javelin backwards by accident. Annabeth kept sparking, longer each time. Five seconds. Seven. The air smelled like rain even though the sky was cloudless.
 
 Then Grover showed up.
 
@@ -382,7 +379,110 @@ Annabeth nodded slowly. "Longer out than in."
 
 ---
 
-### Annabeth — Afternoon Sparks
+
+At noon, Chiron arrived to assess the training yard. Thalia had promised him a supervised session with a clear stop procedure. He found Annabeth sitting on a low bench with her hands in her lap, staring at the lantern as though she'd been asked to move the entire sky into it.
+
+"How is the practice going?" he asked.
+
+"Slowly," Thalia said.
+
+"That's a description, not necessarily a problem."
+
+Annabeth looked up. "I made a spark. Then I tried again and couldn't do it."
+
+"What changed?"
+
+"I was thinking about making it happen instead of letting it happen. Thalia said I was trying too hard."
+
+Chiron examined the chalk circle and the wooden stool. The ground was dry, the area had been cleared of loose metal and a bucket of sand stood within reach of the instructor. He approved the preparations, then asked whether the first experiment had caused any pain.
+
+"No," Annabeth said. "It surprised me."
+
+"Then let's inspect what you actually did rather than what you wanted to do."
+
+She described the position of her hands, Thalia's breathing instructions and the sensation of pressure in the space between them. Chiron made a note. He did not ask her to produce another spark while he watched.
+
+"Why aren't you testing me?" Annabeth asked.
+
+"Because you've already given me useful information. You noticed what happened before the spark and after it. The next step is learning whether you can repeat that experience without forcing it."
+
+She frowned. "And if I can't?"
+
+"Then we may need a different approach. Powers are not measured only by whether a demonstration succeeds on command."
+
+Thalia leaned against the fence and watched the exchange. She was relieved that Chiron had not turned the session into a spectacle. She had promised Annabeth this would be safe, and some part of her feared that a formal assessment would make her sister feel she'd failed if nothing happened.
+
+Chiron looked toward her. "What have you learned as the instructor?"
+
+Thalia hadn't expected the question. "She needs breaks. Her hand gets tired when she's trying to hold it still. And when she gets frustrated, she goes very quiet before the charge starts collecting."
+
+"How do you respond when that happens?"
+
+"I tell her to breathe."
+
+"Always?"
+
+"Mostly."
+
+"Then perhaps you should ask first whether she wants to continue."
+
+Annabeth looked at her sister. Thalia looked back. It was a correction small enough that Thalia might once have ignored it, but she remembered the eclipse and the way she had nearly made her sister's safety into a question of whether Thalia could endure more.
+
+"Do you want to continue?" she asked.
+
+"Not for another ten minutes," Annabeth said.
+
+"All right."
+
+Thalia went to fetch water. Annabeth took the break without apologizing. Chiron used the pause to demonstrate how the lantern's protective glass could be inspected without touching any active spellwork. He explained which parts were ordinary material and which parts the ward team would consider if they ever tried a more advanced exercise.
+
+When he left, the training yard seemed quieter. Thalia returned with two cups, one for each of them.
+
+"I got told off," she said.
+
+"You got feedback."
+
+"I prefer told off. Sounds more dramatic."
+
+Annabeth took the cup. "You were being a little pushy."
+
+"I know."
+
+"You also helped."
+
+"I know that too."
+
+They drank in silence. Thalia was tempted to fill it with advice. Instead she watched the younger campers leaving the arena and allowed Annabeth to think.
+
+"Can we change the exercise?" Annabeth asked eventually.
+
+"How?"
+
+"I want to practice noticing the charge without producing a spark at all. If I can tell when it starts gathering, I might be able to stop before it hurts somebody."
+
+Thalia considered it. The idea was almost the opposite of what they'd planned. She had wanted the lantern to light, something visible and easy to celebrate. Annabeth wanted to know whether she could stop a power before anybody else noticed it.
+
+"That makes sense," Thalia said. "We can keep the lantern unlit."
+
+They returned to the chalk circle. Thalia stood a few paces away, arms lowered. Annabeth closed her eyes and described the changes she felt in the air. At first there was nothing. Then the hairs on her forearm began to rise. She recognized the sensation early enough to step back and loosen her hands without sending a spark toward the stool.
+
+"That felt different," she said.
+
+"What did?"
+
+"I knew it was coming before it happened. I didn't have to make it go anywhere."
+
+Thalia marked the result in the notebook. It was not the impressive ending she had imagined for the day. It was, she suspected, the more important lesson.
+
+They repeated the exercise twice. On the last attempt, Annabeth let the charge settle without moving her feet. Thalia watched carefully but didn't say anything until her sister opened her eyes.
+
+"Good," she said.
+
+Annabeth smiled, tired and pleased. Then she sat down on the bench before her hand began to tremble again. The lantern remained dark. She had learned something she could use the next time the sky frightened her.
+
+
+
+---
 
 By mid-afternoon, the practice yard smelled like thunderstorms and blue muffins.
 
@@ -468,7 +568,130 @@ Annabeth hugged the pinecone to her chest and laughed until her braids sparked.
 
 ---
 
-### Thalia — Dusk Talk
+
+When the afternoon training ended, Thalia had expected Annabeth to run straight to Cabin One and write down everything that had happened. Instead her sister stopped beside the practice-yard noticeboard and looked at the list of scheduled sessions for the following week.
+
+"What are you doing?" Thalia asked.
+
+"Seeing whether we can reserve the quiet corner again."
+
+"You want another whole day?"
+
+"No. A shorter session, maybe half an hour. I want to try the stopping exercise before I'm tired."
+
+Thalia considered the request. She had spent months worrying that Annabeth would take an uncontrolled burst of lightning as proof she was dangerous, and now her sister was asking to practice the least dramatic part of the power. It seemed worth supporting.
+
+"Put us down for Thursday," she said.
+
+"Only if Chiron approves."
+
+"Fine. Write that too."
+
+Annabeth wrote their names in pencil and added a question mark beside the time. She had learned not to treat a provisional booking as an official one, especially when other campers were trying to use the same safe area. That was one of the things Thalia had been insisting on since the eclipse, and it was both irritating and satisfying to see it applied to their own plans.
+
+Percy arrived with a rolled-up practice banner and a pair of damp gloves.
+
+"Are you finished?" he asked.
+
+"For today," Thalia said.
+
+"Good. Clarisse wants somebody to help move the spare markers before the next group starts. She says if Annabeth's session is over, then the whole corner needs to be cleared."
+
+Annabeth looked at the chalk circle. It had taken her hours to arrange the space exactly as she wanted it. She didn't like the idea of erasing everything just as she was beginning to understand how it worked.
+
+"Can we leave the measurements somewhere?" she asked.
+
+"We can copy them," Percy said. "The next group needs the floor."
+
+She nodded reluctantly. The training area belonged to camp, not to her. Thalia helped her measure the stool's position one last time, and Percy carried it to the equipment shed.
+
+The younger campers waiting for the next session were a mixed group from Hermes and Demeter, mostly learning basic defensive spacing. One of them had been watching the storm training from the fence and asked whether Annabeth could show the little spark she'd made earlier.
+
+"Not right now," Annabeth replied.
+
+"Why not?"
+
+"Because I'm tired, and I haven't learned to produce it reliably. Today I practiced noticing when the power was gathering and making it settle before it went anywhere."
+
+The boy looked disappointed. His instructor stepped in to remind him that a demonstration wasn't part of the scheduled lesson. Annabeth was relieved. The question had made her feel as though all the work she'd done with Thalia mattered only if someone else could see lightning jump from her fingers.
+
+They cleared the floor. Clarisse came to check the markers and noticed the small question mark beside Thursday's booking.
+
+"You're using the yard again?"
+
+"If the instructors approve," Annabeth said.
+
+"Good. You should practice the same thing on more than one day. But don't turn it into an excuse to miss normal sword work."
+
+"I won't."
+
+Clarisse glanced at Thalia. "And you need to let somebody else supervise occasionally. You can't be the only person your sister feels safe training with."
+
+Thalia opened her mouth. She had a dozen reasons why she was the best person to help Annabeth learn the power they'd inherited from Zeus. She knew the physical sensations, the impatience, the fear. She also knew Clarisse was talking about something larger than technical skill.
+
+"I can ask Chiron to observe," she said.
+
+"He should. And Zoe can inspect the equipment when you start doing more than small sparks."
+
+Annabeth looked up. "You'd really want Zoe there?"
+
+"If there's a magical ward involved, yes. If it's just you practicing concentration, probably not. Let people do their actual jobs."
+
+Thalia almost laughed. Clarisse had spent the week arguing with Percy about the same thing. She was becoming alarmingly good at saying it to other people.
+
+They delivered the markers to the practice shed. Percy carried the heavy bundle, leaving the lighter tags for Annabeth because her hand still ached sometimes after long sessions. She noticed, but didn't object. He hadn't snatched anything from her. He'd asked which load she wanted before they'd begun.
+
+When they reached the shed, Silena was checking the timetable for the next training group. She looked at Annabeth's notes.
+
+"You've recorded what happened each time?"
+
+"Yes. The successful spark, the failed attempts, and the times I stopped before it discharged."
+
+Silena turned the page. "Could you make a copy for the instructor?"
+
+"Of course."
+
+"And keep the private parts private. You don't owe the whole camp a report every time your powers do something unusual."
+
+Annabeth looked surprised. "I wasn't going to post it."
+
+"I know. I'm reminding you that the list belongs to you and the people responsible for the session. Everybody else can ask questions without expecting your notebook."
+
+That was a boundary Annabeth hadn't thought about. She was so accustomed to treating her work as evidence that she sometimes forgot she could keep a personal account without immediately turning it into a public explanation.
+
+She thanked Silena and went to make the official copy. Percy helped her set the pages in order, then let her write in her own hand. They didn't need to tell anyone about the memories that made her feel older than the body she was training.
+
+By the time the conch sounded for supper, the practice yard had been used by three separate groups, the chalk circle was gone and the marked stop cord had been put back in its proper box. Nothing on the ground distinguished Annabeth's training from any other exercise. She had a notebook full of observations and a sore wrist, which was enough.
+
+Thalia met her outside Cabin One with two clean jackets.
+
+"Are you happy with today?" she asked.
+
+Annabeth thought about the question. She had made a spark in the morning, learned how to stop one by afternoon and asked for another session without promising herself she would be better next time.
+
+"Yes," she said. "I was frustrated for most of it. But yes."
+
+"That's allowed."
+
+"I know."
+
+Thalia handed her a jacket. "Then eat before you start planning Thursday. I don't want to spend the evening convincing you that you need dinner."
+
+Annabeth put it on, then noticed a tear in the sleeve where Thalia had caught it on a nail.
+
+"You should let Silena mend that."
+
+"She'll make fun of me."
+
+"She'll fix it."
+
+Thalia looked down at the tear. "Both things can happen."
+
+They went to the pavilion. The day's success felt more manageable when Annabeth didn't have to perform it for anyone else. Thalia was there, still proud and still infuriating, and Percy had a plate of food waiting at his family's table. There would be time to celebrate the lantern later. First she wanted dinner.
+
+
+
+---
 
 Dinner was chaos, as usual.
 
@@ -534,7 +757,6 @@ No monsters. No prophecies. No battles. Just warmth.
 
 ---
 
-### Percy — Lantern Light
 
 Percy carried the lantern down the hill.
 
@@ -582,13 +804,32 @@ He walked to Cabin Three with salt air in his lungs and lightning still tingling
 
 Across the green, in Cabin One, Annabeth set the lantern on her nightstand and watched its flame — her flame, coaxed from clear air — burn down slow. Thalia, in the next bunk, pretended to be asleep but whispered, "Proud of you, Sparky," into the dark. Jason mumbled something about lightning in his sleep. Annabeth smiled and blew out the lantern and fell asleep to the smell of rain that wasn't there.
 
-On Half-Blood Hill, the grass where she'd grounded out stayed faintly warm until morning, and the crickets sang, and the stars turned overhead, patient as a teacher, steady as breath.
+Annabeth woke once in the night and saw the lantern sitting where she'd left it, unlit and ordinary. She could light it again tomorrow if Chiron approved.
 
-Four in. Hold. Six out.
+From the next bunk Thalia muttered, "Four in. Hold. Six out."
 
-The sky remembered. The girl was learning. And for one clear night, that was enough.
+"I wasn't doing anything," Annabeth whispered.
 
-*End of Chapter 22*
+"Good. Then go back to sleep."
 
----
+Annabeth pulled the blanket up and followed her own breathing until it slowed.
 
+The notebook lay on the small table between their beds. She could have opened it again and tried to decide whether the lantern proved her powers were finally under control. Instead she left it closed. One successful exercise told her she'd learned one thing. It didn't entitle her to skip the work that would make that thing repeatable.
+
+Thalia stirred in the next bunk. "You still awake?"
+
+"A little."
+
+"Don't start practicing in here."
+
+"I'm not going to."
+
+"Good. Because if you set my blanket on fire, you're doing laundry for a month."
+
+Annabeth smiled into the dark. "Your blanket's not made of anything that burns easily."
+
+"That's the sort of answer that worries me."
+
+They lay quietly. Annabeth thought about how often Thalia had put her own fear aside to teach her, and how difficult it had been for her sister to accept Chiron's correction at noon. They had both made mistakes today. Neither had to pretend otherwise to be pleased with the result.
+
+In the morning she would take the training notes to Chiron and ask whether the shorter session could be approved. If he said no, she'd listen to the reasons before proposing another time. Tonight she didn't need to prove she could do anything at all.

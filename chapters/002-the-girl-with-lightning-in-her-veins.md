@@ -2,7 +2,7 @@
 
 Percy woke to the sound of the ocean.
 
-Not the actual ocean — he was in the Poseidon cabin, which was as far from the beach as you could get without leaving camp property entirely. But the cabin itself hummed with a low, rhythmic pulse that might as well have been waves. The walls were carved from pale blue-green stone, cool and slick as wet glass under the palm that breathed, and the floor was smooth, polished shell that was cool under his bare feet, smooth as river glass with gritty salt catching between his toes.
+Not the actual ocean. He was in Cabin Three, well inland, but water ran through channels beneath the floor. He sat up and put a hand to the blue-green wall. Something moved there with a steady rhythm. He hadn't noticed it the night before; he'd been too tired.
 
 In the original timeline, the Poseidon cabin had been empty for years before he arrived. Just him, one bunk, and the faint smell of salt. This version was different. There were four bunks now — two on each side of the narrow room — and the one across from his was already occupied.
 
@@ -12,7 +12,7 @@ Percy had known, intellectually, that Clarisse was a Poseidon kid in this timeli
 
 She was thirteen in this timeline — a year older than him, though she carried herself with the authority of someone much larger. Her hair was pulled back in a severe ponytail, and she was wearing a camp necklace with more beads than Percy had ever seen on someone so young. She was doing one-armed push-ups on the floor, her muscles flexing with an ease that spoke of years of training.
 
-Salt air sharp in her lungs, she noticed him watching and stopped mid-push-up, rising to her feet in a single fluid motion.
+Clarisse caught him watching, completed the push-up, and rose.
 
 "You snore," she said.
 
@@ -64,19 +64,219 @@ He didn't know what to do with that.
 
 "Anyway," Silena said, with the air of someone changing the subject, "have you met Annabeth yet? Thalia's sister?"
 
-"I've," Percy said, and couldn't keep the warmth out of his voice.
+"I have," Percy said, and couldn't keep the warmth out of his voice.
 
 "Good for you. She's nice once you get past the... everything." Silena shrugged. "Thalia's protective. You'll want to stay on her good side."
 
 "I'm not sure I've a good side with her," Percy admitted. "She looked at me like I was a monster she needed to put down."
 
-"That's just Thalia," Clarisse said, shifting his weight against the cold. "She looks at everyone like that. You get used to it."
+"That's just Thalia," Clarisse said, turning toward him. "She looks at everyone like that. You get used to it."
 
 Percy wasn't sure he wanted to get used to it.
 
 ---
 
-After breakfast, Chiron found him. The centaur was in his wheelchair disguise — Mr. D's least convincing form, in Percy's opinion — and he had the same kind eyes and patient demeanor that Percy remembered.
+Before he could escape the pavilion, Silena caught the back of his shirt.
+
+"You're on the rota," she said.
+
+"What rota?"
+
+"The cabin rota." She turned a piece of slate toward him. Three columns of names ran beneath a drawing of a shell. CLARISSE had been written beside equipment checks. SILENA had linen and stores. PERCY had three empty boxes and, below them, an impressively large question mark.
+
+"Am I supposed to guess?"
+
+"I was waiting to see whether you could read."
+
+"I can read."
+
+"Wonderful. We'll start there." She tapped the first box. "Morning water check. Second, dry your gear after training. Third, clean your half of the cabin before inspections on Friday."
+
+"How much of the cabin is my half?"
+
+"That depends on how much you spill."
+
+Clarisse was three benches away arguing with Matt about spear grips. Silena had waited until Percy was alone. He couldn't tell whether that was considerate or tactical.
+
+"Don't you have naiads doing some of that?" he asked, then wished the question back into his mouth.
+
+Silena's eyebrows went up.
+
+He'd been trying to ask about the water channels beneath their floor. In Atlantis a dozen small things happened around a person before breakfast, and he had learned that some of them were automatic. But the question sounded exactly like something a prince would ask about a servant.
+
+"At camp?" Silena said.
+
+"No. I meant—"
+
+"I know what you meant." She rubbed out the question mark on the slate with her thumb. "At camp the people who make the mess are generally expected to deal with it. In my experience the naiads have better things to do than collect our socks."
+
+"Fair."
+
+"It's not a punishment, Percy. It's three jobs. You'll be all right."
+
+He nodded. The expression on her face eased, but she didn't move away. There was another question waiting.
+
+"You really don't know the cabin routines?"
+
+"I've only been here a day."
+
+"That's not what I asked."
+
+He looked at the slate. The name PERCY had been written in a hand so careful that it seemed out of place among the scratched-out chore assignments. Silena had left room for him before he arrived. For however many summers she'd been at camp, she had been expecting a younger brother she'd never met.
+
+"Things were different at home," he said.
+
+"Different how?"
+
+"Different enough that I'm going to get most of this wrong before I get it right."
+
+She considered that, then held the slate out to him.
+
+"Good answer. Let's start with something you can actually break."
+
+
+
+The first thing Percy broke was not a thing.
+
+He broke a rule he hadn't known existed.
+
+Behind Cabin Three, Silena showed him where the channel water returned beneath a stone grate. The little troughs ran through the floor to keep the cabin cool, then curved around a basin where any grit could settle before the water moved on. A brass lever opened the drain for cleaning. It looked simple enough.
+
+"Close the intake first," Silena said. "Otherwise you'll get a—"
+
+Percy pulled the lever.
+
+A sheet of water struck him in the chest.
+
+He sat down hard in the gravel. Silena grabbed the intake valve with both hands and twisted. The flow stopped abruptly, leaving his hair dripping into his eyes.
+
+"—very wet prince," she finished.
+
+For a moment she looked genuinely worried. Then Percy spat out a mouthful of water, and she started laughing.
+
+"You were supposed to wait."
+
+"I gathered that."
+
+"Are you hurt?"
+
+"Only where I landed."
+
+She offered a hand. He took it, and she hauled him upright with more strength than her slender arms suggested.
+
+He could have stopped the surge. The water had answered his skin the instant it struck him, a familiar pressure collecting behind his eyes. There had been time to lift a palm and bend it aside. Instead he'd been too surprised to remember that what he could do with the sea didn't automatically make him good at cleaning a drain.
+
+Silena knelt and took the grate off. A fistful of pine needles and two bits of broken pottery had wedged themselves beneath it.
+
+"That's the problem. Give me the little hook from that box."
+
+He passed it over, pleased that he could manage a task without starting another flood.
+
+She worked the debris loose. A pale green thread was tangled through the needles. She pinched it between two fingernails.
+
+"That's from the new filter cloth. It shouldn't be here."
+
+"Does it matter?"
+
+"It means the cloth's fraying." She laid the thread on a flat stone. "Someone replaced it last week. I helped carry the rolls from the stores."
+
+"Bad material?"
+
+"Could be. Or somebody stretched it too tight."
+
+"Or water doesn't like being filtered."
+
+"Percy."
+
+"Sorry. I was attempting a theory."
+
+"Try a theory that starts with checking the stitching."
+
+He crouched beside her. When she held out the scrap, he examined it. The green had almost the same shade as the palace curtains he thought he ought to remember. He knew those curtains existed because Amphitrite had told him to leave them alone when he was younger. He couldn't remember touching them. What he did know, from the few days he'd spent trying to make a life in Atlantis, was how difficult it was to distinguish what he'd seen for himself from what people assumed he knew.
+
+The thread was real. He could hold it. That was a relief.
+
+"You're looking at it like it's going to answer a riddle," Silena said.
+
+"Maybe it will."
+
+"Then you'd better put it in your pocket. Chiron charges extra for mysteries left in the drains."
+
+Percy did.
+
+She showed him how to seat the grate and test the lever with the intake only half-open. The first time he got the order wrong. The second time, the basin emptied without baptizing either of them.
+
+"See?" she said. "Competent by lunchtime."
+
+"That's an optimistic definition."
+
+"It's camp. We work with what we have."
+
+From the arena came the flat clash of bronze and somebody shouting for a healer. Silena cocked her head but didn't rush toward it. A moment later the shouting turned into laughter. She returned to packing away her tools.
+
+"Can I ask something?" Percy said.
+
+"You're going to regardless."
+
+"When did you start looking after all this?"
+
+"The drains? Last summer. The stores before that." She pushed a stubborn latch shut with the heel of her palm. "I helped plan a watering system for the strawberry beds. Someone has to make sure the summer campers don't use all the fresh water trying to drown one another."
+
+"Why you?"
+
+"Because I like making things that work. Clarisse likes things that win. We overlap occasionally." She glanced at him. "That surprises you."
+
+"Not the winning part."
+
+"People hear Poseidon's name and assume we spend all day throwing waves at each other. I can do that. I'd just rather have clean sheets and strawberries that don't die."
+
+He tried to picture the Silena from the life he remembered in this place: overseeing stores, laying out pipe routes, getting annoyed about a thread caught in a grate. That Silena had had a gift for noticing what people needed, too. But this girl was alive, fourteen, and had been making her own decisions long before he turned up. The memories he carried weren't instructions for how to treat her.
+
+"You can put me on the stores job if you need help," he offered.
+
+"That is a terrible offer to make on your second morning. I might actually take it."
+
+"I'll survive."
+
+"Not if you touch another lever without asking."
+
+He looked down at his dripping shoes. "Noted."
+
+Silena retrieved the green thread from him and folded it into a piece of paper, recording the date beside it. Percy watched her write the note. She hadn't dismissed the problem. She hadn't decided the damaged cloth proved some sinister plot. She had made a record and planned to check the next filter.
+
+"You should tell Annabeth about this," he said.
+
+"Why?"
+
+"She likes fixing systems."
+
+"Then I probably will." Silena slid the note into her pocket. "But first you should change. Chiron's going to be looking for you, and I'm not explaining why our new camper resembles a drowned mop."
+
+"What would you tell him?"
+
+"The truth. He failed the first water check and passed the second."
+
+Percy groaned.
+
+She nudged his shoulder as they headed back toward the cabins.
+
+"For what it's worth," she said, "I prefer a brother who makes an honest mistake over one who pretends he knows everything."
+
+He wanted to tell her how large a relief that was. He settled for walking beside her, squishing noisily in his shoes.
+
+At the cabin door she stopped.
+
+"One thing. Don't let Clarisse hear about the lever."
+
+"Why not?"
+
+Silena's smile was entirely unhelpful.
+
+"She'll find a name for you and it'll last until we're thirty."
+
+---
+
+After breakfast, Chiron found him. The centaur was using his wheelchair disguise, with the same kind eyes and patient demeanor Percy remembered.
 
 "Percy," Chiron said warmly. "I trust you slept well?"
 
@@ -84,9 +284,9 @@ After breakfast, Chiron found him. The centaur was in his wheelchair disguise �
 
 "Good. I'd like to speak with you about your schedule. You'll be training with the other campers, of course, but given your... unique upbringing, we'll need to assess your abilities." Chiron paused. "Poseidon mentioned you've had extensive combat training."
 
-"I've," Percy said, which was true in a way Chiron couldn't possibly understand.
+"I have," Percy said, which was true in a way Chiron couldn't possibly understand.
 
-"Excellent. We'll start with basic drills and see where you stand. In the meantime, feel free to explore the camp. And if you've any questions—"
+"Excellent. We'll start with basic drills and see where you stand. In the meantime, feel free to explore the camp. And if you have any questions—"
 
 "Actually," Percy interrupted, "I do have a question. What's that building near the forge?"
 
@@ -96,11 +296,11 @@ Percy felt a flicker of surprise. A training facility for sea demigods — in th
 
 In this timeline, they were common enough to warrant their own building.
 
-"Thanks," Percy said, shifting his weight against the cold. "I'll check it out."
+"Thanks," Percy said, turning toward him. "I'll check it out."
 
-He spent the rest of the morning exploring. He found the lake — the same lake where he'd fought the Minotaur in the original timeline, where he'd trained with Luke, where he'd learned to swim without thinking. It was smaller here, ringed by trees that leaned toward the water like supplicants.
+He spent the rest of the morning exploring. He found the lake. In the life he remembered, he'd spent long afternoons here learning to swim with the naiads, planning with Annabeth, and watching canoes drift among the reeds. It was smaller here, ringed by trees that leaned toward the water like supplicants.
 
-Salt air sharp in his lungs, he found the same training grounds, the same archery range, the same amphitheater. But there were differences everywhere, small and large, and each one reminded him that this wasn't his world. It looked like his world. It smelled like his world. But underneath the familiar surface, something was fundamentally different.
+He found the training grounds, the archery range, and the amphitheater. But there were differences everywhere, small and large, and each one reminded him that this wasn't his world. It looked like his world. It smelled like his world. But underneath the familiar surface, something was fundamentally different.
 
 He found the Athena cabin again, but this time he didn't stop. He walked past it, toward the Zeus cabin, and tried to catch a glimpse of Annabeth through the windows. He didn't see her, but he saw Thalia — sitting on the porch with a book, her dark hair spilling over her shoulders, her expression intense and focused.
 
@@ -132,7 +332,7 @@ The kid stared at him. "How did you—"
 
 "Good job," Matt said, sounding surprised. "Jackson, you've done this before."
 
-"A little," Percy said, shifting his weight against the cold.
+"A little," Percy said, turning toward him.
 
 "A little? That was advanced technique. Where'd you learn that?"
 
@@ -146,7 +346,7 @@ Matt looked like he wanted to ask more questions, but a commotion at the edge of
 
 "Grace!" Matt called out. "You here to spar?"
 
-"Always," Thalia said, shifting his weight against the cold. She tossed the sword from hand to hand, her movements fluid and practiced. "Who's up for a challenge?"
+"Always," Thalia said, turning toward him. She tossed the sword from hand to hand, her movements fluid and practiced. "Who's up for a challenge?"
 
 Several campers volunteered. Thalia dispatched them one after another with terrifying efficiency, her technique a blend of formal training and street-fighting practicality that Percy recognized instinctively. She fought like someone who'd been doing this her whole life — because she had, in this timeline.
 
@@ -162,17 +362,27 @@ It wasn't a request. Percy picked up a practice sword from the rack and faced he
 
 Thalia attacked first — a fast, aggressive combination that would have flattened most twelve-year-olds. Percy blocked, parried, and gave ground, letting her advance while he studied her rhythm.
 
-She was good. Excellent. But she fought with the confidence of someone who'd never faced anything she couldn't handle, and that made her predictable.
+Thalia was good, and her reach was an advantage his remembered technique couldn't cancel. Percy caught one of her swings, but his smaller arm struggled to hold the block. She pressed, and he retreated until a loose stone caught his heel.
 
-He waited until she overextended on a lunge, then sidestepped and tapped her ribs with the flat of his blade.
+He knew how to recover. His body didn't quite do it in time.
 
-The training ground went silent.
+They lunged together. Percy clipped her ribs with the flat of his sword just as her practice blade struck his shoulder.
 
-Thalia stared down at the spot where he'd touched her, then back up at him. Her expression was a mixture of surprise, indignation, and something that might have been respect.
+"Double hit," Matt called.
 
-"Not bad," she said. "For a sea prince."
+A couple of campers laughed. Thalia looked from her ribs to his shoulder.
 
-"Thanks," Percy said, shifting his weight against the cold. "For a Zeus kid, that was good work."
+"That was irritating," she said.
+
+"I noticed."
+
+"Your footwork's better than your balance."
+
+"Your defense had a hole in it."
+
+"And you almost fell down trying to use it."
+
+Percy grinned despite himself. Thalia put her sword away, not quite smiling but no longer looking at him as though she'd come to settle a score.
 
 Thalia studied him for a long moment, then handed her sword to a nearby camper and walked away. The crowd dispersed, murmuring, and Percy exhaled slowly.
 
@@ -260,9 +470,285 @@ Neither of them mentioned it.
 
 ---
 
+By the time Annabeth got back to Cabin One, Thalia had rearranged the furniture.
+
+Not all of it. Just enough for Annabeth to notice immediately and Thalia to claim she hadn't done anything.
+
+The low table had been moved away from the window. Two stools sat on opposite sides of the cabin, neither quite where they'd been that morning. A blanket had been folded on the floor beside Annabeth's bunk, covering what appeared to be a box of loose screws.
+
+Annabeth put her book down.
+
+"Did the table offend you?"
+
+Thalia was standing on a chair with a coil of cord around one wrist. She had the expression of someone who'd already rehearsed an explanation and wasn't pleased to need it.
+
+"The latch rattles every time the wind comes off the hill," Thalia said, gesturing to the window with the cord around her wrist. "If it fails in a proper storm, we'll spend the night holding it shut. I thought I'd fix it before that happens."
+
+Annabeth studied the frame. "It didn't leak in yesterday's rain, and you've moved half the furniture to get at it. Are you sure the problem isn't just the fitting?"
+
+"That's what I'm checking. There aren't any proper shutters on these windows, so when the catch fails we have nothing to keep the wind out."
+
+"You could've said that instead of tearing the cabin apart."
+
+"And miss the chance to hear your opinion on the table? Never."
+
+Thalia stepped off the chair. A little smear of dust ran down her cheek. She'd been working for long enough to collect a row of tools on the windowsill: pliers, a bent nail, a chisel that looked borrowed from the forge. Annabeth had seen this version of the Zeus cabin only since waking up with her memories in the wrong life. It was large and formal and cold in the way public buildings sometimes were. Thalia had clearly spent years making it less so.
+
+There were mismatched blankets on the bunks. A cracked ceramic bowl held hair ties. Every hook had a purpose. By the door hung a narrow shelf with the sort of compartments people made when they had too many small objects and nowhere trustworthy to put them.
+
+Annabeth recognized the method. She didn't recognize the history.
+
+"Can I help?" she asked.
+
+"With a chisel? No."
+
+"I know how to use a chisel."
+
+"Since when?"
+
+There it was. An ordinary question with no safe answer.
+
+"I've read about it," Annabeth said.
+
+Thalia climbed back onto the chair.
+
+"Reading about not cutting your fingers off is not the same as keeping them."
+
+Annabeth took off her shoes. She lined them beside the bunk, then stopped. The laces had been tied with a quick-release hitch, not the knot she would have used. She couldn't remember tying them that way. She might have done it automatically; a body could hold habits its mind didn't explain. She still hated not knowing which.
+
+"You can't stand on a chair with one leg shorter than the others," she said.
+
+"I can. I've been doing it for twenty minutes."
+
+"That doesn't make it safe."
+
+Thalia looked down. Annabeth looked back.
+
+A beat passed.
+
+"Fine." Thalia jumped to the floor. "What would you do, then?"
+
+It wasn't capitulation. It was a challenge.
+
+Annabeth moved the table under the window and tested its legs. It was broad enough to stand on, but the edge had warped and would tip if Thalia put all her weight on one side. They could use it as a workbench if they braced it with a stool. She explained that, using the paper cover of her book to sketch a small diagram.
+
+Thalia studied it for almost a minute.
+
+"You're drawing instructions for how to use a table," Thalia observed, watching Annabeth mark its warped leg.
+
+"I'm showing you where the weight needs to go. If you lean over that side, it'll tip while you're working on the shutter, and then we'll have a table to repair as well."
+
+Thalia looked at the shortened leg, then reluctantly moved the stool into place. "Fine. But if you start drawing diagrams for every piece of furniture in here, we'll run out of paper."
+
+Thalia handed her the pliers.
+
+"Keep your fingers out of the hinge."
+
+They worked until the windowsill was cleared and the heavy shutter panel lay flat on the bench. The bronze fitting at its corner had worn loose. Annabeth sorted the screws by size, chose two that hadn't lost their threads, and held the panel steady while Thalia adjusted the catch.
+
+Thalia was better at repairing things than Annabeth had expected. Her hands moved without fuss, and she never had to ask where the tools were. She knew which pressure would straighten a crooked fitting and which would snap it.
+
+"Who taught you?" Annabeth asked.
+
+"Who taught me what?"
+
+"This. Making repairs."
+
+Thalia didn't look up. "Trial and error. Luke showed me some things. And Mom used to make me fix whatever I broke."
+
+Annabeth remembered Beryl Grace in fragments that weren't hers. She knew the name, the face from photographs, the outline Thalia had given her. She remembered her own mother from the previous life, Athena present in flashes of pride or distance but never in a kitchen with a broken shutter.
+
+"Was I any good at helping?" she asked.
+
+Thalia's screwdriver stopped.
+
+"You were good at handing me the wrong things and telling me what I should do with them."
+
+"Sounds plausible."
+
+"You once took apart the lock on this door because you thought you could make it work from both sides."
+
+"Did I?"
+
+"Had to sleep with a chair under the handle for two nights."
+
+Annabeth could imagine doing that. It didn't give her the sound of Thalia laughing at it, or the smell of the room, or the feeling of being six and certain she'd invented something brilliant. Thalia spoke with the surety of a person remembering a life they had shared. Annabeth could only borrow the outline.
+
+"Do we still have the lock?" she asked.
+
+Thalia held up the old brass housing. "In the box by your feet. You wouldn't let me throw it out."
+
+"I wouldn't now, either."
+
+"Yeah." Thalia tightened another screw. "That part hasn't changed."
+
+She said it too casually.
+
+Annabeth slid the spare screws back into a tin. She had spent her evening with Percy discussing people who might be erased if they tried to repair history. The conversation had felt necessary, even when it frightened her. Now she stood in a room full of traces of herself and understood that it wasn't an abstract problem to Thalia.
+
+It was the matter of a younger sister who used to know where the screws were.
+
+A flash lit the window.
+
+Annabeth flinched. Thalia caught the shutter before it fell.
+
+"Easy."
+
+"Was that lightning?"
+
+"Distant." Thalia moved the fitting into place. "Come hold this."
+
+Annabeth stepped forward, but static stung the back of her hand before she touched the metal. She pulled away.
+
+Thalia noticed.
+
+"Show me."
+
+"It was nothing."
+
+"Annabeth."
+
+Annabeth lifted her hand. A pale spark crossed between her fingers. She tried to make it happen again and managed only a hot, unpleasant tingle in her wrist.
+
+Thalia put down the screwdriver.
+
+"Has that been happening often?"
+
+"Not often."
+
+"That's not an answer."
+
+"Since yesterday. Maybe before. I don't know."
+
+Her sister's expression changed in a way Annabeth couldn't bear to misread. It was not anger, exactly. It was the calculation of somebody deciding how fast they could get help without alarming the person who needed it.
+
+"Have you told Chiron about the sparks?" Thalia asked, lowering her voice.
+
+Annabeth shook her head. "I wanted to work out what was triggering them before I worried him. Percy knows I've been having trouble, though. He was there when it first happened."
+
+"So you let him know and not me." Thalia set the screwdriver down carefully. "I wish you'd said something earlier. I don't need you to understand a power before you tell me it might hurt you."
+
+Annabeth studied the mark on her thumbnail. "Every time something about me changes, you look as though you're waiting for another disaster. I was trying not to give you one more thing to worry about."
+
+Thalia stepped away from the workbench. The fact that she didn't immediately demand Percy come explain himself was almost more alarming.
+
+"You're both acting like everything's a puzzle you can solve by hiding in corners," she said. "Some things are just dangerous. Electricity doesn't care if you're clever."
+
+"I know that."
+
+"Then act like it."
+
+The words stung because they were reasonable. Annabeth had faced monsters, led quests and survived places where electricity was the least of her problems. None of that meant she understood what being Zeus's daughter was doing to her twelve-year-old body.
+
+"Will you teach me?" she asked.
+
+Thalia looked taken aback.
+
+"That isn't the answer I expected."
+
+"What did you expect?"
+
+"You telling me you read the entire library on lightning and I should get out of your way."
+
+"I might do that tomorrow."
+
+"Of course you might."
+
+Annabeth held her ground. "I don't want to hurt someone because I guessed wrong. You know this. I don't. Teach me."
+
+Thalia picked up the screwdriver and laid it well away from the window.
+
+"Tomorrow morning. We start outside, no metal, and with Chiron close enough to intervene. No practicing in the cabin on your own."
+
+"Okay."
+
+"And if your hands start doing that tonight, you wake me."
+
+"Okay."
+
+"Even if I'm asleep."
+
+"I understand how waking somebody works."
+
+Thalia huffed a laugh, but it faded when she looked at Annabeth's hand again.
+
+"You used to be scared of thunderstorms," she said.
+
+Annabeth had no answer. In the life she remembered, she had been afraid of spiders and losing people and the dark places under the earth. Thunderstorms had been something she could measure. She did not know whether another little girl had climbed into Thalia's bunk when the weather broke.
+
+"I can't remember that," she said.
+
+"I know."
+
+"I don't want you to stop telling me."
+
+Thalia sat on the end of her bunk. There were days when she looked sixteen, and days when the way she carried herself made Annabeth think of adults who'd been tired for years. Right now she looked both.
+
+"You always insisted you weren't scared," she said. "You'd say you were only checking that I wasn't scared."
+
+Annabeth came over and sat at the other end. The mattress sank between them.
+
+"Did it work?"
+
+"Sometimes." Thalia tugged the blanket into her lap. "Sometimes I pretended."
+
+Annabeth smiled, then felt the familiar ache of not knowing what she had missed. She couldn't ask Thalia to stop remembering. That was no better than asking her to stop loving the sister she'd raised.
+
+"Can you tell me another one?" Annabeth asked.
+
+"Another what?"
+
+"Something stupid I did."
+
+Thalia watched her for a moment, making sure she meant it.
+
+"You tried to adopt a raccoon."
+
+"I did not."
+
+"You named him Senator."
+
+Annabeth burst out laughing.
+
+Thalia grinned in spite of herself. "You put him in my dresser. He ate the cuffs off my only decent shirt."
+
+"That sounds like a problem with your dresser."
+
+"It became a problem with my shirt."
+
+"Did I get to keep him?"
+
+"Absolutely not."
+
+"Authoritarian household."
+
+"You can tell Senator about your civil liberties when he comes back to pay for the shirt."
+
+The wind pressed against the repaired shutter. It held.
+
+Thalia noticed first. She reached over and rapped the new catch twice with her knuckle, satisfied. Then she got up to put away the tools.
+
+Annabeth stayed on the bunk and watched her sister move around the cabin. She would need to tell Percy about the sparks tomorrow. She would need to learn what her new powers could and couldn't do, and she would have to make room for a history that had happened without her remembering it.
+
+But tonight she could do one thing that belonged to this life.
+
+She picked up the tin of spare screws and sorted them into the compartments Thalia had labeled.
+
+"Those two go in the bottom drawer," Thalia said without turning around.
+
+"I know."
+
+"You don't. You just guessed."
+
+"Good guess, though."
+
+Thalia let her have it.
+
+---
+
 The next morning, Percy woke to the sound of Clarisse doing push-ups. He lay in his bunk for half a breath, staring at the ceiling, and tried to piece together what he was going to do.
 
-He knew he needed to investigate the changes to the timeline. He knew he needed to find out who was responsible and why. But he also knew that every time he got close to the truth, someone got hurt. Thalia. Annabeth. Clarisse. Even himself.
+He knew he needed to investigate the changes to the timeline. He wanted to find out who had changed their history and why. But wanting an answer wasn't the same as having evidence, and his first two days had already supplied plenty of bad guesses. He still hadn't earned the right to decide what should happen to this life.
 
 And he was only twelve years old. In this body, in this timeline, he was just a kid. He didn't have the strength or the stamina or the experience of his seventeen-year-old self. He was working with a twelve-year-old body and memories through seventeen, and the disconnect was exhausting.
 
@@ -272,19 +758,17 @@ He got up and dressed. Clarisse finished her push-ups and looked at him.
 
 "You look like you're going to war," she said.
 
-"Maybe I'm."
+"Maybe," Percy said.
 
-"With who?"
+Clarisse picked up the shirt he'd put on backward and tossed him the spare from his trunk.
 
-"With whoever changed my life."
+"Try winning the war against laundry first. Chiron's expecting us in the practice yard."
 
-Clarisse studied him for a single heartbeat. Then she said, "Be careful, Jackson. Whatever you're involved in — it's bigger than you think. And I don't want to lose my brother after just finding him."
+"You could've started with that."
 
-Percy smiled. "I'll be careful."
+"I could've. You coming?"
 
-But even as he said it, he knew it was a lie. Because careful wasn't going to fix this. Careful wasn't going to save anyone. Careful was only another word for afraid.
-
-And Percy Jackson was done being afraid.
+Percy changed shirts and followed her. She hadn't asked what he meant by war. He hadn't offered anything that might turn into an explanation of the life he remembered.
 
 ---
 
@@ -298,11 +782,11 @@ Someone had fortified this camp. Someone had anticipated threats and prepared fo
 
 Percy walked to the lake and sat on the dock, letting his feet dangle into the water. Even here — even in this version — the lake had a quality that was different from the original. The water was clearer. Cleaner. Like someone had been actively maintaining it, filtering it, keeping it pure.
 
-He trailed his fingers through the surface and felt something. A vibration. A pulse. Like the lake was connected to something larger — something that extended beyond the camp's borders, out into the deeper waters of Long Island Sound.
+He trailed his fingers through the surface and felt a faint vibration. The lake was freshwater, and it shouldn't have reminded him of the ocean. He tested the water again, unsure whether the sensation belonged to an old camp ward, a current, or something he was imagining.
 
-Someone had linked this place to the ocean. To Poseidon's domain.
+He couldn't name a source. That was worth remembering, not announcing.
 
-He withdrew his hand sharply. That was new. In the original timeline, the lake was only a lake — nice for swimming, dangerous for demigods without supervision, but not connected to any divine power source. Here, it was connected. Here, the sea god had touched his domain and claimed a piece of it for his children.
+He withdrew his hand sharply. That was new. In the life he remembered, he'd never stopped to test the lake this way. That made the sensation interesting, not proof of what had caused it. He would need someone who knew the lake's springs and its camp wards before he could claim anything more.
 
 Percy looked toward the Poseidon cabin and thought about Clarisse — about the fierce, guarded girl who slept in the bunk across from his, who fought like fury and looked at the world like it owed her something.
 
@@ -310,7 +794,7 @@ She was his sister. In this timeline, they were both Poseidon's children, both s
 
 Percy wondered if she knew. If she'd noticed that something about the lake felt different, that the water moved in ways that respond to emotion, that the camp had been fundamentally reshaped around the needs of children of the Big Three.
 
-Probably not. She was thirteen. She was probably too busy surviving to notice the architecture of her displacement.
+Probably not. She was thirteen. She might know more about the lake than he did. He'd ask when he could do it without sounding like an investigator.
 
 But Percy noticed. And Percy remembered. And that meant he had to pay attention to things nobody else was paying attention to.
 
@@ -332,21 +816,197 @@ Someone had put enormous care into this place. Someone had wanted Poseidon's chi
 
 He reached out and touched the dummy's face, and the water around his fingers swirled — responding to his presence, responding to his power.
 
-This was his father's gift to him. His father, who in his original timeline had barely acknowledged him, who had left him to be claimed and raised by a mortal woman who didn't know what she was dealing with. Here, in this timeline, Poseidon had built his son a palace. Had raised him himself. Had made him a prince.
+It was impressive, and Percy wondered whether Clarisse felt the same way about what their father had built. His father, who in his original timeline had barely acknowledged him, who had left him to be claimed and raised by a mortal woman who didn't know what she was dealing with. Here, in this timeline, Poseidon had built his son a palace. Had raised him himself. Had made him a prince.
 
 And Percy didn't know which version of his father he preferred.
 
 He tested the weapons next, picking up a trident and feeling its balance. It was perfectly weighted for someone his size — twelve years old, Atlantean-built, slightly webbed fingers. Someone had designed these weapons specifically for him. Or for someone like him.
 
-The realization settled into his bones like cold water. His father had been preparing for this. Had been building this place, crafting these weapons, shaping the camp around the needs of a child of Poseidon. Had been waiting for Percy to arrive.
+The realization settled into his bones like cold water. Someone had prepared carefully for children of Poseidon to train here. That was evident in the workmanship. Whether the planning had anything to do with Percy personally was a question he had no way to answer.
 
 But the question was: why? What did Poseidon know that Percy didn't? What was he preparing his son for?
 
 Percy set down the trident and left the Tempest Hall. The answers weren't here. They were somewhere else, and he'd have to find them.
 
-But the facility itself told him something important. His father wanted him ready. His father expected war.
+The facility told him one thing he could trust: the children training here had resources the camp had not possessed in the life he remembered. He needed to learn who had approved them, and when.
 
-And that meant the stakes were higher than Percy had thought.
+---
+
+He didn't make it all the way back to the cabins.
+
+Halfway down the path from Tempest Hall, something hit the ground behind the forge with a crash that made Percy turn before he could think. A moment later there was a shout.
+
+"Leave it! Get away from the edge!"
+
+Clarisse's voice.
+
+Percy ran toward it.
+
+A wooden cart had tipped at the end of the laundry path. Most of its contents lay on the dirt: empty pails, a coil of rope, and a crate of small practice shields. One of the cart's wheels hung over the bank of the narrow drainage cut. A Hermes boy in a camp shirt stood beside it, holding the handle as though he could keep the entire thing upright by refusing to let go.
+
+The channel below was only a few feet wide, but recent rain had hollowed out the soil beneath the lip. Mud slid steadily from the bank into the running water.
+
+Clarisse had one arm around the boy's waist.
+
+"Let it go," she said.
+
+"If it falls Chiron will make me replace it."
+
+"If you fall he'll make me explain to your mother why you thought a cart was worth your neck."
+
+The boy let go. Clarisse hauled him backward. The cart dropped another inch, then caught on a root.
+
+Percy came to a stop beside them.
+
+"What's happened?"
+
+"What does it look like?" Clarisse snapped. Then she took in the boy's pale face and lowered her voice. "He tried to turn too close to the edge. Go get Matt. We're moving it before it takes the path with it."
+
+Percy looked at the cart. He could pull the water down for a few seconds, maybe even firm up the soil enough to give them time. The thought came instinctively. In the body he remembered, a current like this would have been an inconvenience. Here, though, even the pond-size surge he'd felt by the lake had been harder to judge than he liked.
+
+"I could keep the water off the bank," he said.
+
+Clarisse looked at the channel. "For how long?"
+
+"I don't know."
+
+"Then don't."
+
+"I can try."
+
+"That's exactly why I said don't."
+
+The cart shifted. A little shower of dirt pattered into the ditch.
+
+"Matt," Clarisse repeated. "Now."
+
+He didn't go.
+
+He could already hear the water under the cart, pressing at soil that was too soft to hold. He extended a hand, intending only to slow it.
+
+The channel flattened abruptly.
+
+For one hopeful instant nothing moved at all. Then water piled against the upstream bend and began to rise. The pressure pushed sideways into the bank, not down. A crack appeared in the mud beside the cart's rear wheel.
+
+Clarisse grabbed Percy's wrist and pulled his hand away.
+
+The piled water spilled forward. A brown wave broke against the opposite bank, sending a spray of dirt across their shoes.
+
+"What was your plan?" she demanded.
+
+He stared at the widening crack. "Slow it down."
+
+"By stopping it?"
+
+"It wasn't supposed to stop all of it."
+
+"Then you didn't know what you were doing."
+
+"No," Percy said.
+
+Clarisse looked surprised that he had admitted it.
+
+She shoved the rope into his hands.
+
+"Good. Now we have a plan we do know how to do."
+
+Matt came running from the yard before Percy could reach the corner. Clarisse had already started giving instructions. She sent the Hermes boy to warn anyone using the path, directed Matt to secure the front axle with a line, and made Percy back away far enough to see both wheels.
+
+He could have protested. It was the easy assignment. It was also the one she'd given him after watching him make the bank less stable.
+
+"Tell me if the rear wheel moves," she said.
+
+Percy watched. The cart creaked. Matt looped the rope around a pine trunk and pulled until the front axle turned. Clarisse braced the nearer wheel with a fallen branch.
+
+"Quarter turn," Percy called.
+
+"Good. Keep calling."
+
+The rope drew tight. The cart lifted a finger's width off the edge.
+
+"Half a turn."
+
+"Is the root holding?" Matt asked.
+
+"Yes. Wait. No."
+
+The root split with a sound like a stick snapped between two hands.
+
+"Back!" Percy shouted.
+
+Clarisse stepped clear as the rear corner dropped. The rope caught the front end before the cart could go after it. Shields spilled into the ditch and knocked against the stones, but nobody went with them.
+
+For several seconds the three of them stood breathing hard.
+
+Then Matt started laughing.
+
+"It's going to be a lovely explanation for Chiron."
+
+"It'll be a short one," Clarisse said. "We were idiots near a drainage cut. Next time we won't be."
+
+She checked the Hermes boy for injuries. He had a scrape on one elbow and mud up to his knees. Percy wanted to say he could fix the water now, but Clarisse had a firm hold of the rope and was giving Matt instructions for making the cart safe. His help was no longer needed in the channel.
+
+So he went after the shields.
+
+He lay on his stomach well away from the broken edge and used the branch to drag each one into reach. The water was cold. The shields were heavier than they looked, especially once wet. By the time he'd retrieved the last one, his arms had started to shake.
+
+"That's enough," Clarisse said.
+
+"One more."
+
+"Percy. Enough."
+
+He looked up. She was standing behind him with the crate.
+
+"Give it here."
+
+He passed her the shield and pushed himself to his feet. Mud had worked into the knees of his trousers, and something sharp had scratched his palm.
+
+Clarisse looked at his hand, then at the water running past the broken bank.
+
+"I wasn't trying to embarrass you," she said.
+
+"Could've fooled me."
+
+"If you want to learn how much water you can move, fine. Do it with an instructor and a clear place to stand. Not while somebody's holding a cart over a ditch."
+
+He had been told variations of that rule by people who were dead in the life he remembered. He'd ignored it often enough to know it wasn't an insult.
+
+"You're right," he said.
+
+"I know."
+
+"Do you ever get tired of being right?"
+
+"Hasn't happened yet."
+
+The Hermes boy, now recovered enough to complain about the lost cart, said he was never taking the laundry route again.
+
+"You'll take it tomorrow," Clarisse told him. "On foot. With the wheels repaired. And you'll show me exactly where the edge gave way so we can mark it."
+
+"Why me?"
+
+"You know where it was. That's useful."
+
+The boy looked as startled as Percy had felt when Silena handed him the cabin rota.
+
+After they'd moved the cart onto solid ground, Clarisse took the rope from Matt and started coiling it with an efficiency Percy envied. He reached to help. She pointed at the shields instead.
+
+"Wipe the mud off. All of them."
+
+"Even the ones I didn't drop?"
+
+"You volunteered to be helpful."
+
+Percy looked at the pile. There were fourteen.
+
+"That's how you're going to get me, isn't it? Chores until I surrender."
+
+"Welcome to camp, little brother."
+
+She said the last two words without thinking. Percy knew because she looked away immediately afterward.
+
+He didn't draw attention to them. He picked up the first shield, carried it to the water barrel beside the path, and started scrubbing.
 
 ---
 
@@ -526,19 +1186,26 @@ Almost.
 
 ---
 
-That night, Percy couldn't sleep. He lay in his bunk in the Poseidon cabin, staring at the ceiling, listening to Clarisse's soft snoring from across the room, and thought about everything that had happened since he arrived.
+That night Percy came back to Cabin Three with a question he meant to ask Clarisse. He waited until she'd put away her practice gear.
 
-He'd met his sister. He'd sparred with Thalia. He'd explored the camp and found the Tempest Hall and walked the border with Clarisse and sat by the lake with Annabeth. He'd pieced together the shape of this altered timeline — the changes, the inconsistencies, the sense that something fundamental had been shifted.
+"Does the lake ever feel strange to you?" he asked.
 
-But he hadn't learned anything that actually mattered. He hadn't found out who was responsible. He hadn't made any progress toward stopping whatever was coming.
+She looked up from a pile of wet towels. "Define strange."
 
-He was only... existing. In a world that wasn't quite his. Surrounded by people who didn't know him, except for one.
+"Like there's something moving underneath it. A current that shouldn't be there."
 
-Tomorrow, he'd do better. Tomorrow, he'd start making real progress.
+"It's a lake, Jackson. It has currents."
 
-Tonight, he only tried to sleep.
+"I know. But this one..." He stopped. He didn't know how to explain the sensation without claiming to know more than he did.
 
-And somewhere in the distance, thunder rolled, low through bone and dock-wood, air gone metallic and cold — low and patient and waiting.
+Clarisse considered him for a moment, then pointed at the hook by his bunk.
 
----
+"Tomorrow morning, before training," she said. "I'll show you where the springs enter. Silena drew a map last summer for an irrigation project. Maybe that'll answer your question."
 
+"You'd do that?"
+
+"If it gets you to stop asking the lake directly, yes." She threw him a towel. "Hang that up before it starts growing things."
+
+Percy did. Silena was already asleep, and he didn't want to wake her. Outside, the cabin lights were going out one by one.
+
+He still had no explanation for the changed camp or the years he couldn't remember. But tomorrow Clarisse was going to show him a map. He could begin with that.

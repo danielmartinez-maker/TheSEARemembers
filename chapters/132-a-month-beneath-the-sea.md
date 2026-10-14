@@ -390,6 +390,115 @@ The mended bracer still lay on the rail. Percy picked it up and followed.
 
 ---
 
+Percy went to Chiron after speaking with Thalia, carrying the shell and an empty page from Annabeth's notebook. He didn't know what answer he'd give his father, but he had finally decided that guessing about a month's absence was not the same as planning one.
+
+Chiron was at his desk sorting the next training rotation. Outside the open window the camp moved through its afternoon chores, hammering from the armory and the distant clatter of dining tables carrying through the heat.
+
+"A month in Atlantis," Chiron repeated. "Your father did not propose dates?"
+
+"No. He said I could choose when."
+
+"That is generous in one respect and incomplete in several others."
+
+Percy sat. "I was afraid you'd just say no."
+
+"I might," Chiron said. "But first I would want to know what exactly you would be doing, who would supervise you, and how your return would be arranged."
+
+"Triton would teach the deep-current training."
+
+"Every day?"
+
+"I don't know."
+
+"Would your father be present?"
+
+"He said he wanted to train with me."
+
+"That does not answer the question."
+
+Percy looked down at the shell. He had imagined daily lessons with both his father and his brother. But Poseidon had never promised a calendar; Percy had supplied the rest because he wanted it to be true.
+
+Chiron drew a simple table on the empty page: dates, training objectives, supervision, communication, return arrangements, and obligations at camp. He left every column blank.
+
+"You and Annabeth have commitments here," he said. "Your cabin has duties. You are still a child under camp's protection. The prospect of training with a god doesn't cancel those facts."
+
+Percy examined the blank table. "So if I get the answers, would you let me go?"
+
+"We could discuss whether a full month makes sense. We might agree to a shorter trial. I won't promise before I know the risks."
+
+A shorter visit hadn't occurred to him. He had treated a month like a package he could either accept or reject, even though his father hadn't demanded that.
+
+"I could ask for two weeks," he said.
+
+"You could ask for five days. The duration should follow the work, not the other way around."
+
+Percy laughed faintly. "Triton will think I'm negotiating a contract."
+
+"Then he'll be pleased you learned something from his etiquette lessons."
+
+They wrote a request together. Percy asked for a proposed training schedule, the names of the people who would actually teach, a defined return date, weekly contact with camp, and a route out if he wanted to end the visit early. He also asked whether any of the lessons required exposure to pressure or currents beyond the protected palace channels.
+
+Chiron read the draft and pointed to the line about Poseidon.
+
+"You should say plainly that you would like time with your father. Don't make it sound as though you only want technical training."
+
+Percy hesitated. "What if he agrees to the technical part and not that?"
+
+"Then you will have learned something about the offer before you've committed yourself."
+
+That stung. It was also the answer he needed.
+
+He added: *I'd like to know when you can actually be there, not just when the palace will be open to me.* It was difficult to write. He'd become used to treating his father's attention as something to receive gratefully whenever it appeared. Asking for a schedule felt demanding, though it was a perfectly ordinary thing to want from a parent.
+
+Chiron didn't praise him for the sentence. He simply waited until Percy finished.
+
+"What about Annabeth?" Percy asked.
+
+"She should not have to approve your training."
+
+"I know that."
+
+"But if you decide to go, she deserves accurate information about how long you'll be away and when you can speak. She isn't responsible for managing your father's schedule, and you aren't responsible for preventing her from missing you."
+
+Percy thought of the conversation by the lake that morning. Annabeth had said almost exactly that, though he'd been too frightened of losing her approval to hear it at first.
+
+"I'll talk to her again tonight," he said.
+
+"Good."
+
+He took the letter to the saltwater shore rather than try to send it through the canoe lake. There he placed the shell in a shallow pool beyond the breaking waves and read the question aloud. The blue thread brightened. For a moment a warm current touched his hands, and the shell lifted just enough to show the message had been accepted.
+
+There was no immediate reply. Percy was grateful. He didn't want to make a decision before he had the answers, and he didn't want to pretend his father had supplied them.
+
+On his way back he found Silena in the cabin, repairing a strap on one of his bags. She looked at the new training table and raised her eyebrows.
+
+"You're becoming organized."
+
+"Against my will."
+
+"Did you tell Annabeth?"
+
+"Yes. It didn't go perfectly."
+
+"That doesn't mean it was wrong to tell her."
+
+"I waited three days."
+
+"Then next time tell her on the first day. You can still change your mind afterward."
+
+Percy folded the letter copy and put it on his desk. "Chiron suggested a shorter visit."
+
+"Would you want one?"
+
+"Maybe. I don't know if a month is what I need or just what I was offered."
+
+Silena gave the repaired strap a final tug. "Then that's what you should figure out."
+
+He listened to the sound of the cabin fountain and looked at the still-blank calendar. The fact that he wanted to go had not changed. He was beginning to distinguish what he wanted from what he assumed he had to accept in order to receive it.
+
+
+---
+
 That evening, he found Annabeth on the dock.
 
 Honey-colored light lay across the lake, gilding each ripple and warming the dock planks beneath their weight. Swallows stitched the air overhead, and the far treeline stood dark against the brightness. Boots hooked on the lower rung, one hand resting on the morning's map, its margins now threaded with fresh notes, she watched the water. Percy halted several steps behind, planks warm beneath his shoes.
@@ -582,7 +691,49 @@ She kissed him again, brief answer to his answer. His hand remained in hers upon
 
 ---
 
-They went to dinner together.
+Before dinner Percy took his proposed calendar to Chiron.
+
+There were thirty boxes on the page. He had shaded five of them for lessons he would miss at camp, and another four for the nights he wanted to speak to Annabeth if she had time. They looked harmless until Chiron spread the actual training roster beside them.
+
+"You've included the autumn safety review," Chiron said.
+
+"I can make it up."
+
+"It isn't an examination. You're assigned to help younger campers prepare the boats. Somebody will need to cover your station."
+
+Percy looked down at the roster. He'd imagined a month underwater as a choice between himself and Atlantis. It was also a choice that made more work for people who stayed behind.
+
+"Could we move the visit?"
+
+"Possibly. But first establish whether the palace means thirty consecutive days or a training block with permitted visits home."
+
+"I thought that was obvious."
+
+"That's why we write it down."
+
+Chiron lent him paper. Percy drafted two questions to Poseidon and Triton: the proposed dates and whether he could return for camp obligations without disrupting the course. He did not add a third asking whether he was disappointing anyone by requesting a shorter visit. That question belonged to him, and he wasn't ready to give it to his father as though Poseidon should answer it.
+
+At the other end of the table Annabeth calculated the likely dates from her own lesson schedule. She'd brought her notebook, but not to design Percy's month for him.
+
+"If they answer tomorrow, we can compare the options," she said. "Not before."
+
+"Do you want to come for part of it?"
+
+"I might. I'm not promising a week I haven't checked."
+
+"Fair."
+
+Silena came in to collect the garden gloves she'd lent Chiron and glanced at the schedule. She saw the empty boxes where Percy hadn't written dates yet.
+
+"You're not leaving tomorrow, then?"
+
+"No. I'm finding out what the invitation actually allows."
+
+"Good," she said. "Then I can ask you to help with the laundry without feeling I'm stealing you from the king."
+
+Percy folded the questions and placed them under Chiron's seal for the outgoing current. The month wasn't canceled. It wasn't confirmed either. It had begun to look like something he could plan without turning other people's lives into assumptions.
+
+
 
 Clarisse and Silena had saved two seats at the Poseidon table, although Clarisse insisted the open places were coincidence. Steam rose from the serving bowls, carrying rosemary and roast, and the long hall buzzed with clatter and talk. Across from them sat Thalia, boots hooked around the bench, silver jacket draped over its back. Her gaze traveled from Annabeth to Percy, then to the shell's outline in his pocket.
 

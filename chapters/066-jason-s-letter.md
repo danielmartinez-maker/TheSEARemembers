@@ -12,7 +12,7 @@ Percy noticed first because he was down at the canoe lake skipping stones before
 
 Annabeth looked up, pencil stopping mid-equation. "No. That's— Percy, that's a Roman eagle."
 
-The bird — no, not a bird, an actual eagle, golden and massive with eyes like polished coins — circled once over the lake, screamed, and dove straight for the Big House. Campers stumbled out of cabins in pajamas to stare. From the Athena cabin porch someone shouted, "Is that an attack?" From the Ares cabin someone else shouted, "Dibs on the feathers!"
+The bird — no, not a bird, an actual eagle, golden and massive with eyes like polished coins — circled once over the lake, screamed, and dove straight for the Big House. Campers stumbled out of cabins in pajamas to stare. From the cabins near the armory someone shouted, "Is that an attack?" From the Ares cabin someone else shouted, "Dibs on the feathers!"
 
 Percy was already on his feet, pulling Annabeth up with him. "Come on."
 
@@ -44,7 +44,7 @@ Thalia looked down at the tube, then at Percy and Annabeth. The porch was too cr
 
 "Come on," Annabeth said softly. "Let's go to our spot."
 
-Their spot was the back of the Athena cabin overlook, under the big oak where Percy and Annabeth had spent long afternoons last summer. Thalia followed them without argument, which told Percy how nervous she was.
+Their spot was the little overlook behind Cabin One, under the oak where Percy and Annabeth had spent long afternoons last summer. Thalia followed them without argument, which told Percy how nervous she was.
 
 They sat in the grass. Thalia sat cross-legged, Percy sprawled on his stomach, Annabeth tucked against his side with her chin on his shoulder. Clarisse and Silena invited themselves and sat a little way off, pretending they weren't eavesdropping and failing completely.
 
@@ -60,7 +60,69 @@ Annabeth squeezed her arm. "Of course."
 
 "Yeah," Percy said. "Read, Thals."
 
-Thalia cleared her throat, glanced at the first line, laughed, wiped her eyes already, and began.
+Before Thalia began, Chiron came up the path carrying a receipt.
+
+She looked at him as though he were about to confiscate the letter.
+
+"I am not asking for the pages," he said. "The Roman courier requires a signed acknowledgment that the packet reached its intended recipient. The contents are yours."
+
+Thalia accepted the small paper. The eagle had been so impressive that nobody had stopped to ask whether it was a formal messenger or an omen from Zeus. Percy realized the distinction mattered. Zeus had withdrawn eagle escorts from his daughters during the quest; a bird sent by the Roman postal network was not a quiet restoration of those privileges.
+
+"Is this from Jupiter?" Annabeth asked.
+
+"From the legion's courier service, acting with its own authorization," Chiron answered. "I verified the seal before the delivery was accepted. There is no indication Zeus arranged it."
+
+Thalia glanced at the letter tube. "Good."
+
+She signed the receipt. Chiron tucked it away and asked whether she needed a private space in the Big House. She thanked him, then said she wanted to remain under the oak.
+
+"You can send your reply through the agreed channel," he added. "Please don't tie it to whichever eagle happens to land next. Couriers have routes. The Roman camp has rules about visitors and packages, and we will respect them."
+
+"Even if the eagle likes bacon?" Percy asked.
+
+"Even then."
+
+Chiron smiled and went back toward the porch.
+
+Thalia unfolded the letter again. Percy noticed she was holding the first page with both hands, as though she feared it would blow away despite the still morning.
+
+"There's something I should ask," she said.
+
+Silena lifted her head. "What?"
+
+"Jason wrote to me. He might not want every word read to five other people just because you're all here."
+
+Nobody argued. Percy had assumed Thalia would share it because she'd been waiting for months, but he recognized the problem. Jason had written to his sister, not to the entire Greek camp.
+
+"We can leave," Percy said.
+
+Thalia looked at him, surprised.
+
+"I didn't say that."
+
+"You don't have to say it."
+
+She studied the first page. Jason had included jokes addressed to Percy and Connor, and a section of greetings meant for friends. The later pages were written in the same small hand but had no headings. Thalia turned a few without reading them aloud.
+
+"I'll read as much as I want to," she said. "If I reach something private, I'll stop. You don't get to complain."
+
+Annabeth nodded. "I'd like to hear about the city. I don't need to know what he thinks of you when you're crying at two in the morning."
+
+Thalia gave her a look. "I never cry at two in the morning."
+
+"No, you wait until three."
+
+Percy laughed. It took some of the tension out of the moment.
+
+Clarisse and Silena moved a little farther away and began sorting the snacks Silena had brought. They weren't leaving, but they weren't leaning over Thalia's shoulder either. Percy sat back against the trunk beside Annabeth.
+
+Thalia glanced through the pages once more, looking for anything Jason had marked as private. He'd addressed jokes to Percy, a sketch request to Annabeth, greetings to the others and a long account of his own daily life. She chose to read it aloud, including the parts that made her nervous.
+
+"Okay," she said. "If I stop, you let me stop. This is his letter and my choice."
+
+"Fair," Percy said.
+
+She began to read.
 
 ---
 
@@ -114,7 +176,7 @@ Thalia cleared her throat, glanced at the first line, laughed, wiped her eyes al
 *2. How are Clarisse and Silena? You mentioned them. Clarisse sounds terrifying. Silena sounds nice. Are they nice to you? If Clarisse is mean to Percy, tell her I will come to New York and challenge her to single combat. Roman style. With witnesses.*
 *3. Is Percy still doing that thing where he talks to horses? Frank does that too, kind of, except he IS the horse sometimes. Do you think they'd get along? I think they'd get along.*
 *4. Is Annabeth still drawing? You said she draws battle plans in the margins of her notebooks. I draw in my margins too. Do you think she'd like my drawings? Be honest. Don't show her the toga one. Actually, show her. She'll laugh. I need someone to laugh.*
-*5. Do you think — okay, this is a real one. Do you think you'd ever come visit? There's a temple to Diana here. Small, on the edge of New Rome. Greek guests need permission in the legion — long story, old grudges — but family is family. Reyna says guests are allowed during spring break. Would you come? Would Chiron help arrange it? Would you bring Percy and Annabeth? I want you to see my bunk. I want you to meet Hazel and Frank and Arion (from a safe distance, he bites). I want to show you the Little Tiber and the forum and the baths (the baths are AMAZING, Thalia, they're hot and there's mosaics and no monsters, I fell asleep in one and Dakota drew on my face). I just want my sister to see where I live.*
+*5. Do you think — okay, this is a real one. Do you think you'd ever come visit? There's a temple to Diana here. Small, on the edge of New Rome. Greek guests need permission in the legion — long story, old grudges — but family is family. Reyna says a family visit may be possible during the next school break when the legion's schedule allows. Would you ask Chiron about it? I want you and Annabeth there, if you'd both like to come. Percy could come another time if the adults agree. I want you to see my bunk. I want you to meet Hazel and Frank and Arion (from a safe distance, he bites). I want to show you the Little Tiber and the forum and the baths (the baths are AMAZING, Thalia, they're hot and there's mosaics and no monsters, I fell asleep in one and Dakota drew on my face). I just want my sister to see where I live.*
 
 *Sorry. That got serious. Let's lighten up.*
 
@@ -214,7 +276,7 @@ Thalia stretched her legs out, crossing her boots. She looked calmer now, pink-e
 
 "So us," Thalia agreed. "Jason fights like a Greek, Reyna says. Messy and showy. Good. Means he's learned plenty since Hera took him. I only got to coach him on the visit."
 
-Silena chewed her lip. "Do you think— do you think they'd let us visit? For spring break, like he said? I've never left Camp except on quests. A whole city of demigods... shopping in New Rome..."
+Silena chewed her lip. "Do you think— do you think they'd let us visit? During the next approved break, like he said? I've never left Camp except on quests. A whole city of demigods... shopping in New Rome..."
 
 "You just want to see the shops," Clarisse accused, but fondly.
 
@@ -224,7 +286,95 @@ Silena chewed her lip. "Do you think— do you think they'd let us visit? For sp
 
 Percy sat up. "We should go. All of us. Thalia, Annabeth, me, you guys. Road trip to California. Iris-message ahead: WARNING, GREEKS INCOMING, HIDE THE PILLOWS."
 
-Everyone laughed. Thalia's laugh faded into something softer. She looked down at the tube in her arms. "I'd like that. To see his bunk. To meet Reyna and tell her hands off my brother. To—" She swallowed. "To see that temple to Diana. To know he's got gods watching him too."
+Everyone laughed.
+
+The question of who could actually visit Camp Jupiter turned out to be less funny.
+
+Chiron had heard Percy proposing a road trip, apparently, because he appeared beneath the oak with a small notebook and asked whether anyone was planning to travel to California without telling him.
+
+"Nobody's booked anything," Thalia said.
+
+"Good. The last time four of you traveled west together, the emergency paperwork arrived in a pile taller than my coffee cup."
+
+Percy winced. "We brought the bolt back."
+
+"You did. And the reports are still being filed."
+
+Chiron sat on the low bench beyond the tree and waited for the conversation to settle.
+
+"Jason has requested a visit," he said. "That's encouraging. But he hasn't invited six camp friends to a Roman military installation, and his letter is not travel authorization. Reyna has asked for a proposed date and the names of those who may come. The legion must agree. The transport must be arranged. Jason's own schedule must be respected."
+
+Silena's expression fell slightly. "So we might not all get to go?"
+
+"That's possible. His sisters should be able to make a private family request without it becoming a diplomatic event."
+
+Percy looked at Annabeth. Her pencil had stopped over the unfinished comic.
+
+"I want to go," she said. "But I'd rather Jason see Thalia than have everybody come because we think it sounds exciting."
+
+Thalia looked surprised.
+
+"You're his sister too."
+
+"I know. I'm not giving up my place. I'm saying he should get a say in what the visit looks like."
+
+Percy watched Thalia turn the letter tube in her hands. She'd spent years wanting to see her younger brother without having to ask permission from a string of adults she didn't trust. It was difficult to imagine how an official arrangement could feel like anything other than one more person telling her when she was allowed to be family.
+
+Chiron seemed to understand at least part of it.
+
+"If you submit a request for Thalia and Annabeth first," he said, "I can ask Reyna what options are available. Other friends may be invited afterward if Jason wants that and the Roman hosts consent. No one is being excluded from the family. We're starting with the people who need to be there."
+
+Clarisse was silent for a moment.
+
+"Fine. I wasn't actually going to stab a Roman because he told me to march," she said.
+
+"An excellent start to your diplomatic career," Chiron answered.
+
+Percy laughed.
+
+Thalia looked at the paper.
+
+"Will they make me behave like a guest instead of a sister?" she asked.
+
+"They may make you follow security procedures," Chiron replied. "That won't change who you are to him."
+
+"Zeus changes plenty of things by claiming he gets to."
+
+"Zeus isn't conducting this visit," Chiron said. "It is a request between the camps. The Roman authorities will have their own expectations, some of which you'll dislike. We can discuss them before you accept."
+
+Thalia glanced at Annabeth. The younger Grace sister was watching her carefully, not telling her what to do.
+
+"Then we ask for the two of us," Thalia said.
+
+"Good."
+
+"And Jason can ask to have others if he wants."
+
+"Yes."
+
+"And don't tell him we're making it a grand reunion or a whole delegation."
+
+"I won't."
+
+Percy stared at his own doodle of a Roman fish. He'd been so ready to picture an entire group visiting New Rome that he'd forgotten the purpose of the trip was to see an actual person who lived there. Jason was a boy with homework, drills, friends and a letter he'd worried over for pages. He wasn't a destination everyone could claim because his sister happened to be their friend.
+
+"I'll put the joke in the reply," Percy said. "You don't have to bring me."
+
+Thalia looked up. "I might still want you there."
+
+"Then ask Jason."
+
+Her face changed, and she nodded.
+
+Chiron handed them a blank request form with spaces for the visitors, the hosts and the preferred season. He didn't insist they fill it out immediately.
+
+"Talk to one another first," he said. "There's no benefit to submitting a date none of you can actually keep."
+
+He went back toward the Big House.
+
+The five of them remained under the oak, looking at the form. Annabeth took it, checked the headings and began making a list of what they didn't yet know. For once Percy didn't mind the question marks. They were about somebody they cared for, and answering them properly was worth a little patience.
+
+Thalia's laugh faded into something softer. She looked down at the tube in her arms. "I'd like that. To see his bunk. To meet Reyna and tell her hands off my brother. To—" She swallowed. "To see that temple to Diana. To know he's got gods watching him too."
 
 Annabeth paused in her drawing, looking up. "He asked if you were happy, you know. At the end. If you're really happy with school and camp."
 
@@ -280,7 +430,7 @@ What did Thalia write? Percy peeked once and saw fragments:
 
 *Reyna sounds cool. Tell her if she makes you march in your sleep again I'll come west and... actually tell her thanks. For looking out for my brother when I couldn't...*
 
-*Come home? No — you ARE home. I'll come to you. Spring break. Promise. Bring Percy and Annabeth. Warn the legion...*
+*Come home? No — you ARE home. I'll come to you. When the adults agree on a date, I'll ask you when you're free. No surprise trip. I'll bring Annabeth if you want her there...*
 
 *You're still my brother, idiot. Love — T.*
 
@@ -334,11 +484,95 @@ Behind them, the oak leaves whispered. Ahead, the dining pavilion buzzed, bacon 
 
 Thalia looked west, toward California, where her brother was probably marching to breakfast right now.
 
-"See you at spring break, Dirtbag," she whispered, and smiled through happy tears, and walked down to breakfast surrounded by family.
+"See you when we both have a date we can keep, Dirtbag," she whispered, and smiled through happy tears, and walked down to breakfast surrounded by family.
 
 ---
 
-*Reply enclosed with this letter, Camp Half-Blood to Camp Jupiter via Windy (bacon bribe included):*
+After breakfast the letter was still the only thing Thalia wanted to talk about, but she didn't want the Stolls talking about it for her.
+
+Travis had asked whether Roman envelopes were waterproof. Connor wanted to know whether the eagle was eligible for racing. Someone at the Hermes table said that if Jason had sent a letter on a golden eagle, perhaps the rest of camp could send their homework to Olympus on pigeons.
+
+Thalia ate three pieces of toast without answering any of them.
+
+Then she went to the Big House to prepare the reply.
+
+Percy followed with Annabeth, carrying the notebook and the little comic she'd drawn. Clarisse and Silena came later with the grass crown, which Silena had reworked into a flat woven ring that could be packed without crushing it.
+
+At the correspondence desk, Chiron set out three separate envelopes.
+
+"This one is for Thalia's personal letter," he explained. "This is for the permitted drawings and greetings. The third is for the photograph packet you've mentioned, if Jason wishes to receive it and the receiving courier confirms that it can be safely transported."
+
+Thalia looked at the photograph packet. The sealed envelope from Beryl's belongings had been stored in Cabin One since spring cleaning. She had not opened it, despite spending several evenings wondering what was inside. Now Jason's letter was in front of her, thick and full of jokes, and she could finally send the thing addressed to him without guessing whether he wanted it.
+
+"He didn't mention the envelope," she said.
+
+"He may not know it exists," Annabeth answered.
+
+"Then should we ask first?"
+
+"Yes," Chiron said. "You can describe what you found and give him a choice. Do not send a private object simply because you're afraid he'll say no."
+
+Thalia made a face, but she nodded. She placed the photograph packet in a locked drawer Chiron had offered for safekeeping until Jason replied.
+
+Percy watched her do it. At twelve he had thought a good family reunion meant everyone receiving every memory they had lost, preferably all at once. Now he knew that another person's history could be a burden as well as a gift. Annabeth heard her rewritten childhood through Thalia's memories, and he heard his Atlantis childhood through Triton and Tyson. Jason might need to decide when to hear about Beryl.
+
+The personal letter was harder to finish.
+
+Thalia sat at the desk with the first page of Jason's letter open beside her own stationery. She had written *Dear Dirtbag* three times, crossed it out twice and underlined it on the third attempt.
+
+"I want to tell him I missed him," she said.
+
+"Then tell him," Annabeth answered.
+
+"I did in the last letter. What if he thinks I have nothing else to say?"
+
+Percy looked at the pages from Camp Jupiter. "He said he missed you twice before he started talking about breakfast. I don't think he'll mind."
+
+Thalia snorted. "Good point."
+
+She wrote about the Triton training. She told Jason that Annabeth had been the one calling stop and that Percy had finally learned to listen when instructed. She described the spring dance and confessed she had asked Clarisse to show her a ballroom turn. Percy expected her to cross that sentence out. She didn't.
+
+At the bottom she answered Jason's question about her happiness.
+
+*I'm busy. School is difficult in ways fighting monsters never prepared me for. Sometimes I miss being at camp. I don't miss having to pretend I know what Dad wants every time he calls. I have friends here and at school, and Beth is growing into somebody I can talk with instead of only somebody I have to protect. I'm happy often enough that I notice when I'm not.*
+
+Thalia read the paragraph again.
+
+"Too much?"
+
+Annabeth was quiet. Percy didn't try to answer for her.
+
+"No," Annabeth said finally. "It's what you mean."
+
+Thalia folded the pages before she could second-guess them. Chiron gave her a clean envelope and asked whether she wanted to seal it herself. She did.
+
+The comic and the greetings went into the second packet. Percy added the marching fish, but he didn't sign anybody else's name. Silena placed the grass crown in a stiff paper sleeve and wrote a note explaining it was a greeting for Hazel, not an obligation to wear it. Clarisse decided to keep her arm-wrestling challenge as a joke in the letter rather than a separate formal invitation to Reyna.
+
+"She can accept if she wants," Clarisse said.
+
+Chiron checked that each package was labeled correctly without reading the personal correspondence. Then he gave Thalia the acknowledgment form.
+
+"These will leave on the next authorized route," he said. "You may hear back quickly. Or it may take time."
+
+"I know."
+
+Thalia signed the form and watched the packets go into the outgoing case. She didn't look as if she'd stopped worrying. She looked as though she'd done the one thing she could do today.
+
+Percy went back toward the cabins with Annabeth beside him.
+
+"Do you think it'll reach him?" he asked.
+
+"The courier has a destination and a receipt," she answered. "That's more than we had before."
+
+He glanced at Thalia ahead of them. She was walking a little more slowly now, the empty letter tube tucked under one arm. When she noticed Percy looking, she called him an eavesdropping seaweed and told him to stop staring.
+
+Percy grinned. The insult sounded relieved.
+
+He didn't know when the next letter would come. Neither did she. That wasn't a reason to keep this one from leaving.
+
+---
+
+*Proposed reply packet, to be reviewed for authorized delivery from Camp Half-Blood to Camp Jupiter:*
 
 *One comic by Annabeth Grace, 4 panels, full shading, toga redraw included.*
 
@@ -348,9 +582,9 @@ Thalia looked west, toward California, where her brother was probably marching t
 
 *One grass crown by Silena Beauregard, for Hazel.*
 
-*One arm-wrestling challenge by Clarisse La Rue, for Reyna. Witnesses required.*
+*One unsigned proposal for a friendly arm-wrestling challenge from Clarisse La Rue, to be included only if Reyna welcomes it.*
 
-*Love from your Greek family. Stay Roman. Stay ours.*
+*A packet of greetings, not a confirmed visit. Love from your Greek family. Stay Roman. Stay ours.*
 
 ---
 

@@ -532,11 +532,36 @@ Clarisse came in at ten past eight and looked at the crate and then at him and d
 
 "Four went in and one went out, and the one that went out is in a cabin up the hill in a coat pocket, and it's got a scab on it, and it's the best one I picked all day." Percy put the cloth over the tin and put the weight on the cloth. "Row four. High up. I had to use the pole."
 
-Clarisse looked at him for about three seconds with her arms folded and her face doing nothing at all, and then she said, "Row four's my row," and went up the ladder-steps to her bunk with the list under her arm, and at the top of them she stopped and did not turn around and said, in the voice she used for the last thing she said in a day, "It was a good row."
+Clarisse folded her arms and considered Percy's answer. Row four was hers. She had climbed it twice that day, checked the wind through the branches, and picked the fruit that would survive storing. She also knew which apple he'd given away. It had been the one with a small scab on the skin and the sweetness that made up for it.
 
-"Best row on the hill."
+"Did you tell her about the bruise?" she asked.
 
-"Best row on the hill," Clarisse agreed, and lay down, and the lamp on the hook by the door went on burning at the bottom of the hill for anybody walking up the west path late, in the dark, in October, which was nine lights and then one more, and which was, as of this evening, one more apple than the cabin had started the day with, and which Clarisse La Rue, who counted everything and crossed nothing off early, wrote down nowhere and did not need to.
+"It's an apple, Clarisse."
+
+"Apples go soft where they're bruised. That one won't keep until winter."
+
+"I told her to eat it tomorrow."
+
+"Then you did the sensible thing by accident."
+
+Percy took the cloth off the tin, checking that the remaining apples had enough space between them. The crate would have to go to the dry shelf in the morning. He reached for it, but Clarisse stopped him with one hand.
+
+"Not tonight. The bottom's damp from the field."
+
+"Then we'll change it tomorrow."
+
+"We will."
+
+She moved the crate clear of the cold window and wrote SHELF, MORNING in the margin of her list. Percy watched her pencil travel across the page and understood that she wasn't angry about the missing apple. She was making sure the others wouldn't go to waste.
+
+"Good row," he said.
+
+Clarisse glanced at him. "Best on the hill."
+
+"You would say that."
+
+"I picked it. I'm allowed."
+
+She carried the list upstairs without looking back. Percy replaced the cloth, left the crate where she'd moved it, and went to wash the sticky sweetness off his hands. The apple up the hill would be eaten before it spoiled. The ones on the shelf would have a better chance of lasting. Clarisse, who hated losing useful things, had managed to arrange for both.
 
 ---
-

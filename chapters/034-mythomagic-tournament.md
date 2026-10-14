@@ -608,6 +608,120 @@ Thalia ruffled her hair. "Finals. You vs. Seaweed Brain. Gods help us all."
 
 ---
 
+Nico had expected losing his semifinal to feel like being swallowed by the earth. Instead he was sitting on the steps outside the pavilion with his cards spread across his knees, trying to remember the exact move that had cost him the match.
+
+Ella had offered him a pretzel, then a second one when he said the first had not changed anything. Bianca had come out to sit beside him, but she hadn't tried to tell him that he was too young for the tournament or that third place was an achievement. She knew he didn't need a lecture.
+
+"Can I see the last hand?" she asked.
+
+Nico showed her the two monsters he'd been holding when Percy made the final play. He had been sure he could save one for the following turn. The problem was that there had been no following turn.
+
+"I should have played the skeleton right away."
+
+"Maybe. What would Percy have done if you had?"
+
+Nico examined his notes. He hadn't written that part down. He'd been too busy assuming Percy would respond the way their practice opponents did.
+
+"He's got that water card," Nico said. "He could have sent it back."
+
+"Then maybe you didn't have a perfect answer."
+
+"I know that."
+
+Bianca handed him the scoring pencil. "Good. Write down the question anyway. If you play him again, you won't have to guess why it went wrong."
+
+Nico was annoyed by how much he liked the advice. He copied the move and its likely reply, leaving space for another possibility he hadn't thought of. Then he began to sort his deck, one card at a time.
+
+Thalia joined them, carrying her own small box. She had lost her semifinal to Annabeth and was taking the result with a composure Nico didn't entirely trust.
+
+"You made Percy work for that win," she said.
+
+"He still won."
+
+"So did Annabeth."
+
+Nico looked up. "You didn't look very happy when she beat you."
+
+"I wasn't happy. I wanted to win."
+
+"But you're still talking to her."
+
+"She didn't cheat. She used a move I should have seen coming. I can be irritated and still admit she played well."
+
+Nico thought about that. "I want a rematch."
+
+"So do I."
+
+He grinned. They sat on the steps comparing the mistakes they'd made, with Bianca checking the scores against the posted bracket. Thalia had forgotten a terrain restriction in the middle of her match; Nico had been so certain his opponent would protect one card that he'd ignored a different threat. Neither mistake would be fixed by complaining about the outcome.
+
+Inside the pavilion, Grover was announcing the finals loudly enough to be heard through the wall. Ella kept correcting his pronunciation of the cards, which made the announcements take longer.
+
+"What happens if Percy's deck has a card he wasn't supposed to use?" Nico asked.
+
+"The judges check the deck lists before the final," Bianca said. "Chiron already asked for them."
+
+"Can we watch?"
+
+"From the observation table, if they have room."
+
+They went back inside. Percy and Annabeth were seated at opposite ends of the table while a Hermes counselor counted the cards in their decks against the registration lists. It was dull enough that most of the crowd had wandered to the drinks table, but Nico watched carefully. He wanted to know whether Percy had changed his strategy between matches, and whether Annabeth had prepared a different answer.
+
+Percy noticed them and waved.
+
+"I kept the same deck," he said. "I'm not smart enough to rebuild it in ten minutes."
+
+"You rebuilt it three times this week," Nico answered.
+
+"Yes, and it kept getting worse. That's why I stopped."
+
+Annabeth looked at the list in front of her. She had written her card names in tidy columns and marked her sideboard choices with little symbols. Percy hadn't looked at her notes. He knew how much she disliked it when people treated careful preparation as an unfair advantage rather than work she'd done herself.
+
+"You're going to be watching for the tide change," she said.
+
+"I would be foolish not to."
+
+"You weren't watching for it in the practice game."
+
+"I was. I just made a very poor decision."
+
+The way he admitted the mistake surprised Nico. Percy had been teasing everyone all morning, as though the tournament were mostly an excuse to eat snacks in public. Now he sounded like a person who'd spent weeks trying to understand the game and knew exactly how often he still got things wrong.
+
+The counselor returned both decks. Nico checked the count on Annabeth's list and found it correct. The referee gave him permission to help move the observation board into place, and he carried it carefully between the chairs. It was a small job, but it let him feel involved without pretending he'd won a match he hadn't.
+
+Thalia came to stand beside Annabeth.
+
+"Don't let him make you rush," she advised. "He does that when he's excited, and then you forget your own plan."
+
+Annabeth looked up. "You told Percy to do the same thing to me."
+
+"I am offering fair and balanced coaching."
+
+"You're offering contradictory instructions."
+
+"Also a kind of fairness."
+
+They grinned at each other. Nico felt a little better about his own loss. Thalia could still be annoyed about hers without turning the rest of the day into a complaint about being beaten by her younger sister.
+
+The players shook hands and took their seats. Nico settled with Bianca near the observation table, pencil ready. Percy glanced over once, saw the notes in Nico's lap and looked pleased.
+
+"Write down my mistakes," he told him. "I'll need them for Friday."
+
+"All of them?"
+
+"Maybe start with the ones that matter."
+
+Nico marked the first line of a fresh page. The tournament had become more interesting now that he wasn't trying to win it. He could see the choices both players made without needing them to prove that his own deck had been the best.
+
+During the first shuffle, Bianca handed him a clean scoring sheet. Nico hesitated before writing Percy and Annabeth's names. He had wanted somebody to record his own game with the same care, not merely announce that he'd lost. It occurred to him that he could do that for the next opponent who sat at a table after him.
+
+He wrote down each player's starting life total and marked the turn order. When the first card was placed, he recorded the actual move rather than his guess about what was coming next. It was difficult. He kept wanting to explain why someone was about to make a mistake. Bianca tapped the paper and reminded him that the record was supposed to tell them what happened, not what he'd hoped would happen.
+
+By the third turn he had found a rhythm. If either finalist wanted to argue about the result, there would be a record anyone could check. Nico liked the thought of being useful in a way that didn't require winning. He still wanted to win next time.
+
+
+
+---
+
 So. The finals. Percy vs. Annabeth. Ocean vs. Olympus. Idiot vs. genius.
 
 The whole camp gathered. Blankets in a giant circle. Chiron floated the final table on a *Misty Levitation* platform so everyone could see. Mr. D actually put down his magazine. "I suppose I shall watch the children gamble with pictures of my family," he said. "Do entertain me."
@@ -878,11 +992,12 @@ Grover raised his juice box. "To the champion! To the runner-up! To the ten-year
 
 Annabeth looked at Percy — fish boy, dark horse, keeper of their memories — and thought: next tournament, she was running three Zeuses and a side deck just for him. Next time, no smiles. Next time, war.
 
-But tonight, cozy and golden, she let him have the win. She let herself lean against her sister and watch the sky forget to be stormy, and the sea remember to be calm.
+Annabeth turned to Percy and pointed at his deck.
 
-Champion or not, she'd already won the best prize: people who stayed for juice boxes after losing.
+"Eleven shuffles," she said. "Next time Chiron imposes a limit."
 
-Even if one of them shuffled eleven times.
+"Since when are you in charge of that?"
 
----
+"Since now."
 
+Thalia laughed and offered Annabeth the last juice box. Percy started to protest, then noticed his own deck still needed sorting. Annabeth borrowed two cards to demonstrate the move that would have beaten him, and they were arguing about it long after the tournament table was cleared.

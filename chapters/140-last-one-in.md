@@ -440,6 +440,98 @@ Thalia led, confident in the dark, her black tank top a shadow, her olive cargo 
 
 They reached the dock, wood pale and slick with dew, cold biting through Percy's soles, boards creaking loud in the quiet. The lake stretched black-silver, mist curling, moon path trembling.
 
+Percy stopped at the root of the dock. The end looked farther away in the dark than it had that afternoon. He knew the water there was deep enough for the regular summer jumps, but knowing a place by daylight was different from checking it at midnight.
+
+"Hang on," he said.
+
+Clarisse looked back. "What?"
+
+"The rope."
+
+"What rope?"
+
+"The throw line. It lives in the red box by the dock shed."
+
+Silena looked toward the box, half hidden beneath a shelf. "I thought we were jumping, not sailing."
+
+"We're jumping into water we can barely see. We can take thirty seconds and make sure the rescue line hasn't been left in a knot."
+
+Thalia took her flashlight out. Percy saw the instinctive protest on Clarisse's face, then saw her swallow it. She walked over to the red box herself, lifted the lid and found the coiled line and orange flotation ring. The line had twisted around the ring's strap during the last practice session. She freed it without a word.
+
+Annabeth came closer, shoes squeaking on the boards. "Who checked the end of the dock today?"
+
+"Me," Percy said. "At noon."
+
+"Is that enough?"
+
+"No." He took the flashlight from Thalia and swept the beam along the boards. The end was clear, though a towel someone had left on the third plank made a pale shape he could have mistaken for a loose board. He collected it. "Somebody forgot this. We can put it back in the shed."
+
+Thalia stood behind Annabeth, her arms folded, watching the light cross the water.
+
+"We could just not do it," she said.
+
+Clarisse snorted. "You were the one who wanted a midnight dare."
+
+"And now I'm the one asking whether it's worth it."
+
+"Are you scared?"
+
+"I'm responsible for my sister."
+
+Annabeth took a step away from her. "I'm standing right here."
+
+"I know that."
+
+"Then ask me."
+
+Thalia looked at her. Something in her face loosened, then tightened again. Percy had seen that movement before. It was one thing for Thalia to say Annabeth could choose. It was another to watch her choose something that might make Thalia nervous.
+
+"Do you still want to jump?" Thalia asked.
+
+Annabeth looked out at the black water and hesitated long enough that nobody could pretend she wasn't considering it.
+
+"I want to," she said. "But I don't want us all to jump at once unless one person is already in the water. And I want the ladder checked."
+
+Clarisse raised her hand. "I'll go first. I can tread and watch the landing."
+
+"You're not a lifeguard," Thalia said.
+
+"I'm a trained swimmer who knows this dock. That matters, though it isn't magic."
+
+Percy looked at the water. The open section ended well before the reeds, and nobody planned to swim beyond the buoy line. He had to resist the temptation to say he could make the lake safe. He could influence water, yes, but that was not the same as knowing every moving person and every hazard at once.
+
+"Then we stay inside the marked section," he said. "No diving headfirst. No racing to the other shore. We get out when we're cold or tired."
+
+"That's not very daring," Silena said.
+
+"Being out here in this cold in our bathing suits is more than daring enough."
+
+Silena inspected the ring and set it beside the dry towels. "I would like to make one formal objection to freezing on purpose."
+
+"Noted," Annabeth said. "Objection overruled by the person who brought three towels."
+
+"Four," Silena corrected. "I'm not sharing a wet one."
+
+They checked the ladder. One rung was slick with algae. Percy wiped it with the spare towel they'd found and tested his foot against it; it would still be slippery, and he said so. Clarisse pointed to the upper rung, where their hands could hold while they climbed. Thalia set her flashlight by the towel pile with its beam turned toward the ladder rather than the dark water. The throw line lay coiled beside it, free of knots.
+
+No one cheered at this part. Percy was glad. It would have felt silly to cheer for a ladder, and he knew that was exactly why campers sometimes skipped checking one.
+
+Annabeth came to stand beside him. She took his hand, and her fingers were cold through his.
+
+"You didn't want to be the last one in," she said.
+
+"Still don't."
+
+"Then you're about to lose."
+
+"I've survived worse."
+
+She looked at the water, swallowed and smiled as if she'd made an irritating calculation and decided it was accurate.
+
+"All right," she said. "Clarisse goes first. Then us. I reserve the right to scream."
+
+"That's the entire point," Percy said.
+
 "Okay," Clarisse whispered, too loud, her breath fogging. "Rules. Jump off the end. No powers, Percy. No warming the water. Scream if you want. Cold will steal your breath."
 
 "You're trying to scare Annabeth," Thalia whispered back, protective, arm around Annabeth's hooded shoulders, the gray fleece rustling. "Don't. She's braver than you."

@@ -4,7 +4,7 @@ The bus let them out at the foot of Half-Blood Hill just after noon, and for a l
 
 Percy stood on the gravel shoulder with his sea-green duffel over one shoulder and Riptide heavy in his pocket and stared up at the pine tree on the crest. The Golden Fleece was not there yet in this summer, but the tree was still tall and dark green against a clean blue sky, its branches moving in a wind that smelled like strawberries and salt. Below it the valley spread out, the cabins in their horseshoe around the green, the Big House white against the trees, the lake flashing silver past the woods, the climbing wall spitting lava, the arena loud with afternoon practice.
 
-He had dreamed about this hill in the Underworld. In Hades's cold entry hall with the dead courtiers watching, in the hot crush of Los Angeles traffic, on the night bus east when Grover snored against the window and Annabeth slept with her head tipped back and Thalia drove with both hands white on the wheel. He had dreamed about coming home dirty and tired with the quest done and his friends still breathing beside him.
+He had thought about this hill in the Underworld. In Hades's cold entry hall with the dead courtiers watching, in the hot crush of Los Angeles traffic, on the secured eastbound transfer after Santa Monica, when Grover snored in the seat behind them and Annabeth slept with her head against the window while a court courier handled the route. He had dreamed about coming home dirty and tired with the quest done and his friends still breathing beside him.
 
 Now it was real and his throat was too tight to say so.
 
@@ -24,15 +24,53 @@ She nodded, then bumped her shoulder hard into his on purpose. “Yeah. We made 
 
 They went.
 
+The return was quieter than Percy expected until they reached the camp boundary.
+
+The transport from Olympus had brought them to a nearby terminal, where Chiron's bus driver met them with a list of names and permission slips. It seemed strange that a party returning from the throne room of Zeus still needed to show paperwork to get back through the camp's ordinary transportation network. Annabeth had explained that the list was how Chiron knew all four of them had made the transfer.
+
+Percy had looked at his own name and been grateful it was there.
+
+Near Half-Blood Hill, the driver had asked whether the injuries needed to be checked before the celebration. Thalia answered that they had received medical care, then admitted she had a follow-up appointment to arrange for her head injury. Annabeth's hand was still bandaged, Grover's hooves needed rest, and Percy's ribs hurt when he laughed.
+
+"Chiron will want to know," the driver said.
+
+"We'll tell him," Annabeth promised.
+
+Percy knew she'd hold him to it.
+
+The hill itself looked smaller than he remembered. There were fresh repairs on the path where rain had washed out the gravel, and the strawberry fields had been cleared of the dead growth he'd noticed before leaving. Someone had repainted the marker near the boundary. Camp hadn't stood still waiting for the quest to end. That was a relief.
+
+Grover was first to notice the new irrigation board at the north rows.
+
+"It held!" he shouted.
+
+Percy followed his gaze. The board they'd installed together before the astronomy night was still holding the flow in the proper channel. There was no washout beside the young maples. Grover stopped, unexpectedly, to look at it.
+
+"You can check on it later," Annabeth said.
+
+"I know." Grover looked down at his hooves. "I just thought I ought to see."
+
+Thalia put a hand on his shoulder and pointed up the hill. The sounds of camp were growing louder. Whatever else they needed to repair, somebody had kept the ordinary work going.
+
+Percy reached the border and felt the pressure of the wards settle around him. It was not the same as the ocean recognizing him. It was a barrier Chiron and the campers maintained, one that had been threatened by accusations long before the quest began.
+
+He looked at the others. Thalia's face was tense but eager; Annabeth was smiling through exhaustion; Grover seemed to be deciding whether to run straight into the grass or behave like someone recently entrusted with important responsibility.
+
+"Home?" Percy asked.
+
+"Home," Annabeth answered.
+
+They crossed together.
+
 At the top of the hill, by the hilltop pine, the camp was already waiting.
 
 Someone on Pegasusrider duty must have spotted the bus, because the bell at the Big House was ringing and kids were pouring out of cabins and the arena and the strawberry fields. Argus was coming up the path at a jog, his hundred eyes blinking all over his arms and neck. Chiron was there in his wheelchair form at first, then with a ripple he stood in his full centaur height when he saw them, his tail swishing hard. And in front of everyone else, sprinting uphill so fast her brown ponytail streamed behind her, was Clarisse.
 
 Percy had exactly one second to drop his bag before she hit him.
 
-Clarisse La Rue did not hug like other people. She hit like a boarding wave. She slammed into Percy chest to chest and wrapped both arms around his ribs and squeezed until his feet left the ground.
+Clarisse La Rue did not hug like other people. She hit like a boarding wave. She caught Percy by both shoulders, saw his bandaged ribs and stopped herself before the usual crushing hug. Instead she wrapped one careful arm around him and kept the other hand braced against his back.
 
-“Ow,” Percy wheezed. “Clarisse — air — need air —”
+“Hey,” Percy said, breath catching. “Broken ribs are not part of the welcome package.”
 
 “Shut up,” Clarisse said fiercely into his shoulder. Her voice was thick. “You idiot. You absolute idiot. Do you know how long we waited? Do you know what it was like getting the Iris-message that you were in LA and then nothing for two days?”
 
@@ -64,19 +102,19 @@ The Big House porch was crowded with people trying to pretend they were not cryi
 
 Chiron had them sit in the wicker chairs with lemonade that tasted like real lemons and blue cookies that Sally Jackson would have approved of, while Mr. D, in a purple Hawaiian shirt with leopards on it, pretended to read a magazine and actually listened to every word.
 
-Thalia did most of the official reporting, sitting straight with her hands on her knees. She told about the bus and the Kindly Ones and the St. Louis Arch and the Lotus Hotel and Barstow and the Furies and Los Angeles and DOA Recording Studios and the dead courtiers and Hades on his bone throne. Her voice stayed steady until she got to the part about Bianca and Nico di Angelo standing by the throne, and then it wavered just once.
+Annabeth led the official reporting, with Percy and Grover each giving a separate witness account and Thalia describing what she'd seen as the fourth traveling guardian. She told about the bus and the Kindly Ones and the St. Louis Arch and the Lotus Hotel and Barstow and the Furies and Los Angeles and DOA Recording Studios and the dead courtiers and Hades on his bone throne. Her voice stayed steady when she described the protected young residents at Hades's court. She did not state their names or location in a room crowded with people who had not agreed to keep that information confidential.
 
-Annabeth picked it up without missing a beat, the way sisters do. Annabeth Grace, daughter of Zeus, with her storm-gray eyes and her quick hands sketching a map of the Underworld lobby on a napkin as she talked. She explained about the pearls and the hellhounds and the bargain and how Percy had kept the quest moving even while he wanted news of his mother's spirit.
+Annabeth picked it up without missing a beat, the way sisters do. Annabeth Grace, daughter of Zeus, with her storm-gray eyes and her quick hands sketching a map of the Underworld lobby on a napkin as she talked. She explained the pearls, Hades's hellfire, the returned helm and the limit of Percy's written inquiry about his mother's welfare, then passed the narrative to Grover for the route home.
 
 Percy tried to interrupt to say Annabeth was the one who had talked the hellhound down with a spark and a calm voice, and Thalia tried to interrupt to say Grover was the one who had played his pipes in Hades’s hall until even the dead stopped to listen. Grover, for his part, kept trying to say he had been terrified the whole time, which made Chiron smile into his beard.
 
-Mr. D lowered his magazine. “So Hades does not have the bolt,” he said.
+Mr. D lowered his magazine. “So Hades never had the bolt,” he said.
 
-“No, sir,” Thalia said. “He doesn’t. Someone else took it. Someone who wants war.”
+“No, sir,” Thalia answered. “The bolt was in Ares's possession. It was recovered and delivered under guard to Olympus. Hades was also robbed, and the inquiry into the theft is still open.”
 
 “And your mother, Percy?” Chiron asked gently.
 
-Percy swallowed. “In Elysium. Dad told me on Olympus. She’s at rest. I wanted to see her, but — I didn’t. I have to learn how to miss her here.”
+Percy swallowed. “The Underworld records say she isn't under punishment. I got an answer in writing. I wanted to see her, but the court wouldn't allow it. That's what I know.”
 
 Silena, who had squeezed onto the porch steps with Clarisse, reached up and gripped his wrist hard. Clarisse’s hand landed heavy on his shoulder and stayed there.
 
@@ -98,11 +136,209 @@ Percy looked sideways at Annabeth, who was pink to her ears and trying very hard
 
 “Sisters,” Thalia announced to the porch at large. “My sister dragged a hellhound with science. Beat that.”
 
-“My sister called lightning on a Fury bus,” Annabeth shot back, grinning despite herself. “Beat that.”
+“My sister stood watch when everyone else was exhausted,” Annabeth answered. “That's worth remembering too.”
 
 Their eyes met, gray on blue-green-gray, the exact same storm color in different faces, and something settled between them that had been building since winter. Not rivalry. Not the old sharp edge of who was the better daughter of Zeus. Just pride. Just home.
 
 Chiron saw it and smiled.
+
+---
+
+Chiron did not let them leave the porch until the written report had been checked.
+
+He waited for the applause to settle, then asked the campers to give the returning travelers room. Silena and Clarisse stayed because they were responsible for Cabin Three and the watch schedules; the Grace sisters stayed together, Grover took a chair with his hooves tucked beneath him, and Percy watched Chiron spread the official council notice across the table.
+
+"This is the document that matters," the centaur said. "The master bolt has been returned and accepted. The immediate mobilization against Poseidon's household is suspended. The inquiry into Ares's involvement remains open."
+
+Clarisse leaned forward. "Then are the extra border patrols canceled?"
+
+"Not entirely," Chiron answered. "We can stop treating a divine war as imminent. We still need ordinary patrols, and monster movement has not suddenly ceased."
+
+"Good," Clarisse said. "Because we finally got the roster working."
+
+Silena looked at Percy. "What exactly happened to the people Medusa had turned to stone?"
+
+He had been trying not to think about Uncle Ferdinand and the other victims, partly because the quest had taken him so far from the garden that their rescue seemed like something out of another story. Silena's question reminded him it wasn't.
+
+"The recovery team took three of them first, including Grover's uncle," he said. "The others were recorded and left for specialists. We have contact numbers, but we don't know how many have recovered."
+
+Grover handed over the folded transfer sheet. He had kept it dry through the Underworld and the Lotus by wrapping it in waxed paper. Chiron examined the names.
+
+"I'll request an update," he said. "You can help, Grover, by identifying which people in the garden were satyrs and which names you recognized. No one will ask you to promise recovery before we've heard from the people treating them."
+
+Grover nodded. His relief was complicated. Percy could see he wanted to run straight to the depot and find his uncle. For now there was an actual person Chiron could contact and an agreed way to ask.
+
+Annabeth opened her notebook. "We also need to send another warning about the Lotus. The nymph depot should have the first report, but I don't know whether Hestia's messengers confirmed receipt."
+
+Chiron checked the second page of the council notice. There was a short entry showing a warning had been received by the hearth messenger network. It did not claim the guests inside had been rescued.
+
+"Then it's still an open problem," Annabeth said.
+
+"Yes," Chiron answered. "And one that requires people with specific knowledge of the hotel. It is not a task for injured children who have just returned home."
+
+Percy was grateful to hear that and guilty at the same time. The boy in the sports jersey was still somewhere in a game he could not finish, as far as Percy knew. He wanted somebody to help him. He also knew going back inside without a way to release the guests could simply add four more missing people.
+
+Chiron asked them to describe the arrangements they had left behind: Eva had gone to a trusted contact; Martin had returned responsibility for the journey to the authorized court transport; the recovery team had received numbered records of Medusa's statues; and the damaged route through the Arch had been reported to the local emergency workers.
+
+"I'll file each part separately," Chiron said. "We shouldn't make other people guess which problem a message refers to."
+
+Thalia shifted uncomfortably in her chair.
+
+"And the sky-gifts?"
+
+Chiron looked at her, then at Annabeth.
+
+"Your father's restrictions remain in effect until the council review he promised. I have a copy of the order. You will not be trained as though an eagle escort or extra divine storm assistance has been restored."
+
+Annabeth exhaled. Her face showed more relief than disappointment, and Percy understood why. It meant Chiron wasn't going to pretend Zeus had become a kinder father because the bolt was home.
+
+"Will you tell the other counselors?" Thalia asked.
+
+"Only what they need for safety and training. The private terms of your conversation with Zeus remain yours to describe."
+
+Thalia nodded once. She had been braced for somebody else to turn that conversation into a moral lesson for the camp. Chiron wasn't doing it.
+
+Silena unfolded a second sheet. It was her own list of outstanding infirmary supplies.
+
+"Now about injuries," she said.
+
+Percy groaned.
+
+"You've been gone long enough to collect every kind of bandage and still somehow return without the ones I'd have chosen," Silena told him. "The infirmary wants to see you, Annabeth, and Thalia before dinner. Grover should have his hooves checked too."
+
+"We've already been examined," Percy protested.
+
+"And now you're home. That doesn't make your ribs hurt less when Clarisse hugs you."
+
+Clarisse looked offended. "I was careful."
+
+"You were careful for Clarisse," Silena replied. "Which is a different standard."
+
+Chiron asked Percy whether he had experienced any new pain since traveling from Manhattan. Percy admitted his shoulder ached and that he'd slept poorly. Annabeth mentioned the healing burn and her fatigue, Thalia the lingering headache after the Arch, and Grover the soreness from the pipes and walking.
+
+The centaur wrote it down, then passed Silena the appointment slips.
+
+"Rest is part of the return," he said. "I want them to have a reasonable schedule after the examination, not a celebratory training drill at dawn."
+
+Clarisse closed her mouth. Percy could tell she'd already planned exactly that drill.
+
+"So no sparring tomorrow?" he asked hopefully.
+
+"Not unless the infirmary approves," Chiron answered.
+
+Percy smiled at Clarisse. She scowled at him.
+
+The formal discussion ended with smaller questions. Who would check on the original courier record from St. Louis? Could the satyr council help with the Medusa recovery? Which cabin counselor should distribute the Olympian notice? How would the Hermes campers be reminded not to turn a visitor's private details into public entertainment?
+
+Nobody solved everything on the porch. They assigned people to follow up. Percy realized that was a more useful ending to a quest than a single shout of triumph and a promise that all the trouble was over.
+
+When Chiron finally dismissed them, the afternoon celebration was still going on outside. The camp had waited long enough to welcome them. Percy was grateful it had also learned to keep working while they were gone.
+
+---
+
+The infirmary smelled exactly the same.
+
+Percy had expected that to be comforting. Instead he found himself standing at the threshold, suddenly unable to take another step, while a younger camper carried a bucket of used bandages past him and asked whether he was blocking the door on purpose.
+
+"No," Percy said. "Sorry."
+
+Silena came back from the supply cabinet with four forms and the expression of someone who had waited weeks to be officially allowed to fuss over her brother.
+
+"Sit there," she said, pointing at the nearest empty bed. "You can complain after we've checked you."
+
+"I'm not going to complain."
+
+"Your face is already complaining."
+
+He sat.
+
+Thalia took the chair nearest the window, refusing a bed until the medic asked her to. Annabeth settled beside her sister and opened the folder with the emergency notes from the Arch. Grover perched on the edge of a second bed with his shoes dangling from one hand, because the infirmary floor felt too clean for hooves.
+
+Nobody was seriously ill. Percy knew that. The fact they had been allowed back to camp should have been proof that they could stop worrying for the afternoon. But he kept seeing the metal wall of the Arch peeling outward, and the way Thalia had vanished into smoke when he'd gone down the stairs. A room full of clean gauze could not make the image go away.
+
+The camp medic asked him to describe the pain in his ribs. Percy was about to say it was practically gone when Silena raised an eyebrow. He changed the answer.
+
+"It hurts when I laugh hard. And when I twist fast."
+
+"Then no sparring yet," the medic said.
+
+Clarisse, who had come along to carry the baggage and was waiting by the door, gave a theatrical sigh.
+
+"I wasn't planning to hurt him."
+
+"That's not the same as planning a suitable exercise," Silena replied.
+
+The medic listened to Percy's breathing, checked the older cuts, and asked him about the fall into the Mississippi. Percy answered the questions without turning it into a tale about the river accepting him. He didn't want the examination to become another debate about what Poseidon's son ought to survive. He wanted to know whether the shoulder still needed rest.
+
+It did.
+
+On the next bed, Grover reluctantly showed the rubbed places on his hooves. He'd wrapped them himself after the motel in St. Louis and then kept walking because he didn't want to become the reason the others stopped. The medic cleaned the skin and asked him to avoid long hikes while it healed.
+
+"You can still inspect the strawberry fields," she said. "At a reasonable pace."
+
+Grover looked relieved. "Juniper's maples need checking."
+
+"Then check them. Don't race there."
+
+Thalia submitted to a brief follow-up review of the head injury and promised to report worsening symptoms. She did not make a joke. Percy thought that might be the strongest sign she was actually listening.
+
+Annabeth's hand was healing, but she had been using it too much. The medic gave her a fresh dressing and asked her not to practice lightning until she had recovered and the training staff reviewed the unsafe water combination. Annabeth protested only once.
+
+"It was an accident," she said.
+
+"That's why we need to understand it before repeating it."
+
+Annabeth nodded. She had said almost exactly the same thing to Percy on the road.
+
+When all four assessments were finished, Silena asked the medic for copies of the instructions. She said she'd put them in the proper cabins rather than keeping one shared sheet nobody could find.
+
+Percy watched her add his name to the infirmary follow-up list. He hadn't expected to feel embarrassed about it. His sisters were looking at him as though he'd come home from a school trip with missing homework rather than from a meeting with the king of the gods.
+
+"You don't have to keep checking on me," he told her.
+
+Silena stopped writing. "I know."
+
+"Then why do you?"
+
+"Because you spent weeks beyond the border and I had to wait for messages from people who didn't know whether you were alive. And now you're standing in front of me with a shoulder that hurts, telling me not to check."
+
+Percy looked away. She wasn't asking him to apologize. She was explaining the cost of not knowing.
+
+Clarisse came to stand beside the bed. She carried the empty bag he had taken west. The red thread she'd tied around its handle was still there, frayed but intact.
+
+"We kept your patrol slot open for a week," she said. "Not because we thought you'd come back early. Because nobody wanted to write someone else's name over yours."
+
+Percy felt his throat close.
+
+"Then we had to," Clarisse went on. "Camp kept running. We moved shifts. Silena made sure people had equipment. The boats stopped leaking. It didn't mean we'd stopped caring."
+
+"I know."
+
+"No, you don't." She pushed the duffel into his lap. "Not entirely. You weren't here."
+
+Percy didn't argue. He had missed them while he was away, but missing somebody was not the same as waiting for them with a camp roster in your hands and a messenger who could not say when the next report would arrive.
+
+Silena folded the papers and gave him a less stern look.
+
+"You can help unpack when we're done," she said. "You can't train tomorrow. You're very qualified to fold towels."
+
+"That sounds like a punishment."
+
+"It might be."
+
+Clarisse smiled. "Welcome home."
+
+Percy took the follow-up sheet and the duffel. The infirmary had not made him feel heroic. It had given him a list of ordinary things to do so that he could stay home long enough to heal. He found that unexpectedly appealing.
+
+On the porch outside, Grover stopped to watch a pair of satyrs carrying seedlings toward the garden. Annabeth was already talking to Thalia about the instructions and how to tell the younger Cabin One campers that no, they were not going to demonstrate new lightning tricks tonight.
+
+Percy looked at the paper in his hands, then down the path toward Cabin Three.
+
+"Come on," he told his sisters. "Show me where you keep the towels."
+
+Silena laughed. Clarisse rolled her eyes.
+
+Neither let him carry the heavy bags.
 
 ---
 
@@ -142,9 +378,9 @@ Zoë’s ears went red. “Ella. Thou art supposed to keep secrets.”
 
 “Ella keeps books, not secrets,” Ella said happily, and went back to stealing Percy’s corn.
 
-Zoë sat down across from Percy with her bow laid carefully beside the bench, out of Nico’s grabby reach. She studied Silena’s flower boxes and Clarisse’s upside-down banner with a faint, unwilling smile.
+Zoë sat down across from Percy with her bow laid carefully beside the bench, out of reach of the younger campers. She studied Silena’s flower boxes and Clarisse’s upside-down banner with a faint, unwilling smile.
 
-“Thou hast made quite a mess in the Underworld, from what Ella recites,” Zoë said. “She has told the story four times already. Each time Grover grows braver and the hellhound grows larger.”
+“Thou hast made quite a mess in the Underworld, from what Ella recites,” Zoë said. “She has told the story four times already. Each time Grover grows braver and Cerberus grows larger.”
 
 “Ella exaggerates for effect,” Ella said proudly. “‘Effect’ means making Zoë laugh. Ella succeeded twice.”
 
@@ -158,45 +394,319 @@ Zoë looked away, ears red again. “Someone had to keep order. The Poseidon cab
 
 Clarisse snorted. “She missed us. She just speaks Hunter.”
 
-And then there was Nico.
+Later, when the pavilion had thinned out, Chiron asked Percy and his sisters to join him at the Big House.
 
-Nico di Angelo stood at the edge of the pavilion like he wasn’t sure he was allowed to come closer, ten years old and too thin, his black Stygian sword still too big for him, his green cap twisted in his hands. Bianca was behind him with a hand on his shoulder, watching the crowd with wary dark eyes. Hades had let them go — not free, not exactly, but up for the summer, to see the world they had missed while they slept in the Lotus Hotel. A gesture of good faith. A reminder that even the Lord of the Dead could be a father.
+There were two visitors waiting in the sitting room. Percy recognized them from Hades's court even before he could make out their faces. Nico stood close to a chair, clutching his green cap. Bianca sat beside him with her arms folded, looking as though she was trying to decide whether she could trust a room full of living people.
 
-Percy saw him and stood up so fast his bench tipped.
+"Nico?" Percy asked.
 
-“Nico!”
+The boy looked up and grinned, so suddenly that Percy felt his own face respond.
 
-Nico lit up like someone had turned a light on inside him. He ran full tilt across the pavilion and Percy caught him and swung him around while everyone cheered.
+"You said the camp had pizza," Nico said.
 
-“You came! You really came!” Percy said.
+"We do."
 
-“You said there was pizza,” Nico said solemnly, then ruined it by grinning so wide his cheeks hurt. “And Bianca said I could learn to swordfight from Clarisse if I was brave.”
+"Bianca said we couldn't ask you about it until we got permission to come."
 
-“You were brave in the palace,” Percy told him. “You stood by the throne and didn’t flinch. That counts.”
+Chiron held up a sealed message.
 
-Clarisse crouched down to Nico’s level, which was terrifying and kind at the same time. “You want to learn the sword, little ghost?” she said. “First lesson: never drop it. Second lesson: always eat before practice. Here.” She handed him her entire second plate.
+"The request came through Hades's court," he said. "They have permission for a supervised summer visit, with the conditions agreed to by their guardian. The terms include confidentiality about their residence and movements. These are not details to be repeated to the Olympian court."
 
-Nico took it with wide eyes. “Really?”
+Percy glanced at Thalia and Annabeth. They'd sworn to protect the children in Hades's care, and the fact the visitors had come to camp now did not cancel the need for discretion.
 
-“Poseidon cabin shares,” Silena said, sitting down next to Bianca and patting the bench. “Come sit, Bianca. Tell us what books you liked before — Ella will find them for you.”
+"We didn't tell Zeus where you were," Annabeth said to Bianca.
 
-Bianca hesitated, then sat. Ella immediately climbed into her lap and began reciting titles at speed. Zoë sat on Bianca’s other side with her bow across her knees and began quietly correcting Ella’s pronunciation, which Ella loved. Nico climbed up next to Percy and talked with his mouth full about the elevator ride up from the Underworld and how Grover had been sick in the backseat and how Annabeth had let him hold her Yankees cap for luck.
+"I know," Bianca answered. "Father told us he received no report from you on that question."
 
-Percy listened and watched his sisters folding these strange new kids into camp like they had always belonged, and his chest ached in a good way.
+Thalia studied her. "You chose to come here?"
 
-Bianca told Silena quietly that Nico had not slept well since they came up, that elevators scared him and sunlight gave him headaches and he kept asking if Hades would change his mind. Silena listened with her full attention, the way she always did, and then she took Bianca’s hand and said, “Then we’ll make sure he’s too busy and too loved to worry. Archery with Zoë in the morning. Sword with Clarisse after lunch. Ella will read to him at night. And you — you’re sleeping in my cabin until we build you something better. No arguments. Sisters look out for each other.”
+Bianca nodded. "I wanted Nico to see somewhere besides the palace. I wanted him to meet people his own age. That isn't the same as promising we'll stay forever."
 
-Bianca’s eyes filled. “You don’t even know us.”
+Nico looked disappointed.
 
-“We know enough,” Clarisse said gruffly, handing Bianca a second cookie like it was a weapon. “You kept your brother alive in the palace of Hades. That’s camp material right there.”
+"I want to stay if they have sword lessons."
 
-Ella climbed onto the table and declared, “Bianca di Angelo! Nico di Angelo! New chapters! Ella will remember you! ‘And the camp grew by two, which is good, because love multiplies when divided, page one!’”
+"One day at a time," Bianca told him.
 
-Zoë reached up and gently lifted Ella down off the table. “Thou canst not shelve people, little one.”
+Percy liked the way she refused to make the boy a promise nobody had authorized. Hades had permitted a visit, not written their future for them.
 
-“Ella can shelve memories,” Ella said. “Ella already did.”
+Silena, who had been standing near the door, came closer.
 
-Quest done. Everyone home. Everyone fed.
+"You can have the guest room by the Big House while Chiron sorts out your schedule," she said. "It's quiet, and the windows face the gardens. If you want food, I can bring you some. You don't have to meet the whole camp tonight."
+
+Bianca looked startled. "You'd do that?"
+
+"Yes. I know what it's like when everybody wants to ask questions just because you've arrived somewhere new."
+
+Clarisse crossed her arms. "And if Nico wants to learn a sword, I'll check with Chiron and start him with a wooden one. Not that giant thing he's carrying."
+
+Nico looked down at the sword and reluctantly slid it into its sheath.
+
+"Can I still watch?"
+
+"You can watch," Clarisse replied. "Watching comes before trying to hit somebody."
+
+Percy wanted to laugh. That had not been the way Clarisse first taught him to spar. She caught his eye and looked away as if she knew exactly what he was thinking.
+
+Ella fluttered through the doorway with a book tucked beneath one wing.
+
+"Visitors," she said brightly. "New readers!"
+
+Chiron held up a finger.
+
+"Names and personal histories stay inside this room unless our guests choose otherwise. Understood?"
+
+Ella looked from Bianca to Nico and back.
+
+"Understood," she said, then added softly, "Ella can keep a book closed."
+
+Bianca's expression eased. She sat forward, no longer trying to make herself smaller in the chair.
+
+"Can I ask about the library?" she said.
+
+Ella nearly burst with excitement. Zoë, who had followed her in and had been quiet near the door, offered to show Bianca the shelves after dinner. She did not ask the girl to explain how she had come out of Hades's palace. Percy could tell Bianca noticed.
+
+Nico looked toward Percy.
+
+"Are you coming tomorrow?"
+
+"If Chiron lets me out of bed after the injury checks, sure."
+
+"What's an injury check?"
+
+"The boring part of getting home alive."
+
+Nico looked thoughtful, then nodded as though he'd discovered an important rule. Percy hoped he had. It would make the boy less likely to charge into the arena with a sword too large for his hands.
+
+They spent a few minutes talking about ordinary things. Pizza, comics, where the cabins stood, whether the strawberries near the north fence were ready to pick. Nico wanted to know if the climbing wall truly had lava. Bianca wanted to know whether the library had a quiet corner and whether she could leave the camp grounds if she felt crowded.
+
+Chiron answered both honestly. The wall did have lava; she could walk within the supervised areas, but trips beyond the border required permission and planning.
+
+When the questions slowed, Percy stood.
+
+"See you tomorrow," he told them.
+
+Bianca nodded. Nico gave him a wave.
+
+Outside, Clarisse looked toward the pavilion where the younger campers were still celebrating.
+
+"Do we need to tell everybody they're here?"
+
+"Only the staff responsible for their safety," Chiron answered. "A person's arrival is not a camp-wide announcement unless that person wants one."
+
+Percy thought of Grover asking for a private song for Juniper months earlier. Apparently the same principle applied to children from the Underworld. He was glad.
+
+The visitors were alive, safe for tonight, and free to decide how much of their story belonged to anyone else. That was enough for one homecoming.
+
+---
+
+Percy found Grover at the irrigation ditch, holding a wet sheet of paper.
+
+He had been looking for his friend since the late lunch. The satyrs had carried Grover away to hear about monsters and the Underworld, and Percy had assumed they'd keep him busy until dinner. Instead, Grover was kneeling by the board they'd repaired before the quest, reading a message so carefully that he didn't notice Percy approaching.
+
+"Hey," Percy said.
+
+Grover started, then held the paper against his chest.
+
+"Sorry. Thought you were one of the Stolls."
+
+"Is it a bill?"
+
+"No. It's the report about Uncle Ferdinand."
+
+Percy stopped. "Did Chiron hear from the recovery team?"
+
+"Yes. This morning. They've got him at a place where they can keep him safe. They still don't know how to reverse the stone." Grover looked down at the paper. "There's a specialist coming. They told Chiron he doesn't have to keep asking every day because they'll contact him when something changes."
+
+"That sounds good."
+
+"It sounds like they don't know anything."
+
+Percy sat on the grass beside him. He could see the bottom of the letter, a case number and the name of a person at the nymph depot. That was more information than they'd had when they first found Uncle Ferdinand in the garden. It was also not the thing Grover wanted.
+
+"I thought bringing him out would fix it," Grover said.
+
+"Me too."
+
+"I know we got him away from Medusa. I know. And I know some of the others are still there waiting for help. But when everybody cheered today, I kept thinking about him not being able to hear it."
+
+Percy had no good answer. The celebration had been for the bolt, the end of an immediate threat between gods, the fact the four of them had returned alive. It hadn't solved what Medusa had done to the people she turned into statues. It hadn't made Ferdinand whole.
+
+"Do you want to go see him?" Percy asked.
+
+"Eventually. When the team says it's safe. Right now I'd just stand there and get in the way." Grover rubbed his eyes with the back of his hand. "I hate that I know that."
+
+Percy remembered the day they'd loaded the stone figures into the van. Grover had been angry when they told him they couldn't carry everybody. It wasn't because he didn't understand. It was because understanding the limit made it hurt more.
+
+"There's something we can do," Percy said.
+
+Grover gave him a suspicious look. "Is it a plan?"
+
+"Probably a bad one."
+
+"Good. I'm tired of everybody having sensible plans."
+
+Percy picked up a twig and pointed to the repaired board. "The satyrs do a planting day for people who aren't at camp, don't they? When somebody goes on a trip or doesn't come back in spring?"
+
+Grover nodded. "Juniper organizes it."
+
+"Then could we plant something for the people who are still stone? Not as a memorial. As something they'll get to see if they come here."
+
+Grover thought about it. He didn't smile immediately.
+
+"It should be something they'd actually like," he said. "Uncle Ferdinand would complain if we planted a tree that dropped sticky fruit on the grass."
+
+"Then don't plant sticky fruit."
+
+"His favorite was a little serviceberry. They bloom early. He used to say the birds came before the satyrs because birds knew a good breakfast when they saw one."
+
+Percy had never met Ferdinand as a living person. Hearing Grover talk about his preferences made him more real than any statue.
+
+"We could ask Juniper."
+
+Grover looked toward the young maples, where Juniper was crouched beside a basket of weeds. She saw them, stood and came over with a puzzled expression.
+
+"Is something wrong with the ditch?"
+
+"No," Grover said. "It's holding."
+
+"Good." She looked at the letter in his hands. "Did the report come?"
+
+He nodded. Juniper didn't ask to read it. She waited while Grover told her what the recovery team knew, leaving out the parts that sounded too much like promises. Percy watched how carefully she listened. When he finished, she put one hand on his shoulder.
+
+"I'd like to plant something he knows," she said.
+
+Grover's eyes filled. "I was going to ask you that."
+
+"You can ask me now."
+
+He laughed weakly. Then they discussed the location. Juniper wouldn't let them put a tree beside the irrigation ditch where its roots might interfere with the board; she suggested the dry patch near the fence. Grover worried it would be too far from the maple she tended. Juniper explained how much sun it would need, and how the young serviceberry would grow if they kept the soil watered for its first summer.
+
+Percy listened until Grover handed him the measuring string they'd used before the quest.
+
+"Hold that end."
+
+"I thought I wasn't allowed to do heavy work."
+
+"Holding string isn't heavy work."
+
+"That sounds like an argument Silena would make."
+
+Grover finally smiled.
+
+They measured the planting spot. The ground was still uneven from an old wheelbarrow rut, so Percy marked it with a small stake rather than trying to dig while his ribs were healing. Juniper promised to get the right seedling from the nursery and check with the groundskeepers before planting it. Nobody pretended it would happen that evening.
+
+Grover folded the report and slid it into his bag.
+
+"It's not a grave," he said.
+
+"No," Juniper answered. "It's a place for him when he's able to visit."
+
+Percy thought about the statues remaining in the garden. He couldn't promise any of them would recover. He could keep their names on the list and ask Chiron whether specialists had reached the rest. That was smaller than the promise he'd wanted to make. It also gave him something to do tomorrow that didn't require starting a fight.
+
+When they returned to the path, Bianca and Nico were standing a few yards away with Chiron.
+
+Nico held a little practice shield and looked as though he'd won a prize. Bianca was watching the cabins with a different expression, more cautious than excited. Percy had seen her in Hades's court, looking at him as if she was deciding whether he was trustworthy. She seemed to be doing the same thing now.
+
+"Are you going to the campfire?" Percy asked.
+
+Nico nodded. "Can I?"
+
+"Of course you can. It's not a court hearing."
+
+Bianca lifted an eyebrow. "Will everybody be watching us?"
+
+"Some people will," Percy said. "They watched us when we got here too. I can ask Chiron where you can sit if you don't want questions."
+
+"I can ask him myself," Bianca answered.
+
+Percy winced. "Right. Sorry."
+
+Chiron looked faintly amused.
+
+"Nico wants to see the fire," he said. "Bianca wants to know whether leaving early would offend anyone."
+
+"It wouldn't," Percy answered. "Grover has left campfires early when he was tired. Sometimes I have."
+
+"Sometimes Thalia makes you," Grover added.
+
+"That's a different kind of early."
+
+Bianca considered that. "Then we'll go for a little while. If Nico likes it, we can stay until he's tired. If he doesn't, we leave."
+
+Nico looked shocked that leaving was a possibility. "Why wouldn't I like it?"
+
+"You don't know yet," she said.
+
+Percy was struck by the answer. The kids had been moved from a guarded palace into a camp full of strangers, and everyone seemed eager to tell them they'd love it. Bianca was making sure her brother could decide for himself.
+
+"Can you show me where the games are?" Nico asked Percy.
+
+"After the fire, if Chiron says it's all right."
+
+Nico opened his mouth to argue. Bianca nudged him.
+
+"He's asking permission because we are guests," she told him. "Remember?"
+
+"Fine."
+
+Percy tried not to smile. He knew that sibling tone. Clarisse used it when he was getting ahead of himself, and Silena used it when he was pretending to be too grown-up for a bath.
+
+They walked together toward the amphitheater. Grover and Juniper stopped to check the watering hose. Nico asked a dozen questions about the cabins, the sword lessons and whether Pegasus feathers could be collected without hurting the horses. Bianca listened to his questions and occasionally asked one of her own, mostly about who supervised the younger campers.
+
+Percy answered what he knew. When he didn't know, he said so.
+
+At the edge of the amphitheater, Bianca looked back toward the hill.
+
+"Does the camp border really keep monsters out?"
+
+"Most of them," Percy said. "Not every danger. We still have guards and rules."
+
+"That's what I wanted to know."
+
+Nico tugged her sleeve. "Can we go sit?"
+
+She nodded. The two of them went down the steps together, choosing a place near the aisle where they could leave without asking a whole row of campers to move. Percy watched them settle. Chiron stayed close enough to be called but didn't sit down beside them.
+
+Grover returned to Percy's side with a small smile.
+
+"Juniper says we can plant the serviceberry by the fence."
+
+"Good."
+
+"And she wants me to pick the spot tomorrow when the light's better."
+
+Percy looked at his friend. "You don't have to pick it alone."
+
+"I know." Grover took a breath. "I'm glad we're home."
+
+Percy glanced at the boy from the Underworld waving toward the fire, the girl keeping her brother's options open, and the satyr holding a letter about someone who was still waiting for help.
+
+"Me too," he said.
+
+Grover went to find Juniper. Percy stayed at the edge of the steps a moment longer. Then he walked down to join his own family.
+
+At the bottom of the steps, Clarisse was waiting with a paper cup of lemonade.
+
+"You've been gone for ages," she said.
+
+"About twenty minutes."
+
+"Still."
+
+She handed him the drink and pointed toward an open place beside Silena. Neither sister had saved him the best seat. They had saved one with enough space for his sore ribs and an easy route out if he became tired.
+
+Percy sat, trying not to look too pleased by the thoughtfulness.
+
+"You're not going to tell me the quest made you mature, are you?" Clarisse asked.
+
+"No."
+
+"Good. Because you've already managed to lose your shoes."
+
+Percy looked down. He was barefoot. His shoes were exactly where he'd left them outside the infirmary.
+
+Silena shook her head and passed him a blanket for the cooler evening. Percy accepted it, then watched the fire begin without volunteering to recount another monster fight.
 
 ---
 
@@ -204,7 +714,7 @@ By sunset the whole camp migrated to the amphitheater for the campfire.
 
 The fire in the central pit was already roaring, magically tall and gold and warm without smoke. The logs were stacked high. The Apollo kids had their guitars out. The Hephaestus kids had rigged a string of blue fairy lights that pulsed in time to the flames. Blankets covered the stone steps. The air smelled like toasted marshmallows and cedar and lake water.
 
-Percy ended up in the middle row with Annabeth on one side and Grover on the other, Thalia sprawled on the steps just below them with her boots up, Clarisse and Silena directly behind Percy with their chins on his shoulders, Ella and Nico and Bianca and Zoë all tangled together two rows down with popcorn.
+Percy ended up in the middle row with Annabeth on one side and Grover on the other, Thalia sprawled on the steps just below them with her boots up, Clarisse and Silena directly behind Percy with their chins on his shoulders, Ella and Zoë settled two rows down beside Ella with popcorn.
 
 Chiron raised his hands. “We have a tradition,” he said. “Those who return from a quest tell their story at the fire. With appropriate embellishment.”
 
@@ -218,7 +728,7 @@ Thalia snorted so loud the fire flickered. “You sensed the snack cart.”
 
 “I sensed danger AND snacks,” Grover said with dignity. “A satyr can do two things. Anyway, the Furies attacked, right? Three of them, wings like leather and whips like fire, and Thalia —” he pointed dramatically, “— Thalia jumped on top of the bus seats and shouted, ‘For Zeus!’ and called lightning straight through the roof!”
 
-“It was through the window,” Annabeth murmured to Percy. “And she screamed a little.”
+“It came through the window,” Annabeth murmured to Percy. “And we spent the rest of the trip trying not to use lightning near water.””
 
 “I DID NOT SCREAM,” Thalia said without turning around. “I battle-cried. There’s a difference.”
 
@@ -234,9 +744,9 @@ The whole amphitheater howled. Percy laughed until his sides hurt. Annabeth lean
 
 “He was bigger than a van,” Percy said.
 
-“BIGGER THAN THE BIG HOUSE,” Grover repeated firmly, to cheers. “And Percy walked straight up to the throne of Hades and said, ‘Give us our friends and tell us about his mom!’ And Hades said no, and the ground shook, and Annabeth — brilliant Annabeth, daughter of Zeus — she stepped forward and shocked a hellhound with lightning from her fingers —”
+“BIGGER THAN THE BIG HOUSE,” Grover repeated firmly, to cheers. “And Percy walked straight up to the throne of Hades and said, ‘Give us our friends and tell us about his mom!’ And Hades said no, and the ground shook, and Annabeth — brilliant Annabeth, daughter of Zeus — she stood beside the others and kept a clear route toward the exit without using lightning on wet stone —”
 
-“It was static,” Annabeth protested, covering her face. “It was a tiny spark —”
+“I didn't shock anything,” Annabeth said. “We were trying not to repeat the Fury mistake.”
 
 “It was lightning!” Grover insisted. “And Thalia stood shoulder to shoulder with her, spear out, and said, ‘We are the daughters of Zeus and we do not bow!’ And Hades bowed! A little! On the inside!”
 
@@ -254,55 +764,74 @@ Thalia pulled Grover down into a headlock and ruffled his curls. “Good story, 
 
 Annabeth caught Percy’s eye over Grover’s head and smiled, soft and private amid the noise. Percy smiled back, and his hand found hers on the blanket between them without either of them looking down.
 
-That was when the teasing started.
+That was when Percy realized he was too tired for another public performance.
 
-Chris Rodriguez from the Hermes cabin stood up and pointed. “Hold on! Hold on! Are Percy and Annabeth holding hands?”
+A camper from Hermes called out something about the pair holding hands. Someone else whistled. Percy had heard these jokes before. Most of camp had watched him and Annabeth walk together since spring; their relationship wasn't a new announcement to be made at a solstice celebration. But the quest had turned every ordinary gesture into something spectators wanted to claim as part of the story.
 
-The amphitheater went silent for half a heartbeat, then erupted.
+Annabeth looked toward the younger campers, then at the fingers linked with hers.
 
-“Ooooooh!”
+"Can we just sit?" she asked him.
 
-Percy froze. Annabeth froze. Their hands stayed exactly where they were, clasped tight on the blanket.
+"Please."
 
-Silena squealed and clapped both hands over her mouth. Clarisse leaned forward and said loudly, right into Percy’s ear, “About time, Kelp Head.”
+Thalia, who had been leaning on the step below, heard the first louder joke. She turned and looked directly at the group preparing another chant.
 
-The Aphrodite kids were on their feet instantly, chanting, “Kiss! Kiss! Kiss!” The Ares kids were stomping. The Apollo kids started strumming a romantic chord. Even Zoë was smirking. Nico was chanting with his mouth full of popcorn. Ella was flapping and repeating, “Percy and Annabeth! Percy and Annabeth! Sweet couple! Sweet couple!”
+"Enough," she said.
 
-Annabeth’s face was brighter than the campfire. Percy’s ears burned all the way to the tips.
+A boy from the Apollo cabin raised his hands. "We were only teasing."
 
-“Traitor,” Annabeth hissed at Thalia, who was grinning like a shark.
+"I know," Thalia answered. "They're tired, and you aren't entitled to make them explain themselves because they went on a quest."
 
-Thalia stood up, dusted off her jeans, and held up both hands for quiet. She had that eldest-daughter-of-Zeus authority that could hush a battlefield, and the amphitheater actually hushed.
+The boy looked embarrassed. He muttered an apology and sat down.
 
-“Well,” Thalia said slowly, looking from Percy’s panicked face to Annabeth’s mortified one, savoring it. “As Annabeth’s older sister — by, like, eight months, but still — and as the person who had to sit between these two on a bus for three thousand miles while they pretended they weren’t staring at each other —”
+Percy was grateful. He didn't want the whole camp to treat him and Annabeth as a story the cabins could vote on. They had chosen each other a long time ago in a life the crowd didn't remember, and they had chosen to continue that relationship after waking in this one. No one at the amphitheater needed to know the first part for the second part to be real.
 
-“THALIA!” Annabeth yelped.
+Silena leaned forward from the step behind them.
 
-“— I feel I should give my official permission,” Thalia finished grandly. “Percy Jackson, son of Poseidon, you may date my sister. But if you hurt her, I will strike you with lightning. And then Clarisse will kill you. And then Silena will make your funeral look fabulous but you will still be dead.”
+"Do you want to go back to the cabin?" she asked her brother.
 
-The camp roared. Clarisse cracked her knuckles. “Damn right.”
+Percy looked toward Annabeth. She was still listening to Grover talk with the satyrs, and he could see that part of her didn't want to leave just because she'd been embarrassed.
 
-Silena wiped a fake tear. “Our baby brother has a girlfriend. He’s growing up.”
+"Not yet," he said. "I like being here. I just don't want to be the entertainment."
 
-Percy buried his face in his hands. Annabeth laughed despite herself, bright and helpless, and leaned her head against his shoulder.
+"Reasonable," Silena answered.
 
-Chiron raised his glass again, eyes twinkling. “To Percy and Annabeth. May camp accept what the Fates have clearly already decided. Sweet couple, indeed.”
+Clarisse was already arguing with two younger Ares campers about whether they could start another campfire song. Percy suspected she'd helped change the subject on purpose. He watched her negotiate with the confidence of somebody who had spent the quest keeping camp running instead of waiting at the top of Half-Blood Hill for a heroic return.
 
-“SWEEEET COUPLE!” Ella shrieked happily.
+Annabeth reached across Percy and tapped Thalia's shoulder.
 
-Someone started singing the old campfire song about the Poseidon boy who loved a Zeus girl, making up verses on the spot. Percy peeked through his fingers to find Annabeth watching him, gray eyes warm in the firelight, smiling like she wasn’t embarrassed at all anymore.
+"Thanks."
 
-“Hi,” she whispered.
+Thalia shrugged, pretending to be casual. "I don't want to listen to some boy in Apollo tell me how my sister should be dating."
 
-“Hi,” he whispered back. “So — girlfriend?”
+Percy smiled. "He's not even good at singing."
 
-“Boyfriend,” she confirmed, squeezing his hand. “Camp has spoken. My sister has spoken. No take-backs.”
+"Don't encourage me," Thalia replied.
 
-“No take-backs,” Percy agreed, and the fire burned gold around them.
+The new song began without anyone asking Percy and Annabeth to stand or kiss. A handful of Apollo campers played a tune about the strawberry fields, and Grover joined them on his repaired pipes. His notes sounded rougher than before the quest, but the melody held.
 
+Percy listened for a while. He could see Ella near the edge of the fire, copying the lyrics into her notebook. Zoë corrected something in the margin, then crossed out her correction when Ella objected. They were doing ordinary work even at a celebration.
+
+Annabeth leaned into Percy's side.
+
+"We've been together for so long," she said quietly. "It's strange how people can make it feel like they're discovering it every week."
+
+Percy glanced at her. "They just like being dramatic."
+
+"So does your sister."
+
+"Both of them."
+
+"Mine too."
+
+He held her hand a little more comfortably. They didn't need to make an announcement. They didn't need Thalia to give them permission to call their relationship what it already was.
+
+Across the fire, Grover finished the song and turned to Percy with a grin, expecting praise. Percy gave him two thumbs up.
+
+It was a better use of the campfire than another joke about kissing.
 ---
 
-Later, after the songs and the s’mores and after Nico had fallen asleep on Bianca’s shoulder and Ella had fallen asleep on Zoë’s lap and Grover had been carried off by the satyrs singing his name, Thalia found Annabeth by the drink cooler.
+Later, after the songs and the s’mores and after Ella had fallen asleep on Zoë’s lap and Grover had been carried off by the satyrs singing his name, Thalia found Annabeth by the drink cooler.
 
 The fire was low now, embers pulsing. Most of the younger kids had gone to cabins. Chiron was talking quietly with Mr. D. Clarisse was showing Bianca a dagger grip by the light. Silena was braiding Ella’s feathers gently while Ella snored.
 
@@ -330,7 +859,7 @@ Annabeth lifted her head, eyes shining. “Thank you for saying that. And thank 
 
 “No promises for next quest,” Thalia said, and they both laughed, sisters in firelight, stronger for every mile they had walked together.
 
-Across the fire, Percy watched them with his sisters’ chins still on his shoulders and thought his heart might burst straight out of his chest.
+Across the fire, Percy had ended up between Clarisse and Silena, both older sisters leaning on him while they argued over which song the Apollo campers should play next. Thalia watched Annabeth notice him and smile. For once she didn't feel a need to interrupt.
 
 ---
 
@@ -364,9 +893,9 @@ It was a short kiss, soft and a little clumsy from smiling, tasting like campfir
 
 They sat shoulder to shoulder while the moon rose higher and the lake rippled around the dock posts. Behind them, up the hill, the campfire embers glowed red and someone — probably Grover, probably still awake — played a slow pipe tune that drifted down through the trees like a lullaby.
 
-Percy put his arm around Annabeth and she tucked herself under it like she belonged there. Poseidon’s son and Zeus’s daughter, brother and sister and friend to half the camp, sweethearts to the other half, questers home at last.
+Percy put his arm around Annabeth and she tucked herself under it like she belonged there. He was Poseidon's youngest son and Clarisse and Silena's brother. Annabeth was Zeus's daughter, Thalia's younger sister and Percy's girlfriend. They had returned with Grover, their friend and sworn protector.
 
-Tomorrow there would be war talk and recovered weapons and the news that Sally had rest, even while Percy was learning how to grieve her. Tomorrow Thalia would drill them at dawn and Clarisse would challenge Percy to spar and Silena would make them all try on friendship bracelets and Ella would demand every detail for her scroll and Nico would want his first sword lesson and Zoë would pretend not to care and care fiercely anyway.
+Tomorrow there would be war talk and recovered weapons and the news that Sally's records showed she was not under punishment, even while Percy was learning how to grieve her. Tomorrow Thalia would rest the head injury she was still healing, Clarisse would have to postpone Percy's sparring until the infirmary cleared him, and Silena would make them all try on friendship bracelets. Ella would ask for details for her scroll, the visiting boy would ask about supervised sword lessons, and Zoë would pretend not to care while checking that everyone kept to the restrictions.
 
 Tonight there was just the lake and the moon and each other.
 

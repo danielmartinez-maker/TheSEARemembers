@@ -92,7 +92,9 @@ Outside, the rain kept falling. Steady. Patient. Unbothered by twelve-year-olds 
 
 He could do three days of this.
 
+
 ---
+
 
 By three o'clock, Silena Beauregard had spent the afternoon visiting her friends in the Aphrodite cabin. It smelled like nail polish and rain and somebody's too-sweet strawberry shampoo, and she was officially bored out of her mind.
 
@@ -168,7 +170,9 @@ Outside, thunder rolled, soft and far away. Inside, somebody started braiding Si
 
 Silena closed her eyes and let her.
 
+
 ---
+
 
 By dinner on day one, the Big House smelled like wet dog and popcorn, and Thalia Grace was losing her mind.
 
@@ -230,6 +234,90 @@ Annabeth smiled. "I'd take her money."
 
 Outside, lightning stitched the clouds white. Inside, safe and dry, three Zeus-and-Poseidon kids played their living mother's old tour game while rain washed the world clean.
 
+
+---
+
+
+The rain reached the lowest cabin before dawn on the second day.
+
+Clarisse learned about it from a Hermes boy who came to Cabin Three carrying a wet blanket and asking whether anybody could help lift a trunk off the floor. He was embarrassed to admit that he'd kept trying to pack the trunk instead of calling the cabin counselor. By the time he found help, the water had already soaked his clothes.
+
+Clarisse was halfway into her boots when Silena stopped her.
+
+"Chiron needs to know where it's coming from before we start pulling up floorboards," she said.
+
+"It's rain, Silena. We know where rain comes from."
+
+"We don't know why it's inside the cabin. If a drain is blocked, moving the furniture won't fix it."
+
+Clarisse looked annoyed, then recognized the sense in that. She handed the younger boy a dry blanket and asked him to show them exactly where the water had entered.
+
+The Hermes cabin was crowded with campers standing on beds and carrying bags from one end of the room to the other. The floor near the back wall was wet. Water had come beneath the door and pooled where the floor dipped near the storage lockers. A narrow stream was still running down the step outside.
+
+The cabin counselor had already counted the occupants and sent the youngest children to the Big House. Chiron was on the way with the maintenance team.
+
+Clarisse examined the wet trunk. "We can move that to the center of the room."
+
+"Yes," Silena said, "after we check whether anyone needs the path through here."
+
+They cleared a walkway first, moving stools and loose bags away from the door. Then Clarisse and two older campers lifted the trunk onto a dry bench while Silena checked the contents against the owner's permission. The boy had thought all his things were ruined. Most were damp but could be dried if they were unpacked promptly.
+
+He looked at the wet notebook in his hands.
+
+"This is my sister's," he said. "She gave it to me before I came."
+
+Silena held out a clean towel. "Don't try to peel the pages apart while they're wet. We can lay it flat and ask the library staff the safest way to dry it."
+
+He nodded, swallowing hard. Clarisse stopped stacking boxes and looked at him.
+
+"What's your name?"
+
+"Micah."
+
+"All right, Micah. Take the notebook to Ella or the librarian. Tell them Silena sent you. We're going to get your other things somewhere dry."
+
+It was a small piece of work. It also gave him something to do besides watch strangers rearrange his possessions.
+
+By the time Chiron arrived, the room was passable and the campers were accounted for. The maintenance team inspected the step and found the drain outside clogged with leaves. The water had nowhere to go except under the door.
+
+"We'll clear it when the lightning risk passes," the steward said. "Until then, leave the back section closed."
+
+Clarisse looked toward the rain. "I could do it now."
+
+"No," Chiron replied. "The metal grate is exposed and the storm is still active. We will not send a camper to handle it."
+
+She started to argue. Silena touched her arm, and Clarisse stopped. She could move a trunk and help someone whose things were wet. That didn't entitle her to work outside beside a metal drain while lightning flashed overhead.
+
+They returned to the cabin with the dry clothes, carrying them in smaller baskets so the children had room to move. Clarisse made Micah help choose which belongings needed urgent drying and which could wait. He was shy at first, then began giving directions with more confidence.
+
+"Those boots belong to my brother. He'll need them for patrol next week."
+
+"Then put them near the drying rack," Clarisse said. "Not so close to the heater that the leather cracks."
+
+He looked surprised. "You know about leather?"
+
+"I own more boots than I want to count."
+
+Silena smiled. Clarisse could be brusque, but she was better with frightened children when she had a useful job to give them than when somebody asked her to say something comforting.
+
+At lunch, Chiron announced that the rear portion of the Hermes cabin would remain out of use until it was inspected. Some campers would sleep in the Big House for the night. There were complaints, mostly from children who wanted their own beds.
+
+Silena explained the arrangement to Micah and asked where he'd prefer to keep his dry belongings until the room reopened. He chose a locker near the common room. He didn't want his trunk carried away without him.
+
+They brought it there together. Clarisse let him hold one handle while she took the heavy side, and he walked alongside her instead of being left behind.
+
+"Thanks," he said at the end.
+
+"Next time tell somebody sooner," she replied. "It's a lot easier to dry a pair of socks than an entire trunk."
+
+Micah nodded. He looked ready to cry. Clarisse glanced away, embarrassed by the possibility, then added, "Your sister's notebook should be fine if we handle it carefully."
+
+Silena wasn't certain about that. She didn't contradict her sister in front of a child who needed a little hope. Later she made sure to check with Ella about the pages and find out what could actually be saved.
+
+By the end of the day, Micah's notebook had been spread between clean sheets of blotting paper and the wet clothes were hanging in the laundry room. The drain remained blocked until the repair crew could work safely. Clarisse went to Cabin Three with wet boots and the unpleasant realization that she had spent more energy moving other people's belongings than she would have spent on a full day of sparring.
+
+She would have complained more if Silena hadn't handed her a clean towel and asked whether she wanted first use of the warm shower.
+
 ---
 
 On the morning of day two, Grover Underwood woke up to water dripping on his nose and Ella the harpy staring at him upside down.
@@ -284,65 +372,251 @@ Pan would have liked blanket forts, he thought drowsily. The god of the wild, sh
 
 And it was.
 
+
 ---
 
-Zoe Nightshade had survived two thousand years of winters, wars, and extremely annoying heroes. She could survive three days of rain.
 
-What she could not survive, she decided on the afternoon of day two, was six bored Hunter-apart campers plus Bianca di Angelo asking "Are we there yet?" about the end of the storm every eleven minutes.
+Zoe Nightshade had been asked to keep the Hecate cabin's practice room dry, a request that would have been much easier if the roof had behaved like a roof.
 
-They were camped in the Artemis cabin — Phoebe, Naomi, Bianca, and three younger girls — playing what appeared to be a game involving flicking ambrosia squares at each other's foreheads. Bianca's forehead had a sticky square dead center. She looked deeply undignified and extremely twelve.
+The rain had found a gap above the eastern window and was trickling down the wall in a line so thin that nobody noticed until Tomas went to fetch a box of chalk and discovered the labels had dissolved.
 
-"Zoe," Bianca pleaded when Zoe came in shaking rain off her cloak. "Tell us a story. Please. Phoebe's flicking game is rigged and Naomi is cheating and I'm going to die of boredom and Hades will kill me again for dying indoors."
+"Don't touch the equipment," Zoe told the younger campers. "Not until we know which shelves got wet."
 
-"I cannot tell stories," Zoe said automatically. "I am on watch rotation."
+One of them was holding a small copper disk used for ward practice. He stopped in the doorway, looking guilty.
 
-"You're off rotation," Phoebe said. "I checked the list. You're hiding in here because the Big House is too loud."
+"I already picked it up."
 
-Zoe sniffed. It was true. The Big House currently contained a full Stoll-run casino using pretzels as chips, a sing-along led by an Apollo kid with a lyre missing two strings, and Percy Jackson attempting to juggle Mythomagic booster packs. Retreat was tactical.
+"Put it on the dry table. Did you activate it?"
 
-"Please, Zoe?" The little ones chimed in. "A scary one? A real one?"
+"No."
 
-Zoe looked at the rain sheeting the windows, the gray light, the circle of expectant faces. She thought of cold mountain nights at her mother Hecate's shrine, of the women there telling tales to pass the dark. She sighed, unpinned her cloak, and sat.
+"Good. Wash your hands, then bring me the ledger."
 
-"Very well. But not Artemis tales — thou knowest those. I will tell thee of Hecate."
+Zoe knew the disk wasn't dangerous simply because it was wet. She also knew the runes worked differently when the insulating cloth was damp, and it would be foolish to test her confidence on children who had come to camp to learn safe handling.
 
-Bianca sat up straighter. Daughter of Hades, always hungry for Underworld-adjacent lore.
+The five younger Hecate campers had been stuck indoors all day. They wanted to play with the old illusion tiles, tell stories or practice the tricks that made candle flames turn green. Zoe had spent most of the morning telling them to find quieter ways to entertain themselves. Now she needed help with an actual problem and wasn't sure which of them could be trusted with the job.
 
-"Hecate," Zoe began, her voice dropping into the old cadence, "is older than Olympus. Before Zeus took the sky, before Poseidon took the sea, Hecate held the crossroads. Titaness of magic, of ghosts, of the moon in its dark phase. When the gods fought the Titans, she alone among them sided with Olympus — not from love, but because she saw which way the wind blew, and because Zeus promised her honors no other Titan kept: a share of earth, sea, and sky."
+"Tomas," she said. "Can you record which boxes were on the wet shelf?"
 
-Rain ticked. The girls leaned in.
+He brightened. "All of them?"
 
-"She walks with torches," Zoe continued. "Two flames to light the paths between worlds. At night, at a place where three roads meet, if thou leavest her an offering — garlic, eggs, honey cake — and turnest away without looking back, she will guide thy dead safely. If thou lookest back..." She paused. "Best not to look back."
+"Yes. Mark what you can identify and leave the rest for me to check."
 
-One of the little ones gasped.
+She gave another camper the task of fetching the steward, and assigned two children to carry ordinary books to the dry table. No one touched the copper equipment. When the steward arrived, Zoe pointed out the line of water and asked for the shelves to be inspected before anyone resumed lessons.
 
-"Is she nice?" Naomi asked.
+The steward examined the ceiling. The leak was coming from a slipped flashing strip, too high to reach safely from the room. He closed the practice area until the roof could be repaired.
 
-Zoe considered. "She is... necessary. She taught Medea. She guards the doors Medea opened. She gave mortals magic, knowing what they would do with it. Some say that is cruelty. I say it is honesty. Power is power. What thou doest with it is thy character."
+"Can we take the books to the Big House?" Tomas asked.
 
-Bianca frowned, picking at her sleeve. "Do you think — do the dead get lonely, waiting at crossroads?"
+"Some of them," Zoe said. "Only the ones that are dry and have been checked."
 
-The question landed quiet. Zoe remembered Bianca's story — pulled out of time, brother fierce as winter, mother gone, years lost. A child of crossroads herself.
+He carried the small stack carefully, pleased to be trusted with something that mattered.
 
-"I think," Zoe said gently, "that is why Hecate walks with dogs. Big black hounds, loyal as shadows. So none wait alone."
+The afternoon shifted to the library. Ella helped them find a spare table and informed Zoe that damp books should be kept apart from dry ones until their condition was checked. It was the same advice Zoe would have given, but Ella delivered it as an alarming sequence of literary quotations.
 
-Bianca smiled, small. "I'd like a shadow dog."
+"Understood," Zoe said.
 
-"Thou hast thy brother. He is nearly as large and nearly as loyal, and he smells nearly as bad when wet."
+Bianca di Angelo arrived with Nico on the way to the games room. She spotted the empty practice boxes and asked whether someone had been hurt.
 
-Laughter broke the spell. Bianca threw a pillow at her. Zoe caught it one-handed, ancient reflexes showing off, and tossed it back.
+"No. Water got into the storage area. We stopped the session."
 
-"Another!" the little ones begged.
+"Can we help?"
 
-Zoe told them of Hecate at the search for Persephone, the only god who heard the girl cry out, holding her torches high while Demeter tore the earth apart. Of Hecate on the beach at night, teaching witches to read the moon. Of the time — Zoe's voice went dry — that a certain hero she would not name tried to steal one of Hecate's torches to impress a girl and ended up with his eyebrows burned off for a year.
+Zoe had been about to say no. Bianca was not a camper from Hecate's cabin, and the problem was ordinary building maintenance rather than a magical emergency. But there were piles of papers to sort, and Bianca had a good eye for careful work.
 
-"Was it Hercules?" Phoebe whispered.
+"If you're free, you can help us check the index against the dry books. Nico can help with the smaller copies if he wants."
 
-"It is always Hercules," Zoe said, and they howled.
+Nico was delighted. He knew enough about different spellbooks to be interested in the catalog even if he couldn't perform the spells they described.
 
-Outside, the rain eased for a moment, then redoubled, drumming hard. Inside, warm and torch-lit by the cabin's braziers, the girls curled closer, ambrosia forgotten. Bianca rested her head on Zoe's shoulder without asking, and Zoe — who did not allow such familiarity, usually — let her stay, resting her cheek briefly against dark hair.
+They worked through the stack for an hour. Tomas found several pages mislabeled from an earlier lesson and asked whether he should correct the index. Zoe showed him how to record the original label before changing it, so the next person could understand why the entry differed.
 
-Two thousand years, and still the best magic was a dry room and a story while the sky fell.
+At the end of the afternoon, Bianca closed the ledger.
+
+"I thought you were going to spend the whole day practicing magic."
+
+"So did I," Zoe said.
+
+"Are you disappointed?"
+
+"Yes. We had a new set of protective knots to test. But they would not have been safe in that room today."
+
+Bianca nodded. She knew what it was to have an expected day disrupted. She had spent much of her time at camp trying to give Nico a predictable routine, even though the world rarely respected it.
+
+"Do you want company while you wait for the roof repair?"
+
+"Only if you don't expect to be entertained."
+
+"I can play cards."
+
+"Then stay."
+
+Zoe did not need to tell a long story about ancient hunters to prove she was important. She could teach a child how to make a careful record, protect her cabin's equipment and admit a lesson would have to wait. When the younger campers returned with the last dry books, she asked Tomas to read his inventory aloud. He had missed only one box.
+
+She gave him the correction, then let him mark the job completed himself. Outside, the rain increased against the windows. The Hecate practice room stayed closed. Inside the library they began a card game with Bianca and Nico while Ella stood guard over the drying books.
+
+
+---
+
+
+The argument began over the rules of Spite and Malice.
+
+Thalia wanted to play the version their mother had taught her when she was little. Annabeth had written those rules down after a recent evening of cards, and she was trying to follow them exactly. The trouble was that Thalia kept changing them when the game became inconvenient.
+
+"You can't play a second wild card on that pile," Annabeth said.
+
+"I can. Mom always let me."
+
+"You told me yesterday that you couldn't."
+
+"Yesterday you were ahead by thirty points."
+
+"That's not a rule."
+
+Thalia put down her hand. They were sitting on the carpet in Cabin One, and Percy had left ten minutes earlier to help Silena find another deck for the younger campers. The rain beat against the high windows. There was nowhere to escape the conversation without walking into a storm.
+
+"I was joking," Thalia said.
+
+"I know. But if the whole game is based on rules I can't remember, and you keep changing them, then I'm not actually playing the game you remember."
+
+Thalia looked at her sister. It was a reasonable complaint. She felt criticized anyway.
+
+"Why does every little thing have to turn into a discussion about the memories?"
+
+"It doesn't. You brought up Mom."
+
+"Because Mom taught me the game."
+
+"And I want you to teach it to me, not use that as proof you can do whatever you like."
+
+Thalia looked away. She missed the sound of Beryl laughing at their old kitchen table, calling her a cheat and changing the rules herself when she was losing. It had been one of the good evenings, the sort that made the bad ones more difficult to explain. She had wanted the game to feel light. Annabeth kept asking questions that made her remember how little of the old household they now shared.
+
+"Fine," she said. "Use the written rules. I'm done."
+
+Annabeth stared at her. "That's not what I wanted."
+
+"It's what you asked."
+
+"I asked you to stop making up exceptions."
+
+"Then congratulations. You've won the rules."
+
+Thalia stood, picked up the empty cups and went into the washroom. She was angry enough that she almost slammed the door. She stopped herself at the last moment because the noise would make Annabeth think something was wrong.
+
+She rinsed the cups slowly. Her own face in the mirror looked older than sixteen, though she knew that was mostly exhaustion. She had spent the morning doing nothing more exciting than listening to rain and trying to keep a group of children entertained. It should not have been so easy to hurt her feelings.
+
+When she returned, Annabeth had put the cards back in their box. She sat on the edge of her bunk with a book open, though she wasn't reading it.
+
+"Do you want me to leave?" Thalia asked.
+
+"No."
+
+"Are you still angry?"
+
+"Yes."
+
+"Fair."
+
+They sat in silence for a moment. Outside, someone splashed through the path calling for dry socks. Thalia remembered that Silena had organized a collection of spare clothes and made a note to ask whether the Zeus cabin had anything to contribute.
+
+"I shouldn't have changed the rules," she said finally.
+
+Annabeth closed the book.
+
+"You don't have to make everything fair all the time," she said. "But if you want to play the game the way Mom taught it, tell me the real version. I don't have the memories to check you."
+
+Thalia sat opposite her. "There isn't one real version. She made up rules when she was in a good mood. She cheated and told us it was part of the fun."
+
+"Then that's the game you wanted to play."
+
+"Yes."
+
+"Why didn't you say so?"
+
+"Because I thought you'd hate it."
+
+Annabeth considered. She liked rules because a fair system told everybody what they could expect. She disliked it when people changed the terms after she'd committed herself. But she was curious about the kind of game that belonged to their mother, even if it would never have been accepted at a tournament.
+
+"I might like it if we agree from the start that the rules can change," she said. "I just don't want to be surprised when I'm trying to make a move."
+
+Thalia smiled reluctantly. "That's going to ruin the cheating."
+
+"You can still cheat. I'll just accuse you of cheating when you do."
+
+"That's more like Mom."
+
+Annabeth put the book aside. The two girls looked at the cards but neither reached for them yet.
+
+"I don't remember her cheating," Annabeth said quietly.
+
+"I know."
+
+"Sometimes when you tell me a nice story, I feel jealous of myself."
+
+Thalia looked up. She had never heard Annabeth phrase it that way.
+
+"What do you mean?"
+
+"The little girl in your stories had you and Mom and Jason. She did all these things I can't remember. She got to play cards with Mom on good days. I know there were terrible days too. I don't wish I'd been there for those. But I don't know why I can't have some ordinary piece of that childhood in my head."
+
+Thalia thought of the family photo in the trunk and the way Annabeth had traced the edge without claiming she recognized the day. There was no answer she could give that would restore those years.
+
+"I wish you could," she said. "I get angry because I remember the bad things and I don't want anyone treating the good things as proof they weren't real. And then I get angry again when you don't know the good things. It doesn't make any sense."
+
+"It makes some sense."
+
+"No, it doesn't."
+
+"Both things can be true," Annabeth said. "That's what you told me about the picture."
+
+Thalia remembered. It irritated her to hear her own advice turned back on her, especially when it was correct.
+
+"All right," she said. "How do you want to play?"
+
+Annabeth thought for a moment. "One game with fixed rules. Then one where we're allowed to invent a stupid rule at the start of each round, provided we announce it before either of us plays."
+
+Thalia grinned. "What kind of stupid rule?"
+
+"Wild cards must be introduced with a dramatic insult."
+
+"To the other player?"
+
+"To the card."
+
+"That's very stupid."
+
+"Thank you."
+
+They dealt the first game. Thalia lost by twelve points and accused Annabeth of keeping better track than any child had a right to. Annabeth laughed. In the second game Thalia announced that all black cards had to be played with the left hand, and Annabeth countered with a requirement to speak in formal Ancient Greek whenever somebody discarded a king.
+
+They were halfway through the third round when Percy returned with an extra deck and found them sitting on the carpet, arguing in languages he didn't understand.
+
+"Is this a spell?" he asked.
+
+"No," Annabeth replied. "It's family history."
+
+He glanced at the cards. "Am I supposed to understand the rules?"
+
+"Nobody does," Thalia said. "That's the entire game."
+
+He sat on the floor, accepted the spare deck and watched them play. After five minutes he announced that his own contribution would be a rule requiring the loser to provide snacks.
+
+"You can't change the rules in the middle of a round," Annabeth said.
+
+"I thought that was the point."
+
+"Only at the start," Thalia corrected, delighted by the chance to be the one enforcing a rule.
+
+Percy looked between them and surrendered. The three played until Silena called from the hall that the rain had washed out part of the path and everyone needed to stay indoors.
+
+Annabeth won the final round. Thalia made a show of throwing down her cards, then asked if she could write the new rules on the back of the original list.
+
+"Why?" Annabeth asked.
+
+"Because this version belongs to us."
+
+Annabeth handed her the pencil. Thalia wrote the ridiculous exceptions in large, uneven letters beneath the formal rules and signed the paper with a little lightning bolt. Percy added a fish. Annabeth pretended to object, then drew an owl in the corner.
+
+The next time they played, they would remember which rules had been made up on a rainy afternoon rather than inherited from a childhood one sister couldn't recall. It wasn't the game their mother had taught Thalia. It was one more ordinary thing the sisters had made together. When Thalia put the paper away, she chose the front pocket of the cabin game box instead of her locked trunk. That meant Annabeth could find it without asking. She hesitated, then took the older sheet of rules from beneath the stack and placed it beside the new one. Both belonged there. The first recorded a game Beryl had played when the girls were little. The second recorded the way the sisters played now. Percy promised to bring another deck next time, as long as the rules were explained before he started losing. Thalia told him that would ruin the point. Annabeth insisted he deserved a fair warning.
 
 ---
 
@@ -409,6 +683,134 @@ Bianca felt her throat go tight. Camp was strange. Camp was loud and smelly and 
 "Love you too, bossy," Nico mumbled, already leaning into her, already calmer.
 
 The rain played on.
+
+
+---
+
+
+On the third morning, Annabeth found Percy sitting on the floor outside the library, repairing a cardboard box that had come apart at one corner.
+
+The box was full of notes from the old archive room. Ella had asked him to carry them upstairs while the basement dried. He'd managed to get them through the first flight of stairs, but the damp had softened the bottom, and now he was holding it together with one hand while trying to find a piece of string with the other.
+
+"What happened?" she asked.
+
+"Paper betrayed me."
+
+"Why are you using string?"
+
+"Because I haven't found any tape."
+
+"Set the box down."
+
+"It is down."
+
+"Then take your hand off it."
+
+He tried. One corner sagged. A sheaf of papers slid toward the gap, and Annabeth caught it before it reached the wet floor.
+
+"Right," she said. "We need a different box."
+
+Percy looked annoyed. "I thought I could fix this one."
+
+"You can. But you shouldn't carry a whole shelf of archives in a container that fails when it gets damp."
+
+He considered the argument. "That's fair."
+
+They went to the supply cupboard, where Ella had left a short list of approved storage materials. Annabeth chose a wooden crate with a dry cloth lining. Percy carried the papers in smaller stacks, and she checked that the pages were kept in their original order. Neither wanted another argument with Ella about misplaced manuscripts.
+
+The work was nearly finished when Chiron came down the stairs with a maintenance report. He looked at the papers, then at the damp box.
+
+"Good. You have already stopped using the damaged container."
+
+Percy raised an eyebrow. "Were you expecting us to carry it until it exploded?"
+
+"I have seen worse decisions made with greater confidence."
+
+Annabeth smiled despite herself.
+
+Chiron explained that the rain had revealed a slow leak in the archive's upper wall. The water was not pouring inside, but the masonry had become damp enough to damage the oldest papers if they stayed in the basement. He needed volunteers to help move the remaining boxes to the dry shelves upstairs.
+
+"We can do that," Percy said.
+
+"You can help under supervision. The oldest records are fragile, and some are not for general access. Ella will determine which containers should be moved and who may handle them."
+
+Percy nodded. The Oracle investigation had made him particularly sensitive to the difference between finding something interesting and being entitled to read it. He wanted the documents safe, not another secret to uncover while adults were busy.
+
+Annabeth asked whether the archive would be closed for long.
+
+"Until the wall is inspected and repaired. The records will remain available by request, but no one should be working in the wet section."
+
+She looked toward the stairs. "Can I help map the leak?"
+
+"The repair team has already begun. You may ask whether they need help documenting the affected shelves."
+
+That was less satisfying than being given the whole problem to solve. She accepted it anyway.
+
+For the next hour they worked with Ella, moving the labeled containers in small groups. Ella read each label aloud before it left its shelf. Percy repeated it back so nobody had to remember which crate belonged where. Annabeth wrote the destination on a temporary ledger.
+
+"Don't put that one above the window," Ella warned.
+
+"Why?"
+
+"Light. These pages fade. Light makes the words leave."
+
+Annabeth changed the assignment. Percy looked at the thin volume in her hands.
+
+"Can we make a copy?"
+
+"Later," Ella said. "After the paper has been checked for damage. A copy made too soon can tear the page."
+
+He put it carefully back in the crate.
+
+They finished near lunch. The temporary storage was crowded but orderly, with enough space between the shelves for a person to move without knocking over the boxes. Ella inspected the arrangement and declared it acceptable. Annabeth wrote the final counts in the ledger, then went to wash the dust from her hands.
+
+Percy was waiting outside. The rain had eased to a fine drizzle, and the path to the pavilion glistened under the pale sky.
+
+"Want to go sit by the lake?" he asked.
+
+"After lunch?"
+
+"Yes. If the paths are open."
+
+She looked at him. He was asking rather than assuming that because he could manage water, they could go wherever the rain had made an obstacle. She appreciated that.
+
+"We can check with Chiron."
+
+They walked to the dining pavilion, passing the flooded section of the Hermes cabin. The back door was still marked closed, and Micah was helping the steward carry clean blankets to the common room. The repair crew had begun clearing the drain after the lightning warning was lifted. Water ran down the new channel instead of beneath the door.
+
+Annabeth noticed Percy watching the work.
+
+"They're doing fine," she said.
+
+"I know. I was thinking we could have helped sooner if we'd known."
+
+"Maybe. But you spent the morning moving archives. There are enough things at camp that need people who know how to do them."
+
+He looked at her. "Are you giving up your plan to fix everything?"
+
+"Not entirely. I'm trying a smaller one."
+
+"What does it involve?"
+
+"Doing the job in front of me and not inventing three extra ones before breakfast."
+
+He laughed. They reached the pavilion just as Clarisse was arguing with the kitchen staff about whether the next batch of hot soup should be served before the bread. Silena had already decided. Percy and Annabeth joined the line, grateful that somebody else was in charge of lunch.
+
+Afterward, with permission to use the cleared path, they went down to the lake. The water was high and brown around the shallow edges. Percy didn't try to make it look more inviting. They sat at the end of the dock with their shoes on, watching raindrops mark the surface in small circles.
+
+"Three days of rain," he said.
+
+"And no quest."
+
+"We've had a lot of other work."
+
+Annabeth looked toward the cabins. He was right. The archive had been moved, the Hermes children had somewhere dry to sleep, and the Hecate practice room was closed until its roof was repaired. It was not a heroic list. It was what made the place safe enough to live in.
+
+She nudged his shoulder. "Maybe tomorrow we can do something that isn't about water."
+
+"Agreed. Unless it rains again."
+
+She laughed and leaned against him for a moment before returning to the dining hall for the afternoon's card game.
 
 ---
 
@@ -494,7 +896,4 @@ Annabeth leaned her head on Percy's shoulder. He leaned his head on top of hers,
 
 Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. They ignored her for one more minute. Just one more.
 
-The sea remembered. The sky forgot. And two twelve-year-olds sat in a doorway, dry and warm, letting the rain fall.
-
----
-
+Percy moved his hand nearer to Annabeth's. She took it without looking away from the rain. For another minute they listened to Thalia deal cards inside, comfortable enough not to answer her yet.

@@ -18,7 +18,7 @@ Percy blinked. “I don’t — what map?”
 
 Triton stared at him. Then the water column collapsed sideways and deposited him neatly on the dock, completely dry from the knees up and soaked from the knees down, which seemed to offend him personally.
 
-He was Percy's brother. His actual older half-brother, and Clarisse and Silena's too. Son of Poseidon and Amphitrite, heir of Atlantis, commander of something with a very long title Percy kept forgetting. Triton had known him for years; Percy had only the recent palace visit to put beside those years. The hippocamp lesson when he was seven, the hurricane off Montauk, the nickname surface barnacle — Triton had supplied those stories. Percy knew the brother telling them better than he knew the boy inside them.
+He was Percy's brother. His actual older half-brother, and Clarisse and Silena's too. Son of Poseidon and Amphitrite, heir of Atlantis, commander of something with a very long title Percy kept forgetting. Triton had known the boy he believed Percy to be for years. Percy had only his recent weeks in Atlantis and the stories Triton shared with him to account for those years. The hippocamp lesson when he was seven, the hurricane off Montauk, the nickname surface barnacle — Triton had supplied those stories. Percy knew the brother telling them better than he knew the boy inside them.
 
 He looked the same. Twenty-ish to look at, though the adult god had commanded patrols long before Percy was born. Tall. Built like a swimmer who also wrestles sharks for fun. Same nose as Percy, which was weird to see on someone else's face. Same grin that meant trouble.
 
@@ -107,6 +107,80 @@ Percy watched her go, then glanced at his brother. “She doesn’t hate you,”
 “She always has more.”
 
 “Good. I respect preparedness.”
+
+---
+
+Triton had been in the camp for less than an hour when Chiron handed him the visitor schedule.
+
+He looked at the page with considerable suspicion. The hours were arranged in tidy blocks, followed by a list of activities that did not include any of the things he had traveled from Atlantis to see. There was a meal with the Poseidon children, a demonstration in the training arena and an evening discussion about surface customs.
+
+"I am not here to review a school timetable," he said.
+
+Chiron folded his hands. "You are here as a visitor to a camp responsible for children. Our schedule tells the instructors which activities require their attention and where your brother will be expected. You may certainly ask to change a block."
+
+Triton looked again. Percy was listed as twelve years old, which he knew, and as assigned to the beginner water-safety group that afternoon, which irritated him.
+
+"My brother is not a beginner."
+
+"At some forms of water control he is very experienced. At other skills, especially the surface systems we teach here, he is still learning. That's why the instructors assess the activity rather than assuming one title qualifies him for everything."
+
+Triton was about to object. He'd seen Percy move through the reef passages in Atlantis with instincts older than the boys who were celebrated at formal demonstrations. He also knew the boy had arrived in the palace with memories he could not explain, and was still piecing together skills his body sometimes remembered more readily than his mind.
+
+"What exactly does the lesson cover?" he asked.
+
+Chiron showed him the plan. It was about communicating with other swimmers, recognizing exhaustion and assisting someone in shallow water without dragging them into a second hazard. None of it would have been beneath a child who could breathe underwater. Triton recognized that fact reluctantly.
+
+"I would like to observe."
+
+"You may. You will not take over the session."
+
+"I am his elder brother."
+
+"And therefore in a particularly good position to learn what he has been practicing without telling him what to do."
+
+Triton regarded the centaur. He wasn't accustomed to anyone addressing him that way. At court, officers sometimes disagreed with him, but they did so through carefully arranged language that made it sound as if his own idea had already contained the correction. Chiron offered the correction without ornament.
+
+"Very well," Triton said. "I will observe."
+
+He took the schedule to the pavilion. Percy was seated at the Poseidon table with Clarisse and Silena, examining a repaired buckle. The three were arguing about whether the fastening should be placed higher on the strap. Percy looked up when Triton approached.
+
+"You're early."
+
+"According to this document, I am exactly on time."
+
+Percy saw the page and laughed. "Chiron gave you the whole program?"
+
+"He did. He seems determined to make me into a camper."
+
+"Give it a day. Clarisse will assign you chores."
+
+"I should like to see her try."
+
+Silena coughed. Clarisse, who had been waiting to meet Triton properly, put the buckle down.
+
+"Then perhaps you'd like to help carry the equipment after lunch," she said.
+
+Triton turned toward her. The girl was smaller than the Atlantean guards he trained and held his gaze without any particular respect for the distance between a prince and a camper.
+
+"I have come to visit my brother," he replied.
+
+"So have we," Clarisse said. "We also put our equipment away."
+
+Percy looked delighted. Triton realized he had entered the sort of exchange where winning was unlikely to produce anything useful.
+
+"What equipment?" he asked.
+
+"Training shields. Not heavy. You can manage."
+
+He inclined his head. "Then I shall assist."
+
+Silena smiled and returned to the buckle. Triton looked at the three of them and felt, for the first time that morning, how different Percy's life had become since arriving on land. The boy had sisters who expected him to do chores and argued with him about small repairs. They did not defer to his title. They didn't seem to think his power excused him from ordinary work.
+
+Triton had once feared that a surface camp would make Percy forget who he was. Watching the three of them debate a piece of leather, he began to wonder whether remembering a family might be less about court ceremonies and more about being allowed to be irritating to people who stayed.
+
+He put the schedule beneath Percy's plate for safekeeping and asked Clarisse where the shields were stored.
+
+
 
 ---
 
@@ -278,6 +352,92 @@ From across the pavilion, Clarisse caught his eye and mimed a sword thrust. He g
 
 ---
 
+Triton had taken up a position at the edge of the beginner water-safety class with his arms folded behind his back. The instructor had given him a visitor's badge that looked ridiculously small on the ceremonial cloak he'd insisted on wearing, and Percy had spent the first ten minutes pretending not to notice.
+
+The group was practicing communication in shallow water. One camper acted as the swimmer in difficulty, while the others learned to signal for help and use a long reach pole rather than jumping into the water without assessing the situation. Triton had expected to see exercises about commanding currents and manipulating pressure. He found the equipment primitive.
+
+He also found the students paying close attention.
+
+A girl from Demeter cabin hesitated before entering the water. She said she'd had a frightening experience at the lake when she was younger and didn't like not being able to see the bottom. The instructor asked whether she wanted to observe the first drill instead. She nodded and took the role of signal caller from the shore.
+
+Triton was surprised. In the palace training rooms, a pupil's fear was usually discussed afterward, in private, as a weakness to be overcome through more practice. This instructor had changed the lesson without treating the child as a disappointment.
+
+Percy was paired with a Hermes camper who could swim well but became anxious whenever the water touched his face. Triton watched his brother explain where the shallow step began and how to use the edge for support.
+
+"You can ask me to stop," Percy said. "The exercise isn't worth swallowing half the lake because you're embarrassed."
+
+The boy nodded. They practiced reaching for the pole, and Percy let him choose the pace. It took two attempts before the boy could hold the pole without grabbing Percy's arm.
+
+"Good," Percy said. "Now try it while I stay on the other side of the marker."
+
+Triton found himself leaning forward. Percy could have drawn the pole through the water with a flick of his hand. He could have made the current hold the boy up. He did neither. He stayed where the instructor had placed him and let the camper complete the motion.
+
+When the exercise ended, Triton approached the instructor.
+
+"Why does my brother not demonstrate his own abilities?"
+
+"Because we are teaching the other children how to respond when those abilities aren't available. Percy knows how to move water. Today's lesson is about making safe decisions without relying on him."
+
+"That seems to leave a great deal of his skill unused."
+
+"It does. He practices those skills in a different session. Do you believe every lesson should show everything a child can do?"
+
+Triton considered the question. He had once trained Percy at the palace with the assumption that a prince would be asked to command others under pressure. The preparation had been useful. It had also made almost every exercise a test of how much responsibility the younger boy could carry.
+
+"No," Triton said. "I suppose not."
+
+The instructor turned toward the next pair. "You're welcome to stay and observe. If you want to demonstrate a technique after class, ask Percy first. We aren't turning his practice into an exhibition because a guest has arrived."
+
+Triton returned to the observation bench. He knew Percy would have resented being ordered to perform in front of his sisters. He had almost done exactly that out of pride.
+
+The last drill required the students to identify when someone needed a healer rather than another swimming lesson. The instructor described several situations: a tired swimmer, a child with a cut foot, a camper shivering uncontrollably after leaving the lake. Percy answered when asked and let others try the remaining questions. The correct response was often to stop training and get help.
+
+Triton could understand the value of that. Atlantis had healers, rescue teams and patrol procedures. He had simply assumed the surface methods would be inferior before examining them.
+
+After class, Percy came over, towel around his shoulders.
+
+"How'd I do?" he asked.
+
+"You were patient."
+
+"That's not usually the first thing people say about me."
+
+"It is something I should have praised sooner." Triton looked toward the instructor. "You could have solved half those problems by moving the water. You chose to let the others learn."
+
+"Because they'll have to know what to do when I'm not here."
+
+Triton thought about the first time Percy had been allowed to swim through the deeper reef passages alone. He'd been proud of the boy, but also relieved that no one would have to accompany him anymore. He hadn't thought of teaching as something that should end with the student no longer needing the person who helped him.
+
+"Is that how you feel about your sisters?" he asked.
+
+Percy looked surprised. "They're my sisters. I want them to be able to do things without me. I also like being around them."
+
+"At the palace, we've been preparing you to take responsibilities that are difficult to share."
+
+"I know. But I'm twelve. Chiron keeps reminding me that I can learn things without being responsible for every possible emergency."
+
+Triton glanced toward the other campers. Several were returning poles to the equipment shed. Clarisse had come to help with the count and was arguing with the Hermes boy about where the last pole belonged.
+
+"Your sister is efficient."
+
+"She's a menace."
+
+"Both can be true."
+
+Percy grinned. "You've been talking to Silena."
+
+"She has opinions about everything."
+
+"She does. She's usually right when she's holding a checklist."
+
+Triton returned his visitor badge to the instructor and helped carry the poles to storage. He did it without announcing that an heir to Atlantis was performing manual labor. The children barely noticed. That was oddly pleasant.
+
+Later, when Clarisse challenged him to spar, he accepted partly because he wanted to learn how she fought and partly because he'd begun to understand that she was testing whether he'd take her seriously as Percy's sister. The training match could be about skill rather than rank, if he was willing to let it.
+
+
+
+---
+
 Thalia Grace found Triton on the climbing wall at three o’clock, scowling up at the lava.
 
 “It’s fake lava,” she said, falling into step beside him. She had her bow slung across her back, her punk-rock aura dialed up to eleven, and a new rip in her jeans from that morning’s capture-the-flag planning session. “Well. Fake-ish. It still burns.”
@@ -438,6 +598,94 @@ She left him on the bench with that thought, notebook tucked under her arm, hear
 
 ---
 
+Silena caught Triton near the stores room after the last afternoon activity. He was examining a list of supplies with the offended curiosity of a prince who had never been asked to account for borrowed towels.
+
+"Do you need anything?" she asked.
+
+"I have been told to return the practice cloak before supper."
+
+"Then the return shelf is there."
+
+He placed the cloak on it and looked at the ledger. His name had been written beside an equipment code. The number was followed by a blank space for a return time.
+
+"Am I meant to sign this?"
+
+"Yes. Everybody does."
+
+He took the pencil and signed in a hand that looked suited to royal decrees. Silena checked the item code, recorded the time and closed the book.
+
+"Thank you."
+
+"Does this process actually prevent people from losing things?"
+
+"Not always. It makes the losses easier to trace. It also means the person who borrowed something knows somebody is expecting it back."
+
+Triton looked thoughtful. Silena had spent much of the day watching him evaluate camp in comparison with Atlantis. He had been courteous enough, but his compliments tended to take the form of astonishment that the surface children were capable of anything.
+
+"You've managed Percy for months," he said.
+
+"I haven't managed him."
+
+"Then trained him?"
+
+"Clarisse helps with training. Chiron and the instructors supervise the rest. I make sure he knows which chores belong to him and that he has clean towels when he needs them."
+
+Triton seemed dissatisfied with the answer. "He is the youngest prince of my household."
+
+"He is our youngest brother too."
+
+The words were simple. He took a moment to respond.
+
+"Do you think those two things are in conflict?"
+
+"Not necessarily. But sometimes you speak as if being a prince explains how he ought to behave. Here we ask him what he's trying to do and tell him when he gets in someone else's way. It would help if you did the same."
+
+Triton opened his mouth. Silena could see that he was about to defend the responsibility of royal training. Instead he asked a different question.
+
+"Has he told you about the parts of his childhood he cannot remember?"
+
+"He has told me there are gaps. I don't ask him to repeat the story every time something reminds me of Atlantis."
+
+"I have been trying to help him remember by describing the things we did together."
+
+"He might like those stories. He might also get tired of feeling he's failing a test he didn't agree to take."
+
+Triton looked toward the path where Percy was returning from the arena. He had come to camp partly because the boy's letters seemed so different from the reports about his early training. Percy wrote about a sister who made lists, another who hit him with practice swords, and a camp where he was permitted to lose a race without turning it into a royal embarrassment.
+
+"I want him to know I remember him," Triton said.
+
+"Then tell him. You don't have to prove it by making him remember the same thing."
+
+The answer unsettled him. He had been carrying worry about Percy's unexplained gaps for months and had treated each missing recollection as a problem that could be solved if he supplied enough detail. It was an approach that worked with lost records and imperfect maps. With his younger brother, it sometimes made him feel more alone.
+
+"Would you tell him I'm concerned?" he asked.
+
+"You can tell him yourself. He'll probably listen more carefully if it comes from you."
+
+Triton nodded. "You're a formidable person, Silena."
+
+"Thank you. I prefer useful to formidable, but I'll take the compliment."
+
+They walked together toward the pavilion. Percy met them halfway and immediately asked whether Triton had been lecturing his sister about palace protocol.
+
+"No," Silena replied. "He signed out his cloak properly."
+
+"That's a remarkable achievement," Percy said.
+
+Triton raised an eyebrow. "I have been learning your customs all day. Some of them are practical."
+
+"That sounded almost like praise."
+
+"Don't become accustomed to it."
+
+Percy laughed and fell into step beside them. The three reached the pavilion just as Chiron announced supper. Triton looked at the long tables and recognized something he hadn't expected to find on land: a household in which his younger brother was allowed to be a child, occasionally an irritating one, and not a role to be prepared for every minute.
+
+He would return to Atlantis the next morning. He intended to tell Amphitrite what he'd observed without turning Percy's new life into a performance report. There were things the palace could learn from camp, if he was willing to report them faithfully.
+
+
+
+---
+
 Dinner was a disaster in the best way.
 
 Triton, emboldened by lunch, insisted on sitting at the Poseidon table with Percy and burning his own offering. Percy tried to explain: you scrape a little of the best part into the fire and say a prayer. Simple.
@@ -594,7 +842,52 @@ On the sand, dripping and shivering and laughing, Triton pulled Percy into a rou
 
 Then he let go, picked up his terrible borrowed sandals, shook the sand out of Percy’s sneakers like a valet, and walked with him up the beach toward the warm lights of Cabin 3 — a prince of the deep, far from home, with soda in his past and paperwork in his future, whistling very badly the surface song about bringing the tide in.
 
-Behind them, the Sound settled. Flat and glassy no more. Just water, lapping softly, keeping their secret.
+At the edge of the path Triton stopped to pull a piece of seaweed off Percy's sleeve. Percy tried to do the same for his brother's armor and found three more pieces tucked under a strap.
 
----
+"You're not presenting yourself to Chiron like that," he said.
 
+"I'm a prince."
+
+"You have a crab in your shoulder guard."
+
+Triton looked down. The crab raised a claw.
+
+They carried it back to the shore before going up to Cabin Three.
+
+By breakfast, Triton had packed the travel cloak and prepared a short account of his visit for Amphitrite. Percy found him at the lake, inspecting the seal on the messenger pouch.
+
+"Is that about me?" he asked.
+
+"In part. Your mother asked how you were managing."
+
+Percy looked at the folded report. At court, he had learned that adults could talk about him in considerable detail without asking whether the description matched how he felt. He didn't want to be ungrateful for his brother's concern. He also didn't want his visit turned into a list of deficiencies.
+
+"Could you tell her I like the training?" he asked. "Even when I complain about it."
+
+"I have. And that Clarisse and Silena take their responsibilities seriously."
+
+"They do."
+
+Triton hesitated. "I also mentioned that you don't always recall the routines we used to practice together. I didn't ask her to arrange more tests. I thought she should know we spoke about it."
+
+Percy nodded slowly. He remembered the swim they'd taken under the stars and how easy it had felt when Triton stopped asking him to describe a childhood he couldn't see.
+
+"Thanks," he said. "I like hearing the stories. Sometimes I want them to be stories, not questions."
+
+"I understand. Better than I did when I arrived."
+
+Triton sealed the pouch. He gave Percy a small waterproof notebook, plain enough that it could have come from any camp supply store.
+
+"For your own observations," he said. "You can decide which ones you send home."
+
+Percy opened it. The pages were empty.
+
+"I thought you'd give me another manual."
+
+"I considered it. Then Silena told me you have enough things people expect you to study."
+
+Percy laughed. He tucked the notebook beneath his arm and promised to write when he'd filled a few pages. Triton didn't ask him to report on a fixed schedule. They agreed to send letters through the palace courier whenever the route allowed it.
+
+As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his sisters, lost a practice match and learned how a borrowed cloak was returned. Those were new memories they could share without requiring the old ones to come back.
+
+Triton waved once from the shallows before diving. Percy watched until the water settled, then went to breakfast with his new notebook in hand. He intended to write in it before his first lesson of the morning.

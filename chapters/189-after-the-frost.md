@@ -404,11 +404,48 @@ Silena looked up. "That's held," she said.
 
 "It's on a list," Silena said, and Clarisse, at the stove, said "It's on a list" at the same moment without turning round, and the two of them said it in the same words and stopped, and Clarisse kept ladling, and Annabeth put her face in her bowl because there are moments that require it.
 
-Beckendorf took a bowl from the stack without being offered one. He filled it himself at the stove. He stood at the end of the counter with his back to the room and ate the first bowl standing up with the unhurried speed of a boy who has eaten a lot of meals standing up in a warm room, and then he washed the bowl, and then he put the tin under his arm and went out, and in the doorway he stopped, and said, to nobody at all, "Beauregard. Soup's better on the second day."
+Beckendorf took a bowl from the stack and filled it himself. Silena was carrying bread between the tables, but when she reached his end of the counter she stopped to check the bracket he'd repaired.
 
-"It's better on the second day," Silena said, to the bread.
+"That really is straight," she said.
 
-"Then I'll come Thursday," he said, and went out into the wet, and the door shut, and the pavilion went on being loud and warm and full of steam for another twenty minutes while Annabeth ate her way through two bowls and said nothing at all.
+"Straight enough for the pot."
+
+"Straight enough for the pot's pot?"
+
+"Please don't make that a real unit of measurement."
+
+She smiled. He kept his eyes on the bracket while he finished checking that the bolt sat flush against the beam. He could have packed his tools and left without speaking to her again. Instead he set the little tin down on the counter.
+
+"If you have another problem with it, come to the forge. Don't climb up there yourself to try tightening it."
+
+"I hadn't planned to."
+
+"You'd be surprised how often people do."
+
+"I wouldn't," she said. "I have four siblings and a kitchen."
+
+That got a laugh out of him. He washed his bowl, dried it, and put it on the stack. At the door he turned back.
+
+"You said that soup's better the second day."
+
+"It is."
+
+"Is there any left for Thursday?"
+
+Silena looked into the pot. There was more than enough for another meal, though she had planned to save some for the early patrol.
+
+"If you come after the patrol gets fed, yes."
+
+"Then I'll come after."
+
+"Bring the bracket measurements," she said. "I want to make sure the second hook uses the same spacing."
+
+He nodded as though that was the only reason he intended to return. When he had gone, Clarisse moved past with the empty ladle and glanced at the measuring tape Silena was putting in her apron pocket.
+
+"Second hook?" she asked.
+
+"We do need one."
+
+Clarisse didn't argue. Silena went back to the bread counter, checking how much would be left for the patrol before she started another batch.
 
 ---
-

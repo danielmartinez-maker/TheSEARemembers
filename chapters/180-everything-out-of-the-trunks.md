@@ -526,7 +526,34 @@ At the top she let herself in. The Cabin One room was dark and warm and smelled 
 
 "Late," Annabeth said, and put her boots by the bed on the correct side, laced, and slid the field book under the edge of her pillow where it lived, and stood for four seconds with her hand on the cover, feeling the shape of the new one in the back cover — flat, folded twice, along the same creases, not loose — and then she got into the cold sheets in the cold room in the cold camp at the bottom of a cold hill and lay on her side with her face toward the wall and her hand out of the blanket, and thought, in the order she had been refusing to think it all day: the trunks, and the socks out of the basket hot enough to hold with both hands; the wall, and the low line at the outfall, and her sister's two mugs and her sister's two confiscations; the flat, and the boy in the borrowed jacket, and a bow case picked up at four; nine stitches down a felled seam, and a grey square left in a basket on purpose; a loaf torn in half without a decision; a line of amber sap, being left, deliberately, un-washed, on a cuff she was going to keep wearing until somebody made her say why.
 
-Outside, the wind moved the cedars once and then thought better of it. Nine lamps went on burning up the west path, and the tenth burned low and behind her at the bottom of the hill, and the camp lay down under its first proper cold night of the year with everything that needed to be warm already warm, and every list in it either kept or honestly, visibly, unashamedly open.
+Annabeth lay awake for a minute after Thalia's breathing slowed. The field book was under her pillow, with the newly folded note tucked into the back cover. She had promised herself she'd stop taking notes in bed, but a loose corner was pressing into her cheek and she couldn't bear leaving it like that.
+
+She took the book out, slid the note into the flat pocket beneath the cover, and set it on the little table. It was a sensible place for it. She could still reach it in the morning.
+
+From the other side of the room Thalia said, without opening her eyes, "You're moving your book again."
+
+"It was under the pillow."
+
+"Yes. I heard you put it there."
+
+"I don't want to bend the new page."
+
+"Then stop using it as a mattress."
+
+Annabeth smiled in the dark. She moved the book half an inch farther from her water cup, which had no lid and was exactly where a sleepy hand would knock it over.
+
+"Thalia?"
+
+"What?"
+
+"Thank you for walking back for the blankets."
+
+There was a longer pause. "You were going to go back yourself."
+
+"I was. You did it anyway."
+
+"Go to sleep, Annie."
+
+Annabeth did. The repaired seam would still need checking after the next storm, and the flat on the wall would require another measurement when the frost settled in properly. Her sister would probably have a new list at breakfast. None of those things needed doing in a dark room in which they were both finally warm enough to rest.
 
 ---
-

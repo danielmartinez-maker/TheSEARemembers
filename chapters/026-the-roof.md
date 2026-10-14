@@ -1,6 +1,5 @@
 ## Chapter 26: The Roof
 
-### Annabeth — After Lights-Out
 
 Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk.
 
@@ -94,7 +93,6 @@ Tonight, with Percy's shoulder warm under her cheek and his cold fingers finally
 
 ---
 
-### Percy — The Roof, Talking Low
 
 Percy had been on roofs before. In his remembered childhood there was Sally's apartment building in Manhattan, where she hung laundry and grew basil in tin cans and told him stories about his dad while the traffic roared below. There was Yancy Academy's gym, once, on a dare, for about forty seconds before a teacher caught him. Recently there was the reef-dome of the palace, which wasn't a roof exactly but felt like one — coral arching overhead while light filtered down blue and green.
 
@@ -194,7 +192,9 @@ Then a voice from below said, very clearly: "If you two lovebirds throw a blanke
 
 ---
 
-### Thalia — Ground Level, Armed with Cocoa
+
+
+---
 
 Thalia Grace had known Annabeth was sneaking out approximately ninety seconds after Annabeth started sneaking out.
 
@@ -322,7 +322,6 @@ Percy considered this. "I like that theory. The gods are too proud to arrange a 
 
 ---
 
-### Annabeth — Midnight, Three Blankets
 
 Annabeth had always thought of understanding as a blueprint thing — lines meeting at right angles, load-bearing walls, everything labeled.
 
@@ -356,7 +355,7 @@ Percy went pink with pleasure and tried to hide it by drinking cocoa. Annabeth r
 
 "The thing is," Annabeth said, wiping her eyes, "I feel disloyal. When I'm happy that Zeus is my dad here — sometimes loud and proud and embarrassing — I feel like I'm betraying her. Athena. Like I'm saying she wasn't enough. But she *was*. She was everything. She taught me to think. To build. To see the world as something I could fix." She looked up at the sky. "And then I feel disloyal the other way. When I miss her, when I draw owls in the margins and reach for books on weaving, I feel like I'm telling Dad he's just a replacement. But he's not. He's my dad. Both of them are — were — real."
 
-Thalia was quiet for a moment. Then she said, "You know what I think? I think hearts are bigger than cabins. You don't have to pick one parent and delete the other. You're Annabeth. You're smart because Athena taught you to be, and you're brave because Zeus dares you to be, and you're *you* because you remember Sally giving Percy extra pancakes, and you help him make them here so he can share them with you."
+Thalia was quiet for a moment. Then she said, "You know what I think? I think hearts are bigger than cabins. You don't have to pick one parent and delete the other. You're Annabeth. You're smart because Athena taught you to be, and you've learned to be brave even when Zeus makes it harder, and you're *you* because you remember Sally giving Percy extra pancakes, and you help him make them here so he can share them with you."
 
 Percy blinked. "Wait, how did I get in this philosophy?"
 
@@ -410,7 +409,6 @@ None of them said their wishes aloud. Some things you keep under the tile with t
 
 ---
 
-### Percy — Almost Morning, The Way Down
 
 They stayed until the sky paled in the east, until the stars thinned and the sea turned from silver to grey-blue and the first birds started in the woods.
 
@@ -452,13 +450,275 @@ Annabeth walked Percy halfway to the Poseidon cabin, both of them yawning, shoul
 
 Percy watched her climb through the window — Thalia's hand reaching out to haul her in at the last second — and then turned toward his cabin where Clarisse and Silena were asleep, toward the fountain and the seashells and the bunk that smelled like salt.
 
-Above him the sky was forgetting the stars, washing them out one by one. Below him the sea kept breathing, remembering every name, every city, every tide garden and bakery and pancake morning.
+Percy stood on the last step of Cabin One and checked that the ladder was still where they'd hidden it. Thalia had promised to put it away before anyone noticed, although she hadn't said which of them would have to explain the scratched paint.
 
-Percy walked home under the wide brightening sky, his feet cold, his chest warm, carrying two cities and two homes and one roof inside him, and for once the doubling didn't ache.
+"Breakfast later?" Annabeth asked from the doorway.
 
-It just felt like having more sky to hold.
+"If you're awake."
 
-*End of Chapter 26.*
+"I'll be awake."
+
+He took the gravel path toward Cabin Three, carrying her spare blanket under one arm. He would have to return it before Thalia added it to the list of things Percy borrowed without asking.
 
 ---
+
+The cabin steward had been trying to explain the difference between an observation platform and a roof to the camp's residents for years.
+
+Annabeth found this out when she came to the workshop with a sketch of the balcony she wanted to improve. The steward was a gray-haired satyr named Hal, whose spectacles had been repaired with a piece of wire and whose shelves held more unlabeled spare screws than anyone ought to trust.
+
+"Can you tell me what this was originally built for?" she asked, pointing to the trellis on her drawing.
+
+"Decoration," he replied.
+
+"And the wooden slats?"
+
+"Somebody added those when they wanted to climb to the roof. Nobody made them to support people. I'm surprised half of them are still attached."
+
+Annabeth looked at the cross-section she'd sketched. The old trellis had a sound frame under the vines, but the thin slats had been nailed through places that were never designed to bear weight. She had used them as a ladder because they'd looked like a ladder. That was exactly the kind of assumption she normally criticized when another student made it.
+
+"Could we replace the slats with a proper access ladder?" she asked.
+
+"For maintenance, perhaps. But it would need a lock and the work crew would have to approve it. We don't need more children climbing the wall at night."
+
+She considered that. She had come expecting him to agree to a solution because she'd drawn it well. His response wasn't a rejection of the design. It was a question about its use.
+
+"What about the balcony?" she asked.
+
+"That's meant for people. Why isn't it good enough?"
+
+"It faces the practice yard. I'd like a place with a view of the Sound."
+
+Hal unfolded the cabin's original plans. The western balcony was shallow because the architect had wanted a tall uninterrupted wall facing the hill. The load-bearing posts could support a bench and a small table, but the railing had been designed for a person standing rather than leaning their weight against it for hours.
+
+"If you want to sit out there, put the bench against the inside wall," he said. "And don't build anything until we check the rail. Chiron will want you to use it only at approved times."
+
+Annabeth made a note. The constraint was disappointing and therefore worth taking seriously.
+
+"Could we test the seating arrangement with a mock-up?"
+
+"Yes, if you keep it on the ground. Bring the measurements tomorrow. I'll have the carpenter look at them."
+
+She thanked him, then hesitated at the door.
+
+"Would you mind if I helped take down the loose slats?"
+
+"Under supervision. We don't pull things off buildings because we're embarrassed they failed."
+
+Annabeth felt her cheeks warm. "I wasn't going to."
+
+Hal looked over his spectacles. "You were thinking about it."
+
+"Possibly."
+
+"Then I'm glad you asked."
+
+She returned to Cabin One with a list of decisions still awaiting approval. It was the opposite of the satisfying surprise she'd wanted to arrange for Percy. She could not make it magical by hiding the work. She could make it useful by giving the balcony a place where people could sit without worrying whether their weight was on the wrong board.
+
+Thalia was polishing a shield when Annabeth entered. She looked at the notebook and raised an eyebrow.
+
+"You've made another plan."
+
+"A bench. For the balcony."
+
+"Didn't we already have a balcony?"
+
+"We have a narrow space with one uncomfortable chair. That's not the same thing."
+
+Thalia put down the shield. "Then tell me the problem."
+
+Annabeth explained the original drawing, the proposed bench and Hal's concern about the railing. Thalia listened, then asked whether the bench would leave enough room for someone carrying an injured camper through the balcony door.
+
+Annabeth stopped. She hadn't considered that the balcony might be used for emergency access when the front of the cabin was blocked.
+
+"You're right," she said. "We should make sure the passage stays open."
+
+Thalia looked pleased, then tried to hide it. She was learning that Annabeth didn't need praise for every sensible observation, particularly when the observation came from someone else.
+
+"Can I help you measure?" she asked.
+
+"Yes. But don't move the whole chair before I mark where it stands."
+
+"I wasn't going to."
+
+"You were."
+
+Thalia laughed and went to fetch the tape measure.
+
+They measured the width of the doorway, the clearance around the corner and the place where the bench could sit without blocking movement. Annabeth drew three versions and discarded two. The last was smaller than she'd wanted, but it left enough space for a person with a crutch to pass. It could be moved if the steward needed access to the gutter.
+
+Thalia examined the drawing. "There's room for three."
+
+"That was the intention."
+
+"Percy?"
+
+"Maybe."
+
+"Fine. Then we'll make sure the bench is strong enough for you and your fish boy and one extremely patient older sister."
+
+Annabeth smiled. She had been expecting a joke about romance or being too young to stay out late. Thalia's offer was practical and included herself without insisting she be present every time.
+
+"You're allowed to come," Annabeth said.
+
+"I'm allowed to ask first," Thalia corrected.
+
+She looked surprised at her sister's answer. Thalia seemed to mean it.
+
+They spent the next hour making a full-size cardboard template on the ground near the arts shed. Beckendorf passed by and offered two offcuts that would work for the supports if Hal approved the design. Annabeth refused to take them until she knew the correct width. He gave her a look of affectionate exasperation.
+
+"Most campers ask me for wood and worry about the measurements afterward."
+
+"That's why so many benches wobble."
+
+"I won't argue."
+
+By the time the template was finished, Percy arrived from water training. He was carrying a towel and the expression he wore after a lesson had gone well but left him too tired to make a big announcement about it.
+
+"What are you building?" he asked.
+
+"Somewhere you can sit without falling off a roof," Annabeth said.
+
+He examined the outline. "That's an improvement."
+
+"I thought you'd approve."
+
+"I approve of most things that end with fewer broken limbs."
+
+He crouched beside the cardboard and asked whether there was a way to fold the backrest flat when the bench wasn't in use. Annabeth thought about it. A folding back would introduce another hinge, which could fail or pinch fingers. She rejected the idea but wrote down the constraint, because he had been right to ask.
+
+Percy didn't seem offended. He helped them move the template against the wall, where the three of them sat on the low practice blocks to test the sight line. The view toward the Sound was partly blocked by trees. It wasn't the broad expanse Annabeth had imagined from the roof. But she could see the water in the distance and the lights of the cabins below.
+
+"Not bad," Percy said.
+
+"Not perfect," Annabeth replied.
+
+"That may have to be good enough."
+
+Thalia looked at her sister. "You don't have to love the first version. You can build something better once we have permission."
+
+Annabeth considered the cardboard in front of her. It was the first time she'd worked on a private space without assuming she needed to claim it by going somewhere nobody else was allowed to go. The design had become less secret and more achievable.
+
+She folded the template and put it in the workshop for the next day's review. Nothing had been built yet. But she had asked the people responsible, checked the limits and included the people who would actually use it.
+
+
+
+---
+
+The next afternoon, Thalia reported the loose third slat to the cabin steward.
+
+She had climbed for years and recognized how easily familiarity could make a dangerous structure feel harmless. The night before she'd brought hot chocolate to Annabeth and Percy on the roof. She'd tested the trellis as she climbed, spotted the loose plank and told herself she knew what she was doing.
+
+In daylight, with the steward examining the cracked fitting, she wasn't proud of her judgment.
+
+"You knew this was loose?" he asked.
+
+"I noticed last night."
+
+"And you climbed anyway?"
+
+"Yes."
+
+He wrote something on the inspection sheet. Thalia had expected a lecture. His silence was worse.
+
+"I wasn't trying to put anyone in danger," she said.
+
+"Nobody ever is. The question is whether you changed your plan after noticing the problem."
+
+She hadn't. She'd spread blankets over a narrow section of roof and let two younger children drink cocoa beside her because she wanted them to feel safe. The memory was warm and embarrassing at once.
+
+"Can you fix it?" she asked.
+
+"Yes. The platform's closed until we do. I'll make sure Chiron posts a notice."
+
+Thalia offered to help. He accepted, but made it clear she would stay on the ground while the repair crew checked the trellis.
+
+When she returned to Cabin One, Annabeth was at the desk with her notebook.
+
+"Something wrong?"
+
+"The roof slat. I told the steward. He's closing the platform until it's repaired."
+
+Annabeth frowned. "You checked it when you climbed."
+
+"I did. That didn't make it safe. We should've used the balcony."
+
+"You were the one who came up after us."
+
+"I know." Thalia sat beside her. "I made the same choice and acted like mine was better because I was older."
+
+Annabeth considered that. She had spent years being told by older campers that experience justified risks they wouldn't let younger people take. It felt strange to hear her sister admit she'd done exactly that.
+
+"Would you still come up with cocoa if the roof were safe?" she asked.
+
+"Maybe. But you'd get to tell me you wanted time alone first."
+
+"I'd probably let you stay."
+
+"Probably?"
+
+"You brought the good marshmallows."
+
+Thalia laughed. Then she suggested working on a safer place to sit out at night. Annabeth drew a small bench for the balcony, leaving space for a shelf where they could put the cups without balancing them on their knees. Thalia asked whether the steward had approved the load. Annabeth gave her an exaggerated look.
+
+"You're becoming Chiron."
+
+"That's what happens when I make a bad decision and listen to what somebody says about it."
+
+Annabeth copied the measurements from the last balcony inspection before proposing any construction. She was pleased that her sister let her handle the drawing rather than taking over.
+
+Percy stopped by after afternoon practice. He examined the bench plan and offered to help carry the wood, provided the steward approved it. Neither sister asked him to return to the roof. He was glad, though he didn't say so.
+
+Chiron received Thalia's written account of the rooftop access before dinner. She signed the log, accepted a short repair-site chore and asked whether the approved balcony could be used after curfew with permission. He said they could submit a request for specific evenings.
+
+That night, Thalia and Annabeth sat on the cabin steps. Percy brought three paper cups of cocoa from the pavilion. It wasn't as private or dramatic as the previous night, but they could still hear the Sound and see the last light on the cabins. Thalia didn't need a dangerous height to recognize how much she liked their company.
+
+The following morning, Hal examined Annabeth's bench plan and asked three questions that sent her back to the drawing table. The first was about how the bench would be fixed so it couldn't slide during high winds. The second was whether the wood would rot if rain blew in through the balcony opening. The third was where they intended to store the bench when the cabin needed cleaning.
+
+Annabeth had answers to the first two. She hadn't thought about the third.
+
+"We could make it light enough to carry," she said.
+
+"Light enough isn't a storage location."
+
+Thalia, who had come to watch the review, pointed to the empty recess beside the storage cupboard. The space was narrow, but a folding seat could fit there if the legs were designed to lock properly.
+
+"That's better," Hal said. "Now we need to check whether the locking mechanism will hold."
+
+Annabeth drew a second joint on the margin of the plan. She had wanted to finish the bench quickly. Every additional requirement seemed to move the project another day away. But she remembered the loose slat above the trellis and recognized the same temptation to accept a drawing because it looked plausible.
+
+"Can I build a small prototype first?"
+
+"Yes. Bring it here before you make the full-sized version."
+
+Thalia helped her choose offcuts that matched the intended wood. They spent an hour cutting a basic joint and testing it with a weight supplied by the workshop. It held when the load was centered. It shifted when they put the weight near one edge.
+
+"Then we need another brace," Annabeth said.
+
+"Or a different hinge," Thalia suggested.
+
+They tried both on the prototype. The second hinge moved smoothly but left the seat with an awkward gap. The additional brace was less elegant and more stable. Annabeth chose it.
+
+When Percy arrived after lunch, he found them sitting on the ground beside an unfinished wooden rectangle.
+
+"Is that the bench?"
+
+"That's the part that keeps the bench from falling apart," Annabeth replied.
+
+"Good part to start with."
+
+He examined the brace and asked whether they needed help carrying the larger boards from the storehouse. Hal said they could have them once the plan was approved. Percy accepted the delay without suggesting he could move everything himself.
+
+Annabeth marked the final change on the drawing. She couldn't claim she'd built the balcony she'd imagined the night before. She had something better for the moment: a prototype that failed visibly, a correction she could test, and two people who were interested in the project because they wanted to use it with her.
+
+Chiron signed the work order later that afternoon. The balcony could be used once the railing inspection was complete, and the bench could be installed after Hal approved the full-size joints. Annabeth wrote both conditions at the top of the plan before taking it back to Cabin One.
+
+Thalia read them and smiled.
+
+"You're going to put that paper next to your bed, aren't you?"
+
+"Probably."
+
+"Good. Then you won't be able to pretend you forgot."
+
+Annabeth put the plan on the desk where she would see it in the morning. She still wanted nights with Percy under the stars. She had stopped assuming the only way to have them was to choose the highest place nobody had given her permission to use.
 

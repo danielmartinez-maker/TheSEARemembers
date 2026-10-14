@@ -2,13 +2,13 @@
 
 Percy knew St. Louis was close before anyone saw a sign for it, because Grover woke up from a dead sleep in the back of the van and said, "Water. Big water. River water."
 
-It was the third morning after the gnome place. The van smelled like hot rubber and old fries. They had left Uncle Ferdinand and the two half-stone campers with nymph runners outside Indianapolis for the slow hidden roads to camp, and Grover had cried and pretended he had not.
+It was the third morning after the gnome place. The van smelled like hot rubber and old fries. They had transferred Uncle Ferdinand and the other petrified victims into the care of the nymph depot's recovery team, with names and case records for Chiron. Grover had watched the recovery vehicle depart without pretending he was fine.
 
 Now the map was spread across Annabeth's knees again, pencil marks all over Missouri. Her braid was messy. Her camp shirt was still short where she had torn the hem for Percy's bandage. The bandage itself was gone, replaced by a clean wrap Silena would have approved of, but the thin pink line on Percy's forearm was still there, a reminder of bronze nails.
 
 "St. Louis hub," Annabeth said, tapping the circle she had drawn three times. "Sam the driver said black car west. The Hermes Express drop he used routes everything through St. Louis before it goes southwest. If the buzzing box went to LA in a mortal car, it had to cross the Mississippi. And where do you cross with something that makes radios go static?"
 
-"Big shiny bridge where no one looks twice?" Thalia guessed from the driver's seat. Her black hair was pulled back, her silver circlet dull with dust. She had been driving in shifts since dawn and her eyes were tired.
+"Big shiny bridge where no one looks twice?" Thalia guessed from the passenger seat. Her black hair was pulled back, her silver circlet dull with dust. Martin had been driving since dawn; she had been checking their stops and watching the mirrors.
 
 "Gateway depot," Annabeth said. "Under the Arch. The old train station post office. Mortals ship packages, gods ship trouble, same building. Chiron marked it as a maybe safe house. If the bolt passed through, someone there heard it buzz."
 
@@ -26,7 +26,7 @@ Percy had seen pictures in school, but pictures did not prepare him. It rose out
 
 "It looks like a door," Thalia said quietly.
 
-Percy glanced at her in the mirror. Her knuckles were white on the wheel.
+Percy glanced at Thalia. Her hand was clenched around the folded route sheet.
 
 Annabeth was looking at the Arch too, but her face had gone strange. Not admiring. Pale. Her pencil had stopped moving.
 
@@ -38,7 +38,9 @@ She did not answer right away. She stared at that silver curve like it might mov
 
 ---
 
-They parked in the lot by the old courthouse and walked to the park in a tight group, packs on, jackets zipped even though it was warm. The grass under the Arch was bright green and neatly cut. Families spread blankets. Kids chased pigeons. A man sold shaved ice from a cart. The Mississippi glinted beyond the steps, wide and brown and steady, barges moving slow.
+
+
+Martin parked in the lot by the old courthouse. They agreed on a time to meet him again and walked to the park in a tight group, packs on, jackets zipped even though it was warm. The grass under the Arch was bright green and neatly cut. Families spread blankets. Kids chased pigeons. A man sold shaved ice from a cart. The Mississippi glinted beyond the steps, wide and brown and steady, barges moving slow.
 
 It should have felt safe. It did not.
 
@@ -98,7 +100,7 @@ Thalia's face changed. No disbelief. In this life they had learned to trust Anna
 
 Thalia looked at the Arch, then at the river, then back at her sister. She tucked the tickets into her pocket.
 
-"We still go up," she said. "If it hunts us, better to meet it where we see it coming than have it follow us to the depot. But we stay together. We note exits. Grover, you keep your pipes ready and your shoes loose for running. Percy, you stay near the windows but not against them. Beth, you stay with me. If dog grows, I take front. Understood?"
+"The tickets are an option," she said. "We check the records desk first. If the record isn't there and the only real lead is upstairs, we decide whether to risk it. But we stay together, note the exits and leave immediately if the dog appears. Understood?"
 
 "Understood," Grover squeaked.
 
@@ -112,6 +114,166 @@ She tried to grin. It did not quite work.
 
 "Come on, quest," she said. "Let's go be tourists."
 
+Martin had insisted on an exact return time before they left the parking lot. Thalia had agreed to check in after their visit, but she was still uncomfortable about how little they knew about the courier record.
+
+He had no interest in climbing the Arch. He had already agreed to take the children as far as the next safe contact, and he was becoming increasingly aware that the road trip contained more detours than his supervisor had authorized.
+
+"An hour," Thalia said.
+
+"An hour from now, or an hour after you get into the building?" Martin asked.
+
+Annabeth consulted the visitor schedule on the sign. The last morning tram had a longer queue than she'd expected. "From now is too short. We need a time to get through security, meet the courier clerk and come down."
+
+Percy looked up. "What courier clerk?"
+
+"The one Chiron's contact said might have the shipping records," Annabeth replied. "That's why we're stopping here, remember? The depot near the Arch handles the transfer numbers. The public records desk has moved to the visitor complex while the freight offices are being renovated."
+
+"So we don't have to go to the top?"
+
+"Not for the documents," Annabeth admitted. "But the person who can confirm the route works part-time as a tour employee. The contact said he might be on the upper gallery today."
+
+Thalia stared at her. "You're telling me now?"
+
+"I only found the note on the back of the route sheet when I checked the latest directions."
+
+Martin folded his arms. "Then you check the public desk first. If your contact isn't there, you return and tell me what changed. You don't climb into a tower because somebody told you the person you need might be at the top."
+
+Thalia was about to object. Percy recognized the angle of her chin, the one that meant an adult had just suggested a limit she wasn't going to like. Then Annabeth interrupted.
+
+"He's right."
+
+They all looked at her.
+
+"Going up is unnecessary if the documents are downstairs. We can see whether the clerk is available before we make the rest of the plan."
+
+Percy felt a wave of relief. Annabeth had just described the memory of watching him fall from a hole high above the Mississippi. He didn't want their first reaction to that warning to be buying tickets for the location of the accident.
+
+They followed the signs to the visitor information center, where a ranger directed them to a small desk near the exhibits. The clerk behind it looked ordinary except for a silver ring with a pair of wings on it. He listened to Chiron's contact name, studied the seal on the folded introduction and shook his head.
+
+"The shipment register is downstairs," he said. "But somebody has already requested a sealed copy of the transfer record you're after."
+
+"Who?" Annabeth asked.
+
+"Couldn't say. The request came through the upper office. The original will be delivered to the gallery later today, unless the manager changes the schedule."
+
+"That doesn't mean the thief is upstairs," Percy said.
+
+"No," the clerk replied. "It means somebody wanted the record moved."
+
+He could provide the public route number, which Annabeth copied in her notebook. He couldn't give them the name of the requester without his supervisor. He offered to ask, but warned it might take hours.
+
+Thalia looked toward the Arch, then at the time.
+
+"If we go up and find the record, we might know where the box went," she said.
+
+"And if you go up and a monster finds you?" Martin asked.
+
+"We have a monster following us either way," she said. "Grover can smell it near the park."
+
+Martin didn't like that answer. Neither did Percy. The trouble was that waiting at the desk might not make the situation safer if someone was actively moving a record to keep them from finding it.
+
+Annabeth closed her notebook.
+
+"We can go up together, but only after the ranger confirms the emergency exits and we agree what happens if the woman I remember shows up. We aren't going to stand in a narrow gallery and argue with her because we want an answer about the box."
+
+Martin insisted they leave the duplicate route number with him. If they didn't return by the agreed time, he would call Chiron's contact and the visitor service, in that order. He didn't offer to fight a monster, and nobody asked him to.
+
+As they stepped away, Percy whispered to Annabeth, "You're sure?"
+
+"No." She was looking up at the curve. "I know what happened to us before. That makes me more afraid, not more certain that it will happen the same way."
+
+Percy took the route number from her so she'd have one hand free. He didn't tell her the river would save him. He didn't know whether it would, and he was tired of making promises based on the life they had already lost.
+
+They headed for the security line with the emergency-stair instructions copied into Annabeth's notebook.
+
+---
+
+In the security line, Annabeth discovered that being prepared was different from feeling prepared.
+
+She had copied the emergency stair locations into her notebook. She knew the tram ride would take only a few minutes. The visitors ahead of them were discussing the view, not the possibility of being trapped in the top of the Arch with a monster that breathed fire. None of that stopped her fingers from tightening around the edges of her ticket.
+
+Percy noticed because he'd been watching her hand instead of the security guard.
+
+"Do you want to go back?" he asked quietly.
+
+"Not without the record. The courier clerk might still be up there."
+
+"That's not what I asked."
+
+She looked at him. The bright gray of her eyes was the same as it had been in the older life, when she'd known every line of the Parthenon and fought him about whether they should trust strangers. But this time her father was Zeus and her sister was standing alive a few feet ahead. It changed the stakes of old memories Percy had assumed would never change.
+
+"I want to leave," Annabeth said. "And I want to know whether the box went west. Those aren't the same thing."
+
+"We could ask Martin to help us get the record later."
+
+"By the time somebody sorts that out, the solstice might be here."
+
+Percy nodded. He didn't tell her it would work out because they'd survived the Arch once before. The story she remembered hadn't included Thalia or a courier record. Knowing the old ending didn't make him qualified to predict this one.
+
+Thalia returned from speaking to a ranger near the checkpoint.
+
+"Both stairways open. Tour guide says the two tram groups will be separated until we're at the gallery. Emergency alarm means everybody goes down the nearest staircase, no waiting for a friend in the other car."
+
+Grover swallowed. "I'm not very good at not waiting."
+
+"Neither am I," Thalia said. "That's why we're deciding before we hear an alarm."
+
+Annabeth took a pen from her bag and put a small mark on the back of each ticket: an arrow for the staircase they'd use if the others were blocked. It was a minor precaution, almost silly, but Percy understood her need to make the choice while they were still on ordinary ground.
+
+"Can we keep all four of us in one tram?" Percy asked the attendant.
+
+"Not safely," the attendant said. "Each capsule has a limited number of seats. You'll have to split up."
+
+Thalia weighed the options. Annabeth started to say that she and Percy could travel together, then stopped.
+
+"I'd rather you be with Grover," she said to her sister. "If he panics, you know how to calm him."
+
+"I can handle my own panic," Grover said, with dignity.
+
+Thalia smiled. "I know. I'll help anyway."
+
+Percy looked at Annabeth. They would be together for the ride, but what mattered more was whether each pair could reach the stairs when the doors opened. He watched her put the ticket back in her pocket. Her hands were still trembling a little.
+
+"You're allowed to be scared," he said.
+
+"So are you."
+
+"Oh, I am."
+
+"Good. I'd be worried if you weren't."
+
+They passed the checkpoint. The guard glanced at Grover's bag, asked him to show the contents and frowned at the metal colander. Grover told him it was an emergency cooking utensil, which was at least one of its theoretical uses. The guard allowed it after making sure there was nothing sharp attached to the strap. Thalia's spear appeared to the mortal eye as a walking stick and the Mist held, although Percy could tell from her expression that she disliked depending on it.
+
+They reached the waiting area and found a map on the wall showing the layout of the upper observation gallery. Annabeth counted the windows and marked the location of the stairs. Thalia traced the narrowest parts of the curve with one finger, then stopped at the section where Annabeth remembered the Chimera breaking through.
+
+"If it's there," Thalia said, "we go back down. We're not here to prove we're stronger."
+
+"Right," Percy answered.
+
+Thalia looked at him. "I mean it."
+
+"So do I."
+
+"You don't always."
+
+That stung. Percy wanted to point out how many times he'd saved somebody by ignoring an instruction to run. He also remembered how often the people he loved had been left paying for that choice after the fight ended.
+
+"You're right," he said finally. "I don't always."
+
+Thalia seemed surprised he hadn't argued. She folded the map again.
+
+"Then listen to Annabeth. She has a good reason to hate this place."
+
+Annabeth looked away, embarrassed by the public reference to a memory only she and Percy had experienced. Thalia didn't apologize for taking it seriously. She had no recollection of dying beneath the pine tree either, but she'd learned that her sister's impossible memories could hurt as badly as ordinary ones.
+
+The doors to the tram opened.
+
+Percy saw the little egg-shaped compartment waiting in the shaft and felt his stomach drop. He could still turn back. They all could. The courier clue was uncertain, and the warning in Annabeth's eyes was real.
+
+He stepped inside only after checking that she was coming by choice. She gave him a small nod and followed, the emergency ticket folded tightly in her palm.
+
+Their plan might fail. It was not a prophecy. It was something the four of them had decided together.
+
 ---
 
 The tram was worse than Percy expected.
@@ -122,7 +284,7 @@ Annabeth had her notebook on her knees but she was not writing.
 
 "You are thinking about Atlantis," she said.
 
-Percy nodded. In this life he had woken there first, in coral and blue light, with Triton teaching him to breathe and let the current hold him.
+Percy nodded. Since awakening in this changed life, he had learned the palace routes and practiced with Triton in the water. Those lessons were real, even if the childhood his family remembered was still a story he could not recall first-hand.
 
 "If I fall again," he said quietly, so the speaker in the car would not pick it up, "the river will catch me. Dad will catch me. The sea remembers me, even this river. It runs to the sea."
 
@@ -216,6 +378,66 @@ The stairs seemed endless. Legs shaking, lungs raw, Grover's hooves clattering, 
 
 ---
 
+Halfway down the emergency stairs, they found the problem with moving an entire room of tourists through a passage designed for a smaller number of people.
+
+A ranger stood near a landing, trying to get a group of visitors past a child who had dropped her shoe. Her father was kneeling to retrieve it while people behind him pushed forward, frightened by the alarms and the heat above them. The child's crying grew louder with every person who brushed against her.
+
+"Keep moving," the ranger called. "Please, keep moving."
+
+Percy stopped. Grover almost collided with him.
+
+"We can't just push past her," Percy said.
+
+"We aren't going to," Annabeth replied. She crouched and spoke to the little girl without touching her. "Can you stand on one foot for a moment? Your dad can get the shoe while we make room."
+
+The girl nodded, crying too hard to answer.
+
+Percy shifted to the outer edge of the stair and held the handrail so nobody could shove through the narrow space. Grover stayed behind him, using his pipes not to charm the whole crowd but to play a low rhythm that people could follow as they stepped down. It gave the ranger something to call over the alarms.
+
+"One at a time," Grover said, his voice shaking. "Follow the tune. Slow feet on the turns."
+
+It sounded ridiculous. It worked.
+
+The father recovered the shoe, and the child limped past with her hand in his. Annabeth told the ranger there were more people above and that a larger creature was near the observation deck, though she knew the Mist would turn that into smoke or machinery trouble in the man's memory.
+
+"How many people?" he asked.
+
+Annabeth glanced toward the stairwell. "I counted seventeen visitors in our section. Six came past us. There should be eleven more, plus staff."
+
+The ranger repeated the number into his radio.
+
+Percy had barely noticed the other people when Echidna transformed the dog. He had seen the monster and his friends. Annabeth had been counting strangers. He didn't know how she managed to do both.
+
+They moved downward again, helping the last visitors past a landing where the emergency lights flickered. A woman was coughing badly and had to stop between flights. Percy wanted to run back for Thalia. He could hear the Chimera above them, the sound arriving through metal as a series of deep impacts. Every blow felt like another promise he was breaking.
+
+"Percy, we can't leave her," Annabeth said, meaning the coughing woman.
+
+"I know."
+
+He wanted to shout that he also couldn't leave Thalia. Annabeth already knew that. She had been watching her sister fight, and she was making herself finish the thing Thalia had asked her to do.
+
+They helped the ranger guide the woman down another flight. Grover took her empty water bottle and filled it at a maintenance fountain after asking whether it was safe to drink. Percy kept a hand under the woman's arm while she took a breath.
+
+When they finally reached the ground, the ranger checked the count again. He had thirteen of the seventeen visitors in his section. Four were still unaccounted for, though some may have been guided to the other exit.
+
+"You're not going back up," he told the children.
+
+Annabeth did not argue. "We know."
+
+Percy looked at her. She had said it as though she meant it, and he wanted to mean it too. He had promised not to repeat the jump he'd survived in the old life. He could hear Thalia holding the monster above them. One part of him believed that if he was fast enough, strong enough, reckless enough, he could save everybody himself.
+
+Then the radio crackled with news that another ranger had found three visitors on a separate stair, and somebody reported a staff member heading down with a burned arm. Annabeth leaned toward the speaker, listening for Thalia's name.
+
+A family ran past them into the sunlight. The girl with the missing shoe was holding her father's hand. Percy watched her go, then looked at Annabeth. Both of them had soot on their clothes and eyes that burned from smoke.
+
+"How many left?" he asked.
+
+"Maybe one visitor. Maybe none. The counts might overlap." She looked toward the river. "We're getting clear. That's what Thalia told us."
+
+Percy followed, hating every step. He had just learned that he could do something useful by staying with people who weren't his family. He was going to have to decide whether that lesson mattered as much when his family was the one in danger.
+
+---
+
 Percy burst out at the base into sunlight and screaming.
 
 The park had changed. Mortals ran on the grass, pointing up. Rangers shouted into radios. The Arch loomed overhead, silver and perfect except—
@@ -264,11 +486,11 @@ Percy grabbed Annabeth and Grover and ran toward the river side, toward the step
 
 Another roar shook the Arch. The hole widened. Metal screamed.
 
-And then Percy saw him. A small figure climbing up from below, inside? No— outside? On the curve? It took Percy a second to understand. Someone had gone back in through the south leg maintenance door, darted past the ranger line while everyone watched the sky.
+Percy looked toward the south-leg maintenance door. The rangers were all looking up. For a moment he imagined someone slipping past them, taking the empty stairs while the fire consumed the upper galleries.
 
-Percy. It was Percy he was seeing in his mind, but also real. Because Percy was already moving.
+Then he realized the person in that plan was him. He could go back. He had promised Annabeth he wouldn't do anything stupid, but he could also see her sister trapped at the edge of a hole in the steel. He made the choice anyway.
 
-He did not remember deciding. One second he was holding Annabeth's sleeve on the river steps, the next he was sprinting back toward the Arch base, Riptide uncapped and bronze shining in daylight, shouting over his shoulder.
+He let go of Annabeth's sleeve and sprinted toward the door, Riptide uncapped and bronze shining in daylight, shouting over his shoulder.
 
 "Get mortals back! Get to water! If I fall, stay by river!"
 
@@ -373,6 +595,46 @@ It worked. It always worked and it always surprised him. Water filled his mouth 
 Current whispered around him, muddy and fast. *Sea son. Run. Swim.*
 
 Percy kicked. His clothes dragged. Riptide was somehow still in his hand, capped back to a pen. He tucked it away.
+
+The current did not simply carry Percy toward the bank.
+
+At first it pulled him downstream, toward a barge moving against the traffic of smaller boats. He could hear the engine through the water, a low mechanical beat that made his ribs ache. He tried to change direction and discovered his arms weren't cooperating. The fall had emptied him. His body was alive, but every muscle wanted to stop moving.
+
+He had always loved the idea that water would recognize him anywhere. There was comfort in imagining an entire river as a friend. But the Mississippi had other work. It carried silt, branches, boats and the weight of half a continent's rain. It could support him without becoming obedient in every detail.
+
+Percy looked at the barge's dark underside and forced himself to pay attention.
+
+He didn't need to lift the whole river. He needed enough water around his body to move sideways. He could feel a slower current near the stone wall, where the river turned back on itself. Instead of fighting the middle channel, he followed that change in pressure.
+
+The first attempt sent him spinning. His shoulder struck something floating and solid, perhaps a branch. Pain shot down his arm. He lost his sense of direction and swallowed water before remembering that his breathing didn't need to work like a mortal's while he was submerged.
+
+He waited until the panic passed.
+
+He was not seven-year-old Percy in a swimming lesson, though Silena would have recognized the way he talked to himself. He was twelve and had spent months learning the boundaries of gifts he hadn't chosen. He remembered surviving this fall before, in another version of the world, but it wasn't a guarantee written into the riverbed. If he hit the barge or a retaining wall with enough force, Poseidon's favor might not be enough.
+
+*Look. Choose. Move.*
+
+It was the sort of instruction Annabeth would have given him, except she'd have added a complaint about how long he'd taken to understand it.
+
+Percy let the water turn him onto his side. He pushed with the current instead of straight against it, angled away from the barge, and followed the slower band toward the river steps. A piece of wood slipped past his head. He caught it for a second, used it to orient himself, and let go before the current dragged it downward.
+
+Then he saw light breaking into little shards above him and realized he was nearer the surface.
+
+He rose too quickly. Air hit his face in a gasp, and a wave slapped into his mouth. A passing boat sent a wake across his path. He went under again. This time he didn't fight. He waited for the wake to pass, then surfaced beside a patch of calm water sheltered by the steps.
+
+Somebody was shouting from shore.
+
+Percy couldn't make out the words. He saw orange emergency jackets and the shape of a girl moving among them. Annabeth. He knew her even from a distance, from the way she planted her feet before she pointed.
+
+He raised one arm.
+
+It was a mistake. The effort tipped him backward, and his shoulder cramped. Percy stopped waving and concentrated on reaching the shallow current.
+
+The river pushed him one last time, hard enough that his knees struck the submerged step. He grasped the edge and pulled himself up, coughing mud and water. His lungs worked normally again, and the sudden cold was terrible. The sun on his back didn't seem to help.
+
+He had made it. That did not make the fall safe.
+
+Percy was still struggling to stand when he heard Annabeth run down the steps. There would be time for her to be furious. He could see already that she was, and he couldn't blame her.
 
 The river spat him out in the shallows by the steps, coughing brown water onto concrete, shivering violently despite the warm air.
 
@@ -484,6 +746,118 @@ Thalia opened one eye. "I was okay."
 
 Percy thought of Clarisse and Silena back at camp, of red shoelace on his duffel and blue-green cord on his wrist, now soaked with river water. He touched the bracelet. Still there. Still knotted.
 
+The ranger at the steps did not let them leave immediately.
+
+"You four were inside," she said, studying the soot on their clothes. "We need to know whether anybody is still up there."
+
+Annabeth answered before Percy could decide what the Mist would allow the woman to hear. She reported the visitors they'd helped in the stairwell, the missing count and the staff members she'd seen directing people toward the north exit. She gave the ranger the time of their descent as closely as she could recall it.
+
+The woman listened, wrote in a notebook and radioed the count. She had seen a number of people with smoke inhalation and was insisting they be checked by emergency workers before going anywhere else.
+
+"Your friend's head is bleeding," she said, pointing at Thalia.
+
+"It's a cut," Thalia answered.
+
+"It may be. You need someone to look at it."
+
+Thalia opened her mouth to argue. Percy was prepared for the inevitable speech about daughters of Zeus recovering faster than ordinary people. Then Annabeth put her hand on Thalia's wrist.
+
+"She's right," Annabeth said.
+
+"Beth, we have to get away before that thing comes back."
+
+"We can't outrun a head injury. And Percy just fell six hundred feet into a river."
+
+"Not all of it was falling," Percy muttered.
+
+Nobody laughed.
+
+The ranger was already leading them toward a first-aid station set up on the grass. Percy let himself be guided. He wanted to go somewhere safe, but the idea that they could hurry away from the Arch and make the injuries disappear was too tempting, even for him.
+
+Martin arrived from the parking lot while a paramedic was checking Thalia's responses. He took one look at Percy wrapped in an emergency blanket and swore under his breath.
+
+"I told you to come down if the situation changed."
+
+"It changed pretty quickly," Thalia said.
+
+He looked at her forehead. "So I see."
+
+The paramedic asked Thalia whether she'd blacked out, felt dizzy or become nauseated. She said no to the first question and hesitated over the second. Percy could see Annabeth listening carefully. Thalia had walked down the stairs on her own, but she was moving more slowly now, and she winced when a siren sounded nearby.
+
+The paramedic told her not to exert herself and recommended further medical evaluation for the head injury. Martin agreed immediately. Thalia looked furious, though Percy thought most of the fury was at being hurt in front of her sister.
+
+Percy's fall made less sense to the medics than it did to him. He could explain that water had broken the impact and that he was conscious and able to breathe, but he could not offer the details that would make the story medically plausible. They still assessed him for injuries and told him which signs required urgent care. Percy listened, realizing that his father protecting him from one impact didn't grant immunity from bruises, shock or every consequence of the fall.
+
+Grover remained near the first-aid tent, recording where the emergency supplies had been placed and trying to keep his pipes out of sight. When one of the medics offered him water, he thanked her so sincerely she smiled despite the noise.
+
+Annabeth finished answering the ranger's questions and came back to Percy.
+
+"I'm still mad at you," she said.
+
+"I noticed."
+
+"That doesn't mean I don't want you sitting here while somebody checks whether you're hurt."
+
+He looked down at his wet shoes. "I thought I was going to lose Thalia."
+
+"So did I."
+
+"I couldn't just watch."
+
+"I know. But you promised me you wouldn't go back up there."
+
+"I broke it."
+
+She waited. Percy looked at her, expecting an argument about whether the promise had been reasonable in the first place.
+
+"Yes," she said. "You did."
+
+He felt the words more sharply than he had expected. He had told her he would stay out of that exact situation because she'd lived through it once. He had seen her frightened and heard her tell him how it felt to watch him fall. Then he'd gone back anyway.
+
+"I don't know what I should have done," he admitted.
+
+"Neither do I. I don't think there was an easy option. I still need you to tell me when you're changing the plan. And I need you to hear me when I say the plan matters."
+
+Percy rubbed his thumb over the damp bracelet Silena had made. "I heard. I didn't do it."
+
+Annabeth sat beside him. She didn't take his hand immediately. Percy gave her the room to decide.
+
+When she finally reached for him, it wasn't a signal that everything had been forgiven. It was a way of staying beside him while they figured out what the next day had to look like.
+
+Martin returned with the medical recommendations and a plan to contact Chiron. They would find a safe place to rest in St. Louis, confirm whether the courier record had been lost in the emergency, and reconsider the road to Los Angeles once everybody had been assessed.
+
+"Nobody is driving west tonight on two hours of sleep after a fire and a head injury," he said.
+
+Thalia looked like she wanted to argue. Then she saw Annabeth watching her.
+
+"Fine," she said. "Tonight we rest. Tomorrow we plan."
+
+It wasn't victory. It was simply an adult imposing the sort of limit the gods seldom bothered to impose, and four exhausted travelers accepting it because the alternative had become absurd.
+
+After the first-aid evaluations, Percy asked the ranger what would happen to the people still inside the building.
+
+"We have crews checking each exit and each visitor roster," she told him. "If you have information about someone missing, give it to me, not to a person standing outside filming."
+
+Annabeth opened her notebook and supplied the names and descriptions she'd managed to collect while guiding the tourists down. She was careful to distinguish the people she'd actually seen from the people whose count she'd heard through a radio.
+
+Percy watched her do it. He had been ready to risk his life to save Thalia, but he had scarcely thought about what would happen to the strangers who remained behind the walls. The ranger took Annabeth's notes, thanked her, and returned to work.
+
+"What if I got one of the numbers wrong?" Annabeth asked when she closed the notebook.
+
+"Then they check it," Percy said. "You gave them what you knew."
+
+She studied him for a moment. "You sound like Chiron."
+
+"That's the meanest thing you've said to me all day."
+
+"No, it's not." A tired smile appeared. "I called you an idiot when you got out of the river."
+
+"True."
+
+He glanced toward the smoky curve above them. The gods could make even public architecture into a battleground, then leave mortal workers to count the injured. He wished he could fix that larger problem. For now the only useful thing he could do was give an accurate account, listen when the adults told him to sit down, and let the rescuers finish their work without another demigod getting in their way.
+
+He sat beside Annabeth until Thalia returned from the medical tent. He kept his hands wrapped around the paper cup of water the paramedic had given him, although he was no longer thirsty. Both of them needed a few minutes in which nobody expected a brave decision.
+
 "We need to move," Annabeth said, wiping her face and sitting straighter, but not letting go of Percy's hand. "Echidna is gone, but she will tell someone we are here. The depot— we cannot go to the depot now. Too watched."
 
 "No depot," Thalia agreed, forcing herself upright with Grover's help. "We go to ground. Laundromat safe house Chiron marked in the city. Clean up. Iris-message camp. Tell them bolt moved west, Mother active, Arch burned. And tomorrow—"
@@ -511,6 +885,3 @@ Annabeth nodded, eyes bright but dry now, steady. "Always."
 Thalia, ahead with Grover, pretended not to hear. She just slowed half a step so they could keep up, and kept guard while her sister rested her weight against the boy she loved, and the quest walked on.
 
 ---
-
----
-

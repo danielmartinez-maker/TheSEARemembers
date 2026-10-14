@@ -450,11 +450,22 @@ And under that, in the very last space on the page, where she had been writing t
 
 FIVE.
 
-She stood at the rail a while with her arms crossed, listening to the stove tick down, and then she did the actual arithmetic, which she only ever did once, at night, on a porch, where nobody could see her face while she did it. Five in the cabin. Two in the cabin up the hill, plus a brother at the other camp who wrote, plus a girl who came down the hill with a bow and a bad heel and ate whatever was put in front of her. A half-brother somewhere south who made bolts and mended tote hooks. A mother under the sea who had raised a boy who was not hers and had never once said so.
+Clarisse went over the figures in the book once more. Five names on the new ridge record. Nine lanterns along the path, plus the one they'd hung themselves. The quilt had been left off-center at the ring, and she was still annoyed that the mistake hadn't mattered to anyone but her.
 
-That was not a number, that was a fence, and Clarisse La Rue was, more than anything else she had ever been in her life, the person who kept the gate.
+Through the window she saw Percy put a clean cup down beside Silena's sewing, careful not to touch the cloth. Thalia was farther up the path, with Annabeth beside her. Clarisse recognized the way Thalia was shortening the stride on one side. Nobody had asked about the heel at the ridge, and Clarisse had not meant to choose that moment for a confrontation, but the observation would not leave her alone.
 
-She went inside and shut the door on the cold and left the tenth lantern burning on its hook, so that anybody walking up the west path late, in the dark, in October, would come around the cedar brake and see a light at the bottom of the hill and think, without knowing why, that somebody was home.
+She pulled a fresh sheet from the notebook and wrote three things on it: FENCE LINE, RAIN GEAR, CHECK WITH THALIA. She left the third without a date. It was a question to ask in private, and Thalia had earned the right not to answer it in front of a crew.
+
+When she carried the notebook inside, Silena glanced up. "Everyone back?"
+
+"Everyone back."
+
+"Did you count me while I was cooking?"
+
+"I counted the people who went out. You were here."
+
+Silena looked satisfied with the precision of the answer. She pushed a bowl of soup across the table. Clarisse sat, brought the list close enough to read in the lamplight, and finally put it away when the food began to cool.
+
+Outside, the tenth lantern lit the bend where the west path came round the cedars. It didn't prove anything about a family. It did let a late camper see the uneven step before stepping on it. Clarisse had checked its hook herself, and that was reason enough to leave it burning.
 
 ---
-

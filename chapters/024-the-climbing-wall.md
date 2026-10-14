@@ -1,6 +1,5 @@
 ## Chapter 24: The Climbing Wall
 
-### PERCY — Morning of Lava Day
 
 Percy Jackson woke up knowing two things.
 
@@ -86,7 +85,6 @@ And now they were on opposite teams on lava day, with the whole camp watching.
 
 ---
 
-### ANNABETH — Strategy and Static
 
 Annabeth Grace loved plans the way Percy loved water.
 
@@ -176,15 +174,124 @@ Annabeth cleared her throat and stood up, tucking the tablet under her arm. "Com
 
 ---
 
-### SILENA & ZOE — Live From the Top
+
+Annabeth reached the wall inspection area before anyone else in her climbing group. Chiron had allowed competitors to examine the safety markers from the ground, but not to climb or touch the moving sections before the demonstration. She intended to use every minute.
+
+The climbing wall had changed since she remembered first seeing it. The structure was familiar enough to make her muscles anticipate the heat, but this version contained a newer set of safety rails and a mechanical stop mechanism installed after several younger campers had reported difficulty hearing the horn from the upper platforms.
+
+She walked the perimeter with her notebook, checking the numbered stations on the diagram. Zoe was helping the instructor mark the inspection points and had tied a short piece of orange cloth to the secondary stop cord.
+
+"Why is that lower than the other one?" Annabeth asked.
+
+"So the instructor on the ground can reach it without stepping into the fall zone," Zoe replied.
+
+"Has it been tested with someone above the second vent?"
+
+"With weighted equipment, not an actual camper. The upper teams rehearsed the descent yesterday."
+
+Annabeth made a note. "Then the demonstration needs to show how the lower group hears the stop command. There are two places where the rock blocks the sound."
+
+Zoe followed her pencil. "That would make it harder for the people nearest the lava vent."
+
+"Exactly."
+
+They took the question to the instructor. Instead of dismissing Annabeth as nervous, he sent a pair of senior campers to stand at the two points and asked Zoe to call the stop. The first call reached both. The second, when the vent machinery was running at demonstration speed, barely reached the upper left position.
+
+"Add a visual signal," Annabeth suggested. "Something that moves when the stop cord is pulled. If the horn gets lost in the machinery, the climber should still know to freeze."
+
+The instructor looked at the gear on the wall. A small flag could be fitted above the stop cord without interfering with the climbing holds. He asked the Hephaestus worker beside him whether it could be installed before the event began.
+
+"Twenty minutes," the worker said. "If we have the right fitting."
+
+"I'll get one," Annabeth offered.
+
+"Not you," Chiron said from behind her. "You've already inspected the route and identified the problem. Let the repair crew do the fitting. You can help check the signal once they've installed it."
+
+She was about to object, then remembered how many times she'd felt responsible for the entire Hall repair because she'd recognized a dangerous mark. Being the person who found a problem did not mean she had to be the person with the tools.
+
+"All right," she said.
+
+Thalia came to join her while the work crew measured the new bracket. She had been stretching by the lower practice rails and had heard enough of the discussion to know Annabeth had delayed the climb.
+
+"Did you find a reason to cancel the whole event?" she asked.
+
+"No. I found a place where the stop signal might not be visible."
+
+"Good. I want to climb, not be trapped up there because everybody assumes loud people can always be heard."
+
+Annabeth smiled. "I thought you'd complain about waiting."
+
+"I'm complaining about waiting. I'm also agreeing with you."
+
+They stood together near the inspection line. Thalia watched the worker fit the small flag above the cord, then helped test it from the lower ground position. Annabeth stood at the first blind corner with her notebook. When Zoe signaled, the flag dropped visibly enough that she could mark the position without raising her head.
+
+"Good," she called.
+
+They repeated it twice at different machinery speeds, then recorded the result for Chiron. Thalia looked pleased.
+
+"Now can I climb?"
+
+"Now you can listen to the safety briefing," Annabeth replied.
+
+"You're worse than the instructor."
+
+"Thank you."
+
+When the group assembled, Clarisse was trying to convince Percy that taking the easy first route would make him look weak. Percy was insisting that knowing which route he could actually finish was the entire point of training.
+
+"You're only saying that because you hate the moving holds," Clarisse said.
+
+"I hate the part where I fall because somebody pretends a mechanical wall is a moral test."
+
+Clarisse gave him a look, then conceded he could take whichever route Chiron assigned. Annabeth was relieved. She had watched him treat the water around the lake as an extension of himself and sometimes forget that not every place with moisture in it belonged to his control.
+
+Silena arrived with the check-in forms. She had assigned each competitor a number and a partner responsible for confirming that they'd returned to the ground. Annabeth signed beside her name, then noticed Percy looking at her route.
+
+"Are you on the north face?" he asked.
+
+"Yes. The route with the offset hold near the second vent."
+
+"That one's ugly."
+
+"That's why I chose it."
+
+Thalia rolled her eyes. "She means the problem is interesting, so now she's compelled to solve it in public."
+
+"That's approximately correct."
+
+Percy grinned. He had a choice to make about his own route. He could try to match hers, which would be impressive if he managed it, or accept the one he'd practiced. She hoped he'd choose on the basis of what he'd learned rather than on the basis of who might be watching.
+
+"What are you climbing?" she asked.
+
+"The west face. Clarisse says it's a coward's path."
+
+"It isn't. It has fewer crossing holds, but the timing is less forgiving near the upper platform."
+
+"See? That's helpful. You can insult my choices after you've measured them."
+
+Thalia snorted. "The west face has a good view of the flag station. You can watch the entire race from there if you don't fall off."
+
+Percy made a face. Annabeth liked the way they could tease without requiring anyone to pretend that a difficult event was easy. They had all been dealing with danger serious enough to make the smallest precaution feel like a judgment. Here they could practice and compete within a structure someone had taken the time to check.
+
+When Silena finished the roster, the instructor asked Annabeth to explain the visual stop signal to the climbers. She did it briefly, pointing out the two blind positions and what each person should do if the flag dropped. She did not mention that the idea had been hers.
+
+Thalia stood beside her and made the entire group demonstrate lowering their hands away from moving holds on command. Several campers complained that the motion was awkward.
+
+"Then practice it," Thalia said. "Nobody wants to watch you fall because your pride got tangled in the machinery."
+
+Annabeth stepped off the platform with her. The climb hadn't begun, but she had already learned something she hadn't expected: Thalia could accept a safety correction without treating it as an attack, and Annabeth could bring a useful observation to the people responsible without taking their tools away. Both would matter after the horn blew.
+
+
+
+---
 
 "Testing, testing! Hi, everyone! Can you hear me?"
 
 Silena Beauregard's voice boomed across Half-Blood Hill, amplified by the brass trumpet and Silena's sheer delight, because everything Silena said sounded like it sparkled.
 
-She was perched on the announcer's platform at the top of the climbing wall with Zoe Nightshade, Hecate's daughter, who brought the severe posture of a former Hunter to everything, including games. Zoe sat beside Silena with her arms crossed, bow across her knees, silver circlet glinting, looking like she'd rather be anywhere else.
+She was perched on the announcer's platform at the top of the climbing wall with Zoe Nightshade, Hecate's daughter, who brought the severe posture of a meticulous ward inspector to everything, including games. Zoe sat beside Silena with her arms crossed, bow across her knees, silver circlet glinting, looking like she'd rather be anywhere else.
 
-"Thou can hear me, daughter of Poseidon," Zoe said dryly. "The entire mountain can hear thee. The gods on Olympus can hear thee. Please stop shouting directly into the trumpet."
+"I can hear you, daughter of Poseidon," Zoe said dryly. "The entire mountain can hear you. Please stop shouting directly into the trumpet."
 
 "Sorry!" Silena said, quieter, then immediately loud again because she was excited. "Hi! Welcome to Camp Half-Blood's monthly Climbing Wall Extravaganza! I'm Silena!"
 
@@ -208,7 +315,7 @@ Ella waved frantically from the base of the wall. She was small even for a harpy
 
 "She's adorable," Silena cooed into the trumpet. "Look at her little glasses!"
 
-"She has memorized the maintenance logs," Zoe said, with genuine respect. "A wise warrior knows the battlefield. Thou hast my approval, harpy."
+"She has memorized the maintenance logs," Zoe said, with genuine respect. "A careful competitor studies the course. I approve."
 
 "And on the east face, in red headbands — Annabeth Grace, Thalia Grace, and Clarisse La Rue!"
 
@@ -220,7 +327,7 @@ The cheer was deafening. Zeus cabin (Thalia and Annabeth) thundered, Ares cabin 
 
 "What? I'm just saying what everyone's thinking!"
 
-"Thou art thinking it loudly into a magically amplified trumpet."
+"You are thinking it loudly into a magically amplified trumpet."
 
 "Okay, okay! Chiron, take it away!"
 
@@ -240,7 +347,6 @@ He blew the whistle.
 
 ---
 
-### GROVER — Hooves and Heart Attacks
 
 Grover Underwood had decided, approximately four seconds into the climb, that he hated the climbing wall.
 
@@ -290,7 +396,6 @@ Percy moved.
 
 ---
 
-### THALIA — Showtime
 
 Thalia Grace lived for this stuff.
 
@@ -372,7 +477,6 @@ Thalia filed that away. For later. For maximum teasing.
 
 ---
 
-### CLARISSE — Trash Talk Titan
 
 Clarisse La Rue had three great loves in life: her spear, her little half-brother Percy (though she'd deny it if asked), and talking trash so epic it made grown monsters cry.
 
@@ -452,7 +556,6 @@ Grover stared. "You are both nerds. You're just nerds about different things. Yo
 
 ---
 
-### PERCY — Water Sense
 
 Halfway up, the wall stopped being a wall and started being a puzzle made of heat and noise.
 
@@ -508,7 +611,6 @@ She knew he'd known.
 
 ---
 
-### ANNABETH — She Knows That He Knows
 
 Annabeth Grace prided herself on not being surprised.
 
@@ -594,7 +696,6 @@ Thalia burst out laughing so hard she almost fell off. "OH MY GODS! YOU EVEN YEL
 
 ---
 
-### SILENA & ZOE — The Final Stretch
 
 "Okay, folks, we're in the final minute!" Silena announced, leaning so far over the platform rail that Zoe had to grab the back of her shirt. "Team Red is in the lead thanks to Clarisse's absolutely feral final push, but Team Blue is closing fast! Percy is climbing like he's part fish, part spider monkey!"
 
@@ -652,7 +753,6 @@ Until he looked up and saw Annabeth walking toward him.
 
 ---
 
-### PERCY & ANNABETH — The Knowing
 
 The crowd was still cheering, but it sounded far away.
 
@@ -720,11 +820,134 @@ Silena's voice floated down from the tower: "Group hug! Group hug! Zoe, they're 
 
 "She's crying!" Silena announced. "Everyone, Zoe's crying! History!"
 
-"I will end thee."
+"I will confiscate your microphone."
 
 ---
 
-### EVERYONE — The Lake
+
+After the climb, Percy sat outside the equipment shed trying to decide whether his left shoe had been ruined by lava or by the bucket of cooling water he'd stepped into when he jumped from the last platform.
+
+Clarisse found him examining the sole.
+
+"You managed not to fall," she said. "That's a victory in itself."
+
+"I thought you were going to make fun of the route I chose."
+
+"I am. But the way you kept the timing through the second vent was decent."
+
+"High praise."
+
+"Don't expect it twice."
+
+She took the shoe and turned it over. The rubber had softened at the toe, but the sole hadn't separated. She handed it back with the advice to stop wearing it until the material cooled. Percy obeyed, more because he didn't want Silena to discover he'd been walking around in damaged shoes than because he was convinced Clarisse was right.
+
+Across the yard, Annabeth had been reviewing the official times with Zoe. Several racers had reached the top close together, and the scoring sheet showed a difference that was smaller than the time it took the horn to sound. Annabeth wanted to know whether the judges had used the same reference for all the routes.
+
+Percy recognized the intensity in her face. She wasn't contesting the result simply because it hadn't gone exactly as she'd planned. She had noticed something about the measurement and couldn't bear to let it remain unresolved.
+
+"Do we have to stay until she finishes?" Clarisse asked.
+
+"You can go."
+
+"I'm waiting for you."
+
+"Then yes."
+
+Clarisse sat beside him, leaned back against the shed wall and looked at the sky. The sound of the remaining campers dismantling the temporary ropes carried through the yard. It was ordinary post-game noise, surprisingly pleasant after the heat of the wall.
+
+Annabeth came over with a corrected score sheet.
+
+"Turns out the west route timing started on the horn," she said, "but the north route started when the first hold moved. There's about a second's difference."
+
+"Does that change who won?" Percy asked.
+
+"No. It changes the margin. Chiron said they'll use the same start signal next time."
+
+Clarisse looked at her. "You were worried about the result being unfair."
+
+"I was worried about the measurement being wrong."
+
+"That's a distinction you make when you don't like the result."
+
+Annabeth stopped. She considered the paper, then folded it along the marked crease.
+
+"Maybe both things are true," she said. "I wanted to know I'd done the best I could. If the timing was wrong, I couldn't tell."
+
+Percy understood. His own decision to take the west route had been partly practical and partly a reaction to how much he wanted to impress her. He hadn't wanted to admit either motive in front of Clarisse.
+
+"For what it's worth, you did the second vent better than anyone I saw," he told her. "I didn't think to count the hold movement until you told me."
+
+Annabeth looked at him. "You moved a second before me."
+
+"I was guessing."
+
+"No. You recognized the pattern."
+
+"From watching your trial run."
+
+She smiled, then looked away. They both knew how much of their timing came from years of fighting beside each other in a history nobody else remembered. But they'd also practiced as twelve-year-olds, made new mistakes and learned from people who'd never known them before. The combination was difficult to explain without making it sound like an unfair advantage.
+
+Thalia joined them, carrying a bundle of safety ropes for the stores. She stopped when she saw the score sheet.
+
+"You're still arguing about a second?"
+
+"We corrected the clock," Annabeth said.
+
+"Good. Then stop treating it like a verdict on whether you're allowed to be good at things."
+
+Annabeth bristled. Percy watched the familiar argument assemble itself between the sisters. Thalia wanted Annabeth to stop holding herself to impossible standards; Annabeth wanted Thalia to recognize that precision was not a personal injury. Both could make the other feel smaller by insisting their own interpretation was the kinder one.
+
+"She found an actual discrepancy," Percy said.
+
+Thalia looked at him. "I know. I'm not saying she imagined it."
+
+"Then let her finish explaining it."
+
+Annabeth turned toward him. The intervention was unnecessary, and the fact that he had made it on her behalf felt different from the way he usually helped her.
+
+"I can explain it," she said.
+
+Percy stopped. He had meant to defend her, not speak for her. He took a breath.
+
+"You're right. Sorry."
+
+Thalia watched them both. After a moment she put down the rope.
+
+"Show me the difference, then," she told Annabeth. "If the judges measured the start differently, I want the times fixed for everyone. That includes me."
+
+Annabeth unfolded the sheet. She explained the two signals and how the correction changed the ranking of two lower finishers without affecting the winner. Thalia listened, asked one question about the upper platform and nodded when the explanation matched what she'd seen.
+
+"That's useful," she said. "We should ask Chiron to put the revised times on the board before dinner. The younger campers have been bragging about their positions all afternoon."
+
+Annabeth looked relieved. "I already gave him a copy."
+
+"Good. Then you've done it."
+
+She went to return the ropes. Percy watched her leave, wondering whether she'd deliberately ended the conversation before it could turn into another argument. The possibility was not flattering to anyone.
+
+Annabeth sat beside him. "You were trying to help."
+
+"I know. I was also talking over you."
+
+"You do that sometimes."
+
+"So do you."
+
+"Often," she admitted.
+
+He held out the damaged shoe. "Want to help me decide if it's a loss?"
+
+Annabeth inspected the sole with grave attention and pronounced it unfit for future climbing-wall sessions. She recommended that he buy another pair before the rematch. Clarisse, who had been pretending not to listen, offered to make him earn the money by helping clean the Pegasus stables.
+
+"That's extortion," Percy protested.
+
+"That's a job."
+
+They argued about the difference all the way to the lake.
+
+
+
+---
 
 There is only one cure for lava-wall sweat, melted sneakers, singed hair, and a race you want to argue about for hours.
 
@@ -816,11 +1039,14 @@ Percy closed his eyes and floated.
 
 Beside him, Annabeth floated too.
 
-And for once, Thalia — watching from the dock with Clarisse, both of them dripping and grinning — let the moment be.
+And for once, Thalia, watching from the dock with Clarisse, was dripping wet and grinning. She let the moment be.
 
-No teasing. No storm. Just: *Huh. Look at them.*
+Thalia watched Percy and Annabeth float until Clarisse splashed her from behind. She caught her friend by the wrist, lost her footing on the wet boards, and pulled them both into the lake.
 
-She laughed it off, shook her head, and jumped back in.
+Percy rolled over to see what the noise was. Annabeth, still floating, didn't even open her eyes.
 
----
+"Don't help them," she said.
 
+"I wasn't going to."
+
+"Good."

@@ -52,7 +52,7 @@ Thalia's throat went tight. Because that was the thing nobody else at camp under
 
 There was one girl beside her now. Her sister. Thalia wanted to protect her without making every unfamiliar moment another test.
 
-Their father had been absent through all the years Thalia remembered. That was enough to be angry about.
+Their father had been absent through most of the years Thalia remembered. His visits were brief, unpredictable, and never enough to make the years between them disappear. She didn't need another reason to be angry.
 
 "He's wearing a new face," Thalia said. "He always does. Don't let it throw you."
 
@@ -73,6 +73,96 @@ Annabeth laughed, but it was thin. She leaned her head against Thalia's shoulder
 "It'll be fine," Annabeth said, in the voice she used when she was trying to convince herself. "It's just lunch. An hour. We can survive an hour."
 
 Thalia stared at the frozen sky. "Yeah," she said. "Just lunch."
+
+---
+
+Before lunch, Thalia went to Chiron's office with a question she hadn't managed to ask him during the week of repairs.
+
+"Does my father know what happened during the eclipse?"
+
+Chiron looked up from a stack of reports. He was sorting the statements of the ward team, and the top page still carried the measurements Annabeth had taken at the northern column.
+
+"I sent a summary to Olympus," he said. "Whether Lord Zeus has read it is something only he can tell you."
+
+"He wouldn't have come if it weren't important."
+
+"I wouldn't assume that. Sometimes his decisions surprise even those of us who've known him a long time."
+
+Thalia stood beside the desk. She had taken the dressing off her palm that morning, and the skin still pulled when she made a fist. She was supposed to avoid sparring for another two days. The restriction made her feel absurdly young, which was one of the reasons she didn't want to spend an afternoon being assessed by her father.
+
+"I want to ask him about Jason," she said.
+
+Chiron set down his pen. "Have you prepared what you want to know?"
+
+"Where he is. Whether he's doing well. Whether the messages I've sent are even reaching him."
+
+"Those are reasonable questions."
+
+"Then why does everybody keep acting as though I shouldn't ask them?"
+
+"Because you know how your father reacts when he believes he's being challenged."
+
+Thalia hated the calm with which he said it. Chiron wasn't defending Zeus. He was naming the problem she'd spent years trying to convince people to acknowledge.
+
+"That's his problem," she said.
+
+"It is. It becomes ours when he makes the room unsafe for you or your sister."
+
+She sat on the chair across from him. "Can we leave if he gets angry?"
+
+"You can leave at any time. I will make sure the door stays open. If he chooses to follow you, I will intervene as far as my position permits."
+
+"As far as it permits."
+
+"I won't promise you power I don't have, Thalia."
+
+The answer was honest, and she resented it anyway. She wanted one person who could say that the king of the gods would behave like a father for a single hour and mean it.
+
+Chiron opened the report. "I can have another counselor nearby. Mr. D is required to attend, so you won't be alone with your father. You may also ask that Percy be excused if the conversation becomes private."
+
+"He can stay. I already told him what I wanted him to do."
+
+"And what was that?"
+
+"Not make jokes to distract Dad. Not rescue us before we ask. If he starts getting dangerous, he can get Annabeth out."
+
+"Make sure Annabeth knows you've agreed to that. She deserves to decide whether she wants someone else directing her."
+
+Thalia closed her eyes briefly. There was no easier person to be wrong in front of than the one she'd been raising since she was eight, and no harder person to admit it to.
+
+"I'll tell her," she said.
+
+Chiron reached for the next report. "There is another thing. You have nothing to prove about the eclipse. You were injured, and the repair team performed the intervention under supervision. Your father may try to make your participation a question of obedience. You don't need to accept that framing."
+
+Thalia stared at him. "You sound like you expect him to do exactly that."
+
+"I expect him to be himself."
+
+That, unfortunately, was what she expected too.
+
+She went back outside and found Annabeth working on an ordinary geometry exercise at a picnic table. The workbook was covered with calculations and a drawing of a bridge that was not part of the assigned question.
+
+"Chiron says we can leave lunch whenever we want," Thalia said.
+
+Annabeth looked up. "Are you planning to?"
+
+"If he starts yelling, yes."
+
+"Then I'll go with you."
+
+"You don't have to leave because I do."
+
+"I know. I can decide."
+
+Thalia leaned on the table, careful of her hand. "I want to ask about Jason. He might make it sound like I'm being ungrateful for whatever news he gives us. You don't have to take my side if you don't know whether the answer's true."
+
+Annabeth looked at the bridge she'd drawn. "If he actually tells us where Jason is, I want to hear it. I don't want to pretend the answer's enough if it isn't."
+
+That was closer to what Thalia needed than a promise of loyalty. She watched her sister erase a line that was too long for the scale.
+
+"All right," she said. "We ask. We listen. And if it becomes too much, we leave."
+
+Annabeth nodded, then returned to the geometry. Thalia stayed another minute, looking at the clean way her sister constructed an argument out of measurements. Zeus would arrive in another face and try to decide which qualities in them belonged to him. He could not change the fact that Annabeth had learned some of her best habits from people who had shown up when he hadn't.
 
 ---
 
@@ -164,7 +254,7 @@ Then thunder rolled, low and deliberate, from a clear sky — and the front door
 
 Percy had met Zeus more than once in the life he remembered.
 
-Amphitrite had also told him about a meeting when he was five, hidden behind a coral pillar while the gods argued over a treaty. Zeus had glanced toward him and asked Poseidon, "You collect strays now, brother?" She had taken Percy out before the argument got worse. Percy knew her anger when she told it; he did not remember the room.
+Amphitrite had once told him a story about a meeting when the boy she'd raised was five, hiding behind a coral pillar while the gods argued over a treaty. He couldn't remember it himself. Zeus had glanced toward him and asked Poseidon, "You collect strays now, brother?" She had taken Percy out before the argument got worse. Percy knew her anger when she told it; he did not remember the room.
 
 He did remember standing on Olympus after the Titan War, telling Zeus to his face that the gods had to do better. He remembered lightning crawling up his arms. He remembered not flinching.
 
@@ -264,7 +354,7 @@ She knew the exact pitch of laugh that made her father soften. She knew how to p
 
 Her hand was already half-raised. Her mouth was already shaping *Dad, please, she doesn't mean it, she's grieving, you know about Mom, about Jason—*
 
-Jason. Their younger brother, raised far away at Camp Jupiter. His recent visit had ended; distance still turned every farewell into a worry. Thalia missed him fiercely, but missing him was not the same as losing him.
+Jason. Their younger brother was far away at Camp Jupiter. Thalia had not seen him since he was taken when he was small. Some days she could tell herself he was safe; on others, distance felt like a question nobody was answering.
 
 *Be agreeable,* the rules whispered. *Be good. Don't make it worse.*
 
@@ -310,69 +400,154 @@ Silence. The lemonade sweated in its pitcher. A fly buzzed against the window, t
 
 Zeus removed his glasses. Without them, his face looked younger. Naked. He polished the lenses on his sweater, a painfully human gesture, and Annabeth realized with a jolt that he didn't know what to do with his hands.
 
-"Annabeth," he said finally. His voice had lost the boom. "You — you have always been... I thought praise would..." He trailed off. Thunder rumbled, far away, like an engine left running. "Your sister and I — we have a difficult history."
+"Annabeth," Zeus said at last, lowering his voice. "Did your sister help you prepare that speech?"
 
-"Because you never listen," Thalia said, hoarse. But the fight had gone out of her. She sounded exhausted.
+The question was so different from the answer she'd hoped for that Annabeth stared at him.
 
-"I listen," Zeus said, and then, at both girls' identical incredulous looks, he sighed. "Poorly. I listen poorly." He put his glasses back on. "You are both... very like your mother. And very unlike her. It..." He gestured vaguely, king of the gods reduced to hand-waving. "It is hard to look at you and not see her. And Jason. And every choice I failed to make."
+"No. I wanted you to know."
 
-Percy shifted in his seat. Annabeth caught his eye. He mouthed, *You okay?* She nodded, barely. Her legs trembled.
+"Then you have chosen a remarkably public way to tell me." His eyes moved toward Chiron and Dionysus, as though the shame of having witnesses were the real injury. "I came here to see my daughters. I am being accused as though I'm a defendant in my own court."
 
-Zeus reached into his sweater pocket and pulled out two small boxes. He set them on the table and slid one to each girl. Peace offering. Distraction. Annabeth recognized the move — gods loved gifts the way absent fathers loved souvenirs. Something to unwrap so no one has to keep talking.
+Thalia stood up again. "We're not in your court."
 
-"For you," he said gruffly. "I... brought something."
+"Be careful," he said.
 
-Thalia didn't touch hers. Annabeth, after a second, opened her box with numb fingers.
+The windows rattled. A fork slid a few inches across the table. Annabeth felt the storm in her hands answer before she could stop it, and she forced her fingers open beneath the table rather than clenching them around the chair. Lee had told her not to use her powers while the burns were healing. She needed that instruction now more than she wanted to admit.
 
-Inside, on white cotton, lay a silver pendant: a tiny owl clutching a lightning bolt. Hybrid. Impossible. Both her lives in one charm.
+Chiron rolled forward. "Lord Zeus, the girls have been through a frightening week. They have questions about your absence. I believe they are asking to be heard, not trying to challenge your authority."
 
-Annabeth's breath caught. "How did you—?"
+"My authority is not something one challenges by accident."
 
-"Chiron said you liked owls," Zeus said quietly. He wasn't looking at her. He was looking at the wall, at nothing. "I asked what you were building. Your interests don't have to look like mine." He cleared his throat. "I thought you might like it."
+The warmth in his borrowed face had vanished. Annabeth could still see the kindly professor under the expression, which made the coldness worse. It was unsettling to watch him use a face designed for reassurance while the air filled with the threat of lightning.
 
-Annabeth closed her fingers around the pendant. It was warm. "Thank you," she whispered, because manners outlived anger.
+"I wasn't trying to embarrass you," she said.
 
-Thalia opened her box. Inside was a drachma — celestial bronze, unfamiliar minting, with a pine tree on one side and a lightning strike on the other. "For the collection," Zeus said awkwardly. "I remember you... you liked symbols. Once."
+"Then perhaps you should have spoken to me privately."
 
-Thalia stared at it for a long moment. "I was six," she said. But she closed the box carefully and set it beside her plate instead of pushing it away. "Thanks."
+"When?" Thalia asked. "You don't tell us when you're coming. You don't answer half the messages we send. Today is the first time in months we've had a chance to ask anything."
 
-It wasn't forgiveness. It wasn't even close. But it was — Annabeth recognized it from engineering — a load-bearing joint. Small, ugly, holding more than it should.
+Zeus looked at his elder daughter. "I am not responsible for every inconvenience of your childhood."
 
-"I will..." Zeus stood again, but slower this time. The storm had pulled back, leaving only the smell of rain. "I will visit again soon. Before the summer solstice. I promise."
+Thalia made a sound that Annabeth had heard only when a training opponent struck her after she'd already conceded. She sat back down hard, not because her father had convinced her but because she knew another word might make him do something worse.
 
-The words landed hollow as a struck drum. *Soon. I promise.* How many times had they heard it in how many faces?
+Annabeth felt the old instinct to repair the conversation. She could make her father laugh, praise the sweater, tell him his visit was important and pretend everything else had been a misunderstanding. Instead she asked the thing Thalia had been preparing to ask.
 
-Thalia's mouth tightened. Annabeth felt the old reflex surge — *say it's okay, say we understand, you're busy, running the world* — and crushed it.
+"How is Jason?"
 
-"Okay," Annabeth said instead. Neutral. Honest. "We'd like that. But if you can't, just — send a message. Don't promise."
+The silence changed. Zeus looked at Annabeth as if she'd moved the argument onto ground he hadn't expected to defend.
 
-Zeus flinched. Then, slowly, he nodded. "Fair," he said. "That's... fair."
+"Your brother is being cared for."
 
-He looked at Thalia. "May I—?" He held out a hand, uncertain, like he'd forgotten how fathers touched daughters.
+"At Camp Jupiter?" she asked.
 
-Thalia stared at it. For a second Annabeth thought she'd refuse. Then Thalia stood and let him hug her — stiff, brief, her arms barely lifting. He pressed a kiss to the top of her head, and Annabeth saw his eyes close.
+"That arrangement remains in place."
 
-"You are strong," he murmured, too low for anyone but them to hear — but Annabeth heard. "Too strong for me, I think. I'm sorry for that."
+"Are our letters reaching him?"
 
-Thalia didn't answer. She stepped back, eyes bright and jaw set.
+"Correspondence between the camps is not a matter for children to manage."
 
-He turned to Annabeth. She let him hug her longer, because she was still twelve and starved for it even while she hated being starved. He smelled like rain and wool. His sweater scratched her cheek.
+Thalia lifted her head. "You never tell us whether he reads them. You won't tell us when we can visit. He's our brother."
 
-"My brilliant girl," he whispered. "Be... be less agreeable, if you need to be. I will try to be worthy of the trouble."
+"And he is my son," Zeus replied, with enough force that one of the glasses cracked. "His education has obligations you are too young to understand. Do not confuse the absence of an explanation with the absence of a plan."
 
-Annabeth laughed through tears. "That's a low bar, Dad."
+"Then give us an explanation we can understand," Annabeth said. Her voice was quiet but steadier than she'd expected. "You don't have to tell us everything the Roman camp does. Just tell us whether he's well and whether we can write to him."
 
-"The lowest," he agreed, and smiled — real, for once, crow's feet and all. Then the air pressure changed, the lights flickered, and he was gone in a soft roll of thunder that rattled the lemonade pitcher and left only the smell of ozone.
+Zeus looked at her for a long moment. "He is alive, healthy and under the protection of his camp. I will inquire about the letters when I return to Olympus."
 
-Nobody moved.
+Annabeth knew how little that was. It was more specific than anything he'd said in months, and it still left the question of their next contact in somebody else's hands.
 
-Dionysus stood, grabbed his diet soda, and said, "Well. That was less disastrous than usual. Ten points for no one getting smote," and walked out, because gods dealt with feelings by leaving the room.
+"Thank you," she said.
 
-Chiron wheeled closer. He rested a hand on Thalia's shoulder, then on Annabeth's. "You were both very brave," he said simply. "Take the afternoon. I'll tell your instructors you're excused." He glanced at Percy. "Mr. Jackson, perhaps you could... ensure they eat dessert?"
+Thalia's mouth tightened. Annabeth recognized the expression. It wasn't gratitude. It was the effort of accepting information without pretending it erased a grievance.
 
-"Yes, sir," Percy said immediately. "I'm excellent at dessert supervision."
+Zeus reached into his sweater pocket. "I brought gifts," he said, almost impatiently. "I had hoped we might have a pleasant afternoon."
 
-Chiron smiled, tired and kind, and left them alone with the wreckage of lunch and two small boxes and the too-big silence.
+Two small boxes appeared on the table. He pushed one toward each daughter. The movement reminded Annabeth of the parcels Beryl used to leave on the kitchen counter when she was too exhausted to talk. A gift could be genuine. It could also be a way to end a conversation.
+
+Annabeth opened hers. The silver pendant was a tiny owl clutching a lightning bolt. She recognized the irony immediately. Zeus did not. He looked almost proud of having found a design that combined the symbol he associated with intelligence and the one that represented his own power.
+
+"Chiron said you liked owls," he told her. "I asked for something appropriate."
+
+"I do like them," she said. "Thank you."
+
+"Good. You have an unusual mind, Annabeth. You would do well to remember where your gifts come from."
+
+The compliment had a hook in it. She closed her fingers around the pendant without putting it on.
+
+Thalia opened her box only after Zeus looked at her twice. Inside lay a drachma with a pine tree on one face and a lightning strike on the other. She turned it over slowly.
+
+"You used to collect coins," Zeus said. "I thought you might still."
+
+"I was six."
+
+"Then perhaps you have outgrown it."
+
+"I didn't say I hated it." Thalia set the coin beside her plate. "I said I was six."
+
+He drew back slightly, annoyed that the gift had not transformed the room. Annabeth wondered how often he'd convinced himself that the problem was the daughters who couldn't be satisfied, rather than the years in which he'd offered them so little.
+
+"I will visit again before the solstice," Zeus announced. "You have my word."
+
+Thalia looked away. Annabeth heard herself ask, "Would you tell Chiron when you know the day? Even a message would help."
+
+The temperature dropped. Zeus had tolerated the request about Jason because he could answer it on his terms. This one made him look as though she'd questioned a royal decree.
+
+"My schedule is not kept by a camp secretary," he said.
+
+"I wasn't trying to order you around."
+
+"Then stop making demands."
+
+Annabeth stood very still. She'd asked for a message, nothing more. Her father had turned it into disobedience with a speed she couldn't anticipate.
+
+Chiron rose partly from his chair. "My lord, I can certainly make accommodations whenever you choose to visit. The girls have asked only for notice."
+
+Mr. D, who had spent most of lunch examining his drink, set the glass down.
+
+"Brother, either give them a date or don't. The weather is starting to sour the lemonade."
+
+Zeus's eyes flashed. For a moment Annabeth thought the table would split beneath them. Then her father noticed her reaction. The anger didn't disappear, but he looked away from her and drew the pressure back. He could control it when he wanted to. She knew that too.
+
+"I have been here an hour," he said. "I won't spend another defending myself against insolence."
+
+Thalia didn't answer. She no longer had the energy to make another argument with someone who treated her memory of abandonment as a personal attack.
+
+Zeus turned toward Annabeth and held out his hand. "Come here, daughter."
+
+She hesitated, then stepped close enough for him to touch her shoulder. He brushed her hair back in a gesture that reminded her of the first minutes of lunch, before everything went wrong. She wanted to lean into it. She also remembered how quickly the warmth had been withdrawn from Thalia.
+
+"You are a clever girl," he said. "Don't let your sister's temper ruin what could be a happy visit."
+
+Annabeth stepped back. "She's my sister."
+
+His face changed, not physically but in its expression. He dropped his hand. "Yes. She is."
+
+He did not ask Thalia whether she wanted a hug. He merely looked toward her and said, "You would find life easier if you stopped treating everyone as an adversary."
+
+Thalia met his eyes. "I'd find life easier if you'd answer my letters."
+
+He said nothing.
+
+There was a sudden change in pressure, a sharp flicker in the wall lamps, and he was gone. A plate rattled against the table long after the thunder faded.
+
+No one moved immediately. Annabeth had wanted her father to listen, and he had heard enough to become angry. She could not tell how much of the rest he'd understood.
+
+Mr. D stood and retrieved his drink. "I would suggest a quieter family lunch next time," he said, then left without waiting for a reply.
+
+Chiron checked the cracked glass and the still-open doorway before he spoke. "You are both excused from afternoon instruction. I will speak to the staff about keeping the cabin quiet if you want some time alone."
+
+"Thank you," Thalia said. Her voice was flat.
+
+He looked toward Percy. "Mr. Jackson, you may stay if the girls would like company."
+
+Percy glanced at Annabeth, then at Thalia. They had not asked him to leave. He sat back down.
+
+"Is there anything practical you need?" Chiron asked.
+
+"Food," Thalia said. "If we're going to spend the rest of the day dealing with this, I'd prefer not to do it hungry."
+
+Chiron nodded and asked the kitchen for the dessert tray. It was a small request, and nobody tried to pretend it was going to solve what had happened.
+
 
 ---
 
@@ -400,7 +575,7 @@ Thalia turned the little box over in her hands. Pine tree. Lightning strike. A s
 
 "Yes." Annabeth picked at her ambrosia. "But I'm also... I don't know. When he brought that owl, it startled me. What if he knows more than he says? What if they all know and they're just... letting us walk into it?"
 
-Percy frowned. "My dad doesn't know. Or if he does, he's hiding it really well behind dad jokes and sea cucumber metaphors. He asked me last week if I'd been sleeping okay, like — like he could tell something was off but couldn't name it." He looked down. "I think the gods feel the timeline wrong the way fish feel a storm. Pressure change. They don't know what's coming, just that the water's wrong."
+Percy frowned. "My dad doesn't know. Or if he does, he's hiding it really well behind dad jokes and sea cucumber metaphors. He asked me last week if I'd been sleeping okay, like — like he could tell something was off but couldn't name it." He looked down. "Maybe the gods have noticed something strange. I don't know. It's a guess, and being worried about it doesn't make it evidence."
 
 Thalia considered that. The eclipse had not answered any of the questions Percy and Annabeth carried. It had given Thalia a new fear: even here, with a cabin and Chiron and walls around them, she could not guarantee her sister's safety.
 
@@ -414,7 +589,7 @@ Annabeth reached over and took her hand. No deflection. No performance. Just fin
 
 Thalia squeezed back so hard it must have hurt. Annabeth didn't pull away.
 
-Percy was quiet for a moment. Then he said, "When I miss my mom — my other mom, Sally — I tell Grover. Or I write it down. Amphitrite found one of the letters once. I thought she'd be mad. She just... folded it up and said I could leave it in the coral garden, so the sea could carry it." He smiled, crooked. "It sounds dumb."
+Percy was quiet for a moment. Then he said, "When I miss my mom — my other mom, Sally — I tell Grover. Or I write it down. Amphitrite saw me looking at Sally's photograph once. I thought she'd be upset. She told me I could leave it in the coral garden, so the sea could carry it." He smiled, crooked. "It sounds dumb."
 
 "It doesn't sound dumb," Thalia said gruffly.
 
@@ -442,6 +617,93 @@ They sat a while longer, finishing the strawberries, trading small stories to fi
 
 "You're both idiots," Thalia declared, but she was smiling — really smiling — for the first time since the sky stopped that morning. She pocketed the drachma. She'd keep it. Not because it was enough. Because it was proof she'd asked for more.
 
+Thalia did not want to spend the rest of the afternoon talking about Zeus. She also didn't want to return to Cabin One and find his gifts on their beds, waiting to be interpreted. The only useful thing he'd said all day concerned Jason, and she intended to see whether it could become something more than another assurance that her brother was being cared for.
+
+She found Chiron on the porch with a stack of messages he'd set aside during lunch.
+
+"Can you help us send a letter to Camp Jupiter?" she asked.
+
+Chiron looked up. "I can help you prepare one. Delivery is another matter."
+
+"Because the camps aren't supposed to correspond."
+
+"Because the route is unusual, and any messenger needs authorization from the people who manage it. I cannot promise a letter will reach Jason directly."
+
+"What can you promise?"
+
+"I can make an inquiry through the channels I know. I will tell you if it is refused."
+
+Thalia appreciated the honesty more than she wanted to. An easy promise might have been comforting for an hour, but she'd heard enough of those from her father to last a lifetime.
+
+"Do you need to ask Zeus first?"
+
+"I need to account for the authorities responsible for the route. Zeus may have an interest in the arrangement, but you may write to your brother without asking him to approve your feelings."
+
+The words made Thalia go still. She hadn't realized how much she needed a grown-up to say that. Her father had made a question about letters sound like disobedience. Chiron was treating it as something she had a right to want, even if the logistics were uncertain.
+
+"Could we give you the letter tomorrow?" she asked.
+
+"Of course. Write what you would want Jason to know. Not what you think will persuade someone to carry the paper."
+
+Thalia thanked him and went back toward Cabin One. She found Annabeth on the steps with the pendant still in its box. Percy was with her, eating an apple as though he hadn't spent the afternoon arguing with a king of the gods.
+
+"Chiron said he'd inquire about sending Jason a letter," Thalia told her sister.
+
+Annabeth looked up. "Did he say it would get there?"
+
+"No. He said he'd let us know if the route was refused."
+
+"That's something."
+
+"It is."
+
+Percy stood to leave them to it. Thalia stopped him.
+
+"Could you get paper from Cabin Three? The thick kind you used for Amphitrite's letter."
+
+"I can. Why?"
+
+"Because I'd like to write without the ink soaking through. Jason deserves better than a note that looks like it went through a rainstorm."
+
+Percy nodded and went. Thalia saw that he had stopped trying to make an awkward afternoon sound like an amusing one. It was a relief.
+
+Inside the cabin, Annabeth cleared a space on the desk. They worked separately at first. Thalia wrote an introduction explaining where she was and asking whether her earlier letters had arrived. She wanted to describe the eclipse and their father's visit, then found she didn't know how much Jason would have been told. She crossed out a sentence about Zeus's temper because she didn't want a stranger at the Roman camp reading it before her brother did.
+
+Annabeth sat beside her, thinking.
+
+"I don't remember the day he left," she said after a while.
+
+"I know."
+
+"I remember having a younger brother in the way I know it from the records and from you. I don't have a memory of him that I can describe as if I'd been there."
+
+"You don't need to invent one."
+
+"What if he expects me to remember?"
+
+"Then we tell him the truth we can tell. You want to hear from him. You want to know how he's doing."
+
+Annabeth wrote that down. She added a question about whether he still liked building things, because Thalia had described a boy who could take apart a broken clock and put it together with half the screws missing. She did not pretend she remembered watching him.
+
+Thalia read over the sentence. "He used to steal the springs."
+
+"Why?"
+
+"He said clocks were trying to tell him what to do."
+
+Annabeth smiled. "That sounds like a family trait."
+
+They finished their letters without making promises about when they would see him. Thalia folded hers and set it beneath a paperweight. She had not solved the problem of a father who refused to share information about his own son. But she had chosen a way of reaching toward her brother that did not depend entirely on asking Zeus to be kinder next time.
+
+Percy returned with clean paper and two envelopes. When he saw the letters were already written, he offered to address them rather than ask the sisters to start again. Thalia let him do it, then checked the spelling of the Roman camp's name against Chiron's official form.
+
+"Do you think he'll read them?" Annabeth asked.
+
+"I don't know," Thalia said. "I want him to have the chance."
+
+She put the finished envelopes in her jacket pocket, where she could deliver them to Chiron in the morning. It was the first promise made that afternoon whose next step belonged to her.
+
+
 Later, when the light went amber and Chiron's bell rang for dinner, they walked back down the hill together. Clarisse was waiting by the cabins, arms crossed, scowl firmly in place — Poseidon's daughter, Percy's half-sister, thirteen and furious at the world on principle.
 
 "Took you long enough," she barked. "Silena saved you seats and Luke's telling stories and if you don't hurry there won't be any chicken left. Where were you?"
@@ -458,15 +720,156 @@ Thalia sat with her sister on one side and her ridiculous sea-boy buffer on the 
 
 Her father was gone. He'd made another promise, and she didn't yet know if he would keep it. The sky above was empty and blue and indifferent.
 
-But the bench beneath her was solid. Annabeth's shoulder pressed against hers, steady and warm. Percy's foot knocked against hers under the table, accidental-on-purpose, *I'm here* in Morse code.
+But the bench beneath her was solid. Annabeth's shoulder pressed against hers while Percy asked Clarisse to pass the bread, careful not to make the afternoon about his opinion of their father.
 
 Thalia looked at her sister — her brilliant, brave, finally-honest sister — and thought: *He doesn't get to keep us waiting anymore. We'll grow without him if we have to.*
 
-Annabeth caught her eye and smiled, small and real, and mouthed, *Okay?*
-
-Thalia bumped her shoulder. *Okay.*
-
-And for that evening, at least, it was true.
+Thalia put the unfamiliar drachma beside her plate instead of back in its box. She would have to decide what to do with it later. Annabeth nudged the dessert dish toward her, and Thalia took the last strawberry. Zeus had already left. Dinner still needed eating.
 
 ---
+
+Annabeth waited until the cabin was quiet before opening the box with the silver pendant.
+
+It lay on its bed of white cotton exactly as it had at lunch, the owl's wings folded around a small lightning bolt. The design was careful. Whoever made it had taken time with the feathers and the curve of the beak. Annabeth liked it. She also didn't know what it meant to accept a gift from someone who had spent the afternoon telling her she was welcome to be clever only when her cleverness agreed with him.
+
+Thalia came in carrying her sword belt and the letters they had written for Jason. She set the envelopes on her desk and noticed the open box.
+
+"You're going to wear it?"
+
+"I don't know."
+
+"He's going to love that."
+
+Annabeth looked up. "I didn't ask him to give me anything."
+
+"I know."
+
+"Then don't act as though I'm choosing him if I like a necklace."
+
+Thalia stopped by the foot of her bed. The irritation in her face was familiar, but Annabeth could tell she was listening. It had taken them too long to learn how to have this argument without making it a referendum on who loved the other more.
+
+"You're right," Thalia said. "I shouldn't have said it that way."
+
+Annabeth looked down at the pendant again. "You can hate your coin if you want. I won't tell you what it should mean."
+
+"I don't hate it." Thalia unfastened her belt with her uninjured hand. "I hate that he remembers I liked collecting things when I was six but doesn't know whether the letters I sent Jason have arrived."
+
+"That's a reasonable thing to hate."
+
+"Stop sounding like Chiron."
+
+"I've had a difficult day. My options are limited."
+
+Thalia laughed, then sat on her bed. She examined the drachma, turning it over with her thumb. The pine tree had been stamped into the metal with unusual detail, and the lightning on the other side was familiar enough that every child of Zeus would recognize it.
+
+"Does it bother you that he wears a new face?" Annabeth asked.
+
+"Every time."
+
+"How do you know it's him before he speaks?"
+
+"The sky. The way the air changes. And sometimes the way he walks into a room and assumes everybody's been waiting to entertain him."
+
+Annabeth considered the description. She had watched him change his expression during lunch so quickly that the kindly professor's face had seemed like a costume rather than a person. She could recognize the pattern Thalia described, even without remembering the visits her sister had lived through.
+
+"I thought if I said everything clearly, he'd understand," she admitted.
+
+"He did understand some of it."
+
+"Then why did he get angry when I asked him to send a message?"
+
+"Because that would mean you expected him to keep track of the promise after he left."
+
+Annabeth tried to defend the request in her mind and found she didn't need to. It had been a small, practical question. Zeus had made it dangerous. She couldn't fix that by choosing better words.
+
+"He said he'd inquire about Jason's letters," she said.
+
+"He did."
+
+"Should we believe him?"
+
+"We can check whether he follows through. I won't plan my life around it."
+
+The answer was less comforting than Annabeth wanted. It was also more useful than Thalia pretending their father was about to change because he'd brought gifts and accepted a few questions.
+
+She closed the pendant box.
+
+"Can I ask you something without you deciding you need to rescue me?"
+
+Thalia leaned back against the headboard. "That depends on the question."
+
+"When he started getting angry, I wanted to make him like me again. I wasn't even thinking about whether he was being fair to you. I just wanted the shouting to stop."
+
+"That's not the same as wanting me to lose."
+
+"I know. But it felt like it."
+
+Thalia was quiet for a while. Annabeth expected advice or a story about the years she couldn't remember. Instead her sister asked, "Do you want me to tell you what I was thinking?"
+
+"Yes."
+
+"I was angry that he kept treating you like the easy daughter. And then I was scared because I could see you starting to get afraid of him. I thought if I could make him angry at me instead, you'd be safe."
+
+"You can't do that forever."
+
+"I know."
+
+"Do you?"
+
+Thalia gave her a sharp look. Annabeth held it. She was tired of being instructed to grow independent while everyone else arranged themselves around her so she wouldn't have to experience discomfort.
+
+"Fine," Thalia said. "Maybe I don't always act like I know. But I'm trying. Today I didn't leave the room when he looked at you like that. I wanted to. I stayed because you asked for your own answer."
+
+Annabeth nodded. Her father's departure had left them with the same problem in a different form: how to protect one another without making decisions the other hadn't agreed to.
+
+"I want you to keep telling me when he's frightening," she said. "Not wait until it gets so bad you can't stand to hear his name."
+
+"I could say the same to you."
+
+"Then say it."
+
+Thalia looked at her. "Tell me when you're frightened of him, Beth. I won't always know what to do, and I might still be furious. But I don't want you thinking you're responsible for keeping the weather pleasant."
+
+Annabeth blinked hard and looked down at the box.
+
+"All right," she said.
+
+Thalia stood and went to the little mirror on the wall. She tried to pull her hair into a braid one-handed, caught a knot near the nape of her neck and muttered a word Annabeth wasn't allowed to use during lessons.
+
+"Do you want help?" Annabeth asked.
+
+Thalia hesitated. "Yes. The bandage makes it hard."
+
+Annabeth took the brush and stood behind her. She began to separate the strands the way Thalia had shown her, although her hands felt awkward with the injured fingers and the habit she'd inherited from another life wasn't quite the same. She had to stop twice to keep the loose hair from slipping free.
+
+"You used to be better at that," Thalia said, gently enough that it wasn't an accusation.
+
+"I know. You'll have to teach me again."
+
+"I can do that."
+
+Annabeth watched her sister's reflection. Thalia looked tired, older than sixteen in some ways and startlingly young in others. Annabeth wondered whether there was a version of the world in which she'd never needed to learn how to braid a frightened little girl's hair. She didn't know. The woman in their mirror was not a different person merely because she carried memories Annabeth didn't.
+
+When the braid was finished, Thalia examined it and adjusted the tie.
+
+"It's crooked."
+
+"Then fix it yourself."
+
+"With what hand?"
+
+Annabeth laughed and retied the end. She left it imperfect because her fingers had begun to ache, and Thalia didn't complain.
+
+Before going to bed, Annabeth took the pendant from the box and hung it on the hook beside her books instead of wearing it. Thalia put the drachma in her coin tin. Neither threw the gifts away, and neither made a show of keeping them.
+
+The letters to Jason remained on the desk, ready for Chiron in the morning. Annabeth checked that the envelopes were dry and the ink legible, then turned out her lamp. She wanted her father to come back. She also wanted to be able to ask him something ordinary without having to prepare an entire defense first. Nothing that had happened at lunch gave her reason to believe both wishes would be granted.
+
+From the next bed, Thalia asked whether she'd locked the cabin door.
+
+"Yes."
+
+"Good."
+
+They went to sleep knowing that Zeus could appear in any face he liked. Tomorrow, when they woke, there would still be paper to deliver and work at camp that didn't require his permission.
+
 

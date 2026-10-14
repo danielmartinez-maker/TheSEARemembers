@@ -90,6 +90,334 @@ Percy waved back. Okay. Okay. Grover was here. That helped.
 
 ---
 
+Grover nearly didn't perform.
+
+He'd agreed to play with the Apollo cabin because Austin asked him during breakfast, and he'd been pleased enough to say yes before learning what the arrangement involved. Austin had prepared a new piece with a guitar, violin and two percussion parts. Grover's reed pipes were supposed to enter in the second verse and carry a melody the violin would pick up on the way out.
+
+It looked simple on paper. It was not simple when he tried it at rehearsal.
+
+The first time, Grover came in early. The second time he missed the change in key and played a note that made the violinist wince. On the third attempt he was so busy watching Austin's hands that he forgot to breathe before the long phrase.
+
+Austin stopped the group.
+
+"Let's try that again from the bridge."
+
+Grover lowered his pipes. "I think I'm making it worse."
+
+"No. We just need to make sure everybody knows where the entrance is."
+
+"The entrance is after your third chord."
+
+"After the fourth. We changed it yesterday."
+
+Grover stared at him. "You changed it?"
+
+"At the end of rehearsal. I thought you were still there."
+
+"I left to help Ella with the books."
+
+Austin looked embarrassed. He had been treating the music as a single shared plan, but Grover hadn't been told about the adjustment. The mistake wasn't evidence that he couldn't keep up.
+
+"Sorry," Austin said. "That's on me."
+
+Grover looked at the handwritten score. He could read music, but he was more comfortable learning by ear. He could hear the transition if somebody played it twice without interruption.
+
+"Can we start from the first phrase?" he asked. "I want to hear how the new part connects."
+
+They did. Austin played the first chords slowly, Kayla entered on violin and Grover followed the melody until it reached the place he'd been missing. The pattern made sense as soon as he heard it in context.
+
+He raised his pipes and tried again. This time the entrance was right.
+
+"Good," Austin said. "Can you keep that rhythm if the dancers move closer to the stage?"
+
+Grover considered. Music changed in a crowded room. People clapped at unexpected moments, and the fire sometimes made it hard to hear the quieter instruments. He had played at campfires for years. He knew how easily a melody could disappear beneath chatter.
+
+"I can," he said. "But we should decide whether I follow your tempo or you follow mine. If I try to change both, we'll be in trouble."
+
+Austin thought about it. "Follow the guitar. I'll watch the drummer."
+
+Grover nodded. They tried the transition again, adding the percussion. It worked, though one phrase still needed more space before the violin entered.
+
+The rehearsal ended with everybody tired and mostly pleased. Grover had expected to feel like the extra performer, the satyr whose music sounded interesting but didn't fit the Apollo cabin's careful arrangement. Instead they had changed the timing because he could hear a problem in the melody the others hadn't noticed.
+
+Kayla came to sit beside him while he cleaned his pipes.
+
+"Are you nervous about playing for the whole camp?" she asked.
+
+"Yes."
+
+"Me too."
+
+He looked at her. She had played at dozens of events, far more than he had. She seemed perfectly comfortable tuning a violin while people watched.
+
+"You still get nervous?"
+
+"Every time. I just know what to do when it happens."
+
+"What do you do?"
+
+"Check the score, breathe and look at Austin when I lose the beat. Then keep playing."
+
+Grover considered. He had been trying to convince himself that a good musician shouldn't feel afraid. It was more useful to learn how to perform while afraid.
+
+He went to find Ella before the performance. She was sitting on a low step near the library with two books and a small piece of blue thread in her talons.
+
+"Grover plays tonight," she said when he arrived. "Grover plays for dancers. Dancers move in time. Time changes."
+
+"That's exactly the problem."
+
+Ella looked up. "You can count."
+
+"I can."
+
+"And if you miss one count?"
+
+"Then I listen to the others and come back on the next phrase."
+
+She nodded as though he'd answered a difficult examination correctly.
+
+He sat beside her for a few minutes. She had been planning to attend the performance but hadn't realized Grover would be so anxious about it. She offered him the blue thread.
+
+"Bookmark," she said. "For your score."
+
+He took it. It was a terrible bookmark for a page of music, far too short to hold between the sheets. He tied it around the bottom of his pipes instead.
+
+"That way I'll know where it is," he said.
+
+Ella looked pleased. She followed him to the amphitheater, where the stage lights were being checked and the last instruments arranged on their stands. He had practiced the piece, corrected his entrance and agreed with the band about how to follow the beat.
+
+When Percy waved from the audience, Grover waved back. He could still be nervous. He didn't have to pretend he was the only person responsible for making the music work.
+
+---
+
+An hour before the campfire, Percy was trying to learn how not to step on people.
+
+Silena had taken him to the flat stones behind the pavilion, where a narrow line of chalk marked out a rough rectangle. She had made the rectangle the width of the area the Apollo campers had reserved for dancing, then refused to let him cross it until he could move without staring at his own feet.
+
+"This feels like another sword drill," he complained.
+
+"Only because you keep trying to defend yourself against the music."
+
+Percy looked at her. "Music attacks people?"
+
+"Some music. Not this music."
+
+She clapped four slow beats. Percy stepped on the first, forgot the second and landed on the third with enough force to make her wince.
+
+"You're counting too fast," she said.
+
+"I'm counting when you clap."
+
+"You're trying to arrive before the beat. You don't have to beat it somewhere."
+
+He laughed, but he was embarrassed. Silena could tell. She remembered teaching him other small things when he came to camp, and the moment when he realized his sisters had an entire childhood of habits he couldn't recall. It was not like that today. He had never learned this particular dance, and nobody had promised he'd be good at it.
+
+"What if I ask her and then make a fool of myself?" he said.
+
+"Then she can decide whether she wants another song with you."
+
+"That's a very unsentimental answer."
+
+"It's a very practical one. You can ask her. She can say yes or no. You're allowed to be bad at something together."
+
+He looked over toward the amphitheater. Campers were carrying benches into place and testing the oil lamps along the steps. The evening was going to be crowded. He'd imagined a moment with Annabeth where nobody noticed how young they looked or how much they'd already lived through in their remembered life. Now he suspected everyone would notice.
+
+"Do you think Thalia will laugh?" he asked.
+
+"Yes."
+
+"Great."
+
+"She'll probably laugh because she's nervous about Annabeth being happy with somebody she can't supervise every minute. But that's hers to handle. Not yours."
+
+Percy bent to retie his shoe. When he straightened, Clarisse was standing at the edge of the chalk marks holding two bottles of water.
+
+"Why does he look like he's losing a fight with the ground?"
+
+"He's learning to dance," Silena said.
+
+Clarisse looked at the rectangle, then at Percy. "That explains the casualties."
+
+"I haven't hurt anyone."
+
+"Yet."
+
+She put down the bottles. Percy expected her to go away laughing. Instead she stood opposite him and took the position Silena demonstrated, hands lifted where a partner's would be.
+
+"Come on. One round," Clarisse said.
+
+"You want to dance?"
+
+"I want to see whether the footwork is as bad as it looks."
+
+They tried three steps. Percy moved forward when he should have moved back, and Clarisse planted her foot so they didn't collide. She looked genuinely irritated.
+
+"You're watching your shoes," she said. "You don't do that when you fight."
+
+"That's different."
+
+"Not if you're going to run into somebody. Look up."
+
+Silena clapped again. Percy lifted his head and watched Clarisse's shoulders instead of the chalk. They took four steps before he made a mistake. That was an improvement.
+
+"Better," Clarisse said.
+
+He was shocked. "Was that a compliment?"
+
+"Don't make me take it back."
+
+They practiced one more sequence. Clarisse complained that the dance steps were unnecessarily small, but when Silena explained that the point was to move comfortably without forcing a partner to follow, she slowed down. Percy followed in turn. Neither was especially graceful. Both learned something.
+
+A younger camper passed with an empty lantern tray and stopped to watch.
+
+"Are you practicing for the slow dance?"
+
+Percy felt his ears turn red. Clarisse fixed the child with a stare.
+
+"We're practicing footwork. Keep walking."
+
+The camper hurried away. Percy stared at her.
+
+"You did that for me."
+
+"Don't sound so surprised."
+
+Silena held out his water bottle. "I think you're ready to ask Annabeth."
+
+"Ready as in good at it?"
+
+"Ready as in you understand you're supposed to listen when the other person tells you what feels comfortable."
+
+Percy looked at the chalk marks. He could still remember the life in which he and Annabeth had held each other after terrible things, when being near enough to feel another person's heartbeat had mattered more than any formal movement. That didn't mean he could skip the awkwardness of being twelve at a camp dance. He would ask her because he wanted to, not because an older memory entitled him to an answer.
+
+"What if she says no?" he asked.
+
+"Then you dance with us for a song," Clarisse said.
+
+Percy grinned. "Would you really?"
+
+"Absolutely not. I was checking whether you were paying attention."
+
+Silena laughed. Clarisse had done enough to make her point. She handed Percy the second bottle and said she'd save him a place on the steps if he wanted to sit for a while before asking.
+
+He took the water, thanked them both and walked toward the amphitheater. Behind him, Clarisse stepped back into the rectangle and asked Silena whether the same movement would work with a faster rhythm.
+
+Silena smiled. Her sister could deny being interested in dancing all she liked. She stayed to demonstrate the next set of steps.
+
+---
+
+Nico di Angelo arrived at the amphitheater carrying a cardboard sign that said DANCING in letters large enough to be read from the farthest bench.
+
+The sign was not his idea. Bianca had volunteered both of them to help set up before dinner, and an Apollo counselor had assigned him to carry the signs while the older campers placed the benches. Nico had been hoping to play Mythomagic with two friends before the music began. Now he was standing in the dirt watching everyone else decide where things belonged.
+
+"Where does this go?" he asked.
+
+Bianca looked up from the basket of cloth strips she was tying around the handrails. "At the entrance to the floor."
+
+"Which entrance?"
+
+"The wide one."
+
+"There are three."
+
+Annabeth, who had been drawing a seating arrangement on the back of an old program, heard the exchange and came over.
+
+"There's only one path that's wide enough for two people to walk side by side without stepping into the fire circle," she said. "The other two are exits. Chiron wants them kept clear."
+
+Nico looked at the sign. "Then why doesn't it say that?"
+
+"Good point."
+
+She took a pencil and wrote *Dancing this way* beneath the original word, then added an arrow pointing toward the open side of the circle. Nico held it up. The arrow pointed left when he was facing the stage and right when he turned toward the path.
+
+"Now which way does it go?"
+
+Annabeth stared at the arrow. She had drawn it as though the reader would stand where she had been sitting, looking down on the whole space. She hadn't checked what it would look like to someone arriving from the cabins.
+
+"Let's put it where people will actually see it," she said.
+
+They walked to the path and tested the view. Nico tilted the sign so the arrow was visible without blocking the handrail. Bianca fetched a wooden stake, and the three of them fixed it in the ground.
+
+"That was a lot of work for a piece of cardboard," Nico said.
+
+"It was a lot of arguing for a piece of cardboard," Bianca corrected.
+
+Annabeth laughed. Nico looked pleased with himself and then looked toward the open space where several campers were already practicing dance steps.
+
+"I don't know why everybody wants to do that," he said.
+
+"Dance?"
+
+"They're acting like this is the only interesting thing that happens all week."
+
+"You don't have to dance," Bianca said.
+
+"I know. But if I don't, everyone is going to ask why."
+
+Bianca's smile slipped. She had agreed to work with him because she thought they would enjoy the music together. She hadn't noticed how much he hated the idea of becoming part of a spectacle.
+
+Annabeth sat on the lowest step beside him.
+
+"When I was younger in the life I remember, I used to think there were two ways to attend things. Either I took part, or I let everyone see I didn't want to. It made parties exhausting."
+
+"What did you do?" Nico asked.
+
+"I started finding one thing I genuinely wanted to do. Tonight I want to hear Grover play. Percy wants to be here too. I can listen without dancing if that's what I feel like."
+
+Bianca looked at Annabeth's shoes. "You've got your good pair on."
+
+"That doesn't mean I'm required to use them."
+
+Nico considered. He was wearing boots that would be terrible for dancing and excellent for walking across wet grass. He'd chosen them deliberately.
+
+"I want to listen to the music and play cards on the steps," he decided.
+
+"Then that's what you should do," Bianca said.
+
+"What if you want to dance?"
+
+"I can go with somebody for a song. Then come back."
+
+He looked at her with the suspicion he reserved for promises that sounded too easy.
+
+"You won't be upset?"
+
+"I'll be upset if you pretend to enjoy yourself so I don't leave you for five minutes."
+
+Nico smiled. He hadn't expected that answer. His sister had been learning to leave him in places where he was safe and happy without treating the distance as a threat to their closeness. Tonight, he realized, he could do the same for her.
+
+They finished putting up the other signs. One pointed toward the water station, which was far enough from the fire to keep the cups cool. The other marked the place where the musicians could leave their instrument cases without somebody tripping over them.
+
+When the last sign was placed, Nico looked around. The steps were filling with friends carrying blankets. There was room near the side railing for a card game, and from there he could see the stage without being in the middle of the dance floor.
+
+He helped Bianca spread a blanket over the stone. She thanked him, then asked whether he wanted anything before the show began.
+
+"A deck of cards," he said.
+
+"One deck or two?"
+
+"Two. Someone might want to play."
+
+She went to fetch them. Annabeth stayed for a moment, watching the musicians tune their instruments.
+
+Nico glanced up. "Are you going to dance with Percy?"
+
+Annabeth felt her cheeks get hot.
+
+"I might."
+
+"Then why are you still here?"
+
+"Because the music hasn't started."
+
+"Right." He looked back at the stage. "I can see why you like him. He gets embarrassed about the same things you do."
+
+Annabeth opened her mouth, then shut it. She decided she could survive that observation without offering a rebuttal.
+
+The first conch sounded from the pavilion. Bianca returned with the cards. Nico put the DANCING sign in its place one last time, checking the arrow from the path, then followed his sister to the blanket. He was going to have the kind of evening he wanted. So was she.
+
+---
+
 The fire caught fast.
 
 Flames climbed the stacked logs, crackling and popping, sending sparks spiraling up into the darkening sky. The whole amphitheater glowed orange. Faces turned golden. The smoke curled up sweet and sharp, and for a minute everybody just sat and watched it catch, the way they always did, quiet in that shared way that made Percy think of the ocean at night.
@@ -163,6 +491,106 @@ He stood up before he could talk himself out of it.
 Grover beamed. "You don't need luck. But good luck anyway. I'll be up there playing in a minute. I'll play something good, I promise."
 
 Percy nodded, throat too tight to answer, and started down the stone steps.
+
+---
+
+Annabeth had been trying not to watch Percy for twenty minutes.
+
+It was more difficult than she'd expected. She could see him across the amphitheater, half hidden by Grover and a Demeter camper, looking as though he'd forgotten what to do with his hands. Usually she would have found it funny. Tonight she was also nervous, and that annoyed her.
+
+She'd written the little note in his pocket this morning because she wanted to dance with him. She hadn't wanted an elaborate plan. But when Chiron announced the event, she suddenly remembered how many people knew they were together and how quickly a small private moment could become the evening's entertainment.
+
+"You're staring," Thalia said.
+
+Annabeth looked away. "I'm listening to the music."
+
+"He's over there."
+
+"I know where he is."
+
+"Then go ask him."
+
+Annabeth opened her mouth, then stopped. Thalia usually teased her about Percy, and tonight she was offering a direct suggestion without making it sound like a joke.
+
+"I want him to ask me," Annabeth admitted.
+
+"Why?"
+
+"Because I already wrote him a note. I want to know he wants to do it too."
+
+Thalia considered. "He looked like he wanted to get up about five minutes ago."
+
+"That's not the same as asking."
+
+"No. It isn't."
+
+Annabeth rubbed her hands over her knees. She had been the one to suggest the dance, but she still wanted the small reassurance of hearing him choose it. In the life they remembered, they'd learned to talk about important things because guessing had caused enough trouble. She was twelve again, and a simple question about dancing had become embarrassingly hard.
+
+Thalia settled back on the stone step.
+
+"Then wait," she said. "It's your choice."
+
+Annabeth looked surprised. "You're not going to go drag him over?"
+
+"Not unless you ask me to, which I hope you won't. He can cross a circle on his own."
+
+Annabeth smiled. She had been prepared to argue about privacy and boundaries. Thalia had already given them to her.
+
+Behind the stage, Austin's guitar changed rhythm. The dancers moved toward the center of the circle, some laughing, some carefully counting their steps. Annabeth watched them. She didn't know how to do the slow version of the dance. She had danced with Percy in another life, but those memories belonged to bodies taller and older than the ones they had now. She didn't want to pretend her feet would automatically remember.
+
+"I might be terrible," she said.
+
+Thalia snorted. "That's a real possibility."
+
+"Thank you."
+
+"You asked."
+
+Annabeth looked at her. Her sister's expression softened.
+
+"You know you don't have to be good at something to enjoy it, right?"
+
+"That's not normally your advice."
+
+"I contain multitudes."
+
+Annabeth laughed. It was easier to imagine stepping onto the dance floor now that she didn't have to treat it as a test. She could be clumsy in front of people. Percy might be just as clumsy, and she would probably laugh when he stepped on her shoe.
+
+Silena came up the steps with a plate of cookies and offered them each one. She saw Annabeth's face and glanced across the amphitheater.
+
+"You waiting for Percy?" she asked.
+
+"Maybe."
+
+"Do you want me to go get him?"
+
+"No," Annabeth said. "He knows where I am."
+
+Silena nodded and left the plate beside them. She didn't turn the answer into a lesson or tell Annabeth that she had to make the first move. Annabeth appreciated being allowed to decide how much help she wanted.
+
+The song changed. Grover went back onto the stage for his part of the program. Percy stood up on the opposite side of the circle.
+
+Annabeth looked at him. Her stomach fluttered, and she hated that Thalia noticed.
+
+"There he goes," her sister said.
+
+"Don't say anything."
+
+"I haven't."
+
+"You were going to."
+
+"Of course I was. I'm trying to improve."
+
+Percy began walking toward them. Annabeth felt an urge to stand and meet him halfway. She stayed seated because she wanted him to finish what he'd decided to do, and because the moment would be easier to remember if she didn't hurry it.
+
+Thalia shifted to give him room at the bottom of the steps.
+
+"Be nice," Annabeth whispered.
+
+"I'll try."
+
+Annabeth believed her, mostly. She looked at Percy again, waiting for him to ask the question she'd already decided how to answer.
 
 ---
 
@@ -400,6 +828,122 @@ They did not say anything else. They just sat side by side, two older sisters wh
 
 ---
 
+Silena watched Clarisse pretending not to enjoy herself.
+
+It was a familiar performance. Her younger sister sat on the steps with her arms folded, criticizing the dancers' footwork as though this were a tournament and she had been appointed judge. Yet every few minutes she looked toward the circle to check whether Percy was still managing without tripping over Annabeth.
+
+Silena had spent the first half of the night dancing with friends from the Aphrodite cabin. She liked the music, the colored lights and the chance to wear something she'd chosen without worrying about whether it would survive a sparring lesson. She also liked knowing her siblings were here, each enjoying the evening in a way that made sense to them.
+
+She sat beside Clarisse.
+
+"Want to dance?"
+
+Clarisse looked horrified. "With who?"
+
+"Me."
+
+"Why?"
+
+"Because there's music."
+
+"That's a terrible reason."
+
+"It's generally the reason people dance."
+
+Clarisse looked toward Thalia, who was doing a poor job of concealing her amusement.
+
+"Don't laugh."
+
+"I haven't," Thalia said.
+
+"Your face is laughing."
+
+"Then ask it to stop."
+
+Silena put her hand on the step between them.
+
+"You don't have to," she said. "I just thought it would be fun. We don't get many evenings where nobody expects us to be responsible for a drill or a meal."
+
+Clarisse studied her. The offer was simple. She had been so busy thinking about how embarrassing it would be to dance badly that she'd forgotten she could try for one song and sit down again if she disliked it.
+
+"Do you know the steps?" she asked.
+
+"Some of them."
+
+"Then show me before we go down there. I'm not getting shoved around in front of half the camp."
+
+Silena stood and demonstrated the basic movement on the wide landing beside their seats. Clarisse copied it with the awkward determination she brought to every new skill. She was very good at moving quickly and not particularly interested in looking graceful.
+
+"You're leading with your shoulders," Silena told her.
+
+"That's where most of my strength is."
+
+"Your feet are supposed to move first."
+
+"Why are all the interesting things about fighting also true of dancing?"
+
+"Because you're using your body either way."
+
+Clarisse tried again. The third attempt was smoother. Thalia began tapping the rhythm with her boot, which helped until she exaggerated the beat and made Clarisse lose count.
+
+"Stop helping," Clarisse told her.
+
+Thalia held up her hands.
+
+Silena asked whether Clarisse wanted to try the dance floor. Her sister hesitated, then nodded.
+
+They walked down together. The dancers made room without staring. A few people from the Hermes cabin were laughing at their own poor coordination, so Clarisse found it easier to join than she'd expected.
+
+The first half of the song was uneventful. Silena counted quietly while Clarisse followed, then they exchanged positions and let Clarisse lead. She turned too quickly, almost bumped into another pair and stopped.
+
+"Sorry," she said to the other dancers.
+
+They waved it off. Clarisse was more embarrassed by the apology than the near collision, but she started again carefully.
+
+When the song ended, Silena looked at her.
+
+"Another?"
+
+"One was enough."
+
+"Did you hate it?"
+
+"No. It was fine."
+
+Silena smiled. She had learned to accept *fine* as a considerable compliment when it came from Clarisse.
+
+On the way back, Clarisse stopped and looked at the stage.
+
+"Could we try something faster next time?"
+
+"Of course."
+
+"I know a couple of steps that would work."
+
+"From sword drills?"
+
+"Maybe."
+
+Silena laughed. Her sister liked learning things when she could see how they connected to skills she already had. There was no reason to insist dance become a completely separate world.
+
+They sat down beside Thalia. Clarisse looked warm and a little out of breath. She opened her mouth as though expecting a joke about being sentimental.
+
+Thalia surprised her.
+
+"That looked fun."
+
+"It was fine," Clarisse said.
+
+"Good."
+
+Silena handed her sister a cup of water, then looked toward the center of the circle where Percy and Annabeth were still trying to find their rhythm. Her younger brother had taken a risk she would never have thought of as dangerous: asking a girl who already loved him to share a dance in front of people who might tease him.
+
+Clarisse had done something similar. She had let herself be clumsy at an activity she didn't control. Neither needed to be declared brave for trying it. It was enough to enjoy it.
+
+Silena leaned back against the stone step. The song ended and the musicians began tuning for the next one. She had wanted to share the evening with her family. Now she had, without anyone needing to make a speech about what the dance meant.
+
+---
+
 Percy had lost track of the song.
 
 He did not know if they were still on the same one or if it had changed into another one without him noticing. Time felt bendy around the edges, the way it did underwater when light filtered down and everything slowed.
@@ -533,6 +1077,3 @@ Annabeth tilted her head up to look at him. Her gray eyes caught the firelight. 
 Percy smiled back. He squeezed her hand once, gently.
 
 They sat like that through three more songs, not dancing, just listening, hands linked, shoulders touching, while the stars came out one by one overhead and the music played on.
-
----
-

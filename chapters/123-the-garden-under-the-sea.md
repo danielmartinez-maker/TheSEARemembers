@@ -22,7 +22,7 @@ Silena laughed, warm and breathy in the cool air, and tucked a wind-loose curl b
 
 “Let’s aim for the first.”
 
-At the lake’s edge, where it opened toward the sea, the four of them gathered. Chiron had walked them down from camp and waited on the path, leaving the visit to them. This was a short garden visit before the longer palace stay they were planning. No court or procession awaited in Atlantis: Amphitrite and Triton would meet them at a sheltered reef garden beyond the city’s outer terraces, screened from the stronger currents and usually quiet except for fish and the soft knock of water on coral.
+At the shoreline of Long Island Sound, the four of them gathered. Chiron had walked them down from camp and waited on the path, leaving the visit to them. This was a short garden visit before the longer palace stay they were planning. No court or procession awaited in Atlantis: Amphitrite and Triton would meet them at a sheltered reef garden beyond the city’s outer terraces, screened from the stronger currents and usually quiet except for fish and the soft knock of water on coral.
 
 Percy had been trying to help all morning. He had explained the route twice, described the current that would carry them down, and answered Silena’s questions about the reef’s flowers. He had also carefully not said the word *home* too often. The invitation was small by design, but the place beneath the water still carried the weight of all the years he had lived there and all the years since.
 
@@ -44,7 +44,7 @@ He offered her his hand. “Want to hold on when we start down?”
 
 “Good.”
 
-The water at the lake’s edge darkened, not with shadow but with depth. A smooth current began to turn beneath the surface. It circled their ankles, cool and gentle, then climbed around their legs as if the sea were remembering how to welcome people. The tug answered the water in his blood. A path opened where there had been none, the lake’s surface lowering into a clear blue corridor that ran toward the open water.
+The water just beyond the shore darkened, not with shadow but with depth. A smooth current began to turn beneath the surface. It circled their ankles, cool and gentle, then climbed around their legs as if the sea were remembering how to welcome people. The tug answered the water in his blood. A path opened where there had been none, the Sound’s surface bending into a clear blue corridor that led out to deeper water.
 
 Chiron watched from the shore. “I will be here when you return.”
 
@@ -60,7 +60,7 @@ Clarisse glanced back at him. “If we’re late, don’t send a search party.�
 
 Silena stepped into the current first. It rose to her waist and held her without effort, gathering over her shoulders in a clear sheath. Her red hair lifted in slow ribbons.
 
-“It’s like the lake is putting on a dress,” she said.
+“It’s like the water is putting on a dress,” she said.
 
 “It’s a current-shell,” Percy said. “It keeps the water from pulling at your clothes.”
 
@@ -90,7 +90,7 @@ Clarisse’s expression did not soften, but something in it shifted. “I’ll t
 
 “That seems fair,” Clarisse agreed.
 
-The current rose around them. Percy kept Annabeth’s hand in his and let the water lift the four of them from the shore. The first few feet were familiar, the lake giving way to the saltier flow of the sea. Then the surface closed overhead.
+The current rose around them. Percy kept Annabeth’s hand in his and let the water lift the four of them from the shore. The first few feet followed the shallow coastline before the cooler, deeper sea took hold. Then the surface closed overhead.
 
 The world did not go dark. It changed its mind about light.
 
@@ -200,7 +200,7 @@ She squeezed his hand. Her charm made a green circle at her throat. Curious and 
 
 At the far end of the garden, Triton and Amphitrite waited beside an arch of white coral, without guards or heralds. Triton wore a dark blue cloak; Amphitrite’s robe flowed around her like a current.
 
-Recognition tugged at Percy: blue stone halls from his visits, Amphitrite calling him back from the outer pools, Triton correcting his swimming and pretending not to be impressed when Percy beat him to a pillar. He knew these people now, even with the childhood they remembered still beyond his reach.
+Percy recognized their manner now: the way Amphitrite waited for the last guest to reach her, the way Triton stepped aside to give the others room. Their stories of blue stone halls, childhood swimming lessons and races to a pillar were still stories to him, not memories he could retrieve. But the affection between them was something he'd come to know since arriving at camp.
 
 Triton lifted a hand. “You made it without racing the current.”
 
@@ -522,103 +522,604 @@ Silena rested her hands in her lap. She seemed lighter, though not because her q
 
 ---
 
-The visit ended without a bell or summons. The current turned toward the upper water, and Amphitrite walked them back to the garden’s outer arch.
+The quiet was broken by a young attendant arriving from the eastern channel with a basket of pale coral fragments.
 
-“We can come back?” Silena asked.
+Amphitrite looked up before the girl spoke. "What happened?"
 
-“You can,” Amphitrite said. “There is no need to decide today.”
+"One of the anchoring lines came free in the current change, my lady. The nursery shelves are shifting. We have secured the outer end, but the seedlings will be buried if the next tide comes through."
 
-Clarisse’s hand moved to the coral at her wrist. “I’ll think about it.”
+The attendant stood perfectly still, as though the news needed to be delivered without a trace of alarm. Percy had heard that tone at camp when a counselor reported something going wrong in front of Chiron. Usually it meant someone had been trying to fix the problem before admitting there was one.
 
-“That is all anyone can ask.”
+"How long have you known?" Amphitrite asked.
 
-Percy hugged Amphitrite before he could turn the thought into a question. For a moment his body settled into the hug as if no years had passed, though his mind held only this afternoon, with his sisters nearby. When she let him go, she did not ask him to stay or say when he should return.
+"Since the morning turn."
 
-“I’m glad you brought them,” she said.
+"Then the shelves have been loose for hours."
 
-“Me too.”
+"Yes, my lady."
 
-She turned to Clarisse and Silena. “Thank you for sharing the afternoon with me.”
+Amphitrite set down the rose-colored token. She didn't scold the attendant. "Thank you for telling me. Ask the gardeners to close the inner path. We will look at it before the next shift."
 
-Silena hugged her. Clarisse hesitated, then leaned in and touched her shoulder to Amphitrite’s. It lasted only a moment, but she did not pull away as if she had made a mistake.
+Clarisse was on her feet. "Can I help?"
 
-“Thank you for the garden,” Clarisse said.
+"You don't know this garden's anchors."
 
-“You are welcome here.”
+"I know what a failed line looks like."
 
-Clarisse’s chin lifted. “I know.”
+Amphitrite studied her for a moment. "Then you may come with us to examine it. You will not touch anything until the gardener explains the structure."
 
-The words were less than a promise. They did not need to be more.
+"Fair."
 
-Annabeth said goodbye with a smile and thanked Amphitrite for the charm. “It worked exactly as described.”
+Silena put the coral token on the stone. "I know how to tie a line that won't cut into a soft branch. Is that useful?"
 
-“I am glad. Keep it as long as it is useful; it is yours now.”
+"It may be. Come and see."
 
-Annabeth looked at Percy. “You hear that? A magical object with a clear ownership policy.”
+Annabeth had already taken out her notebook. Thalia caught her arm before she followed.
 
-“A miracle.”
+"Ask first," she said under her breath.
 
-“No, a good host.”
+Annabeth turned. It was a mild reminder, not an order, and she treated it that way.
 
-“Maybe both.”
+"May I sketch the anchoring layout?" she asked Amphitrite. "I won't record private areas you don't want mapped."
 
-Triton clasped Percy’s shoulder. “Next time, perhaps the eastern channel.”
+"Yes. The nursery is no secret, but the young coral is fragile. We should stay on the marked path."
 
-“We’ll check its boundaries first,” Annabeth said.
+They went through an arch hung with kelp ribbons and entered a lower terrace where the current moved more quickly. Rows of small branching corals sat on shallow shelves fixed into the stone. A cord stretched from each shelf to a broad iron ring, keeping the planting surfaces from tipping when the flow changed. The eastern cord had frayed where it rubbed against a sharp edge. With one side unsupported, the shelves had begun to lean toward the sand.
 
-“Of course.” Silena waved goodbye to the small blue fish that had followed them to the garden’s edge.
+Percy could feel the current pressing them. His instinct was to flatten the water and lift the shelf with a thought, as easily as bringing a cup to his hand. He held back. Amphitrite had made the rules of the garden clear. Even his control might create a sharp shift in pressure the young corals couldn't tolerate.
 
-The current lifted them from the shelf. Percy looked back once: Amphitrite and Triton stood beneath the coral arch, family saying goodbye after an afternoon together.
+A gardener arrived carrying a narrow basket of tools. Her hands were dark with sediment, and she wore a belt threaded with small bone hooks.
 
-The path upward was easier, the water thinning to pale gold around them. Clarisse stayed near Percy without holding his arm; her coral token tapped at her wrist, a small hard rhythm. Silena looked back until the reef’s colors dissolved into blue. Annabeth’s hand remained in Percy’s, steady and warm despite the cold.
+"We need to move the weight off the damaged line," she said, "then replace it without pulling the shelf through the seedlings. If it swings at all, we lose the nearest row."
 
-At the surface, the lake opened around them. Sunlight lay across it in bright, ordinary pieces. Chiron waited on the bank, exactly where he had promised to be.
+"Can I keep the water steady?" Percy asked.
 
-Clarisse stepped onto the grass and took a long breath, grass and pine sharp in her nose. “The air feels thin as paper up here.”
+"Only within the outer channel," the gardener said. "The nursery needs the flow. Don't stop it completely."
 
-“It’s the same air,” Percy said.
+He nodded. The distinction mattered. Still water might make the repair easier for him while starving the small organisms whose lives depended on a moving current.
 
-“I was underwater for half an hour. I saw a fish steal a buckle.”
+Clarisse took the gardener's spare line and examined the knot. "This one's tied like it was meant for a boat."
 
-Silena laughed and sat in the grass. Annabeth took off the charm; its green light had faded, though the glass held a thread of brightness. Percy sat beside her, their shoulders touching.
+"It was."
 
-“How was it?” he asked.
+"Then it works under tension, but the cut end needs protecting. You should wrap the ring."
 
-“Beautiful,” Annabeth said. “And not yours alone.”
+Silena looked at the frayed cord. "A soft sleeve would help. Something between the rope and the edge."
 
-He looked at her. “What do you mean?”
+The gardener considered them. "We have strips of woven kelp in the tool box."
 
-“You showed it to us. That doesn’t mean it stopped being your home. It means you let us see inside it.”
+"They're strong when wet," Silena said. "I can make one into a sleeve."
 
-Percy looked toward the water, where the current had already returned to its ordinary course. Clarisse turned the coral token on her wrist. Silena opened her notebook to draw the garden before its colors blurred in memory. Annabeth had chosen to see this place from his earliest years, and Amphitrite had welcomed them without asking them to become anyone else.
+She didn't reach for the materials until the gardener offered them. Percy noticed. He'd seen Silena take over a dozen repairs at camp because she was the person most likely to finish them. Here she asked what was needed and waited for an answer.
 
-His families had not become one family in an afternoon. They did not need to. A place had been made for each to see the others; a current joined two homes without making him leave one behind.
+Annabeth crouched beside a stone marker and drew the shelves from above. "The second ring is closer to the incoming flow than the first. Does that make its line take more strain?"
 
-Clarisse glanced at the coral. “It doesn’t mean anything.”
+"Yes," the gardener replied. "The old arrangement was built when the channel was narrower. We have been meaning to move that ring."
 
-Silena leaned against her shoulder. “Of course not.”
+"Could the new line go around the outer post instead?" Annabeth asked.
 
-“It’s only coral.”
+"That post is carved into a living reef. We mustn't use it."
 
-“And you like it.”
+She crossed out the suggestion. She didn't argue. The map would reflect what could actually be done, not simply what made the geometry look tidy.
 
-“I do.”
+They divided the work carefully. The gardener directed the repair. Clarisse held the shelf against the frame with both hands, bracing her feet on the solid path. Silena threaded the woven kelp around the exposed ring. Percy shaped a narrow current around the outside so the shelf could be lifted an inch without the full force of the incoming water pushing against it. Thalia stayed a little farther back with Annabeth, watching the edges of the work area and warning two curious fish away with gentle movements of her hands.
 
-Clarisse’s fingers rested on the token. “She didn’t make me call her anything.”
+"Do not use lightning," Annabeth told her.
 
-“No,” Percy said. “She didn’t.”
+"I had absolutely no intention of electrifying a coral nursery."
 
-“Good.”
+"Your hair is standing up."
 
-Silena opened her notebook. “I’m drawing the garden. I’ll leave space for the rose coral.”
+"My hair does that when I am offended."
 
-“For next time?” Percy asked.
+Clarisse grunted. "Can we argue about hair after I put this down?"
 
-“Maybe.”
+"Yes," Thalia said.
 
-Annabeth set the charm in his palm, then took it back and tucked it beneath her shirt. Her hand found his again.
+The damaged line loosened suddenly. For a second the shelf tilted in Clarisse's grip. Percy felt the water he was holding slide toward the gap and steadied it without increasing the pressure. Clarisse shifted her weight and caught the frame against her forearm.
 
-Beyond the camp, the sea kept its secrets. Beneath the surface, the garden kept growing. And on the shore, with his sisters on one side and Annabeth at his shoulder, the distance between his two homes changed shape for Percy. Not gone. Not conquered. Simply crossed, one small visit at a time.
+"Got it," she said. Her voice was strained but controlled.
+
+"Hold there," the gardener instructed. "Silena, pass the new line behind the iron ring. Not over it."
+
+Silena obeyed. The woven sleeve stayed in place as the cord was drawn through. The gardener made the final knot and tested it with a sharp tug. Only then did she tell Clarisse to let go.
+
+The shelf settled level. The young coral remained where it had been planted.
+
+For a few moments nobody said anything. Percy could hear the faint ticking sounds of the nursery as its branches moved with the current. The gardener inspected the nearest row, touched one loose planting gently back into place, and stood.
+
+"We'll watch it through the next tide," she said. "That is a repair, not a guarantee."
+
+Clarisse rubbed her forearm. "I like that answer."
+
+"Most visitors prefer guarantees."
+
+"Then most visitors haven't repaired anything."
+
+Amphitrite looked around the group. The current moved through their hair and clothing, carrying away the last suspended grains of sand.
+
+"Thank you," she said. "I invited you to see the garden, not to be pressed into its work."
+
+"You didn't press us," Silena said. "We offered."
+
+"And the gardener still decided what we could do," Annabeth added.
+
+The gardener nodded. "Which is why the shelf is still there."
+
+They walked back along the marked path. Percy remained beside Clarisse, who was flexing her hand discreetly.
+
+"Is your arm all right?" he asked.
+
+"Yes. It just got tired."
+
+"You could have told me to take over."
+
+"The shelf didn't need another person jumping in. It needed me to hold still."
+
+He smiled. "You sound like Chiron."
+
+"Insult me again and I'll teach you what the word *hold* means."
+
+Silena caught up with them. A length of unused kelp weave hung from one finger.
+
+"The gardener gave me this," she said. "She thinks I could use the pattern to make a better strap for my sewing bag."
+
+"You'll have to ask how long it lasts out of water," Annabeth said.
+
+"I did. It dries stiff, but it can be rewetted."
+
+"And you can't take living coral home," Percy said.
+
+"I am aware," Silena replied. "I took a strip that was cut already, not an entire reef."
+
+Amphitrite slowed at the top of the terrace. "Would you like to see the old records for the garden? They contain the plans made before the channel shifted."
+
+Annabeth's eyes lit. "Yes. If the gardener is willing."
+
+"She is the one who suggested it."
+
+They spent part of the afternoon in a small workroom built into the stone above the nursery. Scrolls with pressed seaweed samples lay beside etched plates showing the channels as they had been at different times. Annabeth compared the shapes with her own sketch, making notes about the water's route and the way the structures had been changed as the living reef grew.
+
+Clarisse sat near the doorway and watched the gardener demonstrate how to test a line without loading it with the full weight of a shelf. Silena asked about the different textures of kelp fiber. Thalia inspected the safety markers, not because she distrusted the gardeners but because she wanted to know how a person unfamiliar with the place would recognize a closed path.
+
+Percy ended up with Amphitrite at the window overlooking the repaired terrace. He had thought she would be distressed by damage in a place she loved. She was concerned, certainly, but she didn't act surprised that a living garden required maintenance.
+
+"You couldn't have prevented that line from failing forever," she told him.
+
+"I might have noticed sooner."
+
+"Perhaps. Or you might have been somewhere else, as you were this morning. The garden survived because the people who care for it knew what to do."
+
+"I keep thinking I should be able to fix things when they happen around me."
+
+Amphitrite watched the gardeners test the new knot. "That feeling may never disappear entirely. It doesn't have to decide how you behave."
+
+He looked at her. She was not speaking as a god giving a command. She seemed to be considering the problem as carefully as he was.
+
+"Did you worry about me like that?" he asked. "When I was little here?"
+
+"Yes."
+
+"Even when you knew the water wouldn't hurt me?"
+
+"The water was not the only thing that could." She placed her palm on the stone ledge. "I knew you were safe in some places and vulnerable in others. I made arrangements. Sometimes I wanted to make every arrangement myself."
+
+"What stopped you?"
+
+"Triton, on occasion. He was very young when he first told me I had to let you fall off a training float."
+
+Percy laughed, then grew quiet. It was a story about a childhood he couldn't remember. He knew she understood that, but he still had to make himself listen as though he were learning about someone he had never met.
+
+"Did I fall?" he asked.
+
+"You did. You were furious. You stood up and tried again."
+
+"Sounds like me."
+
+"It does." Her smile was small. "But I tell you because you asked, not because you ought to remember it."
+
+He nodded. That made a difference.
+
+When the others emerged from the records room, they carried copies of nothing. Annabeth had written down what the gardeners permitted her to use, not drawn the protected nursery's exact location. Silena had a sample of finished kelp cord. Clarisse knew a new knot and had a tired arm she would eventually admit needed rest. Thalia had identified the exit signs and the staffed routes.
+
+The visit had become something different from a tour. They had discovered how the garden worked, who maintained it, and what its beauty cost in ordinary attention. Percy liked that none of those discoveries required the place to turn into another version of camp. Atlantis could stay itself, and his sisters could remain themselves, while they learned enough to return someday without being helpless guests.
+
+When they returned to the sheltered pool, a guard stood beside the archway speaking with one of the household stewards. The guard had a narrow scroll case under his arm. He bowed when he saw Amphitrite.
+
+"My lady. The visitors' entry record needs an update."
+
+Amphitrite looked from the case to the people standing around her. "What sort of update?"
+
+"The public household ledger lists Perseus as your son. The visiting sisters arrived under his invitation, and the registrar has entered them under the same relationship. I wished to check the names before the seal was set."
+
+Percy felt the mood change before anyone spoke. Clarisse's hand went to the coral token at her wrist. Silena stood very still. They had agreed that these visits wouldn't require his sisters to accept a mother who wasn't theirs. In the course of a few hours, an official record had quietly assigned them that relationship anyway.
+
+"Show me," Amphitrite said.
+
+The steward opened the case and withdrew a narrow sheet of blue-gray paper. The writing was neat. Percy could see his own name near the top, followed by Clarisse and Silena under a heading that translated loosely to *children of the queen's household*.
+
+"We assumed the status matched," the steward said. "They are all children of Poseidon."
+
+"That is not sufficient," Amphitrite replied.
+
+The steward looked surprised. He was not being malicious. That made the error more difficult in some ways. It wasn't an insult he could be ordered to withdraw. It was an assumption embedded in the way the palace kept its records.
+
+"May I say something?" Clarisse asked.
+
+"You may," Amphitrite said.
+
+Clarisse took the paper. She read the names without moving her lips, then pointed to the heading.
+
+"My mother isn't Amphitrite," she said. "I don't want that written down as if it were true."
+
+"Of course," the steward answered. "I meant the household of the queen, not biological descent."
+
+"Then write *guests*. I can belong to my father's family without becoming somebody else's child."
+
+Silena nodded. "And we were invited. We didn't come to enroll in a household."
+
+The steward turned toward Amphitrite again, seeking an answer from the person whose authority he understood. Amphitrite shook her head.
+
+"You have your answer," she said. "Ask the guests themselves what relationship they want recorded."
+
+He returned to the scroll and crossed out the heading. Under Clarisse and Silena he wrote *invited kin of Poseidon, guests of the queen*. He read it aloud, then waited. Clarisse frowned at *kin* but ultimately agreed it stated what she meant. Silena asked that her own name be written in full rather than shortened to match a palace custom. The steward corrected that too.
+
+"And Annabeth?" he asked.
+
+Annabeth lifted her head. "Guest. Daughter of Zeus. I am here with Percy, but don't classify me as belonging to this household."
+
+Thalia gave her a small approving nod. "Same for me. Guest and sister to Annabeth."
+
+"Of course."
+
+Percy waited for the steward to reach his name. The boy had been labeled as a son of Amphitrite for years he didn't remember living. Unlike his sisters, he wasn't certain he wanted to change that. He also didn't want silence to make the choice for him.
+
+"What does my entry mean?" he asked.
+
+The steward looked at him. "It grants you family access to the outer garden and the receiving halls, my prince. You already possess that access."
+
+"What about the word *son*?"
+
+"That is how your name has been recorded since childhood."
+
+Amphitrite didn't intervene. Percy appreciated it, though the pause was uncomfortable.
+
+"I think you can leave mine," he said finally. "But I want a note that I chose it now. I can't confirm the history. I didn't make those records when I was little."
+
+The steward looked baffled. Amphitrite's expression softened.
+
+"Add the note," she said. "The choice belongs to the person who must live with the name."
+
+The registrar wrote carefully. Percy watched the ink dry. The correction was modest, a handful of words in a book few people might ever examine. Yet he felt relieved in a way he hadn't expected. The palace was capable of making an error, and the error could be corrected by the people it affected.
+
+When the steward left, Clarisse sat on a low wall beside the pool. She turned the coral token around her wrist with her thumb.
+
+"I didn't mean to insult her," she said.
+
+Amphitrite sat beside her, not too close. "You didn't."
+
+"I know she's been good to Percy."
+
+"I intend to be good to all of you. That doesn't give me the right to tell a false story about your mothers."
+
+Silena took the place on Clarisse's other side. She was looking at the point where the steward had gone through the archway.
+
+"At camp, someone would have assumed you were our mother too," she said.
+
+"Then you may correct them at camp as well."
+
+"Even if Percy doesn't want us to?"
+
+Percy came nearer. "Why would I not want that?"
+
+"Because sometimes when you talk about this place," Silena said, "you sound so grateful to have another home that I'm afraid telling the truth about mine will make you feel as if I'm rejecting yours."
+
+He opened his mouth and shut it again. Silena wasn't accusing him of anything he'd done. She was describing a worry he'd never thought to ask about.
+
+"I want you here," he said. "I don't need you to call it home."
+
+"Good," Clarisse said. "Because I haven't decided whether I like the palace enough to sleep in it."
+
+Amphitrite laughed, a small startled sound. "Then don't sleep here today."
+
+Percy was glad she hadn't said *yet*.
 
 ---
 
+The route back to the surface required more preparation than the route down. Their escort was waiting outside the coral garden with three small pieces of shell that held air and warmth around the human visitors. Triton had explained the charms that morning, but Annabeth wanted to test one before anyone relied on it for the trip home.
+
+The escort, a guard named Nerion, held out a charm. "Put it against your throat. It will keep the passage comfortable until we reach the shallower water."
+
+"How will we know when it is running out?" Annabeth asked.
+
+"It won't run out over this distance."
+
+"That's not the question."
+
+Nerion looked toward Triton, but Percy shook his head.
+
+"She asks because she wants to know," Percy said. "Answer her, not me."
+
+The guard examined the charm. "It grows warm. The surface pattern fades as the protection weakens. You would have more than enough time to tell us."
+
+"Has it ever failed?"
+
+"Not on my watch."
+
+"Has it failed on someone else's?"
+
+Triton took a slow breath. "Yes. Once, many years ago, when an untrained visitor took a charm beyond the approved passage. That is why we use escorts and a fixed route."
+
+Annabeth nodded. "Then can we agree not to go beyond the approved passage today?"
+
+"Of course," Nerion said.
+
+Thalia was already studying the shell against her palm. "If the light fades, we stop and ask for help. We don't try to outrun the problem."
+
+"Correct."
+
+Silena looked at her sister. "Do you want to test yours?"
+
+Clarisse shrugged. "Why not?"
+
+They took turns standing in a shallow side channel where the charm's outer glow could be seen against dark stone. The shells warmed gently when the water passed over them. Percy could feel the enchantment pressing back against the colder current, but he couldn't tell precisely how long it would last. He admitted that when Annabeth asked.
+
+"I know how the water moves," he said. "I don't know how someone made the charm. I shouldn't pretend I do."
+
+A narrow school of silver fish passed above them, scattering when Nerion opened the gate to the main channel. He checked the handrail and pointed out the marked route beyond the coral arch.
+
+The guard's patience pleased Percy. It would have been easy to call the questions insulting and insist the visitors trust a magical object they hadn't made. Instead Nerion answered each one, then asked whether everyone was comfortable proceeding.
+
+Annabeth said yes. Thalia asked that they keep a slower pace in the darkest passage. Clarisse wanted to know who would be at the rear. Silena checked that the route did not pass over the delicate nursery they had helped repair. Triton confirmed each request.
+
+Percy had never thought of leaving a place as a test of its welcome, but it felt that way now. Hospitality meant more than opening a gate for the arrival. It meant recognizing when someone wanted to return to their own life.
+
+They followed Nerion along the inner channel until the water widened beyond the reef. Light came down from the surface in wavering sheets. For the first part of the passage, Percy swam beside Clarisse. She was stronger in the current than the palace attendants had expected, taking the turn with a sure movement of her hips and maintaining her position without crowding the person ahead.
+
+"You look pleased with yourself," he told her.
+
+"I haven't tripped over a ceremonial cloak."
+
+"Low bar."
+
+"I'm learning that low bars are very fashionable in royal life."
+
+He laughed. Then they passed a shelf where the water cooled suddenly, and he felt the charm at Silena's throat flicker.
+
+He turned. "Silena?"
+
+She stopped, touching the shell. Its surface had gone faint around one edge.
+
+"Warm," she said. "Warmer than before."
+
+Nerion raised his hand to halt the group. Triton swam back from the lead. The guard examined the shell without pulling it away from her neck.
+
+"The pattern has shifted," he said. "It may have met a different current here."
+
+"Does she need a new one?" Percy asked.
+
+"We'll exchange it before continuing."
+
+A spare shell came from the guard's pouch. Silena held the original in one hand and accepted the replacement against her throat. The warmth stabilized immediately. Nerion marked the failing charm with a scratch on its edge so that no other visitor could take it by mistake.
+
+"Can we continue?" he asked her.
+
+Silena looked toward the surface. "Yes. But I want to know what happened afterward."
+
+"You may receive the record," Triton said.
+
+"I don't need the record because I'm angry. I need it because if the same thing happens again, I want us to know whether it's normal or not."
+
+"Understood."
+
+They resumed at the agreed slower pace. Percy stayed near Silena but didn't hold her arm. She had asked to continue, and he wanted her to be able to do that without feeling as though everyone had decided she was fragile.
+
+Near the upper arch, Thalia caught his eye and pointed toward Annabeth. Her younger sister had fallen behind because she was studying the shape of the opening. Rather than grab her, Thalia stopped and asked whether she needed another minute. Annabeth did, and the guard waited with them.
+
+They surfaced just beyond the rocky shore where Chiron had arranged to meet them. The breeze struck their faces with the smell of pine and wet sand. Birds sounded abruptly loud after the sea's muffled voices. Percy could hear the distant shout of campers at the canoe lake, well inland, as the afternoon carried on without any knowledge that one of its families had been below the water.
+
+Chiron listened to Nerion's report, taking particular note of the charm that had grown warm.
+
+"Will there be a follow-up?" he asked.
+
+"I'll send the inspection findings," Triton said. "And I will have new shells checked before the next visit."
+
+"Good."
+
+Clarisse moved beside Silena. "You handled that well."
+
+"By saying I was uncomfortable?"
+
+"By saying what you needed before I guessed for you."
+
+Silena smiled. "Practice."
+
+Percy looked back toward the water. Amphitrite had remained at the garden rather than accompanying them to the surface, which was sensible given her responsibilities. He felt the loss of her presence more sharply now that the visit was ending, but it was an ordinary sadness. She had not promised to stay at camp, and nobody had required him to stay underwater.
+
+---
+
+At the Big House they wrote down the trip while the details were still clear.
+
+Annabeth spread her sketchbook across a table. Chiron had offered them tea and a place where the ink wouldn't blow off the pages. Clarisse drew a rough version of the nursery shelf and the failed line. Silena sketched the woven sleeve she had made, adding the types of knots the gardener had approved. Thalia wrote the route from the garden to the surface, including the guarded points and the place where the shell had changed temperature.
+
+Percy had the simplest assignment: list the people who had helped them.
+
+"Why people?" he asked.
+
+"Because we might want to thank them," Chiron said. "And because a plan without the people who know how to carry it out is an incomplete plan."
+
+He wrote the names as best he knew them. Nerion, who had led the return escort. The gardener, whose name was Euryale and who had explained why the shelf couldn't be raised by stopping the water entirely. The attendant who had reported the broken line despite being frightened. The steward who had changed the guest ledger. He asked Triton for the names he didn't know.
+
+"You're treating the garden as a worksite," his brother said.
+
+"It was one for part of the day."
+
+"And it was beautiful."
+
+"That too."
+
+Silena placed her bit of woven kelp on the table. Out of the water it had already begun to stiffen. She examined the fibers, then tried to fold it and found she couldn't make the same smooth curve she'd made underwater.
+
+"Now I know why the gardener said to soak it before using it again," she said. "I'll want a real sample before I sew anything at camp."
+
+"You might be able to use flax instead," Annabeth suggested.
+
+"Maybe. But I want to test both."
+
+Clarisse looked at the way the kelp had dried. "Don't put that around a handle until you know whether it snaps."
+
+"I won't."
+
+Thalia took out the shell guest card they'd carried. She added a note in the margin about the replacement charm and underlined the place where they'd stopped. Not as a complaint, but because the halt had been a necessary part of the journey.
+
+"What are we telling the other campers?" Percy asked.
+
+"The truth," Chiron said.
+
+"The exciting truth?" Clarisse asked.
+
+"The part you can accurately explain."
+
+"Then the exciting truth," she said, grinning.
+
+Percy knew they would all tell different versions. He would remember the nursery's tiny movements and Amphitrite standing beside him as he admitted how much he wanted to fix things. Clarisse would remember the weight of the shelf and the moment she chose to hold steady rather than charge into action. Silena would remember the change in the kelp fibers and the comfort of being asked which relationship she wanted recorded. Annabeth would remember the map and the alternate route. Thalia would remember the question that let her younger sister choose whether to continue.
+
+None of those stories was the whole visit. That was what made it a visit rather than a lesson designed to prove a single point.
+
+After they finished the notes, the steward's corrected record arrived in a waterproof tube carried by a narrow current along the saltwater shore. Triton opened it and showed each guest their entry before putting it away. Clarisse's name was accurate. Silena's was written in full. Annabeth and Thalia were recorded as guests of the palace, with their own family identified correctly. Percy's old entry remained, now bearing a note of his present consent.
+
+Chiron examined the copies with care. "These are useful, but remember that the people are more than what a registrar calls them."
+
+"I know," Percy said.
+
+"I suspect you do."
+
+Before Triton left, he promised Silena an account of the charm's inspection and asked Annabeth whether she wanted a copy of the gardener's original diagram. She did, on condition that the protected nursery's location remained off the public camp map. He accepted the condition.
+
+"And what should I bring you?" he asked Clarisse.
+
+"A proper training spear next time," she said.
+
+"Made for your height?"
+
+"Made for a fight, not a display."
+
+Triton smiled. "I'll ask the armorer."
+
+"Ask me before choosing it."
+
+"Of course."
+
+Percy watched the water gather around his brother's ankles as he prepared to leave. It did not stand up or fling itself into a dramatic arch. It formed a modest corridor toward the sea. The prince had learned at camp that an entrance could make more work than it was worth, and Percy hoped the lesson would last.
+
+When the corridor closed, the afternoon seemed suddenly ordinary. Chiron gathered their notes for the camp file. Annabeth shut her notebook. Clarisse and Silena went to return borrowed equipment, laughing over how the court registrar would have reacted if Clarisse had insisted on being listed as a dangerous weapon instead of a guest.
+
+Percy lingered with Thalia by the edge of the path.
+
+"You all right?" she asked.
+
+"Yes."
+
+"Not just because you're meant to say yes?"
+
+He considered it. He was tired, and he missed someone he'd seen less than an hour ago. He was worried the next visit would be complicated. But he had his sisters beside him, and he knew they had each been allowed to leave the sea without pretending they had become different people.
+
+"Yes," he said again. "I'm glad we went."
+
+"So am I." Thalia nudged his shoulder. "Even if I spent half the visit watching Annabeth interrogate a guard about the failure modes of a shell."
+
+"That was one of the best parts."
+
+"For you, perhaps."
+
+"She asked questions we needed."
+
+"She did," Thalia admitted. "Sometimes I forget she gets to protect us back."
+
+Percy followed the others toward the cabins, carrying a copy of the route record and nothing from the living garden that hadn't been freely given. The water behind them kept moving. The next tide would test the repaired nursery line. The gardeners would decide what required more work, not a visiting boy who wanted the whole place to be perfect.
+
+At dinner, Clarisse put the coral token beside her plate rather than wear it on her wrist.
+
+Percy noticed because she had barely stopped touching the thing all afternoon. She saw him looking and pushed it an inch away.
+
+"Don't start."
+
+"I wasn't going to."
+
+"Your face was."
+
+"My face is a very unreliable witness."
+
+Silena sat down with the sample of kelp cord folded into a little envelope. She had labeled the envelope with the gardener's name and the date. Next to it lay the inspection note about the shell that had warmed in the return passage. She had already asked Chiron where he wanted to keep that record, and he'd said the camp file was fine as long as a copy went to the visitors.
+
+"Amphitrite didn't ask us to call her anything," she said suddenly.
+
+Clarisse looked up. "We settled that."
+
+"I know. I keep thinking about it."
+
+Percy waited. The dining pavilion was loud with campers coming in from chores. Near the far table, Grover was demonstrating a flute repair to an audience that had not requested one. Someone from Hermes cabin was claiming a plate had been stolen when the plate was directly beneath his elbow.
+
+"Did you want to call her something different?" Percy asked.
+
+"No. That's what I mean. I didn't want to. She let me decide, and then she corrected the written record when it was wrong. I don't usually expect adults with power to do that without turning it into a favor they can collect later."
+
+Clarisse reached for her token. "I don't expect it either."
+
+"You can be suspicious," Percy said. "You don't have to pretend she got everything right."
+
+"She didn't," Clarisse replied. "I think the whole palace assumes that because you're comfortable in water, we should be too."
+
+"You're comfortable in water."
+
+"With a spear and a route out. Not as a court guest with a title I didn't choose."
+
+Percy nodded. The distinction was important. He had been proud of the garden, proud of the way Amphitrite welcomed his family, and proud that Triton made the passage possible. But he was beginning to understand why none of that should be treated as an obligation to come back.
+
+Annabeth joined them with a plate of bread and sat close enough that her shoulder touched his. She had a little red mark beneath her collar where the new shell had pressed against her skin. Percy pointed to it.
+
+"Does that hurt?"
+
+"No. I already asked Will to check. It will fade."
+
+"Good."
+
+"Don't turn it into a rescue project."
+
+He looked offended. "I am very good at rescue projects."
+
+"That isn't always the problem."
+
+She handed him the bread before he could answer. Clarisse laughed so hard she nearly spilled her drink.
+
+Later, after the dishes had been carried to the basin and the youngest campers had gone to bed, Percy took the long path home with Silena and Clarisse. The canoe lake lay smooth to their right, separate from the saltwater Sound and the channels they'd followed earlier. He could feel the difference as surely as the change in temperature. The freshwater didn't know the coral garden's currents or the shape of Amphitrite's house. It held their canoes and docks and little disagreements, and that was enough.
+
+At the cabin Silena placed the kelp sample on her worktable, away from the window where it might dry too fast. Clarisse hung the coral token on her bedpost rather than tuck it away. Percy put his copy of the guest record under the photograph on his shelf.
+
+"Are we going again?" he asked.
+
+"When the gardener tells us whether her repair held," Silena said. "I'd like to know."
+
+Clarisse considered her token. "Maybe. But I'm choosing the day."
+
+"Agreed."
+
+"And I want a proper warning if the sea gets rough."
+
+"Agreed."
+
+"And no one is registering me as anyone's child without asking."
+
+Percy smiled. "Definitely agreed."
+
+Silena looked between them, amused and tired. "We have quite a lot of conditions for people who had a lovely afternoon."
+
+"Having a lovely afternoon doesn't make us stupid," Clarisse said.
+
+Percy thought about the repaired nursery, the rejected entry in the household ledger, and the failed charm that had prompted an orderly stop rather than a panic. None had destroyed the visit. They had made it something he could believe in.
+
+He turned down his blanket and found one grain of white sand caught in the fold, carried all the way from the shore. He brushed it into his palm and set it in the little jar by the window. Not a claim on the garden. Just proof of a day they'd all been willing to share, and a reminder that next time they'd have questions worth asking.
+
+
+
+---

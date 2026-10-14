@@ -88,6 +88,88 @@ Leaning against Thalia, Annabeth remembered another Thalia — older, distant, a
 
 ---
 
+Thalia tried to make breakfast feel ordinary by asking Annabeth to help fold the spare blankets before they went to the pavilion.
+
+Annabeth knew the tactic. When her sister was anxious about an event she couldn't control, she started arranging things that could be folded, polished or counted. The blankets had been folded the night before. Thalia still shook each one out and squared the corners as though they had developed imperfections while everyone slept.
+
+"Are you expecting him?" Annabeth asked.
+
+Thalia looked up. "Who?"
+
+"Our father."
+
+The question landed between them like a dropped tool. They had never developed a way to ask it without one of them wanting to make the answer easier for the other.
+
+"He didn't promise to come," Thalia said.
+
+"That isn't what I asked."
+
+"No. I don't know whether he'll come."
+
+Annabeth laid her blanket on the chair. It was tempting to pretend the answer was enough. The older sister had once done most of the worrying for both of them, and Annabeth had learned to let the silence protect her. Now she was fourteen. She wanted the choice of saying what she hoped for, even if it embarrassed her.
+
+"I would like him to remember," she said. "I don't need a ceremony. I don't need another lesson disguised as a present."
+
+Thalia's mouth moved. She looked toward the window, where pale sky lay quiet above the cabins.
+
+"He knows the date."
+
+"Then that's a beginning."
+
+"Knowing isn't always doing."
+
+"I know."
+
+Thalia sat on the edge of the bed. Her boots were still wet from the early watch, and Annabeth noticed she'd left the outer buckle undone. The woman who could stand in the training field and challenge three older campers at once sometimes forgot to take care of small things when she was trying to protect her sister from disappointment.
+
+"Did he come for your fourteenth?" Annabeth asked.
+
+"He sent a storm cloud that turned the barn silver," Thalia said dryly. "It lasted six hours. The horses hated it."
+
+"That sounds like him."
+
+"He meant it as something magnificent."
+
+"Did you like it?"
+
+"Not much. I liked when the stable hands helped clean up afterward."
+
+Annabeth laughed before she could stop herself. The story was ridiculous and sad, and there was no reason they couldn't find both things in it.
+
+"I can write him a note," Annabeth said.
+
+"On your birthday?"
+
+"Why not? I want to ask whether the instrument he sent last time was meant for drawing or for training. He's a god, not an excuse for unanswered technical questions."
+
+"He may not appreciate that."
+
+"He doesn't have to appreciate every question for me to ask it."
+
+Thalia looked at her for a long moment. Then she nodded once, not quite a blessing and not quite surrender.
+
+"Fair."
+
+Annabeth opened her desk drawer and found the folded note she'd been working on for Jason. It wasn't a birthday invitation. He had his own life at Camp Jupiter, and she didn't want him to think she expected him to cross the country whenever she wanted company. She'd written about the new garden plan, and about a set of old service corridors that might have been built before the cabins they knew.
+
+"Could we send him a message after breakfast?" she asked Thalia.
+
+"If the relay is open, yes."
+
+"I want him to know I'm fourteen."
+
+"He knows your birthday."
+
+"I know. I want to tell him anyway."
+
+That got a real smile from Thalia. They had so few chances to speak to their younger brother without turning the contact into a negotiation among adults and camps. Annabeth wanted to hear his voice. She wanted to tell him that she was older, although she understood perfectly well that an extra year didn't grant her authority over his decisions.
+
+They finished folding the blankets. Thalia tucked the ends of Annabeth's birthday ribbon under her collar, asked whether the knot was too tight, and loosened it when Annabeth said yes. That tiny correction felt more useful than another lecture about growing up.
+
+On the way to the pavilion they passed the climbing wall. A first-year Apollo camper called happy birthday from above a ledge. Annabeth shouted thanks and then laughed at herself for sounding embarrassed. By the time they reached the path below the cabins, she had decided she could enjoy the attention without treating it as proof that she had changed.
+
+Thalia walked beside her rather than half a step in front. Annabeth noticed. She didn't comment. They were still sisters, and the difference between being protected and being accompanied could be as small as the space between their shoulders.
+
 By the time Annabeth reached the pavilion, camp had already heard about the birthday. Silena, sixteen, who remembered everyone's birthday, seemed the likely source. Clarisse, fifteen, remembered too, though she would deny it if questioned.
 
 They waited at the Zeus table. Between the plates Silena had arranged wildflowers, their stems damp and fragrant, petals still beaded from the meadow; Clarisse guarded a covered dish with one hand, its warmth seeping through the cloth.
@@ -198,6 +280,130 @@ They ate, debating whether a compass ought to point toward the nearest place a p
 
 ---
 
+They found Chiron after breakfast, seated beside a shallow basin in the garden behind the Big House. He was helping two campers set up an Iris-message for a family member in New York, and he asked the Grace sisters to wait until the first call had finished.
+
+Annabeth sat on the steps with her letter folded in her lap. Thalia paced the length of the porch twice before Annabeth told her that walking wouldn't make the relay move faster.
+
+"I'm not trying to hurry it."
+
+"You're wearing a groove in the wood."
+
+"Then we can call it a design feature."
+
+Chiron smiled without looking up. When the other campers had finished, he checked the contact instructions from Camp Jupiter and asked whether Jason had agreed to a birthday call. Thalia showed him the note from their previous correspondence. Jason had said he would try to be available for a short conversation before his morning duties.
+
+"Then we'll attempt it," Chiron said. "But if he is unavailable, leave a message rather than trying the relay repeatedly."
+
+Annabeth nodded. She'd made the same rule for her own work: a person couldn't be forced into an appearance simply because she wanted them there.
+
+A drachma flashed through the rainbow. For a second the basin showed only colored mist. Then Jason's face came into focus, younger and sharper than Percy's, his blond hair flattened on one side as if he'd taken off a helmet too quickly.
+
+"Annabeth!" he said. "Happy birthday."
+
+"Thank you. Did we catch you at a bad time?"
+
+"I have ten minutes before drill inspection. I told them I'd be on a family call."
+
+Thalia leaned into view. "Ten minutes. What a generous man."
+
+"It's more than you gave me last time."
+
+"That was a surprise inspection."
+
+"Your inspection of my haircut."
+
+Annabeth laughed. The teasing had become its own language between them, assembled from visits and letters rather than from an uninterrupted childhood together. She had known him most vividly as the brother Thalia spoke about when she thought Annabeth was asleep. Hearing him argue back made the absence less abstract.
+
+"How's the camp?" Annabeth asked.
+
+"Hot. Busy. We're rebuilding part of the training platform. I wanted to ask you about the angle of the supports."
+
+"On my birthday?"
+
+"I can ask later."
+
+"No, I'm interested. Show me."
+
+Jason held a rough drawing up to the mist. Annabeth noticed he'd marked the load-bearing beams but not the exit path. She pointed out the omission. He scowled.
+
+"That's where the engineers want a ladder."
+
+"Then draw the ladder."
+
+"You're impossible."
+
+"I learned from Thalia."
+
+"Do not put that on me," Thalia said.
+
+The conversation turned to the changes Annabeth had made at camp, the garden she hoped to plant and the old corridor they'd begun to survey. Jason wanted to know if the passage connected to the lake. She told him it probably didn't and added that they weren't going inside without the maintenance crew.
+
+"Good," he said. "I'd hate to hear you discovered a secret door by falling through it."
+
+"Percy would catch me."
+
+"He'd jump after you and then you'd both be in trouble."
+
+Thalia coughed to hide a laugh. Annabeth made a face at the mist. It was an accurate assessment, which made it more annoying.
+
+When his time was nearly over, Jason said he had sent a small parcel through the approved relay. It wasn't guaranteed to arrive that day; he hadn't wanted the gift to depend on whether the messenger could travel during a storm. Annabeth told him that was fine. She would be glad to receive something from him whenever it came.
+
+"What is it?" she asked.
+
+"A surprise."
+
+"You're terrible at surprises."
+
+"Thalia says the same thing about you."
+
+"She would."
+
+Jason glanced off to the side. Somebody had called his name.
+
+"I have to go," he said.
+
+Annabeth felt disappointment, quick and unmistakable. She had been glad to hear him and wanted another ten minutes.
+
+"Then go," she said. "Don't get in trouble for us."
+
+"Happy birthday, Annie."
+
+"Thank you. Write when you can."
+
+"I will."
+
+The rainbow faded. Chiron covered the basin and returned the unused coin to Annabeth's hand. She tucked it into her pocket, trying not to let the abrupt end feel like a rejection.
+
+Thalia sat beside her on the steps. "That went well."
+
+"It was too short."
+
+"Yes."
+
+"He has a life there."
+
+"Yes."
+
+Annabeth looked at her sister. "I wanted him to be here anyway."
+
+"So did I."
+
+It was easier to admit the want with Thalia beside her. Neither would pretend Jason had done something wrong by returning to his responsibilities.
+
+They walked back toward the pavilion carrying Annabeth's unopened letter, now unnecessary in part but worth finishing anyway. She had more to tell him than ten minutes could hold: the shape of an old stone passage, the smell of newly turned earth, the peculiar sensation of being fourteen while remembering another fourteen from a different life. That last part belonged to her private thoughts, not to Jason's unanswered questions. She could write the ordinary parts truthfully and keep her own secret without making the correspondence false.
+
+As they reached the pavilion, Annabeth put a hand on Thalia's arm.
+
+"Thank you for helping with the call."
+
+"Of course."
+
+"No, I mean for letting it be my conversation."
+
+Thalia blinked. Then she smiled.
+
+"You're welcome."
+
 The gift from Zeus arrived at noon.
 
 Annabeth was in the pavilion with Thalia, helping Chiron rearrange benches for the party, wood scraping stone with each shift. A shadow crossed the grass, though summer blue stretched cloudless above camp. The air tightened with the sensation of a storm debating whether it had been invited, ozone faint on the breeze.
@@ -281,6 +487,185 @@ Returning the object to its case, she watched it shift once more, assume a small
 "Then we share something."
 
 ---
+
+After Zeus's gift arrived, Thalia asked Annabeth to come with her to the empty practice room behind Cabin One.
+
+"I don't want to hide it," Annabeth said, clutching the case.
+
+"I'm not asking you to."
+
+"Then why are we in here?"
+
+"Because everybody in the pavilion was watching your face, and I wanted to know what you actually thought."
+
+Annabeth set the box on the bench. The gift inside shifted between shapes when she touched it, silver flowing into a little bird, then a compass, then a folded piece of metal that suggested it might be a key. It was beautifully made. It was also from their father, who could send something tender in the morning and make the same daughter afraid to speak by evening.
+
+"I like it," Annabeth said.
+
+"You're allowed."
+
+"And I don't like that he didn't come."
+
+"You're allowed that too."
+
+Annabeth watched the metal return to a compass. "Does it have a purpose, or does it just change because it can?"
+
+Thalia sat beside her. "We could ask the forge cabin."
+
+"Would that be rude?"
+
+"Testing a gift before you rely on it? No."
+
+They went to the workshop together. Beckendorf examined the case without prying into the mechanism and asked where it had come from. Annabeth told him. He didn't make a grand comment about Zeus. He checked whether the object had a sharp edge in any of its forms, whether it became hot, and whether it changed when she wasn't touching it.
+
+"It's responding to you, mostly," he said. "But I can't tell you what the enchantment intends. I wouldn't use it as a compass on a journey until we verify it points the right way."
+
+Annabeth looked almost offended. "It seems accurate."
+
+"It seems accurate here, where we already know where north is."
+
+He put a plain magnetic compass beside the gift and turned both carefully. The silver object followed in two positions, then hesitated near the forge's iron tools. It turned in a different direction from the ordinary needle.
+
+"So it doesn't always point north," Annabeth said.
+
+"Not in this room. It may be pointing toward something else. If you can ask the person who made it, do. In the meantime, treat it as a beautiful object with an unknown function."
+
+That was not the answer Annabeth wanted, but she wrote it down. She had spent enough time with unreliable equipment to know that wanting a thing to work did not make it safe.
+
+Thalia watched her close the case. "Does knowing that spoil it?"
+
+"No. It makes me feel as though I can decide what it means to me without pretending I know what it does."
+
+They returned to Cabin One so Annabeth could put the gift on a shelf before the party. As she did, she noticed a smaller parcel near her pillow, wrapped in ordinary brown paper. Thalia had left it there before breakfast.
+
+"You weren't going to tell me about this?" Annabeth asked.
+
+"You'd have found it."
+
+Inside was a little leather pouch with separate pockets for pencils, compass and a rolled map. The stitching was uneven along one edge. Thalia had clearly made it herself, rather than asking Silena to do the work.
+
+"That's why you kept disappearing after dinner," Annabeth said.
+
+"I have many mysterious obligations."
+
+"You stabbed your finger sewing it."
+
+"Several times. It was a vicious opponent."
+
+Annabeth tried the pockets. The silver gift's case fitted in one of them if she chose to carry it. Her ordinary compass fitted in another. Neither had to replace the other.
+
+"I love it," she said.
+
+Thalia looked away, embarrassed in a way no sparring defeat had ever managed.
+
+"Good. It might last an entire year if you don't fill it with rocks."
+
+Annabeth put her arms around her older sister. Thalia hugged her back, hard enough to be awkward, then let her go before the moment became a performance.
+
+"Fourteen," Thalia said.
+
+"Yes."
+
+"I keep forgetting you aren't seven."
+
+"I have noticed."
+
+"I'm trying to do better."
+
+"You are."
+
+Thalia took her hand as they went toward the pavilion. They didn't pretend the gift from Zeus had been unkind or that his absence didn't hurt. Both were true in different ways. Annabeth carried a pouch Thalia had sewn and a silver mystery she didn't yet understand, and she knew which one would be useful when she needed to find her way home.
+
+
+---
+
+The last hour before the party belonged to people who had decided Annabeth should not have to work on her own birthday. Annabeth discovered this when she tried to move a bench and three people told her to sit down.
+
+"I'm capable of carrying a bench," she said.
+
+"We know," Silena replied. "You carried four yesterday."
+
+"Then why can't I help?"
+
+"Because we're doing it for you."
+
+Annabeth set down the bench. The statement was affectionate and irritating at once. She had spent much of her childhood being told that people were only trying to protect her. Sometimes they were. Sometimes the protection arrived in the form of a decision she hadn't been invited to make.
+
+"Could I choose what you do for me?" she asked.
+
+Silena blinked. Then her expression softened. "Of course. What do you need?"
+
+Annabeth looked around the pavilion. The tables had been arranged in a tight square, leaving a narrow space at the center for the birthday cake. It was beautiful, but crowded. A camper trying to leave early would have to squeeze past someone else, and the youngest guests could barely see over the chairs.
+
+"Move two benches to the side," she said. "Make room for people to come and go. And please don't make everyone stand up when I walk in."
+
+"Somebody planned that?" Percy asked from the doorway.
+
+Clarisse looked away.
+
+"You were going to make an entrance?" Annabeth asked her.
+
+"I was going to tell everybody to be quiet for a minute."
+
+"That sounds like an entrance."
+
+"Then I'll skip it."
+
+They rearranged the benches together. Annabeth showed the younger campers where to put the smaller stools. Silena checked that the cake table would still be visible. Nobody accused Annabeth of spoiling the surprise. In fact the work went faster once people stopped trying to hide the plan from the person it was meant to please.
+
+A boy from Hephaestus cabin was testing the lantern cord when Annabeth noticed the line sagging. She asked him to lower it before the cloth banners were hung. He inspected the anchor and agreed that the knot would need another turn.
+
+"I didn't ask you to help with the lights," Silena said.
+
+"Then consider it a birthday gift to myself. I like not setting the pavilion on fire."
+
+"You and your unreasonable standards."
+
+They laughed, but Annabeth knew the difference mattered. A celebration was not ruined by attention to what could go wrong. It was protected by it.
+
+As the tables shifted, she thought about the silver device from Zeus, now safely tucked in its case in Cabin One. She could be pleased to have received something beautiful without letting it define her birthday. She could feel hurt that he had not come and still laugh at Percy's terrible joke about his own childhood compass. She did not need everyone around her to select a single feeling for her.
+
+Percy came alongside carrying a stack of plates. "You good?"
+
+"Yes. A little tired of being told to sit down."
+
+"Want me to tell everyone you're in charge?"
+
+"No. That's the point."
+
+He grinned. "I can tell them you're in charge of not being in charge."
+
+"You're impossible."
+
+"I've had excellent teachers."
+
+She took half the plates from him. The stack was warm from washing, and the edges clicked against her fingers. They set them around the tables together. Percy didn't insist on carrying everything, and Annabeth didn't turn the task into a competition. They had a way of working side by side that felt older than fourteen, learned in another life and made gentler by this one.
+
+Thalia appeared with a length of blue ribbon and asked whether Annabeth wanted it across the entrance. Annabeth studied the door and shook her head.
+
+"Put it around the cake instead."
+
+"That will be less dramatic."
+
+"Excellent."
+
+Thalia tied the ribbon to the cake stand. When she finished, she gave Annabeth a small smile. It was the expression of an older sister who had accepted a correction without making it a loss.
+
+Near the back of the pavilion Chiron was checking the route from the entrance to the table. He had seen the changes and approved them. He asked whether the guest of honor had any final instructions.
+
+"Yes," Annabeth said. "If someone needs to leave early, don't call attention to it. I don't want anybody thinking they have to stay because it's my birthday."
+
+"Then I will tell the counselors."
+
+"And if somebody spills cake on the sketches, I reserve the right to be annoyed."
+
+"Reasonable," Chiron said.
+
+Percy leaned close. "What if I spill cake on you?"
+
+"Then we'll see how good you are at swimming away."
+
+The plans were ready. Annabeth stepped outside for a minute, letting the fresh air cool her face. The party would not make her thirteen again or turn her instantly into someone wiser. It would be one evening with people she loved, some of whom had come from very different parts of her life. That was enough.
 
 Without any plan Annabeth could diagram, the party assembled. Campers hauled lanterns and plates into the pavilion, glass chiming and sandals slapping stone. Grover bore a lopsided cake while two satyrs strung lights across the rafters, pine resin and hot sugar threading the air. Nico received charge of the candles.
 
@@ -393,6 +778,126 @@ She leaned into Thalia, and this time her sister's arm encircled her, jacket sme
 The old photograph hung on the cabin wall. She could place a copy in the new book, draw the laundromat floor as an ocean, sketch the Athena cabin or the one they occupied now. The pages demanded no choice.
 
 ---
+
+The party almost turned into a demonstration when someone asked whether Zeus's birthday gift could become a real weapon.
+
+Annabeth had been sitting beside Silena, trying the first slice of cake, when a boy from the Hermes cabin spotted the case tucked under her chair. He'd heard the story from a camper who had seen the silver parcel arrive at noon.
+
+"Show us the bird," he said. "Then the sword."
+
+"I put it away," Annabeth answered.
+
+"But it's your birthday. You can do whatever you want."
+
+"Exactly," she said. "I want to eat my cake."
+
+He looked disappointed. A few older campers leaned in, curious. Annabeth felt the familiar pressure of people waiting for her father's gift to become the most interesting thing about her. If she opened the case, they would want to see every shape it could take. Then they would ask what Zeus had meant by each one, as if she were an interpreter for a god who rarely bothered to interpret himself.
+
+Percy noticed the little crowd. He didn't stand up and tell everyone to leave her alone. He sat beside her, took a piece of cake from the plate and asked whether she had tried the blue icing yet.
+
+"It's too sweet," she said.
+
+"That sounds like a challenge."
+
+"It's a warning."
+
+He tried a bite. She watched his face change as the sugar hit.
+
+"Gods," he said. "Ella could use this as a weapon."
+
+The younger campers laughed. The attention shifted toward the cake. The Hermes boy asked whether there were more pieces, and Silena handed him one.
+
+Annabeth waited until the little group had dispersed before speaking.
+
+"Thank you," she told Percy.
+
+"For destroying my teeth?"
+
+"For not making a speech."
+
+"I had a very good speech prepared."
+
+"I'm sure it was terrible."
+
+"Historic, actually."
+
+She smiled and leaned her shoulder against his. They had spent enough years in the life they remembered being watched during quests and battles. Here the stakes were a piece of cake and a silver gift she didn't want to test in public. The relief felt unexpectedly large.
+
+Later Thalia sat down on the other side of her.
+
+"Did someone ask about the present?"
+
+"Yes. I said no."
+
+"Good."
+
+"Are you disappointed I didn't show it?"
+
+"No. I'd rather you decide what it's for before you hand it to half the camp."
+
+Annabeth looked at her sister. The thought of Thalia asking permission before arranging her life was still new enough to notice when it happened.
+
+"I'll test it again with Beckendorf," Annabeth said. "Maybe he can find out whether any of the shapes are actually useful."
+
+"That sounds sensible."
+
+"I know. It's very annoying."
+
+Thalia laughed and reached for another slice.
+
+As the evening wore on, Annabeth found herself talking to a girl from Demeter cabin about the garden she'd been planning. The girl wanted to know whether the shrine would still have a place for offerings, and whether they intended to keep the old brambles at the edge of the clearing. Annabeth hadn't thought carefully about either question. She made a note to ask Chiron about the shrine and Katie about the plants before anyone began digging.
+
+"You're doing homework at your own party," Percy observed.
+
+"Research. There's a difference."
+
+"The paper looks the same."
+
+"That's because you never label yours."
+
+He laughed, and the Demeter girl grinned. The conversation made Annabeth happier than another round of compliments. People were asking her what she wanted to build and offering information she didn't have. Her birthday had become a day in which she could be herself in front of other people without being reduced to the god who had sent her a present.
+
+Silena returned to collect the empty plates. She asked whether Annabeth wanted the silver device displayed on the gift table when guests came to say goodbye.
+
+"No," Annabeth said. "Keep it in its case."
+
+"All right."
+
+"You're not going to ask why?"
+
+"You told me what you wanted."
+
+Annabeth watched her go. It should not have felt remarkable. For a child of Zeus, sometimes it did.
+
+Before the last guests left, Annabeth discovered that somebody had moved her birthday drawing.
+
+It was a small plan of the west garden, the one she'd made after noticing the gap between two terraces. She'd set it beside her gifts, and now it was propped at an angle near the candles where a curious camper could see it. The pencil line she'd drawn to indicate the closed section looked, at a distance, like an open trail.
+
+"Who put this here?" she asked.
+
+Thalia looked over. "I moved it so nobody would spill juice on it. Sorry."
+
+"You didn't know what it showed."
+
+"No."
+
+"It's not a finished public map." Annabeth took it down and tucked it into her folder. Her tone had gone sharp. She could hear it herself.
+
+Thalia looked at the guests and then at her. "I was trying to keep it safe."
+
+"I know. But I would rather you ask before moving my work."
+
+"Fair." Thalia folded her arms, visibly stung. "I'd also rather you tell me what needs to stay private than expect me to read your mind."
+
+Annabeth wanted to defend herself. On her birthday, especially, she wanted one day without feeling she had to explain every decision. But Thalia wasn't wrong.
+
+"I should have labeled it," she said. "I'll do that."
+
+"And I'll ask." Her sister's smile was small. "Can I help put away the rest of the drawings?"
+
+"Yes. The finished ones."
+
+They sorted the pages together, placing the public sketches in one pile and the working maps in another. There were still candles to blow out and presents to open. Annabeth was glad the disagreement had not been swallowed for the sake of a perfect party; it had been dealt with, and could stay dealt with.
 
 Percy waited until the cake had mostly vanished and the crowd had dissolved into smaller clusters before offering his gift. Beneath his chair he had kept a flat envelope all evening. Twice Annabeth had seen him check that it remained.
 

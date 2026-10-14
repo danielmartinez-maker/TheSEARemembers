@@ -2,7 +2,7 @@
 
 Percy knew the gnome place was going to be trouble because Grover would not stop talking about how good the grass smelled.
 
-It was late afternoon on the second day after the river. The quest van they had borrowed from a friendly nymph depot smelled like hot vinyl and old french fries. Thalia drove with both hands tight on the wheel. Annabeth sat up front with the map open on her knees. Percy sat in the back with Grover, watching cornfields roll past the window.
+It was late afternoon on their second day beyond camp. The Mississippi was still ahead of them. The quest van they had borrowed from a friendly nymph depot smelled like hot vinyl and old french fries. Martin, the licensed driver arranged through the nymph depot, kept both hands on the wheel. Annabeth sat up front with the map open on her knees. Percy sat in the back with Grover, watching cornfields roll past the window.
 
 Grover kept lifting his nose and sniffing.
 
@@ -20,7 +20,7 @@ Percy sat up straighter. "Buzzing like the bolt?"
 
 "He said it made his teeth hurt," Annabeth said. "And his radio went to static when he carried it. He put it in his truck and drove it one town over and dropped it at a Hermes Express stop. He said he was glad to get rid of it."
 
-Thalia glanced in the rearview mirror. Her black hair was pulled back and her silver circlet caught the sun.
+Thalia glanced back from the passenger seat. Her black hair was pulled back and her silver circlet caught the sun.
 
 "And he just told you this?" she asked.
 
@@ -36,7 +36,7 @@ Annabeth folded the map. She looked tired around the eyes. She had not slept wel
 
 "Yeah," she said. "But we are careful. A garden place that ships in the middle of the night? That is weird. Real garden stores close at five."
 
-Thalia turned off the highway onto a narrow county road. "Weird is our job."
+Martin turned off the highway onto a narrow county road. "Weird is our job."
 
 The road curved past a bait shop and a closed mini golf course with a giant dinosaur. Then the corn opened up and Percy saw it.
 
@@ -50,7 +50,7 @@ Grover pressed his face to the window. "Oh. Oh no."
 
 "The grass here smells scared," Grover whispered. "Like it wants to be somewhere else."
 
-Thalia slowed the van. "Scared grass. Great. My favorite."
+Martin slowed the van. "Scared grass. Great. My favorite."
 
 Annabeth stared at the rows of statues. Her hand tightened on the map. Percy knew that look. That was her strategy look, the one she got when pieces started to fit and she did not like the picture.
 
@@ -66,7 +66,87 @@ Percy felt cold under his shirt. "You think this is her?"
 
 ---
 
-Thalia parked the van under a maple at the edge of the gravel lot, far from the house.
+The nymph depot had seemed too good to be true, which was the first thing Percy disliked about it.
+
+It was an ordinary-looking service station near a cluster of highway exits. A faded sign advertised vehicle repairs, coffee and local maps, but the woman behind the counter had bark-colored hands and a green ribbon woven through her hair. She had asked to see Chiron's message twice, first in Greek and then with her fingers pressed against the wax seal.
+
+"He's sent children," she'd said.
+
+Thalia, who was sixteen and already angry at being addressed as a child, had folded her arms. "He's sent us. We have a deadline."
+
+"You have a guardian agreement, not a motor-vehicle license."
+
+"That's a detail."
+
+"It's the sort of detail that gets mortals killed if you ignore it."
+
+The nymph had shown them the service log. Her depot occasionally transported stranded demigods to another trusted contact. The van was scheduled to make a supply run, and the authorized driver had been injured in a monster attack the previous week. The van was sitting idle. It had enough fuel to reach the next safe contact but not to carry a family across the country.
+
+Percy had watched Thalia calculate her options. Walking would cost them time they didn't have. The bus connections were unreliable. The nymph was plainly not going to turn keys over without a serious conversation.
+
+"Can you drive us?" Annabeth had asked the nymph.
+
+"I can't leave the station. The dryads depend on the pump's water supply." She had tapped the posted list of contacts. "I can call a licensed mortal who knows about camp. He can take you as far as the county line, where another contact may help. I won't promise you more than that."
+
+The driver had arrived forty minutes later, a gray-haired mechanic named Martin who smelled of coffee and engine oil. He had made them stow their weapons where nobody could accidentally swing them into his face during a turn. Thalia had spent the drive asking questions about the van, from its fuel consumption to the rattling dashboard. Martin answered some and told her to stop distracting him from the road when the traffic was heavy.
+
+At the second safe stop, the arrangement had fallen apart. The next driver was unavailable, and Chiron couldn't be reached immediately. Martin had offered to take them only as far as the next town, where a trucker might know a longer route west. Thalia had listened, then asked if the van could be left with the contact at the next depot while they searched for another ride.
+
+The nymph and Martin had agreed, provided no one unlicensed drove it on public roads. Percy remembered Thalia's expression when she accepted the condition. She had looked like she was swallowing a sword.
+
+And then, in the parking lot of the roadside diner, Grover had found the trucker who'd handled a humming box.
+
+The man had been sitting at the counter with a cup of coffee, rubbing the heel of his hand against his jaw. Grover had noticed the little photograph tucked behind his driver's license when he paid for breakfast. It showed three goats in front of a red barn.
+
+"Those yours?" Grover had asked.
+
+The trucker had looked surprised. "Used to be. Grew up with them. Had to move away."
+
+Grover had pulled out his own picture of Juniper's favorite maple, and the conversation had gone from goats to trees to the miserable music a frightened engine made before it broke down. The trucker liked talking to somebody who listened. Percy had waited at the next booth while Annabeth wrote notes.
+
+When the man mentioned a buzzing shipment, Annabeth's pencil stopped.
+
+"A shipment that made your radio cut out?" she'd asked.
+
+"Yeah. Freaky thing. Couldn't wait to get rid of it."
+
+She hadn't told him why they cared. She'd asked for a date, a pickup address and the name of the transport company. The trucker wasn't sure about the name on the paperwork but remembered the garden-gnome sign because its letters were painted red and green. He also remembered a black car waiting near the overnight drop point.
+
+Grover thanked him for the information without making it sound as though he'd just moved their entire quest forward.
+
+Back outside, Percy had watched Annabeth compare the address with the depot's map. The clue wasn't proof that the box contained Zeus's bolt. It wasn't proof that the black car belonged to the thief. But it was a particular object, a particular route and a witness who'd carried it.
+
+"We could go straight west and hope," Percy had said.
+
+"Or we could check the only lead we have," Annabeth replied.
+
+Martin had been reluctant to detour, but the garden emporium lay close enough to his authorized route that he agreed to drop them at the public road turnoff. Thalia persuaded the nymph to let them carry their supplies to the stop in the van; Martin would retain the keys and park outside the property while they investigated. From there, the children would need another arranged ride, not an open-ended promise to drive themselves.
+
+It was messy, slower and far less glamorous than Thalia's original plan. It also meant they had an adult who could call for help if they did not come back.
+
+As they approached the emporium, Martin eased the van along the county road and asked whether they were sure.
+
+"No," Annabeth answered. "That's why we're looking before we get out."
+
+Percy glanced at his girlfriend's bandaged hand, resting beside the notebook. She had managed the entire conversation without pretending she knew who the black-car driver was or how many people might be involved.
+
+"Do we tell Martin what we're looking for?" Percy asked.
+
+"Only that the place could be dangerous," Thalia said. "He doesn't need to know about the bolt to stay out of trouble."
+
+Martin heard her anyway. He stopped by the side of the road where the garden sign was visible between the trees.
+
+"If you kids don't return in half an hour," he said, "I'm calling the number Chiron gave me. Agreed?"
+
+Thalia nodded, unhappy about needing the safeguard and unwilling to argue with it.
+
+"Agreed."
+
+They moved from the van toward the gravel lot. Percy was grateful the mechanic would be waiting out of sight. For once, a mortal adult on the road didn't have to be somebody they rescued after a disaster. He could be somebody who kept them from disappearing without a trace.
+
+---
+
+Martin pulled the van under a maple at the edge of the gravel lot, far from the house, and waited by the driver's door as the four of them got out.
 
 No other cars were there. The lot was empty except for dust and a wheelbarrow tipped on its side. A wind chime on the porch moved even though Percy did not feel wind.
 
@@ -157,6 +237,78 @@ Percy froze. Every muscle told him to look up and be polite.
 Annabeth grabbed his wrist hard.
 
 "Eyes down!" she hissed.
+
+---
+
+The first thing Annabeth did was ask Grover not to touch another statue.
+
+He turned toward her. His hand still hovered inches from Uncle Ferdinand's arm.
+
+"He's my uncle."
+
+"I know." She crouched beside the base, careful to keep her eyes below the stone figure's neck. "But we don't know whether the stone is part of him now, or a shell around him. If it's alive, we could hurt him trying to move it."
+
+Grover withdrew his hand reluctantly. "I can hear something. It's faint, but it sounds like him."
+
+"Then we treat him like someone who might be alive," Thalia said.
+
+Percy had never heard his friends sound so restrained in front of a monster's garden. He wanted to smash every pedestal and drag the statues into the road, but Uncle Ferdinand's fingers were caught in a gesture that looked painfully human. Breaking the stone could mean breaking the person.
+
+They searched along the bases without raising their eyes. Annabeth read labels aloud, but several were obviously lies. A stone hiker with a backpack was listed as a royal gardener. A figure in a security vest had been called an ancient soldier. Grover recognized three satyrs in the rows, not all from his own family. Percy tried to memorize their positions and found there were too many.
+
+"She sells them," he said.
+
+"Or stores them until somebody offers money," Annabeth answered.
+
+"Either way, it's wrong."
+
+"Yes." Annabeth put a finger over a small symbol on the hiker's pedestal. "And this is a date. Yesterday. Somebody got caught here yesterday."
+
+Thalia stepped back from the row and looked toward the shed, keeping her gaze on its low windows. The door had been pulled shut with a chain, but the earth beneath the threshold was disturbed. Percy noticed a pair of fresh tire marks crossing the gravel to it. The tread pattern was too wide for a garden cart.
+
+"There may be people who aren't fully turned," Thalia said.
+
+"Then we need to get them out first," Grover answered immediately.
+
+A part of Percy wanted to argue they should find the bolt before it moved again. But the clue had already been shipped west. A half-petrified camper didn't have time to wait for them to finish a courier investigation.
+
+"What do you want me to do?" he asked.
+
+Grover took a breath. He didn't look at Percy when he answered; his eyes stayed on the shed.
+
+"I can find the people who are alive. I can hear breathing through the walls and the plants know where they need water. I don't know how to fight Medusa."
+
+"You shouldn't have to," Percy said.
+
+Thalia shook her head. "We all need a way to leave. We can't count on the monster letting us walk back to the van. The moment she sees we're not customers, she'll go for the entrance."
+
+They planned from the end rather than the beginning. The van was the nearest safe shelter; Martin had agreed not to enter the grounds and to keep the engine ready if there was trouble. Grover would scout along the shed wall and call them if he found anyone. Thalia would remain near the open gravel, where a spear could move without catching on statues. Annabeth would keep the mirrored hubcap within reach and direct movement by voice. Percy would guard the retreat while avoiding the temptation to stare at Medusa even through her veil.
+
+"You're always making me the person who waits," he said.
+
+"Not waits," Annabeth replied. "Keeps the route open. That's different."
+
+"Are you sure?"
+
+"You're the strongest of us if we need water. You're also the only one who keeps running toward people when somebody shouts that they're hurt. We need you where you can see the others without having to chase the first noise."
+
+Percy couldn't tell whether she'd complimented him or diagnosed a serious character flaw. Possibly both.
+
+They practiced the signals quietly. One word meant somebody needed help. Two meant retreat. A hand against a shoulder meant freeze and keep eyes down. Grover suggested making the retreat signal a musical phrase, but Annabeth pointed out a satyr tune might draw attention before they were ready.
+
+"What if she calls us by name?" Percy asked.
+
+"Then we still follow the plan," Thalia said. "If it's important enough to break the plan, we tell each other why."
+
+Grover cast another glance toward Uncle Ferdinand.
+
+"I'll come back," he said, barely audible. "Even if I have to come with Chiron and half the camp."
+
+Percy believed him. It wasn't the sort of promise Grover made when he was trying to look brave. It sounded like a decision he'd already made and would regret only if he failed to keep it.
+
+The porch screen creaked.
+
+All four turned their faces downward together.
 
 ---
 
@@ -330,25 +482,49 @@ The cap turned invisible on contact, but it covered the snakes. Medusa shrieked 
 
 "Now!" Annabeth yelled. "Thalia! The hubcap! Show her herself!"
 
-Thalia scrambled up, grabbed the hubcap with both hands, and held it right in front of Medusa's covered face. She yanked the Yankees cap away fast and ducked.
+Thalia scrambled up with the hubcap in one hand and her spear in the other. She positioned the polished metal so she could track Medusa without meeting the gorgon's eyes.
 
-Percy stared at the dirt. He heard a gasp.
+"Look at yourself!" she shouted.
 
-A horrible scraping sound. Then silence.
+Medusa laughed. She glanced at the warped reflection and remained very much alive.
 
-Then a thud, heavy and stone.
+"Did you really believe my own face would harm me?" she asked. "You children remember the shields but not what Perseus actually did with one."
 
-Grover's pipes stopped.
+Percy felt cold. They had made the wrong assumption. Looking into a reflection was safer for them, but it was not a weapon by itself.
 
-"Is it—" Percy whispered, eyes shut tight. "Can I—"
+Annabeth caught the cap as Medusa lunged at Thalia. Invisible for an instant beneath the Yankees cap, she darted along the side of the gnome rows and shoved the polished metal toward Percy. He saw Medusa in it: a pale face below the snakes, glaring at the place where Annabeth had been.
 
-"Wait," Annabeth said. Her hand was on his good arm, holding tight. "Wait. Thalia, talk."
+"Percy, the reflection!" Annabeth shouted. "Watch that, not her!"
 
-Thalia's voice came, shaky and alive. "She looked. She looked at herself in the hubcap. She is— she is stone. All the way. Even the snakes. They look like little stone worms. It is gross."
+Grover played a hard, urgent sequence on his pipes. Dry stems pushed through the gravel around Medusa's ankles. The stems could not hold her for long, but they delayed her just as Thalia moved behind a fountain and forced the gorgon to turn.
 
-Percy opened one eye. Dirt. Annabeth's shoe.
+Percy kept his eyes on the hubcap. Its surface was warped, making distances difficult to judge. He had to place his feet by feel and listen to Annabeth calling directions. The monster's reflection moved toward him. He stepped to the left, felt air rush past his shoulder and brought Riptide up in a single clean strike.
 
-He opened the other. Annabeth crouched over him, her face white, her hands already tearing a strip from the bottom of her camp T-shirt.
+There was a scream. Then a rush of dust and a sound like glass shattering in the distance. Percy heard bronze ring against stone as Riptide hit an empty pedestal.
+
+"Down!" Thalia shouted.
+
+Percy dropped behind the fountain and waited. A long moment passed.
+
+"It's over," Annabeth said. Her voice was shaking. "The monster is gone. It's dust."
+
+Percy opened his eyes slowly, beginning with the ground. The gravel was scorched where Medusa had stood. Her dark glasses lay broken beneath the fountain. The statues remained, unchanged and terribly still.
+
+Grover lowered his pipes. He looked first at the empty space where the gorgon had been and then at the satyr figures behind it.
+
+"Uncle Ferdinand?" he called softly.
+
+There was no answer. The monster's defeat hadn't restored anyone.
+
+Percy moved to Annabeth and almost fell when a line of pain tore across his arm. Medusa's nails had cut him before her final lunge. Blood had begun to soak the sleeve.
+
+Annabeth grabbed his good arm. "You're hurt."
+
+"Not badly."
+
+"Sit down before you make that decision for everybody," she said.
+
+Percy sat. Annabeth crouched over him, her face white, already tearing a strip from the bottom of her camp shirt.
 
 "Let me see," she said.
 
@@ -358,7 +534,7 @@ It was not a deep cut. That was what Annabeth kept saying, over and over, like s
 
 "It is not deep. It is not deep. You are okay."
 
-They sat behind the van in the shade of the maple. Thalia stood guard with the hubcap, watching the stone Medusa to make sure she stayed stone. Grover was with the freed people, giving them water and talking fast to keep them calm.
+They sat behind the van in the shade of the maple. Thalia stood guard with the hubcap, watching the silent statue rows in case any other creature had been sheltering there. Grover was with the freed people, giving them water and talking fast to keep them calm.
 
 Percy sat on the bumper. Annabeth knelt in front of him.
 
@@ -412,7 +588,7 @@ Annabeth's cheeks went pink. She looked down at the bandage and smoothed it once
 
 Annabeth nodded. She glanced toward her sister.
 
-Thalia stood by the stone Medusa, spear out now, keeping the freed truck driver behind her. The driver was a big mortal man with stone dust on his legs up to the knees. He kept blinking like he could not believe he could move his toes again.
+Thalia stood by the fountain where Medusa had fallen, spear out now, keeping the freed truck driver behind her. The driver was a big mortal man with stone dust on his legs up to the knees. He kept blinking like he could not believe he could move his toes again.
 
 Thalia caught them looking. She raised an eyebrow.
 
@@ -459,6 +635,92 @@ Percy felt warm from ears to toes. It was different from Clarisse teasing him ab
 Thalia winked at Percy over Annabeth's head. It was quick and conspiratorial, like Silena winking at him after chocolate.
 
 "Come on," Thalia said, louder, back to business. "Nurse duty is over. We have statues to move and a driver to question before he faints."
+
+---
+
+The greatest problem after Medusa was gone was what to do with people who couldn't tell the questers what they needed.
+
+Grover wanted to carry every statue. He'd memorized which bases contained satyrs and was moving along the rows calling their names. Percy followed with the notebook, trying to keep a record before Grover's determination turned into a rescue plan nobody could execute.
+
+"There's no way all of these fit in the van," Annabeth said.
+
+Grover didn't turn. "We could make two trips."
+
+"Two trips would take more time than we have."
+
+"Then three."
+
+Thalia stopped him near the fountain, hands open and no spear between them.
+
+"Look at me, Grover."
+
+He kept his eyes on the statue.
+
+"Grover."
+
+"I can hear my uncle. He's here. I can't leave him."
+
+"We're not leaving him. We're deciding how to move him without hurting him."
+
+That finally made Grover look at her. His eyes were bright with anger and fear.
+
+"You're talking like Annabeth."
+
+"I'm trying," Thalia said. "She's been right about the hard parts so far."
+
+Percy put the notebook on the hood. He'd sketched the property: the house, the shed, the fountain, the gravel lot and the rows where they had found people. Annabeth added numbers along each row, then a mark beside the truck driver's hiding place.
+
+"We can send this to Chiron," she said. "An actual record of where people are, with names when Grover recognizes them."
+
+"Will that bring help?" Grover asked.
+
+"It will make it possible for help to find them. That's what I can promise."
+
+Martin appeared at the edge of the lot with a phone in his hand. He'd heard the screaming and wanted to know whether he should contact his supervisor. His expression changed when he saw the statues, although the Mist was plainly trying to turn them into garden ornaments in his mind.
+
+"I don't know what happened here," he said. "But your friend is bleeding, and that driver's in trouble. I'm not leaving without arranging help."
+
+He called the number Chiron had provided, reported the dangerous location, injured travelers and people requiring transport. He didn't report a gorgon turning to dust. Percy was grateful; he doubted a mortal dispatcher would find that detail useful.
+
+The nymph at the depot answered. She knew how to reach camp staff and promised to send a team to the address, but couldn't guarantee when it would arrive. She warned them not to move heavy stone figures without bracing them against tipping.
+
+Martin listened, then looked toward Uncle Ferdinand.
+
+"Can that one stand in the back without crushing somebody?"
+
+"No," Annabeth answered. "We'll have to pad him and secure him."
+
+The van's seats could be repositioned. Martin showed them how to release the rear row, leaving a flat area. He had straps in the emergency compartment and blankets under the seats. Percy had never imagined a nymph depot would care about securing cargo, but the woman on the phone sounded almost offended when he asked.
+
+"Demigods think getting something into a vehicle is the same as transporting it safely," she said.
+
+Grover helped move the seats. He followed Martin's instructions carefully, checking each strap twice and speaking to Uncle Ferdinand as they padded the stone shoulders and head. They laid him on his side instead of trying to belt him upright. They wedged the base so he couldn't roll if the van stopped.
+
+The two smaller figures they could safely move went beside him. Annabeth insisted on documenting their positions before anyone lifted them. Percy wrote descriptions on scraps of paper and tied them to the packing blankets rather than to the stone itself.
+
+By the time the load was secured, they had used nearly every blanket they carried. Grover stood beside his uncle, exhausted.
+
+"What about the others?"
+
+"We've recorded them," Annabeth said. "The people coming from camp need those records."
+
+"That's not the same as getting them out."
+
+"No," she said. "It isn't."
+
+Percy watched Grover accept the answer without pretending to be comforted. He went back to the nearest statue and placed a small leaf on its pedestal.
+
+"Uncle Ferdinand is first," he said at last. "That doesn't mean he's the only one."
+
+"I know," Percy said.
+
+"Promise you won't forget the rest."
+
+Percy thought about the vague promises he'd made at the start of the quest, the ones that had felt beautiful because he hadn't understood their cost. This one was different. They had a map, a contact and names for some people in the rows.
+
+"I'll keep the list," he said. "And we'll send it to Chiron. That's something we can actually do."
+
+Grover nodded, took the notebook and walked toward the shed where the freed truck driver was waiting.
 
 ---
 
@@ -520,17 +782,17 @@ Thalia went still. Then she reached up and tucked the blanket around his stone l
 
 Annabeth turned away fast and pretended to check Percy's bandage. Her ears were pink. Percy pretended not to notice because he knew she would hate being noticed, but his chest felt big.
 
-They loaded three statues across the back seats, padded with gnome boxes and blankets. Uncle Ferdinand rode like a king, seatbelted upright, colander now perched on his head because Grover insisted it would keep him safe.
+They secured three stone figures in the reconfigured rear section, padded with blankets and restrained using Martin's cargo straps. Grover placed his colander beside Uncle Ferdinand's face because he insisted the familiar object would make him feel safer.
 
 "He looks good," Grover said, stepping back. "Distinguished."
 
 "He looks like a traffic cone," Thalia said. But she adjusted the colander so it sat straight.
 
-Percy walked the rows one last time with Annabeth, covering Medusa's stone face with a burlap sack and turning her toward the wall so even her stone eyes faced nothing.
+Percy walked the rows one last time with Annabeth, covering the broken glasses beneath the fountain with a burlap sack so nobody would disturb evidence of what had happened.
 
-"Should we smash her?" Percy asked quietly. He did not want to. Smashing felt wrong, even for a monster. It felt like something the old heroes would do and brag about, and he did not want to brag.
+"Should we break the other statues open?" Percy asked quietly. He hated leaving them here after the monster was gone.
 
-Annabeth shook her head. "No. Chiron says stone holds memory. We leave her for the gods to judge. We take her victims to people who can help. That is better than smashing."
+Annabeth shook her head. "Not when we don't know whether the stone is holding them alive. Chiron needs to examine them first. If we smash the shell and it's part of them, we could kill someone we're trying to save."
 
 Percy nodded. That sounded right. Mending, not fighting. Silena would like that.
 
@@ -542,15 +804,131 @@ Percy heard her and felt sad and proud at once. This was She Who Draws Lines, he
 
 The sun touched the corn. Long shadows stretched across the gravel.
 
-Sam flagged down a second trucker on the highway with his hazards. The freed campers piled in with notes for Camp Half-Blood. Grover hugged his uncle's stone hand through the van window.
+The plan for leaving required another argument, this time with Martin.
+
+"You can't keep these figures in the back all the way to Los Angeles," he told them. "I don't know what they are, exactly, and I won't pretend I do. But if they're people, that makes this a medical transport problem. I'm not qualified to decide whether they can spend three days lying on a padded van floor."
+
+"Then where do they go?" Grover asked.
+
+Martin pointed toward the highway. "Back to the depot. The manager has a recovery team coming. We meet them at the next supervised stop, transfer the people in their care, and make sure somebody signs for them."
+
+"That means going east," Thalia said.
+
+"It means driving to a safe place before turning west," Martin replied. "A detour. Not the end of your quest."
+
+Percy looked at the stone figures. Uncle Ferdinand's face was fixed in a frightened expression. If any of them could hear what was happening, they had heard a great many people promise to take them away and then argue over the best way to do it.
+
+"Will Chiron know where they are?" he asked.
+
+"Yes. I'll make sure the depot sends the transfer record to him. You can send your map and your notes with it."
+
+Grover ran a hand over the padded base. "Can I go with Uncle Ferdinand?"
+
+Nobody answered immediately.
+
+"You can ride beside him to the transfer point," Martin said. "After that, his care needs somebody who understands what the stone means. You have a different job."
+
+Grover swallowed. "I don't like leaving him."
+
+"I wouldn't like it either."
+
+The answer surprised Percy. Martin wasn't offering a cheerful speech about how everything was sure to turn out. He was making a practical promise and leaving the pain of separation alone.
+
+Annabeth examined the route and made a notation beside their next safe stop. The detour would cost fuel and time, but it would keep the statues off the road to Hades and allow the four questers to continue with the information they'd found.
+
+"What about the two injured campers?" she asked.
+
+Sam sat on the low step of the van, flexing his hands, his legs still stiff. He had listened to the plan without speaking.
+
+"I can go with them," he said. "I'm not getting back into a freight truck tonight. I'm not even sure I can walk all the way to the restroom."
+
+Martin nodded. "I'll ask the depot to arrange proper medical care and notify the camp."
+
+Percy had thought rescue meant pulling somebody out of a bad place. He was learning that rescue continued after the fighting stopped. Sam and the campers would need people who could help with the stone spreading through their limbs. Uncle Ferdinand needed a specialist. The figures still in the garden needed a search team and someone to identify them. Finding the bolt did not erase any of those obligations.
+
+"Can we take photographs?" Annabeth asked.
+
+Martin gave her an old disposable camera from his glove box. He explained how many frames were left and warned that the light would be poor near the shed. She photographed the numbered statue rows, the broken glasses and the shipping-label scraps that remained behind the counter. Percy wrote labels in the notebook and made sure the photograph numbers matched.
+
+Thalia searched the office without touching the papers with her bare hands. She found a carbon copy of a shipment receipt and an empty box sleeve with a courier number. Neither named the thief. The address on the receipt was a drop point, not a destination.
+
+"This is still a real clue," Annabeth said.
+
+"But not proof that Hades did it," Percy answered.
+
+Thalia looked up from the receipt. "You think it could be a trap?"
+
+"I think we just walked into a trap because somebody wanted us to follow a humming box. We should be careful about assuming the next place is the answer."
+
+Nobody disagreed. Grover was busy cleaning dust from the straps around Uncle Ferdinand, but Percy could see him listening.
+
+Martin sent the recovery call. He told the person on the other end exactly what he knew and refused to provide descriptions of injuries he hadn't examined himself. When he hung up, he looked at the four of them.
+
+"Now we're going to drive to the rendezvous and let the people who handle this sort of thing take over. You can argue about the westbound route after that. Are we clear?"
+
+"Very clear," Thalia said, in a tone that suggested she disliked the instructions but approved of the decision.
+
+At the transfer site, the recovery crew arrived in a larger vehicle with proper supports for the stone figures. They checked each number against Annabeth's map, recorded the names Grover could provide and asked Percy to keep the original notebook in case something got lost. The nymph depot received a copy.
+
+Grover helped transfer Uncle Ferdinand with both hands on the padded base. When the straps were secured in the new vehicle, he stayed beside the door for a minute longer.
+
+"I'll be back," he whispered. "Not after the quest because it's convenient. As soon as I can."
+
+One of the recovery workers gave him the destination contact, the name of the person responsible for the case and a number Chiron could use to ask about progress. Grover wrote it on the back of his bark list.
+
+Only when the recovery van had departed did the questers turn west again. The seats behind them were empty except for folded blankets and their bags. Grover watched the taillights disappear before sitting down.
+
+"Do you want to talk about it?" Percy asked.
+
+"No," Grover said. "Not yet."
+
+"Okay."
+
+Percy didn't try to turn the silence into another comforting story. He sat beside his friend as Martin started the engine. The road ahead wasn't any shorter, but at least the people they'd found weren't being taken farther from the help they needed.
 
 "Hold on, Uncle," he whispered. "Just hold on."
 
-Thalia started the van. Annabeth rode shotgun with the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
+Before they left the transfer site, Annabeth asked Martin where he intended to stop for the night.
 
-Percy sat in back with Grover, keeping a hand on Uncle Ferdinand so he would not tip.
+He unfolded an old road atlas across the hood. Several of its pages had been marked by previous travelers. One note warned about an unreliable bridge in heavy rain. Another identified a twenty-four-hour diner with a manager who knew how to turn away questions about unusually armed children without attracting police attention.
 
-As they pulled out, Percy looked back at the Emporium. The sign squeaked in the wind. The rows of stone faces stared at nothing. The sack-covered Medusa stood by the porch, stone snakes frozen mid hiss.
+"We can reach the area west of here before it's too late," Martin said. "I won't drive exhausted. If we need to sleep, we sleep."
+
+Thalia frowned at the distance. "The solstice isn't getting any farther away."
+
+"Neither is a crash," Martin answered.
+
+That ended the argument. Percy had expected Thalia to be furious, but she studied the atlas and asked where the safer overnight stop would be.
+
+Grover was holding the transfer receipt. He turned it over several times, reading the name of the recovery worker as though repetition could make him easier to find.
+
+"Can I give a copy to Juniper?" he asked.
+
+"Later," Percy said. "When we can send our messages together."
+
+Grover nodded, then tucked the receipt beside the note he'd written for her at the bus station.
+
+Annabeth drew their proposed route on a clean sheet. She didn't claim the garden emporium had proved who stole the bolt. She wrote down what they knew: a humming box, a witness, a courier drop, a black car and a westbound direction. Beside *studio*, she placed a question mark rather than Hades's name.
+
+"We should keep looking for confirmation," she said. "If we're wrong about where the box went, at least we won't have lied to ourselves about knowing."
+
+Percy thought of the way Medusa had called them children who remembered stories incorrectly. She'd been right about one thing: they had expected a mirror to be a weapon against the very person who lived with that reflection every day. They'd survived because they changed tactics, not because an old story happened to unfold exactly as they'd predicted.
+
+He looked at Annabeth's fresh page and felt grateful for the question marks.
+
+"Keep that copy on top," he said. "I want to know what we're assuming the next time someone tells us we're almost there."
+
+Annabeth folded it once, carefully. "Deal."
+
+Martin closed the atlas. He gave Thalia the passenger seat so she could watch the signs, then waited until every seat belt clicked before starting the engine.
+
+Percy looked out the window. Behind them, a team would arrive to record the people still trapped among the garden statues. Ahead of them, the ordinary road was filling with evening traffic. He couldn't see the bolt, but he could tell where the next stop was. That was something.
+
+Martin checked both mirrors and asked Thalia to watch for the next turnoff. They would need a clear route through unfamiliar roads before the night traffic became difficult to follow. Thalia rode behind him, with Annabeth beside her and the notebook open to a fresh page. She wrote in big letters: BOLT WENT WEST. HADES? LA. UNDERWORLD STUDIO?
+
+Percy sat in back with Grover, keeping a hand on his friend's sleeve when the road became rough.
+
+As they pulled out, Percy looked back at the Emporium. The sign squeaked in the wind. The rows of stone faces stared at nothing. Medusa's empty pedestal stood by the porch, dust scattered over the gravel.
 
 He thought about what Medusa had said. About being used and thrown away. He did not feel sorry for her, exactly. She had chosen to hurt people. But he understood why Annabeth had not smashed her. Some stories did not need more breaking.
 
@@ -562,7 +940,7 @@ Percy smiled. "She will love him. Especially if he likes music."
 
 "He snores like pipes," Grover said. "That counts."
 
-Up front, Thalia glanced at Annabeth's notebook.
+Up front, Thalia glanced at Annabeth's notebook from the second row.
 
 "West," Thalia said. "Of course it is west. Everything stinks and goes west. LA. Dead flowers. Studio. That is Hades. That is the Underworld."
 
@@ -576,11 +954,11 @@ Percy touched his bandaged arm. It throbbed dully under the cloth.
 
 "West," Annabeth agreed. She held his gaze a second longer, then turned forward, pencil tapping.
 
-Thalia caught Percy's eye in the mirror and mouthed, tragic bandage romance, with a grin.
+Thalia turned from the second row and mouthed, tragic bandage romance, with a grin.
 
 Percy stuck his tongue out at her. Thalia laughed out loud, surprised, and Annabeth turned to ask what was funny, and Grover started playing a soft song on his pipes for his uncle, low and sweet, for the road west.
 
-The van rattled onto the highway, heading into the sunset, carrying three stone passengers, one bandaged hero, two sisters, and a satyr who would not stop talking to his uncle about grass.
+The van rattled onto the highway, heading into the sunset with the stone passengers safely transferred into specialist care, one bandaged hero, two Grace sisters and a satyr who had kept every detail of his uncle's case in a notebook.
 
 Behind them, the gnome rows stood empty in the dusk. The wind chime rang once, then still.
 
@@ -588,7 +966,7 @@ Ahead, the sky went orange and pink, and the road ran straight west toward LA, t
 
 Percy watched the sun go down and thought of the Diver holding his lamp because someone held the rope. He thought of Annabeth tackling him into dirt because she held his wrist and would not let go.
 
-He tightened his hand on the tarp so Uncle Ferdinand would not slide, and he stayed awake to watch the road, because that was what partners did.
+He held the written transfer record in his lap and stayed awake to watch the road, because that was one part of keeping a promise.
 
 They held the rope for each other.
 

@@ -94,7 +94,7 @@ Percy handed him the dolphin. Tyson fitted the bronze tail with a soft click. It
 
 "Now he can swim again," Tyson declared.
 
-Percy put his arm around his little brother's huge shoulders and leaned against him for a second. "Yeah," he said. "Now he can."
+Percy put his arm around his older half-brother's huge shoulders and leaned against him for a second. "Yeah," he said. "Now he can."
 
 They cleaned together after that, fast and easy. Tyson lifted bunks with one hand while Percy swept under them. Percy scrubbed high windows standing on Tyson's shoulders. They found Tyson's lost lucky wrench, Percy's missing sock — it had been inside Tyson's spare helmet — and a colony of dust bunnies under Tyson's bunk that Tyson insisted on relocating outside "humanely."
 
@@ -115,6 +115,88 @@ Annabeth picked up the mermaid with the yellow marker hair. Her mouth softened. 
 "You get to help the Ares cabin next," Annabeth said. "They requested muscle."
 
 Tyson flexed happily. Percy groaned into his donut, but he was smiling.
+
+---
+
+The aquarium made a peculiar noise just as they were about to leave.
+
+It came from behind the coral shelf, a low rattling hum followed by three abrupt clicks. Tyson stopped in the doorway. Percy turned toward the glass.
+
+"Was it doing that earlier?"
+
+"Only when you filled it," Tyson answered. "I thought it was the shell ornaments moving."
+
+They listened. A small school of silver fish moved from one end of the tank to the other, keeping well away from the intake. The pump rattled again.
+
+Percy had thought he'd finished the aquarium when he siphoned water into the bucket. Now he realized he'd cleaned what he could see and ignored the mechanism that kept the water circulating.
+
+Tyson removed the access panel with a screwdriver. He'd repaired hundreds of machines in the undersea forges, but he didn't pretend to know this one without looking at it. The impeller housing was partly blocked by bits of seaweed and a piece of blue plastic.
+
+"Is that from the toy?" Percy asked.
+
+Tyson pulled it free. It was the missing corner of one of the little Atlantis towers.
+
+"Maybe from long ago," he said. "The current caught it."
+
+Percy felt a ridiculous flash of guilt. He had washed the toy in the fountain, not the aquarium. Whatever happened to the plastic before today hadn't been under his control. Still, seeing the broken tower inside the pump made him wonder how many little things had been left there for years, unnoticed.
+
+They turned off the power, removed the block and inspected the rubber seal. Tyson explained how to test it before starting the pump again. Percy held the flashlight, because that's what Tyson needed.
+
+When the machinery ran without rattling, Tyson stepped back, pleased.
+
+"Good," he said. "Now the fish get clean water."
+
+Percy watched the fish. They seemed entirely indifferent to the rescue of their circulation system. He took that as a compliment.
+
+They wrote the service date on a card and slid it into the cabinet. Percy had learned enough from Milo's autumn repair schedule not to leave the task for somebody to guess at next spring.
+
+Then Tyson noticed the toy city again.
+
+"Can I ask you something?" he said.
+
+"Sure."
+
+"You said this toy reminds you of Sally."
+
+Percy nodded. He had told Tyson pieces of the old story without explaining how he remembered a childhood the rest of this world didn't record. He could talk about Sally's laugh and the blue plastic city, but it was harder to make clear that this particular object belonged to the rewritten home he'd lived in only through other people's recollections.
+
+"I remember another Atlantis set," Percy said carefully. "Same kind, different little scratches. My mom gave it to me during a rainy trip when I was very small. I remember the bath and the towel and how she read a shampoo label as if it were a prophecy."
+
+Tyson sat on the edge of the bunk so his head wouldn't strike the ceiling beam.
+
+"Amphitrite says you loved this one too," he said. "She used to let you take it into the palace bath. I remember helping find pieces when they floated away."
+
+Percy looked at him. Tyson wasn't claiming Sally's memory was wrong. He was giving Percy another childhood story, one Percy couldn't see for himself.
+
+"That sounds like me," Percy said.
+
+"It was you."
+
+"I know. I mean I believe you. I don't remember doing it."
+
+Tyson considered that. He picked up the little dolphin and turned it over to inspect the new bronze tail.
+
+"Then I will tell you the stories when you want," he said. "Not all at once. There are many."
+
+Percy smiled. "I don't think I could handle them all at once."
+
+"Good. Some are embarrassing."
+
+"How embarrassing?"
+
+Tyson beamed. "You once tried to feed a spoon to a fish because you thought it was hungry for metal."
+
+Percy groaned. "That's exactly the kind of thing I would do."
+
+"Yes."
+
+They laughed. Tyson put the dolphin back beside the towers. He didn't insist Percy had to feel nostalgic about an event he couldn't remember, and Percy didn't insist Tyson's experience somehow mattered less because it differed from his own.
+
+Annabeth called from the path that they were late for the Ares cabin. Percy put the toy back on the windowsill, where both the saltwater aquarium and the afternoon sunlight could reach it.
+
+"Come on," he told Tyson. "We have more things to clean."
+
+Tyson collected the tools and followed him out. The pump ran quietly behind them. Percy liked that sound better than the earlier rattle. It meant they'd noticed what needed doing before the fish paid for the mistake.
 
 ---
 
@@ -192,6 +274,96 @@ Clarisse stood up, drawing held to her chest. "I'm going to get this framed," sh
 
 She nodded once, brusque, and went to her borrowed supply box to wrap the drawing in a clean T-shirt for safekeeping. Chris followed her, carrying a frame he'd already pulled from the donate pile.
 
+Silena found the drawing before Clarisse had chosen a frame.
+
+She arrived with a box of replacement straps for the training shields and stopped in the doorway when she saw Clarisse sitting on the floor, the faded paper resting on her knees. A younger Ares camper was holding up two frames and asking whether the silver one looked more heroic.
+
+"What's that?" Silena asked.
+
+Clarisse stiffened. "Nothing."
+
+Silena stepped closer. "That's very clearly something."
+
+Percy watched Clarisse prepare a joke, the sort she used to get out of conversations she'd rather fight than finish. Instead she held the paper so Silena could see it properly.
+
+Silena stared at the two figures. Her mouth opened, then closed.
+
+"I thought you threw that away."
+
+"I said I did," Clarisse answered.
+
+"You said it was stupid."
+
+"It was stupid. Look at the size of the spear."
+
+Silena crouched next to her. She didn't take the drawing, although Percy could tell she wanted to touch it.
+
+"I made this when I thought all heroes had to look angry," she said.
+
+"You gave yourself a pink dress."
+
+"I liked the pink dress."
+
+"You said you were going to wear it to battle."
+
+"I would have," Silena replied. "I would've ruined it and complained to everybody, and then I'd have wanted another one."
+
+Clarisse snorted.
+
+Percy had known the two of them as his sisters for long enough that he sometimes forgot their childhood together preceded his place in Cabin Three. In this life they'd been children of Poseidon the whole time, but they hadn't grown up with Percy beside them. The stories they carried did not belong to him just because their father was the same.
+
+Silena examined the crayon lines.
+
+"Did you keep it under the bench all these years?"
+
+"Nobody looked there."
+
+"Because you told everybody not to touch the bench."
+
+"Good policy."
+
+Chris came over with the two frames and asked which one they preferred. Silena wanted the plain wooden one. Clarisse wanted the heavier dark one. They were about to argue when a younger camper suggested hanging it over the weapons rack.
+
+"No," Silena said at once.
+
+Everybody looked at her.
+
+"I drew it," she said. "I didn't know it would be found today. I don't want it hung up for strangers to make jokes about."
+
+Clarisse set down the dark frame. Her expression changed.
+
+"I was going to put it on the mantel," she admitted.
+
+"You can put it wherever you want in your own cabin," Silena said. "But you're borrowing this one. The Ares kids don't need my handwriting on the wall all year."
+
+Percy watched Clarisse think. She'd been proud of the drawing, and the younger campers' attention had pleased her. That didn't mean Silena had agreed to be a story everybody could tell.
+
+"One night?" Clarisse asked. "While we're here, so the kids who helped clean can see it. Then I'll take it back to Cabin Three."
+
+Silena studied her. "Only if I get to choose the frame."
+
+"You're going to choose the boring one."
+
+"Yes."
+
+"Fine."
+
+The younger Ares camper nodded as if he'd witnessed a diplomatic treaty. He fetched the wooden frame, cleaned the glass and helped Clarisse slide the drawing behind it without folding the edges.
+
+Chris found a clean hook above the mantel. He didn't put the frame up until Silena told him the height was right.
+
+"There," she said, standing back. "That's nice."
+
+Clarisse looked at the little drawing on the wall. She did not look comfortable with people watching her face, but she didn't take it down.
+
+"Now can we finish cleaning?" she asked.
+
+"Yes," Silena said. "And you can return those shields after you've checked the straps."
+
+Percy grabbed the replacement straps and helped stack them. He was glad they'd found the drawing. He was also glad Silena had arrived before it became a story everybody believed they could own.
+
+At dinner, a few campers asked about the picture. Clarisse told them it was hers and Silena's and that it would be coming home with them after the feast. The distinction lasted longer than Percy had expected.
+
 That evening, by the time the Ares cabin passed inspection — floors clean enough to eat off, though nobody recommended it — the story had spread. The little drawing of two sisters as heroes was propped on the Ares mantel in a plain wooden frame, next to a freshly polished helmet and a pink ribbon someone from the Aphrodite cabin had left without a word.
 
 Percy thought about it all the way to dinner. How long you could keep love taped under your bed and pretend it wasn't there.
@@ -200,11 +372,11 @@ Percy thought about it all the way to dinner. How long you could keep love taped
 
 The Zeus cabin was different. It was too big, too clean, too empty.
 
-Thalia Grace stood in the middle of it with her hands in her leather jacket pockets, staring up at the high ceiling where dust moved in the light from the tall windows. The cabin was all white marble and storm-gray banners, with a single bunk made with military corners — Thalia's, when she stayed — and a throne-like chair nobody sat in. A statue of Zeus glowered in the corner.
+Thalia Grace stood in the middle of it with her hands in her leather jacket pockets, staring up at the high ceiling where dust moved in the light from the tall windows. The cabin was all white marble and storm-gray banners, with Annabeth's regularly used bunk, Thalia's bunk kept ready for visits, and a guest cot for Jason when a supervised visit was possible. A throne-like chair stood against the wall, unused. A statue of Zeus glowered in the corner.
 
-"It's weird cleaning a place nobody lives in," Thalia said when Annabeth arrived with vinegar and trash bags. "It's like cleaning a museum to my dad."
+"It's weird cleaning a place where Beth lives and still feeling like nobody is meant to," Thalia said when Annabeth arrived with vinegar and trash bags. "It's like cleaning a museum to my dad."
 
-"Jason stays here when he's here," Annabeth pointed out, opening windows. "And you do. And about twenty pigeons, judging by the rafters."
+"I stay here all year," Annabeth pointed out, opening windows. "Jason has a cot when he can visit, you have your bunk, and about twenty pigeons live in the rafters."
 
 Thalia snorted, but she grabbed a broom. "Chiron says we have to do the storage loft. Nobody's done it since— gods, since we actually cleared it out?"
 
@@ -282,6 +454,204 @@ Annabeth laughed until her stomach hurt. "Chiron is going to kill you."
 
 ---
 
+They were almost done when Thalia found an envelope that didn't belong with the others.
+
+It was tucked beneath the lining of the metal box, where a corner had come loose. She pulled it free carefully. The envelope had no stamp or address, only Jason's name in Beryl's slanting handwriting.
+
+Annabeth looked up from the blankets.
+
+"Do you want to open it?"
+
+Thalia turned it over. The flap had been glued shut, then opened once and pressed down again. She could see the edge of a photograph inside.
+
+"Mom must have looked at it," she said.
+
+"That doesn't tell us who she meant to give it to."
+
+Thalia held the envelope for a long moment. She had spent years making decisions for the family when the adults weren't there. She'd opened mail, packed bags, chosen roads and lied about being old enough to sign forms. She could tear into this envelope without anyone stopping her. The fact that she could do it didn't make the photograph hers.
+
+"I'm going to send it to him," she said.
+
+"Without looking?"
+
+"Yes. He gets to choose."
+
+Annabeth nodded and brought her a clean cardboard sleeve to keep the contents from bending. She wrote Jason's name on the outside, then stopped.
+
+"Can I put a note in?"
+
+"Sure."
+
+She wrote only a sentence: *We found this among Beryl's things while cleaning Cabin One. It's addressed to you. We didn't open it.*
+
+Thalia watched her fold the note.
+
+"Can you include that we're keeping the other pictures for now? He can ask for copies."
+
+Annabeth added it.
+
+There was a larger photograph on the floor beside the box. Beryl sat on a sofa with the children crowded around her. Thalia remembered the afternoon well. Beryl had been in a good mood and made pancakes after lunch. She'd let them stay in their pajamas until sunset and told them a ridiculous story about a famous actor who'd been afraid of a tiny dog. The next morning she hadn't gotten out of bed. Thalia had made breakfast herself, burned it, and persuaded Annabeth that toast didn't need to be perfectly brown.
+
+She looked at the picture now. Beryl was smiling. It was a real smile. Thalia had been there. So had the rest of the day, and the morning afterward.
+
+Annabeth saw where she was looking.
+
+"Do you remember when it was taken?"
+
+"Yeah."
+
+"Will you tell me?"
+
+Thalia hesitated. She could tell Annabeth about the pancakes and the story, the burnt toast. She didn't want her sister to treat the explanation as a new memory she was supposed to possess. They had tried too hard, early on, to make every rewritten childhood story feel as vivid as a remembered event. It had left both girls frustrated.
+
+"I can tell you what I remember," she said. "You can tell me how it sounds to you."
+
+"Okay."
+
+They sat on the clean blankets. Thalia described the sofa, the pancakes, the actor and the dog. Annabeth laughed at the silly part, then grew quiet when Thalia reached the next morning.
+
+"I don't remember it," Annabeth said. "I believe you. I just don't see the kitchen when I close my eyes."
+
+"I know."
+
+"Sometimes I wish I did."
+
+Thalia looked at the photograph. She knew her sister's older memories belonged to a different life, including the father and home Annabeth had once known. Thalia had no access to those experiences, and Annabeth couldn't borrow Thalia's. They'd been trying to live together without making either limitation an accusation.
+
+"Do you want a copy?" Thalia asked.
+
+"Yes. But I don't want the only story about Mom to be that she gave us pancakes one day."
+
+"Good. Because it wasn't."
+
+Annabeth took out her notebook and wrote a small label for the envelope: *One day Thalia remembers, with the following morning included.* Then she stopped and looked embarrassed.
+
+"Too much?"
+
+"No," Thalia said. "That sounds like something you would write."
+
+"It sounds like a museum label."
+
+"It sounds like you want to get it right."
+
+Thalia didn't tell her that the label made the memory easier to hold. It didn't flatten Beryl into a saint, and it didn't use the next day's silence to erase the previous afternoon. Both had happened.
+
+They sorted the remaining pictures by person and event, leaving some envelopes unmarked because neither girl knew what was in them. They didn't force the loose pieces into an invented chronology. For Jason they set aside copies of the photographs in which he appeared; those would go with the letter when the Roman contact confirmed where to send them safely.
+
+When the loft was clean, Thalia carried the metal box down herself. It was lighter than she'd expected. She placed it on the shelf near her bunk, where she could reach it on another visit without searching through winter blankets.
+
+Annabeth stood by the window, waiting.
+
+"Are you glad we kept it?" she asked.
+
+"Not exactly," Thalia said. "I'm glad we didn't throw it away before finding out what it was."
+
+Annabeth considered that, then smiled.
+
+Below them the spring-cleaning noise was still going. A satyr yelled that somebody had mixed the recycling and the donations; an Apollo camper replied that a broken lyre could be both. Thalia took the broom from behind the door and handed it to her sister.
+
+"Come on. The rest of the cabin isn't going to clean itself."
+
+They went downstairs without needing to decide what Beryl had meant to them forever.
+
+---
+
+Milo was waiting at the repair station when Percy and Tyson returned from the cabin rows.
+
+He had a stack of wooden braces under one arm and an expression Percy recognized from the autumn bridge tests: something had failed and Milo was deciding whether to swear or measure it.
+
+"How's the creek project?" Percy asked.
+
+Milo set the braces on a workbench. "Better than the first version. Worse than Annabeth thinks."
+
+"That's a dangerous thing to say where she might hear you."
+
+"I'll say it to her face."
+
+Percy helped him sort the pieces. The revised model from November had held the test weights after they'd shifted the supports and shortened the span, but the actual creek bank was still soft from winter thaw. The new problem wasn't whether their wooden beams could carry someone. It was whether the place they'd chosen could support a bridge without harming the roots of two trees and sending soil into the water.
+
+Milo handed Percy the old drawing. The measurements were Annabeth's, neat and consistent. There were three notes in the margin, each added on a different day.
+
+*Check frost depth. Verify bank after rain. Do not build from model alone.*
+
+Percy smiled. He'd seen her learn each of those lessons. He'd learned some of them beside her.
+
+"We aren't building it today," he guessed.
+
+"No. We're checking whether we should repair the existing path first. If people can use it safely, the bridge can wait until the bank settles."
+
+Tyson examined the braces. He had been excited about helping build a bridge, especially one designed by Annabeth. Now he looked mildly disappointed.
+
+"Maybe a better bridge later," he said.
+
+"Exactly," Milo replied.
+
+Chiron arrived with a list of spring maintenance priorities. The infirmary roof needed new guttering. Two boat racks were unsafe. The stables had a drainage problem. Percy glanced at the list and realized how expensive an ornamental creek crossing might look to the people waiting for a dry roof.
+
+"It's not ornamental," Annabeth said from behind him.
+
+Percy turned. She had come from Cabin One with dust on her sleeves and a fresh pencil in her hair. She'd heard him thinking aloud, apparently. He would never understand how she could do that.
+
+"I didn't say it was," he protested.
+
+"You were going to."
+
+He considered denying it, then stopped. "I was wondering what makes it a priority."
+
+She spread the plans on the workbench.
+
+"The old path floods after heavy rain. People avoid it by cutting through the roots on the bank. That damages the trees and makes the mud worse. The bridge is one way to solve that problem, but maybe it's not the cheapest way."
+
+Milo nodded. "That's what I wanted to discuss."
+
+They went over the alternatives. A raised gravel path might be easier to maintain. A smaller crossing could avoid the deepest part of the creek. Or they could wait until the summer campers returned and had enough hands to rebuild the approach properly.
+
+Percy watched Annabeth calculate cost and work hours. He liked her drawings, the way a few lines could make a future place visible. But the lesson she had learned in November showed in the questions she asked now: what would happen to the bank, what would freeze, and who would be responsible for checking it next winter.
+
+Tyson picked up one of the old braces.
+
+"I can make the fasteners," he said. "If we know where they go."
+
+"We don't know yet," Annabeth answered.
+
+Tyson set the brace down. He looked disappointed for another second, then offered to repair one of the broken boat racks instead. Chiron approved that immediately.
+
+Clarisse came across the plaza carrying a bucket of rusted buckles from the Ares cabin. She examined the bridge drawings without pretending to understand every detail.
+
+"Can you put a rail on it?" she asked.
+
+"If we build it," Annabeth said.
+
+"Good. Some of the younger campers run across things without looking. I don't want a narrow bridge with nothing to stop them falling in."
+
+Percy grinned. "Speaking from experience?"
+
+"Speaking from watching you run across things without looking."
+
+"That's fair."
+
+Annabeth wrote *handrail required* at the top of the plan. She didn't argue that the bridge would be beautiful enough without one.
+
+By the end of the discussion Chiron had approved a short survey after the next heavy rain. The bridge wasn't canceled. It had a clearer purpose and a route to the next decision. Milo kept the model in the workshop; Annabeth kept the plans; Tyson took the boat rack parts to the forge.
+
+Percy was left holding a bucket of rusty buckles.
+
+"What am I doing with these?" he asked.
+
+Clarisse pointed toward the sorting table. "You can start by separating the ones we can repair from the ones that are dangerous."
+
+"How do I tell?"
+
+"Ask the armorer. Don't guess."
+
+Percy carried the bucket over. It was dull work, performed under the supervision of someone who knew much more about metal than he did. He found it satisfying anyway. A buckle deemed unsafe would be melted down instead of returning to a shield. A sound one would be cleaned and reused. They had a real decision for each part.
+
+When the last buckle had been sorted, he looked back toward the workbench. Annabeth was arguing with Milo about the correct angle for a handrail post, both of them speaking quickly and sketching on the same page. Neither looked angry. They looked busy.
+
+The workshop would still have unfinished jobs at sunset. Percy had stopped believing spring cleaning meant making the whole camp perfect in one day. It meant finding what needed attention and leaving enough information that somebody could finish it properly.
+
+---
+
 By late afternoon, the whole camp smelled like lemon and vinegar and fresh-cut grass. Mattresses aired on every porch. Trash bags lined the paths like strange parade floats. The Hephaestus cabin had set up a repair station in the plaza — Leo Valdez shouting, "Bring me your broken! Your busted! Your mildly cursed!" while Nyssa tightened hinges and Harley threw away anything that smoked.
 
 Chiron rolled through in his wheelchair, inspecting with a clipboard and a handkerchief pressed to his nose against the dust. "Poseidon — pass! Ares — pass with distinction for the mantel! Zeus — pass, though please remove the sunglasses from my lord's likeness!"
@@ -312,7 +682,51 @@ Percy nodded at the share pile. "Like Clarisse's drawing?"
 
 "I wouldn't dare."
 
-They sat while the sun slanted lower. Grover came by with a bag of baby satyrs' lost socks for the share pile. Piper told the story of the ice skate — it was hers, from a mortal school ice show, before her dad got famous-really-famous. Leo told three different stories about the oracle mug, all lies, until Calypso hit him with a broom. Jason, on Iris-message from Camp Jupiter for all of five minutes, saw the photo Annabeth held up and went quiet and said, "Keep that one safe for me," and Thalia, standing behind Annabeth, said, "I will, little brother," and Jason grinned like the sun.
+They sat while the sun slanted lower. Grover came by with a bag of baby satyrs' lost socks for the share pile. Piper told the story of the ice skate — it was hers, from a mortal school ice show, before her dad got famous-really-famous. Leo told three different stories about the oracle mug, all lies, until Calypso hit him with a broom. Jason's Iris-message arrived while they were gathering the lost items into boxes. Reyna's courier had arranged a five-minute connection from Camp Jupiter, long enough for the siblings to speak without turning it into a public performance.
+
+Thalia moved to the side of the pavilion where the other campers could still see her but couldn't easily hear every word.
+
+"We found some pictures," she told him.
+
+Jason appeared in the rainbow wearing a purple camp shirt, his hair damp from training. He looked surprised.
+
+"What kind?"
+
+"Beryl's things. Old family pictures. There's also an envelope addressed to you. We haven't opened it."
+
+He was silent for a moment.
+
+"Can you send it?"
+
+"Through the agreed courier, yes. You can decide whether to read it."
+
+He nodded. Annabeth stepped into the light beside Thalia.
+
+"Would you like to see one photograph now?" she asked. "It's from when you were little. We don't have to show anything if you'd rather wait."
+
+Jason considered. Percy could hear only bits from where he sat with the others, but the hesitation was unmistakable.
+
+"One," Jason said finally. "The one Thalia likes."
+
+Thalia lifted the picture of herself holding the sparkler. She told him where it had been taken and admitted she remembered almost setting the end of her sleeve on fire. Jason laughed.
+
+"That sounds right."
+
+"You weren't in the picture," Thalia told him. "But you were there that summer, and I wanted you to know I remember."
+
+Jason's expression changed. He asked whether there were others. Thalia said there were, and she would send copies he could look through when he had time. She didn't hand the sealed envelope to anyone else or show it to the crowd.
+
+"Keep that one safe for me," Jason said, looking at the sparkler photograph again.
+
+"I will, little brother," Thalia answered.
+
+The rainbow began to fade. Jason gave them a quick wave before the connection vanished. Thalia stood still a moment longer, holding the picture by its edges.
+
+Annabeth took out a clean sleeve from the supply box and offered it.
+
+"For the courier packet," she said.
+
+Thalia accepted it. Across the pavilion, Percy returned to sorting the repair tools. He didn't ask what was inside the private envelope. Jason would tell them if he wanted to. There were enough other stories in the room to hear without asking for the one he had kept private.
 
 It was that kind of day. Dusty and tender. Everyone finding the kid they used to be under the bunk.
 
@@ -381,33 +795,127 @@ Annabeth leaned her head against his shoulder. "I like that."
 
 They sat there a long time, reading initials, making up stories for the ones they didn't know. The wind moved in the olive leaves. An owl called once from the woods.
 
-Percy pulled his camp knife from his pocket — the small utility one, not Riptide — and held it up. "Can we?"
+Percy reached for his camp knife.
 
-Annabeth looked at the altar, at Athena's name, at Zeus beside her. At all those small loves carved where they wouldn't hurt anything. At camp rules about defacing sacred property, which she knew by heart and could quote.
+"Can we?" he asked.
 
-She took the knife.
+Annabeth followed his gaze to the old carvings. There were names and initials stretching across the back of the altar, some worn almost smooth by decades of weather. The marks felt private, like letters written by campers who had believed this stone would keep them safe.
 
-"On the back," she said. "Small. Where it doesn't show from the front. Like the others."
+She took the knife from his hand, but she didn't touch the marble.
 
-Percy grinned. Together, knees touching in the dirt, heads bent close, they worked. Annabeth did the letters because her carving was neater — she'd had practice on workshop wood. Percy held the stone steady and told her when to press harder.
+"Not with this," she said.
 
-P.J. + A.G.
+Percy looked disappointed. "Because it's a shrine?"
 
-Small, neat, deep enough to last. Under it, Annabeth added a tiny owl and Percy added a tiny wave, overlapping, so the owl looked like it was riding the sea.
+"Because it's somebody else's shrine. And because we don't know whether all those marks were supposed to be here."
 
-They sat back.
+He looked again. The older carvings were half-covered with moss. A few had cracked at the edges where rain had reached the grooves. The stone wasn't as permanent as it had seemed from the path.
 
-"There," Annabeth whispered.
+"People have been doing it for years," he said.
 
-Percy put his arm around her. She leaned into him, dusty cheek against his dusty shirt. The shrine gleamed clean in the sunset. Their new offerings stood side by side — blue dolphin, wooden owl — guardians for all those initials.
+"That doesn't make it good for the stone."
 
-"We'll come back in ten years," Percy said, "and it'll still be here."
+Percy took the knife back and capped the blade. He had wanted to leave proof that he and Annabeth had been there together. It had seemed simple, a way to add their names to a list of people who'd loved one another in the same place. He didn't want to damage something that had been standing before either of them existed.
 
-"In twenty," Annabeth said. "With our— with whoever comes after us. We'll show them where to look."
+"What about a piece of wood?" he asked.
 
-Percy kissed the top of her head. "Promise?"
+Annabeth considered. "A wooden offering would be allowed if we check with the shrine keeper. But we'd have to choose something that doesn't litter the grove or interfere with the altar."
 
-"Promise," Annabeth said, and held up her pinky, camp-solemn. Percy hooked his pinky through hers.
+"You're turning this into a building permit."
+
+"You're dating someone who reads building permits for fun."
+
+"Fair."
+
+They looked at the initials again. It occurred to Percy that they didn't know whether most of the pairings were lovers, siblings or friends. They'd been assigning stories to names because it was tempting to imagine every mark belonged to somebody they could recognize.
+
+"Do you think the one that looks like Silena and Clarisse is really theirs?" he asked.
+
+"It could be. It could also be two people with the same initials. Even if it is them, it might not mean what we're guessing."
+
+Percy thought of Silena's old drawing of Clarisse, found in the Ares cabin earlier that day. Those girls hadn't needed a shrine to prove how long they'd known each other. The paper had survived tucked away under a bench, and almost nobody had known it existed.
+
+"We could ask them," he said.
+
+"If they want to tell us."
+
+Percy grinned. "They'll probably argue over which one carved it."
+
+"They'll argue over the handwriting even if it isn't theirs."
+
+They took a small rubbing of the most fragile portion of the initials onto a sheet of thin paper from Annabeth's field notebook. She made sure not to press against the crumbling edge. It wasn't an official conservation method, and she planned to ask Chiron how older marks should be documented before anyone tried to clean that part of the altar again. The rubbing was a reference for the question, not proof of who had carved anything.
+
+Percy looked at the page when she finished. The shapes seemed smaller away from the stone, ordinary letters with no names attached.
+
+"Maybe that's enough," he said.
+
+"Enough for what?"
+
+"To remember that we were here. I don't think we have to prove it to the gods."
+
+Annabeth sat beside him on the step, the notebook across both knees. She drew the grove in a few quick lines: the olive trees, the two altars, the little stone path and the bucket of rags. Percy watched the drawing grow. She put two small figures at the bottom of the steps, one holding a bottle and the other holding a brush.
+
+"You made me too short," Percy said.
+
+"You are short from this angle."
+
+"I'm taller than the bucket."
+
+"Not in my drawing."
+
+He reached for the pencil. She let him add a wave beside the lower edge and a tiny owl on one branch. Neither symbol was carved into sacred property; neither had to be read by a god as a permanent demand.
+
+Percy wrote the date at the top. Annabeth added both their names beneath it.
+
+"That's us," he said.
+
+"On a page."
+
+"Which can get lost."
+
+"Yes. So we should make a copy."
+
+Percy laughed. "Now we're back to filing systems."
+
+"You're welcome."
+
+They folded the page and put it inside the waterproof notebook Annabeth had traded for at the end of summer. Percy decided he would ask Silena if she could make a proper protective sleeve for it. The image would be theirs to keep, show or leave private. It didn't need to sit on the altar where strangers might guess at the names.
+
+Then they finished cleaning the small area around the carved marks. Annabeth avoided scraping moss that had grown into cracks and left a note for Chiron about the stone's condition. Percy took the bucket to refill it once more.
+
+When he returned, she was still looking at the shrine.
+
+"Are you disappointed?" she asked.
+
+"A little. I wanted to do something that would last."
+
+She looked at their blue-glass dolphin and wooden owl resting among the fresh offerings.
+
+"We did."
+
+He leaned down to inspect them. They were modest things, not great declarations. The dolphin might break someday. The owl might rot. Percy knew now that even names cut into stone could be worn away by rain.
+
+"Then we can come back next spring," he said.
+
+"And clean them again."
+
+"Together?"
+
+She looked up at him with the expression he knew better than any other, an amused certainty that didn't need an audience.
+
+"Of course," she said.
+
+Percy put his arm around her for a moment. She leaned against him, both of them dusty and tired. The shrine was cleaner than when they'd found it, and they hadn't damaged any of its old marks to add their own.
+
+He thought Chiron would be pleased. He also thought it mattered that they had chosen the smaller gesture when the larger one would have been easier to dramatize.
+
+They collected the rags and the brushes. The grove smelled of wet stone and olive leaves. When they turned toward the path, Annabeth stopped long enough to check that neither of them had left a tool behind.
+
+"All clear," she said.
+
+Percy lifted the bucket. "Good. Because I'm starving."
+
+She took his free hand. The two of them started down the steps while the altars stood behind them, old and weathered and no less sacred for containing things they couldn't explain.
 
 Below, the dinner horn blew, long and low. Lights came on in the cabins, warm squares in the dusk. Someone — probably Tyson — shouted, "PERCY! ANNABETH! WE SAVED YOU BLUE COOKIES!"
 

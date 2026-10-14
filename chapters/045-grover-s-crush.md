@@ -306,11 +306,118 @@ Five pairs of eyes stared at him.
 
 "Oh gods," Grover said. "I have to give it to her."
 
+
+---
+
+An hour before dinner, Percy discovered that being part of a committee came with a problem. The committee thought the note belonged to the committee.
+
+Silena had borrowed Annabeth's final copy to check the fold. Thalia had made a suggestion about the opening. Clarisse had announced that any romantic letter beginning with *Dear Juniper* ought to end with something better than *Sincerely*. Ella wanted a drawing of a strawberry in the corner. None of them had noticed that Grover had stopped speaking.
+
+Percy noticed because he had been sitting beside Grover long enough to feel the nervous tapping of his hoof through the bench.
+
+They were under the pavilion roof, the evening light making copper strips across the tables. Annabeth had gone to get another sheet of papyrus from the Big House. Silena was explaining the difference between a letter and a card. It would have been useful advice for somebody else.
+
+"Can I see it?" Grover asked.
+
+Silena gave him the papyrus. "Of course. I only changed the folds. Look, it opens like this, and the message is still the first thing she'll see."
+
+Grover unfolded it. His lips moved over the words. Percy could tell exactly when he got to the last line, because his ears stopped twitching.
+
+"That's not what I wrote."
+
+"Well, we cleaned it up," Silena said. "You wanted help."
+
+Grover traced the last sentence with a finger. "I said I liked listening when she hums while she works. This says she makes the whole forest sing."
+
+"That's prettier," Silena said, then looked at him properly. "Isn't it?"
+
+"No." His voice was so quiet Percy nearly missed it. "It's not even true. The forest sings without her. That's one of the things I like about her. She listens before she starts."
+
+Nobody said anything for a moment.
+
+Percy took a breath. He could have rescued the conversation with a joke, something about Silena's poetry threatening the local wildlife. He almost did. Then he thought about what he'd told Grover that morning, that he didn't have to become somebody else for Juniper to like him. Apparently that advice also applied to the people helping him.
+
+"Give him his first draft back," Percy said.
+
+Clarisse frowned. "You can't give somebody a first draft. It's a first draft."
+
+"He's giving somebody a letter," Percy said. "Not turning in an essay."
+
+Thalia's eyebrows went up. "You're taking this seriously."
+
+"It's his."
+
+That ended the argument, or at least the loud part. Silena reached into her satchel and found the sheet they had started with. It was creased, and the corner had a muddy thumbprint where Grover had caught it when Annabeth dropped the wax tablet. His letters leaned uphill. One word had been crossed out four times.
+
+Grover held the two versions side by side.
+
+"Mine's embarrassing," he said.
+
+"Mine was worse," Percy told him.
+
+"When did you write a love letter?" Clarisse asked immediately.
+
+"Never. That's how bad it was."
+
+She stared at him, deciding whether to be annoyed. Percy didn't wait. He slid the cleaner papyrus toward Grover.
+
+"You can make a new copy in your handwriting. Keep the part you actually meant. Annabeth will help if you can't spell something, but you get to pick the words."
+
+Grover looked at Silena first. Her expression had changed. She was staring at her own neat folds with the embarrassed concentration she usually reserved for a seam she'd stitched backward.
+
+"I got carried away," she said. "Sorry, Grover."
+
+"I liked the fold," Grover admitted. "It's the singing forest part I don't want."
+
+Silena nodded. "Then don't use it. I'll show you how to fold your version."
+
+Thalia leaned back and pushed one boot against the bench. "For the record, I didn't touch the middle."
+
+"You wanted him to sound mysterious," Clarisse said.
+
+"I wanted him to stop apologizing in every sentence."
+
+"That's because he's Grover," Percy said. "His favorite words are sorry and please and where did my lunch go."
+
+Grover snorted. It wasn't much, but it was the first noise he'd made in several minutes that hadn't sounded like a hoof caught in a door.
+
+Annabeth returned carrying two fresh sheets and a stylus, took one look at their faces, and set everything down.
+
+"What did I miss?"
+
+"Grover's decided to use his own words," Percy told her.
+
+"Good," she said, with a quick nod that made it clear she thought this should have been obvious from the beginning. "What do you want checked?"
+
+"Spelling," Grover said. "Just the spelling."
+
+They spent the next twenty minutes at a quieter table. Percy kept the others occupied by asking Clarisse how she would respond to a declaration of love delivered during spear practice. Her answer involved making sure the admirer wasn't holding the spear. Silena taught Ella how to fold a square of scrap papyrus into a little pouch. Thalia went to collect the tools she had abandoned at the arena.
+
+Annabeth sat beside Grover rather than across from him. She pointed out two misspelled words, asked whether he meant the old bramble or the new one, and handed his stylus back without making the choice for him.
+
+Percy watched Grover write the last line himself.
+
+He paused a long time over the space beneath it. Then he added a postscript.
+
+*You don't have to write back fast. The letter can wait.*
+
+It was not something any of the rest of them would have suggested. Percy thought it was the best line on the page.
+
+Grover folded it the way Silena showed him, badly at first. Silena didn't reach over to fix it. She waited until he asked where the corner went, then demonstrated on a piece of scrap.
+
+When he finished, the note was slightly crooked and completely his.
+
+"Now," Grover said, swallowing hard, "I just have to give it to her."
+
+"Yep," Percy said.
+
+The others were tactful enough not to cheer.
+
 ---
 
 Giving the note to Juniper turned out to be harder than writing it.
 
-Grover carried the folded note — Annabeth had copied it neatly onto real papyrus, because wax tablets were not romantic, according to Silena — in his pocket all through sword practice, dinner prep, and capture-the-flag strategy meeting. He kept patting his pocket to make sure it was still there. By dinner, the papyrus was soft and a little damp from nervous hoof-sweat. Annabeth made him copy it over again on a fresh sheet.
+Grover carried the folded note, written out again in his own uneven hand and folded with Silena's help, in his pocket all through sword practice, dinner prep, and capture-the-flag strategy meeting. He kept patting his pocket to make sure it was still there. By dinner, the papyrus was soft and a little damp from nervous hoof-sweat. Annabeth made him copy it over again on a fresh sheet.
 
 "You can do it after dinner," Percy coached, walking with Grover to the pavilion. "Just walk up, say hey Juniper, I wrote this for you, hand it over, and walk away if you need to. You don't have to wait while she reads it."
 
@@ -414,6 +521,115 @@ Grover stood slowly, still dazed, still holding the leaf that had wrapped Junipe
 
 "Okay," he said. "Let's practice."
 
+
+---
+
+They had barely made it past the strawberry fields when Grover stopped walking.
+
+Percy had been explaining why a song with a donkey noise in it was memorable, if not necessarily romantic. Annabeth was arguing that memorable was not the quality they were aiming for. Ella, who had been riding on Percy's shoulder, was conducting an imaginary orchestra with a twig.
+
+Grover stared toward the irrigation ditch.
+
+"That's wrong," he said.
+
+Percy followed his gaze. The little channel ran beside the north rows, where the berry plants were thickest. One of the wooden sluice boards had slipped out of its groove. Water was flowing over the bank, cutting a pale trail through the earth toward a stand of young maples. The nearest strawberry plants drooped under the mud.
+
+"It's a leak," Percy said.
+
+"I know what a leak looks like." Grover set his pipes carefully in the grass. "That's the channel I cleared yesterday. It wasn't doing that at noon."
+
+Annabeth crouched by the first broken board. "The retaining peg's come loose. Someone could put it back."
+
+Grover's face tightened. "Someone was supposed to check it before dinner."
+
+"You?" Percy asked.
+
+"Me." Grover rubbed a hand over his horns. "Chiron gave me the north rows this week. I got distracted."
+
+Percy looked toward the creek where they were supposed to practice. He wanted to say it was no big deal. It wasn't a monster, or an army, or even a particularly impressive flood. He could call the water back into its channel in a second.
+
+But the mud was already moving toward the maples, and Grover was staring at it with the same dreadful concentration he'd given the undelivered note.
+
+"We can fix it," Percy said.
+
+"I can fix it," Grover answered. He sounded tired, not angry. "You can help if you want."
+
+Annabeth found the missing peg half buried in the bank. Its head had split. She held it up. "This won't last another hour."
+
+Grover examined it, then took a small knife from his belt and cut a fallen branch from the ground. It was already dry, the bark loose. He shaved it into a wedge with swift, practiced strokes.
+
+Percy had seen Grover trip over his own hooves in an empty hallway. He'd also watched him guide injured campers through woods nobody else could navigate. It was easy to remember the first version of him when Grover was embarrassed. Percy sometimes forgot about the second.
+
+"What do you need me to do?" Percy asked.
+
+"Keep the channel slow while I put the board back. Slow, not dry. The lower rows still need water."
+
+Percy crouched at the edge and put one hand over the ditch. The current eased. He didn't pull the water away. Grover had been exact about that, and he had a reason. The soil downstream was cracked in places. Those plants were thirsty.
+
+Annabeth held the board at the proper angle. Grover tapped his wedge into the groove with the heel of his knife. Once it seated, he packed the gap with clay and a handful of pebbles, then built a shallow ridge to keep the next surge from spilling onto the maples.
+
+"That'll hold until I can get another board," he said.
+
+Percy let the flow resume. Water pressed against the wood. The wedge stayed in place. The channel curled around the last corner toward the berries.
+
+It wasn't finished, though. Grover walked the length of the affected row, checking the roots of every plant that had been washed bare. Some he covered with fresh soil. Two he carefully lifted and replanted on higher ground. At the far end he found a young strawberry vine trapped under a broken slat and freed it.
+
+By the time he returned, the knees of his jeans were wet and the sky had turned orange over the Sound.
+
+"You're missing practice," Annabeth said.
+
+"I know." He bent to pick up his pipes. "But those plants wouldn't have waited until morning."
+
+"Juniper would understand," Percy said.
+
+Grover looked at him.
+
+Percy heard how it had sounded. He'd managed to make Grover's work into another part of impressing Juniper, another move in their ridiculous plan. He tried again.
+
+"No. That's not what I meant. I mean, you would've done that if you'd never met her."
+
+Grover studied the muddy bank. "Yeah. I would."
+
+The wind picked up, and the leaves of the young maples rubbed together above them. It was a thin, ordinary sound. Ella lifted her head and listened with great seriousness.
+
+"Trees are satisfied," she announced.
+
+"I don't speak maple," Grover said.
+
+"Not with those ears," Ella agreed, which wasn't fair to him at all.
+
+He laughed. Percy was relieved to hear it.
+
+They followed the creek uphill. Annabeth carried the spare board they'd found beside the ditch, because she wanted to measure it against the broken one tomorrow. Percy carried Ella's twig, which had been promoted from conductor's baton to a weapon against imaginary owls. Grover carried his own pipes.
+
+Near the practice rock he slowed again.
+
+"Can I ask something without all of you making it a thing?" he said.
+
+"Probably not," Percy said. "But you can ask."
+
+"If Juniper doesn't like the song, do I still have to play it for her?"
+
+Annabeth stopped. "No. Why would you?"
+
+"Because everybody worked on it. And I said I would. And she was nice about the note." Grover shifted the pipes against his palm. "I don't want her to think she owes me a reaction just because I practiced."
+
+Percy sat on the grass. "Then you play it because you want to share it. You don't play it for an answer."
+
+Grover looked from him to Annabeth, making sure there wasn't a second rule he'd missed.
+
+"You can stop halfway through," Annabeth added. "You can play something else. Or talk. The point isn't to make the plan work."
+
+"The point is to see her," Grover said.
+
+"Yeah."
+
+He put the pipes to his mouth and played a few tentative notes. The last note still sounded like an unhappy donkey, but the beginning made the leaves beside the stream shiver.
+
+Percy leaned back on his elbows and listened. He no longer felt in charge of Operation Help Grover.
+
+That seemed to be an improvement.
+
 ---
 
 They practiced until the fireflies came out.
@@ -456,6 +672,133 @@ Grover thought about it, turning his pipes over in his hands. Then he nodded.
 
 Percy closed his eyes and listened, and hoped Juniper was under her tree reading her note and humming along.
 
+
+---
+
+They put the pipes away before it was fully dark.
+
+Grover had finally got the ending right three times in a row. Percy wanted him to play it a fourth time, partly for luck and partly because he had never seen Grover look so pleased with anything he'd made. Annabeth, who understood the dangers of over-rehearsing better than Percy did, said to stop while it sounded good.
+
+Grover agreed. Then he sat on the rock and didn't move.
+
+"Are you okay?" Percy asked.
+
+Grover nodded. He was looking at the trees beyond the creek, where the narrow path led to Juniper's favorite maple.
+
+"I don't know what happens after," he admitted.
+
+"After the song?"
+
+"After she says yes. Or no. Or whatever she says." Grover turned the reeds gently in his hands. "If we start going out, will everyone expect me to talk about it? The Stolls already ask me about Juniper every time I walk past. They don't mean anything bad. It's just..."
+
+He searched for the word.
+
+"Exhausting," Annabeth supplied.
+
+"Yes."
+
+Percy pulled a piece of dry grass loose and rolled it between his fingers. Most of his friendship with Grover had been built around trouble. They were good at solving urgent things together, sometimes by accident. Percy wasn't sure they'd ever had a conversation about how much attention a person could reasonably stand.
+
+"You can tell them to stop," he said.
+
+"I do. Then they laugh. Then I laugh because I don't want to make it weird."
+
+"You might have to make it weird," Annabeth said. She sounded certain, but she looked uncomfortable too. Percy suspected she was remembering the number of people she'd recruited to help with the note.
+
+Grover studied her. "Would you mind?"
+
+"If somebody asked me to stop planning your life? I might mind for five minutes." She rubbed a thumb over a wax smear on her palm. "Then I'd probably admit they were right."
+
+Percy glanced at her. He was used to Annabeth having a plan and used to being the person who interrupted it. He hadn't thought about how often she made those plans for people who hadn't asked.
+
+"So what do you want tomorrow?" he asked Grover. "Not what would make a good story. What do you actually want?"
+
+Grover thought for a while. In the darkening creek the frogs started their evening noise, a series of small, badly timed croaks. He listened until they went quiet.
+
+"I want her to be able to hear the song," he said. "Not everybody. Just her. If you two are nearby, that would help. Ella too, I guess, unless she starts narrating."
+
+From a low branch, Ella looked offended. "Narration is educational."
+
+"You're supposed to be quiet," Grover told her.
+
+"Quiet is also educational," she conceded.
+
+Grover continued. "I don't want Clarisse shouting. Or people throwing flowers while I'm trying to play. And I don't want Juniper to come out from under her tree and discover half the camp staring at her."
+
+Percy felt an unpleasant little pinch in his stomach. During the afternoon he'd been imagining how good it would be to watch Grover succeed. The picture in his head included cheering, and everyone recognizing that Grover had been brave. In none of those imagined pictures had he bothered to ask whether Juniper would like an audience.
+
+"Okay," he said. "No audience."
+
+"Not none," Grover said. "I want you there. In case I forget how breathing works."
+
+"You can have us there," Annabeth said. "Only us, unless Juniper wants somebody else."
+
+There was a pause. Percy heard an owl beyond the cabin roofs.
+
+"How are we going to explain that to our sisters?" he asked.
+
+Annabeth grimaced. "We talk to them."
+
+"Clarisse won't like being told where she can stand."
+
+"Then she can dislike it somewhere else."
+
+That made Grover laugh so suddenly he startled Ella off her branch. She fluttered into Percy's hair, complaining about unforeseen aviation hazards.
+
+Percy helped her down and stood. "I'll handle Cabin Three."
+
+"And I'll talk to Thalia," Annabeth said.
+
+"Don't threaten anyone for me," Grover told them.
+
+Percy blinked. "I wouldn't."
+
+Annabeth looked at him.
+
+"Okay," Percy conceded. "I won't now."
+
+He walked back with Grover while Annabeth went toward Cabin One. They reached the pavilion just as Clarisse and Silena were carrying in a stack of practice shields from the field. Clarisse had a shield under each arm and was asking Silena whether a satyr could actually polish a reed pipe with olive oil.
+
+"Don't," Grover called before they could see him properly.
+
+They both stopped.
+
+"Don't what?" Clarisse asked.
+
+"Don't make the song a big camp event," Grover said. His voice wasn't loud, but he didn't seem to need it to be. "I want to play for Juniper. I don't want to play for the cabins. Please don't tell everybody when or where."
+
+Clarisse opened her mouth.
+
+Silena caught her elbow. "We can do that."
+
+Clarisse frowned. "I was going to say we can do that."
+
+"Then say it," Percy told her.
+
+"We can do that," Clarisse repeated with great reluctance. "I don't understand why anybody would turn down a free concert, but fine."
+
+Grover's shoulders eased.
+
+Silena set the shields against the wall and came closer. "You want help carrying anything? Blankets, water?"
+
+"Maybe water," Grover said. "But ask me tomorrow."
+
+"Tomorrow," she agreed.
+
+It wasn't a victory speech, and nobody hugged. Percy liked it better that way. Grover had asked for a thing, and the people around him had listened.
+
+As they separated at the cabin path, Grover glanced back.
+
+"Percy?"
+
+"Yeah?"
+
+"Thanks for not telling me what I should want."
+
+Percy nearly joked that he'd run out of ideas. Instead he said, "You would've told me if I had."
+
+Grover looked at the reeds in his hand and smiled. "I think I would."
+
 ---
 
 Juniper sent her answer at breakfast.
@@ -476,7 +819,7 @@ Thank you for the note. I read it three times under my tree. My tree liked it to
 
 I remember spring too. You played even though your hands hurt. I hum your song when I'm lonely. I didn't know you hummed my song too. That makes me happy.
 
-Yes, please play the new song for me. Tomorrow at sunset, by the north bushes? We can see if the berries like it. I will save you a seat on the soft moss. No thorns, I promise.
+Yes, please play the new song for me. Tonight at sunset, by the north bushes? We can see if the berries like it. I will save you a seat on the soft moss. No thorns, I promise.
 
 Your friend (and maybe more than friend, if you want to see how the song goes),
 
@@ -496,11 +839,148 @@ Annabeth was smiling so wide it looked like it hurt. She punched Grover lightly 
 
 They hugged him, straw and all. Ella fluttered in and joined the pile.
 
-Word spread fast, because camp was camp. By lunch, everyone knew Grover was going to play for Juniper at sunset by the north bushes. Clarisse claimed credit for the confidence. Silena claimed credit for the papyrus. Thalia claimed credit for the cool. Annabeth let them, because she knew who had actually done the work, and so did Percy, and so did Grover.
 
-"They're going to come watch, aren't they?" Grover said anxiously that afternoon, pacing behind the cabin while Percy helped him pick out a non-chewed shirt and Annabeth helped him comb burrs out of his fur. "Everyone's going to watch me be nervous in public."
+---
 
-"They'll be respectful," Annabeth promised. "I'll make them. I'll set boundaries. Cones. String. Threats."
+The plan lasted until somebody wrote it on the Hermes cabin noticeboard.
+
+Percy learned this from Connor Stoll, who ran up to him behind the arena carrying a charcoal-smudged sheet of scrap papyrus and looking pleased with himself.
+
+"Hey, is this yours?"
+
+The sheet announced, in enormous letters, GROVER'S BIG SONG FOR JUNIPER, SUNSET, NORTH BUSHES. Below that was a badly drawn satyr standing on a heart. Someone had added a second heart with an arrow through it.
+
+Percy stared.
+
+"No."
+
+"Really? I figured you and Annabeth were organizing." Connor pointed at the paper. "There's a signup for people who want to bring instruments. Travis thinks we can have an opening act."
+
+"Don't have an opening act."
+
+Connor hesitated. "Percy, I already told a bunch of people."
+
+"Then tell them it's canceled."
+
+"The song?"
+
+"The audience."
+
+Connor looked more bewildered by that than if Percy had told him the gods were moving Olympus to New Jersey.
+
+"Everybody likes Grover," he said. "We want to be nice."
+
+"I know. He likes you too. That's why he doesn't want to embarrass you by saying he doesn't want you there."
+
+It was a longer sentence than Percy had planned to say. Connor studied him for a second, then folded the announcement.
+
+"So if we don't go, that's being nice?"
+
+"That's what he asked for."
+
+"Okay," Connor said, and headed back toward the cabins. He looked disappointed but not offended. Percy counted that as progress.
+
+At lunch the story had acquired two additional instruments, a set of fireworks, and the rumor that Grover was going to propose. Percy found Clarisse at the sword racks telling an excited group of younger campers that there would be no fireworks and absolutely no proposing. She had apparently taken the prospect of crowd control as a military problem.
+
+"It got out," she told him when the younger kids scattered. "Not from us. From a Hermes kid who heard Ella practicing her poem."
+
+"Ella!"
+
+A voice came from above the rafters. "Research requires interviews!"
+
+"Your research needs to stay out of other people's business," Percy said.
+
+Ella dropped onto a beam and folded her wings. She looked wounded.
+
+"I thought a lot of people would be happy for him."
+
+"So did I," Percy said, because it was true. "But he's allowed to be happy without an audience."
+
+The look Ella gave him suggested this was an idea she would need time to consider. He left her with Clarisse, who promised to explain it using a comparison to sword drills in the changing rooms. Percy didn't ask for the details.
+
+He found Grover beside the Big House, staring at a second handbill someone had pinned to the porch. This one had a sketch of a laurel crown.
+
+"It's not a bad drawing," Grover said when Percy arrived. "They got my horns right."
+
+"I talked to Connor."
+
+"Thank you."
+
+"We can take down the handbills."
+
+Grover nodded, but he didn't move. Percy waited.
+
+"Juniper might have seen one," Grover said.
+
+"Probably."
+
+"And if she has, she might think I organized all this. Or that I want her to sit in front of a hundred people and listen while they watch her face."
+
+Percy wanted to promise that Juniper would know better. But he remembered what it had felt like when he saw somebody else talking to Annabeth over graph paper, and how quickly his own head had filled with a story the other person hadn't written.
+
+"Then maybe you should tell her," he said.
+
+Grover looked alarmed. "Now?"
+
+"Before the song. You don't have to practice saying it."
+
+"I don't know if you've noticed, Percy, but practicing is what I do when I don't know how to say something."
+
+"Okay. You can practice once. I'll listen."
+
+They walked around the Big House together. Grover tried three versions. The first was a ten-minute apology that Percy lost the thread of somewhere around the words *public announcement*. The second blamed Ella, which wasn't fair, and Grover knew it. The third was brief enough that Percy remembered it.
+
+"Some people heard about our music tonight. I didn't invite them. Would you rather it be just us?"
+
+"There," Percy said. "That's the one."
+
+Grover went toward the north bushes alone. Percy waited by the path and did his best not to spy. That lasted roughly twenty seconds, after which he became intensely interested in a caterpillar eating a leaf at his feet. The caterpillar was getting more out of lunch than he was.
+
+A few minutes later Grover returned. His cheeks were red.
+
+"She said just us," he reported.
+
+"Good."
+
+"She said she likes the other campers, but she wants to hear the music without worrying about everybody watching her. She said she'd rather have the trees listen."
+
+Percy exhaled. "That's a pretty good audience."
+
+"She also said Clarisse and Silena and Thalia can stay by the fence, if they want. She knows they helped. Ella can come too, if she promises not to read a poem."
+
+"Did you promise on Ella's behalf?"
+
+Grover looked horrified. "Oh gods. I did."
+
+Percy laughed. Then they went to find Ella and negotiate.
+
+By afternoon, the arrangement was simple, although getting there had required the help of Chiron and a stern conversation with both Stoll brothers. There would be no camp audience and no opening act. The Apollo cabin could hold its regular music practice in the amphitheater, where anyone wanting a concert was welcome. Clarisse would send people there rather than to the north bushes. Silena would bring water and then stay by the fence unless asked to move closer. Thalia would make certain Annabeth did not turn the clearing into a military perimeter. Annabeth had objected to this last assignment, but not very convincingly.
+
+Grover heard all of it, then said, "Can we leave the maples alone? No ribbons or decorations?"
+
+"Yes," Annabeth said. She crossed out a line on her wax tablet.
+
+"And no announcements if she likes the song?"
+
+Percy glanced at Clarisse.
+
+"What?" she said. "I'm capable of keeping my mouth shut."
+
+Everybody looked at her.
+
+"For a whole song," she amended.
+
+Grover took his pipes out of their case and ran a thumb over the reeds. He was still nervous. Percy doubted that anything short of a miracle would change that.
+
+But he was no longer being carried toward sunset by other people's plans. He had made one of his own.
+
+---
+
+By late afternoon, half the cabins had heard one version of the story or another. Clarisse claimed credit for helping Grover find his nerve. Silena claimed credit for teaching him how to fold the papyrus. Thalia claimed credit for nothing except keeping the audience away. Annabeth let them talk, but she checked with Grover one last time before she packed the cue cards.
+
+"They might still come watch, mightn't they?" Grover said anxiously that afternoon, pacing behind the cabin while Percy helped him pick out a non-chewed shirt and Annabeth helped him comb burrs out of his fur. "I don't want to look up and discover a hundred people watching me."
+
+"They won't get past Clarisse," Annabeth promised. "I'll make them. I'll set boundaries. Cones. String. Threats."
 
 "I'll stand in front," Percy said. "So you have someone to look at if you get scared. Just look at me. I'll give you thumbs up."
 
@@ -514,13 +994,13 @@ Grover laughed, nerves easing just a fraction. "Okay. Okay. Sunset. Pipes. Song.
 
 "You can," Percy said.
 
-At sunset, half of camp ended up by the north bushes, despite Annabeth's cones and string and threats.
+At sunset, the north bushes were almost quiet. Percy and Annabeth sat near the fence with Ella; Clarisse, Silena, and Thalia waited farther back, exactly where Grover and Juniper had said they could. From the amphitheater on the other side of camp came the distant sound of Apollo cabin practicing a lively song that nobody would confuse with Grover's.
 
-But they were good about it. Clarisse kept the younger kids quiet. Silena handed out wildflowers. Thalia nodded encouragement from the fence.
+Clarisse turned away two curious campers before they reached the clearing. Silena kept the water nearby and held onto the flowers she'd thought about bringing. Thalia nodded encouragement from the fence.
 
 Juniper was already there, sitting on soft moss under her favorite young maple, wearing the vine ribbon and a crown of the white flowers that bloomed when she laughed. She had saved the seat beside her, patting the moss smooth over and over.
 
-When Grover walked into the clearing with his pipes, carrying a single perfect strawberry in his pocket for after, the whole crowd held its breath.
+When Grover walked into the clearing with his pipes, carrying a single perfect strawberry in his pocket for after, the little group of friends fell silent.
 
 Percy saw Grover's knees shake. He saw him look at Juniper, then panic, then look for Percy.
 
@@ -546,7 +1026,7 @@ Then Juniper started crying — happy crying, leaf-paste-smelling hanky to her e
 
 Around them, the strawberry plants along the north row stood straighter, leaves lifted toward the music like they were still listening.
 
-The crowd erupted.
+Their friends broke into cheers, loud enough to celebrate him but not loud enough to drown him out.
 
 Clarisse whooped. Silena threw wildflowers. Thalia whistled. Ella fell out of her tree and was caught. Annabeth cheered and grabbed Percys arm.
 
@@ -560,7 +1040,7 @@ Juniper took it, bit half, and gave him the other half. They ate it together, la
 
 "Hand-holding! Strawberry-sharing! All correct! Sweet! Sweet! Sweet!" Ella cheered.
 
-Later, when the crowd finally drifted off to dinner, Percy and Annabeth stayed a minute longer.
+Later, when their friends had gone ahead to dinner, Percy and Annabeth stayed a minute longer.
 
 Grover and Juniper sat on the moss, not talking much, just humming together. His low pipe-hum, her leaf-hum, fitting together like they had always known how.
 
@@ -588,7 +1068,7 @@ The three of them walked back to the pavilion together, while from the north bus
 
 Grover's song, finally finished, played for the girl who had always liked his beginning.
 
-And the whole camp, for once, agreed on something: some kinds of bravery deserved cheering.
+Not everybody at camp had heard the song. Percy was beginning to think that was the point. The people it belonged to had heard every note.
 
 ---
 

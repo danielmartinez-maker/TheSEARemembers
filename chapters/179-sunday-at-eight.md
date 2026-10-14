@@ -558,9 +558,30 @@ After a second, Thalia put her hand in it.
 
 "And nothing. And he's got a bad draw on the release and everybody knows it." Thalia squeezed her hand once, hard, the way she did when she was telling somebody something she was not going to say, and then she let go and took the cup back and said, "Eggs. Tomorrow. I'm making them before training, and this time *nobody* gets to stand at the stove calling it a crime."
 
-Nobody asked about her heel. Percy, coming in from the porch with an armload of wood and the cold in his hair, did not ask about it either, and Annabeth did not look at him when he came in, and did not need to.
+Percy came in carrying the last armful of wood, his hair full of cold air and his sleeves brushed with bark. He stopped at the sight of Thalia sitting with Annabeth and the cup still between them.
 
-The tenth lantern burned on its hook by the door all evening, and then all night, because nobody in Cabin Three had ever yet been the one to go out and put it out, and nobody in Cabin Three was going to be first.
+"Did I miss breakfast?" he asked.
+
+"It's evening," Silena told him.
+
+"That doesn't answer my question."
+
+"Then you'll have to wait until morning."
+
+He stacked the wood beside the stove and washed his hands before reaching for bread. Clarisse checked the winter list, where the ridge survey had been marked complete. The little note about Thalia's heel was still on the folded sheet beneath it. She had not asked the question yet.
+
+Thalia rose to put the cup away and caught her heel on the edge of the bench. Her expression changed for a fraction of a second. Annabeth noticed, though she didn't move to help. Clarisse pretended to be occupied with the list until Thalia had her balance.
+
+"Eight tomorrow?" Thalia asked.
+
+"Eight for breakfast. Later for drills," Clarisse said. "And if you're making the eggs, I'm taking the pan away the moment they start sticking."
+
+"You haven't seen my technique."
+
+"That's the problem."
+
+Thalia grinned despite herself. Annabeth carried the cup back to the shelf. Percy took the kettle to fill it, and Silena went to find the last clean towel. Their evening was busy enough without everybody turning to watch Thalia walk. Clarisse folded the notebook shut and decided she'd ask after the morning meal, when they weren't all around the same table.
+
+At the door, Percy checked that the lantern's wick was drawing evenly. He lowered the flame a little, away from the glass, and came back in without announcing what he'd done.
 
 ---
-

@@ -120,7 +120,7 @@ Clarisse stepped forward before Silena could push her. She stood straight, chin 
 
 Amphitrite's expression changed. Percy felt it — the slight tightening of her arm around him, the way her smile went softer and more careful.
 
-He remembered, suddenly, with a lurch: Clarisse and Silena weren't just his cabinmates. They were Poseidon's daughters by mortal women. Which made Amphitrite their stepmother too. In the old stories, that never ended well. Hera and Heracles. All those terrible stepmother tales the bards loved.
+It struck Percy again how unfair his upbringing had been to Clarisse and Silena. They weren't only his cabinmates. They were Poseidon's daughters by mortal women, and they had not grown up receiving what he had. Which made Amphitrite their stepmother too. In the old stories, that never ended well. Hera and Heracles. All those terrible stepmother tales the bards loved.
 
 Amphitrite stepped forward and took both girls' hands.
 
@@ -142,7 +142,7 @@ She turned then, and her gaze landed on Annabeth, who was standing very straight
 
 ---
 
-Amphitrite had been a queen for three thousand years. She could read a court in a glance — who was angry, who was lying, who needed a kind word and who needed a sharp one.
+Amphitrite had been a queen for three thousand years. She could read a court in a glance — who was angry, who might be hiding embarrassment, who needed a kind word and who needed a sharp one.
 
 She could read a twelve-year-old girl in half a glance.
 
@@ -204,7 +204,7 @@ Amphitrite went straight to that photo first.
 
 "Triton sent me the copy last week," Percy said, hovering beside her. "An old one. I wish I could tell her about today. About you. And that the blue cookies worked with your recipe tweak."
 
-"I wish we could tell her that her son is thriving." Amphitrite touched the photo with one fingertip, tenderly. She had never met Sally Jackson in person, but before Sally died they had exchanged a few brief letters through Triton as a discreet courier, about tides and a little boy's health and what frightened him. Now Percy described the kitchen from the other life, a home Amphitrite had never known. She listened because Sally mattered to him, and because raising him had never made that love disappear. "I'm glad you have this picture."
+"I wish we could tell her that her son is thriving." Amphitrite touched the photo with one fingertip, tenderly. She had never met Sally Jackson in person, but Poseidon had shown her a few letters Sally wrote about the sea and the little boy she was raising. Percy asked about the photograph and the few things Sally had left behind. He kept the Manhattan kitchen he remembered to himself. Amphitrite answered what she could, never suspecting he was measuring her answers against a different childhood. "I'm glad you have this picture."
 
 Then she turned to the bunk and clapped her hands. "Right. This will not do."
 
@@ -428,7 +428,7 @@ He nodded, hard. *Yeah. Really happy.*
 
 Percy laughed, bubbles bursting from his nose. He threw his arms around her, and she held him, rocking gently while minnows darted around them like confetti.
 
-She signed that she had taught him bubble pictures at seven — dolphins, ships, faces. He could not remember the lessons, but the movement felt familiar. Now, without thinking, he blew a small, perfect bubble and shaped it: a woman with a crown, holding hands with a small boy.
+She signed that she had taught him bubble pictures when he was seven. Percy knew only what she was telling him, but he tried to copy the movement by watching her hands. When the first bubble collapsed, she demonstrated again without making him explain why he needed the lesson. Now, without thinking, he blew a small, perfect bubble and shaped it: a woman with a crown, holding hands with a small boy.
 
 Amphitrite stared. Then she pressed her hand to her mouth, eyes bright.
 
@@ -520,6 +520,138 @@ Thalia actually laughed — a real one — and shoved Clarisse's shoulder. The s
 
 ---
 
+Amphitrite had asked Chiron for a private room after the picnic, not because she wanted to hide from the campers but because she needed to finish two things before the afternoon slipped away.
+
+The first was a letter to the palace steward confirming she would return before the evening council. The second was a conversation about Percy that she had no intention of conducting in the middle of a crowded dining pavilion.
+
+Chiron met her in the Big House study. The window was open, and the sound of a sword lesson drifted through the trees. Amphitrite had grown accustomed to rooms where conversation stopped the moment she entered. She was beginning to appreciate how little that mattered here. Campers came to ask Chiron questions, interrupted him and went away with additional chores. It was a less efficient form of government than Atlantis, but perhaps a kinder form of household.
+
+"Has he been eating?" she asked when they were seated.
+
+Chiron didn't smile. "Very well."
+
+"Sleeping?"
+
+"Not as reliably. He gets up early and sometimes works late on things he shouldn't be doing without an instructor."
+
+"What sorts of things?"
+
+"Equipment repairs. Independent practice with his water control. His studies with Miss Grace. He also spends a fair amount of time helping his sisters with chores they didn't ask him to take over."
+
+Amphitrite looked down at the report she'd brought. She had asked him for a factual account, not a summary of her child's emotional state. Chiron was giving her exactly that, and she was forced to notice how many ordinary facts she had been missing.
+
+"Does he seem comfortable with Clarisse and Silena?"
+
+"He does. Their relationship is developing, as you saw today. They disagree, occasionally rather loudly, about the boundaries of what a younger brother ought to do. I regard that as a healthy problem compared with the possibility that they might all pretend to be pleased with one another."
+
+She nodded. Percy had written that the sisters were treating him kindly. She had wanted to believe it. Today Clarisse had corrected him three times before lunch and Silena had made him put away a borrowed towel while he was still explaining a story. Both seemed to know the boy well enough to be irritated by him. That was reassuring in a way formal greetings could never be.
+
+"His memories of early life in Atlantis are still unsettled," she said.
+
+Chiron waited. He had known that Percy arrived with gaps and disorientation. Amphitrite had told him as much before the first letter went out. She had not received an explanation that satisfied her, and she was trying not to turn Percy's reluctance to talk into proof that he was in danger.
+
+"I want to help him," she continued. "But I don't want every visit to become an examination of what he can remember."
+
+"Then don't make it one."
+
+"That's easier advice to give than to follow."
+
+"Yes," Chiron agreed. "It is."
+
+She looked toward the window. Percy was visible beyond the porch, helping a small boy untangle a practice cord. He laughed when the boy pulled the wrong end and made the knot worse. Amphitrite had missed the chance to see him learn most of those ordinary skills, and she had been furious with circumstances for that. She didn't want her anger to become another question her son had to answer.
+
+"He seems happy," she said.
+
+"He has difficult days too. He's permitted to have both."
+
+Amphitrite folded her hands. "I know what you're going to ask of me."
+
+"I haven't asked anything."
+
+"You will ask me to trust that he can build a life here without being disloyal to the one under the sea."
+
+Chiron considered. "I was going to ask whether you'd like us to arrange a more predictable contact schedule. It might help him know when to expect you. It might also spare you the uncertainty of wondering whether your letters have arrived."
+
+She sat with the suggestion for a moment. In Atlantis, a queen could command a courier to leave at once. At Camp Half-Blood, a child couldn't control the weather, the availability of a messenger or a palace council's meeting time. A schedule would need to be realistic. It would also need to be something Percy wanted.
+
+"One letter each fortnight, when the route is open," she proposed. "If the dispatch is delayed, the steward sends a short notice to you, not a promise to Percy that he should wait at the lake all morning."
+
+"And an Iris-message?"
+
+"Monthly when both ends can arrange it. He can decline if he's busy. If he wants to write more often, I'll make sure the palace accepts the letters."
+
+Chiron wrote the proposal down. "I can ask him whether that would suit him."
+
+"Please do. I don't want it presented as an order from his mother."
+
+He looked at her with mild surprise. Amphitrite found herself almost smiling. At court she had to remind officials of that distinction constantly. They were so accustomed to interpreting her preferences as commands that they sometimes forgot she could be a mother asking a child what he wanted.
+
+"I also wanted to ask about his training," she said. "He tells us he's working on a shield that lasts seven minutes."
+
+"Under supervision, yes. Some days it holds longer. On other days he's tired and we stop early."
+
+"I could send a trainer."
+
+"You could. But that might give him another adult to impress rather than allowing him to learn at his own pace. He has instructors here, and Triton has already offered to send notes."
+
+Amphitrite knew her elder son meant well. She also knew how quickly Triton could turn a lesson into a demonstration of what a royal heir ought to manage without difficulty.
+
+"I'll ask Triton to send exercises rather than a ranking," she decided.
+
+"That sounds useful."
+
+They went through the contact arrangements one more time. Amphitrite wrote a note authorizing a courier to carry small personal letters without opening them for ceremonial review. The palace had rules for diplomatic correspondence. She did not want those rules applied to a boy writing that he liked his sisters and missed home.
+
+When she left the study, Silena was waiting on the steps with a bundle of folded cloth. She had come to ask whether the queen wanted the blue blanket packed separately for the return trip.
+
+"It's Percy's," Amphitrite said. "He should keep it here."
+
+"He has room for it. I was checking because the tag says palace property."
+
+"Then take off the tag."
+
+Silena looked embarrassed. "I wasn't asking to keep it for the stores."
+
+"I know. You're doing your job correctly."
+
+Amphitrite watched the girl fold the blanket again, tucking in the corners with quick, practiced hands. She had wanted to speak privately with Silena since the call to Atlantis. This seemed a better moment than a formal audience.
+
+"Thank you for looking after him," she said.
+
+Silena paused. "He looks after us too."
+
+"I've noticed. He writes about making a home in Cabin Three as if he doesn't understand how much of it you're doing."
+
+"That's usually how people write about homes. They describe the things they can see."
+
+Amphitrite liked the answer. It was neither flattering nor defensive.
+
+"Does he ever make it hard?" she asked.
+
+"Yes," Silena said without hesitation. "He borrows equipment and forgets to return it, he follows Annabeth into problems when he ought to ask for permission, and sometimes he tries to solve something that belongs to one of us because he thinks helping means getting there first."
+
+"What do you do?"
+
+"I tell him. Clarisse usually makes him fix it."
+
+Amphitrite laughed. She had been afraid the sisters would feel obliged to be grateful for a princely brother none of them had asked for. Instead they sounded like siblings who could tell him when he was being irritating.
+
+"Then keep doing that," she said. "You don't owe him perfect approval."
+
+Silena nodded, then surprised Amphitrite by asking whether she had enjoyed the picnic.
+
+"Very much."
+
+"It was rather loud."
+
+"It was supposed to be."
+
+They carried the blanket together to Cabin Three. Amphitrite saw Percy emerge from the repair path with dust on his knees, and she waved him over. She would ask about the fortnightly letters tonight, when there was time for a proper answer and no audience waiting for him to please a queen.
+
+
+
+---
+
 Family dinner was Amphitrite's idea.
 
 "Not the pavilion," she said when Chiron offered to seat her at the head table. "Please. May I sit with my children? Just tonight. Just us."
@@ -529,6 +661,60 @@ So they pushed two tables together on the Poseidon cabin's little porch — the 
 Chiron stopped by to bless the meal. Mr. D waved from a distance with his soda, which for him was practically a hug.
 
 The food was a mix — camp stew and fresh bread from the kitchens, plus the last of the Atlantean picnic parcels Amphitrite had saved back. Tyson ate three tarts in one bite and cried a little. Grover ate sea beans until his eyes watered. Silena braided Amphitrite's hair while they ate, her fingers quick and gentle, and Amphitrite let her, eyes half-closed in bliss.
+
+Amphitrite had brought a small shell case with her, but she hadn't opened it until the dishes were cleared. She put it between the bowls and lifted the lid.
+
+Inside lay a traveling *Tessera* board, its grooves painted in dark blue, the pieces so small Clarisse nearly mistook them for candy.
+
+"Is this the game you keep complaining about in your letters?" Silena asked Percy.
+
+"Complaining is a strong word."
+
+"You called it a personal insult designed by the sea."
+
+"That's also accurate."
+
+Amphitrite laughed. "He used to insist on playing until he won."
+
+Percy felt the familiar hesitation at *used to*. He could remember losing to her during the week before camp, but not all the games she was talking about. He picked up one red piece and looked at the channels instead of at her face.
+
+"Want to teach us?" Clarisse asked.
+
+"I can teach the rules," he said. "Winning is a different matter."
+
+Silena moved her plate and waved Annabeth closer. "Sit. I want to see whether an Athena-type brain can beat a sea queen."
+
+"A what-type brain?" Annabeth asked.
+
+"Architect brain. You know what I mean."
+
+Annabeth sat. "I do, and I'm choosing to be offended."
+
+Percy opened the first gate. A thin current moved the red piece toward the center, and Clarisse leaned forward to stop him.
+
+"You can't move two at once."
+
+"I can if the channels join."
+
+"Then that's a ridiculous game."
+
+"Finally, someone understands."
+
+Amphitrite let them argue. She reached over only once to steady the board when Grover bumped it with his elbow. She looked pleased, not puzzled, to watch Percy explain a game he'd been learning again without telling anyone that was what he'd been doing.
+
+Annabeth watched him avoid the gate that had beaten him repeatedly in Atlantis. The small victory mattered to him more than it should have. She didn't mention why.
+
+At the third turn Silena opened a channel that carried all Percy's pieces into Clarisse's corner.
+
+"Oh, that's evil," Percy said.
+
+"Thank you."
+
+Amphitrite smiled into her cup. Percy had not lied when he'd told her camp was making him happy. He had only kept the reason he needed to come here locked safely behind that answer.
+
+The game continued until Chiron arrived to tell them the evening schedule was already behind. Clarisse refused to stop before she had beaten Silena, and Amphitrite agreed to leave the board in Cabin Three. She said Percy could show his sisters the tournament rules another night.
+
+He promised to try.
 
 "Tell us a story," Silena begged. "About the sea. About when Percy was little."
 
@@ -612,7 +798,8 @@ As they trudged up the hill together, Annabeth leaned her head against his shoul
 
 "You are," Clarisse said from behind him, ruffling his hair hard enough to hurt. "Don't forget it, Barnacle Breath."
 
-"I won't," Percy promised, and meant it, all the way up the hill and into the glowing cabin and into dreams of clear water and family dinners that tasted like honey and salt.
+"I won't," Percy said.
 
----
+At the steps of Cabin Three he stopped to hang the shell bag Amphitrite had left for his laundry. Clarisse tested the new cloak for warmth and accused him of getting the better present. Silena was already planning where to put the *Tessera* board.
 
+Percy left Amphitrite's blanket folded on his bunk until he had washed the sand out of his hair. When he came back, it was still there. He put it over the bed and wrote the first line of a letter to her, about the game and the visit, leaving the other life out of it.

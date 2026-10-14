@@ -464,6 +464,62 @@ Percy caught Annabeth's eye over Clarisse's shoulder, and they had one of those 
 
 "Proof of cover story," said Silena, eyes still closed, feet in the water, and Clarisse turned her dry look on her, and Silena's mouth did a slow-traveling smile, and the patrol broke up into the last hours of the day.
 
+It nearly did. Silena returned from the equipment shed with the west-shore checklist folded beneath her arm and stopped Clarisse at the ramp.
+
+"We still have to give Chiron the report."
+
+"I know."
+
+"You said you would take it."
+
+"I was going to."
+
+"Before dinner?"
+
+Clarisse looked toward the pavilion. The dinner bell had begun to ring, and Percy could see her weighing the food against the chance to make the broken stairs someone else's problem tomorrow.
+
+"Before dinner," she said.
+
+Percy went with them because his east-shore page needed a signature. Annabeth followed with the map. Chiron was at the Big House sorting cabin duty assignments, and he looked up when the four campers came in at once.
+
+"Something happened," he said.
+
+"The retaining wall," Clarisse told him. She unfolded the checklist and flattened it with her palm. "There's a crack wider than on the previous patrol. The fourth submerged step also has a hole behind the tread. I tested it and went through."
+
+"Are you injured?"
+
+"No. Wet."
+
+"That's not an answer to the question," Chiron said.
+
+Clarisse looked at him. "No injury. My boot got caught for a second. Silena saw it."
+
+Silena showed him the mark on the diagram. "It looks solid from above. Someone could step in the gap before they realized the stone had shifted."
+
+Chiron got up. He took the map and compared it to the older survey kept in the side drawer. The marks didn't line up. The shoreline had moved farther than he'd expected.
+
+"We close the western steps tonight," he said. "No swimming from them and no patrol testing them by standing on the damage."
+
+Clarisse glanced down. "Understood."
+
+"I'll assign the repair crew to examine the wall tomorrow. Until then, the trail above it is restricted. Who can put up the markers before dark?"
+
+"I can," Percy said.
+
+"You have only just returned from patrol," Chiron replied. "Beckendorf is already on the evening equipment shift. I'll ask him. You can bring the supplies to him."
+
+Percy nodded. He disliked that the job had been divided without asking him to do the dramatic part. He liked even less the memory of the hole Clarisse's boot had found.
+
+Annabeth drew a short line across the affected section on her map and wrote the date beside it. "I'll update the shore copy when it's inspected. We don't know the full extent yet."
+
+"Correct," Chiron said. "Report what you saw, and distinguish it from what you suspect."
+
+Silena took back the checklist. Clarisse was the last to leave, and Percy heard her tell Chiron, quieter than before, "Next patrol, I'm not using my foot to check the stairs."
+
+"An excellent improvement to the procedure," Chiron replied.
+
+They went to dinner knowing the broken steps were marked for closure and the wall would be checked, not merely that they'd found something to worry about.
+
 ---
 
 Dinner was laid out in the pavilion with the sun going down behind the trees, and the light hit the tables sideways, and the hum of the camp was the evening version, slower and lower, everyone fed and no one in a hurry.

@@ -526,11 +526,16 @@ He did not open it. He didn't need to. Behind it the hall was holding the whole 
 
 The smell was coming under the door in a thin clean thread of warm salt.
 
-Percy stood in a camp passage at three in the morning and let it be two things at once. That was the whole trick of this place, if there was one: you did not get to choose which water you came from, and you did not have to drown in it. You stood in the warm passage with your hand on the door and you put the minute in the pile, and then you went back to bed, and in the morning somebody would be shouting up the hall about toast.
+Percy stayed with his palm on the iron door a moment longer. The heated saltwater of the hall moved against its tiled basin on the other side. It wasn't the freshwater canoe lake, and it wasn't the halls of Atlantis, but there were ways in which the sound joined both places in his mind.
 
-He went back to bed.
+He checked the latch before he left. It had not seated all the way, and a thin line of warm air was escaping into the passage. He eased it shut until he heard the click. The air no longer moved past his hand.
 
-The heater came on again, and ticked, and went off, and the water in the black-tiled hall moved a little and settled against the ladder, patient, exactly the way it had moved against the pilings of the north dock and the bow of the half-sunk skiff in the cove and the ankles of five kids standing in the shallows of a silver lake on the last warm night of the year; and the whole camp slept above it, and the sky went on over the pines, doubled and whole.
+At the foot of the stairs he stopped again, irritated with himself. He had come out because a noise had reminded him of a place he could not fully remember in this life. He had nearly forgotten the only job that needed doing, which was closing a door before the hall lost its heat.
+
+Silena would have had an opinion about that. Clarisse would have put the latch on her inspection list. He could imagine the difference between their reactions clearly enough to smile.
+
+He went back to his bunk without waking either sister. The blanket had slipped off the mattress while he was gone; he picked it up and shook the corner free of the bedframe before pulling it over his feet.
+
+In the morning somebody would want the hall checked before the next swim, and he would tell Clarisse the latch needed attention. For now he could let the water stay where it belonged. He was tired, the door was secure, and no one had called him to a problem he had to solve in the dark.
 
 ---
-

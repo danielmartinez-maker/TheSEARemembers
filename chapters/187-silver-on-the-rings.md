@@ -458,7 +458,34 @@ She wrote: TUESDAY. HEAVIER. WATCH THE GUTTERS.
 
 And under that, because it was hers and because nobody else read the margin notes: *Quilt on the poles. Heron on the bow. Tyson's letter due Thursday. Everything on the hill is either iron or asleep.*
 
-She closed the book. Through the wall she could hear the four sounds her sister made in the dark when she turned in for the night, boot, boot, coat, chair, and then nothing, and then, a long while after, the flat voice saying, "Go to bed, Annie," in the tone of a woman who has carried a lantern uphill and would rather be hit by a truck than be asked about it, and Annabeth turned the lamp down to nothing and said, "Good night, Thalia," and lay there in the cold of a cabin that had already given the day back to the frost, and listened to the hill go quiet around a Tuesday that was going to start very early and very white, and did not mind one bit.
+Annabeth closed the field book, then opened it again long enough to underline the warning about the gutters. She had drawn the frost line carefully and made a note about the wind, but hadn't written down who would check the drains in the morning. A measurement without a useful consequence was only half a job.
+
+She added: ASK CHIRON BEFORE BREAKFAST. Then she left the pencil on the table, where it couldn't go missing under her pillow.
+
+Through the wall came the usual sounds of Thalia settling down, boots dropping one at a time, then the scrape of the chair against the floor. Annabeth heard the pause before her sister spoke.
+
+"Go to bed, Annie."
+
+"I'm going."
+
+"You said that five minutes ago."
+
+"I was writing."
+
+"I know. You only sound that guilty when you're writing."
+
+Annabeth turned the lamp lower. The sketch on the page was still open to the frost-ring measurement. She ran a finger along the penciled line and decided not to redraw it. The line was accurate enough.
+
+"Thalia?"
+
+"What?"
+
+"You don't have to come with me in the morning. It's a gutter check."
+
+"Wonderful. A thrilling outing."
+
+"That's why I don't expect a crowd."
+
+Her sister made an amused noise through the wall, then rolled over. Annabeth closed the cover properly this time. She would speak to Chiron when there was light enough to see the roof and safe enough to climb. Outside the clear sky promised a harder frost than the night before. The promise wasn't good or bad. It was a reason to leave her boots beside the door, ready for the morning.
 
 ---
-

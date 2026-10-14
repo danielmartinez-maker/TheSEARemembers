@@ -1,6 +1,5 @@
 ## Chapter 19: The Brother Across the Country
 
-### Thalia
 
 Thalia Grace woke up knowing something was going to happen.
 
@@ -86,7 +85,6 @@ He moved on to announcements about chariot maintenance and archery rotations, bu
 
 ---
 
-### Annabeth
 
 Annabeth had a set of memories and a set of stories about little brothers, and they did not fit together, and today they were grinding against each other like tectonic plates.
 
@@ -166,7 +164,6 @@ Practice ended and she went to find Percy, because when her head got too loud, P
 
 ---
 
-### Percy
 
 Percy found Annabeth by the lake, doing what she always did when she was thinking too much — throwing pebbles and muttering about architecture.
 
@@ -230,6 +227,190 @@ Annabeth leaned her head on his shoulder, just for a second. She only did that w
 
 ---
 
+Thalia spent the last hour before the call in the Zeus cabin, trying not to make Annabeth nervous.
+
+That was difficult because Thalia herself was nervous enough to polish a spear she'd already cleaned twice. Annabeth had spread three sheets of paper on the desk and was deciding which drawings to show Jason. One depicted the cabin. Another showed a small bridge she'd designed for the lake path. The third was a family portrait based on Thalia's descriptions, with spaces where she hadn't known enough to draw the faces.
+
+"Do you think he'll recognize us?" Annabeth asked.
+
+"I don't know."
+
+"Would it help if you told him a story?"
+
+"Maybe."
+
+Annabeth looked up. She had grown accustomed to Thalia offering definite answers to questions about their childhood. The uncertainty made her sister seem younger for a moment, which was both painful and reassuring.
+
+"I remember when he was small," Thalia said. "But I don't know what Lupa told him afterward. I don't know whether he still uses the names he had then."
+
+"Then maybe ask what he wants us to call him."
+
+Thalia gave her a brief smile. "That's not a bad idea."
+
+They looked at the family drawing together. Annabeth had given Jason a Roman-style cloak because she knew he'd been raised at Camp Jupiter. She hadn't drawn him as a baby or pretended to remember a boy she'd never met in this history.
+
+"Can I show him this?" she asked.
+
+"It's yours. Of course."
+
+"I mean, will it upset him that I don't know what he looked like when he was little?"
+
+Thalia looked at the paper. She had spent so many years wanting Annabeth to remember their family that she sometimes forgot her sister was trying to learn a family she didn't remember. A drawing of three children together could be a promise of affection, not a claim about a photograph that never existed.
+
+"You can tell him how you made it," Thalia said. "That's more honest than pretending it came out of a memory."
+
+Annabeth nodded and rolled the page carefully.
+
+A knock came at the cabin door. Chiron stood outside with the communications authorization. He had received confirmation from the Roman intermediary that a young trainee named Jason could appear for a supervised call. The connection would last only as long as the two camps could maintain the rainbow, and neither side was authorized to share restricted military information.
+
+Thalia was grateful for the permission and infuriated by how formal it sounded. Jason was her brother. She shouldn't need a diplomatic procedure to ask whether he'd eaten breakfast.
+
+"What if we don't have time to ask everything?" she asked.
+
+"Then you prioritize what matters to you and tell him you would like another chance to speak."
+
+"Can we record it?"
+
+"Not without permission from the Roman camp. The connection is private, and Jason should not have to worry that every sentence will be preserved for people he hasn't met."
+
+Annabeth looked at her notebook. She had been planning to write down everything Jason said so she wouldn't lose the details. She hadn't thought of it as recording a child whose permission mattered.
+
+"Could I take notes afterward?" she asked.
+
+"Yes. You can each remember the call in your own way. You simply shouldn't turn the conversation into a formal interview."
+
+Thalia nodded. She was glad he'd made the distinction before they entered the room.
+
+Percy arrived a few minutes later. He had come from Cabin Three with a folded handkerchief, a clean shirt and an expression that suggested Silena had insisted he stop running up the hill in muddy shoes.
+
+"Am I invited?" he asked.
+
+"Yes," Thalia said. "Jason knows you as the friend Annabeth keeps talking about."
+
+Percy smiled. "That's reassuring."
+
+"You can help if he gets nervous."
+
+"Or if you do?"
+
+Thalia looked at him. She might once have snapped that she didn't get nervous. Instead she said, "Both."
+
+The admission made Percy stop joking. He had watched her defend Annabeth in front of Zeus and risk injury during the eclipse. He understood that being able to fight didn't make a person immune to a difficult family conversation.
+
+"What do you need me to do?" he asked.
+
+"Let us talk. If we get stuck, ask him something normal. About school or what he eats or whether he likes the weather there. Just don't treat him like a clue in a prophecy."
+
+Percy nodded. He hadn't planned to, but he appreciated being told what help actually looked like.
+
+Thalia took the spear from its rack and put it away. She wasn't going to meet her younger brother as though preparing for a patrol. Annabeth folded the drawings into a tube and left the most complicated one behind.
+
+At the Big House they found the communications room ready. The lamp had been adjusted to catch a steady band of light, and Chiron stood beside the basin with his hand on the authorization. He told them there would be an adult at the Roman end and that they could stop the call if Jason became overwhelmed.
+
+"Will he know it's all right to stop?" Annabeth asked.
+
+"I've asked the supervising aide to tell him. He deserves the same choice you do."
+
+Thalia stood in front of the basin. It struck her that she had spent years waiting for somebody to give her access to her brother, and now the person she most wanted to see might be equally frightened by the prospect. She didn't want to become another adult who made choices for him because she'd been waiting longer.
+
+"When he appears," she said, "let him speak first if he wants to."
+
+Percy and Annabeth agreed. Thalia knew she'd probably forget the plan the moment she saw his face. She was going to try anyway.
+
+
+
+---
+
+At Camp Jupiter, Jason was counting the minutes until the messenger arrived.
+
+He had been told there would be a supervised Iris-message from Camp Half-Blood, and that his sisters might be on the other end. The invitation was written in ordinary language on a folded sheet of paper, which made it more difficult to believe than if it had come with a seal from the praetors.
+
+He had known he had sisters for years. Lupa had told him enough that he recognized their names, and sometimes he received a short note or a drawing forwarded through adults who treated the exchange as a delicate exception to a rule nobody would explain. But knowing a person existed was different from standing in front of a rainbow and trying to decide what to say to her.
+
+Jason was ten. He could recite the basic formations of the Fifth Cohort without help. He knew which hand to raise when a centurion inspected his shield. He had no idea whether he was supposed to call Thalia *Lia*, as he had when he was little, or use the name on the official message.
+
+His supervising aide, a Roman woman named Valeria, had watched him try to polish the same piece of armor three times.
+
+"That shield is clean," she told him.
+
+"There's a mark by the rim."
+
+"That's where it was repaired. Polishing won't remove it."
+
+Jason put down the cloth. He had hoped a spotless shield would make him look older, as though his sisters might believe he'd been doing well if he looked like the other trainees.
+
+"Do I have to wear it?" he asked.
+
+"No. The call is private. You're not attending a review."
+
+"Then why did they tell me to prepare?"
+
+"Because you asked for time to think about what you wanted to say."
+
+He looked at her. She was right. That was annoying.
+
+Valeria set a chair beside the basin where the rainbow would be formed. There was a small table with water and a box of tissues, which Jason considered unnecessary until he remembered the one time he'd asked an adult about his sisters and been unable to finish the question without crying.
+
+"Can I ask what they remember?" he said.
+
+"Of course."
+
+"What if they don't remember me?"
+
+"Then they'll have to tell you that. You may not know what either of them remembers. Neither of you has to pretend."
+
+Jason took out the page on which he'd written questions. He had prepared seven. The first concerned whether Thalia still liked lightning. The second asked whether Annabeth still built little cities. The third was whether their mother had been sending letters. He crossed out the third, then wrote it again. He wanted the answer even if it was difficult.
+
+Valeria watched without interrupting.
+
+"Do they know I've been training?" he asked.
+
+"Some of it. We told them you were safe and learning."
+
+"Safe is not the same as good."
+
+"No," Valeria replied. "It isn't."
+
+He liked her more for that answer. Adults often used *safe* to end a conversation about something else. Jason was safe at Camp Jupiter. He was also lonely sometimes. He was proud of the shield he'd been learning to carry and frustrated when older children treated him as though he should already know every rule. He missed a family he could barely picture. It was possible for all of those things to be true.
+
+The messenger knocked. Valeria stood, checked the authorization and asked Jason whether he was ready.
+
+"No," he admitted.
+
+"Do you want to postpone?"
+
+He looked at the folded note. He'd spent years waiting for an opportunity that never seemed to arrive at a convenient time. If he postponed it because he was frightened, he might spend another month wondering how frightened he would be the next time.
+
+"No. Let's do it."
+
+They went to the communications room. It had a shallow basin set beneath an archway and a wall decorated with the insignia of the Roman camp. Jason had practiced using a rainbow for routine messages, but he'd never stood in this room with a request about his own family.
+
+The attendant adjusted the light, checked the coin and waited for Valeria's signal. Jason kept his paper folded in his hand. He had decided to ask the first question without reading it. If he couldn't remember the words when he saw Thalia, he could look down.
+
+"One more thing," he said to Valeria.
+
+"Yes?"
+
+"What if I don't look like they remember?"
+
+She considered before answering. "Then they get to see what you look like now."
+
+Jason nodded. He liked that answer better than being told he'd be recognized immediately. He didn't know whether recognition was something people could choose. He hoped affection might be.
+
+The light in the basin spread into a wavering arc. Valeria gave him a moment to move closer. He took one step, then another, and tried to remember to breathe normally.
+
+There were shapes on the other side, indistinct at first. A tall girl with dark hair, a smaller girl with blond hair, a boy with sea-green eyes. Jason's hands went cold. He gripped his page tightly enough to crease it.
+
+He heard someone say his name.
+
+For a moment he forgot every prepared question.
+
+Then the rainbow steadied, and the faces became clear.
+
+
+
+---
+
 The Big House rec room had never been so quiet.
 
 Thalia counted heads as they filed in. Herself. Annabeth, clutching a rolled-up piece of paper like a lifeline. Percy, who Chiron had invited with a look that said he knew Percy would sneak in anyway so he might as well be invited. Chiron himself. Mr. D, surprisingly present and surprisingly sober, leaning against the wall with an expression that was almost soft. A few others — Luke, there for moral support; Silena, because she wouldn't let Annabeth go through this alone; Clarisse, because she'd asked Chiron point-blank if she could come and Chiron had been too surprised to say no.
@@ -282,7 +463,7 @@ Annabeth unrolled the paper with shaking hands and held it up to the mist. It wa
 
 The stern woman — someone murmured she was a praetor's aide, or a legacy — stepped forward. "We will try. Hold it to the light."
 
-Annabeth held the drawing into the rainbow shimmer. For a heart-stopping second nothing happened. Then the colors bled at the edges, gold and gray wrapping around the paper, and the copy in Annabeth's hands went pale and thin while something — a shimmer, a ghost of paper — appeared on the other side. The aide caught it, solidifying it with practiced hands, and handed it to Jason, who held it like treasure.
+Annabeth held the drawing toward the rainbow shimmer. For a heart-stopping second nothing happened. Then the colors bled at the edges, gold and gray wrapping around the paper, and the copy in Annabeth's hands went pale and thin while something — a shimmer, a ghost of paper — appeared on the other side. The aide caught it, solidifying it with practiced hands, and handed it to Jason, who held it like treasure.
 
 "I can see it!" Jason breathed. He pointed at each figure. "That's you, that's Lia, that's Percy with stupid hair."
 
@@ -312,7 +493,86 @@ Silence.
 
 ---
 
-### Thalia
+
+At Camp Jupiter, Jason stood in front of the empty basin with the folded page still in his hand.
+
+He had used none of his prepared questions. The first thing he'd said when the picture cleared was almost embarrassing in its simplicity: he wanted to know whether the girls were really his sisters. They had answered, and then they'd spent the next few minutes giving him a collection of ordinary facts he hadn't realized he'd been missing.
+
+Thalia liked the sound of the rain against the Zeus cabin. Annabeth built models and corrected the measurements when the drawings were too small. Percy made jokes about his own hair and had sisters who argued with him about chores. The camp had a lake, a strawberry field and a centaur named Chiron who sounded considerably more patient than Jason's drill instructors.
+
+He wanted to ask them everything again.
+
+Valeria came to stand beside him. She didn't tell him to move away from the empty rainbow. She waited until he folded his paper.
+
+"How do you feel?" she asked.
+
+"I don't know."
+
+"That seems reasonable."
+
+He looked at her. "They said I could call them when the camps approve it."
+
+"They did. We can make a request. I can't tell you when it will be granted."
+
+"Will they forget?"
+
+Valeria took a breath before answering. "I don't believe so. They were asking about you long before this conversation happened. But you may write to them if you'd like, and I can help you find out whether there's a safe route for the letter."
+
+He considered the offer. A message would not carry a face or a voice, but it would give him time to choose the words without having to think of everything before a rainbow vanished.
+
+"Can I show them my drawing of the aqueduct?"
+
+"You can ask permission to send a copy. I wouldn't send the original until you're certain it won't get lost."
+
+Jason looked down at his page. He'd drawn a canal route in the margin, trying to imagine what he would show Thalia if she asked whether he liked being Roman. He had been afraid she'd be disappointed that he didn't remember a childhood with her.
+
+She hadn't sounded disappointed. She'd sounded astonished to see him.
+
+"They remembered things I didn't," he said.
+
+"That must have been strange."
+
+"It was. They weren't angry at me."
+
+Valeria looked at him carefully. "Why would they be angry?"
+
+"Because I don't remember calling her Lia. She said I did when I was little."
+
+"Lots of people don't remember things from when they were two."
+
+"I know. But she looked as though it mattered."
+
+"Then it mattered to her. You aren't required to produce the same memory in order to care about her."
+
+Jason turned that over. It sounded like something he'd heard Chiron say through the rainbow. He wondered whether adults on both sides of the country had been trying to tell the siblings a similar thing in different words.
+
+He took a clean sheet from the communications desk and wrote *Dear Lia and Beff* at the top. He hesitated, uncertain whether Annabeth truly wanted to be called by a nickname she didn't remember hearing from him.
+
+"Should I use her actual name?" he asked.
+
+"You can ask what she prefers in the letter."
+
+He wrote the question beneath the greeting.
+
+The first paragraph was awkward. He told them he had seen the rainbow, which was obvious, and that he liked strawberries, which they'd already discussed. Then he started describing the week he'd spent learning to measure distances without relying on a centurion to correct him. The words came more easily because he knew those details for himself.
+
+Valeria offered to take the page for review. He wasn't ready to send it yet.
+
+"Could I finish after supper?" he asked.
+
+"Of course."
+
+He folded it carefully and went to the dining hall. The other trainees asked whether the call had been successful, and he told them he'd spoken to his sisters. He didn't tell them everything they'd said. Some of the conversation belonged to the four people who'd been there.
+
+That evening he returned to the letter. He drew the aqueduct from memory, adding a little bridge where the canal bent toward the training grounds. He labeled the supports so Annabeth could see which part he was proud of. Then he added a question for Thalia about the last time she'd seen a real thunderstorm at camp.
+
+He gave the finished page to Valeria for the authorized mail request. She checked the address and told him the Roman intermediary would have to approve the route. He understood. He was ten, not a senator. He still wanted to know why two camps with children who loved the same people needed so many adults to agree before a letter could travel.
+
+For now, he had spoken to his sisters. They had looked at him as if he mattered. That was more than he'd had that morning, and he intended to remember the sound of their voices.
+
+
+
+---
 
 Thalia walked out of the Big House and kept walking until the night air could hold her.
 
@@ -368,7 +628,7 @@ They sat there until the crickets got loud and the tissues were mostly used and 
 
 ---
 
-### Annabeth / Percy
+
 
 The next morning, the drawing table in Cabin One was covered in paper.
 
@@ -406,7 +666,7 @@ Later, when the picture was done and propped up to dry, Annabeth walked down to 
 
 "Do you think he'll remember next time?" Annabeth asked quietly. "Not the old stuff. Just — us from last night. Do you think ten-year-olds remember Iris-messages?"
 
-"I remember everything important from when I was seven," Percy said. "I remember Sally making blue cookies when I was sad in my original childhood. I remember the exact smell of the ocean at Montauk. I remember deciding I hated olives." He grinned. "He'll remember. How could he forget Percy-with-stupid-hair?"
+"I remember things from when I was seven," Percy said. "I remember Sally making blue cookies when I was sad in my original childhood. I remember the exact smell of the ocean at Montauk. I remember deciding I hated olives." He grinned. "He'll remember. How could he forget Percy-with-stupid-hair?"
 
 Annabeth smiled, leaning against him. "Thank you for being there. For both of us."
 
@@ -420,13 +680,104 @@ Annabeth was quiet, and Percy thought she might be crying again, but when she lo
 
 Annabeth laughed, and the sound carried across the water, bright and young and hopeful. Above them, the sky deepened to violet. Somewhere across the country, under the same sky but different stars, a ten-year-old boy with a gap-toothed smile had a drawing of three kids and a lake and strawberries everywhere, learning the names Lia and Beff by heart.
 
-It wasn't enough. It would never be enough until the distance closed.
+Annabeth watched Thalia write **LIA** in large letters beneath the drawing, in case Jason had forgotten the nickname by the next call. Then she wrote **BEFF** beside it, deliberately misspelled.
 
-But for now, it was a start.
+"You're really keeping that?" Percy asked.
 
-And the sea remembered, even when the sky forgot — and tonight, both were watching over two camps, and a brother across the country who was loved on both coasts.
+"Obviously."
 
-*End of Chapter 19*
+They left the picture drying on the desk overnight. In the morning Chiron would help them find out whether another copy could reach the Roman camp without a rainbow.
 
 ---
+
+At the mail office, Thalia learned that there was a difference between sending a drawing to Camp Jupiter and getting permission for the Roman camp to receive it.
+
+The distinction had not seemed important when she was sitting at the cabin desk imagining Jason holding the picture. It mattered now, with the courier explaining which routes were open and which were only proposed.
+
+"We can submit a request," the steward said. "Chiron will certify who the senders are. But the Roman intermediary must approve it. I won't tell you it's delivered until we have confirmation."
+
+"How long will that take?"
+
+"I don't know."
+
+Thalia wanted to ask for a faster route, then stopped. She had spent months treating every delay as proof the people in charge didn't understand what it was like to be separated from family. Some probably didn't. That wasn't a reason to turn an uncertain promise into a false one.
+
+"Then can I keep the original?" she asked.
+
+"Yes. Send a copy. The original is yours."
+
+Annabeth stood beside her with the rolled drawing. She had been planning to send the original because the lines looked better on the first page, and now she was relieved not to risk losing it in transit.
+
+"We can copy it with the same scale," she said. "The paint might look different, but Jason will see the design."
+
+Thalia nodded. The steward gave them a blank form and asked them to return it when they'd made the copy.
+
+Back in Cabin One, Annabeth spread the paper across the desk and started tracing the outlines. Thalia helped hold the edges flat. She had told Jason she'd write soon. She hadn't decided what to say beyond that.
+
+"Do you think he needs a letter from me too?" she asked.
+
+Annabeth looked up. "I think he'd like one. But you don't need to describe a whole childhood before you can say hello."
+
+Thalia considered the suggestion. She had wanted Jason to know how much she'd missed him. In the rainbow he'd looked like a boy who was proud of his Roman training and nervous about whether his sisters liked him. Perhaps he'd rather hear about the camp's ordinary activities than receive a list of years they couldn't get back.
+
+She began with the weather.
+
+*Dear Jason, It rained yesterday, and Annabeth tried to tell me how the cabin roofs should be built so the water doesn't collect by the gutters. She was right, which is annoying. Percy helped make a new sign for the lake path. Clarisse says you should learn a good shield grip because Roman shields are too heavy if you hold them like a flag.*
+
+Annabeth read the last sentence and laughed.
+
+"Clarisse didn't say that."
+
+"She said something similar."
+
+"That doesn't mean you can make her quote more sensible."
+
+Thalia crossed out the attribution and wrote the shield comment as a suggestion from the older campers. She didn't want Jason to believe every letter from home was a formal report. She also didn't want to turn other people's words into things they'd never said.
+
+She finished with a question: *What's your favorite class? You can tell us about something you're proud of. It doesn't have to be anything to do with Zeus.*
+
+Annabeth looked at that line for a long moment.
+
+"Keep it," she said.
+
+"Why?"
+
+"Because I know what it's like when people only want to know what your powers do."
+
+Thalia knew the feeling. Their father had a talent for turning every ordinary achievement into proof that a child resembled him. She didn't want to do that to Jason.
+
+They signed the letter separately. Annabeth added a short note about the drawing and asked whether he had a scale he used when sketching the aqueducts. She was careful not to write as if they had already agreed to a visit. They hadn't. They could ask, and they could hope, but Jason was living in a camp with rules and people whose consent mattered too.
+
+When they returned to the office, the steward recorded both the picture and the letter as pending dispatch. Thalia checked the receipt and made sure the copied drawing would be returned if the route were refused.
+
+"That's everything," she said.
+
+"Everything we can do today," Annabeth corrected.
+
+Thalia looked at her sister and almost argued. Then she smiled.
+
+"Yes. Everything we can do today."
+
+They left with the original picture under Annabeth's arm and a copy of the receipt in Thalia's jacket. The uncertainty followed them. It no longer made every step feel like another opportunity they'd missed.
+
+At the dining pavilion, Percy was waiting with three plates. He didn't ask whether the letter had gone through. He asked whether the steward had accepted the packet for processing, a distinction he'd learned while writing to Amphitrite.
+
+"Yes," Thalia said. "Accepted. Not delivered."
+
+"Good. Then we have a record."
+
+She sat down and began eating. Somewhere across the country, Jason was living through an ordinary morning, perhaps doing lessons or arguing with a centurion about the weight of a shield. Thalia wanted to be there. She couldn't. She could still write him a letter that described something true, and she had.
+
+After lunch she passed the arena where the younger campers were practicing basic shield forms. She stopped at the fence. A small boy was having trouble holding his shield level, and the instructor had offered him a lighter one while he learned the movement. Thalia imagined Jason in the same position, determined not to ask for help because he wanted the older trainees to think he belonged.
+
+She had told herself for years that her job was to protect her little brother. At this distance, the only protection she could offer was knowing that somebody was looking after him, asking whether he had the things he needed, and making sure her own hopes didn't become orders for him to follow.
+
+The boy at the fence caught her watching.
+
+"Am I doing it right?" he asked.
+
+"You're moving your feet before the shield," she said. "The instructor will show you how to keep both together."
+
+He tried again. Thalia watched until he made the correction, then continued toward the cabin. She would probably think about Jason every time she saw a younger camper practicing. That wasn't something she needed to stop. She could think about him without turning the memory into another reason to demand an answer the Roman camp wasn't ready to give. She could write again next week, ask Chiron what he had learned, and make sure Annabeth had room to build her own relationship with their brother.
+
 

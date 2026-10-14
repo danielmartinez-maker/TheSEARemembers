@@ -140,6 +140,104 @@ Family reshuffled. Not lost.
 
 ---
 
+Beckendorf had prepared three workstations by the time the group arrived. Each had a different set of tools, and each belonged to a project with a different level of risk.
+
+He asked them to stand behind the marked line while he explained the plan. Percy and Clarisse were assigned to learn basic metal shaping with supervision; Silena could work at the cooler finishing bench; Annabeth had a small architectural model to assemble under the eye of a trained forge worker.
+
+Thalia was the only one who objected.
+
+"I thought we were all making things together."
+
+"You can," Beckendorf said. "But that doesn't mean everyone handles the same equipment at the same time. Your sister's model uses a torch. The others don't need to stand over her shoulder while she's doing it."
+
+Thalia looked at Annabeth. Her younger sister had spent days drawing a design and had been excited to show it to the group. Thalia wanted to be part of that. She didn't want to be told that helping required standing somewhere else.
+
+"Can I work on the non-heated pieces?" she asked.
+
+"Yes. I have files and cold stock for you. We'll set up your station beside hers once the hot work is finished."
+
+That was a reasonable compromise. Thalia accepted it grudgingly.
+
+Beckendorf began with a safety briefing. The forge was not a place where enthusiasm or magical parentage excused anybody from checking the tools. Metal stayed hot after it stopped glowing. A quenching tank could throw steam into someone's face if the piece was submerged carelessly. The tongs used on steel were not the same as the ones intended for delicate bronze fittings.
+
+Percy raised a hand. "Can I use my water to help cool things?"
+
+"Only when I authorize it," Beckendorf said. "A controlled flow can be useful, but cooling a heated part too quickly can make it crack. We decide based on the material and what we want it to do afterward."
+
+"That sounds less fun."
+
+"It's much less fun than breaking a piece you spent three hours making."
+
+Clarisse looked at Percy with satisfaction. "Somebody finally said it."
+
+Percy grinned and put his hands in his pockets.
+
+Annabeth was examining the brass clamps on the first workstation. She had seen similar tools in the life she remembered, although the forge at this camp had equipment she hadn't used before. She recognized the temptation to pretend she could handle all of it because she understood the principle.
+
+"Which joints do you want me to practice first?" she asked.
+
+Beckendorf gave her two pieces of scrap and a diagram of a simple right-angle connection. "These. If you can make the joint hold under a basic test, we'll move to your model."
+
+She looked at the scrap, then at her own rolled plan. The work was more elementary than she'd hoped.
+
+"All right," she said.
+
+She worked carefully. The first connection looked straight but failed when Beckendorf applied pressure. Annabeth was frustrated because she thought the neat line proved she'd placed the material correctly. He showed her the gap beneath the visible surface.
+
+"Pretty doesn't mean joined," he said.
+
+She examined the failure, then tried again with a slower application. The second joint was less elegant. It held.
+
+Thalia watched from the next station. "So the ugly one works."
+
+"Yes," Annabeth said, without looking up. "Unfortunately."
+
+"Then you'll have to build something ugly and reliable."
+
+Annabeth gave her a look. Thalia smiled.
+
+They spent the next hour practicing on scrap. Clarisse learned how to heat a small bar without losing control of the tongs. Percy practiced using the quench tank with ordinary measured water, under Beckendorf's direction. Silena found that finishing a piece required far more patience than she expected; the file had to move in the same direction, and a small mistake could leave a visible scratch.
+
+At one point she stopped and examined the metal.
+
+"I think I've ruined it."
+
+Beckendorf came to look. "You've made a scratch. You can remove it, but you'll have to take down the surrounding surface so the finish remains even."
+
+"That's a lot of work for one mark."
+
+"That's why we test on scrap."
+
+She nodded and began again. The work was frustrating in a different way from the social tasks she usually enjoyed. It did not become easier because she was charming or quick to notice what another person needed. Her hands had to learn something, and the metal didn't care whether she was in a good mood.
+
+When the bell sounded for a short break, the group left its tools in the assigned trays. Beckendorf checked the quench tank, recorded which pieces were hot and sent them outside with instructions to drink water and eat something before returning.
+
+Thalia stopped beside Annabeth, who was carrying the failed joint in a small metal tray.
+
+"Keeping that?"
+
+"Yes. I want to remember why it didn't work."
+
+"Very sentimental."
+
+"It's evidence."
+
+Thalia looked at the crooked joint, then at the carefully straight one that had failed. She could see why Annabeth wanted both. The difference between a good-looking solution and one that held under strain was something they'd been learning outside the forge too.
+
+"Can I help with the model when we come back?" she asked.
+
+"Yes. But let me do the heated joints. I want to learn them."
+
+Thalia nodded. The agreement pleased her more than she expected. She could help her sister without needing to be the person who did the dangerous part.
+
+They went to the picnic table under the shade with the others. Percy handed out water bottles and Clarisse complained that making a spearhead involved an unreasonable amount of not hitting things. Silena was still inspecting the scratch on her practice piece as though the metal had insulted her personally.
+
+Beckendorf watched from the forge door. He had been worried the group would arrive wanting to make magical weapons and leave impatient when the work turned out to be ordinary and difficult. They were impatient. They also seemed willing to return.
+
+
+
+---
+
 Annabeth loved the forge the way some people loved libraries.
 
 Which sounded insane, she knew, because it was loud and hot and smelled like sulfur and sweat, and the floor was gritty with scale and the air shimmered over the forges. But it was also a place where things were made on purpose. Where you started with a drawing and ended with an object that hadn't existed before. Where measurements mattered and patience mattered and if you did it right, the thing held.
@@ -294,6 +392,96 @@ Clarisse held the blackened, rough spearhead in her tongs and thought it was the
 
 ---
 
+By the time Clarisse completed the first shape of her spearhead, she was convinced the metal had a personal grudge against her.
+
+It was not a weapon yet. The point was uneven, one edge was thicker than the other and the tang had been shaped too broadly for the handle she'd brought from the armory. She had expected that heating and hammering steel would be a matter of applying enough force in the right direction. The reality involved stopping every few strokes to check measurements she'd been impatient to take in the first place.
+
+Beckendorf came over to inspect it.
+
+"You're making progress," he said.
+
+"It looks terrible."
+
+"You're learning how the metal moves. That doesn't happen in the first five minutes."
+
+Clarisse turned the piece in her tongs. "Can we just grind the edge to make it even?"
+
+"We can, but then you may remove material you need for strength. Tell me what shape you want before you start cutting away the part you don't like."
+
+She looked at the drawing they'd agreed to use as a guide. Her original design had a long, narrow point with a slight curve toward the edge. It looked impressive. Beckendorf had already warned her that a beginner's first piece was unlikely to hold that shape through repeated use.
+
+"What would you make?" she asked him.
+
+"For a training piece? A shorter point with enough material behind it to take a dull impact without deforming. You're going to learn more from a head you can test than from one that looks dangerous on a wall."
+
+Clarisse disliked the answer, but it was sensible. She marked the new outline and began reshaping the piece.
+
+Percy was working at the cooling station nearby. He watched her adjust the metal and asked whether she wanted him to hold the drawing where she could see it.
+
+"I can manage."
+
+"Fine."
+
+He went back to his own work. Clarisse took another three strokes, then realized she couldn't look from the hot metal to the small drawing without losing her place.
+
+"Percy," she called. "Hold the paper."
+
+He returned without comment and steadied the design beside the work surface. She followed the measurements carefully, checking each side rather than trusting that two quick blows would make them equal.
+
+When the head had cooled enough for inspection, Beckendorf asked her to test it against a weighted block rather than a practice dummy. The first impact bent the edge slightly.
+
+Clarisse stared.
+
+"That's a failure," she said.
+
+"That's a result," Beckendorf replied. "Now you know where the piece is thin. We can work back from there."
+
+She wanted to argue. A result that told her she needed to redo the work was not the kind she had been hoping for. Then she remembered Annabeth keeping her failed joint as a reference. Clarisse didn't want to become someone who valued an object only if it had worked on the first attempt.
+
+"Can I fix it?"
+
+"Yes. We'll heat and reshape it. I'll show you how to check the thickness before you quench."
+
+She followed him back to the forge. Percy remained near the cooling tank, ready to help when instructed. The three of them worked without speaking for several minutes. Clarisse heated the metal, corrected the curve and tested the thickness with the gauge Beckendorf handed her. The second quench went more smoothly. The edge still wasn't perfect, but the head held through the next impact test.
+
+"Better," Beckendorf said.
+
+Clarisse looked at the piece. She was proud enough to want to hide how proud she was.
+
+"Can I use it in practice?"
+
+"Not until I inspect the finished handle fitting and certify it for training. You can keep working on it here."
+
+She nodded. The restriction seemed less insulting now that she'd seen how many things could go wrong with a piece that looked solid from the outside.
+
+Percy set down the measuring cup.
+
+"So, did you make a spearhead or a very sharp argument?"
+
+Clarisse gave him a look. "I made a spearhead."
+
+"Does it have a name?"
+
+"Not yet."
+
+"How about 'Measure Twice, Threaten Once'?"
+
+She threw a clean rag at him. He caught it, laughing. Beckendorf asked them both to return their tools before the next work block. Clarisse signed the unfinished piece into the forge's project cabinet rather than carrying it back to Cabin Three. She wanted to finish it, not prove she'd made a weapon by ignoring the rules that made it safe to use.
+
+At the door, Percy asked whether she'd let him help with the handle when it was ready.
+
+She considered. His hands were smaller than hers, but he was patient with the kind of fiddly work she disliked. He'd been listening to Beckendorf all afternoon.
+
+"Yes," she said. "Provided you don't decide it needs water magic."
+
+"Agreed."
+
+They went to fetch lunch. Clarisse expected to spend the evening thinking about the work she'd have to redo. It felt like the right kind of annoyance: a challenge she could actually meet by practicing rather than charging at it.
+
+
+
+---
+
 Silena had no business being in a forge.
 
 She knew this. The forge knew this. Her hair knew this — it kept trying to escape its braid and stick to her neck. Her skin knew this — it glistened in a way that was cute on romance-novel covers and less cute when soot stuck to it. Her entire carefully maintained aesthetic screamed for sea breezes and shade.
@@ -374,6 +562,88 @@ Thalia glanced at her, then smiled crookedly. "When did you get wise, Beauregard
 
 ---
 
+At the finishing bench, Silena was trying to decide what she wanted to make.
+
+She had begun the morning intending to help everyone else. Clarisse had a spearhead, Annabeth had an architectural model, and Thalia was working on the pieces her sister couldn't heat safely. Percy had been assigned a useful station beside the quench tank. Silena had taken the leftover brass strip because she didn't want to admit she hadn't thought of a project of her own.
+
+Now the surface had been filed smooth, and she could see the faint reflection of her face in the metal. She had no plan for what it would become.
+
+Beckendorf stopped beside her.
+
+"How's the finish?"
+
+"Better. I had to take more off than I expected to remove the scratch."
+
+"That's normal. You did it evenly."
+
+She nodded. Praise was pleasant, but she wanted to know what to do with the piece afterward.
+
+"Could I make a clasp?" she asked.
+
+"For what?"
+
+"A travel journal. Something that closes securely when it's in a bag and can be opened without damaging the cover."
+
+He looked interested. "Do you have the measurements?"
+
+"Not yet. I brought the journal, but I thought I should make the metal piece before deciding exactly where to put it."
+
+"Then you're doing the steps backward."
+
+She laughed. "Apparently."
+
+He gave her a measuring rule and a small sketchbook. Silena fetched the journal from her bag and laid it on the table. The cover was thick enough to take a small fitting near the edge, but she'd have to account for the thickness of the pages if she wanted the clasp to close when the book was full.
+
+"Can I measure it with paper inside?" she asked.
+
+"Yes. Use a stack the same thickness as the number of pages you expect to add. The clasp should work when the journal is full, not only today."
+
+They made a mock-up from a strip of cardboard. The first version covered part of the title she'd painted on the cover, which Silena disliked. The second sat lower but would catch on the edge of the bag when she packed it.
+
+She began to understand why Annabeth spent so long drawing things before building them. A design existed within the life someone intended to live with it, not only as an object on a workbench.
+
+She chose a narrower clasp with a rounded edge. Beckendorf showed her how to mark the bend before working the brass and asked her to test the movement on scrap.
+
+The first hinge was too stiff. The second moved easily but slipped out of alignment when she opened the cover. She adjusted the position and tried again.
+
+While she worked, Clarisse came over to examine it.
+
+"What are you making?"
+
+"Something to hold my journal shut."
+
+"You could use a string."
+
+"I could. I want to learn how to make this."
+
+Clarisse considered that. She had never understood why Silena spent so much time making ordinary belongings look attractive. But she'd spent the morning shaping a training weapon because she wanted to learn the technique, not because camp lacked spears. She recognized the same impulse.
+
+"Then make it strong enough to survive my packing," she said.
+
+"I'm not letting you pack it."
+
+"Good. You'd complain about how I folded everything."
+
+She went back to her station. Silena continued working, pleased that the exchange hadn't become a lecture about how much more useful weapons were than journals.
+
+By early afternoon, she had a working clasp. It wasn't especially polished, and the hinge needed another adjustment. She showed it to Beckendorf, who tested the opening and closing motion several times.
+
+"You've learned the hard part," he said. "Now finish the edges so they won't catch on fabric. Then you can attach it when the cover is ready."
+
+Silena looked at the little object in her hand. She had spent most of the day helping other people, and this was hers. She imagined the journal on her winter visit, its pages filled with train tickets, letters and sketches of places she hadn't seen yet. She wanted the clasp because she'd made it, not because it was the finest available.
+
+"Thank you," she said.
+
+"You're welcome. You'll want to make another one once you see how this wears."
+
+"Probably."
+
+She went back to filing. She was becoming fond of the rhythm, which surprised her. The metal didn't care whether she was good at taking care of people. It demanded attention to its own shape and the patience to correct something that hadn't worked. She could enjoy being useful to others and still want to acquire a skill for herself.
+
+
+
+---
+
 By noon, the forge was an inferno and Annabeth was in heaven.
 
 The base frame was brazed solid. Twelve columns stood in clay mock-up, soon to be fixed permanently. She'd cut the architrave strips — the beams that would sit on top of the columns — and was fitting them one by one. Thalia held, Annabeth heated, the filler flowed. They'd developed a rhythm: flux, clamp, heat, feed, cool, check. Flux, clamp, heat, feed, cool, check.
@@ -402,7 +672,7 @@ Thalia, watching her hesitate, nudged her. "What?"
 
 Thalia was quiet for a moment, turning a bronze offcut over in her fingers. The forge roared around them. Someone laughed — Clarisse, at something Jake said. Water hissed.
 
-"Annabeth," Thalia said at last. "You remember being seventeen, right? You told me about it. You remember who you were."
+"Annabeth," Thalia said at last. "You told me there are years you remember that I don't. You remember what it was like to build before all this changed for you."
 
 "Yeah."
 
@@ -490,9 +760,66 @@ They walked up the hill together, five abreast where the path allowed: Clarisse 
 
 Annabeth laughed, tilted her face to the evening sky — blue fading to gold, first stars pricking through, clouds piled like marble blocks on the horizon — and felt the two halves of herself settle, builder and storm, craft and power, memory and present, into something that held.
 
-Like a good joint. Heated, joined, cooled. Stronger together than apart.
+Annabeth wiped the last smudge of soot from the bronze owl's wing. Percy held it out at arm's length, checking whether the little joint moved when the wind caught it.
 
-Behind them, the forge glowed on, orange and steady, making and mending for the whole camp. Ahead, dinner waited. The little bronze owl rode in Percy's hands, wings spread, ready for any weather.
+"It does," he said.
+
+"Of course it does."
+
+He tipped the bird toward her. Its wings opened a fraction, then settled back into place.
+
+She wanted to make three changes to the design before anyone saw it again. Percy wanted dinner. She let him win that argument because she was hungry too, and they walked back with the owl packed safely in his hands.
 
 ---
 
+The next day, Beckendorf gathered the projects for a short inspection before anyone took them out of the forge.
+
+Clarisse's spearhead needed more finishing. The edge had held through the revised test, but the handle fitting still had a gap that could loosen after repeated impacts. Silena's journal clasp moved well, though the first hinge pin was slightly crooked. Annabeth's owl had a delicate wing mechanism, and Beckendorf wanted it tested at different angles before she attached it permanently to the base.
+
+Nobody received a perfect score. Beckendorf hadn't given them scores at all.
+
+"We're not ranking objects by how impressive they look," he said. "I want you to be able to explain what each piece is meant to do, how you know it can do that, and which parts still need work."
+
+Clarisse looked toward her spearhead. "Mine isn't ready for the arena."
+
+"Correct."
+
+"Can I say it's finished when the fitting is done?"
+
+"When we inspect the complete piece together."
+
+She nodded. It was difficult not to take the unfinished status as a judgment on herself, especially because she'd worked harder on it than she'd expected. She also knew the spear would be dangerous if she rushed the last step.
+
+Silena opened and closed the clasp until it caught at the same point on the third attempt.
+
+"That's the problem I need to fix," she said. "The pin moves sideways when the cover bends."
+
+Beckendorf suggested checking the alignment under a small load. Silena made a note and put the piece back into its padded tray.
+
+Annabeth asked permission to test the owl's wings with the base held in a clamp. The first movement was smooth. The second stalled near the top. She stopped rather than forcing the mechanism and examined the joint.
+
+"There's a burr here," she said. "I didn't finish the edge properly."
+
+"Then you'll be able to correct it without breaking the whole piece," Beckendorf replied.
+
+Percy held the small light where she could see. He had been waiting for a chance to try the owl himself, but he didn't ask until Annabeth said the mechanism was safe.
+
+She worked the burr down with a fine file, then tested again. The wing opened and closed smoothly several times.
+
+"Now?" Percy asked.
+
+"Now."
+
+He moved the lever carefully. The bird's wings opened a little and settled back into place.
+
+Annabeth smiled. She was glad he liked it. She also liked that it was an object she'd made deliberately, with help from people who respected the parts they didn't know.
+
+When the inspection ended, Beckendorf returned the completed or approved pieces and kept the unfinished ones in the cabinet. The group left with fewer trophies than they'd imagined and more practical knowledge than they'd expected.
+
+Percy handed Annabeth the owl in its padded box. Clarisse carried her measurement notes instead of a spear. Silena had a clasp to refine and a journal she intended to take somewhere beyond camp.
+
+They went to lunch arguing about whose project would be finished first. Beckendorf watched them from the workshop door, satisfied that they had learned the most important rule of the forge: wanting something made was only the beginning of making it well.
+
+Later, Percy found a copy of the safety checklist on his bed. Clarisse had brought it from the forge and marked the steps he was most likely to skip when excited. He wanted to protest that he had followed every instruction, then remembered the moment he'd asked whether water could be used to cool the metal before learning what alloy they were working with.
+
+He folded the list into his notebook. Next time he visited the forge, he would ask what the material needed before offering to help. Annabeth would probably have three new ideas by then, and Clarisse would still want to make a sharper weapon. He looked forward to both possibilities, including the mistakes they would certainly make and correct.

@@ -739,19 +739,46 @@ There was a particular pleasure, Thalia thought, in being witnessed.
 
 Not looked at. Not performed at. Witnessed — heard by the exact people who had already heard the worst of you and stayed anyway. Clarisse had read forty-seven plain lines about a boy who hummed, and the whole valley had heard her say she had never been happier, and she would carry that for the rest of her life. Silena had stopped being quiet about a thing she loved. Percy had hummed for twelve seconds with his whole heart in it, and nobody had let him be ashamed of it. And Annabeth, who had grown up with a sister who was always the loud one, had sung one verse in a clear voice, and the sky had kept it.
 
-They were all going to need it again. Thalia had spent her life being the loudest thing in the room, and had recently, and privately, learned that she could be wrong and afraid and still be loved in the same building, which was the entire discovery of being eighteen years old and halfway home.
+At the bottom of the cabin path, Thalia found Annabeth waiting with a blanket around her shoulders. Percy had gone ahead to put the borrowed cups away. That was thoughtful of him; it gave the sisters a few steps without anyone else listening.
 
-"Thal?" Annabeth said, up the path a little, where she had stopped and waited, which was a thing she did now, sometimes, without appearing to decide to.
+"That second verse," Annabeth said. "You changed the words."
 
-"Coming," Thalia said, and went to her, and put her arm back where it belonged. "Tomorrow. The ridge. The overnight. Stars, cold, no sense."
+"I forgot them."
 
-"Silena says bring a story for the fire."
+"You never forget lyrics."
 
-"We have stories."
+"I forgot those ones." Thalia rubbed her hands together, trying to get the feeling back into her fingers. "Besides, nobody seemed to notice."
 
-"We have ours," Annabeth said, and leaned her head against her sister's shoulder for three steps, which was Thalia's allotment, and then straightened up, and held out her hand, and Percy took it, and the three of them came up the last of the path into the warm dark of the cabins with the fire behind them and the whole lake of stars overhead, loud, off-key, and entirely theirs.
+"I noticed."
+
+Of course she had. Thalia had improvised after a line reminded her of an old argument with Beryl. It had been easier to make the words ridiculous than let the whole camp hear something she couldn't explain.
+
+"I wasn't trying to ruin the song."
+
+"I didn't say you ruined it."
+
+"Then what are you saying?"
+
+Annabeth stopped beside the path lantern. Its metal hood rattled in the wind. "I liked the version you made. But I could tell you weren't laughing for the same reason everyone else was."
+
+Thalia looked at her. The younger sister who used to reach for Thalia's hand in crowded places was looking back without asking to be protected from the answer.
+
+"I'll tell you another time," Thalia said.
+
+Annabeth considered that, then nodded. "Okay."
+
+A moment later she added, "You can sing the wrong words tomorrow too. I'm keeping the real ones."
+
+"You're impossible."
+
+"According to the best available witnesses, I'm very musical."
+
+Thalia barked a laugh and tugged the blanket more securely around Annabeth's shoulders. They finished the walk with their boots crunching over the cold path. Tomorrow they would take the overnight kit up toward the ridge. Thalia would have to decide which story she wanted to tell at the fire, and she would decide it without letting Silena choose for her.
+
+At the cabin door Annabeth took the folded program out of her pocket and gave Thalia the half she'd kept dry.
+
+"For your trunk," she said.
+
+Thalia accepted it, though her trunk was already full of things she claimed not to save.
 
 ---
-
----
-

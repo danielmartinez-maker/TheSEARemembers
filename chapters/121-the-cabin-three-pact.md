@@ -302,7 +302,777 @@ Clarisse stood and picked up her spear. “I’m going to the arena now. I’ll 
 
 Clarisse made a sound that might have been a laugh and left, this time without the pause.
 
+
 ---
+
+By the time breakfast ended, Percy had discovered a problem with having a sensible family rule: he wanted to demonstrate immediately that he was excellent at following it.
+
+This was unfortunate, because the first person he encountered after breakfast was Clarisse, and she had been awake for hours.
+
+He had not gone looking for her. He had an actual reason to be at the arena. Chiron needed somebody to return two blunted swords that had turned up in the dining pavilion's storage cupboard, and Percy had volunteered before anybody could point out that the swords had probably been left there by him.
+
+He carried them over one shoulder, hilts facing down. Annabeth had offered to help him identify the maker's stamps, but she had a drawing lesson with a younger camper and had refused to let his ability to misplace weapons rearrange her morning.
+
+The practice yard was busier than he'd expected. A line of campers stood near the fence with practice shields, and Clarisse had arranged three straw targets in a staggered row. She was showing a small Hermes boy how to keep his feet under him when he changed direction. The boy was making the same mistake every time, reaching for the next target before his back foot was planted.
+
+"Again," Clarisse said.
+
+"I did it."
+
+"You hit the target. Then you fell over."
+
+"I didn't fall."
+
+"The dirt caught you. Very heroic of the dirt."
+
+Percy leaned the swords against the weapons rack. He should have left. The boy was red-faced enough without an audience, and Clarisse had told him where she would be, not invited him to supervise her morning. But he noticed a practice shield near the fence with a loose strap and picked it up.
+
+"That's mine," said a girl from the Apollo cabin.
+
+"Do you mind if I fix the buckle?"
+
+"Do you know how?"
+
+"That's a painful question."
+
+She examined him for a second and handed it over.
+
+The buckle wasn't broken. The leather had been threaded through the wrong slot, leaving the handle loose against a wrist. He knelt at the rack, set the shield on its edge and worked the strap free. By the time he'd started threading it back, the girl had returned to the line and Clarisse had noticed him.
+
+"You're late," she called.
+
+"I didn't know I had an appointment."
+
+"Neither did I."
+
+One of the other campers laughed. Percy lifted the shield and tested the grip with his forearm. It held.
+
+"I brought Chiron's swords," he said. "Apparently they're not supposed to live with the breakfast plates."
+
+"Tragic news for the swords."
+
+"I'll break it to them gently."
+
+Clarisse went back to the Hermes boy. Percy waited until the drill had begun again before leaving the shield on the rack. He was at the gate when he heard the boy swear, the short panicked sort of word that came when a foot slipped.
+
+Percy turned.
+
+The boy had driven his heel into a shallow rut along the edge of the sand. He wasn't hurt, but his leg was twisted under him and he was trying to stand before he'd untangled it. Clarisse stopped him with one hand on his shoulder.
+
+"Stay down for a second. Move your ankle."
+
+"It moves."
+
+"Good. Now stand. Slowly."
+
+Percy reached the fence. "The rut's deeper on that side."
+
+"I can see it," Clarisse said.
+
+"I could fill it."
+
+"You could. But I'm halfway through a drill, and you are distracting three people."
+
+He looked at the line. Three faces immediately turned away from him.
+
+"Right. Sorry."
+
+Clarisse guided the boy toward the bench. "He can get water. The rest of you move the targets six feet north. Nobody uses that corner until we've raked it."
+
+Percy picked up the rake leaning beside the rack.
+
+"Percy."
+
+He stopped with the handle in his hand.
+
+"I said we would rake it. I didn't say you had to do it."
+
+"I thought it would help."
+
+"It would. That's not the point."
+
+He couldn't find a response that didn't make him sound like a sulky child whose sister had rejected a present. He set the rake back.
+
+"You already know what you're doing," he said.
+
+"Usually."
+
+"I know."
+
+"Then why are you still standing there?"
+
+Because the boy had fallen. Because he'd seen an obvious problem and hated the idea that he could walk away while somebody else handled it. Because Clarisse was his sister, and he was learning that love in this family did not always look like being wanted in the middle of somebody else's work.
+
+"Because I came over without asking, and now I feel stupid leaving," he said.
+
+Clarisse considered him with the sort of expression she reserved for an opponent who'd unexpectedly told the truth.
+
+"Good," she said. "Then we're making progress."
+
+"That's a horrible way to encourage people."
+
+"I'm not an encouragement machine."
+
+"I noticed."
+
+She nodded toward the rack. "You can hold the far end of the fence while I move the targets. After that, I don't need another instructor. Can you manage that?"
+
+"Yes."
+
+"Without coaching my campers?"
+
+"I'll do my best."
+
+"Your best had better look suspiciously like silence."
+
+He held the fence while she and two campers pulled the targets clear of the uneven ground. The fence post had worked loose in last week's rain, and moving the heavy stands across it would have sent the post over. His job was dull, specific and, as it turned out, necessary. The plank pressed against his palms; Clarisse did the directing. Nobody asked him to make a speech about it.
+
+Once the path was clear, Clarisse dug the rake into the sand and handed it to the Hermes boy.
+
+"You found the rut. You help fix it. The yard belongs to all of us."
+
+The boy took it and began dragging sand into the depression. The Apollo girl joined him without being asked.
+
+Clarisse came to the fence where Percy stood. "You didn't have to come here to check on me."
+
+"I brought swords."
+
+"And then stayed."
+
+"That part was me being nosy."
+
+"I don't mind you visiting," she said. "I mind you showing up and deciding I can't manage my own job."
+
+His first instinct was to insist that he'd never thought that. His second was to defend every helpful thing he'd done in the last ten minutes. Both would require treating Clarisse like she had to establish the facts of her own work for his approval.
+
+He tried the harder answer instead.
+
+"I'll ask next time."
+
+"Good. You can also just watch. It isn't a crime."
+
+"You told me not to distract your campers."
+
+"I said you were distracting them. That's not the same thing as banning you forever."
+
+"So I have visiting hours?"
+
+"You have a mouth. Use it."
+
+That should not have been as difficult as it was. He leaned against the post, which now held firm under his hands.
+
+"Can I stay until they finish the next round?"
+
+Clarisse looked toward the line of campers. "You can stay by the fence. Don't yell advice. And if the Hermes kid falls again, I will handle it."
+
+"Deal."
+
+She gave him one swift nod and went back to the center of the yard.
+
+He watched. The Hermes boy planted his back foot properly on the second attempt. On the third, he forgot and tripped over his own shield. Clarisse did not pretend that it was a success, but she also didn't let the boy's embarrassment turn into the whole story. She showed him the movement one more time, had him repeat it without a weapon, and let the next camper try.
+
+Percy noticed a dozen choices Clarisse made that he'd missed when he was busy trying to help. She paired the fastest child with the slowest only after giving both a task suited to their skill. She altered the order of the targets for a camper who'd learned to anticipate the pattern. She told a pair of friends to stop laughing at each other's mistakes, then laughed herself when one of them launched a shield directly into the empty water trough.
+
+When the drill ended, Clarisse brought the campers into a loose circle. She assigned the rake and targets to two of them, the battered practice shields to the others, and said the lesson's final part was putting the equipment away correctly.
+
+The Hermes boy lingered after the rest had scattered.
+
+"Am I still allowed back tomorrow?" he asked.
+
+Clarisse looked genuinely confused. "Why wouldn't you be?"
+
+"I kept falling."
+
+"That's why you practice."
+
+He absorbed this, then grinned and ran after the others.
+
+Percy waited until the boy was out of earshot. "You're good with him."
+
+"I know."
+
+"I don't think he knows."
+
+"Then he'll learn." She wiped her forehead on her sleeve. "You can say nice things about my work without acting like you're surprised I can do it."
+
+"All right."
+
+"And don't repeat the bit where I was nice."
+
+"Wouldn't dream of it."
+
+He picked up the empty water bucket and held it up in question. Clarisse pointed him toward the trough. That was enough of an answer.
+
+As they walked back toward the cabins, she did not tell him everything she'd thought during the drill. He did not ask. Their conversation went instead to which dummy was due for a new straw stuffing, whether the kitchen could spare grain sacks, and why the Hermes children treated borrowed practice swords as though they were communal souvenirs.
+
+At the fork in the path, Clarisse stopped.
+
+"I'm going to the storeroom," she said. "Back at the cabin by lunch."
+
+"You don't have to give me a destination every time you change paths."
+
+"No," she said. "But I said I would this morning, and I can afford to practice."
+
+Percy looked at the fork, then at the swords he'd returned. "I think I'll go help Silena."
+
+"Ask first."
+
+He winced.
+
+Clarisse smiled without showing her teeth. "You're welcome."
+
+She turned toward the storeroom. Percy set off toward the pavilion, trying not to make another family policy out of one good conversation.
+
+
+---
+
+Silena was not at the pavilion when Percy got there. She had left a note under a pebble beside the empty bread basket.
+
+*Borrowed the back table. Behind the craft shed. If anyone needs costumes mended for tonight, the answer is no.*
+
+He read the final sentence again. It was so unlike Silena's usual notes that he wondered whether Clarisse had added it to be funny.
+
+He found his sister beneath a sycamore, with two pieces of cloth spread across a borrowed table. One was faded blue sailcloth, the other new green canvas. A tray of buttons, three spools and a paper packet of sea-glass beads occupied the remaining space. Silena had a pencil tucked behind her ear and a seam ripper in her hand.
+
+"Before you ask," she said, "I'm not making anything for the dining pavilion."
+
+"I wasn't going to ask."
+
+"You were looking at the fabric."
+
+"I look at fabric all the time."
+
+"Percy."
+
+"Fine. What are you making?"
+
+"A case for my own sewing things."
+
+The compartments were different sizes. One held her scissors; another was evidently intended for needles, though its little flap hadn't yet been attached. A broad pocket along the back could hold patterns or folded paper. She had marked a curved corner in chalk, changed her mind and cut it square.
+
+"Your own things?" he repeated.
+
+"Yes. The things that wander away whenever somebody needs them."
+
+"Is that a complaint about me?"
+
+"Your pocket is full of my pencils."
+
+He produced two pencils. Silena took the longer one, inspected its blunted end and put it in the unfinished pocket. She didn't thank him. That told him more about her morning than an explanation might have.
+
+"What happened?"
+
+"Nothing terrible."
+
+"That's not what I asked."
+
+She lifted her seam ripper. "Three people came to ask whether I could do a job somebody else was supposed to do. I said no to the first. I gave the second directions to the sewing cupboard. The third told me I was the only one who could fix the costumes properly, and that apparently made me responsible for them."
+
+"Did you agree?"
+
+"No. I found a table and left."
+
+He looked at her for a moment. He was used to her being the one who noticed things first, whether it was a torn shirt or a person being quietly left out of a conversation. He'd made the mistake of thinking that noticing cost her nothing.
+
+"Want me to make sure nobody bothers you?"
+
+"No. I'd like you to sit here."
+
+"That's it?"
+
+"You can sort those buttons. They have been annoying me all week."
+
+He sat and tipped the tin into a wooden tray. A flood of mismatched circles rolled toward him, from tiny pearl-white buttons to discs of heavy brass. Sorting them gave his hands something to do. He made three piles, discovered the largest pile wouldn't fit, and started again.
+
+A Demeter camper appeared along the path, carrying a half-finished banner. Green cloth trailed behind her boots.
+
+"Silena? Could you help with this? We just need the hem."
+
+Silena didn't reach for the cloth. "I'm not sewing banners today."
+
+"It wouldn't take very long."
+
+"It would take me at least an hour to do it well."
+
+"The committee said you helped last time."
+
+"I did help last time."
+
+"Could you show me which stitch to use, then?"
+
+Percy saw Silena's fingers move a fraction toward her needle. She knew how to fix the problem. The awkwardness of refusing visibly bothered her. She could have relieved that discomfort by helping for five minutes, which would probably become ten, and then half an hour. She kept her hands on the table instead.
+
+"There's a backstitch diagram pinned above the thread cupboard," she said. "If the committee doesn't have a sewer assigned, ask who signed up."
+
+The girl shifted her grip on the banner. "I don't know who that is."
+
+"Then you need the committee list."
+
+For a moment Percy thought she might argue. Instead she pulled the fabric over her arm and left, muttering something about finding the list.
+
+He waited until she was out of earshot. "I thought you were going to do it."
+
+"So did I."
+
+"Would you have wanted to?"
+
+"Not today."
+
+"Then why did you look like you might?"
+
+Silena examined a crooked seam in her case. "Because I know how. Saying no to work you can do feels rude, even when you already have work you chose for yourself."
+
+"I could have volunteered."
+
+"You didn't want to hem that banner."
+
+"No."
+
+"Then please don't turn my refusal into a job you feel obliged to do."
+
+Percy let the thought settle. He had spent the morning being corrected by Clarisse for trying to run a drill that was not his. Now Silena was asking him to do something harder than wield a rake or carry a shield. She wanted him to trust her no without immediately finding a way to make the consequences disappear.
+
+"All right," he said. "I'll finish the buttons."
+
+"Please do. Half of them have been trying to escape for months."
+
+Annabeth arrived with a roll of drawings and chalk across two knuckles.
+
+"Percy, have you seen my—" She stopped when she saw the buttons. "Are you preparing for some extremely dull war?"
+
+"I'm training as a tailor."
+
+"Poorly?"
+
+"So far."
+
+Silena cleared room for the drawings. Annabeth laid out a child's sketch of a small building with a magnificent arched roof and no visible entrance. She'd been teaching younger campers how to plan structures around a purpose. Percy tilted the page.
+
+"Is it a prison?"
+
+"Supposed to be a greenhouse."
+
+"How do the gardeners enter?"
+
+"Through the roof, apparently. The student suggested a ladder."
+
+"Can you carry a tray of seedlings up a ladder?"
+
+"That was my question."
+
+"Throw the trays?"
+
+"Her first answer."
+
+Percy grinned. He liked the child already. Annabeth traced the load-bearing triangles with a fingernail, explaining how the roof would hold while the people underneath it were essentially trapped. She'd asked the class to redraw the walls around doors and paths before they got carried away with elaborate supports.
+
+"I want you to look at the new version later," she said to him. "Not to say the design is clever. Tell me what a person carrying equipment would actually need."
+
+"Am I being recruited for my poor architectural imagination?"
+
+"Your willingness to carry too much at once."
+
+"Finally, a useful talent."
+
+Silena made a sound. Percy looked up.
+
+"What?"
+
+"That is exactly what we've been talking about."
+
+"I was joking."
+
+"I know. You make that joke a lot."
+
+He was saved from answering by a button rolling off the table. He caught it against his knee and put it back in its pile.
+
+Annabeth listened to the explanation, then looked over Silena's storage case. "Have you put your name inside it?"
+
+"Not yet."
+
+"You should. People borrow your supplies as if they came with the craft shed."
+
+"I've been conducting a quiet investigation," Silena said, glancing at Percy's two returned pencils.
+
+"Unfair," he protested. "I brought evidence against myself."
+
+"An excellent start," Annabeth said.
+
+Silena unfolded the green cloth and tucked in a pencil. It slipped down too far, disappearing behind the lining.
+
+"That's irritating," she said.
+
+Annabeth bent over the piece. "What if you divided the pocket?"
+
+"The beads would push the pencils sideways."
+
+"Not if the seam stopped here." Annabeth indicated a line with her fingertip.
+
+Silena marked it in chalk. After studying the proportions, she moved the line half an inch and nodded.
+
+"That works."
+
+She was pleased. Percy could see it in the way she started threading her needle before she had finished talking. It was a different kind of pleasure from satisfying somebody else's request. The object was hers and would remain hers, even if the whole camp admired it.
+
+While they worked, Annabeth and Percy tested the greenhouse drawing against problems the child hadn't considered. A door that opened outward across a narrow path. A water barrel too heavy to carry over steps. A drainage trench that cut off access in rain. Annabeth listened, made small adjustments, then discarded one of his suggestions because it would damage the structure.
+
+"That is reasonable," he said. "I have no evidence otherwise."
+
+"An unprecedented statement."
+
+"What can I say? I'm evolving."
+
+A camper called from the path, asking if Silena was still taking costume repairs.
+
+"No," Silena answered. "Try the committee."
+
+"All right!" came the reply, and the footsteps passed without stopping.
+
+Percy watched her hands steady on the seam. Nobody was angry. Nobody called her selfish. He knew the next refusal might be less comfortable, but this one had simply been accepted.
+
+"I'm meeting Thalia after lunch," Annabeth said, rolling up the drawing. "We're checking the lower steps. The rain washed some soil away."
+
+"I can come," Percy offered.
+
+"To observe, if you want."
+
+"Everyone likes that word today."
+
+"Maybe you need the practice."
+
+She gave him a quick kiss on the cheek as she passed his side of the table, then went off carrying her drawings. He watched her turn the corner toward Cabin One before facing Silena again.
+
+"Can I do anything else?" he asked.
+
+"You can finish sorting. Then you can get lunch. And after that, you can go see your girlfriend."
+
+"Very generous."
+
+"I am generous." Silena inspected her work, found a crooked stitch and removed it without ceremony. "I'm also allowed to be something else when I want."
+
+Percy pulled the last small buttons into their tin. He didn't offer to finish her sewing. She didn't need him to.
+
+
+---
+
+After lunch, Percy found Annabeth and Thalia halfway down the lower path to the shore, disagreeing about a plank.
+
+The disagreement had begun before he arrived. He could tell by the way Thalia held the plank under one arm and Annabeth held a piece of measuring cord under the other, each as if the thing in her possession explained the entire case.
+
+"You can't just put it there," Annabeth said.
+
+"It's a plank. It goes over the hole."
+
+"Then somebody puts their foot on the middle, the dirt drops out from under the other end, and now we have a plank that tips people into the ditch."
+
+Thalia shifted the wood against her hip. "I was going to brace it."
+
+"With what?"
+
+"Something heavier."
+
+Percy stopped a safe distance away. "Am I interrupting a professional engineering meeting?"
+
+"No," Annabeth said.
+
+"Yes," Thalia said at the same time.
+
+He considered both answers. "I'll wait here."
+
+The lower steps descended between a stand of scrub pine and a rough wall of dark rock. Campers used them to reach the strip of beach along the Sound. The storm had left a small section of bank undercut beside the third step. A crack ran through the packed earth, and the path's drainage channel had filled with gravel. Water from the last rain had found a new course straight across the footpath.
+
+Annabeth had marked the edge with chalk. She'd also tied a length of cord between two shrubs, waist-high, to keep people from stepping on the soft ground.
+
+"Chiron said to assess it," she told Percy. "Not to rebuild it."
+
+"Then why the plank?"
+
+"Thalia found one."
+
+"It was near the shed," Thalia said. "Nobody was using it."
+
+"That doesn't make it a bridge."
+
+"I hadn't promoted it yet."
+
+Percy came close enough to see the gap without stepping across the chalk line. The exposed soil was dark and damp beneath a skin of dry dust. Somebody had left a heel print at the edge, where the earth had crumbled away in a thin crescent. He touched the nearest step with his boot. It was solid, but the dirt immediately beside it wasn't.
+
+"What would you do?" Annabeth asked.
+
+He glanced from her to the bank. "Walk around until it's fixed."
+
+"I mean if you had to bring a loaded handcart down here."
+
+"I wouldn't."
+
+"That is a correct answer," she said. "Unfortunately people will try."
+
+Thalia pointed at the plank. "Which is why I thought of covering the hole."
+
+"Covering it makes the weak edge invisible," Annabeth replied. "You might make it more tempting to step there."
+
+Percy watched Thalia look toward the crack. She had come because Annabeth asked for help, not because she wanted to take over. Her face changed when she saw the heel mark. He knew that expression. A danger had presented itself, and her body had decided to handle it faster than her mouth could ask.
+
+"Then we rope it off," Thalia said.
+
+"It's already roped off."
+
+"We rope off the whole path."
+
+"That would work for today. But we need a plan for the repair."
+
+"I didn't say we shouldn't repair it."
+
+"You said put the plank over it."
+
+"I was trying to keep someone from getting hurt while you measured dirt."
+
+Annabeth went still. The cord in her hand had formed a loop around one finger, and she unwound it carefully before she spoke.
+
+"I'm measuring it because otherwise the repair might fail. You're acting like I haven't noticed the danger."
+
+Thalia lowered the plank. "I didn't say you hadn't."
+
+"You didn't have to."
+
+Percy felt the familiar temptation to step between them with an answer simple enough to sound wise. He had seen that temptation go badly at the arena, and he'd spent the last hour sorting buttons while Silena taught him why a quick solution could become a way of taking over. He kept his mouth shut.
+
+Thalia set the plank on the dry ground. The heavy end struck a stone with a dull thump.
+
+"Fine," she said. "Tell me what you need."
+
+Annabeth looked up. "I need you to stop moving things before we agree on what we're testing."
+
+"I didn't move anything."
+
+"You carried the plank down here."
+
+"That's carrying."
+
+"And when I said it wasn't safe, you said you'd find something heavier."
+
+Thalia opened her mouth, then shut it. She gave the plank a hostile look, as if it had betrayed her.
+
+"All right," she said. "What are we testing?"
+
+The question was grudging, but it was real. Annabeth took a slow breath and explained that she wanted to know where the diverted water went when the upper channel overflowed. The point wasn't just the visible crack. If they packed it with new soil without clearing the original runoff, the next storm would carve the same hollow again.
+
+She drew two lines in the dirt with a stick, then a third line to show the slope.
+
+"The water is coming from above here," she said. "It hits this stone, runs sideways, and cuts under the third step. I'd clear the blocked drain first. Then we'd check whether the bank needs a retaining board or a proper stone edge."
+
+Thalia knelt and examined the gravel-filled channel. "So we don't know which fix yet."
+
+"Right."
+
+"Can we at least clear the gravel?"
+
+"Not before Chiron agrees we can work near the crack. We can show him the measurements."
+
+Thalia nodded. "I can carry the board back."
+
+"That would help."
+
+She picked it up. Percy saw the tiny relaxation in Annabeth's shoulders. The argument hadn't vanished. Thalia still looked irritated; Annabeth was plainly tired of defending a process she'd thought through. But each had an actual task now.
+
+Percy stepped aside so Thalia could pass. A narrow rush of wind lifted grit from the path and rattled the pine needles. Thalia's frustration sometimes found its way into the air before she did anything dramatic with it. She closed her free hand and the gust died.
+
+"You all right?" Percy asked quietly.
+
+"I'm carrying a plank."
+
+"That's not an answer."
+
+"It's the one I've got."
+
+He did not press. Thalia looked at him for a moment, probably surprised he hadn't. Then she shifted the plank so the heavier end balanced more comfortably.
+
+"She thinks I don't trust her," Thalia said, looking back toward the steps.
+
+Percy considered what he had heard. "You came because she asked."
+
+"Yes."
+
+"And then you tried to solve it first."
+
+"Yes."
+
+"That might explain part of it."
+
+Thalia made a face. "You sound like her."
+
+"I should apologize to her for that."
+
+"You should."
+
+But she didn't walk away. She waited while Annabeth knelt to note the depth of the channel in her sketchbook, and when the pencil slipped down the incline, Thalia caught it under her boot before it reached the soft ground. She picked it up and set it on a dry stone within Annabeth's reach. She didn't say anything. Annabeth took it without looking up.
+
+Percy found the measuring cord caught beneath a twig. "Want me to hold the end?" he asked.
+
+"Yes," Annabeth said. "At the chalk mark. Don't stand beyond it."
+
+He obeyed. She drew the cord taut along the safe side of the path, counting steps and marking distances against the wall. When she asked him to shift six inches, he shifted six inches. When he misread her hand signal and stepped the wrong way, she told him so with a sharp look that made him glad the audience consisted only of her sister and several indifferent pine trees.
+
+"How am I doing?" he asked.
+
+"Like somebody who can follow instructions but doesn't always choose to."
+
+"Painfully accurate."
+
+They measured the length of the washout, the distance to the nearest solid footing and the slope of the old channel. Annabeth wrote everything down. Then she stood and studied the page, frowned, crossed out one figure and asked Percy to repeat a measurement.
+
+"I wrote four feet where it should have been three," she said.
+
+"That would have made the repair quite ambitious."
+
+"It would have made it wrong."
+
+She didn't blame him. She corrected the number. Percy liked that about her, though he'd also been on the receiving end of her refusal to pretend a flawed plan was fine.
+
+By the time Chiron came down the path, carrying a coil of rope, the three of them had a usable sketch and a clear account of what they hadn't checked. He listened as Annabeth explained the runoff, then walked the safe side of the steps himself. He agreed that the path should remain closed until the drainage channel could be cleared and the undercut examined from a stable position.
+
+"The retaining edge is work for the repair crew," he said. "Not for three campers with a plank."
+
+"Four campers," Percy said. "I was standing here being useful."
+
+Chiron's eyes flicked toward the board under Thalia's arm. "Very useful, I'm sure."
+
+Thalia sighed. "I'm taking it back."
+
+"Thank you. And Annabeth, will you leave a copy of your measurements with me?"
+
+Annabeth nodded, pleased despite herself.
+
+Chiron took the rope and reinforced the warning line well above the eroded bank. He put a red scrap of cloth on the upper end to make the closure visible even in poor light. Then he instructed the next patrol to use the higher path until the work was completed. It was a small, plain decision, and Percy suspected it would prevent more trouble than the four of them could have solved by arguing for the rest of the afternoon.
+
+They went up the path together. Thalia carried the plank; Annabeth carried the sketch; Percy carried nothing except the memory of the moment he'd nearly volunteered to solve a problem he hadn't understood.
+
+At the top of the steps, Thalia slowed.
+
+"I wasn't trying to make you stop measuring," she told Annabeth.
+
+"I know."
+
+"I saw the footprint and thought somebody could get hurt."
+
+"I saw it too."
+
+Thalia grimaced. "Right. That's my point, isn't it?"
+
+"Part of it."
+
+"I'll ask next time before I drag wood down a hill."
+
+Annabeth considered her. "And I'll tell you when I actually want you to take over a task instead of expecting you to guess."
+
+"I don't want to take over."
+
+"You do sometimes."
+
+Thalia opened her mouth to object, then gave a rueful snort. "I absolutely do sometimes."
+
+Annabeth's smile was cautious. It didn't erase the edge of the exchange, but it was hers. "I know why. I just don't always like it."
+
+"Fair enough."
+
+Percy watched them from beside the tool shed. This was not a miraculous conversation. The next time Annabeth ran toward something risky, Thalia might still reach for her before she thought. The next time Thalia worried, Annabeth might still hear only an order. Neither had agreed to become an entirely different person.
+
+Annabeth came over and slipped her fingers into Percy's.
+
+"You did well with the measuring cord," she said.
+
+"High praise."
+
+"You stepped on my drawing once."
+
+"Then mixed praise."
+
+"You also didn't interfere when Thalia and I argued."
+
+"I had several excellent lines ready."
+
+"I could tell."
+
+"One involved a plank and a treaty."
+
+"Please save it for dinner."
+
+He looked at the pencil marks on her hands. "Did you want me here?"
+
+"I invited you, didn't I?"
+
+"You invited me to observe."
+
+"And help when I asked." She squeezed his hand. "That's different from standing outside the fence because you think I don't need you at all."
+
+Percy thought about Clarisse's drill and Silena's sewing case. He'd been trying to find a single rule that would cover everyone he cared about. There wasn't one. Clarisse wanted her competence respected. Silena wanted to be able to refuse. Annabeth wanted him to participate without deciding the outcome for her. None of those requests meant they had no room for him.
+
+He offered Annabeth the pencil he'd retrieved earlier. She stared at it.
+
+"That's Silena's."
+
+"I know. I borrowed it to make sure I remembered to return it."
+
+"That's not how borrowing works."
+
+"I've been told."
+
+Annabeth took the pencil anyway. She tucked it alongside her own and promised to pass it back when they reached the cabin. The two of them walked toward the dining pavilion, following the higher path Chiron had marked safe. Behind them, Thalia deposited the plank at the shed with more force than strictly necessary, then caught up without commenting on Percy's grin.
+
+Halfway there, Silena emerged from the craft path carrying her finished case. She had stitched a little blue bead into the corner, and the pocket for her pencils was now exactly the right depth.
+
+Clarisse appeared from the storeroom with an empty grain sack under one arm. She looked first at the case, then at the sketchbook, then at the board visible behind them beside the shed.
+
+"What happened?" she asked.
+
+"Nobody died," Thalia said.
+
+"That's a suspicious opening."
+
+"We surveyed the path," Annabeth said. "It's closed until the repair crew can work."
+
+"Good. I heard it was washing out."
+
+"That's why I measured it."
+
+Clarisse glanced at Percy. "Did you try to fix it?"
+
+"Not once."
+
+"Miracles happen."
+
+Silena showed her the sewing case. Clarisse examined the straight stitching, pressed a finger into the pencil pocket, and said, "That'll last."
+
+Silena beamed. Praise from Clarisse arrived with the economy of an arrow and usually struck its target.
+
+"You can keep making jokes about a ceremony," Silena said, "but we're still doing the meeting later."
+
+Clarisse sighed. "I haven't forgotten."
+
+"Beach or cabin?" Percy asked.
+
+Annabeth looked toward the higher path. "The beach. Use the safe route, obviously."
+
+"Because we have a professional surveyor now?"
+
+"Because the lower steps are closed," she said. "And because I would rather not spend a family promise ceremony watching somebody fall into a ditch."
+
+Thalia shifted the empty grain sack from Clarisse's arm to her own without asking, then caught Annabeth looking at her. She held it out again.
+
+"Do you want me to carry this?"
+
+Clarisse frowned. "It's my sack."
+
+"Right." Thalia handed it back. "I'm getting very bad at being helpful."
+
+"You're getting better at asking," Annabeth said.
+
+Thalia rolled her eyes, but Percy caught her smile as they turned toward camp.
+
+The plan for the afternoon remained the same. What had changed was that every one of them had practiced, imperfectly, what the promises were supposed to mean. They would still have to make the promises. Percy knew words could be easier than following through, especially with people who could tell when you were cheating. At least now he had something more substantial to promise than good intentions.
+
+---
+
 
 By afternoon, the plan had acquired two witnesses, one location, and several arguments about the meaning of the word “formal.”
 

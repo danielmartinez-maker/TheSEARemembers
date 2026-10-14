@@ -6,7 +6,7 @@ One minute they were standing in its shadow with their ears still ringing from g
 
 Percy felt it in his knees first. Adrenaline had carried him up all six hundred and thirty feet and back down again. Now that it was gone, his legs remembered every stair in the Gateway Arch, every jolt of the tram, every second he'd spent trying not to die that day. His backpack dug into his shoulders. His shirt stuck to his back. His shoes squelched.
 
-Behind him, Annabeth was limping slightly on her left ankle. She was trying not to show it. Thalia had a split lip and a bruise blooming dark along her jaw where a telkhine's elbow had caught her. Grover kept stopping to pull a pebble out of his shoe, except he wasn't wearing shoes, exactly, and the pebbles were stuck in the soft fake feet he'd pulled over his hooves, and every time he stopped he sighed like the world was ending.
+Behind him, Annabeth moved carefully, still exhausted from guiding civilians down the Arch stairs, her previously burned palm protected beneath a clean dressing. Thalia had a bandaged cut along her forehead and a burned sleeve from the Chimera's fire. Martin and the emergency workers had told her to be evaluated further for a possible head injury and to avoid exertion. Grover kept stopping to pull a pebble out of his shoe, except he wasn't wearing shoes, exactly, and the pebbles were stuck in the soft fake feet he'd pulled over his hooves, and every time he stopped he sighed like the world was ending.
 
 None of them talked much on the walk to the riverfront.
 
@@ -74,6 +74,40 @@ The river was quiet. Traffic hummed on the bridge behind them. A barge horn moan
 
 *There were children of the sea in Atlantis when it fell,* the river said gently. *Not you, salt-born. Not your sisters. Old grief travels a long way through water. Dreams can carry its echoes, but an echo is not a childhood you have forgotten. Do not mistake the story for your own years.*
 
+Percy had another question, one he had kept from nearly everyone except Annabeth.
+
+"Do you know why some people remember things other people don't?"
+
+The river moved around his fingers. He could feel a change in the current, but he couldn't tell whether it was an answer or merely the wake of a passing boat.
+
+*People carry different stories,* the spirit said at last. *A river may receive two accounts of a storm and know that both witnesses were frightened. That does not tell me which account is complete.*
+
+"That's not what I meant."
+
+*Then ask what you mean.*
+
+Percy opened his mouth. He wanted to ask who had changed his world, who had taken Sally from one childhood and placed her death in another, who had given him sisters he loved without the memories of growing up beside them. But to ask all of that was to hand the river a secret he didn't know it could keep. He had no reason to believe a spirit of the Mississippi knew more about time than the people living beside it.
+
+"Can water remember things that never happened?" he asked instead.
+
+The current cooled.
+
+*Water carries what touches it, salt-born. I can tell you about floods, boats and the stones beneath this city. I can tell you what stories others have poured into me. I cannot promise that every story is true, or that a dream is a witness.*
+
+Percy watched a barge travel downstream. It seemed enormous from this close, carrying containers with painted numbers on their sides.
+
+"So you can't tell me why my life feels wrong sometimes."
+
+*I can listen,* the spirit said. *I can tell you when you ask a question outside what I know. That is different from having the answer.*
+
+He hadn't expected the river to say that. Gods liked sounding as though they had answers for everything, especially when nobody could prove they were wrong. The spirit didn't seem particularly embarrassed by its limits.
+
+Percy traced a circle in the water and felt it dissolve.
+
+"Okay. That's fair."
+
+The spirit returned to the story of the sunken city. Percy listened, and this time he didn't try to turn every detail into a lost memory.
+
 "Is that why — " Percy stopped. He didn't know how to ask. Is that why the city in the dreams feels different from the home they tell me about? Is that why sometimes when I'm underwater I hear bells? Is that why Dad looks at me like I'm a ghost?
 
 *Yes,* said the Mississippi, simply.
@@ -98,9 +132,77 @@ Percy pulled his hand out. His fingers were wrinkled, but the bone-deep ache in 
 
 The river, being a river, said nothing. But a small wave patted the rock beside him, leaving a smooth white shell.
 
-There are no white shells in the Mississippi.
+It was a pale freshwater shell, polished by the current until it looked almost like something the sea might have washed ashore.
 
 Percy picked it up, turned it over in his palm, and put it in his pocket for Annabeth.
+
+---
+
+By the time Percy reached the public path, he realized he should not have gone down the riprap slope alone.
+
+He could still feel the exhaustion from the fall. His feet slid on the wet stone, and his shoulder protested when he pushed himself upright. The river had spoken to him in a way he hadn't expected, but he wasn't going to claim it had cured everything. The cut on his knuckle was healing; the headache and the bruised shoulder were still there.
+
+Annabeth had waited at the top. Her expression changed when she saw how hard he was leaning on the railing.
+
+"You said you'd stay by the wall," she said.
+
+"I did. Most of the time."
+
+"Percy."
+
+"I know."
+
+She didn't give him another speech. She shifted her backpack off one shoulder and offered her free hand so he could step up to the path. He took it without pretending he didn't need the help.
+
+"Did the river tell you anything?" she asked.
+
+"Some things. About Atlantis. And my dad."
+
+"Did it tell you we found the bolt?"
+
+"No." He smiled weakly. "I forgot to ask."
+
+"Good. Because I wouldn't trust a river that pretended to know everything."
+
+Percy looked back. The Mississippi was immense and busy with its own business. Barges went by without acknowledging him. There was no reason to expect that every current shared the same knowledge, or that a voice in the water was free of the limitations other spirits had.
+
+"It said dreams can carry old stories," he told her. "Not the lost years of my childhood. It didn't tell me exactly which dreams were which."
+
+Annabeth considered that. "That's more useful than a dream that claims it's a memory."
+
+He watched her place the thought in its proper category. She had been doing that since the start of the quest, and he sometimes resented her for it. Part of him wanted to believe water could explain the entire missing history if he found the right current to ask.
+
+"I don't want to go home and interrogate everybody," he said.
+
+"Then don't. You can ask a few questions and let them choose what to tell you."
+
+"What if it's something they don't want to discuss?"
+
+"Then maybe you don't get the answer immediately."
+
+Percy made a face. "That's awful."
+
+"That's families."
+
+He laughed, though his head still hurt. Then he remembered Sally, and the laughter quieted.
+
+"The river said things about Atlantis that sounded older than anything I remember," he said. "I don't want Amphitrite thinking I suddenly remember years with her that I don't."
+
+"Then you don't have to pretend that you do," Annabeth said. "You can love somebody without copying the memories they have of you."
+
+Percy looked at her. She was speaking about Amphitrite, but he knew she was thinking about Thalia and the childhood Beryl's daughters shared in this timeline. They both had people who knew versions of their lives they couldn't enter.
+
+The white shell was still in his pocket. He turned it once in his palm, checking its edge for cracks, then offered it to her.
+
+"Found this by the water."
+
+"An apology present?"
+
+"No. You'd get a much bigger shell if I were apologizing for everything."
+
+She took it anyway. For a moment they stood beside the river in the ordinary noise of the city. Then Annabeth tucked the shell into her pocket and asked him to help carry the extra water bottle because her hand was hurting again.
+
+He did. It felt like a better way to say he was listening.
 
 ---
 
@@ -116,7 +218,7 @@ They were concrete, wide and damp, leading down toward the water but stopping sh
 
 "You need a shower," Grover shot back without heat.
 
-Annabeth lowered herself more carefully onto the step above them. Her ankle throbbed. She'd twisted it on the Arch stairs when a pigeon — a normal, mortal pigeon, which was somehow more insulting — had flown straight at her face and she'd dodged into a railing. Percy had caught her elbow. She'd said she was fine. She was not fine, but she was functional, which in their line of work was basically the same thing.
+Annabeth sat carefully on the step above them. Her hand still ached from the Fury encounter, and exhaustion had made her movements clumsy. Percy had watched her count strangers in the Arch staircase while smoke filled the space around them. He didn't mistake her tiredness for weakness.
 
 She pulled her knees up, wrapped her arms around them, and watched Percy down by the water. His shoulders were hunched. His hand was in the river. The set of his jaw told her he was listening.
 
@@ -142,7 +244,7 @@ Annabeth looked up, surprised and a little wary. Thalia didn't do vulnerable oft
 
 "Yeah. Of course."
 
-Thalia fiddled with the silver bracelet on her wrist, the one with the owl charm Annabeth had given her two winters ago. She never took it off.
+Thalia fiddled with the silver bracelet on her wrist, the one with the owl charm Annabeth had given her. Percy had seen it so often he recognized it at a distance. She never took it off.
 
 "Are you scared?" Thalia asked. "Right now. On this quest."
 
@@ -152,7 +254,7 @@ Thalia huffed a laugh. "Good. Me too. I thought maybe it was just me getting sof
 
 "You're not soft. You're the least soft person I know."
 
-"Tell my split lip that." Thalia touched her jaw and winced. "It's just... after the Arch. When that thing came through the floor and Percy yelled for us to run and I just — I froze. For like half a second. I was thinking about Jason."
+"Tell my split lip that." Thalia touched her jaw and winced. "It's just... after the Arch. When the Chimera filled the gallery and I saw the smoke spreading and I just — I froze. For like half a second. I was thinking about Jason."
 
 Annabeth's chest tightened. "You haven't heard from him?"
 
@@ -160,7 +262,7 @@ Annabeth's chest tightened. "You haven't heard from him?"
 
 Annabeth reached over without thinking and put her hand over Thalia's. Thalia turned hers palm-up and squeezed hard.
 
-"I'm scared all the time too," Annabeth said softly. "I'm scared I'm going to miss something. Some clue. Some trap. Like if I were smarter, faster, better, nobody would get hurt. Today on the stairs, when that telkhine grabbed Grover, I knew what it was going to do half a second before it did it, and I still wasn't fast enough. Percy had to — " She swallowed. "I'm scared one day I'm going to be half a second too slow and it's going to be Percy."
+"I'm scared all the time too," Annabeth said softly. "I'm scared I'm going to miss something. Some clue. Some trap. Like if I were smarter, faster, better, nobody would get hurt. Today when Percy went back up the stairs, I could see what he was going to do and I still couldn't stop him. I was too slow, and he had to — " She swallowed. "I'm scared one day I'm going to be half a second too slow and it's going to be Percy."
 
 Thalia nodded slowly. "Yeah. That's the one for me too. Not me dying. Them dying. You guys." She glanced at Grover, who was pretending to be asleep but had one ear — one human ear — tilted toward them. "I kept people at a distance because I thought if I didn't love anyone else, I couldn't lose anyone else. Stupid, right?"
 
@@ -220,7 +322,7 @@ Grover unfolded the first letter with shaking hands.
 
 *Camp's fine. Don't worry. Well, fine-ish. The strawberry fields got flooded last week because the naiads got in a fight with the water pump. Again. Our visiting brother (Tyson — hi, Tyson, if Ella reads this out loud) cried and then fixed the pump by hitting it. It works now. Don't ask.*
 
-*We got your last Iris-message. Barely. Rainbow was all staticky. We heard ARCH and MONSTER and then you cut out. Typical. Next time try a better rainbow. Or don't almost die on a national monument. Your choice.*
+*We got your last Iris-message. Barely. Rainbow was all staticky. We heard FURY and FIRST DAY and then you cut out. Typical. Next time try a better rainbow. Or don't almost die before reaching the first real city. Your choice.*
 
 *Clarisse.*
 
@@ -256,15 +358,15 @@ Highlighted in yellow marker was a single stanza in the middle:
 
 *Ella says:*
 
-*When the river bends and the arch falls behind,*
+*When the road bends and the dark is behind,*
 *Let the salt boy listen and the wise girl bind.*
-*Three peanuts, four hearts, one tin in the mud —*
+*Four names, one tin, one letter in the mud —*
 *The goat finds the way where the wild things bud.*
 *Rest. The water is kind tonight.*
 
 They were silent.
 
-"Ella," Annabeth whispered. "She's... she's remembering things again. Prophecy fragments."
+"Ella," Annabeth whispered. "She's borrowed half a library's worth of language again. I wonder where that verse comes from."
 
 "Three peanuts," Grover said, holding up the crackers. "Four hearts. That's us."
 
@@ -292,11 +394,147 @@ They all clinked crumbs.
 
 ---
 
+They nearly left the tin behind.
+
+Grover had folded the letters into his backpack, but Annabeth wanted to inspect the lid before they moved on. She was frowning at the faded trident painted on the side, and Percy could tell she'd found a problem.
+
+"What is it?" he asked.
+
+"This is supposed to be an underground courier network," she said. "Somebody had to know we'd reach this spot. Connor's clever, but he doesn't predict which stone a satyr will stop to sniff."
+
+"Satyrs know the drop sites," Grover replied. "I don't think the letters were left for today. I think they were put here after Chiron told the network we were traveling west."
+
+Annabeth turned the can. Inside the lid, hidden beneath a layer of old adhesive, was a small sequence of scratches. Grover counted them and smiled.
+
+"Station three. The contact route from New York toward the Mississippi. It's not a date. It's a location."
+
+Percy looked at the notes. "So somebody left supplies ahead of us."
+
+"Yes," Grover said. "And someone else might have found them first."
+
+Thalia had been listening. She took the can, checked the rim and the ground around the log, then handed it back.
+
+"Did anybody tamper with it?"
+
+"I don't smell a monster," Grover said. "I smell rain, coffee, Silena's glue and somebody's old boots. That's not proof nobody touched it."
+
+"Good answer," Thalia said.
+
+Percy laughed. "You've learned to be suspicious without being miserable. That's an achievement."
+
+Grover looked down at the letter. "I can be miserable if you want. My uncle's a statue."
+
+The joking stopped.
+
+Percy knew he had been careless. Grover wasn't just a messenger who happened to find a can full of snacks. He was carrying a number for the recovery team, a promise to return and a letter he hoped could reach Juniper. Each new piece of mail reminded him how much was happening at camp without him.
+
+"Sorry," Percy said.
+
+Grover nodded. He wasn't angry, but he wasn't ready to be cheered up either.
+
+Annabeth turned the first letter over. She read the line about their last Iris message again.
+
+"They heard about the Fury," she said. "Not the Arch. This was written earlier. So none of these letters can tell us what Chiron already knows about today."
+
+"That's what the next report is for," Thalia answered.
+
+Percy looked toward the river. He wanted to tell his sisters he'd survived the Chimera, but he was not ready to imagine how Clarisse would respond to the part where he'd returned to a burning observation deck after promising Annabeth he wouldn't.
+
+"Maybe let me write that one myself," he said.
+
+"You should," Thalia answered. "And you should tell the truth."
+
+He made a face. "I knew there was a trap in this conversation."
+
+Annabeth pulled out her notebook. "We can do a factual version, then a family letter. They need different details."
+
+Percy watched her separate the pages. She was careful with the wording of everything that might be transmitted to Olympus or passed to a camp authority. In a family letter, he could admit how frightened he'd been. In a formal report, he needed to state the location, the monster they encountered, the damage, and the action they'd taken to get people out. One version wasn't more honest than the other. They served different readers.
+
+Grover slid the tin can into the bottom of his bag.
+
+"I'm going to ask Chiron whether the people at the depot have heard anything about Ferdinand," he said. "Not every day. Just when we make contact."
+
+Percy nodded. "And we can tell him the exact garden location again. The recovery team still has people to find."
+
+Thalia sat on the step beside Grover, keeping enough distance not to crowd him.
+
+"Have you eaten?" she asked.
+
+He looked offended. "I always eat."
+
+"That wasn't the question."
+
+He checked his bag and discovered he'd given away most of the crackers while offering them to the others.
+
+"Fine," he admitted. "I could eat another."
+
+Thalia gave him the last unopened packet from her coat pocket. No speech, no instructions. Grover accepted it and began breaking it into small pieces, saving some for later.
+
+Percy wondered whether they would ever return to ordinary camp life, where a broken vending machine could be the whole afternoon's problem. They probably would. For now he was learning that the road had its own ordinary tasks: check a message's date, make sure it reached the right person, feed the friend who couldn't stop thinking about his uncle.
+
+Annabeth copied the courier mark into the notebook and placed the empty can back under the log for another traveler to use. Grover patted the spot down with his hoof, making it look undisturbed.
+
+"Somebody else might need a letter," he said.
+
+They left the marker as they'd found it.
+
+---
+
+Martin had insisted they stop at a clinic before looking for a room.
+
+Thalia had objected for fifteen minutes. Then she'd stood up from the riverside steps too quickly, gone pale, and grabbed the railing. The argument ended on its own.
+
+Percy sat with Grover in the waiting area while a clinician asked Thalia what had happened. Annabeth stayed with her sister, holding the piece of paper that listed the emergency workers' findings from the Arch. The clinician wanted to know whether Thalia had lost consciousness, whether her headache was getting worse and whether she could remember what happened before and after the blow.
+
+"No, no, and yes," Thalia answered, then corrected herself. "The headache isn't getting worse. It's still there. I'm tired."
+
+The clinician didn't laugh when Thalia tried to make a joke about gods and metal buildings. She checked the cut, explained what symptoms should prompt urgent care and gave instructions to rest and avoid further head impacts while recovering. She didn't tell them a child with a recent head injury ought to lead another fight before breakfast.
+
+Percy thought that was a fairly reasonable medical opinion.
+
+When they left, Thalia was wearing a clean dressing at her hairline and holding the discharge instructions in her hand as though they personally offended her.
+
+"Don't start," she warned Percy.
+
+"I wasn't going to say anything."
+
+"You're making the face."
+
+"What face?"
+
+"The one that means you're about to say I should have let Chiron send an adult."
+
+Percy laughed. "I wasn't. I was thinking you should stop trying to be the adult every time the others get tired."
+
+She looked away.
+
+That one had landed harder than he meant it to. He could hear Annabeth's shoes behind them, quick and light, and knew she'd caught the end of the exchange.
+
+"She doesn't know how to stop," Annabeth said. It was not a criticism exactly. "When we were little, if Thalia went to sleep first, she worried she'd miss something."
+
+"Beth."
+
+"I know. It's not fair to talk about you like you aren't here." Annabeth took the discharge sheet from her sister and folded it. "But it's still true."
+
+Thalia had nothing to say to that. She accepted the folded paper and put it inside her jacket instead of throwing it away.
+
+Martin walked with them to the motel. He checked that the room had a working lock and that his own was close enough for them to get help if anyone became ill during the night. He arranged to stay in the adjoining room, not because he wanted to supervise every conversation, but because he'd agreed to be the licensed driver and the contact responsible for the road arrangement.
+
+"I'll be at the desk at seven," he told them. "If anybody needs something overnight, knock. If there's an emergency, don't waste time being polite."
+
+Percy had heard those words from Clarisse, but the ordinary seriousness in Martin's voice made them feel different. He wasn't trying to sound like a hero. He was doing the thing he'd promised when the nymph depot asked him to transport four younger travelers.
+
+Thalia looked as though she wanted to protest, but she only nodded. He could see how exhausted she was now that she wasn't standing in front of a monster.
+
+---
+
 The motel was a miracle.
 
-It was the kind of place Annabeth usually vetoed on principle — flickering neon star, ice machine humming like a dying cyclops, pool covered with a tarp — but the woman at the desk took one look at four limping teenagers with backpacks and black eyes and said, "Honey, you want the ground-floor room by the vending machines? Quietest. And there's a first-aid kit under the sink you can borrow," and charged them half price because "you look like you've been through it."
+It was the kind of place Annabeth usually vetoed on principle — flickering neon star, ice machine humming like a dying cyclops, pool covered with a tarp — but the woman at the desk took one look at four limping teenagers with backpacks and black eyes and said, "Honey, you want the ground-floor room by the vending machines? Quietest. And there's a first-aid kit under the sink you can borrow," and offered a quieter ground-floor room after Martin confirmed he was their accompanying driver and arranged to stay next door. She charged the modest listed rate, then added clean towels because they plainly needed them.
 
 Room 7 smelled like bleach and old carpet and heaven.
+
+
 
 Thalia kicked the door shut behind them, threw her bag on the nearest bed, and face-planted onto the mattress with her boots still on.
 
@@ -334,7 +572,7 @@ Grover held up his hooves mournfully. They were raw where the fake feet had rubb
 
 Percy scooted forward. His knuckles were scraped, his left cheek had a shallow scratch from flying concrete dust at the Arch, and his shoulders were sunburned pink under his T-shirt.
 
-Annabeth cleaned his knuckles one by one. Her touch was efficient, practiced — three years of camp infirmary duty — but her thumb lingered a second longer on his palm.
+Annabeth cleaned his knuckles one by one. Her touch was efficient, from the first-aid practice she'd managed to fit into her camp training, but her thumb lingered a second longer on his palm.
 
 "Does this hurt?" she asked.
 
@@ -356,6 +594,58 @@ Annabeth narrowed her eyes, but she was too tired to interrogate. She handed Per
 
 "Drink. Then eat something real. What do we have left?"
 
+Once the injuries were covered, Grover sorted the remaining supplies by who might need them overnight while Percy carried the wet packs into the bathroom. He washed the river mud out of his socks and hung them over the edge of the tub, then realized there was no good place to put four backpacks where everybody could reach them during the night.
+
+"Door side," Thalia called from the bed. "Not against the window."
+
+"Why?"
+
+"Because if we have to leave, somebody will trip on a bag, and it will probably be Grover."
+
+"Probably," Grover agreed from the floor.
+
+Percy moved the bags. He was beginning to suspect he could spend the whole quest learning how to put objects in places where nobody would fall over them.
+
+Annabeth opened her notebook. "We need to do one more thing before eating."
+
+All three others groaned.
+
+"Not a strategy meeting," she said. "A check. What hurts? What has changed since this morning? And what do we need the others to watch tonight?"
+
+Thalia stared at her. "You are my younger sister. I am supposed to be the one asking questions like that."
+
+"That's not how questions work."
+
+Percy tried not to smile. Grover failed entirely.
+
+They went around the room. Grover described his rubbed hooves and the ache in his shoulders from the pack. Thalia admitted to the headache and fatigue, then agreed to report any worsening symptoms rather than simply sleeping through them. Percy mentioned his sore shoulder, scrapes and how badly his knees hurt from the stairs. Annabeth acknowledged the sting in her palm and the exhaustion she'd been trying to conceal while helping everyone else.
+
+Nobody made a speech about being strong. They told each other where the bandages were, what symptoms they should take seriously and what they could do if somebody woke in pain.
+
+"That's it," Annabeth said, closing the notebook.
+
+Thalia stared at her. "That was a strategy meeting."
+
+"It was a five-minute check."
+
+"You wrote it in a notebook."
+
+"I write breakfast orders in a notebook."
+
+Percy thought of the injury they'd almost ignored after the Fury. He wished they'd had a five-minute check earlier. He wouldn't admit that to Thalia, who seemed to consider every new procedure a threat to her authority.
+
+Grover was already opening a packet of crackers.
+
+"Can we eat now?"
+
+"Yes," Annabeth said.
+
+"Excellent. Because if you ask me how I feel while I'm hungry, the answer is going to get worse every minute."
+
+Thalia laughed, then winced and held her jaw. She looked annoyed with the injury for interrupting her one decent laugh that evening. Percy shifted the pillow behind her without making a fuss. This time she let him.
+
+With the equipment put away and the questions answered, everyone was finally ready to eat something substantial.
+
 Inventory, motel-floor picnic style: half a bag of cheese puffs (Percy), a gas-station beef jerky stick of questionable origin (Thalia), three granola bars (Annabeth, emergency stash), a slightly squashed box of Nerds (Grover), and two warm Cokes from the vending machine because the cold ones were sold out.
 
 They spread it all out on the scratchy comforter between the two beds and sat cross-legged around it like it was a feast.
@@ -369,6 +659,218 @@ They spread it all out on the scratchy comforter between the two beds and sat cr
 Percy cracked open a warm Coke, took a sip, made a face, and passed it to Annabeth. She drank after him without thinking about it. Thalia raised an eyebrow at Grover. Grover wiggled his eyebrows back.
 
 Nobody said *we almost died today.* Nobody needed to. It sat under the jokes like the river under the city — moving, present, but not drowning them. Not tonight.
+
+When dinner was finished, Percy found the formal report still folded in the bottom of his bag.
+
+He had written it quickly after the Arch, while Annabeth gave the rangers her count of the people who'd made it down the stairs. The paper was stained along one edge where his hands had still been wet. He could make out the first two paragraphs, then his own handwriting descended into something that looked like a bird had walked through ink.
+
+"That's not going to help Chiron," he muttered.
+
+Thalia looked up from her pillow. "What isn't?"
+
+"The report. I was supposed to send one today."
+
+"Did you tell him what happened?"
+
+"Not yet."
+
+"Then you owe him one," she said.
+
+Percy sat at the table by the window and began copying the pages. He included the tour location, the woman's name, the Chimera's appearance, the crowd evacuation and the damage to the observation deck. He wanted to skip the part about returning up the stairs after Annabeth had left, but leaving it out would make the account impossible to understand. The reason he'd jumped was connected to the risk he'd taken getting back up there.
+
+Annabeth sat beside him and read the draft without asking permission to rewrite it. She pointed at one line.
+
+"You wrote that there were seventeen tourists on our level when the monster arrived. That's how many I counted when we started moving. I didn't count everybody in the gallery."
+
+Percy crossed out the sentence and made it narrower.
+
+"Seventeen in the part you saw?"
+
+"Yes. Some people were in the other curve and could have left by the opposite stairs."
+
+"Then that's what it says."
+
+He handed her the pencil to mark the approximate times. She remembered the ranger's count and the alarm but wasn't certain about the interval between the first flames and their arrival at the bottom. She left a question mark. Percy didn't erase it.
+
+Grover leaned over from the floor.
+
+"Tell Chiron that I couldn't smell the Chimera until we were near the park," he said. "I don't want him believing satyrs can detect every monster before it gets close."
+
+Percy added that. "Anything else?"
+
+"Thalia kept the monster from reaching the stairs. Annabeth got mortals out. There were people who needed help with shoes, coughing, and the crowd. And you jumped into the river."
+
+"I know I jumped."
+
+"Write it anyway."
+
+Thalia gave a short laugh that turned into a wince. "Grover's right. The whole story matters."
+
+They argued about the wording of the next section. Percy wanted to say the river had saved him. Thalia objected that it sounded as though every child of Poseidon could leap from a national monument and expect a landing softer than a pillow. Annabeth said to write exactly what he'd felt: the current changed, the impact still hurt, and he had reached shore only after fighting the channel.
+
+"Better," Grover said, when Percy read it back. "Less likely to inspire idiots."
+
+"That's a tall order for a story with me in it," Percy answered.
+
+The report ended with a list of current limitations: Annabeth's hand remained sore from the first day's electrical injury, Thalia had a head injury requiring rest and follow-up, Grover's hooves were raw, and Percy had sustained bruises and scrapes. Their next action was to rest in a supervised motel, check whether the courier record had been destroyed in the fire, and contact the camp for updated route information.
+
+Percy stared at the page.
+
+"That makes the whole quest sound like a miserable mistake."
+
+"It makes it sound like an event that happened to actual people," Annabeth said.
+
+He knew she was right. He'd preferred the version where he and his friends emerged from a monster fight muddy but triumphant. The version written on paper included missing visitors, damaged property, medical attention and a delay he couldn't pretend didn't matter.
+
+They sent the report through a brief Iris message from the bathroom mirror, using a cup of clean tap water to catch the light. Chiron appeared at his desk, reading another stack of papers.
+
+He listened while Percy summarized the report, then asked them to send the full written version through Martin's trusted contact. It wouldn't fit into a single conversation. Chiron was visibly relieved that the group had obtained medical assessments and wasn't immediately continuing west.
+
+"Thalia," he said, "you must follow the clinician's instructions."
+
+"I know."
+
+"That wasn't a request."
+
+"I said I know."
+
+"Good."
+
+Chiron asked Annabeth to confirm the shipping record's current status. She could only say the paper may have been moved before the fire and that they had not recovered it. He thanked her for not inventing a positive lead.
+
+The most difficult question came last.
+
+"Has Poseidon answered our message?" Percy asked.
+
+"Not directly. His court has acknowledged receipt. We haven't received a substantive reply about the old routes or his brother's accusations."
+
+Percy had expected that. It still hurt. He was beginning to recognize how easily the gods could turn a child's attempt to ask a question into an unanswered request that stayed unanswered for days.
+
+"Okay," he said.
+
+"Percy, silence at a court is not the same as silence from every person who cares for you," Chiron replied. "Your sisters asked me to tell you the boat repairs are complete and that you should write when you can. I have also received a brief message from Atlantis saying your family knows you're traveling under my authorization."
+
+"That doesn't tell me anything about the bolt."
+
+"No. It tells you what they know."
+
+Percy watched the rainbow fade. The simple distinction settled oddly in him. He wanted answers from his father. He also wanted to know his sisters were still arguing about boats and lunches in a cabin that smelled like home. One need didn't erase the other.
+
+He folded the corrected report and put it in Martin's outgoing envelope. Then he sat down beside Annabeth and let the question of Olympus remain unsolved for the night.
+
+Thalia was halfway through repacking the first-aid tin when a folded photograph slipped out of the side pocket of her jacket.
+
+Percy saw it fall. He bent to pick it up and stopped when he recognized the boy in the picture. Jason Grace stood in front of a Roman training field, looking uncomfortable in ceremonial armor. A taller camper had apparently told him to stand straight for the camera. Jason was grinning anyway.
+
+Thalia took the photograph before Percy could say anything.
+
+"Don't."
+
+"I wasn't going to ask."
+
+"Good."
+
+She sat on the edge of the bed and held the picture by one corner. Percy knew better than to ask when it had been taken. The changed timeline had given Thalia years of memories of Jason that Percy and Annabeth could only learn from other people. Thalia had talked about supervised visits with her brother, letters, and the odd loneliness of having a sibling raised in a different camp with a different set of rules.
+
+"Do you hear from him often?" Percy asked after a while.
+
+"No. Not lately." Thalia looked down at the photograph. "He's busy. The legion keeps him busy, and the last time we spoke he had a competition or an inspection or something I couldn't understand. Roman stuff."
+
+"Maybe he's fine."
+
+"He probably is."
+
+Percy sat on the floor beside his own bag. He didn't want to tell her not to worry. It would be like telling Clarisse not to think about him while he was gone.
+
+"I keep remembering the old stories," Thalia said quietly. "Not the other life. The stuff Beryl told us, before we understood how much she'd make up to sound good. She'd say siblings look after each other no matter how far apart they are."
+
+"She wasn't wrong about that."
+
+"She wasn't around enough to do it herself."
+
+Percy didn't answer. Annabeth was in the bathroom rinsing the last of the river mud out of her socks, and Percy was glad Thalia could say something about their mother without worrying how her sister would hear it.
+
+Thalia traced the edge of the picture with her thumb.
+
+"Jason sends these instead of telling me when he's scared. A picture after a ceremony. A letter about the weather. Sometimes he writes about what the legion's building, and I can tell he wants me to ask what else is going on. But if I ask directly, he says he's fine."
+
+Percy looked at her. "Sounds like somebody I know."
+
+"Don't."
+
+"Wasn't going to."
+
+She smiled despite herself. Then the smile faded.
+
+"Yesterday, when Zeus took away the sky-gifts, I thought about Jason. I didn't ask whether the same punishment applied to him. Maybe it doesn't. Maybe he's not involved. But I keep wanting to send him a message asking him to stay out of trouble, and I don't know how to make that sound like anything except another order from his big sister."
+
+"You could tell him what happened," Percy suggested.
+
+"And if somebody at Camp Jupiter intercepts it?"
+
+"Then you tell him a smaller part. That you're on a trip. That you hope he's okay."
+
+Thalia considered the photograph. "I don't want to make him responsible for my fear."
+
+"Then don't. He can be responsible for answering when he wants to answer."
+
+She shot Percy a look. "You've been spending too much time with Annabeth."
+
+"I have excellent taste in company."
+
+"Debatable."
+
+They sat in silence. Percy could hear the air conditioner clicking near the window and Grover opening a packet of crackers on the other side of the room. Thalia slid the photograph back into her jacket pocket.
+
+"Can I ask something stupid?" she said.
+
+"Sure."
+
+"Do you think he remembers me when we're not writing?"
+
+Percy stared at her.
+
+"You're asking whether your little brother thinks about you?"
+
+"He's got a whole life I don't see," Thalia said. "Sometimes it's easy to feel like a visitor in it."
+
+He thought about Triton and Tyson, the different parts of Poseidon's family that existed outside Camp Half-Blood. He had no idea what those brothers did every day. That didn't make them less his brothers. It only made the gaps harder to fill with anything except imagination.
+
+"Yes," Percy answered. "I do."
+
+Thalia watched him carefully. "That's not a prophecy."
+
+"No. It's a guess."
+
+"A pretty confident guess."
+
+"Because I think about my sisters when I'm not in the same room. And Jason has you, which is probably as exhausting as having Clarisse."
+
+She laughed, then stopped when her forehead ached.
+
+"Careful," Percy said.
+
+"I know."
+
+Thalia laid the photograph flat inside her notebook and began to write. Percy didn't read over her shoulder. He could hear the pencil moving, slow at first, then faster.
+
+When she finished, she showed him only the final two lines.
+
+*I'm on the road with Annabeth and some friends. We're all alive, and I wanted to tell you that I miss you. Write when you can.*
+
+"Good?" she asked.
+
+"Very."
+
+"No speeches about family?"
+
+"None required."
+
+She folded the note and put it with the outgoing messages. They couldn't guarantee it would reach the Roman camp safely, so Thalia marked it for Chiron to route through the trusted contacts he actually had. Percy appreciated that she hadn't asked him to invent a faster way.
+
+He looked at the photograph once more as she slipped it away. Jason's smile was awkward and unmistakably real.
+
+Thalia was still afraid. Nothing they had said had removed that. But she had found something better to send than an order.
 
 After they'd eaten, Grover curled up on the floor with his wrapped hooves on a pillow and his head on Percy's backpack and fell asleep mid-sentence about clover. ("Tell Juniper the Missouri grass is—") Thalia took the shower first, came out in sweats with her hair dripping, claimed the bed by the window, and was snoring softly within minutes, one hand curled around her new bracelet.
 
