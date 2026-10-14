@@ -26,6 +26,108 @@ Percy just lay there for a second staring up at the blue sky. Then he lifted one
 
 Annabeth felt her face go warm. She lifted her notebook to hide it.
 
+Clarisse offered Percy her hand. He took it, and she hauled him up with enough force that he almost went down again.
+
+"You're still bringing your guard across too late," she said.
+
+"That was almost helpful."
+
+"I'm feeling generous."
+
+She held her practice spear horizontally to show him where she'd been striking. Percy set his feet the way she directed, shifted his weight and tried the block slowly. Sherman leaned over the rail, pointing out that Percy's left shoulder was sitting lower than his right.
+
+"Because she's hit it twice," Percy said.
+
+"Because you keep putting it where I can hit it," Clarisse replied.
+
+Annabeth looked at the shoulder. She remembered the scrape he'd picked up the previous morning while pulling fishing line and a hook from under the Sound dock. He'd made a joke about fighting a crab and insisted it was nothing. It probably was nothing serious, but he had been using the arm all morning without mentioning it.
+
+"Is that the shoulder you scraped?" she called.
+
+Percy looked up. "It's fine."
+
+"I didn't ask whether it was fine. I asked whether it was the one you scraped."
+
+"Yes. But it doesn't hurt."
+
+"Then let Clarisse inspect the range of motion before you go full speed again."
+
+Clarisse lifted an eyebrow. "She's right, Jackson."
+
+He made an outraged face. "I am surrounded by people who agree with each other."
+
+"Not normally," Sherman observed.
+
+Clarisse walked him through the movement again, this time without striking. Percy could rotate his shoulder freely and hold the block without wincing. The scrape was healing cleanly, and there was no reason to stop the practice. But the pause had forced him to notice where he was compensating and why his balance had gone wrong.
+
+"There," Clarisse said. "That's what I wanted."
+
+"You could've told me before you knocked me over."
+
+"I did. You were busy talking."
+
+Sherman shook his head. "He's never going to learn if you let him make excuses."
+
+Percy turned toward him. "You're right. I should stop losing because I have a dramatic backstory."
+
+Sherman looked surprised. "I didn't mean that."
+
+"I know. I'm teasing."
+
+Clarisse lowered the spear. "Enough talking. Practice the turn."
+
+They set out three short wooden markers in a row, leaving enough space between them for Percy to move without crossing into the path of the other training group. Clarisse demonstrated the pivot once. Percy tried to copy her, stepping too far with his back foot and almost catching his heel on the last marker.
+
+"Again," she said.
+
+He tried. Annabeth could tell that he wanted to go quickly now, to prove he had learned the move. Clarisse was having none of it.
+
+"Slow. You don't need to impress anyone."
+
+"That's new coming from you."
+
+"I impress people because I'm good at what I do. You're trying to be fast before you've got the angle."
+
+Percy rolled his eyes and started again. This time he held his guard where she wanted it. The pivot brought him clear of the marker. Clarisse stopped short of striking, and he remained on his feet.
+
+Annabeth marked the correction in her notebook without thinking.
+
+"Did you just write that down?" Percy asked.
+
+"Yes."
+
+"Is there a section for humiliating details?"
+
+"Several."
+
+Clarisse grinned. "Send me a copy."
+
+The next drill was a little harder. Clarisse changed the angle of approach without announcing it; Percy had to read her stance and shift his feet before the spear reached him. He missed once, recovered on the second attempt, and blocked the third. There was no dramatic victory. The two of them stopped when the instructor called time.
+
+Sherman offered his assessment. "Better."
+
+"From you that's a speech," Percy said.
+
+"You want me to make it longer?"
+
+"Gods, no."
+
+Clarisse knocked her spear against Percy's practice sword in a final salute. Annabeth had watched them as opponents in another life. In this one Clarisse was his sister, and the instruction had the impatience of someone who expected him to be able to improve because she'd seen him do it before.
+
+She remembered Clarisse helping Percy retrieve the dock line the previous morning, pretending to be annoyed while she tied a rope that kept him safe. This was the same person in a different mood. Nothing had erased their earlier rivalry; their relationship had simply acquired more things it could hold.
+
+Percy came up the bleacher steps and sat beside Annabeth, breathing hard.
+
+"Was that better?" he asked.
+
+"Yes. When you stopped trying to win every pass."
+
+"You're saying that like it isn't an outrageous accusation."
+
+"It is extremely accurate."
+
+He looked down at the sketch she'd made of his feet and adjusted the notebook so he could see the marks more clearly. He didn't ask her to erase the mistakes. That was one of the things Annabeth liked most about training with him.
+
 It was stupid how safe she felt in moments like that. After everything — after Tartarus, after the war with Gaea, after the months she’d spent that winter learning how to carry the strange, humming spark she had inherited from Zeus — safety still felt fragile.
 
 The spark shifted under her sternum at the thought, like a fish turning over in dark water.
