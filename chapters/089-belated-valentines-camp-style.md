@@ -470,6 +470,92 @@ She was lying.
 
 ---
 
+Silena had almost forgotten to make a card of her own.
+
+She'd spent the morning sorting envelopes, checking which recipients had consented to anonymous notes, and giving the volunteers a safe way to send private letters through Chiron. She loved the work, but by three o'clock she realized she had written nothing for Clarisse or Percy, and her own note to Beckendorf was still blank.
+
+She sat on the steps of Cabin Three with a pen in her hand and stared at the page.
+
+"What are you doing?" Clarisse asked, coming around the corner with her spear balanced on one shoulder.
+
+"Writing."
+
+"Looks like staring."
+
+"I haven't found the right words."
+
+Clarisse sat beside her. "Then use the wrong ones and fix them later."
+
+Silena looked up. "That's terrible advice."
+
+"It's what you tell me about poems."
+
+Silena smiled despite herself. Clarisse was right. When Clarisse had shared her winter patrol poem at the spring bonfire, she'd done it despite the fear of being misunderstood. The words mattered because she'd chosen them, not because the first draft was perfect.
+
+"I want to thank Beckendorf," Silena said. "But I don't want to write that he fixes everything. He doesn't. And if I say he makes me feel safe all the time, that sounds like I'm asking him never to be afraid."
+
+Clarisse looked out toward the forge. "He's a good man. He gets scared too."
+
+"I know."
+
+"Then tell him what you actually like about him."
+
+Silena thought about the music box he had been working on. It was a beautiful gift, but it wasn't the most important thing she remembered about him. She remembered an afternoon in the forge when the first gear wouldn't turn, and Beckendorf had asked her to tell him whether she wanted him to keep trying or to put it away for another day. She'd told him she wanted to sit with him while he fixed it. They'd spent an hour together, mostly quiet.
+
+She wrote that down.
+
+Then she wrote a note to Percy about the first batch of honey cakes they'd managed to make at Atlantis without setting anything on fire. She thanked him for asking how she wanted to be helped when she was worried, rather than arriving with a solution she hadn't requested.
+
+For Clarisse she wrote about the refitted shield and the way her sister had apologized to a younger trainee when the equipment didn't fit. Silena didn't say Clarisse had become gentle overnight; she said she'd noticed the work Clarisse was doing and wanted her to know it mattered.
+
+She folded the three notes and looked at them. They weren't dramatic.
+
+"They're good," Clarisse said.
+
+"You didn't read them."
+
+"I don't need to."
+
+Silena smiled. "You're getting better at that."
+
+Clarisse leaned her spear against the step. "Can I ask you something?"
+
+"Of course."
+
+"If I write a valentine to somebody and don't want the camp to know who it is, does that make me a coward?"
+
+"No."
+
+"What if I don't know whether I want to send it at all?"
+
+"Then keep it."
+
+Clarisse stared at the ground. She'd been carrying a folded piece of paper in the inside pocket of her jacket all morning. Silena had seen it when they packed the cabin, but hadn't asked.
+
+"You could put it in the box and ask that it stay there until you decide," Silena offered.
+
+"I don't want anybody reading it."
+
+"Then don't put it in the public box. It can stay with you."
+
+Clarisse considered this, then took out the paper and folded it again, smaller. She put it away. Silena didn't ask who the letter was for, and Clarisse didn't offer to tell her.
+
+They sat together for a few minutes. The light was warmer now, falling across the porch boards where the siblings had argued about mail and meals for months. Silena thought of the first time Percy had called Amphitrite Mom during a letter-writing conversation, and of how much easier the word had become for him as he made new memories in the present. She didn't know why some things were still difficult for him. She didn't need to know the secret in order to love her brother.
+
+A boy from the Apollo cabin approached with a blue envelope and asked whether Silena could deliver it to Clarisse. Clarisse immediately held out her hand.
+
+"You can give it to me," she said. "No need to make my sister do it."
+
+The boy gave it to her and left. It was a thank-you note for teaching the beginner spear class. Clarisse read it, looked astonished and tucked it carefully into her pocket beside the unsent paper.
+
+Silena smiled. She had spent the day organizing other people's emotions as though every message required her supervision. This one had reached its recipient without any intervention from her.
+
+"Ready for the evening?" Clarisse asked.
+
+"Almost."
+
+Silena went inside to change, leaving her finished letters on the desk until she was ready to deliver them. She wasn't late to her own life simply because she'd spent the morning making room for everybody else's.
+
 By late afternoon, the whole camp buzzed with anticipation.
 
 The Aphrodite post office closed at four. Silena emerged from the pavilion looking exhausted and triumphant, ink on her fingers and glitter in her hair despite the ban.
