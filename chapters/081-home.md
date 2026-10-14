@@ -624,7 +624,7 @@ This was what he wanted to come home to, he thought. The music, the blanket, the
 
 ---
 
-The hill watch was tradition. Before a round of departures, anyone who wanted climbed Half-Blood Hill after curfew with blankets and flashlights Chiron pretended not to see, and watched the stars come out over the barrier.
+The hill watch was tradition. Before a round of departures, Chiron permitted an escorted hill watch. Campers signed in with counselors, brought blankets and flashlights, and watched the stars above the barrier. Chiron set a sheltered rest area nearby for anyone who chose to stay through dawn.
 
 They went up in a long straggling line. Thalia led with her patrol lantern. Zoe walked with the younger kids, pointing out constellations in Greek and in the old mythic names. Ella narrated the whole climb for the record, breathless. Grover helped Nico, who was still a little afraid of heights at night and would never admit it. Clarisse carried Silena's bag without being asked. Annabeth walked beside Percy, their fingers laced, swinging slightly between them.
 
@@ -677,6 +677,114 @@ Nico had fallen asleep with his head in Bianca's lap. Bianca looked up at Percy 
 Home was not a place that kept you from leaving, Percy thought, watching them all. Home was the place that stayed in you when you left.
 
 ---
+
+A little before midnight, Percy got up from his blanket to walk toward the edge of the marked watch area. Chiron had laid down a rope boundary earlier in the evening, with lanterns on the posts so nobody could wander toward the woods without noticing.
+
+He could hear the camp below. Somewhere the last of the cleaning crew was putting away tables. Behind him, Thalia and Zoe were discussing which patrol route would take the morning watch down the safest slope. There was nothing romantic about a correctly marked path and a warm place to sit. Percy was starting to appreciate that.
+
+Annabeth joined him carrying two cups of tea. She gave him the one without honey.
+
+"Silena says you need something warm," she told him.
+
+"Silena's right."
+
+"Often."
+
+They stood looking toward the Sound. From here the water was a long dark curve beneath the stars. Percy could hear it if he listened, but not the individual waves. It reminded him of being in Atlantis, where the sea never quite stopped moving around the walls.
+
+"Are you scared to go?" Annabeth asked.
+
+"A little."
+
+"Me too."
+
+Percy turned toward her. "You're not leaving camp."
+
+"Not right away. But if you're in Atlantis for May, it will be the longest we've been apart this year."
+
+"We've done longer."
+
+"Not in this life."
+
+He had to think about that. They had spent years in the future they remembered, traveling across places he couldn't always name, sometimes separated by battles and sometimes holding on to one another because there was nothing else to hold. Those memories had made the first months after the rewrite feel like a continuation of a marriage nobody here had seen. In this new life they were thirteen, with families who needed them, school plans that weren't finished and letters that could be delayed by storms.
+
+"We can write," he said.
+
+"I know."
+
+"I can call when there's a place to make a safe Iris-message."
+
+"I know that too."
+
+"Then what's wrong?"
+
+Annabeth looked down at her cup. "Nothing's wrong. I just don't want to act like because we've survived worse, I can't be sad about a month."
+
+He reached for her free hand. "You can be sad."
+
+"Even if it's only a study block?"
+
+"Especially if you're going to miss me."
+
+She smiled. "You're impossible."
+
+"Consistently."
+
+Annabeth looked at the water again. "I've been thinking about Elena's story. The part where she said it was okay not to record everything."
+
+"Yeah?"
+
+"I want to remember tonight. But I don't want to write it down as if we owe ourselves a perfect account of every goodbye."
+
+Percy watched her face. "Then don't."
+
+"What if I forget?"
+
+"You might. I might too."
+
+She breathed out slowly.
+
+"We'll still have been here," he said. "That's what you told me at the dance, when I was worrying about the music."
+
+Annabeth laughed. "I hate when you use my own advice on me."
+
+"Occupational hazard of dating an architect."
+
+She set her cup on the nearby bench and leaned toward him. He wrapped an arm around her shoulders. Neither of them looked around to see who was watching; Thalia was occupied with the patrol schedule and Clarisse was telling somebody to get away from the lantern with a marshmallow stick.
+
+"I want to tell Beryl something before the summer," Annabeth said.
+
+"About us?"
+
+"She knows about us. About my plans. I keep treating school like a puzzle that only I should solve."
+
+"Do you know what you want?"
+
+"Not all of it. I know I want to study architecture. I know I want to keep being here. I know I want you."
+
+"Those sound like a start."
+
+"They are." She paused. "I don't want you promising to follow me to every school I choose."
+
+Percy looked at her. "You don't?"
+
+"I want us to make those choices together when they come. I don't want a promise I can use later to stop you from finding out what you need."
+
+He understood why she was saying it. They had promised to find each other in the lives they remembered, but she was refusing to use that promise as a command about every decision in this one.
+
+"Okay," he said. "Then I promise to talk about it instead of assuming."
+
+She smiled. "I can work with that."
+
+A gust rattled the lanterns. They carried the cups back to the supervised rest area. Thalia looked up from her patrol notes and nodded toward the fire.
+
+"Your tea's getting cold," she said.
+
+"We drank it," Annabeth replied.
+
+"Then you're ahead of schedule."
+
+Percy sat on the blanket again. This was a better place to be afraid of leaving than the solitary bunk where he'd woken that morning. There were other people here to help with the worry. They didn't need to solve it for him.
 
 Dawn came slow and pink over the Sound.
 
