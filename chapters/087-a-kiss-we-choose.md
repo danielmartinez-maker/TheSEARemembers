@@ -230,7 +230,7 @@ There was a beat of quiet in the arena. Even Clarisse stopped glaring at Bob the
 
 Then Percy said, very quietly, "Thanks."
 
-"Yeah," Annabeth said, throat tight. "Thanks, guys."
+"Yeah," Annabeth said. "Thanks. And please don't tell the rest of camp. We're not inviting an audience."
 
 Clarisse cleared her throat loudly and picked her spear back up. "Yeah, yeah. Don't get sappy. And Jackson — " She pointed the spear at him. "If you hurt her feelings, I will boarding-action *you*. Understood?"
 
@@ -262,11 +262,11 @@ Across the table, Malcolm from Athena raised an eyebrow at Annabeth. "Are you ok
 
 "Compelling," Malcolm said.
 
-Grover, who had trotted over with his tray to sit with them, looked from one to the other with dawning delight. "Oh," he said. "Oh, it's today, isn't it?"
+Grover, who had trotted over with his tray to sit with them, looked from one to the other and stopped himself before asking. "You two have plans, don't you?"
 
 "It's not today," Percy said too quickly. "It's — we're thinking about — it's a general — "
 
-"It's today," Grover announced to the table. "They're going to do the proper kiss today."
+"Then I hope you have a good evening," Grover said, keeping his voice low enough that nobody else could hear.
 
 Half the pavilion turned around.
 
@@ -374,7 +374,7 @@ Thalia sat up. "Okay. Spill. Do I need to kill someone?"
 
 Thalia waited. Thalia was good at waiting. She'd learned it from years of being the older sister, the one who stayed up while Annabeth had nightmares and didn't push, just left the light on and hummed until the breathing evened out.
 
-Annabeth took a deep breath. "Me and Percy — we want to have a proper kiss. Tonight. At sunset. On the dock."
+Annabeth took a deep breath. "Percy and I want an evening that's ours. We already kiss. But after the storm, I want a kiss without anyone in danger or a quest clock ticking. At sunset, on the dock, if we both still want that."
 
 Thalia blinked. Then she grinned, wide and helpless. "Oh, thank the gods. Finally, an actual plan."
 
@@ -622,7 +622,7 @@ Silena, already crying, handed Thalia a tissue with a sob. "They tilted opposite
 
 Down on the dock, Percy and Annabeth stood wrapped together against the sunset, laughing softly about something none of the watchers could hear. The lake glowed. The stars came out. The world, for once, was gentle.
 
-Thalia watched a moment longer, heart so full it hurt. Then she turned to the others, wiped her face fiercely, and whispered, "Okay. Retreat. Give them a minute. If anyone bothers them on the walk back, answer to me."
+Thalia stopped at the edge of the marked patrol path, realized the couple had not invited spectators, and turned back toward the cabins. She told the others that the dock belonged to Percy and Annabeth for the evening and there was no reason to watch them. Her love for her sister did not give her a right to spy.
 
 They crept away through the pines together, five unlikely guardians, sniffing and smiling and shushing each other, leaving the dock to the two thirteen-year-olds who had chosen each other — not in desperation, not in a storm, but on purpose, at sunset, with nervous laughter and strawberry chapstick and love.
 
