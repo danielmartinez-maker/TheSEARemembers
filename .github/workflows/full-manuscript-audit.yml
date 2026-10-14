@@ -1,0 +1,49 @@
+name: Full manuscript QA and 193-chapter memory evidence
+
+on:
+  push:
+    branches:
+      - "audit/four-phase-continuity-2026-10-13"
+  pull_request:
+    paths:
+      - "chapters/**"
+      - "continuity/**"
+      - "scripts/**"
+      - "FIC_CONTEXT.md"
+      - ".github/workflows/full-manuscript-audit.yml"
+  workflow_dispatch:
+
+jobs:
+  manuscript-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile QA scripts
+        run: python -m py_compile scripts/full_manuscript_qa.py scripts/build_memory_evidence_index.py scripts/check_character_memory.py
+      - name: Recount and check every 300-word window
+        run: |
+          python scripts/full_manuscript_qa.py \
+            --json editorial/audits/generated-full-qa.json \
+            --markdown editorial/audits/generated-full-qa.md
+      - name: Build 193-chapter provisional source locator index
+        run: |
+          python scripts/build_memory_evidence_index.py \
+            --json continuity/evidence/generated-ch001-193.json \
+            --markdown continuity/evidence/generated-ch001-193.md
+      - name: Enforce anchored relationship memory regressions
+        run: python scripts/check_character_memory.py
+      - name: Upload evidence and mechanical audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuscript-qa-${{ github.run_id }}
+          if-no-files-found: warn
+          path: |
+            editorial/audits/generated-full-qa.json
+            editorial/audits/generated-full-qa.md
+            continuity/evidence/generated-ch001-193.json
+            continuity/evidence/generated-ch001-193.md
