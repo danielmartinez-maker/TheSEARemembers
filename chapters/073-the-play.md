@@ -6,7 +6,7 @@ It read:
 
 *APOLLO CABIN PRESENTS: GODS! A Very Accurate And Totally Respectful Retelling Of Our Parents (Please Do Not Smite Us) — AUDITIONS TODAY AT THE AMPHITHEATER. ALL CABINS WELCOME. NO EXPERIENCE NECESSARY. SNACKS PROVIDED.*
 
-Underneath, in smaller, different handwriting that was almost certainly Cecil Markowitz's, someone had added: *Snacks are just Apollo cabin's leftover ambrosia squares. Come anyway.*
+Underneath, in smaller, different handwriting that was almost certainly Cecil Markowitz's, someone had added: *Snacks are just Apollo cabin's leftover cookies. Come anyway.*
 
 Percy Jackson stopped in front of it with a mouthful of toast and read it twice.
 
@@ -119,6 +119,212 @@ Thalia held her script between two fingers like it was contagious. "My first lin
 "I don't need projection. I have actual lightning." A tiny arc crackled between her fingers for emphasis. The Apollo kids in the front row leaned back.
 
 "Please don't smite the set," Frank said from where he was already sketching a collapsible Mount Olympus on graph paper. "I'm using real hinges."
+
+Annabeth collected her script after auditions and found Thalia waiting in the passage behind the amphitheater. Her older sister had folded the costume sheet into a square so small that the printed instructions were no longer visible.
+
+"You could just tell Will no," Annabeth said.
+
+"I did."
+
+"Then why are you here?"
+
+"Because apparently no is a suggestion at Camp Half-Blood when there are free cookies."
+
+Annabeth sat on the low stone wall beside the costume rack. The afternoon sun made the bronze fittings too warm to touch. She turned the first page of her script and read the opening dialogue again.
+
+*ATHENA: Father, your meeting about fish is in five minutes.*
+
+It was a stupid line. It was supposed to be stupid. Will had written the whole thing in one sleep-deprived night, and Percy had already laughed at it twice. Annabeth wasn't sure why the words made her stomach feel hollow.
+
+Thalia watched her without asking.
+
+"What?" Annabeth said.
+
+"Nothing."
+
+"You're doing that face."
+
+"I have one face."
+
+"You have at least six. That one means you know something is wrong and you're deciding whether I'll bite you if you ask."
+
+"You do bite."
+
+"Only when provoked."
+
+Thalia came to sit beside her, boots planted in the dust. She unfolded the sheet and read her own opening line.
+
+"Zeus enters. Zeus demands obedience. Zeus threatens everybody with lightning. Gods, Will has done more character research than he realizes."
+
+Annabeth looked at her sister. "You don't have to play him."
+
+"I know."
+
+"Do you?"
+
+Thalia's gaze went to the amphitheater, where Will was arguing with Frank about whether a cardboard column could survive a swordfight. A group of campers passed laughing, carrying costume boxes. Neither girl spoke until the passage was empty again.
+
+"I hate how easy it would be," Thalia said.
+
+"Easy to do what?"
+
+"Stand up there and sound like him."
+
+Annabeth held the script on her knees. She had heard Zeus rage in the present timeline, in hallways that smelled of rain and ozone. She had learned from Thalia how rarely their father came, and how a visit could leave more silence afterward than his absence had. In the old life she remembered, Zeus had been distant, terrifying and almost entirely someone else's father. Here he had a claim on her body and her history that she still didn't know how to inhabit.
+
+"I don't want people laughing at you for playing him," she said.
+
+"They won't."
+
+"They might laugh at him and think they're laughing at you."
+
+"Then I'll find out which is which."
+
+Annabeth considered that. Thalia wasn't pretending the role would be harmless. She was refusing to let it own the meaning of the evening.
+
+"Why did you say yes after you said no?" Annabeth asked.
+
+Thalia snorted. "Because Jason laughed when he heard. And then he said a Roman would give a better performance of Jupiter, which was an act of war."
+
+"That sounds like Jason."
+
+"He had a very smug face."
+
+Annabeth smiled, then looked back down at her script. On the second page, Athena was supposed to tell Poseidon to stop flooding the council floor. On the third, she argued with Ares about strategy. She had memorized dozens of arguments like those in a different life. Back then Athena hadn't just been a character in a myth. She'd been the mother Annabeth spent years trying to impress.
+
+Thalia touched the edge of her script.
+
+"You're allowed to find it strange," she said.
+
+"It's a play."
+
+"That's not what I meant."
+
+Annabeth closed the pages. "I used to call Athena Mom. I know that sounds obvious, but I mean in my head. Even when she wasn't there, every hard decision felt like there was an invisible person grading it. I thought if I could be clever enough she'd approve."
+
+"I remember you telling me."
+
+"No, you remember me *telling* you," Annabeth said softly. "That's different."
+
+Thalia didn't flinch. "You're right."
+
+It was one of the things Annabeth loved about her now. Thalia had enough pride to argue all day about a broken shoelace, but she had learned not to claim events she hadn't witnessed.
+
+"I know you were there for me when I was little here," Annabeth said. "You took me to school. You put me to bed. You argued with our father. I don't remember those things from inside. It isn't that I don't believe you."
+
+"I know."
+
+"But playing Athena and having to call Zeus 'Father'..." She tried to smile at the ridiculousness of it. "Will accidentally wrote me a biography in a joke."
+
+Thalia rested her forearms on her knees. "Then don't play the biography."
+
+"What do I play?"
+
+"Someone who thinks she knows everything and gets to be wrong occasionally. You're good at that."
+
+Annabeth nudged her with a shoulder. "I hate you."
+
+"Deeply mutual."
+
+They sat in the warm passage while the amphitheater emptied. Annabeth could hear a drill running in the workshop and Kayla tuning a guitar, testing the same phrase until it stopped sounding like a complaint.
+
+"Would you want me to tell Will?" Thalia asked.
+
+"That I used to have a different mother?"
+
+"No. That one line is uncomfortable. You don't owe him the whole reason."
+
+Annabeth opened the script again. She stared at the fish-meeting sentence. It wasn't the line itself, she realized. It was the careless assumption that Athena, daughter of Zeus, would call for her father's attention and actually receive it. Zeus could command a room by appearing in it. His daughters spent days guessing whether he would appear at all.
+
+"I can say it," she decided. "But I want to change what Athena does afterward."
+
+"Such as?"
+
+"Maybe she doesn't wait for his answer. Maybe she solves the problem herself, even if he hates it."
+
+Thalia gave her a look of approval so fierce that Annabeth almost laughed.
+
+"That," Thalia said, "sounds like someone I'd watch a play about."
+
+Annabeth took her pencil from behind her ear and wrote a note in the margin: *Athena does not beg for permission. She proposes, gets interrupted, acts anyway.*
+
+"Will wrote the play," Thalia reminded her.
+
+"I'll ask him."
+
+"And if he says no?"
+
+"I'll decide whether I still want the part."
+
+"Good."
+
+They heard footsteps at the end of the passage. Percy appeared carrying a bag of costume odds and ends, his expression suspicious.
+
+"Why are you two looking so serious?" he asked.
+
+"Research," Thalia said.
+
+"On fish meetings?"
+
+"On how Zeus should deliver a line without sounding like a malfunctioning weather forecast."
+
+Percy considered. "Thalia can manage that."
+
+"Thanks, Kelp Head."
+
+He handed Annabeth a dented colander. "They want to know if this passes for a helmet."
+
+Annabeth turned it over. One handle had been repaired with wire and the other was missing.
+
+"It's an excellent example of why we don't buy armor at a kitchen supply shop."
+
+"That's the spirit."
+
+She put the colander on her head. It slipped over one eye. Percy laughed, not at her discomfort but at the ridiculous object perched on her curls.
+
+"Don't," she warned.
+
+"I didn't say anything."
+
+"Your face did."
+
+She took the helmet off. Percy set the bag down and reached for her hand, quiet now.
+
+"You okay?" he asked.
+
+"Getting there."
+
+He didn't ask her to explain in front of Thalia. He didn't reach for a memory to prove that he understood. He just squeezed once and waited.
+
+Annabeth loved him for the waiting.
+
+Thalia stood up. "I'm going to tell Jason he has to stop doing that beagle poem in the hallways. It counts as noise pollution."
+
+"Good luck," Percy said.
+
+"I don't need luck. I'm Zeus."
+
+She took three steps toward the amphitheater, paused and looked back at Annabeth.
+
+"One thing," she said. "If Will insists on making Zeus a perfect father at the end, I'm out."
+
+Annabeth held up her script with the new pencil note. "I think we can convince him not to."
+
+Thalia nodded and disappeared into the sunlight.
+
+Percy sat beside Annabeth. She put the colander between them and showed him the note. He read it, then took the pencil and added a line of his own beneath her careful handwriting.
+
+*POSEIDON: This meeting could have been a seashell.*
+
+Annabeth laughed so hard she had to lean against him.
+
+"That's terrible," she said.
+
+"I know."
+
+"Keep it."
+
+They went back inside to ask Will what could change.
 
 ---
 
