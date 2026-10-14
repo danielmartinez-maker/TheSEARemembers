@@ -287,13 +287,15 @@ Jason nodded. “Thalia told me. Your training group held. Romans respect that m
 
 Clarisse swallowed hard and didn’t answer.
 
-Lacy turned the page gently. “Oh — Clarisse, there are so many. ‘Harbor Lights’ — ‘Anchor Song’ — ‘For Chris, Who Learned to Swim’ —” She stopped, her hand flying to her mouth. “Oh! I’m sorry! Is that — is that Chris Rodriguez?”
+Lacy's fingers moved toward the next page. She caught herself before turning it and closed the notebook.
 
-Now Clarisse looked like she might actually pass out. “Give me that! That one’s private-private! That one’s not for—”
+“I'm sorry,” she said, offering it back. “You asked me to read one. Not browse.”
 
-But she was too late. Every Aphrodite instinct in the arena had perked up.
+Clarisse took the book and held it against her armor. “There are poems in here that aren't for anybody in this ring. Including some for Chris.”
 
-Annabeth leaned forward, diplomat mode on. “Clarisse. You don’t have to share that one. But… for the record, Chris would probably love to know you wrote him a poem about learning to swim.”
+“Then they stay yours,” Annabeth said. “You decide if he hears them.”
+
+Percy watched Lacy return to her seat without asking another question. Clarisse looked relieved, and a little surprised, that the rest of them allowed that to be the end of it.
 
 Chris Rodriguez was working in the stables. Percy knew he and Clarisse were close; he didn't know how much of the black notebook Chris had already been trusted with. Sherman slid his phone behind his shield, typing much too quickly for Percy's liking.
 
@@ -994,7 +996,7 @@ Percy kissed her forehead, then her nose, then her mouth, slow and sweet, tastin
 
 Above them, the stars burned steady — hunters and heroes and girls who didn’t come back to shore, all watching over a circle of siblings by blood and by choice, holding each other up, bringing each other home.
 
-And in the morning, on olive wood by the forest shrine, in Clarisse’s fierce block letters traced over by Lacy’s careful hand, with morning glories and tiny painted stars and a beagle carved in the corner by Jason as a joke that made Thalia cry-laugh, the words would read:
+Once Beckendorf repaired the brace and Chiron approved the mounting, the small olive-wood board would carry the lines Clarisse had chosen. Annabeth had planned morning glories and tiny painted stars for the border; Jason had been permitted a beagle on the back, where Thalia would laugh when she discovered it. The inscription would read:
 
 *Sleep soft, sister.*
 *Your watch is done. Mine isn’t.*
