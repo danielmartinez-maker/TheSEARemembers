@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 47 still short
+# Expansion handoff queue: original 55, now 40 still short
 
-**Source:** Last full-corpus report plus October 14 Chapter 070 chapter-local recount. **Status:** Chapters 066–070, 118, 132–133 now pass the 10k mechanical floor (eight expanded chapters). The newest-head full-manuscript workflow must be used before treating corpus totals and duplicate status as independently reconfirmed. Independent prose signoff remains open.
+**Source:** GitHub Actions full-manuscript QA [run 38605972265](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38605972265). **Status:** Fifteen expanded chapters (066–077, plus 118, 132–133) now pass the 10k floor. All 193 numbered files present; 153 length-pass, 40 short. Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Expected mandatory shortfall: **239,128 words** across **47** chapters, using chapter-local arithmetic after the last completed full-corpus checkpoint. The 55/267,533 figures below are the frozen pre-continuation baseline where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **208,815 words** across **40** chapters. The original 55/267,533 values below refer only to the historical pre-continuation baseline. The 55/267,533 figures below are the frozen pre-continuation baseline where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**20 chapters still short**, **79,702** words remain to 10k. Chapters 066–070 have now passed the length gate; remaining chapters are sequential editorial assignments.
+**13 chapters still short**, **49,389** words remain to 10k in this wave. Chapters 066–077 now pass the length gate; Chapter 078 is the next chronological target.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -21,13 +21,13 @@
 | [068](../../chapters/068-the-storm-small.md) | The Storm (Small) | 10,328 | 0 | **LENGTH PASS; editorial review open** |
 | [069](../../chapters/069-silena-s-song.md) | Silena's Song | 10,118 | 0 | **LENGTH PASS; editorial review open** |
 | [070](../../chapters/070-clarisse-s-poems.md) | Clarisse's Poems | 10,543 | 0 | **LENGTH PASS; editorial review open** |
-| [071](../../chapters/071-anniversary.md) | Anniversary | 5,995 | 4,005 | **NOT STARTED** |
-| [072](../../chapters/072-new-kids.md) | New Kids | 5,751 | 4,249 | **NOT STARTED** |
-| [073](../../chapters/073-the-play.md) | The Play | 5,604 | 4,396 | **NOT STARTED** |
-| [074](../../chapters/074-tyson-s-visit.md) | Tyson's Visit | 5,845 | 4,155 | **NOT STARTED** |
-| [075](../../chapters/075-zoe-s-story.md) | Zoe's Story | 5,558 | 4,442 | **NOT STARTED** |
-| [076](../../chapters/076-the-promise-ii.md) | The Promise (II) | 5,228 | 4,772 | **NOT STARTED** |
-| [077](../../chapters/077-beach-day-atlantis-style.md) | Beach Day (Atlantis Style) | 5,706 | 4,294 | **NOT STARTED** |
+| [071](../../chapters/071-anniversary.md) | Anniversary | 10,145 | 0 | **LENGTH PASS; editorial review open** |
+| [072](../../chapters/072-new-kids.md) | New Kids | 10,093 | 0 | **LENGTH PASS; editorial review open** |
+| [073](../../chapters/073-the-play.md) | The Play | 10,245 | 0 | **LENGTH PASS; editorial review open** |
+| [074](../../chapters/074-tyson-s-visit.md) | Tyson's Visit | 10,158 | 0 | **LENGTH PASS; editorial review open** |
+| [075](../../chapters/075-zoe-s-story.md) | Zoe's Story | 10,087 | 0 | **LENGTH PASS; editorial review open** |
+| [076](../../chapters/076-the-promise-ii.md) | The Promise (II) | 10,350 | 0 | **LENGTH PASS; editorial review open** |
+| [077](../../chapters/077-beach-day-atlantis-style.md) | Beach Day (Atlantis Style) | 10,236 | 0 | **LENGTH PASS; editorial review open** |
 | [078](../../chapters/078-nico-s-birthday.md) | Nico's Birthday | 5,987 | 4,013 | **NOT STARTED** |
 | [079](../../chapters/079-elena-s-tale.md) | Elena's Tale | 5,336 | 4,664 | **NOT STARTED** |
 | [080](../../chapters/080-the-second-dance.md) | The Second Dance | 5,702 | 4,298 | **NOT STARTED** |
