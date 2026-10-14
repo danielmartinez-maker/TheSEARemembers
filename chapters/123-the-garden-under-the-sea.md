@@ -238,7 +238,7 @@ Triton looked at her. “I believe there is a sign near the east path about the 
 
 Silena’s smile widened. Clarisse’s mouth twitched. The moment relaxed around them, not because the water changed, but because no one was waiting for them to perform.
 
-Amphitrite turned to Annabeth. “And you are Annabeth. Percy has told me about you.”
+Amphitrite turned to Annabeth with a familiar smile. “Annabeth. I'm glad to see you again. Percy has kept me informed since our lunch at camp.”
 
 “I hope he mentioned the useful things.”
 
