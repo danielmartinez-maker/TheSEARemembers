@@ -70,7 +70,7 @@ In front of the plaque was a flat stone for offerings. There were already things
 
 Percy crouched down to read the plaque again. He traced the English line with one finger, not touching the bronze, just hovering.
 
-"When did you do this?" he asked quietly.
+"When did you finish the plaque?" he asked quietly.
 
 "The walls took most of last July," Annabeth said. She stood behind him, arms wrapped around herself though it was not cold. "I asked Chiron last June. He said yes before I finished asking. Piper helped with the stone sourcing. Malcolm did the load calculations and pretended he was not emotional about it. I did the design and most of the laying. After Pennsylvania I came back to the plans. Finished the plaque, changed the offering stone. I wanted it to hold the living too."
 
@@ -80,7 +80,135 @@ Percy crouched down to read the plaque again. He traced the English line with on
 
 "It is perfect," he repeated, firmer.
 
-She smiled, but it wobbled. "I kept thinking about — on the quest, after the labyrinth part, when we were not sure we were in the same timeline anymore. Do you remember?"
+Then he looked at the offerings again. The tiny horse stood with its head turned toward the old bead. The worn coin was wedged against a seam in the stone. Somebody had tied a narrow green ribbon around one of the oak's low branches. Percy could not remember the ribbon from his last visit.
+
+"Who left these?" he asked.
+
+"Some of them I know. Some I don't."
+
+"Does Chiron?"
+
+"Not necessarily. We didn't want a sign-in book." Annabeth shifted the strap of the satchel against her shoulder. "People can tell Chiron if an object is important to them and they want it kept safe. Otherwise, the offerings stay until the weather takes them or somebody asks for their own thing back."
+
+Percy looked at the damp leaf around the wrapped ambrosia. "That one's going to be trouble."
+
+"I know. I'm asking the infirmary to help remove it. Someone probably meant well."
+
+"So you built a monument and now you have maintenance duties."
+
+"I built an offering place," she corrected. "The maintenance is the part nobody thinks about when they say how beautiful something will be."
+
+He smiled at the familiarity of her expression. She had spent whole afternoons arguing about drainage and load limits with the Athena cabin and the Hephaestus kids. Even in the life she remembered, when people called her a strategist, it had often meant she was the one who noticed the bridge would collapse if too many heroes rushed across it.
+
+"Is this the same place you're changing for Clarisse's poem?"
+
+"Yes, but not this part." She led him around the left wall toward a length of wooden fence bordering the path. The boards weren't rotten, but one supporting brace had been marked with a small red chalk circle. "That section is where we talked about the removable inscription. Beckendorf checked it after the arena meeting. The loose brace still needs a proper repair, and Chiron wants us to verify cart clearance before anything is mounted."
+
+She crouched and pointed to a narrow rut in the dirt. "See? That wheel track is from the infirmary cart. My first drawing would have blocked it."
+
+Percy put his foot beside the rut. The path looked broad until he imagined somebody trying to move a patient over it with a dozen other campers standing around.
+
+"Can we move the board farther down?"
+
+"We might. I asked Clarisse to approve the wording, not a position. We'll need to show her the final placement. And the little tray for anonymous stones is still only an idea. We have to check how the ground drains."
+
+"She was nervous about people guessing who the poem was for."
+
+"She had a reason." Annabeth stood and brushed grit from her jeans. "If we put somebody's private words where anybody can read them, we don't get to decide later what everybody thought they meant. That's why she gets to choose the part she wants displayed. The rest of the notebook is hers."
+
+Percy considered the folded poems he'd seen Clarisse guarding in the arena. He'd learned so much about her that afternoon, and not because he'd read the pages she kept shut.
+
+"I was proud of her," he said.
+
+"I know."
+
+"Not for the poem. Well, partly for it. I mean how she apologized to that kid and then changed his shield. I wouldn't have expected it a year ago."
+
+Annabeth looked toward the camp, where the distant forge bell had begun to ring for the end of a shift. "Neither would I. But that doesn't make her a different person. She always knew how to protect somebody. She's learning that protection can be quieter."
+
+He thought of how easily he and his sisters insulted one another when they were frightened. Clarisse would be appalled to hear him using the word *quieter* about her. She would probably call it a tactical whisper.
+
+"Are you allowed to change this wall without asking everybody who's left something here?" Percy asked.
+
+"That's what Chiron is working out with the families. Some objects are memorials to people who died. Others are for people who came back. One family might be fine with a general inscription and furious about a name carved under it. We can't assume."
+
+Percy looked back at the plaque. *For those who came back. For those who did not.* He had thought, when he first read it, that the words meant everyone. Annabeth was making him understand that *everyone* was not a group whose wishes could be guessed by the person holding the chisel.
+
+"Do you remember what Zoe said last night?" he asked.
+
+"About the radio?"
+
+"About how she wanted her father to stay her father. Even after a goddess changed what somebody else could remember."
+
+Annabeth nodded. She sat on the low wall, careful not to disturb the offerings. Percy sat beside her, facing the trees.
+
+"I kept thinking about her telling the story to Milo," he said. "He was asking whether you could make somebody safe by making them forget. And she didn't give him a neat answer."
+
+"He needed the question taken seriously."
+
+"Yeah. He was scared his brother would forget him. You know what I wanted to say? That it couldn't happen. That families remember you no matter what."
+
+"You didn't say that."
+
+"Because you and I know a pretty spectacular counterexample."
+
+Annabeth looked at him. "We know people can have memories taken or changed. We don't know who changed ours, or why. I don't want Milo thinking he's next because we have an impossible explanation for our own lives."
+
+"Neither do I." Percy dragged the tip of his sneaker through the dirt. "I hate how much I don't know."
+
+"So do I."
+
+They were quiet. A dryad crossed the path farther up and gave them a small wave. Annabeth waved back. Percy found himself wondering whether the dryad remembered someone who had passed this way in a different history. Then he stopped. The question led nowhere he could verify.
+
+"Zoe kept that broken radio dial," he said. "Not because it could bring her family back."
+
+"Because it reminded her of an ordinary night when her father helped her."
+
+Percy lifted his gaze to the plaque again. "Do you think people will use this place that way? To remember nights that weren't heroic?"
+
+"That's what I want."
+
+"Then maybe it needs a bench."
+
+"It has a bench."
+
+"Another bench?"
+
+"We're not building a stadium for grief, Seaweed Brain."
+
+He grinned, and Annabeth's mouth softened. She nudged him with her shoulder.
+
+"I was going to show you the new plaque letters," she said. "Not make you interview me about construction permits."
+
+"Too late. I have questions about drainage."
+
+"Please don't."
+
+"Is the oak structurally involved? Because I'm pretty sure a tree doesn't want load-bearing responsibilities."
+
+"Percy."
+
+"How many drachmas would it cost to install another bench?"
+
+She laughed, but her eyes were still bright. "I did miss you when you were quiet."
+
+He looked down at their hands. "You don't have to tell me the whole reason for bringing me here yet."
+
+Annabeth rubbed her thumb over the scrape on her knuckle. He could see her gathering words, the way she did before a difficult explanation.
+
+"I want you to know it isn't only about the plaque," she said.
+
+"I figured."
+
+"I kept trying to find a place where something could be remembered without trapping us in it. Where we could leave something behind and still come back the next day."
+
+Percy remembered the way her hands had shaken after Pennsylvania. He remembered his own terror of walking into a room and finding her gone. Neither of them had spoken about the memory trap as much as they should have.
+
+"You were thinking about the farmhouse," he said.
+
+Annabeth nodded. The humor left her face, not all at once but like a cloud moving between the sun and the wall.
+
+"I kept thinking about — on the quest, after the labyrinth part, when we were not sure we were in the same timeline anymore. Do you remember?"
 
 He remembered. Of course he remembered.
 
