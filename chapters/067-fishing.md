@@ -378,6 +378,114 @@ Percy splashed her back. The hook was safely on its way to the waste shed. The c
 
 ---
 
+A little later Clarisse returned from the canoe shed with an instructor named Mara and a short board of handwritten notes.
+
+"Don't give me that look," Clarisse told Percy. "I said I'd report it."
+
+"I wasn't giving you a look."
+
+"Your face does it on its own."
+
+Mara had been supervising the morning canoe checks. She was older than most of the campers and had a habit of pausing before answering a question, as though she wanted to be sure it was the question actually being asked.
+
+"Where was the hook?" she said.
+
+Percy showed her the piling, keeping his feet on the dock this time.
+
+Mara knelt, studied the underside, and nodded. "That corner's hard to see at low tide. I'll add it to the inspection route."
+
+"It could have been washed in," Silena offered. "Nobody saw anyone leave it."
+
+"Exactly," Mara said. "Which means I won't begin by accusing anybody. We want to make sure there's no more line hidden against the boards."
+
+Percy looked down. "I can check the whole dock if you want."
+
+"You can help point out where the current runs," Mara said. "But you aren't going back under there alone. We have a procedure for maintenance work in the water."
+
+"I can breathe down there."
+
+"Can your friend?"
+
+Percy looked at Annabeth. "No."
+
+"Then the procedure has to work for everyone who uses the dock, not only for you. We aren't building safety around one person who happens to have an unusual advantage."
+
+The words stung more than he expected. He wanted to explain that he hadn't been trying to take over. He'd only wanted to make sure no other animal got caught. But Mara was right about the reason the work needed a procedure. Percy could rescue one crab. That wasn't the same as making the dock safe.
+
+Annabeth sat on a clean plank with her notebook open. "I can mark the pilings we can see from shore. Would that help?"
+
+"It would," Mara said. "A diagram with the current direction is even better."
+
+"Then give me five minutes."
+
+Clarisse leaned against the rail. "She'll do it in three."
+
+"Don't put a clock on her," Silena said.
+
+Annabeth didn't look up. "Two minutes if you stop talking."
+
+Everyone stopped for exactly six seconds. Then Thalia began telling Grover that a gull had stolen a piece of bread from her breakfast, and Grover objected to the implication that all birds were criminals.
+
+Percy leaned over Annabeth's drawing. She'd marked the bend in the beach, the shallow strip of sand and the two posts where the tide forced debris into a narrow channel.
+
+"I can see why the hook caught there," he said.
+
+"Because the current curls toward the wood," she answered. "That doesn't mean every piece of litter ends up in the same place. We should note where you actually found this one, not turn it into a rule."
+
+Mara approved the sketch and added three points she wanted checked by the maintenance crew. She gave Percy the list and asked him to identify whether those places would be accessible on an ordinary morning, without using his powers.
+
+"The first one's dry at a low tide," Percy said. "Second is shallow enough to see in clear weather. The third's under the outer edge."
+
+"Good. Then we'll arrange a visual inspection with two people and proper equipment. We aren't sending kids swimming under an active dock."
+
+Clarisse seemed disappointed at the absence of a heroic assignment.
+
+"Could I help with the ropes?" she asked.
+
+"After lunch. Come by the shed. We'll need to make sure they're stowed correctly."
+
+"Fine."
+
+Silena took the damp board from Mara and held it flat while Ella copied the list into her own records. Ella included the distinction between FOUND and POSSIBLE. Percy was impressed. It was the kind of thing Annabeth usually had to remind people to do.
+
+Mara closed her notebook.
+
+"One other thing. The line and hook go in the sharps container, not a normal rubbish bin. Did somebody put them somewhere safe?"
+
+Grover froze.
+
+"I wrapped the hook," he said. "It's in the container by the path."
+
+"Then I'll collect it with gloves."
+
+He nodded, looking dismayed. "I didn't realize there was a special one."
+
+"You didn't leave it loose. You did the important thing first. Now you know where it belongs next time."
+
+Grover relaxed. Percy noticed how much difference the second sentence made. Mara hadn't pretended the first choice was perfect, but she hadn't turned an honest mistake into an excuse to shame somebody.
+
+When Mara left, Annabeth tore the sketch from her notebook and handed a clean copy to Clarisse for the maintenance shed.
+
+"Keep this," she said. "Someone else might need it."
+
+Clarisse folded the sheet, careful not to crease the labels.
+
+"I'll give it to the instructor."
+
+"Not to your personal trophy shelf?"
+
+"I don't have a trophy shelf."
+
+"You have a shelf for spears."
+
+"That's different."
+
+Percy watched her go up the path. He thought about the small hook, the impossible-to-see line, and the way he had wanted to solve every inch of the dock himself. Some dangers could be reached with a pair of pliers and a steady hand. Others required a good drawing, a clear report and people willing to do the boring work after the excitement ended.
+
+He returned to the bucket and looked at the fish they'd kept. It was time to think just as carefully about what happened after catching them.
+
+---
+
 By nine o'clock the sun had burned off the mist and the dock was crowded with buckets and towels and Ella's growing stack of notes.
 
 Thalia had caught a small flounder by sheer archer patience. She had named the crab that climbed onto her wrist General Shrimp and released him with full military honors. Grover had finally lowered one hand into the water and had immediately burst into tears because he felt how cold the fish were and Percy had to explain that fish liked being cold while Grover apologized to each one individually.
