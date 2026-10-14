@@ -172,7 +172,7 @@ Milo eyed Cabin Three. "Poseidon cabin only has — how many bunks?"
 
 "Three permanent bunks," Percy said. "Me, Clarisse, and Silena. Plus a guest hammock for Tyson when he comes up from the undersea forges. Silena likes to braid my hair against my will."
 
-"I do not braid against your will," Silena protested. "You fall asleep. That's consent."
+"I only braid it when you tell me I can," Silena protested. "You fall asleep because you like it."
 
 "I fall asleep because you're good at it," Percy said.
 
@@ -295,6 +295,166 @@ Milo practiced his grip while Lucy swung and nearly hit Grover, who dove behind 
 "Always," Percy said simply. "She's my person. I'll keep her safe."
 
 "I know." Thalia punched his arm lightly. "You're a good kid, Percy Jackson. Don't tell Zeus I said that. He'll smite me out of principle."
+
+Milo approached Percy after the practice swords had been returned, his backpack still on both shoulders. Most of the others were gathered around Ella's maps at the gate.
+
+"Where's the drinking fountain?" Milo asked.
+
+Percy pointed to the barrel by the fence.
+
+"A different one."
+
+Percy looked at him. The boy was gripping one strap so tightly that the stitched letters spelling his name had disappeared beneath his fingers.
+
+"Come on," Percy said.
+
+They walked around the equipment shed to the covered fountain behind it. Milo drank, then kept his hand on the tap without letting any more water run.
+
+"Do I have to do the swords again tomorrow?"
+
+"Not if Chiron says you're not ready. Today was just an introduction."
+
+"Clarisse made it sound like everybody had to."
+
+"Clarisse makes brushing your teeth sound like a military campaign."
+
+Milo did not smile. He ran his thumb over the wet rim of the fountain.
+
+"My satyr told me I'd be safe here."
+
+"There's a border," Percy said. "A lot of people keep it working."
+
+"That's not what I asked."
+
+Percy leaned against the wall. It would have been easy to promise that nothing could hurt him inside camp. He wanted to. The boy looked so much like a person bracing for bad news that Percy had to stop himself from offering answers nobody had given him.
+
+"What did he tell you?" Percy asked.
+
+"That monsters couldn't follow me across the hill. That I'd learn to protect myself. That a god would tell me who my father is. And that my brother would be okay without me."
+
+"How old is your brother?"
+
+"Fourteen. He thinks I'm at boarding school."
+
+"Do you want to tell him where you are?"
+
+Milo nodded, then shook his head. "He won't believe me. He didn't believe me when the thing came into the schoolyard."
+
+Percy let the words sit between them. Milo had not volunteered details and Percy wouldn't turn a frightened boy's first day into an interrogation.
+
+"We can ask Chiron what kind of message is safe," he said. "There are Iris-messages, letters, satyrs. Sometimes a normal phone call isn't safe. It depends who knows what."
+
+"Can you call right now?"
+
+"I don't know. We can ask."
+
+"Everybody keeps saying they don't know."
+
+"I hate it when people say that to me too."
+
+For the first time Milo looked at him directly.
+
+"But I won't invent an answer," Percy continued. "If you want, we can write down what you need to know today. The rest we ask somebody who actually knows."
+
+"I need to know whether he thinks I ran away."
+
+Percy's throat tightened. He thought about the letters he'd written to Amphitrite and the endless trouble he'd had making them sound like letters from a boy who was entirely comfortable with his own history. Milo had a different problem. His brother might think an ordinary school had taken him; he might think Milo had chosen to leave.
+
+"Then that's what you tell Chiron," Percy said. "Not just 'I want to call.' Tell him what you're afraid your brother thinks."
+
+Milo's face changed. It wasn't relief. It was the expression of somebody who had found the right name for a problem and discovered the problem was still there.
+
+"Do you have a brother?" he asked.
+
+"Tyson. And Triton. They're very different."
+
+"Do they live here?"
+
+"Tyson visits. Triton lives under the sea."
+
+Milo blinked. "Literally?"
+
+"Literally."
+
+"How do you talk to him?"
+
+"Letters. Sometimes messages through the sea. Sometimes I visit."
+
+"Is he nice?"
+
+"He's complicated." Percy considered. "He knows a lot about me from when I was small. Sometimes he expects me to know things I don't. But we're figuring each other out now."
+
+"That sounds annoying."
+
+"It is."
+
+"Do you still like him?"
+
+"Most of the time."
+
+Milo finally laughed. "My brother's annoying too. He steals my headphones and then says they were in his room because I left them there."
+
+"Classic older-brother crime."
+
+"Does Triton do that?"
+
+"With military training manuals. Which is somehow worse."
+
+Milo leaned against the fountain beside him. "I miss him."
+
+"I know."
+
+"You don't."
+
+Percy nodded. "You're right. Not in exactly the way you do."
+
+Milo seemed surprised that Percy hadn't argued.
+
+They stood for another moment while wind moved through the shed's loose door. Somewhere on the other side, Clarisse was putting the practice shields away. Percy heard her tell Sherman to sort the small ones separately so nobody handed them to someone who couldn't lift them.
+
+"I don't want to go back into the arena," Milo said.
+
+"Then we don't."
+
+"Can I see the stables instead?"
+
+"Sure. We can ask who's on duty. But first we'll talk to Chiron about contacting your brother."
+
+"Will he be mad I didn't finish the sword lesson?"
+
+"No."
+
+"How do you know?"
+
+"Because he was the one who said you could learn at your own pace. And if I'm wrong, I'll tell him I was wrong."
+
+Milo thought that over and gave a small nod.
+
+When they returned to the path Annabeth was stacking practice daggers near the gate. She took in Milo's expression, set the daggers down and asked, "Change of plans?"
+
+"Milo wants a private conversation with Chiron," Percy said. "Then maybe the stables."
+
+"Okay." Annabeth looked at Milo. "Do you want someone to walk with you?"
+
+"Percy can come to the porch. Then I'll go in alone."
+
+"That's fine." She did not ask why.
+
+Milo's shoulders relaxed a little. Percy hadn't realized how many times the boy had been asked to explain himself that morning.
+
+Chiron was consulting with a satyr beside the Big House. Percy waited for them to finish, then told him Milo wanted to talk about his brother and what the brother had been told. Chiron put his clipboard down.
+
+"Thank you for telling me," he said to Milo. "Shall we speak privately?"
+
+Milo nodded.
+
+Percy walked him to the porch but stopped at the doorway. The boy looked back once, not because he wanted Percy to follow, Percy thought, but to check that he really would be at lunch later.
+
+"I'll save you a place," Percy said.
+
+Milo went inside.
+
+Percy stood on the porch until he heard the study door close. Then he walked down to the green, where Grover was trying to catch Ella's pamphlets as they blew across the grass. Helping with that was something he could actually do.
 
 ---
 
@@ -460,7 +620,7 @@ Milo watched their joined hands and grinned. "You guys are cute. Like, gross, bu
 
 Thalia threw her head back and laughed. She pulled Annabeth in for a one-armed hug, then ruffled Percy's hair.
 
-"Yeah, yeah," Thalia said to the new kids. "They're dating. They're in love. They blush every time anyone says it. You'll get used to it. Now who wants extra ambrosia at dinner? First-night rule: new kids get doubles."
+"Yeah, yeah," Thalia said to the new kids. "They're dating. They're in love. They blush every time anyone says it. You'll get used to it. Now who wants an extra cookie at dinner? First-night rule: new kids get doubles."
 
 Three small hands shot up. Ella shrieked with joy and dropped her pamphlets all over the hill. Grover tried to catch them and fell in the grass. Tyson laughed like thunder. Clarisse threatened to leave them all behind and waited. Silena handed out the last gummy fish.
 
