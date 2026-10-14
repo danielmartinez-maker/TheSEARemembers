@@ -1,8 +1,8 @@
-# Expansion handoff queue: all 55 short chapters
+# Expansion handoff queue: original 55, now 53 still short
 
-**Source:** Generated full-manuscript word audit on `audit/four-phase-continuity-2026-10-13`, October 13, 2026 (Monterrey time). **Status:** No chapter in this table has been expanded in this coordinated pass. The counts are mechanical, not prose-approval claims.
+**Source:** Generated full-manuscript word audit on `audit/four-phase-continuity-2026-10-13`, October 13, 2026 (Monterrey time). **Status:** Chapter 066 and Chapter 133 received original, bounded scene expansions in a continuation of PR #103. Both pass the mechanical length floor but still require independent literary signoff. The counts are mechanical, not prose-approval claims.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Total mandatory shortfall: **267,533 words** across **55** chapters.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Current mandatory shortfall: **264,551 words** across **53** chapters. The 55/267,533 figures below are the frozen pre-continuation baseline where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,11 +12,11 @@
 
 ## Wave A · 066–090
 
-25 chapters, **98,028 body words short**. These are sequential editorial assignments, not independent drafts.
+**24 chapters still short**, **96,342** words remain to 10k. Chapter 066 has now passed the length gate; remaining chapters are sequential editorial assignments.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
-| [066](../../chapters/066-jason-s-letter.md) | Jason's Letter | 8,314 | 1,686 | **NOT STARTED** |
+| [066](../../chapters/066-jason-s-letter.md) | Jason's Letter | 10,572 | 0 | **LENGTH PASS; editorial review open** |
 | [067](../../chapters/067-fishing.md) | Fishing | 5,758 | 4,242 | **NOT STARTED** |
 | [068](../../chapters/068-the-storm-small.md) | The Storm (Small) | 5,529 | 4,471 | **NOT STARTED** |
 | [069](../../chapters/069-silena-s-song.md) | Silena's Song | 6,001 | 3,999 | **NOT STARTED** |
@@ -85,13 +85,22 @@
 
 ## Wave D · 131–133
 
-3 chapters, **9,367 body words short**. These are sequential editorial assignments, not independent drafts.
+**2 chapters still short**, **8,071** words remain to 10k. Chapter 133 has passed the length gate; remaining chapters are sequential editorial assignments.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
 | [131](../../chapters/131-cabin-three-at-night.md) | Cabin Three at Night | 5,633 | 4,367 | **NOT STARTED** |
 | [132](../../chapters/132-a-month-beneath-the-sea.md) | A Month Beneath the Sea | 6,296 | 3,704 | **NOT STARTED** |
-| [133](../../chapters/133-annabeth-s-birthday.md) | Annabeth's Birthday | 8,704 | 1,296 | **NOT STARTED** |
+| [133](../../chapters/133-annabeth-s-birthday.md) | Annabeth's Birthday | 10,656 | 0 | **LENGTH PASS; editorial review open** |
+
+## Verified continuation: two length gates closed
+
+The [recounted GitHub Actions QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38507799236) processed 193/193 chapter files after both narrative edits, reporting **140 passing, 53 short, 264,551 words remaining** and no cross-chapter exact 300-word matches across **1,664,234 overlapping windows**. Only this source snapshot is represented by those figures.
+
+- **Chapter 066:** **8,314 → 10,572 body words (+2,258)**. New scene: after Jason's letter is dispatched, Thalia, Percy, Annabeth, Clarisse and Silena troubleshoot the cove's communication chain, carrying forward the ropes, flag boundaries and safe-stop obligations from Chapter 065. Outcome: demonstrated acknowledgment signal, three stations, altered pennant hems; Thalia intends to ask Jason more about Roman drills in a **future** letter (not already sent). [Character-local handoff](../../continuity/ch066.yaml). Adjacent Chapter 065 ending and Chapter 067 opening inspected.
+- **Chapter 133:** **8,704 → 10,656 body words (+1,952)**. New scene: Annabeth recognizes a real safety problem with pavilion decorations, delegates the installation to Nico and Clarisse, and tells Silena to ask before displaying her unfinished maps. Thalia's later movement of a working drawing remains a misunderstanding because she did not demonstrably hear that conversation. [Character-local handoff](../../continuity/ch133.yaml). Adjacent Chapter 132 closing scene and Chapter 134 opening inspected.
+
+Both expansions are **source-reviewed for their immediate callbacks and length**, not declared complete independent developmental/line edits. The added **4,210** narrative words reduce the **floor deficit** by only **2,982** because they also provide a modest margin above 10k. Do not confuse added volume with literary acceptance.
 
 ## Dependency-aware writing packets
 
