@@ -697,6 +697,104 @@ He listened to the sound of the cabin fountain and looked at the still-blank cal
 
 ---
 
+After leaving Chiron, Percy tried to take the training table straight back to his desk. He made it as far as the forge before he noticed Beckendorf testing a battered bronze fitting against a wooden frame.
+
+It looked like the hinge from a trapdoor. The metal turned smoothly until it reached the last inch, then caught.
+
+"Needs room to expand," Beckendorf said without looking up.
+
+Percy stopped. "The hinge?"
+
+"And the wood. They change shape in the heat. You have to leave space for both."
+
+Percy looked at the page in his hand. "I have a question about something that might change shape underwater."
+
+Beckendorf turned, wiping his hands on a rag. "That's not ominous at all."
+
+"It might be. Poseidon offered me a month of training in Atlantis. Deep currents. Triton as instructor, maybe Dad some of the time. Chiron wants specifics before he approves anything."
+
+"And you want to know what the equipment should look like."
+
+"I want to know which parts of the plan are stupid."
+
+"That's a more useful question. Come inside."
+
+The forge was warm enough to make Percy forget the breeze outside. On one table Beckendorf had laid out a row of bent fittings, each marked with a different number. He cleared a clean spot and set a metal weight on Percy's paper so it wouldn't curl.
+
+"What's the deepest part of the training?" he asked.
+
+"I don't know."
+
+"How are you getting there?"
+
+"Through the palace. Probably."
+
+"Probably isn't a route."
+
+"I know. That's why the table has blanks."
+
+Beckendorf glanced at the columns. "All right. What's your stopping point?"
+
+"What do you mean?"
+
+"If you get halfway into the lesson and realize you can't do what they expect, how do you tell the instructor? And who gets you out?"
+
+Percy opened his mouth. Poseidon could probably hear him anywhere in the ocean. Triton knew those currents better than anyone he had ever met. Percy was reasonably sure he could rise toward shallower water if he needed to.
+
+None of those was a practical answer to the question.
+
+"I haven't asked," he admitted.
+
+"Then ask. Even if a god says you'll be fine."
+
+Percy considered the thought. Triton had been strict about the stop signal during the camp lesson. It shouldn't be insulting to ask him what the underwater version would be. If anything, his brother might like having proof Percy had listened.
+
+"What else?"
+
+"Equipment. If you have to wear something, get the dimensions and the limits. If you don't have to wear anything, find out why. Don't assume another person can follow you just because you can survive somewhere."
+
+"I wouldn't bring Annabeth into something unsafe."
+
+"I believe you. But you and she get to make that decision using facts, not guesses."
+
+Percy looked down at the blank space labeled communication. It had seemed easy to draw a line from that box to Annabeth's name. The palace had magical couriers and gods who sent messages through shells. That didn't mean the methods would work on any day he wanted to talk, or that Annabeth should plan her life around waiting for one.
+
+"Chiron already told me not to assume a weekly call is possible," he said.
+
+"Good. Then ask what is possible."
+
+Beckendorf picked up the bronze hinge and showed him where the metal had begun to seize. "We build tests for the condition we expect the thing to survive. Then we find out what actually happens. If it fails, we change the design."
+
+"You make it sound easy."
+
+"It's tedious. That's different."
+
+Percy laughed. "You're doing a great job selling engineering."
+
+"I don't need to sell it. I enjoy the part where things don't break."
+
+They drafted three questions Percy hadn't put in his first message: what counted as an emergency stop, how a lesson ended if a participant wanted out, and how any guest would be evaluated for safe participation. Percy made a separate line for Annabeth. He did not write down that she would visit, only that he would ask whether visits were possible and bring her the answer without treating it as a decision.
+
+Beckendorf read the page, then returned to the hinge.
+
+"One thing," he said as Percy rose. "If you go for a month, you'll come back with stories. Don't tell everybody the deep part first."
+
+"What should I tell them?"
+
+"Tell them what a normal day was like. They can ask about the dangerous stuff if they want."
+
+Percy thought of the palace dining hall and the sound of cups against a long stone table. He wanted to spend an ordinary meal there without the pressure of impressing anyone. That was part of what the invitation meant, and he'd almost reduced it to a set of drills.
+
+"I'll remember," he said.
+
+Beckendorf grinned. "You might. Write it down anyway."
+
+Percy did. At the bottom of the table, under all the boxes about instructors and safety, he added a line that wasn't a technical requirement: ordinary time with family.
+
+He folded the paper and left the forge. The questions hadn't made the choice easier, but they made it possible to recognize an answer when one came.
+
+---
+
 That evening, he found Annabeth on the dock.
 
 Honey-colored light lay across the lake, gilding each ripple and warming the dock planks beneath their weight. Swallows stitched the air overhead, and the far treeline stood dark against the brightness. Boots hooked on the lower rung, one hand resting on the morning's map, its margins now threaded with fresh notes, she watched the water. Percy halted several steps behind, planks warm beneath his shoes.
