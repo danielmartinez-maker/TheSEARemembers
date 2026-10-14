@@ -170,7 +170,7 @@ Clarisse threw a practice sword at him. He caught it. Bianca laughed so hard her
 
 Silena Beauregard cried when Bianca asked her.
 
-Not big dramatic tears — just immediate, shining eyes and a hand pressed to her chest. "A baby's birthday! Oh, of course! Oh, honey, come here," she said, pulling Bianca into a hug that smelled like vanilla and sunshine. Behind her, the Aphrodite cabin's front porch was draped with drying flowers and ribbons, and someone was playing a lyre badly but enthusiastically inside.
+Not big dramatic tears — just immediate, shining eyes and a hand pressed to her chest. "A baby's birthday! Oh, of course! Oh, honey, come here," she said, pulling Bianca into a hug that smelled like vanilla and sunshine. Behind her, Cabin Three's front porch was draped with drying flowers and ribbons, and someone was playing a lyre badly but enthusiastically inside.
 
 Nico had once told Bianca, very seriously, that Silena was a princess from a fairy tale who had gotten lost and decided to live at camp. Bianca had not corrected him.
 
@@ -192,7 +192,7 @@ Bianca left the Aphrodite cabin with a list of ingredients and a ribbon tied aro
 
 She was rounding the corner toward the Big House when the sky cracked open.
 
-It was not a big crack. Just a snap and a sizzle, like static on a wool blanket. A bolt of lightning no thicker than her finger struck the grass ten feet away, fizzled, and left behind a perfect smoking circle and the smell of ozone.
+It was not a big crack. Just a snap and a sizzle, like static on a wool blanket. A bolt of lightning no thicker than her finger struck the grass ten feet away, fizzled, and left behind a scorched patch and the smell of ozone.
 
 Thalia Grace stood in the middle of the path with her hands on her hips, frowning at the sky.
 
@@ -214,13 +214,13 @@ Bianca gasped. "That's amazing."
 
 "Nothing is going to be too loud?" Bianca asked. "He doesn't like loud booms. Thunderstorms scare him."
 
-Thalia's expression turned serious. "Then no booms. I swear on the Styx. Just light."
+Thalia's expression turned serious. "Then no booms. I won't use live lightning near the party. I'll ask Chiron to approve a light-only display and a safe viewing line. If he says no, we use lanterns."
 
 She held out her pinky. Bianca linked it with hers, solemn as an oath.
 
-"Styx is listening, you know," Bianca whispered.
+"Chiron needs to sign off on that," Bianca reminded her.
 
-"Good," Thalia said. "Let her hear I'm good for something besides breaking things."
+"He will," Thalia said. "I have to get better at keeping my promises without making new problems."
 
 ---
 
@@ -234,9 +234,9 @@ He tried again, softer. The water rose and settled into a small translucent boat
 
 By Thursday he had a fleet: six ghost ships, a dozen pulsing jellyfish lanterns, and glowing starfish. He hid them in a cove under Mist with a sign that said in wobbly Greek DO NOT TOUCH — SCIENCE.
 
-Annabeth built like a woman possessed. She and Malcolm and two Hephaestus kids — Beckendorf and Nyssa — hauled cedar planks to the clearing behind Cabin Thirteen. They worked in the afternoons when Nico was at archery or in the library with his Mythomagic club, sawing and hammering while Juniper and a few dryads wove living ivy through the rails to soften the edges.
+Annabeth worked carefully with the approved construction crew. She and Malcolm and two Hephaestus kids — Beckendorf and Nyssa — hauled cedar planks to the clearing behind Cabin Thirteen. They worked in the afternoons when Nico was at archery or in the library with his Mythomagic club, sawing and hammering while Juniper and a few dryads wove living ivy through the rails to soften the edges.
 
-The fort rose quickly because Annabeth had designed it to. Four low walls, corner posts wrapped in Stygian iron, a slatted roof that dappled the interior with light and shadow. A loft platform just big enough for two kids and an army of plastic figures. And under the main floor, a trapdoor leading to a box lined with velvet — Bianca's idea — for treasures.
+The fort rose quickly because Annabeth had designed it to. Four low walls, corner posts fitted with inspected bronze brackets, a slatted roof that dappled the interior with light and shadow. A loft platform just big enough for two kids and an army of plastic figures. And under the main floor, a trapdoor leading to a box lined with velvet — Bianca's idea — for treasures.
 
 "This is good work," Beckendorf said on Thursday evening, wiping sweat from his brow and admiring the joints. "You sure you're Zeus and not Hephaestus?"
 
@@ -326,7 +326,7 @@ He got up, grinning with a mouth full of dust. "Again!"
 
 On the fourth try, he faked her — a tiny, perfect shield lift — and tapped her knee. The arena went silent. Clarisse looked down at the wooden blade against her greave, then at him.
 
-Then she threw back her head and laughed, loud and startled.
+Then she threw back her head and laughed, loud and startled, because he'd earned the touch in a controlled drill rather than been handed a fake victory.
 
 "Good!" she barked, hauling him to his feet and ruffling his hair so hard his helmet spun. "Good! You got me! Remember that when you're telling stories — you beat Clarisse La Rue fair and square on your birthday!"
 
@@ -348,7 +348,7 @@ Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wea
 
 ---
 
-"Where are we going?" Nico demanded for the fifth time as Bianca led him, blindfolded with her own jacket, through the woods behind their cabin that afternoon. "Is it the infirmary? Did Mrs. O'Leary eat something again?"
+"Where are we going?" Nico asked for the fifth time as Bianca guided him along the familiar marked path behind Cabin Thirteen that afternoon. She had offered him her jacket as a blindfold, but he preferred to keep his eyes open and promised not to look ahead. "Is it the infirmary? Did Mrs. O'Leary eat something again?"
 
 "Nope."
 
@@ -362,7 +362,7 @@ Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wea
 
 She stopped him at the edge of the clearing. Behind her, she could hear the held breath of thirty campers crammed behind trees and the fort walls. She could hear Percy whispering, "Everybody ready? On three—" and Annabeth hissing, "Percy, that's the surprise ruined—" and Thalia crackling faintly like a bug zapper.
 
-Bianca pulled the jacket away. "Surprise!"
+Bianca stepped aside so he could see the clearing. "Surprise!"
 
 "HAPPY BIRTHDAY, NICO!"
 
@@ -450,13 +450,13 @@ Thalia picked him up — he was getting big, but she managed — and settled him
 
 "Promise?"
 
-"Styx promise."
+"I'll try to make another one if you want it, and if Chiron says it's safe. That's a promise I can actually keep."
 
 Bianca joined them, and Annabeth, and Percy, and soon it was a pile — Silena and Clarisse and Grover and Beckendorf and all of them, laughing in the striped shadows of the fort while the water lanterns glowed and the cake crumbs stuck to everyone's shoes.
 
 Chiron watched from the trees, smiling. He had seen many birthdays at camp. Some grand, some quiet. This one, he thought, would be remembered. Not for the magic — though there had been plenty — but for the look on a small boy's face when he realized the whole world had conspired to say: you belong.
 
-Later, much later, after the cake was gone and the lanterns dimmed and the younger campers were herded yawning to their cabins, Nico sat in the loft of his fort with Bianca, both of them in pajamas, sharing the last chocolate coin.
+Later, much later, after the cake was gone and the lanterns dimmed and the younger campers were herded yawning to their cabins, Nico sat in the loft of his fort with Bianca, both of them in comfortable evening clothes, sharing the last chocolate coin before going back to Cabin Thirteen for the night.
 
 "Bianca?" he said sleepily, leaning against her side, crown crooked on his head.
 
@@ -476,7 +476,7 @@ Nico yawned. "I'm glad we came to camp."
 
 "Happy birthday to me," he mumbled, already half asleep, plastic skeleton in one hand, new bracer still strapped on, ring glinting faintly in the dark.
 
-He slept. The camp slept. The fort stood guard, striped with starlight, names carved over the door.
+He went back to Cabin Thirteen with Bianca before curfew, and slept there with the ring safe on his bedside table. The fort remained outside, empty until morning, its names carved over the door.
 
 BIANCA + NICO. EST. CAMP.
 
