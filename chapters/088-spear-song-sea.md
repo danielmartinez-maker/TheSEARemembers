@@ -426,6 +426,86 @@ That night Percy woke from a nightmare — Luke's smile, cold water closing over
 
 ---
 
+After Silena's lesson, Percy discovered that knowing how to wrap a bandage wasn't the same as knowing what to do when someone was frightened.
+
+He had been helping return the first-aid kit to the infirmary when Theo, the boy they'd treated on the beach, came out of Will's room. The bandage was clean and his ankle was properly supported. He looked worried.
+
+"Did I do something wrong?" Theo asked.
+
+Percy shook his head. "Why?"
+
+"Clarisse keeps asking how it feels. Silena asked twice. I think I made everyone panic."
+
+"You got hurt," Percy said. "They were checking."
+
+"I know, but I don't want them to treat me like I'm breakable."
+
+Percy had heard a version of that complaint from Silena beside the memorial shrine. He'd spent weeks making her feel as though every scrape could become a tragedy because he remembered a future where she'd died. Theo didn't share that history. He deserved to have his own injury taken seriously without being defined by it.
+
+"Want me to ask them to stop checking?" Percy asked.
+
+Theo considered. "Maybe I want them to ask just once. Then if I need help I can say it."
+
+"Okay."
+
+Percy didn't promise to speak for him immediately. He asked whether Theo wanted to be there when they talked. The boy nodded.
+
+They found Silena and Clarisse washing the practice bandages. Theo explained that Will had given him instructions, that he'd follow them, and that he would tell someone if the swelling got worse. He didn't need the same question from three older campers every hour.
+
+Silena looked embarrassed. "I was worried."
+
+"I know," Theo said. "Thanks for helping. But I'm okay with the plan Will gave me."
+
+Clarisse nodded. "Fair."
+
+After Theo left, Silena sat on the bench with a wet strip of cloth in her hands.
+
+"I thought checking on him was kind," she said.
+
+"It is," Percy replied. "When he wants it."
+
+She looked up. "When did you become so wise?"
+
+"About six minutes ago."
+
+Clarisse snorted. "Temporary condition."
+
+Silena laughed, but the lesson stayed with her. She wrote a small note for the infirmary kit: *Ask whether the camper wants another check. Follow Will's instructions. Don't turn worry into an extra treatment.* She asked Will to review the wording. He approved it, then reminded all three siblings that herbal supplies, nectar and ambrosia were medicines to be used under trained supervision, not snacks or gestures of affection.
+
+Percy felt chastened. He'd once believed handing someone a bottle of nectar was the same as taking care of them. After the storm, when Will had examined his own exhausted hands, he'd begun to understand that care could mean letting a professional decide what was needed.
+
+The next afternoon Silena asked the group to practice an ordinary scenario with no blood and no heroic rescue: a camper who had tripped on the path, was uninjured, but didn't want to be touched.
+
+Percy volunteered to play the camper. Clarisse approached him in her usual direct style.
+
+"Are you hurt?"
+
+"No."
+
+"Can you stand?"
+
+"Yes."
+
+"Then get up."
+
+Percy looked at Silena. "That's not very comforting."
+
+Clarisse folded her arms. "He said he was fine."
+
+Silena asked her to start again. This time Clarisse offered a hand without grabbing Percy. Percy declined it. She stepped back and asked whether he wanted someone to walk with him to the infirmary or would rather report the fall to his counselor.
+
+"I can go to my counselor," Percy said.
+
+"Then go. Don't pretend you didn't fall if something starts hurting."
+
+Silena nodded. "Better."
+
+Clarisse looked pleased with herself in spite of her scowl. Percy pretended to limp all the way to the doorway, earning a towel thrown at his back.
+
+That evening the three siblings cleaned and restocked the kit, checked expiration labels and wrote down which supplies needed replacing. The inventory was less exciting than the singing had been, but the next injured camper would benefit from it.
+
+Percy watched Clarisse sign the list. She had started the week teaching everyone how to avoid getting stabbed. Silena had taught them how to avoid making injury into a performance. They were both forms of protection, and Percy wanted to remember both.
+
 Percy taught last on the fifth morning, and Percy’s classroom was *in* the sea.
 
 "Absolutely not," Annabeth said, standing on the shore with her arms crossed while Percy waded backward into the surf, grinning. "Last time you said 'trust me, it's fine' we ended up in the Sirens' cove."
