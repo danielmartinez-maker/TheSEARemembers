@@ -900,6 +900,98 @@ Nico yawned. "I'm glad we came to camp."
 
 "Happy birthday to me," he mumbled, already half asleep, plastic skeleton in one hand, new bracer still strapped on, ring glinting faintly in the dark.
 
+"Before we go," Bianca said, "I have one more thing."
+
+Nico sat up a little. "Another present?"
+
+"A letter."
+
+"To me?"
+
+"Who else?"
+
+She took the folded page from the pocket where she'd kept it all week. The paper had softened along the crease. She held it out and waited for him to take it, wondering whether she'd written too much, or too little, or said the wrong thing about their mother.
+
+Nico unfolded it. He read slowly, lips moving without sound. He was good at Greek and Italian and had never loved English as much, but he didn't ask for help. Bianca sat beside him and listened to the campers packing up below.
+
+When he reached the part about the blue plate, he looked up.
+
+"I remember it being green," he said.
+
+Bianca felt the old urge to argue. Their mother's plate, the birthday candle, the song: those were some of the only ordinary details she trusted from the time before the Lotus. If the plate had changed color in Nico's mind, what else might be different?
+
+"Maybe it was green," she said.
+
+"You wrote blue."
+
+"That's how I remember it."
+
+He thought about the page. "Maybe she had two plates."
+
+Bianca laughed. "She probably did."
+
+Nico returned to reading. When he finished, he folded the page more carefully than Bianca had.
+
+"You said I can remind you if you forget a birthday," he said.
+
+"Yes."
+
+"Even if you're mad at me?"
+
+"Even then."
+
+"What if I forget yours?"
+
+"Then I'll tell you. We're allowed to help each other remember."
+
+He turned the ring on his finger. "I wasn't mad you almost forgot."
+
+Bianca froze.
+
+Nico looked at her. "You were acting like you were scared. I figured it out on Monday. I thought maybe I'd done something wrong."
+
+"You didn't," she said immediately. "I was worried about myself. I wanted to do everything perfectly because we'd missed so much. That wasn't fair to you."
+
+"I just wanted cake with you."
+
+"I know. I know that now."
+
+He tucked the letter under his arm and leaned against her.
+
+"I liked the big party too," he admitted.
+
+"Good."
+
+"And the fort."
+
+"Good."
+
+"But next year we can just have cake if you want."
+
+Bianca kissed the top of his head. "Next year, you decide what you want. You don't have to make the party small to take care of me."
+
+He yawned. "Okay."
+
+"And you don't have to protect me from being embarrassed."
+
+"I'm still going to," he said.
+
+"Well, try not to make a habit of it."
+
+He laughed into her shoulder, the quiet, sleepy laugh that had followed her through so many rooms she no longer knew how to count.
+
+Bianca looked around the little fort. Annabeth's handrails were sturdy, the loft lamp had been shut off, and the Mythomagic cards were stacked on the lower table where Nico and Cecil could find them tomorrow. Nico put his letter into the hidden shelf himself after Bianca showed him where Annabeth had built it. He asked her not to move it. She promised she wouldn't.
+
+"Can we go home now?" he asked.
+
+"Cabin Thirteen?"
+
+"Yeah." He looked up at her, surprised by the question. "Where else?"
+
+She took his hand and led him down the steps. On the path he told her that he wanted to draw his own skull above the fort's door, below the names Annabeth had already carved. Bianca said they'd ask before changing the wood, and Nico said that was fine; he had a design in mind.
+
+They walked past the quiet lake and the last lamps along the cabins. Nico carried the plastic skeleton in one hand and held Bianca's with the other. He was tired, and he was nine, and he had been given a place he could return to rather than a perfect day that would disappear when the decorations came down.
+
 He went back to Cabin Thirteen with Bianca before curfew, and slept there with the ring safe on his bedside table. The fort remained outside, empty until morning, its names carved over the door.
 
 BIANCA + NICO. EST. CAMP.
