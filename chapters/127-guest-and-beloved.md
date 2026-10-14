@@ -510,13 +510,13 @@ Percy was surprised by the question. "I don't."
 
 He looked toward Clarisse, who was arguing with Triton about whether the cracked arch should have been caught at the previous inspection. Silena was taking notes on the courtyard plants. Annabeth had gone ahead with Thalia to measure a narrow step.
 
-"I wish I could remember what it was like here," Percy said.
+"I wish being here felt easier," Percy said.
 
 "I know."
 
-"Sometimes I think if I remembered it, everything would feel easier."
+"Sometimes I think if I knew how to act here without asking, everything would feel easier."
 
-"It might make some things easier," Amphitrite answered. "It would make other things more complicated. But the missing years are not a debt you owe me."
+"It might make some things easier," Amphitrite answered. "But you don't owe me a performance of the boy you were before camp. We can learn who you are now."
 
 The garden smelled faintly of warm stone and salt. Percy stood beside her, uncertain what to say. He was used to adults trying to fill his silences with reassuring conclusions.
 
