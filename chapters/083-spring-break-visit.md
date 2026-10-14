@@ -810,6 +810,54 @@ When the smoke cleared, the stars were out, hard and bright above the temple hil
 
 Departure was at dawn, Roman-early, which Percy protested and then slept through until Annabeth shook him awake with cocoa.
 
+Before they went to the gate, Annabeth stopped by the engineer's office with Hazel's library drawings. The supervising engineer had left a short note on the desk, confirming that a foundation survey would be scheduled before anyone approved construction. No date had been set. There was also a stamped acknowledgement that the preliminary concept plan had been received, not approved.
+
+Hazel looked at the note and sighed. "It's not much."
+
+"It's a start," Annabeth replied.
+
+"Do you think the Greek camp will care?"
+
+"They'll care about the history. I don't know whether they'll fund a joint building. I haven't asked."
+
+Hazel smiled. "Then we have a lot of letters ahead of us."
+
+Annabeth took out a pencil and marked the page with the status of each item: a Roman survey request, a proposed archive permissions process and an unapproved concept for shared reading space. Percy watched from the doorway while Frank helped gather the original plans.
+
+"Could I draw the fountain?" Percy asked.
+
+Annabeth looked up. "In what?"
+
+"The plan."
+
+"Are you proposing plumbing?"
+
+"I'm proposing a place people might want to sit."
+
+Hazel considered. "That is a valid design goal."
+
+Annabeth handed him the pencil. Percy drew a little circle in the courtyard. It wasn't to scale, and the route between the doors still needed work, but both girls looked at it seriously before deciding whether to keep it.
+
+"We'll mark it as an idea," Annabeth said.
+
+"Can you write my name beside it?" Percy asked.
+
+"Yes."
+
+She did, then turned the drawing toward Hazel so she could see the annotation. Neither girl pretended the fountain would be built. Percy liked that his silly sketch could be kept without being treated as a decision made for people who weren't in the room.
+
+They packed the two copies separately. Hazel kept the Roman file with the engineer's acknowledgement; Annabeth carried her working sketch. Frank promised to ask the Fifth Cohort whether someone could help survey the path when the engineers were ready, but he didn't volunteer anyone on the spot.
+
+At the gate Percy told Hazel he would like to see the final version someday. She said she would send him a photograph if there was ever a final version.
+
+"That's fair," he said.
+
+"It is not a guarantee," she reminded him.
+
+"I'm getting used to those."
+
+Annabeth laughed. Their bags were light, but they were carrying more specific work home than any of them expected when the trip began.
+
 The gate was quieter without cohorts in formation, just friends in cloaks with red eyes. Frank had packed them so many snacks Grover would weep. Hazel pressed the napkin-library sketch into Annabeth's hands, now inked proper.
 
 "Joint design," Hazel said. "Greek light, Roman arches. We'll build it someday. Both camps."
