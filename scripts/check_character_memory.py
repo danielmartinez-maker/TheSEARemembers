@@ -112,6 +112,15 @@ CHECKS = {
                    "You gave me your notebook from the whole week",
                    "hugged Elena hard enough to lift her"),
     },
+    "chapters/080-the-second-dance.md": {
+        "present": ("Tyson returned from meeting an approved Atlantean messenger",
+                    "The silver wristband from the first dance had stayed with Annabeth",
+                    "Grover danced with Ella for the first slow song",
+                    "The side path is clear",
+                    "Beckendorf unplugged the speaker"),
+        "absent": ("lake portal", "He had knocked over nectar",
+                   "Annabeth says triangles only hurt when people compete"),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),
