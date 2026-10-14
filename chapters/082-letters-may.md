@@ -153,6 +153,78 @@ He shouldered his satchel and ran the letter to the dispatch shells before the b
 
 ---
 
+At Camp Half-Blood, the correspondence had a problem before Annabeth even received Percy's first letter.
+
+The dispatch box outside the Big House had filled with letters to people who weren't currently there. Some were addressed to campers away at school, some to satyrs traveling on assignments, and two to relatives who couldn't receive magical post at all. Ella had started sorting them by destination, then discovered several envelopes had no return address or forwarding permission.
+
+Annabeth found her at the library table with the boxes open and a worried expression on her feathered face.
+
+"Too many," Ella said. "Ella knows where most people went. But knowing is not the same as being allowed to send a letter there."
+
+Annabeth sat opposite her. "Who owns the address list?"
+
+"Chiron. Some are private."
+
+"Then we don't copy them into a public forwarding ledger."
+
+Ella's head snapped up. "Yes. That is what Ella said."
+
+Annabeth smiled. "Did someone disagree?"
+
+"Travis offered to make a map with every camper's location. Said he could make the mail faster."
+
+"Of course he did."
+
+"Grover would be on it. Tyson would be on it. Children who don't want their families to know where they live would be on it."
+
+Annabeth felt the significance immediately. A map was useful only if the right person was reading it. She had nearly made the same mistake with the fort behind Cabin Thirteen, trying to build a structure for Nico without checking who would maintain it or what belongings he wanted to keep private. She had learned a similar lesson from Elena's account at the April campfire. Details had owners, even when those details seemed harmless to the person collecting them.
+
+"Can we make a system that doesn't expose where everybody is?" she asked.
+
+Ella looked at the envelopes. "Ella can give each person a private code. The public box has the code. Chiron keeps the address."
+
+"And campers can ask Chiron not to forward something if it isn't safe."
+
+"Yes."
+
+"And no one can infer where a person is from the public box."
+
+Ella considered. "Not unless they recognize the code."
+
+"Then the codes shouldn't be names or cabin numbers."
+
+Ella wrote that down.
+
+They took the proposal to Chiron after breakfast. He read it without smiling, which was how Annabeth knew he was taking it seriously. Then he asked who would check whether an address was current, who would keep returned letters and what would happen if somebody wanted their location removed.
+
+Ella had answers for the first two questions. The third required work.
+
+"If someone asks to remove a forwarding address," Chiron said, "we should stop sending mail there until they give us new instructions. This isn't merely a filing problem."
+
+Annabeth added the rule to the draft. She didn't like that it left some mail waiting. She liked even less the idea of a letter being delivered to the wrong person because somebody cared more about an efficient system than a camper's wishes.
+
+That afternoon an envelope arrived for Milo. The boy was at the stables when Chiron received it; the address on the outside had been copied from an older document. Chiron checked the sender details privately and asked Milo whether he wanted the letter delivered to his cabin or held until he could collect it.
+
+Milo chose to collect it.
+
+Annabeth knew no more than that. She didn't ask what the envelope contained or whether it came from his mortal brother. The boy had been trying to reach his family since he arrived; knowing that made the moment important, but it didn't make the letter hers to read.
+
+Ella labeled the sealed holding box with a neutral number.
+
+"See?" she said. "The system works without knowing what is inside."
+
+"Usually."
+
+"Always if everyone follows the rules."
+
+Annabeth looked at her. "People won't always."
+
+Ella considered this, then added a small space to the ledger for exceptions and mistakes. They were going to need it.
+
+The next day the dispatch box worked better. Chiron remained responsible for protected addresses. Ella tracked dates and delivery attempts, not private family information. Annabeth helped make clear labels that wouldn't tear when the damp weather reached the mail station.
+
+They were still learning when the first Atlantean tube arrived.
+
 At Camp Half-Blood, May arrived straight on.
 
 Annabeth Grace woke to frost on the Zeus cabin shutters and Apollo scales in the cold air. She was thirteen, hair braided back for archery. On her desk lay three books, a half-drawn map, and a pottery shard she used as a paperweight.
