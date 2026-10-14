@@ -8,6 +8,68 @@ Today the buses would come. Today the cabins would empty. Today the Hermes kids 
 
 He did not get up right away. He wanted to remember this exactly like this.
 
+But the first problem of the morning was practical. Two of Tyson's things were still under the bunk: a hammer wrapped in cloth and a battered wooden case full of small parts from the forge. Percy had assumed Tyson would pack them before he left. Tyson had assumed they could stay in Cabin Three for the summer.
+
+"Do you want these at Atlantis?" Percy asked when Tyson emerged from the washroom.
+
+Tyson knelt to look. "The case can stay. The hammer belongs to the palace workshop."
+
+"Then you should take it."
+
+"I wanted to leave something for you to remember me."
+
+Percy sat on the floor beside his brother. Tyson looked genuinely disappointed.
+
+"I don't need to keep the palace's hammer to remember you," Percy said. "And I don't want you getting yelled at when somebody realizes it's missing."
+
+Tyson considered. "I could make you another one."
+
+"I have a better idea. Leave me the case. You built that one yourself, right?"
+
+"Yes. It is ugly."
+
+"It's excellent. It even closes most of the time."
+
+Tyson laughed. He opened the case and showed Percy the small brass fitting he'd made to replace a broken latch. The fitting could be removed and repaired without destroying the box. That was the point Tyson had wanted to make before Percy interrupted him about the hammer.
+
+Percy listened. When Tyson was finished, he closed the case and tried the latch himself. It caught on the second attempt.
+
+"Works," Percy said.
+
+"Almost."
+
+"Then we'll fix it when you visit again. Unless you want to fix it today."
+
+Tyson looked toward the window, where the sun was already rising above the cabins. "Today has too many things."
+
+"Agreed."
+
+They wrote a label for the borrowed hammer and put it with the other workshop equipment going back to Atlantis. The case went on Percy's shelf, beside the letters he'd been sorting since spring. It wasn't proof that Tyson had always lived with him in this life. It was a thing they'd talked about this morning, both of them present, both of them knowing what had happened.
+
+Percy touched the case once more before standing.
+
+"Thanks," he said.
+
+"For the box?"
+
+"For showing me how it works."
+
+Tyson smiled, and Percy knew he had understood.
+
+At the door they found a paper notice pinned to the cabin wall. The first draft said all visitors should leave their luggage at the bus circle by breakfast. Someone had crossed out *all* and written *those assigned to the morning departure*. The Atlantis travelers were leaving by separate arrangements, and at least three counselors had argued over whether that made their equipment luggage.
+
+"Who wrote the correction?" Percy asked.
+
+"Chiron," Tyson said.
+
+"Smart guy."
+
+"He also wrote our names on the right list."
+
+Percy studied the neat little columns. The names mattered. More importantly, the lists had limits. Not everybody who stayed at camp or left it used the same route home. Percy wasn't going to make the same mistake with his family that he'd made with a borrowed hammer, assuming that because he wanted something to remain, it belonged to him.
+
+He slipped his arms into his jacket. There were people to say goodbye to, and they were going to need more than a hurried wave as the buses drove off.
+
 ---
 
 The mess hall was quieter without the rush. Not empty, just slower, like everyone had agreed without saying it to stretch the morning out.
