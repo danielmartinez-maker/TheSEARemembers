@@ -99,3 +99,8 @@
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): Percy zapped during practice not proof father Poseidon intervened; no direct appearance.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapters 023–036 · absence/report boundary
+- **[Ch023](../../chapters/023-sally-s-blue.md):** Clarisse tells Percy that Poseidon visited her once when she was eight and left after about ten minutes. Poseidon is not present and is not shown learning that she told Percy.
+- **[Ch032](../../chapters/032-triton-visits.md):** Triton's view about Poseidon wanting Percy back earlier is hearsay to Percy/Annabeth, not a direct Poseidon appearance or confirmed order. Poseidon's knowledge of that report is unknown.
+- No source in this range proves Poseidon knows the revised timeline or Percy's private memory gap.

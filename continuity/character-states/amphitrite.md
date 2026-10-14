@@ -95,3 +95,7 @@
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): No direct disclosure of Annabeth powers, Jason stay or Percy electric mishap. Her emotional closeness with Percy can grow without being informed of erased-life history.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 030 · visit and knowledge boundary
+- **[Chapter 030](../../chapters/030-amphitrite-visits.md) FIRSTHAND:** Visits Camp Half-Blood for lunch, meets Percy's friends, sees him helping younger campers and gives him a blanket. She understands he is adjusting to life at camp.
+- **UNKNOWN / NOT DISCLOSED:** She is not told that Percy's memories of Atlantis are missing, that history changed, or that he remembers another life. The revised conversation no longer attributes that knowledge to her. Her next visit/contact is unknown.

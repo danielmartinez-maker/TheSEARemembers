@@ -22,3 +22,8 @@ Do not convert another character's old-life recollection or hearsay into firstha
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): FIRSTHAND: arrives physical Camp Half-Blood previous afternoon, staying guest cot in Cabin One under Roman approval. Asks Annabeth questions about sparks at dinner. He can remember actual visit and call, not possess Percy/Annabeth old-life autobiographical history. Visit is for limited supervised week, date of departure not established.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapters 023–036 · status boundary
+- **[Ch029](../../chapters/029-rainy-day.md):** Thalia's spare-bunk thought is not a Jason scene and does not establish when his supervised seven-day visit ended or whether he is currently away.
+- **[Ch035](../../chapters/035-the-letter.md):** A sealed request is sent through Chiron's authorized Roman intermediary. The intermediary's acceptance, forwarding, and Jason's receipt are all unconfirmed; Jason does not acquire the letter's contents here.
+- **Forward boundary:** Ch037 later refers to occasional visits from the Roman camp but supplies no exact departure date for the earlier guest week.

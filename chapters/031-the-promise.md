@@ -4,7 +4,7 @@ The dining pavilion emptied the way it always did on a warm, lingering night, no
 
 Percy Jackson lingered.
 
-It wasn't that he wasn't tired. He was. His shoulders ached from the morning's canoe drills and his left ankle still twinged where he'd twisted it on the climbing wall two days before. But the air smelled like pine sap and grilled corn and salt off the Sound, and nobody was telling him to go to bed, and for once there wasn't a prophecy pressing on the back of his neck.
+It wasn't that he wasn't tired. He was. His shoulders ached from the morning's canoe drills, and his body still carried the pleasant heaviness of several early training sessions. But the air smelled like pine sap and grilled corn and salt off the Sound, and nobody was telling him to go to bed, and for once there wasn't a prophecy pressing on the back of his neck.
 
 Annabeth sat across from him, legs tucked sideways on the bench, her plate pushed away. She had a notebook open — not a proper quest journal, just a half-falling-apart composition book she'd taken from the Big House supply closet — and she was drawing.
 

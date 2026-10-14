@@ -50,3 +50,6 @@
 ### Chapter 22 · verified carry-forward
 - **[Ch22](../../chapters/022-storm-training.md):** Named around training but no direct ward authority; Chiron conducts supervision. She does not inherit Thalia's private lessons.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapters 023–036 · verified carry-forward
+- **[Chapter 024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** Commentates the single featured climbing race and recognizes Ella's course-log preparation; timing correction leaves red-team winner unchanged. No other knowledge transfer is established in this range.

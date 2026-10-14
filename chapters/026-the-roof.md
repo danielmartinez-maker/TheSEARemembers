@@ -355,7 +355,7 @@ Percy went pink with pleasure and tried to hide it by drinking cocoa. Annabeth r
 
 "The thing is," Annabeth said, wiping her eyes, "I feel disloyal. When I'm happy that Zeus is my dad here — sometimes loud and proud and embarrassing — I feel like I'm betraying her. Athena. Like I'm saying she wasn't enough. But she *was*. She was everything. She taught me to think. To build. To see the world as something I could fix." She looked up at the sky. "And then I feel disloyal the other way. When I miss her, when I draw owls in the margins and reach for books on weaving, I feel like I'm telling Dad he's just a replacement. But he's not. He's my dad. Both of them are — were — real."
 
-Thalia was quiet for a moment. Then she said, "You know what I think? I think hearts are bigger than cabins. You don't have to pick one parent and delete the other. You're Annabeth. You're smart because Athena taught you to be, and you've learned to be brave even when Zeus makes it harder, and you're *you* because you remember Sally giving Percy extra pancakes, and you help him make them here so he can share them with you."
+Thalia was quiet. She picked at the paper cup's rim. “You can miss her. You don't have to apologize to me for drawing owls.” She glanced at the wind-up owl Annabeth had described. “I wasn't there for the life you remember, and I can't give those years back. But you don't have to pretend Dad's easy either. He embarrasses me at solstice too.” She nudged Annabeth's knee. “You're my sister. I don't need you to erase Athena to prove it.”
 
 Percy blinked. "Wait, how did I get in this philosophy?"
 
@@ -448,17 +448,15 @@ Annabeth walked Percy halfway to the Poseidon cabin, both of them yawning, shoul
 
 "Sweet dreams, Wise Girl."
 
-Percy watched her climb through the window — Thalia's hand reaching out to haul her in at the last second — and then turned toward his cabin where Clarisse and Silena were asleep, toward the fountain and the seashells and the bunk that smelled like salt.
+Percy watched her climb through the window — Thalia's hand reaching out to haul her in at the last second — then turned toward Cabin Three with Annabeth's spare blanket tucked under one arm. Before he reached the path, he remembered the ladder they'd hidden beside Cabin One and doubled back across the green to check it. Dawn silvered the dew on the grass. The camp still seemed asleep, though the Big House light had brightened and a pegasus was stirring. Thalia had promised to put the ladder away before anyone noticed, though she hadn't said which of them would explain the scratched paint. For another night like this, Annabeth would need a safer route than the ladder they had hidden from the counselors.
 
-Percy stood on the last step of Cabin One and checked that the ladder was still where they'd hidden it. Thalia had promised to put it away before anyone noticed, although she hadn't said which of them would have to explain the scratched paint.
+“Breakfast later?” Annabeth asked from the doorway.
 
-"Breakfast later?" Annabeth asked from the doorway.
+“If you're awake.”
 
-"If you're awake."
+“I’ll be awake.”
 
-"I'll be awake."
-
-He took the gravel path toward Cabin Three, carrying her spare blanket under one arm. He would have to return it before Thalia added it to the list of things Percy borrowed without asking.
+He headed for Cabin Three again, blanket still beneath his arm. 
 
 ---
 

@@ -1,0 +1,7 @@
+# Chapter 026 — The Roof
+
+- **Review status:** Full-scene continuity/prose pass; body count **10,014**.
+- **POV and events:** Annabeth invites Percy to a private roof visit through a hidden ladder. Thalia notices and joins them with cocoa. The sections alternate among Annabeth, Percy and Thalia around the Big House/Cabin One roof and a later workshop/safety discussion. Exact elapsed days are unknown. Source: [Chapter 026](../../chapters/026-the-roof.md).
+- **Knowledge provenance:** Percy and Annabeth discuss their own earlier-life memories; Thalia hears selected descriptions and explicitly does not gain those memories. Thalia's New Rome/Jason information comes from her present-history reports and messages. Annabeth remembers Athena as her mother in the prior life while she is Zeus's daughter now; Thalia remains her sister in the current history.
+- **Safety and obligations:** The roof is not an approved balcony. Thalia reports the loose third slat to cabin steward Hal; the platform is closed until repair. Annabeth's alternative balcony plan is conditional on inspection/joints approval; no bench or public roof access is established as complete. Percy carries Annabeth's blanket back toward Cabin Three; its return is unconfirmed. The hidden ladder is to be removed, and the revised route paragraph keeps Percy from teleporting between cabins.
+- **Boundary:** Do not treat a good night together as safety approval or a completed construction project. The next library/archive scenes do not establish the roof reopening.

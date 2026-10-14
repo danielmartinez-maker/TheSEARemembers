@@ -427,11 +427,11 @@ Thalia Grace had stolen many things in her sixteen years of life.
 
 She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). Someone had once accused her of stealing something she had never even seen, an accusation she was still irritated by. It did not count as theft, however impressive she found her survival of the argument.
 
-She had never stolen cookie dough quite so blatantly, quite so often, in front of quite so many witnesses, as she did that afternoon.
+She had never stolen chocolate chips quite so blatantly, quite so often, in front of quite so many witnesses, as she did that afternoon.
 
 "It's quality control," she told Annabeth, mouth full, when Annabeth tried to smack her hand with a notebook. "I'm ensuring hero safety."
 
-"You're ensuring you get salmonella," Annabeth said, but she was smiling. Thalia and Annabeth had a weird sister thing — full sisters with Zeus and Beryl for parents, both prickly and proud, both terrified of needing anyone. Thalia was older by four years, and made sure Annabeth knew it, all black hair and eyeliner and leather bracelets she wasn't supposed to wear in the kitchen. Annabeth was all plans and angles. They circled each other like twin storms.
+"You're ensuring the batch has enough chocolate," Annabeth said, but she was smiling. Thalia and Annabeth had a weird sister thing — full sisters with Zeus and Beryl for parents, both prickly and proud, both terrified of needing anyone. Thalia was older by four years, and made sure Annabeth knew it, all black hair and eyeliner and leather bracelets she wasn't supposed to wear in the kitchen. Annabeth was all plans and angles. They circled each other like twin storms.
 
 But today the storm was quiet. Thalia watched Annabeth measure and Percy laugh and felt something unfamiliar and soft settle in her chest.
 

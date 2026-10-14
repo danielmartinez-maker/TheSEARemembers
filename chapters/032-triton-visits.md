@@ -214,7 +214,7 @@ The circle that formed was instant. Word travels fast at camp — *new godling i
 
 Annabeth slid in next to Percy on the front bench, notebook already open. Thalia dropped down behind them, boots up, lightning crackling faintly around her bracelet. Even Mr. D paused his pinochle game on the porch to watch.
 
-Chiron trotted into the center, tail swishing. “Rules,” he said sternly. “Sparring blades only. First to three touches. No godly powers. Triton, that means no calling water. Clarisse, that means no — ”
+Chiron trotted into the center, tail swishing. “Rules,” he said sternly. “Sparring blades only. First to three touches. A simultaneous hit is a draw. No godly powers. Triton, that means no calling water. Clarisse, that means no — ”
 
 “Yeah, yeah, no cheap shots on the guest,” Clarisse muttered, lowering her spear to salute position. “Spoilsport.”
 
@@ -249,6 +249,8 @@ Clarisse fought like a wildfire — aggressive, pressing, shield-first, using he
 Second touch went to Clarisse after a brutal shield rush that sent Triton skidding five feet in the dirt. Third touch — a draw, both blades landing at the same instant, chest to chest — had the whole arena on its feet shouting.
 
 They stood there panting, swords locked, faces six inches apart, both grinning like maniacs.
+
+Chiron blew his whistle. “Clean draw. Neither of you reached three; the match stops here.”
 
 “You’re good,” Clarisse said grudgingly.
 
@@ -832,7 +834,7 @@ Finally Triton sighed. “We should go in. You need sleep. You have training tom
 
 “You’re on, barnacle.”
 
-They shot toward the beach side by side — two streaks of glowing water, two sons of the sea, one remembering the palace they had both grown up in, one carrying an erased apartment childhood too, meeting in the middle in moonlit water off Long Island — and if you’d been watching from the dunes, you’d have sworn the sea itself lifted to push them both home.
+They shot toward the beach side by side — two streaks of glowing water, two sons of the sea. Triton carried memories of growing up in the palace; Percy remembered Sally’s apartment from the life he and Annabeth had lost, and knew the palace only through what his family had told him. In the moonlit water off Long Island, the brothers met in a new place they had chosen together. From the dunes, it might have looked as if the sea had lifted to push them both home.
 
 Percy won by a nose. Or Triton let him win. No one will ever know, and both will lie about it forever.
 

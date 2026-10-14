@@ -920,10 +920,10 @@ He had forgotten. He was tired, and the prospect of another errand before breakf
 
 Clarisse looked between them. "I'll bring the spare whistles. The ones we moved out of the packs."
 
-Percy smiled. They'd spent a week watching dark woods for something dangerous and had come home with a collection of small jobs. That was not failure. It was what a successful night watch produced when nobody was hurt: a clear report, equipment ready for the next group and enough trust that the people coming after them could follow the same procedure.
+Percy smiled. The map still needed its final signature, the borrowed equipment had to be returned, and the west path was to remain closed until Chiron finished the inspection. No one had crossed the border, and the sounds in the woods remained unconfirmed. Percy and Silena would carry the updated route after sleeping; Clarisse would bring the spare whistles. It was not a dramatic report, but it gave the next team a clear route and a signal plan instead of another guess.
 
 He went into the cabin, set his alarm for the map delivery and fell asleep before Silena finished putting away the lantern.
 
-By morning, the new patrol team would have its routes, whistles and records. Percy couldn't control whether monsters moved near the border in the following week. He could control whether the next group had to repeat mistakes his own group had already made. It was an ordinary responsibility, and he had learned to value it more than the thrill of imagining a threat he might be able to defeat.
+By morning, the map would be at the Big House and the closed stretch would still be marked. Percy couldn't decide what lived beyond the border from a sound alone. He could make sure the next patrol knew whom to call and where to stop. The alarm was for after breakfast, but the thought of another form made his eyes close before Silena finished putting away the lantern.
 
 Silena checked the lantern oil one last time, then closed the cabinet. Outside, the familiar path was finally quiet.

@@ -36,7 +36,7 @@ Percy sat very still.
 
 Annabeth's hand found his under the table and squeezed hard. "Breathe, Seaweed Brain."
 
-"But — she's never — " Percy stopped. His throat had gone tight. "I've seen her in Atlantis, sure. At feasts and councils and — she braided my hair once when I was seven and I had kelp tangled in it and Dad was useless. But she's never come *here*. To *my* mortal camp. Gods don't do that. They don't — do parent visits. Right? That's not a thing."
+"But—she’s never—" Percy stopped. His throat had gone tight. "Triton says she comes to the feasts and councils. He says she braided my hair after my first court ball, when I had kelp tangled in it and Dad was useless. I can’t picture any of it. But she’s never come here. To *my* camp. For a parent visit."
 
 "It is today," Chiron said gently, having trotted over while Percy wasn't looking. The centaur rested a large, warm hand on Percy's shoulder. "She wrote to me herself, Percy. And to Mr. D, and to the boundary wards. Very properly. She wishes to see where you live during the summer. To meet your friends. To bring lunch."
 
@@ -478,7 +478,7 @@ Thalia was quiet for a long moment. Down the hill, laughter drifted from the lak
 
 Clarisse felt that hot coal in her chest again. "Yeah," she said quietly. "It's — yeah."
 
-"Zeus has never visited," Thalia said, staring at the target. "Not me, not Annabeth. He sends lightning. He sends omens. He sent a damn electric toothbrush for Saturnalia with a note that said *BRUSH WELL.* That's it. That's the parenting." She laughed, harsh. "And Hera — don't even get me started. She looks at me like I'm a stain on her marriage. Which — fair. I am. We are."
+"Zeus never comes just to see how we’re doing," Thalia said, staring at the target. "Not me, not Annabeth. He sends lightning. He sends omens. When he does visit, it's to compare us and tell me I'm difficult. He sent a damn electric toothbrush for Saturnalia with a note that said *BRUSH WELL.* That's it. That's the parenting." She laughed, harsh. "And Hera — don't even get me started. She looks at me like I'm a stain on her marriage. Which — fair. I am. We are."
 
 "Hey." Clarisse pushed off the fence. "Don't. Don't do that."
 
@@ -546,11 +546,11 @@ Amphitrite looked down at the report she'd brought. She had asked him for a fact
 
 She nodded. Percy had written that the sisters were treating him kindly. She had wanted to believe it. Today Clarisse had corrected him three times before lunch and Silena had made him put away a borrowed towel while he was still explaining a story. Both seemed to know the boy well enough to be irritated by him. That was reassuring in a way formal greetings could never be.
 
-"His memories of early life in Atlantis are still unsettled," she said.
+"He’s still getting used to life at camp," she said.
 
-Chiron waited. He had known that Percy arrived with gaps and disorientation. Amphitrite had told him as much before the first letter went out. She had not received an explanation that satisfied her, and she was trying not to turn Percy's reluctance to talk into proof that he was in danger.
+Chiron waited. He knew Amphitrite was trying not to turn Percy’s reluctance to talk into proof that he was in danger.
 
-"I want to help him," she continued. "But I don't want every visit to become an examination of what he can remember."
+"I want to help him," she continued. "But I don’t want every visit to become an examination of how he’s settling in."
 
 "Then don't make it one."
 

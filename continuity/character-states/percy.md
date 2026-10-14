@@ -119,3 +119,14 @@
 - **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
 - **State:** Ch022 FIRSTHAND: Jason now physically guest in Cabin One under approved Roman week, Percy already knows him by Iris call. Annabeth accidentally arcs a charge near Percy during supervised practice; he is startled/frizzled, walks off, NO diagnosed injury. Helps remove equipment, receives and keeps Silena's note; lantern success is one exercise, not power mastery. Only he and Annabeth retain original-life autobiographical memories.
 - **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch023](../../chapters/023-sally-s-blue.md) FIRSTHAND / PRIOR LIFE:** Helps make blue chocolate-chip cookies from a recipe adapted from Sally's recollection; he does not present it as exact. Keeps the notebook/photo and a paper-bag cookie. Only Annabeth shares the full older-life context; he does not tell Amphitrite.
+- **[Ch024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** Races with Grover and Ella, senses course cues as a new developing ability, and leaves with scraped hands/softened shoe toes; no major injury.
+- **[Ch025](../../chapters/025-night-watches.md) FIRSTHAND / HEARD:** Hears a hellhound-like whine beyond the boundary with Thalia; no crossing is confirmed. Map delivery, returned gear and closed path remain.
+- **[Ch030](../../chapters/030-amphitrite-visits.md) FIRSTHAND:** Receives Amphitrite's camp visit/blanket; his letter draft describes the visit and excludes the other life. He does not claim memory of Atlantis childhood.
+- **[Ch031](../../chapters/031-the-promise.md):** Makes a mutual communication promise with Annabeth; no climbing-wall ankle injury is established.
+- **[Ch032](../../chapters/032-triton-visits.md) FIRSTHAND / REPORTED:** Triton visits, gives him a notebook and reports palace stories; Percy remembers Sally's apartment from the erased life and knows palace childhood from others' reports only.
+- **[Ch034](../../chapters/034-mythomagic-tournament.md):** Wins the final with Poseidon/Rebirth after Ocean's Mercy leaves him at 100 life; final attack beats Annabeth's 1,900.
+- **[Ch035](../../chapters/035-the-letter.md):** Participates in mailing the letters; no reply from Beryl/Jason is received here.
+- **[Ch036](../../chapters/036-five-months.md):** Assigned dock duty after breakfast. The remembered quest remains undated/unsummoned; prophecy-copy inspection is only offered.

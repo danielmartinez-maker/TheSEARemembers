@@ -57,3 +57,7 @@ Mortal mother of Thalia, Annabeth and Jason in the altered world. Thalia has FIR
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): NO VERIFIED contact, and Jason supervised Greek visit doesn't retroactively supply family-childhood memories.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 035 · correspondence status and boundary
+- **[Chapter 035](../../chapters/035-the-letter.md) NOT PRESENT:** Thalia and Annabeth prepare/send a letter to Beryl through her verified Manhattan address. Marge reports that Beryl brings letters to the post office and asks after her daughters; this is Marge's firsthand report conveyed to the girls, not a new Beryl scene.
+- The earlier letters' sobriety claims remain Beryl's reported statements, not independent verification. Beryl has not yet received or answered the new letter on-page.

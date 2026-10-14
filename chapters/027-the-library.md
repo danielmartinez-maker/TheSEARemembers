@@ -540,7 +540,7 @@ Wonderful.
 
 She watched them work. Annabeth labeling each photo with intense care, tongue poking out the corner of her mouth the way she had since she was two. Percy reading Maya's journal with his lips moving slightly, his finger tracing the words like they might disappear. Ella sorting and singing under her breath, a harpy lullaby about book glue and paper. Grover dozing again, tea mug clutched to his chest. Silena knitting something blue and humming.
 
-Safe. They were all safe, and young, and dusty, and happy. No quests. No prophecies. Just rain and tea and old paper.
+Thalia let herself listen: rain at the windows, pencils moving, Silena's quiet hum. The old pictures could stay old pictures; nobody in the room had to turn them into a warning.
 
 Thalia hadn't realized how much she'd needed a day like this until it was happening.
 

@@ -878,7 +878,7 @@ Percy drew. Looked. Closed his eyes. Opened them. Grinned.
 
 "Annabeth," he said, "remember when you said I do math fast?"
 
-He played *Triton's Gamble*: roll a six-sided die, deal the roll times four hundred to the opponent, take half that damage himself. Grover stared at Percy's life counter. A gamble with three hundred life was less a strategy than a very elaborate farewell.
+He played *Triton's Gamble*: roll a six-sided die, deal the roll times four hundred to the opponent, and take half that damage himself. Percy had only three hundred life left; unless he found a way to trigger *Ocean's Mercy*, any nonzero roll would knock him out. Grover stared at the counter.
 
 "Ella!" Percy shouted. "Number!"
 
@@ -938,9 +938,7 @@ And Annabeth — Annabeth stood, came around the table, and hugged Percy while h
 
 ---
 
-Annabeth lost. By 100 life. By one top-deck. By a boy who shuffled eleven times and ran three copies of a god because "I like fish."
-
-She should have been furious. She had been Athena's daughter in their old life and was Zeus's daughter here. She strategized. She prepared. She lost to luck and heart.
+Annabeth had lost the final at zero life. Percy had drawn the Poseidon that Rebirth let him summon, and its 2,800-point attack wiped out her last 1,900. Ocean’s Mercy had left him with 100 life; one turn later, he used that protection to summon the god card and take the open lane. As Athena’s daughter in the life they remembered and Zeus’s daughter now, she still believed preparation mattered. She was disappointed she’d left no ready defense, and proud Percy had seen the opening.
 
 She wasn't furious. She was... fizzy. Like lightning in a bottle.
 

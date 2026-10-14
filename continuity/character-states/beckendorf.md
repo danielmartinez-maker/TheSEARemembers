@@ -25,3 +25,9 @@
 ### Chapter 21 · verified carry-forward
 - **[Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md):** Named in camp shifts, but no direct Roman courier role without scene.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** His brass speaking trumpet carries commentary with wind-nymph amplification; this does not make him a race judge.
+- **[Ch025](../../chapters/025-night-watches.md):** Contributes updated route measurements; credit for the map correction remains his.
+- **[Ch033](../../chapters/033-architecture.md):** Helps verify build measurements/material dimensions; stale timber sizing delays safe trimming.
+- **[Ch035](../../chapters/035-the-letter.md):** Hears the public celebration of the letters being mailed, not a reply from Beryl/Jason.

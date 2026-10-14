@@ -95,3 +95,10 @@
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): FIRSTHAND: attends storm-training group near Percy, offers luck pinecone, brings tote/notes. Percy keeps blue muffin etc; no full Athena/past-memory access implied.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch023](../../chapters/023-sally-s-blue.md):** Helps bake/taste the finished cookies; raw dough remains off-limits under Mara's rules.
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** Races with Percy and Ella; tired/sore after the wall but no diagnosed injury.
+- **[Ch025](../../chapters/025-night-watches.md):** Watches with Silena, reports/signals rather than pursuing uncertain sounds; schedule/map repairs remain.
+- **[Ch027](../../chapters/027-the-library.md):** Contributes to the supervised archive/display work; no authority to copy private photos without permission.
+- **[Ch035](../../chapters/035-the-letter.md):** Explains route differences: mortal address versus Chiron's Roman request; no completed delivery to Jason is established.

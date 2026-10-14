@@ -46,3 +46,7 @@
 ### Chapter 20 · verified carry-forward
 - **[Ch20](../../chapters/020-cake-and-lightning.md):** Attends belated Thalia birthday when on page; earlier gift of one-armed skeleton keychain Ch012 remains Thalia's. Birthday doesn't recreate or re-gift it.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch027](../../chapters/027-the-library.md):** Participates in supervised archive/display work only where shown; private photos remain under their owner's control.
+- **[Ch034](../../chapters/034-mythomagic-tournament.md):** Receives the holographic Poseidon card and blue cap. Ella's black luck stone belongs to Ella.

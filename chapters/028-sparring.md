@@ -2,7 +2,7 @@
 
 Clarisse La Rue knew when someone was pulling their punches.
 
-She knew because her father was Poseidon, and the sea did not pull punches. She knew because she had been at Camp Half-Blood since she was eight years old, and she had sparred with every kind of kid — the scared new ones, the show-off Ares kids who came at her yelling, the Hermes kids who tried to cheat, the Apollo kids who apologized every time they landed a hit. She knew what holding back looked like. Shoulders tight. Blade slowing a half-second before contact. Eyes flicking away like you were sorry in advance.
+She knew because her father was Poseidon, and the sea did not pull punches. She knew because she had been at Camp Half-Blood since she was eight years old, and she had sparred with every kind of kid — the scared new ones, the show-off Ares kids who came at her yelling, the Hermes kids who tried to cheat, the Apollo kids who apologized every time they landed a hit. She knew the signs: shoulders tightening, the blade slowing a half-second before contact, eyes flicking away as though the fighter was already preparing to apologize.
 
 Percy Jackson fought like that, and it was driving her absolutely insane.
 

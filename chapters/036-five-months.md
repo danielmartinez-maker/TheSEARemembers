@@ -764,7 +764,7 @@ They drank. The brazier popped. The stars came out thicker. Somewhere the harpie
 
 No accusation from Olympus reached them that night. No oracle cried out. No war began.
 
-There was only camp, and dinner, and each other — seven kids at the end of a table, laughing, full and safe and together, with all the time in the world stretched gold before them.
+There was only camp, dinner, and each other—seven kids at the end of a table, laughing, full and safe for that evening. The remembered quest still had no date here; tomorrow would bring its own tasks, and none of them had to solve that before dessert.
 
 Percy wanted to believe they could keep building this life without having to sacrifice the one they remembered. He didn't know how. But he knew whom to ask for help.
 

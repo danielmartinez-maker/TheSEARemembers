@@ -119,3 +119,12 @@
 - **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
 - **State:** Ch022 FIRSTHAND/partial: sees Percy with frizzed hair after Annabeth's practice and jokes; don't assume she witnessed actual arc or knows training's private conversations. She still expects equipment cleanup and camp responsibility.
 - **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch023](../../chapters/023-sally-s-blue.md) ALTERED CHILDHOOD / REPORTED:** Tells Percy Poseidon visited her once when she was eight and left after about ten minutes. This is her firsthand memory and Percy's report; Poseidon is not shown learning she discussed it.
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** Red team wins the one featured race; offers stable help for one day/one hour only.
+- **[Ch025](../../chapters/025-night-watches.md):** Handles whistle access/backup planning; spare-whistle promise remains due.
+- **[Ch028](../../chapters/028-sparring.md):** Challenges Percy about pulling his punches; practice leaves ordinary soreness/bruising, not a major injury.
+- **[Ch032](../../chapters/032-triton-visits.md):** Spars Triton under practice-weapon/no-power rules. Their simultaneous touch ends the match in a draw; neither gets real weapons.
+- **[Ch034](../../chapters/034-mythomagic-tournament.md):** Participates in camp's card tournament and supports Percy in the final.
+- **[Ch036](../../chapters/036-five-months.md):** Assigns Percy dock duty for the next morning; it is a schedule, not completed work.

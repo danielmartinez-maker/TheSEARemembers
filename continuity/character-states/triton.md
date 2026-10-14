@@ -79,3 +79,8 @@
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): No current direct contact; old swimming instructions remain source of Percy's skills.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+
+### Chapter 032 · visit and reported knowledge
+- **[Chapter 032](../../chapters/032-triton-visits.md) FIRSTHAND:** Visits Camp Half-Blood, gives Percy a notebook, shares palace stories and stays overnight with approval. He remembers his own palace childhood; Percy does not.
+- **REPORTED:** Tells Annabeth that Poseidon may want Percy back earlier and that Triton opposes removing him without Percy's choice. This is Triton's opinion/report, not a confirmed new order from Poseidon.
+- **Carry:** Spar with Clarisse ends in a declared draw; no real weapons or godly powers are used.

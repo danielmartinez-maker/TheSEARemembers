@@ -123,3 +123,14 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
 - **State:** Ch022 FIRSTHAND: Jason now physical guest from Camp Jupiter in Cabin One for Roman approved week; supports Annabeth's storm training but initially overreaches, Chiron corrects explicit consent/safety after Percy startled by arc. She sees Annabeth control lantern once and agrees Thursday session ONLY if approved. Does not gain sister's older-life memories.
 - **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch023](../../chapters/023-sally-s-blue.md) ALTERED CHILDHOOD / FIRSTHAND:** Participates in the cookie day and feels the difference between Sally's remembered care and current family life; eats chocolate chips, not raw dough. Beryl's letters remain private to her unless she chooses to share.
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** Races on the red team; after the event, her offer to help in the stables is limited to one day/one hour.
+- **[Ch026](../../chapters/026-the-roof.md):** Shares selective sibling/history conversation with Annabeth and reports the roof slat/ladder risk to Hal; no balcony approval yet.
+- **[Ch027](../../chapters/027-the-library.md):** Controls copying her private photos and tells Annabeth the infant-photo history; Annabeth does not gain those memories.
+- **[Ch029](../../chapters/029-rainy-day.md):** Shelters with Annabeth during the rain/flood and repairs their disagreement. Her thought about Jason's spare bunk is not proof of his departure.
+- **[Ch030](../../chapters/030-amphitrite-visits.md):** States Zeus does not visit simply to see how they are; prior guise-changing visits remain part of the record.
+- **[Ch032](../../chapters/032-triton-visits.md):** Witnesses the Triton/Clarisse spar ending in a declared draw.
+- **[Ch035](../../chapters/035-the-letter.md):** Sends a Beryl letter and a sealed request for Jason. Beryl's sobriety is reported from correspondence; neither response nor Roman acceptance is confirmed.
+- **[Ch036](../../chapters/036-five-months.md):** Camp continues without a quest summons; the next morning has scheduled work.

@@ -25,7 +25,7 @@ Grover sighed dramatically and handed the shoe back. "My mom says stress-chewing
 
 Beckendorf and the Hephaestus kids had been tuning it since dawn. Percy could hear the clank-clank-clank of metal, and every few minutes a deep WHOOMPH that made the windows rattle.
 
-Camp-wide climbing wall day only happened once a month. Normally you just climbed with your cabin or whoever happened to be free after sword practice. But today was the big one — teams of three, bracketed, single elimination, with Silena Beauregard and Zoe Nightshade doing live commentary from the top tower through Charles Beckendorf's brass speaking trumpet, rigged with wind-nymph amplification so everyone on the hill could hear.
+Camp-wide climbing wall day only happened once a month. Normally you just climbed with your cabin or whoever happened to be free after sword practice. Today the camp had gathered for one featured race between teams of three, with Silena Beauregard and Zoe Nightshade doing live commentary from the top tower through Charles Beckendorf's brass speaking trumpet, rigged with wind-nymph amplification so everyone on the hill could hear.
 
 Percy splashed water on his face from the basin by the door. The water felt good. It always felt good, like the water was happy to see him. He didn't tell people that part because it sounded weird, even for camp.
 
@@ -307,7 +307,7 @@ The climbing wall loomed above them all, a massive shifting cliff of rock and wo
 
 Two bells hung at the top. First team to ring their bell wins.
 
-"Okay, today's first match!" Silena announced, reading from a pink scroll. "On the west face, in blue headbands — Percy Jackson, Grover Underwood, and Ella!"
+"Okay, today's featured race!" Silena announced, reading from a pink scroll. "On the west face, in blue headbands — Percy Jackson, Grover Underwood, and Ella!"
 
 Cheers from Poseidon's supporters (Silena on the tower, Clarisse on the other team, and Percy cheering for himself), the satyrs, and the library harpies, who flapped so hard they made a windstorm.
 
@@ -640,7 +640,7 @@ Unless he wasn't guessing. Unless he knew she was going to move on twenty-nine, 
 
 Annabeth tried to shove Thalia off the ledge. Thalia dodged, laughing, static making her hair float.
 
-"I'm serious," Annabeth said, but she was watching Percy again. He was helping Grover up, one hand on the satyr's back, the other testing the next hold. He did it without looking — left hand out, fingers spread, catching Ella's wingtip just as she wobbled.
+"I'm serious," Annabeth said, but she was watching Percy again. Percy steadied Grover while Ella tested the next hold. When Ella wobbled, he caught her wingtip without taking his eyes from the route.
 
 Left hand. Always left hand for catches.
 

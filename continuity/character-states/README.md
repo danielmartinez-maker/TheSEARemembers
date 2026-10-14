@@ -56,4 +56,22 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Chapter 21 handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md): Corrected 512-basket harvest; Jason supervised visit approved
 - [Chapter 22 handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md): Jason guest cot in Cabin One; bounded storm training and unapproved Thursday session
 
-**Next boundary Ch022→Ch023:** Jason's supervised week is ACTIVE, no departure or extension shown. One successful lantern-lighting is not unlimited storm control. Thursday shorter exercise is only penciled pending Chiron permission. Percy's electric scare has no documented medical injury. Annabeth/Thalia relationship is cumulative, not instantly perfected. In Ch023 Sally blue cookies can be disclosed in bounded terms without silently granting Amphitrite the older-life history.
+**Prior boundary Ch022→Ch023:** Jason's approved guest-week departure and any extension are not shown at that point; one lantern success is not storm-control mastery; Thursday practice remains subject to approval; Percy has no diagnosed injury from the electric scare.
+
+**Reviewed chapter handoffs, Ch023–Ch036:**
+- [Chapter 023 handoff](../../editorial/handoffs/ch023-memory-prose-2026-10-14.md): Sally's Blue
+- [Chapter 024 handoff](../../editorial/handoffs/ch024-memory-prose-2026-10-14.md): The Climbing Wall
+- [Chapter 025 handoff](../../editorial/handoffs/ch025-memory-prose-2026-10-14.md): Night Watches
+- [Chapter 026 handoff](../../editorial/handoffs/ch026-memory-prose-2026-10-14.md): The Roof
+- [Chapter 027 handoff](../../editorial/handoffs/ch027-memory-prose-2026-10-14.md): The Library
+- [Chapter 028 handoff](../../editorial/handoffs/ch028-memory-prose-2026-10-14.md): Sparring
+- [Chapter 029 handoff](../../editorial/handoffs/ch029-memory-prose-2026-10-14.md): Rainy Day
+- [Chapter 030 handoff](../../editorial/handoffs/ch030-memory-prose-2026-10-14.md): Amphitrite Visits
+- [Chapter 031 handoff](../../editorial/handoffs/ch031-memory-prose-2026-10-14.md): The Promise
+- [Chapter 032 handoff](../../editorial/handoffs/ch032-memory-prose-2026-10-14.md): Triton Visits
+- [Chapter 033 handoff](../../editorial/handoffs/ch033-memory-prose-2026-10-14.md): Architecture
+- [Chapter 034 handoff](../../editorial/handoffs/ch034-memory-prose-2026-10-14.md): Mythomagic Tournament
+- [Chapter 035 handoff](../../editorial/handoffs/ch035-memory-prose-2026-10-14.md): The Letter
+- [Chapter 036 handoff](../../editorial/handoffs/ch036-memory-prose-2026-10-14.md): Five Months
+
+**Current boundary Ch036→Ch037:** The remembered quest still has no date or summons. Ch037 opens with Thalia and Annabeth together and later context includes Jason's occasional visits from the Roman camp, but no exact date is given for his earlier guest-week departure. Carry forward only what each scene witnesses or reports.

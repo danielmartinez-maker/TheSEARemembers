@@ -123,3 +123,15 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
 - **State:** Ch022 FIRSTHAND: Jason physically in Cabin One guest cot for supervised Roman week; practices static grounding with Thalia, accidentally zaps Percy (no documented injury), Chiron assesses and requires explicit permission/safety. One clear-weather lantern lighting successful, NOT proof of reliable control; Thursday shorter practice provisional pending Chiron approval. Previous-life Athena identity is hers, not Jason's.
 - **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapters 023–036 · verified carry-forward
+- **[Ch023](../../chapters/023-sally-s-blue.md):** Helps standardize Sally's blue-cookie recipe from Percy's recollection; public instructions are separate from his private memory notes.
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** Leads the east team, spots the stop-signal blind spot and later corrects timing. The adjustment does not change the winner.
+- **[Ch026](../../chapters/026-the-roof.md) PRIOR LIFE / REPORTED:** Shares her own Athena-era memories with Percy/Thalia; Thalia hears selected reports but does not gain them. Roof/balcony project remains closed/conditional.
+- **[Ch027](../../chapters/027-the-library.md):** Builds a supervised display with source labels. Childhood-photo history comes from Thalia, not her recovered memory.
+- **[Ch030](../../chapters/030-amphitrite-visits.md):** Witnesses Percy receive a parent visit; Amphitrite is not told the time-change secret.
+- **[Ch031](../../chapters/031-the-promise.md):** Agrees with Percy on communication while retaining control over her schedule/projects.
+- **[Ch033](../../chapters/033-architecture.md):** Leads an unfinished build delayed by stale timber dimensions and rain; accepts shared responsibility with Percy for the order error.
+- **[Ch034](../../chapters/034-mythomagic-tournament.md):** Loses the final at zero after Percy summons Poseidon; remains affectionate/proud despite disappointment.
+- **[Ch035](../../chapters/035-the-letter.md):** Writes to Beryl and helps prepare Jason's request; the Roman intermediary's decision/receipt is unknown.
+- **[Ch036](../../chapters/036-five-months.md) PRIOR LIFE:** The remembered quest still has no date in this history.

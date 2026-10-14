@@ -116,4 +116,23 @@ Ten handoffs are under `editorial/handoffs/ch013-...` through `ch022-...` and ch
 - **Ch021 harvest:** original scale reading inaccurate, corrected 512 baskets; future jam for Clarisse is OWED, not delivered. MUSIC NIGHT roles persist. Roman courier authorizes supervised seven-day visit for Jason; new cot planned late after harvest day before Ch022.
 - **Ch022 storm:** Jason arrives under approved Roman visit and sleeps guest cot in Cabin One; does not own Annabeth's old-life memories. Annabeth accidentally arcs toward Percy, no diagnosed injury; Chiron's safety correction is binding. One lantern success NOT mastery; Thursday session subject to further approval. Ch023 next breakfast does not imply guest departed.
 
+### Source-verified additions: Chapters 023–036 (2026-10-14)
+
+- **Ch023:** Percy/Sally cookie recipe is adapted; only Annabeth shares the prior-life context; Clarisse's Poseidon-visit story is her report; Amphitrite does not know the memory gap.
+- **Ch024:** One featured climbing race; correction does not change winner. Percy’s sensing is new; Ella chooses the lake jump; no major injury.
+- **Ch025:** Patrols hear sounds beyond the border without witnessing a crossing; map/whistles/closure remain actionable.
+- **Ch026:** Roof access closes pending repair; safer balcony proposal conditional; Thalia hears prior-life reports but does not gain those memories.
+- **Ch027:** Archive labels/photos are permission-bound; route map is unverified; Thalia tells Annabeth childhood-photo facts.
+- **Ch028:** New Tide-Breath/Eel-Skin practice is not mastery; beginner lesson remains planned.
+- **Ch029:** Rain/flood spans several days; Jason's departure status is not established by the spare-bunk thought.
+- **Ch030:** Amphitrite learns Percy is adjusting to camp, not his memory gap or the rewrite. Percy cannot picture the palace stories Triton reported.
+- **Ch031:** Percy/Annabeth's communication promise preserves her project autonomy; unsupported ankle injury removed.
+- **Ch032:** Triton stays overnight and gives Percy a notebook; match with Clarisse ends in a declared draw. Triton's report about Poseidon's wishes is not a direct order.
+- **Ch033:** Architecture remains unfinished; rain and stale dimensions delay it; Annabeth and Percy share responsibility for the order error.
+- **Ch034:** Percy wins the final by a 2,800 attack at Annabeth's 1,900; Ocean's Mercy leaves him at 100. Nico's holographic Poseidon card/blue cap and Ella's black luck stone retain their owners.
+- **Ch035:** Beryl letter is in the mortal route; Jason packet goes through Chiron's Roman intermediary. Acceptance, forwarding and receipt remain unknown; Beryl's sobriety is reported, not verified.
+- **Ch036:** Five months have passed, but the remembered quest has no date/summons; prophecy-copy inspection is only offered and dock duty is scheduled for morning.
+
+**Boundary Ch036→Ch037:** Ch037 opens with Thalia and Annabeth together; it mentions Jason's occasional visits from Roman camp but does not date his original guest-week departure. No new autobiographical past-life memory is granted to anyone beyond Percy and Annabeth.
+
 **Knowledge enforcement:** Only Percy and Annabeth autobiographically remember their original seventeen-year life. Thalia now has bounded direct/letter reports including Sally/Beryl/Athena, but none of the older memories firsthand. Clarisse was told a version of her past-life Ares parentage by Percy, but remembers living as Poseidon's daughter. Zeus/Amphitrite/Jason do not know complete old-life secrets unless further scenes clearly state disclosures. Absence of mailed confirmation is not receipt.
