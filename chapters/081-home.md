@@ -812,7 +812,109 @@ Percy Jackson, thirteen, son of Poseidon, brother, friend, boyfriend, camper, br
 
 They were home, and morning had come.
 
-The buses would honk. The trunks would drag. Goodbyes would be said with too much laughing so nobody cried, and then cried anyway. May would come with school and cities and quests yet unknown. But Camp would hold — pine and wards and hearth — and they would return, always, to this hill, to each other, to home that no distance could unmake.
+When the camp began to stir, the hill watchers came down in groups. Chiron counted names against the sign-in sheet, Zoe helped the younger campers collect blankets, and Thalia carried the last lantern back to the Big House. Nobody had to pretend they'd stayed outside without permission. They had been given a night together, and now they needed to leave the hill ready for the next watch.
+
+Percy went straight to Cabin Three. He washed his face, changed his damp shirt and helped Tyson carry the borrowed forge tools down to the beach pickup point. Clarisse came with them, carrying a small case of fittings that belonged to the palace workshop. Silena followed with the wrapped sea-salt bread she'd baked for Tyson's return trip.
+
+They stopped above the dunes where the counselors had arranged the transfer. A small Atlantean boat waited beyond the shallows, its crew visible through the salt mist. The foreman checked Tyson's name and equipment list with Chiron. Percy heard each item called out and watched Tyson confirm the contents of his bag.
+
+"You're sure you have everything?" Percy asked.
+
+Tyson thought. "I have my tools. My shirt. My letters."
+
+"And your official paperwork."
+
+"Yes."
+
+"Then you are probably ready."
+
+Tyson looked at him with his one brown eye. "I left you the case."
+
+"I know. It's on my shelf."
+
+"When the latch breaks, do not force it."
+
+"I won't."
+
+"Take it to Beckendorf. He knows the size of the fitting."
+
+"Got it."
+
+Tyson took a step toward the water, then turned back and hugged Percy carefully enough that he could still breathe. Percy hugged him back. Clarisse joined them with a groan about making everybody sentimental. Silena pressed her cheek against Tyson's shoulder.
+
+"When you get back, you write," she ordered.
+
+"I will."
+
+"Not just a message saying the sea is wet," Clarisse added.
+
+Tyson laughed. "The sea is very wet."
+
+"You're impossible."
+
+"Brother Percy says that is a family trait."
+
+Percy heard himself laughing even while his throat felt tight. The boat wasn't taking Tyson away forever. It was taking him to a job and a home Percy was still learning about, with people who valued the work Tyson did. Percy couldn't turn missing him into a reason he should stay.
+
+Chiron gave the foreman the completed handoff record. Tyson stepped into the shallows, where the sea rose gently enough to carry him toward the waiting crew. He waved until the boat passed beyond the headland.
+
+Percy stood with his sisters until the last of the wake disappeared.
+
+"That went okay," Silena said.
+
+Clarisse looked at him. "You didn't try to swim after him."
+
+"Progress."
+
+"Significant progress."
+
+They went back up the beach, leaving only their own footprints in the damp sand. Percy was glad Tyson hadn't needed a speech. He'd needed somebody to check his tools and hear him say he was ready.
+
+At the bus circle the mortal departures had begun. Annabeth was holding the corrected route map, checking the arrival times with Malcolm. Owen stood beside his counselor, a small suitcase in one hand and his copy of the pickup directions in the other.
+
+"The driver found it," Owen called to Percy.
+
+Percy looked toward the visitors' loop. A bus was pulling into the turn exactly where the new arrow pointed.
+
+"Excellent," Percy said. "Keep the paper for your aunt."
+
+"I will."
+
+Annabeth watched the driver negotiate the turn, then made a final note on the map. There was just enough space. Next time, she wanted the sign moved another few feet so the entrance was visible earlier.
+
+"You are thinking about work," Percy told her.
+
+"It is work."
+
+"You're allowed to say goodbye too."
+
+"I know." She rolled up the map and gave it to Malcolm. "I'm doing both."
+
+The children lined up by assigned vehicles, not by which cabin was loudest or which camper had the most friends waving. Chiron and the counselors matched each name to a contact sheet. Percy helped collect one loose bag that a Hermes camper had accidentally left by the dining pavilion. He didn't open it. He gave it to the counselor in charge of lost luggage.
+
+Owen boarded, turned and waved. Percy waved back. There was nothing heroic about being able to get on the right bus at the right time. For Owen it mattered more than a swordfight.
+
+Annabeth came to stand beside Percy. Thalia was talking to a departure supervisor farther along the road. Grover had left his pipes in his pack and was holding Juniper's hand for a moment before she returned to the trees. Silena had given the Apollo children a packet of bread for their trip.
+
+"Are you ready?" Annabeth asked.
+
+"For what?"
+
+"To tell people you'll miss them."
+
+"Not really."
+
+"That's okay. You can still do it."
+
+Percy looked at the people moving around them. He'd wanted to keep the spring exactly as it had been on that first morning. Now the bags were leaving, the music had stopped, and the friendships were becoming something that had to survive on letters and deliberate visits.
+
+"I'm going to miss you," he said.
+
+Annabeth smiled, though her eyes were bright. "I'm going to miss you too."
+
+He took her hand. There was no promise that they wouldn't worry or feel lonely. There was the smaller, harder decision to keep writing and keep asking questions when they couldn't stand beside each other.
+
+At the top of the road the first bus honked. The trunks would drag. Goodbyes would be said with too much laughing so nobody cried, and then cried anyway. May would come with school and cities and quests yet unknown. But Camp would hold — pine and wards and hearth — and they would return, always, to this hill, to each other, to home that no distance could unmake.
 
 ---
 
