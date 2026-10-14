@@ -378,7 +378,107 @@ He offered her his sleeve to wipe her eyes, the way satyrs do when they don’t 
 
 Percy caught Annabeth’s eye again. *Nice kid.* Annabeth mouthed back: *Good kid.* The way old friends quietly approve of someone helping another friend.
 
-Chaste and sweet and exactly enough — Grover didn’t put his arm around her. He just moved his blanket so it overlapped hers by two inches, to block the wind. Elena noticed. She didn’t move away.
+Grover didn’t put his arm around her. He just moved his blanket so it overlapped hers by two inches, to block the wind. Elena noticed. She didn’t move away.
+
+“There was something else,” she said, looking around the circle. “I think it matters because it happened this week, and I haven't worked out what I think about it yet.”
+
+She told them about visiting the new fort behind Cabin Thirteen after Nico's birthday. Annabeth had mentioned that she was making a maintenance log for the structure. Elena liked the idea of a log. It was the sort of thing she could help with without touching a sword or risking a failed spell.
+
+She arrived with a notebook and an extra pencil. The fort still smelled of fresh cedar. A paper skull was hanging from the doorway, and the handrails had two different-sized sets of fingerprints on them. Nico sat at the lower table drawing on a wooden panel, while Bianca folded birthday decorations nearby.
+
+“I'm here to help Annabeth with the building log,” Elena told them.
+
+Nico looked up. “What log?”
+
+“The fort's record. When it was built, who checked it, what gets repaired. Things like that.”
+
+“Will it have my name in it?”
+
+“On the public drawing, if you want it there. Yours and Bianca's are already on the lintel.”
+
+Nico looked at his sister. She gave him a small shrug that meant it was his choice.
+
+“Okay,” he said. “But not my game scores. Cecil keeps trying to write down that he won the first battle, and I don't want everybody seeing it.”
+
+Elena had brought blank columns for equipment, games, visitors and maintenance. She looked at the page and realized she'd put four purposes into one notebook without deciding who needed to read each section.
+
+“Fair,” she said. “I don't need your game scores to check a railing.”
+
+She crossed out the column.
+
+Nico watched her do it. “What about the things in the hidden shelf?”
+
+“What about them?”
+
+“Are you writing down what I keep there?”
+
+“Only if I need to know for a repair. I don't need to know whether you keep cards or letters there.”
+
+Nico regarded her cautiously. He had always been willing to let Elena identify a book edition or settle an argument about dates. That didn't mean he wanted her to know everything he owned.
+
+She made a note that the shelf must remain accessible for inspection without its contents being cataloged. Then she asked Nico to show her how the latch worked. He opened the compartment enough to demonstrate the mechanism, kept the contents covered with one hand and closed it again.
+
+Elena saw a corner of folded paper. She looked away rather than reading it.
+
+“Good,” she said. “The latch works. That's all I need.”
+
+Bianca had been watching from the wall. “What about the birthday decorations?”
+
+“Are they part of the building?”
+
+“No. We're taking them down before the next rain.”
+
+“Then I won't list them as permanent fixtures.”
+
+They took the temporary decorations down together. Nico chose to keep the paper skull over the door for a few more days, provided it stayed out of the way. Elena checked the fastening and marked it as a temporary decoration to be removed if the weather turned. She didn't write that Nico had been reluctant to take it down. His reluctance wasn't a construction fault.
+
+A few minutes later Milo arrived with a broom, having promised to help sweep the floor before the next game. He saw Elena's notebook and asked whether she was recording who had used the fort that day.
+
+“Only if an adult needs it for supervision,” she said.
+
+“Then can you write that I helped clean?”
+
+“Would you like that in the volunteer record?”
+
+“Yes.”
+
+She gave him the pencil. He wrote his name himself. Nico looked at the little line, then asked whether helping sweep meant Milo could have first turn choosing the next Mythomagic team.
+
+“That's a game decision,” Elena told him.
+
+“I know,” Nico said. “I'm asking Milo.”
+
+Milo smiled. “Yeah. I'd like that.”
+
+When Elena finished, she had a useful maintenance sheet and a separate optional volunteer list. There was no record of which birthday presents Nico received, no inventory of his personal shelf, and no ranking of the games he'd played. The fort was still safe to maintain, even though the log was much shorter than the one she'd originally designed.
+
+She showed the sheet to Annabeth that afternoon.
+
+“You cut almost everything,” Annabeth said.
+
+“I kept the things a counselor would need to know if a board came loose.”
+
+Annabeth read the remaining entries, then nodded. “That's what the log was for.”
+
+Elena had spent the walk back feeling almost disappointed. She'd seen a lot of things she could have recorded. The present-year Nico had a ring with a skull on it, a new bracer from Clarisse, and a habit of checking whether Bianca was nearby before showing anyone his favorite cards. Some of that might become relevant someday. It was also his business, not hers.
+
+At the fire she glanced toward Percy.
+
+“You've seen me with five notebooks,” she said. “You probably think I'm always collecting things to remember.”
+
+“Are you?” he asked.
+
+“Yes.” She smiled. “But now I ask what they're for.”
+
+He nodded. It was a small answer, not a declaration that everyone could trust her forever. She liked that more than the enthusiastic promise some campers would have made.
+
+Grover nudged the edge of the blanket toward her. “The maintenance list helped?”
+
+“Annabeth said it did.”
+
+“Then you finished the job.”
+
+Elena looked at her hands. “Yeah. I guess I did.”
 
 ---
 
