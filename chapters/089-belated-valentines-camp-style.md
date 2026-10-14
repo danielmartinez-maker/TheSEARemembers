@@ -861,6 +861,92 @@ The night softened into dancing.
 
 ---
 
+After the letters, Thalia needed some air.
+
+She went to the covered porch and sat on the steps with Jason's drawing open on her knees. The picture showed the three Grace siblings beneath a pine, but Jason had drawn Annabeth taller than she actually was and given Thalia a sword that looked more like a lightning bolt.
+
+Luke came out carrying two cups of hot chocolate. He offered one and waited for her to take it.
+
+"Want company?" he asked.
+
+"Maybe."
+
+"That's a yes or a no?"
+
+"It's a yes for now."
+
+He sat one step below her, leaving room between them.
+
+Thalia looked at the letter again. Jason had written about school in New Rome and asked whether they could meet before summer's end. He had also mentioned Beryl's invitation to bring the siblings together for a weekend, without assuming Thalia had agreed.
+
+"He's trying," she said.
+
+"Jason?"
+
+"Yeah. He doesn't keep pushing me to say yes to the house."
+
+"That's good."
+
+Thalia folded the letter. "I don't know whether I want to go back to that house. I know Mom means well sometimes. I know other times she doesn't understand why a place can make me feel like I'm eight again."
+
+Luke didn't tell her to forgive Beryl or to stop worrying. He knew the difference between a reunion that belonged to Thalia and a reconciliation other people might demand for their own comfort.
+
+"Could you meet him somewhere else?" he asked.
+
+"That's what I suggested. A walk, maybe. Just us siblings first."
+
+"Sounds sensible."
+
+Thalia looked at him sideways. "Did you just call one of my plans sensible?"
+
+"Don't tell anyone."
+
+She laughed and turned the paper over. On the back Jason had drawn a tiny red truck, one they'd talked about during the Roman visit. It was a firsthand memory for Jason in this history. Thalia had related parts of its story to Annabeth, who could only know the changed-life childhood through what others told her.
+
+"I want to tell Annabeth what I remember about this," Thalia said. "But I don't want to tell her what she's supposed to remember."
+
+"Then tell her your part."
+
+"She might be disappointed."
+
+"She might ask more questions."
+
+"That's worse."
+
+"Not always."
+
+Thalia looked toward the pavilion. Annabeth was sitting with Percy, reading her letter again and smiling. They were the same couple who'd stood beside one another through years Thalia knew only from their limited reports. Her sister was learning to inhabit a family history that felt real to everyone else. Thalia wanted to help. Sometimes that meant telling a story, and sometimes it meant admitting she couldn't give Annabeth a memory she didn't possess.
+
+She put Jason's drawing into the blue envelope.
+
+"What are you going to write back?" Luke asked.
+
+"That I want to see him. I need a location and date that don't make me promise more than I'm ready to."
+
+"And the picture?"
+
+"I'm keeping it."
+
+He nodded.
+
+Thalia looked at the card Luke had written and thanked him for it. She didn't ask him to explain whether the card was more than a gesture of chosen family. He'd been part of her life for years, and she could value the way he showed up without making it into a different kind of relationship.
+
+"I should ask him to send one to Annabeth," she said.
+
+"Why?"
+
+"Because he drew her. If she wants a copy, she should get her own, not have to borrow mine."
+
+"Sounds like you."
+
+She smiled. For once the answer was enough.
+
+They returned to the pavilion together. Silena was finishing the last delivery, and Clarisse had found Percy near the refreshments to argue about whether blue or gold should be the official family color.
+
+Thalia paused at the doorway. She could still hear the music, and she could see Annabeth stand when a slower song began. The evening was going on without her. That was fine. She wasn't required to supervise every relationship at camp.
+
+She tucked the letters safely into her jacket and went to ask Jason for a convenient time to send an Iris-message next week. The evening wasn't a deadline for giving him an answer. It was a reminder she wanted to keep asking.
+
 The dance floor was just the cleared space in front of the stage, with Iris-magic lights swirling overhead in pink and gold.
 
 Juniper dragged Grover up for a slow dance, and he stepped on her feet twice and apologized to her feet. Tyson danced with Ella, very carefully, while she recited the beats — "One-two-three, one-two-three, Tyson is surprisingly graceful for a Cyclops, fact" — and glowed.
