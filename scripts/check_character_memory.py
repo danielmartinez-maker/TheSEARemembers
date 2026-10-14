@@ -47,14 +47,14 @@ CHECKS = {
     },
     "chapters/067-fishing.md": {
         "present": ("come to Atlantis with me", "come to Olympus with me",
-                    "pinky promise", "She did, on the back of the page",
-                    "The girl looked at the untied cord"),
+                    "pinky promise", "Ella did, on the back of the page",
+                    "bucket still empty, with a notebook full of questions"),
         "absent": ("Amphitrite now knows about the other timeline",),
     },
     "chapters/068-the-storm-small.md": {
-        "present": ("You can stay without making yourself the place the lightning goes",
+        "present": ("But you can stay without making yourself the place the lightning goes",
                     "Percy had learned from the fishing day",
-                    "The brazier was taken out of service",),
+                    "made a note to take the brazier out of service",),
         "absent": ("Let Percy’s sea take it",),
     },
     "chapters/132-a-month-beneath-the-sea.md": {
