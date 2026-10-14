@@ -318,6 +318,100 @@ She stopped. She pushed her glasses up. Her hands were shaking.
 
 “She fell asleep with her head on my shoulder. And I thought — okay. Maybe cataloging isn’t keeping. Maybe it’s just — lending. Like she lent that woman a beginning. I can lend my mom her middle. Even if she can’t keep it.”
 
+Elena hesitated, then smiled a little.
+
+“I left something out of that visit,” she said. “It didn't feel important at the time. Now I think it's the part I needed.”
+
+She told them how her abuela had brought Marisol through the camp border on a clear morning with a light coat and a paper bag of sandwiches. Chiron had approved the visit and arranged a quiet room at the Big House. He hadn't asked Marisol to walk the whole camp, where the noise and unfamiliar buildings could be overwhelming. Elena had been waiting on the porch with her notebook and a list of the stories she hoped to read.
+
+Her mother looked at her and smiled the way she smiled at a stranger who seemed kind.
+
+“Are you working here?” Marisol asked.
+
+Elena felt the familiar hurt beneath her ribs. She wanted to say *I'm your daughter* so loudly that the words couldn't be misplaced. Instead she sat beside her mother and introduced herself.
+
+“I'm Elena. I'm glad you came.”
+
+“That's a beautiful name.”
+
+“Thank you.”
+
+Abuela stood near the door, ready to step in if Marisol became frightened. Elena had wanted the visit to be private. She also knew her grandmother had traveled a long way and would recognize signs of fatigue earlier than Elena might.
+
+They settled with tea and sandwiches. Marisol asked about the camp's trees and why the windows were painted such unusual colors. Elena answered what she could. She didn't tell her mother the secret of every god in every cabin. There were other ways to talk.
+
+“Would you like to hear a story?” Elena asked.
+
+Marisol nodded.
+
+Elena opened the baby book to the first page and began reading about a small child with a first word of *luz*. She had expected the words to be a bridge. Her mother listened politely, then asked whether the child was grown now.
+
+“Yes,” Elena replied. “She's older.”
+
+“Is she happy?”
+
+Elena looked at the little photograph taped beside the date. She wasn't sure the girl in the photograph would have described herself as happy. She'd spent years collecting details and waiting for the next thing to be lost.
+
+“Sometimes,” she said. “She has friends. She likes books.”
+
+“Good,” Marisol replied. “Books help.”
+
+Elena turned the page. There was the incident with the remote in the laundry basket, complete with the hour and her mother's description of a child hiccuping with laughter. Elena began to read it aloud. Halfway through, she noticed Marisol's gaze had drifted to the window.
+
+“Would you rather look outside?” she asked.
+
+Her mother smiled with relief. “Could we?”
+
+They took the book to the porch. The April air smelled of damp wood and new leaves. A wind had pushed dry petals across the steps, and Elena began sweeping them away so her mother wouldn't slip. Marisol watched for a while, then held out a hand for the small broom.
+
+“I can help.”
+
+“You don't have to.”
+
+“I would like to.”
+
+Elena handed it to her. They swept the steps together. There weren't many petals, and Abuela stayed close by without directing every movement. For several minutes all three of them worked in a rhythm that needed no names and no explanation of the illness.
+
+When the steps were clear, Marisol said, “We did a good job.”
+
+“We did,” Elena agreed.
+
+She felt a strange satisfaction. They had done something together in the present rather than trying to rebuild the past out of notes. There was no guarantee her mother would remember sweeping by the time they reached the car. Elena would remember it, though, and that could be enough for the day.
+
+They went back inside. Marisol was getting tired. Elena offered her the baby book again, but Marisol said she'd rather sit quietly.
+
+“Okay,” Elena replied.
+
+She didn't fill the silence. She sat beside her until her mother's head tipped against her shoulder, light and warm. Abuela drew a blanket over them.
+
+After Marisol fell asleep, Elena wanted to open her notebook and write every detail before it could slip away. She knew the urge. A correct list meant she could prove the visit had happened, even if her mother never spoke about it again.
+
+She reached for the pencil, then stopped.
+
+For once she watched the light cross the floorboards and felt her mother's breathing against her shoulder. She waited until Abuela came to wake Marisol for the trip home. Only after they had gone did Elena write a few lines on the back of a loose page.
+
+*Today Mom and I swept the steps. She wanted to help. We did a good job.*
+
+She didn't make a list of every sentence Marisol said. She didn't write down the moments when her mother failed to recognize her. Those things had happened, and Elena wouldn't pretend otherwise, but they weren't all that happened.
+
+At the campfire Elena folded her hands over her notebook.
+
+“I thought if I didn't record every second, I'd lose the whole day,” she said. “But I can remember sweeping the steps without making it a test for her. I don't need Mom to confirm that she was there.”
+
+She glanced at Percy. “And I don't know whether the goddess Mnemosyne could give her memories back. I haven't been promised that. I don't want anyone to treat my mom's illness like a riddle a demigod ought to solve with enough magic. She's a person who still has choices even when she can't remember making them.”
+
+Percy nodded slowly. He had come to camp carrying questions about a childhood everyone around him remembered except him. He wasn't going to tell Elena that he understood her mother's illness; he didn't. But he understood wanting a missing history to be restored so badly that every small object began to feel like evidence.
+
+“Did you keep the broom?” Nico would have asked, Percy thought. Nico loved objects that came from stories.
+
+Elena seemed to anticipate the kind of question without hearing it.
+
+“No souvenir,” she said. “It belonged to the Big House. Chiron needed it to clean.”
+
+Grover laughed softly.
+
+“But when I pass that porch,” she continued, “I remember a morning when Mom asked to help me, and I let her.”
+
 Silence. The coals pulsed.
 
 Percy felt his throat close. He stared hard at the fire so he wouldn’t do anything embarrassing. Next to him, Annabeth was very still. He knew that stillness. It was her thinking-stillness, but also her sad-stillness, the one she got when she talked about Luke or about her remembered childhood, running away at seven with nothing but a backpack and a hammer. That history remained hers even though Thalia had raised Annabeth Grace here.
