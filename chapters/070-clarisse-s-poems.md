@@ -50,11 +50,11 @@ Annabeth caught it without thinking.
 
 Clarisse saw. “Grace. Don’t you dare read that.”
 
-Annabeth looked down at the paper. Her eyebrows lifted. She looked up at Clarisse. Something soft and surprised moved across her face.
+Annabeth felt the paper turn against her fingers in the wind. She folded it without looking at the writing and held it out, face down, to Clarisse. The apology came a beat late, but it came.
 
-“Clarisse,” she said carefully. “Did you write this?”
+“Clarisse,” she said carefully. “I caught it. I haven't read it.”
 
-“No,” Clarisse said immediately. “I copied it. From — from somebody. Shut up.”
+“Then give it back,” Clarisse said, the words rougher than they needed to be. “Please.”
 
 Percy stood up. He could feel his little-brother instincts firing before his brain caught up. Thalia elbowed him anyway because she knew that look on his face. That was his *someone’s getting ganged up on* look, and this time it was his own sister in the middle.
 
@@ -64,13 +64,13 @@ Percy stood up. He could feel his little-brother instincts firing before his bra
 
 “I want everyone to mind their own business!” Clarisse snapped, shoving the notebook into her armor strap. Her ears were scarlet. “It’s nothing. It’s stupid. Training’s over. Get out.”
 
-“It’s not stupid,” Annabeth said quietly, still holding the loose poem. Her gray eyes flicked over the lines again. “Clarisse. This is really good. ‘The gulls follow the trireme home whether we win or lose, they don’t care for glory, only that we come back to shore’ — that’s — did you really write that?”
+“I wasn't going to read it,” Annabeth said quietly. “Ella said enough to make everyone curious, but you get to decide what happens to the rest. It's yours.”
 
 “I said shut up, Grace!”
 
 The arena had gone dead silent. Younger campers stared. Even the dryads at the edge of the woods had paused.
 
-Percy reached Annabeth and gently took the slip from her fingers before Clarisse could lunge for it. He glanced at it, then at Clarisse, who looked like she wanted to sink straight through the earth into Tartarus and stay there.
+Percy reached Annabeth and stood beside her while Clarisse took back the folded slip. His sister looked like she wanted to sink straight through the earth into Tartarus and stay there. He could defend her without looking at the words she'd told them not to read.
 
 He raised his voice just enough to carry. “For the record, if anyone makes fun of someone for writing poems at this camp, they’re going to have to go through me. And I once fought a god with a ballpoint pen, so think about it.”
 
@@ -116,7 +116,7 @@ Clarisse blinked. “Your point, Jackson?”
 
 “I did,” Annabeth said solemnly. “It did.”
 
-Thalia grinned. “Percy’s essays are legendary. Jason once read one out loud at Jupiter and a Lares cried.”
+Thalia grinned. “Percy's essays are legendary. I once saw him revise an introduction five times and end up with the same sentence.”
 
 “My sister is mean,” said a new voice, and Jason Grace himself jogged into the arena, fresh off a Chiron-approved visit with the Camp Jupiter delegation. His Roman escort had sent him ahead while they talked at the Big House. His golden hair was damp with sweat, a practice sword over his shoulder. He nudged Thalia’s back and grinned up at her. “Hey, sis. What’d I miss? Why is Clarisse holding a spear like she wants to stab poetry?”
 
@@ -164,27 +164,53 @@ Clarisse’s eyes filled. She blinked furiously up at the sky.
 
 Jason looked at Thalia. Thalia looked at Percy. Percy looked at Annabeth.
 
-Annabeth, daughter of Zeus, wisest girl at camp, who never pushed when pushing would break something — Annabeth did the bravest thing. She sat down in the dust of the arena, crossed her legs, and patted the ground beside her.
+Annabeth sat on the lowest arena step, leaving the open training ring to Clarisse.
 
-“I’m not moving until story time happens,” she announced. “Someone go get lemonade.”
+“You said no,” she told her. “I heard you. I'm sorry I made you say it twice.”
 
-Thalia immediately flopped down beside her. “Seconded. Jason, lemonade. Brother’s duty.”
+It was a harder apology than Percy had expected, because Annabeth didn't qualify it with good intentions. Clarisse kept her eyes on the folded page in her fist.
 
-Jason sighed theatrically. “The burdens of having older sisters.” But he jogged off, and Tyson lumbered after him shouting, “Tyson help carry! Tyson strong lemonade carrier!” and Ella fluttered after them, already chanting, “Lemonade! Lemon-made! Sour-sweet like brave-hearts!”
+“The memorial idea is an invitation,” Annabeth continued. “Not an assignment. We can talk about it some other day, or never.”
 
-One by one, the younger campers sat. Sherman and the Ares kids exchanged looks, then sat in a heavy, armor-clanking row behind Clarisse like a bodyguard wall. Lacy sat. Even the dryads crept closer.
+Thalia stepped away from the spectators and pointed her spear toward the equipment racks. “Training's finished. Everyone who isn't on cleanup, go get dinner or something. Jason, can you help Tyson take the empty water jugs back?”
 
-Clarisse stood alone in the middle, clutching her black notebook, staring at them all like they were a monster with too many heads.
+“The burdens of having older sisters,” Jason said, but he did as she asked. Tyson followed, and Ella went with him, still looking miserable.
 
-“I hate all of you,” she said hoarsely.
+Sherman signaled the Ares campers toward the gate. A few protested, and he silenced them with a look. Lacy started to follow. Silena waited without reaching for her sister's arm.
 
-“We know,” Percy said, sitting down next to Annabeth, bumping her shoulder with his. She leaned into him automatically, her fingers finding his in the dust. “We love you too.”
+Clarisse watched her audience disappear. “You don't have to evacuate the whole arena.”
+
+“You told us to mind our business,” Percy said. “We can be surprisingly good at that when ordered.”
+
+“Since when?”
+
+“Today. New skill.”
+
+For the first time, Clarisse seemed to have enough room to breathe. She tucked the loose page inside the black cover and pressed the notebook's split spine flat. “I didn't say I would never read anything,” she muttered. “I said I wasn't going to be made to.”
+
+“There's a difference,” Silena said.
+
+Clarisse glanced at her. Silena had made that same distinction around a campfire very recently, with the whole camp watching. She didn't refer to it aloud. She let her sister find her own words.
+
+“I might want Lacy to read one,” Clarisse said after a long silence. “Maybe. I choose the page, I choose who listens, and nobody gets to copy it.”
+
+Lacy stopped by the gate. “I can do that.”
+
+“That's not a yes yet,” Clarisse warned.
+
+“I know.”
+
+Percy sat beside Annabeth on the step, with the arena mostly empty around them. Neither asked Clarisse to hurry. After a minute, Jason and Tyson returned with lemonade and cups, and even that ordinary interruption made it easier to sit together. Clarisse remained standing, notebook in hand, deciding.
+
+“I hate all of you,” she said eventually, without much force.
+
+“We know,” Percy replied. “And we'll still be here if you decide not to share.”
 
 ---
 
-The lemonade arrived in a battered cooler — watery, too sweet, full of ice that melted instantly in the heat. Tyson carried it like a holy offering, Ella rode on top flapping for balance, Jason handed out paper cups with the solemnity of a Roman priest.
+The lemonade cooler sat on the bleachers — watery, too sweet, full of ice that melted instantly in the heat. Tyson lifted paper cups out of it like holy offerings. Ella stayed near the gate with her wings tucked, and Jason passed the drinks around with the solemnity of a Roman priest.
 
-Clarisse still hadn’t opened the notebook.
+Clarisse still hadn't opened the notebook. A few campers watched from beyond the gate, but nobody called her back into the center of the ring.
 
 She turned it over and over in her hands. Percy could see the cover now: plain black composition book, the edges soft with handling, a piece of electrical tape holding the spine together. In silver marker, in angry block letters: PROPERTY OF C.L.R. STEAL THIS AND DIE. Underneath, in much smaller letters, almost rubbed away: *and if found please return to Cabin Three, Clarisse’s bunk, no questions.*
 
@@ -214,9 +240,13 @@ Annabeth’s ears went pink. “He told you that?”
 
 She smiled down at their joined hands.
 
-Clarisse took a deep breath. “Fine. One. *One* poem. And if anyone laughs—”
+Clarisse took a deep breath. “Fine. One. *One* poem,” Clarisse said. “The sea one. You can stay if you want, but nobody asks for another, nobody photographs the pages, and nobody takes the notebook out of Lacy's hands except me.”
 
-“No one will laugh,” Percy said firmly, glaring around. No one dared.
+Lacy nodded. Sherman waved the Ares campers who had been waiting at the gate back to the steps; the younger ones returned only after Clarisse gestured permission. Percy felt the distinction in his chest. An audience she'd chosen was not the same thing as a crowd refusing to leave.
+
+“And if anybody laughs to make me feel small,” Clarisse added, “they leave.”
+
+“Fair,” Percy said. He stayed beside Annabeth without promising to control everyone else's reaction.
 
 Clarisse flipped the notebook open with fingers that weren’t quite steady. She stared at the page. Then she shoved the notebook at Lacy.
 
@@ -265,9 +295,11 @@ But she was too late. Every Aphrodite instinct in the arena had perked up.
 
 Annabeth leaned forward, diplomat mode on. “Clarisse. You don’t have to share that one. But… for the record, Chris would probably love to know you wrote him a poem about learning to swim.”
 
-Chris Rodriguez, son of Hermes, who had come back from the Labyrinth half-mad and been healed by love and patience and Clarisse’s stubborn refusal to give up on him, was currently working in the stables and had no idea his girlfriend wrote poetry. He would arrive in about ten minutes when Sherman texted him, but that’s getting ahead.
+Chris Rodriguez was working in the stables. Percy knew he and Clarisse were close; he didn't know how much of the black notebook Chris had already been trusted with. Sherman slid his phone behind his shield, typing much too quickly for Percy's liking.
 
-“I will kill Sherman,” Clarisse said flatly, as Sherman very obviously hid his phone behind his back. “I will kill him with my oar-spear.”
+“Sherman,” Clarisse said flatly, watching him shove his phone behind his back. “Whatever you're doing, stop.”
+
+He swallowed. Percy wasn't sure whether the message had already been sent.
 
 Percy laughed. He couldn’t help it. Annabeth laughed too, leaning her head on his shoulder for a second, and the tension broke like a wave.
 
@@ -353,11 +385,17 @@ Jason pulled Thalia into a proper hug, stretching up while she bent to him and p
 
 By sunset the arena had turned into something like a picnic. Someone ran to the mess hall and brought back trays of ambrosia squares and chips and cans of soda. The Ares kids built a small fire in the brazier even though it was eighty degrees, because Ares kids love fire. Ella perched on Tyson’s shoulder, reciting her favorite lines back to herself in a happy mutter: “‘My spear wants to be an oar! Let it pull, not pierce!’ Ella loves oar-spears!”
 
-Chris Rodriguez arrived at a run, dusty from the stables, Sherman’s text clutched in his hand: *GET HERE NOW. CLARISSE EMERGENCY. POETRY.* He skidded into the ring, wild-eyed.
+Chris Rodriguez arrived at a run, dusty from the stables, with his phone in his hand. Sherman had sent *CLARISSE EMERGENCY. POETRY.* Chris hadn't been able to tell whether the first two words meant an injury, and he was plainly angry about it.
 
 “Clarisse? Are you okay? Sherman said poetry emergency—”
 
-Clarisse went scarlet to the roots of her hair. “I’m going to murder Sherman Yang with his own shield.”
+Clarisse went scarlet to the roots of her hair. “Sherman, you don't summon my boyfriend with a fake emergency. What if we'd actually needed help?”
+
+Sherman looked down. “I shouldn't have. I'm sorry.”
+
+“Then tell Chris that,” Clarisse said. “And next time you want to send something about me, ask me first.”
+
+Chris checked her for injuries before putting the phone away. He looked relieved, but he didn't laugh with the crowd.
 
 Chris looked around at the circle of campers, at the notebook in Clarisse’s hands, at Lacy’s tear-stained face. Understanding dawned slowly. “Wait. You — you shared them? The poems? The sea ones?”
 
