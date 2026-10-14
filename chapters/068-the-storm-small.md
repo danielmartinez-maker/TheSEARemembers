@@ -664,7 +664,7 @@ Annabeth closed her eyes. She felt mud squish between her toes. She felt the lak
 
 “Pennies,” Annabeth repeated. “Pine. Wet stone.”
 
-They stood there while the breeze picked up and ruffled the lake. Annabeth breathed in for four, held for four, out for six. She visualized it the way Thalia had taught her: herself as a riverbed, the sky-energy as water running over, not pooling, not damming. Let it run to the sea. Let Percy’s sea take it. That visualization always helped, though she’d never told Percy that. He’d get a big head.
+They stood there while the breeze picked up and ruffled the lake. Annabeth breathed in for four, held for four, out for six. She visualized it the way Thalia had taught her: herself as a riverbed, the sky-energy as water running over, not pooling, not damming. Let it pass without giving it a person or the lake as a path. The image was for breathing, not a circuit for an actual bolt. That visualization always helped, though she’d never told Percy that. He’d get a big head.
 
 After a while the ember dimmed to almost nothing. Annabeth opened her eyes. Thalia was watching her with a small, proud smile.
 
@@ -1005,6 +1005,54 @@ Annabeth checked the quiet hum beneath her ribs. No static. No rising pressure. 
 "Now you can."
 
 It wasn't a rule against comfort. It was a way to keep comfort from becoming another danger neither of them wanted to name.
+
+Percy looked at what she'd written and raised a finger.
+
+"One thing. You said tell an instructor. What if we're not near one?"
+
+"Then get distance from people and equipment, and don't improvise a grounding trick. We can work out a proper emergency procedure with Thalia and Chiron."
+
+"So this is a draft."
+
+"A very serious draft."
+
+"Would you let me draw a fish in the corner?"
+
+"No."
+
+"A small one?"
+
+"Percy."
+
+He grinned and let it go. She didn't need to make him solemn to know he understood. They had both learned, painfully, how quickly a confident plan could fail when it rested on one person being invulnerable. She had wanted him to stay with her at lunch. He had wanted to prove he could. They could keep wanting those things while agreeing the safe version might look different.
+
+She tore the page free and folded it once.
+
+"What will you do with that?" Silena asked.
+
+"Show it to the people actually training me. Let them correct anything unsafe."
+
+"Good," Silena said. "And the little boy you spoke to earlier?"
+
+Annabeth watched him from across the pavilion. He was eating with two other Hermes campers, keeping his back to the brazier that Beckendorf had marked for removal. He hadn't looked toward her again.
+
+"I'll leave him alone, like he asked," she said.
+
+Silena nodded. It wasn't approval to be collected or forgiveness Annabeth had earned. It was an ordinary acknowledgment that a child's answer mattered.
+
+Thalia approached the table as the harpies began clearing plates. She saw the folded paper in Annabeth's hand and waited.
+
+"I have a draft for you to review," Annabeth said.
+
+"For school?"
+
+"For making sure I don't repeat lunch."
+
+Thalia looked at her seriously. "Then we'll read it together when you want. Not in the middle of dinner."
+
+"Agreed."
+
+Annabeth slipped the page into her notebook. She had not hidden it, and she had not asked anyone to promise she would never make a mistake again. She had given the people around her a way to help that didn't require them to guess what was happening.
 
 After dinner, as promised, Chiron had a quiet word with Bryce that left the boy looking chastened but not crushed, and Clarisse had a louder word that left him looking like he’d rather muck stables for a year than face her again. Annabeth watched from a distance and felt no satisfaction, only tired relief. He was just a kid. They were all just kids, trying to be brave in a world that kept giving them wars.
 
