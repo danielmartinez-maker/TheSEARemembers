@@ -936,9 +936,33 @@ Percy watched from near the rocks. He hadn't heard the whole conversation. He sa
 
 He remembered the child who'd stood by the van staring at the ground that morning. She still missed her grandmother. He could see that in the way she held her seal. But her first full day at camp now contained a paper boat, a wave, and a decision she'd made for herself.
 
-They walked back up the hill damp and sandy and tired in the good way, Bea riding on Thalia's back because her legs were short, Milo carrying Tyson's empty muffin tray like a trophy, Lucy chattering to Annabeth about books.
+They walked back up the hill damp and sandy and tired in the good way, Bea riding on Thalia's back because her legs were short, Milo carrying the rolled-up orientation map like a trophy, Lucy chattering to Annabeth about books.
 
 At the top of the hill, under the boundary pine with the boundary wards glowing, they stopped. The whole valley spread below — cabins with smoke curling, the dining pavilion, the arena, the forest darkening. Home.
+
+Lucy asked whether the dining pavilion would still be there if they needed it late at night.
+
+"The building will," Annabeth said. "The kitchen has hours. If you're hungry after them, your counselor can help you find the approved snacks."
+
+"What about my shoes?"
+
+"We'll ask the forge whether the electronics are safe," Percy said. "If they aren't dry by morning, Chiron has spare shoes. You don't have to throw yours away just because you need something else to wear while they get checked."
+
+Lucy looked at her bag, then back at Percy. "But don't let anyone cut them open."
+
+"We won't do anything without telling you what the inspection involves."
+
+Milo leaned close enough for Percy to hear without the others listening. "I still want the letter to my brother."
+
+"I remember."
+
+"What if the answer's no?"
+
+"Then we ask Chiron what would need to change. You and I aren't going to sneak out a message that could put someone in danger just because waiting is terrible."
+
+Milo considered that, then nodded reluctantly. He seemed to be learning that being trusted with a decision didn't always mean getting what you wanted.
+
+Bea reached into her pocket and checked that the folded paper boat was still there. The stuffed seal stayed tucked under her other arm. She had spent the whole day being offered things by strangers, some kind and some overwhelming. Percy liked that she had a small thing she'd made and chosen to carry herself.
 
 Chiron waited there, as if he had known they would end up here. He smiled at the sandy, sleepy group.
 
