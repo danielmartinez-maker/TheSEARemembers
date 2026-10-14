@@ -238,9 +238,191 @@ Percy had hooked his pinky through hers, bleeding and filthy and crying and laug
 
 The memory trap had shattered. They had woken up on the farmhouse floor with Grover shouting their names and Blackjack circling overhead screaming about traffic.
 
+Grover had made Percy sit on the farmhouse steps before anybody tried to fly home.
+
+"Look at me," Grover said, and Percy immediately looked past him toward Annabeth, who was crouched near the broken doorstep with both hands on the ground. "No. Look at me for a second. Can you tell me where we are?"
+
+"Pennsylvania."
+
+"Which part?"
+
+"Near a road. The house is sinking. Can we go?"
+
+"Not until I know you can stand up without falling over."
+
+Percy started to argue, then discovered the dirt beneath his sneakers was moving. It wasn't moving, he realized after a moment. His body was still expecting the floor of the false archive to split open.
+
+Grover sat beside him without demanding another answer. The farmhouse windows were shattered; the stolen bone lay wrapped in cloth inside a bronze box they'd brought from camp. Grover had recovered it while Percy and Annabeth were trapped. The satyr had heard them calling to one another, but he hadn't followed them into the visions.
+
+"Did you see us disappear?" Percy asked.
+
+"No. You were standing in the front hall. One second you were both reaching for the door, and the next you were staring at the wall and couldn't hear me." Grover rubbed his hands together. "I tried to pull you out. The thing holding the bone pushed me back. I could see you breathing. I couldn't tell whether you were awake."
+
+Percy had a memory of running for hours through an abandoned camp. Grover had been with him in the real farmhouse the entire time.
+
+"What time is it?" he asked.
+
+Grover checked the battered watch strapped above his wrist. "Late afternoon."
+
+"How long?"
+
+"Less than an hour."
+
+Percy stared. Annabeth had told him she spent three days in her own false world. His vision had felt like years compressed into a handful of moments. He could still remember the imagined ditch in New Jersey and a version of himself bleeding alone there. The false memory had the same sharpness as the years he and Annabeth had actually lived before the rewrite. That was the worst part. It was easier to fear a monster you could see than a picture in your own mind that felt true until somebody asked when it happened.
+
+"Percy?" Grover said.
+
+"I'm here."
+
+"Are you hurt?"
+
+"Not the way you think." Percy looked toward Annabeth again. "I need to go to her."
+
+Grover followed his gaze. Annabeth had risen, but she was standing motionless beside the ruined doorway. Her knife was still in her hand, pointed toward the ground. She kept opening and closing her other fist as if testing whether it belonged to her.
+
+Grover stood first. "Then go. Slowly. Don't make me carry both of you."
+
+Percy walked over and stopped at arm's length.
+
+"Wise Girl?"
+
+She turned. Her eyes found him, and for a terrible instant he saw the blank look he'd seen in the trap. Then she blinked twice, took a sharp breath, and reached out.
+
+"Percy."
+
+"Yeah."
+
+"Say something stupid."
+
+He wanted to tell her he loved her, that he was here, that she hadn't lost him. Those were the correct things. They were also the words a false world might have given her in his voice.
+
+"Grover says I have to walk slowly," Percy said. "I'm considering legal action."
+
+She laughed once. It came out broken.
+
+"That is stupid."
+
+"I'm very talented."
+
+She took his hand. Her fingers were cold and scraped. They stood looking at their joined hands longer than either probably needed.
+
+"What do you remember?" he asked.
+
+"Enough." Her jaw tightened. "I don't want to tell you here. Not with the house listening."
+
+The house wasn't listening anymore. It didn't matter. Percy nodded and walked with her to the road where Blackjack waited.
+
+On the flight home, Annabeth kept asking what the actual wind felt like. Percy described it as cold and wet and smelling faintly of the river. He couldn't tell whether she wanted the answer because she didn't trust her senses or because she needed to hear his voice. He gave the answer each time.
+
+When they arrived, Chiron took the bronze box to the Big House. He didn't ask the children to repeat their account in front of everyone. Instead he had Will examine the cuts on their hands and check whether their eyes were focusing. Grover gave his own description of the farmhouse, careful to separate what he'd seen from the parts Percy and Annabeth had only reported afterward.
+
+"Did the bone show you events that might happen?" Chiron asked them when they were alone.
+
+"It showed impossible things," Annabeth said.
+
+"Not the same question," Chiron replied.
+
+Percy looked at her. She was holding a cup of hot chocolate in both hands, though she'd hardly drunk any.
+
+"We can't verify anything it showed us," Percy said. "It felt real. That doesn't make it evidence."
+
+"Good distinction," Chiron said.
+
+Annabeth looked down at the cup. "That's why it's frightening."
+
+Chiron waited rather than telling her she was wrong to be frightened.
+
+"I knew things inside it," she continued. "I knew my way around rooms I'd never seen. I knew the names of people who might not exist. I believed all of it. When I came out, I could remember the belief. I couldn't tell where the belief had come from."
+
+"Then we will record what can be observed," Chiron said. "Grover can give me the location of the house and what he saw. You and Percy can describe the nature of the enchantment. You don't have to disclose every private image for us to remove the danger."
+
+"What happens to the bone?" Percy asked.
+
+"It will be secured until we know how to study it safely. Not passed from hand to hand because it's interesting."
+
+"And the son of Mnemosyne?"
+
+"His involvement will be investigated. We do not know whether he created the enchantment or merely used it. Do not make the mistake of treating one artifact as an explanation for every change in your lives."
+
+Percy had been about to ask whether the young man knew anything about the rewritten years. Chiron's answer stopped him. Percy and Annabeth had a mystery older than this quest. They would not solve it by declaring every creature associated with memory a suspect.
+
+That evening Chiron let them sit on the Big House porch after the others had gone to dinner. Grover left them two mugs of hot chocolate and went to check on Blackjack, who had demanded extra oats as compensation for flying over traffic.
+
+Annabeth set her untouched mug aside. "I want to write down what happened."
+
+"To give Chiron?"
+
+"For us."
+
+"Do we need a report?"
+
+"No." She shook her head. "I need to know which parts belonged to the trap. If I don't write them down, I'm afraid I'll start treating them as memories of our life."
+
+Percy took a scrap of paper from the pencil tin by the porch door. He drew two columns, because he'd seen her do it a thousand times.
+
+"Things we saw after waking," he said, writing across the left side. "Things the trap showed us, on the right."
+
+Annabeth glanced at the paper. "That doesn't cover everything."
+
+"Of course it doesn't. You're the architect. You get to make improvements."
+
+She took the pencil. Beneath the two headings she added a third: *What someone else can confirm.*
+
+Under that she wrote Grover's name, Chiron's, Blackjack's, and the farmhouse location. She did not write that the future had changed again, because they had no evidence it had.
+
+Percy sat beside her as she worked. Sometimes she stopped and stared at the paper. Once she put the pencil down and pressed her palms flat against her knees until they stopped trembling. He didn't ask her to continue until she picked it up herself.
+
+At the end they had two sheets filled with uneven notes. Annabeth folded them and put them in a plain envelope. She wrote *not evidence of another timeline* across the front.
+
+"What do we do with that?" Percy asked.
+
+"Keep it somewhere private. Read it if one of us starts treating the visions like facts."
+
+He looked at the words she'd written on the envelope. "You trust a note more than your own memory?"
+
+"About the false world? Yes. Because we made the note while we were both awake, and Grover can confirm when we came out."
+
+"That's not a bad system."
+
+She gave him a tired look. "Don't sound so surprised."
+
+Percy put his arm around her, waiting until she leaned into him. When she did, he could feel how exhausted she was.
+
+"I remembered a version of myself dying alone," he said. "In the trap."
+
+Annabeth went still.
+
+"I don't know why I told you that. I just didn't want it living in my head like a secret."
+
+She turned toward him. "I remembered a place where you never came."
+
+He closed his eyes.
+
+"That's not this place," he said.
+
+"No."
+
+They sat looking across the dark lawn. A few cabins had begun lighting their windows. Somewhere Thalia was arguing with Jason over an Iris-message; Percy could hear the rise of her voice and the abrupt laughter that followed it. This was a world with people in it, whether or not Percy had a perfect account of their pasts.
+
+Annabeth rested her forehead against his shoulder.
+
+"When you say my name," she said, "I know I can answer."
+
+"Then I'll keep saying it."
+
+"Not every five seconds."
+
+"Reasonable. Every six."
+
+"Percy."
+
+"Annabeth."
+
+She laughed into his shirt, still shaky but real.
+
 Percy remembered the way Annabeth had clung to his wrist even after they were awake, her fingers white-knuckled, as if letting go would drop her back into that empty world. He remembered the way he had kept saying her name over and over on the flight home, just to hear it land in a world where she answered. Annabeth. Annabeth. Annabeth. Each time she had squeezed his arm and said, present. Here. Still here.
 
-They had not talked about the promise since. Not properly. There had been debriefs and infirmary and patrol schedules and Annabeth's shrine revisions and Percy's canoe dock rope duty. Life at Camp filled in around trauma like water filling footprints in sand.
+They had talked about what happened, but they had not repeated the promise itself since. Not properly. There had been debriefs and infirmary and patrol schedules and Annabeth's shrine revisions and Percy's canoe dock rope duty. Life at Camp filled in around trauma like water filling footprints in sand.
 
 Chiron had asked them, gently, if the Mnemosyne boy had shown them their worst memories. Percy had shaken his head. No, he had said. He showed us worlds without each other. That is worse.
 
