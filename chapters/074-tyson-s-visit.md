@@ -1,6 +1,6 @@
 ## Chapter 74: Tyson's Visit
 
-The conch announced Tyson's return for a longer visit with three short blasts just after breakfast, which at Camp Half-Blood usually meant an incoming war party or a counselor meeting, but Percy knew better that morning because Chiron had been smiling into his coffee since dawn.
+The conch announced Tyson's return for a longer visit with three short blasts just after breakfast. Tyson had stayed for the anniversary festivities and watched the camp play, then gone back to his duties in the undersea forges after the performance. Percy had missed him even during that brief separation. Now Chiron had approved a longer stay, and the signal sounded less like a war alert than a welcome.
 
 Percy was sitting on the steps of the Poseidon cabin with Annabeth beside him, her shoulder pressed to his, her fingers idly tracing the worn wood of the step while they waited. The morning air was warm and gold in a mild April spell, smelling of cut grass and salt off Long Island Sound and smoke from the forges already going. Down by Half-Blood Hill, the mist over the barrier shimmered.
 
@@ -180,7 +180,7 @@ Tyson frowned. "I am not soft. I am hard like rock. But I do not fight friends."
 
 Word spread fast. By four o'clock, half the camp was crowded around a picnic table outside the arena, sitting on the grass in the shade.
 
-Clarisse La Rue stood on one side of the table with her arms crossed, her dark hair pulled back in a bandana, her brown eyes narrowed. She had her sparring war paint on — red streaks across her cheeks — and her biceps strained the sleeves of her shirt. Behind her, the Ares cabin chanted her name.
+Clarisse La Rue stood on one side of the table with her arms crossed, her dark hair pulled back in a bandana, her sea-green eyes narrowed. She had her sparring war paint on — red streaks across her cheeks — and her biceps strained the sleeves of her shirt. Behind her, the Ares cabin chanted her name.
 
 Tyson stood on the other side, blinking in the sunlight, looking confused but willing. He had a smear of soot on his cheek from the forge and his sleeves rolled up to show forearms thick as tree trunks.
 
@@ -236,7 +236,7 @@ Tyson's chest puffed up two inches. "Thank you, Clarisse! You can sit at my tabl
 
 That got a real laugh out of her — a short, surprised bark — before she remembered she was Clarisse and scowled at the Ares cheering section to shut up. As she walked off, Percy could have sworn she was walking a little taller.
 
-Tyson turned to Percy with shining eyes. "Did you see? I won but I made a friend! That is best winning!"
+Tyson turned to Percy with shining eyes. "Did you see? Clarisse laughed! We were already friends, but now she knows I can be a good opponent too. That is best winning!"
 
 "I saw, Big Guy," Percy said, hugging him sideways, having to stand on tiptoe to reach around his shoulders. "You were awesome. And nice. Mostly nice."
 
@@ -272,9 +272,9 @@ Silena nodded, holding it out. "I started it when we heard you were coming. I wa
 
 Tyson took it with both hands like it was made of glass. He pressed it to his face and inhaled. Then he wrapped it around his shoulders, and it actually covered him, and his eye went wet.
 
-"Nobody ever made me a blanket before," he said thickly. "Mama ... Mama never ... I slept in streets before Percy found me. Cold."
+"Nobody made one for this bunk before," he said thickly. "At home in Atlantis, I have blankets from the forge. They are strong and practical. This one has my eye on it. And little peanuts. You thought about who I am, Silena."
 
-Silena's own eyes filled instantly — she loved fiercely, and her half-brother had been cold and alone. "Oh, Tyson —"
+Silena's own eyes filled instantly. She had wanted her brother to feel at home in Cabin Three, not to suggest his Atlantean life had been empty. "I wanted you to have something made just for you," she said.
 
 "It is soft," Tyson said, rubbing his cheek against it. "It is warm like hug. I will keep it forever. I will never let it get dirty. I will —" He stopped, overwhelmed, and then he opened his arms. "Can I hug? Gentle hug?"
 
@@ -432,7 +432,7 @@ Percy slung an arm around his shoulders. "I miss you every day too."
 
 "You can visit!" Tyson said eagerly. "Anytime! I made you your own room with whale posters! And peanut butter drawer!"
 
-"I will," Percy promised, his voice thick. "Gods, I will. And you'll come back. Iris-message every week, okay? And this coming summer, whole month. I'll talk to Chiron. We'll make it happen."
+"I want to," Percy said, his voice thick. "Gods, I want to. Let's ask Chiron and your forge boss about a month in summer. Until then, can we try an Iris-message every week? I can actually keep that promise if the signal cooperates."
 
 "Bet," Tyson said solemnly, holding out his pinky — which was the size of Percy's wrist.
 
@@ -444,23 +444,23 @@ They swam back in finally, shivering and pruny. Annabeth met them at the waterli
 
 "Have fun, boys?" she asked.
 
-"Best night ever," Tyson declared, wringing out his hair onto the sand. "Percy said Annabeth is girlfriend! I was right!"
+"Best night ever," Tyson declared, wringing out his hair onto the sand. "Percy was talking about Annabeth again! He loves his girlfriend so much!"
 
 Annabeth's eyebrows shot up. She looked at Percy, who turned scarlet and stared at his feet.
 
-"Tyson!" he hissed.
+"Tyson, she already knows!" he hissed.
 
 "What? It is good thing!" Tyson said, confused. "I am happy!"
 
-Annabeth's expression melted. She stepped closer to Percy, still holding his towel around him, and slipped her cold hands around his warm neck. "Is that right, Seaweed Brain?" she murmured, eyes dancing. "I'm your girlfriend?"
+Annabeth's expression softened. She stepped closer to Percy, still holding his towel around him, and slipped her cold hands around his warm neck. "Is that right, Seaweed Brain?" she murmured, eyes dancing. "Still my boyfriend after all this time?"
 
 Percy swallowed. The moon was in her hair. The sea was at his back. His brother was beaming at them both.
 
-"Yeah," he said shyly, looking up at her through wet lashes. "If — if that's okay. I mean, you are. You're my girlfriend. I ... I love you."
+"Yeah," he said, leaning into her hands. "Unless you want to renegotiate after the part where I stole your fries yesterday. I love you, Wise Girl. You know that."
 
 Annabeth smiled like he had handed her the sky. She kissed him right there in front of Tyson and the moon and the whole sleeping camp — quick and sweet and sure.
 
-"It's more than okay," she whispered against his mouth. "You're my boyfriend, Percy Jackson. No cap."
+"I do," she whispered against his mouth. "And I still love you, Seaweed Brain. No cap."
 
 Behind them, Tyson cheered. "BET! THAT'S SUS — no, wait. That's ... that's CUTE! Thalia said cute means —"
 
@@ -478,7 +478,7 @@ The whole camp turned out to say goodbye at the hill. Chiron shook Tyson's hand 
 
 "Peanut brittle," she muttered. "Silena said you like peanut stuff. Don't make it weird."
 
-Tyson clutched it to his chest. "Thank you, friend Clarisse! I will eat one piece every day and think of your strong arm!"
+Tyson clutched it to his chest. "Thank you, sister Clarisse! I will eat one piece every day and think of your strong arm!"
 
 Clarisse's ears went red. "Yeah. Whatever. Come back and I'll beat you next time."
 
@@ -544,7 +544,7 @@ Percy stood staring at the empty hill for a long moment. Annabeth leaned her hea
 
 Percy swallowed hard and nodded, slipping his arm around her waist and pulling her close. Thalia slung an arm around both of them, and they stood there on Half-Blood Hill with the wind in their faces and the sea glittering beyond, the Grace sisters and Percy watching the road.
 
-That night, the Poseidon cabin was quiet again. Percy's bunk rumpled, his sisters settling into theirs, Tyson's guest bunk empty but neatly made, the folded blue blanket with the single brown eye centered on the pillow like it was sleeping there in Tyson's place.
+That night, Cabin Three was quiet again. Percy's bunk was rumpled; Clarisse and Silena were settling into theirs; Tyson's reinforced guest bunk was empty and neatly made. The blue blanket with the stitched brown eye had gone home in Tyson's bag, as he wanted. One loose strand of matching yarn remained caught on the bedframe, and Percy left it there.
 
 Percy lay awake a while, listening to the absence of snoring. Then he reached across the aisle — out of habit — and his fingers found only air.
 
