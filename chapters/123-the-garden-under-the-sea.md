@@ -708,7 +708,7 @@ He looked at her. She was not speaking as a god giving a command. She seemed to 
 
 "Triton, on occasion. He was very young when he first told me I had to let you fall off a training float."
 
-Percy laughed, then grew quiet. It was a story about a childhood he couldn't remember. He knew she understood that, but he still had to make himself listen as though he were learning about someone he had never met.
+Percy laughed, then grew quiet. It was a story about a childhood he couldn't remember. Amphitrite seemed content to tell it as an ordinary family anecdote, and he made himself listen without betraying how unfamiliar every detail felt.
 
 "Did I fall?" he asked.
 
