@@ -900,6 +900,40 @@ Family.
 
 "Wouldn't miss it, big sister," Percy said, and Silena, half-asleep between them, smiled like a song resolved.
 
+Before they went inside, Silena lifted her head. "Not everybody at seven, though. We need to ask the others."
+
+Clarisse looked at her. "We already agreed."
+
+"We agreed to this week. Tomorrow I have a morning shift at the infirmary."
+
+Percy smiled. "I have the sign inspection with Annabeth."
+
+"And I have Ares trainees," Clarisse admitted.
+
+They looked at one another for a moment. Then Clarisse laughed. "Fine. We pick another time. The family isn't going to fall apart because we can't fit one extra drill into Tuesday."
+
+Silena leaned back against Percy. "Exactly."
+
+He thought of the small things they'd learned from one another. Clarisse could ask a trainee what was wrong instead of shouting until he complied. Silena could help an injured camper without turning his recovery into a public performance. Percy could make the water release when somebody called stop. The lesson was not a set of movements they could perform once and forget.
+
+"When do you both have time?" he asked.
+
+Silena checked her pocket schedule. "Thursday afternoon, after I return the supplies to Will."
+
+Clarisse nodded. "I can make that work. But not seven in the morning."
+
+Percy groaned in mock disappointment. "What am I supposed to do with all this discipline?"
+
+"Save it for your homework," Silena said.
+
+Clarisse stood and held out a hand to help Percy up. He took it. She didn't let go until he was steady on his feet, though she immediately pretended she had only been checking whether he was still tired from the spar.
+
+They went inside together. Percy put his training notes in the shared cabinet, where his sisters could find the parts that belonged to the group. He kept his private notebook about Sally in the box Tyson had made for him. Different stories had different homes, even among people who loved one another.
+
+Silena hung the borrowed lyre in its case. Clarisse cleaned her spear and set it on the proper rack. Percy opened the window a little so the cabin would dry after their afternoon by the Sound. Their lives were still full of separate work, with a Thursday appointment they might need to move again if something more important came up.
+
+That didn't make the week less real. It meant they were going to keep choosing how to share their time, instead of relying on the idea that being siblings made every decision automatic.
+
 Above them, far out over the Sound, the sea kept time.
 
 ---
