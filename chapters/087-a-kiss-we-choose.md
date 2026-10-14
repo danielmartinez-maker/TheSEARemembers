@@ -118,6 +118,18 @@ Annabeth nodded. She asked Chiron to review it before the next storm drill, and 
 
 Percy was still shaken. The kiss had been real, the relief had been real, and their love had existed long before the storm. They were allowed to remember the moment tenderly without turning the dangerous part into something they hoped would happen again.
 
+Before he left the infirmary, Clarisse arrived with the list of campers who had been on the rope line. She wanted to know which gestures Percy and Annabeth proposed using in the next drill. Percy showed her the paper. She read it slowly, then pointed at the retreat signal.
+
+"That could be confused with the signal to tighten the line," she said.
+
+"Then we change it," Annabeth replied.
+
+Clarisse suggested using both arms for the full retreat and one for the line adjustment. Will checked that the signs were visible from behind, where the younger campers might be standing with their backs to the water.
+
+Chiron agreed to test the revised signals at the next supervised drill. He didn't declare the entire plan safe just because it looked good on paper. The rope crew would need practice, and anybody could report a problem.
+
+Percy accepted the correction. It meant the scary part of the storm could change the way they worked, not just become an embarrassing story told at the next campfire. Annabeth wrote Clarisse's name beside the alteration. Neither expected every future storm to obey their signals, but they could prepare to listen to one another better.
+
 When he rose to leave, Annabeth caught his hand.
 
 "Can we talk about the kiss later?" she asked.
