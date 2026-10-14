@@ -1,13 +1,11 @@
 ## Chapter 17: Lake Day
 
 
-The canoe lake smelled of mud, cut grass, and sunscreen. Percy stepped onto the dock, surprised by how little it reminded him of salt water.
-
-That was Percy's first thought when his bare feet hit the warm planks of the dock, and he immediately felt guilty for thinking it, because everyone else was cheering like the canoe lake was the best thing that had ever happened.
+The canoe lake smelled of mud, cut grass and sunscreen, nothing like the cold salt and metal Percy associated with Atlantis. He stepped onto the dock as the others cheered for a free day and caught himself checking the mooring line for the nearest canoe. The lake was familiar enough to call by name now; it still wasn't home, and Chiron had explicitly forbidden him to win today's race by calling a current. Percy wanted to see how far ordinary strokes could take him.
 
 It wasn't that it smelled *bad*. It smelled like — sun-warmed pine and sunscreen and cut grass and that sharp green algae smell around the edges where the water went shallow. It just didn't smell like home. Home smelled like cold salt and deep current and kelp forests and the iron tang that hung around the forges in Atlantis. Home smelled blue and far down.
 
-This lake smelled bright and shallow and *loud*.
+A loose canoe knocked against its post. Percy retied the wet rope before somebody slipped on it, remembering the lesson Silena had given him after the last delivery had ended up in the lake.
 
 "Okay, stop making that face," Clarisse said, elbowing him hard in the ribs. She was already in her swimsuit, hair pulled back in a knot, a towel slung over her shoulder like a cape. "You look like someone told you the lake personally offended you."
 
@@ -707,7 +705,7 @@ She gave him the orange slice. He ate it triumphantly while she erased the circl
 
 "Did we really play this when I was little?" he asked.
 
-"All the time," she said. "You used to demand a rematch whenever I won."
+"All the time," she said. "You used to demand a rematch whenever I won. Sometimes you hid the best shells under your towel so you could pretend you'd found them at the last minute." Clarisse sounded irritated by the old trick and pleased that he had asked rather than pretending to remember.
 
 "I haven't changed much."
 

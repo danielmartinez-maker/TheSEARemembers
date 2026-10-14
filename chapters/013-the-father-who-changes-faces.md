@@ -1,12 +1,12 @@
 ## Chapter 13: The Father Who Changes Faces
 
-Thalia knew her father was coming before anyone told her, because the sky went still in a way that wasn't natural.
+Thalia noticed that the clouds had stopped moving while she was trying to fix the stubborn latch on Cabin One's shutter. She'd already heard Chiron's messenger, so the motionless sky wasn't a surprise. It was a confirmation that her father could announce himself to every camper without first asking whether his daughters wanted to see him.
 
 It was a Tuesday morning in late winter, still months from the summer-solstice deadline Percy had warned them about, and Camp Half-Blood was doing its best impression of normal. The strawberry fields smelled like sun-warmed sugar. The lake glittered. Somewhere down by the cabins, the Apollo kids were tuning guitars badly enough that even the dryads were wincing.
 
 And overhead, the clouds had stopped moving.
 
-Not gathered. Not stormed. Just — stopped. Like someone had pressed a thumb to the blue and held it there.
+The tarp above the Hall's broken cornice still lifted in the breeze, yet every cloud overhead held its shape. Thalia put down the screwdriver. She remembered other visits: Zeus arriving in another stranger's face and asking her to behave as though no time had passed. A change in the weather had never counted as an apology.
 
 Thalia stood on the porch of Cabin One with her teeth clenched and her spear leaning against the railing, and thought, *Oh. It's you.*
 
@@ -50,7 +50,7 @@ Despite herself, Thalia laughed. It cracked something open in her ribs. She reac
 
 Thalia's throat went tight. Because that was the thing nobody else at camp understood. In this timeline, Thalia had raised Annabeth from the time Annabeth was four and Thalia was eight, two runaways hitching rides and sleeping under overpasses while their father's thunder rumbled far away and never quite came closer. Annabeth remembered being found on the road at seven by a Thalia who was her friend, not her sister. Thalia knew that only because Annabeth had told her. The failed ward had not given either of them the missing years back.
 
-There was one girl beside her now. Her sister. Thalia wanted to protect her without making every unfamiliar moment another test.
+Annabeth was sitting beside her, and Thalia wanted to protect her without treating every unfamiliar moment as evidence that she had lost the little sister she'd raised. Annabeth had already told her selected things about another life; hearing them wasn't the same as remembering them. Their father would use either girl's uncertainty against her if she let him, and Thalia still had to make room for Annabeth to choose her own response.
 
 Their father had been absent through most of the years Thalia remembered. His visits were brief, unpredictable, and never enough to make the years between them disappear. She didn't need another reason to be angry.
 
