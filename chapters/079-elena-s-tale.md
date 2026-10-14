@@ -202,6 +202,114 @@ Grover had been the one sent to collect her. He told that part with a glance at 
 
 “Aluminum,” Grover corrected, mock-offended, and Elena laughed — a real laugh, wet at the edges but real — and the tension broke just enough to breathe.
 
+“When I arrived at camp, the first thing I did was try to make a record of everything that happened to me,” Elena said. “I thought if there was a notebook for camp, no one could ever tell me I was wrong about what I had seen.”
+
+On her third day, Chiron asked her to help sort a box of old winter incident slips. They were ordinary reports about damaged fences, medical supplies and patrol routes. He gave her the blank forms first and asked her to practice copying the dates and locations without changing the wording.
+
+Elena finished in twenty minutes. She also made an index of which counselors had submitted each report, and noticed that one number was missing from the stack.
+
+“Where's thirteen?” she asked.
+
+Chiron checked the bundle. “That one is in a separate file.”
+
+“Why?”
+
+“Because it concerns a camper's private medical care.”
+
+“But I'm supposed to make an index of all the incidents.”
+
+“You're making an index of the records I've authorized you to handle.”
+
+She felt insulted. Her mother had trusted her to remember medicine and appointments for years, and now the centaur who ran a camp for demigods was treating her like someone who couldn't be trusted with a piece of paper.
+
+“I don't need to read the whole thing,” she argued. “Just the date and the camper's name.”
+
+“Why would you need the name?”
+
+“So the index is complete.”
+
+“That isn't a purpose. That's a shape.”
+
+Elena had never heard a teacher tell her that a complete list could be wrong. She returned to the desk and finished the entries she had been given, making a small star beside the missing number so she wouldn't forget it.
+
+Later that afternoon she saw a young camper leave the infirmary with a bandage under his sleeve. She recognized the date on the blank line. For a moment she thought she'd solved the mystery of incident thirteen. She wrote the boy's name in her private notebook, then stopped.
+
+She hadn't seen the report. She had seen a bandage.
+
+There were dozens of reasons a camper might go to the infirmary. She had made an inference and was about to file it as fact.
+
+She took the notebook back to Chiron.
+
+“I think I did something wrong,” she said.
+
+Chiron set aside his papers. “Tell me what you observed first.”
+
+She described the boy leaving the infirmary and the missing index number.
+
+“And what did you conclude?”
+
+“That he must be the subject of the report.”
+
+“Can you establish that?”
+
+“No.”
+
+“Then don't record it as fact.”
+
+Elena looked at the penciled name. “Should I cross it out?”
+
+“Ask yourself whether you need to keep it at all.”
+
+She erased it. The page retained a gray smudge, which annoyed her. Chiron told her an honest correction was better than an invisible mistake she might repeat later.
+
+The following day he invited her to help build an index for the tool shed. Every entry involved an object rather than another person's body. The inventory had dates, borrowers, repairs and missing pieces. It made Elena feel useful without asking her to know anything she'd not been given permission to learn.
+
+One Thursday, a shield went missing.
+
+A boy from the Hermes cabin was accused of taking it. He had been seen near the shed, and another camper reported hearing him talk about needing a shield for practice. Elena checked the inventory. The last recorded borrower was an Apollo camper who had signed it out for a demonstration two days earlier. There was no return signature.
+
+“Then she still has it,” Elena said.
+
+“Maybe,” Chiron replied. “We need to ask.”
+
+They did. The Apollo camper said she'd returned the shield to the rack, but had forgotten to sign it in. The Hermes boy said he had been near the shed because he'd needed a spare strap, not a shield. It turned out that one of the younger counselors had moved the shield to the forge to get its rim repaired. He hadn't made an entry either.
+
+Nobody had stolen anything. Three people had failed to record different parts of the same routine.
+
+Elena proposed a new log that included not only who borrowed equipment but who took responsibility for repairs and where the item was currently stored. She added a small box marked *verified with*, because she'd learned that a check mark didn't mean anything unless somebody could say how they knew.
+
+Chiron let her help design it.
+
+That was the first camp record Elena had been proud of for reasons other than the number of lines she'd filled.
+
+“It didn't save anybody's life,” she told the fire. “It saved a boy from getting blamed for something he hadn't done, and it saved everyone about an hour of arguing. It was the first time I realized an index could help people instead of simply being complete.”
+
+Clarisse made a small noise that might have been appreciation. “Good system.”
+
+“You used it once,” Elena said. “You thought someone had borrowed your spare helmet.”
+
+“Someone *had* borrowed my spare helmet.”
+
+“It was in the forge because the chin strap was loose.”
+
+“Which somebody should have told me.”
+
+“Exactly.”
+
+Silena laughed. “She's got you there.”
+
+Elena felt the familiar satisfaction of a problem described accurately, but she also remembered the boy with the bandage, whose name she hadn't needed to know.
+
+“After that I started leaving spaces,” she said. “Unknown. Not yet confirmed. Private. I've never liked blank spaces, but sometimes they're the only honest thing to put on a page.”
+
+Percy looked at her notebook. He thought of his own past, of letters written to a mother who remembered years he didn't. There were things he wanted to know and couldn't verify, even from people who loved him. The idea of recording *unknown* as an answer seemed almost unbearable. It also seemed better than pretending he remembered the wrong childhood.
+
+“Does Chiron still use the inventory?” he asked.
+
+“Yes. Though the current version belongs to the counselors. I only revise it when they ask.”
+
+She seemed pleased by that. Percy had expected someone who loved records to want control of every file. Elena was discovering that a useful record could belong to someone else and still matter.
+
 ---
 
 “My abuela brings my mom to visit when she can,” Elena said. “Not often. It’s hard to travel. My mom — last time, she didn’t know me. She thought I was a nice volunteer. She asked me to read to her. So I did. I read her own baby book back to her. About the remote in the laundry basket. About *luz.*”
