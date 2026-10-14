@@ -1,6 +1,6 @@
 # Four-phase manuscript improvement: verified execution record
 
-**Local date:** October 13, 2026 (Monterrey; GitHub run timestamps may show October 14 UTC)  
+**Local date:** October 14, 2026 (Monterrey; GitHub run timestamps may show October 14 UTC)
 **Repository:** `danielmartinez-maker/TheSEARemembers`  
 **Source base:** `main` at `63ae90bb6aad31753fcabfd057a1771359594dca` contains the previous quality-pass merge (#100). The historical `rewrite/chapters-10k-quality-pass` branch is one commit behind main, with no unmerged commits.  
 **This change branch:** `audit/four-phase-continuity-2026-10-13`, started from the open draft PR #102 head `1a3d83d528973e94c6d6c0e1a91ef606b45c71db` to preserve its unmerged continuity fixes. **Do not directly merge the old quality-pass branch.**  
@@ -11,11 +11,12 @@
 **PARTIAL, NOT 193/193 SEMANTICALLY CERTIFIED.**
 
 - Inherits the explicit witnessed-knowledge and relationship state ledger from PR #102: [Character memory ledger](../../continuity/CHARACTER_MEMORY_LEDGER.md) and [handoff schema](../../continuity/CHAPTER_MEMORY_HANDOFF.md).
+- Added [chapter ledger 001–048](../../continuity/chapter-ledgers/001-048.md): Chapters 001–012 are full-scene verified; 013–048 remain explicit TODO placeholders. Added [chapter ledger 049–060](../../continuity/chapter-ledgers/049-060.md), which records its partial-reading limits and does **not** certify every scene in that range. See also the new [Chapter 118 handoff](../../continuity/ch118.yaml).
 - Added source-checked details from Chapters 011, 012, 066, 067, 068, 112, 132 and 133. Chapter 011 recalls Amphitrite's bag preparation, Chapter 012 tells Thalia limited earlier-life information (secondhand to Thalia, never her own future memory), Chapter 112 distinguishes writing/sending a letter from Amphitrite's unverified receipt. Chapter 012 also distinguishes Bianca hearing about a dream from witnessing a remembered Atlantean childhood scene.
 - The evidence index generator now reads **all 193 chapter files** and writes [193 provisional chapter source locators](../../continuity/evidence/generated-ch001-193.md) and [structured JSON](../../continuity/evidence/generated-ch001-193.json). Every entry explicitly marks witnesses, relationships, personal knowledge, chronology and secrets as **UNVERIFIED** until a human scene-level review.
 - Unreviewed appearances or dialogue cues are **not** promoted into a character's memory. The index is a queue, not a substitute for reconstructing each character's actual experiences.
 
-**Additional source-confirmed handoffs:** Chapters [066](../../continuity/ch066.yaml), [067](../../continuity/ch067.yaml), [068](../../continuity/ch068.yaml), [132](../../continuity/ch132.yaml) and [133](../../continuity/ch133.yaml) now have scene-scoped, witness-specific handoffs. Ch. 067's private reciprocal Atlantis/Olympus promise is **Percy/Annabeth-only** knowledge, not a confirmed itinerary. Ch. 068 distinguishes Bryce's public apology from Annabeth's own forgiveness and the dangerous assumption that Percy can act as an electrical ground. Ch. 132 separates an actual Poseidon invitation from a still-undelivered note addressed to Triton.
+**Additional source-confirmed handoffs:** Chapters [066](../../continuity/ch066.yaml), [067](../../continuity/ch067.yaml), [068](../../continuity/ch068.yaml), [069](../handoffs/ch069-silenas-song.md), [118](../../continuity/ch118.yaml), [132](../../continuity/ch132.yaml) and [133](../../continuity/ch133.yaml) now have scene-scoped handoffs. Ch. 067's private reciprocal Atlantis/Olympus promise is **Percy/Annabeth-only** knowledge, not a confirmed itinerary. Ch. 068 distinguishes Bryce's public apology from Annabeth's own forgiveness and the dangerous assumption that Percy can act as an electrical ground. Ch. 118 leaves the Atlantis trip unbooked, the map unsigned, and Amphitrite uninformed of Percy's private memory predicament. Ch. 132 separates an actual Poseidon invitation from a still-undelivered note addressed to Triton.
 
 **Still required:** full scene-by-scene review of all 193 chapters, verified per-person event/knowledge transitions, first-vs-secondhand records, and resolved relationship/departure/prop/injury handoffs.
 
@@ -33,35 +34,41 @@ This pass adds **four exact localized prose replacements**:
 
 Added regression guards for these two files, expanding targeted chapter checks from 9 to 11. No unnamed scene was mass-rewritten; all four replacements matched their original source span exactly once.
 
+The bounded age/chronology review is recorded in [the source-cited age report](age-chronology-pass-2026-10-13.md). It supports the Chapter 028 age repair, verifies several earlier reported age candidates as non-reproducing on current source, and leaves exact birthdays and unreviewed chronology explicitly unresolved.
+
+**Chapter 126/127 secrecy re-review:** the Chapter 126 training-stage scene still had Percy tell Amphitrite “I wish I remembered,” followed by her “I know,” directly disclosing that he cannot recall an altered-childhood incident. The exchange is now a discussion of the repair and his determination as a child; the scene preserves the recollection as Amphitrite's and the ledger as the record. Percy tells Triton and Tyson about specific missing childhood memories in separate conversations, but Amphitrite is absent. Chapter 127's “we can learn who you are now” remains a present-focused reassurance, with no stated awareness of Percy's private memory gap. The regression guard now checks that the direct disclosure does not return.
+
+**Additional continuation corrections on the PR #103 branch:** Chapter 149 no longer attributes Thalia's erased tree/Hunter history to Clarisse's memories. Chapter 176 dates the storm to Wednesday; Chapter 177's Tuesday postmark now correctly describes the day before it. The October 23 bonus scenes now place Rhys and Thalia's relationship at a little over two weeks since his announced Friday return in Chapter 175, and label Thalia's next-day visit with Chiron as a follow-up to the Sunday examination in Chapter 193.
+
 **Known boundary:** Percy, Annabeth alone retain previous-life first-person memories. Thalia may remember a *report* Percy told her in Ch. 012 but never experiences that life herself. Amphitrite is not told the secret. Poseidon siblings Percy, Clarisse, Silena and Zeus/Grace siblings Thalia, Annabeth, Jason remain locked. No broader whole-novel contradiction-free claim is supported.
 
 **Still required:** semantic inspection of every character-return scene, relationship carry-over, age transition, all other potential contradictions and their downstream chapters, and independent review of the inherited PR #102 prose changes.
 
 ## Phase 3: Expand all sub-10,000 full chapters
 
-**PARTIAL: Chapters 066 and 133 expanded to 10,000+ body words; 53 chapters still below threshold. Independent prose signoff remains open.**
+**PARTIAL: Chapters 066, 067, 068, 069, 118, 132 and 133 expanded to 10,000+ body words; 48 chapters still below threshold on the current local snapshot. Independent prose signoff remains open.**
 
-New code reran a count of each of 193 numbered Markdown chapters, excluding Markdown headings, scene separators and comments from whitespace-separated narrative body words. **140 passed** the 10,000-word floor; **53 remain short**; the current combined deficit is **264,551 actual body words**. The earlier baseline was 138 passing / 55 short / 267,533 missing.
+The latest local count covers all 193 numbered Markdown chapters, excluding headings, scene separators and comments from whitespace-separated narrative body words. **145 pass** the 10,000-word floor; **48 remain short**; the combined deficit is **243,056 actual body words**. A new GitHub Actions run is still pending for this local snapshot. The earlier pre-expansion baseline was 138 passing / 55 short / 267,533 missing.
 
 | Range | Short chapters | Words needed to 10,000 |
 |---|---:|---:|
-| 066–090 | 24 | 96,342 |
+| 066–090 | 21 | 83,630 |
 | 091–110 | 20 | 119,269 |
-| 114–120 | 7 | 40,869 |
-| 131–133 | 2 | 8,071 |
-| **Total** | **53** | **264,551** |
+| 114–120 | 6 | 35,790 |
+| 131–133 | 1 | 4,367 |
+| **Total** | **48** | **243,056** |
 
-**Verified continuation edits:** [Chapter 066](../../chapters/066-jason-s-letter.md) increased from **8,314 to 10,572 body words** after an added shore-safety signaling scene grounded in Chapters 065–067 and Jason's correspondence. [Chapter 133](../../chapters/133-annabeth-s-birthday.md) increased from **8,704 to 10,656** after a new pavilion-preparation scene that carries forward Annabeth's boundaries and the later map misunderstanding. New prose added **4,210 body words** in total, and the minimum-length deficit declined by **2,982** words. Per-character handoffs: [066](../../continuity/ch066.yaml) and [133](../../continuity/ch133.yaml).
+**Verified continuation edits:** [Chapter 066](../../chapters/066-jason-s-letter.md) increased from **8,314 to 10,572 body words** after a shore-safety signaling scene; [Chapter 067](../../chapters/067-fishing.md) from **5,758 to 10,292** after dock safety, harvest choices and a supervised lesson; [Chapter 068](../../chapters/068-the-storm-small.md) from **5,529 to 10,328** after a consent-based follow-up scene; [Chapter 069](../../chapters/069-silena-s-song.md) from **6,001 to 10,118** after Silena chooses how to sing at a public event; [Chapter 118](../../chapters/118-a-message-from-amphitrite.md) from **4,921 to 10,464** after reply drafting, a security-aware camp portrait map and a real coverage check; [Chapter 132](../../chapters/132-a-month-beneath-the-sea.md) from **6,296 to 10,243**; and [Chapter 133](../../chapters/133-annabeth-s-birthday.md) from **8,704 to 10,656**. These seven expansions added **27,150 net body words**. Current local QA finds **145 length-passing chapters, 48 short and 243,056 words still needed** after Chapters 118 and 069 but before the next expansion batches are merged. Per-chapter handoffs record the narrative changes and open questions.
 
-See [the original 55-chapter tracker, now 53 still short, with 12 dependency-safe writing packets](../handoffs/55-short-chapters-execution-queue.md). A packet is **not** a drafted chapter. The remaining 264,551 missing words require actual scenes with purpose and consequences, not indiscriminate padding.
+See [the original expansion tracker and writing queue](../handoffs/55-short-chapters-execution-queue.md). A packet is **not** a drafted chapter. The remaining 243,056 missing words require actual scenes with purpose and consequences, not indiscriminate padding.
 
 **Still required:** expand the other 53 short chapters, inspect their adjacent scenes, recount and QA every revision, and attach its own continuity handoff. Chapters 066 and 133 also warrant independent prose-level and developmental review.
 
 ## Phase 4: Whole-manuscript QA and handoffs
 
-**MECHANICAL QA COMPLETED; SEMANTIC/STYLE REVIEW INCOMPLETE.**
+**MECHANICAL QA PASSES ON THE CURRENT LOCAL SNAPSHOT; SEMANTIC/STYLE REVIEW INCOMPLETE.**
 
-The continuation audit [run 38508276354](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508276354) **passed** after both expansion edits. It screened **193/193** numbered files and **1,664,235** overlapping 300-body-word windows at **every offset**, with rolling-hash candidate selection and exact token confirmation. **Zero cross-chapter 300-word matches**, **zero missing numbered chapters** and **zero structural/UTF-8 errors** were found. The recount yielded **140 length-passing chapters**, **53 short** and **264,551 body words still needed**. The **14 source-anchored character-memory regression checks** also passed on the latest CI [run 38508604807](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508604807). The earlier initial run [38505151582](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38505151582) recorded the historical 138/55 baseline, and must not be cited as current status.
+The latest local full-manuscript run screened **193/193** numbered files and **1,687,246** overlapping 300-body-word windows at every offset, with rolling-hash candidates confirmed by exact token comparison. It found **zero exact cross-chapter matches**, **zero missing numbered chapters**, **145 length passes**, **48 short chapters** and **243,056 body words still needed**. A second pass across all **196** chapter and bonus Markdown files checked **1,837,798** 300-word windows (**1,896,103** body words) and also found zero exact matches. Chapter-order/structure/UTF-8 checks reported **193 indexed and 193 numbered files, in order**, with no errors. The **16 source-anchored character-memory regression checks** passed. These are local snapshot checks; a new GitHub Actions run is still needed after the branch is pushed. Earlier Actions runs [38508276354](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508276354) and [38508604807](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508604807) apply to an earlier state, not these numbers.
 
 The added scenes were read against the preceding chapter closing scenes and next chapter openings, with character-specific sidecar handoffs. Neither these checks nor the generated cue index certifies a complete novel-wide semantic reading.
 
@@ -71,8 +78,12 @@ The added scenes were read against the preceding chapter closing scenes and next
 - [Full-manuscript QA script](../../scripts/full_manuscript_qa.py)
 - [193-chapter evidence index script](../../scripts/build_memory_evidence_index.py)
 - [Source-anchored memory regression script](../../scripts/check_character_memory.py)
+- [Chapter structure and index audit](../../scripts/audit_chapter_structure.py)
+- [Bonus-inclusive exact-window audit](../../scripts/audit_duplicate_windows.py)
 - [Generated JSON word counts and flagged cues](generated-full-qa.json)
 - [Generated readable word counts](generated-full-qa.md)
+- [Generated chapter structure report](generated-chapter-structure.json)
+- [Generated all-Markdown 300-word report](generated-all-text-300-word-qa.json)
 - [Generated per-chapter evidence queue](../../continuity/evidence/generated-ch001-193.md)
 - [GitHub Actions full-manuscript workflow](../../.github/workflows/full-manuscript-audit.yml)
 

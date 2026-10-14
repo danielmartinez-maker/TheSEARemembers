@@ -21,17 +21,16 @@ When two sources disagree, use this order:
 
 1. **The user's explicit decisions**, with later direct changes superseding earlier instructions on the same point.
 2. **Locked canon in this bible**, insofar as it accurately records those decisions. If it conflicts with a direct user instruction, flag and update it.
-3. **The user's designated canonical chapter sources** in their `TheSeaRemembers/` working directory. Preserve their text unless a revision is authorized.
-4. **The GitHub chapter-by-chapter import**, a versioned editing snapshot that can be reconciled with those canonical sources before it is promoted as authoritative.
-5. **Compiled Markdown, DOCX, and PDF reader editions**, which are outputs, not sources of truth; historical PDFs may be outdated.
+3. **The chapter files in `danielmartinez-maker/TheSEARemembers` on GitHub**, which the user explicitly designated as the source for the 2026-10-13 manuscript pass. Use the pinned `main` commit as the comparison baseline and keep proposed edits on the named review branch.
+4. **Compiled Markdown, DOCX, and PDF reader editions**, which are outputs, not sources of truth; historical editions may be outdated.
 
 **Never resolve a contradiction by silently changing parentage, inventing a memory rule, creating a new time-rewrite event, or treating assistant improvisation as an approved plot decision.** Log the discrepancy and make the smallest coherent proposed fix.
 
-### 1.2 Working files, as of 2026-10-12
+### 1.2 Working files, as of 2026-10-14
 
-- **GitHub:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers). It contains numbered Markdown files for **chapters 1–193** and **two bonus interludes**, plus an index, manifest, and assembly script. The import was verified against the uploaded compiled edition, *TheSeaRemembers_Full.md*.
+- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. It contains numbered Markdown files for **chapters 1–193** and **two bonus interludes**, plus an index, manifest, and assembly script.
 - **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/193-the-heel.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
-- **Canonical-copy caveat:** The user's earlier choice made their `TheSeaRemembers/` chapter copies canonical. The GitHub import came from a compiled reader edition. A byte-for-byte match to that compilation does **not** establish that every imported chapter includes every later correction to the designated working originals. Reconcile the two before changing this authority decision.
+- **Authority update:** The user's 2026-10-13 direction to work from the latest GitHub repository supersedes the earlier local-copy precedence for this pass. Historical/deprecated local manuscript copies were not used or reconciled; do not treat them as competing authorities unless the user explicitly re-designates one.
 - **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through **165–193** without a new declared arc boundary. Treat chapters 140 onward as one continuous developing stretch until the user sets a new boundary.
 - **Exports:** Existing PDF/DOCX volumes are historical until rebuilt from selected, corrected sources. Preserve old versions.
 
@@ -302,9 +301,9 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 | Annabeth is called Jackson or related to Percy as a sibling | Annabeth Grace, Zeus daughter, Percy's partner | **Audit** and correct only proven mistakes |
 | Sally's death appears in Percy's remembered original childhood | Sally died at age two **only in altered history** | **Audit** recalled memories and grief scenes |
 | Ages, seasons, returning visitors, gifts, injuries, and powers jump | Maintain a dated continuity ledger | **Audit** transitions and new drafts |
-| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Exact 300-word cross-chapter pass completed** on the 2026-10-13 audit branch: 1,660,025 windows, 0 matches. Semantic repetition and scene-level continuity remain unverified |
-| Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **0 short in chapters 140–164** in the 2026-10-13 verified all-chapter mechanical recount; 55 chapters elsewhere remain short, with 267,533 total missing body words |
-| Older PDFs or root chapter files differ from corrected sources | Respect canonical-copy decision and rebuild exports | **Reconciliation needed** before declaring files identical |
+| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Local PR #103 snapshot, Oct. 14:** 1,687,246 cross-chapter 300-word windows, 0 exact matches. Semantic repetition and whole-novel scene continuity remain unverified |
+| Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **0 short in chapters 140–164** in the latest local all-chapter recount; 48 chapters elsewhere remain short, with 243,056 total missing body words |
+| Older PDFs or root chapter files differ from corrected sources | Respect the GitHub source selected for this pass and rebuild exports from the reviewed branch | **Not reconciled**; do not claim historical editions match this source |
 
 **Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Chapter 20 has now received scoped Cabin Three/identity clarification on the 2026-10-13 audit branch; Chapter 28's erroneous fifteen-year-old Thalia and incorrect 'Chase' address were also corrected. The old PDF's exact text still has not been reconciled.
 

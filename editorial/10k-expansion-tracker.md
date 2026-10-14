@@ -4,28 +4,30 @@
 **Working source:** `rewrite/chapters-10k-quality-pass` branched from `edit/chapters-001-036-unified` on 2026-10-12.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation (2026-10-13)
+## Latest current-branch continuation (2026-10-14 local snapshot)
 
-**Authoritative source:** `audit/four-phase-continuity-2026-10-13`, verified by [full manuscript GitHub Actions run 38511481429](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38511481429). Older figures below describe historical editing branches or passes and are not the live totals.
+**Source:** `audit/four-phase-continuity-2026-10-13`, checked locally after the Chapter 118 and Chapter 069 expansions. This is not yet a GitHub Actions result; older figures below describe historical editing branches or passes.
 
 | Scope | Current verified result |
 |---|---:|
 | Numbered narrative chapters audited | **193** |
-| At or above 10,000 actual body words | **143** |
-| Below 10,000 actual body words | **50** |
-| Required additional body words to clear minimum | **252,134** |
-| Exact cross-chapter 300-word duplicates | **0 across 1,677,515 windows** |
+| At or above 10,000 actual body words | **145** |
+| Below 10,000 actual body words | **48** |
+| Required additional body words to clear minimum | **243,056** |
+| Exact cross-chapter 300-word duplicates | **0 across 1,687,246 windows** |
 | Source-anchored memory regression checks | **16 passing** |
 
-**Five chapter expansion results since the 138/55 baseline**:
+**Seven chapter expansion results since the 138/55 baseline**:
 
 - [066, Jason's Letter](../chapters/066-jason-s-letter.md): **8,314 → 10,572** words; [memory handoff](../continuity/ch066.yaml).
 - [067, Fishing](../chapters/067-fishing.md): **5,758 → 10,292** words; [memory handoff](../continuity/ch067.yaml).
 - [068, The Storm (Small)](../chapters/068-the-storm-small.md): **5,529 → 10,328** words; [memory handoff](../continuity/ch068.yaml).
+- [069, Silena's Song](../chapters/069-silena-s-song.md): **6,001 → 10,118** words; [scene handoff](handoffs/ch069-silenas-song.md).
+- [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **4,921 → 10,464** words; [memory handoff](../continuity/ch118.yaml).
 - [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
 - [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,656** words; [memory handoff](../continuity/ch133.yaml).
 
-These changes added **17,490 net body words** and eliminated **15,399 words of previously required shortfall**; over-threshold margins explain the difference. The [50-chapter remaining expansion queue](handoffs/55-short-chapters-execution-queue.md) starts in manuscript order at **069**, and also includes **131**. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
+These changes added **27,150 net body words** and eliminated **21,495 words of previously required shortfall**; over-threshold margins explain the difference. The [remaining expansion queue](handoffs/55-short-chapters-execution-queue.md) now starts in manuscript order at **070**, and also includes **131**. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
 
 ## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
 
