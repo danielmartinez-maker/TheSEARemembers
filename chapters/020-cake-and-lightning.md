@@ -58,7 +58,7 @@ Ella dropped the ribbon on Percy's head. "Percy says yes. Ella heard him. Ella i
 
 "Fine!" Percy threw up his hands, ribbon fluttering off. "Fine. I'm in. What's the plan?"
 
-Silena's whole face lit up, and suddenly Percy understood why people followed Aphrodite kids into battle even when it was a terrible idea. She pulled a folded piece of parchment out of her pocket, covered in pink ink and little stars.
+Silena's whole face lit up, and suddenly Percy understood why people followed Silena into battle even when it was a terrible idea. She pulled a folded piece of parchment out of her pocket, covered in pink ink and little stars.
 
 "Operation: Cake and Lightning," she announced. "We have seventy-two hours."
 
@@ -70,7 +70,7 @@ This was a known fact, like the sky is blue and Ares kids win capture the flag w
 
 Clarisse did not do streamers.
 
-And yet there she was, two days before Thalia's belated party, lying on her stomach in the Ares cabin's borrowed craft corner with Silena Beauregard, surrounded by enough blue and silver tissue paper to stuff a pegasus.
+And yet there she was, two days before Thalia's belated party, lying on her stomach at Cabin Three's cleared-off craft table with Silena Beauregard, surrounded by enough blue and silver tissue paper to stuff a pegasus.
 
 "No," Clarisse said flatly, holding up Silena's sketch. "Absolutely not."
 
