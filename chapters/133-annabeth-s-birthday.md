@@ -579,6 +579,254 @@ Thalia took her hand as they went toward the pavilion. They didn't pretend the g
 
 ---
 
+When Annabeth came out of the forge, she found Nico waiting on the steps with a coil of blue cord over one shoulder.
+
+That was alarming enough. He also had a ruler.
+
+"Before you say anything," he told her, "I didn't break it."
+
+"What?"
+
+"The pavilion."
+
+Annabeth stopped walking.
+
+Nico looked at the ruler. "Well, not the whole pavilion."
+
+She could see the dining pavilion from the forge path, its roof showing through the trees. Two campers were carrying a ladder past the entrance. Someone had propped a stack of wooden panels against one of the columns.
+
+"What happened?"
+
+"Silena wanted to hang the paper stars. Clarisse said the cord was too low. Then they tried the other side, but a chair tipped when somebody climbed onto it, and Clarisse told everybody to stop touching everything until someone who knew how a chair worked came along."
+
+"Did anybody get hurt?"
+
+"No. There was a lot of shouting."
+
+"That sounds more like Clarisse than structural damage."
+
+Nico seemed relieved she understood. He held out the ruler. "I thought you might know where the string should go."
+
+Annabeth looked at the case in her hand. Zeus's silver invention had changed shape twice on the way out of the forge. Thalia had tucked the case into the pouch she'd sewn, leaving the ordinary compass in its other pocket. Annabeth had thought she might get half an hour alone before the party, enough to sit on her bunk and decide whether she wanted to keep the gift where she could see it.
+
+Instead, everyone wanted a measurement.
+
+She could measure a pavilion. She had already measured it twice when Chiron asked about the benches. But if she took the ruler, she knew what would happen. Nico would hand her the cord, somebody else would find a knot she could untie, and the next hour would turn into work done for a celebration she was supposed to attend.
+
+"Who put you in charge?" she asked.
+
+"NOBODY," Nico said, louder than the question deserved. "I mean, Silena asked me to get the spare hooks. I brought the ruler because the hooks are up high. I'm not in charge of the entire thing."
+
+"Good. Being in charge of the entire thing is an awful job."
+
+"Chiron does it."
+
+"He has four legs and a lot of practice."
+
+Nico grinned. Then his expression changed.
+
+"Is it a bad time?"
+
+Annabeth considered telling him yes. She was allowed to want an afternoon that didn't require a plan. She also remembered the wobbling chair he had mentioned. A problem that could hurt somebody wouldn't stop being a problem because it was her birthday.
+
+"Show me what happened," she said. "I can look. I'm not hanging anything."
+
+At the pavilion, the paper stars lay in a careful row along one table. Ella had folded each from silver paper and marked the backs with tiny letters. Grover was holding a box of hooks. Silena stood beneath the rafters, working an increasingly elaborate knot in the end of a cord. Clarisse had one hand on the ladder and the other on a chair she'd turned upside down to examine a loose leg.
+
+"Nobody is standing on this," Clarisse announced as Annabeth approached. "It wobbles."
+
+"That's why people use ladders," Annabeth said.
+
+"Apparently the ladder was being used as a coat rack."
+
+Silena looked down from her knot. "It was a temporary coat rack."
+
+"There were coats on every rung."
+
+"They needed to be somewhere."
+
+Clarisse pointed at the chair. "So did his face when he fell."
+
+"I didn't fall," said an indignant Hermes camper from across the room. "I jumped."
+
+"After losing your balance."
+
+"That still counts as jumping."
+
+Annabeth walked around the pavilion without touching any of the decorations. The problem wasn't the cord alone. Silena wanted the stars to hang over the tables, but the only convenient tie points were at the outer columns. Pulled tight between them, the line crossed the walking route from the kitchen. Loose enough to sag, it would catch anyone taller than Grover.
+
+"How many people are bringing dishes through there?" she asked.
+
+"About six," Silena answered. "Maybe eight if the younger campers decide to help."
+
+"Then don't run anything through their path."
+
+"We could put the stars over the middle."
+
+"Without a proper fixing point they'll end up in the cake."
+
+"Nobody wants that," Grover said.
+
+Ella raised one wing. "Ella wants cake with stars. Not paper stars. Bad texture."
+
+Clarisse rested the broken chair on its side. "We put the whole lot against the wall and call it a day."
+
+Silena turned on her. "You asked me to make it look special."
+
+"I asked you not to decapitate the kitchen staff with ribbon."
+
+"That is not what you said."
+
+"It's what I meant."
+
+Annabeth knew the shape of the argument. Clarisse was worried someone would get hurt and would rather sound angry than admit she was frightened by something as undignified as a chair. Silena had spent two evenings making decorations for people she loved, and Clarisse's solution made those evenings sound disposable.
+
+"You both have a point," Annabeth said.
+
+They stared at her.
+
+"Don't say it like that," Clarisse warned. "It makes me sound reasonable."
+
+"You're trying to prevent an accident. Silena's trying not to throw away the work. We can do both, but I need someone to answer a question instead of arguing about whose suggestion is worse."
+
+Nico held up his ruler before anyone asked.
+
+Annabeth pointed to the two shorter beams just inside the columns. "Are those original?"
+
+Silena shrugged. Grover went to fetch the maintenance ledger. He came back with a sketch of the pavilion supports Chiron had made after a repair last spring. One beam had been replaced; the other had only received a new brace. Annabeth checked the drawing against the actual timber.
+
+"These can hold a lightweight line between them," she said. "But we have to keep the decorations outside the kitchen route. Shorter cord. Fewer stars. Use proper hooks, and get the ladder cleared."
+
+Silena counted the stars. "There are twenty-eight."
+
+"Use fourteen," Nico suggested. "One for every year."
+
+That got Silena's attention.
+
+"Fourteen," she repeated. "I could do that."
+
+"Ella made thirty," Ella said. "Two extra in case mistakes. Ella plans ahead."
+
+"I know you do," Nico told her. "Could the other ones go on the tables?"
+
+"They could. Flat stars don't fall on heads."
+
+Silena laid half the decorations on the table and began sorting them by size. Clarisse fetched a bucket of tools from the storage room. There were enough useful tasks that Annabeth's hands were suddenly unnecessary.
+
+This should have pleased her immediately. Instead she felt a small, irrational annoyance. She knew how to install the hooks. She would have been faster at it than the Hermes boy now standing beside Clarisse with a screwdriver.
+
+Thalia appeared in the doorway, carrying a crate of cups.
+
+"You're working," she said to Annabeth.
+
+"I'm consulting."
+
+"That sounds like working with fewer steps."
+
+"Nobody else looked at the load path."
+
+Thalia set the cups down. "Have you eaten anything since breakfast?"
+
+"Yes."
+
+"Did it come wrapped in paper and have the word biscuit on it?"
+
+Annabeth said nothing.
+
+"Thought so."
+
+She took the ruler from Nico, not from Annabeth, and inspected the position they'd marked on the beam. "We can finish. You can tell us if the arrangement makes sense when it's up."
+
+"If I don't watch, Clarisse is going to put the hook through the brace."
+
+Clarisse looked offended. "I'm standing right here."
+
+"I know."
+
+"And I can tell the difference between a brace and a beam."
+
+"Then show Nico."
+
+Clarisse gave her a long stare. She seemed about to argue, but then she moved to the ladder and pointed out where the wood was thickest. Nico listened with the furious concentration he usually reserved for Mythomagic.
+
+"One pilot hole," Clarisse said. "Small. Not a crater. You strip it, we start again."
+
+"I know how a screwdriver works."
+
+"Then demonstrate."
+
+Annabeth watched Nico take his time. He had to adjust his grip once. Clarisse didn't take the tool away. When the hook was seated, he tugged it gently, checked the angle against Annabeth's pencil mark, then stepped down and looked at her.
+
+"All right?"
+
+She could find three things to improve. The hook was a fraction to the left of the mark, the cord would need a shorter knot, and the ladder should have been steadied from the other side. None of those meant Nico had failed.
+
+"Try hanging one star first," she said. "Then check that it doesn't swing into the serving path."
+
+Silena handed him a silver star. He fastened it to the cord and stepped away. The point of the star turned slowly in the breeze, clear of the doorway and the tables beneath.
+
+"Good," Annabeth said.
+
+Nico beamed.
+
+Thalia had been watching the entire exchange. She didn't say anything about Annabeth surrendering control. That restraint was probably harder for her than holding a ladder.
+
+The Hermes camper carried the suspect chair toward the storage shed, with instructions to tag it for repair rather than put it back with the others. Ella kept a count as they hung the stars. She corrected Grover twice when he called a star a snowflake.
+
+"They're different shapes," Grover protested.
+
+"Different words," Ella answered. "Words matter."
+
+By the time the final knot was tied, the pavilion was ready for the next shift of preparations. The line of stars moved well above everyone's heads. The working aisle remained clear. Nothing had fallen on anybody.
+
+Annabeth looked toward the kitchen entrance. "One more thing. Don't display any of my drawings unless you ask me first."
+
+Silena paused. "We weren't planning to."
+
+"I know. I just want to say it now. Some are finished. Some are working sketches, and a working sketch can be mistaken for a promise about where people are allowed to go."
+
+"Understood," Silena said. "We'll ask."
+
+Thalia nodded as well, but she was already lifting the crate of cups again. Annabeth couldn't tell whether she'd heard every word. There were still too many people moving around them.
+
+Nico handed back the ruler. "So, you're not going to inspect every hook?"
+
+"Not today."
+
+"What about tomorrow?"
+
+"Tomorrow I might tell you how to inspect them yourself."
+
+"That sounds like a threat."
+
+"It's a very serious threat."
+
+She returned the ruler to the toolbox rather than slipping it into her own pouch. The silver case rested against her side, and for a moment she wondered whether the gift inside had become a ruler again. She let it remain shut.
+
+Silena pressed a small piece of bread and cheese into her hand.
+
+"Eat that," she said. "And go away until the party."
+
+"I could help move the benches."
+
+"No," said Clarisse, Thalia and Silena together.
+
+Annabeth took a bite of the bread. The cheese was sharp; she hadn't realized how hungry she was.
+
+"Fine," she said. "But if one of those stars lands in my cake, I'm keeping it as evidence."
+
+"You can't keep evidence without filing it," Nico told her.
+
+"I'll make an exception."
+
+She left them arguing about whether paper stars should count as decorations or potential projectiles. Behind her, Clarisse told the Hermes camper to stop using the good screwdriver to pry open a paint tin. Silena asked Ella to choose which fourteen stars would go overhead. Nico began explaining to Grover why the load had to be shared between two hooks.
+
+Annabeth could have stayed and corrected all of them. She walked toward Cabin One instead.
+
+It was an odd sort of birthday gift, leaving work in other people's hands and knowing they had actually listened.
+
+---
+
 The last hour before the party belonged to people who had decided Annabeth should not have to work on her own birthday. Annabeth discovered this when she tried to move a bench and three people told her to sit down.
 
 "I'm capable of carrying a bench," she said.
