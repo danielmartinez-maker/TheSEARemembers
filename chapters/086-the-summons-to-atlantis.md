@@ -62,7 +62,7 @@ Chiron smiled, something soft and old in his eyes. "It is unusual. It is also de
 
 Friday morning smelled of salt and low clouds.
 
-Mist hung over Long Island Sound, and the water at the camp beach was flat silver. Chiron stood with his hands folded, Thalia Grace beside him with her arms crossed, her black hair streaked with electric blue, her gray eyes fixed on her little sister.
+Mist hung over Long Island Sound, and the water at the camp beach was flat silver. Chiron stood with his hands folded, Thalia Grace beside him with her arms crossed, her black hair streaked with electric blue, her electric-blue eyes fixed on her little sister.
 
 Thalia was older now, a camp scout, tall and sharp. She had come down specially to see Annabeth off, which Annabeth pretended to find annoying and secretly treasured.
 
@@ -177,6 +177,96 @@ Annabeth's hand found his again, quick and warm, then released. Triton saw it an
 "Come," he said. "Mother is waiting. And Father is pretending not to wait, which is worse."
 
 ---
+
+The first disagreement happened before they entered the palace.
+
+A young attendant met the visitors near the lower dock carrying an itinerary on a silver board. The schedule divided the family into categories: *Prince Percy*, *the sea-born daughters*, and *the honored sky guest*. Each category had its own reception room and different arrival instructions.
+
+Clarisse read the board once.
+
+"No."
+
+The attendant looked up, startled. "My lady?"
+
+"I'm not going to a separate room while my brother gets a parade."
+
+"It is protocol."
+
+"Then protocol can take a swim."
+
+Percy took the board before the argument grew louder. The young attendant looked close to tears. He had probably spent the whole morning trying to get the schedule right. Percy knew the feeling from the Roman exchange, where one wrong contact number had nearly kept him from boarding a plane.
+
+"Who approved this?" Percy asked.
+
+"The steward's office, my prince."
+
+"Did anybody ask my sisters?"
+
+The attendant looked blank. "They are guests."
+
+"Yes. Guests who can answer questions."
+
+Annabeth stood beside Clarisse with her notebook tucked safely inside a waterproof sleeve. Silena had been examining the delicate coral railings, looking delighted to be somewhere she'd only visited briefly before. Now she looked from the board to the attendant and raised a hand.
+
+"I don't mind having time to get dressed," she said. "But I don't want the first hour of our visit to be spent alone in a room where I don't know anyone."
+
+Clarisse nodded. "Exactly."
+
+Percy looked at Annabeth. "What about you?"
+
+"I want to see the dome construction. But I didn't ask to be put in a separate reception party either."
+
+The attendant waited while Percy considered. He was tempted to solve the whole thing by claiming princely authority and telling everybody the schedule had changed. That would be satisfying and probably make more problems for the staff who needed to arrange the rooms.
+
+"Could you ask the steward whether we can meet together first?" Percy said. "Then people can choose what activities they want after that."
+
+The attendant bowed. "I can inquire."
+
+"Good. We can wait here."
+
+Triton, who had been watching from a few steps away, crossed his arms. "You know that if you keep asking the staff to change plans, Mother will start expecting you to do the seating arrangements."
+
+Percy grinned. "Sounds like her."
+
+"It does," Triton admitted.
+
+The steward arrived a few minutes later, took one look at Clarisse's expression and decided the family could have a joint reception in the smaller garden hall. He asked whether Silena still wanted to join the clothing preparations, and she said yes. Annabeth asked for access to the library later; he agreed to arrange it. Clarisse said she wanted to see the training facilities before anybody put her into silk.
+
+The steward wrote down the requests.
+
+Percy watched the names being entered without any reference to which parent had raised which child. Poseidon was their shared father. That was enough to make them family, but it didn't mean they were interchangeable or that every guest had to enjoy the same thing.
+
+"Mother will like this better," Triton said quietly as they started walking.
+
+"Why?"
+
+"She spent an hour telling the steward that people aren't decorative objects. He did not understand."
+
+Percy laughed. "Then I get to make her look wise."
+
+"She manages that herself."
+
+The garden hall was open to a slow current and smelled of fresh kelp. There were seats for all of them and enough space for Tyson, who had come from the forge to welcome the visitors and was trying to restrain himself from hugging everybody before they had taken off their travel gear.
+
+"Brother Percy!" he shouted.
+
+Percy hugged him.
+
+"Clarisse! Silena! Annabeth!"
+
+Tyson embraced his sisters with permission and offered Annabeth a huge hand to shake. She chose a hug too, laughing when he carefully bent down to make it possible.
+
+"I told the staff you might come," Tyson said. "They prepared the good bread."
+
+"Smart man," Clarisse said.
+
+Silena asked whether the palace kitchens could show her how they made the bread in clam shells. Tyson said he knew the baker and could introduce them, provided the kitchen was not in the middle of the lunch rush.
+
+Percy looked at his siblings and felt something settle in his chest. They weren't starting from nothing. They had shared dinners, letters, the April beach visit, the spring dance, family promises and arguments about laundry. Atlantis was adding a setting to those relationships. It wasn't inventing them.
+
+When the steward returned with the updated itinerary, Percy read it aloud. Everybody approved the parts that concerned them. The attendant who had carried the first board looked relieved, and Clarisse gave him a short nod to show she wasn't angry at him personally.
+
+Then they went inside together.
 
 The palace gates remembered Percy.
 
