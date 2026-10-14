@@ -1003,7 +1003,65 @@ Percy squeezed Annabeth's hand.
 
 "Happy Valentine's, Seaweed Brain."
 
-And the night, full of letters and songs and poems and polish and dances, held them all gently — a warm, laughing, loving ensemble — until the candles burned low.
+After the final song Percy went with Annabeth to help the volunteer crew clear the pavilion. They weren't required to stay, but they'd volunteered that morning, and Ella needed someone tall enough to take the paper hearts down without tearing them.
+
+Silena was already at the sorting table, checking which letters had been collected and which remained in the sealed holding box. There were only four unsigned envelopes left. She didn't open them or speculate about the intended recipients. She recorded their status and gave the box to Chiron for private follow-up.
+
+Drew watched from the doorway. "You know, this would have been much more dramatic if we'd read them aloud."
+
+"Definitely," Silena said. "And less kind."
+
+Drew considered this, then helped stack the boxes.
+
+Percy found an envelope addressed to Clarisse lying beneath a bench. He picked it up by the edge and carried it to her rather than opening it to see whether it was important.
+
+Clarisse took one look at the handwriting and smiled.
+
+"Who is it from?" Percy asked.
+
+"Someone."
+
+"Very helpful."
+
+"Ask again and I'll give you a lecture about privacy."
+
+He grinned. "You'd have to borrow the lecture from Annabeth."
+
+Clarisse tucked the envelope away, still smiling. Percy noticed the joy but didn't demand its cause. She had shared her winter patrol poem and kept others to herself. A letter wasn't less meaningful because its contents remained private.
+
+Near the door, Nico stood with Bianca holding a gold card from Cecil. He had been invited to play another Mythomagic round the following morning. He wanted to know whether he could put the card in the hidden shelf at the fort beside Bianca's birthday letter.
+
+"It's your shelf," Bianca said. "You choose."
+
+"But the shelf is getting full."
+
+"Then maybe tomorrow you can sort what you want to keep. You don't have to decide tonight."
+
+Nico nodded. He went to get his jacket and returned with the card held carefully between two fingers. He was making a collection of invitations instead of a collection of proof that other people remembered him. Percy liked the difference.
+
+Annabeth helped Ella count the unused cards. Some would be stored for future events; others had gotten damp near the drinks and would be recycled. Percy dried the tables while Silena asked the volunteers which chores they'd agreed to take on and which they'd finished.
+
+There was no miracle in the cleanup. There were empty cups, a tired sound crew and a box of forgotten ribbons. The music box Beckendorf had made was safe in Silena's hands, and she carried it herself instead of asking someone else to protect it from the crowd.
+
+When the last lantern was dimmed, Percy found Annabeth by the path.
+
+"Good evening?" he asked.
+
+"Very."
+
+"Did you like my letter?"
+
+"I did." She smiled. "You said I always ask a better question after you think you've answered the first."
+
+"It's true."
+
+"It is." She squeezed his hand. "And you said you like it."
+
+"I do."
+
+They walked toward the cabins. Percy hadn't learned anything new about how to love Annabeth during the holiday. He'd learned that it still mattered to ask, write and listen, even when the person beside him already knew him better than anyone else.
+
+The night, full of letters and songs and dances, ended with people putting things away so there would be room for another ordinary day.
 
 ---
 
