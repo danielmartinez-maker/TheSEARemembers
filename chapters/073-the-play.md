@@ -882,6 +882,14 @@ Performance night arrived warm and clear, with frogs calling down by the lake an
 
 Percy stood in the wings in his now mostly dry chiton, beard freshly glued by Annabeth with much more care and much more lingering than strictly necessary, trident set firmly to *steady* after Will physically removed the strobe option. His hands were shaking.
 
+He peered through a gap in the curtain to see whether the audience had settled. Chiron was helping a counselor direct the younger campers toward the near end of the second row. Percy recognized Milo's backpack before he recognized the boy himself. Milo was sitting beside Lucy, who had chosen plain camp shoes for the evening. Bea held her stuffed seal on her lap, its damp flipper now tied with a dry blue thread.
+
+Percy could not tell whether Milo had managed to reach his brother. Chiron had promised an answer about safe contact, not an immediate letter, and Percy hadn't had a private moment to ask him since the beach. He made a note to find out without turning it into a public conversation.
+
+Lucy spotted his beard through the curtain and pointed. Percy made a small, ridiculous bow just for her. She giggled, then seemed embarrassed to have drawn attention. He let the curtain fall back into place.
+
+It was strange to think that the three of them had known camp for only days. They might not understand the jokes about the Olympians; some of the older campers barely understood them either. But they could see that the people who instructed them in the arena and showed them where to sleep also made mistakes in front of one another, laughed, and came back the next evening. Percy hoped that would be enough for this particular night. He wasn't going to promise them anything larger from behind a fake beard.
+
 He'd fought monsters. He'd held up the sky. He'd said no to immortality. None of it felt as exposed as this.
 
 "You good?" Annabeth appeared beside him, already in costume, owl secure, colander helmet shining. She'd lined her eyes with dark kohl for Athena and it made her gray eyes look huge and fierce and, to Percy, completely beautiful.
