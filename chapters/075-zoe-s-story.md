@@ -482,6 +482,90 @@ That got laughs and a few nods. Zoe smiled warmly at them both.
 
 Percy and Annabeth nodded together, the way they did after surviving the same quests and hearing Chiron's lectures a hundred times.
 
+Milo raised his hand again. This time he kept it raised when several older campers glanced back at him.
+
+Zoe turned toward the boy. "Yes?"
+
+"If your mother could change what those people remembered, couldn't she just make everybody safe by doing that?"
+
+The question came out bluntly, without the polite distance the older campers had been using. Percy looked at Milo, trying to read whether it was a general question about gods or something closer to his private worry about his brother.
+
+Zoe did not answer immediately. She looked into the fire, then back at him.
+
+"Safe from what?"
+
+"Monsters. Missing people. All of it. If you forget the frightening part, you don't have to be scared anymore."
+
+"Would you want someone to remove your memory of today?"
+
+Milo frowned. "No."
+
+"Why?"
+
+"Because some parts were good."
+
+"Which parts?"
+
+"The horses." He thought for a moment. "And Percy helped me talk to Chiron. But if the scary parts were gone, maybe I could remember those."
+
+"Perhaps. Perhaps not." Zoe rubbed the edge of the little bronze key on her shawl. "A god can change a story in someone's mind. That doesn't mean the person knows what was taken. It doesn't mean their fear disappears. A body can remember danger even when a mind has been taught not to name it."
+
+Milo looked down at his hands. "Then why did your mother do it?"
+
+"She believed my keepers would be safer if they thought I had gone away to school. There was a monster looking for me. She chose a disguise they could live with. I understand her reason now. I still think she should have told me more of what it would cost."
+
+"Could you ask her to put the memories back?"
+
+"I have asked her whether it could be done. She said it might expose them again. She could not promise it would restore exactly what they'd lost." Zoe's voice was steady, but Percy saw her fingers close around the key pin. "I have not asked her to try without their knowledge."
+
+Lucy looked up. "But they don't know enough to say yes."
+
+"That is the part I find hardest," Zoe replied.
+
+Chiron shifted slightly in his chair. He did not interrupt. The fire had burned lower and the faces nearest it were now copper in the light.
+
+Milo folded the hem of his sleeve between his fingers. "My brother doesn't know where I am. He thinks I'm at a school."
+
+Percy felt Annabeth's hand tighten on his. Milo had chosen to say that to the group. Percy would not add the details of their private conversation.
+
+"Does that mean he could forget me too?"
+
+"No," Zoe answered. "Not just because he was told a limited explanation. Ordinary secrecy and magical alteration are different things. You and your brother still share the years you lived together. If contact is delayed, those years do not vanish."
+
+Milo nodded but didn't look convinced. "He'll be mad."
+
+"He might," Zoe said. "Anger doesn't mean he loves you less."
+
+"What if he thinks I left because I wanted to?"
+
+"Then you can ask the adults helping you what you may safely tell him. And when you have a way to speak, you can decide what to say. I don't know when that will be. I would not promise you a message I can't deliver."
+
+Milo glanced toward Chiron. The centaur inclined his head, indicating that they could return to their private discussion later. Milo looked back at Zoe.
+
+"Do you ever write to your parents?"
+
+Zoe touched the pocket where the radio dial rested. "I write things I wish I could tell them. I do not send them without a plan that protects them and respects their lives. Sometimes writing is enough for one night. Sometimes it isn't."
+
+"That sounds awful."
+
+"Some nights it is," Zoe said. "Other nights I find something I hadn't realized I wanted to say. I keep the pages so I can decide later."
+
+A few benches away, Clarisse shifted her feet. Percy knew she had recently had to explain to Ella that reading a notebook did not make it public. He wondered whether Clarisse was thinking about that incident now. He did not ask.
+
+Lucy leaned closer to Milo and pointed to the blue stitched letters on his backpack. "You could draw something too. Your brother knows your handwriting?"
+
+"Yeah."
+
+"Then if you send a letter, he'll know it's from you."
+
+Milo considered. "Maybe."
+
+It was a modest offer. Lucy wasn't going to fix the distance or bargain with a goddess; she was telling the boy who'd arrived in the same van that he still had a voice of his own.
+
+Zoe looked around the group. "There are things magic can do that I will never choose to do for someone simply because they are afraid. Erasing an inconvenient feeling is one of them. I want to help you live with the feelings you have and make decisions that are yours."
+
+The words left Milo silent, but not in the defeated way Percy had seen at the water fountain. He looked thoughtful, and when he sat back he had stopped worrying the loose thread on his backpack strap.
+
 Zoe leaned forward and threw a pinch of something into the fire. Lavender and rosemary, by the smell. The flames turned green and gold for a moment, Hecate's colors, and the smoke curled into three paths before dissolving.
 
 "My mother says the Mist is thinning," Zoe said, more serious now. "You have felt it. Monsters finding camp borders faster. Dreams leaking. That is why I tell this story now, while I have you all here. To remind you. When the world feels thin, go to a crossroads. Leave an offering. Light the roads. Listen. Do not choose out of fear. Fear makes all roads buzz. Breathe until one hums steady. Then walk, and do not look back."
