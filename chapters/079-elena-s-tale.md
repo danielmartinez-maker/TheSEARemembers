@@ -642,7 +642,93 @@ Elena blushed furiously. “Cabin inspection log, March 14th. *Thalia’s bunk d
 
 Thalia’s face did something complicated. She crossed the circle and offered her arms. Elena stood and hugged her willingly, laughing, and Thalia released her when she asked for room. A few campers clapped softly.
 
-“Okay, okay, ribs,” Elena gasped, laughing. Thalia set her down, ruffled her hair, and went back to her seat, eyes suspiciously bright.
+“Thank you,” Elena said as they separated. Thalia went back to her seat without turning Elena's private gratitude into another joke, her eyes suspiciously bright.
+
+Elena looked at the notebook in her lap as if it had become a difficult object.
+
+“Can I ask something?” she said.
+
+Clarisse turned toward her. “You've been asking questions all evening.”
+
+“Not about why you stay. About what happens to the answers.”
+
+The fire had burned lower. Percy could see Thalia pulling her jacket tighter and Silena warming her hands around a cup. Nobody looked impatient, but Elena had spent years thinking that the absence of an objection meant she could keep every detail she heard.
+
+“I want to write tonight down,” she said. “I always do. But I don't want to decide on my own which parts end up in the shared camp archive.”
+
+“Shared archive?” Clarisse asked.
+
+“Chiron keeps quest reports and donated stories. Some of them are available to campers doing research, and some aren't. My personal notebook isn't the same thing as a public record.”
+
+Percy thought about the memorial shrine and the lines of Clarisse's poetry that she'd chosen to make public. Annabeth had spent weeks planning how to display those lines without revealing the rest of the notebook. Elena was asking the same question in another form.
+
+“You can say I helped keep the camp inspections organized,” Thalia said.
+
+Elena smiled. “Do you want everybody to read what you said about your parents?”
+
+Thalia took her time answering.
+
+“No,” she said at last. “You can put down that I came back because the people here kept a place for me. Not the private details.”
+
+Elena wrote a short sentence on a loose page and showed it to her. Thalia corrected the order of two words. Elena made the change.
+
+“What about you?” Elena asked Clarisse.
+
+“Why would anybody need a record of my feelings?”
+
+“They might not.”
+
+Silena gave her sister a look of approval.
+
+Clarisse considered. “Write that I stay because I can teach people to defend themselves. That's all.”
+
+Elena copied the exact sentence.
+
+“And don't make it sound like I'm a saint,” Clarisse added.
+
+“Nobody who knows you would believe it,” Percy said.
+
+Clarisse pointed a finger at him. “Want a rematch, Fish Boy?”
+
+“Not after the last one.”
+
+Silena leaned forward. “I'd rather write my own statement later. I want to make sure it sounds like me, not just what people say I do for them.”
+
+“That's fine,” Elena replied.
+
+“Can mine say something about the wild?” Grover asked.
+
+“Only what you choose.”
+
+He thought for a moment. “I stay because the people here know I'm frightened sometimes and let me try again anyway.”
+
+Elena repeated it back. Grover nodded and she wrote it down. She didn't include his private argument with Juniper, even though everyone nearby now knew they'd had one. He hadn't offered that incident for the archive.
+
+Percy looked at the separate sheet. It was shorter than he expected. It had none of the dates and intimate details that filled Elena's private notes, and none of the confident conclusions the campers might draw from hearing each other's stories.
+
+“What if somebody changes their mind about being included?” he asked.
+
+“Then I don't send the page,” Elena said. “Or I ask Chiron how to withdraw it if it has already been deposited. Nobody can take their words back from a reader who's seen them, so I want to be careful before it gets that far.”
+
+“Do you need all our permission before you can write your private notebook?” Thalia asked.
+
+“No. I can record that I was here and how I felt. But if I write down your personal history, I need to think carefully about why I'm keeping it and who might read it.”
+
+Annabeth nodded. “That distinction matters.”
+
+Elena handed the loose page around to the people who'd agreed to be included. They checked their sentences and gave it back. There was no vote to include everybody. Silena's space stayed blank because she wanted time to choose her words.
+
+“I'll ask Chiron tomorrow whether there's an appropriate place for this,” Elena said. “Until he approves it, it stays in my bag. And I want each of you to decide again before anyone else reads it.”
+
+Thalia shook her head. “You just made a campfire into a permissions meeting.”
+
+“Sorry,” Elena said.
+
+“Don't be. I like that you asked.”
+
+Percy watched Elena fold the sheet and tuck it beside her notebook rather than inside it. She'd chosen a different physical home for something that belonged partly to other people. It was a small decision. He knew how large a difference small decisions could make when memory was involved.
+
+Grover offered her another marshmallow. Elena accepted it and let the conversation turn to a much less important disagreement about which cabin made the best desserts.
 
 ---
 
