@@ -104,6 +104,206 @@ Percy laughed. "We tell that old story differently every time. Last time she sai
 
 Thalia was quiet for a moment, turning an arrow over in her hands. "Yeah," she said, softer. "I think she does."
 
+She checked the fletching against her thumb and set the arrow across her knees. Percy waited for her to make another joke about his sleeping habits, but she didn't.
+
+"Did she tell you about the first night?" Thalia asked.
+
+Percy looked toward Cabin One. "Which first night?"
+
+"Here. After you got off the boat." Thalia corrected herself. "After Grover brought you up from the harbor. She was sitting in our cabin trying to draw a floor plan and she had written the same measurement four times. Every number was different."
+
+"That sounds terrible for a floor plan."
+
+"It was. She'd put the door inside the wall." Thalia smiled, then let the smile go. "I thought she was upset because she'd met somebody new. One of her friends from the city, maybe. I couldn't understand why one boy getting to camp had shaken her up so badly. She wouldn't tell me most of it."
+
+Percy studied the string on her bow. It was recently waxed, a small uneven patch shining where she'd passed the wax over twice.
+
+"She was trying not to tell you something that wasn't hers alone to explain," he said.
+
+"I know that now." Thalia turned the arrow over. "I didn't then. I was her sister. I thought that entitled me to be the person she told everything."
+
+"It doesn't."
+
+"No." She gave him a flat look. "You don't get to sound so satisfied about that. I learned it the hard way."
+
+Percy raised both hands. "I wasn't gloating."
+
+"Your eyebrows were."
+
+He touched his eyebrows. "They have an independent political agenda."
+
+That earned half a laugh. Thalia looked down the slope where the younger campers had begun a game with wooden swords. One girl was trying to convince a boy twice her size to switch weapons. The boy kept shaking his head.
+
+"She did tell me you were important," Thalia continued. "Not why. Not all the reasons. Just that she'd known you before you got here, and that she needed me not to turn it into a fight."
+
+"You weren't exactly thrilled with me."
+
+"I was furious. She was twelve and acting like she knew you better than she knew me. And I was the one who'd been standing beside her at school and camp and every stupid meeting with our father. I knew where she kept the spare pencils. I knew she only ate the crust of the bread when she was anxious. I knew she'd wake up when the wind changed, before the thunder started. Then you walked in and she looked at you like you'd brought the sun back."
+
+Percy felt the old, uncomfortable pinch behind his ribs. Thalia had lived a sisterhood with Annabeth that Annabeth couldn't remember from inside. It wasn't a lie, and it wasn't an inconvenience the universe could simply apologize for.
+
+"She does know you," he said. "Better than she did then."
+
+"Yeah." Thalia scraped a thumb against the leather wrapping of her bow. "She asks me stuff now. Not just the big dramatic stuff. Dumb stuff. Whether a shirt looks stupid. If a headache's going to turn into a storm. Whether Jason would like a drawing of our cabin more than a drawing of New Rome."
+
+"What did you tell her?"
+
+"That Jason would probably like both. Then I asked him in a letter, because I'm developing a personality outside of guessing."
+
+Percy grinned. "Dangerous."
+
+"Extremely. Next I'll be using complete sentences."
+
+A gust lifted the grass in a green ripple. Down by the archery targets a counselor called for a cease-fire, and the campers lowered their bows.
+
+Thalia slid an arrow into her quiver. "So when everybody started putting the party together, I thought she might hate the idea."
+
+"Why?"
+
+"Because it's hers too, isn't it? The day you arrived here. She'd spent all those weeks trying to make sense of you being back and her life being different. I thought an entire camp shouting about it might feel like someone taking that day away from her."
+
+Percy stopped picking at the grass. Until then, he'd thought of the anniversary as something Annabeth had invented for him, a gift as uncomplicated as the driftwood calendar. He hadn't considered that she'd had to share its most private meaning with people who understood only parts of the story.
+
+"Did you ask her?" he said.
+
+"Obviously."
+
+"What'd she say?"
+
+"She said the day belongs to both of you, but she wanted the party to be about the year that followed. About the things everybody here can actually remember. She gave the Stolls three versions of the arrival and told them only one was permitted on the official banner. They made a fourth anyway."
+
+"That sounds more like her."
+
+"Yeah. And she told me not to tell you any of this." Thalia grimaced. "I've already failed at being a co-conspirator."
+
+"You haven't told me what you got me."
+
+"I didn't get you anything."
+
+Percy narrowed his eyes. "Really?"
+
+"Really. I'm going to give you a lecture about posture and call it a gift."
+
+"You're a terrible person."
+
+"You love me."
+
+"I tolerate you for your access to juice boxes."
+
+She punched his arm gently, but her next words came without the joke he expected.
+
+"Percy, when she says she remembers, don't make her prove it. She already knows which life the story belongs to. Sometimes she just wants to be happy about this one."
+
+He looked at the camp, at the walkways and green roofs and the bit of bright water between the cabins. He had spent so long guarding the things he and Annabeth remembered that he sometimes treated remembering as a test. If she could recall the exact sound of a subway, the color of Sally's kitchen walls, the last snowfall before the war, then the first life would still be real. When a detail blurred, he panicked.
+
+"I don't ask her to prove it," he said.
+
+Thalia lifted an eyebrow.
+
+"Not on purpose."
+
+"That's better."
+
+He took a stone from the grass and rolled it over his knuckles. "I asked her last week whether she remembered what color the blanket was in the Athena cabin. The one she used when we stayed up studying. She said green. I thought it was blue."
+
+"And then?"
+
+"I kept asking. Like if we argued long enough one of us would remember correctly."
+
+"How'd that go?"
+
+"She got annoyed. Said the blanket had been ugly no matter what color it was and maybe there had been two."
+
+Thalia's mouth twitched. "Wise girl."
+
+"Yeah." Percy stared at the stone. "I apologized. Eventually."
+
+"Well, look at you, growing as a person."
+
+"Don't spread it around. It'll ruin my reputation."
+
+Thalia stood and offered him a hand. He let her pull him up. His legs had gone numb from sitting in one position, and he staggered a little.
+
+"Come on," she said. "I'll walk you down. You look like someone who's about to interrupt a surprise because he can't stand not knowing."
+
+"Would I do that?"
+
+"Yes."
+
+"Fair."
+
+They took the narrow path along the strawberry fields instead of the main track. Thalia was too experienced at surprises to march him straight to the Big House. She talked about a snapped bowstring and an upcoming inspection of the west trail, small ordinary things that made it easier to pretend this wasn't an extraordinary day.
+
+At the point where the path forked, they found Beckendorf standing beside a handcart with a wheel off. His work shirt was dark with sweat despite the cool morning, and a pile of boxes rested on the cart's wooden bed.
+
+"Morning," he said. "Either of you free for a minute?"
+
+Thalia looked at the boxes and then at Percy, making a decision he wasn't supposed to notice.
+
+"Percy has an appointment," she said.
+
+"I do?"
+
+"You do."
+
+Beckendorf shrugged. "Then no problem. I'll get the wheel back on."
+
+Percy was already kneeling beside the cart. The axle pin had slipped halfway out and the retaining clip was bent open. He could see the problem even without Beckendorf pointing it out.
+
+"It'll take two minutes," he said.
+
+"The boxes can wait," Beckendorf replied.
+
+"So can whatever Chiron has invented to make me miserable."
+
+Thalia made a noise suspiciously like a swallowed laugh. She stood back while Percy held the cart steady and Beckendorf pressed the wheel into position. The first clip broke when they tried to close it. Beckendorf fetched a spare from his apron pocket.
+
+"Don't use the first one just because it's almost good enough," he told Percy.
+
+Percy thought of the little memorial board Annabeth had been measuring the previous afternoon, the one that couldn't go up until a brace was repaired. "You talking about this cart or the memorial fence?"
+
+"Both, if you're listening."
+
+"How's the brace?"
+
+"On tomorrow's repair list. A notice isn't a repair." Beckendorf passed him the cotter pin. "Hold that still."
+
+Percy kept the axle straight while Beckendorf seated the pin. The wheel turned freely when they tested it.
+
+"Thanks," Beckendorf said. "You get a cookie when I deliver these."
+
+"Deliver them where?"
+
+"Somewhere with cookies." Beckendorf pulled the cart onto the path and pushed it away before Percy could ask anything else.
+
+Thalia was shaking her head.
+
+"What?"
+
+"You are the only person I know who can be distracted from his own party by a cotter pin."
+
+"Counterpoint. The cart really needed a cotter pin."
+
+"And now it has one. Miraculous."
+
+They reached the dining pavilion, where Percy could hear Grover arguing with someone about frosting. He looked back toward the Big House. The windows were closed. One had a blue streamer caught in its latch.
+
+Thalia noticed where he was looking.
+
+"You can wait five more minutes," she said.
+
+"I'm not impatient."
+
+"Percy."
+
+"Okay, I'm a little impatient."
+
+She tucked her bow under one arm, steadied his shoulder with the other hand, and turned him toward the pavilion.
+
+"You get one surprise a year," she said. "Let the people who care about you do it properly."
+
+He let her steer him inside. She was wrong about one thing, though. This year he'd already been surprised by too many people to count. None of them had demanded he know exactly how to deserve it.
+
 ---
 
 Annabeth remembered everything about that day, which was the problem, because everybody else kept mixing it up with the original arrival she and Percy had described. This camp had seen a boy walk up from the harbor. Somehow, in more than a year of retelling, that boy had acquired the Minotaur again.
