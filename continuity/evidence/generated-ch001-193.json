@@ -7850,16 +7850,16 @@
       "path": "chapters/066-jason-s-letter.md",
       "title": "Chapter 66: Jason's Letter",
       "name_mentions": {
-        "Percy": 86,
-        "Annabeth": 78,
-        "Thalia": 111,
-        "Clarisse": 36,
-        "Silena": 32,
-        "Triton": 2,
+        "Percy": 106,
+        "Annabeth": 95,
+        "Thalia": 143,
+        "Clarisse": 65,
+        "Silena": 56,
+        "Triton": 4,
         "Tyson": 1,
-        "Jason": 41,
+        "Jason": 48,
         "Beryl": 2,
-        "Chiron": 20,
+        "Chiron": 21,
         "Zeus": 7
       },
       "event_cues_for_manual_review": [
@@ -15332,18 +15332,18 @@
       "title": "Chapter 133: Annabeth's Birthday",
       "name_mentions": {
         "Percy": 29,
-        "Annabeth": 138,
-        "Thalia": 91,
-        "Clarisse": 25,
-        "Silena": 25,
+        "Annabeth": 161,
+        "Thalia": 97,
+        "Clarisse": 44,
+        "Silena": 44,
         "Poseidon": 1,
         "Jason": 11,
-        "Chiron": 12,
-        "Grover": 9,
-        "Nico": 6,
-        "Zeus": 19,
+        "Chiron": 16,
+        "Grover": 16,
+        "Nico": 24,
+        "Zeus": 20,
         "Beckendorf": 3,
-        "Ella": 7
+        "Ella": 16
       },
       "event_cues_for_manual_review": [
         {

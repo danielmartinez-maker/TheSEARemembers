@@ -1047,7 +1047,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/066-jason-s-letter.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 111, Percy 86, Annabeth 78, Jason 41, Clarisse 36, Silena 32, Chiron 20, Zeus 7, Triton 2, Beryl 2
+- Name appearances (not proof of presence): Thalia 143, Percy 106, Annabeth 95, Clarisse 65, Silena 56, Jason 48, Chiron 21, Zeus 7, Triton 4, Beryl 2
 - Event/action candidates to inspect in context:
   - Line 19: They ran up the hill together, Annabeth's hand tight in his, her notebook abandoned on the dock. By the time they reached the Big House porch, a small crowd had gathered. Chiron stood there in his wheelchair form, trotting out in his human 
   - Line 25: "Whoa," Clarisse said, pushing forward with Silena right behind her. Silena had a face mask on and cucumber slices in a baggie, clearly interrupted mid-morning routine. "Pinecone Face has a Roman pen pal?"
@@ -2088,7 +2088,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/133-annabeth-s-birthday.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 138, Thalia 91, Percy 29, Clarisse 25, Silena 25, Zeus 19, Chiron 12, Jason 11, Grover 9, Ella 7
+- Name appearances (not proof of presence): Annabeth 161, Thalia 97, Clarisse 44, Silena 44, Percy 29, Nico 24, Zeus 20, Chiron 16, Grover 16, Ella 16
 - Event/action candidates to inspect in context:
   - Line 3: Annabeth woke before the conch and knew, before glimpsing the calendar penciled with Thalia's stars, that she was fourteen.
   - Line 5: The number settled in her mind like a newly placed stone. It brought no sensation of age. Dawn laid a thin gold line along the cabin wall, dust motes drifting through it; the floor creaked beyond her bunk; Thalia had left water within reach
