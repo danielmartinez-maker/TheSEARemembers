@@ -1,0 +1,72 @@
+chapter: 67
+title: "Fishing"
+source: "chapters/067-fishing.md"
+status: "source-checked and expanded to mechanical 10k+ floor; independent developmental signoff pending"
+chronology:
+  - "April, the morning after Chapter 066's courier correspondence and the initial shore signal drills"
+  - "Chapter 068 opens the next April morning at the arena; no carried injury other than a small treated scrape"
+location:
+  - "Long Island Sound saltwater dock at Camp Half-Blood"
+  - "canoe shed and maintenance handoff by the Sound"
+  - "approved beach cooking pit; teaching area near safe shore"
+point_of_view: "Primarily Percy Jackson, third-person limited for new scenes"
+ages_and_lineages:
+  - "Percy is the youngest Poseidon child among Percy, Clarisse and Silena; no new numerical age asserted"
+  - "Annabeth is a Grace/Zeus daughter, Thalia's younger sister and Percy's established girlfriend"
+  - "Only Percy and Annabeth have autobiographical memories of the earlier timeline"
+participants_witnesses:
+  fishing_and_hazard:
+    - "Percy, Annabeth, Clarisse, Silena, Thalia, Grover, Ella witness hook/line hazard and crab rescue"
+    - "Mara, the canoe-shed instructor, receives a source-location diagram and agreed follow-up with trained maintenance staff"
+  harvest_choice:
+    - "Percy, Clarisse, Silena, Annabeth, Thalia, Grover, Ella choose to release an unnecessary keeper, agree to limit the harvest and add written equipment controls"
+    - "Tyson joins the cookout later with seasoning, mussels and sea greens as already established"
+  junior_lesson:
+    - "Two previously unnamed younger campers request a spectacular bucket demonstration; Percy declines, and the group helps them plan observation and seek canoe-instructor approval"
+    - "Chiron knows there is a proposal, not an approved canoe-lake fishing event"
+  private_couple_promise:
+    - "Percy and Annabeth privately make conditional reciprocal promises to visit Atlantis's gardens and Olympus's temples on another quiet day"
+    - "Others did not witness or hear this private exchange"
+remembered_events:
+  - id: C067_A
+    certainty: confirmed
+    event: "Percy frees a crab trapped on monofilament, with Annabeth's cautious approach, Clarisse's pliers and rigging, Silena's bucket, Thalia's support, Grover's concern and Ella's record"
+    witnesses: ["Percy","Annabeth","Clarisse","Silena","Thalia","Grover","Ella"]
+    later_state: "Canoe shed receives a hazard report and current-location diagram; Percy not appointed to inspect the entire dock alone"
+  - id: C067_B
+    certainty: confirmed
+    event: "Canoe-shed instructor Mara assigns further inspection to authorized maintenance personnel, including safe handling of recovered hook and proper equipment sign-outs"
+    witnesses: ["Percy","Annabeth","Clarisse","Silena","Thalia","Grover","Ella","Mara"]
+    later_state: "Remaining hazards and whether they were found are unresolved; Clarisse agreed to assist the shed staff after lunch"
+  - id: C067_C
+    certainty: confirmed
+    event: "Grover asks about the purpose of the catch; Percy returns an unnecessary fish; Silena and Percy label harvest and borrowed-equipment decisions"
+    witnesses: ["Percy","Annabeth","Clarisse","Silena","Thalia","Grover","Ella"]
+    later_state: "No indiscriminate new fish catch is authorized or assumed; this is a learned family practice, not an Olympian edict"
+  - id: C067_D
+    certainty: confirmed
+    event: "Younger campers learn careful nature observation from Annabeth and Ella, supervised equipment handling from Clarisse, and non-spectacular stewardship from Percy and Grover"
+    witnesses: ["Percy","Annabeth","Clarisse","Silena","Thalia","Grover","Ella","Chiron","two unnamed younger campers"]
+    later_state: "An observation proposal has been invited; no actual canoe-lake lesson or fishing authorization yet"
+  - id: C067_E
+    certainty: confirmed
+    event: "Percy and Annabeth privately exchange promises to show one another their respective Atlantis gardens and Olympus temples"
+    witnesses: ["Percy","Annabeth"]
+    later_state: "The promises are conditional and personal, not a literal River Styx oath, booking, completed visit or public announcement"
+props_and_injuries:
+  - "Small superficial shoulder scrape from crab rescue, rinsed by Annabeth; no later serious injury established"
+  - "Sharp fishing hook and monofilament quarantined for proper disposal by canoe staff"
+  - "Annabeth draws a dock current diagram, copied to the instructor; original field diagram remains her work"
+  - "Ella records releases, identification, ethical decisions and awards"
+  - "Borrowed safety rope is signed out or reported, not left undocumented"
+  - "Junior campers return with an empty bucket and notebook, not captured animals"
+next_chapter:
+  chapter: 68
+  opening_reviewed: true
+  context: "Chapter 068 opens the next morning with Clarisse and Percy sparring and Annabeth observing. No junior-camper class is assumed to have happened, no magical power transfer occurs."
+qa:
+  body_words: 10292
+  previous_chapter_final_scene_checked: true
+  next_chapter_opening_checked: true
+  full_manuscript_exact_300_token_check: "pending updated CI results"
+  independent_scene_semantic_and_style_review: "not certified"
