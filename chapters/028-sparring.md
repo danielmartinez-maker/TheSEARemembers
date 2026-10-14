@@ -144,7 +144,7 @@ Percy bumped her shoulder with his. "You're still here."
 
 The doors banged open, letting in cold air and sunrise. Two figures stood silhouetted — tall and lean, with crackling static in the air around them.
 
-"Are you sea kids done being loud at dawn?" Thalia Grace called. She was fifteen, with black choppy hair and electric-blue eyes and a leather jacket over her practice clothes even indoors. Behind her, smaller and bright-eyed with a notebook already in hand, was Annabeth.
+"Are you sea kids done being loud at dawn?" Thalia Grace called. She was sixteen, with black choppy hair and electric-blue eyes and a leather jacket over her practice clothes even indoors. Behind her, smaller and bright-eyed with a notebook already in hand, was Annabeth.
 
 Annabeth Grace, twelve, daughter of Zeus, Percy's girlfriend in a life she alone remembered alongside him, even if their campmates had known them together for only weeks, and the only person at camp who took notes on sparring like it was a math test.
 
@@ -168,7 +168,7 @@ Percy looked at Clarisse, who was wringing out her bun and pretending not to lis
 
 Annabeth squeezed his hand. She knew about Atlantis and the childhood he could not personally remember, the way he knew about her fear of failing Thalia. They had talked about it on the Zeus cabin roof with blankets around their shoulders. She did not say anything now, just nodded and smiled in a way that said she was proud.
 
-"Tomorrow we do swords in the water," Clarisse announced. "Bring your knife, Chase. You and Thalia can use the shallow steps if you want."
+"Tomorrow we do swords in the water," Clarisse announced. "Bring your knife, Grace. You and Thalia can use the shallow steps if you want."
 
 "We will," Thalia said. "Someone has to show you how to actually fight while you two play mermaids."
 
