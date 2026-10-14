@@ -130,7 +130,7 @@ Percy’s heart hammered.
 
 At the mention of Sally, Percy’s throat closed.
 
-“I never knew Sally Jackson well,” Amphitrite said. “Here, we lost her when you were two. But I have heard you tell me about the life you remember, about her care and her blue pancakes. Poseidon keeps a photograph of her in his palace. I know. She was your mother, and she remains part of you. I raised a child whose years you cannot remember; she raised you in the years you can. Neither love needs to push the other away.”
+“I never met Sally Jackson,” Amphitrite said. “But your father told me about her, and I know how carefully you keep the things she left behind. You were two when we lost her. You are allowed to ask about her now, or to miss her on days when you cannot quite explain why. I have been here for the years since, Percy. Neither love needs to push the other away.”
 
 She pushed the last parcel across the table. It was wrapped in plain blue cotton, soft with age. It looked mortal.
 
