@@ -426,6 +426,132 @@ In Atlantis, fishing was work. It was tide schedules and quota stones and palace
 
 ---
 
+Before Percy could carry the bucket up the beach, Grover stopped him.
+
+"How many?"
+
+Percy glanced inside. "Fish?"
+
+"Obviously fish. How many people are going to eat them?"
+
+Silena was drying Ella's notebook with the corner of a towel. "We have enough for a few plates. Tyson said he might join us, so I brought bread."
+
+"Are we taking the catch to the pavilion?" Grover asked.
+
+"Beach fire," Thalia replied. "Chiron approved the old pit. I asked."
+
+"Good. And how many more are you going to catch after this?"
+
+"We're done," Percy said.
+
+He answered too quickly. A moment earlier he'd been considering one more round to give Clarisse a chance at a proper catch. It would be easy. Everybody was better at the technique now, and a second contest would be fun. He looked at the bucket. The fish still inside were alive, moving slowly against the side.
+
+Annabeth saw his expression. "You were thinking about catching more."
+
+"I was thinking about making sure everybody had enough."
+
+"We can bring vegetables and bread," Silena said. "And those mussels Tyson promised, if he actually brings them."
+
+"What if he doesn't?"
+
+"Then we eat less fish. It'll be fine."
+
+Clarisse wiped saltwater off her forehead. "I didn't spend a morning getting humiliated by marine life for half a plate."
+
+"That's between you and the marine life," Thalia said.
+
+"Can we please decide something without making it a contest?" Grover asked.
+
+Ella opened her notebook to the catch records. A thin leaf of paper had stuck to the damp page. She lifted it with such care that everyone stopped talking for a moment.
+
+"Ella has the count," she said. "But count is not purpose. No one wrote purpose."
+
+Annabeth crouched beside her. "You mean whether a fish was caught to eat or only to observe?"
+
+"Yes. Good distinction. Important distinction."
+
+The morning's entries included release notes, measurements, the extraordinary incident of Clarisse being hit in the face, and several fish that had been named by Ella before being returned to the water. The keepers were listed separately, but the reason for keeping them was an untidy collection of notes: BIG, SILENA CHOSE, THALIA WANTS LUNCH, and a question mark beside a porgy.
+
+Percy swallowed a grin at Thalia's expense.
+
+"That question mark is me," Silena said. "I wasn't sure the last one was large enough for a useful portion."
+
+"Then why keep it?" Grover asked.
+
+"I wanted Ella to check the species in the guide. We should've released it after that."
+
+The porgy was still moving. Percy knelt by the bucket and looked at the fish, not as something that had helped Silena win but as an animal he had borrowed from the Sound while they argued.
+
+"Then we can return it now," he said.
+
+Clarisse folded her arms. "If we start giving back all the fish, what was the point?"
+
+"We learned the technique," Annabeth said. "That's a point."
+
+"Easy for someone who caught four and kept none."
+
+"Yes. It was."
+
+Clarisse regarded her for a long second, then let out an unwilling laugh. "I hate it when you're right about something so obvious."
+
+Percy eased the bucket toward the dock's edge. He tipped it until the water reached the lip, then waited for the porgy to swim out of its own accord. The fish hesitated, turned, and slipped into the deeper channel. He kept the bucket level long enough to make sure it was clear.
+
+"There," he said.
+
+Grover looked relieved. Silena made an entry in Ella's notebook, recording the release and the reason. Thalia took the responsibility for carrying their bread and extra vegetables to the fire. Clarisse volunteered to collect driftwood, with the important qualification that nobody was to use the good spear as a poker.
+
+"That was directed at Percy," she said.
+
+"Why would I use your spear as a poker?"
+
+"You've never seen an unattended object you didn't want to turn into a tool."
+
+"You're going to need evidence."
+
+"I have years of evidence."
+
+They moved the remaining catch into shade while Silena checked the water and Ella packed her scrolls. Percy helped Thalia lift a basket that had grown unexpectedly heavy once the food and equipment were put in the same place.
+
+"You were going to catch more," Thalia said quietly.
+
+"Maybe."
+
+"You changed your mind."
+
+"Grover asked a question."
+
+"He does that."
+
+"I don't think he expected an answer."
+
+Thalia glanced toward Grover, who was negotiating with Ella about whether the apples counted toward the category of sustainable harvest. "Sometimes it's nice when somebody surprises you."
+
+Percy shifted the basket against his hip. He'd spent a long time looking at responsibility as the thing that arrived after something went wrong. It was strange to recognize it before there was a mistake to apologize for. The fish they'd released didn't make the day less successful. Nor did leaving enough in the Sound for other creatures and another morning.
+
+Ella ran ahead and called back her new category.
+
+"BEST QUESTION!"
+
+"Who won?" Clarisse shouted.
+
+"Grover! Grover asked about purpose!"
+
+Grover looked scandalized. "I wasn't competing."
+
+"Winning without competing," Ella declared, "is statistically interesting."
+
+Clarisse looked at Percy. "The judge is corrupt."
+
+"Then appeal."
+
+"To whom?"
+
+"The crab. General Shrimp has an office somewhere."
+
+Thalia nearly dropped the basket laughing.
+
+---
+
 The cooking fire was an old Council-approved pit on the beach past the volleyball court, ringed with stones that generations of campers had initialed. By ten thirty, with the sun high and the morning chill burned off, the group had migrated there with towels around shoulders, buckets in hands, Ella flying in short hops with scrolls clutched to her chest because she refused to let anyone else carry the data.
 
 Tyson arrived as they were gathering driftwood, bursting up out of the surf with a happy roar, seawater sheeting off his single large eye, his broad shoulders hung with a net bag of mussels and sea lettuce.
