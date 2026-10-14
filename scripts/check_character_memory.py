@@ -17,6 +17,18 @@ CHECKS = {
         "present": ("I'm Annabeth. Daughter of Zeus.",),
         "absent": (),
     },
+    "chapters/020-cake-and-lightning.md": {
+        "present": ("Thalia's already sixteen", "followed Silena into battle",
+                    "Cabin Three's cleared-off craft table"),
+        "absent": ("followed Aphrodite kids into battle",
+                   "Ares cabin's borrowed craft corner"),
+    },
+    "chapters/028-sparring.md": {
+        "present": ("Thalia Grace called. She was sixteen",
+                    '"Bring your knife, Grace.'),
+        "absent": ("Thalia Grace called. She was fifteen",
+                   '"Bring your knife, Chase.'),
+    },
     "chapters/030-amphitrite-visits.md": {
         "present": ("without a rainbow between us", "meet you in person"),
         "absent": ("And you must be Annabeth",),
