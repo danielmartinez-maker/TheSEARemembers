@@ -37,29 +37,31 @@ Added regression guards for these two files, expanding targeted chapter checks f
 
 ## Phase 3: Expand all sub-10,000 full chapters
 
-**NOT COMPLETED. No chapters were expanded in this execution.**
+**PARTIAL: Chapters 066 and 133 expanded to 10,000+ body words; 53 chapters still below threshold. Independent prose signoff remains open.**
 
-New code reran a count of each of 193 numbered Markdown chapters, excluding Markdown headings, scene separators and comments from whitespace-separated narrative body words. **138 passed** the 10,000-word floor; **55 failed**; the exact combined deficit is **267,533 actual body words**.
+New code reran a count of each of 193 numbered Markdown chapters, excluding Markdown headings, scene separators and comments from whitespace-separated narrative body words. **140 passed** the 10,000-word floor; **53 remain short**; the current combined deficit is **264,551 actual body words**. The earlier baseline was 138 passing / 55 short / 267,533 missing.
 
 | Range | Short chapters | Words needed to 10,000 |
 |---|---:|---:|
-| 066–090 | 25 | 98,028 |
+| 066–090 | 24 | 96,342 |
 | 091–110 | 20 | 119,269 |
 | 114–120 | 7 | 40,869 |
-| 131–133 | 3 | 9,367 |
-| **Total** | **55** | **267,533** |
+| 131–133 | 2 | 8,071 |
+| **Total** | **53** | **264,551** |
 
-See [55-chapter title-by-title tracker and 12 dependency-safe writing packets](../handoffs/55-short-chapters-execution-queue.md). A packet is **not** a drafted chapter. Expanding 55 chapters by 267,533 words to meet a mechanical threshold in one indiscriminate mass insertion would undermine the explicit no-padding requirement.
+**Verified continuation edits:** [Chapter 066](../../chapters/066-jason-s-letter.md) increased from **8,314 to 10,572 body words** after an added shore-safety signaling scene grounded in Chapters 065–067 and Jason's correspondence. [Chapter 133](../../chapters/133-annabeth-s-birthday.md) increased from **8,704 to 10,656** after a new pavilion-preparation scene that carries forward Annabeth's boundaries and the later map misunderstanding. New prose added **4,210 body words** in total, and the minimum-length deficit declined by **2,982** words. Per-character handoffs: [066](../../continuity/ch066.yaml) and [133](../../continuity/ch133.yaml).
 
-**Still required:** actually write scene-level expansions preserving voice and plot, count each chapter after edits, inspect adjacent chapters, and record new facts in the continuity ledger.
+See [the original 55-chapter tracker, now 53 still short, with 12 dependency-safe writing packets](../handoffs/55-short-chapters-execution-queue.md). A packet is **not** a drafted chapter. The remaining 264,551 missing words require actual scenes with purpose and consequences, not indiscriminate padding.
+
+**Still required:** expand the other 53 short chapters, inspect their adjacent scenes, recount and QA every revision, and attach its own continuity handoff. Chapters 066 and 133 also warrant independent prose-level and developmental review.
 
 ## Phase 4: Whole-manuscript QA and handoffs
 
 **MECHANICAL QA COMPLETED; SEMANTIC/STYLE REVIEW INCOMPLETE.**
 
-The GitHub workflow [run 38505151582](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38505151582) completed successfully. A prior run [38505057544](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38505057544) established the same first-pass counts. The scan processed **193/193** chapter files and **1,660,025** consecutive 300-body-word windows at **every offset**, using a rolling hash only to locate candidates, then verifying any candidates against exact word sequences. **Zero cross-chapter 300-word matches** were detected. The scan found **no missing numbered chapter** and **no structural/UTF-8 errors**.
+The continuation audit [run 38507799236](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38507799236) **passed** after both expansion edits. It screened **193/193** numbered files and **1,664,234** overlapping 300-body-word windows at **every offset**, with rolling-hash candidate selection and exact token confirmation. **Zero cross-chapter 300-word matches**, **zero missing numbered chapters** and **zero structural/UTF-8 errors** were found. The recount yielded **140 length-passing chapters**, **53 short** and **264,551 body words still needed**. The **11 source-anchored character-memory regression checks** also passed. The earlier initial run [38505151582](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38505151582) recorded the historical 138/55 baseline, and must not be cited as current status.
 
-The automation also ran source-anchored character-memory checks and generated a line-locator evidence queue. A later independent workflow [run 38505405592](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38505405592) **passed all 11 source-anchored chapter-memory checks**, including the new Chapters 020/028 guards; it also rechecked all 193 chapter word counts and the 1,660,025 exact windows with unchanged results.
+The added scenes were read against the preceding chapter closing scenes and next chapter openings, with character-specific sidecar handoffs. Neither these checks nor the generated cue index certifies a complete novel-wide semantic reading.
 
 **Not assessed or not certified:** semantic paraphrase duplicates, repeated story beats under different wording, stylistic sameness, dialogue authenticity, character psychology, full scene coherence, hidden knowledge leaks, every gift/prop/injury carryover, and newly added narrative word quality. Textual absence of a 300-word repeat is not proof of absence of semantic repetition.
 
@@ -79,4 +81,4 @@ The automation also ran source-anchored character-memory checks and generated a 
 - Additional expansion and semantic editing work must be sequenced through the 12 handoff packets and submitted with original scene changes, individual word counts, and evidence-based relationship updates.
 - Historical PDF editions and designated local working chapters have not been reconciled byte-for-byte to this GitHub snapshot. This PR changes GitHub sources only; it does not certify published reader editions.
 
-**Completion verdict:** Phase 1 partial; Phase 2 partial; Phase 3 incomplete; Phase 4 mechanical checks passed, semantic/style checks incomplete.
+**Completion verdict:** Phase 1 partial with new verified event entries; Phase 2 partial; Phase 3 partially implemented (2 additional chapters length-pass, 53 short); Phase 4 mechanical checks passed on the edited manuscript, semantic/style signoff still incomplete.
