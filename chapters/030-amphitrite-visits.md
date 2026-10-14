@@ -138,7 +138,7 @@ Silena's eyes filled instantly. Clarisse looked like someone had hit her lightly
 
 She turned then, and her gaze landed on Annabeth, who was standing very straight with her hands clasped behind her back, trying to look calm and mostly succeeding except for the pink climbing her ears.
 
-"And you must be Annabeth," Amphitrite said.
+"Annabeth," Amphitrite said. "It's good to see you without a rainbow between us."
 
 ---
 
@@ -150,7 +150,7 @@ This one — this slender blonde daughter of Zeus in an orange camp shirt and a 
 
 *Oh, Poseidon,* Amphitrite thought, amused and touched all at once. *He's found his shield-maiden already. And she doesn't even know she's doing it.*
 
-"Annabeth Grace," the girl said, lifting her chin. "Daughter of Zeus, ma'am. It's an honor to meet you."
+"Annabeth Grace," the girl said, lifting her chin. "Daughter of Zeus, ma'am. It's an honor to meet you in person."
 
 "Come here, child," Amphitrite said, and opened her free arm.
 
