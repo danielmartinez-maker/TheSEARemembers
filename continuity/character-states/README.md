@@ -82,3 +82,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - New scoped supporting-character event files: [Will Solace](will-solace.md), [Malcolm](malcolm.md), and [Katie Gardner](katie-gardner.md) (Chapter 090 only).
 - **Coverage limit:** The new Chapter 090 entries are a scoped event update. Chapters 037–089 remain unaudited in the per-character cumulative files; this append does not certify an unbroken memory record for those chapters.
 - **Ch090→Ch091 boundary:** Chapter 091 opens at 7 AM with a 9 AM north-border tide-pool outing and does not mention the storm. The lake/ward/anchor/field checks are pending at Ch090's close; Chapter 091 must account for who completes them before departure or record the unresolved continuity gap.
+
+
+- [Chapter 091 handoff](../../editorial/handoffs/ch091-tide-pools.md): preserves witnessed vs. reported memory, the Percy/Annabeth relationship, gifts, storm-check status, and Grover's supervision.
+- **Ch091→Ch092 boundary:** Keep the shell, two sketches, unmade Amphitrite copy, Percy/Thalia check-ins with Will, and the conditional next-low-tide plan in their recorded status. This remains a scoped addition; prior 037–089 coverage is still incomplete.

@@ -130,3 +130,9 @@
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND: leads named shelter headcounts, catches a roster discrepancy and independently assigns Percy to compare it with the infirmary list. Works the runoff with Percy and Clarisse; when the misfire knocks her back, she regains the channel by singing the shanty she taught during Chapter 088 cove drills. Helps keep the beach roster current. Pruned fingers are not diagnosed as an injury.
 - **Knowledge:** She remembers the reservoir event firsthand as a participant; no dream or parent-given memory is involved. Knows the lake, outer ward, and storm cause still need inspection/answers.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND: paints and sketches the excursion, gives Percy a portrait for his cabin wall and gives Annabeth a watercolor of herself. She promises to make a color copy of the group sketch for Percy to include in a future letter to Amphitrite; the copy and mailing are not done. Keeps paint and pages above the wash and does not handle intertidal animals.
+- **Knowledge / carry-forward:** Hears Percy's bounded Sally/blue-food story and Annabeth's account of Frederick; neither report grants Silena original-life memories. The Poseidon outing ends with all attendees returned and counted. The next-low-tide plan is conditional, not booked.

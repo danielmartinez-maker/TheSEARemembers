@@ -4,28 +4,32 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 090 (2026-10-14 local checkpoint)
+## Latest current-branch continuation: Chapter 091 (2026-10-14 candidate checkpoint)
 
-**Branch base:** The remote branch was verified at `a1f653bbedf956831915ef3dcf48f268b6e2e94a` before this local Chapter 090 update. The current metrics below are local exact-source runs; GitHub Actions verification for the proposed commit is pending.
+**Branch base:** The candidate tree is built on remote commit `4c592e0fdd04e66a13485e44f60b4e46d8fcfaf1`. The figures below are exact-source local checks on that tree; GitHub Actions results for the published commit are tracked separately in PR #103.
 
-| Scope | Current verified result |
+| Scope | Candidate-tree result |
 |---|---:|
 | Numbered narrative chapters present and ordered | **193/193** |
-| At or above 10,000 actual body words | **166** |
-| Below 10,000 actual body words | **27** |
-| Required additional body words to clear minimum | **159,426** |
-| Chapter-only every-offset 300-word windows | **1,776,901; 0 exact cross-chapter matches** |
-| All chapter and bonus files | **196 files; 1,927,453 windows; 0 exact cross-file matches** |
-| Source-anchored memory regression checks | **23 passed** |
+| At or above 10,000 actual body words | **167** |
+| Below 10,000 actual body words | **26** |
+| Required additional body words to clear minimum | **156,214** |
+| Chapter-only every-offset 300-word windows | **1,780,163; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 1,930,715 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **24 passed** |
 
-**Chapter 090, *Storm and Sea*:** **6,822 → 10,346 body words** (+3,524 net). New scene work gives Silena a shelter-count role, gives the team a rehearsed flag protocol that fails in a crosswind and is corrected, and makes the freshwater runoff/field tradeoff consequential. It tracks Thalia's right-palm burn and Percy’s temporary hand tingling through Will's care, keeps the Sound outside the freshwater lake, and leaves lake/ward/anchor/field inspections pending. See the [Chapter 090 handoff](handoffs/ch090-storm-and-sea.md).
+**Chapter 091, *Tide Pools*:** **6,788 → 10,050 body words** (+3,262 net). The morning now accounts for the storm's pending lake, ward, anchor, field and signal checks before departure; Grover supervises with a route and count protocol. The tide-pool scenes preserve wildlife, keep the changing route safe, and correct the relationship and reported-memory boundaries. Percy and Thalia receive Will's follow-up, and the chapter keeps every gift and Amphitrite-letter promise in its actual status. See the [Chapter 091 handoff](handoffs/ch091-tide-pools.md).
 
-- **Phase 1:** Added the Chapter 090 scoped event handoff and append-only character states for Percy, Annabeth, Clarisse, Silena, Thalia, Jason, Chiron, Mr. D, Will, Malcolm, and Katie. Chapters 037–089 remain unaudited in those per-character files; that gap is disclosed.
-- **Phase 2:** Removed unsupported reservoir timing/scar, dream-sourced shanty, prior-week collapse, over-storm shouting, and “no real injuries” claims. Clarified the flag failure/revised signal, distinct fresh and saltwater routes, injury statuses, and unresolved storm cause. Chapter 091 still needs to account for the pending daylight inspections before its 9 AM outing.
-- **Phase 3:** Chapter 090 clears the mechanical 10k floor with scene-based work and choices. Independent developmental/line review remains open.
-- **Phase 4:** Local full-manuscript count, chapter structure, bonus-inclusive exact-window scan, and 23 source-anchored memory groups were checked against the working tree. These mechanical results are not whole-manuscript semantic or literary certification.
+- **Phase 1:** Added a source-anchored Chapter 091 handoff and cumulative event entries for Percy, Annabeth, Clarisse, Silena, Thalia, Grover, Chiron, Will, Malcolm and Katie; added [a structured ledger](../continuity/ch091.yaml). The earlier gap in systematic Chapters 037–089 memory coverage remains disclosed.
+- **Phase 2:** Repaired the unsafe/inaccurate blue-ring advice and crab handling; clarified Clarisse's separate mother history, the established Percy/Annabeth relationship, the limited Sally/Frederick reports, shell provenance, storm-check status, and Thalia/Percy aftercare.
+- **Phase 3:** Expanded the chapter through a purposeful morning status check, observed intertidal activity, Annabeth's revised field notes, family conversation, and a conditional return plan. The chapter meets the 10,000-word floor; independent prose/developmental signoff remains open.
+- **Phase 4:** Local exact-source checks pass: 193/193 ordered, 167 pass / 26 short, 156,214 words remaining; 1,780,163 chapter-only and 1,930,715 bonus-inclusive every-offset 300-word windows with zero exact matches; 24 anchored memory groups. These are mechanical results, not full-semantic or literary certification.
 
-**Next chronological chapter:** [091 Tide Pools](../chapters/091-tide-pools.md), at **6,788** body words in the exact-source queue. Resolve or explicitly carry the pending lake, ward, soft-anchor, strawberry-strip and signal checks before the outing leaves camp.
+**Next chronological underlength chapter:** [092 Jealousy II](../chapters/092-jealousy-ii.md), at **6,375** words, needs **3,625** meaningful body words. Preserve Chapter 091's shell, sketch ownership, Thalia's morning injury check, Percy’s cleared symptom report without diagnosis, and the pending storm inspections.
+
+## Superseded checkpoint: Chapter 090
+
+Chapter 090, *Storm and Sea*, was committed at `4c592e0fdd04e66a13485e44f60b4e46d8fcfaf1` after growing **6,822 → 10,346 body words** (+3,524 net). The added scenes give Silena a shelter-count role, make the flag protocol fail in crosswind and get corrected, distinguish freshwater runoff from Sound saltwater, and track Thalia's right-palm burn and Percy's temporary hand tingling through Will's care. The [Chapter 090 handoff](handoffs/ch090-storm-and-sea.md) leaves the lake, ward, anchor and field checks pending for Chapter 091.
 
 ## Superseded checkpoint after Chapter 080 (2026-10-14)
 

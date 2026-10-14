@@ -102,3 +102,9 @@
 - **[Ch025](../../chapters/025-night-watches.md):** Watches with Silena, reports/signals rather than pursuing uncertain sounds; schedule/map repairs remain.
 - **[Ch027](../../chapters/027-the-library.md):** Contributes to the supervised archive/display work; no authority to copy private photos without permission.
 - **[Ch035](../../chapters/035-the-letter.md):** Explains route differences: mortal address versus Chiron's Roman request; no completed delivery to Jason is established.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND: supervises the north-shore outing with a marked stopping line, whistle and roster; counts participants at the lower route and again on return. Calls the lower route closed as the tide rises, then permits observation only from the upper shelf. No fall or missing participant is reported.
+- **Carry-forward:** He knows the group saw an octopus from a safe distance and heard Annabeth's observations about tide zones. A further outing is only proposed pending Chiron's approval and a safe route.

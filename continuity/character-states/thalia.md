@@ -139,3 +139,9 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND: suffers a static-related nosebleed before the briefing, then joins Percy, Clarisse and Silena at the cannon to ground lightning through the moving freshwater channel. A wind-obscured early cue contributes to a strike missing the channel and a superficial flash burn on her right palm. Will dresses it; she switches to her left hand and waits for a repeated signal and readiness confirmation. Will must check the palm before sparring. This is a single storm response, not proof of reliable lightning mastery.
 - **Knowledge:** Annabeth is her Zeus sister and command partner; Jason is also present as her brother. Their reservoir incident is shared current-history experience. Cause of this storm remains unknown.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND: joins Annabeth at the noon picnic and walks the upper shore with the group. Keeps her wrapped right palm dry while testing the shallows with her left foot. Will changes the outer wrap after the outing and requires a morning look before sparring; recovery is not yet established.
+- **Knowledge / carry-forward:** Hears Percy recount blue-food memories of Sally and hears Annabeth describe Frederick from the life Percy and Annabeth remember. These are reports, not Thalia's memories. She remains Annabeth's Zeus sister and Percy/Annabeth's supportive friend; their romance is teased as established.

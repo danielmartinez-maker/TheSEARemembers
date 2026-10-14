@@ -133,6 +133,18 @@ CHECKS = {
                    "nearly collapsed doing that last week",
                    "Annabeth, are you seeing this?", "No real injuries.", "Mjolnir"),
     },
+    "chapters/091-tide-pools.md": {
+        "present": ("No touching, no finish line, no cheating.",
+                    "The boyfriend part is accurate.",
+                    "The diagram was useful.",
+                    "The lower route stays closed while the tide rises",
+                    "Sally made blue food on purpose, in the life I remember"),
+        "absent": ("Do not pick up anything with blue rings.",
+                   "Grover snored softly with cookie crumbs on his shirt.",
+                   "Grover dozing again",
+                   "Clarisse with a crab on her palm",
+                   "We are not—"),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),

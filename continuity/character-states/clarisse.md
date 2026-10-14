@@ -133,3 +133,9 @@
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND: works beside Poseidon siblings Percy and Silena to hold the freshwater runoff channel, chooses cabin/path safety over saving the lowest strawberry strip, and states that the team stops when any member says stop. Has a shin bruise from a flying oar. Directs the softened rescue anchor to be marked and left for daylight inspection. No new romance or family-role change.
 - **Knowledge:** Shares the current-history reservoir memory with its five participants. Knows the storm's cause and lake condition after runoff are unresolved; no confirmed border breach.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND: leads the Poseidon-sibling outing within Grover's marked route, then joins Annabeth's observations. Turns the crab-race impulse into a hands-off observation game; she and Percy do not move the animals. She tells Percy and Silena about her own mother taking her to the Jersey shore and about her shell bucket. This is Clarisse's memory, not a shared mother-history for the three Poseidon siblings.
+- **Knowledge / carry-forward:** Hears Percy's Sally account and Annabeth's report about Frederick; she does not acquire either woman's or Percy's old-life memories. Her shin bruise is not worsened or newly assessed here. The lower tide route closes for the afternoon; future outing remains conditional on approval.

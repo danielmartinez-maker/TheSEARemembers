@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 27 still short
+# Expansion handoff queue: original 55, now 26 still short
 
-**Latest exact-head local QA:** 193 numbered files; 166 length-pass, 27 short, and 159,426 body words remain to the floor. Full-manuscript audit: 1,776,901 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 1,927,453 windows, zero exact matches. GitHub Actions verification for the next commit is pending. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Exact-source candidate QA:** 193 numbered files; 167 length-pass, 26 short, and 156,214 body words remain to the floor. Full-manuscript audit: 1,780,163 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 1,930,715 windows, zero exact matches. GitHub Actions verification for the published commit is tracked separately in PR #103. Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **159,426 words** across **27** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **156,214 words** across **26** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 now pass the length gate; Chapter 091 is the next chronological target.
+**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 pass the length gate; Chapter 091 also passes; Chapter 092 is next chronologically.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -44,11 +44,11 @@
 
 ## Wave B · 091–110
 
-20 chapters, **119,269 body words short**. These are sequential editorial assignments, not independent drafts.
+19 of 20 chapters remain short, with **116,057 body words short**. These are sequential editorial assignments, not independent drafts.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
-| [091](../../chapters/091-tide-pools.md) | Tide Pools | 6,788 | 3,212 | **NOT STARTED** |
+| [091](../../chapters/091-tide-pools.md) | Tide Pools | 10,050 | 0 | **LENGTH PASS; editorial review open** |
 | [092](../../chapters/092-jealousy-ii.md) | Jealousy II | 6,375 | 3,625 | **NOT STARTED** |
 | [093](../../chapters/093-movie-night.md) | Movie Night | 6,207 | 3,793 | **NOT STARTED** |
 | [094](../../chapters/094-sick-day.md) | Sick Day | 6,387 | 3,613 | **NOT STARTED** |

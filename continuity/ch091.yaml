@@ -1,0 +1,83 @@
+chapter: 91
+title: "Tide Pools"
+source: "chapters/091-tide-pools.md"
+status: "expanded to 10,050 body words; mechanical QA pending"
+chronology:
+  relative_time: "Morning after Chapter 090's storm; exact date, year and season unknown. Percy wakes at 7 AM, outing leaves at 9 AM, picnic arrives at noon, return is before dinner."
+  sequence: "Morning checks and medical recheck; supervised Poseidon-sibling outing; noon Grace-sibling picnic; upper-shelf observations; return and infirmary checks."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Cabin Three"
+  - "Big House"
+  - "Dining pavilion"
+  - "North-shore tide pools beyond the camp border"
+  - "Camp infirmary"
+participants:
+  outing: ["Percy", "Clarisse", "Silena", "Grover"]
+  picnic_and_later_observation: ["Percy", "Clarisse", "Silena", "Grover", "Annabeth", "Thalia"]
+  morning_check_reports: ["Chiron", "Will", "Katie Gardner", "Malcolm"]
+preceding_scene_verified:
+  chapter: 90
+  locator: "editorial/handoffs/ch090-storm-and-sea.md"
+  context: "Storm closes after dark; lake, ward, anchor, field and flag follow-up remain pending. Percy reported temporary hand tingling; Thalia has a dressed right-palm burn."
+following_scene_verified:
+  chapter: 92
+  locator: "chapters/092-jealousy-ii.md, opening"
+  context: "Next morning; Annabeth calls Percy her boyfriend/girlfriend, confirming established romance. Do not reset relationship."
+morning_status:
+  lake: "Fresh water; silt in north shallows; canoes remain closed pending settling and naiad check."
+  strawberry_strip: "Upper rows held; lowest strip flattened and washed out; path clear; replant waits for dry soil."
+  signal_code: "Calm-air demonstration passed; crosswind rehearsal remains pending; loss or blur still means stop."
+  ward: "No confirmed breach; hill ward reported at 90% and under repair. Inspected north route is approved for Grover-supervised excursion."
+  rescue_anchor: "Soft anchor remains orange-marked, roped off and out of service."
+medical_state:
+  percy: "Morning and evening grip checks; he reports no returning tingling; no diagnosis."
+  thalia: "Superficial right-palm burn remains wrapped and dry; Will changes outer dressing after outing and requires morning look before sparring."
+firsthand_events:
+  - "Grover supervises with route, chalk stopping line, whistle and headcounts; all attendees return, no fall or missing person reported."
+  - "The group observes tide-pool animals without handling them; one loose rock is returned to its exact place."
+  - "The lower route is closed as the tide rises. Percy and Annabeth observe one small octopus from the upper shelf without approaching or touching it."
+  - "Clarisse tells her own Jersey-shore memory about her mortal mother; it is not a shared maternal memory for Percy and Silena."
+reports_and_memory:
+  - speaker: "Annabeth"
+    listeners: ["Percy", "Clarisse", "Silena", "Thalia", "Grover"]
+    content: "Bounded account of Frederick and walks from the life Percy and Annabeth remember."
+    listener_status: "Heard report; no autobiographical memory transfer."
+  - speaker: "Percy"
+    listeners: ["Annabeth", "Clarisse", "Silena", "Thalia", "Grover"]
+    content: "Bounded Sally/blue-food memory from the life Percy remembers."
+    listener_status: "Heard report; no autobiographical memory transfer."
+  - character: "Amphitrite"
+    status: "Not told about the rewrite, Percy's old-life memories, or memory gap."
+objects_and_promises:
+  - item: "Single empty scallop valve found above wrack line"
+    owner: "Annabeth"
+    status: "Percy gives it to her; she keeps it in her pocket."
+  - item: "Portrait of Percy"
+    owner: "Percy"
+    status: "Silena gives it for his Cabin Three wall; carried flat in his backpack."
+  - item: "Watercolor portrait of Annabeth"
+    owner: "Annabeth"
+    status: "Silena gives it; Annabeth carries it in her tote."
+  - item: "Color copy of group sketch"
+    owner: "Promise by Silena for Percy to include in a future Amphitrite letter"
+    status: "Not made or mailed."
+  - item: "Return trip at a future low tide"
+    owner: "Percy and Annabeth suggest; all are interested"
+    status: "Not scheduled; requires Chiron/Grover approval and a safe route."
+next_chapter_requirements:
+  - "Percy and Annabeth remain established romantic partners."
+  - "Will's morning recheck is still required before Thalia spars."
+  - "Keep Percy's no-tingling reports distinct from medical diagnosis."
+  - "Do not treat the promised Amphitrite copy or letter as completed or received."
+  - "Storm inspection statuses remain unchanged absent a later witnessed or reported update."
+  - "No one except Percy and Annabeth gains autobiographical memories from their spoken reports."
+qa:
+  body_words: 10050
+  word_count_method: "Whitespace-separated body tokens; heading, dividers and comments excluded."
+  previous_and_next_scene_checked: true
+  canon_and_relationship_check: true
+  character_knowledge_and_gifts_checked: true
+  exact_300_token_duplicate_scan: "pending"
+  full_manuscript_qa: "pending"
+  independent_literary_signoff: "pending"

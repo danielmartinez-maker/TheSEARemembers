@@ -133,3 +133,9 @@
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND: assigns camp shelter, infirmary, shoreline, and hill teams; supervises/receives revised water and signal plans; stays with ward crew through the last strike. Afterward receives Percy's report of two misfires, runoff, and threats outside the border. Directs daylight checks of the canoe lake, creek, soft anchor, and outer ward after everyone is accounted for and treated.
 - **Knowledge:** States that the storm's cause and intent are unknown. The lake's post-runoff condition and full ward status are unverified; no confirmed breach.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND / REPORTED: authorizes Percy, Clarisse and Silena's supervised north-shore outing after morning status checks; assigns Grover to remain with them and gives return/tide boundaries. He receives Grover's all-returned count. At morning briefing, the lake is fresh but silted, canoes remain closed, the lower strawberry strip needs dry ground before repair, the rescue anchor remains out of service, ward work is active and crosswind flag testing remains pending.
+- **Carry-forward:** Does not mark any storm inspection fully resolved in this chapter. Future tide-pool trips require renewed route and timing approval.

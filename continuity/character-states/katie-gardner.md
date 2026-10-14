@@ -6,3 +6,9 @@
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND: moves seed trays from the higher path and chooses to let the lowest strawberry strip take runoff rather than turn it toward the cabins and walkways. Most rows remain upright; the lowest strip is damaged and marked for daylight inspection/replanting. The choice is hers, not a direction Percy invents for her.
 - **Carry-forward:** Field status is not fully assessed until the ground dries. Do not claim the lower strip was repaired or replanted.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND: reports at the Big House that the upper strawberry rows held, the lowest strip is flattened and washed out, and the cabin path remains clear. She keeps salvaged starts under cover and waits for dry soil before repairing or replanting.
+- **Carry-forward:** No repair or replanting has yet occurred by the outing's close.
