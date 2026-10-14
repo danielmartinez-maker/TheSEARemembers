@@ -972,6 +972,40 @@ Friday morning dawned clear and gold. Tyson packed his duffel slowly, folding hi
 
 "To keep safe on trip," he explained to Percy, who was sitting on his own bunk watching, trying not to look as miserable as he felt.
 
+A knock came at the cabin door. Finn stood outside with a small envelope and a piece of brass wrapped in cloth.
+
+"Nyssa said I could bring this," he told Tyson. "I finished the corrected gear drawing. The test casting still needs inspection, but she said the measurements are good."
+
+Tyson took the drawing and unfolded it on his bed. Percy could see the difference between this and Finn's first version. The shoulder that hadn't appeared in the old blueprint was now clearly marked, with the repair scar described in Finn's own careful lettering.
+
+"You did work," Tyson said.
+
+Finn looked embarrassed. "You showed me how."
+
+"I asked questions. You measured." Tyson tapped the notation beside the shaft. "This one is yours."
+
+Finn smiled.
+
+He handed over the piece of brass. It was a tiny gear, cut with the same number of teeth as the larger part but too small to do any real work.
+
+"I made it from scrap," he said. "For your bag. So you'll remember to come back and finish the real one."
+
+Tyson turned it over. "I do not have to finish it. You can."
+
+"I know." Finn shrugged. "I just want you to see it working when you visit again."
+
+"Then send picture," Tyson said. "I will write to Nyssa with my forge address."
+
+Percy watched the two of them agree on the next step without either making promises about when Tyson could return. It was a small thing, a toy gear and a drawing. It mattered because Finn had learned enough to carry on and Tyson had been trusted with a job that could continue without him.
+
+After Finn left, Tyson put the gear in the pocket of his duffel nearest the photograph. He left the drawing on Percy's desk for a moment while he found a sheet of paper to copy the contact address.
+
+"You want to keep a copy?" Percy asked.
+
+"Nyssa has original. Finn has notes. I want to know later if pump works."
+
+Percy nodded. He would have liked to put the drawing on the wall like an award. Tyson wanted news of the repair instead. Percy was getting better at understanding the difference.
+
 The whole camp turned out to say goodbye at the hill. Chiron shook Tyson's hand formally. Nyssa gave him a bronze gear pin from the forge — honorary Hephaestus — and Tyson pinned it to his blanket-cape with trembling fingers. Grover hugged his waist and made him promise to write. Clarisse ... Clarisse nodded at him, then, after a visible internal struggle, held out a small paper bag.
 
 "Peanut brittle," she muttered. "Silena said you like peanut stuff. Don't make it weird."
