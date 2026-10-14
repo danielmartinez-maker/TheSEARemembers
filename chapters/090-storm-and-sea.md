@@ -122,7 +122,7 @@ Jason opened his mouth like he wanted to argue — no one liked being split from
 
 "You're both electricians," Travis muttered, and Katie elbowed him.
 
-Chiron raised a hand. "All other cabins to defensive positions. Archers to the dining pavilion roof under cover. Healers to the infirmary with Mr. D. No one under twelve leaves their cabin. Go. The next wave hits in forty minutes."
+Chiron raised a hand. "All other cabins to defensive positions. Archers to the designated indoor shelter with their equipment secured. Healers to the infirmary with Mr. D. Every younger camper moves with a counselor to the approved interior shelter rather than remaining alone in an exposed cabin. Go. The next wave hits in forty minutes."
 
 The room exploded into motion.
 
@@ -144,9 +144,73 @@ Percy grinned, despite the thunder rolling hard enough to rattle the windows. "S
 
 ---
 
+The first thing Percy did at the beach was stop the team from running into the water.
+
+Clarisse had five volunteers and two rescue lines ready to go. The Sound was already rising against the dunes. A broken mast floated beyond the surf, and a small group of younger campers had begun gathering near the road, looking frightened but curious.
+
+"Everybody back to the upper marker," Percy said.
+
+Clarisse looked at him. "We've got a line."
+
+"I know. We need to check where the water is moving before anyone gets in it."
+
+She paused, then nodded. The siblings had spent a week learning to obey the same stop signals, and Percy was using one now instead of assuming he could hold every wave himself.
+
+Silena led the younger campers toward the shelter. She asked the counselors to count them by name rather than by cabin, because several children had been visiting friends when the storm warning sounded. Bea had her stuffed seal and wanted to know whether the magical tide pools from the spring beach day were safe.
+
+"They went home," Silena reminded her. "Remember? Their nursery is in Atlantis. The beach is not holding them here."
+
+Bea nodded, relieved. Lucy helped her walk behind the counselor, and Milo kept track of the names on the emergency list without asking which children were frightened. His job was to check attendance, not explain how everyone felt.
+
+Percy watched until they passed the protected turn. Then he turned back to the Sound.
+
+The rescue line was long enough for the marked practice area, not for waves that were now breaking across the entire beach. Clarisse examined the anchors. One was set in ground that had begun to soften. If they tied a person to it and the sand gave way, the line could drag them into the surf rather than pull them out.
+
+"We need to move it," she said.
+
+Percy looked at the higher rock shelf. "That one?"
+
+"Maybe. Check the attachment point."
+
+They called the trained shore crew rather than improvising a knot around a half-buried driftwood post. The crew tested the rock anchor and approved it for the rescue line. A second line was laid out for the lower walkway, in case anyone needed to move equipment away from the beach. Nobody entered the surf.
+
+Silena returned with the evacuation count. Every camper assigned to the beach group was accounted for, but there was one problem: the canvas kit containing the spare dry bandages had been left in the shoreline shed. The shed was near the old tide mark and already taking spray through the door.
+
+"I can get it," Percy said.
+
+"Not alone," Clarisse replied.
+
+"I can move water."
+
+"You can move water, and you're also a thirteen-year-old who nearly collapsed doing that last week."
+
+He looked at her. The memory of Will checking his hands after the storm kissed the back of his mind. He didn't like hearing it. He knew it was true.
+
+"Then can we leave the kit?" he asked.
+
+Silena looked toward the shed. "Yes. Will has supplies at the infirmary. The dry bandages aren't worth somebody getting trapped."
+
+Percy felt an odd relief. A month ago he would have tried to save the kit because it was there. Today he could let it go.
+
+They marked the shed as unsafe and told the maintenance crew not to enter until the water receded. The decision left the beach team with less equipment, but it kept everybody in a position they could defend.
+
+"All right," Clarisse said. "Now what do you need?"
+
+Percy looked at the approaching wave. He was beginning to feel the water pulling against his senses, as if it wanted to ask him a question in a language he understood only partly.
+
+"I need you to keep the line crew back until I say I can hold a channel," he replied. "If I call retreat, everybody goes. No debate."
+
+Clarisse nodded. "Agreed."
+
+"And Silena, don't come down if someone gets a scrape. Let Will decide who needs help."
+
+She smiled grimly. "Agreed."
+
+Percy took a breath. He didn't feel ready. He felt informed enough to try, with people nearby who could stop him if the plan failed.
+
 The beach was unrecognizable forty minutes later.
 
-Percy had grown up on this beach — summers learning to sail, winters sneaking out to talk to the seals, a hundred capture-the-flag battles in the dunes. He knew every dip and hollow, every place the tide liked to pool.
+Percy had learned this beach through his months at camp, through drills, walks with Annabeth and spring visits with his sisters. His remembered childhood had been spent with Sally in Manhattan; this life's earlier years belonged to Atlantis, not to first-person memories of a Long Island camp beach. He knew every dip and hollow, every place the tide liked to pool.
 
 All of it was gone under gray-green chaos.
 
