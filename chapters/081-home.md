@@ -978,7 +978,9 @@ Annabeth smiled, though her eyes were bright. "I'm going to miss you too."
 
 He took her hand. There was no promise that they wouldn't worry or feel lonely. There was the smaller, harder decision to keep writing and keep asking questions when they couldn't stand beside each other.
 
-At the top of the road the first bus honked. The trunks would drag. Goodbyes would be said with too much laughing so nobody cried, and then cried anyway. May would come with school and cities and quests yet unknown. But Camp would hold — pine and wards and hearth — and they would return, always, to this hill, to each other, to home that no distance could unmake.
+At the top of the road the first bus honked. Trunks dragged across the gravel. People laughed too loudly at goodbyes because they were trying not to cry, and several cried anyway. Annabeth gave Percy a small, folded copy of the corrected visitor map. It wasn't to remind him of the roads. He had helped her make the revision and knew why it mattered. He tucked it beside her last letter in his satchel. He would carry it to Atlantis, where he would have to learn another set of routes, some through the sea and some inside his own family.
+
+May would come with school and cities and questions they couldn't answer yet. Percy did not know whether every letter he sent would arrive on time. But camp had taught him that a missed appointment could be corrected, an unanswered question could be asked again, and home did not require everyone to stay in the same room. It required them to know how to find one another without pretending they had never left.
 
 ---
 
