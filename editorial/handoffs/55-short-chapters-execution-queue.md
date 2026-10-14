@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 40 still short
+# Expansion handoff queue: original 55, now 38 still short
 
-**Source:** GitHub Actions full-manuscript QA [run 38605972265](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38605972265). **Status:** Fifteen expanded chapters (066–077, plus 118, 132–133) now pass the 10k floor. All 193 numbered files present; 153 length-pass, 40 short. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Source:** GitHub Actions full-manuscript QA [run 38609594244](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38609594244). **Status:** Seventeen expanded chapters (066–079, plus 118, 132–133) now pass the 10k floor. All 193 numbered files present; 155 length-pass, 38 short. Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **208,815 words** across **40** chapters. The original 55/267,533 values below refer only to the historical pre-continuation baseline. The 55/267,533 figures below are the frozen pre-continuation baseline where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **200,138 words** across **38** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**13 chapters still short**, **49,389** words remain to 10k in this wave. Chapters 066–077 now pass the length gate; Chapter 078 is the next chronological target.
+**11 chapters still short**, **40,712** words remain to 10k in this wave. Chapters 066–079 now pass the length gate; Chapter 080 is the next chronological target.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -28,8 +28,8 @@
 | [075](../../chapters/075-zoe-s-story.md) | Zoe's Story | 10,087 | 0 | **LENGTH PASS; editorial review open** |
 | [076](../../chapters/076-the-promise-ii.md) | The Promise (II) | 10,350 | 0 | **LENGTH PASS; editorial review open** |
 | [077](../../chapters/077-beach-day-atlantis-style.md) | Beach Day (Atlantis Style) | 10,236 | 0 | **LENGTH PASS; editorial review open** |
-| [078](../../chapters/078-nico-s-birthday.md) | Nico's Birthday | 5,987 | 4,013 | **NOT STARTED** |
-| [079](../../chapters/079-elena-s-tale.md) | Elena's Tale | 5,336 | 4,664 | **NOT STARTED** |
+| [078](../../chapters/078-nico-s-birthday.md) | Nico's Birthday | 10,471 | 0 | **LENGTH PASS; editorial review open** |
+| [079](../../chapters/079-elena-s-tale.md) | Elena's Tale | 10,116 | 0 | **LENGTH PASS; editorial review open** |
 | [080](../../chapters/080-the-second-dance.md) | The Second Dance | 5,702 | 4,298 | **NOT STARTED** |
 | [081](../../chapters/081-home.md) | Home | 5,116 | 4,884 | **NOT STARTED** |
 | [082](../../chapters/082-letters-may.md) | Letters (May) | 6,107 | 3,893 | **NOT STARTED** |
