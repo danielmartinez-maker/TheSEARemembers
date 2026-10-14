@@ -726,6 +726,142 @@ Clarisse was crying openly now, not bothering to hide it. Silena put an arm arou
 
 "Never."
 
+Silena stayed kneeling beside Clarisse after the others had stood. She had one hand resting on the small pink shell, and Percy could see that she was thinking about more than the words Annabeth had just spoken.
+
+"Can I ask something?" Silena said.
+
+Percy nodded. "Yeah."
+
+"Is that what happens every time you look at me? You see somebody who died?"
+
+The question was too fair to dodge. Percy looked at Annabeth, who was still wiping her cheeks with the edge of her sleeve. Neither of them could answer for the other.
+
+"Sometimes," he admitted. "Not every time."
+
+Silena turned the shell so its pale opening faced the plaque. "I knew there was somebody you missed. You two told us enough when you arrived that I understood there were losses. I don't know what happened to the girl in your memory. And sometimes I think I don't want to know."
+
+"You don't have to," Annabeth said at once.
+
+"I know. But then I hear you talk about her, and I feel like I should be grateful for a life I didn't live." Silena took a breath. "I want to be glad I'm alive. I also want to be allowed to have my own bad days without everybody looking terrified."
+
+Clarisse's head came up. "Have we been doing that?"
+
+"A little. Percy especially."
+
+"Hey," Percy said automatically.
+
+"Percy," Silena replied, gentle but firm. "Last week I cut my finger opening a tin and you followed me to the infirmary even after Will said it was nothing."
+
+"It was bleeding."
+
+"It was a cut. You stood outside until I was finished with the bandage."
+
+He remembered that. He'd told himself he was being useful, that he would do the same for anyone. He hadn't done the same when Sherman nicked his thumb on a practice spear the following morning.
+
+"I'm sorry," he said.
+
+Silena looked surprised by how quickly he said it.
+
+"I'm not sorry I care," he continued. "But I don't want to make your whole life about how scared I am to lose you."
+
+Clarisse set the shell down gently. "I didn't know that was happening."
+
+"Because you were in the arena," Silena said. "And I didn't tell you."
+
+"You can tell me."
+
+"I am now."
+
+Clarisse absorbed that, then glanced at Percy. "You know, Jackson, my sister can take care of herself."
+
+"Our sister," Percy corrected.
+
+Clarisse rolled her eyes, but there was affection in the motion. "Our sister. Very capable. Excellent at making me feel like a villain because I ate the last peach."
+
+"You did eat the last peach," Silena said.
+
+"I was hungry."
+
+"It was labeled."
+
+Percy felt the familiar urge to turn the conversation into a joke. He let the joke sit without adding to it. Silena was still waiting for an answer to the important part.
+
+"When I look at you," he said, "I see you. I remember you making that terrible sea-salt candy. I remember you and Clarisse getting into a fight over the cabin curtains. I remember you helping Tyson with the blue blanket. Those are things I've actually been here for. Sometimes an old memory interrupts. But that isn't your fault, and it shouldn't become your job."
+
+Silena's eyes filled again, although she was smiling now.
+
+"Good," she said. "Because I refuse to be a tragic figure every time I enter a room."
+
+"Too late," Thalia called. "You're terribly tragic about being denied second dessert."
+
+"That was one incident."
+
+"Three incidents," Clarisse said.
+
+Silena gave both of them an offended look. "I'm surrounded by hostile witnesses."
+
+They laughed. Percy was grateful for the laughter, because it belonged entirely to this camp and these people. He wouldn't have known how to reproduce it in the world he'd lost, even if he had been given the chance.
+
+Annabeth crouched beside Silena and touched the edge of the shell.
+
+"Do you want us to stop talking about the other life around you?" she asked.
+
+Silena thought about it carefully. "I don't want you to think it's forbidden. I want you to ask before telling a story that's going to make me feel like I have to answer for somebody else."
+
+"Okay."
+
+"And when we tell you stories from our childhood, don't say 'I remember' if you mean you can imagine it."
+
+Annabeth felt the words. Percy saw it in the way she looked toward Thalia, then back at Silena. They'd both done that, sometimes without noticing: borrowing a memory that had been told so vividly it felt familiar.
+
+"That's fair," Annabeth said. "We can tell the difference."
+
+"Can you always?" Thalia asked.
+
+"No," Annabeth admitted. "Which is why I need you to correct me."
+
+Thalia nodded. It wasn't an accusation. It was the beginning of a better habit.
+
+Silena rose and dusted off her jeans. She looked down at the shell once more.
+
+"I wanted to leave this for the people I've met," she said. "Not for some version of me. For the ones who stood here before we did, and the ones who'll need this place later."
+
+"Then that's what it means," Percy said.
+
+"It means what I choose," Silena corrected, smiling.
+
+He nodded. "Right."
+
+A breeze lifted the corner of the leaf-wrapped ambrosia on the offering stone. Annabeth noticed and made a small note on the back of her folded shrine plan to remind Chiron about safe removal. Percy recognized the impulse. It was an ordinary duty, a small thing that wouldn't be solved by giving a speech.
+
+"We should go," Clarisse said. "I'm on table duty."
+
+"And Percy still has rope," Annabeth added.
+
+Percy groaned. "Why does everybody remember that?"
+
+"Because unlike you," Thalia said, "some of us are excellent at keeping track of chores."
+
+"You once forgot your own patrol whistle."
+
+"It was under my pillow."
+
+"Not an improvement."
+
+Silena caught Percy's sleeve before he could turn toward the path. "One more thing."
+
+"Yeah?"
+
+"I like hearing about Sally sometimes. When you choose to tell me. I'm not asking you to stop remembering her."
+
+He felt his throat tighten. "Thanks."
+
+"I just don't want to be a memorial somebody has to keep alive," she said. "I'm standing right here."
+
+Percy looked at her properly: alive and annoyed and ready for dinner, with green eyes and a faint scar on one knuckle from a cabin project that had gone wrong last winter. He knew the story because he'd helped carry her supplies home afterward.
+
+"Yeah," he said. "You are."
+
 ---
 
 They stayed until the conch blew for dinner, adding their own offerings to the stone.
