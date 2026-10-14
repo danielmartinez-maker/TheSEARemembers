@@ -2,15 +2,13 @@
 
 
 
-The first thing Percy Jackson learned about strawberry harvest duty was that nobody at Camp Half-Blood woke up cheerful for it.
-
-The second thing he learned was that the conch horn Chiron used to wake the strawberry crew sounded absolutely nothing like the ocean. It sounded like a goose getting stepped on.
+Percy had heard the harvest conch before, but he'd never been responsible for helping get Cabin Three to the field before the picking crew formed. Clarisse had put the route roster on the door, Silena had labelled the baskets, and somebody had borrowed his dry gloves. Percy found a spare pair and decided it wasn't worth holding up the group to find the thief. Being part of a household sometimes meant turning up for work before anybody had time to complain.
 
 "Up! Up! Harvest crew, boots on!" The voice of Mr. D echoed across the cabins, magically amplified and deeply annoyed. "Yes, yes, your beauty sleep is over. The strawberries will rot if you dawdle and then where will we get money for your little horse camp? Chop chop!"
 
 Percy sat straight up in his bunk, hair sticking in seven directions, salt still crusted behind his ears from yesterday's canoe lesson. The Poseidon cabin was quiet except for the drip of the fountain in the corner and the soft clink of seashells on his windowsill.
 
-He'd been at camp a few weeks now. He knew the schedule by heart: breakfast, training, lessons, free time, dinner, campfire. But today was different. Today was Harvest Day, which apparently happened several times a season, when every available camper from age twelve up got drafted into picking the famous Camp Half-Blood strawberries — the ones that kept the camp funded in the mortal world, grown extra sweet and extra fast thanks to Dionysus and Demeter kids working overtime.
+He'd been at camp long enough to recognize which arguments would delay breakfast and which would get him an extra inventory form from Silena. Today was different. Today was Harvest Day, which apparently happened several times a season, when every available camper from age twelve up got drafted into picking the famous Camp Half-Blood strawberries — the ones that kept the camp funded in the mortal world, grown extra sweet and extra fast thanks to Dionysus and Demeter kids working overtime.
 
 He pulled on his orange CAMP HALF-BLOOD shirt, shorts, and sneakers that were already stained pink from last week's berry snack incident, and stumbled out into the morning light.
 
@@ -398,7 +396,7 @@ She looked toward the field. Thalia and Clarisse were still competing over whose
 
 ---
 
-Silena Beauregard believed, deeply and sincerely, that any problem could be solved with snacks, shade, and good company.
+Silena Beauregard had learned that snacks, shade and good company helped a crew stay on its feet, but none of them corrected a scale that had slipped out of calibration. She would be the one explaining to the kitchen why the morning's weight totals couldn't be trusted, even if the camp picked enough fruit to meet the target. She was learning that doing a job properly sometimes meant being unpopular for an hour.
 
 So while the rest of the camp collapsed in the grass around the collection tent for lunch — dusty, sweaty, berry-stained to the elbows — Silena and her friends from the Aphrodite cabin had transformed the shade tent into something out of a storybook. A checkered cloth, a cooler of pink lemonade, a plate of peanut-butter sandwiches cut into triangles, and a big bowl of the slightly bruised berries nobody could sell, for snacking.
 
@@ -898,6 +896,6 @@ Thalia looked at the jam jar, then at Percy.
 
 "If Clarisse doesn't find it first," he said.
 
-They finished it before she arrived, which produced an argument at lunch and a promise to save her a jar from the next batch. Silena wrote the promise on the kitchen's preserves request instead of trusting Percy to remember. Clarisse inspected the form, found her name correctly spelled and declared the arrangement provisionally acceptable, provided the next jar actually reached her breakfast table.
+That afternoon a Roman courier confirmed Chiron had secured authorization for Jason's supervised seven-day visit. Thalia read the approval twice, then asked for a spare cot in Cabin One and counted how many days her brother would actually be allowed to stay. Annabeth wanted to know whether they should postpone the storm lesson, but Thalia said they could ask Chiron to approve both separately. Jason was due before supper; neither girl had heard him promise he would remember their old games, and Thalia was determined not to greet him with a test. They finished the jam before Clarisse arrived, which produced an argument at lunch and a promise to save her a jar from the next batch. Silena wrote the promise on the kitchen's preserves request instead of trusting Percy to remember. Clarisse inspected the form, found her name correctly spelled and declared the arrangement provisionally acceptable, provided the next jar actually reached her breakfast table.
 
 

@@ -2,7 +2,7 @@
 
 Percy knew better than to trust Annabeth when she showed up before breakfast with a rolled-up piece of graph paper under her arm and that particular look on her face.
 
-It wasn't the I'm-going-to-push-you-in-the-lake look. It wasn't even the I'm-about-to-argue-with-a-god look. It was worse. It was the I've-had-an-idea-at-three-in-the-morning-and-drew-schematics look.
+Annabeth had been up late at her desk in Cabin One, and Percy recognized the tight roll of graph paper by the bent corners and graphite on her knuckles. It meant she'd worked out most of the design in her head and now needed somebody to explain why the materials at camp might object. He liked being the person she came to, even when he knew he'd wind up hauling boards.
 
 "No," he said immediately, mouth full of toast.
 
@@ -366,7 +366,7 @@ Annabeth and Thalia bent over the little bronze frame, heads almost touching, ar
 
 It was — nice. Clarisse didn't use words like cozy or domestic, because she was Clarisse, but the forge on a warm morning with her siblings and the Hephaestus kids and the clang and the heat, everyone making something — it settled in her chest like a good meal.
 
-She was Poseidon's daughter. Percy had told her she had been Ares's daughter in the other life he and Annabeth remembered: different spear, different cabin, a father who praised rage. Clarisse had no flashes of that history, no other childhood waiting behind this one. She knew her own father, and she liked the sea's lesson better than the one in Percy's account. The sea didn't ask her to be angry all the time. The sea could be calm, too. The sea could hold you up.
+She was Poseidon's daughter. Percy had told her that in the life he and Annabeth remembered, Clarisse belonged to Ares's cabin instead, with a different father and a different set of expectations. She could recall the conversation; she couldn't recall being that other girl. Percy had described an Ares daughter who fought well and got angry easily, but Clarisse refused to let somebody else's remembered history decide how she was supposed to feel about the father she'd actually known. She liked the sea's lesson better than the one in his account. The sea didn't ask her to be angry all the time. The sea could be calm, too. The sea could hold you up.
 
 "Clarisse! Quench!" Beckendorf said.
 
@@ -678,7 +678,7 @@ Thalia was quiet for a moment, turning a bronze offcut over in her fingers. The 
 
 "Who was your mom then?"
 
-"Athena." Annabeth's throat tightened. "She was — she was my mom. She gave me the cap and the laptop and the — she argued with me and pushed me and I spent my whole life trying to make her proud."
+"Athena." Annabeth kept her voice for Thalia alone. "She was my mother. She taught me to look at a building and think about the people who had to use it. We argued a lot. I still want to make things she'd understand." She looked down at the owl sketch. "I don't want loving that part of my life to mean I'm less your sister here."
 
 "And who's your dad now?"
 
