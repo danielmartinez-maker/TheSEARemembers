@@ -7977,18 +7977,18 @@
       "path": "chapters/067-fishing.md",
       "title": "Chapter 67: Fishing",
       "name_mentions": {
-        "Percy": 80,
-        "Annabeth": 63,
-        "Thalia": 36,
-        "Clarisse": 39,
-        "Silena": 42,
+        "Percy": 133,
+        "Annabeth": 88,
+        "Thalia": 50,
+        "Clarisse": 79,
+        "Silena": 61,
         "Poseidon": 6,
-        "Triton": 9,
-        "Tyson": 10,
-        "Chiron": 1,
-        "Grover": 30,
+        "Triton": 12,
+        "Tyson": 12,
+        "Chiron": 4,
+        "Grover": 51,
         "Zeus": 5,
-        "Ella": 47
+        "Ella": 78
       },
       "event_cues_for_manual_review": [
         {
@@ -8061,7 +8061,16 @@
           "excerpt": "Silena, who had her hands cupped perfectly still, did not move except to smile. \"Clarisse. Stillness. Remember what Triton said. Hammers rust.\""
         },
         {
-          "line": 391,
+          "line": 527,
+          "named": [
+            "Percy",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "Percy folded the label between his fingers and looked at the words Silena had written: KEEP ONLY WHAT WE CAN USE. She had made the letters large enough that anyone could read them over the handle of the bucket. He didn't think it would stop"
+        },
+        {
+          "line": 1001,
           "named": [
             "Annabeth"
           ],
@@ -8080,13 +8089,15 @@
       "path": "chapters/068-the-storm-small.md",
       "title": "Chapter 68: The Storm (Small)",
       "name_mentions": {
-        "Percy": 77,
-        "Annabeth": 86,
-        "Thalia": 44,
-        "Clarisse": 13,
-        "Poseidon": 3,
-        "Chiron": 24,
-        "Zeus": 5
+        "Percy": 117,
+        "Annabeth": 159,
+        "Thalia": 76,
+        "Clarisse": 34,
+        "Silena": 9,
+        "Poseidon": 4,
+        "Chiron": 41,
+        "Zeus": 5,
+        "Beckendorf": 5
       },
       "event_cues_for_manual_review": [
         {
@@ -8128,31 +8139,37 @@
           "excerpt": "Percy just lay there for a second staring up at the blue sky. Then he lifted one hand and gave Annabeth a thumbs-up without looking at her, because he knew exactly where she was sitting."
         },
         {
-          "line": 57,
-          "named": [
-            "Percy",
-            "Poseidon"
-          ],
-          "excerpt": "Lunch in the pavilion was a crush of noise. At the Poseidon table Percy was trying to eat one-handed while sketching something on a napkin."
-        },
-        {
-          "line": 59,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "“Is that a boat?” Annabeth asked, sliding in beside him with her plate."
-        },
-        {
-          "line": 61,
+          "line": 37,
           "named": [
             "Percy"
           ],
-          "excerpt": "“It’s a trireme,” Percy said with dignity. “For your pond model.”"
+          "excerpt": "She held her practice spear horizontally to show him where she'd been striking. Percy set his feet the way she directed, shifted his weight and tried the block slowly. Sherman leaned over the rail, pointing out that Percy's left shoulder wa"
+        },
+        {
+          "line": 39,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "\"Because she's hit it twice,\" Percy said."
+        },
+        {
+          "line": 41,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "\"Because you keep putting it where I can hit it,\" Clarisse replied."
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 267,
+          "line": 571,
+          "named": [
+            "Thalia"
+          ],
+          "excerpt": "She went back to Thalia without adding another sentence. It was a small success, almost invisible. She'd wanted to stay until the boy smiled, or tell him a funny story, or make him promise not to fear her. Instead she'd asked what he needed"
+        },
+        {
+          "line": 617,
           "named": [
             "Annabeth",
             "Chiron"
@@ -8160,7 +8177,7 @@
           "excerpt": "Chiron turned his gentle gaze on Annabeth. “Do you remember what your surge looked like in December, my dear?”"
         },
         {
-          "line": 317,
+          "line": 667,
           "named": [
             "Percy",
             "Annabeth",
@@ -8169,18 +8186,11 @@
           "excerpt": "They stood there while the breeze picked up and ruffled the lake. Annabeth breathed in for four, held for four, out for six. She visualized it the way Thalia had taught her: herself as a riverbed, the sky-energy as water running over, not p"
         },
         {
-          "line": 399,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "“Good.” Percy was quiet for a moment, watching the rain. Then he said, “Can I tell you something? And you have to promise not to architect it to death.”"
-        },
-        {
-          "line": 437,
+          "line": 1055,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "“She’s my sister,” Annabeth said, and the words came easier now. The blood relationship still belonged to a childhood she could not remember, but the shared powers, late-night talks, and someone who knew exactly what it felt like to have sk"
+          "excerpt": "Annabeth slipped the page into her notebook. She had not hidden it, and she had not asked anyone to promise she would never make a mistake again. She had given the people around her a way to help that didn't require them to guess what was h"
         }
       ],
       "event_witnesses_verified": false,
@@ -15235,17 +15245,19 @@
       "path": "chapters/132-a-month-beneath-the-sea.md",
       "title": "Chapter 132: A Month Beneath the Sea",
       "name_mentions": {
-        "Percy": 54,
-        "Annabeth": 37,
+        "Percy": 117,
+        "Annabeth": 44,
         "Thalia": 12,
-        "Clarisse": 28,
-        "Silena": 28,
-        "Amphitrite": 1,
-        "Poseidon": 7,
-        "Triton": 11,
-        "Chiron": 15,
+        "Clarisse": 31,
+        "Silena": 35,
+        "Amphitrite": 5,
+        "Poseidon": 14,
+        "Triton": 18,
+        "Tyson": 1,
+        "Chiron": 30,
         "Grover": 1,
-        "Zeus": 1
+        "Zeus": 1,
+        "Beckendorf": 8
       },
       "event_cues_for_manual_review": [
         {
@@ -15310,7 +15322,23 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 782,
+          "line": 381,
+          "named": [
+            "Chiron"
+          ],
+          "excerpt": "He folded the roster and put it in his pocket. He could show Chiron what he had promised rather than assuming someone else would remember it for him."
+        },
+        {
+          "line": 497,
+          "named": [
+            "Percy",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "She'd removed it from its sleeve. The garden behind the family was pale and green in the afternoon light, a place Percy could name every fountain in but couldn't fully remember from childhood. Clarisse's expression had been caught halfway b"
+        },
+        {
+          "line": 1246,
           "named": [
             "Percy",
             "Annabeth",

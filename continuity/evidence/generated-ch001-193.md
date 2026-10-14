@@ -1063,7 +1063,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/067-fishing.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 80, Annabeth 63, Ella 47, Silena 42, Clarisse 39, Thalia 36, Grover 30, Tyson 10, Triton 9, Poseidon 6
+- Name appearances (not proof of presence): Percy 133, Annabeth 88, Clarisse 79, Ella 78, Silena 61, Grover 51, Thalia 50, Triton 12, Tyson 12, Poseidon 6
 - Event/action candidates to inspect in context:
   - Line 5: Third plank from the shore sang a low note when stepped on. Fifth plank clicked. Seventh plank, the one with the nail head shaped like a tiny trident where some Poseidon kid from twenty years ago had gotten bored with a hammer, always staye
   - Line 9: "No, look," she said, pencil tucked behind her ear, hair pulled back in a loose braid that Thalia had done that morning. "If the tide is coming in at oh-seven-hundred the eddy behind the dock pilings should spin counterclockwise. But yester
@@ -1072,13 +1072,14 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 25: "You eat cheese enchiladas by the tray," Percy said.
 - Memory/disclosure candidates to inspect:
   - Line 129: Silena, who had her hands cupped perfectly still, did not move except to smile. "Clarisse. Stillness. Remember what Triton said. Hammers rust."
-  - Line 391: "Deal," Annabeth said, and sealed it the way they always did — pinky promise, solemn as an oath on the Styx, both of them trying not to smile and failing.
+  - Line 527: Percy folded the label between his fingers and looked at the words Silena had written: KEEP ONLY WHAT WE CAN USE. She had made the letters large enough that anyone could read them over the handle of the bucket. He didn't think it would stop
+  - Line 1001: "Deal," Annabeth said, and sealed it the way they always did — pinky promise, solemn as an oath on the Styx, both of them trying not to smile and failing.
 
 ## 068: Chapter 68: The Storm (Small)
 
 - [Source](../../chapters/068-the-storm-small.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 86, Percy 77, Thalia 44, Chiron 24, Clarisse 13, Zeus 5, Poseidon 3
+- Name appearances (not proof of presence): Annabeth 159, Percy 117, Thalia 76, Chiron 41, Clarisse 34, Silena 9, Zeus 5, Beckendorf 5, Poseidon 4
 - Event/action candidates to inspect in context:
   - Line 13: “It might,” Percy said. “Character growth.”
   - Line 19: “He’s working on his left-side guard,” Annabeth answered, trying to keep her smile out of it. “Clarisse keeps exploiting it.”
@@ -1086,9 +1087,9 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 23: In the ring Percy tried to pivot left and Clarisse caught him clean behind the knee with the butt of her spear and sent him sprawling for the second time in four minutes. The Ares kids cheered. The Hermes kids who’d bet on Percy booed.
   - Line 25: Percy just lay there for a second staring up at the blue sky. Then he lifted one hand and gave Annabeth a thumbs-up without looking at her, because he knew exactly where she was sitting.
 - Memory/disclosure candidates to inspect:
-  - Line 267: Chiron turned his gentle gaze on Annabeth. “Do you remember what your surge looked like in December, my dear?”
-  - Line 317: They stood there while the breeze picked up and ruffled the lake. Annabeth breathed in for four, held for four, out for six. She visualized it the way Thalia had taught her: herself as a riverbed, the sky-energy as water running over, not p
-  - Line 399: “Good.” Percy was quiet for a moment, watching the rain. Then he said, “Can I tell you something? And you have to promise not to architect it to death.”
+  - Line 571: She went back to Thalia without adding another sentence. It was a small success, almost invisible. She'd wanted to stay until the boy smiled, or tell him a funny story, or make him promise not to fear her. Instead she'd asked what he needed
+  - Line 617: Chiron turned his gentle gaze on Annabeth. “Do you remember what your surge looked like in December, my dear?”
+  - Line 667: They stood there while the breeze picked up and ruffled the lake. Annabeth breathed in for four, held for four, out for six. She visualized it the way Thalia had taught her: herself as a riverbed, the sky-energy as water running over, not p
 
 ## 069: Chapter 69: Silena's Song
 
@@ -2074,7 +2075,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/132-a-month-beneath-the-sea.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 54, Annabeth 37, Clarisse 28, Silena 28, Chiron 15, Thalia 12, Triton 11, Poseidon 7, Amphitrite 1, Grover 1
+- Name appearances (not proof of presence): Percy 117, Annabeth 44, Silena 35, Clarisse 31, Chiron 30, Triton 18, Poseidon 14, Thalia 12, Beckendorf 8, Amphitrite 5
 - Event/action candidates to inspect in context:
   - Line 3: The shell had rested on Percy's desk for three days, catching morning light through the cabin window. Across its pale spiral ran a thread of blue that brightened whenever the tide turned, pulsing faintly as though keeping time with distant 
   - Line 5: Morning and night, Percy had listened to it once each, then again yesterday while Riptide waited half-polished on his bunk. Brine still clung to the shell's curve when he lifted it, and the faint hum of distant surf rose from its mouth befo
@@ -2082,7 +2083,9 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 13: Pocketing the shell, with Riptide at his hip, he left the cabin into cool morning air. Dew silvered the grass and the pine scent hung low off the hill, mingled with woodsmoke from the breakfast fires and the clean mineral breath of the lake
   - Line 23: Settling onto the wall beside her, he left a hand's width between them. Salt and lake-water clung to the stone, and a damselfly rested a moment on the map's edge before lifting away. "It's from my dad. He asked if I want to come back for a 
 - Memory/disclosure candidates to inspect:
-  - Line 782: Conversation drifted onward: a cracked shield in the armory, its boss split from a mistimed block, a new path cut through the woods where roots still showed pale, the enduring question of whether Grover had counted the breakfast rolls corre
+  - Line 381: He folded the roster and put it in his pocket. He could show Chiron what he had promised rather than assuming someone else would remember it for him.
+  - Line 497: She'd removed it from its sleeve. The garden behind the family was pale and green in the afternoon light, a place Percy could name every fountain in but couldn't fully remember from childhood. Clarisse's expression had been caught halfway b
+  - Line 1246: Conversation drifted onward: a cracked shield in the armory, its boss split from a mistimed block, a new path cut through the woods where roots still showed pale, the enduring question of whether Grover had counted the breakfast rolls corre
 
 ## 133: Chapter 133: Annabeth's Birthday
 

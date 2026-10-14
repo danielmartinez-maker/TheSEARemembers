@@ -901,24 +901,24 @@
     {
       "chapter": 67,
       "path": "chapters/067-fishing.md",
-      "body_words": 5758,
-      "shortfall": 4242,
-      "passes_length": false,
+      "body_words": 10292,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.194,
-      "median_paragraph_words": 23
+      "dialogue_line_ratio": 0.257,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 68,
       "path": "chapters/068-the-storm-small.md",
-      "body_words": 5529,
-      "shortfall": 4471,
-      "passes_length": false,
+      "body_words": 10328,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.211,
-      "median_paragraph_words": 20
+      "dialogue_line_ratio": 0.271,
+      "median_paragraph_words": 12
     },
     {
       "chapter": 69,
@@ -1677,12 +1677,12 @@
     {
       "chapter": 132,
       "path": "chapters/132-a-month-beneath-the-sea.md",
-      "body_words": 6296,
-      "shortfall": 3704,
-      "passes_length": false,
+      "body_words": 10243,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.342,
+      "dialogue_line_ratio": 0.334,
       "median_paragraph_words": 10
     },
     {
@@ -2446,7 +2446,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1664235,
+  "window_comparisons": 1677515,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2457,9 +2457,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 140,
-  "failing": 53,
-  "total_shortfall": 264551,
+  "passing": 143,
+  "failing": 50,
+  "total_shortfall": 252134,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }
