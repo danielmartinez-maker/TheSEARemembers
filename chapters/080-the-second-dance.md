@@ -228,7 +228,139 @@ Clarisse hesitated, the old embarrassment flickering. Then she nodded, short. "Y
 
 Silena laughed and linked arms with both of them, war and love and sea, and Percy watched with his hands in slow-dance shape, grinning when a firefly landed on his sleeve like applause, same as before.
 
-One-two-three, he told the firefly. It blinked and drifted off toward the lake, same as before. Growth and repetition, side by side.
+One-two-three, he told the firefly. It blinked and drifted off toward the lake. It was strange how much easier counting felt when he was helping somebody else.
+
+Before they left, Tyson stayed in the range and tried the steps by himself. Percy watched from the bench, where Clarisse had sat to retie a bootlace.
+
+The dance looked different when Tyson did it alone. His movements were precise, almost delicate, the way they were when he checked a gear before installing it. He counted under his breath and moved one foot at a time, careful not to scrape the chalked lines.
+
+"Can I ask you something?" Percy said.
+
+"Yes, brother."
+
+"Why do you want to dance this time?"
+
+Tyson stopped. "Because it is fun."
+
+"Sure. But you watched the first one."
+
+"Watching was fun too."
+
+"Then what changed?"
+
+Tyson sat down beside him, making the bench creak. "Last time I thought if I danced I would break something. I am big. People are small. You know this."
+
+Percy nodded.
+
+"I know I can hold things gently," Tyson continued. "I do not always know whether other people know. Some look at me like I am a rock falling off a cliff."
+
+Clarisse tightened the lace and looked over. Percy could see she was listening, but for once she didn't have a joke prepared.
+
+"So this time," Tyson said, "I want to ask someone. If they say yes, then I dance. If they say no, then I dance by myself or watch. I have learned."
+
+"Who did you want to ask?" Percy said.
+
+Tyson thought about it. "Silena is my sister. She promised she would teach. Clarisse said all three of us should dance. I would like that. And maybe I would like to ask Nyssa, because she helped me with the forge work and I think she is funny."
+
+"Nyssa is a good choice," Percy said. "But you should ask her. Not send Clarisse to tell her."
+
+Clarisse snorted. "I wasn't going to."
+
+Percy raised his eyebrows.
+
+"I wasn't," she repeated. "And it's not my job to find my brother a dance partner. He knows how to use words."
+
+Tyson grinned. "Yes, sister Clarisse."
+
+He went toward the forge, where Nyssa was checking the evening equipment list. Percy followed far enough to make sure the path was clear but stopped before they reached her. Tyson asked if he could speak to her for a minute. When she said she was busy, he waited.
+
+After a while she came out holding a measuring tape and a pencil.
+
+"What's up, Tyson?"
+
+"Would you like a dance on Saturday? At the Big House? I know I am very big. I can dance slowly."
+
+Nyssa looked surprised. "Thanks for asking. I don't want a formal partner. I'm going to be helping with the lights most of the evening."
+
+Tyson nodded at once. "Okay."
+
+"But," she added, "if I get a break and there's a group song, I'd be happy to dance in the group."
+
+Tyson's expression brightened. "I would like that."
+
+"Then see you there." She glanced at Percy, who was trying very hard not to be visible. "And tell your brother I can hear him breathing behind that wall."
+
+Percy emerged. "I wasn't doing anything."
+
+"You were hovering."
+
+"That's a hobby."
+
+Tyson was laughing as they walked away. Percy liked that the answer hadn't hurt him. He had asked, received a real answer, and still had a plan for Saturday. It was less dramatic than the movies made it look.
+
+They returned to the range where Silena was putting away the music box. Tyson told her what had happened. She listened without interrupting.
+
+"Then we'll do one song together," she said. "But I want you to be comfortable on the floor too. We can't rehearse everything."
+
+"What if I step wrong?"
+
+"Then you stop and start again. Just like the forge."
+
+Tyson considered that. "At the forge, stopping is important when something is wrong."
+
+"Exactly."
+
+Annabeth arrived near the end with a rolled drawing of the Big House floor. She had been asked to check the dance layout because Chiron wanted a clear path between the door and the refreshments, and because the Stolls had proposed putting a chair directly in front of the only easy exit.
+
+"That chair isn't staying," she said.
+
+Percy looked at the map. "Is this for the dance or a siege?"
+
+"Both benefit from sensible traffic flow."
+
+She spread the drawing on the practice bench. The dancers would enter on one side of the room, the punch table would stand against the opposite wall, and the aisle nearest the doors would stay open. There was plenty of room for smaller campers to move along the edge without having to pass through the center.
+
+Tyson leaned over the drawing. "Where will I stand?"
+
+"Where you like, as long as you can move without blocking anyone." Annabeth tapped a space near the back of the dance floor. "This corner is good for practicing. It's away from the chairs and close to a clear path."
+
+"Can I ask people not to push me?"
+
+"Of course."
+
+"Sometimes they forget."
+
+"Then tell them."
+
+He examined the drawing. "I think I would like to dance here at first. Then maybe the middle."
+
+Percy watched Annabeth mark the spot with a small pencil circle. She didn't label it *Tyson's space* or make it a rule that nobody else could use it. It was simply a place Tyson had chosen for the first song.
+
+"Will you be dancing too?" Tyson asked.
+
+"With Percy," she said.
+
+"Good. He has practiced a lot."
+
+Percy groaned. "We are not telling the entire camp."
+
+"We are," Clarisse called from the equipment racks. "I'm putting it in the announcements."
+
+Annabeth laughed. She rolled up the drawing and slipped it into her satchel.
+
+On the way back to Cabin Three, Tyson told Percy that he liked the practice better than the first dance had sounded. There had been mistakes, people saying no, a map that might need changes, and no guarantee the evening would be perfect.
+
+"Good," Percy said. "That's what real dances are like."
+
+"Have you been to many?"
+
+"Two if you count the first one and the one we're about to go to."
+
+"Then maybe I know as much as you."
+
+Percy laughed. "Probably more."
+
+Tyson went inside to hang up his clean dance shirt where nobody would spill lake water on it. Percy looked back toward the range, thinking about how often he'd wanted his brother to stay in camp because Percy needed the company. Tonight Tyson had made plans that belonged to him. It felt like the right way for a good week to begin.
 
 ---
 
