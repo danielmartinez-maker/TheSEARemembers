@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 50 still short
+# Expansion handoff queue: original 55, now 47 still short
 
-**Source:** Generated full-manuscript word audit on `audit/four-phase-continuity-2026-10-13`, October 13, 2026 (Monterrey time). **Status:** Chapters 066, 067, 068, 132 and 133 received original, bounded scene expansions on PR #103. All five pass the mechanical length floor; independent full literary signoff remains open. The counts are mechanical, not prose-approval claims.
+**Source:** Last full-corpus report plus October 14 Chapter 070 chapter-local recount. **Status:** Chapters 066–070, 118, 132–133 now pass the 10k mechanical floor (eight expanded chapters). The newest-head full-manuscript workflow must be used before treating corpus totals and duplicate status as independently reconfirmed. Independent prose signoff remains open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Current mandatory shortfall: **252,134 words** across **50** chapters. The 55/267,533 figures below are the frozen pre-continuation baseline where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Expected mandatory shortfall: **239,128 words** across **47** chapters, using chapter-local arithmetic after the last completed full-corpus checkpoint. The 55/267,533 figures below are the frozen pre-continuation baseline where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,15 +12,15 @@
 
 ## Wave A · 066–090
 
-**22 chapters still short**, **87,629** words remain to 10k. Chapters 066–068 have now passed the length gate; remaining chapters are sequential editorial assignments.
+**20 chapters still short**, **79,702** words remain to 10k. Chapters 066–070 have now passed the length gate; remaining chapters are sequential editorial assignments.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
 | [066](../../chapters/066-jason-s-letter.md) | Jason's Letter | 10,572 | 0 | **LENGTH PASS; editorial review open** |
 | [067](../../chapters/067-fishing.md) | Fishing | 10,292 | 0 | **LENGTH PASS; editorial review open** |
 | [068](../../chapters/068-the-storm-small.md) | The Storm (Small) | 10,328 | 0 | **LENGTH PASS; editorial review open** |
-| [069](../../chapters/069-silena-s-song.md) | Silena's Song | 6,001 | 3,999 | **NOT STARTED** |
-| [070](../../chapters/070-clarisse-s-poems.md) | Clarisse's Poems | 6,072 | 3,928 | **NOT STARTED** |
+| [069](../../chapters/069-silena-s-song.md) | Silena's Song | 10,118 | 0 | **LENGTH PASS; editorial review open** |
+| [070](../../chapters/070-clarisse-s-poems.md) | Clarisse's Poems | 10,543 | 0 | **LENGTH PASS; editorial review open** |
 | [071](../../chapters/071-anniversary.md) | Anniversary | 5,995 | 4,005 | **NOT STARTED** |
 | [072](../../chapters/072-new-kids.md) | New Kids | 5,751 | 4,249 | **NOT STARTED** |
 | [073](../../chapters/073-the-play.md) | The Play | 5,604 | 4,396 | **NOT STARTED** |
@@ -79,7 +79,7 @@
 | [115](../../chapters/115-the-old-photograph.md) | The Old Photograph | 4,218 | 5,782 | **NOT STARTED** |
 | [116](../../chapters/116-cabin-three-rules.md) | Cabin Three Rules | 4,771 | 5,229 | **NOT STARTED** |
 | [117](../../chapters/117-a-day-apart.md) | A Day Apart | 4,916 | 5,084 | **NOT STARTED** |
-| [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 4,921 | 5,079 | **NOT STARTED** |
+| [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 10,464 | 0 | **LENGTH PASS; editorial review open** |
 | [119](../../chapters/119-sisters-errand.md) | Sisters' Errand | 4,790 | 5,210 | **NOT STARTED** |
 | [120](../../chapters/120-a-letter-from-the-sea.md) | A Letter from the Sea | 4,738 | 5,262 | **NOT STARTED** |
 
@@ -108,7 +108,7 @@ The five expansions are **source-reviewed for bounded callbacks and length**, no
 
 ## Dependency-aware writing packets
 
-- **Packet 01: Chapters 66–70.** Chapters 066, 067, 068 length-pass; 069–070 pending. Verify Chapter 65 closing scene, reconstruct each chapter's witnesses and promises, stage 66 before 67, and check Chapter 71 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
+- **Packet 01: Chapters 66–70.** Chapters 066–070 length-pass; independent editorial review pending. Verify Chapter 65 closing scene, reconstruct each chapter's witnesses and promises, stage 66 before 67, and check Chapter 71 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: length completed, prose review pending.**
 - **Packet 02: Chapters 71–75.** Verify Chapter 70 closing scene, reconstruct each chapter's witnesses and promises, stage 71 before 72, and check Chapter 76 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
 - **Packet 03: Chapters 76–80.** Verify Chapter 75 closing scene, reconstruct each chapter's witnesses and promises, stage 76 before 77, and check Chapter 81 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
 - **Packet 04: Chapters 81–85.** Verify Chapter 80 closing scene, reconstruct each chapter's witnesses and promises, stage 81 before 82, and check Chapter 86 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
