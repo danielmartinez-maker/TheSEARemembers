@@ -1061,6 +1061,26 @@ When the last lantern was dimmed, Percy found Annabeth by the path.
 
 They walked toward the cabins. Percy hadn't learned anything new about how to love Annabeth during the holiday. He'd learned that it still mattered to ask, write and listen, even when the person beside him already knew him better than anyone else.
 
+On the way home they passed the memorial shrine path. The removable board for Clarisse's approved poem lines had still not been mounted. Annabeth stopped to check the temporary fence marker, which was visible only because she'd helped design it. The work crew had signed off the repaired brace, but Chiron still wanted the final route clearance checked before the board was installed.
+
+"You thinking of doing the inspection tomorrow?" Percy asked.
+
+"Not at night. I'll ask the right people in the morning. I don't want to put a poem up just because I know where the screws go."
+
+"Clarisse would probably throw it into the sea."
+
+"She'd have every right to ask us to take it down."
+
+Percy nodded. He remembered the first time he'd heard her read a poem, how surprised he'd been and how quickly that surprise had threatened to become a demand for more. The holiday letters had reminded him that a person's words could be a gift without becoming common property.
+
+Annabeth looked up at the stars. "I think I liked the gold friendship notes best."
+
+"Not my pink note?"
+
+"I liked yours too. But the gold ones were from people who might never say those things in front of an audience."
+
+Percy smiled. The two of them continued down the marked path, leaving the shrine undisturbed until morning.
+
 The night, full of letters and songs and dances, ended with people putting things away so there would be room for another ordinary day.
 
 ---
