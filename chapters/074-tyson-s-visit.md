@@ -680,6 +680,186 @@ Tyson gasped and turned to the girls. "She said it back! I taught Clarisse slang
 
 "I am teacher poet Blanket King," Tyson said with dignity, pulling his blanket tighter. "No cap."
 
+On Thursday afternoon Percy found his brother sitting in the doorway of Cabin Three with two lengths of bronze tubing across his knees and a folding frame balanced between his feet.
+
+The afternoon had gone quiet after the rain. Drops still fell from the roof at irregular intervals. Tyson had spread a cloth beneath the work so the frame wouldn't scrape the threshold.
+
+"What's this?"
+
+"Rack," Tyson said. "For Silena. You remember the trouble with drying rack?"
+
+"I remember Clarisse trying to execute me for moving her equipment chest."
+
+"Yes. That trouble."
+
+The new rack was simple enough that Percy could understand how it was supposed to work: two hinged side pieces that folded flat against one another, with smooth rods between them for wet clothes. Tyson had filed the ends so nothing sharp would catch on the fabric.
+
+"Where'd you get the bronze?"
+
+"Nyssa gave me spare lengths. Finn helped count holes. I made him measure twice before drilling." Tyson looked pleased. "Tomorrow he will make another for the forge cloths."
+
+"Of course he will. You've started an empire of laundry."
+
+"Laundry is important. Even heroes smell bad."
+
+Percy sat beside him on the threshold and picked up the little bag of fasteners. Tyson watched him sort them by size without being asked.
+
+"Do you want help?"
+
+"Yes. Hold hinge while I turn screw. Then we test."
+
+Percy held the hinge. Tyson worked slowly, making him reset his grip whenever the joint shifted. He didn't take the tool from Percy just because his brother was slower. Percy appreciated that.
+
+When the rack was assembled they carried it inside, where Clarisse and Silena were having a serious argument about whether a pair of socks on the windowsill had been washed or merely rinsed.
+
+"They've been washed," Silena insisted.
+
+"Then why do they still smell like fish?"
+
+"Because it's the Poseidon cabin!"
+
+Clarisse turned to see Tyson unfold the rack beside the washstand. For once she had nothing ready to say.
+
+"It goes against the wall when empty," Tyson explained. "It does not block Clarisse chest. It does not catch on sheets. Silena can move it outside in sun, but when rain comes, it folds."
+
+Silena examined the smooth rods. "You made that for us?"
+
+"You told me laundry needed room. I heard."
+
+She hugged him before he could finish the sentence. Tyson put his tools down and hugged her back with care.
+
+Clarisse walked around the rack once. She checked whether her chest lid could still open, then tried folding and unfolding it herself. It worked. She looked at Tyson, then at Percy.
+
+"See?" she said. "You ask people what they need and something useful happens."
+
+Percy made a wounded noise. "I helped."
+
+"You held a hinge."
+
+"A very important hinge."
+
+Tyson nodded solemnly. "Hinge was important."
+
+Silena was already hanging two clean shirts on the rods. She started to add the disputed socks, reconsidered, and went to wash them properly.
+
+Clarisse lifted the rack one more time. "Can we keep it when you leave?"
+
+Tyson stared. "Of course. It is for you."
+
+She looked embarrassed by how much that answer pleased her. "Thanks."
+
+"You're welcome, sister Clarisse."
+
+Percy watched her face. The term was ordinary between the blood siblings, and Tyson had known Clarisse long before this visit. Still, each time Tyson used it without hesitation, Clarisse seemed a little surprised that he meant her too.
+
+She cleared her throat. "I owe you something."
+
+"You already gave friendship and arm-wrestle," Tyson said. "That is enough."
+
+"I don't mean a trade." She glanced at Silena, who was washing socks in the basin, and lowered her voice. "I mean there's something I didn't say after the arena. When they cheered and I pretended I was annoyed."
+
+"You were not annoyed?"
+
+"I was. I hate losing." She crossed her arms. "But I liked that you treated it like a real match. A lot of people don't. They see Percy beside me and decide I must be his less impressive sister. Or they see you and decide you're only good for lifting heavy things."
+
+Tyson's hands grew still.
+
+Clarisse looked away before continuing. "You didn't do that. You asked if I was ready. You waited for the signal. You didn't let me win, and you didn't humiliate me."
+
+"Because you fight fair," Tyson said. "And you are my sister."
+
+Clarisse rubbed at the bridge of her nose. "Yeah. Right."
+
+It was the kind of moment Percy wanted to preserve perfectly. He had spent years believing that if he could get all the people he loved into one room, everything damaged about his life might finally settle. But the scene in front of him wasn't a miracle. It was Clarisse doing the hard work of naming something without hiding behind an insult, and Tyson listening.
+
+The cabin was warm. The new drying rack made a small metallic sound when a shirt brushed against it. Silena finished washing the socks and moved them to the far rod.
+
+Tyson picked up his tools. "Need to clean before supper," he said.
+
+Clarisse followed him out to the porch. Percy could hear them talking about hand positions in the arm-wrestle, Clarisse insisting that she'd have won if her elbow had been closer to the edge. Tyson disputed this with the gravity of an engineer discussing structural loads.
+
+Silena came to sit beside Percy.
+
+"You didn't make that rack," she said.
+
+"Wow. Thank you."
+
+"I'm saying it's nice that you didn't need to."
+
+He considered the little frame. "I helped."
+
+"You helped without turning it into your project."
+
+Percy leaned back against his bunk. "I'm working on that."
+
+"Good." Silena put her shoulder against his. "Tyson loves you. He also has a whole life when you're not watching. I think he wants you to like that life too."
+
+"I do."
+
+"Then ask him about it."
+
+Percy looked toward the porch. Tyson was laughing now, the booming sound bouncing off the cabin wall, while Clarisse argued that he had cheated by having the arm of a siege engine.
+
+"Okay," Percy said. "I will."
+
+After supper he found Tyson on the steps watching the dusk settle. The big photograph of them at the palace was visible through the shell window behind him, and Percy could see its frame reflected in the glass.
+
+"Hey, T."
+
+"Hi, Percy."
+
+"What do you do on days when you aren't making shields or fixing ships?"
+
+Tyson looked astonished by the question. Then he began to tell him.
+
+He spoke about a small courtyard behind the forge where the apprentices ate lunch under nets stretched to catch floating tools. He liked the cook because she let him take extra olives without pretending not to notice. He had a friend who carved toy boats from driftwood and insisted they sailed better with too many sails. He was learning to read a set of old repair plans that used symbols no one had bothered to teach him when he started.
+
+"Why didn't you tell me about those people?" Percy asked.
+
+Tyson tilted his head. "I told you some. Sometimes you want to hear about big machines."
+
+"Yeah. I do."
+
+"And sometimes you ask about home and look sad, so I talk about things that make you laugh."
+
+Percy swallowed. His brother had been paying attention to his moods, possibly more carefully than Percy had paid attention to Tyson's ordinary days.
+
+"I'm sorry," he said.
+
+"For what?"
+
+"For acting like the only good part of your week is the part where you're here."
+
+Tyson looked at him for a long moment.
+
+"Here is good," he said. "Home is good. People can have both."
+
+Percy nodded. "That's a good answer."
+
+"I have many good answers." Tyson smiled. "I learned some from you."
+
+They stayed on the step as the light faded. Tyson described how the underwater forge sounded at the change of shift, how the bells carried through water, how the workers could tell which section of the palace had a leaking pipe from the rhythm of the pumps. Percy asked questions he wouldn't have thought to ask a month earlier. He learned the name of the cook, the shape of the courtyard and the way Tyson organized his repair plans.
+
+When Tyson began telling a story about an old family breakfast in Atlantis, Percy didn't pretend to remember it. He asked which people had been present and listened to Tyson's account as something his brother knew firsthand. The story belonged to Tyson. Percy could learn it without claiming he had lived it from inside.
+
+Tyson didn't ask why Percy was so interested in details. He was enjoying being heard.
+
+By the time Clarisse called them in, the air had cooled and the shore beyond the cabins was silver in the moonlight. Percy stood, brushed dust from his jeans and offered Tyson a hand he did not need.
+
+"You ready for our swim tonight?" he asked.
+
+Tyson grinned. "Yes. But first I get my own towel. Last time you stole it."
+
+"I borrowed it."
+
+"You wore it home."
+
+"Temporary ownership."
+
+Tyson shook his head. "Brother thief."
+
+They went inside laughing, the folding rack tucked against the wall and the cabin finally big enough for everybody to move without apologizing for taking up space.
+
 ---
 
 Thursday night was the night swim, their old tradition — just the two of them, floating where no one could hear and the water held them up.
