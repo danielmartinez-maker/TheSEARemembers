@@ -478,11 +478,591 @@ Glancing at the sprawling list, Annabeth said, “We can ask what helps us honor
 
 “Spoons for everyone's safety,” Annabeth said, writing it with a flourish.
 
+The flourish became a crooked wave that curled under the last word. Silena leaned across the table to look at it, and Annabeth shifted the page toward her so the ink wouldn't smear. Clarisse reached for the list, then stopped short of taking it from her. Her hand hovered a moment above the paper before she drew it back and settled her palm on the table.
+
+Percy noticed. He was beginning to recognize how often care arrived in Clarisse's hands before it arrived in her voice: a weapon set within reach, a chair pulled out without comment, a question held back until someone had room for it. This time she had wanted to read the line about weapons. She let Annabeth turn the page instead.
+
+“We're going to need a clean copy,” Chiron said. “And someone will have to answer the invitation before we know the schedule.”
+
+“Can answer part of it,” Percy said. “I want to go. That's true even if the date isn't.”
+
+“Then let that be the part we write down.” Chiron reached for a blank sheet from the stack beside the map. “Would you like to dictate a short acknowledgment? We needn't send it until the practical questions are answered.”
+
+The word *send* made the idea feel larger. A message would cross the distance between camp and Atlantis with his voice attached to it, even if the page held only a few lines. Percy looked at the paper. It was plain, cream-colored, and slightly rough at the edge where it had been torn from a larger sheet. No seal, no royal script, nothing to make the answer feel like a promise made before they had spoken with everyone.
+
+“Could draft something,” he said. “Not a yes for everybody. Just that I want to come.”
+
+“Precisely,” Chiron said. He set down the pen rather than offering it. “You choose the words.”
+
+Percy rubbed the side of his thumb against the table's smooth edge. Around him the others had gone quiet, not waiting to judge him, but giving him the kind of space that could still feel like a room full of eyes. Clarisse looked toward the open window. Silena kept one hand curled around the corner of the question list. Annabeth's pencil rested across her palm.
+
+“Thank her for inviting us,” Percy began. “Tell her I'm glad she asked.”
+
+Chiron wrote that down without changing a word.
+
+“And that I want to see her.” Percy heard the sentence in his own voice and liked its plainness. “Not only Atlantis. Her.”
+
+The pen paused for half a breath, then moved again. Chiron did not soften the sentence or make it grander. Percy watched the words appear in the centaur's careful hand. The familiar want sat on the page without a crown, with no court around it to explain why he was allowed to feel it.
+
+“Could say I'm looking forward to seeing home,” Silena offered, gently. “If you want.”
+
+“Maybe.” Percy turned his gaze from the paper to the window. Through it he could see the lake and a thin stripe of sun on the pines. “Home gets complicated when it sounds like there's only one place.”
+
+“Then we don't have to use it,” Annabeth said. Her pencil tapped once against her knuckle, a small, thoughtful beat. “You can name the thing you mean. You want to see her. You want to show the people you love where you grew up. None of those sentences asks anyone to rank a home.”
+
+“That's better.” He let out a breath. “I want her to meet my family here. I want to go back with them. Both of those are true.”
+
+Clarisse glanced over from the window. “Then write both.”
+
+“No problem with the word *family*?” Percy asked. “She knows you and Silena are Poseidon's daughters. She called you both by name. But that's her court, and this is—”
+
+“Our life,” Clarisse said. “I'm not asking her to pretend the palace has never existed. I'm asking her not to decide who we are before we get there.”
+
+“That goes in the questions,” Annabeth said, marking the page. “How she'll introduce us. What names she wants used. What we want used.”
+
+“I don't need a title,” Clarisse said.
+
+“Nobody said you did.”
+
+“Good. Because if someone tries to announce me like a weapon she found in a storeroom, I'll leave.”
+
+Silena's mouth tightened. “You can leave for any reason. You don't have to make the reason sound dangerous to be allowed to have it.”
+
+Clarisse watched her for a beat. “I know.”
+
+“I know you know.” Silena moved the paper between them. “I'm reminding the table, not correcting you.”
+
+Clarisse's shoulders lowered a fraction. The small answer settled things better than an apology neither of them needed. Percy glanced back at the draft.
+
+“I'll say they're my sisters,” he said. “The camp people I want with me are my family. But I want everyone to decide for themselves if they're coming.”
+
+Chiron added the sentence. Annabeth looked over his shoulder and nodded at the last clause. “That matters. If we send it, it should make clear that the invitation is welcome, but no one is expected to accept.”
+
+“We already said that to each other,” Silena said.
+
+“We did,” Annabeth replied. “It still helps to have it in the message, so nobody has to guess what we agreed.”
+
+Percy leaned over to read the draft. The page held fewer than thirty words. It had taken more care than the two pages of questions. “I don't want her to think I'm making her wait because I'm unsure about her.”
+
+“You are not unsure about wanting to see her,” Chiron said. “You are gathering the information your guests need before you decide when to travel. There is no contradiction between those things.”
+
+“She told me that.”
+
+“And you heard her.” Chiron folded his hands on the table. “Hearing an answer and believing it in every part of yourself do not always happen at the same time.”
+
+Percy looked at the blank margin. He could have written more, could have set down every sentence that might prove what he felt. Some of them belonged only to him. They were not questions for Amphitrite to answer, and he had not come to the table ready to turn his private confusion into a public explanation. He knew what she had offered today: an invitation without a demand. He could respond to that honestly without asking her to understand everything he could not explain yet.
+
+“I want to keep it simple,” he said. “Thank you. I want to come. I'll write again after we check dates.”
+
+“That is enough,” Chiron said.
+
+Chiron looked down at the page. “Would you like me to begin it with a formal address?”
+
+Percy glanced at the top margin. The line was still blank. “I don't usually call her *Your Majesty* when it's just us.”
+
+“No,” Silena said, smiling. “You called her Mom in front of half the lake.”
+
+“Didn't plan that.”
+
+“Sometimes the honest thing gets out before the planned thing.”
+
+Clarisse set the list aside. “If you're writing to your mother, call her what you call her.”
+
+The certainty of it warmed him. He had heard the word *Mom* in his own voice only a few times in Atlantis. Each time it had felt less like a title and more like a door he had been allowed to open. Amphitrite had answered without correcting him or turning it into a ceremony. Still, this page was being prepared in camp, under Chiron's hand, and the thought of seeing the word written there made him unexpectedly shy.
+
+“Would it be weird in a letter?” he asked.
+
+“Weird to whom?” Annabeth said. “The people who might read it, or the person you're sending it to?”
+
+He looked at her. “Her.”
+
+“Then think about what she'd hear from you.”
+
+He tried it silently: *Mom, thank you for asking us.* It sounded like him. Not a palace phrase, not a sentence borrowed from someone else. “That's what I want.”
+
+Chiron dipped the pen. “Then that is how I will address it.” He wrote *Mom* at the top, leaving enough room below for the short acknowledgment. “If she prefers something else in a message meant for the court, she can tell us. But this is a personal reply.”
+
+“And if she calls you something formal when we arrive?” Silena asked.
+
+“Then I can ask her about it there.” Percy shrugged. “She can be queen and my mom. Doesn't make one of those not real.”
+
+“Good,” Clarisse said. “Because the rest of us may use the title until we know what she wants.”
+
+“You should use what feels right to you,” Percy said. “I'm not going to tell you to call her Mom.”
+
+“Wasn't worried you'd try.”
+
+“Could've.”
+
+“Then I would have told you not to.”
+
+“That's why I didn't.”
+
+Silena's eyes softened as she watched the two of them. “We can ask her how she wants us to address her. And tell her how we want to be introduced. Nobody has to borrow somebody else's words.”
+
+“Put it on the question list,” Annabeth said, adding *address and introductions* in the margin. “Personal and public.”
+
+The words took only a few seconds to write, but Percy felt something settle while he watched the pencil move. He didn't need his sisters to share the name he used for Amphitrite. He didn't need Amphitrite to call Clarisse or Silena anything but themselves. A family could make room for different closeness without making anyone's place smaller.
+
+“And the questions?”
+
+“We'll include the practical ones after we have them in a form she can answer. We needn't send every worry at once.”
+
+Clarisse leaned over the list, this time taking it by the corner and holding it still while Annabeth added a small mark beside weapons. “The important one goes in now.”
+
+“Which?” Percy asked.
+
+“Whether we can carry a weapon in the places we'll be allowed to go.” Her eyes were steady. “Not whether I can carry one in the throne room. Whether I can carry one anywhere, and if not, what protection exists where I'm expected to be.”
+
+Chiron nodded. “That is clear and reasonable.”
+
+“Not just reasonable,” Annabeth said. “Necessary. We shouldn't ask someone to enter an unfamiliar place and discover the conditions by being corrected at the door.”
+
+“Or by being surrounded first,” Clarisse added.
+
+Percy felt heat prick at the back of his neck. He did know the palace. That didn't mean he knew what it would feel like for his sisters to enter it as guests, or what it might look like from their side if guards gathered before anyone told them why. “I'll ask her myself,” he said. “Not because I think she'll say no. Because she should know it's important.”
+
+“Good,” Clarisse said. She released the corner of the list. “That's all I wanted.”
+
+“Not all,” Silena said. “You still wanted a good jar of jam.”
+
+“That's a separate matter.”
+
+“One with a very strong opinion attached.”
+
+“The jar has standards.”
+
+“So does the queen,” Annabeth said. “We'll ask what she's comfortable receiving.”
+
+The dry note in her voice drew a brief laugh from Chiron. Percy smiled at the paper again. There was no final answer to the visit yet, no date, no route, no certainty about who could come. But there was a beginning he could recognize: the people at the table had made room for what he wanted without turning it into an order.
+
+He placed two fingers on the draft so the breeze from the window wouldn't move it. “Keep this with the list. Don't send it until we know what we're actually asking.”
+
+“I'll keep both together,” Chiron said. “And the original invitation will remain here until we've chosen our reply.”
+
+The answer on the paper was not a farewell to camp or a promise to the sea. It was the first step toward a conversation. Percy could live with that.
+
 ---
 
-By late afternoon, the list filled two pages, edges curling in heat, ink smudged where Silena's sleeve had dragged. Chiron would write to Amphitrite with Percy dictating, stumbling occasionally over phrasing and backtracking; Annabeth would review with her precise pencil; Silena would curate gifts, turning each possibility over like shells. Clarisse would query weapons and security personally, arms crossed, chin high. She trusted her own phrasing over softened versions, and nobody argued.
+The map began as a rectangle.
 
-Practical work had steadied Percy. It lent the invitation edges to grip: date, route, bunks, packing, each written in a different hand around the table. Yet when the others scattered to tasks — paper rustling, chairs scraping stone, footsteps fading down the hallway — the tangled undertow returned, cold seeping back around his ankles. Longing braided with worry, neither loosening.
+Annabeth turned a fresh sheet sideways and sketched the rough curve of the shoreline, leaving the center open. The Big House table was not large enough for the whole drawing, so Silena knelt on the floor to hold down the far end. Clarisse stood behind her with the list in one hand, pretending she had no interest in the map. Percy sat beside Annabeth, trying to keep the paper from sliding whenever the breeze came through the window.
+
+“This is not to scale,” Annabeth said.
+
+“It's a gift,” Silena answered. “It can be pretty.”
+
+“It can be both.” Annabeth penciled in the canoe lake, then the low hill, then the dining pavilion. “If it's too inaccurate, Percy will spend the visit correcting it.”
+
+“I can correct it politely.”
+
+Clarisse made a noise.
+
+“I can,” Percy insisted.
+
+“You told me the stairs were exactly where you remembered them,” Clarisse said. “Then walked us into a wall.”
+
+“The wall wasn't there last time.”
+
+“It was definitely there.”
+
+“Maybe I was shorter.”
+
+“You were not a child last week.”
+
+Silena's pencil slid across the page in a quick blue arc. “The wall is part of the story now. We can draw it and label it *Percy's shortcut*.”
+
+“That is not what happened.”
+
+“It is exactly what happened.”
+
+“I was following a current.”
+
+“Into a wall.”
+
+“The current changed.”
+
+Clarisse's mouth threatened to smile. “The wall held.”
+
+The banter made the room feel less like a council chamber. Percy let himself laugh, and the tightness left his shoulders. Annabeth's pencil continued to move, laying out landmarks with light lines that could still be changed. Silena hummed as she drew a border of small flowers along the shore. Clarisse kept watch over the sheet, not the people, her attention sharp enough that Percy could feel it from his chair.
+
+At the map's lower edge, Annabeth drew the path to the arena. She started to add a second line for the trail behind the cabins, then stopped.
+
+“What?” Silena asked.
+
+“That path goes behind the armory,” Clarisse said.
+
+Silena looked at the pencil mark. “It's a path. Everyone at camp knows the armory is there.”
+
+“Not everyone outside camp does.”
+
+“We're making a family gift for Amphitrite, not a map for an army.”
+
+“A drawing doesn't know why it's being sent.”
+
+The pencil stayed poised above the page. Silena's expression changed, the cheerful concentration giving way to a careful hurt. “If we take out every place that matters, we give her an empty picture.”
+
+“I didn't say every place.”
+
+“Then what are you saying?”
+
+“I'm saying don't draw a guide to the camp.”
+
+“It's supposed to show her where we live.”
+
+“Those are not always the same thing.”
+
+Percy watched the line between them. Neither sister was raising her voice. The space between them had narrowed anyway. Clarisse's fingers pressed into the folded list, creasing the edge. Silena held her pencil like it might become a brush if she concentrated hard enough.
+
+“The question isn't whether you trust Amphitrite,” Percy said. “It's what the map would let someone know if it ended up somewhere we didn't plan.”
+
+“Exactly,” Clarisse said.
+
+Silena turned toward him. “I know that. I know there are places we shouldn't mark. But if the only thing we're willing to show is the water and the pavilion, it could look like we don't want her to see our home.”
+
+“Then let's show home without drawing the parts that are for keeping people out,” Annabeth said. She set the pencil down. “We can make a portrait map. Not a wayfinding map. Put the places that mean something to us on it, with no exact routes between them.”
+
+Clarisse's brow furrowed. “A picture of places?”
+
+“More like a map of what we want her to know. Lake, dining pavilion, strawberry fields, arena. We can make the paths decorative, not navigational. No watch changes, no ward boundary, no storage locations.”
+
+“Or the places the camp doesn't advertise,” Clarisse said.
+
+Silena studied the paper again. “Could draw the pavilion table where we sit. Not the whole row of cabins.”
+
+“Could draw the lake from the wall,” Percy said. “The one by the canoe lake.”
+
+“The suspicious one?”
+
+“The wall that had a complicated spot.”
+
+“That's a better label,” Silena said. She turned the sheet so she could reach the upper corner. “We could mark where we first ate lunch with Amphitrite. That would mean more to her than a route.”
+
+“If you're comfortable showing it,” Clarisse said. The question came without force. She did not try to make the choice for Silena; she asked her to make it.
+
+“I am.” Silena added a tiny table beside the pavilion. “It's not a secret place. It was a good afternoon.”
+
+“Good,” Clarisse said. “Then it's yours to draw.”
+
+Silena met her eyes. “And the route behind the armory is yours to leave off.”
+
+“Thank you.”
+
+“That doesn't mean I'm letting you label the map.”
+
+“Wasn't planning to.”
+
+“You were holding the list like a judge.”
+
+“Judges can read.”
+
+“Not art.”
+
+“Then I won't judge it.”
+
+“You can say whether the flowers look like flowers.”
+
+Clarisse leaned in, inspecting Silena's pencil border. “The first ones did.”
+
+“This is a work in progress.”
+
+“So was the first one.”
+
+Silena laughed and nudged her shoulder. Clarisse allowed the nudge, her stance easing. The argument had not vanished, but it had found a shape they could share: Clarisse would protect the camp's safety, Silena would make the gift generous, and neither would treat the other as if her reason mattered less.
+
+Annabeth took up the pencil again. “Let's make the line from the lake to the pavilion a dotted blue curve. It can suggest the path without giving exact turns.”
+
+“What about the arena?” Clarisse asked.
+
+“A shield-shaped marker,” Silena said, “and a little wave for the lake.”
+
+“No,” Clarisse said. “A spear is easier to draw.”
+
+“The arena isn't only yours.”
+
+“It's the most obvious symbol.”
+
+“The spear has a lot of meaning for you. It may not be what you want to give her as the first thing.”
+
+Clarisse considered this. “A bronze target, then.”
+
+“That's much better.”
+
+“Still has a point.”
+
+“It does.”
+
+Percy traced the shoreline in the air above the page, careful not to touch the wet ink. “We can add the lake and the sea together. The lake is where we train and argue about laundry. The sea is where this invite came from.”
+
+“A blue ribbon between them,” Silena said, adding a small, curling strip of color. “Not a road. A connection.”
+
+“A current,” Percy said.
+
+“A current doesn't promise a direction.”
+
+“Neither does family.”
+
+The sentence came out before he could decide if he meant to say it. Everyone looked at him, not startled, just attentive. The blue ribbon reached from the lake's edge to the margin where Silena had drawn a single wave. It did not erase the shore. It connected two pieces of water without making them the same.
+
+“I like that,” she said quietly.
+
+Clarisse had gone back to the page. “Don't draw the camp boundary.”
+
+“I won't,” Annabeth said. “A little green line for the hill, maybe. No wards. No approaches.”
+
+“And we don't put a north arrow,” Clarisse said.
+
+“A map without north?” Percy asked.
+
+“A portrait map,” Annabeth corrected. “It doesn't need one.”
+
+“Then how do we know which way the table is?”
+
+“You know because you remember the table.”
+
+He looked at the small drawing of the pavilion, where Silena had begun to add the curved edge of their favorite bench. “That's true.”
+
+The work slowed into a rhythm. Annabeth blocked out landmarks with thin graphite. Silena supplied color and the small touches that made each place familiar: flower boxes, a crooked bench, the lake's bright reflection, the pavilion's red roof at sunset. Percy offered details when asked and held the page when the wind lifted a corner. Clarisse read the overall picture without hovering over every mark, only stopping once to point out that the arena's far gate sat too close to a cabin path.
+
+Annabeth lifted the pencil. “That's the route problem again.”
+
+“Could leave the gate out,” Clarisse said.
+
+“Or change the angle. Draw the practice area from inside the arena. The gate isn't visible from there.”
+
+“That works.”
+
+“I'll make the target a little smaller, then.”
+
+“Don't make it too small. People should know what they're looking at.”
+
+Silena's brush went still. “It's our map. We know what we're looking at.”
+
+Clarisse met her gaze. “The person who receives it should, too.”
+
+Silena's face warmed. “That sounded almost sweet.”
+
+“It was practical.”
+
+“They can be the same thing.”
+
+“Maybe.”
+
+“I'll take maybe.”
+
+“Should we sign it?” Silena asked. “All of us, when it's dry?”
+
+Annabeth looked toward Thalia, who was still checking the calendar at the other end of the room. “Not until everyone decides whether they're going. I don't want a name on a gift to become a promise they didn't make.”
+
+“Could leave a blank space,” Percy said. “People can sign if they come.”
+
+Clarisse nodded. “And nobody gets added because the list has room.”
+
+Silena turned the paper to see how much space remained along the bottom. “One small corner for names. No titles.”
+
+“Names, if they choose,” Annabeth said.
+
+“Names, if they choose,” Silena agreed. She drew a thin border around the open corner but left it empty. “Then the map can belong to the group without claiming that the group is already settled.”
+
+Percy watched the clean space stay white. His own name would fit there easily. So would Clarisse's, Silena's, Annabeth's. Thalia and Chiron might join them; they might not. The blank corner made room for either answer without turning uncertainty into refusal.
+
+“That's right,” he said. “We can finish it when we know.”
+
+The map would need finishing later. The ink needed to dry, the colors needed another layer, and Annabeth wanted to check the proportions against a separate copy of the camp plan. The gift was still only a beginning, like the answer on the other sheet. But the blank parts no longer looked like refusals. They were choices about what belonged to the people who lived there.
+
+Percy turned the drawing toward himself. The pavilion and lake sat on the same page, joined by a blue current. The arena had a target but no gate. The cabins were only small colored roofs, without labels or paths that could guide a stranger through the camp. There was enough to recognize and enough left private.
+
+“This feels like us,” he said.
+
+“It feels like a first draft,” Annabeth said.
+
+“Those can be the same thing.”
+
+She glanced at him, then smiled. “Sometimes.”
+
+---
+
+The first practical obstacle arrived with Chiron's schedule board.
+
+He carried it into the Big House room after lunch, the board's wooden frame tucked under one arm and a folded sheet in his other hand. “Before we choose a date,” he said, “we should know what an absence would ask of the camp.”
+
+Thalia came in behind him, wiping charcoal from her fingertips with a rag. She had been helping in the workshop and still smelled of wood dust. “I checked the cabin and training rotations. There are gaps, but not enough to send every person on this list at once.”
+
+“We knew that,” Annabeth said.
+
+“Knowing it and seeing the board are different.” Thalia set the rag down and leaned over the calendar. “I can trade two patrols. I can't take the same stretch as Chiron without someone taking over the evening check-in. And if Clarisse is gone, the arena schedule needs another counselor to keep the younger campers from turning practice into a grudge match.”
+
+“They can handle one afternoon,” Clarisse said.
+
+“An afternoon, yes. Several days, maybe. But I don't want to call it covered because I can picture it working.” Thalia drew a line under the rotation. “Someone has to actually say yes.”
+
+Percy looked at the empty date columns. A few days in Atlantis had sounded simple when they were only words. Here were the names of people who would be left behind, the tasks that would not disappear because he wanted a visit. The invitations mattered. So did the camp that had made room for them.
+
+“Maybe we should split the group,” he said. The idea scraped at him, though he knew it was a reasonable one. “Not everyone has to go at the same time.”
+
+“I don't want to arrive with half the people I invited,” Silena said. She had drawn a faint blue line on her thumb and was rubbing it as if she could remove the color without disturbing the map.
+
+“You don't have to decide that yet,” Annabeth said. “The route and dates might change what the coverage looks like.”
+
+“They will,” Chiron said. “Amphitrite offered possible dates and tide information. We have not received them. I can ask whether the visit can wait for a window that suits the camp.”
+
+Clarisse folded her arms. “And if none of the dates work?”
+
+“Then we tell her the truth and ask for another.”
+
+“She said no obligation.”
+
+“She did,” Percy said. “I believe her.”
+
+Clarisse's jaw tightened. “Believing her doesn't answer the board.”
+
+“No. It doesn't.” He met her eyes. “We still have to do the board.”
+
+She nodded once, as if that was the answer she needed. It did not mean she thought the trip was safe. It meant she knew Percy understood that trust was not a substitute for a plan.
+
+Thalia tapped the nearest blank space with the end of her pencil. “I can go if someone covers the cabin check-ins. I won't leave if it means we pretend the younger campers can manage every situation without an adult nearby.”
+
+“No one wants you to pretend,” Annabeth said. “We'll make the list of who would need to take each duty, then ask them. No assumption.”
+
+“And I can cover some of the arena time,” Silena offered. “Not all the combat drills. But I can take the equipment check and the sign-up table. The younger campers usually listen when I explain that someone might get hit with a spear.”
+
+“They listen when you ask them to listen,” Clarisse said.
+
+Silena blinked. “That was nice.”
+
+“It was a fact.”
+
+“A very nice fact.”
+
+Clarisse looked back at the board. “I can shift the practice groups to the afternoons if somebody covers the morning setup. Won't be perfect.”
+
+“It doesn't have to be perfect,” Chiron said. “It has to be safe and honest.”
+
+Percy studied the small boxes that carried the week. The calendar did not say no. It did not say yes either. Each box held another person, another responsibility, another choice that could not be erased by the word *family*. He had thought the hard part might be whether he could belong in Atlantis with camp beside him. The board reminded him there was also a question of how to leave camp without making the people here carry more than they had agreed to.
+
+“We don't need to prove that we can go next week,” he said. “We need a date that works for everyone who wants to come and for everyone who stays.”
+
+“That may mean asking for a later window,” Annabeth said. “Or fewer days.”
+
+“Or a different arrangement,” Thalia said. “We don't have to solve the answer before Amphitrite sends the route.”
+
+“But we should tell her what we need,” Clarisse said. “Not just wait for her to offer something and call it settled.”
+
+“Yes,” Percy said. “We'll ask for options.”
+
+Chiron marked the board with a small dot, not a date, beside the week that had the fewest conflicts. “A possible window, pending coverage. It is not a commitment.”
+
+“Write that down,” Annabeth said. “If we see a dot, someone will decide it means the date is chosen.”
+
+Chiron added the words beside it. “There.”
+
+“Good.” Annabeth made her own note. “Then we have one possible window, two people who may cover cabin check-ins, and an arena schedule that still needs confirmation. That's a question list, not a departure plan.”
+
+Silena returned to the map, turning it so its blank margin faced the schedule board. “The map can stay here until we know when we go. No point finishing a gift before the visit is real.”
+
+“The visit is real,” Percy said.
+
+“The invitation is real,” Silena corrected, without sharpness. “The visit is the part we're working out.”
+
+The distinction landed. Percy looked at the map and then at the schedule. One was a picture of the place they wanted to share; the other was an accounting of the people and work that made it possible to leave. Neither canceled the invitation. Neither could do the other's job.
+
+“You're right,” he said. “The visit is the part we're working out.”
+
+“It's still exciting,” she said, her smile returning. “It's just not happening tomorrow.”
+
+“Probably for the best,” Clarisse said. “We don't have the jam ready.”
+
+“We have jam.”
+
+“We have the ordinary jar.”
+
+“What's wrong with the ordinary jar?”
+
+“Percy touched it.”
+
+“I didn't open it.”
+
+“You leaned on the lid.”
+
+“For balance.”
+
+“You were sitting.”
+
+Thalia gave the calendar board a gentle push back toward Chiron. “Put down a jam inspection on the list, too. We need at least one thing on the trip we can finish without a committee.”
+
+“The jam has a committee now?” Percy asked.
+
+“It had one before,” Silena said. “You just weren't invited.”
+
+“Cruel.”
+
+“Efficient,” Annabeth said.
+
+The laughter loosened the room again. Chiron rolled the board back toward its stand. Thalia took the rag and wiped the last charcoal from her fingertips. Annabeth gathered the penciled notes in order, one for questions, one for possible coverage, one for the map. She handed the first to Percy and the second to Chiron, while Silena folded the sheet with the drawing very carefully so the wet color would not touch the opposite side.
+
+“Should we send the short note now?” Chiron asked. “Or wait until I have checked the coverage?”
+
+Percy looked at the words he had dictated. Thank you. I want to come. We'll write when we have the dates and questions. It did not promise the journey, but it did not hide his desire either.
+
+“Could send those three lines,” he said. “Then ask for the route and options when we know which days could work.”
+
+“That would be clear.” Chiron set the page beside his writing things. “I'll make a clean copy and show it to you before it goes.”
+
+“Thanks.”
+
+Percy did not try to add a sentence that explained everything he felt about Atlantis, or his mother, or why the invitation pulled at him in ways he could not put into a neat list. The page did not need to hold his entire life to be truthful. It only needed to answer the thing she had actually asked: whether he wanted to come.
+
+“I do,” he said, more to himself than to the table.
+
+“We heard you,” Clarisse said.
+
+“I know.”
+
+“We'll keep hearing you.” Silena's fingers rested on the folded map. “And we'll tell you if we want to go, too.”
+
+“That's all I want.”
+
+“Then stop checking our faces for the answer,” Annabeth said. She was not unkind. Her eyes held the same steady patience as her voice. “Ask, listen, and let us decide.”
+
+He nodded. “Okay.”
+
+“Good.”
+
+The paper on the table lifted once in a breath of wind, and Percy put his hand over it. The draft stayed where it was. Outside, someone shouted for a ball; another voice answered that it had gone over the fence. Camp continued around the Big House without waiting for them to settle a journey. The schedule still needed names. The map still needed color. Amphitrite still needed a reply. All of it could wait long enough for the people involved to choose.
+
+“We have a lot to do,” Thalia said.
+
+“Not today,” Chiron replied. “Today we have a useful beginning.”
+
+“A beginning and a jam inspection.”
+
+“The jam may be inspected tomorrow.”
+
+“Before Percy gets to it,” Clarisse said.
+
+“I can't promise that,” Percy said.
+
+“Then you can stay away from the pantry.”
+
+“I can promise to try.”
+
+“That is not a promise.”
+
+“It's an accurate forecast.”
+
+Thalia shook her head. “We need a camp rule about him and preserves.”
+
+“Not until the family trip is scheduled,” Annabeth said. “One project at a time.”
+
+That brought them back to the question without making the room heavy. Percy gathered his papers. He had a reason to be nervous, but not because anyone had pushed him toward a decision. The first step was not a test he could fail. It was a reply they could revise, a map they could finish, a calendar they could solve by asking the people who would carry the work.
+
+They were still at camp. The lake was still outside the window. Atlantis remained across the water, waiting without a clock.
+
+---
+
+By late afternoon, the list filled two pages, edges curling in heat, ink smudged where Silena's sleeve had dragged. The draft held the short acknowledgment Percy had dictated, not quite in final order: he'd paused, revised, and added the sentence about family choice. Chiron would make a clean copy, then add the practical questions once he'd checked the camp calendar; Annabeth would review the wording with her precise pencil; Silena would curate gifts, turning each possibility over like shells. Clarisse would query weapons and security personally, arms crossed, chin high. She trusted her own phrasing over softened versions, and nobody argued.
+
+Practical work had steadied Percy. It lent the invitation edges to grip: questions about date, route, bunks, packing, each written in a different hand around the table. Yet when the others scattered to tasks — paper rustling, chairs scraping stone, footsteps fading down the hallway — the tangled undertow returned, cold seeping back around his ankles. Longing braided with worry, neither loosening.
 
 He found Annabeth on the canoe dock, boots hooked over the edge, planks warm beneath and creaking faintly with each shift, sun low and honeyed. Copper light sheeted the water around her in broken ripples, dragonflies stitching air with their dry-wing hum, pine shadows reaching long across the lake. Sitting alongside, denim whispering on wood, he left the space she'd taught him to leave until invited, hands resting on his knees, lake lapping a slow rhythm against the pilings.
 
