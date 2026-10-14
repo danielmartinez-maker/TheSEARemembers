@@ -720,7 +720,133 @@ Percy looked at Nico, who was currently trying to teach Clarisse how to play Myt
 
 "It built character!"
 
-Bianca laughed through tears. This — this bickering, this warmth — this was what she had wanted for Nico. Not just a party. A family so big and loud he could never doubt his place in it again.
+Bianca laughed through tears. This bickering, this warmth, was what she had wanted for Nico. Not just a party. A family so big and loud that he could be certain he had a place in it even on days when it wasn't celebrating him.
+
+Nico was sitting on the loft with Cecil when Bianca finally made it over to the fort. They had spread out two teams of Mythomagic figures. Cecil had a notebook with scores, while Nico was arranging three skeleton warriors in a line across the table.
+
+"You're cheating," Cecil said.
+
+"I'm defending my castle."
+
+"You're using a card from Percy's anniversary deck. I don't have that edition."
+
+"Percy said everybody could look at the rules."
+
+"Looking at the rules isn't the same as knowing what card you have."
+
+Bianca almost stepped in. Nico had been smiling all afternoon, and she didn't want the first argument of his birthday to become another reason he decided camp didn't want him. But the two boys were leaning toward one another with the particular intensity they reserved for important games, and neither looked frightened.
+
+"Fine," Nico said. He pulled the hand-painted Tyson card from the middle of his deck. "We can make a new rule. You have a chance to use one of mine when you draw a monster."
+
+Cecil considered. "No. That gives you an advantage because you know what I'm drawing."
+
+"Then we both get to take one."
+
+"That might work."
+
+Bianca stepped back and waited until Cecil had written down the amendment. Nico read the words over his shoulder, then nodded. He didn't need her to rescue the game.
+
+Milo approached carrying a paper bag of cookies that Chiron had approved for the younger campers to share. He paused at the bottom of the loft ladder and looked up.
+
+"Can I come?"
+
+Nico glanced down. "Do you know Mythomagic?"
+
+"No."
+
+"That's okay." Nico looked at the crowded table. "But you can't play this round. Cecil and I are finishing the battle."
+
+"Could you teach me after?"
+
+"Yeah. If you want." Nico gestured toward the empty seat near the doorway. "You can watch from there."
+
+Milo took the seat. He didn't look disappointed at being asked to wait. Bianca remembered him on his first day at camp, gripping his backpack straps and pretending not to care whether anybody included him. He was less guarded now, but Nico had been clear about what kind of company he wanted. Milo had accepted the invitation exactly as given.
+
+They finished the round. Cecil won because Nico had forgotten to keep a defensive card in reserve, and Nico protested for an entire minute before admitting the move was legal. Milo laughed at the argument and then asked which cards were most useful for beginners.
+
+Nico reached for a small starter deck from the box. It contained older, ordinary cards Percy had helped him sort earlier in the week, not the custom anniversary deck or any of Nico's favorites.
+
+"You can try these," he said. "You need a monster and an ability. And you don't get to spend every point on the first turn."
+
+"Why not?"
+
+"Because Cecil will take advantage of you."
+
+"I will," Cecil agreed cheerfully.
+
+Milo shuffled clumsily, dropping one card into his lap. Nico showed him how to hold the deck so the cards wouldn't bend. He didn't snatch it out of his hands. Bianca watched him explain the difference between a hero and a monster card, speaking so carefully that the boy who had once been too shy to ask the Apollo kids a question began asking dozens.
+
+Cecil stood after a while and stretched. "I'm getting cake. You two coming?"
+
+Nico looked toward Bianca. "Can we keep playing here?"
+
+"Sure, until the lights come on. Chiron wants everyone down from the loft when it gets dark."
+
+"Even me?"
+
+"Even the birthday boy."
+
+Nico frowned. "That's unfair."
+
+"Buildings don't know whose birthday it is," Annabeth said from the doorway.
+
+She climbed the first step, checked that the handrail hadn't shifted and peered at the scattered cards. "How many people have used the loft at once?"
+
+"Three," Nico said.
+
+"And how many did we say it was designed for?"
+
+"Two at a time."
+
+"So?"
+
+Nico looked at Milo, then at Bianca. "Oops."
+
+"It's not a punishment," Annabeth replied. "It's a weight limit. Next round, one of you takes the table downstairs, or you take turns."
+
+Nico studied the loft. There was enough room to play a short battle up here, but if Milo and Cecil both wanted to stay, somebody would need to move.
+
+"Downstairs," he decided. "There's more room, and the lanterns are nicer down there anyway."
+
+Milo stood, carefully gathered the starter deck and went down the steps one at a time. Nico followed with the figures. Bianca watched him leave a place he'd just been given without treating the safety rule as an attack on him.
+
+Annabeth stayed to clear up the remaining cards. Bianca waited until she was finished.
+
+"Thank you," Bianca said.
+
+"For what?"
+
+"For making sure he can use this tomorrow."
+
+Annabeth looked up at the name on the doorway. "It's only useful if he can. A building shouldn't require its owner to be lucky."
+
+Bianca smiled. She thought of the temporary magical tide pools on the beach, which had returned safely because Milo noticed one was missing. The camp was getting better at teaching children to enjoy a gift without teaching them to ignore what it needed.
+
+Back at the outdoor table, Nico showed Milo how to begin a round. Cecil had returned with cake on a plate, and he used his fork to point out a strategy that wasn't terrible. The game went badly for Nico, then well for Milo, then badly for everyone when Nico realized he'd mixed up the ability costs.
+
+"Can we restart?" he asked.
+
+"That's not how battles work," Cecil said.
+
+"It's my birthday."
+
+"That's not how birthdays work either."
+
+Nico grinned. He was learning something Bianca hadn't expected to matter today: being loved didn't mean everybody let him win. It meant people kept sitting beside him even when he was losing.
+
+When she walked past, he looked up and called, "Bianca?"
+
+"Yeah?"
+
+"Can we play another round tomorrow?"
+
+She considered her chores, his archery practice, and the fact that the fort would still be there if somebody remembered to check the rails.
+
+"After lunch," she said. "I have duty in the morning."
+
+"Okay."
+
+It was such a small promise. She liked the size of it.
 
 ---
 
