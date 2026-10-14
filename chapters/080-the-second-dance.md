@@ -944,7 +944,7 @@ She laughed through his hand. "You smell like kelp and cookies again."
 
 Around them lanterns glowed. Vines swayed. Mr. D smiled faintly, tapping time. Chiron watched soft-handed, misty-eyed.
 
-Nearby Grover and Ella and Juniper swayed in a careful trio, cheek to feather to blossom, Ella quoting, "'Danced until stars came out, and no one was unchosen,'" while Grover held Ella's wing like glass and Juniper's hand like grove, gentle both. His bow tie stayed tied. No one tripped. Juniper cried happy sap tears and Ella pretended not to cry and Grover cried openly because satyr empathy maxed out.
+Nearby Grover danced with Ella for the first slow song, just as he'd asked her. He held her wing gently, and she smiled at him without needing to consult anyone else's feelings. Juniper sat by the window and kept time with one hand, visibly content to listen. When the music changed to a group dance later, she joined them by her own choice. His bow tie stayed tied. Nobody had to compete for a place.
 
 Percy caught his eye. Grover mouthed, SWAYING COUNTS DOUBLE.
 
@@ -956,9 +956,7 @@ Percy felt his chest ache happy. At the first dance Clarisse had hidden ballroom
 
 The song played on. Percy and Annabeth kept dancing, whole song, without stepping — not once on toes, not once wrong direction, not once counting out loud. When the guitar wobbled, Percy adjusted without thinking. When the flute ran fast, Annabeth squeezed his hand and they slowed together, listening to each other more than music. It was not perfect technique. Silena would later say their box drifted left. Clarisse would say Percy's leading was still unclear half the time. But they never broke hold. They never looked down. They breathed together, swayed together, smiled until cheeks ached.
 
-When the last guitar note hung like firefly, same as before, Percy did something new.
-
-He leaned in, slow enough she could move away, and kissed her cheek — soft, quick, respectful, right where vanilla-rain scent lived. Chiron-approved, Thalia-approved, practiced between dances.
+When the last guitar note hung in the air, Percy leaned in slowly enough that Annabeth could meet him halfway, then kissed her cheek. It was an ordinary tenderness for a couple who had been together a long time, not an announcement that they'd only just discovered how to love each other. What felt new was his ease with being seen.
 
 Annabeth went pink to her ears and grinned so wide her owl clips slipped. "Smooth," she whispered. "Ten out of ten this time."
 
@@ -1006,6 +1004,34 @@ Last song slowed softer still, same melody reprised. Percy and Annabeth danced a
 
 When it ended they thanked Apollo and walked into spring night with Thalia steps behind. Porch boards cool. Frogs singing. Windows glowing gold behind them.
 
+Near the porch Milo stood with Lucy and Bea, all three accompanied by their counselor. Milo had come back inside after the sound system was unplugged, but only for the final group song. Lucy's light-up shoes blinked in time as she practiced a little step beside the wall. Bea held her seal against her chest and looked tired.
+
+"Did you like it?" Percy asked.
+
+"Some of it," Milo said. "Not the pop. The guitar after was good."
+
+"Yeah," Percy replied. "I liked that part too."
+
+Lucy pointed toward Annabeth's corsage. "Did you build the flowers?"
+
+"No," Annabeth said. "I helped design the band and Percy asked people to find the blooms. Tyson and Juniper did that part."
+
+"There's a lot of people making one thing," Lucy observed.
+
+"Usually there are," Annabeth said.
+
+Bea tugged at the counselor's sleeve. "Can we go to bed?"
+
+"Yes," the counselor answered.
+
+No one asked Bea to stay for another song. Milo waved and followed the others down the path. Percy watched them go, thinking it was a good thing the dance had allowed them to leave and return without making anyone explain themselves to a crowd.
+
+He looked at Annabeth. "You still like the yellow ribbon?"
+
+"I picked it myself," she replied. "Of course I do."
+
+"Good." He touched the edge of her hand without snagging the flowers. "I like it too."
+
 Air cooled grass and night flowers. Torches and fireflies lit path. Owl called, same as before.
 
 At the fork to Zeus's cabin Thalia tactfully checked for monsters behind a bush where she could see, same as before. Crickets stitched dark. Torch sputtered. Path stones still held little daytime warmth through shoe soles. Annabeth's corsage gave off soft pink-white glow, lighting her fingers from below like a lantern, fuller light this time.
@@ -1034,9 +1060,9 @@ He passed the forge, dark now. He passed cabins glowing warm. Above stars burned
 
 Another dance. Same setup. Same dock, same notice, same porch, same punch, same song. Same boy asking same girl. Same sisters hugging. Same brothers carrying flowers without eating them.
 
-Different boy. Steadier hands. Smoother ask. Whole song without stepping. Cheek kiss given and returned. Threats retired to hugs. Secret lessons become open dances. Triangle become trio. Two vials instead of one. Yellow dress instead of blue. Zero steps instead of two.
+Different boy. Steadier hands. Smoother ask. Whole song without stepping. Cheek kiss given and returned. Threats retired to hugs. Secret lessons become open dances. Three friends chose their own places. Two vials instead of one. Yellow dress instead of blue. Zero steps instead of two.
 
-Growth, Percy thought, walking home under steady stars, hand tingling where Annabeth had held it, cheek warm where she had kissed it. Chiron would put it in the permanent record.
+Percy thought about what had actually changed: Tyson asking without assuming, Grover listening instead of guessing, Annabeth changing a plan when the room needed it, and Thalia deciding an ordinary electrical fault was not hers to solve with lightning. A steady evening had taken more work than a perfect one.
 
 One-two-three, the crickets sang. Feel waves, Percy answered, and went home.
 
