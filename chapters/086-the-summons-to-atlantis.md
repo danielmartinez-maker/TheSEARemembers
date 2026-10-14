@@ -900,6 +900,78 @@ They laughed, and the cove echoed it back, kind.
 
 ---
 
+Before they left the cove, Annabeth picked up a pebble from the water's edge and held it between two fingers.
+
+"Can I take this?" she asked.
+
+Percy looked at the stone. It was plain gray, with one white line across the middle.
+
+"I don't know. It might be part of a protected reef."
+
+She laughed. "You could have told me yes and we'd have had a romantic souvenir."
+
+"I am extremely romantic about environmental permissions."
+
+He went back to the small path and checked the rules posted beside the entrance. The cove was private, but it belonged to the palace grounds. The sign allowed visitors to photograph ordinary pebbles but asked them not to remove shells, living coral or anything from the nursery pools. Percy returned and explained.
+
+"Then we'll leave it," Annabeth said.
+
+She put the pebble back where she'd found it. They watched the current roll gently over it.
+
+"Do you feel like you belong here?" she asked after a while.
+
+"More than I did when I first came back to Atlantis. But sometimes I still have to ask how things work."
+
+"You know a lot now."
+
+"Things I've actually done. I can find the school, the gardens, the terrace Mom likes. I know the cook who makes that bread Silena wants to learn. That doesn't mean I remember being a little boy in every one of those rooms."
+
+Annabeth nodded. "I know."
+
+He looked at her. "Does that bother you?"
+
+"What?"
+
+"That we're still building memories in a place everybody says we already lived."
+
+She considered the question before answering.
+
+"No. It makes me sad sometimes. I know what it feels like to want the old years back. But I don't want your childhood to become something you have to perform for the palace."
+
+Percy breathed out slowly. He'd been afraid of disappointing her, too. She was the person who knew the other life he'd survived. Sometimes he expected her to judge how convincingly he fit into the one they inhabited now.
+
+"I called her Mom tonight," he said.
+
+"You've called her that for ages."
+
+"I know. I just noticed I didn't think about it first."
+
+Annabeth smiled. "That's good."
+
+He took her hand. The pebble lay beneath clear water, its white stripe barely visible. Percy didn't need to carry it away to remember this conversation. The two of them were here, talking about a day neither had known would happen when they were seventeen in the other life.
+
+"Can I tell you something embarrassing?" he asked.
+
+"Probably."
+
+"I was afraid Clarisse would hate the nursery."
+
+"Why?"
+
+"Because I had all those drawings of her when we were kids. She might think I had a real family and she didn't."
+
+"She didn't hate it."
+
+"No."
+
+"She asked about the picture and told you something about hers."
+
+Percy smiled. "She did."
+
+Annabeth squeezed his hand. "You didn't have to make her feel exactly what you felt. You just had to let her see the room."
+
+They left the pebble and the shells where they belonged. Percy carried no souvenir except the memory of Annabeth choosing to stay beside him while he tried to make sense of his two histories.
+
 They returned for curfew to find Silena and Clarisse waiting in the nursery, in pajamas borrowed from the palace — soft tunics embroidered with waves — sitting on the little clam bed and the rug, clearly waiting up.
 
 "There you are," Silena said, patting the rug. "Tell us everything. Did you show her the cove?"
