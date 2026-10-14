@@ -156,6 +156,166 @@ Zoe stopped there for a moment, looking around the amphitheater. Percy realized 
 
 "She came again," Zoe said softly. "On every new moon for four years. Sometimes for an hour. Sometimes for five minutes. She taught me small things. How to hold a memory still so it does not blur. How to tell Mist from truth by the weight in your ears. How to leave an offering at a crossroads. An apple. A coin. A kind word said backward. She never did big magic in front of me. She said big magic is just small magic that learned patience."
 
+Zoe paused and reached into the pocket beneath her shawl. She brought out a black plastic radio dial, about the size of a large coin, its ridged edge worn smooth in one place.
+
+"This belonged to my father," she said.
+
+Several campers leaned forward, expecting an enchanted object. Zoe rolled it between her fingers.
+
+"The father who raised me. It is not a spell. The most remarkable thing it ever did was help him find the weather forecast."
+
+Milo smiled from the second row. Percy could see the boy relaxing now that Zoe was talking about something ordinary.
+
+"When I was nine," Zoe continued, "Hecate missed a new moon. She had told me to wait by the back gate. I sat there with my coat on until the grass was wet beneath me. I knew what time it was because the neighbor's dog always barked at eleven. Then it barked at midnight. Then the street was quiet."
+
+Her voice changed as she told the next part, losing a little of the formal steadiness she'd used earlier.
+
+She had walked back into the house expecting everyone to be asleep. Instead her foster father was at the kitchen table with the radio taken apart. He had a lamp turned down low, little screws arranged on a dish towel, and a half-eaten sandwich beside the soldering iron.
+
+"Couldn't sleep?" he asked.
+
+Zoe shook her head.
+
+"Come here, then. Help me find what I dropped."
+
+She knelt beside the table and looked under it. The missing object was a tiny spring. It had bounced into the groove where the floor met the wall, and she could just see one silver loop.
+
+"Got it," she said.
+
+"Good eyes."
+
+He took it from her, pleased in the simple way adults were when a child helped rather than making more work.
+
+Zoe stood there a moment, waiting for him to ask what she'd been doing outside. He did. She told him she'd been looking for someone who had promised to come.
+
+"Did they say when?" he asked.
+
+"Tonight."
+
+He stopped working. "And they didn't come?"
+
+"No."
+
+"That's rough."
+
+She was startled. She had expected a lecture about curfew or a demand for the visitor's name. Instead he pulled out a chair.
+
+"You can sit with me for a while," he said. "I can't promise the radio will play anything worth hearing."
+
+Zoe sat. He showed her how the tuning dial connected to a narrow rod. When the dial turned, the plates inside the radio moved closer together, changing which signal the receiver could pick up. He explained it twice, once with words and once by letting her turn the parts herself.
+
+"Radio is mostly asking," he told her. "You turn the knob and listen. If the station isn't there, turning harder doesn't bring it closer."
+
+Zoe laughed at that, though she would remember the sentence long after she forgot most of the technical explanation.
+
+"Why did you take it apart?" she asked.
+
+"There's a crackle. I think a connection's loose."
+
+"What if you can't fix it?"
+
+"Then I'll ask somebody who can."
+
+It was such a plain answer that Zoe almost missed it. The radio wasn't an exam. He didn't need to be right in front of her. If he failed, he would make another plan.
+
+They worked until the first pale line of morning appeared beyond the curtains. The radio eventually produced a burst of static, then a snatch of music, then a woman reading traffic reports. Her father turned the dial and grinned.
+
+"Not bad for a Wednesday," he said.
+
+Zoe went to school exhausted. She fell asleep over a worksheet and had to apologize to her teacher. She told the camp this detail with a faint, rueful smile.
+
+"Magic did not exempt me from consequences," she said. "I got detention for sleeping. I was angry at Hecate and grateful to my father, and both feelings were still true at lunchtime."
+
+When Hecate came the following new moon, Zoe had been waiting with a notebook full of questions. She didn't say hello.
+
+"You missed," she said.
+
+The goddess lowered her torches. "I did."
+
+"You promised."
+
+"I said I would come when I could."
+
+"You made it sound like a promise."
+
+Hecate's face changed. The light behind her grew dimmer.
+
+"Then I should have spoken more carefully," she said.
+
+Zoe folded her arms. "I waited until midnight."
+
+"I am sorry."
+
+"What kept you?"
+
+"A duty I cannot explain to you yet."
+
+Zoe was old enough to know that adults sometimes had real reasons they couldn't share. She was also young enough that the reason did not make the disappointment smaller.
+
+"You could have sent someone."
+
+"Not through the wards around this house."
+
+"Then you should have told me that before."
+
+Hecate looked at the child in front of her and nodded once. "Yes."
+
+Zoe told the camp that the goddess did not make the missed night vanish. She did not tell Zoe to stop being angry or offer a beautiful present so the girl would forget. She stayed until Zoe had finished saying what the night felt like.
+
+Only then did Hecate ask what Zoe had done after waiting.
+
+"I helped Dad fix the radio."
+
+"You call him Dad."
+
+"Because he is."
+
+Hecate looked down at her torches. Zoe did not know whether the goddess was hurt. If she was, she didn't make the child responsible for fixing it.
+
+"That is true," Hecate said.
+
+Zoe held up the little radio dial she'd been allowed to keep from the repair. Her foster father had replaced it with a newer one when the old plastic cracked. She'd spent the whole month turning it between her fingers whenever she waited for something.
+
+"Can you teach me a spell so I never forget that night?" she asked.
+
+"Why that night?"
+
+"Because I was angry with you, and he stayed with me. And someday if I start believing he wasn't really my father, I want to remember he was."
+
+Hecate sat on the edge of the garden step. She put the torches down beside her, where they continued to burn without smoke.
+
+"A memory can be kept in many ways," she said. "You can write what happened. You can tell someone. You can keep the broken part of a machine. Magic can help you concentrate on what you witnessed, but it cannot make a false memory true by polishing it."
+
+"Can it make you forget?"
+
+"Yes."
+
+"Would that be easier?"
+
+"For whom?"
+
+Zoe had no answer.
+
+Hecate looked toward the house, where the kitchen light shone through the curtains. "Sometimes people ask gods to remove grief as though grief were a stain. But if you take away the part that hurts, you may take away the part that mattered too. There are circumstances where remembering exposes a mortal to danger. That does not make forgetting harmless."
+
+Zoe put the dial in her pocket.
+
+"Then I don't want to forget," she said.
+
+"Good," her mother replied. "Write it down."
+
+Zoe had filled five pages in her school notebook that night. She wrote the weather, the traffic reporter's voice, the missing spring, the smell of the soldering iron. Most of all she wrote the sentence about the station that wouldn't appear if you turned the knob harder.
+
+At the campfire she held the dial out for the children to see. It had no glowing runes, no curse and no hidden compartment. Percy could see a small crack across its center where the plastic had once split.
+
+"Later," Zoe said, "Hecate would make a decision about other people's memories that I did not agree with. I still don't know whether she was right. I want that part of the story to sit beside the nights when she listened to me. If I make her only kind or only terrible, I would be forgetting something too."
+
+She put the dial away.
+
+Percy looked down at his own hands. He had spent months worrying that details of his original life were slipping away. He wanted to keep every ordinary thing, as if remembering the precise color of Sally's kitchen or the sound of a subway train could protect the years he'd lost. But the dial in Zoe's pocket was not proof that her family had stayed intact. It was proof that her father had been there, once, in a kitchen, when she needed company.
+
+Annabeth squeezed Percy's hand beneath the blanket. She had heard the story with him. That was a new memory neither needed a spell to claim.
+
 Percy smiled at that despite himself. Annabeth elbowed him lightly, but she was smiling too.
 
 "When I was twelve, the wards broke," Zoe said. And her voice changed.
