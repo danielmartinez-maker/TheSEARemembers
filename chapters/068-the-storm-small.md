@@ -584,6 +584,138 @@ Annabeth nodded, blinking fast. “I know.”
 
 ---
 
+Thalia wanted to take Annabeth back to Cabin One after the lake drill.
+
+"Dry clothes," she said. "Then rest."
+
+Annabeth agreed about the clothes. She didn't agree about resting yet. When they passed the pavilion, she could see that the empty brazier still stood where it had been struck. A length of cord marked off the nearest part of the floor. Two Apollo campers were stacking chairs behind the barrier.
+
+"The mark is still there," she said.
+
+"Scorch marks have a habit of staying put," Thalia replied.
+
+"I want to know whether the brazier is safe."
+
+"Chiron will check."
+
+"I can ask who he's assigned."
+
+Her sister studied her. "You're not planning to fix it with lightning, are you?"
+
+"No."
+
+"Good. The council doesn't have a category for that kind of repair."
+
+Annabeth approached the pavilion with Thalia a few paces behind. One of the Apollo campers, the girl who'd dropped a bowl at lunch, stopped stacking chairs when she saw them.
+
+"Is this a bad time?" Annabeth asked.
+
+"We're almost done," the girl said.
+
+"Who's inspecting the brazier?"
+
+"Beckendorf. Chiron asked him to look at the metal before anybody moves it."
+
+That was a sensible answer. The bolt had struck bronze, not the wooden tables, and a distorted fitting could cut somebody even if the brazier looked stable from a distance.
+
+"Is there anything I can do while you wait?"
+
+The girl glanced at the barrier. "We're just moving chairs."
+
+"Then I'll help with chairs."
+
+Thalia looked as if she was going to object. Annabeth met her eyes.
+
+"I know what you think," she said. "But these aren't dangerous."
+
+"Fine. I'll be right here."
+
+"You're welcome to carry one too."
+
+Thalia made a face and picked up two.
+
+They stacked chairs along the outer wall, working slowly so nobody scraped a leg across the floor near the damaged brazier. Annabeth could feel the Apollo girl's attention flick toward her whenever metal knocked against stone. It would have been easy to fill the silence with apologies until the girl reassured her. Annabeth kept working instead.
+
+After the fourth chair, the girl spoke.
+
+"Did you know it was going to happen?"
+
+"No."
+
+"Did you feel anything before?"
+
+"Yes. I felt my power building. I should have said something and moved away."
+
+"Why didn't you?"
+
+Annabeth could have told her about Bryce's insults, the way he had turned Percy's nightmares into a joke, or the anger that had made everything else feel small. The girl wasn't asking for a defense of Percy. She was asking whether Annabeth understood how the lightning had reached the room where she'd been working.
+
+"Because I was angry and thought I could stay in the argument," Annabeth said. "I was wrong."
+
+The girl put another chair on the stack.
+
+"My brother won't sit at the Apollo table tonight," she said. "He was closest to the brazier."
+
+"Then he can sit somewhere else."
+
+"Chiron said that too."
+
+"Chiron usually knows what he's talking about."
+
+"Usually."
+
+The girl smiled at the word. Annabeth felt relief, but she didn't turn it into an invitation for a longer conversation. When the chairs were finished, she thanked her and went to find Beckendorf.
+
+He was standing outside the storage room with a set of long-handled tools.
+
+"Can I look at the inspection results when you're done?" Annabeth asked.
+
+"You can. But I haven't done the inspection yet."
+
+"I know. I don't want you to assume the metal's fine because the bolt was small."
+
+"I wasn't planning to."
+
+"Or that the floor underneath is safe."
+
+"I'll check that too."
+
+She blushed. "Sorry. I'm giving you a list of things you already know."
+
+"You're an architect," he said. "I expect a list."
+
+He asked her where she'd been sitting and roughly which direction the bolt had traveled. She described what she remembered without pretending she'd watched the whole event from outside herself. Thalia added what she'd seen on arriving, noting that the static had already begun to fade by then.
+
+"All right," Beckendorf said. "That helps. Now let me do the actual check."
+
+Annabeth stepped back.
+
+The distinction mattered. She could own the mistake, supply useful information and help clear the room. She could not make the damaged brazier safe merely by wanting very badly to repair what she'd caused.
+
+Beckendorf examined the rim first, then checked the mounting with the tools he'd brought. He found a small distortion at one corner and made a note to take the brazier out of service. The floor was scorched but appeared intact; Chiron would decide when it could be cleaned and whether any further repair was needed.
+
+"Can I help with the cleaning?" Annabeth asked.
+
+"After Chiron approves it. Not with a wire brush and not tonight."
+
+"Understood."
+
+Thalia put the final chair into place, dusted her hands and looked at Annabeth.
+
+"You're allowed to stop now."
+
+"I know."
+
+"Do you?"
+
+Annabeth looked back at the cord around the damaged section. The barrier would remain, and the brazier would be taken away by somebody who knew what he was doing. She'd learned what could be learned from the damage and had helped with work that was hers to do. There was nothing noble about standing there until everyone forgave her.
+
+"Yes," she said. "I do."
+
+They left the pavilion together. The Apollo girl had gone to fetch her brother before dinner. Annabeth still planned to apologize to the camp, but she was no longer pretending that one speech would fix a damaged fitting or make every frightened child feel safe again. Some things needed time. Others needed tools. Both required people to choose their part.
+
+---
+
 Dinner was the hardest part.
 
 Annabeth had faced down Arachne, had fallen to Tartarus and climbed out, had stood before the gods on Olympus and told them they were doing it wrong. None of that felt as exposed as standing up in the pavilion with every eye on her and her hands empty at her sides.
