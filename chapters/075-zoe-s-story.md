@@ -738,6 +738,26 @@ Thalia bumped Zoe's shoulder with her own. "New moon. I will be there. Edge of t
 
 "Thalia," Thalia corrected, but she was grinning.
 
+"One thing," Zoe said. "I do not want a whole patrol coming because you think I need guarding."
+
+Thalia sobered. "I wasn't planning to bring anybody."
+
+"And I do not need you to sit through the rite. You offered to walk with me. That is what I accepted."
+
+"Understood." Thalia thought a moment. "We can meet by the last marked lantern before the crossroads trail. I can walk there and wait until you're ready to come back. If you want me to go, I'll go."
+
+Zoe looked surprised by the care in the answer. "Yes. And if the weather is poor, we choose another night. The ritual is not worth someone falling on the path."
+
+"You've met me," Thalia said. "I never fall."
+
+"You nearly fell off the amphitheater steps before the play," Clarisse put in.
+
+"That was a tactical descent."
+
+Percy laughed. The joke was familiar, but the promise underneath it was new. Thalia had offered company without taking control of Zoe's private practice. Zoe had given specific permission rather than allowing a well-intentioned friend to decide what she needed.
+
+They had not set the calendar date. Thalia would check her patrol schedule before promising an exact hour. Zoe would check the moon and her own obligations. It would be a visit, not an inspection.
+
 Percy looked at Annabeth, who looked back, and some silent, familiar conversation passed. Annabeth nodded.
 
 "Zoe?" Percy said. "Thanks. For... the displaced thing. For saying it out loud. Makes it feel less weird."
