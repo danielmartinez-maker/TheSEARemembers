@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Status at this commit:** Chapters 001–007 now have chapter-linked per-character event records for the core cast and named supporting cast encountered so far. Verified Chapter 003–007 handoffs are in `editorial/handoffs/`. These are source-grounded memory and targeted prose passes, **not** a complete line-by-line literary signoff. Chapters 008–193 still require chronological migration into these individual character files.
+**Status at this commit:** Chapters 001–012 have per-character source-linked memories and Chapter 003–012 editorial handoffs; these are targeted edits, not a full line-by-line literary signoff. Chapters 013–193 still need incremental memory migration.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -32,3 +32,13 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Chapter 006](../../editorial/handoffs/ch006-memory-prose-2026-10-14.md): Thalia's firsthand Beryl memories, Percy/Annabeth boyfriend confirmation, no-surprise memory tests, Bea's evacuation improvement
 - [Chapter 007](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md): storm/ward failure, bandaged fingers and forearm, supervised training limits, unsent letter + undelivered incident report
 - Chapter 008 begins **two days after the storm**, and source shows the sealed letter being deposited for outgoing sea-message delivery. Receipt by Amphitrite remains UNKNOWN. Preserve Percy/Annabeth's romance, private original-life knowledge, and each sibling's earned familiarity.
+
+
+## Chapters 008–012 cross-chapter handoffs
+- [Ch8](../../editorial/handoffs/ch008-memory-prose-2026-10-14.md): Letter dispatched not delivered; copied archive evidence
+- [Ch9](../../editorial/handoffs/ch009-memory-prose-2026-10-14.md): Unsupervised archive suspension after Oracle encounter
+- [Ch10](../../editorial/handoffs/ch010-memory-prose-2026-10-14.md): Zoe's independent investigation and Annabeth's limited Thalia disclosure
+- [Ch11](../../editorial/handoffs/ch011-memory-prose-2026-10-14.md): Eclipse injury/evacuation/accountability
+- [Ch12](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md): Percy's Sally disclosure to Thalia; longer note referencing road in old life; keeping unfinished gifts distinct
+
+**Boundary:** Thalia keeps Annabeth's TWO notes by the end of Ch012; the longer one mentions being protected by Thalia on the road in Annabeth's 'old life' and the unfinished owl. She can recall READING this, not experiencing it. Ch013 has a late-winter Tuesday but no evidence it is the SAME Tuesday as Ch012.

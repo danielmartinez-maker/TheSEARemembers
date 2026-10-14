@@ -88,3 +88,14 @@ Individual, append-only memory entries now live in [`character-states/`](charact
 **Specific continuity guard:** Bea's Chapter 005 first shield lesson under Clarisse is prior to her Chapter 006 evacuation-leadership error/correction and Chapter 007 application in a real storm. Amphitrite's Chapter 007 personal reply from Percy is drafted and sealed, not delivered; Chapter 008 explicitly confirms dispatch, not receipt. The panther Clarisse intended for Silena's shelf in early Chapter 005 becomes her gift to Percy after Silena prefers a practical drawer; do not duplicate the artifact or retroactively treat Silena as recipient. The Chapter 004 documentary prophecy variants are evidence of altered written text, not demonstrated alteration of the Oracle's actual utterance.
 
 **Review limit:** Chapters 008–193 are not yet migrated to individual source-by-source character memory. The legacy chapter ledger contains some later evidence but is not a blanket first-person memory map. Re-audit scene transitions before further chapter edits.
+
+
+## Ch008–012 cumulative correction ledger
+
+- Ch008: Percy witnesses the Amphitrite letter put in the outgoing sea pouch. SENT is not RECEIVED.
+- Ch009: Chiron imposes ONE WEEK no unsupervised archives; Oracle black thread/residue does not identify culprit.
+- Ch010: Annabeth directly tells Thalia she remembers Percy before camp and remembers wars. Thalia has reported information, not shared autobiographical memories. Zoe's Hecate dream is not verified divine intervention.
+- Ch011: Percy breaks pavilion position promise; Silena covers headcount, Clarisse confronts him. He apologizes, trust not instantly restored. Thalia palm burned, Percy arm injured, coupling retained, cause unknown.
+- Ch012: Percy tells Thalia directly that his original-life Sally was alive seventeen years versus this history's death at two. Annabeth delivers longer note to Thalia's pillow mentioning road protection in her *old life*; Thalia later keeps both notes. This adds a limited written report, NOT firsthand memory. Zoe and Clarisse only know Annabeth's post-fever childhood gaps, not full rewrite. Luke's earlier-life betrayal specifics have not been demonstrated as told to Thalia. Nico GIVES one-armed skeleton keychain; Clarisse owl still unfinished. Grover's overnight Cabin Three stay is temporary due to paint in his normal cabin. Bianca heard Percy report a DREAM of Amphitrite, not literal recovered childhood. Amphitrite has no verified receipt of Ch008 mail or knowledge of Percy memory gap.
+
+See [per-character index](character-states/README.md) and Ch008–012 handoffs.
