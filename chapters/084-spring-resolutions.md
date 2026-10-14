@@ -808,5 +808,89 @@ Annabeth planted thyme beside him, humming Silena's song softly under her breath
 
 Side by side, they began.
 
+The first paragraph took Percy nearly half an hour.
+
+He wrote about a blue birthday cake Sally had made in the apartment, then stopped because he couldn't remember which year it had been. He could remember the kitchen window, the smell of sugar, and the way his mother had told him to wait for the frosting to cool. He could not remember whether he'd already met Grover or whether that part of his childhood came later.
+
+He crossed out the date he'd guessed and wrote *I don't remember the year* in the margin.
+
+Annabeth was kneeling beside the planter, placing thyme roots in damp soil. She didn't lean over to read his page. Every few minutes she asked whether he wanted tea, or needed a sharper pencil. Percy told her when he did.
+
+After a while she sat beside him and held out her hand.
+
+"Want help?"
+
+"With the spelling."
+
+"Okay."
+
+He showed her the sentence, pointing to a word he'd written three different ways. She corrected the spelling and moved the notebook back. She didn't change the story.
+
+"You didn't tell me whether it was good," Percy said.
+
+"Do you want me to?"
+
+"Maybe."
+
+Annabeth read the paragraph again. She smiled at the detail about Sally making him wait for frosting even though he was already trying to eat the cake with a spoon.
+
+"I like that," she said. "It sounds like her."
+
+"You remember her."
+
+"I do. From later. Not from every birthday before I knew you."
+
+Percy looked at the page. That was a distinction he might have blurred if he'd let himself. Annabeth had met Sally in the life they remembered, but she couldn't personally confirm the particular birthday he was describing.
+
+He added a small note: *Annabeth knows Sally from later years, not this day.*
+
+"That's a strange thing to put in a story," Annabeth said.
+
+"Maybe. It's important to me."
+
+"Then keep it."
+
+Mara arrived to inspect the soil in the raised container. She looked at the thyme and said the roots would need more room once summer heat came. Annabeth moved one plant farther apart before covering the roots. The adjustment left a small empty space, which Percy admired.
+
+"Your garden has a gap," he said.
+
+"For another plant when we know what fits."
+
+He looked at his notebook. It had gaps too. The unknown years, the things Sally might have thought but never said aloud, the parts Annabeth knew only because Percy told her. The gaps did not make the story worthless.
+
+They finished one row and one page before breakfast.
+
+Percy stood, wiped dirt from his knees and closed the notebook. He wrote the date on the outside so he would know when he'd begun, not because it made the remembered birthday more precise.
+
+"Next Saturday?" Annabeth asked.
+
+"Next Saturday."
+
+"If you're here."
+
+"If I'm not, I'll write a page wherever I am and send you a note that I've done it."
+
+"You don't have to prove it to me."
+
+"I know. I just like telling you."
+
+Annabeth smiled. She washed her hands at the little outdoor tap and helped Mara return the unused seedlings to the Demeter counselor. Percy carried the remaining tools to the shed, where he signed them back in instead of leaving them in the garden.
+
+When he returned, Annabeth was looking at the planted thyme.
+
+"Do you think it'll last?" Percy asked.
+
+"If we water it and keep the soil right."
+
+"That's not very inspiring."
+
+"It's a garden. It needs us to show up again."
+
+Percy thought about the book and his family, about letters that came late, and about how much easier it was to make a solemn promise than to carry out small work every week. He had spent the previous night with people who loved making speeches. Now the sun was up, and there were tools to put away.
+
+"Then I'll show up," he said.
+
+Annabeth nodded. They walked to breakfast with the notebook tucked safely in Percy's coat, leaving the thyme to its first clear morning.
+
 ---
 
