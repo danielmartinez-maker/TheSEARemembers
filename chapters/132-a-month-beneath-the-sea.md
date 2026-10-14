@@ -492,6 +492,102 @@ The mended bracer still lay on the rail. Percy picked it up and followed.
 
 ---
 
+On the way to Chiron's office, Percy found Silena outside the Big House with the Atlantis photograph held in both hands.
+
+She'd removed it from its sleeve. The garden behind the family was pale and green in the afternoon light, a place Percy could name every fountain in but couldn't fully remember from childhood. Clarisse's expression had been caught halfway between a grin and a challenge. Silena stood beside her with one hand resting on the back of a chair.
+
+"What happened to the sleeve?" he asked.
+
+"It's in my bag. Austin wanted to check the print against the archive entry."
+
+"Something wrong with it?"
+
+"No. I wanted to send a copy to the palace. I thought I should ask everyone in the photograph before assuming it was ours to send."
+
+Percy looked again. Poseidon and Amphitrite stood beneath the garden arch. Triton had let the photographer catch him with one eyebrow raised. Tyson was just visible at the edge, a solid shoulder and a hand lifted in greeting.
+
+"Amphitrite was there," Percy said.
+
+"That doesn't mean everyone else wanted their faces sent wherever the palace mail goes."
+
+"You're right."
+
+Silena studied him. "That was a suspiciously easy answer."
+
+"I've been practicing."
+
+"You were practicing listening to me at two in the morning a few weeks ago. Doesn't mean the practice has to be dramatic every time."
+
+He recognized the reference. She'd wanted people to notice her wishes instead of thanking her for keeping everyone happy. This time she'd already decided what she wanted and had come here to find out how to do it without speaking for other people. He resisted the impulse to offer to handle the whole task.
+
+"What do you need from me?" he asked.
+
+"Your permission for a family-only print. Not permission on everyone else's behalf. If you'd rather keep this copy in Cabin Three, Austin can make another once the consent sheets are checked."
+
+"Can you tell him yes from me?"
+
+"Yes. But write it down. He's trying to keep the archive accurate."
+
+She handed him a small form with his name already printed at the top. Percy checked the lines. One asked whether the photograph could be displayed at camp. Another asked whether a copy could travel to Atlantis for family use. The second was blank.
+
+He checked the family-only box and wrote the date. He didn't check the option for public display in Atlantis. It was easy to imagine the palace hanging the photograph in a broad corridor where visiting courtiers could stare at his sisters without ever having met them. That was different from showing it to the family.
+
+"That's the restriction I want," he said.
+
+Silena read it and nodded. "Mine too."
+
+"Does Clarisse agree?"
+
+"She wants the photo kept off any official royal noticeboard. Her exact words were longer and involved a threatened spear."
+
+"Sounds reasonable."
+
+"Reasonable was not one of the words she used."
+
+Percy looked toward the office window. Chiron had already stacked folders for the day's meetings. Somewhere behind the walls Austin was organizing prints that would eventually survive long after the people who'd posed for them had forgotten which day they were taken.
+
+"Are you going to put a note in with it?" he asked.
+
+"I might."
+
+He started to suggest something cheerful to say to Amphitrite, then stopped. Silena's relationship with the sea queen was hers to define. Percy's bond with Amphitrite didn't give him the right to write his sister's feelings.
+
+"What would you want her to know?" he asked instead.
+
+Silena gave him an odd look, then smiled.
+
+"That it was a good day. That Clarisse complained about the sunlight until she saw the print. That I liked standing there, even when the photographer kept telling me to move."
+
+"Those sound like things worth saying."
+
+"They're not a diplomatic message."
+
+"Good."
+
+She replaced the photograph in its sleeve. "I'll write my own note. You can write one too if you want. Just don't attach an entire plan for the next visit before Chiron has seen the dates."
+
+Percy looked down at the shell in his hand.
+
+"Are you all conspiring about that?"
+
+"No," Silena said. "We just know what you do when somebody offers you a month in a place you love."
+
+"What do I do?"
+
+"You start imagining what everyone else will want before you've asked them."
+
+He couldn't deny it. He could only choose what to do next.
+
+"Then I'll ask Chiron," he said.
+
+"That's why you're standing outside his office."
+
+"Right."
+
+Silena stepped aside to let him pass. Behind him she began telling Austin about the restrictions she wanted on the print, in her own words and her own voice.
+
+---
+
 Percy went to Chiron after speaking with Thalia, carrying the shell and an empty page from Annabeth's notebook. He didn't know what answer he'd give his father, but he had finally decided that guessing about a month's absence was not the same as planning one.
 
 Chiron was at his desk sorting the next training rotation. Outside the open window the camp moved through its afternoon chores, hammering from the armory and the distant clatter of dining tables carrying through the heat.
