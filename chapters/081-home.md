@@ -302,6 +302,126 @@ Percy grinned at Clarisse. "Or else."
 
 "Every week," Percy promised. "Little brother's oath."
 
+Clarisse looked at him. "Every week what? A letter? An Iris-message? Because you keep saying those are the same thing and they're not."
+
+"A letter," Percy said. "Every week unless the courier routes are closed. And if I can't send one, I'll write it and send it later."
+
+"That's better."
+
+Silena held out a hand. "I want in on that."
+
+Percy took the hand without making a performance of it. "You already write to me."
+
+"Yes, and sometimes I get back a page about algae with no question about how I am."
+
+"The algae was interesting."
+
+"It was a page and a half."
+
+"The kelp at Terrace Two was doing something unusual."
+
+Silena laughed. "I read it. I even asked you a question about it. You didn't answer."
+
+Percy had no defense. He remembered the letter. He remembered how excited he'd been when Annabeth sent the portfolio of sketches in reply, and how he'd written back about the designs rather than asking what Silena wanted him to know about her life.
+
+"Okay," he said. "One actual question each letter. A question I want the answer to."
+
+"Good." Silena tilted her head. "And if the answer isn't cheerful?"
+
+"Then it's not cheerful."
+
+Clarisse studied him. "Don't promise to fix everything from underwater, Jackson. If I tell you somebody got injured in the arena, it doesn't mean you get to send ten messages saying I should have stopped it."
+
+"Depends how bad the injury is."
+
+"No. It depends whether I asked you for advice."
+
+Percy sighed. "Fine."
+
+"Say it."
+
+"I'll ask what you need before trying to fix the problem."
+
+Clarisse nodded, satisfied. Percy could hear the lesson from their family promise weeks earlier, the one they'd made by the memorial shrine. Apparently she intended to hold him to the specific words. He found that comforting and irritating in equal measure.
+
+Silena sat on the step beside them. "And you both get to tell me when I've made plans for you that you didn't ask for."
+
+Clarisse looked startled. "What plans?"
+
+"The spring dance," Silena said. "I told everybody they'd be dancing at least twice. You did, but I didn't ask first. I just decided that because I wanted the family together, everybody else would want exactly the same thing."
+
+"I didn't mind," Clarisse said.
+
+"That isn't the point."
+
+Percy smiled faintly. "You've been listening to Annabeth."
+
+"Obviously."
+
+Clarisse put down the canteen. "Well, since we're apparently having a council meeting, I've got a question. Where are you going after the visitors leave?"
+
+Percy glanced toward the Sound. "Atlantis for the short May study block. The instructors still have a place for me. Then back to camp."
+
+"And after the May block?"
+
+"Camp, probably. I haven't decided all the school parts yet."
+
+"Do you get to decide?" Clarisse asked.
+
+"Some of it. Poseidon and Amphitrite have the actual schedules."
+
+"Then you should find out which choices are yours before you promise anything else."
+
+Percy remembered the letter from Amphitrite inviting him to a palace event earlier that spring. He'd learned to distinguish an invitation from an order only after someone asked him whether he'd actually said yes. He hadn't been good at it.
+
+"I'll write Mom," he said.
+
+Clarisse's face changed very slightly. She didn't ask him why he sometimes said *Mom* with confidence and sometimes paused. She knew Amphitrite had raised him in the changed childhood they remembered. She didn't know he couldn't recall those years in the same way she could. He was grateful she let the word stand.
+
+"She'll answer," Silena said.
+
+"She usually does."
+
+"Not usually. She always answers me eventually. Sometimes she tells me she's busy and then answers properly two days later. It's annoying because it means I can't claim she's ignoring me."
+
+Percy laughed. "You really are our sister."
+
+"Yes," Silena said. "I keep telling you."
+
+A counselor came around the corner carrying a stack of departure packets. They contained travel contacts and permission slips, a list of belongings to be checked and the time each family had agreed to collect its children. Percy accepted the packet for Cabin Three.
+
+Tyson's official return was through the beach transfer, not the mortal buses. Clarisse and Silena had different plans for the coming weeks. Percy realized that even siblings who slept under the same roof could be traveling in three directions without any of them abandoning the others.
+
+He opened the packet. A name was missing.
+
+"Wait," he said. "Where's Tyson's return contact?"
+
+The counselor checked. "There should be a separate Atlantean sheet."
+
+"There isn't."
+
+"Then we'll get one before he leaves."
+
+Percy nearly said that the palace always knew where Tyson was, that his brother could swim home whenever he wanted. Neither of those statements was a reason to make a child disappear from a supervised camp without the correct paperwork. He followed the counselor to the Big House and waited while Chiron confirmed the handoff with the Atlantean representative.
+
+It took twenty minutes. Nobody died of boredom, although Percy came close.
+
+The representative confirmed the time, destination and person accepting responsibility. Chiron recorded it. Percy carried the completed slip back to the cabin and gave Tyson the copy meant for him.
+
+"All sorted," Percy said.
+
+Tyson studied it carefully. "They wrote my name correctly."
+
+"Yeah."
+
+"And my forge unit."
+
+"Yep."
+
+Tyson folded the page and tucked it into the same pocket as his tool list.
+
+Percy knew some gods could command seas to move. That didn't make a handwritten transfer record unimportant. Today it was what let the people who cared about Tyson know where he was supposed to be.
+
 Silena linked her arm through both of theirs. "Siblings solid?"
 
 "Siblings solid," Percy and Clarisse said together, and Silena beamed like Aphrodite herself had blessed it.
