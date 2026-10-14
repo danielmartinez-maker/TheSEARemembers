@@ -579,7 +579,7 @@ Thalia took her hand as they went toward the pavilion. They didn't pretend the g
 
 ---
 
-When Annabeth came out of the forge, she found Nico waiting on the steps with a coil of blue cord over one shoulder.
+Halfway to the pavilion, Thalia stopped to ask Chiron about the evening schedule. Annabeth went ahead and found Nico waiting beside the path with a coil of blue cord over one shoulder.
 
 That was alarming enough. He also had a ruler.
 
@@ -607,7 +607,7 @@ She could see the dining pavilion from the forge path, its roof showing through 
 
 Nico seemed relieved she understood. He held out the ruler. "I thought you might know where the string should go."
 
-Annabeth looked at the case in her hand. Zeus's silver invention had changed shape twice on the way out of the forge. Thalia had tucked the case into the pouch she'd sewn, leaving the ordinary compass in its other pocket. Annabeth had thought she might get half an hour alone before the party, enough to sit on her bunk and decide whether she wanted to keep the gift where she could see it.
+Annabeth felt the case through the pouch at her hip. Zeus's silver invention had changed shape twice before she'd closed it in the forge. She'd carried it carefully back to Cabin One; now the ordinary compass occupied the pouch's other pocket. She had hoped for half an hour in which nobody asked her to work out how something ought to function.
 
 Instead, everyone wanted a measurement.
 
