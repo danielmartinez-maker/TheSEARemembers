@@ -576,6 +576,100 @@ Silena bowed, laughing and crying, and mouthed Thank you to Clarisse, who mouthe
 
 ---
 
+By ten Percy had heard enough resolutions to be suspicious of the word *always*.
+
+An Apollo camper had promised never to be late to morning practice again, then admitted he had an early infirmary shift twice a week and couldn't possibly do both. Chiron helped him revise it to arriving on time when he was scheduled, or telling the instructor in advance when his duties conflicted. A younger Hephaestus camper promised to rebuild every damaged shield before summer, then checked the repair list and discovered half the parts were still on order.
+
+The night was full of moments like that. Some campers laughed, some groaned, and a few were relieved when they learned they could make a promise small enough to keep.
+
+Grover stood near the edge of the fire with a folded route sheet in his hand. He had been quiet during most of the announcements. Percy joined him.
+
+"You okay?"
+
+"Trying to work out whether mine is brave or stupid."
+
+"What's yours?"
+
+"To help one Searcher who hasn't come home. Not by breaking an order. By asking for a route I can actually take."
+
+Percy looked at the sheet. "Did Chiron approve?"
+
+"Not yet. I'm showing him tomorrow."
+
+"Then maybe that's the resolution. Make the request properly."
+
+Grover gave him a rueful look. "It sounds less heroic when you put it that way."
+
+"Last spring we would have run into the woods with a bag of tin cans and called it a strategy."
+
+"We almost did."
+
+"We were idiots."
+
+"We were ambitious," Grover corrected.
+
+Percy smiled. He remembered Grover's farewell by the lake, the schedule he'd made for reporting his location and the way Ella had agreed not to treat one late letter as proof he was lost. The resolution was a continuation of that conversation. Grover wanted to do something meaningful, but he wasn't using the word *Searcher* as permission to disappear without warning.
+
+"Do you want me there when you ask?" Percy said.
+
+"No. This one's mine. But can you help me read the route restrictions afterward?"
+
+"Sure."
+
+"Good."
+
+Thalia joined them with a cup of tea. Her patrol parka was still damp from the afternoon. She listened while Grover described the proposed search and asked whether he had a rest and return plan.
+
+He showed her the reverse side of the sheet. It included a list of safe houses and a note about contacting Chiron if weather closed a route. Thalia nodded.
+
+"That's better than my first expedition plan," she said.
+
+"What was your first plan?" Percy asked.
+
+"Go quickly. Come back eventually. Tell nobody I needed help."
+
+"Excellent plan."
+
+"Nearly flawless."
+
+She smiled, then looked at Grover again. "You can ask for somebody to review it. That isn't the same thing as asking them to take over."
+
+He looked down at the paper. "I know."
+
+"Knowing and doing are different," Thalia replied. "I spent all spring learning that."
+
+Percy watched her face. He knew she'd been worrying about her Hunters' obligations, Jason and Beryl's invitation to meet as a family later in summer, and the promise to escort Zoe toward the marked lantern at a future new moon. Those obligations belonged to different people. The fact that she could care about all of them didn't mean she could be everywhere.
+
+"Have you made your own resolution?" he asked.
+
+"Ask for help before I get desperate enough to order somebody around."
+
+"That sounds difficult."
+
+"Terrifying."
+
+She raised her cup in a mock toast. Grover touched his route sheet against it, and Percy raised an empty hand because he hadn't fetched a drink.
+
+"To small promises," Percy said.
+
+"To keeping them," Grover replied.
+
+They returned to the fire. Percy noticed Clarisse sitting beside Silena with the rolled sheet still in her lap. She hadn't read it yet. Silena wasn't looking at it. They were watching the younger campers leave in supervised groups, their lanterns moving toward the cabins.
+
+When a small boy stopped and asked whether he'd missed the important part of the night, Silena answered that tomorrow's breakfast was important too, and he didn't need to stay up past his bedtime to prove he belonged. The boy went with his counselor without argument.
+
+Percy looked at his own card. *Write Sally's story.* It still seemed too large. He scratched out the sentence and wrote instead: *Saturday mornings, one page about a day I remember. Mark what I don't know.*
+
+He showed the revised wording to Annabeth when she sat beside him. She read it and nodded.
+
+"I think that's a better start."
+
+"Less impressive."
+
+"More likely to happen."
+
+That was exactly the point. He folded the card and kept it for himself rather than dropping it into the archive box.
+
 Midnight came slow and then all at once.
 
 The bonfire burned low, coals pulsing red-gold. Marshmallows were gone. Mr. D had, as predicted, stayed two hours and fallen asleep in his blankets, snoring faintly while Chiron kept watch with fond exasperation. The younger campers had been escorted to their cabins by counselors before midnight. The older ones talked low, shoulders touching for warmth. Ella had finally fallen asleep on her archive box, pencil still in hand, and Silena had gently tucked a blanket around her without waking her.
