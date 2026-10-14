@@ -26,6 +26,174 @@ Chiron set down his clipboard. His wise old eyes were very kind.
 
 "Then let us make it so," he said. "And, my dear, you do not have to do it alone. This camp loves nothing more than a secret project."
 
+Bianca lingered on the porch after Chiron returned to his archery scores. The conversation had been less frightening than she expected, but she still had the feeling she'd left something important unsaid.
+
+"Chiron?"
+
+He looked up.
+
+"How do I know he wants a surprise?"
+
+The question made her face hot. She had come to the Big House with an entire imagined birthday in her head: a cake, a game, people calling Nico's name until he stopped feeling like a child everybody forgot. Now that she had heard herself say it aloud, she wasn't sure how much of that birthday belonged to Nico and how much belonged to the girl who couldn't stop thinking about years lost in a hotel.
+
+"Has he enjoyed surprises before?" Chiron asked.
+
+"He likes opening presents. He likes trying to guess what's in them."
+
+"Those are not quite the same thing."
+
+"He hates when everyone looks at him because of his powers. He loves it when someone asks him about his cards." Bianca rubbed her thumb across her palm. "Sometimes I think I know him better than anybody else. Then I realize I'm still guessing."
+
+Chiron set the score sheets aside.
+
+"You may ask him whether he likes the idea of a party without explaining every detail," he said. "A surprise need not include ambushing a child. He can know who is coming and where he is going. The gift may still surprise him."
+
+"That ruins the secret."
+
+"It changes the secret." Chiron regarded her kindly. "The purpose of the day is not to catch him unprepared. It is to make him feel wanted. If those are in conflict, which would Nico choose?"
+
+Bianca stared at the porch steps. She already knew.
+
+"I don't know how to ask him without making it obvious," she admitted.
+
+"Ask him what he wants from Friday. He is old enough to answer."
+
+"What if he says nothing?"
+
+"Then believe he might mean it. Ask whether he would like to spend time with you instead. A birthday can be small and still be his."
+
+Bianca swallowed. Every birthday she'd spent with him in the Lotus Hotel had seemed unimportant because the next one could arrive without a season changing outside the windows. Some mornings there had been cakes in the hotel dining room and neither of them could explain why. Sometimes Nico had been the one to remember a date and she'd believed him because he held the memory so fiercely.
+
+She still remembered their mother's hands when she cut birthday bread at a kitchen table before the hotel. There had been a little blue plate, a candle that would not stand upright and a song she sang in Italian, though Bianca had forgotten half the words. Nico remembered the song differently. They had argued about that once until he cried.
+
+She wasn't going to turn this birthday into another test of whose version was correct.
+
+"I'll ask," she said.
+
+"Good. Now, about that secret project." Chiron tapped his pencil against the clipboard. "No unapproved construction. No magical fireworks near children. And no hiding a building in the woods because somebody can use the Mist."
+
+Bianca blinked. "I wasn't going to build a building."
+
+"Not yourself," he agreed. "But I know Annabeth."
+
+That startled a laugh out of her.
+
+"She means well," Chiron said. "She also has a habit of deciding a good plan needs only enough time and volunteers. If she proposes anything more permanent than decorations, send her to me. We will consult the groundskeepers, check the location and arrange inspections."
+
+"Okay."
+
+"The same goes for Percy and the lake. I know he can move water. That does not make every illuminated water shape suitable for a birthday party with younger campers walking nearby."
+
+"Okay."
+
+Chiron studied her for a moment. "And Bianca, perhaps you should ask yourself what you need from the day."
+
+She looked away.
+
+"I need him to know I didn't forget."
+
+"Then tell him you remember."
+
+"Even if it gives away the party?"
+
+"Especially then."
+
+She left the porch thinking of all the things adults had once kept secret to protect her and Nico. Some of the secrets had been necessary. Others had only made it easier for them to misunderstand what was happening. She didn't want to do that to her little brother.
+
+She found Nico behind Cabin Thirteen, kneeling in the dirt beside the skeleton flowers he liked so much. The flowers had thin white petals that looked like carved bone. He was sketching one in a notebook, counting the ribs of each petal before drawing it.
+
+"Hey," Bianca said.
+
+He looked up. "Hi."
+
+"Are you busy?"
+
+"I was studying something important."
+
+"How important?"
+
+He held up the drawing. "The flowers are arranged in threes today. Yesterday they were in fours. I think it means something."
+
+"Maybe."
+
+"It definitely means something."
+
+"Then you should keep track of it."
+
+He looked pleased by that answer. Bianca sat on a flat stone beside him and brushed an ant off her knee.
+
+"Friday's your birthday," she said.
+
+Nico's pencil stopped moving.
+
+"I know."
+
+"I remember." She heard the awkwardness in her voice and tried again. "I want to spend it with you. I thought maybe we could do something with a few people from camp. Something you like. Would that be okay?"
+
+Nico looked at the flowers. He didn't answer immediately.
+
+"How many people?" he asked.
+
+"I don't know. Maybe your friends. Maybe some of the older campers."
+
+"Everybody?"
+
+"Only if you want everybody."
+
+He considered. "Cecil. And Percy and Annabeth. Clarisse if she isn't doing drills. Silena. Maybe Thalia. And you."
+
+"What about Chiron?"
+
+"Chiron isn't a kid."
+
+"No, but he eats cake."
+
+Nico smiled. "He can come."
+
+She held herself still. This was more information than she'd hoped for. She could make invitations instead of summoning the entire camp and hoping Nico would be happy about being the center of it.
+
+"Is there anything you don't want?" she asked.
+
+"No loud noises. And no singing from the Apollo kids if they do that thing where they make up a song about you."
+
+"No loud noises, no improvised songs. Got it."
+
+"And no floating in the deep part of the lake," he added quickly.
+
+"Why would we put you in the lake?"
+
+"Because Percy likes water."
+
+Bianca laughed. "We won't."
+
+Nico seemed to relax. He turned his drawing toward her.
+
+"Do you think I could have a place to play Mythomagic where people aren't walking past my table?"
+
+"Maybe," she said.
+
+"Not a whole new cabin or anything. Just somewhere with a roof."
+
+She felt a small, incredulous relief. She hadn't told Annabeth about the fort yet, hadn't even known it was a possibility. Nico had given her the one thing she needed to know before anybody started building: what he actually wanted.
+
+"I'll see what I can do," she said.
+
+Nico narrowed his eyes. "You're acting suspicious."
+
+"I am your older sister. Suspicious is my job."
+
+He grinned and went back to drawing the flowers.
+
+As she got up, he called after her.
+
+"Bianca?"
+
+"Yeah?"
+
+"Can we have chocolate cake?"
+
+She turned around and smiled. "I was hoping you'd ask."
+
 By lunch, it was not a secret project. It was a conspiracy.
 
 ---
