@@ -862,6 +862,150 @@ Under the table, Percy leaned close and murmured, “You were amazing.”
 
 She laughed, shaky but real, and leaned her head briefly against his shoulder. He smelled like lake water and sunscreen and lunch pizza. Safe.
 
+Annabeth stayed at the Poseidon table until the crowd had stopped watching her. She wasn't sure exactly when that happened. At first every fork clink sounded like a comment about the lightning, and every laugh from another table made her think she'd been named. Then a Hermes camper spilled orange juice down his own shirt and started an argument about who was supposed to fetch a towel. The pavilion's attention moved on without asking permission.
+
+Percy was finishing his food. He hadn't eaten much at lunch after the incident, and now he looked starved.
+
+"Do you think Bryce meant it?" Annabeth asked quietly.
+
+"Which part?"
+
+"The apology."
+
+Percy swallowed. "I think he meant it when he said the rumor was wrong. I think he's embarrassed. Whether he stops doing it is something we'll have to find out."
+
+"You accepted it."
+
+"I accepted the apology he offered me."
+
+"What about the apology he offered me?"
+
+"That's yours to answer."
+
+Annabeth looked at him. She had expected a simple assurance that everything was over. Percy hadn't given her one.
+
+"I don't know if I forgive him yet," she said.
+
+"Then don't say you do."
+
+"You made it sound settled in front of everyone."
+
+"For me, the part where he lied about the retrieval is settled. If he starts again, I'll tell him to stop. Chiron can handle the rest. I don't get to announce that you're comfortable around him."
+
+She let the thought sit. Percy had used the same careful distinction when she wanted to speak on his behalf at lunch. She hadn't listened then. Now he was giving her room to make a decision that didn't match his own.
+
+"Thank you," she said.
+
+"For what?"
+
+"Not doing it for me."
+
+He nodded. "I'm practicing."
+
+She could hear Clarisse arguing with Sherman farther down the table about the best way to clean a practice spear. Silena tried to intervene once, then let them dispute it. Everyone was settling back into the small disagreements that meant dinner had become ordinary again.
+
+Annabeth leaned close enough that nobody else would hear.
+
+"When you held my hand at lunch, did I shock you?"
+
+Percy stopped eating.
+
+"Percy."
+
+"A little."
+
+"How much?"
+
+"Like touching a metal doorknob in winter. It stung. Then it stopped."
+
+"Then you weren't safe when you told me I couldn't hurt you."
+
+"I thought the water would take the charge."
+
+"That's an assumption, not a safety procedure."
+
+He looked down at his hand. The skin was normal. Annabeth checked anyway when he offered it. She could see no burn, which was a relief, but the absence of a mark didn't make the choice a good one.
+
+"I was scared you were going to panic," he said. "I wanted you to know I wasn't leaving."
+
+"I know. But you can stay without making yourself the place the lightning goes."
+
+Percy went quiet. In the old life they'd survived so many situations by taking each other's risk that it was hard to separate devotion from an instinct to step between the other person and danger. Those memories belonged to both of them, and neither made this new power harmless.
+
+"What would help next time?" he asked.
+
+Annabeth considered what Thalia had taught her that morning. She hadn't used the exit plan when Bryce started baiting them, but she had used it later when the little boy asked to be left alone. She was better at stopping after she'd had a moment to think. She needed a signal early enough to matter.
+
+"If I say I need space, give me space. Don't argue on my behalf. Get Thalia or Chiron if you can. And unless someone who knows how to handle divine electricity says otherwise, don't offer your hand while I'm discharging."
+
+Percy listened without interrupting.
+
+"Can you do that?" she asked.
+
+"Yes. If there's a danger to somebody else, I might need to move them first."
+
+"Of course. I'm asking you not to treat yourself as a lightning rod."
+
+"All right."
+
+"And I'll tell you earlier instead of waiting until my hair starts standing up."
+
+"That'd be helpful."
+
+She laughed once, without much humor. "I wish it were always that simple."
+
+"It won't be."
+
+"That might be the least reassuring thing you've ever said."
+
+"I mean we're going to make mistakes. We can still agree on the plan before we need it."
+
+Annabeth took her notebook from beside her plate. She wrote down the exact words she'd use if the power started building: I NEED TO STEP AWAY. Beneath them she added two tasks, one for herself and one for whoever was beside her: MOVE TO A SAFE OPEN AREA, GET A TRAINED INSTRUCTOR. She didn't put Percy's name in the second line. The instruction needed to work if he wasn't there.
+
+"Will you show that to Thalia?" Percy asked.
+
+"Yes. And Chiron. They'll probably change half of it."
+
+"That's what they're for."
+
+She drew a small box around the word trained. Percy had learned from the fishing day that a dangerous hook under a dock was not a reason for one person to inspect every piling alone. Annabeth could apply the same principle to her power. She wasn't a unique problem her boyfriend had to solve by being brave enough to hold her hand. She was a camper who needed a plan other people could understand.
+
+Silena came to collect their plates.
+
+"Can I ask something?" Annabeth said.
+
+Silena set the plates down. "Of course."
+
+"Would you be willing to tell me if I start arguing past the point where I'm listening? Especially if you see my powers building."
+
+"Yes," Silena said. "But I don't always know what your powers look like before they're visible. You'd have to tell me when you can."
+
+"That's fair."
+
+"And I'm not going to decide who you're allowed to be angry with."
+
+"I wouldn't ask you to."
+
+"Good. Then I can say, Annabeth, your voice is getting louder and you asked me to remind you to leave. You can tell me if that's helpful."
+
+Annabeth pictured Bryce's expression from lunch. She could imagine herself arguing that she was right, that he needed to hear why he was wrong, that leaving meant letting him win.
+
+"Tell me anyway," she said.
+
+Silena squeezed her shoulder. "I will."
+
+Across the table Clarisse announced that all three of them were being too serious about something that could be handled by putting Bryce on stable-cleaning duty forever. Silena told her that punishment was Chiron's decision. Clarisse grumbled but didn't argue.
+
+Percy moved his plate aside and held up his empty hand, palm open on the table.
+
+"Can I hold your hand now?" he asked.
+
+Annabeth checked the quiet hum beneath her ribs. No static. No rising pressure. She placed her hand in his.
+
+"Now you can."
+
+It wasn't a rule against comfort. It was a way to keep comfort from becoming another danger neither of them wanted to name.
+
 After dinner, as promised, Chiron had a quiet word with Bryce that left the boy looking chastened but not crushed, and Clarisse had a louder word that left him looking like he’d rather muck stables for a year than face her again. Annabeth watched from a distance and felt no satisfaction, only tired relief. He was just a kid. They were all just kids, trying to be brave in a world that kept giving them wars.
 
 The campfire that night was subdued but warm. They sang the usual songs. Rachel told a terrible ghost story that made the Hermes kids scream and then demand an encore. The anvil cloud that had been building all day finally reached them around nine, and the sky opened into steady, ordinary rain — garden rain, not storm rain. Everyone crowded under the pavilion awning and the Big House porch to watch it come down in silver sheets, smelling of pine and wet stone and lake.
