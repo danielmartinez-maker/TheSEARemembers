@@ -1,6 +1,6 @@
 ## Chapter 3: What the Storm Remembers
 
-Annabeth woke to the sound of her own screaming.
+Annabeth woke on the floor of Cabin One, tangled in the blanket she'd pulled down with her. The throat that had screamed in her Tartarus dream still hurt. She pressed a palm against the grain of the floor until she could count the ordinary sounds: a horn on the early watch, two campers arguing outside, the shutter she and Thalia had been repairing. Nobody here could see the drop she'd dreamed about or the moment she'd lost Percy's hand. She knew those were memories, not present danger, yet she stayed on the floor until her breathing found its way back to the room.
 
 She was on the floor of the Zeus cabin, tangled in blankets, her heart hammering so hard she could feel it in her teeth. The dream was already dissolving — fragments of darkness, the smell of ash, the feeling of falling — but the terror clung to her like cobwebs. Tartarus. She'd been dreaming of Tartarus. Of the darkness and the despair and the way the air itself wanted to kill her. Of Percy's hand in hers, the only solid thing in a collapsing world.
 
@@ -12,7 +12,7 @@ The cabin was empty. Thalia's bunk was made with military precision, the corners
 
 Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she couldn't read. Each one represented a summer, a season, a childhood she'd never lived.
 
-She hated them.
+She resented the beads for marking summers she could not remember, then resented herself for thinking of removing them. Thalia had lived those summers alongside her; taking the necklace off wouldn't make that history disappear, but it would force another conversation neither of them was ready to have.
 
 The dining pavilion was already busy when she arrived. Breakfast at Camp Half-Blood was a loud, chaotic affair, but today there was an undercurrent of tension that made the noise feel sharper, more brittle. Annabeth grabbed a tray and made her way to the Zeus table, where Thalia was already sitting with a group of older campers.
 
@@ -118,7 +118,7 @@ Annabeth slipped away. She needed to be alone.
 
 She found herself at the canoe lake, sitting on the same dock where she'd met Percy the night before. The water was calm, glass-warm on top with a cold undertow, reflecting the midday sun in broken shards of light. Pine and strawberries scented the wind.
 
- she was shaking. Adrenaline crash, she told herself. Normal aftermath of a fight. Except it wasn't just adrenaline. It was the realization of how easily she'd slipped into her old self — the Tartarus-trained warrior, the general, the girl who'd commanded armies. For a breath, she'd forgotten to be twelve years old. She'd forgotten to be helpless.
+Her hands shook as she looked at the scraped knuckles the practice sword had left. She'd recognized the drakon's opening but nearly lost the blade because her twelve-year-old arms couldn't carry the force she remembered using. Saving Thalia had been worth the risk; pretending that her old skills made the risk disappear would be a mistake.
 
 And Thalia had seen.
 
@@ -432,7 +432,7 @@ That night, Annabeth couldn't sleep.
 
 She lay in her bunk, staring at the ceiling, listening to Thalia's steady breathing from across the room. The nightmare was still with her — fragments of Tartarus, the feeling of Percy's hand slipping from hers, the smell of sulfur and despair.
 
- she got up. She needed air.
+She got up and took her shoes from beneath the bunk. After the fight and the healer's orders, she needed a few minutes where Thalia wouldn't have to monitor her breathing or decide whether to follow.
 
 The cabin was dark and quiet. She dressed quickly and slipped out into the night. The camp was still, the cabins dark, the only light coming from the dining pavilion's dying bonfire and the moon overhead.
 
@@ -456,7 +456,7 @@ They sat in silence for a while. The night was cool, lake-water and mint on the 
 
 "Those are divine decisions. Not mortal ones."
 
-"Exactly. So the changes didn't just happen randomly. They were made. By someone with enough power to rewrite reality and enough knowledge to make it stick."
+"Maybe they are connected," Percy said. "Or maybe the Hall was approved for reasons nobody bothered to explain to new campers. We should see the records before deciding who did what."
 
 Annabeth considered that. "You think it's a god?"
 
@@ -470,7 +470,7 @@ They sat with that for a heartbeat. Then Annabeth said, "We should start tomorro
 
 "Agreed."
 
-"And we need to be ready. Whoever did this — they know we're here. They must. Otherwise, why send us back?"
+"And we can't assume whoever changed our lives knows we've noticed," Annabeth said. "It's a possibility, not a fact. If we start treating our fears as evidence, even the right clues won't be any use."
 
 Percy's jaw tightened. "That's what I'm afraid of."
 
@@ -478,11 +478,7 @@ Percy's jaw tightened. "That's what I'm afraid of."
 
 The wind picked up, cold off the lake, pine needles hissing like static, rustling the trees around the lake. Annabeth shivered, and Percy pulled her closer. They stayed like that for a long time — watching the stars, feeling the cool night air, trying to remember what it felt like to be ordinary.
 
-But ordinary was a long time gone.
-
-Somewhere in the distance, thunder rumbled, low through the soles of their feet, ozone-sharp on the tongue — low and distant, like a warning.
-
-Or a promise.
+At the far side of the lake, a watch horn sounded and another answered it. Annabeth folded their notes with the questions on the inside so they wouldn't get damp on the walk back. They still knew almost nothing about the rewrite, but they'd agreed what to ask for first. She could live with the uncertainty for one night.
 
 ---
 
