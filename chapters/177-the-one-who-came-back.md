@@ -488,7 +488,7 @@ Luke wrote the way he talked, which was well and a little too fast, and it went:
 
 Thalia read it twice, folded it along its own creases the way it had come, and sat on the floor with it in her lap in the lamplight for a long time.
 
-The postmark was from a town forty miles away and the date was Tuesday, which had been the night of the storm, and she had spent nine hours being tight about it, and now she knew what she had actually been holding: she had wanted the letter to be an apology about the summer, or a confession about something, or a reason, and it was a road letter from a person who was doing fine and who thought about her about four times a year, which is a real and respectable amount, and which was not what she wanted.
+The postmark was from a town forty miles away and the date was Tuesday, the day before the storm, and she had spent nine hours being tight about it, and now she knew what she had actually been holding: she had wanted the letter to be an apology about the summer, or a confession about something, or a reason, and it was a road letter from a person who was doing fine and who thought about her about four times a year, which is a real and respectable amount, and which was not what she wanted.
 
 That was the whole thing and it was nothing, and she sat on the floor and found that she was not angry and not sad and not even disappointed in any way that would last past breakfast, and that what she was was *done*, in the way that a list is done: the item was on the page and it had been answered and she could draw a line through it and stop carrying it around the hill.
 

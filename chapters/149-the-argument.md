@@ -596,7 +596,7 @@ Thalia laughed. It was a small laugh, but it was a laugh, and in the dark in the
 
 "I know. Me too. That's the problem."
 
-Clarisse looked at her. In the dark, with the moon behind her, Thalia looked younger than she was. She looked like the girl she'd been before the tree and the Hunters and the protector and the lightning. She looked like somebody's little sister.
+Clarisse looked at her. In the dark, with the moon behind her, Thalia looked younger than she was. She looked like a girl before the whole camp started depending on her. Like somebody's little sister.
 
 "We're both trying to hold on so tight," Clarisse said, "that we're crushing it."
 

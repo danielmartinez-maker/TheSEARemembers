@@ -218,7 +218,7 @@ Thalia sat on the low wall. Annabeth stayed standing, but she didn't leave.
 
 "Good. Because that would be a stupid promise."
 
-Thalia looked down at the cord, at the dirt ground into the woven strands, and made herself say the thing she had come down the hill avoiding. "I'll go to Chiron tomorrow."
+Thalia looked down at the cord, at the dirt ground into the woven strands, and made herself say the thing she had come down the hill avoiding. "I'll go back to Chiron tomorrow."
 
 Annabeth took a moment before answering. She was learning, slowly and with great difficulty, that not every victory required a closing argument.
 
@@ -236,9 +236,9 @@ Thalia let her have that one. Annabeth took back the ruler and started down the 
 
 By six, when Thalia borrowed Percy's coat and stepped out of Cabin Three, the injury had become something she was actually going to do something about. It remained a poor explanation for why she was walking toward Rhys Calder's light. She had no better explanation ready.
 
-Someone had known about the heel since Sunday. Percy had said it aloud at the fire ring, with no ceremony or accusation, and Thalia had spent the next day discovering how much she disliked being observed when she couldn't do anything about the observation. Now the north path ended at Rhys's cabin, with lamplight caught in the quilted window. She could still turn around. She had promised Annabeth an examination tomorrow; she had promised Rhys nothing. That, she was beginning to suspect, was why coming here mattered.
+Someone had known about the heel since Sunday. Percy had said it aloud at the fire ring, with no ceremony or accusation, and Thalia had spent the next day discovering how much she disliked being observed when she couldn't do anything about the observation. Now the north path ended at Rhys's cabin, with lamplight caught in the quilted window. She could still turn around. She had promised Annabeth a follow-up examination tomorrow; she had promised Rhys nothing. That, she was beginning to suspect, was why coming here mattered.
 
-There was a particular humiliation in realizing she had been flirting with him for almost six weeks and had somehow managed to convince herself she was conducting a professional rivalry.
+There was a particular humiliation in realizing she had been flirting with him for a little over two weeks and had somehow managed to convince herself she was conducting a professional rivalry.
 
 She'd first noticed the problem when he corrected her elbow.
 
@@ -1613,7 +1613,7 @@ By the time their mugs were half empty, they'd spent twenty minutes talking arou
 
 "It's still there."
 
-"It's still there and I still mean it." He grinned, but only a little. "I've been back six weeks, Thalia. I'd like to stop being careful with you, if that's allowed."
+"It's still there and I still mean it." He grinned, but only a little. "I've been back a little over two weeks, Thalia. I'd like to stop being careful with you, if that's allowed."
 
 The stove ticked. Laurel rustled in the rafters. Outside, the wind came down off the ridge and went through the pines like water through reeds, and she sat with her hands around the mug and thought about being somebody's somebody and how long it had been since anyone had asked her a plain question and waited.
 
@@ -1635,7 +1635,7 @@ He broke it by degrees, the way the good ones do — half an inch, foreheads tou
 
 "I'd like tonight to be not careful. The two of us. You're eighteen. I'm nineteen. We're both adults and it's October and the heater's going." His thumb moved once against her waistband, warm through the shirt. "I want you in my bed tonight. I want to know what you feel like when you're not being polite. If you want that too, say yes. If you want to sit and drink cider and talk about the winter list, say that instead, and I'll never make it weird."
 
-Thalia looked at him. This boy who had gone away and come back broad. Who corrected her stance on a cold field until her arms remembered it. Who had been careful for six weeks like a man, and who was now standing in front of her with his heart going as plainly as hers was.
+Thalia looked at him. This boy who had gone away and come back broad. Who corrected her stance on a cold field until her arms remembered it. Who had been careful with her since he came back, and who was now standing in front of her with his heart going as plainly as hers was.
 
 "Yes," she said, with more certainty than she'd expected. She took his hand off her waist and put it flat on the front of her shirt, over her heart, and held it there, and looked at him, and stepped in until there was no space left between them, and kissed him again — hard this time, open-mouthed, her hand fisted in the front of his shirt — and he got it, the way he always got it, and his arms came around her and he kissed her back, and he understood that she was choosing him, not surrendering the choice.
 
