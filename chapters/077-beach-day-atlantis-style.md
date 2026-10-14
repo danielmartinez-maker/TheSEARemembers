@@ -36,7 +36,7 @@ Silena Beauregard came drifting down the dune path like the morning was staged f
 
 And then, to everyone's surprise, Thalia Grace.
 
-She came down the steps from the forest trail alone, her black hair streaked with electric blue at the tips from some prank of the Stoll brothers that she had apparently decided to keep, her silver-gray jacket tied around her waist over a black tank and shorts. Her storm-gray eyes were ringed faintly with tiredness — Thalia never slept well before a full moon — but her shoulders were down. Relaxed. For Thalia, that was basically a spa commercial.
+She came down the steps from the forest trail alone, her black hair streaked with electric blue at the tips from some prank of the Stoll brothers that she had apparently decided to keep, her silver-gray jacket tied around her waist over a black tank and shorts. Her electric-blue eyes were ringed faintly with tiredness — Thalia never slept well before a full moon — but her shoulders were down. Relaxed. For Thalia, that was basically a spa commercial.
 
 "Don't stare," she told Percy flatly as she passed him. "I can do beach. I have done beach before."
 
@@ -85,7 +85,7 @@ Grover read over Percy's shoulder and let out a long, low whistle. "Okay. That's
 
 What spilled out onto the sand in the next twenty minutes was pure Atlantis.
 
-The first basket held food: clusters of sweet blue grapes that tasted like saltwater taffy and fresh rain, honey-cakes stamped with tridents, chilled nectar bottles that stayed cold no matter how long they sat in the sun, and a dozen glass jars of what Amphitrite's note called *sunset dip* that changed color from gold to pink as you ate it. There were also sandwiches — real, mortal-world turkey and cheese and PB&J — because, as a second smaller note said, *I know growing heroes need mortal food, too. Poseidon insisted.*
+The first basket held food: clusters of sweet blue grapes that tasted like saltwater taffy and fresh rain, honey-cakes stamped with tridents, chilled berry-juice bottles that stayed cold no matter how long they sat in the sun, and a dozen glass jars of what Amphitrite's note called *sunset dip* that changed color from gold to pink as you ate it. There were also sandwiches — real, mortal-world turkey and cheese and PB&J — because, as a second smaller note said, *I know growing heroes need mortal food, too. Poseidon insisted.*
 
 The second basket held the party kit: Atlantean silk canopies anchored by living coral weights, self-cooling towels, reef-safe sunscreen that smelled like vanilla, shell snorkels that whispered fish names, and a set of living tide-pool bowls.
 
@@ -275,7 +275,7 @@ Clarisse snorted, but she didn't disagree. She set the crab back gently and watc
 
 It was, from Clarisse, basically a love poem.
 
-Lunch was sprawled and sandy: sandwiches, sunset dip turned pink, grapes, cold nectar. Chiron told an Atlantis story, and even Nico smiled at Poseidon wiping out into his own throne room.
+Lunch was sprawled and sandy: sandwiches, sunset dip turned pink, grapes, cold juice. Chiron told an Atlantis story, and even Nico smiled at Poseidon wiping out into his own throne room.
 
 Silena spread her finds: scallops, whelks, sea glass, and one rare perfect blue piece she pressed into Annabeth's hand. "For the highest window. So she can always see the ocean."
 
@@ -327,11 +327,11 @@ She took a breath, the breeze tugging strands of hair across her face. Percy res
 
 Percy felt something cold slip down his spine that had nothing to do with the water around his ankles. "Yeah?"
 
-"Yeah. But then — Camp." Annabeth turned to look back up the beach, toward the distant bright canopies, the tiny figures, the sand castle glinting gold. "How do I leave this? How do I leave... everyone? Tyson finally has a cabin that feels like home. Grover's got his searcher's license and his nature work. Thalia's — gods, did you see her today? She actually slept. Clarisse laughed without threatening anyone. Silena..." She shook her head. "I architected a sand castle with living sand from Atlantis, Percy. Where else am I going to do that?"
+"Yeah. But then — Camp." Annabeth turned to look back up the beach, toward the distant bright canopies, the tiny figures, the sand castle glinting gold. "How do I leave this? How do I leave... everyone? Tyson knows there's a place for him when he visits Cabin Three. Grover's got his searcher's license and his nature work. Thalia's — gods, did you see her today? She actually slept. Clarisse laughed without threatening anyone. Silena..." She shook her head. "I architected a sand castle with living sand from Atlantis, Percy. Where else am I going to do that?"
 
 Percy swallowed. "So what are you saying? You have to choose?"
 
-"Don't you feel it?" Annabeth asked, her gray eyes meeting his, stormy and vulnerable in a way she only ever let him see. "We're growing up. The war with Kronos is coming — you know it is, don't pretend you don't feel it too — and after that? What does a demigod do at seventeen? Eighteen? We don't get to go to college and get apartments and have normal lives. Well. Some do. Rarely. Mostly we... we either stay here and teach and patrol, or we try out there and hope the monsters don't find us."
+"Don't you feel it?" Annabeth asked, her gray eyes meeting his, stormy and vulnerable in a way she only ever let him see. "We're growing up. We remember a war with Kronos, but that doesn't prove it will unfold the same way again. And if another war comes, what happens after? What does a demigod do at seventeen? Eighteen? We don't get to go to college and get apartments and have normal lives. Well. Some do. Rarely. Mostly we... we either stay here and teach and patrol, or we try out there and hope the monsters don't find us."
 
 Her voice wobbled just slightly on the last part. Percy hated that wobble more than any monster roar.
 
