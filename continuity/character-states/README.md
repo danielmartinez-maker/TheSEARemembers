@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Status at this commit:** Chapters 001–012 have per-character source-linked memories and Chapter 003–012 editorial handoffs; these are targeted edits, not a full line-by-line literary signoff. Chapters 013–193 still need incremental memory migration.
+**Status at this commit:** Chapters 001–022 have source-linked character-memory and handoff records for all six core characters and supporting characters with source-verified knowledge. Chapters 013–022 now have ten new handoffs, recorded communication status, gifts, injuries, obligations and disclosures. These are targeted substantive prose/continuity passes, not exhaustive sentence-by-sentence certification; Chapters 023–193 still require incremental migration and full literary review.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -42,3 +42,18 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Ch12](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md): Percy's Sally disclosure to Thalia; longer note referencing road in old life; keeping unfinished gifts distinct
 
 **Boundary:** Thalia keeps Annabeth's TWO notes by the end of Ch012; the longer one mentions being protected by Thalia on the road in Annabeth's 'old life' and the unfinished owl. She can recall READING this, not experiencing it. Ch013 has a late-winter Tuesday but no evidence it is the SAME Tuesday as Ch012.
+
+
+## Chapters 013–022: verified character-memory and prose handoffs
+- [Chapter 13 handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md): Zeus visit new physical face; Jason letters remain unmailed
+- [Chapter 14 handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md): Atlantis Iris message, Barnacle parcel, siblings receive bracelets
+- [Chapter 15 handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md): Beryl's claimed sobriety; separately written replies not sent; Thalia hears old-life report
+- [Chapter 16 handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md): CTF deliberate favor and incomplete match, no newly discovered boyfriend status
+- [Chapter 17 handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md): Zoe wins ordinary race; Grover considers Pan Searcher; Clarisse teaches Percy childhood game
+- [Chapter 18 handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md): Forge model; Clarisse hears Ares-daughter report; Thalia learns Athena mother report
+- [Chapter 19 handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md): Jason direct supervised Roman Iris call; drawing transferred, physical mail accepted only
+- [Chapter 20 handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md): Belated 16th birthday gifts, not Zeus redemption
+- [Chapter 21 handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md): Corrected 512-basket harvest; Jason supervised visit approved
+- [Chapter 22 handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md): Jason guest cot in Cabin One; bounded storm training and unapproved Thursday session
+
+**Next boundary Ch022→Ch023:** Jason's supervised week is ACTIVE, no departure or extension shown. One successful lantern-lighting is not unlimited storm control. Thursday shorter exercise is only penciled pending Chiron permission. Percy's electric scare has no documented medical injury. Annabeth/Thalia relationship is cumulative, not instantly perfected. In Ch023 Sally blue cookies can be disclosed in bounded terms without silently granting Amphitrite the older-life history.

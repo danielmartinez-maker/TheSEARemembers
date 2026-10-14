@@ -53,3 +53,6 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: Hall repair roster contains unnamed crews; no automatic Matt inclusion.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+## Chapters 013–022 carry-forward status
+- Matt's earlier camp instruction/knowledge from Chapters 001–012 persists. Do not add first-person knowledge of Zeus's Ch013 meeting, Roman correspondence, Jason's private Iris call, Beryl's letter, Amphitrite's Iris conversation, or Annabeth's alternate-life memories without an identified scene or explicit report.

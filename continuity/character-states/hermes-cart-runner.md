@@ -53,3 +53,6 @@
 - **Source:** [Chapter 12](../../chapters/012-what-remains.md)
 - **Event / absence / information provenance:** Ch012: No verified new contact; do not conflate with Nico/Bianca/Milo.
 - **Carry-forward:** No assumed knowledge of another person's private experience, unreceived letter, or unobserved scene.
+
+## Chapters 013–022 carry-forward status
+- Identity remains unnamed after Ch002 cart rescue. Do not conflate with Nico, Bea, Milo, Matt, a Stoll or a new named boy without textual identity evidence. The later chapter events do not retroactively give this child a new name or first-person memories.
