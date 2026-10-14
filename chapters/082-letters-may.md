@@ -700,6 +700,22 @@ Percy wanted to argue, but he couldn't. Nerit lent him a small tool for tighteni
 
 The model passed.
 
+The next group came to use the same test tank. Percy helped Nerit return the fish to the approved nursery channel, checked that no tools had been left beneath the water and cleaned the cracked pieces of his first barrier from the bottom. The instructor asked whether he wanted to keep the original model as a reminder of his mistakes. Percy considered it, then placed the broken shell frame in the recycling bin. He kept the drawing, which showed both the original design and the revised escape channels.
+
+"Does that mean you're finished with the project?" Nerit asked.
+
+"Finished with this version," Percy said.
+
+"There's another version?"
+
+"There's always another version if people start using it and find out we missed something."
+
+Nerit laughed. "Annabeth really is teaching you to sound like an architect."
+
+"Don't tell her. It'll go straight to her head."
+
+They turned in their assignments together. Percy's grade was good, though not the highest in the class; Nerit's mesh design scored better under changing pressure. Percy congratulated him without pretending he'd secretly wanted to win. He'd learned how to keep an imperfect shelter useful. It was enough.
+
 His instructor signed the assignment and asked Percy to write a reflection explaining which parts he'd changed and why. Percy had expected to be graded on power. He ended up being graded on whether he could explain his mistakes.
 
 That evening he wrote Annabeth a separate page about the experiment.
