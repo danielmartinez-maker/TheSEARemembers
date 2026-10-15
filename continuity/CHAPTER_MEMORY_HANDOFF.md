@@ -93,3 +93,17 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Ch096→Ch097:** Annabeth chooses her Cabin One bunk and plans to finish her separate camp survey in the morning. Chiron's beach-exercise map is a separate object; the beacon remains lit; the north-trail brace inspection is pending; Thalia's right palm remains last recorded as tender and wrapped.
 - **Ch097→Ch098:** The first edition is on a wheeled easel in the Big House rec room for a one-week trial. The north trail and third dock board remain closed/unsafe; the strawberry route suggestion and Cabin Six window correction are pending. The wide photo for Amphitrite is approved but not shown as sent. Chapter 098 opens Friday morning with letters from Poseidon and Zeus.
 - **Coverage limit:** This is a Chapter 097 source-scoped update, not continuous memory certification. Chapters 037–089 and 098–193 remain outside this update and still require scene-level evidence.
+
+## Chapter 098 continuation
+
+- [Chapter 098 handoff](../editorial/handoffs/ch098-fathers-day-gods.md) and [structured continuity record](ch098.yaml): records the joint meal with Poseidon and Zeus, the public map's limits, each child's separate boundary, and the unresolved injuries, promises and camp hazards.
+- **Ch097→Ch098:** The public survey begins a one-week rec-room trial. The north trail remains closed and the dock's third board flexes; the exact date/year are unknown.
+- **Ch098→Ch099:** Thalia's right palm remains wrapped and uncleared; Poseidon's next-morning question to Clarisse and later hinge visit to Tyson are not shown. The map trial and hazards remain open. Chapter 099 begins in late August; the exact gap and whether Tyson's forge leave is the same visit remain unknown.
+- **Coverage limit:** Chapter 098 has a scene-level handoff and adjacent 097/099 check, not continuous memory certification for the remaining story.
+
+## Chapter 099 continuation
+
+- [Chapter 099 handoff](../editorial/handoffs/ch099-mothers.md) and [structured continuity record](ch099.yaml): preserves the mother-child visit and gifts, Beryl's letter as a set of unverified claims, Silena's firsthand report, Thalia's injury, and the optional lantern gathering.
+- Scoped Chapter 099 state entries were added for Amphitrite, Annabeth, Athena, Beryl, Chiron, Clarisse, Jason, Percy, Piper, Poseidon, Sally, Silena, Thalia, Triton and Tyson. The witnessed/reported/unknown distinction remains explicit.
+- **Ch099→Ch100:** Percy returns Amphitrite's shawl to his Cabin Three bed after lending it to Annabeth. Tyson remains on forge leave; his gift tools are left at the forge and his hinge/birdhouse plans are incomplete. Thalia keeps Beryl's opened letter and sends no reply; Jason hears only that it arrived. Her right palm remains wrapped without clearance. The exact date/gap and relation between the two campfire gatherings remain unknown.
+- **Coverage limit:** This is a scene-level review of Chapter 099 with adjacent 098/100 checks. Chapters 037–089 and other unreviewed ranges still require their own source-based scene review.

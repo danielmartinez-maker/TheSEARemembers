@@ -181,3 +181,8 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
 - **State:** FIRSTHAND: arrives with her right palm still wrapped and not cleared for bracing or sparring; uses her left hand for the signs and does not lift tables. At the barbecue she tells Zeus that his changing face and repeated questions make each visit feel like a restart. She asks him to identify himself and ask whether she wants to talk before questioning her about Annabeth.
 - **Relationship / carry-forward:** Zeus says he can do that, but no future visit or reconciliation is confirmed. Thalia does not wave when he leaves. She stays with Annabeth after the departure and says Will will check the palm in the morning. No healing or clearance is established.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** FIRSTHAND: opens a sealed California-postmarked letter from Beryl at the Big House after asking Chiron to wait. She keeps it, does not answer that day, and may decide after a week whether she wants to write; this is not a test of Beryl's sobriety. She tells Jason only that a letter arrived and she is keeping it.
+- **Reported / injury:** The letter claims 60 sober days, an Ojai placement and Jason's help arranging a ride; none is independently verified and Beryl is absent from camp. Thalia's right palm remains bandaged and uncleared; she uses her left hand to hold the letter and count lantern frames.

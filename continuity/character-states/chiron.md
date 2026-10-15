@@ -174,3 +174,8 @@
 - **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
 - **State:** FIRSTHAND: reviews the current map trial with Annabeth before the meal, keeps the separate meal plan out of the correction sleeve, and coordinates food safety and table placement. When wind moves smoke across the food, he pauses service and relocates the table; Annabeth records the setup change separately. He tells Zeus the tested ramp route was successful only once in dry conditions.
 - **Carry-forward:** The north trail remains closed pending brace inspection, the dock board still flexes, and the map remains in its one-week rec-room trial. Poseidon's overnight arrangements and next-morning visit are not confirmed.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** Receives a sealed letter addressed to Thalia, holds it until she asks to open it, and steps onto the porch when she requests privacy. He sets the optional lantern event's no-explanation boundary and checks the serving aisle.
+- **Carry-forward:** The letter's claims are not independently verified. The third dock board remains unsafe; no map-trial, north-trail, injury or family-contact status is resolved here.

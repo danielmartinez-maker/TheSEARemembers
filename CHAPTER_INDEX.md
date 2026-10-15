@@ -228,7 +228,15 @@ Chapter 098, [Fathers' Day (Gods)](chapters/098-fathers-day-gods.md), was revise
 
 - Full manuscript QA: **193/193** indexed and ordered chapters; **174** meet 10,000 body words and **19** remain short by **132,170 words**. The chapter-only scan checked **1,805,052** every-offset 300-word windows and found **zero exact cross-chapter matches**.
 - Bonus-inclusive scan: **196 Markdown files**, **2,013,909 body words**, **1,955,604** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression checks pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
-- Local structure, memory and duplicate checks pass. Hosted Actions for this candidate await its push. These are mechanical checks plus a scoped scene review, not whole-novel semantic or literary signoff.
+- Local structure, memory and duplicate checks pass. Both hosted workflows passed on commit `1243faf`: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006429) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006398). These are mechanical checks plus a scoped scene review, not whole-novel semantic or literary signoff.
+
+## Revision QA — Chapter 099 (2026-10-15)
+
+Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10,166 body words** (+4,282). The Percy-limited revision preserves the Chapter 097 dock hazard, keeps Beryl's claims attributed to her letter, leaves Thalia's right palm wrapped and uncleared, and records Amphitrite's gift and Percy/Annabeth's temporary shawl loan. See the [chapter handoff](editorial/handoffs/ch099-mothers.md) and [structured continuity record](continuity/ch099.yaml).
+
+- Full manuscript QA: **193/193** indexed and ordered; **175** meet 10,000 body words and **18** remain short by **128,054 words**. The chapter-only scan checked **1,809,334** every-offset 300-word windows and found **zero exact cross-chapter matches**.
+- Bonus-inclusive scan: **196 Markdown files**, **2,018,191 body words**, **1,959,886** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression groups pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
+- **Hosted workflows:** pending publication of this revision. The mechanical and scene-level checks do not certify whole-novel semantic or literary consistency.
 
 ## Bonus interludes
 
@@ -252,7 +260,7 @@ Chapter 098, [Fathers' Day (Gods)](chapters/098-fathers-day-gods.md), was revise
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–098
+### Chapters 090–099
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
@@ -263,3 +271,4 @@ Chapter 098, [Fathers' Day (Gods)](chapters/098-fathers-day-gods.md), was revise
 - [Chapter 096 handoff](editorial/handoffs/ch096-training-together.md)
 - [Chapter 097 handoff](editorial/handoffs/ch097-the-map.md)
 - [Chapter 098 handoff](editorial/handoffs/ch098-fathers-day-gods.md)
+- [Chapter 099 handoff](editorial/handoffs/ch099-mothers.md)

@@ -19,3 +19,8 @@
 - **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
 - **State:** FIRSTHAND: attends the Saturday meal during approved forge leave, brings potato salad, and chooses to explain a small bronze hinge he improved. He says the flatter angle bent, the steeper revision stayed straight after seven tests, and he likes the sound of the door closing. He sketches the hinge briefly on a used plate, then erases it; no keepsake remains.
 - **Carry-forward:** Tyson asks Poseidon to hear the hinge click on a later visit near the forge; Poseidon agrees, but no date is set. Tyson chooses the green tasting spoon for the potato salad and washes his bowl himself. No injury is established.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** FIRSTHAND: receives Amphitrite's hammer, chisels, apron and sea-peanut butter. During approved forge leave he chooses to test the hammer on an eighth hinge trial, then leaves the gift tools at the forge. He plans to show Amphitrite a working hinge and asks Chiron before choosing a site for her birdhouse.
+- **Carry-forward:** The working hinge and birdhouse are incomplete; no date for showing either to Amphitrite is set. Tyson returns to the Cabin Three guest bunk by the chapter's end and is still on forge leave in Chapter 100.

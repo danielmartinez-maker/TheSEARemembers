@@ -65,3 +65,7 @@ Annabeth's mother in her ORIGINAL remembered life, not altered-life biology; onl
 ### Chapter 22 · verified carry-forward
 - **[Ch22](../../chapters/022-storm-training.md):** Annabeth privately remembers Athena craftsmanship while learning Zeus storm powers; Jason gets no older-life memory.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 099 · remembered by Annabeth
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
+- **State:** OFFSTAGE. Annabeth tells Thalia about remembering Athena as her mother in the life she remembers, including Athena's letters and dream visits. Thalia hears Annabeth's account and does not gain autobiographical memories of Athena.

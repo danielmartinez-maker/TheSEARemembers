@@ -172,3 +172,8 @@
 - **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
 - **State:** FIRSTHAND: chooses the menu board and food-order work, checks ingredient labels, and asks not to be assigned emotional mediation. She tells Poseidon she does not want “healer” to be the only thing he knows about her; she explains the menu choices she made and accepts his help wiping the board.
 - **Carry-forward:** Silena says she will tell Poseidon if she wants another conversation; this is not a promise or forgiveness. She offers a handshake at departure and keeps her choice separate from Clarisse's.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** FIRSTHAND: tells Percy that Maria called her “exhausting to love” when she was six and that Christmas cards carry Spain postmarks and the initial M. She says she does not know Maria's current life or whether she has other children. She describes a mirror her friends gave her and chooses to leave her lantern blank without explaining her family to the group.
+- **Carry-forward:** These are Silena's own reports, not an omniscient account of Maria. Silena chooses to help with the optional event and owes no reply to the cards.

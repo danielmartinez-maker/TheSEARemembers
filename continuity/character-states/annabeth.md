@@ -185,3 +185,8 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **State:** FIRSTHAND: reviews the public camp survey with Chiron before the meal; explains its one-week trial, separate correction card, tested ramp route and unresolved hazards to Zeus when he asks to see it. She shows only the public page and keeps her private field notebook closed. The map is a wayfinding survey, not a defense plan.
 - **Family / relationship:** Tells Zeus she does not remember the childhood Thalia remembers and wants him to ask about the life she is living now. She and Percy disclose their established relationship to both fathers together. The erased-life map memory remains private between Percy and Annabeth; neither tells Thalia, Zeus or Poseidon.
 - **Carry-forward:** She records the changed meal-table setup separately from the map. North trail and dock repair remain pending; the map's week trial is unfinished. No new injury or map approval is established.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** FIRSTHAND: listens to Percy share Sally memories; attends Thalia's chosen letter conversation and tells her about remembering Athena as her mother in the life she remembers. Thalia hears Annabeth's account but does not gain those memories. Annabeth wears Percy's shawl for the evening and returns it.
+- **Relationship / carry-forward:** Percy and Annabeth remain established partners. Neither tells Amphitrite about the erased timeline or their autobiographical memories. No map-trial or injury status changes.

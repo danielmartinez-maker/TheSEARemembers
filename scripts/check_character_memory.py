@@ -260,6 +260,24 @@ CHECKS = {
                    "A bald eagle named Kevin",
                    "Amphitrite knows the time rewrite"),
     },
+    "chapters/099-mothers.md": {
+        "present": ("She died when you were two; that doesn’t mean you cannot miss her",
+                    "60 days sober today. They gave me a chip.",
+                    "She asked for you. She said you can come too",
+                    "A letter came from Mom. I'm keeping it for now.",
+                    "Don't put somebody's name on a thing they didn't choose.",
+                    "The dock's third board still flexed; nobody was to use it.",
+                    "I've been rude to you and Percy. I'm sorry."),
+        "absent": ("Ares thinks it's stupid",
+                   "cheetah-print coat and no shoes",
+                   "set the house on fire when I was seven",
+                   "told my principal she was Hera",
+                   "forgot Jason's birthday three years running",
+                   "Beryl was at the Big House",
+                   "Thalia was whittling",
+                   "GABE got crossed out and replaced with PAUL",
+                   "Amphitrite knows the time rewrite"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

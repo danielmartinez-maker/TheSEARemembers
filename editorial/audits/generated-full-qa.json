@@ -1295,13 +1295,13 @@
     {
       "chapter": 99,
       "path": "chapters\\099-mothers.md",
-      "body_words": 5884,
-      "shortfall": 4116,
-      "passes_length": false,
+      "body_words": 10166,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.162,
-      "median_paragraph_words": 23
+      "dialogue_line_ratio": 0.263,
+      "median_paragraph_words": 19
     },
     {
       "chapter": 100,
@@ -2437,7 +2437,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1805052,
+  "window_comparisons": 1809334,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2448,9 +2448,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 174,
-  "failing": 19,
-  "total_shortfall": 132170,
+  "passing": 175,
+  "failing": 18,
+  "total_shortfall": 128054,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }

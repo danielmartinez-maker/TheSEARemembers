@@ -37,3 +37,8 @@ Do not convert another character's old-life recollection or hearsay into firstha
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: attends with Piper and the visiting Roman exchange guests Frank and Hazel. Piper rests her head in his lap and he braids a glow-stick into her hair at her instruction. This is observed closeness; the chapter does not define or change their relationship status. His sisters' memories remain theirs.
 - **Carry-forward:** Percy remembers the Camp Jupiter spring exchange from his own Chapter 083 visit; Jason does not transmit or acquire anyone else's original-life memories here.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** Appears to Thalia by Iris-message. Percy hears Thalia tell him only that a letter from their mother arrived and she is keeping it for now. Percy cannot hear the rest of their exchange.
+- **Knowledge / carry-forward:** Jason is not shown reading the letter or hearing its Ojai, sobriety or ride claims. His response and what else Thalia tells him remain unknown.

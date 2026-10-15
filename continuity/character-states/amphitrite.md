@@ -105,3 +105,8 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** OFFSTAGE: sends six blue cookies and a note for Annabeth. Percy reports that he previously told her only that the map was nearly done. The recipe is the camp version he shared with her, adapted for the Atlantis kitchen; it is not Sally's exact recipe.
 - **Knowledge / carry-forward:** Percy and Annabeth approve a wide photo of the map and people for Amphitrite, with no close-ups of notes. No photo is shown as sent or received. Amphitrite remains unaware of the erased timeline and Percy's private memory gap.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** FIRSTHAND: visits camp, gives Tyson tools/apron/sea-peanut butter, Triton a calling conch and Percy a blue blessed shawl. She says Poseidon told her about Sally and acknowledges Sally died when Percy was two.
+- **Knowledge boundary:** Amphitrite is not told about the erased timeline, Percy's memories of another life, or his altered-childhood memory gap. She does not learn the Sally stories Percy shares with Annabeth and Silena after she leaves.

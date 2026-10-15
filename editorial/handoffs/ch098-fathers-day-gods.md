@@ -38,7 +38,7 @@
 ## Phase 4 — mechanical verification
 
 - **Local QA:** Passed on the candidate tree. The structure audit finds 193/193 indexed and ordered chapters; Chapter 098 has 10,121 body words; 174 chapters meet the floor and 19 remain short by 132,170 words. The chapter-only scan found zero exact matches across 1,805,052 every-offset 300-word windows. The bonus-inclusive scan found zero exact matches across 1,955,604 windows in 196 Markdown files (2,013,909 body words). All 31 source-anchored memory regression checks pass. The lexical introduction scan leaves one human-review cue in Chapter 014.
-- **Hosted Actions:** Pending a pushed head commit. This handoff does not certify semantic repetition or whole-manuscript literary quality.
+- **Hosted Actions:** Both workflows passed on commit `1243faf`: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006429) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006398). This handoff does not certify semantic repetition or whole-manuscript literary quality.
 
 ## Carry-forward to Chapter 099
 

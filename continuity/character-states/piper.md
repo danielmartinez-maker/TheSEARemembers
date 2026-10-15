@@ -5,3 +5,7 @@
 ### Chapter 093 - witnessed / reported / unknown
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** Attends the movie night with Jason. She photographs the screen and the blanket arrangement from behind, keeping sleeping campers out of the frame. She later rests her head in Jason's lap; he braids a glow-stick into her hair at her instruction. This is witnessed closeness and does not define their relationship status.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
+- **State:** Brings clips and wire for the optional paper lantern display, sorts frames with Silena and helps keep the serving aisle clear. She does not write anyone else's name or explain another camper's family.

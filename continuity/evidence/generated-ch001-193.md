@@ -1575,17 +1575,17 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/099-mothers.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 72, Annabeth 45, Thalia 38, Tyson 31, Triton 23, Silena 21, Amphitrite 16, Sally 15, Poseidon 9, Beryl 9
+- Name appearances (not proof of presence): Percy 120, Tyson 72, Annabeth 46, Thalia 46, Silena 36, Triton 36, Clarisse 23, Amphitrite 20, Sally 19, Chiron 19
 - Event/action candidates to inspect in context:
   - Line 13: It wasn’t an anniversary or anything. It was just one of those mornings when Sally Jackson, alive in the old life he remembered and gone since he was two in this one, felt very close. Maybe it was the light. She’d always loved mornings like
-  - Line 31: Percy didn’t bother denying it. Annabeth always knew.
   - Line 37: He thought. After years together in the life they remembered, Annabeth knew most of the Sally stories. The seven-layer dip. The time she’d taken on Gabe with a frying pan just by threatening to. The way she could quote whole passages of boo
   - Line 43: “She loved your filing system,” Percy said. “She loved you.”
-  - Line 45: Annabeth looked down quickly, but not before he saw the pink climb her cheeks. She never quite knew what to do when he talked about Sally like that — like that past could be reached again. He didn’t push it. He just bumped his shoulder agai
+  - Line 45: Annabeth looked down quickly, but not before he saw the pink climb her cheeks. The old life stood between them in a way nobody else at camp could see. She had known Sally there; in this life she knew her through Percy’s stories, and neither
+  - Line 47: “I wish I could remember the notes,” Annabeth said. “Not what you’ve told me. The actual paper. The handwriting. The way the ink looked after it got damp in your backpack.”
 - Memory/disclosure candidates to inspect:
   - Line 37: He thought. After years together in the life they remembered, Annabeth knew most of the Sally stories. The seven-layer dip. The time she’d taken on Gabe with a frying pan just by threatening to. The way she could quote whole passages of boo
-  - Line 109: “For your building,” Amphitrite said. “Hephaestus tells me you have gifted hands. These will not break, and they will remember the shape of what you intend, even when you doubt. And —” she added another smaller bundle, “peanut butter. From
-  - Line 147: “You can bring Sally’s memory to me,” she said. “You don’t have to choose between us.” She looked at Tyson, who was already strapping on his apron. “And that door is open to you too. To your sisters, whenever they wish.”
+  - Line 47: “I wish I could remember the notes,” Annabeth said. “Not what you’ve told me. The actual paper. The handwriting. The way the ink looked after it got damp in your backpack.”
+  - Line 53: He knew that. Still, he had spent enough of this life hearing his own history told back to him by other people, neat and certain: Sally had died when he was two; Poseidon had taken him to Atlantis; Amphitrite had helped raise him. The facts
 
 ## 100: Chapter 100: The Thousandth Campfire
 

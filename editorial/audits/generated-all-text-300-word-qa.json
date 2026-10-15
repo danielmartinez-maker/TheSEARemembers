@@ -1,8 +1,8 @@
 {
   "window_words": 300,
   "files": 196,
-  "body_words": 2013909,
-  "windows_checked": 1955604,
+  "body_words": 2018191,
+  "windows_checked": 1959886,
   "exact_matching_windows": 0,
   "matches": [],
   "method": "dual 64-bit rolling hashes, followed by exact token-ID comparison"

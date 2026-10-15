@@ -90,3 +90,8 @@
 - **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
 - **State:** FIRSTHAND: travels from Atlantis through the sea and reaches the Sound before the meal. He reports that Poseidon checked the meal list and asked whether Tyson wanted to help at the grill or eat in peace. Triton takes cups to Chiron's porch after confirming where they belong and asks Poseidon about Tyson's hinge work.
 - **Carry-forward:** Triton and the other four remain Poseidon's children; no new gift, injury, or future visit is confirmed.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** FIRSTHAND: receives Amphitrite's calling conch, experiments with its sound and later plays with Tyson. He apologizes to Percy and Tyson for being rude; Tyson accepts. Triton keeps the conch.
+- **Carry-forward:** The apology does not establish a full relationship repair. No later conch call to Amphitrite or future visit is shown.

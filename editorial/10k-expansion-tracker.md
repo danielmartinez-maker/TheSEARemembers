@@ -4,9 +4,9 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 098 (2026-10-15 candidate checkpoint)
+## Superseded checkpoint: Chapter 098 (2026-10-15 candidate checkpoint)
 
-**Source revision:** local Chapter 098 candidate based on published PR head `c9ff34393533642b667355c2212cdfadf99af0e3`. Local QA is complete; hosted Actions for this candidate await its push.
+**Source revision:** PR commit `1243faf14ef57c0cfa2591b11bfd32488372840`, based on published head `c9ff34393533642b667355c2212cdfadf99af0e3`. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006429) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006398).
 
 | Scope | Candidate-tree result |
 |---|---:|
@@ -23,9 +23,32 @@
 - **Phase 1:** Added a scene-specific handoff and structured continuity record, appended witnessed/reported/unknown facts to the cumulative ledger, and updated ten per-character state files. Chapter 097's map status, Chapter 099's late-August opening, injuries, promises and private memory boundaries remain explicit.
 - **Phase 2:** Corrected unsupported old-life details and private map leakage, kept Zeus unaware of erased-life memories, and did not infer that the approved Amphitrite photo was sent. Clarisse and Silena choose their own contact; Thalia's palm remains wrapped; the map, dock and north-trail issues stay open.
 - **Phase 3:** Added Friday logistics, the public-survey review, Saturday's shared meal and distinct father-child conversations. Scene-level review covers Chapters 098 and adjacent 097/099 boundaries. The expansion is source-specific rather than repeated praise or padding.
-- **Phase 4:** Local manuscript QA passes: 193/193 indexed and ordered; 174 pass / 19 short; 132,170 words remain; 1,805,052 chapter-only and 1,955,604 bonus-inclusive every-offset 300-word windows found zero exact matches; all 31 source-anchored memory checks pass; the evidence index rebuilds for all 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency. Hosted Actions are pending for the pushed Chapter 098 candidate.
+- **Phase 4:** Local and hosted manuscript QA pass: 193/193 indexed and ordered; 174 pass / 19 short; 132,170 words remain; 1,805,052 chapter-only and 1,955,604 bonus-inclusive every-offset 300-word windows found zero exact matches; all 31 source-anchored memory checks pass; the evidence index rebuilds for all 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency.
 
 **Next chronological underlength chapter:** [099 Mothers](../chapters/099-mothers.md), **5,884 body words**, needs **4,116**. Chapter 098 closes after the Saturday meal; Chapter 099 opens in late August, and the exact elapsed time and whether Tyson's forge leave is the same visit remain unknown.
+
+## Latest current-branch continuation: Chapter 099 (2026-10-15 candidate checkpoint)
+
+**Source revision:** Local candidate based on published PR head `1243faf14ef57c0cfa2591b11bfd32488372840`; this checkpoint is not yet committed or pushed. Hosted workflows are pending.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **175** |
+| Below 10,000 actual body words | **18** |
+| Required additional body words to clear minimum | **128,054** |
+| Chapter-only every-offset 300-word windows | **1,809,334; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,018,191 body words; 1,959,886 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **31 passed** |
+
+**Chapter 099, Mothers:** **5,884 → 10,166 body words** (**+4,282 net**). The Percy-limited revision preserves the unresolved dock hazard, attributes Beryl's claims to her letter, leaves Thalia's palm wrapped and uncleared, and records Amphitrite's gifts and Percy/Annabeth's temporary shawl loan. See the [Chapter 099 handoff](handoffs/ch099-mothers.md) and [structured continuity record](../continuity/ch099.yaml).
+
+- **Phase 1:** Added the scene-level handoff, structured record, cumulative ledger entry, and 15 scoped character-state updates. Recorded witnessed, reported and unknown information separately, including Thalia's letter, the palm injury, gift ownership and the 098/099/100 timeline gaps.
+- **Phase 2:** Removed the Ares parent reference, unsupported Beryl incidents and omniscient claims about Maria. Kept Beryl absent and her letter claims unverified; protected Amphitrite's knowledge boundary; kept the unsafe dock unused; preserved Thalia's unresolved injury.
+- **Phase 3:** Added earned scenes around Percy's Sally memories, Amphitrite's visit, Thalia's decision, Tyson's tool test, Silena's direct report, and the optional lantern gathering. The revised scenes maintain Percy-limited narration and do not make him resolve his siblings' relationships.
+- **Phase 4:** Local manuscript QA passes: 193/193 indexed and ordered; 175 pass / 18 short; 128,054 words remain; chapter-only and bonus-inclusive scans found zero exact 300-word matches; all 31 memory regression groups pass; the evidence index rebuilds for 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. Hosted workflows are pending; these checks do not certify whole-novel semantic or literary quality.
+
+**Next chronological underlength chapter:** [100 The Thousandth Campfire](../chapters/100-the-thousandth-campfire.md), **6,707 body words**, needs **3,293**. Chapter 099 ends after an evening lantern gathering and beach bonfire. Chapter 100 opens on the morning of the thousandth campfire; the calendar gap and relation between the two events remain unknown. Tyson is on forge leave in both chapters, but whether it is the same leave is not established.
 
 ## Superseded checkpoint: Chapter 097 (2026-10-15)
 

@@ -109,3 +109,8 @@
 - **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
 - **State:** FIRSTHAND: arrives from the Sound for the joint barbecue and asks his five children what they want from the visit. He hears Clarisse's account of his brief visit when she was eight and apologizes for leaving after ten minutes; he makes no claim that this repairs the hurt. He learns about Silena's menu work and her boundary against being made the family mediator. He hears Tyson explain the revised hinge angle and its seven tests.
 - **Choices / open promises:** Poseidon declines the prepared public speech, asks before helping, accepts Clarisse's no-hug answer and says he will ask the next morning whether she wants him at training. He also says he will hear the hinge click on a later forge visit. Neither plan is confirmed, and no overnight stay is established. He receives no Percy/Annabeth erased-life memory.
+
+### Chapter 099 · reported / offstage
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
+- **State:** OFFSTAGE. Amphitrite reports that Poseidon told her about Sally and who Sally was to Percy. No new direct Poseidon scene, promise or memory disclosure occurs.
+- **Knowledge boundary:** This report does not establish that Poseidon or Amphitrite knows Percy's erased-life memories or the timeline rewrite.

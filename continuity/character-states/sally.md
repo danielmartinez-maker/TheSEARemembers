@@ -65,3 +65,7 @@ Percy's original-life mortal mother, alive through the adolescence he remembers;
 ### Chapter 22 · verified carry-forward
 - **[Ch22](../../chapters/022-storm-training.md):** No direct Sally discussion to Jason; he doesn't acquire memory of Percy/Sally shared lifetime.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+### Chapter 099 · remembered by Percy
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
+- **State:** OFFSTAGE. Percy recalls Sally's lunch notes, blue food and improvised singing from the life he remembers. These are Percy's autobiographical memories, not events witnessed by campers in his altered childhood.

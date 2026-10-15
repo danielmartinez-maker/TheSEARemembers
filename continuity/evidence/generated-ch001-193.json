@@ -11883,21 +11883,20 @@
       "path": "chapters/099-mothers.md",
       "title": "Chapter 99: Mothers",
       "name_mentions": {
-        "Percy": 72,
-        "Annabeth": 45,
-        "Thalia": 38,
-        "Clarisse": 5,
-        "Silena": 21,
-        "Amphitrite": 16,
-        "Poseidon": 9,
-        "Triton": 23,
-        "Tyson": 31,
+        "Percy": 120,
+        "Annabeth": 46,
+        "Thalia": 46,
+        "Clarisse": 23,
+        "Silena": 36,
+        "Amphitrite": 20,
+        "Poseidon": 8,
+        "Triton": 36,
+        "Tyson": 72,
         "Jason": 8,
-        "Sally": 15,
-        "Beryl": 9,
-        "Chiron": 8,
-        "Zeus": 4,
-        "Beckendorf": 2
+        "Sally": 19,
+        "Beryl": 7,
+        "Chiron": 19,
+        "Zeus": 3
       },
       "event_cues_for_manual_review": [
         {
@@ -11906,14 +11905,6 @@
             "Sally"
           ],
           "excerpt": "It wasn’t an anniversary or anything. It was just one of those mornings when Sally Jackson, alive in the old life he remembered and gone since he was two in this one, felt very close. Maybe it was the light. She’d always loved mornings like"
-        },
-        {
-          "line": 31,
-          "named": [
-            "Percy",
-            "Annabeth"
-          ],
-          "excerpt": "Percy didn’t bother denying it. Annabeth always knew."
         },
         {
           "line": 37,
@@ -11933,13 +11924,30 @@
         {
           "line": 45,
           "named": [
+            "Percy",
             "Annabeth",
             "Sally"
           ],
-          "excerpt": "Annabeth looked down quickly, but not before he saw the pink climb her cheeks. She never quite knew what to do when he talked about Sally like that — like that past could be reached again. He didn’t push it. He just bumped his shoulder agai"
+          "excerpt": "Annabeth looked down quickly, but not before he saw the pink climb her cheeks. The old life stood between them in a way nobody else at camp could see. She had known Sally there; in this life she knew her through Percy’s stories, and neither"
         },
         {
-          "line": 51,
+          "line": 47,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "“I wish I could remember the notes,” Annabeth said. “Not what you’ve told me. The actual paper. The handwriting. The way the ink looked after it got damp in your backpack.”"
+        },
+        {
+          "line": 53,
+          "named": [
+            "Amphitrite",
+            "Poseidon",
+            "Sally"
+          ],
+          "excerpt": "He knew that. Still, he had spent enough of this life hearing his own history told back to him by other people, neat and certain: Sally had died when he was two; Poseidon had taken him to Atlantis; Amphitrite had helped raise him. The facts"
+        },
+        {
+          "line": 67,
           "named": [
             "Poseidon",
             "Tyson"
@@ -11947,21 +11955,12 @@
           "excerpt": "That was normal. The dining pavilion buzzed with end-of-summer energy, everybody trying to cram in one more prank, one more race, one more late-night council meeting before the year-rounders were left with the quiet. The harpies swooped and"
         },
         {
-          "line": 65,
+          "line": 81,
           "named": [
             "Thalia",
             "Chiron"
           ],
           "excerpt": "“You get the Iris-message?” Thalia asked, lower, glancing toward the head table where Chiron was talking quietly with Argus. “About, uh, visitors?”"
-        },
-        {
-          "line": 77,
-          "named": [
-            "Percy",
-            "Amphitrite",
-            "Poseidon"
-          ],
-          "excerpt": "Amphitrite, Queen of the Sea, wife of Poseidon, the mother who had raised the child everyone remembered Percy being, looked different here in the crowded pavilion. He was used to her recent lessons and letters; carrying those into camp stil"
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -11974,27 +11973,27 @@
           "excerpt": "He thought. After years together in the life they remembered, Annabeth knew most of the Sally stories. The seven-layer dip. The time she’d taken on Gabe with a frying pan just by threatening to. The way she could quote whole passages of boo"
         },
         {
-          "line": 109,
+          "line": 47,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "“I wish I could remember the notes,” Annabeth said. “Not what you’ve told me. The actual paper. The handwriting. The way the ink looked after it got damp in your backpack.”"
+        },
+        {
+          "line": 53,
+          "named": [
+            "Amphitrite",
+            "Poseidon",
+            "Sally"
+          ],
+          "excerpt": "He knew that. Still, he had spent enough of this life hearing his own history told back to him by other people, neat and certain: Sally had died when he was two; Poseidon had taken him to Atlantis; Amphitrite had helped raise him. The facts"
+        },
+        {
+          "line": 125,
           "named": [
             "Amphitrite"
           ],
           "excerpt": "“For your building,” Amphitrite said. “Hephaestus tells me you have gifted hands. These will not break, and they will remember the shape of what you intend, even when you doubt. And —” she added another smaller bundle, “peanut butter. From"
-        },
-        {
-          "line": 147,
-          "named": [
-            "Tyson",
-            "Sally"
-          ],
-          "excerpt": "“You can bring Sally’s memory to me,” she said. “You don’t have to choose between us.” She looked at Tyson, who was already strapping on his apron. “And that door is open to you too. To your sisters, whenever they wish.”"
-        },
-        {
-          "line": 235,
-          "named": [
-            "Annabeth",
-            "Beryl"
-          ],
-          "excerpt": "Annabeth sighed and leaned back, staring at the ceiling beams where a stuffed hippocampus head stared back. “Athena, in the life I remember — she wasn’t cruel. That’s what people don’t get. She’s not Beryl. She’s not neglectful in a human w"
         }
       ],
       "event_witnesses_verified": false,
