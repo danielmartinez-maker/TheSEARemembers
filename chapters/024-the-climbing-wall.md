@@ -1,11 +1,7 @@
 ## Chapter 24: The Climbing Wall
 
 
-Percy Jackson woke up knowing two things.
-
-One: today was climbing wall day, which meant the whole camp would gather to watch people get chased by lava and scream in front of their friends.
-
-Two: his left shoe was missing, and Grover was chewing on something that sounded suspiciously like leather.
+On climbing-wall mornings, Percy usually woke before the horn, partly because the forge crew started testing the gears at dawn and partly because Grover's stress-chewing sounded like a tiny carpentry project. The first thing Percy saw was his own sneaker beside Grover's mouth.
 
 "Grover," Percy said, sitting up in his bunk and squinting through the morning light slanting into Cabin Three. "Tell me you're not eating my shoe."
 
@@ -331,7 +327,7 @@ The cheer was deafening. Zeus cabin (Thalia and Annabeth) thundered, Ares cabin 
 
 "Okay, okay! Chiron, take it away!"
 
-Chiron raised his flag. "Climbers ready? Remember — no weapons, no pushing below the waist, no summoning lightning on the wall —"
+Chiron raised his flag. "Climbers ready? Remember: no weapons, no pushing below the waist, and no using power to move another climber or interfere with the machinery. A stray static snap is not a foul, but keep it away from the holds. A deliberate lightning discharge stops the event. If you hear the emergency horn, freeze and await extraction. Understood?"
 
 He looked pointedly at Thalia and Annabeth.
 
@@ -356,7 +352,7 @@ He loved lots of things — nature, music, enchiladas, juniper nymphs named Juni
 
 "Because you're brave and noble and I promised you extra enchiladas!" Percy called from ten feet above him. Somehow Percy was already ten feet up, moving like water flowing uphill. He didn't seem to climb so much as slosh from hold to hold, always finding the solid one, always shifting his weight a half-second before the rock moved.
 
-"Enchiladas!" Ella chirped beside Grover. She'd fluttered up — technically gliding, technically against the rules, but she only did it in tiny hops and Chiron pretended not to see because she was so earnest. "Ella likes enchiladas. Chapter nine. 'Enchiladas are a traditional Mexican dish.' Ella remembers. Grover, your left hoof is on a stable hold. Your right hoof needs to move up six inches to the blue-speckled rock. That one is bolted. The gray one squeaks."
+"Enchiladas!" Ella chirped beside Grover. Her claws took each hold while her wings flared to steady her. She had memorized the maintenance logs and could point out the safe blue-speckled rock without leaving the wall. "Ella likes enchiladas. Chapter nine. 'Enchiladas are a traditional Mexican dish.' Ella remembers. Grover, your left hoof is on a stable hold. Your right hoof needs to move up six inches. The gray one squeaks."
 
 Grover moved his hoof. The gray one squeaked and dropped three inches. Ella nodded sagely. "Ella told you. Ella is always right about squeaks."
 
@@ -461,11 +457,11 @@ Thalia shook it off, refocused, and took point again. The wall groaned — Annab
 
 She loved that half-second of air, when the rock fell away and it was just her and gravity and the choice to catch the next hold or fall. She caught it, swung, kicked off a lava-slicked panel that was hot through her sneakers, and landed on a narrow chimney crack.
 
-"YEAH!" she shouted, punching the air. Lightning — just a little, just static — snapped off her fist. The crowd went wild.
+"YEAH!" she shouted, punching the air. A tiny static snap jumped from her knuckles, nowhere near the holds. The crowd went wild.
 
-"THALIA! NO LIGHTNING!" Chiron bellowed from below.
+"THALIA, KEEP THE SPARKS CLEAR OF THE GEAR!" Chiron bellowed from below.
 
-"THAT WAS STATIC ELECTRICITY!" Thalia bellowed back. "TOTALLY NATURAL! SCIENCE!"
+"IT'S STATIC, NOT A BOLT!" Thalia bellowed back. "TOTALLY NATURAL! SCIENCE!"
 
 Annabeth sighed so hard Thalia could hear it three holds down. "You're going to get us disqualified."
 
@@ -713,7 +709,7 @@ Thalia burst out laughing so hard she almost fell off. "OH MY GODS! YOU EVEN YEL
 
 "Annabeth's calling counts! Percy’s moving before she finishes calling them! How does he do that? How does she know he's going to do that? Do they rehearse this? Is there a secret practice wall? Zoe, investigate!"
 
-"I will not investigate their courtship rituals," Zoe said firmly. "I was a Hunter. I remain neutral in matters of the heart. Though..."
+"I will not investigate their courtship rituals," Zoe said firmly. "I prefer to remain neutral in matters of the heart. Though..."
 
 "Though what? Though what? Tell me!"
 
@@ -1035,18 +1031,10 @@ Above them, the climbing wall stood silent and cooling, lava dimming to embers. 
 
 But today was just lava and lake water and friends shouting your name.
 
-Percy closed his eyes and floated.
-
-Beside him, Annabeth floated too.
-
-And for once, Thalia, watching from the dock with Clarisse, was dripping wet and grinning. She let the moment be.
-
-Thalia watched Percy and Annabeth float until Clarisse splashed her from behind. She caught her friend by the wrist, lost her footing on the wet boards, and pulled them both into the lake.
-
-Percy rolled over to see what the noise was. Annabeth, still floating, didn't even open her eyes.
+Percy closed his eyes and floated beside Annabeth, their shoulders brushing whenever the lake shifted. Thalia watched from the dock until Clarisse crept up behind her and splashed her. Thalia grabbed Clarisse's wrist; both lost their footing and dropped into the water. Percy rolled over at the splash. Annabeth kept her eyes closed.
 
 "Don't help them," she said.
 
 "I wasn't going to."
 
-"Good."
+He stayed beside her while Thalia and Clarisse surfaced, laughing and arguing over who had started it.

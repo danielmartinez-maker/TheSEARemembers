@@ -160,7 +160,7 @@ Annabeth hesitated for half a heartbeat — Zeus children were not generally hug
 
 Annabeth pulled back, bright red. "He writes home about camp?"
 
-"Every week. On seashell paper that dissolves if I don't read it fast enough." Amphitrite tucked a stray blonde curl behind Annabeth's ear, motherly and unhurried. "Thank you for being his friend. He was lonely before you, even surrounded by palaces. I could tell."
+"He has been writing almost every week, when a courier is available. On seashell paper that dissolves if I don't read it fast enough." Amphitrite tucked a stray blonde curl behind Annabeth's ear. "We're going to make the schedule more predictable, but he shouldn't have to write on a timetable to keep his place at home. Thank you for being his friend. He was lonely before you, even surrounded by palaces. I could tell."
 
 "He's not lonely now," Annabeth said quietly, glancing at Percy. Her gray eyes were fierce with something old and protective. "Not while I'm around."
 

@@ -992,7 +992,7 @@ Annabeth looked at it, then left it there.
 
 "So do I."
 
-They put the paper away. Their promise had changed slightly over the week. It no longer meant always acting together or never disappointing each other. It meant telling the truth when something mattered, asking before taking over and making enough space that neither person had to become smaller to stay beside the other.
+They put the paper away. Annabeth left her initials beside the inspection she wanted to lead and Percy's beside the dock check he had chosen. Friday dinner sat below both. The promise did not require them to do every task together; it asked them to say when they were hurt, ask before taking over and leave room for each other to keep a life of their own.
 
 Annabeth made one more change before closing the notebook. She wrote two dates on the facing page: the next inspection of the retaining wall and the next scheduled check of the dock fittings. She put her own initials beside the first and Percy's beside the second.
 

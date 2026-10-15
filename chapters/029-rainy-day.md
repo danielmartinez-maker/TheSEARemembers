@@ -894,6 +894,4 @@ But for now: drizzle, gray light, his hand in hers, the whole camp breathing out
 
 Annabeth leaned her head on Percy's shoulder. He leaned his head on top of hers, damp hair tickling her forehead. They watched the rain.
 
-Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. They ignored her for one more minute. Just one more.
-
-Percy moved his hand nearer to Annabeth's. She took it without looking away from the rain. For another minute they listened to Thalia deal cards inside, comfortable enough not to answer her yet.
+Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. Percy shifted aside to leave the dry strip of doorway clear, then sat beside Annabeth again. They could hear Thalia deal the next hand while the drizzle worked through the gutters. When Thalia called that she was saving them a place, Annabeth answered that they were coming and kept hold of Percy's hand as they crossed the threshold.

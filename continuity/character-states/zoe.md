@@ -52,4 +52,4 @@
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
 
 ### Chapters 023–036 · verified carry-forward
-- **[Chapter 024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** Commentates the single featured climbing race and recognizes Ella's course-log preparation; timing correction leaves red-team winner unchanged. No other knowledge transfer is established in this range.
+- **[Chapter 024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** As Hecate's daughter, commentates the single featured climbing race and recognizes Ella's course-log preparation; timing correction leaves red-team winner unchanged. Her dialogue claims no Hunter history or erased-life memory, and no other knowledge transfer is established in this range.

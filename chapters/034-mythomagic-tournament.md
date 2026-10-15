@@ -34,7 +34,7 @@ Not because he was some natural prodigy. Because he remembered it, and he had be
 
 In his original life — the erased history he and Annabeth both remembered, the one where she was Athena's daughter and their camp family had different parents — Mythomagic had been this dumb little card game that nobody cool admitted to playing. He'd played it in the back of the Big House on rainy days with Beckendorf and Silena and Grover. He'd memorized every stat. Zeus 10/10 God Blast. Poseidon 9/9 Earthquake Churn. Hades 8/8 Death Touch. All the monster modifiers. The weird combo rules about terrain. He knew which common cards were secretly broken. He knew the Harpy Feather + Storm Giant combo could wipe a whole field if timed right. The point scale on these newer cards was different, but a trap was still a trap.
 
-In this life, he was twelve. He hadn't touched a deck in months. But it was all still in there, like riding a bike, if bikes were made of laminated centaurs.
+In this life, he was twelve. He had only been practicing this edition for two weeks, mostly under Annabeth's lessons, while quietly testing which old strategies still worked. The instincts were still there, like riding a bike, if bikes were made of laminated centaurs.
 
 Percy wasn't going to tell Annabeth. She remembered beating him regularly, and thought he was still hopelessly casual. She'd spent two weeks explaining this edition's "basic resource economy" while he pretended not to understand what a tribute cost was. He nodded along and said things like "so the shiny ones are better?" just to watch her eye twitch.
 
@@ -938,7 +938,7 @@ And Annabeth — Annabeth stood, came around the table, and hugged Percy while h
 
 ---
 
-Annabeth had lost the final at zero life. Percy had drawn the Poseidon that Rebirth let him summon, and its 2,800-point attack wiped out her last 1,900. Ocean’s Mercy had left him with 100 life; one turn later, he used that protection to summon the god card and take the open lane. As Athena’s daughter in the life they remembered and Zeus’s daughter now, she still believed preparation mattered. She was disappointed she’d left no ready defense, and proud Percy had seen the opening.
+Annabeth straightened the counters before anyone took the table apart. Rebirth had returned eighteen cards and given Percy eighteen hundred life; Ocean's Mercy had kept him at 100 when Gamble's recoil should have ended the match. On the extra turn, the reshuffled deck gave him Poseidon, whose 2,800 attack beat her remaining 1,900. She wanted to win. She was also proud he'd seen the open lane, and already replaying why she had left it there.
 
 She wasn't furious. She was... fizzy. Like lightning in a bottle.
 

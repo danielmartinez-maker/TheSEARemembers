@@ -840,18 +840,10 @@ Percy fell into step beside Clarisse, bumping her elbow.
 
 "Same time next week?" he asked hopefully.
 
-Clarisse pretended to think. "Same time next week. But you're teaching Tide-Breath to Silena from the start. And we're inviting Annabeth to do whiteboard tactics every Saturday. And Thalia has to bring marshmallows every time."
+Clarisse pretended to think. "Same time next week. I'll put my beginner sword lesson on the board. You're teaching Tide-Breath to Silena from the start, and we're inviting Annabeth to do whiteboard tactics every Saturday. Thalia has to bring marshmallows every time."
 
-"Deal," Percy said. "No holding back?"
+"Deal," Percy said.
 
-"No holding back," Clarisse said, and held out her fist.
+Clarisse held out her fist. He bumped it, and they headed for breakfast.
 
-He bumped it, and they headed for breakfast.
-
-Silena insisted Clarisse carry the muffin tin because it was hot. Clarisse complained that she'd spent a week fighting with practice swords only to be promoted to pastry delivery. Percy took one muffin before they reached the pavilion.
-
-"No holding back?" Clarisse asked him again.
-
-"Except for the food. You're not getting this one."
-
-She tried to snatch it anyway. Silena made them both go back and wash their hands.
+Silena insisted Clarisse carry the muffin tin because it was hot. Clarisse complained that she'd spent a week fighting with practice swords only to be promoted to pastry delivery. Percy reached for a muffin before they reached the pavilion, and Silena stopped him until he washed his hands. The first breakfast bell rang while Clarisse was still arguing that pastry delivery deserved a medal. They reached the pavilion with the tin still warm under the towel.

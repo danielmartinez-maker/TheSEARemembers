@@ -7,7 +7,7 @@
 [Source](../../chapters/022-storm-training.md)
 
 ### Chapters 023–036 · verified carry-forward
-- **[Ch023](../../chapters/023-sally-s-blue.md) FIRSTHAND:** Visits the camp baking day from the undersea forge network, helps with the bowl/photo and shares the finished cookies. He does not thereby learn Percy's private older-life memories.
+- **[Ch023](../../chapters/023-sally-s-blue.md) FIRSTHAND:** Makes a Chiron-approved day visit from the undersea forge network, helps with the bowl/photo and shares the finished cookies. He does not thereby learn Percy's private older-life memories.
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Attends the Mythomagic event and celebrates the final; his guesses/shouts do not determine the card result.
 
 ### Chapter 093 - witnessed / reported / unknown

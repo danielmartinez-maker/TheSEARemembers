@@ -120,16 +120,16 @@ Ten handoffs are under `editorial/handoffs/ch013-...` through `ch022-...` and ch
 
 ### Source-verified additions: Chapters 023–036 (2026-10-14)
 
-- **Ch023:** Percy/Sally cookie recipe is adapted; only Annabeth shares the prior-life context; Clarisse's Poseidon-visit story is her report; Amphitrite does not know the memory gap.
-- **Ch024:** One featured climbing race; correction does not change winner. Percy’s sensing is new; Ella chooses the lake jump; no major injury.
+- **Ch023:** Percy/Sally cookie recipe is a provisional camp test, not an exact or verified repeatable formula; Tyson's day visit is approved by Chiron. Only Annabeth shares the prior-life context; Clarisse's Poseidon-visit story is her report; Amphitrite does not know the memory gap.
+- **Ch024:** One featured climbing race; correction does not change winner. Percy’s sensing is new; Ella climbs with claws/holds and chooses the lake jump; Chiron warns Thalia to keep sparks clear of gear, with no foul called; no major injury.
 - **Ch025:** Patrols hear sounds beyond the border without witnessing a crossing; map/whistles/closure remain actionable.
-- **Ch026:** Roof access closes pending repair; safer balcony proposal conditional; Thalia hears prior-life reports but does not gain those memories.
-- **Ch027:** Archive labels/photos are permission-bound; route map is unverified; Thalia tells Annabeth childhood-photo facts.
-- **Ch028:** New Tide-Breath/Eel-Skin practice is not mastery; beginner lesson remains planned.
+- **Ch026:** Roof access closes pending repair; Percy lowers the unsafe hidden ladder; safer balcony proposal is conditional; Thalia hears prior-life reports but does not gain those memories.
+- **Ch027:** Archive labels/photos are permission-bound; route map is unverified; Thalia tells Annabeth childhood-photo facts. A visitor's possible family connection remains an intake lead until checked.
+- **Ch028:** New Tide-Breath/Eel-Skin practice is not mastery; Clarisse's beginner sword lesson, Percy's Tide-Breath teaching for Silena and Annabeth's tactics session remain next-week plans.
 - **Ch029:** Rain/flood spans several days; Jason's departure status is not established by the spare-bunk thought.
-- **Ch030:** Amphitrite learns Percy is adjusting to camp, not his memory gap or the rewrite. Percy cannot picture the palace stories Triton reported.
+- **Ch030:** Amphitrite learns Percy is adjusting to camp, not his memory gap or the rewrite. She proposes fortnightly letters and monthly optional Iris-messages, pending Percy's choice. Percy cannot picture the palace stories Triton reported.
 - **Ch031:** Percy/Annabeth's communication promise preserves her project autonomy; unsupported ankle injury removed.
-- **Ch032:** Triton stays overnight and gives Percy a notebook; match with Clarisse ends in a declared draw. Triton's report about Poseidon's wishes is not a direct order.
+- **Ch032:** Triton stays overnight and gives Percy a notebook; match with Clarisse ends in a declared draw. Triton relays Amphitrite's contact proposal; Percy accepts fortnightly letters and keeps each monthly Iris-message optional. Triton's report about Poseidon's wishes is not a direct order.
 - **Ch033:** Architecture remains unfinished; rain and stale dimensions delay it; Annabeth and Percy share responsibility for the order error.
 - **Ch034:** Percy wins the final by a 2,800 attack at Annabeth's 1,900; Ocean's Mercy leaves him at 100. Nico's holographic Poseidon card/blue cap and Ella's black luck stone retain their owners.
 - **Ch035:** Beryl letter is in the mortal route; Jason packet goes through Chiron's Roman intermediary. Acceptance, forwarding and receipt remain unknown; Beryl's sobriety is reported, not verified.

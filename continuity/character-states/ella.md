@@ -27,8 +27,8 @@
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
 
 ### Chapters 023–036 · verified carry-forward
-- **[Ch023](../../chapters/023-sally-s-blue.md):** Copies the standardized public cookie recipe with Percy's permission; private memory notes stay separate.
-- **[Ch024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** Uses maintenance logs in the wall race and chooses to jump into the canoe lake despite fear of deep water. No major injury.
+- **[Ch023](../../chapters/023-sally-s-blue.md):** Copies the provisional public camp-test cookie instructions with Percy's permission; the formula is not established as exact or repeatable, and private memory notes stay separate.
+- **[Ch024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** Uses maintenance logs and climbs with claws and holds rather than flight; she chooses the canoe-lake jump despite fear of deep water. No major injury.
 - **[Ch027](../../chapters/027-the-library.md):** Helps author/label the provisional display; corrections remain possible and she does not gain prior-life memories.
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Keeps the black luck stone after the tournament; this is separate from Nico's Poseidon card and cap.
 

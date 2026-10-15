@@ -780,7 +780,7 @@ They gathered around her. Outside, rain pattered against the roof. The half-buil
 
 ---
 
-Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them.
+Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them. This was the second work Saturday; the original plan reserved one final weekend for walls, mosaics, planting and finishing. She would keep that date only if the footing passed inspection and the corrected supports fit.
 
 Thalia appeared with the work schedule under one arm.
 

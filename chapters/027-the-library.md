@@ -1,10 +1,6 @@
 ## Chapter 27: The Library
 
-The Camp Half-Blood archives were not, strictly speaking, a library.
-
-A library implied order. A library implied a catalog, and chairs that did not wobble, and shelves where the books stayed where you put them.
-
-The room under the Big House was none of those things.
+The room under the Big House had been called a library, a historical collection and, by Mr. D, a mold dungeon. None of those names accounted for the loose labels, the sagging chairs or the boxes stacked wherever the last person had stopped sorting in the 1970s.
 
 Annabeth stood in the doorway at nine in the morning on a drizzly Saturday, hands on her hips, staring at what Chiron cheerfully called "our historical collection" and what Mr. D had called "the mold dungeon, do not make me go down there."
 
@@ -956,6 +952,8 @@ Annabeth checked the record. The aunt's name wasn't on the repair list, but the 
 
 "We might have something in the kitchen accounts," Annabeth said. "If you want, we can help you ask the archivist whether there's a record."
 
+They wrote the lead on an intake card and labeled it as a family recollection, not a confirmed kitchen record. The girl kept the card out of the public display box until an archivist could check the accounts. Annabeth showed her where a source note would go if they found one.
+
 The girl looked pleased. She had come expecting stories about famous battles. She hadn't imagined there might be a record of someone in her own family.
 
 Nico watched her study the list. He thought of Bianca, who had spent years doing things for him that no book of heroes would record. He wondered how many people at camp had been someone's reason to keep going without ever receiving a statue.
@@ -974,4 +972,4 @@ Ella came to collect the suggestion slips. She read them, placed them in the new
 
 "Good," she said. "It tells the truth about what we know. It also tells people what we want to learn."
 
-Nico smiled. He returned the pencil to its box and went to dinner, leaving the display where visitors could read it without having to enter the archive. At the doorway he remembered something and went back to add a date to the bottom of the board. The exhibit had been made this week, not in the distant past. Someone opening the file years later should be able to tell that the notes were his and Ella's, written by campers who were learning as they went. He signed his name beneath the date, then left a space for the people who would update the display next. History did not have to stop simply because he had carefully finished the first board.
+Nico returned the pencil to its box, then went back to the board before dinner to add the date. He signed beside Ella's name and left a blank line for whoever updated it next. The source labels stayed visible beneath each copy, and the suggestion slips remained in the reviewed intake folder; nobody's private photograph or unverified family story had gone on display. He checked that the box was closed, then let Silena bring the first visitors upstairs.

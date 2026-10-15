@@ -124,7 +124,7 @@
 - **[Ch024](../../chapters/024-the-climbing-wall.md):** Supervises the stop-signal flag and later corrects timing with one shared start signal planned.
 - **[Ch025](../../chapters/025-night-watches.md):** Orders patrols to observe/signal/retreat. The heard border sounds are not proof of a crossing; the west path remains closed pending inspection.
 - **[Ch026](../../chapters/026-the-roof.md):** Hal/cabin stewardship closes unsafe roof access pending repair; Annabeth's balcony alternative remains conditional.
-- **[Ch030](../../chapters/030-amphitrite-visits.md):** Discusses Percy's camp adjustment with Amphitrite; the memory gap/time change is not attributed to her knowledge.
+- **[Ch030](../../chapters/030-amphitrite-visits.md):** Discusses Percy's camp adjustment with Amphitrite and records her proposed fortnightly letters/monthly optional Iris-messages for him to consider; the memory gap/time change is not attributed to her knowledge.
 - **[Ch032](../../chapters/032-triton-visits.md):** Calls Clarisse/Triton match a draw after simultaneous touch and refuses real weapons.
 - **[Ch035](../../chapters/035-the-letter.md):** Authorized Roman intermediary remains the only proposed channel for Jason's packet; acceptance/delivery are unconfirmed.
 - **[Ch036](../../chapters/036-five-months.md):** Offers to arrange inspection of old prophecy copies; no inspection has yet occurred.

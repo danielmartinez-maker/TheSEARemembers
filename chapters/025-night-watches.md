@@ -908,7 +908,7 @@ Grover was already asleep with his forehead on the table. Silena covered his fac
 
 Percy stood carefully. His legs had gone stiff during the night. He had completed a week of looking for something dangerous and found nothing he could prove. Tomorrow, after sleeping, he could examine the notes with Annabeth. Today he went back to Cabin Three with his sisters.
 
-The patrol record still needed a final signature. Percy stopped at the porch to confirm that the equipment they'd borrowed had been returned and the repaired path was marked closed until Chiron received the next inspection. Silena showed him the signed form, then pointed to one line he had missed: who would take the updated map to the morning crew.
+The patrol record lay beside the porch map. Percy stopped to confirm that the equipment they'd borrowed had been returned and the repaired path was marked closed until Chiron received the next inspection. Silena showed him the signed form, then pointed to one line he had missed: who would take the updated map to the morning crew.
 
 "That's us," she said. "We volunteered yesterday."
 
@@ -920,10 +920,6 @@ He had forgotten. He was tired, and the prospect of another errand before breakf
 
 Clarisse looked between them. "I'll bring the spare whistles. The ones we moved out of the packs."
 
-Percy smiled. The map still needed its final signature, the borrowed equipment had to be returned, and the west path was to remain closed until Chiron finished the inspection. No one had crossed the border, and the sounds in the woods remained unconfirmed. Percy and Silena would carry the updated route after sleeping; Clarisse would bring the spare whistles. It was not a dramatic report, but it gave the next team a clear route and a signal plan instead of another guess.
+Percy leaned over the porch copy while Silena held down its curled corner. The corrected route stopped at the west-path closure; no line invited the next crew to test it before inspection. He checked that the sound report named what they knew—a whine beyond the boundary—and left the source blank. Clarisse counted the spare whistles into a separate bundle, while Silena folded the updated map around the watch sheet. The night had produced no confirmed crossing, but the record could still tell the morning crew where to go, what to carry and when to retreat.
 
-He went into the cabin, set his alarm for the map delivery and fell asleep before Silena finished putting away the lantern.
-
-By morning, the map would be at the Big House and the closed stretch would still be marked. Percy couldn't decide what lived beyond the border from a sound alone. He could make sure the next patrol knew whom to call and where to stop. The alarm was for after breakfast, but the thought of another form made his eyes close before Silena finished putting away the lantern.
-
-Silena checked the lantern oil one last time, then closed the cabinet. Outside, the familiar path was finally quiet.
+At Cabin Three, Percy set the alarm for after breakfast, when he and Silena would carry the map to the morning crew. He put his boots beside the door so he could dress without waking his sisters and listened once more to the woods. No sound came close enough to change the report. The west path would stay closed until Chiron finished the inspection. Percy let the lantern go dark and fell asleep before Silena closed the lantern cabinet.

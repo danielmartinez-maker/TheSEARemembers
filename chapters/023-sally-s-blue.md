@@ -1,11 +1,9 @@
 ## Chapter 23: Sally's Blue
 
 
-Percy didn't remember deciding to do it.
+At breakfast, Percy meant to tell the Poseidon table that Sally had made blue chocolate-chip cookies in the life he remembered. He had not meant to propose baking them. Tyson — his Cyclops half-brother, visiting from the undersea forges on a day visit Chiron had approved, all one eye and elbows and earnestness — heard him and shouted, "MAKE THEM?" Half the pavilion turned. Percy could not take the idea back without explaining why he had offered it in the first place.
 
-That was how most bad ideas at Camp Half-Blood started, in his experience. You didn't decide. You just opened your mouth at breakfast while the mist was still hanging low over the strawberry fields and said, "My mom made blue chocolate chip cookies in the life I remember," and then Tyson — his Cyclops half-brother, visiting from the undersea forges, all one eye and elbows and earnest — said, "MAKE THEM?" so loud that half the dining pavilion turned around, and then it was too late to take it back.
-
-By lunch, it had mutated. Tyson told Grover. Grover told Ella. Ella told approximately everyone she'd ever screeched at, which was everyone. Annabeth raised one eyebrow at him across the Poseidon table — because she still sat with him half the time even though she had her own cabin now, the Zeus cabin, all sharp marble and storm-static air — and said, "You know how to bake?"
+Before lunch, Tyson had repeated the idea to Grover, Grover had told Ella, and Ella had announced it to every camper within earshot. Annabeth raised one eyebrow at Percy across the Poseidon table — she still sat with him half the time even though she had her own cabin now, the Zeus cabin, all sharp marble and storm-static air — and asked, "You know how to bake?"
 
 "Kind of," Percy said.
 
@@ -741,10 +739,10 @@ He missed her so much it should have hurt. And it did — a little. A dull ache 
 
 Annabeth climbed up to sit next to him, swinging her legs. She offered him her notebook. On the last page, under the recipe, she'd written in careful letters:
 
-*SALLY'S BLUE (Standardized, Camp Half-Blood Edition)*
+*SALLY'S BLUE (First Camp Test; provisional)*
 *Butter, sugars, eggs, joy. Salt = remember. Vanilla = extra. Blue = on purpose.*
-*Result: tastes like home. Replicable wherever love is present.*
-*Verified by: Annabeth Grace, Architect.*
+*Result: Percy says the first batch tasted like home. Measures and oven timing need another test before this can be called repeatable.*
+*Recorded by Annabeth Grace; not a copy of Sally Jackson's exact recipe.*
 
 "For your mom," she said. "So you don't forget. And so we can make them again."
 

@@ -126,7 +126,7 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 
 ### Chapters 023–036 · verified carry-forward
 - **[Ch023](../../chapters/023-sally-s-blue.md) ALTERED CHILDHOOD / FIRSTHAND:** Participates in the cookie day and feels the difference between Sally's remembered care and current family life; eats chocolate chips, not raw dough. Beryl's letters remain private to her unless she chooses to share.
-- **[Ch024](../../chapters/024-the-climbing-wall.md):** Races on the red team; after the event, her offer to help in the stables is limited to one day/one hour.
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** Races on the red team. A static snap during her celebration stays away from the holds; Chiron warns her to keep sparks clear of the gear, and no foul is called. Her stable-help offer is limited to one day/one hour.
 - **[Ch026](../../chapters/026-the-roof.md):** Shares selective sibling/history conversation with Annabeth and reports the roof slat/ladder risk to Hal; no balcony approval yet.
 - **[Ch027](../../chapters/027-the-library.md):** Controls copying her private photos and tells Annabeth the infant-photo history; Annabeth does not gain those memories.
 - **[Ch029](../../chapters/029-rainy-day.md):** Shelters with Annabeth during the rain/flood and repairs their disagreement. Her thought about Jason's spare bunk is not proof of his departure.

@@ -125,10 +125,11 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
 
 ### Chapters 023–036 · verified carry-forward
-- **[Ch023](../../chapters/023-sally-s-blue.md):** Helps standardize Sally's blue-cookie recipe from Percy's recollection; public instructions are separate from his private memory notes.
+- **[Ch023](../../chapters/023-sally-s-blue.md):** Helps record a provisional camp test of blue cookies adapted from Percy's recollection; it is not an exact Sally recipe or verified repeatable formula. Public instructions stay separate from his private memory notes.
 - **[Ch024](../../chapters/024-the-climbing-wall.md):** Leads the east team, spots the stop-signal blind spot and later corrects timing. The adjustment does not change the winner.
-- **[Ch026](../../chapters/026-the-roof.md) PRIOR LIFE / REPORTED:** Shares her own Athena-era memories with Percy/Thalia; Thalia hears selected reports but does not gain them. Roof/balcony project remains closed/conditional.
-- **[Ch027](../../chapters/027-the-library.md):** Builds a supervised display with source labels. Childhood-photo history comes from Thalia, not her recovered memory.
+- **[Ch026](../../chapters/026-the-roof.md) PRIOR LIFE / REPORTED:** Shares her own Athena-era memories with Percy/Thalia; Thalia hears selected reports but does not gain them. She hears Percy lower the unsafe hidden ladder; roof/balcony access remains closed or conditional on inspection and approval.
+- **[Ch027](../../chapters/027-the-library.md):** Builds a supervised display with source labels. Childhood-photo history comes from Thalia, not her recovered memory; a visitor's family lead stays out of the display until checked against a record.
+- **[Ch028](../../chapters/028-sparring.md):** Offers the Saturday tactics session as a plan for the following week; it has not happened yet.
 - **[Ch030](../../chapters/030-amphitrite-visits.md):** Witnesses Percy receive a parent visit; Amphitrite is not told the time-change secret.
 - **[Ch031](../../chapters/031-the-promise.md):** Agrees with Percy on communication while retaining control over her schedule/projects.
 - **[Ch033](../../chapters/033-architecture.md):** Leads an unfinished build delayed by stale timber dimensions and rain; accepts shared responsibility with Percy for the order error.

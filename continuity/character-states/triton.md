@@ -82,5 +82,6 @@
 
 ### Chapter 032 · visit and reported knowledge
 - **[Chapter 032](../../chapters/032-triton-visits.md) FIRSTHAND:** Visits Camp Half-Blood, gives Percy a notebook, shares palace stories and stays overnight with approval. He remembers his own palace childhood; Percy does not.
+- **REPORTED / CONTACT PLAN:** Relays Amphitrite's proposal of fortnightly letters and monthly Iris-messages to Percy; Percy accepts the letters and may decide separately about each Iris-message.
 - **REPORTED:** Tells Annabeth that Poseidon may want Percy back earlier and that Triton opposes removing him without Percy's choice. This is Triton's opinion/report, not a confirmed new order from Poseidon.
 - **Carry:** Spar with Clarisse ends in a declared draw; no real weapons or godly powers are used.

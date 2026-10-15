@@ -448,15 +448,15 @@ Annabeth walked Percy halfway to the Poseidon cabin, both of them yawning, shoul
 
 "Sweet dreams, Wise Girl."
 
-Percy watched her climb through the window — Thalia's hand reaching out to haul her in at the last second — then turned toward Cabin Three with Annabeth's spare blanket tucked under one arm. Before he reached the path, he remembered the ladder they'd hidden beside Cabin One and doubled back across the green to check it. Dawn silvered the dew on the grass. The camp still seemed asleep, though the Big House light had brightened and a pegasus was stirring. Thalia had promised to put the ladder away before anyone noticed, though she hadn't said which of them would explain the scratched paint. For another night like this, Annabeth would need a safer route than the ladder they had hidden from the counselors.
+Percy watched Annabeth climb through the window, Thalia's hand reaching out to haul her in, then headed toward Cabin Three with Annabeth's spare blanket under one arm. He stopped at the trellis and lowered the hidden ladder flat beside the wall; no one could climb it again before Thalia put it away. Dew silvered the grass, and a pegasus stirred near the Big House. The route had been a bad idea, and for another night like this Annabeth needed an approved way up.
 
-“Breakfast later?” Annabeth asked from the doorway.
+From the open window, Annabeth called, “Breakfast later?”
 
 “If you're awake.”
 
 “I’ll be awake.”
 
-He headed for Cabin Three again, blanket still beneath his arm.
+Percy lifted a hand, then continued to Cabin Three. He would tell Thalia the ladder was down before the morning horn.
 
 ---
 
@@ -472,7 +472,7 @@ Annabeth found this out when she came to the workshop with a sketch of the balco
 
 "Somebody added those when they wanted to climb to the roof. Nobody made them to support people. I'm surprised half of them are still attached."
 
-Annabeth looked at the cross-section she'd sketched. The old trellis had a sound frame under the vines, but the thin slats had been nailed through places that were never designed to bear weight. She had used them as a ladder because they'd looked like a ladder. That was exactly the kind of assumption she normally criticized when another student made it.
+Annabeth looked at the cross-section she'd sketched. The old trellis had a sound frame under the vines, but the thin slats had been nailed through places that were never designed to bear weight. She had used them as a ladder because they'd looked like a ladder. That was exactly the kind of assumption she normally criticized when another student made it. She crossed out the label on her drawing and marked the slats untested; a familiar shape was not proof that they could hold her weight.
 
 "Could we replace the slats with a proper access ladder?" she asked.
 

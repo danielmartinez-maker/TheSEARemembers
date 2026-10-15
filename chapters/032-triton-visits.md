@@ -1,12 +1,8 @@
 ## Chapter 32: Triton Visits
 
-The morning Triton came to Camp Half-Blood, the canoe lake was doing something wrong.
+On the morning Triton came to Camp Half-Blood, Percy found the canoe lake unnaturally smooth. He stood at the dock in a hoodie and sneakers, watching the surface hold still beneath the gulls. The color had shifted too, from the lake's usual green to the trench blue Percy knew from a mile beyond the continental shelf.
 
-Percy noticed it before breakfast, down at the canoe lake dock with nothing but a hoodie and his sneakers going soggy at the edges. The water was too flat. Not calm-flat, like after a storm passes. Flat like someone had pressed glass over the top of it. No ripple. No gull chop. And the color was wrong too, that deep trench blue you only get a mile out past the shelf, not in a lake that’s usually green and full of naiad gossip.
-
-Then it stood up.
-
-Not a wave. A column. A pillar of water about ten feet tall rose straight out of the middle of the canoe lake without splashing, and inside it, arms crossed and looking extremely annoyed about being damp in the wrong kind of water, was a guy with sea-green eyes and black hair tied back and armor made out of abalone shell.
+The middle of that glassy surface rose without a splash. Water lifted into a ten-foot column, and Triton stood inside it with his arms crossed, annoyed to be damp in the wrong kind of water. His black hair was tied back, his eyes sea-green, his armor made of abalone shell.
 
 “Perseus,” he said, in a voice that echoed off the water. “You were supposed to meet me at the shore. Father drew you a map.”
 
@@ -888,7 +884,7 @@ Percy opened it. The pages were empty.
 
 "I considered it. Then Silena told me you have enough things people expect you to study."
 
-Percy laughed. He tucked the notebook beneath his arm and promised to write when he'd filled a few pages. Triton didn't ask him to report on a fixed schedule. They agreed to send letters through the palace courier whenever the route allowed it.
+Percy laughed. He tucked the notebook beneath his arm and promised to write when he'd filled a few pages. Triton told him Amphitrite had proposed one letter every fortnight when the palace route was open, with a monthly Iris-message if both ends could arrange it. Percy agreed to the letter rhythm and said he'd decide about each Iris-message when it was offered. Triton welcomed extra notes but did not ask him to report on a schedule or wait by the lake.
 
 As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his sisters, lost a practice match and learned how a borrowed cloak was returned. Those were new memories they could share without requiring the old ones to come back.
 

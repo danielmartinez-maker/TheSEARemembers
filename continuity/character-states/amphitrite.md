@@ -98,4 +98,5 @@
 
 ### Chapter 030 · visit and knowledge boundary
 - **[Chapter 030](../../chapters/030-amphitrite-visits.md) FIRSTHAND:** Visits Camp Half-Blood for lunch, meets Percy's friends, sees him helping younger campers and gives him a blanket. She understands he is adjusting to life at camp.
-- **UNKNOWN / NOT DISCLOSED:** She is not told that Percy's memories of Atlantis are missing, that history changed, or that he remembers another life. The revised conversation no longer attributes that knowledge to her. Her next visit/contact is unknown.
+- **PROPOSAL / PENDING AT CH030:** Offers a letter each fortnight when the route is open and a monthly Iris-message when both ends can arrange it; Chiron is to ask Percy whether he wants the schedule. No acceptance is shown in this chapter.
+- **UNKNOWN / NOT DISCLOSED:** She is not told that Percy's memories of Atlantis are missing, that history changed, or that he remembers another life. The revised conversation no longer attributes that knowledge to her. The later status of the contact plan is recorded in Ch032.

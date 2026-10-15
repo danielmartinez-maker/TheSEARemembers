@@ -940,6 +940,6 @@ Annabeth wrote the status in their shared correspondence notebook, carefully sep
 
 She agreed. Thalia watched her sister put the notebook away. They had learned something useful without getting the answer they wanted.
 
-By the time they left the pavilion, both had appointments they were supposed to keep. Annabeth went to her model-building lesson; Thalia went to the practice yard. The two letters could travel without requiring the girls to follow them in their minds every minute. Neither had forgotten her family. Both had done what they could for that day.
+Annabeth put the status note away and turned toward her model-building lesson; Thalia checked the time before heading to the practice yard. They had asked for contact and clarified the routes, but no one at camp could make the answer arrive on demand. Neither had forgotten the letters. They simply had the next hour to live before checking the board again.
 
 

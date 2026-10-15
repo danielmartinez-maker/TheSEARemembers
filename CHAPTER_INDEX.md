@@ -196,6 +196,24 @@ The manuscript is a work in progress. Chapters are listed in reading order; clic
 - **192.** [Against the Windows](chapters/192-against-the-windows.md)
 - **193.** [The Heel](chapters/193-the-heel.md)
 
+## Revision QA — Chapters 023–036 (2026-10-15)
+
+All fourteen chapters were re-read and revised for continuity and prose, with Chapter 022's ending and Chapter 037's opening checked as boundaries. Body counts use `scripts/audit_chapter_length.py` and exclude headings, dividers and comments.
+
+| Chapter | Body words | Chapter | Body words |
+|---:|---:|---:|---:|
+| 023 | 10,021 | 030 | 10,174 |
+| 024 | 10,016 | 031 | 10,015 |
+| 025 | 10,000 | 032 | 10,025 |
+| 026 | 10,009 | 033 | 10,039 |
+| 027 | 10,019 | 034 | 10,140 |
+| 028 | 10,055 | 035 | 10,020 |
+| 029 | 10,020 | 036 | 10,061 |
+
+- The 16-chapter exact 300-word scan across Chapters 022–037 checked 155,938 windows and found **zero cross-chapter matches**. The bonus-inclusive 196-file scan checked 1,945,165 windows and found **zero exact matches**.
+- Full manuscript QA found 193/193 numbered files, 171 chapters at the 10,000-word floor, 22 other chapters still short, and zero exact matches across 1,794,613 chapter windows. Structure audit found the index ordered 001–193. All 28 source-anchored memory regression checks pass; Chapter 014 retains one lexical introduction cue for human review.
+- These results are mechanical checks plus the scoped scene review; they do not certify semantic repetition or prose quality across the full manuscript.
+
 ## Bonus interludes
 
 - [The Long Winter](bonus/the-long-winter.md)

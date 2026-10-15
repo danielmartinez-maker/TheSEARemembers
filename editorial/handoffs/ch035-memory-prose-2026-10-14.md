@@ -1,6 +1,7 @@
 # Chapter 035 — The Letter
 
-- **Review status:** Full-scene continuity/prose pass; body count **10,017**. The chapter spans Thursday preparation and Friday checking; no calendar date is established.
+- **Review status:** Full-scene continuity/prose pass; body count **10,020**. The chapter spans Thursday preparation and Friday checking; no calendar date is established.
 - **Mail routes:** Thalia and Annabeth prepare separate letters to Beryl and a joint Jason request. Beryl's letter uses her verified Manhattan address and the afternoon mortal satchel. Jason's sealed packet goes through Chiron's authorized Roman intermediary; the intermediary must decide whether to accept/forward it. The post-room receipt confirms the submission/handling shown, not acceptance by the Roman channel, delivery to Camp Jupiter or receipt by Jason. The revision removes a duplicated premature mailroom visit and corrects the crowd's “they wrote back” to “we’re finally sending the letters,” before the group reaches the post room.
 - **Knowledge boundaries:** Thalia's knowledge of Beryl's sobriety and earlier neglect comes from letters/personal altered-history experience; Marge reports seeing Beryl bring letters and ask about her daughters. Those details are reports, not a new scene with Beryl. Thalia and Annabeth retain separate control over their replies and copies.
 - **Boundary:** No reply or Jason visit is confirmed by the close; promises to visit remain deliberately unmade.
+- **Continuation QA:** The final beat now leaves the girls at their scheduled lessons after noting the pending letter statuses, without restating their worry or implying that either response has arrived.

@@ -124,6 +124,7 @@
 - **[Ch023](../../chapters/023-sally-s-blue.md):** Helps with the cookie day and the crew tray; recipe copy is public, Percy's recollections private. Mara's no-raw-dough rule remains.
 - **[Ch024](../../chapters/024-the-climbing-wall.md):** Commentates the single featured race; timing correction does not alter the winner.
 - **[Ch025](../../chapters/025-night-watches.md):** Pairs with Grover on watch; helps maintain the map/log handoff. They hear/observe camp events but do not confirm an attack.
+- **[Ch028](../../chapters/028-sparring.md):** Agrees to learn Tide-Breath from Percy the following week; the lesson has not yet happened.
 - **[Ch035](../../chapters/035-the-letter.md):** Helps prepare and copy the sisters' letters while respecting their different privacy choices; Beryl/Jason have not replied by the close.
 
 ### Chapter 090 · witnessed / reported / unknown
