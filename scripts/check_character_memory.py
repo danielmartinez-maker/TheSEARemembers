@@ -210,6 +210,31 @@ CHECKS = {
         "present": ("We can learn who you are now", "wish being here felt easier"),
         "absent": ("missing years are not a debt you owe me",),
     },
+    "chapters/095-annabeth-sick.md": {
+        "present": ("Will had cleared Percy to return to ordinary drills after a full day without fever",
+                    "No one needs to guess where the weak post is.",
+                    "I don't want to talk about it while I'm sick.",
+                    "Tell him the fever is down and I'm staying in Cabin Three today."),
+        "absent": ("Fevers needed to breathe.",
+                   "Tartarus dreams",
+                   "Will says fevers fight harder when the body knows it's safe.",
+                   "Clarisse and Silena ran cold spring water all day"),
+    },
+    "chapters/096-training-together.md": {
+        "present": ("At dawn, after Annabeth's temperature had registered lower overnight",
+                    "Thalia told me what she sent Grover",
+                    "The water is not a wire",
+                    "Anybody can call stop",
+                    "She waited until the arch path was clear, then gave Grover a small nod.",
+                    "No one asked what Annabeth had dreamed",
+                    "I want my own bunk tonight"),
+        "absent": ("as well as any child of Athena",
+                   "the tail at the lake",
+                   "the base steady where it met the lake",
+                   "Holding a water bridge that far",
+                   "Only after the sisters were out of earshot",
+                   "The morning after Annabeth's fever breaks"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

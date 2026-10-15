@@ -41,3 +41,8 @@
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** Brings get-well cards and gives Percy the choice to hear them. She reads three at his request and leaves the rest on the shelf; she does not require a response.
 - **Carry-forward:** Her phrasing and card choices reflect this visit, not memories of another timeline.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: volunteers to record the group drill, marks water and lightning separately, and relocates the tablets after Attempt Two drenches the table. She records the whistle/card rehearsal, the water arch's limits and the beacon's single strike. She asks before showing the public the route and signals; she leaves Annabeth's private sickness/dream out of the record.
+- **Carry-forward:** The red stop card came from Ella's supplies; its final location is unknown. Her observations are current-history notes, not memories of another timeline.

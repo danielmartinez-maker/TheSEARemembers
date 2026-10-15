@@ -244,15 +244,13 @@ Clarisse shrugged, jaw tight. "Felt like seconds."
 
 Silena took her hand and held it.
 
-Then Katie Gardner stood and told the story of Annabeth sick with fever in Cabin Three’s guest bunk, how Percy and Thalia never left, how Clarisse and Silena ran cold spring water all day, how Percy held her hand through Tartarus dreams and did not let go even when she sparked. Annabeth had gone very still against Percy's side.
-
-Katie finished softly. "Will says fevers fight harder when the body knows it's safe. I think that's what family is. People who make your body feel safe enough to heal."
+Then Katie Gardner stood. She had not been in Cabin Three, and she didn't pretend she had seen Annabeth's feverish night. “Annabeth was sick,” she said. “I don't know the rest, and I don't need to. Sometimes the story is that your friends show up, do the ordinary things, and leave you room to tell the rest yourself.” Annabeth stayed against Percy's side, no longer rigid.
 
 There was hardly a dry eye in the amphitheater. Amphitrite was openly crying, Triton's arm around her. Thalia pressed her forehead to the top of Annabeth's head. Percy pressed his lips to Annabeth's temple.
 
-Annabeth whispered, "You held on."
+Annabeth whispered, "You stayed."
 
-"I always hold on," Percy whispered back. "Always."
+"When you asked," Percy whispered back. "And when you wanted me to sleep, I did."
 
 Between stories, the Apollo cabin played.
 
@@ -300,7 +298,7 @@ He looked straight at Percy, at Annabeth, at Thalia, at Clarisse, at Silena.
 
 Everyone laughed through tears.
 
-"People ask me what the Lord of the Wild does," Grover said. "I protect places. I grow things. But mostly, I think — I witness. I witness kids becoming heroes and heroes becoming siblings and siblings becoming family. I witness Percy holding Annabeth's hand through a fever. I witness Thalia braiding Annabeth's hair too tight on purpose. I witness Clarisse saving seats and pretending she didn't. I witness Silena remembering everyone's birthday and favorite song."
+"People ask me what the Lord of the Wild does," Grover said. "I protect places. I grow things. But mostly, I think — I witness. I witness kids becoming heroes and heroes becoming siblings and siblings becoming family. I witness people caring for each other without asking for applause. I witness Thalia braiding Annabeth's hair too tight on purpose. I witness Clarisse saving seats and pretending she didn't. I witness Silena remembering everyone's birthday and favorite song."
 
 Clarisse wiped her eyes furiously. Silena openly wept on her shoulder.
 
@@ -402,7 +400,7 @@ The world narrowed to that small point of contact. Forehead to forehead. Breath 
 
 Percy could hear Grover's pipes, clear and tender. He could smell woodsmoke and Annabeth's shampoo and the faint salt that always clung to his own skin. He could feel Annabeth's hand holding his like an anchor.
 
-He thought about being twelve and terrified. He thought about remembering his older life while living young again. He thought about fevers and sparks and Tartarus and bacon saved from breakfast and cold washcloths and a blue blanket with flowers.
+He thought about being twelve and terrified. He thought about remembering his older life while living young again. He thought about fevers and sparks and Tartarus and bacon saved from breakfast and a cool cloth set aside when it made Annabeth shiver and a blue blanket with flowers.
 
 "I'm glad it's us," he whispered, the same words he had said at twelve, because they were still true. "I'm glad we get to do this. Without rushing. Just music and fire and —"
 
@@ -494,13 +492,13 @@ Then she said, very quietly, "Thank you."
 
 Clarisse blinked. "For what?"
 
-"For my sister," Thalia said. "For that fever day. For the cold water. For running. For guarding the door. For — for all of it. I was six when I first held her through a fever. I thought it was always going to be just me. Then camp. Then you. Then the cabin cots and the shared kitchen table and all of it. I never said — I never say it right. But thank you for loving her like sisters."
+"For my sister," Thalia said. "For that fever day. For taking turns and keeping the door clear when she wanted quiet. For — for all of it. I was six when I first held her through a fever. I thought it was always going to be just me. Then camp. Then you. Then the cabin cots and the shared kitchen table and all of it. I never said — I never say it right. But thank you for loving her like sisters."
 
 Silena's eyes filled instantly. "Oh, Thalia."
 
 Clarisse looked away sharply, jaw working. "Gods. Don't get mushy, Grace."
 
-"I mean it," Thalia said. Her voice shook just slightly. "Annabeth would have died in Tartarus without Percy. She would have died of a fever without all of you. She would have died of loneliness without — without people who saved her seats and brought her water and pretended not to cry when she danced. You're her sisters too. Camp siblings count."
+"I mean it," Thalia said. Her voice shook just slightly. "She doesn't owe any of us a story about being sick. I thought being her older sister meant I had to keep watch by myself. It doesn't. You took turns, brought what she asked for, and left her room to rest. You're her sisters too. Camp siblings count."
 
 Silena made a small sound and threw her arms around Thalia. Thalia caught her, surprised, then held on tight.
 

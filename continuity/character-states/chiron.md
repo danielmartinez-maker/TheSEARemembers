@@ -154,3 +154,13 @@
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** Checks whether Percy needs anything, asks Thalia whether Will's care instructions are clear, respects the request not to wake Percy and does not insist on entering Cabin Three. His prior approval for Annabeth's temporary bunk remains in effect.
 - **Carry-forward:** No new quest or camp duty is assigned to Percy while he is ill.
+
+### Chapter 095 · reported / unknown
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** Receives Annabeth's existing north-trail sketch through Clarisse for a brace inspection, not as a work order. Two unnamed counselors are assigned; Clarisse reports the route remains closed until they check the supports. Chiron's answer is relayed through Clarisse; no direct scene or medical update with Annabeth is shown.
+- **Carry-forward:** The actual inspection, measurement verification and safe reopening are not established.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: supervises the five-demigod training proposal and keeps water shaping separate from an open-air strike. After a missed whistle and a wind-driven boundary failure, he reviews the visible stop card, station sightlines and return lane. He walks the camp-trail route and leaves the beacon dark until the next day. At the supervised final exercise, he keeps the crowd beyond the lane and watches the separate strike light the beacon.
+- **Carry-forward:** The safety protocol belongs to supervised training; it is not permission for unsupervised use. The north-trail brace inspection from Chapter 095 remains unreported.

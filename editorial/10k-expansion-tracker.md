@@ -4,28 +4,31 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 094 (2026-10-14 candidate checkpoint)
+## Latest current-branch continuation: Chapter 096 (2026-10-15 candidate checkpoint)
 
-**Branch base:** The local candidate began at verified PR head `2458717da63493ae8aec31abef943cb1ef42fb7a`. Hosted Actions for the published commit are tracked separately in PR #103.
+**Branch base:** This local candidate began at verified PR head `89810825d0b5f4ad7a7f2a0a7b8f9054207328bd`. Hosted Actions for the next published commit are tracked separately in PR #103.
 
 | Scope | Candidate-tree result |
 |---|---:|
 | Numbered narrative chapters present and ordered | **193/193** |
-| At or above 10,000 actual body words | **170** |
-| Below 10,000 actual body words | **23** |
-| Required additional body words to clear minimum | **145,183** |
-| Chapter-only every-offset 300-word windows | **1,791,402; 0 exact cross-chapter matches** |
-| All chapter and bonus files | **196 files; 1,941,954 windows; 0 exact cross-file matches** |
-| Source-anchored memory regression checks | **27 passed** |
+| At or above 10,000 actual body words | **172** |
+| Below 10,000 actual body words | **21** |
+| Required additional body words to clear minimum | **139,047** |
+| Chapter-only every-offset 300-word windows | **1,797,869; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,006,726 body words; 1,948,421 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **29 passed** |
 
 **Chapter 094, Sick Day:** **6,387 → 10,032 body words** (**+3,645 net**). Percy wakes ill after the supervised campout and remains uncleared at the end; Will cannot identify the source and requires 24 hours fever-free before training. The chapter preserves Clarisse's and Silena's separate reports about their own mothers, Annabeth's choice to take breaks and use the temporary bunk, and Thalia's right-palm restriction. The initial temperature is not stated numerically; a later check is 101.2°F, with the final check lower but unnumbered. See the [Chapter 094 handoff](handoffs/ch094-sick-day.md) and [structured continuity record](../continuity/ch094.yaml).
 
-- **Phase 1:** Added the source-labeled Chapter 094 handoff, structured continuity record, and scoped memory entries for the characters who appear.
-- **Phase 2:** Removed Percy's unsupported autobiographical account of his altered childhood; kept his Sally memory private; labeled Clarisse's and Silena's mother memories as their reports; left the illness source, date and recovery time unknown; carried Thalia's hand restriction and the approved temporary bunk forward.
-- **Phase 3:** Expanded the chapter through Percy's candid response to Clarisse's soup, Silena's song and tea, Annabeth's planned breaks, Thalia's visitor boundary, and Percy's chosen visits/cards. Replaced the omniscient Annabeth ending with a Percy-limited close; smoothed repeated care beats and the Silena visit chronology.
-- **Phase 4:** Local checks pass: 193/193 chapters present and ordered; 170 pass / 23 short; 145,183 words remain; 1,791,402 chapter-only and 1,941,954 bonus-inclusive every-offset 300-word windows found zero exact matches; all 27 character-memory anchors pass. The lexical introduction scan leaves one human-review cue in Chapter 014. These mechanical checks do not certify whole-novel semantic or literary consistency. Hosted GitHub Actions are pending publication.
+- **Chapter 095, Annabeth Sick:** **6,977 → 10,129 body words** (**+3,152 net**). The Percy-limited revision preserves Annabeth's independent choices during a fever, keeps the fever's cause and relationship to Percy's earlier illness unknown, follows Will's no-training and escalation instructions, and protects her private dream details. See the [Chapter 095 handoff](handoffs/ch095-annabeth-sick.md) and [structured continuity record](../continuity/ch095.yaml).
+- **Chapter 096, Training Together:** **6,878 → 10,144 body words** (**+3,266 net**). The revision adds a signal rehearsal after the surf masks Grover's whistle, clarifies distinct water and air-strike routes, preserves Thalia's tender palm and Annabeth's recovery limits, and resolves her Cabin One choice before Chapter 097. See the [Chapter 096 handoff](handoffs/ch096-training-together.md) and [structured continuity record](../continuity/ch096.yaml).
 
-**Next chronological underlength chapter:** [095 Annabeth Sick](../chapters/095-annabeth-sick.md), **6,977 body words**, needs **3,023**. Chapter 094 ends during the same unknown late-August period and does not specify the date gap to Chapter 095. Do not infer that Percy caused Annabeth's fever or that Percy has recovered.
+- **Phase 1:** Added Chapter 095–096 handoffs, structured records and witnessed/reported/unknown state updates for the characters in those scenes. The intended Iris-message recipient is not treated as confirmed receipt.
+- **Phase 2:** Kept Percy and Annabeth's private old-life memories exclusive; separated Thalia's age-six recollection from Annabeth's memory; left the illnesses' causes and Annabeth's fever-decline time unknown; preserved Thalia's palm restriction; transferred the north-trail sketch for inspection rather than treating it as a work order. Chapter 096 keeps water and lightning separate and carries Annabeth's privacy boundary forward.
+- **Phase 3:** Chapter 095 reaches **10,129** words; Chapter 096 reaches **10,144**. Their revisions add original choices and consequences without padding. Scoped continuity and prose review covers Chapters 094–097 plus the directly affected Chapter 100 privacy passages.
+- **Phase 4:** Local checks pass on this candidate: 193/193 ordered; 172 pass / 21 short; 139,047 words remain; 1,797,869 chapter-only and 1,948,421 bonus-inclusive every-offset 300-word windows found zero exact matches; all 29 source-anchored character-memory checks pass; UTF-8 structure check passes 193/193. The lexical introduction scan leaves one human-review cue in Chapter 014. These mechanical checks do not certify whole-novel semantic or literary consistency. Hosted GitHub Actions are pending publication.
+
+**Next chronological underlength chapter:** [097 The Map](../chapters/097-the-map.md), **6,862 body words**, needs **3,138**. Chapter 096 ends with Annabeth in Cabin One by choice, her map nearly finished with one corner under review, the beacon lit, and the north-trail inspection still pending. Keep the Chapter 095 illness cause/decline-time and Grover message-receipt uncertainties intact.
 
 ## Superseded checkpoint: Chapter 091 (2026-10-14)
 

@@ -16,3 +16,8 @@
 ### Chapter 093 - witnessed / reported / unknown
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** Represents the Demeter cabin's audience choice for the emotional second movie and jokes that they expected a bear story. No new injury, promise or secret is established.
+
+### Chapter 095 · limited report
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** Katie brings Annabeth's bag after it is requested so the north-trail sketch can be sent to Chiron. The delivery is off-screen; no additional health information or dream details are shown as reaching her.
+- **Carry-forward:** Do not infer that Katie witnessed Annabeth's illness or knows more than the general fact she was sick.

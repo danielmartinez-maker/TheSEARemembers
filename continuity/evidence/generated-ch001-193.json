@@ -2705,32 +2705,37 @@
       "path": "chapters/023-sally-s-blue.md",
       "title": "Chapter 23: Sally's Blue",
       "name_mentions": {
-        "Percy": 106,
+        "Percy": 109,
         "Annabeth": 59,
         "Thalia": 28,
         "Clarisse": 63,
         "Silena": 50,
         "Amphitrite": 5,
-        "Poseidon": 2,
+        "Poseidon": 3,
         "Tyson": 26,
-        "Sally": 36,
+        "Sally": 38,
         "Beryl": 3,
-        "Chiron": 1,
+        "Chiron": 2,
         "Grover": 21,
         "Zeus": 5,
         "Ella": 24
       },
       "event_cues_for_manual_review": [
         {
-          "line": 6,
+          "line": 4,
           "named": [
-            "Tyson"
+            "Percy",
+            "Poseidon",
+            "Tyson",
+            "Sally",
+            "Chiron"
           ],
-          "excerpt": "That was how most bad ideas at Camp Half-Blood started, in his experience. You didn't decide. You just opened your mouth at breakfast while the mist was still hanging low over the strawberry fields and said, \"My mom made blue chocolate chip"
+          "excerpt": "At breakfast, Percy meant to tell the Poseidon table that Sally had made blue chocolate-chip cookies in the life he remembered. He had not meant to propose baking them. Tyson — his Cyclops half-brother, visiting from the undersea forges on"
         },
         {
-          "line": 8,
+          "line": 6,
           "named": [
+            "Percy",
             "Annabeth",
             "Poseidon",
             "Tyson",
@@ -2738,17 +2743,17 @@
             "Zeus",
             "Ella"
           ],
-          "excerpt": "By lunch, it had mutated. Tyson told Grover. Grover told Ella. Ella told approximately everyone she'd ever screeched at, which was everyone. Annabeth raised one eyebrow at him across the Poseidon table — because she still sat with him half"
+          "excerpt": "Before lunch, Tyson had repeated the idea to Grover, Grover had told Ella, and Ella had announced it to every camper within earshot. Annabeth raised one eyebrow at Percy across the Poseidon table — she still sat with him half the time even"
         },
         {
-          "line": 10,
+          "line": 8,
           "named": [
             "Percy"
           ],
           "excerpt": "\"Kind of,\" Percy said."
         },
         {
-          "line": 20,
+          "line": 18,
           "named": [
             "Annabeth",
             "Thalia",
@@ -2762,14 +2767,14 @@
           "excerpt": "The audience consisted of: Tyson (assistant, extremely enthusiastic, flour already in his hair despite not having touched anything yet), Annabeth Grace (self-appointed quality control, notebook open, pencil sharpened to a lethal point), Sil"
         },
         {
-          "line": 24,
+          "line": 22,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy stared at the counter. Someone — probably the harpies who did dishes — had laid out what he'd asked for: flour, sugar, brown sugar, butter, eggs, baking soda, salt, vanilla, chocolate chips, and blue food coloring. Two bowls. A hand m"
         },
         {
-          "line": 28,
+          "line": 26,
           "named": [
             "Annabeth",
             "Sally"
@@ -2777,14 +2782,14 @@
           "excerpt": "\"It's not a normal recipe,\" he said. His voice sounded too loud in the tiled kitchen. \"My mom was Sally. She died when I was little. I've been trying to make blue cookies the way I think she'd have liked them.\" He looked at Annabeth for hal"
         },
         {
-          "line": 30,
+          "line": 28,
           "named": [
             "Tyson"
           ],
           "excerpt": "\"Why blue?\" Tyson asked, swinging his legs where he sat on the counter. He was too big for the counter, really, but nobody was going to tell him that."
         },
         {
-          "line": 32,
+          "line": 30,
           "named": [
             "Percy"
           ],
@@ -2793,33 +2798,35 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 4,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "Percy didn't remember deciding to do it."
-        },
-        {
-          "line": 6,
-          "named": [
-            "Tyson"
-          ],
-          "excerpt": "That was how most bad ideas at Camp Half-Blood started, in his experience. You didn't decide. You just opened your mouth at breakfast while the mist was still hanging low over the strawberry fields and said, \"My mom made blue chocolate chip"
-        },
-        {
-          "line": 51,
+          "line": 49,
           "named": [
             "Percy"
           ],
           "excerpt": "Argus had told him not to break anything and left the room. That might have been enough for a group of older campers who knew the ovens. It wasn't enough for Percy, whose only clear memory of this recipe came from standing beside his mother"
         },
         {
-          "line": 105,
+          "line": 103,
           "named": [
             "Percy",
             "Sally"
           ],
           "excerpt": "Percy looked at the others. He had imagined one batch, something that would let him remember Sally without asking anyone to perform grief with him. The idea had grown into a camp event before he could stop it."
+        },
+        {
+          "line": 487,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "He gave her the details he knew. Where he was uncertain, they wrote that he was uncertain. It was tempting to turn an approximate memory into a clean number because a number seemed easier to preserve. Annabeth refused to do it."
+        },
+        {
+          "line": 619,
+          "named": [
+            "Thalia",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "\"She'd like you all,\" he said, voice thick but steady. \"She'd feed you until you burst and ask a million questions and remember everything. Thalia, she'd love your stupid jokes. Silena, she'd ask about your designs. Clarisse — she'd tell yo"
         }
       ],
       "event_witnesses_verified": false,
@@ -2835,13 +2842,13 @@
       "title": "Chapter 24: The Climbing Wall",
       "name_mentions": {
         "Percy": 125,
-        "Annabeth": 127,
-        "Thalia": 98,
-        "Clarisse": 60,
+        "Annabeth": 126,
+        "Thalia": 99,
+        "Clarisse": 61,
         "Silena": 33,
         "Poseidon": 7,
-        "Chiron": 15,
-        "Grover": 48,
+        "Chiron": 14,
+        "Grover": 49,
         "Luke": 2,
         "Zeus": 6,
         "Beckendorf": 7,
@@ -2849,14 +2856,7 @@
       },
       "event_cues_for_manual_review": [
         {
-          "line": 8,
-          "named": [
-            "Grover"
-          ],
-          "excerpt": "Two: his left shoe was missing, and Grover was chewing on something that sounded suspiciously like leather."
-        },
-        {
-          "line": 10,
+          "line": 6,
           "named": [
             "Percy",
             "Grover"
@@ -2864,72 +2864,81 @@
           "excerpt": "\"Grover,\" Percy said, sitting up in his bunk and squinting through the morning light slanting into Cabin Three. \"Tell me you're not eating my shoe.\""
         },
         {
-          "line": 14,
+          "line": 10,
           "named": [
             "Grover"
           ],
           "excerpt": "\"I'm not eating your shoe,\" Grover said solemnly."
         },
         {
-          "line": 22,
+          "line": 18,
           "named": [
             "Grover"
           ],
           "excerpt": "Grover sighed dramatically and handed the shoe back. \"My mom says stress-chewing is a natural satyr coping mechanism. You wouldn't understand. You have excellent teeth and no urge to eat tin cans.\""
         },
         {
-          "line": 24,
+          "line": 20,
           "named": [
             "Percy"
           ],
           "excerpt": "\"I have the urge to throw you in the lake,\" Percy said, but he was grinning as he laced up both shoes. His hair was sticking up in twelve different directions. He tried to flatten it. It sprang right back. He gave up. The sea breeze coming"
         },
         {
-          "line": 32,
+          "line": 28,
           "named": [
             "Grover"
           ],
           "excerpt": "\"You nervous?\" Grover asked, pulling on his fake feet sneakers over his hooves and tugging his cap down over his horns."
         },
         {
-          "line": 34,
+          "line": 30,
           "named": [
             "Percy"
           ],
           "excerpt": "\"About lava? No. Lava's great. Lava's my favorite,\" Percy said."
         },
         {
-          "line": 44,
+          "line": 40,
           "named": [
             "Percy"
           ],
           "excerpt": "\"Okay, fine, I'm a little nervous,\" Percy admitted, tying his camp necklace tighter. It only had one bead so far — an Atlantis bead, with a trident and a wave. He touched it for luck. \"Last time I did the wall I got lava in my pants. Litera"
+        },
+        {
+          "line": 46,
+          "named": [
+            "Chiron",
+            "Grover",
+            "Ella"
+          ],
+          "excerpt": "\"You, me, and Ella,\" Grover said. \"Chiron posted it at breakfast.\""
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 30,
+          "line": 26,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy splashed water on his face from the basin by the door. The water felt good. It always felt good, like the water was happy to see him. He didn't tell people that part because it sounded weird, even for camp."
         },
         {
-          "line": 93,
+          "line": 89,
           "named": [
             "Zeus"
           ],
           "excerpt": "She was sitting on the porch of Cabin One — Zeus's cabin, all white marble and humming ozone and tall ceilings that made thunder sound louder inside — with a wax tablet on her knees and a stylus behind her ear, sketching the climbing wall f"
         },
         {
-          "line": 334,
+          "line": 330,
           "named": [
             "Chiron"
           ],
-          "excerpt": "Chiron raised his flag. \"Climbers ready? Remember — no weapons, no pushing below the waist, no summoning lightning on the wall —\""
+          "excerpt": "Chiron raised his flag. \"Climbers ready? Remember: no weapons, no pushing below the waist, and no using power to move another climber or interfere with the machinery. A stray static snap is not a foul, but keep it away from the holds. A del"
         },
         {
-          "line": 580,
+          "line": 576,
           "named": [
             "Annabeth",
             "Thalia"
@@ -3071,9 +3080,9 @@
       "path": "chapters/026-the-roof.md",
       "title": "Chapter 26: The Roof",
       "name_mentions": {
-        "Percy": 86,
-        "Annabeth": 126,
-        "Thalia": 91,
+        "Percy": 87,
+        "Annabeth": 127,
+        "Thalia": 92,
         "Clarisse": 1,
         "Amphitrite": 1,
         "Poseidon": 4,
@@ -3189,10 +3198,10 @@
       "title": "Chapter 27: The Library",
       "name_mentions": {
         "Percy": 79,
-        "Annabeth": 120,
+        "Annabeth": 121,
         "Thalia": 75,
         "Clarisse": 18,
-        "Silena": 27,
+        "Silena": 28,
         "Poseidon": 4,
         "Chiron": 37,
         "Grover": 29,
@@ -3201,7 +3210,7 @@
       },
       "event_cues_for_manual_review": [
         {
-          "line": 19,
+          "line": 15,
           "named": [
             "Annabeth",
             "Ella"
@@ -3209,21 +3218,21 @@
           "excerpt": "\"It's perfect,\" Annabeth repeated, stepping inside. Her sneakers left prints in the dust on the floorboards. \"Ella, what do you think? Can we do it?\""
         },
         {
-          "line": 21,
+          "line": 17,
           "named": [
             "Ella"
           ],
           "excerpt": "Ella the harpy hopped in after them, feathers fluffed against the damp, red eyes darting everywhere at once. She had a canvas tote bag from the camp store slung around her neck that said I SURVIVED THE LABYRINTH (MOSTLY) and inside it were"
         },
         {
-          "line": 23,
+          "line": 19,
           "named": [
             "Ella"
           ],
           "excerpt": "\"Books,\" Ella said reverently. \"So many books. Ella will organize. Ella loves to organize. 'The History of the Peloponnesian War, Volumes One through Eight, by Thucydides, son of Olorus.' Organize by author, by date, by subject, by size, by"
         },
         {
-          "line": 25,
+          "line": 21,
           "named": [
             "Annabeth",
             "Chiron"
@@ -3231,28 +3240,28 @@
           "excerpt": "\"By subject first,\" Annabeth said. She'd been planning this for two weeks, ever since Chiron mentioned that no one had properly inventoried the archives since the 1970s. \"Then by date inside each subject. And we make a master list. If we fi"
         },
         {
-          "line": 27,
+          "line": 23,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy set his box down on the big oak table in the center of the room and looked around with the expression of a boy who had been promised pancakes and given paperwork. \"You said research day. You made it sound fun.\""
         },
         {
-          "line": 29,
+          "line": 25,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"It will be fun,\" Annabeth said."
         },
         {
-          "line": 31,
+          "line": 27,
           "named": [
             "Percy"
           ],
           "excerpt": "\"It will be sneezing,\" Percy said, and sneezed again on cue."
         },
         {
-          "line": 33,
+          "line": 29,
           "named": [
             "Annabeth",
             "Chiron"
@@ -3262,7 +3271,7 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 89,
+          "line": 85,
           "named": [
             "Annabeth",
             "Thalia"
@@ -3270,14 +3279,14 @@
           "excerpt": "Annabeth stared at the photo. She didn't remember this day; it belonged to the childhood she was missing. She was two in the picture. But something in her chest ached in a good way, like a muscle stretching. Thalia at six, skinny elbows and"
         },
         {
-          "line": 199,
+          "line": 195,
           "named": [
             "Thalia"
           ],
           "excerpt": "\"Give me that.\" Thalia snatched the porch photo too, and stared at it. Her expression did something complicated — annoyance melting around the edges into something softer. \"Gods. I remember this day.\""
         },
         {
-          "line": 351,
+          "line": 347,
           "named": [
             "Annabeth",
             "Ella"
@@ -3285,7 +3294,7 @@
           "excerpt": "\"Orichalcum,\" Annabeth whispered. \"That's Atlantean. The old metal. Ella, remember the book on metals?\""
         },
         {
-          "line": 621,
+          "line": 617,
           "named": [
             "Annabeth",
             "Thalia",
@@ -3420,9 +3429,9 @@
       "path": "chapters/029-rainy-day.md",
       "title": "Chapter 29: Rainy Day",
       "name_mentions": {
-        "Percy": 69,
-        "Annabeth": 81,
-        "Thalia": 46,
+        "Percy": 70,
+        "Annabeth": 82,
+        "Thalia": 47,
         "Clarisse": 41,
         "Silena": 38,
         "Poseidon": 5,
@@ -3669,8 +3678,8 @@
       "path": "chapters/031-the-promise.md",
       "title": "Chapter 31: The Promise",
       "name_mentions": {
-        "Percy": 69,
-        "Annabeth": 66,
+        "Percy": 70,
+        "Annabeth": 67,
         "Thalia": 50,
         "Clarisse": 48,
         "Silena": 62,
@@ -3786,14 +3795,14 @@
       "path": "chapters/032-triton-visits.md",
       "title": "Chapter 32: Triton Visits",
       "name_mentions": {
-        "Percy": 127,
+        "Percy": 129,
         "Annabeth": 36,
         "Thalia": 20,
         "Clarisse": 38,
         "Silena": 26,
-        "Amphitrite": 4,
+        "Amphitrite": 5,
         "Poseidon": 16,
-        "Triton": 147,
+        "Triton": 149,
         "Tyson": 4,
         "Sally": 1,
         "Chiron": 18,
@@ -3801,21 +3810,29 @@
       },
       "event_cues_for_manual_review": [
         {
-          "line": 15,
+          "line": 3,
+          "named": [
+            "Percy",
+            "Triton"
+          ],
+          "excerpt": "On the morning Triton came to Camp Half-Blood, Percy found the canoe lake unnaturally smooth. He stood at the dock in a hoodie and sneakers, watching the surface hold still beneath the gulls. The color had shifted too, from the lake's usual"
+        },
+        {
+          "line": 11,
           "named": [
             "Triton"
           ],
           "excerpt": "“In the dreams,” Triton said. “The conch dreams. Three nights running.”"
         },
         {
-          "line": 17,
+          "line": 13,
           "named": [
             "Percy"
           ],
           "excerpt": "“Oh,” Percy said. “I thought those were just weird dreams about soup.”"
         },
         {
-          "line": 21,
+          "line": 17,
           "named": [
             "Percy",
             "Clarisse",
@@ -3827,7 +3844,7 @@
           "excerpt": "He was Percy's brother. His actual older half-brother, and Clarisse and Silena's too. Son of Poseidon and Amphitrite, heir of Atlantis, commander of something with a very long title Percy kept forgetting. Triton had known the boy he believe"
         },
         {
-          "line": 27,
+          "line": 23,
           "named": [
             "Percy",
             "Triton"
@@ -3835,53 +3852,45 @@
           "excerpt": "“You're ruder than I remembered,” Percy said. Triton laughed, pulled him into a headlock, and rubbed his knuckles into Percy's hair until Percy yelled uncle in Ancient Greek."
         },
         {
-          "line": 33,
+          "line": 29,
           "named": [
             "Percy"
           ],
           "excerpt": "“Percy,” she said slowly. “Why is there a man in shell armor giving you a swirlie with lake water?”"
         },
         {
-          "line": 39,
+          "line": 35,
           "named": [
             "Zeus"
           ],
           "excerpt": "“Zeus,” he said flatly."
         },
         {
-          "line": 41,
+          "line": 37,
           "named": [
             "Annabeth",
             "Poseidon"
           ],
           "excerpt": "Annabeth lifted her chin. “Poseidon,” she said back, with exactly the same tone."
-        },
-        {
-          "line": 49,
-          "named": [
-            "Triton",
-            "Chiron"
-          ],
-          "excerpt": "Chiron had approved the overnight visit, and Triton had asked his lieutenant what the surface camp required. He had been told: *bring tribute, show restraint, do not challenge the Ares cabin to a duel within the first hour,* and he had reme"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 213,
+          "line": 209,
           "named": [
             "Clarisse"
           ],
           "excerpt": "The circle that formed was instant. Word travels fast at camp — *new godling in the arena, Clarisse is gonna kill him* — and within minutes there were thirty kids on the benches with popcorn from the Apollo cabin’s secret stash."
         },
         {
-          "line": 657,
+          "line": 653,
           "named": [
             "Triton"
           ],
           "excerpt": "\"I want him to know I remember him,\" Triton said."
         },
         {
-          "line": 893,
+          "line": 889,
           "named": [
             "Percy",
             "Triton"
@@ -4011,8 +4020,8 @@
       "path": "chapters/034-mythomagic-tournament.md",
       "title": "Chapter 34: Mythomagic Tournament",
       "name_mentions": {
-        "Percy": 157,
-        "Annabeth": 136,
+        "Percy": 156,
+        "Annabeth": 137,
         "Thalia": 65,
         "Clarisse": 34,
         "Silena": 6,
@@ -4023,7 +4032,7 @@
         "Grover": 53,
         "Nico": 97,
         "Luke": 1,
-        "Zeus": 34,
+        "Zeus": 33,
         "Beckendorf": 12,
         "Ella": 94
       },
@@ -4280,7 +4289,7 @@
       },
       "event_cues_for_manual_review": [
         {
-          "line": 15,
+          "line": 13,
           "named": [
             "Percy",
             "Annabeth",
@@ -4289,7 +4298,7 @@
           "excerpt": "Five months of mornings at this camp. They had arrived before the first bolt quest in the life they remembered, but that didn't mean they knew how much time remained before any similar event here. Percy traced the blanket seam with one fing"
         },
         {
-          "line": 27,
+          "line": 25,
           "named": [
             "Percy",
             "Annabeth"
@@ -4297,14 +4306,14 @@
           "excerpt": "\"Morning,\" he told the fountain in the corner. The water jumped a little higher, pleased to be noticed. He'd named the little hippocampus carved at its rim Skip. Annabeth said naming camp plumbing was unsanitary and sentimental. She'd also"
         },
         {
-          "line": 43,
+          "line": 41,
           "named": [
             "Annabeth"
           ],
           "excerpt": "Annabeth Grace knew the exact date without looking at the calendar."
         },
         {
-          "line": 45,
+          "line": 43,
           "named": [
             "Percy",
             "Zeus"
@@ -4312,7 +4321,7 @@
           "excerpt": "She knew it the way she knew the number of steps from Cabin One to the dining pavilion (one hundred forty-two, one hundred thirty-nine if she cut behind the forge), the way she had learned which floorboard in Cabin One, her present Zeus cab"
         },
         {
-          "line": 53,
+          "line": 51,
           "named": [
             "Percy",
             "Thalia"
@@ -4320,7 +4329,7 @@
           "excerpt": "Then she got dressed with military precision — camp shirt, jeans, sneakers double-knotted, hair pulled back in the high ponytail Thalia called her \"commander mode\" — and did her morning checks. Bunk made square. Dagger sheathed. Shield poli"
         },
         {
-          "line": 71,
+          "line": 69,
           "named": [
             "Annabeth",
             "Thalia"
@@ -4328,14 +4337,14 @@
           "excerpt": "\"Tell me that's not burnt,\" Thalia said, stealing half of Annabeth's bacon."
         },
         {
-          "line": 73,
+          "line": 71,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"It is,\" Annabeth said. \"You ate it anyway.\""
         },
         {
-          "line": 81,
+          "line": 79,
           "named": [
             "Grover",
             "Ella"
@@ -4345,14 +4354,21 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 47,
+          "line": 7,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "Percy woke to the canoe lake, though it had taken months for its sounds to become familiar. In his first days back in Cabin Three, salt in the air and his sisters breathing across the room had made the sea feel close; those family sounds be"
+        },
+        {
+          "line": 45,
           "named": [
             "Percy"
           ],
           "excerpt": "She still marked their return on the calendar. It was an anchor for what she and Percy could remember themselves, beside all the older family dates other people had to explain. Each new square meant a day they had actually lived here."
         },
         {
-          "line": 167,
+          "line": 165,
           "named": [
             "Annabeth",
             "Thalia"
@@ -4360,18 +4376,11 @@
           "excerpt": "Thalia laughed and sat on the edge of the desk. There were photographs in the trunk beneath Annabeth's bed, most of them from the childhood only Thalia could remember. She had shown Annabeth some of them. Every time she did, she watched her"
         },
         {
-          "line": 185,
+          "line": 183,
           "named": [
             "Annabeth"
           ],
           "excerpt": "Annabeth rubbed the ink off her fingers. \"I didn't know I could love a childhood I don't remember.\""
-        },
-        {
-          "line": 189,
-          "named": [
-            "Thalia"
-          ],
-          "excerpt": "\"I miss the little kid you were here,\" Thalia said. \"Not because you're worse now. Because I knew her for twelve years, and I don't know whether you'll ever remember the same things I do.\""
         }
       ],
       "event_witnesses_verified": false,
@@ -11262,18 +11271,18 @@
       "path": "chapters/094-sick-day.md",
       "title": "Chapter 94: Sick Day",
       "name_mentions": {
-        "Percy": 102,
-        "Annabeth": 70,
-        "Thalia": 23,
-        "Clarisse": 34,
-        "Silena": 28,
-        "Poseidon": 14,
+        "Percy": 134,
+        "Annabeth": 74,
+        "Thalia": 22,
+        "Clarisse": 50,
+        "Silena": 41,
+        "Poseidon": 10,
         "Sally": 1,
-        "Chiron": 3,
-        "Grover": 12,
-        "Zeus": 2,
-        "Beckendorf": 1,
-        "Ella": 15
+        "Chiron": 5,
+        "Grover": 14,
+        "Zeus": 1,
+        "Beckendorf": 2,
+        "Ella": 21
       },
       "event_cues_for_manual_review": [
         {
@@ -11304,7 +11313,7 @@
             "Percy",
             "Poseidon"
           ],
-          "excerpt": "\"I'm the son of Poseidon,\" Percy said to the ceiling as she hurried for the door, letting in a blade of pale morning light that stabbed him right in the eyeballs. \"Lord of the Seas. Earthshaker. And I got taken out by October weather.\""
+          "excerpt": "\"I'm the son of Poseidon,\" Percy said to the ceiling as she hurried for the door, letting in a blade of pale morning light that stabbed him right in the eyeballs. \"Lord of the Seas. Earthshaker. And I got taken out by late-August heat.\""
         },
         {
           "line": 55,
@@ -11338,35 +11347,36 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 225,
+          "line": 89,
           "named": [
-            "Annabeth"
+            "Percy",
+            "Clarisse",
+            "Silena"
           ],
-          "excerpt": "\"Do you remember,\" he mumbled halfway through the third song, \"when I was half-asleep after that patrol and you and Annabeth tried to check my temperature because I was convinced the thermometer was a monster?\""
+          "excerpt": "It happened the way everything happened in that cabin — fast, loud, and with a lot of feelings. Clarisse and Silena called him their baby brother, their little one. They had told him about the scrawny, furious twelve-year-old who arrived at"
         },
         {
-          "line": 285,
+          "line": 129,
           "named": [
             "Percy"
           ],
-          "excerpt": "Percy turned his head to look at her. Her face was close, tired and fond, gray eyes soft. They remembered years of quests together, shared blankets during blackouts, shared a thousand moments — haircuts in the bathroom sink, midnight snacks"
+          "excerpt": "\"You were already in close quarters last night. I can't promise you won't catch it, and staying here all day won't improve the odds.\" Will glanced at Percy rather than deciding for her. \"If you want to help, use your own cup, wash your hand"
         },
         {
-          "line": 313,
+          "line": 167,
           "named": [
             "Percy",
-            "Chiron"
+            "Clarisse",
+            "Silena"
           ],
-          "excerpt": "She maintained the perimeter all afternoon. She turned away a delegation of Apollo kids with get-well grapes. She turned away Chiron himself — politely — with a promise that Percy was following Will's orders. She threatened, cajoled, bribed"
+          "excerpt": "\"I'm thinking my little brother is sick and needs soup,\" Clarisse said, as if it were obvious. \"My mom used to make it when I was sick. I remember the smell better than the recipe.\" Her eyes flicked toward Silena's empty bunk, then back to"
         },
         {
-          "line": 379,
+          "line": 211,
           "named": [
-            "Percy",
-            "Annabeth",
-            "Ella"
+            "Clarisse"
           ],
-          "excerpt": "Ella paused at the door. \"Goodnight, Percy. Sleep is the best medicine. Sleep consolidates memory and boosts immune function. Annabeth will stay until Percy sleeps. That is a prediction based on observed patterns.\""
+          "excerpt": "He could have given her the easy answer. His sisters had done that for him all morning, sanding the sharp edges off every inconvenience. But Clarisse had stood in the kitchen trying to remake something from her own memory. A lie wouldn't ma"
         }
       ],
       "event_witnesses_verified": false,
@@ -11381,89 +11391,90 @@
       "path": "chapters/095-annabeth-sick.md",
       "title": "Chapter 95: Annabeth Sick",
       "name_mentions": {
-        "Percy": 103,
-        "Annabeth": 112,
-        "Thalia": 84,
-        "Clarisse": 22,
-        "Silena": 26,
-        "Amphitrite": 1,
-        "Poseidon": 5,
-        "Sally": 4,
+        "Percy": 134,
+        "Annabeth": 177,
+        "Thalia": 106,
+        "Clarisse": 49,
+        "Silena": 34,
+        "Sally": 6,
         "Beryl": 1,
-        "Chiron": 3,
-        "Zeus": 6
+        "Chiron": 11,
+        "Grover": 1,
+        "Zeus": 4
       },
       "event_cues_for_manual_review": [
         {
-          "line": 7,
+          "line": 3,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "By the third round, Percy knew Annabeth was sick."
+        },
+        {
+          "line": 5,
           "named": [
             "Percy"
           ],
-          "excerpt": "Percy Jackson knew something was wrong by the third round."
-        },
-        {
-          "line": 9,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "He was sparring with Annabeth, as he always did on Tuesdays, because Tuesdays were theirs. No powers, no tricks, just dull practice blades and footwork. Annabeth was usually faster than him in the first minute. Her mind worked three moves a"
+          "excerpt": "She had told him before they left Cabin One that she'd woken cold and then too hot. She blamed the stuffy cabin and insisted she could still practice. Will had cleared Percy to return to ordinary drills after a full day without fever; he wa"
         },
         {
           "line": 11,
           "named": [
             "Percy"
           ],
-          "excerpt": "That morning she was slow. Not dramatically slow. Just half a beat off. Her parry came late. Her lunge fell short. Sweat stuck her blonde curls to her temples in a way that had nothing to do with the heat, and there were two bright spots of"
+          "excerpt": "“You keep telling me my shoulder gives it away,” Percy said after the second pass. “I think you just read my mind.”"
         },
         {
-          "line": 25,
-          "named": [
-            "Thalia"
-          ],
-          "excerpt": "“Hey, Wise Girl,” Thalia said. “Come here a sec.”"
-        },
-        {
-          "line": 27,
+          "line": 29,
           "named": [
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "“I’m in the middle of kicking Percy’s butt,” Annabeth said, but her voice sounded thin."
+          "excerpt": "Percy stepped into the chalk square and gave her a low feint. Annabeth shifted toward his sword, then caught herself before she crossed the line. He had changed the direction at the last moment. She studied his stance instead of pretending"
         },
         {
           "line": 37,
           "named": [
-            "Percy"
+            "Percy",
+            "Annabeth"
           ],
-          "excerpt": "“No,” Percy said. He knew what warm-from-sparring felt like, and he knew what this was. He stepped closer and touched her cheek with his knuckles, gentle. Her skin was hot and dry under the sweat. Her gray eyes were too bright, glassy at th"
+          "excerpt": "He tried the feint again, this time changing the order. Annabeth blocked it, but not by much. “Better,” she said. The grin that followed belonged to the training, to finding a new answer and making him work for the next one. Percy liked bei"
         },
         {
-          "line": 39,
+          "line": 41,
           "named": [
-            "Percy",
+            "Percy"
+          ],
+          "excerpt": "She was usually quicker in the first minute. This morning her parry arrived late and her next step landed short. Sweat darkened the curls at her temples despite the breeze. Percy held back for one exchange, then saw her set her jaw at him."
+        },
+        {
+          "line": 53,
+          "named": [
             "Annabeth",
             "Thalia"
           ],
-          "excerpt": "“I said I’m fine,” Annabeth muttered, but she swayed just slightly when she said it, and Percy’s hand shot out to steady her elbow. Thalia was already there on the other side."
+          "excerpt": "Behind them, Thalia Grace looked up from the bench. Her right palm remained under a dry wrap, held close against her thigh while she worked the bootlace with her left hand. She watched Annabeth reset her feet, then watched her pause to brea"
         },
         {
-          "line": 43,
+          "line": 55,
           "named": [
-            "Annabeth"
+            "Thalia"
           ],
-          "excerpt": "“Thanks,” Annabeth said. “Very helpful.”"
+          "excerpt": "“Hey, Wise Girl,” Thalia said. “Come here a sec.”"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 183,
+          "line": 357,
           "named": [
-            "Poseidon"
+            "Percy",
+            "Annabeth"
           ],
-          "excerpt": "“It’s okay,” he murmured, taking her hand again despite the sting. Small shocks bit at his palm, pins and needles, but he did not let go. “It’s just static, Annie. You’re okay. I’m here. It can’t hurt me. I’m waterproof. Remember? Son of Po"
+          "excerpt": "Percy's stomach dropped. The names and the plea belonged to a memory only he and Annabeth carried from the life they remembered. It was not his story to explain over her sleeping body."
         },
         {
-          "line": 287,
+          "line": 369,
           "named": [
             "Percy",
             "Annabeth"
@@ -11471,18 +11482,19 @@
           "excerpt": "But Annabeth was deep in it, fever and memory tangled together. Tears leaked from under her closed lids and tracked through the sweat on her temples. “Please,” she sobbed. “Please don’t let me fall. Percy, please —”"
         },
         {
-          "line": 349,
+          "line": 443,
           "named": [
+            "Annabeth",
             "Thalia"
           ],
-          "excerpt": "Thalia was quiet for a moment, gathering memory the way she gathered electricity, carefully. Then she began to speak, her voice low and rough and tender, meant for only the two of them and the sleeping girl between them."
+          "excerpt": "Thalia nodded. She gathered the memory slowly, not like a warning, but as something she had carried for years and rarely set down. Her voice was low enough that it wouldn't wake Annabeth."
         },
         {
-          "line": 383,
+          "line": 471,
           "named": [
             "Thalia"
           ],
-          "excerpt": "Thalia shrugged, embarrassed. “She’s my baby sister. It’s my job. Then we had camp healers to help — cool water, sea air, patience — and it got easier. You remember that cold spell here when we all felt awful after patrol? Will put us in th"
+          "excerpt": "“I sat with her until the night passed. I remember having a washcloth in my hand and thinking it warmed up too fast. I don't know that it changed the fever. She was calmer when she could hear me.” Thalia took a breath. “In the morning there"
         }
       ],
       "event_witnesses_verified": false,
@@ -11497,110 +11509,116 @@
       "path": "chapters/096-training-together.md",
       "title": "Chapter 96: Training Together",
       "name_mentions": {
-        "Percy": 88,
-        "Annabeth": 101,
-        "Thalia": 70,
-        "Clarisse": 48,
-        "Silena": 43,
-        "Poseidon": 14,
-        "Chiron": 12,
-        "Grover": 40,
-        "Zeus": 8,
-        "Ella": 76
+        "Percy": 113,
+        "Annabeth": 131,
+        "Thalia": 76,
+        "Clarisse": 72,
+        "Silena": 57,
+        "Poseidon": 13,
+        "Chiron": 29,
+        "Grover": 54,
+        "Zeus": 5,
+        "Ella": 98
       },
       "event_cues_for_manual_review": [
         {
-          "line": 7,
+          "line": 3,
+          "named": [
+            "Percy",
+            "Annabeth",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "At dawn, after Annabeth's temperature had registered lower overnight, Percy woke in Cabin Three to the fountain trickling on the porch and uneven breathing from the other bunks. Will's last reading had been 99.1, but he had said she was sti"
+        },
+        {
+          "line": 5,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy sat up and rubbed his eyes. \"Is she awake yet?\" he whispered."
         },
         {
-          "line": 17,
+          "line": 7,
+          "named": [
+            "Annabeth",
+            "Thalia",
+            "Silena",
+            "Grover"
+          ],
+          "excerpt": "Silena smiled without looking up. \"Annabeth? Thalia told me what she sent Grover: her fever is down, she's staying here today, and she wants toast. That's all Annabeth approved.\""
+        },
+        {
+          "line": 9,
+          "named": [
+            "Percy",
+            "Annabeth",
+            "Thalia"
+          ],
+          "excerpt": "Percy felt his chest loosen, though the worry did not leave. He remembered Annabeth swaying in the arena, Will's thermometer, and the watch schedule they had made because she had asked them to. When the cool cloth made her shiver, they had"
+        },
+        {
+          "line": 15,
           "named": [
             "Silena"
           ],
           "excerpt": "\"Nothing's on fire,\" Silena said, amused. \"Your little brother was worrying.\""
         },
         {
-          "line": 21,
+          "line": 19,
           "named": [
             "Percy",
-            "Annabeth"
+            "Annabeth",
+            "Poseidon"
           ],
-          "excerpt": "Several days later, after Will had cleared Annabeth to resume gentle training, there was a knock on the cabin door, sharp and precise. Three raps. Percy knew that knock."
+          "excerpt": "Several days later, Annabeth had chosen to return to Cabin One for the night, and Will had cleared her for gentle training after the required fever-free interval. A knock sounded at the Poseidon cabin door, sharp and precise. Three raps. Pe"
         },
         {
-          "line": 27,
+          "line": 25,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"Hi, Seaweed Brain,\" Annabeth said."
         },
         {
-          "line": 31,
+          "line": 29,
           "named": [
             "Annabeth",
             "Thalia"
           ],
           "excerpt": "\"Will cleared me,\" Annabeth said primly. \"Light duty. No sparring till tomorrow. Strategy and powers only. And before you ask, yes, I ate breakfast. Thalia watched me eat two eggs and toast to make sure.\""
-        },
-        {
-          "line": 37,
-          "named": [
-            "Annabeth",
-            "Clarisse",
-            "Silena"
-          ],
-          "excerpt": "Annabeth allowed herself to be hugged. Silena squeezed her tight. Clarisse came stomping over, checked her color, nodded, and ruffled her hair."
-        },
-        {
-          "line": 41,
-          "named": [
-            "Annabeth",
-            "Clarisse"
-          ],
-          "excerpt": "\"Lovely to see you too, Clarisse,\" Annabeth said dryly, smoothing her hair, but she was smiling."
-        },
-        {
-          "line": 47,
-          "named": [
-            "Annabeth",
-            "Chiron"
-          ],
-          "excerpt": "\"That's Chiron,\" Annabeth said. She tapped her notebook. \"I bet I know what it is. I've been thinking about it since yesterday. While I was stuck in bed doing nothing.\""
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 189,
+          "line": 9,
+          "named": [
+            "Percy",
+            "Annabeth",
+            "Thalia"
+          ],
+          "excerpt": "Percy felt his chest loosen, though the worry did not leave. He remembered Annabeth swaying in the arena, Will's thermometer, and the watch schedule they had made because she had asked them to. When the cool cloth made her shiver, they had"
+        },
+        {
+          "line": 203,
           "named": [
             "Annabeth"
           ],
           "excerpt": "Annabeth looked up at him, her gray eyes meeting his green ones. \"Promise you'll tell me if it hurts? Even a little tingle? You always try to tough it out.\""
         },
         {
-          "line": 191,
+          "line": 205,
           "named": [
             "Percy"
           ],
           "excerpt": "\"I promise,\" Percy said. \"You promise you'll tell me if you're getting tired? You're still getting over being sick.\""
         },
         {
-          "line": 193,
+          "line": 207,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"I promise,\" Annabeth said."
-        },
-        {
-          "line": 393,
-          "named": [
-            "Percy",
-            "Thalia"
-          ],
-          "excerpt": "Percy considered lying, then remembered his pinky promise. \"Not hurt. It tingled. Like when your foot falls asleep, but nice. Like soda bubbles. I could feel you in it, actually. Your part felt different from Thalia's. Hers was hot and shar"
         }
       ],
       "event_witnesses_verified": false,
@@ -11973,11 +11991,11 @@
       "path": "chapters/100-the-thousandth-campfire.md",
       "title": "Chapter 100: The Thousandth Campfire",
       "name_mentions": {
-        "Percy": 83,
+        "Percy": 79,
         "Annabeth": 87,
-        "Thalia": 43,
-        "Clarisse": 47,
-        "Silena": 37,
+        "Thalia": 42,
+        "Clarisse": 46,
+        "Silena": 36,
         "Amphitrite": 4,
         "Poseidon": 10,
         "Triton": 5,

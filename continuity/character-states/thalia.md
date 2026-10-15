@@ -160,3 +160,13 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** FIRSTHAND: keeps her wrapped, tender right palm resting in her lap while she screens visitors from the porch. Leaves her spear aside, uses her left hand and does not brace, lift or spar. She allows messages and chooses a quieter visitor boundary.
 - **Carry-forward:** No new check, healing, diagnosis or clearance of the right palm is shown; no storm symptom is addressed in this chapter.
+
+### Chapter 095 · witnessed / reported / unknown
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** FIRSTHAND: notices Annabeth's failing footwork, asks permission before checking her forehead, supports her with her left hand, shares the night care and sends the dawn Iris-message to Grover with Annabeth's approval. Tells Percy her own age-six memory of Annabeth's toddler fever and crib sparks; she distinguishes what she recalls from what she cannot know about Beryl, Zeus, rain or the cloth. She listens when Annabeth asks not to invent a crib memory for her.
+- **Injury / carry-forward:** Will finds the right-palm dressing dry but the burn still tender; no sparring or bracing clearance. Another check is due the following morning. Thalia agrees to take a scheduled watch and rest instead of guarding every hour.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: sends the limited message Annabeth approves for Grover and then chooses the left hand for a small practice spark. Her wrapped right palm remains tender, unfit for bracing or sparring; she watches the next-day beacon strike instead. She escorts Annabeth to Cabin One only after Annabeth agrees, then returns to Percy and the Poseidon-cabin porch.
+- **Relationship / carry-forward:** Thalia and Annabeth remain biological sisters. Thalia supports Annabeth's privacy and map time without deciding for her. She advises Percy to keep listening when Annabeth stops; she receives no autobiographical memory of Percy's or Annabeth's old life. The possible letter to their mother is not written or sent.

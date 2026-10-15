@@ -236,10 +236,12 @@ All fourteen chapters were re-read and revised for continuity and prose, with Ch
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–094
+### Chapters 090–096
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
 - [Chapter 092 handoff](editorial/handoffs/ch092-jealousy-ii.md)
 - [Chapter 093 handoff](editorial/handoffs/ch093-movie-night.md)
 - [Chapter 094 handoff](editorial/handoffs/ch094-sick-day.md)
+- [Chapter 095 handoff](editorial/handoffs/ch095-annabeth-sick.md)
+- [Chapter 096 handoff](editorial/handoffs/ch096-training-together.md)

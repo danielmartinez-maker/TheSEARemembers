@@ -68,4 +68,20 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - New scoped character-memory updates: Percy, Annabeth, Clarisse, Silena, Thalia, Will, Chiron, Grover, Ella, Travis and Connor.
 - **Ch093→Ch094:** Percy returns at first bell after the supervised overnight and becomes ill later that morning. No cause is known. Thalia's right palm remains tender under wrap.
 - **Ch094→Ch095:** Percy is still ill and uncleared at night; 24 hours fever-free is required before training. Annabeth's bunk remains a temporary approved arrangement. Chapter 095 later opens on a Tuesday with Annabeth's fever; exact elapsed time and causal relationship are unknown.
-- **Coverage limit:** This Chapter 094 update is scoped. The prior 037–089 character-memory gap remains, as do Chapters 095–193; the new entries do not certify whole-novel memory coverage.
+- **Coverage limit:** This Chapter 094 update is scoped. The prior 037–089 character-memory gap remains; Chapters 095–096 have separate entries and 097–193 are not covered here. These entries do not certify whole-novel memory coverage.
+
+## Chapter 095 continuation
+
+- [Chapter 095 handoff](../editorial/handoffs/ch095-annabeth-sick.md) and [structured continuity record](ch095.yaml): Percy-limited account of Annabeth's illness, her consent-led care and privacy choices, Thalia's age-six report, the north-trail inspection handoff, and the current status of Will's checks and Thalia's palm.
+- Scoped Chapter 095 entries added for Percy, Annabeth, Thalia, Clarisse, Silena, Will, Chiron (reported), Grover (Iris-message), and Katie (bag delivery only). The entries preserve witnessed, reported, and unknown information.
+- **Ch094→Ch095:** Percy was ill and uncleared at Ch094's close. Ch095 establishes that Will later cleared him after a full fever-free day; the gap and cause of Annabeth's later fever remain unknown. Thalia's right palm remains tender and wrapped.
+- **Ch095→Ch096:** Annabeth's 99.1°F dawn reading does not establish the exact fever-decline time; she remains ill, in Cabin Three by choice, and not cleared to train. Thalia sends only the approved status/toast message to Grover, but receipt or reply is not shown. The north trail remains closed pending brace inspection, and Thalia's right palm remains restricted.
+- **Downstream boundary repair:** Chapter 096's opening recap now reflects the actual rotating watch and declined cool cloth. Chapter 100's campfire story no longer exposes Annabeth's dream or repeats unsupported fever-care claims.
+- **Coverage limit:** This is a scoped update, not a continuous all-character memory graph. Chapters 037–089 and 097–193 remain unaudited by these Chapter 095/096 event entries; use each source scene and adjacent handoff before extending them.
+
+## Chapter 096 continuation
+
+- [Chapter 096 handoff](../editorial/handoffs/ch096-training-together.md) and [structured continuity record](ch096.yaml): carries Annabeth from illness and no clearance at dawn through Will's later clearance, the water/lightning training and next-day beacon test. It records the stop card, wind and return-lane decisions, privacy boundary, unresolved Iris-message receipt, Thalia's still-tender palm and Annabeth's return to Cabin One.
+- Scoped Chapter 096 state entries cover Percy, Annabeth, Thalia, Clarisse, Silena, Chiron, Grover, Ella and Will. Percy hears Silena relay what Thalia said she sent; Grover's receipt is not inferred from his later presence at training.
+- **Ch096→Ch097:** Annabeth leaves for her own Cabin One bunk and intends to inspect one corner of her nearly finished personal map in the morning. Chiron's exercise map is a separate object. The beacon remains lit; the north-trail inspection remains pending.
+- **Coverage limit:** These Chapter 096 entries are source-scoped. Chapters 037–089 and 097–193 remain outside this update and require their own scene-level evidence.

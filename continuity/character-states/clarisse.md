@@ -154,3 +154,13 @@
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** FIRSTHAND: returns from drills, tries to make soup for Percy, accepts his honest report that it is too hot and salty, and takes it away without making him finish. She says she will ask the kitchen for plain broth; no second attempt is shown.
 - **Reported memory:** Tells Percy about her own mother's soup, the kitchen smell, and being allowed to stir from the counter; she also refers to the Jersey-shore shell-bucket memory already told in Chapter 091. These are Clarisse's memories, not Silena's or Percy's.
+
+### Chapter 095 · witnessed / reported / unknown
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** FIRSTHAND: stops Annabeth's practice without diagnosing her, helps move her to shade and Cabin Three, carries water and keeps the doorway clear. She tells a counselor the north trail is closed until its braces are checked; she takes Annabeth's sketch to Chiron as inspection information, not authorization to work. She offers practical support but leaves medical decisions to Will and accepts Annabeth's privacy.
+- **Carry-forward:** No new injury or medical expertise is established. Inspection results for the north-trail braces remain unknown.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: takes the outer boundary in the joint beach drill, misses a whistle under the surf, and helps move the stop signal into clear view. She names her own mistaken adjustment after Attempt Two, waits for the revised call, and helps mark a return lane away from the camp trail. The Poseidon-sibling team later holds the arch within its boundary; no injury is established.
+- **Carry-forward:** Clarisse and Silena remain Percy’s Poseidon half-sisters. She accepts Annabeth's stop calls and remains part of the supervised beacon team; the north-trail brace inspection from Chapter 095 is still unresolved.

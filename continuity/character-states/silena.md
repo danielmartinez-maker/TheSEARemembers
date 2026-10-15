@@ -152,3 +152,13 @@
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** FIRSTHAND: checks on Percy, brings tea and a sailor song, washes her hands, uses a separate cup, offers a choice about singing, and leaves for her dinner shift. She reports that her own mother used to hum the song while braiding hair. She does not kiss Percy or share his cup while he is ill.
 - **Carry-forward:** Her mother's memory remains distinct from Clarisse's mother and from Percy's private Sally memory. No new letter or gift is sent.
+
+### Chapter 095 · witnessed / reported / unknown
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** FIRSTHAND: fetches Will, brings water and offers a cool cloth with Annabeth's permission; removes it when Annabeth says it makes her shiver. Silena keeps her dinner shift, returns after work, and sings the sailor song she associates with her own mother. The song is not Sally's, and it is not represented as a fever treatment.
+- **Carry-forward:** Silena's mother's memory stays distinct from Clarisse's and Percy's. No diagnosis, cure, or new family relationship is established.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: tells Percy what Thalia said she sent to Grover; the Iris-message's receipt is not shown. During training, Silena controls the lower water curve, recognizes when laughter disrupted her hold, and later asks for a separate rhythm from Clarisse. She helps check the route to the sea and makes room to step clear. At dinner she keeps the group's record and Annabeth's privacy in view.
+- **Carry-forward:** Silena remains Percy's Poseidon sister and Clarisse's sister; no new gift or relationship change is established. The beacon stays lit, and the trail inspection from Chapter 095 remains pending.

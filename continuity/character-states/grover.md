@@ -118,3 +118,13 @@
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** Visits Percy with enchiladas, asks before leaving food, keeps his distance and shares camp news. Percy asks him to pass along thanks only if he naturally sees the campers; Grover accepts that there is no special errand.
 - **Carry-forward:** Their close friendship is reaffirmed; no new duty or injury is established.
+
+### Chapter 095 · reported / unknown
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** Thalia sends an Iris-message with Annabeth's permission: her fever is down, she is staying in Cabin Three today, and she wants toast. Grover is the intended recipient, but Chapter 095 does not show receipt or reply. In Chapter 096, Silena tells Percy what Thalia said she sent; Grover's presence at later training does not establish that he saw the Iris-message.
+- **Carry-forward:** Grover's Chapter 095 message knowledge is unconfirmed. In Chapter 096 he serves as timekeeper, hears Annabeth's public statement that she had been sick, and follows her approved safety/recording boundaries. He does not learn the dream, illness cause or original-life memories.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: acts as timer and caller for the joint water/strike practice, records each attempt and helps test the calls. The surf masks part of his whistle; a red card and clear sightlines become a backup stop signal. He witnesses the water-only and mixed exercises, then the supervised beacon test. He does not record Annabeth's private illness details.
+- **Knowledge / carry-forward:** Chapter 095 does not confirm he saw the Iris-message. In Chapter 096 he hears Annabeth say publicly that she had been sick and that Will cleared the short exercise. Her dream and illness cause remain unknown to him; no reply to the Iris-message is recorded.

@@ -312,56 +312,56 @@
     {
       "chapter": 23,
       "path": "chapters\\023-sally-s-blue.md",
-      "body_words": 10016,
+      "body_words": 10021,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.237,
+      "dialogue_line_ratio": 0.238,
       "median_paragraph_words": 16
     },
     {
       "chapter": 24,
       "path": "chapters\\024-the-climbing-wall.md",
-      "body_words": 10001,
+      "body_words": 10016,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
         {
-          "line": 99,
+          "line": 95,
           "text": "\"Uh-huh,\" Thalia said. She was sixteen to Annabeth's twelve, tall, punk, black hair with a silver streak, ripped jeans jacket over her camp shirt even in the warming air. Safety pins in her ears shaped like tiny lightning bolts. She'd been at camp fo"
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.268,
+      "dialogue_line_ratio": 0.27,
       "median_paragraph_words": 15
     },
     {
       "chapter": 25,
       "path": "chapters\\025-night-watches.md",
-      "body_words": 10020,
+      "body_words": 10000,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.244,
+      "dialogue_line_ratio": 0.245,
       "median_paragraph_words": 15
     },
     {
       "chapter": 26,
       "path": "chapters\\026-the-roof.md",
-      "body_words": 10014,
+      "body_words": 10009,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.248,
+      "dialogue_line_ratio": 0.246,
       "median_paragraph_words": 17
     },
     {
       "chapter": 27,
       "path": "chapters\\027-the-library.md",
-      "body_words": 10009,
+      "body_words": 10019,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -372,7 +372,7 @@
     {
       "chapter": 28,
       "path": "chapters\\028-sparring.md",
-      "body_words": 10050,
+      "body_words": 10055,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -394,13 +394,13 @@
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.234,
+      "dialogue_line_ratio": 0.233,
       "median_paragraph_words": 19
     },
     {
       "chapter": 29,
       "path": "chapters\\029-rainy-day.md",
-      "body_words": 10005,
+      "body_words": 10020,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -410,13 +410,13 @@
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.254,
-      "median_paragraph_words": 15
+      "dialogue_line_ratio": 0.255,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 30,
       "path": "chapters\\030-amphitrite-visits.md",
-      "body_words": 10144,
+      "body_words": 10174,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -427,7 +427,7 @@
     {
       "chapter": 31,
       "path": "chapters\\031-the-promise.md",
-      "body_words": 10001,
+      "body_words": 10015,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -438,18 +438,18 @@
     {
       "chapter": 32,
       "path": "chapters\\032-triton-visits.md",
-      "body_words": 10043,
+      "body_words": 10025,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.265,
+      "dialogue_line_ratio": 0.266,
       "median_paragraph_words": 17
     },
     {
       "chapter": 33,
       "path": "chapters\\033-architecture.md",
-      "body_words": 10004,
+      "body_words": 10039,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -460,7 +460,7 @@
     {
       "chapter": 34,
       "path": "chapters\\034-mythomagic-tournament.md",
-      "body_words": 10136,
+      "body_words": 10140,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -476,7 +476,7 @@
     {
       "chapter": 35,
       "path": "chapters\\035-the-letter.md",
-      "body_words": 10017,
+      "body_words": 10020,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -487,12 +487,12 @@
     {
       "chapter": 36,
       "path": "chapters\\036-five-months.md",
-      "body_words": 10096,
+      "body_words": 10061,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.241,
+      "dialogue_line_ratio": 0.242,
       "median_paragraph_words": 16
     },
     {
@@ -1251,29 +1251,24 @@
     {
       "chapter": 95,
       "path": "chapters\\095-annabeth-sick.md",
-      "body_words": 6977,
-      "shortfall": 3023,
-      "passes_length": false,
+      "body_words": 10129,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.189,
-      "median_paragraph_words": 20
+      "dialogue_line_ratio": 0.267,
+      "median_paragraph_words": 18
     },
     {
       "chapter": 96,
       "path": "chapters\\096-training-together.md",
-      "body_words": 6878,
-      "shortfall": 3122,
-      "passes_length": false,
-      "age_review_cues": [
-        {
-          "line": 245,
-          "text": "Thalia watched them and felt something warm and achy in her chest, not jealousy, just that big-sister feeling of watching your baby sister grow up too fast. She had been there when Annabeth was seven and afraid of thunderstorms, hiding in Thalia's bu"
-        }
-      ],
+      "body_words": 10144,
+      "shortfall": 0,
+      "passes_length": true,
+      "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.216,
-      "median_paragraph_words": 21
+      "dialogue_line_ratio": 0.207,
+      "median_paragraph_words": 24
     },
     {
       "chapter": 97,
@@ -1320,17 +1315,17 @@
     {
       "chapter": 100,
       "path": "chapters\\100-the-thousandth-campfire.md",
-      "body_words": 6716,
-      "shortfall": 3284,
+      "body_words": 6707,
+      "shortfall": 3293,
       "passes_length": false,
       "age_review_cues": [
         {
-          "line": 361,
+          "line": 359,
           "text": "Percy held out his hand, palm open, a little shaky, exactly the way he had when he was twelve."
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.172,
+      "dialogue_line_ratio": 0.173,
       "median_paragraph_words": 18
     },
     {
@@ -2451,7 +2446,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1791402,
+  "window_comparisons": 1797869,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2462,9 +2457,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 170,
-  "failing": 23,
-  "total_shortfall": 145183,
+  "passing": 172,
+  "failing": 21,
+  "total_shortfall": 139047,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }

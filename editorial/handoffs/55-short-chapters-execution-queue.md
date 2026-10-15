@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 23 still short
+# Expansion handoff queue: original 55, now 21 still short
 
-**Exact-source candidate QA:** 193 numbered files; 170 length-pass, 23 short, and 145,183 body words remain to the floor. Full-manuscript audit: 1,791,402 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 1,941,954 windows, zero exact matches. GitHub Actions verification for the next published commit is tracked separately in PR #103. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Exact-source candidate QA:** 193 numbered files; 172 length-pass, 21 short, and 139,047 body words remain to the floor. Full-manuscript audit: 1,797,869 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files and 1,948,421 windows, zero exact matches. All 29 source-anchored memory regression checks pass. GitHub Actions verification for the next published commit is tracked separately in PR #103. Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **145,183 words** across **23** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified mandatory shortfall: **139,047 words** across **21** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 pass the length gate; Chapters 091–094 pass; Chapter 095 is next chronologically.
+**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 pass the length gate; Chapters 091–096 pass; Chapter 097 is next chronologically.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -44,7 +44,7 @@
 
 ## Wave B · 091–110
 
-16 of 20 chapters remain short, with **105,026 body words short**. Chapters 091–094 pass the length gate. These are sequential editorial assignments, not independent drafts.
+14 of 20 chapters remain short, with **98,890 body words short**. Chapters 091–096 pass the length gate. These are sequential editorial assignments, not independent drafts.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -52,12 +52,12 @@
 | [092](../../chapters/092-jealousy-ii.md) | Jealousy II | 10,062 | 0 | **LENGTH PASS; continuity handoff added; independent editorial review open** |
 | [093](../../chapters/093-movie-night.md) | Movie Night | 10,114 | 0 | **FOUR PHASES COMPLETE; LOCAL QA PASS** |
 | [094](../../chapters/094-sick-day.md) | Sick Day | 10,032 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
-| [095](../../chapters/095-annabeth-sick.md) | Annabeth Sick | 6,977 | 3,023 | **NOT STARTED** |
-| [096](../../chapters/096-training-together.md) | Training Together | 6,878 | 3,122 | **NOT STARTED** |
+| [095](../../chapters/095-annabeth-sick.md) | Annabeth Sick | 10,129 | 0 | **FOUR PHASES COMPLETE; local QA PASS; hosted Actions pending** |
+| [096](../../chapters/096-training-together.md) | Training Together | 10,144 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
 | [097](../../chapters/097-the-map.md) | The Map | 6,862 | 3,138 | **NOT STARTED** |
 | [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 6,261 | 3,739 | **NOT STARTED** |
 | [099](../../chapters/099-mothers.md) | Mothers | 5,884 | 4,116 | **NOT STARTED** |
-| [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 6,716 | 3,284 | **NOT STARTED** |
+| [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 6,707 | 3,293 | **TARGETED PRIVACY/CANON CORRECTION; full four-phase revision still pending** |
 | [101](../../chapters/101-a-name-for-it.md) | A Name for It | 2,093 | 7,907 | **NOT STARTED** |
 | [102](../../chapters/102-not-a-competition.md) | Not a Competition | 1,538 | 8,462 | **NOT STARTED** |
 | [103](../../chapters/103-the-things-we-remember.md) | The Things We Remember | 1,520 | 8,480 | **NOT STARTED** |
@@ -113,8 +113,8 @@ The five expansions are **source-reviewed for bounded callbacks and length**, no
 - **Packet 03: Chapters 76–80.** Verify Chapter 75 closing scene, reconstruct each chapter's witnesses and promises, stage 76 before 77, and check Chapter 81 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
 - **Packet 04: Chapters 81–85.** Verify Chapter 80 closing scene, reconstruct each chapter's witnesses and promises, stage 81 before 82, and check Chapter 86 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
 - **Packet 05: Chapters 86–90.** Verify Chapter 85 closing scene, reconstruct each chapter's witnesses and promises, stage 86 before 87, and check Chapter 91 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 06: Chapters 91–95.** Verify Chapter 90 closing scene, reconstruct each chapter's witnesses and promises, stage 91 before 92, and check Chapter 96 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 07: Chapters 96–100.** Verify Chapter 95 closing scene, reconstruct each chapter's witnesses and promises, stage 96 before 97, and check Chapter 101 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
+- **Packet 06: Chapters 91–95.** Chapter 095 is now four-phase complete with local QA; the Chapter 096 opening was checked and its fever-watch recap corrected. Chapters 091–094 retain their individual statuses above. Continue sequentially from Chapter 096 and its own adjacent-scene checks.
+- **Packet 07: Chapters 96–100.** Chapter 096 is four-phase complete with local QA; continue sequentially at Chapter 097. Verify Chapter 100's closing scene and check Chapter 101's opening before accepting the packet. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: 097–100 pending.**
 - **Packet 08: Chapters 101–105.** Verify Chapter 100 closing scene, reconstruct each chapter's witnesses and promises, stage 101 before 102, and check Chapter 106 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
 - **Packet 09: Chapters 106–110.** Verify Chapter 105 closing scene, reconstruct each chapter's witnesses and promises, stage 106 before 107, and check Chapter 111 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
 - **Packet 10: Chapters 114–117.** Verify Chapter 113 closing scene, reconstruct each chapter's witnesses and promises, stage 114 before 115, and check Chapter 118 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**

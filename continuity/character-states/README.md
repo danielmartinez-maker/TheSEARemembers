@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Coverage status:** The index contains the foundational Chapter 001–022 records, source-verified additions for Chapters 023–036, and scoped event updates for Chapters 090–092. Chapters 037–089 and 093–193 remain unaudited in these cumulative files; this selective coverage is not an unbroken character-memory certification or full literary review.
+**Coverage status:** The index contains the foundational Chapter 001–022 records, source-verified additions for Chapters 023–036, and scoped event updates for Chapters 090–096. Chapters 037–089 and 097–193 remain unaudited in these cumulative files; this selective coverage is not an unbroken character-memory certification or full literary review.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -101,10 +101,21 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Chapter 093 handoff](../../editorial/handoffs/ch093-movie-night.md) and [structured continuity record](../ch093.yaml): completes the Ch092 training plan, carries the symptom and palm-burn checks, and records the supervised overnight/movie equipment rules and first-bell return.
 - New scoped supporting-character event entries: [Austin](austin.md), [Connor](connor.md), [Frank](frank.md), [Hazel](hazel.md), [Juniper](juniper.md), [Kayla](kayla.md), [Piper](piper.md), and [Travis](travis.md).
 - **Ch093→Ch094 boundary:** Percy returns to Cabin Three at first bell and lies down; Ch094 opens when he is ill later that morning. The illness cause is unknown. Thalia's right palm remains tender under a fresh wrap and still needs follow-up. Annabeth's temporary shared bunk remains three bunks from Percy; the movie-night shirt and Hazel blanket have been returned.
-- **Coverage limit:** Chapter 093 is scoped; Chapters 037–089 and 094–193 remain unaudited in the per-character cumulative files.
+- **Coverage limit:** Chapter 093 is scoped; Chapters 037–089 and 094–096 have separate scoped entries, while Chapters 097–193 remain unaudited in the per-character cumulative files.
 
 ## Chapter 094 continuation
 
 - [Chapter 094 handoff](../../editorial/handoffs/ch094-sick-day.md): Percy-limited sick-day care, Percy/Annabeth relationship, Clarisse's and Silena's distinct reported mother memories, illness and temperature status, Thalia's right-palm restriction, approved bunk, cards and pending thank-you.
 - Scoped Chapter 094 entries added for Percy, Annabeth, Clarisse, Silena, Thalia, Will, Chiron, Grover, Ella, Travis, Connor and Beckendorf (reported-only).
-- Coverage remains scoped. Chapters 037–089 and 095–193 have not been audited by these Chapter 094 event updates.
+- Coverage remains scoped. Chapters 037–089 and 095–096 have separate entries; Chapters 097–193 are not included in the Chapter 094 event update.
+
+## Chapter 095 continuation
+
+- [Chapter 095 handoff](../../editorial/handoffs/ch095-annabeth-sick.md) and [structured continuity](../ch095.yaml) add scoped records for Percy, Annabeth, Thalia, Clarisse, Silena, Will, Chiron, Grover and Katie. These track the fever and power uncertainty, injury restrictions, a reported childhood memory, the inspection handoff, and the limited dawn message.
+- The Chapter 100 campfire retelling was corrected to preserve Annabeth's privacy boundary; Katie's knowledge remains limited to the general fact of illness, and Grover does not repeat the care details.
+- **Coverage limit:** Chapter 095 is a source-scoped update, not continuous memory coverage. Chapters 037–089 and 097–193 still require scene-by-scene entries.
+
+## Chapter 096 continuation
+
+- [Chapter 096 handoff](../../editorial/handoffs/ch096-training-together.md) and [structured continuity](../ch096.yaml) add scoped entries for Percy, Annabeth, Thalia, Clarisse, Silena, Chiron, Grover, Ella and Will. These track the fever clearance, unconfirmed Iris-message receipt, separate water/lightning protocol, public privacy boundary, beacon outcome and next-map handoff.
+- **Coverage limit:** Chapter 096 is a source-scoped update. Chapters 037–089 and 097–193 remain outside these cumulative memory entries; this is not continuous whole-manuscript coverage.
