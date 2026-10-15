@@ -184,3 +184,8 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: directs the stack crew, helps lower and widen the pile, and keeps the fire lane open. She confirms that Percy came from the Sound and that she pointed him toward Cabin Three; she says she did not fight a Minotaur with him.
 - **Carry-forward:** Clarisse remains Poseidon's daughter and Percy's and Silena's sister. The Chapter 098 next-morning conversation with Poseidon remains unshown.
+
+### Chapter 101 · witnessed / reported / unknown
+- **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
+- **State:** FIRSTHAND: helps level the shrine-bookcase frame and sees its planned load test remain pending. Repairs the shield rack by supporting its low post with a flat stone, then coaches Noah through a single-shield turn, stopping him from speeding up to prove himself.
+- **Carry-forward:** Noah plans to try the shield turn again tomorrow. Chapter 102's spear lesson is separate. Clarisse remains Poseidon's daughter and Percy's and Silena's sister; no new injury is established.

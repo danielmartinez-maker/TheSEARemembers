@@ -1,0 +1,51 @@
+# Chapter 101 — A Name for It: continuity and editorial handoff
+
+**Source:** `chapters/101-a-name-for-it.md` on PR #103's audit branch. **Body words:** 10,321 by the repository's whitespace-token method, revised from 2,093 (+8,228 net). This is a scene-level review of Chapter 101 with the Chapter 100 close and Chapter 102 opening checked; it is not manuscript-wide literary signoff.
+
+## Timeline and viewpoint
+
+- **Relative time:** Opens at breakfast the morning after Chapter 100's late-night Half-Blood Hill scene and the fire banked for morning; continues through the day and dinner. Chapter 102 opens the following morning. Exact calendar date, year and time of day remain unknown.
+- **POV:** Percy Jackson, third-person limited. Thalia's childhood memory of Annabeth arranging blocks is reported in dialogue; Annabeth says she does not remember it. Percy does not acquire either sister's childhood memory.
+- **Locations:** Dining pavilion, Hades shrine work area, Cabin One porch, camp paths, shield rack and arena.
+- **Ages:** Not stated or advanced here.
+- **Adjacent scenes:** Chapter 100 ends late at night with Percy and Annabeth on Half-Blood Hill; Chapter 101 opens at breakfast the next morning. Chapter 102 opens at breakfast the morning after this chapter, with Annabeth teaching Noah spear footwork and Percy noticing his own jealousy. The calendar date remains unknown.
+
+## Phase 1 — witnessed, reported and unknown facts
+
+- **Percy / Annabeth:** They remain established partners. Percy asks how their relationship label feels in their current life; Annabeth says she wants to be his girlfriend now by her own choice. They keep boyfriend/girlfriend and agree “favorite person” is a mutual nickname, not a replacement label. Annabeth initiates a kiss. They agree not to hide their relationship and to speak when something actually bothers them, without turning every walk or gesture into a formal check-in.
+- **Thalia / Annabeth:** Percy and Annabeth tell Thalia together. Thalia remembers Annabeth arranging blocks so small figures could see out; Annabeth says she cannot remember the blocks but believes Thalia. They leave room for Thalia to ask before telling a long childhood story, while Annabeth says Thalia need not pretend it never happened. No memory is transferred.
+- **Thalia / injury / schedule:** Her right palm remains cleanly wrapped and out of use; she uses her left hand and receives no medical check or clearance. She says she should take her schedule to Chiron; delivery is not shown. Beryl's letter and choice about replying are not discussed.
+- **Shrine shelf:** Annabeth tests the space and reach, adjusts the lower shelf after an unnamed younger camper checks the paper height mark, and considers Thalia's concern about a corner catching someone from the dining path. The frame is stable, backing is attached and left to set. No books are moved or loaded. The planned test is empty first, then one thin, broad and heavier book separately with the path clear; results remain pending.
+- **Clarisse / Silena / orange:** Clarisse repairs a shield rack with a stone under the low post and later coaches Noah through carrying and turning with one shield. Silena gives Percy half an orange after he reaches for the orange on her plate; he still owes her one whole orange. No one authorizes Clarisse or Silena to resolve Percy's relationship for Annabeth.
+- **Noah:** Percy hears Noah identify himself and ask Clarisse for help with shield turns. Noah learns a one-shield turn, stops when the shield clips the rack, then completes several controlled tries. He says he will try again tomorrow. Chapter 102's spear lesson is a separate next-morning scene; do not claim he mastered it here.
+- **Unseen carry-forward:** Tyson is not present or mentioned. His last confirmed Chapter 100 state remains asleep beside Ella at the fire; a return to Cabin Three and any forge progress are still unshown. The dance photograph, print and distribution are not revisited. The Chapter 097 dock and north-trail hazards remain untouched.
+
+## Phase 2 — canon and continuity checks
+
+- Keeps Percy and Annabeth's established romance intact while grounding their current choice in their present conversation. Old-life memories do not decide for Annabeth.
+- Preserves the rule that only Percy and Annabeth autobiographically remember the erased life; Thalia's blocks story remains her own reported childhood memory, which Annabeth cannot recall.
+- Keeps Thalia and Annabeth as Zeus/Grace sisters and Clarisse, Silena and Percy as Poseidon siblings. No parentage changes, new secret disclosures or age transitions are added.
+- Keeps Thalia's right palm wrapped and uncleared, and distinguishes a stated intention to bring the schedule to Chiron from a completed delivery.
+- Leaves the shelf unloaded and the work unproven under weight. The lower reach adjustment and corner check lead to a planned measured test rather than an assumed safety result.
+- Reads Chapter 102's opening as the following morning. Its jealousy discussion should build from the relationship conversation here without repeating the same memory-choice speech; Noah's spear practice does not replace or retroactively complete his shield lesson.
+
+## Phase 3 — substantive revision and line edit
+
+- **2,093 → 10,308 body words (+8,215 net).** Expanded through relationship conversation, Thalia's specific memory exchange, shelf planning and measurement, an accessibility check, a controlled shelf build, Silena's orange boundary, Clarisse's shield-rack repair and Noah's coached lesson.
+- Removed repeated reassurance and duplicate book-category debate. Replaced a generic “information” line with Annabeth naming the measured floor difference and its use for the shim. Dialogue fragments remain where they carry the characters' timing or correction; the revision avoids turning every action into a repeated emotional summary.
+- The shelf work has a visible sequence: identify a problem, measure it, change the drawing, test fit and stability, then stop before loading books. The chapter ends with the next physical test still pending.
+
+## Phase 4 — mechanical verification
+
+- **Body length:** 10,321 words by `audit_chapter_length.py`'s whitespace-token method.
+- **Full manuscript:** 193/193 indexed and ordered; 177 meet 10,000 words and 16 remain short, totaling 116,854 words to the floor. The chapter-only scan checked 1,821,045 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covered 196 files, 2,029,902 body words and 1,971,597 windows, with zero exact matches.
+- **Structure and memory:** All 33 source-anchored memory checks pass; the evidence index writes 193 provisional chapter locators; Python compile and chapter structure checks pass. One lexical introduction cue remains for human review in Chapter 014. Hosted Actions are tied to the pushed PR head and checked after publication.
+- **Coverage limit:** These mechanical results and the Chapter 101 scene review do not certify semantic, character-psychology or literary quality across all 193 chapters.
+
+## Carry-forward to Chapter 102
+
+- Percy and Annabeth remain established partners; “favorite person” is a mutual nickname. The current relationship conversation happened, and the following chapter should not restart it as a new relationship.
+- Thalia's right palm remains wrapped and uncleared. Her schedule delivery to Chiron is not shown. Annabeth does not remember the blocks Thalia reports.
+- The shrine frame has backing attached and is left to set; it has not been loaded with books. Silena's title list is still pending Annabeth's approval. The reach test lowered the planned bottom shelf; the book test remains to be performed.
+- Noah has learned one controlled shield turn from Clarisse and plans to try again. Chapter 102's spear work with Annabeth is a new lesson.
+- Percy owes Silena one whole orange after accepting half. Tyson's last confirmed location remains beside Ella at the Chapter 100 fire; Chapter 101 supplies no new evidence about his return or forge work.

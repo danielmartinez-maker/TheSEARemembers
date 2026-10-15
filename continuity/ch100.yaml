@@ -5,7 +5,7 @@ status: "revised; 10,190 body words; local QA passed"
 chronology:
   relative_time: "Morning through late night on the day of the thousandth recorded campfire. Exact date and year remain unknown."
   sequence: "Cabin Three wake-up; planning and fire-stack preparation; optional art stations; feast; sourced story circle; Grover's speech; timeline scroll; dance; family scene; Percy and Annabeth at Half-Blood Hill."
-  adjacent_gaps: "Chapter 099 ends after a late-August beach gathering; its exact relation to this event is unknown. Chapter 101 opens at breakfast with Percy and Annabeth's relationship conversation; exact elapsed time is not stated."
+  adjacent_gaps: "Chapter 099 ends after a late-August beach gathering; its exact relation to this event is unknown. Chapter 100 ends late at night, and Chapter 101 opens at breakfast the next morning. Exact calendar date and year remain unknown."
 pov: "Percy Jackson, third-person limited"
 scene_locations:
   - "Cabin Three"
@@ -24,7 +24,7 @@ preceding_scene_verified:
 following_scene_verified:
   chapter: 101
   locator: "chapters/101-a-name-for-it.md, opening breakfast conversation"
-  context: "Percy and Annabeth remain established partners and discuss what their relationship means in their current life. Chapter 100 does not change their status or label. Exact elapsed time is not stated."
+  context: "Percy and Annabeth remain established partners and discuss what their relationship means in their current life. Chapter 100 ends late at night; Chapter 101 opens at breakfast the next morning."
 relationship_memory:
   - pair: "Percy / Annabeth"
     last_shared_scene_chapter: 100
@@ -128,7 +128,7 @@ items_promises_injuries:
     current_status: "Last seen folded at the foot of Percy's Cabin Three bed; not mentioned or handled in Chapter 100."
 unresolved_tensions:
   - "Exact date/year and relation between Chapter 099's beach fire and Chapter 100's recorded thousandth fire remain unknown."
-  - "Exact elapsed time to Chapter 101 is not stated."
+  - "Chapter 101 opens at breakfast the morning after Chapter 100's late-night close; exact hours, date and year are unknown."
   - "Beryl's current location, sobriety and any future visit remain unverified; Thalia has not replied."
   - "Thalia's right palm remains uncleared."
   - "Tyson's working hinge, birdhouse site and return from forge leave remain unresolved."

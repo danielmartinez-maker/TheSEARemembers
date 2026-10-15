@@ -182,3 +182,8 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: organizes optional shirts, crowns and face paint, leaving alternatives for campers who decline. She shares a chosen part of her first-night blanket story privately with Percy, then decides not to tell it publicly and listens to another camper. She has no obligation to expand the story.
 - **Carry-forward:** Silena remains Poseidon's daughter and Clarisse's and Percy's sister; she makes no new promise about Maria or future storytelling.
+
+### Chapter 101 · witnessed / reported / unknown
+- **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
+- **State:** FIRSTHAND: brings a title list for the shrine shelf, helps Annabeth check dimensions, and plans to wait for approval before moving books. She offers Percy half an orange after he reaches toward the orange on her plate; he still owes her one whole orange.
+- **Carry-forward:** The shelf remains unloaded and Silena's list is not yet approved. No new family history or promise about Maria is added.

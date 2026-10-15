@@ -1317,12 +1317,12 @@
     {
       "chapter": 101,
       "path": "chapters\\101-a-name-for-it.md",
-      "body_words": 2093,
-      "shortfall": 7907,
-      "passes_length": false,
+      "body_words": 10321,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.256,
+      "dialogue_line_ratio": 0.331,
       "median_paragraph_words": 8
     },
     {
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1812817,
+  "window_comparisons": 1821045,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2443,9 +2443,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 176,
-  "failing": 17,
-  "total_shortfall": 124761,
+  "passing": 177,
+  "failing": 16,
+  "total_shortfall": 116854,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }

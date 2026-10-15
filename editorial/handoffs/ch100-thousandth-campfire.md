@@ -7,7 +7,7 @@
 - **Relative time:** Opens on the morning of the thousandth recorded campfire, continues through the day's preparation and evening celebration, and ends late at night on Half-Blood Hill. Exact calendar date and year are unknown.
 - **POV:** Percy Jackson, third-person limited throughout. He witnesses the campfire and the public storytelling; his knowledge of the Minotaur belongs to the erased life and remains private between him and Annabeth. No other character gains that autobiographical memory.
 - **Locations:** Cabin Three, dining pavilion, amphitheater, marked fire lane, camp green and Half-Blood Hill. The chapter does not use the dock or open the north trail.
-- **Adjacent scenes:** Chapter 099 ends after a late-August beach gathering; Chapter 100's date and relation to that fire are not specified. Chapter 101 opens with a breakfast conversation about Percy and Annabeth's relationship; no exact elapsed interval is stated in Chapter 100.
+- **Adjacent scenes:** Chapter 099 ends after a late-August beach gathering; Chapter 100's date and relation to that fire are not specified. Chapter 100 ends late at night on Half-Blood Hill; Chapter 101 opens at breakfast the next morning. Exact calendar date and year remain unknown.
 
 ## Phase 1 — witnessed, reported and unknown facts
 
@@ -37,7 +37,7 @@
 
 - Expanded **6,707 → 10,190 body words (+3,483 net)** through the event-preparation problem, optional art and story choices, sourced timeline work, a camp arrival correction, Chiron's count explanation, Grover's speech, and a consent-led dance and family close.
 - Kept one Percy-limited lens, differentiated Clarisse's action-first care, Silena's independent choice, Thalia's guarded tenderness, and Annabeth's practical leadership. Removed repeated exposition and made provenance and privacy choices visible through concrete dialogue and actions.
-- Read Chapter 099's final scene and Chapter 101's opening. The Chapter 099/100 calendar link, whether their two fires are the same gathering, and the exact gap to Chapter 101 remain unknown.
+- Read Chapter 099's final scene and Chapter 101's opening. Chapter 101 is the next morning after Chapter 100's late-night close. The Chapter 099/100 calendar link and whether their two fires are the same gathering remain unknown.
 
 ## Phase 4 — mechanical verification
 
@@ -54,5 +54,5 @@
 - Only Percy and Annabeth remember the erased life. Amphitrite saw the current camp's story and dance, but Percy did not disclose old-life memories or the rewrite.
 - Thalia's right palm remains wrapped and uncleared. Beryl is absent, the letter remains Thalia's private choice, and Jason has no new information.
 - Tyson's tools remain last known at the forge; the hinge and birdhouse remain incomplete. He is last seen asleep beside Ella at the fire, not returning to Cabin Three.
-- The fire is banked for the next morning. The timeline's storage is unknown. Exact dates, elapsed time, and relation to Chapter 099's beach bonfire remain unknown.
+- The fire is banked for the next morning; Chapter 101 opens at breakfast that morning. The timeline's storage is unknown. Exact dates and the relation to Chapter 099's beach bonfire remain unknown.
 - Chapter 097's flexible dock, closed north trail, and unreported survey items remain unresolved; Chapter 100 does not repair them.

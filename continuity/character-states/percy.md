@@ -193,3 +193,9 @@
 - **State:** FIRSTHAND: attends the campfire, helps correct a leaning fire stack, dances with Annabeth, and stays with her at Half-Blood Hill. He publicly corrects the Minotaur rumor only about his current arrival from the Sound; he does not disclose the erased-life memory. Clarisse confirms what she witnessed.
 - **Relationship / privacy:** Percy and Annabeth remain established partners; the public dance caption is limited to what they approve. Annabeth nods before Triton takes one photograph; they do not request a print. Percy does not repeat Annabeth's illness dream or private half-asleep statements.
 - **Carry-forward:** He is last seen on Half-Blood Hill with Annabeth. Amphitrite attends the event but is not told about the rewrite or his old-life memories.
+
+### Chapter 101 · witnessed / reported / unknown
+- **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
+- **State:** FIRSTHAND: asks Annabeth how their relationship label feels in this life; she chooses to be his girlfriend now, and they keep the label with “favorite person” as a mutual nickname. They tell Thalia together. Percy hears Thalia's memory of Annabeth arranging blocks but does not remember it himself.
+- **Work / relationships:** Helps Annabeth measure and build the shrine bookcase; sees the younger camper's reach check and the unloaded shelf plan. Clarisse coaches Noah through a one-shield turn. Percy accepts half an orange from Silena and still owes her one whole orange.
+- **Carry-forward:** Chapter 102 opens the following morning. The shelf has not been load-tested; Thalia's right palm remains wrapped and uncleared. No memory is transferred to Percy, and Tyson's Chapter 100 return status remains unknown.

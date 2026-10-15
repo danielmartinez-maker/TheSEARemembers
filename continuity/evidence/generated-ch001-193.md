@@ -1607,17 +1607,17 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/101-a-name-for-it.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 37, Percy 36, Thalia 23, Clarisse 12, Silena 8, Poseidon 1, Zeus 1
+- Name appearances (not proof of presence): Annabeth 122, Percy 114, Clarisse 63, Silena 52, Thalia 49, Chiron 1, Zeus 1, Ella 1
 - Event/action candidates to inspect in context:
-  - Line 3: Percy had been dating Annabeth through the displacement and their time here. Every remembered year counted too.
-  - Line 9: Percy had been turning that over for days. It seemed ridiculous to ask a girl he had already loved for years whether she wanted to be his girlfriend. She remembered those years too, and they had kept choosing each other. He still wanted to
-  - Line 35: Annabeth's mouth curved. "A very long route. You could've just asked."
-  - Line 77: "I want something else too," Annabeth said.
-  - Line 107: "You're aiming too low," Annabeth said.
+  - Line 7: Percy knew better than to interrupt her when she was measuring something. He also knew the page had nothing to do with his question. It was probably a shelf or a bracket or a note to herself about a shelf or bracket. Annabeth had a way of m
+  - Line 11: They were together. They had been together before the displacement and had kept choosing each other here. The first current-life kiss had not erased the ones he remembered, and the years they both carried had not made every new thing a copy
+  - Line 15: Percy looked down at his own breakfast. Clarisse had already finished, which meant she had eaten half the fruit from the middle platter while claiming she was only making sure it was ripe. Silena was telling her that this was not how fruit
+  - Line 21: Percy made a face that was meant to say *I have a normal reason to be looking at you.* It probably said the opposite.
+  - Line 37: “I’m not nervous,” Percy said.
 - Memory/disclosure candidates to inspect:
-  - Line 25: Percy rubbed his palms on his shorts. "I know what we were before. I remember the whole thing. But I don't want to act like those memories make decisions for you now."
-  - Line 127: Annabeth looked at Percy, then back at her sister. "We talked about us. About what we want now, not what we remember wanting before."
-  - Line 221: Silena smiled. "We’ve been waiting for you two to remember that you can talk about the small things too."
+  - Line 143: “Percy, it is easy.” She turned the pencil between her fingers. “I want to be your girlfriend. I want to be with you. I’m not doing it because I think I owe the girl I was something, and I’m not doing it because I remember how we used to be
+  - Line 173: “She didn't decide it for me.” Annabeth's voice sharpened. “I remember loving you. I also love you now. If I ever stop wanting this, I'll tell you. Don't protect me from the choice.”
+  - Line 521: Annabeth did not answer right away. “I remember loving him. I remember what we were. Those memories are mine, and they matter. They don't get to make a decision for me now. I like Percy now. I want to be with him now.”
 
 ## 102: Chapter 102: Not a Competition
 

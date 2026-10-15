@@ -195,3 +195,9 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: helps plan a wide, clear route, makes stories optional, and limits the public dance caption. She remains an established partner with Percy and dances with him after choosing to nod to Triton's camera. The exact step/apology count stays in Ella's private notes.
 - **Privacy / carry-forward:** She says only that she was sick; she will answer questions herself and does not authorize the camp to repeat the fever-dream or half-asleep details. Annabeth and Percy remain the only autobiographical holders of the erased life.
+
+### Chapter 101 · witnessed / reported / unknown
+- **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
+- **State:** FIRSTHAND: chooses to remain Percy's girlfriend in their current life and agrees that “favorite person” can be their mutual nickname without replacing the established label. She initiates a kiss and helps Percy tell Thalia. Thalia reports a block-building memory; Annabeth says she does not remember it but believes her.
+- **Work / boundary:** Designs and revises the shrine bookcase after checking a younger camper's reach and hearing Thalia's concern about the path-side corner. The frame is stable with backing left to set; no books are loaded. She controls when Percy handles materials and when she wants to work alone.
+- **Carry-forward:** The shelf test remains pending; no map or injury status changes. Percy and Annabeth remain the only autobiographical holders of the erased life.

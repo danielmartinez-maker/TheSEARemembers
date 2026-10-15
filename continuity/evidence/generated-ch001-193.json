@@ -12139,95 +12139,107 @@
       "path": "chapters/101-a-name-for-it.md",
       "title": "Chapter 101: A Name for It",
       "name_mentions": {
-        "Percy": 36,
-        "Annabeth": 37,
-        "Thalia": 23,
-        "Clarisse": 12,
-        "Silena": 8,
-        "Poseidon": 1,
-        "Zeus": 1
+        "Percy": 114,
+        "Annabeth": 122,
+        "Thalia": 49,
+        "Clarisse": 63,
+        "Silena": 52,
+        "Chiron": 1,
+        "Zeus": 1,
+        "Ella": 1
       },
       "event_cues_for_manual_review": [
         {
-          "line": 3,
+          "line": 7,
           "named": [
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "Percy had been dating Annabeth through the displacement and their time here. Every remembered year counted too."
+          "excerpt": "Percy knew better than to interrupt her when she was measuring something. He also knew the page had nothing to do with his question. It was probably a shelf or a bracket or a note to herself about a shelf or bracket. Annabeth had a way of m"
         },
         {
-          "line": 9,
+          "line": 11,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "They were together. They had been together before the displacement and had kept choosing each other here. The first current-life kiss had not erased the ones he remembered, and the years they both carried had not made every new thing a copy"
+        },
+        {
+          "line": 15,
+          "named": [
+            "Percy",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "Percy looked down at his own breakfast. Clarisse had already finished, which meant she had eaten half the fruit from the middle platter while claiming she was only making sure it was ripe. Silena was telling her that this was not how fruit"
+        },
+        {
+          "line": 21,
           "named": [
             "Percy"
           ],
-          "excerpt": "Percy had been turning that over for days. It seemed ridiculous to ask a girl he had already loved for years whether she wanted to be his girlfriend. She remembered those years too, and they had kept choosing each other. He still wanted to"
+          "excerpt": "Percy made a face that was meant to say *I have a normal reason to be looking at you.* It probably said the opposite."
         },
         {
-          "line": 35,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "Annabeth's mouth curved. \"A very long route. You could've just asked.\""
-        },
-        {
-          "line": 77,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "\"I want something else too,\" Annabeth said."
-        },
-        {
-          "line": 107,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "\"You're aiming too low,\" Annabeth said."
-        },
-        {
-          "line": 123,
+          "line": 37,
           "named": [
             "Percy"
           ],
-          "excerpt": "\"No,\" Percy said. \"We can just tell you.\""
+          "excerpt": "“I’m not nervous,” Percy said."
         },
         {
-          "line": 131,
+          "line": 43,
+          "named": [
+            "Percy",
+            "Clarisse"
+          ],
+          "excerpt": "Clarisse gave him the look she used when she had proved a point and did not need to say so. Percy found himself smiling despite the heat in his face."
+        },
+        {
+          "line": 45,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "\"We're together,\" Annabeth said. \"We’re still boyfriend and girlfriend. We also found a nickname we like. We want to keep checking what each of us needs.\""
+          "excerpt": "Annabeth came back for the sketchbook she had left beneath her place. She tucked the roster inside and gathered the loose pencils. “Ready?”"
         },
         {
-          "line": 137,
+          "line": 55,
           "named": [
-            "Annabeth"
+            "Percy"
           ],
-          "excerpt": "\"Yes,\" Annabeth said."
+          "excerpt": "They left the pavilion by the path that curved toward the shrine. The morning had settled into its ordinary camp sounds: a sword meeting a shield in the arena, a conch note from the lake, somebody calling for a missing shoe. Percy could see"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 25,
+          "line": 143,
           "named": [
             "Percy"
           ],
-          "excerpt": "Percy rubbed his palms on his shorts. \"I know what we were before. I remember the whole thing. But I don't want to act like those memories make decisions for you now.\""
+          "excerpt": "“Percy, it is easy.” She turned the pencil between her fingers. “I want to be your girlfriend. I want to be with you. I’m not doing it because I think I owe the girl I was something, and I’m not doing it because I remember how we used to be"
         },
         {
-          "line": 127,
+          "line": 173,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "“She didn't decide it for me.” Annabeth's voice sharpened. “I remember loving you. I also love you now. If I ever stop wanting this, I'll tell you. Don't protect me from the choice.”"
+        },
+        {
+          "line": 521,
           "named": [
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "Annabeth looked at Percy, then back at her sister. \"We talked about us. About what we want now, not what we remember wanting before.\""
+          "excerpt": "Annabeth did not answer right away. “I remember loving him. I remember what we were. Those memories are mine, and they matter. They don't get to make a decision for me now. I like Percy now. I want to be with him now.”"
         },
         {
-          "line": 221,
+          "line": 723,
           "named": [
+            "Clarisse",
             "Silena"
           ],
-          "excerpt": "Silena smiled. \"We’ve been waiting for you two to remember that you can talk about the small things too.\""
+          "excerpt": "He had a future and a past folded into the same relationship, and he did not know how to keep them from getting tangled. At the table, with Clarisse arguing over whose turn it was to carry the bread basket and Silena insisting the orange ha"
         }
       ],
       "event_witnesses_verified": false,

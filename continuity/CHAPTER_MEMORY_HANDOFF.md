@@ -115,3 +115,11 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Ch099→Ch100:** The exact date and relation between their fire gatherings remain unknown. Percy's shawl is last known folded at his Cabin Three bed. Tyson remains on forge leave; tools remain at the forge and the hinge/birdhouse are unfinished. Thalia's letter is private and her palm remains uncleared.
 - **Ch100→Ch101:** Percy and Annabeth remain established partners; Chapter 100 makes no status change. The photo has no print request or distribution. Tyson is last seen asleep beside Ella at the fire; return to Cabin Three is not shown. The fire is banked for the morning. Exact elapsed time is not stated.
 - **Coverage limit:** Chapter 100 has a source-scoped scene review with adjacent boundaries checked. Chapters 037–089 and 101–193 remain unaudited in these cumulative memory files; this does not certify unbroken memory continuity or full literary signoff.
+
+## Chapter 101 continuation
+
+- [Chapter 101 handoff](../editorial/handoffs/ch101-a-name-for-it.md) and [structured continuity record](ch101.yaml): records the present-day relationship choice, Thalia's distinct childhood memory, the uncleared palm and schedule, the shrine shelf build, and the shield-rack lesson.
+- Scoped Chapter 101 state entries were added for Percy, Annabeth, Thalia, Clarisse and Silena; Noah's first source-scoped state is recorded separately. Tyson and other absent characters receive no invented Chapter 101 events.
+- **Ch100→Ch101:** Opens at breakfast the morning after Chapter 100's late-night Half-Blood Hill close. Tyson's return from the fire is not shown.
+- **Ch101→Ch102:** Percy and Annabeth remain established partners; Thalia's palm remains wrapped; the shrine shelf is not load-tested; Noah's shield practice is distinct from the following morning's spear lesson; Percy owes Silena an orange.
+- **Coverage limit:** This is a source-scoped review of Chapter 101 with adjacent boundaries checked. Chapters 037–089 and 102–193 still require their own scene-level evidence.

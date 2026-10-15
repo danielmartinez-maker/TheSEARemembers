@@ -4,7 +4,30 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 100 (2026-10-15 local candidate)
+## Latest current-branch continuation: Chapter 101 (2026-10-15 local candidate)
+
+**Source:** PR #103 branch `audit/four-phase-continuity-2026-10-13`, based on published head `50b57891de5482399f2c6a050ebbf2885513958c`. Chapter 101's local QA is being recorded against this candidate; hosted workflow results attach to the pushed PR head.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **177** |
+| Below 10,000 actual body words | **16** |
+| Required additional body words to clear minimum | **116,854** |
+| Chapter-only every-offset 300-word windows | **1,821,045; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,029,902 body words; 1,971,597 windows; 0 exact cross-file matches** |
+| Source-anchored character-memory checks | **33 passed** |
+
+**Chapter 101, A Name for It:** **2,093 → 10,321 body words (+8,228 net).** The Percy-limited revision keeps the existing relationship intact while grounding the present choice, distinguishes Thalia's remembered blocks from Annabeth's missing memory, preserves Thalia's wrapped palm, and adds an earned shelf build, an orange boundary and Clarisse's shield-rack lesson with Noah. See the [Chapter 101 handoff](handoffs/ch101-a-name-for-it.md) and [structured continuity record](../continuity/ch101.yaml).
+
+- **Phase 1:** Adds scene-scoped witnessed/reported/unknown facts and cumulative state entries for Percy, Annabeth, Thalia, Clarisse, Silena and Noah; records next-morning boundaries with Chapters 100 and 102.
+- **Phase 2:** Preserves the exclusive Percy/Annabeth erased-life memory boundary, family relationships, Thalia's injury and schedule status, and the difference between Noah's shield lesson and Chapter 102's spear practice.
+- **Phase 3:** Expands through the present-day relationship choice, measured shelf work and accessibility check, shield-rack repair and coached lesson. Removes repeated reassurance and duplicate book-category debate; replaces a generic line with a specific measurement.
+- **Phase 4:** 193/193 indexed and ordered; 33 memory checks pass; chapter-only and bonus-inclusive strict duplicate scans find zero matches. The evidence index writes 193 provisional chapter locators, and the introduction screen leaves one review cue in Chapter 014. Hosted Actions are checked on the pushed head. This remains a scoped chapter review, not whole-novel semantic or literary signoff.
+
+**Next chronological underlength chapter:** [102 Not a Competition](../chapters/102-not-a-competition.md), **1,538 body words**, needs **8,462**. Preserve the morning-after relationship state and continue the Noah shield/spear lessons as distinct events.
+
+## Superseded candidate checkpoint: Chapter 100 (2026-10-15 local candidate)
 
 **Source:** PR #103 branch `audit/four-phase-continuity-2026-10-13`, based on published head `acb4a8b997e663bb4bce698d5f3bd8ff4cc70f8c`. Local QA passes; hosted workflow results are available on the PR's pushed head.
 

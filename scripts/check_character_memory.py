@@ -298,6 +298,18 @@ CHECKS = {
                    "Amphitrite knows the time rewrite",
                    "The Minotaur belonged to the camp's own record of his arrival."),
     },
+    "chapters/101-a-name-for-it.md": {
+        "present": ("I want to be your girlfriend.",
+                    "Favorite person can be ours.",
+                    "I don't remember the blocks,",
+                    "The bandage on her right palm was clean",
+                    "I'm Noah. I wanted to ask about the shield rack.",
+                    "I'll bring you one tomorrow."),
+        "absent": ("Thalia's right palm was healed.",
+                   "Annabeth remembered the blocks.",
+                   "Amphitrite knows the time rewrite",
+                   "Beryl was at the shrine."),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

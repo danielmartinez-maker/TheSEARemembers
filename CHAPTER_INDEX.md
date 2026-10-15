@@ -238,7 +238,14 @@ Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10
 - Bonus-inclusive scan: **196 Markdown files**, **2,018,191 body words**, **1,959,886** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression groups pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
 - **Hosted workflows on 8b92708:** [full manuscript QA passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). The mechanical and scene-level checks do not certify whole-novel semantic or literary consistency.
 
-## Revision QA — Chapter 100 (2026-10-15)
+## Revision QA — Chapter 101 (2026-10-15)
+
+Chapter 101, [A Name for It](chapters/101-a-name-for-it.md), was revised from **2,093 → 10,321 body words** (+8,228 net). The Percy-limited revision affirms Percy and Annabeth's established relationship by present choice, keeps Thalia's childhood memory distinct from Annabeth's, leaves Thalia's palm wrapped, and develops the shrine shelf through an unloaded build and a planned weight test. Clarisse repairs the shield rack and coaches Noah through one controlled shield turn. See the [Chapter 101 handoff](editorial/handoffs/ch101-a-name-for-it.md) and [structured continuity record](continuity/ch101.yaml).
+
+- Full manuscript QA: **193/193** indexed and ordered; **177** meet 10,000 body words and **16** remain short by **116,854 words**. The strict chapter-only scan checked **1,821,045** every-offset 300-word windows with zero exact matches.
+- Bonus-inclusive scan: **196 Markdown files**, **2,029,902 body words**, **1,971,597** windows and zero exact matches. All **33** source-anchored memory checks pass; the evidence index contains 193 provisional chapter locators, and one lexical introduction cue remains for human review in Chapter 014. Hosted workflow results are tied to the pushed PR head. The scoped Chapter 101 review is not whole-novel semantic or literary certification.
+
+## Previous Revision QA — Chapter 100 (2026-10-15)
 
 Chapter 100, [The Thousandth Campfire](chapters/100-the-thousandth-campfire.md), was revised from **6,707 → 10,190 body words** (+3,483 net). The revision keeps the Minotaur memory private while correcting the camp's current-arrival story, preserves the documented-vs-total campfire distinction, and carries forward Beryl's absence, Thalia's wrapped palm, Tyson's forge leave, Annabeth's illness privacy and the couples' consent over the dance photo. See the [chapter handoff](editorial/handoffs/ch100-thousandth-campfire.md) and [structured continuity record](continuity/ch100.yaml).
 
@@ -268,7 +275,7 @@ Chapter 100, [The Thousandth Campfire](chapters/100-the-thousandth-campfire.md),
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–100
+### Chapters 090–101
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
@@ -281,3 +288,4 @@ Chapter 100, [The Thousandth Campfire](chapters/100-the-thousandth-campfire.md),
 - [Chapter 098 handoff](editorial/handoffs/ch098-fathers-day-gods.md)
 - [Chapter 099 handoff](editorial/handoffs/ch099-mothers.md)
 - [Chapter 100 handoff](editorial/handoffs/ch100-thousandth-campfire.md)
+- [Chapter 101 handoff](editorial/handoffs/ch101-a-name-for-it.md)

@@ -191,3 +191,9 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: attends the celebration and shares the top-step moment with Clarisse and Silena. Her right palm remains wrapped; she uses her left hand and no check or clearance is shown. She does not discuss Beryl's letter or arrange a visit.
 - **Carry-forward:** Beryl is absent, and Jason receives no new information. Thalia's injury and choice about replying remain unresolved.
+
+### Chapter 101 · witnessed / reported / unknown
+- **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
+- **State:** FIRSTHAND: hears Percy and Annabeth say they remain together and choose a mutual nickname; she does not vote on their relationship. She reports her own memory of Annabeth arranging blocks so small figures could see out. Annabeth says she does not remember the scene but believes Thalia.
+- **Injury / schedule:** The right palm remains cleanly wrapped, is kept out of use and receives no medical check or clearance. Thalia writes and holds the schedule with her left hand. She says she should take it to Chiron, but no delivery is shown.
+- **Carry-forward:** Thalia may ask before telling a long childhood story, while Annabeth says she need not hide every story. Beryl's letter and reply choice are not discussed; no memory is transferred.
