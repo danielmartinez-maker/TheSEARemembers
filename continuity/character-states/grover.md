@@ -113,3 +113,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: attends the supervised movie night with Juniper, jokes with Thalia, briefly comforts her during the mother-daughter film, and reassures Ella that the movie horse will be all right. Juniper rests against him; no relationship change occurs.
 - **Carry-forward:** Grover's role as Ella's friend and Thalia's close friend is reaffirmed; no new duty or injury is established.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** Visits Percy with enchiladas, asks before leaving food, keeps his distance and shares camp news. Percy asks him to pass along thanks only if he naturally sees the campers; Grover accepts that there is no special errand.
+- **Carry-forward:** Their close friendship is reaffirmed; no new duty or injury is established.

@@ -149,3 +149,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: leads the scheduled morning warm-up, lets the younger camper choose the pace and equipment, gives Percy their familiar two taps, and continues to learn with Evan under Chiron's supervision. Helps check the marked movie-night route and agrees to help with the overnight watch and morning pack-up. She is comfortable with Annabeth using the shared Cabin Three spare bunk after first bell. Clarisse and Silena are Poseidon sisters; their movie-night hand-holding and shared grief about their mothers remain sibling affection, not a romantic milestone.
 - **Carry-forward:** The prior day's wider-lane practice is completed; future lessons are not scheduled here. No new injury is established.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** FIRSTHAND: returns from drills, tries to make soup for Percy, accepts his honest report that it is too hot and salty, and takes it away without making him finish. She says she will ask the kitchen for plain broth; no second attempt is shown.
+- **Reported memory:** Tells Percy about her own mother's soup, the kitchen smell, and being allowed to stir from the counter; she also refers to the Jersey-shore shell-bucket memory already told in Chapter 091. These are Clarisse's memories, not Silena's or Percy's.

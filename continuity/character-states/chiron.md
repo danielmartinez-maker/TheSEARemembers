@@ -149,3 +149,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: approves one supervised south-green overnight with a marked boundary, counselor watches, headcounts after the film and at first bell, no open flame, and the projector/cable removed before campers settle. Stops the projector test while the screen is loose, requires power-down before repair, approves the corrected path, and confirms each cabin group at dawn. He does not sign off any storm-board item in this chapter.
 - **Carry-forward:** The one-night campout is closed at first bell. No new quest or storm report is issued.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** Checks whether Percy needs anything, asks Thalia whether Will's care instructions are clear, respects the request not to wake Percy and does not insist on entering Cabin Three. His prior approval for Annabeth's temporary bunk remains in effect.
+- **Carry-forward:** No new quest or camp duty is assigned to Percy while he is ill.

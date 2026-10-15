@@ -31,3 +31,7 @@
 - **[Ch025](../../chapters/025-night-watches.md):** Contributes updated route measurements; credit for the map correction remains his.
 - **[Ch033](../../chapters/033-architecture.md):** Helps verify build measurements/material dimensions; stale timber sizing delays safe trimming.
 - **[Ch035](../../chapters/035-the-letter.md):** Hears the public celebration of the letters being mailed, not a reply from Beryl/Jason.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** Percy hears Clarisse report that she arm-wrestled Beckendorf for the good soup pot and asked him for help; she says Beckendorf told her to lower the stove. This is Clarisse's report, not a direct conversation between Beckendorf and Percy. No further Beckendorf action or relationship change is established.

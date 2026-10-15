@@ -156,3 +156,8 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: remains Percy's established girlfriend and his Zeus sister. Helps plan the marked route around the live extension cord, identifies a screen-tension problem, and asks Percy to hold the guide line while she adjusts it with Austin. She privately tells Percy that the mother-daughter film touches a feeling from the life she remembers; he is the listener, and the memory is not transferred. She agrees with Silena, Clarisse and Chiron to use the shared spare bunk in Cabin Three after first bell; this is a one-night guest arrangement, not a change in cabin or relationship.
 - **Carry-forward:** Percy and Annabeth remain an established couple and the only autobiographical holders of original-life memories. Their blanket and quiet movie-night conversation remain current-history memories.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** FIRSTHAND: cares for Percy while preserving her own choice to leave for food and handwashing, use her own cup and return if she wants. Reads from her architecture book, keeps Will's temperature/symptom chart, and chooses the approved Cabin Three spare bunk three bunks from Percy for the night.
+- **Carry-forward:** She and Percy remain established partners and the only autobiographical holders of original-life memories. No cause for Percy's illness or exact gap to her fever in Chapter 095 is established here.

@@ -22,3 +22,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** Rechecks Thalia's wrapped right palm; it is still tender, so he withholds sparring clearance, changes the outer wrap and repeats the warning signs. Percy reports no tingling or weakness; Will gives the existing stop-and-report instruction and no diagnosis. Will helps staff the supervised campout, confirms the marked boundary and checks the route at first bell.
 - **Carry-forward:** No new diagnosis or clearance; Thalia's right hand needs another check, and Percy's symptom remains unclassified.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** Examines Percy and describes the symptoms as consistent with an ordinary viral upper-respiratory illness; cannot identify the source and gives no magic cure. Leaves a thermometer and chart, gives rest/fluids and warning-sign instructions, and bars training until Percy has been fever-free for 24 hours. At a later check his temperature is lower, but Will does not clear him.
+- **Carry-forward:** Percy's illness cause and recovery date remain unknown. No new finding about Thalia's hand occurs in this chapter.

@@ -218,9 +218,10 @@ The manuscript is a work in progress. Chapters are listed in reading order; clic
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–093
+### Chapters 090–094
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
 - [Chapter 092 handoff](editorial/handoffs/ch092-jealousy-ii.md)
 - [Chapter 093 handoff](editorial/handoffs/ch093-movie-night.md)
+- [Chapter 094 handoff](editorial/handoffs/ch094-sick-day.md)

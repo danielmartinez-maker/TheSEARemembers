@@ -146,3 +146,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: attends the movie night, shares popcorn and a quiet hand-holding moment with Clarisse while they watch a mother-daughter story, and does not make a new romantic or family promise. Silena invites Annabeth to use the open shared bunk in Cabin Three after the supervised overnight; the stay is approved and temporary.
 - **Carry-forward:** Percy and Clarisse remain her Poseidon siblings. No new letter or gift to Amphitrite is made or sent in this chapter.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** FIRSTHAND: checks on Percy, brings tea and a sailor song, washes her hands, uses a separate cup, offers a choice about singing, and leaves for her dinner shift. She reports that her own mother used to hum the song while braiding hair. She does not kiss Percy or share his cup while he is ill.
+- **Carry-forward:** Her mother's memory remains distinct from Clarisse's mother and from Percy's private Sally memory. No new letter or gift is sent.

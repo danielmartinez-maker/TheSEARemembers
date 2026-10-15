@@ -102,3 +102,9 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - New scoped supporting-character event entries: [Austin](austin.md), [Connor](connor.md), [Frank](frank.md), [Hazel](hazel.md), [Juniper](juniper.md), [Kayla](kayla.md), [Piper](piper.md), and [Travis](travis.md).
 - **Ch093→Ch094 boundary:** Percy returns to Cabin Three at first bell and lies down; Ch094 opens when he is ill later that morning. The illness cause is unknown. Thalia's right palm remains tender under a fresh wrap and still needs follow-up. Annabeth's temporary shared bunk remains three bunks from Percy; the movie-night shirt and Hazel blanket have been returned.
 - **Coverage limit:** Chapter 093 is scoped; Chapters 037–089 and 094–193 remain unaudited in the per-character cumulative files.
+
+## Chapter 094 continuation
+
+- [Chapter 094 handoff](../../editorial/handoffs/ch094-sick-day.md): Percy-limited sick-day care, Percy/Annabeth relationship, Clarisse's and Silena's distinct reported mother memories, illness and temperature status, Thalia's right-palm restriction, approved bunk, cards and pending thank-you.
+- Scoped Chapter 094 entries added for Percy, Annabeth, Clarisse, Silena, Thalia, Will, Chiron, Grover, Ella, Travis, Connor and Beckendorf (reported-only).
+- Coverage remains scoped. Chapters 037–089 and 095–193 have not been audited by these Chapter 094 event updates.

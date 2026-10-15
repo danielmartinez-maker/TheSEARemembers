@@ -61,3 +61,11 @@ qa:
 Do not require Percy to say 'Mom' in every line. **A formal title, uncertainty, or an argument can change how he addresses her. It cannot reset their shared history.**
 
 When evidence is absent, write **UNKNOWN** and locate the scene; do not invent the memory. When an old draft conflicts with this log, raise an audit finding and propose a minimal scene fix.
+
+## Chapter 094 continuation
+
+- [Chapter 094 handoff](../editorial/handoffs/ch094-sick-day.md) and [structured record](ch094.yaml): Percy-limited illness day; distinguishes Percy and Annabeth's erased-life memories from Clarisse's and Silena's reported current-life family memories; records the viral-cold assessment, temperatures, 24-hour restriction, Thalia's palm, temporary bunk and unfinished thanks to the younger trainee.
+- New scoped character-memory updates: Percy, Annabeth, Clarisse, Silena, Thalia, Will, Chiron, Grover, Ella, Travis and Connor.
+- **Ch093→Ch094:** Percy returns at first bell after the supervised overnight and becomes ill later that morning. No cause is known. Thalia's right palm remains tender under wrap.
+- **Ch094→Ch095:** Percy is still ill and uncleared at night; 24 hours fever-free is required before training. Annabeth's bunk remains a temporary approved arrangement. Chapter 095 later opens on a Tuesday with Annabeth's fever; exact elapsed time and causal relationship are unknown.
+- **Coverage limit:** This Chapter 094 update is scoped. The prior 037–089 character-memory gap remains, as do Chapters 095–193; the new entries do not certify whole-novel memory coverage.

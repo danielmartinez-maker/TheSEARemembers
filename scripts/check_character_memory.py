@@ -166,6 +166,18 @@ CHECKS = {
                    "The projector clicked off, and the sheet went dark.",
                    "Sweet and steady, the way they had learned to be."),
     },
+    "chapters/094-sick-day.md": {
+        "present": ("This looks consistent with an ordinary viral cold.",
+                    "Sleeping outside doesn't prove that's where it began.",
+                    "That memory was his alone.",
+                    "I remember the shell bucket you told us about",
+                    "You still need the full twenty-four hours without fever",
+                    "her hand rested on the blanket near his shoulder"),
+        "absent": ("October weather",
+                   "Always, completely",
+                   "Percy remembered her singing this song across the Poseidon cabin on his first homesick night",
+                   "the thermometer was a monster"),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),

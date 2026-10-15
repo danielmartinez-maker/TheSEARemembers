@@ -155,3 +155,8 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** Will rechecks the right-palm burn at the morning arena; it remains tender under a fresh wrap, and she is not cleared to spar or brace the screen. She uses her left hand to note the windward line, points out a trip hazard and watches the repair from the bench. At movie night she uses her left hand for food, cries at the mother-daughter film, and accepts Grover's brief comfort. No new injury or power event occurs.
 - **Carry-forward:** The right palm remains wrapped and tender; another check is due the next morning. Thalia's reactions and childhood memories remain hers; no other character receives them as lived memories.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** FIRSTHAND: keeps her wrapped, tender right palm resting in her lap while she screens visitors from the porch. Leaves her spear aside, uses her left hand and does not brace, lift or spar. She allows messages and chooses a quieter visitor boundary.
+- **Carry-forward:** No new check, healing, diagnosis or clearance of the right palm is shown; no storm symptom is addressed in this chapter.

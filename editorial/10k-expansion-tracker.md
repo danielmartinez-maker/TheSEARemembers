@@ -4,28 +4,28 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 093 (2026-10-14 candidate checkpoint)
+## Latest current-branch continuation: Chapter 094 (2026-10-14 candidate checkpoint)
 
-**Branch base:** The local candidate began at verified PR head `b24f3881ebf5856b09dd6793cda5a10f73aba43b`. The figures below are exact-source checks after the Chapter 093 edits; hosted Actions are tracked on PR #103 after publication.
+**Branch base:** The local candidate began at verified PR head `2458717da63493ae8aec31abef943cb1ef42fb7a`. Hosted Actions for the published commit are tracked separately in PR #103.
 
 | Scope | Candidate-tree result |
 |---|---:|
 | Numbered narrative chapters present and ordered | **193/193** |
-| At or above 10,000 actual body words | **169** |
-| Below 10,000 actual body words | **24** |
-| Required additional body words to clear minimum | **148,796** |
-| Chapter-only every-offset 300-word windows | **1,787,757; 0 exact cross-chapter matches** |
-| All chapter and bonus files | **196 files; 1,938,309 windows; 0 exact cross-file matches** |
-| Source-anchored memory regression checks | **26 passed** |
+| At or above 10,000 actual body words | **170** |
+| Below 10,000 actual body words | **23** |
+| Required additional body words to clear minimum | **145,183** |
+| Chapter-only every-offset 300-word windows | **1,791,402; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 1,941,954 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **27 passed** |
 
-**Chapter 093, *Movie Night*:** **6,207 → 10,114 body words** (**+3,907 net**). The chapter completes Chapter 092's supervised wider-lane lesson, carries the symptom and palm-burn restrictions forward, and turns the movie gathering into a supervised overnight with counts, counselor posts, projector/cable shutdown before sleep, and a counselor-led first-bell return. The Camp Jupiter recollection is anchored in Chapter 083; Frank's shirt is borrowed on-page and returned. See the [Chapter 093 handoff](handoffs/ch093-movie-night.md) and [structured continuity record](../continuity/ch093.yaml).
+**Chapter 094, Sick Day:** **6,387 → 10,032 body words** (**+3,645 net**). Percy wakes ill after the supervised campout and remains uncleared at the end; Will cannot identify the source and requires 24 hours fever-free before training. The chapter preserves Clarisse's and Silena's separate reports about their own mothers, Annabeth's choice to take breaks and use the temporary bunk, and Thalia's right-palm restriction. The initial temperature is not stated numerically; a later check is 101.2°F, with the final check lower but unnumbered. See the [Chapter 094 handoff](handoffs/ch094-sick-day.md) and [structured continuity record](../continuity/ch094.yaml).
 
-- **Phase 1:** Added the source-labeled Chapter 093 handoff, structured memory record, scoped event entries for participating characters, corrected Chapter 092's forward boundary, and refreshed the machine-generated source locator index.
-- **Phase 2:** Corrected the false Camp Jupiter photo/shirt provenance; completed the scheduled training without inventing symptom recovery or burn clearance; made overnight supervision and power removal explicit; preserved sibling, romance and private-memory boundaries.
-- **Phase 3:** Expanded the scene through the training choice, Annabeth's safe rig plan, the two-film gathering, and the controlled first-bell return. Line edits removed a duplicate exchange, stray quotation mark and generic/repeated emotional summaries.
-- **Phase 4:** Local exact-source checks pass: 193/193 ordered; 169 pass / 24 short; 148,796 required words remain; 1,787,757 chapter-only and 1,938,309 bonus-inclusive every-offset 300-word windows found zero exact matches; 26 anchored memory groups pass. The lexical memory scan reports one human-review cue in Chapter 014, outside this chapter. These mechanical checks do not certify full-novel semantic or literary consistency; GitHub Actions for the published head are tracked separately on PR #103.
+- **Phase 1:** Added the source-labeled Chapter 094 handoff, structured continuity record, and scoped memory entries for the characters who appear.
+- **Phase 2:** Removed Percy's unsupported autobiographical account of his altered childhood; kept his Sally memory private; labeled Clarisse's and Silena's mother memories as their reports; left the illness source, date and recovery time unknown; carried Thalia's hand restriction and the approved temporary bunk forward.
+- **Phase 3:** Expanded the chapter through Percy's candid response to Clarisse's soup, Silena's song and tea, Annabeth's planned breaks, Thalia's visitor boundary, and Percy's chosen visits/cards. Replaced the omniscient Annabeth ending with a Percy-limited close; smoothed repeated care beats and the Silena visit chronology.
+- **Phase 4:** Local checks pass: 193/193 chapters present and ordered; 170 pass / 23 short; 145,183 words remain; 1,791,402 chapter-only and 1,941,954 bonus-inclusive every-offset 300-word windows found zero exact matches; all 27 character-memory anchors pass. The lexical introduction scan leaves one human-review cue in Chapter 014. These mechanical checks do not certify whole-novel semantic or literary consistency. Hosted GitHub Actions are pending publication.
 
-**Next chronological underlength chapter:** [094 Sick Day](../chapters/094-sick-day.md), **6,387 body words**, needs **3,613** meaningful words. Chapter 093 ends with Percy returning to Cabin Three at first bell; Chapter 094 opens later that morning with his illness. Do not invent its cause.
+**Next chronological underlength chapter:** [095 Annabeth Sick](../chapters/095-annabeth-sick.md), **6,977 body words**, needs **3,023**. Chapter 094 ends during the same unknown late-August period and does not specify the date gap to Chapter 095. Do not infer that Percy caused Annabeth's fever or that Percy has recovered.
 
 ## Superseded checkpoint: Chapter 091 (2026-10-14)
 

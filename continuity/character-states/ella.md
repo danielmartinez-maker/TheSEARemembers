@@ -36,3 +36,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: attends with Tyson, is nervous about loud battle images, worries about the puppet horse, then chooses to watch the second film and cries when the mother/daughter conflict resolves. Tyson comforts her and Hazel lends her the star-patterned blanket; Ella returns it to Hazel at first bell and thanks her.
 - **Carry-forward:** Ella's quotes and concerns reflect her response to this movie night, not memories of another timeline.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** Brings get-well cards and gives Percy the choice to hear them. She reads three at his request and leaves the rest on the shelf; she does not require a response.
+- **Carry-forward:** Her phrasing and card choices reflect this visit, not memories of another timeline.

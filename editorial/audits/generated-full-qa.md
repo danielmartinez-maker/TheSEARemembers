@@ -3,10 +3,10 @@
 Machine-generated. Not an editorial certificate; source branch must be recorded by the CI job.
 
 - Chapters: 193 / 193
-- At least 10,000 body words: 169 chapters
-- Below minimum: 24 chapters
-- Total body-word shortfall: 148,796
-- Exact 300-word windows checked: 1,787,757
+- At least 10,000 body words: 170 chapters
+- Below minimum: 23 chapters
+- Total body-word shortfall: 145,183
+- Exact 300-word windows checked: 1,791,402
 - Cross-chapter matching windows: 0
 - Structural errors: 0
 
@@ -105,7 +105,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 091 | 10,050 | 0 |
 | 092 | 10,062 | 0 |
 | 093 | 10,114 | 0 |
-| 094 | 6,387 | 3,613 |
+| 094 | 10,032 | 0 |
 | 095 | 6,977 | 3,023 |
 | 096 | 6,878 | 3,122 |
 | 097 | 6,862 | 3,138 |
