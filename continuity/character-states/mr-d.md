@@ -25,3 +25,7 @@
 ### Chapter 090 · witnessed / reported / unknown
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND at the Big House briefing: accepts responsibility for the younger campers and infirmary, with healers assigned to work under his shelter plan. He does not receive any Percy/Annabeth timeline secret. The chapter does not establish that he personally witnesses the later channel strike or follow-up examination.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** Allows the film gathering only under camp rules, insisting on no monsters, quests or fire. Chiron gives the specific one-night supervised-campout plan; Mr. D does not waive its marked boundary or equipment conditions. No new relationship or promise is established.

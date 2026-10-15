@@ -94,4 +94,11 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - **Ch091→Ch092 boundary:** Keep the shell, two sketches, unmade Amphitrite copy, Percy/Thalia check-ins with Will, and the conditional next-low-tide plan in their recorded status. This remains a scoped addition; prior 037–089 coverage is still incomplete.
 
 - [Chapter 092 handoff](../../editorial/handoffs/ch092-jealousy-ii.md): records Percy's jealousy and sibling repair, Evan's supervised mentor role, aftercare, gifts and knowledge boundaries.
-- **Ch092→Ch093 boundary:** Percy and Annabeth remain established partners; Percy has no tingling at Ch092's close, Thalia's palm remains tender and uncleared, and tomorrow's supervised lesson is only scheduled. Ch093's Camp Jupiter photos/T-shirt from Frank have no origin established in Ch092; do not invent a transfer or visit.
+- **Ch092→Ch093 boundary:** Percy and Annabeth remain established partners; Percy has no tingling at Ch092's close, Thalia's palm remains tender and uncleared, and the wider-lane lesson is scheduled. Ch093 completes it next morning. Percy remembers the Camp Jupiter fireworks hill from Ch083; Frank lends him a clean shirt on-page and Percy returns it. No photos from Frank are shown.
+
+## Chapter 093 continuation
+
+- [Chapter 093 handoff](../../editorial/handoffs/ch093-movie-night.md) and [structured continuity record](../ch093.yaml): completes the Ch092 training plan, carries the symptom and palm-burn checks, and records the supervised overnight/movie equipment rules and first-bell return.
+- New scoped supporting-character event entries: [Austin](austin.md), [Connor](connor.md), [Frank](frank.md), [Hazel](hazel.md), [Juniper](juniper.md), [Kayla](kayla.md), [Piper](piper.md), and [Travis](travis.md).
+- **Ch093→Ch094 boundary:** Percy returns to Cabin Three at first bell and lies down; Ch094 opens when he is ill later that morning. The illness cause is unknown. Thalia's right palm remains tender under a fresh wrap and still needs follow-up. Annabeth's temporary shared bunk remains three bunks from Percy; the movie-night shirt and Hazel blanket have been returned.
+- **Coverage limit:** Chapter 093 is scoped; Chapters 037–089 and 094–193 remain unaudited in the per-character cumulative files.

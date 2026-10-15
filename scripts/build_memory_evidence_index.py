@@ -44,13 +44,13 @@ def build() -> list[dict]:
                 continue
             present = [name for name in CHARACTERS if re.search(r"\b" + re.escape(name) + r"\b", line)]
             if present and EVENT.search(line):
-                cue_candidates.append({"line": lineno, "named": present, "excerpt": line.strip()[:240]})
+                cue_candidates.append({"line": lineno, "named": present, "excerpt": line.strip()[:240].rstrip()})
             if SECRECY.search(line) and present:
-                disclosure_candidates.append({"line": lineno, "named": present, "excerpt": line.strip()[:240]})
+                disclosure_candidates.append({"line": lineno, "named": present, "excerpt": line.strip()[:240].rstrip()})
         # Limited representative anchors per chapter. These are a queue, not a
         # substitute for reading the surrounding paragraphs or entire scene.
         records.append({
-            "chapter": num, "path": str(path.relative_to(ROOT)),
+            "chapter": num, "path": path.relative_to(ROOT).as_posix(),
             "title": title,
             "name_mentions": {k: v for k, v in counts.items() if v},
             "event_cues_for_manual_review": cue_candidates[:8],

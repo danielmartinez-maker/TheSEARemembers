@@ -32,3 +32,8 @@ Do not convert another character's old-life recollection or hearsay into firstha
 - **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
 - **State:** FIRSTHAND: physically present at Camp Half-Blood during the storm, works from Half-Blood Hill drawing smaller strikes away from the hill ward, and later returns to the Zeus cabin. This chapter calls his stay an approved exchange visit but gives no dates; do not equate it with or use it to date the Chapter 021/022 seven-day visit. He hears Annabeth's and Percy’s reservoir account at the briefing and therefore knows it as a report, not as an event he witnessed. No injury is recorded.
 - **Knowledge:** Thalia and Annabeth remain his sisters. He does not acquire Percy/Annabeth's autobiographical memories. Hill ward is reported at ninety percent and still needs inspection.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: attends with Piper and the visiting Roman exchange guests Frank and Hazel. Piper rests her head in his lap and he braids a glow-stick into her hair at her instruction. This is observed closeness; the chapter does not define or change their relationship status. His sisters' memories remain theirs.
+- **Carry-forward:** Percy remembers the Camp Jupiter spring exchange from his own Chapter 083 visit; Jason does not transmit or acquire anyone else's original-life memories here.

@@ -12,3 +12,7 @@
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND: demonstrates the revised white/drop/yellow flag sequence in calm dawn air. The crosswind rehearsal remains pending, so the group continues to stop if a signal blurs or vanishes.
 - **Carry-forward:** The test does not clear the protocol for crosswind use.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: calls out one inaccurate Trojan Horse claim during the camp's myth-movie announcement. No new introduction, private information or relationship change occurs.

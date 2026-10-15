@@ -8,87 +8,87 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/001-the-weight-of-salt-and-sky.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 195, Annabeth 61, Amphitrite 49, Poseidon 47, Grover 46, Thalia 31, Chiron 17, Sally 14, Triton 13, Zeus 11
+- Name appearances (not proof of presence): Percy 168, Annabeth 60, Amphitrite 48, Grover 45, Poseidon 35, Thalia 28, Sally 19, Chiron 17, Triton 13, Clarisse 7
 - Event/action candidates to inspect in context:
-  - Line 23: He was in a palace beneath the sea, twelve years old and remembering seventeen. He remembered Tartarus, the ash, the screams, the way Annabeth's hand had felt in his, like the only solid thing in a collapsing world. He remembered the Giant 
-  - Line 25: He remembered the last quiet evening with Annabeth, university pamphlets spread across their bed as they argued about a secondhand sofa for an apartment they couldn't afford yet. That had been their biggest problem. For once.
-  - Line 35: "Annabeth," he said out loud, and the name felt like a rope thrown into darkness. Was she here? Was she somewhere else, equally displaced? Was she ...
-  - Line 43: "I..." he started, and stopped. He remembered Sally Jackson making blue cookies in their Manhattan kitchen, lying to monsters to protect him, and waiting for him to come home. Amphitrite remembered a different childhood for him, one he coul
-  - Line 53: The surface trip. Amphitrite spoke as if they had planned it together. Percy listened for something he could use: Camp Half-Blood, Chiron's training, other demigods his own age. Apparently he had been asking to go for years. He knew the des
+  - Line 3: Percy Jackson woke beneath a ceiling he knew his hands had touched and his mind had never seen.
+  - Line 7: He sat up and studied the ceiling, where pearl-inlaid ships pursued one another across a vaulted stone sea. One trireme had a chipped oar. Without thinking, Percy lifted his hand toward it, as though checking that the flaw was still there,
+  - Line 9: The last room he remembered had been in New Rome. Annabeth had spread university pamphlets across the bed and accused him of choosing an apartment because it had a kitchen big enough for a pizza oven. He'd said that was a perfectly respecta
+  - Line 15: He remembered Sally at the kitchen table, cutting the burnt edges off blue cookies so he wouldn't notice. He remembered Yancy, the Minotaur, Grover arguing with a vending machine, Annabeth's hand locked around his in Tartarus. What he could
+  - Line 17: "Annabeth," he said, testing the name in a voice that belonged to a child.
 - Memory/disclosure candidates to inspect:
-  - Line 43: "I..." he started, and stopped. He remembered Sally Jackson making blue cookies in their Manhattan kitchen, lying to monsters to protect him, and waiting for him to come home. Amphitrite remembered a different childhood for him, one he coul
-  - Line 63: Grover. The name sent a jolt through Percy's system. In his original timeline, Grover had been his best friend for years. His protector. His brother in everything but blood. This Grover, the one who existed in this altered life, had never m
-  - Line 85: Percy crossed the room. Poseidon engulfed him in a hug that smelled like salt and deep water, cold iron and kelp, warm from sun on the surface, and Percy, who had not been hugged by Poseidon in the original timeline in years, not since the 
+  - Line 13: Percy crossed to the bronze mirror beside the wardrobe. A twelve-year-old boy looked back, dark hair curling against his neck, green eyes familiar in a face that hadn't yet finished growing. Fine webbing showed between his fingers. He turne
+  - Line 15: He remembered Sally at the kitchen table, cutting the burnt edges off blue cookies so he wouldn't notice. He remembered Yancy, the Minotaur, Grover arguing with a vending machine, Annabeth's hand locked around his in Tartarus. What he could
+  - Line 29: Amphitrite came close enough to check his forehead. Her palm was cool; the pressure of it, practiced and unceremonious, reminded him of the way Sally had used to check for fevers before school. Percy held still. Amphitrite's tenderness wasn
 
 ## 002: Chapter 2: The Girl With Lightning in Her Veins
 
 - [Source](../../chapters/002-the-girl-with-lightning-in-her-veins.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 112, Thalia 84, Annabeth 59, Clarisse 42, Silena 30, Poseidon 17, Chiron 13, Zeus 5, Amphitrite 1, Sally 1
+- Name appearances (not proof of presence): Percy 93, Thalia 78, Annabeth 66, Clarisse 40, Silena 32, Chiron 13, Poseidon 10, Zeus 4, Amphitrite 1, Sally 1
 - Event/action candidates to inspect in context:
-  - Line 7: In the original timeline, the Poseidon cabin had been empty for years before he arrived. Just him, one bunk, and the faint smell of salt. This version was different. There were four bunks now — two on each side of the narrow room — and the 
-  - Line 27: "Noted," Percy said flatly.
-  - Line 35: "Thanks," Percy said, and meant it as anything but.
-  - Line 39: Camp Half-Blood looked different in daylight. The cabins gleamed, the climbing wall was already being used by a group of Ares kids, and the dining pavilion was buzzing with early risers. But there were differences, too — subtle ones that Pe
-  - Line 45: "Sit," Clarisse said, gesturing to the empty chair across from her. "This is my sister, Silena."
+  - Line 5: Clarisse La Rue was halfway through her morning exercises, counting under her breath. She had introduced herself at dinner, pointed him toward his bunk, and warned him about wet towels. Percy had lived with her in the cabin for one night. H
+  - Line 17: Percy looked toward the opposite bunk, where a quilt was folded with care beside a blue-covered notebook. He had heard Silena's name last night, but hadn't met her. That distinction mattered more than he had expected. His memories of her be
+  - Line 27: Outside, the grass was wet enough to darken the cuffs of his trousers. Camp workers were already moving between the forge and the pavilion with baskets of bread and buckets of sand for the brazier. Percy recognized the outlines of the cabin
+  - Line 31: "Percy," Clarisse said. "Silena. Now you'll both stop asking me when this is going to happen."
+  - Line 39: He nearly told her she ought to be sitting at the Aphrodite table. In the life he remembered, Silena had been Aphrodite's daughter and had died wearing Clarisse's armor. Here she was alive, his older half-sister, already making sure he'd ha
 - Memory/disclosure candidates to inspect:
-  - Line 7: In the original timeline, the Poseidon cabin had been empty for years before he arrived. Just him, one bunk, and the faint smell of salt. This version was different. There were four bunks now — two on each side of the narrow room — and the 
-  - Line 11: Percy had known, intellectually, that Clarisse was a Poseidon kid in this timeline. He'd known it during dinner the night before, when she'd introduced herself with that trademark swagger and he'd nearly choked on his nectar. But knowing it
-  - Line 13: She was thirteen in this timeline — a year older than him, though she carried herself with the authority of someone much larger. Her hair was pulled back in a severe ponytail, and she was wearing a camp necklace with more beads than Percy h
+  - Line 183: He crouched beside her. When she held out the scrap, he examined it. The green had almost the same shade as the palace curtains he thought he ought to remember. He knew those curtains existed because Amphitrite had told him to leave them al
+  - Line 283: Percy felt a flicker of surprise. A training facility for sea demigods — in the original timeline, there had been nothing like it. Camp Half-Blood had been designed around the assumption that Poseidon's kids were rare anomalies who could tr
+  - Line 339: Several campers volunteered. Thalia dispatched them one after another with terrifying efficiency, her technique a blend of formal training and street-fighting practicality that Percy recognized instinctively. She fought like someone who'd b
 
 ## 003: Chapter 3: What the Storm Remembers
 
 - [Source](../../chapters/003-what-the-storm-remembers.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 149, Annabeth 147, Percy 51, Chiron 43, Silena 13, Zeus 10, Clarisse 6, Amphitrite 2, Poseidon 2, Sally 2
+- Name appearances (not proof of presence): Thalia 153, Annabeth 149, Percy 52, Chiron 43, Silena 13, Zeus 9, Clarisse 6, Amphitrite 2, Poseidon 2, Sally 2
 - Event/action candidates to inspect in context:
-  - Line 13: Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she could
-  - Line 17: The dining pavilion was already busy when she arrived. Breakfast at Camp Half-Blood was a loud, chaotic affair, but today there was an undercurrent of tension that made the noise feel sharper, more brittle. Annabeth grabbed a tray and made 
-  - Line 19: "Morning," Annabeth said, sliding into her usual spot.
-  - Line 39: *Since I got sick.* That was the cover story. A mysterious illness shortly before Percy arrived, after which Annabeth had apparently become quieter, more withdrawn, more... different. It was close enough to the truth that it stuck — but it 
-  - Line 41: The truth was that Annabeth had woken in her own younger body and discovered that her history had been rewritten. She was still herself. She simply had no idea how to be the girl everyone remembered.
+  - Line 3: Annabeth woke on the floor of Cabin One, tangled in the blanket she'd pulled down with her. The throat that had screamed in her Tartarus dream still hurt. She pressed a palm against the grain of the floor until she could count the ordinary
+  - Line 7: Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she could
+  - Line 11: The dining pavilion was already busy when she arrived. Breakfast at Camp Half-Blood was a loud, chaotic affair, but today there was an undercurrent of tension that made the noise feel sharper, more brittle. Annabeth grabbed a tray and made
+  - Line 13: "Morning," Annabeth said, sliding into her usual spot.
+  - Line 33: *Since I got sick.* That was the cover story. A mysterious illness shortly before Percy arrived, after which Annabeth had apparently become quieter, more withdrawn, more... different. It was close enough to the truth that it stuck — but it
 - Memory/disclosure candidates to inspect:
-  - Line 13: Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she could
-  - Line 53: But the Annabeth everyone here knew had been trained by Thalia, not by five years of the wars Annabeth remembered. She did not know how much knowledge she could reveal without frightening her sister.
-  - Line 73: Annabeth didn't think. Her body moved before her mind caught up — years of training taking over, muscle memory overriding the panic. She was running before she realized she was running, her hand closing around a fallen practice sword that s
+  - Line 7: Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she could
+  - Line 9: She resented the beads for marking summers she could not remember, then resented herself for thinking of removing them. Thalia had lived those summers alongside her; taking the necklace off wouldn't make that history disappear, but it would
+  - Line 47: But the Annabeth everyone here knew had been trained by Thalia, not by five years of the wars Annabeth remembered. She did not know how much knowledge she could reveal without frightening her sister.
 
 ## 004: Chapter 4: The Hall of Gods
 
 - [Source](../../chapters/004-the-hall-of-gods.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 126, Annabeth 88, Chiron 40, Clarisse 33, Thalia 31, Silena 30, Nico 19, Poseidon 5, Zeus 3
+- Name appearances (not proof of presence): Percy 128, Annabeth 89, Chiron 42, Clarisse 34, Thalia 31, Silena 31, Nico 20, Poseidon 5, Zeus 3
 - Event/action candidates to inspect in context:
-  - Line 5: It was beautiful — there was no denying that. Twelve columns of white stone supported a roof carved with scenes from the Trojan War, and the floor was a mosaic of Olympus itself, each tile placed with impossible precision. But to Percy, who
-  - Line 13: "It's new," Percy said carefully.
-  - Line 23: "A big one. The kind that makes the gods nervous. I don't know what it said. But the building approvals, new cabin rules and increased divine visits all appear in records from roughly the same period. People argue about which happened first
-  - Line 43: "Did they see something?" Percy asked.
-  - Line 59: "Why?" Percy asked when they'd gone.
+  - Line 3: The Hall of the Gods occupied the green where Percy remembered campers setting up folding tables for festivals. Its twelve columns were impressive, but he noticed the ordinary marks first: wheel scuffs near the north doorway, a mason's patc
+  - Line 5: Percy stood at the entrance as wind lifted the dust caught in the carved letters above him. The steps were damp in the shade, and the inscription looked freshly scrubbed compared with the masonry around it. The inscription read: *Know Thyse
+  - Line 11: "It's new," Percy said carefully.
+  - Line 21: "A big one. The kind that makes the gods nervous. I don't know what it said. But the building approvals, new cabin rules and increased divine visits all appear in records from roughly the same period. People argue about which happened first
+  - Line 41: "Did they see something?" Percy asked.
 - Memory/disclosure candidates to inspect:
-  - Line 127: "Because Chiron said the theft happened, but wouldn't tell me which record was taken." She folded her arms. "He didn't tell me because I'm a child of Hecate, and the usual assumption is that if something magical disappears I must either hav
-  - Line 313: In the life Annabeth remembered, she would have joined the debate. Here she sat with the son of Poseidon, reading a story that seemed to imply her life had been rewritten around an absent father and a sister she couldn't remember growing up
-  - Line 495: The third was a promise to Clarisse.
+  - Line 125: "Because Chiron said the theft happened, but wouldn't tell me which record was taken." She folded her arms. "He didn't tell me because I'm a child of Hecate, and the usual assumption is that if something magical disappears I must either hav
+  - Line 311: In the life Annabeth remembered, she would have joined the debate. Here she sat with the son of Poseidon, reading a story that seemed to imply her life had been rewritten around an absent father and a sister she couldn't remember growing up
+  - Line 493: The third was a promise to Clarisse.
 
 ## 005: Chapter 5: Clarisse
 
 - [Source](../../chapters/005-clarisse.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 118, Clarisse 112, Silena 66, Chiron 23, Annabeth 16, Thalia 12, Poseidon 8, Nico 7, Zeus 4, Amphitrite 3
+- Name appearances (not proof of presence): Percy 118, Clarisse 115, Silena 70, Chiron 23, Annabeth 16, Thalia 12, Poseidon 8, Nico 7, Zeus 4, Amphitrite 3
 - Event/action candidates to inspect in context:
   - Line 3: A few weeks after Percy arrived at camp, Clarisse took him on border patrol and made him carry the supply bag.
   - Line 9: Clarisse inspected the carved post for fresh scratches. "You didn't volunteer. You were assigned, and if you hadn't spent ten minutes looking for the gloves you left in the wrong trunk, we would have been here before the sun cleared the tre
   - Line 17: The path rose through scrub and pines toward the eastern boundary. The ground had hardened in the cold, and little white patches of frost remained wherever sunlight couldn't reach. Most of the leaves were still green. Percy liked that he wa
   - Line 27: That sounded like something Chiron might have said, but with less patience and considerably more bite.
-  - Line 75: Percy would have taken the words back if he could. He'd been thinking of Triton demonstrating sword drills in Atlantis and of Amphitrite sitting near the garden pool with her letters. When he asked the question, he'd forgotten for an instan
+  - Line 41: "I started it for her. Silena looked at the sketch and told me the shelf needs a drawer more than another decoration." Clarisse brushed a shaving off the wing. "She's right about the drawer, which is annoying. I'll finish this anyway."
 - Memory/disclosure candidates to inspect:
   - Line 460: "I wasn't going to. I just keep thinking about how different things were for us." Percy adjusted his grip as a page slipped loose. "She had to wonder whether he'd turn up. I grew up in his house. I don't remember most of that childhood, but
-  - Line 884: "To you, maybe. I don't remember growing up with him. Thalia does. And now she has to describe how he behaved as though I should remember it too."
-  - Line 896: He had no answer. There was a version of Poseidon in his memory who had sometimes been too distant to reach, and there was the father whose household he'd woken up in. Neither made Zeus easier to understand.
+  - Line 882: "To you, maybe. I don't remember growing up with him. Thalia does. And now she has to describe how he behaved as though I should remember it too."
+  - Line 894: He had no answer. There was a version of Poseidon in his memory who had sometimes been too distant to reach, and there was the father whose household he'd woken up in. Neither made Zeus easier to understand.
 
 ## 006: Chapter 6: The Sister
 
 - [Source](../../chapters/006-the-sister.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 144, Annabeth 132, Percy 42, Chiron 28, Clarisse 22, Nico 14, Zeus 6, Silena 3, Beryl 3, Luke 2
+- Name appearances (not proof of presence): Thalia 146, Annabeth 132, Percy 43, Chiron 28, Clarisse 23, Nico 14, Zeus 6, Silena 3, Beryl 3, Luke 2
 - Event/action candidates to inspect in context:
   - Line 3: Thalia had been awake for most of the night, which was why she knew exactly how much noise a person could make while trying to leave a cabin unnoticed.
   - Line 11: The repaired shutter rattled softly in the wind. Two weeks ago she would have gone after Annabeth without thinking, and she wasn't entirely sure why she stayed put now. Perhaps it was the conversation they'd had after the first forbidden tr
@@ -104,25 +104,25 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/007-the-tempest.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 87, Annabeth 80, Thalia 69, Chiron 55, Silena 35, Clarisse 29, Amphitrite 12, Nico 7, Zeus 6, Poseidon 3
+- Name appearances (not proof of presence): Percy 88, Annabeth 82, Thalia 69, Chiron 57, Silena 38, Clarisse 30, Amphitrite 13, Nico 7, Zeus 6, Poseidon 3
 - Event/action candidates to inspect in context:
+  - Line 3: The night before the storm, the sky was clear enough that Silena refused to let anybody use the weather as an excuse for missing the stores rota. Repairs were competing with training and the winter deliveries; one missing bracket could leav
   - Line 5: Percy arrived at the stores with a toolbox, his repaired practice shield and a letter from Amphitrite that he had not quite decided how to answer. Silena was already there, counting brass fittings into small cloth bags. A stack of unused fi
   - Line 15: The last few days had been filled with ordinary obligations made awkward by the repairs to the Hall. Chiron needed every older camper who knew how to hold a tool or carry a message. Clarisse was organizing the eastern patrol schedule. Silen
   - Line 17: "What are these for?" Percy asked, examining the little bags.
   - Line 39: Percy copied the measurements. His writing looked like a badly built fence beside Silena's orderly letters, but she could read it. For once that was enough.
-  - Line 47: "Don't encourage him," Silena said. "He's been useful for nearly half an hour and I'd hate to ruin it."
 - Memory/disclosure candidates to inspect:
   - Line 119: "Then tell her the part you do know. You like the people here. You're learning things. You'll tell her if you need something. A letter isn't a memory test, Percy."
-  - Line 588: They changed into dry clothes without talking much. The silence was different from the arguments they'd had all week. Thalia didn't ask for a promise that Annabeth would never go near the Hall again. Annabeth didn't insist she was ready to 
+  - Line 588: They changed into dry clothes without talking much. The silence was different from the arguments they'd had all week. Thalia didn't ask for a promise that Annabeth would never go near the Hall again. Annabeth didn't insist she was ready to
   - Line 616: Annabeth considered the answer. She did not mistake it for an agreement about everything. Thalia was still angry that Percy had been part of the accident, and Annabeth was still unwilling to hand over every private conversation. But the pro
 
 ## 008: Chapter 8: The Gathering Storm
 
 - [Source](../../chapters/008-the-gathering-storm.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 94, Percy 75, Thalia 44, Chiron 30, Silena 23, Clarisse 20, Nico 18, Amphitrite 3, Zeus 3, Poseidon 2
+- Name appearances (not proof of presence): Annabeth 97, Percy 78, Thalia 44, Chiron 31, Silena 24, Clarisse 21, Nico 18, Amphitrite 5, Zeus 3, Poseidon 2
 - Event/action candidates to inspect in context:
-  - Line 3: Percy discovered that the fastest way to lose an argument with Silena was to insist that he was capable of doing two things at once.
+  - Line 3: The sealed letter to Amphitrite was already in the canvas bag when Percy came into the stores with a toolbox in one hand and a stack of envelopes in the other. Silena looked up from the dispatch register, took in the tools swinging dangerou
   - Line 5: "You can carry the letters or you can carry the toolbox," she told him. "If you drop the bag in the creek, the post doesn't get to tell Amphitrite that you meant well."
   - Line 13: He handed the toolbox to Clarisse.
   - Line 17: "I didn't realize we were competing," Silena said, counting the envelopes a second time.
@@ -136,13 +136,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/009-the-oracle.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 106, Percy 85, Thalia 63, Chiron 57, Clarisse 24, Silena 7, Poseidon 2, Amphitrite 1, Sally 1, Nico 1
+- Name appearances (not proof of presence): Annabeth 106, Percy 87, Thalia 63, Chiron 60, Clarisse 25, Silena 8, Poseidon 2, Amphitrite 1, Sally 1, Nico 1
 - Event/action candidates to inspect in context:
+  - Line 13: Clarisse crossed the room and put down the stack of bucklers she'd been carrying. Percy had volunteered for equipment repair after the storm, in part because he owed the camp work and in part because a shield offered a problem with an obvio
   - Line 15: "Let me see," Clarisse said.
   - Line 17: Percy handed over the shield. His sister unpicked the last three stitches and turned the leather right side out. She did not tell him he was being an idiot. The restraint was more alarming than an insult would have been.
   - Line 33: She handed the shield back and showed him where to put the next stitch. He followed the needle through the leather, pulled the thread tight, and waited. Clarisse didn't move away.
-  - Line 51: Percy looked up. His sister was studying the torn strap as though she hadn't said anything unusual.
-  - Line 57: Clarisse reclaimed the shield and demonstrated the next stitch. Her hand was steady and her instructions exact. Percy thought about how thoroughly he remembered losing people in a world she had never known. That fear was part of what drove 
+  - Line 49: "Annabeth isn't the only person who'll go looking for you if something happens," she added. "Silena'll want the last place you were seen, and I'll be stuck explaining to Chiron why nobody told us before it got dangerous. You can decide what
 - Memory/disclosure candidates to inspect:
   - Line 211: He couldn't argue with that without pretending he wanted something different. He did want answers. He wanted to understand why the girl beside him had a childhood with Thalia that she could not remember and why his own mother's death had be
   - Line 257: Annabeth tried to picture it. She could imagine a kitchen, a narrow hallway and a child making measurements, but the space did not attach itself to any memory she actually possessed. Thalia's account was plausible; that was part of what mad
@@ -152,7 +152,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/010-the-daughter-of-hecate.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 50, Percy 46, Chiron 28, Clarisse 24, Thalia 20, Silena 19, Nico 6, Zeus 3, Amphitrite 2, Poseidon 1
+- Name appearances (not proof of presence): Annabeth 51, Percy 47, Chiron 28, Clarisse 24, Thalia 20, Silena 19, Nico 6, Zeus 3, Amphitrite 2, Poseidon 1
 - Event/action candidates to inspect in context:
   - Line 11: Zoe knew what Percy would do when he saw the drawings. He'd ask whether they proved a connection. He'd look for a person to blame, and she'd have to remind him that a matching symbol was not a signature. She was tired of being the person wh
   - Line 15: "Chiron said you'd want these."
@@ -161,84 +161,84 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 147: Percy traced the boundary of the building with his eyes. The western side had a narrow run of stone between the foundation and the hill. He knew it flooded during heavy rain because he'd helped keep the water off the lower path. There was a
 - Memory/disclosure candidates to inspect:
   - Line 203: Percy considered the unsigned transfer receipt Nico had shown them. There were good reasons to want the Hall open that had nothing to do with secret prophecies. Embarrassment, money, habit, pride. None of those made a person innocent or gui
-  - Line 648: Over dinner she rewrote the assignments in larger handwriting so the younger counselors could read them without squinting. Thalia ate beside her, offering observations about the steeper path and correcting one direction Annabeth had marked 
+  - Line 648: Over dinner she rewrote the assignments in larger handwriting so the younger counselors could read them without squinting. Thalia ate beside her, offering observations about the steeper path and correcting one direction Annabeth had marked
   - Line 778: He considered the kitchen Amphitrite had shown him after his arrival. He couldn't remember living there as a small child, but he remembered her at the table, impatiently explaining which foods were his favorites as if a few missed details w
 
 ## 011: Chapter 11: The Eclipse
 
 - [Source](../../chapters/011-the-eclipse.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 68, Percy 65, Thalia 59, Chiron 49, Clarisse 41, Silena 41, Nico 3, Zeus 3, Amphitrite 1, Sally 1
+- Name appearances (not proof of presence): Annabeth 69, Percy 67, Thalia 59, Chiron 49, Clarisse 42, Silena 42, Nico 3, Zeus 3, Amphitrite 1, Sally 1
 - Event/action candidates to inspect in context:
-  - Line 9: "Who watches which route. Nico said somebody had written two people into the same place and nobody into the west crossing."
   - Line 25: "Chiron asked us to check the emergency stop procedure aloud," Mara said.
   - Line 41: "I heard the custodian tried to get Chiron to open the exhibit wing for the eclipse," Mara said.
   - Line 103: Chiron had answered that question the evening before. He was apparently going to answer it again.
   - Line 107: "What's wrong?" Percy asked.
+  - Line 109: "Nothing yet," Silena replied. "Clarisse has decided she can be in three places at once."
 - Memory/disclosure candidates to inspect:
+  - Line 135: "I want us to know where to find one another if the light changes," she said. "If the Hall starts making noise, we don't go chasing whoever isn't in sight. We report the missing person to Chiron. We have enough people to get everyone to the
   - Line 139: Percy thought of the Hall door in the storm. He had run toward it because Annabeth was inside. He would probably run toward her again if he believed she was hurt. He could promise not to treat his power as a solution to everything. He could
   - Line 215: Percy looked out past the roofline. The ordinary bright blue had begun to flatten, and the shadows cast by the pavilion's columns had grown unexpectedly sharp. He remembered another eclipse from a school trip in his first childhood, when Sa
-  - Line 486: Percy nodded. "I can clear the puddles. I can't promise where lightning goes."
 
 ## 012: Chapter 12: What Remains
 
 - [Source](../../chapters/012-what-remains.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 119, Annabeth 101, Percy 93, Clarisse 45, Silena 37, Nico 37, Ella 19, Chiron 17, Grover 16, Zeus 13
+- Name appearances (not proof of presence): Thalia 120, Annabeth 103, Percy 95, Clarisse 47, Nico 38, Silena 37, Ella 19, Chiron 16, Grover 16, Zeus 13
 - Event/action candidates to inspect in context:
   - Line 19: "It's hammers," Percy said.
-  - Line 23: Percy grinned despite himself and sat up. His forearm still ached if he carried something heavy, and the muscles he'd strained holding back the flooded channel had not quite forgiven him. Lee Fletcher from Apollo had cleared him for gentle 
+  - Line 23: Percy grinned despite himself and sat up. His forearm still ached if he carried something heavy, and the muscles he'd strained holding back the flooded channel had not quite forgiven him. Lee Fletcher from Apollo had cleared him for gentle
   - Line 29: Mr. D had called it "structural redecorating." Chiron had called it "a reminder." The campers called the exposed section of mosaic The Hole, although Chiron had asked them repeatedly not to make a hazard sound like an attraction.
   - Line 41: "Morning," Percy said, sliding in across from them. "You're up early."
   - Line 43: "Someone," Clarisse said pointedly, without looking up from her toast geometry, "was snoring like a drowning minotaur and woke up the whole cabin."
 - Memory/disclosure candidates to inspect:
   - Line 191: "I need somebody to stop asking me to fix a problem I can't fix in a morning," she said at last. "Thalia won't tell me what she wants, and every time I try to get close I remind her of something I don't remember."
   - Line 221: "I remember a time when I'd have been able to tell you exactly how to fight a monster but not whether I could ask for something ordinary from you," Annabeth said.
-  - Line 307: Annabeth could picture the story. She could not remember living it. The distance between those two things hurt most when Thalia expected her to smile at a familiar detail.
+  - Line 301: "It's avoidance with bullet points," Zoe said, sliding the list aside before Nico could read it. She knew Annabeth had struggled to remember parts of her childhood since the fever, because Thalia had asked friends to stop springing old stor
 
 ## 013: Chapter 13: The Father Who Changes Faces
 
 - [Source](../../chapters/013-the-father-who-changes-faces.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 148, Annabeth 140, Percy 52, Zeus 51, Chiron 35, Jason 19, Amphitrite 6, Poseidon 6, Luke 5, Clarisse 4
+- Name appearances (not proof of presence): Thalia 149, Annabeth 143, Zeus 53, Percy 51, Chiron 36, Jason 19, Amphitrite 6, Poseidon 6, Luke 5, Clarisse 4
 - Event/action candidates to inspect in context:
-  - Line 3: Thalia knew her father was coming before anyone told her, because the sky went still in a way that wasn't natural.
-  - Line 5: It was a Tuesday morning in late winter, still months from the summer-solstice deadline Percy had warned them about, and Camp Half-Blood was doing its best impression of normal. The strawberry fields smelled like sun-warmed sugar. The lake 
-  - Line 13: "You're glaring at the weather again," Annabeth said from behind her, ducking under the low doorway with a book tucked under her arm and a half-finished braid slipping over her shoulder. She was twelve and barefoot and already had a smudge 
-  - Line 15: "Maybe I am," Thalia said.
-  - Line 17: Annabeth followed her gaze upward. Her expression shifted — quick, practiced, the way she always did when she filed something away. Engineer brain, Thalia called it in her head, even though Annabeth got furious when anyone said it out loud.
+  - Line 9: "You're glaring at the weather again," Annabeth said from behind her, ducking under the low doorway with a book tucked under her arm and a half-finished braid slipping over her shoulder. She was twelve and barefoot and already had a smudge
+  - Line 11: "Maybe I am," Thalia said.
+  - Line 13: Annabeth followed her gaze upward. Her expression shifted — quick, practiced, the way she always did when she filed something away. Engineer brain, Thalia called it in her head, even though Annabeth got furious when anyone said it out loud.
+  - Line 23: "Just got the Iris-message," Thalia said. "Dionysus is in a mood. Chiron wants us in the Big House at noon. Lunch."
+  - Line 33: "You don't have to come if you don't want to," Annabeth said, picking at a loose thread on her shorts. "I can say you're sick."
 - Memory/disclosure candidates to inspect:
-  - Line 51: Thalia's throat went tight. Because that was the thing nobody else at camp understood. In this timeline, Thalia had raised Annabeth from the time Annabeth was four and Thalia was eight, two runaways hitching rides and sleeping under overpas
-  - Line 117: "I won't promise you power I don't have, Thalia."
-  - Line 161: That was closer to what Thalia needed than a promise of loyalty. She watched her sister erase a line that was too long for the scale.
+  - Line 47: Thalia's throat went tight. Because that was the thing nobody else at camp understood. In this timeline, Thalia had raised Annabeth from the time Annabeth was four and Thalia was eight, two runaways hitching rides and sleeping under overpas
+  - Line 113: "I won't promise you power I don't have, Thalia."
+  - Line 157: That was closer to what Thalia needed than a promise of loyalty. She watched her sister erase a line that was too long for the scale.
 
 ## 014: Chapter 14: Letters From Under the Sea
 
 - [Source](../../chapters/014-letters-from-under-the-sea.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 159, Clarisse 102, Silena 98, Annabeth 43, Amphitrite 30, Triton 29, Thalia 19, Poseidon 19, Nico 15, Chiron 14
+- Name appearances (not proof of presence): Percy 162, Clarisse 102, Silena 99, Annabeth 43, Amphitrite 32, Triton 29, Thalia 19, Poseidon 19, Nico 15, Chiron 14
 - Event/action candidates to inspect in context:
+  - Line 5: Percy listened until he recognized surface gulls fighting over crumbs near the canoe lake. In the weeks he'd spent back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters tapping against palace windows. Amp
   - Line 9: It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. He remembered th
   - Line 19: *Good morning, little brother! I left you honey cakes on the counter. Don't let Clarisse eat yours. Love, S.*
   - Line 31: He'd sent three letters down already. The first had been very formal because he'd been nervous: *Dear Mother and Father and Triton, Camp is adequate. Training is adequate. Food is adequate.* Silena had read it over his shoulder and said, "P
-  - Line 41: The lake was glassy and gold at that hour. Mist sat low over the water. The canoes were pulled up and dripping. At the edge of the dock, Chiron in his wheelchair form was guiding Nico di Angelo through how to toss a drachma correctly. Nico 
-  - Line 45: "I am offering it with respect," Nico said, holding a gold coin like it might bite him. "Respectfully skipping."
+  - Line 33: He hadn't seen an answer yet. The sea didn't do fast mail, and Percy refused to turn the delay into a story about Amphitrite forgetting him: she had written first and asked him to tell her about camp. Waiting for a reply was new enough to m
 - Memory/disclosure candidates to inspect:
-  - Line 11: Percy sat up. The cabin was quiet. The other Poseidon bunks were empty except for yesterday's abandoned towel mountain and a single sock that had somehow ended up on the ceiling beam. Sun stripes came through the shells set into the walls. 
+  - Line 11: Percy sat up. The cabin was quiet. The other Poseidon bunks were empty except for yesterday's abandoned towel mountain and a single sock that had somehow ended up on the ceiling beam. Sun stripes came through the shells set into the walls.
   - Line 355: Silena Beauregard kept a journal. She'd kept one since she was eight. It had pressed flowers in it and ticket stubs and little sketches of her siblings and, on the first page, in careful letters: *Things I Want To Remember When I Am Old.*
-  - Line 359: *Today Percy shared his family with us. His mom sent jam and bracelets. His brother sent a book that says DO NOT DIE. His dad sent a letter Percy hasn't opened yet. I think he's scared it will be short. Clarisse pretended not to care about 
+  - Line 359: *Today Percy shared his family with us. His mom sent jam and bracelets. His brother sent a book that says DO NOT DIE. His dad sent a letter Percy hasn't opened yet. I think he's scared it will be short. Clarisse pretended not to care about
 
 ## 015: Chapter 15: Beryl's Letters
 
 - [Source](../../chapters/015-beryl-s-letters.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 181, Annabeth 139, Percy 38, Beryl 28, Clarisse 26, Silena 26, Chiron 23, Zeus 14, Jason 12, Poseidon 7
+- Name appearances (not proof of presence): Thalia 186, Annabeth 141, Percy 40, Beryl 28, Clarisse 27, Silena 26, Chiron 23, Zeus 15, Jason 13, Poseidon 7
 - Event/action candidates to inspect in context:
+  - Line 5: On Friday Percy was at the breakfast pavilion when the mailbag hit the Hermes table, scattering leaves over somebody's toast. Strawberry carts had already crossed the path, and a cold wind from the Sound kept stirring the napkins. Across th
   - Line 11: "Anything good?" Silena asked.
   - Line 17: Percy felt his stomach drop before he even understood why.
   - Line 23: Thalia caught it one-handed without looking. Her face didn't change. Not exactly. But Percy, who had been watching her for weeks now in the way you watch weather, saw her thumb press hard into the corner of the envelope, saw her jaw tighten
   - Line 37: "You're staring," Clarisse muttered. She was thirteen, all elbows and cropped dark hair growing out from a bad training cut, her eyes sharper than most adults gave her credit for. "Stop staring."
-  - Line 41: "You are doing your goldfish face," Silena said gently. She pushed her stolen bacon back onto his plate when he didn't eat. "Percy. Eat."
 - Memory/disclosure candidates to inspect:
   - Line 75: > *Are there boys? Thalia, don't let boys be mean to your sister. Annabeth, don't let boys be mean to YOU. You are a princess, both of you, you are movie stars. When I get a car again we will drive to the ocean and get hot dogs and I will b
   - Line 98: Thalia folded the letter back up, slid it into the inner pocket of her leather jacket, and zipped it. She told herself she would give it to Annabeth after lunch. After training. After she figured out the right way to say *hey, remember Mom?
@@ -248,13 +248,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/016-capture-the-flag.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 131, Annabeth 130, Thalia 78, Ella 64, Clarisse 62, Nico 53, Silena 51, Grover 25, Poseidon 24, Chiron 22
+- Name appearances (not proof of presence): Percy 133, Annabeth 133, Thalia 78, Clarisse 65, Ella 64, Nico 53, Silena 52, Grover 25, Poseidon 23, Chiron 22
 - Event/action candidates to inspect in context:
+  - Line 3: Percy sat cross-legged on Cabin Three's floor with a bowl of goldfish crackers and a practice map between his knees. The room smelled of cedar, salt and leather conditioner from Clarisse's recently repaired shield. He was trying to look lik
   - Line 7: "Okay," Clarisse said, standing in front of the cabin's big map table with a spear she was using as a pointer. She was thirteen, already taller than Percy by a good two inches, with her father's dark hair pulled back in a severe ponytail an
   - Line 11: "No permanent dismemberment," Clarisse said.
   - Line 13: "Clarisse," Silena said sweetly, "that's so generous of you."
   - Line 15: "I'm growing as a person," Clarisse said flatly. "Shut up and listen. Their team has Thalia, which means their defense is going to be aggressive and loud. She likes to put her best fighters on the front line and dare you to come through. An
-  - Line 23: "Daughter of Zeus," Clarisse said, like that explained everything. "Thalia's little sister. They've been training together all week, which means she's probably been drilling her on formations. So we prepare for Zeus-style play. Direct assau
 - Memory/disclosure candidates to inspect:
   - Line 15: "I'm growing as a person," Clarisse said flatly. "Shut up and listen. Their team has Thalia, which means their defense is going to be aggressive and loud. She likes to put her best fighters on the front line and dare you to come through. An
   - Line 31: Clarisse gave him a look. "You're our secret weapon, little brother. You grew up in Atlantis, you've got water tricks nobody here has seen yet, and you're fast. I'm putting you on creek patrol with Silena. If anyone tries to cross at the sh
@@ -264,97 +264,97 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/017-lake-day.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 104, Annabeth 54, Clarisse 46, Thalia 44, Grover 44, Nico 41, Ella 40, Silena 21, Chiron 10, Poseidon 6
+- Name appearances (not proof of presence): Percy 105, Annabeth 54, Clarisse 47, Thalia 44, Grover 44, Nico 41, Ella 40, Silena 21, Chiron 11, Poseidon 6
 - Event/action candidates to inspect in context:
-  - Line 12: "Okay, stop making that face," Clarisse said, elbowing him hard in the ribs. She was already in her swimsuit, hair pulled back in a knot, a towel slung over her shoulder like a cape. "You look like someone told you the lake personally offen
-  - Line 14: "It didn't offend me," Percy said. "I'm observing it. With respect."
-  - Line 16: "You're sulking," Silena said, appearing on his other side. She had three bottles of sunscreen tucked under one arm and was already bossing people with the other hand. "Percy Jackson sulking on a free day should be illegal. Smile."
-  - Line 24: They were trying to be discreet about it now. A few weeks into camp, everybody knew they were together, as the flag game had made embarrassingly clear. Thalia noticed everything, Zoe commented on everything, and Clarisse preferred to preten
-  - Line 30: In Atlantis, you didn't *swim* on the surface. You moved *through*. During his recent lessons, Triton had told him to let the current take his weight, think about where he wanted to be, and listen for the water's answer. Legs were — well, h
+  - Line 8: "Okay, stop making that face," Clarisse said, elbowing him hard in the ribs. She was already in her swimsuit, hair pulled back in a knot, a towel slung over her shoulder like a cape. "You look like someone told you the lake personally offen
+  - Line 10: "It didn't offend me," Percy said. "I'm observing it. With respect."
+  - Line 12: "You're sulking," Silena said, appearing on his other side. She had three bottles of sunscreen tucked under one arm and was already bossing people with the other hand. "Percy Jackson sulking on a free day should be illegal. Smile."
+  - Line 20: They were trying to be discreet about it now. A few weeks into camp, everybody knew they were together, as the flag game had made embarrassingly clear. Thalia noticed everything, Zoe commented on everything, and Clarisse preferred to preten
+  - Line 26: In Atlantis, you didn't *swim* on the surface. You moved *through*. During his recent lessons, Triton had told him to let the current take his weight, think about where he wanted to be, and listen for the water's answer. Legs were — well, h
 - Memory/disclosure candidates to inspect:
-  - Line 54: So Percy stepped up to the edge of the dock, toed the splintery wood, and tried to remember everything he'd ever seen about how surface kids started races. They crouched? They dove? In Atlantis you just tipped forward and let go.
-  - Line 199: Zoe shook her head and went to help with the next group. Percy sat with Nico at the edge of the dock and dried his hair with a towel. The boy began asking about how swimming worked in Atlantis. Percy described what he'd been taught since ar
-  - Line 600: Percy took the orange slice. He glanced toward Clarisse, who was teaching a younger Hermes camper how to tuck her knees without throwing herself forward too early. Clarisse could be unexpectedly patient when somebody asked for help directly
+  - Line 50: So Percy stepped up to the edge of the dock, toed the splintery wood, and tried to remember everything he'd ever seen about how surface kids started races. They crouched? They dove? In Atlantis you just tipped forward and let go.
+  - Line 195: Zoe shook her head and went to help with the next group. Percy sat with Nico at the edge of the dock and dried his hair with a towel. The boy began asking about how swimming worked in Atlantis. Percy described what he'd been taught since ar
+  - Line 596: Percy took the orange slice. He glanced toward Clarisse, who was teaching a younger Hermes camper how to tuck her knees without throwing herself forward too early. Clarisse could be unexpectedly patient when somebody asked for help directly
 
 ## 018: Chapter 18: The Forge
 
 - [Source](../../chapters/018-the-forge.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 95, Percy 72, Beckendorf 57, Clarisse 56, Silena 54, Thalia 51, Zeus 16, Poseidon 6, Beryl 1
+- Name appearances (not proof of presence): Annabeth 95, Percy 72, Clarisse 57, Beckendorf 57, Silena 54, Thalia 52, Zeus 16, Poseidon 7, Beryl 1
 - Event/action candidates to inspect in context:
-  - Line 3: Percy knew better than to trust Annabeth when she showed up before breakfast with a rolled-up piece of graph paper under her arm and that particular look on her face.
-  - Line 9: "You haven't even heard what it is yet," Annabeth said, dropping into the seat across from him at the Poseidon table. Which she wasn't supposed to do, technically, since she was Zeus's kid now and supposed to sit at the Zeus table with Thal
-  - Line 13: "That was a good wall," Annabeth said. "That wall held."
-  - Line 21: "You want to build a temple," Percy said.
-  - Line 23: "A model temple," Annabeth corrected. "Small. Bronze and wood. I've been thinking about it since —" She stopped. Since she remembered being seventeen, she meant. Since she remembered a lifetime of sketching temples she would never get to bu
+  - Line 3: Percy recognized Annabeth's rolled graph paper before she reached the Poseidon table. The edges were creased, and graphite on her wrist told him she'd drawn and erased several versions. He knew the routine: she explained why an angle matter
+  - Line 7: "You haven't even heard what it is yet," Annabeth said, dropping into the seat across from him at the Poseidon table. Which she wasn't supposed to do, technically, since she was Zeus's kid now and supposed to sit at the Zeus table with Thal
+  - Line 11: "That was a good wall," Annabeth said. "That wall held."
+  - Line 19: "You want to build a temple," Percy said.
+  - Line 21: "A model temple," Annabeth corrected. "Small. Bronze and wood. I've been thinking about it since —" She stopped. Since she remembered being seventeen, she meant. Since she remembered a lifetime of sketching temples she would never get to bu
 - Memory/disclosure candidates to inspect:
-  - Line 35: Percy groaned, but he finished his toast. He'd follow Annabeth into a forge on a hot morning. He'd follow her pretty much anywhere. The remembering-everything-from-another-life thing had only made that more certain, if he was honest. His yo
-  - Line 253: She clamped two pieces in the vise at a right angle, fluxed them, lit the torch with a striker. Her hands shook a little at first — fire was fire, and she was Zeus's daughter now, lightning in her blood, not hearth-fire — but then muscle me
-  - Line 675: "Annabeth," Thalia said at last. "You told me there are years you remember that I don't. You remember what it was like to build before all this changed for you."
+  - Line 33: Percy groaned, but he finished his toast. He'd follow Annabeth into a forge on a hot morning. He'd follow her pretty much anywhere. The remembering-everything-from-another-life thing had only made that more certain, if he was honest. His yo
+  - Line 251: She clamped two pieces in the vise at a right angle, fluxed them, lit the torch with a striker. Her hands shook a little at first — fire was fire, and she was Zeus's daughter now, lightning in her blood, not hearth-fire — but then muscle me
+  - Line 673: "Annabeth," Thalia said at last. "You told me there are years you remember that I don't. You remember what it was like to build before all this changed for you."
 
 ## 019: Chapter 19: The Brother Across the Country
 
 - [Source](../../chapters/019-the-brother-across-the-country.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 115, Annabeth 114, Jason 65, Percy 62, Clarisse 34, Chiron 28, Silena 9, Zeus 6, Sally 3, Beryl 3
+- Name appearances (not proof of presence): Thalia 118, Annabeth 115, Jason 67, Percy 62, Clarisse 34, Chiron 29, Silena 9, Zeus 5, Beryl 4, Sally 3
 - Event/action candidates to inspect in context:
-  - Line 10: "You've been up for an hour," Thalia said, her voice rough with sleep.
-  - Line 12: "Forty minutes," Annabeth corrected without looking up. She was sitting cross-legged on her bunk, her blanket tucked around her legs even though the morning was warm. Her blond hair was in a messy braid over one shoulder, coming loose. Ther
-  - Line 24: Annabeth frowned, tapping her pencil against her notebook. "He was normal at dinner. He asked Percy about his sword forms and asked Silena about the strawberry harvest."
-  - Line 32: Annabeth closed her notebook. On the open page Thalia caught a glimpse of columns and measurements, a half-drawn temple with notes in the margins. Annabeth had been designing buildings since she was five. Thalia remembered sitting on the cr
-  - Line 34: "You drew yesterday too," Thalia said lightly. "The Parthenon again?"
+  - Line 4: Thalia woke before the first conch because static was gathering around Cabin One's window latch. It wasn't prophecy. She had never dreamed in green mist or seen futures in her sleep; her body simply noticed the pressure before a storm. When
+  - Line 6: Thalia had watched Annabeth grow up through missed meals, Beryl's broken promises and finally the safety of camp. Annabeth believed those years were real when Thalia told her, but could not retrieve them herself. Their brother Jason was eve
+  - Line 8: "You've been up for an hour," Thalia said, her voice rough with sleep.
+  - Line 10: "Forty minutes," Annabeth corrected without looking up. She was sitting cross-legged on her bunk, her blanket tucked around her legs even though the morning was warm. Her blond hair was in a messy braid over one shoulder, coming loose. Ther
+  - Line 22: Annabeth frowned, tapping her pencil against her notebook. "He was normal at dinner. He asked Percy about his sword forms and asked Silena about the strawberry harvest."
 - Memory/disclosure candidates to inspect:
-  - Line 44: Percy was already at the Poseidon table — which he shared with Clarisse and Silena — but he'd dragged his plate over to the edge closest to the Zeus table, which was technically against the rules and which Mr. D hadn't enforced in months be
-  - Line 93: In the memories she actually owned — the older life, clear enough to hurt — Bobby and Matthew were her little half-brothers. Frederick's sons with Helen; Annabeth's mother in that life had been Athena. She remembered Frederick's house in Ca
-  - Line 101: Now Annabeth sat in the arena with a practice sword in her hand and couldn't remember any of her forms.
+  - Line 6: Thalia had watched Annabeth grow up through missed meals, Beryl's broken promises and finally the safety of camp. Annabeth believed those years were real when Thalia told her, but could not retrieve them herself. Their brother Jason was eve
+  - Line 42: Percy was already at the Poseidon table — which he shared with Clarisse and Silena — but he'd dragged his plate over to the edge closest to the Zeus table, which was technically against the rules and which Mr. D hadn't enforced in months be
+  - Line 91: In the memories she actually owned — the older life, clear enough to hurt — Bobby and Matthew were her little half-brothers. Frederick's sons with Helen; Annabeth's mother in that life had been Athena. She remembered Frederick's house in Ca
 
 ## 020: Chapter 20: Cake and Lightning
 
 - [Source](../../chapters/020-cake-and-lightning.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 153, Percy 101, Annabeth 96, Silena 81, Ella 74, Grover 62, Clarisse 57, Chiron 11, Zeus 10, Sally 8
+- Name appearances (not proof of presence): Thalia 156, Percy 102, Annabeth 98, Silena 81, Ella 73, Grover 62, Clarisse 57, Chiron 11, Zeus 10, Sally 8
 - Event/action candidates to inspect in context:
   - Line 3: In the life he remembered, Percy Jackson had survived a Minotaur, a Fury on a bus, and Clarisse La Rue attempting to give him a swirly on his first day at Camp Half-Blood.
+  - Line 5: None of that had prepared him for Silena Beauregard arriving with a birthday-party supply list marked in three colors. She knew which kitchen shift could spare a mixer, which dryads would lend decorations and which counselors had to approve
   - Line 7: "No," Percy said immediately.
   - Line 11: "Please," Silena said. She clasped her hands. Her hair was perfect even at eight in the morning, which Percy found personally offensive. "Percy, please. You're the only one she won't suspect."
-  - Line 19: "See?" Silena gestured at him. "This is why we need a meeting. She never had a proper sixteenth party. Annabeth told me last night and made me swear on the Styx not to tell, and then I immediately told Grover, and Grover told Ella, and Ella
-  - Line 23: "That's... a lot of songs, Ella," Grover said gently.
+  - Line 19: "She turned sixteen without much of a celebration," Silena said. "Annabeth wanted to fix that. I told Grover we'd need music, Grover asked Ella for help, and now even the dryads know. Thalia will have guessed. We should put our effort into
 - Memory/disclosure candidates to inspect:
-  - Line 19: "See?" Silena gestured at him. "This is why we need a meeting. She never had a proper sixteenth party. Annabeth told me last night and made me swear on the Styx not to tell, and then I immediately told Grover, and Grover told Ella, and Ella
+  - Line 19: "She turned sixteen without much of a celebration," Silena said. "Annabeth wanted to fix that. I told Grover we'd need music, Grover asked Ella for help, and now even the dryads know. Thalia will have guessed. We should put our effort into
   - Line 31: "Because," Silena said delicately, "the plan requires baking. And decorations. And keeping a secret from Annabeth's sister while living in the same cabin cluster as Annabeth's sister. And Clarisse is involved."
-  - Line 241: This was important. Percy had been trying to explain why he wanted blue food without explaining memories that did not belong to the twelve years everyone else knew. In his remembered original childhood she had started it when he was little 
+  - Line 241: This was important. Percy had been trying to explain why he wanted blue food without explaining memories that did not belong to the twelve years everyone else knew. In his remembered original childhood she had started it when he was little
 
 ## 021: Chapter 21: Strawberry Fields and Amphitheater Nights
 
 - [Source](../../chapters/021-strawberry-fields-and-amphitheater-nights.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 101, Annabeth 101, Thalia 81, Silena 52, Clarisse 49, Ella 41, Grover 39, Chiron 25, Poseidon 10, Zeus 8
+- Name appearances (not proof of presence): Percy 102, Annabeth 102, Thalia 84, Silena 54, Clarisse 51, Ella 41, Grover 39, Chiron 26, Poseidon 9, Zeus 8
 - Event/action candidates to inspect in context:
-  - Line 5: The first thing Percy Jackson learned about strawberry harvest duty was that nobody at Camp Half-Blood woke up cheerful for it.
-  - Line 7: The second thing he learned was that the conch horn Chiron used to wake the strawberry crew sounded absolutely nothing like the ocean. It sounded like a goose getting stepped on.
-  - Line 29: "You angel," Percy said, collapsing onto the bench across from her. "Why are you happy about harvest? I heard it's brutal."
-  - Line 31: "It's not brutal, it's *logistical*," Annabeth said, tapping her notebook. He leaned over to look. She'd drawn the strawberry fields in perfect scale, little grid lines marking rows A through K, with arrows and assignments. "See? Ten rows, 
-  - Line 35: "It's both if Clarisse is involved," said a dry voice behind him.
+  - Line 26: "You angel," Percy said, collapsing onto the bench across from her. "Why are you happy about harvest? I heard it's brutal."
+  - Line 28: "It's not brutal, it's *logistical*," Annabeth said, tapping her notebook. He leaned over to look. She'd drawn the strawberry fields in perfect scale, little grid lines marking rows A through K, with arrows and assignments. "See? Ten rows,
+  - Line 32: "It's both if Clarisse is involved," said a dry voice behind him.
+  - Line 40: "I'm twelve," Annabeth said primly.
+  - Line 56: "She does this every harvest," Annabeth said, rolling her eyes, but she was grinning. "Last year she tried to disqualify the Demeter cabin for 'using plant magic.' Which is literally their powers."
 - Memory/disclosure candidates to inspect:
-  - Line 135: Ella the harpy — small, red-feathered, skinny, constantly muttering book titles under her breath — fluttered down beside the basket pile and began lining them up in perfect rows, whispering, "'The Secret Garden.' 'James and the Giant Peach.
-  - Line 409: "Okay," Silena said, pulling out a small notebook of her own — pink, with stickers. "Jam lesson, because several of you asked and because Percy looked at me like I'd invented fire when I mentioned it. Family recipe — my mom made it every Ju
-  - Line 433: Ella glowed crimson under her feathers, rocking back and forth happily. "'Ella gets jam.' Ella will shelve that memory with the happy endings."
+  - Line 132: Ella the harpy — small, red-feathered, skinny, constantly muttering book titles under her breath — fluttered down beside the basket pile and began lining them up in perfect rows, whispering, "'The Secret Garden.' 'James and the Giant Peach.
+  - Line 406: "Okay," Silena said, pulling out a small notebook of her own — pink, with stickers. "Jam lesson, because several of you asked and because Percy looked at me like I'd invented fire when I mentioned it. Family recipe — my mom made it every Ju
+  - Line 430: Ella glowed crimson under her feathers, rocking back and forth happily. "'Ella gets jam.' Ella will shelve that memory with the happy endings."
 
 ## 022: Chapter 22: Storm Training
 
 - [Source](../../chapters/022-storm-training.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 161, Thalia 146, Percy 84, Grover 34, Chiron 17, Silena 14, Clarisse 12, Jason 8, Zeus 6, Poseidon 3
+- Name appearances (not proof of presence): Annabeth 161, Thalia 147, Percy 84, Grover 34, Chiron 19, Silena 14, Clarisse 12, Jason 11, Zeus 6, Poseidon 3
 - Event/action candidates to inspect in context:
-  - Line 8: She sat up in Cabin One and stared at the ceiling for a moment. The cabin was too big for three people plus a guest cot. Thalia had claimed the bunk by the window and turned the sill into a graveyard of busted electronics — three watches, a
+  - Line 8: She sat up in Cabin One, careful not to wake Jason in the cot beside the door. Her ten-year-old brother had arrived the previous afternoon on a newly approved seven-day visit from Camp Jupiter. Chiron had explained the supervision rules, an
   - Line 12: In her first life — no. In the other life. The one where she was Annabeth Chase, daughter of Athena, architect, the girl who held up the sky. In that life her hands had been steady. She solved things. She built things. She read blueprints l
   - Line 22: The grass was wet. Mist hung low over the strawberry fields. The bronze dragon coiled around the Big House weathervane glinted faintly pink. Annabeth jogged up Half-Blood Hill, past the boundary pine — which still made her throat tighten ev
   - Line 26: "You're late," Thalia said without turning around.
   - Line 28: "The sun's not even up," Annabeth said.
 - Memory/disclosure candidates to inspect:
+  - Line 8: She sat up in Cabin One, careful not to wake Jason in the cot beside the door. Her ten-year-old brother had arrived the previous afternoon on a newly approved seven-day visit from Camp Jupiter. Chiron had explained the supervision rules, an
   - Line 38: "I'm nervous," she admitted quietly. It was easier to say to Thalia than to anyone else. Thalia listened. Really listened. She couldn't remember the other life Annabeth had described, but she knew what Annabeth had told her — Athena's daugh
-  - Line 224: Thalia gave them a flat look that said *Sure, and I'm the Queen of England.* But she let them squirm, because their flirting was funnier when they pretended it wasn't flirting. She knew what they'd told her about being seventeen, wars survi
-  - Line 240: "You two are terrible liars," Thalia said cheerfully. "It's my favorite thing about you. Eat your snacks. Then back to work. Percy, you can stay if you promise not to distract her by being... you."
+  - Line 103: She knew this about herself. She'd tried to teach younger campers to hold their shields properly and had to turn away when their arms got tired faster than her patience. Jason had left for Camp Jupiter while he was too small for her to teac
 
 ## 023: Chapter 23: Sally's Blue
 
@@ -363,7 +363,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Percy 106, Clarisse 63, Annabeth 59, Silena 50, Sally 36, Thalia 28, Tyson 26, Ella 24, Grover 21, Amphitrite 5
 - Event/action candidates to inspect in context:
   - Line 6: That was how most bad ideas at Camp Half-Blood started, in his experience. You didn't decide. You just opened your mouth at breakfast while the mist was still hanging low over the strawberry fields and said, "My mom made blue chocolate chip
-  - Line 8: By lunch, it had mutated. Tyson told Grover. Grover told Ella. Ella told approximately everyone she'd ever screeched at, which was everyone. Annabeth raised one eyebrow at him across the Poseidon table — because she still sat with him half 
+  - Line 8: By lunch, it had mutated. Tyson told Grover. Grover told Ella. Ella told approximately everyone she'd ever screeched at, which was everyone. Annabeth raised one eyebrow at him across the Poseidon table — because she still sat with him half
   - Line 10: "Kind of," Percy said.
   - Line 20: The audience consisted of: Tyson (assistant, extremely enthusiastic, flour already in his hair despite not having touched anything yet), Annabeth Grace (self-appointed quality control, notebook open, pencil sharpened to a lethal point), Sil
   - Line 24: Percy stared at the counter. Someone — probably the harpies who did dishes — had laid out what he'd asked for: flour, sugar, brown sugar, butter, eggs, baking soda, salt, vanilla, chocolate chips, and blue food coloring. Two bowls. A hand m
@@ -376,13 +376,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/024-the-climbing-wall.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 127, Percy 124, Thalia 98, Clarisse 60, Ella 59, Grover 48, Silena 33, Chiron 15, Poseidon 7, Beckendorf 7
+- Name appearances (not proof of presence): Annabeth 127, Percy 125, Thalia 98, Clarisse 60, Ella 60, Grover 48, Silena 33, Chiron 15, Poseidon 7, Beckendorf 7
 - Event/action candidates to inspect in context:
   - Line 8: Two: his left shoe was missing, and Grover was chewing on something that sounded suspiciously like leather.
   - Line 10: "Grover," Percy said, sitting up in his bunk and squinting through the morning light slanting into Cabin Three. "Tell me you're not eating my shoe."
   - Line 14: "I'm not eating your shoe," Grover said solemnly.
   - Line 22: Grover sighed dramatically and handed the shoe back. "My mom says stress-chewing is a natural satyr coping mechanism. You wouldn't understand. You have excellent teeth and no urge to eat tin cans."
-  - Line 24: "I have the urge to throw you in the lake," Percy said, but he was grinning as he laced up both shoes. His hair was sticking up in twelve different directions. He tried to flatten it. It sprang right back. He gave up. The sea breeze coming 
+  - Line 24: "I have the urge to throw you in the lake," Percy said, but he was grinning as he laced up both shoes. His hair was sticking up in twelve different directions. He tried to flatten it. It sprang right back. He gave up. The sea breeze coming
 - Memory/disclosure candidates to inspect:
   - Line 30: Percy splashed water on his face from the basin by the door. The water felt good. It always felt good, like the water was happy to see him. He didn't tell people that part because it sounded weird, even for camp.
   - Line 93: She was sitting on the porch of Cabin One — Zeus's cabin, all white marble and humming ozone and tall ceilings that made thunder sound louder inside — with a wax tablet on her knees and a stylus behind her ear, sketching the climbing wall f
@@ -392,7 +392,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/025-night-watches.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 80, Percy 70, Thalia 65, Clarisse 62, Grover 58, Silena 56, Chiron 29, Luke 7, Zeus 7, Beckendorf 6
+- Name appearances (not proof of presence): Annabeth 80, Percy 71, Thalia 65, Clarisse 63, Silena 58, Grover 58, Chiron 30, Luke 7, Zeus 7, Beckendorf 6
 - Event/action candidates to inspect in context:
   - Line 13: "It means stay inside the borders after dark unless you're on patrol," Luke said, already scanning the sign-up sheet. He looked tired. He always looked a little tired since Percy arrived, he thought, in a way that had nothing to do with sle
   - Line 29: "Night patrol," Thalia said, slinging an arm around Percy's shoulders and grinning, her black hair crackling faintly with static. "You and me, Kelp Head. Try to keep up."
@@ -408,7 +408,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/026-the-roof.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 123, Thalia 92, Percy 89, Zeus 13, Luke 10, Chiron 9, Jason 5, Sally 5, Poseidon 4, Clarisse 2
+- Name appearances (not proof of presence): Annabeth 126, Thalia 91, Percy 86, Zeus 12, Luke 10, Chiron 9, Jason 5, Poseidon 4, Sally 4, Grover 2
 - Event/action candidates to inspect in context:
   - Line 4: Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk.
   - Line 12: Percy was waiting behind the tool shed where she'd told him to meet her, exactly where she'd drawn an X on the little map she'd slipped into his copy of *The Odyssey* at dinner. He was wearing his camp hoodie over pajamas, his hair sticking
@@ -424,10 +424,10 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/027-the-library.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 120, Ella 95, Percy 79, Thalia 74, Chiron 37, Grover 29, Silena 26, Clarisse 18, Nico 12, Poseidon 4
+- Name appearances (not proof of presence): Annabeth 120, Ella 95, Percy 79, Thalia 75, Chiron 37, Grover 29, Silena 27, Clarisse 18, Nico 12, Poseidon 4
 - Event/action candidates to inspect in context:
   - Line 19: "It's perfect," Annabeth repeated, stepping inside. Her sneakers left prints in the dust on the floorboards. "Ella, what do you think? Can we do it?"
-  - Line 21: Ella the harpy hopped in after them, feathers fluffed against the damp, red eyes darting everywhere at once. She had a canvas tote bag from the camp store slung around her neck that said I SURVIVED THE LABYRINTH (MOSTLY) and inside it were 
+  - Line 21: Ella the harpy hopped in after them, feathers fluffed against the damp, red eyes darting everywhere at once. She had a canvas tote bag from the camp store slung around her neck that said I SURVIVED THE LABYRINTH (MOSTLY) and inside it were
   - Line 23: "Books," Ella said reverently. "So many books. Ella will organize. Ella loves to organize. 'The History of the Peloponnesian War, Volumes One through Eight, by Thucydides, son of Olorus.' Organize by author, by date, by subject, by size, by
   - Line 25: "By subject first," Annabeth said. She'd been planning this for two weeks, ever since Chiron mentioned that no one had properly inventoried the archives since the 1970s. "Then by date inside each subject. And we make a master list. If we fi
   - Line 27: Percy set his box down on the big oak table in the center of the room and looked around with the expression of a boy who had been promised pancakes and given paperwork. "You said research day. You made it sound fun."
@@ -443,20 +443,20 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Percy 155, Clarisse 145, Silena 87, Thalia 78, Annabeth 77, Zeus 6, Poseidon 4
 - Event/action candidates to inspect in context:
   - Line 3: Clarisse La Rue knew when someone was pulling their punches.
-  - Line 5: She knew because her father was Poseidon, and the sea did not pull punches. She knew because she had been at Camp Half-Blood since she was eight years old, and she had sparred with every kind of kid — the scared new ones, the show-off Ares 
+  - Line 5: She knew because her father was Poseidon, and the sea did not pull punches. She knew because she had been at Camp Half-Blood since she was eight years old, and she had sparred with every kind of kid — the scared new ones, the show-off Ares
   - Line 11: Clarisse loved team fights. She loved the noise and the press of it, shield on arm, spear in hand, calling short orders. Silena beside her with her dagger and that bright, fearless grin she got when she was having fun. Percy at her left wit
   - Line 15: Sherman came in heavy with his sword, the way he always did, telegraphing from the shoulder. Percy could have sidestepped and tapped his wrist and ended it in two moves. Clarisse had seen him do it in drills, fast as a fish turning. Instead
   - Line 27: "You fought like you were made of glass," Clarisse said. "Like you were scared you'd break someone if you actually swung."
 - Memory/disclosure candidates to inspect:
   - Line 95: "But the water—" Percy started. In the arena he could keep it small. In the pool, with all that salt around him and his blood humming, things wanted to get big. A flick could become a wave. He pictured the training hall he had watched on hi
-  - Line 169: Annabeth squeezed his hand. She knew about Atlantis and the childhood he could not personally remember, the way he knew about her fear of failing Thalia. They had talked about it on the Zeus cabin roof with blankets around their shoulders. 
+  - Line 169: Annabeth squeezed his hand. She knew about Atlantis and the childhood he could not personally remember, the way he knew about her fear of failing Thalia. They had talked about it on the Zeus cabin roof with blankets around their shoulders.
   - Line 189: Percy did not know that. He had grown up in Atlantis for the first years of this life — palaces and guards and deep pressure — but not in the pool. He had raw power and no skin for it.
 
 ## 029: Chapter 29: Rainy Day
 
 - [Source](../../chapters/029-rainy-day.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 80, Percy 69, Thalia 47, Clarisse 41, Silena 38, Ella 36, Grover 21, Nico 21, Zeus 13, Chiron 12
+- Name appearances (not proof of presence): Annabeth 81, Percy 69, Thalia 46, Clarisse 41, Silena 38, Ella 36, Grover 21, Nico 21, Zeus 13, Chiron 12
 - Event/action candidates to inspect in context:
   - Line 7: "It is just water," Clarisse said, arms crossed, spear over her shoulder. "Ares cabin trains in water."
   - Line 9: "It is lightning-adjacent water," Annabeth said from beside Percy, rain dripping off her ponytail. She'd come straight from the Zeus cabin porch at a run, her gray eyes bright, her camp shirt sticking to her shoulders. "Have you looked at t
@@ -472,7 +472,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/030-amphitrite-visits.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Amphitrite 117, Percy 114, Clarisse 70, Annabeth 65, Silena 45, Thalia 44, Chiron 23, Zeus 17, Grover 15, Poseidon 12
+- Name appearances (not proof of presence): Amphitrite 117, Percy 113, Clarisse 70, Annabeth 65, Silena 45, Thalia 44, Chiron 23, Zeus 17, Grover 15, Poseidon 12
 - Event/action candidates to inspect in context:
   - Line 3: Percy Jackson knew something was happening before Chiron even stood up, because the morning felt wrong in a good way.
   - Line 11: "Okay, what's going on?" Percy asked, leaning around Annabeth to stare at Thalia. Thalia was at the Zeus table with her feet up on the bench, trying to look like she wasn't also watching him. "Why does everyone keep looking at me? Do I have
@@ -504,7 +504,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/032-triton-visits.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Triton 146, Percy 126, Clarisse 38, Annabeth 35, Silena 26, Thalia 20, Chiron 17, Poseidon 16, Zeus 12, Amphitrite 4
+- Name appearances (not proof of presence): Triton 147, Percy 127, Clarisse 38, Annabeth 36, Silena 26, Thalia 20, Chiron 18, Poseidon 16, Zeus 12, Amphitrite 4
 - Event/action candidates to inspect in context:
   - Line 15: “In the dreams,” Triton said. “The conch dreams. Three nights running.”
   - Line 17: “Oh,” Percy said. “I thought those were just weird dreams about soup.”
@@ -513,8 +513,8 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 33: “Percy,” she said slowly. “Why is there a man in shell armor giving you a swirlie with lake water?”
 - Memory/disclosure candidates to inspect:
   - Line 213: The circle that formed was instant. Word travels fast at camp — *new godling in the arena, Clarisse is gonna kill him* — and within minutes there were thirty kids on the benches with popcorn from the Apollo cabin’s secret stash.
-  - Line 655: "I want him to know I remember him," Triton said.
-  - Line 891: As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his
+  - Line 657: "I want him to know I remember him," Triton said.
+  - Line 893: As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his
 
 ## 033: Chapter 33: Architecture
 
@@ -536,7 +536,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/034-mythomagic-tournament.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 155, Annabeth 136, Nico 97, Ella 94, Thalia 65, Grover 53, Clarisse 34, Zeus 34, Poseidon 24, Tyson 24
+- Name appearances (not proof of presence): Percy 157, Annabeth 136, Nico 97, Ella 94, Thalia 65, Grover 53, Clarisse 34, Zeus 34, Poseidon 25, Tyson 24
 - Event/action candidates to inspect in context:
   - Line 29: Okay. Secret time. A secret he hadn't told anyone at camp, not even Annabeth, especially not Annabeth because she would vivisect him with questions.
   - Line 35: In his original life — the erased history he and Annabeth both remembered, the one where she was Athena's daughter and their camp family had different parents — Mythomagic had been this dumb little card game that nobody cool admitted to pla
@@ -552,7 +552,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/035-the-letter.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 189, Annabeth 142, Percy 53, Silena 52, Jason 51, Clarisse 40, Grover 33, Chiron 21, Beryl 20, Beckendorf 5
+- Name appearances (not proof of presence): Thalia 190, Annabeth 142, Jason 55, Percy 53, Silena 52, Clarisse 40, Grover 33, Chiron 23, Beryl 21, Beckendorf 5
 - Event/action candidates to inspect in context:
   - Line 5: She knew exactly how many letters were inside without opening it because she counted them every night before lights-out, like some other kids counted drachmas or arrowheads or the cracks in the cabin ceiling. Seven. Seven letters from Beryl
   - Line 7: Thalia hadn't answered any of these seven new letters. They had sent an earlier reply when Beryl first contacted the camp, but that hadn't made the next letters easier.
@@ -571,7 +571,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Percy 91, Annabeth 90, Thalia 59, Clarisse 48, Silena 39, Ella 38, Grover 30, Chiron 18, Triton 7, Amphitrite 4
 - Event/action candidates to inspect in context:
   - Line 15: Five months of mornings at this camp. They had arrived before the first bolt quest in the life they remembered, but that didn't mean they knew how much time remained before any similar event here. Percy traced the blanket seam with one fing
-  - Line 27: "Morning," he told the fountain in the corner. The water jumped a little higher, pleased to be noticed. He'd named the little hippocampus carved at its rim Skip. Annabeth said naming camp plumbing was unsanitary and sentimental. She'd also 
+  - Line 27: "Morning," he told the fountain in the corner. The water jumped a little higher, pleased to be noticed. He'd named the little hippocampus carved at its rim Skip. Annabeth said naming camp plumbing was unsanitary and sentimental. She'd also
   - Line 43: Annabeth Grace knew the exact date without looking at the calendar.
   - Line 45: She knew it the way she knew the number of steps from Cabin One to the dining pavilion (one hundred forty-two, one hundred thirty-nine if she cut behind the forge), the way she had learned which floorboard in Cabin One, her present Zeus cab
   - Line 53: Then she got dressed with military precision — camp shirt, jeans, sneakers double-knotted, hair pulled back in the high ponytail Thalia called her "commander mode" — and did her morning checks. Bunk made square. Dagger sheathed. Shield poli
@@ -594,7 +594,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 16: Annabeth Grace, daughter of Zeus and Beryl. Twelve, and Thalia's little sister. The family names were simple enough; what unsettled Thalia was how little of their childhood Annabeth could remember now. Chiron had no neat answer for that.
   - Line 93: "Okay," Annabeth said, licking syrup off her thumb. "Can I ask you something and you promise not to laugh?"
-  - Line 134: "Frederick took me once. In the life I remember, before — before I came back." Annabeth's voice went a little flat. "He took me to a place with those sinks that lean back. The lady gave me a lollipop even though I was eleven. I was mad but 
+  - Line 134: "Frederick took me once. In the life I remember, before — before I came back." Annabeth's voice went a little flat. "He took me to a place with those sinks that lean back. The lady gave me a lollipop even though I was eleven. I was mad but
 
 ## 038: Chapter 38: Brothers and Sisters
 
@@ -656,7 +656,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 65: She lay there while Percy sat beside her, and they watched the sun come up over the water, turning the mist pink. Neither of them said anything important. From inside the cabin, Silena mumbled in her sleep and rolled over.
 - Memory/disclosure candidates to inspect:
   - Line 395: Clarisse glanced at her. "You can ask. Don't promise him before the instructor agrees."
-  - Line 425: Julian nodded. He took a stub of pencil from his pocket and made a small note on a folded card. Thalia watched him put it away, then continued toward her own patrol assignment. She couldn't promise every beginner would improve at her pace. 
+  - Line 425: Julian nodded. He took a stub of pencil from his pocket and made a small note on a folded card. Thalia watched him put it away, then continued toward her own patrol assignment. She couldn't promise every beginner would improve at her pace.
   - Line 441: That was only partly true. Percy had used all kinds of flotation gear during his time in Atlantis, but he didn't remember those lessons from childhood. His first clear memory of a surface vest belonged to a school trip with Sally in the lif
 
 ## 042: Chapter 42: Slow Dance
@@ -681,8 +681,8 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Annabeth 136, Thalia 110, Percy 103, Silena 78, Ella 70, Clarisse 30, Chiron 10, Zeus 6, Poseidon 5, Jason 4
 - Event/action candidates to inspect in context:
-  - Line 7: She had meant to draw the temple from her dreams, the one with broken columns and the sea behind it. Instead she kept thinking about sword drills that afternoon, and about Percy dreading them because Clarisse had promised to pair beginners 
-  - Line 17: Through history lessons Annabeth planned where to leave it. Percy always left his practice sword in the rack by the arena before lunch to save his spot. The strap of his sheath had a loose fold. During the break between classes she slipped 
+  - Line 7: She had meant to draw the temple from her dreams, the one with broken columns and the sea behind it. Instead she kept thinking about sword drills that afternoon, and about Percy dreading them because Clarisse had promised to pair beginners
+  - Line 17: Through history lessons Annabeth planned where to leave it. Percy always left his practice sword in the rack by the arena before lunch to save his spot. The strap of his sheath had a loose fold. During the break between classes she slipped
   - Line 23: "Ow," Clarisse said, smacking his shield. "Pay attention. You hold it like that and I will knock you flat."
   - Line 25: "Sorry," Percy said. He shifted the sheath on his arm and something white fluttered out and landed in the sand.
   - Line 29: "Nothing," Percy said too quickly, scooping it up. His ears went red to the tips. "Fell out of my pocket."
@@ -705,7 +705,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 17: It was stupid. He knew it was stupid even while it happened. He was twelve. He had excellent reasons to know better. In his head, tucked behind the twelve-year-old mornings and the cabin jokes, he carried the weight of another life, another
   - Line 119: "Hey, Percy," Annabeth said, bright. "You remember Theo?"
-  - Line 291: "And I remember being seventeen," Percy said quietly, so the Ares kids drilling in the corner would not hear. It was strange to say out loud. Only a few people knew — the way he sometimes knew things before they happened, the way he looked 
+  - Line 291: "And I remember being seventeen," Percy said quietly, so the Ares kids drilling in the corner would not hear. It was strange to say out loud. Only a few people knew — the way he sometimes knew things before they happened, the way he looked
 
 ## 045: Chapter 45: Grover's Crush
 
@@ -779,9 +779,9 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Event/action candidates to inspect in context:
   - Line 15: "You're both awake," Percy said. His voice came out rough.
   - Line 17: "You're awake," Clarisse said.
-  - Line 21: Silena nodded. She wound the thread tight enough to whiten her fingertip, then let it go. "I dreamed about the attic," she said. "The Big House attic. I have never even been up there. But I dreamed the trapdoor was open and green light was 
+  - Line 21: Silena nodded. She wound the thread tight enough to whiten her fingertip, then let it go. "I dreamed about the attic," she said. "The Big House attic. I have never even been up there. But I dreamed the trapdoor was open and green light was
   - Line 25: Clarisse set the whetstone down. "I didn't dream. I slept like a rock. Somebody has to in this cabin." She stood and slid her spear into the rack by the door, too careful about it, and Percy understood she had also felt it. The wrongness in
-  - Line 33: "Chiron wants you," Grover said, looking at Percy. Then at Clarisse and Silena. "All three of you. And Annabeth and Thalia. Big House. Now. Rachel's —" He swallowed. "Rachel's upstairs. In the attic. She went up at dawn and she hasn't come 
+  - Line 33: "Chiron wants you," Grover said, looking at Percy. Then at Clarisse and Silena. "All three of you. And Annabeth and Thalia. Big House. Now. Rachel's —" He swallowed. "Rachel's upstairs. In the attic. She went up at dawn and she hasn't come
 - Memory/disclosure candidates to inspect:
   - Line 169: "I don't think we should tell Chiron what we remember about the old bolt," he said.
   - Line 215: "I'll do it," Percy said. "I swear on the Styx — no, I swear on my mom —" He stopped. Sally was gone in this history. Amphitrite had raised him here, but it was Sally's blue cookies and laugh that rose in his memory. His throat closed. Sile
@@ -841,7 +841,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 111, Thalia 92, Annabeth 88, Grover 62, Chiron 11, Jason 8, Clarisse 7, Tyson 7, Silena 6, Ella 6
 - Event/action candidates to inspect in context:
-  - Line 7: Percy felt it in his knees first. Adrenaline had carried him up all six hundred and thirty feet and back down again. Now that it was gone, his legs remembered every stair in the Gateway Arch, every jolt of the tram, every second he'd spent 
+  - Line 7: Percy felt it in his knees first. Adrenaline had carried him up all six hundred and thirty feet and back down again. Now that it was gone, his legs remembered every stair in the Gateway Arch, every jolt of the tram, every second he'd spent
   - Line 9: Behind him, Annabeth moved carefully, still exhausted from guiding civilians down the Arch stairs, her previously burned palm protected beneath a clean dressing. Thalia had a bandaged cut along her forehead and a burned sleeve from the Chim
   - Line 19: "You okay, Kelp Head?" Annabeth asked, coming up beside him.
   - Line 51: *I know whose smell is on you.* The water curled around his fingers, warmer than it should have been. *Poseidon. Earthshaker. He came through here once, long before this was called Mississippi. When the ice melted. He walked the flood and t
@@ -881,7 +881,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 73: Martin met her eyes. "At the time we agree on, I'll call Chiron. I won't drive off without telling anybody. If your situation changes and you can communicate safely, use the depot contact, not a public number. I can't promise I can go in af
   - Line 454: "I remember the moves you showed me at camp," Annabeth said. "You told me you made it up when I was scared under the highway bridge. Daughters of thunder do not go dark alone."
-  - Line 478: "I lost him when he was two," she said. "My mom was not well. Hera... Hera took him. To protect him, she said. To make him a hero somewhere else. I did not know for a long time if he was alive or dead. Now I know he is at Camp Jupiter, but 
+  - Line 478: "I lost him when he was two," she said. "My mom was not well. Hera... Hera took him. To protect him, she said. To make him a hero somewhere else. I did not know for a long time if he was alive or dead. Now I know he is at Camp Jupiter, but
 
 ## 056: Chapter 56: Hades
 
@@ -921,7 +921,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 147, Annabeth 78, Zeus 59, Thalia 57, Poseidon 40, Grover 39, Amphitrite 18, Silena 11, Sally 11, Clarisse 8
 - Event/action candidates to inspect in context:
-  - Line 5: Percy felt it in his teeth before he saw it, the way the air went tight and electric as the taxi rattled down Fifth Avenue toward the Empire State Building. The sky above the towers was a hard, cloudless blue, too bright for morning. Every 
+  - Line 5: Percy felt it in his teeth before he saw it, the way the air went tight and electric as the taxi rattled down Fifth Avenue toward the Empire State Building. The sky above the towers was a hard, cloudless blue, too bright for morning. Every
   - Line 9: Percy had his backpack on his lap. It held injury notes, their witness statements, Sally's stamped welfare reply and the small things his sisters had packed. The weapon itself had been sealed by an authorized armory representative after the
   - Line 13: Thalia sat to Percy's left, silver hairband crooked on her head, leather jacket torn at the shoulder where Ares's blade had grazed her. She kept checking the sky through the taxi window.
   - Line 23: "We did, sort of," Thalia said.
@@ -939,7 +939,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Event/action candidates to inspect in context:
   - Line 19: “You good?” Percy asked her quietly.
   - Line 29: The transport from Olympus had brought them to a nearby terminal, where Chiron's bus driver met them with a list of names and permission slips. It seemed strange that a party returning from the throne room of Zeus still needed to show paper
-  - Line 33: Near Half-Blood Hill, the driver had asked whether the injuries needed to be checked before the celebration. Thalia answered that they had received medical care, then admitted she had a follow-up appointment to arrange for her head injury. 
+  - Line 33: Near Half-Blood Hill, the driver had asked whether the injuries needed to be checked before the celebration. Thalia answered that they had received medical care, then admitted she had a follow-up appointment to arrange for her head injury.
   - Line 35: "Chiron will want to know," the driver said.
   - Line 37: "We'll tell him," Annabeth promised.
 - Memory/disclosure candidates to inspect:
@@ -970,10 +970,10 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Annabeth 141, Percy 134, Thalia 77, Clarisse 12, Chiron 12, Zeus 12, Jason 11, Silena 7, Poseidon 6, Tyson 6
 - Event/action candidates to inspect in context:
   - Line 3: The last bus left Camp Half-Blood on the second Saturday in September, and Percy stood on Half-Blood Hill and watched it go.
-  - Line 5: He had watched the summer buses arrive in June with a tight, hopeful feeling in his chest, like he was waiting for a wave to pick him up. Watching them leave was different. It was quieter. No one cried this time the way they had at the end 
+  - Line 5: He had watched the summer buses arrive in June with a tight, hopeful feeling in his chest, like he was waiting for a wave to pick him up. Watching them leave was different. It was quieter. No one cried this time the way they had at the end
   - Line 23: "Well," Chiron said, smiling at the two of them. "Shall we see who we have left?"
   - Line 27: The year-rounder list was short enough to fit on one page of Chiron's legal pad, and Mr. D read it aloud that night in the dining pavilion like he was announcing the end of the world.
-  - Line 31: "Percy Jackson," Mr. D said, squinting at the list over his sunglasses. "Annabeth Grace. Grover Underwood, whenever he deigns to return from satyr business. Connor and Travis Stoll, unfortunately, because their mother insists summer school 
+  - Line 31: "Percy Jackson," Mr. D said, squinting at the list over his sunglasses. "Annabeth Grace. Grover Underwood, whenever he deigns to return from satyr business. Connor and Travis Stoll, unfortunately, because their mother insists summer school
 - Memory/disclosure candidates to inspect:
   - Line 543: The memory made her angry all over again. It also told her something about the letter. She didn't need Jason to admire her for being a good sister. She wanted him to know her, including the parts that were impatient and tired.
   - Line 633: "What did Clarisse say in her second letter?" she asked finally. "You didn't tell me."
@@ -1020,7 +1020,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 7: Percy noticed it first in the water. He was at the canoe lake before breakfast, skipping stones, when the naiads surfaced and told him the deep-water flowers had bloomed overnight.
   - Line 13: He tried a flatter stone the way Tyson taught him, sidearm and low, wrist loose. It hopped four times before sinking. The naiads clapped politely. One told him the lake liked him because he said please to the water. Percy was not sure water
   - Line 17: Thinking of Annabeth made his stomach flip the way it had all winter. On the bridge they had promised to make time for each other even when classes and palace duties got difficult. They had loved each other before returning; living that lov
-  - Line 19: Chiron had called it young and sweet and had given them the talk about respect and friendship first, which had made Percy's ears burn. Poseidon had laughed loud enough to rattle the Atlantis windows and hugged him. Thalia, Annabeth's older 
+  - Line 19: Chiron had called it young and sweet and had given them the talk about respect and friendship first, which had made Percy's ears burn. Poseidon had laughed loud enough to rattle the Atlantis windows and hugged him. Thalia, Annabeth's older
   - Line 23: It was not dramatic the way mortal movies made dating sound. There were no grand gestures. It was small things. Percy saved her the corner brownie because he knew she liked the crisp edge. Annabeth saved him the extra pencil because he alwa
 - Memory/disclosure candidates to inspect:
   - Line 529: Thalia's tone made it plain she wasn't offering the memory as proof their mother had been a saint. She remembered an ordinary, difficult woman with a dress she wouldn't give up on, not a mother who could be explained by one beautiful photog
@@ -1039,7 +1039,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 35: "Annabeth Grace," Triton said. "Thalia speaks of you in Atlantis. She says you ask better questions than the palace scholars."
   - Line 39: "Thalia never exaggerates," Triton said. "She only shouts."
 - Memory/disclosure candidates to inspect:
-  - Line 53: Annabeth glanced at Percy. She lived in Cabin One now, with its white marble and its crackling air, and she was still learning the shape of a childhood she could not remember. Thalia's bus ticket stubs were on her corkboard. Thalia's spare 
+  - Line 53: Annabeth glanced at Percy. She lived in Cabin One now, with its white marble and its crackling air, and she was still learning the shape of a childhood she could not remember. Thalia's bus ticket stubs were on her corkboard. Thalia's spare
   - Line 319: They circled. Percy tried to remember kelp-not-oak. He let his knees go loose, let the water in his whip hum.
   - Line 690: Percy sat with Annabeth on the dune while she sketched Triton from memory — Triton with his trident planted, water sheeting off his shoulders, glaring at Clarisse. She'd caught him perfectly: proud, annoyed, fond, all at once.
 
@@ -1049,7 +1049,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Thalia 143, Percy 106, Annabeth 95, Clarisse 65, Silena 56, Jason 48, Chiron 21, Zeus 7, Triton 4, Beryl 2
 - Event/action candidates to inspect in context:
-  - Line 19: They ran up the hill together, Annabeth's hand tight in his, her notebook abandoned on the dock. By the time they reached the Big House porch, a small crowd had gathered. Chiron stood there in his wheelchair form, trotting out in his human 
+  - Line 19: They ran up the hill together, Annabeth's hand tight in his, her notebook abandoned on the dock. By the time they reached the Big House porch, a small crowd had gathered. Chiron stood there in his wheelchair form, trotting out in his human
   - Line 25: "Whoa," Clarisse said, pushing forward with Silena right behind her. Silena had a face mask on and cucumber slices in a baggie, clearly interrupted mid-morning routine. "Pinecone Face has a Roman pen pal?"
   - Line 27: "Shut up, Clarisse," Thalia said automatically, but her voice shook. She untied the tube with fingers that fumbled twice. The eagle nipped her sleeve affectionately, then launched itself back into the sky with a scream that rattled the porc
   - Line 31: "It's his handwriting," Thalia whispered. She turned the leather over. Burned into the cap in careful block letters: THALIA — FROM JASON. DO NOT LET PERCY EAT THIS. "It's from Jason."
@@ -1095,23 +1095,23 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/069-silena-s-song.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Silena 96, Percy 70, Clarisse 61, Annabeth 56, Thalia 28, Grover 21, Chiron 5, Poseidon 3, Nico 3, Amphitrite 1
+- Name appearances (not proof of presence): Silena 156, Clarisse 71, Percy 70, Annabeth 56, Thalia 28, Grover 21, Chiron 6, Poseidon 3, Nico 3, Amphitrite 1
 - Event/action candidates to inspect in context:
-  - Line 9: To his left, Clarisse La Rue had her boots up on the step below and a half-eaten s'more in one fist. To her left, Silena Beauregard had her knees tucked up under her oversized blue sweater, her dark hair braided back with little shells tied
-  - Line 11: To Percy's right, Annabeth Grace sat close enough that their shoulders touched. She had her notebook closed for once, which was how Percy knew it was a real night off. Beyond Annabeth sat Thalia Grace in her black leather jacket, her silver
-  - Line 35: Silena sank lower in her sweater. "I can't. I told her maybe. I didn't mean tonight."
-  - Line 39: "Hey," Clarisse said quietly, so only their row could hear. "What's the rule?"
-  - Line 43: "The rule," Clarisse said. "On my shield. What does it say?"
+  - Line 7: It was not her guitar. The Apollo cabin kept it in a cupboard beside three cracked tambourines, a lyre with one missing string, and the drum Austin had once used to keep time for an entire song in the wrong time signature. Silena had only o
+  - Line 11: “I’m not being held here hostage by a guitar,” Silena said. “It’s just that this string is wrong.”
+  - Line 17: The note sharpened. Kayla’s eyebrows rose. Silena kept her eyes on the headstock. She had never learned enough about instruments to call herself a musician, but she could hear when something was out of tune. She could hear when a song wante
+  - Line 27: Kayla looked at the sheet, then at Silena. “I wrote ‘requests.’ I didn’t put your name.”
+  - Line 37: Silena’s fingers went still on the tuning key. She could hear the camp in the distance: the clank of dishes from the pavilion, the scrape of a practice shield, a shout from the direction of the canoe lake. Normal sounds. Nobody was calling
 - Memory/disclosure candidates to inspect:
-  - Line 61: "Because we're your family and we're legally required to lie?" Clarisse said. "No. I'm your sister and I never lie to make you feel better. I lie to make monsters feel worse. You're good. Remember Mrs. Alvarez?"
-  - Line 65: "Mrs. Alvarez," Clarisse repeated. "Second grade. Choir tryouts. You remember."
-  - Line 146: Percy's chest went tight. He knew that song. Not from camp: Amphitrite had hummed it during his last palace visit, sitting beside him while the water outside the coral windows went dark. She had told him she used to sing it over his bed whe
+  - Line 121: Silena watched the pencil move. A small thing, a few words on a program. It would not stop people from looking at her. It would not make a crowd quiet or take away the strange rush of being wanted and watched at the same time. But it meant
+  - Line 145: Kayla smiled, but didn’t turn the word into a promise. She gave Silena the guitar strap and helped her thread it over her shoulder. The instrument felt heavier than it looked. Silena adjusted the strap until the body rested against her hip,
+  - Line 207: Halfway to the path, she heard footsteps coming from the camp. A younger camper appeared around the bend, walking fast and looking down at the trail. Silena recognized him from the Hermes cabin, though she could not remember his name. He ca
 
 ## 070: Chapter 70: Clarisse's Poems
 
 - [Source](../../chapters/070-clarisse-s-poems.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Clarisse 86, Ella 54, Percy 53, Annabeth 46, Thalia 33, Tyson 29, Jason 28, Silena 11, Poseidon 3, Chiron 3
+- Name appearances (not proof of presence): Clarisse 160, Percy 105, Annabeth 71, Ella 65, Thalia 36, Jason 36, Tyson 32, Silena 27, Chiron 17, Beckendorf 13
 - Event/action candidates to inspect in context:
   - Line 13: “She smiled once,” Percy said. “I saw it. Last July 14th. I marked it down.”
   - Line 33: “Give me that,” Clarisse said, very quietly, which was somehow worse than shouting.
@@ -1127,28 +1127,28 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/071-anniversary.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 91, Annabeth 62, Grover 28, Tyson 25, Silena 24, Clarisse 23, Thalia 18, Chiron 10, Poseidon 4, Amphitrite 1
+- Name appearances (not proof of presence): Percy 150, Annabeth 92, Tyson 44, Thalia 36, Grover 33, Silena 30, Clarisse 25, Nico 20, Chiron 11, Beckendorf 10
 - Event/action candidates to inspect in context:
   - Line 7: "Ha, ha," he said loudly to the quiet cabin. "Very funny. Tyson, if that's you—"
-  - Line 11: Percy stared at it. Then he smiled in spite of himself. Fifteen months ago, in January, he had come up from the harbor with Grover, salt in his hair, a bag full of palace clothes, and no idea how to explain the life he remembered. Annabeth 
+  - Line 11: Percy stared at it. Then he smiled in spite of himself. Fifteen months ago, in January, he had come up from the harbor with Grover, salt in his hair, a bag full of palace clothes, and no idea how to explain the life he remembered. Annabeth
   - Line 13: "You drool when you sleep," Annabeth Grace had said, quoting her younger self from that other life.
   - Line 29: More than a year. He'd arrived here from Atlantis with Grover showing him the path and Amphitrite's goodbye still in his ears. The Minotaur's horn belonged to his remembered original arrival, not this one. He'd been twelve again and furious
   - Line 37: She looked up when she heard him, and smiled — that quick, bright, real smile she only gave him — and Percy's heart did the stupid, swoopy thing it had been doing for months.
 - Memory/disclosure candidates to inspect:
   - Line 27: Percy took the long way to breakfast, because on a day like this he wanted to remember everything. Past the cabins — all quiet, shutters closed, except the Hermes cabin where someone was already shouting about a missing shoe. Past the forge
-  - Line 147: "Yeah." Annabeth blinked fast. "Just — when he first arrived he didn't want to be here. Remember? He tried to run away twice in the first week."
-  - Line 281: From Thalia: a silver arrowhead from the camp forge on a cord. "For luck," she said gruffly, tying it around his wrist herself. "And so you remember your girlfriend's big sister is watching your back. Don't make it weird."
+  - Line 143: Percy felt the old, uncomfortable pinch behind his ribs. Thalia had lived a sisterhood with Annabeth that Annabeth couldn't remember from inside. It wasn't a lie, and it wasn't an inconvenience the universe could simply apologize for.
+  - Line 347: "Yeah." Annabeth blinked fast. "Just — when he first arrived he didn't want to be here. Remember? He tried to run away twice in the first week."
 
 ## 072: Chapter 72: New Kids
 
 - [Source](../../chapters/072-new-kids.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 84, Annabeth 72, Clarisse 50, Thalia 47, Silena 37, Ella 31, Grover 19, Poseidon 11, Tyson 11, Chiron 11
+- Name appearances (not proof of presence): Percy 135, Annabeth 107, Clarisse 57, Thalia 56, Silena 53, Ella 34, Chiron 33, Grover 23, Tyson 17, Poseidon 11
 - Event/action candidates to inspect in context:
   - Line 5: It was the light that did it. Pale and thin through the seashell window of Cabin Three, the same gray-gold he remembered over the harbor more than a year ago. That arrival still tangled sometimes with his original infirmary memory: a blonde
   - Line 7: Percy sat up, scrubbed his hands through his black hair, and grinned at nothing. More than a year. He knew where the mess hall was. He knew which steps on the Big House porch creaked. He knew that the harpies took the breakfast plates at ex
   - Line 17: She dressed fast in jeans and her camp shirt and her necklace with four beads, pulled her curls back, and met Percy on the Big House porch at the same time as always, like their feet had the same clock.
-  - Line 21: "Hey, Wise Girl," Percy said, and bumped her shoulder with his. His hand found hers for a second and held on. It still made his ears go warm through summer, winter, and now spring, and Annabeth's ears went pink too, and they both pretended 
+  - Line 21: "Hey, Wise Girl," Percy said, and bumped her shoulder with his. His hand found hers for a second and held on. It still made his ears go warm through summer, winter, and now spring, and Annabeth's ears went pink too, and they both pretended
   - Line 27: "Ah, my guides," he said. "Good morning, Percy. Annabeth. Did you sleep well?"
 - Memory/disclosure candidates to inspect:
   - Line 5: It was the light that did it. Pale and thin through the seashell window of Cabin Three, the same gray-gold he remembered over the harbor more than a year ago. That arrival still tangled sometimes with his original infirmary memory: a blonde
@@ -1159,7 +1159,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/073-the-play.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 65, Annabeth 57, Thalia 29, Clarisse 24, Zeus 14, Grover 13, Poseidon 12, Nico 12, Tyson 6, Jason 6
+- Name appearances (not proof of presence): Annabeth 122, Thalia 91, Percy 84, Zeus 36, Clarisse 28, Poseidon 17, Grover 13, Nico 13, Jason 10, Tyson 6
 - Event/action candidates to inspect in context:
   - Line 11: Percy Jackson stopped in front of it with a mouthful of toast and read it twice.
   - Line 15: Annabeth Grace, coming up the porch steps behind him with blueprints tucked under one arm and a smudge of charcoal on her cheek, read over his shoulder. "Oh, absolutely yes."
@@ -1167,92 +1167,95 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 19: "You were a great horse," Annabeth said solemnly. "You had real hindquarter energy."
   - Line 23: Thalia Grace pushed past them both, sparks crackling faintly off her leather jacket from the morning patrol. She read the sign, snorted, and kept walking. "Hard pass. I don't do community theater."
 - Memory/disclosure candidates to inspect:
-  - Line 333: They stood like that while Will gave his frantic last-minute speech — "Have fun, remember your cues, Clarisse please don't actually stab anyone, Leo please *do* stop talking at some point, Thalia your bolt is fireproof now, Grover breathe, 
+  - Line 173: Annabeth held the script on her knees. She had heard Zeus rage in the present timeline, in hallways that smelled of rain and ozone. She had learned from Thalia how rarely their father came, and how a visit could leave more silence afterward
+  - Line 207: "No, you remember me *telling* you," Annabeth said softly. "That's different."
+  - Line 213: "I know you were there for me when I was little here," Annabeth said. "You took me to school. You put me to bed. You argued with our father. I don't remember those things from inside. It isn't that I don't believe you."
 
 ## 074: Chapter 74: Tyson's Visit
 
 - [Source](../../chapters/074-tyson-s-visit.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Tyson 137, Percy 109, Annabeth 50, Thalia 31, Clarisse 29, Silena 17, Poseidon 9, Chiron 8, Grover 5, Beckendorf 2
+- Name appearances (not proof of presence): Tyson 232, Percy 190, Clarisse 70, Annabeth 50, Silena 38, Thalia 31, Poseidon 9, Chiron 8, Grover 5, Beckendorf 3
 - Event/action candidates to inspect in context:
-  - Line 3: The conch announced Tyson's return for a longer visit with three short blasts just after breakfast, which at Camp Half-Blood usually meant an incoming war party or a counselor meeting, but Percy knew better that morning because Chiron had b
   - Line 7: "You're bouncing your knee," Annabeth said.
   - Line 17: "He said morning. It's morning. That's all morning," Percy said, gesturing at the sky like it was personally responsible.
   - Line 35: "Little brother!" Tyson said. "I came! I came for whole week!"
   - Line 37: "You made it," Percy said, hugging him hard around the neck, not caring that his feet were dangling two feet off the ground. "You actually made it."
+  - Line 51: "Thalia!" Tyson beamed and offered her a fist bump the size of a ham, which she returned with a solid knock. "You kept pine tree safe! Good tree!"
 - Memory/disclosure candidates to inspect:
-  - Line 405: "In Atlantis, mermaids asked me. They said, 'Is your brother dating the smart blonde girl?' I said I did not know. Is she?" Tyson looked at him earnestly. "Are you ... boyfriend-girlfriend? Like kissing?"
-  - Line 407: Percy's face went furnace-hot. He was deeply grateful for the dark. "Oh. Uh. Yeah. Yeah, she — she's my girlfriend. We're together. Since we found each other here last January. And longer in the life we remember."
-  - Line 429: Tyson was quiet a moment. "Boss is kind. Work is good. I have friends. But I miss you every day. Then I remember photo, and I am okay."
+  - Line 439: Tyson shook his head. "No. Not today. I chose the game. I want people to remember it was a game. I can tell them myself if it happens again."
+  - Line 689: "Rack," Tyson said. "For Silena. You remember the trouble with drying rack?"
+  - Line 691: "I remember Clarisse trying to execute me for moving her equipment chest."
 
 ## 075: Chapter 75: Zoe's Story
 
 - [Source](../../chapters/075-zoe-s-story.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 34, Annabeth 33, Thalia 19, Clarisse 16, Chiron 10, Zeus 3, Poseidon 1, Beckendorf 1
+- Name appearances (not proof of presence): Percy 70, Annabeth 43, Thalia 26, Chiron 26, Clarisse 23, Ella 4, Tyson 3, Zeus 3, Grover 2, Poseidon 1
 - Event/action candidates to inspect in context:
   - Line 11: Chiron had asked her that afternoon if she would speak. It was a tradition, though an irregular one. Older campers near the end of their time told a story if they wanted to. Not a quest report. Not a lesson. Just the truth about how they go
-  - Line 79: Zoe stopped there for a moment, looking around the amphitheater. Percy realized he was holding his breath. Next to him, Annabeth had gone very still, her gray eyes fixed on Zoe. He knew what she was thinking because he was thinking it too. 
-  - Line 121: Thalia gave a short nod from her bench, like she understood exactly. Clarisse, arms crossed, was frowning, but not in a mean way. More like she was working something out.
-  - Line 127: Soft laughter again. Percy felt Annabeth relax against him again, just slightly. He knew that feeling. Arriving angry. Planning to leave. Then the camp getting under your skin like pine sap.
-  - Line 135: "I hated the cabin at first," Zoe admitted. "It was dark. It whispered. The Mist pooled in the corners like water. I told Chiron I wanted to sleep in the Hermes cabin, where it was loud and normal. Chiron told me, 'My dear, normal left the 
+  - Line 23: Percy saw Ella straighten in the back row, her notebook opened to a clean page. The harpy had learned something difficult about private writing when she'd found Clarisse's poems. She waited now instead of immediately taking notes.
+  - Line 31: Chiron moved from his place near the back of the amphitheater. Three of the newest campers had been sitting with their counselor a little below him. Milo was leaning forward with his elbows on his knees. Lucy had taken her flashing shoes of
+  - Line 33: "The younger campers may leave now if they wish," Chiron said. "Some of this account is frightening. It is not a test of courage to stay awake through every word."
+  - Line 47: Percy shifted a little closer to Annabeth. Tyson had returned to Atlantis after his long visit, leaving a photograph on Cabin Three's windowsill and a jar of peanut butter that Percy had been making last longer than necessary. The empty bun
 - Memory/disclosure candidates to inspect:
-  - Line 157: Annabeth sat up straighter. Percy knew that look. That was her I-need-to-write-this-down look. She whispered, "Permission, not power," under her breath, committing it to memory.
-  - Line 227: Annabeth nodded, tears spilling over. Percy put his arm around her shoulders, steady and familiar, and she leaned into him. He understood. They had their own version of placed and replaced, of homes that did not hold. Camp had held. Barely,
+  - Line 317: Annabeth squeezed Percy's hand beneath the blanket. She had heard the story with him. That was a new memory neither needed a spell to claim.
+  - Line 393: Annabeth sat up straighter. Percy knew that look. That was her I-need-to-write-this-down look. She whispered, "Permission, not power," under her breath, committing it to memory.
+  - Line 463: Annabeth nodded, tears spilling over. Percy put his arm around her shoulders, steady and familiar, and she leaned into him. He understood. They had their own version of placed and replaced, of homes that did not hold. Camp had held. Barely,
 
 ## 076: Chapter 76: The Promise (II)
 
 - [Source](../../chapters/076-the-promise-ii.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 52, Percy 48, Thalia 28, Clarisse 26, Ella 24, Silena 17, Grover 13, Chiron 4, Poseidon 2, Amphitrite 1
+- Name appearances (not proof of presence): Percy 124, Annabeth 107, Clarisse 53, Thalia 48, Silena 34, Grover 30, Ella 23, Chiron 20, Poseidon 2, Zeus 2
 - Event/action candidates to inspect in context:
   - Line 9: Annabeth Grace knew he was not working before she even reached the dock. She could tell by the way the rope pile beside him had not grown at all in the last ten minutes, and by the way his shoulders were hunched forward, elbows on knees, ch
-  - Line 23: Annabeth dropped her coil onto his coil and sat down beside him, legs dangling over the water. Her sneakers were dusty. There was a smudge of charcoal on her left wrist from the drafting table the Athena campers let her borrow, and a fresh 
+  - Line 23: Annabeth dropped her coil onto his coil and sat down beside him, legs dangling over the water. Her sneakers were dusty. There was a smudge of charcoal on her left wrist from the drafting table the Athena campers let her borrow, and a fresh
   - Line 37: She had begun something last summer and returned to it this spring. Not for a quest. Not for Chiron, not for a divine parent, not for extra credit in cabin leadership. Just for them.
+  - Line 51: They left the rope where it lay for the moment; Percy secured the loose end to the cleat so nobody would trip and reminded himself to finish the assigned coils before dinner.
   - Line 59: Percy stopped when he saw it and forgot to make a joke, which for him meant it mattered.
-  - Line 61: Two low stone walls formed a shallow alcove beneath an old oak. The stones were not perfect. They were Long Island fieldstone, fitted carefully but not cut square, the mortar lines a little uneven where she had done it herself instead of as
 - Memory/disclosure candidates to inspect:
-  - Line 93: They had gone into a sunken farmhouse in Pennsylvania to retrieve a stolen Oracle bone that a rogue son of Mnemosyne was using to replay battles and trap demigods inside them. The house had been full of memory traps. One moment Percy had be
-  - Line 111: The memory trap had shattered. They had woken up on the farmhouse floor with Grover shouting their names and Blackjack circling overhead screaming about traffic.
-  - Line 115: They had not talked about the promise since. Not properly. There had been debriefs and infirmary and patrol schedules and Annabeth's shrine revisions and Percy's canoe dock rope duty. Life at Camp filled in around trauma like water filling 
+  - Line 83: Then he looked at the offerings again. The tiny horse stood with its head turned toward the old bead. The worn coin was wedged against a seam in the stone. Somebody had tied a narrow green ribbon around one of the oak's low branches. Percy
+  - Line 167: Percy lifted his gaze to the plaque again. "Do you think people will use this place that way? To remember nights that weren't heroic?"
+  - Line 205: Percy remembered the way her hands had shaken after Pennsylvania. He remembered his own terror of walking into a room and finding her gone. Neither of them had spoken about the memory trap as much as they should have.
 
 ## 077: Chapter 77: Beach Day (Atlantis Style)
 
 - [Source](../../chapters/077-beach-day-atlantis-style.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 66, Annabeth 49, Thalia 22, Silena 18, Tyson 18, Amphitrite 17, Clarisse 16, Grover 13, Chiron 9, Beckendorf 9
+- Name appearances (not proof of presence): Percy 118, Annabeth 84, Thalia 39, Tyson 31, Silena 30, Amphitrite 28, Grover 24, Clarisse 18, Chiron 15, Beckendorf 14
 - Event/action candidates to inspect in context:
   - Line 11: "Brother!" Tyson whispered, delighted and trying - and failing - to whisper quietly enough not to wake Percy, Clarisse, and Silena in their bunks. "The sea mother calls!"
   - Line 25: She glanced at Percy and her whole face softened, that small private smile she only ever gave him.
   - Line 29: "Morning, Wise Girl," Percy said, his heart doing the stupid little lift it always did. Years of memories. Two wars survived in the life they remembered. And she still did that to him.
   - Line 31: Grover trotted down behind them, his crutches set aside for the beach day, his goat legs kicking up sand, a straw hat jammed over his curly hair. "Does anybody else feel blessedly unprepared for divine intervention before breakfast?" he ask
-  - Line 35: Silena Beauregard came drifting down the dune path like the morning was staged for her, which for Silena it kind of was. Percy's sister didn't walk to the beach, she arrived. Her dark hair was in two loose braids threaded with blue string, 
+  - Line 35: Silena Beauregard came drifting down the dune path like the morning was staged for her, which for Silena it kind of was. Percy's sister didn't walk to the beach, she arrived. Her dark hair was in two loose braids threaded with blue string,
 - Memory/disclosure candidates to inspect:
-  - Line 346: "I know," Annabeth said, lacing her fingers through his and holding on. Warm and sandy and steady. The hand-hold they had shared through quests and ordinary afternoons, saying *I'm here* without needing a new promise. "It's good. Keep holdi
-  - Line 368: "I think," he said slowly, carefully, because this mattered, "that we don't have to decide everything now. High school, Camp — maybe it's not either-or. Maybe we find a school with Chiron's help. Maybe I flunk freshman English in New York a
-  - Line 384: "I love days like this," Annabeth murmured. "I want to remember this one. Exactly like this."
+  - Line 128: The easy thing would be to promise her another animal. He didn't have that right. Amphitrite had sent them to visit, not to become somebody's souvenirs.
+  - Line 134: Rainbow sent him an image of water moving through sheltered coral, little animals passing between the rocks, and a line of white foam closing over a nursery pool. Percy couldn't tell whether it was Rainbow's own memory or a picture included
+  - Line 210: Percy folded Amphitrite's letter and slipped it into his pocket. It had been a gift from his mother, written to people she recognized and cared about. He didn't have to pretend she knew the secret she didn't know to accept it.
 
 ## 078: Chapter 78: Nico's Birthday
 
 - [Source](../../chapters/078-nico-s-birthday.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Nico 49, Percy 33, Annabeth 31, Clarisse 31, Thalia 15, Silena 9, Chiron 5, Beckendorf 4, Grover 2, Zeus 2
+- Name appearances (not proof of presence): Nico 109, Annabeth 61, Percy 42, Clarisse 32, Chiron 31, Thalia 17, Silena 10, Beckendorf 6, Grover 2, Zeus 2
 - Event/action candidates to inspect in context:
   - Line 9: Nico had not said anything. That was the worst part. He had not said, My birthday is coming. He had not hinted or begged or left drawings of cakes on her pillow the way he used to when they lived in the Lotus Hotel and time had not meant an
   - Line 19: He was on the Big House porch, grading archery scores and drinking something that smelled like hay and apples. When she told him, in a rush, that Nico’s birthday was on Friday and she had no present and no plan and she was a terrible sister
-  - Line 33: Bianca had meant to ask one person. She asked Percy first because he was sitting nearest to her at lunch and because Nico worshipped him in the quiet, sideways way little brothers worship big brothers they will not admit to worshipping.
-  - Line 35: Percy Jackson was sun-browned and perpetually damp around the edges, as if the lake had claimed him and only lent him back for meals. He was shoveling spaghetti into his mouth when Bianca slid onto the bench across from him and whispered, "
-  - Line 45: Bianca laughed before she could stop herself. Percy had that effect. He was not her brother, not by blood, but camp did funny things to the word sibling. He and his girlfriend Annabeth were the closest thing to a fixed point the camp had — 
+  - Line 29: Bianca lingered on the porch after Chiron returned to his archery scores. The conversation had been less frightening than she expected, but she still had the feeling she'd left something important unsaid.
+  - Line 37: The question made her face hot. She had come to the Big House with an entire imagined birthday in her head: a cake, a game, people calling Nico's name until he stopped feeling like a child everybody forgot. Now that she had heard herself sa
+  - Line 39: "Has he enjoyed surprises before?" Chiron asked.
 - Memory/disclosure candidates to inspect:
-  - Line 89: "A shadow-friendly fort," Annabeth corrected, already sketching on a napkin with the pencil from her hair. "Not a bunker. Not a tent. A real fort. Low walls so adults can see in but it still feels secret. A roof with slats so sunlight comes
-  - Line 107: Across the pavilion, as if summoned by the words fort and secret, a tray clattered. Clarisse La Rue stood with her hands on her hips, glaring at a new Ares kid who had dropped his plate. She was broad-shouldered, with a permanent scowl that
-  - Line 109: Nico adored her. Utterly. Hopelessly. Bianca had never told anyone, but she had seen his drawings: Clarisse with her spear, ten feet tall, lightning behind her, labeled in wobbly Greek THE BEST WARRIOR.
+  - Line 53: "It changes the secret." Chiron regarded her kindly. "The purpose of the day is not to catch him unprepared. It is to make him feel wanted. If those are in conflict, which would Nico choose?"
+  - Line 65: Bianca swallowed. Every birthday she'd spent with him in the Lotus Hotel had seemed unimportant because the next one could arrive without a season changing outside the windows. Some mornings there had been cakes in the hotel dining room and
+  - Line 73: "Good. Now, about that secret project." Chiron tapped his pencil against the clipboard. "No unapproved construction. No magical fireworks near children. And no hiding a building in the woods because somebody can use the Mist."
 
 ## 079: Chapter 79: Elena's Tale
 
 - [Source](../../chapters/079-elena-s-tale.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 42, Annabeth 36, Thalia 17, Grover 17, Clarisse 15, Silena 13, Chiron 5, Sally 4, Amphitrite 2, Poseidon 2
+- Name appearances (not proof of presence): Percy 54, Annabeth 45, Thalia 24, Clarisse 24, Grover 23, Silena 18, Chiron 18, Nico 15, Sally 4, Amphitrite 2
 - Event/action candidates to inspect in context:
   - Line 15: She cataloged the contents of the Big House attic on index cards. She cataloged which naiad liked which offering. She cataloged sparring scores, and meal rotations, and the exact dates the strawberry fields bloomed for the last six years, a
   - Line 19: Tonight Chiron had left the fire early. Mr. D had vanished after two songs, muttering about paperwork. It was just campers. Grover sat on Elena’s left, his legs crossed, his crutches laid beside him in the dirt, the fur on his goat legs bru
@@ -1262,13 +1265,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 29: “Your tale,” Silena said. “Why you write everything down. You’ve never told it all at once.”
   - Line 79: The doctors said early-onset Alzheimer’s. Rare. Aggressive. No family history that made sense, except — Elena paused here, and Percy felt Annabeth’s shoulder press harder against his — except her mother sometimes said, in the clear moments,
-  - Line 131: Annabeth reached out without looking and found Percy’s hand and squeezed it once, hard. Their old signal. *Remember?*
+  - Line 401: She glanced at Percy. “And I don't know whether the goddess Mnemosyne could give her memories back. I haven't been promised that. I don't want anyone to treat my mom's illness like a riddle a demigod ought to solve with enough magic. She's
 
 ## 080: Chapter 80: The Second Dance
 
 - [Source](../../chapters/080-the-second-dance.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 94, Annabeth 59, Tyson 38, Thalia 34, Silena 34, Clarisse 29, Grover 24, Chiron 21, Ella 19, Zeus 5
+- Name appearances (not proof of presence): Percy 155, Annabeth 100, Tyson 70, Silena 51, Thalia 48, Grover 47, Clarisse 39, Ella 39, Chiron 26, Zeus 6
 - Event/action candidates to inspect in context:
   - Line 9: He was thirteen. He had grown three inches since last spring, enough that his camp shirt finally fit in the sleeves and Amphitrite said on an Iris-message that his voice was doing something interesting. His black hair was shaggy again. Anna
   - Line 11: He crouched on the dock in his jacket, breath puffing, and skipped a stone sidearm and low the way Tyson had taught him. Four hops. Five hops. The naiads surfaced, clapped, told him the lake still liked him because he said please to the wat
@@ -1276,7 +1279,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 25: It was small things that stacked like stones. Percy saved her the corner brownie. Annabeth saved him the extra pencil. When his Atlantis algebra would not stay still, she redrew it in straight mortal lines. When she stayed up too late and g
   - Line 47: "Dude," Grover said. "You're staring again."
 - Memory/disclosure candidates to inspect:
-  - Line 21: Before the first dance this spring he had crouched on this exact dock and panicked for three days about asking Annabeth to the Spring Dance. He had forgotten speeches. He had knocked over nectar. He had needed Clarisse La Rue to teach him a
+  - Line 21: Before the first dance this spring he had crouched on this exact dock and panicked for three days about asking Annabeth to the Spring Dance. He had forgotten speeches. He had knocked over berry juice. He had needed Clarisse La Rue to teach
   - Line 163: Clarisse's secret lessons had stuck. He could box step without killing anyone. He could slow dance without hunching. He could count in his head instead of out loud. But the first dance had taught him that knowing steps in an empty archery r
   - Line 191: Silena laughed and elbowed her. It was no secret at camp that Clarisse and Silena had gotten close over the year — unlikely sisters, war and love, spear polish and lip gloss, leaving notes for each other beside the spear rack and the mirror
 
@@ -1284,54 +1287,55 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/081-home.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 83, Annabeth 50, Clarisse 38, Thalia 33, Silena 26, Grover 20, Ella 18, Nico 16, Chiron 11, Poseidon 6
+- Name appearances (not proof of presence): Percy 169, Annabeth 76, Clarisse 55, Silena 44, Thalia 38, Tyson 34, Grover 33, Chiron 32, Ella 20, Nico 17
 - Event/action candidates to inspect in context:
-  - Line 19: "I'm up," Percy said. He sat down close enough that their shoulders touched. "You sleep?"
-  - Line 23: "Two," Percy said. "I ate one on the way over."
-  - Line 25: She laughed, and for a second he just watched her laugh because he could. Years at Camp in their lost life, and new seasons here. Capture the flag and monster drills and late-night planning sessions in the Big House attic. They had held han
-  - Line 35: Across the pavilion, Ella was indeed cataloging the spring visits. She sat with the Apollo table, a stack of index cards in front of her, her red feathers smoothed around her little reading glasses, muttering titles under her breath as she 
-  - Line 37: "You memorized everyone?" Annabeth asked.
+  - Line 11: But the first problem of the morning was practical. Two of Tyson's things were still under the bunk: a hammer wrapped in cloth and a battered wooden case full of small parts from the forge. Percy had assumed Tyson would pack them before he
+  - Line 13: "Do you want these at Atlantis?" Percy asked when Tyson emerged from the washroom.
+  - Line 23: "I don't need to keep the palace's hammer to remember you," Percy said. "And I don't want you getting yelled at when somebody realizes it's missing."
+  - Line 37: "Works," Percy said.
+  - Line 47: They wrote a label for the borrowed hammer and put it with the other workshop equipment going back to Atlantis. The case went on Percy's shelf, beside the letters he'd been sorting since spring. It wasn't proof that Tyson had always lived w
 - Memory/disclosure candidates to inspect:
-  - Line 15: Annabeth was already at the Zeus table with her hair pulled back, a half-finished packing list beside her plate, and a book she was not reading. When she saw Percy she smiled in the way she had smiled all through spring, steady and sure, an
-  - Line 87: Not metaphorical. Real: they shared Poseidon, though Percy did not remember growing up with her. The night he had stayed up with her before her fear trial, sharpening her spear in silence because she did not want advice, just company. The m
-  - Line 305: "You remember the first night we shared watch after you and Percy woke up changed?" Thalia asked quietly.
+  - Line 23: "I don't need to keep the palace's hammer to remember you," Percy said. "And I don't want you getting yelled at when somebody realizes it's missing."
+  - Line 77: Annabeth was already at the Zeus table with her hair pulled back, a half-finished packing list beside her plate, and a book she was not reading. When she saw Percy she smiled in the way she had smiled all through spring, steady and sure, an
+  - Line 149: Not metaphorical. Real: they shared Poseidon, though Percy did not remember growing up with her. The night he had stayed up with her before her fear trial, sharpening her spear in silence because she did not want advice, just company. The m
 
 ## 082: Chapter 82: Letters (May)
 
 - [Source](../../chapters/082-letters-may.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 47, Annabeth 41, Clarisse 27, Tyson 26, Silena 20, Thalia 19, Ella 10, Chiron 6, Poseidon 5, Amphitrite 4
+- Name appearances (not proof of presence): Percy 106, Annabeth 61, Tyson 36, Clarisse 28, Silena 25, Ella 24, Thalia 21, Chiron 20, Amphitrite 9, Grover 9
 - Event/action candidates to inspect in context:
-  - Line 23: School is — okay. History of the Sea with Lady Amphitrite is my best class because she lets us argue. Today a son of Nereus said mortals invented sailing and I said sails invented mortals getting lost faster and the whole class laughed and 
-  - Line 25: Tyson sits with me at lunch when his forge shift allows it. He is growing again. He ate four kelp loaves yesterday and told the cook they were practice loaves. She gave him two more.
-  - Line 27: Tell Chiron the young hippocampi in the east stable still shy from the left. I approach from the right like he taught me and they settle.
-  - Line 33: Clarisse — you left your wrist wrap in my duffel. It smells like pine and iron. I am keeping it hostage until you write back. Training without you is weird. The Atlantean sparring master says I drop my left shoulder. You always said that to
-  - Line 35: Silena — the refectory tried honey cakes and failed. They used sea honey and it was too salt. I told them yours were better and now three cooks want your recipe. Please send help before I get challenged to a bake duel.
+  - Line 19: Amphitrite wasn't the mother he remembered making blue pancakes in a Manhattan kitchen. In the changed history, she was the person who raised him in Atlantis after Sally died, and she had behaved like a mother every time Percy had asked her
+  - Line 47: Percy laughed despite himself. He set aside the sheet with the unfinished greeting and started again. This time he wrote *Dear Camp*, then immediately crossed it out because it sounded like a letter to a building.
+  - Line 53: At breakfast Percy took the two sheets to the dining hall. Tyson was already there with a plate of kelp toast and an engineering diagram balanced against his cup. His undersea forge shift would start in an hour, and he was using the last pa
+  - Line 55: "Percy," he said. "The spare hinge at the workshop is the wrong size."
+  - Line 69: Percy put the unfinished mother letter beside his breakfast. Tyson read only the greeting because Percy held up the page and asked him what he thought.
 - Memory/disclosure candidates to inspect:
-  - Line 74: "It is not secret if he labeled it," Annabeth said, but her ears went warm.
-  - Line 126: Percy held the oak leaf beside the memory of the seaflower and felt something steady settle behind his ribs.
+  - Line 244: "It is not secret if he labeled it," Annabeth said, but her ears went warm.
+  - Line 296: Percy held the oak leaf beside the memory of the seaflower and felt something steady settle behind his ribs.
+  - Line 745: Percy felt a flash of panic. She was speaking about years he didn't remember. The easiest thing would be to nod as though he could recall the argument she was about to describe.
 
 ## 083: Chapter 83: Spring-Break Visit
 
 - [Source](../../chapters/083-spring-break-visit.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 114, Thalia 79, Annabeth 78, Jason 46, Clarisse 8, Chiron 8, Zeus 6, Silena 4, Grover 4, Poseidon 2
+- Name appearances (not proof of presence): Percy 147, Annabeth 129, Thalia 101, Jason 65, Chiron 12, Clarisse 8, Beryl 7, Zeus 6, Silena 4, Grover 4
 - Event/action candidates to inspect in context:
   - Line 9: "You're staring," Annabeth said behind him.
-  - Line 11: She came out of Cabin One with her gray travel cloak over her Camp hoodie, her blonde hair in a braid tucked down the back, her cheeks pink. She carried two mugs. She handed him one. Hot chocolate, blue, of course. Amphitrite had sent up a 
+  - Line 11: She came out of Cabin One with her gray travel cloak over her Camp hoodie, her blonde hair in a braid tucked down the back, her cheeks pink. She carried two mugs. She handed him one. Hot chocolate, blue, of course. Amphitrite had sent up a
   - Line 13: "I'm thinking," Percy said.
   - Line 15: "Dangerous," Annabeth said, and leaned her shoulder against his arm. They stood like that easily now. Years of remembered Camp, and the new days they had made here. Steady and sure. Sweethearts and best friends who held hands crossing creek
   - Line 19: "That Romans have rules for everything," Percy said. "And I am bad at rules for everything."
 - Memory/disclosure candidates to inspect:
-  - Line 423: Annabeth moved through it like she was memorizing it to rebuild from memory, which she was. Hazel walked beside her, pointing out the aqueduct arches, the underfloor heating vents, the inscriptions over the bathhouse door. They spoke the sa
-  - Line 445: "It's not gift time yet — I mean, it's private," Percy mumbled. "Greek custom. Secret gift panic."
-  - Line 549: Reyna gave Thalia a small iron wolf. "For your patrols. So you remember the West."
+  - Line 585: Annabeth moved through it like she was memorizing it to rebuild from memory, which she was. Hazel walked beside her, pointing out the aqueduct arches, the underfloor heating vents, the inscriptions over the bathhouse door. They spoke the sa
+  - Line 607: "It's not gift time yet — I mean, it's private," Percy mumbled. "Greek custom. Secret gift panic."
+  - Line 667: Annabeth felt her shoulders tighten. Their mother, Beryl Grace, lived in the changed history with a lifetime of events Annabeth knew mostly from accounts rather than firsthand childhood memory. Thalia knew some of them herself. Jason had hi
 
 ## 084: Chapter 84: Spring Resolutions
 
 - [Source](../../chapters/084-spring-resolutions.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 78, Annabeth 58, Clarisse 34, Silena 32, Thalia 25, Grover 22, Chiron 18, Poseidon 7, Sally 7, Zeus 7
+- Name appearances (not proof of presence): Percy 133, Annabeth 90, Clarisse 49, Silena 48, Chiron 32, Grover 32, Thalia 28, Sally 19, Ella 19, Poseidon 7
 - Event/action candidates to inspect in context:
   - Line 7: He lay there a minute and listened. No early conch horn on spring resolutions day. With mostly year-rounders here, Chiron let this gathering day’s morning happen slow. Percy could hear the flag rope clanking against the pole on Half-Blood H
   - Line 11: In the life he remembered, he had spent a New Year's Eve in his mom's apartment above the candy shop, with blue popcorn and the ball drop on their little TV and Sally falling asleep on his shoulder before midnight and pretending she hadn't.
@@ -1339,18 +1343,18 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 19: The rain had mostly stopped. What was left dripped from the pines. His breath fogged in the cool wind. Camp before the summer arrivals was smaller and truer. Twenty-three campers. Six satyrs. Chiron and Mr. D.
   - Line 39: "You do," Annabeth said solemnly. "I have witness testimony."
 - Memory/disclosure candidates to inspect:
-  - Line 151: "They're brave," Annabeth corrected. She knelt beside him, her knee pressing his. "I remember Athena saying spring flowers don’t wait for permission."
-  - Line 375: "Percy Jackson," he said. "Son of Poseidon. Little brother to too many scary girls." Laughter. "Amphitrite gave me a notebook last Christmas. For the stories only I can tell." He pulled it out of his coat, blue and worn already from being c
-  - Line 413: "Can I tell you my wish?" Percy asked. "For midnight. Or is it supposed to be secret?"
+  - Line 147: Percy unfolded the plan he'd made with Annabeth. He wanted to write about Sally Jackson, the woman who raised him in the life he remembered before the rewrite. He wanted the stories to be true, not just the parts that sounded heroic. He als
+  - Line 167: Percy nodded. He wasn't asking her to be the keeper of every secret he carried. He wanted her help spelling difficult words and identifying which parts of the narrative were memories they had lived together and which belonged to Percy's chi
+  - Line 199: "I want to remember Sally without making everyone else feel like I'm asking them to disappear."
 
 ## 085: Chapter 85: Spring
 
 - [Source](../../chapters/085-spring.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 93, Annabeth 70, Thalia 38, Clarisse 37, Silena 33, Chiron 24, Poseidon 16, Zeus 12, Beckendorf 4
+- Name appearances (not proof of presence): Percy 143, Annabeth 97, Thalia 48, Clarisse 47, Silena 41, Chiron 34, Nico 19, Poseidon 16, Zeus 12, Jason 8
 - Event/action candidates to inspect in context:
   - Line 5: Percy Jackson noticed it first because he was the first one down at the docks, like always, his sneakers squeaking on the damp planks and his breath still fogging just a little in the early morning air. He remembered the ice that had filmed
-  - Line 11: It sounded different now than it had that first summer. He knew the difference the way you know the difference in your own voice on a recording. Smoke from the forge. Someone laughing too loud by the strawberry fields. The pegasi screaming 
+  - Line 11: It sounded different now than it had that first summer. He knew the difference the way you know the difference in your own voice on a recording. Smoke from the forge. Someone laughing too loud by the strawberry fields. The pegasi screaming
   - Line 27: She was his best friend. Everyone at camp knew it. Newcomers sometimes got confused, asked if they were siblings because they were always together, and the older kids just shrugged and said, They’re dating. Percy’s Annabeth’s person, Annabe
   - Line 31: "Lake's back," Percy said.
   - Line 33: "Lake never left," Annabeth said. "It was just sleeping."
@@ -1363,7 +1367,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/086-the-summons-to-atlantis.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 98, Annabeth 77, Clarisse 71, Silena 62, Poseidon 40, Triton 39, Amphitrite 35, Thalia 10, Zeus 7, Chiron 4
+- Name appearances (not proof of presence): Percy 142, Annabeth 96, Clarisse 93, Silena 81, Amphitrite 49, Poseidon 42, Triton 42, Thalia 10, Zeus 7, Tyson 6
 - Event/action candidates to inspect in context:
   - Line 9: "Point to Percy," Silena said. "Clarisse, your guard dropped."
   - Line 11: "It did not drop," Clarisse said, circling. "Your eyes dropped."
@@ -1372,29 +1376,30 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 31: They ran, Annabeth right with them, swords still in hand. The hippocampus — Percy recognized him, Rainbow's cousin, a pushy young male named Foam — nuzzled Percy's shoulder hard enough to knock him sideways, then presented the tube.
 - Memory/disclosure candidates to inspect:
   - Line 79: "I will," Annabeth murmured. "Promise."
-  - Line 223: Percy went. He was thirteen and tried to act steady, but his father's hand on the back of his neck was warm and huge and smelled of salt and storms, and for a second he could almost picture the child everyone remembered, small and dripping 
-  - Line 287: Percy nodded, throat tight. "That's what they told me. Dad said I had two sisters on land, brave and bright, and that the sea was keeping me ready for them. Apparently I talked to that picture when storms kept me awake. I told you about my 
+  - Line 313: Percy went. He was thirteen and tried to act steady, but his father's hand on the back of his neck was warm and huge and smelled of salt and storms, and for a second he could almost picture the child everyone remembered, small and dripping
+  - Line 377: Percy nodded, throat tight. "That's what they told me. Dad said I had two sisters on land, brave and bright, and that the sea was keeping me ready for them. Apparently I talked to that picture when storms kept me awake. I told you about my
 
 ## 087: Chapter 87: A Kiss We Choose
 
 - [Source](../../chapters/087-a-kiss-we-choose.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 104, Percy 95, Clarisse 38, Thalia 34, Silena 33, Grover 18, Chiron 8, Poseidon 5, Zeus 4
+- Name appearances (not proof of presence): Annabeth 146, Percy 138, Clarisse 56, Thalia 49, Silena 41, Grover 19, Chiron 14, Poseidon 5, Zeus 4, Amphitrite 1
 - Event/action candidates to inspect in context:
   - Line 5: Percy Jackson remembered that very clearly, because Chiron later wrote it down in the camp incident log in his neat looping handwriting as *Thursday — unseasonal storm cell over canoe lake, contained by P.J. and A.G. with assistance*, which
   - Line 9: And then it had been done. The rack held. The kids were safe. The wind dropped all at once the way it only did when Percy finally remembered to breathe.
   - Line 11: And Annabeth had turned, soaked to the bone, hair plastered to her face, a scratch bleeding down her cheek from a flying splinter, and she had grabbed the front of his rain poncho with both hands and kissed him hard on the mouth for exactly
-  - Line 23: He heard Annabeth's boots before he saw her. He always knew her walk. Steady. Purposeful. Left boot scuffing just a little when she was thinking too fast.
-  - Line 29: "So," Percy said at last to the water.
+  - Line 31: Will cleaned Annabeth's cheek and removed the splinter. He asked Percy how long he'd been holding the water and whether he'd felt dizzy afterward.
+  - Line 33: "A while," Percy said.
 - Memory/disclosure candidates to inspect:
-  - Line 341: Percy nodded slowly. That made sense. Thalia Grace was thunder in human form — fierce, loyal, terrifying to freshmen, secretly soft for exactly two people in the world, one of whom was currently sweating through his camp shirt on Cabin One'
-  - Line 553: "Did we breathe?" Annabeth asked. "I can't remember if we breathed."
+  - Line 45: Percy wanted to argue. He had held up far more water in the life he remembered. He had survived Tartarus, battles with giants and things he couldn't discuss in the infirmary without raising questions he wasn't ready to answer. But the body
+  - Line 119: Percy was still shaken. The kiss had been real, the relief had been real, and their love had existed long before the storm. They were allowed to remember the moment tenderly without turning the dangerous part into something they hoped would
+  - Line 131: Percy accepted the correction. It meant the scary part of the storm could change the way they worked, not just become an embarrassing story told at the next campfire. Annabeth wrote Clarisse's name beside the alteration. Neither expected ev
 
 ## 088: Chapter 88: Spear, Song, Sea
 
 - [Source](../../chapters/088-spear-song-sea.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 117, Clarisse 110, Silena 95, Annabeth 60, Thalia 43, Poseidon 8, Chiron 8, Luke 2, Zeus 1
+- Name appearances (not proof of presence): Percy 194, Clarisse 176, Silena 137, Annabeth 71, Thalia 52, Chiron 26, Poseidon 10, Tyson 2, Luke 2, Sally 1
 - Event/action candidates to inspect in context:
   - Line 13: "It's 0700," Clarisse said. "Barely dawn is for Aphrodite kids. Poseidon kids train at dawn. Dad would be ashamed."
   - Line 19: "Morning to you too, sis," Percy said.
@@ -1402,14 +1407,15 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 29: "You won't," Silena said. "You love us."
   - Line 33: "One week," she said. "We have one week before the next patrol rotation, before Chiron starts throwing quests at us again, before —" She didn't say *before Luke does something*. She didn't have to. "We keep fighting like three solo demigods
 - Memory/disclosure candidates to inspect:
-  - Line 95: Silena learned differently. She couldn't remember counts, but she could remember rhythm, so she set Form One to the chorus of the shanty she'd teach them later, humming under her breath with each turn. Step-turn-guard, step-turn-guard. Clar
-  - Line 281: "Your secret's safe with the scouts," Thalia said, and bumped her fist against Clarisse's shoulder — high praise, from her.
+  - Line 145: Silena learned differently. She couldn't remember counts, but she could remember rhythm, so she set Form One to the chorus of the shanty she'd teach them later, humming under her breath with each turn. Step-turn-guard, step-turn-guard. Clar
+  - Line 423: "Your secret's safe with the scouts," Thalia said, and bumped her fist against Clarisse's shoulder — high praise, from her.
+  - Line 451: Percy didn't promise to speak for him immediately. He asked whether Theo wanted to be there when they talked. The boy nodded.
 
 ## 089: Chapter 89: Belated Valentines (Camp-Style)
 
 - [Source](../../chapters/089-belated-valentines-camp-style.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 53, Percy 52, Ella 46, Thalia 30, Silena 30, Tyson 26, Grover 26, Luke 24, Beckendorf 21, Clarisse 20
+- Name appearances (not proof of presence): Percy 71, Annabeth 67, Silena 59, Ella 52, Thalia 44, Clarisse 44, Luke 28, Tyson 26, Grover 26, Beckendorf 25
 - Event/action candidates to inspect in context:
   - Line 15: "It was festive until Chiron sneezed pink for a week," Silena said. "Post office opens at nine. Rules on the board. Everybody reads them."
   - Line 31: "This is new," he said to Annabeth Grace, who was beside him with a notebook already full of sketches for some new siege-engine-looking thing she claimed was a decorative arch. "We didn’t get to do this in February."
@@ -1418,69 +1424,72 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 41: Chiron clopped in, his blanket draped over his horse half for warmth. "Ah," he said warmly, reading the board. "Love in all its forms. Friendship, familial devotion, young admiration. Remember, campers, the ancient Greeks had many words for
 - Memory/disclosure candidates to inspect:
   - Line 41: Chiron clopped in, his blanket draped over his horse half for warmth. "Ah," he said warmly, reading the board. "Love in all its forms. Friendship, familial devotion, young admiration. Remember, campers, the ancient Greeks had many words for
-  - Line 189: The second was pink and glittery and clearly a joke. Inside, in Travis's terrible handwriting: *Grover, your fur is soft, your horns are pointy, please don't eat my valentine. Be mine? — Your Secret Admirer (definitely not Travis).* Underne
-  - Line 309: "Your secret's safe," Percy said.
+  - Line 129: He nodded. He had spent enough of the last few months learning that affection wasn't an unlimited pass into someone else's private life. He still didn't always remember to ask. Silena knew because he'd been the one trying to solve every scr
+  - Line 269: The second was pink and glittery and clearly a joke. Inside, in Travis's terrible handwriting: *Grover, your fur is soft, your horns are pointy, please don't eat my valentine. Be mine? — Your Secret Admirer (definitely not Travis).* Underne
 
 ## 090: Chapter 90: Storm and Sea
 
 - [Source](../../chapters/090-storm-and-sea.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 74, Silena 43, Thalia 42, Annabeth 40, Clarisse 39, Jason 13, Poseidon 10, Chiron 10, Zeus 7, Nico 1
+- Name appearances (not proof of presence): Percy 141, Clarisse 63, Silena 63, Annabeth 59, Thalia 59, Chiron 19, Jason 16, Poseidon 10, Zeus 7, Sally 1
 - Event/action candidates to inspect in context:
-  - Line 7: Percy Jackson stood on the porch of Cabin Three and watched it build over the morning, and every instinct he had — human and otherwise — told him the same thing. This was not a mortal storm. Mortal storms had direction. They had edges. They
-  - Line 17: "That's not Zeus," she said.
-  - Line 23: Silena pushed open the screen door, a mug in each hand, and joined them on the step. She handed one to Percy without asking. Hot chocolate, even though it was humid enough to swim through. It was their rule. Bad feeling equals hot chocolate
-  - Line 25: "Border patrol just doubled," Silena said quietly. "Chiron's calling all senior campers to the Big House in twenty. Annabeth just Iris-messaged me. She said Thalia's nose is bleeding."
-  - Line 29: "From the static," Silena said. "She says every time lightning hits within a mile she feels it in her sinuses. Jason's here on an exchange visit approved by both camps; he's grounding her as best he can, but there's too much charge in the a
+  - Line 9: "That's not Zeus," she said.
+  - Line 15: Silena pushed open the screen door with a mug in each hand. She gave one to Percy without asking. The air was humid enough to swim through, but the warm cup steadied his fingers, and Silena looked calmer now that she had something useful to
+  - Line 17: "Border patrol just doubled," Silena said quietly. "Chiron's calling all senior campers to the Big House in twenty. Annabeth just Iris-messaged me. She said Thalia's nose is bleeding."
+  - Line 21: "From the static," Silena said. "She says every time lightning hits within a mile she feels it in her sinuses. Jason's here on an exchange visit approved by both camps; he's grounding her as best he can, but there's too much charge in the a
+  - Line 35: Chiron stood in his wheelchair at the center, his face grim. Mr. D was actually present for once, no longer pretending to read his wine magazine, his eyes fixed on the windows where rain had just started to lash sideways. Annabeth stood by
 - Memory/disclosure candidates to inspect:
-  - Line 69: Silena raised a hand shyly, as if still in class. "The water has to want to leave. If it wants to stay and flood, it holds the charge and gets angry. If it has somewhere to go — if we promise it the sea — it carries the charge with it happi
-  - Line 137: "Promise," she said, and then she was gone into the crowd, already shouting orders about copper wire and high ground, and Percy turned to find his two sisters waiting for him.
-  - Line 333: Percy knew what she meant. After the reservoir quest, soaked and shaking and sitting in the back of the camp van while Annabeth drove too fast and Thalia bled onto the upholstery and laughed about it, Silena had made them all pinky-promise 
+  - Line 49: At the reservoir, a dam spirit had turned a fight between a Nereid and a wind nymph into a hazard for the camp's water supply. The runoff carried more than silt; the spirit had called lightning down to defend itself, and each element kept f
+  - Line 61: Silena raised a hand shyly, as if still in class. "The water has to want to leave. If it wants to stay and flood, it holds the charge and gets angry. If it has somewhere to go — if we promise it the sea — it carries the charge with it happi
+  - Line 129: "Promise," she said. She was gone into the crowd, calling for copper cable and the hill's grounding points, while Percy turned to find his two sisters waiting for him.
 
 ## 091: Chapter 91: Tide Pools
 
 - [Source](../../chapters/091-tide-pools.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 129, Annabeth 80, Silena 54, Clarisse 52, Thalia 39, Grover 21, Chiron 3, Amphitrite 2, Poseidon 2, Sally 1
+- Name appearances (not proof of presence): Percy 171, Annabeth 111, Clarisse 72, Silena 70, Thalia 47, Grover 42, Chiron 14, Sally 4, Amphitrite 3, Poseidon 2
 - Event/action candidates to inspect in context:
-  - Line 5: He knew the sound of the Poseidon cabin at seven in the morning, the particular way the sea breeze pushed through the cracked window and made the fishing net curtains sway, the way the floorboards creaked near the door where the salt had go
-  - Line 17: "Sibling day?" Percy said.
-  - Line 19: "Yes," Silena said, turning her sketchbook so he could see. She had drawn the three of them as different kinds of waves. Clarisse was a breaker, all white foam and sharp lines. Silena had drawn herself as a long rolling swell. Percy was a c
-  - Line 39: "Before ten?" Clarisse said.
-  - Line 41: "After ten, no promises," Grover said cheerfully.
+  - Line 5: He knew the Poseidon cabin's seven o'clock sounds: the sea breeze pushing the net curtains, the floorboard by the door complaining where salt had worked into the wood, the fountain running steadily after a night of rain. His hands were curl
+  - Line 19: "Sibling day?" Percy said.
+  - Line 21: "Yes," Silena said, turning her sketchbook so he could see. She had drawn the three of them as different kinds of waves. Clarisse was a breaker, all white foam and sharp lines. Silena had drawn herself as a long rolling swell. Percy was a c
+  - Line 33: Clarisse followed his gaze. "Chiron said we could go after the checks. He did not say everybody was done fixing things."
+  - Line 37: "Then ask before we leave," Silena said. She closed her sketchbook and slid it into its case. "We have time to eat."
 - Memory/disclosure candidates to inspect:
-  - Line 201: Silena tore the page carefully from the book along the perforation and handed it to him. "For your cabin wall. So you remember."
-  - Line 213: "I want to remember this," Silena said quietly, flipping back through her pages. Tide pools, crab races, Grover snoring, Percy naming the Chorus. She had caught it all in lines and washes. "Winter gets long. I want to be able to open this a
-  - Line 383: Percy wandered alone for a little while, not far, always within sight of Grover's sunny slab, letting his feet take him where the water pulled. The surf was louder here, the rocks darker, the pools deeper and more secret. He liked the feeli
+  - Line 257: Silena tore the page carefully from the book along the perforation and handed it to him. "For your cabin wall. So you remember."
+  - Line 269: "I want to remember this," Silena said quietly, flipping back through her pages. Tide pools, the crab race they hadn't really run, Grover counting them back up the slope, Percy naming the Chorus. She had caught it all in lines and washes. "
+  - Line 481: He brushed the loose sand from the hinge with his thumb. The sea was already all around him; the shell held no secret sound. Still, its even ridges gave him something small and orderly to carry back to Annabeth.
 
 ## 092: Chapter 92: Jealousy II
 
 - [Source](../../chapters/092-jealousy-ii.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 118, Clarisse 74, Annabeth 72, Thalia 34, Silena 22, Jason 8, Chiron 7, Poseidon 4, Tyson 3, Zeus 2
+- Name appearances (not proof of presence): Percy 165, Clarisse 142, Annabeth 63, Thalia 32, Chiron 26, Silena 22, Jason 6, Poseidon 3, Beckendorf 3, Tyson 2
 - Event/action candidates to inspect in context:
   - Line 11: “Perce,” said Annabeth’s voice from the doorway, crisp and amused and fully awake. “You drooled again.”
   - Line 19: “Nope. Clarisse said if you’re late to drills again she’s going to use you as the demonstration dummy.”
-  - Line 27: “Shield wall anchors to the right,” Percy answered automatically, yawning.
-  - Line 35: The training arena was already crowded when they arrived. Clarisse La Rue stood in the center of it with her spear over her shoulder. She looked sharp and focused and completely in her element.
-  - Line 37: Percy felt a familiar swell of pride when he saw her. She had stopped being just the scary spear fighter and had become someone he knew.
+  - Line 23: He rolled out of bed and flexed both hands before he reached for his shirt. The faint prickling from the storm had been gone since yesterday's morning check, and Will had told him to report it if it came back. Percy opened and closed his fi
+  - Line 27: "You brought the whole beach with you," Percy said.
+  - Line 37: Will was at the infirmary porch with a fresh roll of gauze. Percy reported that the tingling had not returned. Will asked him to squeeze two fingers, checked that the grip matched, and released his hand.
 - Memory/disclosure candidates to inspect:
-  - Line 245: Percy stared at her. “You never told me that.”
+  - Line 371: “In the life we remember, when you and Tyson started staying up late trading whale noises, I got jealous. He made you laugh in a way I couldn't. I thought I was losing time with you.” She paused, thumb rubbing the edge of the shell through
+  - Line 445: “Jason was a toddler when we were separated. I have memories of carrying him when he got tired and of him calling me Lia. I held onto those hard enough to think they'd tell me what being his sister was supposed to look like.” She glanced at
+  - Line 451: “Then the Roman courier approved the supervised week here,” Thalia went on. “Jason was ten. He got to Cabin One and asked where to hang his cloak. I showed him. I checked his cot twice after lights-out to make sure he was still there. I kep
 
 ## 093: Chapter 93: Movie Night
 
 - [Source](../../chapters/093-movie-night.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 53, Ella 42, Annabeth 34, Clarisse 31, Silena 25, Grover 23, Thalia 16, Tyson 14, Chiron 9, Jason 6
+- Name appearances (not proof of presence): Percy 98, Clarisse 68, Annabeth 45, Ella 44, Silena 29, Grover 24, Thalia 23, Chiron 23, Tyson 13, Jason 9
 - Event/action candidates to inspect in context:
-  - Line 61: "I won," Percy said. "Mostly because he got distracted by popcorn."
-  - Line 63: Annabeth laughed and bumped her shoulder against his. Around them the green was filling fast. Tyson arrived with Ella the harpy tucked under one arm like he was carrying a football, which Ella seemed to enjoy, and set them both down three b
-  - Line 65: "Ella is excited about moving pictures," Ella said in her quick, quoting voice. "'And now, for the first time, she saw the great world outside.' Ella is excited and also nervous about loud battle noises."
-  - Line 71: Clarisse arrived five minutes later in full armor except for the helmet, which she carried under her arm, her dark hair pulled back tight. Silena Beauregard arrived two minutes after that in a pink cardigan and jeans, her hair perfect despi
-  - Line 75: "No," Clarisse said.
+  - Line 3: Percy got to the arena before the first bell, carrying a roll of chalk and the folded practice schedule Clarisse had drawn on the back of yesterday's lunch menu. The grass still held the night's cool. A few campers crossed the green toward
+  - Line 7: "You're early," Clarisse said behind him.
+  - Line 17: Clarisse wore a faded camp shirt and training pants, her hair tied back with a strip of red cloth. She had brought the short practice spear she used for demonstrations, not her real one. Evan stood beside the weapon rack, fastening a leathe
+  - Line 19: "I put the rotation on this," Evan said, showing Clarisse the page. "If the younger camper wants to stop after the first pass, that's the whole lesson. We don't have to make her finish the drill."
+  - Line 41: "Clarisse wants to know if the turn marker would help if I made it brighter," he said. "You can say no. We can move it either way."
 - Memory/disclosure candidates to inspect:
-  - Line 475: "Ella thanks Frank Zhang, son of Mars," she said formally, then hiccuped. "Ella will remember this kindness."
-  - Line 579: "We promise," Percy said.
+  - Line 201: By the time the breakfast bell sounded, the wider lane was still visible, though the chalk already had shoe prints through it. Percy wrote down the turn measurement on the corner of Clarisse's schedule and gave it back. He did not ask her t
+  - Line 763: Annabeth's breathing slowed against his shoulder. On screen, the daughter argued with her mother, and Percy remembered Sally in their Manhattan apartment, making blue pancakes before his first trip to camp. He could still picture how she ha
+  - Line 797: "Ella thanks Frank Zhang, son of Mars," she said formally, then hiccuped. "Ella will remember this kindness."
 
 ## 094: Chapter 94: Sick Day
 
@@ -1552,7 +1561,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Zeus 78, Percy 72, Annabeth 66, Thalia 47, Triton 45, Poseidon 44, Tyson 31, Clarisse 10, Chiron 10, Silena 7
 - Event/action candidates to inspect in context:
-  - Line 5: Percy Jackson knew because he was there, half-asleep on the porch steps with Annabeth Grace leaning against his shoulder, both of them sun-warmed and sticky from morning sword drills. Chiron had trotted out with a package under one arm and 
+  - Line 5: Percy Jackson knew because he was there, half-asleep on the porch steps with Annabeth Grace leaning against his shoulder, both of them sun-warmed and sticky from morning sword drills. Chiron had trotted out with a package under one arm and
   - Line 11: Chiron held them out. "From Olympus," he said carefully. "For both of you."
   - Line 13: Percy took the sea-smelling one. Annabeth took the crackling one. They tore them open at the same time, and then they stared at each other, and then they read aloud at the same time.
   - Line 21: "'I will visit this weekend for the Fathers' Day barbecue,'" Percy read, his voice getting slower with every word. "'Proud to stand beside all five of my brave children at camp. Bring your appetite. — Dad.'"
@@ -1574,7 +1583,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 45: Annabeth looked down quickly, but not before he saw the pink climb her cheeks. She never quite knew what to do when he talked about Sally like that — like that past could be reached again. He didn’t push it. He just bumped his shoulder agai
 - Memory/disclosure candidates to inspect:
   - Line 37: He thought. After years together in the life they remembered, Annabeth knew most of the Sally stories. The seven-layer dip. The time she’d taken on Gabe with a frying pan just by threatening to. The way she could quote whole passages of boo
-  - Line 109: “For your building,” Amphitrite said. “Hephaestus tells me you have gifted hands. These will not break, and they will remember the shape of what you intend, even when you doubt. And —” she added another smaller bundle, “peanut butter. From 
+  - Line 109: “For your building,” Amphitrite said. “Hephaestus tells me you have gifted hands. These will not break, and they will remember the shape of what you intend, even when you doubt. And —” she added another smaller bundle, “peanut butter. From
   - Line 147: “You can bring Sally’s memory to me,” she said. “You don’t have to choose between us.” She looked at Tyson, who was already strapping on his apron. “And that door is open to you too. To your sisters, whenever they wish.”
 
 ## 100: Chapter 100: The Thousandth Campfire
@@ -1600,7 +1609,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Annabeth 37, Percy 36, Thalia 23, Clarisse 12, Silena 8, Poseidon 1, Zeus 1
 - Event/action candidates to inspect in context:
   - Line 3: Percy had been dating Annabeth through the displacement and their time here. Every remembered year counted too.
-  - Line 9: Percy had been turning that over for days. It seemed ridiculous to ask a girl he had already loved for years whether she wanted to be his girlfriend. She remembered those years too, and they had kept choosing each other. He still wanted to 
+  - Line 9: Percy had been turning that over for days. It seemed ridiculous to ask a girl he had already loved for years whether she wanted to be his girlfriend. She remembered those years too, and they had kept choosing each other. He still wanted to
   - Line 35: Annabeth's mouth curved. "A very long route. You could've just asked."
   - Line 77: "I want something else too," Annabeth said.
   - Line 107: "You're aiming too low," Annabeth said.
@@ -1685,7 +1694,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Event/action candidates to inspect in context:
   - Line 3: Percy had said *I love you* to Annabeth before.
   - Line 5: He remembered saying it in their old life, in quiet moments and in danger. He remembered saying it here too, after the eclipse disturbance struck the Hall and Thalia helped shield Annabeth. She had remembered loving him then, even through t
-  - Line 11: It followed him through training, where he missed three easy blocks. It followed him to the dining pavilion, where he forgot to take his plate to the fire. It followed him through the first half of Annabeth explaining an improvement to the 
+  - Line 11: It followed him through training, where he missed three easy blocks. It followed him to the dining pavilion, where he forgot to take his plate to the fire. It followed him through the first half of Annabeth explaining an improvement to the
   - Line 77: Percy almost told her. Then he remembered how Clarisse had reacted the last time she saw someone being vulnerable without warning. She'd sit with it, but she didn't always want to have it pushed at her.
   - Line 79: "I was thinking about Annabeth," he said.
 - Memory/disclosure candidates to inspect:
@@ -1750,7 +1759,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 21: Percy gave Silena a look of betrayal. "You're both on this committee?"
   - Line 23: "I'm observing," Silena said. "Clarisse appointed me secretary."
 - Memory/disclosure candidates to inspect:
-  - Line 191: There was affection in it and an old confidence that Thalia knew what Annabeth had been like when she was four. Annabeth didn't share that memory. She had learned to stop correcting the stories merely because they made her feel absent from 
+  - Line 191: There was affection in it and an old confidence that Thalia knew what Annabeth had been like when she was four. Annabeth didn't share that memory. She had learned to stop correcting the stories merely because they made her feel absent from
   - Line 357: "These are for the kitchen. I've got a shift, remember? I didn't stop having things to do because Clarisse invented a committee."
   - Line 693: "When Annabeth was small," she said, "there were days I didn't know what would happen if I let go of her hand. I used to count the steps between places where I knew we could get help. She doesn't remember all of it. I do."
 
@@ -1783,7 +1792,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 117: "Finish the last station," Clarisse told Percy, who had come up beside them. "I'll sit down for a minute."
 - Memory/disclosure candidates to inspect:
   - Line 383: Percy looked at the boy, who was getting up with an expression of wounded pride. He didn't like admitting that he'd hesitated. He had spent years in memories of fights where a hesitation could cost much more than an embarrassing fall. Here,
-  - Line 509: Silena was smiling when she headed down the path. She couldn't remember the last time she'd finished something without mentally apologizing to somebody else for the time she'd spent on it. She hoped Clarisse would want to come see the sign 
+  - Line 509: Silena was smiling when she headed down the path. She couldn't remember the last time she'd finished something without mentally apologizing to somebody else for the time she'd spent on it. She hoped Clarisse would want to come see the sign
 
 ## 114: Chapter 114: The Space Between
 
@@ -1823,7 +1832,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Percy 80, Clarisse 61, Silena 60, Tyson 35, Annabeth 16, Thalia 15, Triton 2, Poseidon 1
 - Event/action candidates to inspect in context:
   - Line 3: The Poseidon cabin offered three beds, two worktables, one weapons rack, and roughly eleven square feet unclaimed by something damp. Salt hung in the air, mixed with cedar and wet wool, and the floorboards gave faintly underfoot, tacky with
-  - Line 5: At the smaller worktable, Percy tried to read a letter from Atlantis. Paper smelled faintly of brine and kelp, ink feathered by damp. Triton had folded it fish-shaped and crammed it with palace repairs plus bulletins about a hippocamp that 
+  - Line 5: At the smaller worktable, Percy tried to read a letter from Atlantis. Paper smelled faintly of brine and kelp, ink feathered by damp. Triton had folded it fish-shaped and crammed it with palace repairs plus bulletins about a hippocamp that
   - Line 19: “Target's fine,” Percy said. “Beam's got opinions.”
   - Line 23: “Patch holds one rope,” Silena said. “Left across the path by someone.”
   - Line 37: “Chores, too,” Silena said, arms folding. Peppermint soap clung to her sleeves. “Scrubbed the basin this morning. Yesterday as well.”
@@ -1845,13 +1854,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 57: Percy welcomed how she railed slippery thoughts. “Okay. No dodging. No secret test. Dinner at the pavilion?”
   - Line 443: Nearing the pavilion, Annabeth turned and caught his gaze. Her expression opened. Only a smile — no promise the day had dragged, no signal she'd waited, no reversal. Simply glad.
-  - Line 597: Beneath the trees, hands linked, unhurried, leaves whispering overhead and bark rough where Percy's shoulder brushed the trunk. Fireflies stitched the dark between branches. Percy leaned a fraction, asking without words, breath warm in the 
+  - Line 597: Beneath the trees, hands linked, unhurried, leaves whispering overhead and bark rough where Percy's shoulder brushed the trunk. Fireflies stitched the dark between branches. Percy leaned a fraction, asking without words, breath warm in the
 
 ## 118: Chapter 118: A Message from Amphitrite
 
 - [Source](../../chapters/118-a-message-from-amphitrite.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 68, Clarisse 57, Silena 48, Annabeth 36, Amphitrite 20, Chiron 19, Thalia 16, Poseidon 5, Triton 4, Zeus 1
+- Name appearances (not proof of presence): Percy 120, Clarisse 106, Silena 96, Annabeth 75, Chiron 47, Amphitrite 29, Thalia 27, Poseidon 6, Triton 4, Zeus 1
 - Event/action candidates to inspect in context:
   - Line 33: Dropping onto the wall beside him, sun-warmed rock shifting slightly, Silena said, “He's thinking.”
   - Line 35: “Worse,” Clarisse said. “Gets ideas.”
@@ -1875,7 +1884,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 37: "Can I look at it first?" Annabeth asked.
   - Line 41: She handed it over, though she kept hold of the lower edge, as if Annabeth might drop it or the wood might bolt for the woods. Salt air and old varnish clung to the panel, which had once been painted dark blue, with thin silver lines fannin
 - Memory/disclosure candidates to inspect:
-  - Line 305: "I was scared," Thalia said. "I didn't know how high your fever was. I didn't know where to take you. The motel clerk had told us not to come back, and the clinic was across town. I remember you trying to sit up and me telling you no, then 
+  - Line 305: "I was scared," Thalia said. "I didn't know how high your fever was. I didn't know where to take you. The motel clerk had told us not to come back, and the clinic was across town. I remember you trying to sit up and me telling you no, then
   - Line 337: Annabeth turned the pencil between her fingers. Thalia's death pressed on every other memory, but it wasn't the one she wanted to set between them beside a toolbox. There were other memories, less grand and still important.
   - Line 339: "I remember you coming back," Annabeth said. "After the tree."
 
@@ -1892,7 +1901,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 33: The seal gave way with a small crack. Inside was a single sheet of thick cream paper folded in thirds. A few drops of seawater clung to the glass, but the paper was perfectly dry. Percy turned it over. The handwriting on the front was unmis
 - Memory/disclosure candidates to inspect:
   - Line 291: “I remember that visit,” Annabeth said. “She fussed over Percy's bunk and gave me a bracelet when I hadn't asked for anything.” She tapped the edge of the letter. “She seems to understand that an invitation can be generous without being a d
-  - Line 307: Percy did not answer at once. He could have told her she would not be. It was what he wanted to say. It was also a thing he could not guarantee. She might feel like a stranger when people used names he did not know, when the palace sounded 
+  - Line 307: Percy did not answer at once. He could have told her she would not be. It was what he wanted to say. It was also a thing he could not guarantee. She might feel like a stranger when people used names he did not know, when the palace sounded
   - Line 353: He leaned over and kissed her, brief and warm. When they parted, she let her forehead rest against his for a moment. Percy kept hold of her hand. He did not try to turn the moment into a promise about how the visit would go.
 
 ## 121: Chapter 121: The Cabin Three Pact
@@ -1934,7 +1943,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Percy 84, Clarisse 84, Silena 78, Amphitrite 74, Annabeth 50, Triton 27, Thalia 17, Chiron 13, Poseidon 6, Grover 1
 - Event/action candidates to inspect in context:
   - Line 5: “The sea is not going to steal your spear,” Percy said.
-  - Line 17: Silena laughed, warm and breathy in the cool air, and tucked a wind-loose curl behind her ear. Her cloth bag smelled faintly of pencil shavings and dried apricots, and held their notebook and the half-finished camp map they had started for 
+  - Line 17: Silena laughed, warm and breathy in the cool air, and tucked a wind-loose curl behind her ear. Her cloth bag smelled faintly of pencil shavings and dried apricots, and held their notebook and the half-finished camp map they had started for
   - Line 27: Percy had been trying to help all morning. He had explained the route twice, described the current that would carry them down, and answered Silena’s questions about the reef’s flowers. He had also carefully not said the word *home* too ofte
   - Line 29: Annabeth stood beside him, turning a pale-green sea-glass charm over between her fingers. Amphitrite had sent it with the directions; it would let Annabeth breathe underwater. Annabeth had inspected it before breakfast, then asked Percy how
   - Line 31: Now Annabeth pressed the charm to her throat. A faint light moved through the glass, green as sunlight seen through a wave. She took a careful breath, held it for a moment, then let it out.
@@ -1950,7 +1959,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Percy 95, Clarisse 69, Silena 67, Annabeth 54, Amphitrite 26, Chiron 25, Thalia 14, Triton 6, Sally 5, Zeus 1
 - Event/action candidates to inspect in context:
   - Line 17: "Chiron says a pair of hippocampi left this at the coast after breakfast," she said. "There's a hamper from Amphitrite. They didn't wake us for the delivery."
-  - Line 19: Percy took the note first. It said the palace's first inspection of the faulty passage charm had found no obvious fracture, and the attendants were continuing to test it under different current conditions. The record didn't claim the cause 
+  - Line 19: Percy took the note first. It said the palace's first inspection of the faulty passage charm had found no obvious fracture, and the attendants were continuing to test it under different current conditions. The record didn't claim the cause
   - Line 21: "That's good," Annabeth said from the doorway.
   - Line 31: "No touching the food until it's cleared," Silena said.
   - Line 39: He read Amphitrite's note again. She'd promised the inspection report, not a perfect answer. That was a kind of care he trusted. It felt different from being told there was nothing to worry about.
@@ -1973,13 +1982,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 45: Thalia had taken the weekend watch in his place. “If the palace gives you a ceremonial job, remember you can resign.”
   - Line 93: Triton was waiting at the lake’s edge, where the water widened toward the coast. He had arrived without raising the whole lake this time. The water only lifted around his boots, as if it were keeping a secret for him.
-  - Line 243: He wore sea-green robes without a crown, which made him look less like a king and more like the father who had once carried a basket of camp bread as if it were a battle standard. He had his hands folded behind his back. When he saw Percy, 
+  - Line 243: He wore sea-green robes without a crown, which made him look less like a king and more like the father who had once carried a basket of camp bread as if it were a battle standard. He had his hands folded behind his back. When he saw Percy,
 
 ## 126: Chapter 126: The Palace Below
 
 - [Source](../../chapters/126-the-palace-below.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 125, Clarisse 97, Silena 61, Annabeth 60, Triton 60, Amphitrite 32, Tyson 30, Poseidon 25, Thalia 20, Sally 9
+- Name appearances (not proof of presence): Percy 128, Clarisse 97, Triton 62, Silena 61, Annabeth 60, Amphitrite 33, Tyson 30, Poseidon 25, Thalia 20, Sally 9
 - Event/action candidates to inspect in context:
   - Line 5: “It’s bigger than I imagined,” Silena said.
   - Line 7: “Your drawing was smaller,” Clarisse replied. “Show us the nursery.”
@@ -2035,7 +2044,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 33: She was a short woman with gray hair braided tightly against her head. She knocked twice, entered after Percy answered, and asked whether he had found everything he'd brought. He glanced around the nearly empty room and said yes. She looked
   - Line 51: They went to the library together. The copying clerk found the case in a locked drawer, where Annabeth had asked him to keep it until her hand-drawn chart was dry. He opened it and showed Percy the contents: a public copy of the palace foun
 - Memory/disclosure candidates to inspect:
-  - Line 322: Clarisse nodded. No forgiveness, no promise. The current turned, hippocampi adjusting course with a flick of tails. Silena kept the photograph on her lap; Clarisse let her shoulder rest against her sister's. Percy had hoped the visit might 
+  - Line 322: Clarisse nodded. No forgiveness, no promise. The current turned, hippocampi adjusting course with a flick of tails. Silena kept the photograph on her lap; Clarisse let her shoulder rest against her sister's. Percy had hoped the visit might
   - Line 711: Clarisse gave her a sidelong look but didn't tell her not to say it. She touched the coral charm at her wrist, then lowered her hand. "We should decide the next visit."
   - Line 936: "He's with a new arrival. I thought you and Annabeth might remember the bed layout."
 
@@ -2051,7 +2060,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 65: "We do," Annabeth said, sitting beside him, knee bumping his under the table. "This one's only a request."
   - Line 73: "How much is plenty?" Percy asked.
 - Memory/disclosure candidates to inspect:
-  - Line 81: The word *film* snagged Percy's attention. Memory from the life Sally had raised him in unrolled without asking: a small apartment kitchen, afternoon light on cabinets turning dust to gold, the click of an old camera, its plastic body warm 
+  - Line 81: The word *film* snagged Percy's attention. Memory from the life Sally had raised him in unrolled without asking: a small apartment kitchen, afternoon light on cabinets turning dust to gold, the click of an old camera, its plastic body warm
   - Line 197: Percy drew breath. No need to face the lens. He could study ground, sisters, sunlight patching Clarisse's shoulder. Memory didn't require stepping from the present.
   - Line 349: Percy stepped aside, disappointed. Then he remembered Nico's private picture and Silena's promise to help process the plates. A photograph wasn't a reward for having the correct expression. It was a record someone had chosen to make, with p
 
@@ -2077,11 +2086,11 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 117, Annabeth 44, Silena 35, Clarisse 31, Chiron 30, Triton 18, Poseidon 14, Thalia 12, Beckendorf 8, Amphitrite 5
 - Event/action candidates to inspect in context:
-  - Line 3: The shell had rested on Percy's desk for three days, catching morning light through the cabin window. Across its pale spiral ran a thread of blue that brightened whenever the tide turned, pulsing faintly as though keeping time with distant 
+  - Line 3: The shell had rested on Percy's desk for three days, catching morning light through the cabin window. Across its pale spiral ran a thread of blue that brightened whenever the tide turned, pulsing faintly as though keeping time with distant
   - Line 5: Morning and night, Percy had listened to it once each, then again yesterday while Riptide waited half-polished on his bunk. Brine still clung to the shell's curve when he lifted it, and the faint hum of distant surf rose from its mouth befo
   - Line 7: A month beneath the sea could teach him the currents that moved through Atlantis without need of a map. He could learn to fight in water deep enough that every stroke carried weight, where pressure rang in the ears and light thinned to blue
   - Line 13: Pocketing the shell, with Riptide at his hip, he left the cabin into cool morning air. Dew silvered the grass and the pine scent hung low off the hill, mingled with woodsmoke from the breakfast fires and the clean mineral breath of the lake
-  - Line 23: Settling onto the wall beside her, he left a hand's width between them. Salt and lake-water clung to the stone, and a damselfly rested a moment on the map's edge before lifting away. "It's from my dad. He asked if I want to come back for a 
+  - Line 23: Settling onto the wall beside her, he left a hand's width between them. Salt and lake-water clung to the stone, and a damselfly rested a moment on the map's edge before lifting away. "It's from my dad. He asked if I want to come back for a
 - Memory/disclosure candidates to inspect:
   - Line 381: He folded the roster and put it in his pocket. He could show Chiron what he had promised rather than assuming someone else would remember it for him.
   - Line 497: She'd removed it from its sleeve. The garden behind the family was pale and green in the afternoon light, a place Percy could name every fountain in but couldn't fully remember from childhood. Clarisse's expression had been caught halfway b
@@ -2117,7 +2126,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 3: By the time Percy heard about the secret passage, it had already explained three things: why Cabin Six's porch light had flickered, where someone had hidden a missing box of drachmas, and how the Ares cabin reached the dining pavilion witho
   - Line 23: Across the table, Clarisse lifted her head from her toast. "My cabin contains no secret passage."
-  - Line 69: Percy heard about it on his way to the Big House. Two Hermes campers stood by the fountain, arguing over a missing box that belonged to their cabin's supply account. The younger one kept saying he'd never seen it. His counselor had already 
+  - Line 69: Percy heard about it on his way to the Big House. Two Hermes campers stood by the fountain, arguing over a missing box that belonged to their cabin's supply account. The younger one kept saying he'd never seen it. His counselor had already
 
 ## 135: Chapter 135: The Garden
 
@@ -2149,7 +2158,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 55: His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In t
   - Line 273: She took one step, stopped and snorted. Percy backed up half a pace, giving the line slack. Triton didn't tell him to hurry. A minute later the mare stepped forward again. Her first crossing was ugly and awkward, with one hoof lifted absurd
-  - Line 321: Percy laughed. Triton had no idea how much the permission mattered. If he asked why Percy sometimes looked lost during those childhood stories, the answer would pull at a secret Percy was not ready to give the palace, or Amphitrite, or his 
+  - Line 321: Percy laughed. Triton had no idea how much the permission mattered. If he asked why Percy sometimes looked lost during those childhood stories, the answer would pull at a secret Percy was not ready to give the palace, or Amphitrite, or his
 
 ## 137: Chapter 137: Fourteen
 
@@ -2157,7 +2166,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 134, Annabeth 53, Clarisse 47, Silena 40, Tyson 37, Thalia 13, Chiron 7, Poseidon 4, Triton 1, Luke 1
 - Event/action candidates to inspect in context:
-  - Line 21: Percy slid onto the Poseidon bench with his plate heaped too high — eggs sliding into toast, bacon stacked crossways, orange juice sloshing over the rim. The marble tabletop held the morning cold despite the air. His sneakers stuck faintly 
+  - Line 21: Percy slid onto the Poseidon bench with his plate heaped too high — eggs sliding into toast, bacon stacked crossways, orange juice sloshing over the rim. The marble tabletop held the morning cold despite the air. His sneakers stuck faintly
   - Line 29: "By five weeks and two days." Annabeth flipped a page, crisp. Her pencil left a gray smudge along the edge of her thumb. "I counted. And I haven't stopped counting since yesterday."
   - Line 47: "Fourteen means I still get pushed into the lake," Percy said.
   - Line 53: Annabeth tapped her pencil against her teeth. A faint click, wood on enamel. "I learned not to put bacon on top of eggs because the grease makes everything slide."
@@ -2220,7 +2229,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 62, Thalia 56, Annabeth 55, Clarisse 54, Silena 42, Ella 32, Tyson 15, Grover 15, Triton 14, Poseidon 7
 - Event/action candidates to inspect in context:
-  - Line 3: The morning dock smelled of hot pine sap and old rope and the faint copper tang of lake water left overnight in aluminum canoes, and Percy Jackson stood at the end of the planks with his sneakers already damp and his shoulders already warm 
+  - Line 3: The morning dock smelled of hot pine sap and old rope and the faint copper tang of lake water left overnight in aluminum canoes, and Percy Jackson stood at the end of the planks with his sneakers already damp and his shoulders already warm
   - Line 6: "Move, Jackson," Clarisse said, grinning edge-first. "Or are you guarding the dock for the pigeons now?"
   - Line 7: "Good morning to you too," Percy said. "Nice bedhead. Very warlord chic."
   - Line 9: Silena Beauregard arrived next with a woven picnic basket hooked over one arm and a paddle in the other hand, stepping light to avoid the splinters. She wore a white camp tee with the orange Pegasus small over the heart, the cotton smooth a
@@ -2228,7 +2237,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 34: "Then I win," Clarisse said, shoving his vest strap so the buckle rattled. "Remember that when you are eating our wake, brother."
   - Line 77: Instant guilt flooded hot behind his sternum, sour as swallowed lake water. No powers. He had promised. The taste of the promise turned metallic on his tongue. He glanced at Clarisse, who was crowing about speed, and at Silena, who was smil
-  - Line 176: "Someone always ends up swimming around Percy," Clarisse said, nudging Percy's knee with her own, her cargo shorts rough against his, her grin wide. "Remember when he was ten and he sneezed in the pool and made a wave that knocked over the 
+  - Line 176: "Someone always ends up swimming around Percy," Clarisse said, nudging Percy's knee with her own, her cargo shorts rough against his, her grin wide. "Remember when he was ten and he sneezed in the pool and made a wave that knocked over the
 
 ## 142: Chapter 142: Night Swim
 
@@ -2244,7 +2253,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 163: "I remember the important things," Annabeth said, and glanced at Percy, and blushed.
   - Line 341: After a while — minutes or hours, time went lake-soft — Silena's song trailed into humming, and Clarisse stood chest-deep holding the ladder with one finger, like a promise, not a need, and breathed.
-  - Line 381: Annabeth's throat worked. Water beaded on her neck. Her gray eyes shone, starlit and wet. "You stayed. When Dad— when it was bad. I can't remember those days, but you still teach me to tread. That's why I can... this." She squeezed Percy's 
+  - Line 381: Annabeth's throat worked. Water beaded on her neck. Her gray eyes shone, starlit and wet. "You stayed. When Dad— when it was bad. I can't remember those days, but you still teach me to tread. That's why I can... this." She squeezed Percy's
 
 ## 143: Chapter 143: The Dock Repair
 
@@ -2275,7 +2284,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 203: Annabeth looked up, surprised and soft. "You never told me that part."
   - Line 279: "I know," Clarisse said. "I remember."
-  - Line 281: Annabeth watched too, head tipped against Percy's shoulder now without pretense, her damp ponytail spilling over his arm, her denim shorts rough, her orange shirt warm from firelight. Her gray eyes were soft. "You told me you did mine like 
+  - Line 281: Annabeth watched too, head tipped against Percy's shoulder now without pretense, her damp ponytail spilling over his arm, her denim shorts rough, her orange shirt warm from firelight. Her gray eyes were soft. "You told me you did mine like
 
 ## 145: Chapter 145: The Lake Keeps What It Takes
 
@@ -2283,13 +2292,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Clarisse 258, Annabeth 149, Thalia 140, Percy 130, Silena 114, Poseidon 5, Triton 3, Tyson 2, Chiron 1
 - Event/action candidates to inspect in context:
-  - Line 3: The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not, 
+  - Line 3: The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not,
   - Line 7: Annabeth said, "We are. In a minute."
   - Line 49: Not because he was fast. Because he was a son of Poseidon and the dock was old and the lake was close and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the fir
   - Line 51: She said, "Percy."
   - Line 57: "Clarisse told us not to."
 - Memory/disclosure candidates to inspect:
-  - Line 3: The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not, 
+  - Line 3: The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not,
   - Line 369: The fight was not dramatic. It was smaller than that and more intimate. It was the ongoing argument between who she had been in the earlier life and who she had become in this one, between the girl who had planned New Rome with Percy and th
   - Line 411: "Listen to me," he said. "I am not asking you to choose between the person you were and the person you are. I'm asking you to stop punishing yourself for remembering us. You remember me because you loved me, not because you're weak. You rem
 
@@ -2319,7 +2328,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 59: The sky got lighter. The lake got brighter. A bird called from somewhere in the trees, and another bird answered, and the whole camp was still asleep except for the two of them on the dock and the spear across Clarisse's knees and the water
   - Line 61: "Percy," Clarisse said.
   - Line 71: Percy leaned back on his hands. That hadn't been what he'd expected. In the last drill, he'd taken the edge of a practice shield against his shoulder and immediately demanded another attempt. Clarisse had told him to sit down. He'd called i
-  - Line 97: Percy looked at the faint mark on his shoulder. In the life he remembered, his body had grown into a kind of toughness he'd taken for granted. This one was fourteen, narrower across the shoulders, quicker to tire and sometimes less willing 
+  - Line 97: Percy looked at the faint mark on his shoulder. In the life he remembered, his body had grown into a kind of toughness he'd taken for granted. This one was fourteen, narrower across the shoulders, quicker to tire and sometimes less willing
 - Memory/disclosure candidates to inspect:
   - Line 160: Percy reset. Raised his sword — Riptide, the pen that was a sword, the thing that had been with him through two lives and a timeline change — and set his feet in the stance she'd taught him.
   - Line 208: Percy was quiet. She was right. His body did remember — not the specific memory of holding the sky, but the shape of it, the way the weight had pressed down and the way he'd pushed back, the way his whole self had become a column between th
@@ -2381,7 +2390,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 15: Percy had said the word out loud on the dock, three mornings ago, and then said it again more kindly: *control*. And she'd wanted to hit something, and then she'd wanted to be hit by something, and then she'd gone to the arena at midnight a
   - Line 27: Percy came through the gate — sneakers, damp cuffs on his jeans from where he'd been down at the lake first, a green camp shirt untucked on one side, hair that looked like he'd run his hands through it while thinking about running his hands
   - Line 29: "Breakfast," Percy said. He tossed her one. She caught it without looking. "You weren't at the Poseidon table."
-  - Line 53: Clarisse finished her orange and dropped the peel in the bucket by the gate, which somebody had painted POSEIDON CABIN on the side of in letters that had begun to chip. She picked up the second spear and held it out to him, butt-first, the 
+  - Line 53: Clarisse finished her orange and dropped the peel in the bucket by the gate, which somebody had painted POSEIDON CABIN on the side of in letters that had begun to chip. She picked up the second spear and held it out to him, butt-first, the
 - Memory/disclosure candidates to inspect:
   - Line 496: "I also made her promise she'd never try it in the lake," Thalia said from the sand. "Because her face does something when she's excited, and the lake does not need that."
   - Line 620: "After the lightning catch, when I hurt you — I remember thinking that being dangerous meant being a monster." She turned the coil on her wrist. "Thalia sat me on a hot rock for hours today and told me fear isn't the problem — that the prob
@@ -2444,7 +2453,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 29: "You're up early," Percy said.
   - Line 53: "Morning," Percy said.
 - Memory/disclosure candidates to inspect:
-  - Line 113: Clarisse first. As promised. Then the other three together. Then Chiron. Thalia — Thalia needed a separate plan, because Thalia leaving for four days with a secret under her sister's bed was a different shape of problem than Thalia staying 
+  - Line 113: Clarisse first. As promised. Then the other three together. Then Chiron. Thalia — Thalia needed a separate plan, because Thalia leaving for four days with a secret under her sister's bed was a different shape of problem than Thalia staying
   - Line 271: "Hey, fish boy. You're in my cabin before breakfast, which means you're either hungry or guilty." Thalia's eyes flicked to Annabeth's tote, to Clarisse's folded arms, back to Annabeth's face. Her teasing edge stayed, but something protectiv
   - Line 317: "Okay," Thalia said. "Here's what's happening. I'm still leaving — Chiron's counting on the survey and I'm not flaking because the lake got weird, the lake's always weird, that's why we live here. But I'm not leaving for four days with a se
 
@@ -2470,7 +2479,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 96, Clarisse 56, Silena 55, Annabeth 34, Thalia 16, Tyson 16, Chiron 15, Beckendorf 13, Poseidon 3, Triton 3
 - Event/action candidates to inspect in context:
-  - Line 5: Not the pool, not the gulls, not the morning bell from the Big House. The front door of Cabin Three had a particular sound when the lake wind found it, a low wooden sigh through a gap Clarisse swore she would fix and Silena secretly liked, 
+  - Line 5: Not the pool, not the gulls, not the morning bell from the Big House. The front door of Cabin Three had a particular sound when the lake wind found it, a low wooden sigh through a gap Clarisse swore she would fix and Silena secretly liked,
   - Line 7: He lay still a moment with his eyes open. The high window over the pool end showed a sky the color of wet slate, early, the sun not yet over the pines. September did that now. It came later every morning and left earlier every night, and th
   - Line 13: He sat up and swung his legs over the bunk edge. The tile was cold enough through his socks that he felt it in his teeth. He dressed the way September was teaching everyone to dress, in layers that could be shed by noon: the faded orange ca
   - Line 17: Three bunks for the permanent residents. That was the rule of Cabin Three, unwritten and absolute: Percy, Clarisse, Silena, claimed and staying. The two spare bunks against the far wall, the ones with the towels folded on the hooks above th
@@ -2486,7 +2495,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Event/action candidates to inspect in context:
   - Line 3: Percy Jackson woke before the light had finished deciding what it wanted to be, and knew immediately that it was the day.
   - Line 11: He dressed fast. The faded orange camp shirt with the trident washed almost white across the shoulder, sleeves cut short back in June and fraying more every wash. The grey shorts with the pocket torn at the corner where he kept the smooth w
-  - Line 13: The two visitor bunks against the back wall were made up tight, towels folded on the hooks. Percy had done Tyson's bunk himself last night, hospital corners the way Beckendorf had shown him once in the armory, and stood there a minute with 
+  - Line 13: The two visitor bunks against the back wall were made up tight, towels folded on the hooks. Percy had done Tyson's bunk himself last night, hospital corners the way Beckendorf had shown him once in the armory, and stood there a minute with
   - Line 23: "You slept," Clarisse said.
   - Line 25: "I slept four hours," Percy said. "That's a full night by quest standards."
 - Memory/disclosure candidates to inspect:
@@ -2530,15 +2539,15 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 107, Tyson 103, Silena 53, Annabeth 49, Clarisse 41, Chiron 12, Thalia 10, Beckendorf 2, Poseidon 1
 - Event/action candidates to inspect in context:
-  - Line 5: The light told him first. Tempest Hall held morning in its high window in a thin September plank, dust turning slow inside it, cooler at the edges than the gold of a week ago. The air smelled of wet stone and lemon oil and the mineral damp 
-  - Line 7: To his left, the pool moved water through the channels under the floor with its low salt-rain hush. Somebody — Clarisse, by the rhythm — was turning over too carefully on the bunk above the spear rack, springs giving one soft complaint and 
+  - Line 5: The light told him first. Tempest Hall held morning in its high window in a thin September plank, dust turning slow inside it, cooler at the edges than the gold of a week ago. The air smelled of wet stone and lemon oil and the mineral damp
+  - Line 7: To his left, the pool moved water through the channels under the floor with its low salt-rain hush. Somebody — Clarisse, by the rhythm — was turning over too carefully on the bunk above the spear rack, springs giving one soft complaint and
   - Line 15: Tyson in sleep looked younger than his size. Six and a half feet of broad shoulder and scarred knuckle, one large brown eye closed, mouth a little open, hair flattened on one side where the pillow had held it. The good towel — the thick blu
   - Line 17: Percy felt the morning arrange itself around the sight the way water arranged itself around a stone, and felt his throat do the thing it did when something true went past without armor. He had been holding it together since Sunday night, si
   - Line 21: "Morning," Percy said softly. "You awake?"
 - Memory/disclosure candidates to inspect:
   - Line 75: "I did complain," Tyson admitted. "My feet were loud. I remember." He set the sandals by the door, exactly even, toes out. "Thank you for remembering my feet."
   - Line 179: At the top of the ramp stood Chiron in his wheelchair with a clipboard, white hair catching the sun, arranging the ferry with the ease of long practice: captain's name, crossing time, forge pickup confirmed. No mystery in it, no panel, no r
-  - Line 257: "For the pillow," Tyson said. "Not the same pillow. Your pillow. So you will remember the ping. So you will have a rock to center." He tapped Percy's fist, then his own chest. "I do not need it at the forges. There are many rocks. This one 
+  - Line 257: "For the pillow," Tyson said. "Not the same pillow. Your pillow. So you will remember the ping. So you will have a rock to center." He tapped Percy's fist, then his own chest. "I do not need it at the forges. There are many rocks. This one
 
 ## 162: Chapter 162: The Day With Nowhere To Be
 
@@ -2562,10 +2571,10 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Silena 100, Clarisse 69, Percy 68, Annabeth 67, Thalia 22, Chiron 7, Tyson 5, Triton 3, Zeus 3, Poseidon 1
 - Event/action candidates to inspect in context:
   - Line 3: Silena Beauregard woke before the bell because the kitchen had asked her to.
-  - Line 21: Silena pulled the pencil from her bun and wrote on the back of a grocery slip in her fast round hand: LAYERS — 3. SYRUP — LEMON + HONEY. FILLING — WHIPPED HONEY. FRUIT — PEACHES. TOP — FIGS + WALNUTS + DRIZZLE. TASTERS — EVERYONE. DISHES — 
+  - Line 21: Silena pulled the pencil from her bun and wrote on the back of a grocery slip in her fast round hand: LAYERS — 3. SYRUP — LEMON + HONEY. FILLING — WHIPPED HONEY. FRUIT — PEACHES. TOP — FIGS + WALNUTS + DRIZZLE. TASTERS — EVERYONE. DISHES —
   - Line 39: The harpy looked at the peach. Looked at Silena. Picked up the peach and sniffed it with the expertise of a creature who had eaten three thousand camp summers. "Sing," she said. "Quiet. No vibrato before coffee."
-  - Line 45: "Deal," Silena said, and hefted the bowl, which was nearly as wide as she was, and carried it back up the hill with the eggs balanced on top, singing under her breath all the way, because some days the whole world was a kitchen and she was 
-  - Line 47: Clarisse was up when she got back, sitting on the edge of her bunk lacing her boots with the thoroughness she gave to everything with laces, knots, or consequences. Her dark braid hung over one shoulder, damp from a quick dunk in the pool. 
+  - Line 45: "Deal," Silena said, and hefted the bowl, which was nearly as wide as she was, and carried it back up the hill with the eggs balanced on top, singing under her breath all the way, because some days the whole world was a kitchen and she was
+  - Line 47: Clarisse was up when she got back, sitting on the edge of her bunk lacing her boots with the thoroughness she gave to everything with laces, knots, or consequences. Her dark braid hung over one shoulder, damp from a quick dunk in the pool.
 - Memory/disclosure candidates to inspect:
   - Line 13: She padded down the hall past the pool. The water lay flat and green-clear, warm at the top where the light touched it, colder underneath where the channels came up from somewhere deep. Salt and rain smell, lemon oil from yesterday's oiling
   - Line 299: The shirt was the faded orange one with the trident washed white, left sleeve hem coming undone in a long loose curl. He had been meaning to fix it for weeks. He had mentioned it twice, the way fourteen-year-old boys mentioned things they d
@@ -2580,7 +2589,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 3: Annabeth Grace knew the exact minute the boundary path gave Thalia back, because the Big House porch boards told her first.
   - Line 9: Percy had left her a note that morning on the drafting table, folded along the same creases he always used, his handwriting leaning uphill. Walked the north path at dawn. Still wet. Still coming from uphill. Saved you the bench by the windo
   - Line 11: Monday's had said she would be back Friday. Tuesday's had said Tyson would have liked the fog. Wednesday's had said Clarisse snores when she naps, do not tell her I told you. Thursday's had said only the bench line and the trident, as if by
-  - Line 13: She heard the porch boards first because she was listening for them. A boot rhythm she knew the way she knew her own pencil marks. Quick, impatient, taking the steps like an argument, pausing at the top the way Thalia always paused to kick 
+  - Line 13: She heard the porch boards first because she was listening for them. A boot rhythm she knew the way she knew her own pencil marks. Quick, impatient, taking the steps like an argument, pausing at the top the way Thalia always paused to kick
   - Line 23: She remembered the oilcloth pressing into her ribs. She remembered Thalia's arms coming around her hard enough to lift her half off the floor, the survey satchel knocking against her elbow, the smell of pine sap and sweat and cold granite a
 - Memory/disclosure candidates to inspect:
   - Line 21: Annabeth did not remember crossing the room.
@@ -2609,7 +2618,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Name appearances (not proof of presence): Thalia 96, Annabeth 90, Silena 17, Percy 15, Clarisse 11, Chiron 5, Jason 3, Beryl 3, Poseidon 1
 - Event/action candidates to inspect in context:
   - Line 23: "Nobody told me. I deduced it." Annabeth sat up, hugging her knees under the flannel. "The sea kids claimed the canoe end of the lake. Silena's doing her Sunday bread, Clarisse's got them counting canoe straps, and Percy's under a hull with
-  - Line 29: Thalia swung her feet out of bed, stretched until her back popped, and padded barefoot to the windowsill. She picked up the granite stone, turned it over, read her own quote back to herself, and set it down exactly where it had been, which 
+  - Line 29: Thalia swung her feet out of bed, stretched until her back popped, and padded barefoot to the windowsill. She picked up the granite stone, turned it over, read her own quote back to herself, and set it down exactly where it had been, which
   - Line 31: "That rock has more job security than I do," Thalia said.
   - Line 35: "The stone is load-bearing. I'm the survey crew. I see how it is." Thalia dropped onto the end of Annabeth's bunk, which was the sister version of a hug, and bumped her shoulder with her own. "Okay. It's Sunday. We're alone, the cabin's our
   - Line 45: Annabeth unfolded it and read it aloud, editing as she went, which was how her lists actually worked: they were conversations with herself, revised in front of people she trusted.
@@ -2657,9 +2666,9 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 19: Percy sat up in his bunk and let his feet find the cool floor. He was in the faded orange camp shirt he'd slept in, sleeves already cut short back in June, and the gray sweatpants gone thin at both knees. Sleep still sat on him warm and hea
   - Line 25: "Morning," Silena said, too brightly, sixteen and warm and perceptive, hair pinned up with a pencil through it, flour already on one forearm though it was barely past seven. She was in her lake-gray sweater over her sleep shirt, and she had
 - Memory/disclosure candidates to inspect:
-  - Line 49: Beneath it, three columns of times and initials. *0900 — stage the vessel. 0915 — clear the shore. 0930 — depart. 1200 — provisions delivered, warm rock secured. 1600 — assistance permitted if requested. 1830 — whistle. 1900 — debrief.* In 
+  - Line 49: Beneath it, three columns of times and initials. *0900 — stage the vessel. 0915 — clear the shore. 0930 — depart. 1200 — provisions delivered, warm rock secured. 1600 — assistance permitted if requested. 1830 — whistle. 1900 — debrief.* In
   - Line 63: "It was a decoy," Clarisse said, with the total commitment of a girl who had never told a lie in her life and was furious at having to try. "That's a fake document. Fake op. We run them sometimes. Psychological."
-  - Line 295: They changed in the way you change after five months of knowing someone: efficiently, without discussion, without looking away either. Annabeth pulled her camp shirt off over her head and set it on the fleece with her shorts folded on top, 
+  - Line 295: They changed in the way you change after five months of knowing someone: efficiently, without discussion, without looking away either. Annabeth pulled her camp shirt off over her head and set it on the fleece with her shorts folded on top,
 
 ## 170: Chapter 170: What the Envelope Holds
 
@@ -2675,7 +2684,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 109: "I don't remember his voice," Annabeth said, to the lake, precise about it, the way she was precise about contour intervals and her own limits. "I remember his shoes. Red ones, too big. And he held my hand at the water and said it was too c
   - Line 143: Annabeth looked at her sister's profile in the cold light: eighteen, jaw set, flannel buttoned to the throat against the wind off the lake, eyes fixed on the steam coming off the shallows. She had watched Thalia carry a household on her bac
-  - Line 328: The parlor light had gone gold by three o'clock, the kind of light that made ink look black and made everything on the map wall look like a promise. The lamp was still lit against it. Somebody had brought in more wood for the stove and the 
+  - Line 328: The parlor light had gone gold by three o'clock, the kind of light that made ink look black and made everything on the map wall look like a promise. The lamp was still lit against it. Somebody had brought in more wood for the stove and the
 
 ## 171: Chapter 171: Loud, Off-Key, and Ours
 
@@ -2705,8 +2714,8 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 23: The harpy would pass at midnight and count them, and Chiron said the word *harpy* in a tone that suggested Ms. O'Fee was not personally liable for what happened next.
   - Line 27: "Questions," Chiron said.
 - Memory/disclosure candidates to inspect:
-  - Line 403: "I've never told anybody that. At Atlantis I counted the days between ships. I was nine, and I thought everybody did that. And when I got here, in the summer, I counted everything. Minutes, occurrences. I counted how long it took people to 
-  - Line 451: "I know how it goes. I know how nights work. They get late, and people get cold, and then it's morning, and then it's next week, and the lake closes, and the frost stays." Her voice did not shake, quite. "I hate it. I've hated it all week. 
+  - Line 403: "I've never told anybody that. At Atlantis I counted the days between ships. I was nine, and I thought everybody did that. And when I got here, in the summer, I counted everything. Minutes, occurrences. I counted how long it took people to
+  - Line 451: "I know how it goes. I know how nights work. They get late, and people get cold, and then it's morning, and then it's next week, and the lake closes, and the frost stays." Her voice did not shake, quite. "I hate it. I've hated it all week.
   - Line 565: It was Clarisse's. It had been known since a folded note in a boy's pocket had said, in a handwriting that thought nobody was looking, CLARISSE SNORES WHEN SHE NAPS, DO NOT TELL HER I TOLD YOU, and it had been a closely guarded secret for a
 
 ## 173: Chapter 173: The Long Way Up the Hill
@@ -2731,13 +2740,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Silena 38, Percy 36, Annabeth 35, Clarisse 33, Thalia 19, Chiron 10, Beckendorf 5, Tyson 1, Zeus 1
 - Event/action candidates to inspect in context:
-  - Line 7: The commons was already awake and already damp. Silena had towels on the floor by the door in a line like stepping stones and a rule about it that nobody had ever been told and everybody followed. Clarisse had two buckets out, one catching 
+  - Line 7: The commons was already awake and already damp. Silena had towels on the floor by the door in a line like stepping stones and a rule about it that nobody had ever been told and everybody followed. Clarisse had two buckets out, one catching
   - Line 9: "Buoys," Clarisse said, by way of good morning. "Chiron wants them in by the middle of the month, which means the rowing part of it is today, because if we wait the lake takes the docks and then we're swimming for hardware in November."
   - Line 11: "In the rain," Percy said.
-  - Line 19: Percy showed up with a coat. He showed up with two coats, one of which he did not need, because Silena had handed it to him at the door without comment on the way out, and Silena handing you a thing at a door without comment was how Silena 
+  - Line 19: Percy showed up with a coat. He showed up with two coats, one of which he did not need, because Silena had handed it to him at the door without comment on the way out, and Silena handing you a thing at a door without comment was how Silena
   - Line 33: "I'm doing arithmetic," Annabeth said. "The enjoyment is incidental."
 - Memory/disclosure candidates to inspect:
-  - Line 383: The lake had closed on Sunday. The lake had been, since June, the place where this cabin put everything it did not know how to say: the float, the dock, the races, the fights that got worked out in canoes where nobody could walk away. Take 
+  - Line 383: The lake had closed on Sunday. The lake had been, since June, the place where this cabin put everything it did not know how to say: the float, the dock, the races, the fights that got worked out in canoes where nobody could walk away. Take
 
 ## 175: Chapter 175: Salt and Steam
 
@@ -2748,7 +2757,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 7: He had asked Clarisse about it once, in July. She had said it was the old pool, from before, and that the cabin used it in the winter sometimes, and that it was cold in the middle and full of leaves from a skylight somebody was always meani
   - Line 13: "Rules," Clarisse said, and held up the slate.
   - Line 23: "That's four rules and a policy," Percy said.
-  - Line 29: "It's a rule because the last time there was glass near the tile, the tile lost, and the tile is eight hundred years old." She turned the slate around and hung it on its nail by the door, where the whole world could read it, and stood back 
+  - Line 29: "It's a rule because the last time there was glass near the tile, the tile lost, and the tile is eight hundred years old." She turned the slate around and hung it on its nail by the door, where the whole world could read it, and stood back
   - Line 33: "Because Silena has four extras in a bag," Silena said, from behind him, in the mild voice of a woman who had been packing spare suits in her beach tote since she was eleven. "Don't make it a whole thing."
 - Memory/disclosure candidates to inspect:
   - Line 405: "There is a rule about saying it out loud, and if I say it a third time you'll make me do laps of the shallow end in a coat," Percy said, and she looked at him sideways, and he was grinning the way he grinned when he was not going to be mov
@@ -2784,7 +2793,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - Memory/disclosure candidates to inspect:
   - Line 117: He pulled the arrows out of the target one at a time with the flat careful motion of a person who did that a lot, and Thalia stood on the shooting line with her bow in her hand and her elbow fixed and a letter in a box on her bed that had a
   - Line 389: He had spent a lot of the summer being surprised by this. He had walked into a camp in March with an alphabet of a family that he did not remember and had spent every day since quietly checking whether the mooring would hold. On a Friday ni
-  - Line 451: "Tomorrow is mine," Annabeth said. "It's my survey. I asked for it, Chiron wrote it down, the route's on the wall and the crew's on the paper in my handwriting, and when we come down off that ridge I'm going to have a sheet of the map that 
+  - Line 451: "Tomorrow is mine," Annabeth said. "It's my survey. I asked for it, Chiron wrote it down, the route's on the wall and the crew's on the paper in my handwriting, and when we come down off that ridge I'm going to have a sheet of the map that
 
 ## 178: Chapter 178: The Blank Under the Ridge
 
@@ -2796,7 +2805,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 11: "I walked it at five," Percy said. "Twice. Out to the terrace and back to see if anything had blown across the path, and then up to the fence to look at the gully. It's fine. It's hard as rock, which is good news, and there's nothing down a
   - Line 21: Thalia came up the path from Cabin One with the rope over her shoulder and her coat done to the neck and her survey book in her hand and the flat competence of a woman who had walked this ground four days in September and had a note for eve
   - Line 23: "Nobody's late," Thalia said, in the voice of a woman counting.
-  - Line 25: "Nobody's late." Annabeth did the thing she had been waiting three days to do, which was to take the folded route sheet out of her pocket and read the top line out loud to the gate, the crew, and the frost. "North spring survey. Gate, east 
+  - Line 25: "Nobody's late." Annabeth did the thing she had been waiting three days to do, which was to take the folded route sheet out of her pocket and read the top line out loud to the gate, the crew, and the frost. "North spring survey. Gate, east
 - Memory/disclosure candidates to inspect:
   - Line 41: Annabeth looked at it for about forty seconds and then got out the field book, and in the top right corner of the new sheet, where the weather went, she wrote, in her clean small hand: 07:35. FIRST FROST ON THE FENCE LINE. WIND W 8. VIS. UN
   - Line 71: The next hour and a half was the best work Annabeth had done since she had started drawing this camp, and she did not know it while it was happening, because while it was happening it was just numbers.
@@ -2825,12 +2834,12 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 3: The cold came in on Monday the way it had been coming in for a week — incrementally, with manners, like a houseguest who keeps asking whether the window should stay open — and by the time Percy Jackson was properly awake it had already move
   - Line 7: "Boots," said Clarisse from under her blanket, eyes shut.
   - Line 11: "You were going to. You do a thing with your jaw before you do a thing with your mouth." The blanket folded itself back by one arm and Clarisse sat up, her hair having won whatever argument had been conducted with it overnight, and she look
-  - Line 15: "Sundays are slush," Clarisse said, and put her feet on the floor, and did not make a single sound about it, which Percy had privately decided was the most impressive thing about her and which he had told her exactly once and had been told 
+  - Line 15: "Sundays are slush," Clarisse said, and put her feet on the floor, and did not make a single sound about it, which Percy had privately decided was the most impressive thing about her and which he had told her exactly once and had been told
   - Line 17: The stove in Cabin Three was a cast-iron thing with a bad left door, and it held coals the way Clarisse held grudges: banked, patient, and ready to be brought up in under a minute. He had the door cracked and the kindling in before the othe
 - Memory/disclosure candidates to inspect:
   - Line 165: "I care about the crew," Thalia said, flat and quick and without looking at her, and then she looked at the title sheet, and read the five names off it, slowly, the way you read a list you intend to remember, and did not say anything else a
   - Line 243: Thalia's own boots were the wrong boots and she had known they were the wrong boots when she put them on. The left one had a hard sole, which was good for standing, and the right one had a soft sole, which was good for the thing her heel ne
-  - Line 389: They sat with the loaf between them and the blanket over both of them and their shoulders touching from the shoulder to the elbow, and for a minute neither of them said anything, and the minute was not empty, and neither of them filled it, 
+  - Line 389: They sat with the loaf between them and the blanket over both of them and their shoulders touching from the shoulder to the elbow, and for a minute neither of them said anything, and the minute was not empty, and neither of them filled it,
 
 ## 181: Chapter 181: Whoever Wants to Come
 
@@ -2845,7 +2854,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 35: "It says a great deal more than BLUE BAG," Silena said, from the far side of the table, in the mild voice of a woman who had been rolling spare suits into a beach bag since she was eleven, and who had apparently decided at some point to sto
 - Memory/disclosure candidates to inspect:
   - Line 143: They passed the lamps in reverse order on the way down: the odd one at the curve first, then the two at the cedar brake, then the single one at the boathouse turn, each of them throwing its flat gold rectangle across the frost and each of t
-  - Line 221: "I'm being *generous* to a wall I've decided not to fix, which is a different activity and a much harder one." Annabeth turned her hand over under the water so that her fingers were against his, which was a thing they had been doing for so 
+  - Line 221: "I'm being *generous* to a wall I've decided not to fix, which is a different activity and a much harder one." Annabeth turned her hand over under the water so that her fingers were against his, which was a thing they had been doing for so
 
 ## 182: Chapter 182: The First Hot Bread
 
@@ -2875,7 +2884,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 11: "Your pen's the bad one," Percy said.
 - Memory/disclosure candidates to inspect:
   - Line 9: Three weeks of Thursday pages sat in the same corner of her memory, and each of them had been harder to start than the last, because the first page of any letter to Beryl Grace had to get past the question of what a fourteen-year-old said t
-  - Line 382: "Where I stopped to think. She used to do the same thing and leave the blot, and she told me once it was the only honest part of a letter." Annabeth looked at the road ahead. "Thalia's is in there somewhere too. Nineteen lines in capitals. 
+  - Line 382: "Where I stopped to think. She used to do the same thing and leave the blot, and she told me once it was the only honest part of a letter." Annabeth looked at the road ahead. "Thalia's is in there somewhere too. Nineteen lines in capitals.
 
 ## 184: Chapter 184: Friday, and the Porch
 
@@ -2883,11 +2892,11 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Thalia 39, Annabeth 35, Clarisse 29, Percy 24, Silena 11, Beckendorf 5, Tyson 4, Chiron 2, Zeus 2, Poseidon 1
 - Event/action candidates to inspect in context:
-  - Line 13: Rhys Calder came through the gate with his bow unslung off his shoulder and a canvas coat with the collar up and his hair doing what cold did to it, and in one hand, unexpectedly, two tin mugs with steam off them, walking the way he walked 
-  - Line 31: They shot. The arrangement, also unstated, was five arrows each, alternating, with the count kept out loud, because Thalia had said on the first Friday that she wanted the count out loud and he had said *fine* and had kept it out loud ever 
-  - Line 53: It was the kind of correction that was worth more than the arrow, and they both knew it, and Thalia felt the familiar and completely unwelcome sensation of being seen accurately by somebody who was not going to make anything of having done 
-  - Line 67: "Everybody writes to Tyson," Thalia said, which was true and also not an answer, and she let the not-answer sit there, and the wind went over the field, and down the line a target rope tapped its post in the small regular rhythm of a thing 
-  - Line 69: Then, up on the road, two people came from the direction of the Big House: one with a folder of fair sheets under her arm and her hair coming out of its knot in the particular way it came out when she had been drafting at a table for three 
+  - Line 13: Rhys Calder came through the gate with his bow unslung off his shoulder and a canvas coat with the collar up and his hair doing what cold did to it, and in one hand, unexpectedly, two tin mugs with steam off them, walking the way he walked
+  - Line 31: They shot. The arrangement, also unstated, was five arrows each, alternating, with the count kept out loud, because Thalia had said on the first Friday that she wanted the count out loud and he had said *fine* and had kept it out loud ever
+  - Line 53: It was the kind of correction that was worth more than the arrow, and they both knew it, and Thalia felt the familiar and completely unwelcome sensation of being seen accurately by somebody who was not going to make anything of having done
+  - Line 67: "Everybody writes to Tyson," Thalia said, which was true and also not an answer, and she let the not-answer sit there, and the wind went over the field, and down the line a target rope tapped its post in the small regular rhythm of a thing
+  - Line 69: Then, up on the road, two people came from the direction of the Big House: one with a folder of fair sheets under her arm and her hair coming out of its knot in the particular way it came out when she had been drafting at a table for three
 - Memory/disclosure candidates to inspect:
   - Line 323: Annabeth Grace had a rule about Fridays that she had never told anybody, which was that Friday was the only night of the week the day was allowed to stop.
 
@@ -2926,8 +2935,8 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Annabeth 34, Clarisse 26, Percy 25, Thalia 23, Silena 14, Chiron 5, Tyson 1, Rhys 1
 - Event/action candidates to inspect in context:
-  - Line 15: "I put it under my blanket," Silena said, without opening her eyes, "because you leave things where they fall, and if you wake Chloe you will be sleeping in the canoe shed for the rest of the season." She rolled over, pulled the blanket up 
-  - Line 25: Six canoes were on their rack past the boathouse where they had been since the end of September, upside down and roped, and Percy went down to them because he had promised himself on the night they went up on the rack that he would look at 
+  - Line 15: "I put it under my blanket," Silena said, without opening her eyes, "because you leave things where they fall, and if you wake Chloe you will be sleeping in the canoe shed for the rest of the season." She rolled over, pulled the blanket up
+  - Line 25: Six canoes were on their rack past the boathouse where they had been since the end of September, upside down and roped, and Percy went down to them because he had promised himself on the night they went up on the rack that he would look at
   - Line 49: "You've got nothing," Clarisse said. She was not looking at him when she said it. She was looking along the rack at six canoes wearing white on their rings, and she let her eyes go down the row the way a person counts a thing they are perso
   - Line 53: Stage one was the stove. The room when he came in was the temperature of the yard, and Silena was standing at the range with her hands out and her shoulders up around her ears and the kettle not yet singing, and the four kids already at the
   - Line 59: "That's the heel," Clarisse said.
@@ -2982,7 +2991,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Percy 66, Annabeth 58, Clarisse 46, Silena 32, Thalia 16, Chiron 15, Beckendorf 3, Tyson 1, Rhys 1
 - Event/action candidates to inspect in context:
-  - Line 5: He would not have known what it was in September. In September a spoon in a hinge was a person being idle with the camp cutlery. In October, in the fifth week of a camp that had collectively discovered the tool bench, it was a person being 
+  - Line 5: He would not have known what it was in September. In September a spoon in a hinge was a person being idle with the camp cutlery. In October, in the fifth week of a camp that had collectively discovered the tool bench, it was a person being
   - Line 7: "Everything's the pin with you," Silena said, from the stove.
   - Line 9: "With me it's the pin because with you it's the whole hinge," Clarisse said. "You replace hinges. I've seen you replace a hinge that was on a hinge."
   - Line 15: "Both," said Percy, into his pillow. "You're both right, and I'd like it noted that I was the only person in this cabin who suggested we buy a new one."

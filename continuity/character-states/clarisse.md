@@ -144,3 +144,8 @@
 - **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
 - **State:** FIRSTHAND: chooses to work with Evan, learns and adapts his feint/counter lesson, corrects him when he reverses a foot, and leads younger campers through a slow, empty-hands version before weapons. She attends the older-camper table by choice. In the afternoon, she tells Percy she missed their two-tap ritual too and invites him into tomorrow's practice; she stays free to continue learning from Evan.
 - **Carry-forward:** Chiron supervises tomorrow's wider-lane session, with Clarisse leading warm-up and Evan assisting. No new injury, romance, or changed family relationship is established. Hears Percy disclose jealousy and reassures him that the facts of their sibling bond and Evan's lesson can both stand.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: leads the scheduled morning warm-up, lets the younger camper choose the pace and equipment, gives Percy their familiar two taps, and continues to learn with Evan under Chiron's supervision. Helps check the marked movie-night route and agrees to help with the overnight watch and morning pack-up. She is comfortable with Annabeth using the shared Cabin Three spare bunk after first bell. Clarisse and Silena are Poseidon sisters; their movie-night hand-holding and shared grief about their mothers remain sibling affection, not a romantic milestone.
+- **Carry-forward:** The prior day's wider-lane practice is completed; future lessons are not scheduled here. No new injury is established.

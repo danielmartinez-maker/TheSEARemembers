@@ -24,7 +24,7 @@ preceding_scene_verified:
 following_scene_verified:
   chapter: 93
   locator: "chapters/093-movie-night.md, opening"
-  context: "Movie Night begins on a Friday in late August. Percy has Camp Jupiter photos and a Camp Jupiter T-shirt from Frank, but their origin/receipt are not established in Ch092. Treat as unresolved; do not invent a backstory."
+  context: "The next morning Percy completes the scheduled supervised wider-lane lesson. Chapter 093 then moves to Friday's movie night in late-August heat. Percy recognizes Jason's fireworks hill from his firsthand Chapter 083 spring exchange; at dinner Frank lends him a clean spare Camp Jupiter shirt, which Percy returns at first bell. No Camp Jupiter photo delivery from Frank is shown."
 relationship_memory:
   - pair: "Percy / Annabeth"
     first_meeting_chapter: 1
@@ -87,7 +87,6 @@ items_promises_injuries:
     current_status: "Scheduled for tomorrow; Clarisse warm-up, Evan counter demonstration, Percy lane setup, one slow learner rotation."
 unresolved_tensions:
   - "Percy may feel jealousy again; he has identified missing the routine and can ask Clarisse rather than treating Evan as a threat."
-  - "Chapter 093's Camp Jupiter photos/T-shirt origin and receipt are not established in Chapter 092."
 open_canon_questions:
   - "Exact calendar date/year unknown."
   - "Storm board statuses remain pending without new inspection reports."

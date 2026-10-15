@@ -50,3 +50,7 @@
 ### Chapters 023–036 · verified carry-forward
 - **[Ch027](../../chapters/027-the-library.md):** Participates in supervised archive/display work only where shown; private photos remain under their owner's control.
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Receives the holographic Poseidon card and blue cap. Ella's black luck stone belongs to Ella.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: arrives with Kayla, watches the first film quietly, gradually relaxes, accepts Sour Patch Kids from Will, and falls asleep beside Kayla during the later part of the gathering. Will covers them with his own jacket. No new secret or relationship label is established.

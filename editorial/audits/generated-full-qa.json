@@ -10,61 +10,61 @@
   "chapters": [
     {
       "chapter": 1,
-      "path": "chapters/001-the-weight-of-salt-and-sky.md",
-      "body_words": 11077,
+      "path": "chapters\\001-the-weight-of-salt-and-sky.md",
+      "body_words": 11290,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
         {
-          "line": 984,
+          "line": 895,
           "text": "Annabeth looked at him, and for one bare heartbeat, the mask slipped. She was twelve years old and displaced and grieving a life she couldn't prove had existed, and she was so tired of pretending."
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.266,
-      "median_paragraph_words": 13
+      "dialogue_line_ratio": 0.277,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 2,
-      "path": "chapters/002-the-girl-with-lightning-in-her-veins.md",
-      "body_words": 10834,
+      "path": "chapters\\002-the-girl-with-lightning-in-her-veins.md",
+      "body_words": 10128,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
         {
-          "line": 457,
+          "line": 445,
           "text": "\"And I don't know. In my original life, I didn't have a sister. Thalia nearly died when she was twelve, became a tree, and later came back to us. She was my friend, not my biological sister. And now she is. She's the most important person in my life "
         }
       ],
       "possible_knowledge_leak_cues": [
         {
-          "line": 559,
+          "line": 547,
           "text": "Annabeth remembered Beryl Grace in fragments that weren't hers. She knew the name, the face from photographs, the outline Thalia had given her. She remembered her own mother from the previous life, Athena present in flashes of pride or distance but n"
         }
       ],
-      "dialogue_line_ratio": 0.27,
+      "dialogue_line_ratio": 0.279,
       "median_paragraph_words": 11
     },
     {
       "chapter": 3,
-      "path": "chapters/003-what-the-storm-remembers.md",
-      "body_words": 10335,
+      "path": "chapters\\003-what-the-storm-remembers.md",
+      "body_words": 10393,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.279,
+      "dialogue_line_ratio": 0.281,
       "median_paragraph_words": 10
     },
     {
       "chapter": 4,
-      "path": "chapters/004-the-hall-of-gods.md",
-      "body_words": 10928,
+      "path": "chapters\\004-the-hall-of-gods.md",
+      "body_words": 11024,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
         {
-          "line": 405,
+          "line": 403,
           "text": "Annabeth moved like a shadow. She was twelve years old and small and quiet, and she navigated the darkness with a precision that spoke of training Percy didn't fully understand. Her balance occasionally surprised him: an adjustment this body made bef"
         }
       ],
@@ -74,8 +74,8 @@
     },
     {
       "chapter": 5,
-      "path": "chapters/005-clarisse.md",
-      "body_words": 10966,
+      "path": "chapters\\005-clarisse.md",
+      "body_words": 11077,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -85,19 +85,19 @@
     },
     {
       "chapter": 6,
-      "path": "chapters/006-the-sister.md",
-      "body_words": 10639,
+      "path": "chapters\\006-the-sister.md",
+      "body_words": 10803,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
       "dialogue_line_ratio": 0.267,
-      "median_paragraph_words": 16
+      "median_paragraph_words": 17
     },
     {
       "chapter": 7,
-      "path": "chapters/007-the-tempest.md",
-      "body_words": 10385,
+      "path": "chapters\\007-the-tempest.md",
+      "body_words": 10586,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -107,19 +107,19 @@
     },
     {
       "chapter": 8,
-      "path": "chapters/008-the-gathering-storm.md",
-      "body_words": 10650,
+      "path": "chapters\\008-the-gathering-storm.md",
+      "body_words": 10938,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.296,
+      "dialogue_line_ratio": 0.297,
       "median_paragraph_words": 14
     },
     {
       "chapter": 9,
-      "path": "chapters/009-the-oracle.md",
-      "body_words": 10109,
+      "path": "chapters\\009-the-oracle.md",
+      "body_words": 10351,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -134,8 +134,8 @@
     },
     {
       "chapter": 10,
-      "path": "chapters/010-the-daughter-of-hecate.md",
-      "body_words": 10087,
+      "path": "chapters\\010-the-daughter-of-hecate.md",
+      "body_words": 10360,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -145,8 +145,8 @@
     },
     {
       "chapter": 11,
-      "path": "chapters/011-the-eclipse.md",
-      "body_words": 10049,
+      "path": "chapters\\011-the-eclipse.md",
+      "body_words": 10283,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -156,8 +156,8 @@
     },
     {
       "chapter": 12,
-      "path": "chapters/012-what-remains.md",
-      "body_words": 10035,
+      "path": "chapters\\012-what-remains.md",
+      "body_words": 10308,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -167,19 +167,19 @@
     },
     {
       "chapter": 13,
-      "path": "chapters/013-the-father-who-changes-faces.md",
-      "body_words": 10056,
+      "path": "chapters\\013-the-father-who-changes-faces.md",
+      "body_words": 10166,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.251,
+      "dialogue_line_ratio": 0.252,
       "median_paragraph_words": 17
     },
     {
       "chapter": 14,
-      "path": "chapters/014-letters-from-under-the-sea.md",
-      "body_words": 10110,
+      "path": "chapters\\014-letters-from-under-the-sea.md",
+      "body_words": 10214,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -189,8 +189,8 @@
     },
     {
       "chapter": 15,
-      "path": "chapters/015-beryl-s-letters.md",
-      "body_words": 10040,
+      "path": "chapters\\015-beryl-s-letters.md",
+      "body_words": 10186,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -205,8 +205,8 @@
     },
     {
       "chapter": 16,
-      "path": "chapters/016-capture-the-flag.md",
-      "body_words": 10175,
+      "path": "chapters\\016-capture-the-flag.md",
+      "body_words": 10232,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -221,28 +221,28 @@
     },
     {
       "chapter": 17,
-      "path": "chapters/017-lake-day.md",
-      "body_words": 10003,
+      "path": "chapters\\017-lake-day.md",
+      "body_words": 10061,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
         {
-          "line": 565,
+          "line": 561,
           "text": "But right now, getting splashed by Nico and heckled by Thalia and corrected on his chicken-fight stance by a ten-year-old from the Demeter cabin? He was twelve. Loudly, messily twelve."
         },
         {
-          "line": 734,
+          "line": 730,
           "text": "It wasn't a bad knot. Not danger, not prophecy, not the cold finger-trail she'd learned to recognize in the life she remembered when something was coming. Just — noise. Too many people, too many expectations, too much *remembering*. She remembered be"
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.238,
+      "dialogue_line_ratio": 0.239,
       "median_paragraph_words": 16
     },
     {
       "chapter": 18,
-      "path": "chapters/018-the-forge.md",
-      "body_words": 10001,
+      "path": "chapters\\018-the-forge.md",
+      "body_words": 10101,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -252,24 +252,24 @@
     },
     {
       "chapter": 19,
-      "path": "chapters/019-the-brother-across-the-country.md",
-      "body_words": 10003,
+      "path": "chapters\\019-the-brother-across-the-country.md",
+      "body_words": 10082,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
         {
-          "line": 597,
+          "line": 595,
           "text": "\"When you taught me to be.\" Annabeth leaned against her shoulder. She was twelve and too thin and too smart and the best thing Thalia had ever done. \"He liked the drawing. He said our names. He smiled with the tooth gone — did you see? He lost a toot"
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.238,
+      "dialogue_line_ratio": 0.239,
       "median_paragraph_words": 20
     },
     {
       "chapter": 20,
-      "path": "chapters/020-cake-and-lightning.md",
-      "body_words": 10017,
+      "path": "chapters\\020-cake-and-lightning.md",
+      "body_words": 10125,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -289,19 +289,19 @@
     },
     {
       "chapter": 21,
-      "path": "chapters/021-strawberry-fields-and-amphitheater-nights.md",
-      "body_words": 10000,
+      "path": "chapters\\021-strawberry-fields-and-amphitheater-nights.md",
+      "body_words": 10152,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.221,
+      "dialogue_line_ratio": 0.222,
       "median_paragraph_words": 18
     },
     {
       "chapter": 22,
-      "path": "chapters/022-storm-training.md",
-      "body_words": 10007,
+      "path": "chapters\\022-storm-training.md",
+      "body_words": 10103,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -311,8 +311,8 @@
     },
     {
       "chapter": 23,
-      "path": "chapters/023-sally-s-blue.md",
-      "body_words": 10014,
+      "path": "chapters\\023-sally-s-blue.md",
+      "body_words": 10016,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -322,8 +322,8 @@
     },
     {
       "chapter": 24,
-      "path": "chapters/024-the-climbing-wall.md",
-      "body_words": 10013,
+      "path": "chapters\\024-the-climbing-wall.md",
+      "body_words": 10001,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -338,8 +338,8 @@
     },
     {
       "chapter": 25,
-      "path": "chapters/025-night-watches.md",
-      "body_words": 10000,
+      "path": "chapters\\025-night-watches.md",
+      "body_words": 10020,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -349,19 +349,19 @@
     },
     {
       "chapter": 26,
-      "path": "chapters/026-the-roof.md",
-      "body_words": 10002,
+      "path": "chapters\\026-the-roof.md",
+      "body_words": 10014,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.247,
+      "dialogue_line_ratio": 0.248,
       "median_paragraph_words": 17
     },
     {
       "chapter": 27,
-      "path": "chapters/027-the-library.md",
-      "body_words": 10000,
+      "path": "chapters\\027-the-library.md",
+      "body_words": 10009,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -371,8 +371,8 @@
     },
     {
       "chapter": 28,
-      "path": "chapters/028-sparring.md",
-      "body_words": 10049,
+      "path": "chapters\\028-sparring.md",
+      "body_words": 10050,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -399,7 +399,7 @@
     },
     {
       "chapter": 29,
-      "path": "chapters/029-rainy-day.md",
+      "path": "chapters\\029-rainy-day.md",
       "body_words": 10005,
       "shortfall": 0,
       "passes_length": true,
@@ -415,8 +415,8 @@
     },
     {
       "chapter": 30,
-      "path": "chapters/030-amphitrite-visits.md",
-      "body_words": 10169,
+      "path": "chapters\\030-amphitrite-visits.md",
+      "body_words": 10144,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -426,8 +426,8 @@
     },
     {
       "chapter": 31,
-      "path": "chapters/031-the-promise.md",
-      "body_words": 10005,
+      "path": "chapters\\031-the-promise.md",
+      "body_words": 10001,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -437,8 +437,8 @@
     },
     {
       "chapter": 32,
-      "path": "chapters/032-triton-visits.md",
-      "body_words": 10001,
+      "path": "chapters\\032-triton-visits.md",
+      "body_words": 10043,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -448,8 +448,8 @@
     },
     {
       "chapter": 33,
-      "path": "chapters/033-architecture.md",
-      "body_words": 10001,
+      "path": "chapters\\033-architecture.md",
+      "body_words": 10004,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -459,8 +459,8 @@
     },
     {
       "chapter": 34,
-      "path": "chapters/034-mythomagic-tournament.md",
-      "body_words": 10099,
+      "path": "chapters\\034-mythomagic-tournament.md",
+      "body_words": 10136,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -475,19 +475,19 @@
     },
     {
       "chapter": 35,
-      "path": "chapters/035-the-letter.md",
-      "body_words": 10000,
+      "path": "chapters\\035-the-letter.md",
+      "body_words": 10017,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.283,
+      "dialogue_line_ratio": 0.286,
       "median_paragraph_words": 14
     },
     {
       "chapter": 36,
-      "path": "chapters/036-five-months.md",
-      "body_words": 10085,
+      "path": "chapters\\036-five-months.md",
+      "body_words": 10096,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -497,7 +497,7 @@
     },
     {
       "chapter": 37,
-      "path": "chapters/037-sisters.md",
+      "path": "chapters\\037-sisters.md",
       "body_words": 10005,
       "shortfall": 0,
       "passes_length": true,
@@ -508,7 +508,7 @@
     },
     {
       "chapter": 38,
-      "path": "chapters/038-brothers-and-sisters.md",
+      "path": "chapters\\038-brothers-and-sisters.md",
       "body_words": 10024,
       "shortfall": 0,
       "passes_length": true,
@@ -524,7 +524,7 @@
     },
     {
       "chapter": 39,
-      "path": "chapters/039-annabeth-s-project.md",
+      "path": "chapters\\039-annabeth-s-project.md",
       "body_words": 10032,
       "shortfall": 0,
       "passes_length": true,
@@ -535,7 +535,7 @@
     },
     {
       "chapter": 40,
-      "path": "chapters/040-winter.md",
+      "path": "chapters\\040-winter.md",
       "body_words": 10005,
       "shortfall": 0,
       "passes_length": true,
@@ -546,7 +546,7 @@
     },
     {
       "chapter": 41,
-      "path": "chapters/041-ordinary.md",
+      "path": "chapters\\041-ordinary.md",
       "body_words": 10019,
       "shortfall": 0,
       "passes_length": true,
@@ -570,7 +570,7 @@
     },
     {
       "chapter": 42,
-      "path": "chapters/042-slow-dance.md",
+      "path": "chapters\\042-slow-dance.md",
       "body_words": 10133,
       "shortfall": 0,
       "passes_length": true,
@@ -581,7 +581,7 @@
     },
     {
       "chapter": 43,
-      "path": "chapters/043-the-unsigned-note.md",
+      "path": "chapters\\043-the-unsigned-note.md",
       "body_words": 10052,
       "shortfall": 0,
       "passes_length": true,
@@ -597,7 +597,7 @@
     },
     {
       "chapter": 44,
-      "path": "chapters/044-the-boy-with-graph-paper.md",
+      "path": "chapters\\044-the-boy-with-graph-paper.md",
       "body_words": 10021,
       "shortfall": 0,
       "passes_length": true,
@@ -608,7 +608,7 @@
     },
     {
       "chapter": 45,
-      "path": "chapters/045-grover-s-crush.md",
+      "path": "chapters\\045-grover-s-crush.md",
       "body_words": 10133,
       "shortfall": 0,
       "passes_length": true,
@@ -619,7 +619,7 @@
     },
     {
       "chapter": 46,
-      "path": "chapters/046-stargazing.md",
+      "path": "chapters\\046-stargazing.md",
       "body_words": 10214,
       "shortfall": 0,
       "passes_length": true,
@@ -647,7 +647,7 @@
     },
     {
       "chapter": 47,
-      "path": "chapters/047-snow-that-asks-permission.md",
+      "path": "chapters\\047-snow-that-asks-permission.md",
       "body_words": 10181,
       "shortfall": 0,
       "passes_length": true,
@@ -667,7 +667,7 @@
     },
     {
       "chapter": 48,
-      "path": "chapters/048-accused.md",
+      "path": "chapters\\048-accused.md",
       "body_words": 10119,
       "shortfall": 0,
       "passes_length": true,
@@ -678,7 +678,7 @@
     },
     {
       "chapter": 49,
-      "path": "chapters/049-the-quest.md",
+      "path": "chapters\\049-the-quest.md",
       "body_words": 10024,
       "shortfall": 0,
       "passes_length": true,
@@ -694,7 +694,7 @@
     },
     {
       "chapter": 50,
-      "path": "chapters/050-half-blood-hill.md",
+      "path": "chapters\\050-half-blood-hill.md",
       "body_words": 10003,
       "shortfall": 0,
       "passes_length": true,
@@ -705,7 +705,7 @@
     },
     {
       "chapter": 51,
-      "path": "chapters/051-medusa-s-place.md",
+      "path": "chapters\\051-medusa-s-place.md",
       "body_words": 10009,
       "shortfall": 0,
       "passes_length": true,
@@ -721,7 +721,7 @@
     },
     {
       "chapter": 52,
-      "path": "chapters/052-the-arch.md",
+      "path": "chapters\\052-the-arch.md",
       "body_words": 10010,
       "shortfall": 0,
       "passes_length": true,
@@ -741,7 +741,7 @@
     },
     {
       "chapter": 53,
-      "path": "chapters/053-river.md",
+      "path": "chapters\\053-river.md",
       "body_words": 10027,
       "shortfall": 0,
       "passes_length": true,
@@ -752,7 +752,7 @@
     },
     {
       "chapter": 54,
-      "path": "chapters/054-lotus.md",
+      "path": "chapters\\054-lotus.md",
       "body_words": 10009,
       "shortfall": 0,
       "passes_length": true,
@@ -763,7 +763,7 @@
     },
     {
       "chapter": 55,
-      "path": "chapters/055-underworld-gates.md",
+      "path": "chapters\\055-underworld-gates.md",
       "body_words": 10014,
       "shortfall": 0,
       "passes_length": true,
@@ -774,7 +774,7 @@
     },
     {
       "chapter": 56,
-      "path": "chapters/056-hades.md",
+      "path": "chapters\\056-hades.md",
       "body_words": 10000,
       "shortfall": 0,
       "passes_length": true,
@@ -785,7 +785,7 @@
     },
     {
       "chapter": 57,
-      "path": "chapters/057-ares.md",
+      "path": "chapters\\057-ares.md",
       "body_words": 10080,
       "shortfall": 0,
       "passes_length": true,
@@ -796,7 +796,7 @@
     },
     {
       "chapter": 58,
-      "path": "chapters/058-olympus.md",
+      "path": "chapters\\058-olympus.md",
       "body_words": 10039,
       "shortfall": 0,
       "passes_length": true,
@@ -807,7 +807,7 @@
     },
     {
       "chapter": 59,
-      "path": "chapters/059-homecoming.md",
+      "path": "chapters\\059-homecoming.md",
       "body_words": 10097,
       "shortfall": 0,
       "passes_length": true,
@@ -818,7 +818,7 @@
     },
     {
       "chapter": 60,
-      "path": "chapters/060-summer-s-end.md",
+      "path": "chapters\\060-summer-s-end.md",
       "body_words": 10013,
       "shortfall": 0,
       "passes_length": true,
@@ -829,7 +829,7 @@
     },
     {
       "chapter": 61,
-      "path": "chapters/061-fall.md",
+      "path": "chapters\\061-fall.md",
       "body_words": 10042,
       "shortfall": 0,
       "passes_length": true,
@@ -840,7 +840,7 @@
     },
     {
       "chapter": 62,
-      "path": "chapters/062-snow-day.md",
+      "path": "chapters\\062-snow-day.md",
       "body_words": 10010,
       "shortfall": 0,
       "passes_length": true,
@@ -851,7 +851,7 @@
     },
     {
       "chapter": 63,
-      "path": "chapters/063-spring-cleaning.md",
+      "path": "chapters\\063-spring-cleaning.md",
       "body_words": 10003,
       "shortfall": 0,
       "passes_length": true,
@@ -862,7 +862,7 @@
     },
     {
       "chapter": 64,
-      "path": "chapters/064-the-dance-spring.md",
+      "path": "chapters\\064-the-dance-spring.md",
       "body_words": 10000,
       "shortfall": 0,
       "passes_length": true,
@@ -878,7 +878,7 @@
     },
     {
       "chapter": 65,
-      "path": "chapters/065-triton-s-lesson.md",
+      "path": "chapters\\065-triton-s-lesson.md",
       "body_words": 10004,
       "shortfall": 0,
       "passes_length": true,
@@ -889,7 +889,7 @@
     },
     {
       "chapter": 66,
-      "path": "chapters/066-jason-s-letter.md",
+      "path": "chapters\\066-jason-s-letter.md",
       "body_words": 10572,
       "shortfall": 0,
       "passes_length": true,
@@ -900,7 +900,7 @@
     },
     {
       "chapter": 67,
-      "path": "chapters/067-fishing.md",
+      "path": "chapters\\067-fishing.md",
       "body_words": 10292,
       "shortfall": 0,
       "passes_length": true,
@@ -911,7 +911,7 @@
     },
     {
       "chapter": 68,
-      "path": "chapters/068-the-storm-small.md",
+      "path": "chapters\\068-the-storm-small.md",
       "body_words": 10328,
       "shortfall": 0,
       "passes_length": true,
@@ -922,43 +922,48 @@
     },
     {
       "chapter": 69,
-      "path": "chapters/069-silena-s-song.md",
-      "body_words": 6001,
-      "shortfall": 3999,
-      "passes_length": false,
+      "path": "chapters\\069-silena-s-song.md",
+      "body_words": 10118,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.198,
-      "median_paragraph_words": 14
+      "dialogue_line_ratio": 0.214,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 70,
-      "path": "chapters/070-clarisse-s-poems.md",
-      "body_words": 6072,
-      "shortfall": 3928,
-      "passes_length": false,
+      "path": "chapters\\070-clarisse-s-poems.md",
+      "body_words": 10543,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.168,
-      "median_paragraph_words": 18
+      "dialogue_line_ratio": 0.223,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 71,
-      "path": "chapters/071-anniversary.md",
-      "body_words": 5995,
-      "shortfall": 4005,
-      "passes_length": false,
-      "age_review_cues": [],
+      "path": "chapters\\071-anniversary.md",
+      "body_words": 10145,
+      "shortfall": 0,
+      "passes_length": true,
+      "age_review_cues": [
+        {
+          "line": 425,
+          "text": "\"When everything changed, Percy was twelve and he knew things that hadn't happened,\" she said carefully. That much was not a new disclosure; Malcolm knew she and Percy had difficult memories of a life they discussed with one another, though he had ne"
+        }
+      ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.249,
-      "median_paragraph_words": 22
+      "dialogue_line_ratio": 0.287,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 72,
-      "path": "chapters/072-new-kids.md",
-      "body_words": 5751,
-      "shortfall": 4249,
-      "passes_length": false,
+      "path": "chapters\\072-new-kids.md",
+      "body_words": 10093,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [
         {
           "line": 87,
@@ -966,275 +971,275 @@
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.252,
-      "median_paragraph_words": 20
+      "dialogue_line_ratio": 0.277,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 73,
-      "path": "chapters/073-the-play.md",
-      "body_words": 5604,
-      "shortfall": 4396,
-      "passes_length": false,
+      "path": "chapters\\073-the-play.md",
+      "body_words": 10245,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.246,
-      "median_paragraph_words": 21
+      "dialogue_line_ratio": 0.28,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 74,
-      "path": "chapters/074-tyson-s-visit.md",
-      "body_words": 5845,
-      "shortfall": 4155,
-      "passes_length": false,
+      "path": "chapters\\074-tyson-s-visit.md",
+      "body_words": 10179,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.211,
-      "median_paragraph_words": 17
+      "dialogue_line_ratio": 0.245,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 75,
-      "path": "chapters/075-zoe-s-story.md",
-      "body_words": 5558,
-      "shortfall": 4442,
-      "passes_length": false,
+      "path": "chapters\\075-zoe-s-story.md",
+      "body_words": 10087,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.17,
-      "median_paragraph_words": 30
+      "dialogue_line_ratio": 0.23,
+      "median_paragraph_words": 20
     },
     {
       "chapter": 76,
-      "path": "chapters/076-the-promise-ii.md",
-      "body_words": 5228,
-      "shortfall": 4772,
-      "passes_length": false,
+      "path": "chapters\\076-the-promise-ii.md",
+      "body_words": 10350,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.182,
-      "median_paragraph_words": 19
+      "dialogue_line_ratio": 0.256,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 77,
-      "path": "chapters/077-beach-day-atlantis-style.md",
-      "body_words": 5706,
-      "shortfall": 4294,
-      "passes_length": false,
+      "path": "chapters\\077-beach-day-atlantis-style.md",
+      "body_words": 10236,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.171,
-      "median_paragraph_words": 19
+      "dialogue_line_ratio": 0.23,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 78,
-      "path": "chapters/078-nico-s-birthday.md",
-      "body_words": 5987,
-      "shortfall": 4013,
-      "passes_length": false,
+      "path": "chapters\\078-nico-s-birthday.md",
+      "body_words": 10471,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.215,
-      "median_paragraph_words": 19
+      "dialogue_line_ratio": 0.259,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 79,
-      "path": "chapters/079-elena-s-tale.md",
-      "body_words": 5336,
-      "shortfall": 4664,
-      "passes_length": false,
+      "path": "chapters\\079-elena-s-tale.md",
+      "body_words": 10116,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.207,
-      "median_paragraph_words": 22
+      "dialogue_line_ratio": 0.233,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 80,
-      "path": "chapters/080-the-second-dance.md",
-      "body_words": 5702,
-      "shortfall": 4298,
-      "passes_length": false,
+      "path": "chapters\\080-the-second-dance.md",
+      "body_words": 10440,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [
         {
-          "line": 243,
+          "line": 375,
           "text": "Thalia lounged in the doorway again, arms crossed, self-appointed guard again, in black jeans and boots and a lightning-stitched top, her formal, with extra eyeliner. But this time she did not warn Keep it simple, she’ll trip on all those ribbons. Th"
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.189,
-      "median_paragraph_words": 17
+      "dialogue_line_ratio": 0.232,
+      "median_paragraph_words": 16
     },
     {
       "chapter": 81,
-      "path": "chapters/081-home.md",
-      "body_words": 5116,
-      "shortfall": 4884,
-      "passes_length": false,
+      "path": "chapters\\081-home.md",
+      "body_words": 10041,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.229,
-      "median_paragraph_words": 18
+      "dialogue_line_ratio": 0.264,
+      "median_paragraph_words": 12
     },
     {
       "chapter": 82,
-      "path": "chapters/082-letters-may.md",
-      "body_words": 6107,
-      "shortfall": 3893,
-      "passes_length": false,
+      "path": "chapters\\082-letters-may.md",
+      "body_words": 10044,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [
         {
-          "line": 60,
+          "line": 230,
           "text": "Annabeth Grace woke to frost on the Zeus cabin shutters and Apollo scales in the cold air. She was thirteen, hair braided back for archery. On her desk lay three books, a half-drawn map, and a pottery shard she used as a paperweight."
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.044,
-      "median_paragraph_words": 20
+      "dialogue_line_ratio": 0.13,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 83,
-      "path": "chapters/083-spring-break-visit.md",
-      "body_words": 6937,
-      "shortfall": 3063,
-      "passes_length": false,
+      "path": "chapters\\083-spring-break-visit.md",
+      "body_words": 10014,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.219,
-      "median_paragraph_words": 17
+      "dialogue_line_ratio": 0.232,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 84,
-      "path": "chapters/084-spring-resolutions.md",
-      "body_words": 6035,
-      "shortfall": 3965,
-      "passes_length": false,
+      "path": "chapters\\084-spring-resolutions.md",
+      "body_words": 10016,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.208,
-      "median_paragraph_words": 18
+      "dialogue_line_ratio": 0.249,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 85,
-      "path": "chapters/085-spring.md",
-      "body_words": 6551,
-      "shortfall": 3449,
-      "passes_length": false,
+      "path": "chapters\\085-spring.md",
+      "body_words": 10012,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [
         {
           "line": 13,
           "text": "Percy was thirteen now. Taller by four inches since last August. His hair was longer, curling damp at the nape of his neck. His hands had calluses that didn't fade over winter anymore. His winter coat was slung over the piling because he'd gotten too"
         },
         {
-          "line": 495,
+          "line": 755,
           "text": "Annabeth stood up with her cup. She was thirteen, mud on her boots, pencil still behind her ear, and she looked utterly at home."
         },
         {
-          "line": 517,
+          "line": 777,
           "text": "Percy stood. He was thirteen, sun-browned already from one day of spring sun, hair wild, shirt still damp. His girlfriend on one side, her sister on the other, his family in front of him, his lake behind him."
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.21,
-      "median_paragraph_words": 17
+      "dialogue_line_ratio": 0.235,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 86,
-      "path": "chapters/086-the-summons-to-atlantis.md",
-      "body_words": 7063,
-      "shortfall": 2937,
-      "passes_length": false,
+      "path": "chapters\\086-the-summons-to-atlantis.md",
+      "body_words": 10033,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [
         {
-          "line": 223,
+          "line": 313,
           "text": "Percy went. He was thirteen and tried to act steady, but his father's hand on the back of his neck was warm and huge and smelled of salt and storms, and for a second he could almost picture the child everyone remembered, small and dripping and showin"
         },
         {
-          "line": 583,
+          "line": 853,
           "text": "Percy nodded, suddenly shy. He was thirteen, a veteran of monsters, and his hands shook."
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.217,
-      "median_paragraph_words": 19
+      "dialogue_line_ratio": 0.235,
+      "median_paragraph_words": 16
     },
     {
       "chapter": 87,
-      "path": "chapters/087-a-kiss-we-choose.md",
-      "body_words": 6696,
-      "shortfall": 3304,
-      "passes_length": false,
+      "path": "chapters\\087-a-kiss-we-choose.md",
+      "body_words": 10007,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.28,
-      "median_paragraph_words": 18
+      "dialogue_line_ratio": 0.269,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 88,
-      "path": "chapters/088-spear-song-sea.md",
-      "body_words": 6111,
-      "shortfall": 3889,
-      "passes_length": false,
+      "path": "chapters\\088-spear-song-sea.md",
+      "body_words": 10029,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.226,
-      "median_paragraph_words": 19
+      "dialogue_line_ratio": 0.222,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 89,
-      "path": "chapters/089-belated-valentines-camp-style.md",
-      "body_words": 6889,
-      "shortfall": 3111,
-      "passes_length": false,
+      "path": "chapters\\089-belated-valentines-camp-style.md",
+      "body_words": 10008,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.207,
-      "median_paragraph_words": 14
+      "dialogue_line_ratio": 0.229,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 90,
-      "path": "chapters/090-storm-and-sea.md",
-      "body_words": 6081,
-      "shortfall": 3919,
-      "passes_length": false,
+      "path": "chapters\\090-storm-and-sea.md",
+      "body_words": 10346,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.131,
-      "median_paragraph_words": 21
+      "dialogue_line_ratio": 0.151,
+      "median_paragraph_words": 26
     },
     {
       "chapter": 91,
-      "path": "chapters/091-tide-pools.md",
-      "body_words": 6788,
-      "shortfall": 3212,
-      "passes_length": false,
+      "path": "chapters\\091-tide-pools.md",
+      "body_words": 10050,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.172,
-      "median_paragraph_words": 19
+      "dialogue_line_ratio": 0.188,
+      "median_paragraph_words": 22
     },
     {
       "chapter": 92,
-      "path": "chapters/092-jealousy-ii.md",
-      "body_words": 6375,
-      "shortfall": 3625,
-      "passes_length": false,
+      "path": "chapters\\092-jealousy-ii.md",
+      "body_words": 10062,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.217,
-      "median_paragraph_words": 14
+      "dialogue_line_ratio": 0.264,
+      "median_paragraph_words": 16
     },
     {
       "chapter": 93,
-      "path": "chapters/093-movie-night.md",
-      "body_words": 6207,
-      "shortfall": 3793,
-      "passes_length": false,
+      "path": "chapters\\093-movie-night.md",
+      "body_words": 10114,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.261,
+      "dialogue_line_ratio": 0.264,
       "median_paragraph_words": 14
     },
     {
       "chapter": 94,
-      "path": "chapters/094-sick-day.md",
+      "path": "chapters\\094-sick-day.md",
       "body_words": 6387,
       "shortfall": 3613,
       "passes_length": false,
@@ -1245,7 +1250,7 @@
     },
     {
       "chapter": 95,
-      "path": "chapters/095-annabeth-sick.md",
+      "path": "chapters\\095-annabeth-sick.md",
       "body_words": 6977,
       "shortfall": 3023,
       "passes_length": false,
@@ -1256,7 +1261,7 @@
     },
     {
       "chapter": 96,
-      "path": "chapters/096-training-together.md",
+      "path": "chapters\\096-training-together.md",
       "body_words": 6878,
       "shortfall": 3122,
       "passes_length": false,
@@ -1272,7 +1277,7 @@
     },
     {
       "chapter": 97,
-      "path": "chapters/097-the-map.md",
+      "path": "chapters\\097-the-map.md",
       "body_words": 6862,
       "shortfall": 3138,
       "passes_length": false,
@@ -1283,7 +1288,7 @@
     },
     {
       "chapter": 98,
-      "path": "chapters/098-fathers-day-gods.md",
+      "path": "chapters\\098-fathers-day-gods.md",
       "body_words": 6261,
       "shortfall": 3739,
       "passes_length": false,
@@ -1303,7 +1308,7 @@
     },
     {
       "chapter": 99,
-      "path": "chapters/099-mothers.md",
+      "path": "chapters\\099-mothers.md",
       "body_words": 5884,
       "shortfall": 4116,
       "passes_length": false,
@@ -1314,7 +1319,7 @@
     },
     {
       "chapter": 100,
-      "path": "chapters/100-the-thousandth-campfire.md",
+      "path": "chapters\\100-the-thousandth-campfire.md",
       "body_words": 6716,
       "shortfall": 3284,
       "passes_length": false,
@@ -1330,7 +1335,7 @@
     },
     {
       "chapter": 101,
-      "path": "chapters/101-a-name-for-it.md",
+      "path": "chapters\\101-a-name-for-it.md",
       "body_words": 2093,
       "shortfall": 7907,
       "passes_length": false,
@@ -1341,7 +1346,7 @@
     },
     {
       "chapter": 102,
-      "path": "chapters/102-not-a-competition.md",
+      "path": "chapters\\102-not-a-competition.md",
       "body_words": 1538,
       "shortfall": 8462,
       "passes_length": false,
@@ -1352,7 +1357,7 @@
     },
     {
       "chapter": 103,
-      "path": "chapters/103-the-things-we-remember.md",
+      "path": "chapters\\103-the-things-we-remember.md",
       "body_words": 1520,
       "shortfall": 8480,
       "passes_length": false,
@@ -1368,7 +1373,7 @@
     },
     {
       "chapter": 104,
-      "path": "chapters/104-a-day-that-was-theirs.md",
+      "path": "chapters\\104-a-day-that-was-theirs.md",
       "body_words": 1818,
       "shortfall": 8182,
       "passes_length": false,
@@ -1379,7 +1384,7 @@
     },
     {
       "chapter": 105,
-      "path": "chapters/105-the-place-at-the-table.md",
+      "path": "chapters\\105-the-place-at-the-table.md",
       "body_words": 1350,
       "shortfall": 8650,
       "passes_length": false,
@@ -1390,7 +1395,7 @@
     },
     {
       "chapter": 106,
-      "path": "chapters/106-the-visit-that-wasn-t-a-test.md",
+      "path": "chapters\\106-the-visit-that-wasn-t-a-test.md",
       "body_words": 1276,
       "shortfall": 8724,
       "passes_length": false,
@@ -1401,7 +1406,7 @@
     },
     {
       "chapter": 107,
-      "path": "chapters/107-the-words-we-choose.md",
+      "path": "chapters\\107-the-words-we-choose.md",
       "body_words": 1514,
       "shortfall": 8486,
       "passes_length": false,
@@ -1412,7 +1417,7 @@
     },
     {
       "chapter": 108,
-      "path": "chapters/108-three-things-we-keep.md",
+      "path": "chapters\\108-three-things-we-keep.md",
       "body_words": 1930,
       "shortfall": 8070,
       "passes_length": false,
@@ -1423,7 +1428,7 @@
     },
     {
       "chapter": 109,
-      "path": "chapters/109-no-borrowed-promises.md",
+      "path": "chapters\\109-no-borrowed-promises.md",
       "body_words": 1268,
       "shortfall": 8732,
       "passes_length": false,
@@ -1434,7 +1439,7 @@
     },
     {
       "chapter": 110,
-      "path": "chapters/110-the-promise-we-make-now.md",
+      "path": "chapters\\110-the-promise-we-make-now.md",
       "body_words": 1089,
       "shortfall": 8911,
       "passes_length": false,
@@ -1445,7 +1450,7 @@
     },
     {
       "chapter": 111,
-      "path": "chapters/111-the-date-committee.md",
+      "path": "chapters\\111-the-date-committee.md",
       "body_words": 11254,
       "shortfall": 0,
       "passes_length": true,
@@ -1456,7 +1461,7 @@
     },
     {
       "chapter": 112,
-      "path": "chapters/112-her-turn-to-worry.md",
+      "path": "chapters\\112-her-turn-to-worry.md",
       "body_words": 10326,
       "shortfall": 0,
       "passes_length": true,
@@ -1467,7 +1472,7 @@
     },
     {
       "chapter": 113,
-      "path": "chapters/113-little-brother.md",
+      "path": "chapters\\113-little-brother.md",
       "body_words": 10328,
       "shortfall": 0,
       "passes_length": true,
@@ -1478,7 +1483,7 @@
     },
     {
       "chapter": 114,
-      "path": "chapters/114-the-space-between.md",
+      "path": "chapters\\114-the-space-between.md",
       "body_words": 777,
       "shortfall": 9223,
       "passes_length": false,
@@ -1489,7 +1494,7 @@
     },
     {
       "chapter": 115,
-      "path": "chapters/115-the-old-photograph.md",
+      "path": "chapters\\115-the-old-photograph.md",
       "body_words": 4218,
       "shortfall": 5782,
       "passes_length": false,
@@ -1500,7 +1505,7 @@
     },
     {
       "chapter": 116,
-      "path": "chapters/116-cabin-three-rules.md",
+      "path": "chapters\\116-cabin-three-rules.md",
       "body_words": 4771,
       "shortfall": 5229,
       "passes_length": false,
@@ -1511,7 +1516,7 @@
     },
     {
       "chapter": 117,
-      "path": "chapters/117-a-day-apart.md",
+      "path": "chapters\\117-a-day-apart.md",
       "body_words": 4916,
       "shortfall": 5084,
       "passes_length": false,
@@ -1522,18 +1527,18 @@
     },
     {
       "chapter": 118,
-      "path": "chapters/118-a-message-from-amphitrite.md",
-      "body_words": 4921,
-      "shortfall": 5079,
-      "passes_length": false,
+      "path": "chapters\\118-a-message-from-amphitrite.md",
+      "body_words": 10464,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.322,
-      "median_paragraph_words": 8
+      "dialogue_line_ratio": 0.335,
+      "median_paragraph_words": 9
     },
     {
       "chapter": 119,
-      "path": "chapters/119-sisters-errand.md",
+      "path": "chapters\\119-sisters-errand.md",
       "body_words": 4790,
       "shortfall": 5210,
       "passes_length": false,
@@ -1544,7 +1549,7 @@
     },
     {
       "chapter": 120,
-      "path": "chapters/120-a-letter-from-the-sea.md",
+      "path": "chapters\\120-a-letter-from-the-sea.md",
       "body_words": 4738,
       "shortfall": 5262,
       "passes_length": false,
@@ -1555,7 +1560,7 @@
     },
     {
       "chapter": 121,
-      "path": "chapters/121-the-cabin-three-pact.md",
+      "path": "chapters\\121-the-cabin-three-pact.md",
       "body_words": 10632,
       "shortfall": 0,
       "passes_length": true,
@@ -1566,7 +1571,7 @@
     },
     {
       "chapter": 122,
-      "path": "chapters/122-the-lake-stands-up.md",
+      "path": "chapters\\122-the-lake-stands-up.md",
       "body_words": 10044,
       "shortfall": 0,
       "passes_length": true,
@@ -1577,7 +1582,7 @@
     },
     {
       "chapter": 123,
-      "path": "chapters/123-the-garden-under-the-sea.md",
+      "path": "chapters\\123-the-garden-under-the-sea.md",
       "body_words": 10082,
       "shortfall": 0,
       "passes_length": true,
@@ -1588,7 +1593,7 @@
     },
     {
       "chapter": 124,
-      "path": "chapters/124-after-the-reef.md",
+      "path": "chapters\\124-after-the-reef.md",
       "body_words": 10050,
       "shortfall": 0,
       "passes_length": true,
@@ -1599,7 +1604,7 @@
     },
     {
       "chapter": 125,
-      "path": "chapters/125-the-invitation-accepted.md",
+      "path": "chapters\\125-the-invitation-accepted.md",
       "body_words": 10012,
       "shortfall": 0,
       "passes_length": true,
@@ -1610,18 +1615,18 @@
     },
     {
       "chapter": 126,
-      "path": "chapters/126-the-palace-below.md",
-      "body_words": 10015,
+      "path": "chapters\\126-the-palace-below.md",
+      "body_words": 10097,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.251,
+      "dialogue_line_ratio": 0.253,
       "median_paragraph_words": 14
     },
     {
       "chapter": 127,
-      "path": "chapters/127-guest-and-beloved.md",
+      "path": "chapters\\127-guest-and-beloved.md",
       "body_words": 10121,
       "shortfall": 0,
       "passes_length": true,
@@ -1632,7 +1637,7 @@
     },
     {
       "chapter": 128,
-      "path": "chapters/128-the-sky-in-the-sea.md",
+      "path": "chapters\\128-the-sky-in-the-sea.md",
       "body_words": 10028,
       "shortfall": 0,
       "passes_length": true,
@@ -1643,7 +1648,7 @@
     },
     {
       "chapter": 129,
-      "path": "chapters/129-the-way-back.md",
+      "path": "chapters\\129-the-way-back.md",
       "body_words": 10014,
       "shortfall": 0,
       "passes_length": true,
@@ -1654,7 +1659,7 @@
     },
     {
       "chapter": 130,
-      "path": "chapters/130-the-family-photo.md",
+      "path": "chapters\\130-the-family-photo.md",
       "body_words": 10018,
       "shortfall": 0,
       "passes_length": true,
@@ -1665,7 +1670,7 @@
     },
     {
       "chapter": 131,
-      "path": "chapters/131-cabin-three-at-night.md",
+      "path": "chapters\\131-cabin-three-at-night.md",
       "body_words": 5633,
       "shortfall": 4367,
       "passes_length": false,
@@ -1676,7 +1681,7 @@
     },
     {
       "chapter": 132,
-      "path": "chapters/132-a-month-beneath-the-sea.md",
+      "path": "chapters\\132-a-month-beneath-the-sea.md",
       "body_words": 10243,
       "shortfall": 0,
       "passes_length": true,
@@ -1687,7 +1692,7 @@
     },
     {
       "chapter": 133,
-      "path": "chapters/133-annabeth-s-birthday.md",
+      "path": "chapters\\133-annabeth-s-birthday.md",
       "body_words": 10656,
       "shortfall": 0,
       "passes_length": true,
@@ -1707,7 +1712,7 @@
     },
     {
       "chapter": 134,
-      "path": "chapters/134-the-secret-passage.md",
+      "path": "chapters\\134-the-secret-passage.md",
       "body_words": 10011,
       "shortfall": 0,
       "passes_length": true,
@@ -1718,7 +1723,7 @@
     },
     {
       "chapter": 135,
-      "path": "chapters/135-the-garden.md",
+      "path": "chapters\\135-the-garden.md",
       "body_words": 10006,
       "shortfall": 0,
       "passes_length": true,
@@ -1729,7 +1734,7 @@
     },
     {
       "chapter": 136,
-      "path": "chapters/136-percy-s-birthday.md",
+      "path": "chapters\\136-percy-s-birthday.md",
       "body_words": 10007,
       "shortfall": 0,
       "passes_length": true,
@@ -1740,7 +1745,7 @@
     },
     {
       "chapter": 137,
-      "path": "chapters/137-fourteen.md",
+      "path": "chapters\\137-fourteen.md",
       "body_words": 10020,
       "shortfall": 0,
       "passes_length": true,
@@ -1764,7 +1769,7 @@
     },
     {
       "chapter": 138,
-      "path": "chapters/138-the-mural-finished.md",
+      "path": "chapters\\138-the-mural-finished.md",
       "body_words": 10015,
       "shortfall": 0,
       "passes_length": true,
@@ -1775,7 +1780,7 @@
     },
     {
       "chapter": 139,
-      "path": "chapters/139-storm-season.md",
+      "path": "chapters\\139-storm-season.md",
       "body_words": 10026,
       "shortfall": 0,
       "passes_length": true,
@@ -1786,7 +1791,7 @@
     },
     {
       "chapter": 140,
-      "path": "chapters/140-last-one-in.md",
+      "path": "chapters\\140-last-one-in.md",
       "body_words": 10163,
       "shortfall": 0,
       "passes_length": true,
@@ -1797,7 +1802,7 @@
     },
     {
       "chapter": 141,
-      "path": "chapters/141-the-canoe-race.md",
+      "path": "chapters\\141-the-canoe-race.md",
       "body_words": 10030,
       "shortfall": 0,
       "passes_length": true,
@@ -1808,7 +1813,7 @@
     },
     {
       "chapter": 142,
-      "path": "chapters/142-night-swim.md",
+      "path": "chapters\\142-night-swim.md",
       "body_words": 10087,
       "shortfall": 0,
       "passes_length": true,
@@ -1819,7 +1824,7 @@
     },
     {
       "chapter": 143,
-      "path": "chapters/143-the-dock-repair.md",
+      "path": "chapters\\143-the-dock-repair.md",
       "body_words": 10136,
       "shortfall": 0,
       "passes_length": true,
@@ -1830,7 +1835,7 @@
     },
     {
       "chapter": 144,
-      "path": "chapters/144-rain-on-the-lake.md",
+      "path": "chapters\\144-rain-on-the-lake.md",
       "body_words": 10080,
       "shortfall": 0,
       "passes_length": true,
@@ -1841,7 +1846,7 @@
     },
     {
       "chapter": 145,
-      "path": "chapters/145-the-lake-keeps-what-it-takes.md",
+      "path": "chapters\\145-the-lake-keeps-what-it-takes.md",
       "body_words": 14648,
       "shortfall": 0,
       "passes_length": true,
@@ -1852,7 +1857,7 @@
     },
     {
       "chapter": 146,
-      "path": "chapters/146-the-long-way-back.md",
+      "path": "chapters\\146-the-long-way-back.md",
       "body_words": 10089,
       "shortfall": 0,
       "passes_length": true,
@@ -1863,7 +1868,7 @@
     },
     {
       "chapter": 147,
-      "path": "chapters/147-the-things-we-train-for.md",
+      "path": "chapters\\147-the-things-we-train-for.md",
       "body_words": 10143,
       "shortfall": 0,
       "passes_length": true,
@@ -1874,7 +1879,7 @@
     },
     {
       "chapter": 148,
-      "path": "chapters/148-the-map-of-small-things.md",
+      "path": "chapters\\148-the-map-of-small-things.md",
       "body_words": 10293,
       "shortfall": 0,
       "passes_length": true,
@@ -1885,8 +1890,8 @@
     },
     {
       "chapter": 149,
-      "path": "chapters/149-the-argument.md",
-      "body_words": 10387,
+      "path": "chapters\\149-the-argument.md",
+      "body_words": 10379,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1896,7 +1901,7 @@
     },
     {
       "chapter": 150,
-      "path": "chapters/150-what-keeps.md",
+      "path": "chapters\\150-what-keeps.md",
       "body_words": 10508,
       "shortfall": 0,
       "passes_length": true,
@@ -1907,7 +1912,7 @@
     },
     {
       "chapter": 151,
-      "path": "chapters/151-two-currents.md",
+      "path": "chapters\\151-two-currents.md",
       "body_words": 10823,
       "shortfall": 0,
       "passes_length": true,
@@ -1923,7 +1928,7 @@
     },
     {
       "chapter": 152,
-      "path": "chapters/152-a-full-day-of-sky.md",
+      "path": "chapters\\152-a-full-day-of-sky.md",
       "body_words": 10934,
       "shortfall": 0,
       "passes_length": true,
@@ -1939,7 +1944,7 @@
     },
     {
       "chapter": 153,
-      "path": "chapters/153-what-the-sea-owes.md",
+      "path": "chapters\\153-what-the-sea-owes.md",
       "body_words": 10846,
       "shortfall": 0,
       "passes_length": true,
@@ -1950,7 +1955,7 @@
     },
     {
       "chapter": 154,
-      "path": "chapters/154-the-heron.md",
+      "path": "chapters\\154-the-heron.md",
       "body_words": 10362,
       "shortfall": 0,
       "passes_length": true,
@@ -1961,7 +1966,7 @@
     },
     {
       "chapter": 155,
-      "path": "chapters/155-thirty-nine-marks.md",
+      "path": "chapters\\155-thirty-nine-marks.md",
       "body_words": 10552,
       "shortfall": 0,
       "passes_length": true,
@@ -1977,7 +1982,7 @@
     },
     {
       "chapter": 156,
-      "path": "chapters/156-what-the-hands-know.md",
+      "path": "chapters\\156-what-the-hands-know.md",
       "body_words": 10326,
       "shortfall": 0,
       "passes_length": true,
@@ -1988,7 +1993,7 @@
     },
     {
       "chapter": 157,
-      "path": "chapters/157-what-we-set-out-before.md",
+      "path": "chapters\\157-what-we-set-out-before.md",
       "body_words": 10134,
       "shortfall": 0,
       "passes_length": true,
@@ -1999,7 +2004,7 @@
     },
     {
       "chapter": 158,
-      "path": "chapters/158-what-brothers-bring.md",
+      "path": "chapters\\158-what-brothers-bring.md",
       "body_words": 10149,
       "shortfall": 0,
       "passes_length": true,
@@ -2010,7 +2015,7 @@
     },
     {
       "chapter": 159,
-      "path": "chapters/159-the-middle-of-the-visit.md",
+      "path": "chapters\\159-the-middle-of-the-visit.md",
       "body_words": 10133,
       "shortfall": 0,
       "passes_length": true,
@@ -2021,7 +2026,7 @@
     },
     {
       "chapter": 160,
-      "path": "chapters/160-what-the-note-said.md",
+      "path": "chapters\\160-what-the-note-said.md",
       "body_words": 10746,
       "shortfall": 0,
       "passes_length": true,
@@ -2032,7 +2037,7 @@
     },
     {
       "chapter": 161,
-      "path": "chapters/161-edges-that-hold.md",
+      "path": "chapters\\161-edges-that-hold.md",
       "body_words": 12028,
       "shortfall": 0,
       "passes_length": true,
@@ -2043,7 +2048,7 @@
     },
     {
       "chapter": 162,
-      "path": "chapters/162-the-day-with-nowhere-to-be.md",
+      "path": "chapters\\162-the-day-with-nowhere-to-be.md",
       "body_words": 10650,
       "shortfall": 0,
       "passes_length": true,
@@ -2067,7 +2072,7 @@
     },
     {
       "chapter": 163,
-      "path": "chapters/163-honey-on-the-hands.md",
+      "path": "chapters\\163-honey-on-the-hands.md",
       "body_words": 10908,
       "shortfall": 0,
       "passes_length": true,
@@ -2078,7 +2083,7 @@
     },
     {
       "chapter": 164,
-      "path": "chapters/164-the-fire-kept-her-place.md",
+      "path": "chapters\\164-the-fire-kept-her-place.md",
       "body_words": 10559,
       "shortfall": 0,
       "passes_length": true,
@@ -2089,7 +2094,7 @@
     },
     {
       "chapter": 165,
-      "path": "chapters/165-the-morning-after.md",
+      "path": "chapters\\165-the-morning-after.md",
       "body_words": 10864,
       "shortfall": 0,
       "passes_length": true,
@@ -2105,7 +2110,7 @@
     },
     {
       "chapter": 166,
-      "path": "chapters/166-the-braid-and-the-blue-rag.md",
+      "path": "chapters\\166-the-braid-and-the-blue-rag.md",
       "body_words": 10222,
       "shortfall": 0,
       "passes_length": true,
@@ -2116,7 +2121,7 @@
     },
     {
       "chapter": 167,
-      "path": "chapters/167-what-sharpens-together.md",
+      "path": "chapters\\167-what-sharpens-together.md",
       "body_words": 11198,
       "shortfall": 0,
       "passes_length": true,
@@ -2127,7 +2132,7 @@
     },
     {
       "chapter": 168,
-      "path": "chapters/168-wool-steam-and-paper.md",
+      "path": "chapters\\168-wool-steam-and-paper.md",
       "body_words": 10988,
       "shortfall": 0,
       "passes_length": true,
@@ -2138,7 +2143,7 @@
     },
     {
       "chapter": 169,
-      "path": "chapters/169-the-conspiracy-of-the-afternoon.md",
+      "path": "chapters\\169-the-conspiracy-of-the-afternoon.md",
       "body_words": 11707,
       "shortfall": 0,
       "passes_length": true,
@@ -2149,7 +2154,7 @@
     },
     {
       "chapter": 170,
-      "path": "chapters/170-what-the-envelope-holds.md",
+      "path": "chapters\\170-what-the-envelope-holds.md",
       "body_words": 10300,
       "shortfall": 0,
       "passes_length": true,
@@ -2160,7 +2165,7 @@
     },
     {
       "chapter": 171,
-      "path": "chapters/171-loud-off-key-and-ours.md",
+      "path": "chapters\\171-loud-off-key-and-ours.md",
       "body_words": 12626,
       "shortfall": 0,
       "passes_length": true,
@@ -2188,7 +2193,7 @@
     },
     {
       "chapter": 172,
-      "path": "chapters/172-the-last-warm-night.md",
+      "path": "chapters\\172-the-last-warm-night.md",
       "body_words": 10575,
       "shortfall": 0,
       "passes_length": true,
@@ -2199,7 +2204,7 @@
     },
     {
       "chapter": 173,
-      "path": "chapters/173-the-long-way-up-the-hill.md",
+      "path": "chapters\\173-the-long-way-up-the-hill.md",
       "body_words": 10440,
       "shortfall": 0,
       "passes_length": true,
@@ -2210,7 +2215,7 @@
     },
     {
       "chapter": 174,
-      "path": "chapters/174-everything-the-rain-brings-in.md",
+      "path": "chapters\\174-everything-the-rain-brings-in.md",
       "body_words": 10212,
       "shortfall": 0,
       "passes_length": true,
@@ -2221,7 +2226,7 @@
     },
     {
       "chapter": 175,
-      "path": "chapters/175-salt-and-steam.md",
+      "path": "chapters\\175-salt-and-steam.md",
       "body_words": 10182,
       "shortfall": 0,
       "passes_length": true,
@@ -2232,7 +2237,7 @@
     },
     {
       "chapter": 176,
-      "path": "chapters/176-the-storm-quilt.md",
+      "path": "chapters\\176-the-storm-quilt.md",
       "body_words": 10195,
       "shortfall": 0,
       "passes_length": true,
@@ -2248,8 +2253,8 @@
     },
     {
       "chapter": 177,
-      "path": "chapters/177-the-one-who-came-back.md",
-      "body_words": 10230,
+      "path": "chapters\\177-the-one-who-came-back.md",
+      "body_words": 10227,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2259,7 +2264,7 @@
     },
     {
       "chapter": 178,
-      "path": "chapters/178-the-blank-under-the-ridge.md",
+      "path": "chapters\\178-the-blank-under-the-ridge.md",
       "body_words": 10232,
       "shortfall": 0,
       "passes_length": true,
@@ -2270,7 +2275,7 @@
     },
     {
       "chapter": 179,
-      "path": "chapters/179-sunday-at-eight.md",
+      "path": "chapters\\179-sunday-at-eight.md",
       "body_words": 10716,
       "shortfall": 0,
       "passes_length": true,
@@ -2281,7 +2286,7 @@
     },
     {
       "chapter": 180,
-      "path": "chapters/180-everything-out-of-the-trunks.md",
+      "path": "chapters\\180-everything-out-of-the-trunks.md",
       "body_words": 12466,
       "shortfall": 0,
       "passes_length": true,
@@ -2297,7 +2302,7 @@
     },
     {
       "chapter": 181,
-      "path": "chapters/181-whoever-wants-to-come.md",
+      "path": "chapters\\181-whoever-wants-to-come.md",
       "body_words": 10509,
       "shortfall": 0,
       "passes_length": true,
@@ -2308,7 +2313,7 @@
     },
     {
       "chapter": 182,
-      "path": "chapters/182-the-first-hot-bread.md",
+      "path": "chapters\\182-the-first-hot-bread.md",
       "body_words": 10771,
       "shortfall": 0,
       "passes_length": true,
@@ -2319,7 +2324,7 @@
     },
     {
       "chapter": 183,
-      "path": "chapters/183-the-sack-on-the-hook.md",
+      "path": "chapters\\183-the-sack-on-the-hook.md",
       "body_words": 10431,
       "shortfall": 0,
       "passes_length": true,
@@ -2330,7 +2335,7 @@
     },
     {
       "chapter": 184,
-      "path": "chapters/184-friday-and-the-porch.md",
+      "path": "chapters\\184-friday-and-the-porch.md",
       "body_words": 10701,
       "shortfall": 0,
       "passes_length": true,
@@ -2341,7 +2346,7 @@
     },
     {
       "chapter": 185,
-      "path": "chapters/185-apples-in-the-cold.md",
+      "path": "chapters\\185-apples-in-the-cold.md",
       "body_words": 11079,
       "shortfall": 0,
       "passes_length": true,
@@ -2352,7 +2357,7 @@
     },
     {
       "chapter": 186,
-      "path": "chapters/186-the-first-real-words.md",
+      "path": "chapters\\186-the-first-real-words.md",
       "body_words": 12840,
       "shortfall": 0,
       "passes_length": true,
@@ -2363,7 +2368,7 @@
     },
     {
       "chapter": 187,
-      "path": "chapters/187-silver-on-the-rings.md",
+      "path": "chapters\\187-silver-on-the-rings.md",
       "body_words": 10757,
       "shortfall": 0,
       "passes_length": true,
@@ -2374,7 +2379,7 @@
     },
     {
       "chapter": 188,
-      "path": "chapters/188-the-second-tuesday.md",
+      "path": "chapters\\188-the-second-tuesday.md",
       "body_words": 10800,
       "shortfall": 0,
       "passes_length": true,
@@ -2390,7 +2395,7 @@
     },
     {
       "chapter": 189,
-      "path": "chapters/189-after-the-frost.md",
+      "path": "chapters\\189-after-the-frost.md",
       "body_words": 10423,
       "shortfall": 0,
       "passes_length": true,
@@ -2401,7 +2406,7 @@
     },
     {
       "chapter": 190,
-      "path": "chapters/190-thursday-twice.md",
+      "path": "chapters\\190-thursday-twice.md",
       "body_words": 11489,
       "shortfall": 0,
       "passes_length": true,
@@ -2412,7 +2417,7 @@
     },
     {
       "chapter": 191,
-      "path": "chapters/191-two-hands-of-work.md",
+      "path": "chapters\\191-two-hands-of-work.md",
       "body_words": 10629,
       "shortfall": 0,
       "passes_length": true,
@@ -2423,7 +2428,7 @@
     },
     {
       "chapter": 192,
-      "path": "chapters/192-against-the-windows.md",
+      "path": "chapters\\192-against-the-windows.md",
       "body_words": 13082,
       "shortfall": 0,
       "passes_length": true,
@@ -2434,7 +2439,7 @@
     },
     {
       "chapter": 193,
-      "path": "chapters/193-the-heel.md",
+      "path": "chapters\\193-the-heel.md",
       "body_words": 11607,
       "shortfall": 0,
       "passes_length": true,
@@ -2446,7 +2451,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1677515,
+  "window_comparisons": 1787757,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2457,9 +2462,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 143,
-  "failing": 50,
-  "total_shortfall": 252134,
+  "passing": 169,
+  "failing": 24,
+  "total_shortfall": 148796,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }

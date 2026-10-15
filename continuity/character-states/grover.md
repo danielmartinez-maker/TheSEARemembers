@@ -108,3 +108,8 @@
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND: supervises the north-shore outing with a marked stopping line, whistle and roster; counts participants at the lower route and again on return. Calls the lower route closed as the tide rises, then permits observation only from the upper shelf. No fall or missing participant is reported.
 - **Carry-forward:** He knows the group saw an octopus from a safe distance and heard Annabeth's observations about tide zones. A further outing is only proposed pending Chiron's approval and a safe route.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: attends the supervised movie night with Juniper, jokes with Thalia, briefly comforts her during the mother-daughter film, and reassures Ella that the movie horse will be all right. Juniper rests against him; no relationship change occurs.
+- **Carry-forward:** Grover's role as Ella's friend and Thalia's close friend is reaffirmed; no new duty or injury is established.

@@ -141,3 +141,8 @@
 - **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
 - **State:** FIRSTHAND: notices Percy's jealousy at lunch, teases him, then tells him he can be happy for Clarisse and miss his usual training partner at the same time. Her Iris message to Thalia about Percy's mood is reported by Thalia later; this chapter does not show the message's exact wording. Her portrait of Percy is hung above his Cabin Three bunk.
 - **Carry-forward:** The promised color copy for Percy's future Amphitrite letter remains unmade. Silena hears no private beach account of Annabeth's prior-life jealousy and receives no autobiographical memory.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: attends the movie night, shares popcorn and a quiet hand-holding moment with Clarisse while they watch a mother-daughter story, and does not make a new romantic or family promise. Silena invites Annabeth to use the open shared bunk in Cabin Three after the supervised overnight; the stay is approved and temporary.
+- **Carry-forward:** Percy and Clarisse remain her Poseidon siblings. No new letter or gift to Amphitrite is made or sent in this chapter.

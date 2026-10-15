@@ -17,3 +17,8 @@
 - **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
 - **State:** FIRSTHAND / REPORTED: Percy reports no return of hand tingling; Will checks his grip, permits ordinary drills, and tells him to stop and report a recurrence. No diagnosis is made. Checks Thalia's right palm; the dressing is dry but the burn remains tender, so he withholds sparring clearance and plans another look the next morning.
 - **Carry-forward:** Neither symptom resolution beyond the observed chapter span nor complete healing is established.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** Rechecks Thalia's wrapped right palm; it is still tender, so he withholds sparring clearance, changes the outer wrap and repeats the warning signs. Percy reports no tingling or weakness; Will gives the existing stop-and-report instruction and no diagnosis. Will helps staff the supervised campout, confirms the marked boundary and checks the route at first bell.
+- **Carry-forward:** No new diagnosis or clearance; Thalia's right hand needs another check, and Percy's symptom remains unclassified.

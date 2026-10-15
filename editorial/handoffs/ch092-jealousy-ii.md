@@ -8,7 +8,7 @@
 - **POV:** Percy Jackson, third-person limited throughout. Others' intentions and feelings are limited to what they say or what Percy observes and infers.
 - **Locations:** Cabin Three, infirmary porch, training arena, pavilion, shore, climbing wall, dinner pavilion, campfire, Cabin Three.
 - **Participants:** Percy, Annabeth, Clarisse, Silena, Thalia, Will, Chiron, Evan and unnamed campers. Tyson is not in this chapter.
-- **Adjacent scenes:** Chapter 091's final scene is Percy's return and Will's check; Chapter 093 opens with Movie Night. Its opening refers to Camp Jupiter pictures and a Camp Jupiter T-shirt from Frank without establishing their origin or delivery here. Keep that as a continuity question; do not backfill an invented visit, letter or gift into Chapter 092.
+- **Adjacent scenes:** Chapter 092 ends after the supervised lesson and evening; Chapter 093 opens before first bell for the next day's scheduled wider-lane practice, then moves to Friday's movie night. Chapter 083 already records Percy's firsthand Camp Jupiter spring-exchange visit, including Jason's family fireworks hill and Frank's popcorn spill. In Chapter 093 he recalls that scene directly; Frank lends him a clean spare Camp Jupiter shirt at dinner and receives it back at first bell. No photo delivery from Frank is claimed.
 
 ## Four-phase record
 
@@ -54,4 +54,4 @@
 - Percy has no returning hand tingling through bedtime and no diagnosis. Will said to report a recurrence. Thalia's right palm remains wrapped/tender, she is not cleared to spar, and a next-morning check is due.
 - Tomorrow's wider-lane practice is scheduled, not completed: Chiron supervises, Clarisse leads warm-up, Evan assists the counter drill, Percy sets lines before first bell, and one younger camper may try a slow rotation.
 - The storm board and future low-tide proposal retain their pending status. Silena's color copy and Percy's future Amphitrite letter remain undone; Amphitrite has not been told the secret.
-- Chapter 093 opens with Camp Jupiter pictures and a T-shirt from Frank, but Chapter 092 does not account for their origin or receipt. Track as unresolved until a source-based explanation is witnessed or reported; don't invent one.
+- Chapter 093 completes the next-morning wider-lane practice. Percy remembers the Camp Jupiter fireworks hill from Chapter 083, not from photos sent by Frank. The shirt is an on-page one-night loan from Frank, returned at first bell; it is not a gift.

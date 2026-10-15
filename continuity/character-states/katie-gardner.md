@@ -12,3 +12,7 @@
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND: reports at the Big House that the upper strawberry rows held, the lowest strip is flattened and washed out, and the cabin path remains clear. She keeps salvaged starts under cover and waits for dry soil before repairing or replanting.
 - **Carry-forward:** No repair or replanting has yet occurred by the outing's close.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** Represents the Demeter cabin's audience choice for the emotional second movie and jokes that they expected a bear story. No new injury, promise or secret is established.

@@ -144,3 +144,8 @@
 - **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
 - **State:** FIRSTHAND: assigns Evan to assist with an advanced rotation under his direct supervision and states the rules for partner changes, practice weapons, stop calls and marked lanes. Stops the practice when Percy crosses the chalk boundary, then approves wider marks. Schedules tomorrow's session with Clarisse leading warm-up, Evan assisting the counter drill, Percy helping set the lanes, and a younger camper receiving one slow rotation.
 - **Carry-forward:** The scheduled lesson is not yet completed. Storm inspections remain pending absent a later named report.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: approves one supervised south-green overnight with a marked boundary, counselor watches, headcounts after the film and at first bell, no open flame, and the projector/cable removed before campers settle. Stops the projector test while the screen is loose, requires power-down before repair, approves the corrected path, and confirms each cabin group at dawn. He does not sign off any storm-board item in this chapter.
+- **Carry-forward:** The one-night campout is closed at first bell. No new quest or storm report is issued.

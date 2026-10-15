@@ -31,3 +31,8 @@
 - **[Ch024](../../chapters/024-the-climbing-wall.md) FIRSTHAND:** Uses maintenance logs in the wall race and chooses to jump into the canoe lake despite fear of deep water. No major injury.
 - **[Ch027](../../chapters/027-the-library.md):** Helps author/label the provisional display; corrections remain possible and she does not gain prior-life memories.
 - **[Ch034](../../chapters/034-mythomagic-tournament.md):** Keeps the black luck stone after the tournament; this is separate from Nico's Poseidon card and cap.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: attends with Tyson, is nervous about loud battle images, worries about the puppet horse, then chooses to watch the second film and cries when the mother/daughter conflict resolves. Tyson comforts her and Hazel lends her the star-patterned blanket; Ella returns it to Hazel at first bell and thanks her.
+- **Carry-forward:** Ella's quotes and concerns reflect her response to this movie night, not memories of another timeline.
