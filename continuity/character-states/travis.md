@@ -9,3 +9,7 @@
 ### Chapter 094 - witnessed / reported / unknown
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** Visits with Connor and leaves a joke card for Percy after Thalia asks them not to wake him. No private photo or further interaction is shown.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: asks whether the map includes hiding places; Annabeth leaves owners' private routes out. At the viewing he begins sketching a tunnel on separate paper and is redirected to the correction sheet. No tunnel is added to the public map.

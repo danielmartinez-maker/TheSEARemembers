@@ -46,3 +46,8 @@
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: volunteers to record the group drill, marks water and lightning separately, and relocates the tablets after Attempt Two drenches the table. She records the whistle/card rehearsal, the water arch's limits and the beacon's single strike. She asks before showing the public the route and signals; she leaves Annabeth's private sickness/dream out of the record.
 - **Carry-forward:** The red stop card came from Ella's supplies; its final location is unknown. Her observations are current-history notes, not memories of another timeline.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: checks the public cabin names, catches a spelling error and approves credit only for the roster check. She keeps her quiet sunbeam off the map. At the public viewing, she counts seven exterior Cabin Six windows and finds one missing from the displayed first edition.
+- **Carry-forward:** The window is logged for a later clean copy; Annabeth does not paint over the public sheet. Ella redirects the Stolls to the separate correction paper. No change to Ella's private places or memory knowledge is established.

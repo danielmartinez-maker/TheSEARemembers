@@ -35,3 +35,8 @@
 ### Chapter 094 - witnessed / reported / unknown
 - **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
 - **State:** Percy hears Clarisse report that she arm-wrestled Beckendorf for the good soup pot and asked him for help; she says Beckendorf told her to lower the stove. This is Clarisse's report, not a direct conversation between Beckendorf and Percy. No further Beckendorf action or relationship change is established.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: builds the oak wheeled easel and tests its removable wheel stop and clear approach with Chiron's chair. He reviews the forge approach with Annabeth; the public entrance remains, the gathering star is moved away from the vent, and the warning says to keep clear while the forge operates.
+- **Carry-forward:** The map does not show the changing forge interior. No new injury or repair to the dock is established.

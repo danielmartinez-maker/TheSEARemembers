@@ -214,6 +214,14 @@ All fourteen chapters were re-read and revised for continuity and prose, with Ch
 - Full manuscript QA on this commit found 193/193 numbered files, 170 chapters at the 10,000-word floor, 23 chapters still short by 145,183 words, and zero exact matches across 1,791,460 chapter windows. Structure audit found the index ordered 001–193. All 27 source-anchored memory regression checks pass; Chapter 014 retains one lexical introduction cue for human review.
 - These results are mechanical checks plus the scoped scene review; they do not certify semantic repetition or prose quality across the full manuscript.
 
+## Revision QA — Chapter 097 (2026-10-15)
+
+Chapter 097, [The Map](chapters/097-the-map.md), was revised from **6,862 → 10,185 body words** (+3,323 net). Chapter 096's final Cabin One scene and Chapter 098's Friday-morning opening were checked as boundaries; the later Chapter 148 map passage was also reviewed. The map is a first edition on a one-week Big House rec-room trial, with unresolved corrections kept separate.
+
+- Full manuscript QA: **193/193** numbered chapters; **173** meet 10,000 body words and **20** remain short by **135,909 words**. The chapter-only scan checked **1,801,192** every-offset 300-word windows and found **zero exact cross-chapter matches**.
+- Bonus-inclusive scan: **196 Markdown files**, **2,010,049 body words**, **1,951,744** every-offset 300-word windows, and **zero exact cross-file matches**. Structure audit found 193/193 indexed and ordered. All **30** source-anchored memory regression checks pass; one lexical introduction cue remains for human review in Chapter 014.
+- These are local mechanical checks plus a scoped scene review. They do not certify whole-novel semantic repetition, prose quality or character memory continuity. Hosted Actions are tracked on PR #103.
+
 ## Bonus interludes
 
 - [The Long Winter](bonus/the-long-winter.md)
@@ -236,7 +244,7 @@ All fourteen chapters were re-read and revised for continuity and prose, with Ch
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–096
+### Chapters 090–097
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
@@ -245,3 +253,4 @@ All fourteen chapters were re-read and revised for continuity and prose, with Ch
 - [Chapter 094 handoff](editorial/handoffs/ch094-sick-day.md)
 - [Chapter 095 handoff](editorial/handoffs/ch095-annabeth-sick.md)
 - [Chapter 096 handoff](editorial/handoffs/ch096-training-together.md)
+- [Chapter 097 handoff](editorial/handoffs/ch097-the-map.md)

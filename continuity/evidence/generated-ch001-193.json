@@ -11633,21 +11633,20 @@
       "path": "chapters/097-the-map.md",
       "title": "Chapter 97: The Map",
       "name_mentions": {
-        "Percy": 57,
-        "Annabeth": 107,
-        "Thalia": 36,
-        "Clarisse": 22,
-        "Silena": 18,
-        "Amphitrite": 6,
-        "Poseidon": 5,
-        "Jason": 1,
+        "Percy": 55,
+        "Annabeth": 147,
+        "Thalia": 38,
+        "Clarisse": 20,
+        "Silena": 12,
+        "Amphitrite": 3,
+        "Poseidon": 2,
         "Sally": 2,
-        "Chiron": 14,
-        "Grover": 16,
-        "Nico": 9,
-        "Zeus": 4,
-        "Beckendorf": 6,
-        "Ella": 38
+        "Chiron": 39,
+        "Grover": 21,
+        "Nico": 8,
+        "Zeus": 2,
+        "Beckendorf": 15,
+        "Ella": 18
       },
       "event_cues_for_manual_review": [
         {
@@ -11714,33 +11713,33 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 81,
-          "named": [
-            "Thalia"
-          ],
-          "excerpt": "By noon the whole camp knew the map was finished, because there was no keeping a secret in Cabin One when Thalia Grace was excited."
-        },
-        {
-          "line": 99,
+          "line": 85,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "\"There's a legend,\" Annabeth promised. \"Three kinds of marks. Gold stars for gathering places. Gold dots for quiet places. Blue waves for water places. And every secret spot has the name of who it belongs to and whether you need permission."
+          "excerpt": "Annabeth looked at the blank. An early draft had carried a path through that stretch, drawn from memory before she had walked the ground during her survey. She had checked the terrain and never found a route that matched. The line belonged"
         },
         {
-          "line": 185,
+          "line": 93,
           "named": [
-            "Nico"
+            "Percy"
           ],
-          "excerpt": "\"Good. Now, do you remember what you told Nico when he was scared people would laugh at his shadow corner?\""
+          "excerpt": "Percy lowered his chin onto his hands. \"You didn't erase what we remember. You just stopped the map from claiming it was here.\""
         },
         {
-          "line": 303,
+          "line": 235,
           "named": [
             "Annabeth",
-            "Ella"
+            "Silena"
           ],
-          "excerpt": "Ella came last, as Ella always did, sidling through the crowd with her wings tucked tight and her notebooks clutched to her chest. The harpy had been Annabeth's secret weapon — she remembered everything she ever read, and she had memorized"
+          "excerpt": "Silena looked over the porch swing label and asked her to remove *she will always listen*. \"I like talking with people. I don't want a map to promise them my time before I know what day I'm having.\" She suggested *shared swing; ask first*."
+        },
+        {
+          "line": 331,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "Annabeth glanced at the gray dots and thought of the marks she had left in her notebook. \"The map can't promise a place will be empty. You can ask a counselor for somewhere quiet, or look for a bench yourself. I won't put another person's p"
         }
       ],
       "event_witnesses_verified": false,

@@ -1543,7 +1543,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/097-the-map.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 107, Percy 57, Ella 38, Thalia 36, Clarisse 22, Silena 18, Grover 16, Chiron 14, Nico 9, Amphitrite 6
+- Name appearances (not proof of presence): Annabeth 147, Percy 55, Chiron 39, Thalia 38, Grover 21, Clarisse 20, Ella 18, Beckendorf 15, Silena 12, Nico 8
 - Event/action candidates to inspect in context:
   - Line 5: Annabeth Grace knew because she counted. She sat cross-legged on the floor of Cabin One with the big sheet spread out around her like a frozen lake, a ruler in one hand and a magnifying glass in the other, listening to the rain tick against
   - Line 9: "Was that it?" Thalia asked. "Done?"
@@ -1551,9 +1551,9 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 29: "It's done," Annabeth whispered. "It's actually done."
   - Line 31: Thalia studied the map, eyes wide and bright. She understood buildings the way soldiers understand ground, and she understood Annabeth the way only an older sister could. She did not touch the wettest ink. She just leaned close, her black h
 - Memory/disclosure candidates to inspect:
-  - Line 81: By noon the whole camp knew the map was finished, because there was no keeping a secret in Cabin One when Thalia Grace was excited.
-  - Line 99: "There's a legend," Annabeth promised. "Three kinds of marks. Gold stars for gathering places. Gold dots for quiet places. Blue waves for water places. And every secret spot has the name of who it belongs to and whether you need permission.
-  - Line 185: "Good. Now, do you remember what you told Nico when he was scared people would laugh at his shadow corner?"
+  - Line 85: Annabeth looked at the blank. An early draft had carried a path through that stretch, drawn from memory before she had walked the ground during her survey. She had checked the terrain and never found a route that matched. The line belonged
+  - Line 93: Percy lowered his chin onto his hands. "You didn't erase what we remember. You just stopped the map from claiming it was here."
+  - Line 235: Silena looked over the porch swing label and asked her to remove *she will always listen*. "I like talking with people. I don't want a map to promise them my time before I know what day I'm having." She suggested *shared swing; ask first*.
 
 ## 098: Chapter 98: Fathers' Day (Gods)
 

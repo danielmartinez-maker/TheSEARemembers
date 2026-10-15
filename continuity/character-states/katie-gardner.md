@@ -21,3 +21,7 @@
 - **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
 - **State:** Katie brings Annabeth's bag after it is requested so the north-trail sketch can be sent to Chiron. The delivery is off-screen; no additional health information or dream details are shown as reaching her.
 - **Carry-forward:** Do not infer that Katie witnessed Annabeth's illness or knows more than the general fact she was sick.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: checks the strawberry-row route against the ground and suggests a second line around a wet furrow. Annabeth records the suggestion for a later field check; it is not part of the verified first edition.

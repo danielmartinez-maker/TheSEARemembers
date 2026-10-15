@@ -25,3 +25,6 @@
 ### Chapter 22 · verified carry-forward
 - **[Ch22](../../chapters/022-storm-training.md):** Percy's electric shock not diagnosed as injury and no Lee visit occurs; refrain from inventing treatment.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** His chimes are included in Annabeth's map. The chapter attributes their tuning to Lee's earlier information; no additional promise, visit or private fact is established here.

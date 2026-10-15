@@ -128,3 +128,8 @@
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: acts as timer and caller for the joint water/strike practice, records each attempt and helps test the calls. The surf masks part of his whistle; a red card and clear sightlines become a backup stop signal. He witnesses the water-only and mixed exercises, then the supervised beacon test. He does not record Annabeth's private illness details.
 - **Knowledge / carry-forward:** Chapter 095 does not confirm he saw the Iris-message. In Chapter 096 he hears Annabeth say publicly that she had been sick and that Will cleared the short exercise. Her dream and illness cause remain unknown to him; no reply to the Iris-message is recorded.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: checks the shrine-meadow edge with Annabeth and identifies a deer track through soft ground, not a public route. He asks that the map omit exact plant locations and names; the protected line is moved back. He agrees that a future satyr conversation can happen from the public path, but no guided walk or entry is promised.
+- **Carry-forward:** The ground inside the boundary remains protected. Percy and Annabeth disclose no erased-life memories to him.

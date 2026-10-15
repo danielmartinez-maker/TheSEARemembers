@@ -29,3 +29,7 @@
 ### Chapter 093 - witnessed / reported / unknown
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** Allows the film gathering only under camp rules, insisting on no monsters, quests or fire. Chiron gives the specific one-night supervised-campout plan; Mr. D does not waive its marked boundary or equipment conditions. No new relationship or promise is established.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: attends the optional public map viewing, helps lift the cover and offers a wide group/map photograph without close-ups of notes. The approved image is not shown as sent.

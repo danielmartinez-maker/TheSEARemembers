@@ -118,4 +118,9 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 ## Chapter 096 continuation
 
 - [Chapter 096 handoff](../../editorial/handoffs/ch096-training-together.md) and [structured continuity](../ch096.yaml) add scoped entries for Percy, Annabeth, Thalia, Clarisse, Silena, Chiron, Grover, Ella and Will. These track the fever clearance, unconfirmed Iris-message receipt, separate water/lightning protocol, public privacy boundary, beacon outcome and next-map handoff.
-- **Coverage limit:** Chapter 096 is a source-scoped update. Chapters 037–089 and 097–193 remain outside these cumulative memory entries; this is not continuous whole-manuscript coverage.
+- **Coverage limit:** Chapter 096 was a source-scoped update. Chapter 097 now has a separate scoped entry; Chapters 037–089 and 098–193 remain outside these cumulative memory entries, so this is not continuous whole-manuscript coverage.
+
+## Chapter 097 continuation
+
+- [Chapter 097 handoff](../../editorial/handoffs/ch097-the-map.md) and [structured continuity record](../ch097.yaml) add scoped entries for 18 characters who participate in or send an item to the map viewing. They track the old-life memory boundary, the approved map markings, Thalia's un-rechecked palm, the north-trail closure, the dock hazard, the one-week trial and the photo that is approved but not shown as sent.
+- **Coverage limit:** Chapter 097 is a source-scoped update. Chapters 037–089 and 098–193 still require scene-by-scene memory entries; this does not certify an unbroken memory graph.

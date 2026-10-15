@@ -170,3 +170,9 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: sends the limited message Annabeth approves for Grover and then chooses the left hand for a small practice spark. Her wrapped right palm remains tender, unfit for bracing or sparring; she watches the next-day beacon strike instead. She escorts Annabeth to Cabin One only after Annabeth agrees, then returns to Percy and the Poseidon-cabin porch.
 - **Relationship / carry-forward:** Thalia and Annabeth remain biological sisters. Thalia supports Annabeth's privacy and map time without deciding for her. She advises Percy to keep listening when Annabeth stops; she receives no autobiographical memory of Percy's or Annabeth's old life. The possible letter to their mother is not written or sent.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: supports Annabeth's map and chooses to omit her private roof spot while approving her name in the credits. The ladder is marked restricted. She uses her left arm/hand for the map display and does not lift the easel.
+- **Injury / relationship:** Chapter 097 does not recheck or clear her right-palm injury. Preserve the last confirmed Chapter 096 status: wrapped and tender, not cleared for sparring or bracing. She and Annabeth remain Zeus/Grace biological sisters. Thalia receives no autobiographical old-life memory from Annabeth or Percy.
+- **Carry-forward:** The first edition is on trial in the Big House rec room; no change to Thalia's household, age or injury status is established.

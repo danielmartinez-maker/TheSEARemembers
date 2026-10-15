@@ -54,3 +54,8 @@
 ### Chapter 093 - witnessed / reported / unknown
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: arrives with Kayla, watches the first film quietly, gradually relaxes, accepts Sour Patch Kids from Will, and falls asleep beside Kayla during the later part of the gathering. Will covers them with his own jacket. No new secret or relationship label is established.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: approves Bianca's name and stars in the small shrine inset. He rejects the path and any marker that could turn the niche into a destination; he may choose to show someone himself. Annabeth keeps the mark small as requested.
+- **Carry-forward:** The map does not invite tours to the niche. Nico's memories and grief remain his; no autobiographical memory is transferred or claimed by another character.

@@ -235,6 +235,18 @@ CHECKS = {
                    "Only after the sisters were out of earshot",
                    "The morning after Annabeth's fever breaks"),
     },
+    "chapters/097-the-map.md": {
+        "present": ("You didn't erase what we remember. You just stopped the map from claiming it was here.",
+                    "third board flexes; do not step on it until repaired",
+                    "Forge entrance; keep clear of vent while forge is operating.",
+                    "The door is public. What happens inside can change, and it isn't for the map.",
+                    "Wide shot only"),
+        "absent": ("Percy's thinking rock",
+                   "Best at sunrise. Ask Percy before bringing friends.",
+                   "third board flexed and should be stepped over until it was repaired",
+                   "the north trail is open",
+                   "Amphitrite knows the time rewrite"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

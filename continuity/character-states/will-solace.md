@@ -37,3 +37,8 @@
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: after the required fever-free interval, clears Annabeth for gentle training. The next morning he checks that she has no dizziness or symptoms after an ordinary walk and authorizes one brief, low-power exercise with stop-on-fatigue/returning-symptom conditions. He remains with Chiron at the viewing line. He rechecks Thalia's wrapped palm as dry but still tender and gives no bracing or sparring clearance.
 - **Carry-forward:** No illness cause or link to Percy's earlier cold is established. Annabeth's successful short exercise does not imply unrestricted training or a new medical diagnosis.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: reviews the infirmary marking. He approves the public entrance and asks Annabeth to remove the breeze note by a window so the map does not direct people to wait or look in where patients may be treated. Annabeth removes it from the clean proof before the public unveiling.
+- **Carry-forward:** Will performs no examination or diagnosis in Chapter 097; do not infer a health update for Percy, Annabeth or Thalia.

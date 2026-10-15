@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 193 chapters and two bonus interludes into individual Markdown files, preserving the original manuscript text. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 193 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -19,12 +19,12 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Character-memory audit](editorial/audits/CHARACTER-MEMORY-2026-10-13.md): targeted confirmed repairs, with explicit limits on what has been reviewed.
 - [Character-memory regression check](scripts/check_character_memory.py): tests source-anchored relationship facts and lists possible first-introduction dialogue for manual review; also runs in GitHub Actions.
 
-## Coordinated 193-chapter audit (October 13, 2026)
+## Coordinated 193-chapter audit (local candidate, October 15, 2026)
 
 - [Evidence-backed four-phase execution record](editorial/audits/FOUR-PHASE-EXECUTION-2026-10-13.md): what passed, what was revised and what remains incomplete.
 - [Per-chapter machine-generated continuity cue index](continuity/evidence/generated-ch001-193.md): 193 chapter locators; witnesses, relationships and secret knowledge explicitly **unverified** until human scene review.
-- [Full-manuscript QA report](editorial/audits/generated-full-qa.md) and [structured data](editorial/audits/generated-full-qa.json): latest verified CI recount **143/193** length-passing, **50 short**, **252,134** body words missing; **1,677,515** consecutive 300-word windows with zero exact cross-chapter matches. **16/16** character-memory regressions. [Passing run](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38511481429).
-- [Expansion handoff queue](editorial/handoffs/55-short-chapters-execution-queue.md): originally 55 short chapters, **50** still short. Chapters [066](chapters/066-jason-s-letter.md), [067](chapters/067-fishing.md), [068](chapters/068-the-storm-small.md), [132](chapters/132-a-month-beneath-the-sea.md) and [133](chapters/133-annabeth-s-birthday.md) now meet the 10k body-word threshold, with [per-chapter continuity handoffs](continuity/) and outstanding independent literary review.
+- [Full-manuscript QA report](editorial/audits/generated-full-qa.md) and [structured data](editorial/audits/generated-full-qa.json): this local candidate, based on published PR head 88355d5edcbf525ffb2718ef535d6fc302c497f1, has **193/193** ordered chapters, **173** at or above 10,000 body words, **20 short**, and **135,909** words remaining. It checked **1,801,192** every-offset chapter windows with zero exact cross-chapter matches. The bonus-inclusive check covered **196 files** and **1,951,744 windows**, also with zero matches. **30** source-anchored memory regressions pass. GitHub Actions passed on the published base head; hosted verification of this Ch097 candidate is pending publication. These mechanical checks do not certify every scene's continuity or prose quality.
+- [Expansion handoff queue](editorial/handoffs/55-short-chapters-execution-queue.md): originally 55 short chapters, **20** remain below the floor. Chapters [095](chapters/095-annabeth-sick.md), [096](chapters/096-training-together.md) and [097](chapters/097-the-map.md) now pass the 10k body-word threshold with scoped handoffs and continuity records. Independent whole-novel literary and semantic review remains open.
 - [Auditing scripts](scripts/full_manuscript_qa.py) and [CI workflow](.github/workflows/full-manuscript-audit.yml). Mechanical QA does not certify every scene's continuity or prose quality.
 
 ## Editorial audit progress
@@ -35,4 +35,4 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Chapters 27–66 batch overview](editorial/audits/BATCH-027-066.md): 40 individual source-referenced audits and GitHub revision issues
 - [Chapters 67–193 batch overview](editorial/audits/BATCH-067-193.md): all 127 chapter screenings, exact-duplication results and [priority backlog issue #97](https://github.com/danielmartinez-maker/TheSEARemembers/issues/97)
 
-Audits document proposed fixes. The chapter prose remains unchanged until edits are separately made and reviewed.
+Audit records distinguish completed scoped revisions from proposed fixes and screenings. Whole-novel scene review, semantic repetition review and independent literary signoff remain incomplete.

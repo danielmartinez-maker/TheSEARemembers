@@ -164,3 +164,8 @@
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: takes the outer boundary in the joint beach drill, misses a whistle under the surf, and helps move the stop signal into clear view. She names her own mistaken adjustment after Attempt Two, waits for the revised call, and helps mark a return lane away from the camp trail. The Poseidon-sibling team later holds the arch within its boundary; no injury is established.
 - **Carry-forward:** Clarisse and Silena remain Percy’s Poseidon half-sisters. She accepts Annabeth's stop calls and remains part of the supervised beacon team; the north-trail brace inspection from Chapter 095 is still unresolved.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: checks the arena and approves an open-practice note without a fixed hour; visitors should ask her or the counselor before joining. She asks Annabeth to remove “no excuses” so the map does not create an inflexible commitment.
+- **Family / carry-forward:** Clarisse is explicitly a daughter of Poseidon and remains Percy's and Silena's half-sister. No new injury or training outcome is established. The north trail remains closed pending its brace inspection.

@@ -164,3 +164,8 @@
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: supervises the five-demigod training proposal and keeps water shaping separate from an open-air strike. After a missed whistle and a wind-driven boundary failure, he reviews the visible stop card, station sightlines and return lane. He walks the camp-trail route and leaves the beacon dark until the next day. At the supervised final exercise, he keeps the crowd beyond the lane and watches the separate strike light the beacon.
 - **Carry-forward:** The safety protocol belongs to supervised training; it is not permission for unsupervised use. The north-trail brace inspection from Chapter 095 remains unreported.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: tests a Big House-to-pavilion route in his wheelchair. A line through the cabins fails at a rut that would require someone to lift his chair; the longer route by the Big House ramp is tested and marked with a day-specific note. This is one chair's test, not a universal accessibility certification.
+- **Map / carry-forward:** He keeps the north trail closed pending its brace inspection, explains the closure to the younger camper, and helps set a one-week rec-room trial. A large-print legend and upper-label list are provided, but some small map notes still need a reader. The planned user-feedback review is not complete.

@@ -100,3 +100,8 @@
 - **[Chapter 030](../../chapters/030-amphitrite-visits.md) FIRSTHAND:** Visits Camp Half-Blood for lunch, meets Percy's friends, sees him helping younger campers and gives him a blanket. She understands he is adjusting to life at camp.
 - **PROPOSAL / PENDING AT CH030:** Offers a letter each fortnight when the route is open and a monthly Iris-message when both ends can arrange it; Chiron is to ask Percy whether he wants the schedule. No acceptance is shown in this chapter.
 - **UNKNOWN / NOT DISCLOSED:** She is not told that Percy's memories of Atlantis are missing, that history changed, or that he remembers another life. The revised conversation no longer attributes that knowledge to her. The later status of the contact plan is recorded in Ch032.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** OFFSTAGE: sends six blue cookies and a note for Annabeth. Percy reports that he previously told her only that the map was nearly done. The recipe is the camp version he shared with her, adapted for the Atlantis kitchen; it is not Sally's exact recipe.
+- **Knowledge / carry-forward:** Percy and Annabeth approve a wide photo of the map and people for Amphitrite, with no close-ups of notes. No photo is shown as sent or received. Amphitrite remains unaware of the erased timeline and Percy's private memory gap.

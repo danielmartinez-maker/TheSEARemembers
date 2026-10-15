@@ -162,3 +162,8 @@
 - **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
 - **State:** FIRSTHAND: tells Percy what Thalia said she sent to Grover; the Iris-message's receipt is not shown. During training, Silena controls the lower water curve, recognizes when laughter disrupted her hold, and later asks for a separate rhythm from Clarisse. She helps check the route to the sea and makes room to step clear. At dinner she keeps the group's record and Annabeth's privacy in view.
 - **Carry-forward:** Silena remains Percy's Poseidon sister and Clarisse's sister; no new gift or relationship change is established. The beacon stays lit, and the trail inspection from Chapter 095 remains pending.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: helps with the optional map viewing and chooses the public label “shared swing; ask first,” replacing a promise that she will always listen. She does not want the map to place her time at public disposal.
+- **Family / carry-forward:** Silena remains Clarisse's and Percy's Poseidon half-sister. Amphitrite's blue cookies are served at the viewing; no new message or gift from Silena is shown.
