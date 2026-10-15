@@ -145,6 +145,14 @@ CHECKS = {
                    "Clarisse with a crab on her palm",
                    "We are not—"),
     },
+    "chapters/092-jealousy-ii.md": {
+        "present": ("Nobody had stopped him from joining; the decision was his.",
+                    "Clarisse can tell him no.",
+                    "shared her bread with him when his own burned.",
+                    "Tomorrow's practice will use the wider marks."),
+        "absent": ("By lunch, Evan and Clarisse were inseparable.",
+                   "Evan clapped Clarisse on the shoulder, hard enough to rock her forward"),
+    },
     "chapters/086-the-summons-to-atlantis.md": {
         "present": ("haven't softened since you tried to knock me", "I still like her"),
         "absent": ("You must be Clarisse", "you must be the sweet one"),

@@ -4,7 +4,30 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 091 (2026-10-14 candidate checkpoint)
+## Latest current-branch continuation: Chapter 092 (2026-10-14 candidate checkpoint)
+
+**Branch base:** The candidate tree is built on the live PR head `a89b15a13e4a1e012de37fb35816c3a326262f42`. Local checks below are exact-source results; see PR #103's run history for Actions on the published commit.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **168** |
+| Below 10,000 actual body words | **25** |
+| Required additional body words to clear minimum | **152,589** |
+| Chapter-only every-offset 300-word windows | **1,783,850; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 1,934,402 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **25 passed** |
+
+**Chapter 092, *Jealousy II*:** **6,375 → 10,062 body words** (+3,687 net). The morning carries forward Will's symptom/burn checks and unresolved storm tasks; Clarisse chooses a supervised lesson with Evan, Percy names his missed sibling routine without making a safety accusation, then joins the drill, accepts correction and helps widen the lane. Thalia stays within her palm-burn restriction and hands off the climbing-wall station. See the [Chapter 092 handoff](handoffs/ch092-jealousy-ii.md) and [structured continuity record](../continuity/ch092.yaml).
+
+- **Phase 1:** Added a source-anchored Chapter 092 handoff and cumulative events for Percy, Annabeth, Clarisse, Thalia, Silena, Will, Chiron and Evan; added the structured continuity record and source-anchored regression guard. Chapters 037–089 remain a disclosed memory-coverage gap.
+- **Phase 2:** Replaced the unsupported Camp Jupiter/friend story in Thalia's retelling with the shared Iris relay and approved visit; restored Jason's exact Chapter 019 bread detail; preserved the established Percabeth relationship, siblings, injury limits and reported-memory boundaries. Evan is an instructor under Chiron, not a romantic rival.
+- **Phase 3:** Rebuilt the chapter around a complete, consequential training day: Percy withdraws, identifies why, asks directly, re-enters, crosses a boundary, stops and helps fix the lane; Clarisse remains free to lead and learn. Percy hangs Silena's portrait while Annabeth's shell/watercolor and Silena's letter-copy promise keep their recorded status.
+- **Phase 4:** Local exact-source checks pass: 193/193 ordered, 168 pass / 25 short, 152,589 mandatory words remaining; 1,783,850 chapter-only and 1,934,402 bonus-inclusive every-offset 300-word windows with zero exact matches; 25 anchored memory groups. This does not establish full novel semantic or literary certification. GitHub Actions for the published commit are tracked separately on PR #103.
+
+**Next chronological underlength chapter:** [093 Movie Night](../chapters/093-movie-night.md), at **6,207** words, needs **3,793** meaningful body words. Read Chapter 092's closing plan and Chapter 093's opening; its Camp Jupiter photos and Frank T-shirt do not have an established origin in Chapter 092, so track the provenance without inventing a visit, letter or gift.
+
+## Superseded checkpoint: Chapter 091 (2026-10-14)
 
 **Branch base:** The candidate tree is built on remote commit `4c592e0fdd04e66a13485e44f60b4e46d8fcfaf1`. The figures below are exact-source local checks on that tree; GitHub Actions results for the published commit are tracked separately in PR #103.
 

@@ -145,3 +145,8 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND: joins Annabeth at the noon picnic and walks the upper shore with the group. Keeps her wrapped right palm dry while testing the shallows with her left foot. Will changes the outer wrap after the outing and requires a morning look before sparring; recovery is not yet established.
 - **Knowledge / carry-forward:** Hears Percy recount blue-food memories of Sally and hears Annabeth describe Frederick from the life Percy and Annabeth remember. These are reports, not Thalia's memories. She remains Annabeth's Zeus sister and Percy/Annabeth's supportive friend; their romance is teased as established.
+
+### Chapter 092 · witnessed / reported / unknown
+- **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
+- **State:** Will finds her right-palm dressing dry but the burn tender and withholds sparring clearance. She supervises the wall with her left hand, follows the flag/valve protocol, transfers the station to another counselor and keeps the wrap dry; later she watches practice from behind the rope without a weapon. She retells to Percy and Annabeth her firsthand memories of the Jason Iris relay and his approved visit at ten, including his report that Reyna shared her bread when his own burned. She reports that Silena Iris-messaged her about Percy's mood; she did not witness his lunch.
+- **Carry-forward:** Will's next-morning check is still due. Her memories of toddler Jason remain hers, not Percy's or Annabeth's. No recovery or sparring clearance is established.

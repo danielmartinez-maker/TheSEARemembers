@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Status at this commit:** Chapters 001–022 have source-linked character-memory and handoff records for all six core characters and supporting characters with source-verified knowledge. Chapters 013–022 now have ten new handoffs, recorded communication status, gifts, injuries, obligations and disclosures. These are targeted substantive prose/continuity passes, not exhaustive sentence-by-sentence certification; Chapters 023–193 still require incremental migration and full literary review.
+**Coverage status:** The index contains the foundational Chapter 001–022 records, source-verified additions for Chapters 023–036, and scoped event updates for Chapters 090–092. Chapters 037–089 and 093–193 remain unaudited in these cumulative files; this selective coverage is not an unbroken character-memory certification or full literary review.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -19,6 +19,12 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Chiron](./chiron.md)
 - [Clarisse](./clarisse.md)
 - [Silena](./silena.md)
+
+## Supporting character event files
+- [Will Solace](./will-solace.md) — scoped updates in Chapters 090 and 092
+- [Malcolm](./malcolm.md) — Chapter 090
+- [Katie Gardner](./katie-gardner.md) — Chapter 090
+- [Evan](./evan.md) — Chapter 092
 
 **Chapter 001 → 002 boundary:** Percy sleeps in Cabin Three, has only met Clarisse by name; Silena is introduced at breakfast in 002. Annabeth stays in Zeus's Cabin One and may use the Athena cabin's worktables. Percy and Annabeth retain their relationship and privately plan a source-separated list. Grover, Thalia, Chiron, Clarisse, Amphitrite, Poseidon and Triton do **not** know the time secret.
 
@@ -79,10 +85,13 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 ## Chapter 090 continuation
 
 - [Chapter 090 handoff](../../editorial/handoffs/ch090-storm-and-sea.md): Percy-limited storm response; separates reported from witnessed events, tracks the corrected signal chain, injuries, freshwater inspections, and next-chapter obligations.
-- New scoped supporting-character event files: [Will Solace](will-solace.md), [Malcolm](malcolm.md), and [Katie Gardner](katie-gardner.md) (Chapter 090 only).
+- New scoped supporting-character event files: [Will Solace](will-solace.md), [Malcolm](malcolm.md), and [Katie Gardner](katie-gardner.md) (Chapter 090); [Evan](evan.md) (Chapter 092).
 - **Coverage limit:** The new Chapter 090 entries are a scoped event update. Chapters 037–089 remain unaudited in the per-character cumulative files; this append does not certify an unbroken memory record for those chapters.
 - **Ch090→Ch091 boundary:** Chapter 091 opens at 7 AM with a 9 AM north-border tide-pool outing and does not mention the storm. The lake/ward/anchor/field checks are pending at Ch090's close; Chapter 091 must account for who completes them before departure or record the unresolved continuity gap.
 
 
 - [Chapter 091 handoff](../../editorial/handoffs/ch091-tide-pools.md): preserves witnessed vs. reported memory, the Percy/Annabeth relationship, gifts, storm-check status, and Grover's supervision.
 - **Ch091→Ch092 boundary:** Keep the shell, two sketches, unmade Amphitrite copy, Percy/Thalia check-ins with Will, and the conditional next-low-tide plan in their recorded status. This remains a scoped addition; prior 037–089 coverage is still incomplete.
+
+- [Chapter 092 handoff](../../editorial/handoffs/ch092-jealousy-ii.md): records Percy's jealousy and sibling repair, Evan's supervised mentor role, aftercare, gifts and knowledge boundaries.
+- **Ch092→Ch093 boundary:** Percy and Annabeth remain established partners; Percy has no tingling at Ch092's close, Thalia's palm remains tender and uncleared, and tomorrow's supervised lesson is only scheduled. Ch093's Camp Jupiter photos/T-shirt from Frank have no origin established in Ch092; do not invent a transfer or visit.

@@ -12,3 +12,8 @@
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND: checks Percy's grip before the outing and after the return. Percy reports no renewed tingling; no diagnosis is made. Changes the outer dressing on Thalia's superficial right-palm burn; the dressing remained dry, but he still requires a morning examination before sparring.
 - **Carry-forward:** The symptom check is not a diagnosis, and Thalia's burn is not documented as healed.
+
+### Chapter 092 · witnessed / reported / unknown
+- **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
+- **State:** FIRSTHAND / REPORTED: Percy reports no return of hand tingling; Will checks his grip, permits ordinary drills, and tells him to stop and report a recurrence. No diagnosis is made. Checks Thalia's right palm; the dressing is dry but the burn remains tender, so he withholds sparring clearance and plans another look the next morning.
+- **Carry-forward:** Neither symptom resolution beyond the observed chapter span nor complete healing is established.

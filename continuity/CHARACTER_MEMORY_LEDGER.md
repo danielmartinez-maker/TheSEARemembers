@@ -150,3 +150,16 @@ The [Chapter 090 handoff](../editorial/handoffs/ch090-storm-and-sea.md) and appe
 - **Aftercare / unknowns:** Percy pauses when his hands tingle and reports the symptom to Will; no diagnosis is established. An unnamed camper's ankle is sprained; Clarisse has a shin bruise; Travis's umbrella impact is not diagnosed. The canoe lake, soft shore anchor, outer ward, lower strawberry strip, and revised flags need daylight inspection or a calmer rehearsal. The hill ward is reported at 90%, no breach is confirmed, and storm cause/intent remain unknown.
 
 **Boundary Ch090→Ch091:** Chapter 091 opens at 7 AM with an approved 9 AM sibling outing and does not reference the storm. Do not treat pending inspections as completed unless the next chapter accounts for them.
+
+
+### Scoped source-verified addition: Chapter 092 (2026-10-14)
+
+The [Chapter 092 handoff](../editorial/handoffs/ch092-jealousy-ii.md), [structured record](ch092.yaml) and append-only [character-state entries](character-states/README.md) track the jealousy arc and carry-forward without claiming an unbroken review of Chapters 037–089.
+
+- **Percy / Clarisse:** Clarisse chooses Evan's supervised advanced lesson, leads younger campers and corrects the counter drill. Percy admits that he misses their two-tap routine and worries about his place as her newer brother. He joins the afternoon lesson, crosses a chalk boundary while rushing, stops at Chiron's signal, takes responsibility and helps widen the lanes. Clarisse confirms both the lesson and sibling ritual can continue; tomorrow's warm-up and wider-lane practice are scheduled, not completed.
+- **Percy / Annabeth:** They remain an established couple. On the beach, Annabeth privately reports her prior-life jealousy of Percy's closeness with Tyson. Percy is the only listener; no memory transfers. The empty scallop shell stays in her pocket and her watercolor stays wrapped in her tote.
+- **Thalia / Jason:** Thalia retells her firsthand toddler memories and the shared Iris relay/approved supervised visit. The Reyna bread detail follows Jason's words in Chapter 019. Percy remembers the relay, not Thalia's childhood. Thalia's right-palm burn remains tender and wrapped; Will withholds sparring clearance and needs to recheck it.
+- **Medical / camp statuses:** Will hears no recurrence of Percy's tingling, finds his grip even and makes no diagnosis. Storm-board items remain pending. Silena's portrait is now hung above Percy's bunk; her color copy for a future Amphitrite letter remains unmade, the letter unsent, and Amphitrite unaware of the secret.
+- **Chapter 093 unresolved cue:** Ch093 opens with Camp Jupiter photos and a Camp Jupiter T-shirt from Frank; their source and receipt are not shown in Ch092. This handoff flags the gap without supplying an invented explanation.
+
+**Coverage limit:** Chapter 092 is a scoped source-verified addition. It does not complete the intervening Chapters 037–089 or certify the novel's full character-memory continuity.

@@ -139,3 +139,8 @@
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND / REPORTED: authorizes Percy, Clarisse and Silena's supervised north-shore outing after morning status checks; assigns Grover to remain with them and gives return/tide boundaries. He receives Grover's all-returned count. At morning briefing, the lake is fresh but silted, canoes remain closed, the lower strawberry strip needs dry ground before repair, the rescue anchor remains out of service, ward work is active and crosswind flag testing remains pending.
 - **Carry-forward:** Does not mark any storm inspection fully resolved in this chapter. Future tide-pool trips require renewed route and timing approval.
+
+### Chapter 092 · witnessed / reported / unknown
+- **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
+- **State:** FIRSTHAND: assigns Evan to assist with an advanced rotation under his direct supervision and states the rules for partner changes, practice weapons, stop calls and marked lanes. Stops the practice when Percy crosses the chalk boundary, then approves wider marks. Schedules tomorrow's session with Clarisse leading warm-up, Evan assisting the counter drill, Percy helping set the lanes, and a younger camper receiving one slow rotation.
+- **Carry-forward:** The scheduled lesson is not yet completed. Storm inspections remain pending absent a later named report.

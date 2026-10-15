@@ -136,3 +136,8 @@
 - **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
 - **State:** FIRSTHAND: paints and sketches the excursion, gives Percy a portrait for his cabin wall and gives Annabeth a watercolor of herself. She promises to make a color copy of the group sketch for Percy to include in a future letter to Amphitrite; the copy and mailing are not done. Keeps paint and pages above the wash and does not handle intertidal animals.
 - **Knowledge / carry-forward:** Hears Percy's bounded Sally/blue-food story and Annabeth's account of Frederick; neither report grants Silena original-life memories. The Poseidon outing ends with all attendees returned and counted. The next-low-tide plan is conditional, not booked.
+
+### Chapter 092 · witnessed / reported / unknown
+- **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
+- **State:** FIRSTHAND: notices Percy's jealousy at lunch, teases him, then tells him he can be happy for Clarisse and miss his usual training partner at the same time. Her Iris message to Thalia about Percy's mood is reported by Thalia later; this chapter does not show the message's exact wording. Her portrait of Percy is hung above his Cabin Three bunk.
+- **Carry-forward:** The promised color copy for Percy's future Amphitrite letter remains unmade. Silena hears no private beach account of Annabeth's prior-life jealousy and receives no autobiographical memory.
