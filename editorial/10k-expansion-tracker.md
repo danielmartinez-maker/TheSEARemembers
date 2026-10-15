@@ -6,7 +6,7 @@
 
 ## Latest current-branch continuation: Chapter 097 (2026-10-15 candidate checkpoint)
 
-**Branch base:** This local candidate began at verified PR head `88355d5edcbf525ffb2718ef535d6fc302c497f1`. Hosted Actions for the next published commit are tracked separately in PR #103.
+**Source revision:** Chapter 097 is published in PR commit 577ec2a3e93ad2b960d5688e44381ebf77c3e0e9, based on previously verified head 88355d5edcbf525ffb2718ef535d6fc302c497f1. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790).
 
 | Scope | Candidate-tree result |
 |---|---:|
@@ -26,7 +26,7 @@
 - **Phase 1:** Added Chapter 097 handoff, structured continuity record and witnessed/reported/unknown state updates for 18 named participants and the offstage sender. Adjacent boundaries preserve the beacon, Thalia's last-known palm restriction, the pending north-trail inspection, and the distinction between Chiron's exercise map and Annabeth's survey.
 - **Phase 2:** Keeps old-life map memories exclusive; preserves Poseidon and Zeus/Grace sibling relationships; removes private routines; corrects the dock instruction; keeps the north trail closed; does not imply a repair, health clearance, photo delivery or new route inspection.
 - **Phase 3:** Chapter 097 reaches **10,185** words with consequential field checks, consent choices, the legend usability test and a first-edition trial rather than repeated praise or padding. Scene-level continuity review covers Chapter 097 and the Chapter 096/098 boundaries, plus the Chapter 148 map callback.
-- **Phase 4:** Local checks pass on this candidate: 193/193 ordered; 173 pass / 20 short; 135,909 words remain; 1,801,192 chapter-only and 1,951,744 bonus-inclusive every-offset 300-word windows found zero exact matches; all 30 source-anchored memory checks pass; the five QA scripts compile; the evidence index rebuilds for 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency. Hosted GitHub Actions are pending publication.
+- **Phase 4:** Local checks pass on this candidate: 193/193 ordered; 173 pass / 20 short; 135,909 words remain; 1,801,192 chapter-only and 1,951,744 bonus-inclusive every-offset 300-word windows found zero exact matches; all 30 source-anchored memory checks pass; the five QA scripts compile; the evidence index rebuilds for 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency. Hosted GitHub Actions pass on commit 577ec2a: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606), [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790).
 
 **Next chronological underlength chapter:** [098 Fathers' Day (Gods)](../chapters/098-fathers-day-gods.md), **6,261 body words**, needs **3,739**. Chapter 097 ends with the first map edition in a one-week rec-room trial; the north trail and third dock board remain unresolved. Preserve the approval boundary for the photo to Amphitrite and do not imply it has been sent.
 

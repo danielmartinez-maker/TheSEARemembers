@@ -1,6 +1,6 @@
 # Expansion handoff queue: original 55, now 20 still short
 
-**Exact-source local candidate QA, based on remote PR head 88355d5edcbf525ffb2718ef535d6fc302c497f1:** 193 numbered files; 173 length-pass, 20 short, and 135,909 body words remain to the floor. Full-manuscript audit: 1,801,192 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 2,010,049 body words and 1,951,744 windows, zero exact matches. All 30 source-anchored memory regression checks pass. GitHub Actions passed on the published base commit; Ch097 candidate still needs hosted verification. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Exact-source QA on PR commit 577ec2a3e93ad2b960d5688e44381ebf77c3e0e9:** 193 numbered files; 173 length-pass, 20 short, and 135,909 body words remain to the floor. Full-manuscript audit: 1,801,192 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 2,010,049 body words and 1,951,744 windows, zero exact matches. All 30 source-anchored memory regression checks pass. GitHub Actions passed: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
 **Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified candidate shortfall: **135,909 words** across **20** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
@@ -54,7 +54,7 @@
 | [094](../../chapters/094-sick-day.md) | Sick Day | 10,032 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
 | [095](../../chapters/095-annabeth-sick.md) | Annabeth Sick | 10,129 | 0 | **FOUR PHASES COMPLETE; local QA PASS; hosted Actions pending** |
 | [096](../../chapters/096-training-together.md) | Training Together | 10,144 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
-| [097](../../chapters/097-the-map.md) | The Map | 10,185 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
+| [097](../../chapters/097-the-map.md) | The Map | 10,185 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
 | [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 6,261 | 3,739 | **NOT STARTED** |
 | [099](../../chapters/099-mothers.md) | Mothers | 5,884 | 4,116 | **NOT STARTED** |
 | [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 6,707 | 3,293 | **TARGETED PRIVACY/CANON CORRECTION; full four-phase revision still pending** |

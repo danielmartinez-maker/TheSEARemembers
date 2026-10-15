@@ -220,7 +220,7 @@ Chapter 097, [The Map](chapters/097-the-map.md), was revised from **6,862 → 10
 
 - Full manuscript QA: **193/193** numbered chapters; **173** meet 10,000 body words and **20** remain short by **135,909 words**. The chapter-only scan checked **1,801,192** every-offset 300-word windows and found **zero exact cross-chapter matches**.
 - Bonus-inclusive scan: **196 Markdown files**, **2,010,049 body words**, **1,951,744** every-offset 300-word windows, and **zero exact cross-file matches**. Structure audit found 193/193 indexed and ordered. All **30** source-anchored memory regression checks pass; one lexical introduction cue remains for human review in Chapter 014.
-- These are local mechanical checks plus a scoped scene review. They do not certify whole-novel semantic repetition, prose quality or character memory continuity. Hosted Actions are tracked on PR #103.
+- These are mechanical checks plus a scoped scene review. Both hosted workflows pass on Chapter 097 commit 577ec2a: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606), [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). They do not certify whole-novel semantic repetition, prose quality or character memory continuity.
 
 ## Bonus interludes
 

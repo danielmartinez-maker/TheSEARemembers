@@ -1,6 +1,6 @@
 # Chapter 097 editorial and continuity review: The Map
 
-**Source:** [Chapter 097](../../chapters/097-the-map.md). **Body words:** 10,185, counted after excluding headings and dividers. **Status:** Scoped four-phase revision complete; local QA passes; hosted Actions for this candidate are pending publication.
+**Source:** [Chapter 097](../../chapters/097-the-map.md). **Body words:** 10,185, counted after excluding headings and dividers. **Status:** Scoped four-phase revision complete; local QA passes; both hosted workflows pass on commit [577ec2a](https://github.com/danielmartinez-maker/TheSEARemembers/commit/577ec2a3e93ad2b960d5688e44381ebf77c3e0e9).
 
 **Review scope:** Revised chapter read in full, with Chapter 096's final scene, Chapter 098's opening and the later map reference in [Chapter 148](../../chapters/148-the-map-of-small-things.md) checked for handoff. This is a scene-level review of the assigned chapter and its cited boundaries, not whole-novel literary certification.
 
@@ -27,6 +27,6 @@ Percy, Clarisse and Silena remain Poseidon's children; Thalia and Annabeth remai
 - Every-offset 300-word scan: **1,801,192** chapter-only windows and **1,951,744** bonus-inclusive windows; zero exact cross-file matches in either scan.
 - Character-memory regression: **30** source-anchored groups pass. The lexical introduction scan leaves one human-review cue in Chapter 014.
 - Chapter-structure audit passes. The five QA scripts compile, and the evidence index rebuilds for all 193 chapters.
-- The latest published base commit's GitHub Actions passed. Hosted checks for this unpublished Ch097 candidate remain pending. Mechanical checks do not certify semantic duplication or whole-novel scene review.
+- Hosted Actions passed on the Chapter 097 source commit: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). Mechanical checks do not certify semantic duplication or whole-novel scene review.
 
 See the [structured continuity record](../../continuity/ch097.yaml), [Chapter 097 handoff](../handoffs/ch097-the-map.md), [generated full QA](generated-full-qa.md) and [execution queue](../handoffs/55-short-chapters-execution-queue.md).

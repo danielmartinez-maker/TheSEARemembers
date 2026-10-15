@@ -40,7 +40,7 @@
 ### Phase 4 — mechanical verification
 
 - **Local checks pass:** 193/193 numbered chapters present and ordered; 173 meet the 10,000-word floor and 20 remain short by 135,909 words. The chapter-only scan checks 1,801,192 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covers 196 Markdown files and 1,951,744 windows with zero exact cross-file matches. All 30 source-anchored memory regression checks pass. Five QA scripts compile, and the evidence index rebuilds for 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014.
-- Hosted Actions: **pending publication of this candidate**.
+- Hosted Actions: **PASS** on commit 577ec2a: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606), [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790).
 - The prose/continuity review is scoped to Chapter 097 and its Chapter 096/098 boundaries plus the later Chapter 148 map passage. It does not certify semantic repetition or literary quality across all 193 chapters.
 
 ## Carry-forward to Chapter 098
