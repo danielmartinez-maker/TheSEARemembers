@@ -456,7 +456,7 @@ Percy watched her climb through the window — Thalia's hand reaching out to hau
 
 “I’ll be awake.”
 
-He headed for Cabin Three again, blanket still beneath his arm. 
+He headed for Cabin Three again, blanket still beneath his arm.
 
 ---
 
