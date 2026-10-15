@@ -9,3 +9,7 @@
 ### Chapter 097 · witnessed / reported / unknown
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: checks the path beside the birch grove and agrees that the protected boundary should remain where Grover placed it. The map does not mark an entry route through protected ground.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md).
+- **State:** FIRSTHAND: cheers for Grover's speech, hugs him when he returns to his seat, and later sits with him as he dozes. Their established relationship does not change.

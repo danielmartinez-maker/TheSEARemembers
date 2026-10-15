@@ -179,3 +179,8 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** Receives a sealed letter addressed to Thalia, holds it until she asks to open it, and steps onto the porch when she requests privacy. He sets the optional lantern event's no-explanation boundary and checks the serving aisle.
 - **Carry-forward:** The letter's claims are not independently verified. The third dock board remains unsafe; no map-trial, north-trail, injury or family-contact status is resolved here.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: explains that Ella's 1,000 is a verified record count with gaps, not a count of every fire. He waits for the fire crew's check before lighting the stack, keeps the lane open, and banks the coals at the end.
+- **Carry-forward:** He says the next fire will use those coals in the morning. The timeline scroll's storage is not established.

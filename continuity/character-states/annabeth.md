@@ -190,3 +190,8 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: listens to Percy share Sally memories; attends Thalia's chosen letter conversation and tells her about remembering Athena as her mother in the life she remembers. Thalia hears Annabeth's account but does not gain those memories. Annabeth wears Percy's shawl for the evening and returns it.
 - **Relationship / carry-forward:** Percy and Annabeth remain established partners. Neither tells Amphitrite about the erased timeline or their autobiographical memories. No map-trial or injury status changes.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: helps plan a wide, clear route, makes stories optional, and limits the public dance caption. She remains an established partner with Percy and dances with him after choosing to nod to Triton's camera. The exact step/apology count stays in Ella's private notes.
+- **Privacy / carry-forward:** She says only that she was sick; she will answer questions herself and does not authorize the camp to repeat the fever-dream or half-asleep details. Annabeth and Percy remain the only autobiographical holders of the erased life.

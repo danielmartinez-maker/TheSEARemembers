@@ -179,3 +179,8 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: reports that her mother sends caramel corn with a monster-warning note each Halloween and that she saves the notes. She chooses a lantern marked “MOM.” She helps hang the optional lanterns and does not invite questions about her family.
 - **Carry-forward:** Clarisse remains Poseidon's daughter and Percy's and Silena's half-sister. No Ares parentage is implied; the next-morning training conversation from Ch098 remains unshown.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: directs the stack crew, helps lower and widen the pile, and keeps the fire lane open. She confirms that Percy came from the Sound and that she pointed him toward Cabin Three; she says she did not fight a Minotaur with him.
+- **Carry-forward:** Clarisse remains Poseidon's daughter and Percy's and Silena's sister. The Chapter 098 next-morning conversation with Poseidon remains unshown.

@@ -110,3 +110,8 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: visits camp, gives Tyson tools/apron/sea-peanut butter, Triton a calling conch and Percy a blue blessed shawl. She says Poseidon told her about Sally and acknowledges Sally died when Percy was two.
 - **Knowledge boundary:** Amphitrite is not told about the erased timeline, Percy's memories of another life, or his altered-childhood memory gap. She does not learn the Sally stories Percy shares with Annabeth and Silena after she leaves.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: attends a brief surface event with Triton, speaks with Percy and Tyson at the meal, watches the public story circle and dance, and leaves toward the Big House guest room. She hears a rumor corrected only as to Percy's current arrival from the Sound and Clarisse's witness role.
+- **Knowledge boundary:** She is not told about the erased timeline, Percy's prior-life memories, or his altered-childhood memory gap.

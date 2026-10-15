@@ -4,6 +4,29 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
+## Latest current-branch continuation: Chapter 100 (2026-10-15 local candidate)
+
+**Source:** PR #103 branch `audit/four-phase-continuity-2026-10-13`, based on published head `acb4a8b997e663bb4bce698d5f3bd8ff4cc70f8c`. Local QA passes; hosted workflow results are available on the PR's pushed head.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **176** |
+| Below 10,000 actual body words | **17** |
+| Required additional body words to clear minimum | **124,761** |
+| Chapter-only every-offset 300-word windows | **1,812,817; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,021,674 body words; 1,963,369 windows; 0 exact cross-file matches** |
+| Source-anchored character-memory checks | **32 passed** |
+
+**Chapter 100, The Thousandth Campfire:** **6,707 → 10,190 body words** (+3,483 net). The Percy-limited revision corrects the public Minotaur rumor without exposing Percy or Annabeth's private old-life memories; preserves Beryl's absence, Thalia's uncleared palm, Tyson's forge leave, Annabeth's illness privacy, and the consent limits around the dance photo; and records the campfire count as a count of surviving entries rather than every fire. The feast duplication is removed. See the [Chapter 100 handoff](handoffs/ch100-thousandth-campfire.md) and [structured continuity record](../continuity/ch100.yaml).
+
+- **Phase 1:** Adds witnessed/reported/unknown handoff and scoped cumulative state updates for 18 characters, with the Chapter 099 close and Chapter 101 opening checked. The date links and Tyson leave continuity remain explicitly unknown.
+- **Phase 2:** Keeps the Minotaur memory private while Amphitrite attends, labels the camp rumor as unverified, and preserves sibling parentage, injury, letter and illness boundaries.
+- **Phase 3:** Expands the source from 6,707 to 10,190 through event choices, a fire-stack problem and earned family scenes; removes duplicated feast prose and avoids length padding.
+- **Phase 4:** 193/193 structure; 32 memory checks pass; chapter-only and bonus-inclusive strict duplicate scans find zero matches. The evidence index writes 193 unverified source-cue records. The introduction scan leaves one review cue in Chapter 014. These are mechanical checks and a Chapter 100 scene review, not whole-novel literary certification.
+
+**Next chronological underlength chapter:** [101 A Name for It](../chapters/101-a-name-for-it.md), **2,093 body words**, needs **7,907**. Keep Percy and Annabeth's established relationship intact; Chapter 101's opening asks what label feels right in their current life, without resetting their remembered bond.
+
 ## Superseded checkpoint: Chapter 098 (2026-10-15 candidate checkpoint)
 
 **Source revision:** PR commit `1243faf14ef57c0cfa2591b11bfd32488372840`, based on published head `c9ff34393533642b667355c2212cdfadf99af0e3`. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006429) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006398).

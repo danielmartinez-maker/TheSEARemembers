@@ -12008,21 +12008,21 @@
       "path": "chapters/100-the-thousandth-campfire.md",
       "title": "Chapter 100: The Thousandth Campfire",
       "name_mentions": {
-        "Percy": 79,
-        "Annabeth": 87,
-        "Thalia": 42,
-        "Clarisse": 46,
-        "Silena": 36,
-        "Amphitrite": 4,
-        "Poseidon": 10,
-        "Triton": 5,
-        "Tyson": 6,
+        "Percy": 120,
+        "Annabeth": 104,
+        "Thalia": 49,
+        "Clarisse": 65,
+        "Silena": 38,
+        "Amphitrite": 11,
+        "Poseidon": 5,
+        "Triton": 8,
+        "Tyson": 22,
         "Beryl": 1,
-        "Chiron": 15,
-        "Grover": 33,
-        "Zeus": 7,
-        "Beckendorf": 1,
-        "Ella": 39
+        "Chiron": 23,
+        "Grover": 44,
+        "Zeus": 4,
+        "Beckendorf": 2,
+        "Ella": 47
       },
       "event_cues_for_manual_review": [
         {
@@ -12039,14 +12039,6 @@
             "Percy"
           ],
           "excerpt": "\"She knows me,\" Percy said, pulling the shirt over his head. It smelled like fresh ink and strawberries."
-        },
-        {
-          "line": 27,
-          "named": [
-            "Percy",
-            "Clarisse"
-          ],
-          "excerpt": "Clarisse leaned against the doorframe, arms crossed. She was trying to look annoyed, the way she always did when she was actually excited about something. It never worked on Percy. He had lived with her as a sister long enough to read the l"
         },
         {
           "line": 29,
@@ -12082,12 +12074,22 @@
           "excerpt": "\"It sounds like all of us,\" Clarisse said. She pushed off the doorframe. \"Get up. Breakfast. Annabeth's probably already been up for two hours making lists.\""
         },
         {
-          "line": 47,
+          "line": 55,
+          "named": [
+            "Annabeth",
+            "Chiron"
+          ],
+          "excerpt": "\"I am making lists,\" Annabeth said solemnly. \"Thousandth campfire lists. Very important. Chiron asked me to help coordinate the story circle. A lot of people already asked for a turn. Some haven't, and they don't need one.\""
+        },
+        {
+          "line": 57,
           "named": [
             "Percy",
-            "Annabeth"
+            "Annabeth",
+            "Thalia",
+            "Chiron"
           ],
-          "excerpt": "Annabeth looked up when she saw him and her whole face lit. She waved him over with her stylus, and Percy felt that familiar warm swoop in his stomach, the same one he remembered from their quest journeys, when she would offer him half her"
+          "excerpt": "Thalia Grace, sprawled across the bench on Annabeth's other side with her boots up on the table until Chiron gave her a look and she swung them down, grinned at Percy."
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -12117,13 +12119,12 @@
           "excerpt": "\"The biggest,\" Clarisse said. \"Dinner feast. No training after lunch. Everybody decorates. Apollo music. Stories. Grover's got a speech he's been rewriting for a week and won't show anyone. And Ella and Rachel made some massive scroll thing"
         },
         {
-          "line": 105,
+          "line": 133,
           "named": [
-            "Percy",
-            "Silena",
-            "Poseidon"
+            "Annabeth",
+            "Ella"
           ],
-          "excerpt": "Percy could not remember Silena’s first night in the childhood this camp knew. But she had told him about crying quietly into her pillow in Cabin Three because she missed home and was afraid the harpies would get her if she snored. He remem"
+          "excerpt": "Annabeth looked at their hands, then at him. “The scroll is covered. Go see if Ella needs help. Don't promise her anything until you hear the question.”"
         }
       ],
       "event_witnesses_verified": false,

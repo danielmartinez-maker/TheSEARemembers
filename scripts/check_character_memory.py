@@ -278,6 +278,26 @@ CHECKS = {
                    "GABE got crossed out and replaced with PAUL",
                    "Amphitrite knows the time rewrite"),
     },
+    "chapters/100-the-thousandth-campfire.md": {
+        "present": ("That's not how I arrived here.",
+                    "If you write it down, mark where you heard it.",
+                    "the Minotaur belonged to the other life he remembered",
+                    "Amphitrite watched the story circle quietly",
+                    "Beryl was not at the campfire.",
+                    "Thalia had made no visit arrangement",
+                    "the right palm was still wrapped",
+                    "The rest is still mine.",
+                    "There was no Minotaur panel.",
+                    "Would you want a print of the dance?",
+                    "Triton nodded. “If you ask.”"),
+        "absent": ("That was from the life I remember.",
+                   "In the other life. In this one,",
+                   "I didn't surf it in either life.",
+                   "Beryl was at the campfire.",
+                   "Clarisse fought a Minotaur with him.",
+                   "Amphitrite knows the time rewrite",
+                   "The Minotaur belonged to the camp's own record of his arrival."),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

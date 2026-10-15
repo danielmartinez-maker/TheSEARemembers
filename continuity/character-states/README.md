@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Coverage status:** The index contains the foundational Chapter 001–022 records, source-verified additions for Chapters 023–036, and scoped event updates for Chapters 090–096. Chapters 037–089 and 097–193 remain unaudited in these cumulative files; this selective coverage is not an unbroken character-memory certification or full literary review.
+**Coverage status:** The index contains the foundational Chapter 001–022 records, source-verified additions for Chapters 023–036, and scoped event updates for Chapters 090–100. Chapters 037–089 and 101–193 remain unaudited in these cumulative files; this selective coverage is not an unbroken character-memory certification or full literary review.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -25,6 +25,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 - [Malcolm](./malcolm.md) — Chapter 090
 - [Katie Gardner](./katie-gardner.md) — Chapter 090
 - [Evan](./evan.md) — Chapter 092
+- [Rachel Elizabeth Dare](./rachel.md) — Chapter 100
 
 **Chapter 001 → 002 boundary:** Percy sleeps in Cabin Three, has only met Clarisse by name; Silena is introduced at breakfast in 002. Annabeth stays in Zeus's Cabin One and may use the Athena cabin's worktables. Percy and Annabeth retain their relationship and privately plan a source-separated list. Grover, Thalia, Chiron, Clarisse, Amphitrite, Poseidon and Triton do **not** know the time secret.
 
@@ -112,7 +113,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 ## Chapter 095 continuation
 
 - [Chapter 095 handoff](../../editorial/handoffs/ch095-annabeth-sick.md) and [structured continuity](../ch095.yaml) add scoped records for Percy, Annabeth, Thalia, Clarisse, Silena, Will, Chiron, Grover and Katie. These track the fever and power uncertainty, injury restrictions, a reported childhood memory, the inspection handoff, and the limited dawn message.
-- The Chapter 100 campfire retelling was corrected to preserve Annabeth's privacy boundary; Katie's knowledge remains limited to the general fact of illness, and Grover does not repeat the care details.
+- The Chapter 100 campfire retelling preserves Annabeth's privacy boundary and keeps Percy's Minotaur memory private while he corrects the current-arrival rumor. Katie's knowledge remains limited to the general fact of illness, and Grover does not repeat the care details.
 - **Coverage limit:** Chapter 095 is a source-scoped update, not continuous memory coverage. Chapters 037–089 and 097–193 still require scene-by-scene entries.
 
 ## Chapter 096 continuation

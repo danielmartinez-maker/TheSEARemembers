@@ -186,3 +186,8 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: opens a sealed California-postmarked letter from Beryl at the Big House after asking Chiron to wait. She keeps it, does not answer that day, and may decide after a week whether she wants to write; this is not a test of Beryl's sobriety. She tells Jason only that a letter arrived and she is keeping it.
 - **Reported / injury:** The letter claims 60 sober days, an Ojai placement and Jason's help arranging a ride; none is independently verified and Beryl is absent from camp. Thalia's right palm remains bandaged and uncleared; she uses her left hand to hold the letter and count lantern frames.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: attends the celebration and shares the top-step moment with Clarisse and Silena. Her right palm remains wrapped; she uses her left hand and no check or clearance is shown. She does not discuss Beryl's letter or arrange a visit.
+- **Carry-forward:** Beryl is absent, and Jason receives no new information. Thalia's injury and choice about replying remain unresolved.

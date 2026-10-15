@@ -187,3 +187,9 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: remembers Sally's lunch notes, blue food and singing from the erased life and shares those memories with Annabeth and Silena. He receives Amphitrite's blue shawl, lends it to Annabeth for the evening, and takes it back to Cabin Three. He witnesses Triton's apology and the optional lantern gathering.
 - **Reported / carry-forward:** Thalia reads Beryl's letter aloud at her request; Beryl's 60-day sobriety, Ojai location and Jason-arranged ride remain claims in that letter. Thalia keeps it and has not decided whether to reply. The third dock board still flexes; Percy uses firm sand and the marked path.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: attends the campfire, helps correct a leaning fire stack, dances with Annabeth, and stays with her at Half-Blood Hill. He publicly corrects the Minotaur rumor only about his current arrival from the Sound; he does not disclose the erased-life memory. Clarisse confirms what she witnessed.
+- **Relationship / privacy:** Percy and Annabeth remain established partners; the public dance caption is limited to what they approve. Annabeth nods before Triton takes one photograph; they do not request a print. Percy does not repeat Annabeth's illness dream or private half-asleep statements.
+- **Carry-forward:** He is last seen on Half-Blood Hill with Annabeth. Amphitrite attends the event but is not told about the rewrite or his old-life memories.

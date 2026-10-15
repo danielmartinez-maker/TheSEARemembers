@@ -95,3 +95,8 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: receives Amphitrite's calling conch, experiments with its sound and later plays with Tyson. He apologizes to Percy and Tyson for being rude; Tyson accepts. Triton keeps the conch.
 - **Carry-forward:** The apology does not establish a full relationship repair. No later conch call to Amphitrite or future visit is shown.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: attends with Amphitrite and carries his camera. He asks before individual pictures and lowers the camera when declined. After Annabeth nods, he takes one dance photograph; he later offers a print and accepts that Percy and Annabeth will ask if they want one.
+- **Carry-forward:** No print or wider distribution is shown. The calling conch is neither used nor relocated in the chapter.

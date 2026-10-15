@@ -13,3 +13,7 @@
 ### Chapter 097 · witnessed / reported / unknown
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: asks whether the map includes hiding places; Annabeth leaves owners' private routes out. At the viewing he joins Travis in sketching a tunnel on separate paper and moves to the correction sheet after Ella redirects them. No tunnel is added to the public map.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md).
+- **State:** FIRSTHAND: wakes Cabin Three by banging a spoon against a pot. No new promise or private memory is established.

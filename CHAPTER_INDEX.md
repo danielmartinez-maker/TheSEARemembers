@@ -238,6 +238,14 @@ Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10
 - Bonus-inclusive scan: **196 Markdown files**, **2,018,191 body words**, **1,959,886** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression groups pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
 - **Hosted workflows on 8b92708:** [full manuscript QA passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). The mechanical and scene-level checks do not certify whole-novel semantic or literary consistency.
 
+## Revision QA — Chapter 100 (2026-10-15)
+
+Chapter 100, [The Thousandth Campfire](chapters/100-the-thousandth-campfire.md), was revised from **6,707 → 10,190 body words** (+3,483 net). The revision keeps the Minotaur memory private while correcting the camp's current-arrival story, preserves the documented-vs-total campfire distinction, and carries forward Beryl's absence, Thalia's wrapped palm, Tyson's forge leave, Annabeth's illness privacy and the couples' consent over the dance photo. See the [chapter handoff](editorial/handoffs/ch100-thousandth-campfire.md) and [structured continuity record](continuity/ch100.yaml).
+
+- Local QA: **193/193** indexed and ordered; **176** meet 10,000 body words and **17** remain short by **124,761 words**. The strict chapter-only scan checked **1,812,817** every-offset 300-word windows with zero exact cross-chapter matches.
+- Bonus-inclusive scan: **196 Markdown files**, **2,021,674 body words**, **1,963,369** windows and zero exact cross-file matches. All **32** source-anchored memory checks pass; the evidence index rebuilds 193 unverified chapter cue records. One lexical introduction cue remains in Chapter 014.
+- Hosted workflow results are tied to the PR's pushed head. These mechanical checks and the scoped Chapter 100 review are not whole-novel semantic or literary certification.
+
 ## Bonus interludes
 
 - [The Long Winter](bonus/the-long-winter.md)
@@ -260,7 +268,7 @@ Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–099
+### Chapters 090–100
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
@@ -272,3 +280,4 @@ Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10
 - [Chapter 097 handoff](editorial/handoffs/ch097-the-map.md)
 - [Chapter 098 handoff](editorial/handoffs/ch098-fathers-day-gods.md)
 - [Chapter 099 handoff](editorial/handoffs/ch099-mothers.md)
+- [Chapter 100 handoff](editorial/handoffs/ch100-thousandth-campfire.md)

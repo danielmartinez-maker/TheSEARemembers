@@ -177,3 +177,8 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: tells Percy that Maria called her “exhausting to love” when she was six and that Christmas cards carry Spain postmarks and the initial M. She says she does not know Maria's current life or whether she has other children. She describes a mirror her friends gave her and chooses to leave her lantern blank without explaining her family to the group.
 - **Carry-forward:** These are Silena's own reports, not an omniscient account of Maria. Silena chooses to help with the optional event and owes no reply to the cards.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: organizes optional shirts, crowns and face paint, leaving alternatives for campers who decline. She shares a chosen part of her first-night blanket story privately with Percy, then decides not to tell it publicly and listens to another camper. She has no obligation to expand the story.
+- **Carry-forward:** Silena remains Poseidon's daughter and Clarisse's and Percy's sister; she makes no new promise about Maria or future storytelling.

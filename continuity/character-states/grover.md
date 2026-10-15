@@ -133,3 +133,8 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: checks the shrine-meadow edge with Annabeth and identifies a deer track through soft ground, not a public route. He asks that the map omit exact plant locations and names; the protected line is moved back. He agrees that a future satyr conversation can happen from the public path, but no guided walk or entry is promised.
 - **Carry-forward:** The ground inside the boundary remains protected. Percy and Annabeth disclose no erased-life memories to him.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: attends the feast and gives his campfire speech without reading his eleventh draft. He asks Percy to remind him to eat afterward; the chapter does not show a later meal. Juniper celebrates with him.
+- **Carry-forward:** Grover dozes with his head in Juniper's lap as the event closes. He receives no erased-life memories or private illness details.

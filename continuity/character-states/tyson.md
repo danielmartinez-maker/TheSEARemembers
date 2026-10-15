@@ -24,3 +24,8 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** FIRSTHAND: receives Amphitrite's hammer, chisels, apron and sea-peanut butter. During approved forge leave he chooses to test the hammer on an eighth hinge trial, then leaves the gift tools at the forge. He plans to show Amphitrite a working hinge and asks Chiron before choosing a site for her birdhouse.
 - **Carry-forward:** The working hinge and birdhouse are incomplete; no date for showing either to Amphitrite is set. Tyson returns to the Cabin Three guest bunk by the chapter's end and is still on forge leave in Chapter 100.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: while on forge leave, helps place the fire stack and checks the base from outside its marked boundary. Clarisse keeps his gift tools at the forge; Tyson does not retrieve them or work on the hinge/birdhouse. He attends the feast and is last seen asleep beside Ella at the fire.
+- **Carry-forward:** The chapter does not show him returning to Cabin Three. No new forge date, finished hinge or birdhouse site is set.

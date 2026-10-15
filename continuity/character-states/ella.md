@@ -51,3 +51,8 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: checks the public cabin names, catches a spelling error and approves credit only for the roster check. She keeps her quiet sunbeam off the map. At the public viewing, she counts seven exterior Cabin Six windows and finds one missing from the displayed first edition.
 - **Carry-forward:** The window is logged for a later clean copy; Annabeth does not paint over the public sheet. Ella redirects the Stolls to the separate correction paper. No change to Ella's private places or memory knowledge is established.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: counts 1,000 surviving campfire entries with Rachel and helps present their source-labeled timeline. She distinguishes witness accounts, retellings and blank gaps; the count does not claim to include every fire. The Minotaur is omitted from the camp's arrival record. She keeps the exact dance count in her notes, outside the public scroll.
+- **Carry-forward:** The scroll's storage after the gathering and the later disposition of her notes are unknown.

@@ -33,3 +33,7 @@
 ### Chapter 097 · witnessed / reported / unknown
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: attends the optional public map viewing, helps lift the cover and offers a wide group/map photograph without close-ups of notes. The approved image is not shown as sent.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md).
+- **State:** FIRSTHAND: attends the feast, offers a brief address about camp being family, and joins the offering before the story circle. No new promise or relationship repair is established.

@@ -1591,13 +1591,13 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/100-the-thousandth-campfire.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 87, Percy 79, Clarisse 46, Thalia 42, Ella 39, Silena 36, Grover 33, Chiron 15, Poseidon 10, Zeus 7
+- Name appearances (not proof of presence): Percy 120, Annabeth 104, Clarisse 65, Thalia 49, Ella 47, Grover 44, Silena 38, Chiron 23, Tyson 22, Amphitrite 11
 - Event/action candidates to inspect in context:
   - Line 23: "Silena made them," Clarisse said. "Aphrodite cabin stayed up half the night printing. She saved you a medium because she says you always steal larges and then swim in them."
   - Line 25: "She knows me," Percy said, pulling the shirt over his head. It smelled like fresh ink and strawberries.
-  - Line 27: Clarisse leaned against the doorframe, arms crossed. She was trying to look annoyed, the way she always did when she was actually excited about something. It never worked on Percy. He had lived with her as a sister long enough to read the l
   - Line 29: "You know what this is about, right?" she said. "Chiron's calling it the thousandth campfire. Ella counted. She went through the camp records and the harpy memory chants and figured out tonight is number one thousand since the camp was refo
   - Line 33: "A thousand," Clarisse said. "And the old satyrs say the fire remembers all of them. So tonight we remember back."
+  - Line 39: "The biggest," Clarisse said. "Dinner feast. No training after lunch. Everybody decorates. Apollo music. Stories. Grover's got a speech he's been rewriting for a week and won't show anyone. And Ella and Rachel made some massive scroll thing
 - Memory/disclosure candidates to inspect:
   - Line 29: "You know what this is about, right?" she said. "Chiron's calling it the thousandth campfire. Ella counted. She went through the camp records and the harpy memory chants and figured out tonight is number one thousand since the camp was refo
   - Line 33: "A thousand," Clarisse said. "And the old satyrs say the fire remembers all of them. So tonight we remember back."
