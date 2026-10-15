@@ -210,8 +210,8 @@ All fourteen chapters were re-read and revised for continuity and prose, with Ch
 | 028 | 10,055 | 035 | 10,020 |
 | 029 | 10,020 | 036 | 10,061 |
 
-- The 16-chapter exact 300-word scan across Chapters 022–037 checked 155,938 windows and found **zero cross-chapter matches**. The bonus-inclusive 196-file scan checked 1,945,165 windows and found **zero exact matches**.
-- Full manuscript QA found 193/193 numbered files, 171 chapters at the 10,000-word floor, 22 other chapters still short, and zero exact matches across 1,794,613 chapter windows. Structure audit found the index ordered 001–193. All 28 source-anchored memory regression checks pass; Chapter 014 retains one lexical introduction cue for human review.
+- The 16-chapter exact 300-word scan across Chapters 022–037 checked 155,938 windows and found **zero cross-chapter matches**. The bonus-inclusive 196-file scan checked 1,942,012 windows and found **zero exact matches**.
+- Full manuscript QA on this commit found 193/193 numbered files, 170 chapters at the 10,000-word floor, 23 chapters still short by 145,183 words, and zero exact matches across 1,791,460 chapter windows. Structure audit found the index ordered 001–193. All 27 source-anchored memory regression checks pass; Chapter 014 retains one lexical introduction cue for human review.
 - These results are mechanical checks plus the scoped scene review; they do not certify semantic repetition or prose quality across the full manuscript.
 
 ## Bonus interludes
