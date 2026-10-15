@@ -41,7 +41,7 @@
 
 - **Local QA:** Passed on the candidate tree. Chapter 099 has **10,166** body words; the 193-chapter audit finds **193/193** indexed and ordered, **175** chapters at the 10,000-word floor, and **18** short by **128,054** words. The chapter-only scan checked **1,809,334** every-offset 300-word windows and found zero exact cross-chapter matches. The bonus-inclusive scan covered **196 files**, **2,018,191** body words and **1,959,886** windows, with zero exact cross-file matches. All **31** source-anchored memory groups pass; the evidence index rebuilds for all **193** chapters. The lexical introduction scan leaves one human-review cue in Chapter 014.
 - **Whitespace:** `git -c core.whitespace=cr-at-eol diff --check` passes. Default Git reports expected mixed-line-ending artifacts for existing CRLF/LF files; no trailing whitespace remains when CRLF is treated correctly.
-- **Hosted Actions:** Pending push of this revision. No hosted result is claimed in this handoff.
+- **Hosted Actions:** Both workflows passed on commit `8b92708`: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). They validate the Chapter 099 source commit; the later documentation-only checkpoint records these results.
 - Mechanical checks do not certify semantic repetition or whole-manuscript literary quality.
 
 ## Carry-forward to Chapter 100

@@ -236,7 +236,7 @@ Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10
 
 - Full manuscript QA: **193/193** indexed and ordered; **175** meet 10,000 body words and **18** remain short by **128,054 words**. The chapter-only scan checked **1,809,334** every-offset 300-word windows and found **zero exact cross-chapter matches**.
 - Bonus-inclusive scan: **196 Markdown files**, **2,018,191 body words**, **1,959,886** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression groups pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
-- **Hosted workflows:** pending publication of this revision. The mechanical and scene-level checks do not certify whole-novel semantic or literary consistency.
+- **Hosted workflows on 8b92708:** [full manuscript QA passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). The mechanical and scene-level checks do not certify whole-novel semantic or literary consistency.
 
 ## Bonus interludes
 

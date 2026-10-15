@@ -29,7 +29,7 @@
 
 ## Latest current-branch continuation: Chapter 099 (2026-10-15 candidate checkpoint)
 
-**Source revision:** Local candidate based on published PR head `1243faf14ef57c0cfa2591b11bfd32488372840`; this checkpoint is not yet committed or pushed. Hosted workflows are pending.
+**Chapter source revision:** PR commit `8b927088fc9c5e6793bec431a7cc0299f7224344`, based on published head `1243faf14ef57c0cfa2591b11bfd32488372840`. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). The follow-up checkpoint below only records these results and does not change the chapter source.
 
 | Scope | Candidate-tree result |
 |---|---:|
@@ -46,7 +46,7 @@
 - **Phase 1:** Added the scene-level handoff, structured record, cumulative ledger entry, and 15 scoped character-state updates. Recorded witnessed, reported and unknown information separately, including Thalia's letter, the palm injury, gift ownership and the 098/099/100 timeline gaps.
 - **Phase 2:** Removed the Ares parent reference, unsupported Beryl incidents and omniscient claims about Maria. Kept Beryl absent and her letter claims unverified; protected Amphitrite's knowledge boundary; kept the unsafe dock unused; preserved Thalia's unresolved injury.
 - **Phase 3:** Added earned scenes around Percy's Sally memories, Amphitrite's visit, Thalia's decision, Tyson's tool test, Silena's direct report, and the optional lantern gathering. The revised scenes maintain Percy-limited narration and do not make him resolve his siblings' relationships.
-- **Phase 4:** Local manuscript QA passes: 193/193 indexed and ordered; 175 pass / 18 short; 128,054 words remain; chapter-only and bonus-inclusive scans found zero exact 300-word matches; all 31 memory regression groups pass; the evidence index rebuilds for 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. Hosted workflows are pending; these checks do not certify whole-novel semantic or literary quality.
+- **Phase 4:** Local and hosted manuscript QA pass: 193/193 indexed and ordered; 175 pass / 18 short; 128,054 words remain; chapter-only and bonus-inclusive scans found zero exact 300-word matches; all 31 memory regression groups pass; the evidence index rebuilds for 193 chapters. Both hosted workflows passed on the Chapter 099 source commit. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary quality.
 
 **Next chronological underlength chapter:** [100 The Thousandth Campfire](../chapters/100-the-thousandth-campfire.md), **6,707 body words**, needs **3,293**. Chapter 099 ends after an evening lantern gathering and beach bonfire. Chapter 100 opens on the morning of the thousandth campfire; the calendar gap and relation between the two events remain unknown. Tyson is on forge leave in both chapters, but whether it is the same leave is not established.
 
