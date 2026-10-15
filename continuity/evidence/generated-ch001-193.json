@@ -11754,19 +11754,18 @@
       "path": "chapters/098-fathers-day-gods.md",
       "title": "Chapter 98: Fathers' Day (Gods)",
       "name_mentions": {
-        "Percy": 72,
-        "Annabeth": 66,
-        "Thalia": 47,
-        "Clarisse": 10,
-        "Silena": 7,
-        "Amphitrite": 4,
-        "Poseidon": 44,
-        "Triton": 45,
-        "Tyson": 31,
-        "Chiron": 10,
-        "Nico": 1,
-        "Zeus": 78,
-        "Beckendorf": 1
+        "Percy": 78,
+        "Annabeth": 84,
+        "Thalia": 52,
+        "Clarisse": 44,
+        "Silena": 30,
+        "Poseidon": 65,
+        "Triton": 19,
+        "Tyson": 37,
+        "Sally": 1,
+        "Chiron": 42,
+        "Zeus": 59,
+        "Ella": 2
       },
       "event_cues_for_manual_review": [
         {
@@ -11776,7 +11775,7 @@
             "Annabeth",
             "Chiron"
           ],
-          "excerpt": "Percy Jackson knew because he was there, half-asleep on the porch steps with Annabeth Grace leaning against his shoulder, both of them sun-warmed and sticky from morning sword drills. Chiron had trotted out with a package under one arm and"
+          "excerpt": "Percy Jackson knew because he was there, half-asleep on the porch steps with Annabeth Grace leaning against his shoulder. They had finished morning sword drills and were still warm from them. Chiron came out with a parcel under one arm and"
         },
         {
           "line": 11,
@@ -11801,12 +11800,13 @@
           "excerpt": "\"'I will visit this weekend for the Fathers' Day barbecue,'\" Percy read, his voice getting slower with every word. \"'Proud to stand beside all five of my brave children at camp. Bring your appetite. — Dad.'\""
         },
         {
-          "line": 23,
+          "line": 27,
           "named": [
             "Annabeth",
-            "Zeus"
+            "Thalia",
+            "Poseidon"
           ],
-          "excerpt": "Annabeth looked down at hers. \"'My daughter — I will visit this weekend for the Fathers' Day barbecue. I would like to speak with you and your sister. I have remembered the important dates. — Zeus.'\""
+          "excerpt": "Thalia Grace came up the steps, keeping her wrapped right hand close to her side. She read the letters over Annabeth's shoulder. \"Tell me I'm reading this wrong. Dad and Poseidon planned the same barbecue?\""
         },
         {
           "line": 29,
@@ -11814,42 +11814,61 @@
             "Annabeth",
             "Thalia"
           ],
-          "excerpt": "Annabeth wordlessly handed her the letter. Thalia read it twice. Her electric-blue eyes widened."
+          "excerpt": "Annabeth wordlessly handed her the letter. Thalia read it once, then looked back at the line asking whether they both wanted a conversation."
         },
         {
           "line": 31,
           "named": [
-            "Thalia"
+            "Thalia",
+            "Zeus"
           ],
-          "excerpt": "\"He remembered the important dates,\" Thalia said flatly. \"That is either character growth or the end of the world.\""
+          "excerpt": "\"If we both want it,\" Thalia said. She tapped Zeus's letter with her left index finger. \"At least he remembered to ask. I want to know what he means by speak.\""
         },
         {
-          "line": 35,
+          "line": 33,
           "named": [
-            "Annabeth"
+            "Percy",
+            "Clarisse",
+            "Silena",
+            "Poseidon",
+            "Triton",
+            "Tyson"
           ],
-          "excerpt": "\"Wait,\" Annabeth said. \"Both of them? The same weekend?\""
+          "excerpt": "Percy was still staring at his own letter. All five of my brave children at camp. The words made him warm and wary at the same time. Clarisse and Silena would be there; Tyson had been approved for a weekend away from the forge, and Triton w"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
           "line": 47,
           "named": [
+            "Percy",
             "Annabeth",
             "Thalia",
             "Zeus"
           ],
-          "excerpt": "Annabeth shoved his shoulder, but she was smiling. It was nervous, though. Underneath the planning, he could see it. Zeus had never been the show-up-with-a-card kind of dad. Thalia's stories made it clear that Zeus's place in their childhoo"
+          "excerpt": "Annabeth shoved his shoulder, but the smile faded quickly. Percy had heard Thalia's accounts of a childhood where Zeus's visits were brief and unpredictable. Annabeth did not remember that childhood herself. She remembered the visits she ha"
         },
         {
-          "line": 225,
+          "line": 57,
           "named": [
             "Annabeth",
-            "Thalia",
-            "Chiron",
-            "Zeus"
+            "Thalia"
           ],
-          "excerpt": "Zeus looked down at her hands guiding his. He went very still. \"Annabeth,\" he said quietly, so only she and Thalia could hear. \"You included a map of an orchard with your camp plans. With escape routes. You said it came from the place you r"
+          "excerpt": "Thalia nodded once. It was the sort of answer Annabeth had learned she could trust from her: not a promise to guess right, but a promise to wait for the actual words."
+        },
+        {
+          "line": 67,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "She did not say that nothing would happen. Percy appreciated that more than a promise that everything would be fine."
+        },
+        {
+          "line": 83,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "Annabeth wrote that on the correction card rather than altering the map. \"The trial is for catching what we missed. It isn't a promise that every mark is finished.\""
         }
       ],
       "event_witnesses_verified": false,

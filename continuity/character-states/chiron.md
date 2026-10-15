@@ -169,3 +169,8 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: tests a Big House-to-pavilion route in his wheelchair. A line through the cabins fails at a rut that would require someone to lift his chair; the longer route by the Big House ramp is tested and marked with a day-specific note. This is one chair's test, not a universal accessibility certification.
 - **Map / carry-forward:** He keeps the north trail closed pending its brace inspection, explains the closure to the younger camper, and helps set a one-week rec-room trial. A large-print legend and upper-label list are provided, but some small map notes still need a reader. The planned user-feedback review is not complete.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: reviews the current map trial with Annabeth before the meal, keeps the separate meal plan out of the correction sleeve, and coordinates food safety and table placement. When wind moves smoke across the food, he pauses service and relocates the table; Annabeth records the setup change separately. He tells Zeus the tested ramp route was successful only once in dry conditions.
+- **Carry-forward:** The north trail remains closed pending brace inspection, the dock board still flexes, and the map remains in its one-week rec-room trial. Poseidon's overnight arrangements and next-morning visit are not confirmed.

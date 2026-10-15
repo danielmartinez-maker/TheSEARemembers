@@ -14,3 +14,8 @@
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** FIRSTHAND: attends as Percy's visiting brother, helps Ella settle in her blanket nest, offers reassurance during the loud battle scene, and holds her gently when the mother-daughter film makes her cry. No injury or new promise is established.
 - **Carry-forward:** Tyson's affection for Percy and Ella remains grounded in current events; he receives no autobiographical original-life memories.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: attends the Saturday meal during approved forge leave, brings potato salad, and chooses to explain a small bronze hinge he improved. He says the flatter angle bent, the steeper revision stayed straight after seven tests, and he likes the sound of the door closing. He sketches the hinge briefly on a used plate, then erases it; no keepsake remains.
+- **Carry-forward:** Tyson asks Poseidon to hear the hinge click on a later visit near the forge; Poseidon agrees, but no date is set. Tyson chooses the green tasting spoon for the potato salad and washes his bowl himself. No injury is established.

@@ -169,3 +169,8 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: checks the arena and approves an open-practice note without a fixed hour; visitors should ask her or the counselor before joining. She asks Annabeth to remove “no excuses” so the map does not create an inflexible commitment.
 - **Family / carry-forward:** Clarisse is explicitly a daughter of Poseidon and remains Percy's and Silena's half-sister. No new injury or training outcome is established. The north trail remains closed pending its brace inspection.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: keeps her morning training, checks table spacing after, and corrects a chair blocking the route without claiming the untested turn is accessible. She tells Poseidon to address her as Clarisse rather than casting her as the sibling protector. She chooses to repeat her Ch023 memory directly to him: when she was eight he watched drills for about ten minutes, criticized her shield arm and left; she cried in the kitchen afterward.
+- **Carry-forward:** Poseidon apologizes without a completed repair. Clarisse says he may ask in the morning whether she wants him to watch training; she has not agreed to the visit. She declines a hug. No new injury is established.

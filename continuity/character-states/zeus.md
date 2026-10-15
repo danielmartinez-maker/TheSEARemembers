@@ -69,3 +69,8 @@ Father of Thalia, Annabeth, Jason in altered history. No verified direct on-page
 ### Chapter 22 · source memory
 - [Chapter 22](../../chapters/022-storm-training.md): Annabeth practices Zeus-lineage powers under Chiron/Thalia, but Zeus has no direct speaking/visit and hasn't been shown monitoring.
 - **Boundary:** Preserve firsthand vs reported vs unknown information; later scenes require explicit disclosure.
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: visits in a new physical guise, asks Thalia about her still-wrapped palm, and respects her refusal of help. Annabeth shows him the public survey and explains its trial status, limited route test and unresolved safety marks; he does not receive private map notes. Percy and Annabeth tell him they are a couple.
+- **Family / knowledge:** Thalia repeats her earlier complaint that Zeus's new face and repeated questions reset their conversations. He acknowledges her prior words and says he can identify himself and ask before starting a conversation. Annabeth says she does not remember the childhood Thalia remembers. Neither daughter gives him Percy/Annabeth's autobiographical erased-life memories.
+- **Carry-forward:** Zeus tries to respect the daughters' choices during this visit, but Thalia says the visit does not repair the relationship. He makes no dated promise to return. The goodbye gesture is returned by Annabeth only.

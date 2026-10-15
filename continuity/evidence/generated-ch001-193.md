@@ -1559,16 +1559,17 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/098-fathers-day-gods.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Zeus 78, Percy 72, Annabeth 66, Thalia 47, Triton 45, Poseidon 44, Tyson 31, Clarisse 10, Chiron 10, Silena 7
+- Name appearances (not proof of presence): Annabeth 84, Percy 78, Poseidon 65, Zeus 59, Thalia 52, Clarisse 44, Chiron 42, Tyson 37, Silena 30, Triton 19
 - Event/action candidates to inspect in context:
-  - Line 5: Percy Jackson knew because he was there, half-asleep on the porch steps with Annabeth Grace leaning against his shoulder, both of them sun-warmed and sticky from morning sword drills. Chiron had trotted out with a package under one arm and
+  - Line 5: Percy Jackson knew because he was there, half-asleep on the porch steps with Annabeth Grace leaning against his shoulder. They had finished morning sword drills and were still warm from them. Chiron came out with a parcel under one arm and
   - Line 11: Chiron held them out. "From Olympus," he said carefully. "For both of you."
   - Line 13: Percy took the sea-smelling one. Annabeth took the crackling one. They tore them open at the same time, and then they stared at each other, and then they read aloud at the same time.
   - Line 21: "'I will visit this weekend for the Fathers' Day barbecue,'" Percy read, his voice getting slower with every word. "'Proud to stand beside all five of my brave children at camp. Bring your appetite. — Dad.'"
-  - Line 23: Annabeth looked down at hers. "'My daughter — I will visit this weekend for the Fathers' Day barbecue. I would like to speak with you and your sister. I have remembered the important dates. — Zeus.'"
+  - Line 27: Thalia Grace came up the steps, keeping her wrapped right hand close to her side. She read the letters over Annabeth's shoulder. "Tell me I'm reading this wrong. Dad and Poseidon planned the same barbecue?"
 - Memory/disclosure candidates to inspect:
-  - Line 47: Annabeth shoved his shoulder, but she was smiling. It was nervous, though. Underneath the planning, he could see it. Zeus had never been the show-up-with-a-card kind of dad. Thalia's stories made it clear that Zeus's place in their childhoo
-  - Line 225: Zeus looked down at her hands guiding his. He went very still. "Annabeth," he said quietly, so only she and Thalia could hear. "You included a map of an orchard with your camp plans. With escape routes. You said it came from the place you r
+  - Line 47: Annabeth shoved his shoulder, but the smile faded quickly. Percy had heard Thalia's accounts of a childhood where Zeus's visits were brief and unpredictable. Annabeth did not remember that childhood herself. She remembered the visits she ha
+  - Line 57: Thalia nodded once. It was the sort of answer Annabeth had learned she could trust from her: not a promise to guess right, but a promise to wait for the actual words.
+  - Line 67: She did not say that nothing would happen. Percy appreciated that more than a promise that everything would be fine.
 
 ## 099: Chapter 99: Mothers
 

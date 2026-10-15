@@ -222,6 +222,14 @@ Chapter 097, [The Map](chapters/097-the-map.md), was revised from **6,862 → 10
 - Bonus-inclusive scan: **196 Markdown files**, **2,010,049 body words**, **1,951,744** every-offset 300-word windows, and **zero exact cross-file matches**. Structure audit found 193/193 indexed and ordered. All **30** source-anchored memory regression checks pass; one lexical introduction cue remains for human review in Chapter 014.
 - These are mechanical checks plus a scoped scene review. Both hosted workflows pass on Chapter 097 commit 577ec2a: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606), [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). They do not certify whole-novel semantic repetition, prose quality or character memory continuity.
 
+## Revision QA — Chapter 098 (2026-10-15)
+
+Chapter 098, [Fathers' Day (Gods)](chapters/098-fathers-day-gods.md), was revised from **6,261 → 10,121 body words** (+3,860 net). Chapters 097's final map-trial scene and 099's late-August opening were checked as boundaries; the elapsed time between them remains unknown. The revision preserves the map's limits and unresolved hazards, records Clarisse's firsthand childhood memory directly with Poseidon, and keeps each child's conversation and boundary distinct. See the [chapter handoff](editorial/handoffs/ch098-fathers-day-gods.md) and [structured continuity record](continuity/ch098.yaml).
+
+- Full manuscript QA: **193/193** indexed and ordered chapters; **174** meet 10,000 body words and **19** remain short by **132,170 words**. The chapter-only scan checked **1,805,052** every-offset 300-word windows and found **zero exact cross-chapter matches**.
+- Bonus-inclusive scan: **196 Markdown files**, **2,013,909 body words**, **1,955,604** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression checks pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
+- Local structure, memory and duplicate checks pass. Hosted Actions for this candidate await its push. These are mechanical checks plus a scoped scene review, not whole-novel semantic or literary signoff.
+
 ## Bonus interludes
 
 - [The Long Winter](bonus/the-long-winter.md)
@@ -244,7 +252,7 @@ Chapter 097, [The Map](chapters/097-the-map.md), was revised from **6,862 → 10
 - [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
 - [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
 
-### Chapters 090–097
+### Chapters 090–098
 
 - [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
 - [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
@@ -254,3 +262,4 @@ Chapter 097, [The Map](chapters/097-the-map.md), was revised from **6,862 → 10
 - [Chapter 095 handoff](editorial/handoffs/ch095-annabeth-sick.md)
 - [Chapter 096 handoff](editorial/handoffs/ch096-training-together.md)
 - [Chapter 097 handoff](editorial/handoffs/ch097-the-map.md)
+- [Chapter 098 handoff](editorial/handoffs/ch098-fathers-day-gods.md)

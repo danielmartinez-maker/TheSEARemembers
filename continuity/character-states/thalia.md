@@ -176,3 +176,8 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **State:** FIRSTHAND: supports Annabeth's map and chooses to omit her private roof spot while approving her name in the credits. The ladder is marked restricted. She uses her left arm/hand for the map display and does not lift the easel.
 - **Injury / relationship:** Chapter 097 does not recheck or clear her right-palm injury. Preserve the last confirmed Chapter 096 status: wrapped and tender, not cleared for sparring or bracing. She and Annabeth remain Zeus/Grace biological sisters. Thalia receives no autobiographical old-life memory from Annabeth or Percy.
 - **Carry-forward:** The first edition is on trial in the Big House rec room; no change to Thalia's household, age or injury status is established.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: arrives with her right palm still wrapped and not cleared for bracing or sparring; uses her left hand for the signs and does not lift tables. At the barbecue she tells Zeus that his changing face and repeated questions make each visit feel like a restart. She asks him to identify himself and ask whether she wants to talk before questioning her about Annabeth.
+- **Relationship / carry-forward:** Zeus says he can do that, but no future visit or reconciliation is confirmed. Thalia does not wave when he leaves. She stays with Annabeth after the departure and says Will will check the palm in the morning. No healing or clearance is established.

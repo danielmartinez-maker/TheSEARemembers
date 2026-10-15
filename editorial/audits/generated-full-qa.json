@@ -1284,22 +1284,13 @@
     {
       "chapter": 98,
       "path": "chapters\\098-fathers-day-gods.md",
-      "body_words": 6261,
-      "shortfall": 3739,
-      "passes_length": false,
-      "age_review_cues": [
-        {
-          "line": 293,
-          "text": "Thalia snorted so hard mustard came out of her nose. \"That's nothing. When I was twelve, Dad sent me a thunderhead for my birthday with a card that said 'BE BRAVE.' I lived on the streets. Where was I supposed to park a thunderhead?\""
-        },
-        {
-          "line": 297,
-          "text": "\"Oh, I win,\" Thalia said immediately. \"When I turned fifteen, Zeus sent a bald eagle to follow me for a month to 'watch over me.' I was running from monsters. A giant eagle is not subtle. I named him Kevin. He ate my fries.\""
-        }
-      ],
+      "body_words": 10121,
+      "shortfall": 0,
+      "passes_length": true,
+      "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.2,
-      "median_paragraph_words": 20
+      "dialogue_line_ratio": 0.24,
+      "median_paragraph_words": 22
     },
     {
       "chapter": 99,
@@ -2446,7 +2437,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1801192,
+  "window_comparisons": 1805052,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2457,9 +2448,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 173,
-  "failing": 20,
-  "total_shortfall": 135909,
+  "passing": 174,
+  "failing": 19,
+  "total_shortfall": 132170,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }

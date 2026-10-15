@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 20 still short
+# Expansion handoff queue: original 55, now 19 still short
 
-**Exact-source QA on PR commit 577ec2a3e93ad2b960d5688e44381ebf77c3e0e9:** 193 numbered files; 173 length-pass, 20 short, and 135,909 body words remain to the floor. Full-manuscript audit: 1,801,192 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 2,010,049 body words and 1,951,744 windows, zero exact matches. All 30 source-anchored memory regression checks pass. GitHub Actions passed: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Latest exact-source local QA on the Chapter 098 candidate, based on PR head `c9ff34393533642b667355c2212cdfadf99af0e3`:** 193 numbered files; 174 length-pass, 19 short, and 132,170 body words remain to the floor. Full-manuscript audit: 1,805,052 every-offset 300-word chapter windows, zero exact matches. Bonus-inclusive audit: 196 Markdown files, 2,013,909 body words and 1,955,604 windows, zero exact matches. All 31 source-anchored memory regression checks pass; structure audit finds 193/193 chapters indexed and ordered. Hosted Actions for this candidate await its push. Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified candidate shortfall: **135,909 words** across **20** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified candidate shortfall: **132,170 words** across **19** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 pass the length gate; Chapters 091–097 pass; Chapter 098 is next chronologically.
+**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 pass the length gate; Chapters 091–098 pass; Chapter 099 is next chronologically.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -55,7 +55,7 @@
 | [095](../../chapters/095-annabeth-sick.md) | Annabeth Sick | 10,129 | 0 | **FOUR PHASES COMPLETE; local QA PASS; hosted Actions pending** |
 | [096](../../chapters/096-training-together.md) | Training Together | 10,144 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
 | [097](../../chapters/097-the-map.md) | The Map | 10,185 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
-| [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 6,261 | 3,739 | **NOT STARTED** |
+| [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 10,121 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
 | [099](../../chapters/099-mothers.md) | Mothers | 5,884 | 4,116 | **NOT STARTED** |
 | [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 6,707 | 3,293 | **TARGETED PRIVACY/CANON CORRECTION; full four-phase revision still pending** |
 | [101](../../chapters/101-a-name-for-it.md) | A Name for It | 2,093 | 7,907 | **NOT STARTED** |

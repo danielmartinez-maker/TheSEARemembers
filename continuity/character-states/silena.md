@@ -167,3 +167,8 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: helps with the optional map viewing and chooses the public label “shared swing; ask first,” replacing a promise that she will always listen. She does not want the map to place her time at public disposal.
 - **Family / carry-forward:** Silena remains Clarisse's and Percy's Poseidon half-sister. Amphitrite's blue cookies are served at the viewing; no new message or gift from Silena is shown.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: chooses the menu board and food-order work, checks ingredient labels, and asks not to be assigned emotional mediation. She tells Poseidon she does not want “healer” to be the only thing he knows about her; she explains the menu choices she made and accepts his help wiping the board.
+- **Carry-forward:** Silena says she will tell Poseidon if she wants another conversation; this is not a promise or forgiveness. She offers a handshake at departure and keeps her choice separate from Clarisse's.

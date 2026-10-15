@@ -6,6 +6,10 @@
 **This change branch:** `audit/four-phase-continuity-2026-10-13`, started from the open draft PR #102 head `1a3d83d528973e94c6d6c0e1a91ef606b45c71db` to preserve its unmerged continuity fixes. **Do not directly merge the old quality-pass branch.**  
 **Do not confuse an audited chapter with a completed literary revision.**
 
+## Latest branch continuation — Chapter 098 (October 15, 2026)
+
+The detailed phase records below are the October 14 snapshot; the following Chapter 098 revision is newer. On the local candidate based on PR head `c9ff34393533642b667355c2212cdfadf99af0e3`, Chapter 098 increased from **6,261 to 10,121 body words** (+3,860 net), with a chapter-specific handoff and witnessed/reported/unknown continuity updates. Local QA reports **193/193** ordered chapters, **174** at the 10,000-word floor, **19** short by **132,170** words, zero exact cross-chapter matches across **1,805,052** chapter windows, and zero exact cross-file matches across **1,955,604** bonus-inclusive windows. The all-Markdown scan covers **196 files and 2,013,909 body words**. All **31** source-anchored memory checks pass, and the evidence index rebuilds for all 193 chapters. Hosted Actions for this candidate await its push. Literary signoff and full 193-chapter semantic memory review remain incomplete.
+
 ## Phase 1: Cumulative memory, relationships, witnesses, secrets, chronology
 
 **PARTIAL, NOT 193/193 SEMANTICALLY CERTIFIED.**
@@ -46,9 +50,9 @@ The bounded age/chronology review is recorded in [the source-cited age report](a
 
 ## Phase 3: Expand all sub-10,000 full chapters
 
-**PARTIAL: Chapters 066, 067, 068, 069, 118, 132 and 133 expanded to 10,000+ body words; 48 chapters still below threshold on the current local snapshot. Independent prose signoff remains open.**
+**PARTIAL: The October 14 snapshot below records seven expansions; later branch continuations through Chapter 098 are summarized above. Independent prose signoff remains open.**
 
-The latest local count covers all 193 numbered Markdown chapters, excluding headings, scene separators and comments from whitespace-separated narrative body words. **145 pass** the 10,000-word floor; **48 remain short**; the combined deficit is **243,056 actual body words**. Both GitHub Actions workflows passed on the then-pushed narrative head `5edf61f5b41aca80170955941457292c7310b188`; later local changes in this report snapshot add only continuity/audit documents, so a fresh workflow run is still required after those documents are pushed. The earlier pre-expansion baseline was 138 passing / 55 short / 267,533 missing.
+At the October 14 snapshot, the count covered all 193 numbered Markdown chapters and showed **145 pass**, **48 short**, and **243,056** missing body words. Those figures are historical; see the Chapter 098 continuation summary above for the current candidate. The earlier pre-expansion baseline was 138 passing / 55 short / 267,533 missing.
 
 | Range | Short chapters | Words needed to 10,000 |
 |---|---:|---:|
@@ -66,7 +70,7 @@ See [the original expansion tracker and writing queue](../handoffs/55-short-chap
 
 ## Phase 4: Whole-manuscript QA and handoffs
 
-**MECHANICAL QA PASSES ON THE CURRENT LOCAL SNAPSHOT; SEMANTIC/STYLE REVIEW INCOMPLETE.**
+**MECHANICAL QA PASSED ON THE HISTORICAL OCTOBER 14 SNAPSHOT; CURRENT CANDIDATE RESULTS ARE RECORDED ABOVE. SEMANTIC/STYLE REVIEW REMAINS INCOMPLETE.**
 
 The latest local full-manuscript run screened **193/193** numbered files and **1,687,246** overlapping 300-body-word windows at every offset, with rolling-hash candidates confirmed by exact token comparison. It found **zero exact cross-chapter matches**, **zero missing numbered chapters**, **145 length passes**, **48 short chapters** and **243,056 body words still needed**. A second pass across all **196** chapter and bonus Markdown files checked **1,837,798** 300-word windows (**1,896,103** body words) and also found zero exact matches. Chapter-order/structure/UTF-8 checks reported **193 indexed and 193 numbered files, in order**, with no errors. The **16 source-anchored character-memory regression checks** passed. GitHub Actions workflows [38588840375](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38588840375) and [38588840979](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38588840979) passed on pushed head `5edf61f5b41aca80170955941457292c7310b188`. The only later local changes at this report snapshot are continuity/audit docs; run the workflows again after pushing them. Earlier Actions runs [38508276354](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508276354) and [38508604807](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38508604807) apply to older content, not these numbers.
 
@@ -94,4 +98,4 @@ The added scenes were read against the preceding chapter closing scenes and next
 - Additional expansion and semantic editing work must be sequenced through the 12 handoff packets and submitted with original scene changes, individual word counts, and evidence-based relationship updates.
 - Historical PDF editions and designated local working chapters have not been reconciled byte-for-byte to this GitHub snapshot. This PR changes GitHub sources only; it does not certify published reader editions.
 
-**Completion verdict:** Phase 1 partial (193 provisional locators; scene-verified ranges 001–024 and 061–068, partial 049–060, other ranges still unverified); Phase 2 partial (confirmed specific corrections, not all contradictions); Phase 3 partially implemented (7 length passes, 48 short); Phase 4 mechanical checks passed on pushed narrative head, full semantic/style and all-character continuity signoff still incomplete.
+**Completion verdict for the October 14 report snapshot:** Phase 1 partial (193 provisional locators; scene-verified ranges 001–024 and 061–068, partial 049–060, other ranges still unverified); Phase 2 partial (confirmed specific corrections, not all contradictions); Phase 3 partially implemented; Phase 4 mechanical checks passed on the then-pushed narrative head. The Chapter 098 continuation summary above has newer mechanical counts; full semantic/style and all-character continuity signoff remain incomplete.

@@ -247,6 +247,19 @@ CHECKS = {
                    "the north trail is open",
                    "Amphitrite knows the time rewrite"),
     },
+    "chapters/098-fathers-day-gods.md": {
+        "present": ("You remember the visit when I was eight?",
+                    "I cried in the kitchen after you were gone.",
+                    "We're together,",
+                    "Every time you visit, you come with another face.",
+                    "The north trail was still marked closed"),
+        "absent": ("through the change",
+                   "memories you carry together",
+                   "Virginia orchard",
+                   "Triton keeps me updated with pictures",
+                   "A bald eagle named Kevin",
+                   "Amphitrite knows the time rewrite"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

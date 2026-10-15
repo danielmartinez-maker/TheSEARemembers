@@ -85,3 +85,8 @@
 - **REPORTED / CONTACT PLAN:** Relays Amphitrite's proposal of fortnightly letters and monthly Iris-messages to Percy; Percy accepts the letters and may decide separately about each Iris-message.
 - **REPORTED:** Tells Annabeth that Poseidon may want Percy back earlier and that Triton opposes removing him without Percy's choice. This is Triton's opinion/report, not a confirmed new order from Poseidon.
 - **Carry:** Spar with Clarisse ends in a declared draw; no real weapons or godly powers are used.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: travels from Atlantis through the sea and reaches the Sound before the meal. He reports that Poseidon checked the meal list and asked whether Tyson wanted to help at the grill or eat in peace. Triton takes cups to Chiron's porch after confirming where they belong and asks Poseidon about Tyson's hinge work.
+- **Carry-forward:** Triton and the other four remain Poseidon's children; no new gift, injury, or future visit is confirmed.

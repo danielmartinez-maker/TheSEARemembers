@@ -4,7 +4,30 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 097 (2026-10-15 candidate checkpoint)
+## Latest current-branch continuation: Chapter 098 (2026-10-15 candidate checkpoint)
+
+**Source revision:** local Chapter 098 candidate based on published PR head `c9ff34393533642b667355c2212cdfadf99af0e3`. Local QA is complete; hosted Actions for this candidate await its push.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **174** |
+| Below 10,000 actual body words | **19** |
+| Required additional body words to clear minimum | **132,170** |
+| Chapter-only every-offset 300-word windows | **1,805,052; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,013,909 body words; 1,955,604 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **31 passed** |
+
+**Chapter 098, Fathers' Day (Gods):** **6,261 → 10,121 body words** (**+3,860 net**). The Percy-limited revision keeps the survey public and on trial, preserves the dock and north-trail hazards, lets Clarisse tell Poseidon her firsthand memory of his brief visit, gives Silena and Thalia separate boundaries, and keeps Tyson's hinge work his own. Their fathers' apologies do not resolve long-term neglect. See the [Chapter 098 handoff](handoffs/ch098-fathers-day-gods.md) and [structured continuity record](../continuity/ch098.yaml).
+
+- **Phase 1:** Added a scene-specific handoff and structured continuity record, appended witnessed/reported/unknown facts to the cumulative ledger, and updated ten per-character state files. Chapter 097's map status, Chapter 099's late-August opening, injuries, promises and private memory boundaries remain explicit.
+- **Phase 2:** Corrected unsupported old-life details and private map leakage, kept Zeus unaware of erased-life memories, and did not infer that the approved Amphitrite photo was sent. Clarisse and Silena choose their own contact; Thalia's palm remains wrapped; the map, dock and north-trail issues stay open.
+- **Phase 3:** Added Friday logistics, the public-survey review, Saturday's shared meal and distinct father-child conversations. Scene-level review covers Chapters 098 and adjacent 097/099 boundaries. The expansion is source-specific rather than repeated praise or padding.
+- **Phase 4:** Local manuscript QA passes: 193/193 indexed and ordered; 174 pass / 19 short; 132,170 words remain; 1,805,052 chapter-only and 1,955,604 bonus-inclusive every-offset 300-word windows found zero exact matches; all 31 source-anchored memory checks pass; the evidence index rebuilds for all 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency. Hosted Actions are pending for the pushed Chapter 098 candidate.
+
+**Next chronological underlength chapter:** [099 Mothers](../chapters/099-mothers.md), **5,884 body words**, needs **4,116**. Chapter 098 closes after the Saturday meal; Chapter 099 opens in late August, and the exact elapsed time and whether Tyson's forge leave is the same visit remain unknown.
+
+## Superseded checkpoint: Chapter 097 (2026-10-15)
 
 **Source revision:** Chapter 097 is published in PR commit 577ec2a3e93ad2b960d5688e44381ebf77c3e0e9, based on previously verified head 88355d5edcbf525ffb2718ef535d6fc302c497f1. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790).
 

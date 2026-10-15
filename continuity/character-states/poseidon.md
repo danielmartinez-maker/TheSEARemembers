@@ -104,3 +104,8 @@
 - **[Ch023](../../chapters/023-sally-s-blue.md):** Clarisse tells Percy that Poseidon visited her once when she was eight and left after about ten minutes. Poseidon is not present and is not shown learning that she told Percy.
 - **[Ch032](../../chapters/032-triton-visits.md):** Triton's view about Poseidon wanting Percy back earlier is hearsay to Percy/Annabeth, not a direct Poseidon appearance or confirmed order. Poseidon's knowledge of that report is unknown.
 - No source in this range proves Poseidon knows the revised timeline or Percy's private memory gap.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: arrives from the Sound for the joint barbecue and asks his five children what they want from the visit. He hears Clarisse's account of his brief visit when she was eight and apologizes for leaving after ten minutes; he makes no claim that this repairs the hurt. He learns about Silena's menu work and her boundary against being made the family mediator. He hears Tyson explain the revised hinge angle and its seven tests.
+- **Choices / open promises:** Poseidon declines the prepared public speech, asks before helping, accepts Clarisse's no-hug answer and says he will ask the next morning whether she wants him at training. He also says he will hear the hinge click on a later forge visit. Neither plan is confirmed, and no overnight stay is established. He receives no Percy/Annabeth erased-life memory.
