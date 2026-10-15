@@ -39,7 +39,7 @@
 
 - **Body length:** 10,321 words by `audit_chapter_length.py`'s whitespace-token method.
 - **Full manuscript:** 193/193 indexed and ordered; 177 meet 10,000 words and 16 remain short, totaling 116,854 words to the floor. The chapter-only scan checked 1,821,045 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covered 196 files, 2,029,902 body words and 1,971,597 windows, with zero exact matches.
-- **Structure and memory:** All 33 source-anchored memory checks pass; the evidence index writes 193 provisional chapter locators; Python compile and chapter structure checks pass. One lexical introduction cue remains for human review in Chapter 014. Hosted Actions are tied to the pushed PR head and checked after publication.
+- **Structure and memory:** All 33 source-anchored memory checks pass; the evidence index writes 193 provisional chapter locators; Python compile and chapter structure checks pass. One lexical introduction cue remains for human review in Chapter 014. Both hosted Actions passed on revision commit `a6b53d8`: [full manuscript QA, run 468](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797) and [character memory consistency, run 230](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680).
 - **Coverage limit:** These mechanical results and the Chapter 101 scene review do not certify semantic, character-psychology or literary quality across all 193 chapters.
 
 ## Carry-forward to Chapter 102

@@ -1,6 +1,6 @@
 # Expansion handoff queue: original 55, now 16 still short
 
-**Latest local candidate QA after Chapter 101:** Branch `audit/four-phase-continuity-2026-10-13`, based on published head `50b57891de5482399f2c6a050ebbf2885513958c`. There are 193 indexed chapters; 177 pass the length floor, 16 remain short, and 116,854 body words remain. The chapter-only scan checked **1,821,045** every-offset 300-word windows with zero exact matches. The bonus-inclusive scan checked **196 Markdown files**, **2,029,902 body words** and **1,971,597 windows** with zero exact matches. All **33** source-anchored memory checks pass; the structure audit finds 193/193 chapters ordered. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Latest local candidate QA after Chapter 101:** Branch `audit/four-phase-continuity-2026-10-13`, based on published head `50b57891de5482399f2c6a050ebbf2885513958c`. There are 193 indexed chapters; 177 pass the length floor, 16 remain short, and 116,854 body words remain. The chapter-only scan checked **1,821,045** every-offset 300-word windows with zero exact matches. The bonus-inclusive scan checked **196 Markdown files**, **2,029,902 body words** and **1,971,597 windows** with zero exact matches. All **33** source-anchored memory checks pass; the structure audit finds 193/193 chapters ordered. Both hosted Actions passed on Chapter 101 revision commit `a6b53d8` ([full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797); [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680)). Independent literary signoff and remaining all-chapter memory evidence review remain open.
 
 **Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified candidate shortfall: **116,854 words** across **16** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
 
@@ -58,7 +58,7 @@
 | [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 10,121 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
 | [099](../../chapters/099-mothers.md) | Mothers | 10,166 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
 | [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 10,190 | 0 | **FOUR-PHASE REVISION; local QA pass; hosted status is in PR checks** |
-| [101](../../chapters/101-a-name-for-it.md) | A Name for It | 10,321 | 0 | **FOUR-PHASE REVISION; local QA pass; hosted status pending** |
+| [101](../../chapters/101-a-name-for-it.md) | A Name for It | 10,321 | 0 | **FOUR PHASES COMPLETE; local QA and hosted Actions pass** |
 | [102](../../chapters/102-not-a-competition.md) | Not a Competition | 1,538 | 8,462 | **NOT STARTED** |
 | [103](../../chapters/103-the-things-we-remember.md) | The Things We Remember | 1,520 | 8,480 | **NOT STARTED** |
 | [104](../../chapters/104-a-day-that-was-theirs.md) | A Day That Was Theirs | 1,818 | 8,182 | **NOT STARTED** |

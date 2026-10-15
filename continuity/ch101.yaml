@@ -132,4 +132,4 @@ qa:
   evidence_index_records: 193
   python_compile_pass: true
   whitespace_check_pass: true
-  hosted_actions_status: "Pending workflow results for the pushed PR head"
+  hosted_actions_status: "Both PR-triggered workflows passed on Chapter 101 revision commit a6b53d8; see the Chapter 101 handoff and PR checks."
