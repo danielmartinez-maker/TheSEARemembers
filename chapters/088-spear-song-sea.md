@@ -430,7 +430,7 @@ That night Percy woke from a nightmare — Luke's smile, cold water closing over
 
 After Silena's lesson, Percy discovered that knowing how to wrap a bandage wasn't the same as knowing what to do when someone was frightened.
 
-He had been helping return the first-aid kit to the infirmary when Theo, the boy they'd treated on the beach, came out of Will's room. The bandage was clean and his ankle was properly supported. He looked worried.
+He had been helping return the first-aid kit to the infirmary when Theo, the boy they'd treated on the beach, came out of Will's room. The bandage was clean and his calf was properly supported. He looked worried.
 
 "Did I do something wrong?" Theo asked.
 
@@ -534,7 +534,7 @@ It sounded stupid when he said it out loud. Annabeth was scribbling furiously an
 
 He taught them the way his father had coached him in recent dreams: slow exhale through the nose, let the water take the bubbles, inhale *intention*, not air. Feel the current as an extension of blood.
 
-Silena got it first. Of course she did — she sang to the sea every sunset. She slipped under, and Percy felt her heartbeat join the rhythm of the swell, steady and sweet. She stayed down ninety seconds and came up laughing, water streaming from her hair.
+Silena got the guided exercise first. Of course she did — she sang to the sea every sunset. She slipped under while Percy stayed close, keeping a small, steady current beside her. He felt her heartbeat join the rhythm of the swell, steady and sweet. She stayed down ninety seconds with him there and came up laughing, water streaming from her hair.
 
 "I heard it!" she gasped. "Percy, I heard the song down there! It's like — like a choir!"
 
@@ -548,7 +548,7 @@ Clarisse glared at him, salt stinging her eyes. "I don't — I'm not —"
 
 "It's okay to be scared," he said. "I was scared too."
 
-She stared at him. Then she took his hand — actually took it, calluses rough against his — and let him pull her under.
+She stared at him. Then she took his hand — actually took it, calluses rough against his — and let him guide her into the calmer water beside him.
 
 This time Percy stayed with her, forehead almost touching hers in the green gloom, breathing slow and visible, bubbles rising like prayers. *In. Out. Tide in. Tide out.* He projected calm the way he'd learned to project currents, wrapping her in still water.
 
@@ -618,19 +618,19 @@ Percy walked the rest of the way back to camp floating three inches off the grou
 
 Percy's sea lesson almost ended before anyone entered the water.
 
-He'd promised the others they could learn to breathe with the sea, but when Chiron arrived at the beach and asked him to explain the plan, he realized he was using the words *everyone can* for something only he had tested himself.
+He'd promised the others they could learn to breathe with the sea, but when Chiron arrived at the beach and asked him to explain the plan, he realized the words *everyone can* went beyond what he had tested himself — and beyond what the earlier guided practice had proved.
 
-"Can Clarisse breathe underwater as you do?" Chiron asked.
+"Can Clarisse breathe underwater independently as you do?" Chiron asked.
 
-"She can stay under longer than most people."
+"I stayed with her for two minutes," Percy said. "She held my hand, and I kept the water calm around us. I don't know whether she could repeat it on her own."
 
-"That isn't the same thing."
+"That distinction matters," Chiron said.
 
 Percy looked at his sister. She was standing beside the saltwater shallows with an impatient expression, though she was listening carefully.
 
-"I've never tried the full thing," Clarisse admitted.
+"I haven't tried the full thing on my own," Clarisse admitted. "With Percy there, I could stay under. I don't know what I can do without him."
 
-Silena shook her head. "Neither have I."
+Silena shook her head. "Neither have I. I could hear the song with him beside me, but I don't know if I can do it alone."
 
 Percy had been assuming that because they shared Poseidon as a father, the sea would respond to them in identical ways. That wasn't true of siblings anywhere else in camp. Thalia and Annabeth didn't use their father's power in precisely the same way, and Tyson's abilities were different from Percy's despite their shared parentage.
 
@@ -670,7 +670,7 @@ They rehearsed the emergency gestures with both sisters and the lifeguard. The c
 
 Then he demonstrated underwater breathing alone, for a short period, while the others observed from the marked safe area. Clarisse was fascinated, but she didn't ask to try it without understanding whether she had the same capacity.
 
-"Could I learn eventually?" she asked.
+"Could I learn to do it on my own eventually?" she asked.
 
 "Maybe," Percy said. "We can ask Dad and the Atlantean instructors whether there's a safe way to test it. I can't promise."
 
@@ -872,9 +872,9 @@ Clarisse asked the counselor to add him to the next session's volunteer list. Pe
 
 Percy laughed. The words sounded like Clarisse, but the meaning had changed over the months they'd trained together. She could still be loud and difficult. She could also admit a mistake in front of the camper she taught and ask for a second attempt.
 
-Silena came back carrying the cleaned first-aid kit. Theo had chosen not to attend the spar because his ankle still needed rest, but he'd asked her to tell him the result. She would, when he was ready, without inventing a story about how the team had conquered an impossible enemy.
+Silena came back carrying the cleaned first-aid kit. Theo had chosen not to attend the spar because his calf wound still needed rest, but he'd asked her to tell him the result. She would, when he was ready, without inventing a story about how the team had conquered an impossible enemy.
 
-"How's the ankle?" Percy asked.
+"How's your calf?" Percy asked.
 
 "Will says it's healing well. Theo asked me to stop checking it every hour, remember?"
 

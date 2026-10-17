@@ -842,7 +842,7 @@ Annabeth was the last to enter. She checked that Grover's searcher license had b
 
 "Are you going to tell the others at camp about Sally?"
 
-"I'll tell Clarisse and Silena the part I can explain. The written answer says she isn't being punished. I don't need everybody to know the rest of what it feels like."
+"I'll tell Clarisse and Silena the part I can explain. The written answer says she isn't being punished. I don't need everybody to know the rest of what it feels like. I can share more if I ever find words for it."
 
 Annabeth nodded. "That sounds right."
 

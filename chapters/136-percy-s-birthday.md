@@ -52,7 +52,7 @@ Percy turned. "Like what?"
 
 "Like the way everyone says you remember every corner of the palace. They ask you to tell stories, and sometimes you look as if you'd rather be somewhere else."
 
-His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In the life Percy remembered, his mother had baked him blue food in a small Manhattan kitchen and lived long enough to see him become a teenager. The memory of that birthday cake came without effort. Recalling the nursery Triton talked about felt like reading the back of a photograph someone had labeled for him.
+His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life. His sisters knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. Silena had heard him say that Sally took pictures in the life he remembered, but that fact was something Percy had told her; it wasn't a memory she could carry for him. In the life Percy remembered, his mother had baked him blue food in a small Manhattan kitchen and lived long enough to see him become a teenager. The memory of that birthday cake came without effort. Recalling the nursery Triton talked about felt like reading the back of a photograph someone had labeled for him.
 
 "I like hearing the stories," he said carefully. "I just don't always know what to add."
 

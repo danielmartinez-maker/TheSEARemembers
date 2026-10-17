@@ -345,10 +345,13 @@ CHECKS = {
     "chapters/136-percy-s-birthday.md": {
         "present": ('Percy felt the old unease, soft and familiar. "It\'s a good place for it."',
                     "To her, it was an ordinary family anecdote from the childhood she knew he had lived.",
-                    "He kept that distinction private."),
+                    "He kept that distinction private.",
+                    "Silena had heard him say that Sally took pictures in the life he remembered",
+                    "it wasn't a memory she could carry for him."),
         "absent": ('Percy felt the old unease, soft and familiar. "Did I?"',
                    "not expecting him to supply an answering memory",
-                   "Both truths could live in him without being explained to her tonight."),
+                   "Both truths could live in him without being explained to her tonight.",
+                   "neither did his sisters"),
     },
     "chapters/145-the-lake-keeps-what-it-takes.md": {
         "present": ("You are my boyfriend.", "I know I love you. I know I chose this life with you."),

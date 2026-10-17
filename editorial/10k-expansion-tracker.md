@@ -6,20 +6,20 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Current manuscript content on PR #103 head `a88e710`, followed by a continuity-ledger wording clarification. Fresh strict QA after the Chapter 054 dream-conversation callback reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval. Hosted [full-manuscript QA, run 514](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39071817916) and [character-memory run 253](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39071817913) passed on exact PR head `a88e710`; subsequent edits change continuity/audit documentation only, and current PR-head validation is tracked on PR #103.
+**Source:** Follow-on candidate based on PR #103 head `6b68e2b`. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 now contain **10,049** and **10,376** body words. These are mechanical counts, not editorial approval. Hosted [full-manuscript QA, run 516](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39072155966) and [character-memory run 254](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39072155940) passed on parent PR head `6b68e2b`; they predate this follow-on, so current-head status must be read from PR #103 after it is pushed.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-word windows | **1,942,117; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,150,974 body words / 2,092,669 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,942,581; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,151,438 body words / 2,093,133 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **45 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; 50 selected character timelines with exact-name candidate maps; exhaustive per-character matrix remains incomplete** |
 
-The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. A repository-wide local-link check covered 5,076 relative Markdown links with zero missing targets. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 
@@ -200,7 +200,7 @@ Chapter 090, *Storm and Sea*, was committed at `4c592e0fdd04e66a13485e44f60b4e46
 - [067, Fishing](../chapters/067-fishing.md): **5,758 → 10,292** words; [memory handoff](../continuity/ch067.yaml).
 - [068, The Storm (Small)](../chapters/068-the-storm-small.md): **5,529 → 10,328** words; [memory handoff](../continuity/ch068.yaml).
 - [070, Clarisse's Poems](../chapters/070-clarisse-s-poems.md): **6,072 → 10,543** body words (**+4,471 net**); [character, prop and permission handoff](handoffs/ch070-clarisses-poems.md). Chapter length passes, but independent semantic/prose signoff is open.
-- [069, Silena's Song](../chapters/069-silena-s-song.md): **6,001 → 10,118** words; [scene handoff](handoffs/ch069-silenas-song.md).
+- [069, Silena's Song](../chapters/069-silena-s-song.md): **6,001 → 10,376** words; [scene handoff](handoffs/ch069-silenas-song.md).
 - [071, Anniversary](../chapters/071-anniversary.md): **5,995 → 10,145** body words; [continuity handoff](handoffs/ch071-anniversary.md).
 - [072, New Kids](../chapters/072-new-kids.md): **5,751 → 10,093** body words; [continuity handoff](handoffs/ch072-new-kids.md).
 - [073, The Play](../chapters/073-the-play.md): **5,604 → 10,245** body words; [continuity handoff](handoffs/ch073-the-play.md).

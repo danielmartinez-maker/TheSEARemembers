@@ -10,6 +10,13 @@ Use before drafting or revising **every** chapter. The facts belong to the chara
 4. For Percy and Annabeth, distinguish **original-life memories**, **new current-chapter memories**, and **altered-childhood stories they were told**. Never let Amphitrite deduce or learn their timeline secret unless the author explicitly changes that locked rule.
 5. After the scene, record what changed, who witnessed it, and what the next chapter must carry forward.
 
+## Confirmed carry-forward added in this pass
+
+- **Chapter 056:** Percy tells Annabeth the Hades record says Sally is not under punishment and that he may share more about his grief only if he finds words for it. His planned limited debrief is not itself a fuller disclosure to Clarisse, Silena, or camp (see the [049–060 ledger](chapter-ledgers/049-060.md#L62)).
+- **Chapter 064:** Percy intends to offer Annabeth the silver band and let her decide what to do with the living petals; he has not yet conveyed the offer by the chapter close (see the [061–068 ledger](chapter-ledgers/061-068.md#L31)).
+- **Chapter 088 → 090:** Percy, Clarisse, and Silena share a current-life camp memory of training in the cove behind Cabin Three on calm summer mornings, making water slides and whirlpools for fun (Ch090 L409; see the [090–100 ledger](chapter-ledgers/090-100.md#L27) and [character profiles](character-states/percy.md#L139)). The routine is firsthand for all three; its dates are unknown. It does not give Percy autobiographical memories of his altered Atlantis childhood or a camp childhood.
+- **Chapter 069:** Kayla leaves Silena’s requested slot unnamed and open; Silena chooses one unaccompanied song and names her stop condition, with Clarisse offering support without deciding for her. Percy declines a private invitation to play one note in the group song; later he chooses one verse for Annabeth after a private check, with no public call or chant (see the [069–072 ledger](chapter-ledgers/069-072.md#L7)).
+
 ## Copy this for each chapter
 
 ~~~yaml
@@ -59,6 +66,11 @@ qa:
 - **Chapter 118:** The next greeting can naturally be 'Mom'. Her presence is familiar, not a first encounter.
 - **Chapter 123:** She already knows Annabeth, Clarisse and Silena, so she welcomes them back rather than introducing herself.
 - **Chapters 126–127:** Percy can love Amphitrite and still long for Sally. Amphitrite knows the changed household history, **not** Percy's secret inability to remember living it.
+
+## Targeted continuation: reported memories stay with their source
+
+- **Chapter 130 → Chapter 136:** Percy tells Silena that Sally took pictures in the life he remembers. Chapter 136 now carries that limited report forward: Silena knows the fact Percy chose to tell her, but does not carry his memories; Clarisse's knowledge of this specific fact is unstated. Amphitrite remains unaware of Percy's memory predicament. See the [130–139 audit](chapter-ledgers/131-139.md#L86) and the [Percy](character-states/percy.md#L226) and [Silena](character-states/silena.md#L204) profiles.
+- **Chapter 148:** Annabeth tells Silena that she was Athena's daughter in the life she remembers and describes her former mapmaking motive. Silena receives that disclosure as a report, not as autobiographical memory. Annabeth's public map and detailed master survey have different access rules; do not merge them with her later north-path survey. See the [145–148 audit](chapter-ledgers/145-148.md#L1), [Annabeth](character-states/annabeth.md#L238), and [Silena](character-states/silena.md#L214) profiles.
 
 Do not require Percy to say 'Mom' in every line. **A formal title, uncertainty, or an argument can change how he addresses her. It cannot reset their shared history.**
 
@@ -125,3 +137,9 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Ch100→Ch101:** Opens at breakfast the morning after Chapter 100's late-night Half-Blood Hill close. Tyson's return from the fire is not shown.
 - **Ch101→Ch102:** Percy and Annabeth remain established partners; Thalia's palm remains wrapped; the shrine shelf is not load-tested; Noah's shield practice is distinct from the following morning's spear lesson; Percy owes Silena an orange.
 - **Coverage limit:** This is a source-scoped review of Chapter 101 with adjacent boundaries checked. Chapters 037–089 and 102–193 still require their own scene-level evidence.
+
+## Targeted cross-chapter continuation (2026-10-17)
+
+- Chapter 030 already introduced Amphitrite to Percy's camp friends; Chapter 118 now distinguishes friends she has met from newer people she has not. Preserve the established familiarity and the invitation's non-coercive tone. See [Ch030](../chapters/030-amphitrite-visits.md#L727), [Ch118](../chapters/118-a-message-from-amphitrite.md#L95), and the [114–120 ledger](chapter-ledgers/114-120.md#L60).
+- The 101–110 and 114–120 ledgers now supply source-anchored handoffs for Percy and Annabeth's relationship choices, the shelf test, Triton's song report, and the unplanned Atlantis invitation. Use the [Percy](character-states/percy.md#L206) and [Annabeth](character-states/annabeth.md#L208) profiles for the selected carry-forward states.
+- Chapters 130, 136, and 148 are explicitly linked in the character profiles and audit notes: Silena receives two bounded reports, one from Percy about Sally's photographs and one from Annabeth about her remembered parentage/mapping history. Neither report grants her autobiographical memory. These additions are targeted, not exhaustive scene coverage for every character in Chapters 001–193.

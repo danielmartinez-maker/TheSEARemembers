@@ -392,7 +392,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/025-night-watches.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 80, Percy 71, Thalia 65, Clarisse 63, Silena 58, Grover 58, Chiron 30, Luke 7, Zeus 7, Beckendorf 6
+- Name appearances (not proof of presence): Annabeth 80, Percy 73, Thalia 65, Clarisse 63, Silena 60, Grover 58, Chiron 30, Luke 7, Zeus 7, Beckendorf 6
 - Event/action candidates to inspect in context:
   - Line 13: "It means stay inside the borders after dark unless you're on patrol," Luke said, already scanning the sign-up sheet. He looked tired. He always looked a little tired since Percy arrived, he thought, in a way that had nothing to do with sle
   - Line 29: "Night patrol," Thalia said, slinging an arm around Percy's shoulders and grinning, her black hair crackling faintly with static. "You and me, Kelp Head. Try to keep up."
@@ -1095,7 +1095,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/069-silena-s-song.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Silena 156, Clarisse 71, Percy 70, Annabeth 56, Thalia 28, Grover 21, Chiron 6, Poseidon 3, Nico 3, Amphitrite 1
+- Name appearances (not proof of presence): Silena 153, Clarisse 69, Annabeth 68, Percy 66, Thalia 25, Grover 19, Chiron 5, Poseidon 3, Nico 3, Amphitrite 1
 - Event/action candidates to inspect in context:
   - Line 7: It was not her guitar. The Apollo cabin kept it in a cupboard beside three cracked tambourines, a lyre with one missing string, and the drum Austin had once used to keep time for an entire song in the wrong time signature. Silena had only o
   - Line 11: “I’m not being held here hostage by a guitar,” Silena said. “It’s just that this string is wrong.”
@@ -1399,7 +1399,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/088-spear-song-sea.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 195, Clarisse 176, Silena 137, Annabeth 71, Thalia 52, Chiron 26, Poseidon 10, Tyson 2, Luke 2, Sally 1
+- Name appearances (not proof of presence): Percy 197, Clarisse 176, Silena 137, Annabeth 71, Thalia 52, Chiron 27, Poseidon 10, Tyson 2, Luke 2, Sally 1
 - Event/action candidates to inspect in context:
   - Line 5: By the time the training block began, Will had cleared him for ordinary, supervised practice. Sea work stayed inside the marked saltwater area, and Percy was to stop if the dizziness returned; clearance did not include holding back another
   - Line 15: "It's 0700," Clarisse said. "Barely dawn is for Aphrodite kids. Poseidon kids train at dawn. Dad would be ashamed."
@@ -2165,7 +2165,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/136-percy-s-birthday.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 167, Clarisse 47, Silena 47, Tyson 46, Triton 43, Poseidon 31, Annabeth 25, Amphitrite 24, Thalia 21, Sally 3
+- Name appearances (not proof of presence): Percy 168, Silena 48, Clarisse 47, Tyson 46, Triton 43, Poseidon 31, Annabeth 25, Amphitrite 24, Thalia 21, Sally 4
 - Event/action candidates to inspect in context:
   - Line 17: "Don't listen to her," Silena said. "We brought breakfast."
   - Line 21: "Eat," Clarisse ordered, tossing a still-warm muffin at his head. He caught it one-handed. "Before I change my mind and dunk you."
@@ -2173,7 +2173,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 31: "To my baby brother," Silena said softly, and bumped her muffin against Percy's.
   - Line 35: "So," Percy said around a mouthful. "Is Dad doing the whole—"
 - Memory/disclosure candidates to inspect:
-  - Line 55: His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In t
+  - Line 55: His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life. His sisters knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. Silena had heard him s
   - Line 273: She took one step, stopped and snorted. Percy backed up half a pace, giving the line slack. Triton didn't tell him to hurry. A minute later the mare stepped forward again. Her first crossing was ugly and awkward, with one hoof lifted absurd
   - Line 321: Percy laughed. Triton had no idea how much the permission mattered. If he asked why Percy sometimes looked lost during those childhood stories, the answer would pull at a secret Percy was not ready to give the palace, or Amphitrite, or his
 

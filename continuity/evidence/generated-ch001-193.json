@@ -2958,11 +2958,11 @@
       "path": "chapters/025-night-watches.md",
       "title": "Chapter 25: Night Watches",
       "name_mentions": {
-        "Percy": 71,
+        "Percy": 73,
         "Annabeth": 80,
         "Thalia": 65,
         "Clarisse": 63,
-        "Silena": 58,
+        "Silena": 60,
         "Amphitrite": 3,
         "Poseidon": 2,
         "Triton": 3,
@@ -8246,16 +8246,16 @@
       "path": "chapters/069-silena-s-song.md",
       "title": "Chapter 69: Silena's Song",
       "name_mentions": {
-        "Percy": 70,
-        "Annabeth": 56,
-        "Thalia": 28,
-        "Clarisse": 71,
-        "Silena": 156,
+        "Percy": 66,
+        "Annabeth": 68,
+        "Thalia": 25,
+        "Clarisse": 69,
+        "Silena": 153,
         "Amphitrite": 1,
         "Poseidon": 3,
         "Triton": 1,
-        "Chiron": 6,
-        "Grover": 21,
+        "Chiron": 5,
+        "Grover": 19,
         "Nico": 3,
         "Luke": 1,
         "Zeus": 1
@@ -8341,7 +8341,7 @@
           "excerpt": "Halfway to the path, she heard footsteps coming from the camp. A younger camper appeared around the bend, walking fast and looking down at the trail. Silena recognized him from the Hermes cabin, though she could not remember his name. He ca"
         },
         {
-          "line": 411,
+          "line": 449,
           "named": [
             "Clarisse"
           ],
@@ -10541,7 +10541,7 @@
       "path": "chapters/088-spear-song-sea.md",
       "title": "Chapter 88: Spear, Song, Sea",
       "name_mentions": {
-        "Percy": 195,
+        "Percy": 197,
         "Annabeth": 71,
         "Thalia": 52,
         "Clarisse": 176,
@@ -10549,7 +10549,7 @@
         "Poseidon": 10,
         "Tyson": 2,
         "Sally": 1,
-        "Chiron": 26,
+        "Chiron": 27,
         "Luke": 2,
         "Zeus": 1
       },
@@ -16182,16 +16182,16 @@
       "path": "chapters/136-percy-s-birthday.md",
       "title": "Chapter 136: Percy's Birthday",
       "name_mentions": {
-        "Percy": 167,
+        "Percy": 168,
         "Annabeth": 25,
         "Thalia": 21,
         "Clarisse": 47,
-        "Silena": 47,
+        "Silena": 48,
         "Amphitrite": 24,
         "Poseidon": 31,
         "Triton": 43,
         "Tyson": 46,
-        "Sally": 3,
+        "Sally": 4,
         "Chiron": 3,
         "Grover": 1,
         "Zeus": 1
@@ -16255,11 +16255,12 @@
           "line": 55,
           "named": [
             "Percy",
+            "Silena",
             "Amphitrite",
             "Triton",
             "Sally"
           ],
-          "excerpt": "His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In t"
+          "excerpt": "His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life. His sisters knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. Silena had heard him s"
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -16267,11 +16268,12 @@
           "line": 55,
           "named": [
             "Percy",
+            "Silena",
             "Amphitrite",
             "Triton",
             "Sally"
           ],
-          "excerpt": "His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In t"
+          "excerpt": "His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life. His sisters knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. Silena had heard him s"
         },
         {
           "line": 273,

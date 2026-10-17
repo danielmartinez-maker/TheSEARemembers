@@ -350,6 +350,52 @@ She could still turn around. The path was open behind her. No one stood in it. S
 
 ---
 
+The conch was too large for the shelf it sat on in Tempest Hall, and Percy found it because he had been looking for something that would make a noise louder than the water running through the pipes.
+
+Annabeth sat on a low stone bench while Silena worked the last part of her braid. A handful of loose shells lay between them, catching the thin afternoon light. Percy picked up the conch and turned it over. Its mouth was pink, the spiral pale as bone.
+
+"You going to try it?" Annabeth asked.
+
+"Maybe." He rubbed his thumb across the lip. "It's probably full of water."
+
+"It's a conch, Seaweed Brain. It has been in the ocean."
+
+"Which is why it might be full of water."
+
+Silena laughed, the braid sliding loose in her hands. "Go ahead. If you spray me, I'll make you clean the whole bench."
+
+Percy held the shell carefully and put it to his mouth. He tried a low note, the kind of sound that should have rolled through the hall like a ship calling across a harbor. Instead, the conch made a high, ragged *BWAAAAAP* that cracked into a squeak.
+
+Annabeth looked down at the shell. "I think it wants you to stop."
+
+"It doesn't know what it wants yet," Percy said. He wiped the edge against his shirt and tried again, softer this time. The note sank, wavered, then broke into another ugly rasp. Somewhere beyond the open doors, a gull answered with a complaint of its own.
+
+Silena's smile turned thoughtful. "That would sound pretty under the sailing song. A low boom before the chorus."
+
+Percy glanced at Annabeth, who was watching the conch with the same concentration she gave a puzzle. The note was awful, but he liked the idea of finding its right shape. "I can try it with you while you rehearse."
+
+"Only if you want," Silena said. She went back to Annabeth's braid. "I meant the sound. I'm not putting your name on the program."
+
+"Good. I haven't even made the sound yet." Percy set the conch on the bench. "I might decide it's only funny in this room."
+
+"Then it's only funny in this room," Annabeth said. "You don't have to take it somewhere else."
+
+The answer let him unclench his jaw. He liked trying the note while Silena listened. He liked that Annabeth had laughed with him instead of making the noise into a dare. The two things felt different from carrying the shell to the campfire and being expected to repeat it for a crowd.
+
+By the time Silena finished the braid, the sun had moved across the high windows. Percy left the conch where it was and walked to the dock with the tune still stuck in his head. The first line that came to him was about Annabeth and books. The rhyme was bad. He kept it anyway, then tried another line about the way she saw a battle before anyone else had noticed the pieces on the board.
+
+He did not write it down. He said the verse under his breath until it had a beginning and a last line, stumbling over the meter, laughing once at the part about *books* and *looks*. When Silena came to the dock a few minutes later, he told her what he had made, voice low, eyes on the water.
+
+She listened without interrupting. When he finished, she took both his hands in hers. "That's yours," she said. "If you want Annabeth to hear it, she will. You don't have to sing it for anyone else."
+
+Percy nodded, suddenly more embarrassed than he had been about the conch. "Don't tell her yet."
+
+"I won't."
+
+He carried the shell with him when they walked back toward the fire. The verse stayed in his head, where it was private until he chose otherwise.
+
+---
+
 The campfire had been burning for an hour before Silena agreed to sing.
 
 It was a Friday night in April, the kind of night Camp Half-Blood did best. The air had gone crisp at the edges but the fire kept the amphitheater warm. The sky was a deep, star-crowded blue. The logs in the center pit crackled and threw sparks up in orange spirals, and the Apollo cabin had already done their usual opening set — three fast songs on lyres and drums that got the Hermes cabin standing on benches and the Ares cabin banging their shields in time.
@@ -364,25 +410,17 @@ Grover sat on the step just below them, his reed pipes in his lap, his legs fold
 
 "All right!" Kayla Knowles stood up in front of the fire with her guitar. She was Apollo cabin, fifteen and loud and completely in charge of campfire nights. "That was the warm-up. Now for the real show."
 
-Austin Lake, her brother, tapped his drum twice. "We got a request. Actually, we got like twenty requests. All for the same person."
+Austin Lake, her brother, tapped his drum twice. "The request pile is full. The next slot is open; nobody is on it until someone asks."
 
 The fire popped. Someone in the back whistled.
 
-Kayla grinned straight at the third row. "Silena! Get up here!"
+Kayla lifted a hand, smiling but not looking toward any particular row. "We have an open slot. If someone wants it, come tell me. If not, Austin has another song ready."
 
-Silena froze.
+She set her guitar against the stool and stepped away from the center of the fire. Austin laid his sticks across the drum. The open space stayed open.
 
-Percy felt it more than saw it — the sudden stillness beside Clarisse. Silena's fingers stopped twisting her sleeve. Her breath caught.
+Percy felt Silena go still beside Clarisse. Her fingers stopped twisting her sleeve. Her breath caught.
 
-"No," she whispered, just loud enough for their little group to hear. "No, no, no. Kayla, no."
-
-"Yes!" Travis Stoll shouted from two rows back. "Silena! Come on!"
-
-"WE LOVE SILENA!" Connor Stoll cupped his hands around his mouth.
-
-Pollux from Dionysus cabin started clapping. Then Austin joined in on the drum, a slow coaxing beat, and then the whole amphitheater was clapping in rhythm.
-
-Silena sank lower in her sweater. "I can't. I told her maybe. I didn't mean tonight."
+"No," she whispered, just loud enough for their little group to hear. "No, no, no. I told her maybe. I didn't mean tonight."
 
 Clarisse turned and looked at her sister. Really looked at her. Her scowl, which was usually set to a permanent low simmer, softened around the edges.
 
@@ -404,7 +442,7 @@ Annabeth nodded hard. "He does. He literally floats there like an idiot with his
 
 "I do not float with my mouth open," Percy protested.
 
-"You absolutely do," Annabeth said, and bumped his shoulder with hers. "But he's right. You're good."
+"You absolutely do," Annabeth said, and bumped his shoulder with hers. "But he's right. You're good. And you don't owe anyone a song."
 
 Silena looked between them, her cheeks going pink in the firelight. "You guys are just saying that because you're my — because we're —"
 
@@ -440,31 +478,33 @@ Clarisse smirked. "Tactical motivation."
 
 "She brought the house down," Clarisse said. She said it flatly, like a war report. Like it was a fact you could not argue with. "Mrs. Alvarez cried. Your mom cried. I didn't cry because I was seven and tough, but I almost did. And after, Mrs. Alvarez said she'd been an idiot."
 
-The clapping had gotten louder. Kayla was gesturing wildly. Austin had switched to a little fanfare.
+The open space by the fire was still waiting. Kayla had not called her name again; Austin had left his sticks resting across the drum.
 
 Silena looked at Clarisse. Clarisse looked back, steady and sure.
 
-"Same deal as second grade," Clarisse said. "You sing. I sit here. If anyone laughs, I throw them in the lake. Deal?"
+"Same deal as second grade," Clarisse said. "I can sit with you if you want me there. You can stay here if you don't. Nobody gets to decide for you."
 
-Silena swallowed. Then she nodded, just once.
+Silena swallowed. She looked from Clarisse to Percy and Annabeth, then at the empty place beside the fire.
 
-"Deal," she whispered.
+"I want to sing the first song," she said. "Just one, and no music. If I change my mind, we stop."
 
-Clarisse stood up and hauled Silena to her feet by both hands like she was pulling her out of deep water. The amphitheater erupted.
+"Of course," Clarisse said.
 
-"YEAH!" Percy yelled, on his feet too, whistling with two fingers the way Triton had taught him. Annabeth was on her feet beside him, clapping hard. Thalia let out a sharp patrol whistle that made Grover jump awake.
+Silena stood on her own. Clarisse rose beside her and held out a hand, palm up. Silena took it. They started down the stone steps together. When Silena raised her free hand in a small wave, the amphitheater answered with cheers. She kept Clarisse’s hand and went on.
+
+"YEAH!" Percy yelled, whistling with two fingers the way Triton had taught him. Annabeth was on her feet beside him, clapping hard. Thalia let out a sharp patrol whistle that made Grover jump awake.
 
 "Go, Silena!" Grover bleated, scrambling upright and nearly dropping his pipes.
 
-Silena walked down the stone steps toward the fire with Clarisse half a step behind her, like a bodyguard. Halfway down, Silena turned and grabbed Clarisse's wrist.
+Halfway down, Silena turned and caught Clarisse's wrist.
 
-"Stay?" she whispered.
+"Will you stay beside me while I sing?" she whispered.
 
-Clarisse blinked. "Up there? In front of everyone?"
+Clarisse blinked. "Right beside you? In front of everyone?"
 
 "Please. Just for the first song. Please."
 
-For a second Clarisse looked like she wanted to argue. Clarisse La Rue did battlefields, not stages. But Silena was looking at her with those big dark eyes, and Clarisse sighed the sigh of a sister who knows she has already lost.
+For a second Clarisse looked like she wanted to argue. Clarisse La Rue did battlefields, not stages. Then she saw Silena's hand still holding hers and let out a breath. This was a small thing she could do for her sister.
 
 "Fine," she muttered. "But I'm not singing."
 
@@ -472,13 +512,13 @@ For a second Clarisse looked like she wanted to argue. Clarisse La Rue did battl
 
 "I can do that," Clarisse said. "That's literally my best thing."
 
-They took their places by the fire. Kayla handed Silena her spare guitar, but Silena shook her head.
+They took their places by the fire. Kayla kept her guitar on the stool instead of putting it into Silena's hands.
 
 "Can I — can I just sing? No music for the first one? It's an old one. It's better without."
 
-Kayla looked down at the guitar in Silena’s hands. “You don’t want me to start it?”
+"Of course," Kayla said. "It's your song, and your call."
 
-“No. I know where it starts.”
+“I know where it starts.”
 
 “All right.” Kayla kept her voice low, even though the first rows could hear. “Do you want me to stay up here?”
 
@@ -500,9 +540,9 @@ Silena thought about the boy with the tin whistle. He had played six notes, stop
 
 Clarisse nodded. “Then try.”
 
-Silena handed the guitar back to Kayla. The instrument felt safe against her body; empty hands felt less so. She put both hands together in front of her, then let them fall to her sides. She did not have to hold anything to keep her place.
+Kayla kept the guitar at her own side. Silena put her hands together in front of her, then let them fall. They felt too empty, but she did not need to hold anything to keep her place.
 
-Kayla took the guitar and stepped away. Austin moved his drum farther from the fire so its rim would not catch on a log. Nobody rushed to fill the pause. The arrangement Silena had made in the afternoon was not a guarantee that the crowd would be quiet or that her voice would behave. It was a small piece of room around the choice.
+Kayla took the guitar and stepped away. Austin moved his drum farther from the fire so its rim would not catch on a log. Nobody rushed to fill the pause. The afternoon's plan could not promise the crowd would stay quiet or that her voice would cooperate. It had only made room for her to say yes or no.
 
 She drew a breath and looked at Clarisse once more. Her sister was still there. That was all she needed from her.
 
@@ -584,83 +624,25 @@ Clarisse looked at the crowd, at the fire, at her sister's hopeful face. She gro
 
 She stayed, leaning against a log with her arms crossed, trying to look casual and failing because she kept smiling.
 
-"So," Kayla said, "Silena says the next one needs accompaniment. And we have a very special, very brave volunteer."
+"The next one needs accompaniment," Kayla said, looking around the fire. "Who wants to join us?"
 
-Percy went cold.
+Percy's hand closed around the smooth edge of the conch beside his knee. In Tempest Hall, the noise had been funny among the few people who knew he was still figuring it out. Here, under all these faces, the same sound felt different.
 
-"No," he said.
+Silena noticed his hand. She came close enough that the fire covered her words. "Do you want to try one note with us?"
 
-"Yes," Annabeth said beside him, grinning wickedly. "Go on, Fish Boy."
+Percy shook his head. "Not here."
 
-"No, no, no," Percy said, sliding down in his seat. "I said I'd hold the shell. I didn't say I'd play it in public."
+Annabeth's shoulder came back against his. "You liked trying it at Tempest Hall."
 
-It had started that afternoon. Percy had found a big conch in Tempest Hall and discovered that if you blew into it just right you could make a deep boom that echoed off the tile. Silena had looked up from braiding Annabeth's hair and said, dreamily, "Oh, that would sound so pretty under the sailing song."
+"With a couple of people," he said. "I was trying to find the note. That's not the same as doing it because everyone is staring."
 
-And Percy, who would have agreed to fight the Minotaur again if Silena asked him in that voice and Annabeth was watching, had said, "Yeah, I could do that."
+"Okay," Annabeth said.
 
-He could not do that.
+The shell rested in his hands, smooth at the rim and heavy with the sound it could make. He had imagined the camp laughing and didn't mind. What bothered him was the second laugh that might follow, the part where they expected another try. Silena accepted his answer without explaining it to the crowd or asking again. Nothing in her face said he had disappointed her. The question did not become a scene. Percy set his hand on his knee and let the song start without him.
 
-"Percy Jackson!" Kayla called. "Get down here with your horn!"
+"We have enough," Silena told the others. "Let's start."
 
-The camp turned and looked at him. Travis started chanting. "PER-CY! PER-CY! PER-CY!"
-
-Annabeth leaned in close, her gray eyes dancing. Her blonde hair was coming loose from the braid Silena had done, curling around her face in the heat. "Go on," she murmured. "You promised your sister."
-
-"She's my sister, not my captain," Percy muttered, but he was already standing, the big pink conch in his hands. He'd stashed it under the bench like an idiot, hoping everyone would forget.
-
-"Break a leg!" Thalia called, saluting him with a marshmallow on a stick.
-
-"You'll be great!" Grover said earnestly. "Just — you know. Breathe from your diaphragm. Like pipes. Except louder. And wetter."
-
-Percy trudged down to the fire to a chorus of cheers and Stoll-whistles. Silena beamed at him.
-
-"Okay," she whispered as he took his place beside her. "So you just do the low boom on the chorus. Like this — *boom — boom-boom.* Like waves hitting the hull. You remember?"
-
-"I remember in theory," Percy whispered back. "In practice, last time I summoned seagulls."
-
-"That was one time," Silena said.
-
-"It was three times," Clarisse said helpfully. "And one pelican. That pelican looked traumatized."
-
-"Just try," Silena said, patting his arm. "If it's bad, it'll be funny. Funny's good too."
-
-Percy lifted the conch to his lips. The camp went quiet, expectant. Annabeth cupped her hands around her mouth. "You got this, Seaweed Brain!"
-
-Percy puffed out his cheeks and blew.
-
-What came out was not a foghorn boom.
-
-It was a sound like a goose being stepped on by a Cyclops.
-
-A high, wobbling, sputtering *BWAAAAAAAP* that cracked halfway through and ended in a sad little squeak. The fire seemed to flicker in shock. A second later, from somewhere out over the woods, three seagulls answered in alarm.
-
-The amphitheater was silent for one terrible second.
-
-Then it detonated.
-
-Laughter rolled down the stone steps like a wave. Travis fell off his bench. Connor was howling. Even Chiron was chuckling into his hand. Thalia laughed so hard she dropped her marshmallow into the fire. Grover clapped his hooves against the step, wheezing.
-
-Percy's ears burned bright red. He lowered the conch and stared at it like it had betrayed him.
-
-"I hate this thing," he announced. "This is a cursed shell. This shell hates me."
-
-Silena was laughing so hard she had to hold her stomach. Clarisse was laughing too, loud and unrestrained, pointing at him.
-
-"Fish Boy!" Clarisse gasped. "You — you sound like — like a drowning tuba!"
-
-"Thank you, sister," Percy said with great dignity. "Your support means everything."
-
-Annabeth was wiping tears from her eyes, leaning against Thalia, who had an arm around her shoulders and was shaking with laughter.
-
-"Again!" someone shouted. "Do it again!"
-
-"No!" Percy said. "Absolutely not. This shell and I are getting a divorce."
-
-Silena caught her breath and wiped her eyes. "No, no — Percy, that was perfect. Do you know what? Keep it. Just — just play it exactly like that. It'll be our foghorn. Our very broken foghorn."
-
-"Are you sure?" Percy said. "I don't want to ruin your song."
-
-"You could never," Silena said simply, and Percy felt his whole face go warm for a different reason. "Ready? Sailing song. Two, three —"
+Kayla picked up her guitar, Austin raised his sticks, and Silena joined them by the fire. Percy kept the conch against his knee. Annabeth's shoulder touched his and stayed there, with no nudge or dare. When Grover's pipes found the tune, Percy listened with his hands empty, relieved he could enjoy the song without turning his private experiment into something he owed the whole camp.
 
 She nodded at Grover. Grover lifted his pipes to his lips, his fingers dancing. A bright, reedy tune spun out — quick and merry, all sunlight on rigging and wind in sails. Kayla joined on guitar, Austin on drum, and Silena clapped twice and launched into the chorus, her voice switching from lullaby-sweet to brassy and joyful like she'd flipped a switch.
 
@@ -669,9 +651,7 @@ She nodded at Grover. Grover lifted his pipes to his lips, his fingers dancing. 
 *Raise the sail and bail the pail and sing until we drop,*
 *The sea goes on forever and the singing never stops!*
 
-The camp clapped along. Percy, taking his cue, lifted the conch and let out another tremendous *BWAAAP* right on the downbeat.
-
-It was awful. It was perfectly, hilariously awful, a half-beat late and wobbling like jelly. But somehow, under Silena's soaring voice and Grover's pipes, it worked. It sounded like a real ship's horn heard through three miles of fog and a school of fish. A little kid from the Hermes cabin started marching in place. Nico stood up and pretended to haul a rope. Bianca swung him around.
+The camp clapped along. Percy kept time against his knee, the conch quiet in his lap. A little kid from the Hermes cabin started marching in place. Nico stood up and pretended to haul a rope. Bianca swung him around.
 
 Silena sang the verse, dancing a little step-step-spin by the fire that made her sweater flare.
 
@@ -688,7 +668,7 @@ The camp roared. Clarisse covered her face with both hands, but she was grinning
 
 "That shark had it coming!" she shouted, and everyone cheered louder.
 
-Grover's pipes trilled higher. Kayla strummed faster. Percy blew his conch again — *BWAAAAP-boom* — and this time a little spray of seawater shot out the end and hit Austin's drum with a *splut.* Austin yelped. The camp laughed harder.
+Grover's pipes trilled higher. Kayla strummed faster. Austin's sticks blurred over the drum while Silena spun around the fire.
 
 Up on the third row, Annabeth nudged Thalia.
 
@@ -702,7 +682,7 @@ Thalia stared at her like she'd suggested they jump into the canoe lake in full 
 
 "Perfect," Annabeth said. "I'll be precise, you'll be loud, it'll balance out. Come on. For Silena."
 
-Thalia looked down at the fire, at Silena spinning and laughing, at Clarisse clapping along now without even realizing it, at Percy blowing that stupid shell with his cheeks puffed out and seawater dripping off his chin.
+Thalia looked down at the fire, at Silena spinning and laughing, at Clarisse clapping along now without even realizing it, at Percy listening beside Annabeth, one hand resting on the quiet conch.
 
 She sighed. "Fine. But if I break windows, it's your fault."
 
@@ -720,7 +700,7 @@ Silena's face lit up. "Yeah? You guys?"
 
 "Kind of got it," Thalia said.
 
-"Percy, horn!" Silena called. "Grover, pipes! One, two, three —"
+"Grover, pipes!" Silena called. "Kayla, ready? One, two, three —"
 
 They hit the chorus together.
 
@@ -733,50 +713,40 @@ It was enthusiastic.
 
 Annabeth sang exactly on pitch, exactly on time, each note placed like a brick in a wall. Thalia sang a third above her, twice as loud, half a beat early, with a wild storm-girl vibrato that wobbled all over the place. Together they sounded like a very determined owl being chased by a very joyful eagle.
 
-Percy, mid-blow on his conch, heard it and his eyes went wide. He nearly dropped the shell.
+Percy watched the harmony wobble into place and caught Silena's delighted grin.
 
 But Silena — Silena just grinned wider and wove her own voice around theirs, smoothing the edges, lifting them up, turning the wobble into something warm. She caught Annabeth's eye and nodded *keep going,* caught Thalia's eye and mouthed *louder.*
 
 *Raise the sail and bail the pail and sing until we drop,*
 *The sea goes on forever and the singing never stops!*
 
-They finished in a tangle of laughter. Thalia had her arm around Annabeth's shoulders. Annabeth was leaning into her, giggling. Percy blew one last triumphant *BWAAAP* that ended in a squeak, and Grover finished with a flourish of pipes that made the fire flare green for a second — satyr magic, show-off magic — and the camp went wild.
+They finished in a tangle of laughter. Thalia had her arm around Annabeth's shoulders. Annabeth was leaning into her, giggling. Percy applauded with the rest, and Grover finished with a flourish of pipes that made the fire flare green for a second — satyr magic, show-off magic — and the camp went wild.
 
 "ENCORE!" Travis bellowed.
 
 "ANOTHER!" Connor echoed.
 
-Silena was flushed and glowing, her braid coming loose, shells jingling. She looked at Clarisse, who gave her a thumbs-up. She looked at Percy, who was still red-eared and holding his cursed shell like a dead fish. She looked at Annabeth and Thalia, arm in arm, and at Grover, who was beaming and out of breath.
+Silena was flushed and glowing, her braid coming loose, shells jingling. She looked at Clarisse, who gave her a thumbs-up. She looked at Percy, who sat beside Annabeth with the conch quiet at his knee. She looked at Annabeth and Thalia, arm in arm, and at Grover, who was beaming and out of breath.
 
-"Okay," Silena said into the noise. "Okay, one more. But this one's — this one's different. This one's not a sea song. Well, it is. But it's — Percy? Can you come here?"
+Silena leaned toward Percy, her voice low beneath the crowd. "That verse you wrote for Annabeth. Do you want to share it tonight? Here, with everybody listening? You can keep it between you. If you say no, I'll choose something else."
 
-Percy blinked. "I'm already here. I'm right here. I've been humiliated here for ten minutes."
+The verse — gods, the verse. He'd made it up that afternoon while trying to get the shell to make any sound that wasn't a dying goose. He'd been sitting on the dock with his feet in the water, thinking about the way Annabeth looked when she figured out a puzzle, her whole face lighting up, and the words had just — come out. Stupid, simple words. He'd whispered them to Silena, mortified, and she'd squeezed his hands and said, *I hope she gets to hear it someday.*
 
-Everyone laughed. Silena took his hand and pulled him forward to the very edge of the firelight, so the flames lit both their faces gold.
+The camp was loud around them. Percy could keep the verse to himself; nobody had asked him for it. Annabeth hadn't waved him forward or called him out. She was just sitting beside Thalia, cheeks flushed from laughing. He wanted to give the words to her, even if everyone heard them. That choice felt like his.
 
-"So," Silena said, suddenly shy again, twisting her sleeve. "Percy's my little brother. He's been at camp long enough to know better, and he's already — he's already my favorite tide pool to yell at when he leaves wet towels on my bunk."
+"Yes," he said. "Just the verse. No encore."
 
-"Hey!" Percy said.
+"Just the verse," Silena agreed. "Can I tell them it's for Annabeth?"
 
-"It's true," Clarisse called from her log. "You do. You're disgusting."
+"Yeah."
 
-"And he's been learning the shell-horn," Silena continued, to more laughter, "because he's sweet and because I asked him to. And he said — he told me this afternoon — he said if he ever got to play in front of everyone, he'd want to play something for Annabeth. Because she's —" Silena glanced at Annabeth, who had gone very still on the steps below, her cheeks pink. "Because she's his girlfriend and best friend. And she braids his bracelets too tight and steals his bacon and does his math homework when he pouts."
+Percy picked up the conch and stood beside Silena at the edge of the firelight, without her pulling him forward. She waited for him to settle before she addressed the crowd.
 
-"I do not pout!" Percy protested, but his voice cracked, and the camp *awwwed* so loudly he wanted to sink into the fire pit.
+"Percy's my little brother. He's written a verse for his girlfriend, Annabeth, and he's chosen to share it with us. One verse."
 
-Annabeth had both hands pressed to her face. Thalia was grinning at her like a shark.
+"One verse," Percy said. "No encore."
 
-Silena leaned in close to Percy, so only he could hear. "You still want to do it? The verse you wrote? You don't have to."
-
-Percy swallowed. His hands were sweating on the conch. The verse — gods, the verse. He'd made it up that afternoon while trying to get the shell to make any sound that wasn't a dying goose. He'd been sitting on the dock with his feet in the water, thinking about the way Annabeth looked when she figured out a puzzle, her whole face lighting up, and the words had just — come out. Stupid, simple words. He'd whispered them to Silena, mortified, and she'd grabbed his hands and said, *Oh, Percy. You have to sing that. She'll love it.*
-
-Now, in front of the whole camp, with Annabeth staring at him wide-eyed, it felt like the stupidest idea he'd ever had. Stupider than fighting Clarisse with toilet water.
-
-He looked at Annabeth.
-
-She lowered her hands from her face just enough to peek over her fingertips. She mouthed, *Do it.*
-
-Percy took a deep breath.
+The laugh that moved through the amphitheater was warm, then quieted. Annabeth's hands stayed at her sides. She didn't urge him on; she only met his eyes, smiling with surprise and affection. Percy took a deep breath.
 
 "Okay," he said into the sudden hush. "Okay. So. I'm not a singer. I'm — I'm really, really not a singer. Silena's the singer. I'm the — the horn guy. The bad horn guy."
 
@@ -836,7 +806,7 @@ Silena stepped back up to the fire then, her eyes bright, and lifted her hands. 
 
 And the whole camp sang.
 
-Two hundred voices, on key and off, Apollo kids harmonizing, Hermes kids shouting, Ares kids bellowing. Silena in the middle, her voice soaring over all of it like a gull over waves. Grover's pipes dancing. Percy's conch booming — *BWAAAP-BOOM* — still awful, still perfect. Annabeth and Thalia side by side, shoulders pressed together. Clarisse, one arm around Silena, singing at the top of her lungs and completely tone-deaf and not caring at all.
+Two hundred voices, on key and off, Apollo kids harmonizing, Hermes kids shouting, Ares kids bellowing. Silena in the middle, her voice soaring over all of it like a gull over waves. Grover's pipes dancing. Percy stayed beside Annabeth, the conch quiet at his side as the group carried the chorus. Annabeth and Thalia stood shoulder to shoulder. Clarisse, one arm around Silena, sang at the top of her lungs and completely tone-deaf and not caring at all.
 
 *Oh, haul away, haul away, the tide is on the run,*
 *The Nereids are laughing in the morning sun,*
@@ -863,13 +833,13 @@ Silena leaned her head on her sister's shoulder. "You stayed."
 
 "You hated every second," Silena teased.
 
-"I hated most seconds," Clarisse corrected. "The part where Fish Boy sounded like a dying goose was okay."
+"I hated most seconds," Clarisse corrected. "The part where you told them that mechanical shark had it coming was okay."
 
-"Hey!" Percy said from the next log over, where he sat with Annabeth tucked against his side under half the blanket, Grover's head in his lap, Thalia's boots up on the stones. "I peaked at the end. That last boom was almost clean."
+"Hey!" Percy said from the next log over, where he sat with Annabeth tucked against his side under half the blanket, Grover's head in his lap, Thalia's boots up on the stones. "I managed one note. It was almost clean."
 
-"It sprayed water on me," Thalia said. "I felt it from three rows up. I thought it was raining."
+"Almost," Thalia said. "You held that shell like it was going to bite you."
 
-"It was holy water," Percy said solemnly. "Blessed by my horn."
+"It was considering it," Percy said solemnly. "Conches have grudges."
 
 Annabeth snorted into his shoulder. "You're an idiot."
 
@@ -919,6 +889,10 @@ Percy watched them go, his chest full and achy in the good way.
 
 "Yeah," Percy said. "Clarisse acts tough, but she'd burn down the world for Silena. Getting to know my sisters. The palace visits have been all brothers and politics. This is different."
 
+He had watched Clarisse wait until Silena asked her to stay, then leave only when Silena was ready to go. Neither of them had needed to turn the moment into a promise to be more than sisters. Percy had known them through camp routines and hard days; the small choices still surprised him. They said there was room to be loud, quiet, protective, or unsure without changing who they were to each other.
+
+He wanted to learn those ordinary parts, the ones that did not come from a rescue or a palace title. The fire would go out, the story would become a joke by breakfast, but the way Clarisse had listened when Silena asked her to stay was something he could keep.
+
 Annabeth laughed. "Thalia threatened to shave my head if I didn't sleep last night. Does that count?"
 
 "Absolutely counts," Percy said. "Sister law."
@@ -935,7 +909,19 @@ Annabeth leaned her head on Percy's shoulder. Percy rested his cheek on top of h
 
 "Yeah," Percy said, embarrassed. "It took me like an hour. Rhyming is hard."
 
-"It was perfect," Annabeth said. " Off-key and awful and perfect. I'm keeping it. I'm writing it in my notebook so I don't forget."
+"It was perfect," Annabeth said. "Off-key and awful and perfect. Would you mind if I wrote it in my notebook so I don't forget?"
+
+"No," Percy said, and the word came easily. He had given the verse to her and chosen to let the camp hear it; that did not mean he owed anyone another performance. "Just don't let the Stolls get it."
+
+"They won't," Annabeth said. She looked up at him. "Did you know you would say yes when Silena asked?"
+
+Percy thought about the dock, about the verse sitting in his head until he decided to give it away. "No. I knew I wanted you to hear it. I didn't know if I wanted everyone else to."
+
+"And when you did?"
+
+"It was my choice."
+
+Annabeth rested her forehead against his chin. "I'm glad you made it."
 
 Percy smiled into her hair. "Even the *books-looks* part?"
 

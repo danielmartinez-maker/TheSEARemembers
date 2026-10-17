@@ -1,6 +1,6 @@
 {
   "scope": "193 numbered chapter files; bonus interludes excluded",
-  "threshold": 10000,
+  "threshold": 10001,
   "expected_chapters": 193,
   "count_method": "whitespace-separated body tokens; headings/dividers/comments excluded",
   "duplicate_method": "all consecutive 300-token windows, rolling 64-bit hash + exact token comparison",
@@ -339,7 +339,7 @@
     {
       "chapter": 25,
       "path": "chapters\\025-night-watches.md",
-      "body_words": 10000,
+      "body_words": 10049,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -753,7 +753,7 @@
     {
       "chapter": 54,
       "path": "chapters\\054-lotus.md",
-      "body_words": 10009,
+      "body_words": 10110,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -775,7 +775,7 @@
     {
       "chapter": 56,
       "path": "chapters\\056-hades.md",
-      "body_words": 10000,
+      "body_words": 10011,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -863,7 +863,7 @@
     {
       "chapter": 64,
       "path": "chapters\\064-the-dance-spring.md",
-      "body_words": 10000,
+      "body_words": 10007,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -923,12 +923,12 @@
     {
       "chapter": 69,
       "path": "chapters\\069-silena-s-song.md",
-      "body_words": 10118,
+      "body_words": 10376,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.214,
+      "dialogue_line_ratio": 0.213,
       "median_paragraph_words": 13
     },
     {
@@ -1174,7 +1174,7 @@
     {
       "chapter": 88,
       "path": "chapters\\088-spear-song-sea.md",
-      "body_words": 10069,
+      "body_words": 10166,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1509,7 +1509,7 @@
     {
       "chapter": 118,
       "path": "chapters\\118-a-message-from-amphitrite.md",
-      "body_words": 10320,
+      "body_words": 10333,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1716,7 +1716,7 @@
     {
       "chapter": 136,
       "path": "chapters\\136-percy-s-birthday.md",
-      "body_words": 10018,
+      "body_words": 10047,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1795,12 +1795,12 @@
     {
       "chapter": 142,
       "path": "chapters\\142-night-swim.md",
-      "body_words": 10141,
+      "body_words": 10183,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.255,
+      "dialogue_line_ratio": 0.254,
       "median_paragraph_words": 29
     },
     {
@@ -2208,7 +2208,7 @@
     {
       "chapter": 175,
       "path": "chapters\\175-salt-and-steam.md",
-      "body_words": 10189,
+      "body_words": 10173,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2388,7 +2388,7 @@
     {
       "chapter": 190,
       "path": "chapters\\190-thursday-twice.md",
-      "body_words": 11467,
+      "body_words": 11491,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941966,
+  "window_comparisons": 1942581,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

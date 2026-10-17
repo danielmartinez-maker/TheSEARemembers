@@ -92,7 +92,7 @@ Clarisse's attention flicked toward him. Silena's smile already bloomed, bright 
 
 “We'd need to check camp schedule,” Percy said, toes scuffing stone, grit grinding softly under his sandal. Spray had dried salt-tight on his forearms. “And work transport. Currents, timing, who's on watch while we're gone.”
 
-“Of course. I'll send route and possible dates, tide charts and all,” Amphitrite said, water chiming faintly behind her words like distant glass. “Decide together, unhurried. If the answer is not now, it's not now — the sea keeps.” A pause, kind eyes steady, light moving across her circlet. “I'd love for you to see home again. I'd also love to meet the people who've become home to you, whose names fill your letters.”
+“Of course. I'll send route and possible dates, tide charts and all,” Amphitrite said, water chiming faintly behind her words like distant glass. “Decide together, unhurried. If the answer is not now, it's not now — the sea keeps.” A pause, kind eyes steady, light moving across her circlet. “I'd love for you to see home again. I'd also love to spend more time with the friends I've met before, and to get to know anyone new who's become home to you, whose names fill your letters.”
 
 Percy swallowed, salt thick in his throat. “Okay.”
 

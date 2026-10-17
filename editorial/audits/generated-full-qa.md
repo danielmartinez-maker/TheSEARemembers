@@ -3,10 +3,10 @@
 Machine-generated. Not an editorial certificate; source branch must be recorded by the CI job.
 
 - Chapters: 193 / 193
-- At least 10,000 body words: 193 chapters
+- At least 10,001 body words: 193 chapters
 - Below minimum: 0 chapters
 - Total body-word shortfall: 0
-- Exact 300-word windows checked: 1,941,966
+- Exact 300-word windows checked: 1,942,581
 - Cross-chapter matching windows: 0
 - Structural errors: 0
 
@@ -36,7 +36,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 022 | 10,103 | 0 |
 | 023 | 10,005 | 0 |
 | 024 | 10,016 | 0 |
-| 025 | 10,000 | 0 |
+| 025 | 10,049 | 0 |
 | 026 | 10,009 | 0 |
 | 027 | 10,019 | 0 |
 | 028 | 10,055 | 0 |
@@ -65,9 +65,9 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 051 | 10,009 | 0 |
 | 052 | 10,010 | 0 |
 | 053 | 10,026 | 0 |
-| 054 | 10,009 | 0 |
+| 054 | 10,110 | 0 |
 | 055 | 10,043 | 0 |
-| 056 | 10,000 | 0 |
+| 056 | 10,011 | 0 |
 | 057 | 10,080 | 0 |
 | 058 | 10,039 | 0 |
 | 059 | 10,097 | 0 |
@@ -75,12 +75,12 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 061 | 10,042 | 0 |
 | 062 | 10,010 | 0 |
 | 063 | 10,003 | 0 |
-| 064 | 10,000 | 0 |
+| 064 | 10,007 | 0 |
 | 065 | 10,004 | 0 |
 | 066 | 10,572 | 0 |
 | 067 | 10,292 | 0 |
 | 068 | 10,328 | 0 |
-| 069 | 10,118 | 0 |
+| 069 | 10,376 | 0 |
 | 070 | 10,569 | 0 |
 | 071 | 10,153 | 0 |
 | 072 | 10,666 | 0 |
@@ -99,7 +99,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 085 | 10,012 | 0 |
 | 086 | 10,033 | 0 |
 | 087 | 10,007 | 0 |
-| 088 | 10,069 | 0 |
+| 088 | 10,166 | 0 |
 | 089 | 10,008 | 0 |
 | 090 | 10,346 | 0 |
 | 091 | 10,050 | 0 |
@@ -129,7 +129,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 115 | 10,062 | 0 |
 | 116 | 10,088 | 0 |
 | 117 | 10,163 | 0 |
-| 118 | 10,320 | 0 |
+| 118 | 10,333 | 0 |
 | 119 | 10,179 | 0 |
 | 120 | 10,003 | 0 |
 | 121 | 10,632 | 0 |
@@ -147,13 +147,13 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 133 | 10,659 | 0 |
 | 134 | 10,011 | 0 |
 | 135 | 10,006 | 0 |
-| 136 | 10,018 | 0 |
+| 136 | 10,047 | 0 |
 | 137 | 10,020 | 0 |
 | 138 | 10,015 | 0 |
 | 139 | 10,026 | 0 |
 | 140 | 10,163 | 0 |
 | 141 | 10,030 | 0 |
-| 142 | 10,141 | 0 |
+| 142 | 10,183 | 0 |
 | 143 | 10,136 | 0 |
 | 144 | 10,080 | 0 |
 | 145 | 14,704 | 0 |
@@ -186,7 +186,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 172 | 10,656 | 0 |
 | 173 | 10,440 | 0 |
 | 174 | 10,212 | 0 |
-| 175 | 10,189 | 0 |
+| 175 | 10,173 | 0 |
 | 176 | 10,195 | 0 |
 | 177 | 10,227 | 0 |
 | 178 | 10,232 | 0 |
@@ -201,7 +201,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 187 | 10,768 | 0 |
 | 188 | 10,800 | 0 |
 | 189 | 10,423 | 0 |
-| 190 | 11,467 | 0 |
+| 190 | 11,491 | 0 |
 | 191 | 10,633 | 0 |
 | 192 | 13,101 | 0 |
 | 193 | 11,622 | 0 |
