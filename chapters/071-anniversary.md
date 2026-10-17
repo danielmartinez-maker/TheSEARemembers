@@ -28,7 +28,7 @@ Percy took the long way to breakfast, because on a day like this he wanted to re
 
 More than a year. He'd arrived here from Atlantis with Grover showing him the path and Amphitrite's goodbye still in his ears. The Minotaur's horn belonged to his remembered original arrival, not this one. He'd been twelve again and furious and terrified, sure the gods had made a clerical error. Two lives in one head? With *him*?
 
-Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder from summer spear drills and another one on his palm from holding Annabeth's hand too tight during the quest last summer when the bridge almost collapsed.
+Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder from summer spear drills. The Underworld heat had blistered his palms during the quest, but the memory that stayed was Annabeth's hand finding his in the dark and the way they had held on.
 
 He had Annabeth.
 
@@ -104,6 +104,206 @@ Percy laughed. "We tell that old story differently every time. Last time she sai
 
 Thalia was quiet for a moment, turning an arrow over in her hands. "Yeah," she said, softer. "I think she does."
 
+She checked the fletching against her thumb and set the arrow across her knees. Percy waited for her to make another joke about his sleeping habits, but she didn't.
+
+"Did she tell you about the first night?" Thalia asked.
+
+Percy looked toward Cabin One. "Which first night?"
+
+"Here. After you got off the boat." Thalia corrected herself. "After Grover brought you up from the harbor. She was sitting in our cabin trying to draw a floor plan and she had written the same measurement four times. Every number was different."
+
+"That sounds terrible for a floor plan."
+
+"It was. She'd put the door inside the wall." Thalia smiled, then let the smile go. "I thought she was upset because she'd met somebody new. One of her friends from the city, maybe. I couldn't understand why one boy getting to camp had shaken her up so badly. She wouldn't tell me most of it."
+
+Percy studied the string on her bow. It was recently waxed, a small uneven patch shining where she'd passed the wax over twice.
+
+"She was trying not to tell you something that wasn't hers alone to explain," he said.
+
+"I know that now." Thalia turned the arrow over. "I didn't then. I was her sister. I thought that entitled me to be the person she told everything."
+
+"It doesn't."
+
+"No." She gave him a flat look. "You don't get to sound so satisfied about that. I learned it the hard way."
+
+Percy raised both hands. "I wasn't gloating."
+
+"Your eyebrows were."
+
+He touched his eyebrows. "They have an independent political agenda."
+
+That earned half a laugh. Thalia looked down the slope where the younger campers had begun a game with wooden swords. One girl was trying to convince a boy twice her size to switch weapons. The boy kept shaking his head.
+
+"She did tell me you were important," Thalia continued. "Not why. Not all the reasons. Just that she'd known you before you got here, and that she needed me not to turn it into a fight."
+
+"You weren't exactly thrilled with me."
+
+"I was furious. She was twelve and acting like she knew you better than she knew me. And I was the one who'd been standing beside her at school and camp and every stupid meeting with our father. I knew where she kept the spare pencils. I knew she only ate the crust of the bread when she was anxious. I knew she'd wake up when the wind changed, before the thunder started. Then you walked in and she looked at you like you'd brought the sun back."
+
+Percy felt the old, uncomfortable pinch behind his ribs. Thalia had lived a sisterhood with Annabeth that Annabeth couldn't remember from inside. It wasn't a lie, and it wasn't an inconvenience the universe could simply apologize for.
+
+"She does know you," he said. "Better than she did then."
+
+"Yeah." Thalia scraped a thumb against the leather wrapping of her bow. "She asks me stuff now. Not just the big dramatic stuff. Dumb stuff. Whether a shirt looks stupid. If a headache's going to turn into a storm. Whether Jason would like a drawing of our cabin more than a drawing of New Rome."
+
+"What did you tell her?"
+
+"That Jason would probably like both. Then I asked him in a letter, because I'm developing a personality outside of guessing."
+
+Percy grinned. "Dangerous."
+
+"Extremely. Next I'll be using complete sentences."
+
+A gust lifted the grass in a green ripple. Down by the archery targets a counselor called for a cease-fire, and the campers lowered their bows.
+
+Thalia slid an arrow into her quiver. "So when everybody started putting the party together, I thought she might hate the idea."
+
+"Why?"
+
+"Because it's hers too, isn't it? The day you arrived here. She'd spent all those weeks trying to make sense of you being back and her life being different. I thought an entire camp shouting about it might feel like someone taking that day away from her."
+
+Percy stopped picking at the grass. Until then, he'd thought of the anniversary as something Annabeth had invented for him, a gift as uncomplicated as the driftwood calendar. He hadn't considered that she'd had to share its most private meaning with people who understood only parts of the story.
+
+"Did you ask her?" he said.
+
+"Obviously."
+
+"What'd she say?"
+
+"She said the day belongs to both of you, but she wanted the party to be about the year that followed. About the things everybody here can actually remember. She gave the Stolls three versions of the arrival and told them only one was permitted on the official banner. They made a fourth anyway."
+
+"That sounds more like her."
+
+"Yeah. And she told me not to tell you any of this." Thalia grimaced. "I've already failed at being a co-conspirator."
+
+"You haven't told me what you got me."
+
+"I didn't get you anything."
+
+Percy narrowed his eyes. "Really?"
+
+"Really. I'm going to give you a lecture about posture and call it a gift."
+
+"You're a terrible person."
+
+"You love me."
+
+"I tolerate you for your access to juice boxes."
+
+She punched his arm gently, but her next words came without the joke he expected.
+
+"Percy, when she says she remembers, don't make her prove it. She already knows which life the story belongs to. Sometimes she just wants to be happy about this one."
+
+He looked at the camp, at the walkways and green roofs and the bit of bright water between the cabins. He had spent so long guarding the things he and Annabeth remembered that he sometimes treated remembering as a test. If she could recall the exact sound of a subway, the color of Sally's kitchen walls, the last snowfall before the war, then the first life would still be real. When a detail blurred, he panicked.
+
+"I don't ask her to prove it," he said.
+
+Thalia lifted an eyebrow.
+
+"Not on purpose."
+
+"That's better."
+
+He took a stone from the grass and rolled it over his knuckles. "I asked her last week whether she remembered what color the blanket was in the Athena cabin. The one she used when we stayed up studying. She said green. I thought it was blue."
+
+"And then?"
+
+"I kept asking. Like if we argued long enough one of us would remember correctly."
+
+"How'd that go?"
+
+"She got annoyed. Said the blanket had been ugly no matter what color it was and maybe there had been two."
+
+Thalia's mouth twitched. "Wise girl."
+
+"Yeah." Percy stared at the stone. "I apologized. Eventually."
+
+"Well, look at you, growing as a person."
+
+"Don't spread it around. It'll ruin my reputation."
+
+Thalia stood and offered him a hand. He let her pull him up. His legs had gone numb from sitting in one position, and he staggered a little.
+
+"Come on," she said. "I'll walk you down. You look like someone who's about to interrupt a surprise because he can't stand not knowing."
+
+"Would I do that?"
+
+"Yes."
+
+"Fair."
+
+They took the narrow path along the strawberry fields instead of the main track. Thalia was too experienced at surprises to march him straight to the Big House. She talked about a snapped bowstring and an upcoming inspection of the west trail, small ordinary things that made it easier to pretend this wasn't an extraordinary day.
+
+At the point where the path forked, they found Beckendorf standing beside a handcart with a wheel off. His work shirt was dark with sweat despite the cool morning, and a pile of boxes rested on the cart's wooden bed.
+
+"Morning," he said. "Either of you free for a minute?"
+
+Thalia looked at the boxes and then at Percy, making a decision he wasn't supposed to notice.
+
+"Percy has an appointment," she said.
+
+"I do?"
+
+"You do."
+
+Beckendorf shrugged. "Then no problem. I'll get the wheel back on."
+
+Percy was already kneeling beside the cart. The axle pin had slipped halfway out and the retaining clip was bent open. He could see the problem even without Beckendorf pointing it out.
+
+"It'll take two minutes," he said.
+
+"The boxes can wait," Beckendorf replied.
+
+"So can whatever Chiron has invented to make me miserable."
+
+Thalia made a noise suspiciously like a swallowed laugh. She stood back while Percy held the cart steady and Beckendorf pressed the wheel into position. The first clip broke when they tried to close it. Beckendorf fetched a spare from his apron pocket.
+
+"Don't use the first one just because it's almost good enough," he told Percy.
+
+Percy thought of the little memorial board Annabeth had been measuring the previous afternoon, the one that couldn't go up until a brace was repaired. "You talking about this cart or the memorial fence?"
+
+"Both, if you're listening."
+
+"How's the brace?"
+
+"On tomorrow's repair list. A notice isn't a repair." Beckendorf passed him the cotter pin. "Hold that still."
+
+Percy kept the axle straight while Beckendorf seated the pin. The wheel turned freely when they tested it.
+
+"Thanks," Beckendorf said. "You get a cookie when I deliver these."
+
+"Deliver them where?"
+
+"Somewhere with cookies." Beckendorf pulled the cart onto the path and pushed it away before Percy could ask anything else.
+
+Thalia was shaking her head.
+
+"What?"
+
+"You are the only person I know who can be distracted from his own party by a cotter pin."
+
+"Counterpoint. The cart really needed a cotter pin."
+
+"And now it has one. Miraculous."
+
+They reached the dining pavilion, where Percy could hear Grover arguing with someone about frosting. He looked back toward the Big House. The windows were closed. One had a blue streamer caught in its latch.
+
+Thalia noticed where he was looking.
+
+"You can wait five more minutes," she said.
+
+"I'm not impatient."
+
+"Percy."
+
+"Okay, I'm a little impatient."
+
+She tucked her bow under one arm, steadied his shoulder with the other hand, and turned him toward the pavilion.
+
+"You get one surprise a year," she said. "Let the people who care about you do it properly."
+
+He let her steer him inside. She was wrong about one thing, though. This year he'd already been surprised by too many people to count. None of them had demanded he know exactly how to deserve it.
+
 ---
 
 Annabeth remembered everything about that day, which was the problem, because everybody else kept mixing it up with the original arrival she and Percy had described. This camp had seen a boy walk up from the harbor. Somehow, in more than a year of retelling, that boy had acquired the Minotaur again.
@@ -159,6 +359,116 @@ Clarisse snorted. "Best decision I ever made. Kid needed baptizing."
 They all laughed, and Annabeth felt that warm, fizzy feeling she got sometimes at camp — like sparkling cider in her chest. More than a year. A whole first year of Percy learning his younger reach again, of Percy learning who lived in each cabin now, of Percy feeding Blackjack sugar cubes and teaching Tyson to high-five and falling asleep on Annabeth's shoulder during war council meetings and waking up with drool on her sleeve and saying, every single time, "I was resting my eyes."
 
 A year of him staying.
+
+Annabeth had almost abandoned the card project on the second Tuesday in February.
+
+She remembered it because Malcolm had been wearing his green sweater inside out, and because a cold rain had started halfway through their meeting in the workshop. The table was covered with tiny squares of paper, inks, a magnifying lens borrowed from the library and two cards that had come by post from a collector in New Jersey. They were creased at the corners, the little painted monsters softened by years of handling.
+
+Malcolm slid one across the table. "That's the right edition, I think."
+
+Annabeth checked the printing mark. "It's missing a digit."
+
+"Because the corner's worn off."
+
+"Or because it's a later reprint." She turned the card under the lamp and examined the edge again. "He told us it was an original."
+
+"He told us he thought it was an original. The difference is six dollars and a lot of disappointment if you're planning to accuse a stranger of cheating."
+
+Annabeth put the card down. Malcolm had not asked what the gift was supposed to fix. He knew it was for Percy, that it involved a game Percy liked, and that Annabeth had persuaded him to help because he knew more about restoration inks than anyone else available. He had never asked why she cared whether the card matched a deck Percy couldn't produce.
+
+She loved him a little for that.
+
+"It's the wrong shade of green," she said.
+
+"Then it's the wrong shade of green. Does Percy care?"
+
+"I don't know."
+
+Malcolm stopped sorting the sleeves. "You usually know what Percy cares about."
+
+"That's the problem."
+
+He looked at her over the magnifying lens. Rain ticked against the workshop window.
+
+Annabeth folded her hands beneath the table. For three months she'd been sending polite letters to collectors and not-so-polite follow-ups to people who promised a response and then forgot. She had paid for one package with chores, traded a week of library duty for another, and walked to the camp post office twice in a storm because somebody had reported a delay. Each day brought another nearly-right thing. A spell card with a name spelled differently. A hero whose statistics had changed between editions. A water-damaged deck box with a smell so strong it made her think of wet schoolbooks.
+
+And at the back of her mind was an apartment that wasn't there.
+
+She had only seen pieces of Sally's home, in the life she remembered: the kitchen where Percy had offered her burnt pancakes, a little shelf of blue plates, a battered table with a wobbling leg. Percy had described where the cards had lived in a drawer and how Sally had occasionally tried to learn the rules. He remembered ordinary afternoons with such sharp affection that Annabeth wanted to return one intact.
+
+But the card on the table had the wrong green.
+
+"He'll recognize that it isn't the same," she said.
+
+"Well, it isn't the same."
+
+"I know."
+
+"Do you?"
+
+She was annoyed at him for asking it so simply. "I didn't come here to be psychoanalyzed."
+
+"Good. I'm terrible at it. I barely passed the unit on the brain." Malcolm pushed the card back to the middle of the table. "I'm trying to build you a present. I need to know whether we're making a replica that will disappoint you or a new deck that Percy can actually play with."
+
+Annabeth looked at the mismatched cards. The problem was that the answer hurt.
+
+"I wanted it to look like his old one."
+
+"You can keep some of that. But if we put your friends on cards, it's already going to be different." He tapped the unfinished sheet beside him, where Silena had painted Tyson grinning with his helmet tilted over one eye. "You asked for this, right?"
+
+"Yes."
+
+"Then tell me which part you're trying to preserve."
+
+Annabeth found it difficult to speak for a moment. She took off the cap she'd worn into the workshop and set it beside the ink bottles.
+
+"When everything changed, Percy was twelve and he knew things that hadn't happened," she said carefully. That much was not a new disclosure; Malcolm knew she and Percy had difficult memories of a life they discussed with one another, though he had never been invited into their full account. "People here knew him as someone else. They expected him to remember all sorts of things. I kept thinking that if I could find one thing from before, something stupid and ordinary, he wouldn't have to explain himself every time he looked at it."
+
+Malcolm's expression softened. "Does he have to explain himself to you?"
+
+"No."
+
+"Then maybe you don't need to make him a perfect museum piece. Maybe you need to make him something he can spill lemonade on."
+
+She stared at him.
+
+"Not my first choice of conservation method," Malcolm admitted. "But I know Percy."
+
+Annabeth laughed reluctantly.
+
+She took a clean sleeve and slipped the mismatched card into it. The green was still wrong. The name was still a little blurred. It didn't stop the card from being itself.
+
+"All right," she said. "A deck he can use. We keep the real cards that we find. We say which ones are restored and which ones we invented. No pretending the new ones were always there."
+
+"Now you're giving me a design brief."
+
+"You should feel honored."
+
+"I do not. You keep moving the deadline."
+
+She handed him a pencil. "That's what professionals call iteration."
+
+He threw an empty sleeve at her.
+
+They stayed until the rain stopped, sorting and writing notes. Annabeth drew up a clean inventory so nobody would have to guess which card belonged to which edition. When Silena arrived after dinner with the finished portraits, she asked before opening the folder, and Annabeth was careful to ask which paintings could be displayed at the party. Silena had agreed to make them as a gift, not to hand over every sketch she'd tried along the way. Annabeth had been reminded of that distinction very recently by Clarisse's black notebook.
+
+Silena laid Tyson's card in the center of the table. Malcolm held it up to the light.
+
+"He really looks like he's going to break the frame," he said.
+
+"He wanted his attack number to have seven zeros," Silena told them.
+
+"He asked me for twelve," Annabeth said.
+
+"Compromise," Malcolm said, writing ten more little zeros on a scrap.
+
+Annabeth looked at the bright face on the card and thought of Percy at the dining pavilion when Tyson arrived, pretending not to watch as his brother tried to decide where to sit. That day, Percy had moved over before anyone needed to ask. She could remember that with certainty. The color of a blanket from a different life could be wrong. This wasn't.
+
+She stopped calling the deck a replacement after that.
+
+Now, in the crowded rec room, she had the completed cards hidden beneath her notebook, their edges squared and sleeved. There was a list inside identifying the hand-painted additions and who had worked on them, so Percy could ask questions and receive real answers. If he noticed that one monster's claws were painted too many or that a familiar character had a different number, she would not correct his memory on the basis of a collector's guess.
+
+The gift was an invitation to play.
 
 "Okay," Annabeth said, wiping her eyes and picking up her notebook. Tucked inside the back cover was a flat, carefully wrapped package, no bigger than a paperback. She'd spent three months on it, trading favors all over camp, writing letters to libraries and collectors, begging the Athena kids for restoration help. "Places, everyone. Silena, lights? Connor, door? Thalia—"
 
@@ -349,6 +659,194 @@ The room exploded. Cheers, whistles, Grover sobbing into his hat, Tyson clapping
 They ate more cake. They told more stories — how Percy fell in the lake, how Percy befriended a hellhound, how Percy talked Annabeth into midnight swims and Annabeth talked Percy into library research and somehow both survived. Chiron told the story of Percy's first sword lesson in his younger body, when he'd overbalanced on a lunge and declared himself ready anyway. Mr. D told the story of Percy calling him "Mr. Dude" to his face, which got a bigger laugh than anything.
 
 As the afternoon gold slanted through the windows, the party wound down into that soft, sleepy, happy tiredness. Campers drifted off in twos and threes — to chores, to practice, to naps in the grass. Tyson fell asleep under the gift table with the automaton seahorse curled on his chest. Grover fell asleep with his head on a balloon. Thalia, Clarisse, and Silena ended up on the floor together, leaning against each other, shell lei shared three ways, laughing quietly about something only they heard.
+
+Percy tried to pack the cards away neatly. He made it through three sleeves before Nico appeared at his elbow.
+
+"Are those usable?"
+
+Percy looked up. "What?"
+
+"The cards. Did Annabeth make a game or a thing that's too nice to touch?"
+
+"Both, apparently."
+
+"Can I see the stats?"
+
+Percy handed him the Tyson card. Nico turned it over, examined the tiny lettering, then let out an incredulous sound.
+
+"Attack a million? That's not balanced."
+
+"Tyson requested it."
+
+"Tyson doesn't understand balancing."
+
+"Tyson understands hitting things."
+
+"That's why it's unbalanced."
+
+Percy pulled a chair over and cleared a place on the table. There were sticky rings from cups and crumbs in the seam, so he borrowed a cloth from the kitchen and wiped the surface until it was clean enough to use. Annabeth looked over from where she was talking with Silena.
+
+"What are you doing?"
+
+"Testing your gift."
+
+She stared at the open sleeves. "Already?"
+
+"Didn't you make it so I could play?"
+
+A surprised smile crossed her face, fast enough that he might have missed it if he hadn't been watching.
+
+"Yes," she said. "Just don't bend the custom cards. Malcolm will personally haunt you."
+
+Percy drew a hand of six. Nico chose his own from the restored originals, rejecting two whose corners had been reinforced with strips of archival paper. He didn't explain why. He had always been particular about the feel of cards, Percy remembered from a life in which the boy had seemed impossibly young and then suddenly older than anyone should have been.
+
+That old Nico was not standing at this table.
+
+This Nico had a smear of blue frosting near his collar and was glaring at a game rule as if it had insulted his father.
+
+"Your version gives defensive units three actions," Nico said.
+
+"Mine?"
+
+"Whoever wrote these rules."
+
+"Annabeth," Percy said.
+
+"Of course."
+
+He called Annabeth over. She read the contested rule, then glanced at the pile of cards Nico had chosen.
+
+"You're trying to use the same defense three times," she said.
+
+"Because it's an excellent defense."
+
+"It has a cost."
+
+"Which you made absurdly high."
+
+"Which keeps a defensive card from winning the game by itself."
+
+Nico folded his arms. "I'd like to appeal."
+
+"Appeal denied."
+
+"You didn't even hear my case."
+
+"I saw your hand."
+
+Percy laughed. It was the first time that afternoon the cards had behaved like a game instead of an artifact, and he felt something settle. Annabeth took the chair beside him, close enough that their knees bumped. She helped Nico read the printed version of the rule, then admitted that one of the new handwritten cards needed clearer wording.
+
+"We'll mark it," she said.
+
+"Your own card is overpowered," Nico told her.
+
+"So is Percy's."
+
+"That doesn't make it fair."
+
+"Correct. It's a commemorative edition."
+
+Nico seemed satisfied by that distinction. He slapped down a card showing a skeletal warrior and announced an attack against Percy with obvious delight.
+
+Percy countered with Grover, whose special ability allowed him to slow an opponent's next turn by playing music. Nico stared at the card.
+
+"Grover doesn't do that."
+
+"Have you heard him practice before breakfast?"
+
+"That's a good point."
+
+They played three turns before Tyson woke under the gift table and lumbered over, still half asleep. His mechanical seahorse followed him, clicking softly against the floor. Tyson saw the card bearing his name and demanded to play it. Nico, who had been calculating probabilities with considerable care, let Tyson take a turn just to see what would happen.
+
+Tyson placed his card sideways.
+
+"That isn't how it works," Nico protested.
+
+"Tyson protects Percy."
+
+"Yes, but you have to spend points."
+
+"Tyson has many points." He gathered the tiny counters in one enormous hand.
+
+Nico looked at Percy for help. Percy looked at Annabeth. She pressed her lips together to keep from laughing.
+
+"Okay," Percy said. "House rule. Tyson can protect me once if he gives the counters back."
+
+Tyson returned them with a solemn nod. He placed his card over Percy's and sat beside him, satisfied.
+
+Nico took the next turn. He had been planning it for some time, and with one move he cleared both cards from the table.
+
+"Ha," he said.
+
+Tyson looked down at the empty spaces.
+
+"Percy died?"
+
+"In the game," Annabeth said quickly.
+
+"Only in the game," Percy agreed. "I can come back next round."
+
+Tyson considered this and then grinned. "Good game. Tyson still loves Percy."
+
+"Not sure if the rules allow that after defeat," Nico said.
+
+"They do now," Percy replied.
+
+It wasn't a grand revelation. There were no tears, no speech, no attempt to explain the cards as evidence of an earlier life. Percy simply gathered them into a neat stack and found that he wasn't afraid of what might happen to them anymore. There were new marks on some of the sleeves where Nico's thumbs had pressed. One corner of the rules sheet had a spot of frosting. Annabeth had written *clarify cost* beside the disputed defense.
+
+The deck was already acquiring a history in this camp.
+
+That mattered more than the precise shade of green on a card Percy could barely remember holding.
+
+When Nico went to help Grover gather the empty plates, Percy caught Annabeth studying the handwritten inventory tucked in the deck box.
+
+"Something wrong?" he asked.
+
+"I listed one of the restored cards as original. Malcolm corrected me this morning. I meant to change the note."
+
+Percy looked at the little line she'd circled. He could have argued that it wasn't a big deal. He knew better than to do that when a correction mattered to her.
+
+"Can we fix it now?"
+
+"I have a pencil."
+
+"Of course you do."
+
+She changed the description in three careful words and showed him. He nodded. She closed the box and laid it in his hands.
+
+"You okay with it being different?" she asked.
+
+"Wise Girl, you made Tyson a god-tier limited edition. Different is kind of the point."
+
+"That's not what I mean."
+
+He knew. He took a breath before answering.
+
+"I remember a drawer in Sally's apartment," he said quietly. "I remember spending whole afternoons making up battles I always won. But I don't know if the cards were in a blue box or a red one. And when I try to picture the printed art, I keep getting the picture you made instead."
+
+Annabeth's eyes searched his face. "Does that scare you?"
+
+"A little."
+
+"I didn't want to replace it."
+
+"You didn't." He touched the new box. "You gave me something to remember for next year."
+
+A shout from across the room interrupted them. Travis was trying to carry six leftover cake slices at once. Clarisse told him to use a tray. He ignored her, and the top slice slid down his arm onto the floor.
+
+Percy watched it happen and decided that memory didn't always need elaborate preservation. Some things would survive because nobody present was ever going to let Travis forget them.
+
+He took Annabeth's hand. "Come outside with me?"
+
+She gathered his star map, checking that the blue-green ink had dried. "Where?"
+
+"Somewhere without a game referee."
+
+"Nico's actually very good at it."
+
+"He's terrifying."
+
+"That too."
 
 Percy and Annabeth slipped out with the map and the cards, hands linked, bare feet silent on the Big House steps.
 

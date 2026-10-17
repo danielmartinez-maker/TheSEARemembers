@@ -1,0 +1,143 @@
+chapter: 97
+title: "The Map"
+source: "chapters/097-the-map.md"
+status: "revised; 10,185 body words; local QA passed; hosted Actions passed on commit 577ec2a"
+chronology:
+  relative_time: "Morning after Chapter 096's final evening, through the same-day map viewing and sunset move to the Big House rec room. Chapter 098 opens Friday morning. Exact date/year remain unknown."
+  season: "Summer, as written in the map's title cartouche; no exact calendar date or year is given."
+  sequence: "Annabeth finishes the camp survey; Percy and Annabeth privately distinguish an old-life path from the current survey. The camp checks the practice copy, corrects route/safety markings, runs a new-camper use test and unveils the revised first edition. The map moves to a one-week rec-room trial."
+pov: "Annabeth Grace, third-person limited"
+scene_locations:
+  - "Cabin One"
+  - "Dining pavilion"
+  - "Big House meeting table and ramp route"
+  - "Camp path and north-trail closure"
+  - "Shoreline dock"
+  - "Forge exterior"
+  - "Shrine meadow and protected boundary"
+  - "Big House lawn"
+  - "Big House rec room"
+participants:
+  primary: ["Annabeth", "Percy", "Thalia", "Clarisse", "Silena", "Chiron"]
+  other: ["Grover", "Ella", "Nico", "Beckendorf", "Will", "Mr. D", "Katie", "Juniper", "Lee", "Travis", "Connor", "a younger camper from Chapter 096's beacon viewing"]
+  offstage: ["Amphitrite, who sends cookies and a note"]
+preceding_scene_verified:
+  chapter: 96
+  locator: "chapters/096-training-together.md, final Cabin One and Poseidon-cabin porch scenes"
+  context: "Annabeth chooses her Cabin One bunk and plans to inspect one map corner in the morning. Thalia escorts her, then returns to the porch. The north-trail inspection remains pending."
+following_scene_verified:
+  chapter: 98
+  locator: "chapters/098-fathers-day-gods.md, opening scene"
+  context: "Friday morning on the Big House porch; Percy and Annabeth receive letters from Poseidon and Zeus. Chapter 097's sunset close precedes this morning; the calendar date/year remain unknown."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 97
+    earned_trust_or_conflict:
+      - "Established partners; Percy approves the unlabeled shoreline rock and public dedication."
+      - "They privately discuss a route remembered from the erased life; no other character learns the autobiographical memory."
+      - "Annabeth leaves the public dedication choice to Percy; he chooses to keep it on the sheet."
+    what_each_remembers_firsthand:
+      - "Current map-making, route review and public viewing."
+      - "Each retains autobiographical erased-life memories; their remembered napkin maps and path remain between them without transfer to others."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "Annabeth keeps the unlocated old-life path in her field notebook; no other camper is shown learning it."
+    new_change_this_chapter: "The map carries an approved public dedication for Percy; their relationship remains established."
+    future_callback_required: "Keep old-life map memories exclusive to Percy and Annabeth. Do not imply the public map explains the dedication."
+  - pair: "Annabeth / Thalia"
+    last_shared_scene_chapter: 97
+    earned_trust_or_conflict:
+      - "Zeus/Grace biological sisters. Thalia removes her private roof spot while approving a credit."
+      - "Thalia uses her left hand/arm during display work; Chapter 097 does not recheck or clear her right-palm injury."
+    what_each_remembers_firsthand:
+      - "Current map review and presentation. Thalia's altered-history childhood memories remain hers; Annabeth does not inherit them."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Thalia approves her name in the credits; the ladder access is restricted and her roof spot is omitted."
+    future_callback_required: "No new right-palm check or healing is established."
+  - pair: "Annabeth / Clarisse"
+    last_shared_scene_chapter: 97
+    earned_trust_or_conflict: ["Clarisse is a Poseidon daughter and checks the arena; she approves flexible open practice without a fixed hour."]
+    what_each_remembers_firsthand: ["Current arena review and public viewing."]
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "The practice note tells visitors to ask before joining; no fixed time is published."
+    future_callback_required: "Percy, Clarisse and Silena remain Poseidon siblings."
+  - pair: "Annabeth / Silena"
+    last_shared_scene_chapter: 97
+    earned_trust_or_conflict: ["Silena chooses a shared-swing note with an ask-first boundary rather than promising constant availability."]
+    what_each_remembers_firsthand: ["Current map review and viewing."]
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "The public swing label is revised to 'shared swing; ask first.'"
+    future_callback_required: "Percy, Clarisse and Silena remain Poseidon siblings."
+  - pair: "Annabeth / Nico"
+    last_shared_scene_chapter: 97
+    earned_trust_or_conflict: ["Nico approves Bianca's small name and stars in the shrine inset, but not the route, destination star or tour invitation."]
+    what_each_remembers_firsthand: ["Nico approves the markings and sees the public first edition."]
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: ["Nico's memories of Bianca remain his; the map does not turn the niche into a public destination."]
+    new_change_this_chapter: "The inset carries the approved name and stars only."
+    future_callback_required: "Do not add the route or make the niche a tour stop without Nico's later permission."
+  - pair: "Percy / Amphitrite"
+    last_shared_scene_chapter: 97
+    earned_trust_or_conflict: ["Amphitrite sends six camp-version blue cookies adapted for Atlantis and an affectionate note. Percy reports that he previously told her only that the map was nearly done."]
+    what_each_remembers_firsthand: ["Percy receives the cookies and note."]
+    what_each_knows_secondhand:
+      - fact: "The map is nearly complete."
+        source: "Percy told Amphitrite in an ordinary prior conversation, as he reports to Annabeth in Chapter 097."
+    private_facts_not_known_to_other: ["Amphitrite is not told the rewrite or Percy's private memory gap."]
+    new_change_this_chapter: "Percy approves a wide photo of the map and people for Amphitrite, but no delivery is shown."
+    future_callback_required: "Do not imply Amphitrite knows the erased timeline or that the photo has been sent."
+items_promises_injuries:
+  - item_or_event: "Annabeth's large camp map"
+    owner_or_people: ["Annabeth", "Camp Half-Blood reviewers"]
+    last_seen_chapter: 97
+    current_status: "First edition is on a wheeled easel in the Big House rec room for a one-week trial. A separate correction sheet, large-print legend and review card accompany it. Post-trial location is unknown."
+  - item_or_event: "North-trail brace inspection"
+    owner_or_people: ["Annabeth", "Clarisse", "Chiron", "two unnamed counselors"]
+    last_seen_chapter: 97
+    current_status: "Still closed pending inspection; no inspection result or reopening appears."
+  - item_or_event: "Third dock board"
+    owner_or_people: ["Annabeth", "Percy", "Big House correction desk"]
+    last_seen_chapter: 97
+    current_status: "Still flexes. The map says not to step on the third board until repaired; repair is pending and no safe crossing is claimed."
+  - item_or_event: "Chiron's Big House-to-pavilion route"
+    owner_or_people: ["Chiron", "Annabeth"]
+    last_seen_chapter: 97
+    current_status: "The cabin-side route failed at a rut; the longer route by the Big House ramp was tested with Chiron on this day. This is a single-chair test, not universal accessibility certification."
+  - item_or_event: "Cabin Six window count"
+    owner_or_people: ["Ella", "Annabeth"]
+    last_seen_chapter: 97
+    current_status: "Ella identifies seven exterior windows, with one missing from the displayed first edition. It is logged for a later clean copy and not painted over in public."
+  - item_or_event: "Strawberry-row alternate path"
+    owner_or_people: ["Katie", "Annabeth", "Demeter cabin"]
+    last_seen_chapter: 97
+    current_status: "Katie suggests a route around a wet furrow; it remains pending a ground check and is not yet on the verified map."
+  - item_or_event: "Amphitrite's cookies and photo"
+    owner_or_people: ["Amphitrite", "Percy", "Annabeth"]
+    last_seen_chapter: 97
+    current_status: "Six cookies and a note arrive. A wide photo is approved; no photograph or delivery is shown."
+  - item_or_event: "Thalia's right-palm injury"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 96
+    current_status: "Chapter 097 records no new check or clearance. She uses her left arm for the presentation. Preserve the last confirmed Chapter 096 status: wrapped and tender, no sparring/bracing clearance."
+unresolved_tensions:
+  - "Exact calendar date/year remain unstated; Chapter 098 opens Friday morning."
+  - "North-trail inspection, dock repair, strawberry-route check and post-trial map location remain unknown."
+  - "The upper small-print map notes need another reader for Chiron; the one-week accessibility feedback review is planned, not complete."
+  - "The missing Cabin Six window remains a first-edition error pending a later copy."
+  - "The wide photo for Amphitrite is not shown as sent."
+open_canon_questions: []
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true

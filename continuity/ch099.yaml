@@ -1,0 +1,168 @@
+chapter: 99
+title: "Mothers"
+source: "chapters/099-mothers.md"
+status: "revised; 10,166 body words; local QA and hosted Actions passed on 8b92708"
+chronology:
+  relative_time: "Late-August morning through that evening. Exact calendar date/year remain unknown."
+  sequence: "Percy wakes missing Sally; Amphitrite visits breakfast; a sealed letter for Thalia arrives from California at noon; Percy returns to the forge; Silena speaks with Percy at the shore; campers prepare optional lanterns and gather at dinner and on firm sand."
+  adjacent_gaps: "Chapter 098's exact date and gap to 099 are unknown. Chapter 100 opens on the morning of the thousandth campfire; the exact gap from 099 and relation between the two evening gatherings are unknown. Tyson is on forge leave in both chapters, but whether it is the same leave is not established."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Cabin Three"
+  - "Cabin One steps"
+  - "Dining pavilion"
+  - "Forge"
+  - "Big House parlor and porch"
+  - "Firm sand above the tide line"
+  - "Marked path between beach and pavilion"
+participants:
+  primary: ["Percy", "Annabeth", "Thalia", "Silena", "Clarisse", "Amphitrite", "Tyson", "Triton"]
+  other: ["Chiron", "Jason by Iris-message", "Piper", "Chris Rodriguez", "campers", "harpy counselor"]
+  offstage: ["Beryl", "Sally", "Maria", "Poseidon"]
+preceding_scene_verified:
+  chapter: 98
+  locator: "chapters/098-fathers-day-gods.md, Saturday meal and departure"
+  context: "Exact date/year and gap remain unknown. Thalia's right palm was wrapped and awaiting Will's check; no clearance was recorded. Clarisse's possible next-morning training conversation with Poseidon was not shown. The third dock board still flexed; the north trail remained closed; the public survey remained on a one-week trial."
+following_scene_verified:
+  chapter: 100
+  locator: "chapters/100-the-thousandth-campfire.md, opening morning"
+  context: "Tyson is still staying at camp on forge leave. The chapter does not establish whether this is the same leave as Chapter 099 or exactly how the two campfire evenings relate."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "They remain established partners and share Percy's remembered Sally stories privately."
+      - "Percy lends Annabeth Amphitrite's shawl for the evening; she returns it. Ownership stays with Percy."
+    what_each_remembers_firsthand:
+      - "Current morning, Amphitrite's visit, the letter conversation, and the evening gathering."
+      - "Each retains autobiographical memories of the erased life; no other character gains those memories."
+    what_each_knows_secondhand:
+      - "Percy tells Silena more about Sally; Chapter 023 already showed Silena hearing Percy tell Sally stories."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "They privately name their grief and remember Sally's love for Annabeth; no relationship status changes."
+    future_callback_required: "Do not transfer the shawl to Annabeth permanently or imply Amphitrite knows the old-life memories."
+  - pair: "Annabeth / Thalia"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Annabeth attends Thalia's chosen letter conversation."
+      - "Annabeth shares that she remembers Athena as her mother in the life she remembers; Thalia hears this as a report, not a memory."
+    what_each_remembers_firsthand:
+      - "Their current conversation at the Big House."
+    what_each_knows_secondhand:
+      - "Thalia now knows the Athena memory Annabeth tells her; she does not autobiographically remember Athena as her mother."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Thalia explicitly says she does not need Annabeth to make their different maternal histories match."
+    future_callback_required: "Do not give Thalia Annabeth's memories or treat her report as shared recollection."
+  - pair: "Thalia / Beryl"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Beryl's sealed letter reaches camp addressed to Thalia; Chiron waits until Thalia chooses to open it."
+      - "The letter reports 60 sober days, an Ojai placement, and a ride arranged by Jason with a trusted camp adult."
+    what_each_remembers_firsthand:
+      - "Thalia reads the letter; Beryl is absent."
+    what_each_knows_secondhand:
+      - "Thalia and Percy know only Beryl's written claims about current sobriety, location and ride."
+    private_facts_not_known_to_other:
+      - "No reply, visit, safe-home assessment or independent sobriety verification occurs."
+    new_change_this_chapter: "Thalia keeps the letter and may decide after a week whether she wants to answer; the week is not a test of Beryl."
+    future_callback_required: "Preserve Thalia's choice and do not report Beryl's claims as confirmed facts."
+  - pair: "Thalia / Jason"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Thalia tells Jason by Iris-message only that a letter arrived from their mother and she is keeping it for now."
+    what_each_remembers_firsthand:
+      - "Percy witnesses the short exchange but cannot hear all of it."
+    what_each_knows_secondhand:
+      - "Jason hears that a letter arrived; the text is not shown or read to him."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No reply decision or letter contents are shared with Jason on-page."
+    future_callback_required: "Do not imply Jason read the letter or knows the Ojai/sobriety details."
+  - pair: "Silena / Maria"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Silena voluntarily reports Maria's phrase from when she was six and her Christmas cards with Spain postmarks and the initial M."
+    what_each_remembers_firsthand:
+      - "Silena remembers what Maria said to her."
+    what_each_knows_secondhand:
+      - "Percy hears Silena's account; the current life of Maria and whether she has other children remain unknown to Silena."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Silena chooses to help prepare lanterns but keeps her own lantern blank and declines a public account."
+    future_callback_required: "Do not convert Silena's report into omniscient biography or imply she knows Maria's current household."
+  - pair: "Clarisse / mother"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Clarisse reports receiving caramel corn and a monster-warning note each Halloween; she says she keeps the notes."
+    what_each_remembers_firsthand:
+      - "Clarisse's own report and her choice to mark a lantern MOM."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Clarisse chooses an optional public marker without disclosing her mother's name."
+    future_callback_required: "Clarisse is Poseidon's daughter; do not reintroduce Ares as her father."
+  - pair: "Tyson / Amphitrite"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Amphitrite gives Tyson tools, an apron and sea-peanut butter; Tyson calls her Mother and accepts the gift."
+    what_each_remembers_firsthand:
+      - "The breakfast visit and gifts."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Tyson chooses a personal forge-leave hammer test and says he will show her a working hinge."
+    future_callback_required: "He leaves the tools at the forge after the test. His planned birdhouse site and finished hinge are not shown."
+  - pair: "Triton / Tyson / Percy"
+    last_shared_scene_chapter: 99
+    earned_trust_or_conflict:
+      - "Triton receives a calling conch and apologizes to both brothers for being rude."
+      - "Tyson accepts the apology; the brothers play together afterward."
+    what_each_remembers_firsthand:
+      - "The current breakfast, shore and bonfire scenes."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No full reconciliation or later conch call is established."
+    future_callback_required: "Triton keeps the conch; do not treat one apology as a completed family repair."
+items_promises_injuries:
+  - item_or_event: "Percy's blue shawl"
+    owner_or_people: ["Percy", "Annabeth"]
+    last_seen_chapter: 99
+    current_status: "Amphitrite gives it to Percy. He lends it to Annabeth for the evening; she returns it. It is folded at the foot of his Cabin Three bed."
+  - item_or_event: "Tyson's gift tools and hinge"
+    owner_or_people: ["Tyson"]
+    last_seen_chapter: 99
+    current_status: "The hammer, chisels and apron are Tyson's. He leaves the tools at the forge after a personal test; the eighth hinge trial is better but no finished hinge or birdhouse is shown."
+  - item_or_event: "Triton's calling conch"
+    owner_or_people: ["Triton"]
+    last_seen_chapter: 99
+    current_status: "Gifted by Amphitrite; used experimentally and held by Triton at the beach. No later call is shown."
+  - item_or_event: "Beryl's letter"
+    owner_or_people: ["Thalia"]
+    last_seen_chapter: 99
+    current_status: "Opened, folded and kept in Thalia's jacket. No reply is sent; Beryl's claims are unverified."
+  - item_or_event: "Thalia's right palm"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 99
+    current_status: "Still bandaged; no check, healing outcome or clearance for bracing/sparring is reported."
+  - item_or_event: "Chapter 097 dock board"
+    owner_or_people: ["Camp Half-Blood"]
+    last_seen_chapter: 99
+    current_status: "Third board still flexes. Chapter 099 uses the marked path and firm sand, not the dock."
+unresolved_tensions:
+  - "Beryl's letter claims sobriety, Ojai residence and Jason's help with a ride; none is independently verified."
+  - "Thalia's response to Beryl remains undecided; no home visit or reconciliation is established."
+  - "Thalia's wrapped palm remains uncleared."
+  - "Tyson's working hinge and Amphitrite's birdhouse remain unfinished; no tree is selected."
+  - "The exact date/gap from Chapter 098 to 099 and from 099 to 100 remains unknown."
+  - "Chapter 099's evening bonfire is not explicitly identified as the thousandth campfire in Chapter 100."
+  - "The Chapter 098 public map trial, north-trail closure and dock repair remain unresolved."
+  - "Amphitrite has not been told about the erased timeline or Percy and Annabeth's old-life memories."
+open_canon_questions: []
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true

@@ -1,6 +1,6 @@
 # Chapter 127 editorial screening: Guest and Beloved
 
-**Source:** [Chapter 127](../../chapters/127-guest-and-beloved.md), git blob `da9454e36005bb65c189a0e86caec9f7e9d6311c`. **Approximate body words:** 4,745. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 127](../../chapters/127-guest-and-beloved.md). **Body words:** 10,115 by the repository whitespace-token method. **Status:** Screening with a focused secrecy-boundary wording repair; full chapter review remains incomplete.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -25,4 +25,4 @@
 
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
-**Audit status:** Evidence-linked screening, not an implemented fix.
+**October 17 continuity repair:** At lines 513–519, Amphitrite's reassurance no longer refers to “the boy you were before camp.” She tells Percy there is no performance he owes her and that they can learn who he is now together. This keeps the established mother–son warmth while avoiding an implication that she knows about his autobiographical memory gap. The chapter's Percy/Annabeth memory conversation remains private and unwitnessed by Amphitrite.

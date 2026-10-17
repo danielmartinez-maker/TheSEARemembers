@@ -268,15 +268,117 @@ Blunt, not unkind. Percy studied the shell in his palm, its edge catching mornin
 
 "Don't thank us for telling you to be honest," Clarisse said, swinging the spear onto her shoulder. Then she tossed it toward him. "Show me whether you can move this."
 
-Sand whispering underfoot, Silena whisked the photograph clear before they took positions, tucking the sleeve tight against blowing grit.
-
-Silena whisked the photograph clear of the sand before they took positions. Clarisse closed fast. Percy blocked, pivoted, redirected her third strike so momentum carried her past his shoulder.
+Sand whispering underfoot, Silena whisked the photograph clear before they took positions, tucking the sleeve tight against blowing grit. Clarisse closed fast. Percy blocked, pivoted, redirected her third strike so momentum carried her past his shoulder.
 
 She turned, eyes bright. "Better."
 
 "That sounded like praise."
 
 "Don't grow accustomed." They traded a few more passes, corrections flying while Silena named the faults neither wanted to hear. The shell no longer weighed like a stone in his pocket. The question remained, but it had edges now.
+
+---
+
+Percy meant to go directly from the beach to the archery range. Instead he saw the canoe shed door standing open and remembered he'd promised to help sort the spare paddles.
+
+Mara was inside, kneeling over a crate of life jackets. She looked up when his shadow crossed the threshold.
+
+"You're late."
+
+"By how much?"
+
+"Not terribly. I started without you."
+
+"I was talking to my sisters."
+
+"Good. Now help me find the ones with broken buckles."
+
+He set the shell on a dry shelf, far enough from the water that it wouldn't start glowing in sympathy with the sea. The canoe shed smelled of varnish, damp wood and rope that had been put away too soon. On a board beside the door someone had pinned the dock inspection list they'd drawn after the lost fishing line was found months earlier. Percy recognized Annabeth's map at once. Mara had added dates and initials beside every completed check.
+
+"You kept it," he said.
+
+"Of course. A good map saves people work."
+
+A second note beneath it read: TWO CHILDREN REQUESTED OBSERVATION ACTIVITY. A later entry recorded that the instructors had approved a supervised shore-based nature walk, but not any experiment involving buckets lowered from the dock. Percy smiled at the distinction. He remembered the younger campers leaving the beach with their empty bucket and far more questions than they'd brought.
+
+"Did the kids ever do the lesson?" he asked.
+
+"Last week. One boy brought me a drawing of every bird he could identify from the bank. The girl made a chart of how many times somebody told her to stand farther from the edge."
+
+"How many?"
+
+"Four. She wrote them all down."
+
+Percy laughed. Mara handed him a damaged jacket.
+
+"Here's another thing for the chart. See the stitching?"
+
+The strap had frayed where it passed under a small metal clip. Percy tested it and felt the fibers stretch, much too easily.
+
+"Out of service," he said.
+
+"Good. Tag it."
+
+He wrote the condition on a strip of paper. Another jacket had a sound buckle but a torn shoulder seam. A third fit nobody without riding up dangerously when lifted. Percy sorted them in silence, checking each one before he put it into the usable or repair pile.
+
+A boy arrived with two paddles under one arm and a canoe schedule under the other.
+
+"Mara says you're supposed to help teach the basic launch next week," the boy told Percy.
+
+"Am I?"
+
+"It says Percy Jackson on the list."
+
+Percy took the page. There was his name, in Chiron's tidy handwriting, next to the younger group. The work involved two afternoons, not a full month, and he could probably arrange a substitute. But he hadn't remembered it when Poseidon's invitation arrived. He'd been imagining the palace at a different depth from camp, as though the two schedules couldn't intersect.
+
+"I knew I had canoe duty," he said. "I didn't realize I'd been assigned the launch demonstration."
+
+"You volunteered," Mara said.
+
+"Oh."
+
+"During the last safety meeting. You said the younger campers should be able to ask questions without the instructor using the water to answer for them."
+
+"I did say that."
+
+"You were right. But right ideas still need people to show up and carry them out."
+
+He stared at the page. Mara didn't look angry. She expected him to make a responsible decision about the assignment, and he wasn't yet sure what that decision should be.
+
+"There's a chance I'll visit Atlantis for training," he said.
+
+"How long?"
+
+"Maybe a month. Maybe not. No dates yet."
+
+"Then don't erase your name before you have dates. When you know, come talk to me. We can find someone else, or change the lesson. What we can't do is wait until the children arrive and tell them you had an interesting offer."
+
+"Fair."
+
+She passed him a box of replacement buckles.
+
+Percy worked through the remaining jackets, adjusting straps, testing clips, and listing what could not safely be used. At one point he considered asking the water to rinse the salt off a pile of paddle blades, but Mara had already filled a basin. He used the basin. The chores went faster with two people doing different tasks than with one person waving his hands at everything.
+
+The boy with the schedule stayed to help. He was afraid of deep water, which he admitted quietly once Mara stepped outside to check the boats.
+
+"Doesn't that make me terrible at canoeing?" he asked.
+
+"It means you're cautious around water," Percy answered. "That can be useful."
+
+"Everybody else seems excited."
+
+"Not everybody. Some just make more noise."
+
+He showed the boy how to fit a life jacket so it wouldn't slip past his shoulders. The boy tried the buckle himself, then adjusted it once more when Percy asked whether he could breathe comfortably. Percy left him to test it without taking his hands away.
+
+By the time Mara returned, they had a tidy row of usable equipment and a separate box marked REPAIR. Percy signed the inventory and took a copy of next week's roster.
+
+"Thanks," Mara said. "Come back once you know your travel dates."
+
+"I will."
+
+He picked up the shell. It sat cool and quiet in his palm, as if Poseidon's invitation had been patient all along. Percy had wanted to go because he loved Atlantis and wanted more ordinary time with the family he was learning to know. That want hadn't become smaller. It had acquired an appointment at the canoe shed and two afternoons of other people's expectations.
+
+He folded the roster and put it in his pocket. He could show Chiron what he had promised rather than assuming someone else would remember it for him.
 
 ---
 
@@ -390,6 +492,102 @@ The mended bracer still lay on the rail. Percy picked it up and followed.
 
 ---
 
+On the way to Chiron's office, Percy found Silena outside the Big House with the Atlantis photograph held in both hands.
+
+She'd removed it from its sleeve. The garden behind the family was pale and green in the afternoon light, a place Percy could name every fountain in but couldn't fully remember from childhood. Clarisse's expression had been caught halfway between a grin and a challenge. Silena stood beside her with one hand resting on the back of a chair.
+
+"What happened to the sleeve?" he asked.
+
+"It's in my bag. Austin wanted to check the print against the archive entry."
+
+"Something wrong with it?"
+
+"No. I wanted to send a copy to the palace. I thought I should ask everyone in the photograph before assuming it was ours to send."
+
+Percy looked again. Poseidon and Amphitrite stood beneath the garden arch. Triton had let the photographer catch him with one eyebrow raised. Tyson was just visible at the edge, a solid shoulder and a hand lifted in greeting.
+
+"Amphitrite was there," Percy said.
+
+"That doesn't mean everyone else wanted their faces sent wherever the palace mail goes."
+
+"You're right."
+
+Silena studied him. "That was a suspiciously easy answer."
+
+"I've been practicing."
+
+"You were practicing listening to me at two in the morning a few weeks ago. Doesn't mean the practice has to be dramatic every time."
+
+He recognized the reference. She'd wanted people to notice her wishes instead of thanking her for keeping everyone happy. This time she'd already decided what she wanted and had come here to find out how to do it without speaking for other people. He resisted the impulse to offer to handle the whole task.
+
+"What do you need from me?" he asked.
+
+"Your permission for a family-only print. Not permission on everyone else's behalf. If you'd rather keep this copy in Cabin Three, Austin can make another once the consent sheets are checked."
+
+"Can you tell him yes from me?"
+
+"Yes. But write it down. He's trying to keep the archive accurate."
+
+She handed him a small form with his name already printed at the top. Percy checked the lines. One asked whether the photograph could be displayed at camp. Another asked whether a copy could travel to Atlantis for family use. The second was blank.
+
+He checked the family-only box and wrote the date. He didn't check the option for public display in Atlantis. It was easy to imagine the palace hanging the photograph in a broad corridor where visiting courtiers could stare at his sisters without ever having met them. That was different from showing it to the family.
+
+"That's the restriction I want," he said.
+
+Silena read it and nodded. "Mine too."
+
+"Does Clarisse agree?"
+
+"She wants the photo kept off any official royal noticeboard. Her exact words were longer and involved a threatened spear."
+
+"Sounds reasonable."
+
+"Reasonable was not one of the words she used."
+
+Percy looked toward the office window. Chiron had already stacked folders for the day's meetings. Somewhere behind the walls Austin was organizing prints that would eventually survive long after the people who'd posed for them had forgotten which day they were taken.
+
+"Are you going to put a note in with it?" he asked.
+
+"I might."
+
+He started to suggest something cheerful to say to Amphitrite, then stopped. Silena's relationship with the sea queen was hers to define. Percy's bond with Amphitrite didn't give him the right to write his sister's feelings.
+
+"What would you want her to know?" he asked instead.
+
+Silena gave him an odd look, then smiled.
+
+"That it was a good day. That Clarisse complained about the sunlight until she saw the print. That I liked standing there, even when the photographer kept telling me to move."
+
+"Those sound like things worth saying."
+
+"They're not a diplomatic message."
+
+"Good."
+
+She replaced the photograph in its sleeve. "I'll write my own note. You can write one too if you want. Just don't attach an entire plan for the next visit before Chiron has seen the dates."
+
+Percy looked down at the shell in his hand.
+
+"Are you all conspiring about that?"
+
+"No," Silena said. "We just know what you do when somebody offers you a month in a place you love."
+
+"What do I do?"
+
+"You start imagining what everyone else will want before you've asked them."
+
+He couldn't deny it. He could only choose what to do next.
+
+"Then I'll ask Chiron," he said.
+
+"That's why you're standing outside his office."
+
+"Right."
+
+Silena stepped aside to let him pass. Behind him she began telling Austin about the restrictions she wanted on the print, in her own words and her own voice.
+
+---
+
 Percy went to Chiron after speaking with Thalia, carrying the shell and an empty page from Annabeth's notebook. He didn't know what answer he'd give his father, but he had finally decided that guessing about a month's absence was not the same as planning one.
 
 Chiron was at his desk sorting the next training rotation. Outside the open window the camp moved through its afternoon chores, hammering from the armory and the distant clatter of dining tables carrying through the heat.
@@ -496,6 +694,316 @@ Silena gave the repaired strap a final tug. "Then that's what you should figure 
 
 He listened to the sound of the cabin fountain and looked at the still-blank calendar. The fact that he wanted to go had not changed. He was beginning to distinguish what he wanted from what he assumed he had to accept in order to receive it.
 
+
+---
+
+After leaving Chiron, Percy tried to take the training table straight back to his desk. He made it as far as the forge before he noticed Beckendorf testing a battered bronze fitting against a wooden frame.
+
+It looked like the hinge from a trapdoor. The metal turned smoothly until it reached the last inch, then caught.
+
+"Needs room to expand," Beckendorf said without looking up.
+
+Percy stopped. "The hinge?"
+
+"And the wood. They change shape in the heat. You have to leave space for both."
+
+Percy looked at the page in his hand. "I have a question about something that might change shape underwater."
+
+Beckendorf turned, wiping his hands on a rag. "That's not ominous at all."
+
+"It might be. Poseidon offered me a month of training in Atlantis. Deep currents. Triton as instructor, maybe Dad some of the time. Chiron wants specifics before he approves anything."
+
+"And you want to know what the equipment should look like."
+
+"I want to know which parts of the plan are stupid."
+
+"That's a more useful question. Come inside."
+
+The forge was warm enough to make Percy forget the breeze outside. On one table Beckendorf had laid out a row of bent fittings, each marked with a different number. He cleared a clean spot and set a metal weight on Percy's paper so it wouldn't curl.
+
+"What's the deepest part of the training?" he asked.
+
+"I don't know."
+
+"How are you getting there?"
+
+"Through the palace. Probably."
+
+"Probably isn't a route."
+
+"I know. That's why the table has blanks."
+
+Beckendorf glanced at the columns. "All right. What's your stopping point?"
+
+"What do you mean?"
+
+"If you get halfway into the lesson and realize you can't do what they expect, how do you tell the instructor? And who gets you out?"
+
+Percy opened his mouth. Poseidon could probably hear him anywhere in the ocean. Triton knew those currents better than anyone he had ever met. Percy was reasonably sure he could rise toward shallower water if he needed to.
+
+None of those was a practical answer to the question.
+
+"I haven't asked," he admitted.
+
+"Then ask. Even if a god says you'll be fine."
+
+Percy considered the thought. Triton had been strict about the stop signal during the camp lesson. It shouldn't be insulting to ask him what the underwater version would be. If anything, his brother might like having proof Percy had listened.
+
+"What else?"
+
+"Equipment. If you have to wear something, get the dimensions and the limits. If you don't have to wear anything, find out why. Don't assume another person can follow you just because you can survive somewhere."
+
+"I wouldn't bring Annabeth into something unsafe."
+
+"I believe you. But you and she get to make that decision using facts, not guesses."
+
+Percy looked down at the blank space labeled communication. It had seemed easy to draw a line from that box to Annabeth's name. The palace had magical couriers and gods who sent messages through shells. That didn't mean the methods would work on any day he wanted to talk, or that Annabeth should plan her life around waiting for one.
+
+"Chiron already told me not to assume a weekly call is possible," he said.
+
+"Good. Then ask what is possible."
+
+Beckendorf picked up the bronze hinge and showed him where the metal had begun to seize. "We build tests for the condition we expect the thing to survive. Then we find out what actually happens. If it fails, we change the design."
+
+"You make it sound easy."
+
+"It's tedious. That's different."
+
+Percy laughed. "You're doing a great job selling engineering."
+
+"I don't need to sell it. I enjoy the part where things don't break."
+
+They drafted three questions Percy hadn't put in his first message: what counted as an emergency stop, how a lesson ended if a participant wanted out, and how any guest would be evaluated for safe participation. Percy made a separate line for Annabeth. He did not write down that she would visit, only that he would ask whether visits were possible and bring her the answer without treating it as a decision.
+
+Beckendorf read the page, then returned to the hinge.
+
+"One thing," he said as Percy rose. "If you go for a month, you'll come back with stories. Don't tell everybody the deep part first."
+
+"What should I tell them?"
+
+"Tell them what a normal day was like. They can ask about the dangerous stuff if they want."
+
+Percy thought of the palace dining hall and the sound of cups against a long stone table. He wanted to spend an ordinary meal there without the pressure of impressing anyone. That was part of what the invitation meant, and he'd almost reduced it to a set of drills.
+
+"I'll remember," he said.
+
+Beckendorf grinned. "You might. Write it down anyway."
+
+Percy did. At the bottom of the table, under all the boxes about instructors and safety, he added a line that wasn't a technical requirement: ordinary time with family.
+
+He folded the paper and left the forge. The questions hadn't made the choice easier, but they made it possible to recognize an answer when one came.
+
+---
+
+Before dinner Percy took his proposed calendar to Chiron.
+
+There were thirty boxes on the page. He had shaded five of them for lessons he would miss at camp, and another four for the nights he wanted to speak to Annabeth if she had time. They looked harmless until Chiron spread the actual training roster beside them.
+
+"You've included the autumn safety review," Chiron said.
+
+"I can make it up."
+
+"It isn't an examination. You're assigned to help younger campers prepare the boats. Somebody will need to cover your station."
+
+Percy looked down at the roster. He'd imagined a month underwater as a choice between himself and Atlantis. It was also a choice that made more work for people who stayed behind.
+
+"Could we move the visit?"
+
+"Possibly. But first establish whether the palace means thirty consecutive days or a training block with permitted visits home."
+
+"I thought that was obvious."
+
+"That's why we write it down."
+
+Chiron lent him paper. Percy drafted two questions to Poseidon and Triton: the proposed dates and whether he could return for camp obligations without disrupting the course. He did not add a third asking whether he was disappointing anyone by requesting a shorter visit. That question belonged to him, and he wasn't ready to give it to his father as though Poseidon should answer it.
+
+At the other end of the table Annabeth calculated the likely dates from her own lesson schedule. She'd brought her notebook, but not to design Percy's month for him.
+
+"If they answer tomorrow, we can compare the options," she said. "Not before."
+
+"Do you want to come for part of it?"
+
+"I might. I'm not promising a week I haven't checked."
+
+"Fair."
+
+Silena came in to collect the garden gloves she'd lent Chiron and glanced at the schedule. She saw the empty boxes where Percy hadn't written dates yet.
+
+"You're not leaving tomorrow, then?"
+
+"No. I'm finding out what the invitation actually allows."
+
+"Good," she said. "Then I can ask you to help with the laundry without feeling I'm stealing you from the king."
+
+Percy folded the questions and placed them under Chiron's seal for the outgoing current. The month wasn't canceled. It wasn't confirmed either. It had begun to look like something he could plan without turning other people's lives into assumptions.
+
+Before he left, Chiron stopped Percy with another question.
+
+"About the canoe lessons. You said Mara would have someone available if your trip happens. Who did you mean?"
+
+Percy checked the roster. "I thought she'd decide."
+
+"She may. But you've not yet told her what the younger campers need from your demonstration. You cannot simply erase your name from a list and call the obligation settled."
+
+Percy studied the page. The boxes were full of dates and unanswered questions, but there was nothing about what he'd promised the students.
+
+"Can I ask her now?" he said.
+
+"Of course. You'll be late to dinner if you take too long."
+
+Annabeth looked up from her notebook. "Want me to come?"
+
+He wanted her beside him, but that was partly because she'd spot every missing step before he did. She had her own work and had already told him that sharing decisions wasn't the same as making them for one another.
+
+"I'd like you to review the plan later," he said. "I can make the first draft."
+
+"Good. I have a diagram to finish."
+
+He hurried toward the canoe shed. Mara was cleaning the board where the week's activities were posted, preserving a little note about a supervised shore-observation exercise. Percy recognized the name of a younger camper who'd once asked him to put a fish inside an empty bucket.
+
+"You again," Mara said.
+
+"I have a problem with the launch lesson."
+
+"With the boats?"
+
+"With whether anybody can teach it if I'm away."
+
+"Anybody trained to teach canoeing can launch a boat."
+
+"Right. But the younger group wanted to learn how not to rely on me using water powers to fix everything. I told them I'd show them the steps."
+
+"Then write down the steps."
+
+She took a sheet of paper, drew two columns, and labeled one WHAT THE STUDENT DOES and the other WHAT THE INSTRUCTOR CHECKS. Percy listed what he remembered: choosing a clear launch area, checking each life jacket, counting paddles, deciding who gave instructions and having everyone acknowledge the instruction before moving the boat.
+
+"You're missing what happens when somebody says they don't want to launch," Mara observed.
+
+"Then they don't."
+
+"Put it on the page. The instructor should acknowledge the decision, not treat it as a failure."
+
+He wrote that down.
+
+Then Mara decided to test his directions. She stood beside a canoe resting on its rack and pretended she'd never seen one before. Whenever Percy used a vague phrase, she asked what he meant.
+
+"Check the equipment."
+
+"Which equipment?"
+
+"The paddles. Life jackets. Everything we need."
+
+"Where's the list?"
+
+He pointed to the board.
+
+"Then tell me to look at the list. Don't make me guess."
+
+Percy sighed. "Fine."
+
+"Excellent. Keep going."
+
+He told her to keep the canoe steady. She put one hand directly where the frame could pinch her fingers if it moved. Percy stopped her.
+
+"Not there."
+
+"You didn't say where."
+
+"Right."
+
+He crossed out another sentence.
+
+They walked through the entire process without putting the boat in the water. Mara made deliberate mistakes. Percy caught some immediately and missed others until she pointed them out. The written steps changed each time, and by the end he had a sore hand from rewriting them.
+
+"What if it's windy?" he asked.
+
+"Then the instructor decides whether the conditions are suitable. Don't improvise the weather rule. We already have one."
+
+"What if I'm there and can help with the water?"
+
+"Then you remain responsible for using the same procedure the others use. Your power might assist in a genuine emergency, but it doesn't replace a safety rule."
+
+He thought about the earlier dock incident, when he'd wanted to check every hidden piling alone because he could swim where other people couldn't. Mara had told him that a safe dock had to be safe for ordinary people, not only the son of Poseidon.
+
+"You told me that before," Percy said.
+
+"I was hoping you'd remember."
+
+"I did. Eventually."
+
+She smiled.
+
+By the time the instructions were readable, the sun had shifted behind the shed. They still needed a training assistant for the actual lesson, but now anyone approved to teach would know what Percy had promised and what the younger campers were supposed to practice. Mara said she would choose the replacement once the dates were known, not before.
+
+"Can I take a copy?" Percy asked.
+
+"You wrote it."
+
+"I mean for Chiron."
+
+"Yes. And give me your proposed travel dates when you have them. I will not rearrange the class because you're imagining a trip you haven't accepted."
+
+"Understood."
+
+At the door he noticed one of the younger campers struggling to adjust a borrowed life jacket. The child had buckled it loosely enough that the whole thing rose toward his chin when Percy pulled at the shoulders.
+
+"Try again," Percy said.
+
+The boy frowned. "It's already buckled."
+
+"That isn't the same as fitting."
+
+Percy showed him the straps, then stepped back. The boy adjusted them himself, testing each one. When Percy checked again, the jacket stayed in place.
+
+"Better," Percy said.
+
+"Can I go now?"
+
+"When Mara says you're ready. I'm not in charge of the dock right now."
+
+The boy turned toward the instructor instead of looking disappointed. It was such a small thing that Percy almost missed what had changed. He could help somebody understand the work without becoming the sole person who could authorize it.
+
+He returned to the Big House with the two-page plan. Annabeth was putting her notebook away.
+
+"How'd it go?" she asked.
+
+"'Check the equipment' is apparently a terrible instruction."
+
+"Depends what you're checking."
+
+"Exactly. I had to write it properly."
+
+She glanced at the sheets. "Want me to look?"
+
+"When you've finished your own work. There's no deadline tonight."
+
+"Then I will."
+
+He handed Chiron a copy, explained which points Mara would review with the approved replacement, and put the other copy into his own notebook. Nothing about the month in Atlantis had been decided. The people who would still be at camp, however, were no longer an afterthought in his planning.
+
+He'd wanted a month where an ordinary day at the palace belonged to him as much as an impressive training session did. An ordinary day at camp also belonged to people who expected him to show up. He could make space for both possibilities only by saying what was true, including what he didn't yet know.
+
+Chiron glanced at the launch instructions.
+
+"Did Mara approve these?"
+
+"She tested them. She said the new instructor will check them again before anybody gets near the water."
+
+"Then you've done what you can for now."
+
+Percy hesitated. "I still don't know what Triton expects me to accomplish in Atlantis. I know the words deep-current training, but not the actual exercises."
+
+"Then ask him, not your imagination."
+
+Percy found a clean slip of paper and wrote to his brother. He asked what a typical day of training would contain, how they would handle a stop signal far below the surface, and whether they could end a session early without treating it as a failure. He added one question he hadn't expected to write: would there be time when neither of them had to behave like an instructor and a student?
+
+He considered deleting that last line. It sounded needy. Triton had been busy during the visits Percy remembered, always called somewhere by a servant or a guard, but he had also taken time to explain the palace's ordinary habits. Percy wanted those habits, not just better control over the water.
+
+He folded the note without sending it. The shell had already carried a request for details to Poseidon; he didn't need to bombard the palace with a second message before the first was answered. Chiron offered to hold the note with the travel table until Percy decided whether it was still needed.
+
+"That is a separate question from whether you go," Chiron said. "You are allowed to want time with your brother."
+
+Percy nodded and left it in the folder. The note was written, not delivered. Triton had not promised him anything. He would not walk into tomorrow pretending otherwise.
 
 ---
 
@@ -691,47 +1199,7 @@ She kissed him again, brief answer to his answer. His hand remained in hers upon
 
 ---
 
-Before dinner Percy took his proposed calendar to Chiron.
 
-There were thirty boxes on the page. He had shaded five of them for lessons he would miss at camp, and another four for the nights he wanted to speak to Annabeth if she had time. They looked harmless until Chiron spread the actual training roster beside them.
-
-"You've included the autumn safety review," Chiron said.
-
-"I can make it up."
-
-"It isn't an examination. You're assigned to help younger campers prepare the boats. Somebody will need to cover your station."
-
-Percy looked down at the roster. He'd imagined a month underwater as a choice between himself and Atlantis. It was also a choice that made more work for people who stayed behind.
-
-"Could we move the visit?"
-
-"Possibly. But first establish whether the palace means thirty consecutive days or a training block with permitted visits home."
-
-"I thought that was obvious."
-
-"That's why we write it down."
-
-Chiron lent him paper. Percy drafted two questions to Poseidon and Triton: the proposed dates and whether he could return for camp obligations without disrupting the course. He did not add a third asking whether he was disappointing anyone by requesting a shorter visit. That question belonged to him, and he wasn't ready to give it to his father as though Poseidon should answer it.
-
-At the other end of the table Annabeth calculated the likely dates from her own lesson schedule. She'd brought her notebook, but not to design Percy's month for him.
-
-"If they answer tomorrow, we can compare the options," she said. "Not before."
-
-"Do you want to come for part of it?"
-
-"I might. I'm not promising a week I haven't checked."
-
-"Fair."
-
-Silena came in to collect the garden gloves she'd lent Chiron and glanced at the schedule. She saw the empty boxes where Percy hadn't written dates yet.
-
-"You're not leaving tomorrow, then?"
-
-"No. I'm finding out what the invitation actually allows."
-
-"Good," she said. "Then I can ask you to help with the laundry without feeling I'm stealing you from the king."
-
-Percy folded the questions and placed them under Chiron's seal for the outgoing current. The month wasn't canceled. It wasn't confirmed either. It had begun to look like something he could plan without turning other people's lives into assumptions.
 
 
 

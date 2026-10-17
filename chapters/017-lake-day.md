@@ -1,13 +1,9 @@
 ## Chapter 17: Lake Day
 
 
-The canoe lake smelled of mud, cut grass, and sunscreen. Percy stepped onto the dock, surprised by how little it reminded him of salt water.
+Percy stepped onto the canoe dock and checked the nearest mooring rope before he could stop himself. The freshwater below was full of mud, reeds and half-submerged logs, unlike the cold salt water where Triton had recently taught him to let the currents take his weight. A canoe kept turning against its post because someone had tied it to the wrong cleat. Percy fixed the knot and felt the pull steady under his hand.
 
-That was Percy's first thought when his bare feet hit the warm planks of the dock, and he immediately felt guilty for thinking it, because everyone else was cheering like the canoe lake was the best thing that had ever happened.
-
-It wasn't that it smelled *bad*. It smelled like — sun-warmed pine and sunscreen and cut grass and that sharp green algae smell around the edges where the water went shallow. It just didn't smell like home. Home smelled like cold salt and deep current and kelp forests and the iron tang that hung around the forges in Atlantis. Home smelled blue and far down.
-
-This lake smelled bright and shallow and *loud*.
+Behind him the campers cheered for a free day. The shore smelled of cut grass and sunscreen, and a naiad was already arguing with somebody over an unattended picnic basket. Chiron had approved a swimming race on one condition: Percy couldn't use divine propulsion. Zoe had been practicing her turns while he'd been relearning how to swim on the surface. He wanted to find out whether he could win honestly. If he couldn't, he had every intention of asking Zoe to teach him something new.
 
 "Okay, stop making that face," Clarisse said, elbowing him hard in the ribs. She was already in her swimsuit, hair pulled back in a knot, a towel slung over her shoulder like a cape. "You look like someone told you the lake personally offended you."
 
@@ -560,7 +556,7 @@ Next was Marco Polo, and Percy was terrible at that too — he kept peeking, bad
 
 Clarisse floated on her back and watched her brother laugh with lake water in his ears and sand under his nails, finally looking like a kid on a lake day instead of a prince holding his breath, and felt something in her chest unknot.
 
-She'd worried, when he came up — their little brother arriving from Atlantis to join their loud bright camp — that Percy would never get to just be twelve. He had told his sisters he remembered too much. Seventeen years of war and loss and drowning and *her* — Annabeth, gone, and then found again but different — and he carried it behind his eyes even when he smiled.
+She'd worried, when he came up — their little brother arriving from Atlantis to join their loud bright camp — that Percy would never get to just be twelve. He had told his sisters he remembered too much. Clarisse didn't know the memories' stories; she only knew they could weigh on him even during a day of play.
 
 But right now, getting splashed by Nico and heckled by Thalia and corrected on his chicken-fight stance by a ten-year-old from the Demeter cabin? He was twelve. Loudly, messily twelve.
 
@@ -707,7 +703,7 @@ She gave him the orange slice. He ate it triumphantly while she erased the circl
 
 "Did we really play this when I was little?" he asked.
 
-"All the time," she said. "You used to demand a rematch whenever I won."
+"All the time," she said. "You used to demand a rematch whenever I won. Sometimes you hid the best shells under your towel so you could pretend you'd found them at the last minute." Clarisse sounded irritated by the old trick and pleased that he had asked rather than pretending to remember.
 
 "I haven't changed much."
 

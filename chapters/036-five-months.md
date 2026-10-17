@@ -4,9 +4,7 @@
 
 ---
 
-Percy woke to the sound of the lake.
-
-That was new. In his first days back in Cabin Three, he had woken to salt in the air, his sisters breathing across the room, and the feeling that the sea itself was holding its breath around him. The familiar family sounds belonged to a childhood he could not remember. Then the lake found him. Not all at once. First it was gulls before breakfast. Then it was the slap of small waves against the canoe dock. Then, after enough mornings of listening, he started waking a half-second before the conch horn, eyes already open, listening to water move against the shore like it was checking on him.
+Percy woke to the canoe lake, though it had taken months for its sounds to become familiar. In his first days back in Cabin Three, salt in the air and his sisters breathing across the room had made the sea feel close; those family sounds belonged to a childhood he could not remember. The lake reached him gradually: gulls before breakfast, small waves against the dock, then the steady lap that began to wake him a half-second before the conch horn.
 
 Today the conch didn't blow right away.
 
@@ -764,7 +762,7 @@ They drank. The brazier popped. The stars came out thicker. Somewhere the harpie
 
 No accusation from Olympus reached them that night. No oracle cried out. No war began.
 
-There was only camp, and dinner, and each other — seven kids at the end of a table, laughing, full and safe and together, with all the time in the world stretched gold before them.
+There was only camp, dinner, and each other—seven kids at the end of a table, laughing, full and safe for that evening. The remembered quest still had no date here; tomorrow would bring its own tasks, and none of them had to solve that before dessert.
 
 Percy wanted to believe they could keep building this life without having to sacrifice the one they remembered. He didn't know how. But he knew whom to ask for help.
 

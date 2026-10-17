@@ -2,7 +2,7 @@
 
 Mail came to Camp Half-Blood on Tuesdays and Fridays, assuming the wind nymphs felt like cooperating, assuming no harpies got possessive over a glossy catalog, assuming Mr. D wasn't in a mood to declare that all post was mortal nonsense and set it on fire.
 
-That Friday a few weeks later, the air smelled like crushed strawberries and cold coming off the Sound. Percy Jackson was already at the breakfast pavilion when the mail bag thumped down onto the Hermes table, trailing oak leaves.
+On Friday Percy was at the breakfast pavilion when the mailbag hit the Hermes table, scattering leaves over somebody's toast. Strawberry carts had already crossed the path, and a cold wind from the Sound kept stirring the napkins. Across the pavilion Thalia sat at the Zeus table with her jacket zipped, watching the post without admitting she was interested. Percy remembered that the letters they'd written to Jason still had no confirmed delivery. He hoped for a reply about the Roman mail route; he didn't know what the pale-blue envelope at the top of the bag would do to Thalia's day.
 
 "Mail call!" Travis Stoll shouted, standing up on the bench with the bag upended. "Love letters, blackmail material, and bills!"
 
@@ -48,7 +48,7 @@ Clarisse and Silena exchanged a look. That was new, that look. Since the three P
 
 "That's her sister," Percy said.
 
-"Yeah," Clarisse said. "That's why it's her business first."
+"Yeah," Clarisse said. "Thalia has a right to be upset, but if both names are on the envelope, Annabeth gets a chance to read it too. Don't try to solve it for either of them." Clarisse caught Percy's look. "And that doesn't mean you get to steal it from Thalia's pocket."
 
 ---
 
@@ -203,7 +203,7 @@ Outside the armory, the afternoon bell sounded. Thalia went out toward the pavil
 
 Then she saw Percy speaking to Clarisse, remembered the promise she'd made to Chiron and decided she couldn't hand over the letter with an audience listening. She would wait until they could talk alone.
 
-The delay had a reason. It did not become harmless because the reason was understandable.
+Thalia had a reason for waiting, and she could admit it without claiming that made the delay harmless. She had heard Annabeth ask for years not to be protected by withheld information. She kept her hand over the letter in her pocket until she reached the cabin where the two of them could speak without an audience.
 
 
 

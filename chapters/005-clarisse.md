@@ -38,7 +38,7 @@ Percy leaned over enough to see the outline of a pointed ear. Two wings had been
 
 "So you're making her a present."
 
-"I'm making something that will stop her moving my equipment to make room for scented candles."
+"I started it for her. Silena looked at the sketch and told me the shelf needs a drawer more than another decoration." Clarisse brushed a shaving off the wing. "She's right about the drawer, which is annoying. I'll finish this anyway."
 
 "That's a very generous gift."
 
@@ -692,9 +692,7 @@ She nudged it toward him with one bare foot. Percy picked it up and checked for 
 
 Clarisse rolled her eyes, but she was smiling when she turned back to the water.
 
-Clarisse snorted and drew something out of her jacket pocket.
-
-It was the panther she'd been working on at the border post. Finished now, or nearly so. The wings were carved in overlapping rows of feathers, and the paws were too large for the body. The face had a crooked expression that made it look permanently annoyed.
+Clarisse drew the panther from her jacket pocket, turning it over to check the wings. She'd started it for Silena's shelf, but Silena preferred storage she could actually use. Clarisse had finished carving it anyway, and now she looked almost annoyed at herself for bringing it down to the lake. The face had been polished smooth where her thumb would have rested as she worked, but the paw joints and undersides of the wings still showed the separate knife cuts. The paws were too large for the body. Its crooked expression looked like one Clarisse would have recognized across a dining table.
 
 She held it out.
 
@@ -704,13 +702,13 @@ Percy took it before she decided not to offer.
 
 "What's this for?" Percy asked, turning the little animal carefully so its wings didn't catch on his sleeves.
 
-Clarisse kept looking across the lake. "Your birthday, if that makes it less awkward. I don't actually know when you were born, and I wasn't planning on asking you to make a speech about it. I had some wood left over and thought you might like it."
+Clarisse kept looking across the lake. "Your birthday, if that makes it less awkward. I don't know when it is yet, and you don't have to make a speech. Silena wanted a drawer, not a wooden cat. I figured you'd keep this somewhere it won't get stepped on."
 
 "I do," Percy said. "And for the record, the birthday system needs work, but the panther doesn't."
 
 He turned it in his fingers. The wing feathers were rough along the undersides, but the front of the animal had been polished smooth. A great deal of patient work had gone into something Clarisse was pretending not to care about.
 
-"Thanks," he said.
+"Thanks," he said. He could remember her teaching him to cut away from his fingers, and now the gift gave that lesson a shape he could hold. He turned it once more, then tucked it where the wings wouldn't catch on his shirt.
 
 "Don't make a thing of it."
 

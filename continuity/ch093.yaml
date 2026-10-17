@@ -1,0 +1,120 @@
+chapter: 93
+title: "Movie Night"
+source: "chapters/093-movie-night.md"
+status: "revised; 10,114 body words; local candidate mechanical QA passed; hosted Actions pending"
+chronology:
+  relative_time: "Morning after Chapter 092's supervised-training plan; Friday movie night in late-August heat; first-bell return the following morning. Exact date/year unknown."
+  sequence: "Before first bell, supervised wider-lane lesson; Will checks Percy and Thalia; dinner and consensual shirt loan; Annabeth plans safe projector route; two films; group count and projector/cable shutdown; counselor-supervised overnight; first-bell group escort, blanket returns, equipment pack-up and Cabin Three return."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Training arena"
+  - "Infirmary edge"
+  - "Dining pavilion"
+  - "South green"
+  - "Cabin Three"
+participants:
+  primary: ["Percy", "Annabeth", "Clarisse", "Silena", "Thalia", "Will", "Chiron", "Evan"]
+  other: ["Mr. D", "younger trainee", "Austin", "Kayla", "Ella", "Tyson", "Grover", "Juniper", "Nico", "Jason", "Piper", "Frank", "Hazel", "Travis", "Connor", "Malcolm", "Katie", "other campers"]
+preceding_scene_verified:
+  chapter: 92
+  locator: "editorial/handoffs/ch092-jealousy-ii.md, carry-forward to Chapter 093"
+  context: "Will heard no recurrence of Percy's tingling and gave no diagnosis; Thalia's right palm remained tender and uncleared; the next-morning wider-lane lesson was scheduled, not completed."
+following_scene_verified:
+  chapter: 94
+  locator: "chapters/094-sick-day.md, opening"
+  context: "Percy returns to Cabin Three after first bell and rests; Chapter 094 opens when he is ill later that morning. Cause is not established. Thalia's palm still needs follow-up."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    first_meeting_chapter: 1
+    last_shared_scene_chapter: 93
+    forms_of_address_already_used: ["boyfriend", "girlfriend", "Wise Girl", "Seaweed Brain"]
+    earned_trust_or_conflict: ["Established partners; share blanket and emotional response to the second film; Annabeth chooses a temporary shared bunk by agreement."]
+    what_each_remembers_firsthand: ["Both remember their own autobiographical erased-life experiences; both experience the current movie night firsthand."]
+    what_each_knows_secondhand:
+      - fact: "Annabeth says the tapestry scene touches a feeling from the life she remembers."
+        source: "Annabeth tells Percy privately during the second film in Chapter 093."
+    private_facts_not_known_to_other: ["Percy's private Sally memory during the film is not disclosed to the group."]
+    new_change_this_chapter: "Annabeth and Percy reaffirm their established relationship through mutual comfort; her one-night bunk is consented to by Silena, Clarisse and Chiron."
+    future_callback_required: "Preserve the bunk's temporary status and the three-bunk distance; no relationship reset."
+  - pair: "Percy / Clarisse"
+    first_meeting_chapter: 1
+    last_shared_scene_chapter: 93
+    forms_of_address_already_used: ["brother", "little brother", "Fungus", "Jackson"]
+    earned_trust_or_conflict: ["Poseidon siblings; familiar two-tap ritual resumes after Percy's Ch092 jealousy; Clarisse remains free to lead and learn."]
+    what_each_remembers_firsthand: ["Their current sibling relationship and the Chapter 093 training session."]
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Clarisse leads the younger camper's chosen slow rotation, accepts Evan's assistance under Chiron's supervision and gives Percy their two taps."
+    future_callback_required: "No new jealousy or lesson schedule is created; the morning session is completed."
+  - pair: "Thalia / Annabeth"
+    first_meeting_chapter: 1
+    last_shared_scene_chapter: 93
+    forms_of_address_already_used: ["Thals", "Annabeth", "sister"]
+    earned_trust_or_conflict: ["Zeus/Grace sisters; Annabeth's use of the shared Cabin Three bunk is agreed, not assumed. Thalia's right palm remains under restrictions."]
+    what_each_remembers_firsthand: ["Each remembers her own current-history sibling experiences; Thalia's prior-life memories are hers alone."]
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: ["Annabeth's autobiographical erased-life memories are not Thalia's memories."]
+    new_change_this_chapter: "Thalia shares a quiet reaction to the mother-daughter film; no new disclosure about the rewrite occurs."
+    future_callback_required: "Thalia's wrapped, tender right palm remains uncleared and needs follow-up."
+  - pair: "Percy / Frank"
+    first_meeting_chapter: 83
+    last_shared_scene_chapter: 93
+    forms_of_address_already_used: []
+    earned_trust_or_conflict: ["Percy recognizes Frank from the firsthand spring exchange and asks before borrowing a clean spare Camp Jupiter shirt; Frank agrees and receives it back at first bell."]
+    what_each_remembers_firsthand: ["Percy remembers the Chapter 083 fireworks hill; both witness the Chapter 093 loan and return."]
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "One-night clothing loan completed; not a gift."
+    future_callback_required: "Frank has the shirt again; no photos from Frank are established."
+items_promises_injuries:
+  - item_or_event: "Percy's storm-related hand tingling"
+    owner_or_people: ["Percy", "Will"]
+    last_seen_chapter: 93
+    current_status: "Percy reports no return of tingling or weakness; Will repeats stop-and-report guidance and makes no diagnosis."
+  - item_or_event: "Thalia's right-palm burn"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 93
+    current_status: "Tender under a fresh, lighter outer wrap; not cleared to spar or brace; follow-up remains due."
+  - item_or_event: "Camp Jupiter shirt"
+    owner_or_people: ["Frank", "Percy"]
+    last_seen_chapter: 93
+    current_status: "Frank's clean spare shirt is lent at dinner and returned to Frank at first bell."
+  - item_or_event: "Hazel's star-patterned blanket"
+    owner_or_people: ["Hazel", "Ella"]
+    last_seen_chapter: 93
+    current_status: "Hazel lends it to Ella during the film; Ella folds and returns it at first bell."
+  - item_or_event: "Percy's blue blanket"
+    owner_or_people: ["Percy"]
+    last_seen_chapter: 93
+    current_status: "Percy leaves it by a log; Hazel hands it back at first bell."
+  - item_or_event: "Movie projector and extension cord"
+    owner_or_people: ["Camp equipment", "Austin", "Kayla"]
+    last_seen_chapter: 93
+    current_status: "After-film shutdown and cooling; projector and coiled cord returned to the Big House before campers settle. Empty table and tied screen are packed at first bell."
+  - item_or_event: "Supervised south-green campout"
+    owner_or_people: ["Chiron", "Will", "Clarisse", "camp counselors"]
+    last_seen_chapter: 93
+    current_status: "Approved one night; after-film and first-bell group counts completed; counselors escort groups back; no one leaves the boundary overnight."
+  - item_or_event: "Annabeth's temporary Cabin Three bunk"
+    owner_or_people: ["Annabeth", "Silena", "Clarisse", "Chiron"]
+    last_seen_chapter: 93
+    current_status: "One-night use approved; bunk is three bunks from Percy."
+unresolved_tensions:
+  - "Exact calendar date/year is unknown."
+  - "Percy's cold in Chapter 094 begins later that morning; cause is not established."
+  - "No Camp Jupiter photo transfer from Frank is shown or established."
+open_canon_questions:
+  - "No injury, diagnosis or recovery outcome beyond those directly shown."
+  - "The night campout ends at first bell; no continuing outdoor stay is planned."
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true

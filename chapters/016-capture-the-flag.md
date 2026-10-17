@@ -1,6 +1,6 @@
 ## Chapter 16: Capture the Flag
 
-The Poseidon cabin smelled like salt and fresh paint, which was weird because nobody had painted anything in there since approximately the Bronze Age, but Percy had decided not to question it. He was sitting cross-legged on the floor with a bowl of goldfish crackers in his lap, trying very hard to look like a normal twelve-year-old who had not spent the last three years learning how to plan ambushes with his girlfriend.
+Percy sat cross-legged on Cabin Three's floor with a bowl of goldfish crackers and a practice map between his knees. The room smelled of cedar, salt and leather conditioner from Clarisse's recently repaired shield. He was trying to look like an ordinary twelve-year-old preparing for capture the flag, rather than someone who'd spent years planning alongside the girl on the opposing team. Every time Clarisse drew another line on the map, he imagined where Annabeth would disagree. His sister had already learned to recognize that expression.
 
 This was harder than it sounded.
 
@@ -418,7 +418,7 @@ Clarisse La Rue did not have feelings about capture the flag. Capture the flag w
 
 Which was why it was extremely annoying that she currently had feelings.
 
-She crouched behind the willow curtain with her spear across her knees, watching the hollow where the blue flag hung from a low branch, rippling faintly in the breeze. It should have been a perfect defensive position. Water on two sides, thick mud that sucked at boots, willow fronds that hid everything. Annabeth — whoever she was — had called it exactly, which meant either the new girl was scary smart or someone on Clarisse's team had a big mouth.
+She crouched behind the willow curtain with her spear across her knees, watching the hollow where the blue flag hung from a low branch, rippling faintly in the breeze. It should have been a perfect defensive position. Water on two sides, thick mud that sucked at boots, willow fronds that hid everything. Annabeth had called the position exactly. Clarisse already knew the girl as Thalia's sister, Percy's girlfriend and the one who'd revised the evacuation routes after the storm. That didn't make her a teammate today. It made her an opponent who noticed the paths other campers forgot to guard, and Clarisse had no intention of losing just because Percy liked the way Annabeth drew maps.
 
 Her eyes cut to Percy, who sat beside her, dripping wet from a quick dip in the creek he'd used to "check the water" and whittling a stick with intense focus.
 
@@ -446,7 +446,7 @@ Clarisse watched him turn the color of a boiled shrimp. "Uh-huh."
 
 "It's not like that!" Percy said desperately. "I know her plans because we train together. That should be useful. To us. Our team. Very useful."
 
-"Percy," Clarisse said, and her voice came out gentler than she intended. Which was annoying, because she was supposed to be the scary older sister, not the feelings-having one. "I'm not mad. I'm just — look. You're my little brother. You're new here. Atlantis didn't prepare you for — for camp stuff. Crushes and drama and Thalia Grace glaring at you like you're a stain on her sandal."
+"Percy," Clarisse said, keeping her voice below the other defenders' hearing. "Annabeth's your girlfriend. I know that. Silena knows that. I don't need a lecture on why you like her. I need to know whether you'll guard this flag when she is on the opposite team." Her hand stayed on the worn grip of the spear. "I made you my partner today because you said I could count on you. Don't make me regret believing it."
 
 Percy blinked. "Thalia glares at everyone."
 

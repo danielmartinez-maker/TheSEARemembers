@@ -1,8 +1,8 @@
 # Chapter 041 editorial audit: Ordinary
 
-**Status:** Audit completed, prose unchanged.  
-**Source:** [Original chapter](../../chapters/041-ordinary.md)  
-**Approx. lexical words:** 5,571 (not a retrospective minimum check).  
+**Status:** Audit completed; the age references in this chapter remain consistent. The separate Ch038 age discrepancy was corrected to fourteen on 2026-10-17; Ch041 prose is unchanged.
+**Source:** [Original chapter](../../chapters/041-ordinary.md)
+**Approx. lexical words:** 5,571 (not a retrospective minimum check).
 **Rules:** `FIC_CONTEXT.md` and adjacent-chapter handoffs.
 
 ## Findings and proposed repairs

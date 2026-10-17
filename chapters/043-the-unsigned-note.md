@@ -94,7 +94,7 @@ It was the worst poem she had ever read. It was also the best thing anyone had e
 
 She slipped the glass into her pocket. All through inspection and breakfast she kept her hand there, turning it over with her thumb. Cool and smooth. When Percy looked over from the Poseidon table she held his gaze and mouthed *thank you* behind her cup. Percy turned so red Silena had to thump his back and ask if he was choking.
 
-After that the notes became a game with unspoken rules. Small. Folded tight. Hidden where only the other would look. Never signed except A and P. Nothing that would embarrass the other if found, though the thought of discovery made Annabeth's stomach drop.
+The music-night invitation had been one note, one question for that evening. The good-luck note and his sea-glass reply began the back-and-forth. After that, the notes became a game with unspoken rules. Small. Folded tight. Hidden where only the other would look. Never signed except A and P. Nothing that would embarrass the other if found, though the thought of discovery made Annabeth's stomach drop.
 
 Annabeth left a sketch of the arena with arrows showing foot placement. *You lasted six passes against Clarisse. SIX. I heard her tell Thalia.*
 

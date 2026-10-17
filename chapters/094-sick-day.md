@@ -40,11 +40,11 @@ Annabeth stared at him for a second, then, traitor that she was, she started lau
 
 "Oh, I'm telling everyone," Annabeth said, but she was already tucking the blanket back around his shoulders, brisk and gentle the way she did everything. "Stay here. Don't move. I'm getting Silena."
 
-"I'm the son of Poseidon," Percy said to the ceiling as she hurried for the door, letting in a blade of pale morning light that stabbed him right in the eyeballs. "Lord of the Seas. Earthshaker. And I got taken out by October weather."
+"I'm the son of Poseidon," Percy said to the ceiling as she hurried for the door, letting in a blade of pale morning light that stabbed him right in the eyeballs. "Lord of the Seas. Earthshaker. And I got taken out by late-August heat."
 
 The ceiling did not answer. His nose dripped. He decided to feel sorry for himself.
 
-Outside, he could hear the morning sounds of Camp Half-Blood ramping up. The conch horn for breakfast. Laughter from the Ares cabin doing their morning laps. Someone — probably the Apollo kids — warming up scales badly. A normal day. A day he was supposed to be on, with sword training at nine and canoe drills at eleven and patrol with Annabeth after lunch.
+Outside, he could hear Camp Half-Blood gathering itself for the day: the breakfast conch, the Ares cabin jogging past, someone in the Apollo cabin trying to warm up a scale without waking the whole green. There would be practice, chores and patrols whether he could join them or not. The camp had routines for when a person was missing. He had never liked being the missing person.
 
 Instead he was shivering under three blankets while his own immune system betrayed him.
 
@@ -64,7 +64,7 @@ Annabeth came back two minutes later with Silena in tow, both of them still in p
 
 "Will hasn't even seen me."
 
-"I texted him on the Iris-message. Well, I yelled across the green. Same thing. He said fever means bunk rest, fluids, and no swordplay until the fever breaks for twenty-four hours."
+"I sent him an Iris-message and then yelled across the green when he didn't answer right away. He said fever means bunk rest, fluids, and no swordplay until you're fever-free for twenty-four hours."
 
 Percy groaned and let his head fall back. "Twenty-four hours? I'll die of boredom."
 
@@ -86,7 +86,7 @@ It was going to be a long sick day.
 
 By nine o'clock, the entire Poseidon cabin knew Percy Jackson had fallen.
 
-It happened the way everything happened in that cabin — fast, loud, and with a lot of feelings. There were three permanent residents of the Poseidon cabin now, and they clung to each other like barnacles. Percy was the baby brother. The little one. The one who showed up at twelve scrawny and furious and afraid to sleep with the light off, and who they had raised as much as Chiron had.
+It happened the way everything happened in that cabin — fast, loud, and with a lot of feelings. Clarisse and Silena called him their baby brother, their little one. They had told him about the scrawny, furious twelve-year-old who arrived at camp afraid to sleep with the light off; Percy knew the story from their telling, not from an autobiographical memory of that childhood. They had helped him learn the cabin's routines and made a place for him beside their own lives. So when word got out that Percy was feverish, both sisters began arranging the day around his bed.
 
 So when word got out that Percy was down with a fever, the response was immediate and overwhelming.
 
@@ -110,11 +110,61 @@ She kicked the cabin door open, took one look at Percy cocooned in blankets with
 
 Will left a thermometer, a chart, and strict instructions that Percy was not to leave the bunk except for the bathroom, and then he was gone, off to deal with a sprained ankle and a case of arrow-through-the-foot.
 
+The chart was a single page with columns for the hour, temperature, water, and whatever else they wanted to note. Annabeth flattened it against her knee and found a pencil in the book she'd brought.
+
+"Do I get a score?" Percy asked.
+
+"You get a record," Will said from the doorway. He had heard him. "The number matters less than whether it keeps rising, how you feel, and whether anything changes. We'll check again after you've rested. This looks consistent with an ordinary viral cold. I don't see a sign of anything more complicated, but I can't tell you where you picked it up."
+
+"So I didn't get it from the lake?"
+
+"I can't identify a source." Will's expression stayed patient. "Sleeping outside doesn't prove that's where it began. Don't turn a guess into a diagnosis, Percy."
+
+Percy sank lower into the pillow. Being told not to make up a story about his own body seemed unfairly sensible.
+
+Will went over the care plan once more: water within reach, food when he could manage it, quiet, and no training until he had spent a full day without fever. No ambrosia as a shortcut. No nectar. If he felt worse, if breathing became difficult, or if a new symptom worried them, Annabeth was to send for him instead of waiting for the chart to explain it.
+
+"And everyone else?" Annabeth asked. "Should I go back to Cabin One?"
+
+"You were already in close quarters last night. I can't promise you won't catch it, and staying here all day won't improve the odds." Will glanced at Percy rather than deciding for her. "If you want to help, use your own cup, wash your hands, and take breaks. If you feel ill, tell someone. Caring for him doesn't require you to ignore yourself."
+
+Annabeth nodded. "I can do that."
+
+Percy wanted to protest that she didn't have to stay. He wanted her beside him, too. Both things could be true, which was inconvenient. He looked at her hands, still wrapped around the pencil, and tried to find a sentence that didn't make the choice for her.
+
+"You don't have to sit here the whole time," he said.
+
+"I know." She set the pencil across the chart. "I'll stay through the next check. Then I'll go eat and wash up. If I still want to come back, I will."
+
+That was not the same as promising to stay until he was well. It was better: a choice she could make again after she left the room. Percy nodded, surprised by how much easier it was to breathe once she had said it that way.
+
+Will tucked the chart where Annabeth could reach it. "Good. And you, Seaweed Brain: no trying to walk to the dining pavilion because you think lying down makes you useless."
+
+"I wasn't going to."
+
+"You looked at the door twice while I was checking your throat."
+
+Percy closed his eyes. "The door looked suspicious."
+
+Will's laugh was brief. "Let the camp cover one day for you. You cover the part that only you can do: rest and tell the truth about how you feel."
+
+When he left, Annabeth wrote down the first temperature and the time. Percy watched the numbers appear in her neat hand. He wanted the pencil, then remembered that holding it would require sitting up. Asking her to write was not surrendering his place in the cabin. It was the practical thing.
+
+"Can you put down that my nose has resigned?" he asked.
+
+"I'll write 'congestion,'" she said.
+
+"That sounds less serious."
+
+"It's meant to be readable by Will, not dramatic enough for the bards."
+
+Percy tried to laugh and had to stop for a cough. Annabeth moved the cup closer without making a fuss. This time he took it before she could offer.
+
 Clarisse watched him go, arms crossed, jaw working the way it did when she was planning something. Percy knew that look. That was the look she got before she challenged the Ares cabin to a rematch or decided to re-tile the cabin roof by herself in a thunderstorm.
 
 "Clarisse," Annabeth said warningly. "Whatever you're thinking, no."
 
-"I'm thinking my little brother is sick and needs soup," Clarisse said, as if it were obvious. "Mom used to make soup when we were sick. Before — you know." Before Camp, before monsters, before Poseidon claimed them one by one and tucked them all into the same blue-walled cabin with the fountain and the seashell bunks. "I'm going to make soup."
+"I'm thinking my little brother is sick and needs soup," Clarisse said, as if it were obvious. "My mom used to make it when I was sick. I remember the smell better than the recipe." Her eyes flicked toward Silena's empty bunk, then back to Percy. "I'm going to try."
 
 Percy and Annabeth exchanged a look. Clarisse was many wonderful things. A brilliant fighter. A loyal sister. A terrifying enforcer of bedtimes. A cook was not one of them. The last time Clarisse had tried to cook, she had set off the smoke alarm, the harpy alarm, and one actual alarm Tripwire from the Hephaestus cabin.
 
@@ -154,39 +204,159 @@ Percy picked up the spoon. Annabeth leaned over to look and visibly recoiled.
 
 Percy, who loved his sister and valued his life in roughly equal measure, scooped up a careful spoonful from the least-burnt edge, blew on it until it was lukewarm, and put it in his mouth.
 
-It was awful. It was salty and bitter and scorchingly hot in the middle and the carrot crunched in a way carrots in soup should never crunch. His sore throat seized in protest.
+It was awful. The broth was salty and bitter, and the carrot crunched in a way carrots in soup should never crunch. The pepper caught at the back of Percy's throat. He swallowed once, coughed, and lowered the spoon.
 
-It was also the best thing anyone had done for him all week.
+"Well?" Clarisse asked.
 
-"It's great," he rasped, eyes watering — from the fever, from the pepper, from everything. "Really good, Clarisse. Thank you."
+He could have given her the easy answer. His sisters had done that for him all morning, sanding the sharp edges off every inconvenience. But Clarisse had stood in the kitchen trying to remake something from her own memory. A lie wouldn't make the bowl better.
 
-Clarisse's whole face softened, the battle-hard war chief melting into big sister in an instant. She sat down hard on the bunk next to him, making the mattress dip, and ruffled his sweaty hair.
+"It's too hot and too salty," he said. "I can't get it down without making my throat worse."
 
-"Yeah, well," she muttered, ears pink. "Eat it all. And if anyone says my soup is burnt, I'll kill them."
+Clarisse's mouth tightened. Annabeth went still beside the book. The cabin seemed to hold its breath with them.
 
-"I'll eat it all," Percy promised, and he did, bite by horrible bite, while Annabeth mouthed at him over Clarisse's shoulder, *You are a saint*, and Clarisse beamed and told him about morning drills and how she was going to make the new recruits run laps until they cried.
+"You don't have to finish it," Clarisse said at last. Her voice had gone rough. She took the bowl from his lap and set it on the crate. "I knew it was burnt. I just wanted you to have something I could do."
 
-Halfway through the bowl, Percy had to stop to sneeze three times in a row, and Clarisse handed him tissues without missing a beat in her story, and tucked his blanket back in when it slipped, big calloused hand gentle as anything.
+"You did something," Percy said. "You came back with it. I liked that part."
 
-When he finally scraped the bottom — charcoal and all — Clarisse took the bowl like he had given her a medal.
+"The bowl is the part I know how to carry." She looked at the soup, then at him. "Last night, when the movie was on, I was thinking about my mom. I thought I'd remember how she made this. I remembered the kitchen and the smell, and I guessed the rest."
 
-"Good," she said gruffly. "Now sleep. That's an order." She stood, retrieved her spear, and hesitated at the door. "Feel better, barnacle."
+Percy had heard her tell Silena, *my mom*, not *our mom*. The distinction had mattered to them both. Clarisse and Silena were sisters, but their mothers had been different people. He knew that as a fact; he had not been in either kitchen.
 
-"I will," Percy said, stomach churning faintly from burnt-pepper broth but heart warm all the way through. "Thanks, Clarisse."
+"I don't remember your kitchen," he said. "If you want to tell me about it sometime, I want to hear. But you don't have to turn it into a recipe for me."
 
-She nodded once, fiercely, and marched out to go threaten the rest of Camp into being quiet.
+Clarisse's shoulders eased by a fraction. "Good. Because the recipe is a disaster."
+
+"Can I have water instead?"
+
+"You can have water, crackers, and whatever Silena brings. I'll ask the kitchen for plain broth next time." She lifted the bowl again. "This goes away before you decide you owe it to me."
+
+"I don't."
+
+"I know." Clarisse's face softened, but she didn't ruffle his hair or ask him to prove anything by eating. She pushed the water within reach and waited while he took a small drink. "You tell me if it hurts."
+
+"It doesn't."
+
+"Then drink. Don't perform."
+
+Percy did. The water tasted better than the soup and didn't scratch his throat. Clarisse remained on the bunk's edge while he drank, listening as he described the taste in increasingly ridiculous terms until he was coughing and she was laughing despite herself. Annabeth shook her head over the book, smiling at both of them.
+
+"You could have asked Beckendorf for help," Percy said when the fit passed.
+
+"I did. He told me to turn the stove down."
+
+"And?"
+
+"The stove was too hot." She stood, gathered the bowl and kept her good hand beneath it. "I learned something."
+
+"Next time, use a timer?"
+
+"Next time, don't challenge me while I'm holding a spoon."
+
+"Was your mom a good cook?" Percy asked.
+
+Clarisse paused. "I remember her hands around the pot. She'd let me stir if I sat on the counter. I don't remember what she put in it." Her eyes went to the bowl, then away. "I thought if I made soup, I'd remember the rest."
+
+"Did it smell like this?" Percy asked.
+
+"No." Clarisse shifted the bowl to her other hand. "That's the part that's getting to me. I know the smell I wanted. I don't know how she made it."
+
+"What did you think would happen?"
+
+"I'd make it, taste it, and remember what came next." She stared at the blackened carrot caught against the rim. "The recipe, I guess. Or her telling me I was stirring too fast. Something." She gave a short, irritated breath. "It doesn't work like that."
+
+She wiped one thumb along the bowl's handle. "I wanted her to tell me it needed more salt. Or less. Something dumb I could've asked if I still had her."
+
+Percy let the silence stand. He didn't need to make her memory into a lesson or compare it with his own. He had asked if she wanted to tell him; now she was choosing what to say. He stayed where he was, listening, and left the next question to her.
+
+Percy let the question he almost asked go. He had heard Clarisse tell Silena about her mother during the movie, and he had heard her mention the Jersey shore before. Those were things Clarisse had chosen to tell them. He hadn't stood in her kitchen or walked that beach with her. The memories belonged to her, even when she let him hear their edges.
+
+"I remember the shell bucket you told us about," he said. "Not the whole day. Just the bucket."
+
+"That's because I told you about the bucket." Clarisse's mouth twitched. "I don't remember every minute of the shore, either. I remember the bucket and that she took me. You don't get to fill in the rest because you heard one piece."
+
+"I wasn't going to."
+
+"Good." Her eyes settled on him again. "And you don't have to eat this to prove you appreciate me trying."
+
+"I appreciate the trying. The pepper hurts."
+
+"I heard you the first time." She set the bowl on the crate instead of offering him another spoonful. "I'll ask the kitchen for plain broth. If they don't have any, you get crackers."
+
+"That's a better plan."
+
+"Obviously." She rubbed her thumb along the bowl's handle, then stopped, as if she'd only just noticed she was doing it. "Maybe I'll tell you about the kitchen some other time. When I'm not hauling a burnt bowl across the green."
+
+"I'd like that."
+
+She walked toward the door. At the threshold she glanced back, the fierce look returning without quite covering the embarrassment underneath it. "I'll be around. If you need me, call. Don't try to get up and find me."
+
+"Okay."
+
+"I mean it, Fungus."
+
+"I heard you."
+
+She nodded, satisfied with the answer, and took the ruined soup back to the kitchen.
 
 Annabeth waited until the door shut, then dissolved into silent laughter.
 
 "Don't," Percy warned, coughing. "Don't you dare."
 
-"Char is flavor," Annabeth whispered, wiping tears from her eyes. "Oh gods. She's going to tell everyone she nursed you back to health with her cooking."
+"Char is flavor," Annabeth whispered, wiping tears from her eyes. "She actually said that to the Hephaestus kids, didn't she?"
 
-"She did," Percy said loyally, sinking back into his pillows. The soup sat in his stomach like a warm brick, burnt and salty and perfect. "I'm already feeling stronger. Or that's the fever. One of the two."
+"I think she meant it." Percy sank back into his pillows. His stomach was empty, but there was water on the crate and Clarisse had left without asking him to pretend. "I'm already feeling stronger. Or that's the fever. One of the two."
 
-Annabeth sobered, reached over, and felt his forehead again. Her brow furrowed. "Still hot. Sleep for a bit? I'll be here."
+Annabeth sobered and checked the chart. "You're still hot. I'll write the time and temperature, then I'm going to eat and wash up like we planned. Silena said she'd come by before I get back."
 
-Percy nodded, too tired to argue. The cabin was quiet, afternoon light slanting blue through the seashell windows. He closed his eyes and listened to Annabeth turn pages, to the fountain, to his sister's footsteps fading down the path, already shouting at someone to shut up because her brother was sick.
+Percy wanted to ask her to stay, even though the next check was done and she had kept her promise. "Okay."
+
+"Do you want anything before I go?"
+
+"The water's right here."
+
+"It is." She set the cup on the crate where he could reach it without leaning far. "I'll leave the door cracked. Call if you need help. You don't have to wait for me to come back."
+
+She wrote the new number, then placed the chart within arm's reach. On a scrap of paper she left a note: *Getting lunch and washing up. Silena will check on you. I'll come back after.* The message made the room feel less like a place he'd been left in and more like a place where people could come and go without anyone disappearing.
+
+When the door clicked shut, Percy listened to the fountain. It kept the same pace whether he was in the water or in bed, whether the cabin was busy or empty. He tried to sit up to pull the cup closer. The room slid sideways. He stopped, let his back meet the pillow, and waited for the tilt to pass.
+
+The first impulse was to try again before anyone saw him fail. He could reach the table if he got his feet under him. He could walk to the fountain if he took the wall. He had crossed worse distances in worse conditions.
+
+Will's words came back: *Don't turn a guess into a diagnosis.* Clarisse's words followed them: *Don't perform.*
+
+Percy let the cup stay where it was. He called toward the doorway, "Silena?"
+
+No answer. She was not there yet. His voice scraped, but no one had asked him to be quiet. He called again, louder this time, and heard a response from somewhere across the green: "I heard you. Give me a minute."
+
+The second answer was enough. He waited. By the time Silena came in, the room had stopped moving, and he was still in the bed instead of on the floor. He could take the water himself now. The small choice felt like a victory only because he had not made it a contest.
+
+Silena set fresh tissues on the crate and checked the doorway before closing it partway. "Annabeth left a note. She'll be back after lunch."
+
+"I know."
+
+"Did you want me to stay while you drink?"
+
+"No. Could you leave the cup there?"
+
+"Of course." She nudged it closer, then sat in the chair. "I'll be near if you want anything else."
+
+Percy took a careful sip. His hands shook a little; the water stayed in the cup. Silena watched him without turning the moment into a test, then began humming as she replaced the cool cloth at the foot of the bed.
+
+"You can sleep if you want," she said.
+
+"I know."
+
+"Good. I'm not going to order you. Clarisse already did that."
+
+That earned a small laugh from him, followed by a cough. Silena folded the chart's corner flat when it began to curl. She left the pencil beside it and did not write anything he had not told her.
+
+Percy nodded, too tired to argue with sleep. Afternoon light slanted blue through the seashell windows. He listened to Silena hum, to the fountain, and to camp carrying on beyond the cabin. This time, when his eyes closed, he did not need to keep one open for the door.
+
+Silena stood when his breathing evened out. "I'm going to eat something and make tea. Do you want me to bring it back, or would you rather sleep?"
+
+"If I'm asleep, leave it on the crate. If I'm awake, you can sing."
+
+"I can do that." She checked that the cup was within reach, then left him to the quiet without making him promise to call her back.
 
 He slept.
 
@@ -198,7 +368,7 @@ It was soft at first, threading through his fever dream — he had been dreaming
 
 Silena had returned, changed into a soft blue sweater, hair braided loose over one shoulder, carrying a tray with a steaming mug and a small jar of honey and a plate of crackers. She had pulled a chair up to his bunk and was singing under her breath, an old sea shanty her mother used to hum while braiding hair, about a sailor who loved a star and sailed home by her light.
 
-Percy lay still and listened, throat aching, eyes hot. He remembered being seven and sick in Sally's apartment in his original life, her voice reading cereal boxes when he couldn't face a book. Silena had not been there. But he remembered her singing this song across the Poseidon cabin on his first homesick night here, until he fell asleep. Two different kinds of comfort met in the tune.
+Percy lay still and listened, throat aching, eyes hot. He remembered being seven and sick in Sally's apartment in the life he remembered, her voice reading cereal boxes when he couldn't face a book. That memory was his alone. Silena's song belonged to today: the chair she had dragged over, the warm cup in his hands, and her voice choosing to stay until his breathing settled. He let the two kinds of comfort sit beside each other without pretending they were the same.
 
 She saw he was awake and smiled, breaking off mid-verse.
 
@@ -206,31 +376,35 @@ She saw he was awake and smiled, breaking off mid-verse.
 
 "Like I gargled with Riptide," Percy croaked.
 
-"Poetic. Here." She helped him sit up — Annabeth had gone to grab lunch, leaving a note that said *DON'T DIE WHILE I'M GONE — A* — and pressed the warm mug into his hands. "Tea. Honey and lemon and ginger. Will approved. Drink it all."
+"Poetic. Here." She helped him sit up — Annabeth had gone to grab lunch, leaving a note that said *DON'T DIE WHILE I'M GONE — A* — and pressed the warm mug into his hands. "Tea. Honey and lemon and ginger. Will approved. Take it slow."
 
-Percy obeyed. The tea was perfect, hot and sweet and sour, coating his raw throat like a blessing. He drank half of it in one go and sighed so heavily his whole body shuddered.
+Percy obeyed. Ginger pricked first; honey softened the lemon's edge before it reached his raw throat. He drank half the mug and sighed so heavily his whole body shuddered.
 
 "Silena, you're an angel."
 
-"I know," she said modestly, retucking his blankets with practiced hands. She fluffed his pillow, swapped his crumpled tissue pile for a fresh box, dabbed at his sweaty forehead with a cool cloth. "Clarisse texted — well, yelled — that she did soup, so I do tea and morale. It's the system. Annabeth does boring books, Thalia does threats. Everybody has a job."
+"I know," she said modestly. She reset his pillow and replaced the crumpled tissues with a fresh box. "Clarisse yelled that she did soup, so I do tea and morale. That's the system. Annabeth does boring books, Thalia does threats. Everybody has a job."
 
 "What's my job?" Percy asked, voice thick. "Sneeze and look pathetic?"
 
-"You're excellent at it," Silena said, kissing the top of his damp head without a second thought about germs. Sisters never thought about germs. "Now finish the tea and I'll sing you the rest. No arguing. Doctor Silena."
+"You're excellent at it," Silena said. She set the basin closer, washed her hands, and adjusted his pillow and blanket with clean hands. She left the tissue box where he could reach it. "Drink what you want while it's warm. I can sing if you want, but you don't have to stay awake for the whole performance. We'll keep our cups to ourselves. Love you doesn't make germs polite."
 
 So Percy finished the tea, curled on his side with the mug cradled to his chest for warmth, and Silena sang.
 
 She sang the sailor song all the way through. Then she sang a silly Camp song about the harpies stealing socks. Then she sang something slow and sweet in Greek that Percy didn't know, about the sea rocking its children to sleep. Her voice was clear and warm, a little husky, filling the salt-smelling cabin. Percy felt his fever-heavy limbs go loose, his breathing slow. His nose was still stuffed, his head still pounded, but the music seemed to make room around the pain.
 
-"Do you remember," he mumbled halfway through the third song, "when I was half-asleep after that patrol and you and Annabeth tried to check my temperature because I was convinced the thermometer was a monster?"
+"You and Clarisse were still holding hands when the credits rolled last night," he mumbled halfway through the third song. "I don't think I've ever seen her sit still that long."
 
-Silena laughed, soft. "You tried to stab it with a plastic knife. Annabeth still has pictures."
+Silena laughed softly. "She was thinking about her mother. I was thinking about mine. We didn't need to explain it to the whole green."
 
-"Burn them."
+"I saw."
 
-"Never. Blackmail is a sister's sacred duty." She reached over and stroked his hair back from his sticky forehead. "Sleep, Percy. I'll keep singing till you do."
+"You saw us. That's different from knowing what either of us remembers." Silena's fingers paused above his hair, giving him time to answer. "You can ask, if you want. You don't have to guess."
 
-Percy didn't mean to. He meant to stay awake and listen. But his eyes kept sliding shut, and Silena's voice kept going, low and steady, and the tea warmed him from the inside out, and the next thing he knew he was slipping under, Silena's hand cool on his cheek.
+The distinction settled gently between them. Percy had seen Clarisse hold her hand; he had heard them name their mothers. He did not know what either memory felt like from the inside. "Not today," he said. "Today I want the song."
+
+"Then the song it is." Silena brushed his fringe away from his forehead and returned to the next verse. "Sleep, Percy. I'll keep singing until the tea is gone."
+
+Percy didn't mean to. He meant to stay awake and listen. But his eyes kept sliding shut, and Silena's voice kept going, low and steady, and the tea warmed him from the inside out, and his eyes slid closed while her hand rested on the blanket near his shoulder.
 
 He dreamed of stars and sails and his sisters' voices calling him home.
 
@@ -276,69 +450,99 @@ Which, for Annabeth, they probably were.
 
 Annabeth threw a tissue at his face. "You're feverish and delirious. Go back to sleep."
 
-"Can't," Percy said. "If I sleep you'll leave."
+"Can't," Percy said. "If I sleep, I'll wake up alone."
 
 There was a beat of silence. Percy instantly regretted saying it — too clingy, too needy, too vulnerable. But Annabeth just closed the book softly and moved from the foot of the bunk to sit beside him, leaning against the headboard, shoulder to shoulder through the blanket.
 
-"I'm not leaving," she said quietly. "I'm on night shift. Silena's orders. I'm staying till you sleep. For real sleep, not fever dozing."
+"I'm here until you sleep," she said quietly. "Then I'll go eat and wash up. I'll be back for the next check if we both still want that."
 
 Percy turned his head to look at her. Her face was close, tired and fond, gray eyes soft. They remembered years of quests together, shared blankets during blackouts, shared a thousand moments — haircuts in the bathroom sink, midnight snacks, holding each other's hands during capture the flag briefings when they were nervous. Their friendship had become love long before this displacement. Here, still together in younger bodies, he noticed the pencil behind her ear and wanted to remember this quiet moment forever.
 
 Now, sick and miserable and half-delirious, he didn't have the energy to be careful about it.
 
-"Stay?" he whispered.
+"Can you stay close until then?" he whispered.
 
-"Always," Annabeth whispered back, and opened the book again, and kept reading, one hand resting on the blanket over his arm, anchoring him.
+"Yes." She opened the book again and rested one hand on the blanket over his arm. "Tell me if you want quiet instead."
 
 Percy let her voice carry him. Doric, Ionic, Corinthian. Stone on stone. Math made visible. Love made safe.
 
 ---
 
-Outside the Poseidon cabin, Thalia Grace held the line.
+Outside the Poseidon cabin, Thalia had taken the porch chair and turned it toward the path.
 
-Thalia, oldest of this group, daughter of Zeus and Annabeth's protective older sister — fierce, black-haired, electric-blue-eyed, with her punk jacket covered in pins and her spear crackling faintly at her side — had appointed herself Percy's guard dog.
+The bandage on her right palm was visible beneath the cuff of her jacket. She kept that hand resting in her lap and left her spear leaning against the wall, well out of reach unless she wanted it. At the moment, she needed her voice more than a weapon. The stream of visitors had begun after Clarisse's smoke cloud, and the cabin doorway was too narrow for Percy to escape it even if he had been well enough to try.
 
-It started when Clarisse's shouting attracted attention. By late afternoon, half the camp wanted to visit the famous Percy Jackson brought low by the common cold. The Stolls wanted to bring him a whoopee cushion to cheer him up. The Ares kids wanted to challenge him to a sickbed arm-wrestle. Some love-struck Aphrodite kid wanted to bring him flowers. A trio of wide-eyed newbies wanted to ask if it was true he fought Kronos.
+The Stolls arrived first, carrying a whoopee cushion and a card with a crude picture of a fever thermometer. Thalia let them finish explaining the joke, then pointed at the path with her left hand.
 
-Thalia stood on the porch with her arms crossed and her best death glare on and said, "No."
+"If you wake him, I will end you."
 
-"But —" Connor Stoll began.
+"But we're his friends," Travis said.
 
-"If you wake him up, I will end you," Thalia said flatly. "He has a fever of a hundred and two. He needs sleep. Come back tomorrow with soup that isn't burnt and a card that isn't whoopee-related, and maybe I'll let you breathe near him."
+"Then you can be his friends quietly. Leave the card with me. I'll give it to him if he asks for it."
 
-"Thalia," Travis tried, "we're his friends —"
+Connor looked at the porch chair, the wrapped hand, and the spear left against the wall. His grin dimmed into something more careful. "Is your palm okay?"
 
-"And I'm his girlfriend's sister, on guard duty," Thalia said, and that was that. The look in her eyes — the big-sister look that had stared down gods — sent them scurrying.
+"It needs a rest. You can help by not making me chase you."
 
-She maintained the perimeter all afternoon. She turned away a delegation of Apollo kids with get-well grapes. She turned away Chiron himself — politely — with a promise that Percy was following Will's orders. She threatened, cajoled, bribed, and bodily blocked. When a hyperactive pegasus tried to land on the cabin roof, she threw a shoe at it.
+They left the card. Thalia read it before she decided it could wait on the shelf. The thermometer had a tiny sword drawn through it. It was a weak joke, but the effort counted.
 
-Inside, Percy could hear her, muffled through fever and blankets.
+The Ares kids came with a challenge for a sickbed arm-wrestle. Thalia didn't let them reach the threshold. The Apollo cabin sent grapes; she accepted the bag and asked them to leave the note on the table instead of trying to deliver it to Percy. A pair of new campers wanted to know if the rumors about his fights with Titans were true. She answered that he was asleep, and that the camp could tell him its stories when his head stopped hurting.
 
-"NO. Absolutely not. Are you kidding me? He's SLEEPING. ... I don't care if you brought ambrosia, ambrosia doesn't work on colds, Will said so, now SCRAM."
+Inside, Percy caught pieces of the conversation through the wood. Thalia did not shout at everyone. She asked some to come back later, promised to pass along messages, and sent only the ones who kept pushing away. When a pegasus dipped low over the roof, she called its handler from the porch and guided the animal toward the stable with a sharp whistle. Her bandaged hand stayed in her lap.
 
-Percy smiled into his pillow. Annabeth, reading beside him, smiled too.
+Chiron came by to ask whether Percy needed anything. Thalia rose carefully, used her left hand to open the door, and told him Percy was asleep. Chiron glanced at the chart on the shelf, asked whether Will's instructions were clear, and did not insist on entering. He thanked her for keeping the doorway clear before heading back across the green.
 
-"She's scary," Percy whispered proudly.
+Percy woke when the porch chair scraped. His eyes hurt; the sound seemed too bright. Annabeth had been reading at the foot of his bunk, one finger holding her place.
 
-"She's perfect," Annabeth agreed. "Go back to sleep. Thalia's got you."
+"Is she still out there?" he asked.
 
-Later, Thalia slipped inside for a minute, quiet for once, her boots loud on the wood despite her efforts. Percy was dozing, mouth open, hair plastered to his forehead. Thalia looked down at him, and her fierce face did something complicated and soft.
+"Thalia? Yes."
 
-"He looks like crap," she whispered to Annabeth.
+"She has a hand injury. She shouldn't be running security too."
 
-"He feels like crap," Annabeth whispered back.
+"She's sitting in a chair," Annabeth said. "And she can decide what she can manage. If she starts pushing herself, I'll say something."
 
-Thalia nodded, reached down, and yanked Percy's blanket up to his chin with a sharp tug, then hesitated, then brushed his hair back with surprising gentleness.
+The answer was fair. Percy knew what it was to hate being treated as if a small limit erased everything else you could do. He closed his eyes for a breath, then called, "Thalia?"
 
-"Sleep tight, kelp head," she muttered. "Nobody's gonna get you while I'm here."
+The door opened. She stepped inside with her right hand still tucked close to her body.
 
-She went back outside to threaten a dryad for rustling too loudly.
+"What?"
 
-Percy, half-asleep, heard the door click, heard Thalia's voice resume its low, menacing patrol — "Yeah, that's right, walk quieter..." — and felt safer than he had since the fever started. There were monsters in the world that could kill him in a dozen ways. There were gods and Titans and wars. But no one was getting through Thalia Grace on big-sister duty.
+"You don't have to keep everybody away. Just the loud ones."
 
-He sneezed, and from the porch, Thalia shouted, "BLESS YOU, PERCY! AND IF THAT WAS ONE OF YOU IDIOTS MOCKING HIM, I SWEAR —"
+"That was the plan."
 
-Annabeth had to bite her blanket to keep from laughing out loud and waking him.
+"And your palm?"
+
+"Still tender. Will said no sparring and no bracing. A porch chair isn't either."
+
+"Good." Percy shifted, then regretted it as the room moved. "Can you sit in here for a while instead?"
+
+Thalia glanced at Annabeth. Annabeth nodded toward the chair. "If you want a break from the path."
+
+Thalia sat, keeping her wrapped hand on her thigh. She pulled the blanket higher with her left hand when Percy's shoulder slipped out. The movement was awkward but gentle.
+
+"You don't have to be on watch every second," Percy said.
+
+"I'm not. I'm listening."
+
+"That's what watch is."
+
+"Then I guess I'm bad at breaks." She leaned back and looked at the ceiling. "I'll trade with Clarisse after she gets rid of the soup. You can stop worrying about my hand now."
+
+"I wasn't worrying."
+
+"You asked twice."
+
+Percy smiled into the pillow. "I'm sick. My memory's bad."
+
+"No, it isn't." Thalia stood and nudged his water closer with her boot. "Drink that before you fall asleep again."
+
+He obeyed. When she went back to the porch, he heard her tell a group of campers that they could leave get-well messages on the table. Her voice had softened. The boundary did not need a threat every time.
+
+He sneezed once. From outside, Thalia called, "Bless you," in a normal speaking voice.
+
+Annabeth's mouth twitched. "See? She's learning."
 
 ---
 
@@ -358,29 +562,59 @@ Ella pushed past Grover, eyes wide and bright. "Percy is sick. Percy is sick and
 
 She dumped the stack on his blanket — a dozen handmade cards from all over camp, plus one enormous one from the satyrs with a hoofprint on it, plus one from Ella herself covered in tiny, perfect script.
 
-Percy picked up Ella's card. It read: *Dear Percy. Colds are caused by rhinoviruses. Rhinoviruses survive on surfaces for up to seven days. Humans average two to four colds per year. Demigods average zero point three colds per year. You are statistically unlucky. Get well soon. Love, Ella. P.S. Grover cried when he heard you were sick.*
+Percy picked up Ella's card. It read: *Dear Percy. This card means the writer hopes your body returns to its usual working condition soon. The word “soon” does not promise a date. You do not need to answer. Love, Ella.*
+
+He turned it over. Ella had written three sentences on the back in smaller letters: *If Percy is too tired to read all the cards, Ella can read them aloud. If Percy wants quiet, Ella can be quiet. Percy may choose.*
+
+"You made a choice list," he said.
+
+"People sometimes need choices in a helpful order." Ella arranged the stack by size, then paused. "Do you want the cards read?"
+
+Percy looked at the first few. One had a canoe drawn in the corner, another showed a lopsided blue fish, and a third was covered in stars. The words blurred when he tried to focus on them. "A few. Then I might sleep."
+
+"Ella will read three. You can change the number."
+
+"Deal."
+
+She read the first, a short message from the younger campers thanking him for showing them where the turn marker went. The second was mostly a drawing of a sea monster with a tissue in each tentacle. The third was a note from a camper who had been afraid of the night swim, saying the porch light had helped. No one asked Percy to answer, and Ella did not make him perform gratitude for every card. She placed each one on the shelf where he could see it when he woke.
+
+The gesture mattered more than the number. The camp had found ways to reach him without asking him to get up and prove he was still part of it.
 
 "I did not cry," Grover said quickly, ears pink. "I got emotional. There's a difference. Enchiladas?" He held up the bag. "I figured Clarisse's soup might need backup. No offense to Clarisse."
 
-"Much needed backup," Annabeth said, waking up and stretching. "He ate the whole bowl like a champ, but his stomach's been gurgling ever since."
+"Much needed backup," Annabeth said, waking up and stretching. "He tasted one spoon and stopped when it hurt his throat. The water is staying down, though."
 
-"It was good soup," Percy insisted loyally, then sneezed so hard Ella's feathers ruffled. "Excuse me. Tell me camp gossip. Distract me from my suffering."
+"The idea was good," Percy said. He sneezed into a tissue, and Ella's feathers lifted at the sudden sound. "Excuse me. Tell me camp gossip. Distract me from my suffering."
 
-So Grover pulled up Silena's chair and told him about the day — the canoe race the Poseidon cabin won without him, the new kid who screamed when he saw the pegasi, the drama in the mess hall when the Demeter kids tried to go vegan for a day. Ella interjected with facts every few sentences. "'Canoe' comes from the Arawakan word 'kanoa.' 'Pegasus' is plural 'pegasoi,' but no one says that. 'Fever' over one hundred four degrees is dangerous. Percy's fever is one hundred one point eight. Percy is safe."
+Grover stayed near the doorway and asked before setting the enchiladas on the crate. He used the clean napkin Annabeth offered, then took a chair far enough away that Percy wouldn't have to talk over him. He told him about the canoe race he had watched, the new kid who screamed at a pegasus sneeze, and the Demeter campers who had tried a meatless lunch and then argued over whether cheese counted. Ella supplied corrections when a detail mattered to her and let the rest pass.
 
-Percy listened, ate half an enchilada — which tasted like heaven after burnt soup — and felt his spirits lift for the first time all day. Grover was his best friend, his brother in all but blood and cabin, and Ella's rapid-fire facts were weirdly soothing.
+Percy listened. After some water, he tried half an enchilada; the soft tortilla went down without scraping, and the mild filling tasted like the sort of meal that did not need to prove anything. His spirits lifted a little. Grover was his best friend, his brother in all but blood and cabin, and the visit asked nothing of him beyond choosing whether he wanted company.
 
-"Thanks for coming," he said quietly when Grover stood to go, ruffling his curls. "Really."
+"Did everyone manage without me?" Percy asked.
 
-"Of course, man," Grover said, squeezing his shoulder carefully, mindful of germs and feelings both. "You're my brother. Rest up. And drink water. And —" he glanced at Annabeth, who was pretending to be very interested in her book, "— listen to your nurse. She's bossy because she loves you."
+"They managed. Clarisse led the lesson. Chiron was there. The rest of us did our jobs, and no one had to invent a crisis to fill your spot."
+
+It was exactly the answer Percy had needed and hadn't known how to ask for. He looked at the blue fish card, then at the untouched half of the enchilada. "Good. Tell them I said thanks when you see them. You don't have to carry a message around camp tonight."
+
+"I'll tell them when I run into them. No errands." Grover glanced at the cup. "Want more water?"
+
+"I can reach it."
+
+"I know." Grover leaned back instead of moving the cup for him.
+
+Percy took it himself. His arms felt heavy, but he could do the small thing without turning it into a test of whether he was sick enough to deserve help. He drank, set the cup down, and let Grover take the empty plate when he was finished.
+
+"Thanks for coming," he said quietly when Grover stood to go, lifting a hand in farewell. "Really."
+
+"Of course, man," Grover said. He kept his hands to himself and gave Percy a small wave instead. "You're my brother. Rest up. And drink water. And —" he glanced at Annabeth, who was pretending to be very interested in her book, "— listen to your nurse. She's bossy because she loves you."
 
 Annabeth threw a pillow at him. Grover dodged, laughing, and ushered Ella out with promises to visit tomorrow.
 
-Ella paused at the door. "Goodnight, Percy. Sleep is the best medicine. Sleep consolidates memory and boosts immune function. Annabeth will stay until Percy sleeps. That is a prediction based on observed patterns."
+Ella paused at the door. "Goodnight, Percy. Rest is easier when no one asks questions. Annabeth has stayed for each check so far. She may choose to stay again, but Percy should ask rather than predict."
 
 Then she was gone, feathers fluttering, and Thalia resumed her guard with a shouted, "VISITING HOURS OVER! EVERYONE ELSE GO AWAY!"
 
-Percy looked at Annabeth, who was suddenly very red.
+Percy looked at Annabeth. She had gone pink, but her mouth was trying not to smile.
 
 "Ella's smart," Percy said.
 
@@ -390,71 +624,195 @@ Percy looked at Annabeth, who was suddenly very red.
 
 Annabeth nodded, opened Vitruvius, and began again, soft and low. About foundations. About load-bearing walls. About how the best buildings were the ones that bent in earthquakes instead of breaking.
 
-Percy closed his eyes and listened, and thought about his sisters — Clarisse's burnt soup sitting warm in his stomach, Silena's songs still echoing in his ears — and Thalia's voice outside his window keeping the world at bay, and about Annabeth beside him, solid and warm, reading him to sleep the way she had since they were twelve.
+Percy closed his eyes, but the details in the book kept slipping away before he could picture them. He heard Annabeth turn a page, then stop when he coughed.
+
+"Did you want me to keep going?" she asked.
+
+"Yes. Just slower."
+
+She lowered her voice and read the paragraph again, changing the cadence until he could follow the idea: a foundation had to carry weight in more than one direction. When he lost the thread, she started the sentence over without making him apologize.
+
+"Do you actually remember this?" he asked after a while. "All these terms?"
+
+"Some. I have to look up the rest." She tapped the margin with her pencil. "I like that the book admits when the neat diagram isn't the real building. The real one has repairs and uneven stone and people changing it after the architect leaves."
+
+"Sounds like a camp cabin."
+
+"It sounds like most places people live."
+
+He listened to the fountain behind her voice and let the thought settle. The Poseidon cabin was not quiet or symmetrical. Someone had carved initials into the foot of the nearest bunk. The blue shell paint had flaked around the window latch. It still held everyone who needed it.
+
+"You always make a building sound like a person," he said.
+
+"I make people sound like buildings when they're sick."
+
+"What am I?"
+
+"Right now? A very stubborn structure with a fever and a suspicious attitude toward water."
+
+"Accurate." He took a drink from the cup. "Keep reading."
+
+She did. The book's small diagrams came and went in his head, but the sound of her describing them stayed. When his eyelids grew heavy, he fought it for a few minutes, afraid that sleep would take the room away. The chart on the shelf showed the morning temperature, then a lower number after lunch, then another at dusk. Nothing in the columns said *safe forever*. They only said what had happened so far.
+
+"If it rises again, we call Will," he murmured.
+
+"Yes."
+
+"If I feel worse, we call him."
+
+"Yes."
+
+"If I ask you to go back to Cabin One, you don't have to pretend you want to stay."
+
+The book closed. Annabeth shifted in the chair until he could see her face. "I know. And if I want a break, I can take one. I want to stay through the next check. After that, I'll decide again."
+
+It helped that she did not make him responsible for her choice. He held out his hand, palm up, and she rested her fingers in it for one quiet moment before returning to the chair.
+
+Percy glanced again at Ella's card. "When I see the younger camper, I'll tell her the bright marker helped."
+
+"You don't have to write a reply tonight."
+
+"I know. I want to tell her myself. She got to choose the turn. I should tell her I noticed."
+
+Annabeth set her pencil down beside the chart. "Then remember it for when you're back on your feet."
+
+He tried to keep the thought in order: the marker had been hard to see, the camper had asked for it brighter, and she had chosen the pace of the drill. His head was too thick to plan a perfect sentence, but none was required. He only needed to say what happened and thank her. That could wait until he was well enough to stand beside the lane again.
+
+"That's all," he said.
+
+"That's enough."
+
+The card stayed on the shelf instead of on his chest. He let his eyes close while Annabeth turned the page, and the choice he had made waited quietly with the rest of the camp.
 
 ---
 
-Night fell over Camp Half-Blood.
+By the time the light outside turned blue, Will had returned to check the chart. Percy was awake, but too tired to sit up. The temperature had gone down again. Will listened to his breathing, asked how his throat felt, and checked that he could drink without nausea. He did not call Percy recovered.
 
-The conch blew for lights-out. The cabin's fountain gurgled. Outside, Thalia finally stood down after extracting a promise from the night harpies to patrol silently, and came in to claim a borrowed camp cot for the night with a muttered, "He better be better tomorrow or I'm fighting his cold personally." Clarisse came in from patrol, checked on Percy with a gruff hand to his forehead — "Cooler. Good. Soup works." — and collapsed into her bunk. Silena came in from kitchen duty, kissed Percy's sweaty temple without hesitation, whispered, "Sleep well, baby brother," and curled up with her own tea.
+"That's encouraging," he said, marking the time. "It isn't clearance. You still need the full twenty-four hours without fever before you go back to training."
 
-One by one, the Poseidon cabin went quiet. The blue nightlight glowed. The shells on the walls gleamed faintly.
+"I know."
 
-Only Annabeth remained awake, sitting beside Percy in the dim light, book open but unread, watching him breathe.
+"Good. You don't have to like it for it to count."
 
-Percy was finally, deeply asleep — not the restless fever dozing of the afternoon, but real sleep, mouth slightly open, breathing slow and even through his cleared nose, forehead damp with breaking sweat. His temperature had dropped. His hands, curled on the blanket, had relaxed. The awful, achy tension had eased out of his face, leaving him young and peaceful and, Annabeth thought with a pang, terribly dear.
+Percy asked how long he had to stay separate from the camp. Will said that as long as Percy was feverish, the sensible plan was to keep visitors few and brief, wash hands, and not share cups. If the fever returned or something changed, they would reassess. Annabeth listened and wrote the instruction into the margin of the chart. Thalia waited on the porch, her right hand resting in her lap.
 
-She should go to her own bunk in Cabin One. Will's chart said to check him every four hours, but he was stable, fever breaking, breathing fine. She had done her shift. She could sleep.
+After Will left, Percy looked at the page. There was no heroic task hidden in it. It was a record of water, rest, and temperature, written in Annabeth's handwriting. He could follow it without turning it into a test.
 
-Instead she stayed.
+"Do you have somewhere you need to be?" he asked her.
 
-She set the architecture book aside — Corinthian capitals and sacred geometry could wait — and pulled Percy's blanket up, tucking it around his shoulders the way Silena had taught her. She gathered his scattered tissues, refilled his water for morning, set the thermometer where she could find it.
+"I have a bunk in Cabin One."
 
-Then she sat back down beside him, and looked at him for a long moment.
+"That's not what I asked."
 
-Percy Jackson, her boyfriend. Her best friend. The boy who had grown up beside her on remembered quests and was building a life here with his sisters, who had learned to braid hair because Silena made him practice, who had cried on Clarisse's shoulder after his first failed quest, who had held Thalia's hand during the winter solstice when she missed her mom, who had fallen asleep on Annabeth's shoulder a hundred times during late-night strategy sessions.
+She considered the question instead of answering quickly. "I want to be here until you sleep. I can go afterward if you want the room quiet. The shared bunk is available tonight, with Silena and Clarisse's permission. Chiron already told me I could use it. But if I start feeling sick, I go back and tell Thalia."
 
-And still — still the person she loved. The way he saved her the blue gummies. The way he noticed when she got a new pencil. The way his hand lingered when he handed her books. The way she had started memorizing the exact shade of his green eyes, sea-green, like the cabin walls at noon.
+"I don't want you to catch this."
 
-They had talked about their love, held it through wars and quests and impossible changes. But sitting here in the dark, with his sisters breathing softly around them and her sister asleep on a cot, the sea fountain singing, Annabeth let herself feel the fierce, tender ache of loving him in this ordinary moment too.
+"Neither do I. I'll use my own cup, wash up, and take breaks. Will explained the risk. I get to choose whether I stay."
 
-Percy stirred, whimpering faintly in his sleep, forehead creasing. Annabeth reached over without thinking and pressed the back of her hand to his forehead, checking for fever the way she had a dozen times that day.
+"Then I want you here until I sleep. After that, you choose what you need."
 
-Cooler. Much cooler. The fever was breaking.
+"That works."
 
-She should have pulled away. Instead, she let her hand slide down, fingertips brushing his damp curls back, palm resting lightly against his temple. Then, carefully, so as not to wake him, she leaned forward and touched her forehead to his — just for a second, skin to skin, checking his warmth as she had seen Silena do, careful and tender.
-
-His skin was warm, but not burning. Just Percy-warm. Alive-warm. Better-warm.
-
-"You're okay," she whispered against his forehead, breath stirring his hair. Her heart hammered so loudly she was sure it would wake him. "You're going to be okay, Percy."
-
-It was a gentle fever check. Anyone watching would have seen a tired girlfriend caring for the boy she loved.
-
-But for Annabeth, forehead resting against his, breathing the same warm air, feeling him sigh in his sleep and lean, just barely, into her touch, it felt like a promise. *I'm here. I'll stay till you sleep. I'll stay after.*
-
-Percy sighed, a deep, snotty, congested sigh, and mumbled, "Annabeth?"
-
-"I'm here," she whispered, pulling back just enough to see his eyes flutter half-open, glassy and green and dazed. "Go back to sleep. Fever's down."
-
-"Stay?" he mumbled again, half-asleep, hand fumbling for hers.
-
-Annabeth took his hand — hot, sweaty, germ-covered, perfect — and held it.
-
-"I'm staying," she said. "Till you sleep. Till morning. Always."
-
-Percy smiled in his sleep, squeezed her hand once, and dropped back under, breathing easy.
-
-Annabeth stayed. She sat beside him in the dark blue cabin, holding her boyfriend's — her Percy's — hand, listening to Clarisse snore, to Silena murmur in her sleep, to Thalia's steady breathing from the borrowed cot by the door, still on guard even in dreams. She listened to the fountain, to the distant waves on the beach, to Percy's slow, healing breaths.
-
-She didn't sleep for a long time. She just watched him get better, breath by breath, and thought about temples built to bend instead of break, and about families built the same way — burnt soup and tea and songs and threats and architecture read aloud till the fever broke.
-
-When she finally dozed off, slumped against his headboard with her forehead still nearly touching his, thermometer in her lap and Vitruvius open on the floor, Percy was cool to the touch, sleeping peacefully, on the mend.
-
-Outside, the sea whispered against the shore. Inside, the Poseidon cabin held its baby brother safe.
-
-Sick day, over. Loved — always, completely, by his sisters, his friends, and the girl beside him — through.
-
-Percy slept, and Annabeth stayed, and that was the whole story.
+The answer was plain and practical, and it loosened the knot that had been pulling at his chest. Percy was used to plans in which the next step involved a weapon, a deadline, or a monster. This one asked him to keep drinking and be honest if his symptoms changed. He could do that. He could let the people around him handle the rest.
 
 ---
 
+Night came by degrees. The conch sounded for lights-out, and the Poseidon cabin settled into its ordinary noises: Clarisse's bunk creaking when she turned over, Silena setting her mug on the shelf, the fountain sending water through its hidden channel. Thalia came in from the porch and tested the borrowed camp cot with her left hand before lowering herself onto it. Her bandaged palm stayed clear of the frame.
+
+"The boundary is quiet," she said. "The night harpies agreed to patrol at a civilized volume."
+
+"You negotiated with them?" Percy asked.
+
+"I reminded them of the difference between patrol and a marching band."
+
+"That sounds like a negotiation."
+
+"Go to sleep."
+
+Clarisse came over next, but she stopped at the foot of his bunk. "How's your throat?"
+
+"Still bad. The soup didn't cure it."
+
+"It was not soup. It was a first attempt."
+
+"It was thoughtful."
+
+"You don't have to give me a participation trophy." Her mouth tilted. "I'll ask the kitchen how to make something edible next time. If there is a next time."
+
+"There doesn't need to be."
+
+"Fine." Clarisse tapped the bedframe twice with her knuckles, their familiar signal, then left him to the water and the chart.
+
+Silena washed her hands at the basin before she brought him a fresh cup of tea. She set it down without touching his cup and checked that he could lift it comfortably. Percy took a few sips. The warmth helped, though he could still feel the raw place in his throat.
+
+"No songs tonight?" he asked.
+
+"Only if you want one."
+
+"I want the sailor one."
+
+She sang it softly from the chair, keeping her voice low enough not to wake the whole cabin. Percy remembered his mother reading cereal boxes in the other life; he kept that memory to himself. Silena's song belonged to the sisters who were here, and the blue cabin around them. He let the sounds remain distinct.
+
+When she finished, she touched his shoulder rather than his forehead. "I'll be in my bunk if you need anything. Call. Don't try to be quiet for my sake."
+
+"Okay."
+
+"And don't finish the tea just because I brought it. Drink what feels good."
+
+He nodded. Silena returned to her bunk and left the cup where he could reach it.
+
+Annabeth stayed in the chair by his headboard, her open architecture book on her lap. The temperature had not gone back up at the last check, but Will had not cleared him. Percy could feel sweat cooling at his temples; he did not know whether that meant the fever was breaking or whether the cabin was simply cooler.
+
+"Can you read one more page?" he asked.
+
+"One page."
+
+"The one with the part about foundations."
+
+"There are several pages about foundations."
+
+"Pick one."
+
+She chose a paragraph about how builders adapted plans when the ground shifted. Percy followed most of it this time. At the end, Annabeth marked the place with a scrap of paper instead of folding the corner.
+
+"Tomorrow?" he asked.
+
+"If you're awake and want it."
+
+"And if I'm not?"
+
+"Then the book waits."
+
+He looked at her hand on the cover. The afternoon's offer to leave was still available; she had not made staying into a vow he had to repay. "You can take your turn in the bunk now," he said. "I'm going to try to sleep."
+
+"Are you asking me to stay in the room?"
+
+"I'm asking if you'll be nearby. You said I could ask."
+
+"I will. I'll use the bunk we agreed on. If you wake and need me, call."
+
+"Okay."
+
+She set the chart, thermometer and water where she could reach them without crossing the cabin. Then she moved to the spare bunk three places away, the one Silena and Clarisse had approved. The distance was small enough that Percy could hear her turn a page, large enough that neither of them had to pretend the room belonged only to the two of them.
+
+Thalia's cot gave a soft creak. "Percy?"
+
+"Yeah?"
+
+"I'm here. If you need Will, I'll get him."
+
+"Thanks."
+
+"Don't make me come over there."
+
+"I won't."
+
+"Good."
+
+The cabin's nightlight left a dim blue edge on the fountain. Percy could still hear the camp beyond the walls, but the usual fear of missing an alarm had nowhere to attach itself. The projector from the previous night was stored away; the campout was over, and every person here had a place to sleep. The air smelled faintly of tea and wood polish, not smoke.
+
+His body remained sore. His throat still hurt. None of that changed because his sisters had sat near him or because Annabeth had read about stone. But the room had become easier to inhabit. He had asked for help without pretending the soup was good, and Clarisse had heard him. He had asked Annabeth for company without asking her to surrender her own choice. She had answered with a plan he could trust.
+
+The last thing he heard before sleep took him was the fountain and Annabeth setting her book down on the agreed bunk. He was still sick. He was not alone, and he did not have to stay awake to prove either thing.
+---

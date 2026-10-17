@@ -1,0 +1,120 @@
+chapter: 108
+title: "Three Things We Keep"
+source: "chapters/108-three-things-we-keep.md"
+status: "expanded; 10,073 body words; Chapter 108 length gate passed"
+chronology:
+  relative_time: "The morning after Chapter 107's evening in Cabin Three, continuing through the same camp day and night. No calendar date, year, season, weekday, age, or exact elapsed interval is established. Chapter 109 follows without an exact interval being stated."
+  sequence: "Clarisse's training-rulebook idea and Silena's cowrie gift are carried into the dawn session promised at Chapter 107's close; Percy, Clarisse, and Silena test stance, pivot, slide, stop signals, and care limits at Tempest Hall; Silena demonstrates bounded first-aid practices; Annabeth and Thalia join the afternoon session; the group tests only a shallow, marked, low-current movement with a caller, spoken cue, and optional static confirmation; they record limitations and do cleanup; Percy and Clarisse make a short beach/land-footing comparison; the group names the movement Anchor Turn; the draft notes remain in the training box and future practice is left unscheduled."
+pov:
+  scenes:
+    - "Percy Jackson, third-person limited, throughout."
+  boundary: "Other characters' feelings are conveyed through dialogue and observable behavior. Annabeth's electrical contribution is one bounded static confirmation from the dry stair; she does not call lightning or put electricity into the water. Thalia observes visible water movement but does not control water. Only Percy and Annabeth remember autobiographical events from the erased future; neither discloses them in this chapter."
+scene_locations:
+  - "Cabin Three"
+  - "Tempest Hall practice room and shallow marked pool"
+  - "Infirmary"
+  - "Beach and path"
+participants:
+  primary: ["Percy", "Clarisse", "Silena"]
+  other: ["Annabeth", "Thalia"]
+  offstage: ["Chiron", "camp infirmary staff", "unnamed campers"]
+preceding_scene_verified:
+  chapter: 107
+  locator: "chapters/107-the-words-we-choose.md, closing Cabin Three rummy scene"
+  context: "Clarisse reminds Percy of training at dawn; Percy says he will attend, sets out his shoes and clothes, and goes to sleep. The shrine plank remains staged with the approach clear; maintenance questions remain pending. Chapter 108 fulfills the training promise at the following dawn and does not reschedule the same session for the next day."
+following_scene_verified:
+  chapter: 109
+  locator: "chapters/109-no-borrowed-promises.md, Annabeth finds the photograph in Percy's bag"
+  context: "Chapter 108 closes that night with the training notes stored as an unapproved draft and no further practice date set. Chapter 109 begins with Annabeth finding a remembered-life photograph; this chapter does not add a transfer mechanism or future-life disclosure."
+relationship_memory:
+  - pair: "Percy / Clarisse"
+    last_shared_scene_chapter: 108
+    earned_trust_or_conflict:
+      - "Clarisse leads the training but accepts Percy's observation that a pivot's crossed lane could endanger Silena; they mark the lane and do not proceed until the next person clears it."
+      - "When a low current catches Clarisse's trailing ankle, she calls stop, Percy reduces the current, and the group checks the condition before changing the test. No injury or lasting ankle problem is established."
+      - "On the beach, Percy and Clarisse compare pivot and slide under different footing and spacing. Clarisse's personal feelings about competition and their father's comparison remain mixed; the conversation does not resolve the inequality."
+    what_each_remembers_firsthand:
+      - "The dawn and afternoon training, stop-signal test, beach comparison, and evening discussion in this chapter."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "Clarisse is not told about Percy or Annabeth's erased-future autobiographical memories."
+    new_change_this_chapter: "Clarisse and Percy share responsibility for revising the movement around observed risks. They keep the notes as a draft instead of presenting one morning's test as a finished cabin rule."
+    future_callback_required: "Do not treat the Anchor Turn as mastered, universally safe, a combat guarantee, or a permanent cabin rule. Respect its conditions and the unresolved comparison with Clarisse's father."
+  - pair: "Percy / Silena"
+    last_shared_scene_chapter: 108
+    earned_trust_or_conflict:
+      - "Silena gives Percy a cowrie necklace for visibility in the pool; he accepts it and wears it during training. The cowrie is a marker, not a new magical power."
+      - "Silena demonstrates permission-based, bounded first aid, describes when to seek qualified care, and checks Clarisse's shallow palm scrape. She examines Percy's existing elbow bruise but does not claim to diagnose beyond the stated checks."
+      - "Silena records what the practice showed and what it did not establish; she keeps the master copy while the second marked-up draft stays in the training box."
+    what_each_remembers_firsthand:
+      - "Their present-day training, first-aid lesson, and note-keeping decisions."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Silena's role expands to documenting safe procedures while retaining authority over the first-aid material and draft record."
+    future_callback_required: "The cowrie necklace remains a visibility marker. Do not turn Silena's first-aid lesson into professional medical qualification or invent an injury beyond the shallow palm scrape and existing bruises."
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 108
+    earned_trust_or_conflict:
+      - "Annabeth chooses to test one small static signal from the dry stair, defines its limited meaning, and stops when she decides she has done enough. Percy accepts her correction when he over-checks whether she wants to withdraw."
+      - "Annabeth helps refine the caller's position and insists that the formation's recorded limits remain explicit."
+    what_each_remembers_firsthand:
+      - "The present-day afternoon practice and their conversation about Annabeth's participation."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Annabeth participates as a bounded signaler and recorder from the dry side; her choice changes the caller procedure."
+    future_callback_required: "Do not imply she uses lightning or sends electricity into the pool. Preserve her right to stop or change participation. No erased-future memories are disclosed to others."
+  - pair: "Percy / Thalia"
+    last_shared_scene_chapter: 108
+    earned_trust_or_conflict:
+      - "Thalia studies the pool's visible surface from a safe position and distinguishes a suspected shift from one she can confirm at the tile seam."
+      - "She joins the group practice as an observer/caller, without water control."
+    what_each_remembers_firsthand:
+      - "The shared Tempest Hall session and evening gathering."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "Thalia is not told the content of Percy and Annabeth's erased-future memories."
+    new_change_this_chapter: "Thalia's contribution is framed as careful observation with explicit limits, not a new power."
+    future_callback_required: "Do not give Thalia water-manipulation powers or imply she controls the current."
+items_promises_injuries:
+  - item_or_event: "Silena's cowrie necklace"
+    owner_or_people: ["Percy", "Silena"]
+    last_seen_chapter: 108
+    current_status: "Silena gives Percy the cowrie as a visibility marker for pool training. Percy wears it in Tempest Hall and carries it under his shirt on the beach. It grants no power."
+  - item_or_event: "Training notes and rulebook draft"
+    owner_or_people: ["Silena", "Clarisse", "Percy", "Annabeth", "Thalia"]
+    last_seen_chapter: 108
+    current_status: "Silena retains the master first-aid page; the marked-up training copy records stance, pivot/slide limits, stop/check procedures, caller cues, shallow-pool and land conditions, and that the formation is not a combat guarantee. A copy is placed in the training box. It is a draft, not posted or approved as a cabin-wide rule. Future practice is unscheduled."
+  - item_or_event: "Wooden figures and lantern"
+    owner_or_people: ["group"]
+    last_seen_chapter: 108
+    current_status: "The ship, panther, sea horse, and owl are used as a loose spacing model during the evening beach scene. They are left with the group; no ownership transfer is stated."
+  - item_or_event: "Clarisse's palm scrape"
+    owner_or_people: ["Clarisse", "Silena"]
+    last_seen_chapter: 108
+    current_status: "Shallow scrape from a practice trident is cleaned and loosely wrapped by Silena with Clarisse's permission. No lasting injury is established."
+  - item_or_event: "Clarisse's ankle"
+    owner_or_people: ["Clarisse", "Percy"]
+    last_seen_chapter: 108
+    current_status: "A low cross-current catches Clarisse's trailing ankle during the slide test. She calls stop; Percy lowers the current. She checks her ankle, reports no injury, and later resumes dry-floor testing. No lasting injury is established."
+  - item_or_event: "Percy's bruises"
+    owner_or_people: ["Percy", "Silena"]
+    last_seen_chapter: 108
+    current_status: "The existing elbow bruise is checked during Silena's lesson; a new practice bruise is noted on Percy's shoulder after the afternoon session. No lasting injury or treatment beyond the observed checks is established."
+unresolved_tensions:
+  - "The group has one controlled shallow-water group run and limited dry-ground comparisons. The Anchor Turn is not proven safe in combat or under other conditions."
+  - "The pivot and slide have different tradeoffs; the group has not selected one universally correct option."
+  - "The training notes are drafts, not public instructions or a cabin-wide rulebook. The next practice is not scheduled."
+  - "Exact dates, ages, season, and elapsed intervals remain unstated."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  canon_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: false
+  manuscript_structure_pass: false
+  character_memory_regression_pass: false
+  whitespace_check_pass: true
+  hosted_actions_status: "Not run for this local expansion."

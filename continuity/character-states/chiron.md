@@ -1,0 +1,222 @@
+# Chiron: cumulative memory
+
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found chiron in 188 of 193 chapter files (001–017, 019–027, 029–107, 109–140, 142–184, 186–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
+
+### Chapter 001 · The Weight of Salt and Sky
+- **Knowledge provenance:** FIRSTHAND + REPORTED.
+- **Source:** [Chapter 001](../../chapters/001-the-weight-of-salt-and-sky.md), Big House meeting before dinner.
+- **State and events:** firsthand: welcomes Percy when Grover delivers him before dinner, knows about earlier sword practice from Poseidon, offers sword evaluation tomorrow and a private conversation. No old-life memory or time-secret disclosure. His offer is not acceptance of a confession that has not happened.
+- **Carry-forward:** Do not reset personal acquaintance or imply that secondhand stories confer firsthand recollection. Confirm next relevant scene and update this file with a new chapter-labeled event.
+
+### Chapter 002 · The Girl With Lightning in Her Veins
+- **Knowledge provenance:** FIRSTHAND / REPORTED / PRIOR LIFE separated in the event text; no inferred global memory.
+- **Source:** [Chapter 002](../../chapters/002-the-girl-with-lightning-in-her-veins.md), training conversation and instructor scene.
+- **State and events:** FIRSTHAND: meets Percy again after their Ch001 Big House welcome, discusses sword training and an assessment/ordinary camp routines; Percy undergoes supervised drills with instructor Matt. This is a continuation, not a first introduction. No timeline-secret disclosure.
+- **Next-scene requirement:** Carry forward confirmed facts; investigate any alleged repetition, private disclosures, gifts or unresolved obligations before advancing relationships.
+
+
+### Chapter 003 · source event
+- **Source:** [Ch003](../../chapters/003-what-the-storm-remembers.md); [handoff](../../editorial/handoffs/ch003-memory-prose-2026-10-14.md).
+- **Knowledge and consequence:** FIRSTHAND: responds to drakon incident, reviews safety/ward damage, supervises early Annabeth storm exercises and investigates Hall documentation. Healer orders Thalia 48h no sparring; being briefed does not mean Chiron personally made diagnosis. He does not get full time-rewrite confession.
+- **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 004 · source event
+- **Source:** [Ch004](../../chapters/004-the-hall-of-gods.md); [handoff](../../editorial/handoffs/ch004-memory-prose-2026-10-14.md).
+- **Knowledge and consequence:** FIRSTHAND: challenges Percy/Annabeth after unauthorized archive entry; assigns two supervised archive afternoons, permits public records consultation and maintenance questions. His earlier stolen-prophecy report reaches Percy through Zoe; no proof he directly briefed Percy with its full content.
+- **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 005 · source event
+- **Source:** [Ch005](../../chapters/005-clarisse.md); [handoff](../../editorial/handoffs/ch005-memory-prose-2026-10-14.md).
+- **Knowledge and consequence:** FIRSTHAND: responds to second drakon and closes Hall for ward/record inspection. Witnesses damage, not established sabotage or Zeus intent.
+- **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 006 · source event
+- **Source:** [Ch006](../../chapters/006-the-sister.md); [handoff](../../editorial/handoffs/ch006-memory-prose-2026-10-14.md).
+- **Knowledge and consequence:** FIRSTHAND: supervises authorized ward/plan inquiry and permits Annabeth's noncombat evacuation mapping and drills; issues practical training boundaries, not a global family reconciliation.
+- **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 007 · source event
+- **Source:** [Ch007](../../chapters/007-the-tempest.md); [handoff](../../editorial/handoffs/ch007-memory-prose-2026-10-14.md).
+- **Knowledge and consequence:** FIRSTHAND: organizes storm response and damaged-ward isolation; agrees to report unsafe fixture and keep Annabeth's training investigation separate until facts known; Hall closed, curfew tightened, patrols increased. Will receive Percy's incident report only when delivered later, not merely because it was drafted.
+- **Rule:** Carry witnessed experience, heard reports and outstanding obligations forward; neither silence nor a new chapter resets earned acquaintance.
+
+### Chapter 008 · cumulative event
+- **Source:** [Ch8](../../chapters/008-the-gathering-storm.md); [handoff](../../editorial/handoffs/ch008-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch008 FIRSTHAND: restricts Oracle access while inspections continue; public records/shift ledgers are available only with controls. Percy/Annabeth's copied marginal text is from Chiron hand, but that does NOT mean Chiron explained it to them or endorsed its authenticity. They knowingly break restriction.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 009 · cumulative event
+- **Source:** [Ch9](../../chapters/009-the-oracle.md); [handoff](../../editorial/handoffs/ch009-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch009 FIRSTHAND: receives Percy/Annabeth reports and copied notes after unauthorized Oracle visit; confirms Oracle silent THREE WEEKS; imposes ONE WEEK no unsupervised archive access, permits supervised factual work. His investigation leaves origin of black thread/ward unresolved.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 010 · cumulative event
+- **Source:** [Ch10](../../chapters/010-the-daughter-of-hecate.md); [handoff](../../editorial/handoffs/ch010-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch010 FIRSTHAND: authorizes Zoe's limited independent copper-strip comparison, not test on active ward; supervises apparatus, route preparations and dated public status board. Enforces Annabeth's healer clearance before dangerous electricity.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 011 · cumulative event
+- **Source:** [Ch11](../../chapters/011-the-eclipse.md); [handoff](../../editorial/handoffs/ch011-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch011 FIRSTHAND: oversees containment and evacuation during eclipse, isolation and safe removal of ward coupling; keeps evidence and Hall closed. Checks injuries and duties; does not announce certain culprit or treat eclipse as time-rewrite proof.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 012 · cumulative event
+- **Source:** [Ch12](../../chapters/012-what-remains.md); [handoff](../../editorial/handoffs/ch012-memory-prose-2026-10-14.md).
+- **Provenance and state:** Ch012 FIRSTHAND: supervises repair crews/scaffolding, Percy assigned light work with lifting restriction, Thalia and Bea revise non-alarm next drill; he has not received new letter from Amphitrite or proven temporal cause. Prior sanctions must be shown to expire or be waived if relevant.
+- **Required persistence:** Later dialogue must carry what chiron personally saw/heard, and cannot confer memory of unobserved private scenes. Unknown stays unknown until witnessed or reported.
+
+
+### Chapter 13 · witnessed / reported / unknown
+- **Source:** [Ch13](../../chapters/013-the-father-who-changes-faces.md); [handoff](../../editorial/handoffs/ch013-memory-prose-2026-10-14.md)
+- **State:** Ch013 FIRSTHAND: reports sending Olympus eclipse summary but has no evidence Zeus read it; hosts Zeus in new guise, supports Thalia, agrees to investigate authorized Jason mail channel. Ch013 letters remain on desk, not delivered.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 14 · witnessed / reported / unknown
+- **Source:** [Ch14](../../chapters/014-letters-from-under-the-sea.md); [handoff](../../editorial/handoffs/ch014-memory-prose-2026-10-14.md)
+- **State:** Ch014 FIRSTHAND: supervises Iris underwater family call and mail channel; package arrives under courier manifest; next Iris opening requires approval. Percy's old-life memories aren't automatically exposed by royal appearance.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 15 · witnessed / reported / unknown
+- **Source:** [Ch15](../../chapters/015-beryl-s-letters.md); [handoff](../../editorial/handoffs/ch015-memory-prose-2026-10-14.md)
+- **State:** Ch015 FIRSTHAND: receives Thalia's inquiry about Beryl and assures guardianship stays with camp; verifies any proposed visit separately. Beryl's 38-day sobriety is letter CLAIM, not certificate. Letters to Beryl aren't shown mailed.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 16 · witnessed / reported / unknown
+- **Source:** [Ch16](../../chapters/016-capture-the-flag.md); [handoff](../../editorial/handoffs/ch016-memory-prose-2026-10-14.md)
+- **State:** Ch016 FIRSTHAND: rules contested CTF match INCOMPLETE, orders rule clarification and future Friday rematch, not immediate win. Banner repair, healer check minor knee and fair-play promises continue.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 17 · witnessed / reported / unknown
+- **Source:** [Ch17](../../chapters/017-lake-day.md); [handoff](../../editorial/handoffs/ch017-memory-prose-2026-10-14.md)
+- **State:** Ch017 FIRSTHAND: authorizes ordinary swimming contest without divine shortcuts; Grover considering Pan Searcher requires separate approval, not magically enrolled.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 18 · witnessed / reported / unknown
+- **Source:** [Ch18](../../chapters/018-the-forge.md); [handoff](../../editorial/handoffs/ch018-memory-prose-2026-10-14.md)
+- **State:** Ch018 FIRSTHAND: camp forge safety/Beckendorf workshop inspection; model/necklace/spear need actual testing before approved. Does not certify all finished.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 19 · witnessed / reported / unknown
+- **Source:** [Ch19](../../chapters/019-the-brother-across-the-country.md); [handoff](../../editorial/handoffs/ch019-memory-prose-2026-10-14.md)
+- **State:** Ch019 FIRSTHAND: coordinates supervised Roman Iris call under no-recording rules, handles separate Roman outbound letters/drawing. Material ACCEPTED pending approval is not confirmed received. Future in-person visit requires fresh Roman authorization.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 20 · witnessed / reported / unknown
+- **Source:** [Ch20](../../chapters/020-cake-and-lightning.md); [handoff](../../editorial/handoffs/ch020-memory-prose-2026-10-14.md)
+- **State:** Ch020 FIRSTHAND: approves camp belated 16 celebration, hears request to avoid eclipse/family lecture; Zeus's absence continues. No automatic Jason mail receipt.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 21 · witnessed / reported / unknown
+- **Source:** [Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md); [handoff](../../editorial/handoffs/ch021-memory-prose-2026-10-14.md)
+- **State:** Ch021 FIRSTHAND: coordinates Harvest Day/Music Night, receives Grover program correction and separate Roman COURIER APPROVAL for Jason's seven-day supervised visit. Guest housing Cabin One organized under adult oversight.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapter 22 · witnessed / reported / unknown
+- **Source:** [Ch22](../../chapters/022-storm-training.md); [handoff](../../editorial/handoffs/ch022-memory-prose-2026-10-14.md)
+- **State:** Ch022 FIRSTHAND: supervises quiet-yard static exercise, corrects Thalia to check permission/safety after Annabeth arcs near Percy; finds no documented injury and grants only bounded task. Thursday shorter trial remains PENCILED, not approved. Jason physically at camp with Roman permission.
+- **Carry-forward:** Do not reset relationship, injury, mail status, gift ownership or another character's private memories at the next chapter break.
+
+### Chapters 023–036 · verified decisions and boundaries
+- **[Ch024](../../chapters/024-the-climbing-wall.md):** Supervises the stop-signal flag and later corrects timing with one shared start signal planned.
+- **[Ch025](../../chapters/025-night-watches.md):** Orders patrols to observe/signal/retreat. The heard border sounds are not proof of a crossing; the west path remains closed pending inspection.
+- **[Ch026](../../chapters/026-the-roof.md):** Hal/cabin stewardship closes unsafe roof access pending repair; Annabeth's balcony alternative remains conditional.
+- **[Ch030](../../chapters/030-amphitrite-visits.md):** Discusses Percy's camp adjustment with Amphitrite and records her proposed fortnightly letters/monthly optional Iris-messages for him to consider; the memory gap/time change is not attributed to her knowledge.
+- **[Ch032](../../chapters/032-triton-visits.md):** Calls Clarisse/Triton match a draw after simultaneous touch and refuses real weapons.
+- **[Ch035](../../chapters/035-the-letter.md):** Authorized Roman intermediary remains the only proposed channel for Jason's packet; acceptance/delivery are unconfirmed.
+- **[Ch036](../../chapters/036-five-months.md):** Offers to arrange inspection of old prophecy copies; no inspection has yet occurred.
+
+### Chapter 090 · witnessed / reported / unknown
+- **Source:** [Ch090](../../chapters/090-storm-and-sea.md); [handoff](../../editorial/handoffs/ch090-storm-and-sea.md).
+- **State:** FIRSTHAND: assigns camp shelter, infirmary, shoreline, and hill teams; supervises/receives revised water and signal plans; stays with ward crew through the last strike. Afterward receives Percy's report of two misfires, runoff, and threats outside the border. Directs daylight checks of the canoe lake, creek, soft anchor, and outer ward after everyone is accounted for and treated.
+- **Knowledge:** States that the storm's cause and intent are unknown. The lake's post-runoff condition and full ward status are unverified; no confirmed breach.
+
+
+### Chapter 091 · witnessed / reported / unknown
+- **Source:** [Ch091](../../chapters/091-tide-pools.md); [handoff](../../editorial/handoffs/ch091-tide-pools.md).
+- **State:** FIRSTHAND / REPORTED: authorizes Percy, Clarisse and Silena's supervised north-shore outing after morning status checks; assigns Grover to remain with them and gives return/tide boundaries. He receives Grover's all-returned count. At morning briefing, the lake is fresh but silted, canoes remain closed, the lower strawberry strip needs dry ground before repair, the rescue anchor remains out of service, ward work is active and crosswind flag testing remains pending.
+- **Carry-forward:** Does not mark any storm inspection fully resolved in this chapter. Future tide-pool trips require renewed route and timing approval.
+
+### Chapter 092 · witnessed / reported / unknown
+- **Source:** [Ch092](../../chapters/092-jealousy-ii.md); [handoff](../../editorial/handoffs/ch092-jealousy-ii.md).
+- **State:** FIRSTHAND: assigns Evan to assist with an advanced rotation under his direct supervision and states the rules for partner changes, practice weapons, stop calls and marked lanes. Stops the practice when Percy crosses the chalk boundary, then approves wider marks. Schedules tomorrow's session with Clarisse leading warm-up, Evan assisting the counter drill, Percy helping set the lanes, and a younger camper receiving one slow rotation.
+- **Carry-forward:** The scheduled lesson is not yet completed. Storm inspections remain pending absent a later named report.
+
+### Chapter 093 - witnessed / reported / unknown
+- **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
+- **State:** FIRSTHAND: approves one supervised south-green overnight with a marked boundary, counselor watches, headcounts after the film and at first bell, no open flame, and the projector/cable removed before campers settle. Stops the projector test while the screen is loose, requires power-down before repair, approves the corrected path, and confirms each cabin group at dawn. He does not sign off any storm-board item in this chapter.
+- **Carry-forward:** The one-night campout is closed at first bell. No new quest or storm report is issued.
+
+### Chapter 094 - witnessed / reported / unknown
+- **Source:** [Ch094](../../chapters/094-sick-day.md); [handoff](../../editorial/handoffs/ch094-sick-day.md).
+- **State:** Checks whether Percy needs anything, asks Thalia whether Will's care instructions are clear, respects the request not to wake Percy and does not insist on entering Cabin Three. His prior approval for Annabeth's temporary bunk remains in effect.
+- **Carry-forward:** No new quest or camp duty is assigned to Percy while he is ill.
+
+### Chapter 095 · reported / unknown
+- **Source:** [Ch095](../../chapters/095-annabeth-sick.md); [handoff](../../editorial/handoffs/ch095-annabeth-sick.md).
+- **State:** Receives Annabeth's existing north-trail sketch through Clarisse for a brace inspection, not as a work order. Two unnamed counselors are assigned; Clarisse reports the route remains closed until they check the supports. Chiron's answer is relayed through Clarisse; no direct scene or medical update with Annabeth is shown.
+- **Carry-forward:** The actual inspection, measurement verification and safe reopening are not established.
+
+### Chapter 096 · witnessed / reported / unknown
+- **Source:** [Ch096](../../chapters/096-training-together.md); [handoff](../../editorial/handoffs/ch096-training-together.md); [structured continuity](../ch096.yaml).
+- **State:** FIRSTHAND: supervises the five-demigod training proposal and keeps water shaping separate from an open-air strike. After a missed whistle and a wind-driven boundary failure, he reviews the visible stop card, station sightlines and return lane. He walks the camp-trail route and leaves the beacon dark until the next day. At the supervised final exercise, he keeps the crowd beyond the lane and watches the separate strike light the beacon.
+- **Carry-forward:** The safety protocol belongs to supervised training; it is not permission for unsupervised use. The north-trail brace inspection from Chapter 095 remains unreported.
+
+### Chapter 097 · witnessed / reported / unknown
+- **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
+- **State:** FIRSTHAND: tests a Big House-to-pavilion route in his wheelchair. A line through the cabins fails at a rut that would require someone to lift his chair; the longer route by the Big House ramp is tested and marked with a day-specific note. This is one chair's test, not a universal accessibility certification.
+- **Map / carry-forward:** He keeps the north trail closed pending its brace inspection, explains the closure to the younger camper, and helps set a one-week rec-room trial. A large-print legend and upper-label list are provided, but some small map notes still need a reader. The planned user-feedback review is not complete.
+
+### Chapter 098 · witnessed / reported / unknown
+- **Source:** [Ch098](../../chapters/098-fathers-day-gods.md); [handoff](../../editorial/handoffs/ch098-fathers-day-gods.md); [structured continuity](../ch098.yaml).
+- **State:** FIRSTHAND: reviews the current map trial with Annabeth before the meal, keeps the separate meal plan out of the correction sleeve, and coordinates food safety and table placement. When wind moves smoke across the food, he pauses service and relocates the table; Annabeth records the setup change separately. He tells Zeus the tested ramp route was successful only once in dry conditions.
+- **Carry-forward:** The north trail remains closed pending brace inspection, the dock board still flexes, and the map remains in its one-week rec-room trial. Poseidon's overnight arrangements and next-morning visit are not confirmed.
+
+### Chapter 099 · witnessed / reported / unknown
+- **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
+- **State:** Receives a sealed letter addressed to Thalia, holds it until she asks to open it, and steps onto the porch when she requests privacy. He sets the optional lantern event's no-explanation boundary and checks the serving aisle.
+- **Carry-forward:** The letter's claims are not independently verified. The third dock board remains unsafe; no map-trial, north-trail, injury or family-contact status is resolved here.
+
+### Chapter 100 · witnessed / reported / unknown
+- **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
+- **State:** FIRSTHAND: explains that Ella's 1,000 is a verified record count with gaps, not a count of every fire. He waits for the fire crew's check before lighting the stack, keeps the lane open, and banks the coals at the end.
+- **Carry-forward:** He says the next fire will use those coals in the morning. The timeline scroll's storage is not established.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md)–[Ch113](../../chapters/113-little-brother.md).
+- **State:** Records the amphitheater crack and orders a barrier that remains in place the next morning. He confirms dispatch of Percy's letter to Amphitrite; her receipt/reply are unknown. Clarisse's proposed rescue-carry reassessment remains subject to his approval and another helper.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Closes the washed-out shore path pending repair, participates in the guest and exit arrangements, approves the return letter's dispatch and confirms the weekend invitation logistics. These are discrete decisions, not a standing Atlantis travel permission.
+- **Carry-forward:** Repair, letter receipt, Poseidon's attendance and the planned Sunday return remain unresolved or unconfirmed at Ch125's close.
+
+### Chapters 140–144 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** Receives the Ch142 swim note and replies with a return-by-two acknowledgment plus a no-middle-without-supervision condition. In Ch143, the rebuilt canoe dock is walk-tested but still needs its repair record before formal reopening. In Ch144 he supervises the lake lesson and orders no second electrical attempt after Annabeth's bounded draw.
+- **Carry-forward:** The formal dock record/reopening and later buoy follow-up are not shown as completed in these chapters. His safety limit remains specific to the supervised work described.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Encourages Thalia to let people know her and to begin with family she has chosen, including Clarisse. This supports chosen-family language without changing their biological relationships. Thalia's proposed boundary walk still awaits her promised request to him.
+- **Carry-forward:** Do not treat the walk as approved, scheduled or begun unless a later scene confirms it.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch152](../../chapters/152-a-full-day-of-sky.md#L721), [Ch155](../../chapters/155-thirty-nine-marks.md#L255), [Ch155](../../chapters/155-thirty-nine-marks.md#L483), [Ch156](../../chapters/156-what-the-hands-know.md#L13), [Ch158](../../chapters/158-what-brothers-bring.md#L35), [Ch161 opening](../../chapters/161-edges-that-hold.md#L177).
+- **FIRSTHAND / reported:** Thalia first proposes a four-day boundary survey in Ch152; by Ch155 Chiron has approved it. Thalia leaves at 3 p.m. and returns Friday after three days on the line; the repaired Ch156 wording agrees with the departure scene. No second departure is evidenced. He receives the team's joint report of the lake anomaly and secures the panel in his office; Annabeth keeps a tally copy.
+- **Visit / relationship logistics:** Signs Tyson's visitor slate for four nights, Friday through Tuesday, with a Cabin Three visitor bunk and ferry/forge arrangements. Tyson remains a visitor rather than a resident. No panel-count disclosure to Tyson is shown after the repair; no disclosure of Percy's memory predicament to Amphitrite is shown.
+- **Carry-forward:** Exact calendar dates remain unknown. Keep the panel under lock and the survey record; Tuesday ferry is completed in the following chapter opening.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Initial relationship and secrecy (Ch001–022):** Chiron welcomes Percy to camp, recognizes his prior sword training, and offers a private conversation; the opening does not show Percy disclosing the timeline secret. He serves as camp mentor and supervises evidence/training, including Annabeth’s early storm work with Thalia. He can know only facts shared with him; neither Percy and Annabeth’s private recognition nor their memories become his automatically. (Sources: [Ch001](../../chapters/001-the-weight-of-salt-and-sky.md#L1), [Ch008](../../chapters/008-the-gathering-storm.md#L1), [Ch022](../../chapters/022-storm-training.md#L1); ledger [001–048](../chapter-ledgers/001-048.md#L1).)
+- **Camp operations and mentorship (Ch023–089):** Chiron coordinates schedules, training permissions, quests, visits and safety, but plans/authorization remain distinct from departures and completed events. He supervises camp investigations with source/provenance caution, handles youth conflicts without omniscience, and remains a trusted adult to Percy, Annabeth, Thalia, Grover, and other campers. He hears disclosures only in scenes shown; no ledger evidence makes him a holder of erased-future memories. (Sources: [Ch027](../../chapters/027-the-library.md#L1), [Ch035](../../chapters/035-the-letter.md#L1), [Ch049](../../chapters/049-the-quest.md#L1), [Ch074](../../chapters/074-tyson-s-visit.md#L1); ledgers [027–036](../chapter-ledgers/027-036.md#L1), [049–060](../chapter-ledgers/049-060.md#L1), [073–076](../chapter-ledgers/073-076.md#L1), [077–083](../chapter-ledgers/077-083.md#L1), [084–089](../chapter-ledgers/084-089.md#L1).)
+- **Safety, maps, and family boundaries (Ch090–160):** He oversees medical and activity boundaries, camp mapping, travel, and letters. He does not treat Annabeth’s small supervised storm practice as general clearance or a completed route as proof every risk is resolved. In Ch152 Thalia decides to ask Chiron about her proposed bounded boundary walk; Ch155 records his approval and her departure, and Ch158 records her Friday return after three days. The survey is completed logistics, not open-ended absence. He signs Tyson’s four-night visitor slate and keeps the panel/anomaly report secured. (Sources: [Ch096](../../chapters/096-training-together.md#L1), [Ch097](../../chapters/097-the-map.md#L1), [Ch152](../../chapters/152-a-full-day-of-sky.md#L725), [Ch155](../../chapters/155-thirty-nine-marks.md#L255), [Ch155](../../chapters/155-thirty-nine-marks.md#L493), [Ch158](../../chapters/158-what-brothers-bring.md#L169), [Ch160](../../chapters/160-what-the-note-said.md#L1); ledgers [090–100](../chapter-ledgers/090-100.md#L1), [149–151](../chapter-ledgers/149-151.md#L1), [152–160](../chapter-ledgers/152-160.md#L1).)
+- **Recent camp and medical decisions (Ch161–193):** Chiron assigns autumn work and checks it as training rather than demanding perfect first attempts. He coordinates winterization with Clarisse and keeps separate tasks/statuses clear. At Ch193 he examines Thalia after she agrees to a check, finds heel tenderness, and sets rest, ice/wrap/splint, left-footed modified archery for a week and reassessment if not improving; he says hall attendance is optional and may involve Will if symptoms persist. Thalia agrees; no recovery or clearance is recorded. He separately corrects Percy for raising the concern publicly and asks him to speak privately next time. (Sources: [Ch167](../../chapters/167-what-sharpens-together.md#L1), [Ch192](../../chapters/192-against-the-windows.md#L1), [Ch193 exam](../../chapters/193-the-heel.md#L283), [Ch193 plan](../../chapters/193-the-heel.md#L301); ledgers [161–166](../chapter-ledgers/161-166.md#L1), [189–193](../chapter-ledgers/189-193.md#L1).)
+- **Unresolved:** Medical outcome after Ch193, the next chapter’s opening, and future disclosures are unknown. Preserve the difference between permission, plan, treatment, and completed recovery.

@@ -1,6 +1,6 @@
 ## Chapter 48: Accused
 
-By early June, the snow and the whispers of the winter council were weeks behind them. The whispers had never quite stopped. Percy knew something was wrong before the conch blew because the sky went still.
+By early June, the snow and the whispers of the winter council were months behind them. The whispers had never quite stopped. Percy knew something was wrong before the conch blew because the sky went still.
 
 It was morning, early, the kind of blue-white morning after a night of stars. He had walked down to the lake with a towel over his shoulder and his teeth still unbrushed, meaning to swim before breakfast. The water was flat. Too flat. No ripple, no wind. The naiads were gone from the dock. At the far end, the fish had stopped jumping.
 

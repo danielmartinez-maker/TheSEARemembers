@@ -16,6 +16,82 @@ Now she sat forward with her hands folded, looking into the flames, and the whol
 
 A ripple of soft laughter went around the benches. Annabeth lifted her head from Percy's shoulder, suddenly more awake. Percy nudged a corner of his blanket toward her without looking, and she pulled it over her knees.
 
+Zoe lifted a finger before continuing.
+
+"One thing. The story is mine. You can ask questions when I finish, and you can remember what I say. Please do not turn it into a camp game without asking me first."
+
+Percy saw Ella straighten in the back row, her notebook opened to a clean page. The harpy had learned something difficult about private writing when she'd found Clarisse's poems. She waited now instead of immediately taking notes.
+
+"Would it be all right to write down the parts you say we can share?" Ella called.
+
+Zoe looked toward her. "The general parts, yes. Not the address of the house I grew up in, and not the names of the people who raised me. Those details are not a prize for listening."
+
+Ella nodded solemnly and shut the notebook until the story began.
+
+Chiron moved from his place near the back of the amphitheater. Three of the newest campers had been sitting with their counselor a little below him. Milo was leaning forward with his elbows on his knees. Lucy had taken her flashing shoes off and tucked them beneath the bench. Bea held the stuffed seal she'd carried all the way from the van.
+
+"The younger campers may leave now if they wish," Chiron said. "Some of this account is frightening. It is not a test of courage to stay awake through every word."
+
+Milo glanced at Lucy. Lucy shrugged and stayed. Bea stood up.
+
+Thalia was halfway to her feet before she caught herself. Percy saw the effort. She had spent years looking after Annabeth and had very strong instincts about children who were frightened, but Bea already had a counselor beside her.
+
+"Do you want to come back later?" the counselor asked.
+
+Bea looked at Zoe. "Will she be mad?"
+
+"Not at all," Zoe said. "I have been a child who wanted to leave a room. I prefer a door that opens."
+
+Bea took her seal and went with the counselor. No one called her back. After a moment another small camper followed them. Milo and Lucy remained, and Chiron stayed within their sight.
+
+Percy shifted a little closer to Annabeth. Tyson had returned to Atlantis after his long visit, leaving a photograph on Cabin Three's windowsill and a jar of peanut butter that Percy had been making last longer than necessary. The empty bunk still looked wrong in the morning. Tonight he had come to listen partly because he needed to be around other people without being asked whether he missed his brother.
+
+"You okay?" Annabeth whispered.
+
+"Yeah. You?"
+
+"Yeah."
+
+She did not ask him to prove it. He didn't ask whether she was thinking about the way her first life had disappeared. They both knew how easily a family story could turn into a question neither of them knew how to answer.
+
+Across the fire, Clarisse reached for a log with the metal tongs and stopped when Zoe shook her head. Zoe was still arranging her shawl and small silver key pin. She liked the fire the way it was. Clarisse set the tongs down without argument.
+
+That surprised Percy almost as much as anything else that evening. A few weeks earlier, he might have expected Clarisse to make a joke out of being corrected. Now she accepted a boundary and moved on.
+
+"Can we ask questions as we go?" Milo said from his bench.
+
+Zoe considered. "If you need clarification, yes. If it is a question I cannot answer without telling someone else's story, I may say no."
+
+Milo nodded.
+
+"I asked Chiron to let me speak tonight because this camp can make arriving seem easy in retrospect," Zoe said. "We laugh about first days once we have survived them. We tell ourselves that the frightened child became brave by walking through the gate. Sometimes the frightened child just learned where the dining pavilion was and went to bed still frightened."
+
+Percy felt Annabeth take his hand.
+
+"I am going to tell you about a door," Zoe continued. "It was blue. My father painted it himself. He got paint on the letterbox and never quite scraped it all off. I used to tell people the blue was ugly. Now I can see that door more clearly than half the spells I know."
+
+The campers listened. Zoe's voice was steadier when she spoke of ordinary objects than when she spoke of magic.
+
+"Did you like your home?" Lucy asked.
+
+"Very much."
+
+"Then why did you leave?"
+
+"That is what I'm here to explain."
+
+Lucy looked down at her shoes, then back at Zoe.
+
+Percy heard Grover shift behind him. The satyr had taken special care bringing the new campers to the hill, and Percy knew he was still worried about what they might encounter outside the border. He wanted them to understand that being at camp did not mean every difficult thing in their earlier lives was gone. The story, if Zoe chose to tell it, could show that without anybody turning the children into an example.
+
+Milo raised his hand again.
+
+"Sorry," he said, lowering it. "I keep thinking of questions."
+
+"Keep them," Zoe said. "If they still matter when I'm done, you can ask. Sometimes a story answers questions its teller never planned for."
+
+Milo folded his hands in his lap. Annabeth leaned against Percy. Thalia drew her jacket across her shoulders and rested one boot on the empty step in front of her. Zoe waited until the rustle of settling campers stopped, then looked into the fire.
+
 "My mother is Hecate," Zoe said. "Goddess of magic, of the Mist, of crossroads and ghosts and the moon when it is dark. You know this. What you may not know is that I did not grow up knowing it."
 
 She paused, and the fire popped.
@@ -79,6 +155,166 @@ And then the front door opened, her keeper-parents came in with candles they did
 Zoe stopped there for a moment, looking around the amphitheater. Percy realized he was holding his breath. Next to him, Annabeth had gone very still, her gray eyes fixed on Zoe. He knew what she was thinking because he was thinking it too. The idea of being placed. Of being loved without blood and still wondering where the blood went.
 
 "She came again," Zoe said softly. "On every new moon for four years. Sometimes for an hour. Sometimes for five minutes. She taught me small things. How to hold a memory still so it does not blur. How to tell Mist from truth by the weight in your ears. How to leave an offering at a crossroads. An apple. A coin. A kind word said backward. She never did big magic in front of me. She said big magic is just small magic that learned patience."
+
+Zoe paused and reached into the pocket beneath her shawl. She brought out a black plastic radio dial, about the size of a large coin, its ridged edge worn smooth in one place.
+
+"This belonged to my father," she said.
+
+Several campers leaned forward, expecting an enchanted object. Zoe rolled it between her fingers.
+
+"The father who raised me. It is not a spell. The most remarkable thing it ever did was help him find the weather forecast."
+
+Milo smiled from the second row. Percy could see the boy relaxing now that Zoe was talking about something ordinary.
+
+"When I was nine," Zoe continued, "Hecate missed a new moon. She had told me to wait by the back gate. I sat there with my coat on until the grass was wet beneath me. I knew what time it was because the neighbor's dog always barked at eleven. Then it barked at midnight. Then the street was quiet."
+
+Her voice changed as she told the next part, losing a little of the formal steadiness she'd used earlier.
+
+She had walked back into the house expecting everyone to be asleep. Instead her foster father was at the kitchen table with the radio taken apart. He had a lamp turned down low, little screws arranged on a dish towel, and a half-eaten sandwich beside the soldering iron.
+
+"Couldn't sleep?" he asked.
+
+Zoe shook her head.
+
+"Come here, then. Help me find what I dropped."
+
+She knelt beside the table and looked under it. The missing object was a tiny spring. It had bounced into the groove where the floor met the wall, and she could just see one silver loop.
+
+"Got it," she said.
+
+"Good eyes."
+
+He took it from her, pleased in the simple way adults were when a child helped rather than making more work.
+
+Zoe stood there a moment, waiting for him to ask what she'd been doing outside. He did. She told him she'd been looking for someone who had promised to come.
+
+"Did they say when?" he asked.
+
+"Tonight."
+
+He stopped working. "And they didn't come?"
+
+"No."
+
+"That's rough."
+
+She was startled. She had expected a lecture about curfew or a demand for the visitor's name. Instead he pulled out a chair.
+
+"You can sit with me for a while," he said. "I can't promise the radio will play anything worth hearing."
+
+Zoe sat. He showed her how the tuning dial connected to a narrow rod. When the dial turned, the plates inside the radio moved closer together, changing which signal the receiver could pick up. He explained it twice, once with words and once by letting her turn the parts herself.
+
+"Radio is mostly asking," he told her. "You turn the knob and listen. If the station isn't there, turning harder doesn't bring it closer."
+
+Zoe laughed at that, though she would remember the sentence long after she forgot most of the technical explanation.
+
+"Why did you take it apart?" she asked.
+
+"There's a crackle. I think a connection's loose."
+
+"What if you can't fix it?"
+
+"Then I'll ask somebody who can."
+
+It was such a plain answer that Zoe almost missed it. The radio wasn't an exam. He didn't need to be right in front of her. If he failed, he would make another plan.
+
+They worked until the first pale line of morning appeared beyond the curtains. The radio eventually produced a burst of static, then a snatch of music, then a woman reading traffic reports. Her father turned the dial and grinned.
+
+"Not bad for a Wednesday," he said.
+
+Zoe went to school exhausted. She fell asleep over a worksheet and had to apologize to her teacher. She told the camp this detail with a faint, rueful smile.
+
+"Magic did not exempt me from consequences," she said. "I got detention for sleeping. I was angry at Hecate and grateful to my father, and both feelings were still true at lunchtime."
+
+When Hecate came the following new moon, Zoe had been waiting with a notebook full of questions. She didn't say hello.
+
+"You missed," she said.
+
+The goddess lowered her torches. "I did."
+
+"You promised."
+
+"I said I would come when I could."
+
+"You made it sound like a promise."
+
+Hecate's face changed. The light behind her grew dimmer.
+
+"Then I should have spoken more carefully," she said.
+
+Zoe folded her arms. "I waited until midnight."
+
+"I am sorry."
+
+"What kept you?"
+
+"A duty I cannot explain to you yet."
+
+Zoe was old enough to know that adults sometimes had real reasons they couldn't share. She was also young enough that the reason did not make the disappointment smaller.
+
+"You could have sent someone."
+
+"Not through the wards around this house."
+
+"Then you should have told me that before."
+
+Hecate looked at the child in front of her and nodded once. "Yes."
+
+Zoe told the camp that the goddess did not make the missed night vanish. She did not tell Zoe to stop being angry or offer a beautiful present so the girl would forget. She stayed until Zoe had finished saying what the night felt like.
+
+Only then did Hecate ask what Zoe had done after waiting.
+
+"I helped Dad fix the radio."
+
+"You call him Dad."
+
+"Because he is."
+
+Hecate looked down at her torches. Zoe did not know whether the goddess was hurt. If she was, she didn't make the child responsible for fixing it.
+
+"That is true," Hecate said.
+
+Zoe held up the little radio dial she'd been allowed to keep from the repair. Her foster father had replaced it with a newer one when the old plastic cracked. She'd spent the whole month turning it between her fingers whenever she waited for something.
+
+"Can you teach me a spell so I never forget that night?" she asked.
+
+"Why that night?"
+
+"Because I was angry with you, and he stayed with me. And someday if I start believing he wasn't really my father, I want to remember he was."
+
+Hecate sat on the edge of the garden step. She put the torches down beside her, where they continued to burn without smoke.
+
+"A memory can be kept in many ways," she said. "You can write what happened. You can tell someone. You can keep the broken part of a machine. Magic can help you concentrate on what you witnessed, but it cannot make a false memory true by polishing it."
+
+"Can it make you forget?"
+
+"Yes."
+
+"Would that be easier?"
+
+"For whom?"
+
+Zoe had no answer.
+
+Hecate looked toward the house, where the kitchen light shone through the curtains. "Sometimes people ask gods to remove grief as though grief were a stain. But if you take away the part that hurts, you may take away the part that mattered too. There are circumstances where remembering exposes a mortal to danger. That does not make forgetting harmless."
+
+Zoe put the dial in her pocket.
+
+"Then I don't want to forget," she said.
+
+"Good," her mother replied. "Write it down."
+
+Zoe had filled five pages in her school notebook that night. She wrote the weather, the traffic reporter's voice, the missing spring, the smell of the soldering iron. Most of all she wrote the sentence about the station that wouldn't appear if you turned the knob harder.
+
+At the campfire she held the dial out for the children to see. It had no glowing runes, no curse and no hidden compartment. Percy could see a small crack across its center where the plastic had once split.
+
+"Later," Zoe said, "Hecate would make a decision about other people's memories that I did not agree with. I still don't know whether she was right. I want that part of the story to sit beside the nights when she listened to me. If I make her only kind or only terrible, I would be forgetting something too."
+
+She put the dial away.
+
+Percy looked down at his own hands. He had spent months worrying that details of his original life were slipping away. He wanted to keep every ordinary thing, as if remembering the precise color of Sally's kitchen or the sound of a subway train could protect the years he'd lost. But the dial in Zoe's pocket was not proof that her family had stayed intact. It was proof that her father had been there, once, in a kitchen, when she needed company.
+
+Annabeth squeezed Percy's hand beneath the blanket. She had heard the story with him. That was a new memory neither needed a spell to claim.
 
 Percy smiled at that despite himself. Annabeth elbowed him lightly, but she was smiling too.
 
@@ -246,6 +482,90 @@ That got laughs and a few nods. Zoe smiled warmly at them both.
 
 Percy and Annabeth nodded together, the way they did after surviving the same quests and hearing Chiron's lectures a hundred times.
 
+Milo raised his hand again. This time he kept it raised when several older campers glanced back at him.
+
+Zoe turned toward the boy. "Yes?"
+
+"If your mother could change what those people remembered, couldn't she just make everybody safe by doing that?"
+
+The question came out bluntly, without the polite distance the older campers had been using. Percy looked at Milo, trying to read whether it was a general question about gods or something closer to his private worry about his brother.
+
+Zoe did not answer immediately. She looked into the fire, then back at him.
+
+"Safe from what?"
+
+"Monsters. Missing people. All of it. If you forget the frightening part, you don't have to be scared anymore."
+
+"Would you want someone to remove your memory of today?"
+
+Milo frowned. "No."
+
+"Why?"
+
+"Because some parts were good."
+
+"Which parts?"
+
+"The horses." He thought for a moment. "And Percy helped me talk to Chiron. But if the scary parts were gone, maybe I could remember those."
+
+"Perhaps. Perhaps not." Zoe rubbed the edge of the little bronze key on her shawl. "A god can change a story in someone's mind. That doesn't mean the person knows what was taken. It doesn't mean their fear disappears. A body can remember danger even when a mind has been taught not to name it."
+
+Milo looked down at his hands. "Then why did your mother do it?"
+
+"She believed my keepers would be safer if they thought I had gone away to school. There was a monster looking for me. She chose a disguise they could live with. I understand her reason now. I still think she should have told me more of what it would cost."
+
+"Could you ask her to put the memories back?"
+
+"I have asked her whether it could be done. She said it might expose them again. She could not promise it would restore exactly what they'd lost." Zoe's voice was steady, but Percy saw her fingers close around the key pin. "I have not asked her to try without their knowledge."
+
+Lucy looked up. "But they don't know enough to say yes."
+
+"That is the part I find hardest," Zoe replied.
+
+Chiron shifted slightly in his chair. He did not interrupt. The fire had burned lower and the faces nearest it were now copper in the light.
+
+Milo folded the hem of his sleeve between his fingers. "My brother doesn't know where I am. He thinks I'm at a school."
+
+Percy felt Annabeth's hand tighten on his. Milo had chosen to say that to the group. Percy would not add the details of their private conversation.
+
+"Does that mean he could forget me too?"
+
+"No," Zoe answered. "Not just because he was told a limited explanation. Ordinary secrecy and magical alteration are different things. You and your brother still share the years you lived together. If contact is delayed, those years do not vanish."
+
+Milo nodded but didn't look convinced. "He'll be mad."
+
+"He might," Zoe said. "Anger doesn't mean he loves you less."
+
+"What if he thinks I left because I wanted to?"
+
+"Then you can ask the adults helping you what you may safely tell him. And when you have a way to speak, you can decide what to say. I don't know when that will be. I would not promise you a message I can't deliver."
+
+Milo glanced toward Chiron. The centaur inclined his head, indicating that they could return to their private discussion later. Milo looked back at Zoe.
+
+"Do you ever write to your parents?"
+
+Zoe touched the pocket where the radio dial rested. "I write things I wish I could tell them. I do not send them without a plan that protects them and respects their lives. Sometimes writing is enough for one night. Sometimes it isn't."
+
+"That sounds awful."
+
+"Some nights it is," Zoe said. "Other nights I find something I hadn't realized I wanted to say. I keep the pages so I can decide later."
+
+A few benches away, Clarisse shifted her feet. Percy knew she had recently had to explain to Ella that reading a notebook did not make it public. He wondered whether Clarisse was thinking about that incident now. He did not ask.
+
+Lucy leaned closer to Milo and pointed to the blue stitched letters on his backpack. "You could draw something too. Your brother knows your handwriting?"
+
+"Yeah."
+
+"Then if you send a letter, he'll know it's from you."
+
+Milo considered. "Maybe."
+
+It was a modest offer. Lucy wasn't going to fix the distance or bargain with a goddess; she was telling the boy who'd arrived in the same van that he still had a voice of his own.
+
+Zoe looked around the group. "There are things magic can do that I will never choose to do for someone simply because they are afraid. Erasing an inconvenient feeling is one of them. I want to help you live with the feelings you have and make decisions that are yours."
+
+The words left Milo silent, but not in the defeated way Percy had seen at the water fountain. He looked thoughtful, and when he sat back he had stopped worrying the loose thread on his backpack strap.
+
 Zoe leaned forward and threw a pinch of something into the fire. Lavender and rosemary, by the smell. The flames turned green and gold for a moment, Hecate's colors, and the smoke curled into three paths before dissolving.
 
 "My mother says the Mist is thinning," Zoe said, more serious now. "You have felt it. Monsters finding camp borders faster. Dreams leaking. That is why I tell this story now, while I have you all here. To remind you. When the world feels thin, go to a crossroads. Leave an offering. Light the roads. Listen. Do not choose out of fear. Fear makes all roads buzz. Breathe until one hums steady. Then walk, and do not look back."
@@ -274,6 +594,132 @@ Applause started slowly, then swelled, real and warm. Not the polite clap for a 
 
 Percy clapped until his hands stung. Annabeth clapped and laughed and cried at the same time.
 
+Milo waited until the applause had faded before approaching the fire. Lucy walked beside him, carrying a folded sheet of paper. Percy thought she was there to ask for an autograph. Then Milo took a crumpled envelope from his jacket.
+
+"Chiron said I could send a letter through a satyr if we checked it first," Milo told Zoe. "I got permission yesterday. But I haven't written it."
+
+Zoe looked toward Chiron. The centaur nodded, confirming the arrangement without asking Milo to explain it again in front of the camp.
+
+"Do you want help starting?" Zoe asked.
+
+Milo nodded.
+
+"What do you want your brother to know?"
+
+"That I'm not dead."
+
+The sentence took Percy by surprise. Milo said it flatly, as if he had practiced the words until they couldn't hurt him anymore.
+
+"He saw the thing at school," Milo continued. "Then I disappeared with Grover. I keep thinking maybe nobody told him anything until somebody from the school called."
+
+Chiron moved closer, and Milo turned toward him.
+
+"The message we verified yesterday says you are safe and that your family has been informed of the school arrangements," Chiron said. "I know that doesn't answer everything you want your brother to know. The letter gives you a chance to tell him what you can, in your own words."
+
+"He'll think it's another one of those things adults tell him."
+
+"Then write something only the two of you would know," Lucy suggested.
+
+Milo looked at her.
+
+"Not a secret that's dangerous," she clarified. "Just a normal thing. Like when my mom writes me notes, she calls me Loops. Nobody else does."
+
+"Loops?"
+
+"Because I used to tie all the shoelaces in the house together and make one long string. I was four."
+
+Milo laughed despite himself. "That's awful."
+
+"It was art."
+
+Zoe's mouth twitched. "Ordinary details can be useful. They tell someone who is speaking without demanding that they believe an impossible explanation."
+
+Milo unfolded his envelope. There was a sheet of plain paper inside and a pencil Chiron had given him, sharpened to a stub.
+
+Percy considered offering to take it and write the letter for him. He knew the feeling of having something important to say and too many words competing to be the first. But the letter had to sound like Milo. Percy hadn't known him a week. He couldn't possibly know what was normal in his family.
+
+"Can I ask something?" Percy said.
+
+Milo nodded.
+
+"Did you and your brother have a football rule? Something you both argued about?"
+
+Milo stared at him. "He says if the ball goes over the fence, whoever kicked it has to climb the fence. Even if the kick was an accident."
+
+"That's a terrible rule."
+
+"Exactly. I keep telling him."
+
+"So tell him that. He'll know it's you."
+
+Milo sat on the edge of the bench with the paper across his knee. He wrote slowly, the pencil moving in short jerks, then stopped and scratched out a word. Percy looked away rather than reading over his shoulder.
+
+Lucy opened her folded paper. It was the drawing she'd made at the stables, the impossible pegasus with huge wings and flashing shoes. She held it beside Milo's page.
+
+"I drew this," she said. "Would he think it's funny if it was in your letter?"
+
+Milo examined it. "He likes drawings. But it's yours."
+
+"You can have it if you want."
+
+"Are you sure?"
+
+She nodded.
+
+"I want to make my own drawing too," Milo said after a moment. "He might think yours is some kind of school picture."
+
+"Fine." Lucy sat beside him. "I'll show you how to do the wings."
+
+"Your wings are enormous."
+
+"That's the point."
+
+They bent over the paper together, arguing about whether the creature's legs should bend like a horse or like something with talons. Percy could almost forget the frightening question Milo had asked at the fire. Almost. The fact that the boy was drawing did not mean he had stopped worrying about home, and the letter would not undo the days he had spent waiting.
+
+But it would be his letter.
+
+Zoe stayed near them without speaking. When Milo finished his first draft, he read it silently, folded it once and placed it back inside the envelope. He held the envelope out to Chiron.
+
+"Can you check that it's safe? Before it goes?"
+
+"Yes," Chiron replied. "We can do that privately tomorrow. It is not being sent until we've reviewed the details with you."
+
+Milo nodded. "I want to be there when you read it."
+
+"Of course."
+
+Percy watched Chiron take the envelope without opening it. He kept it in a pocket on the inside of his jacket, separate from his other papers.
+
+Lucy folded the extra drawing and put it back in her own bag. She had offered it, Milo had declined, and neither seemed to feel wronged.
+
+"Do you think Hecate could make my brother know I'm okay?" Milo asked Zoe.
+
+"She could make someone believe many things," Zoe said. "I would rather he hear from you in a way that gives both of you room to ask questions."
+
+Milo looked at the envelope in Chiron's pocket. "Me too."
+
+Annabeth shifted beside Percy. She had been quiet for most of the exchange. Now she looked toward Zoe with an expression Percy recognized: the one she wore when an idea challenged something she had been sure about for years.
+
+"You can keep a memory," Annabeth said softly, "without making it the only story you're allowed to live."
+
+Zoe nodded. "Yes."
+
+Percy thought of Tyson's old photograph on the windowsill, of the night they had fixed the foldable laundry rack and talked about the forge in Atlantis. Tyson had a whole life Percy didn't see, and Percy had started to learn about it by asking questions rather than treating old stories as debts.
+
+He could do that with Annabeth too. He didn't have to test whether she remembered the same details from their first life to be certain that she'd stayed beside him this one.
+
+"Do you keep letters to your parents?" Percy asked Zoe.
+
+"Some of them," she said. "Others I burn when I'm ready. Not because the words are untrue, but because I have decided I don't need to carry every sentence forever."
+
+"And the radio dial?"
+
+"That stays."
+
+"Good choice," Percy said.
+
+Zoe smiled. She had not given anyone a memory spell. She had given a boy enough room to write to his brother in his own voice, and kept the rest of her story exactly where she wanted it.
+
 Chiron wheeled forward, thanking Zoe, dismissing the younger kids to bed with reminders about teeth and curfews that no one heeded. The circle broke slowly. Kids drifted off in twos and threes, talking quietly. The Apollo kids hummed. The fire burned lower.
 
 Percy and Annabeth lingered, as did Thalia and Clarisse. They ended up near the fire with Zoe, not quite a circle, just a cluster, sharing the last of the blanket and a bag of stale marshmallows someone produced.
@@ -291,6 +737,26 @@ Thalia bumped Zoe's shoulder with her own. "New moon. I will be there. Edge of t
 "I would not dare," Zoe said, bumping back. "Daughter of Zeus argues like thunder."
 
 "Thalia," Thalia corrected, but she was grinning.
+
+"One thing," Zoe said. "I do not want a whole patrol coming because you think I need guarding."
+
+Thalia sobered. "I wasn't planning to bring anybody."
+
+"And I do not need you to sit through the rite. You offered to walk with me. That is what I accepted."
+
+"Understood." Thalia thought a moment. "We can meet by the last marked lantern before the crossroads trail. I can walk there and wait until you're ready to come back. If you want me to go, I'll go."
+
+Zoe looked surprised by the care in the answer. "Yes. And if the weather is poor, we choose another night. The ritual is not worth someone falling on the path."
+
+"You've met me," Thalia said. "I never fall."
+
+"You nearly fell off the amphitheater steps before the play," Clarisse put in.
+
+"That was a tactical descent."
+
+Percy laughed. The joke was familiar, but the promise underneath it was new. Thalia had offered company without taking control of Zoe's private practice. Zoe had given specific permission rather than allowing a well-intentioned friend to decide what she needed.
+
+They had not set the calendar date. Thalia would check her patrol schedule before promising an exact hour. Zoe would check the moon and her own obligations. It would be a visit, not an inspection.
 
 Percy looked at Annabeth, who looked back, and some silent, familiar conversation passed. Annabeth nodded.
 

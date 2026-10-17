@@ -26,3 +26,9 @@ Record the route home, fatigue and any open disagreement after the lake incident
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
 **Audit status:** Evidence-linked screening, not an implemented fix.
+
+## Current PR #103 repair note (2026-10-17)
+
+- **Source:** Current working-tree blob `d8e80844878afff50515a66837e9086fab85f174`; mechanical body count **10,107**.
+- **Handoff repair:** [L131](../../chapters/146-the-long-way-back.md#L131) now identifies the crack as being at the closed west mooring and notes it from the skiff. It carries forward Chapter 145's closure of the old mooring while keeping it distinct from Chapter 143's repaired canoe dock.
+- **Scope:** This is a targeted location/condition correction; it does not resolve the other open obligations in the wider 140–160 stretch.

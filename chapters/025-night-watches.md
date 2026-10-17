@@ -826,7 +826,7 @@ She looked at the drawing again and wrote the last correction neatly, with Becke
 
 ---
 
-The last night, Chiron changed the plan.
+On Night Seven, Chiron changed the plan.
 
 "One final watch," he said at dinner. "All six together. One fire. The center of the valley, where you can see all three borders. A quiet night to close the week."
 
@@ -908,7 +908,7 @@ Grover was already asleep with his forehead on the table. Silena covered his fac
 
 Percy stood carefully. His legs had gone stiff during the night. He had completed a week of looking for something dangerous and found nothing he could prove. Tomorrow, after sleeping, he could examine the notes with Annabeth. Today he went back to Cabin Three with his sisters.
 
-The patrol record still needed a final signature. Percy stopped at the porch to confirm that the equipment they'd borrowed had been returned and the repaired path was marked closed until Chiron received the next inspection. Silena showed him the signed form, then pointed to one line he had missed: who would take the updated map to the morning crew.
+The patrol record lay beside the porch map. Percy stopped to confirm that the equipment they'd borrowed had been returned and the repaired path was marked closed until Chiron received the next inspection. Silena showed him the signed form, then pointed to one line he had missed: who would take the updated map to the morning crew.
 
 "That's us," she said. "We volunteered yesterday."
 
@@ -920,10 +920,6 @@ He had forgotten. He was tired, and the prospect of another errand before breakf
 
 Clarisse looked between them. "I'll bring the spare whistles. The ones we moved out of the packs."
 
-Percy smiled. They'd spent a week watching dark woods for something dangerous and had come home with a collection of small jobs. That was not failure. It was what a successful night watch produced when nobody was hurt: a clear report, equipment ready for the next group and enough trust that the people coming after them could follow the same procedure.
+Percy leaned over the porch copy while Silena held down its curled corner. The corrected route stopped at the west-path closure; no line invited the next crew to test it before inspection. He checked that the sound report named what they knew—a whine beyond the boundary—and left the source blank. Clarisse counted the spare whistles into a separate bundle, while Silena folded the updated map around the watch sheet. The night had produced no confirmed crossing, but the record could still tell the morning crew where to go, what to carry and when to retreat.
 
-He went into the cabin, set his alarm for the map delivery and fell asleep before Silena finished putting away the lantern.
-
-By morning, the new patrol team would have its routes, whistles and records. Percy couldn't control whether monsters moved near the border in the following week. He could control whether the next group had to repeat mistakes his own group had already made. It was an ordinary responsibility, and he had learned to value it more than the thrill of imagining a threat he might be able to defeat.
-
-Silena checked the lantern oil one last time, then closed the cabinet. Outside, the familiar path was finally quiet.
+At Cabin Three, Percy set the alarm for after breakfast, when he and Silena would carry the map to the morning crew. He put his boots beside the door so he could dress without waking his sisters. At the far bunk, Silena set the pencil on the shelf. “I wanted to bring Chiron a problem he could solve,” she said. Percy understood. He wanted the night to mean something, too. “At least the map tells him where to start.” Silena nodded, eyes already closing. Neither of them stayed awake to force an answer from the dark. Quiet was not an inspection, and Percy would not mistake it for permission to reopen the path. Percy let the lantern go dark and fell asleep before Silena closed the lantern cabinet.

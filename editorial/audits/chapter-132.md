@@ -1,28 +1,19 @@
-# Chapter 132 editorial screening: A Month Beneath the Sea
+# Chapter 132 developmental review: A Month Beneath the Sea
 
-**Source:** [Chapter 132](../../chapters/132-a-month-beneath-the-sea.md), git blob `d6c130a88cf8d3b816beccc367ed74082a123951`. **Approximate body words:** 4,970. **Status:** Screening only; manuscript unchanged.
+**Current source:** [Chapter 132](../../chapters/132-a-month-beneath-the-sea.md) on PR #103, based on head `e6ea84f104a5502dbdfc756689ed345f4c271531` plus the current working changes. The earlier screen cited an older source blob and a 4,970-word draft; those figures are historical.
 
-**Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
+**Current body words:** 10,243, using the strict whitespace-token count that excludes headings, dividers, and comments. The full chapter was read with Chapter 131's close, Chapter 133's opening, its YAML handoff, and the 131–139 continuity ledger.
 
-## Chapter-specific focus
+## Current findings
 
-A month beneath the sea needs a real timeline block: school dates, camp absences, permission and follow-up correspondence.
+- **Chronology repaired:** the full `Before dinner` calendar and camp-duty consultation with Chiron had followed the dock scene explicitly set “That evening” and ending at dusk. The consultation now appears before the evening dock scene; dinner and the after-dinner walk follow it.
+- **Pacing note remains:** conversation about how Percy should communicate his wishes repeats across Clarisse/Silena, Thalia, Chiron, and the Percy–Annabeth dock discussion. The scenes also add different practical outcomes: an assistant handoff for the canoe lesson, photo permissions, safety questions, a written-but-undelivered note to Triton, and an unbooked short-visit possibility. A future developmental edit can compress repeated advice without removing those consequences.
+- **Canon review:** no memory or family-assignment breach found. Percy has not accepted or scheduled the month; no response to the undelivered Triton note is implied. Annabeth's feelings do not veto his choice, and camp-duty coverage remains unresolved pending dates.
 
-## Source passages for scene-level review
+## Handoff
 
-1. **Opening development:** Which present objective, social friction or physical constraint gives the activity stakes beyond established belonging? **[Line 39](../../chapters/132-a-month-beneath-the-sea.md#L39):** “Annabeth held his gaze. "You can tell me before you've sorted out what you think."”
+Chapter 133 opens on Annabeth's birthday. Percy has not departed for Atlantis, the short visit remains conditional, and the proposed month is undecided. No travel date, training clearance, or substitute canoe instructor is established.
 
-2. **Middle development:** Does the event change someone's knowledge, choice or behavior, or merely restate a feeling already established? **[Line 259](../../chapters/132-a-month-beneath-the-sea.md#L259):** “Leaning her shoulder against Clarisse's, Silena said, "Ask for more information. A month need not mean thirty unbroken days, or it might. You lack the facts yet."”
+## Mechanical status and limits
 
-3. **Closing handoff:** Identify what concretely persists: promise, new boundary, object, visit, recovery, project milestone or unresolved conflict. **[Line 511](../../chapters/132-a-month-beneath-the-sea.md#L511):** “After a while, Percy drew the shell from his pocket. "May I answer him now? Only to say we want more detail, and we'd like to visit together for a few days before any decision?"”
-
-## Mechanical and continuity flags
-
-- No flagged constructions were detected by these selected mechanical checks; this **does not** demonstrate the chapter is error-free.
-- **Continuity names:** Triton ([L3](../../chapters/132-a-month-beneath-the-sea.md#L3)), Amphitrite ([L243](../../chapters/132-a-month-beneath-the-sea.md#L243)), Zeus ([L633](../../chapters/132-a-month-beneath-the-sea.md#L633)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
-
-## Canon boundaries and follow-through
-
-Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
-
-**Audit status:** Evidence-linked screening, not an implemented fix.
+The latest local full-manuscript run passes the 10,000-word gate for 193/193 chapters, checks 1,941,320 chapter-only 300-word windows with zero exact matches, and checks 2,091,872 chapter-plus-bonus windows with zero exact matches. Chapter 132's local body count is 10,243. Mechanical checks do not certify literary quality or semantic continuity outside this scoped review; independent literary signoff remains pending.

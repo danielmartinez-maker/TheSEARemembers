@@ -10,7 +10,7 @@ On the fourth morning back, she asked Chiron for a rainbow.
 
 Chiron glanced up from paperwork. "Have you decided what to ask him?"
 
-"A ride to the coast. Annabeth and I want to visit Atlantis for the day."
+"A ride to the coast. Annabeth and I want to spend five days in Atlantis."
 
 "And if he asks why?"
 
@@ -38,7 +38,7 @@ Above the fountain the rainbow shimmered, mist cool on their faces, smelling of 
 
 "Thalia. What is it?"
 
-She asked for a day in Atlantis and a way down and back, no escort into the palace. Zeus asked whether Poseidon had agreed. Thalia said Amphitrite had invited them, Percy and his sisters were going ahead for training and would meet them the next morning, and Triton had sent her a charm. Her father went quiet.
+She asked for five days in Atlantis and a way down and back, without an escort into the palace. Zeus asked whether Poseidon had agreed. Thalia said Amphitrite had invited them, Percy and his sisters were going ahead for training and would meet them the next morning, and Triton had sent her a charm. Her father went quiet.
 
 "I will take you to the sea gate," he said. "I will not intrude on the visit."
 
@@ -80,7 +80,7 @@ Thalia put the page down. "Our father told her he might visit. He didn't tell us
 
 "That doesn't make it good."
 
-Annabeth threaded a cord through the case's fastening, tested it, and sat opposite her sister. At fourteen she could be infuriatingly composed about some things and painfully hopeful about others. Thalia remembered her at seven, with scraped knees and a habit of taking apart anything that looked too complicated for a child to understand. She remembered fixing the damage and telling herself that being the older sister meant catching every mistake before anyone got hurt.
+Annabeth threaded a cord through the case's fastening, tested it, and sat opposite her sister. She could be infuriatingly composed about some things and painfully hopeful about others. Thalia remembered her at seven, with scraped knees and a habit of taking apart anything that looked too complicated for a child to understand. She remembered fixing the damage and telling herself that being the older sister meant catching every mistake before anyone got hurt.
 
 "What are you expecting him to do?" Annabeth asked.
 
@@ -219,7 +219,7 @@ Zeus's mouth tightened, as if courtesy left him uncertain what to do with an exp
 
 Centuries stacked in the quiet between the two gods. Thalia hated being its cause.
 
-"We'll be back before dinner," she said.
+"We'll be back before dinner on the fifth day," she said.
 
 Zeus looked at her instead of Poseidon. "I will be here."
 
@@ -263,7 +263,7 @@ At a bend Clarisse and Silena appeared from a side corridor, lamplight catching 
 
 "You came back," Silena said.
 
-"For one day."
+"For five days."
 
 "Enough to learn the palace."
 
@@ -1212,7 +1212,7 @@ Under the sky the sea had built for itself, Annabeth's hand stayed in hers. Outs
 
 ---
 
-That night, Thalia wrote to Jason at the small desk in the guest wing.
+On the last night before their return to camp, Thalia wrote to Jason at the small desk in the guest wing.
 
 The paper was thicker than the camp stationery and absorbed her ink too slowly. Twice she smudged a word and had to wait for it to dry before turning the page. Outside the window, the palace currents shifted in broad, slow sheets, carrying the glow of lanterns from the corridor.
 

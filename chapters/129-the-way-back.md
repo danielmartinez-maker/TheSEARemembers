@@ -1,6 +1,6 @@
 ## Chapter 129: The Way Back
 
-Morning light ran along the palace floor channels in thin gold lines, water carrying the light in ripples across shell-inlaid walls. Gulls cried somewhere above the dome, muffled to whispers, and the water tasted faintly of morning minerals, cool and clean. Percy sat on the guest bed's edge with his bag open, canvas worn soft at the corners, its strap frayed where his thumb always caught it, turning a small shell over in his hands. Twice he'd checked it for cracks, thumb tracing the spiral, feeling each ridge like a tiny step. He checked again, unable to leave it unexamined, the nacre cool then warming under his touch.
+On the morning of their planned return, the fifth day of the visit, light ran along the palace floor channels in thin gold lines, water carrying it in ripples across shell-inlaid walls. Gulls cried somewhere above the dome, muffled to whispers, and the water tasted faintly of morning minerals, cool and clean. Percy sat on the guest bed's edge with his bag open, canvas worn soft at the corners, its strap frayed where his thumb always caught it, turning a small shell over in his hands. Twice he'd checked it for cracks, thumb tracing the spiral, feeling each ridge like a tiny step. He checked again, unable to leave it unexamined, the nacre cool then warming under his touch.
 
 "You're going to wear a hole in it with your eyes," Annabeth said from the doorway.
 
@@ -778,7 +778,7 @@ The cabin filled with overlapping voices and familiar arguments, everyone laughi
 
 ---
 
-Chiron's request made Percy reach into the wrong pocket for the third time. In the palace everything had been counted when a gate opened. At camp he was already forgetting which bag held the little shell Annabeth had agreed to carry for the chart room.
+After they'd settled the photograph in Cabin Three, Chiron asked them to bring the travel bags and parcel list back to the Big House for the official return count. On the walk there, Percy reached into the wrong pocket for the third time. In the palace everything had been counted when a gate opened. At camp he was already forgetting which bag held the little shell Annabeth had agreed to carry for the chart room.
 
 He set the luggage on the Big House steps and opened his notebook. A pressed leaf fell out. He put it back before Clarisse could accuse him of packing the entire garden.
 
@@ -814,7 +814,7 @@ Percy added the driver. They signed their names beside their own belongings, and
 
 This was not the welcome Percy had imagined. He was tired from the passage, carrying a bag that seemed to have become heavier under the water, and Nico had already found the sweets Amphitrite had sent. Percy wanted to sit on the cabin steps and let the day stop moving.
 
-But Chiron had promised to count them when they returned, and he had been waiting at the shore with a clipboard. Now he stood outside the Big House while Annabeth compared the names on the palace record with the ones on the camp departure sheet.
+Chiron had promised a formal check when they returned from Atlantis. Now he stood outside the Big House while Annabeth compared the names on the palace record with the ones on the camp departure sheet.
 
 "All six of you?" he asked.
 
@@ -878,13 +878,13 @@ Thalia seemed unhappy to have it written down. Percy understood. Recording the r
 
 Percy felt the tension go out of his shoulders. Their father could still send another message. The difference was that Chiron wasn't demanding they decide how to answer it before they had eaten.
 
-The group carried their bags toward the cabins. At the fork in the path, Clarisse stopped beside the fountain and held the old photograph up beside the new sketch Annabeth had made.
+The group carried their bags toward the cabins. At the fork in the path, Clarisse stopped beside the fountain and studied the new sketch Annabeth had made.
 
-"Do we keep both in Cabin Three?" she asked.
+"Does the sketch go in Cabin Three too?" she asked.
 
 "One belongs to Annabeth," Percy said.
 
-"That's what I'm asking. Does she want to hang hers in our cabin or her own?"
+"That's what I'm asking. Does she want to hang it in our cabin or her own?"
 
 Annabeth looked at the drawing. It wasn't the kind of family portrait that could be claimed by one building. She had made copies for the people in it, and the original would be better protected in a flat portfolio.
 

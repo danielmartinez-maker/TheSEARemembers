@@ -1,9 +1,13 @@
 # Chapter 032 editorial audit: Triton Visits
 
-**Status:** Review only, source unchanged.  
-**Chapter:** [Triton Visits](../../chapters/032-triton-visits.md)  
-**Approximate body words:** 7,066 (lexical count, excludes no prose; early legacy chapter).  
+**Status:** Prior audit retained; targeted provenance repair applied in the October 17 PR #103 continuation.
+**Chapter:** [Triton Visits](../../chapters/032-triton-visits.md)
+**Body words:** 10,161 by the repository whitespace-token method.
 **Reference:** `FIC_CONTEXT.md` and adjacent chapters.
+
+## October 17 continuity recheck
+
+The ambiguous sentence that said Percy arrived in Atlantis with memories he could not explain is revised. Triton now knows Percy has gaps in the palace childhood Triton describes, and is still helping him fit those family stories beside skills he finds before he can name them. This remains distinct from Percy's erased-future memories. The chapter itself shows Triton discussing Percy's memory gaps with Silena; Percy does not disclose his erased future to him. The departure report to Amphitrite continues to omit Percy's old routines and unanswered questions. See [Chapter 032 in the cumulative ledger](../../continuity/chapter-ledgers/001-048.md#032-triton-visits).
 
 ## Findings and proposed repairs
 

@@ -1,0 +1,130 @@
+chapter: 107
+title: "The Words We Choose"
+source: "chapters/107-the-words-we-choose.md"
+status: "expanded; 10,085 body words; Chapter 107 length gate passed"
+chronology:
+  relative_time: "The morning after Chapter 106's evening walk and dock conversation, continuing through that camp day and night. Chapter 108 opens the following morning. No calendar date, year, season, weekday, age, or exact interval is established."
+  sequence: "Percy is distracted during Clarisse's arena drill; he forgets his plate; he explains to Annabeth why he wants to say what he feels in an ordinary moment; Percy joins her shrine drainage inspection; they take questions to Chiron; at lunch Percy talks with Silena and Clarisse; Clarisse helps Percy move a plank to the shrine staging area, where they rehearse the turn and keep the approach clear; Percy tells Annabeth he loves her and she reciprocates; they share one dinner with Clarisse, Silena, and Thalia; Percy walks Annabeth once to the Zeus cabin; Percy plays one hand of rummy with Clarisse and Silena and goes to sleep in Cabin Three."
+  adjacent_gaps: "Chapter 106 ends the prior evening after Percy agrees to join Annabeth's site check the next day. Chapter 107 shows that check but leaves the exact calendar day unspecified. Chapter 108 opens in Cabin Three the next morning and states that training at Tempest Hall is scheduled for dawn."
+pov:
+  scenes:
+    - "Percy Jackson, third-person limited, throughout."
+  boundary: "Annabeth's feelings are conveyed through her words and observable actions. Percy and Annabeth remember autobiographical events from the erased future; no other character is shown acquiring those memories. Percy does not disclose his memory gap to Amphitrite or anyone else in this chapter."
+scene_locations:
+  - "Camp arena"
+  - "Dining pavilion and adjacent tool table"
+  - "Shrine garden drainage channel and staging area"
+  - "Big House front desk"
+  - "Cabin Three dining area and common room"
+  - "Path to and doorway of the Zeus cabin"
+participants:
+  primary: ["Percy", "Annabeth"]
+  other: ["Clarisse", "Silena", "Thalia", "two younger campers", "Chiron", "unnamed campers"]
+  offstage: ["maintenance crew", "Amphitrite", "Poseidon", "Triton", "Jason", "Tyson"]
+preceding_scene_verified:
+  chapter: 106
+  locator: "chapters/106-the-visit-that-wasn-t-a-test.md, closing Percy/Annabeth dock scene"
+  context: "The previous evening Annabeth shows Percy her working drainage sketch and invites him to join the site check the next day. Percy agrees. They share familiar affection and a kiss; the love declaration in Chapter 107 is a separate conversation."
+following_scene_verified:
+  chapter: 108
+  locator: "chapters/108-three-things-we-keep.md, opening Cabin Three scene and Tempest Hall training"
+  context: "The following morning Clarisse proposes a cabin training rulebook and schedules training at Tempest Hall for dawn. Silena gives Percy a cowrie necklace for visibility in the pool. Chapter 107 adds no competing necklace or new gift."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 107
+    earned_trust_or_conflict:
+      - "They remain established romantic partners. Percy distinguishes remembered declarations from what he feels and chooses now; he explains that distinction without asking Annabeth to answer on demand."
+      - "Annabeth checks that Percy is not asking for an answer before making his declaration. She tells him to say what he means when he is ready and does not require an immediate response."
+      - "Percy later tells her he loves her in an ordinary moment; Annabeth reciprocates for present-day reasons as well as acknowledging that she remembers the erased future. They share mutually welcomed kisses."
+      - "They inspect the channel together. Annabeth sets the measurement and testing boundaries; Percy asks before using his water ability and accepts that they should not alter the conditions before a proper test."
+    what_each_remembers_firsthand:
+      - "The present-day arena, drainage inspection, conversation, declaration, dinner, and farewell shown in this chapter."
+      - "Only Percy and Annabeth remember autobiographical events from their erased future."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Their familiar love receives an explicit, present-focused declaration in a calm setting. Their practical collaboration also develops through Annabeth's site inspection, with Percy supporting her process rather than taking over."
+    future_callback_required: "Keep the declaration distinct from earlier remembered-life and eclipse-related declarations. Do not make it a proposal, a demand, a first relationship, or evidence that memory alone sustains the relationship."
+  - pair: "Percy / Clarisse"
+    last_shared_scene_chapter: 107
+    earned_trust_or_conflict:
+      - "Clarisse notices Percy missing blocks, offers him the choice to sit out, and resumes the drill when he elects to continue. She corrects him without shaming him."
+      - "Percy says he is thinking about Annabeth and later shares his concern that his declaration not demand an answer. Clarisse offers practical advice but does not learn erased-future memories."
+      - "Clarisse helps Percy carry a plank to the staging area. She does not install it at the shrine."
+    what_each_remembers_firsthand:
+      - "Their present-day conversations and drill, plus the plank move."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "Clarisse is not told about Percy's erased-future autobiographical memories or memory gap."
+    new_change_this_chapter: "Clarisse supports Percy through an ordinary distraction while preserving his choice and the drill's purpose."
+    future_callback_required: "Do not portray Clarisse as knowing the content of Percy's erased-future memories."
+  - pair: "Percy / Silena"
+    last_shared_scene_chapter: 107
+    earned_trust_or_conflict:
+      - "Percy hears Silena's own account of keeping the sea-glass beads Poseidon gave her for jewelry; she has not decided whether or what to make with them."
+      - "Silena says she has not scheduled a rehearsal; her stated plan from Chapter 106 remains to post one if she schedules it."
+      - "Percy plays rummy with Silena and Clarisse. He asks once whether the bead vial is safe in its drawer; Silena says it is and that she chose that place. Percy accepts her answer."
+    what_each_remembers_firsthand:
+      - "Their present-day lunch, dinner, and card game."
+    what_each_knows_secondhand:
+      - "Percy knows Silena's account of Poseidon's gift and her rehearsal decision; he was not present for the prior Poseidon/Silena exchange in Chapter 106."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Silena's bead vial moves from her pocket, as last shown in Chapter 106, to a drawer beside her jewelry tools; she retains control of whether and how to use it."
+    future_callback_required: "Do not claim the beads have been fashioned into jewelry or that Silena has scheduled a rehearsal or invited Poseidon."
+  - pair: "Percy / Thalia"
+    last_shared_scene_chapter: 107
+    earned_trust_or_conflict:
+      - "Thalia is present at dinner, asks Annabeth whether she is happy, accepts her answer, and joins the table's ordinary conversation."
+    what_each_remembers_firsthand:
+      - "The shared dinner scene."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "Thalia is not told the content or memory context of Percy's declaration."
+    new_change_this_chapter: "No major relationship shift; Thalia responds protectively and respects Annabeth's answer."
+    future_callback_required: "Do not imply Thalia attended the private declaration at the shrine."
+items_promises_injuries:
+  - item_or_event: "Annabeth's drainage sketch and question list"
+    owner_or_people: ["Annabeth", "Percy"]
+    last_seen_chapter: 107
+    current_status: "Annabeth revises measurements and writes questions about the outlet, gravel, notch, and possible water passing beneath edge stones in the sketch margin. She carries the sketch away; no completed drainage repair is shown."
+  - item_or_event: "Short wooden level and folding ruler"
+    owner_or_people: ["camp maintenance crew", "Annabeth", "Percy"]
+    last_seen_chapter: 107
+    current_status: "Borrowed from the labeled tool tray for the inspection and returned to their tray before the Big House conversation."
+  - item_or_event: "Shrine plank"
+    owner_or_people: ["camp", "Percy", "Clarisse"]
+    last_seen_chapter: 107
+    current_status: "Percy and Clarisse leave the plank parallel to the path inside the marked staging patch. The shrine approach lane stays clear, while the plank itself occupies the patch pending maintenance. It is not installed and no shrine stones are moved."
+  - item_or_event: "Silena's sea-glass bead vial"
+    owner_or_people: ["Silena"]
+    last_seen_chapter: 107
+    current_status: "Silena keeps the vial and places it in the drawer beside her jewelry tools; the drawer is closed but not locked. No finished jewelry is shown."
+  - item_or_event: "Rummy deck and cards"
+    owner_or_people: ["Clarisse", "Silena", "Percy"]
+    last_seen_chapter: 107
+    current_status: "Used for one evening hand and returned to its box on the shelf. Silena goes out and wins; Clarisse has one three-point card left, Percy has two cards totaling four. A crease in the nine of hearts is debated; no cheating is established."
+  - item_or_event: "Training attendance"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    last_seen_chapter: 107
+    current_status: "Percy says he will attend training at dawn. Chapter 108 opens with Clarisse scheduling the Tempest Hall training and the round beginning at dawn."
+  - item_or_event: "Physical injury"
+    owner_or_people: ["Percy"]
+    last_seen_chapter: 107
+    current_status: "Percy is tapped by a padded staff during three missed blocks; he denies that anything hurts. No lasting injury is established."
+unresolved_tensions:
+  - "The maintenance crew has not yet checked the foundation line or demonstrated a flow test. No schedule or result is established. Debris (leaves and a twig at the grate, plus a separate leaf on an upper stone) was observed and left in place; its cause and effect are unknown."
+  - "Annabeth's questions about the outlet, gravel, notch, and edge stones remain open; no stones are moved and no repair is completed."
+  - "Exact dates, ages, season, and elapsed intervals remain unstated."
+  - "Silena has not scheduled a rehearsal or decided how to use the beads."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  canon_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: false
+  manuscript_structure_pass: false
+  character_memory_regression_pass: false
+  whitespace_check_pass: true
+  hosted_actions_status: "Not run for this local expansion."

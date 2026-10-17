@@ -4,7 +4,7 @@ The dining pavilion emptied the way it always did on a warm, lingering night, no
 
 Percy Jackson lingered.
 
-It wasn't that he wasn't tired. He was. His shoulders ached from the morning's canoe drills and his left ankle still twinged where he'd twisted it on the climbing wall two days before. But the air smelled like pine sap and grilled corn and salt off the Sound, and nobody was telling him to go to bed, and for once there wasn't a prophecy pressing on the back of his neck.
+It wasn't that he wasn't tired. He was. His shoulders ached from the morning's canoe drills, and his body still carried the pleasant heaviness of several early training sessions. But the air smelled like pine sap and grilled corn and salt off the Sound, and nobody was telling him to go to bed, and for once there wasn't a prophecy pressing on the back of his neck.
 
 Annabeth sat across from him, legs tucked sideways on the bench, her plate pushed away. She had a notebook open — not a proper quest journal, just a half-falling-apart composition book she'd taken from the Big House supply closet — and she was drawing.
 
@@ -992,7 +992,7 @@ Annabeth looked at it, then left it there.
 
 "So do I."
 
-They put the paper away. Their promise had changed slightly over the week. It no longer meant always acting together or never disappointing each other. It meant telling the truth when something mattered, asking before taking over and making enough space that neither person had to become smaller to stay beside the other.
+They put the paper away. Annabeth left her initials beside the inspection she wanted to lead and Percy's beside the dock check he had chosen. Friday dinner sat below both. The promise did not require them to do every task together; it asked them to say when they were hurt, ask before taking over and leave room for each other to keep a life of their own.
 
 Annabeth made one more change before closing the notebook. She wrote two dates on the facing page: the next inspection of the retaining wall and the next scheduled check of the dock fittings. She put her own initials beside the first and Percy's beside the second.
 

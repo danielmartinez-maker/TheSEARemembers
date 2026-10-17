@@ -1,6 +1,6 @@
 # Chapter 149 editorial screening: The Argument
 
-**Source:** [Chapter 149](../../chapters/149-the-argument.md), git blob `0ce8459a0b689f784b9d15ce7183fea8c89c07eb`. **Approximate body words:** 9,639. **Status:** Screening only; manuscript unchanged.
+**Historical screen source:** [Chapter 149](../../chapters/149-the-argument.md), git blob `0ce8459a0b689f784b9d15ce7183fea8c89c07eb`; historical approximate body words were 9,639. This screening predates the PR #103 continuation documented below.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -26,4 +26,12 @@ Make the argument genuinely change a boundary or plan; avoid a same-scene apolog
 
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
-**Audit status:** Evidence-linked screening, not an implemented fix.
+**Historical audit status:** Evidence-linked screening, not an implemented fix at that source revision. See the current source review below.
+
+## Current PR #103 continuity review (2026-10-17)
+
+- **Source:** Current worktree blob `76dddc5ec2f85143b0da5e569245e38856859607`; current body count **10,418** by `full_manuscript_qa.py` (headings, dividers and comments excluded). The complete chapter was reviewed with Chapters 148 and 152 for context; see [the 149–151 continuity ledger](../../continuity/chapter-ledgers/149-151.md).
+- **Repair:** Replaced the campfire's incorrect Ares/Aphrodite/Poseidon cabin assignments with physical spacing between the five friends. Chiron now names Annabeth and Jason as Thalia's biological siblings and speaks of Clarisse as family Thalia has chosen. Chapter 149 no longer assigns Clarisse/Silena to Ares/Aphrodite or Annabeth to Cabin Three.
+- **Continuity finding:** No hard memory or chronology contradiction remains in the reviewed chapter. Clarisse/Thalia's sister language is chosen-family language. Their current argument and campfire separation persist into the following scenes; a return to the usual Poseidon table does not by itself resolve it.
+- **Mechanical verification:** Current local full QA counted all 193 chapters at or above 10,000 body words and found zero exact 300-token cross-chapter matches across 1,941,481 chapter windows. The all-text scan found zero matches across 2,092,033 windows in 196 files. These checks are mechanical, not developmental approval.
+- **Status:** Full-scene continuity reviewed and targeted repairs applied. A separate whole-novel semantic/style signoff is still incomplete.

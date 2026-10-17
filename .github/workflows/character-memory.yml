@@ -1,0 +1,23 @@
+name: Character memory consistency
+
+on:
+  pull_request:
+    paths:
+      - "chapters/**"
+      - "continuity/**"
+      - "FIC_CONTEXT.md"
+      - "CHAPTER_INDEX.md"
+      - "scripts/check_character_memory.py"
+      - ".github/workflows/character-memory.yml"
+  push:
+    branches:
+      - main
+      - "edit/character-memory-continuity-2026-10-13"
+
+jobs:
+  character-memory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check established relationships and warn about new introductions
+        run: python3 scripts/check_character_memory.py

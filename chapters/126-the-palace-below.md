@@ -22,7 +22,7 @@ Annabeth opened her sketchbook. “I’ll draw what I notice. Tell me if there�
 
 Annabeth marked that in her sketchbook and followed Percy through the west doors.
 
-The hallway was cool and pale, lit by blue glass lamps. Percy knew the little dip in the floor from a storm long ago and the shell-shaped mark near the third column; his feet remembered the route.
+The hallway was cool and pale, lit by blue glass lamps. Percy recognized the little dip in the floor and the shell-shaped mark near the third column; his feet remembered the route.
 
 “The nursery’s past the family rooms,” he said, taking the turn without looking.
 
@@ -154,11 +154,11 @@ At the far side of the garden, the path narrowed between two coral hedges. A sma
 
 “That one’s different,” Silena said.
 
-“It’s from the surface,” Percy said. “I made it on a visit after coming here, telling Amphitrite about Sally’s kitchen in the life I remember. I drew the whale and a sun, and then I added…”
+“It’s from the surface,” Percy said. “I made it during a visit back here, after I'd been asking Amphitrite about Sally. I drew the whale and a sun, and then I added…”
 
 “The little blue house,” Amphitrite said. “You said it needed a door big enough for everyone.”
 
-Percy had almost forgotten leaving the mosaic here. Making it had let him show Amphitrite a kitchen he remembered from the life in which Sally had raised him, a place absent from the childhood she knew. The blue house was only a crooked square; the whale was much better.
+Percy had almost forgotten leaving the mosaic here. He had drawn the blue house from Sally's kitchen in the life he remembered, but he had let Amphitrite take it for a child's imagined home. The blue house was only a crooked square; the whale was much better.
 
 Silena looked at the mosaic, then at him. “Can I ask about her?”
 
@@ -172,7 +172,7 @@ Percy took a moment. The Sally he remembered had raised him in Manhattan. Here s
 
 “Did she know this place?” Silena asked.
 
-“In the life I remember, she knew about the sea. Here, she died before I came to Atlantis. I don’t know what she hoped for it. She talked about beautiful things surviving by staying hidden until they were safe to be seen.”
+“She knew about the sea. She died before I could ask what she thought of Atlantis. I don't know what she hoped for it. But Dad told me she wanted me safe, and she made him promise not to keep me away from the mortal world forever.”
 
 “That sounds like her,” Poseidon said quietly.
 
@@ -192,15 +192,15 @@ Poseidon’s hand settled gently at the back of his shoulder. “I should have s
 
 Silena glanced at the mosaic. “Did you know Sally?”
 
-“A little,” Amphitrite said. “We wrote to one another before she died. She sent me a letter about Percy’s insistence that every meal should have something blue in it. She said she had stopped arguing with him about the color of food because the argument was more trouble than the dye.”
+“Not in person,” Amphitrite said. “I know her mostly through your father's stories. He told me how Percy insisted that every meal should have something blue in it. Sally apparently decided arguing about the color of food was more trouble than the dye.”
 
 Percy smiled. “That sounds like her.”
 
-“She hoped you would always have people to care for you, even when she couldn’t be with you.” Amphitrite’s gaze rested on Percy. “I kept that letter for a long time.”
+“Your father told me she wanted you to have people who would care for you, even when she couldn't.” Amphitrite's gaze rested on Percy. “I have tried to honor that.”
 
 Silena’s face had gone thoughtful. “She sounds like she knew how to make room for people.”
 
-“She was practical and funny,” Amphitrite said. “She never pretended the gods were easy to deal with, and she could be kind without being impressed by power. Once she wrote that you wanted your blue blanket beside her chair at breakfast. She said the blanket apparently needed company as much as you did.”
+“From what Poseidon told me, she was practical and funny,” Amphitrite said. “She never pretended the gods were easy to deal with, and she could be kind without being impressed by power. He told me about a breakfast when you insisted your blue blanket have its own place beside Sally's chair. He said she joked that the blanket apparently needed company as much as you did.”
 
 Silena’s smile warmed. Clarisse listened with her chin lifted and her arms loosely folded.
 
@@ -318,11 +318,21 @@ They went to Amphitrite with the copied entry. She recognized the incident and t
 
 "No. The fastening wore loose. You believed you had done something wrong until your brother showed you the problem."
 
-"I wish I remembered."
+Percy looked from the model to the copied entry. "What happened after?"
 
-"I know."
+"Triton repaired the support. You watched every step and asked to inspect the bolts before he let you back on the stage."
 
-She didn't try to persuade him that the story ought to awaken a memory. He was grateful for that. Her account gave him a better picture of the childhood she knew without forcing him to claim it as his own.
+"Did I find anything wrong?"
+
+"No," Triton said. "But you were satisfied to check."
+
+"I can see why you kept the braces," Percy said.
+
+"The stage was worth keeping," Amphitrite replied. "And you wanted to understand why it needed repair."
+
+"You were very determined about your lessons," she added, smiling.
+
+Her story gave the entry warmth: a stubborn boy, a careful brother, and an afternoon when the stage came apart and went back together. Percy listened, asking small questions about the repair, and let the story belong to the people who had been there.
 
 Before leaving, Annabeth asked to see the current route from the training pool to the medical rooms. The archivist supplied it, along with the name of the staff member responsible for keeping the diagram updated.
 

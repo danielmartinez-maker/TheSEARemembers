@@ -26,6 +26,174 @@ Chiron set down his clipboard. His wise old eyes were very kind.
 
 "Then let us make it so," he said. "And, my dear, you do not have to do it alone. This camp loves nothing more than a secret project."
 
+Bianca lingered on the porch after Chiron returned to his archery scores. The conversation had been less frightening than she expected, but she still had the feeling she'd left something important unsaid.
+
+"Chiron?"
+
+He looked up.
+
+"How do I know he wants a surprise?"
+
+The question made her face hot. She had come to the Big House with an entire imagined birthday in her head: a cake, a game, people calling Nico's name until he stopped feeling like a child everybody forgot. Now that she had heard herself say it aloud, she wasn't sure how much of that birthday belonged to Nico and how much belonged to the girl who couldn't stop thinking about years lost in a hotel.
+
+"Has he enjoyed surprises before?" Chiron asked.
+
+"He likes opening presents. He likes trying to guess what's in them."
+
+"Those are not quite the same thing."
+
+"He hates when everyone looks at him because of his powers. He loves it when someone asks him about his cards." Bianca rubbed her thumb across her palm. "Sometimes I think I know him better than anybody else. Then I realize I'm still guessing."
+
+Chiron set the score sheets aside.
+
+"You may ask him whether he likes the idea of a party without explaining every detail," he said. "A surprise need not include ambushing a child. He can know who is coming and where he is going. The gift may still surprise him."
+
+"That ruins the secret."
+
+"It changes the secret." Chiron regarded her kindly. "The purpose of the day is not to catch him unprepared. It is to make him feel wanted. If those are in conflict, which would Nico choose?"
+
+Bianca stared at the porch steps. She already knew.
+
+"I don't know how to ask him without making it obvious," she admitted.
+
+"Ask him what he wants from Friday. He is old enough to answer."
+
+"What if he says nothing?"
+
+"Then believe he might mean it. Ask whether he would like to spend time with you instead. A birthday can be small and still be his."
+
+Bianca swallowed. Every birthday she'd spent with him in the Lotus Hotel had seemed unimportant because the next one could arrive without a season changing outside the windows. Some mornings there had been cakes in the hotel dining room and neither of them could explain why. Sometimes Nico had been the one to remember a date and she'd believed him because he held the memory so fiercely.
+
+She still remembered their mother's hands when she cut birthday bread at a kitchen table before the hotel. There had been a little blue plate, a candle that would not stand upright and a song she sang in Italian, though Bianca had forgotten half the words. Nico remembered the song differently. They had argued about that once until he cried.
+
+She wasn't going to turn this birthday into another test of whose version was correct.
+
+"I'll ask," she said.
+
+"Good. Now, about that secret project." Chiron tapped his pencil against the clipboard. "No unapproved construction. No magical fireworks near children. And no hiding a building in the woods because somebody can use the Mist."
+
+Bianca blinked. "I wasn't going to build a building."
+
+"Not yourself," he agreed. "But I know Annabeth."
+
+That startled a laugh out of her.
+
+"She means well," Chiron said. "She also has a habit of deciding a good plan needs only enough time and volunteers. If she proposes anything more permanent than decorations, send her to me. We will consult the groundskeepers, check the location and arrange inspections."
+
+"Okay."
+
+"The same goes for Percy and the lake. I know he can move water. That does not make every illuminated water shape suitable for a birthday party with younger campers walking nearby."
+
+"Okay."
+
+Chiron studied her for a moment. "And Bianca, perhaps you should ask yourself what you need from the day."
+
+She looked away.
+
+"I need him to know I didn't forget."
+
+"Then tell him you remember."
+
+"Even if it gives away the party?"
+
+"Especially then."
+
+She left the porch thinking of all the things adults had once kept secret to protect her and Nico. Some of the secrets had been necessary. Others had only made it easier for them to misunderstand what was happening. She didn't want to do that to her little brother.
+
+She found Nico behind Cabin Thirteen, kneeling in the dirt beside the skeleton flowers he liked so much. The flowers had thin white petals that looked like carved bone. He was sketching one in a notebook, counting the ribs of each petal before drawing it.
+
+"Hey," Bianca said.
+
+He looked up. "Hi."
+
+"Are you busy?"
+
+"I was studying something important."
+
+"How important?"
+
+He held up the drawing. "The flowers are arranged in threes today. Yesterday they were in fours. I think it means something."
+
+"Maybe."
+
+"It definitely means something."
+
+"Then you should keep track of it."
+
+He looked pleased by that answer. Bianca sat on a flat stone beside him and brushed an ant off her knee.
+
+"Friday's your birthday," she said.
+
+Nico's pencil stopped moving.
+
+"I know."
+
+"I remember." She heard the awkwardness in her voice and tried again. "I want to spend it with you. I thought maybe we could do something with a few people from camp. Something you like. Would that be okay?"
+
+Nico looked at the flowers. He didn't answer immediately.
+
+"How many people?" he asked.
+
+"I don't know. Maybe your friends. Maybe some of the older campers."
+
+"Everybody?"
+
+"Only if you want everybody."
+
+He considered. "Cecil. And Percy and Annabeth. Clarisse if she isn't doing drills. Silena. Maybe Thalia. And you."
+
+"What about Chiron?"
+
+"Chiron isn't a kid."
+
+"No, but he eats cake."
+
+Nico smiled. "He can come."
+
+She held herself still. This was more information than she'd hoped for. She could make invitations instead of summoning the entire camp and hoping Nico would be happy about being the center of it.
+
+"Is there anything you don't want?" she asked.
+
+"No loud noises. And no singing from the Apollo kids if they do that thing where they make up a song about you."
+
+"No loud noises, no improvised songs. Got it."
+
+"And no floating in the deep part of the lake," he added quickly.
+
+"Why would we put you in the lake?"
+
+"Because Percy likes water."
+
+Bianca laughed. "We won't."
+
+Nico seemed to relax. He turned his drawing toward her.
+
+"Do you think I could have a place to play Mythomagic where people aren't walking past my table?"
+
+"Maybe," she said.
+
+"Not a whole new cabin or anything. Just somewhere with a roof."
+
+She felt a small, incredulous relief. She hadn't told Annabeth about the fort yet, hadn't even known it was a possibility. Nico had given her the one thing she needed to know before anybody started building: what he actually wanted.
+
+"I'll see what I can do," she said.
+
+Nico narrowed his eyes. "You're acting suspicious."
+
+"I am your older sister. Suspicious is my job."
+
+He grinned and went back to drawing the flowers.
+
+As she got up, he called after her.
+
+"Bianca?"
+
+"Yeah?"
+
+"Can we have chocolate cake?"
+
+She turned around and smiled. "I was hoping you'd ask."
+
 By lunch, it was not a secret project. It was a conspiracy.
 
 ---
@@ -170,7 +338,7 @@ Clarisse threw a practice sword at him. He caught it. Bianca laughed so hard her
 
 Silena Beauregard cried when Bianca asked her.
 
-Not big dramatic tears — just immediate, shining eyes and a hand pressed to her chest. "A baby's birthday! Oh, of course! Oh, honey, come here," she said, pulling Bianca into a hug that smelled like vanilla and sunshine. Behind her, the Aphrodite cabin's front porch was draped with drying flowers and ribbons, and someone was playing a lyre badly but enthusiastically inside.
+Not big dramatic tears — just immediate, shining eyes and a hand pressed to her chest. "A baby's birthday! Oh, of course! Oh, honey, come here," she said, pulling Bianca into a hug that smelled like vanilla and sunshine. Behind her, Cabin Three's front porch was draped with drying flowers and ribbons, and someone was playing a lyre badly but enthusiastically inside.
 
 Nico had once told Bianca, very seriously, that Silena was a princess from a fairy tale who had gotten lost and decided to live at camp. Bianca had not corrected him.
 
@@ -190,23 +358,23 @@ She recruited two Aphrodite friends for frosting duty, one for meringue ghosts, 
 
 Bianca left the Aphrodite cabin with a list of ingredients and a ribbon tied around her wrist for luck.
 
-She was rounding the corner toward the Big House when the sky cracked open.
+She was passing the fenced, empty practice circle beside the Big House when the air snapped with a sharp sound.
 
-It was not a big crack. Just a snap and a sizzle, like static on a wool blanket. A bolt of lightning no thicker than her finger struck the grass ten feet away, fizzled, and left behind a perfect smoking circle and the smell of ozone.
+It was not a big crack. Just a snap and a sizzle, like static on a wool blanket. A thin line of blue-white static leaped between two grounded practice posts inside the marked circle, fizzled, and left behind the smell of ozone. The practice line had kept it away from the public path, but it was still louder than Thalia intended.
 
-Thalia Grace stood in the middle of the path with her hands on her hips, frowning at the sky.
+Thalia Grace stood inside the safety circle with her hands on her hips, frowning at the insulated posts.
 
 "No! Smaller!" she shouted at it. Or at herself. "I said tiny!"
 
 Bianca stared. Thalia's black hair was standing up slightly at the ends. Her blue eyes were narrowed in concentration. Sparks crawled over her knuckles.
 
-"Sorry!" Thalia said when she saw Bianca. "Sorry. I'm practicing. Don't walk there, it's tingly."
+"Sorry!" Thalia said when she saw Bianca. "Practicing. Nobody's supposed to come inside the safety line. Chiron wants a quieter test before he approves anything."
 
 "Practicing what?"
 
-"Birthday fireworks." Thalia grinned, sheepish and proud. "Annabeth told me. Look, I can't do big stuff — last time I tried party tricks I set a table on fire. But Chiron said if I can keep it small and controlled, I can do a finale. Small pops, no boom. Like sparklers but lightning. Safe lightning. Which sounds fake, but —"
+"Birthday lights," Thalia said, sheepish and proud. "Annabeth told me. The first experiment was too loud, so we're not using anything like it near people. I want to bend light through a few insulated threads and leave the dangerous part grounded, where nobody can touch it."
 
-She held out her hand, breathed out slow, and let a thread of electricity dance across her palm. It split into three, then five tiny sparks that hung in the air like fireflies, white-blue and humming faintly, then faded.
+She stood behind the cordon, breathed out slowly, and let a faint luminous thread dance between the grounded posts. The light refracted into three, then five harmless images in the practice prisms. They hovered above the posts like fireflies and faded before anyone stepped across the cordon.
 
 Bianca gasped. "That's amazing."
 
@@ -214,13 +382,13 @@ Bianca gasped. "That's amazing."
 
 "Nothing is going to be too loud?" Bianca asked. "He doesn't like loud booms. Thunderstorms scare him."
 
-Thalia's expression turned serious. "Then no booms. I swear on the Styx. Just light."
+Thalia's expression turned serious. "Then no booms. I won't use live lightning near the party. I'll ask Chiron to approve a light-only display and a safe viewing line. If he says no, we use lanterns."
 
 She held out her pinky. Bianca linked it with hers, solemn as an oath.
 
-"Styx is listening, you know," Bianca whispered.
+"Chiron needs to sign off on that," Bianca reminded her.
 
-"Good," Thalia said. "Let her hear I'm good for something besides breaking things."
+"He will," Thalia said. "I have to get better at keeping my promises without making new problems."
 
 ---
 
@@ -234,9 +402,9 @@ He tried again, softer. The water rose and settled into a small translucent boat
 
 By Thursday he had a fleet: six ghost ships, a dozen pulsing jellyfish lanterns, and glowing starfish. He hid them in a cove under Mist with a sign that said in wobbly Greek DO NOT TOUCH — SCIENCE.
 
-Annabeth built like a woman possessed. She and Malcolm and two Hephaestus kids — Beckendorf and Nyssa — hauled cedar planks to the clearing behind Cabin Thirteen. They worked in the afternoons when Nico was at archery or in the library with his Mythomagic club, sawing and hammering while Juniper and a few dryads wove living ivy through the rails to soften the edges.
+Annabeth worked carefully with the approved construction crew. She and Malcolm and two Hephaestus kids — Beckendorf and Nyssa — hauled cedar planks to the clearing behind Cabin Thirteen. They worked in the afternoons when Nico was at archery or in the library with his Mythomagic club, sawing and hammering while Juniper and a few dryads wove living ivy through the rails to soften the edges.
 
-The fort rose quickly because Annabeth had designed it to. Four low walls, corner posts wrapped in Stygian iron, a slatted roof that dappled the interior with light and shadow. A loft platform just big enough for two kids and an army of plastic figures. And under the main floor, a trapdoor leading to a box lined with velvet — Bianca's idea — for treasures.
+The fort rose quickly because Annabeth had designed it to. Four low walls, corner posts fitted with inspected bronze brackets, a slatted roof that dappled the interior with light and shadow. A loft platform just big enough for two kids and an army of plastic figures. And under the main floor, a trapdoor leading to a box lined with velvet — Bianca's idea — for treasures.
 
 "This is good work," Beckendorf said on Thursday evening, wiping sweat from his brow and admiring the joints. "You sure you're Zeus and not Hephaestus?"
 
@@ -260,6 +428,136 @@ She laughed, leaned her head briefly against his shoulder.
 
 "I made no promises."
 
+Thursday evening, after Percy had returned to the dining pavilion, Bianca found Annabeth standing at the edge of the clearing with a folded inspection sheet in her hands.
+
+The fort looked almost finished. It also looked considerably less like the secret structure Bianca had imagined when Annabeth first drew it on a napkin. The loft had a solid rail. The wooden posts were thicker than the first sketch, and the main floor stood on a platform with a low step rather than hiding a trapdoor deep enough to swallow a child.
+
+"Chiron changed the plan?" Bianca asked.
+
+"I changed the plan after Chiron asked better questions than I had." Annabeth looked down at the inspection sheet. "The loft needed a safer entrance. The original hidden compartment was too close to the foundation supports. I moved it under the shelf so Nico can reach it without lifting floorboards. And the site is farther from the old boundary roots than I expected."
+
+Bianca walked around the fort. The stairs to the loft were low and broad; someone had added a second handrail sized for smaller hands. The main roof had slats, just as Annabeth promised, casting stripes of shade across the floor.
+
+"Is it safe?"
+
+"I think so. Beckendorf checked the load points. Nyssa checked the brackets. Chiron is doing the final access inspection tomorrow morning."
+
+"So we can't use it until he does?"
+
+"Not as a permanent place. We can finish decorating outside. If he doesn't sign it off, we move the party to the pavilion and Nico gets a drawing of the fort and a promise to finish it properly."
+
+Bianca looked at her in surprise. "You're not angry?"
+
+"Of course I'm angry. I built something I wanted to give him, and the person who approves it can still say no." Annabeth folded the sheet. "But if it's too dangerous to use, being angry won't make it safer."
+
+She knelt to check the lower handrail. It moved slightly when she pressed on it. Annabeth swore under her breath and tightened the fastening with a small wrench. Then she asked Bianca to try it.
+
+Bianca leaned her weight against it. It held.
+
+"Better," she said.
+
+"Better isn't certified." Annabeth marked another box on the sheet. "I'll tell Chiron it needed adjustment."
+
+Bianca noticed the initials on the left post, dark where the letters had been carved into the cedar. BIANCA + NICO. Underneath was the little sentence about camp. She reached out to trace it, then stopped just before touching the wood.
+
+"My name's on it," she said.
+
+"Of course it is. You came to me with the idea."
+
+"Nico didn't ask me for anything like this. I thought I was the one who needed to make it happen."
+
+Annabeth looked up. "What did he say when you asked what he wanted?"
+
+"He wanted somewhere to play cards out of the way. Somewhere with a roof."
+
+"Then it matters that we asked. We can't know whether he'll like the exact design until he sees it."
+
+Bianca went inside. The small table beneath the window was big enough for Mythomagic cards and two players. The hidden shelf had a simple latch, not a trapdoor. Above it, Annabeth had left a blank square of wood.
+
+"What's that for?" Bianca asked.
+
+"Nico can choose what goes there. A painted crest. Another name. Nothing. I didn't want to decide every part for him."
+
+It startled Bianca how moved she was by a square of unfinished wood.
+
+She had spent so long choosing for Nico. In the Lotus Hotel, when they couldn't remember how long they'd been there, she chose where they ate and whether it was safe to follow a stranger down a corridor. After they left, she chose which monsters were worth running from and which doors to avoid. Sometimes she still treated choosing as the same thing as keeping him alive.
+
+"Can I leave him a note in the shelf?" she asked.
+
+"It's his shelf."
+
+"I mean before he knows it's his."
+
+Annabeth considered. "You can give him a letter and tell him where you put it. Don't hide it somewhere he'll discover years later and think we expected him to find it."
+
+Bianca nodded.
+
+She found a scrap of paper in her jacket pocket and started writing while Annabeth finished checking the brackets. She wrote in English first, then crossed it out. The words sounded like something an adult would say at a graduation ceremony. Nico was nine, liked skeletons, and hated being lectured. He deserved a sister who talked to him like herself.
+
+*Dear Nico,* she began.
+
+Then she stopped.
+
+There was a small bench outside the fort beneath the trees. She sat there and wrote about the blue plate their mother used at breakfast, how the candle always tipped because the bread was uneven, and the way Nico insisted on choosing the song even when he couldn't remember all its words. She told him that she remembered the birthday this year and would try to remember the next, but that if she didn't he was allowed to tell her. He wasn't responsible for protecting her pride.
+
+She didn't promise to keep him safe from every monster. That would have been a lie.
+
+She promised to tell him when she was frightened, and to let him tell her.
+
+When she finished, Annabeth was beside her holding two screws and a pencil.
+
+"Everything okay?" Annabeth asked.
+
+"Yeah." Bianca folded the letter. "I think I forgot the point of his birthday for a minute."
+
+"What's the point?"
+
+"That it's his. Not that I'm the best sister in the world."
+
+Annabeth smiled faintly. "That's a pretty good distinction."
+
+They found Chiron on the path, returning from a meeting with the dryads. He inspected the new foundations and asked whether the group had permission to clear the ivy along the roofline. Juniper had agreed to braid live growth around the rail, but not to have the vines cut without asking. Annabeth showed him the plan they'd made together.
+
+He checked the stair rail, the platform and the exit path. Then he knelt to examine the narrow gap between the roof and the oldest oak branch.
+
+"The tree may continue growing against this board," he said.
+
+"I can move the board before it touches," Annabeth offered.
+
+"Then mark that in the maintenance plan."
+
+She did.
+
+Chiron also asked who would be responsible for the fort after the party. Nobody had considered that, and Bianca felt the surprise run through her.
+
+"Not Nico," she said immediately. "Not by himself. He's nine."
+
+"Nor should it become Annabeth's personal chore forever," Chiron replied.
+
+They agreed that Cabin Thirteen's counselor would check the structure weekly, the Hephaestus cabin would be consulted for any repairs that involved fittings, and Nico and Bianca could request changes through the normal camp process. If the fort stopped being used safely, Chiron could close it until the problem was fixed.
+
+"That's not very romantic," Percy said when he came down the path, carrying the last paper stars.
+
+"Buildings need rules," Annabeth replied.
+
+"Even secret ones?"
+
+"Especially secret ones."
+
+Percy looked at Bianca. "You happy?"
+
+She considered the letter in her pocket, the sturdier rail and the blank square Nico could decorate himself.
+
+"Yes," she said. "I think I am."
+
+Chiron placed a provisional approval note on the inspection sheet. The fort could be opened on Friday if the morning check found the new rail secure and the approach clear. No child would be allowed to sleep in the loft, and a counselor would be close by during the party.
+
+Bianca was disappointed by that last part for approximately three seconds. Then she pictured Nico asleep with his head hanging over the edge of the platform, and felt suddenly grateful somebody else had been paying attention.
+
+Annabeth rolled up the plans. "Tomorrow we test it again."
+
+"Tomorrow," Bianca agreed.
+
 ---
 
 Nico knew something was happening. Of course he knew. He was young, not stupid.
@@ -270,15 +568,15 @@ On Wednesday, Silena asked him, very casually, what his favorite cake flavor was
 
 On Thursday, Percy kept smiling at him in a shifty way and asking weird questions like, "If you were a ghost pirate, would you prefer a hat or a bandana?" When Nico said, "Hat. With a skull. Duh," Percy nodded gravely and said, "Noted," and walked into the lake fully clothed.
 
-But nobody said birthday. Nobody said party. And by Thursday night, as Bianca tucked his blanket around him in the Hades cabin — their cabin, with its black walls covered in his drawings and her stars charts, with two beds and a rug Mrs. O'Leary the hellhound had chewed and then slept on as apology — Nico had decided he had imagined it.
+Bianca had remembered his birthday and asked who he wanted to celebrate with. But none of the older campers had said what they were doing. By Thursday night, as she tucked his blanket around him in the Hades cabin, their cabin with its black walls covered in his drawings and her star charts, Nico was beginning to wonder whether the party had fallen apart.
 
-Maybe, he thought as Bianca hummed an old Italian lullaby their mother used to sing, maybe camp did not do birthdays for kids like him. Maybe sons of Hades did not get parties. Maybe it was okay. He had Bianca. He had his cards. He had a hellhound who drooled on his pillow.
+Maybe, he thought as Bianca hummed an old Italian lullaby their mother used to sing, everyone had tried to make it happen and something had gone wrong. Maybe the other cabins didn't like the idea of a son of Hades having a party. Maybe it was okay. He had Bianca. He had his cards. He had a hellhound who drooled on his pillow.
 
 He fell asleep holding a plastic skeleton warrior and trying not to hope.
 
 Bianca watched him sleep for a long time, his mouth open, his hair sticking up, one hand curled around the toy. Her chest ached with love so fierce it felt like anger — at the Lotus, at the Titans, at every year they had lost.
 
-"Just wait, piccolino," she whispered. "Just wait."
+"I remembered," she whispered, though he was asleep. "You won't have to guess."
 
 ---
 
@@ -304,11 +602,15 @@ His head snapped up. "Clarisse? Really?"
 
 He ran. Bianca exhaled. Phase one complete.
 
-At ten o'clock sharp, half the camp found excuses to be near the training arena.
+On the way to the arena she stopped by the Big House. Chiron had inspected the fort at dawn with Annabeth and Beckendorf, tested the repaired railing under load, checked the exit path and signed its opening certificate. The loft had a two-person limit and the counselor nearest Cabin Thirteen would be responsible for closing it after dark. Bianca checked the certificate herself.
+
+Then she gathered the people Nico had named and repeated his rules: no lake, no loud noise, no made-up birthday song. She showed them the quiet finger-wiggle cheer. Percy copied it once; Clarisse managed a one-handed version that looked more like a salute. Chiron stayed by the path so no extra crowd would drift into the clearing. If Nico wanted to invite anyone else, that choice would be his.
+
+At ten o'clock, the people Nico had asked to see were waiting near the training arena.
 
 Clarisse was waiting, arms crossed, with two wooden swords and two helmets that looked comically large and small next to each other. Nico skidded to a stop in front of her, helmet already half on backwards, eyes huge.
 
-"You wanted to learn to fight?" Clarisse barked.
+"You wanted to learn to fight?" Clarisse asked.
 
 "Yes, ma'am!" Nico squeaked.
 
@@ -318,7 +620,7 @@ Percy, lurking behind a dummy with Annabeth, whispered, "Hey!"
 
 "Rule four," Clarisse continued, ignoring him, "is the La Rue Special. Watch."
 
-What followed was fifteen minutes of pure joy. Clarisse taught the way she fought — direct, no nonsense, patient in spite of herself. She showed Nico how to hold the sword without strangling it, how to fake high with the shield and sweep low, how to roll without landing on his head. Nico, who was small and quick and utterly fearless when he was not thinking about being scared, picked it up fast. He stuck his tongue out when he concentrated. He shouted "HA!" every time he scored a touch, which Clarisse allowed exactly three times before she swept his legs and put him gently in the dirt.
+What followed was fifteen minutes of pure joy. Clarisse taught the way she fought — direct, no nonsense, patient in spite of herself. She showed Nico how to hold the sword without strangling it, how to fake high with the shield and sweep low, how to roll without landing on his head. Nico, who was small and quick and utterly fearless when he was not thinking about being scared, picked it up fast. He stuck his tongue out when he concentrated. Each time he scored a touch, his grin flashed before he remembered to look serious again; Clarisse let him have three before she swept his legs and put him gently in the dirt.
 
 "Again," she ordered.
 
@@ -326,9 +628,9 @@ He got up, grinning with a mouth full of dust. "Again!"
 
 On the fourth try, he faked her — a tiny, perfect shield lift — and tapped her knee. The arena went silent. Clarisse looked down at the wooden blade against her greave, then at him.
 
-Then she threw back her head and laughed, loud and startled.
+Then she laughed, startled and delighted, and lowered her voice before she answered. He'd earned the touch in a controlled drill rather than been handed a fake victory.
 
-"Good!" she barked, hauling him to his feet and ruffling his hair so hard his helmet spun. "Good! You got me! Remember that when you're telling stories — you beat Clarisse La Rue fair and square on your birthday!"
+"Good," she said, hauling him to his feet and ruffling his hair so hard his helmet spun. "You got me. Remember that when you're telling stories — you beat Clarisse La Rue fair and square on your birthday."
 
 Nico froze. "My — you knew?"
 
@@ -340,7 +642,7 @@ She shoved a package into his hands — clumsily wrapped in red cloth. Inside wa
 
 Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wear it always. Even sleeping. Even bathing."
 
-"Don't wear it bathing, it'll stink," Clarisse said, but her voice was thick. She cleared her throat, turned away, and shouted at the trainees to get back to drills before they all turned to stone. As Nico ran off to show Bianca, she watched him go with an expression Percy caught and would tease her about for months.
+"Don't wear it bathing, it'll stink," Clarisse said, but her voice was thick. She cleared her throat, turned away, and called the trainees back to drills before they all turned to stone. As Nico ran off to show Bianca, she watched him go with an expression Percy caught and would tease her about for months.
 
 "You're soft," Percy mouthed.
 
@@ -348,7 +650,7 @@ Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wea
 
 ---
 
-"Where are we going?" Nico demanded for the fifth time as Bianca led him, blindfolded with her own jacket, through the woods behind their cabin that afternoon. "Is it the infirmary? Did Mrs. O'Leary eat something again?"
+"Where are we going?" Nico asked for the fifth time as Bianca guided him along the familiar marked path behind Cabin Thirteen that afternoon. She had offered him her jacket as a blindfold, but he preferred to keep his eyes open and promised not to look ahead. "Is it the infirmary? Did Mrs. O'Leary eat something again?"
 
 "Nope."
 
@@ -360,11 +662,9 @@ Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wea
 
 "Shh. Walk."
 
-She stopped him at the edge of the clearing. Behind her, she could hear the held breath of thirty campers crammed behind trees and the fort walls. She could hear Percy whispering, "Everybody ready? On three—" and Annabeth hissing, "Percy, that's the surprise ruined—" and Thalia crackling faintly like a bug zapper.
+She stopped him at the edge of the clearing. Behind her, she could hear the held breath of the people Nico had chosen, tucked behind trees and the fort walls. She could hear Percy whispering, "Everybody ready? On three—" and Annabeth hissing, "Percy, that's the surprise ruined—" and Thalia shifting her boots in the leaves.
 
-Bianca pulled the jacket away. "Surprise!"
-
-"HAPPY BIRTHDAY, NICO!"
+Bianca stepped aside so he could see the clearing. "Surprise," she said softly. The group lifted their hands and wiggled their fingers in the quiet cheer they'd practiced. The signs by the entrance read HAPPY BIRTHDAY, NICO; nobody shouted.
 
 Nico stumbled back a step, hands flying to his face. His eyes were huge and dark and shining.
 
@@ -376,7 +676,7 @@ And the water — Nico gasped at the water.
 
 Percy stood by a shallow basin he had filled that morning, hands raised, grinning like an idiot. As Nico watched, six tiny ghost ships rose from the surface, sails glowing blue, and sailed in a circle in the air before settling to float just above the grass. Jellyfish lanterns pulsed softly around the fort's posts. Starfish glowed on the rails.
 
-"Ghost pirates!" Percy shouted. "With hats! With skulls! As requested!"
+"Ghost pirates," Percy said, keeping his voice low. "With hats. With skulls. As requested."
 
 Nico ran to him and stopped short, staring up. "You did this? For me?"
 
@@ -396,11 +696,17 @@ Nico threw his arms around her neck, sudden and fierce. Annabeth, who was not a 
 
 "You're welcome, kiddo," she said softly, meeting Bianca's eyes over his head. Sisters, both of them, understanding each other perfectly.
 
-Then Silena arrived with the cake, carried high like a torch, her siblings trailing with sparklers, and everyone sang — off-key, too loud, wonderful. The cake was midnight chocolate with blue frosting and candy stars and four little meringue ghosts with candy eyeballs that Nico immediately declared his favorites and refused to eat because they were too cool, then ate because they were too delicious.
+Then Silena arrived with the cake, carried high like a torch, Clarisse and Thalia walking beside her. The guests raised their hands once more in the quiet cheer: fingers waving, no shout, no song. Nico looked from the signs to Bianca.
 
-He wore the dark silver crown and the leather bracer and the bronze ring, and he sat in the middle of the fort with crumbs on his face while campers he barely knew gave him presents: a new pack of Mythomagic cards from Cecil, a carved bone whistle from Grover, a sketch of Mrs. O'Leary wearing a party hat from Piper, a tiny shield from the Ares cabin with NICO'S BIRTHDAY MASSACRE — JUST KIDDING scratched on the back.
+"You remembered," he whispered.
 
-He opened each one like it was treasure. He thanked each person by name, even when he had to ask Bianca to whisper it first. He kept looking around like he was afraid it would vanish if he blinked.
+"I asked what you wanted," she said.
+
+Silena set down the midnight chocolate cake with blue frosting, candy stars, and four little meringue ghosts with candy eyeballs that Nico immediately declared his favorites and refused to eat because they were too cool, then ate because they were too delicious.
+
+He wore the dark silver crown and the leather bracer and the bronze ring, and sat in the fort with crumbs on his face among the people he had chosen. Cecil gave him a new pack of Mythomagic cards; Clarisse had already given him the bracer, and Bianca the ring. The fort was Annabeth's gift, and the ghost ships and jellyfish lanterns were Percy's. Silena's cake had the four ghosts he had declared too cool to eat.
+
+He thanked each of them by name and kept looking around like he was afraid the afternoon would vanish if he blinked.
 
 Bianca watched from the fort doorway with her hands pressed to her mouth, crying and laughing at the same time. Percy appeared beside her and handed her a handkerchief that was soaking wet.
 
@@ -422,7 +728,133 @@ Percy looked at Nico, who was currently trying to teach Clarisse how to play Myt
 
 "It built character!"
 
-Bianca laughed through tears. This — this bickering, this warmth — this was what she had wanted for Nico. Not just a party. A family so big and loud he could never doubt his place in it again.
+Bianca laughed through tears. This bickering, this warmth, was what she had wanted for Nico. Not just a party. A family so big and welcoming that he could be certain he had a place in it even on days when it wasn't celebrating him.
+
+Nico was sitting on the loft with Cecil when Bianca finally made it over to the fort. They had spread out two teams of Mythomagic figures. Cecil had a notebook with scores, while Nico was arranging three skeleton warriors in a line across the table.
+
+"You're cheating," Cecil said.
+
+"I'm defending my castle."
+
+"You're using a card from Percy's anniversary deck. I don't have that edition."
+
+"Percy said everybody could look at the rules."
+
+"Looking at the rules isn't the same as knowing what card you have."
+
+Bianca almost stepped in. Nico had been smiling all afternoon, and she didn't want the first argument of his birthday to become another reason he decided camp didn't want him. But the two boys were leaning toward one another with the particular intensity they reserved for important games, and neither looked frightened.
+
+"Fine," Nico said. He pulled the hand-painted Tyson card from the middle of his deck. "We can make a new rule. You have a chance to use one of mine when you draw a monster."
+
+Cecil considered. "No. That gives you an advantage because you know what I'm drawing."
+
+"Then we both get to take one."
+
+"That might work."
+
+Bianca stepped back and waited until Cecil had written down the amendment. Nico read the words over his shoulder, then nodded. He didn't need her to rescue the game.
+
+Milo approached carrying a paper bag of cookies that Chiron had approved for the younger campers to share. He paused at the bottom of the loft ladder and looked up.
+
+"Can I come?"
+
+Nico glanced down. "Do you know Mythomagic?"
+
+"No."
+
+"That's okay." Nico looked at the crowded table. "But you can't play this round. Cecil and I are finishing the battle."
+
+"Could you teach me after?"
+
+"Yeah. If you want." Nico gestured toward the empty seat near the doorway. "You can watch from there."
+
+Milo took the seat. He didn't look disappointed at being asked to wait. Bianca remembered him on his first day at camp, gripping his backpack straps and pretending not to care whether anybody included him. He was less guarded now, but Nico had been clear about what kind of company he wanted. Milo had accepted the invitation exactly as given.
+
+They finished the round. Cecil won because Nico had forgotten to keep a defensive card in reserve, and Nico protested for an entire minute before admitting the move was legal. Milo laughed at the argument and then asked which cards were most useful for beginners.
+
+Nico reached for a small starter deck from the box. It contained older, ordinary cards Percy had helped him sort earlier in the week, not the custom anniversary deck or any of Nico's favorites.
+
+"You can try these," he said. "You need a monster and an ability. And you don't get to spend every point on the first turn."
+
+"Why not?"
+
+"Because Cecil will take advantage of you."
+
+"I will," Cecil agreed cheerfully.
+
+Milo shuffled clumsily, dropping one card into his lap. Nico showed him how to hold the deck so the cards wouldn't bend. He didn't snatch it out of his hands. Bianca watched him explain the difference between a hero and a monster card, speaking so carefully that the boy who had once been too shy to ask the Apollo kids a question began asking dozens.
+
+Cecil stood after a while and stretched. "I'm getting cake. You two coming?"
+
+Nico looked toward Bianca. "Can we keep playing here?"
+
+"Sure, until the lights come on. Chiron wants everyone down from the loft when it gets dark."
+
+"Even me?"
+
+"Even the birthday boy."
+
+Nico frowned. "That's unfair."
+
+"Buildings don't know whose birthday it is," Annabeth said from the doorway.
+
+She climbed the first step, checked that the handrail hadn't shifted and peered at the scattered cards. "How many people have used the loft at once?"
+
+"Three," Nico said.
+
+"And how many did we say it was designed for?"
+
+"Two at a time."
+
+"So?"
+
+Nico looked at Milo, then at Bianca. "Oops."
+
+"It's not a punishment," Annabeth replied. "It's a weight limit. Next round, one of you takes the table downstairs, or you take turns."
+
+Nico studied the loft. There was enough room to play a short battle up here, but if Milo and Cecil both wanted to stay, somebody would need to move.
+
+"Downstairs," he decided. "There's more room, and the lanterns are nicer down there anyway."
+
+Milo stood, carefully gathered the starter deck and went down the steps one at a time. Nico followed with the figures. Bianca watched him leave a place he'd just been given without treating the safety rule as an attack on him.
+
+Annabeth stayed to clear up the remaining cards. Bianca waited until she was finished.
+
+"Thank you," Bianca said.
+
+"For what?"
+
+"For making sure he can use this tomorrow."
+
+Annabeth looked up at the name on the doorway. "It's only useful if he can. A building shouldn't require its owner to be lucky."
+
+Bianca smiled. She thought of the temporary magical tide pools on the beach, which had returned safely because Milo noticed one was missing. The camp was getting better at teaching children to enjoy a gift without teaching them to ignore what it needed.
+
+Back at the outdoor table, Nico showed Milo how to begin a round. Cecil had returned with cake on a plate, and he used his fork to point out a strategy that wasn't terrible. The game went badly for Nico, then well for Milo, then badly for everyone when Nico realized he'd mixed up the ability costs.
+
+"Can we restart?" he asked.
+
+"That's not how battles work," Cecil said.
+
+"It's my birthday."
+
+"That's not how birthdays work either."
+
+Nico grinned. He was learning something Bianca hadn't expected to matter today: being loved didn't mean everybody let him win. It meant people kept sitting beside him even when he was losing.
+
+When she walked past, he looked up and called, "Bianca?"
+
+"Yeah?"
+
+"Can we play another round tomorrow?"
+
+She considered her chores, his archery practice, and the fact that the fort would still be there if somebody remembered to check the rails.
+
+"After lunch," she said. "I have duty in the morning."
+
+"Okay."
+
+It was such a small promise. She liked the size of it.
 
 ---
 
@@ -432,17 +864,15 @@ As dusk fell, Thalia took Nico's hand and led him to the center of the clearing.
 
 Nico closed his eyes tight. Thalia looked at Bianca, who nodded. She looked at Chiron, standing at the edge of the trees with a blanket around his shoulders, who nodded too.
 
-Thalia breathed in, raised both hands, and let go.
+Thalia breathed in, checked that Chiron and the Hephaestus counselor were beside the marked light rig, and raised both hands. The display used insulated threads and prisms fixed high above the viewing line. Its power source was shielded and grounded; no live bolt crossed the space above the children.
 
-Not lightning as a weapon. Lightning as lace.
-
-Tiny threads of light bloomed above the fort, splitting and rejoining, hanging for a heartbeat like glowing spiderwebs before dissolving into sparks that drifted down slow as snow. Blue-white, gold-white, soft violet. They popped faintly, like distant popcorn, no louder than leaves rustling. They reflected in the jellyfish lanterns, in Percy's ghost ships, in Nico's wide eyes.
+Light bloomed above the fort, splitting and rejoining along the hanging threads, then reflecting as blue-white and soft violet lines across the slatted roof. Nothing fell toward the audience. It was quiet enough that Nico could hear his friends whispering about the shapes. The harmless reflected patterns shone in Percy's water lanterns and in his own delighted eyes.
 
 "Whoa," Nico breathed. "Whoa, whoa, whoa—"
 
-The other kids ooh-ed and ah-ed. Mrs. O'Leary, who had arrived with a bow tied around her neck, bayed at the lights and tried to catch them, sending sparks scattering harmlessly off her nose.
+The other kids ooh-ed and ah-ed. Mrs. O'Leary, who had arrived with a bow tied around her neck, bayed at the reflected lights and tried to chase them. Her handler drew her back before she could reach the equipment, and she settled beside Nico's bench.
 
-Thalia kept it going for three minutes — her personal best for control — then let the last threads fade, breathing hard and grinning. Sweat stood out on her forehead. Her hands trembled slightly.
+Thalia held the patterns for thirty seconds, then let the reflections fade. She was breathing hard and smiling, but she stopped when the planned time was up rather than trying to make the display bigger.
 
 Nico ran to her and hugged her legs. "That was better than fireworks! Can you do it every year?"
 
@@ -450,13 +880,13 @@ Thalia picked him up — he was getting big, but she managed — and settled him
 
 "Promise?"
 
-"Styx promise."
+"I'll try to make another one if you want it, and if Chiron says it's safe. That's a promise I can actually keep."
 
 Bianca joined them, and Annabeth, and Percy, and soon it was a pile — Silena and Clarisse and Grover and Beckendorf and all of them, laughing in the striped shadows of the fort while the water lanterns glowed and the cake crumbs stuck to everyone's shoes.
 
 Chiron watched from the trees, smiling. He had seen many birthdays at camp. Some grand, some quiet. This one, he thought, would be remembered. Not for the magic — though there had been plenty — but for the look on a small boy's face when he realized the whole world had conspired to say: you belong.
 
-Later, much later, after the cake was gone and the lanterns dimmed and the younger campers were herded yawning to their cabins, Nico sat in the loft of his fort with Bianca, both of them in pajamas, sharing the last chocolate coin.
+Later, much later, after the cake was gone and the lanterns dimmed and the younger campers were herded yawning to their cabins, Nico sat in the loft of his fort with Bianca, both of them in comfortable evening clothes, sharing the last chocolate coin before going back to Cabin Thirteen for the night.
 
 "Bianca?" he said sleepily, leaning against her side, crown crooked on his head.
 
@@ -476,7 +906,99 @@ Nico yawned. "I'm glad we came to camp."
 
 "Happy birthday to me," he mumbled, already half asleep, plastic skeleton in one hand, new bracer still strapped on, ring glinting faintly in the dark.
 
-He slept. The camp slept. The fort stood guard, striped with starlight, names carved over the door.
+"Before we go," Bianca said, "I have one more thing."
+
+Nico sat up a little. "Another present?"
+
+"A letter."
+
+"To me?"
+
+"Who else?"
+
+She took the folded page from the pocket where she'd kept it all week. The paper had softened along the crease. She held it out and waited for him to take it, wondering whether she'd written too much, or too little, or said the wrong thing about their mother.
+
+Nico unfolded it. He read slowly, lips moving without sound. He was good at Greek and Italian and had never loved English as much, but he didn't ask for help. Bianca sat beside him and listened to the campers packing up below.
+
+When he reached the part about the blue plate, he looked up.
+
+"I remember it being green," he said.
+
+Bianca felt the old urge to argue. Their mother's plate, the birthday candle, the song: those were some of the only ordinary details she trusted from the time before the Lotus. If the plate had changed color in Nico's mind, what else might be different?
+
+"Maybe it was green," she said.
+
+"You wrote blue."
+
+"That's how I remember it."
+
+He thought about the page. "Maybe she had two plates."
+
+Bianca laughed. "She probably did."
+
+Nico returned to reading. When he finished, he folded the page more carefully than Bianca had.
+
+"You said I can remind you if you forget a birthday," he said.
+
+"Yes."
+
+"Even if you're mad at me?"
+
+"Even then."
+
+"What if I forget yours?"
+
+"Then I'll tell you. We're allowed to help each other remember."
+
+He turned the ring on his finger. "I wasn't mad you almost forgot."
+
+Bianca froze.
+
+Nico looked at her. "You were acting like you were scared. I figured it out on Monday. I thought maybe I'd done something wrong."
+
+"You didn't," she said immediately. "I was worried about myself. I wanted to do everything perfectly because we'd missed so much. That wasn't fair to you."
+
+"I just wanted cake with you."
+
+"I know. I know that now."
+
+He tucked the letter under his arm and leaned against her.
+
+"I liked the big party too," he admitted.
+
+"Good."
+
+"And the fort."
+
+"Good."
+
+"But next year we can just have cake if you want."
+
+Bianca kissed the top of his head. "Next year, you decide what you want. You don't have to make the party small to take care of me."
+
+He yawned. "Okay."
+
+"And you don't have to protect me from being embarrassed."
+
+"I'm still going to," he said.
+
+"Well, try not to make a habit of it."
+
+He laughed into her shoulder, the quiet, sleepy laugh that had followed her through so many rooms she no longer knew how to count.
+
+Bianca looked around the little fort. Annabeth's handrails were sturdy, the loft lamp had been shut off, and the Mythomagic cards were stacked on the lower table where Nico and Cecil could find them tomorrow. Nico put his letter into the hidden shelf himself after Bianca showed him where Annabeth had built it. He asked her not to move it. She promised she wouldn't.
+
+"Can we go home now?" he asked.
+
+"Cabin Thirteen?"
+
+"Yeah." He looked up at her, surprised by the question. "Where else?"
+
+She took his hand and led him down the steps. On the path he told her that he wanted to draw his own skull above the fort's door, below the names Annabeth had already carved. Bianca said they'd ask before changing the wood, and Nico said that was fine; he had a design in mind.
+
+They walked past the quiet lake and the last lamps along the cabins. Nico carried the plastic skeleton in one hand and held Bianca's with the other. He was tired, and he was nine, and he had been given a place he could return to rather than a perfect day that would disappear when the decorations came down.
+
+He went back to Cabin Thirteen with Bianca before curfew, and slept there with the ring safe on his bedside table. The fort remained outside, empty until morning, its names carved over the door.
 
 BIANCA + NICO. EST. CAMP.
 

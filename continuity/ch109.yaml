@@ -1,0 +1,82 @@
+chapter: 109
+title: "No Borrowed Promises"
+source: "chapters/109-no-borrowed-promises.md"
+status: "revised; 10,128 body words; Chapter 109 length gate passed"
+body_word_count: 10128
+date_or_season: unknown
+point_of_view: Annabeth
+chronology:
+  date_or_season: unknown
+  relative_time: "Follows Chapter 108; Chapter 109 moves through one camp day and ends the following morning at breakfast. Chapter 110 follows that same day. No calendar date, year, season, weekday, age, or exact elapsed interval is established."
+  sequence: "Annabeth finds an old photograph in Percy's bag; she and Percy set privacy and relationship boundaries; on the hill they sort selected remembered-life cards and sketch the university facade on one side of a blank card; Annabeth reviews the shrine drainage sketch and makes two separate present-view shrine studies; at the lake she turns the facade card over and draws Percy and herself as they appear that day; she places that double-sided sketch card in Percy's inner bag pocket beside the photograph overnight; the next morning Percy returns the card without writing on it, and Annabeth sets it beside her breakfast."
+pov:
+  scenes:
+    - "Annabeth Grace, third-person limited, throughout."
+  boundary: "Percy is shown only through speech and observable behavior. The photograph's source, date, photographer, storage path, and reason for being in Percy's bag remain unknown. Only Percy and Annabeth remember autobiographical events from the erased future. No altered-childhood memories are supplied to Annabeth."
+opening_location: "Poseidon cabin"
+ending_location: "Breakfast table; camp dining area"
+characters_and_ages: ["Annabeth (age unspecified)", "Percy (age unspecified)", "Thalia (age unspecified)", "Clarisse (age unspecified)", "Silena (age unspecified)"]
+scene_locations:
+  - "Poseidon cabin"
+  - "Hill"
+  - "Path beside the shrine and drainage work area"
+  - "Zeus table at dinner"
+  - "Lake bank"
+  - "Breakfast table"
+participants:
+  primary: ["Annabeth", "Percy"]
+  other: ["Thalia", "Clarisse", "Silena"]
+  offstage: []
+active_relationship_tensions:
+  - "Annabeth loves Percy and chooses their present relationship, while needing freedom to shape it without treating a remembered future promise as an obligation."
+  - "Annabeth wants to belong to Thalia as her sister while acknowledging she has no first-person memories of their altered-history childhood."
+last_shared_scenes_and_chapters:
+  - "Percy and Annabeth share the established relationship and prior-life memories; Chapter 108's practice is their immediately preceding verified shared scene."
+  - "The drainage sketch and unresolved shrine questions continue from earlier shrine inspections; no maintenance result is established here."
+forms_of_address_and_existing_intimacy:
+  - "Percy and Annabeth remain an established, age-appropriate, nonsexual romantic couple. Annabeth chooses a kiss and hand-holding in this chapter."
+firsthand_events_remembered:
+  - "Annabeth and Percy remember their erased-future relationship and selected experiences, but the chapter does not disclose those memories to anyone else."
+  - "Annabeth and Percy make present-day decisions about the photograph, private memory cards, and how to continue their relationship."
+  - "Annabeth makes a present-day sketch of the shrine from two viewpoints and records which edges are visible, obscured, or unexplained."
+  - "Annabeth sketches Percy and herself at the lake from direct observation."
+secondhand_knowledge_and_source: []
+secrets_unknown_to_each_character:
+  - "Thalia is not shown or told the photograph's contents or the erased-future context. She respects Annabeth's choice not to discuss the private conversation at dinner."
+  - "No other character learns the erased-future memories or why the photograph is personally significant."
+prior_life_memories_percy_annabeth_only:
+  - "The photograph depicts Percy and Annabeth at New Rome University, but its photographer, date, provenance, and route into Percy's bag remain unknown. Neither character invents an explanation."
+  - "Annabeth remembers being happy in the pictured moment and recalls a joke about the banner; she does not reconstruct a complete account of the photo session or treat it as proof of every remembered future plan."
+  - "Annabeth recalls her interest in architecture but distinguishes memory from present choice. She draws the photographed facade as an uncertain image study and separately studies the present shrine from known viewpoints."
+injuries_and_care: []
+objects_gifts_and_projects:
+  - "Photograph: Percy keeps it in the inner pocket of his bag. Its provenance remains unknown. It is not shared publicly or marked."
+  - "Memory cards: Annabeth labels only selected subjects, including first meeting, blue candy, first plan, and a private 'not today' card. The cards are not an exhaustive record and no one is required to reveal private cards."
+  - "Architecture studies: Annabeth draws the photographed university facade on one side of a blank card, then uses its clean reverse for the present-day lake sketch. The two shrine viewpoint studies (one from the path facing the entrance, one from left of center) are on two separate cards in her own stack. Those shrine cards record view position, visible/obscured edges, relative positions only, and unresolved questions; they are not a repair plan. They remain with Annabeth's notes, separate from the drainage page and the double-sided facade/lake card."
+  - "Shrine drainage sketch: Returned to the outer pocket of Percy's bag, separate from the photograph. The foundation check, flow test, cause of the debris, and any repair remain pending. No debris or stones are moved."
+  - "Double-sided facade/lake sketch card: Annabeth turns the facade-study card over at the lake and draws the present-day pair on its clean reverse. She slips the card into Percy's inner bag pocket beside the photograph overnight. Percy returns it the next morning without writing on it; Annabeth sets it beside her breakfast, where it remains at the chapter endpoint. The photograph stays in the inner pocket; the sketch card's later location is not established."
+new_knowledge_or_promises:
+  - "Percy and Annabeth agree not to use remembered promises or plans to establish what either owes the other now. Their present relationship remains chosen, mutual, and open to change."
+  - "Annabeth states that Thalia's sisterhood is real in the current timeline while her own autobiographical knowledge of that childhood is absent. She does not fill the gap with invented memories."
+  - "Annabeth distinguishes what a drawing directly shows from perspective, inference, and unknown cause. The architecture study remains private and does not authorize shrine work."
+ongoing_plot_threads:
+  - "The origin and route of the photograph remain unresolved; preserve the source's uncertainty."
+  - "The shrine foundation and drainage questions await a proper maintenance check; no result or repair is established."
+  - "Annabeth's future education and plans remain undecided; the old photograph is not a present instruction."
+next_chapter_dependencies:
+  - "Chapter 110 begins the next day at the shrine; retain the unresolved maintenance questions and do not imply a completed inspection or repair."
+  - "The photograph stays in Percy's inner bag pocket. The double-sided university-facade/lake sketch card is returned from the bag to Annabeth's breakfast table in this chapter; its next location is unknown. The two shrine-viewpoint cards remain among Annabeth's notes."
+  - "Do not turn the remembered future promise into a binding promise or imply that Annabeth's present choice is permanent by obligation."
+unresolved_canon_questions: []
+qa:
+  preceding_chapter_close_checked: true
+  following_chapter_open_checked: true
+  canon_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true
+  whitespace_check_pass: true
+  hosted_actions_status: "Pending on final pushed PR #103 head."

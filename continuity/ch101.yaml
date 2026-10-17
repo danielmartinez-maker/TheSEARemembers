@@ -1,0 +1,135 @@
+chapter: 101
+title: "A Name for It"
+source: "chapters/101-a-name-for-it.md"
+status: "revised; 10,321 body words; local QA passed"
+chronology:
+  relative_time: "Breakfast the morning after Chapter 100's late-night close, through dinner; Chapter 102 opens the following morning. Exact date and year remain unknown."
+  sequence: "Breakfast; Percy and Annabeth's relationship conversation; Thalia's porch conversation; lunch; shrine shelf measurements and build; dinner; Clarisse repairs the shield rack and coaches Noah."
+  adjacent_gaps: "Chapter 100 ends late at night at Half-Blood Hill; Chapter 101 opens the next morning. Chapter 102 opens the morning after Chapter 101. Calendar date and year remain unknown."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Dining pavilion"
+  - "Hades shrine work area"
+  - "Cabin One porch"
+  - "Camp paths"
+  - "Arena and shield rack"
+participants:
+  primary: ["Percy", "Annabeth", "Thalia", "Clarisse", "Silena"]
+  other: ["Noah", "unnamed younger camper", "campers"]
+  offstage: ["Tyson", "Ella", "Beryl", "Jason", "Chiron", "Will", "Amphitrite", "Triton", "Poseidon", "Zeus"]
+preceding_scene_verified:
+  chapter: 100
+  locator: "chapters/100-the-thousandth-campfire.md, late-night Half-Blood Hill close"
+  context: "Percy and Annabeth remain established partners. Chiron has banked the campfire for morning. Tyson is last seen asleep beside Ella at the fire; his return to Cabin Three is not shown."
+following_scene_verified:
+  chapter: 102
+  locator: "chapters/102-not-a-competition.md, opening breakfast scene"
+  context: "The following morning Percy sees Annabeth teaching Noah spear footwork and recognizes his jealousy. Clarisse takes the fork he is bending; Silena distinguishes worry from distrust. This continues the established relationship rather than restarting it."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 101
+    earned_trust_or_conflict:
+      - "They remain established partners; Percy asks how the label feels in their current life."
+      - "Annabeth chooses to be his girlfriend now by her own choice; they keep the label and add 'favorite person' as a mutual nickname."
+      - "They agree to speak when something bothers them without turning every walk or gesture into a formal check-in."
+    what_each_remembers_firsthand:
+      - "Their present-day conversations, choices and affection."
+      - "Only Percy and Annabeth retain autobiographical memories of the erased life."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "No erased-life autobiographical memories are disclosed to another character."
+    new_change_this_chapter: "They affirm their current relationship choice and choose a shared nickname; no relationship restart occurs."
+    future_callback_required: "Keep their established relationship intact. Do not let old-life memories substitute for either person's present choice."
+  - pair: "Thalia / Annabeth"
+    last_shared_scene_chapter: 101
+    earned_trust_or_conflict:
+      - "Thalia remembers Annabeth arranging blocks so small figures could see out. Annabeth says she does not remember the blocks but believes Thalia."
+      - "Thalia says she can try asking before telling a long childhood story; Annabeth says Thalia need not hide every story."
+    what_each_remembers_firsthand:
+      - "Thalia remembers the childhood block scene from her own life. Annabeth does not remember it."
+    what_each_knows_secondhand:
+      - "Percy hears Thalia's account but does not acquire the childhood memory."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "They name the difference in their memories without resolving it or transferring knowledge."
+    future_callback_required: "Preserve the distinction between Thalia's remembered childhood and Annabeth's missing memory."
+  - pair: "Percy / Clarisse / Silena"
+    last_shared_scene_chapter: 101
+    earned_trust_or_conflict:
+      - "Clarisse repairs the shield rack and coaches Noah; Silena gives Percy half an orange after he reaches toward the orange on her plate."
+      - "Percy still owes Silena one whole orange."
+    what_each_remembers_firsthand:
+      - "Their present-day meals and the witnessed shield-rack lesson."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No family status changes; Percy owes Silena an orange."
+    future_callback_required: "Clarisse and Silena remain Poseidon's daughters and Percy's sisters; do not recast them as Ares or Aphrodite's children."
+  - pair: "Clarisse / Noah"
+    last_shared_scene_chapter: 101
+    earned_trust_or_conflict:
+      - "Noah asks for help carrying and turning with one shield. Clarisse gives a measured lesson and asks him not to speed up to prove himself."
+    what_each_remembers_firsthand:
+      - "Clarisse witnesses Noah's shield turn and his controlled retries."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Noah plans to try the one-shield turn again tomorrow."
+    future_callback_required: "Do not claim he mastered two shields or that this shield lesson is the spear lesson in Chapter 102."
+items_promises_injuries:
+  - item_or_event: "Thalia's right palm"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 101
+    current_status: "Cleanly wrapped; Thalia uses her left hand. No medical check, healing result or clearance is shown."
+  - item_or_event: "Thalia's paper schedule"
+    owner_or_people: ["Thalia", "Chiron"]
+    last_seen_chapter: 101
+    current_status: "Thalia says she should take it to Chiron. Delivery is not shown."
+  - item_or_event: "Shrine bookcase"
+    owner_or_people: ["Annabeth", "camp"]
+    last_seen_chapter: 101
+    current_status: "Frame is stable with backing attached and left to set. No books are loaded or moved. The empty check and one-at-a-time thin, broad and heavier book tests remain pending."
+  - item_or_event: "Silena's orange"
+    owner_or_people: ["Silena", "Percy"]
+    last_seen_chapter: 101
+    current_status: "Silena gives Percy half; he owes her one whole orange."
+  - item_or_event: "Shield rack and Noah's lesson"
+    owner_or_people: ["Clarisse", "Noah"]
+    last_seen_chapter: 101
+    current_status: "Clarisse supports the low rack post with a flat stone. Noah practices one controlled shield turn and plans to repeat it tomorrow."
+  - item_or_event: "Tyson's location / forge leave"
+    owner_or_people: ["Tyson", "Ella"]
+    last_seen_chapter: 100
+    current_status: "Chapter 100 last shows Tyson asleep beside Ella at the fire. Chapter 101 does not show him returning to Cabin Three or resuming forge work."
+unresolved_tensions:
+  - "Exact date and year remain unknown."
+  - "Thalia's right palm remains uncleared, and delivery of her schedule to Chiron is not shown."
+  - "The shrine shelf has not been load-tested; the book list and any book movement remain pending."
+  - "Percy's promised orange for Silena remains owed."
+  - "Tyson's return from the Chapter 100 fire and forge work remain unshown."
+  - "Chapter 097's flexible dock board and closed north trail remain unresolved; Chapter 101 does not use either."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  character_memory_handoff_written: true
+  original_life_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true
+  source_anchored_memory_checks: 36
+  chapter_only_duplicate_windows: 1941329
+  chapter_only_duplicate_matches: 0
+  all_markdown_files: 196
+  all_markdown_body_words: 2150186
+  all_markdown_duplicate_windows: 2091881
+  all_markdown_duplicate_matches: 0
+  indexed_chapters: 193
+  ordered_chapters: 193
+  length_passing_chapters: 193
+  short_chapters: 0
+  missing_body_words: 0
+  evidence_index_records: 193
+  python_compile_pass: true
+  whitespace_check_pass: true
+  hosted_actions_status: "Historical PR-triggered workflows passed on earlier revisions; they do not certify the current candidate. Check hosted results for the latest pushed commit."

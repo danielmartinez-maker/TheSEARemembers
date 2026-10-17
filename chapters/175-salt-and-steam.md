@@ -38,11 +38,11 @@ It was older than the cabin and it did not look like the cabin at all. Black til
 
 Percy stopped three steps in.
 
-The smell hit him before the water did. Salt. Not sea salt, not the Atlantic, not the lake, which smelled of pine roots and cold mud and reeds. This was the other thing: clean mineral salt in warm air, the exact smell of the corridor outside his mother's rooms in the deep palace, where the water was kept warm in winter and the pools were lit from below and everything in the world was the temperature of a held breath.
+The smell hit him before the water did. Salt. Not sea salt, not the Atlantic, not the lake, which smelled of pine roots and cold mud and reeds. This was the other thing: warm mineral salt, and with it a tug of familiarity he associated with the deep palace. The association offered no room or event, only an ache of wanting he could not quite place.
 
-He stood there in a camp hall in October and was nine years old, and the wanting came up under his ribs so fast and so hard that he had to look at the far wall for a second and read the patched brick like a sentence.
+He stood there in a camp hall in October, and the smell of warm saltwater brought up a wanting under his ribs, so fast and hard that he had to look at the far wall for a second and read the patched brick like a sentence.
 
-The smell was not the memory. That was the part he had learned this year and kept learning. The smell was a smell. The palace was somewhere he had put his things, and the warm salt water in a black room was a Tuesday, and both of those things could be true at once without either of them being false.
+The smell was not a memory. That was the distinction he had been learning to keep this year. The smell was a smell; what came with it was a wanting without a scene attached. The palace was part of his life even when the details would not come, and the warm saltwater in this camp hall belonged to Tuesday. Both could be true without the smell supplying a memory he did not have.
 
 "You've gone somewhere," Annabeth said, at his elbow.
 
@@ -204,7 +204,7 @@ After that they did the statue game.
 
 It was Clarisse's invention, which meant it had rules and no name, and it went like this: shallow end, bottom of the water, sitting, whoever stayed down longest without moving wins. No pushing off. No surfacing. Thalia, who had competitive opinions about everything, went first and stayed under for fifty-one seconds with her arms folded and her hair floating around her head like smoke, and came up furious about a number that nobody had asked her for. Marcus, who had come back for his goggles, went under for thirty and came up laughing. Clarisse did forty-four, without hurrying, and got out and said "Fifty-one's nothing, she was on a ridge for four days," which was her way of admitting defeat.
 
-Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble with it: the warm salt water and the light made an old room of his head for a moment, a room with a lit pool and a voice calling him in for dinner, and he had to choose, down there, deliberately, to come up.
+Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble with it: the warm saltwater and the light stirred a wish to stay somewhere he could not picture. It was only a bodily tug, not a memory he could follow; he had to choose, down there, deliberately, to come up.
 
 He chose. He came up with his ears roaring and the steam on his face and took a breath that was all November-cold by comparison, and there was Annabeth on the edge with her field book closed, watching him, and the look on her face was the look of somebody who had counted the whole thing and had already been worried and had decided in advance not to say so.
 
@@ -462,7 +462,7 @@ He was one of the younger ones, eleven or twelve, in a coat two sizes too big, a
 
 "That's us."
 
-"Nothing for you. Two for the cabin, went in the box." He hitched the satchel. "But the news is that we've got a returner, so they said tell the tables. Calder's back Friday. Rhys Calder. Apollo. He's been gone a year at a school in Maine the whole time, and he's coming back for the winter."
+"Nothing for you. Two for the cabin, went in the box." He hitched the satchel. "But the news is that we've got a returner, so they said tell the tables. Calder's expected back Friday. Rhys Calder. Apollo. He's been gone a year at a school in Maine the whole time, and he's coming back for the winter."
 
 Thalia took a drink of her cocoa and said, in a voice of absolutely no interest whatsoever, "Who cares."
 
@@ -488,7 +488,7 @@ Annabeth did not say anything for a full minute, which was generous, and then sa
 
 Thalia put her mug down on the rail and pulled her feet in and let her head go back against the wall, and looked up at the porch roof, and then past it, where the sky was clear for the first time in two days and the stars were doing their early-October business over the pines.
 
-"I've spent my whole life being the one who arrives," she said, in a flatter register than the porch had been using. "At every house, at every school, in every room. I'm the one that shows up and stands in the door and does the count and figures out where the exits are and what the grown-ups want to hear. He's going to walk in here Friday and he's going to be somebody who *gets back*, which is a thing I've never once been, and everybody's going to look at him like he did something."
+"I've spent my whole life being the one who arrives," she said, in a flatter register than the porch had been using. "At every house, at every school, in every room. I'm the one that shows up and stands in the door and does the count and figures out where the exits are and what the grown-ups want to hear. He's supposed to walk in here Friday and he's going to be somebody who *gets back*, which is a thing I've never once been, and everybody's going to look at him like he did something."
 
 "He went to school."
 
@@ -506,7 +506,7 @@ Thalia was quiet a while.
 
 "Two days," she said at last. "I'll be asleep tonight."
 
-"See that you are." Annabeth stood and gathered the cups, then stopped in the doorway with her hand on the door and said, without looking back, "Also, mail day's Thursday. If he's back for the winter, then he wrote to somebody before he came, and it comes up the hill in a bag with everybody else's, and you'll be standing right there when the Hermes kid reads his name out. Plan for that instead — he's coming back on the Friday and the letter will already be a day old by then."
+"See that you are." Annabeth stood and gathered the cups, then stopped in the doorway with her hand on the door and said, without looking back, "Also, mail day's Thursday. If he's back for the winter, then he wrote to somebody before he came, and it comes up the hill in a bag with everybody else's, and you'll be standing right there when the Hermes kid reads his name out. Plan for that instead — if he's back on Friday, the letter will already be a day old by then."
 
 "You're a menace."
 
@@ -516,11 +516,11 @@ Thalia was quiet a while.
 
 Percy woke at three in the morning because the cabin was warm, which the cabin had never once been in the middle of the night since June.
 
-He lay in his bunk a while with his eyes open, listening to it. There was the soft tick of the heater through the tile in the passage, going on and off in slow long intervals. There was the sound of water moving very slightly, which was a sound this cabin had never made at three in the morning, and which he had last heard through a wall in a palace at the bottom of the sea, in a room where he was nine, when somebody he loved was awake on the other side of it.
+He lay in his bunk a while with his eyes open, listening to it. There was the soft tick of the heater through the tile in the passage, going on and off in slow long intervals. There was the sound of water moving very slightly, which was a sound this cabin had never made at three in the morning, and which pulled up a feeling he associated with the deep palace: stone holding warmth, water nearby, the impulse to listen. It gave him no age, room, or person on the other side of a wall.
 
 He got up, because there was no version of him that lay there listening.
 
-The passage was warm. The iron door was warm. He stood in front of it with one hand flat on the iron, which was a thing he had done in the deep palace, exactly this, the flat palm on the warm door, listening.
+The passage was warm. The iron door was warm. He stood in front of it with one hand flat on the iron. The gesture felt familiar in the muscles of his palm, but it gave him no scene to set it in.
 
 He did not open it. He didn't need to. Behind it the hall was holding the whole evening in the dark: nine kids, four borrowed, one who couldn't swim who floated, a girl with a rake in October, a boy with two rivets in a pan and nine lanterns yet to hang, an elevator of wrong numbers climbing a tile wall that somebody was going to fix in the winter with a plumb line.
 

@@ -167,13 +167,13 @@ Percy saw Grover's hands tighten on his backpack straps. Grover's ears twitched 
 
 But Grover lifted his chin.
 
-"I have a searcher's license," he said. His voice was thin but clear. "Issued by the Council of Cloven Elders. And I am on a quest sanctioned by Olympus. You cannot turn away a sanctioned quest without cause."
+"I have a searcher's license," he said. His voice was thin but clear. "Issued by the Council of Cloven Elders. I'm a Searcher, and I'm traveling with a quest sanctioned by Olympus. I'm asking for passage for all four of us."
 
 The man blinked. For the first time he actually looked at Grover.
 
 "You memorized the rule," he said.
 
-"I memorized all the rules," Grover said. "Rule forty two. Any creature bearing a searcher's license and traveling with demigods on Olympus business must be granted passage through neutral doors. DOA Recording Studios is a neutral door."
+"I memorized all the rules," Grover said. "Rule forty two. Any creature bearing a searcher's license and traveling with demigods on Olympus business may petition for passage through neutral doors. DOA Recording Studios is a neutral door."
 
 Annabeth stared at him. Thalia raised her eyebrows. Percy felt a rush of pride so strong it hurt.
 
@@ -187,21 +187,13 @@ The cold fog curled around their ankles. The man studied Grover for a long momen
 
 Grover let out a breath. "It will?"
 
-"It will. We record everything." The man stepped aside and the glass doors swung open. Freezing air poured out. Behind the doors was a lobby of black marble and low gold lights. "Enter. Charon will process you."
+"It will. We record everything." The man tapped the clipboard and kept the glass doors shut. The cold light beyond them stayed out of reach.
 
-Thalia clapped Grover on the shoulder as they walked past. "Noted for bravery," she whispered. "Did you hear that?"
-
-Grover nodded, eyes wide. "I am going to throw up," he whispered back.
-
-"You can throw up in the Underworld," Thalia said. "Just warn me first so I can move."
-
----
-
-The person with the bone clipboard looked very disappointed when Grover cited the rule about neutral doors.
+The attendant did not move from the threshold. His eyes went from Grover's license to the four of them, as if he hoped one of them would decide the question was too much trouble.
 
 "It's a gate," the man said. "Not an invitation."
 
-"A neutral door," Grover insisted. "The council's rules say a searcher may petition for passage while accompanying a sanctioned quest."
+"I know," Grover said. His chin wavered, then steadied. "That's why I'm petitioning, not demanding."
 
 "And what does 'petition' mean, second-class searcher?"
 
@@ -249,7 +241,7 @@ Percy's stomach dropped at the last condition.
 
 The attendant's brown eyes moved toward him. "Especially if it's your mother. Every living visitor thinks their grief makes them an exception."
 
-Percy felt himself go rigid. He could hear Clarisse in his head telling him to make the man regret speaking like that. He could hear Silena telling him to listen carefully because he might be able to get more information if he didn't waste the chance on anger.
+Percy felt himself go rigid. He could hear Clarisse in his head telling him to make the man regret speaking like that. He could hear Silena telling him to listen carefully because he might be able to get more information if he didn't waste the chance on anger. He made himself keep his hands away from Riptide. If Grover's rule only earned them a hearing, Percy would not turn that hearing into a threat.
 
 "Then where do I ask about a soul's welfare?" he said.
 
@@ -260,6 +252,12 @@ It wasn't enough. It was also more than Percy had known five minutes earlier.
 Grover accepted the license back and thanked the attendant, although his voice shook. He didn't thank him for being unkind. He thanked him for stating the condition. Percy noticed the difference.
 
 When the glass doors opened, the cold air felt less like relief than an invitation he might regret accepting. He could cross the threshold as a living guest. Whether he would leave as one was not something the paperwork promised.
+
+Thalia clapped Grover on the shoulder as they walked past. "Noted for bravery," she whispered. "Did you hear that?"
+
+Grover nodded, eyes wide. "I am going to throw up," he whispered back.
+
+"You can throw up in the Underworld," Thalia said. "Just warn me first so I can move."
 
 ---
 

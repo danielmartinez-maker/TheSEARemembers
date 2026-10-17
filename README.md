@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 193 chapters and two bonus interludes into individual Markdown files, preserving the original manuscript text. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 193 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -14,6 +14,19 @@ Edit chapters independently using pull requests or direct commits. This is an un
 ## Canon and editing
 
 - [FIC_CONTEXT.md](FIC_CONTEXT.md): governing story bible, author decisions, continuity requirements, and chapter handoff template.
+- [Character memory ledger](continuity/CHARACTER_MEMORY_LEDGER.md): source-anchored relationships, past encounters, what each character remembers, and knowledge boundaries.
+- [Chapter memory handoff](continuity/CHAPTER_MEMORY_HANDOFF.md): mandatory per-chapter checklist for first meetings, earned intimacy, promises, objects, injuries and disclosure.
+- [Character-memory audit](editorial/audits/CHARACTER-MEMORY-2026-10-13.md): targeted confirmed repairs, with explicit limits on what has been reviewed.
+- [Character-memory regression check](scripts/check_character_memory.py): tests source-anchored relationship facts and lists possible first-introduction dialogue for manual review; also runs in GitHub Actions.
+
+## Current PR candidate and local QA (October 17, 2026)
+
+- [Evidence-backed four-phase execution record](editorial/audits/FOUR-PHASE-EXECUTION-2026-10-13.md): what passed, what was revised and what remains incomplete.
+- [Per-chapter machine-generated continuity cue index](continuity/evidence/generated-ch001-193.md): 193 chapter locators; witnesses, relationships and secret knowledge explicitly **unverified** until human scene review.
+- [Full-manuscript QA report](editorial/audits/generated-full-manuscript-qa.md) and [structured data](editorial/audits/generated-full-manuscript-qa.json): fresh strict local QA on PR #103 head `a88e710` finds **193/193** ordered chapters at or above 10,000 body words, zero shortfall, and zero exact cross-chapter matches across **1,942,117** every-offset windows. The chapter-plus-bonus scan covers **196 files**, **2,150,974 body words** and **2,092,669 windows**, also with zero exact matches. All **45** source-anchored memory regressions pass; structure and the 193-entry evidence index rebuild pass. Hosted [full manuscript QA, run 514](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39071817916) and [character memory checks, run 253](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39071817913) passed on that exact head. Later work refines continuity/audit documentation only; no chapter text has changed since that hosted pass. Check PR #103 for validation on its latest documentation head. Mechanical checks do not certify every scene's continuity or prose quality.
+- [Continuity coverage map](continuity/character-states/README.md): ledger-backed full-scene review covers **193/193** chapters. All **50** character-state profiles contain selected, source-linked timelines and now include exact-name candidate locator sweeps with explicit review limits. A locator hit is not proof of presence or knowledge, and candidate scenes not covered by a cited event remain unverified; these profiles are not exhaustive person-by-person, chapter-by-chapter matrices. Bounded scene checks corrected Annabeth's premature age label in Chapter 128 and left Silena's Chapter 038/041 age discrepancy unresolved because the intervening birthday/date is unknown. The full cross-character semantic reconciliation and independent whole-novel style review remain incomplete.
+- [Expansion handoff queue](editorial/handoffs/55-short-chapters-execution-queue.md): the mechanical shortfall is now zero. All 193 chapters pass the 10k body-word threshold; independent whole-novel literary and semantic review remains open.
+- [Auditing scripts](scripts/full_manuscript_qa.py) and [CI workflow](.github/workflows/full-manuscript-audit.yml). Mechanical QA does not certify every scene's continuity or prose quality.
 
 ## Editorial audit progress
 
@@ -23,4 +36,4 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Chapters 27–66 batch overview](editorial/audits/BATCH-027-066.md): 40 individual source-referenced audits and GitHub revision issues
 - [Chapters 67–193 batch overview](editorial/audits/BATCH-067-193.md): all 127 chapter screenings, exact-duplication results and [priority backlog issue #97](https://github.com/danielmartinez-maker/TheSEARemembers/issues/97)
 
-Audits document proposed fixes. The chapter prose remains unchanged until edits are separately made and reviewed.
+Audit records distinguish completed scoped revisions from proposed fixes and screenings. Whole-novel scene review, semantic repetition review and independent literary signoff remain incomplete.

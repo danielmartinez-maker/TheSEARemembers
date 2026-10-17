@@ -1,0 +1,77 @@
+chapter: 68
+title: "The Storm (Small)"
+source: "chapters/068-the-storm-small.md"
+status: "expanded to 10,328 actual body words; independent literary review open"
+time: "April, after Chapter 067 fishing and before Chapter 069's Friday campfire"
+pov: "Annabeth Grace third-person limited in new material"
+location:
+  - "arena and dry flag practice area"
+  - "dining pavilion and Big House"
+  - "camp freshwater lake edge"
+  - "Big House porch during evening storm"
+age_and_family:
+  - "Annabeth is Thalia's younger sister, daughter of Zeus, Percy's established girlfriend"
+  - "Clarisse and Silena are Poseidon daughters and Percy's sisters; Sherman and Bryce are Ares campers, not Clarisse's brothers"
+  - "Percy and Annabeth alone have first-person erased-life memories"
+source_anchored_events:
+  - id: C068_A
+    certainty: confirmed
+    witnesses: ["Percy","Clarisse","Annabeth","Sherman"]
+    event: "Clarisse coaches Percy's left guard slowly after repeated knockdowns, carefully accounts for his minor previous-day dock scrape"
+    must_carry: "Clarisse and Percy remember her practical instruction; the scrape was not treated as a serious new injury"
+  - id: C068_B
+    certainty: confirmed
+    witnesses: ["Thalia","Annabeth"]
+    event: "Thalia practices verbal exit drills for interpersonal provocations, especially insults aimed at Percy"
+    must_carry: "Annabeth knows the stop plan and still fails to use it at lunchtime. Knowledge of a safety plan does not make execution automatic"
+  - id: C068_C
+    certainty: confirmed
+    witnesses: ["Percy","Annabeth","Bryce","Chiron","Thalia","Silena","several campers"]
+    event: "Bryce spreads false Mill Creek retrieval allegations; Annabeth emits a single unintended bolt into an unoccupied bronze brazier, with no recorded injury and visible floor damage"
+    must_carry: "Bryce does not gain any Percy/Annabeth erased-life knowledge. Chiron addresses both the unsafe discharge and Bryce's bullying"
+  - id: C068_D
+    certainty: confirmed
+    witnesses: ["Annabeth","young Hermes camper","Thalia","Chiron"]
+    event: "Annabeth asks whether the frightened child wishes to talk; he asks to be left alone, and she complies"
+    must_carry: "No forced forgiveness or inferred trust reset; he may still be unsettled at dinner"
+  - id: C068_E
+    certainty: confirmed
+    witnesses: ["Annabeth","Thalia","Apollo camper","Beckendorf"]
+    event: "Annabeth helps relocate chairs, informs Beckendorf about the discharge for inspection; distorted brazier corner is taken out of service pending Chiron's decision"
+    must_carry: "No instant repair, approval or magical removal of scorch mark. Nearby Apollo campers are allowed to be uneasy"
+  - id: C068_F
+    certainty: confirmed
+    witnesses: ["Annabeth","Percy","Thalia","Silena","Bryce","camp dining participants"]
+    event: "Annabeth publicly apologizes for her discharge; Bryce separately retracts his false accusations; Percy accepts Bryce's apology to Percy but explicitly does not decide whether Annabeth forgives Bryce"
+    must_carry: "Percy and Annabeth distinguish forgiveness; Bryce's future conduct must earn further trust, no automatic absolution for insult"
+  - id: C068_G
+    certainty: confirmed
+    witnesses: ["Annabeth","Percy","Silena","Thalia"]
+    event: "Percy admits Annabeth's static gave him a small sting during his risky grounding attempt; Annabeth insists neither Percy nor lake water should be treated as a lightning path"
+    must_carry: "Safe response is withdrawing from people/metal to an instructor-approved location, telling Thalia or Chiron early; current safety draft is not a medically verified guarantee"
+  - id: C068_H
+    certainty: confirmed
+    witnesses: ["Annabeth","Silena","Thalia"]
+    event: "Silena agrees to remind Annabeth of her own request to withdraw from escalating disputes; Thalia agrees to read Annabeth's draft later"
+    must_carry: "No proof Thalia has already reviewed or signed off the revised emergency plan"
+injuries_and_props:
+  - "Percy's minor shoulder scrape from Chapter 067 is explicitly recalled, with movement checked"
+  - "No serious electrical injury confirmed; Percy admits a small sting"
+  - "Pavilion bronze brazier damaged, removed from service; marble scorch mark remains pending clearance"
+  - "Annabeth's folded emergency-plan draft remains in her notebook for expert review"
+  - "Thalia's chalk slate used for words-first training"
+knowledge_limits:
+  - "No disclosure of Percy/Annabeth's erased future to Bryce, Sherman, Apollo/Hermes campers or Chiron in these added scenes"
+  - "Other campers know only visible present events and any actually public apology"
+next_chapter:
+  number: 69
+  opening_checked: true
+  handoff: "Chapter 069 opens a Friday April campfire with Silena being asked to sing. Do not reset Annabeth's public discharge, Bryce's apology, or new Percy/Thalia/Silena safe-exit responsibilities."
+qa:
+  body_words: 10328
+  previous_chapter_last_scene_checked: true
+  following_chapter_first_scene_checked: true
+  full_duplicate_scan: "193 chapters; 1941329 chapter windows checked, zero exact cross-chapter matches; bonus-inclusive scan: 196 files, 2150186 body words, 2091881 windows, zero exact matches"
+  manuscript_length_gate: "193/193 chapters at or above 10000 body words; zero shortfall"
+  source_anchored_memory_groups: "36 passed; one Chapter 014 lexical introduction cue manually reviewed as valid"
+  independent_literary_signoff: false

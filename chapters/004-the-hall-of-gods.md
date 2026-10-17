@@ -1,10 +1,8 @@
 ## Chapter 4: The Hall of Gods
 
-The Hall of the Gods stood at the center of Camp Half-Blood like a marble accusation.
+The Hall of the Gods occupied the green where Percy remembered campers setting up folding tables for festivals. Its twelve columns were impressive, but he noticed the ordinary marks first: wheel scuffs near the north doorway, a mason's patch beside a seam, and a scratched service path where heavy lamps had been carried around the mosaic. Somebody had planned, paid for and maintained the place. He wanted to know who.
 
-It was beautiful — there was no denying that. Twelve columns of white stone supported a roof carved with scenes from the Trojan War, and the floor was a mosaic of Olympus itself, each tile placed with impossible precision. But to Percy, who remembered the original camp's simpler layout, the building felt like an intrusion. A reminder that the divine had stamped its authority on this place in a way it never had before.
-
-Cold marble leaching through his shoes, he stood at the entrance, staring up at the carved lintel while wind hissed pine-cold off the hill. The inscription read: *Know Thyself, Know Thy Father, Know Thy Fate.*
+Percy stood at the entrance as wind lifted the dust caught in the carved letters above him. The steps were damp in the shade, and the inscription looked freshly scrubbed compared with the masonry around it. The inscription read: *Know Thyself, Know Thy Father, Know Thy Fate.*
 
 "Noble, isn't it?"
 
@@ -200,9 +198,9 @@ She looked up. "Hey. What's wrong?"
 
 Annabeth's expression went statue-still. "No."
 
-"A daughter of Hecate told me. She said it was a big one — the kind that makes gods nervous. And she said it changed things. The camp, the rules about big three kids, the divine visitations — all of it happened after this prophecy was stolen."
+"Zoe from Hecate's cabin said Chiron told her a prophecy was stolen three years ago. She's seen repair records and building approvals from around that time, but she couldn't prove the theft caused any of it. I haven't seen the original report either."
 
-"Percy, that's..." Annabeth trailed off, her mind working. "If someone stole a prophecy, they knew what it said. They knew what was coming. And they used that knowledge to prepare — to change things in advance."
+Annabeth pulled an empty sheet toward her. "Zoe heard it from Chiron, and you heard it from Zoe. That's two people between us and the incident. Let's put their names down and find out what the records say before we call the timing meaningful."
 
 "That's what I'm thinking. The question is: who? And why?"
 
@@ -442,7 +440,7 @@ She pointed to the crossed-out lines beneath the new version. Percy squinted, tr
 
 The differences were subtle but significant. "Prince" instead of "son." "Three thrones" instead of "one." "Two sisters" instead of "one sister." And the final line had been changed from "darkness and fear" to "blood and fire."
 
-"Someone altered a prophecy," Annabeth said, her voice barely above a whisper. "They rewrote it."
+"Someone changed the wording on this page," Annabeth said. "That's different from changing a prophecy. We need to know who wrote each version and whether either is the Oracle's actual words."
 
 "But how? You can't just rewrite a prophecy — they're divine utterances. They come from the Oracle. They're—"
 
@@ -450,7 +448,7 @@ The differences were subtle but significant. "Prince" instead of "son." "Three t
 
 Percy's stomach turned. "Who would have that kind of power?"
 
-"I don't know. But whoever it's, they've been planning this for years. The changes to the camp, the altered rules, the increased number of big three kids — it's all connected to this prophecy. To whatever it says."
+"I don't know. Somebody altered a document, but that doesn't tell us which version was spoken, whether an error was corrected, or even whether the page is authentic. We need another source before we connect this to the families or the Hall."
 
 "And we're in it," Percy said, reading the lines again. "The prince of seas. That's me."
 
@@ -458,7 +456,7 @@ Percy's stomach turned. "Who would have that kind of power?"
 
 "Or maybe it's literal, and someone's trying to make it come true."
 
-They stared at each other in the darkness, the altered prophecy hanging between them like a blade.
+They copied the crossed-out words as carefully as the visible lines. Percy held the light while Annabeth noted each blot, correction and uncertain reading. Neither liked how little the document established, but an accurate copy could be checked against another record. A theory built on missing details could not.
 
 "We need to take this," Annabeth said, checking the path behind them.
 
@@ -694,7 +692,7 @@ Percy met the centaur's ancient eyes. "I'm already willing to die for the answer
 
 Chiron was quiet for a long moment. Then he said, "That's the question, isn't it? And I don't have an answer for you. I'm sorry."
 
-Percy stood and walked out of the office, and behind him, Chiron watched with eyes that had seen too much and understood too little and could do nothing to change what was coming.
+Percy walked out with Chiron's apology following him, heavier than the warning.
 
 ---
 
@@ -723,7 +721,7 @@ She showed him. The second version was different from both the original and the 
 
 "Three versions," Percy said, checking the path behind them. "Three different prophecies?"
 
-"Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "Whoever altered the original didn't destroy it. They layered over it. And underneath, the older versions are still there."
+"Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "We can't tell from these alone which version came first, or whether any copy changed after the Oracle spoke. But someone kept separate versions. If the attic has more, comparing them might show where the differences entered the record."
 
 "Can we find more?"
 
@@ -1001,7 +999,7 @@ The next morning, Clarisse found Percy at the training grounds.
 
 Percy's heart stopped. "How long have you been following me?"
 
-"Since the night you snuck into the Big House the first time. You're not as subtle as you think, Jackson." She was smiling, but her eyes were serious. "I followed you to the attic. Saw what you and the Athena girl were doing up there. Didn't interfere because I wanted to know what you were after."
+"Since the night you snuck into the Big House the first time. You're not as subtle as you think, Jackson." She was smiling, but her eyes were serious. "I followed you to the attic. Saw what you and Annabeth were doing up there. Didn't interfere because I wanted to know what you were after."
 
 "And now you know."
 
@@ -1025,7 +1023,7 @@ Not simply them. Other Big Three kids. Other investigations. Other people who ha
 
 He wasn't alone.
 
-Percy had never been less alone in his life.
+He wasn't alone in asking questions, which wasn't the same as already knowing these people. Nico had a ledger and his own suspicions; Silena had years of cabin work Percy had only begun to appreciate; Clarisse was still measuring his reliability one kept promise at a time. Percy made himself listen before deciding their reasons matched his.
 
 ---
 

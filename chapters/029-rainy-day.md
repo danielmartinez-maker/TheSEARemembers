@@ -190,7 +190,7 @@ Annabeth perked up instantly. "Is this the one Mom—"
 
 "Yeah," Thalia said, softer. "Yeah, this one."
 
-The Zeus cabin in the rain was the best place in camp, Thalia thought, even if she was biased. White marble went silver in storm light. The tall windows rattled pleasantly. The bronze braziers in the corners threw warm gold over everything. It smelled like rain and electricity and lemon polish. The spare bunk was neatly made, ready if Jason could ever visit from the Roman camp, lucky punk missing the flood, and Thalia's bunk was a disaster of blankets, and Annabeth's corner was impossibly tidy: books stacked by size, dagger sheath hung straight, a little framed childhood photo of her with Zeus at the Grand Canyon, his face in it identified for her by Thalia that Thalia pretended not to have stared at.
+The Zeus cabin in the rain was the best place in camp, Thalia thought, even if she was biased. White marble went silver in storm light. The tall windows rattled pleasantly. The bronze braziers in the corners threw warm gold over everything. The air smelled like rain and electricity and lemon polish. The spare bunk was neatly made, ready if Jason visited Camp Half-Blood again. Lucky punk, he'd missed the flood. Thalia's bunk was a disaster of blankets. Annabeth's corner was impossibly tidy: books stacked by size, dagger sheath hung straight, and a little framed childhood photo of her with Zeus at the Grand Canyon. Thalia had identified the man in it for Annabeth, though she pretended not to have stared at the picture.
 
 They sat on the floor around the low table, rain lashing the windows. Thalia produced a battered tin box. Inside was a deck of regular mortal playing cards, edges soft with age, the backs printed with faded airplanes. TWA. The box smelled like cigarettes and hairspray and old leather, even after all these years.
 
@@ -894,6 +894,4 @@ But for now: drizzle, gray light, his hand in hers, the whole camp breathing out
 
 Annabeth leaned her head on Percy's shoulder. He leaned his head on top of hers, damp hair tickling her forehead. They watched the rain.
 
-Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. They ignored her for one more minute. Just one more.
-
-Percy moved his hand nearer to Annabeth's. She took it without looking away from the rain. For another minute they listened to Thalia deal cards inside, comfortable enough not to answer her yet.
+Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. Percy shifted aside to leave the dry strip of doorway clear, then sat beside Annabeth again. They could hear Thalia deal the next hand while the drizzle worked through the gutters. When Thalia called that she was saving them a place, Annabeth answered that they were coming and kept hold of Percy's hand as they crossed the threshold.

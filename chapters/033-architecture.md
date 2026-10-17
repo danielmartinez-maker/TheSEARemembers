@@ -652,7 +652,7 @@ Annabeth raised her pencil high.
 
 "To us," she said quietly, but they heard her, and they cheered, and the sound rang across the hill and into the sky, where clouds gathered white and harmless, and the sun shone down on three olive trees and a circle of stones and a group of kids who, for once, had somewhere that was exactly theirs.
 
-The first real mistake happened before anybody began laying the mosaic.
+The following Saturday, before anybody began laying the mosaic, the first real mistake appeared.
 
 Beckendorf arrived from the forge with a stack of cut cedar lengths for the roof supports. They had been measured from the approved sketch and prepared the day before. He laid them out on the grass and asked Annabeth to check the labels against the work order.
 
@@ -780,7 +780,7 @@ They gathered around her. Outside, rain pattered against the roof. The half-buil
 
 ---
 
-Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them.
+Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them. This was the second work Saturday; the original plan reserved one final weekend for walls, mosaics, planting and finishing. She would keep that date only if the footing passed inspection and the corrected supports fit.
 
 Thalia appeared with the work schedule under one arm.
 

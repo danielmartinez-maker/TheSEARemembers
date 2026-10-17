@@ -1,0 +1,124 @@
+chapter: 118
+title: "A Message from Amphitrite"
+source: "chapters/118-a-message-from-amphitrite.md"
+status: "expanded to 10,320 body words by the current strict repository counter; semantic signoff pending"
+chronology:
+  - "The morning after Chapter 117's evening closing scene; Chapter 117's next-morning plan is not evidence of a completed Atlantis visit."
+  - "The invitation, camp planning, map work and pavilion decision occur before Chapter 119 opens amid storm-wrack and decorative damage; exact storm timing is not established here."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Canoe lake wall and shore"
+  - "Big House planning table"
+  - "Camp map and schedule-board work"
+  - "Canoe dock"
+  - "Dining pavilion"
+participants:
+  iris_message_witnesses: ["Percy", "Clarisse", "Silena", "Amphitrite"]
+  camp_planning_and_pavilion: ["Percy", "Annabeth", "Clarisse", "Silena", "Thalia", "Chiron"]
+preceding_scene_verified:
+  chapter: 117
+  locator: "chapters/117-a-day-apart.md#L597-L599"
+  context: "Percy and Annabeth end the prior evening close and make a mutual, unpressured plan to see each other the next morning."
+source_anchors:
+  - "Chapter 118 lines 57-86: Percy greets Amphitrite as Mom; she invites a short Atlantis visit and recognizes Clarisse and Silena from a prior camp lunch."
+  - "Chapter 118 lines 231-255: Annabeth asks to be invited as Percy's chosen person; he explicitly chooses her for herself and for their established partnership."
+  - "Chapter 118 lines 483-642: Percy dictates a brief personal acknowledgment addressed to Mom; it is a draft, not a sent message. Practical questions remain open."
+  - "Chapter 118 lines 647-884: the group sketches a portrait map, omits sensitive camp routes and leaves signatures blank until each person chooses to travel."
+  - "Chapter 118 lines 885-1065: the schedule board shows coverage still needs confirmation; no dates or trip approval are set."
+  - "Chapter 118 lines 1130-1214: the group decides only that each willing person may choose to go; Amphitrite's visit remains unbooked."
+  - "Chapter 119 lines 3-9: next chapter opens with storm-wrack and decorative damage at Cabin One."
+relationship_memory:
+  - pair: "Percy / Amphitrite"
+    first_meeting_chapter: null
+    last_shared_scene_chapter: 118
+    forms_of_address_already_used: ["Mother (Chapter 099)", "Mom (Chapter 118)" ]
+    earned_trust_or_conflict:
+      - "Amphitrite is Percy's established mother; this is not a first meeting."
+      - "She greets him warmly and invites his chosen camp family without making the visit an obligation."
+    what_each_remembers_firsthand:
+      - "Percy remembers their prior relationship and the recent visits in Atlantis that precede this chapter."
+      - "Amphitrite remembers Percy and the people she previously met at camp."
+    what_each_knows_secondhand:
+      - fact: "As a young child, Percy greeted Amphitrite by her first name."
+        source: "Triton told Percy; Chapter 118, line 439."
+    private_facts_not_known_to_other:
+      - "Amphitrite is not told Percy's erased-future memory or altered-childhood memory predicament."
+    new_change_this_chapter: "Percy accepts that he wants to visit and call her Mom; he has not accepted a date or disclosed the private memory situation."
+    future_callback_required: "Preserve the established mother-son relationship; do not make Amphitrite a stranger or give her knowledge of the secret."
+  - pair: "Percy / Annabeth"
+    first_meeting_chapter: null
+    last_shared_scene_chapter: 118
+    forms_of_address_already_used: ["Annabeth", "chosen person"]
+    earned_trust_or_conflict:
+      - "They are an established couple; Annabeth asks whether Percy wants her there for herself, not by default as Thalia's sister."
+      - "Percy chooses her personally and they plan together without treating the invitation as a commitment already made."
+    what_each_remembers_firsthand:
+      - "Both remember their shared current-life relationship and the invitation conversation."
+      - "Only Percy and Annabeth retain autobiographical memories of the erased future; this chapter adds no disclosure to anyone else."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Annabeth chooses to consider the visit as Percy's specifically chosen person."
+    future_callback_required: "Keep the relationship established and the travel decision conditional on practical details."
+  - pair: "Percy / Clarisse / Silena"
+    first_meeting_chapter: null
+    last_shared_scene_chapter: 118
+    forms_of_address_already_used: ["siblings", "sisters"]
+    earned_trust_or_conflict:
+      - "Clarisse and Silena are Percy's Poseidon siblings and each has agency over the Atlantis invitation."
+      - "Clarisse prioritizes security and camp privacy; Silena wants the gift to show genuine welcome. They resolve the map disagreement by sharing meaningful landmarks while omitting sensitive routes."
+    what_each_remembers_firsthand:
+      - "Percy, Clarisse and Silena witness Amphitrite's invitation and their own planning conversation."
+      - "Clarisse explicitly recalls their prior camp lunch with Amphitrite; Silena participates in the greeting, but gives no specific recollection here. Amphitrite says she remembers the lunch."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Clarisse is curious but awaits clear weapons and security expectations; Silena is eager; neither is recorded as having committed to a date."
+    future_callback_required: "Do not turn the unfinished map, tentative guest list or open security questions into settled commitments."
+  - pair: "Annabeth / Thalia"
+    first_meeting_chapter: null
+    last_shared_scene_chapter: 118
+    forms_of_address_already_used: ["sisters"]
+    earned_trust_or_conflict:
+      - "They are Zeus/Grace sisters. Thalia may attend only if camp coverage permits."
+    what_each_remembers_firsthand:
+      - "Both witness the camp-planning discussion and Thalia's conditional interest."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No new relationship status or erased-future disclosure."
+    future_callback_required: "Do not record Thalia as a confirmed traveler before coverage is settled."
+items_promises_injuries:
+  - item_or_event: "Draft personal acknowledgment addressed to Mom"
+    owner_or_people: ["Percy", "Chiron"]
+    last_seen_chapter: 118
+    current_status: "confirmed"
+    note: "Not sent; clean copy and practical follow-up remain pending."
+  - item_or_event: "Portrait map of camp with sensitive routes omitted"
+    owner_or_people: ["Percy", "Annabeth", "Clarisse", "Silena"]
+    last_seen_chapter: 118
+    current_status: "confirmed"
+    note: "Unfinished, drying, and unsigned; no traveler is added by default."
+  - item_or_event: "Atlantis dates, route, tide chart, weapons policy and guest arrangements"
+    owner_or_people: ["Percy", "Amphitrite", "invited camp family"]
+    last_seen_chapter: 118
+    current_status: "unknown"
+    note: "Questions are recorded; no reply, route, booking or camp coverage confirmation is shown."
+unresolved_tensions:
+  - "Whether travel dates can fit camp staffing and Thalia's duties."
+  - "Whether guests may carry weapons and what protection covers restricted rooms."
+  - "How Amphitrite will address and introduce each guest."
+  - "Which family members choose to go and what final gift they bring."
+open_canon_questions:
+  - "Exact date, route, transit duration, room arrangements and return options are not established here."
+  - "The scope of Amphitrite's prior memories of the camp lunch is not expanded beyond her explicit recognition."
+next_chapter:
+  chapter: 119
+  opening_checked: true
+  locator: "chapters/119-sisters-errand.md#L3-L9"
+  handoff: "The Atlantis trip has not started and no response has been sent. Chapter 119 opens amid storm-wrack and Cabin One decorative damage; this chapter does not establish the storm's timing or cause."
+qa:
+  body_words: 10320
+  previous_chapter_closing_scene_checked: true
+  next_chapter_opening_checked: true
+  prior_life_memory_boundary_checked: true
+  gifts_promises_injuries_carried_forward: true
+  full_manuscript_exact_300_token_check: "Final local QA on 2026-10-17: zero matching windows across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows / 2,150,338 body words across 196 files."
+  independent_scene_semantic_and_style_review: "pending"

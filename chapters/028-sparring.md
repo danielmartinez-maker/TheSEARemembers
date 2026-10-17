@@ -2,7 +2,7 @@
 
 Clarisse La Rue knew when someone was pulling their punches.
 
-She knew because her father was Poseidon, and the sea did not pull punches. She knew because she had been at Camp Half-Blood since she was eight years old, and she had sparred with every kind of kid — the scared new ones, the show-off Ares kids who came at her yelling, the Hermes kids who tried to cheat, the Apollo kids who apologized every time they landed a hit. She knew what holding back looked like. Shoulders tight. Blade slowing a half-second before contact. Eyes flicking away like you were sorry in advance.
+She knew because her father was Poseidon, and the sea did not pull punches. She knew because she had been at Camp Half-Blood since she was eight years old, and she had sparred with every kind of kid — the scared new ones, the show-off Ares kids who came at her yelling, the Hermes kids who tried to cheat, the Apollo kids who apologized every time they landed a hit. She knew the signs: shoulders tightening, the blade slowing a half-second before contact, eyes flicking away as though the fighter was already preparing to apologize.
 
 Percy Jackson fought like that, and it was driving her absolutely insane.
 
@@ -144,7 +144,7 @@ Percy bumped her shoulder with his. "You're still here."
 
 The doors banged open, letting in cold air and sunrise. Two figures stood silhouetted — tall and lean, with crackling static in the air around them.
 
-"Are you sea kids done being loud at dawn?" Thalia Grace called. She was fifteen, with black choppy hair and electric-blue eyes and a leather jacket over her practice clothes even indoors. Behind her, smaller and bright-eyed with a notebook already in hand, was Annabeth.
+"Are you sea kids done being loud at dawn?" Thalia Grace called. She was sixteen, with black choppy hair and electric-blue eyes and a leather jacket over her practice clothes even indoors. Behind her, smaller and bright-eyed with a notebook already in hand, was Annabeth.
 
 Annabeth Grace, twelve, daughter of Zeus, Percy's girlfriend in a life she alone remembered alongside him, even if their campmates had known them together for only weeks, and the only person at camp who took notes on sparring like it was a math test.
 
@@ -168,7 +168,7 @@ Percy looked at Clarisse, who was wringing out her bun and pretending not to lis
 
 Annabeth squeezed his hand. She knew about Atlantis and the childhood he could not personally remember, the way he knew about her fear of failing Thalia. They had talked about it on the Zeus cabin roof with blankets around their shoulders. She did not say anything now, just nodded and smiled in a way that said she was proud.
 
-"Tomorrow we do swords in the water," Clarisse announced. "Bring your knife, Chase. You and Thalia can use the shallow steps if you want."
+"Tomorrow we do swords in the water," Clarisse announced. "Bring your knife, Grace. You and Thalia can use the shallow steps if you want."
 
 "We will," Thalia said. "Someone has to show you how to actually fight while you two play mermaids."
 
@@ -840,18 +840,10 @@ Percy fell into step beside Clarisse, bumping her elbow.
 
 "Same time next week?" he asked hopefully.
 
-Clarisse pretended to think. "Same time next week. But you're teaching Tide-Breath to Silena from the start. And we're inviting Annabeth to do whiteboard tactics every Saturday. And Thalia has to bring marshmallows every time."
+Clarisse pretended to think. "Same time next week. I'll put my beginner sword lesson on the board. You're teaching Tide-Breath to Silena from the start, and we're inviting Annabeth to do whiteboard tactics every Saturday. Thalia has to bring marshmallows every time."
 
-"Deal," Percy said. "No holding back?"
+"Deal," Percy said.
 
-"No holding back," Clarisse said, and held out her fist.
+Clarisse held out her fist. He bumped it, and they headed for breakfast.
 
-He bumped it, and they headed for breakfast.
-
-Silena insisted Clarisse carry the muffin tin because it was hot. Clarisse complained that she'd spent a week fighting with practice swords only to be promoted to pastry delivery. Percy took one muffin before they reached the pavilion.
-
-"No holding back?" Clarisse asked him again.
-
-"Except for the food. You're not getting this one."
-
-She tried to snatch it anyway. Silena made them both go back and wash their hands.
+Silena insisted Clarisse carry the muffin tin because it was hot. Clarisse complained that she'd spent a week fighting with practice swords only to be promoted to pastry delivery. Percy reached for a muffin before they reached the pavilion, and Silena stopped him until he washed his hands. The first breakfast bell rang while Clarisse was still arguing that pastry delivery deserved a medal. They reached the pavilion with the tin still warm under the towel.

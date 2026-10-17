@@ -627,32 +627,26 @@ Percy sat with Annabeth on the back step of the cabin with a quilt around their 
 
 Annabeth drew her knees under the quilt and glanced back toward the path. It was getting dark enough that the turn by the reeds had disappeared. They had promised to be back before the lamps were needed.
 
-"Silena expects that letter tomorrow," she said.
+"Brine takes Tyson's letter tomorrow," she said. "At nine."
 
-Percy looked at her. "You're going to remind me right now?"
+"I know. It's on the shelf by the door."
 
-"You asked me to remind you if you forgot."
+"Silena checked it twice."
 
-"I haven't forgotten."
+"Once was enough."
 
-"You forgot the paper."
+"She knows that. It's how she worries."
 
-He put a hand in his pocket, feeling for the note he'd meant to answer. The folded sheet was still there. He had carried it through breakfast, the shoreline walk, and the whole afternoon without writing a word.
+Percy looked back toward the cabin, where the sealed letter waited with Clarisse's deliberately wrong cleat diagram, Thalia's postscript, and Silena's honey stick. He had put the words down. He had made the page carry something true. The ache had not gone anywhere, but it did not need another sheet to prove itself.
 
-"I didn't forget the paper," he said, taking it out. "I forgot the part where I write on it."
+"I keep thinking I should write something else," he said.
 
-"That is generally considered the letter."
+"Why?"
 
-Annabeth reached for her satchel and passed him her spare pencil. He balanced the note against his knee. For a moment the pencil hovered. Then he wrote three lines, crossed out one of them, and wrote something simpler in its place. He didn't let her read it. She didn't try.
+"Because it still hurts. Like if I fill another page, it'll count more."
 
-"Tomorrow," he said, folding the paper, "I'll ask Hermes cabin when the next mail leaves."
+"You miss him," she said. "It counts already."
 
-"That sounds almost like a plan."
-
-"Don't tell Clarisse. She'll put it on the board."
-
-He tucked the note away and helped Annabeth fold the quilt. The skiff was still below the bank, half in the dark shallows, but the walk up was a real distance and the last stretch had no lantern. She checked the trail before they set off. Percy took her hand on the uneven ground, where doing so was useful as well as affectionate.
-
-At the bend, he glanced back. The water was barely visible through the pines. He could miss a brother and still have a letter to write. Both things would be there tomorrow. He followed Annabeth uphill while the first lamps came on above the cabins.
+He took her hand, and they started up the path. At the bend, he glanced back. The water was barely visible through the pines. He could miss his brother tonight and still have a letter ready for the dock in the morning. He followed Annabeth uphill while the first lamps came on above the cabins.
 
 ---

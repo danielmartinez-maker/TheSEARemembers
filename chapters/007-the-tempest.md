@@ -1,6 +1,6 @@
 ## Chapter 7: The Tempest
 
-The night before the storm, the sky was clear enough that Silena refused to let anybody use the weather as an excuse for missing the work roster.
+The night before the storm, the sky was clear enough that Silena refused to let anybody use the weather as an excuse for missing the stores rota. Repairs were competing with training and the winter deliveries; one missing bracket could leave the ward crew waiting while another counselor insisted the entire stockroom had already been allocated. She had begun matching the order slips against actual crates rather than trusting the totals anyone handed her.
 
 Percy arrived at the stores with a toolbox, his repaired practice shield and a letter from Amphitrite that he had not quite decided how to answer. Silena was already there, counting brass fittings into small cloth bags. A stack of unused filter fabric stood beside the door, tied in rolls with green twine.
 
@@ -52,7 +52,7 @@ Thalia put the cord on the bench. "Chiron asked for this in case the canvas need
 
 "I gave her the updated map. She's helping Zoe compare the old measurements with the new ones, and Chiron knows where they are. You don't need to organize another expedition."
 
-Percy raised both hands in surrender. "I wasn't planning one."
+Percy raised both hands in surrender. "I wasn't planning one." Percy had been known to make arrangements before Annabeth agreed to them; he wasn't going to repeat that mistake with the Hall.
 
 Thalia glanced at the toolbox.
 
@@ -670,9 +670,9 @@ Afterward Percy caught up with Annabeth near the lake.
 
 "Maybe. We have to make sure we're not seeing patterns just because we expect them." Percy held up his bandaged arm. "I ran toward a thunderstorm yesterday. I'd prefer not to do that every time something reminds us of a quest."
 
-Annabeth glanced at the Hall beyond the trees. "I don't want to give up investigating."
+Annabeth glanced at the Hall beyond the trees. "I don't want to give up investigating," Annabeth said. "And I don't want you deciding which danger is worth facing on my behalf. We planned this together."
 
-"I'm not asking you to. Chiron said the ward was damaged. Zoe has the repair records. That's something we can check without guessing who rewrote our lives."
+"I'm not asking you to. Chiron said the ward was damaged; Zoe has the repair records. I ignored my own instructor yesterday and got lucky Chiron was there. I'd rather check those records with you now than make another guess about who rewrote our lives."
 
 "All right." She slipped her notebook out of her jacket. "Then let's start with what we know."
 
@@ -909,7 +909,7 @@ She considered the question instead of making a joke.
 
 Percy waited. The room was quiet apart from the little sound of Silena turning a page.
 
-"Amphitrite isn't Poseidon," Clarisse added. "If there's something you want to tell her, she might actually read it the way you mean it."
+"Amphitrite isn't Poseidon," Clarisse added. She tightened her greave strap and checked whether the buckle held before continuing. "She wrote to Silena and me about the watering project. She remembered the details. If you tell her something important, she might answer the actual question instead of asking whether you placed first in training."
 
 Percy looked down at his letter. He still couldn't tell her about Sally. He could tell her something he hadn't said to anyone outside camp.
 
@@ -947,7 +947,7 @@ Clarisse carried her gear to the rack and paused at his desk.
 
 She considered taking the paper anyway. Percy could see it in the way her hand hovered near the desk. Then she left it alone and went back to her bunk. The choice made him smile.
 
-He finished the letter with a few concrete details about camp: the taste of the pavilion's strawberry bread, the frogs that kept appearing near the cabin drains, and his plans to visit Atlantis when the next safe leave was arranged. He promised to write again without claiming a date he couldn't keep. He signed his name, folded the page and sealed it.
+He finished the letter with details Amphitrite could picture without needing a counselor's report: strawberry bread, frogs by the drains, Silena correcting his inventory marks, and Clarisse showing him how to keep the wooden panther out of the rain. He said he wanted to visit Atlantis when leave was safe, not that anyone had agreed on a date. He wrote *I love you* before his name, a phrase he could now mean without needing to pretend he remembered every year she had raised him. He sealed the letter and placed it under his water cup as Silena had instructed. It had not been sent yet.
 
 The envelope lay under his water cup where Silena had told him to put it.
 
@@ -983,6 +983,6 @@ Percy laughed softly. "I'll make sure it's a more interesting emergency."
 
 He lay down. The water channels beneath Cabin Three carried their familiar sound under the floor, but above it he could hear the rain beginning to ease. The Hall still had damaged wards, the camp still needed more patrols, and nobody could promise that another storm wouldn't arrive.
 
-Tomorrow he'd have to help with the repairs and deliver two letters.
+Tomorrow he would help with the repairs, give his incident report to Chiron, and hand the sealed personal letter to the messenger. Neither document counted as delivered just because he had written it.
 
 For tonight, the cabin was quiet, and the people who lived in it knew where he was.

@@ -1,11 +1,9 @@
 ## Chapter 19: The Brother Across the Country
 
 
-Thalia Grace woke up knowing something was going to happen.
+Thalia woke before the first conch because static was gathering around Cabin One's window latch. It wasn't prophecy. She had never dreamed in green mist or seen futures in her sleep; her body simply noticed the pressure before a storm. When she sat up, she realized Annabeth had been drawing for almost an hour. Pencil scratched across graph paper with a rhythm Thalia remembered from years when her sister covered the backs of motel receipts in sketches of imaginary houses.
 
-It wasn't oracle business. She wasn't an oracle. She didn't get prophecies in her sleep or wake up with green mist coming out of her mouth. It was older than that, more physical. The air tasted like ozone before a storm, coppery and sharp on the back of her tongue. Her hair lifted a little at the ends with static no matter how many times she braided it back. Below her bunk, in Cabin One — Zeus's cabin, which had gone from echoing and empty to crowded and cluttered in the last year — Annabeth was already awake, pencil scratching against paper.
-
-Thalia stared at the underside of the cabin roof for a long minute and listened to that pencil. Scratch, pause. Scratch scratch, pause. The rhythm of Annabeth thinking too fast for her hand to keep up.
+Thalia had watched Annabeth grow up through missed meals, Beryl's broken promises and finally the safety of camp. Annabeth believed those years were real when Thalia told her, but could not retrieve them herself. Their brother Jason was even farther away. He had been too little when they separated to remember much of the household at all. Chiron had worn a careful expression when Thalia delivered her patrol report the previous night. She couldn't stop wondering whether it meant news about Jason.
 
 "You've been up for an hour," Thalia said, her voice rough with sleep.
 
@@ -445,7 +443,7 @@ Jason blinked. He looked at the tall woman, who nodded encouragingly, then back 
 
 "I like strawberries," Jason offered. He took a half-step closer. The woman's hand stayed on his shoulder. "Are you really my sisters? Lupa said I had sisters. But I don't remember."
 
-Thalia found her voice. It tore coming up. "You were two," she said. "You don't have to remember. I'm Thalia. I used to carry you on my hip everywhere. You used to pull my hair and call me Lia. Lia, not Thalia, because you couldn't say the Th."
+Thalia found her voice. It tore coming up. "You were little," Thalia said. "I'm Thalia. I remember carrying you when you got tired. You called me Lia because the first part of my name was too difficult." She made herself stop before asking whether that meant anything to him. "You don't have to prove you remember it. I just wanted you to know I do."
 
 Jason frowned, thinking hard. "Lia," he repeated, testing it. Then, shyly, "I like that."
 
@@ -778,6 +776,6 @@ The boy at the fence caught her watching.
 
 "You're moving your feet before the shield," she said. "The instructor will show you how to keep both together."
 
-He tried again. Thalia watched until he made the correction, then continued toward the cabin. She would probably think about Jason every time she saw a younger camper practicing. That wasn't something she needed to stop. She could think about him without turning the memory into another reason to demand an answer the Roman camp wasn't ready to give. She could write again next week, ask Chiron what he had learned, and make sure Annabeth had room to build her own relationship with their brother.
+He tried again. Thalia watched until he made the correction, then continued toward the cabin. She would probably think about Jason every time she saw a younger camper practicing. Today she'd spoken to him directly and learned he had Roman teachers who corrected his stance before letting him carry heavier shields. The pending drawing and letters still needed dispatch authorization, but they were no longer an answer to a question about whether he was even alive. That wasn't something she needed to stop feeling. She could think about him without turning the memory into another reason to demand an answer the Roman camp wasn't ready to give. She could write again next week, ask Chiron what he had learned, and make sure Annabeth had room to build her own relationship with their brother.
 
 

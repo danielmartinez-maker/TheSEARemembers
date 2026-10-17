@@ -1,8 +1,8 @@
 # Chapter 038 editorial audit: Brothers and Sisters
 
-**Status:** Audit completed, prose unchanged.  
-**Source:** [Original chapter](../../chapters/038-brothers-and-sisters.md)  
-**Approx. lexical words:** 6,520 (not a retrospective minimum check).  
+**Status:** Earlier scene critique retained; a confirmed cross-chapter age correction was applied on 2026-10-17. Other editorial observations have not been revalidated against the current PR snapshot.
+**Source:** [Original chapter](../../chapters/038-brothers-and-sisters.md)
+**Approx. lexical words:** 6,520 (not a retrospective minimum check).
 **Rules:** `FIC_CONTEXT.md` and adjacent-chapter handoffs.
 
 ## Findings and proposed repairs
@@ -22,6 +22,12 @@
 ### 038-04 · Character distinction
 
 **Evidence:** [L113–324](../../chapters/038-brothers-and-sisters.md#L113-L324). Clarisse and Silena sometimes serve parallel roles of teasing and mediating. Give each a different cost or practical stake so they do not become interchangeable Poseidon sisters.
+
+### 038-05 · Age continuity — repaired
+
+**Evidence:** The former [L555](../../chapters/038-brothers-and-sisters.md#L555) described Silena as thirteen, while the canon opening baseline and [Chapter 041 L13–15, L731](../../chapters/041-ordinary.md#L13) both place her at fourteen. No source establishes an intervening age change that would explain the lower age.
+
+**Repair:** Changed “thirteen-year-old girl” to “fourteen-year-old girl.” No birthday, exact date, or elapsed interval was added. Ch041 remains unchanged.
 
 ## Material worth preserving
 

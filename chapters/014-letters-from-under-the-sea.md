@@ -2,7 +2,7 @@
 
 The gulls woke Percy before the conch did.
 
-That was wrong, and it bothered him for a full minute before he could name why. Since returning in Atlantis, he had heard siren-gulls singing outside the palace windows and silverfin darters clicking against the glass. Amphitrite had explained the low morning hum of the city currents. None of it sounded like hoarse surface gulls fighting over a french fry near the canoe lake.
+Percy listened until he recognized surface gulls fighting over crumbs near the canoe lake. In the weeks he'd spent back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters tapping against palace windows. Amphitrite had named the birds and explained the quiet hum of the city currents. Those lessons were things he remembered from his recent visit; they were not proof that he could recall growing up in the palace. He could miss Amphitrite without knowing how to answer her stories about the little boy she'd raised.
 
 He lay in his bunk in Cabin Three and listened to them and felt homesick in a way that sat right behind his teeth.
 
@@ -30,7 +30,7 @@ His heart kicked up fast.
 
 He'd sent three letters down already. The first had been very formal because he'd been nervous: *Dear Mother and Father and Triton, Camp is adequate. Training is adequate. Food is adequate.* Silena had read it over his shoulder and said, "Percy, you sound like a tax form," and made him rewrite it. The second had been better. The third had been three pages about Annabeth's laugh and Grover's panpipes and Clarisse suplexing a hellhound dummy and then asking if the palace kitchen still made that sea-plum jam.
 
-He hadn't gotten anything back yet. The sea didn't do fast mail. You had to seal letters in sharkskin, give them to a hippocamp courier, hope they didn't get distracted by a school of tuna on the way down the continental shelf. Or you waited for an Iris-message slot, which cost drachmas and good weather and somebody on the other end who knew how to aim a rainbow through five thousand feet of water and a palace ward.
+He hadn't seen an answer yet. The sea didn't do fast mail, and Percy refused to turn the delay into a story about Amphitrite forgetting him: she had written first and asked him to tell her about camp. Waiting for a reply was new enough to make him restless without accusing anybody of neglect. You had to seal letters in sharkskin, give them to a hippocamp courier, hope they didn't get distracted by a school of tuna on the way down the continental shelf. Or you waited for an Iris-message slot, which cost drachmas and good weather and somebody on the other end who knew how to aim a rainbow through five thousand feet of water and a palace ward.
 
 08:00 by the lake. Percy checked the clock nailed to the wall. 07:42.
 
@@ -560,7 +560,7 @@ Annabeth laughed. "Does it work?"
 
 Their conversation should have ended there. Instead Annabeth remained beside the fence, twisting the end of the ribbon at her wrist.
 
-"Amphitrite doesn't know the person he used to be," she said quietly.
+"Amphitrite remembers a childhood Percy can't describe back to her," Silena said quietly. "He goes quiet when she talks about a room or a game from when he was little. I don't know what happened to his memory. I know he gets to decide what to tell her."
 
 Silena turned to her. The words could mean a dozen things, and none was a question she could reasonably answer. Percy had arrived with the kind of gaps in his recent history that frightened anyone responsible for a child. Silena knew he sometimes looked blank when Clarisse mentioned a family outing, then tried to disguise it with a joke. She had learned to let him have that moment.
 

@@ -216,7 +216,7 @@ Tapping the chair, Clarisse proposed, “We claim the slots we want. Anyone can 
 
 “Ask. Other person can decline.”
 
-She laid the words down like a weapon placed hilt-first where everyone could see. The pencil ticked against wood as she spoke, and late-morning sun caught the dust above the table, making it glitter. Percy caught the meaning underneath: fairness wasn't demanding whatever she wanted and labeling it equal. She refused to let their cabin become another arena where everyone braced for her to strike first, shoulders high, jaws set, waiting for the blow that never needed to come home.
+She laid the words down like a weapon placed hilt-first where everyone could see. Percy caught the point: fairness meant everyone could ask, and everyone could decline.
 
 “Works,” Silena said, writing *ask before swapping*.
 
@@ -504,6 +504,400 @@ Grateful glance from Silena before she bent back to the page.
 
 The chore roster stayed practical: dishes rotating daily, water spotted and steaming from the basin, the entry swept evenings with sand hissing across boards, the basin emptied every other day with a hollow glug, gear restored after training, leather and bronze clanking back onto pegs. Whoever spotted a repair flagged it instead of silently absorbing it, unless urgent — a frayed strap, a wobbling hinge, a crack threading the target frame.
 
+The new board gave them a map; it did not yet give them a safe path to the practice patch. The rope was still outside, dark with wet sand where it had lain across the narrow track. Percy could see the section that had made the path disappear: one loop caught under a driftwood stake, the rest stretched diagonally from the target net to a post near the gate. From the cabin door, the line had looked like a harmless coil. From the ground, it was a low barrier that could snag a heel or pull a target sideways if someone caught it at speed.
+
+Clarisse followed his gaze. “That's mine.”
+
+“The rope?” Silena asked.
+
+“The setup. I tied it there after practice.” Clarisse's voice held the bluntness she used for facts she would rather not discuss. “Was going to finish the drill today.”
+
+“You said you were done with it yesterday,” Percy said.
+
+“I was done throwing. Not done with the line.”
+
+“That distinction is clearer inside your head than on the path.”
+
+Clarisse looked at him, then at the rope. “Yeah.”
+
+Not an apology yet, but the first useful board test had begun: the sentence could be short and still count. Percy took down the map sleeve and held it flat against the plank. “Let's see where it should go. We can take the rope back out, but not until we decide where it lives.”
+
+Silena leaned over the penciled path. “The practice zone ends at the far target. The path stays open from the cabin to the water barrel. We marked it, so it isn't just whoever remembers.”
+
+“The target net needs a tie-off,” Clarisse said. “I use this line to keep the side from bowing when the tide wind comes through.”
+
+Annabeth pointed to the two posts on the sketch. “Could this one move to the inside edge? Then you can brace the net without crossing the path.”
+
+“Maybe. The post is in hard ground.” Clarisse crouched and pressed a thumb to the rope knot, testing how tightly it had bitten into the stake. “If we pull it straight out, it may split. Need to loosen the line first.”
+
+“Then let's do that,” Percy said.
+
+No one grabbed the rope at once. The pause had the awkward shape of a rule being asked to become muscle memory. Silena folded the dishcloth into a square and set it on the table instead of taking charge of the whole repair. Clarisse shifted the spear to her other hand, leaving the rope untouched. Percy waited for her to decide how she wanted the line handled.
+
+Clarisse exhaled through her nose. “I'll unfasten it. Percy, keep the loose end from whipping. Silena, check the ground by the path for anything else we left there.”
+
+“Got it.” Percy gripped the braided end with both hands. The fibers rasped across his palm, damp and gritty. Clarisse worked the knot loose with the tip of her knife, drawing the cord through one loop at a time. When the tension went, the line snapped upward with a dry twang. Percy held it low. It shivered through his hands, but did not lash across the track.
+
+Silena walked the route slowly. She nudged aside a split peg and found a leather wrist guard half-buried at the edge of the grass. “This was under the rope.”
+
+Clarisse's mouth flattened. “Mine too.”
+
+“So the clutter wasn't just one thing.” Percy moved the coil to the clear side of the path. “If someone runs out of the cabin, they'll hit it.”
+
+“Nobody runs out of the cabin.”
+
+“Someone did this morning.”
+
+“I came to get my spear.”
+
+“At speed.”
+
+“It was urgent.”
+
+“Was the target urgent?”
+
+Her nostrils flared, then she looked at the beam visible through the open window. A crescent of raw pale wood showed where the spear's tip had chewed it, and one narrow splinter lay on the tabletop beside the letter. The missed throw had not merely made a noise. It had left a hole above the place Percy sat to read, put a point within inches of him, and turned a shared practice space into a hazard for anyone passing through. His shoulders remembered the sharp crack before he could stop them.
+
+Clarisse followed his eyes. “I didn't aim at you.”
+
+“I know.”
+
+“I saw you after the release. Couldn't pull it back.”
+
+“I know that too.”
+
+“The rope cluttered the lane. My arm was already moving.” She sounded angry, but the anger was aimed inward now. “I should have stopped before I threw.”
+
+“And I should've put away the line when I was done using it,” Clarisse added after a moment. “Both can be true.”
+
+Silena picked up the leather guard, brushing sand from its stitched edge. “We should look at the beam before we use the table again. Not because anyone's in trouble. Because it caught a spear.”
+
+Clarisse nodded. “I'll tell Chiron. He'll want to check the wood.”
+
+“We can do that now,” Percy said. “And move the table until he looks.”
+
+“The table's fine.”
+
+“The spear hit above it.”
+
+Clarisse turned to the beam, assessing the small crater. She used the butt of her spear to test the wood around the mark; a dull knock answered from the center and a sharper one from the edge. No crack ran along the grain, but the point had gone deep enough that the chip curled outward like a little wooden wave. She lowered the practice weapon carefully. “Chiron should inspect it. We don't throw near the cabin until he says it's sound.”
+
+“That's a good call,” Silena said.
+
+“It's also obvious.”
+
+“Still a good call.”
+
+Clarisse looked at the rope in Percy's hands. “We can set the post in the inside corner. Target lane faces away from the cabin and the path. If the net needs bracing, the line runs along the ground behind the target, not across anywhere people walk.”
+
+“And anyone who leaves the rope out has to mark it or tell us,” Percy said. “A rope on the ground is hard to see in the grass.”
+
+“Don't add signs to every object,” Clarisse grumbled.
+
+“We already have bright markers.” Silena pointed at the small pail of orange floats beside the wall. “One at each end of the line when it has to stay out. If a marker isn't there, the rope gets coiled.”
+
+“That's workable.” Clarisse's hands moved as she described the placement, but she stopped herself before taking the line from Percy. “Want to help reset it?”
+
+The asking mattered. “Yeah.”
+
+They chose a place just beyond the target's back corner, where no one needed to cross the path to reach it. Clarisse pushed the post into a crack in the packed earth and tested the angle. It rocked. She leaned harder; the ground shifted under her boot, crumbling at the edge.
+
+“Too soft,” Annabeth said. “If it takes the line at full tension, it'll pull sideways.”
+
+Clarisse pressed the post once more, then withdrew it. “You're right.”
+
+Percy knelt and scraped away loose dirt with his fingers. Beneath the dry top layer, the soil was damp and compact; the post's point had been stopping in a shallow root. He could feel the water in the earth, but he let the material speak for itself before reaching for it. “There's a root here. If we move it a handspan toward the net, we miss it and still keep the path clear.”
+
+“Mark it,” Annabeth said, offering her pencil.
+
+Clarisse held the post while Percy scratched a small cross in the dirt. She shifted it to the mark and drove it down with the heel of her palm. The post sank in two steady inches, then held. Together they drew the rope along the back edge. Silena added one orange marker to each end, the floats bright against brown earth. The line still needed to be removed after drills, but while it remained, nobody could mistake where it was.
+
+“Now check it from the path,” Annabeth said.
+
+Percy returned to the cabin entrance and looked out. From that angle, the target blocked the far end of the rope, but the orange floats showed above the grass. The clear walkway ran from the door to the barrel and on toward the shore. He walked it both directions at an ordinary pace, then faster, looking down only once. His sandals didn't catch; his shoulders didn't have to twist around a hidden line.
+
+“Clear,” he called.
+
+Clarisse gave the post a firm tug. It stayed upright. “Not a full-load test. I'll do that with the net anchored when Chiron checks the beam.”
+
+“Write it under repairs,” Silena said. “Not a chore we pretend is finished.”
+
+“And the gear?” Percy asked.
+
+They each carried one item back: Clarisse returned the practice rope and the spare peg to their rack, Silena put the guard in the marked basket, and Percy brought a broken target staple to the repair tin. The practice spear went point-down into its slot, not leaned against the doorway. It took less than a minute when each person took one thing, and more than a minute when they tried to decide who should go first. Percy caught Clarisse eyeing the roster as if it were a challenge. He nudged the staple tin toward her.
+
+“Want to write down that the beam needs a check?” he asked.
+
+“I'll put it on the repair line.”
+
+“Then I can tell Chiron with you.”
+
+“Don't need an escort.”
+
+“Didn't say you did. I was there too.”
+
+She studied his face, then gave a brief nod. “Fine. We report what happened. No embellishing.”
+
+“No heroic version,” Percy said. “The practice spear wins again.”
+
+“It doesn't get a vote.”
+
+“Good. It'd demand a bigger rack.”
+
+They laughed, the sound small but real. The spot above the table remained marked for attention. The rope no longer crossed the path. Neither fact undid the near miss, but the board had become more than a declaration: it had helped them name a specific hazard, assign work without silently handing it to Silena, and leave one repair open rather than quietly pretending it was done.
+
+---
+
+Chiron came to inspect the beam while the afternoon was still bright. Clarisse had fetched him from the Big House, and Percy had kept the practice spear and the letter on separate sides of the worktable so the small splinter would not scratch either. The day had warmed the room; salt and sun-dried wood made the cabin smell less like a tide pool and more like a shed beside the shore. The unfinished cedar board rested against the table, its penciled map and open repair square visible from the doorway.
+
+Chiron examined the hole without touching it at first. He crouched, angled his head to sight along the driftwood, and ran a thin metal pick around the rim. A pale curl of wood lifted. “The beam is sound. The point went in deep enough to break the surface, not deep enough to split the grain.”
+
+Clarisse's jaw eased, but only a little. “Can we use the patch?”
+
+“Not for throwing until we have turned the target and put a proper backstop behind it.” Chiron stood and dusted his fingers. “The practice net is not a wall. If a spear misses, it must not continue toward a cabin window, doorway, or path. Today was a warning with a clean outcome. We should treat it as one.”
+
+Percy looked at the high beam. “I was at the table.”
+
+“I know.” Chiron's expression stayed steady, no blame placed in it. “The table can be moved while we inspect and repair this spot. The frame's too heavy for one person. We can shift it to the wall opposite the window, then check the beam again from the ladder.”
+
+Silena stepped toward the table, then stopped. “Who wants to take which end?”
+
+“I'll take the window side,” Percy said. “Clarisse, can you clear the chairs? Silena, the mugs and the letter are already off.”
+
+“I can move the chairs,” Clarisse said. She carried each one to the porch rather than stacking them on the route. The last chair's back caught the doorframe. She stopped, lifted it, and turned it sideways instead of forcing it through. The legs scraped once, a brief shriek that made Percy wince.
+
+“That didn't need a ceremony,” she muttered.
+
+“Doorframe's unhurt,” he said. “Chair survived.”
+
+Silena didn't reach for the chair's other end, though the instinct flickered in the quick movement of her hand. Instead, she collected the letter and tucked it beneath a clean cloth on the far table, safe from sawdust. “We'll keep the route to the door open. The tools can come in from the porch.”
+
+Chiron brought a short ladder from outside, its rungs worn smooth. Percy braced one leg while Clarisse held the other side. Chiron climbed only two steps, enough to tap around the puncture with a small mallet. The sound rang firm along the beam. He marked the edge of the hole with carpenter's chalk, then descended.
+
+“A hardwood plug will close it, but the repair can wait until the wood is dry. The wall is not carrying a roof load here.” He glanced at the marks. “I'll bring a proper plug and sealant after dinner. Until then, keep the table clear and keep every point facing away from the cabin. No throwing in this lane.”
+
+Clarisse held his gaze. “We can turn the target toward the berm.”
+
+“You can, once I have checked the berm and the net. Not before.”
+
+“Yes, sir.”
+
+It was not the answer she wanted. Percy could see that in the tight line of her mouth and the spear callus flexing across her palm. It was also not an order she could argue around, not after a point had flown through the cabin. She kept her grip loose and let the spear rest beside the marked weapon rack.
+
+Chiron saw her do it. “Thank you. A pause now keeps practice available later.”
+
+“I know.”
+
+“Knowing and stopping are separate skills.”
+
+Clarisse huffed, not quite a laugh. “Fine.”
+
+The table dragged when Percy lifted his end. A leg snagged on a floorboard seam, jolting the tabletop. He tightened his hands and felt the pull tug across his wrist. “Wait. One corner's caught.”
+
+Clarisse had already taken the far side, shoulders braced. She let the weight settle instead of hauling. “Where?”
+
+“Near your boot. Lift your end a finger.”
+
+“This?”
+
+“Little more.”
+
+Silena guided the leg past the seam with her toe. The table slid free in a short grind and settled against the other wall, leaving a clear strip between it and the door. Percy checked the route with Chiron: no chair, loose rope, or table leg remained where someone needed to walk. Clarisse retrieved the chairs, but placed two inside and two porchside, enough for the table's smaller arrangement without filling the doorway again.
+
+“We should put the furniture boundary on the board,” Silena said. “Not because the table can never move. Just so it goes back after repairs.”
+
+Clarisse crossed to the board. She copied the words **KEEP DOOR AND WALKWAY CLEAR** beneath the map. Then she marked a small open square beside the beam inspection. “Beam repair pending Chiron. Target and net pending inspection.”
+
+“Two separate checks,” Annabeth said, reading over her shoulder. “The plug doesn't prove the target's safe.”
+
+Clarisse nodded and divided the note with a clean line. “Two checks. Both stay open.”
+
+Chiron looked over their shoulders at the handwritten board. “A useful record. Make sure the next person who trains knows what those marks mean.”
+
+“We'll tell them,” Percy said.
+
+“And when you make a change, write it down before relying on the memory of whoever was there.” Chiron tapped the map sleeve. “This is a good beginning. Not a substitute for watching the space.”
+
+Clarisse turned toward the practice patch. The target stood at its old angle, its rope now removed and its net slack. “I can do footwork drills on the inside line. No throws. We can use the far side once the checks are done.”
+
+“That's reasonable.” Chiron gathered the ladder. “I'll return after dinner with the plug. Percy, you can help if you want, but the repair is my responsibility. You needn't prove the beam matters by fixing it yourself.”
+
+“Wasn't going to.”
+
+Chiron smiled faintly. “Good. You have other work.”
+
+After he left, nobody rushed to put the table back where it had been. Percy found a clean spot for Triton's letter, and Silena checked the newly open route from each bed to the door. One corner still held a basket of laundry, not on the path but close enough that its handle brushed the door when it swung inward.
+
+“That's ours to move,” she said. “I kept setting it there because it was convenient for me.”
+
+“It was convenient for getting in the way,” Clarisse said.
+
+Silena looked at her. Clarisse lifted a palm. “Not a criticism. We can choose a better spot.”
+
+They tried three locations. Under the shelf hid the laundry from sight but made the basket difficult to reach. Beside the bunks left one person stepping around it every night. The porch corner was convenient but caught the damp breeze, and the towels would take longer to dry. Annabeth measured the gap beneath the side table; the basket fit, but the handle needed to turn inward. Percy pushed it into place, then walked the doorway carrying a mug in one hand and his letter in the other. He passed without twisting his shoulder.
+
+“That works,” he said. “If it stays there.”
+
+“We'll put the marked spot on the map,” Annabeth said. “Shared furniture can have a home without becoming nailed down.”
+
+Silena used a strip of chalk to make a small rectangle on the floor, then wrote **LAUNDRY** on the board beside it. The basket sat neatly inside the mark. It seemed a silly amount of attention for a laundry basket, until Percy remembered the spear's path, the chairs at the door, and the rope underfoot. A room became unsafe by accumulation as often as by one dramatic mistake.
+
+Silena brushed the chalk from her palm. “I can stop being the only one who notices it.”
+
+“You can also notice it and leave it for whoever's on the roster,” Percy said.
+
+“That may be harder.”
+
+“Then it's a real rule, not just a sentence.”
+
+Her smile was tired but open. “All right.”
+
+Clarisse took the broom without being asked. “I'll sweep the entry before my slot.”
+
+Percy checked the board. “It's my turn today.”
+
+“Then I'll sweep this patch. You're on the entry.”
+
+“That's a swap.”
+
+“Ask,” she said, and gave him a look that made the word sound like a dare.
+
+He turned the question over as if weighing it. “Can we swap this once? I want to finish the beam note with Chiron after dinner, and the grit's tracked in from your training.”
+
+Clarisse considered the broom, the map, and his face. “Yes. I want the entry clean before I eat. You take the patch, I'll take the door.”
+
+“Deal.”
+
+The work took longer than the agreement. Sand had worked into the board seams, and the grain near the threshold held damp grit that dragged under the broom. Clarisse swept in short, forceful strokes, then slowed when dust rose into the light and began to coat the low shelf. Percy dampened a cloth and wiped the floor trim, catching the fine residue rather than sending it back into the cabin. Silena sat on the bed and peeled a loose thread from her sleeve, hands still, watching without scanning for the next task.
+
+When the broom was done, Clarisse hung it in the marked place and turned the brush end away from the wall. Percy signed the swap on the roster. Neither made a speech about fairness. The record only showed a change made by asking, with both names attached and the next day still open.
+
+“The rope stays coiled until Chiron clears the net,” Clarisse said. “Then it goes along the back edge, with markers. We end by removing it.”
+
+“I'll remember,” Percy said.
+
+“Write it down anyway.”
+
+He did. The note fit under the line for the target check, plain and small. A minute later, the board no longer looked like three siblings trying to solve the whole idea of living together. It looked like a place to put the next needed fact: the beam plug was pending; the net inspection was pending; the path and entry were clear; the basket had a home; the sweep had changed hands once by request.
+
+“That's enough for now,” Silena said, getting to her feet. “I'm going to eat something before another thing needs doing.”
+
+Clarisse glanced up, startled enough that her expression almost softened. “Good.”
+
+Percy was hungry too. The letters and maps could wait until after food. They left the board where everyone could see it, and the table against the safer wall.
+
+The board's first use as a schedule came when Clarisse asked to test the patch again. The sun had moved beyond the cabin roof and the path had dried where wet sand had darkened it. The orange markers flashed at the target's back edge. The practice rope ran clear of the walkway, but the net still needed the inspection they'd promised Chiron. Until then, Clarisse wanted to work footwork without throwing.
+
+“My slot starts now,” she said, pointing at the board's penciled blocks. “You two can use the patch later.”
+
+“The far side is open,” Percy said. “I can test the new route while you drill.”
+
+“No. The route crosses behind your stance.”
+
+The old Percy would have offered to be careful, as if carefulness could erase geography. Instead he looked at the map. The footwork lane ended nearer the cabin than the target lane. The drawn line had been made before they moved the rope, and the ground had changed since then.
+
+“We need to update the sketch,” Annabeth said. “The live space is different now.”
+
+Clarisse kept her spear angled down. “I'll finish the footwork first. Percy, can you mark the post and the rope's home spot on the map while Silena and I work?”
+
+“Sure.”
+
+“And not come through the lane.”
+
+“Understood.”
+
+Clarisse took her position with the spear in both hands, feet set shoulder-width apart. Silena counted each step from outside the marked area. The drill was simple: move, set, turn, recover. The first run went clean. On the second, Clarisse's back heel scraped the ground near the target's shifted base. She stopped before her balance went. Her spear lowered, its bronze cap brushing grass.
+
+“The mark's wrong,” she said.
+
+Percy checked the chalk line. “It was right before we moved the post.”
+
+“That's the problem with drawing the map before touching the ground.”
+
+“It's also why we kept it in pencil.” Annabeth joined them at the edge of the patch. “The drill should be safe at the space we have, not at the space we meant to have.”
+
+They moved two small stones that marked the footwork boundary. When Silena stepped back to watch, the nearer one rolled beneath her sandal and stopped at the path's edge.
+
+“Hold,” Percy called.
+
+Clarisse lowered the spear. Silena lifted her foot and looked at the stone, then at the chalk line. “A marker that moves when we walk beside it isn't marking much.”
+
+“Could use the orange flags,” Percy said. He went to the gear basket but stopped short of the practice lane. “Can you pass me two?”
+
+Clarisse gathered the flags and set them on the clear side of the line instead of tossing them. “These won't hold if someone kicks them.”
+
+“Then the marker shows the lane, but the map still carries the boundary,” Annabeth said. “And whoever drills checks the space before starting.”
+
+Clarisse pushed one flag into the firmer soil near the post. The other went in crooked, its wire base rocking when she tapped it. She moved it farther from the path and pressed until the base held. Then she walked the intended route once, hands empty, and came back without crossing the marked area.
+
+“Better,” Silena said. She shifted to the watcher spot. “I can still see both flags from here.”
+
+Percy walked back to the cabin doorway and sighted along the route someone would actually take toward the patch. The target hid the nearer flag from that angle.
+
+“Can't see it until you're already at the line,” he called.
+
+Clarisse moved the flag a pace toward the entrance, keeping it outside the walkway. From the doorway it showed; from Silena's watching place, the second flag still marked the turn. Percy approached with the broom held crosswise, then stopped at the first marker instead of crossing into the drill.
+
+“That's the warning,” Annabeth said. “The map needs both approaches.”
+
+Silena added a small arrow to the field sketch and wrote **CHECK BOTH SIGHTLINES BEFORE DRILL** beside it. Clarisse read the new note, then nodded.
+
+Clarisse shifted the start point, then repeated the sequence slower. Her heel landed clear of the post. She added one step to the recovery, giving herself a little more room to turn without crossing the path. The adjustment changed the drill, but it did not make it easier. On the next pass her stance loosened and the spear came around in a controlled arc.
+
+“That's the version,” she said. “Not the one I planned.”
+
+Percy smiled. “Could say the ground had feedback.”
+
+“The ground doesn't talk.”
+
+“It rocks your post, though.”
+
+“It does that.”
+
+Silena wrote the post location and revised boundary on the paper map. Percy checked the board's visible path against the actual trail one more time. They added a small diamond where a repair check remained open, then a dot where the rope belonged when stored. The space looked simpler on the board than it had felt underfoot, but the marks corresponded to something they'd done: clear the path, anchor the line away from traffic, move a drill that no longer fit, and assign the next check to Clarisse and Percy together.
+
+“Can we call the patch open again?” Silena asked.
+
+Clarisse glanced toward the cabin beam. “For footwork and the low target, yes. No throws toward the wall until Chiron checks the beam and we reset the net.”
+
+“I'll make sure the board says that.”
+
+Silena picked up the pencil. “And that the rope comes off the ground at the end of the session.”
+
+“If it has to stay, markers,” Annabeth added.
+
+Clarisse looked over the map, the board, and the target lane in turn. “All right. The list can tell us what we agreed. It can't tell us we remembered to do it.”
+
+“That's why Sunday check-in exists,” Percy said. “And why we look at the path now.”
+
+“If we forget, we fix it.”
+
+“No clipboard patrol?”
+
+Silena laughed and capped the pencil. “No clipboard patrol. But if the rope's out, we say something before somebody trips.”
+
+“Deal.”
+
+Clarisse finished her slot by returning the spear to its rack. Percy coiled the rope into the marked basket. Silena swept the track, the broom drawing a dry hiss over the boards and gathering grit into a thin crescent. She stopped after the first pass and put the broom down.
+
+“Entry's my turn today,” Percy said, reading the roster.
+
+“I know. I just saw the sand.”
+
+“You don't have to fix the thing you notice.”
+
+“I know that.” She wiped her palm on her skirt, as if brushing away the reflex. “Today I caught myself. You can take it.”
+
+Percy took the broom. The handle was smooth and warm where Silena's fingers had held it. He swept the grit into a pan, leaving the walkway clean to the edge of the porch. The work was ordinary. That was part of the experiment: the rule had to survive the small moments when taking over felt faster than letting somebody learn.
+
+When he finished, he leaned the broom in its marked place rather than beside the table. Silena nodded once. Clarisse signed her name beside the equipment check and left the beam inspection blank, with Percy adding his initials below hers as witness. The empty square did not accuse them. It showed where the next choice remained.
+
+“Board can stay unfinished,” Percy said.
+
+“It has to,” Clarisse answered. “We'll find something else we missed.”
+
+The board shifted a little in the breeze, its crooked nail holding. The rope stayed in its basket. The route stayed open. For now, that was the agreement in action.
+
 “We handle our own laundry,” Silena said. “Shared towels, Saturdays. Rotate.” She didn't pencil herself first. Percy noticed — and acted.
 
 “I'll take this Saturday,” he said.
@@ -539,8 +933,6 @@ Silena lettered that larger. “Signal?”
 Naming the small boundary aloud felt strange, yet Percy knew what he wanted. “‘Not now' covers it. Should suffice.”
 
 Clarisse nodded once. “Does.”
-
-For a few seconds advice paused. They let the truth sit between them, the way dust hangs in sun shafts, slow and visible. Somewhere outside, water slapped a piling and a gull mewled. Percy's thumb worried a splinter on the table edge, rough catching smooth, while Silena's breathing slowed and Clarisse's jaw unclenched by degrees.
 
 Softly, Tyson offered, “Sometimes like quiet with someone. Not alone. Merely quiet.”
 
@@ -694,9 +1086,7 @@ Softer, hands folded careful in his lap: “Visitors do not have to do chores.�
 
 “Perfect,” Clarisse said, and warmth flickered through her sternness. Applause hovered soft and unspoken in the salt air.
 
-The cabin settled, exhaling. Sea combed the shore in slow hushes, rope creaking faintly on the porch; the board creaked in the breeze, fresh paint sharp in the nostrils under the ever-present salt. Light went amber across the bunks, picking out folded blankets and the scuffed toes of sandals lined beneath. Silena and Annabeth compared sketches while Thalia needled Percy about the crooked nail, her voice warm with teasing. Tyson asked whether the sponge could live beside the basin, turning it in his big hands so its pores caught the light. Silena assured him it needed no permission to exist, and the big boy's relieved smile filled the small room like sun through water.
-
-Practical things filled the board: chores, times, a map, irritant-avoidance, each letter still slightly tacky where fingers had lingered. It couldn't preempt every argument — voices would still rise, sand would still drift — but it offered a starting point when quarters felt tight or tempers frayed, a cedar-blue anchor to return to.
+The room eased into its work. Silena and Annabeth compared sketches while Thalia needled Percy about the crooked nail. Tyson asked whether the sponge could live beside the basin; Silena showed him an open spot on the shelf.
 
 “We try quiet hour tomorrow,” he said, voice low in the settling quiet, floorboards ticking as they cooled. Salt air drifted through the doorway, lifting the paper rota's corner.
 
@@ -706,7 +1096,45 @@ Practical things filled the board: chores, times, a map, irritant-avoidance, eac
 
 “We adjust.”
 
-Nod toward the board. “Good.”
+Clarisse nodded toward the board. “Good.”
+
+The unanswered letter lay where Percy had placed it, its damp corners finally drying flat beneath the open window. He could see Triton's looping script at the bottom of the page, and the half-finished line where the palace repairs had changed into the tale of the hippocamp. The story had been waiting since the spear hit the beam. Percy wanted to finish it before the path walk, while the details were still in his hand and the fish-shaped fold still held its shape.
+
+He took the letter back to the smaller table. The chair legs rasped softly over the boards. “I'm going to read for a bit.”
+
+Silena paused with a paint tin in both hands. “Now?”
+
+“Yeah. Not because I'm upset. I just want the rest of this first.”
+
+Clarisse glanced from the letter to the blue cloth still hanging at the hook. “Okay,” she said. “We'll keep the paint over here.”
+
+Silena set down the tin. “Want the window closed? It's drying the paper fast.”
+
+“A little air's fine. Thanks.”
+
+No one stood watch. Clarisse took the tools outside to put the hammer away, and Silena stacked the remaining tins by the porch. Their footsteps went down the steps and turned toward the storage shed. Annabeth and Thalia were comparing the new ground marks on the map, speaking softly from the other side of the table, but neither leaned over his shoulder. Tyson had taken the oranges to the wash basin; the sponges were quiet at last.
+
+Percy found his place by the curled edge. The paper's damp smell had faded into salt, ink, and a faint trace of whatever sealed it against the journey. Triton had written about the eastern wing's repairs first, his lines quick and tight in the margins. Then came the hippocamp: its habit of nudging doors open with its nose, the guards trying to stop it without making a chase into a spectacle, a door latch that needed adjusting. Percy smiled once at the image. The animal had turned a minor repair into a footrace, and Triton told the story like he had been pretending not to laugh while giving orders.
+
+At the last paragraph, the letter returned to practical matters: which gate needed a new hinge, which corridor should stay closed until the floor was set, and how the palace crew had divided the repair work so one team did not block the route another team needed. Percy read the list twice. It was an ordinary message from someone who knew which repairs mattered and who would be annoyed if they were left until later. He could almost hear Triton's voice in the cramped handwriting: don't make one fix create a second problem.
+
+The thought clicked beside the board's open squares. The beam and the net had separate checks for a reason. Moving the table was not the same as repairing the wood. A clear path was not the same as a safe target. Percy wrote a tiny note in the letter's margin — *ask Triton which latch won* — then stopped. It was a question for a reply, not a reason to send one before he had finished reading.
+
+The old urgency tried to return: tell someone now, prove that the letter mattered, turn a thought into a whole conversation so nobody could mistake the silence. He set the pencil down. Nothing was on fire. No one was waiting for a message. The paper rested under his palm, warm now from the table and his hand.
+
+When he reached the fold, he smoothed it once along its crease. The fish shape sagged into a letter, two sides and a loose tail, and he refolded it the way Triton had sent it. Percy placed it in his box rather than leaving it on the crowded table. His decision took no longer than the reading had, but it felt like one: the note could wait until the next dispatch, and the letter could belong to him for a while before he retold it.
+
+Clarisse came back first, hammer put away, a coil of cord in one hand. She stopped in the doorway when she saw him put the letter aside. “All right?”
+
+“Yeah. Finished.”
+
+“Want to tell us what it said?”
+
+“In a minute. Want the walk first.”
+
+“Okay.” No disappointment sharpened her voice. She looped the cord onto its marked peg and left the doorway clear.
+
+The answer loosened something small behind Percy's ribs. Not a revelation, not a cure for wanting quiet. Just proof the sentence could end where it ended. He chose the walk because he wanted the company now, not because he'd paid them back for letting him read.
 
 Taking his hand, her fingers warm from paint water, Annabeth asked, “Walk before dinner? Air'll do us good.” Her thumb brushed his knuckle, hopeful.
 

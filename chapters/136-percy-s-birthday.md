@@ -52,7 +52,7 @@ Percy turned. "Like what?"
 
 "Like the way everyone says you remember every corner of the palace. They ask you to tell stories, and sometimes you look as if you'd rather be somewhere else."
 
-His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life; neither did his sisters. They knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. In the life Percy remembered, his mother had baked him blue food in a small Manhattan kitchen and lived long enough to see him become a teenager. The memory of that birthday cake came without effort. Recalling the nursery Triton talked about felt like reading the back of a photograph someone had labeled for him.
+His first instinct was to say that he was fine. Amphitrite didn't know about his memories of another life. His sisters knew the altered history, in which he'd been brought to Atlantis after Sally died when he was two. Silena had heard him say that Sally took pictures in the life he remembered, but that fact was something Percy had told her; it wasn't a memory she could carry for him. In the life Percy remembered, his mother had baked him blue food in a small Manhattan kitchen and lived long enough to see him become a teenager. The memory of that birthday cake came without effort. Recalling the nursery Triton talked about felt like reading the back of a photograph someone had labeled for him.
 
 "I like hearing the stories," he said carefully. "I just don't always know what to add."
 
@@ -455,7 +455,7 @@ She showed him the small balcony overlooking the herb beds. A row of shell lante
 
 "You used to hide here," Amphitrite told him.
 
-Percy felt the old unease, soft and familiar. "Did I?"
+Percy felt the old unease, soft and familiar. "It's a good place for it."
 
 "Whenever the public hall was too loud. You liked to listen to the kitchen staff argue about dinner. You told me the cooks knew more about the city than the council."
 
@@ -463,7 +463,7 @@ Percy felt the old unease, soft and familiar. "Did I?"
 
 "It does."
 
-She smiled, not expecting him to supply an answering memory. She spoke of the childhood she knew he had lived, a childhood real to her and inaccessible to him in the first-person way he remembered Sally's kitchen. His fear of disappointing her had become a second habit. He could laugh at the boy she remembered without pretending he remembered the same afternoon.
+She smiled and continued the story. To her, it was an ordinary family anecdote from the childhood she knew he had lived. Percy could not summon that afternoon as a first-person memory the way he remembered Sally's kitchen, so he let himself laugh at the boy she described without pretending he remembered the scene. His fear of disappointing her had become a second habit, but he did not let it turn the moment into a test.
 
 "I wish I could be here more often," he said.
 
@@ -473,7 +473,7 @@ She smiled, not expecting him to supply an answering memory. She spoke of the ch
 
 "A city can be very lonely," she replied. "Especially when everyone believes your title means you cannot possibly need company."
 
-Percy considered that. She'd helped raise him in this altered life, and she had never required him to call her mother in front of the court. He loved her. That love did not replace Sally or erase the years Percy remembered as his own. Both truths could live in him without being explained to her tonight.
+Percy considered that. She'd helped raise him in this altered life, and she had never required him to call her mother in front of the court. He loved her; that love did not replace Sally or erase the years Percy remembered as his own. He kept that distinction private.
 
 She handed him a small envelope. It contained a paper copy of the first birthday invitation she'd issued after he came into the palace household as a child. Not the original document, which was kept in a private archive, but a careful copy with the names of the people who had attended and the games the children played.
 

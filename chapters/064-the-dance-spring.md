@@ -1202,7 +1202,7 @@ Percy had known that in theory. Hearing it now, after the dance, made him wish h
 
 Percy thought of the snow-owl melting at the end of winter, the little coral toy that had survived in two different versions, and Annabeth's drawings of places that changed before the ink dried. He didn't want the flowers to fade, but he didn't want Annabeth's wrist to be covered in dead petals for weeks just because he'd been unwilling to let the gift end.
 
-"Then I'll tell her," he said. "She can keep the band and let the flowers go when they're finished."
+"Then I'll tell her," he said. "She can keep the band, then decide for herself what she wants to do with the petals when they close."
 
 Tyson nodded. He picked up the little sandal and turned it over again.
 

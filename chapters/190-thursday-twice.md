@@ -116,7 +116,7 @@ Percy took the heel in both hands. It was warm. It was warm in the specific way 
 
 "I'm not saying you don't know where it is. I'm saying the frost went and came back in two days, and you've written the bank on a list for eleven days, and the bank can't read."
 
-Clarisse put her pencil down. "The bank can't read," she repeated, in the tone of a woman confirming a finding. "Correct. The bank has never been able to read. The bank is a pile of glass and bad screws and it has been a pile of glass and bad screws since August, and when I take it down I would like to take it down once, with a bar, into hard ground, and not twice into a thaw."
+Clarisse put her pencil down. "The bank can't read," she repeated, in the tone of a woman confirming a finding. "Correct. The bank has never been able to read. It has a runoff scar and wet soil; when I shore it up, I want to do it once on firm ground, not twice in a thaw."
 
 "So you're letting it wait."
 
@@ -186,7 +186,7 @@ Her own page was the wrong length. She had cut it square because square was what
 
 Beryl Grace had asked for the corner of the roof.
 
-The corridor outside her mother's rooms in the deep palace — no. That was Percy's memory, not hers. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a hill that was not this one, and she still could not always tell the difference between a thing she remembered and a thing she had been told. The hall, though, the hall she had. Four months of it. The tile, the brick, the barrel ceiling, the skylight in the long curve, the north corner where the rain lay on the glass in a storm and went on lying there after it stopped, the warm mineral smell coming up off the water in the dark.
+The corridor outside Amphitrite's rooms in the deep palace — no. Percy had told her only that the warm mineral smell pulled him toward Atlantis; the corridor was her guess, not something he could remember. The association belonged to him, not her. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a hill that was not this one, and she still could not always tell the difference between a thing she remembered and a thing she had been told. The hall, though, the hall she had. Four months of it. The tile, the brick, the barrel ceiling, the skylight in the long curve, the north corner where the rain lay on the glass in a storm and went on lying there after it stopped, the warm mineral smell coming up off the water in the dark.
 
 She wrote:
 

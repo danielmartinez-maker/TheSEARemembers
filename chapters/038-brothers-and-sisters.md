@@ -552,7 +552,7 @@ Triton looked over the counters. "A remarkable amount of work for one afternoon.
 
 He nodded. For once he didn't make a royal pronouncement about the importance of family. He took the drying cloth and finished the last pot.
 
-Later, when Silena looked back on Siblings Day, she remembered the competition and the laughter. She also remembered an ancient prince standing at a sink, listening while a thirteen-year-old girl told him where he'd missed a spot. It was one of the few moments when nobody seemed to be performing the role of a perfect sibling. They were just helping each other finish a job.
+Later, when Silena looked back on Siblings Day, she remembered the competition and the laughter. She also remembered an ancient prince standing at a sink, listening while a fourteen-year-old girl told him where he'd missed a spot. It was one of the few moments when nobody seemed to be performing the role of a perfect sibling. They were just helping each other finish a job.
 
 ---
 

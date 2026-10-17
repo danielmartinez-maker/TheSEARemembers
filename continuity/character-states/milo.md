@@ -1,0 +1,25 @@
+# Milo — cumulative character memory
+
+**First source in this batch:** [Chapter 011](../../chapters/011-the-eclipse.md). Earlier backstory/appearances not silently inferred.
+
+- **Confirmed / reported / unknown:** Ch011 FIRSTHAND: younger camper Milo loses snack bag beneath bench; Percy gets him counted again and reminds him safe eclipse viewing. Later Milo brings Annabeth's updated map toward assembly point. Has no secret info or special prophetic insight.
+- **Carry-forward:** Append subsequent chapter-proven firsthand experience and heard information separately. Do not infer presence at private conversations or award erased-life autobiographical memory from authorial knowledge.
+
+
+## Chapters 013–022 carry-forward status
+- Milo was identified in Chapter 011 eclipse assembly work and is a separate named camper from Bea, Matt, Nico and the unnamed Ch002 cart runner. No witnessed direct personal conversation that transfers the old-life secret in Chapters 013–022; do not invent one based on his possible participation in camp-wide CTF or Music Night.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Chapter 011 — early camper scene:** Milo is a Cabin Eleven camper at the eclipse gathering. He retrieves his dropped snack bag under a bench, is counted by Percy and Silena, asks whether the sun will return, and later carries Annabeth's clean route map to the hill. He asks Thalia whether she is hurt and hears her limited explanation that her hand was burned; he does not witness the ward work itself ([Ch011](../../chapters/011-the-eclipse.md#L205), [Ch011](../../chapters/011-the-eclipse.md#L219), [Ch011](../../chapters/011-the-eclipse.md#L225), [Ch011](../../chapters/011-the-eclipse.md#L421), [Ch011](../../chapters/011-the-eclipse.md#L959), [Ch011](../../chapters/011-the-eclipse.md#L975)).
+- **Possible same-name identity conflict:** Chapter 072 introduces another Milo as an eleven-year-old arriving with two other “new year-rounders.” He has a mortal brother and wants help making contact ([Ch072](../../chapters/072-new-kids.md#L31), [Ch072](../../chapters/072-new-kids.md#L55), [Ch072](../../chapters/072-new-kids.md#L343)). In Chapter 073 Percy sees this younger Milo at the play and does not know whether he has reached his brother ([Ch073](../../chapters/073-the-play.md#L885), [Ch073](../../chapters/073-the-play.md#L887)). At Chapter 075's campfire, Milo asks Zoe whether memory alteration could make people safe; she distinguishes magical alteration from ordinary secrecy and says it does not erase shared years. Milo then tells the group his brother thinks he is at school, and privately drafts a letter after Chiron confirms a verified contact arrangement; the chapter does not show dispatch or receipt ([Ch075](../../chapters/075-zoe-s-story.md#L485), [Ch075](../../chapters/075-zoe-s-story.md#L489), [Ch075](../../chapters/075-zoe-s-story.md#L527), [Ch075](../../chapters/075-zoe-s-story.md#L599), [Ch075](../../chapters/075-zoe-s-story.md#L637), [Ch075](../../chapters/075-zoe-s-story.md#L655)). In Chapter 089 Percy remembers that Chiron agreed to review the draft privately; the letter's content and dispatch remain unshown ([Ch089](../../chapters/089-belated-valentines-camp-style.md#L141)). Chapter 090's younger Milo helps check names during the storm evacuation ([Ch090](../../chapters/090-storm-and-sea.md#L151), [Ch090](../../chapters/090-storm-and-sea.md#L157)).
+- **Identity and knowledge limits:** The Chapter 011 Cabin Eleven Milo is already present at camp; Chapter 072 describes a Milo as a new arrival. The text does not resolve whether this is one child with an unshown departure/return or two campers with the same name. If one character, clarify his prior status and return; if two, distinguish their names or identifiers in a bounded source revision. Do not automatically give the arrival Milo the early eclipse scene or the early Milo a brother/contact plan. Neither has verified knowledge of the erased-future secret.
+
+**Entry coverage:** Source-verified scenes in Chapters 011 and 072–075, 090. Identity across the two Milo appearances remains unresolved; the brother's letter's dispatch and receipt are unverified.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 007, 008, 011, 043, 061, 062, 063, 064, 065, 072, 073, 075, 076, 077, 078, 079, 080, 081, 082, 085, 089, 090. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 002, 011, 072, 073, 075, 089, 090. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 007, 008, 043, 061, 062, 063, 064, 065, 076, 077, 078, 079, 080, 081, 082, 085. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

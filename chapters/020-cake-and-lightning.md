@@ -2,7 +2,7 @@
 
 In the life he remembered, Percy Jackson had survived a Minotaur, a Fury on a bus, and Clarisse La Rue attempting to give him a swirly on his first day at Camp Half-Blood.
 
-None of that had prepared him for Silena Beauregard looking at him like he was her last hope.
+None of that had prepared him for Silena Beauregard arriving with a birthday-party supply list marked in three colors. She knew which kitchen shift could spare a mixer, which dryads would lend decorations and which counselors had to approve a bonfire. The problem she needed Percy to solve was simpler and harder: Thalia had started noticing every unusual conversation, and nobody wanted to celebrate her by making her feel cornered.
 
 "No," Percy said immediately.
 
@@ -16,7 +16,7 @@ Grover spat out a piece of napkin. "Thalia's birthday party. Sixteen. We're doin
 
 Percy blinked. "Thalia's already sixteen. We're doing the party now?"
 
-"See?" Silena gestured at him. "This is why we need a meeting. She never had a proper sixteenth party. Annabeth told me last night and made me swear on the Styx not to tell, and then I immediately told Grover, and Grover told Ella, and Ella told three dryads and a naiad, so now we have to move fast before it stops being a secret."
+"She turned sixteen without much of a celebration," Silena said. "Annabeth wanted to fix that. I told Grover we'd need music, Grover asked Ella for help, and now even the dryads know. Thalia will have guessed. We should put our effort into a party she'd actually want instead of pretending we can keep a secret none of us is any good at."
 
 Ella flapped her wings importantly. "Ella remembers. Birthdays are for cake and songs. Ella knows seventeen songs. Ella will sing all seventeen songs."
 
@@ -58,7 +58,7 @@ Ella dropped the ribbon on Percy's head. "Percy says yes. Ella heard him. Ella i
 
 "Fine!" Percy threw up his hands, ribbon fluttering off. "Fine. I'm in. What's the plan?"
 
-Silena's whole face lit up, and suddenly Percy understood why people followed Aphrodite kids into battle even when it was a terrible idea. She pulled a folded piece of parchment out of her pocket, covered in pink ink and little stars.
+Silena's whole face lit up, and suddenly Percy understood why people followed Silena into battle even when it was a terrible idea. She pulled a folded piece of parchment out of her pocket, covered in pink ink and little stars.
 
 "Operation: Cake and Lightning," she announced. "We have seventy-two hours."
 
@@ -70,7 +70,7 @@ This was a known fact, like the sky is blue and Ares kids win capture the flag w
 
 Clarisse did not do streamers.
 
-And yet there she was, two days before Thalia's belated party, lying on her stomach in the Ares cabin's borrowed craft corner with Silena Beauregard, surrounded by enough blue and silver tissue paper to stuff a pegasus.
+And yet there she was, two days before Thalia's belated party, lying on her stomach at Cabin Three's cleared-off craft table with Silena Beauregard, surrounded by enough blue and silver tissue paper to stuff a pegasus.
 
 "No," Clarisse said flatly, holding up Silena's sketch. "Absolutely not."
 
@@ -908,7 +908,7 @@ Annabeth nodded, ears red. "The tree is... you know. The pine. Half-Blood Hill. 
 
 Thalia couldn't speak. She turned the little tree over in her hands — she could see the knife marks, the places where Annabeth's hand had slipped and kept going. She turned the pendant over, traced the letters with her thumb.
 
-"You made this for here?" Thalia whispered. "Not only for the other story you told me?"
+"You made these for me now?" Thalia asked quietly. She knew Annabeth had described being protected by a pine tree on this hill in another life, but that was a story she'd heard, not one she could remember living. The small uneven join on the silver pendant was work Annabeth had done here, in a forge Thalia had visited with her. She could hold that without being asked to choose which set of years mattered.
 
 Annabeth nodded, eyes bright. "I remember the hill. The storm. You standing there in my old life. But that isn't your memory, and it isn't all this means. I see you keeping watch here. I see you staying. I'm glad — I'm so glad you get to just be my sister. Who steals my fries."
 

@@ -12,7 +12,7 @@ She was fourteen, small for her age, with dark brown skin and close-cropped blac
 
 Everyone helping with the winter records knew Elena. She cataloged everything.
 
-She cataloged the contents of the Big House attic on index cards. She cataloged which naiad liked which offering. She cataloged sparring scores, and meal rotations, and the exact dates the strawberry fields bloomed for the last six years, and who borrowed whose shield and whether they returned it polished. If you lost a sock, you asked Elena what dryer you left it in. If you forgot what Clarisse had threatened to do to you last Tuesday if you touched her spear again, Elena could quote it back word for word, with context.
+She cataloged the contents of the Big House attic on index cards. She cataloged which naiad liked which offering. She cataloged sparring scores, and meal rotations, and the exact dates the strawberry fields bloomed for the last six years, and who borrowed whose shield and whether they returned it polished. If you lost a sock, you asked Elena what dryer you left it in. If you forgot what Clarisse had threatened to do to you last Tuesday if you touched her spear again, Elena could look it up, then ask whether the person wanted the entry read aloud. She was learning that knowing private details did not give her permission to repeat them.
 
 She did it smiling, and she did it fast, and she never bragged about it. The notebooks were just always there — three in her messenger bag, one in her back pocket, one half-falling apart in her cabin.
 
@@ -84,6 +84,92 @@ Elena was eight when her abuela moved in. Elena was nine when her mother stopped
 
 “I cataloged everything after that,” Elena said simply. “Because she couldn’t.”
 
+Elena rubbed the worn cover of her notebook. “My first binder was terrible,” she continued. “Not because the handwriting was bad. Because I mistook it for an instruction manual.”
+
+She had been ten. Her abuela had brought home a binder from a discount store and a pack of colored tabs. Elena made a section for food, another for medicine, and a third for family stories. She wrote everything she could remember about Marisol. Her favorite tea, the order in which she shelved library books, the songs she had sung while she cooked. She copied old appointments onto a calendar and labeled the photograph albums so nobody would need to guess who the people were.
+
+For a while it made Elena feel useful. Her mother could forget where she put her slippers, but Elena could check the binder and point to their usual shelf. The woman who had once remembered every library patron's book preference had started asking the same question three times in a single meal. Elena could answer every time.
+
+Then one Tuesday morning Marisol asked for tea without lemon.
+
+“It's supposed to be lemon,” Elena told her.
+
+Her mother looked at the mug. “I don't want lemon today.”
+
+“But you always have lemon.”
+
+“Not today.”
+
+Elena went to the binder. She showed her mother the page with the neat blue handwriting: *Tea: lemon, no honey.*
+
+Marisol looked at the words, then at her daughter. Her expression changed. She didn't look confused. She looked hurt.
+
+“Maybe I don't want what the book says,” she replied.
+
+Elena was furious. She'd written the entry herself, and it was correct. The taste hadn't changed just because the disease was making everything else uncertain. If the record could be contradicted, what was the point of making it?
+
+“Mom,” she said, “I remember.”
+
+“I know you do.”
+
+Marisol went to her bedroom without taking the tea. Elena sat at the kitchen table with the binder open and cried until her grandmother came home from the pharmacy.
+
+Abuela read the entry, then asked who the binder was for.
+
+“So Mom can remember,” Elena said.
+
+“Does a notebook get to decide what she wants for breakfast?”
+
+“If she doesn't remember what she likes, someone has to.”
+
+“Your mother is allowed to change her mind,” Abuela said. “Even if she remembered everything, she could decide she didn't like lemon today.”
+
+Elena stared at the page. Her throat was sore from crying.
+
+“But I did the work,” she said.
+
+“Yes. You did. You were trying to help. That doesn't make the choice yours.”
+
+It was an answer Elena hated. She had begun treating remembering as a job nobody else could do. If she couldn't be useful, she wasn't sure who she was allowed to be.
+
+Abuela sat beside her. She explained that the doctors would handle the medicine, that the medical papers weren't meant to sit in a binder visitors could read, and that she would take responsibility for appointments. Elena could help with stories or meals when she was asked, but she was still a child.
+
+“That doesn't seem fair,” Elena protested.
+
+“It isn't fair that your mother is sick,” Abuela agreed. “You don't need to make it less unfair by taking on everything.”
+
+That night Elena crossed out the food rules. She wrote a new heading: *Things Mom has liked before. Ask what she wants today.* She kept the information she'd collected, but left blank lines to record a new answer if one came.
+
+She separated the family stories from the medical notes. She stopped writing down every conversation in the house just because she could. When Abuela asked for help with appointments, Elena helped. When she didn't, Elena went outside and played basketball with the girl next door, badly enough that the ball spent most of the afternoon rolling into the street.
+
+A few weeks later Marisol and Elena sat with a photograph album. One picture showed her mother at a picnic table beneath pine trees, years before Elena was born. Marisol couldn't remember when it had been taken.
+
+“Was I happy?” she asked.
+
+Elena checked the picture. The woman in it was laughing, her face turned toward someone outside the frame. There were cups on the table and a plate of strawberries.
+
+“You look happy,” Elena said. “I wasn't there. I don't know what happened before or afterward.”
+
+Marisol smiled. “Then maybe I was.”
+
+They stayed with the picture. Elena didn't fetch the binder and try to prove anything. She could say what she saw without pretending she knew what her mother felt.
+
+At the campfire Elena took a breath.
+
+“That was the first time I understood the difference between remembering and owning,” she said. “I still want Mom's stories. I still want every ordinary day we had. But she gets to be a person today, even if it doesn't match the notes I made yesterday.”
+
+Grover nodded. He'd been watching her with his hands folded on his knees.
+
+“What changed in your notebooks?” he asked.
+
+“More questions.” Elena counted them on her fingers. “Who saw it? Who told me? Is it still true? Can I share it? And does anyone need to know?”
+
+“That last one sounds particularly difficult,” Annabeth said.
+
+“It is.” Elena smiled faintly. “The old binder was easier. A perfect list always tells you what to do. People don't.”
+
+She closed the notebook on her lap without opening it. For a moment all Percy could hear was the fire and the rustle of someone adjusting their blanket. He thought of the unfinished letters he wrote to his family, and of how much harder it was to ask a question without knowing whether he would like the answer.
+
 ---
 
 The fire cracked. Nobody moved.
@@ -102,7 +188,7 @@ Elena smiled a little.
 
 Elena nodded, grateful.
 
-“When I was eleven, weird things started. I would remember things I shouldn’t. Like — I’d walk into the library basement and know exactly where a book was even though I’d never shelved it. I’d dream whole hallways full of scrolls. Once I touched Mrs. Henderson’s hand at storytime and I knew her husband’s name and that he died in ’98 and that she missed the way he hummed while doing dishes. I told her. She — she got scared. I got scared.”
+“When I was eleven, weird things started. I would remember things I shouldn’t. Like — I’d walk into the library basement and know exactly where a book was even though I’d never shelved it. I’d dream whole hallways full of scrolls. Once I brushed Mrs. Henderson’s hand at storytime and felt as if I knew her husband’s name and when he died. I told her without asking. She got scared, and she had a right to be. Even now I can't prove what I sensed, or that it was mine to say.”
 
 Monsters found her that winter. A empousa posing as a substitute librarian. Elena remembered the smell — burnt sugar and old pennies — and ran before the woman even showed her teeth, because she remembered a story another demigod kid at school had whispered once and never repeated. She ran to the branch library and locked herself in the staff bathroom and called her abuela, and her abuela called the number Elena’s mother had made her memorize years ago and made her promise never to lose: a number in New York with a strawberry painted next to it in the baby book.
 
@@ -116,6 +202,114 @@ Grover had been the one sent to collect her. He told that part with a glance at 
 
 “Aluminum,” Grover corrected, mock-offended, and Elena laughed — a real laugh, wet at the edges but real — and the tension broke just enough to breathe.
 
+“When I arrived at camp, the first thing I did was try to make a record of everything that happened to me,” Elena said. “I thought if there was a notebook for camp, no one could ever tell me I was wrong about what I had seen.”
+
+On her third day, Chiron asked her to help sort a box of old winter incident slips. They were ordinary reports about damaged fences, medical supplies and patrol routes. He gave her the blank forms first and asked her to practice copying the dates and locations without changing the wording.
+
+Elena finished in twenty minutes. She also made an index of which counselors had submitted each report, and noticed that one number was missing from the stack.
+
+“Where's thirteen?” she asked.
+
+Chiron checked the bundle. “That one is in a separate file.”
+
+“Why?”
+
+“Because it concerns a camper's private medical care.”
+
+“But I'm supposed to make an index of all the incidents.”
+
+“You're making an index of the records I've authorized you to handle.”
+
+She felt insulted. Her mother had trusted her to remember medicine and appointments for years, and now the centaur who ran a camp for demigods was treating her like someone who couldn't be trusted with a piece of paper.
+
+“I don't need to read the whole thing,” she argued. “Just the date and the camper's name.”
+
+“Why would you need the name?”
+
+“So the index is complete.”
+
+“That isn't a purpose. That's a shape.”
+
+Elena had never heard a teacher tell her that a complete list could be wrong. She returned to the desk and finished the entries she had been given, making a small star beside the missing number so she wouldn't forget it.
+
+Later that afternoon she saw a young camper leave the infirmary with a bandage under his sleeve. She recognized the date on the blank line. For a moment she thought she'd solved the mystery of incident thirteen. She wrote the boy's name in her private notebook, then stopped.
+
+She hadn't seen the report. She had seen a bandage.
+
+There were dozens of reasons a camper might go to the infirmary. She had made an inference and was about to file it as fact.
+
+She took the notebook back to Chiron.
+
+“I think I did something wrong,” she said.
+
+Chiron set aside his papers. “Tell me what you observed first.”
+
+She described the boy leaving the infirmary and the missing index number.
+
+“And what did you conclude?”
+
+“That he must be the subject of the report.”
+
+“Can you establish that?”
+
+“No.”
+
+“Then don't record it as fact.”
+
+Elena looked at the penciled name. “Should I cross it out?”
+
+“Ask yourself whether you need to keep it at all.”
+
+She erased it. The page retained a gray smudge, which annoyed her. Chiron told her an honest correction was better than an invisible mistake she might repeat later.
+
+The following day he invited her to help build an index for the tool shed. Every entry involved an object rather than another person's body. The inventory had dates, borrowers, repairs and missing pieces. It made Elena feel useful without asking her to know anything she'd not been given permission to learn.
+
+One Thursday, a shield went missing.
+
+A boy from the Hermes cabin was accused of taking it. He had been seen near the shed, and another camper reported hearing him talk about needing a shield for practice. Elena checked the inventory. The last recorded borrower was an Apollo camper who had signed it out for a demonstration two days earlier. There was no return signature.
+
+“Then she still has it,” Elena said.
+
+“Maybe,” Chiron replied. “We need to ask.”
+
+They did. The Apollo camper said she'd returned the shield to the rack, but had forgotten to sign it in. The Hermes boy said he had been near the shed because he'd needed a spare strap, not a shield. It turned out that one of the younger counselors had moved the shield to the forge to get its rim repaired. He hadn't made an entry either.
+
+Nobody had stolen anything. Three people had failed to record different parts of the same routine.
+
+Elena proposed a new log that included not only who borrowed equipment but who took responsibility for repairs and where the item was currently stored. She added a small box marked *verified with*, because she'd learned that a check mark didn't mean anything unless somebody could say how they knew.
+
+Chiron let her help design it.
+
+That was the first camp record Elena had been proud of for reasons other than the number of lines she'd filled.
+
+“It didn't save anybody's life,” she told the fire. “It saved a boy from getting blamed for something he hadn't done, and it saved everyone about an hour of arguing. It was the first time I realized an index could help people instead of simply being complete.”
+
+Clarisse made a small noise that might have been appreciation. “Good system.”
+
+“You used it once,” Elena said. “You thought someone had borrowed your spare helmet.”
+
+“Someone *had* borrowed my spare helmet.”
+
+“It was in the forge because the chin strap was loose.”
+
+“Which somebody should have told me.”
+
+“Exactly.”
+
+Silena laughed. “She's got you there.”
+
+Elena felt the familiar satisfaction of a problem described accurately, but she also remembered the boy with the bandage, whose name she hadn't needed to know.
+
+“After that I started leaving spaces,” she said. “Unknown. Not yet confirmed. Private. I've never liked blank spaces, but sometimes they're the only honest thing to put on a page.”
+
+Percy looked at her notebook. He thought of his own past, of letters written to a mother who remembered years he didn't. There were things he wanted to know and couldn't verify, even from people who loved him. The idea of recording *unknown* as an answer seemed almost unbearable. It also seemed better than pretending he remembered the wrong childhood.
+
+“Does Chiron still use the inventory?” he asked.
+
+“Yes. Though the current version belongs to the counselors. I only revise it when they ask.”
+
+She seemed pleased by that. Percy had expected someone who loved records to want control of every file. Elena was discovering that a useful record could belong to someone else and still matter.
+
 ---
 
 “My abuela brings my mom to visit when she can,” Elena said. “Not often. It’s hard to travel. My mom — last time, she didn’t know me. She thought I was a nice volunteer. She asked me to read to her. So I did. I read her own baby book back to her. About the remote in the laundry basket. About *luz.*”
@@ -123,6 +317,100 @@ Grover had been the one sent to collect her. He told that part with a glance at 
 She stopped. She pushed her glasses up. Her hands were shaking.
 
 “She fell asleep with her head on my shoulder. And I thought — okay. Maybe cataloging isn’t keeping. Maybe it’s just — lending. Like she lent that woman a beginning. I can lend my mom her middle. Even if she can’t keep it.”
+
+Elena hesitated, then smiled a little.
+
+“I left something out of that visit,” she said. “It didn't feel important at the time. Now I think it's the part I needed.”
+
+She told them how her abuela had brought Marisol through the camp border on a clear morning with a light coat and a paper bag of sandwiches. Chiron had approved the visit and arranged a quiet room at the Big House. He hadn't asked Marisol to walk the whole camp, where the noise and unfamiliar buildings could be overwhelming. Elena had been waiting on the porch with her notebook and a list of the stories she hoped to read.
+
+Her mother looked at her and smiled the way she smiled at a stranger who seemed kind.
+
+“Are you working here?” Marisol asked.
+
+Elena felt the familiar hurt beneath her ribs. She wanted to say *I'm your daughter* so loudly that the words couldn't be misplaced. Instead she sat beside her mother and introduced herself.
+
+“I'm Elena. I'm glad you came.”
+
+“That's a beautiful name.”
+
+“Thank you.”
+
+Abuela stood near the door, ready to step in if Marisol became frightened. Elena had wanted the visit to be private. She also knew her grandmother had traveled a long way and would recognize signs of fatigue earlier than Elena might.
+
+They settled with tea and sandwiches. Marisol asked about the camp's trees and why the windows were painted such unusual colors. Elena answered what she could. She didn't tell her mother the secret of every god in every cabin. There were other ways to talk.
+
+“Would you like to hear a story?” Elena asked.
+
+Marisol nodded.
+
+Elena opened the baby book to the first page and began reading about a small child with a first word of *luz*. She had expected the words to be a bridge. Her mother listened politely, then asked whether the child was grown now.
+
+“Yes,” Elena replied. “She's older.”
+
+“Is she happy?”
+
+Elena looked at the little photograph taped beside the date. She wasn't sure the girl in the photograph would have described herself as happy. She'd spent years collecting details and waiting for the next thing to be lost.
+
+“Sometimes,” she said. “She has friends. She likes books.”
+
+“Good,” Marisol replied. “Books help.”
+
+Elena turned the page. There was the incident with the remote in the laundry basket, complete with the hour and her mother's description of a child hiccuping with laughter. Elena began to read it aloud. Halfway through, she noticed Marisol's gaze had drifted to the window.
+
+“Would you rather look outside?” she asked.
+
+Her mother smiled with relief. “Could we?”
+
+They took the book to the porch. The April air smelled of damp wood and new leaves. A wind had pushed dry petals across the steps, and Elena began sweeping them away so her mother wouldn't slip. Marisol watched for a while, then held out a hand for the small broom.
+
+“I can help.”
+
+“You don't have to.”
+
+“I would like to.”
+
+Elena handed it to her. They swept the steps together. There weren't many petals, and Abuela stayed close by without directing every movement. For several minutes all three of them worked in a rhythm that needed no names and no explanation of the illness.
+
+When the steps were clear, Marisol said, “We did a good job.”
+
+“We did,” Elena agreed.
+
+She felt a strange satisfaction. They had done something together in the present rather than trying to rebuild the past out of notes. There was no guarantee her mother would remember sweeping by the time they reached the car. Elena would remember it, though, and that could be enough for the day.
+
+They went back inside. Marisol was getting tired. Elena offered her the baby book again, but Marisol said she'd rather sit quietly.
+
+“Okay,” Elena replied.
+
+She didn't fill the silence. She sat beside her until her mother's head tipped against her shoulder, light and warm. Abuela drew a blanket over them.
+
+After Marisol fell asleep, Elena wanted to open her notebook and write every detail before it could slip away. She knew the urge. A correct list meant she could prove the visit had happened, even if her mother never spoke about it again.
+
+She reached for the pencil, then stopped.
+
+For once she watched the light cross the floorboards and felt her mother's breathing against her shoulder. She waited until Abuela came to wake Marisol for the trip home. Only after they had gone did Elena write a few lines on the back of a loose page.
+
+*Today Mom and I swept the steps. She wanted to help. We did a good job.*
+
+She didn't make a list of every sentence Marisol said. She didn't write down the moments when her mother failed to recognize her. Those things had happened, and Elena wouldn't pretend otherwise, but they weren't all that happened.
+
+At the campfire Elena folded her hands over her notebook.
+
+“I thought if I didn't record every second, I'd lose the whole day,” she said. “But I can remember sweeping the steps without making it a test for her. I don't need Mom to confirm that she was there.”
+
+She glanced at Percy. “And I don't know whether the goddess Mnemosyne could give her memories back. I haven't been promised that. I don't want anyone to treat my mom's illness like a riddle a demigod ought to solve with enough magic. She's a person who still has choices even when she can't remember making them.”
+
+Percy nodded slowly. He had come to camp carrying questions about a childhood everyone around him remembered except him. He wasn't going to tell Elena that he understood her mother's illness; he didn't. But he understood wanting a missing history to be restored so badly that every small object began to feel like evidence.
+
+“Did you keep the broom?” Nico would have asked, Percy thought. Nico loved objects that came from stories.
+
+Elena seemed to anticipate the kind of question without hearing it.
+
+“No souvenir,” she said. “It belonged to the Big House. Chiron needed it to clean.”
+
+Grover laughed softly.
+
+“But when I pass that porch,” she continued, “I remember a morning when Mom asked to help me, and I let her.”
 
 Silence. The coals pulsed.
 
@@ -166,7 +454,7 @@ Grover cleared his throat. He’d been quiet, turning a marshmallow stick over a
 
 She nodded.
 
-“You lent me your notes once,” he said. “Last winter. When I couldn’t find — when Juniper and I had that fight, and I couldn’t remember what I’d said wrong. You gave me your notebook from the whole week. With times. You didn’t even make it weird. You just said, ‘Page forty-two, you were tired and you weren’t listening.’”
+“You lent me your notes once,” he said. “Last winter. When I couldn’t find — when Juniper and I had that fight, and I couldn’t remember what I’d said wrong. You asked Juniper which parts of the notes she was willing to let me hear, and then you read them back to me. You didn’t hand over the rest. You said, ‘Page forty-two. You were tired and you weren’t listening.’”
 
 More laughter, gentle. Grover’s ears went pink at the tips.
 
@@ -184,7 +472,107 @@ He offered her his sleeve to wipe her eyes, the way satyrs do when they don’t 
 
 Percy caught Annabeth’s eye again. *Nice kid.* Annabeth mouthed back: *Good kid.* The way old friends quietly approve of someone helping another friend.
 
-Chaste and sweet and exactly enough — Grover didn’t put his arm around her. He just moved his blanket so it overlapped hers by two inches, to block the wind. Elena noticed. She didn’t move away.
+Grover didn’t put his arm around her. He just moved his blanket so it overlapped hers by two inches, to block the wind. Elena noticed. She didn’t move away.
+
+“There was something else,” she said, looking around the circle. “I think it matters because it happened this week, and I haven't worked out what I think about it yet.”
+
+She told them about visiting the new fort behind Cabin Thirteen after Nico's birthday. Annabeth had mentioned that she was making a maintenance log for the structure. Elena liked the idea of a log. It was the sort of thing she could help with without touching a sword or risking a failed spell.
+
+She arrived with a notebook and an extra pencil. The fort still smelled of fresh cedar. A paper skull was hanging from the doorway, and the handrails had two different-sized sets of fingerprints on them. Nico sat at the lower table drawing on a wooden panel, while Bianca folded birthday decorations nearby.
+
+“I'm here to help Annabeth with the building log,” Elena told them.
+
+Nico looked up. “What log?”
+
+“The fort's record. When it was built, who checked it, what gets repaired. Things like that.”
+
+“Will it have my name in it?”
+
+“On the public drawing, if you want it there. Yours and Bianca's are already on the lintel.”
+
+Nico looked at his sister. She gave him a small shrug that meant it was his choice.
+
+“Okay,” he said. “But not my game scores. Cecil keeps trying to write down that he won the first battle, and I don't want everybody seeing it.”
+
+Elena had brought blank columns for equipment, games, visitors and maintenance. She looked at the page and realized she'd put four purposes into one notebook without deciding who needed to read each section.
+
+“Fair,” she said. “I don't need your game scores to check a railing.”
+
+She crossed out the column.
+
+Nico watched her do it. “What about the things in the hidden shelf?”
+
+“What about them?”
+
+“Are you writing down what I keep there?”
+
+“Only if I need to know for a repair. I don't need to know whether you keep cards or letters there.”
+
+Nico regarded her cautiously. He had always been willing to let Elena identify a book edition or settle an argument about dates. That didn't mean he wanted her to know everything he owned.
+
+She made a note that the shelf must remain accessible for inspection without its contents being cataloged. Then she asked Nico to show her how the latch worked. He opened the compartment enough to demonstrate the mechanism, kept the contents covered with one hand and closed it again.
+
+Elena saw a corner of folded paper. She looked away rather than reading it.
+
+“Good,” she said. “The latch works. That's all I need.”
+
+Bianca had been watching from the wall. “What about the birthday decorations?”
+
+“Are they part of the building?”
+
+“No. We're taking them down before the next rain.”
+
+“Then I won't list them as permanent fixtures.”
+
+They took the temporary decorations down together. Nico chose to keep the paper skull over the door for a few more days, provided it stayed out of the way. Elena checked the fastening and marked it as a temporary decoration to be removed if the weather turned. She didn't write that Nico had been reluctant to take it down. His reluctance wasn't a construction fault.
+
+A few minutes later Milo arrived with a broom, having promised to help sweep the floor before the next game. He saw Elena's notebook and asked whether she was recording who had used the fort that day.
+
+“Only if an adult needs it for supervision,” she said.
+
+“Then can you write that I helped clean?”
+
+“Would you like that in the volunteer record?”
+
+“Yes.”
+
+She gave him the pencil. He wrote his name himself. Nico looked at the little line, then asked whether helping sweep meant Milo could have first turn choosing the next Mythomagic team.
+
+“That's a game decision,” Elena told him.
+
+“I know,” Nico said. “I'm asking Milo.”
+
+Milo smiled. “Yeah. I'd like that.”
+
+When Elena finished, she had a useful maintenance sheet and a separate optional volunteer list. There was no record of which birthday presents Nico received, no inventory of his personal shelf, and no ranking of the games he'd played. The fort was still safe to maintain, even though the log was much shorter than the one she'd originally designed.
+
+She showed the sheet to Annabeth that afternoon.
+
+“You cut almost everything,” Annabeth said.
+
+“I kept the things a counselor would need to know if a board came loose.”
+
+Annabeth read the remaining entries, then nodded. “That's what the log was for.”
+
+Elena had spent the walk back feeling almost disappointed. She'd seen a lot of things she could have recorded. The present-year Nico had a ring with a skull on it, a new bracer from Clarisse, and a habit of checking whether Bianca was nearby before showing anyone his favorite cards. Some of that might become relevant someday. It was also his business, not hers.
+
+At the fire she glanced toward Percy.
+
+“You've seen me with five notebooks,” she said. “You probably think I'm always collecting things to remember.”
+
+“Are you?” he asked.
+
+“Yes.” She smiled. “But now I ask what they're for.”
+
+He nodded. It was a small answer, not a declaration that everyone could trust her forever. She liked that more than the enthusiastic promise some campers would have made.
+
+Grover nudged the edge of the blanket toward her. “The maintenance list helped?”
+
+“Annabeth said it did.”
+
+“Then you finished the job.”
+
+Elena looked at her hands. “Yeah. I guess I did.”
 
 ---
 
@@ -252,9 +640,95 @@ She pulled her knees up, jangling her bracelets.
 
 Elena blushed furiously. “Cabin inspection log, March 14th. *Thalia’s bunk dusted, blanket folded. Pine needles removed. Welcome home whenever.*”
 
-Thalia’s face did something complicated. She got up, crossed the circle in two strides, and hugged Elena hard enough to lift her off the log. Elena squeaked. Everyone cheered.
+Thalia’s face did something complicated. She crossed the circle and offered her arms. Elena stood and hugged her willingly, laughing, and Thalia released her when she asked for room. A few campers clapped softly.
 
-“Okay, okay, ribs,” Elena gasped, laughing. Thalia set her down, ruffled her hair, and went back to her seat, eyes suspiciously bright.
+“Thank you,” Elena said as they separated. Thalia went back to her seat without turning Elena's private gratitude into another joke, her eyes suspiciously bright.
+
+Elena looked at the notebook in her lap as if it had become a difficult object.
+
+“Can I ask something?” she said.
+
+Clarisse turned toward her. “You've been asking questions all evening.”
+
+“Not about why you stay. About what happens to the answers.”
+
+The fire had burned lower. Percy could see Thalia pulling her jacket tighter and Silena warming her hands around a cup. Nobody looked impatient, but Elena had spent years thinking that the absence of an objection meant she could keep every detail she heard.
+
+“I want to write tonight down,” she said. “I always do. But I don't want to decide on my own which parts end up in the shared camp archive.”
+
+“Shared archive?” Clarisse asked.
+
+“Chiron keeps quest reports and donated stories. Some of them are available to campers doing research, and some aren't. My personal notebook isn't the same thing as a public record.”
+
+Percy thought about the memorial shrine and the lines of Clarisse's poetry that she'd chosen to make public. Annabeth had spent weeks planning how to display those lines without revealing the rest of the notebook. Elena was asking the same question in another form.
+
+“You can say I helped keep the camp inspections organized,” Thalia said.
+
+Elena smiled. “Do you want everybody to read what you said about your parents?”
+
+Thalia took her time answering.
+
+“No,” she said at last. “You can put down that I came back because the people here kept a place for me. Not the private details.”
+
+Elena wrote a short sentence on a loose page and showed it to her. Thalia corrected the order of two words. Elena made the change.
+
+“What about you?” Elena asked Clarisse.
+
+“Why would anybody need a record of my feelings?”
+
+“They might not.”
+
+Silena gave her sister a look of approval.
+
+Clarisse considered. “Write that I stay because I can teach people to defend themselves. That's all.”
+
+Elena copied the exact sentence.
+
+“And don't make it sound like I'm a saint,” Clarisse added.
+
+“Nobody who knows you would believe it,” Percy said.
+
+Clarisse pointed a finger at him. “Want a rematch, Fish Boy?”
+
+“Not after the last one.”
+
+Silena leaned forward. “I'd rather write my own statement later. I want to make sure it sounds like me, not just what people say I do for them.”
+
+“That's fine,” Elena replied.
+
+“Can mine say something about the wild?” Grover asked.
+
+“Only what you choose.”
+
+He thought for a moment. “I stay because the people here know I'm frightened sometimes and let me try again anyway.”
+
+Elena repeated it back. Grover nodded and she wrote it down. She didn't include his private argument with Juniper, even though everyone nearby now knew they'd had one. He hadn't offered that incident for the archive.
+
+Percy looked at the separate sheet. It was shorter than he expected. It had none of the dates and intimate details that filled Elena's private notes, and none of the confident conclusions the campers might draw from hearing each other's stories.
+
+“What if somebody changes their mind about being included?” he asked.
+
+“Then I don't send the page,” Elena said. “Or I ask Chiron how to withdraw it if it has already been deposited. Nobody can take their words back from a reader who's seen them, so I want to be careful before it gets that far.”
+
+“Do you need all our permission before you can write your private notebook?” Thalia asked.
+
+“No. I can record that I was here and how I felt. But if I write down your personal history, I need to think carefully about why I'm keeping it and who might read it.”
+
+Annabeth nodded. “That distinction matters.”
+
+Elena handed the loose page around to the people who'd agreed to be included. They checked their sentences and gave it back. There was no vote to include everybody. Silena's space stayed blank because she wanted time to choose her words.
+
+“I'll ask Chiron tomorrow whether there's an appropriate place for this,” Elena said. “Until he approves it, it stays in my bag. And I want each of you to decide again before anyone else reads it.”
+
+Thalia shook her head. “You just made a campfire into a permissions meeting.”
+
+“Sorry,” Elena said.
+
+“Don't be. I like that you asked.”
+
+Percy watched Elena fold the sheet and tuck it beside her notebook rather than inside it. She'd chosen a different physical home for something that belonged partly to other people. It was a small decision. He knew how large a difference small decisions could make when memory was involved.
+
+Grover offered her another marshmallow. Elena accepted it and let the conversation turn to a much less important disagreement about which cabin made the best desserts.
 
 ---
 

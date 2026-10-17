@@ -62,7 +62,7 @@ Chiron smiled, something soft and old in his eyes. "It is unusual. It is also de
 
 Friday morning smelled of salt and low clouds.
 
-Mist hung over Long Island Sound, and the water at the camp beach was flat silver. Chiron stood with his hands folded, Thalia Grace beside him with her arms crossed, her black hair streaked with electric blue, her gray eyes fixed on her little sister.
+Mist hung over Long Island Sound, and the water at the camp beach was flat silver. Chiron stood with his hands folded, Thalia Grace beside him with her arms crossed, her black hair streaked with electric blue, her electric-blue eyes fixed on her little sister.
 
 Thalia was older now, a camp scout, tall and sharp. She had come down specially to see Annabeth off, which Annabeth pretended to find annoying and secretly treasured.
 
@@ -144,11 +144,11 @@ Then he opened his mouth.
 
 Clarisse bristled immediately. "Who are you calling barnacle?"
 
-"The loud one, obviously," Triton said. "You must be Clarisse. Father said you shout at waves. The waves complained."
+"The loud one, obviously," Triton said. "Clarisse, I see you haven't softened since you tried to knock me across the camp arena. Father says you shout at waves. The waves complained."
 
 "I do not shout at waves," Clarisse said. "I command them."
 
-"Same thing, but louder," Triton said. He turned to Silena, who was trying not to laugh. "And you must be the sweet one. Silena. Father said you drew him a picture of the palace with crayons. He keeps it in the council room. The generals pretend not to see the sun with a smiley face."
+"Same thing, but louder," Triton said. He turned to Silena, who was trying not to laugh. "And Silena, still pretending to be the sweet one who never causes trouble. Father showed me the picture of the palace you drew for him. He keeps it in the council room. The generals pretend not to see the sun with a smiley face."
 
 Silena turned scarlet with delight. "He kept it? Really?"
 
@@ -168,7 +168,7 @@ Triton turned to him last. "Perseus." His expression flickered, just for a heart
 
 Annabeth, to her credit, bowed back, a little wobbly in the current. "Thank you, Prince Triton. I will try not to drown."
 
-Triton grinned, sharp and sudden and almost like Percy's own grin. "Oh, I like her. She has manners. Keep her, little brother."
+Triton grinned, sharp and sudden and almost like Percy's own grin. "I still like her. She has manners. Keep her, little brother."
 
 "She is not mine to keep," Percy said, ears burning. "She is her own. She is — she chose to come."
 
@@ -177,6 +177,96 @@ Annabeth's hand found his again, quick and warm, then released. Triton saw it an
 "Come," he said. "Mother is waiting. And Father is pretending not to wait, which is worse."
 
 ---
+
+The first disagreement happened before they entered the palace.
+
+A young attendant met the visitors near the lower dock carrying an itinerary on a silver board. The schedule divided the family into categories: *Prince Percy*, *the sea-born daughters*, and *the honored sky guest*. Each category had its own reception room and different arrival instructions.
+
+Clarisse read the board once.
+
+"No."
+
+The attendant looked up, startled. "My lady?"
+
+"I'm not going to a separate room while my brother gets a parade."
+
+"It is protocol."
+
+"Then protocol can take a swim."
+
+Percy took the board before the argument grew louder. The young attendant looked close to tears. He had probably spent the whole morning trying to get the schedule right. Percy knew the feeling from the Roman exchange, where one wrong contact number had nearly kept him from boarding a plane.
+
+"Who approved this?" Percy asked.
+
+"The steward's office, my prince."
+
+"Did anybody ask my sisters?"
+
+The attendant looked blank. "They are guests."
+
+"Yes. Guests who can answer questions."
+
+Annabeth stood beside Clarisse with her notebook tucked safely inside a waterproof sleeve. Silena had been examining the delicate coral railings, looking delighted to be somewhere she'd only visited briefly before. Now she looked from the board to the attendant and raised a hand.
+
+"I don't mind having time to get dressed," she said. "But I don't want the first hour of our visit to be spent alone in a room where I don't know anyone."
+
+Clarisse nodded. "Exactly."
+
+Percy looked at Annabeth. "What about you?"
+
+"I want to see the dome construction. But I didn't ask to be put in a separate reception party either."
+
+The attendant waited while Percy considered. He was tempted to solve the whole thing by claiming princely authority and telling everybody the schedule had changed. That would be satisfying and probably make more problems for the staff who needed to arrange the rooms.
+
+"Could you ask the steward whether we can meet together first?" Percy said. "Then people can choose what activities they want after that."
+
+The attendant bowed. "I can inquire."
+
+"Good. We can wait here."
+
+Triton, who had been watching from a few steps away, crossed his arms. "You know that if you keep asking the staff to change plans, Mother will start expecting you to do the seating arrangements."
+
+Percy grinned. "Sounds like her."
+
+"It does," Triton admitted.
+
+The steward arrived a few minutes later, took one look at Clarisse's expression and decided the family could have a joint reception in the smaller garden hall. He asked whether Silena still wanted to join the clothing preparations, and she said yes. Annabeth asked for access to the library later; he agreed to arrange it. Clarisse said she wanted to see the training facilities before anybody put her into silk.
+
+The steward wrote down the requests.
+
+Percy watched the names being entered without any reference to which parent had raised which child. Poseidon was their shared father. That was enough to make them family, but it didn't mean they were interchangeable or that every guest had to enjoy the same thing.
+
+"Mother will like this better," Triton said quietly as they started walking.
+
+"Why?"
+
+"She spent an hour telling the steward that people aren't decorative objects. He did not understand."
+
+Percy laughed. "Then I get to make her look wise."
+
+"She manages that herself."
+
+The garden hall was open to a slow current and smelled of fresh kelp. There were seats for all of them and enough space for Tyson, who had come from the forge to welcome the visitors and was trying to restrain himself from hugging everybody before they had taken off their travel gear.
+
+"Brother Percy!" he shouted.
+
+Percy hugged him.
+
+"Clarisse! Silena! Annabeth!"
+
+Tyson embraced his sisters with permission and offered Annabeth a huge hand to shake. She chose a hug too, laughing when he carefully bent down to make it possible.
+
+"I told the staff you might come," Tyson said. "They prepared the good bread."
+
+"Smart man," Clarisse said.
+
+Silena asked whether the palace kitchens could show her how they made the bread in clam shells. Tyson said he knew the baker and could introduce them, provided the kitchen was not in the middle of the lunch rush.
+
+Percy looked at his siblings and felt something settle in his chest. They weren't starting from nothing. They had shared dinners, letters, the April beach visit, the spring dance, family promises and arguments about laundry. Atlantis was adding a setting to those relationships. It wasn't inventing them.
+
+When the steward returned with the updated itinerary, Percy read it aloud. Everybody approved the parts that concerned them. The attendant who had carried the first board looked relieved, and Clarisse gave him a short nod to show she wasn't angry at him personally.
+
+Then they went inside together.
 
 The palace gates remembered Percy.
 
@@ -285,6 +375,108 @@ Clarisse stared at it for a long time.
 "You knew about us," she said quietly. "Even then."
 
 Percy nodded, throat tight. "That's what they told me. Dad said I had two sisters on land, brave and bright, and that the sea was keeping me ready for them. Apparently I talked to that picture when storms kept me awake. I told you about my day. I wish I could remember it."
+
+Clarisse studied the picture beneath the glass.
+
+"Who told you when you drew it?"
+
+"Amphitrite."
+
+"Did she keep it here?"
+
+"Yes. She said I asked her not to move it."
+
+Clarisse looked around the room. "Then I believe she kept it because you asked."
+
+Percy waited. He had half expected her to demand a childhood story he couldn't give, to make him explain why the little boy in the picture seemed like a stranger even though the picture had his name.
+
+Instead she pointed to the whale mural.
+
+"I used to draw you too," she said. "Not like that. I was terrible at drawing. I made a stick figure with a sword and wrote *little brother* underneath because I didn't know whether you'd prefer a name."
+
+Percy stared. "You did?"
+
+"Yes."
+
+"Where is it?"
+
+"Probably in the bottom of a trunk. I didn't bring it to camp."
+
+"Can I see it sometime?"
+
+"If I find it. And if I want to show it to you."
+
+Silena smiled through tears. "You always were protective of your drawings."
+
+"They're awful."
+
+"That's not what I said."
+
+Silena walked over to the window, where a row of small shells sat on a shelf. They were sorted by size, each with a tiny label written in a child's hand.
+
+"These are like the ones you showed us when we visited the palace last time," she said.
+
+Percy came to stand beside her. "Amphitrite said I collected them after storms. I used to name them."
+
+"Do you know the names now?"
+
+"Only some. The labels are hard to read."
+
+Silena lifted one shell, then put it back in exactly the same position. "We could ask her which is which."
+
+"We could," Percy said.
+
+They stood quietly looking at the shelf. Percy knew he'd heard stories about the shell collection on earlier visits to Atlantis. He hadn't stood at this window as the child who made the labels, or at least he couldn't call up that experience from inside. There was no reason to pretend otherwise. His sisters didn't know the secret reason for his missing memories, and he didn't need to tell them for this conversation to be honest.
+
+"Do you have things like this from when you were little?" he asked Silena.
+
+She nodded. "A box of ribbons and a pair of shoes I refused to throw away. Mom kept them."
+
+"Could I see them?"
+
+"When we go back."
+
+Clarisse folded her arms. "You two can exchange baby objects. I'm not showing you anything from my childhood that involves a pink dress."
+
+Percy grinned. "There was a pink dress?"
+
+"There was no dress."
+
+"How would you know if there wasn't a dress?"
+
+"I would remember because I would have destroyed it."
+
+Silena laughed. The sound filled the nursery without the awkwardness of a ceremonial visit. Percy felt the room becoming theirs in the present, not because the objects suddenly gave him his missing years, but because his sisters were asking real questions and making jokes at his expense.
+
+He looked at Annabeth, who was still near the doorway.
+
+"Come see this," he said.
+
+She joined them by the window and looked at the shells without touching them.
+
+"Are they arranged chronologically?" she asked.
+
+"Probably. That's a very you question."
+
+"I'd like to know what the labels mean."
+
+"We can ask Mom," Percy said.
+
+He heard the ease with which the word came out. It had not been easy at first, after he arrived in this history and learned that Sally had died when he was two. Amphitrite had not required him to produce a matching childhood memory before she offered him care. Over time Percy had learned to meet that care with a present choice of his own.
+
+Clarisse glanced at him, then at the picture of the three children.
+
+"She's your mother," she said simply. "I can see she tried to help you remember we existed."
+
+"She did."
+
+"Then maybe we should thank her for keeping the picture."
+
+Silena nodded. "And for inviting us here."
+
+Percy smiled. He had been afraid the room would make him feel like a fraud. Instead it gave him another reason to talk to his family about a life all of them experienced differently.
+
+No one tried to take the drawing out from under the glass. They left it where the little Percy had apparently asked for it to stay, and promised only to ask Amphitrite whether she knew more about the day it was made.
 
 Silena made a small sound and sat down hard on the little bed, which creaked. Clarisse sat beside her, stiff at first, then leaning into her sister's side. Percy sat on the floor in front of them, knees up, like he had when he was small.
 
@@ -532,6 +724,84 @@ They walked back together, father and son, shoulders brushing, while the sea glo
 
 ---
 
+Before dinner, Amphitrite asked the visitors whether they wanted a moment in the smaller family dining room.
+
+Percy found her there with a table set for five and a tray of shell pastries. She looked from Clarisse to Silena to Annabeth, then to him, and for a moment the queen seemed more nervous than any of the guests.
+
+"I know the formal meal can be overwhelming," she said. "I wanted you to have somewhere to sit before the court begins."
+
+Clarisse looked at the empty chairs. "Are we in trouble?"
+
+"No."
+
+"Then why a separate room?"
+
+"Because you are family, and because family doesn't always want an audience."
+
+Silena smiled immediately. "Thank you."
+
+Percy took a chair beside Amphitrite. He had spent most of the day watching his sisters see rooms he'd already been shown on previous visits. He had heard the servants call him prince and watched Clarisse pretend not to be impressed. Now his mother put a pastry on his plate without asking whether he remembered liking them when he was seven.
+
+"These are the ones you had when I visited last month," he said.
+
+"Yes," Amphitrite replied. "I asked the cook to make them again."
+
+"Thanks, Mom."
+
+She smiled at him, then turned to the others. No one paused at the title. It had become ordinary between them, and Percy was grateful nobody treated it like a new or shocking declaration.
+
+Silena asked about the picture in the nursery. Amphitrite listened while she described the three stick figures under glass, then explained what she remembered of the day it was drawn. Percy had been small, frightened by a storm, and Poseidon had told him his sisters were safe on land.
+
+"I kept the picture because he wanted it where he could see it," Amphitrite said.
+
+Clarisse leaned forward. "Did he ask about us often?"
+
+"Yes. He asked what games you liked, whether you could swim and whether you would come to visit. I told him what I knew, and I tried not to invent answers to the questions I couldn't answer."
+
+Percy looked down at his plate. There had been a little boy who asked those questions. Percy could hear the story now, but he couldn't hear the boy's voice from that afternoon. He didn't pretend he could.
+
+"I wish we had been here," Silena said.
+
+"I know," Amphitrite answered. "That is part of why I wanted you here now."
+
+Clarisse looked away, swallowing. "We have school and camp. We can't come every time there's a formal dinner."
+
+"I wouldn't ask that," Amphitrite said. "Come when you want and when your responsibilities allow. I want visits you choose, not visits you resent."
+
+Percy grinned. "You sound like Annabeth."
+
+"Then perhaps we both have sense."
+
+Annabeth smiled at her over the tea.
+
+Amphitrite took out a small folder and set it on the table. It contained copies of the guest schedule, the directions to the private library and the times the palace transport would be available for their return to camp. Clarisse checked the training hall hours. Silena asked whether the kitchen visit could happen before breakfast. Annabeth wanted permission to measure the old dome arch and take sketches home.
+
+"You may observe it," Amphitrite said. "No measurements inside the restricted support chamber without the engineer's approval."
+
+"Of course," Annabeth answered.
+
+Percy recognized the rule from his Atlantean engineering class. Beautiful structures had limits. The palace was home, but it was also a place where people worked and needed to know who was entering which rooms.
+
+"What about the shells?" Silena asked. "Could Percy show us the labels tomorrow?"
+
+"Yes. We can look together if you want."
+
+She didn't say Percy must have forgotten. She didn't ask him whether the labels made sense. She simply offered to help answer a question he'd asked.
+
+"Good," Clarisse said. "And I want to see the forge before I leave."
+
+"Tyson can arrange a visit if his supervisor agrees."
+
+Percy smiled. The family visit was going to include more questions than speeches, more ordinary schedules than grand declarations. That was what made it feel real.
+
+The dinner bell sounded from the high hall. Amphitrite stood and looked at the three young women, each dressed differently and none of them trying to become what somebody else imagined a daughter of the sea should be.
+
+"Ready?" she asked.
+
+Silena nodded. Clarisse said the silk was too hot but she would survive. Annabeth adjusted the little owl clip in her hair.
+
+Percy offered his mother a hand. She took it, and they walked into the reception with their family alongside them.
+
 Dinner was grand and chaotic.
 
 The great hall filled with music. Lords and ladies took their places. At the high table, Poseidon presided with Amphitrite beside him.
@@ -630,6 +900,78 @@ They laughed, and the cove echoed it back, kind.
 
 ---
 
+Before they left the cove, Annabeth picked up a pebble from the water's edge and held it between two fingers.
+
+"Can I take this?" she asked.
+
+Percy looked at the stone. It was plain gray, with one white line across the middle.
+
+"I don't know. It might be part of a protected reef."
+
+She laughed. "You could have told me yes and we'd have had a romantic souvenir."
+
+"I am extremely romantic about environmental permissions."
+
+He went back to the small path and checked the rules posted beside the entrance. The cove was private, but it belonged to the palace grounds. The sign allowed visitors to photograph ordinary pebbles but asked them not to remove shells, living coral or anything from the nursery pools. Percy returned and explained.
+
+"Then we'll leave it," Annabeth said.
+
+She put the pebble back where she'd found it. They watched the current roll gently over it.
+
+"Do you feel like you belong here?" she asked after a while.
+
+"More than I did when I first came back to Atlantis. But sometimes I still have to ask how things work."
+
+"You know a lot now."
+
+"Things I've actually done. I can find the school, the gardens, the terrace Mom likes. I know the cook who makes that bread Silena wants to learn. That doesn't mean I remember being a little boy in every one of those rooms."
+
+Annabeth nodded. "I know."
+
+He looked at her. "Does that bother you?"
+
+"What?"
+
+"That we're still building memories in a place everybody says we already lived."
+
+She considered the question before answering.
+
+"No. It makes me sad sometimes. I know what it feels like to want the old years back. But I don't want your childhood to become something you have to perform for the palace."
+
+Percy breathed out slowly. He'd been afraid of disappointing her, too. She was the person who knew the other life he'd survived. Sometimes he expected her to judge how convincingly he fit into the one they inhabited now.
+
+"I called her Mom tonight," he said.
+
+"You've called her that for ages."
+
+"I know. I just noticed I didn't think about it first."
+
+Annabeth smiled. "That's good."
+
+He took her hand. The pebble lay beneath clear water, its white stripe barely visible. Percy didn't need to carry it away to remember this conversation. The two of them were here, talking about a day neither had known would happen when they were seventeen in the other life.
+
+"Can I tell you something embarrassing?" he asked.
+
+"Probably."
+
+"I was afraid Clarisse would hate the nursery."
+
+"Why?"
+
+"Because I had all those drawings of her when we were kids. She might think I had a real family and she didn't."
+
+"She didn't hate it."
+
+"No."
+
+"She asked about the picture and told you something about hers."
+
+Percy smiled. "She did."
+
+Annabeth squeezed his hand. "You didn't have to make her feel exactly what you felt. You just had to let her see the room."
+
+They left the pebble and the shells where they belonged. Percy carried no souvenir except the memory of Annabeth choosing to stay beside him while he tried to make sense of his two histories.
+
 They returned for curfew to find Silena and Clarisse waiting in the nursery, in pajamas borrowed from the palace — soft tunics embroidered with waves — sitting on the little clam bed and the rug, clearly waiting up.
 
 "There you are," Silena said, patting the rug. "Tell us everything. Did you show her the cove?"
@@ -667,6 +1009,10 @@ He bent and kissed each child's forehead — Clarisse, Silena, Percy — and bow
 In the morning they would return to camp, to drills and prophecies and mortal school worries. Thalia would demand her messages. Chiron would ask about protocol. Campers would crowd for stories.
 
 But for now, under the whale mural, with the sea humming through the walls, the three children of Poseidon slept side by side in the nursery for the first time, Percy's girlfriend and his sisters' friend safe beside them, home together at last.
+
+Percy had left the guest itinerary folded beside the bed, where he could find it in the morning. He knew who would escort them to the shore, which workshop Tyson needed to return to, and when Chiron expected confirmation of their arrival back at camp. These weren't grand revelations about his past. They were ordinary pieces of a life he could account for, and they mattered just as much as the mural above the bed.
+
+He closed his eyes with Clarisse's familiar breathing on one side and Silena's sleepy muttering on the other. Annabeth was close enough to take his hand if either of them woke. The family had come to the palace with separate memories and chosen to make a new one.
 
 The sea remembered this night, and kept it.
 

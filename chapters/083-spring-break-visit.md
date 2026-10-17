@@ -102,6 +102,88 @@ Annabeth squeezed Percy's hand quickly under the table, excited and nervous. Tha
 
 ---
 
+The trouble started at the airport counter.
+
+Percy had believed the exchange paperwork was finished, mostly because he was tired of looking at it. Chiron had checked their approval letters, the Roman hosts had confirmed arrival times, and Annabeth had made two copies of the route map. The three of them had packed light enough that Thalia insisted they would look like ordinary teenagers, if ordinary teenagers carried emergency bronze weapons inside approved protective cases.
+
+Then the clerk looked at the tickets and frowned.
+
+"There are three passengers, but only two confirmed contact numbers."
+
+Percy reached for the folder. "We have three permission letters."
+
+"That's not what I asked for."
+
+Thalia leaned across the counter. "We're traveling together."
+
+"Yes, but the airline needs the approved arrival contact for each minor. This one is incomplete."
+
+She pointed to Percy's name. He looked down at the line. Under the destination contact, a code had been entered that belonged to the Atlantean academy. That was where he had started the journey, not where the Roman host would collect him.
+
+Percy felt his stomach sink. He had written the code himself when he sent the preliminary request in May, the one marked *pending confirmation*. Somebody had copied it into the final ticket record without checking the updated letter from Chiron.
+
+"That's my mistake," he admitted.
+
+Annabeth took the folder. She didn't take it away from him; she held it so both could read it. "The Roman host is listed on the confirmation letter. Can we amend the passenger record?"
+
+The clerk explained the procedure. The supervisor would need to verify the host number by calling the receiving organization, not simply accepting the name Percy provided. It would take a while. Their flight was not boarding yet, but the counter line was growing.
+
+Percy thought of using the Mist to make the code disappear. That would be easy in the short term. It would also leave him on a flight with a record that couldn't tell anyone where he was supposed to be collected.
+
+"No magic," Annabeth said quietly, reading his expression.
+
+"I wasn't going to."
+
+"You were thinking it loudly."
+
+Thalia grinned without much humor. "He's learning that bureaucracy is a kind of monster you can't stab."
+
+Percy stepped aside and let the supervisor make the call. Annabeth kept the other two passports and tickets together. Thalia checked that their bags were still beside the counter and not blocking anyone's path.
+
+The Roman host answered. The supervisor verified the receiving contact and corrected Percy's record. It took eleven minutes. Percy counted all of them.
+
+"You're cleared," the clerk said.
+
+"Thank you," he replied, meaning it.
+
+On the way to security, Thalia nudged him. "You didn't argue."
+
+"I did it wrong."
+
+"You admitted it."
+
+"That doesn't make me like airports."
+
+"No one likes airports."
+
+Annabeth looked at the corrected form. "We should tell Chiron which code got copied. Otherwise the next exchange group could have the same problem."
+
+Percy nodded. He wrote a quick note in the margins of the copied approval and sent it by the authorized messaging route before turning off his phone. He also apologized to the other two for nearly making them miss their flight.
+
+"We weren't going to miss it," Annabeth said.
+
+"You don't know that."
+
+"True. But we dealt with it before it became an emergency."
+
+Thalia looked toward the gate. "That's how adults keep telling us to handle things. It is deeply irritating when they're right."
+
+At the waiting area they found a small boy crying because he couldn't find his seat assignment. His mother was reading a reissued boarding pass that had been printed with the wrong row number. Percy almost offered to sort it himself. Instead he pointed them toward the gate agent, who could actually confirm the manifest.
+
+The boy stopped crying once the agent showed him the correct seat. Percy watched him walk away holding his mother's hand. Small errors could become enormous when the people carrying the paperwork didn't know how to correct them.
+
+Annabeth sat beside Percy and opened her architecture book. The page showed an old Roman aqueduct, all careful arches and stone joints.
+
+"Why are you looking at that?" he asked.
+
+"Because the Romans had to keep water moving even when things went wrong."
+
+"Don't make this another engineering lesson."
+
+"Then stop giving me perfect examples."
+
+Percy laughed and leaned back in the chair. The flight was finally going to happen, not because everybody had been certain it would, but because the people involved had checked the facts and fixed the error.
+
 Flying in late May was different than quest-flying.
 
 No monsters. No leap from exploding monuments. Just three kids in coach with misted boarding passes, Thalia white-knuckled on the armrests, Annabeth with a Roman architecture book open on her knees and a notebook filling fast, Percy with the window seat and his forehead pressed to the cold plastic, watching the country unroll.
@@ -290,7 +372,7 @@ Percy stood and bowed, nearly falling off his bench again. "I accept this honor 
 
 Annabeth hid her face laughing. Under the table, where no centurion could issue a demerit, she found his hand and squeezed. He squeezed back. Warm, hidden, steady.
 
-The night ended with the upside-down toast. Slaves drank first. Masters last. Jason, still in tinsel, raised his cup last of all.
+The night ended with the upside-down toast. Service volunteers were thanked first, then guests, then hosts. Nobody was made to play a servant in a festival about hospitality. Jason, still in tinsel, raised his cup last of all.
 
 "To guests!" he said. "To sisters — blood and chosen! To Greeks who stand funny and fight bravely! To spring break — when everything flips and we remember we're family underneath!"
 
@@ -392,6 +474,86 @@ Hazel sighed happily. "It's cute."
 
 ---
 
+The morning before the city's holiday, Hazel took Annabeth to inspect the old library annex.
+
+Percy went with them because the Roman engineers had agreed to let visitors see the foundations, and because he had made the mistake of saying he enjoyed Annabeth's descriptions of drainage systems. Frank was also there, carrying a measuring tape and a little bag of tools borrowed from the Fifth Cohort.
+
+The building looked solid from the outside. Inside, one corner of the floor had settled. The shelves were upright, but a thin crack ran from the nearest window to the base of a column.
+
+"That's what I wanted you to see," Hazel told Annabeth. "The librarians say it's been like that for years. The engineers haven't cleared any extension while the corner is moving."
+
+Annabeth crouched beside the crack. She didn't touch it.
+
+"Do we have a record of the movement?"
+
+"Some," Frank said. "There are marks on the wall. The previous survey was last winter."
+
+Percy looked toward the far end of the room. The shelves held rolled maps and old histories, some with leather covers that had begun to curl in the damp air. The idea of a shared Greek-Roman archive had excited Annabeth since they reached camp. Now she was staring at a damaged column instead of a grand doorway.
+
+"Can you just strengthen it?" Percy asked.
+
+"Maybe," Annabeth replied. "But not before we know what caused it."
+
+Hazel showed them the drainage channel beyond the wall. It was narrow and partially filled with silt. Recent rains had left puddles beside the building. Annabeth followed the channel to an old stone culvert, then asked Frank where it discharged.
+
+He checked the plan. "Toward the lower gardens."
+
+"Does it still?"
+
+"We don't know."
+
+They asked the supervising engineer to accompany them to the garden wall. She was not pleased to find three teenagers proposing changes to a historical building. Annabeth explained what they had observed and asked whether there was an approved way to inspect the culvert without digging up the garden.
+
+The engineer listened and showed them an older survey. It confirmed that the discharge line had been narrowed when a new footpath was built ten years earlier. Nobody had measured how that affected the foundation during heavy rain.
+
+"It may be relevant," the engineer said. "It may not. We can schedule a proper inspection."
+
+Annabeth looked disappointed. "So we can't start planning the annex?"
+
+"You can draw a concept," the engineer replied. "You cannot pretend it has an approved foundation. If you want a library people can use safely, start by finding out whether the old one will remain standing."
+
+Percy smiled. It sounded exactly like a lecture Annabeth would give someone else.
+
+Hazel opened her notebook. She had been sketching the building for months, mostly from memory. Now she added a note beside the affected wall: *Foundation movement, unverified cause. Engineer's survey required.*
+
+Annabeth wrote the same line.
+
+"That's the first thing we agree on," Hazel said.
+
+"The first thing we can actually prove," Annabeth corrected.
+
+They went back inside to consider how a library might serve both camps without requiring anyone to surrender custody of precious records. Hazel explained that some Roman histories were held by families and could not simply be shipped away. Annabeth said the Greek archives had similar private letters and donated stories that were not available for general display.
+
+"Then maybe our shared annex doesn't need every original," Hazel suggested. "We could have copies people approve for study."
+
+"Yes. And a list of what has been copied, with the permission attached."
+
+Percy thought of Elena's opt-in campfire sheet, which she hadn't submitted until she knew the speakers had agreed. He told them about it without repeating the private statements, because it was the procedure, not the personal stories, that seemed relevant.
+
+Hazel nodded. "That would help. We have veterans who don't want their family histories copied for children to read."
+
+"Then we ask," Annabeth said.
+
+They sat at a long table with the supervising engineer and drew a preliminary plan. It had two entrances and clear pathways. The lower shelves would be reachable without climbing. A reading room would contain approved copies, while the protected storage rooms would remain under their respective custodians' control. The plan left a blank space where the foundation investigation needed to happen.
+
+Percy watched Annabeth hesitate over the blank rectangle. It would have been easy for her to fill it with a beautiful courtyard.
+
+Instead she wrote *pending survey*.
+
+Hazel leaned over. "I like that."
+
+"It's not very impressive."
+
+"It's honest."
+
+Frank looked at the drawings and offered to carry them to the engineer's office for registration. Annabeth wanted to bring them back to camp, but Hazel asked whether the Roman council should keep a copy. They agreed to make two marked versions: one for the Roman project file, one for Annabeth's personal sketchbook. Neither was an approved building permit.
+
+"Maybe we'll build it someday," Hazel said.
+
+"Maybe," Annabeth replied. "But not if we rush it."
+
+Percy smiled as they left. A few months earlier, he would have expected the big moment of the visit to be a battle or a prophecy. Instead it was a blank place on a drawing that both girls had decided not to fill with a guess.
+
 The middle day of the exchange belonged to the city.
 
 No drills. No war games. By arrangement for the exchange, the courts and schools closed for the day, and the legion stood down except for a token guard who wore paper crowns over their helmets and looked relieved about it. Masters served breakfast to servants. Praetors swept the principia steps while probatios supervised with clipboards and entirely too much enjoyment.
@@ -484,6 +646,114 @@ Frank spread a blanket over both of them without a word, Roman caretaking at its
 
 ---
 
+Before the final celebration, Jason asked his sisters to meet him in a quieter place.
+
+Percy went as far as the garden gate with Annabeth. She'd told him she wanted to be there for the visit, but not necessarily every part of the conversation. Jason had asked for family time. Percy was family by choice, yet that didn't mean he had a claim on everything the three Grace children needed to say.
+
+"I'll be at the fountain," he told her.
+
+Annabeth squeezed his hand. "Thanks."
+
+The garden behind the Roman barracks held a little stone bench beneath an olive tree. Jason had brought a thermos of warm tea and three cups. Thalia looked at the cups and raised an eyebrow.
+
+"You planned something."
+
+"I know how to make tea," Jason said.
+
+"You planned a conversation, Jason. It's worse."
+
+He smiled, but the expression faded quickly. "I wanted to ask about Mom."
+
+Annabeth felt her shoulders tighten. Their mother, Beryl Grace, lived in the changed history with a lifetime of events Annabeth knew mostly from accounts rather than firsthand childhood memory. Thalia knew some of them herself. Jason had his own memories, interrupted and scattered by the years he spent away.
+
+"What about her?" Thalia asked.
+
+"I got a letter. She wants to know whether we can visit together."
+
+Thalia looked at Annabeth. Neither spoke immediately.
+
+"She's asked before," Annabeth said.
+
+"Yes."
+
+"She wants us to say yes before we've even checked our schedules."
+
+Jason turned the envelope over. "I think she's lonely."
+
+"She may be," Thalia replied. "That doesn't make our answer automatic."
+
+Annabeth knew her sister had a complicated history with Beryl. The things Thalia remembered were hers to describe, and Percy had learned not to ask Annabeth to report every private detail of those conversations. Annabeth didn't want Jason to think she knew the same history just because she could repeat some of it.
+
+"What did she ask, exactly?" she said.
+
+Jason passed her the letter. Annabeth read only the paragraph he indicated. Beryl had invited them for a weekend in summer, with a suggestion that they stay in the house where the children had once spent holidays together.
+
+Annabeth stared at the phrase. *Where you used to play.* She couldn't summon an image of that room from the life everybody here remembered. She could imagine one, but that was different.
+
+"I don't remember that house," she said carefully.
+
+Jason looked up. "I know."
+
+"Do you?"
+
+"Not all of it. Thalia told me some things. Mom told me others. I don't know which memories of mine are from before I was taken to Jupiter and which are stories I've heard enough times that they feel familiar."
+
+Thalia let out a slow breath. "That's more honest than most of the things our family says about the past."
+
+Jason rubbed the edge of his cup. "I thought if we all went back, something would become clear."
+
+"Maybe something would," Thalia said. "But don't make that the reason we go."
+
+"Why not?"
+
+"Because then the whole weekend becomes a test. If somebody remembers the right thing, it counts as family. If they don't, it means something's wrong."
+
+Annabeth felt an immediate, painful recognition. She had spent months trying not to turn every familiar object into evidence about the rewrite. She didn't need to give Jason the details of that secret to agree with Thalia.
+
+"I'd go because I want to know her better now," Annabeth said. "Not because I can promise the house will feel like home."
+
+Jason nodded slowly. "That makes sense."
+
+Thalia took the letter and looked at the dates. "I have patrol obligations. I can ask for leave. I won't promise until Chiron and the Hunters confirm."
+
+"And I have school work," Annabeth added.
+
+"I have Roman duties," Jason said. "I haven't checked those either."
+
+They looked at one another, and for a moment all three began laughing. It was a very Grace problem: three children discussing a family reunion as though it were a military operation, before any of them had checked whether they were free.
+
+"Okay," Jason said. "I'll write her that we're considering it."
+
+"Tell her we'll answer after we know," Thalia replied.
+
+"Not 'yes, unless something comes up'?" he asked.
+
+"No. That's just a yes that makes people feel guilty when they have to change it."
+
+Annabeth reached for her cup. The tea had gone almost cold. She drank it anyway.
+
+"Can you tell me one thing about the house?" she asked Thalia. "Just something you remember yourself."
+
+Thalia considered. "There was a crooked step outside the kitchen. Mom always meant to have it fixed. I used to jump over it because it caught the edge of my shoe."
+
+"Did I jump over it?"
+
+"I don't remember. You might have been too small when I last saw that version of the house."
+
+Annabeth nodded. "Thanks for saying you don't know."
+
+Jason looked at her with a question he didn't ask. She was grateful. They could leave the reason for her missing memories outside this conversation. He had given her something more useful: a chance to ask about her family without pretending the answers were already inside her.
+
+When Percy joined them at the garden gate, he didn't ask for the details. Annabeth told him that Jason had received an invitation from Beryl and that they were deciding whether to accept. She didn't repeat Thalia's old family story as though it were public property.
+
+"Sounds good," Percy said.
+
+"Not decided," she corrected.
+
+"Sounds like a good question, then."
+
+She smiled. Jason waved them toward the Field of Mars where the celebration crews were gathering. For now the invitation remained an invitation. The three siblings still belonged to one another even when none of them had a final answer.
+
 On the final night came the fireworks.
 
 The spring exchange ended with lights for return — Roman fireworkers on the Field of Mars, sanctioned by the legion engineers, with Greek fire contributions from the Hephaestus cabin via Iris-message that Chiron pretended not to know about. The whole city gathered on blankets, cohorts mixed, ranks relaxed. Masters and servants sat together. Praetors and probatios shared popcorn.
@@ -539,6 +809,54 @@ When the smoke cleared, the stars were out, hard and bright above the temple hil
 ---
 
 Departure was at dawn, Roman-early, which Percy protested and then slept through until Annabeth shook him awake with cocoa.
+
+Before they went to the gate, Annabeth stopped by the engineer's office with Hazel's library drawings. The supervising engineer had left a short note on the desk, confirming that a foundation survey would be scheduled before anyone approved construction. No date had been set. There was also a stamped acknowledgement that the preliminary concept plan had been received, not approved.
+
+Hazel looked at the note and sighed. "It's not much."
+
+"It's a start," Annabeth replied.
+
+"Do you think the Greek camp will care?"
+
+"They'll care about the history. I don't know whether they'll fund a joint building. I haven't asked."
+
+Hazel smiled. "Then we have a lot of letters ahead of us."
+
+Annabeth took out a pencil and marked the page with the status of each item: a Roman survey request, a proposed archive permissions process and an unapproved concept for shared reading space. Percy watched from the doorway while Frank helped gather the original plans.
+
+"Could I draw the fountain?" Percy asked.
+
+Annabeth looked up. "In what?"
+
+"The plan."
+
+"Are you proposing plumbing?"
+
+"I'm proposing a place people might want to sit."
+
+Hazel considered. "That is a valid design goal."
+
+Annabeth handed him the pencil. Percy drew a little circle in the courtyard. It wasn't to scale, and the route between the doors still needed work, but both girls looked at it seriously before deciding whether to keep it.
+
+"We'll mark it as an idea," Annabeth said.
+
+"Can you write my name beside it?" Percy asked.
+
+"Yes."
+
+She did, then turned the drawing toward Hazel so she could see the annotation. Neither girl pretended the fountain would be built. Percy liked that his silly sketch could be kept without being treated as a decision made for people who weren't in the room.
+
+They packed the two copies separately. Hazel kept the Roman file with the engineer's acknowledgement; Annabeth carried her working sketch. Frank promised to ask the Fifth Cohort whether someone could help survey the path when the engineers were ready, but he didn't volunteer anyone on the spot.
+
+At the gate Percy told Hazel he would like to see the final version someday. She said she would send him a photograph if there was ever a final version.
+
+"That's fair," he said.
+
+"It is not a guarantee," she reminded him.
+
+"I'm getting used to those."
+
+Annabeth laughed. Their bags were light, but they were carrying more specific work home than any of them expected when the trip began. Percy checked the host contact one last time before leaving. Thalia confirmed Jason would write to Beryl about the possible summer visit. Annabeth confirmed the foundation drawing belonged to Hazel and their joint project, not to her alone. They were ready to go.
 
 The gate was quieter without cohorts in formation, just friends in cloaks with red eyes. Frank had packed them so many snacks Grover would weep. Hazel pressed the napkin-library sketch into Annabeth's hands, now inked proper.
 

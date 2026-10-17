@@ -2,7 +2,7 @@
 
 chapter: 004
 status: revised; length pass; developmental/line read incomplete
-body_word_count: 10928
+body_word_count: 11021
 relative_time: following Chapter 003, before a several-week gap leading into Chapter 005
 opening_location: Hall of the Gods
 ending_location: Big House and camp path after supervised return of evidence

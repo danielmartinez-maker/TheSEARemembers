@@ -1,6 +1,208 @@
 ## Chapter 93: Movie Night
 
-The sun went down behind the climbing wall on a Friday in late August and Camp Half-Blood exhaled.
+Percy got to the arena before the first bell, carrying a roll of chalk and the folded practice schedule Clarisse had drawn on the back of yesterday's lunch menu. The grass still held the night's cool. A few campers crossed the green toward breakfast with their hair damp from the showers, but the rest of camp had not yet worked up to speaking at full volume.
+
+He set his pack against the fence and measured the first lane from the post instead of trusting yesterday's marks. The old chalk had blurred where too many shoes crossed it. He widened the track by the length of his practice blade on both sides, then stepped along the line to check that the turn at the far end did not pinch down again.
+
+"You're early," Clarisse said behind him.
+
+"You said before the bell."
+
+"I did." She took the chalk from him, checked his spacing, and handed it back. "I didn't say you had to look proud about it."
+
+"I'm trying to look humble."
+
+"Keep trying."
+
+Clarisse wore a faded camp shirt and training pants, her hair tied back with a strip of red cloth. She had brought the short practice spear she used for demonstrations, not her real one. Evan stood beside the weapon rack, fastening a leather guard over the hand that held his practice sword. The scar on his left forearm showed pale against his skin. He had brought a notebook too, its corner bent from being shoved into a pocket.
+
+"I put the rotation on this," Evan said, showing Clarisse the page. "If the younger camper wants to stop after the first pass, that's the whole lesson. We don't have to make her finish the drill."
+
+Clarisse scanned it. "You have her changing direction too soon."
+
+"I thought we could keep the pace low."
+
+"You can keep the pace low and give her room to see what you're doing. The turn is the part she keeps missing." Clarisse pointed at the sketch with the chalk. "Move the marker back. She gets another step to choose."
+
+Evan studied the page, then shifted the mark. "Better?"
+
+"Less likely to crowd her."
+
+He nodded and altered the line. He did not argue to defend the first version. Percy liked him more for that, though the fact that Clarisse had the whole page to herself still tugged at an old, unreasonable place in Percy. He had imagined the morning as their familiar warm-up, just the two of them trading feints and counting the two taps before a bout. Instead there was a schedule, a second instructor, and a younger camper waiting near the fence with her hands folded tightly around the straps of her shield.
+
+Percy could have pretended the feeling wasn't there. Yesterday he had done that and nearly turned it into a rule for everyone else. Today he could let Clarisse choose how she taught.
+
+He held out the chalk. "Want me to mark the new turn?"
+
+Clarisse looked at him, then at the camper by the fence. "Yes. Ask her if she wants the line brighter. The turn is easy to miss when the lane gets crowded."
+
+Percy carried the chalk over without bringing his practice sword. The camper watched him approach, eyes flicking once toward the two older fighters.
+
+"Clarisse wants to know if the turn marker would help if I made it brighter," he said. "You can say no. We can move it either way."
+
+"A brighter line would help." She glanced down at the shield on her arm. "I know where I'm supposed to go. I just can't tell if I should turn before the mark or at it."
+
+"Then we'll keep the mark where you can see it, and nobody will move it while you're running." He showed her the widened chalk lane. "Do you want me to stand by the turn, or would that make it harder to see?"
+
+"Stand there. But don't tell me when to turn."
+
+"Deal."
+
+She glanced back at Clarisse. "I want her to call the pace."
+
+"You call it," Clarisse answered. "Evan can show the counter slowly. You decide when you're ready to try it."
+
+Evan picked up his practice sword. "I'll go at walking speed first."
+
+"Show it once without me," the camper said. "Then I want to try."
+
+Clarisse gave one short nod. "That's the lesson."
+
+Percy walked the new lane again, checking its end against the rut in the grass. The rut was shallow but it crossed the turn where the camper would be planting her foot. Yesterday he would have stepped in and moved her himself. Instead he crouched and pointed it out to her.
+
+"There's a dip just inside the line. Want to shift the mark around it, or leave it and practice stepping over?"
+
+She came to look. "Move it. If I have to watch the ground there, I'll miss the sword."
+
+Percy and Evan shifted the marker together. Clarisse watched, then made Percy walk it once at a slow pace. "You narrow it at the end, people will drift back to the old lane."
+
+"I see it." He swept the line out another foot and checked that it still left room for the next group.
+
+The first lesson began with feet, not weapons. Clarisse led the warm-up and stopped twice to change the spacing when two campers drifted toward each other. She had them walk the route before she let anyone jog it. Evan demonstrated the counter with his sword held low and his shoulders turned so the camper could see the change in his stance. He did it once, then again from the other side. When she raised her shield too soon, he did not correct her until she asked what had gone wrong.
+
+"You moved before I did," she said after the second demonstration.
+
+"I did." Evan lowered his sword. "I gave you the answer instead of giving you a chance to read it."
+
+Clarisse turned to the camper. "Again, or pause?"
+
+"Again."
+
+This time Evan waited until she committed to the first step. She saw the counter coming, but her shield caught the practice blade at the wrong angle and bumped her wrist. She shook her hand, not hurt, more annoyed at herself than anything.
+
+"Stop," Clarisse said. The group held. She came around the outside of the lane rather than cutting across it. "Wrist okay?"
+
+"Fine. I got the angle wrong."
+
+"Then fix the angle. Don't punish the wrist for being attached to you." Clarisse took a practice shield from the rack and held it out. "Want to try without a sword first?"
+
+The camper looked at the shield, then chose a smaller one from the rack. "This one."
+
+Clarisse gave it to her. "Good. It's your arm."
+
+The next pass was slower. The camper kept her shield closer to her body and caught Evan's blade on the flat instead of the rim. She did not win anything. She did not have to. She lowered the shield herself and asked for one more try.
+
+Percy stood at the turn, watching her feet and the chalk instead of searching Clarisse's face for a sign he was still included. When the camper glanced his way, he raised one finger to show the line was clear. She ran the route, made the turn without stepping into the rut, and brought the shield up at the right time. Evan stopped his blade a hand's breadth away.
+
+The camper's shoulders dropped. "That felt better."
+
+"Because you waited," Clarisse said. "You saw where he was going before you decided what to do."
+
+The camper lifted the shield again. "One more."
+
+"One more," Clarisse agreed.
+
+Will came across the green while the group reset. Thalia followed him from the infirmary, her right hand wrapped in clean white gauze and held close to her side. Percy looked at the bandage before he could stop himself.
+
+"It's dry," Thalia said. "You can stop staring."
+
+"I wasn't staring."
+
+"You have a very obvious face."
+
+Will examined the dressing and asked before touching her fingers. Thalia flexed them once, then stopped when her palm pulled. "Tender?" he asked.
+
+"A little."
+
+"Any heat under the gauze? New redness?"
+
+"No."
+
+Will replaced the outer wrap with a lighter one and secured it without covering the tips of her fingers. "Keep it dry. No sparring today. You can watch, but nothing that makes you catch or brace with that hand. We'll check it again tomorrow."
+
+Thalia made a face at the word tomorrow. "I can manage a morning without hitting anyone."
+
+"I'm sure. You can also manage a morning without proving it." Will tucked the used wrap into his kit. "If it gets warmer, more painful, or the redness spreads, find me. If it keeps improving, we continue being boring about it."
+
+"Your bedside manner is a tragedy."
+
+"My bedside manner is why people still have hands."
+
+Percy flexed his own fingers once. They felt ordinary. He had not felt the tingling since the storm; that was all he knew. Will caught the movement.
+
+"Anything new?"
+
+"No tingling. No weakness."
+
+"Good. Keep following the same instruction. If it comes back, stop and tell me. We still don't have a diagnosis, and I don't want you deciding the symptom means more or less than it does."
+
+Percy nodded. "I won't."
+
+Clarisse called them back to the lane. "Percy, you're up. Two slow passes. You're marking the turn, so use it."
+
+That was when she gave him the two taps: knuckles against his forearm, light and familiar, then another to make sure he was looking. It had always meant *ready?* more than *go*. Yesterday he had missed it. Today Clarisse had not forgotten.
+
+"Ready?" she asked.
+
+"Yeah."
+
+Evan showed the counter once. Percy waited for the turn rather than trying to beat the practice blade to it. He held his ground, pivoted where the chalk widened, and met Evan's sword with the flat. His shoulder stayed back. The second pass went faster, but not fast enough to turn a lesson into a contest.
+
+"You stopped before the line," Clarisse said.
+
+"I drew it wider."
+
+"That's not the same as pretending there isn't a line."
+
+"I know." Percy looked down at his feet. Both were inside the chalk. "I stopped."
+
+Clarisse nodded once. "Good. Keep doing that."
+
+The camper watched Percy set the practice blade back on the rack. "You got corrected yesterday too?"
+
+"I did."
+
+"Did it help?"
+
+Percy looked at the wider lane, then at the place where his old mark had nearly pushed the turn into the rut. "It helped the lane."
+
+She considered that answer. "Okay."
+
+By the end of the rotation she had completed three slow passes and chosen to stop before the next group took the field. Clarisse did not praise her as if she had overcome something enormous. She asked which part she wanted to work on next time. The camper said the turn. Evan wrote it down. Percy rubbed chalk from his palms and helped them lay the practice shields back in size order.
+
+Clarisse nudged his shoulder with hers. "You showed up."
+
+"I said I would."
+
+"You do say a lot of things."
+
+"This one had a clock."
+
+She tapped his arm twice again, this time with the back of two fingers. "See you at breakfast, Fungus."
+
+"See you, La Rue."
+
+Evan stayed to talk through the next rotation with Clarisse. Percy let them have the space. The small old pinch came and went; it did not need to choose the shape of his morning. He carried the chalk back to the rack and found Annabeth waiting near the fence with two cups of water. She handed him one without asking him to explain his face.
+
+"You did what you said you'd do," she said.
+
+"I did."
+
+"How did it feel?"
+
+He drank. "Like being part of the lesson instead of trying to own it."
+
+Annabeth's mouth tipped up. "That sounds inconveniently healthy."
+
+"I'll make a worse choice later to even it out."
+
+She bumped his shoulder with hers. "Save it for a movie opinion."
+
+By the time the breakfast bell sounded, the wider lane was still visible, though the chalk already had shoe prints through it. Percy wrote down the turn measurement on the corner of Clarisse's schedule and gave it back. He did not ask her to promise another practice. They had done the one they agreed on. That was enough for the morning.
+
+---
+
+By sunset, the climbing wall threw a long shadow across the grass, and Camp Half-Blood loosened its grip on the week. The drills were finished, the worst of the late-August heat had lifted, and dinner in the pavilion had the lazy noise of a camp ready to spend an evening without a schedule.
 
 It had been a long week of drills and patrols and heat that stuck to the back of everyone's neck, and by dinner in the pavilion the whole camp had that tired, sunburned, end-of-summer looseness. Percy Jackson sat with the Poseidon table — where Clarisse and Silena had saved seats for him and Tyson, who was visiting for the weekend — and watched the Apollo table three tables over getting louder and louder.
 
@@ -35,18 +237,126 @@ Dionysus sighed. "Fine. But if anyone summons anything, curses anything, or burn
 "Five drachmas!" Connor shouted. "Inflation!"
 
 Chiron smiled into his beard. "Bring blankets, everyone. It will be cool by the lake. And bring good humor. The gods in film are rarely as they are."
+Will raised his hand. "Could we sleep out here when the movies end? Just tonight. We can keep the group inside the lantern rope."
+
+Dionysus stared at him. "Why do you people keep asking me to sleep outdoors?"
+
+"Because it's a movie night," Will said.
+
+"Then watch the movie and go to bed."
+
+Chiron let the groans run their course. "One supervised campout, if the counselors agree to stay on the green. We will keep everyone inside the marked boundary and count the groups after the films and again at first bell. No one leaves the green after the final count without a counselor. The projector and extension cord come down before anyone settles in, and there will be no open flame."
+
+Dionysus pointed a finger at Will. "My hill, my rules. No monsters, no quests, no fire, and no waking me because somebody's blanket has become damp."
+
+"Agreed," Chiron said. "The cord stays taped and watched while live. Austin shuts the projector down before anyone moves it. We keep the marked path clear. If the wind picks up, we stop the film and fix the rig before restarting."
+
+Kayla looked at the checklist she had been carrying. "I'll take the equipment count."
+
+"Will and I will take the first watch," Chiron said. "Clarisse, can you find another counselor to cover the south side with you?"
+"I can," Clarisse said. She glanced at Percy. "You can help gather the blankets at first bell if you're still awake."
+"I'm always awake for free blankets."
 
 That was all it took. Dinner dissolved into planning.
 
+Frank and Hazel were seated at the visitors' table with Jason. Percy crossed over while the pavilion cleared and pointed to the Camp Jupiter shirt Frank had folded beside his pack.
+
+"Could I borrow that for tonight?" Percy asked. "The shirt, I mean. If you brought an extra."
+
+Frank looked from the shirt to Percy. "I did. It's clean." He opened the top of his travel bag, pulled out a spare bearing the Roman eagle, and held it out. "For the movie. Give it back when we pack up in the morning."
+
+Percy took it only after Frank offered. "Thanks. I'll keep it clean."
+
+"That's all I ask. Hazel's got a strict rule about popcorn stains."
+
+Hazel looked up from folding a napkin. "I have a strict rule about Frank pretending he can get butter out of anything."
+
+"I can get butter out of most things," Frank said.
+
+"Last week you used a knife."
+
+"It worked."
+
+Percy grinned and carried the shirt back to the Poseidon table. He had worn a Camp Jupiter guest tunic during the spring visit, but this one was Frank's to lend, and Percy wanted to treat the difference like it mattered.
+
+
+After dinner, Percy carried one end of the folded sheet while Will, Kayla, and Austin brought the projector table down from the storage room. The work went slowly because Chiron had asked them to finish the walkway and power check before anyone set out blankets. Percy had spent the morning widening a lane; the marked path around the cord felt like the same kind of job. It needed to stay visible after the grass went dark, and it had to leave enough room for campers carrying food to pass without stepping over the cable.
+
+Annabeth walked the proposed route with him. She had taken a piece of twine from the equipment box and held one end at the Big House outlet while Percy carried the other toward the south green. She stopped him before he reached the screen.
+
+"If the line runs straight through there, the crowd will cut across it when the lights go down," she said. "Can we take it behind the last row of chairs, then turn along the pine side?"
+
+Percy looked from the outlet to the bare strip beside the trees. "The cord reaches?"
+
+"Just. We shouldn't stretch it tight."
+
+"Then I can move the chairs."
+
+"Wait." She checked the length of twine against the table location Austin had picked. "If we shift the table half a pace this way, it reaches without crossing the footpath."
+
+Percy moved the table only after she showed him the distance. He and Austin lifted it together, careful not to jostle the projector. Kayla checked the cord's label and ran it around the back of the screen. The Hephaestus cabin had repaired the plug and replaced a cracked housing, but no one treated that as a guarantee against tripping or rain. Austin tested the projector only after the outlet was dry and the route taped down.
+
+The screen was the next problem. A breeze came up from the lake and pushed the sheet outward. The lower edge lifted enough to turn the test image into a white blur. Austin reached toward the laptop.
+
+"Wait," Chiron called. "Power down first."
+
+Austin shut the projector off. He unplugged it at the wall and waited for Kayla to confirm the table was clear before touching the cables. A few campers stepped toward the sheet, ready to help, but Annabeth stopped them from grabbing at the loose corner.
+
+"Don't pull against it," she said. "The top line is carrying all the strain. We need to share the tension."
+
+She traced the screen frame with one finger, then asked Percy to hold the far guide rope while she and Austin reset the top bungee. Percy kept the line steady instead of yanking it tight. Frank, who had come over to return a cup, held the opposite end when Kayla asked him. Together they raised the lower corner, fed a second short line through the bottom loops, and tied it off to the fixed support pole. The sheet stopped bowing but still moved a little when the breeze changed.
+
+"That's enough," Annabeth said. "A little movement is fine. If we make it rigid, the next gust pulls the whole frame."
+
+Chiron tested the line with his hand. It gave without snapping back. He nodded to Austin, who plugged in again and brought up the test card. This time the edges stayed in place. The colors were still slightly washed out on one side.
+
+"Can you turn the screen a few degrees?" Annabeth asked.
+
+Austin shifted the projector, not the sheet. The image sharpened. Percy could see the drawn sun from the Apollo logo, sunglasses and all.
+
+"Good," Kayla said. She marked the new cable path on her checklist and handed Percy a strip of silver tape. "Can you put a mark on the side where people should pass?"
+
+He made two bright tabs at the turn, far enough apart that no one would mistake them for a step. Clarisse walked the route once, then again carrying a bowl. She pointed out a spot where the tape lifted at a seam in the grass. Percy pressed it down and added another strip across the edge.
+
+"Now a sleepy person can see it," she said.
+
+"That's the goal."
+
+"Not tripping is a low bar."
+
+"It's my specialty."
+
+Thalia had stayed on the bench with her right hand tucked close. She used her left to write WIND SIDE on Kayla's checklist and then pointed to the loose end of the guyline. "That one needs another wrap before the dark. Don't have somebody stepping into it."
+
+Kayla checked it and agreed. Nobody asked Thalia to lift or brace the frame. Percy brought the extra tie line over, and Clarisse secured the knot while Thalia watched from the bench. The new route kept the cord behind the chairs and the support line beyond the marked walkway. Chiron walked both paths before giving his approval.
+
+By then the dinner noise had moved into the cabins, and the south green was empty except for the four of them and the equipment. Annabeth coiled the spare twine. Percy offered to carry it, then waited when she held on to one end.
+
+"I can bring my notes," she said. "You can take the rope."
+
+He took the rope. Her sketch and his hands had each done a different part of the job. He didn't need to turn the fact that they worked well together into a reason to take over her plan.
+
+"Meet you back here after showers?" he asked.
+
+"I'm saving the center-left spot before the Stolls sell it."
+
+"That's fair. I'll bring drinks."
+
+"Only if you get two."
+
+"Obviously."
+
+The screen stayed up under supervision while the cords and tools went back inside. The test image held steady when the breeze returned. Percy looked once at the marked turn, then left it there for the night crew to check.
+
 ---
 
-By nine o'clock the south green had turned into something Percy had only ever seen at Camp Jupiter in pictures his friend Frank had sent him — a sprawling patchwork of blankets and sleeping bags and overturned logs and camp chairs, all facing a huge white sheet strung between two tall pines.
+By nine o'clock the south green had filled with blankets and sleeping bags, overturned logs and camp chairs, all facing a huge white sheet strung between two tall pines. Percy recognized the arrangement from the spring exchange at Camp Jupiter, when Jason had saved a place for his family on the fireworks hill and Frank had spilled popcorn when Annabeth took Percy's hand. This field was smaller, but it brought back the same firework-lit sprawl from May.
 
-The Apollo kids had done it right. They'd washed the sheet until it glowed. They'd run a long orange extension cord from the Big House all the way across the grass, taped down with silver duct tape that the Hephaestus kids had blessed, probably literally, so no one would trip. The projector sat on a picnic table in the middle of the crowd under a little tent of mosquito netting, humming. Austin crouched behind it with a laptop and a nest of cables and the intense focus of a surgeon.
+The sheet had been washed until it glowed. The orange extension cord followed the tested route behind the walking lane, its tape still flat; the projector table sat under a little tent of mosquito netting. Austin crouched behind it with a laptop and a nest of cables, checking each connection against a list.
 
 Fireflies drifted over the grass. The lake glittered black beyond the trees. Someone had strung globe lights from branch to branch and they swayed gently, gold and warm. The smell of popcorn hung over everything, thick and buttery, mixed with pine and lake water and citronella.
 
-Percy came down the hill with a blanket over his shoulder and two cans of Coke in his hands. He was wearing a faded Camp Jupiter T-shirt he'd stolen from Frank and gym shorts and his beat-up sneakers. His hair was still damp from a quick shower.
+Percy came down the hill with a blanket over his shoulder and two cans of Coke in his hands. He wore a faded Camp Jupiter T-shirt he had borrowed from Frank at dinner, along with gym shorts and his beat-up sneakers. His hair was still damp from a quick shower.
 
 Annabeth was already there saving them a spot.
 
@@ -94,7 +404,7 @@ Ella, overhearing her name, looked over. "Ella likes popcorn. 'Popcorn is the ba
 
 Grover plopped down on Percy's other side with a sigh of pure bliss, his goat legs folded under him, a flower crown slightly askew on his curly hair. He had a paper grocery bag full of tin cans, pinecones, apple cores, and one very suspicious enchilada. "Movie snacks," he explained proudly.
 
-Thalia Grace vaulted over the log behind them, landed in a crouch, and sat down next to Grover in one smooth motion. Her black hair was spiky with static, her eyeliner sharp enough to kill, her leather jacket covered in pins. She had a soda in one hand and a sour gummy worm hanging out of her mouth.
+Thalia Grace came around the end of the log and lowered herself beside Grover, keeping her wrapped right palm tucked against her jacket. Her black hair was spiky with static, her eyeliner sharp enough to kill, and her leather jacket was covered in pins. She held a soda in her left hand and had a sour gummy worm hanging out of her mouth.
 
 "Evening, Kelp Head," she said. "Wise Girl."
 
@@ -126,9 +436,9 @@ Chiron settled himself on a large, comfortable-looking hill of cushions near the
 
 A cheer went up. Someone dimmed the globe lights. The sheet glowed white in the dark, rippling faintly in the breeze.
 
-Percy shook out his blanket — blue, frayed at the edges, smelling faintly of salt — and spread it over the camp blanket so they overlapped. Annabeth helped without being asked, smoothing the corner. They sat shoulder to shoulder underneath it, knees up, sodas tucked between them.
+Percy shook out his blue blanket, frayed at the edges, and spread it over the camp blanket. Annabeth smoothed the corner and tucked her hand between them, where Percy could find it without making a show. He slid his fingers into hers. There was popcorn in the air, Grover crunching pinecones at his other side, and the lake moving quietly through the trees. For once, nothing was asking them to leave.
 
-They settled shoulder to shoulder, Annabeth's hand resting on the blanket between them where Percy's hand could find it without making a show. Percy felt his whole nervous system settle. This was his favorite thing in the world, he thought. Not fighting monsters. Not quests. This. Sitting next to Annabeth with popcorn smell in the air and Grover crunching pinecones next to him and the lake making its soft shushing sound through the trees.
+
 
 Annabeth leaned her head briefly against his shoulder. "You good?"
 
@@ -228,7 +538,7 @@ Grover, munching an apple core, bleated loudly at the screen when the movie's ve
 
 "Preach!" Juniper, his girlfriend, a dryad who'd come down from her tree for the night, shouted from the next blanket, throwing a pinecone at the screen and missing by ten feet. "Justice for puppet horses!"
 
-Thalia stood up, pointed her enchilada at the screen like a sword, and shouted, "THAT'S NOT HOW LIGHTNING WORKS! I WOULD KNOW! I AM LIGHTNING-ADJACENT!"
+Thalia, using her left hand, pointed her enchilada at the screen like a sword and shouted, "THAT'S NOT HOW LIGHTNING WORKS! I WOULD KNOW! I AM LIGHTNING-ADJACENT!"
 
 "You tell them!" Percy shouted, laughing.
 
@@ -336,6 +646,20 @@ Juniper crawled over and curled up against Grover's side, her green dress smelli
 
 Annabeth had pulled her architecture book into her lap and was sketching the projector setup on the back of a popcorn receipt, labeling the angles. Percy watched her pencil move, quick and sure.
 
+"Silena said the empty bunk in Cabin Three will still be free after first bell," Annabeth said, keeping her voice low. "I asked her and Chiron if I could use it after we pack up. It's a shared room, and they said it was fine."
+
+Percy looked at her. "You're coming back with me?"
+
+"If you want me to."
+
+"I do. As long as Clarisse and Silena are still okay with it."
+
+"Silena asked me. Clarisse said the bunk by the door was open." Annabeth tipped her pencil toward the projector. "I don't need to be rescued from my own cabin, Seaweed Brain. I can walk back if I change my mind."
+
+"I know." Percy held up both hands. "I was checking, not campaigning."
+
+"Good. Then we're agreed. Movie first, sleep later."
+
 "What are you doing?" he asked.
 
 "Figuring out how they got the image that flat on a windy sheet. They've got it tensioned really well. See the bungees? If I—"
@@ -380,7 +704,7 @@ Frank and Hazel came back from the popcorn machine with a fresh bag and sat clos
 
 Nico, who had been sitting stiff and silent through the whole first movie, had slowly, imperceptibly, relaxed. Kayla had stolen his soda and he'd let her. Will had come over during intermission, ruffled his hair, handed him a box of Sour Patch Kids without a word, and Nico had taken them. Now he was sitting with his knees pulled up, watching the crowd with something almost like peace.
 
-Piper had pulled out her phone and was taking pictures — not posed ones, just the sprawl: Connor mid-yell, Tyson laughing with popcorn in his teeth, Chiron trying to untangle himself from his cushions, Mr. D asleep with his magazine over his face.
+Piper had pulled out her phone, but her pictures were of the screen, the popcorn sign and the row of blankets from behind. She kept the sleeping campers out of the frame.
 
 "For the yearbook?" Jason asked.
 
@@ -412,9 +736,7 @@ Thalia groaned. "No. No crying movies. I forbid crying movies."
 
 "I'M ALLERGIC TO HAPPY HORSES."
 
-Annabeth pulled the blue blanket back up over both their laps as the lights went down again. The air had cooled. The lake breeze lifted the edge of the sheet. Percy could see goosebumps on her arms where her sweater sleeves were pushed up, so he shifted, just slightly, so their shoulders pressed together under the blanket, sharing warmth.
-
-She glanced at him, grateful, and settled against him. Not dramatic. Just there. Her head near his shoulder, her knee bumping his under the blanket. Percy felt that familiar, fizzy calm spread through his chest.
+Annabeth pulled the blue blanket over both their laps as the lights went down again. The air had cooled, and the lake breeze lifted the screen's lower edge. Percy saw goosebumps on her bare forearms and shifted until his shoulder met hers beneath the blanket. She looked over, then rested her head against him. Her knee settled against his; after one small adjustment, she stopped trying to get comfortable.
 
 "Comfy?" he whispered.
 
@@ -436,13 +758,13 @@ The second movie was, objectively, a better film. Even Annabeth couldn't heckle 
 
 It was the story of a stubborn princess and her stubborn mother, a spell gone wrong, a bear in the woods, and all the things you don't say until you might lose your chance to say them.
 
-The camp watched differently this time. The heckles got softer, then stopped. Someone's baby sibling from the Hermes cabin fell asleep on a pile of jackets. The fireflies thickened. The globe lights swayed.
+The camp watched the second film differently: the heckles softened and stopped, a Hermes toddler fell asleep on a pile of jackets, and fireflies began gathering between the swaying globe lights.
 
-Percy felt Annabeth's breathing slow against his shoulder. He didn't move, didn't want to break it. He watched the girl on screen argue with her mother and thought about Sally in his original life: the apartment in Manhattan, blue pancakes, and how she had cried when he first left for camp, proud of him even while she worried. He thought about Poseidon, who tried in his own weird god way, who'd sent a seahorse with a note last week that just said PROUD. He thought about how lucky he was to be here, under a blanket, with his best girl leaning on him and his best goat snoring softly next to him.
+Annabeth's breathing slowed against his shoulder. On screen, the daughter argued with her mother, and Percy remembered Sally in their Manhattan apartment, making blue pancakes before his first trip to camp. He could still picture how she had cried when he left, proud and worried at once. The memory hurt; it did not push him out of the green. Annabeth was warm at his side, and Grover's snore kept breaking through the music.
 
 Next to Grover, Thalia was doing her best tough-girl impression and failing spectacularly.
 
-"I'm not crying," she whispered fiercely, wiping her eyes with the back of her hand. "It's the projector dust. Apollo cabin has dusty projection."
+"I'm not crying," she whispered fiercely, wiping her eyes with her left sleeve. "It's the projector dust. Apollo cabin has dusty projection."
 
 "Uh-huh," Grover said, handing her a napkin without looking away from the screen. He was crying freely, tears tracking through the dust on his face. "Here. Blow."
 
@@ -466,7 +788,7 @@ Tyson nodded solemnly. "Tyson hears Ella. Always."
 
 Ella started crying in earnest — small, hiccuping, feather-fluffing sobs. Not scared sobs. The other kind. The kind where a story cracks you open in a good way.
 
-Hazel heard and immediately crawled over from her log with Frank's star blanket, tucking it around Ella's shoulders. "Here, sweetie," she whispered. "It's a sad-good part. It's okay to cry."
+Hazel heard and immediately crawled over from her log with her star-patterned blanket, tucking it around Ella's shoulders. "Here, sweetie," she whispered. "It's a sad-good part. It's okay to cry."
 
 "Ella is crying," Ella announced through tears, as if confirming it for the record. "'Tears are words that need to be written.' Ella read that. Ella feels many words."
 
@@ -508,7 +830,7 @@ She breathed out, shaky, and relaxed. "I know. Stay?"
 
 "Always."
 
-They watched the rest like that — Annabeth tucked against Percy's side, his arm around her, blanket over both of them, her tears drying on his T-shirt. Sweet and steady, the way they had learned to be. No one stared. At camp, this was normal. This was Percy and Annabeth. The kids who remembered holding the sky and kept choosing each other and now shared a blanket and a soda on a summer night like any other teenagers who'd survived the world.
+They watched to the credits with Annabeth tucked against his side and her tears drying on his T-shirt. Percy kept his arm loose enough for her to sit up or move away; she chose to stay there. When the mother and daughter on screen reached for each other, Annabeth squeezed his hand once. He squeezed back, letting her decide what the scene meant.
 
 The movie built to its ending — the sunrise, the stones, the mother returning, the daughter saying I'm sorry and meaning it. The music swelled.
 
@@ -538,9 +860,15 @@ Everyone laughed, shaky and real, and the spell broke gently into warmth.
 
 ---
 
-The lights came back up but low, just the globe lights and the stars. Nobody rushed to leave. That was the best part of camp movie nights — the slow dissolve.
+The globe lights came back up low, and the stars showed through the gaps in the pines. Nobody rushed to leave. The second film had ended, but the group still had one job before the night could turn quiet.
 
-Austin left the projector running so the white sheet glowed like a nightlight. Kayla put on a playlist from her phone — soft acoustic stuff, Apollo-approved, no bagpipes after the Incident. Kids folded blankets slowly, shared the last of the popcorn, flopped down in piles.
+Chiron raised a hand. "Counselors, give me your group counts."
+
+One by one, the counselors answered. Will checked each group against the roster while Chiron watched the marked boundary. When everyone had been accounted for, Chiron nodded to Austin.
+
+Austin shut down the projector and waited for the lamp to cool. Kayla kept the walking lane clear while he unplugged the cord at the wall. They coiled the extension cord, checked it against the equipment label, and carried the projector and cord back to the Big House. The empty table and tied screen could wait until morning; the walking lane was clear before anyone settled.
+
+Kayla put on a playlist from her phone — soft acoustic stuff, Apollo-approved, no bagpipes after the Incident. Kids folded blankets slowly, shared the last of the popcorn, and found places inside the marked green.
 
 Percy and Annabeth stayed put. They had no reason to move. Annabeth had recovered, her cheeks pink, her eyes bright, and now she was laughing at herself.
 
@@ -566,9 +894,9 @@ Hazel and Frank sat on their log, sharing the last handful of popcorn kernel by 
 
 Nico had fallen asleep too, slumped sideways against Kayla's shoulder. Kayla looked terrified to move. Will came over, saw them, and mouthed sorry, then draped his own jacket over both of them and sat down at their feet to keep watch.
 
-Clarisse and Silena were still holding hands. They'd both fallen asleep sitting up, heads tipped toward each other but not quite touching, the empty popcorn bowls in their laps. Travis took a picture. Connor whispered, "They're going to kill you." Travis whispered back, "Worth it."
+Clarisse and Silena were still holding hands. They'd both fallen asleep sitting up, heads tipped toward each other but not quite touching, the empty popcorn bowls in their laps. Travis started to raise his phone. Connor lowered his elbow gently. "Let them sleep," he whispered. Travis studied the two sisters, then pocketed the phone. "Yeah. You're right."
 
-Chiron trotted slowly through the blankets, checking on everyone, pulling an extra blanket over a shivering Hermes kid, extinguishing a citronella candle that had burned too low. He stopped by Percy and Annabeth's blanket and smiled down at them.
+Chiron trotted slowly through the blankets, checking on everyone and pulling an extra blanket over a shivering Hermes kid. At the boundary, he turned off a battery lantern that had been pointed toward the cabins.
 
 "Good night, you two," he said softly. "Good movie?"
 
@@ -582,15 +910,15 @@ Chiron moved on, his hooves soft on the grass.
 
 Annabeth yawned, huge and sudden, and leaned her head back on Percy's shoulder. Percy yawned in sympathy. The blanket was warm. The night was cool. The globe lights swayed. The sheet flapped softly in the breeze.
 
-"We should go back," Annabeth murmured, not moving. "Curfew. Malcolm will mark us late."
+"Will got every group counted?" Annabeth murmured.
 
-"In a minute," Percy murmured, not moving either.
+"He and Chiron checked the roster before Austin took the projector away."
 
-"Okay. One minute."
+"Good."
 
 They sat in the buzzing, sleepy quiet. Percy could feel Annabeth's heartbeat where her shoulder pressed into his side. He could hear Grover snoring, Thalia shushing everyone who walked past too loud, Ella mumbling about Krakens in her sleep, the lake lapping, the pines sighing.
 
-He thought about how many nights like this they'd missed — years of summers interrupted by wars and prophecies and funerals. How many times they'd sat like this in the middle of danger, holding their breath, waiting for the next attack. How rare and precious this was. Just kids. Just a blanket. Just a bad movie and a good movie and popcorn and friends.
+Percy had spent enough nights braced for an alarm to notice when there wasn't one. Tonight the projector was packed away, the counselors had the boundary, and Annabeth's hand rested in his beneath the blanket. The evening could not repay the years they had lost or promise that danger would stay away. It gave him this ordinary hour, and he stayed for all of it.
 
 Annabeth's hand found his under the blanket, fingers threading through his, squeezing once.
 
@@ -602,7 +930,21 @@ Annabeth's hand found his under the blanket, fingers threading through his, sque
 
 "Anytime," Percy whispered, squeezing back. "Anytime."
 
-The projector clicked off. The sheet went dark. The stars came out brighter. And on the south green at Camp Half-Blood, under a sky full of real constellations far more accurate than any movie, a hundred demigods fell asleep in piles like puppies, safe for one more night, dreaming of bears and Krakens and home.
+The sheet shifted in the breeze, dark now that the projector was stored. Chiron and Will took the north side for the first watch. Clarisse returned with a counselor she had recruited to share the south boundary. The marked path stayed open, and the campers on the green settled into the supervised groups they had counted together.
+
+At first bell, Percy woke with grass on his shorts and a kink in his neck. The counselors gathered their cabin groups before walking them back from the green. Chiron and Will checked the boundary as the last blankets were collected. Austin's checklist showed the projector and extension cord back in the Big House. No one had left the marked green during the night.
+
+Near the path, Ella carefully folded Hazel's star-patterned blanket and handed it back. "Ella thanks Hazel again. The blanket was warm."
+
+Frank waited near the path with Jason and Hazel. Percy tugged at the borrowed Camp Jupiter shirt. "Still clean. I only got grass on the back."
+
+Frank checked the fabric and took it from him. "Good. I was going to ask for it before breakfast."
+
+"Thanks for lending it."
+
+"Anytime." Frank folded it into his bag, and Hazel handed Percy the blue blanket he'd left by the log. Percy helped fold the remaining camp blankets and set each one in the pile for its cabin. The Apollo crew took the frame down without powering it, then carried the folded sheet and table back to storage. Chiron checked off the last group only after every counselor had answered for their campers.
+
+Annabeth carried her own rolled blanket beside him. At Cabin Three, Silena pointed her toward the empty bunk by the door and asked if she had everything. Annabeth said yes, then climbed into the spare bed three bunks from Percy. He dropped onto his mattress, meaning to rest for a few minutes before breakfast. The cabin fountain kept its soft rhythm while the camp stirred outside. Percy closed his eyes again.
+
 
 ---
-

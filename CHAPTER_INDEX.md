@@ -196,7 +196,96 @@ The manuscript is a work in progress. Chapters are listed in reading order; clic
 - **192.** [Against the Windows](chapters/192-against-the-windows.md)
 - **193.** [The Heel](chapters/193-the-heel.md)
 
+## Revision QA — Chapters 023–036 (2026-10-15)
+
+All fourteen chapters were re-read and revised for continuity and prose, with Chapter 022's ending and Chapter 037's opening checked as boundaries. Body counts use `scripts/audit_chapter_length.py` and exclude headings, dividers and comments.
+
+| Chapter | Body words | Chapter | Body words |
+|---:|---:|---:|---:|
+| 023 | 10,021 | 030 | 10,174 |
+| 024 | 10,016 | 031 | 10,015 |
+| 025 | 10,000 | 032 | 10,025 |
+| 026 | 10,009 | 033 | 10,039 |
+| 027 | 10,019 | 034 | 10,140 |
+| 028 | 10,055 | 035 | 10,020 |
+| 029 | 10,020 | 036 | 10,061 |
+
+- The 16-chapter exact 300-word scan across Chapters 022–037 checked 155,938 windows and found **zero cross-chapter matches**. The bonus-inclusive 196-file scan checked 1,942,012 windows and found **zero exact matches**.
+- Full manuscript QA on this commit found 193/193 numbered files, 170 chapters at the 10,000-word floor, 23 chapters still short by 145,183 words, and zero exact matches across 1,791,460 chapter windows. Structure audit found the index ordered 001–193. All 27 source-anchored memory regression checks pass; Chapter 014 retains one lexical introduction cue for human review.
+- These results are mechanical checks plus the scoped scene review; they do not certify semantic repetition or prose quality across the full manuscript.
+
+## Revision QA — Chapter 097 (2026-10-15)
+
+Chapter 097, [The Map](chapters/097-the-map.md), was revised from **6,862 → 10,185 body words** (+3,323 net). Chapter 096's final Cabin One scene and Chapter 098's Friday-morning opening were checked as boundaries; the later Chapter 148 map passage was also reviewed. The map is a first edition on a one-week Big House rec-room trial, with unresolved corrections kept separate.
+
+- Full manuscript QA: **193/193** numbered chapters; **173** meet 10,000 body words and **20** remain short by **135,909 words**. The chapter-only scan checked **1,801,192** every-offset 300-word windows and found **zero exact cross-chapter matches**.
+- Bonus-inclusive scan: **196 Markdown files**, **2,010,049 body words**, **1,951,744** every-offset 300-word windows, and **zero exact cross-file matches**. Structure audit found 193/193 indexed and ordered. All **30** source-anchored memory regression checks pass; one lexical introduction cue remains for human review in Chapter 014.
+- These are mechanical checks plus a scoped scene review. Both hosted workflows pass on Chapter 097 commit 577ec2a: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606), [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). They do not certify whole-novel semantic repetition, prose quality or character memory continuity.
+
+## Revision QA — Chapter 098 (2026-10-15)
+
+Chapter 098, [Fathers' Day (Gods)](chapters/098-fathers-day-gods.md), was revised from **6,261 → 10,121 body words** (+3,860 net). Chapters 097's final map-trial scene and 099's late-August opening were checked as boundaries; the elapsed time between them remains unknown. The revision preserves the map's limits and unresolved hazards, records Clarisse's firsthand childhood memory directly with Poseidon, and keeps each child's conversation and boundary distinct. See the [chapter handoff](editorial/handoffs/ch098-fathers-day-gods.md) and [structured continuity record](continuity/ch098.yaml).
+
+- Full manuscript QA: **193/193** indexed and ordered chapters; **174** meet 10,000 body words and **19** remain short by **132,170 words**. The chapter-only scan checked **1,805,052** every-offset 300-word windows and found **zero exact cross-chapter matches**.
+- Bonus-inclusive scan: **196 Markdown files**, **2,013,909 body words**, **1,955,604** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression checks pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
+- Local structure, memory and duplicate checks pass. Both hosted workflows passed on commit `1243faf`: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006429) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006398). These are mechanical checks plus a scoped scene review, not whole-novel semantic or literary signoff.
+
+## Revision QA — Chapter 099 (2026-10-15)
+
+Chapter 099, [Mothers](chapters/099-mothers.md), was revised from **5,884 → 10,166 body words** (+4,282). The Percy-limited revision preserves the Chapter 097 dock hazard, keeps Beryl's claims attributed to her letter, leaves Thalia's right palm wrapped and uncleared, and records Amphitrite's gift and Percy/Annabeth's temporary shawl loan. See the [chapter handoff](editorial/handoffs/ch099-mothers.md) and [structured continuity record](continuity/ch099.yaml).
+
+- Full manuscript QA: **193/193** indexed and ordered; **175** meet 10,000 body words and **18** remain short by **128,054 words**. The chapter-only scan checked **1,809,334** every-offset 300-word windows and found **zero exact cross-chapter matches**.
+- Bonus-inclusive scan: **196 Markdown files**, **2,018,191 body words**, **1,959,886** every-offset 300-word windows and **zero exact cross-file matches**. All **31** source-anchored memory regression groups pass. The evidence index rebuilds for 193 chapters; its lexical introduction scan leaves one human-review cue in Chapter 014.
+- **Hosted workflows on 8b92708:** [full manuscript QA passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency passed](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). The mechanical and scene-level checks do not certify whole-novel semantic or literary consistency.
+
+## Revision QA — Chapter 101 (2026-10-15)
+
+Chapter 101, [A Name for It](chapters/101-a-name-for-it.md), was revised from **2,093 → 10,321 body words** (+8,228 net). The Percy-limited revision affirms Percy and Annabeth's established relationship by present choice, keeps Thalia's childhood memory distinct from Annabeth's, leaves Thalia's palm wrapped, and develops the shrine shelf through an unloaded build and a planned weight test. Clarisse repairs the shield rack and coaches Noah through one controlled shield turn. See the [Chapter 101 handoff](editorial/handoffs/ch101-a-name-for-it.md) and [structured continuity record](continuity/ch101.yaml).
+
+- Full manuscript QA: **193/193** indexed and ordered; **177** meet 10,000 body words and **16** remain short by **116,854 words**. The strict chapter-only scan checked **1,821,045** every-offset 300-word windows with zero exact matches.
+- Bonus-inclusive scan: **196 Markdown files**, **2,029,902 body words**, **1,971,597** windows and zero exact matches. All **33** source-anchored memory checks pass; the evidence index contains 193 provisional chapter locators, and one lexical introduction cue remains for human review in Chapter 014. Both hosted Actions passed on revision commit `a6b53d8`: [full manuscript QA, run 468](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797) and [character memory consistency, run 230](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680). The scoped Chapter 101 review is not whole-novel semantic or literary certification.
+
+## Previous Revision QA — Chapter 100 (2026-10-15)
+
+Chapter 100, [The Thousandth Campfire](chapters/100-the-thousandth-campfire.md), was revised from **6,707 → 10,190 body words** (+3,483 net). The revision keeps the Minotaur memory private while correcting the camp's current-arrival story, preserves the documented-vs-total campfire distinction, and carries forward Beryl's absence, Thalia's wrapped palm, Tyson's forge leave, Annabeth's illness privacy and the couples' consent over the dance photo. See the [chapter handoff](editorial/handoffs/ch100-thousandth-campfire.md) and [structured continuity record](continuity/ch100.yaml).
+
+- Local QA: **193/193** indexed and ordered; **176** meet 10,000 body words and **17** remain short by **124,761 words**. The strict chapter-only scan checked **1,812,817** every-offset 300-word windows with zero exact cross-chapter matches.
+- Bonus-inclusive scan: **196 Markdown files**, **2,021,674 body words**, **1,963,369** windows and zero exact cross-file matches. All **32** source-anchored memory checks pass; the evidence index rebuilds 193 unverified chapter cue records. One lexical introduction cue remains in Chapter 014.
+- Hosted workflow results are tied to the PR's pushed head. These mechanical checks and the scoped Chapter 100 review are not whole-novel semantic or literary certification.
+
 ## Bonus interludes
 
 - [The Long Winter](bonus/the-long-winter.md)
 - [The Sunday Afternoon](bonus/the-sunday-afternoon.md)
+
+## Editorial handoffs (selected source-verified chapters)
+
+- [Chapter 023 handoff](editorial/handoffs/ch023-memory-prose-2026-10-14.md)
+- [Chapter 024 handoff](editorial/handoffs/ch024-memory-prose-2026-10-14.md)
+- [Chapter 025 handoff](editorial/handoffs/ch025-memory-prose-2026-10-14.md)
+- [Chapter 026 handoff](editorial/handoffs/ch026-memory-prose-2026-10-14.md)
+- [Chapter 027 handoff](editorial/handoffs/ch027-memory-prose-2026-10-14.md)
+- [Chapter 028 handoff](editorial/handoffs/ch028-memory-prose-2026-10-14.md)
+- [Chapter 029 handoff](editorial/handoffs/ch029-memory-prose-2026-10-14.md)
+- [Chapter 030 handoff](editorial/handoffs/ch030-memory-prose-2026-10-14.md)
+- [Chapter 031 handoff](editorial/handoffs/ch031-memory-prose-2026-10-14.md)
+- [Chapter 032 handoff](editorial/handoffs/ch032-memory-prose-2026-10-14.md)
+- [Chapter 033 handoff](editorial/handoffs/ch033-memory-prose-2026-10-14.md)
+- [Chapter 034 handoff](editorial/handoffs/ch034-memory-prose-2026-10-14.md)
+- [Chapter 035 handoff](editorial/handoffs/ch035-memory-prose-2026-10-14.md)
+- [Chapter 036 handoff](editorial/handoffs/ch036-memory-prose-2026-10-14.md)
+
+### Chapters 090–101
+
+- [Chapter 090 handoff](editorial/handoffs/ch090-storm-and-sea.md)
+- [Chapter 091 handoff](editorial/handoffs/ch091-tide-pools.md)
+- [Chapter 092 handoff](editorial/handoffs/ch092-jealousy-ii.md)
+- [Chapter 093 handoff](editorial/handoffs/ch093-movie-night.md)
+- [Chapter 094 handoff](editorial/handoffs/ch094-sick-day.md)
+- [Chapter 095 handoff](editorial/handoffs/ch095-annabeth-sick.md)
+- [Chapter 096 handoff](editorial/handoffs/ch096-training-together.md)
+- [Chapter 097 handoff](editorial/handoffs/ch097-the-map.md)
+- [Chapter 098 handoff](editorial/handoffs/ch098-fathers-day-gods.md)
+- [Chapter 099 handoff](editorial/handoffs/ch099-mothers.md)
+- [Chapter 100 handoff](editorial/handoffs/ch100-thousandth-campfire.md)
+- [Chapter 101 handoff](editorial/handoffs/ch101-a-name-for-it.md)

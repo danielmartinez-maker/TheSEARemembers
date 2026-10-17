@@ -46,7 +46,7 @@ The batter had been Saturday night's, left to sit on the cool shelf behind the d
 
 Percy ate two cakes standing up, because sitting down for a second helping was a thing that invited a comment, and looked at the page under his sister's thumb. It had been on the shelf in this cabin since a Sunday morning in a frost, and it had acquired a life of its own since: TEMPEST HALL, TUESDAYS + THURSDAYS, 7PM, CABIN THREE, AND WHOEVER. STORM QUILT. LANTERNS. RIDGE. And at the bottom, where the three oldest jobs had sat all month waiting for a warm day, something had changed.
 
-GREENHOUSE BANK. TORN AWNING. The two of them were still there, still open, still with the blank line beside them that Clarisse did not fill in because filling a line in meant the job was done and the job was not done. But the third line had grown a second line under it, in the same blocky hand, written since Saturday night:
+GREENHOUSE SOIL BANKING. TORN AWNING. The two of them were still there, still open, still with the blank line beside them that Clarisse did not fill in because filling a line in meant the job was done and the job was not done. But the third line had grown a second line under it, in the same blocky hand, written since Saturday night:
 
 FALLEN PINE. LIMBED TO THE CLEARING. THRESHOLDS PACKED, THREE. SAW CREW THURSDAY. NOT DONE.
 
@@ -160,7 +160,7 @@ He met Annabeth halfway. She was coming down the path with her field book under 
 
 "It's cold in every cabin. It's October."
 
-"It's cold in the cabin and the toast is here and I have got the field book and the pencil and the whole morning with nothing in it but the wall." She was not looking at him. She was looking at the path. "The wall's done. The survey's done. The step's in. The door's flat. The greenhouse bank's done. The list is down to two things and one of them's the awning and the awning wants a dry afternoon and it's not going to get one. So the morning's got nothing in it."
+"It's cold in the cabin and the toast is here and I have got the field book and the pencil and the whole morning with nothing in it but the wall." She was not looking at him. She was looking at the path. "The wall's done. The survey's done. The step's in. The door's flat. The north runoff repair is done. The greenhouse soil banking still needs a warm, dry stretch; the awning needs a dry afternoon, and the pine is still on Clarisse's list. So the morning's got nothing in it."
 
 "There's the hall Tuesday."
 
@@ -310,7 +310,7 @@ Chiron looked at Percy. Percy was standing by the door. The pan was under his ar
 
 "I got scared and said it in front of everyone."
 
-"You can care about her without making her answer for it in front of a crowd." Chiron made another note. "Take the pan back down the hill. Tell Silena the cakes were good. Tell Annabeth the heel's getting looked at. Tell Clarisse the list is down to two things. One of them's the awning. The other one's the pine. The butt still needs a sledge and a crew before the fence can be mended."
+"You can care about her without making her answer for it in front of a crowd." Chiron made another note. "Take the pan back down the hill. Tell Silena the cakes were good. Tell Annabeth the heel's getting looked at. Tell Clarisse the list still has three things: greenhouse soil banking, the awning, and the pine. The banking needs a warm, dry stretch; the awning needs a dry afternoon; and the pine's butt still needs a sledge and a crew before the fence can be mended."
 
 "I'll tell them."
 
@@ -570,7 +570,7 @@ Percy came home with the empty cake pan and a guilty conscience, and Silena took
 
 "There's honey on your sleeve, Jackson."
 
-Clarisse was at the table with the winter list. The last operation on the fallen pine had been written at the bottom in small, angry capitals: BUTT ON FENCE. MORNING. SLEDGE. FOUR ARMS. The north end of the greenhouse bank had been crossed out the night before; the awning remained open.
+Clarisse was at the table with the winter list. The last operation on the fallen pine had been written at the bottom in small, angry capitals: BUTT ON FENCE. MORNING. SLEDGE. FOUR ARMS. The north runoff repair's THAW CHECK had been crossed off the night before; the greenhouse soil banking and awning remained open.
 
 "Chiron says the heel needs rest," Percy began.
 

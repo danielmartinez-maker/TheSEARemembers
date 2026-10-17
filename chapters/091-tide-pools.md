@@ -1,8 +1,10 @@
 ## Chapter 91: Tide Pools
 
-The morning smelled like low tide and hot sand before Percy even opened his eyes.
+The morning after the storm smelled like low tide and hot sand before Percy even opened his eyes.
 
-He knew the sound of the Poseidon cabin at seven in the morning, the particular way the sea breeze pushed through the cracked window and made the fishing net curtains sway, the way the floorboards creaked near the door where the salt had gotten into the wood. Clarisse was already up. That was not unusual. Clarisse was always already up, lacing her sneakers with sharp tugs, braiding her dark hair back so tight it had to hurt, humming under her breath like she wanted someone to ask what song it was so she could pretend she did not care.
+He knew the Poseidon cabin's seven o'clock sounds: the sea breeze pushing the net curtains, the floorboard by the door complaining where salt had worked into the wood, the fountain running steadily after a night of rain. His hands were curled under his pillow. He opened and closed them once, slowly. No tingling. That was good news, not a reason to forget what Will had told him.
+
+Clarisse was already up, lacing her sneakers with sharp tugs and braiding her dark hair tight. She hummed under her breath as if she wanted someone to ask what song it was so she could pretend she did not care.
 
 Silena was sitting cross-legged on her bunk with a sketchbook balanced on her knees, a pencil tucked behind her ear and another in her hand. Her hair was still messy from sleep, pale blond tangled around her shoulders, and she smiled at Percy when he rolled over.
 
@@ -25,6 +27,58 @@ Percy felt his chest go warm. He had been at camp for months now, and he still s
 "Best excuse ever," he said.
 
 "Eat breakfast," Clarisse ordered. "And wear shoes you can get wet."
+
+The trip slip made the morning feel settled until Percy looked toward the window. A strip of orange cloth still marked the soft anchor near the shore, and beyond the cabins a crew was moving between the Big House and the hill with wet maps rolled under their arms. The storm had stopped; its work had not.
+
+Clarisse followed his gaze. "Chiron said we could go after the checks. He did not say everybody was done fixing things."
+
+"I know." Percy flexed his fingers again, more to quiet the habit than to test them. "I just want to make sure the north trail is clear."
+
+"Then ask before we leave," Silena said. She closed her sketchbook and slid it into its case. "We have time to eat."
+
+They crossed to the Big House with their bags. Chiron had pinned a hand-drawn list beside Annabeth's rain-smeared camp map. Several lines were marked complete; others had names beside them and a time to check again. Percy recognized the orange-flag note for the rescue anchor. A new line had been added beneath it: lake water and banks, checked at first light.
+
+"The naiads and I inspected the canoe lake from the bank," Chiron said when he saw Percy reading. "It is still fresh water. We found no saltwater intrusion. The runoff carried silt into the north shallows, so the canoes stay out until the sediment settles and the naiads finish their check."
+
+Percy nodded. He had expected the lake to be safe; he had not known what the storm had left in it. The distinction mattered.
+
+Katie came in from the garden with mud on both knees. "The upper rows held. The lowest strawberry strip is flattened and washed out, but the path to the cabins is clear. I'm leaving the roots alone until the soil dries. If we pull them now, we'll make the damage worse." She put a small tray of salvaged starts under the table and marked the field check for later.
+
+At the map, Malcolm held up a white flag, lowered it once, then raised yellow while Annabeth watched from the other side of the room. Percy repeated the sequence as Malcolm had taught him. The colors were easy to read indoors. Malcolm said the signal set had worked in the calm air at dawn, but the crosswind test still had to wait. Until then the old rule stayed: if a message blurred or vanished, the shoreline team stopped.
+
+"And the ward?" Clarisse asked.
+
+Chiron tapped the north section of the map. "The boundary crew found no breach. The hill ward was holding at ninety percent at dawn. They have marked the weak stretch and are repairing it now. The inspected north route is safe for this supervised excursion. Grover stays with you, and if the wind changes or he loses sight of anyone, the group turns back."
+
+The soft rescue anchor remained roped off. It had not been repaired, and no one was to use that line. Percy studied the map once more, then folded his hands at his sides. The checks had names attached to them. The people assigned to do them were already there.
+
+Will appeared from the infirmary with fresh gauze. He asked Percy to grip two fingers, then checked each hand. "No tingling since last night?"
+
+"No."
+
+"Good. If it comes back, you stop and tell me. Do not decide it's nothing because it goes away again." He tested Percy's wrist once more and let him go.
+
+Thalia came through the door behind Annabeth, her right palm wrapped in a clean dry dressing. Will changed the outer layer and reminded her not to spar or get it wet. She rolled her eyes at him, then tucked the hand close to her chest. "I'm allowed to eat a sandwich, right?"
+
+"On dry ground," Will said.
+
+The trip was still theirs to take. Percy looked at Clarisse and Silena, then at Chiron's marked map. He could go with his sisters while the people assigned to the lake, field, ward and anchor did their work. If anything changed, Grover would bring them back.
+
+"Okay," Percy said. "Let's eat before nine."
+
+They stopped at the pavilion for breakfast, where no one made them recite a storm report before they could have toast. Percy carried his own cup carefully, but his hands did not shake. Clarisse stole a piece of bacon from his plate. Silena packed an extra apple and a folded cloth for the sketchbook. It was ordinary enough to feel earned.
+
+Before they left, Grover checked the trip slip against the three names on his list and tucked a folded copy of the north-shore route into his jacket. Chiron had given him the return time, the safe stopping point above the lower pools, and the instruction to bring everyone back if the weather changed or the route became hard to read. He also had the small brass whistle he used for camp counts. Percy had expected a cheerful walk. He had not expected Grover to take the job lightly, and Grover did not.
+
+"I can carry the food," Grover said, tightening the strap on the pack. "And I can keep an eye on the tide while you all argue about crabs. If the water reaches the chalk mark, we move back to the upper shelf. If you cannot see me, stop where you are and answer the whistle. No clever shortcuts."
+
+"You know Percy likes clever shortcuts," Clarisse said.
+
+"I know," Grover said. "That's why I made the rule before we got there."
+
+Percy raised both hands. "I haven't done anything yet."
+
+"Exactly," Silena said, and tucked the extra apple into his side pocket.
 
 ---
 
@@ -54,15 +108,19 @@ There were dozens, some no bigger than a dinner plate, some wide enough to sit i
 
 Percy stopped at the edge and breathed in deep.
 
-"Okay," Clarisse said, dropping her bag onto dry rock. "Rules. Stay where Grover can see us. Do not drink seawater. Do not pick up anything with blue rings. Do not fall in."
+"Okay," Clarisse said, dropping her bag onto a patch of dry rock above the wrack line. "Rules. Stay where Grover can see us. Do not drink seawater. Do not pry anything off a rock or carry an animal around to show it off. If we turn over a loose stone to look underneath, it goes back in the exact same place. And nobody tries to prove they can stand where the waves break."
 
 "Very big-sisterly," Silena said, setting down her own bag and pulling out a wide-brimmed hat. She settled it on her head and smiled at Percy. "What do you want to see first?"
 
 "Everything," Percy said honestly.
 
-Grover found himself a sunny slab a little above the pools, spread out a blanket, pulled out a reed pipe and an apple, and announced he was officially supervising from a horizontal position.
+Grover chose a sunny slab above the pools where he could see the route down and the high-water mark. He set the pack there, took one bite of an apple, and kept the whistle looped around his wrist. When Clarisse and Silena started toward the first rock shelf, he asked them to pause so he could count all three before they spread out.
 
-"Shout if anything tries to eat you," he said. "Otherwise, have fun."
+"I can play later," he said, noticing Percy glance at the reed pipe in his pack. "First I have to supervise with my eyes open. If you hear the whistle twice, everyone comes back up. One blast means stop and look for me."
+
+"And if we hear a gull?" Percy asked.
+
+"Then you look at the gull. It isn't in charge of you."
 
 ---
 
@@ -90,7 +148,7 @@ The green anemone in the corner did look velvety, its tentacles swaying gently, 
 
 Silena laughed so hard her pencil slipped. "Draw them," she said, flipping to a fresh page. "No, seriously. Hold still, crabs. Percy, keep talking. I like how you see them."
 
-Percy moved from pool to pool on his knees, his shorts getting soaked, his hands pruned, completely happy. He named a starfish the size of his palm Captain Orange, with five lieutenants for each arm. He named a sculpin hiding under a ledge Baron Grumpface because it stared at him with huge eyes and puffed its cheeks when he wiggled his fingers. He found a cluster of barnacles that opened and closed their feathery feet with the surge and declared them the Chorus.
+Percy moved from pool to pool along the dry edges, his knees damp from the grass and rock, his hands pruned from the shallow wash where he had rested them. He named a starfish the size of his palm Captain Orange, with five lieutenants for each arm. Under a ledge a sculpin stared out with huge eyes and puffed its cheeks; Percy named him Baron Grumpface without trying to draw him closer. He found a cluster of barnacles that opened and closed their feathery feet with the surge and declared them the Chorus.
 
 "They sing when the water comes in," he told Silena. "You cannot hear it unless you listen close."
 
@@ -114,65 +172,63 @@ Silena smiled and sketched his hand hovering over the water, the reflection unde
 
 ---
 
-By midmorning the sun had burned off the haze and the rocks were warm underfoot where they were dry.
+By midmorning the haze had burned away. Dry patches of rock held the sun's warmth, while the channels stayed cold enough to make Clarisse suck air through her teeth when she tested one with her boot.
 
-Clarisse had claimed a long, flat pool as a racetrack. She had collected four hermit crabs of similar size, set them at one end on a line drawn in wet sand, and marked a finish line with two small pebbles.
+She spotted four hermit crabs moving along a natural seam in the rock. None was near the others at first. One crossed a stripe of green algae; another kept turning into the shallow current; a third had stopped with only its shell visible. Clarisse watched them for a minute, then looked at Percy.
 
-"Come on," she called to Percy. "You named them. You get to be commentator."
+"You named them," she said. "You can call the race."
 
-Percy scrambled over, dripping. Silena followed with her sketchbook, settling where she could see both the race and the sea beyond.
+"There is no race," Annabeth said. She had come up beside them with her notebook page tucked under one arm. "We can't line them up or move them. But we can watch where they go from here."
 
-"Okay, contestants," Percy said, crouching at the side. He pointed with a stick. "In lane one, Sir Clanksalot, defending champion of doing nothing. In lane two, Professor Wobble, known for style, not speed. Lane three is new arrival Turbo Shell, very confident, very small. And lane four is Duchess Pinch, who looks like she will cut someone."
+Clarisse considered the four crabs, then gave a short nod. "Fine. We watch. No touching, no finish line, no cheating."
 
-Clarisse adjusted Turbo Shell, who had immediately turned around and started walking the wrong way. "On your marks. No touching after start. No blowing on them. No— Percy, no water powers."
+"What counts as cheating if nobody's racing?" Percy asked.
 
-"I was not going to," Percy protested, grinning. "Maybe a little current of encouragement."
+"You will find a way," Clarisse said.
 
-"No currents," Clarisse said firmly, but she was smiling, her eyes bright in a way Percy rarely saw when they were in camp doing drills. Out here she looked younger, or older, he could not tell. Lighter.
+Silena sat on a dry ledge where her sketchbook would stay above the wash. She tilted the page to block the glare and began drawing the seam. "Commentator, then. Tell me what they're doing."
 
-"Ready?" she said. "Go!"
+Percy crouched back from the edge, his knees on dry stone. "In the green corner, Sir Clanksalot, defending champion of doing nothing. Professor Wobble is considering a dangerous advance toward the channel. Turbo Shell is headed north, although nobody knows why. Duchess Pinch is waiting for the rest of us to stop staring at her."
 
-She lifted her hand. The crabs did nothing for three full seconds.
+"She has the right idea," Annabeth said, making a small mark beside the first checked item on her list. "We should give them room."
 
-Then Duchess Pinch lurched forward half an inch. Professor Wobble tipped over. Sir Clanksalot tucked deeper into his shell. Turbo Shell reversed directly into the starting line and fell asleep, as far as Percy could tell.
+Percy kept the commentary low so it would not sound like a call to action. Sir Clanksalot did not move. Professor Wobble shifted one leg, rocked, and held. Turbo Shell made steady progress along the seam. Duchess Pinch vanished into a gap under the algae and reappeared a moment later on the other side.
 
-The four of them stared.
+"A daring tunnel maneuver," Percy whispered. "The judges are stunned."
 
-"This is thrilling," Silena whispered.
+Clarisse leaned forward, elbows on her knees. Her attention had gone so still that Percy could hear the small click of her braid beads when the wind moved them. A gull passed overhead. The next wash reached the outer lip of the pool but did not cover the seam. None of the crabs hurried. None needed them to hurry.
 
-"Shh," Clarisse whispered back, completely serious. "Duchess is making a move."
+"Turbo Shell is the only one with a plan," Silena said.
 
-Duchess Pinch took another heroic step, her tiny legs working, her shell rocking. A trickle of water from the incoming surge lifted the sand around her and she surfed forward a full inch, claws raised.
+"You can't know that," Annabeth replied. "We don't know what any of them want."
 
-Percy grabbed his stick and held it like a microphone. "And Duchess Pinch takes the lead by a claw! Professor Wobble is down! I repeat, Professor Wobble is down! Sir Clanksalot refuses to participate in a system that ranks his worth by speed! Turbo Shell is going the wrong way and loving it!"
+"Then Turbo Shell is the only one who looks like he has a plan."
 
-Silena was laughing so hard she had to press her hand to her mouth to keep quiet. Clarisse was biting her lip, leaning forward, her braid slipping over her shoulder.
+That made Clarisse laugh, and Silena's pencil slipped. The laughter startled Percy more than the gull; Clarisse rarely laughed during drills, and usually not without checking who had heard. Here she did not try to hide it.
 
-"Come on, Wobble," she muttered. "Come on."
+The current poured through the channel. The four crabs disappeared into their separate cracks. Percy had been about to announce a winner, but the movement left no sensible finish to call. He lowered his hand.
 
-As if he heard her, Professor Wobble righted himself with a wobble that lived up to his name and took three quick steps forward, overtaking Sir Clanksalot, who had not moved.
+"No winner," he said. "The tide called the event."
 
-"Oh! A comeback!" Percy shouted. "Wobble passes Clanksalot! The crowd goes wild!"
+"Good," Annabeth said. "The tide outranks all of us."
 
-A gull overhead screamed, perfectly timed. Silena clapped. Grover, from his sunny slab, lifted his pipes and played a quick trill.
+Clarisse glanced at the small dark slots where the crabs had gone. "When I was little, my mom took me to the Jersey shore. We used to bring home shells. I had a bucket of them under my bunk for years. You spend enough time looking, you start noticing that things don't need you to pick them up to make the day count."
 
-The surge came in, spilling over the lip of the pool in a thin sheet, lifting all four crabs and swirling them gently. When the water settled, Duchess Pinch was across the pebble line, her claws waving victoriously. Turbo Shell was facing the finish line for the first time. Professor Wobble was half-buried in sand. Sir Clanksalot had not moved at all.
+Percy remembered the shell idea Clarisse had offered when Annabeth planned the Cabin Three sea wall: real shells from that old bucket, pressed into the mortar where they could be touched. He understood why she had watched the crabs so carefully. She knew what it felt like to keep a small thing because it had made a place memorable.
 
-"Duchess wins!" Percy declared. "By a tide! What a race!"
+"They get to keep their homes," Silena said, still drawing.
 
-Clarisse pumped her fist. "Yes! I knew she had it. Look at those legs."
+"Exactly," Clarisse said. Her voice had gone gruff again, but she did not move away from the pool. "And we get to tell the story badly for the rest of the day."
 
-She picked up Duchess Pinch carefully, holding her flat on her palm while the little crab peered out. "Good girl," she said quietly, and her voice was gentler than Percy had ever heard it. "You go back to your rock now."
-
-She set each crab back where she had found it, checking the shells for cracks, making sure they were right-side up near food. Percy helped, placing Sir Clanksalot beside a bit of algae.
+Percy supplied a triumphant finish for Turbo Shell anyway. The rest of them objected to his invented result, and by the time they moved on, they had each chosen a different crab as the winner.
 
 "You are good with them," Percy said.
 
 Clarisse shrugged, but color touched her cheeks. "They are small. People step on small things without looking. Someone should pay attention."
 
-Silena caught Percy's eye over Clarisse's head and smiled, soft and proud. She turned to a new page and began to sketch fast, her pencil flying — Clarisse with a crab on her palm, the sea behind her, the wind lifting the end of her braid.
+Silena caught Percy's eye over Clarisse's head and smiled, soft and proud. She turned to a new page and began to sketch fast, her pencil flying — Clarisse leaning over the tide pool, the four crabs tucked into different cracks, the sea behind her and the wind lifting the end of her braid.
 
-Percy watched his oldest sister draw his other sister and felt something lift and settle in his chest at the same time. He did not have words for it. He did not need words. The pools glittered. The gulls called. The water kept time against stone.
+Percy watched Silena draw Clarisse and felt something lift and settle in his chest at once. He did not need to name it. Above them, Grover stood at the high-water mark with his apple and whistle, following the people as carefully as the tide. The pools glittered. The gulls called. The water kept time against stone.
 
 ---
 
@@ -182,7 +238,7 @@ She had a tin of pencils, watercolors, brushes, and a jar for seawater. She work
 
 Percy flopped onto his stomach nearby to watch. She did not just copy what she saw. She found the shape inside it first, then built outward.
 
-She drew the starfish pool in wide washes, orange against teal. She drew Grover asleep with his cap over his face, which made Percy snort.
+She drew the starfish pool in wide washes, orange against teal. She drew Grover at his post, apple balanced on one knee and whistle looped around his wrist, which made Percy snort.
 
 "Do me," Percy said. "Draw me handsome."
 
@@ -210,17 +266,29 @@ Clarisse sat down on his other side and stole a grape from his trail mix without
 
 A hermit crab the size of a thumbnail picked its way across Percy's sneaker and he held his breath until it passed, delighted.
 
-"I want to remember this," Silena said quietly, flipping back through her pages. Tide pools, crab races, Grover snoring, Percy naming the Chorus. She had caught it all in lines and washes. "Winter gets long. I want to be able to open this and smell salt."
+"I want to remember this," Silena said quietly, flipping back through her pages. Tide pools, the crab race they hadn't really run, Grover counting them back up the slope, Percy naming the Chorus. She had caught it all in lines and washes. "Winter gets long. I want to be able to open this and smell salt."
 
 "You will," Percy said. "You draw smells."
 
 Clarisse stretched out and leaned back on her hands, her face tipped to the sun. "Mom would like this spot," she said.
 
-Percy turned. They rarely talked about their mother.
+Percy turned. Clarisse did not often tell them stories about her mother. She had mentioned the Jersey shore before, when Annabeth was planning the Cabin Three sea wall, but this was the first time she had described an afternoon there.
 
-"She would sit right there," Clarisse said, nodding toward a flat rock. "And tell us not to splash her while we splashed her."
+"She would sit right there," Clarisse said, nodding toward a flat rock. "She'd tell me not to splash her while I did it anyway. Then she'd make me help find the shells we'd carried home."
 
 Silena smiled, her eyes bright. "She would know all the names. Better than Percy."
+
+"She'd probably know which ones we shouldn't take," Clarisse said. She glanced back toward the pools. "She used to make me check for living things before I put a shell in my bucket. I didn't always listen the first time."
+
+"You listened the second time?" Percy asked.
+
+"Usually." Clarisse shut her eyes against the sun. "She had a way of making a second time sound worse than the first."
+
+Silena let the page rest on her knees. "Do you miss going with her?"
+
+Clarisse's jaw moved once before she answered. "Sometimes. I still have the bucket. That's enough for today."
+
+She sat back up and pointed at the water. The moment did not ask the rest of them to fix it. Percy let the quiet stay quiet, then Silena turned to a clean page and asked Clarisse to describe the color of the rockweed.
 
 "Nothing is better than Sir Clanksalot," Percy said loyally, and both his sisters laughed.
 
@@ -284,9 +352,11 @@ Percy laughed with delight. "You really did bring a list."
 
 Thalia flopped back on the blanket with her sandwich. "Nerds," she said fondly. "My sister, the nerd, and her nerd boyfriend."
 
-"We are not—" Annabeth started, then glanced at Percy, then stopped. They had agreed on words already, back at camp under the stars, quiet and careful in their younger bodies. Boyfriend and girlfriend sounded too small and too big at once, but they were the words for the relationship they had kept through the impossible change. They were figuring out how to live it here one hand-hold at a time, with promises to keep it kind and clean and honest.
+Annabeth nearly swallowed a strawberry wrong. She reached for her lemonade, recovered, and looked at Percy with a smile she did not bother hiding. "The boyfriend part is accurate. The rest is still under review."
 
-Percy squeezed her hand once, quick. "We are picnic nerds," he said. "Eat your sandwich, Thalia."
+Percy squeezed her hand once, quick. They had chosen the words for their relationship before this picnic; the impossible change in their lives had not made those words less true. They were still learning how to let the rest of camp see what they had carried between them, but no one at this blanket needed an announcement.
+
+"We are picnic nerds," he said. "Eat your sandwich, Thalia."
 
 Thalia saluted with her sandwich. Clarisse threw a chip at her. Silena poured lemonade into paper cups, passing them around. Grover told a story about a reed pipe competition with a flock of seagulls that ended with him owing them a french fry.
 
@@ -300,7 +370,7 @@ Silena blinked, then smiled wide and handed over a pencil and a blank page. "Of 
 
 Annabeth bit her lip and drew a limpet with careful lines, measuring, erasing, retrying. Silena praised the observation and showed her how to loosen her wrist for shadow.
 
-Percy watched them, his heart full. Grover snored softly with cookie crumbs on his shirt. The sea glittered beyond.
+Percy watched them, his heart full. At the edge of the marked area, Grover sat with his apple and whistle, keeping the shoreline route in view. The sea glittered beyond.
 
 He did not want to be anywhere else.
 
@@ -326,11 +396,11 @@ Thalia followed with Clarisse, the two of them placing bets on whether Annabeth 
 
 Clarisse looked smug. Thalia looked delighted. Percy squeezed Annabeth's hand, proud of how easily she gave credit.
 
-They started high, where the rocks were mostly dry and white with salt. Sure enough, tiny barnacles clustered in cracks, and limpets held tight in neat rows.
+They started high, where the rocks were mostly dry and white with salt. Sure enough, tiny barnacles clustered in cracks, and limpets held tight in neat rows. The first strip of growth began above the waterline, as if the tide had drawn a boundary and the animals had made their homes on either side of it.
 
-"Check," Annabeth said, marking her page with a pencil stub. "Percy, lift that rock? No, that one. Careful."
+"Check," Annabeth said, marking her page with a pencil stub. "Percy, only that loose stone. Lift it slowly, and put it back exactly where it was."
 
-Percy lifted. Beneath, a small crab scuttled sideways, and Annabeth crouched to observe, her eyes wide.
+Percy slid his fingers under the loose stone and lifted it just high enough for both of them to look beneath. A small square-shelled crab scuttled sideways, stopped at the edge of the shadow, and turned toward the water. Percy held the rock steady until Annabeth had seen it. Then he lowered it into its old place, matching the notch in the stone to the pale mark on the grit.
 
 "Shore crab," she whispered. "See the square shell? And the way it moves?"
 
@@ -344,11 +414,17 @@ Annabeth wrote Kevin in parentheses beside shore crab on her list, shaking her h
 
 "My taxonomy is perfect," Percy said.
 
-They moved down to the middle zone, where black mussels carpeted the stone, water squirting between them with each wave. Green anemones dotted the edges, and dog whelks inched along.
+They moved down to the middle zone, where black mussels carpeted the stone, water squirting between them with each wave. Green anemones dotted the edges, and dog whelks inched along. Annabeth stopped every few feet to compare the real shoreline with the simplified pictures in her notebook. Some of her boxes fit; some did not. The boundary between zones wavered around each crack and shelf instead of drawing the clean line she had made on the page.
 
-Annabeth checked them off fast. Silena sketched the mussel beds, pausing to show how light caught the wet shells. Thalia and Clarisse waded in a shallow channel, shrieking at the cold, daring each other to stand still while minnows nibbled their toes.
+"That is the part diagrams flatten," she said, rubbing out a neat border and sketching it again as three broken bands. "The tide isn't a ruler. The rocks make little neighborhoods. A sheltered hollow stays wet longer than an exposed ledge, even if they're at the same height."
 
-In the lower zone the pools deepened. Starfish in orange and purple curled around mussels, urchins waved their spines, and a bright green crab glowed like sea glass.
+"So the diagram was wrong?" Percy asked.
+
+"The diagram was useful." She tapped the paper. "It was not the whole shore."
+
+Annabeth checked them off fast. Silena sketched the mussel beds, pausing to show how light caught the wet shells. Clarisse waded ankle-deep in a shallow channel and yelped at the cold. Thalia tested the water with her left foot and kept her bandaged right palm raised well clear of the splash. She would not give Will a reason to make her sit out again.
+
+In the lower zone the pools deepened. Starfish in orange and purple curled around mussels, urchins waved their spines, and a bright green crab glowed like sea glass. The water in the deepest hollow moved with each distant wave, though the surface between surges looked still. Percy could see the difference now that Annabeth had pointed out the channels: what seemed like a small, closed world was still exchanging water with the Sound.
 
 "Captain Orange was right," Percy breathed, lying flat on his stomach to peer into the clear water. "Look at them all."
 
@@ -362,7 +438,7 @@ Thalia cleared her throat loudly from three pools away. "Keep it chaste, lovebir
 
 "We are minors," Percy said without looking away, and everyone laughed, breaking the spell gently.
 
-Annabeth sat up, her cheeks pink, and marked big stars beside starfish and urchins on her list. "Hypothesis confirmed," she announced. "This shore matches the pattern."
+Annabeth sat up, her cheeks pink, and marked big stars beside starfish and urchins on her list. "Hypothesis partly confirmed," she announced. "The broad pattern holds. The details need better notes."
 
 Percy helped her to her feet, holding both her hands to pull her up. She came up laughing, stumbling a little on the slick rock, catching herself against his chest for half a second before stepping back with a shy smile.
 
@@ -372,21 +448,29 @@ Percy helped her to her feet, holding both her hands to pull her up. She came up
 
 Silena caught his eye and winked. Clarisse pretended to gag. Thalia gave him a thumbs up behind Annabeth's back.
 
-Percy felt his ears burn, but he did not mind. Being teased by sisters meant belonging.
+Percy felt his ears burn, but he did not mind. Being teased by sisters meant belonging. Grover checked the sun and called from the upper shelf that they had fifteen minutes before the lower route had to be clear for the afternoon tide. They all looked up at him. The water had not reached the chalk mark, but a fresh wash was running farther across the outer ledge than it had at noon.
+
+"We can finish the list from the upper side," Annabeth said. She took one last look at the hollow, then turned uphill without arguing. "I have enough to redraw the zones."
+
+Clarisse went first, picking the dry steps she had tested on the way down. Percy walked close to Annabeth, offering his arm only where the rock narrowed. At the top, Grover counted the five of them who had crossed below the chalk mark, then the six people at the blanket. He waited for Silena to confirm they had the same number before letting the conversation move on.
+
+"That is a lot of counting for one afternoon," Thalia said.
+
+"It's less work than looking for someone," Grover answered. He took a bite of his apple, then nodded at Annabeth's rewritten map. "What did the shore say?"
+
+Annabeth showed him the broken bands and the note about sheltered hollows. Grover leaned close, asked where the water stayed longest, and listened while Percy described the channel he had mistaken for a sealed pool. He had not dozed through the expedition; he had watched them decide where to go, and now he knew what they had learned.
 
 ---
 
 The perfect shell appeared when Percy was not looking for it.
 
-They had split up to explore — Thalia and Clarisse seeing who could find the strangest creature, Silena settled with her watercolors above a quiet pool, Grover dozing again, Annabeth crouched with her list, checking off algae types.
+They had spread out within the marked area — Thalia and Clarisse looking for unusual shapes to sketch, Silena settled with her watercolors above a quiet pool, Grover keeping the route in view, Annabeth crouched with her list, checking the algae types.
 
-Percy wandered alone for a little while, not far, always within sight of Grover's sunny slab, letting his feet take him where the water pulled. The surf was louder here, the rocks darker, the pools deeper and more secret. He liked the feeling of being small beside something large and old.
+Percy wandered a short way along the upper shelf, always within sight of Grover's marked stopping place. The surf sounded louder here, where the rocks formed a shallow cove. He liked the feeling of being small beside something old enough to keep its shape through every change of weather.
 
-He slipped his hands into a shallow channel to steady himself and felt something smooth under his palm.
+Above the damp wrack line, a scallop shell lay in a patch of clean sand. It was a single valve, empty and dry, carried beyond the pools by an earlier wash. Percy stopped before reaching for it. He checked for a living animal, for anything attached to its ridges, and saw none. Grover was watching from the shelf. Percy pointed to it, and Grover gave him a small nod.
 
-He lifted it, shaking water from his fingers.
-
-It was a scallop shell, no bigger than his thumb, but whole, which was rare. Most shells on this shore were broken by surf and stone. This one was intact, fan-shaped, ridged delicately from hinge to edge. The outside was pale cream blushed with rose, the inside glossy, catching light in pinks and lavenders and a hint of gold near the center, like sunrise trapped in miniature.
+The shell was no bigger than Percy's thumb, but whole, which was rare. Its fan shape had delicate ridges from hinge to edge. The outside was pale cream blushed with rose; the inside caught the sun in pinks and lavenders, with a hint of gold near the center.
 
 Percy turned it over and over, his breath catching.
 
@@ -394,7 +478,7 @@ It was beautiful. It was also, instantly, Annabeth's.
 
 Not because she liked pretty things, though she did in her precise way, favoring clean lines and true colors. But because the inside shimmered like the inside of a nautilus he had once shown her in a book, and she had stared at the spiral for a long time and said it looked like math you could hold. This shell looked like math you could hold, each ridge evenly spaced, each color blending in order.
 
-He rubbed the sand from the hinge with his thumb and held it to his ear, listening for the sea. The sea was already all around him, but inside the shell it sounded closer, private.
+He brushed the loose sand from the hinge with his thumb. The sea was already all around him; the shell held no secret sound. Still, its even ridges gave him something small and orderly to carry back to Annabeth.
 
 He closed his fist around it and went to find her.
 
@@ -430,7 +514,7 @@ Annabeth stared at him, then back at the shell, then at him again. She pressed h
 
 Percy felt relief rush through him, warm as sunlight. "Really?"
 
-"Really." Annabeth ran her fingertip along the ridges, counting without realizing she was counting. "Look how even they are. And the inside — it is like mother-of-pearl but warmer. Do you think it is a calico scallop? The blush on the outside—"
+"Really." Annabeth ran her fingertip along the ridges, counting without realizing she was counting. "Look how even they are. And the inside — it is like mother-of-pearl but warmer. Do you think it is a bay scallop? The blush on the outside—"
 
 "You can keep it in your pocket," Percy said. "For luck. Or for science."
 
@@ -460,9 +544,9 @@ Annabeth kept touching her pocket every few minutes after that, just to check, j
 
 The afternoon stretched golden and slow.
 
-They regrouped in the shade to cool off, sharing lemonade and trading finds. Thalia had found a sea hare the size of her hand. Clarisse had found a crab molting and spoke about it quietly, turning the empty shell gently before setting it back.
+They regrouped in the shade to cool off, sharing lemonade and trading observations. Thalia had seen a sea hare the size of her hand. Clarisse had spotted a crab molting and described its pale, soft new shell; she had left it where it was, giving it room to finish.
 
-Silena showed her watercolors, still damp. There was Percy with his hand in the water, Clarisse with Duchess Pinch, Grover with cookie crumbs, Annabeth drawing her limpet.
+Silena showed her watercolors, still damp. There was Percy leaning over the water, Clarisse watching the crabs disappear into their cracks, Grover with his apple and whistle, and Annabeth bent over her limpet drawing.
 
 Annabeth touched the edge of the painting of herself and said, "Can I keep that one? Please?"
 
@@ -472,15 +556,31 @@ Thalia braided Annabeth's hair to keep it out of her face while Annabeth leaned 
 
 Percy lay back on the warm rock, watching clouds, listening to his sisters talk about camp, archery, pranks, songs on the radio.
 
-Thalia spoke about her mother with humor that made Annabeth laugh until she cried. Clarisse spoke about the lighthouse foghorn on cold mornings. Silena spoke about jasmine and planting sea kale near the cabin.
+Thalia spoke about her mother with a dry joke that made Annabeth laugh until she cried. Clarisse spoke about the lighthouse foghorn on cold mornings. Silena spoke about jasmine and planting sea kale near the cabin. Each story had its own small place in the conversation; no one tried to make the memories match.
 
-Annabeth spoke about the home she remembered, books, and walking with Frederick, her father in their original life. Percy listened to every word.
+Annabeth spoke about the home she remembered, books, and walking with Frederick, her father in the life Percy and Annabeth remembered. She kept the account simple: how he had made room for her questions, how there had always been another book to argue over. Percy listened to every word. The others were hearing it from her now; they had not lived those walks, and the story did not become theirs because they sat close enough to touch shoulders.
+
+When she paused, Thalia brushed a strand of hair from Annabeth's cheek. Her expression held affection and something harder to read, gone before Percy could name it. Annabeth leaned into the touch for a beat, then sat up and reached for her lemonade.
+
+"You can tell me more another day," Thalia said. It was not a demand for proof or a request to borrow the past. Annabeth nodded, keeping the choice hers.
+
+Percy recognized the care in that. He could remember Sally without asking his sisters to pretend they had known her. Annabeth could speak of Frederick without asking Thalia to trade Beryl for a father from another history. They were describing lives that mattered to them; the people listening could care without claiming them.
 
 When there was a lull, Silena said, "Tell us something about your mom, Percy."
 
 Percy stared at the sky. He thought about blue pancakes, stories about the sea, being small and safe.
 
 "Sally made blue food on purpose, in the life I remember," he said. "Blue pancakes, blue cookies. She told stories about the sea like she missed it."
+
+The words were familiar to him and new to the people beside him. He did not have a way to pass along the kitchen itself: the hum of the fridge, the counter too small for two people, the way Sally pushed the bowl toward him when she wanted him to stir. Those were his memories. He could give them the shape of a story, but he could not make anyone else remember standing there.
+
+"I don't want you to feel like you have to miss somebody you never met," Percy said. He looked at Clarisse first, then Silena. "I know you have your own moms. I just wanted to tell you why blue cookies matter to me."
+
+Clarisse's hand stopped on her cup. "I don't have to have met her to know she matters to you."
+
+Silena nodded. "And you don't have to make the story smaller so it fits the rest of us."
+
+Percy let out a breath. He had expected the truth to make the afternoon tilt. Instead Clarisse reached over and took the last strawberry from his plate, and Silena asked whether Sally had used chips or chunks of chocolate. They did not become his old-life family. They remained his sisters here, asking the next question because they wanted to know him.
 
 Clarisse reached over and squeezed his ankle once. Silena smiled with her eyes shiny. Annabeth found his hand and held it, her thumb tracing the shell-smooth skin of his palm.
 
@@ -492,15 +592,17 @@ Clarisse reached over and squeezed his ankle once. Silena smiled with her eyes s
 
 The wind shifted, cooler now, bringing the smell of deeper water. Grover sat up and sniffed, then checked the sun.
 
-"Two more hours of good light," he announced. "Then we head back for dinner. Use them well."
+"Two more hours of good light," he announced. "The lower route stays closed while the tide rises. We can use the upper shelf, inside the line I marked, and then we head back for dinner."
 
 ---
 
 Percy and Annabeth took the last exploration together, just the two of them, within sight but out of earshot.
 
-They walked the lower edge where waves broke white against stone. Percy pointed out urchins and the blenny. Annabeth pointed out erosion and the algae high-tide line.
+They stayed on the upper shelf, inside Grover's chalk line. From there Percy pointed out urchins in the lower pools and the blenny that had moved into a shaded crack. Annabeth traced where the water had reached earlier, comparing the wet line to the erosion marks in the rock. The tide kept rising below them; the path Grover had closed stayed empty.
 
-At the farthest pool they stopped. The water was so still Percy could see every pebble, every frond, a small octopus tucked in a crevice, its skin shifting from rust to sand as it breathed.
+At the farthest pool they could see without going down, they stopped. The water was so still Percy could see the pebbles and fronds. Then one patch of sand changed color. A small octopus had tucked itself into a crevice, skin shifting from rust to the color of the rock as it breathed.
+
+Percy had never seen one in the Sound. He felt the impulse to lean over, but Grover's instruction held in his mind, and the upper shelf was the right distance. He pointed without reaching across the chalk line. Annabeth followed his finger and went still. They had found something rare for them; the animal did not owe them a closer look.
 
 "Look," Percy whispered, crouching and pointing.
 
@@ -508,7 +610,9 @@ Annabeth crouched beside him, her knee against his, her hand on his arm for bala
 
 "It is camouflaging," she breathed. "Oh, Percy, look at that."
 
-They watched for a long time, barely moving, while the octopus breathed and rippled and finally jetted backward into shadow in a puff of sand, gone.
+They watched for a long time, barely moving, while the octopus breathed and rippled. Its skin changed with the shifting light; a ridge appeared, then vanished, then appeared in another place. Percy couldn't tell whether it was watching them or only reading the water. He kept his hands on the dry rock. Annabeth held her notebook closed so its pages wouldn't flap and scratch across the stone.
+
+When a small surge reached the pool, the octopus jetted backward into shadow in a puff of sand, gone. Annabeth let out the breath she had been holding.
 
 Annabeth sat back on her heels, her eyes shining. "That was amazing. Thank you for showing me."
 
@@ -526,7 +630,7 @@ Annabeth leaned her head against his shoulder again, longer this time, and Percy
 
 They stayed like that until Thalia shouted that Silena needed models for a group sketch and Grover needed help eating the last cookies.
 
-They stood, shook sand from their clothes, and walked back hand in hand, swinging their joined hands just a little.
+They stood, shook sand from their clothes, and walked back hand in hand, swinging their joined hands just a little. They stayed on the upper shelf until Grover called the return count; nobody crossed the chalk line to look for the octopus again.
 
 ---
 
@@ -538,7 +642,7 @@ Silena arranged them like a photographer.
 
 Thalia laughed and tackled her sideways, and Clarisse shoved her back, and Percy ended up squished between Annabeth and Silena with Thalia's boots in his lap and Clarisse's elbow in his ribs and Grover's pipes poking his ear, and it was perfect.
 
-Silena sketched fast, her eyes flicking up and down, her hand sure. Annabeth watched over her shoulder, asking about proportions. Percy watched Annabeth watching, memorizing the line of her concentration, the way she tucked her hair behind her ear and immediately had to tuck it again.
+Silena sketched fast, her eyes flicking up and down, her hand sure. Annabeth watched over her shoulder, asking about proportions. Percy watched Annabeth watching, memorizing the line of her concentration, the way she tucked her hair behind her ear and immediately had to tuck it again. Silena did not ask them to hold a pose that would hurt; when Percy shifted to keep the damp edge of his towel off her paper, she changed the angle of the group instead of scolding him. The drawing took longer than she expected, and she was pleased by that. Each time someone moved, she found another detail to keep: Clarisse's hand protecting the space around the little crab she'd drawn, Thalia's left hand folded over her bandaged right palm, Annabeth's thumb resting against the pocket that held the shell.
 
 "Hold still," Silena ordered. "Percy, stop looking at Annabeth and look at the sea."
 
@@ -600,7 +704,7 @@ Annabeth followed his gaze, her hand in her pocket around the shell. "Saying goo
 
 "Saying see you later," Percy said. "The sea remembers. It will keep them for us."
 
-Annabeth smiled, her gray eyes warm. "Then we will come back. All of us. Next low tide."
+Annabeth smiled, her gray eyes warm. "Then we will come back. All of us. Next low tide—if Chiron and Grover can approve a safe route."
 
 "Promise?" Percy said.
 
@@ -617,6 +721,28 @@ Percy looked at Annabeth. Annabeth looked at Percy. Together they ran, hand in h
 Annabeth's pocket bounced with the shell safe inside. Percy's backpack bounced with the sketch for his wall. The sun tipped toward evening, gold on water, gold on rock, gold on the tops of their heads.
 
 Behind them, the tide turned, filling the pools anew.
+
+At the pavilion they were still laughing when Chiron met them by the steps. Grover gave his return count and reported the closed lower route, the chalk boundary, and the unusual animal Percy and Annabeth had seen from the upper shelf. Chiron thanked him and asked Silena to keep the watercolors dry before anyone carried them through the crowded dining area. No one reported a fall or a missing person. The outing had come back in the same number it left.
+
+The storm checks were still posted beside the map. The canoe lake remained closed while silt settled; the lower strawberry strip was waiting for dry soil; the soft anchor stayed marked out of service; the hill crew had not yet signed off the weak ward stretch. Malcolm still needed a crosswind rehearsal before the revised flag calls could be used outside calm conditions. Percy read the list, then let Chiron turn the page over. None of it had been forgotten, and none of it belonged to the tide-pool group to pretend was finished.
+
+Will was waiting near the infirmary door. Percy showed him both hands and opened and closed them. The long day in the salt air had left his palms pruned, not tingling. Will checked the grip he had tested that morning and asked if anything had returned.
+
+"No," Percy said. "I would've told you."
+
+"Good. Keep doing that." Will released his fingers.
+
+Thalia held out her right hand. The dressing was dry. Will replaced the outer wrap and said the burn still needed a morning look before she sparred. She made a face, but didn't argue. Annabeth checked the knot for him without touching the sore skin, and Thalia let her.
+
+Outside the infirmary, Annabeth unfolded the page where she'd redrawn the shore's broken bands. She marked the chalk line Grover had used and added the hour when he had closed the lower route, leaving the date blank. Percy pointed to the pool where the octopus had vanished. Annabeth drew a small circle from memory, then put a question mark beside it. They would have to ask Grover and Chiron before choosing another day; a low tide did not make every path safe by itself.
+
+"You want to go back for the list," Percy said.
+
+"I want to see what changes when the tide changes," Annabeth said. "That isn't the same as assuming we get to go whenever we want."
+
+"Good. You can be the scientist who asks permission." He held the page still while she folded it along the old crease. The day had given them more questions than boxes checked, and that felt like a better reason to return than a promise they had to keep on a particular date.
+
+Silena tucked her promised color copy into her evening plans, not into Percy's pack. It had not been made or mailed. Annabeth still had the shell in her pocket and Silena's painting in her tote; Percy had the portrait for his cabin wall, laid flat inside his backpack between the folded towel and his notebook. He could tell Amphitrite about the day without telling her anything about the other life. For once, he did not mistake an intention for something already done. Tomorrow could hold its own work.
 
 ---
 

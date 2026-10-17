@@ -2,7 +2,7 @@
 ## Canon bible and editorial operating rules
 
 **Status:** Work in progress  
-**Updated:** 2026-10-12  
+**Updated:** 2026-10-17
 **Scope:** Drafting, editing, continuity review, chapter handoffs, and reader-edition assembly  
 **Fandom:** *Percy Jackson and the Olympians*  
 **Primary pairing:** Percy Jackson / Annabeth Grace (established Percabeth)
@@ -21,17 +21,16 @@ When two sources disagree, use this order:
 
 1. **The user's explicit decisions**, with later direct changes superseding earlier instructions on the same point.
 2. **Locked canon in this bible**, insofar as it accurately records those decisions. If it conflicts with a direct user instruction, flag and update it.
-3. **The user's designated canonical chapter sources** in their `TheSeaRemembers/` working directory. Preserve their text unless a revision is authorized.
-4. **The GitHub chapter-by-chapter import**, a versioned editing snapshot that can be reconciled with those canonical sources before it is promoted as authoritative.
-5. **Compiled Markdown, DOCX, and PDF reader editions**, which are outputs, not sources of truth; historical PDFs may be outdated.
+3. **The chapter files in `danielmartinez-maker/TheSEARemembers` on GitHub**, which the user explicitly designated as the source for the 2026-10-13 manuscript pass. Use the pinned `main` commit as the comparison baseline and keep proposed edits on the named review branch.
+4. **Compiled Markdown, DOCX, and PDF reader editions**, which are outputs, not sources of truth; historical editions may be outdated.
 
 **Never resolve a contradiction by silently changing parentage, inventing a memory rule, creating a new time-rewrite event, or treating assistant improvisation as an approved plot decision.** Log the discrepancy and make the smallest coherent proposed fix.
 
-### 1.2 Working files, as of 2026-10-12
+### 1.2 Working files, as of 2026-10-14
 
-- **GitHub:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers). It contains numbered Markdown files for **chapters 1–193** and **two bonus interludes**, plus an index, manifest, and assembly script. The import was verified against the uploaded compiled edition, *TheSeaRemembers_Full.md*.
+- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. It contains numbered Markdown files for **chapters 1–193** and **two bonus interludes**, plus an index, manifest, and assembly script.
 - **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/193-the-heel.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
-- **Canonical-copy caveat:** The user's earlier choice made their `TheSeaRemembers/` chapter copies canonical. The GitHub import came from a compiled reader edition. A byte-for-byte match to that compilation does **not** establish that every imported chapter includes every later correction to the designated working originals. Reconcile the two before changing this authority decision.
+- **Authority update:** The user's 2026-10-13 direction to work from the latest GitHub repository supersedes the earlier local-copy precedence for this pass. Historical/deprecated local manuscript copies were not used or reconciled; do not treat them as competing authorities unless the user explicitly re-designates one.
 - **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through **165–193** without a new declared arc boundary. Treat chapters 140 onward as one continuous developing stretch until the user sets a new boundary.
 - **Exports:** Existing PDF/DOCX volumes are historical until rebuilt from selected, corrected sources. Preserve old versions.
 
@@ -39,9 +38,11 @@ When two sources disagree, use this order:
 
 **User requirement (2026-10-11):** A newly drafted full chapter must have **at least 10,000 body words**, with **10,200–11,200** as the normal working range, and more if its scenes earn the extra length. That floor is not a license for filler.
 
-The planned chapter 140–164 block called for 25 chapters and 250,000 words. In the current compiled import, those chapters **exceed 250,000 words combined**, but **12 of the 25 chapters are below 10,000 body words** by a straightforward whitespace-based recount excluding chapter headings and `---` scene dividers. This is a provisional mechanical count, not evidence that those chapters have passed editorial review. Do not describe the block as satisfying its *per-chapter* minimum.
+**Previous PR #103 continuation checkpoint (October 17, 2026):** source commit `27a41c8ed4ce91c11c97ec9c642aabc473d495bc` continues from fetched PR head `e6ea84f104a5502dbdfc756689ed345f4c271531`. It adds source-grounded repairs in Chapters 004, 038, 102, 118, 132, 133, 136, 145, 146, 167, 177, and 187, refreshes continuity notes, and generates current QA reports. Strict local QA reports **193/193 chapters at or above 10,000 body words**, zero shortfall; the chapter-only scan checked **1,941,320** every-offset 300-token windows with zero exact matches, and the chapter-plus-bonus scan checked **196 files / 2,150,177 body words / 2,091,872 windows**, also with zero exact matches. **42** source-anchored memory regressions pass; all 193 chapter files are ordered. Chapter 004 now uses Annabeth's current name/parentage, retains Percy POV, and treats prophecy-copy provenance as uncertain; Chapter 038's Silena age is fourteen, matching the opening baseline and Chapter 041, without an invented birthday. Chapters 136/145/146 preserve Amphitrite's privacy boundary, Annabeth and Percy's established relationship, and Thalia's lack of erased-tree memory. Chapters 102 and 118 received scoped repetition edits; Chapter 132's pre-dinner consultation now precedes its evening dock scene; Chapter 133's plan discussion no longer implies a physical corridor survey. Chapter 167's autumn wording now matches the late-September sequence, and Chapter 187 explicitly frames the boathouse detail as Percy's remembered-future association. Hosted [manuscript audit](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39066126303) and [character-memory](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39066126334) checks passed on `27a41c8`. Mechanical checks do not certify every scene's continuity or prose quality.
 
-Earlier chapters vary substantially in length. Preserve them as drafted unless the user authorizes an expansion or standardized minimum retroactively. New assignments must state the target and verify the delivered body count.
+**Follow-on PR #103 checkpoint (October 17, 2026; started from `697741f`):** Chapter 142 now shows Clarisse reporting the outer-buoy overrun to Chiron; the location remains unknown pending image review. Chapters 175/181/190 now keep Percy's Atlantis response within sensory/bodily association and mark the corridor as Annabeth's inference. Chapter 175 attendance totals remain unresolved. Local QA after these edits reports 193/193 chapters above 10,000 body words, no shortfall, 1,942,016 chapter-only 300-word windows, and no exact matches; the 196-file bonus-inclusive scan reports 2,150,873 body words, 2,092,568 windows, and no exact matches. All 45 source-anchored character-memory regression checks pass. Hosted [full manuscript QA, run 510](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39070769176) and [character-memory checks, run 251](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39070769240) passed on commit 33fc2d0. These results do not certify full prose quality or all-scene continuity.
+
+The four-phase request explicitly authorized substantive expansion of the chapters below 10,000 words. The current PR source meets that numeric floor; any later discovery of a short chapter should still be expanded with meaningful scenes and verified by body count. The completed mechanical gate does not certify that every expansion has literary approval.
 
 ---
 
@@ -70,6 +71,21 @@ Earlier chapters vary substantially in length. Preserve them as drafted unless t
 **Chapter 1 disclosure boundary (author directive, 2026-10-12):** **Amphitrite is not told and does not discover Percy's predicament.** She knows the ordinary altered-history facts that Sally died when Percy was two and that she has raised Percy since then. She does **not** know Percy remembers another life with Sally alive, cannot recall his Atlantean childhood autobiographically, or has awakened with the consciousness/memories of his seventeen-year-old self. She can interpret his nerves, distraction, and questions as ordinary pre-camp uncertainty or curiosity about his birth mother, but must not infer the timeline alteration. Percy deliberately conceals the secret from her. Do not reveal it to Amphitrite in later chapters without explicit author authorization. At the end of Chapter 1, Percy and Annabeth have privately recognized one another as the two memory holders; neither has explained the rewrite to their families.
 
 **Forbidden shortcut:** Do not make Annabeth forget Percy or their romance merely to create a second courtship. Do not reveal Thalia as a hidden time architect or give her complete future memories without a fresh, explicit user decision revising the original premise.
+
+### 2.2 Persistent, character-specific memory (author directive, 2026-10-13)
+
+**Everyone retains a cumulative memory of what they personally experienced in this manuscript.** Chapters cannot quietly reset a friendship, first meeting, chosen family title, romantic milestone, conversation, skill, promise, injury, gift, disagreement, or earned trust just to replay the same emotional beat. A person who met another character in Chapter 30 must not introduce themselves to that person in Chapter 123. Percy calling Amphitrite **Mother** in Chapter 99 is an earned change in their relationship: he may still use her name or a title in formal contexts, but must not subsequently treat her as a stranger. Affection can wax and wane; factual acquaintance does not.
+
+Distinguish four separate categories for each character:
+
+1. **Firsthand current-timeline knowledge:** witnessed events, personal conversations, gifts, promises, names used and repeated interactions. These persist unless a **specific, approved** forgetting mechanism occurs on the page.
+2. **Secondhand current-timeline knowledge:** information received in a letter, retelling, overheard exchange, or report. Record who supplied it, what was said, and whether it was trusted. Do not write the recipient as if they witnessed the event.
+3. **Remembered prior-life knowledge:** Percy and Annabeth alone possess autobiographical memories from their original future. Others can learn selected facts if explicitly told; being told is not the same as sharing those memories.
+4. **Altered-childhood history without autobiographical recall:** people like Amphitrite, Thalia and Triton have firsthand memories of raising or knowing the altered-history Percy and Annabeth. Percy and Annabeth do not automatically gain those memories. They can learn family stories, accumulate **new** memories of these people, and form genuine affection without suddenly recalling an unexperienced childhood.
+
+**Knowledge is per character, not global.** Verify whether a character was present, what they actually heard, and whether a secret was shared before writing informed dialogue. In particular, Amphitrite remembers raising Percy but does **not** know he remembers a different timeline or cannot recall his Atlantean childhood. His affection for her and his choice of "Mom"/"Mother" never, by themselves, authorize such a revelation.
+
+Use **continuity/CHARACTER_MEMORY_LEDGER.md** as a source-anchored index and **continuity/CHAPTER_MEMORY_HANDOFF.md** for each chapter's new facts. Before repeating a first meeting, name, nickname, emotional disclosure, family argument, gift, or callback, locate the original scene and check what each person knows. Add a new ledger event when a chapter changes a relationship; do not erase earlier events. If an established fact conflicts with a later passage, flag it as an error and make a bounded scene-level repair, not a global retcon.
 
 ---
 
@@ -184,6 +200,8 @@ Favor **specific, reciprocal** teasing over recurring stock jokes: shared chores
 | Silena | 14 | 16 |
 | Rhys | Not yet introduced | 19 in his late-arc appearances |
 
+**Source-verified early age cross-check:** Thalia is sixteen by Chapters 16, 20 and 24, and is still sixteen in the revised Chapter 28 (not fifteen). Chapter 133 portrays her as eighteen. Preserve intermediate birthdays only where the intervening narrative actually supports them.
+
 **Working baseline, not an automatic age override:** Track explicit birthdays and elapsed time. From chapter 140, Percy and Annabeth should be fourteen unless a **later dated birthday** justifies a change. Do not silently revert them to thirteen. Check Thalia's legal adulthood and Rhys's nineteen-year-old status at the point of every mature interlude.
 
 Before writing a chapter, make a timeline row with its date or season, elapsed days since prior chapter, ages, locations, arrivals/departures, current injuries, objects or gifts in use, and commitments due next. If the source does not establish the month or day, mark **unknown** rather than inventing one.
@@ -232,7 +250,7 @@ Provide all of these:
 - This bible, plus explicit overrides or unresolved questions.
 - The **actual final scene** of the preceding canonical chapter, not only a plot summary.
 - Current chapter number, title (if fixed), date/season, POV, and intended scene sequence.
-- A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads.
+- A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads, **plus the last confirmed shared scene, existing forms of address, and knowledge provenance for every major character in the next scene**.
 - Body-word minimum and the requested emotional centerpiece, Percabeth beat, and sibling beat.
 
 Subagents may help, but they receive the same bounded sources and must not invent changes to locked canon.
@@ -243,6 +261,7 @@ Subagents may help, but they receive the same bounded sources and must not inven
 |---|---|---|
 | **Canon** | Names, parentage, siblings, cabins, memory rules, ages, power ownership | No unexplained conflicts with locked rules |
 | **Continuity** | Date, elapsed time, weather, travel, props, clothing, injuries, known facts, promises | Events follow coherently from preceding chapters |
+| **Character memory** | Prior meetings, titles/nicknames, disclosures, promises, objects, trust changes and who personally witnessed each event | No relationship reset or knowledge leak; a callback follows the character-specific ledger |
 | **POV** | Knowledge and perception within each scene | One clearly identifiable focal character per scene |
 | **Character** | Voice, desires, mistakes, realistic boundaries, unforced resolutions | Conflict and affection are specific, not interchangeable |
 | **Scene purpose** | Unique centerpiece, Percabeth development, sibling development | Beats are earned and change something |
@@ -278,17 +297,17 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 | Issue | Required direction | Disposition |
 |---|---|---|
 | Thalia becomes the rewrite architect or an eclipse restores Athena parentage | Maintain unknown architect and Annabeth's Zeus parentage unless user changes canon | **Audit** historical material and current relevant chapters |
-| Thalia gains complete memories of the erased life | Only Percy and Annabeth know that remembered life by default | **Audit** and flag deliberate exceptions for approval |
+| Thalia gains complete memories of the erased life | Only Percy and Annabeth retain firsthand erased-life memories; other characters retain only what they explicitly heard or witnessed | **Audit** and flag deliberate exceptions for approval |
 | Annabeth loses Percy, their romance, or Tartarus memories | She retains them from the opening | **Audit** early and mid-story scenes |
 | Clarisse/Silena revert to Ares/Aphrodite, or new Poseidon sisters appear | PCS parentage and membership remain fixed | **Audit** names and cabin affiliations |
 | Annabeth is called Jackson or related to Percy as a sibling | Annabeth Grace, Zeus daughter, Percy's partner | **Audit** and correct only proven mistakes |
 | Sally's death appears in Percy's remembered original childhood | Sally died at age two **only in altered history** | **Audit** recalled memories and grief scenes |
 | Ages, seasons, returning visitors, gifts, injuries, and powers jump | Maintain a dated continuity ledger | **Audit** transitions and new drafts |
-| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Unverified on this import** |
-| Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **12 currently under the floor** by provisional count; editorial expansion pending |
-| Older PDFs or root chapter files differ from corrected sources | Respect canonical-copy decision and rebuild exports | **Reconciliation needed** before declaring files identical |
+| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **October 17 PR #103 follow-up after starting from 697741f:** 1,942,016 chapter-only and 2,092,568 bonus-inclusive every-offset 300-word windows across 196 chapter/bonus files; 0 exact matches in either scan. Scene ledgers cover all 193 chapters; cumulative semantic reconciliation remains in progress |
+| Per-chapter word minimum | User requested 10,000 body words each | **October 17 PR #103 follow-up:** 193/193 chapters meet the minimum, with zero shortfall. This does not certify prose quality or literary approval. Hosted checks passed on commit `33fc2d0` |
+| Older PDFs or root chapter files differ from corrected sources | Respect the GitHub source selected for this pass and rebuild exports from the reviewed branch | **Not reconciled**; do not claim historical editions match this source |
 
-**Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Do not assume the current imported chapter 20–21 files contain the same correction until compared.
+**Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Chapter 20 has now received scoped Cabin Three/identity clarification on the 2026-10-13 audit branch; Chapter 28's erroneous fifteen-year-old Thalia and incorrect 'Chase' address were also corrected. The old PDF's exact text still has not been reconciled.
 
 **PDF production:** Retain UTF-8; repair mojibake from a verified source rather than deleting replacement glyphs. Use clear chapter starts, readable spacing, page numbering, correct markdown conversion, and text inspection of actual rendered pages, not just file size or the `%PDF-` header. The user's prior export destination was `C:\Users\dmcfu\OneDrive\Documents\Default Project\TheSeaRemembers\`; access to this path depends on the user's connected machine.
 
@@ -310,6 +329,12 @@ opening_location: unknown
 ending_location: unknown
 characters_and_ages: []
 active_relationship_tensions: []
+last_shared_scenes_and_chapters: []
+forms_of_address_and_existing_intimacy: []
+firsthand_events_remembered: []
+secondhand_knowledge_and_source: []
+secrets_unknown_to_each_character: []
+prior_life_memories_percy_annabeth_only: []
 injuries_and_care: []
 objects_gifts_and_projects: []
 new_knowledge_or_promises: []

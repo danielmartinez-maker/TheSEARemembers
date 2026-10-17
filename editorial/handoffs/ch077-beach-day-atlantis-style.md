@@ -1,0 +1,32 @@
+# Chapter 077 — Beach Day (Atlantis Style): working continuity handoff
+
+**Chapter/source:** `chapters/077-beach-day-atlantis-style.md`, PR #103 on `audit/four-phase-continuity-2026-10-13`. **Mechanical body count:** **5,706 → 10,236** (+4,530), excluding headings and scene dividers. Newest-head corpus QA and literary signoff are separate.
+
+## Who is where, whose memory is what
+
+- **CONFIRMED:** April beach day on the **saltwater Long Island Sound**, separate from the camp's freshwater canoe lake. Day after the Chapter 076 shrine/promise sequence is compatible with the text, but exact calendar date remains **UNKNOWN**.
+- **Tyson, CONFIRMED:** Independently permitted by Chiron and his undersea forge superiors for another **short weekend stay**. Already knows Percy, Annabeth, Clarisse, Silena, Thalia and camp; he was present during 071–073 and stayed longer in 074 before returning to Atlantis. His presence in 077 is not a first introduction or permanent reassignment.
+- **Amphitrite, LOCKED/CONFIRMED:** Percy's raising mother in altered history, Queen of Atlantis. Sends a personalized beach-day letter and supplies on Rainbow's delivery. She remembers previous firsthand meetings/letters with Annabeth, Thalia and Percy's sisters and knows Percy's **present-day** experiences at camp. Percy has **not told** her about Sally alive in his erased former life, his missing first-person Atlantean childhood memories, or the timeline rewrite. His letters to her concern his actual current visits, siblings and camp life. No new disclosure is shown.
+- **Percy and Annabeth, LOCKED:** Existing romantic partnership and the only autobiographical holders of the erased future. They discuss the possibility of high school and future housing; Annabeth says Beryl would want involvement but no school plan is approved. Their remembered war with Kronos is **not evidence** that the new timeline must follow the exact same events.
+- **Thalia:** Annabeth's current-history older Grace sister. Chooses to rest for the afternoon after **arranging patrol coverage with Chiron**, rather than abandoning duties. Her offer from 075 to escort Zoe to the last marked lantern at the next new moon is **still pending** schedule/weather agreement; this day does not fulfill it. Percy hears about a private conversation after the play but **not** the underlying school-awards story from 073.
+- **Clarisse/Silena:** Percy's Poseidon half-sisters with standing sibling ties, not Ares/Aphrodite daughters. The arm-wrestle and other family history remain cumulative. Silena offers design value through beauty and helps the new campers participate; she is not acting as a substitute for her counterpart Percy lost in the erased future.
+- **Milo:** New camper from 072, with a fourteen-year-old mortal brother. Says he and Chiron made a **contact plan**, but exact contents, dispatch and reception of the letter are **not revealed** and must remain unknown. Helps Grover inventory returned gifts and accurately reports a missing living tide pool.
+- **Lucy:** New camper whose light-up sneakers nearly got wet in 072; now helps label a safe bag area. Adds a ramp to Annabeth's sandcastle after asking who can use stairs. Own pegasus drawing remains hers unless separately given.
+- **Bea:** Younger camper keeps her stuffed seal and paper boat; asks whether living creatures go home, helps point out where a bowl was carried, and later makes a flower crown with the counselor's permission. Zoe's 075 campfire memory story was too frightening and she left it before the later Milo questions; do not give her knowledge of that discussion.
+- **Mara:** Demeter camper newly named in this chapter, helps test a shallow drainage channel and receives co-design credit. No age, earlier family identity or supernatural power newly inferred.
+
+## Water, material and object accounting
+
+- **Six living tide pools** delivered; Grover/Milo record six. One was carried toward the infirmary annex by an Apollo camper for a friend who couldn't reach the beach; it was returned after clarification. A drawing is provided instead. **All six are accounted for by sunset.**
+- **Return destination:** Tide-pool organisms are **not dumped** into Long Island Sound or the freshwater lake. Amphitrite's charm seals/returns them to **protected Atlantean saltwater nurseries**, with Rainbow present offshore.
+- **Amphitrite's architect kit:** Pearl level, shell tools, charts and living sand are a **temporary chaperoned gift**; charmed objects return by sunset. Annabeth copies useful design notes into **her own** notebook rather than keeping the enchanted instruments.
+- **Castle:** First east wall fails from trapped ground water; Annabeth, Mara, Tyson, Beckendorf, Percy and Lucy collaborate on drainage, foundations and a west access ramp. The final wave destroys **one corner tower** as the living sand's magic ends. Main dome/bridge and Silena's scallop stand for that tide due to **ordinary engineering**, not a permanent enchantment. The castle will erode eventually; no indefinite survival or magical proof of infinite stability.
+- **Food:** Recreational drinks are **berry juice**, not medicinal nectar or ambrosia. Nonliving leftover food is packed for the Big House as the magical beach kit returns.
+- **Silver/pearl shell letter:** Percy handles Amphitrite's instructions; he accepts the Queen's current affection without claiming memories of her parenting from before Chapter 1. The shell correspondence does not establish future delivery of any thank-you note.
+- **Cover-up:** Thalia returns Silena's borrowed cover-up when asked, retaining the flower crown until later; it is not silently stolen.
+
+## Adjacent boundary
+
+Chapter 078 opens on a **Monday in April** with Bianca planning Nico's Friday birthday. Do not claim it directly follows the beach day unless independently established by chronology; Nico and Bianca already share a sibling history. Percy and Annabeth were already partners. Milo/Bea/Lucy remain new campers with ongoing, not instantly solved, home concerns.
+
+**Open:** Independent full-scene developmental assessment, multi-chapter age/calendar alignment, and newest-head every-offset 300-word/structure/lexical-memory CI confirmations.

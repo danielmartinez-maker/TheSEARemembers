@@ -1,0 +1,85 @@
+chapter: 95
+title: "Annabeth Sick"
+source: "chapters/095-annabeth-sick.md"
+status: "revised; 10,129 body words; local mechanical QA passed; hosted Actions pending"
+chronology:
+  relative_time: "Tuesday through Wednesday dawn at Camp Half-Blood; exact date/year and gap after Chapter 094 unknown."
+  sequence: "Annabeth notices she feels cold/hot but continues agreed footwork practice; Will examines her and sets a care plan; Annabeth chooses Cabin Three; friends rotate support; Percy and Thalia discuss their distinct memories; Annabeth delegates the north-trail inspection; Will checks her overnight and at dawn; Thalia sends an approved limited Iris-message to Grover."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Camp arena"
+  - "Shaded arena bench"
+  - "Cabin Three"
+  - "Cabin Three porch"
+participants:
+  primary: ["Percy", "Annabeth", "Thalia", "Clarisse", "Silena", "Will"]
+  other: ["Chiron (receives sketch through Clarisse)", "Katie (brings Annabeth's bag)", "Grover (intended Iris-message recipient; receipt not shown)", "younger camper", "two unnamed counselors", "other campers"]
+preceding_scene_verified:
+  chapter: 94
+  locator: "editorial/handoffs/ch094-sick-day.md, final scene"
+  context: "Percy remains ill and uncleared at night; Annabeth's approved temporary guest bunk is three bunks from him; Thalia's right palm is tender under a wrap. Chapter 095's opening establishes a later Will clearance for Percy after a full fever-free day; exact gap remains unknown."
+following_scene_verified:
+  chapter: 96
+  locator: "chapters/096-training-together.md, opening"
+  context: "Chapter 096 opens at dawn after the lower temperature reading; Annabeth remains ill and uncleared. Several days later she chooses Cabin One and resumes gentle training after the required fever-free interval and Will's clearance. Chapter 096 records Thalia's message content as relayed by Silena, but does not show Grover's receipt or reply."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 95
+    earned_trust_or_conflict: ["Established romantic partners; agree to stop training by choice; Percy supports Annabeth without taking over; she asks for privacy and a shared watch schedule."]
+    what_each_remembers_firsthand: ["Their present-day care and relationship; each retains their own autobiographical erased-life memories."]
+    what_each_knows_secondhand: ["Percy hears Annabeth's current account of waking cold/hot; she hears his Sally memory as his report."]
+    private_facts_not_known_to_other: ["Annabeth's full dream wording is not repeated to camp; Percy does not disclose his old-life memory details to Thalia."]
+    future_callback_required: "Do not treat Annabeth's dream as public camp knowledge or Percy as immune to her sparks."
+  - pair: "Percy / Thalia"
+    last_shared_scene_chapter: 95
+    earned_trust_or_conflict: ["Thalia shares care instead of taking every watch; Percy listens to her uncertain childhood report without filling memory gaps."]
+    what_each_remembers_firsthand: ["Thalia remembers her own age-six caregiving; Percy remembers his own erased life and the current night."]
+    what_each_knows_secondhand:
+      - fact: "Thalia's toddler-fever story"
+        source: "Thalia's report to Percy while Annabeth sleeps; Annabeth later hears only that a story was told and says she does not remember the crib."
+    private_facts_not_known_to_other: ["Thalia does not know Percy's/Annabeth's private Tartarus dream memories from this conversation."]
+    future_callback_required: "Thalia cannot know whether Zeus changed the rain or the cloth affected the childhood fever."
+items_promises_injuries:
+  - item_or_event: "Annabeth's fever"
+    owner_or_people: ["Annabeth", "Will"]
+    last_seen_chapter: 95
+    current_status: "103.2°F at arena, 103.6°F later, 99.1°F at dawn; no cause or exact break time established; she remains ill and is not cleared for training."
+  - item_or_event: "24-hour fever-free training restriction"
+    owner_or_people: ["Annabeth", "Will"]
+    last_seen_chapter: 95
+    current_status: "Active; Annabeth needs a full 24 fever-free hours and Will's clearance before resuming training."
+  - item_or_event: "Percy's earlier illness"
+    owner_or_people: ["Percy", "Will"]
+    last_seen_chapter: 95
+    current_status: "Will cleared Percy for ordinary drills after a full fever-free day during the unknown gap; no source or connection to Annabeth's illness."
+  - item_or_event: "Thalia's right-palm burn"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 95
+    current_status: "Dressing dry but still tender; no sparring/bracing clearance; another check requested the following morning."
+  - item_or_event: "North-trail closure and sketch"
+    owner_or_people: ["Annabeth", "Clarisse", "Chiron", "two unnamed counselors"]
+    last_seen_chapter: 95
+    current_status: "Trail stays closed until braces are checked; Clarisse delivers Annabeth's sketch to Chiron for inspection, not as a work order. Inspection result unknown."
+  - item_or_event: "Annabeth's privacy boundary"
+    owner_or_people: ["Annabeth", "Percy", "Thalia", "Grover"]
+    last_seen_chapter: 95
+    current_status: "Camp may know she was ill; dream details remain private. Thalia sends Grover only the approved fever/status/toast message; receipt is not confirmed in Chapter 095 or 096."
+unresolved_tensions:
+  - "Exact date/year and elapsed time after Chapter 094 are unknown."
+  - "Cause and relation of Annabeth's fever to Percy's prior illness are unknown."
+  - "Exact fever-break time and future clearance are unknown."
+  - "North-trail brace inspection and measurement verification are pending."
+  - "Annabeth's overnight cabin choice after Wednesday is undecided."
+open_canon_questions: []
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true

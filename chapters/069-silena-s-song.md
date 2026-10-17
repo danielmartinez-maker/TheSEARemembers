@@ -1,5 +1,401 @@
 ## Chapter 69: Silena's Song
 
+---
+
+The day of the campfire, Silena had spent forty minutes trying to convince a guitar that it did not need to be tuned by force.
+
+It was not her guitar. The Apollo cabin kept it in a cupboard beside three cracked tambourines, a lyre with one missing string, and the drum Austin had once used to keep time for an entire song in the wrong time signature. Silena had only offered to help Kayla sort the instruments because the cupboard was stuck, and because Kayla had been trying to balance a stack of music books while opening it with her knee. One thing had led to another. Now Silena sat cross-legged on the floor of the Apollo common room with a guitar in her lap and a tuning key between her fingers, while Kayla crouched across from her and Austin held the neck steady.
+
+“You can stop,” Kayla said. “I know you have things to do.”
+
+“I’m not being held here hostage by a guitar,” Silena said. “It’s just that this string is wrong.”
+
+“The string has been wrong since last summer,” Austin said. He plucked it. The sound came out dull and low. “We’ve learned to live with it.”
+
+Silena turned the tuning key a fraction. “Maybe it’s tired of being wrong.”
+
+The note sharpened. Kayla’s eyebrows rose. Silena kept her eyes on the headstock. She had never learned enough about instruments to call herself a musician, but she could hear when something was out of tune. She could hear when a song wanted another breath before the next line. She could tell when a person was singing loudly to cover the fact that they weren’t sure they wanted to be heard.
+
+That last skill was harder to explain. It was probably just paying attention. Silena was good at that.
+
+The common room door stood open to the late-afternoon sun. Beyond it, campers crossed the green carrying chairs toward the amphitheater. Someone had left a stack of song sheets on the porch rail, corners pinned down with a smooth stone. Kayla had made the evening program on a piece of butcher paper: opening set, two call-and-response songs, camp announcements, then requests. She’d drawn little stars around the final word.
+
+Silena noticed the word before she could stop herself.
+
+“You put my name there.”
+
+Kayla looked at the sheet, then at Silena. “I wrote ‘requests.’ I didn’t put your name.”
+
+“You put stars around it.”
+
+“I like stars.”
+
+“Kayla.”
+
+The older girl sat back on her heels. “People have been asking me if you’d sing. I didn’t promise anything.”
+
+Silena’s fingers went still on the tuning key. She could hear the camp in the distance: the clank of dishes from the pavilion, the scrape of a practice shield, a shout from the direction of the canoe lake. Normal sounds. Nobody was calling for her. Nobody had even said her name. Still, the room seemed to have narrowed around the butcher paper.
+
+“I told you maybe,” she said.
+
+“I know.”
+
+“Maybe doesn’t mean yes.”
+
+“I know that too.” Kayla’s voice had lost its teasing edge. “I’m not trying to trap you. The campers keep asking, and I thought you might like to choose something if you wanted. But I can take your name off the program. I haven’t told anyone you’re singing.”
+
+Silena let the tuning key rest in her palm. “Could you leave ‘requests’ on the sheet without pointing at me?”
+
+“Of course.”
+
+"And if people ask you about me, tell them you don't know yet. Don't make it sound settled before I get to decide."
+
+Kayla nodded once. “Done.”
+
+Austin looked down at the guitar. “Does this mean I should take the stars off?”
+
+“You can leave the stars,” Silena said. “They’re not the problem.”
+
+“Great. I was attached to those stars.”
+
+She bent over the instrument again, partly to hide the small smile that had escaped. The last string came into tune with a clean, bright note. Austin tried the chord he’d been reaching for before. This time it held together. Kayla hummed the next one, then the next, checking the sound against the guitar. Silena listened and shifted a peg by a breath.
+
+“There,” she said.
+
+Austin strummed the chord again, more carefully. “Okay. That is considerably less sad.”
+
+“The guitar was not sad,” Kayla said. “It was expressing itself.”
+
+“It was expressing that it wanted a new owner.”
+
+Silena put the tuning key down. It was a small repair, hardly a performance. No one clapped. No one had asked her to stand up. Her shoulders had dropped without her noticing.
+
+“Can I ask you something?” Kayla said.
+
+“You just did.”
+
+“That’s fair.” Kayla picked up the butcher-paper program, folded it in half, and used the crease to cover the stars. “When people ask you to sing, what part makes you want to run? The singing, or the people watching?”
+
+Silena looked at her. Kayla was asking in a way that left space for no answer. That helped.
+
+“The moment where everyone decides what I’m going to do before I decide,” Silena said. “When they’re excited, it feels like I’ve already disappointed them if I say no.”
+
+Kayla’s mouth tightened. “That’s not what I want.”
+
+“I know. You’re excited too. That’s not bad.” Silena ran her thumb along the guitar’s smooth edge. “It just gets loud very quickly.”
+
+Austin rested the instrument against his knee. “We can tell everyone not to chant.”
+
+Silena thought of the amphitheater full of campers, of dozens of faces turning to her all at once. “You can ask. You can’t make them do it.”
+
+“No,” Kayla said. “I can’t.”
+
+They sat quietly. The sun moved a little across the open doorway. A dryad passed by carrying a basket of apples and paused to listen to Austin’s new chord. He gave her a solemn bow. She gave him one apple, which he accepted as a payment for his services.
+
+Silena took the apple from him and polished it against her sweater. “I could help with the requests,” she said.
+
+Kayla tilted her head. “How?”
+
+“If someone asks for a song, don’t make the person sing it just because everyone likes it. Ask them first. If they say no, pick another song. If they say maybe, give them time.”
+
+“That sounds obvious.”
+
+“It should be.”
+
+“We can do that.” Kayla unfolded the program and wrote a small note beneath the request section. She read it aloud as she wrote: “‘Requests are invitations. The person asked gets to choose.’”
+
+Silena frowned. “That sounds like a camp rule.”
+
+“It can be a music rule.”
+
+“A rule is something Chiron writes on a board.”
+
+“Then it’s a suggestion.”
+
+“That sounds worse.”
+
+Austin leaned over to read the note. “How about, ‘Ask the person. If they say no, pick another song.’ Simple enough for the Stolls.”
+
+“Nothing is simple enough for the Stolls,” Kayla said, but she crossed out the first sentence and copied Austin’s version underneath the request heading.
+
+Silena watched the pencil move. A small thing, a few words on a program. It would not stop people from looking at her. It would not make a crowd quiet or take away the strange rush of being wanted and watched at the same time. But it meant the person with the guitar would remember to ask. It meant there was a sentence she could point to if her own voice got lost.
+
+“Thank you,” she said.
+
+“You’re welcome.” Kayla laid the program aside. “And you still don’t have to sing tonight.”
+
+“I know.”
+
+"Do you want me to tell the others you haven't decided?"
+
+“No.”
+
+Kayla nodded. There was no hurt in it. “Okay.”
+
+Silena stood and brushed dust from her skirt. She could have gone back to Cabin Three. She could have done the afternoon sewing she’d planned, or found Clarisse at the arena before she started shouting at someone about their guard again. Instead, she picked up the guitar and tested the repaired chord one more time.
+
+The sound was warm. Not polished, not perfect. It belonged to a song that had not started yet.
+
+“Can I borrow this for a little while?” she asked.
+
+“For practice?” Austin said.
+
+“Maybe.”
+
+Kayla smiled, but didn’t turn the word into a promise. She gave Silena the guitar strap and helped her thread it over her shoulder. The instrument felt heavier than it looked. Silena adjusted the strap until the body rested against her hip, then took it off again. She didn’t know why she’d picked it up. Maybe she wanted to see if she could walk across the green with it. Maybe she wanted the option without the obligation.
+
+She carried it to the door.
+
+“Silena?” Kayla called.
+
+Silena turned.
+
+“If you do sing, what would you want to sing?”
+
+The question opened a door in her chest. Behind it waited the lullaby: the tune she had learned in pieces, the one her mother used when the sea was loud outside the windows, the one that didn’t belong to a stage. She felt its first notes move behind her teeth and held them there.
+
+“I don’t know yet,” she said.
+
+“That’s an answer,” Kayla replied.
+
+Silena stepped outside with the guitar. The late sun caught the edge of the strings. She passed the pavilion and took the path behind the cabins, where the voices from the arena thinned and the trees let the sea breeze through. She didn’t play. She only let the instrument rest against her side while she walked.
+
+By the time she reached the low fence near the strawberry fields, she had picked a song. She did not tell Kayla. She didn’t tell anyone.
+
+That was part of choosing it.
+
+---
+
+The field fence ended at a narrow path that curved toward the Sound. Silena followed it until the strawberry rows gave way to scrub pine and sand, then stopped where the ground dipped enough to hide her from the camp.
+
+She had not planned to come to the beach. She had only meant to walk until the guitar stopped feeling like a question. The case strap pressed across her shoulder. The instrument knocked softly against her hip whenever she stepped over a root.
+
+The water below the bluff was not the water of Atlantis. It was cold, shallow at the edges, and full of the little waves that came from boats farther out. The sun had turned the surface into a scatter of bright pieces. Silena sat on a flat rock, lifted the guitar into her lap, and checked the repaired string.
+
+It stayed in tune.
+
+She tried the chord Austin had played, then another one Kayla had shown her. They fit together well enough. She knew the shape of a few more from watching the Apollo cabin practice, and her fingers could find them if she went slowly. The guitar sounded good when she played them. It sounded like the beginning of a song she might hear at a campfire, something people could tap their feet to and sing along with.
+
+That was not the song she had chosen.
+
+Silena set the guitar aside and closed her eyes. She could hear the lullaby without trying. Its tune had no need for a regular beat. Some notes stretched, some tucked themselves close to one another. The lines did not end where a guitar chord wanted them to end. When she tried to fit the melody over the simple progression, she kept arriving at the next note too early.
+
+She tried again, more quietly. Her voice moved through the first phrase. The chord changed under it and made the next note sound wrong. She stopped before the line finished.
+
+“That’s annoying,” she told the empty beach.
+
+A gull answered from somewhere down the shore, sounding unimpressed.
+
+She turned the guitar sideways and tried to pluck the melody instead. Her fingertips found the first few notes, then the string spacing defeated her. The song fell into a shape she did not recognize. She knew enough to tell she had lost something, and not enough to understand how to get it back.
+
+For a while, she kept trying anyway. She changed the chord, then the pace, then started over from a different place. She found a version that almost worked if she hummed the melody under her breath, but it pushed the words into a square little pattern. The lullaby became a camp song. It sounded cheerful. It sounded easy to teach. It sounded like something that belonged to everyone before Silena had even decided whether she wanted anyone else to hear it.
+
+She laid the guitar down on the sand and brushed grit from the strings.
+
+It was not the instrument’s fault. Austin and Kayla had offered it because they were trying to make room for her. It would have been simpler if they had done something wrong. Then she could have been annoyed at them instead of having to decide what she wanted.
+
+The wind moved her braid against her neck. She listened to it pass through the grass at the top of the bluff. In the quiet, the song returned at its own pace. Its first notes were soft, not because she was afraid of them, but because that was how the lullaby began. She remembered singing the reef-lullaby at summer tide until dolphins answered. She could not say who had first taught her the tune. She did remember that evening: the water, the slick backs breaking the surface, and how the song had seemed to travel farther than her voice. It had belonged to her before anyone asked her to sing it for a crowd.
+
+She tried the opening once more without the guitar.
+
+The sound came out small. It did not carry much farther than the rock. That was all right. She followed the melody to the end of the line, paused where the breath belonged, then began again. The words sat differently when she sang them alone. She could let the last syllable last as long as it needed. She could take a breath when the tide pulled back. Nothing was keeping time but her.
+
+The guitar remained beside her, useful and beautiful and unnecessary.
+
+Silena stood and brushed sand from the back of her skirt. She would return it before the campfire. Austin needed it for the Apollo set, and she did not want Kayla to think borrowing it meant she had decided to perform. She put the instrument back in its case and started uphill.
+
+Halfway to the path, she heard footsteps coming from the camp. A younger camper appeared around the bend, walking fast and looking down at the trail. Silena recognized him from the Hermes cabin, though she could not remember his name. He carried a tin whistle in one hand and kept closing his fingers around it until only the mouthpiece showed.
+
+He stopped when he saw her. “Are you going to sing tonight?”
+
+Silena shifted the guitar case to her other shoulder. “I haven’t decided.”
+
+“They said you were.”
+
+“Who said?”
+
+“The Stolls. They said Kayla had the whole thing planned.” He looked at the instrument. “Are you practicing?”
+
+“I was trying to see if this would work with the song.”
+
+“Does it?”
+
+“Not really.”
+
+He considered that. “Can I show you something?”
+
+Silena nodded, and he lifted the tin whistle. “I can play the first part of ‘Yankee Doodle.’ I messed it up yesterday because everyone was watching. I want to get it right before I try again.”
+
+“Do you want me to listen?”
+
+The boy’s face changed. His hand lowered an inch. “Maybe. But don’t tell them.”
+
+Silena looked back toward camp. She could see the roof of the Apollo cabin between the trees. “I won’t.”
+
+“And don’t make me play it.”
+
+“I won’t do that either.”
+
+He stood with the whistle at his side. The pause stretched on. Silena could have said something helpful. She could have told him that he didn’t have to play at all, that nobody would mind, that the first note was the hardest. She recognized all the sentences people used when they were trying to make a decision for someone else while sounding kind.
+
+So she waited.
+
+The boy finally lifted the whistle to his mouth and played four notes. The first came out clear. The second squeaked. He lowered it immediately.
+
+“That’s it,” he said.
+
+Silena nodded. “Thanks for letting me hear.”
+
+He frowned, like he had expected a different response. “You’re not going to say I should keep going?”
+
+“Do you want to keep going?”
+
+“I don’t know.”
+
+“Then you don’t have to decide yet.”
+
+He looked down at the whistle again. His shoulders loosened a little. “Can I try one more time?”
+
+“Sure.”
+
+The second attempt made it to six notes before the squeak. He stopped, but he didn’t put the instrument away. He tried the opening a third time, and this time the pitch held. It was still not the whole tune. It was enough for him to smile.
+
+“I did it,” he said.
+
+“You did.”
+
+Silena wanted to tell him that the squeak did not matter. She let the thought pass. It would have been easy to turn his small success into a lesson about courage, to tell him that he ought to keep going because he had already come this far. Instead she asked, “Do you want to play it again, or are you done for today?”
+
+He considered the whistle as if it might answer for him. “Done for today.”
+
+“Then you’re done.”
+
+He slipped it into his pocket with more care than before. “Maybe I’ll play next week.”
+
+“Maybe,” Silena said.
+
+The word did not need to mean more than it did. She felt the difference in the quiet between them: he could leave with six notes, and she could leave with an unfinished decision. Neither of them owed the path a grand ending.
+
+“You can tell Kayla I practiced.”
+
+“If you want me to.”
+
+“Maybe later.” He tucked the whistle into his pocket. “Do you think they’ll let me play a short part next time?”
+
+“I think they’ll ask you. Then you can tell them what you want.”
+
+He made a face. “That’s not an answer.”
+
+“It’s the honest one.”
+
+He glanced toward the camp, then back at her. “If I say no, I can play it for you instead.”
+
+“If I’m around.”
+
+“Okay.”
+
+The boy continued along the path. He had not decided whether to play for the camp. Neither had she. They had both tried one thing and stopped when it was enough.
+
+Silena carried the guitar back to the Apollo common room. Austin had started arranging chairs outside; Kayla was helping a pair of campers find the right lyrics for the call-and-response set. No one asked what Silena had practiced. No one asked what she had decided. She returned the instrument to the cupboard and told Austin the repaired string was holding.
+
+“Thanks,” he said. “Do you want to keep it out in case you need it?”
+
+Silena glanced at the open cupboard, then toward the amphitheater. “No. The song doesn’t need it.”
+
+Austin leaned his head to one side. “All right.”
+
+She felt lighter walking away. The decision was not a promise to sing. It was only a decision about what she would bring if she did.
+
+The campfire was still an hour away. There was time for her to change her mind.
+
+Kayla was still outside the Apollo cabin. The program lay on the step beside her, weighted with the same stone. Its pencil note about requests had smudged where a thumb had brushed the paper, but it could still be read.
+
+“How was the guitar?” Kayla asked.
+
+“It works.”
+
+“And the song?”
+
+“It doesn’t want a guitar.”
+
+Kayla accepted that without asking Silena to demonstrate. She gathered the program and rolled it loosely around the pencil. “That’s good to know.”
+
+“I might want to sing it without music.”
+
+“Okay.”
+
+Silena studied her face for a sign that she was disappointed. Kayla only looked thoughtful. The answer had been easy for her; maybe Silena had made the question harder in her head than it was in the world.
+
+“You don’t have to arrange anything around me,” Silena said. “If I do it, it’ll be one song. I don’t know if I’ll want another.”
+
+“One song is a whole song.”
+
+“And I don’t want the guitar passed to me in front of everyone. I’d rather not have to take it and then explain.”
+
+“I can leave it on the stand.” Kayla looked over toward the amphitheater, where Austin was testing the drum. “If you decide you want to sing, we can leave the space open. If you don’t, we’ll go right to the next song.”
+
+“You can do that?”
+
+“It’s our program. We can change it.”
+
+Silena let the thought settle. One song. No borrowed instrument. No obligation to fill the space afterward. It was still frightening, but it was something she could picture doing. She had not said yes. She had found the edge of a yes and stopped there.
+
+“All right,” she said. “Leave the space open.”
+
+Kayla smiled. “I can do that.”
+
+Silena went to her cabin to put away the guitar case. She changed her sweater for the blue one Clarisse had lent her, then changed back because the borrowed sweater was too warm by the fire. She braided her hair again when the shells at the end tangled in the wind. She washed her hands, though they were already clean. When she came back outside, the amphitheater was filling, and the sun had slipped low enough to turn the grass gold.
+
+She could still turn around. The path was open behind her. No one stood in it. She walked toward the fire anyway, not because she had promised anyone she would, but because she wanted to see what the evening felt like before she decided.
+
+---
+
+The conch was too large for the shelf it sat on in Tempest Hall, and Percy found it because he had been looking for something that would make a noise louder than the water running through the pipes.
+
+Annabeth sat on a low stone bench while Silena worked the last part of her braid. A handful of loose shells lay between them, catching the thin afternoon light. Percy picked up the conch and turned it over. Its mouth was pink, the spiral pale as bone.
+
+"You going to try it?" Annabeth asked.
+
+"Maybe." He rubbed his thumb across the lip. "It's probably full of water."
+
+"It's a conch, Seaweed Brain. It has been in the ocean."
+
+"Which is why it might be full of water."
+
+Silena laughed, the braid sliding loose in her hands. "Go ahead. If you spray me, I'll make you clean the whole bench."
+
+Percy held the shell carefully and put it to his mouth. He tried a low note, the kind of sound that should have rolled through the hall like a ship calling across a harbor. Instead, the conch made a high, ragged *BWAAAAAP* that cracked into a squeak.
+
+Annabeth looked down at the shell. "I think it wants you to stop."
+
+"It doesn't know what it wants yet," Percy said. He wiped the edge against his shirt and tried again, softer this time. The note sank, wavered, then broke into another ugly rasp. Somewhere beyond the open doors, a gull answered with a complaint of its own.
+
+Silena's smile turned thoughtful. "That would sound pretty under the sailing song. A low boom before the chorus."
+
+Percy glanced at Annabeth, who was watching the conch with the same concentration she gave a puzzle. The note was awful, but he liked the idea of finding its right shape. "I can try it with you while you rehearse."
+
+"Only if you want," Silena said. She went back to Annabeth's braid. "I meant the sound. I'm not putting your name on the program."
+
+"Good. I haven't even made the sound yet." Percy set the conch on the bench. "I might decide it's only funny in this room."
+
+"Then it's only funny in this room," Annabeth said. "You don't have to take it somewhere else."
+
+The answer let him unclench his jaw. He liked trying the note while Silena listened. He liked that Annabeth had laughed with him instead of making the noise into a dare. The two things felt different from carrying the shell to the campfire and being expected to repeat it for a crowd.
+
+By the time Silena finished the braid, the sun had moved across the high windows. Percy left the conch where it was and walked to the dock with the tune still stuck in his head. The first line that came to him was about Annabeth and books. The rhyme was bad. He kept it anyway, then tried another line about the way she saw a battle before anyone else had noticed the pieces on the board.
+
+He did not write it down. He said the verse under his breath until it had a beginning and a last line, stumbling over the meter, laughing once at the part about *books* and *looks*. When Silena came to the dock a few minutes later, he told her what he had made, voice low, eyes on the water.
+
+She listened without interrupting. When he finished, she took both his hands in hers. "That's yours," she said. "If you want Annabeth to hear it, she will. You don't have to sing it for anyone else."
+
+Percy nodded, suddenly more embarrassed than he had been about the conch. "Don't tell her yet."
+
+"I won't."
+
+He carried the shell with him when they walked back toward the fire. The verse stayed in his head, where it was private until he chose otherwise.
+
+---
+
 The campfire had been burning for an hour before Silena agreed to sing.
 
 It was a Friday night in April, the kind of night Camp Half-Blood did best. The air had gone crisp at the edges but the fire kept the amphitheater warm. The sky was a deep, star-crowded blue. The logs in the center pit crackled and threw sparks up in orange spirals, and the Apollo cabin had already done their usual opening set — three fast songs on lyres and drums that got the Hermes cabin standing on benches and the Ares cabin banging their shields in time.
@@ -14,25 +410,17 @@ Grover sat on the step just below them, his reed pipes in his lap, his legs fold
 
 "All right!" Kayla Knowles stood up in front of the fire with her guitar. She was Apollo cabin, fifteen and loud and completely in charge of campfire nights. "That was the warm-up. Now for the real show."
 
-Austin Lake, her brother, tapped his drum twice. "We got a request. Actually, we got like twenty requests. All for the same person."
+Austin Lake, her brother, tapped his drum twice. "The request pile is full. The next slot is open; nobody is on it until someone asks."
 
 The fire popped. Someone in the back whistled.
 
-Kayla grinned straight at the third row. "Silena! Get up here!"
+Kayla lifted a hand, smiling but not looking toward any particular row. "We have an open slot. If someone wants it, come tell me. If not, Austin has another song ready."
 
-Silena froze.
+She set her guitar against the stool and stepped away from the center of the fire. Austin laid his sticks across the drum. The open space stayed open.
 
-Percy felt it more than saw it — the sudden stillness beside Clarisse. Silena's fingers stopped twisting her sleeve. Her breath caught.
+Percy felt Silena go still beside Clarisse. Her fingers stopped twisting her sleeve. Her breath caught.
 
-"No," she whispered, just loud enough for their little group to hear. "No, no, no. Kayla, no."
-
-"Yes!" Travis Stoll shouted from two rows back. "Silena! Come on!"
-
-"WE LOVE SILENA!" Connor Stoll cupped his hands around his mouth.
-
-Pollux from Dionysus cabin started clapping. Then Austin joined in on the drum, a slow coaxing beat, and then the whole amphitheater was clapping in rhythm.
-
-Silena sank lower in her sweater. "I can't. I told her maybe. I didn't mean tonight."
+"No," she whispered, just loud enough for their little group to hear. "No, no, no. I told her maybe. I didn't mean tonight."
 
 Clarisse turned and looked at her sister. Really looked at her. Her scowl, which was usually set to a permanent low simmer, softened around the edges.
 
@@ -54,7 +442,7 @@ Annabeth nodded hard. "He does. He literally floats there like an idiot with his
 
 "I do not float with my mouth open," Percy protested.
 
-"You absolutely do," Annabeth said, and bumped his shoulder with hers. "But he's right. You're good."
+"You absolutely do," Annabeth said, and bumped his shoulder with hers. "But he's right. You're good. And you don't owe anyone a song."
 
 Silena looked between them, her cheeks going pink in the firelight. "You guys are just saying that because you're my — because we're —"
 
@@ -90,31 +478,33 @@ Clarisse smirked. "Tactical motivation."
 
 "She brought the house down," Clarisse said. She said it flatly, like a war report. Like it was a fact you could not argue with. "Mrs. Alvarez cried. Your mom cried. I didn't cry because I was seven and tough, but I almost did. And after, Mrs. Alvarez said she'd been an idiot."
 
-The clapping had gotten louder. Kayla was gesturing wildly. Austin had switched to a little fanfare.
+The open space by the fire was still waiting. Kayla had not called her name again; Austin had left his sticks resting across the drum.
 
 Silena looked at Clarisse. Clarisse looked back, steady and sure.
 
-"Same deal as second grade," Clarisse said. "You sing. I sit here. If anyone laughs, I throw them in the lake. Deal?"
+"Same deal as second grade," Clarisse said. "I can sit with you if you want me there. You can stay here if you don't. Nobody gets to decide for you."
 
-Silena swallowed. Then she nodded, just once.
+Silena swallowed. She looked from Clarisse to Percy and Annabeth, then at the empty place beside the fire.
 
-"Deal," she whispered.
+"I want to sing the first song," she said. "Just one, and no music. If I change my mind, we stop."
 
-Clarisse stood up and hauled Silena to her feet by both hands like she was pulling her out of deep water. The amphitheater erupted.
+"Of course," Clarisse said.
 
-"YEAH!" Percy yelled, on his feet too, whistling with two fingers the way Triton had taught him. Annabeth was on her feet beside him, clapping hard. Thalia let out a sharp patrol whistle that made Grover jump awake.
+Silena stood on her own. Clarisse rose beside her and held out a hand, palm up. Silena took it. They started down the stone steps together. When Silena raised her free hand in a small wave, the amphitheater answered with cheers. She kept Clarisse’s hand and went on.
+
+"YEAH!" Percy yelled, whistling with two fingers the way Triton had taught him. Annabeth was on her feet beside him, clapping hard. Thalia let out a sharp patrol whistle that made Grover jump awake.
 
 "Go, Silena!" Grover bleated, scrambling upright and nearly dropping his pipes.
 
-Silena walked down the stone steps toward the fire with Clarisse half a step behind her, like a bodyguard. Halfway down, Silena turned and grabbed Clarisse's wrist.
+Halfway down, Silena turned and caught Clarisse's wrist.
 
-"Stay?" she whispered.
+"Will you stay beside me while I sing?" she whispered.
 
-Clarisse blinked. "Up there? In front of everyone?"
+Clarisse blinked. "Right beside you? In front of everyone?"
 
 "Please. Just for the first song. Please."
 
-For a second Clarisse looked like she wanted to argue. Clarisse La Rue did battlefields, not stages. But Silena was looking at her with those big dark eyes, and Clarisse sighed the sigh of a sister who knows she has already lost.
+For a second Clarisse looked like she wanted to argue. Clarisse La Rue did battlefields, not stages. Then she saw Silena's hand still holding hers and let out a breath. This was a small thing she could do for her sister.
 
 "Fine," she muttered. "But I'm not singing."
 
@@ -122,11 +512,41 @@ For a second Clarisse looked like she wanted to argue. Clarisse La Rue did battl
 
 "I can do that," Clarisse said. "That's literally my best thing."
 
-They took their places by the fire. Kayla handed Silena her spare guitar, but Silena shook her head.
+They took their places by the fire. Kayla kept her guitar on the stool instead of putting it into Silena's hands.
 
 "Can I — can I just sing? No music for the first one? It's an old one. It's better without."
 
-Kayla nodded and stepped back. Austin set his drum down. The fire crackled. The whole camp went quiet in that sudden, total way crowds did when they knew something real was about to happen.
+"Of course," Kayla said. "It's your song, and your call."
+
+“I know where it starts.”
+
+“All right.” Kayla kept her voice low, even though the first rows could hear. “Do you want me to stay up here?”
+
+Silena glanced toward Clarisse. The old arrangement had been to have her sister close enough that Silena could find her if the room got too large. She had not expected to want that now, but she did. “Could you ask Clarisse to stay?”
+
+Kayla turned toward her. “Clarisse?”
+
+“Please.”
+
+Clarisse stepped forward at once. Her face had gone carefully blank, the look she used before a sparring match. She did not reach for Silena or take the guitar from her. She only moved to the place Silena indicated, beside the fire where she could see her without turning away from the crowd.
+
+“There,” Silena said. “That’s good.”
+
+“You sure?” Clarisse asked.
+
+Silena thought about the boy with the tin whistle. He had played six notes, stopped, and decided whether to begin again. No one had needed to carry him through the whole tune. She could do the same thing. She could sing the first note and decide what came next after it.
+
+“I’m sure I want to try.”
+
+Clarisse nodded. “Then try.”
+
+Kayla kept the guitar at her own side. Silena put her hands together in front of her, then let them fall. They felt too empty, but she did not need to hold anything to keep her place.
+
+Kayla took the guitar and stepped away. Austin moved his drum farther from the fire so its rim would not catch on a log. Nobody rushed to fill the pause. The afternoon's plan could not promise the crowd would stay quiet or that her voice would cooperate. It had only made room for her to say yes or no.
+
+She drew a breath and looked at Clarisse once more. Her sister was still there. That was all she needed from her.
+
+Austin sat beside the drum he had moved. The fire crackled. The whole camp went quiet in that sudden, total way crowds did when they knew something real was about to happen.
 
 Silena stood very still for a moment, her hands clasped in front of her sweater, her eyes on the flames. Clarisse stood a half-step behind her with her arms crossed, feet planted, chin up, glaring out at the audience like *go on, I dare you to make a sound.*
 
@@ -166,6 +586,12 @@ Silena finished on a note so soft it was almost breath.
 
 *Every wave that leaves the shore will bring you home.*
 
+She did not look at the crowd right away. Her fingers had curled into her palms, and she opened them one at a time. The fire was still there. Clarisse was still beside it. Kayla had lowered her hands from her guitar, leaving the next beat empty. Nobody had moved to fill it for Silena.
+
+She had sung the song all the way through. That was what she had decided to try, and she had done it. The applause that might come next belonged to the listeners. The next song belonged to Kayla. Silena did not have to keep standing there until someone told her what else she owed them.
+
+Then she lifted her eyes.
+
 Silence.
 
 One full heartbeat. Two.
@@ -198,83 +624,25 @@ Clarisse looked at the crowd, at the fire, at her sister's hopeful face. She gro
 
 She stayed, leaning against a log with her arms crossed, trying to look casual and failing because she kept smiling.
 
-"So," Kayla said, "Silena says the next one needs accompaniment. And we have a very special, very brave volunteer."
+"The next one needs accompaniment," Kayla said, looking around the fire. "Who wants to join us?"
 
-Percy went cold.
+Percy's hand closed around the smooth edge of the conch beside his knee. In Tempest Hall, the noise had been funny among the few people who knew he was still figuring it out. Here, under all these faces, the same sound felt different.
 
-"No," he said.
+Silena noticed his hand. She came close enough that the fire covered her words. "Do you want to try one note with us?"
 
-"Yes," Annabeth said beside him, grinning wickedly. "Go on, Fish Boy."
+Percy shook his head. "Not here."
 
-"No, no, no," Percy said, sliding down in his seat. "I said I'd hold the shell. I didn't say I'd play it in public."
+Annabeth's shoulder came back against his. "You liked trying it at Tempest Hall."
 
-It had started that afternoon. Percy had found a big conch in Tempest Hall and discovered that if you blew into it just right you could make a deep boom that echoed off the tile. Silena had looked up from braiding Annabeth's hair and said, dreamily, "Oh, that would sound so pretty under the sailing song."
+"With a couple of people," he said. "I was trying to find the note. That's not the same as doing it because everyone is staring."
 
-And Percy, who would have agreed to fight the Minotaur again if Silena asked him in that voice and Annabeth was watching, had said, "Yeah, I could do that."
+"Okay," Annabeth said.
 
-He could not do that.
+The shell rested in his hands, smooth at the rim and heavy with the sound it could make. He had imagined the camp laughing and didn't mind. What bothered him was the second laugh that might follow, the part where they expected another try. Silena accepted his answer without explaining it to the crowd or asking again. Nothing in her face said he had disappointed her. The question did not become a scene. Percy set his hand on his knee and let the song start without him.
 
-"Percy Jackson!" Kayla called. "Get down here with your horn!"
+"We have enough," Silena told the others. "Let's start."
 
-The camp turned and looked at him. Travis started chanting. "PER-CY! PER-CY! PER-CY!"
-
-Annabeth leaned in close, her gray eyes dancing. Her blonde hair was coming loose from the braid Silena had done, curling around her face in the heat. "Go on," she murmured. "You promised your sister."
-
-"She's my sister, not my captain," Percy muttered, but he was already standing, the big pink conch in his hands. He'd stashed it under the bench like an idiot, hoping everyone would forget.
-
-"Break a leg!" Thalia called, saluting him with a marshmallow on a stick.
-
-"You'll be great!" Grover said earnestly. "Just — you know. Breathe from your diaphragm. Like pipes. Except louder. And wetter."
-
-Percy trudged down to the fire to a chorus of cheers and Stoll-whistles. Silena beamed at him.
-
-"Okay," she whispered as he took his place beside her. "So you just do the low boom on the chorus. Like this — *boom — boom-boom.* Like waves hitting the hull. You remember?"
-
-"I remember in theory," Percy whispered back. "In practice, last time I summoned seagulls."
-
-"That was one time," Silena said.
-
-"It was three times," Clarisse said helpfully. "And one pelican. That pelican looked traumatized."
-
-"Just try," Silena said, patting his arm. "If it's bad, it'll be funny. Funny's good too."
-
-Percy lifted the conch to his lips. The camp went quiet, expectant. Annabeth cupped her hands around her mouth. "You got this, Seaweed Brain!"
-
-Percy puffed out his cheeks and blew.
-
-What came out was not a foghorn boom.
-
-It was a sound like a goose being stepped on by a Cyclops.
-
-A high, wobbling, sputtering *BWAAAAAAAP* that cracked halfway through and ended in a sad little squeak. The fire seemed to flicker in shock. A second later, from somewhere out over the woods, three seagulls answered in alarm.
-
-The amphitheater was silent for one terrible second.
-
-Then it detonated.
-
-Laughter rolled down the stone steps like a wave. Travis fell off his bench. Connor was howling. Even Chiron was chuckling into his hand. Thalia laughed so hard she dropped her marshmallow into the fire. Grover clapped his hooves against the step, wheezing.
-
-Percy's ears burned bright red. He lowered the conch and stared at it like it had betrayed him.
-
-"I hate this thing," he announced. "This is a cursed shell. This shell hates me."
-
-Silena was laughing so hard she had to hold her stomach. Clarisse was laughing too, loud and unrestrained, pointing at him.
-
-"Fish Boy!" Clarisse gasped. "You — you sound like — like a drowning tuba!"
-
-"Thank you, sister," Percy said with great dignity. "Your support means everything."
-
-Annabeth was wiping tears from her eyes, leaning against Thalia, who had an arm around her shoulders and was shaking with laughter.
-
-"Again!" someone shouted. "Do it again!"
-
-"No!" Percy said. "Absolutely not. This shell and I are getting a divorce."
-
-Silena caught her breath and wiped her eyes. "No, no — Percy, that was perfect. Do you know what? Keep it. Just — just play it exactly like that. It'll be our foghorn. Our very broken foghorn."
-
-"Are you sure?" Percy said. "I don't want to ruin your song."
-
-"You could never," Silena said simply, and Percy felt his whole face go warm for a different reason. "Ready? Sailing song. Two, three —"
+Kayla picked up her guitar, Austin raised his sticks, and Silena joined them by the fire. Percy kept the conch against his knee. Annabeth's shoulder touched his and stayed there, with no nudge or dare. When Grover's pipes found the tune, Percy listened with his hands empty, relieved he could enjoy the song without turning his private experiment into something he owed the whole camp.
 
 She nodded at Grover. Grover lifted his pipes to his lips, his fingers dancing. A bright, reedy tune spun out — quick and merry, all sunlight on rigging and wind in sails. Kayla joined on guitar, Austin on drum, and Silena clapped twice and launched into the chorus, her voice switching from lullaby-sweet to brassy and joyful like she'd flipped a switch.
 
@@ -283,9 +651,7 @@ She nodded at Grover. Grover lifted his pipes to his lips, his fingers dancing. 
 *Raise the sail and bail the pail and sing until we drop,*
 *The sea goes on forever and the singing never stops!*
 
-The camp clapped along. Percy, taking his cue, lifted the conch and let out another tremendous *BWAAAP* right on the downbeat.
-
-It was awful. It was perfectly, hilariously awful, a half-beat late and wobbling like jelly. But somehow, under Silena's soaring voice and Grover's pipes, it worked. It sounded like a real ship's horn heard through three miles of fog and a school of fish. A little kid from the Hermes cabin started marching in place. Nico stood up and pretended to haul a rope. Bianca swung him around.
+The camp clapped along. Percy kept time against his knee, the conch quiet in his lap. A little kid from the Hermes cabin started marching in place. Nico stood up and pretended to haul a rope. Bianca swung him around.
 
 Silena sang the verse, dancing a little step-step-spin by the fire that made her sweater flare.
 
@@ -302,7 +668,7 @@ The camp roared. Clarisse covered her face with both hands, but she was grinning
 
 "That shark had it coming!" she shouted, and everyone cheered louder.
 
-Grover's pipes trilled higher. Kayla strummed faster. Percy blew his conch again — *BWAAAAP-boom* — and this time a little spray of seawater shot out the end and hit Austin's drum with a *splut.* Austin yelped. The camp laughed harder.
+Grover's pipes trilled higher. Kayla strummed faster. Austin's sticks blurred over the drum while Silena spun around the fire.
 
 Up on the third row, Annabeth nudged Thalia.
 
@@ -316,7 +682,7 @@ Thalia stared at her like she'd suggested they jump into the canoe lake in full 
 
 "Perfect," Annabeth said. "I'll be precise, you'll be loud, it'll balance out. Come on. For Silena."
 
-Thalia looked down at the fire, at Silena spinning and laughing, at Clarisse clapping along now without even realizing it, at Percy blowing that stupid shell with his cheeks puffed out and seawater dripping off his chin.
+Thalia looked down at the fire, at Silena spinning and laughing, at Clarisse clapping along now without even realizing it, at Percy listening beside Annabeth, one hand resting on the quiet conch.
 
 She sighed. "Fine. But if I break windows, it's your fault."
 
@@ -334,7 +700,7 @@ Silena's face lit up. "Yeah? You guys?"
 
 "Kind of got it," Thalia said.
 
-"Percy, horn!" Silena called. "Grover, pipes! One, two, three —"
+"Grover, pipes!" Silena called. "Kayla, ready? One, two, three —"
 
 They hit the chorus together.
 
@@ -347,50 +713,40 @@ It was enthusiastic.
 
 Annabeth sang exactly on pitch, exactly on time, each note placed like a brick in a wall. Thalia sang a third above her, twice as loud, half a beat early, with a wild storm-girl vibrato that wobbled all over the place. Together they sounded like a very determined owl being chased by a very joyful eagle.
 
-Percy, mid-blow on his conch, heard it and his eyes went wide. He nearly dropped the shell.
+Percy watched the harmony wobble into place and caught Silena's delighted grin.
 
 But Silena — Silena just grinned wider and wove her own voice around theirs, smoothing the edges, lifting them up, turning the wobble into something warm. She caught Annabeth's eye and nodded *keep going,* caught Thalia's eye and mouthed *louder.*
 
 *Raise the sail and bail the pail and sing until we drop,*
 *The sea goes on forever and the singing never stops!*
 
-They finished in a tangle of laughter. Thalia had her arm around Annabeth's shoulders. Annabeth was leaning into her, giggling. Percy blew one last triumphant *BWAAAP* that ended in a squeak, and Grover finished with a flourish of pipes that made the fire flare green for a second — satyr magic, show-off magic — and the camp went wild.
+They finished in a tangle of laughter. Thalia had her arm around Annabeth's shoulders. Annabeth was leaning into her, giggling. Percy applauded with the rest, and Grover finished with a flourish of pipes that made the fire flare green for a second — satyr magic, show-off magic — and the camp went wild.
 
 "ENCORE!" Travis bellowed.
 
 "ANOTHER!" Connor echoed.
 
-Silena was flushed and glowing, her braid coming loose, shells jingling. She looked at Clarisse, who gave her a thumbs-up. She looked at Percy, who was still red-eared and holding his cursed shell like a dead fish. She looked at Annabeth and Thalia, arm in arm, and at Grover, who was beaming and out of breath.
+Silena was flushed and glowing, her braid coming loose, shells jingling. She looked at Clarisse, who gave her a thumbs-up. She looked at Percy, who sat beside Annabeth with the conch quiet at his knee. She looked at Annabeth and Thalia, arm in arm, and at Grover, who was beaming and out of breath.
 
-"Okay," Silena said into the noise. "Okay, one more. But this one's — this one's different. This one's not a sea song. Well, it is. But it's — Percy? Can you come here?"
+Silena leaned toward Percy, her voice low beneath the crowd. "That verse you wrote for Annabeth. Do you want to share it tonight? Here, with everybody listening? You can keep it between you. If you say no, I'll choose something else."
 
-Percy blinked. "I'm already here. I'm right here. I've been humiliated here for ten minutes."
+The verse — gods, the verse. He'd made it up that afternoon while trying to get the shell to make any sound that wasn't a dying goose. He'd been sitting on the dock with his feet in the water, thinking about the way Annabeth looked when she figured out a puzzle, her whole face lighting up, and the words had just — come out. Stupid, simple words. He'd whispered them to Silena, mortified, and she'd squeezed his hands and said, *I hope she gets to hear it someday.*
 
-Everyone laughed. Silena took his hand and pulled him forward to the very edge of the firelight, so the flames lit both their faces gold.
+The camp was loud around them. Percy could keep the verse to himself; nobody had asked him for it. Annabeth hadn't waved him forward or called him out. She was just sitting beside Thalia, cheeks flushed from laughing. He wanted to give the words to her, even if everyone heard them. That choice felt like his.
 
-"So," Silena said, suddenly shy again, twisting her sleeve. "Percy's my little brother. He's been at camp long enough to know better, and he's already — he's already my favorite tide pool to yell at when he leaves wet towels on my bunk."
+"Yes," he said. "Just the verse. No encore."
 
-"Hey!" Percy said.
+"Just the verse," Silena agreed. "Can I tell them it's for Annabeth?"
 
-"It's true," Clarisse called from her log. "You do. You're disgusting."
+"Yeah."
 
-"And he's been learning the shell-horn," Silena continued, to more laughter, "because he's sweet and because I asked him to. And he said — he told me this afternoon — he said if he ever got to play in front of everyone, he'd want to play something for Annabeth. Because she's —" Silena glanced at Annabeth, who had gone very still on the steps below, her cheeks pink. "Because she's his girlfriend and best friend. And she braids his bracelets too tight and steals his bacon and does his math homework when he pouts."
+Percy picked up the conch and stood beside Silena at the edge of the firelight, without her pulling him forward. She waited for him to settle before she addressed the crowd.
 
-"I do not pout!" Percy protested, but his voice cracked, and the camp *awwwed* so loudly he wanted to sink into the fire pit.
+"Percy's my little brother. He's written a verse for his girlfriend, Annabeth, and he's chosen to share it with us. One verse."
 
-Annabeth had both hands pressed to her face. Thalia was grinning at her like a shark.
+"One verse," Percy said. "No encore."
 
-Silena leaned in close to Percy, so only he could hear. "You still want to do it? The verse you wrote? You don't have to."
-
-Percy swallowed. His hands were sweating on the conch. The verse — gods, the verse. He'd made it up that afternoon while trying to get the shell to make any sound that wasn't a dying goose. He'd been sitting on the dock with his feet in the water, thinking about the way Annabeth looked when she figured out a puzzle, her whole face lighting up, and the words had just — come out. Stupid, simple words. He'd whispered them to Silena, mortified, and she'd grabbed his hands and said, *Oh, Percy. You have to sing that. She'll love it.*
-
-Now, in front of the whole camp, with Annabeth staring at him wide-eyed, it felt like the stupidest idea he'd ever had. Stupider than fighting Clarisse with toilet water.
-
-He looked at Annabeth.
-
-She lowered her hands from her face just enough to peek over her fingertips. She mouthed, *Do it.*
-
-Percy took a deep breath.
+The laugh that moved through the amphitheater was warm, then quieted. Annabeth's hands stayed at her sides. She didn't urge him on; she only met his eyes, smiling with surprise and affection. Percy took a deep breath.
 
 "Okay," he said into the sudden hush. "Okay. So. I'm not a singer. I'm — I'm really, really not a singer. Silena's the singer. I'm the — the horn guy. The bad horn guy."
 
@@ -450,7 +806,7 @@ Silena stepped back up to the fire then, her eyes bright, and lifted her hands. 
 
 And the whole camp sang.
 
-Two hundred voices, on key and off, Apollo kids harmonizing, Hermes kids shouting, Ares kids bellowing. Silena in the middle, her voice soaring over all of it like a gull over waves. Grover's pipes dancing. Percy's conch booming — *BWAAAP-BOOM* — still awful, still perfect. Annabeth and Thalia side by side, shoulders pressed together. Clarisse, one arm around Silena, singing at the top of her lungs and completely tone-deaf and not caring at all.
+Two hundred voices, on key and off, Apollo kids harmonizing, Hermes kids shouting, Ares kids bellowing. Silena in the middle, her voice soaring over all of it like a gull over waves. Grover's pipes dancing. Percy stayed beside Annabeth, the conch quiet at his side as the group carried the chorus. Annabeth and Thalia stood shoulder to shoulder. Clarisse, one arm around Silena, sang at the top of her lungs and completely tone-deaf and not caring at all.
 
 *Oh, haul away, haul away, the tide is on the run,*
 *The Nereids are laughing in the morning sun,*
@@ -477,13 +833,13 @@ Silena leaned her head on her sister's shoulder. "You stayed."
 
 "You hated every second," Silena teased.
 
-"I hated most seconds," Clarisse corrected. "The part where Fish Boy sounded like a dying goose was okay."
+"I hated most seconds," Clarisse corrected. "The part where you told them that mechanical shark had it coming was okay."
 
-"Hey!" Percy said from the next log over, where he sat with Annabeth tucked against his side under half the blanket, Grover's head in his lap, Thalia's boots up on the stones. "I peaked at the end. That last boom was almost clean."
+"Hey!" Percy said from the next log over, where he sat with Annabeth tucked against his side under half the blanket, Grover's head in his lap, Thalia's boots up on the stones. "I managed one note. It was almost clean."
 
-"It sprayed water on me," Thalia said. "I felt it from three rows up. I thought it was raining."
+"Almost," Thalia said. "You held that shell like it was going to bite you."
 
-"It was holy water," Percy said solemnly. "Blessed by my horn."
+"It was considering it," Percy said solemnly. "Conches have grudges."
 
 Annabeth snorted into his shoulder. "You're an idiot."
 
@@ -533,6 +889,10 @@ Percy watched them go, his chest full and achy in the good way.
 
 "Yeah," Percy said. "Clarisse acts tough, but she'd burn down the world for Silena. Getting to know my sisters. The palace visits have been all brothers and politics. This is different."
 
+He had watched Clarisse wait until Silena asked her to stay, then leave only when Silena was ready to go. Neither of them had needed to turn the moment into a promise to be more than sisters. Percy had known them through camp routines and hard days; the small choices still surprised him. They said there was room to be loud, quiet, protective, or unsure without changing who they were to each other.
+
+He wanted to learn those ordinary parts, the ones that did not come from a rescue or a palace title. The fire would go out, the story would become a joke by breakfast, but the way Clarisse had listened when Silena asked her to stay was something he could keep.
+
 Annabeth laughed. "Thalia threatened to shave my head if I didn't sleep last night. Does that count?"
 
 "Absolutely counts," Percy said. "Sister law."
@@ -549,7 +909,19 @@ Annabeth leaned her head on Percy's shoulder. Percy rested his cheek on top of h
 
 "Yeah," Percy said, embarrassed. "It took me like an hour. Rhyming is hard."
 
-"It was perfect," Annabeth said. " Off-key and awful and perfect. I'm keeping it. I'm writing it in my notebook so I don't forget."
+"It was perfect," Annabeth said. "Off-key and awful and perfect. Would you mind if I wrote it in my notebook so I don't forget?"
+
+"No," Percy said, and the word came easily. He had given the verse to her and chosen to let the camp hear it; that did not mean he owed anyone another performance. "Just don't let the Stolls get it."
+
+"They won't," Annabeth said. She looked up at him. "Did you know you would say yes when Silena asked?"
+
+Percy thought about the dock, about the verse sitting in his head until he decided to give it away. "No. I knew I wanted you to hear it. I didn't know if I wanted everyone else to."
+
+"And when you did?"
+
+"It was my choice."
+
+Annabeth rested her forehead against his chin. "I'm glad you made it."
 
 Percy smiled into her hair. "Even the *books-looks* part?"
 

@@ -2,6 +2,8 @@
 
 **Source:** [Chapter 105](../../chapters/105-the-place-at-the-table.md), git blob `e2a89c16d228a6dd6a927b06aa42ca6f17890b17`. **Approximate body words:** 1,350. **Status:** Screening only; manuscript unchanged.
 
+**Current version note (2026-10-17):** The screening below predates the expanded source and is retained as historical review context. The current Chapter 105 contains 10,033 body words by `scripts/audit_chapter_length.py` and passes the 10,000-word gate. The approximate count and any structural-seam/length findings below are superseded; other prompts are not a current full-chapter re-audit. A focused 2026-10-17 trim removed two repeated reassurance exchanges; carving meaning, privacy choices, the Clarisse/Annabeth friendship, Percy and Clarisse's shore conversation, and the knife return remain in the chapter.
+
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
 ## Chapter-specific focus

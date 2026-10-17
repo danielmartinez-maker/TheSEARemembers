@@ -184,7 +184,7 @@ She was right. The lake held the sky. The water was so still Percy could see the
 
 He felt for the lake, instinct. Sea was loud. Lake was quieter, warm on top, cool underneath. No monsters. The camp wards hummed faint, steady without a child keeping vigil. Safe.
 
-"Okay," Thalia said, dropping her spear, shrugging out of her black hoodie. Underneath her black racerback suit and black swim shorts, bracelet glinting, ponytail retied. "Regulations. One: water shoes stay on past ankles. Two: buddy system, no middle. Three: if anyone says out, we all get out. Four: Percy, no tricks. Let it be lake."
+"Okay," Thalia said, dropping her spear, shrugging out of her black hoodie. Underneath her black racerback suit and black swim shorts, bracelet glinting, ponytail retied. "Regulations. One: PFDs stay buckled. Two: water shoes stay on past ankles. Three: buddy system, no middle. Four: if anyone says out, we all get out. Five: Percy, no tricks. Let it be lake."
 
 "Damn," Percy said, setting down the dry bag. His orange tee stuck, gray shorts stuck. He kicked off sneakers and socks. "There goes my fountain show."
 
@@ -232,7 +232,9 @@ Percy tipped his head back. His navy trunks were already under gray shorts, so h
 
 Clarisse changed fast, back turned — gray hoodie off revealing black one-piece with red side panels, blue shoes strapped, bandana still tied.
 
-Percy, in navy trunks, bare chest, puffed up. "Okay. Who's first?"
+The five fitted PFDs came out of the dry bag. They put them on and tightened the straps over suits and shirts; Annabeth checked each buckle, then let the others check hers. The fit was snug without pinching.
+
+Percy, in navy trunks and his buckled PFD, puffed up. "Okay. Who's first?"
 
 "Not it," three girls said.
 
@@ -250,9 +252,9 @@ Clarisse lowered her feet. Water closed over her blue shoes with a soft sucking 
 
 "Cold," she whispered.
 
-"Cold means alive," Thalia said. "Breathe with me. In—" She breathed, audible. Clarisse tried to match. Percy's chest ached watching. Silena, in her teal top and navy shorts and cover-up tied at her waist, sat on Clarisse's other side without a word and took her other hand, lacing fingers. Her bare feet — she had swapped sandals for black water shoes — dangled too, toes just kissing. Her coconut smell wrapped around them. Annabeth, in gray suit and gray shoes, sat next to Silena, close enough that their thighs touched, and put her feet in too, hissing through her teeth, ponytail falling forward. Percy, in navy trunks, bare feet, took the end beside Annabeth, and slipped his feet in. Cold closed over his ankles like a handshake.
+"Cold means alive," Thalia said. "Breathe with me. In—" She breathed, audible. Clarisse tried to match. Percy's chest ached watching. Silena, in her teal top and navy shorts and cover-up tied at her waist, sat on Clarisse's other side without a word and took her other hand, lacing fingers. Her water shoes — she'd swapped sandals for them — dangled too, toes just kissing. Her coconut smell wrapped around them. Annabeth, in gray suit and gray shoes, sat next to Silena, close enough that their thighs touched, and put her feet in too, hissing through her teeth, ponytail falling forward. Percy, in navy trunks and water shoes, took the end beside Annabeth and slipped his feet in. Cold closed over his ankles like a handshake.
 
-They sat in a row, five pairs of feet in black water, five different swim clothes dampening with spray, five towels warm behind them, and the stars burned and doubled.
+They sat in a row, five pairs of feet in black water, five different swim clothes dampening with spray, five buckled PFDs ready for the deeper entry, five towels warm behind them, and the stars burned and doubled.
 
 "Okay," Clarisse said after a minute, voice smaller. "Okay, that's... not soup. That's... feet."
 
@@ -278,7 +280,7 @@ Annabeth was already sliding in, careful on the ladder in her gray suit and gray
 
 "It's dinoflagellates!" she called, treading, her voice bright with scientist joy. Her gray suit was black now with wet, her shoulders beaded, her ponytail swinging with each turn. Water shoes made her kicks heavy and slow. "They flash when disturbed! Mechanical stimulus! It's — it's like —" She swept both arms wide, and light bloomed around her like wings. "Percy! Feel that? Warm on top!"
 
-Percy slid in next, barely using the ladder — Poseidon showoff — in his navy trunks, bare feet finding mud then pushing. Cold hit his groin and stole his breath, then eased. The lake held him, green and soft, weeds brushing his calves like fingers. He ducked his head, came up sputtering, tasting mud and green and summer, water streaming from his hair into his eyes, salt gone, lake in its place. His necklace dripped. His trunks bellied then clung. Around his waist, light pulsed with each movement, turquoise and gold, clinging to his skin. He laughed, loud, and slapped the surface — a galaxy exploded.
+Percy slid in next, barely using the ladder — Poseidon showoff — in his navy trunks and water shoes, soles finding mud then pushing. Cold hit his groin and stole his breath, then eased. The lake held him, green and soft, weeds brushing his calves like fingers. He ducked his head, came up sputtering, tasting mud and green and summer, water streaming from his hair into his eyes, salt gone, lake in its place. His necklace dripped. His PFD kept his shoulders buoyant; his trunks bellied then clung. Around his waist, light pulsed with each movement, turquoise and gold, clinging to his skin. He laughed, loud, and slapped the surface — a galaxy exploded.
 
 "Soup's haunted!" he shouted. "Haunted soup!"
 
@@ -362,11 +364,11 @@ She lay on her back in the black water, arms spread, legs straight, steel-gray o
 
 Thalia floated beside her, shoulder to shoulder, in black racerback and black shorts, ponytail spread, bracelet glinting under water with glow. At eighteen she was longer, stronger, scarred, but floating she looked young, her face unguarded. Her water shoes bumped Annabeth's with a soft thunk. Her hand found Annabeth's under water and held, fingers linked, palm to palm. Static snapped faintly where they touched, then eased into warmth. The glow swirled around their joined hands like a nebula.
 
-Percy watched from a few strokes away, treading slow in his navy trunks, bare chest shining, hair dripping, and felt like an intruder on something holy until Thalia waved him closer with her free hand — *come, be family, but quiet* — and Annabeth turned her head, water rippling around her ears, and smiled at him, soft and bright.
+Percy watched from a few strokes away, treading slow in his navy trunks and buckled PFD, hair dripping, and felt like an intruder on something holy until Thalia waved him closer with her free hand — *come, be family, but quiet* — and Annabeth turned her head, water rippling around her ears, and smiled at him, soft and bright.
 
 "Hey, Seaweed Brain," she murmured. Her voice was lake-quiet. Her breath fogged faintly. Droplets sat on her eyelashes. Her gray suit pulled at her shoulders as she floated. "Come float with us? Water's holding."
 
-He swam over with slow breaststrokes — each pull blooming light, each kick trailing fire — and settled on Annabeth's other side, floating too, his navy trunks buoyant, his camp necklace floating up around his chin, his bare feet bumping hers. The three of them lay in a line, Thalia-Annabeth-Percy, shoulder to shoulder, staring up. The sky was so thick with stars Percy felt he could fall up. The Milky Way ran from horizon to horizon. A meteor streaked, brief and gold, and Silena gasped from the dock, and Clarisse whispered, "Make a wish, idiots," and Annabeth whispered, "I did."
+He swam over with slow breaststrokes — each pull blooming light, each kick trailing fire — and settled on Annabeth's other side, floating too, his PFD holding him level, his camp necklace floating up around his chin, his water shoes bumping hers. The three of them lay in a line, Thalia-Annabeth-Percy, shoulder to shoulder, staring up. The sky was so thick with stars Percy felt he could fall up. The Milky Way ran from horizon to horizon. A meteor streaked, brief and gold, and Silena gasped from the dock, and Clarisse whispered, "Make a wish, idiots," and Annabeth whispered, "I did."
 
 The water held them. Warm top, cool fingers underneath. Weeds swaying far below, harmless. Lily pads ticking against the dock. Bullfrogs calling in rounds. The dock wood cooling with soft ticks. Towels waiting, soft and dry. The air tasted of pine and cold and green. Percy's ears filled, his heartbeat slowed to lake time. Thalia's hand still held Annabeth's; Annabeth's other hand found Percy's under water and held, fingers slippery and sure. Light pulsed around their linked hands, turquoise and gentle.
 
@@ -390,7 +392,7 @@ Percy felt his eyes sting with lake water and something else. He stared at the s
 
 Percy choked. Annabeth covered her face with her free hand, water dripping from her fingers. Her gray suit slipped at the strap; she fixed it. Her laugh bubbled, embarrassed and delighted. The lake rocked them gently. The stars burned. Silena's humming wrapped around the dock where Clarisse sat chest-deep holding the ladder, teasing Thalia about her towel-cape.
 
-"Sorry," Percy muttered, treading upright now, facing Annabeth, their joined hands keeping them close. His navy trunks were heavy. His chest rose and fell. Water lapped at his chin. Light swirled around their legs where water shoes and bare feet kicked. "She's..."
+"Sorry," Percy muttered, treading upright now, facing Annabeth, their joined hands keeping them close. His navy trunks were heavy. His chest rose and fell. Water lapped at his chin. Light swirled around their legs as their water shoes kicked. "She's..."
 
 "She's right," Annabeth said quietly. She rolled upright too, treading, gray suit clinging, ponytail high, whistle bobbing. Her eyes met his, gray and steady and shy. Droplets on her nose. Her breath visible in the cool air, mingling with his. The lake held them up, warm and green. Frogs called far. The dock creaked. "Hi."
 
@@ -410,7 +412,7 @@ Annabeth stared, then smiled, slow and bright, her gray eyes crinkling. Water la
 
 "Yes," she whispered. "Chaste. Under stars. Yes."
 
-He leaned in, treading clumsily, their kicks tangling — his bare feet, her water shoes — and their foreheads bumped first, softly, making them both laugh, breath mingling, tasting of lake and gummy sharks from earlier and cold air. Then their lips met, brief and cool and warm at once, chaste and careful, salt gone, lake and lemon and starlight. Light pulsed softly around their shoulders where water moved. His hand in hers tightened. Her fingers on his shoulder pressed. The lake held them. The sky held them.
+He leaned in, treading clumsily, their water-shod kicks tangling, and their foreheads bumped first, softly, making them both laugh, breath mingling, tasting of lake and gummy sharks from earlier and cold air. Then their lips met, brief and cool and warm at once, chaste and careful, salt gone, lake and lemon and starlight. Light pulsed softly around their shoulders where water moved. His hand in hers tightened. Her fingers on his shoulder pressed. The lake held them. The sky held them.
 
 They parted, breathing fast, foreheads still touching. Her eyes were wide and shining. His heart hammered against his ribs. Water lapped at their chins. A meteor streaked overhead, unnoticed. Thalia coughed loudly from the dock — "Stars! Counting stars! Very bright stars!" — and Silena shushed her, laughing, and Clarisse said, "About time, barnacles," gruff and fond, and Percy laughed, breathless, and Annabeth laughed, hiding her face in his shoulder for a second — wet cheek on wet chest, her ponytail tickling, her whistle pressing — then lifting it, pink and proud.
 
@@ -426,7 +428,7 @@ They parted, breathing fast, foreheads still touching. Her eyes were wide and sh
 
 Getting out was cold and comedy and warm sibling elbows.
 
-The air hit like ice after warm lake. Percy climbed first, bare feet on aluminum gone cold, navy trunks streaming, chest goosebumped, teeth chattering, and took the striped towel Thalia threw — soft, smelling of sun, rough and wonderful — wrapping it around his shoulders. Water ran from his hair into his eyes, tasting of green. His necklace dripped. His trunks clung heavy. He stood in his navy trunks and towel, bare feet on wood gone cold, and held the towel curtain while Annabeth climbed — gray suit streaming, ponytail dripping, water shoes clunking, whistle bouncing — and wrapped her in the second towel, their hands brushing, both shivering and grinning. Her gray suit was black with wet, her legs goosebumped, her shoulders shaking. She pulled the towel tight, smelling of dryer sheets, and bumped his hip with hers. "T-teeth chattering. N-noble."
+The air hit like ice after warm lake. Percy climbed first, water shoes on aluminum gone cold, navy trunks streaming, chest goosebumped, teeth chattering, and took the striped towel Thalia threw — soft, smelling of sun, rough and wonderful — wrapping it around his shoulders. Water ran from his hair into his eyes, tasting of green. His necklace dripped. His trunks clung heavy. He stood in his navy trunks and towel, water shoes on wood gone cold, and held the towel curtain while Annabeth climbed — gray suit streaming, ponytail dripping, water shoes clunking, whistle bouncing — and wrapped her in the second towel, their hands brushing, both shivering and grinning. Her gray suit was black with wet, her legs goosebumped, her shoulders shaking. She pulled the towel tight, smelling of dryer sheets, and bumped his hip with hers. "T-teeth chattering. N-noble."
 
 "N-noble and h-hot," he chattered back, and she laughed, breath fogging.
 
@@ -434,7 +436,7 @@ Silena climbed next, helped by Thalia's hand — teal top dark with water, navy 
 
 Clarisse climbed last, slow, holding ladder with both hands in her black-and-red suit and blue shoes, bandana plastered, legs shaking — not just cold, Percy knew, but aftermath — and stepped onto the dock into Silena's towel and Thalia's steady hand on her back. Her suit streamed. Her shoes squelched. Her skin was white with cold and goosebumps. She stood in her wet black-and-red suit with a striped towel around her shoulders, bare legs shaking, bandana dripping, and breathed the cold pine air in big gulps. The stars burned. The lake lapped, glowing faintly where they had disturbed it, settling to black mirror again. Frogs resumed, loud in the quiet.
 
-"You did it," Percy said quietly, in his navy trunks and towel, bare feet cold, hair dripping. His voice shook with cold and pride. "Ladder-side and everything. And you kicked. I saw constellations."
+"You did it," Percy said quietly, in his navy trunks, buckled PFD and towel, water shoes cold, hair dripping. His voice shook with cold and pride. "Ladder-side and everything. And you kicked. I saw constellations."
 
 Clarisse pulled the towel tight, her suit peeking, her shoes puddling. Her eyes were bright and wet — lake, not tears, mostly. Her scar stood out. She looked at the black water where stars sat, then at her siblings in wet swim clothes and towels, shivering together. "It was... okay. Don't tell Ares cabin I said blind."
 
@@ -446,7 +448,7 @@ Clarisse pulled the towel tight, her suit peeking, her shoes puddling. Her eyes 
 
 Silena, in her wet teal top and navy shorts and towel, her sarong dripping, her braid over shoulder, pulled her camera from the dry sack — Annabeth had kept it dry — and held it up. Her hands shook with cold. Her teeth chattered. The camera smelled of plastic and rubber. "G-group photo? Before we freeze? Long exposure, no flash, stars and lake and us? P-please?"
 
-They huddled on the dock, five towels, five swim suits dripping, five pairs of feet cold on wood — Percy in navy trunks and striped towel, bare feet, hair wild, necklace glinting; Annabeth in steel-gray suit and towel, gray shoes, ponytail damp, whistle bright, cheek against Percy's shoulder; Thalia in black suit and shorts and towel, black shoes, ponytail with blue streak, spear held up like a flag; Clarisse in black-red suit and towel, blue shoes, bandana damp, arm around Silena; Silena in teal top and navy shorts and towel, black shoes, braid loose, holding camera out at arm's length with timer. The shutter clicked. The flash stayed off. The stars burned. The lake held their reflections, five blurs with glow still faint around their feet where water dripped.
+They huddled on the dock, five towels, five swim suits dripping, five pairs of feet cold on wood — Percy in navy trunks, buckled PFD and striped towel, water shoes, hair wild, necklace glinting; Annabeth in steel-gray suit and towel, gray shoes, ponytail damp, whistle bright, cheek against Percy's shoulder; Thalia in black suit and shorts and towel, black shoes, ponytail with blue streak, spear held up like a flag; Clarisse in black-red suit and towel, blue shoes, bandana damp, arm around Silena; Silena in teal top and navy shorts and towel, black shoes, braid loose, holding camera out at arm's length with timer. The shutter clicked. The flash stayed off. The stars burned. The lake held their reflections, five blurs with glow still faint around their feet where water dripped.
 
 "Got it," Silena breathed, checking the screen — five smiles, stars, black water with green sparks. Her teal sleeve dripped onto the camera; she wiped it. Her nose was red with cold. "Blurry and perfect. Like us."
 
@@ -523,6 +525,8 @@ Percy was relieved. He'd been worrying about whether he should tell Chiron she g
 Annabeth nodded. "I'll come. If there was something we missed, I want to know what it was."
 
 Thalia sat beside Clarisse for a moment, close enough to offer warmth without grabbing her. Then she stood and held out her hand, waiting. Clarisse took it and got up.
+
+Before the cabins, Clarisse kept her word and reported the whole account to Chiron, with Percy and Silena beside her. Annabeth brought the camera and repeated that the markers might not show enough; they left the crossing point for the morning check.
 
 They were cold and tired, the five of them, and Percy was beginning to realize how easily a good night could become a story with only the pleasant bits left in it. The truth wasn't ruined by admitting the parts that needed attention.
 

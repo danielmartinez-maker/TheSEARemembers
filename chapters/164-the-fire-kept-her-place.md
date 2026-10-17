@@ -378,8 +378,6 @@ The circle went quiet. The 40th-tally possibility sat in the middle like a stone
 
 "Good," Thalia said quietly. "Leave it open. Some things you don't survey till they're ready."
 
-"Good," Thalia said quietly. "Leave it open. Some things you don't survey till they're ready."
-
 The fire popped. The stars burned. The lake flashed dark-silver through the trees, freshwater and moonlit, and far down in the willow cove the heron shifted on the bow of the sunken skiff and settled, witness to the whole warm thing.
 
 ---
