@@ -6,7 +6,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 - At least 10,000 body words: 193 chapters
 - Below minimum: 0 chapters
 - Total body-word shortfall: 0
-- Exact 300-word windows checked: 1,941,434
+- Exact 300-word windows checked: 1,941,441
 - Cross-chapter matching windows: 0
 - Structural errors: 0
 
@@ -89,7 +89,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 075 | 10,087 | 0 |
 | 076 | 10,350 | 0 |
 | 077 | 10,236 | 0 |
-| 078 | 10,471 | 0 |
+| 078 | 10,580 | 0 |
 | 079 | 10,116 | 0 |
 | 080 | 10,440 | 0 |
 | 081 | 10,041 | 0 |
@@ -99,7 +99,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 085 | 10,012 | 0 |
 | 086 | 10,033 | 0 |
 | 087 | 10,007 | 0 |
-| 088 | 10,029 | 0 |
+| 088 | 10,069 | 0 |
 | 089 | 10,008 | 0 |
 | 090 | 10,346 | 0 |
 | 091 | 10,050 | 0 |
@@ -142,7 +142,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 128 | 10,028 | 0 |
 | 129 | 10,014 | 0 |
 | 130 | 10,018 | 0 |
-| 131 | 10,119 | 0 |
+| 131 | 10,003 | 0 |
 | 132 | 10,243 | 0 |
 | 133 | 10,656 | 0 |
 | 134 | 10,011 | 0 |
@@ -173,27 +173,27 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 159 | 10,096 | 0 |
 | 160 | 10,741 | 0 |
 | 161 | 12,017 | 0 |
-| 162 | 10,650 | 0 |
+| 162 | 10,638 | 0 |
 | 163 | 10,908 | 0 |
-| 164 | 10,559 | 0 |
-| 165 | 10,864 | 0 |
-| 166 | 10,222 | 0 |
+| 164 | 10,544 | 0 |
+| 165 | 10,751 | 0 |
+| 166 | 10,264 | 0 |
 | 167 | 11,198 | 0 |
 | 168 | 10,988 | 0 |
 | 169 | 11,707 | 0 |
 | 170 | 10,300 | 0 |
-| 171 | 12,626 | 0 |
-| 172 | 10,575 | 0 |
+| 171 | 12,623 | 0 |
+| 172 | 10,656 | 0 |
 | 173 | 10,440 | 0 |
 | 174 | 10,212 | 0 |
-| 175 | 10,182 | 0 |
+| 175 | 10,189 | 0 |
 | 176 | 10,195 | 0 |
 | 177 | 10,227 | 0 |
 | 178 | 10,232 | 0 |
 | 179 | 10,716 | 0 |
 | 180 | 12,466 | 0 |
-| 181 | 10,509 | 0 |
-| 182 | 10,771 | 0 |
+| 181 | 10,482 | 0 |
+| 182 | 10,769 | 0 |
 | 183 | 10,431 | 0 |
 | 184 | 10,701 | 0 |
 | 185 | 11,079 | 0 |
@@ -201,10 +201,10 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 187 | 10,757 | 0 |
 | 188 | 10,800 | 0 |
 | 189 | 10,423 | 0 |
-| 190 | 11,489 | 0 |
-| 191 | 10,629 | 0 |
-| 192 | 13,082 | 0 |
-| 193 | 11,607 | 0 |
+| 190 | 11,467 | 0 |
+| 191 | 10,633 | 0 |
+| 192 | 13,101 | 0 |
+| 193 | 11,622 | 0 |
 
 ## Limits
 

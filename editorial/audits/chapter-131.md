@@ -1,6 +1,10 @@
 # Chapter 131 editorial screening: Cabin Three at Night
 
-**Historical source:** [Chapter 131](../../chapters/131-cabin-three-at-night.md), pre-expansion git blob `699a2bc00bae08a74f00530a67f56c28c6471fb8` at 4,464 body words. **Current body words:** 10,119 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
+**Historical source:** [Chapter 131](../../chapters/131-cabin-three-at-night.md), pre-expansion git blob `699a2bc00bae08a74f00530a67f56c28c6471fb8` at 4,464 body words. **Current body words:** 10,003 by the strict repository counter. The screen below predates the expansion; the full scene review and cross-chapter repair are recorded in the [131–139 continuity ledger](../../continuity/chapter-ledgers/131-139.md). Broader literary signoff remains open.
+
+## October 17 cross-chapter correction
+
+The full-scene review found that Chapter 131's original dialogue told Clarisse and Silena about Percy's Manhattan memories, while Chapter 136 explicitly says neither sister knows he remembers another life. Percy now speaks only about missing Sally and the pressure to make grief legible. His Manhattan hallway/lamp memory remains private in his narration; the sisters do not acquire his prior-life memories. Amphitrite's present-life comfort during palace visits remains a separate current memory and does not disclose Percy's predicament. This repair aligns Chapter 131 with Chapter 136 and the locked memory rules; it is not whole-novel semantic signoff.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

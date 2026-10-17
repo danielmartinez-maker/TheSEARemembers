@@ -388,7 +388,7 @@ She took the second sheet of the heavy paper, the good one out of the loft with 
 
 It took eleven minutes. She drew it with the fan-pen and the jar ink in one corner of an otherwise empty page, and no lettering, because lettering would have made it a diagram: six stones stacked, a plate of grey under them going out of the frame at an angle, and the rag. The rag was the whole point, so she spent eight of the eleven minutes on it, and it came out in three strokes and a shadow, blue, going northeast, standing out of the top stone at the angle a thing stands at when a southwest wind has been holding it for four days.
 
-She looked at it for a while. Then she wrote under it, small, in her own hand: *The north ridge, two miles up. I found the man who drew this and I'll find out what the water is for. A. — Sunday.*
+She looked at it for a while. Then she wrote under it, small, in her own hand: *The north ridge, two miles up. Thalia found the water here and marked the place. I'll find out what it's for. A. — Sunday.*
 
 "That's the rag," Thalia said, over her shoulder, quietly-ish. "That's my rag. You drew my rag."
 
@@ -428,7 +428,7 @@ Percy Jackson found the Grace sisters at the lake at half past four, and knew be
 
 Thalia was standing in the shallows up to her knees with her arms crossed like a woman at a bus stop, and Annabeth was sitting on the dock with her feet in and her field book closed on her knees, which was the tell, because Annabeth with a closed book in front of her was a person who had stopped working on purpose, and Percy had learned in five months that a girl who stopped working on purpose had something she was keeping.
 
-He had two things with him and he had brought both of them without being asked: half a loaf of Silena's bread in a cloth, and news.
+He had two things with him and he had brought both of them without being asked: half a loaf of Silena's bread in a cloth, and news. The Tyson letter had gone out that morning, just as planned. Percy had met Chiron at the cove dock at nine; Brine took the sealed envelope toward the forges, and Percy had watched the wake flatten before he turned back up the hill.
 
 "You're both in the lake," he said, from the sand.
 

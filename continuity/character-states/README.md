@@ -6,35 +6,37 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Coverage status (PR #103 worktree, October 17):** The chapter-ledger set explicitly marks **96/193 chapters full-scene reviewed** (001–024, 027–048, 061–076, 111–113, 121–130, 140–160). Chapters 025–026 have section-level passes; 049–060 have partial/selective reading; 077–089 and 134–139 have bounded source-anchored records without full-scene certification. Chapters 152–160 were read end-to-end with Chapter 151's close and Chapter 161's opening checked; selected later Chapter 161 phrases were searched and repaired, not full-scene reviewed. Existing chapter YAMLs and handoffs are scoped records, not proof of continuous coverage. The per-character files contain selected source-linked cumulative milestones, not a chapter-by-chapter state matrix for every person. The generated evidence index locates all 193 chapter files, but marks witnesses, reported knowledge, secrets, chronology, relationships and handoffs **UNVERIFIED** until a scene-level review is recorded. Coverage remains incomplete and does not certify full-novel memory continuity or literary quality.
+**Coverage status (PR #103 continuation, October 17):** The chapter-ledger set now records full-scene review for **193/193 chapters**, with bounded adjacent-chapter boundary checks at the stated range edges. This coverage is recorded in ledgers 001–024, 025–026, 027–036, 037–040, 041–048, 049–054, 055–060, 061–068, 069–072, 073–076, 077–083, 084–089, 090–100, 101–110, 111–113, 114–120, 121–125, 126–130, 131–139, 140–144, 145–148, 149–151, 152–160, 161–166, 167–171, 172–176, 177–182, 183–188, and 189–193. Existing YAMLs and handoffs remain supporting records, not substitutes for these scene ledgers. The per-character files still contain selected source-linked cumulative milestones, not a chapter-by-chapter state matrix for every person. The generated evidence index locates all 193 chapter files, but its automated witness, report, secret, chronology, relationship, and handoff cues are not themselves human-verified. Full-scene chapter coverage does not certify every character's cumulative memory or prove that the manuscript is free of semantic continuity errors or literary-quality issues.
 
 ### Chapter-level coverage map
 
 | Chapters | Current source record | Review boundary |
 |---|---|---|
 | 001–024 | Chapter ledger | Full-scene review |
-| 025–026 | Chapter ledger | Reviewed sections/transitions only |
+| 025–026 | [Chapter ledger](../chapter-ledgers/025-026.md) | Full-scene review; 024 close and 027 opening checked |
 | 027–048 | Chapter ledger; detailed ledgers for 027–036 and 041–048 | Full-scene review |
-| 049–060 | Chapter ledger | Partial/selective scene reading; unresolved scenes remain marked |
+| 049–054 | [Chapter ledger](../chapter-ledgers/049-054.md) | Full-scene review; 048 close and 055 opening checked |
+| 055–060 | [Chapter ledger](../chapter-ledgers/055-060.md) | Full-scene review; 054 close and 061 opening checked |
 | 061–076 | Chapter ledger (061–068 and 069–076) | Full-scene review |
-| 077–089 | Chapter ledger | Bounded source-anchored notes; not full-scene review |
-| 090–110 | Chapter YAMLs 091–110 and selected handoffs/state notes | Scoped records; no continuous full-scene ledger |
+| 077–083 | [Chapter ledger](../chapter-ledgers/077-083.md) | Full-scene review; 076 close and 084 opening checked |
+| 084–089 | [Chapter ledger](../chapter-ledgers/084-089.md) | Full-scene review; 083 close and 090 opening checked |
+| 090–100 | [Chapter ledger](../chapter-ledgers/090-100.md) | Full-scene review; Ch089 close and Ch101 opening checked |
+| 101–110 | [Chapter ledger](../chapter-ledgers/101-110.md) | Full-scene review; Ch100 close and Ch111 opening checked |
 | 111–113 | [Chapter ledger](../chapter-ledgers/111-113.md) | Full-scene review; 110 close and 114 opening checked |
-| 114–120 | Chapter YAMLs and handoffs | Scoped records; no continuous full-scene ledger |
+| 114–120 | [Chapter ledger](../chapter-ledgers/114-120.md) | Full-scene review; 113 close and 121 opening checked |
 | 121–125 | [Chapter ledger](../chapter-ledgers/121-125.md) | Full-scene review; 120 close and 126 opening checked |
 | 126–130 | Chapter ledger (126–127 and 128–130) | Full-scene review |
-| 131–133 | Chapter YAMLs | Chapter-specific handoffs; no full-scene ledger |
-| 134–139 | [Bounded chapter ledger](../chapter-ledgers/134-139.md) | Selected/targeted source review; not full-scene signoff |
+| 131–139 | [Chapter ledger](../chapter-ledgers/131-139.md) | Full-scene review; Ch130 close and Ch140 opening checked |
 | 140–144 | [Chapter ledger](../chapter-ledgers/140-144.md) | Full-scene review; Ch. 139 close and Ch. 145/146 dock handoff checked |
 | 145–148 | Chapter ledger | Full-scene review |
 | 149–151 | [Chapter ledger](../chapter-ledgers/149-151.md) | Full-scene review; 148 and 152 context checked |
 | 152–160 | [Chapter ledger](../chapter-ledgers/152-160.md) | Full-scene review; 151 closing and 161 opening checked |
-| 161–176 | — | No chapter ledger or YAML |
-| 177 | Selected cumulative event | Milestone only |
-| 178–185 | — | No chapter ledger or YAML |
-| 186 | Selected cumulative event | Milestone only |
-| 187–192 | — | No chapter ledger or YAML |
-| 193 | Selected cumulative event | Milestone only |
+| 161–166 | [Chapter ledger](../chapter-ledgers/161-166.md) | Full-scene review; 160 close and 167 opening checked |
+| 167–171 | [Chapter ledger](../chapter-ledgers/167-171.md) | Full-scene review; 166 close and 172 opening checked |
+| 172–176 | [Chapter ledger](../chapter-ledgers/172-176.md) | Full-scene review; 171 close and 177 opening checked |
+| 177–182 | [Chapter ledger](../chapter-ledgers/177-182.md) | Full-scene review; 176 close and 183 opening checked |
+| 183–188 | [Chapter ledger](../chapter-ledgers/183-188.md) | Full-scene review; 182 close and 189 opening checked |
+| 189–193 | [Chapter ledger](../chapter-ledgers/189-193.md) | Full-scene review; 188 close checked; no Ch. 194 source available |
 
 These entries are not a chapter-by-chapter state matrix for every character. The full-scene total describes chapters with a ledger claim; it does not mean every character has an event entry in each of those chapters.
 

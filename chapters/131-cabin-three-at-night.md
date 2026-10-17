@@ -340,33 +340,29 @@ Percy nodded. He knew how easily an old feeling posed as a decision. He wanted t
 
 Enough, apparently. Clarisse turned the mug in her hands and let quiet return without defending it.
 
-Percy set his cup down, ceramic clinking. "Want to tell you something about Sally."
+Percy set his cup down, ceramic clinking. "Can I say something about Sally without telling a story?"
 
 Silena turned toward him. Clarisse's fingers stayed beneath hers.
 
-"I've told funny stories. Since coming here, I keep learning that people can say she loved me and still not bring her back." He traced a loose thread on the quilt. "Everyone remembers me losing her at two. I don't. I remember her raising me. Sometimes I still expect her in the hall. As if listening hard would tell me when she's close."
+"People tell me she loved me. They say she died when I was two. I believe them, and I still miss her. Sometimes I feel like I'm supposed to offer a story of my own before the sadness makes sense to anybody." He traced a loose thread on the quilt. "I don't know what to say except that I wish she were here."
 
-"There was a lamp in our Manhattan hall," he said. "Stayed on so I could see the door from bed, its amber glow pooling on the floorboards. Sally would come home from work under it. Now I catch myself looking for that light, a kind of open path. On my visits to the palace, Amphitrite sits with me when I wake, her robe cool against my arm, the coral night-light humming faintly. She doesn't say the light means Sally will return. She adjusts it so it doesn't glare in my eyes."
+"On my palace visits, Amphitrite sometimes sits with me when I wake. She doesn't try to fix the feeling or tell me what I ought to feel. She adjusts the coral night-light so it doesn't glare and waits until I'm ready to get up."
 
-The remembered Manhattan hall met newer nights of sea-salt sheets and a patient hand on the blanket when he reached for someone absent.
+The remembered Manhattan hall stayed behind his teeth, amber light pooling on the floorboards. The sea-salt sheets and a patient hand on the blanket belonged to the nights he could share. He kept the older memory to himself.
 
-He had once tried to explain the lamp to Clarisse and Silena and stopped halfway through, embarrassed by how small it sounded. A hallway light. A woman coming home. A particular floorboard that complained under her heel. Nothing grand enough to carry the whole weight of missing her. That was the mistake: expecting a memory to be important enough to justify keeping it. The detail mattered because it was his, and because he wanted to give it to them without having to prove it was important.
+He had almost explained the lamp to Clarisse and Silena once, then stopped before giving the memory shape in their hands. It mattered because it was his, not because they needed to carry it for him.
 
-"She used to hum when she got home," Percy said. "Not a song all the way through. A few notes while she put her keys down. I never knew if she was humming something she'd heard or making it up."
+"Sometimes I think I should be able to tell you something about her," Percy said. "Then I worry I'm trying to make you understand before you can believe I miss her."
 
-"Do you remember what it sounded like?" Silena asked.
+"You don't need to prove it," Silena said.
 
-"I think so." He tried to hum it, but the tune fell away after three notes. His voice snagged on the last one. "It might've been different every time."
+"I know."
 
-Clarisse looked at her mug. "Did you tell Amphitrite that?"
+Clarisse looked down at her mug. "You don't have to make her vivid for us."
 
-"Once. She asked if I wanted her to hum it back. I said no because I didn't know whether I'd recognize it. She said she'd wait until I did."
+Percy nodded. "I wanted you to know that I miss her."
 
-"Did you?" Silena asked.
-
-"Not yet."
-
-The answer didn't feel like failure. The memory could stay incomplete. Amphitrite hadn't tried to imitate Sally's humming or turn the sound into something Percy could take as a replacement. She had let it remain his even when he couldn't reproduce it.
+The missing details did not have to be filled in for his grief to count. Amphitrite had never asked him to make the feeling smaller; she let him be quiet beside her until he was ready to get up.
 
 "Sometimes I think I should tell you more about her," Percy said. "Then I can't tell if I'm doing it because I want to or because I think it would make you understand why I'm sad."
 
@@ -376,15 +372,15 @@ The answer didn't feel like failure. The memory could stay incomplete. Amphitrit
 
 "You don't have to decide tonight whether you want to tell more stories," Clarisse said. "You can tell one when it comes up. Or not."
 
-He nodded. There was no task hiding in the conversation, no assignment to make Sally vivid enough for her absence to count. "I wanted to tell that one."
+He nodded. There was no task hiding in the conversation, no assignment to make Sally vivid enough for her absence to count. "I wanted to say that much."
 
 "Then I'm glad you did," Silena said.
 
-"I feared her voice would fade first. I tried repeating things she used to say exactly the same, as if unchanged words could hold her close. Amphitrite never corrected my attempts or said memory was enough. She listened while I got a phrase wrong, then listened again when I tried another way."
+"Sometimes I feel as if I should know exactly what to say about her. At the palace, Amphitrite doesn't ask me to explain the sadness or make it tidy. She listens when I can't find a sentence, then lets the quiet stay quiet."
 
-"Still learning I can tell a story differently without losing her," Percy said. "Sometimes changed details feel like losing more."
+"Still learning I can miss her without turning the feeling into a story," Percy said. "Sometimes I worry the sadness is too small to count unless I can explain it."
 
-"When I lost her, the world didn't empty of people who loved me. It held a place belonging to her. Sometimes I feared if I let myself miss her, people around me would think they weren't enough."
+"What happened to Sally didn't empty the world of people who loved me. It left a place for her. Sometimes I worry if I miss her out loud, the people who are here will think they aren't enough."
 
 "They weren't supposed to replace her," Clarisse said, voice low.
 
@@ -1067,7 +1063,7 @@ She went to the small kettle without explaining the decision again. Percy liked 
 
 Windows turned gray, then pearl, light seeping like water. Percy watched light find the cabin piece by piece: Silena's mug lip glinting, worn quilt stitching casting tiny shadows, coral token at Clarisse's wrist warming to rose, and last the photograph above his bed, faces emerging from silver dark.
 
-He thought of the beach Clarisse described, Sally's hallway lamp, Tyson's bell too loud for ordinary mornings, Silena waiting to see if room existed without asking. None fixed by telling. Still true, and now shared.
+He thought of the beach Clarisse described, the hallway lamp he had chosen not to describe, Tyson's bell too loud for ordinary mornings, Silena waiting to see if room existed without asking. The night had not made their memories interchangeable. It had made room for each story to stay with the person who lived it.
 
 Annabeth leaned against his shoulder, warm beneath the blanket, breathing slow. Thalia sat within reach of her sister. Silena had curled against Clarisse, one hand on her sleeve. Tyson had gone to the Big House guest room after the conversation about a proper visitor bunk. Silena's sketch remained on the worktable, waiting for Chiron and the builders to review it.
 

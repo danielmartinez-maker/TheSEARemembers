@@ -116,7 +116,7 @@ Percy took the heel in both hands. It was warm. It was warm in the specific way 
 
 "I'm not saying you don't know where it is. I'm saying the frost went and came back in two days, and you've written the bank on a list for eleven days, and the bank can't read."
 
-Clarisse put her pencil down. "The bank can't read," she repeated, in the tone of a woman confirming a finding. "Correct. The bank has never been able to read. The bank is a pile of glass and bad screws and it has been a pile of glass and bad screws since August, and when I take it down I would like to take it down once, with a bar, into hard ground, and not twice into a thaw."
+Clarisse put her pencil down. "The bank can't read," she repeated, in the tone of a woman confirming a finding. "Correct. The bank has never been able to read. It has a runoff scar and wet soil; when I shore it up, I want to do it once on firm ground, not twice in a thaw."
 
 "So you're letting it wait."
 

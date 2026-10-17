@@ -1032,7 +1032,7 @@
     {
       "chapter": 78,
       "path": "chapters\\078-nico-s-birthday.md",
-      "body_words": 10471,
+      "body_words": 10580,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1174,12 +1174,12 @@
     {
       "chapter": 88,
       "path": "chapters\\088-spear-song-sea.md",
-      "body_words": 10029,
+      "body_words": 10069,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.222,
+      "dialogue_line_ratio": 0.221,
       "median_paragraph_words": 15
     },
     {
@@ -1652,12 +1652,12 @@
     {
       "chapter": 131,
       "path": "chapters\\131-cabin-three-at-night.md",
-      "body_words": 10119,
+      "body_words": 10003,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.324,
+      "dialogue_line_ratio": 0.323,
       "median_paragraph_words": 11
     },
     {
@@ -2030,7 +2030,7 @@
     {
       "chapter": 162,
       "path": "chapters\\162-the-day-with-nowhere-to-be.md",
-      "body_words": 10650,
+      "body_words": 10638,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -2065,18 +2065,18 @@
     {
       "chapter": 164,
       "path": "chapters\\164-the-fire-kept-her-place.md",
-      "body_words": 10559,
+      "body_words": 10544,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.252,
+      "dialogue_line_ratio": 0.251,
       "median_paragraph_words": 39
     },
     {
       "chapter": 165,
       "path": "chapters\\165-the-morning-after.md",
-      "body_words": 10864,
+      "body_words": 10751,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -2086,13 +2086,13 @@
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.329,
+      "dialogue_line_ratio": 0.332,
       "median_paragraph_words": 19
     },
     {
       "chapter": 166,
       "path": "chapters\\166-the-braid-and-the-blue-rag.md",
-      "body_words": 10222,
+      "body_words": 10264,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2147,7 +2147,7 @@
     {
       "chapter": 171,
       "path": "chapters\\171-loud-off-key-and-ours.md",
-      "body_words": 12626,
+      "body_words": 12623,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -2175,12 +2175,12 @@
     {
       "chapter": 172,
       "path": "chapters\\172-the-last-warm-night.md",
-      "body_words": 10575,
+      "body_words": 10656,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.276,
+      "dialogue_line_ratio": 0.275,
       "median_paragraph_words": 23
     },
     {
@@ -2208,7 +2208,7 @@
     {
       "chapter": 175,
       "path": "chapters\\175-salt-and-steam.md",
-      "body_words": 10182,
+      "body_words": 10189,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2284,7 +2284,7 @@
     {
       "chapter": 181,
       "path": "chapters\\181-whoever-wants-to-come.md",
-      "body_words": 10509,
+      "body_words": 10482,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2295,7 +2295,7 @@
     {
       "chapter": 182,
       "path": "chapters\\182-the-first-hot-bread.md",
-      "body_words": 10771,
+      "body_words": 10769,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2388,7 +2388,7 @@
     {
       "chapter": 190,
       "path": "chapters\\190-thursday-twice.md",
-      "body_words": 11489,
+      "body_words": 11467,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2399,7 +2399,7 @@
     {
       "chapter": 191,
       "path": "chapters\\191-two-hands-of-work.md",
-      "body_words": 10629,
+      "body_words": 10633,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2410,7 +2410,7 @@
     {
       "chapter": 192,
       "path": "chapters\\192-against-the-windows.md",
-      "body_words": 13082,
+      "body_words": 13101,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2421,7 +2421,7 @@
     {
       "chapter": 193,
       "path": "chapters\\193-the-heel.md",
-      "body_words": 11607,
+      "body_words": 11622,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941434,
+  "window_comparisons": 1941441,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

@@ -114,9 +114,9 @@ Silena, at the stove, with her sleeves pushed up and her hair tied back with twi
 
 Percy pushed his bowl away. "How many were on the slate Thursday?"
 
-"Sixteen," Silena said. "Two of them in the shallows with their boots on, which is a rule-five thing and a Chloe thing, and Chloe's mother says thank you, and I told her it wasn't us, it was a Tuesday and a Thursday."
+"Seventeen," Silena said. "Two of them in the shallows with their boots on, which is a rule-five thing and a Chloe thing, and Chloe's mother says thank you, and I told her it wasn't us, it was a Tuesday and a Thursday."
 
-"Sixteen. That's a hall."
+"Seventeen. That's a hall."
 
 "That's a hall." Silena picked up his bowl and put it in the pan without being asked, and in the same movement put a second spoonful of honey on the bread in front of him, which was her answer to a thing he had not said. "Thursday's sack went at six. I heard the truck from the top field."
 
@@ -194,7 +194,7 @@ They worked the rest of the morning at the lean-to with the door of it open to t
 
 Clarisse came past at eleven with the list under her arm and a face like a woman on her way to a meeting she had already decided the outcome of. She stood in the doorway of the lean-to and looked at the plank top and the row of hooks and the two halves of the stone step sitting side by side like a book that had been broken in half to make it easier to read.
 
-"Greenhouse bank," she said. "There's a shelf of broken pots behind the greenhouse. We need them for drainage in the raised beds before the ground goes. I want them carried down and stacked."
+"The north runoff bank," she said. "There's a shelf of broken pots behind the greenhouse. We need them for drainage in the raised beds before the ground goes. I want them carried down and stacked."
 
 "How many is a shelf," Percy said.
 
@@ -326,7 +326,7 @@ They walked back up the hill from the north path in the cold with their hands di
 
 "I don't want to do another one. I want to do this one again." She turned to him and there was something in her face that was not quite a smile and not quite anything else, and she said, "Come here."
 
-He went to her. She put her hands flat on his chest and stood there for a moment with her forehead against his collar and her breath going up and her hands warm through his shirt, and he put his arms around her and held her, and the field was quiet and the frost was silver and the lake was grey at the edges, and they stood in the cold with their arms around each other and the week done and the work done and the wall on the wall and the step in the path and the door flat and the greenhouse bank done and the list down to two things and one of them the awning and the awning wanting a dry afternoon it was not going to get.
+He went to her. She put her hands flat on his chest and stood there for a moment with her forehead against his collar and her breath going up and her hands warm through his shirt, and he put his arms around her and held her, and the field was quiet and the frost was silver and the lake was grey at the edges, and they stood in the cold with their arms around each other and the week done and the work done and the wall on the wall and the step in the path and the door flat and the north runoff bank repaired, while the greenhouse banking and the awning waited for drier weather and the pine waited for Saturday.
 
 "I love you," she said, into his collar.
 
@@ -348,7 +348,7 @@ He went to her. She put her hands flat on his chest and stood there for a moment
 
 ---
 
-Clarisse was at the greenhouse when they found her, standing at the end of the raised beds with a list under one arm and mud dried to her boots. The repaired bank looked more substantial from below than it had while they were moving stone into place. Rain had been running through the same narrow channel since September. Now the water could pass without carrying the soil down the path.
+Clarisse was at the greenhouse when they found her, standing at the end of the raised beds with a list under one arm and mud dried to her boots. The repaired north runoff bank looked more substantial from below than it had while they were moving stone into place. Rain had been running through the same narrow channel since September. Now the water could pass without carrying the soil down the path.
 
 She checked the bottom joint with the toe of her boot. It held.
 
@@ -356,7 +356,7 @@ She checked the bottom joint with the toe of her boot. It held.
 
 "I was admiring the masonry."
 
-"You can admire it from the safe side." She made a line through GREENHOUSE BANK. "The pots are sorted, drainage is clear, and nobody needs to come back unless the next storm proves me wrong."
+"You can admire it from the safe side." She made a line through NORTH RUNOFF BANK. "The pots are sorted, drainage is clear, and nobody needs to come back unless the next storm proves me wrong."
 
 Annabeth leaned over to inspect the packed stone. "The bottom needs a check after the first proper thaw. If the fill settles, it'll leave a channel behind it."
 
@@ -616,7 +616,7 @@ They stopped at the cabin on the way, because the cabin was on the way and becau
 
 The cabin door was open when they came out from the washbasin. Clarisse had left her work gloves drying beside the stove. She was not there, but the list was: a sheet of brown paper held down with a cup, each finished job struck through in the same thick line of pencil.
 
-Percy stopped to read it. Greenhouse bank, toolshed door, north step. Three marks made that afternoon, one beneath another. Below them were the torn awning and the fallen pine.
+Percy stopped to read it. North runoff bank, toolshed door, north step. Three marks made that afternoon, one beneath another. The greenhouse banking remained open; below it were the torn awning and the fallen pine.
 
 Annabeth leaned over his shoulder. "You can admire it after we eat."
 
@@ -662,7 +662,7 @@ After the soup there was the bread and the honey butter and the piece of the hon
 
 Clarisse stood up at the end of the meal with the list under her arm and her boots back on and her face like a woman who had won a war and was now going to talk about the peace.
 
-"Two things," she said. "The greenhouse bank's done. The door's flat. The step's in. The list is down to two things and one of them's the awning and the other one's the pine and the pine wants a saw and a Saturday and a boy who knows how to use a saw, and we've got the saw and we've got the Saturday and we've got the boy, so the pine is next."
+"Three things," she said. "The north runoff bank's done. The door's flat. The step's in. The older list is down to the greenhouse banking, the awning, and the pine. The first two need drier weather; the pine wants a saw and a Saturday and a boy who knows how to use a saw, and we've got the saw and we've got the Saturday and we've got the boy, so the pine is next."
 
 "It's not a boy," Percy said, from between his sisters. "It's a man."
 

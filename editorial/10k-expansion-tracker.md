@@ -4,21 +4,22 @@
 **Current working source:** PR #103 head branch `audit/four-phase-continuity-2026-10-13`, updated from local continuation branch `audit/pr103-live-continuation`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest local continuation: all 193 chapters meet the length gate (2026-10-17)
+## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** PR #103 source-change commit `2ddb77f` from continuation branch `audit/pr103-live-continuation`. Local QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. Both manuscript-audit runs and the character-memory workflow passed on this content; these are mechanical word counts, not editorial approval.
+**Source:** local branch `audit/pr103-live-continuation`, based on open PR #103 head `2a30175d1d8e1ea35a7436175713e3b81e0a4cc2`. This candidate includes further scene and continuity repairs not yet pushed; hosted validation on the candidate is pending. Local QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-token windows | **1,941,434; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,150,291 body words / 2,091,986 windows; 0 exact matches** |
+| Chapter-only every-offset 300-token windows | **1,941,441; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,150,298 body words / 2,091,993 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **36 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
+| Full-scene chapter-ledger coverage | **193/193; per-character cumulative matrix remains partial** |
 
-The single lexical introduction cue in Chapter 014 was reviewed in context and is a valid first in-person meeting after prior Iris contact. Full semantic continuity and style/developmental review remain open. The hosted runs are [manuscript audit 39056631498](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39056631498), [manuscript audit 39056627110](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39056627110), and [character memory 39056631708](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39056631708). Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Full semantic continuity and style/developmental review remain open. Refreshed local reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`. Hosted runs on the prior PR head do not validate this local candidate.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 

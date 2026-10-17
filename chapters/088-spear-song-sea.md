@@ -2,6 +2,8 @@
 
 The following week in June, after Chiron closed the storm-response review for the day, Percy Jackson woke to someone hammering on the Poseidon cabin door with the butt of a spear.
 
+By the time the training block began, Will had cleared him for ordinary, supervised practice. Sea work stayed inside the marked saltwater area, and Percy was to stop if the dizziness returned; clearance did not include holding back another storm.
+
 He knew, without opening his eyes, exactly who it was.
 
 "Up," Clarisse La Rue barked through the wood. "You drool in your sleep, little brother. It's embarrassing for the bloodline."

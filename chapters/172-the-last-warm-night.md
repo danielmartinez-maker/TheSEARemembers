@@ -1,10 +1,10 @@
 ## Chapter 172: The Last Warm Night
 
-Percy Jackson had been given permission to sleep outside exactly once in his life, and the first time it had taken a sea goddess.
+The first story Percy knew about sleeping outside began with a sea goddess giving her nine-year-old son permission.
 
-He had been nine years old. Amphitrite had signed the permission herself, in a hand that looked like tide charts, and Triton had kept watch over him with a bronze lantern hung from a pole and a spear across his knees, performing vigilance the way other people performed music. Percy had lain on a reef flat in sand that hissed when the tide moved across it, under a sky with more stars in it than he had names for, and listened to the ocean breathe for eleven straight hours. At dawn he had come up the beach with salt in his eyebrows and concluded, with the certainty of nine, that sleeping outside was the best thing a person could do standing up, and that everybody who didn't was simply misinformed.
+Amphitrite had told it to him: she had signed the permission herself, in a hand that looked like tide charts, and Triton had kept watch with a bronze lantern hung from a pole and a spear across his knees, performing vigilance the way other people performed music. In the story, Percy lay on a reef flat in sand that hissed when the tide moved across it, under a sky with more stars than he had names for, and listened to the ocean breathe for eleven straight hours. At dawn, Amphitrite said, he came up the beach with salt in his eyebrows and concluded, with the certainty of nine, that sleeping outside was the best thing a person could do standing up, and that everybody who didn't was simply misinformed.
 
-He had not done it since. Atlantis had rules about tides. Camp had rules about everything else, and most of the rules had Clarisse's fingerprints on them.
+Amphitrite said he had not done it again. Atlantis had rules about tides. Camp had rules about everything else, and most of the rules had Clarisse's fingerprints on them.
 
 So when Chiron wheeled down the switchback to the north beach on Saturday morning with a clipboard under his arm and the expression of a man signing a minor treaty, Percy was the first one on his feet.
 
@@ -18,11 +18,13 @@ The fire ring at the north beach, and nowhere else. The fire laid before dusk an
 
 The check-in slate leaned against the ring's stones, and it was initialed at the top of every hour in five different hands, and it came up the hill at breakfast so that Chiron could count them twice.
 
-No swimming past the boundary rock. Nobody in the water alone. Nobody in the water at all after midnight, because the lake held its warmth deep down and surrendered it slowly, but this was late September, and the surface had opinions.
+No swimming past the boundary rock. Nobody went beyond the shallows without a shore-held safety line and two designated watchers. Nobody in the water at all after midnight, because the lake held its warmth deep down and surrendered it slowly, but this was late September, and the surface had opinions.
 
 The harpy would pass at midnight and count them, and Chiron said the word *harpy* in a tone that suggested Ms. O'Fee was not personally liable for what happened next.
 
 And if the frost fell — Chiron looked at the sky the way he looked at bad news — if the frost fell tonight, the water was closed, the fire was doubled, and anyone who was cold went up the hill to a real bed with no shame attached and no discussion permitted.
+
+Friday's plan had been to sleep up on the ridge above the spring; Chiron's Saturday approval moved the overnight to the North Beach ring, under his conditions.
 
 "Questions," Chiron said.
 
@@ -174,7 +176,7 @@ Then Percy said, "I dare somebody to swim out to the boundary rock," and Clariss
 
 Silena invented the rules in eleven seconds, the way she invented all the rules that mattered: one dare each, no repeats, nothing requiring stitches, nothing about the water after dark unless the darer went first.
 
-Thalia went first, because Thalia always went first. Her dare was the boundary rock, and she swam out past the sandbar with the star-glitter breaking around her shoulders and the cold taking her mid-chest, and they watched her head cut the line of the sky until it reached the rock, and she touched it, and she came back, and when she waded out she was grinning and blue-lipped and absolutely furious about it.
+Thalia went first, because Thalia always went first. Her dare was the boundary rock. Clarisse fitted a loose line around her waist, checked the knot, and put the coil into Annabeth and Silena's hands. Thalia rolled her eyes, then stepped in; the two watchers paid out the line as she swam past the sandbar, star-glitter breaking around her shoulders and the cold taking her mid-chest. They watched her head cut the line of the sky until it reached the rock, and she touched it, and she came back. When she waded out, Clarisse took the line from her and Thalia was grinning and blue-lipped and absolutely furious about it.
 
 "Ten minutes," she said, through chattering teeth. "Per occurrence. Retroactive. Somebody hit me with a towel before I die and you all have to explain it to Chiron."
 
@@ -400,7 +402,7 @@ He stood with his hand in hers in the cold, with frost on the reeds and two skie
 
 He felt her hand tighten.
 
-"I've never told anybody that. At Atlantis I counted the days between ships. I was nine, and I thought everybody did that. And when I got here, in the summer, I counted everything. Minutes, occurrences. I counted how long it took people to stop looking at me like a rumor. I counted how many mornings I woke up in the cabin before it started feeling like mine." His voice was steady, which surprised him, and he let it stay steady. "But this week I stopped. Silena says I stopped the day we floated, and she's right, and I haven't counted once since. Until tonight. Tonight I counted. And the difference is — Annabeth, the difference is I counted up. Not down. I counted up, like a person storing something. Like: this is a good minute, put it in the pile, this one too, keep it, don't lose it." He stopped. "That's the toe. The king's toe. Nobody looks at the king's toe."
+"I've never told anybody this part. Atlantis feels like waiting between ships. I can't tell you a room or a face or even whether anyone actually counted; it's just the shape that idea takes in me. And since I got here, in the summer, I counted everything. Minutes, occurrences. I counted how long it took people to stop looking at me like a rumor. I counted how many mornings I woke up in the cabin before it started feeling like mine." His voice was steady, which surprised him, and he let it stay steady. "But this week I stopped. Silena says I stopped the day we floated, and she's right, and I haven't counted once since. Until tonight. Tonight I counted. And the difference is — Annabeth, the difference is I counted up. Not down. I counted up, like a person storing something. Like: this is a good minute, put it in the pile, this one too, keep it, don't lose it." He stopped. "That's the toe. The king's toe. Nobody looks at the king's toe."
 
 Annabeth made a small sound, not a word, and turned to face him fully, both hands on his now, and her forehead came down against his collarbone for a second, and he felt her breathe.
 

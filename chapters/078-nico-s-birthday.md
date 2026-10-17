@@ -602,13 +602,15 @@ His head snapped up. "Clarisse? Really?"
 
 He ran. Bianca exhaled. Phase one complete.
 
-On the way to the arena she stopped by the Big House. Chiron had inspected the fort at dawn with Annabeth and Beckendorf, tested the repaired railing under load, checked the exit path and signed its opening certificate. The loft had a two-person limit and the counselor nearest Cabin Thirteen would be responsible for closing it after dark. Bianca checked the certificate herself before passing the word to the decorators.
+On the way to the arena she stopped by the Big House. Chiron had inspected the fort at dawn with Annabeth and Beckendorf, tested the repaired railing under load, checked the exit path and signed its opening certificate. The loft had a two-person limit and the counselor nearest Cabin Thirteen would be responsible for closing it after dark. Bianca checked the certificate herself.
 
-At ten o'clock sharp, half the camp found excuses to be near the training arena.
+Then she gathered the people Nico had named and repeated his rules: no lake, no loud noise, no made-up birthday song. She showed them the quiet finger-wiggle cheer. Percy copied it once; Clarisse managed a one-handed version that looked more like a salute. Chiron stayed by the path so no extra crowd would drift into the clearing. If Nico wanted to invite anyone else, that choice would be his.
+
+At ten o'clock, the people Nico had asked to see were waiting near the training arena.
 
 Clarisse was waiting, arms crossed, with two wooden swords and two helmets that looked comically large and small next to each other. Nico skidded to a stop in front of her, helmet already half on backwards, eyes huge.
 
-"You wanted to learn to fight?" Clarisse barked.
+"You wanted to learn to fight?" Clarisse asked.
 
 "Yes, ma'am!" Nico squeaked.
 
@@ -618,7 +620,7 @@ Percy, lurking behind a dummy with Annabeth, whispered, "Hey!"
 
 "Rule four," Clarisse continued, ignoring him, "is the La Rue Special. Watch."
 
-What followed was fifteen minutes of pure joy. Clarisse taught the way she fought — direct, no nonsense, patient in spite of herself. She showed Nico how to hold the sword without strangling it, how to fake high with the shield and sweep low, how to roll without landing on his head. Nico, who was small and quick and utterly fearless when he was not thinking about being scared, picked it up fast. He stuck his tongue out when he concentrated. He shouted "HA!" every time he scored a touch, which Clarisse allowed exactly three times before she swept his legs and put him gently in the dirt.
+What followed was fifteen minutes of pure joy. Clarisse taught the way she fought — direct, no nonsense, patient in spite of herself. She showed Nico how to hold the sword without strangling it, how to fake high with the shield and sweep low, how to roll without landing on his head. Nico, who was small and quick and utterly fearless when he was not thinking about being scared, picked it up fast. He stuck his tongue out when he concentrated. Each time he scored a touch, his grin flashed before he remembered to look serious again; Clarisse let him have three before she swept his legs and put him gently in the dirt.
 
 "Again," she ordered.
 
@@ -626,9 +628,9 @@ He got up, grinning with a mouth full of dust. "Again!"
 
 On the fourth try, he faked her — a tiny, perfect shield lift — and tapped her knee. The arena went silent. Clarisse looked down at the wooden blade against her greave, then at him.
 
-Then she threw back her head and laughed, loud and startled, because he'd earned the touch in a controlled drill rather than been handed a fake victory.
+Then she laughed, startled and delighted, and lowered her voice before she answered. He'd earned the touch in a controlled drill rather than been handed a fake victory.
 
-"Good!" she barked, hauling him to his feet and ruffling his hair so hard his helmet spun. "Good! You got me! Remember that when you're telling stories — you beat Clarisse La Rue fair and square on your birthday!"
+"Good," she said, hauling him to his feet and ruffling his hair so hard his helmet spun. "You got me. Remember that when you're telling stories — you beat Clarisse La Rue fair and square on your birthday."
 
 Nico froze. "My — you knew?"
 
@@ -640,7 +642,7 @@ She shoved a package into his hands — clumsily wrapped in red cloth. Inside wa
 
 Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wear it always. Even sleeping. Even bathing."
 
-"Don't wear it bathing, it'll stink," Clarisse said, but her voice was thick. She cleared her throat, turned away, and shouted at the trainees to get back to drills before they all turned to stone. As Nico ran off to show Bianca, she watched him go with an expression Percy caught and would tease her about for months.
+"Don't wear it bathing, it'll stink," Clarisse said, but her voice was thick. She cleared her throat, turned away, and called the trainees back to drills before they all turned to stone. As Nico ran off to show Bianca, she watched him go with an expression Percy caught and would tease her about for months.
 
 "You're soft," Percy mouthed.
 
@@ -660,11 +662,9 @@ Nico held it to his chest like it was gold. "Thank you," he whispered. "I'll wea
 
 "Shh. Walk."
 
-She stopped him at the edge of the clearing. Behind her, she could hear the held breath of thirty campers crammed behind trees and the fort walls. She could hear Percy whispering, "Everybody ready? On three—" and Annabeth hissing, "Percy, that's the surprise ruined—" and Thalia crackling faintly like a bug zapper.
+She stopped him at the edge of the clearing. Behind her, she could hear the held breath of the people Nico had chosen, tucked behind trees and the fort walls. She could hear Percy whispering, "Everybody ready? On three—" and Annabeth hissing, "Percy, that's the surprise ruined—" and Thalia shifting her boots in the leaves.
 
-Bianca stepped aside so he could see the clearing. "Surprise!"
-
-"HAPPY BIRTHDAY, NICO!"
+Bianca stepped aside so he could see the clearing. "Surprise," she said softly. The group lifted their hands and wiggled their fingers in the quiet cheer they'd practiced. The signs by the entrance read HAPPY BIRTHDAY, NICO; nobody shouted.
 
 Nico stumbled back a step, hands flying to his face. His eyes were huge and dark and shining.
 
@@ -676,7 +676,7 @@ And the water — Nico gasped at the water.
 
 Percy stood by a shallow basin he had filled that morning, hands raised, grinning like an idiot. As Nico watched, six tiny ghost ships rose from the surface, sails glowing blue, and sailed in a circle in the air before settling to float just above the grass. Jellyfish lanterns pulsed softly around the fort's posts. Starfish glowed on the rails.
 
-"Ghost pirates!" Percy shouted. "With hats! With skulls! As requested!"
+"Ghost pirates," Percy said, keeping his voice low. "With hats. With skulls. As requested."
 
 Nico ran to him and stopped short, staring up. "You did this? For me?"
 
@@ -696,11 +696,17 @@ Nico threw his arms around her neck, sudden and fierce. Annabeth, who was not a 
 
 "You're welcome, kiddo," she said softly, meeting Bianca's eyes over his head. Sisters, both of them, understanding each other perfectly.
 
-Then Silena arrived with the cake, carried high like a torch, her siblings trailing with sparklers, and everyone sang — off-key, too loud, wonderful. The cake was midnight chocolate with blue frosting and candy stars and four little meringue ghosts with candy eyeballs that Nico immediately declared his favorites and refused to eat because they were too cool, then ate because they were too delicious.
+Then Silena arrived with the cake, carried high like a torch, Clarisse and Thalia walking beside her. The guests raised their hands once more in the quiet cheer: fingers waving, no shout, no song. Nico looked from the signs to Bianca.
 
-He wore the dark silver crown and the leather bracer and the bronze ring, and he sat in the middle of the fort with crumbs on his face while campers he barely knew gave him presents: a new pack of Mythomagic cards from Cecil, a carved bone whistle from Grover, a sketch of Mrs. O'Leary wearing a party hat from Piper, a tiny shield from the Ares cabin with NICO'S BIRTHDAY MASSACRE — JUST KIDDING scratched on the back.
+"You remembered," he whispered.
 
-He opened each one like it was treasure. He thanked each person by name, even when he had to ask Bianca to whisper it first. He kept looking around like he was afraid it would vanish if he blinked.
+"I asked what you wanted," she said.
+
+Silena set down the midnight chocolate cake with blue frosting, candy stars, and four little meringue ghosts with candy eyeballs that Nico immediately declared his favorites and refused to eat because they were too cool, then ate because they were too delicious.
+
+He wore the dark silver crown and the leather bracer and the bronze ring, and sat in the fort with crumbs on his face among the people he had chosen. Cecil gave him a new pack of Mythomagic cards; Clarisse had already given him the bracer, and Bianca the ring. The fort was Annabeth's gift, and the ghost ships and jellyfish lanterns were Percy's. Silena's cake had the four ghosts he had declared too cool to eat.
+
+He thanked each of them by name and kept looking around like he was afraid the afternoon would vanish if he blinked.
 
 Bianca watched from the fort doorway with her hands pressed to her mouth, crying and laughing at the same time. Percy appeared beside her and handed her a handkerchief that was soaking wet.
 
@@ -722,7 +728,7 @@ Percy looked at Nico, who was currently trying to teach Clarisse how to play Myt
 
 "It built character!"
 
-Bianca laughed through tears. This bickering, this warmth, was what she had wanted for Nico. Not just a party. A family so big and loud that he could be certain he had a place in it even on days when it wasn't celebrating him.
+Bianca laughed through tears. This bickering, this warmth, was what she had wanted for Nico. Not just a party. A family so big and welcoming that he could be certain he had a place in it even on days when it wasn't celebrating him.
 
 Nico was sitting on the loft with Cecil when Bianca finally made it over to the fort. They had spread out two teams of Mythomagic figures. Cecil had a notebook with scores, while Nico was arranging three skeleton warriors in a line across the table.
 
