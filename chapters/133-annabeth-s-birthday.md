@@ -705,7 +705,7 @@ That got Silena's attention.
 
 "Fourteen," she repeated. "I could do that."
 
-"Ella made thirty," Ella said. "Two extra in case mistakes. Ella plans ahead."
+"Ella made thirty," Ella said. "Twenty-eight for the pavilion, two spares. Ella plans ahead."
 
 "I know you do," Nico told her. "Could the other ones go on the tables?"
 

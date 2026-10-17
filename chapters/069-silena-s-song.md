@@ -338,7 +338,7 @@ Silena studied her face for a sign that she was disappointed. Kayla only looked 
 
 “It’s our program. We can change it.”
 
-Silena let the thought settle. One song. No borrowed instrument. No obligation to fill the space afterward. It was still frightening, but it was something she could picture doing. She had not said yes. She had found the edge of a yes and stopped there.
+Silena let the thought settle. One song. No borrowed instrument. No obligation to fill the space afterward. It was still frightening, but it was something she could picture doing. She had not said yes.
 
 “All right,” she said. “Leave the space open.”
 

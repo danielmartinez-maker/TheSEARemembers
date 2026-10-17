@@ -444,7 +444,7 @@ Thalia snorted. "Annabeth's his big sister too. Apparently he already knows whic
 
 Thalia looked at him, really looked, her electric-blue eyes bright and wet and fierce. "You'd do the same."
 
-"Yeah," Percy said. "I learned from the best. You and Annabeth. You're both—" He fumbled, suddenly shy under Annabeth's gaze. "You're both good at that. Looking out. Being family."
+"Yeah," Percy said. "I learned from the best."
 
 Annabeth's cheeks went pink. She ducked her head, but Percy caught her hand, lacing their fingers in the grass where Thalia could see and Clarisse pretended not to see and Silena smiled into her grass crown.
 

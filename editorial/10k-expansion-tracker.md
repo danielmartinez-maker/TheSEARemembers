@@ -6,15 +6,15 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Follow-on candidate based on PR #103 head `6b68e2b`. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 now contain **10,049** and **10,376** body words. These are mechanical counts, not editorial approval. Hosted [full-manuscript QA, run 516](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39072155966) and [character-memory run 254](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39072155940) passed on parent PR head `6b68e2b`; they predate this follow-on, so current-head status must be read from PR #103 after it is pushed.
+**Source:** Current local continuation is based on the PR #103 source branch, whose prior validated head was `acaa583`; this candidate adds focused Chapter 066–069/118 editorial trims and Chapter 132–133 handoff/profile clarifications. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 now contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. Hosted [full-manuscript QA, run 532](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39077686508) and [character-memory run 262](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39077686449) passed on prior PR head `acaa583`; they predate this local continuation. Exact current-head hosted status is tracked on PR #103.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-word windows | **1,942,581; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,151,438 body words / 2,093,133 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,942,560; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,151,417 body words / 2,093,112 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **45 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; 50 selected character timelines with exact-name candidate maps; exhaustive per-character matrix remains incomplete** |
@@ -211,9 +211,9 @@ Chapter 090, *Storm and Sea*, was committed at `4c592e0fdd04e66a13485e44f60b4e46
 - [078, Nico's Birthday](../chapters/078-nico-s-birthday.md): **5,987 → 10,471** body words; [memory handoff](handoffs/ch078-nicos-birthday.md).
 - [079, Elena's Tale](../chapters/079-elena-s-tale.md): **5,336 → 10,116** body words; [memory handoff](handoffs/ch079-elenas-tale.md).
 - [080, The Second Dance](../chapters/080-the-second-dance.md): **5,702 → 10,440** body words; [memory handoff](handoffs/ch080-the-second-dance.md).
-- [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **10,320 current body words** by the strict repository counter (an earlier tracker recorded 10,464); [memory handoff](../continuity/ch118.yaml).
+- [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **10,323 current body words** by the strict repository counter (an earlier tracker recorded 10,464); [memory handoff](../continuity/ch118.yaml).
 - [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
-- [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,656** words; [memory handoff](../continuity/ch133.yaml).
+- [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,660** words; [memory handoff](../continuity/ch133.yaml).
 
 The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the previously CI-verified 40-chapter/208,815-word remainder. Chapters 078–079 then removed **8,677 additional required words**, giving the **previously verified 38 chapters / 200,138 words** outstanding. Chapter 080 then removed **4,298 mandatory shortfall words**, giving the **37 chapters / 195,840 words** remaining at that checkpoint. Length overages are not counted toward another short chapter's deficit. At this historical checkpoint, the [expansion queue](handoffs/55-short-chapters-execution-queue.md) started at **081** and also included **131**; the current queue is updated above. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
 

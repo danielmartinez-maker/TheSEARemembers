@@ -1210,7 +1210,7 @@ Surveying the circle, Percy catalogued them fondly: Annabeth close at his side, 
 
 Exhaling through her nose, misting faintly in the cooling air, Clarisse said, “Want to see it, curious despite myself. Also want rules before walking blind into them, no surprises sprung mid-hall.”
 
-“Want to accompany you,” Annabeth said softly, fingers tightening around his, eyes steady and bright in torchlight. “As your chosen person. Not plus-one. Yours.”
+“I want to see Atlantis with you,” Annabeth said softly, fingers tightening around his.
 
 “And want to ensure royalty doesn't swallow my sister whole,” Thalia added dryly, jerking a thumb at Annabeth. “Come if camp spares me. Someone's got to guard the architecture and the girl.”
 

@@ -1047,7 +1047,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/066-jason-s-letter.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 143, Percy 106, Annabeth 95, Clarisse 65, Silena 56, Jason 48, Chiron 21, Zeus 7, Triton 4, Beryl 2
+- Name appearances (not proof of presence): Thalia 143, Percy 106, Annabeth 93, Clarisse 65, Silena 56, Jason 48, Chiron 21, Zeus 7, Triton 4, Beryl 2
 - Event/action candidates to inspect in context:
   - Line 19: They ran up the hill together, Annabeth's hand tight in his, her notebook abandoned on the dock. By the time they reached the Big House porch, a small crowd had gathered. Chiron stood there in his wheelchair form, trotting out in his human
   - Line 25: "Whoa," Clarisse said, pushing forward with Silena right behind her. Silena had a face mask on and cucumber slices in a baggie, clearly interrupted mid-morning routine. "Pinecone Face has a Roman pen pal?"

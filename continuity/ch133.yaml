@@ -85,9 +85,9 @@ qa:
   following_chapter_opening_checked: true
   prior_gifts_and_sibling_relationships_checked: true
   third_person_limited_new_scene_checked: true
-  body_words: 10659
+  body_words: 10660
   body_word_floor: "pass; all 193 chapters at or above 10000, zero shortfall"
-  global_exact_300_word_repeat: "pass; chapter-only 1941320 windows and bonus-inclusive 2091872 windows, zero exact matches"
+  global_exact_300_word_repeat: "pass; chapter-only 1942560 windows and bonus-inclusive 2093112 windows, zero exact matches"
   chapter_structure: "pass; 193 indexed and numbered files, ordered"
-  source_anchored_memory_groups: "42 passed"
+  source_anchored_memory_groups: "45 passed"
   full_semantic_edit: "not certified"

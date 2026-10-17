@@ -1,6 +1,6 @@
 # Expansion handoff queue: 193 chapters meet the length gate; editorial review remains open
 
-**Latest PR #103 follow-on QA (October 17):** The current local candidate is based on PR head `6b68e2b`. Strict local QA reports **193/193** chapters at or above the 10,001-token floor, with **2,000,288** chapter body words and zero shortfall. The chapter-only scan checked **1,942,581** every-offset 300-token windows with zero exact matches. The bonus-inclusive scan checked **196 Markdown files**, **2,151,438 body words** and **2,093,133 windows**, also with zero exact matches. All **45** source-anchored memory checks pass; the structure audit finds 193/193 chapters ordered. Full-scene chapter ledgers cover **193/193** chapters; all 50 profiles have selected timelines, while the exhaustive person-by-chapter matrix, whole-novel semantic reconciliation and independent literary signoff remain incomplete. A repository-wide local-link check covered 5,076 relative Markdown links with zero missing targets. The preceding pushed head `6b68e2b` passed both hosted workflows; this follow-on's hosted status is tracked on PR #103.
+**Latest local PR #103 continuation QA (October 17):** The candidate is based on previously validated PR head `acaa583` and adds focused developmental edits in Chapters 066–069 and 118 plus source-grounded Chapter 132–133 continuity updates. Strict local QA reports **193/193** chapters at or above the 10,001-token floor, with **2,000,267** chapter body words and zero shortfall. The chapter-only scan checked **1,942,560** every-offset 300-token windows with zero exact matches. The bonus-inclusive scan checked **196 Markdown files**, **2,151,417 body words** and **2,093,112 windows**, also with zero exact matches. All **45** source-anchored memory checks pass; the structure audit finds 193/193 chapters ordered. Full-scene chapter ledgers cover **193/193** chapters; all 50 profiles have selected timelines, while the exhaustive person-by-chapter matrix, whole-novel semantic reconciliation and independent literary signoff remain incomplete. Relative links and line anchors in touched Markdown files are checked locally. Hosted runs 532/262 passed on the prior `acaa583` head; the current continuation's hosted status is tracked on PR #103.
 
 **Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. The current mechanical shortfall is zero. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled; individual wave tables are historical checkpoints, not current shortfall queues.
 
@@ -16,19 +16,19 @@
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
-| [066](../../chapters/066-jason-s-letter.md) | Jason's Letter | 10,572 | 0 | **LENGTH PASS; editorial review open** |
+| [066](../../chapters/066-jason-s-letter.md) | Jason's Letter | 10,551 | 0 | **LENGTH PASS; editorial review open** |
 | [067](../../chapters/067-fishing.md) | Fishing | 10,292 | 0 | **LENGTH PASS; editorial review open** |
-| [068](../../chapters/068-the-storm-small.md) | The Storm (Small) | 10,328 | 0 | **LENGTH PASS; editorial review open** |
-| [069](../../chapters/069-silena-s-song.md) | Silena's Song | 10,376 | 0 | **LENGTH PASS; editorial review open** |
-| [070](../../chapters/070-clarisse-s-poems.md) | Clarisse's Poems | 10,543 | 0 | **LENGTH PASS; editorial review open** |
-| [071](../../chapters/071-anniversary.md) | Anniversary | 10,145 | 0 | **LENGTH PASS; editorial review open** |
-| [072](../../chapters/072-new-kids.md) | New Kids | 10,093 | 0 | **LENGTH PASS; editorial review open** |
+| [068](../../chapters/068-the-storm-small.md) | The Storm (Small) | 10,326 | 0 | **LENGTH PASS; editorial review open** |
+| [069](../../chapters/069-silena-s-song.md) | Silena's Song | 10,365 | 0 | **LENGTH PASS; editorial review open** |
+| [070](../../chapters/070-clarisse-s-poems.md) | Clarisse's Poems | 10,569 | 0 | **LENGTH PASS; editorial review open** |
+| [071](../../chapters/071-anniversary.md) | Anniversary | 10,153 | 0 | **LENGTH PASS; editorial review open** |
+| [072](../../chapters/072-new-kids.md) | New Kids | 10,666 | 0 | **LENGTH PASS; editorial review open** |
 | [073](../../chapters/073-the-play.md) | The Play | 10,245 | 0 | **LENGTH PASS; editorial review open** |
 | [074](../../chapters/074-tyson-s-visit.md) | Tyson's Visit | 10,179 | 0 | **LENGTH PASS; editorial review open** |
 | [075](../../chapters/075-zoe-s-story.md) | Zoe's Story | 10,087 | 0 | **LENGTH PASS; editorial review open** |
 | [076](../../chapters/076-the-promise-ii.md) | The Promise (II) | 10,350 | 0 | **LENGTH PASS; editorial review open** |
 | [077](../../chapters/077-beach-day-atlantis-style.md) | Beach Day (Atlantis Style) | 10,236 | 0 | **LENGTH PASS; editorial review open** |
-| [078](../../chapters/078-nico-s-birthday.md) | Nico's Birthday | 10,471 | 0 | **LENGTH PASS; editorial review open** |
+| [078](../../chapters/078-nico-s-birthday.md) | Nico's Birthday | 10,580 | 0 | **LENGTH PASS; editorial review open** |
 | [079](../../chapters/079-elena-s-tale.md) | Elena's Tale | 10,116 | 0 | **LENGTH PASS; editorial review open** |
 | [080](../../chapters/080-the-second-dance.md) | The Second Dance | 10,440 | 0 | **LENGTH PASS; editorial review open** |
 | [081](../../chapters/081-home.md) | Home | 10,041 | 0 | **LENGTH PASS; editorial review open** |
@@ -38,7 +38,7 @@
 | [085](../../chapters/085-spring.md) | Spring | 10,012 | 0 | **LENGTH PASS; editorial review open** |
 | [086](../../chapters/086-the-summons-to-atlantis.md) | The Summons to Atlantis | 10,033 | 0 | **LENGTH PASS; editorial review open** |
 | [087](../../chapters/087-a-kiss-we-choose.md) | A Kiss We Choose | 10,007 | 0 | **LENGTH PASS; editorial review open** |
-| [088](../../chapters/088-spear-song-sea.md) | Spear, Song, Sea | 10,029 | 0 | **LENGTH PASS; editorial review open** |
+| [088](../../chapters/088-spear-song-sea.md) | Spear, Song, Sea | 10,166 | 0 | **LENGTH PASS; editorial review open** |
 | [089](../../chapters/089-belated-valentines-camp-style.md) | Belated Valentines (Camp-Style) | 10,008 | 0 | **LENGTH PASS; editorial review open** |
 | [090](../../chapters/090-storm-and-sea.md) | Storm and Sea | 10,346 | 0 | **LENGTH PASS; continuity review open** |
 
@@ -59,7 +59,7 @@ All 20 chapters in this range now pass the length gate. Chapters 102–110 were 
 | [099](../../chapters/099-mothers.md) | Mothers | 10,166 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
 | [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 10,190 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
 | [101](../../chapters/101-a-name-for-it.md) | A Name for It | 10,321 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
-| [102](../../chapters/102-not-a-competition.md) | Not a Competition | 10,016 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [102](../../chapters/102-not-a-competition.md) | Not a Competition | 10,020 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [103](../../chapters/103-the-things-we-remember.md) | The Things We Remember | 10,218 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [104](../../chapters/104-a-day-that-was-theirs.md) | A Day That Was Theirs | 10,117 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [105](../../chapters/105-the-place-at-the-table.md) | The Place at the Table | 10,033 | 0 | **LENGTH PASS; expanded; literary review open** |
@@ -79,7 +79,7 @@ All 7 chapters in this range now pass the length gate. The shortfall figures in 
 | [115](../../chapters/115-the-old-photograph.md) | The Old Photograph | 10,062 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [116](../../chapters/116-cabin-three-rules.md) | Cabin Three Rules | 10,088 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [117](../../chapters/117-a-day-apart.md) | A Day Apart | 10,163 | 0 | **LENGTH PASS; expanded; literary review open** |
-| [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 10,320 | 0 | **LENGTH PASS; editorial review open** |
+| [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 10,323 | 0 | **LENGTH PASS; editorial review open** |
 | [119](../../chapters/119-sisters-errand.md) | Sisters' Errand | 10,179 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [120](../../chapters/120-a-letter-from-the-sea.md) | A Letter from the Sea | 10,003 | 0 | **LENGTH PASS; expanded; literary review open** |
 
@@ -89,16 +89,16 @@ All 3 chapters in this range now pass the length gate. Chapter 131 has been expa
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
-| [131](../../chapters/131-cabin-three-at-night.md) | Cabin Three at Night | 10,119 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [131](../../chapters/131-cabin-three-at-night.md) | Cabin Three at Night | 10,003 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [132](../../chapters/132-a-month-beneath-the-sea.md) | A Month Beneath the Sea | 10,243 | 0 | **LENGTH PASS; editorial review open** |
-| [133](../../chapters/133-annabeth-s-birthday.md) | Annabeth's Birthday | 10,656 | 0 | **LENGTH PASS; editorial review open** |
+| [133](../../chapters/133-annabeth-s-birthday.md) | Annabeth's Birthday | 10,660 | 0 | **LENGTH PASS; editorial review open** |
 
 ## Verified continuation: five length gates closed
 
 The [recounted GitHub Actions QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38511481429) processed 193/193 chapter files after the five narrative expansions, reporting **143 passing, 50 short, 252,134 words remaining** and no cross-chapter exact 300-word matches across **1,677,515 overlapping windows**. Only this source snapshot is represented by those figures.
 
 - **Chapter 066:** **8,314 → 10,572 body words (+2,258)**. New scene: after Jason's letter is dispatched, Thalia, Percy, Annabeth, Clarisse and Silena troubleshoot the cove's communication chain, carrying forward the ropes, flag boundaries and safe-stop obligations from Chapter 065. Outcome: demonstrated acknowledgment signal, three stations, altered pennant hems; Thalia intends to ask Jason more about Roman drills in a **future** letter (not already sent). [Character-local handoff](../../continuity/ch066.yaml). Adjacent Chapter 065 ending and Chapter 067 opening inspected.
-- **Chapter 133:** **8,704 → 10,656 body words (+1,952)**. New scene: Annabeth recognizes a real safety problem with pavilion decorations, delegates the installation to Nico and Clarisse, and tells Silena to ask before displaying her unfinished maps. Thalia's later movement of a working drawing remains a misunderstanding because she did not demonstrably hear that conversation. [Character-local handoff](../../continuity/ch133.yaml). Adjacent Chapter 132 closing scene and Chapter 134 opening inspected.
+- **Chapter 133:** **8,704 → 10,660 body words (+1,956)**. New scene: Annabeth recognizes a real safety problem with pavilion decorations, delegates the installation to Nico and Clarisse, and tells Silena to ask before displaying her unfinished maps. Thalia's later movement of a working drawing remains a misunderstanding because she did not demonstrably hear that conversation. Silena's count now distinguishes the 28 stars laid out from Ella's two spares. [Character-local handoff](../../continuity/ch133.yaml). Adjacent Chapter 132 closing scene and Chapter 134 opening inspected.
 
 - **Chapter 067:** **5,758 → 10,292 body words (+4,534)**. A lost fishing-line hazard creates a source-grounded crab rescue, canoe-shed report and maintenance process. Percy and his family decide what catch is actually needed, release excess fish and teach younger campers to investigate nature instead of demanding a magic show. Clarisse's practical knot instruction and the minor treated shoulder scrape carry into Ch. 068. [Witness, prop and permission handoff](../../continuity/ch067.yaml).
 - **Chapter 068:** **5,529 → 10,328 body words (+4,799)**. Annabeth rehearses an early-exit plan before Bryce provokes an unintended discharge; the aftermath includes direct consent-based accountability to a young camper, technical inspection of the struck brazier, and a revised response plan that **does not treat Percy as an electrical ground**. Bryce's apology to Percy does not decide Annabeth's forgiveness. [Witness and safe-response handoff](../../continuity/ch068.yaml).

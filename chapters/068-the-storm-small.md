@@ -1120,7 +1120,7 @@ Annabeth took his hand and let him lead her back toward the firelight, toward th
 
 Halfway to the fire, Annabeth stopped and looked back at the storm over the Sound. Lightning flickered again, silent and far away. She felt the answering ember in her chest flicker once, quietly, and then settle.
 
-She wasn’t afraid of it anymore. Not the way she had been. It was part of her now — wild, divine, difficult. Something to train, not to hate. Something Percy held space for without flinching. Something Thalia understood without explaining. Something Chiron saw clearly and still called progress.
+She was less afraid of it than she had been. It was part of her now — wild, divine, difficult. Something to train, not to hate. Something Percy held space for without flinching. Something Thalia understood without explaining. Something Chiron saw clearly and still called progress.
 
 She turned back to Percy, who was waiting for her with infinite patience and a marshmallow stick he’d stolen from somewhere.
 

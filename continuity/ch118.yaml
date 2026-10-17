@@ -1,7 +1,7 @@
 chapter: 118
 title: "A Message from Amphitrite"
 source: "chapters/118-a-message-from-amphitrite.md"
-status: "expanded to 10,320 body words by the current strict repository counter; semantic signoff pending"
+status: "expanded to 10,323 body words by the current strict repository counter; semantic signoff pending"
 chronology:
   - "The morning after Chapter 117's evening closing scene; Chapter 117's next-morning plan is not evidence of a completed Atlantis visit."
   - "The invitation, camp planning, map work and pavilion decision occur before Chapter 119 opens amid storm-wrack and decorative damage; exact storm timing is not established here."
@@ -115,10 +115,10 @@ next_chapter:
   locator: "chapters/119-sisters-errand.md#L3-L9"
   handoff: "The Atlantis trip has not started and no response has been sent. Chapter 119 opens amid storm-wrack and Cabin One decorative damage; this chapter does not establish the storm's timing or cause."
 qa:
-  body_words: 10320
+  body_words: 10323
   previous_chapter_closing_scene_checked: true
   next_chapter_opening_checked: true
   prior_life_memory_boundary_checked: true
   gifts_promises_injuries_carried_forward: true
-  full_manuscript_exact_300_token_check: "Final local QA on 2026-10-17: zero matching windows across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows / 2,150,338 body words across 196 files."
+  full_manuscript_exact_300_token_check: "Final local QA on 2026-10-17: zero matching windows across 1,942,560 chapter-only windows and 2,093,112 bonus-inclusive windows / 2,151,417 body words across 196 files."
   independent_scene_semantic_and_style_review: "pending"
