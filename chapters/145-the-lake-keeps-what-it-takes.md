@@ -396,7 +396,7 @@ They sat with their shoulders touching, and Percy's hand had come to rest over h
 
 "It is the most natural thing in the world," he said. "I'm your boyfriend. I'm allowed to do that."
 
-"You are not my boyfriend."
+"You are my boyfriend."
 
 "This is unfair."
 
@@ -404,7 +404,7 @@ They sat with their shoulders touching, and Percy's hand had come to rest over h
 
 "Annabeth."
 
-"I'm serious, Percy. I am not — I'm not one of the people who gets to pretend we already figured this out. I am the one who has to wake up and decide every morning whether I'm still in love with you or just still kind of haunted by the idea of you."
+"I'm serious, Percy. I know I love you. I know I chose this life with you. But sometimes I'm afraid I'm leaning on the memories instead of seeing you as you are here, with me now."
 
 He took her hand, and she let him, and he turned it over so the back of her palm rested against his and said, "That is not what you are."
 

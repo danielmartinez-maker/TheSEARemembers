@@ -640,7 +640,7 @@ The lake moved. The dock creaked. Clarisse put her hand out and found Silena's s
 
 Clarisse leaned back on her hands. "Good."
 
-Thalia, still on her back, said, "When I was a tree, I used to think about this."
+Thalia, still on her back, said, "After we talked about the tree, I started thinking about this."
 
 "About docks?" Annabeth asked.
 

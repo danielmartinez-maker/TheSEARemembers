@@ -1216,15 +1216,9 @@ Exhaling through her nose, misting faintly in the cooling air, Clarisse said, �
 
 Nodding, Chiron said, “Accompany you if Amphitrite welcomes me and duties allow,” hooves shifting softly on stone, tail swishing at evening flies. His eyes, ancient and kind, moved across each face in turn.
 
-Worry hadn't evaporated, but it no longer sat solely with him — distributed among warm hands and steady voices, lighter for sharing, like a heavy pack divided trail-wise. The dock's warmth seeped through his jeans as he breathed easier.
+Worry hadn't evaporated, but it no longer sat solely with him. The dock boards stayed warm beneath his legs; beside him, Annabeth's thumb rested on his knuckle while Clarisse and Silena resumed their jam debate.
 
-Atlantis still ached, camp still extended its hand. He'd imagined those pulls as rival tides with no shore between, grinding and cold. Now, amid debate over jam with its sweet strawberry perfume, weaponry oil-sharp, and royal bows endlessly rehearsed, the image shifted, softened, warmed — family voices braided through it.
-
-Atlantis needn't steal him from camp. Camp needn't bar him from Atlantis. He could escort beloved people, salt and sun on their skin, to the missed place with its cool blue halls, letting camp-home with its pine smoke and laughter meet before-home with its gardens and bells, introductions awkward and wonderful.
-
-Nobody competing, nobody abandoned for the other to count, no ledger of loves. For the first time, both homes coexisted without shoving, tide meeting shore instead of fighting it, foam bright on sand.
-
-Eyes on the question list, its edges fluttering in the pavilion breeze, Annabeth's hand beside his, thumb resting lightly on his knuckle, Clarisse and Silena softly sparring over jam with relish, their shoulders bumping, Percy smiled, chest looser than all day, breathing honeyed evening air deep.
+Atlantis still ached. Camp still felt like home. For now, he could let those facts share space without asking anyone else to settle the distance between them. Percy breathed easier and looked back at the list.
 
 “So,” he said, looking from face to beloved face around the lantern-lit table, “we'll need more than one jar. Possibly a crate. Definitely a plan for keeping Percy away from it till we land.” Laughter broke warm across the pavilion, torches fluttering in the sea breeze.
 

@@ -338,6 +338,36 @@ CHECKS = {
                    "Amphitrite knows the time rewrite",
                    "Beryl was at the shrine."),
     },
+    "chapters/177-the-one-who-came-back.md": {
+        "present": ("Percy had the familiar talent for being entirely present in a room",),
+        "absent": ("the twelve-year-old's talent", "the twelve-year-old’s talent"),
+    },
+    "chapters/136-percy-s-birthday.md": {
+        "present": ('Percy felt the old unease, soft and familiar. "It\'s a good place for it."',
+                    "To her, it was an ordinary family anecdote from the childhood she knew he had lived.",
+                    "He kept that distinction private."),
+        "absent": ('Percy felt the old unease, soft and familiar. "Did I?"',
+                   "not expecting him to supply an answering memory",
+                   "Both truths could live in him without being explained to her tonight."),
+    },
+    "chapters/145-the-lake-keeps-what-it-takes.md": {
+        "present": ("You are my boyfriend.", "I know I love you. I know I chose this life with you."),
+        "absent": ("You are not my boyfriend.",
+                   "whether I'm still in love with you or just still kind of haunted by the idea of you"),
+    },
+    "chapters/146-the-long-way-back.md": {
+        "present": ("After we talked about the tree, I started thinking about this.",),
+        "absent": ("When I was a tree, I used to think about this.",),
+    },
+    "chapters/187-silver-on-the-rings.md": {
+        "present": ("The sight brought back the memory he carried from the future that had been erased",
+                    "a blade slipping in a boathouse, in a month this life had not reached"),
+        "absent": ("from a blade that had slipped in a boathouse in a month neither of them had lived yet",),
+    },
+    "chapters/038-brothers-and-sisters.md": {
+        "present": ("a fourteen-year-old girl told him where he'd missed a spot",),
+        "absent": ("a thirteen-year-old girl told him where he'd missed a spot",),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

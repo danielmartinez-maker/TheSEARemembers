@@ -334,7 +334,7 @@ The sun went down behind the ridge at ten past five and did not linger. It took 
 
 Annabeth put her mug down on the step beside her and turned her hand palm-up on her knee, which was not a gesture anybody had ever taught either of them. It had arrived one evening in June, in a canoe, and it had stayed, and it was the only sentence in the language that had never once needed translating.
 
-Percy took it. His fingers were cold and his palm was not, and he laced his through hers and turned her hand over and looked at it for a second, at the pencil callus on the middle finger and the small white scar on the heel of it from a blade that had slipped in a boathouse in a month neither of them had lived yet. Then he put his mouth against her knuckles, lightly, the way a person tests a doorknob in winter, and stayed there, and Annabeth's whole attention went down into that one square inch of skin and stayed there with him.
+Percy took it. His fingers were cold and his palm was not, and he laced his through hers and turned her hand over and looked at it for a second, at the pencil callus on the middle finger and the small white scar on the heel of it. The sight brought back the memory he carried from the future that had been erased: a blade slipping in a boathouse, in a month this life had not reached. Then he put his mouth against her knuckles, lightly, the way a person tests a doorknob in winter, and stayed there, and Annabeth's whole attention went down into that one square inch of skin and stayed there with him.
 
 "You're thinking out loud," he said, against her hand.
 

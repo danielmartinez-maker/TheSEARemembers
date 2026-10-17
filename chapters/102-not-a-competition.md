@@ -292,8 +292,7 @@ The older camper went to gather the practice blades. Percy began to help, but so
 
 "Thanks."
 
-Percy wiped the practice sword's handle with the cloth beside the rack and put it in the correct slot. He checked that it sat all the way in before letting go. He was still looking down when Annabeth and Noah crossed the edge of the field.
-Then Annabeth and Noah walked past.
+Percy wiped the practice sword's handle with the cloth beside the rack and put it in the correct slot. He checked that it sat all the way in before letting go. He was still looking down when Annabeth and Noah crossed the edge of the field and walked past.
 
 Percy's next parry came late. His partner tapped him on the shoulder with the flat of the blade.
 

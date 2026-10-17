@@ -336,7 +336,7 @@ Jason held a rough drawing up to the mist. Annabeth noticed he'd marked the load
 
 "Do not put that on me," Thalia said.
 
-The conversation turned to the changes Annabeth had made at camp, the garden she hoped to plant and the old corridor they'd begun to survey. Jason wanted to know if the passage connected to the lake. She told him it probably didn't and added that they weren't going inside without the maintenance crew.
+The conversation turned to the changes Annabeth had made at camp, the garden she hoped to plant, and old service spaces visible on plans they'd begun to review. Jason wanted to know whether the drawings showed a route to the lake. She said they didn't show a connection, and they wouldn't investigate any space in person without the maintenance crew.
 
 "Good," he said. "I'd hate to hear you discovered a secret door by falling through it."
 
@@ -987,7 +987,7 @@ Applause burst through the room. Ella clapped her wings; Grover danced stiffly; 
 
 "I wanted certainty."
 
-At the table, rather than before all of camp, they opened gifts, paper rustling softly and thank-yous overlapping. Annabeth thanked people for an embroidered handkerchief, its stitches tiny and even, blue candies that clicked like sea-glass, architectural postcards from an Athena camper showing vaults she had never seen. The shell compass rested beside her plate; Zeus's tool glimmered faintly in its case.
+At the table, rather than before all of camp, they opened the remaining gifts, paper rustling softly and thank-yous overlapping. Annabeth thanked people for an embroidered handkerchief, its stitches tiny and even, blue candies that clicked like sea-glass, architectural postcards from an Athena camper showing vaults she had never seen. The shell compass rested beside her plate; Zeus's tool glimmered faintly in its case.
 
 Once the crowd turned toward cake, Thalia touched Annabeth's arm. "May I give you yours now?"
 
@@ -1009,7 +1009,7 @@ Annabeth ran a thumb across the brass corner, cool and solid. "You made room for
 
 Across Annabeth's knees the sketchbook rested. It didn't decree which life mattered most. Space for a photograph, a drawing, an old memory, a new one — that was what Annabeth had wanted without knowing how to request it.
 
-She leaned into Thalia, and this time her sister's arm encircled her, jacket smelling of cedar, campfire, and the faint oil Thalia used on her bowstring. Annabeth allowed herself to be held, cedar and campfire on Thalia's jacket.
+She leaned into Thalia, and this time her sister's arm encircled her, jacket smelling of cedar, campfire, and the faint oil Thalia used on her bowstring. Annabeth allowed herself to be held.
 
 "Thank you," she said against her sister's shoulder.
 

@@ -215,7 +215,7 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 
 ### Chapters 149–151 · witnessed / reported / unknown
 - **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
-- **State:** Her dock argument with Clarisse continues as chosen-family conflict. Chiron names Annabeth and Jason as her siblings and Clarisse as family she has chosen. At eighteen, Thalia agrees only to ask Chiron about a proposed four-day boundary walk.
+- **State:** Her dock argument with Clarisse continues as chosen-family conflict. Chiron names Annabeth and Jason as her siblings and Clarisse as family she has chosen. In Ch146, Thalia describes current-day thoughts about stillness inspired by Annabeth's report of the tree; she has no firsthand memory of being a tree. At eighteen, Thalia agrees only to ask Chiron about a proposed four-day boundary walk.
 - **Carry-forward:** No approval, date or departure is shown. Clarisse is not a Grace sibling; Thalia and Annabeth remain Zeus/Grace siblings in Cabin One.
 
 ### Chapters 152–160 · witnessed / reported / private / unknown

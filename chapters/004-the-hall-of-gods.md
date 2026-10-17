@@ -692,7 +692,7 @@ Percy met the centaur's ancient eyes. "I'm already willing to die for the answer
 
 Chiron was quiet for a long moment. Then he said, "That's the question, isn't it? And I don't have an answer for you. I'm sorry."
 
-Percy stood and walked out of the office, and behind him, Chiron watched with eyes that had seen too much and understood too little and could do nothing to change what was coming.
+Percy walked out with Chiron's apology following him, heavier than the warning.
 
 ---
 
@@ -721,7 +721,7 @@ She showed him. The second version was different from both the original and the 
 
 "Three versions," Percy said, checking the path behind them. "Three different prophecies?"
 
-"Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "Whoever altered the original didn't destroy it. They layered over it. And underneath, the older versions are still there."
+"Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "We can't tell from these alone which version came first, or whether any copy changed after the Oracle spoke. But someone kept separate versions. If the attic has more, comparing them might show where the differences entered the record."
 
 "Can we find more?"
 
@@ -999,7 +999,7 @@ The next morning, Clarisse found Percy at the training grounds.
 
 Percy's heart stopped. "How long have you been following me?"
 
-"Since the night you snuck into the Big House the first time. You're not as subtle as you think, Jackson." She was smiling, but her eyes were serious. "I followed you to the attic. Saw what you and the Athena girl were doing up there. Didn't interfere because I wanted to know what you were after."
+"Since the night you snuck into the Big House the first time. You're not as subtle as you think, Jackson." She was smiling, but her eyes were serious. "I followed you to the attic. Saw what you and Annabeth were doing up there. Didn't interfere because I wanted to know what you were after."
 
 "And now you know."
 

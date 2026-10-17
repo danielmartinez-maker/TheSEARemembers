@@ -1,7 +1,7 @@
 chapter: 133
 title: "Annabeth's Birthday"
 source: "chapters/133-annabeth-s-birthday.md"
-status: "source-checked handoff; narrative expansion October 13, 2026"
+status: "source-checked handoff; current-source review October 17, 2026; literary signoff pending"
 relative_time: "Annabeth's fourteenth birthday; exact calendar date not established in chapter"
 pov:
   - "Annabeth Grace (third-person limited, including new pavilion-preparation scene)"
@@ -64,6 +64,11 @@ events_and_relationship_updates:
     witnessed_by: ["Annabeth", "Thalia", "Percy", "party companions"]
     event: "Thalia gifts a pouch and sketchbook; Percy gifts a proposed house sketch; Annabeth refuses a public performance with Zeus's object"
     carry_forward: "Keep separately tracked gifts and do not turn future house sketch into a decided construction commitment"
+  - id: C133_F
+    certainty: confirmed
+    witnessed_by: ["Annabeth", "Jason"]
+    event: "They review old service-space plans only; no route to the lake is shown, and physical investigation waits for the maintenance crew"
+    carry_forward: "Chapter 134's breakfast rumor is the first trigger for the on-page passage investigation; do not imply Annabeth has already entered or surveyed a corridor"
 props_and_injuries:
   - "Silver shapeshifting Zeus gift: closed case, limitations unresolved"
   - "Jason birthday parcel: sent/expected but receipt unknown"
@@ -80,6 +85,9 @@ qa:
   following_chapter_opening_checked: true
   prior_gifts_and_sibling_relationships_checked: true
   third_person_limited_new_scene_checked: true
-  body_word_floor: "verify from current CI; expected >10000"
-  global_exact_300_word_repeat: "verify from current CI"
+  body_words: 10659
+  body_word_floor: "pass; all 193 chapters at or above 10000, zero shortfall"
+  global_exact_300_word_repeat: "pass; chapter-only 1941320 windows and bonus-inclusive 2091872 windows, zero exact matches"
+  chapter_structure: "pass; 193 indexed and numbered files, ordered"
+  source_anchored_memory_groups: "42 passed"
   full_semantic_edit: "not certified"

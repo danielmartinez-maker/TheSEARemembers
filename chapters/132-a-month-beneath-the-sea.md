@@ -795,198 +795,6 @@ He folded the paper and left the forge. The questions hadn't made the choice eas
 
 ---
 
-That evening, he found Annabeth on the dock.
-
-Honey-colored light lay across the lake, gilding each ripple and warming the dock planks beneath their weight. Swallows stitched the air overhead, and the far treeline stood dark against the brightness. Boots hooked on the lower rung, one hand resting on the morning's map, its margins now threaded with fresh notes, she watched the water. Percy halted several steps behind, planks warm beneath his shoes.
-
-"Can I sit?"
-
-"Yes."
-
-Beside her he settled. Boards creaked under his weight, warm from the afternoon sun and thrumming faintly where small waves struck the pilings. For a while they watched gold gather along the lake's edges, swallows stitching the air above.
-
-"I've been thinking," he said.
-
-"Me too."
-
-"I'm sorry I held the message apart from you. It mattered enough to occupy my thoughts, and you deserved to know."
-
-"Thank you. I don't require every half-formed thought, but when something starts to matter, let me in before you've decided."
-
-"I wasn't trying to decide without you."
-
-"I know. It felt as though you waited to tell me until you'd chosen. I want your thoughts, not your request for permission."
-
-"That is what I want, too."
-
-"A month stretches long. I would miss you, and hard days would come. Don't interpret those as proof you did wrong, but don't assume I'll be fine and depart without shaping a plan together."
-
-"I wouldn't vanish."
-
-"I know. I don't want to become something you managed in advance."
-
-He let the impulse to defend himself pass like a wave under the dock. "Understood. I want you to hear what I want, not a version edited for your comfort."
-
-"I want to train there. I want to handle water with more skill. And I want ordinary hours with my family. I want to remain long enough that every meal stops feeling like a visit. I want to discover whether I can belong there, not only arrive when invited."
-
-Never before had he phrased it thus. Spoken aloud, the want grew larger and less like a simple choice. Annabeth listened without interruption, breeze stirring the loose strands at her temples.
-
-"I don't know whether a month is the right shape for that," he added. "I don't know how much training I need, or whether I'll excel. But I want to learn."
-
-Annabeth nodded. "That sounds like you."
-
-"I'm afraid going will feel to you like choosing them over you."
-
-"I won't believe that. I might feel lonely, or furious at the entire ocean for taking you. Loneliness differs from doubting your love."
-
-Quiet as the admission came, Percy recognized its cost, offered without a demand folded inside.
-
-"And if I don't go, I fear letting fear decide — telling myself I stayed for you when you never asked."
-
-"I don't want that either."
-
-He exhaled. "I'm sorry you discovered it by spotting the shell."
-
-"And I'm sorry I made my fear sound like a verdict. Hearing you wanted to go, I assumed you'd placed me on the far side of the decision."
-
-"I was omitting parts."
-
-"You don't need to apologize for missing me. Don't make me guess what you want."
-
-He turned his hand palm-up on the dock between them, going no farther. Annabeth regarded it, then laid her hand in his, calluses familiar against his skin.
-
-"Thank you," he said.
-
-"You're welcome."
-
-They watched the darkening lake. Her fingers held warmth against his. Neither squeezed as though a grip could guarantee anything. Holding on sufficed.
-
-"We need not decide tonight. Ask what the month entails: how much training, whether rest days exist, whether a shorter stay is possible. Not because I'm maneuvering to shorten it. You should comprehend what you'd accept."
-
-"And if only a full month works?"
-
-"Then we discuss that."
-
-"And if you still prefer I not go?"
-
-Down at their joined hands she looked. "I won't pretend I'll desire it. I want you near, but that cannot outweigh everything else."
-
-"You matter. The training matters. I refuse to rank them."
-
-"Good."
-
-He threaded his fingers between hers. "I thought I could protect you from fear. Mostly I was shielding myself from hearing yours."
-
-"Understandable. Still unfair."
-
-"I'm sorry."
-
-"I forgive you."
-
-The words neither erased the invitation nor answered it. They widened the air between them.
-
-"I don't want you shrinking your world to prove you love me," she said.
-
-"I don't want you shrinking yours either."
-
-"Good. Then we should act as though we mean it."
-
-He smiled. "How?"
-
-"No answering invitations for each other. We tell each other when something matters, even unfinished. No unilateral decisions about things that reshape both our lives."
-
-"I'll talk with you before I accept. You'll tell me honestly how you feel without reducing it to yes or no. And we'll listen."
-
-"That's the plan."
-
-"Solid one."
-
-"Chiron will ask us to write it down."
-
-"You can draw the map."
-
-"A map of the plan?"
-
-"You love maps."
-
-"Not that much."
-
-Laughter loosened the tightness in the evening. Annabeth rested her head against his shoulder, hair smelling faintly of cedar and sun, the dock boards radiating the day's stored warmth beneath them. He tipped his cheek lightly against it. Neither declared the month fine. Neither called it impossible.
-
-After a while, Percy drew the shell from his pocket. "May I answer him now? Only to say we want more detail, and we'd like to visit together for a few days before any decision?"
-
-"That suits me, provided 'together' means you invite me because you desire my company, not because you need me to inspect the offer."
-
-"I desire your company. I also value your inspection."
-
-"Accurate."
-
-"You can decide whether to come. No pressure."
-
-"I'd like to. A short visit. Not agreement to the month. I want to see the palace again, and hear about the training from those who'd conduct it."
-
-"That matches what I want."
-
-She lifted her head. "Then tell them."
-
-Cradling the shell between his hands, Percy pressed the small ridge near its opening. Blue light traced the spiral. Moments later Poseidon's voice arrived, softened by the distance between palace and lake.
-
-"Perseus. I hope you have had time to consider the invitation. There is no hurry. Triton has set aside a place in the training hall if you wish to use it. We could begin with a month and adjust the schedule as we learn what you need."
-
-A faint rush of water closed the message.
-
-Percy looked at Annabeth. She nodded once, granting him room to answer in his own words.
-
-"Father," he said to the shell, "thank you. I want to learn more about the training and what a month would entail. I haven't decided. Annabeth and I would like to visit for a few days before I decide, if that suits everyone. I want to see you and Mother and Triton, and to talk with Clarisse and Silena about the training. I'll write again once we've talked."
-
-He paused and glanced at Annabeth. "Did I omit anything?"
-
-"No. You might add that you're not asking them to reserve the place yet."
-
-"Right." He turned back to the shell. "Please don't hold the training place for me. I don't want arrangements made around a decision I haven't reached."
-
-The shell's light dimmed. The message departed with a soft chime.
-
-Annabeth watched it in his hands. "That felt different."
-
-"Because I didn't need to resolve everything before speaking."
-
-"Exactly."
-
-"I should have told you sooner."
-
-"You have now."
-
-"I'll strive to do better next time."
-
-"I know."
-
-"That one I can demonstrate."
-
-"You can begin by telling me when the shell answers."
-
-"I will."
-
-She shifted closer. Percy turned toward her slowly enough that she could change her mind. She didn't. Their kiss stayed soft and familiar, without urgency. It lingered a moment, then another. Parting, Annabeth's forehead rested against his.
-
-"I'm sorry I made you guess what I wanted," he said.
-
-"I'm sorry I made wanting to go feel as though it would wound me beyond repair."
-
-"It won't."
-
-"I know. It will ache sometimes. Different thing."
-
-"I'll remember."
-
-"And should I forget — should you forget — I'll remind you."
-
-"Deal."
-
-She kissed him again, brief answer to his answer. His hand remained in hers upon the old boards while dusk spread over the lake, cicadas tuning up along the shore.
-
----
-
 Before dinner Percy took his proposed calendar to Chiron.
 
 There were thirty boxes on the page. He had shaded five of them for lessons he would miss at camp, and another four for the nights he wanted to speak to Annabeth if she had time. They looked harmless until Chiron spread the actual training roster beside them.
@@ -1196,6 +1004,202 @@ He folded the note without sending it. The shell had already carried a request f
 "That is a separate question from whether you go," Chiron said. "You are allowed to want time with your brother."
 
 Percy nodded and left it in the folder. The note was written, not delivered. Triton had not promised him anything. He would not walk into tomorrow pretending otherwise.
+
+---
+
+That evening, he found Annabeth on the dock.
+
+Honey-colored light lay across the lake, gilding each ripple and warming the dock planks beneath their weight. Swallows stitched the air overhead, and the far treeline stood dark against the brightness. Boots hooked on the lower rung, one hand resting on the morning's map, its margins now threaded with fresh notes, she watched the water. Percy halted several steps behind, planks warm beneath his shoes.
+
+"Can I sit?"
+
+"Yes."
+
+Beside her he settled. Boards creaked under his weight, warm from the afternoon sun and thrumming faintly where small waves struck the pilings. For a while they watched gold gather along the lake's edges, swallows stitching the air above.
+
+"I've been thinking," he said.
+
+"Me too."
+
+"I'm sorry I held the message apart from you. It mattered enough to occupy my thoughts, and you deserved to know."
+
+"Thank you. I don't require every half-formed thought, but when something starts to matter, let me in before you've decided."
+
+"I wasn't trying to decide without you."
+
+"I know. It felt as though you waited to tell me until you'd chosen. I want your thoughts, not your request for permission."
+
+"That is what I want, too."
+
+"A month stretches long. I would miss you, and hard days would come. Don't interpret those as proof you did wrong, but don't assume I'll be fine and depart without shaping a plan together."
+
+"I wouldn't vanish."
+
+"I know. I don't want to become something you managed in advance."
+
+He let the impulse to defend himself pass like a wave under the dock. "Understood. I want you to hear what I want, not a version edited for your comfort."
+
+"I want to train there. I want to handle water with more skill. And I want ordinary hours with my family. I want to remain long enough that every meal stops feeling like a visit. I want to discover whether I can belong there, not only arrive when invited."
+
+Never before had he phrased it thus. Spoken aloud, the want grew larger and less like a simple choice. Annabeth listened without interruption, breeze stirring the loose strands at her temples.
+
+"I don't know whether a month is the right shape for that," he added. "I don't know how much training I need, or whether I'll excel. But I want to learn."
+
+Annabeth nodded. "That sounds like you."
+
+"I'm afraid going will feel to you like choosing them over you."
+
+"I won't believe that. I might feel lonely, or furious at the entire ocean for taking you. Loneliness differs from doubting your love."
+
+Quiet as the admission came, Percy recognized its cost, offered without a demand folded inside.
+
+"And if I don't go, I fear letting fear decide — telling myself I stayed for you when you never asked."
+
+"I don't want that either."
+
+He exhaled. "I'm sorry you discovered it by spotting the shell."
+
+"And I'm sorry I made my fear sound like a verdict. Hearing you wanted to go, I assumed you'd placed me on the far side of the decision."
+
+"I was omitting parts."
+
+"You don't need to apologize for missing me. Don't make me guess what you want."
+
+He turned his hand palm-up on the dock between them, going no farther. Annabeth regarded it, then laid her hand in his, calluses familiar against his skin.
+
+"Thank you," he said.
+
+"You're welcome."
+
+They watched the darkening lake. Her fingers held warmth against his. Neither squeezed as though a grip could guarantee anything. Holding on sufficed.
+
+"We need not decide tonight. Ask what the month entails: how much training, whether rest days exist, whether a shorter stay is possible. Not because I'm maneuvering to shorten it. You should comprehend what you'd accept."
+
+"And if only a full month works?"
+
+"Then we discuss that."
+
+"And if you still prefer I not go?"
+
+Down at their joined hands she looked. "I won't pretend I'll desire it. I want you near, but that cannot outweigh everything else."
+
+"You matter. The training matters. I refuse to rank them."
+
+"Good."
+
+He threaded his fingers between hers. "I thought I could protect you from fear. Mostly I was shielding myself from hearing yours."
+
+"Understandable. Still unfair."
+
+"I'm sorry."
+
+"I forgive you."
+
+The words neither erased the invitation nor answered it. They widened the air between them.
+
+"I don't want you shrinking your world to prove you love me," she said.
+
+"I don't want you shrinking yours either."
+
+"Good. Then we should act as though we mean it."
+
+He smiled. "How?"
+
+"No answering invitations for each other. We tell each other when something matters, even unfinished. No unilateral decisions about things that reshape both our lives."
+
+"I'll talk with you before I accept. You'll tell me honestly how you feel without reducing it to yes or no. And we'll listen."
+
+"That's the plan."
+
+"Solid one."
+
+"Chiron will ask us to write it down."
+
+"You can draw the map."
+
+"A map of the plan?"
+
+"You love maps."
+
+"Not that much."
+
+Laughter loosened the tightness in the evening. Annabeth rested her head against his shoulder, hair smelling faintly of cedar and sun, the dock boards radiating the day's stored warmth beneath them. He tipped his cheek lightly against it. Neither declared the month fine. Neither called it impossible.
+
+After a while, Percy drew the shell from his pocket. "May I answer him now? Only to say we want more detail, and we'd like to visit together for a few days before any decision?"
+
+"That suits me, provided 'together' means you invite me because you desire my company, not because you need me to inspect the offer."
+
+"I desire your company. I also value your inspection."
+
+"Accurate."
+
+"You can decide whether to come. No pressure."
+
+"I'd like to. A short visit. Not agreement to the month. I want to see the palace again, and hear about the training from those who'd conduct it."
+
+"That matches what I want."
+
+She lifted her head. "Then tell them."
+
+Cradling the shell between his hands, Percy pressed the small ridge near its opening. Blue light traced the spiral. Moments later Poseidon's voice arrived, softened by the distance between palace and lake.
+
+"Perseus. I hope you have had time to consider the invitation. There is no hurry. Triton has set aside a place in the training hall if you wish to use it. We could begin with a month and adjust the schedule as we learn what you need."
+
+A faint rush of water closed the message.
+
+Percy looked at Annabeth. She nodded once, granting him room to answer in his own words.
+
+"Father," he said to the shell, "thank you. I want to learn more about the training and what a month would entail. I haven't decided. Annabeth and I would like to visit for a few days before I decide, if that suits everyone. I want to see you and Mother and Triton, and to talk with Clarisse and Silena about the training. I'll write again once we've talked."
+
+He paused and glanced at Annabeth. "Did I omit anything?"
+
+"No. You might add that you're not asking them to reserve the place yet."
+
+"Right." He turned back to the shell. "Please don't hold the training place for me. I don't want arrangements made around a decision I haven't reached."
+
+The shell's light dimmed. The message departed with a soft chime.
+
+Annabeth watched it in his hands. "That felt different."
+
+"Because I didn't need to resolve everything before speaking."
+
+"Exactly."
+
+"I should have told you sooner."
+
+"You have now."
+
+"I'll strive to do better next time."
+
+"I know."
+
+"That one I can demonstrate."
+
+"You can begin by telling me when the shell answers."
+
+"I will."
+
+She shifted closer. Percy turned toward her slowly enough that she could change her mind. She didn't. Their kiss stayed soft and familiar, without urgency. It lingered a moment, then another. Parting, Annabeth's forehead rested against his.
+
+"I'm sorry I made you guess what I wanted," he said.
+
+"I'm sorry I made wanting to go feel as though it would wound me beyond repair."
+
+"It won't."
+
+"I know. It will ache sometimes. Different thing."
+
+"I'll remember."
+
+"And should I forget — should you forget — I'll remind you."
+
+"Deal."
+
+She kissed him again, brief answer to his answer. His hand remained in hers upon the old boards while dusk spread over the lake, cicadas tuning up along the shore.
+
+---
+
+
 
 
 
