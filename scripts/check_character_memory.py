@@ -33,6 +33,17 @@ CHECKS = {
         "present": ("without a rainbow between us", "meet you in person"),
         "absent": ("And you must be Annabeth",),
     },
+    "chapters/023-sally-s-blue.md": {
+        "present": ("Amphitrite had visited the camp and tried to be kind to Percy.",
+                    "what she would want to hear in a letter."),
+        "absent": ("Amphitrite knew Percy had arrived with memories that didn't match his life in Atlantis",),
+    },
+    "chapters/032-triton-visits.md": {
+        "present": ("I left our old routines out of the report.",
+                    "This is enough for now.",
+                    "He could choose which stories traveled home, one at a time."),
+        "absent": ("I also mentioned that you don't always recall the routines we used to practice together.",),
+    },
     "chapters/066-jason-s-letter.md": {
         "present": ("One person doesn't get to decide everyone's ready",
                     "Then remember it for the next letter",

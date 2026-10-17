@@ -53,6 +53,8 @@ qa:
 ## Example: Percy and Amphitrite
 
 - **Chapter 30:** She visits camp, embraces him and meets his friends.
+- **Chapter 32:** Triton reports ordinary updates about Percy’s training and sisters. Percy reviews the report, leaves his old routines out, and chooses what is sent to Amphitrite.
+- **Chapter 23:** Percy tells Silena about Sally; Amphitrite has only visited camp and tried to be kind to him. Do not infer she knows the source of Percy’s memories or his autobiographical gap from the letter discussion.
 - **Chapter 99:** Percy calls her 'Mother', a choice with an emotional consequence.
 - **Chapter 118:** The next greeting can naturally be 'Mom'. Her presence is familiar, not a first encounter.
 - **Chapter 123:** She already knows Annabeth, Clarisse and Silena, so she welcomes them back rather than introducing herself.

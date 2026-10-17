@@ -866,11 +866,25 @@ Percy looked at the folded report. At court, he had learned that adults could ta
 
 "They do."
 
-Triton hesitated. "I also mentioned that you don't always recall the routines we used to practice together. I didn't ask her to arrange more tests. I thought she should know we spoke about it."
+Triton hesitated. "I left our old routines out of the report. I didn't ask her to arrange anything else."
 
 Percy nodded slowly. He remembered the swim they'd taken under the stars and how easy it had felt when Triton stopped asking him to describe a childhood he couldn't see.
 
 "Thanks," he said. "I like hearing the stories. Sometimes I want them to be stories, not questions."
+
+"Do you want to see what I wrote?" Triton asked.
+
+Percy nodded. Triton loosened the pouch cord and held out the folded pages. The report said Percy liked training, even when he complained, and that Clarisse and Silena took their cabin responsibilities seriously. It left out their old routines, the swim under the stars and the questions Percy couldn't answer.
+
+"That sounds right," Percy said.
+
+"If there's something you want me to add, tell me."
+
+Percy read it again. He wanted Amphitrite to know he was managing and his sisters were there. He did not want every close moment turned into proof of gratitude, or every silence into a problem to fix. "This is enough for now."
+
+Triton nodded and folded the report. "Then I'll send it as written."
+
+Percy returned the pages. Something in his chest eased. He could choose which stories traveled home, one at a time.
 
 "I understand. Better than I did when I arrived."
 

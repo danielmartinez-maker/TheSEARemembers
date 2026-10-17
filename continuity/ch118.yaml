@@ -120,5 +120,5 @@ qa:
   next_chapter_opening_checked: true
   prior_life_memory_boundary_checked: true
   gifts_promises_injuries_carried_forward: true
-  full_manuscript_exact_300_token_check: "0 matching cross-chapter windows across 1,687,246 windows on the Oct. 14 local snapshot"
+  full_manuscript_exact_300_token_check: "0 matching cross-chapter windows across 1,821,169 chapter-only windows and 1,971,721 bonus-inclusive windows / 2,030,026 body words across 196 files on the Oct. 17 local snapshot"
   independent_scene_semantic_and_style_review: "pending"

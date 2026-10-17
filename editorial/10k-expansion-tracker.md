@@ -4,7 +4,22 @@
 **Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest current-branch continuation: Chapter 101 (2026-10-15 local candidate)
+## Latest local continuation: privacy-boundary repairs (2026-10-17)
+
+**Source:** Working branch `audit/pr103-live-continuation`, based on live PR #103 head `e9d86c2`; not yet pushed. Chapter 023 now preserves Amphitrite’s ignorance of Percy’s mismatched memories. Chapter 032 keeps Percy’s missing routines out of Triton’s report; Percy reviews the ordinary training-and-sisters summary and approves what is sent. Chapter 023 recounts at **10,011** body words and Chapter 032 at **10,159**.
+
+| Scope | Latest local result |
+|---|---:|
+| Ordered narrative chapters | **193/193** |
+| At or above 10,000 body words | **177** |
+| Below 10,000 / missing words | **16 / 116,854** |
+| Chapter-only every-offset 300-token windows | **1,821,169; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,030,026 body words / 1,971,721 windows; 0 exact matches** |
+| Source-anchored memory regression groups | **35 passed** |
+
+One lexical first-introduction cue remains for human review in Chapter 014. This is mechanical QA plus two focused scene repairs; it does not certify whole-novel semantic continuity or literary quality. Refreshed local outputs: `editorial/audits/generated-full-qa.json`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+
+## Previous current-branch checkpoint: Chapter 101 (2026-10-15; superseded by the Oct. 17 local continuation)
 
 **Source:** PR #103 branch `audit/four-phase-continuity-2026-10-13`, based on published head `50b57891de5482399f2c6a050ebbf2885513958c`. Chapter 101's local QA is being recorded against this candidate; hosted workflow results attach to the pushed PR head.
 
@@ -16,14 +31,14 @@
 | Required additional body words to clear minimum | **116,854** |
 | Chapter-only every-offset 300-word windows | **1,821,045; 0 exact cross-chapter matches** |
 | All chapter and bonus files | **196 files; 2,029,902 body words; 1,971,597 windows; 0 exact cross-file matches** |
-| Source-anchored character-memory checks | **33 passed** |
+| Source-anchored character-memory checks | **33 passed at this historical checkpoint** |
 
 **Chapter 101, A Name for It:** **2,093 → 10,321 body words (+8,228 net).** The Percy-limited revision keeps the existing relationship intact while grounding the present choice, distinguishes Thalia's remembered blocks from Annabeth's missing memory, preserves Thalia's wrapped palm, and adds an earned shelf build, an orange boundary and Clarisse's shield-rack lesson with Noah. See the [Chapter 101 handoff](handoffs/ch101-a-name-for-it.md) and [structured continuity record](../continuity/ch101.yaml).
 
 - **Phase 1:** Adds scene-scoped witnessed/reported/unknown facts and cumulative state entries for Percy, Annabeth, Thalia, Clarisse, Silena and Noah; records next-morning boundaries with Chapters 100 and 102.
 - **Phase 2:** Preserves the exclusive Percy/Annabeth erased-life memory boundary, family relationships, Thalia's injury and schedule status, and the difference between Noah's shield lesson and Chapter 102's spear practice.
 - **Phase 3:** Expands through the present-day relationship choice, measured shelf work and accessibility check, shield-rack repair and coached lesson. Removes repeated reassurance and duplicate book-category debate; replaces a generic line with a specific measurement.
-- **Phase 4:** 193/193 indexed and ordered; 33 memory checks pass; chapter-only and bonus-inclusive strict duplicate scans find zero matches. The evidence index writes 193 provisional chapter locators, and the introduction screen leaves one review cue in Chapter 014. Both hosted Actions passed on revision commit `a6b53d8`: [full manuscript QA, run 468](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797) and [character memory consistency, run 230](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680). This remains a scoped chapter review, not whole-novel semantic or literary signoff.
+- **Phase 4:** 193/193 indexed and ordered; 33 memory checks passed at that Chapter 101 checkpoint; chapter-only and bonus-inclusive strict duplicate scans found zero matches. The evidence index writes 193 provisional chapter locators, and the introduction screen leaves one review cue in Chapter 014. Both hosted Actions passed on revision commit `a6b53d8`: [full manuscript QA, run 468](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797) and [character memory consistency, run 230](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680). This remains a scoped chapter review, not whole-novel semantic or literary signoff.
 
 **Next chronological underlength chapter:** [102 Not a Competition](../chapters/102-not-a-competition.md), **1,538 body words**, needs **8,462**. Preserve the morning-after relationship state and continue the Noah shield/spear lessons as distinct events.
 
@@ -199,7 +214,7 @@ Source-specific prose changes, chapter-by-chapter counts, QA limits and open acc
 
 **31 / 31 Chapters 014–044 meet the 10,000-body-word minimum**, each freshly fetched and recounted on this branch. The "first 36 chapters" table farther below records an earlier baseline and is **superseded** for Chapters 014–036. Do not use its old figures to plan subsequent work.
 
-The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,014; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,052**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
+The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,011; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,052**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
 
 Check: **126,352 overlapping 300-word windows** across those final 13 chapters, with zero exact cross-chapter matching sequences, plus single heading and UTF-8 replacement-character checks. This was **not** a full 31-chapter repeat check, a semantic similarity review, a CI run, or a final editorial signoff. Chapters exactly at 10,000 words have no deletion margin.
 

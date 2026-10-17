@@ -18,6 +18,8 @@
 | M-08 | Ch. 32: Triton encounters Clarisse, Silena and Annabeth, and spars with Clarisse | Ch. 86: Triton says 'You must be Clarisse' and 'You must be ... Silena'; treats Annabeth as a newly liked stranger | He recalls the camp duel, recognizes Silena, and says he **still** likes Annabeth | **Fixed** |
 | M-09 | Ch. 14 and Ch. 30: Annabeth already knows Amphitrite and received a bracelet from her | Ch. 120: Clarisse says Annabeth has **never met** Amphitrite, and Annabeth agrees | Annabeth refers to the established picnic, bunk inspection and bracelet | **Fixed** |
 | M-10 | Ch. 1: Amphitrite is unaware Percy lacks memory of his altered childhood | Ch. 123: Percy assumes Amphitrite understands that he cannot remember the childhood story she tells | Percy's interior monologue preserves his secret while listening to a normal family anecdote | **Fixed** |
+| M-11 | FIC_CONTEXT §2.1: Amphitrite does not know Percy’s autobiographical childhood gap | Ch. 32: Triton says he told Amphitrite Percy cannot recall their shared routines | Triton’s report now omits those routines; Percy checks its ordinary training-and-sisters content and chooses the version sent | **Fixed locally on PR #103** |
+| M-12 | FIC_CONTEXT §2.1: Amphitrite does not know Percy’s previous-life memories or autobiographical childhood gap | Ch. 23 narrated that Amphitrite knew Percy had arrived with memories that didn’t match his life in Atlantis | Replaced with Silena’s observed camp visit and her uncertainty about what Amphitrite would want to hear in Sally’s letter | **Fixed locally on PR #103** |
 
 ## Stable story rules to carry forward
 

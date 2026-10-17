@@ -836,7 +836,7 @@ They sat together without trying to answer the impossible question of why histor
 
 "Would that hurt her?"
 
-Silena considered. Amphitrite knew Percy had arrived with memories that didn't match his life in Atlantis. She had made room for his uncertainty when she visited and tried not to question him about it constantly. Silena could not know how the queen would feel about an account of another mother.
+Silena considered. Amphitrite had visited the camp and tried to be kind to Percy. But Silena could not know how the queen would feel about an account of another mother, or what she would want to hear in a letter.
 
 "She might have feelings about it," Silena said. "But the fact that you loved Sally doesn't mean you're doing something wrong by loving Amphitrite too. You can decide how much you want to explain."
 

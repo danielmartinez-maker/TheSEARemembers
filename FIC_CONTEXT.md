@@ -301,7 +301,7 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 | Annabeth is called Jackson or related to Percy as a sibling | Annabeth Grace, Zeus daughter, Percy's partner | **Audit** and correct only proven mistakes |
 | Sally's death appears in Percy's remembered original childhood | Sally died at age two **only in altered history** | **Audit** recalled memories and grief scenes |
 | Ages, seasons, returning visitors, gifts, injuries, and powers jump | Maintain a dated continuity ledger | **Audit** transitions and new drafts |
-| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Local PR #103 snapshot, Oct. 14:** 1,687,246 cross-chapter 300-word windows, 0 exact matches. Semantic repetition and whole-novel scene continuity remain unverified |
+| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Local PR #103 snapshot, Oct. 17:** 1,821,169 chapter-only and 1,971,721 bonus-inclusive every-offset 300-token windows across 196 Markdown files; 0 exact matches in either scan. Semantic repetition and whole-novel scene continuity remain unverified |
 | Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **0 short in chapters 140–164** in the latest local all-chapter recount; 48 chapters elsewhere remain short, with 243,056 total missing body words |
 | Older PDFs or root chapter files differ from corrected sources | Respect the GitHub source selected for this pass and rebuild exports from the reviewed branch | **Not reconciled**; do not claim historical editions match this source |
 
