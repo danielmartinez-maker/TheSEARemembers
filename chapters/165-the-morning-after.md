@@ -433,7 +433,7 @@ Clarisse stopped at the water's edge and did the thing she did, which was to not
 
 "It's supposed to be cold. It's *fresh*water. Not a bathtub." She splashed him, hard, a flat-handed wall of it that caught him in the chest. "Race. Paddle buoy and back. Loser scrubs the honey cake stone."
 
-"You already made me scrububy the stone."
+"You already made me scrub the stone."
 
 "Loser scrubs it *twice*. Go."
 
@@ -507,7 +507,7 @@ She opened it. One side: a sketch, quick and sure, of the whale-pancake — actu
 
 "You filed it before you finished reading it. I watched your eyes."
 
-"I regretting nothing."
+"I regret nothing."
 
 He took her hand again, and they walked, and the ridge stood to the north of them and did not need anything from either of them, and the lake came into view through the trees below, blue-green and enormous and freshwater-honest, and then they were down onto the white sand of the private beach, and it was empty, and it was theirs.
 

@@ -420,7 +420,7 @@ Then, because traditions were things you chose and not laws, Tyson spoke — not
 
 Silena made a sound like a laugh and a sob at once and went under for a second to hide it. Clarisse stared at the sky and blinked hard and said, "Dish towel," very quietly, to nobody, which made no sense and perfect sense. Annabeth reached along the line and found Percy's free hand under the water and held it, cold fingers and warm, graphite and lake. Percy felt his throat close the way it did when something true went past without armor, and he held Tyson's ankle a little tighter and the water a little looser, held twice, held twice, the words going around in his head like ripples.
 
-They thrashed around after that, because five siblings in a lake at golden hour could not stay solemn long, until the shallows were foam and the apples had to be rescued.
+They thrashed around after that, because five siblings and almost-siblings in a lake at golden hour could not stay solemn long, until the shallows were foam and the apples had to be rescued.
 
 They crawled out at last, dripping, and sat with feet in the water and the quilt over shoulders — all five under one quilt, which was impossible and therefore exactly what Cabin Three did. The wind had turned, thin October edge under the gold, and Clarisse's spare shirt — faded blue, sleeves jagged, smelling of lemon oil and lake — went to Annabeth this time without comment, because Annabeth was shivering in her wet shirt and Clarisse saw it first. Annabeth put it on over her swimsuit, too big in the shoulders and right everywhere else, and did not say anything about it, and neither did Clarisse, which was how gifts worked in Cabin Three.
 
@@ -551,8 +551,6 @@ Tomorrow would come. The ferry would come Tuesday. The bunk would empty and the 
 But today — laundry lines straight as ruled paper, volleyball in gold dust, carrots biggest to smallest, one true thing each with ears under, apples and iced tea and a borrowed blue shirt, a bolt in a pocket and a rock on a pillow — today had been rich in days. Today they had chosen to be in it anyway, the middle of a good thing, knowing it ended.
 
 That was the purpose. That was what stayed.
-
----
 
 ---
 

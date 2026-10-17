@@ -6,20 +6,20 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** This local continuation extends PR #103; its last hosted-verified head before the current scoped fixes was `591d24a`. The candidate includes Chapter 146/151 canon repairs, a Chapter 148 copyedit, and the Chapter 175/176 count clarifications, along with the earlier 066–069/118 trims and 132–133 handoff/profile updates. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. The preceding hosted checks on `591d24a` passed: [full-manuscript QA, run 536](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079247698), [character-memory run 264](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079247715), and [push-triggered full QA, run 535](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079243747). The latest-head status is tracked on PR #103.
+**Source:** This local continuation extends PR #103; its last hosted-verified head before the current scoped fixes was `e7a286b`. The candidate includes Chapter 146/151 canon repairs, Chapter 148 copyedit, Chapter 158/159 kinship wording, Chapter 163/165 copyedits, and the Chapter 152–160 survey ledger correction, along with earlier 066–069/118 trims, 132–133 handoff/profile updates and Chapter 175/176 count clarifications. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. The preceding hosted checks on `e7a286b` passed: [full-manuscript QA, run 538](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079827423), [character-memory run 265](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079827480), and [push-triggered full QA, run 537](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079824811). The latest-head status is tracked on PR #103.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-word windows | **1,942,542; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,151,399 body words / 2,093,094 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,942,545; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,151,402 body words / 2,093,097 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **45 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; 50 selected character timelines with exact-name candidate maps; exhaustive per-character matrix remains incomplete** |
 
-The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. A repository-wide local-link check covered 5,076 relative Markdown links with zero missing targets. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. The latest changed-file link check covered **3,704** relative Markdown targets across **356** PR-changed Markdown files with zero unresolved paths; it verifies target-path existence, not line anchors. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 

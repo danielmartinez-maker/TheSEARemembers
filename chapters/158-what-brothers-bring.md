@@ -482,7 +482,7 @@ Percy closed his fist around the green stone, cold first and then warm, and felt
 
 ---
 
-Annabeth Chase had mapped the north beach eleven times, in every season and three different scales, and she had never once gotten the light right.
+Annabeth Grace had mapped the north beach eleven times, in every season and three different scales, and she had never once gotten the light right.
 
 She sat on the warm flat rock in the long slant of midafternoon with her vellum weighted against the breeze, brass compass glinting, pencil moving in short sure strokes, and tried again. The problem was not the shape — she knew the shape. The problem was the use. Maps showed where things were. They did not show what they were for. And this beach was not a shoreline. It was a room. Cabin Three's room, with the lake for a floor.
 
