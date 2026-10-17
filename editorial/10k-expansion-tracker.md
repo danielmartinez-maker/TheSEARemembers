@@ -6,7 +6,7 @@
 
 ## Latest local continuation: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Working candidate `audit/pr103-live-continuation`, based on PR #103 head `6b11288d`; local QA is complete and the candidate is pending commit/push and fresh hosted Actions. The repository length audit reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+**Source:** PR #103 source-change commit `2ddb77f` from continuation branch `audit/pr103-live-continuation`. Local QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. Both manuscript-audit runs and the character-memory workflow passed on this content; these are mechanical word counts, not editorial approval.
 
 | Scope | Latest local result |
 |---|---:|
@@ -18,7 +18,7 @@
 | Source-anchored memory regression groups | **36 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 
-The single lexical introduction cue in Chapter 014 was reviewed in context and is a valid first in-person meeting after prior Iris contact. Full semantic continuity, style/developmental review and hosted Actions on the final pushed head remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
+The single lexical introduction cue in Chapter 014 was reviewed in context and is a valid first in-person meeting after prior Iris contact. Full semantic continuity and style/developmental review remain open. The hosted runs are [manuscript audit 39056631498](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39056631498), [manuscript audit 39056627110](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39056627110), and [character memory 39056631708](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39056631708). Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 
