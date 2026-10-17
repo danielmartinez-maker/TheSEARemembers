@@ -254,7 +254,7 @@ She turned her head, so her cheek was on his shirt instead of her forehead, so s
 
 Annabeth sat up, because the sentence deserved her full attention and NOT her sleepy weight, and took his chin in her hand, and turned him so he was looking at her over the top of his own shoulder, and she kissed him.
 
-It was not a hard kiss. It wasn't the mess-hall-doorway kind, which broke like weather. It was the willow-shade kind: slow, sun-freckled, careful, unhurried, the kind where you have all day and you know it and nobody knows what time it is, the kind where you take your time finding the angle because the angle is the point. He made a small sound and kissed her back with his hand at her jaw and the other still around her back and the lake air coming in cool off the surface past both their faces.
+It was not a hard kiss. It wasn't the dawn-dock kind, which broke open under first light and approaching footsteps. It was the willow-shade kind: slow, sun-freckled, careful, unhurried, the kind where you have all day and you know it and nobody knows what time it is, the kind where you take your time finding the angle because the angle is the point. He made a small sound and kissed her back with his hand at her jaw and the other still around her back and the lake air coming in cool off the surface past both their faces.
 
 Her hair fell forward. His thumb found her ear, felt for the small earring she wasn't wearing in this lifetime, and followed the absence of it down to her throat like it was a line he'd drawn once and could still trace. Somewhere in the willows above them a bird moved, and the shadow broke for a second, and went still.
 
@@ -800,7 +800,7 @@ The moon came up out of the trees, not full, not new — the fat crescent that h
 
 "I'll get the paint," Annabeth said. "You get the ten minutes."
 
-He turned, and kissed her, and it was the third kind of kiss they owned — not the mess-hall one that broke like weather, and not the willow one that took its time — but the one that belonged to night water: slow, warm at the top, cool underneath, with the moon-road bright on the lake beside them and the whole day folded into it. Her hand came up and rested at the back of his neck, and his held its place at her jaw like it had been built there, and the lake kept its silence around the dock with the discretion of a good witness.
+He turned, and kissed her, and it was the third kind of kiss they owned — not the dawn-dock one, broken open by first light and approaching footsteps, and not the willow one that took its time — but the one that belonged to night water: slow, warm at the top, cool underneath, with the moon-road bright on the lake beside them and the whole day folded into it. Her hand came up and rested at the back of his neck, and his held its place at her jaw like it had been built there, and the lake kept its silence around the dock with the discretion of a good witness.
 
 They came back out of it by degrees, foreheads down, breathing the same cooled air off the surface.
 

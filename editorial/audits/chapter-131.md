@@ -1,6 +1,6 @@
 # Chapter 131 editorial screening: Cabin Three at Night
 
-**Source:** [Chapter 131](../../chapters/131-cabin-three-at-night.md), git blob `699a2bc00bae08a74f00530a67f56c28c6471fb8`. **Approximate body words:** 4,464. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 131](../../chapters/131-cabin-three-at-night.md), pre-expansion git blob `699a2bc00bae08a74f00530a67f56c28c6471fb8` at 4,464 body words. **Current body words:** 10,119 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

@@ -1,6 +1,6 @@
 # Chapter 117 editorial screening: A Day Apart
 
-**Source:** [Chapter 117](../../chapters/117-a-day-apart.md), git blob `b7b088d8edc97ba1ec42ec9e60e9c9d6b68ca702`. **Approximate body words:** 4,916. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 117](../../chapters/117-a-day-apart.md), pre-expansion git blob `b7b088d8edc97ba1ec42ec9e60e9c9d6b68ca702` at 4,916 body words. **Current body words:** 10,163 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

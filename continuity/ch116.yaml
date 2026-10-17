@@ -1,0 +1,82 @@
+chapter: 116
+title: "Cabin Three Rules"
+source: "chapters/116-cabin-three-rules.md"
+status: "expanded; body count and chapter-specific handoff verified; independent style review pending"
+chronology:
+  - "Opens the morning after Chapter 115; no calendar date, season, year, or exact elapsed time is supplied."
+  - "The chapter moves from morning in Cabin Three through breakfast, cabin planning and patch work, and closes before dinner on the same day."
+  - "Chapter 117 begins the next morning; do not infer a calendar date."
+pov: "Third-person limited, Percy throughout; scene breaks use standalone dividers."
+scene_locations:
+  - "Cabin Three"
+  - "Cabin Three porch and practice patch"
+  - "Camp path and table area"
+participants:
+  - "Percy"
+  - "Clarisse"
+  - "Silena"
+  - "Tyson (visiting; not a Cabin Three resident)"
+  - "Annabeth"
+  - "Thalia"
+  - "Chiron"
+directly_witnessed:
+  - "Percy reads a damp letter from Triton about palace repairs and a mischievous hippocamp. The spear interruption leaves him with part of the letter unread until later in the chapter. Percy writes a question in its margin, refolds it, and stores it; the letter is not sent."
+  - "Clarisse's practice spear strikes the driftwood beam above Percy's worktable after her thrown line is cluttered by a practice rope left across the path. No one is injured. The beam is punctured and splintered."
+  - "The siblings discuss chores, shared training access, equipment care, guest boundaries, and quiet time. They draft and mount a Cabin Three rules board with a chores rota, training sign-up, patch map, visitor terms, and quiet-hour agreement. During a later footwork check, a stone boundary marker rolls toward the path and the target obscures a flag from the cabin approach; the group relocates the marker, checks both sightlines, and records that check on the map."
+  - "Percy, Clarisse, and Silena remove the rope from the path, reposition and mark its storage/working route, find a discarded wrist guard, and restore equipment to its marked place. Clarisse accepts responsibility for leaving the setup out and for the unsafe throw; Percy and Clarisse report the near miss to Chiron."
+  - "Chiron inspects the beam and finds no structural split. He requires a hardwood plug after the wood dries, and keeps throwing suspended until he separately inspects the target, net, and backstop. These repairs/checks are pending at chapter end."
+  - "The worktable is moved to the wall opposite the window; chairs are placed to keep the door route clear. The laundry basket gets a marked place beneath the side table."
+  - "Clarisse may do footwork but no throws until Chiron's checks are complete. The siblings revise the map after finding their first drill boundary wrong for the moved post. Percy and Clarisse complete one agreed chore swap; Percy sweeps the patch and Clarisse the entry."
+  - "Tyson visits with oranges and sponges. The cabin rules apply to the three residents; Tyson is welcome, is not assigned chores, and may choose to help without needing to earn the visit."
+  - "A daily 2–3 p.m. quiet hour is agreed, shiftable for the day only by mutual agreement. A blue cloth on the hook signals that it is active; emergency entry is allowed. The formal hour has not yet been tried. Percy separately asks to finish reading his letter, and his siblings respect the request."
+reported_facts:
+  - fact: "Triton's letter describes palace repairs and a hippocamp that opens doors."
+    source: "Percy's direct reading of the letter; exact route, dates, and further Atlantis plans are not established."
+private_or_remembered_facts:
+  - "Only Percy and Annabeth retain memories of their erased future. Neither discloses them to Clarisse, Silena, Tyson, Thalia, or Chiron."
+  - "No one in this chapter is told about Percy's missing autobiographical access to his altered childhood. Amphitrite is not present or informed."
+relationships:
+  - pair: "Percy / Clarisse / Silena"
+    state: "Poseidon siblings in Cabin Three. They begin a negotiated shared-space agreement. Clarisse retains her direct voice and may decline or negotiate; Silena can decline chores and Percy can request quiet without the need being put to a vote."
+  - pair: "Percy / Annabeth"
+    state: "Established romantic partners. Annabeth contributes as a visitor and supports Percy's choices; age-appropriate, nonsexual affection only. No erased-future disclosure."
+  - pair: "Thalia / Annabeth"
+    state: "Zeus/Grace sisters, present briefly as visitors; no new memory disclosure or status change."
+items_promises_injuries:
+  - item_or_event: "Cabin Three rules board and paper rota"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "mounted beside the door; initial schedule and task records added"
+  - item_or_event: "Practice rope, net and target"
+    owner_or_people: ["Clarisse", "Percy", "Silena"]
+    current_status: "rope removed from the path and coiled after use; visible markers and a clear route established. Throwing remains paused pending Chiron's target/net/backstop check."
+  - item_or_event: "Cabin beam puncture"
+    owner_or_people: ["Clarisse", "Percy", "Chiron"]
+    current_status: "Chiron found no structural split; hardwood plug and sealant remain pending after the wood dries. No repair is shown before chapter end."
+  - item_or_event: "Triton's letter"
+    owner_or_people: ["Percy"]
+    current_status: "read, refolded, and stored; a question about which palace latch won is penciled in the margin; not sent"
+  - item_or_event: "Cabin layout"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "table relocated away from the struck beam; doorway and walkway kept clear; laundry basket marked beneath side table"
+  - item_or_event: "Quiet-hour agreement"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "daily 2–3 p.m. planned, with blue-cloth signal; first formal trial is tomorrow and remains untested"
+unknowns:
+  - "Exact date, season, year, and elapsed time remain unknown."
+  - "Chiron's promised beam plug and separate target/net/backstop inspection are not completed on-page; do not infer a passed check."
+  - "The board's Sunday check-in is planned but not yet held."
+  - "Percy has not sent or received a reply to Triton's letter."
+next_chapter:
+  chapter: 117
+  opening_checked: true
+  locator: "chapters/117-a-day-apart.md#L3-L13"
+  handoff: "The following morning, Percy and Annabeth agree to spend the day on separate plans and meet for dinner. Chapter 117 follows Percy's work with Clarisse and Silena at Tempest Hall and Annabeth's porch study with Thalia. Cabin Three's new board and pending beam/net checks remain in force; Chapter 117 does not establish that Chiron completed them."
+qa:
+  body_words: 10088
+  body_count_method: "scripts/audit_chapter_length.py; whitespace-separated body words, excluding headings, standalone dividers, and Markdown comments"
+  previous_chapter_closing_scene_checked: true
+  next_chapter_opening_checked: true
+  prior_life_memory_boundary_checked: true
+  chronology_and_props_checked: true
+  full_manuscript_duplicate_scan: "Final local QA on 2026-10-17: zero exact matches across 1,941,329 chapter-only windows and 2,091,881 bonus-inclusive windows in 196 files."
+  independent_scene_semantic_and_style_review: "pending"

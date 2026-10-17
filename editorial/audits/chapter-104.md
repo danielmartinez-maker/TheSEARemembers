@@ -2,6 +2,8 @@
 
 **Source:** [Chapter 104](../../chapters/104-a-day-that-was-theirs.md), git blob `935a6f209e8d8ea6fe5192c53d84a411a738a2e6`. **Approximate body words:** 1,818. **Status:** Screening only; manuscript unchanged.
 
+**Current version note (2026-10-17):** The screening below predates the expanded source and is retained as historical review context. The current Chapter 104 contains 10,117 body words by `scripts/audit_chapter_length.py` and passes the 10,000-word gate. The approximate count and any structural-seam/length findings below are superseded; other prompts are not a current full-chapter re-audit.
+
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
 ## Chapter-specific focus

@@ -22,7 +22,7 @@ Annabeth opened her sketchbook. “I’ll draw what I notice. Tell me if there�
 
 Annabeth marked that in her sketchbook and followed Percy through the west doors.
 
-The hallway was cool and pale, lit by blue glass lamps. Percy knew the little dip in the floor from a storm long ago and the shell-shaped mark near the third column; his feet remembered the route.
+The hallway was cool and pale, lit by blue glass lamps. Percy recognized the little dip in the floor and the shell-shaped mark near the third column; his feet remembered the route.
 
 “The nursery’s past the family rooms,” he said, taking the turn without looking.
 

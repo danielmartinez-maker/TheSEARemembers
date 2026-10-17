@@ -1,6 +1,6 @@
 # Chapter 114 editorial screening: The Space Between
 
-**Source:** [Chapter 114](../../chapters/114-the-space-between.md), git blob `3caa59b045d6a8d18ab705c6d022b744e4f87998`. **Approximate body words:** 777. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 114](../../chapters/114-the-space-between.md), pre-expansion git blob `3caa59b045d6a8d18ab705c6d022b744e4f87998` at 777 body words. **Current body words:** 10,005 by the repository counter. The screening below predates the expansion; it is not a full review of the current chapter. The prior short-chapter concern is superseded; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -18,7 +18,7 @@ The short chapter ends an unusual compressed sequence; verify the handoff to the
 
 ## Mechanical and continuity flags
 
-- **Confirmed structural seam:** Chapter 114 is only 777 body words; Chapters 101–114 are much shorter than adjacent volumes. Decide whether to retain as a titled interlude, join with an adjacent scene, or expand meaningfully.
+- **Historical structural flag:** the pre-expansion Chapter 114 was 777 body words. The current chapter passes the 10,000-word gate; this does not certify the quality of the new scenes.
 - **Continuity names:** Triton ([L11](../../chapters/114-the-space-between.md#L11)), Zeus ([L97](../../chapters/114-the-space-between.md#L97)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
 
 ## Canon boundaries and follow-through

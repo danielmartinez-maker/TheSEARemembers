@@ -1,0 +1,26 @@
+# Chapter 115 handoff: The Old Photograph
+
+**Source:** `chapters/115-the-old-photograph.md` on the PR #103 worktree. **Body words:** 10,062 by `scripts/audit_chapter_length.py` (whitespace-separated body words; Markdown headings and standalone scene dividers excluded). **Status:** Expanded and count-verified; final local full-manuscript duplicate QA passes. Broader semantic/style review and hosted Actions remain pending.
+
+## Exact chapter boundaries
+
+- **Chapter 114 closes:** Percy is alone in Cabin Three at night with the folded private note about Triton's song. He decides not to turn the melody into a question for anyone else. Chapter 114 does not establish the date or identify the old photograph.
+- **Chapter 115 opens:** The next chapter opens in the morning with Annabeth and Thalia repairing the Zeus-cabin history shelf. Annabeth finds a folded photo of the three Grace siblings behind its backboard. No exact calendar date, season, year, or elapsed time is supplied.
+- **Chapter 116 opens:** The following morning opens in Cabin Three with Percy reading a damp letter from Triton. Clarisse's practice spear enters through the window and strikes the beam above him; Silena checks the siblings, and they begin a conversation about shared cabin space, chores, training, and quiet time. The opening does not mention the photo or establish whether Annabeth has checked the display.
+
+## Witnessed, reported, and unknown
+
+- **Directly witnessed:** Annabeth and Thalia repair the Zeus-cabin shelf. Annabeth finds the photograph showing Thalia, Annabeth, and toddler Jason; its back reads *The whole crew. Safe harbor, at last.* The photo is visibly folded and faded. Thalia sees it with Annabeth; Percy is shown it at breakfast. Chiron examines only the protective pane's edge while Annabeth looks at the image through her open notebook, so whether Chiron sees the photograph itself is unknown. Annabeth later measures a loose weather-vane bracket, makes a cedar frame with Percy, retrieves a pane with Thalia, and displays the old photo beside the later Camp Jupiter visit photo, which shows Jason holding a drawing. Annabeth accepts a slightly uneven but stable frame corner. The new frame protects the photo with a paper mat and glass; no adhesive touches the print.
+- **Thalia reports:** The photograph was taken at a laundromat stop on the way to the coast. A flooded curb delayed the bus. Annabeth was four, played captain with a paper boat, and assigned Thalia as lookout; Thalia fished the boat from a puddle. Jason was too young to join the game and tried to chew basket handles. Thalia says Mom took the picture with a disposable camera and wrote the back inscription. Thalia first kept the picture because it was portable, then because she liked it. Annabeth does not claim these as her own memories.
+- **Chiron's limited knowledge:** He examines the pane's edge, then advises Annabeth about protecting old paper, including leaving room for a photograph to move, keeping edge tape in place, using a paper mat, and avoiding direct sunlight. Annabeth looks at the image through her open notebook; whether Chiron sees it is not established. The chapter does not tell him the photo's story or disclose the sisters' memory boundaries.
+- **Memory boundary:** Annabeth continues to remember her Athena-cabin life, but has no first-person recollection of this laundromat day. Thalia's childhood account remains secondhand knowledge for Annabeth. Percy and Annabeth alone hold erased-future memories; they do not reveal them. Percy and Annabeth remain established romantic partners.
+- **Unknown:** The chapter supplies no date/season/year or exact gap from Chapter 114. Thalia attributes the camera and handwriting to Mom but does not name her in dialogue. Whether Percy hears every detail of the porch account is not established; no broader camper audience is shown receiving its story. The later Camp Jupiter photo is identified, but the specific supervised visit and its date, as well as its exact interval after the relay, are not established here. The following-day shelf check and the weather-vane repair are not shown.
+
+## Carry forward
+
+- The old photograph remains on the lower Zeus-cabin shelf beside the later sibling photograph at the end of Chapter 115; books were moved lower and the helmet was placed under the table. Annabeth says she will check the display the next day, but the Chapter 116 opening does not resolve that check.
+- Chapter 114's gutter plan remains pending: no flow test, digging, or permanent repair occurs in Chapter 115. Preserve Katie's bed boundary and the agreement to show Chiron before digging.
+- The song's source remains unresolved, and the folded Percy note remains separate from the photo events.
+- Keep Thalia's account attributed to Thalia. Do not convert it into an Annabeth memory or make Percy a witness to details not confirmed as heard.
+
+**Continuity sidecar:** `continuity/ch115.yaml` records direct observations, Thalia's report, knowledge boundaries, and open questions separately.

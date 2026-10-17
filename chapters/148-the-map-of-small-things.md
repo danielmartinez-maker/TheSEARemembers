@@ -392,7 +392,7 @@ And Annabeth paid attention. She paid attention to the camp and the lake and the
 
 ---
 
-One evening, a month after the map went up, Annabeth was sitting at the pavilion table with her notebook open and her pencil moving, and a shadow fell across the page.
+Later, after the map had become a camp routine, Annabeth was sitting at the pavilion table with her notebook open and her pencil moving, and a shadow fell across the page.
 
 She looked up. It was a girl — maybe ten years old, with dark skin and braids and the kind of serious expression that meant she'd been thinking about something for a long time and had finally decided to ask.
 
@@ -522,9 +522,9 @@ Percy looked at the table — the young mapmakers bent over their notebooks, arg
 
 ---
 
-The map proved its worth three days later, and it proved it in a way nobody expected.
+Nine days into Olive's mapmaking, the map proved its worth in a way nobody expected.
 
-Olive was the one who found it. She was nine days into her mapmaking — or rather, she was nine days into her noticing, because Annabeth had been careful to teach noticing first and drawing second — and she came running across the pavilion with her red notebook clutched to her chest and her face doing the thing it did when she'd seen something important that nobody else had.
+Olive was the one who found it. She had learned to notice before drawing, because Annabeth had been careful to teach noticing first, and she came running across the pavilion with her red notebook clutched to her chest and her face doing the thing it did when she'd seen something important that nobody else had.
 
 "Annabeth," Olive said. "Annabeth. The north path."
 
@@ -582,7 +582,7 @@ She sat at the pavilion table one evening with her notebook and her pencil and h
 
 ---
 
-The map had been on the wall for a month when Silena came to see Annabeth about it.
+After the north-path repair, Silena came to see Annabeth about the map.
 
 She came at the end of the afternoon, when the pavilion was still warm and the camp was in that between-hours quiet before dinner, and she sat down across from Annabeth with her hands wrapped around a mug of something steaming and her expression doing the thing it did when she was working up to something.
 
@@ -1040,7 +1040,7 @@ Annabeth added a date and a small revision mark at the bottom. She knew some cam
 
 That night she put the original map in a flat drawer in the Big House, with a note explaining which copy was on public display. She didn't love drawing a blank where she knew something existed. She liked even less the idea that an accurate map might send someone straight into a place that depended on being left alone.
 
-A month after the map went up, Chiron called Annabeth to his office.
+Later, Chiron called Annabeth to his office.
 
 She went. She sat in the chair across from his desk. She waited.
 

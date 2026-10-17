@@ -146,18 +146,18 @@ qa:
   duplicate_scan_pass: true
   manuscript_structure_pass: true
   character_memory_regression_pass: true
-  source_anchored_memory_checks: 32
-  chapter_only_duplicate_windows: 1812817
+  source_anchored_memory_checks: 36
+  chapter_only_duplicate_windows: 1941329
   chapter_only_duplicate_matches: 0
   all_markdown_files: 196
-  all_markdown_body_words: 2021674
-  all_markdown_duplicate_windows: 1963369
+  all_markdown_body_words: 2150186
+  all_markdown_duplicate_windows: 2091881
   all_markdown_duplicate_matches: 0
   indexed_chapters: 193
   ordered_chapters: 193
-  length_passing_chapters: 176
-  short_chapters: 17
-  missing_body_words: 124761
+  length_passing_chapters: 193
+  short_chapters: 0
+  missing_body_words: 0
   evidence_index_records: 193
   python_compile_pass: true
   whitespace_check_pass: true

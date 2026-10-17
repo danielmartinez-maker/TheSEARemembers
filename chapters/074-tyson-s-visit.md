@@ -904,15 +904,15 @@ Percy blinked. Water dripped off his eyelashes. "What?"
 
 Percy's face went furnace-hot. He was deeply grateful for the dark. "Oh. Uh. Yeah. Yeah, she — she's my girlfriend. We're together. Since we found each other here last January. And longer in the life we remember."
 
-Tyson's grin was sunrise-bright. "I knew! I told them yes! I said my brother has pretty smart girlfriend who loves him very much!"
+Tyson's grin was sunrise-bright. "Now I know! I can tell them yes when I go home. My brother has a pretty smart girlfriend who loves him very much!"
 
-"You — you already told them yes?" Percy sputtered, laughing despite himself. "Then why'd you ask?"
+"You wanted to check with me before telling them?" Percy asked, laughing despite himself.
 
-"To make sure I was right," Tyson said simply. "I am happy, Percy. You smile bigger when she is near. Like sun comes out. Before, you smiled, but tired. Now you smile awake."
+"Yes. I wanted to be sure before I tell them," Tyson said simply. "I am happy, Percy. You smile bigger when she is near. Like sun comes out. Before, you smiled, but tired. Now you smile awake."
 
 Percy ducked his head, his ears burning. He trailed his hand in the water. "Yeah," he said quietly. "She ... she makes everything better. Even bad stuff feels ... survivable, with her. She believes in me even when I'm being an idiot. Especially then."
 
-"She did," Percy said, shy and proud. "Do you kiss her back?" Tyson asked.
+"Do you kiss her back?" Tyson asked.
 
 Percy snorted. "Yeah, T. I kiss her back."
 

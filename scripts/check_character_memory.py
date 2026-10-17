@@ -83,6 +83,11 @@ CHECKS = {
                    "Every Aphrodite instinct in the arena had perked up",
                    "He would arrive in about ten minutes"),
     },
+    "chapters/074-tyson-s-visit.md": {
+        "present": ("Now I know! I can tell them yes when I go home.",
+                    "I wanted to be sure before I tell them,"),
+        "absent": ("I knew! I told them yes!", "You — you already told them yes?"),
+    },
     "chapters/076-the-promise-ii.md": {
         "present": ("The older shrine was tucked",
                     "not claim a life she has not lived",
@@ -211,15 +216,21 @@ CHECKS = {
     },
     "chapters/126-the-palace-below.md": {
         "present": ("Not in person", "He had drawn the blue house",
-                    "You were very determined about your lessons"),
+                    "You were very determined about your lessons",
+                    "I could love you without asking to be loved in her place."),
         "absent": ("telling Amphitrite about Sally’s kitchen in the life I remember",
                    "We wrote to one another before she died",
                    "I kept that letter for a long time",
-                   "I wish I remembered."),
+                   "I wish I remembered.",
+                   "Percy told Amphitrite that he remembered another life",
+                   "Percy told Amphitrite that he could not remember his childhood in Atlantis"),
     },
     "chapters/127-guest-and-beloved.md": {
-        "present": ("We can learn who you are now", "wish being here felt easier"),
-        "absent": ("missing years are not a debt you owe me",),
+        "present": ("We can learn who you are now", "wish being here felt easier",
+                    "Why would I want them all to belong to me in the same way?"),
+        "absent": ("missing years are not a debt you owe me",
+                   "Percy told Amphitrite that he remembered another life",
+                   "Percy told Amphitrite that he could not remember his childhood in Atlantis"),
     },
     "chapters/095-annabeth-sick.md": {
         "present": ("Will had cleared Percy to return to ordinary drills after a full day without fever",

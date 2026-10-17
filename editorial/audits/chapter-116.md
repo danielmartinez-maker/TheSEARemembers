@@ -1,6 +1,6 @@
 # Chapter 116 editorial screening: Cabin Three Rules
 
-**Source:** [Chapter 116](../../chapters/116-cabin-three-rules.md), git blob `a3cddac2ac96e136131cdbf2f62624a0e48af198`. **Approximate body words:** 4,771. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 116](../../chapters/116-cabin-three-rules.md), pre-expansion git blob `a3cddac2ac96e136131cdbf2f62624a0e48af198` at 4,771 body words. **Current body words:** 10,088 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

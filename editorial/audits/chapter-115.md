@@ -1,6 +1,6 @@
 # Chapter 115 editorial screening: The Old Photograph
 
-**Source:** [Chapter 115](../../chapters/115-the-old-photograph.md), git blob `aa23932cd95ddd251d228e95a5a4ff79d4427c0b`. **Approximate body words:** 4,218. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 115](../../chapters/115-the-old-photograph.md), pre-expansion git blob `aa23932cd95ddd251d228e95a5a4ff79d4427c0b` at 4,218 body words. **Current body words:** 10,062 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

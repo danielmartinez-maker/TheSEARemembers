@@ -3795,14 +3795,14 @@
       "path": "chapters/032-triton-visits.md",
       "title": "Chapter 32: Triton Visits",
       "name_mentions": {
-        "Percy": 129,
+        "Percy": 136,
         "Annabeth": 36,
         "Thalia": 20,
-        "Clarisse": 38,
-        "Silena": 26,
-        "Amphitrite": 5,
+        "Clarisse": 39,
+        "Silena": 27,
+        "Amphitrite": 6,
         "Poseidon": 16,
-        "Triton": 149,
+        "Triton": 153,
         "Tyson": 4,
         "Sally": 1,
         "Chiron": 18,
@@ -3890,7 +3890,7 @@
           "excerpt": "\"I want him to know I remember him,\" Triton said."
         },
         {
-          "line": 889,
+          "line": 903,
           "named": [
             "Percy",
             "Triton"
@@ -8845,7 +8845,7 @@
       "path": "chapters/074-tyson-s-visit.md",
       "title": "Chapter 74: Tyson's Visit",
       "name_mentions": {
-        "Percy": 190,
+        "Percy": 189,
         "Annabeth": 50,
         "Thalia": 31,
         "Clarisse": 70,
@@ -12254,11 +12254,12 @@
       "path": "chapters/102-not-a-competition.md",
       "title": "Chapter 102: Not a Competition",
       "name_mentions": {
-        "Percy": 33,
-        "Annabeth": 25,
-        "Clarisse": 15,
-        "Silena": 10,
-        "Poseidon": 1
+        "Percy": 156,
+        "Annabeth": 107,
+        "Clarisse": 93,
+        "Silena": 61,
+        "Poseidon": 1,
+        "Chiron": 3
       },
       "event_cues_for_manual_review": [
         {
@@ -12325,11 +12326,34 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 117,
+          "line": 115,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "\"Maybe I'm a little jealous,\" Percy said. The words felt smaller than the scene they had made in his head. \"Maybe I saw her teaching him and got stuck on the fact that he gets to meet her now, in a way I didn't. The version of her he sees d"
+        },
+        {
+          "line": 535,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy managed a small smile. \"I know you're with me because you choose to be. I just—sometimes I forget that we’re both adjusting to this. We remember the same years, but people here know a childhood you can’t recall. Maybe I worry that som"
+        },
+        {
+          "line": 664,
+          "named": [
+            "Percy",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "He let that be the end of it. Silena asked Clarisse whether the shield straps had been checked. Clarisse said she would check them after lunch, and Silena reminded her to leave the cracked practice one aside. Percy asked which one was crack"
+        },
+        {
+          "line": 1211,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "Clarisse took the shield back long enough to loosen the strap, then returned it. She didn't tell him what he had done wrong until he asked."
         }
       ],
       "event_witnesses_verified": false,
@@ -12344,81 +12368,105 @@
       "path": "chapters/103-the-things-we-remember.md",
       "title": "Chapter 103: The Things We Remember",
       "name_mentions": {
-        "Percy": 16,
-        "Annabeth": 21,
-        "Thalia": 8,
-        "Silena": 4,
+        "Percy": 67,
+        "Annabeth": 103,
+        "Thalia": 67,
+        "Clarisse": 8,
+        "Silena": 19,
         "Poseidon": 1,
-        "Sally": 1
+        "Sally": 1,
+        "Chiron": 5
       },
       "event_cues_for_manual_review": [
         {
-          "line": 5,
-          "named": [
-            "Percy",
-            "Annabeth"
-          ],
-          "excerpt": "Percy recognized the handwriting before he saw the name. Annabeth had written it at the library the day before, then tucked it into his book when he wasn't looking. He found it between chapters on Greek temple roofs and carried it around fo"
-        },
-        {
-          "line": 23,
+          "line": 7,
           "named": [
             "Percy"
           ],
-          "excerpt": "Percy read it once, then again, then a third time. He folded it along the same creases and put it carefully in his pocket."
+          "excerpt": "The problem wasn't that she didn't know what to say. She knew too much. She could list the first time Percy made her laugh, and the first time he made her furious, and the many years between those two facts. There were memories she wanted t"
         },
         {
-          "line": 31,
+          "line": 9,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "But none of that was new. Percy remembered it too. A letter that only proved they shared a past would not answer the question that had begun to bother her: what did she choose when she wasn't leaning on the past?"
+        },
+        {
+          "line": 11,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "\"That from Annabeth?\" she asked."
+          "excerpt": "She shut the notebook. The library window rattled once as a gust struck the shutters. Someone had left a candle burning on the far table, and the flame bent sideways before steadying. Annabeth watched it until she was sure it would not catc"
         },
         {
-          "line": 45,
-          "named": [
-            "Percy",
-            "Annabeth"
-          ],
-          "excerpt": "That was what Percy wanted to do. It was also what frightened him. Percy had loved Annabeth for years, in the life they both remembered. He was thirteen and learning how to love her in a world where she had a different childhood and a diffe"
-        },
-        {
-          "line": 65,
-          "named": [
-            "Poseidon"
-          ],
-          "excerpt": "He wrote about the time she'd corrected his map of camp, then apologized when she realized he'd drawn it from memory rather than from the orientation map. He wrote about how she made room for him at the breakfast table even when the Poseido"
-        },
-        {
-          "line": 99,
-          "named": [
-            "Percy",
-            "Annabeth"
-          ],
-          "excerpt": "Percy groaned. Annabeth laughed, and then she reached up and touched his cheek with the backs of her fingers. The gesture was so gentle he forgot what he was about to say."
-        },
-        {
-          "line": 113,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "He kissed her. It was a little longer than the one by the shrine, but still gentle. Annabeth's hand rested on his shoulder, steady and warm. When they parted, she stayed close, her forehead against his."
-        },
-        {
-          "line": 123,
+          "line": 19,
           "named": [
             "Thalia"
           ],
-          "excerpt": "Thalia noticed the letters before anyone told her about them."
+          "excerpt": "“You hiding from the construction crew?” Thalia asked."
+        },
+        {
+          "line": 33,
+          "named": [
+            "Annabeth",
+            "Thalia"
+          ],
+          "excerpt": "Annabeth gave her a look. Thalia moved farther into the room, stopped when she saw the paper beneath Annabeth's palm, and turned her attention to the map instead."
+        },
+        {
+          "line": 35,
+          "named": [
+            "Chiron"
+          ],
+          "excerpt": "“I need to check whether the west path is still clear,” she said. “Chiron wants the older campers to stop leaving boards in the grass.”"
+        },
+        {
+          "line": 79,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "She carried it to the library and waited until Percy left his book open on the table. The Greek temple diagrams were spread in front of him; he was comparing two different roof plans and pretending he understood why the second one had four"
+        },
+        {
+          "line": 87,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "The next morning, Percy noticed the folded letter where Annabeth had left it."
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 65,
+          "line": 119,
           "named": [
-            "Poseidon"
+            "Annabeth"
           ],
-          "excerpt": "He wrote about the time she'd corrected his map of camp, then apologized when she realized he'd drawn it from memory rather than from the orientation map. He wrote about how she made room for him at the breakfast table even when the Poseido"
+          "excerpt": "The memory was ordinary, which was why he trusted it. There had been no danger to push them together, no desperate promise, no terrifying choice. He had liked her there, at a table with bad diagrams, because she was Annabeth: impatient with"
+        },
+        {
+          "line": 175,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "He took that seriously. There were things he wanted to remember exactly. There were other things he didn't want to force into every conversation. He could miss the person they had been without asking this Annabeth to stand in for her."
+        },
+        {
+          "line": 227,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "After lunch, they split to their duties. Percy took the spears to the rack. Annabeth went to check the boards. Neither of them made the letter into a secret that everyone had to guard. It was private because she had written it to him, and h"
+        },
+        {
+          "line": 241,
+          "named": [
+            "Annabeth",
+            "Thalia"
+          ],
+          "excerpt": "That was true. It was also not enough. He remembered her in a world where she had grown up beneath a different cabin roof, with different people, with a history that belonged to both of them. This Annabeth had grown up with Thalia. She had"
         }
       ],
       "event_witnesses_verified": false,
@@ -12433,14 +12481,14 @@
       "path": "chapters/104-a-day-that-was-theirs.md",
       "title": "Chapter 104: A Day That Was Theirs",
       "name_mentions": {
-        "Percy": 24,
-        "Annabeth": 29,
-        "Thalia": 9,
-        "Clarisse": 7,
-        "Silena": 6,
-        "Poseidon": 1,
-        "Triton": 1,
-        "Chiron": 2,
+        "Percy": 91,
+        "Annabeth": 107,
+        "Thalia": 24,
+        "Clarisse": 24,
+        "Silena": 20,
+        "Poseidon": 2,
+        "Triton": 4,
+        "Chiron": 12,
         "Zeus": 1
       },
       "event_cues_for_manual_review": [
@@ -12483,27 +12531,60 @@
         {
           "line": 59,
           "named": [
-            "Annabeth"
+            "Annabeth",
+            "Clarisse",
+            "Chiron"
           ],
-          "excerpt": "\"You two are making this a bigger deal than it is,\" Annabeth said."
+          "excerpt": "They did not leave immediately. Annabeth had brought the map, but not the rest of the plan, and Chiron had asked for one before he approved the van. The paper was spread across the table between the honey jar and a plate Clarisse had pushed"
         },
         {
-          "line": 65,
+          "line": 61,
           "named": [
-            "Silena"
+            "Percy"
           ],
-          "excerpt": "\"In the memories you share,\" Silena said gently. \"Here, it's your first date to this beach. Let it be special.\""
+          "excerpt": "\"You made three possible routes,\" Percy said."
         },
         {
-          "line": 75,
+          "line": 73,
           "named": [
-            "Percy",
-            "Annabeth"
+            "Percy"
           ],
-          "excerpt": "The camp van smelled like pine cleaner, old fries, and the rubber mat that covered the floor. Argus drove, leaving Percy and Annabeth in the back with the map. Annabeth held it in both hands, jaw set with the concentration of a girl who cou"
+          "excerpt": "\"So we take the short walk and get fries sooner,\" Percy said."
         }
       ],
-      "possible_secret_and_memory_cues": [],
+      "possible_secret_and_memory_cues": [
+        {
+          "line": 285,
+          "named": [
+            "Annabeth",
+            "Thalia"
+          ],
+          "excerpt": "Annabeth bumped her shoulder against Thalia's. It was a small contact, not a request for permission or a promise to obey everything. Thalia let it happen without pulling her into a hug."
+        },
+        {
+          "line": 567,
+          "named": [
+            "Percy",
+            "Triton"
+          ],
+          "excerpt": "He had left out the parts he couldn't be sure of. Triton had told him stories about being small, about the first time Percy tried to swim past the boundary buoys and came back with a shell stuck to his hair. Percy had no image of it, only T"
+        },
+        {
+          "line": 569,
+          "named": [
+            "Annabeth",
+            "Triton"
+          ],
+          "excerpt": "\"You said the arch was where Triton taught you to dive,\" Annabeth said. \"Was that your memory, or something he told you?\""
+        },
+        {
+          "line": 585,
+          "named": [
+            "Thalia"
+          ],
+          "excerpt": "\"I don't remember the Athena cabin the way I remember our old one,\" she said. \"I know what it was like because I lived there. Thalia has told me little things. I remember the other cabin more clearly. The one that isn't here anymore.\""
+        }
+      ],
       "event_witnesses_verified": false,
       "secrets_verified": false,
       "relationship_changes_verified": false,
@@ -12516,12 +12597,14 @@
       "path": "chapters/105-the-place-at-the-table.md",
       "title": "Chapter 105: The Place at the Table",
       "name_mentions": {
-        "Percy": 19,
-        "Annabeth": 18,
-        "Clarisse": 25,
-        "Silena": 14,
-        "Poseidon": 1,
-        "Zeus": 1
+        "Percy": 100,
+        "Annabeth": 80,
+        "Thalia": 1,
+        "Clarisse": 154,
+        "Silena": 69,
+        "Poseidon": 3,
+        "Chiron": 1,
+        "Zeus": 2
       },
       "event_cues_for_manual_review": [
         {
@@ -12550,52 +12633,72 @@
         {
           "line": 43,
           "named": [
-            "Percy",
+            "Percy"
+          ],
+          "excerpt": "“You’ve checked this place already,” Percy said."
+        },
+        {
+          "line": 67,
+          "named": [
             "Clarisse"
           ],
-          "excerpt": "Percy recognized the panther from Clarisse's carving. It was the same one she'd given him months ago, only this version was smoother, the wings finished, the eyes picked out in dark stain."
+          "excerpt": "“They’re wrapped,” Clarisse replied."
         },
         {
-          "line": 63,
-          "named": [
-            "Silena"
-          ],
-          "excerpt": "\"Accurate,\" Silena said."
-        },
-        {
-          "line": 71,
+          "line": 77,
           "named": [
             "Percy",
-            "Annabeth",
             "Clarisse",
             "Silena"
           ],
-          "excerpt": "For a few moments the four of them stood together, wind tugging at their clothes, waves sliding over the sand. Percy understood then that Clarisse had not made them as gifts exactly. She had made them as proof: proof that she could offer so"
+          "excerpt": "Clarisse’s attention stayed on the ground. She was not looking for a threat; she was making sure the place she had chosen would work. Percy recognized the habit. Before a drill, Clarisse checked footing. Before a meal, Silena checked whethe"
         },
         {
-          "line": 83,
+          "line": 117,
           "named": [
-            "Percy",
-            "Annabeth",
-            "Clarisse"
+            "Silena"
           ],
-          "excerpt": "Percy lifted the shell he'd picked up on the walk down. Annabeth held the owl against her chest. Clarisse reluctantly picked up the panther."
+          "excerpt": "“Is that the clam?” Silena asked."
         },
         {
-          "line": 85,
+          "line": 119,
           "named": [
             "Percy"
           ],
-          "excerpt": "\"To the cabin,\" Percy said. \"And to the people in it.\""
+          "excerpt": "\"The postcard,\" Percy said. \"The clam's on it.\""
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 105,
+          "line": 557,
           "named": [
-            "Clarisse"
+            "Percy"
           ],
-          "excerpt": "Clarisse nodded. \"Good. She's not a memory.\""
+          "excerpt": "“You don’t have to promise that for the next time,” Percy said."
+        },
+        {
+          "line": 877,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "Annabeth nodded. “Then I’ll remember that.”"
+        },
+        {
+          "line": 965,
+          "named": [
+            "Percy",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "The moment passed without a hug or a promise. Silena had said what she wanted. Clarisse had asked; she had also accepted the answer. Percy thought of how easy it was to decide someone needed saving when they hesitated. It was harder to wait"
+        },
+        {
+          "line": 1291,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "The postcard remained with Annabeth. The message was already written on the one she planned to keep. She had not decided whether to send the blank one. Percy did not know what she would choose, and he did not need to know before she did."
         }
       ],
       "event_witnesses_verified": false,
@@ -12610,13 +12713,13 @@
       "path": "chapters/106-the-visit-that-wasn-t-a-test.md",
       "title": "Chapter 106: The Visit That Wasn't a Test",
       "name_mentions": {
-        "Percy": 20,
-        "Annabeth": 3,
-        "Clarisse": 29,
-        "Silena": 18,
-        "Poseidon": 18,
+        "Percy": 97,
+        "Annabeth": 11,
+        "Clarisse": 160,
+        "Silena": 133,
+        "Poseidon": 81,
         "Triton": 1,
-        "Zeus": 1
+        "Chiron": 2
       },
       "event_cues_for_manual_review": [
         {
@@ -12639,7 +12742,7 @@
           "named": [
             "Clarisse"
           ],
-          "excerpt": "Clarisse stayed by the doorway. For years, Clarisse could count his visits on one hand. Once, when she was small, he’d brought a toy trident she couldn’t lift. Once he’d asked whether she liked camp, then left before dinner. The recent pala"
+          "excerpt": "Clarisse stayed by the doorway. For years, Clarisse could count his visits on one hand. Once, when she was small, he’d brought a toy trident she couldn’t lift. Once he’d asked whether she liked camp, then left before dinner. The palace week"
         },
         {
           "line": 55,
@@ -12670,32 +12773,53 @@
           "excerpt": "\"You cheat,\" Silena said."
         },
         {
-          "line": 79,
+          "line": 67,
           "named": [
-            "Percy",
-            "Clarisse",
-            "Silena",
-            "Poseidon"
+            "Clarisse"
           ],
-          "excerpt": "Later, Percy took Poseidon to the Tempest Hall to show him the training pool. Clarisse stayed behind with Silena to clear the dishes. She was grateful for the task. It gave her something to do with her hands."
+          "excerpt": "\"I adapt,\" Clarisse said."
         },
         {
-          "line": 111,
+          "line": 71,
           "named": [
-            "Poseidon"
+            "Clarisse"
           ],
-          "excerpt": "Poseidon left before dinner."
+          "excerpt": "\"That's what the thumb was for,\" Clarisse said."
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 113,
+          "line": 125,
           "named": [
             "Percy",
             "Clarisse",
+            "Poseidon"
+          ],
+          "excerpt": "Poseidon looked at Clarisse first, though she did not know whether he meant to ask her permission or was checking whether she wanted him to stay. “If you have time,” Percy added, “I can take you there.”"
+        },
+        {
+          "line": 353,
+          "named": [
+            "Clarisse",
+            "Poseidon"
+          ],
+          "excerpt": "Poseidon glanced at Clarisse. “The water in the hall is kept separate from the lake. I did not know the camp had made a dedicated training pool.”"
+        },
+        {
+          "line": 451,
+          "named": [
+            "Clarisse",
+            "Poseidon"
+          ],
+          "excerpt": "The camper laughed and kept walking. Poseidon smiled, but Clarisse did not know whether he had found the joke funny or was relieved the moment had not become serious. She did not ask."
+        },
+        {
+          "line": 839,
+          "named": [
+            "Clarisse",
             "Silena"
           ],
-          "excerpt": "He said goodbye to each of them separately. Percy got a hug and a promise to send a message. Silena got a small vial of sea-glass beads for her jewelry. Clarisse got no gift. She was relieved and a little disappointed."
+          "excerpt": "Clarisse kept her expression still. That was easy to say. The harder part would be not treating a changed mind as a promise broken. Silena seemed to be measuring the answer herself. She finally nodded, once, as if she had accepted the words"
         }
       ],
       "event_witnesses_verified": false,
@@ -12710,90 +12834,100 @@
       "path": "chapters/107-the-words-we-choose.md",
       "title": "Chapter 107: The Words We Choose",
       "name_mentions": {
-        "Percy": 18,
-        "Annabeth": 20,
-        "Thalia": 5,
-        "Clarisse": 11,
-        "Silena": 6,
-        "Poseidon": 1,
-        "Zeus": 1
+        "Percy": 129,
+        "Annabeth": 87,
+        "Thalia": 8,
+        "Clarisse": 105,
+        "Silena": 41,
+        "Poseidon": 3,
+        "Chiron": 13,
+        "Zeus": 2
       },
       "event_cues_for_manual_review": [
         {
           "line": 3,
           "named": [
             "Percy",
-            "Annabeth"
-          ],
-          "excerpt": "Percy had said *I love you* to Annabeth before."
-        },
-        {
-          "line": 5,
-          "named": [
             "Annabeth",
             "Thalia"
           ],
-          "excerpt": "He remembered saying it in their old life, in quiet moments and in danger. He remembered saying it here too, after the eclipse disturbance struck the Hall and Thalia helped shield Annabeth. She had remembered loving him then, even through t"
+          "excerpt": "Percy had said *I love you* to Annabeth before: in their old life, and here after the eclipse disturbance struck the Hall and Thalia helped shield her. Both remembered those words. Today he wanted to say them in an ordinary moment too."
         },
         {
-          "line": 11,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "It followed him through training, where he missed three easy blocks. It followed him to the dining pavilion, where he forgot to take his plate to the fire. It followed him through the first half of Annabeth explaining an improvement to the"
-        },
-        {
-          "line": 77,
+          "line": 7,
           "named": [
             "Percy",
             "Clarisse"
           ],
-          "excerpt": "Percy almost told her. Then he remembered how Clarisse had reacted the last time she saw someone being vulnerable without warning. She'd sit with it, but she didn't always want to have it pushed at her."
+          "excerpt": "The first test came in the arena. Clarisse had set up a basic shield drill for him and two younger campers. One stepped in with a padded staff while Percy held a practice sword and tried to remember the angle Clarisse had shown them the day"
         },
         {
-          "line": 79,
+          "line": 13,
           "named": [
-            "Annabeth"
+            "Percy"
           ],
-          "excerpt": "\"I was thinking about Annabeth,\" he said."
+          "excerpt": "The first strike came toward his left shoulder. Percy moved too late. The padded staff tapped his arm."
+        },
+        {
+          "line": 15,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "“Again,” Clarisse said."
+        },
+        {
+          "line": 17,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "The second strike came from the other side. Percy saw it, knew what to do, and still raised his sword an inch too far. The staff touched his ribs."
+        },
+        {
+          "line": 39,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "“It was a mistake,” Percy said."
         },
         {
           "line": 85,
           "named": [
             "Clarisse"
           ],
-          "excerpt": "Clarisse adjusted her grip on the plank. \"Then don't make it a big performance. Tell her what you just told me.\""
+          "excerpt": "“Good. Now do it again slower,” Clarisse said. “He needs the practice too.”"
         },
         {
-          "line": 107,
+          "line": 87,
           "named": [
             "Percy",
-            "Annabeth"
+            "Clarisse"
           ],
-          "excerpt": "Annabeth had been waiting near the shrine when Percy returned. She was sitting on the low wall, sketchbook open on her knees, pretending to work while watching the path."
-        },
-        {
-          "line": 129,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "She kissed him. Percy put his hands lightly at her shoulders, giving her plenty of room to pull away. She stayed. The kiss was warm and unhurried, a little clumsy when his nose bumped hers, and full of everything they'd just said."
+          "excerpt": "They repeated the drill at half speed. Percy called the direction before the staff moved. The younger camper learned to change the angle without winding up so far. Clarisse corrected both of them, then made them switch sides. Percy helped t"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 27,
+          "line": 7,
           "named": [
-            "Annabeth"
+            "Percy",
+            "Clarisse"
           ],
-          "excerpt": "Annabeth's expression turned thoughtful. \"I remember that conversation.\""
+          "excerpt": "The first test came in the arena. Clarisse had set up a basic shield drill for him and two younger campers. One stepped in with a padded staff while Percy held a practice sword and tried to remember the angle Clarisse had shown them the day"
         },
         {
-          "line": 53,
+          "line": 515,
           "named": [
-            "Annabeth"
+            "Annabeth",
+            "Chiron"
           ],
-          "excerpt": "Annabeth leaned her shoulder against his. \"Good. Then tell me what you were going to say before the storm memory got stuck in your head.\""
+          "excerpt": "Annabeth nodded. She did not argue for a promise of access or a particular method. She held the sketch steady while Chiron finished reading it, then folded it along the crease without covering the new notes."
+        },
+        {
+          "line": 579,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "Clarisse came in carrying two training shields and a roll of leather wrap. She set them beside her bench and sat down with the carefulness of someone who had done drills before breakfast. “Did you remember your plate?”"
         }
       ],
       "event_witnesses_verified": false,
@@ -12808,11 +12942,11 @@
       "path": "chapters/108-three-things-we-keep.md",
       "title": "Chapter 108: Three Things We Keep",
       "name_mentions": {
-        "Percy": 38,
-        "Annabeth": 10,
-        "Thalia": 9,
-        "Clarisse": 44,
-        "Silena": 28,
+        "Percy": 141,
+        "Annabeth": 40,
+        "Thalia": 38,
+        "Clarisse": 160,
+        "Silena": 122,
         "Poseidon": 1,
         "Zeus": 1
       },
@@ -12877,11 +13011,34 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 249,
+          "line": 63,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "\"The rulebook starts with what people can remember when they're tired,\" Clarisse said. \"The rest can come later.\""
+        },
+        {
+          "line": 103,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "Clarisse tried it, raising her open palm. \"One signal for stop. No secret meaning.\""
+        },
+        {
+          "line": 113,
           "named": [
             "Percy"
           ],
-          "excerpt": "\"Sometimes.\" She dug the spear point into the sand. \"Then I remember you're not the reason he wasn't there. And you're not him. You're just Percy.\""
+          "excerpt": "The cowrie touched Percy's collarbone when he moved. He put the scrap in his pocket so he wouldn't lose it among the shells. It was not a charm that could make a bad drill safe. It was just a visible marker and a promise that somebody would"
+        },
+        {
+          "line": 131,
+          "named": [
+            "Percy",
+            "Clarisse",
+            "Silena"
+          ],
+          "excerpt": "That sounded like her: not a promise about every practice to come, just an honest limit for this one. Percy stepped down the tiled entry and stopped where the water reached his waist. Clarisse checked the depth along the marked edge. Silena"
         }
       ],
       "event_witnesses_verified": false,
@@ -12896,13 +13053,14 @@
       "path": "chapters/109-no-borrowed-promises.md",
       "title": "Chapter 109: No Borrowed Promises",
       "name_mentions": {
-        "Percy": 19,
-        "Annabeth": 23,
-        "Thalia": 4,
-        "Clarisse": 2,
-        "Silena": 1,
+        "Percy": 85,
+        "Annabeth": 70,
+        "Thalia": 7,
+        "Clarisse": 5,
+        "Silena": 4,
         "Poseidon": 3,
-        "Zeus": 1
+        "Chiron": 1,
+        "Zeus": 2
       },
       "event_cues_for_manual_review": [
         {
@@ -12914,81 +13072,88 @@
           "excerpt": "It was old, softened at the corners, and bent once down the middle. The image showed Percy and Annabeth as teenagers, older than they were now, standing in front of a stone building with a banner that read NEW ROME UNIVERSITY. They were smi"
         },
         {
-          "line": 9,
+          "line": 11,
           "named": [
-            "Percy",
-            "Thalia"
+            "Percy"
           ],
-          "excerpt": "The image belonged to a life she remembered and a future she could no longer take for granted. She knew the day. She remembered the sunlight, the smell of the city, Percy's stupid joke about the banner being misspelled. She remembered being"
+          "excerpt": "She could remember the day pictured. In memory, the stone building had looked paler in the sunlight, and the air carried the smells of the city around it. The banner's lettering had caught Percy's attention. He had made a joke about it bein"
         },
         {
-          "line": 35,
+          "line": 13,
           "named": [
-            "Annabeth"
+            "Percy"
           ],
-          "excerpt": "Annabeth folded her arms. \"Sometimes I feel like I'm borrowing our older promises. I still love you. But if I need a different plan now, I feel like I'm betraying everything we worked for. Like choosing you means following every instruction"
+          "excerpt": "The remembered moment did not unfold into a full account of how the photograph had been taken. There was only the pause in front of the entrance, the weight of Percy's arm around her shoulders, her own hand resting over his heart, and the a"
         },
         {
-          "line": 43,
+          "line": 15,
           "named": [
-            "Annabeth"
+            "Annabeth",
+            "Thalia",
+            "Zeus"
           ],
-          "excerpt": "Annabeth looked down at the photograph. \"The older me would have kissed you right now.\""
+          "excerpt": "The details arrived with the familiarity of something lived and the distance of something she had not lived in this body. There was no feeling of waking up inside the photograph. She knew the girl because she remembered being her. The prese"
         },
         {
-          "line": 77,
-          "named": [
-            "Percy",
-            "Annabeth"
-          ],
-          "excerpt": "Annabeth leaned in. She kissed him, slow and sure, then drew back before the moment could become too much. Percy didn't chase her. He only kept holding her hand."
-        },
-        {
-          "line": 91,
+          "line": 19,
           "named": [
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "Not all of them. Just the easy ones. The first time they met. The first time Percy made Annabeth laugh. The first time Annabeth trusted him with a plan. They laid the memories out between them like cards, noticing which still made them laug"
+          "excerpt": "Percy's bag lay open beside the table. He had been looking for a pencil, judging by the scattered paper and the ruler resting across the top. Annabeth recognized the uneven way he folded things, a habit that had been his in the remembered l"
         },
         {
-          "line": 93,
+          "line": 23,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "\"This one feels like mine,\" Annabeth said. \"The first time you brought me blue candy from the dining pavilion because you heard I liked it.\""
+          "excerpt": "The image belonged to a life she remembered and a future she could no longer take for granted. The girl in the photo was her, but not exactly the Annabeth who now stood in a Grace family and carried lightning in her body. The distinction di"
         },
         {
-          "line": 113,
+          "line": 41,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "She could feel the questions assembling themselves, each one looking for a path from the paper in front of her to a larger explanation. When had the image been printed? Where had it been kept? Had they planned to preserve it? None of those"
+        },
+        {
+          "line": 51,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "\"I like her,\" Annabeth said."
+          "excerpt": "Annabeth nodded. She did not need a theory about how the photograph got here. She needed to understand what the two of them wanted to do with it now that they had found it. The unknowns could stay unknown without becoming a test of how much"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 141,
+          "line": 11,
           "named": [
             "Percy"
           ],
-          "excerpt": "\"Memory, choice, and whether Percy is allowed to steal the last roll.\""
+          "excerpt": "She could remember the day pictured. In memory, the stone building had looked paler in the sunlight, and the air carried the smells of the city around it. The banner's lettering had caught Percy's attention. He had made a joke about it bein"
         },
         {
-          "line": 157,
-          "named": [
-            "Annabeth",
-            "Thalia"
-          ],
-          "excerpt": "Thalia didn't ask what they'd talked about. She didn't demand to see the photograph. She didn't tell Annabeth what she should feel. She simply stayed there, beside her, eating dinner."
-        },
-        {
-          "line": 159,
+          "line": 19,
           "named": [
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "Annabeth reached under the table and took Percy's hand. It was a small choice, made in the middle of ordinary noise, and it felt more like hers than any memory ever could."
+          "excerpt": "Percy's bag lay open beside the table. He had been looking for a pencil, judging by the scattered paper and the ruler resting across the top. Annabeth recognized the uneven way he folded things, a habit that had been his in the remembered l"
+        },
+        {
+          "line": 61,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "He didn't make the promise sound grand. He also didn't ask her to justify it. Annabeth noticed how much easier it was to choose privacy when she did not have to defend the choice against an imagined accusation. She had spent the first momen"
+        },
+        {
+          "line": 129,
+          "named": [
+            "Annabeth",
+            "Thalia"
+          ],
+          "excerpt": "She glanced at the photograph. \"And this isn't the only part of my life that has two versions. The girl in the picture didn't grow up with Thalia. The Annabeth who is standing here is her sister, but I don't remember the childhood that made"
         }
       ],
       "event_witnesses_verified": false,
@@ -13003,106 +13168,107 @@
       "path": "chapters/110-the-promise-we-make-now.md",
       "title": "Chapter 110: The Promise We Make Now",
       "name_mentions": {
-        "Percy": 15,
-        "Annabeth": 18,
-        "Thalia": 6,
-        "Clarisse": 8,
-        "Silena": 7,
-        "Grover": 4,
-        "Ella": 5
+        "Percy": 114,
+        "Annabeth": 96,
+        "Thalia": 48,
+        "Clarisse": 93,
+        "Silena": 50,
+        "Chiron": 2,
+        "Grover": 48,
+        "Ella": 42
       },
       "event_cues_for_manual_review": [
         {
           "line": 5,
           "named": [
-            "Percy",
-            "Annabeth",
-            "Thalia",
-            "Clarisse",
-            "Silena",
-            "Grover",
-            "Ella"
+            "Percy"
           ],
-          "excerpt": "It started with a conversation at the shrine. Annabeth had been measuring the drainage channel again, and Percy had been holding the end of the cord. Clarisse and Silena came by to return a hammer. Thalia followed with a box of spare tiles."
+          "excerpt": "Percy did not ask to see the drawing again. He had already looked when he found it in the inner pocket beside the photograph, and he knew what it showed: two figures at the lake, their shoulders touching, the shoreline drawn in a few confid"
         },
         {
-          "line": 7,
+          "line": 9,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "The breakfast tables were filling around them. Spoons clinked against bowls. Someone at the Hermes table was trying to convince a younger camper that the last piece of toast had been left there as a trap. Percy kept his hand beneath the tab"
+        },
+        {
+          "line": 15,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "\"We should make a promise,\" Annabeth said."
+          "excerpt": "“We aren’t pretending that,” Annabeth said. She drew her hand back and set the sketch carefully on top of the folded napkin. “We’re waiting for the proper check.”"
         },
         {
-          "line": 13,
+          "line": 23,
           "named": [
-            "Percy"
+            "Percy",
+            "Annabeth",
+            "Clarisse"
           ],
-          "excerpt": "\"That's a big promise,\" Percy said."
+          "excerpt": "Percy watched Annabeth’s face for the small change that meant she had decided whether Clarisse was being difficult or useful. She gave Clarisse a level look."
         },
         {
-          "line": 29,
+          "line": 25,
           "named": [
-            "Grover"
+            "Annabeth"
           ],
-          "excerpt": "Grover lifted his lemonade. \"And that nobody gets left alone at a campfire unless they ask to be.\""
-        },
-        {
-          "line": 31,
-          "named": [
-            "Ella"
-          ],
-          "excerpt": "Ella wrote each line in her notebook. \"Should we make a copy?\""
+          "excerpt": "“We can bring the open questions and make sure nobody shifts anything,” Annabeth said. “That’s all.”"
         },
         {
           "line": 33,
           "named": [
-            "Annabeth"
-          ],
-          "excerpt": "\"No,\" Annabeth said. \"Let's just say it now.\""
-        },
-        {
-          "line": 41,
-          "named": [
-            "Thalia"
-          ],
-          "excerpt": "Thalia looked at him with surprise, then said, \"I promise to protect my sister without treating her like she belongs to me.\""
-        },
-        {
-          "line": 47,
-          "named": [
+            "Clarisse",
             "Silena"
           ],
-          "excerpt": "\"That's very specific,\" Silena said."
-        }
-      ],
-      "possible_secret_and_memory_cues": [
-        {
-          "line": 7,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "\"We should make a promise,\" Annabeth said."
+          "excerpt": "Silena arrived behind her, carrying two empty bowls. “Is this a meeting, or is Clarisse arguing with the concept of a meeting?”"
         },
         {
-          "line": 13,
+          "line": 35,
           "named": [
             "Percy"
           ],
-          "excerpt": "\"That's a big promise,\" Percy said."
-        },
-        {
-          "line": 17,
-          "named": [
-            "Thalia"
-          ],
-          "excerpt": "Thalia looked at her sister. \"What kind of promise?\""
+          "excerpt": "“It’s a site visit,” Percy said."
         },
         {
           "line": 37,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "Annabeth went first. \"I promise to ask what people want instead of deciding for them.\""
+          "excerpt": "“Is it?” Annabeth asked. “We’re not doing maintenance.”"
+        }
+      ],
+      "possible_secret_and_memory_cues": [
+        {
+          "line": 5,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "Percy did not ask to see the drawing again. He had already looked when he found it in the inner pocket beside the photograph, and he knew what it showed: two figures at the lake, their shoulders touching, the shoreline drawn in a few confid"
+        },
+        {
+          "line": 125,
+          "named": [
+            "Percy",
+            "Annabeth",
+            "Ella"
+          ],
+          "excerpt": "Percy knew that feeling: wanting to make the next part easier by doing something now, before anyone could disagree about what the task was. He also knew Annabeth was not trying to take the notebook from Ella. She had asked for a pause, not"
+        },
+        {
+          "line": 139,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "Annabeth watched the group, waiting. “We could make a small agreement about how we treat each other while we work. Not a camp rule. Not a promise to fix everything. Something we can choose.”"
+        },
+        {
+          "line": 141,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "Clarisse lifted an eyebrow. “A promise?”"
         }
       ],
       "event_witnesses_verified": false,
@@ -13446,13 +13612,17 @@
       "path": "chapters/114-the-space-between.md",
       "title": "Chapter 114: The Space Between",
       "name_mentions": {
-        "Percy": 13,
-        "Annabeth": 14,
-        "Thalia": 4,
-        "Silena": 1,
-        "Poseidon": 1,
-        "Triton": 1,
-        "Zeus": 1
+        "Percy": 49,
+        "Annabeth": 105,
+        "Thalia": 78,
+        "Clarisse": 28,
+        "Silena": 31,
+        "Amphitrite": 1,
+        "Poseidon": 2,
+        "Triton": 21,
+        "Chiron": 12,
+        "Zeus": 5,
+        "Beckendorf": 1
       },
       "event_cues_for_manual_review": [
         {
@@ -13461,37 +13631,60 @@
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "She continued walking. Percy followed, feeling foolish. He wanted to understand the childhood he'd been told was his, but he couldn't turn every familiar sound into a test of what Annabeth knew."
+          "excerpt": "She continued walking. Percy let her get several steps ahead before he followed. The path curved around a stand of maples, and the library's stone wall blocked the breeze for a few yards. Annabeth tucked her hands into her sleeves. He could"
         },
         {
-          "line": 69,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "The next day, Percy asked if she wanted to hear the full song."
-        },
-        {
-          "line": 93,
+          "line": 45,
           "named": [
             "Annabeth"
           ],
-          "excerpt": "Annabeth leaned over and kissed him, a small, deliberate kiss. \"That's what I want.\""
+          "excerpt": "He wanted to understand the childhood he'd been told was his, but he couldn't turn every familiar sound into a test of what Annabeth knew. Walking beside her without asking the question again was something he could do before he knew what th"
         },
         {
-          "line": 101,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "\"We had a disagreement,\" Annabeth said. \"We talked about it.\""
-        },
-        {
-          "line": 111,
+          "line": 87,
           "named": [
             "Percy",
-            "Annabeth",
-            "Poseidon"
+            "Clarisse",
+            "Silena"
           ],
-          "excerpt": "Annabeth squeezed Percy's hand and continued toward the Poseidon cabin with him. At the path split, she leaned in and kissed his cheek."
+          "excerpt": "It didn't. The sound he heard was Clarisse telling a boy to stop leaning back in his chair before he cracked his skull. Silena was sorting the small painted labels Katie had asked her to consider for the winter herb bed. She had set the sam"
+        },
+        {
+          "line": 89,
+          "named": [
+            "Silena"
+          ],
+          "excerpt": "“You look like you lost an argument with breakfast,” Silena said."
+        },
+        {
+          "line": 117,
+          "named": [
+            "Annabeth",
+            "Clarisse"
+          ],
+          "excerpt": "Clarisse set down her cup. “Are you asking because you want to know where Annabeth learned it, or because you want to know whether your song is yours?”"
+        },
+        {
+          "line": 119,
+          "named": [
+            "Triton"
+          ],
+          "excerpt": "“It's not mine.” He stopped. “I mean, it isn't a song I wrote. But Triton said he used to sing it when I was little.”"
+        },
+        {
+          "line": 123,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "“When I was there. On the visit. He didn't say Annabeth knew it, or why.”"
+        },
+        {
+          "line": 125,
+          "named": [
+            "Clarisse",
+            "Triton"
+          ],
+          "excerpt": "Clarisse nodded once. “Then the part you know is that Triton sang it for you, and he said he used to sing it when you were little.”"
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -13508,6 +13701,21 @@
             "Percy"
           ],
           "excerpt": "\"I don't remember both childhoods, Percy. A tune sounding familiar doesn't change that.\""
+        },
+        {
+          "line": 163,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "Percy didn't protest. She had earned the right to be blunt with him. He knew how it felt when people expected him to remember a childhood other people had watched him live. The tune had touched his own uncertainty, and he'd pushed it toward"
+        },
+        {
+          "line": 219,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "That promise became harder to keep when the library opened and a pair of campers began practicing a round on the steps outside. Their voices never quite met. One boy rushed the second line, and the girl beside him kept stopping to correct t"
         }
       ],
       "event_witnesses_verified": false,
@@ -13522,15 +13730,15 @@
       "path": "chapters/115-the-old-photograph.md",
       "title": "Chapter 115: The Old Photograph",
       "name_mentions": {
-        "Percy": 23,
-        "Annabeth": 54,
-        "Thalia": 57,
-        "Clarisse": 5,
-        "Silena": 2,
-        "Jason": 10,
+        "Percy": 46,
+        "Annabeth": 124,
+        "Thalia": 119,
+        "Clarisse": 12,
+        "Silena": 8,
+        "Jason": 11,
         "Sally": 1,
         "Beryl": 1,
-        "Chiron": 1,
+        "Chiron": 10,
         "Zeus": 6,
         "Beckendorf": 1
       },
@@ -13563,7 +13771,7 @@
             "Annabeth",
             "Thalia"
           ],
-          "excerpt": "Thalia tested the shelf with her shoulder, listening for the creak that meant the screws had bitten. The wood groaned, then held, and the faint tremor traveled up through her arm into her jaw. Annabeth watched the way morning light caught t"
+          "excerpt": "Thalia tested the shelf with her shoulder. Wood groaned, then held. She stepped back, gave Annabeth a quick nod, and the loose backboard stopped trembling. Annabeth watched the way morning light caught the dust they'd disturbed, gold motes"
         },
         {
           "line": 49,
@@ -13588,7 +13796,7 @@
           "excerpt": "They finished securing the shelf together. Thalia set the helmet back on top, then — at one look from Annabeth — relocated it to the lower ledge. A limited victory. Annabeth had learned to collect those."
         },
         {
-          "line": 119,
+          "line": 121,
           "named": [
             "Thalia",
             "Jason"
@@ -13605,7 +13813,7 @@
           "excerpt": "“Sure.” Thalia reclaimed the screwdriver, twirling it once. “And I'll pretend I wasn't about to ask what you remember.”"
         },
         {
-          "line": 119,
+          "line": 121,
           "named": [
             "Thalia",
             "Jason"
@@ -13613,14 +13821,14 @@
           "excerpt": "“Don't remember it being taken,” she said. “I can picture rain, Thalia's jacket, Jason yanking my hair. But that's looking at it and filling in stories I've heard, not remembering the day.”"
         },
         {
-          "line": 323,
+          "line": 423,
           "named": [
             "Percy"
           ],
           "excerpt": "His steadiness — near without crowding, offering help instead of seizing it — made belief easy. She was choosing Percy now: not because some older memory had paired them, but because she wanted him alongside her on a sunlit path, carrying a"
         },
         {
-          "line": 407,
+          "line": 507,
           "named": [
             "Annabeth"
           ],
@@ -13639,14 +13847,15 @@
       "path": "chapters/116-cabin-three-rules.md",
       "title": "Chapter 116: Cabin Three Rules",
       "name_mentions": {
-        "Percy": 80,
-        "Annabeth": 16,
-        "Thalia": 15,
-        "Clarisse": 61,
-        "Silena": 60,
+        "Percy": 144,
+        "Annabeth": 29,
+        "Thalia": 16,
+        "Clarisse": 123,
+        "Silena": 99,
         "Poseidon": 1,
-        "Triton": 2,
-        "Tyson": 35
+        "Triton": 9,
+        "Tyson": 36,
+        "Chiron": 21
       },
       "event_cues_for_manual_review": [
         {
@@ -13718,12 +13927,27 @@
           "excerpt": "Studying the sketch, Annabeth added, “Mark shared ground and the path. Then nobody leans on memory.”"
         },
         {
-          "line": 613,
+          "line": 535,
           "named": [
+            "Percy",
             "Clarisse",
-            "Tyson"
+            "Silena"
           ],
-          "excerpt": "Tyson wanted the board to promise guests could visit chore-free. Clarisse agreed, provided visitors knocked before wandering. Guests could use cups and eat what's offered, but ask before taking the last of anything."
+          "excerpt": "No one grabbed the rope at once. The pause had the awkward shape of a rule being asked to become muscle memory. Silena folded the dishcloth into a square and set it on the table instead of taking charge of the whole repair. Clarisse shifted"
+        },
+        {
+          "line": 719,
+          "named": [
+            "Chiron"
+          ],
+          "excerpt": "“And when you make a change, write it down before relying on the memory of whoever was there.” Chiron tapped the map sleeve. “This is a good beginning. Not a substitute for watching the space.”"
+        },
+        {
+          "line": 777,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "“I'll remember,” Percy said."
         }
       ],
       "event_witnesses_verified": false,
@@ -13738,13 +13962,13 @@
       "path": "chapters/117-a-day-apart.md",
       "title": "Chapter 117: A Day Apart",
       "name_mentions": {
-        "Percy": 52,
-        "Annabeth": 45,
-        "Thalia": 38,
-        "Clarisse": 47,
-        "Silena": 32,
+        "Percy": 92,
+        "Annabeth": 71,
+        "Thalia": 56,
+        "Clarisse": 98,
+        "Silena": 76,
         "Poseidon": 1,
-        "Chiron": 6,
+        "Chiron": 20,
         "Zeus": 3
       },
       "event_cues_for_manual_review": [
@@ -13788,21 +14012,21 @@
           "excerpt": "“Like you,” Percy said."
         },
         {
-          "line": 41,
+          "line": 37,
           "named": [
             "Percy"
           ],
           "excerpt": "“No,” Percy said."
         },
         {
-          "line": 47,
+          "line": 43,
           "named": [
             "Silena"
           ],
           "excerpt": "Silena asked, “How long?”"
         },
         {
-          "line": 53,
+          "line": 49,
           "named": [
             "Clarisse"
           ],
@@ -13811,21 +14035,14 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 57,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "Percy welcomed how she railed slippery thoughts. “Okay. No dodging. No secret test. Dinner at the pavilion?”"
-        },
-        {
-          "line": 443,
+          "line": 813,
           "named": [
             "Annabeth"
           ],
           "excerpt": "Nearing the pavilion, Annabeth turned and caught his gaze. Her expression opened. Only a smile — no promise the day had dragged, no signal she'd waited, no reversal. Simply glad."
         },
         {
-          "line": 597,
+          "line": 919,
           "named": [
             "Percy",
             "Annabeth"
@@ -13960,10 +14177,10 @@
       "title": "Chapter 119: Sisters' Errand",
       "name_mentions": {
         "Percy": 4,
-        "Annabeth": 84,
-        "Thalia": 81,
+        "Annabeth": 177,
+        "Thalia": 163,
         "Silena": 1,
-        "Chiron": 5,
+        "Chiron": 15,
         "Zeus": 1
       },
       "event_cues_for_manual_review": [
@@ -14028,14 +14245,14 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 305,
+          "line": 597,
           "named": [
             "Thalia"
           ],
           "excerpt": "\"I was scared,\" Thalia said. \"I didn't know how high your fever was. I didn't know where to take you. The motel clerk had told us not to come back, and the clinic was across town. I remember you trying to sit up and me telling you no, then"
         },
         {
-          "line": 337,
+          "line": 629,
           "named": [
             "Annabeth",
             "Thalia"
@@ -14043,14 +14260,14 @@
           "excerpt": "Annabeth turned the pencil between her fingers. Thalia's death pressed on every other memory, but it wasn't the one she wanted to set between them beside a toolbox. There were other memories, less grand and still important."
         },
         {
-          "line": 339,
+          "line": 631,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"I remember you coming back,\" Annabeth said. \"After the tree.\""
         },
         {
-          "line": 341,
+          "line": 633,
           "named": [
             "Thalia"
           ],
@@ -14069,32 +14286,60 @@
       "path": "chapters/120-a-letter-from-the-sea.md",
       "title": "Chapter 120: A Letter from the Sea",
       "name_mentions": {
-        "Percy": 56,
-        "Annabeth": 23,
-        "Thalia": 9,
-        "Clarisse": 64,
-        "Silena": 49,
-        "Amphitrite": 8,
-        "Triton": 1,
-        "Chiron": 9
+        "Percy": 103,
+        "Annabeth": 52,
+        "Thalia": 16,
+        "Clarisse": 111,
+        "Silena": 99,
+        "Amphitrite": 15,
+        "Triton": 2,
+        "Chiron": 15
       },
       "event_cues_for_manual_review": [
         {
-          "line": 9,
+          "line": 6,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "“Those on top are for the kitchen,” Clarisse said, checking the apples as they walked. “The bruised ones go in the other bag.”"
+        },
+        {
+          "line": 8,
+          "named": [
+            "Silena"
+          ],
+          "excerpt": "“They're all for the kitchen,” Silena said. “Some are just better for sauce.”"
+        },
+        {
+          "line": 16,
+          "named": [
+            "Clarisse"
+          ],
+          "excerpt": "“You are taking both sides,” Clarisse said."
+        },
+        {
+          "line": 28,
+          "named": [
+            "Silena"
+          ],
+          "excerpt": "“It's a tiny mark,” Silena replied."
+        },
+        {
+          "line": 44,
           "named": [
             "Percy"
           ],
           "excerpt": "“I thought you were the one with the spear,” Percy said."
         },
         {
-          "line": 17,
+          "line": 52,
           "named": [
             "Clarisse"
           ],
           "excerpt": "“People don’t put presents in bottles,” Clarisse said."
         },
         {
-          "line": 23,
+          "line": 58,
           "named": [
             "Percy",
             "Amphitrite"
@@ -14102,46 +14347,32 @@
           "excerpt": "Percy had already crouched to pick it up. The bottle was cool, though it had been sitting in the sun. He knew the silver cord: fine as sewing thread, braided with tiny knots to keep it from slipping loose underwater. A pale shell seal cover"
         },
         {
-          "line": 27,
+          "line": 62,
           "named": [
             "Silena",
             "Amphitrite"
           ],
           "excerpt": "“Is it from Amphitrite?” Silena asked, softly now."
-        },
-        {
-          "line": 33,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "The seal gave way with a small crack. Inside was a single sheet of thick cream paper folded in thirds. A few drops of seawater clung to the glass, but the paper was perfectly dry. Percy turned it over. The handwriting on the front was unmis"
-        },
-        {
-          "line": 35,
-          "named": [
-            "Clarisse",
-            "Triton"
-          ],
-          "excerpt": "He knew her handwriting from letters since his arrival, recipes with tiny drawings of fish in the margins. Triton had told him she once tucked notes into his schoolbooks, when every day away from home was an expedition. He could picture the"
-        },
-        {
-          "line": 37,
-          "named": [
-            "Silena"
-          ],
-          "excerpt": "“You can read it to us,” Silena said. She was smiling, but her fingers had closed around the edge of her sleeve."
-        },
-        {
-          "line": 39,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "“Yeah.” Percy unfolded the paper. “I’ll read it out loud.”"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 291,
+          "line": 103,
+          "named": [
+            "Amphitrite",
+            "Triton"
+          ],
+          "excerpt": "The line about the west stairs came back to him. When he pictured them, he pictured the palace as he had seen it on recent visits: the turn in the hall, the change in the current near the landing, the sound his feet made when he ran too qui"
+        },
+        {
+          "line": 105,
+          "named": [
+            "Amphitrite"
+          ],
+          "excerpt": "The distinction sat quietly inside him. Amphitrite's affection was real whether or not he could remember every place it had lived. The paper did not ask him to manufacture a childhood. It let his mother miss a habit and let him hear that sh"
+        },
+        {
+          "line": 376,
           "named": [
             "Percy",
             "Annabeth"
@@ -14149,26 +14380,12 @@
           "excerpt": "“I remember that visit,” Annabeth said. “She fussed over Percy's bunk and gave me a bracelet when I hadn't asked for anything.” She tapped the edge of the letter. “She seems to understand that an invitation can be generous without being a d"
         },
         {
-          "line": 307,
+          "line": 392,
           "named": [
             "Percy",
             "Annabeth"
           ],
           "excerpt": "Percy did not answer at once. He could have told her she would not be. It was what he wanted to say. It was also a thing he could not guarantee. She might feel like a stranger when people used names he did not know, when the palace sounded"
-        },
-        {
-          "line": 353,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "He leaned over and kissed her, brief and warm. When they parted, she let her forehead rest against his for a moment. Percy kept hold of her hand. He did not try to turn the moment into a promise about how the visit would go."
-        },
-        {
-          "line": 471,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "Percy read the card twice. The words were true. He wanted to go. They all did, though in different ways and at different speeds. They could be excited without pretending they had settled the date. They could prepare a gift without confusing"
         }
       ],
       "event_witnesses_verified": false,
@@ -14834,7 +15051,7 @@
           "named": [
             "Percy"
           ],
-          "excerpt": "The hallway was cool and pale, lit by blue glass lamps. Percy knew the little dip in the floor from a storm long ago and the shell-shaped mark near the third column; his feet remembered the route."
+          "excerpt": "The hallway was cool and pale, lit by blue glass lamps. Percy recognized the little dip in the floor and the shell-shaped mark near the third column; his feet remembered the route."
         },
         {
           "line": 37,
@@ -15372,17 +15589,17 @@
       "path": "chapters/131-cabin-three-at-night.md",
       "title": "Chapter 131: Cabin Three at Night",
       "name_mentions": {
-        "Percy": 69,
-        "Annabeth": 14,
-        "Thalia": 11,
-        "Clarisse": 79,
-        "Silena": 60,
-        "Amphitrite": 2,
+        "Percy": 106,
+        "Annabeth": 34,
+        "Thalia": 38,
+        "Clarisse": 132,
+        "Silena": 108,
+        "Amphitrite": 4,
         "Poseidon": 2,
-        "Triton": 10,
-        "Tyson": 37,
-        "Sally": 6,
-        "Chiron": 6,
+        "Triton": 23,
+        "Tyson": 57,
+        "Sally": 9,
+        "Chiron": 7,
         "Zeus": 2,
         "Beckendorf": 1
       },
@@ -15450,33 +15667,35 @@
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 177,
-          "named": [
-            "Percy",
-            "Triton"
-          ],
-          "excerpt": "Percy looked toward the photograph above his bed, its glass catching moon. The palace lay only hours away, but the story felt close: cool stone, current's turn, Triton's book open beside the pantry door. He couldn't remember that afternoon."
-        },
-        {
-          "line": 199,
+          "line": 139,
           "named": [
             "Percy"
           ],
-          "excerpt": "Percy wanted to say he would have come if he'd known. He let the thought go; it would plant him at the memory's center where he didn't belong."
+          "excerpt": "\"He says I tried to pretend I meant to be there,\" Percy added. \"Apparently I told him I'd found a secret room. Then got mad when he asked what the secret was.\""
         },
         {
-          "line": 215,
+          "line": 213,
+          "named": [
+            "Percy",
+            "Clarisse"
+          ],
+          "excerpt": "Percy knew the shape of a story growing into a family verdict. One kind act became proof that someone was always kind, one missed cue proof that they never listened. The real memory resisted being made that tidy. He pictured no scene of his"
+        },
+        {
+          "line": 221,
           "named": [
             "Clarisse"
           ],
-          "excerpt": "\"Used to think anger meant blaming Mom,\" Clarisse added, quieter. \"She never told me to stop. Only stayed beside me. Took a while to learn I could be angry at the empty part and still know she'd done everything she could.\""
+          "excerpt": "\"Right.\" Clarisse's voice had gone quieter. \"That's the part I want to remember when I get mad at her now. Not because I owe her a nicer version. Because the true version is more complicated.\""
         },
         {
-          "line": 241,
+          "line": 233,
           "named": [
-            "Amphitrite"
+            "Percy",
+            "Clarisse",
+            "Silena"
           ],
-          "excerpt": "\"Feared her voice would fade first. Tried repeating things she used to say exactly the same, as if unchanged words could hold her close. Amphitrite never corrected attempts or said memory was enough. She listened while I got a phrase wrong,"
+          "excerpt": "The moment passed without anybody turning it into a promise. Silena rubbed warmth into her own hands around the mug. Clarisse let her fingers rest beneath Silena's. Percy picked up the cup again, though the cocoa had cooled enough that he c"
         }
       ],
       "event_witnesses_verified": false,

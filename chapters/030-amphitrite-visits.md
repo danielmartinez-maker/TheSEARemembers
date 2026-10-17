@@ -76,7 +76,7 @@ Every single camper stood up at once and stampeded for the hill.
 
 ---
 
-Percy had seen Atlantean arrivals before. Processions with dolphin guards and glowing banners and his dad in full trident-and-armor mode looking like a tidal wave in sandals.
+Percy had pictured Atlantean arrivals as processions with dolphin guards and glowing banners and his dad in full trident-and-armor mode looking like a tidal wave in sandals.
 
 This was different. This was small on purpose.
 
@@ -676,7 +676,7 @@ Inside lay a traveling *Tessera* board, its grooves painted in dark blue, the pi
 
 Amphitrite laughed. "He used to insist on playing until he won."
 
-Percy felt the familiar hesitation at *used to*. He could remember losing to her during the week before camp, but not all the games she was talking about. He picked up one red piece and looked at the channels instead of at her face.
+The words *used to* caught at him. He picked up one red piece and studied the channels instead of her face, giving her a moment to continue.
 
 "Want to teach us?" Clarisse asked.
 
@@ -700,9 +700,9 @@ Percy opened the first gate. A thin current moved the red piece toward the cente
 
 "Finally, someone understands."
 
-Amphitrite let them argue. She reached over only once to steady the board when Grover bumped it with his elbow. She looked pleased, not puzzled, to watch Percy explain a game he'd been learning again without telling anyone that was what he'd been doing.
+Amphitrite let them argue. She reached over only once to steady the board when Grover bumped it with his elbow. She looked pleased to watch Percy work through the rules with his sisters, letting them challenge each move.
 
-Annabeth watched him avoid the gate that had beaten him repeatedly in Atlantis. The small victory mattered to him more than it should have. She didn't mention why.
+Annabeth watched Percy study the channels before choosing his next move. When one of his red pieces reached the center, his pleased look was quick and private. She let him keep the moment to himself.
 
 At the third turn Silena opened a channel that carried all Percy's pieces into Clarisse's corner.
 

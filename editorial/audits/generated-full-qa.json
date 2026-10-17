@@ -312,7 +312,7 @@
     {
       "chapter": 23,
       "path": "chapters\\023-sally-s-blue.md",
-      "body_words": 10011,
+      "body_words": 10005,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -416,7 +416,7 @@
     {
       "chapter": 30,
       "path": "chapters\\030-amphitrite-visits.md",
-      "body_words": 10174,
+      "body_words": 10158,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -438,7 +438,7 @@
     {
       "chapter": 32,
       "path": "chapters\\032-triton-visits.md",
-      "body_words": 10159,
+      "body_words": 10161,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -536,7 +536,7 @@
     {
       "chapter": 40,
       "path": "chapters\\040-winter.md",
-      "body_words": 10005,
+      "body_words": 10009,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1328,106 +1328,106 @@
     {
       "chapter": 102,
       "path": "chapters\\102-not-a-competition.md",
-      "body_words": 1538,
-      "shortfall": 8462,
-      "passes_length": false,
+      "body_words": 10023,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.216,
-      "median_paragraph_words": 10
+      "dialogue_line_ratio": 0.311,
+      "median_paragraph_words": 9
     },
     {
       "chapter": 103,
       "path": "chapters\\103-the-things-we-remember.md",
-      "body_words": 1520,
-      "shortfall": 8480,
-      "passes_length": false,
+      "body_words": 10218,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [
         {
-          "line": 45,
+          "line": 145,
           "text": "That was what Percy wanted to do. It was also what frightened him. Percy had loved Annabeth for years, in the life they both remembered. He was thirteen and learning how to love her in a world where she had a different childhood and a different power"
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.14,
-      "median_paragraph_words": 14
+      "dialogue_line_ratio": 0.251,
+      "median_paragraph_words": 12
     },
     {
       "chapter": 104,
       "path": "chapters\\104-a-day-that-was-theirs.md",
-      "body_words": 1818,
-      "shortfall": 8182,
-      "passes_length": false,
+      "body_words": 10117,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.299,
-      "median_paragraph_words": 8
+      "dialogue_line_ratio": 0.367,
+      "median_paragraph_words": 7
     },
     {
       "chapter": 105,
       "path": "chapters\\105-the-place-at-the-table.md",
-      "body_words": 1350,
-      "shortfall": 8650,
-      "passes_length": false,
+      "body_words": 10033,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.296,
-      "median_paragraph_words": 10
+      "dialogue_line_ratio": 0.415,
+      "median_paragraph_words": 5
     },
     {
       "chapter": 106,
       "path": "chapters\\106-the-visit-that-wasn-t-a-test.md",
-      "body_words": 1276,
-      "shortfall": 8724,
-      "passes_length": false,
+      "body_words": 10314,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.191,
-      "median_paragraph_words": 8
+      "dialogue_line_ratio": 0.327,
+      "median_paragraph_words": 7
     },
     {
       "chapter": 107,
       "path": "chapters\\107-the-words-we-choose.md",
-      "body_words": 1514,
-      "shortfall": 8486,
-      "passes_length": false,
+      "body_words": 10085,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.258,
-      "median_paragraph_words": 9
+      "dialogue_line_ratio": 0.311,
+      "median_paragraph_words": 10
     },
     {
       "chapter": 108,
       "path": "chapters\\108-three-things-we-keep.md",
-      "body_words": 1930,
-      "shortfall": 8070,
-      "passes_length": false,
+      "body_words": 10073,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.246,
-      "median_paragraph_words": 8
+      "dialogue_line_ratio": 0.259,
+      "median_paragraph_words": 14
     },
     {
       "chapter": 109,
       "path": "chapters\\109-no-borrowed-promises.md",
-      "body_words": 1268,
-      "shortfall": 8732,
-      "passes_length": false,
+      "body_words": 10128,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.272,
-      "median_paragraph_words": 10
+      "dialogue_line_ratio": 0.259,
+      "median_paragraph_words": 15
     },
     {
       "chapter": 110,
       "path": "chapters\\110-the-promise-we-make-now.md",
-      "body_words": 1089,
-      "shortfall": 8911,
-      "passes_length": false,
+      "body_words": 11739,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.176,
-      "median_paragraph_words": 12
+      "dialogue_line_ratio": 0.304,
+      "median_paragraph_words": 10
     },
     {
       "chapter": 111,
@@ -1465,46 +1465,46 @@
     {
       "chapter": 114,
       "path": "chapters\\114-the-space-between.md",
-      "body_words": 777,
-      "shortfall": 9223,
-      "passes_length": false,
+      "body_words": 10005,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.263,
-      "median_paragraph_words": 10
+      "dialogue_line_ratio": 0.332,
+      "median_paragraph_words": 9
     },
     {
       "chapter": 115,
       "path": "chapters\\115-the-old-photograph.md",
-      "body_words": 4218,
-      "shortfall": 5782,
-      "passes_length": false,
+      "body_words": 10062,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.299,
+      "dialogue_line_ratio": 0.33,
       "median_paragraph_words": 8
     },
     {
       "chapter": 116,
       "path": "chapters\\116-cabin-three-rules.md",
-      "body_words": 4771,
-      "shortfall": 5229,
-      "passes_length": false,
+      "body_words": 10088,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.328,
-      "median_paragraph_words": 7
+      "dialogue_line_ratio": 0.31,
+      "median_paragraph_words": 9
     },
     {
       "chapter": 117,
       "path": "chapters\\117-a-day-apart.md",
-      "body_words": 4916,
-      "shortfall": 5084,
-      "passes_length": false,
+      "body_words": 10163,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.33,
-      "median_paragraph_words": 7
+      "dialogue_line_ratio": 0.317,
+      "median_paragraph_words": 12
     },
     {
       "chapter": 118,
@@ -1520,24 +1520,24 @@
     {
       "chapter": 119,
       "path": "chapters\\119-sisters-errand.md",
-      "body_words": 4790,
-      "shortfall": 5210,
-      "passes_length": false,
+      "body_words": 10179,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.349,
+      "dialogue_line_ratio": 0.342,
       "median_paragraph_words": 9
     },
     {
       "chapter": 120,
       "path": "chapters\\120-a-letter-from-the-sea.md",
-      "body_words": 4738,
-      "shortfall": 5262,
-      "passes_length": false,
+      "body_words": 10003,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.319,
-      "median_paragraph_words": 11
+      "dialogue_line_ratio": 0.311,
+      "median_paragraph_words": 13
     },
     {
       "chapter": 121,
@@ -1597,7 +1597,7 @@
     {
       "chapter": 126,
       "path": "chapters\\126-the-palace-below.md",
-      "body_words": 10097,
+      "body_words": 10092,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1608,7 +1608,7 @@
     {
       "chapter": 127,
       "path": "chapters\\127-guest-and-beloved.md",
-      "body_words": 10121,
+      "body_words": 10115,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1652,12 +1652,12 @@
     {
       "chapter": 131,
       "path": "chapters\\131-cabin-three-at-night.md",
-      "body_words": 5633,
-      "shortfall": 4367,
-      "passes_length": false,
+      "body_words": 10119,
+      "shortfall": 0,
+      "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.302,
+      "dialogue_line_ratio": 0.324,
       "median_paragraph_words": 11
     },
     {
@@ -1828,7 +1828,7 @@
     {
       "chapter": 145,
       "path": "chapters\\145-the-lake-keeps-what-it-takes.md",
-      "body_words": 14648,
+      "body_words": 14651,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1839,7 +1839,7 @@
     {
       "chapter": 146,
       "path": "chapters\\146-the-long-way-back.md",
-      "body_words": 10089,
+      "body_words": 10098,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1861,7 +1861,7 @@
     {
       "chapter": 148,
       "path": "chapters\\148-the-map-of-small-things.md",
-      "body_words": 10293,
+      "body_words": 10265,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1821169,
+  "window_comparisons": 1941329,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",
@@ -2443,9 +2443,9 @@
     "no padding",
     "prior/following chapter handoff"
   ],
-  "passing": 177,
-  "failing": 16,
-  "total_shortfall": 116854,
+  "passing": 193,
+  "failing": 0,
+  "total_shortfall": 0,
   "exact_duplicate_status": "NO_CROSS_CHAPTER_300_WORD_MATCHES",
   "editorial_status": "NOT_SEMANTICALLY_CERTIFIED"
 }

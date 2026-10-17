@@ -1,0 +1,135 @@
+chapter: 106
+title: "The Visit That Wasn't a Test"
+source: "chapters/106-the-visit-that-wasn-t-a-test.md"
+status: "expanded; 10,314 body words; repository length audit passed"
+chronology:
+  relative_time: "After Chapter 105's evening gathering. Exact calendar date, year, season, day, and elapsed interval are unknown. The scene takes place during a single daytime visit, followed by Percy and Annabeth's evening conversation."
+  sequence: "Clarisse notices the lake go quiet; Poseidon arrives; the siblings invite him to lunch; shell-current game; Percy shows Poseidon Tempest Hall; Clarisse and Silena discuss the visit and Silena's music; Poseidon returns to Cabin Three; shared conversation and tea; Poseidon leaves; Percy and Annabeth talk by the lake about the visit and her drainage sketch."
+  adjacent_gaps: "Chapter 105 leaves the interval unspecified and does not arrange this visit. Chapter 107 opens the next morning with Percy distracted by the previous evening's ordinary relationship conversation and Annabeth's shrine drainage work. This chapter adds no date or exact interval."
+pov:
+  scenes:
+    - "Clarisse La Rue, third-person limited, through Poseidon's departure and the siblings' tea and aftermath."
+    - "Percy Jackson, third-person limited, after a scene break, during his conversation with Annabeth at the lake."
+  boundary: "Clarisse does not know Percy's erased-future autobiographical memories or attribute his knowledge to them. Percy reports only his own experience of the visit and the visible conversation with Annabeth."
+scene_locations:
+  - "Poseidon cabin doorway and lake shore"
+  - "Camp lunch table beneath the shade trees"
+  - "Kitchen return and campus path"
+  - "Tempest Hall pool and connecting path"
+  - "Cabin Three common room and outside bench"
+  - "Lake shore and dock"
+participants:
+  primary: ["Clarisse", "Poseidon", "Silena", "Percy", "Annabeth"]
+  other: ["Kitchen counselor", "unnamed campers"]
+  offstage: ["Chiron", "Amphitrite", "Triton", "Tyson", "Jason", "Thalia"]
+preceding_scene_verified:
+  chapter: 105
+  locator: "chapters/105-the-place-at-the-table.md, Percy/Annabeth parting and Cabin Three close"
+  context: "Chapter 105 ends after the group beach gathering. Percy returns Clarisse's borrowed knife and takes the panther carving to his bunk; the other three figures remain on the Cabin Three common table. The separate clam postcard is sleeved and placed on Percy's shelf with the panther; the actual Montauk shell remains on the beach. Chapter 105 sets no date for Poseidon's visit."
+following_scene_verified:
+  chapter: 107
+  locator: "chapters/107-*.md, opening scene"
+  context: "The following morning Percy is distracted while trying to tell Annabeth he loves her; he misses easy blocks and forgets his plate at the fire. Annabeth then discusses her shrine drainage improvement. Chapter 106's Percy/Annabeth dock conversation precedes this morning and does not include the love declaration."
+relationship_memory:
+  - pair: "Clarisse / Poseidon"
+    last_shared_scene_chapter: 106
+    earned_trust_or_conflict:
+      - "Clarisse remembers sparse prior contact, the palace weekend in Atlantis (Chapter 086), and the Father’s Day barbecue conversation (Chapter 098); she does not frame this visit as proof the earlier history is repaired."
+      - "She invites Poseidon to lunch, questions his attention, accepts a limited conversation, and tells him he may return without demanding or promising a date."
+      - "Poseidon acknowledges he knows only pieces of Clarisse and accepts that he has not earned broader familiarity. He does not ask for forgiveness."
+    what_each_remembers_firsthand:
+      - "Clarisse and Poseidon share this chapter's lunch, camp conversation, and farewell."
+    what_each_knows_secondhand:
+      - "Clarisse hears about Percy's Tempest Hall tour only from his brief report afterward; the narration does not establish the private content of their pool conversation."
+    private_facts_not_known_to_other:
+      - "No erased-future memory is disclosed to Poseidon or Clarisse. Amphitrite remains unaware of Percy's memory gap."
+    new_change_this_chapter: "Clarisse permits a bounded present-day visit and considers—but does not promise—a future carving lesson."
+    future_callback_required: "Do not treat one visit as forgiveness, repair, or a scheduled return. Poseidon's intention to send Percy a message has no date or shown fulfillment here."
+  - pair: "Clarisse / Silena"
+    last_shared_scene_chapter: 106
+    earned_trust_or_conflict:
+      - "Silena chooses what she will tell Poseidon about her possible rehearsal and keeps her note. Clarisse lets Silena decide without making the choice for her."
+      - "Silena states she may change her mind and that one afternoon should not require the siblings to be happy. Clarisse accepts this."
+    what_each_remembers_firsthand:
+      - "The lunch, shared cleanup, menu board work, conversation, and tea after Poseidon's departure."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Silena tells Poseidon she will post a rehearsal on the amphitheater board if she schedules one; she does not promise him attendance or share a performance."
+    future_callback_required: "Rehearsal remains unscheduled and Poseidon has no permission to attend unless Silena chooses to invite him. Her note stays in her drawer."
+  - pair: "Percy / Poseidon"
+    last_shared_scene_chapter: 106
+    earned_trust_or_conflict:
+      - "Percy shows Poseidon Tempest Hall's training pool and talks with him about its cracked tile, drain, and Percy liking the pool when it is quiet."
+      - "Poseidon says he will send Percy a message directly; no date, content, or fulfillment is shown."
+      - "Percy does not tell Clarisse or Annabeth that Poseidon has fulfilled the promise."
+    what_each_remembers_firsthand:
+      - "Their visit to Tempest Hall and their own conversation."
+    what_each_knows_secondhand:
+      - "Clarisse and Silena see them return and hear Percy's limited account; Annabeth hears Percy's account of the visit later."
+    private_facts_not_known_to_other:
+      - "The chapter does not reveal the full Tempest Hall conversation."
+    new_change_this_chapter: "They share a small current-timeline visit, while Percy leaves the promise's reliability open until time provides evidence."
+    future_callback_required: "Do not convert the message promise into a date or completed contact without a later scene."
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 106
+    earned_trust_or_conflict:
+      - "They talk at the lake after the visit; Percy shares what happened and what he does not know about his father's promise."
+      - "Annabeth listens without deciding what the visit means for Clarisse, Silena, Percy, or Poseidon. They review her drainage sketch, agree Percy may join a site check the next day, and share familiar affection and a kiss."
+      - "This is not the love declaration Percy struggles to make in Chapter 107."
+    what_each_remembers_firsthand:
+      - "Their conversation and the shared review of Annabeth's drainage sketch."
+    what_each_knows_secondhand:
+      - "Annabeth hears about Poseidon's visit from Percy; she was not present for it."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "They make a small shared plan to inspect the shrine drainage site, and Percy is honest about uncertainty without asking Annabeth to resolve it."
+    future_callback_required: "Chapter 107 follows the next morning and includes the same drainage work. Do not move the love declaration into this chapter."
+items_promises_injuries:
+  - item_or_event: "Four game shells used in the current game"
+    owner_or_people: ["Percy", "Clarisse", "Silena", "Poseidon"]
+    last_seen_chapter: 106
+    current_status: "Used with a glass of water for a camp lunch game, then returned to the shallow lake water. Ownership is not established; no lasting transfer is shown."
+  - item_or_event: "Clam postcard from Montauk"
+    owner_or_people: ["Percy"]
+    last_seen_chapter: 105
+    current_status: "Separate from the actual Montauk shell, which remains on the beach. Percy places the sleeved postcard on his shelf with the panther at the end of Chapter 105; Chapter 106 makes no callback to it."
+  - item_or_event: "Silena's sea-glass beads"
+    owner_or_people: ["Silena"]
+    last_seen_chapter: 106
+    current_status: "Silena accepts a small vial of sea-glass beads from Poseidon for her jewelry and puts it in her pocket. Later she confirms she is keeping it."
+  - item_or_event: "Silena's rehearsal note"
+    owner_or_people: ["Silena"]
+    last_seen_chapter: 106
+    current_status: "Silena keeps it in her drawer. A rehearsal has not been scheduled; Poseidon has no invitation."
+  - item_or_event: "Chalk menu board and card shim"
+    owner_or_people: ["Silena", "Clarisse"]
+    last_seen_chapter: 106
+    current_status: "Silena adjusts the board using a small card beneath one leg. Clarisse says they will return the card to the repair box the next day; completion is not shown."
+  - item_or_event: "Poseidon's message promise"
+    owner_or_people: ["Poseidon", "Percy"]
+    last_seen_chapter: 106
+    current_status: "Poseidon says he will send Percy a message directly. No timing or later fulfillment is established."
+  - item_or_event: "Annabeth's shrine drainage sketch"
+    owner_or_people: ["Annabeth", "Percy"]
+    last_seen_chapter: 106
+    current_status: "Annabeth carries her working sketch; she and Percy agree he may join her site check the next day. Chapter 107 begins with her drainage improvement."
+unresolved_tensions:
+  - "Exact date, age, and interval between Chapters 105–107 remain unspecified."
+  - "Clarisse's broader feelings about Poseidon remain unresolved; the visit does not constitute forgiveness."
+  - "Poseidon's direct message to Percy is promised but not yet sent on-page."
+  - "Silena has not scheduled a rehearsal or invited Poseidon to attend. She accepts and keeps the sea-glass beads he offers for her jewelry."
+  - "Clarisse has not committed to teaching Poseidon carving."
+  - "The repair-box card shim has not yet been returned on-page."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  chapters_086_and_098_checked_for_visit_context: true
+  original_life_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: false
+  manuscript_structure_pass: false
+  character_memory_regression_pass: false
+  whitespace_check_pass: false
+  hosted_actions_status: "Not run for this local expansion."

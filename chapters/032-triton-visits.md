@@ -120,7 +120,7 @@ Triton looked again. Percy was listed as twelve years old, which he knew, and as
 
 "At some forms of water control he is very experienced. At other skills, especially the surface systems we teach here, he is still learning. That's why the instructors assess the activity rather than assuming one title qualifies him for everything."
 
-Triton was about to object. He'd seen Percy move through the reef passages in Atlantis with instincts older than the boys who were celebrated at formal demonstrations. He also knew the boy had arrived in the palace with memories he could not explain, and was still piecing together skills his body sometimes remembered more readily than his mind.
+Triton was about to object. He'd seen Percy move through the reef passages in Atlantis with instincts older than the boys who were celebrated at formal demonstrations. He also knew Percy had gaps in the palace childhood Triton described to him, and was still trying to fit those stories beside skills his body sometimes found before he could name them.
 
 "What exactly does the lesson cover?" he asked.
 

@@ -88,7 +88,7 @@ She said, "No."
 
 He said, "Then it's the right kind of idea."
 
-That made her laugh, which made her face go from offended to bright to something else entirely, and he did not let her get away with it. He stepped in and kissed her, and she kissed him back with the same hungry little certainty she had used on him in the mess hall doorway, only here, under the planks with lake light on the boards above them and his thumb pressed to the inside of her wrist, it felt less like a public thing and more like a secret the lake had agreed to keep.
+That made her laugh, which made her face go from offended to bright to something else entirely, and he did not let her get away with it. He stepped in and kissed her, and she kissed him back with the same brave certainty she'd brought to him on the dock at dawn, only here, under the planks with lake light on the boards above them and his thumb pressed to the inside of her wrist, it felt less like a public thing and more like a secret the lake had agreed to keep.
 
 Not a polite kiss. Not a performance. It was the kind that came out of wanting the world smaller than it was and having the luck, for once, to be in a place where nobody could interrupt it without falling through the dock first.
 
@@ -190,11 +190,11 @@ They went. Annabeth with Percy's hand in hers and Thalia pretending not to notic
 
 ---
 
-The dock at the canoe lake was the same dock Percy had sat on a thousand times in his original life, and the same dock he had sat on a hundred times in this one, and the weird thing was that both sets of memories felt true at the same time, as if the wood had two histories folded inside it like a deck of cards.
+Earlier that morning, before breakfast, the dock at the canoe lake was the same dock Percy had sat on a thousand times in his original life, and the same dock he had sat on a hundred times in this one, and the weird thing was that both sets of memories felt true at the same time, as if the wood had two histories folded inside it like a deck of cards.
 
-That flashed through his head now, standing on the same dock in the same morning light, and he let it go, because the present had enough of his attention already.
+That flashed through his head then, standing on the same dock in the first gray light, and he let it go, because the present had enough of his attention already.
 
-This morning, it held him and Annabeth at either end, with four feet of sun-warmed planks between them and no one else awake enough to notice what they were doing. He had woken before dawn, which annoyed him and thrilled him in equal measure. The annoyed part was simple: fourteen-year-old bodies did not run on Atlantean time, and his old habits from the seventh-watch guard shifts did not always translate to a surface camp that expected kids to sleep in until breakfast. The thrilled part was that Annabeth sometimes woke at the same hour, and if he got to the lake before she did, he got the first few minutes of the world all to himself, and those minutes belonged to him in a way nothing else in camp quite did.
+At dawn, it held him and Annabeth at either end, with four feet of rain-cool planks between them and no one else awake enough to notice what they were doing. He had woken before dawn, which annoyed him and thrilled him in equal measure. The annoyed part was simple: fourteen-year-old bodies did not run on Atlantean time, and his old habits from the seventh-watch guard shifts did not always translate to a surface camp that expected kids to sleep in until breakfast. The thrilled part was that Annabeth sometimes woke at the same hour, and if he got to the lake before she did, he got the first few minutes of the world all to himself, and those minutes belonged to him in a way nothing else in camp quite did.
 
 The sky was still pale. The lake was still black at the edges and only beginning to silver in the middle, where a thin line of wind had opened a seam across the surface. The dock smelled like wet pine and last night's rain and the faint sweet rot of leaves trapped in the pilings. Percy sat with his sneakers off, one bare foot hooked around the edge of a plank, and watched the water do what water did when it was deciding what kind of day it wanted to be. Then her footsteps came up the ramp, and he knew it was her before he turned around, because nobody else walked with that exact set of pauses and weight shifts, as if she were crossing a blueprint in her head and making sure each step landed where it should.
 

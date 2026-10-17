@@ -516,7 +516,7 @@ He looked toward Clarisse, who was arguing with Triton about whether the cracked
 
 "Sometimes I think if I knew how to act here without asking, everything would feel easier."
 
-"It might make some things easier," Amphitrite answered. "But you don't owe me a performance of the boy you were before camp. We can learn who you are now."
+"It might make some things easier," Amphitrite answered. "There is no performance you owe me. We can learn who you are now, together."
 
 The garden smelled faintly of warm stone and salt. Percy stood beside her, uncertain what to say. He was used to adults trying to fill his silences with reassuring conclusions.
 

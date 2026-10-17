@@ -842,7 +842,7 @@ Silena considered. Amphitrite had visited the camp and tried to be kind to Percy
 
 Percy thought about the letter. He wanted Amphitrite to know he'd enjoyed the day with his sisters. He wasn't ready to describe Sally's kitchen in detail, or ask his family in Atlantis to understand what it felt like to remember a woman they knew had died before he could remember her.
 
-"I can say we made blue cookies because of a recipe I remembered," he said. "Then tell her about Clarisse nearly burning the first batch."
+"I can tell her we made blue cookies together," he said. "And that Clarisse nearly burned the first batch."
 
 "She'll find that funny."
 

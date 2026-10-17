@@ -6,7 +6,34 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Coverage status:** The index contains the foundational Chapter 001–022 records, source-verified additions for Chapters 023–036, and scoped event updates for Chapters 090–100. Chapters 037–089 and 101–193 remain unaudited in these cumulative files; this selective coverage is not an unbroken character-memory certification or full literary review.
+**Coverage status (PR #103 worktree, October 17):** The chapter-ledger set explicitly marks **71/193 chapters full-scene reviewed** (001–024, 027–048, 061–076, 126–130, 145–148). Chapters 025–026 have section-level passes; 049–060 have partial/selective reading; 077–089 have bounded source-anchored entries without full-scene certification. There are **33 chapter YAMLs** for 066–068, 091–110, 114–120 and 131–133; these are scoped records, not proof of continuous coverage. This README and the character files contain **32 cumulative-ledger rows** with selected source-linked milestones across 27 chapters. The generated evidence index locates all 193 chapter files, but marks witnesses, reported knowledge, secrets, chronology, relationships and handoffs **UNVERIFIED** until a scene-level review is recorded. The coverage remains incomplete and does not certify full-novel memory continuity or literary quality.
+
+### Chapter-level coverage map
+
+| Chapters | Current source record | Review boundary |
+|---|---|---|
+| 001–024 | Chapter ledger | Full-scene review |
+| 025–026 | Chapter ledger | Reviewed sections/transitions only |
+| 027–048 | Chapter ledger; detailed ledgers for 027–036 and 041–048 | Full-scene review |
+| 049–060 | Chapter ledger | Partial/selective scene reading; unresolved scenes remain marked |
+| 061–076 | Chapter ledger (061–068 and 069–076) | Full-scene review |
+| 077–089 | Chapter ledger | Bounded source-anchored notes; not full-scene review |
+| 090–110 | Chapter YAMLs 091–110 and selected handoffs/state notes | Scoped records; no continuous full-scene ledger |
+| 111–113 | Transition handoff | Boundary summary only |
+| 114–120 | Chapter YAMLs and handoffs | Scoped records; no continuous full-scene ledger |
+| 121–125 | Selected cumulative event for 123 | No chapter ledger or YAML for the range |
+| 126–130 | Chapter ledger (126–127 and 128–130) | Full-scene review |
+| 131–133 | Chapter YAMLs | Chapter-specific handoffs; no full-scene ledger |
+| 134–144 | — | No chapter ledger or YAML |
+| 145–148 | Chapter ledger | Full-scene review |
+| 149–176 | — | No chapter ledger or YAML |
+| 177 | Selected cumulative event | Milestone only |
+| 178–185 | — | No chapter ledger or YAML |
+| 186 | Selected cumulative event | Milestone only |
+| 187–192 | — | No chapter ledger or YAML |
+| 193 | Selected cumulative event | Milestone only |
+
+These entries are not a chapter-by-chapter state matrix for every character. The full-scene total describes chapters with a ledger claim; it does not mean every character has an event entry in each of those chapters.
 
 ## Characters seeded in Chapter 001
 - [Percy](./percy.md)
@@ -125,3 +152,21 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 - [Chapter 097 handoff](../../editorial/handoffs/ch097-the-map.md) and [structured continuity record](../ch097.yaml) add scoped entries for 18 characters who participate in or send an item to the map viewing. They track the old-life memory boundary, the approved map markings, Thalia's un-rechecked palm, the north-trail closure, the dock hazard, the one-week trial and the photo that is approved but not shown as sent.
 - **Coverage limit:** Chapter 097 is a source-scoped update. Chapters 037–089 and 098–193 still require scene-by-scene memory entries; this does not certify an unbroken memory graph.
+
+## Chapters 126–127 · source-scoped review (2026-10-17)
+
+- Full text of Chapters 126 and 127 was read; the Chapter 125 close and Chapter 128 opening were checked for handoff. See the [detailed continuity ledger](../chapter-ledgers/126-127.md) for witnessed/reported/private distinctions, relationship states, objects, pending work and exact source anchors.
+- Percy and Amphitrite's continuing mother-son bond is present and affectionate. Neither chapter shows Percy explicitly telling her about the erased future or the extent/reason for his altered-childhood memory gaps. Keep only Percy and Annabeth as autobiographical prior-life memory holders. The direct Ch126 memory-gap statements are addressed to Triton and Tyson; whether Amphitrite heard them is not established.
+- This is a local source review, not continuous coverage or whole-manuscript certification. Adjacent coverage is limited to Ch125's close and Ch128's opening.
+
+## Chapters 128–130 · source-scoped review (2026-10-17)
+
+- Full text of Chapters 128–130 was read; the Chapter 127 close and Chapter 131 opening were checked for handoff. See the [detailed continuity ledger](../chapter-ledgers/128-130.md) for source anchors, witnessed/reported/private distinctions, relationship states, objects, pending obligations, and the Chapter 129 chronology flag.
+- Thalia's Annabeth childhood accounts are firsthand altered-childhood memories, not prior-life memories. Percy and Annabeth alone retain autobiographical memories of the erased future. Percy gives Silena only a bounded report about Sally's ordinary-life photographs in the life he remembers; Silena does not inherit or share those memories. Amphitrite remains outside that private disclosure.
+- Chapter 129's return/dinner sequence appears to repeat without a marked time shift. Its order remains unresolved in the source and should not be normalized by assumption. This is source-scoped documentation, not continuous whole-manuscript memory coverage.
+
+## Chapter 109 · source-scoped review (2026-10-17)
+
+- Full Chapter 109 text and its Ch108/Ch110 boundaries were checked; see the [handoff](../../editorial/handoffs/ch109-no-borrowed-promises.md) and [structured continuity record](../ch109.yaml).
+- The photograph's provenance remains unknown and private. Percy and Annabeth alone retain erased-future autobiographical memories; Thalia receives no photograph context, and Annabeth does not invent firsthand altered-childhood memories. The new present-day shrine study remains separate from the unresolved drainage work.
+- This is a local source review, not continuous 193-chapter memory coverage or full literary signoff.

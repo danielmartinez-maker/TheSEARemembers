@@ -1,8 +1,8 @@
-# Expansion handoff queue: original 55, now 16 still short
+# Expansion handoff queue: 193 chapters meet the length gate; editorial review remains open
 
-**Latest local QA after the Oct. 17 privacy repairs:** Branch `audit/pr103-live-continuation`, based on live PR #103 head `e9d86c2`; not yet pushed at this checkpoint. There are 193 indexed chapters; 177 pass the length floor, 16 remain short, and 116,854 body words remain. The chapter-only scan checked **1,821,169** every-offset 300-token windows with zero exact matches. The bonus-inclusive scan checked **196 Markdown files**, **2,030,026 body words** and **1,971,721 windows** with zero exact matches. All **35** source-anchored memory checks pass; the structure audit finds 193/193 chapters ordered. Hosted Actions on `e9d86c2` predate these local prose and documentation changes; rerun them after updating PR #103. Independent literary signoff and remaining all-chapter memory evidence review remain open.
+**Latest local QA (October 17):** Candidate branch `audit/pr103-live-continuation`, based on PR #103 head `e9d86c2`; pending commit/push and fresh hosted Actions. The repository length audit reports **193/193** chapters at or above the 10,000-word floor, with zero shortfall. The chapter-only scan checked **1,941,329** every-offset 300-token windows with zero exact matches. The bonus-inclusive scan checked **196 Markdown files**, **2,150,186 body words** and **2,091,881 windows**, also with zero exact matches. All **36** source-anchored memory checks pass; the structure audit finds 193/193 chapters ordered. Full-scene memory certification and literary signoff remain open.
 
-**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. Verified candidate shortfall: **116,854 words** across **16** chapters. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled.
+**Mandatory floor:** 10,000 actual narrative body words per chapter. Aim for roughly 10,200–11,200 only where earned by original story scenes. Existing authored prose must not be mechanically repeated, paraphrased or padded. The current mechanical shortfall is zero. The 55/267,533 values below are frozen pre-continuation historical figures where explicitly labeled; individual wave tables are historical checkpoints, not current shortfall queues.
 
 **Global canon packet (mandatory in every writing assignment):** Percy and Annabeth alone possess memories of their erased future; other characters can only know what they directly experienced or were explicitly told. Amphitrite is Percy's mother in practice and does not know the rewritten-life memory predicament. Clarisse and Silena are Percy’s Poseidon half-siblings, Cabin Three; Annabeth, Thalia and Jason are Zeus/Grace siblings. Percy and Annabeth are established romantic partners. No invented shared memories, premature secrets, or out-of-sequence first introductions.
 
@@ -12,7 +12,7 @@
 
 ## Wave A · 066–090
 
-**0 chapters still short**, **0** words remain to 10k in this wave. Chapters 066–090 pass the length gate; Chapters 091–101 also pass. Chapter 102 is next chronologically.
+**0 chapters remain below the floor in Chapters 066–090.** Chapters 091–133 also now pass; the current all-chapter gate is 193/193. All wave tables below are progress and handoff records, not a current short-chapter backlog.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
@@ -24,7 +24,7 @@
 | [071](../../chapters/071-anniversary.md) | Anniversary | 10,145 | 0 | **LENGTH PASS; editorial review open** |
 | [072](../../chapters/072-new-kids.md) | New Kids | 10,093 | 0 | **LENGTH PASS; editorial review open** |
 | [073](../../chapters/073-the-play.md) | The Play | 10,245 | 0 | **LENGTH PASS; editorial review open** |
-| [074](../../chapters/074-tyson-s-visit.md) | Tyson's Visit | 10,158 | 0 | **LENGTH PASS; editorial review open** |
+| [074](../../chapters/074-tyson-s-visit.md) | Tyson's Visit | 10,179 | 0 | **LENGTH PASS; editorial review open** |
 | [075](../../chapters/075-zoe-s-story.md) | Zoe's Story | 10,087 | 0 | **LENGTH PASS; editorial review open** |
 | [076](../../chapters/076-the-promise-ii.md) | The Promise (II) | 10,350 | 0 | **LENGTH PASS; editorial review open** |
 | [077](../../chapters/077-beach-day-atlantis-style.md) | Beach Day (Atlantis Style) | 10,236 | 0 | **LENGTH PASS; editorial review open** |
@@ -44,52 +44,52 @@
 
 ## Wave B · 091–110
 
-9 of 20 chapters remain short, with **76,697 body words short**. Chapters 091–101 pass the length gate. These are sequential editorial assignments, not independent drafts.
+All 20 chapters in this range now pass the length gate. Chapters 102–110 were expanded after the historical shortfall below was recorded. These are sequential editorial assignments, not independent drafts; full literary review remains open.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
 | [091](../../chapters/091-tide-pools.md) | Tide Pools | 10,050 | 0 | **LENGTH PASS; editorial review open** |
 | [092](../../chapters/092-jealousy-ii.md) | Jealousy II | 10,062 | 0 | **LENGTH PASS; continuity handoff added; independent editorial review open** |
-| [093](../../chapters/093-movie-night.md) | Movie Night | 10,114 | 0 | **FOUR PHASES COMPLETE; LOCAL QA PASS** |
-| [094](../../chapters/094-sick-day.md) | Sick Day | 10,032 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
-| [095](../../chapters/095-annabeth-sick.md) | Annabeth Sick | 10,129 | 0 | **FOUR PHASES COMPLETE; local QA PASS; hosted Actions pending** |
-| [096](../../chapters/096-training-together.md) | Training Together | 10,144 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pending** |
-| [097](../../chapters/097-the-map.md) | The Map | 10,185 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
-| [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 10,121 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
-| [099](../../chapters/099-mothers.md) | Mothers | 10,166 | 0 | **FOUR PHASES COMPLETE; local QA pass; hosted Actions pass** |
-| [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 10,190 | 0 | **FOUR-PHASE REVISION; local QA pass; hosted status is in PR checks** |
-| [101](../../chapters/101-a-name-for-it.md) | A Name for It | 10,321 | 0 | **FOUR PHASES COMPLETE; local QA and hosted Actions pass** |
-| [102](../../chapters/102-not-a-competition.md) | Not a Competition | 1,538 | 8,462 | **NOT STARTED** |
-| [103](../../chapters/103-the-things-we-remember.md) | The Things We Remember | 1,520 | 8,480 | **NOT STARTED** |
-| [104](../../chapters/104-a-day-that-was-theirs.md) | A Day That Was Theirs | 1,818 | 8,182 | **NOT STARTED** |
-| [105](../../chapters/105-the-place-at-the-table.md) | The Place at the Table | 1,350 | 8,650 | **NOT STARTED** |
-| [106](../../chapters/106-the-visit-that-wasn-t-a-test.md) | The Visit That Wasn't a Test | 1,276 | 8,724 | **NOT STARTED** |
-| [107](../../chapters/107-the-words-we-choose.md) | The Words We Choose | 1,514 | 8,486 | **NOT STARTED** |
-| [108](../../chapters/108-three-things-we-keep.md) | Three Things We Keep | 1,930 | 8,070 | **NOT STARTED** |
-| [109](../../chapters/109-no-borrowed-promises.md) | No Borrowed Promises | 1,268 | 8,732 | **NOT STARTED** |
-| [110](../../chapters/110-the-promise-we-make-now.md) | The Promise We Make Now | 1,089 | 8,911 | **NOT STARTED** |
+| [093](../../chapters/093-movie-night.md) | Movie Night | 10,114 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [094](../../chapters/094-sick-day.md) | Sick Day | 10,032 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [095](../../chapters/095-annabeth-sick.md) | Annabeth Sick | 10,129 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [096](../../chapters/096-training-together.md) | Training Together | 10,144 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [097](../../chapters/097-the-map.md) | The Map | 10,185 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [098](../../chapters/098-fathers-day-gods.md) | Fathers' Day (Gods) | 10,121 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [099](../../chapters/099-mothers.md) | Mothers | 10,166 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [100](../../chapters/100-the-thousandth-campfire.md) | The Thousandth Campfire | 10,190 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [101](../../chapters/101-a-name-for-it.md) | A Name for It | 10,321 | 0 | **LENGTH PASS; scoped review/QA recorded; full literary review open** |
+| [102](../../chapters/102-not-a-competition.md) | Not a Competition | 10,016 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [103](../../chapters/103-the-things-we-remember.md) | The Things We Remember | 10,218 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [104](../../chapters/104-a-day-that-was-theirs.md) | A Day That Was Theirs | 10,117 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [105](../../chapters/105-the-place-at-the-table.md) | The Place at the Table | 10,033 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [106](../../chapters/106-the-visit-that-wasn-t-a-test.md) | The Visit That Wasn't a Test | 10,314 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [107](../../chapters/107-the-words-we-choose.md) | The Words We Choose | 10,085 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [108](../../chapters/108-three-things-we-keep.md) | Three Things We Keep | 10,073 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [109](../../chapters/109-no-borrowed-promises.md) | No Borrowed Promises | 10,128 | 0 | **LENGTH PASS; independently reviewed; full literary review open** |
+| [110](../../chapters/110-the-promise-we-make-now.md) | The Promise We Make Now | 11,739 | 0 | **LENGTH PASS; independently reviewed; full literary review open** |
 
 ## Wave C · 114–120
 
-7 chapters, **40,869 body words short**. These are sequential editorial assignments, not independent drafts.
+All 7 chapters in this range now pass the length gate. The shortfall figures in the historical table have been replaced by current counts. These are sequential editorial assignments, not independent drafts; literary review remains open.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
-| [114](../../chapters/114-the-space-between.md) | The Space Between | 777 | 9,223 | **NOT STARTED** |
-| [115](../../chapters/115-the-old-photograph.md) | The Old Photograph | 4,218 | 5,782 | **NOT STARTED** |
-| [116](../../chapters/116-cabin-three-rules.md) | Cabin Three Rules | 4,771 | 5,229 | **NOT STARTED** |
-| [117](../../chapters/117-a-day-apart.md) | A Day Apart | 4,916 | 5,084 | **NOT STARTED** |
+| [114](../../chapters/114-the-space-between.md) | The Space Between | 10,005 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [115](../../chapters/115-the-old-photograph.md) | The Old Photograph | 10,062 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [116](../../chapters/116-cabin-three-rules.md) | Cabin Three Rules | 10,088 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [117](../../chapters/117-a-day-apart.md) | A Day Apart | 10,163 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 10,464 | 0 | **LENGTH PASS; editorial review open** |
-| [119](../../chapters/119-sisters-errand.md) | Sisters' Errand | 4,790 | 5,210 | **NOT STARTED** |
-| [120](../../chapters/120-a-letter-from-the-sea.md) | A Letter from the Sea | 4,738 | 5,262 | **NOT STARTED** |
+| [119](../../chapters/119-sisters-errand.md) | Sisters' Errand | 10,179 | 0 | **LENGTH PASS; expanded; literary review open** |
+| [120](../../chapters/120-a-letter-from-the-sea.md) | A Letter from the Sea | 10,003 | 0 | **LENGTH PASS; expanded; literary review open** |
 
 ## Wave D · 131–133
 
-**1 chapter still short**, **4,367** words remain to 10k. Chapters 132–133 passed the length gate; Chapter 131 is still pending.
+All 3 chapters in this range now pass the length gate. Chapter 131 has been expanded; literary review remains open.
 
 | Chapter | Source title | Current body words | Words to 10k | Status |
 |---|---|---:|---:|---|
-| [131](../../chapters/131-cabin-three-at-night.md) | Cabin Three at Night | 5,633 | 4,367 | **NOT STARTED** |
+| [131](../../chapters/131-cabin-three-at-night.md) | Cabin Three at Night | 10,119 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [132](../../chapters/132-a-month-beneath-the-sea.md) | A Month Beneath the Sea | 10,243 | 0 | **LENGTH PASS; editorial review open** |
 | [133](../../chapters/133-annabeth-s-birthday.md) | Annabeth's Birthday | 10,656 | 0 | **LENGTH PASS; editorial review open** |
 
@@ -109,28 +109,28 @@ The five expansions are **source-reviewed for bounded callbacks and length**, no
 ## Dependency-aware writing packets
 
 - **Packet 01: Chapters 66–70.** Chapters 066–070 length-pass; independent editorial review pending. Verify Chapter 65 closing scene, reconstruct each chapter's witnesses and promises, stage 66 before 67, and check Chapter 71 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: length completed, prose review pending.**
-- **Packet 02: Chapters 71–75.** Verify Chapter 70 closing scene, reconstruct each chapter's witnesses and promises, stage 71 before 72, and check Chapter 76 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 03: Chapters 76–80.** Verify Chapter 75 closing scene, reconstruct each chapter's witnesses and promises, stage 76 before 77, and check Chapter 81 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 04: Chapters 81–85.** Verify Chapter 80 closing scene, reconstruct each chapter's witnesses and promises, stage 81 before 82, and check Chapter 86 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 05: Chapters 86–90.** Verify Chapter 85 closing scene, reconstruct each chapter's witnesses and promises, stage 86 before 87, and check Chapter 91 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 06: Chapters 91–95.** Chapter 095 is now four-phase complete with local QA; the Chapter 096 opening was checked and its fever-watch recap corrected. Chapters 091–094 retain their individual statuses above. Continue sequentially from Chapter 096 and its own adjacent-scene checks.
-- **Packet 07: Chapters 96–100.** Chapters 096–100 have four-phase local QA and scene-level handoffs; hosted workflow results are recorded on the PR's pushed head. The Chapter 100 close and Chapter 101 opening have been checked. Carry the actual private-memory, photo-consent, injury and forge-work state forward; the 099/100 date gap remains unknown. **Assigned writers: none; status: Chapter 100 locally complete.**
-- **Packet 08: Chapters 101–105.** Chapter 101 is four-phase complete with local QA; continue sequentially at Chapter 102. Reconstruct each chapter's witnesses and promises, stage 102 before 103, and check Chapter 106 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: Chapter 101 locally complete.**
-- **Packet 09: Chapters 106–110.** Verify Chapter 105 closing scene, reconstruct each chapter's witnesses and promises, stage 106 before 107, and check Chapter 111 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 10: Chapters 114–117.** Verify Chapter 113 closing scene, reconstruct each chapter's witnesses and promises, stage 114 before 115, and check Chapter 118 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 11: Chapters 118–120.** Verify Chapter 117 closing scene, reconstruct each chapter's witnesses and promises, stage 118 before 119, and check Chapter 121 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
-- **Packet 12: Chapters 131–133.** Chapters 132–133 length-pass; 131 pending. Verify Chapter 130 closing scene, reconstruct each chapter's witnesses and promises, stage 131 before 132, and check Chapter 134 opening before acceptance. Carry the previous packet's *actual* final-scene handoff, never an outline as fact. **Assigned writers: none; status: pending unedited chapters.**
+- **Packet 02: Chapters 71–75.** All five chapters pass length. Their source-scoped handoffs remain useful; independent scene/style signoff is still open. **Status: length pass, editorial review open.**
+- **Packet 03: Chapters 76–80.** All five chapters pass length. Continue to use actual chapter boundaries and witnessed/reported knowledge; no complete novel-wide review is implied. **Status: length pass, editorial review open.**
+- **Packet 04: Chapters 81–85.** All five chapters pass length. **Status: length pass, editorial review open.**
+- **Packet 05: Chapters 86–90.** All five chapters pass length. The Atlantis reunion checks remain source-specific; **status: length pass, editorial review open.**
+- **Packet 06: Chapters 91–95.** All five chapters pass length. The Chapter 096 opening review remains a scoped adjacent-scene check; **status: length pass, broader editorial review open.**
+- **Packet 07: Chapters 96–100.** All five chapters pass length and have chapter-scoped handoffs. Previously hosted workflow results apply only to their named historical commits; fresh Actions for the present PR head remain pending. **Status: length pass, broader editorial review open.**
+- **Packet 08: Chapters 101–105.** All five chapters pass length. Chapters 102–105 now have expansion handoffs; their notes preserve the witnessed/reported memory boundary. **Status: length pass, broader editorial review open.**
+- **Packet 09: Chapters 106–110.** All five chapters pass length. Chapters 109–110 received independent boundary review; remaining prose/style review is open. **Status: length pass, broader editorial review open.**
+- **Packet 10: Chapters 114–117.** All four chapters pass length, with targeted adjacent-scene/canon review documented for Chapter 114. **Status: length pass, broader editorial review open.**
+- **Packet 11: Chapters 118–120.** All three chapters pass length; preserve the Amphitrite memory boundary and unscheduled travel state. **Status: length pass, broader editorial review open.**
+- **Packet 12: Chapters 131–133.** All three chapters pass length. Preserve the age chronology and source-specific memory boundaries; **status: length pass, broader editorial review open.**
 
 ## Priority source-callback constraints
 
 - **Chapter 066 / Jason:** Must follow the confirmed Chapter 019 letter work and Chapter 065 training. Jason is already a known younger Grace brother; Chiron's authorization for correspondence is not authorization for a visit.
 - **Chapters 074, 086 / Atlantis:** Tyson's visit has established logistics. Chapter 086 Triton already knows Clarisse, Silena and Annabeth from Chapter 032. Preserve the corrected reunion.
 - **Chapters 099 and 118:** Chapter 099 Percy has already called Amphitrite 'Mother'; Chapter 118 'Mom' and the previous camp lunch remain remembered. Do not roll back PR #102.
-- **Chapters 114–120:** These chapters are especially short, including Chapter 114 at 777 body words. Rebuilding them may require an editorial scene architecture review rather than appending new material. Chapter 118 and 120 memory repairs must remain intact.
+- **Chapters 114–120:** All now meet the 10,000-word floor; the prior 777-word Chapter 114 count was pre-expansion. Review the new scenes for architecture and pacing rather than relying on word count. Chapter 118 and 120 memory repairs must remain intact.
 - **Chapters 131–133:** Verify birthdays and ages against Chapter 133 Annabeth's fourteenth birthday, Chapter 136 Percy's fourteenth birthday, and Thalia's earlier sixteen-year-old status in Chapters 16/20/24/28. Do not predate any age transition.
 
 ## Submission format for each packet
 
 Provide numbered chapter files, before/after counts from the same script, unchanged/changed scene inventory, exact anchor list, edit rationale, resulting relationship/knowledge updates, next-scene handoff, any unresolved risks, and QA output. Mere generated word volume is not approval.
 
-**No subagents or concurrent external writers were actually launched in this pass.** These packets are executable work assignments for later staged use, not completion claims.
+These packets now record completed length work and open editorial review. Subagents were used only for scoped drafting/review and a read-only audit; none of their work replaces final human literary signoff.

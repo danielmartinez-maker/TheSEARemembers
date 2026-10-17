@@ -38,14 +38,14 @@
 ## Phase 4 — mechanical verification
 
 - **Body length:** 10,321 words by `audit_chapter_length.py`'s whitespace-token method.
-- **Full manuscript:** 193/193 indexed and ordered; 177 meet 10,000 words and 16 remain short, totaling 116,854 words to the floor. The chapter-only scan checked 1,821,045 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covered 196 files, 2,029,902 body words and 1,971,597 windows, with zero exact matches.
-- **Structure and memory:** All 33 source-anchored memory checks pass; the evidence index writes 193 provisional chapter locators; Python compile and chapter structure checks pass. One lexical introduction cue remains for human review in Chapter 014. Both hosted Actions passed on revision commit `a6b53d8`: [full manuscript QA, run 468](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797) and [character memory consistency, run 230](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680).
+- **Full manuscript:** The latest local run reports 193/193 indexed and ordered, 193 chapters at or above 10,000 words, and zero shortfall. The chapter-only scan checked 1,941,329 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covered 196 files, 2,150,186 body words and 2,091,881 windows, with zero exact matches.
+- **Structure and memory:** All 36 source-anchored memory groups pass; the evidence index writes 193 provisional chapter locators; Python compile and chapter structure checks pass. One lexical introduction cue in Chapter 014 was manually reviewed as a valid in-person introduction following prior Iris contact. Earlier hosted Actions passed on prior revisions; they do not certify this candidate. Check the latest pushed SHA's workflow results for hosted validation.
 - **Coverage limit:** These mechanical results and the Chapter 101 scene review do not certify semantic, character-psychology or literary quality across all 193 chapters.
 
 ## Carry-forward to Chapter 102
 
 - Percy and Annabeth remain established partners; “favorite person” is a mutual nickname. The current relationship conversation happened, and the following chapter should not restart it as a new relationship.
 - Thalia's right palm remains wrapped and uncleared. Her schedule delivery to Chiron is not shown. Annabeth does not remember the blocks Thalia reports.
-- The shrine frame has backing attached and is left to set; it has not been loaded with books. Silena's title list is still pending Annabeth's approval. The reach test lowered the planned bottom shelf; the book test remains to be performed.
-- Noah has learned one controlled shield turn from Clarisse and plans to try again. Chapter 102's spear work with Annabeth is a new lesson.
-- Percy owes Silena one whole orange after accepting half. Tyson's last confirmed location remains beside Ella at the Chapter 100 fire; Chapter 101 supplies no new evidence about his return or forge work.
+- Chapter 102 subsequently tests the empty shelf, then one thin and one broad book; those checks are steady. A heavier manual shifts the shim, so Annabeth stops the test and the shelf remains empty and unapproved. The support review and Chiron's response to the warning note remain pending.
+- Noah repeats the controlled shield turn with Clarisse and begins a separate half-speed approach/stop exercise. Percy and Clarisse check shields at the stand and carry them to the rack once. Annabeth's spear-footwork lesson in Chapter 102 remains a distinct, unfinished lesson.
+- Percy repays the whole-orange debt in Chapter 102; Silena cuts the orange and shares it with him. Tyson's last confirmed location remains beside Ella at the Chapter 100 fire; no return or forge update is shown through Chapter 102.

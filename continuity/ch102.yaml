@@ -1,0 +1,106 @@
+chapter: 102
+title: "Not a Competition"
+source: "chapters/102-not-a-competition.md"
+status: "expanded; 10,016 body words by repository whitespace-token count; adjacent-scene and chapter-length checks reviewed locally"
+chronology:
+  relative_time: "Begins the morning after Chapter 101; crosses into the next morning and ends at dinner. Calendar date and year remain unknown."
+  sequence: "Breakfast conversation; Percy practices alone; Annabeth and Noah work on spear footwork and put the equipment away; Percy and Annabeth speak beside the rack; lunch with Clarisse and Silena; shrine shelf test; Percy and Annabeth exchange illustrated cards at the dock; next-morning orange task; Noah repeats the shield turn and practices approaching/stopping; dinner."
+  adjacent_gaps: "Chapter 101 ends after dinner; Chapter 102 begins the following morning, crosses to the next morning, and ends at dinner. Chapter 103 opens the next morning with Annabeth beginning her letter; she copies and leaves it in Percy's book the following morning, and he discovers it the morning after that. The weekday, exact date and year remain unknown."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Dining pavilion"
+  - "Training grounds and arena"
+  - "Weapon rack and camp path"
+  - "Hades shrine work area"
+  - "Dock"
+  - "Breakfast service area"
+participants:
+  primary: ["Percy", "Annabeth", "Clarisse", "Silena", "Noah"]
+  other: ["unnamed campers", "cook"]
+  offstage: ["Thalia", "Tyson", "Chiron", "Will", "Amphitrite", "Triton", "Poseidon"]
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 102
+    earned_trust_or_conflict:
+      - "Percy notices jealousy while Annabeth teaches Noah spear footwork. He distinguishes that feeling from distrust of either of them and asks that his sisters not solve or direct the matter for him."
+      - "Percy and Annabeth talk privately. Annabeth says Noah is her friend and Percy remains her favorite person; their established relationship continues."
+      - "They draw on two cards about the day, exchange a written choice/trust message, and leave the date line as a question mark because neither knows it."
+    what_each_remembers_firsthand:
+      - "Their present-day conversations, choices and affection in this chapter."
+      - "Only Percy and Annabeth retain autobiographical memories of the erased life; this chapter does not transfer those memories to another character."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Percy names the feeling without asking Annabeth to manage it; the couple affirms trust while keeping Noah's ordinary training relationship distinct."
+    future_callback_required: "Do not restart their established relationship or frame Noah as a romantic rival. The cards' date remains unknown."
+  - pair: "Percy / Clarisse / Silena"
+    last_shared_scene_chapter: 102
+    earned_trust_or_conflict:
+      - "Clarisse and Silena initially interpret Percy's reaction for him; Percy objects to being analyzed and asks them to ask before advising or intervening. Both acknowledge the boundary."
+      - "Silena accepts Percy's apology and whole-orange repayment. She chooses to share that orange with him."
+    what_each_remembers_firsthand:
+      - "The breakfast disagreement, later conversations and shared orange task."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Their advice is welcome only when Percy asks; the orange debt from Chapter 101 is repaid."
+    future_callback_required: "Clarisse and Silena remain Percy's Poseidon sisters. Do not portray their guesses as knowledge of his inner state."
+  - pair: "Annabeth / Noah"
+    last_shared_scene_chapter: 102
+    earned_trust_or_conflict:
+      - "Annabeth teaches Noah spear footwork and safe equipment handling, including stopping and splitting a load when the path narrows."
+      - "Noah asks whether Percy and Annabeth are together; Percy answers yes, and Noah accepts it."
+    what_each_remembers_firsthand:
+      - "The spear practice, equipment carrying and dinner conversation."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Noah knows Percy and Annabeth are together because Percy answers his question."
+    future_callback_required: "Noah is a new camper learning spear work; his lesson does not constitute a romantic challenge or complete his separate shield training."
+  - pair: "Clarisse / Noah"
+    last_shared_scene_chapter: 102
+    earned_trust_or_conflict:
+      - "Noah repeats the one-shield turn he learned in Chapter 101, checks his strap and practices approaching and stopping at half speed."
+      - "Clarisse stops him when his balance goes, asks if he wants another try and does not call the exercise sparring."
+      - "Percy and Clarisse check the practice shields at the stand before carrying them to the rack once; the scene no longer repeats the rack return."
+    what_each_remembers_firsthand:
+      - "The repeated controlled shield turn and the half-speed approach/stop practice."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Noah repeats a known turn and begins a separate measured approach/stop exercise; mastery is not claimed."
+    future_callback_required: "Do not equate shield practice with Annabeth's spear lesson or state that Noah has mastered sparring."
+items_promises_injuries:
+  - item_or_event: "Hades shrine shelf"
+    owner_or_people: ["Annabeth", "Silena", "Clarisse", "Percy"]
+    last_seen_chapter: 102
+    current_status: "Empty check, thin-book check and broad-book check remain steady. A heavier building manual shifts the shim slightly; the test stops safely, the manual is removed, and no books are stored on the shelf. Annabeth writes a warning note and leaves it on the worktable while she asks Chiron whether it may stay there; permission or posting is not shown. The shelf remains unapproved for use."
+  - item_or_event: "Percy's orange debt to Silena"
+    owner_or_people: ["Percy", "Silena"]
+    last_seen_chapter: 102
+    current_status: "Settled. Percy chooses a whole firm orange and gives it to Silena; she cuts it and shares half with him."
+  - item_or_event: "Noah's spear and shield practice"
+    owner_or_people: ["Noah", "Annabeth", "Clarisse"]
+    last_seen_chapter: 102
+    current_status: "Noah has an unfinished spear-footwork lesson with Annabeth and a separate repeated shield-turn/approach-stop lesson with Clarisse. He has not been declared a master of either."
+  - item_or_event: "Thalia's right palm and schedule"
+    owner_or_people: ["Thalia", "Chiron", "Will"]
+    last_seen_chapter: 101
+    current_status: "No update is shown in Chapter 102; palm remains last known wrapped and uncleared, and schedule delivery to Chiron remains unconfirmed."
+  - item_or_event: "Tyson's location and forge work"
+    owner_or_people: ["Tyson", "Ella"]
+    last_seen_chapter: 100
+    current_status: "No update is shown in Chapter 102; the last confirmed state remains Tyson asleep beside Ella at the Chapter 100 fire."
+unresolved_tensions:
+  - "Exact weekday, date and year remain unknown. Chapter 103 follows the dinner close; Annabeth starts the letter on its opening day, leaves the finished copy the following morning, and Percy finds it the next morning."
+  - "The shelf support must be reviewed and load capacity verified before any books are stored; the warning note has not been approved for posting."
+  - "Thalia's injury/medical clearance and schedule delivery, plus Tyson's return from the Chapter 100 fire, remain unshown."
+open_canon_questions: []
+qa:
+  preceding_scene_checked: true
+  following_scene_open_checked: true
+  witnessed_vs_reported_checked: true
+  original_life_memory_boundary_checked: true
+  relationship_carryover_checked: true
+  chapter_length_pass: true
+  full_manuscript_duplicate_scan: "193 chapters; 1941329 chapter windows checked, zero exact cross-chapter matches; bonus-inclusive scan: 196 files, 2150186 body words, 2091881 windows, zero exact matches"
+  manuscript_structure_pass: "193/193 indexed and ordered"
+  source_anchored_memory_groups: "36 passed; one Chapter 014 lexical introduction cue manually reviewed as valid"
+  global_length_gate: "193/193 chapters at or above 10000 body words; zero shortfall"
+  semantic_and_style_review: "not certified manuscript-wide"

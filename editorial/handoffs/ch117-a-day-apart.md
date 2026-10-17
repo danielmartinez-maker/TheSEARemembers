@@ -1,0 +1,30 @@
+# Chapter 117 handoff: A Day Apart
+
+**Source:** `chapters/117-a-day-apart.md` on the PR #103 worktree. **Body words:** 10,163 by `scripts/audit_chapter_length.py` (whitespace-separated body words; Markdown headings and standalone scene dividers excluded). **Status:** Expanded, memory-provenance and repetition-repaired, and count-verified; chapter-specific continuity recorded. The final local full-manuscript duplicate scan passes. Independent style review and hosted Actions remain pending.
+
+## Exact chapter boundaries
+
+- **Chapter 116 closes:** Percy, Annabeth, and Tyson leave Cabin Three before dinner. The Cabin Three board is mounted. The first formal quiet-hour trial is planned for the next day. Chiron has inspected the beam above Percy's table and found no structural split, but the hardwood plug and separate target/net/backstop checks remain pending; Clarisse has no throwing clearance yet.
+- **Chapter 117 opens:** The next morning at breakfast. Percy and Annabeth agree to spend the day on separate plans and meet for dinner. Percy goes with Clarisse and Silena to test the Tempest Hall rig; Annabeth works on the east-porch study with Thalia.
+- **Chapter 118 opens:** The following morning at the camp's freshwater canoe lake. Amphitrite sends an Iris-message invitation to Percy and his chosen camp family. Chapter 117 adds no trip date, reply, or route.
+
+## Witnessed, reported, and unknown
+
+- **Directly witnessed — Tempest Hall:** Percy, Clarisse, and Silena test the gate and baffles in stages. A float crosses the stop boundary; Silena calls stop, Percy reduces the current, and Clarisse waits until the gate settles before retrieval. They add a caution mark and a separate closed marker, keep the hand rope along the coping, and leave the ladder access clear. The written sequence requires a locked gate before anyone retrieves a float and a watcher separate from the person operating the gate. A lowest-step signal check shows that the post obscures Percy's raised-arm cue from the original watcher position; Silena moves one tile toward the ladder, and the signal then passes clearly to Clarisse. They log tide direction and settings, reset the baffles, and leave the Hall clean.
+- **Current-rig status:** The fast lane stays closed pending Chiron's inspection, sealed signs, and a wet retest of the rewrapped practice grip. The gate stops rattling during the chapter, but the test is not represented as Chiron's final approval. Clarisse is spun once by the current and then makes a controlled pass. Percy receives a scrape to his elbow; Silena applies salve. Clarisse has a blister, which Percy cleans and wraps. No further injury is reported.
+- **Directly witnessed — east porch:** Annabeth and Thalia confirm that the plan's landing is three inches wider than the actual space. A bucket test shows water escaping at the gutter joint and spreading behind the step. Annabeth tests the door swing, bench depth and route to the stairs with a basket and a person occupying the seat. She recommends a narrow landing with a shallow bench along the wall, keeps the walking path clear, and prepares two stair options plus a list of checks for Chiron and Katie. A separate shallow channel is only proposed. No gutter repair, digging, or construction occurs.
+- **Quiet hour:** Percy, Clarisse, and Silena unanimously move the planned hour for this day to after the Tempest Hall test and before dinner. Percy uses the blue cloth and records test notes; Silena rewraps and dry-checks the grip, records that a wet retest with Chiron remains pending, and sets the spear aside rather than returning it to the rack; Clarisse sharpens outside. They finish the hour and plan to resume the usual board time the next day unless all three agree otherwise.
+- **Dinner and reunion:** Percy and Annabeth calmly exchange concrete results from their separate work. Their established relationship continues; they share affection and discuss a possible next-day afternoon together without booking it. The chapter does not turn the day apart into a repeated reassurance exchange.
+- **Memory boundary:** Only Percy and Annabeth retain erased-future memories. Neither discloses them to Clarisse, Silena, or Thalia. Annabeth describes her picture of the altered-history child she was as something she infers from Thalia's stories, not as firsthand recall; Thalia does not confirm a recovered memory. No one learns about Percy's missing autobiographical access to his altered childhood; Amphitrite is not present or informed.
+- **Unknown:** No exact date, season, year, or elapsed time is supplied. Chiron has not yet approved the Tempest Hall test. The porch foundation, rose-root conditions, gutter joint, channel outlet and construction schedule remain pending. No Atlantis reply, route, or travel date is established.
+
+## Carry forward
+
+- Keep the Tempest Hall fast lane closed until Chiron inspects the brace/markers, the signs are sealed, the wet grip test is complete, and the revised watcher sightline is retained. Preserve the written stop order, separate watcher, clear ladder route, and logged tide conditions.
+- Keep Percy and Clarisse's minor treated injuries as described; no additional recovery or injury is implied.
+- The porch design recommendation is a narrow landing with a shallow wall-side bench. The channel, gutter joint, foundation/root checks and any construction require review; no one should treat the drawing as permission to dig.
+- The first quiet-hour trial has happened after a one-day shift. The Cabin Three board's usual time resumes next day unless all residents agree to a different shift.
+- Percy and Annabeth's next-day afternoon idea remains conditional, not scheduled.
+- Atlantis remains unplanned until Chapter 118's invitation and later practical decisions.
+
+**Continuity sidecar:** `continuity/ch117.yaml` separates the witnessed tests and design recommendation from pending approvals and future plans.

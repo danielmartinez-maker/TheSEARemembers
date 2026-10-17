@@ -1,12 +1,28 @@
 # Full-manuscript 10,000-word expansion tracker
 
 **Scope:** Chapters 001–193 (two bonus interludes are excluded from the 10k narrative-chapter rule).
-**Current working source:** PR #103, branch `audit/four-phase-continuity-2026-10-13`. Earlier audit tables farther down document historical branches and checkpoints.
+**Current working source:** PR #103 head branch `audit/four-phase-continuity-2026-10-13`, updated from local continuation branch `audit/pr103-live-continuation`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Latest local continuation: privacy-boundary repairs (2026-10-17)
+## Latest local continuation: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Working branch `audit/pr103-live-continuation`, based on live PR #103 head `e9d86c2`; not yet pushed. Chapter 023 now preserves Amphitrite’s ignorance of Percy’s mismatched memories. Chapter 032 keeps Percy’s missing routines out of Triton’s report; Percy reviews the ordinary training-and-sisters summary and approves what is sent. Chapter 023 recounts at **10,011** body words and Chapter 032 at **10,159**.
+**Source:** Working candidate `audit/pr103-live-continuation`, based on PR #103 head `e9d86c2`; local QA is complete and the candidate is pending commit/push and fresh hosted Actions. The repository length audit reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+
+| Scope | Latest local result |
+|---|---:|
+| Ordered narrative chapters | **193/193** |
+| At or above 10,000 body words | **193** |
+| Below 10,000 / missing words | **0 / 0** |
+| Chapter-only every-offset 300-token windows | **1,941,329; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,150,186 body words / 2,091,881 windows; 0 exact matches** |
+| Source-anchored memory regression groups | **36 passed** |
+| Structure audit | **193/193 ordered; no reported errors** |
+
+The single lexical introduction cue in Chapter 014 was reviewed in context and is a valid first in-person meeting after prior Iris contact. Full semantic continuity, style/developmental review and hosted Actions on the final pushed head remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+
+## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
+
+**Source:** Working branch `audit/pr103-live-continuation`, based on live PR #103 head `e9d86c2`. Chapter 023 now preserves Amphitrite’s ignorance of Percy’s mismatched memories. Chapter 032 keeps Percy’s missing routines out of Triton’s report; Percy reviews the ordinary training-and-sisters summary and approves what is sent. Chapter 023 recounts at **10,011** body words and Chapter 032 at **10,159**.
 
 | Scope | Latest local result |
 |---|---:|
@@ -200,7 +216,7 @@ Chapter 090, *Storm and Sea*, was committed at `4c592e0fdd04e66a13485e44f60b4e46
 
 The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the previously CI-verified 40-chapter/208,815-word remainder. Chapters 078–079 then removed **8,677 additional required words**, giving the **previously verified 38 chapters / 200,138 words** outstanding. Chapter 080 then removed **4,298 mandatory shortfall words**, giving the **37 chapters / 195,840 words** remaining at that checkpoint. Length overages are not counted toward another short chapter's deficit. At this historical checkpoint, the [expansion queue](handoffs/55-short-chapters-execution-queue.md) started at **081** and also included **131**; the current queue is updated above. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
 
-## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
+## Historical Chapters 121–160 checkpoint (2026-10-12; superseded by current all-chapter count)
 
 **22 / 40 chapters** in this range have at least **10,000 body words**, as of the targeted revisions through commit `b278fc6615e9cc4193dc4c36709e08a95fa5ed9b`. **Every chapter 140–160 (21/21)** meets the mechanical minimum, as does **121 (10,632)**. The **18 remaining short chapters are 122–139**, collectively **94,887 words short** of their individual floors. Do not call the full range finished.
 
@@ -208,7 +224,7 @@ Revised passing counts beyond the existing baseline: **140 10,163; 141 10,030; 1
 
 Chapters 147, 149 and 151 required additional memory-boundary repairs: Clarisse and Thalia cannot remember the erased Ares/Hunter/tree events, and only Percy and Annabeth remember the former timeline. No universal manuscript clearance should be inferred.
 
-Source-specific prose changes, chapter-by-chapter counts, QA limits and open acceptance gates: [full 121–160 inventory](audits/ch121-160-inventory-2026-10-12.md) and [continuity handoff](handoffs/ch121-160-2026-10-12.md). These chapters pass **word count only**, not independent full-chapter literary or cross-range 300-word QA. Continue in order at **122**.
+Source-specific prose changes, chapter-by-chapter counts and QA limits at that date: [full 121–160 inventory](audits/ch121-160-inventory-2026-10-12.md) and [continuity handoff](handoffs/ch121-160-2026-10-12.md). The stated shortfall and “continue at 122” instruction are historical and superseded: the current repository count reports all 193 chapters above the floor. This section does not claim independent full-chapter literary or cross-range semantic review.
 
 ## Chapters 014–044 current 10k-length verification (2026-10-12)
 
