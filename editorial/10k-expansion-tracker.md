@@ -6,7 +6,7 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** current local continuation of PR #103 head `284b8cc`; these changes are queued for the existing PR branch after review. Hosted validation of the final pushed head is pending. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+**Source:** PR #103 source and ledger commit `53a5c2f`, based on prior head `284b8cc`. Hosted validation of the final pushed head is pending. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
 
 | Scope | Latest local result |
 |---|---:|
