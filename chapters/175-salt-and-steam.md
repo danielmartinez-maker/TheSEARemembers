@@ -238,7 +238,7 @@ It was slow. It was the kind of slow that has no clock in it. He had both hands 
 
 ---
 
-Silena stayed behind to do the towels, because Silena always stayed behind to do the towels, and because there were eleven of them now instead of the four that had gone down, which meant eleven people had swum in a room that had been locked for a year, which meant somebody had done something right on a Monday and nobody had said a word about it.
+Silena stayed behind to do the towels, because Silena always stayed behind to do the towels, and because there were eleven of them now instead of the four that had gone down, which meant eleven people had swum in a room that had been locked for a year, which meant somebody had done something right the day before and nobody had said a word about it.
 
 She went along the edge with the flat basket and collected them, wet and warm, and hung them on the racks in the little dressing room, and stood in the doorway a minute in her suit with her own towel around her shoulders and listened to the hall behind her.
 
