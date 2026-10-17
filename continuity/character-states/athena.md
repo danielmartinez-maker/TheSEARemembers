@@ -1,4 +1,5 @@
 # Athena — cumulative memory and knowledge boundaries
+**Entry coverage:** Chapters 001–193 searched against the chapter index, this profile, and chapter-ledger entries; character-relevant events are consolidated below, with absence treated as no recorded event. Chronology, provenance, and open facts remain source-bounded.
 
 **Chapters 001–007 source-verified status (no witnessed current-timeline appearance unless specified):**
 
@@ -69,3 +70,9 @@ Annabeth's mother in her ORIGINAL remembered life, not altered-life biology; onl
 ### Chapter 099 · remembered by Annabeth
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
 - **State:** OFFSTAGE. Annabeth tells Thalia about remembering Athena as her mother in the life she remembers, including Athena's letters and dream visits. Thalia hears Annabeth's account and does not gain autobiographical memories of Athena.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Two different parentages:** Athena is Annabeth’s mother in Annabeth’s remembered original life. In the altered current history Annabeth is Zeus and Beryl’s daughter, Thalia’s biological sister, and a Cabin One camper; Athena’s cabin remains a workroom, not her sleeping cabin. Only Annabeth retains autobiographical memories of Athena as her mother. (Sources: [Ch001](../../chapters/001-the-weight-of-salt-and-sky.md#L1), [Ch003](../../chapters/003-what-the-storm-remembers.md#L1), [Ch006](../../chapters/006-the-sister.md#L1), [Ch018](../../chapters/018-the-forge.md#L1); ledger [001–048](../chapter-ledgers/001-048.md#L1).)
+- **What others know:** Annabeth privately remembers Athena and her prior-life relationship; she directly tells Thalia in Ch18 and later discusses Athena’s letters and dream visits in Ch99. Thalia can remember those disclosures but does not inherit Annabeth’s memories. Percy’s presence, Annabeth’s architectural skill, owl symbols, or use of the Athena cabin does not prove a current Athena encounter or changed parentage. Jason does not receive the full history during the Roman call. (Sources: [Ch018](../../chapters/018-the-forge.md#L679), [Ch019](../../chapters/019-the-brother-across-the-country.md#L1), [Ch099](../../chapters/099-mothers.md#L291); ledger [090–100](../chapter-ledgers/090-100.md#L1).)
+- **Later state:** Annabeth continues to value Athena-related crafts and work while living as a Zeus daughter; these meanings are personal memory, not a revelation that Athena is her altered-life mother. The ledger trail through Ch193 records no approved memory transfer or new parentage. Any other character knows only the details Annabeth explicitly shares. Current contact with Athena is not established by these memories.

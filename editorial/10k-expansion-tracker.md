@@ -6,20 +6,20 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** source and ledger commit `90b14f8` is pushed to PR #103's existing branch. The counts below were measured on that chapter-source tree; hosted validation on the final PR head was pending at this report checkpoint. QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+**Source:** current local continuation of PR #103 head `284b8cc`; these changes are queued for the existing PR branch after review. Hosted validation of the final pushed head is pending. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-token windows | **1,941,441; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,150,298 body words / 2,091,993 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,941,481; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,150,338 body words / 2,092,033 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **36 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
-| Full-scene chapter-ledger coverage | **193/193; per-character cumulative matrix remains partial** |
+| Full-scene chapter-ledger coverage | **193/193; 49 selected character timelines; exhaustive per-character matrix remains incomplete** |
 
-The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Full semantic continuity and style/developmental review remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`. Hosted validation was pending on the final PR head at this report checkpoint.
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Full semantic continuity and style/developmental review remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`. Hosted validation remains pending on the final PR head.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 

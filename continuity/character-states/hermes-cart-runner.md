@@ -2,6 +2,13 @@
 
 **Chapters 001–002 status:** Not introduced in Chapter 001. New Chapter 002 entry.
 
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Chapter 002 — limited firsthand event:** An unnamed Hermes camper is at the drainage cut with a cart when the bank gives way. He receives a minor elbow scrape and is checked by Clarisse; she instructs him to return on foot the next day and show her where the edge failed so it can be marked ([Ch002](../../chapters/002-the-girl-with-lightning-in-her-veins.md#L817), [Ch002](../../chapters/002-the-girl-with-lightning-in-her-veins.md#L919), [Ch002](../../chapters/002-the-girl-with-lightning-in-her-veins.md#L957)).
+- **After Chapter 002:** The exact child is not named or separately identified in later chapters. Later cart scenes, evacuation groups, and named campers cannot be assigned to him by resemblance. Whether he completed the next-day marking task is unknown; his name, subsequent contact, injury healing, and knowledge are unknown.
+
+**Entry coverage:** One source-verified encounter in Chapter 002; no later identity-matched appearance verified through Chapter 193.
+
 ### Chapter 002 · The Girl With Lightning in Her Veins
 - **Knowledge provenance:** FIRSTHAND, except where indicated.
 - **Source:** [Chapter 002](../../chapters/002-the-girl-with-lightning-in-her-veins.md), combat training / drainage-cut cart scene.

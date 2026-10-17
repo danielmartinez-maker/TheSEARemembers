@@ -1,6 +1,6 @@
 # Poseidon: cumulative memory
 
-**Entry coverage:** Chapter 001 (source-checked); later chapters not yet systematically incorporated here.
+**Entry coverage:** Consolidated, source-anchored profile through Chapter 193; detailed event notes are grouped under the documented chapter/range headings, and omissions do not imply off-page contact or knowledge.
 
 ### Chapter 001 · The Weight of Salt and Sky
 - **Knowledge provenance:** ALTERED CHILDHOOD + FIRSTHAND.
@@ -114,3 +114,17 @@
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
 - **State:** OFFSTAGE. Amphitrite reports that Poseidon told her about Sally and who Sally was to Percy. No new direct Poseidon scene, promise or memory disclosure occurs.
 - **Knowledge boundary:** This report does not establish that Poseidon or Amphitrite knows Percy's erased-life memories or the timeline rewrite.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+**Cumulative state.** Poseidon is Percy's, Clarisse's, Silena's, Triton's, and Tyson's father in the altered history. Clarisse's and Silena's family identity and Cabin Three residence do not change with the older-life stories they share. Poseidon is not automatically privy to what one child tells another. Earlier entries document his absence from many early camp scenes, Clarisse's report of his brief visit when she was eight, and his later direct family meal and open, unfinished offers to Clarisse and Tyson.
+
+- **Chapters 037–060 — conflict and Olympus.** In Ch48 Zeus arrives at camp with accusations against Poseidon and Atlantis; these are Zeus's claims, not evidence Percy or Poseidon caused the dispute. Poseidon appears at Olympus in Ch58, where Percy and the questers witness the bolt being received by Zeus and Poseidon's presence/response; do not give Poseidon private knowledge beyond the scene. The questers return in Ch59. [Ch.048 ledger](../chapter-ledgers/001-048.md#L292), [Ch.058–060 ledger](../chapter-ledgers/049-060.md#L77).
+- **Chapters 061–082 — no direct Poseidon scene established in this span.** The chapters include Percy/Atlantis schooling and ordinary correspondence, but do not establish a new Poseidon visit, conversation, or knowledge of the memory gap. [Ch.061–068 ledger](../chapter-ledgers/061-068.md#L7), [Ch.077–082 ledger](../chapter-ledgers/077-089.md#L7).
+- **Chapters 083–089 — direct family invitation and visit.** Poseidon sends a pearl invitation for Percy, Clarisse, and Silena to visit Atlantis Friday through Sunday and invites Annabeth as a guest. The siblings and Annabeth accept. Poseidon and Amphitrite welcome Clarisse and Silena as their daughters and Annabeth as Zeus's daughter. Percy shows his sisters the nursery and repeats what he has been told about his altered childhood; those are reports and artifacts, not his remembered scenes. Poseidon's invitation is time-bounded and does not establish permanent residence, reconciliation, or a future schedule. [Ch.083 ledger](../chapter-ledgers/077-089.md#L45), [Ch.083 scene](../../chapters/083-spring-break-visit.md#L1).
+
+- **Through Ch160 — carry forward the explicit Ch98 boundary.** Poseidon attended the joint meal in Ch98, heard Clarisse describe his ten-minute visit when she was eight, apologized, accepted her refusal of a hug, and offered to ask about watching a future training; no repair or follow-up visit is confirmed. He heard Silena's menu/boundary explanation and Tyson's hinge demonstration. He agreed to hear the hinge later, without a date. The report Amphitrite later gives about Sally does not establish that Poseidon knows of the rewrite or Percy's prior-life memories. [Ch.98 scene](../../chapters/098-fathers-day-gods.md#L1), [Ch.98 profile entry](#chapter-098-%C2%B7-witnessed--reported--unknown).
+- **Chapters 161–166 — no direct Poseidon scene or knowledge update.** Tyson departs for a bounded forge stay; the scene does not establish Poseidon's role, knowledge, or permission beyond what Chiron states. No new visit or promise by Poseidon is shown. [Ch.161–166 ledger](../chapter-ledgers/161-166.md#L9).
+- **Chapters 167–193 — no direct appearance or confirmed report to him.** Triton visits Percy and Clarisse in Ch167; that does not prove Poseidon was present or later informed. Tyson's letters concern camp/forge matters. No later scene confirms the promised hinge visit or a follow-up with Clarisse. The later chapters do not show Poseidon learning Percy and Annabeth's erased-future memories or the memory gap. [Ch.167 ledger](../chapter-ledgers/167-171.md#L23), [Ch.183–188 ledger](../chapter-ledgers/183-188.md#L12), [Ch.189–193 ledger](../chapter-ledgers/189-193.md#L18).
+
+**Current carry-forward at Ch193.** Poseidon's exact present relationship with each child remains as last witnessed: an apology to Clarisse without completed repair, a declined hug, and an unfulfilled offer to ask before attending training; a promise to hear Tyson's hinge without a set date. Do not turn Triton's visits or children's reports into Poseidon's firsthand knowledge. No later memory disclosure, new family arrangement, or confirmed visit is established.

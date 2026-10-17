@@ -38,7 +38,7 @@
 ## Phase 4 — mechanical verification
 
 - **Body length:** 10,321 words by `audit_chapter_length.py`'s whitespace-token method.
-- **Full manuscript:** The latest local run reports 193/193 indexed and ordered, 193 chapters at or above 10,000 words, and zero shortfall. The chapter-only scan checked 1,941,434 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covered 196 files, 2,150,291 body words and 2,091,986 windows, with zero exact matches.
+- **Full manuscript:** The latest local run reports 193/193 indexed and ordered, 193 chapters at or above 10,000 words, and zero shortfall. The chapter-only scan checked 1,941,481 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covered 196 files, 2,150,338 body words and 2,092,033 windows, with zero exact matches.
 - **Structure and memory:** All 36 source-anchored memory groups pass; the evidence index writes 193 provisional chapter locators; Python compile and chapter structure checks pass. One lexical introduction cue in Chapter 014 was manually reviewed as a valid in-person introduction following prior Iris contact. Earlier hosted Actions passed on prior revisions; they do not certify this candidate. Check the latest pushed SHA's workflow results for hosted validation.
 - **Coverage limit:** These mechanical results and the Chapter 101 scene review do not certify semantic, character-psychology or literary quality across all 193 chapters.
 

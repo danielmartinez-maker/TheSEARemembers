@@ -1,6 +1,6 @@
 # Triton: cumulative memory
 
-**Entry coverage:** Chapter 001 (source-checked); later chapters not yet systematically incorporated here.
+**Entry coverage:** Consolidated, source-anchored profile through Chapter 193; detailed event notes are grouped under the documented chapter/range headings, and omissions do not imply off-page contact or knowledge.
 
 ### Chapter 001 · The Weight of Salt and Sky
 - **Knowledge provenance:** ALTERED CHILDHOOD + FIRSTHAND.
@@ -109,3 +109,18 @@
 ### Chapter 141 · witnessed / reported / unknown
 - **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch141](../../chapters/141-the-canoe-race.md).
 - **State:** Attends as a supporter/visitor at the canoe race. No residence at camp or new memory disclosure is established by his presence.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+**Cumulative state.** Triton is Poseidon's son and Percy's older paternal half-brother. He has his own firsthand memories of Atlantis and childhood; Percy does not inherit these when Triton tells stories. The earlier entries record his first camp visit, overnight stay and notebook, his relay of Amphitrite's optional contact proposal, the bounded reports about Poseidon, and later visits/gifts. Preserve reported opinion as Triton's, not as a confirmed command from Poseidon.
+
+- **Chapters 037–060 — no direct appearance newly established.** The quest and its return do not make Triton an eyewitness to the mortal journey; family members' reports to him are not shown. [Ch.037–048 ledger](../chapter-ledgers/001-048.md#L256), [Ch.049–060 ledger](../chapter-ledgers/049-060.md#L7).
+- **Chapter 065 — sea-skill lessons.** Triton leads a bounded three-morning lesson plan for Percy and camp friends in breath bubbles, sea movement, and safe stopping; Ch065 alone does not establish completion of all three sessions or an exact schedule. Annabeth observes/coaches; the lesson does not give Percy access to Triton's childhood memories. [Ch.065 ledger](../chapter-ledgers/061-068.md#L38), [Ch.065 scene](../../chapters/065-triton-s-lesson.md#L1).
+- **Chapters 066–082 — no direct visit documented.** Jason's letter and Percy’s Atlantis-study correspondence do not establish Triton's presence or knowledge. Tyson's forges and Atlantis home remain distinct from Triton's camp visits. [Ch.066–068 ledger](../chapter-ledgers/061-068.md#L38), [Ch.077–082 ledger](../chapter-ledgers/077-089.md#L39).
+- **Chapters 083–089 — Atlantis escort.** Triton meets the visiting siblings and Annabeth at the strait and escorts them through the agreed weekend visit. Percy shares family accounts and artifacts; Triton’s own childhood recollections do not become Percy's autobiographical memories. [Ch.083 ledger](../chapter-ledgers/077-089.md#L45).
+
+- **Chapters 161–166 — no direct appearance or new contact.** Tyson leaves for the forge stay; Triton is not shown at the ferry or in the camp scenes. No new message, gift, or promise is recorded. [Ch.161–166 ledger](../chapter-ledgers/161-166.md#L9).
+- **Chapter 167 — direct visit to Percy and Clarisse.** Triton watches Percy spar from behind the arena, speaks with him and Clarisse during the buoy work, praises Percy's stance, pulls him from the water, and tells him to hold the rope. His visit is firsthand to Percy/Clarisse; it does not show that Annabeth, Silena, Amphitrite, or Poseidon witnessed it or learned its contents. A smooth white perforated stone remains on the sand and Clarisse pockets it; Triton's sea-hemmed bracelet on Percy goes cold as he departs. No explanation of the bracelet's behavior or new power is established. [Ch.167 scene](../../chapters/167-what-sharpens-together.md#L625), [Ch.167 ledger](../chapter-ledgers/167-171.md#L23).
+- **Chapters 168–193 — no further direct appearance established.** The remaining reviewed ledgers do not record another visit or contact from Triton. His prior photos, gifts, stories, and advice remain limited to the scenes already recorded above; no new memory disclosure or changed relationship is inferred. [Ch.168–171 ledger](../chapter-ledgers/167-171.md#L35), [Ch.183–188 ledger](../chapter-ledgers/183-188.md#L12), [Ch.189–193 ledger](../chapter-ledgers/189-193.md#L18).
+
+**Current carry-forward at Ch193.** The last newly recorded in-person contact is Ch167. Triton's later whereabouts, knowledge of Percy's canoe/letters, response from Poseidon, and any future visit are unknown. Amphitrite's contact proposal remains as previously recorded; no acceptance beyond Percy's documented bounded choice and no new contact schedule is invented here.

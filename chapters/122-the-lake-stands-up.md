@@ -772,7 +772,7 @@ Triton blinked. "What?"
 
 Annabeth drew a narrow rectangle on her page. "A guest card. Not permission to leave, because permission shouldn't be needed. An explanation that the people staffing the route have already been told to help."
 
-Triton looked at the sketch. He seemed personally offended by the fact that a fourteen-year-old had just identified a gap in his plans. Then he said, "That would be useful. I'll have the steward prepare copies."
+Triton looked at the sketch. He seemed personally offended by the fact that a camper had just identified a gap in his plans. Then he said, "That would be useful. I'll have the steward prepare copies."
 
 "You don't have to be upset about it," Percy offered.
 

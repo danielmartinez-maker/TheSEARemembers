@@ -84,5 +84,5 @@ qa:
   next_chapter_opening_checked: true
   private_memory_boundary_checked: true
   age_and_date_inference_checked: true
-  exact_300_word_duplicate_check: "Final local QA on 2026-10-17: zero exact matches across 1,941,434 chapter-only windows and 2,091,986 bonus-inclusive windows in 196 files."
+  exact_300_word_duplicate_check: "Final local QA on 2026-10-17: zero exact matches across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows in 196 files."
   independent_semantic_and_style_review: "chapter-specific expansion and continuity pass complete; broader manuscript review pending"

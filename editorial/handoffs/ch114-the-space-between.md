@@ -1,6 +1,6 @@
 # Chapter 114 handoff: The Space Between
 
-**Source:** `chapters/114-the-space-between.md` on the PR #103 worktree. **Body words:** 10,005 by `scripts/audit_chapter_length.py`. **Status:** Expanded and count-verified; independent Chapter 113–115/canon review found the handoff sound after the metadata corrections below. The final local full-manuscript duplicate QA passes; full semantic/style review and Hosted Actions passed on PR commit `b9140dd`: [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open.
+**Source:** `chapters/114-the-space-between.md` on the PR #103 worktree. **Body words:** 10,005 by `scripts/audit_chapter_length.py`. **Status:** Expanded and count-verified; independent Chapter 113–115/canon review found the handoff sound after the metadata corrections below. The final local full-manuscript duplicate QA passes; full semantic/style review and Earlier hosted Actions passed on PR commit `b9140dd` (hosted validation of this continuation is pending): [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open.
 
 ## Sequence and certainty
 

@@ -8360,7 +8360,7 @@
         "Percy": 105,
         "Annabeth": 71,
         "Thalia": 36,
-        "Clarisse": 160,
+        "Clarisse": 161,
         "Silena": 27,
         "Poseidon": 3,
         "Tyson": 32,
@@ -8368,7 +8368,7 @@
         "Sally": 1,
         "Chiron": 17,
         "Beckendorf": 13,
-        "Ella": 65
+        "Ella": 66
       },
       "event_cues_for_manual_review": [
         {
@@ -9328,17 +9328,17 @@
       "path": "chapters/078-nico-s-birthday.md",
       "title": "Chapter 78: Nico's Birthday",
       "name_mentions": {
-        "Percy": 42,
-        "Annabeth": 61,
-        "Thalia": 17,
-        "Clarisse": 32,
-        "Silena": 10,
+        "Percy": 44,
+        "Annabeth": 62,
+        "Thalia": 18,
+        "Clarisse": 35,
+        "Silena": 12,
         "Poseidon": 1,
         "Tyson": 1,
         "Jason": 1,
-        "Chiron": 31,
-        "Grover": 2,
-        "Nico": 109,
+        "Chiron": 32,
+        "Grover": 1,
+        "Nico": 114,
         "Zeus": 2,
         "Beckendorf": 6
       },
@@ -10539,7 +10539,7 @@
       "path": "chapters/088-spear-song-sea.md",
       "title": "Chapter 88: Spear, Song, Sea",
       "name_mentions": {
-        "Percy": 194,
+        "Percy": 195,
         "Annabeth": 71,
         "Thalia": 52,
         "Clarisse": 176,
@@ -10553,7 +10553,14 @@
       },
       "event_cues_for_manual_review": [
         {
-          "line": 13,
+          "line": 5,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "By the time the training block began, Will had cleared him for ordinary, supervised practice. Sea work stayed inside the marked saltwater area, and Percy was to stop if the dizziness returned; clearance did not include holding back another"
+        },
+        {
+          "line": 15,
           "named": [
             "Clarisse",
             "Poseidon"
@@ -10561,28 +10568,28 @@
           "excerpt": "\"It's 0700,\" Clarisse said. \"Barely dawn is for Aphrodite kids. Poseidon kids train at dawn. Dad would be ashamed.\""
         },
         {
-          "line": 19,
+          "line": 21,
           "named": [
             "Percy"
           ],
           "excerpt": "\"Morning to you too, sis,\" Percy said."
         },
         {
-          "line": 27,
+          "line": 29,
           "named": [
             "Clarisse"
           ],
           "excerpt": "\"I will stab you,\" Clarisse said without heat."
         },
         {
-          "line": 29,
+          "line": 31,
           "named": [
             "Silena"
           ],
           "excerpt": "\"You won't,\" Silena said. \"You love us.\""
         },
         {
-          "line": 33,
+          "line": 35,
           "named": [
             "Chiron",
             "Luke"
@@ -10590,7 +10597,7 @@
           "excerpt": "\"One week,\" she said. \"We have one week before the next patrol rotation, before Chiron starts throwing quests at us again, before —\" She didn't say *before Luke does something*. She didn't have to. \"We keep fighting like three solo demigods"
         },
         {
-          "line": 37,
+          "line": 39,
           "named": [
             "Clarisse",
             "Silena"
@@ -10598,7 +10605,7 @@
           "excerpt": "\"My thing is not getting stabbed,\" Clarisse said. \"Your thing is fish magic. Silena's thing is —\" She waved vaguely at Silena, who was unfairly pretty even with bedhead. \"Pretty magic and not dying of poison.\""
         },
         {
-          "line": 53,
+          "line": 55,
           "named": [
             "Percy",
             "Clarisse",
@@ -10606,18 +10613,11 @@
             "Poseidon"
           ],
           "excerpt": "He read it in the Big House with all three Poseidon children sitting across from him. Percy had expected the centaur to approve at once. Clarisse was a skilled fighter, Silena had helped in the infirmary for years, and Percy could call the"
-        },
-        {
-          "line": 55,
-          "named": [
-            "Chiron"
-          ],
-          "excerpt": "\"What will you do if someone wants to stop?\" Chiron asked."
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 145,
+          "line": 147,
           "named": [
             "Clarisse",
             "Silena"
@@ -10625,7 +10625,7 @@
           "excerpt": "Silena learned differently. She couldn't remember counts, but she could remember rhythm, so she set Form One to the chorus of the shanty she'd teach them later, humming under her breath with each turn. Step-turn-guard, step-turn-guard. Clar"
         },
         {
-          "line": 423,
+          "line": 425,
           "named": [
             "Thalia",
             "Clarisse"
@@ -10633,14 +10633,14 @@
           "excerpt": "\"Your secret's safe with the scouts,\" Thalia said, and bumped her fist against Clarisse's shoulder — high praise, from her."
         },
         {
-          "line": 451,
+          "line": 453,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy didn't promise to speak for him immediately. He asked whether Theo wanted to be there when they talked. The boy nodded."
         },
         {
-          "line": 507,
+          "line": 509,
           "named": [
             "Percy",
             "Clarisse",
@@ -15593,12 +15593,12 @@
         "Annabeth": 34,
         "Thalia": 38,
         "Clarisse": 132,
-        "Silena": 108,
-        "Amphitrite": 4,
+        "Silena": 107,
+        "Amphitrite": 3,
         "Poseidon": 2,
         "Triton": 23,
         "Tyson": 57,
-        "Sally": 9,
+        "Sally": 6,
         "Chiron": 7,
         "Zeus": 2,
         "Beckendorf": 1
@@ -18957,7 +18957,7 @@
         "Annabeth": 50,
         "Thalia": 10,
         "Clarisse": 41,
-        "Silena": 53,
+        "Silena": 54,
         "Poseidon": 1,
         "Tyson": 103,
         "Chiron": 12,
@@ -19152,14 +19152,6 @@
             "Silena"
           ],
           "excerpt": "He turned his hand over under hers and laced their fingers, cold and warm together, and held on the way Silena had told him to that morning: when there's nothing to say. There was nothing to say. The lake moved. The pines hissed. A night bi"
-        },
-        {
-          "line": 561,
-          "named": [
-            "Silena",
-            "Tyson"
-          ],
-          "excerpt": "Silena had heard her that morning on the bench of memory — two days after today, then the ferry — no. This was Wednesday, and Tyson was gone, and the arithmetic had closed. What remained was the keeping: the visitor towel washed and folded,"
         }
       ],
       "event_witnesses_verified": false,
@@ -19293,7 +19285,7 @@
       "name_mentions": {
         "Percy": 55,
         "Annabeth": 100,
-        "Thalia": 117,
+        "Thalia": 116,
         "Clarisse": 55,
         "Silena": 49,
         "Poseidon": 1,
@@ -19390,7 +19382,7 @@
           "excerpt": "The circle went quiet. The 40th-tally possibility sat in the middle like a stone, mentioned once as an open thread, not resolved, not chased. Thalia nodded slowly. Clarisse poked the fire. Silena logged nothing, which was itself a kind of l"
         },
         {
-          "line": 455,
+          "line": 453,
           "named": [
             "Thalia"
           ],
@@ -19409,12 +19401,12 @@
       "path": "chapters/165-the-morning-after.md",
       "title": "Chapter 165: The Morning After",
       "name_mentions": {
-        "Percy": 61,
-        "Annabeth": 55,
-        "Thalia": 60,
+        "Percy": 60,
+        "Annabeth": 53,
+        "Thalia": 61,
         "Clarisse": 42,
-        "Silena": 51,
-        "Tyson": 12,
+        "Silena": 52,
+        "Tyson": 13,
         "Jason": 1,
         "Chiron": 5
       },
@@ -19517,15 +19509,16 @@
       "path": "chapters/166-the-braid-and-the-blue-rag.md",
       "title": "Chapter 166: The Braid and the Blue Rag",
       "name_mentions": {
-        "Percy": 15,
+        "Percy": 17,
         "Annabeth": 90,
-        "Thalia": 96,
+        "Thalia": 97,
         "Clarisse": 11,
         "Silena": 17,
         "Poseidon": 1,
+        "Tyson": 1,
         "Jason": 3,
         "Beryl": 3,
-        "Chiron": 5
+        "Chiron": 6
       },
       "event_cues_for_manual_review": [
         {
@@ -20169,17 +20162,41 @@
       "title": "Chapter 172: The Last Warm Night",
       "name_mentions": {
         "Percy": 48,
-        "Annabeth": 53,
-        "Thalia": 37,
-        "Clarisse": 52,
-        "Silena": 40,
-        "Amphitrite": 1,
+        "Annabeth": 54,
+        "Thalia": 39,
+        "Clarisse": 54,
+        "Silena": 41,
+        "Amphitrite": 3,
         "Poseidon": 1,
         "Triton": 1,
         "Tyson": 1,
-        "Chiron": 11
+        "Chiron": 12
       },
       "event_cues_for_manual_review": [
+        {
+          "line": 3,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "The first story Percy knew about sleeping outside began with a sea goddess giving her nine-year-old son permission."
+        },
+        {
+          "line": 5,
+          "named": [
+            "Percy",
+            "Amphitrite",
+            "Triton"
+          ],
+          "excerpt": "Amphitrite had told it to him: she had signed the permission herself, in a hand that looked like tide charts, and Triton had kept watch with a bronze lantern hung from a pole and a spear across his knees, performing vigilance the way other"
+        },
+        {
+          "line": 7,
+          "named": [
+            "Clarisse",
+            "Amphitrite"
+          ],
+          "excerpt": "Amphitrite said he had not done it again. Atlantis had rules about tides. Camp had rules about everything else, and most of the rules had Clarisse's fingerprints on them."
+        },
         {
           "line": 11,
           "named": [
@@ -20209,60 +20226,38 @@
           "excerpt": "The harpy would pass at midnight and count them, and Chiron said the word *harpy* in a tone that suggested Ms. O'Fee was not personally liable for what happened next."
         },
         {
-          "line": 27,
+          "line": 29,
           "named": [
             "Chiron"
           ],
           "excerpt": "\"Questions,\" Chiron said."
-        },
-        {
-          "line": 29,
-          "named": [
-            "Annabeth"
-          ],
-          "excerpt": "\"When did you decide this?\" Annabeth asked. \"Because on Friday you said we'd have to wait for the equinox committee.\""
-        },
-        {
-          "line": 35,
-          "named": [
-            "Thalia",
-            "Chiron"
-          ],
-          "excerpt": "\"I said it in April,\" Chiron said, \"about something else. Last night your sister Thalia came to my porch at eleven with her boots still on and argued for twenty minutes, and I would like it noted for the record that I did not yield to the a"
-        },
-        {
-          "line": 37,
-          "named": [
-            "Silena"
-          ],
-          "excerpt": "\"She'll deny the whole thing,\" Silena said."
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 403,
+          "line": 405,
           "named": [
             "Annabeth",
             "Silena"
           ],
-          "excerpt": "\"I've never told anybody that. At Atlantis I counted the days between ships. I was nine, and I thought everybody did that. And when I got here, in the summer, I counted everything. Minutes, occurrences. I counted how long it took people to"
+          "excerpt": "\"I've never told anybody this part. Atlantis feels like waiting between ships. I can't tell you a room or a face or even whether anyone actually counted; it's just the shape that idea takes in me. And since I got here, in the summer, I coun"
         },
         {
-          "line": 451,
+          "line": 453,
           "named": [
             "Percy"
           ],
           "excerpt": "\"I know how it goes. I know how nights work. They get late, and people get cold, and then it's morning, and then it's next week, and the lake closes, and the frost stays.\" Her voice did not shake, quite. \"I hate it. I've hated it all week."
         },
         {
-          "line": 565,
+          "line": 567,
           "named": [
             "Clarisse"
           ],
           "excerpt": "It was Clarisse's. It had been known since a folded note in a boy's pocket had said, in a handwriting that thought nobody was looking, CLARISSE SNORES WHEN SHE NAPS, DO NOT TELL HER I TOLD YOU, and it had been a closely guarded secret for a"
         },
         {
-          "line": 615,
+          "line": 617,
           "named": [
             "Annabeth"
           ],
@@ -20555,6 +20550,13 @@
         }
       ],
       "possible_secret_and_memory_cues": [
+        {
+          "line": 207,
+          "named": [
+            "Percy"
+          ],
+          "excerpt": "Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble wit"
+        },
         {
           "line": 405,
           "named": [
@@ -21228,6 +21230,13 @@
           "excerpt": "That was the thing about October: the smell arrived first and the cold arrived second. He lay under his quilt with one arm out and let the cabin tell him the shape of the day without moving. Somebody — Silena, only Silena — had the big bowl"
         },
         {
+          "line": 11,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "He had gone to bed Tuesday night with the hall still in his shoulders — the steam off the water, the lantern hooked on the rail, the long walk up the hill afterward with Annabeth's hand cold in his and then not cold — and woken into a cabin"
+        },
+        {
           "line": 13,
           "named": [
             "Silena"
@@ -21268,14 +21277,6 @@
             "Clarisse"
           ],
           "excerpt": "\"Put that down,\" Clarisse said."
-        },
-        {
-          "line": 75,
-          "named": [
-            "Clarisse",
-            "Silena"
-          ],
-          "excerpt": "\"There's a code.\" Silena did not turn around. Her hands were on the second loaf, seams pinched, and her voice had the pleasant blankness of a referee who has been looking forward to this. \"Clarisse, read him the code.\""
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -22135,7 +22136,7 @@
       "title": "Chapter 192: Against the Windows",
       "name_mentions": {
         "Percy": 31,
-        "Annabeth": 31,
+        "Annabeth": 32,
         "Thalia": 14,
         "Clarisse": 55,
         "Silena": 28,
@@ -22234,7 +22235,7 @@
         "Percy": 67,
         "Annabeth": 57,
         "Thalia": 64,
-        "Clarisse": 44,
+        "Clarisse": 45,
         "Silena": 42,
         "Rhys": 19,
         "Beryl": 2,

@@ -77,6 +77,8 @@ CHECKS = {
     "chapters/070-clarisse-s-poems.md": {
         "present": ("You said no", "I haven't read it",
                     "I'm correcting my own mistake",
+                    "That was the one I agreed to",
+                    "No more from the notebook today",
                     "The only safe mounting points",
                     "Once Beckendorf repaired the brace"),
         "absent": ("I'm not moving until story time happens",
@@ -226,9 +228,13 @@ CHECKS = {
                    "Percy told Amphitrite that he could not remember his childhood in Atlantis"),
     },
     "chapters/127-guest-and-beloved.md": {
-        "present": ("We can learn who you are now", "wish being here felt easier",
+        "present": ("We can take each visit as it comes",
+                    "I don't want every visit to feel like a test I have to pass",
+                    "wish being here felt easier",
                     "Why would I want them all to belong to me in the same way?"),
         "absent": ("missing years are not a debt you owe me",
+                   "We can learn who you are now",
+                   "Not because I have to make up for those years",
                    "Percy told Amphitrite that he remembered another life",
                    "Percy told Amphitrite that he could not remember his childhood in Atlantis"),
     },

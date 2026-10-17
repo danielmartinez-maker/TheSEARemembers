@@ -21,3 +21,9 @@
 ### Chapter 22 · verified carry-forward
 - **[Ch22](../../chapters/022-storm-training.md):** Named in camp activity but not shown knowing private training issues, no old-life recollections.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Chapters 012–026 — current camp role:** Luke appears as a current camp helper at Beckendorf's forge and later gives the night-watch rule and checks the roster; Thalia knows him as a friend from her present childhood. Percy privately remembers a different life's betrayal and has disclosed limited facts to Thalia, but Luke has neither committed that betrayal in this history nor been told their private memories ([Ch012](../../chapters/012-what-remains.md#L371), [Ch025](../../chapters/025-night-watches.md#L13), [Ch026](../../chapters/026-the-roof.md#L261)).
+- **Chapter 177 — an unread letter:** Thalia sees a local postmark on an unread letter from Luke; her narration says he had been at camp for a week in July, had been on his own quest since mid-August, and had mailed this letter from about a day's walk away without visiting. The letter's contents remain unread in this scene, and no reply or later return is established here ([Ch177](../../chapters/177-the-one-who-came-back.md#L11)).
+- **Knowledge boundary / coverage:** No source here transfers Percy's autobiographical memories to Luke or Thalia. His later presence, receipt of letters, and any change to his relationship with the Grace family remain unknown beyond the stated November plan. **Entry coverage:** selected verified milestones in Chapters 012–026 and 177; not an exhaustive appearance log.

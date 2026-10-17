@@ -2,6 +2,14 @@
 
 **Chapters 001–002 status:** Not introduced in Chapter 001. New Chapter 002 entry.
 
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Chapter 002 — training role; identity limit:** Matt is named as an Ares camper and combat instructor supervising Percy's basic training. A separate Matt is also called to help during the drainage-cart rescue, but the chapter does not establish whether that is the same camper or instructor ([Ch002](../../chapters/002-the-girl-with-lightning-in-her-veins.md#L104), [Ch002](../../chapters/002-the-girl-with-lightning-in-her-veins.md#L412)).
+- **Chapters 003–012:** The profile's chapter-by-chapter source checks establish no further specific Matt conversation or assigned station. Do not infer that he joined the Hall inquiry, learned the private prophecy material, or participated in later routes simply because he is a camper.
+- **Knowledge and unknowns:** Matt's later location, the outcome of the cart-rescue identity question, and any later contact with Percy are unknown. No source gives him Percy/Annabeth's private autobiographical memories.
+
+**Entry coverage:** Source-verified training instruction and a possible second rescue mention in Chapter 002; the two Matt references may be distinct. No identity-matched later event is verified through Chapter 193.
+
 ### Chapter 002 · The Girl With Lightning in Her Veins
 - **Knowledge provenance:** FIRSTHAND, except where indicated.
 - **Source:** [Chapter 002](../../chapters/002-the-girl-with-lightning-in-her-veins.md), combat training / drainage-cut cart scene.

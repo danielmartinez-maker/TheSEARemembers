@@ -1,4 +1,5 @@
 # Sally — cumulative memory and knowledge boundaries
+**Entry coverage:** Chapters 001–193 searched against the chapter index, this profile, and chapter-ledger entries; character-relevant events are consolidated below, with absence treated as no recorded event. Chronology, provenance, and open facts remain source-bounded.
 
 **Chapters 001–007 source-verified status (no witnessed current-timeline appearance unless specified):**
 
@@ -69,3 +70,10 @@ Percy's original-life mortal mother, alive through the adolescence he remembers;
 ### Chapter 099 · remembered by Percy
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md).
 - **State:** OFFSTAGE. Percy recalls Sally's lunch notes, blue food and improvised singing from the life he remembers. These are Percy's autobiographical memories, not events witnessed by campers in his altered childhood.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+- **Two distinct histories:** Sally is Percy’s mortal mother in the life he remembers; he has firsthand autobiographical memories of her raising him in Manhattan through adolescence. In the altered history, she died of illness when Percy was two. That death and the later Atlantean upbringing are reported to Percy by Amphitrite and are not part of his firsthand memories. Sally herself has no present-timeline appearance or speaking scene established in the reviewed ledger record. (Sources: [Ch001](../../chapters/001-the-weight-of-salt-and-sky.md#L1), [Ch003](../../chapters/003-what-the-storm-remembers.md#L1), [Ch006](../../chapters/006-the-sister.md#L1); ledger [001–048](../chapter-ledgers/001-048.md#L1).)
+- **Percy’s remembered experiences:** Percy’s memories include Sally’s care, notes, blue-food tradition, eclipse watching, songs, and stories. These are Percy’s memories from the original life, not scenes witnessed by his altered-history family. He may privately recall or disclose selected memories, but others acquire only the words they actually hear. Ch12 records Percy telling Thalia about Sally and the different childhood; this is a report Thalia can remember, not a memory she shares. (Sources: [Ch011](../../chapters/011-the-eclipse.md#L1), [Ch012](../../chapters/012-what-remains.md#L419), [Ch020](../../chapters/020-cake-and-lightning.md#L1), [Ch021](../../chapters/021-strawberry-fields-and-amphitheater-nights.md#L1), [Ch099](../../chapters/099-mothers.md#L1); ledgers [090–100](../chapter-ledgers/090-100.md#L1).)
+- **Knowledge limits:** Percy has deliberately concealed his memory predicament from Amphitrite; she knows the altered-history death and her own role raising him, but not his original-life consciousness or missing autobiographical memories. Ch99 recollection of Sally remains Percy’s; later family or camp scenes do not create a Sally appearance. No evidence through Ch193 that Sally knows about either timeline or receives current correspondence.
+- **Chronology:** Sally’s altered-history death is when Percy was two; exact date and cause details beyond the established illness are not supplied here. Percy’s remembered-life scenes do not provide a present chronology for Sally.

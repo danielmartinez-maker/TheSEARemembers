@@ -1,6 +1,6 @@
 # Grover: cumulative memory
 
-**Entry coverage:** Chapter 001 (source-checked); later chapters not yet systematically incorporated here.
+**Entry coverage:** Chapters 001–193 searched against the chapter index, this profile, and chapter-ledger entries; character-relevant events are consolidated below, with absence treated as no recorded event. Chronology, provenance, and open facts remain source-bounded.
 
 ### Chapter 001 · The Weight of Salt and Sky
 - **Knowledge provenance:** FIRSTHAND.
@@ -142,3 +142,10 @@
 ### Chapter 143 · witnessed / reported / unknown
 - **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch143](../../chapters/143-the-dock-repair.md).
 - **State:** Participates with Ella and the others in rebuilding and walk-testing the canoe dock after the storm. The group completes the physical test; Chiron's repair record/formal reopening remains pending.
+
+## Verified cumulative timeline (Chapters 001–193)
+
+- **First meeting and friendship (Ch001–022):** Grover meets Percy when Percy arrives at Camp Half-Blood, escorts him, and takes him to Annabeth at Percy’s request. He notices Percy’s recognition and hears only Percy’s limited explanation; he is not told the full erased-future secret. He is an established friend of Annabeth and Thalia as well. His Ch17 comment that he is considering the search for Pan is an intention requiring Chiron’s authorization, not a quest already undertaken. He joins camp group scenes only when present; private talks are not his knowledge absent a report. (Sources: [Ch001](../../chapters/001-the-weight-of-salt-and-sky.md#L1), [Ch017](../../chapters/017-lake-day.md#L1), [Ch021](../../chapters/021-strawberry-fields-and-amphitheater-nights.md#L1); ledger [001–048](../chapter-ledgers/001-048.md#L1).)
+- **Camp life and relationships (Ch023–089):** Grover remains part of the established camp friend group and appears in lake, performance, dance, quest, and homecoming activities. His consideration of Pan’s search remains distinct from approved travel/departure. Ch45 records his mutual, cautious interest with Juniper, including his private letter and song; they are not confirmed as dating. Ch49–60 quest events are firsthand only for participants; later callbacks should not place him in scenes he did not attend. (Sources: [Ch045](../../chapters/045-grover-s-crush.md#L418), [Ch049](../../chapters/049-the-quest.md#L1), [Ch059](../../chapters/059-homecoming.md#L1), [Ch080](../../chapters/080-the-second-dance.md#L1); ledgers [049–060](../chapter-ledgers/049-060.md#L1), [077–089](../chapter-ledgers/077-089.md#L1).)
+- **Later group life (Ch090–193):** He continues as a known friend and camp participant where present, including the Ch100 campfire and Ch143 dock repair; no group scene grants him Percy or Annabeth’s autobiographical memories. A chapter’s mentioning his name in a schedule or ledger is not evidence he attended a private event. The chapter-ledger sweep through Ch193 records no new departure on a Pan quest or disclosure of the erased future. Preserve unknown whereabouts when a source does not put him on page. (Sources: [Ch100](../../chapters/100-the-thousandth-campfire.md#L1), [Ch143](../../chapters/143-the-dock-repair.md#L1); ledgers [090–100](../chapter-ledgers/090-100.md#L1), [140–144](../chapter-ledgers/140-144.md#L1), [189–193](../chapter-ledgers/189-193.md#L1).)
+- **Knowledge boundary / unresolved:** Grover knows Percy recognized Annabeth intensely and received a bounded explanation in Ch1; a full disclosure, exact content beyond that exchange, and any later change in his Pan-search plans require an explicit scene.

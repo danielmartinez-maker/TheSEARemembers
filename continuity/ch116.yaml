@@ -78,5 +78,5 @@ qa:
   next_chapter_opening_checked: true
   prior_life_memory_boundary_checked: true
   chronology_and_props_checked: true
-  full_manuscript_duplicate_scan: "Final local QA on 2026-10-17: zero exact matches across 1,941,434 chapter-only windows and 2,091,986 bonus-inclusive windows in 196 files."
+  full_manuscript_duplicate_scan: "Final local QA on 2026-10-17: zero exact matches across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows in 196 files."
   independent_scene_semantic_and_style_review: "pending"

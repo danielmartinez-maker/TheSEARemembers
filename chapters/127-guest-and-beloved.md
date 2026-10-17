@@ -516,13 +516,13 @@ He looked toward Clarisse, who was arguing with Triton about whether the cracked
 
 "Sometimes I think if I knew how to act here without asking, everything would feel easier."
 
-"It might make some things easier," Amphitrite answered. "There is no performance you owe me. We can learn who you are now, together."
+"It might make some things easier," Amphitrite answered. "There is no performance you owe me. We can take each visit as it comes."
 
 The garden smelled faintly of warm stone and salt. Percy stood beside her, uncertain what to say. He was used to adults trying to fill his silences with reassuring conclusions.
 
 Amphitrite didn't. She waited until he spoke.
 
-"I want to come back," he said. "Not because I have to make up for those years."
+"I want to keep coming back," he said. "I don't want every visit to feel like a test I have to pass."
 
 "Then come when you want to."
 

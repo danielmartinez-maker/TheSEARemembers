@@ -307,6 +307,8 @@ Percy laughed. He couldn’t help it. Annabeth laughed too, leaning her head on 
 
 “Read another sea one!” Ella begged. “Ella loves sea poems! Ella was born by the sea! The sea is loud like Ella!”
 
+“That was the one I agreed to,” Clarisse said, not unkindly. “No more from the notebook today.” Ella tucked her hands under her wings and nodded.
+
 “Why do you write about the sea so much, anyway?” Thalia asked, genuinely curious. “No offense — you run drills like a siege. I’d expect poems about, like, explosions and punching.”
 
 Clarisse hesitated. Then she muttered, staring at her boots, “Because it’s quiet. The sea. When I was little, before Camp, my mom used to take me to the Jersey Shore in winter when nobody was there. Just to walk. The waves — they don’t want anything from you. They just… go. And Jackson —” She glanced at Percy, almost angry. “Our dad’s whole thing. It’s — I dunno. It feels like the opposite of war. I like thinking about it.”
