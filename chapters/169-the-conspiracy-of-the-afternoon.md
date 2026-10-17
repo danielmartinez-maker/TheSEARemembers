@@ -134,7 +134,7 @@ Percy looked at the three of them: Clarisse with her clipboard and her scarred k
 
 He sat. He ate the honey cake standing over the table because sitting sounded like an event. It was warm and dense and tasted like the inside of a good week. On the shelf above him the corner bunk sat made up tight, the round white rock centered on the pillow, and he touched it once on his way past, one finger, the way you check a pulse.
 
-"Tyson's letter's still not here," Clarisse said, from the doorway.
+"Tyson's next letter still isn't here," Clarisse said, from the doorway.
 
 "Comes next week," Percy said. "Maybe Thursday."
 

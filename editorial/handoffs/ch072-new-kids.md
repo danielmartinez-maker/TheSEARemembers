@@ -1,6 +1,6 @@
 # Chapter 072 — New Kids: source-anchored expansion handoff
 
-**Branch:** `audit/four-phase-continuity-2026-10-13` (PR #103). **Chapter:** `chapters/072-new-kids.md`. **Body words:** 5,751 before, **10,093** after (+4,342). Count convention: whitespace-separated narrative body, excluding headings/dividers; CI corpus rerun pending as of this handoff.
+**PR branch:** `audit/four-phase-continuity-2026-10-13`; local checkout `audit/pr103-live-continuation`. **Chapter:** `chapters/072-new-kids.md`. **Body words:** 5,751 before the original expansion; 10,093 before this focused follow-up; now **10,666** (+573 current follow-up; +4,915 total). Count convention: whitespace-separated narrative body, excluding headings/dividers.
 
 ## Canonical witnesses, relations and promises
 
@@ -14,5 +14,7 @@
 - **Chiron's arrangements:** Three private placement envelopes and individual counselor arrangements, contact/medication/food needs to be handled confidentially. **Specific divine parentage/cabin assignments for Milo, Lucy and Bea remain UNKNOWN** until on-page verified; do not say all three were permanently placed in Hermes cabin. Their first-night care is Chiron/counselor responsibility, not an unconditional Percy/Annabeth guarantee.
 - **No hazardous food:** Original offer of “double ambrosia for new arrivals” corrected to **cookies**; ambrosia is medically limited. Camp lake is freshwater; the visited beach borders saltwater Sound.
 - **Carry-forward:** Milo's brother contact still unresolved at chapter end. Lucy's electronic shoes have not been opened or repaired. Bea carries her stuffed seal and folded boat, and Silena's possible breakfast meeting remains tentative. Chapter 073's play can include the new kids as audience, but cannot silently turn them into trained stage performers or erase their first-night concerns.
+- **First-day choices:** Annabeth presents the tour map as a menu; Lucy selects bathrooms, Milo the stables, and Bea a quiet place. After the cabin stop, Annabeth shows Lucy the bathroom path before the pavilion stop; the group then decides about the arena. They agree to watch from the fence, with the option to leave. Clarisse honors an open-hand/“hold” stop signal immediately; Lucy opts to watch the drill rather than handle a sword. Chiron offers an infirmary orientation; Lucy sees the entrance and where to ask for help, while Milo and Bea choose to stay outside. There is no compulsory exam or tour.
+- **Family history / commitment boundary:** Annabeth tells the children they do not have to stop talking about their mother or grandmother to belong at camp. At the close, Milo, Lucy, and Bea choose to stay for **tonight only**; tomorrow remains undecided. Do not turn this into a commitment to later days or imply their family histories have been replaced by camp relationships.
 
 **Limits:** Latest full-corpus QA and independent developmental review are separate acceptance gates; this handoff documents personally checked source boundaries and editorially added scenes.

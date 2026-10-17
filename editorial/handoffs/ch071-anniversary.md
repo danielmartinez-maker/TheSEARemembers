@@ -1,6 +1,6 @@
 # Chapter 071 — Anniversary: source-anchored expansion handoff
 
-**Branch:** `audit/four-phase-continuity-2026-10-13` (PR #103). **Chapter:** `chapters/071-anniversary.md`. **Body words:** 5,995 before, **10,145** after (+4,150). Count convention: whitespace-separated non-heading/non-divider prose; whole-manuscript CI confirmation pending as of this handoff.
+**PR branch:** `audit/four-phase-continuity-2026-10-13`; local checkout `audit/pr103-live-continuation`. **Chapter:** `chapters/071-anniversary.md`. **Body words:** 5,995 before the original expansion, 10,145 before this correction, now **10,153** (+8 in this correction; +4,158 total). The unsupported palm-scar/bridge-cave-in callback is removed; the current passage matches the quest record of hellfire-blistered palms and Percy's witnessed handholding with Annabeth. Count convention: whitespace-separated non-heading/non-divider prose.
 
 ## Narrative sequence and earned changes
 

@@ -264,7 +264,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/017-lake-day.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 105, Annabeth 54, Clarisse 47, Thalia 44, Grover 44, Nico 41, Ella 40, Silena 21, Chiron 11, Poseidon 6
+- Name appearances (not proof of presence): Percy 105, Annabeth 53, Clarisse 48, Thalia 44, Grover 44, Nico 41, Ella 40, Silena 21, Chiron 11, Poseidon 6
 - Event/action candidates to inspect in context:
   - Line 8: "Okay, stop making that face," Clarisse said, elbowing him hard in the ribs. She was already in her swimsuit, hair pulled back in a knot, a towel slung over her shoulder like a cape. "You look like someone told you the lake personally offen
   - Line 10: "It didn't offend me," Percy said. "I'm observing it. With respect."
@@ -1133,17 +1133,17 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 11: Percy stared at it. Then he smiled in spite of himself. Fifteen months ago, in January, he had come up from the harbor with Grover, salt in his hair, a bag full of palace clothes, and no idea how to explain the life he remembered. Annabeth
   - Line 13: "You drool when you sleep," Annabeth Grace had said, quoting her younger self from that other life.
   - Line 29: More than a year. He'd arrived here from Atlantis with Grover showing him the path and Amphitrite's goodbye still in his ears. The Minotaur's horn belonged to his remembered original arrival, not this one. He'd been twelve again and furious
-  - Line 37: She looked up when she heard him, and smiled — that quick, bright, real smile she only gave him — and Percy's heart did the stupid, swoopy thing it had been doing for months.
+  - Line 31: Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder f
 - Memory/disclosure candidates to inspect:
   - Line 27: Percy took the long way to breakfast, because on a day like this he wanted to remember everything. Past the cabins — all quiet, shutters closed, except the Hermes cabin where someone was already shouting about a missing shoe. Past the forge
+  - Line 31: Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder f
   - Line 143: Percy felt the old, uncomfortable pinch behind his ribs. Thalia had lived a sisterhood with Annabeth that Annabeth couldn't remember from inside. It wasn't a lie, and it wasn't an inconvenience the universe could simply apologize for.
-  - Line 347: "Yeah." Annabeth blinked fast. "Just — when he first arrived he didn't want to be here. Remember? He tried to run away twice in the first week."
 
 ## 072: Chapter 72: New Kids
 
 - [Source](../../chapters/072-new-kids.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 135, Annabeth 107, Clarisse 57, Thalia 56, Silena 53, Ella 34, Chiron 33, Grover 23, Tyson 17, Poseidon 11
+- Name appearances (not proof of presence): Percy 136, Annabeth 114, Clarisse 61, Thalia 57, Silena 54, Chiron 37, Ella 34, Grover 23, Tyson 17, Poseidon 11
 - Event/action candidates to inspect in context:
   - Line 5: It was the light that did it. Pale and thin through the seashell window of Cabin Three, the same gray-gold he remembered over the harbor more than a year ago. That arrival still tangled sometimes with his original infirmary memory: a blonde
   - Line 7: Percy sat up, scrubbed his hands through his black hair, and grinned at nothing. More than a year. He knew where the mess hall was. He knew which steps on the Big House porch creaked. He knew that the harpies took the breakfast plates at ex

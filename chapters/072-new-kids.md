@@ -148,6 +148,22 @@ Chiron clapped his hands gently. "Percy, Annabeth — they are yours. Show them 
 
 The tour started at the cabins, the way it always did, and Grover took the lead with Ella fluttering above him reading her pamphlet upside down.
 
+Before he could launch into the route, Annabeth turned the map around so the children could see it. "These are the places we can show you. It's a menu, not a test. You can ask to stop, skip something, or change the order. What do you want to know first?"
+
+"Where the bathrooms are," Lucy said immediately.
+
+"The stables," Milo said. "If we have time."
+
+Bea looked over the map but kept one hand on her seal. "Somewhere quiet."
+
+"We can find all three," Annabeth said. She marked the dining pavilion and stables, then let Bea point to the shaded path by the cabins. "We can start at the cabins, then decide together what comes next—food, the bathrooms, the stables, somewhere quiet, or the arena."
+
+Clarisse gave a sharp nod. "And if anyone wants out of a stop, say so. We move on."
+
+Milo glanced toward the arena anyway, uncertain. Percy saw him notice the distance between that stop and the stables, then look back at the map. Nobody told him he had to choose yet.
+
+Lucy asked whether she could watch from the fence instead of joining in. Bea wanted to know if the shaded path was far away. Annabeth said they could stop by the bathrooms after the cabins, then go to the dining pavilion and decide whether they wanted to see the arena. The children agreed to try that order.
+
 "Stop one!" Grover announced, spreading his arms wide on the commons. "Cabins! Each god has one! If your godly parent hasn't claimed you yet, you stay in Hermes cabin until they do! Which is fun! Hermes kids are fun! They will steal your socks but they will also teach you to pick locks which is — Chiron, am I allowed to say that?"
 
 "No," Chiron called from the porch where he was pretending not to follow them.
@@ -188,7 +204,9 @@ Milo grinned. "My satyr said the lake eats shoes. I thought he was joking."
 
 "The lake is never joking," Percy and Clarisse and Silena said together, then looked at each other and burst out laughing in exactly the same way, nose wrinkled, head tipped back. Bea watched them with wide eyes and slowly, slowly started eating her muffin.
 
-Annabeth led the next stop, because Annabeth loved plans and maps and knowing where the bathrooms were. She took them to the dining pavilion with its long tables and the bronze braziers for offerings, and she showed them how to scrape food into the fire for the gods.
+After the cabin stop, Annabeth pointed out the path to the bathrooms. Lucy walked it with her far enough to see the entrance sign and know the turn from the cabins; Annabeth waited with the map while Lucy looked, then returned when she was ready.
+
+Annabeth led the group on to the dining pavilion, because Annabeth loved plans and maps and knowing where the bathrooms were. She showed them the long tables and bronze offering braziers, and how to scrape a little food into the fire for the gods.
 
 "Do we have to?" Lucy whispered. "Offer food? What if my god doesn't like pizza?"
 
@@ -214,7 +232,7 @@ The arena smelled like hot bronze and cut straw and nervous sweat, and the new k
 
 It was a good war face. Percy had seen it make seventeen-year-olds drop their shields.
 
-"Rule one," Clarisse barked. "You listen to your counselor. Rule two. You never point a real blade at a friend unless you're sparring and Chiron says so. Rule three. If you panic, you put your shield up and yell. Panicking is fine. Panicking with your shield down is stupid. Got it?"
+"Rule one," Clarisse barked. "You listen to your counselor. Rule two. You never point a real blade at a friend unless you're sparring and Chiron says so. Rule three. If you panic, you put your shield up and yell. Panicking is fine. Panicking with your shield down is stupid. Rule four: anybody can call 'hold' or raise an open hand, and the drill stops. No one comes closer until you say what you need. Got it?"
 
 Milo nodded fast. Lucy nodded. Bea nodded while half hiding behind Silena.
 
@@ -260,6 +278,18 @@ Lucy nodded, then shook her head. "They're heavy."
 
 "Yeah. They are." Clarisse took Lucy's sword and adjusted the grip strap with quick, practiced fingers. "You don't have to be good today. Today you just learn which end is which and that I'm not going to let anything hurt you in my arena. That's my job. Okay?"
 
+Lucy looked at the sword, then lifted her free hand, palm open.
+
+Clarisse stopped speaking at once. She set the practice sword down and took two steps back, leaving the space in front of Lucy clear.
+
+"That's it?" Lucy asked.
+
+"That's it," Clarisse said. "You can ask to watch, switch to a lighter shield, or be done."
+
+"I want to watch."
+
+Clarisse waited until Lucy lowered her hand and nodded. Then she picked up the sword herself and showed how to set the strap without putting it on Lucy. "Watch as long as you want."
+
 Lucy stared. "Your job is to scare us?"
 
 "My job is to scare monsters," Clarisse said. "You? You're my little brother's new camp family, which makes you mine too. Sea family looks after the people we choose. Even the ones who throw up in vans."
@@ -282,7 +312,7 @@ Silena slipped an arm around Lucy's shoulders and murmured, "She's soft under th
 
 "We'll walk them," Silena said serenely. "With snacks."
 
-Milo practiced his grip while Lucy swung and nearly hit Grover, who dove behind a dummy shouting about being too young. Thalia joined Percy by the fence.
+Milo practiced his grip while Lucy watched from the fence, laughing when Grover dove behind a dummy shouting about being too young. Thalia joined Percy by the fence.
 
 "Scare, then safe," Thalia said quietly. "Perfect. That's what big sisters do."
 
@@ -532,7 +562,7 @@ Milo nodded wisely. "My brother has a girlfriend. They do that blush thing too."
 
 The table quieted as Milo said he missed his mortal brother and Lucy whispered she missed her mom. Bea pressed her seal tighter.
 
-Annabeth covered Lucy's hand. "It's okay to miss her. I miss my family every day too, but you'll have people here."
+Annabeth covered Lucy's hand. "It's okay to miss her. I miss my family every day too, but you'll have people here. You don't have to stop talking about your mom or your grandma to belong here."
 
 "Express satyr mail!" Grover said, saluting with a breadstick.
 
@@ -643,6 +673,16 @@ Thalia opened her mouth, probably to volunteer for everything at once. Annabeth 
 Thalia's expression suggested she objected on principle. She closed her mouth anyway.
 
 Annabeth knew the instinct. If she could list everything a child needed, perhaps no one would ever go without it. But she had spent too many years believing that staying awake and checking every exit was the same thing as having control. Chiron was offering these three children something sturdier than her personal promise: a system that would still exist if she was busy or frightened or simply asleep.
+
+Annabeth unfolded the map she had marked. "The infirmary is here. If one of you wants, Chiron can show you the entrance and where to ask for help. It's optional, and no examination is part of an orientation."
+
+"Can we just see where it is?" Lucy asked.
+
+Milo glanced at the mark. "I want to know where it is. I don't want to go inside."
+
+Bea stayed close to Silena. "I'll wait here."
+
+"All right," Chiron said. He walked with Lucy at her pace. At the threshold, he pointed out the desk and the bell for calling a healer. Lucy peered through the open doorway, then said she had seen enough. Chiron walked her back without asking for a reason, and the group returned to the pavilion together.
 
 He gave each child their own envelope, asking them to hold it rather than show it to the group. The three received directions for their counselor meetings after afternoon activities. Bea immediately tucked hers beneath the seal's belly. Lucy read the front twice. Milo traced the spelling of his name.
 
@@ -966,11 +1006,17 @@ Bea reached into her pocket and checked that the folded paper boat was still the
 
 Chiron waited there, as if he had known they would end up here. He smiled at the sandy, sleepy group.
 
-"Well?" he asked. "What did you think of today? Would you like to try another?"
+"Well?" he asked. "Would you like to stay here tonight? That's the only question you need to answer now. We can ask again in the morning."
 
 Milo looked at Percy. Lucy looked at Annabeth. Bea looked at Thalia and Silena and Clarisse, then buried her face in Thalia's neck and nodded hard.
 
-"Yeah," Milo said. "Yeah, I think — yeah."
+"Yeah," Milo said. "Yeah, I think — yeah. Tonight."
+
+Lucy looked at Annabeth. "Tonight too. We can ask again tomorrow?"
+
+"Of course," Chiron said.
+
+Bea nodded against Thalia's shoulder. "I want tonight."
 
 "Good," Chiron said gently. "Percy? Annabeth? Any wisdom for them on night one?"
 

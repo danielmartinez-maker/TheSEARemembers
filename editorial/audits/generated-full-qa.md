@@ -6,7 +6,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 - At least 10,000 body words: 193 chapters
 - Below minimum: 0 chapters
 - Total body-word shortfall: 0
-- Exact 300-word windows checked: 1,941,352
+- Exact 300-word windows checked: 1,941,966
 - Cross-chapter matching windows: 0
 - Structural errors: 0
 
@@ -28,7 +28,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 014 | 10,214 | 0 |
 | 015 | 10,186 | 0 |
 | 016 | 10,232 | 0 |
-| 017 | 10,061 | 0 |
+| 017 | 10,050 | 0 |
 | 018 | 10,101 | 0 |
 | 019 | 10,082 | 0 |
 | 020 | 10,125 | 0 |
@@ -82,8 +82,8 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 068 | 10,328 | 0 |
 | 069 | 10,118 | 0 |
 | 070 | 10,569 | 0 |
-| 071 | 10,145 | 0 |
-| 072 | 10,093 | 0 |
+| 071 | 10,153 | 0 |
+| 072 | 10,666 | 0 |
 | 073 | 10,245 | 0 |
 | 074 | 10,179 | 0 |
 | 075 | 10,087 | 0 |
@@ -139,8 +139,8 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 125 | 10,012 | 0 |
 | 126 | 10,092 | 0 |
 | 127 | 10,111 | 0 |
-| 128 | 10,026 | 0 |
-| 129 | 10,010 | 0 |
+| 128 | 10,038 | 0 |
+| 129 | 10,041 | 0 |
 | 130 | 10,018 | 0 |
 | 131 | 10,003 | 0 |
 | 132 | 10,243 | 0 |
@@ -180,7 +180,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 166 | 10,264 | 0 |
 | 167 | 11,199 | 0 |
 | 168 | 10,988 | 0 |
-| 169 | 11,707 | 0 |
+| 169 | 11,708 | 0 |
 | 170 | 10,300 | 0 |
 | 171 | 12,623 | 0 |
 | 172 | 10,656 | 0 |

@@ -556,7 +556,7 @@ Next was Marco Polo, and Percy was terrible at that too — he kept peeking, bad
 
 Clarisse floated on her back and watched her brother laugh with lake water in his ears and sand under his nails, finally looking like a kid on a lake day instead of a prince holding his breath, and felt something in her chest unknot.
 
-She'd worried, when he came up — their little brother arriving from Atlantis to join their loud bright camp — that Percy would never get to just be twelve. He had told his sisters he remembered too much. Seventeen years of war and loss and drowning and *her* — Annabeth, gone, and then found again but different — and he carried it behind his eyes even when he smiled.
+She'd worried, when he came up — their little brother arriving from Atlantis to join their loud bright camp — that Percy would never get to just be twelve. He had told his sisters he remembered too much. Clarisse didn't know the memories' stories; she only knew they could weigh on him even during a day of play.
 
 But right now, getting splashed by Nico and heckled by Thalia and corrected on his chicken-fight stance by a ten-year-old from the Demeter cabin? He was twelve. Loudly, messily twelve.
 

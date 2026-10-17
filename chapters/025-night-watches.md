@@ -826,7 +826,7 @@ She looked at the drawing again and wrote the last correction neatly, with Becke
 
 ---
 
-The last night, Chiron changed the plan.
+On Night Seven, Chiron changed the plan.
 
 "One final watch," he said at dinner. "All six together. One fire. The center of the valley, where you can see all three borders. A quiet night to close the week."
 

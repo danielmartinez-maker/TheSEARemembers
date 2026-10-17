@@ -1950,9 +1950,9 @@
       "title": "Chapter 17: Lake Day",
       "name_mentions": {
         "Percy": 105,
-        "Annabeth": 54,
+        "Annabeth": 53,
         "Thalia": 44,
-        "Clarisse": 47,
+        "Clarisse": 48,
         "Silena": 21,
         "Amphitrite": 1,
         "Poseidon": 6,
@@ -8525,6 +8525,13 @@
           "excerpt": "More than a year. He'd arrived here from Atlantis with Grover showing him the path and Amphitrite's goodbye still in his ears. The Minotaur's horn belonged to his remembered original arrival, not this one. He'd been twelve again and furious"
         },
         {
+          "line": 31,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder f"
+        },
+        {
           "line": 37,
           "named": [
             "Percy"
@@ -8545,14 +8552,6 @@
             "Annabeth"
           ],
           "excerpt": "\"No!\" Annabeth hugged the notebook to her chest. Her ears went pink, which Percy had learned meant she was either embarrassed or plotting something, and often both. \"It's nothing. Just — camp stuff.\""
-        },
-        {
-          "line": 75,
-          "named": [
-            "Percy",
-            "Grover"
-          ],
-          "excerpt": "\"Hey, man!\" Grover said too loudly, throwing an arm around Percy's shoulders and steering him firmly away from the Big House. \"Hey, buddy, pal, best friend of more than a year, finally getting a party today, wow, crazy, time flies! How abou"
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -8562,6 +8561,13 @@
             "Percy"
           ],
           "excerpt": "Percy took the long way to breakfast, because on a day like this he wanted to remember everything. Past the cabins — all quiet, shutters closed, except the Hermes cabin where someone was already shouting about a missing shoe. Past the forge"
+        },
+        {
+          "line": 31,
+          "named": [
+            "Annabeth"
+          ],
+          "excerpt": "Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder f"
         },
         {
           "line": 143,
@@ -8578,13 +8584,6 @@
             "Annabeth"
           ],
           "excerpt": "\"Yeah.\" Annabeth blinked fast. \"Just — when he first arrived he didn't want to be here. Remember? He tried to run away twice in the first week.\""
-        },
-        {
-          "line": 425,
-          "named": [
-            "Percy"
-          ],
-          "excerpt": "\"When everything changed, Percy was twelve and he knew things that hadn't happened,\" she said carefully. That much was not a new disclosure; Malcolm knew she and Percy had difficult memories of a life they discussed with one another, though"
         }
       ],
       "event_witnesses_verified": false,
@@ -8599,18 +8598,18 @@
       "path": "chapters/072-new-kids.md",
       "title": "Chapter 72: New Kids",
       "name_mentions": {
-        "Percy": 135,
-        "Annabeth": 107,
-        "Thalia": 56,
-        "Clarisse": 57,
-        "Silena": 53,
+        "Percy": 136,
+        "Annabeth": 114,
+        "Thalia": 57,
+        "Clarisse": 61,
+        "Silena": 54,
         "Amphitrite": 2,
         "Poseidon": 11,
         "Triton": 3,
         "Tyson": 17,
         "Jason": 3,
         "Sally": 1,
-        "Chiron": 33,
+        "Chiron": 37,
         "Grover": 23,
         "Zeus": 6,
         "Ella": 34
@@ -8709,7 +8708,7 @@
           "excerpt": "Chiron smiled too, then grew serious in the way adults did when they were about to trust kids with something real. \"I asked for you two specifically. You remember what it is to be new. Clarisse and Thalia will help, of course, and Grover an"
         },
         {
-          "line": 207,
+          "line": 225,
           "named": [
             "Clarisse",
             "Ella"
@@ -15288,7 +15287,7 @@
             "Triton",
             "Zeus"
           ],
-          "excerpt": "She asked for a day in Atlantis and a way down and back, no escort into the palace. Zeus asked whether Poseidon had agreed. Thalia said Amphitrite had invited them, Percy and his sisters were going ahead for training and would meet them the"
+          "excerpt": "She asked for five days in Atlantis and a way down and back, without an escort into the palace. Zeus asked whether Poseidon had agreed. Thalia said Amphitrite had invited them, Percy and his sisters were going ahead for training and would m"
         },
         {
           "line": 57,

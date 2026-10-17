@@ -28,7 +28,7 @@ Percy took the long way to breakfast, because on a day like this he wanted to re
 
 More than a year. He'd arrived here from Atlantis with Grover showing him the path and Amphitrite's goodbye still in his ears. The Minotaur's horn belonged to his remembered original arrival, not this one. He'd been twelve again and furious and terrified, sure the gods had made a clerical error. Two lives in one head? With *him*?
 
-Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder from summer spear drills and another one on his palm from holding Annabeth's hand too tight during the quest last summer when the bridge almost collapsed.
+Now he was thirteen. He had a cabin that smelled like salt and cedar. He had a best friend who was a satyr and a brother who was a Cyclops and a pegasus who liked sugar cubes. He had calluses from sword practice and a scar on his shoulder from summer spear drills. The Underworld heat had blistered his palms during the quest, but the memory that stayed was Annabeth's hand finding his in the dark and the way they had held on.
 
 He had Annabeth.
 
