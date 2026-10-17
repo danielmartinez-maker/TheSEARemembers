@@ -6436,10 +6436,10 @@
       "path": "chapters/054-lotus.md",
       "title": "Chapter 54: Lotus",
       "name_mentions": {
-        "Percy": 94,
-        "Annabeth": 100,
+        "Percy": 95,
+        "Annabeth": 102,
         "Thalia": 71,
-        "Poseidon": 1,
+        "Poseidon": 2,
         "Jason": 14,
         "Sally": 6,
         "Beryl": 1,
@@ -6453,90 +6453,93 @@
           "named": [
             "Percy",
             "Annabeth",
+            "Poseidon"
+          ],
+          "excerpt": "The first morning after the Arch, Percy had kept his promise. Before they left St. Louis, he told Annabeth the rest of the dreams: the white balconies, the tide-tablets he couldn't read, the harbor smell of hot bronze, salt and lemons, and"
+        },
+        {
+          "line": 9,
+          "named": [
+            "Percy",
+            "Annabeth",
             "Thalia",
             "Grover"
           ],
           "excerpt": "Percy slumped in the back with his head on the window, sweating through his shirt. Annabeth sat up front with the map, no longer marking it. Grover lay across the middle seat with a damp washcloth over his face, horns poking through his cap"
         },
         {
-          "line": 13,
+          "line": 15,
           "named": [
             "Thalia"
           ],
           "excerpt": "\"We need a car wash,\" Thalia said. \"We smell like satyr feet.\""
         },
         {
-          "line": 15,
+          "line": 17,
           "named": [
             "Grover"
           ],
           "excerpt": "\"Hey,\" Grover said weakly."
         },
         {
-          "line": 17,
+          "line": 19,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"We need a break,\" Annabeth said. Her voice was flat in the way that meant she was running numbers she did not like. \"We have six days to the solstice. We've been on the road for—\""
         },
         {
-          "line": 25,
+          "line": 27,
           "named": [
             "Thalia"
           ],
           "excerpt": "\"It feels like twenty,\" Thalia said, looking toward Martin, who had his own mileage log on the dashboard."
         },
         {
-          "line": 29,
+          "line": 31,
           "named": [
             "Grover"
           ],
           "excerpt": "\"We slept at the truck stop twice,\" Grover said. \"I remember because the lady gave me extra pickles twice. Or the same time twice?\""
         },
         {
-          "line": 37,
+          "line": 39,
           "named": [
             "Percy"
           ],
           "excerpt": "\"Is the van safe?\" Percy asked."
-        },
-        {
-          "line": 47,
-          "named": [
-            "Percy",
-            "Thalia"
-          ],
-          "excerpt": "Percy watched their exchange from the backseat. Thalia had been sick after the Arch, and she was irritated by how often the others asked about her head. She had received an assessment and a plan for rest. Now she wanted to prove the guardia"
         }
       ],
       "possible_secret_and_memory_cues": [
         {
-          "line": 29,
+          "line": 7,
+          "named": [
+            "Percy",
+            "Annabeth",
+            "Poseidon"
+          ],
+          "excerpt": "The first morning after the Arch, Percy had kept his promise. Before they left St. Louis, he told Annabeth the rest of the dreams: the white balconies, the tide-tablets he couldn't read, the harbor smell of hot bronze, salt and lemons, and"
+        },
+        {
+          "line": 31,
           "named": [
             "Grover"
           ],
           "excerpt": "\"We slept at the truck stop twice,\" Grover said. \"I remember because the lady gave me extra pickles twice. Or the same time twice?\""
         },
         {
-          "line": 153,
+          "line": 155,
           "named": [
             "Percy"
           ],
           "excerpt": "She squeezed his hand briefly, hot palm to hot palm. \"Always, Wise Girl's orders. And Percy — if this place feels wrong, we say so out loud. Promise? No toughing it out alone.\""
         },
         {
-          "line": 373,
+          "line": 375,
           "named": [
             "Beryl"
           ],
           "excerpt": "But this sounded like him when they were little, before Juno took him, stealing crackers under the table at their mom's apartment while Beryl pretended not to see. That memory hit harder than any monster in the last ten days, because it was"
-        },
-        {
-          "line": 419,
-          "named": [
-            "Sally"
-          ],
-          "excerpt": "Her face flickered with fear. \"Sally died when you were two here. That's your memory of her. Not your mom in a phone booth in Nevada.\""
         }
       ],
       "event_witnesses_verified": false,

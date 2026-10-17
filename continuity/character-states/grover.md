@@ -1,6 +1,9 @@
 # Grover: cumulative memory
 
-**Entry coverage:** Chapters 001–193 searched against the chapter index, this profile, and chapter-ledger entries; character-relevant events are consolidated below, with absence treated as no recorded event. Chronology, provenance, and open facts remain source-bounded.
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found grover in 92 of 193 chapter files (001–002, 012–014, 016–017, 020–027, 029–031, 033–042, 044–065, 067, 069, 071–085, 087, 089, 091, 093–097, 100, 110–112, 123, 129–130, 132–133, 135–136, 139, 141, 143–144, 147, 171). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
 
 ### Chapter 001 · The Weight of Salt and Sky
 - **Knowledge provenance:** FIRSTHAND.

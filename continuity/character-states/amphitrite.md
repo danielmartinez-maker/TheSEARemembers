@@ -1,6 +1,9 @@
 # Amphitrite: cumulative memory
 
-**Entry coverage:** Consolidated, source-anchored profile through Chapter 193; detailed event notes are grouped under the documented chapter/range headings, and omissions do not imply off-page contact or knowledge.
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found amphitrite in 79 of 193 chapter files (001–003, 005–014, 016–017, 019–021, 023, 025–026, 030, 032, 036, 038, 040–041, 044, 046–049, 052–053, 055, 058, 060–063, 069, 071–072, 076–077, 079–087, 089, 091, 097, 099–100, 112–114, 118, 120, 122–129, 131–132, 135–136, 138, 172, 190). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
 
 ### Chapter 001 · The Weight of Salt and Sky
 - **Knowledge provenance:** ALTERED CHILDHOOD + FIRSTHAND.

@@ -1,6 +1,9 @@
 # Tyson — cumulative reported state
 
-**Entry coverage:** Consolidated, source-anchored profile through Chapter 193; detailed event notes are grouped under the documented chapter/range headings, and omissions do not imply off-page contact or knowledge.
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found tyson in 91 of 193 chapter files (022–023, 029–030, 032, 034, 036, 038–041, 044, 046, 048–050, 052–053, 056, 058, 060–067, 070–078, 080–082, 085–086, 088–089, 092–093, 098–100, 116, 125–126, 129–132, 135–137, 141, 143, 145, 152–153, 155–166, 168–172, 174, 178, 180, 182–184, 187, 190–192). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
 
 **Ch022:** Percy obtains blue muffins through an Iris connection with Tyson, identified in camp's undersea family network. Tyson's participation in arranging food is a bounded report/connection; he is not on-site supervising Annabeth's storm lesson, and he does not thereby learn Percy/Annabeth previous-life autobiographical history.
 

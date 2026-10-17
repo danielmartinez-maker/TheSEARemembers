@@ -23,3 +23,10 @@
 - **Chapters 090–091 — signal rehearsal:** Malcolm serves as the upper-marker relay during the storm plan. After wind obscures the signal, the group revises the rule to require a repeated signal and Thalia's readiness confirmation; he later demonstrates the sequence in calmer air. The crosswind rehearsal remains pending, so this is not clearance for all conditions ([Ch090](../../chapters/090-storm-and-sea.md#L163), [Ch090](../../chapters/090-storm-and-sea.md#L375), [Ch090](../../chapters/090-storm-and-sea.md#L475), [Ch091](../../chapters/091-tide-pools.md#L47)).
 - **Chapter 093 — movie announcement:** He corrects one inaccurate Trojan Horse claim during the public announcement. No private information or relationship change follows ([Ch093](../../chapters/093-movie-night.md#L427)).
 - **Knowledge boundary / coverage:** His private history and later knowledge of the signal protocol are unknown beyond those scenes. **Entry coverage:** verified selected milestones in Chapters 034 and 090–093; not an exhaustive appearance log.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 021, 026, 032, 034, 053, 071, 076, 078, 081, 087, 090, 091, 092, 093, 139. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 034, 090, 091, 093. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 021, 026, 032, 053, 071, 076, 078, 081, 087, 092, 139. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

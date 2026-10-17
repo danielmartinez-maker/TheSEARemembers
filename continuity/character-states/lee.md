@@ -35,3 +35,10 @@
 - **Chapter 025 — night-watch relief:** Lee and Michael Yew relieve Silena and Grover's watch and Lee takes a disposable-camera photo while joking about blackmail. This does not establish a diagnosis or medical contact with either camper ([Ch025](../../chapters/025-night-watches.md#L372)).
 - **Chapter 097 — map reference:** Annabeth's map includes Lee's chimes based on his prior information. The scene confirms a source contribution only, not a new visit or disclosure ([Ch097](../../chapters/097-the-map.md#L513)).
 - **Knowledge boundary / coverage:** Later treatment, current injury status and Lee's knowledge of private conversations remain unknown unless a scene identifies him. **Entry coverage:** selected firsthand/report milestones in Chapters 011–012, 025 and 097; other appearances were not individually audited here.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 010, 011, 012, 013, 025, 028, 033, 034, 037, 097, 181, 187. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 011, 012, 013, 016, 017, 020, 022, 025, 097. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 010, 028, 033, 034, 037, 181, 187. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

@@ -45,3 +45,10 @@
 ### Chapter 21 · verified carry-forward
 - **[Ch21](../../chapters/021-strawberry-fields-and-amphitheater-nights.md):** No direct observation of strawberry scales, records are Silena's.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 007. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 005, 007, 008, 009, 010, 011, 012, 018, 021, 193. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** none among name-search candidates beyond cited anchors. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

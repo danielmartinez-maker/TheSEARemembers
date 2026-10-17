@@ -20,3 +20,10 @@
 - **Knowledge and unknowns:** No cited scene shows Piper receiving Percy or Annabeth's private remembered-life account. The timing and details of later visits, and whether she and Jason named their relationship, remain unknown.
 
 **Entry coverage:** Source-verified milestones in Chapters 063, 073, 076, 093 and 099. Other brief mentions are not treated as new disclosure or a relationship change.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 063, 073, 076, 093, 099. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 063, 073, 076, 093, 099. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** none among name-search candidates beyond cited anchors. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

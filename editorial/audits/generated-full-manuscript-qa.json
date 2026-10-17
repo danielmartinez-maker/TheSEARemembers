@@ -753,7 +753,7 @@
     {
       "chapter": 54,
       "path": "chapters\\054-lotus.md",
-      "body_words": 10009,
+      "body_words": 10110,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1942016,
+  "window_comparisons": 1942117,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

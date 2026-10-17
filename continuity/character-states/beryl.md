@@ -1,5 +1,8 @@
 # Beryl — cumulative memory and knowledge boundaries
-**Entry coverage:** Chapters 001–193 searched against the chapter index, this profile, and chapter-ledger entries; character-relevant events are consolidated below, with absence treated as no recorded event. Chronology, provenance, and open facts remain source-bounded.
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found beryl in 48 of 193 chapter files (001–002, 006, 013, 015, 018–020, 023, 025–026, 029, 035, 037, 041, 046, 053–054, 062–066, 077, 079–085, 087, 089, 091, 095, 099–100, 115, 128, 135, 144, 166, 170–171, 177, 183, 190, 193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
 
 **Chapters 001–007 source-verified status (no witnessed current-timeline appearance unless specified):**
 

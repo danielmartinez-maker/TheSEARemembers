@@ -1,17 +1,14 @@
 # Austin Lake: cumulative memory
 
-**Entry coverage:** Chapter 093 scoped event only.
-
-## Verified cumulative timeline (Chapters 001–193)
+## Source-backed cumulative timeline (coverage mapped below)
 
 This is a source-verified milestone record, not a claim that every incidental name mention has a separate scene entry. Austin's later knowledge is limited to what he witnesses or is told in the cited scenes.
 
 - **Chapters 042, 064, 069, 073 and 080 — music and performance:** Austin asks Grover to join the dance band, then owns a missed arrangement change, apologizes and resets it with the other players before the performance ([Ch042](../../chapters/042-slow-dance.md#L95), [Ch042](../../chapters/042-slow-dance.md#L119), [Ch042](../../chapters/042-slow-dance.md#L127)). He and Kayla play for the spring dance and coordinate an accommodation so Ella can speak without the band drowning her out ([Ch064](../../chapters/064-the-dance-spring.md#L865), [Ch064](../../chapters/064-the-dance-spring.md#L957)). He helps Silena tune the Apollo guitar and makes clear she may sing or decline; the song is hers to choose ([Ch069](../../chapters/069-silena-s-song.md#L13), [Ch069](../../chapters/069-silena-s-song.md#L117), [Ch069](../../chapters/069-silena-s-song.md#L335)). During the play he contributes sound effects; at the later dance he continues acoustically after the speaker fails ([Ch073](../../chapters/073-the-play.md#L561), [Ch080](../../chapters/080-the-second-dance.md#L779), [Ch080](../../chapters/080-the-second-dance.md#L803)).
 - **Chapter 093 — projector:** Austin helps set up the outdoor film, follows the agreed shutdown and cable procedure, and powers down, cools, coils and returns the projector before first bell ([Ch093](../../chapters/093-movie-night.md#L283), [Ch093](../../chapters/093-movie-night.md#L303), [Ch093](../../chapters/093-movie-night.md#L869)).
 - **Chapters 100 and 130 — collaborative work:** Austin and Kayla adapt the slow dance arrangement during the campfire, responding to Percy and Annabeth's present-day dance ([Ch100](../../chapters/100-the-thousandth-campfire.md#L719)). In the family-photo chapter he operates the camera and darkroom, labels private plates separately, and teaches Silena safe handling and review rules; the eventual print requests remain subject to the sitters' choices ([Ch130](../../chapters/130-the-family-photo.md#L71), [Ch130](../../chapters/130-the-family-photo.md#L313), [Ch130](../../chapters/130-the-family-photo.md#L865), [Ch130](../../chapters/130-the-family-photo.md#L919)).
+- **Chapter 132 — print permissions:** Austin is still organizing the family-photo material against the archive entry. Percy grants permission for family-only use of his own copy; Silena tells Austin her own restrictions, while Percy explicitly does not grant permission for other sitters. The form says another copy can be made once the consent sheets are checked; no public Atlantis display is approved here ([Ch132](../../chapters/132-a-month-beneath-the-sea.md#L501), [Ch132](../../chapters/132-a-month-beneath-the-sea.md#L525), [Ch132](../../chapters/132-a-month-beneath-the-sea.md#L529), [Ch132](../../chapters/132-a-month-beneath-the-sea.md#L531), [Ch132](../../chapters/132-a-month-beneath-the-sea.md#L533), [Ch132](../../chapters/132-a-month-beneath-the-sea.md#L587)).
 - **Relationship and unknowns:** His music work with Kayla is established collaboration; these scenes do not define a romantic relationship. The sources do not establish every later performance, what became of the developed photo plates, or any private knowledge of Percy and Annabeth's remembered life.
-
-**Entry coverage:** Scene-verified milestones in Chapters 042, 064, 069, 073, 080, 093, 100 and 130. Other appearances/name mentions are not separately characterized here; later knowledge beyond these scenes is unknown.
 
 ### Chapter 093 - witnessed / reported / unknown
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
@@ -20,3 +17,7 @@ This is a source-verified milestone record, not a claim that every incidental na
 ### Chapter 100 · witnessed / reported / unknown
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md).
 - **State:** FIRSTHAND: plays guitar at the campfire dance and adjusts the arrangement with Kayla. No new promise or relationship status is established.
+
+## Audit map and remaining scene coverage
+
+A name search was run across the available chapter files 001–193. It located candidate mentions in Chapters 042, 061-062, 064-065, 069, 073, 080, 093, 100, 130, 132. The source files explicitly linked in this profile are Chapters 042, 064, 069, 073, 080, 093, 100, 130, 132; those links describe the profile's current source-backed coverage, not a new full-scene reread in this pass. Candidate-hit chapters not yet individually reconciled to an event entry are 061-062, 065. Hits may be indirect, metaphorical, or refer to another person; they do not prove an appearance or shared knowledge. This profile is not a complete 193-chapter character-state matrix. Consult the chapter scene before adding a memory, relationship change, age, promise, object, injury, or obligation.

@@ -64,3 +64,10 @@
 
 ## Chapters 013–022 carry-forward status
 - Matt's earlier camp instruction/knowledge from Chapters 001–012 persists. Do not add first-person knowledge of Zeus's Ch013 meeting, Roman correspondence, Jason's private Iris call, Beryl's letter, Amphitrite's Iris conversation, or Annabeth's alternate-life memories without an identified scene or explicit report.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 002, 004, 005, 006. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 193. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** none among name-search candidates beyond cited anchors. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

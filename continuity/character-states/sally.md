@@ -1,5 +1,8 @@
 # Sally — cumulative memory and knowledge boundaries
-**Entry coverage:** Chapters 001–193 searched against the chapter index, this profile, and chapter-ledger entries; character-relevant events are consolidated below, with absence treated as no recorded event. Chronology, provenance, and open facts remain source-bounded.
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found sally in 70 of 193 chapter files (001–003, 005, 007, 009–013, 015, 017, 019–021, 023, 025–026, 030–033, 038–041, 046, 049, 053–060, 062–063, 070–072, 075–077, 079, 082, 084–088, 090–091, 093–095, 097–099, 103, 112, 115, 124, 126–127, 130–131, 134, 136, 147). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
 
 **Chapters 001–007 source-verified status (no witnessed current-timeline appearance unless specified):**
 

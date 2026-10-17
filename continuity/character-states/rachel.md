@@ -16,3 +16,10 @@
 - **Knowledge boundaries:** Rachel's existence in Percy's remembered future is not her own present-story knowledge. No cited scene gives her the private autobiographical details of Percy's or Annabeth's remembered life. Her Oracle role, ordinary conversation, and boundaries remain distinct.
 
 **Entry coverage:** Source-verified present-story milestones in Chapters 049, 068 and 100; Chapter 009 is explicitly Percy's private remembered-future reference, and Chapter 039 is unconfirmed hearsay.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 009, 039, 049, 068, 100. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 009, 039, 049, 068, 100. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** none among name-search candidates beyond cited anchors. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

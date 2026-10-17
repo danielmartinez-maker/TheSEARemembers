@@ -29,4 +29,4 @@ Percy, Clarisse and Silena remain Poseidon's children; Thalia and Annabeth remai
 - Chapter-structure audit passes. The five QA scripts compile, and the evidence index rebuilds for all 193 chapters.
 - Hosted Actions passed on the Chapter 097 source commit: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790). Mechanical checks do not certify semantic duplication or whole-novel scene review.
 
-See the [structured continuity record](../../continuity/ch097.yaml), [Chapter 097 handoff](../handoffs/ch097-the-map.md), [generated full QA](generated-full-qa.md) and [execution queue](../handoffs/55-short-chapters-execution-queue.md).
+See the [structured continuity record](../../continuity/ch097.yaml), [Chapter 097 handoff](../handoffs/ch097-the-map.md), [latest generated full QA](generated-full-manuscript-qa.md) and [execution queue](../handoffs/55-short-chapters-execution-queue.md).

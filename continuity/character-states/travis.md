@@ -26,3 +26,10 @@
 - **Knowledge boundaries:** These scenes do not establish Travis's knowledge of private Percy/Annabeth history or a new relationship change. His later events outside these contacts are unknown.
 
 **Entry coverage:** Source-verified milestones in Chapters 093–100 and 148, plus the limited reported umbrella anecdote in Chapter 090. Other mentions are not treated as new contact.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 012, 013, 015, 019, 025, 029, 034, 038, 040, 044, 045, 047, 048, 060, 061, 062, 063, 064, 065, 066, 069, 071, 073, 077, 079, 080, 082, 089, 090, 093, 094, 097, 100, 148. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 090, 093, 094, 097, 100, 148. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 012, 013, 015, 019, 025, 029, 034, 038, 040, 044, 045, 047, 048, 060, 061, 062, 063, 064, 065, 066, 069, 071, 073, 077, 079, 080, 082, 089. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

@@ -1,6 +1,9 @@
 # Triton: cumulative memory
 
-**Entry coverage:** Consolidated, source-anchored profile through Chapter 193; detailed event notes are grouped under the documented chapter/range headings, and omissions do not imply off-page contact or knowledge.
+**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+
+**Coverage audit (this continuation):** A literal-name locator sweep found triton in 68 of 193 chapter files (001, 005, 010, 014, 017, 019, 021–022, 025, 030, 032, 034, 036, 038, 046, 048, 050, 052–053, 057, 060–061, 065–067, 069–070, 072, 086, 098–100, 104, 106, 112, 114, 116, 118, 120–132, 135–137, 139, 141, 145, 153, 155–159, 163, 167–168, 170, 172). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+
 
 ### Chapter 001 · The Weight of Salt and Sky
 - **Knowledge provenance:** ALTERED CHILDHOOD + FIRSTHAND.

@@ -855,17 +855,17 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/054-lotus.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Annabeth 100, Percy 94, Thalia 71, Grover 58, Jason 14, Sally 6, Chiron 6, Poseidon 1, Beryl 1, Zeus 1
+- Name appearances (not proof of presence): Annabeth 102, Percy 95, Thalia 71, Grover 58, Jason 14, Sally 6, Chiron 6, Poseidon 2, Beryl 1, Zeus 1
 - Event/action candidates to inspect in context:
-  - Line 7: Percy slumped in the back with his head on the window, sweating through his shirt. Annabeth sat up front with the map, no longer marking it. Grover lay across the middle seat with a damp washcloth over his face, horns poking through his cap
-  - Line 13: "We need a car wash," Thalia said. "We smell like satyr feet."
-  - Line 15: "Hey," Grover said weakly.
-  - Line 17: "We need a break," Annabeth said. Her voice was flat in the way that meant she was running numbers she did not like. "We have six days to the solstice. We've been on the road for—"
-  - Line 25: "It feels like twenty," Thalia said, looking toward Martin, who had his own mileage log on the dashboard.
+  - Line 7: The first morning after the Arch, Percy had kept his promise. Before they left St. Louis, he told Annabeth the rest of the dreams: the white balconies, the tide-tablets he couldn't read, the harbor smell of hot bronze, salt and lemons, and
+  - Line 9: Percy slumped in the back with his head on the window, sweating through his shirt. Annabeth sat up front with the map, no longer marking it. Grover lay across the middle seat with a damp washcloth over his face, horns poking through his cap
+  - Line 15: "We need a car wash," Thalia said. "We smell like satyr feet."
+  - Line 17: "Hey," Grover said weakly.
+  - Line 19: "We need a break," Annabeth said. Her voice was flat in the way that meant she was running numbers she did not like. "We have six days to the solstice. We've been on the road for—"
 - Memory/disclosure candidates to inspect:
-  - Line 29: "We slept at the truck stop twice," Grover said. "I remember because the lady gave me extra pickles twice. Or the same time twice?"
-  - Line 153: She squeezed his hand briefly, hot palm to hot palm. "Always, Wise Girl's orders. And Percy — if this place feels wrong, we say so out loud. Promise? No toughing it out alone."
-  - Line 373: But this sounded like him when they were little, before Juno took him, stealing crackers under the table at their mom's apartment while Beryl pretended not to see. That memory hit harder than any monster in the last ten days, because it was
+  - Line 7: The first morning after the Arch, Percy had kept his promise. Before they left St. Louis, he told Annabeth the rest of the dreams: the white balconies, the tide-tablets he couldn't read, the harbor smell of hot bronze, salt and lemons, and
+  - Line 31: "We slept at the truck stop twice," Grover said. "I remember because the lady gave me extra pickles twice. Or the same time twice?"
+  - Line 155: She squeezed his hand briefly, hot palm to hot palm. "Always, Wise Girl's orders. And Percy — if this place feels wrong, we say so out loud. Promise? No toughing it out alone."
 
 ## 055: Chapter 55: Underworld Gates
 

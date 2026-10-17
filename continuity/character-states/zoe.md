@@ -64,3 +64,10 @@
 - **Knowledge boundaries:** Zoe's account of a memory-altering protective choice by Hecate concerns her own mortal keepers. It neither gives Zoe erased-future memories nor establishes knowledge of Percy and Annabeth's private autobiographical memories. Her knowledge of those memories, of Hecate's later choices, and of any future crossroads meeting remains limited to what the cited scenes show.
 
 **Entry coverage:** Scene-verified milestones in Chapters 004–024, 072, 075, 077, 081 and 084. Later mentions without a witnessed exchange are not treated as a fresh disclosure or completed promise.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 014, 016, 017, 022, 024, 029, 039, 049, 070, 072, 075, 076, 077, 081, 084, 089. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 004, 007, 008, 009, 010, 011, 012, 014, 016, 017, 020, 022, 024, 072, 075, 077, 081, 084. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 003, 005, 006, 029, 039, 049, 070, 076, 089. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

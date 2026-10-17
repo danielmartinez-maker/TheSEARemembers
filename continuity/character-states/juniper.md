@@ -1,7 +1,5 @@
 # Juniper: cumulative memory
 
-**Entry coverage:** Selected source-verified milestones; intervening appearances are not all separately characterized here.
-
 ### Chapter 093 - witnessed / reported / unknown
 - **Source:** [Ch093](../../chapters/093-movie-night.md); [handoff](../../editorial/handoffs/ch093-movie-night.md).
 - **State:** Attends with Grover, joins his jokes, and leans against him during the film. The chapter calls her Grover's girlfriend; it establishes no new promise or relationship milestone.
@@ -14,7 +12,7 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md).
 - **State:** FIRSTHAND: cheers for Grover's speech, hugs him when he returns to his seat, and later sits with him as he dozes. Their established relationship does not change.
 
-## Verified cumulative timeline (Chapters 001–193)
+## Source-backed cumulative timeline (coverage mapped below)
 
 - **Chapter 045 — courtship and accepted song:** Grover gives Juniper a private note; she reads it, responds positively, and later joins him under her favorite maple for the song he wrote for her. They hold hands, share a strawberry, and leave the scene together; Grover does not make the performance public against her wishes ([Ch045](../../chapters/045-grover-s-crush.md#L418), [Ch045](../../chapters/045-grover-s-crush.md#L450), [Ch045](../../chapters/045-grover-s-crush.md#L474), [Ch045](../../chapters/045-grover-s-crush.md#L768), [Ch045](../../chapters/045-grover-s-crush.md#L1023), [Ch045](../../chapters/045-grover-s-crush.md#L1039)).
 - **Chapters 049 and 055 — message plan, dispatch unknown:** Before the quest, Grover writes that he wants to tell Juniper before leaving, but the chapter does not show the note sent. Later he asks Martin to relay a message if the Underworld blocks contact; delivery is not confirmed ([Ch049](../../chapters/049-the-quest.md#L493), [Ch055](../../chapters/055-underworld-gates.md#L77)).
@@ -24,4 +22,6 @@
 - **Chapters 135, 139 and 143 — ecological work:** Grover reports that Juniper needed help untangling roots by the creek; this is his report, not a request Percy witnesses directly. She and Grover later prepare a seawater grounding pool for the storm response. When the dock repair avoids disturbing the naiads' shelf, Grover says Juniper will be relieved; that is his expectation, not proof she was present or told ([Ch135](../../chapters/135-the-garden.md#L163), [Ch139](../../chapters/139-storm-season.md#L211), [Ch143](../../chapters/143-the-dock-repair.md#L225)).
 - **Knowledge and unknowns:** Juniper knows the serviceberry plan and the particular relationship conversations she attended. The delivery and receipt of Grover's quest-era messages remain unverified except where a later scene reports receipt. No scene gives her Percy or Annabeth's private remembered-life information. Her later grove and partner status remain as last shown above.
 
-**Entry coverage:** Source-verified milestones in Chapters 045, 049, 055, 060, 080–082, 093, 097, 100, 135, 139 and 143. Quest-message delivery is not assumed.
+## Audit map and remaining scene coverage
+
+A name search was run across the available chapter files 001–193. It located candidate mentions in Chapters 014, 022, 024, 027, 029, 045-047, 049-051, 053-055, 057, 059-060, 062, 064, 078-082, 084, 087, 089, 093, 096-097, 100, 130, 135, 139, 143, 171. The source files explicitly linked in this profile are Chapters 045, 049, 055, 060, 080, 081, 082, 093, 097, 100, 135, 139, 143; those links describe the profile's current source-backed coverage, not a new full-scene reread in this pass. Candidate-hit chapters not yet individually reconciled to an event entry are 014, 022, 024, 027, 029, 046-047, 050-051, 053-054, 057, 059, 062, 064, 078-079, 084, 087, 089, 096, 130, 171. Hits may be indirect, metaphorical, or refer to another person; they do not prove an appearance or shared knowledge. This profile is not a complete 193-chapter character-state matrix. Consult the chapter scene before adding a memory, relationship change, age, promise, object, injury, or obligation.

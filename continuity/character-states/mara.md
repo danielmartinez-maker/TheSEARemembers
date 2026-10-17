@@ -46,3 +46,10 @@
 ### Chapter 20 · verified carry-forward
 - **[Ch20](../../chapters/020-cake-and-lightning.md):** No new firsthand bakery role until Ch023, whose kitchen supervisor will be this name; current chapter birthday cake supervised camp kitchen by other named staff. Do not assume same adult.
 - **Knowledge boundary:** Firsthand attendance, hearsay and private old-life memory stay separate.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 005, 010, 011, 023, 067, 077, 084, 125, 132. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 005, 008, 009, 010, 011, 012, 018, 020, 023. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 067, 077, 084, 125, 132. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

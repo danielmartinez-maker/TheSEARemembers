@@ -22,3 +22,10 @@
 - No surname, divine parentage, cabin placement, named counselor, shoe inspection, confirmed nightlight delivery, or later-day commitment is established. Do not merge her with another camper or infer an unshown conversation from her presence in a group scene.
 
 **Entry coverage:** Source-verified Lucy scenes/references in Chapters 072, 073, 075, 077, 080, 081, 085, 089 and 090. The last located in-world Lucy appearance is Chapter 090; no later Lucy state is claimed here. Chapter 040's Lucy is the fictional character in the Narnia reading/performance and is not evidence about this camper. No Lucy appearance was found in bonus files in the focused scan.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 040, 072, 073, 075, 077, 080, 081, 085, 089, 090. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 040, 072, 073, 075, 077, 080, 081, 085, 089, 090. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** none among name-search candidates beyond cited anchors. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.

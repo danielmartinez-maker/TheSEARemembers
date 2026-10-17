@@ -16,3 +16,10 @@
 - **Identity and knowledge limits:** The Chapter 011 Cabin Eleven Milo is already present at camp; Chapter 072 describes a Milo as a new arrival. The text does not resolve whether this is one child with an unshown departure/return or two campers with the same name. If one character, clarify his prior status and return; if two, distinguish their names or identifiers in a bounded source revision. Do not automatically give the arrival Milo the early eclipse scene or the early Milo a brother/contact plan. Neither has verified knowledge of the erased-future secret.
 
 **Entry coverage:** Source-verified scenes in Chapters 011 and 072–075, 090. Identity across the two Milo appearances remains unresolved; the brother's letter's dispatch and receipt are unverified.
+
+
+## Coverage audit (chapter-file locator scan)
+
+- **Candidate name hits searched:** Chapters 007, 008, 011, 043, 061, 062, 063, 064, 065, 072, 073, 075, 076, 077, 078, 079, 080, 081, 082, 085, 089, 090. These are name/alias search locators only; a hit may be incidental, ambiguous, reported, fictional, or not about this character.
+- **Chapter numbers explicitly anchored in this profile:** 002, 011, 072, 073, 075, 089, 090. This is the profile's cited evidence footprint, not a claim that every hit in those chapters has been scene-audited.
+- **Unverified candidate chapters for this profile:** 007, 008, 043, 061, 062, 063, 064, 065, 076, 077, 078, 079, 080, 081, 082, 085. Do not infer an interaction or memory from these hits until the relevant scene and line are checked. No chapter outside the cited evidence footprint is claimed as profile-reviewed.
