@@ -1,6 +1,6 @@
 # Chapter 175 editorial screening: Salt and Steam
 
-**Source:** [Chapter 175](../../chapters/175-salt-and-steam.md), git blob `84530b6a9a8987f8a500780de8e44393af2c303b`. **Approximate body words:** 10,091. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 175](../../chapters/175-salt-and-steam.md), git blob `22b4ceef2d3d40e7784ff0a135d853aefe9c8261`. **Body words:** 10,173. **Status:** Targeted continuity repair applied; screening only.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -21,6 +21,11 @@ Tempest Hall's history and Percy's claim about never opening its door need compa
 - No flagged constructions were detected by these selected mechanical checks; this **does not** demonstrate the chapter is error-free.
 - **Continuity names:** Rhys ([L465](../../chapters/175-salt-and-steam.md#L465)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
 
+## Current PR #103 continuation (2026-10-17)
+
+- **Memory boundary:** The former age-nine room, corridor, and person-awake details were revised to warm-salt and sound associations plus bodily familiarity. The current prose supplies no age, private room, person, or remembered event; Ch. 190 now identifies the corridor as Annabeth's inference from Percy's report.
+- **Attendance:** Seven/eight/nine, Katie's six children, the later five-person group, eleven swimmers/towels, and the nine-plus-four borrowed tally do not reconcile from the source. No attendance figures were changed without evidence for who participated.
+- **Coverage:** Targeted source review only; this is not developmental or style signoff for the whole chapter.
 ## Canon boundaries and follow-through
 
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.

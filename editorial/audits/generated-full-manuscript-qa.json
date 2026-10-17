@@ -222,7 +222,7 @@
     {
       "chapter": 17,
       "path": "chapters\\017-lake-day.md",
-      "body_words": 10061,
+      "body_words": 10050,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -742,7 +742,7 @@
     {
       "chapter": 53,
       "path": "chapters\\053-river.md",
-      "body_words": 10027,
+      "body_words": 10026,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -764,7 +764,7 @@
     {
       "chapter": 55,
       "path": "chapters\\055-underworld-gates.md",
-      "body_words": 10014,
+      "body_words": 10043,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -945,7 +945,7 @@
     {
       "chapter": 71,
       "path": "chapters\\071-anniversary.md",
-      "body_words": 10145,
+      "body_words": 10153,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -961,7 +961,7 @@
     {
       "chapter": 72,
       "path": "chapters\\072-new-kids.md",
-      "body_words": 10093,
+      "body_words": 10666,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -971,7 +971,7 @@
         }
       ],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.277,
+      "dialogue_line_ratio": 0.273,
       "median_paragraph_words": 13
     },
     {
@@ -1619,7 +1619,7 @@
     {
       "chapter": 128,
       "path": "chapters\\128-the-sky-in-the-sea.md",
-      "body_words": 10026,
+      "body_words": 10038,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1630,7 +1630,7 @@
     {
       "chapter": 129,
       "path": "chapters\\129-the-way-back.md",
-      "body_words": 10010,
+      "body_words": 10041,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1795,12 +1795,12 @@
     {
       "chapter": 142,
       "path": "chapters\\142-night-swim.md",
-      "body_words": 10141,
+      "body_words": 10183,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.255,
+      "dialogue_line_ratio": 0.254,
       "median_paragraph_words": 29
     },
     {
@@ -2125,7 +2125,7 @@
     {
       "chapter": 169,
       "path": "chapters\\169-the-conspiracy-of-the-afternoon.md",
-      "body_words": 11707,
+      "body_words": 11708,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2208,7 +2208,7 @@
     {
       "chapter": 175,
       "path": "chapters\\175-salt-and-steam.md",
-      "body_words": 10189,
+      "body_words": 10173,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2388,7 +2388,7 @@
     {
       "chapter": 190,
       "path": "chapters\\190-thursday-twice.md",
-      "body_words": 11467,
+      "body_words": 11491,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941324,
+  "window_comparisons": 1942016,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

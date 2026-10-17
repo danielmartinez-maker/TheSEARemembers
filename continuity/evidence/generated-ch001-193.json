@@ -16879,13 +16879,13 @@
       "path": "chapters/142-night-swim.md",
       "title": "Chapter 142: Night Swim",
       "name_mentions": {
-        "Percy": 93,
-        "Annabeth": 67,
+        "Percy": 94,
+        "Annabeth": 68,
         "Thalia": 65,
-        "Clarisse": 89,
-        "Silena": 73,
+        "Clarisse": 90,
+        "Silena": 74,
         "Poseidon": 7,
-        "Chiron": 10,
+        "Chiron": 11,
         "Zeus": 4,
         "Ella": 3
       },
@@ -21974,6 +21974,7 @@
         "Thalia": 14,
         "Clarisse": 49,
         "Silena": 60,
+        "Amphitrite": 1,
         "Tyson": 3,
         "Jason": 3,
         "Beryl": 2,
@@ -22044,9 +22045,10 @@
           "line": 189,
           "named": [
             "Percy",
-            "Annabeth"
+            "Annabeth",
+            "Amphitrite"
           ],
-          "excerpt": "The corridor outside her mother's rooms in the deep palace — no. That was Percy's memory, not hers. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a"
+          "excerpt": "The corridor outside Amphitrite's rooms in the deep palace — no. Percy had told her only that the warm mineral smell pulled him toward Atlantis; the corridor was her guess, not something he could remember. The association belonged to him, n"
         }
       ],
       "event_witnesses_verified": false,

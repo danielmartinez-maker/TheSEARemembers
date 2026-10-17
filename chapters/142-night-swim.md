@@ -526,6 +526,8 @@ Annabeth nodded. "I'll come. If there was something we missed, I want to know wh
 
 Thalia sat beside Clarisse for a moment, close enough to offer warmth without grabbing her. Then she stood and held out her hand, waiting. Clarisse took it and got up.
 
+Before the cabins, Clarisse kept her word and reported the whole account to Chiron, with Percy and Silena beside her. Annabeth brought the camera and repeated that the markers might not show enough; they left the crossing point for the morning check.
+
 They were cold and tired, the five of them, and Percy was beginning to realize how easily a good night could become a story with only the pleasant bits left in it. The truth wasn't ruined by admitting the parts that needed attention.
 
 At the cabins they split with hugs — quick, hard, wet and cold — Thalia lifting Percy half off his feet in her black hoodie, smelling of ozone and lake, whispering, "Proud of you, barnacle, for staying," Annabeth hugging Silena and Clarisse, her orange tee damp, her gray suit peeking, whispering, "Thank you for coming, really," Clarisse hugging Annabeth back, stiff then fierce, her gray hoodie damp, muttering, "Thanks for... charts and not making it weird," Silena kissing everyone's cheeks, coconut and cold, her white shirt damp.

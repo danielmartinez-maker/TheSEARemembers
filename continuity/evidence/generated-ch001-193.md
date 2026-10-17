@@ -2260,7 +2260,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/142-night-swim.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 93, Clarisse 89, Silena 73, Annabeth 67, Thalia 65, Chiron 10, Poseidon 7, Zeus 4, Ella 3
+- Name appearances (not proof of presence): Percy 94, Clarisse 90, Silena 74, Annabeth 68, Thalia 65, Chiron 11, Poseidon 7, Zeus 4, Ella 3
 - Event/action candidates to inspect in context:
   - Line 13: "You're awake," Percy whispered.
   - Line 15: "You're awake," Silena whispered back, without turning.
@@ -3001,7 +3001,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 45: "Morning," Percy said, hanging his coat on the hook where it had been since the thaw, on the outside of the rail, dripping.
   - Line 47: "You're wet," Clarisse said.
 - Memory/disclosure candidates to inspect:
-  - Line 189: The corridor outside her mother's rooms in the deep palace — no. That was Percy's memory, not hers. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a
+  - Line 189: The corridor outside Amphitrite's rooms in the deep palace — no. Percy had told her only that the warm mineral smell pulled him toward Atlantis; the corridor was her guess, not something he could remember. The association belonged to him, n
 
 ## 191: Chapter 191: Two Hands of Work
 

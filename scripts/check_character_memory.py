@@ -368,6 +368,24 @@ CHECKS = {
         "present": ("a fourteen-year-old girl told him where he'd missed a spot",),
         "absent": ("a thirteen-year-old girl told him where he'd missed a spot",),
     },
+    "chapters/175-salt-and-steam.md": {
+        "present": ("The association offered no room or event, only an ache of wanting he could not quite place.",
+                    "It gave him no age, room, or person on the other side of a wall.",
+                    "The gesture felt familiar in the muscles of his palm, but it gave him no scene to set it in."),
+        "absent": ("the exact smell of the corridor outside my mother's rooms in the deep palace",
+                   "in a room where he was nine, when somebody he loved was awake on the other side of it",
+                   "which was a thing he had done in the deep palace, exactly this"),
+    },
+    "chapters/190-thursday-twice.md": {
+        "present": ("Percy had told her only that the warm mineral smell pulled him toward Atlantis; the corridor was her guess, not something he could remember.",
+                    "The association belonged to him, not her."),
+        "absent": ("That was Percy's memory, not hers.",),
+    },
+    "chapters/181-whoever-wants-to-come.md": {
+        "present": ("It brought with it a deep-palace association he couldn't fasten to a corridor, a pool, or a voice.",
+                    "the hall was not the palace, and an association was not a scene he remembered."),
+        "absent": (),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

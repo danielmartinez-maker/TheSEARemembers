@@ -186,7 +186,7 @@ Her own page was the wrong length. She had cut it square because square was what
 
 Beryl Grace had asked for the corner of the roof.
 
-The corridor outside her mother's rooms in the deep palace — no. That was Percy's memory, not hers. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a hill that was not this one, and she still could not always tell the difference between a thing she remembered and a thing she had been told. The hall, though, the hall she had. Four months of it. The tile, the brick, the barrel ceiling, the skylight in the long curve, the north corner where the rain lay on the glass in a storm and went on lying there after it stopped, the warm mineral smell coming up off the water in the dark.
+The corridor outside Amphitrite's rooms in the deep palace — no. Percy had told her only that the warm mineral smell pulled him toward Atlantis; the corridor was her guess, not something he could remember. The association belonged to him, not her. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a hill that was not this one, and she still could not always tell the difference between a thing she remembered and a thing she had been told. The hall, though, the hall she had. Four months of it. The tile, the brick, the barrel ceiling, the skylight in the long curve, the north corner where the rain lay on the glass in a storm and went on lying there after it stopped, the warm mineral smell coming up off the water in the dark.
 
 She wrote:
 

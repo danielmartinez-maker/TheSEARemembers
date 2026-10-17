@@ -200,8 +200,8 @@
 
 ### Chapters 140–144 · witnessed / reported / private / unknown
 - **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
-- **State:** FIRSTHAND: joins the dock outing and canoe race, organizes the planned night-swim note, wears PFD/water shoes, and reports the uncertain outer-buoy crossing rather than claiming a precise location. She helps rebuild the canoe dock and shelters during the storm.
-- **Carry-forward:** Chiron's receipt of the buoy report is unconfirmed. Keep Silena's initiative and reporting distinct from Clarisse's fear/choice; she remains a Poseidon daughter and Cabin Three sister.
+- **State:** FIRSTHAND: joins the dock outing and canoe race, organizes the planned night-swim note, wears PFD/water shoes, notices that the group passed the outer buoy without noticing, and asks for the camera check rather than claiming a precise location. Clarisse promises and then reports the overrun to Chiron before they split. Silena helps rebuild the canoe dock and shelters during the storm.
+- **Carry-forward:** Clarisse reports the outer-buoy overrun to Chiron before the group splits; the camera-marker check remains pending. Keep Silena's initiative and reporting distinct from Clarisse's fear/choice; she remains a Poseidon daughter and Cabin Three sister.
 
 ### Chapters 149–151 · witnessed / reported / unknown
 - **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).

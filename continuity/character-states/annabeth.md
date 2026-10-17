@@ -215,7 +215,7 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 ### Chapters 140–144 · witnessed / reported / private / unknown
 - **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
 - **State:** FIRSTHAND: chooses her participation in the dock jump, judges the canoe race a draw after the no-powers rule is broken, wears a fitted PFD and water shoes at the swim, documents the rebuilt dock, and chooses one supervised twelve-second low-power draw in the boathouse. Will's prior-day clearance and this bounded attempt do not establish unrestricted use.
-- **Carry-forward:** Percy's navy windbreaker remains with her at the end of the storm scene, and the outer-buoy report remains unconfirmed. Their lake kiss is witnessed by friends, but no prior-life memory is shared. She remains Thalia's Grace sister and Percy's established partner.
+- **Carry-forward:** Percy's navy windbreaker remains with her at the end of the storm scene, and Clarisse reports the outer-buoy overrun to Chiron before they split; the camera-marker check remains pending. Their lake kiss is witnessed by friends, but no prior-life memory is shared. She remains Thalia's Grace sister and Percy's established partner.
 
 ### Chapters 149–151 · witnessed / reported / unknown
 - **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).

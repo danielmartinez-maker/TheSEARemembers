@@ -213,7 +213,7 @@
 ### Chapters 140–144 · witnessed / reported / private / unknown
 - **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
 - **State:** FIRSTHAND: shares the dock jump, admits his and Thalia's rule breaks in the canoe race, wears a fitted/buckled PFD and water shoes at the night swim, helps rebuild and test the canoe dock, and steadies the boathouse puddle during Annabeth's single supervised draw. The kiss with Annabeth is current-life intimacy; it discloses no prior-life memory.
-- **Carry-forward:** Outer-buoy report to Chiron remains unconfirmed; the repaired canoe dock awaits its formal record/reopening; Percy has no diagnosed injury in this span. Only he and Annabeth retain autobiographical memories of the erased future.
+- **Carry-forward:** Clarisse reported the outer-buoy overrun to Chiron; the camera-marker check remains pending. The repaired canoe dock awaits its formal record/reopening; Percy has no diagnosed injury in this span. Only he and Annabeth retain autobiographical memories of the erased future.
 
 ### Chapters 149–151 · witnessed / reported / unknown
 - **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).

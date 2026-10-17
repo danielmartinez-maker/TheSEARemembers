@@ -29,6 +29,6 @@ Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus
 
 ## Current PR #103 repair note (2026-10-17)
 
-- **Source:** Current candidate blob `08eda645bbde70cb7383609b9a9872dd55172b5c`; mechanical body count **10,141**.
+- **Source:** Current candidate blob `2161fc376faa94ac1e6faba14cd70d3f17adec04`; mechanical body count **10,183**.
 - **Repair:** All five fitted PFDs are put on, tightened, and buckle-checked before entering deeper water ([L235–257](../../chapters/142-night-swim.md#L235)); Percy’s later swim descriptions keep his PFD and water shoes on, including the kiss at [L415](../../chapters/142-night-swim.md#L415). Silena’s feet are described as wearing water shoes, consistent with the rule that shoes stay on past the ankles.
-- **Open follow-up:** The outer-buoy position and promised report to Chiron are still not explicitly resolved in the reviewed 140–146 scenes. The chapter has not received a full developmental/style signoff.
+- **Follow-up status:** Clarisse's report to Chiron is now shown before the cabin split. The outer-buoy position remains unknown pending the camera-marker check; no later result is established in the reviewed 140–146 scenes. The chapter has not received a full developmental/style signoff.

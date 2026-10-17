@@ -1,6 +1,6 @@
 # Chapter 190 editorial screening: Thursday, Twice
 
-**Source:** [Chapter 190](../../chapters/190-thursday-twice.md), git blob `b9b33aff59e66e58bad4fe603a402624c5a25d79`. **Approximate body words:** 11,221. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 190](../../chapters/190-thursday-twice.md), git blob `a8c7aa656698e974cb83837473a4532c199ca106`. **Body words:** 11,491. **Status:** Targeted continuity repair applied; screening only.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -22,6 +22,8 @@ Duplicated Thursday motifs need differentiated events; check known cross-chapter
 - **Continuity names:** Jason ([L177](../../chapters/190-thursday-twice.md#L177)), Tyson ([L13](../../chapters/190-thursday-twice.md#L13)), Beryl ([L147](../../chapters/190-thursday-twice.md#L147)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
 
 ## Canon boundaries and follow-through
+
+**Current PR #103 memory note (2026-10-17):** Annabeth's thought marks the corridor outside Amphitrite's rooms as her inference, not a memory. Percy reported only a sensory association with Atlantis and no scene; the chapter does not transfer his experience to her.
 
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
