@@ -6,7 +6,7 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** local branch `audit/pr103-live-continuation`, based on open PR #103 head `2a30175d1d8e1ea35a7436175713e3b81e0a4cc2`. This candidate includes further scene and continuity repairs not yet pushed; hosted validation on the candidate is pending. Local QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+**Source:** source and ledger commit `90b14f8` is pushed to PR #103's existing branch. The counts below were measured on that chapter-source tree; hosted validation on the final PR head was pending at this report checkpoint. QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
 
 | Scope | Latest local result |
 |---|---:|
@@ -19,7 +19,7 @@
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; per-character cumulative matrix remains partial** |
 
-The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Full semantic continuity and style/developmental review remain open. Refreshed local reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`. Hosted runs on the prior PR head do not validate this local candidate.
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Full semantic continuity and style/developmental review remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`. Hosted validation was pending on the final PR head at this report checkpoint.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 
