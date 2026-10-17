@@ -1196,9 +1196,9 @@ Skeptical noise from Clarisse.
 
 Settling beside them, bench groaning, Chiron asked, “Else?”
 
-“Tell her some of us are excited,” Silena said, glancing at Clarisse, “to meet her.”
+“Tell her some of us are excited,” Silena said, glancing at Clarisse, “to spend time with her.”
 
-“Willing to meet her,” Clarisse amended. “Excitement unpromised.”
+“Willing to spend time with her,” Clarisse amended. “Excitement unpromised.”
 
 “Fair,” Silena said.
 

@@ -211,7 +211,7 @@ Chapter 090, *Storm and Sea*, was committed at `4c592e0fdd04e66a13485e44f60b4e46
 - [078, Nico's Birthday](../chapters/078-nico-s-birthday.md): **5,987 → 10,471** body words; [memory handoff](handoffs/ch078-nicos-birthday.md).
 - [079, Elena's Tale](../chapters/079-elena-s-tale.md): **5,336 → 10,116** body words; [memory handoff](handoffs/ch079-elenas-tale.md).
 - [080, The Second Dance](../chapters/080-the-second-dance.md): **5,702 → 10,440** body words; [memory handoff](handoffs/ch080-the-second-dance.md).
-- [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **4,921 → 10,464** words; [memory handoff](../continuity/ch118.yaml).
+- [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **10,320 current body words** by the strict repository counter (an earlier tracker recorded 10,464); [memory handoff](../continuity/ch118.yaml).
 - [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
 - [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,656** words; [memory handoff](../continuity/ch133.yaml).
 

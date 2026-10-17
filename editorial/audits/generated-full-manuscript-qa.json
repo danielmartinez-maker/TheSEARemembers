@@ -1509,7 +1509,7 @@
     {
       "chapter": 118,
       "path": "chapters\\118-a-message-from-amphitrite.md",
-      "body_words": 10316,
+      "body_words": 10320,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941320,
+  "window_comparisons": 1941324,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

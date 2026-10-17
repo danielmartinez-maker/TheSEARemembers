@@ -6,7 +6,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 - At least 10,000 body words: 193 chapters
 - Below minimum: 0 chapters
 - Total body-word shortfall: 0
-- Exact 300-word windows checked: 1,941,320
+- Exact 300-word windows checked: 1,941,324
 - Cross-chapter matching windows: 0
 - Structural errors: 0
 
@@ -129,7 +129,7 @@ Machine-generated. Not an editorial certificate; source branch must be recorded 
 | 115 | 10,062 | 0 |
 | 116 | 10,088 | 0 |
 | 117 | 10,163 | 0 |
-| 118 | 10,316 | 0 |
+| 118 | 10,320 | 0 |
 | 119 | 10,179 | 0 |
 | 120 | 10,003 | 0 |
 | 121 | 10,632 | 0 |

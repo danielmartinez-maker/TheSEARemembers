@@ -79,7 +79,7 @@ All 7 chapters in this range now pass the length gate. The shortfall figures in 
 | [115](../../chapters/115-the-old-photograph.md) | The Old Photograph | 10,062 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [116](../../chapters/116-cabin-three-rules.md) | Cabin Three Rules | 10,088 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [117](../../chapters/117-a-day-apart.md) | A Day Apart | 10,163 | 0 | **LENGTH PASS; expanded; literary review open** |
-| [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 10,464 | 0 | **LENGTH PASS; editorial review open** |
+| [118](../../chapters/118-a-message-from-amphitrite.md) | A Message from Amphitrite | 10,320 | 0 | **LENGTH PASS; editorial review open** |
 | [119](../../chapters/119-sisters-errand.md) | Sisters' Errand | 10,179 | 0 | **LENGTH PASS; expanded; literary review open** |
 | [120](../../chapters/120-a-letter-from-the-sea.md) | A Letter from the Sea | 10,003 | 0 | **LENGTH PASS; expanded; literary review open** |
 

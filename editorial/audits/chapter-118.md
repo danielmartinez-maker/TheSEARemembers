@@ -1,6 +1,6 @@
 # Chapter 118 editorial screening: A Message from Amphitrite
 
-**Historical source:** [Chapter 118](../../chapters/118-a-message-from-amphitrite.md), pre-expansion git blob `246ab1da5f16627216bf8691fb4ef055f57b82c0` at 4,906 body words. **Current body words:** 10,464 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
+**Historical source:** [Chapter 118](../../chapters/118-a-message-from-amphitrite.md), pre-expansion git blob `246ab1da5f16627216bf8691fb4ef055f57b82c0` at 4,906 body words. **Current body words:** 10,320 by the strict repository counter. An earlier tracker recorded 10,464; the current reproducible count governs the floor. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
