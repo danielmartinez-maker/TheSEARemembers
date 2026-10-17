@@ -201,3 +201,29 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **State:** FIRSTHAND: chooses to remain Percy's girlfriend in their current life and agrees that “favorite person” can be their mutual nickname without replacing the established label. She initiates a kiss and helps Percy tell Thalia. Thalia reports a block-building memory; Annabeth says she does not remember it but believes her.
 - **Work / boundary:** Designs and revises the shrine bookcase after checking a younger camper's reach and hearing Thalia's concern about the path-side corner. The frame is stable with backing left to set; no books are loaded. She controls when Percy handles materials and when she wants to work alone.
 - **Carry-forward:** The shelf test remains pending; no map or injury status changes. Percy and Annabeth remain the only autobiographical holders of the erased life.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md), [Ch112](../../chapters/112-her-turn-to-worry.md), [Ch113](../../chapters/113-little-brother.md).
+- **State:** Chooses the amphitheater date with Percy. When she asks Thalia about possible leave before Percy has agreed, she apologizes and returns the travel decision to him. She remains his established partner; Clarisse's and Silena's apology after crossing the no-spying boundary remains part of the date history.
+- **Carry-forward:** The Percy/Amphitrite letter is sent, but receipt and response are unknown. Percy does not disclose his memory predicament to Amphitrite. Annabeth gains no erased-childhood memory from Thalia's accounts.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Makes a Grace-sister promise with Thalia separately from the Cabin Three Pact. Travels to Atlantis with Percy, Clarisse and Silena under the agreed weekend plan, keeping her own breathing charm and guest boundaries. She and Percy remain mutually established partners.
+- **Carry-forward:** The Saturday/Sunday itinerary, Poseidon's attendance and the Sunday return remain as unconfirmed or prospective as stated. She does not receive Thalia's childhood memories as her own and does not disclose the erased future to others.
+
+### Chapters 140–144 · witnessed / reported / private / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** FIRSTHAND: chooses her participation in the dock jump, judges the canoe race a draw after the no-powers rule is broken, wears a fitted PFD and water shoes at the swim, documents the rebuilt dock, and chooses one supervised twelve-second low-power draw in the boathouse. Will's prior-day clearance and this bounded attempt do not establish unrestricted use.
+- **Carry-forward:** Percy's navy windbreaker remains with her at the end of the storm scene, and the outer-buoy report remains unconfirmed. Their lake kiss is witnessed by friends, but no prior-life memory is shared. She remains Thalia's Grace sister and Percy's established partner.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Remains Percy’s established partner and Thalia's Grace sister. Ch149's corrected campfire locations describe distance between friends, not changed cabins or parentage. At fourteen she has a scorch mark and a grounding charm at her right wrist in Ch151.
+- **Memory boundary:** She cannot recall Thalia's altered-childhood stories; only she and Percy retain autobiographical memories of the erased future. Exact calendar date remains unknown.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch152](../../chapters/152-a-full-day-of-sky.md#L279), [Ch154](../../chapters/154-the-heron.md#L551), [Ch155](../../chapters/155-thirty-nine-marks.md#L255), [Ch156](../../chapters/156-what-the-hands-know.md#L471), [Ch158](../../chapters/158-what-brothers-bring.md#L259), [Ch160](../../chapters/160-what-the-note-said.md#L361).
+- **FIRSTHAND / relationships:** At fourteen, remains Percy's established partner and Thalia's Grace sister. Goes out with Thalia and hears her firsthand recollections of seven-year-old Annabeth; Annabeth explicitly does not remember that altered childhood. She volunteers to help document the anomaly and accepts Chiron's no-solo-past-boundary plan. Gives Tyson a tide notebook; exchanges private written notes with Percy.
+- **Knowledge / private:** Her hands' familiarity with the cove is explicitly not a memory. She witnesses the anomaly with Percy and reports it with him; holds a working tally copy while Chiron keeps the panel locked. She remains one of the only two holders of erased-future autobiographical memory. No bodily familiarity, Thalia story, or current relationship is evidence that she recalls her altered childhood.
+- **Carry-forward:** Thalia's gifted gray flannel remains with Annabeth; Percy and Annabeth retain their exchanged notes. No injury is established in these chapters; exact dates remain unknown.

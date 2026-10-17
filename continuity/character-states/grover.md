@@ -138,3 +138,7 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: attends the feast and gives his campfire speech without reading his eleventh draft. He asks Percy to remind him to eat afterward; the chapter does not show a later meal. Juniper celebrates with him.
 - **Carry-forward:** Grover dozes with his head in Juniper's lap as the event closes. He receives no erased-life memories or private illness details.
+
+### Chapter 143 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch143](../../chapters/143-the-dock-repair.md).
+- **State:** Participates with Ella and the others in rebuilding and walk-testing the canoe dock after the storm. The group completes the physical test; Chiron's repair record/formal reopening remains pending.

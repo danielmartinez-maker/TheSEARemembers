@@ -6,19 +6,19 @@
 
 ## Latest local continuation: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Working candidate `audit/pr103-live-continuation`, based on PR #103 head `e9d86c2`; local QA is complete and the candidate is pending commit/push and fresh hosted Actions. The repository length audit reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+**Source:** Working candidate `audit/pr103-live-continuation`, based on PR #103 head `6b11288d`; local QA is complete and the candidate is pending commit/push and fresh hosted Actions. The repository length audit reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-token windows | **1,941,329; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,150,186 body words / 2,091,881 windows; 0 exact matches** |
+| Chapter-only every-offset 300-token windows | **1,941,434; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,150,291 body words / 2,091,986 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **36 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 
-The single lexical introduction cue in Chapter 014 was reviewed in context and is a valid first in-person meeting after prior Iris contact. Full semantic continuity, style/developmental review and hosted Actions on the final pushed head remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+The single lexical introduction cue in Chapter 014 was reviewed in context and is a valid first in-person meeting after prior Iris contact. Full semantic continuity, style/developmental review and hosted Actions on the final pushed head remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 
@@ -33,7 +33,7 @@ The single lexical introduction cue in Chapter 014 was reviewed in context and i
 | All chapter and bonus Markdown files | **196 files / 2,030,026 body words / 1,971,721 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **35 passed** |
 
-One lexical first-introduction cue remains for human review in Chapter 014. This is mechanical QA plus two focused scene repairs; it does not certify whole-novel semantic continuity or literary quality. Refreshed local outputs: `editorial/audits/generated-full-qa.json`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+One lexical first-introduction cue remains for human review in Chapter 014. This is mechanical QA plus two focused scene repairs; it does not certify whole-novel semantic continuity or literary quality. Refreshed local outputs: `editorial/audits/generated-full-qa.json`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
 
 ## Previous current-branch checkpoint: Chapter 101 (2026-10-15; superseded by the Oct. 17 local continuation)
 

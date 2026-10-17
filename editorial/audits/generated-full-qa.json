@@ -1795,12 +1795,12 @@
     {
       "chapter": 142,
       "path": "chapters\\142-night-swim.md",
-      "body_words": 10087,
+      "body_words": 10141,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.256,
+      "dialogue_line_ratio": 0.255,
       "median_paragraph_words": 29
     },
     {
@@ -1828,7 +1828,7 @@
     {
       "chapter": 145,
       "path": "chapters\\145-the-lake-keeps-what-it-takes.md",
-      "body_words": 14651,
+      "body_words": 14722,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1839,7 +1839,7 @@
     {
       "chapter": 146,
       "path": "chapters\\146-the-long-way-back.md",
-      "body_words": 10098,
+      "body_words": 10107,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1872,7 +1872,7 @@
     {
       "chapter": 149,
       "path": "chapters\\149-the-argument.md",
-      "body_words": 10379,
+      "body_words": 10418,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1964,7 +1964,7 @@
     {
       "chapter": 156,
       "path": "chapters\\156-what-the-hands-know.md",
-      "body_words": 10326,
+      "body_words": 10329,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1986,7 +1986,7 @@
     {
       "chapter": 158,
       "path": "chapters\\158-what-brothers-bring.md",
-      "body_words": 10149,
+      "body_words": 10131,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1997,7 +1997,7 @@
     {
       "chapter": 159,
       "path": "chapters\\159-the-middle-of-the-visit.md",
-      "body_words": 10133,
+      "body_words": 10096,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2008,7 +2008,7 @@
     {
       "chapter": 160,
       "path": "chapters\\160-what-the-note-said.md",
-      "body_words": 10746,
+      "body_words": 10741,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2019,7 +2019,7 @@
     {
       "chapter": 161,
       "path": "chapters\\161-edges-that-hold.md",
-      "body_words": 12028,
+      "body_words": 12017,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941329,
+  "window_comparisons": 1941434,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

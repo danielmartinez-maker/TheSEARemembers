@@ -4,7 +4,7 @@ Percy Jackson woke to the sound of somebody being careful.
 
 Not the normal cabin sounds. Not Clarisse kicking the pool ladder because it had offended her, not Silena humming through her teeth while she braided her hair, not the pool itself moving water through the channels under the floor with that low salt-rain smell rising off it. This was a different careful: a big careful. A slow breath, a pause, the soft scrape of wood on stone, another pause to check whether the noise had woken anybody.
 
-He kept his eyes closed and counted the light. Morning coming through the high window in Tempest Hall laid itself across the bunks in one long plank, dust turning in it. Mid-September light, thinner than August, cooler at the edges. It was the third morning of Tyson's visit. Second full day, if you counted arrival day the way Silena did, which was as half a day because anybody arriving after lunch had missed breakfast and therefore missed the day's true beginning. Percy had stopped arguing with her system on the first night. It was easier to learn the calendar than to fight it.
+He kept his eyes closed and counted the light. Morning coming through the high window in Tempest Hall laid itself across the bunks in one long plank, dust turning in it. Mid-September light, thinner than August, cooler at the edges. It was the third morning of Tyson's visit. Second full day, if you counted arrival day the way Silena did, which was as half a day because Tyson had arrived at nine, after breakfast and the day's true beginning. Percy had stopped arguing with her system on the first night. It was easier to learn the calendar than to fight it.
 
 He opened one eye.
 
@@ -110,7 +110,7 @@ Tyson stared at the ball. "I do not know how to pass a baby bird."
 
 "Then pass it like laundry," Clarisse said. "You did laundry this morning. I saw the lines. Best lines we've had all month. Pass it like a sheet."
 
-"I can pass it like a sheet," Tyson said, brightening. He held the ball out, (-- removed --) it once, gently, to test its weight. The kids on his side — four of them, none older than eleven, two Apollo, one Demeter, one unclaimed with grass stains on both knees — watched him with the open-mouthed awe usually reserved for gods and large dogs.
+"I can pass it like a sheet," Tyson said, brightening. He held the ball out and bounced it once, gently, to test its weight. The kids on his side — four of them, none older than eleven, two Apollo, one Demeter, one unclaimed with grass stains on both knees — watched him with the open-mouthed awe usually reserved for gods and large dogs.
 
 Percy sat on the sideline bench next to Silena and narrated: "Incredible or catastrophic. No middle."
 
@@ -338,9 +338,9 @@ Thalia was quiet a second. Then, dry as dust: "You can't cartograph grief, baby 
 
 "I know. I keep trying. It's extremely annoying."
 
-Thalia stood, came around the table, and put her arm around Annabeth's shoulders — brief, hard, the Grace-sister hug that was all collarbone and jacket smell and pine. "Listen. When I left — when I was a tree, when I came back, all of it — you were the one who kept the map. You kept my place on it. You didn't fix anything. You just didn't erase me." She squeezed once. "That's the job. Keep the place. Let him go to the forges. Keep the bunk on the map."
+Thalia stood, came around the table, and put her arm around Annabeth's shoulders — brief, hard, the Grace-sister hug that was all collarbone and jacket smell and pine. "Listen. All of it — you were the one who kept the map. You kept my place on it. You didn't fix anything. You just didn't erase me." She squeezed once. "That's the job. Keep the place. Let him go to the forges. Keep the bunk on the map."
 
-Annabeth leaned into her a second, allowed it, the precise planner letting herself be held by the older sister who had been a tree and come back and never once made it a lesson. "That's annoyingly wise."
+Annabeth leaned into her a second, allowed it, the precise planner letting herself be held by the older sister she remembered losing in one life and had grown up with in this one. "That's annoyingly wise."
 
 "I'm eighteen. I'm supposed to be wise. It's in the job description, right under intimidating." Thalia released her, stole a grape from the side tin instead of the peach — concession, grace — and headed for the ladder. "Bring your boy to the lake tonight if you want. I'll cover patrol. Ten minutes per occurrence, and I'm waiving it, don't tell Clarisse."
 
@@ -538,7 +538,7 @@ Clarisse folded it over her arm, tucked the wet edge inward and gave Silena a ch
 
 Silena laughed and tucked Percy's hair tie into her pocket for tomorrow. Clarisse took the extra lantern, too, without making an announcement about it. There would be work in the morning: hang the quilt to dry, return the lamps, verify the ferry time with Chiron. Nothing required Silena to do all of it.
 
-"Come on," she said. "Let's go up. Tyson saved us seats at dinner and if we're late he'll stand up and announce it." "Come on. Let's go up. Tyson saved us seats at dinner and if we're late he'll stand up and announce it."
+"Come on," she said. "Let's go up. Tyson saved us seats at dinner and if we're late he'll stand up and announce it."
 
 They walked up the switchback together in the moonlight, lanterns swinging, pine needles cool under their bare feet, the lake flashing dark-silver through the trees to the left. At the bend they stopped, as Percy had that afternoon, and looked down to the willow cove where the heron stood gray and still on the bow of the half-sunk skiff, witness to the ordinary precious thing, waiting for whatever it waited for.
 
@@ -546,7 +546,7 @@ They walked up the switchback together in the moonlight, lanterns swinging, pine
 
 "Good," Silena said. "I like knowing something's waiting." She started up again, singing softly with no words, the sailing song with no words she trusted, and Clarisse fell into step beside her, and the pines went by on both sides, and the cabin light showed warm through the trees ahead — Tempest Hall, pool breathing small and steady, four bunks made up, four towels on four hooks, forge-smoke and lemon oil in the air, a boy with short arms and a boy with a listening foot already arguing about tomorrow's cleats.
 
-Tomorrow would come. The ferry would come. The bunk would empty and the towel would stay and the arithmetic would close like water over a dive. Silena knew it. Clarisse knew it. They had known it since Chiron said bounded on the beach.
+Tomorrow would come. The ferry would come Tuesday. The bunk would empty and the towel would stay and the arithmetic would close like water over a dive. Silena knew it. Clarisse knew it. They had known it since Chiron said bounded on the beach.
 
 But today — laundry lines straight as ruled paper, volleyball in gold dust, carrots biggest to smallest, one true thing each with ears under, apples and iced tea and a borrowed blue shirt, a bolt in a pocket and a rock on a pillow — today had been rich in days. Today they had chosen to be in it anyway, the middle of a good thing, knowing it ended.
 

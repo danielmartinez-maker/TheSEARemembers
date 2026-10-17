@@ -197,3 +197,29 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **State:** FIRSTHAND: hears Percy and Annabeth say they remain together and choose a mutual nickname; she does not vote on their relationship. She reports her own memory of Annabeth arranging blocks so small figures could see out. Annabeth says she does not remember the scene but believes Thalia.
 - **Injury / schedule:** The right palm remains cleanly wrapped, is kept out of use and receives no medical check or clearance. Thalia writes and holds the schedule with her left hand. She says she should take it to Chiron, but no delivery is shown.
 - **Carry-forward:** Thalia may ask before telling a long childhood story, while Annabeth says she need not hide every story. Beryl's letter and reply choice are not discussed; no memory is transferred.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md)–[Ch113](../../chapters/113-little-brother.md).
+- **State:** Annabeth asks her about possible leave before Percy has agreed to travel; Thalia's answer does not create a trip or commitment. Annabeth later apologizes and returns the decision to Percy.
+- **Carry-forward:** Percy's letter to Amphitrite is dispatched, but no receipt is shown. Thalia does not gain Percy or Annabeth's autobiographical memories from their reports.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Makes a separate Grace-sister promise with Annabeth; she declines the proposed Atlantis weekend because she is on watch, and stays at camp. This is her choice, not a ban on later travel.
+- **Carry-forward:** The Cabin Three Pact belongs to Percy, Clarisse and Silena. Ch125's Sunday return is still only a stated plan. Annabeth remains her sister even though Annabeth cannot remember Thalia's childhood stories.
+
+### Chapters 140–144 · witnessed / reported / private / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** FIRSTHAND: supports Annabeth's water practice and choice at the dock, admits sparking during the canoe race, and leads the night swim's buddy/no-middle/PFD rules. She backs Annabeth's bounded storm practice and helps the group reach shelter.
+- **Carry-forward:** Clarisse's refusal of another midnight swim is accepted; no injury or unrestricted power clearance is established in these scenes. Thalia and Annabeth remain Grace sisters; Jason's Ch144 appearance is a visit, not residence at camp.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Her dock argument with Clarisse continues as chosen-family conflict. Chiron names Annabeth and Jason as her siblings and Clarisse as family she has chosen. At eighteen, Thalia agrees only to ask Chiron about a proposed four-day boundary walk.
+- **Carry-forward:** No approval, date or departure is shown. Clarisse is not a Grace sibling; Thalia and Annabeth remain Zeus/Grace siblings in Cabin One.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch152](../../chapters/152-a-full-day-of-sky.md#L279), [Ch155](../../chapters/155-thirty-nine-marks.md#L255), [Ch156](../../chapters/156-what-the-hands-know.md#L13), [Ch158](../../chapters/158-what-brothers-bring.md#L71), [Ch159](../../chapters/159-the-middle-of-the-visit.md#L301), [Ch160](../../chapters/160-what-the-note-said.md#L271).
+- **FIRSTHAND / relationship:** Her altered-childhood memories of seven-year-old Annabeth are Thalia's own firsthand memories; she shares them with Annabeth, who does not remember them. Keeps her Grace-sister bond with Annabeth and chosen-family bond with Clarisse. Chiron approves a boundary survey; she departs at 3 p.m., leaves a sealed note, and returns Friday after three days on the line. No second survey departure is established in this span.
+- **Knowledge / private:** Participates in the anomaly report/inspection; does not gain Percy or Annabeth's erased-future memories. She is not a holder of those memories. The current candidate removes the Ch159 claim that she was a tree and the Ch160/161 stale status that she remained away until Friday. In Ch159, Annabeth's prior-life loss is explicitly her own memory, while Thalia's current-life sisterhood remains shared altered childhood.
+- **Carry-forward:** Thalia gives Annabeth her gray flannel; returns for Tyson's Friday arrival and is present through the weekend. Ages 18; no injury established. Calendar date unknown.

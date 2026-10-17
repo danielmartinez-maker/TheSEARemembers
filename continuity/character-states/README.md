@@ -6,7 +6,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 
-**Coverage status (PR #103 worktree, October 17):** The chapter-ledger set explicitly marks **71/193 chapters full-scene reviewed** (001–024, 027–048, 061–076, 126–130, 145–148). Chapters 025–026 have section-level passes; 049–060 have partial/selective reading; 077–089 have bounded source-anchored entries without full-scene certification. There are **33 chapter YAMLs** for 066–068, 091–110, 114–120 and 131–133; these are scoped records, not proof of continuous coverage. This README and the character files contain **32 cumulative-ledger rows** with selected source-linked milestones across 27 chapters. The generated evidence index locates all 193 chapter files, but marks witnesses, reported knowledge, secrets, chronology, relationships and handoffs **UNVERIFIED** until a scene-level review is recorded. The coverage remains incomplete and does not certify full-novel memory continuity or literary quality.
+**Coverage status (PR #103 worktree, October 17):** The chapter-ledger set explicitly marks **96/193 chapters full-scene reviewed** (001–024, 027–048, 061–076, 111–113, 121–130, 140–160). Chapters 025–026 have section-level passes; 049–060 have partial/selective reading; 077–089 and 134–139 have bounded source-anchored records without full-scene certification. Chapters 152–160 were read end-to-end with Chapter 151's close and Chapter 161's opening checked; selected later Chapter 161 phrases were searched and repaired, not full-scene reviewed. Existing chapter YAMLs and handoffs are scoped records, not proof of continuous coverage. The per-character files contain selected source-linked cumulative milestones, not a chapter-by-chapter state matrix for every person. The generated evidence index locates all 193 chapter files, but marks witnesses, reported knowledge, secrets, chronology, relationships and handoffs **UNVERIFIED** until a scene-level review is recorded. Coverage remains incomplete and does not certify full-novel memory continuity or literary quality.
 
 ### Chapter-level coverage map
 
@@ -19,14 +19,17 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 | 061–076 | Chapter ledger (061–068 and 069–076) | Full-scene review |
 | 077–089 | Chapter ledger | Bounded source-anchored notes; not full-scene review |
 | 090–110 | Chapter YAMLs 091–110 and selected handoffs/state notes | Scoped records; no continuous full-scene ledger |
-| 111–113 | Transition handoff | Boundary summary only |
+| 111–113 | [Chapter ledger](../chapter-ledgers/111-113.md) | Full-scene review; 110 close and 114 opening checked |
 | 114–120 | Chapter YAMLs and handoffs | Scoped records; no continuous full-scene ledger |
-| 121–125 | Selected cumulative event for 123 | No chapter ledger or YAML for the range |
+| 121–125 | [Chapter ledger](../chapter-ledgers/121-125.md) | Full-scene review; 120 close and 126 opening checked |
 | 126–130 | Chapter ledger (126–127 and 128–130) | Full-scene review |
 | 131–133 | Chapter YAMLs | Chapter-specific handoffs; no full-scene ledger |
-| 134–144 | — | No chapter ledger or YAML |
+| 134–139 | [Bounded chapter ledger](../chapter-ledgers/134-139.md) | Selected/targeted source review; not full-scene signoff |
+| 140–144 | [Chapter ledger](../chapter-ledgers/140-144.md) | Full-scene review; Ch. 139 close and Ch. 145/146 dock handoff checked |
 | 145–148 | Chapter ledger | Full-scene review |
-| 149–176 | — | No chapter ledger or YAML |
+| 149–151 | [Chapter ledger](../chapter-ledgers/149-151.md) | Full-scene review; 148 and 152 context checked |
+| 152–160 | [Chapter ledger](../chapter-ledgers/152-160.md) | Full-scene review; 151 closing and 161 opening checked |
+| 161–176 | — | No chapter ledger or YAML |
 | 177 | Selected cumulative event | Milestone only |
 | 178–185 | — | No chapter ledger or YAML |
 | 186 | Selected cumulative event | Milestone only |

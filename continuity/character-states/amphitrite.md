@@ -115,3 +115,8 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: attends a brief surface event with Triton, speaks with Percy and Tyson at the meal, watches the public story circle and dance, and leaves toward the Big House guest room. She hears a rumor corrected only as to Percy's current arrival from the Sound and Clarisse's witness role.
 - **Knowledge boundary:** She is not told about the erased timeline, Percy's prior-life memories, or his altered-childhood memory gap.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch122](../../chapters/122-the-lake-stands-up.md), [Ch123](../../chapters/123-the-garden-under-the-sea.md), [Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Suggests a possible end-of-week visit through Triton; Percy, Clarisse, Silena and Annabeth later arrive as guests under the weekend plan. Percy gives her the map at dinner. Clarisse chooses a coral token and Silena declines one for now; neither choice makes them daughters or obligates them to use a maternal title.
+- **Knowledge boundary:** No scene in this range shows Percy telling Amphitrite about the erased future or explaining his altered-childhood memory gap. The separately dispatched Ch112 and Ch124 letters have no confirmed receipt/reply in this scope.

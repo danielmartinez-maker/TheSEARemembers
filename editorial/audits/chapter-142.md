@@ -26,3 +26,9 @@ A night swim requires a coherent boundary/curfew arrangement and freshwater-lake
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
 **Audit status:** Evidence-linked screening, not an implemented fix.
+
+## Current PR #103 repair note (2026-10-17)
+
+- **Source:** Current candidate blob `08eda645bbde70cb7383609b9a9872dd55172b5c`; mechanical body count **10,141**.
+- **Repair:** All five fitted PFDs are put on, tightened, and buckle-checked before entering deeper water ([L235–257](../../chapters/142-night-swim.md#L235)); Percy’s later swim descriptions keep his PFD and water shoes on, including the kiss at [L415](../../chapters/142-night-swim.md#L415). Silena’s feet are described as wearing water shoes, consistent with the rule that shoes stay on past the ankles.
+- **Open follow-up:** The outer-buoy position and promised report to Chiron are still not explicitly resolved in the reviewed 140–146 scenes. The chapter has not received a full developmental/style signoff.

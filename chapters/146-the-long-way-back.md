@@ -128,7 +128,7 @@ They did the list in order, and Annabeth did the checking, and Percy did the row
 
 "Canoe launch," Annabeth said, at the fifth, and the canoe launch was fine.
 
-The fallen birch was fine. The rocks at the steep bank were fine. The willow cove came up at the end — a green half-mile of shade where the trees dipped over the water and the lake went suddenly from sun-warm to cold-shadow cold — and Annabeth checked the mooring stakes and the floating fence section and the new crack in the ramp, and wrote everything down, and Percy watched the little pencil move and the light flicker on her wrist as she wrote, and Thalia said, from the bow of the other skiff, "You're not checking anything."
+The fallen birch was fine. The rocks at the steep bank were fine. The willow cove came up at the end — a green half-mile of shade where the trees dipped over the water and the lake went suddenly from sun-warm to cold-shadow cold — and Annabeth checked the mooring stakes and the floating fence section, then noted the new crack in the ramp at the closed west mooring from the skiff. She wrote everything down, and Percy watched the little pencil move and the light flicker on her wrist as she wrote, and Thalia said, from the bow of the other skiff, "You're not checking anything."
 
 "I'm resting my eyes," Percy said.
 

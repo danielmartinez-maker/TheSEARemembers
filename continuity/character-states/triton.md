@@ -100,3 +100,12 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: attends with Amphitrite and carries his camera. He asks before individual pictures and lowers the camera when declined. After Annabeth nods, he takes one dance photograph; he later offers a print and accepts that Percy and Annabeth will ask if they want one.
 - **Carry-forward:** No print or wider distribution is shown. The calling conch is neither used nor relocated in the chapter.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch122](../../chapters/122-the-lake-stands-up.md), [Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Reports Amphitrite's optional palace invitation and the passage plan; later escorts Percy, Clarisse, Silena and Annabeth through the current corridor. He acknowledges Percy's lack of autobiographical recall for childhood events rather than treating family stories as memories Percy should already share.
+- **Carry-forward:** The departure is a weekend visit with a stated Sunday return, not proof that return occurs. Guest exit arrangements and the unresolved lake fitting/charm inspections remain in their recorded states.
+
+### Chapter 141 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch141](../../chapters/141-the-canoe-race.md).
+- **State:** Attends as a supporter/visitor at the canoe race. No residence at camp or new memory disclosure is established by his presence.

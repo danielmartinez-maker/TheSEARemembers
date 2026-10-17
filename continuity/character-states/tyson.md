@@ -29,3 +29,13 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: while on forge leave, helps place the fire stack and checks the base from outside its marked boundary. Clarisse keeps his gift tools at the forge; Tyson does not retrieve them or work on the hinge/birdhouse. He attends the feast and is last seen asleep beside Ella at the fire.
 - **Carry-forward:** The chapter does not show him returning to Cabin Three. No new forge date, finished hinge or birdhouse site is set.
+
+### Chapters 141 and 143 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch141](../../chapters/141-the-canoe-race.md), [Ch143](../../chapters/143-the-dock-repair.md).
+- **State:** Visits as a canoe-race supporter and later joins the dock-repair work. These scenes show him participating in camp activities; they do not establish that he lives at Cabin Three.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch156](../../chapters/156-what-the-hands-know.md#L291), [Ch157](../../chapters/157-what-we-set-out-before.md#L41), [Ch158](../../chapters/158-what-brothers-bring.md#L35), [Ch159](../../chapters/159-the-middle-of-the-visit.md#L249), [Ch160](../../chapters/160-what-the-note-said.md#L335).
+- **FIRSTHAND / relationships:** Visits Camp Half-Blood Friday morning for a bounded four-night stay and Tuesday ferry departure. Explicitly a visitor who does not live at Cabin Three, while still Percy's, Clarisse's and Silena's brother. He brings the carved prow/blue flag for the repaired canoe and gives gifts to the group; he promises peanut butter while Percy promises him the next steering turn.
+- **Knowledge / objects:** Learns about the repaired canoe and joins its launch, lake floats, volleyball, cleat repairs, meals and ordinary family time. The anomaly information is kept out of his lake account under the Chapter 156 plan; in the repaired Chapters 157–160, no panel-count disclosure to Tyson is shown. Do not infer he knows the 39-mark count, the investigators' conclusions, or either boy's private memory.
+- **Carry-forward:** Bunk, towel and visit end Tuesday; he leaves for the forges by ferry. No injury or exact age is established in this span; calendar date unknown.

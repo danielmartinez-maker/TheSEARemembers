@@ -35,4 +35,4 @@
 
 - **Body words:** 10,314, `scripts/audit_chapter_length.py --directory chapters --min-words 10000`.
 - **Whitespace:** the final staged full-worktree `git diff --cached --check` will be recorded after staging.
-- **Updated manuscript QA (2026-10-17):** The final local run passes 193/193 length and structure gates, finds zero exact 300-word matches across 1,941,329 chapter windows and 2,091,881 bonus-inclusive windows, and passes 36 source-anchored memory checks. Hosted Actions and full editorial signoff remain open; see the [four-phase execution record](../audits/FOUR-PHASE-EXECUTION-2026-10-13.md).
+- **Updated manuscript QA (2026-10-17):** The final local run passes 193/193 length and structure gates, finds zero exact 300-word matches across 1,941,434 chapter windows and 2,091,986 bonus-inclusive windows, and passes 36 source-anchored memory checks. Hosted Actions and full editorial signoff remain open; see the [four-phase execution record](../audits/FOUR-PHASE-EXECUTION-2026-10-13.md).

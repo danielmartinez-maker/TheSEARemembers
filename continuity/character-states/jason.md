@@ -42,3 +42,7 @@ Do not convert another character's old-life recollection or hearsay into firstha
 - **Source:** [Ch099](../../chapters/099-mothers.md); [handoff](../../editorial/handoffs/ch099-mothers.md); [structured continuity](../ch099.yaml).
 - **State:** Appears to Thalia by Iris-message. Percy hears Thalia tell him only that a letter from their mother arrived and she is keeping it for now. Percy cannot hear the rest of their exchange.
 - **Knowledge / carry-forward:** Jason is not shown reading the letter or hearing its Ojai, sobriety or ride claims. His response and what else Thalia tells him remain unknown.
+
+### Chapter 144 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** Visits camp and helps coordinate the group back to the boathouse as the storm forms; checks whether anyone is injured, and the group answers no. This is a specific visit, not a residence or date for a longer Camp Half-Blood stay.

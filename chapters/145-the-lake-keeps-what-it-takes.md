@@ -1,6 +1,6 @@
 ## Chapter 145: The Lake Keeps What It Takes
 
-The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not, because Annabeth had tied the second one and he knew better than to trust his own memory for things she had already done. It was the hour after breakfast, the dock mostly empty, the sun climbing toward the middle of the sky. The lake was lower than it had been in the morning, or maybe the morning had risen away from it; either way the water sat close beneath the planks, dark and patient, full of the kind of quiet that made Percy think, every time, that if he leaned over far enough the lake might ask him what he was still doing here.
+The boats had been tied down by the time they got back to the old west mooring, a narrow landing separate from the rebuilt canoe dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not, because Annabeth had tied the second one and he knew better than to trust his own memory for things she had already done. It was the hour after breakfast, the landing mostly empty, the sun climbing toward the middle of the sky. The lake was lower than it had been in the morning, or maybe the morning had risen away from it; either way the water sat close beneath the planks, dark and patient, full of the kind of quiet that made Percy think, every time, that if he leaned over far enough the lake might ask him what he was still doing here.
 
 He said, "We're supposed to be checking the west mooring."
 
@@ -24,7 +24,7 @@ He looked at her. She had one hand on the edge of the nearest skiff and the othe
 
 "Yes. There's a suspicious way. Isn't it exciting."
 
-He leaned over the dock. "I hate you."
+He leaned over the landing. "I hate you."
 
 "You don't."
 
@@ -42,11 +42,11 @@ He leaned over the dock. "I hate you."
 
 "Maybe we both should."
 
-He did not ask what she meant. She did not explain. She backed away from the skiff until her back was to the dock and the open water, and Percy made the mistake of letting his attention follow her, which was how he missed the plank giving way under her heel and throwing her sideways into the space under the dock with a sound like someone remembering a joke too late.
+He did not ask what she meant. She did not explain. She backed away from the skiff until her back was to the landing and the open water, and Percy made the mistake of letting his attention follow her, which was how he missed one of the old west-mooring boards giving way under her heel and throwing her sideways into the space under the landing with a sound like someone remembering a joke too late.
 
 He went after her.
 
-Not because he was fast. Because he was a son of Poseidon and the dock was old and the lake was close and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the first beam with one knee and one hand and the taste of lake water in his mouth, and Annabeth was there on the next beam down, one hand braced on a joist, hair coming loose from the ponytail in the damp air, her eyes going wide — she had not expected to be caught under the dock, and she had definitely not expected him to drop through the planks after her like a bad idea that had learned to swim.
+Not because he was fast. Because he was a son of Poseidon and the old landing was close to the lake and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the first beam with one knee and one hand and the taste of lake water in his mouth, and Annabeth was there on the next beam down, one hand braced on a joist, hair coming loose from the ponytail in the damp air, her eyes going wide — she had not expected to be caught under the landing, and she had definitely not expected him to drop through the planks after her like a bad idea that had learned to swim.
 
 She said, "Percy."
 
@@ -62,9 +62,9 @@ He said, "You're not supposed to be down here."
 
 "It is absolutely an excuse."
 
-He stopped pretending to be helpful. The space under the dock was narrower than it looked from above and cooler than the water ought to have been, with boards overhead and lake light coming down in broken strips through the cracks, and Annabeth standing in it with her jeans cuffed wet at the ankle and her hair coming undone and her mouth set in that stubborn line she used when she had been caught doing something she had not meant to do and was now deciding whether embarrassment was going to win.
+He stopped pretending to be helpful. The space under the landing was narrower than it looked from above and cooler than the water ought to have been, with boards overhead and lake light coming down in broken strips through the cracks, and Annabeth standing in it with her jeans cuffed wet at the ankle and her hair coming undone and her mouth set in that stubborn line she used when she had been caught doing something she had not meant to do and was now deciding whether embarrassment was going to win.
 
-He stepped closer. Not all the way. Just enough to put the world between her and the rest of the dock, just enough to make the lake into a ceiling and the dock into a room and them into the only two people in it who knew how to breathe without making it obvious.
+He stepped closer. Not all the way. Just enough to put the world between her and the rest of the landing, just enough to make the lake into a ceiling and the landing into a room and them into the only two people in it who knew how to breathe without making it obvious.
 
 She did not move away. That was the first answer.
 
@@ -76,7 +76,7 @@ She looked at him, and the look on her face changed from offended to awake to so
 
 "We established that."
 
-"Under the dock too."
+"Under the landing too."
 
 "Apparently."
 
@@ -88,9 +88,9 @@ She said, "No."
 
 He said, "Then it's the right kind of idea."
 
-That made her laugh, which made her face go from offended to bright to something else entirely, and he did not let her get away with it. He stepped in and kissed her, and she kissed him back with the same brave certainty she'd brought to him on the dock at dawn, only here, under the planks with lake light on the boards above them and his thumb pressed to the inside of her wrist, it felt less like a public thing and more like a secret the lake had agreed to keep.
+That made her laugh, which made her face go from offended to bright to something else entirely, and he did not let her get away with it. He stepped in and kissed her, and she kissed him back with the same brave certainty she'd brought to him on the rebuilt canoe dock at dawn, only here, under the mooring planks with lake light on the boards above them and his thumb pressed to the inside of her wrist, it felt less like a public thing and more like a secret the lake had agreed to keep.
 
-Not a polite kiss. Not a performance. It was the kind that came out of wanting the world smaller than it was and having the luck, for once, to be in a place where nobody could interrupt it without falling through the dock first.
+Not a polite kiss. Not a performance. It was the kind that came out of wanting the world smaller than it was and having the luck, for once, to be in a place where nobody could interrupt it without falling through the landing first.
 
 She tasted like the cocoa she had made earlier and like lake water and like the clean cold smell of the cabin she had left on the way out. He kissed her until she stopped pretending to guard herself and kissed him back with both hands, one on his wrist and one on the front of his shirt, and he held her steady against the beam because if he held her any other way she would slide off and they would both go under and the lake was right there waiting to be a problem.
 
@@ -130,7 +130,7 @@ When he pulled back, her hair was coming loose in a way that made her look young
 
 She looked at him like that was an argument she had already lost and was not unhappy about losing.
 
-They climbed out of the dock together, one after the other, with Annabeth brushing lake-lit dust from her jeans and Percy hauling himself up first and then reaching back to help her over the edge, and when they emerged into the daylight Thalia and Clarisse and Silena were all standing at the end of the dock in a row that looked deliberately staged and was probably exactly that, and Thalia had one hand over her mouth and Clarisse had her arms folded and Silena had the kind of grin that meant she had already counted three ways this could go.
+They climbed out of the landing together, one after the other, with Annabeth brushing lake-lit dust from her jeans and Percy hauling himself up first and then reaching back to help her over the edge, and when they emerged into the daylight Thalia and Clarisse and Silena were all standing at the end of the landing in a row that looked deliberately staged and was probably exactly that, and Thalia had one hand over her mouth and Clarisse had her arms folded and Silena had the kind of grin that meant she had already counted three ways this could go.
 
 Thalia said, "I have never been so glad and so annoyed at the same time."
 
@@ -148,7 +148,7 @@ Annabeth looked at her. "I'm not your problem."
 
 Clarisse looked back at her. "No," she said. "You are."
 
-Annabeth's mouth tightened. Then she looked at Percy, and Percy looked at her, and the three of them stood there with the lake behind them and the dock under them and the rest of camp waiting somewhere beyond the trees, and Percy said, very quietly, "That's the wrong answer."
+Annabeth's mouth tightened. Then she looked at Percy, and Percy looked at her, and the three of them stood there with the lake behind them and the landing under them and the rest of camp waiting somewhere beyond the trees, and Percy said, very quietly, "That's the wrong answer."
 
 Clarisse said, "I'm the oldest one here. I get to decide."
 
@@ -170,7 +170,7 @@ Clarisse said, "You say that like you're being charitable."
 
 Clarisse snorted, and for the first time all morning she looked almost younger than fifteen, which was a look people did not usually get to see and one that Silena made a note of without admitting it.
 
-Thalia said, "If you two are done being disgusting under the dock, we still have a patrol to get to."
+Thalia said, "If you two are done being disgusting under the landing, we still have a patrol to get to."
 
 Percy said, "We are done."
 
@@ -184,13 +184,15 @@ Clarisse said, "That's exactly it. You're lying and you're happy about it."
 
 "I am."
 
-Clarisse looked at her, and then at Percy, and then at the boats and the lake and the rest of the dock and the sky that had climbed behind them while they were under the planks, and she said, with the exasperated affection of someone who had decided she liked them despite herself, "Fine. Let's go."
+Clarisse looked at her, and then at Percy, and then at the boats and the lake and the rest of the landing and the sky that had climbed behind them while they were under the planks, and she said, with the exasperated affection of someone who had decided she liked them despite herself, "Fine. Let's go."
+
+Annabeth looked back at the failed board. "This is the old west mooring, not the rebuilt canoe dock. We still close it until Chiron checks the supports." She marked the break in her notebook. Clarisse found the spare rope and looped it across the landing entrance; the group would use the other launch for their patrol.
 
 They went. Annabeth with Percy's hand in hers and Thalia pretending not to notice and Clarisse pretending she had not just admitted one thing she had not meant to and Silena pretending she had not been counting the whole time, and the day opened in front of them the way the lake had opened in the morning, slow and deliberate and full of things they had not yet asked for.
 
 ---
 
-Earlier that morning, before breakfast, the dock at the canoe lake was the same dock Percy had sat on a thousand times in his original life, and the same dock he had sat on a hundred times in this one, and the weird thing was that both sets of memories felt true at the same time, as if the wood had two histories folded inside it like a deck of cards.
+Earlier that morning, before breakfast, the rebuilt canoe dock was the same dock Percy had sat on a thousand times in his original life, and the same dock he had sat on a hundred times in this one, and the weird thing was that both sets of memories felt true at the same time, as if the wood had two histories folded inside it like a deck of cards.
 
 That flashed through his head then, standing on the same dock in the first gray light, and he let it go, because the present had enough of his attention already.
 

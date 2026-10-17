@@ -593,7 +593,7 @@ Thalia walked beside Jason toward the observation post. She'd checked his coat t
 
 "Then stop touching my collar."
 
-She pulled her hands back. Percy saw the effort it cost her. Thalia could command the clouds, and she could not command this particular thirteen-year-old boy to enjoy being fussed over.
+She pulled her hands back. Percy saw the effort it cost her. Thalia could command the clouds, and she could not command this particular twelve-year-old boy to enjoy being fussed over.
 
 "You did good work today," she said.
 

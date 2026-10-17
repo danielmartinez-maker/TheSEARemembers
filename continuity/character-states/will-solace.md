@@ -42,3 +42,13 @@
 - **Source:** [Ch097](../../chapters/097-the-map.md); [handoff](../../editorial/handoffs/ch097-the-map.md); [structured continuity](../ch097.yaml).
 - **State:** FIRSTHAND: reviews the infirmary marking. He approves the public entrance and asks Annabeth to remove the breeze note by a window so the map does not direct people to wait or look in where patients may be treated. Annabeth removes it from the clean proof before the public unveiling.
 - **Carry-forward:** Will performs no examination or diagnosis in Chapter 097; do not infer a health update for Percy, Annabeth or Thalia.
+
+### Chapter 113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch113](../../chapters/113-little-brother.md).
+- **State:** Stops Clarisse's assessment after fever and dizziness, orders rest and follow-up, and does not promise rapid recovery. Clarisse returns gradually. Later wooden-spear practice is slow with no hard contact; it is not medical clearance for heavy training.
+- **Carry-forward:** No diagnosis, exact recovery date, or rescue-carry reassessment approval is established; the latter also needs another helper.
+
+### Chapters 140–144 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch142](../../chapters/142-night-swim.md), [Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** Is told about the planned Ch142 outing in advance; the text does not establish that he escorts the group. Ch144 reports that he cleared Annabeth the prior day for small work after rest; this is the limited clearance she uses for one supervised twelve-second draw.
+- **Carry-forward:** No broader clearance, diagnosis, or independent safety signoff is implied.

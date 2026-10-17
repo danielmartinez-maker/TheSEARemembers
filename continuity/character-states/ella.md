@@ -56,3 +56,7 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: counts 1,000 surviving campfire entries with Rachel and helps present their source-labeled timeline. She distinguishes witness accounts, retellings and blank gaps; the count does not claim to include every fire. The Minotaur is omitted from the camp's arrival record. She keeps the exact dance count in her notes, outside the public scroll.
 - **Carry-forward:** The scroll's storage after the gathering and the later disposition of her notes are unknown.
+
+### Chapter 143 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch143](../../chapters/143-the-dock-repair.md).
+- **State:** Supplies measurements, photographs/tablet records and repair documentation during the canoe-dock rebuild and walk test. Physical completion does not mean Chiron's formal reopening record has been delivered.

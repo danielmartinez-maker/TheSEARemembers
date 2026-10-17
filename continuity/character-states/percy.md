@@ -199,3 +199,29 @@
 - **State:** FIRSTHAND: asks Annabeth how their relationship label feels in this life; she chooses to be his girlfriend now, and they keep the label with “favorite person” as a mutual nickname. They tell Thalia together. Percy hears Thalia's memory of Annabeth arranging blocks but does not remember it himself.
 - **Work / relationships:** Helps Annabeth measure and build the shrine bookcase; sees the younger camper's reach check and the unloaded shelf plan. Clarisse coaches Noah through a one-shield turn. Percy accepts half an orange from Silena and still owes her one whole orange.
 - **Carry-forward:** Chapter 102 opens the following morning. The shelf has not been load-tested; Thalia's right palm remains wrapped and uncleared. No memory is transferred to Percy, and Tyson's Chapter 100 return status remains unknown.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md), [Ch112](../../chapters/112-her-turn-to-worry.md), [Ch113](../../chapters/113-little-brother.md).
+- **State:** Remains Annabeth's established partner. He and Clarisse set a no-spying boundary around his date; Clarisse and Silena cross it and apologize. He writes Amphitrite and Chiron confirms dispatch; actual receipt or reply remains unknown. He hears Clarisse's illness and respects Will's rest order while the assessment and recovery remain gradual.
+- **Carry-forward:** The chapter 114 song is Triton's report, not Percy's remembered childhood. Amphitrite is not told his memory predicament; the proposed rescue-carry reassessment remains pending approval and a helper.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Makes the Cabin Three Pact with Clarisse and Silena; Annabeth and Thalia make their separate Grace-sister promise. He hears altered-childhood stories as stories, chooses to record a “son” relationship in the garden ledger with an explicit present-choice note, and travels to Atlantis with his sisters and Annabeth after a weekend plan is agreed.
+- **Carry-forward:** The Sunday return is still prospective at Ch125's close. Amphitrite receives no memory-gap explanation; only Percy and Annabeth retain erased-future autobiographical memories. Carry forward the guest procedure, Clarisse's wrist rest, pending charm inspection and unconfirmed Poseidon visit.
+
+### Chapters 140–144 · witnessed / reported / private / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** FIRSTHAND: shares the dock jump, admits his and Thalia's rule breaks in the canoe race, wears a fitted/buckled PFD and water shoes at the night swim, helps rebuild and test the canoe dock, and steadies the boathouse puddle during Annabeth's single supervised draw. The kiss with Annabeth is current-life intimacy; it discloses no prior-life memory.
+- **Carry-forward:** Outer-buoy report to Chiron remains unconfirmed; the repaired canoe dock awaits its formal record/reopening; Percy has no diagnosed injury in this span. Only he and Annabeth retain autobiographical memories of the erased future.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Observes Clarisse and Thalia's ongoing argument as chosen-family conflict, not a biological-sibling dispute. At Ch151 he is fourteen and leaves training with a wrapped right wrist; gauze and ice are recommended.
+- **Carry-forward:** Percy and Annabeth remain established partners and the only autobiographical holders of the erased future. Cabin placement and family parentage stay as in canon; calendar date remains unknown.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch152](../../chapters/152-a-full-day-of-sky.md#L425), [Ch153](../../chapters/153-what-the-sea-owes.md#L363), [Ch154](../../chapters/154-the-heron.md#L483), [Ch155](../../chapters/155-thirty-nine-marks.md#L483), [Ch156](../../chapters/156-what-the-hands-know.md#L291), [Ch158](../../chapters/158-what-brothers-bring.md#L557), [Ch160](../../chapters/160-what-the-note-said.md#L17).
+- **FIRSTHAND / current relationships:** Is fourteen; remains Annabeth's partner and Clarisse/Silena's Poseidon/Cabin Three brother. He practices giving Annabeth room for her day with Thalia, tells Clarisse he cannot promise never to leave but can learn how to stay, and welcomes Tyson's bounded four-night Friday-to-Tuesday visit. Repairs and floats in the green canoe; promises Tyson the next steering turn while Tyson brings peanut butter.
+- **Knowledge / private:** Percy alone hears the lake's “not yet” and reports it to Annabeth; he and Annabeth witness and investigate the anomaly, then report it to Clarisse, Thalia, Silena and Chiron. Keeps a gray heron feather found beneath the canoe seat; its source/disposition remain unknown. His references to being seventeen concern his erased-future autobiographical memory; he does not remember the overwritten Sally-raised childhood. No memory disclosure to Amphitrite or other campmates is shown; preserve only Percy and Annabeth as erased-future memory holders.
+- **Carry-forward:** Panel is locked with Chiron; Annabeth's tally copy stays oil-wrapped on the Cabin Three shelf. No injury is established in 152–160. Exact calendar dates remain unknown.

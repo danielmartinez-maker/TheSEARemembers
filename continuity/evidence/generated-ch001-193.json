@@ -16881,7 +16881,7 @@
       "title": "Chapter 142: Night Swim",
       "name_mentions": {
         "Percy": 93,
-        "Annabeth": 66,
+        "Annabeth": 67,
         "Thalia": 65,
         "Clarisse": 89,
         "Silena": 73,
@@ -16962,7 +16962,7 @@
           "excerpt": "\"I remember the important things,\" Annabeth said, and glanced at Percy, and blushed."
         },
         {
-          "line": 341,
+          "line": 343,
           "named": [
             "Clarisse",
             "Silena"
@@ -16970,7 +16970,7 @@
           "excerpt": "After a while — minutes or hours, time went lake-soft — Silena's song trailed into humming, and Clarisse stood chest-deep holding the ladder with one finger, like a promise, not a need, and breathed."
         },
         {
-          "line": 381,
+          "line": 383,
           "named": [
             "Percy",
             "Annabeth"
@@ -17211,14 +17211,14 @@
       "title": "Chapter 145: The Lake Keeps What It Takes",
       "name_mentions": {
         "Percy": 130,
-        "Annabeth": 149,
+        "Annabeth": 150,
         "Thalia": 140,
-        "Clarisse": 258,
+        "Clarisse": 259,
         "Silena": 114,
         "Poseidon": 5,
         "Triton": 3,
         "Tyson": 2,
-        "Chiron": 1
+        "Chiron": 2
       },
       "event_cues_for_manual_review": [
         {
@@ -17227,7 +17227,7 @@
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not,"
+          "excerpt": "The boats had been tied down by the time they got back to the old west mooring, a narrow landing separate from the rebuilt canoe dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough th"
         },
         {
           "line": 7,
@@ -17242,7 +17242,7 @@
             "Annabeth",
             "Poseidon"
           ],
-          "excerpt": "Not because he was fast. Because he was a son of Poseidon and the dock was old and the lake was close and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the fir"
+          "excerpt": "Not because he was fast. Because he was a son of Poseidon and the old landing was close to the lake and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the first"
         },
         {
           "line": 51,
@@ -17287,10 +17287,10 @@
             "Percy",
             "Annabeth"
           ],
-          "excerpt": "The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not,"
+          "excerpt": "The boats had been tied down by the time they got back to the old west mooring, a narrow landing separate from the rebuilt canoe dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough th"
         },
         {
-          "line": 369,
+          "line": 371,
           "named": [
             "Percy",
             "Thalia"
@@ -17298,14 +17298,14 @@
           "excerpt": "The fight was not dramatic. It was smaller than that and more intimate. It was the ongoing argument between who she had been in the earlier life and who she had become in this one, between the girl who had planned New Rome with Percy and th"
         },
         {
-          "line": 411,
+          "line": 413,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"Listen to me,\" he said. \"I am not asking you to choose between the person you were and the person you are. I'm asking you to stop punishing yourself for remembering us. You remember me because you loved me, not because you're weak. You rem"
         },
         {
-          "line": 803,
+          "line": 805,
           "named": [
             "Percy",
             "Annabeth"
@@ -17669,15 +17669,15 @@
       "path": "chapters/149-the-argument.md",
       "title": "Chapter 149: The Argument",
       "name_mentions": {
-        "Percy": 80,
-        "Annabeth": 71,
-        "Thalia": 123,
-        "Clarisse": 109,
-        "Silena": 35,
-        "Poseidon": 11,
-        "Jason": 2,
+        "Percy": 83,
+        "Annabeth": 72,
+        "Thalia": 124,
+        "Clarisse": 110,
+        "Silena": 37,
+        "Poseidon": 9,
+        "Jason": 3,
         "Chiron": 25,
-        "Zeus": 4
+        "Zeus": 3
       },
       "event_cues_for_manual_review": [
         {
@@ -18626,7 +18626,7 @@
         "Poseidon": 2,
         "Triton": 1,
         "Tyson": 127,
-        "Chiron": 9,
+        "Chiron": 8,
         "Zeus": 1,
         "Beckendorf": 2
       },
@@ -18729,6 +18729,15 @@
       },
       "event_cues_for_manual_review": [
         {
+          "line": 7,
+          "named": [
+            "Percy",
+            "Silena",
+            "Tyson"
+          ],
+          "excerpt": "He kept his eyes closed and counted the light. Morning coming through the high window in Tempest Hall laid itself across the bunks in one long plank, dust turning in it. Mid-September light, thinner than August, cooler at the edges. It was"
+        },
+        {
           "line": 11,
           "named": [
             "Percy",
@@ -18780,13 +18789,6 @@
             "Percy"
           ],
           "excerpt": "\"What is it?\" Percy asked."
-        },
-        {
-          "line": 35,
-          "named": [
-            "Tyson"
-          ],
-          "excerpt": "\"How many days?\" Tyson asked."
         }
       ],
       "possible_secret_and_memory_cues": [
@@ -18952,7 +18954,7 @@
       "title": "Chapter 161: Edges That Hold",
       "name_mentions": {
         "Percy": 107,
-        "Annabeth": 49,
+        "Annabeth": 50,
         "Thalia": 10,
         "Clarisse": 41,
         "Silena": 53,

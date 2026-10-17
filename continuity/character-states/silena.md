@@ -187,3 +187,29 @@
 - **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
 - **State:** FIRSTHAND: brings a title list for the shrine shelf, helps Annabeth check dimensions, and plans to wait for approval before moving books. She offers Percy half an orange after he reaches toward the orange on her plate; he still owes her one whole orange.
 - **Carry-forward:** The shelf remains unloaded and Silena's list is not yet approved. No new family history or promise about Maria is added.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md)–[Ch113](../../chapters/113-little-brother.md).
+- **State:** Joins Clarisse in intruding on Percy's date after Clarisse had agreed not to spy; both apologize. When Clarisse is ill, Silena brings her garden sign and offers care without fixing a permanent maternal role; Clarisse's “Mother” apology leaves their dynamic open and negotiated.
+- **Carry-forward:** Clarisse's recovery is gradual and her proposed rescue-carry reassessment remains pending. Silena retains her own wishes and boundaries; she does not become responsible for every health or family repair.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Makes the Cabin Three Pact with Percy and Clarisse. She may call Amphitrite by name and declines a coral token for now; a breathing-shell failure on the reef return is marked for inspection. She chooses to travel on the weekend visit and remains free to leave early or decline future invitations.
+- **Carry-forward:** Her token choice remains open, the charm fault unresolved, and the Sunday return unshown. No maternal title is owed; Percy’s memory accounts are reports, not hers.
+
+### Chapters 140–144 · witnessed / reported / private / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** FIRSTHAND: joins the dock outing and canoe race, organizes the planned night-swim note, wears PFD/water shoes, and reports the uncertain outer-buoy crossing rather than claiming a precise location. She helps rebuild the canoe dock and shelters during the storm.
+- **Carry-forward:** Chiron's receipt of the buoy report is unconfirmed. Keep Silena's initiative and reporting distinct from Clarisse's fear/choice; she remains a Poseidon daughter and Cabin Three sister.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Is present during the Clarisse/Thalia conflict and the deliberate separation at the fire. Her physical place does not make her Aphrodite's daughter; she remains Poseidon's daughter and Percy/Clarisse's Cabin Three sister.
+- **Carry-forward:** Preserve her distinct choices within the group; do not treat “sister” language between Clarisse and Thalia as a biological claim about Silena.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch153](../../chapters/153-what-the-sea-owes.md#L363), [Ch155](../../chapters/155-thirty-nine-marks.md#L331), [Ch156](../../chapters/156-what-the-hands-know.md#L291), [Ch157](../../chapters/157-what-we-set-out-before.md#L243), [Ch158](../../chapters/158-what-brothers-bring.md#L259), [Ch160](../../chapters/160-what-the-note-said.md#L65).
+- **FIRSTHAND / relationships:** At sixteen, remains Percy and Clarisse's Poseidon/Cabin Three sister. Joins their Group Float and accepts their account of the cove investigation; helps report it to Chiron. Tyson is a visiting brother, not a resident: she prepares his bunk and extended quilt, and he gives her carved toggles/needles. She helps keep the visit warm and bounded, Friday through Tuesday.
+- **Knowledge / private:** Her interpretation that the marks seem “afraid to forget” is an inference, not confirmed panel intent. Chapter 156's plan is not to tell Tyson the anomaly details; the repaired visit scenes do not show a panel-count disclosure to him. She privately does the visit-day arithmetic and understands Tuesday is departure day.
+- **Carry-forward:** No injury established in 152–160; exact calendar dates unknown. Her report and care do not make her responsible for resolving the panel or other people's private memories.

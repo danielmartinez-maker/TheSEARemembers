@@ -78,7 +78,7 @@ Percy watched Clarisse. She was doing the thing she did when she was angry — s
 
 Thalia, on the other hand, was doing the thing she did when she was angry — getting louder, getting bigger, filling the space with the kind of energy that made people step back. She had her hands on the table and her chair was pushed back and she was doing the thing with her voice that meant she was five seconds from lightning.
 
-Percy looked at Silena, who was sitting next to Clarisse with her lunch also untouched and her face doing the thing it did when she was watching her sisters fight — the wincing, the waiting, the bracing.
+Percy looked at Silena, who was sitting next to Clarisse with her lunch also untouched and her face doing the thing it did when the people she loved as sisters fought — the wincing, the waiting, the bracing.
 
 "We should do something," Percy said quietly.
 
@@ -112,7 +112,7 @@ The older sister was quiet for a moment. Then she said, "The thing they're doing
 
 The small girl considered this. "How much longer?"
 
-"Since always. Since the beginning. Since they became sisters."
+"Since always. Since the beginning. Since they started calling each other sisters."
 
 "Oh," the small girl said. "So it's a sister thing."
 
@@ -143,9 +143,9 @@ This was unusual. The five of them always sat together. It was one of the things
 
 But tonight they didn't.
 
-Clarisse sat with the Ares cabin. Thalia sat with the Zeus cabin. Silena sat with the Aphrodite cabin. Percy and Annabeth sat with the Poseidon cabin. They were in the same place, near the same fire, but they were not together, and the difference between those two things was the whole problem.
+Clarisse sat at the far end of the circle, apart from Percy and Silena. Thalia had taken a log near the path, leaving a stretch of empty space between herself and Clarisse. Silena sat closer to the middle but did not bridge the gap. Percy and Annabeth stayed together at their usual place. They were in the same place, near the same fire, but they were not together, and the difference between those two things was the whole problem.
 
-Annabeth watched from the Poseidon cabin's log. She watched Clarisse, who was sitting very still and eating her marshmallow with the kind of precision that meant she was angry. She watched Thalia, who was sitting very straight and talking too loudly to one of her siblings and laughing too hard at something that wasn't funny. She watched Silena, who was sitting very quietly and looking at both of them with the kind of expression that meant she was trying to figure out how to fix something that couldn't be fixed by being nice.
+Annabeth watched from her place beside Percy. She watched Clarisse, who was sitting very still and eating her marshmallow with the kind of precision that meant she was angry. She watched Thalia, who was sitting very straight and talking too loudly to one of her siblings and laughing too hard at something that wasn't funny. She watched Silena, who was sitting very quietly and looking at both of them with the kind of expression that meant she was trying to figure out how to fix something that couldn't be fixed by being nice.
 
 "She's going to burn her marshmallow," Percy said quietly.
 
@@ -480,7 +480,7 @@ Thalia's face did something.
 
 "I don't know how to do that," Thalia said quietly. "I don't know how to be the person inside the lightning. I've been the lightning for so long that I don't know what's inside it."
 
-"Then find out," Chiron said. "You have sisters. You have a brother. You have a camp full of people who love you not for your lightning but for your heart. Let them see you. Let them help you. Let them be strong for you so you don't have to be strong for them all the time."
+"Then find out," Chiron said. "You have Annabeth. You have Jason. You have a camp full of people who love you not for your lightning but for your heart. Let them see you. Let them help you. Let them be strong for you so you don't have to be strong for them all the time."
 
 Thalia was quiet for a long time. The lake moved. The bird called again. The camp was waking up below them.
 
@@ -492,7 +492,7 @@ Thalia's eyes were bright. She looked away, at the lake, at the sky, at anything
 
 "I don't know how to be known," she said.
 
-"Then let us know you," Chiron said. "Start with your sisters. Start with Clarisse. Start with the person who argues with you because she loves you and doesn't know how to say it."
+"Then let us know you," Chiron said. "Start with the people you've chosen as family. Start with Clarisse. Start with the person who argues with you because she loves you and doesn't know how to say it."
 
 Thalia laughed. It was a wet laugh, a laugh that was close to something else, and on the rock above the lake in the morning light it felt like something.
 
@@ -536,7 +536,7 @@ She didn't want to be scared. She didn't do scared. She did angry and she did me
 
 But Percy was right. She was scared.
 
-She was scared that if the arrangement changed, things would change. She was scared that if she let go of the control, she'd lose the thing she was protecting. She was scared that the family she'd found — the sisters and the brother and the lake and the dock — was held together by the shape of it, and if the shape changed, the thing would dissolve.
+She was scared that if the arrangement changed, things would change. She was scared that if she let go of the control, she'd lose the thing she was protecting. She was scared that the family she'd found — her siblings Percy and Silena, Thalia, the sister she'd chosen, and the lake and the dock — was held together by the shape of it, and if the shape changed, the thing would dissolve.
 
 She threw the spear. It went end over end in the dark and stuck in the sand thirty feet away with a sound that was very satisfying and not nearly satisfying enough.
 

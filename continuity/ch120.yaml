@@ -67,5 +67,5 @@ qa:
   prior_life_memory_boundary_checked: true
   no_trip_commitment_or_date_added: true
   gifts_promises_and_open_threads_carried_forward: true
-  exact_300_word_cross_chapter_check: "Final local QA on 2026-10-17: zero exact matches across 1,941,329 chapter-only windows and 2,091,881 bonus-inclusive windows in 196 files."
+  exact_300_word_cross_chapter_check: "Final local QA on 2026-10-17: zero exact matches across 1,941,434 chapter-only windows and 2,091,986 bonus-inclusive windows in 196 files."
   independent_scene_semantic_and_style_review: "pending"

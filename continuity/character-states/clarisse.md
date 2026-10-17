@@ -189,3 +189,29 @@
 - **Source:** [Ch101](../../chapters/101-a-name-for-it.md); [handoff](../../editorial/handoffs/ch101-a-name-for-it.md); [continuity](../ch101.yaml).
 - **State:** FIRSTHAND: helps level the shrine-bookcase frame and sees its planned load test remain pending. Repairs the shield rack by supporting its low post with a flat stone, then coaches Noah through a single-shield turn, stopping him from speeding up to prove himself.
 - **Carry-forward:** Noah plans to try the shield turn again tomorrow. Chapter 102's spear lesson is separate. Clarisse remains Poseidon's daughter and Percy's and Silena's sister; no new injury is established.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md)–[Ch113](../../chapters/113-little-brother.md).
+- **State:** Agrees not to spy on Percy's date, then intrudes with Silena and apologizes. During the illness assessment, fever and dizziness lead Will to stop the work and order rest/follow-up. She later returns gradually; slow wooden-spear practice shows no hard contact or new injury.
+- **Relationships / carry-forward:** Silena brings her garden sign and offers care; Clarisse apologizes for calling Silena “Mother.” Their roles remain negotiated. A rescue-carry reassessment still needs approval and another helper.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Makes the Cabin Three Pact with Percy and Silena, choosing check-ins, space requests and non-coercive help. At the reef garden she bruises/strains her forearm; Will later recommends two days without heavy sparring. She chooses a coral token and takes it back to her bedpost; the invitation/visit to Atlantis does not obligate future visits or a maternal title.
+- **Carry-forward:** The Sunday return is not shown; keep the wrist rest, guest weapon rules, breathing-shell inspection and garden line's next-tide check pending as sourced.
+
+### Chapters 140–144 · witnessed / reported / private / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** FIRSTHAND: disputes Percy's dock-race win, loses her repaired vest strap in the canoe outing and accepts a properly fitted replacement, then voices fear of the dark lake and chooses how far to enter. She does not want another midnight swim; Thalia and Annabeth accept that limit. She joins the dock rebuild and later storm shelter.
+- **Carry-forward:** The failed vest is out of use. Preserve Clarisse's own boundary and the ongoing Poseidon sibling/Grace family relationships; no injury or erased-future memory is established here.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Continues the dock argument with Thalia. Their sister language is chosen family; Ch149 now describes campfire spacing without reverting Clarisse to Ares or changing her Cabin Three/ Poseidon identity.
+- **Carry-forward:** The conflict is not reset as new when it resumes. Do not convert chosen-family language into biological parentage or a Cabin One/Three change.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch153](../../chapters/153-what-the-sea-owes.md#L363), [Ch154](../../chapters/154-the-heron.md#L483), [Ch155](../../chapters/155-thirty-nine-marks.md#L183), [Ch157](../../chapters/157-what-we-set-out-before.md#L243), [Ch158](../../chapters/158-what-brothers-bring.md#L207), [Ch159](../../chapters/159-the-middle-of-the-visit.md#L249).
+- **FIRSTHAND / relationships:** At fifteen, remains Percy and Silena's Poseidon/Cabin Three sister. Shares her own firsthand account of being claimed at nine; Percy separately reports his Atlantis childhood. Percy does not promise never to leave and instead asks her to help him learn staying. Inspects the anomaly's 23rd notch and works with Percy and Silena to make Cabin Three ready for Tyson's bounded visit.
+- **Knowledge / objects:** Receives Percy's/Annabeth's account of the cove anomaly, then inspects the panel and joins the report to Thalia, Silena and Chiron. The panel stays locked with Chiron; her Canoe/Group Float activity and peach exchange with Percy continue. Tyson visits for four nights and leaves Tuesday; no permanent residence is implied.
+- **Carry-forward:** No injury established in 152–160; exact calendar date unknown. Preserve Poseidon parentage and Cabin Three despite her chosen-family language with Thalia.

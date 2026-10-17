@@ -2260,7 +2260,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/142-night-swim.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 93, Clarisse 89, Silena 73, Annabeth 66, Thalia 65, Chiron 10, Poseidon 7, Zeus 4, Ella 3
+- Name appearances (not proof of presence): Percy 93, Clarisse 89, Silena 73, Annabeth 67, Thalia 65, Chiron 10, Poseidon 7, Zeus 4, Ella 3
 - Event/action candidates to inspect in context:
   - Line 13: "You're awake," Percy whispered.
   - Line 15: "You're awake," Silena whispered back, without turning.
@@ -2269,8 +2269,8 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 27: "You said," Silena said, rolling over now, her braid thumping softly against the bunk rail, her voice lilting with mischief, "and I quote because Ella wrote it down on a marshmallow stick, 'If Mural Unveiling goes clean with no touchdowns a
 - Memory/disclosure candidates to inspect:
   - Line 163: "I remember the important things," Annabeth said, and glanced at Percy, and blushed.
-  - Line 341: After a while — minutes or hours, time went lake-soft — Silena's song trailed into humming, and Clarisse stood chest-deep holding the ladder with one finger, like a promise, not a need, and breathed.
-  - Line 381: Annabeth's throat worked. Water beaded on her neck. Her gray eyes shone, starlit and wet. "You stayed. When Dad— when it was bad. I can't remember those days, but you still teach me to tread. That's why I can... this." She squeezed Percy's
+  - Line 343: After a while — minutes or hours, time went lake-soft — Silena's song trailed into humming, and Clarisse stood chest-deep holding the ladder with one finger, like a promise, not a need, and breathed.
+  - Line 383: Annabeth's throat worked. Water beaded on her neck. Her gray eyes shone, starlit and wet. "You stayed. When Dad— when it was bad. I can't remember those days, but you still teach me to tread. That's why I can... this." She squeezed Percy's
 
 ## 143: Chapter 143: The Dock Repair
 
@@ -2307,17 +2307,17 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/145-the-lake-keeps-what-it-takes.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Clarisse 258, Annabeth 149, Thalia 140, Percy 130, Silena 114, Poseidon 5, Triton 3, Tyson 2, Chiron 1
+- Name appearances (not proof of presence): Clarisse 259, Annabeth 150, Thalia 140, Percy 130, Silena 114, Poseidon 5, Triton 3, Tyson 2, Chiron 2
 - Event/action candidates to inspect in context:
-  - Line 3: The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not,
+  - Line 3: The boats had been tied down by the time they got back to the old west mooring, a narrow landing separate from the rebuilt canoe dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough th
   - Line 7: Annabeth said, "We are. In a minute."
-  - Line 49: Not because he was fast. Because he was a son of Poseidon and the dock was old and the lake was close and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the fir
+  - Line 49: Not because he was fast. Because he was a son of Poseidon and the old landing was close to the lake and fear had a way of making people move before they knew they were moving. He dropped through the gap in the boards and landed on the first
   - Line 51: She said, "Percy."
   - Line 57: "Clarisse told us not to."
 - Memory/disclosure candidates to inspect:
-  - Line 3: The boats had been tied down by the time they got back to the dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough that Percy could have kicked them loose if he wanted to and did not,
-  - Line 369: The fight was not dramatic. It was smaller than that and more intimate. It was the ongoing argument between who she had been in the earlier life and who she had become in this one, between the girl who had planned New Rome with Percy and th
-  - Line 411: "Listen to me," he said. "I am not asking you to choose between the person you were and the person you are. I'm asking you to stop punishing yourself for remembering us. You remember me because you loved me, not because you're weak. You rem
+  - Line 3: The boats had been tied down by the time they got back to the old west mooring, a narrow landing separate from the rebuilt canoe dock, but the skiffs rocked at their moorings, two green hulls tied to the cleats with the cord loose enough th
+  - Line 371: The fight was not dramatic. It was smaller than that and more intimate. It was the ongoing argument between who she had been in the earlier life and who she had become in this one, between the girl who had planned New Rome with Percy and th
+  - Line 413: "Listen to me," he said. "I am not asking you to choose between the person you were and the person you are. I'm asking you to stop punishing yourself for remembering us. You remember me because you loved me, not because you're weak. You rem
 
 ## 146: Chapter 146: The Long Way Back
 
@@ -2371,7 +2371,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/149-the-argument.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Thalia 123, Clarisse 109, Percy 80, Annabeth 71, Silena 35, Chiron 25, Poseidon 11, Zeus 4, Jason 2
+- Name appearances (not proof of presence): Thalia 124, Clarisse 110, Percy 83, Annabeth 72, Silena 37, Chiron 25, Poseidon 9, Jason 3, Zeus 3
 - Event/action candidates to inspect in context:
   - Line 11: "I'm just saying," Clarisse said, "that the arrangement is not a constitutional document."
   - Line 13: "Nobody said it was a constitutional document," Thalia said.
@@ -2508,7 +2508,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/158-what-brothers-bring.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Tyson 127, Percy 123, Clarisse 67, Silena 51, Annabeth 44, Thalia 44, Chiron 9, Poseidon 2, Beckendorf 2, Triton 1
+- Name appearances (not proof of presence): Tyson 127, Percy 123, Clarisse 67, Silena 51, Annabeth 44, Thalia 44, Chiron 8, Poseidon 2, Beckendorf 2, Triton 1
 - Event/action candidates to inspect in context:
   - Line 3: Percy Jackson woke before the light had finished deciding what it wanted to be, and knew immediately that it was the day.
   - Line 11: He dressed fast. The faded orange camp shirt with the trident washed almost white across the shoulder, sleeves cut short back in June and fraying more every wash. The grey shorts with the pocket torn at the corner where he kept the smooth w
@@ -2524,11 +2524,11 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Tyson 106, Percy 98, Silena 63, Clarisse 62, Annabeth 31, Thalia 20, Chiron 8, Poseidon 3, Beckendorf 3, Jason 2
 - Event/action candidates to inspect in context:
+  - Line 7: He kept his eyes closed and counted the light. Morning coming through the high window in Tempest Hall laid itself across the bunks in one long plank, dust turning in it. Mid-September light, thinner than August, cooler at the edges. It was
   - Line 11: Tyson was six and a half feet of broad shoulder and scarred knuckle and one large brown eye that took in the whole room at once, and he was handling a quilt the way somebody else might handle a bird with a hurt wing. He had already made his
   - Line 13: "Morning," Percy said.
   - Line 19: Tyson considered the quilt with total seriousness. "Heaps fall over," he said. "Then somebody trips. Then somebody gets hurt. Then Chiron has paperwork." He gave the folded edge one more pat, set the whole square down on the foot of Percy's
   - Line 21: Percy laughed, and the laugh scraped his throat because morning, and swung his legs over the side. He wore the faded orange camp shirt he had slept in, sleeves cut short back in June by somebody's borrowed scissors, and soft gray sweatpants
-  - Line 25: "It is good," Tyson said, with enormous sincerity. "It is the same bunk. I remember the spring in the left side that goes ping when you roll over. It still goes ping. I said hello to it."
 - Memory/disclosure candidates to inspect:
   - Line 25: "It is good," Tyson said, with enormous sincerity. "It is the same bunk. I remember the spring in the left side that goes ping when you roll over. It still goes ping. I said hello to it."
   - Line 81: "Good," Tyson said. "A worker checks his tools. A brother checks his pockets." He picked up the north laundry bin as if it weighed nothing — it was overflowing, three people's worth of wet towels and practice shirts and Silena's lake-smelli
@@ -2554,7 +2554,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/161-edges-that-hold.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 107, Tyson 103, Silena 53, Annabeth 49, Clarisse 41, Chiron 12, Thalia 10, Beckendorf 2, Poseidon 1
+- Name appearances (not proof of presence): Percy 107, Tyson 103, Silena 53, Annabeth 50, Clarisse 41, Chiron 12, Thalia 10, Beckendorf 2, Poseidon 1
 - Event/action candidates to inspect in context:
   - Line 5: The light told him first. Tempest Hall held morning in its high window in a thin September plank, dust turning slow inside it, cooler at the edges than the gold of a week ago. The air smelled of wet stone and lemon oil and the mineral damp
   - Line 7: To his left, the pool moved water through the channels under the floor with its low salt-rain hush. Somebody — Clarisse, by the rhythm — was turning over too carefully on the bunk above the spear rack, springs giving one soft complaint and

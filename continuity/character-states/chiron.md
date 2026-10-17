@@ -184,3 +184,28 @@
 - **Source:** [Ch100](../../chapters/100-the-thousandth-campfire.md); [handoff](../../editorial/handoffs/ch100-thousandth-campfire.md); [continuity](../ch100.yaml).
 - **State:** FIRSTHAND: explains that Ella's 1,000 is a verified record count with gaps, not a count of every fire. He waits for the fire crew's check before lighting the stack, keeps the lane open, and banks the coals at the end.
 - **Carry-forward:** He says the next fire will use those coals in the morning. The timeline scroll's storage is not established.
+
+### Chapters 111–113 · witnessed / reported / unknown
+- **Source:** [111–113 chapter ledger](../chapter-ledgers/111-113.md); [Ch111](../../chapters/111-the-date-committee.md)–[Ch113](../../chapters/113-little-brother.md).
+- **State:** Records the amphitheater crack and orders a barrier that remains in place the next morning. He confirms dispatch of Percy's letter to Amphitrite; her receipt/reply are unknown. Clarisse's proposed rescue-carry reassessment remains subject to his approval and another helper.
+
+### Chapters 121–125 · witnessed / reported / unknown
+- **Source:** [121–125 chapter ledger](../chapter-ledgers/121-125.md); [Ch121](../../chapters/121-the-cabin-three-pact.md)–[Ch125](../../chapters/125-the-invitation-accepted.md).
+- **State:** Closes the washed-out shore path pending repair, participates in the guest and exit arrangements, approves the return letter's dispatch and confirms the weekend invitation logistics. These are discrete decisions, not a standing Atlantis travel permission.
+- **Carry-forward:** Repair, letter receipt, Poseidon's attendance and the planned Sunday return remain unresolved or unconfirmed at Ch125's close.
+
+### Chapters 140–144 · witnessed / reported / unknown
+- **Source:** [140–144 chapter ledger](../chapter-ledgers/140-144.md); [Ch140](../../chapters/140-last-one-in.md)–[Ch144](../../chapters/144-rain-on-the-lake.md).
+- **State:** Receives the Ch142 swim note and replies with a return-by-two acknowledgment plus a no-middle-without-supervision condition. In Ch143, the rebuilt canoe dock is walk-tested but still needs its repair record before formal reopening. In Ch144 he supervises the lake lesson and orders no second electrical attempt after Annabeth's bounded draw.
+- **Carry-forward:** The formal dock record/reopening and later buoy follow-up are not shown as completed in these chapters. His safety limit remains specific to the supervised work described.
+
+### Chapters 149–151 · witnessed / reported / unknown
+- **Source:** [149–151 chapter ledger](../chapter-ledgers/149-151.md); [Ch149](../../chapters/149-the-argument.md)–[Ch151](../../chapters/151-two-currents.md).
+- **State:** Encourages Thalia to let people know her and to begin with family she has chosen, including Clarisse. This supports chosen-family language without changing their biological relationships. Thalia's proposed boundary walk still awaits her promised request to him.
+- **Carry-forward:** Do not treat the walk as approved, scheduled or begun unless a later scene confirms it.
+
+### Chapters 152–160 · witnessed / reported / private / unknown
+- **Sources:** [152–160 chapter ledger](../chapter-ledgers/152-160.md); [Ch152](../../chapters/152-a-full-day-of-sky.md#L721), [Ch155](../../chapters/155-thirty-nine-marks.md#L255), [Ch155](../../chapters/155-thirty-nine-marks.md#L483), [Ch156](../../chapters/156-what-the-hands-know.md#L13), [Ch158](../../chapters/158-what-brothers-bring.md#L35), [Ch161 opening](../../chapters/161-edges-that-hold.md#L177).
+- **FIRSTHAND / reported:** Thalia first proposes a four-day boundary survey in Ch152; by Ch155 Chiron has approved it. Thalia leaves at 3 p.m. and returns Friday after three days on the line; the repaired Ch156 wording agrees with the departure scene. No second departure is evidenced. He receives the team's joint report of the lake anomaly and secures the panel in his office; Annabeth keeps a tally copy.
+- **Visit / relationship logistics:** Signs Tyson's visitor slate for four nights, Friday through Tuesday, with a Cabin Three visitor bunk and ferry/forge arrangements. Tyson remains a visitor rather than a resident. No panel-count disclosure to Tyson is shown after the repair; no disclosure of Percy's memory predicament to Amphitrite is shown.
+- **Carry-forward:** Exact calendar dates remain unknown. Keep the panel under lock and the survey record; Tuesday ferry is completed in the following chapter opening.

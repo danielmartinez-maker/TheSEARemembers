@@ -39,5 +39,5 @@
 ## Local verification and limits
 
 - **Body length:** 10,016 words by the repository's whitespace-token method.
-- **Scope:** The expanded chapter was checked against Chapter 101's ending and Chapter 103's opening. The final local whole-manuscript run passes 193/193 length and structure gates, finds zero exact 300-word matches across 1,941,329 chapter windows and 2,091,881 bonus-inclusive windows, and passes 36 source-anchored memory checks. Full semantic/style review remains open; see the [four-phase execution record](../audits/FOUR-PHASE-EXECUTION-2026-10-13.md).
+- **Scope:** The expanded chapter was checked against Chapter 101's ending and Chapter 103's opening. The final local whole-manuscript run passes 193/193 length and structure gates, finds zero exact 300-word matches across 1,941,434 chapter windows and 2,091,986 bonus-inclusive windows, and passes 36 source-anchored memory checks. Full semantic/style review remains open; see the [four-phase execution record](../audits/FOUR-PHASE-EXECUTION-2026-10-13.md).
 - **Coverage limit:** This handoff does not certify semantic/style quality or cumulative memory continuity across all 193 chapters.

@@ -1,28 +1,21 @@
-# Chapter 159 editorial screening: The Middle of the Visit
+# Chapter 159 scene audit: The Middle of the Visit
 
-**Source:** [Chapter 159](../../chapters/159-the-middle-of-the-visit.md), git blob `36072840f0768b8a08a6677cc796bc5fdd50d91b`. **Approximate body words:** 9,952. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 159](../../chapters/159-the-middle-of-the-visit.md), current candidate blob `e4a9a22ecf36c269a11f67e29f36a3584af4dd54`. **Body words:** 10,096. **Review date:** 2026-10-17.
 
-**Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
+## Scene and continuity review
 
-## Chapter-specific focus
+Chapter 159 was read end-to-end as part of the full-scene [152–160 continuity ledger](../../continuity/chapter-ledgers/152-160.md), with Chapter 158 and 160 transitions checked. Tyson's Friday 9 a.m. arrival is now correctly described as after breakfast, and Silena's half-day count remains internally usable. The chapter sustains the bounded Friday-to-Tuesday visit and leaves its Tuesday ferry handoff explicit.
 
-The middle of a visit must include a change or friction that distinguishes it from arrival and departure scenes.
+The loft conversation preserves the memory boundary: Thalia talks about Annabeth keeping her place on the map, not a tree or Hunter history from the erased future. Annabeth's remembered loss is explicitly her prior-life memory; Thalia's Grace-sister bond is part of this life. Tyson's panel knowledge is not expanded here, and no Amphitrite disclosure occurs.
 
-## Source passages for scene-level review
+## Repairs in this candidate
 
-1. **Opening development:** Which present objective, social friction or physical constraint gives the activity stakes beyond established belonging? **[Line 97](../../chapters/159-the-middle-of-the-visit.md#L97):** “She did not say this out loud. She said, instead, standing on the packed dirt at the edge of the volleyball court with a ball under one arm and her whistle on its cord around her neck, "Tyson. You're with the little kids. No spiki…”
+- Replaced the inaccurate "after lunch" arrival reference with Friday at nine, after breakfast ([line 7](../../chapters/159-the-middle-of-the-visit.md#L7)).
+- Reframed Thalia's loft dialogue around keeping Annabeth's place on the map, removing a false tree-history claim ([line 341](../../chapters/159-the-middle-of-the-visit.md#L341)).
+- Clarified that Annabeth remembers losing Thalia in one prior life and also grew up with her as a sister in this life ([line 343](../../chapters/159-the-middle-of-the-visit.md#L343)).
+- Removed the literal edit marker from the volleyball action; the ball is now bounced once to test its weight ([line 113](../../chapters/159-the-middle-of-the-visit.md#L113)).
+- Removed the accidental duplicate invitation and set the ferry for Tuesday ([lines 541–549](../../chapters/159-the-middle-of-the-visit.md#L541)).
 
-2. **Middle development:** Does the event change someone's knowledge, choice or behavior, or merely restate a feeling already established? **[Line 303](../../chapters/159-the-middle-of-the-visit.md#L303):** “She stood at the drafting table in the Athena cabin loft with afternoon light coming through the shutters, the smell of paper and graphite thick around her. Below, the cabin hummed. Annabeth, official Camp Cartographer at fourteen…”
+## Verification limits
 
-3. **Closing handoff:** Identify what concretely persists: promise, new boundary, object, visit, recovery, project milestone or unresolved conflict. **[Line 443](../../chapters/159-the-middle-of-the-visit.md#L443):** “She walked out to the end with her sneakers in one hand and Percy's hand in the other, bare feet slapping softly on the boards that were still warm from the day. The air had cooled fast once the sun dropped — mid-September evening…”
-
-## Mechanical and continuity flags
-
-- **Confirmed length gap:** 9,952 body words is below the stated 10,000-word per-chapter floor for the Chapter 140+ drafting stretch. Expand only with earned, substantive development.
-- **Continuity names:** Jason ([L325](../../chapters/159-the-middle-of-the-visit.md#L325)), Tyson ([L7](../../chapters/159-the-middle-of-the-visit.md#L7)), Triton ([L239](../../chapters/159-the-middle-of-the-visit.md#L239)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
-
-## Canon boundaries and follow-through
-
-Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
-
-**Audit status:** Evidence-linked screening, not an implemented fix.
+The full-scene continuity review found no new injury, gift, or promise that changes the visit boundary. Whole-manuscript length QA passes this chapter at 10,096 words. Exact 300-word scans found no cross-chapter matches. This is not independent developmental or prose-style signoff, and Chapters 152–160 do not establish complete continuity across the full novel.
