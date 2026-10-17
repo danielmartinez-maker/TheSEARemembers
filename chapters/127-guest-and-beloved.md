@@ -931,7 +931,7 @@ Thalia's expression tightened. "They can."
 
 "Good."
 
-Percy took his turn saying goodbye. He hugged Amphitrite, then stepped back. He knew she missed the child she remembered raising, but the goodbye wasn't heavy with an expectation that he should stay to fill the distance.
+Percy took his turn saying goodbye. He hugged Amphitrite, then stepped back. She held him for one more breath and let him go without asking him to stay.
 
 "Will you tell me when the garden repair has passed its next inspection?" he asked.
 

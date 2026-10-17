@@ -878,13 +878,13 @@ Thalia seemed unhappy to have it written down. Percy understood. Recording the r
 
 Percy felt the tension go out of his shoulders. Their father could still send another message. The difference was that Chiron wasn't demanding they decide how to answer it before they had eaten.
 
-The group carried their bags toward the cabins. At the fork in the path, Clarisse stopped beside the fountain and held the old photograph up beside the new sketch Annabeth had made.
+The group carried their bags toward the cabins. At the fork in the path, Clarisse stopped beside the fountain and studied the new sketch Annabeth had made.
 
-"Do we keep both in Cabin Three?" she asked.
+"Does the sketch go in Cabin Three too?" she asked.
 
 "One belongs to Annabeth," Percy said.
 
-"That's what I'm asking. Does she want to hang hers in our cabin or her own?"
+"That's what I'm asking. Does she want to hang it in our cabin or her own?"
 
 Annabeth looked at the drawing. It wasn't the kind of family portrait that could be claimed by one building. She had made copies for the people in it, and the original would be better protected in a flat portfolio.
 

@@ -80,7 +80,7 @@ Thalia put the page down. "Our father told her he might visit. He didn't tell us
 
 "That doesn't make it good."
 
-Annabeth threaded a cord through the case's fastening, tested it, and sat opposite her sister. At fourteen she could be infuriatingly composed about some things and painfully hopeful about others. Thalia remembered her at seven, with scraped knees and a habit of taking apart anything that looked too complicated for a child to understand. She remembered fixing the damage and telling herself that being the older sister meant catching every mistake before anyone got hurt.
+Annabeth threaded a cord through the case's fastening, tested it, and sat opposite her sister. She could be infuriatingly composed about some things and painfully hopeful about others. Thalia remembered her at seven, with scraped knees and a habit of taking apart anything that looked too complicated for a child to understand. She remembered fixing the damage and telling herself that being the older sister meant catching every mistake before anyone got hurt.
 
 "What are you expecting him to do?" Annabeth asked.
 

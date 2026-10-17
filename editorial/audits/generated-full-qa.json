@@ -1608,7 +1608,7 @@
     {
       "chapter": 127,
       "path": "chapters\\127-guest-and-beloved.md",
-      "body_words": 10120,
+      "body_words": 10111,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1619,7 +1619,7 @@
     {
       "chapter": 128,
       "path": "chapters\\128-the-sky-in-the-sea.md",
-      "body_words": 10028,
+      "body_words": 10026,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1630,7 +1630,7 @@
     {
       "chapter": 129,
       "path": "chapters\\129-the-way-back.md",
-      "body_words": 10014,
+      "body_words": 10010,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941481,
+  "window_comparisons": 1941466,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

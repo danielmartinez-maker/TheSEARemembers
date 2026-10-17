@@ -6,20 +6,20 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Chapter and ledger snapshot `53a5c2f`, followed by selected character-profile source and chronology corrections through [`84d43bb`](https://github.com/danielmartinez-maker/TheSEARemembers/commit/84d43bbd2cc085ddd7fd08f6dfaa668cf43a0e80), based on prior PR head `284b8cc`. Both hosted workflows pass on `84d43bb`: [full manuscript QA, run 492](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39063027410) and [character memory consistency, run 242](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39063027430). Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval.
+**Source:** Current PR #103 continuation after previously pushed head `09e4776`; targeted source edits clarify the Chapter 048 interval, the Ch127 goodbye, Annabeth's age before her Ch133 birthday, and Chapter 129's photograph/sketch placement. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapter 109 has **10,128** words; Chapter 110 has **11,739** after a review-driven trim. These are mechanical word counts, not editorial approval. Hosted status for this continuation is tracked on PR #103.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-word windows | **1,941,481; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,150,338 body words / 2,092,033 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,941,466; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,150,323 body words / 2,092,018 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **36 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; 49 selected character timelines; exhaustive per-character matrix remains incomplete** |
 
-The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Full semantic continuity and style/developmental review remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`. Both hosted workflows pass on source/profile commit `84d43bb` (linked above).
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. Refreshed reports: `editorial/audits/generated-full-qa.json`, `generated-full-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 
