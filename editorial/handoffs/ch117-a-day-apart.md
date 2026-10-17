@@ -1,6 +1,6 @@
 # Chapter 117 handoff: A Day Apart
 
-**Source:** `chapters/117-a-day-apart.md` on the PR #103 worktree. **Body words:** 10,163 by `scripts/audit_chapter_length.py` (whitespace-separated body words; Markdown headings and standalone scene dividers excluded). **Status:** Expanded, memory-provenance and repetition-repaired, and count-verified; chapter-specific continuity recorded. The final local full-manuscript duplicate scan passes. Independent style review and hosted Actions remain pending.
+**Source:** `chapters/117-a-day-apart.md` on the PR #103 worktree. **Body words:** 10,163 by `scripts/audit_chapter_length.py` (whitespace-separated body words; Markdown headings and standalone scene dividers excluded). **Status:** Expanded, memory-provenance and repetition-repaired, and count-verified; chapter-specific continuity recorded. The final local full-manuscript duplicate scan passes. Independent style review and Hosted Actions passed on PR commit `b9140dd`: [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open.
 
 ## Exact chapter boundaries
 

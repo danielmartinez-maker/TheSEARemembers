@@ -25,4 +25,4 @@ The chapter uses Percy Jackson's third-person limited POV throughout. Other char
 - Full-manuscript duplicate audit: zero exact cross-chapter windows across 1,941,329 chapter windows and zero bonus-inclusive matches across 2,091,881 windows.
 - Character-memory regression: 36 source-anchored groups pass. Structure audit: 193/193 chapters ordered, with no reported errors. The Chapter 014 lexical cue is a valid first in-person meeting after an Iris contact.
 - Cumulative ledger: Chapter 110's source-grounded milestone and carry-forward limits are recorded; this does not establish continuous all-character coverage.
-- Hosted Actions and export inspection: pending on the final pushed candidate. Literary signoff remains incomplete.
+- Hosted Actions passed on PR commit `b9140dd`: [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open. Literary signoff remains incomplete.

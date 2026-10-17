@@ -39,7 +39,7 @@
 ### Phase 4 — mechanical verification
 
 - **Local checks pass:** Chapter 096 has 10,144 body words; 193/193 numbered chapters are present and ordered; 172 meet 10,000 words and 21 remain short by 139,047 words. The chapter-only scan checks 1,797,869 every-offset 300-word windows with zero exact cross-chapter matches. The bonus-inclusive scan covers 196 Markdown files and 1,948,421 windows with zero exact cross-file matches. All 29 source-anchored memory regression checks pass. The lexical introduction scan leaves one human-review cue in Chapter 014.
-- **Hosted Actions:** Pending the next pushed commit. This chapter's review does not certify the unreviewed chapters elsewhere in the 193-chapter manuscript.
+- **Hosted Actions passed on PR commit `b9140dd`: [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open.** This chapter's review does not certify the unreviewed chapters elsewhere in the 193-chapter manuscript.
 
 ## Carry-forward to Chapter 097
 

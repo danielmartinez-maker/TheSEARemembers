@@ -1,6 +1,6 @@
 # Chapter 115 handoff: The Old Photograph
 
-**Source:** `chapters/115-the-old-photograph.md` on the PR #103 worktree. **Body words:** 10,062 by `scripts/audit_chapter_length.py` (whitespace-separated body words; Markdown headings and standalone scene dividers excluded). **Status:** Expanded and count-verified; final local full-manuscript duplicate QA passes. Broader semantic/style review and hosted Actions remain pending.
+**Source:** `chapters/115-the-old-photograph.md` on the PR #103 worktree. **Body words:** 10,062 by `scripts/audit_chapter_length.py` (whitespace-separated body words; Markdown headings and standalone scene dividers excluded). **Status:** Expanded and count-verified; final local full-manuscript duplicate QA passes. Broader semantic/style review and Hosted Actions passed on PR commit `b9140dd`: [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open.
 
 ## Exact chapter boundaries
 
