@@ -802,7 +802,7 @@ Percy looked at her. "Sounds like somebody I know."
 
 She smiled despite herself. Then the smile faded.
 
-"Yesterday, when Zeus took away the sky-gifts, I thought about Jason. I didn't ask whether the same punishment applied to him. Maybe it doesn't. Maybe he's not involved. But I keep wanting to send him a message asking him to stay out of trouble, and I don't know how to make that sound like anything except another order from his big sister."
+"When Zeus took away the sky-gifts, I thought about Jason. I didn't ask whether the same punishment applied to him. Maybe it doesn't. Maybe he's not involved. But I keep wanting to send him a message asking him to stay out of trouble, and I don't know how to make that sound like anything except another order from his big sister."
 
 "You could tell him what happened," Percy suggested.
 

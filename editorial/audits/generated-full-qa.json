@@ -59,7 +59,7 @@
     {
       "chapter": 4,
       "path": "chapters\\004-the-hall-of-gods.md",
-      "body_words": 11024,
+      "body_words": 11021,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -742,7 +742,7 @@
     {
       "chapter": 53,
       "path": "chapters\\053-river.md",
-      "body_words": 10027,
+      "body_words": 10026,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -764,7 +764,7 @@
     {
       "chapter": 55,
       "path": "chapters\\055-underworld-gates.md",
-      "body_words": 10014,
+      "body_words": 10043,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1328,7 +1328,7 @@
     {
       "chapter": 102,
       "path": "chapters\\102-not-a-competition.md",
-      "body_words": 10023,
+      "body_words": 10020,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1509,12 +1509,12 @@
     {
       "chapter": 118,
       "path": "chapters\\118-a-message-from-amphitrite.md",
-      "body_words": 10464,
+      "body_words": 10320,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.335,
+      "dialogue_line_ratio": 0.337,
       "median_paragraph_words": 9
     },
     {
@@ -1668,13 +1668,13 @@
       "passes_length": true,
       "age_review_cues": [],
       "possible_knowledge_leak_cues": [],
-      "dialogue_line_ratio": 0.334,
+      "dialogue_line_ratio": 0.333,
       "median_paragraph_words": 10
     },
     {
       "chapter": 133,
       "path": "chapters\\133-annabeth-s-birthday.md",
-      "body_words": 10656,
+      "body_words": 10659,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -1716,7 +1716,7 @@
     {
       "chapter": 136,
       "path": "chapters\\136-percy-s-birthday.md",
-      "body_words": 10007,
+      "body_words": 10018,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -1828,7 +1828,7 @@
     {
       "chapter": 145,
       "path": "chapters\\145-the-lake-keeps-what-it-takes.md",
-      "body_words": 14722,
+      "body_words": 14704,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2103,7 +2103,7 @@
     {
       "chapter": 167,
       "path": "chapters\\167-what-sharpens-together.md",
-      "body_words": 11198,
+      "body_words": 11199,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2350,7 +2350,7 @@
     {
       "chapter": 187,
       "path": "chapters\\187-silver-on-the-rings.md",
-      "body_words": 10757,
+      "body_words": 10768,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1941466,
+  "window_comparisons": 1941352,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

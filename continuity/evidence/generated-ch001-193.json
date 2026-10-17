@@ -376,7 +376,7 @@
       "title": "Chapter 4: The Hall of Gods",
       "name_mentions": {
         "Percy": 128,
-        "Annabeth": 89,
+        "Annabeth": 90,
         "Thalia": 31,
         "Clarisse": 34,
         "Silena": 31,
@@ -5729,7 +5729,7 @@
           "named": [
             "Percy"
           ],
-          "excerpt": "By early June, the snow and the whispers of the winter council were weeks behind them. The whispers had never quite stopped. Percy knew something was wrong before the conch blew because the sky went still."
+          "excerpt": "By early June, the snow and the whispers of the winter council were months behind them. The whispers had never quite stopped. Percy knew something was wrong before the conch blew because the sky went still."
         },
         {
           "line": 11,
@@ -6551,7 +6551,7 @@
       "path": "chapters/055-underworld-gates.md",
       "title": "Chapter 55: Underworld Gates",
       "name_mentions": {
-        "Percy": 125,
+        "Percy": 126,
         "Annabeth": 82,
         "Thalia": 68,
         "Clarisse": 2,
@@ -6561,7 +6561,7 @@
         "Jason": 3,
         "Sally": 20,
         "Chiron": 9,
-        "Grover": 69,
+        "Grover": 70,
         "Luke": 1,
         "Zeus": 7
       },
@@ -6634,21 +6634,21 @@
           "excerpt": "Martin met her eyes. \"At the time we agree on, I'll call Chiron. I won't drive off without telling anybody. If your situation changes and you can communicate safely, use the depot contact, not a public number. I can't promise I can go in af"
         },
         {
-          "line": 454,
+          "line": 452,
           "named": [
             "Annabeth"
           ],
           "excerpt": "\"I remember the moves you showed me at camp,\" Annabeth said. \"You told me you made it up when I was scared under the highway bridge. Daughters of thunder do not go dark alone.\""
         },
         {
-          "line": 478,
+          "line": 476,
           "named": [
             "Zeus"
           ],
           "excerpt": "\"I lost him when he was two,\" she said. \"My mom was not well. Hera... Hera took him. To protect him, she said. To make him a hero somewhere else. I did not know for a long time if he was alive or dead. Now I know he is at Camp Jupiter, but"
         },
         {
-          "line": 484,
+          "line": 482,
           "named": [
             "Annabeth"
           ],
@@ -12255,7 +12255,7 @@
       "title": "Chapter 102: Not a Competition",
       "name_mentions": {
         "Percy": 156,
-        "Annabeth": 107,
+        "Annabeth": 106,
         "Clarisse": 93,
         "Silena": 61,
         "Poseidon": 1,
@@ -12333,14 +12333,14 @@
           "excerpt": "\"Maybe I'm a little jealous,\" Percy said. The words felt smaller than the scene they had made in his head. \"Maybe I saw her teaching him and got stuck on the fact that he gets to meet her now, in a way I didn't. The version of her he sees d"
         },
         {
-          "line": 535,
+          "line": 534,
           "named": [
             "Percy"
           ],
           "excerpt": "Percy managed a small smile. \"I know you're with me because you choose to be. I just—sometimes I forget that we’re both adjusting to this. We remember the same years, but people here know a childhood you can’t recall. Maybe I worry that som"
         },
         {
-          "line": 664,
+          "line": 663,
           "named": [
             "Percy",
             "Clarisse",
@@ -12349,7 +12349,7 @@
           "excerpt": "He let that be the end of it. Silena asked Clarisse whether the shield straps had been checked. Clarisse said she would check them after lunch, and Silena reminded her to leave the cracked practice one aside. Percy asked which one was crack"
         },
         {
-          "line": 1211,
+          "line": 1210,
           "named": [
             "Clarisse"
           ],
@@ -15803,7 +15803,7 @@
           "excerpt": "She'd removed it from its sleeve. The garden behind the family was pale and green in the afternoon light, a place Percy could name every fountain in but couldn't fully remember from childhood. Clarisse's expression had been caught halfway b"
         },
         {
-          "line": 1246,
+          "line": 1250,
           "named": [
             "Percy",
             "Annabeth",
@@ -15826,7 +15826,7 @@
       "name_mentions": {
         "Percy": 29,
         "Annabeth": 161,
-        "Thalia": 97,
+        "Thalia": 96,
         "Clarisse": 44,
         "Silena": 44,
         "Poseidon": 1,
@@ -16180,7 +16180,7 @@
       "path": "chapters/136-percy-s-birthday.md",
       "title": "Chapter 136: Percy's Birthday",
       "name_mentions": {
-        "Percy": 166,
+        "Percy": 167,
         "Annabeth": 25,
         "Thalia": 21,
         "Clarisse": 47,
@@ -21761,6 +21761,14 @@
         }
       ],
       "possible_secret_and_memory_cues": [
+        {
+          "line": 337,
+          "named": [
+            "Percy",
+            "Annabeth"
+          ],
+          "excerpt": "Percy took it. His fingers were cold and his palm was not, and he laced his through hers and turned her hand over and looked at it for a second, at the pencil callus on the middle finger and the small white scar on the heel of it. The sight"
+        },
         {
           "line": 489,
           "named": [
