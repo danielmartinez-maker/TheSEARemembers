@@ -6,15 +6,15 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** Current local continuation is based on the PR #103 source branch, whose prior validated head was `acaa583`; this candidate adds focused Chapter 066–069/118 editorial trims and Chapter 132–133 handoff/profile clarifications. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 now contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. Hosted [full-manuscript QA, run 532](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39077686508) and [character-memory run 262](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39077686449) passed on prior PR head `acaa583`; they predate this local continuation. Exact current-head hosted status is tracked on PR #103.
+**Source:** This local continuation extends PR #103; its last hosted-verified head before the current scoped fixes was `591d24a`. The candidate includes Chapter 146/151 canon repairs, a Chapter 148 copyedit, and the Chapter 175/176 count clarifications, along with the earlier 066–069/118 trims and 132–133 handoff/profile updates. Fresh strict QA reports **193/193 chapters at or above the 10,001-token threshold**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. The preceding hosted checks on `591d24a` passed: [full-manuscript QA, run 536](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079247698), [character-memory run 264](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079247715), and [push-triggered full QA, run 535](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39079243747). The latest-head status is tracked on PR #103.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-word windows | **1,942,560; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,151,417 body words / 2,093,112 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,942,542; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,151,399 body words / 2,093,094 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **45 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; 50 selected character timelines with exact-name candidate maps; exhaustive per-character matrix remains incomplete** |

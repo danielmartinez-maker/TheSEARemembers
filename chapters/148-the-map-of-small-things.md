@@ -100,7 +100,7 @@ He looked at it for a long time. He traced the arrows and read the annotations a
 
 Annabeth blinked. "The official map?"
 
-"The one on the porch is ten years out of date. The one you've drawn is current. The one you've drawn is accurate. The one you've drawn is —" He paused again. "The one you's drawn is the map this camp deserves."
+"The one on the porch is ten years out of date. The one you've drawn is current. The one you've drawn is accurate. The one you've drawn is —" He paused again. "The one you've drawn is the map this camp deserves."
 
 Percy, who had been sitting quietly beside Annabeth, said, "So she's the mapmaker?"
 

@@ -684,7 +684,7 @@ Clarisse put her boots back on, which Thalia was pretty sure was the closest she
 
 She thought, in no particular order: that her sister had made a boy, and that the boy had made her sister, and that neither fact had anything to do with her, and that both facts did. That the fourth arc of her life — the one that had started with a cabin, and a war, and a theft — had somehow arranged itself around a lake. That she was older than all of this by four years and younger by none.
 
-That tomorrow there would be another lake day, and one after that, and that for a girl who had once been a tree, still being a girl on a dock was the best thing she knew how to be.
+That tomorrow there would be another lake day, and one after that, and that still being a girl on a dock was the best thing she knew how to be.
 
 ---
 

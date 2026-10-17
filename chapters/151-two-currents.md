@@ -80,7 +80,7 @@ Clarisse came in low and fast, the way she always did, her spear sweeping a flat
 
 She reset. He reset. He was breathing already, too fast, and his guard was up where she'd taught him to put it, which was high and too tight, and that was the problem, because a guard that tight could only defend one line at a time and the whole rest of him was an invitation.
 
-She came in again. He blocked. She rode the block, turned it, took his front foot out from under him with the flat of the shaft, and when he stumbled she didn't tap him — she just waited, spear down at her side, and let him catch his balance, because she was a war god's daughter in this life too, and even war gods had a line they didn't cross to win a practice match against their baby brother.
+She came in again. He blocked. She rode the block, turned it, took his front foot out from under him with the flat of the shaft, and when he stumbled she didn't tap him — she just waited, spear down at her side, and let him catch his balance, because she knew even war gods had a line they didn't cross to win a practice match against their baby brother.
 
 "Four seconds," she said. "You want to know why?"
 
