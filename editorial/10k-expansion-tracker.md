@@ -6,7 +6,7 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** This local continuation extends PR #103. It includes Chapter 146/151 canon repairs, Chapter 148 copyedit, Chapter 158/159 kinship wording, Chapter 163/165 copyedits, the Chapter 152–160 survey ledger correction, and the Chapter 172/175/180/183/188 and 190/193 follow-ups, along with earlier 066–069/118 trims, 132–133 handoff/profile updates and Chapter 175/176 count clarifications. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. The latest hosted checks predate the current local continuation; the current-head status will be recorded after the next push to PR #103.
+**Source:** This local continuation extends PR #103. It includes Chapter 146/151 canon repairs, Chapter 148 copyedit, Chapter 158/159 kinship wording, Chapter 163/165 copyedits, the Chapter 152–160 survey ledger correction, and the Chapter 172/175/180/183/188 and 190/193 follow-ups, along with earlier 066–069/118 trims, 132–133 handoff/profile updates and Chapter 175/176 count clarifications. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. Manuscript source commit `1512ea6` passed hosted full QA run 542 and character-memory run 267; the status-record follow-up changes documentation only.
 
 | Scope | Latest local result |
 |---|---:|
