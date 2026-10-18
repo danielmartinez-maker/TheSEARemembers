@@ -312,7 +312,7 @@ He read the last four lines out loud, without being asked, in the voice he used 
 
 "The rule says the writer decides. It doesn't say the writer has to be an idiot about it." She turned her own page a quarter round, which was a thing she did when she was deciding something, and squared it to the edge of the blotter, and then, when she thought nobody was looking at her, which was a calculation she had always made badly with him in the room, let her eyes go once to the window and the road beyond it that ran up toward the forge.
 
-Percy ate bread and said nothing about the window, and the nothing he said about it was a large and deliberate nothing, and he filled it with the next four lines of the letter instead: that the hall had a pump and a heater and a man who came up the path on Thursdays with a ladder, and that if the ladder was for the roof corner then Annabeth had written to their mother about the roof corner, which meant the whole hill was now in correspondence about one leak.
+Percy ate bread and said nothing about the window, and the nothing he said about it was a large and deliberate nothing, and he filled it with the next four lines of the letter instead: that the hall had a pump and a heater and a man who came up the path on Thursdays with a ladder, and that if the ladder was for the roof corner then Annabeth had written to Beryl about the roof corner, which meant the whole hill was now in correspondence about one leak.
 
 "Whose ladder?" Clarisse said.
 
@@ -446,7 +446,7 @@ Thalia was not on the hill at all. Annabeth had gone up at six to find her, and 
 
 "I know it's Thursday. I wrote the letter." Thalia had put the boot back on and stood up in one motion and taken the bad weight on the flat of her foot, as always. "Go on. I'm right behind you."
 
-She was not right behind them. That was the thing Annabeth thought about on the way down the west path, past the dark fourth lamp and the seventh, with her sister's letter in a sack on her elder sister's shoulder. Thalia came down the path ten minutes later, alone, and did not limp, and arrived at the Big House with her hood up and her hands in her pockets, and said, "Right. Where's the sack?"
+She was not right behind them. That was the thing Annabeth thought about on the way down the west path, past the dark fourth lamp and the seventh, with the mail sack over Clarisse's shoulder. Thalia came down the path ten minutes later, alone, and did not limp, and arrived at the Big House with her hood up and her hands in her pockets, and said, "Right. Where's the sack?"
 
 "It's got a head start," Clarisse said. "And you're late."
 

@@ -1,6 +1,6 @@
 # Chapter 193 editorial screening: The Heel
 
-**Source:** [Chapter 193](../../chapters/193-the-heel.md), git blob `92335615b9d941108ffd71b2a49123987c612958`. **Approximate body words:** 9,973. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 193](../../chapters/193-the-heel.md). **Current body words:** 11,628. **Status:** Focused autonomy/continuity clarification applied; wider screening only.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -22,11 +22,13 @@ The heel injury/appointment and winter preparations remain ongoing; don't declar
 - **Verified repeated phrase:** `the tenth lantern` appears on 14 lines, e.g. [L9](../../chapters/193-the-heel.md#L9), [L135](../../chapters/193-the-heel.md#L135), [L193](../../chapters/193-the-heel.md#L193), [L293](../../chapters/193-the-heel.md#L293). Review its function before selectively cutting.
 - **Verified repeated phrase:** `the winter was coming` appears on 13 lines, e.g. [L293](../../chapters/193-the-heel.md#L293), [L337](../../chapters/193-the-heel.md#L337), [L361](../../chapters/193-the-heel.md#L361), [L365](../../chapters/193-the-heel.md#L365). Review its function before selectively cutting.
 - **Verified repeated phrase:** `the heel was getting looked at` appears on 15 lines, e.g. [L251](../../chapters/193-the-heel.md#L251), [L293](../../chapters/193-the-heel.md#L293), [L337](../../chapters/193-the-heel.md#L337), [L361](../../chapters/193-the-heel.md#L361). Review its function before selectively cutting.
-- **Confirmed length gap:** 9,973 body words is below the stated 10,000-word per-chapter floor for the Chapter 140+ drafting stretch. Expand only with earned, substantive development.
+- **Length:** Current mechanical count is 11,628 body words; this clears the threshold but does not certify the expansion's literary quality.
 - **Continuity names:** Rhys ([L187](../../chapters/193-the-heel.md#L187)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
 
 ## Canon boundaries and follow-through
 
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
-**Audit status:** Evidence-linked screening, not an implemented fix.
+**October 17, 2026 scoped follow-up:** At [line 305](../../chapters/193-the-heel.md#L305), Chiron now states that Tuesday attendance is Thalia's choice, matching his later explanation that the hall is optional and her eventual decision to visit while leaving swimming undecided. No injury recovery or commitment to enter the water is added.
+
+**Audit status:** Focused clarification applied; wider screening and literary review remain open.

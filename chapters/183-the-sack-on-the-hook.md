@@ -172,7 +172,7 @@ They went up the path side by side at the pace of people who had been walking it
 
 "I said nothing. I was extremely nothing about the window. It was the best nothing anybody's done all week."
 
-"It was." She put her hands in her pockets. "Wednesday, at the forge oven. I went over with the tray and he was there with the pans and neither of us said anything, and then I came back with the tray, and that's the whole of it, and if you tell Clarisse I'll put salt in your boots."
+"It was." She put her hands in her pockets. "Wednesday, at the forge oven. I went over with the tray and he was there with the pans. We talked about bread and work; neither of us said what the rest of it meant. Then I came back with the tray. That's the whole of it, and if you tell Clarisse I'll put salt in your boots."
 
 "I wouldn't tell Clarisse. Clarisse would only have a finding."
 
@@ -234,7 +234,7 @@ It went like this:
 
 *Jason - short one this week. The camp did the ordinary things. The frost came twice and the stove is lit at six. Annabeth is designing a building indoors where the lake used to be and it is warm in there and the whole camp comes in out of the cold and nobody has to be asked twice.*
 
-*We walked up the ridge on Saturday and found water. It comes out of the ground on a shelf and goes down under the rock and comes out at the corner of the north path, and it has been doing that the whole time and nobody looked. There are five names on the wall in the map room now. Yours is not one of them because you were not here. That is written down so you can argue with it in person.*
+*We walked up the ridge on Saturday and found water. It comes out of the ground on a shelf, runs through the trough, and disappears under the rock at the lip. Annabeth drew the underground route as a dotted line toward the wet corner of the north path, but we have not confirmed the connection. The spring has probably been running there the whole time and nobody looked. There are five names on the wall in the map room now. Yours is not one of them because you were not here. That is written down so you can argue with it in person.*
 
 *Thalia says hello. Annabeth says hello. We both say it in the same way, which is by writing it and then standing here looking at it.*
 

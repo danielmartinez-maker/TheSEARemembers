@@ -186,7 +186,7 @@ Then it was Percy's turn to be dared, and he did not have to be asked, because t
 
 "You've got several."
 
-"Coil it around your waist. Twice. Annabeth, hold my belt." She said it flat and casual and absolutely not casual at all, and Annabeth held her belt, and Silena held Annabeth's shoulder, and Clarisse braced her boots in the sand and took up the line with both hands, and Percy Jackson walked into the lake in the dark and swam out to the boundary rock while five people on the sand held their breath in five different ways.
+"Coil it around your waist. Twice. Annabeth, hold my belt." She said it flat and casual and absolutely not casual at all, and Annabeth held her belt, and Silena held Annabeth's shoulder, and Clarisse braced her boots in the sand and took up the line with both hands, and Percy Jackson walked into the lake in the dark and swam out to the boundary rock while four people on the sand held their breath in four different ways.
 
 The water was black-green under the stars. His head cut the starfield. Twice he stopped and floated on his back, and twice he went on, and at the rock he got one hand on the barnacle roughness of it and held a moment, in the middle of the lake, in the dark, in the last week of September, with a rope around his waist and four people on the other end of it.
 

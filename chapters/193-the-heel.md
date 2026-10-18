@@ -302,7 +302,7 @@ Chiron pressed again. She flinched, once. He let go. He sat back. He looked at h
 
 "I'll do it anyway."
 
-"You'll do it anyway and you'll be there Tuesday. You'll be better by the winter." Chiron made a note on the slate. "I'll write it in the book. The heel's getting looked at. That's the entry."
+"You'll do it anyway. The hall is Tuesday; whether you go is yours to decide. You'll be better by the winter." Chiron made a note on the slate. "I'll write it in the book. The heel's getting looked at. That's the entry."
 
 "That's the entry. That's the whole of it. The heel's getting looked at. I'm resting it. I'm shooting left-footed. I'm going to be better by the winter."
 

@@ -189,7 +189,7 @@ The manuscript is a work in progress. Chapters are listed in reading order; clic
 - **185.** [Apples in the Cold](chapters/185-apples-in-the-cold.md)
 - **186.** [The First Real Words](chapters/186-the-first-real-words.md)
 - **187.** [Silver on the Rings](chapters/187-silver-on-the-rings.md)
-- **188.** [The Second Tuesday](chapters/188-the-second-tuesday.md)
+- **188.** [The Third Tuesday](chapters/188-the-third-tuesday.md)
 - **189.** [After the Frost](chapters/189-after-the-frost.md)
 - **190.** [Thursday, Twice](chapters/190-thursday-twice.md)
 - **191.** [Two Hands of Work](chapters/191-two-hands-of-work.md)

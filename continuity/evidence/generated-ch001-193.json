@@ -20489,7 +20489,7 @@
         "Annabeth": 20,
         "Thalia": 22,
         "Clarisse": 36,
-        "Silena": 21,
+        "Silena": 22,
         "Poseidon": 1,
         "Rhys": 1,
         "Chiron": 12,
@@ -21312,7 +21312,7 @@
       "title": "Chapter 183: The Sack on the Hook",
       "name_mentions": {
         "Percy": 57,
-        "Annabeth": 38,
+        "Annabeth": 39,
         "Thalia": 20,
         "Clarisse": 28,
         "Silena": 19,
@@ -21791,8 +21791,8 @@
     },
     {
       "chapter": 188,
-      "path": "chapters/188-the-second-tuesday.md",
-      "title": "Chapter 188: The Second Tuesday",
+      "path": "chapters/188-the-third-tuesday.md",
+      "title": "Chapter 188: The Third Tuesday",
       "name_mentions": {
         "Percy": 34,
         "Annabeth": 36,
@@ -21977,12 +21977,12 @@
         "Percy": 38,
         "Annabeth": 31,
         "Thalia": 14,
-        "Clarisse": 49,
+        "Clarisse": 50,
         "Silena": 60,
         "Amphitrite": 1,
         "Tyson": 3,
         "Jason": 3,
-        "Beryl": 2,
+        "Beryl": 3,
         "Chiron": 3,
         "Beckendorf": 6
       },

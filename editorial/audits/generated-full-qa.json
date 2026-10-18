@@ -2208,7 +2208,7 @@
     {
       "chapter": 175,
       "path": "chapters\\175-salt-and-steam.md",
-      "body_words": 10173,
+      "body_words": 10172,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2268,7 +2268,7 @@
     {
       "chapter": 180,
       "path": "chapters\\180-everything-out-of-the-trunks.md",
-      "body_words": 12466,
+      "body_words": 12430,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [
@@ -2306,7 +2306,7 @@
     {
       "chapter": 183,
       "path": "chapters\\183-the-sack-on-the-hook.md",
-      "body_words": 10431,
+      "body_words": 10460,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2360,7 +2360,7 @@
     },
     {
       "chapter": 188,
-      "path": "chapters\\188-the-second-tuesday.md",
+      "path": "chapters\\188-the-third-tuesday.md",
       "body_words": 10800,
       "shortfall": 0,
       "passes_length": true,
@@ -2388,7 +2388,7 @@
     {
       "chapter": 190,
       "path": "chapters\\190-thursday-twice.md",
-      "body_words": 11491,
+      "body_words": 11485,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2421,7 +2421,7 @@
     {
       "chapter": 193,
       "path": "chapters\\193-the-heel.md",
-      "body_words": 11622,
+      "body_words": 11628,
       "shortfall": 0,
       "passes_length": true,
       "age_review_cues": [],
@@ -2432,7 +2432,7 @@
   ],
   "300_word_cross_chapter_matches": [],
   "matched_window_count": 0,
-  "window_comparisons": 1942545,
+  "window_comparisons": 1942537,
   "human_only_gates": [
     "character-local witnessed knowledge",
     "POV stability",

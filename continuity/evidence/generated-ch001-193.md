@@ -2768,7 +2768,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/175-salt-and-steam.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Clarisse 36, Percy 28, Thalia 22, Silena 21, Annabeth 20, Chiron 12, Beckendorf 6, Poseidon 1, Rhys 1
+- Name appearances (not proof of presence): Clarisse 36, Percy 28, Thalia 22, Silena 22, Annabeth 20, Chiron 12, Beckendorf 6, Poseidon 1, Rhys 1
 - Event/action candidates to inspect in context:
   - Line 7: He had asked Clarisse about it once, in July. She had said it was the old pool, from before, and that the cabin used it in the winter sometimes, and that it was cold in the middle and full of leaves from a skylight somebody was always meani
   - Line 13: "Rules," Clarisse said, and held up the slate.
@@ -2892,7 +2892,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/183-the-sack-on-the-hook.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 57, Annabeth 38, Clarisse 28, Thalia 20, Silena 19, Tyson 5, Beckendorf 2, Poseidon 1, Jason 1, Beryl 1
+- Name appearances (not proof of presence): Percy 57, Annabeth 39, Clarisse 28, Thalia 20, Silena 19, Tyson 5, Beckendorf 2, Poseidon 1, Jason 1, Beryl 1
 - Event/action candidates to inspect in context:
   - Line 3: The parlor belonged to the mail on Thursdays, and the camp knew it the way it knew anything chalked on a board by Chiron: by arguing about it at breakfast and obeying it by afternoon. The door stood wedged under the coal scuttle so the drau
   - Line 5: Annabeth Grace had the corner with the light. She had held that corner since noon the way she held a survey station, early and completely and with her elbow on the boundary, and in front of her lay a sheet cut square, a jar of water, her pe
@@ -2961,9 +2961,9 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 337: Percy took it. His fingers were cold and his palm was not, and he laced his through hers and turned her hand over and looked at it for a second, at the pencil callus on the middle finger and the small white scar on the heel of it. The sight
   - Line 489: Her sister made an amused noise through the wall, then rolled over. Annabeth closed the cover properly this time. She would speak to Chiron when there was light enough to see the roof and safe enough to climb. Outside the clear sky promised
 
-## 188: Chapter 188: The Second Tuesday
+## 188: Chapter 188: The Third Tuesday
 
-- [Source](../../chapters/188-the-second-tuesday.md)
+- [Source](../../chapters/188-the-third-tuesday.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
 - Name appearances (not proof of presence): Silena 37, Annabeth 36, Clarisse 36, Percy 34, Thalia 28, Rhys 7, Beckendorf 6, Chiron 4, Poseidon 1
 - Event/action candidates to inspect in context:
@@ -2993,7 +2993,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/190-thursday-twice.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Silena 60, Clarisse 49, Percy 38, Annabeth 31, Thalia 14, Beckendorf 6, Tyson 3, Jason 3, Chiron 3, Beryl 2
+- Name appearances (not proof of presence): Silena 60, Clarisse 50, Percy 38, Annabeth 31, Thalia 14, Beckendorf 6, Tyson 3, Jason 3, Beryl 3, Chiron 3
 - Event/action candidates to inspect in context:
   - Line 11: "You're a pest," Percy told it, without heat, and went past.
   - Line 13: The port-side canoe was the one. Tyson had asked, in the careful flat voice he used for anything that might be bad news, for Percy to put his foot on the prow piece and write and tell him whether it had moved. He had been asked this nine da

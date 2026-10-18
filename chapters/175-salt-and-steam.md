@@ -218,7 +218,7 @@ He chose. He came up with his ears roaring and the steam on his face and took a 
 
 "It's in the book," Annabeth said, and it was: he saw it later, in the margin next to the tile plan, in her small upright hand, no context, no explanation: P. under: 62. good lungs. bad habit. Nobody else at camp would ever be able to read it and know what it meant, and he was going to think about those two lines for a week.
 
-The others went up to the cabin in the wet dark with their towels and their suits and the sound of nine people's worth of arguing going ahead of them, and Annabeth did not go with them, and neither did Percy, and neither of them said anything about staying, which was how it had been decided.
+The others began going up to the cabin in the wet dark with their towels and their suits and the sound of nine people's worth of arguing going ahead of them. Silena stayed behind to collect the towels; Annabeth did not go with the others, and neither did Percy, and neither of them said anything about staying, which was how it had been decided.
 
 The hall at the end of the night was the best it ever got. The heater ticked as it cooled. Steam stood in the ceiling's curve in one long flat sheet and did not move. The skylight had gone black with rain on it, and the black tile held the lamplight in the shallow end in a slow green shine, and there was nobody in the whole room except the two of them, and the water made the only sound there was, which was a small patient lapping against the ladder.
 
@@ -314,9 +314,9 @@ There was a long moment in the steam in which Silena Beauregard, who could talk 
 
 "I wrote it down Monday," he said, and went out of the door into the cold, and pulled it to behind him, and the room was the room again, warm and empty and full of somebody's absence, and Silena stood there a good while longer than she needed to with a lantern in her hand.
 
-The heater ticked. The water held still. She looked down at the tile where the amber panel had been, and there was nothing there, no mark, no crumb, nothing at all, and she stood in the middle of a black-tiled hall on the second of October and understood the whole shape of it at once, the way you understand the shape of a chair in the dark.
+The heater ticked. The water held still. She looked down at the tile where the amber panel had been, and there was nothing there, no mark, no crumb, nothing at all, and she stood in the middle of a black-tiled hall on the third of October and understood the whole shape of it at once, the way you understand the shape of a chair in the dark.
 
-Then she blew out the lantern, and hung it up, and gathered eleven towels, and went up to bed.
+Then she blew out the lantern and hung it up.
 
 She did not go up to bed.
 

@@ -1,4 +1,4 @@
-## Chapter 188: The Second Tuesday
+## Chapter 188: The Third Tuesday
 
 The grass under the canoe racks had worn itself into two silver rings by five o'clock on Tuesday afternoon, one ring under each hull, and the silver was Monday's frost come back a second time in the middle of an afternoon that had otherwise been mild, because October had become the sort of month that did a thing twice and told nobody about the second one.
 
@@ -260,7 +260,7 @@ She had her jacket on over her swimsuit within about nine seconds of leaving the
 
 "The whole thing is not a hobby," Annabeth said.
 
-"I know you think it's not a hobby. I've read your book." Clarisse went to the door with the slate and the lantern, and stopped, and did not turn around, and said, in the exact same flat register, to nobody in particular: "Fourteen. Second Tuesday under conditions. Nobody's gone anywhere." And then she went out into the cold passage with the lantern swinging, and the iron door shut behind her with its slow patient sound, and the hall was fourteen people and one empty nail.
+"I know you think it's not a hobby. I've read your book." Clarisse went to the door with the slate and the lantern, and stopped, and did not turn around, and said, in the exact same flat register, to nobody in particular: "Fourteen. Third Tuesday under conditions. Nobody's gone anywhere." And then she went out into the cold passage with the lantern swinging, and the iron door shut behind her with its slow patient sound, and the hall was fourteen people and one empty nail.
 
 ---
 
@@ -460,7 +460,7 @@ They went down past the dark cabins with their hands in their own pockets and th
 
 Annabeth had the field book on her knee. She opened it at the back, at the last page of Saturday's survey, and he knew that page the way he knew the sound of her boots on a stair; and then she wrote tonight's entry under it, in the same unhurried hand, and let him read it over her shoulder, because letting him was the whole point of writing anything at all.
 
-TUE 17 — HALL. 14 IN. SECOND TUESDAY.
+TUE 17 — HALL. 14 IN. THIRD TUESDAY.
 
 And under it, smaller: R. C. came.
 
@@ -502,9 +502,9 @@ He did not make it a thing. He put his other hand over both of theirs, on her kn
 
 The hall had taught them, in its indirect way, what a room with steam in it does to a kiss: it makes it a bigger sound than it is. The porch did the opposite. The porch took the sound and gave it to the frost and the dark and the two of them, and did not repeat it, and did not need to. They broke for air at the kind of distance where you can still feel the other person's breath and said nothing, and then went back in, because there was no reason not to, and the lantern above them went on doing what it had been doing since October, which was burning amber in a hood on a hook and letting the moths argue with it.
 
-"That's the second Tuesday," he said, into her hair, a while later, with his eyes shut and his back against the porch post.
+"That's the third Tuesday," he said, into her hair, a while later, with his eyes shut and his back against the porch post.
 
-"That's the second Tuesday."
+"That's the third Tuesday."
 
 "There was a survey on a mountain and a quilt on a beach and ten lanterns and a note in the back of a book and a first conversation on a Sunday, and now there's a slate with fourteen on it and a boy who brought his own towel. That's the week. That's actually the whole week, and I'm putting it in the pile and I'm going to keep it."
 

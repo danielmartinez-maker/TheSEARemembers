@@ -40,7 +40,7 @@ The initial inventory identified only three chapters below 10,000: 162 (9,513; 4
 | 185 | Apples in the Cold | 11,079 | Targeted scene/ending revision; independent editorial review pending |
 | 186 | The First Real Words | 12,840 | Targeted scene/ending revision; independent editorial review pending |
 | 187 | Silver on the Rings | 10,757 | Targeted scene/ending revision; independent editorial review pending |
-| 188 | The Second Tuesday | 10,800 | Targeted scene/ending revision; independent editorial review pending |
+| 188 | The Third Tuesday | 10,800 | Targeted scene/ending revision; independent editorial review pending |
 | 189 | After the Frost | 10,423 | Targeted scene/ending revision; independent editorial review pending |
 | 190 | Thursday, Twice | 11,489 | Targeted scene/ending revision; independent editorial review pending |
 | 191 | Two Hands of Work | 10,629 | Structural and scene revision; independent editorial review pending |
