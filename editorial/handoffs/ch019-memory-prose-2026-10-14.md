@@ -1,6 +1,6 @@
 # Chapter 019 · The Brother Across the Country
 
-**Source:** [chapter](../../chapters/019-the-brother-across-the-country.md) on PR #103. **Reviewed body words:** 10137 (headings/dividers excluded). **POV:** Thalia, Annabeth, Percy; Jason independently at Roman camp. **Relative chronology:** one supervised Iris relay, later mail-office consultation; undated.
+**Source:** [chapter](../../chapters/019-the-brother-across-the-country.md) on PR #103. **Current strict-QA body words:** 10,082. **POV:** Thalia, Annabeth, Percy; Jason independently at Roman camp. **Relative chronology:** one supervised Iris relay, later mail-office consultation; undated.
 
 ## Confirmed witnessed/secondhand events and carry-forward
 - Chiron arranges direct IRIS CALL with Jason at Camp Jupiter, Roman assistant Valeria present and Lupa as Jason's earlier informant. Jason is 10; he remembers names from adult accounts, NOT every old shared childhood event.
@@ -10,7 +10,7 @@
 - Annabeth hears Thalia's Jason toddler recollections without acquiring them as personal memories.
 
 ## Unproven / withheld
-Next call date, dispatch/delivery of additional letters, eligibility of in-person visit as of Ch019.
+Next call date, dispatch/delivery of additional letters, eligibility of in-person visit as of Ch019. Annabeth's line about “Beryl giving him up” at Ch019 L192 is not confirmed by the available account: Ch019 L95 frames the transfer story as what Thalia told her, while the exact role and consent of Beryl remain unknown. Keep that phrasing as Annabeth's inference or secondhand wording unless another source establishes it.
 
 ## Next chapter incoming
 Ch020 belated birthday party independent of Roman approval; Ch021 epilogue NOW establishes new approval for Jason's supervised visit before Ch022.
