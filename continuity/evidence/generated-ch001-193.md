@@ -2339,7 +2339,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/147-the-things-we-train-for.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 96, Clarisse 89, Annabeth 58, Thalia 48, Silena 47, Chiron 22, Poseidon 5, Zeus 2, Sally 1, Grover 1
+- Name appearances (not proof of presence): Percy 96, Clarisse 90, Annabeth 58, Thalia 48, Silena 47, Chiron 22, Poseidon 5, Zeus 2, Sally 1, Grover 1
 - Event/action candidates to inspect in context:
   - Line 31: "Clarisse," he said.
   - Line 59: The sky got lighter. The lake got brighter. A bird called from somewhere in the trees, and another bird answered, and the whole camp was still asleep except for the two of them on the dock and the spear across Clarisse's knees and the water
@@ -2768,7 +2768,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/175-salt-and-steam.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Clarisse 36, Percy 28, Thalia 22, Silena 22, Annabeth 20, Chiron 12, Beckendorf 6, Poseidon 1, Rhys 1
+- Name appearances (not proof of presence): Clarisse 36, Percy 28, Silena 25, Thalia 22, Annabeth 20, Chiron 12, Beckendorf 6, Poseidon 1, Rhys 1
 - Event/action candidates to inspect in context:
   - Line 7: He had asked Clarisse about it once, in July. She had said it was the old pool, from before, and that the cabin used it in the winter sometimes, and that it was cold in the middle and full of leaves from a skylight somebody was always meani
   - Line 13: "Rules," Clarisse said, and held up the slate.
@@ -2777,8 +2777,8 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
   - Line 33: "Because Silena has four extras in a bag," Silena said, from behind him, in the mild voice of a woman who had been packing spare suits in her beach tote since she was eleven. "Don't make it a whole thing."
 - Memory/disclosure candidates to inspect:
   - Line 207: Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble wit
-  - Line 405: "There is a rule about saying it out loud, and if I say it a third time you'll make me do laps of the shallow end in a coat," Percy said, and she looked at him sideways, and he was grinning the way he grinned when he was not going to be mov
-  - Line 427: The porch faced downhill, which meant it faced the lake, which at that hour was nothing at all: a black nothing between the black trees with the camp's lamps salted along the paths above it. Four amber lamps so far. Beckendorf had started w
+  - Line 407: "There is a rule about saying it out loud, and if I say it a third time you'll make me do laps of the shallow end in a coat," Percy said, and she looked at him sideways, and he was grinning the way he grinned when he was not going to be mov
+  - Line 429: The porch faced downhill, which meant it faced the lake, which at that hour was nothing at all: a black nothing between the black trees with the camp's lamps salted along the paths above it. Four amber lamps so far. Beckendorf had started w
 
 ## 176: Chapter 176: The Storm Quilt
 
@@ -2862,7 +2862,7 @@ For actual, confirmed witnessed events, relationship stages and separate knowled
 
 - [Source](../../chapters/181-whoever-wants-to-come.md)
 - **Status:** UNVERIFIED for scene, witnesses, first/secondhand knowledge, secrets, chronology, relationships and downstream handoff
-- Name appearances (not proof of presence): Percy 32, Annabeth 29, Clarisse 24, Silena 21, Thalia 19, Beckendorf 7, Chiron 5
+- Name appearances (not proof of presence): Percy 32, Annabeth 30, Clarisse 24, Silena 21, Thalia 20, Beckendorf 7, Chiron 5
 - Event/action candidates to inspect in context:
   - Line 3: The slate came off its nail at a quarter past six and went down face-up on the Cabin Three table, which was Clarisse's way of announcing that the evening had started and that anybody who wanted to argue with it could read the five rules and
   - Line 23: "Last Tuesday I wrote nine, because last Tuesday I knew what nine was." Clarisse put the chalk down and looked at the slate the way she looked at a fence post that had come out of the ground. "Tonight it's whoever. That's the fifth rule and

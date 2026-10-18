@@ -51,7 +51,7 @@ These conflict with the bible's age and elapsed-time ledger requirement ([§6](.
 
 [Chapter 176](../../chapters/176-the-storm-quilt.md#L5) places the storm on Wednesday; [Chapter 177](../../chapters/177-the-one-who-came-back.md#L491) says Luke's Tuesday postmark was the night of that storm. Unless the story intends two separate storms, the weekday is inconsistent.
 
-[Chapter 175](../../chapters/175-salt-and-steam.md#L317) dates its scene October 2 and says Rhys will return Friday ([line 455](../../chapters/175-salt-and-steam.md#L465)); [Chapter 177](../../chapters/177-the-one-who-came-back.md#L45) confirms his Friday return. [“The Long Winter”](../../bonus/the-long-winter.md#L3) is Monday, October 23, yet says Rhys has been back six weeks ([line 33](../../bonus/the-long-winter.md#L33)). On this sequence the Friday return is in early October, about seventeen days before October 23, not six weeks.
+[Chapter 175](../../chapters/175-salt-and-steam.md#L317) dates its scene October 2 and says Rhys will return Friday ([line 457](../../chapters/175-salt-and-steam.md#L467)); [Chapter 177](../../chapters/177-the-one-who-came-back.md#L45) confirms his Friday return. [“The Long Winter”](../../bonus/the-long-winter.md#L3) is Monday, October 23, yet says Rhys has been back six weeks ([line 33](../../bonus/the-long-winter.md#L33)). On this sequence the Friday return is in early October, about seventeen days before October 23, not six weeks.
 
 The same interlude is followed by [“The Sunday Afternoon”](../../bonus/the-sunday-afternoon.md#L3), dated Sunday, November 1. November 1 is nine days after Monday, October 23, so it would fall on Wednesday, not Sunday. Align the dates/weekday labels or signal a year change.
 

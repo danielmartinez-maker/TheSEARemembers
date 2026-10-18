@@ -647,6 +647,8 @@ He sat down beside her spear and watched her work. She did twenty push-ups, then
 
 They went to the arena. The sand was cold and the weapons racks were full and the dummies were waiting and the whole place smelled like leather and metal and the faint ozone smell of the boundary. They warmed up. They drilled. They worked through the forms that Clarisse had been teaching him, and each time she corrected something and each time he did it better and each time she said "again" with the same flat patience that meant she wasn't going to stop until he got it right.
 
+Before they tried the Atlas again, Clarisse had him raise both arms through the warm-up and checked the bruise. It no longer hurt when he lifted; she let him continue, ready to stop him if that changed.
+
 The Atlas came after an hour. Percy stood in the middle of the arena with his arms up and his feet set and his spine straight and his breath slow, and he held. The weight wasn't there, but the shape of it was, and his body knew the shape, and he held it because holding was what he did.
 
 "Ten minutes," Clarisse said.

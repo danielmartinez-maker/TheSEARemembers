@@ -104,7 +104,7 @@ Olive Nakamura got there one minute in. She climbed down the ladder with her gog
 
 "It keeps being true."
 
-Silena had four extra suits in a bag, exactly as advertised, and by ten past seven every one of them was in use, on Olive and two of the Apollo kids who had heard the door and come down out of pure nosiness, and a small girl from the Demeter cabin who had been told there was warm water and had run the whole way.
+Silena had four extra suits in the blue bag, exactly as advertised, and by ten past seven every one of them was in use, on Olive, two Apollo kids who had heard the door and come down out of pure nosiness, and Rosie, a small girl from Demeter who had run down after hearing there was warm water.
 
 "That's seven," Clarisse said.
 
@@ -118,9 +118,9 @@ Clarisse looked at him the way she looked at a spear she had decided not to chec
 
 "Wouldn't dream of it."
 
-The small ones arrived in a heap at about ten past seven.
+The rest of Katie's group arrived in a heap at about ten past seven; Rosie was already at the pool.
 
-Katie Gardner brought six of them down the hill in one line, all in coats over whatever they had, and the smallest was a Demeter girl named Rosie who was seven and had been told there was warm water and had run the last fifty feet. They stopped in the doorway in a clump, because a black-tiled hall full of steam at night is a large thing when you are seven, and stood there breathing it in with their eyes wide, and nobody in the whole room said a word about it out loud, because everybody in the whole room was quietly doing the arithmetic on how long it had been since they had felt warm in October.
+Katie Gardner brought the other five down the hill in one line, all in coats over whatever they had. Rosie, the smallest of the six, was seven and had run the last fifty feet ahead of them; she was already in her borrowed suit at the water's edge. The five stopped in the doorway in a clump, because a black-tiled hall full of steam at night is a large thing when you are seven, and stood there breathing it in with their eyes wide, and nobody in the whole room said a word about it out loud, because everybody in the whole room was quietly doing the arithmetic on how long it had been since they had felt warm in October.
 
 "Suits," Silena said, from the dressing room, in the flat busy voice of a quartermaster. "Adults' rack on the right, kids' on the left, and the bag of smalls is the blue one. No, you can't wear your own shorts in it, they go transparent, ask me how I know."
 
@@ -128,7 +128,7 @@ Katie Gardner brought six of them down the hill in one line, all in coats over w
 
 "Don't ask me how I know."
 
-So the four spare suits came out of the bag and went onto three of Katie's kids and a Hermes boy who had come down out of pure nosiness and was now, very obviously, staying. Neve from the forge got one with a silk repair in the left shoulder, done in small even stitches, which nobody said anything about. Silena handed out goggles from a jar and took back two pairs that were cracked and put them in her pocket to fix, which was a thing she did without appearing to look at anybody while she did it, which was the closest thing Cabin Three had to a public service.
+The first four had used the blue-bag suits for one turn. While Katie's five newcomers waited, Olive, the two Apollo campers, and Rosie climbed out, rinsed the suits, and handed them back to Silena; she checked each one before passing it on. The four bag suits went onto three of Katie's six, Rosie among them, and a Hermes boy who had come down out of pure nosiness and was now, very obviously, staying. Neve from the forge got the separate fifth loaner, the repaired suit Silena kept on the rack beside the bag, its left shoulder reinforced with small even silk stitches; nobody said anything about it. Silena handed out goggles from a jar and took back two pairs that were cracked and put them in her pocket to fix, which was a thing she did without appearing to look at anybody while she did it, which was the closest thing Cabin Three had to a public service.
 
 Then they all got in, in the slow scared way people get into a strange pool, and the room changed character completely.
 
@@ -322,9 +322,11 @@ She did not go up to bed.
 
 She went into the dressing room instead and did the thing she always did at the end of a day like that, which was to take inventory of the kindness people had not noticed. Eleven towels on the racks, warm and going cold. The blue bag in the corner with the four spare suits rolled the way she rolled them, smallest at the top. The jar of goggles, minus two cracked pairs, in her pocket, to be fixed on Thursday with the needle and the silk thread and the strip of rubber from the repair kit under her bunk. Three kids from the Demeter cabin, one Hermes boy, one forge girl, all of them in warm water for the first time since August, none of them asked for anything, none of them thanked her, which was not the same as not being grateful and was not the same as not needing it.
 
-The suit with the silk repair was on the left end of the rack, and she took it down and looked at the shoulder in the lamplight for a while. Four stitches and a knot. Left shoulder, where a strap takes weight, where a suit gives out first. She had done that repair in August on a suit belonging to a girl who had outgrown it, and the girl had no idea, and the suit had gone in the bag, and tonight it had been on Neve from the forge.
+The suit with the silk repair was on the left end of the rack, and she took it down and looked at the shoulder in the lamplight for a while. Four stitches and a knot. Left shoulder, where a strap takes weight, where a suit gives out first. She had done that repair in August on a suit belonging to a girl who had outgrown it, and the girl had no idea. Afterward Silena kept it on the rack beside the blue bag, separate from the four bag suits; tonight it had been on Neve from the forge.
 
-There was going to be a fifth spare before the frost came. She decided it there, in the steam-smelling dark, with the towel basket on her hip, the way she decided everything: not out loud, not at a meeting, just filed, and then done, and then never spoken of.
+She put the repaired suit back on the left end of the rack.
+
+There was going to be a fifth suit in the blue bag before the frost came. She decided it there, in the steam-smelling dark, with the towel basket on her hip, the way she decided everything: not out loud, not at a meeting, just filed, and then done, and then never spoken of.
 
 Then she gathered the eleven towels, and went up to bed.
 
@@ -332,7 +334,7 @@ Then she gathered the eleven towels, and went up to bed.
 
 Clarisse La Rue was still on the bench by the door at ten, with her jacket on over her suit and the winter list flat on her knee, doing the arithmetic of a good evening, which is harder than the arithmetic of a bad one.
 
-Nine at the count. Eleven towels. Four kids who did not live in this cabin and had no business knowing the hall existed and were going to be back on Thursday, because that is what happens when you leave a door open and put a rule about it on a slate where people can read it.
+Nine at the count. Eleven towels. Five kids who did not live in this cabin and had no business knowing the hall existed and were going to be back on Thursday, because that is what happens when you leave a door open and put a rule about it on a slate where people can read it.
 
 She wrote *9* at the bottom of the page, and then, because the number was a lie without the rest of it, she wrote under it: *and 4 borrowed. and 1 who can't swim who floated. and O'Fee's opinion pending.*
 

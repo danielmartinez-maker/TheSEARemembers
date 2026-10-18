@@ -17449,7 +17449,7 @@
         "Percy": 96,
         "Annabeth": 58,
         "Thalia": 48,
-        "Clarisse": 89,
+        "Clarisse": 90,
         "Silena": 47,
         "Poseidon": 5,
         "Sally": 1,
@@ -20489,7 +20489,7 @@
         "Annabeth": 20,
         "Thalia": 22,
         "Clarisse": 36,
-        "Silena": 22,
+        "Silena": 25,
         "Poseidon": 1,
         "Rhys": 1,
         "Chiron": 12,
@@ -20562,7 +20562,7 @@
           "excerpt": "Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble wit"
         },
         {
-          "line": 405,
+          "line": 407,
           "named": [
             "Percy",
             "Silena"
@@ -20570,7 +20570,7 @@
           "excerpt": "\"There is a rule about saying it out loud, and if I say it a third time you'll make me do laps of the shallow end in a coat,\" Percy said, and she looked at him sideways, and he was grinning the way he grinned when he was not going to be mov"
         },
         {
-          "line": 427,
+          "line": 429,
           "named": [
             "Thalia",
             "Beckendorf"
@@ -21120,8 +21120,8 @@
       "title": "Chapter 181: Whoever Wants to Come",
       "name_mentions": {
         "Percy": 32,
-        "Annabeth": 29,
-        "Thalia": 19,
+        "Annabeth": 30,
+        "Thalia": 20,
         "Clarisse": 24,
         "Silena": 21,
         "Chiron": 5,

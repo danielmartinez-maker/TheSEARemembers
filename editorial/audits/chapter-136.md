@@ -1,6 +1,6 @@
 # Chapter 136 editorial screening: Percy's Birthday
 
-**Source:** [Chapter 136](../../chapters/136-percy-s-birthday.md), git blob `717b1dd1e68469f7eb581cfe1b477b76c7b85fe5`. **Approximate body words:** 4,830. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 136](../../chapters/136-percy-s-birthday.md); git blob `717b1dd1e68469f7eb581cfe1b477b76c7b85fe5` is the earlier screened revision. **Body words:** 10,048 by fresh strict QA. **Status:** Targeted provenance repair applied; screening only.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -20,6 +20,11 @@ Percy's fourteenth birthday locks a new age baseline; record gifts, visitors and
 
 - **Age checkpoint:** The birthday/age progression in Chapters 133, 136 and 137 must be reconciled against the 14-year baseline from Chapter 140.
 - **Continuity names:** Tyson ([L9](../../chapters/136-percy-s-birthday.md#L9)), Triton ([L51](../../chapters/136-percy-s-birthday.md#L51)), Amphitrite ([L41](../../chapters/136-percy-s-birthday.md#L41)), Zeus ([L288](../../chapters/136-percy-s-birthday.md#L288)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
+
+## Current PR #103 continuation (2026-10-17)
+
+- **Thalia's knowledge provenance:** The birthday blessing now grounds her praise in the current quest, return to camp, and chosen family. It removes the unsupported Westover/mountain location list without granting Thalia erased-future memory ([line 917](../../chapters/136-percy-s-birthday.md#L917)).
+- **Coverage:** Targeted continuity repair only; this is not a developmental or style signoff for the chapter.
 
 ## Canon boundaries and follow-through
 

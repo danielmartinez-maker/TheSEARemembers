@@ -914,7 +914,7 @@ They stepped beyond the lantern light, where anemones glowed faintly. The party 
 
 Thalia stopped and faced him, hands on his shoulders. Up close, her eyes — Annabeth's eyes, storm-gray — held no mischief now.
 
-"Okay. Listen." She took a breath. Pine and ozone clung to her. "When Annabeth first told me about you — this scrawny kid with sea-green eyes who wouldn't leave her behind — I thought, great, another hero who's gonna get her killed." Her grip tightened. "Then I met you. And you kept showing up. In the Sea of Monsters, at Westover, at the mountain. You show up, Percy. Even when it's stupid. Especially when it's stupid."
+"Okay. Listen." She took a breath. Pine and ozone clung to her. "When Annabeth first told me about you — this scrawny kid with sea-green eyes who wouldn't leave her behind — I thought, great, another hero who's gonna get her killed." Her grip tightened. "Then I met you. You kept showing up — on the quest, back at camp, for the people you loved. You show up, Percy. Even when it's stupid. Especially when it's stupid."
 
 Percy snorted. "Thanks?"
 

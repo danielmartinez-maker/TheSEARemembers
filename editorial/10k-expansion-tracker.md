@@ -6,20 +6,20 @@
 
 ## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
 
-**Source:** This local continuation extends PR #103. It includes Chapter 146/151 canon repairs, Chapter 148 copyedit, Chapter 158/159 kinship wording, Chapter 163/165 copyedits, the Chapter 152–160 survey ledger correction, and the Chapter 172/175/180/183/188 and 190/193 follow-ups, along with earlier 066–069/118 trims, 132–133 handoff/profile updates and Chapter 175/176 count clarifications. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. Manuscript source commit `1512ea6` passed hosted full QA run 542 and character-memory run 267; the status-record follow-up changes documentation only.
+**Source:** This local continuation extends PR #103. It includes Chapter 136's bounded Thalia-knowledge repair and Chapter 147's shoulder-recovery follow-through, alongside Chapter 146/151 canon repairs, Chapter 148 copyedit, Chapter 158/159 kinship wording, Chapter 163/165 copyedits, the Chapter 152–160 survey ledger correction, and the Chapter 172/175/180/183/188 and 190/193 follow-ups. It also includes earlier 066–069/118 trims, 132–133 handoff/profile updates, Chapter 175 suit/arrival clarification, Chapter 181 roster/suit repairs, and Chapter 176 count clarification. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. The prior source commit `1512ea6` passed hosted full QA run 542 and character-memory run 267; hosted validation of this local source continuation is pending push.
 
 | Scope | Latest local result |
 |---|---:|
 | Ordered narrative chapters | **193/193** |
 | At or above 10,000 body words | **193** |
 | Below 10,000 / missing words | **0 / 0** |
-| Chapter-only every-offset 300-word windows | **1,942,537; 0 exact cross-chapter matches** |
-| All chapter and bonus Markdown files | **196 files / 2,151,394 body words / 2,093,089 windows; 0 exact matches** |
+| Chapter-only every-offset 300-word windows | **1,942,663; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,151,520 body words / 2,093,215 windows; 0 exact matches** |
 | Source-anchored memory regression groups | **45 passed** |
 | Structure audit | **193/193 ordered; no reported errors** |
 | Full-scene chapter-ledger coverage | **193/193; 50 selected character timelines with exact-name candidate maps; exhaustive per-character matrix remains incomplete** |
 
-The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. A repository-wide pass checked 5,124 relative Markdown targets with zero unresolved paths; fragments were not line-anchor validated. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. The Chapter 038/041 Silena age wording remains unresolved because no birthday/date is established between the statements. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. A repository-wide pass checked 5,132 relative Markdown targets with zero missing paths and zero invalid line-number anchors. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
 
 ## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
 
