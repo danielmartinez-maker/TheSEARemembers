@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 85 of 208 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 90 of 208 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -515,3 +515,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/085-spring.md)
 
 ![Percy listens as Clarisse and Silena's blanket argument settles into laughter in Cabin Three.](085-spring.jpg)
+
+
+## 086. The Summons to Atlantis
+
+[Source chapter](../chapters/086-the-summons-to-atlantis.md)
+
+![Percy arrives at Atlantis with Clarisse, Silena, and Annabeth as Amphitrite greets them and Rhode and Benthesikyme wait nearby.](086-the-summons-to-atlantis.jpg)
+
+## 087. A Kiss We Choose
+
+[Source chapter](../chapters/087-a-kiss-we-choose.md)
+
+![After the canoe-lake safety rack holds, Percy and Annabeth share a brief kiss while Clarisse helps campers on shore.](087-a-kiss-we-choose.jpg)
+
+## 088. Spear, Song, Sea
+
+[Source chapter](../chapters/088-spear-song-sea.md)
+
+![Clarisse tests sea-breathing in the marked shallows as Percy steadies her and Chiron supervises; Silena waits nearby.](088-spear-song-sea.jpg)
+
+## 089. Belated Valentines (Camp-Style)
+
+[Source chapter](../chapters/089-belated-valentines-camp-style.md)
+
+![Silena organizes the belated Valentine post office as Percy and Annabeth read their letters.](089-belated-valentines-camp-style.jpg)
+
+## 090. Storm and Sea
+
+[Source chapter](../chapters/090-storm-and-sea.md)
+
+![Five pinkies meet around a mug of hot chocolate in Cabin Three after the storm.](090-storm-and-sea.jpg)
