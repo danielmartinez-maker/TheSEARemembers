@@ -35,7 +35,7 @@ No automated tests are planned for these editorial changes. Use source compariso
 ### Task 1: Audit Percy’s existing address to Amphitrite
 
 **Files:**
-- Read: `chapters/001-193-*.md` at the pinned PR #103 branch head
+- Read: Numbered chapter files 001 through 193 on the pinned PR #103 branch head
 - Read: `FIC_CONTEXT.md`
 
 **Interfaces:**
