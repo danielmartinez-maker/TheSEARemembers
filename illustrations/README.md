@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 80 of 207 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 85 of 207 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -484,3 +484,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/080-the-second-dance.md)
 
 ![Percy and Annabeth slow dance under jellyfish lanterns as Clarisse, Silena, and Tyson sway together nearby.](080-the-second-dance.jpg)
+
+
+## 081. Home
+
+[Source chapter](../chapters/081-home.md)
+
+![Percy and Annabeth hold hands at the camp road as their friends and sisters gather near the waiting bus.](081-home.jpg)
+
+## 082. Letters (May)
+
+[Source chapter](../chapters/082-letters-may.md)
+
+![Percy writes to his camp family at a basalt desk in the Atlantis Academy dorm, with kelp forests beyond the window.](082-letters-may.jpg)
+
+## 083. Spring-Break Visit
+
+[Source chapter](../chapters/083-spring-break-visit.md)
+
+![Thalia and Jason reunite at Camp Jupiter as Percy and Annabeth stand close by.](083-spring-break-visit.jpg)
+
+## 084. Spring Resolutions
+
+[Source chapter](../chapters/084-spring-resolutions.md)
+
+![Silena sings an unaccompanied hearth hymn as Clarisse stands beside her beneath the stars.](084-spring-resolutions.jpg)
+
+## 085. Spring
+
+[Source chapter](../chapters/085-spring.md)
+
+![Percy listens as Clarisse and Silena's blanket argument settles into laughter in Cabin Three.](085-spring.jpg)
