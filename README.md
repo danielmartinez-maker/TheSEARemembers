@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 201 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 202 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -13,7 +13,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 ## Active family-first arc (October 22, 2026)
 
-PR #103 is drafting Chapters 194–218. Chapters 194–201 contain 82,608 body words across eight installments; Chapter 201 measures 10,153 body words by the repository's whitespace-token method. The 25-chapter arc remains in implementation, with Chapter 202 next. Hosted validation is tracked on the PR.
+PR #103 is drafting Chapters 194–218. Chapters 194–202 contain 92,766 body words across nine installments. Chapter 202, “The Measure of a Gift,” measures 10,158 body words by the repository's whitespace-token method. The 25-chapter arc remains in implementation, with Chapter 203 next. Hosted validation is tracked on the PR.
 
 ## Canon and editing
 

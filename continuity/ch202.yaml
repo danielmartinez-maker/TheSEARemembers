@@ -1,0 +1,70 @@
+chapter: 202
+title: "The Measure of a Gift"
+source: "chapters/202-the-measure-of-a-gift.md"
+status: "10,158 body words; scoped arc implementation and continuity review recorded"
+relative_chronology:
+  - "Begins Tuesday, the day after Chapter 201; continues through Saturday without an exact calendar date or year"
+  - "Silena works at the pavilion on Tuesday and Wednesday; later scenes follow the multi-day visit and end at Cabin Three on Saturday night"
+pov: "Silena Beauregard, third-person limited"
+locations:
+  - "Cabin Three breakfast area and main room"
+  - "Dining pavilion and work tables"
+  - "Big House study and dining room"
+  - "Camp paths, porch, and archery-field approach"
+people_knowledge_relationships:
+  silena:
+    - "Keeps her three-wave copy for Percy unfinished and under her control"
+    - "Tells Amphitrite only that she does not know whether her last letter to Maria arrived; she does not reveal its contents, and it remains sealed"
+    - "Chooses to join parts of Amphitrite's several-day camp visit, paints alongside her, and later invites her to spend time again"
+    - "Offers Amphitrite a small watercolor practice strip; the gift is voluntary and carries no title or promise"
+    - "Accepts a brief hug after Amphitrite asks and Silena agrees; no maternal title is chosen"
+  amphitrite:
+    - "Is at camp for several days to spend time with Percy and Clarisse; Chiron tells Silena she may join if she wants"
+    - "Respects Silena's work and privacy, does not ask what is in the letter to Maria, and accepts the sample without assigning it meaning"
+    - "Admits she can be impatient and is learning to ask without expecting a preferred answer"
+    - "Invites Clarisse to walk; Clarisse declines, and Amphitrite does not pressure her"
+    - "Does not ask for a maternal title"
+  clarisse:
+    - "Declines Amphitrite's invitation to walk and tells Silena that her separate choice should not require Silena to decline too"
+    - "Continues sharing Cabin Three routines with Silena; their sister bond remains secure"
+  percy:
+    - "Shares map work and an ordinary meal with Annabeth; they remain secure and affectionate"
+    - "No erased-future memory or altered-childhood memory gap is disclosed"
+  annabeth:
+    - "Works on the camp map with Percy and remains his established partner"
+  thalia:
+    - "Is seen at a distance wearing the existing splint; no one discusses or reassesses her heel"
+  chiron:
+    - "Tells Silena that Amphitrite plans to be at camp for several days and leaves Silena free to join"
+work_and_health_states:
+  - item_or_event: "Silena's watercolor work"
+    last_seen: "The three-wave copy remains unfinished; the practice strip and drying notes remain in Silena's portfolio."
+  - item_or_event: "Watercolor sample"
+    last_seen: "Silena gives Amphitrite one small practice strip; Amphitrite lays it flat between pages."
+  - item_or_event: "Letter to Maria"
+    last_seen: "Remains sealed in Silena's portfolio; delivery and any response are unknown."
+  - item_or_event: "Cabin Three window blanket"
+    last_seen: "Clarisse reties the blanket temporarily with cord; the proper pin is still needed."
+  - item_or_event: "Thalia's heel"
+    last_seen: "Splint remains visible; there is no examination, reassessment, recovery, or clearance in this chapter."
+  - item_or_event: "Earlier work list"
+    last_seen: "No awning repair, fence drainage review, Cabin One rail recheck, north-step check, or stool completion is shown."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither memory is disclosed."
+  - "Percy's altered-childhood memory gap remains private and is not disclosed to Amphitrite."
+  - "Silena does not tell Amphitrite the contents of her letter to Maria."
+  - "Amphitrite does not receive a title from Silena or Clarisse and does not ask for one."
+  - "Clarisse's separate pace does not negate Silena's voluntary time with Amphitrite."
+next_chapter_dependencies:
+  - "Continue after Saturday night without inventing an exact date or year."
+  - "Silena and Amphitrite have shared several ordinary interactions, a watercolor sample, and one brief consensual hug; Silena has not chosen a maternal title."
+  - "Silena's letter to Maria remains sealed; delivery and response are unknown."
+  - "Clarisse declined one walk and has not made a maternal-title choice."
+  - "Percy and Annabeth remain secure. Do not disclose either one's erased-future memories."
+  - "Thalia's heel remains under the Chapter 193 care plan without reassessment."
+  - "The Cabin Three blanket is temporarily retied and still needs its proper pin."
+unresolved_canon_questions:
+  - "Silena's letter delivery and Maria's response remain unknown."
+  - "Silena's three-wave copy remains unfinished and no letter containing it has been sent."
+  - "Amphitrite's relationship with Silena continues without a title; Clarisse's relationship follows a separate path."
+  - "The heel reassessment planned by Chiron remains due in Chapter 204."

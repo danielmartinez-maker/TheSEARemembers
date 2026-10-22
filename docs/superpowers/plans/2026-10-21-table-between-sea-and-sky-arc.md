@@ -90,7 +90,8 @@ Files: Chapters 200–205 and continuation handoffs.
 - [x] Verify 10,365 body words; Percy-limited, four scene breaks, continuity YAML and 194–200 ledger/profile updates added.
 - [x] Ch201: Annabeth-limited POV shows Ianthe’s planning strength and command flaw colliding with actual workers; her weather read is useful, but she writes names before asking. Clarisse refuses an unasked assignment, Beckendorf declines unsafe ladder work, and Eli confirms one small task.
 - [x] Verify 10,153 body words, Annabeth-limited POV, continuity YAML, updated 194–201 ledger, index, arc progress, and selected character-state notes.
-- [ ] Ch202: sustained, non-transactional Amphitrite/Silena connection deepens.
+- [x] Ch202: sustained, non-transactional Amphitrite/Silena connection deepens; Silena chooses a multi-day visit, offers a watercolor practice strip, and accepts a brief hug without choosing a title. Her letter to Maria remains private; Clarisse chooses a different pace.
+- [x] Verify 10,158 body words by the repository’s whitespace-token method; Silena-limited, four scenes, continuity YAML, updated 194–202 ledger, index, arc progress, and selected character-state notes added.
 - [ ] Ch203: unequal fatherhood is discussed without equating Percy’s altered-memory gap with Leandros’s life.
 - [ ] Ch204: Chiron’s scheduled reassessment follows Ch193’s plan and shows the actual result.
 - [ ] Ch205: Annabeth speaks for herself; Thalia learns when not to intervene.
@@ -137,8 +138,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **8/25**.
-- Arc body words: **82,608 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–201, index, chapter YAMLs, the 194–201 ledger, and updated sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 202, deepening Silena and Amphitrite's sustained, non-transactional connection.
+- Chapters complete: **9/25**.
+- Arc body words: **92,766 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–202, index, chapter YAMLs, the current 194–202 ledger, and updated sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 203, addressing unequal fatherhood without equating Percy’s altered-memory gap with Leandros’s life.
 

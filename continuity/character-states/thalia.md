@@ -1,6 +1,6 @@
 # Thalia: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 200, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 202, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found thalia in 190 files (001–101, 103–105, 107–112, 114–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -294,7 +294,7 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 ### Chapter 198 · The Face of Thunder
 
 - **Knowledge provenance:** FIRSTHAND, with the home-storm account separately identified as reported by the satyr and Ianthe.
-- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–202 chapter ledger](../chapter-ledgers/194-202.md).
 - Thalia meets Ianthe, fifteen, for the first time. Ianthe states that Zeus is her father. Thalia does not treat the new sibling as responsible for Zeus's history with her and Annabeth, but she does not promise instant closeness.
 - Ianthe tells her Thalia has had their father longer and then says Thalia has a different kind of less. Thalia refuses that comparison as knowledge of her life: Ianthe does not know what she has. Ianthe says Thalia is right, but Thalia cannot tell whether it is an apology or retreat; no repair milestone follows.
 - Ianthe assumes Thalia should sit and offers to choose her bed because of the heel. Thalia rejects being managed. Her heel remains painful under the existing splint and care plan; no examination, recovery, or clearance is shown in Chapter 198.
@@ -305,7 +305,7 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 ## Chapter 199 · A Bed Beside the Window
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–202 chapter ledger](../chapter-ledgers/194-202.md).
 - Thalia stays in Cabin One while Annabeth helps with the Big House blanket move. She does not answer for Annabeth when Ianthe presses about the room.
 - Annabeth asks before Thalia offers advice. Thalia accepts Annabeth's choice to decide whether to move a chair, bed, or rug and does not choose the room arrangement for her.
 - Her heel remains under the Chapter 193 care plan; no examination, recovery, or clearance occurs.
@@ -316,8 +316,16 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Thalia is present on the Cabin One porch with the Chapter 193 splint and rests while the rail is inspected. No heel examination, reassessment, recovery, swimming decision, or clearance occurs. Her existing care plan remains in force.
 - Annabeth handles her own exchange with Ianthe. Thalia does not take over the bed decision or speak for Annabeth. Their sisterhood remains secure.
 
 **Historical carry-forward after Ch200.** Thalia's heel remains under the Chapter 193 plan; no outcome is shown. Ianthe has accepted a breakfast invitation but remains in the Big House guest room. Thalia continues to ask before intervening for Annabeth.
+
+### Chapter 202 · Seen from the path
+
+- **Knowledge provenance:** FIRSTHAND, Silena's limited observation.
+- **Source:** [Chapter 202](../../chapters/202-the-measure-of-a-gift.md); [194–202 ledger](../chapter-ledgers/194-202.md).
+- Silena sees Thalia sitting on the porch at a distance with the existing splint and exchanges a greeting. The heel is not discussed, examined, reassessed, or cleared; the Chapter 193 care plan remains active.
+
+**Carry-forward after Ch202.** The scheduled follow-up remains Chapter 204; no healing outcome is inferred.

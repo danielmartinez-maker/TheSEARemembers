@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 201; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -252,7 +252,7 @@
 
 **Current carry-forward at Ch194.** Silena remains sixteen and in Cabin Three; she has no new injury. Beckendorf’s interest is mutual and spoken, their latest confirmed plan is still a tentative Sunday-at-eight meeting, and no formal label or outcome is shown. Her mother’s letter remains private and its delivery/response unknown; her uncertainty about Maria remains unresolved. Percy and Clarisse now have a newly arrived paternal half-brother, Leandros; this does not change Silena’s bond with Percy and Clarisse or make her responsible for managing the new family. Greenhouse soil banking is completed for now. Keep the awning, fence repair, stool, loose rail, and first-hard-frost recheck open.
 
-**Planned future maternal arc (not an event through Ch196).** Amphitrite gradually grows into a maternal figure to Silena through sustained attention to Silena’s own interests, choices, and limits. After that relationship develops, Silena chooses “Mom” first, privately and without pressure; the milestone remains future work. Her history and relationship with Maria remain distinct, and Silena is never responsible for Amphitrite’s feelings.
+**Planned title choice (not made through Ch202).** Amphitrite's relationship with Silena continues to grow through sustained attention to Silena’s own interests, choices, and limits. Silena has chosen some voluntary time together, shared watercolor practice, a small sample, and one brief hug; none of this obligates her to choose “Mom.” A later title choice remains private and her own. Her history and relationship with Maria remain distinct, and Silena is never responsible for Amphitrite’s feelings.
 
 ### Chapter 195 · The Rules of Cabin Three
 - **Knowledge provenance:** FIRSTHAND.
@@ -270,7 +270,7 @@
 - **Carry-forward:** Her care remains bounded. No new chosen-mother title or interaction with Amphitrite occurs.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–201 ledger](../chapter-ledgers/194-201.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–202 ledger](../chapter-ledgers/194-202.md#L40).
 - **State and events:** Silena resumes the unfinished color copy of the three-wave sketch she made with Percy and Clarisse on their Chapter 091 tide-pool day. The copy was promised for Percy to consider including in a future letter; no letter is sent. She explicitly controls whether the work is shown or shared. She corrects Leandros when he calls it a gift for Amphitrite, leaves lunch, and later hears his apology for speaking on her behalf. She does not promise a new four-person picture or forgiveness.
 - **Carry-forward:** Her work remains unfinished and hers. She has not become the automatic peacemaker. Her relationship with Amphitrite has a small, voluntary exchange about watercolor technique; no maternal title is chosen, and her relationship with Maria stays unresolved.
 
@@ -279,8 +279,21 @@
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Silena serves lunch to the work group and corrects Clarisse when Clarisse answers Leandros's question about belonging with the response she wanted to give. She does not take over the conversation or promise Leandros anything.
 - The warm meal is shared camp care, not a maternal milestone. Her unfinished three-wave copy remains under her control; no new scene with Amphitrite or title choice occurs.
 
 **Historical carry-forward after Ch200.** Silena remains close to Percy and Clarisse but is not the automatic peacemaker. Leandros's one useful fence observation does not earn broad trust. Her separate relationship with Amphitrite and her history with Maria remain unchanged; no title or forgiveness is shown.
+
+### Chapter 202 · A visit chosen in pieces
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 202](../../chapters/202-the-measure-of-a-gift.md); [194–202 ledger](../chapter-ledgers/194-202.md).
+- Silena continues her own watercolor practice and keeps the three-wave copy for Percy unfinished. She tells Amphitrite only that she does not know whether her last letter to Maria arrived; she keeps the letter sealed and its contents private.
+- Chiron tells Silena that Amphitrite plans to be at camp for several days with Percy and Clarisse and leaves Silena free to join. Silena chooses to share quiet work-table time, invites Amphitrite to sit and paint, and later invites her to spend time again.
+- Silena voluntarily gives Amphitrite one small watercolor practice strip. After Amphitrite asks, Silena agrees to a brief hug. No “Mom” title, promise, or obligation is attached; her later title choice remains future work.
+- Clarisse declines Amphitrite's invitation to walk and tells Silena that she is not asking her to decline too. Silena's relationship with Amphitrite and Clarisse's separate pace remain distinct.
+- Percy and Annabeth share map work, an ordinary meal, and affectionate moments; their relationship remains secure. No memory is disclosed.
+- Silena sees Thalia at a distance with her existing splint; no one discusses or reassesses the heel.
+
+**Current carry-forward after Ch202.** The letter to Maria remains sealed with delivery and response unknown; the three-wave copy remains unfinished and unsent. Silena likes the time she spent with Amphitrite but does not yet know her well and has not chosen a title. Clarisse remains free to choose a different pace. The Cabin Three window blanket is temporarily retied with cord and still needs its proper pin.

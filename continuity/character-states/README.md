@@ -37,9 +37,9 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 | 177–182 | [Chapter ledger](../chapter-ledgers/177-182.md) | Full-scene review; 176 close and 183 opening checked |
 | 183–188 | [Chapter ledger](../chapter-ledgers/183-188.md) | Full-scene review; 182 close and 189 opening checked |
 | 189–193 | [Chapter ledger](../chapter-ledgers/189-193.md) | Full-scene review; 188 close and 194 opening checked |
-| 194–201 | [Chapter ledger](../chapter-ledgers/194-201.md) | Arc-specific source-grounded scene records; 193 close checked; Chapter 201 scoped notes recorded |
+| 194–202 | [Chapter ledger](../chapter-ledgers/194-202.md) | Arc-specific source-grounded scene records; 193 close checked; Chapter 202 scoped notes recorded |
 
-**Family-first arc update (October 22):** The [194–201 ledger](../chapter-ledgers/194-201.md) records source-grounded events and handoffs for the opening eight arc chapters. Selected profile entries now include Chapter 201; they do not expand the earlier 193-chapter locator sweep or claim exhaustive character-by-character review. Chapters 202–218 remain pending.
+**Family-first arc update (October 22):** The [194–202 ledger](../chapter-ledgers/194-202.md) records source-grounded events and handoffs for the opening nine arc chapters. Selected profile entries include scoped Chapter 202 notes; they do not expand the earlier 193-chapter locator sweep or claim exhaustive character-by-character review. Chapters 203–218 remain pending.
 
 These entries are not a chapter-by-chapter state matrix for every character. The full-scene total describes chapters with a ledger claim; it does not mean every character has an event entry in each of those chapters.
 

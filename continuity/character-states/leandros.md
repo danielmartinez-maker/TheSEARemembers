@@ -42,7 +42,7 @@
 
 ### Chapter 197 · The Room We Keep
 
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–201 ledger](../chapter-ledgers/194-201.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–202 ledger](../chapter-ledgers/194-202.md#L40).
 - Leandros sees Silena's unfinished copy of the three-wave sketch and misreads it as a present for Amphitrite. Though Silena explains that she decides whether it is shown, he publicly describes it as a gift at lunch, putting her on the spot.
 - He asks whether Poseidon knew Amphitrite was visiting or had told her about Leandros. She says Chiron invited her and told her of Leandros's arrival; Poseidon had not told her about him.
 - He later apologizes for speaking for her and says he wanted Amphitrite to see him with the Camp Three siblings. He accepts that Silena may not want a four-person picture. His understanding is partial; no trust or forgiveness is established.
@@ -59,7 +59,7 @@ At the close of Chapter 199, Leandros's Chapter 197 state continues: he has apol
 
 ### Chapter 200 · The Winter List
 
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Leandros meets Ianthe for the first time. He claims that his age and status as Poseidon's oldest son at camp should give him a role in deciding work. Clarisse refuses the claim without excluding him from the task.
 - He correctly notices runoff pooling below the braced fence; Beckendorf confirms it and records the observation. The fence remains braced pending a drainage review once the soil is firmer. Leandros carries boards and the tool box but continues to treat task assignment as a question of status.
 - He asks Percy whether Percy wants a brother. Percy says he wants to know him but cannot decide their relationship after six days. Leandros receives no promise about staying, no authority, and no broad trust milestone. He does not apologize in this chapter.
@@ -70,7 +70,7 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 
 ### Chapter 201 · The Weather in the Room
 
-- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Leandros objects when Ianthe lists him beside a water task without asking. He argues with Annabeth that yesterday's runoff observation does not prove where the water starts; Annabeth distinguishes a route map from an inference. No drainage inspection or digging takes place.
 - He has met Ianthe twice, but this chapter does not establish a bond between them or with Annabeth. His status assumptions and desire to choose his own work persist; no authority or trust milestone occurs.
 

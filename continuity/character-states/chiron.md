@@ -1,6 +1,6 @@
 # Chiron: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 201; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found chiron in 188 of 193 chapter files (001–017, 019–027, 029–107, 109–140, 142–184, 186–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -229,7 +229,7 @@
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Chiron uses a status-based winter list and keeps inspection, task assignment, and authority distinct. He accepts Ianthe's clear copy and wind observation while limiting her to recording confirmed information. He does not assign Leandros authority based on parentage or age.
 - The fence remains braced pending a drainage review when the soil firms. Beckendorf repairs the Cabin One rail's lower bracket and schedules a heavy-rain recheck. The awning waits for calmer weather; the frost check remains scheduled for the first hard frost; the soil bank stays complete for now and the stool continues curing.
 - Thalia's heel is not reassessed in this chapter. Chiron's Chapter 193 plan remains active without a new medical decision.
@@ -237,10 +237,18 @@
 ### Chapter 201 · The Weather in the Room
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–202 chapter ledger](../chapter-ledgers/194-202.md).
 - Chiron reminds Ianthe that a schedule records tasks and conditions but does not assign people. He redirects her toward asking workers and recording their actual availability.
 - He does not approve ladder work while the wind shifts. Beckendorf also lacks the correct replacement strap; the awning remains unrepaired.
 - No new medical decision is made for Thalia. Her Chapter 193 heel plan continues without reassessment.
 
 **Current carry-forward at Ch201.** The awning still needs a calm interval, the correct strap, and an agreed worker. Thalia's heel remains under the existing plan without a new outcome.
 
+### Chapter 202 · Visit arranged with room to choose
+
+- **Knowledge provenance:** REPORTED BY SILENA.
+- **Source:** [Chapter 202](../../chapters/202-the-measure-of-a-gift.md); [194–202 ledger](../chapter-ledgers/194-202.md).
+- Chiron tells Silena that Amphitrite plans to spend several days at camp with Percy and Clarisse and leaves Silena free to join that time. He does not require a meeting or make it a test of family loyalty.
+- No heel reassessment occurs; his existing Chapter 193 plan remains scheduled for Chapter 204.
+
+**Carry-forward after Ch202.** Silena chooses some contact with Amphitrite while Clarisse chooses a different pace.

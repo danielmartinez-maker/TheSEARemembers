@@ -1,6 +1,6 @@
 # Amphitrite: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 202, with scoped new-arc notes; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found amphitrite in 79 of 193 chapter files (001–003, 005–014, 016–017, 019–021, 023, 025–026, 030, 032, 036, 038, 040–041, 044, 046–049, 052–053, 055, 058, 060–063, 069, 071–072, 076–077, 079–087, 089, 091, 097, 099–100, 112–114, 118, 120, 122–129, 131–132, 135–136, 138, 172, 190). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -149,3 +149,15 @@
 - **Knowledge boundary:** Amphitrite remains unaware of Percy's erased-future memories and his altered-childhood autobiographical memory gap. No letter or mailing is confirmed.
 
 **Current carry-forward at Ch197.** Amphitrite has made a new camp visit and shared a bounded conversation with Silena about her work. Silena has not chosen a maternal title; Clarisse's relationship remains on its separate path. Amphitrite has no new knowledge of Percy's private predicament, and no future visit schedule is established.
+
+### Chapter 202 · Several days at camp
+
+- **Knowledge provenance:** REPORTED BY SILENA / limited scene knowledge.
+- **Source:** [Chapter 202](../../chapters/202-the-measure-of-a-gift.md); [194–202 ledger](../chapter-ledgers/194-202.md).
+- Chiron tells Silena that Amphitrite plans to remain at camp for several days to spend time with Percy and Clarisse. Silena joins some of that time by choice.
+- Amphitrite sits with Silena while she paints, tries watercolor herself, and accepts an offered practice strip. Silena shares only uncertainty about whether her last letter to Maria arrived; Amphitrite does not learn its contents.
+- Amphitrite reflects that she can be impatient and is learning to ask without expecting a preferred answer. She asks before a goodbye hug, and Silena agrees; no title is discussed or requested.
+- Amphitrite invites Clarisse to walk. Clarisse declines, and Amphitrite does not press her. The sisters' relationships with Amphitrite remain separate.
+- Amphitrite is still not told about Percy's erased-future memories or altered-childhood memory gap.
+
+**Carry-forward after Ch202.** Amphitrite has a small watercolor strip from Silena, placed flat between pages. Silena's letter remains private, and no maternal title has been chosen by either sister. Amphitrite's multi-day stay does not resolve Clarisse's hurt or establish a finished family bond.

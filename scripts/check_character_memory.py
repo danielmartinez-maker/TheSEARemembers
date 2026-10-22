@@ -436,6 +436,15 @@ CHECKS = {
         "absent": ("I remember the future", "I had lived this life before",
                    "Thalia’s heel was healed"),
     },
+    "chapters/202-the-measure-of-a-gift.md": {
+        "present": ("I don’t know if the last letter got there.",
+                    "Would you like to keep it?",
+                    "A hug is okay.",
+                    "The letter to Maria stayed sealed."),
+        "absent": ("Silena called Amphitrite Mom",
+                   "I remember the future",
+                   "I had lived this life before"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

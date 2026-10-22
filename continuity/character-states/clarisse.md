@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 201; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -263,7 +263,7 @@
 **Historical carry-forward at Ch196.** Leandros has heard Clarisse’s anger directly; she has not decided whether to walk him tomorrow or promised closeness. The awning remains torn, the fence braced, the Cabin One rail and first-hard-frost check remain open. Annabeth re-glued her stool, which holds once but still needs curing. No new Poseidon visit, apology, or Amphitrite title is shown.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–201 ledger](../chapter-ledgers/194-201.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–202 ledger](../chapter-ledgers/194-202.md#L40).
 - Clarisse offers to speak to Leandros after he puts Silena on the spot, then respects Silena's decision to handle it herself. She does not mediate, take over Silena's boundary, or make the apology her own task.
 - She shares lunch with Amphitrite and does not make a maternal-title choice. Her anger toward Poseidon and relationship with Amphitrite remain unresolved.
 
@@ -272,7 +272,7 @@
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Clarisse refuses Leandros's claim that being the oldest Camp Three son of Poseidon gives him authority over the work list. She leaves him room to contribute observations and carry materials, but does not grant command or promise closeness.
 - She works with Annabeth and Beckendorf to inspect the Cabin One rail; the lower bracket is repaired, with a heavy-rain recheck still needed. Clarisse does not decide whether Leandros belongs. Silena points out that Clarisse answered the question she wanted rather than his question about staying; Clarisse stops and lets the answer remain uncertain.
 - Thalia's heel stays outside this chapter's decisions; no examination or reassessment occurs. No maternal title, forgiveness, or new Poseidon event is shown.
@@ -282,9 +282,19 @@
 ### Chapter 201 · The Weather in the Room
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Clarisse refuses Ianthe's unasked assignment to hold the awning canvas. She does not disclose why she is unavailable. Ianthe erases Clarisse's name but does not apologize; Clarisse leaves without granting trust or closeness.
 - The awning remains bent because the wind shifts and the correct strap is unavailable. Clarisse does not take over the work list or decide Ianthe's family place.
 
 **Current carry-forward at Ch201.** Clarisse's anger and history with Poseidon remain unresolved. Leandros has gained no authority or broad trust. Her relationship with Amphitrite follows its separate path, with no maternal title chosen.
 
+### Chapter 202 · A separate pace
+
+- **Knowledge provenance:** REPORTED TO SILENA / FIRSTHAND between sisters.
+- **Source:** [Chapter 202](../../chapters/202-the-measure-of-a-gift.md); [194–202 ledger](../chapter-ledgers/194-202.md).
+- Clarisse reports that Amphitrite invited her to walk and that she declined because she had somewhere else to be. She tells Silena that her refusal is not a request for Silena to refuse too.
+- Silena and Clarisse acknowledge that Silena liked the afternoon but does not yet know Amphitrite; Clarisse says the visit makes her nervous. Neither sister speaks for the other or requires the same choice.
+- Clarisse does not choose a maternal title, forgive Poseidon, or make Silena a mediator.
+- Clarisse temporarily reties the Cabin Three window blanket with cord; the proper pin remains needed.
+
+**Carry-forward after Ch202.** Clarisse's relationship with Amphitrite remains on its own timeline. Her no to one walk is respected and does not decide what she may choose later.

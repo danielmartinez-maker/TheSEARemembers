@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–201 are drafted on PR #103 at 82,608 body words across eight installments. Chapter 201 is 10,153 body words; Chapter 202 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–202 are drafted on PR #103 at 92,766 body words across nine installments. Chapter 202 is 10,158 body words; Chapter 203 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 
@@ -58,7 +58,7 @@ All titles are working titles. Each chapter is a full installment with one or mo
 | 199 | A Bed Beside the Window | Annabeth and Thalia negotiate Cabin One space, privacy, and the difference between protecting Ianthe and accepting her orders. Ianthe’s planning skill helps with a modest task but alienates its workers. |
 | 200 | The Winter List | Camp begins seasonal repairs using the unresolved Chapter 193 list. Leandros claims authority because he is older and Poseidon’s son; Clarisse refuses. Percy and Annabeth divide tasks in a grounded disagreement about how much to supervise. |
 | 201 | The Weather in the Room | Annabeth-limited POV reveals Ianthe’s planning habits and selective listening. Her first schedule ignores the people doing the work; Thalia and Annabeth offer distinct corrections, and Ianthe adopts the procedural change while resisting the relational one. |
-| 202 | The Measure of a Gift | Silena and Amphitrite share time around Silena’s individual creative work. Care is sustained, ordinary, and non-transactional. Silena’s own mother and history remain part of her life. |
+| 202 | The Measure of a Gift | Silena-limited, Tuesday–Saturday. Silena chooses to join parts of Amphitrite’s multi-day visit, shares watercolor practice, offers a small sample, and accepts a brief hug after being asked. Her letter to Maria stays sealed; Clarisse declines a walk without limiting Silena’s choice. No title is chosen. |
 | 203 | The Son Who Came Late | Percy and Leandros confront different meanings of Poseidon’s attention. Percy acknowledges his Atlantis privilege without pretending it filled the childhood memory gap. Leandros reveals resentment but turns it into an unfair accusation. |
 | 204 | One Week, Then Ask | Chiron reassesses Thalia’s heel on the schedule established in Ch193. Follow the result actually shown; do not jump straight to full recovery. Thalia makes her own choice about modified activity and Percy’s apology remains no demand. |
 | 205 | The Shape of No | Ianthe crosses Annabeth’s boundary while trying to manage her. Thalia initially intervenes too quickly; Annabeth asks both sisters to let her answer for herself. The relationship strain is specific and repaired in part. |

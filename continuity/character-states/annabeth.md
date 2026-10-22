@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 201; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -319,7 +319,7 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Carry-forward:** The map’s shore notes remain provisional. Annabeth remains Percy’s established partner and does not take responsibility for Leandros’s family bonds.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–201 ledger](../chapter-ledgers/194-201.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–202 ledger](../chapter-ledgers/194-202.md#L40).
 - Annabeth continues refining the provisional shore map with Percy. They share an ordinary affectionate moment while working; the map remains provisional and their relationship secure.
 - She is present when Silena returns from lunch but does not press her to explain. No memory secret is disclosed.
 
@@ -327,7 +327,7 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 ### Chapter 198 · The Face of Thunder
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–202 chapter ledger](../chapter-ledgers/194-202.md).
 - Annabeth meets Ianthe for the first time. She corrects Ianthe's assumption that Annabeth is younger; she is fourteen. Annabeth refuses an immediate bed change and remains the person who decides how she responds to her new sister.
 - Thalia nearly speaks for Annabeth during Ianthe's arrival, stops, and later asks how Annabeth wants her to intervene. Annabeth asks Thalia to check with her first; she wants Thalia beside her, not ahead of her. Their established sister bond remains secure.
 - Annabeth wants to know Ianthe but is not ready to decide shared-room arrangements. She is open to meeting again and offers no trust or forgiveness milestone.
@@ -336,7 +336,7 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 ### Chapter 199 · A Bed Beside the Window
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–202 chapter ledger](../chapter-ledgers/194-202.md).
 - Annabeth lets Ianthe show two bed plans but does not agree to move either existing bed. She will wait for Chiron's cot inspection and a shared decision; the room and window-side bed remain unresolved.
 - Annabeth chooses to help with the Big House blanket move. Ianthe's route plan is useful, but her orders alienate the workers; Annabeth does not excuse the behavior or make it her job to mediate.
 - Annabeth asks Thalia to wait before speaking for her. She decides she can invite Ianthe to breakfast the following day, but the invitation is not delivered in Chapter 199.
@@ -347,9 +347,19 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–202 ledger](../chapter-ledgers/194-202.md).
 - Annabeth invites Ianthe to breakfast and later measures Cabin One's loose rail with Clarisse and Beckendorf. Beckendorf repairs the lower bracket with a longer screw; the rail requires a recheck after heavy rain.
 - Annabeth refuses Ianthe's offer to join the inspection before the measurements are complete. She and Percy disagree when he wants to smooth Leandros's arrival and supervise the group. Annabeth names that her participation is not automatic agreement; they discuss it directly and remain a secure couple.
 - Her stool remains curing; the provisional shore map stays separate from Ianthe's weather chart. No bed, cot, or room arrangement is decided.
 
 **Historical carry-forward after Ch200.** Annabeth remains fourteen and Percy's established partner. She keeps her right to choose help and answers for herself. Ianthe's breakfast invitation is accepted, but the window-side bed and long-term placement remain unsettled. No erased-future memory is disclosed.
+
+### Chapter 202 · Route note with Percy
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 202](../../chapters/202-the-measure-of-a-gift.md); [194–202 ledger](../chapter-ledgers/194-202.md).
+- Annabeth and Percy work together on a map note for a muddy route. She marks both the dry route and a temporary alternative, and Percy holds the paper steady while she writes.
+- They disagree about how prominently to show the route's current condition, then settle the note without treating the disagreement as a relationship test. Their affection remains ordinary and secure.
+- Annabeth chooses to finish the note while Percy walks with Amphitrite, then meets him afterward.
+
+**Carry-forward after Ch202.** Her agency and established relationship remain intact; no erased-future memory is disclosed.
