@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -297,4 +297,13 @@
 - Clarisse does not choose a maternal title, forgive Poseidon, or make Silena a mediator.
 - Clarisse temporarily reties the Cabin Three window blanket with cord; the proper pin remains needed.
 
-**Carry-forward after Ch202.** Clarisse's relationship with Amphitrite remains on its own timeline. Her no to one walk is respected and does not decide what she may choose later.
+**Historical carry-forward after Ch202.** Clarisse's relationship with Amphitrite remains on its own timeline. Her no to one walk is respected and does not decide what she may choose later.
+
+### Chapter 203 · A separate response
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 203](../../chapters/203-the-son-who-came-late.md); [194–203 chapter ledger](../chapter-ledgers/194-203.md).
+- Clarisse joins several rounds of Spoons with Silena, Percy, Annabeth, and Leandros. Leandros argues over a rule after losing and later stops playing; Clarisse makes no promise about trusting or welcoming him.
+- At night, Clarisse tells Percy that her response to Leandros need not match Percy's. She does not oppose his place at the table, but says sitting with them is not a promise or proof of a sibling bond.
+- She does not witness the private Percy–Leandros conversation about Atlantis and does not learn Percy's altered-childhood memory gap from this chapter.
+- Her relationship with Amphitrite remains on its separate pace; she makes no maternal-title choice.
+**Carry-forward after Ch203.** Clarisse's response to Leandros remains her own. No trust or family-intimacy milestone is established.

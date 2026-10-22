@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–202 are drafted on PR #103 at 92,766 body words across nine installments. Chapter 202 is 10,158 body words; Chapter 203 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–203 are drafted on PR #103 at 102,864 body words across ten installments. Chapter 203, “The Son Who Came Late,” is 10,098 body words. Chapter 204 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 

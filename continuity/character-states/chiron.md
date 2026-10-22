@@ -1,6 +1,6 @@
 # Chiron: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found chiron in 188 of 193 chapter files (001–017, 019–027, 029–107, 109–140, 142–184, 186–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -251,4 +251,12 @@
 - Chiron tells Silena that Amphitrite plans to spend several days at camp with Percy and Clarisse and leaves Silena free to join that time. He does not require a meeting or make it a test of family loyalty.
 - No heel reassessment occurs; his existing Chapter 193 plan remains scheduled for Chapter 204.
 
-**Carry-forward after Ch202.** Silena chooses some contact with Amphitrite while Clarisse chooses a different pace.
+**Historical carry-forward after Ch202.** Silena chooses some contact with Amphitrite while Clarisse chooses a different pace.
+
+### Chapter 203 · Canoe-shed line review
+- **Knowledge provenance:** FIRSTHAND for the rope task; no knowledge of the later disclosure.
+- **Source:** [Chapter 203](../../chapters/203-the-son-who-came-late.md); [194–203 chapter ledger](../chapter-ledgers/194-203.md).
+- Chiron checks the worn line with Percy and Leandros. He explains which shelves stay dry and which covers are used most often, limits the frayed line to short labels, and has it cut beyond the lifted fibers before leaving with the work list.
+- Chiron leaves before Percy and Leandros talk about Atlantis. He does not learn Percy's altered-childhood memory gap from this chapter.
+- Thalia's heel is not assessed. Chiron's Chapter 193 plan and the Chapter 204 reassessment remain active.
+**Carry-forward after Ch203.** The canoe-shed labels and six drying coils are prepared. The earlier awning, fence, Cabin One rail, north-step, and stool items remain open; no medical decision changes.

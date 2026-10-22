@@ -398,3 +398,11 @@ These scoped updates link the chapter-specific records completed or corrected in
 - **Memory/canon repair:** Ch159 no longer gives Thalia an erased-future tree history. Annabeth alone identifies her prior-life grief; Thalia's current Grace-sister bond and firsthand altered-childhood memories remain distinct. Ch160's Monday narration now accurately says Thalia returned Friday.
 - **Remaining unknowns:** The 39-mark panel's architect and the gray feather's source/disposition remain UNKNOWN; exact calendar dates remain uncertain. Amphitrite is absent and learns nothing here about Percy's memory predicament.
 - **Coverage limit:** This section documents Chapters 152–160 with a Ch151 closing and Ch161 opening boundary check. The separate 161–166 ledger now covers Chapter 161 in full. Neither ledger nor mechanical QA certifies every character's cumulative memory across all 193 chapters or semantic/style quality.
+
+
+## October 22, 2026 source-anchored continuation · Chapter 203
+
+- **Source:** [Chapter 203](../chapters/203-the-son-who-came-late.md) and [current 194–203 ledger](chapter-ledgers/194-203.md).
+- Percy tells Leandros that he was raised in Atlantis and had a home and family there, while lacking autobiographical memories of being little. Leandros hears this firsthand and makes an unfair accusation about Percy's motives. This does not disclose erased-future memory or establish what Leandros knows about the time rewrite.
+- Annabeth's basin conversation precedes the private Percy–Leandros exchange; she does not witness that disclosure. Chiron leaves before it. Clarisse and Silena share the later game, not the shed conversation.
+- Leandros remains in Cabin Three without authority. Playing Spoons does not establish trust. Percy and Annabeth remain secure; the Chapter 204 heel reassessment and prior repair items remain open.

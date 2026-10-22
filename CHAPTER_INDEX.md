@@ -206,6 +206,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **200.** [The Winter List](chapters/200-the-winter-list.md)
 - **201.** [The Weather in the Room](chapters/201-the-weather-in-the-room.md)
 - **202.** [The Measure of a Gift](chapters/202-the-measure-of-a-gift.md)
+- **203.** [The Son Who Came Late](chapters/203-the-son-who-came-late.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

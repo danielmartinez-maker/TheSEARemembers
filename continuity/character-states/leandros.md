@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–201 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Chapters 194–203 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -74,5 +74,14 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - Leandros objects when Ianthe lists him beside a water task without asking. He argues with Annabeth that yesterday's runoff observation does not prove where the water starts; Annabeth distinguishes a route map from an inference. No drainage inspection or digging takes place.
 - He has met Ianthe twice, but this chapter does not establish a bond between them or with Annabeth. His status assumptions and desire to choose his own work persist; no authority or trust milestone occurs.
 
-**Current handoff at Ch201.** Leandros remains in Cabin Three without authority or broad trust. The fence stays braced pending a safe drainage review once the ground firms. Ianthe's schedule does not assign him; the new sibling relationships remain unsettled.
+**Historical handoff after Ch201.** Leandros remains in Cabin Three without authority or broad trust. The fence stays braced pending a safe drainage review once the ground firms. Ianthe's schedule does not assign him; the new sibling relationships remain unsettled.
 
+### Confirmed in Chapter 203
+
+- **Source:** [Chapter 203](../../chapters/203-the-son-who-came-late.md); [194–203 chapter ledger](../chapter-ledgers/194-203.md).
+- Leandros demonstrates practical rope knowledge in the canoe shed, including sorting wet lines, tying compact tags, and noticing wear. He overstates his authority, directs a younger camper without asking, and resists Chiron's line decision until a knot test exposes lifted fibers.
+- He tells Percy that the Atlantis family and home make Percy's missing childhood memory convenient; he assigns Percy motives and accuses him of using the gap to manage the conversation. Percy rejects the claim. Leandros does not apologize.
+- Leandros now knows Percy says he lacks autobiographical memories of being little in Atlantis while acknowledging that he had a home and family there. He does not learn about erased-future memory or the time rewrite.
+- He accepts Silena's invitation to try Spoons, plays several rounds, argues over a rule, and then chooses to leave. This creates no authority, trust, or reconciliation milestone.
+
+**Current handoff after Ch203.** Leandros remains in Cabin Three without authority or broad trust. His conflict with Percy over unequal fatherly attention and the meaning of Percy's Atlantis childhood remains unresolved. He has not apologized, and no one else learns about his private conversation with Percy.

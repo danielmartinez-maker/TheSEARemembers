@@ -92,7 +92,8 @@ Files: Chapters 200–205 and continuation handoffs.
 - [x] Verify 10,153 body words, Annabeth-limited POV, continuity YAML, updated 194–201 ledger, index, arc progress, and selected character-state notes.
 - [x] Ch202: sustained, non-transactional Amphitrite/Silena connection deepens; Silena chooses a multi-day visit, offers a watercolor practice strip, and accepts a brief hug without choosing a title. Her letter to Maria remains private; Clarisse chooses a different pace.
 - [x] Verify 10,158 body words by the repository’s whitespace-token method; Silena-limited, four scenes, continuity YAML, updated 194–202 ledger, index, arc progress, and selected character-state notes added.
-- [ ] Ch203: unequal fatherhood is discussed without equating Percy’s altered-memory gap with Leandros’s life.
+- [x] Ch203: Percy acknowledges Atlantis privilege and his autobiographical childhood gap without equating that gap with Leandros’s childhood; Leandros’s resentment turns into an unfair accusation, and the relationship remains unresolved.
+- [x] Verify 10,098 body words by the repository method; Percy-limited POV, five scenes, continuity YAML, 194–203 ledger/handoff, index, progress notes, and selected character-state updates added.
 - [ ] Ch204: Chiron’s scheduled reassessment follows Ch193’s plan and shows the actual result.
 - [ ] Ch205: Annabeth speaks for herself; Thalia learns when not to intervene.
 
@@ -138,8 +139,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **9/25**.
-- Arc body words: **92,766 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–202, index, chapter YAMLs, the current 194–202 ledger, and updated sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 203, addressing unequal fatherhood without equating Percy’s altered-memory gap with Leandros’s life.
+- Chapters complete: **10/25**.
+- Arc body words: **102,864 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–203, index, chapter YAMLs, the current 194–203 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 204, showing Chiron’s scheduled heel reassessment and Thalia’s choice without jumping to full recovery.
 

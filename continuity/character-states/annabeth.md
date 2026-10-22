@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -362,4 +362,13 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - They disagree about how prominently to show the route's current condition, then settle the note without treating the disagreement as a relationship test. Their affection remains ordinary and secure.
 - Annabeth chooses to finish the note while Percy walks with Amphitrite, then meets him afterward.
 
-**Carry-forward after Ch202.** Her agency and established relationship remain intact; no erased-future memory is disclosed.
+**Historical carry-forward after Ch202.** Her agency and established relationship remain intact; no erased-future memory is disclosed.
+
+### Chapter 203 · Basin conversation
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 203](../../chapters/203-the-son-who-came-late.md); [194–203 chapter ledger](../chapter-ledgers/194-203.md).
+- Annabeth meets Percy after his morning rope-sorting task. She says honestly that she does not know whether Leandros likes him and will not make Leandros's behavior sound kinder than it was.
+- She makes clear she will not translate Leandros or mediate between the brothers. Percy does not ask her to do so.
+- Annabeth leaves to take route notes to Chiron. She does not witness Percy's later conversation with Leandros or learn its details from this chapter.
+- Percy and Annabeth remain affectionate and secure; no erased-future memory is disclosed.
+**Carry-forward after Ch203.** Annabeth's agency and established relationship remain intact. She has not been appointed the interpreter for Percy and Leandros.

@@ -1,0 +1,65 @@
+chapter: 203
+title: "The Son Who Came Late"
+source: "chapters/203-the-son-who-came-late.md"
+status: "10,098 body words; scoped arc implementation and continuity review recorded"
+relative_chronology:
+  - "Begins on Sunday after the Saturday-night close of Chapter 202; no exact calendar date or year is established"
+  - "Percy and Leandros work at the canoe shed in the morning; later scenes follow the same day through Cabin Three at night"
+pov: "Percy Jackson, third-person limited"
+locations:
+  - "Canoe shed and freshwater canoe lake"
+  - "Outdoor basin"
+  - "Cabin Three main room and sleeping area"
+  - "Path between Cabin Three and Cabin One"
+people_knowledge_relationships:
+  percy:
+    - "Acknowledges to Leandros that Atlantis gave him a home, family, and material privilege; he does not pretend those gifts erase his lack of autobiographical memories of being little there"
+    - "Tells Leandros he knows he was raised there but cannot see or recall those early-childhood scenes"
+    - "Rejects Leandros's unfair claim that he uses the memory gap to control conversations or collect sympathy"
+    - "Wants Leandros to like him and is angry at him at the same time; he does not receive an apology or decide what their brotherhood means"
+    - "Shares ordinary, secure affection with Annabeth; he does not ask her to translate Leandros or disclose the erased future"
+  leandros:
+    - "Shows real, bounded rope and seamanship knowledge while sorting canoe-shed lines"
+    - "Orders a younger camper to move canvas rather than asking what space she needs; Percy redirects the canvas without turning the scene into a family lesson"
+    - "Accepts Chiron's decision to cut a worn line down for labels after a knot test shows the fray lifting"
+    - "Dismisses Percy's altered-childhood memory gap as convenient and assigns motives Percy rejects; he leaves the conflict unresolved and does not apologize"
+    - "Accepts Silena's invitation to try Spoons, plays several rounds, then chooses to stop; the game does not establish trust or authority"
+    - "Hears only Percy's account of his missing early Atlantis memories; he does not learn about erased-future autobiographical memories"
+  annabeth:
+    - "Meets Percy at the basin and makes clear she will not interpret Leandros's feelings or mediate between the brothers"
+    - "Percy and Annabeth remain affectionate and secure; Annabeth does not witness the later canoe-shed disclosure"
+  clarisse:
+    - "Plays Spoons and later tells Percy her response to Leandros need not match his; she does not commit to welcoming or trusting him"
+    - "Does not witness the private Percy–Leandros conversation at the shed"
+  silena:
+    - "Invites Leandros to join Spoons and lets him decide; she does not witness the private Percy–Leandros conversation"
+  chiron:
+    - "Supervises the practical line-sorting task and decides which material is safe for labels"
+    - "Leaves before Percy and Leandros discuss Atlantis; he does not learn Percy's memory gap from this chapter"
+work_and_health_states:
+  - item_or_event: "Canoe-shed lines"
+    last_seen: "Six usable coils are hung with room to dry; the worn length is cut back and reserved for short labels, not weight-bearing tie-offs."
+  - item_or_event: "Short line tag"
+    last_seen: "Leandros makes a short tag and Percy labels it short; it remains in the box beneath Leandros's cot."
+  - item_or_event: "Cabin Three window blanket"
+    last_seen: "The temporary cord still holds at the upper corner; the proper pin remains needed."
+  - item_or_event: "Thalia's heel"
+    last_seen: "No examination, reassessment, recovery, or clearance occurs; Chiron's scheduled Chapter 204 follow-up remains due."
+  - item_or_event: "Earlier camp repair list"
+    last_seen: "No new awning, fence, Cabin One rail, north-step, or stool work is completed."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither discloses them."
+  - "Leandros now knows Percy lacks autobiographical memories of being little in Atlantis, while also knowing Percy acknowledges that Atlantis gave him a home and family."
+  - "Leandros does not learn about Percy's erased-future memories or the time rewrite."
+  - "Annabeth, Clarisse, Silena, and Chiron do not witness the private Percy–Leandros disclosure; no one tells Amphitrite."
+  - "Ianthe, Poseidon, Zeus, and Amphitrite do not appear in this chapter; no new visit or knowledge is established."
+next_chapter_dependencies:
+  - "Continue without inventing an exact calendar date or year."
+  - "Leandros and Percy remain in conflict over unequal fatherly attention and the meaning of Percy's Atlantis childhood; no apology, forgiveness, trust milestone, or authority change occurs."
+  - "Thalia's heel remains under Chiron's Chapter 193 plan; the scheduled reassessment is due in Chapter 204."
+  - "The Cabin Three window blanket remains temporarily retied and still needs its proper pin."
+  - "Carry the open awning bracket, fence drainage review, Cabin One rail recheck, north-step frost check, and Annabeth's curing stool forward."
+unresolved_canon_questions:
+  - "Leandros's expectations of Poseidon and the rest of his new sibling group remain unstated beyond this disagreement."
+  - "The relationship between Percy and Leandros remains unsettled; joining a game does not resolve the unfair accusation."
+  - "The window blanket's proper pin and the outstanding camp repairs remain unresolved."

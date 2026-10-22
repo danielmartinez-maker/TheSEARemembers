@@ -445,6 +445,15 @@ CHECKS = {
                    "I remember the future",
                    "I had lived this life before"),
     },
+    "chapters/203-the-son-who-came-late.md": {
+        "present": ("I know I was raised there,",
+                    "I don’t have the memories of being little there.",
+                    "I had a home. I had people who knew me.",
+                    "You don’t get to decide why I say something,"),
+        "absent": ("I remember the future",
+                   "I had lived this life before",
+                   "I remember being little in Atlantis"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

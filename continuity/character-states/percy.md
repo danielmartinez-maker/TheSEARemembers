@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -366,4 +366,14 @@
 - Percy and Annabeth share familiar, affectionate moments and an ordinary meal. Their established relationship remains secure, including when they disagree about how to mark the route.
 - The scene does not disclose Percy's erased-future memories or his altered-childhood memory gap to Amphitrite, Silena, or Clarisse.
 
-**Carry-forward after Ch202.** No relationship reset or memory disclosure occurs.
+**Historical carry-forward after Ch202.** No relationship reset or memory disclosure occurs.
+
+### Chapter 203 · The Son Who Came Late
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 203](../../chapters/203-the-son-who-came-late.md); [194–203 chapter ledger](../chapter-ledgers/194-203.md).
+- Percy tells Leandros that he knows he was raised in Atlantis and had a home and family there, but he lacks autobiographical memories of being little there. He acknowledges the privilege without claiming it fills the gap or equating his altered-childhood memory with Leandros's life.
+- Leandros unfairly claims Percy uses the gap to control conversations and collect sympathy. Percy rejects Leandros's right to define his motives. Neither apologizes; Percy does not decide what their brotherhood means.
+- Percy and Annabeth remain secure and affectionate. Annabeth declines to translate Leandros or mediate, and does not witness the later disclosure.
+- Leandros joins several rounds of Spoons, then leaves; no trust or authority milestone follows. Percy and Clarisse discuss that her response to Leandros need not match his.
+- Percy does not reveal erased-future autobiographical memories.
+**Current carry-forward after Ch203.** Leandros knows Percy lacks autobiographical memories of being little in Atlantis and that Percy acknowledges having had a home there; he does not know about the erased future. Percy remains angry and wants Leandros to like him, but their relationship is unresolved. No apology, trust milestone, or authority change occurs.

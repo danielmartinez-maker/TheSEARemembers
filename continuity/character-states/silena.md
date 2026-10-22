@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 202; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -296,4 +296,12 @@
 - Percy and Annabeth share map work, an ordinary meal, and affectionate moments; their relationship remains secure. No memory is disclosed.
 - Silena sees Thalia at a distance with her existing splint; no one discusses or reassesses the heel.
 
-**Current carry-forward after Ch202.** The letter to Maria remains sealed with delivery and response unknown; the three-wave copy remains unfinished and unsent. Silena likes the time she spent with Amphitrite but does not yet know her well and has not chosen a title. Clarisse remains free to choose a different pace. The Cabin Three window blanket is temporarily retied with cord and still needs its proper pin.
+**Historical carry-forward after Ch202.** The letter to Maria remains sealed with delivery and response unknown; the three-wave copy remains unfinished and unsent. Silena likes the time she spent with Amphitrite but does not yet know her well and has not chosen a title. Clarisse remains free to choose a different pace. The Cabin Three window blanket is temporarily retied with cord and still needs its proper pin.
+
+### Chapter 203 · Cabin Three game
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 203](../../chapters/203-the-son-who-came-late.md); [194–203 chapter ledger](../chapter-ledgers/194-203.md).
+- Silena sets up Spoons and invites Leandros to join after he first chooses to watch. He decides to play and later stops; Silena does not force a welcome or interpret his relationship with Percy.
+- Silena does not witness the private Percy–Leandros conversation about Atlantis and does not learn Percy's altered-childhood memory gap from this chapter.
+- No new title, letter delivery, response from Maria, or change to Silena's watercolor work is shown.
+**Carry-forward after Ch203.** Silena's relationship with Amphitrite and Clarisse's separate pace remain distinct. Her letter to Maria stays sealed and her three-wave copy remains unfinished and unsent.
