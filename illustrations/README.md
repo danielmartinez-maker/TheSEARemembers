@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 90 of 210 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 95 of 210 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -546,3 +546,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/090-storm-and-sea.md)
 
 ![Five pinkies meet around a mug of hot chocolate in Cabin Three after the storm.](090-storm-and-sea.jpg)
+
+## 091. Tide Pools
+
+[Source chapter](../chapters/091-tide-pools.md)
+
+![Percy explores the tide pools with Clarisse and Silena, who sketches him in her book.](091-tide-pools.jpg)
+
+## 092. Jealousy II
+
+[Source chapter](../chapters/092-jealousy-ii.md)
+
+![Clarisse offers Percy a hand after a practice sweep as Annabeth checks on him.](092-jealousy-ii.jpg)
+
+## 093. Movie Night
+
+[Source chapter](../chapters/093-movie-night.md)
+
+![Clarisse and Silena hold hands during an emotional film while Percy and Annabeth share a blanket.](093-movie-night.jpg)
+
+## 094. Sick Day
+
+[Source chapter](../chapters/094-sick-day.md)
+
+![Silena brings tea as Annabeth reads beside sick Percy in the Poseidon cabin.](094-sick-day.jpg)
+
+## 095. Annabeth Sick
+
+[Source chapter](../chapters/095-annabeth-sick.md)
+
+![Percy keeps watch beside sick Annabeth while Thalia sleeps on the nearby cot.](095-annabeth-sick.jpg)
